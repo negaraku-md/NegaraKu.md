@@ -19,7 +19,7 @@ keyTakeaways:
   - "Ngai vàng Perak tuân theo một cái thang xếp hạng các tước hiệu hoàng gia (Raja Muda, Raja di-Hilir, Raja Kecil Besar và thấp hơn); khi một sultan qua đời, mỗi người thừa kế tiến lên một bậc, nên vương miện luân chuyển giữa các chi nhánh thay vì truyền từ cha sang con."
 appliesTo: "Độc giả, học sinh - sinh viên và nhà nghiên cứu muốn có cái nhìn tổng quan có dẫn nguồn về lịch sử hoàng gia Perak, nguồn gốc của nền cai trị thực dân Anh tại các Bang Mã Lai, và cách thức hoạt động của vương quốc Hồi giáo luân phiên của Malaysia."
 lang: "vi"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -87,7 +87,7 @@ Cuộc giao tranh phá hoại nền kinh tế thiếc và đe dọa các thươn
 
 ## Pangkor 1874 và vị Công sứ đã đi quá xa
 
-Ngày 20 tháng 1 năm 1874, trên con tàu hơi nước thực dân *Pluto* neo đậu ngoài khơi đảo Pangkor, Thống đốc các Khu định cư Eo biển (Straits Settlements), Sir Andrew Clarke, đã triệu tập các bên đến cái trở thành Thỏa ước Pangkor (hay Hiệp ước Pangkor). Thỏa thuận công nhận Raja Abdullah làm Sultan của Perak thay vì đối thủ của ông là Sultan Ismail, người đã từ chối tham dự và giữ lại vương huy. Nó dàn xếp các tranh chấp Larut bằng cách bổ nhiệm một Kapitan người Hoa và đổi tên huyện bị tàn phá bởi chiến tranh thành Taiping — "hòa bình vĩnh cửu."
+Ngày 20 tháng 1 năm 1874, trên con tàu hơi nước thực dân *Pluto* neo đậu ngoài khơi đảo Pangkor, Thống đốc các [Khu định cư Eo biển](/vi/malaysia/straits-settlements) (Straits Settlements), Sir Andrew Clarke, đã triệu tập các bên đến cái trở thành Thỏa ước Pangkor (hay Hiệp ước Pangkor). Thỏa thuận công nhận Raja Abdullah làm Sultan của Perak thay vì đối thủ của ông là Sultan Ismail, người đã từ chối tham dự và giữ lại vương huy. Nó dàn xếp các tranh chấp Larut bằng cách bổ nhiệm một Kapitan người Hoa và đổi tên huyện bị tàn phá bởi chiến tranh thành Taiping — "hòa bình vĩnh cửu."
 
 Điều khoản có hệ quả lớn nhất của nó lại lặng lẽ hơn. Một Công sứ Anh sẽ được đặt tại triều đình Perak, và vị sultan cam kết rằng lời khuyên của Công sứ "phải được hỏi đến và tuân theo trong mọi vấn đề ngoài những vấn đề đụng chạm đến tôn giáo và phong tục Mã Lai." Chỉ trong một câu, Perak đã đánh đổi đi phần lớn chủ quyền của mình. Mô hình Pangkor — cai trị gián tiếp thông qua một Công sứ "khuyên bảo" nhưng trên thực tế cai trị — sẽ được xuất khẩu khắp bán đảo và trở thành khuôn mẫu cho quyền kiểm soát của Anh đối với các Bang Mã Lai.
 

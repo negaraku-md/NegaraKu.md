@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 
 status: "published"
 aiAssisted: true
@@ -119,7 +119,7 @@ framework: history-culture
 | ペラ州歌が選ばれた理由 | 「マレー的要素を備えている」 |
 | 最初の公開演奏 | 1957年8月31日夜、Padang Kelab Selangor |
 
-国立公文書館の記録による委員会のメンバーは、Ya'acob Abdul Latiff、A.T. Reid、Ong Yoke Lin、Haji Mustapha Al-Bakri、Halimathon、ダト・アブドゥル・ラザク・フセイン（Dato' Abdul Razak Hussein）、W. Cropsである。
+国立公文書館の記録による委員会のメンバーは、Ya'acob Abdul Latiff、A.T. Reid、Ong Yoke Lin、Haji Mustapha Al-Bakri、Halimathon、ダト・[アブドゥル・ラザク・フセイン](/ja/malaysia/abdul-razak-hussein)（Dato' Abdul Razak Hussein）、W. Cropsである。
 
 マレーシア政府公式ポータルはさらに、1957年に楽曲コンテストが開催されたが適切な作品を得られず、トゥンク・アブドゥル・ラーマンがペラ州歌を基礎とすることを提案したと記している。同ポータルはまた、楽譜がAlfonso Soliano、D.S.P Croff、Captain Lenthall、A.T Reedによって仕上げられ、歌詞はトゥンク・アブドゥル・ラーマンを委員長とする特別委員会によって、マレー統治者（Raja-Raja Melayu）の裁可を得て起草されたと記録している。
 

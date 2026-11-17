@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 
 status: "published"
 aiAssisted: true
@@ -160,7 +160,7 @@ First Schedule 在条文表面就已经因州而异：**农历新年在吉兰丹
 | 假期 | 2026 年日期 |
 | --- | --- |
 | 元旦 | 1 月 1 日 |
-| 森美兰最高统治者诞辰 | 1 月 14 日 |
+| [森美兰最高统治者](/zh/malaysia/negeri-sembilan-royal-institution)诞辰 | 1 月 14 日 |
 | 登霄节 | 1 月 17 日 |
 | [大宝森节](/arts-culture/thaipusam) | 2 月 1 日 |
 | 联邦直辖区日 | 2 月 1 日 |

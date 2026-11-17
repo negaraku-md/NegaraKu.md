@@ -31,7 +31,7 @@ faq:
 
 
 lang: "ar"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | الاسم | Permodalan Nasional Berhad (PNB) |
-| التأسيس | 17 مارس 1978، كجزء من السياسة الاقتصادية الجديدة في ماليزيا |
+| التأسيس | 17 مارس 1978، كجزء من [السياسة الاقتصادية الجديدة](/ar/malaysia/new-economic-policy) في ماليزيا |
 | السَّلَف | Yayasan Pelaburan Bumiputra (YPB)، تأسست في 9 يناير 1978 |
 | التفويض | تنمية الثروة الاقتصادية لمجتمع البوميبوترا ولجميع الماليزيين |
 | الأصول المُدارة (AUM) | RM364 مليار (في نهاية 2025، بارتفاع 4.5% على أساس سنوي) |

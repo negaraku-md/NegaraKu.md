@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 
 status: "published"
 aiAssisted: true
@@ -81,11 +81,11 @@ framework: data-reference
 
 | # | 首相 | 在任期間 | 政党／連合 |
 |---|---|---|---|
-| 1 | トゥンク・アブドゥル・ラーマン | 1957年8月31日 – 1970年9月22日 | UMNO・アライアンス（Alliance） |
-| 2 | アブドゥル・ラザク（Abdul Razak Hussein） | 1970年9月22日 – 1976年1月14日 | UMNO・バリサン・ナショナル（Barisan Nasional）を結成（1973年） |
-| 3 | フセイン・オン（Hussein Onn） | 1976年1月15日 – 1981年7月16日 | UMNO・バリサン・ナショナル |
+| 1 | トゥンク・アブドゥル・ラーマン | 1957年8月31日 – 1970年9月22日 | UMNO・[アライアンス](/ja/malaysia/the-alliance)（Alliance） |
+| 2 | [アブドゥル・ラザク](/ja/malaysia/abdul-razak-hussein)（Abdul Razak Hussein） | 1970年9月22日 – 1976年1月14日 | UMNO・バリサン・ナショナル（Barisan Nasional）を結成（1973年） |
+| 3 | [フセイン・オン](/ja/malaysia/hussein-onn)（Hussein Onn） | 1976年1月15日 – 1981年7月16日 | UMNO・バリサン・ナショナル |
 | 4 | マハティール・モハマド（Mahathir Mohamad） *（第1次在任期）* | 1981年7月16日 – 2003年10月31日 | UMNO・バリサン・ナショナル |
-| 5 | アブドゥラ・アフマド・バダウィ（Abdullah Ahmad Badawi） | 2003年10月31日 – 2009年4月3日 | UMNO・バリサン・ナショナル |
+| 5 | [アブドゥラ・アフマド・バダウィ](/ja/malaysia/abdullah-ahmad-badawi)（Abdullah Ahmad Badawi） | 2003年10月31日 – 2009年4月3日 | UMNO・バリサン・ナショナル |
 | 6 | [ナジブ・ラザク](/malaysia/najib-razak)（Najib Razak） | 2009年4月3日 – 2018年5月9日 | UMNO・バリサン・ナショナル |
 | 7 | マハティール・モハマド（第2次在任期） | 2018年5月10日 – 2020年3月1日 | パカタン・ハラパン |
 | 8 | [ムヒディン・ヤシン](/malaysia/muhyiddin-yassin)（Muhyiddin Yassin） | 2020年3月1日 – 2021年8月16日 | ペリカタン・ナショナル |

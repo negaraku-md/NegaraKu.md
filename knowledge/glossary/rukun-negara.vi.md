@@ -34,7 +34,7 @@ faq:
     a: "Khát vọng (năm mục tiêu quốc gia như đoàn kết và xã hội công bằng) là mục đích muốn đạt tới, còn năm nguyên tắc là nền tảng và kim chỉ nam sống để đạt tới các khát vọng đó. Cả hai tạo thành lời tuyên thệ đầy đủ của Rukun Negara."
 
 lang: "vi"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ sự đoàn kết và hòa hợp của quốc gia một cách nghiêm trọng.
 Sau biến cố đó, hệ thống chính quyền nghị viện bị đình chỉ và
 một cơ quan quản lý khẩn cấp, **Hội đồng Vận hành Quốc gia (MAGERAN)**,
 được thành lập để khôi phục hòa bình. MAGERAN do Phó
-Thủ tướng khi đó, **Tun Abdul Razak Hussein**, làm chủ tịch.
+Thủ tướng khi đó, **[Tun Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein)**, làm chủ tịch.
 
 Dưới MAGERAN, Tun Abdul Razak thành lập ba cơ quan để khôi phục
 sự đoàn kết:

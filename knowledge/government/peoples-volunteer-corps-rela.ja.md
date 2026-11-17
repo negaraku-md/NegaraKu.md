@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ RELA はボランティア組織である。登録し、訓練を受け、呼び
 
 ## 起源：自警団からコンフロンタシへ
 
-RELA の系譜は20世紀半ばの民間防衛ボランティアにさかのぼる。その最も近い祖先は、1948年に宣言されたマラヤ非常事態の間に村を守るために設けられ、1960年に同非常事態が終わると解散した**自警団**（*Pasukan Simpanan Kampung*）である。**コンフロンタシ**——1963〜66年のインドネシア・マレーシア対決——の間、政府は再び地域の保安のために地域社会のボランティア部隊に頼り、警察と軍の補助的な目と耳として活動させた。
+RELA の系譜は20世紀半ばの民間防衛ボランティアにさかのぼる。その最も近い祖先は、1948年に宣言された[マラヤ非常事態](/ja/malaysia/the-emergency)の間に村を守るために設けられ、1960年に同非常事態が終わると解散した**自警団**（*Pasukan Simpanan Kampung*）である。**コンフロンタシ**——1963〜66年のインドネシア・マレーシア対決——の間、政府は再び地域の保安のために地域社会のボランティア部隊に頼り、警察と軍の補助的な目と耳として活動させた。
 
 現代の形の同隊は一般に**1972年**にさかのぼるとされ、その初期の法的な足場は**1964年非常事態（基本権限）法（Emergency (Essential Powers) Act 1964）**のもとで作られた規則——とりわけ *Essential (Ikatan Relawan Rakyat) Regulations*——によって与えられた。（1960年代のより古い規則は、一定の年齢の男性にボランティア奉仕を義務づけてさえいた；その義務は2005年に廃止された。）**2013年**、RELA は一部隊から正式な連邦の局である **Jabatan Sukarelawan Malaysia** へと昇格した。
 

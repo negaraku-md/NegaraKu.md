@@ -34,7 +34,7 @@ faq:
     a: "The aspirations (five national goals such as unity and a just society) are the ends to be achieved, while the five principles are the foundations and guides for living by which those aspirations are reached. Together they form the full pledge of the Rukun Negara."
 
 lang: "en"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ threatened the nation's unity and harmony.
 After that incident, the parliamentary system of government was suspended
 and an emergency administrative body, the **National Operations Council
 (MAGERAN)**, was established to restore peace. MAGERAN was chaired by the
-then Deputy Prime Minister, **Tun Abdul Razak Hussein**.
+then Deputy Prime Minister, **[Tun Abdul Razak Hussein](/en/malaysia/abdul-razak-hussein)**.
 
 Under MAGERAN, Tun Abdul Razak established three bodies to restore unity:
 

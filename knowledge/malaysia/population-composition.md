@@ -171,7 +171,7 @@ DOSM classifies a state as "ageing" once its 65-and-over share passes 7 per cent
 
 ## What's next
 
-For the constitutional and historical background to how Sabah and Sarawak's Bumiputera populations came to be counted as part of federal statistics in the first place, see the state profiles for [Sabah](/en/states/sabah) and [Sarawak](/en/states/sarawak), both of which entered the federation on terms set out in the Malaysia Agreement 1963.
+For the constitutional and historical background to how Sabah and Sarawak's Bumiputera populations came to be counted as part of federal statistics in the first place, see the state profiles for [Sabah](/en/states/sabah) and [Sarawak](/en/states/sarawak), both of which entered the federation on terms set out in the [Malaysia Agreement 1963](/malaysia/ma63).
 
 For the national unifying document that sits alongside — not in place of — Malaysia's ethnic statistics, see [Rukun Negara](/en/malaysia/rukun-negara).
 

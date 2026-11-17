@@ -34,7 +34,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang mencari gambaran ringkas dan be
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a584eeb2166da82e"
+sourceContentHash: "df191be2c335b5e8"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ Pada 14 Januari 1976 Abdul Razak, Perdana Menteri kedua Malaysia, meninggal duni
 semasa dalam jawatan. Hussein Onn mengangkat sumpah sebagai **Perdana Menteri ketiga
 negara pada 15 Januari 1976**. Beliau mewarisi sebuah negara yang masih menangani
 susulan pergolakan kaum 1969 dan program tindakan afirmatif menyeluruh yang telah
-dilancarkan Razak, dan beliau memerintah menerusi gabungan **Barisan Nasional**
+dilancarkan Razak, dan beliau memerintah menerusi gabungan [**Barisan Nasional**](/ms/malaysia/barisan-nasional)
 yang membawa parti Melayu, Cina dan India di bawah satu bumbung. Britannica
 menggambarkan kerajaannya sebagai sebuah gabungan berbilang kaum yang kekal secara amnya
 aman walaupun berterusan ketegangan kaum dan pemberontakan komunis yang berlarutan

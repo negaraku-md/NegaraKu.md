@@ -38,7 +38,7 @@ faq:
     a: "Ban Thư ký ASEAN đặt tại Jakarta, Indonesia. Nó do Tổng Thư ký ASEAN đứng đầu, hiện nay là Tiến sĩ Kao Kim Hourn của Cambodia."
 
 lang: "vi"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komu
 framework: explainer
 ---
 
-Vào ngày 8 tháng 8 năm 1967, năm người đàn ông tụ họp tại đại sảnh của tòa nhà Bộ Ngoại giao ở Bangkok và ký một văn kiện dài hai trang. Một trong số họ, Phó Thủ tướng Malaysia Tun Abdul Razak Hussein, đang đặt Malaysia vào một tổ chức mà về sau trở thành khung xương chính của chính sách đối ngoại quốc gia này trong gần sáu thập kỷ — và là tổ chức mà chính Malaysia làm chủ tịch vào năm 2025.
+Vào ngày 8 tháng 8 năm 1967, năm người đàn ông tụ họp tại đại sảnh của tòa nhà Bộ Ngoại giao ở Bangkok và ký một văn kiện dài hai trang. Một trong số họ, Phó Thủ tướng Malaysia [Tun Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein), đang đặt Malaysia vào một tổ chức mà về sau trở thành khung xương chính của chính sách đối ngoại quốc gia này trong gần sáu thập kỷ — và là tổ chức mà chính Malaysia làm chủ tịch vào năm 2025.
 
 ## Nhìn thoáng qua: Malaysia trong ASEAN
 

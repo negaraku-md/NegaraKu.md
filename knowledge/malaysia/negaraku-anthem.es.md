@@ -33,7 +33,7 @@ faq:
     a: "El Artículo 8(1) de la Ley 808 exige que todos los presentes se pongan firmes. El Artículo 8(3) dispone que quien a sabiendas falte al respeto al himno nacional en un lugar público podrá, de ser condenado, ser multado con una suma no superior a RM100 o encarcelado por un período no superior a un mes."
 
 lang: "es"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ Aquí es donde el registro oficial es más sólido. El Archivo Nacional de Malas
 | Razón por la que se eligió la canción de Perak | «Tener características malayas» |
 | Primera interpretación pública | Noche del 31 de agosto de 1957, Selangor Club Padang |
 
-Los miembros del comité registrados por el Archivo Nacional fueron Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein y W. Crops.
+Los miembros del comité registrados por el Archivo Nacional fueron Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/es/malaysia/abdul-razak-hussein) y W. Crops.
 
 El Portal Oficial del Gobierno de Malasia añade que en 1957 se celebró un concurso de canciones, pero no produjo una opción adecuada, por lo que Tunku Abdul Rahman propuso la canción del estado de Perak como base. El portal también registra que la partitura musical fue completada por Alfonso Soliano, D.S.P Croff, el capitán Lenthall y A.T Reed, mientras que la letra fue redactada por un comité especial presidido por Tunku Abdul Rahman con el consentimiento de los Gobernantes malayos.
 

@@ -31,7 +31,7 @@ verificationNeeded:
   - "วันที่ดำรงตำแหน่งควรได้รับการยืนยันกับสำนักงานนายกรัฐมนตรีและ Perdana Leadership Foundation Ismail Sabri Yaakob ยังคงเป็นนายกรัฐมนตรีรักษาการหลังการยุบรัฐสภา (10 ต.ค. 2022) จนกระทั่ง Anwar Ibrahim สาบานตนเข้ารับตำแหน่งเมื่อวันที่ 24 พฤศจิกายน 2022 — วันที่สิ้นสุดสะท้อนการโอนตำแหน่ง ในฐานะฉบับร่าง เรื่องนี้ต้องการผู้ตรวจทานที่เป็นมนุษย์ก่อนการเผยแพร่"
 
 lang: "th"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,11 +79,11 @@ framework: data-reference
 
 | # | นายกรัฐมนตรี | ดำรงตำแหน่ง | พรรค / แนวร่วม |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 ส.ค. 1957 – 22 ก.ย. 1970 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 22 ก.ย. 1970 – 14 ม.ค. 1976 | UMNO · ก่อตั้ง Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 ม.ค. 1976 – 16 ก.ค. 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 ส.ค. 1957 – 22 ก.ย. 1970 | UMNO · [Alliance](/th/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/th/malaysia/abdul-razak-hussein) | 22 ก.ย. 1970 – 14 ม.ค. 1976 | UMNO · ก่อตั้ง Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/th/malaysia/hussein-onn) | 15 ม.ค. 1976 – 16 ก.ค. 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(วาระที่ 1)* | 16 ก.ค. 1981 – 31 ต.ค. 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 ต.ค. 2003 – 3 เม.ย. 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/th/malaysia/abdullah-ahmad-badawi) | 31 ต.ค. 2003 – 3 เม.ย. 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 เม.ย. 2009 – 9 พ.ค. 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(วาระที่ 2)* | 10 พ.ค. 2018 – 1 มี.ค. 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 มี.ค. 2020 – 16 ส.ค. 2021 | Perikatan Nasional |

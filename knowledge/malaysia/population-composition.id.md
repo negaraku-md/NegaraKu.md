@@ -31,7 +31,7 @@ faq:
     a: "DOSM memecah Bumiputera Lain menjadi Bumiputera Sabah (55.3 persen dari kelompok itu, terdiri dari Kadazan/Dusun, Bajau, Murut, dan kelompok Bumiputera Sabah lain), Bumiputera Sarawak (32.3 persen, terdiri dari Iban, Bidayuh, Melanau, dan kelompok Bumiputera Sarawak lain), dan kelompok Bumiputera Semenanjung lain yang membentuk selebihnya."
 
 lang: "id"
-sourceContentHash: "6a6100396bc06f2b"
+sourceContentHash: "99342f6158195953"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -172,7 +172,7 @@ DOSM mengklasifikasikan sebuah negeri sebagai "menua" begitu porsi usia 65-ke-at
 
 ## Apa selanjutnya
 
-Untuk latar belakang konstitusional dan sejarah tentang bagaimana populasi Bumiputera Sabah dan Sarawak mulai dihitung sebagai bagian dari statistik federal, lihat profil negeri bagi [Sabah](/id/states/sabah) dan [Sarawak](/id/states/sarawak), yang keduanya menyertai federasi atas ketentuan yang ditetapkan dalam Perjanjian Malaysia 1963.
+Untuk latar belakang konstitusional dan sejarah tentang bagaimana populasi Bumiputera Sabah dan Sarawak mulai dihitung sebagai bagian dari statistik federal, lihat profil negeri bagi [Sabah](/id/states/sabah) dan [Sarawak](/id/states/sarawak), yang keduanya menyertai federasi atas ketentuan yang ditetapkan dalam [Perjanjian Malaysia 1963](/id/malaysia/ma63).
 
 Untuk dokumen pemersatu nasional yang ada di samping — bukan menggantikan — statistik etnik Malaysia, lihat [Rukun Negara](/id/malaysia/rukun-negara).
 

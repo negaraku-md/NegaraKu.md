@@ -91,7 +91,7 @@ Pahang fell under the authority of these Bendaharas. As the Johor empire fragmen
 
 Tun Ali's death set brother against brother. His will reportedly assigned the revenues of Kuantan and Endau to his younger son, Wan Ahmad, but the elder son, Tun Mutahir — who succeeded as Bendahara — did not honour that provision, later professing ignorance of it. Wan Ahmad, who argued he had the stronger claim because his mother was Tun Ali's principal wife, refused to accept his brother's rule.
 
-The result was the **Pahang Civil War**, fought between roughly 1857 and 1863. It was not a local quarrel alone: the conflict pulled in the neighbouring powers of a fracturing Malay world. Wan Ahmad drew support from the Terengganu sultanate to the north and from Siam, while the Temenggung of Johor was drawn into the rivalry on the other side. After years of campaigning, Wan Ahmad prevailed. Tun Mutahir retreated and, in 1863, fled toward Johor, where he died. Wan Ahmad became Raja Bendahara of Pahang that same year.
+The result was the **Pahang Civil War**, fought between roughly 1857 and 1863. It was not a local quarrel alone: the conflict pulled in the neighbouring powers of a fracturing Malay world. Wan Ahmad drew support from the [Terengganu sultanate](/malaysia/terengganu-sultanate) to the north and from Siam, while the Temenggung of Johor was drawn into the rivalry on the other side. After years of campaigning, Wan Ahmad prevailed. Tun Mutahir retreated and, in 1863, fled toward Johor, where he died. Wan Ahmad became Raja Bendahara of Pahang that same year.
 
 ## A sultanate revived: Sultan Ahmad al-Muadzam Shah
 
@@ -107,7 +107,7 @@ A few years later Pahang was bundled into a larger colonial structure. Sultan Ah
 
 ## The present house — and a king for Malaysia
 
-The Bendahara dynasty founded by Sultan Ahmad has reigned without a dynastic break into the present. After the Second World War, Pahang passed through the Malayan Union and the Federation of Malaya to independence in 1957, and its sultan became one of [the nine royal houses](/malaysia/nine-royal-houses) whose rulers elect the national monarch.
+The Bendahara dynasty founded by Sultan Ahmad has reigned without a dynastic break into the present. After the Second World War, Pahang passed through the [Malayan Union](/malaysia/malayan-union) and the Federation of Malaya to independence in 1957, and its sultan became one of [the nine royal houses](/malaysia/nine-royal-houses) whose rulers elect the national monarch.
 
 That connection became vivid in 2019. On 15 January 2019, Tengku Abdullah was proclaimed Sultan of [Pahang](/states/pahang) after the abdication of his father, Sultan Ahmad Shah. Just over a week later, on 24 January 2019, the Conference of Rulers elected him the **16th Yang di-Pertuan Agong** — Malaysia's king — with his reign beginning on 31 January, as Malaysiakini and other outlets reported at the time. He reigned as the federal monarch until January 2024. A throne revived on a provincial riverbank in 1881 had, within a few generations, produced a head of state for the whole nation.
 

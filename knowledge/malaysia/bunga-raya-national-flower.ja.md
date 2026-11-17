@@ -28,7 +28,7 @@ faq:
     a: "それは国内全域ですでに知られており、色と形が魅力的で、名称が統一されており、容易に入手でき、そして当時他のいかなる国の国花にもなっていなかったためである。"
 
 lang: "ja"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ framework: history-culture
 
 ## ハイビスカスは今日どこで使われているのか？
 
-国家の象徴の一つとして、ハイビスカスは[ジャルール・グミラン（Jalur Gemilang）](/malaysia/jalur-gemilang)（国旗）およびジャタ・ヌガラ（Jata Negara、国章）とともにマレーシアの公式な顔として位置づけられており、その図像は国家的な行事や祝典に頻繁に登場する。
+国家の象徴の一つとして、ハイビスカスは[ジャルール・グミラン（Jalur Gemilang）](/malaysia/jalur-gemilang)（国旗）および[ジャタ・ヌガラ](/ja/malaysia/coat-of-arms)（Jata Negara、国章）とともにマレーシアの公式な顔として位置づけられており、その図像は国家的な行事や祝典に頻繁に登場する。
 
 ## 次のステップ
 

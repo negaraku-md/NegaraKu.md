@@ -32,7 +32,7 @@ faq:
   - q: "Làng Mới đối mặt với những vấn đề đương đại nào?"
     a: "Các vấn đề thường gặp gồm quyền sở hữu đất (một số thửa được giữ theo Giấy phép Chiếm dụng Tạm thời / TOL hoặc giấy chủ quyền thuê 99 năm thay vì sở hữu vĩnh viễn), dân số già hóa và người trẻ di cư đi, cùng hạ tầng xuống cấp. Những năm gần đây cũng xuất hiện các sáng kiến đưa Làng Mới vào danh mục di sản và phục hồi cộng đồng qua tranh tường, lộ trình ẩm thực và lịch sử làng."
 lang: "vi"
-sourceContentHash: "53661275c9c0a492"
+sourceContentHash: "5a86ba6336d66776"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Bước vào Semenyih, Kampar hay Sekinchan ngày nay, điều bạn thấy phần lớn là dáng vẻ bình thường của một thị trấn nhỏ: những dãy nhà phố, một trường tiểu học tiếng Hoa, đền miếu và hội quán, quán cà phê ven đường và tiệm tạp hóa. Nhưng nhiều nơi trong số này cùng mang một bản sắc chung — chúng là "Làng Mới". Đằng sau cái tên tưởng chừng bình thản ấy là một lịch sử về Tình trạng Khẩn cấp Malaya, việc chống nổi dậy và cuộc di dời quy mô lớn.
+Bước vào Semenyih, Kampar hay Sekinchan ngày nay, điều bạn thấy phần lớn là dáng vẻ bình thường của một thị trấn nhỏ: những dãy nhà phố, một trường tiểu học tiếng Hoa, đền miếu và hội quán, quán cà phê ven đường và tiệm tạp hóa. Nhưng nhiều nơi trong số này cùng mang một bản sắc chung — chúng là "Làng Mới". Đằng sau cái tên tưởng chừng bình thản ấy là một lịch sử về [Tình trạng Khẩn cấp Malaya](/vi/malaysia/the-emergency), việc chống nổi dậy và cuộc di dời quy mô lớn.
 
 Làng Mới người Hoa là một loại hình cộng đồng định cư đặc thù ở Malaysia. Để hiểu nó, phải trở lại những năm từ 1948 đến 1960 được gọi là "Tình trạng Khẩn cấp Malaya" (Malayan Emergency). Bài viết này giải thích một cách mô tả và chừng mực về việc Làng Mới ra đời thế nào, đời sống dưới sự kiểm soát thuở ban đầu, và nó đã biến thành thị trấn ngày nay sau chiến tranh ra sao — không đưa ra phán xét chính trị với bất kỳ bên nào thời ấy.
 

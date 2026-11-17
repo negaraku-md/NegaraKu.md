@@ -30,7 +30,7 @@ faq:
     a: "Theo JKKN, DKK 1971 trở thành nền tảng cho Chính sách Văn hóa Quốc gia (DAKEN) 2021 dựa trên bảy trụ cột với thời kỳ thực hiện 2021-2025. JKKN cũng nêu rằng DKK 1971 chưa từng được phê chuẩn chính thức ở cấp Nội các, dù nó đã dẫn dắt việc quản lý trong khoảng 50 năm."
 
 lang: "vi"
-sourceContentHash: "8ad5677b6225effa"
+sourceContentHash: "13839d2ad5ad43f3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ Bài viết này trình bày bản ghi lịch sử và các quan điểm khác n
 
 ## Chính sách Văn hóa Quốc gia 1971 là gì?
 
-Chính sách Văn hóa Quốc gia là khung chính sách được hình thành qua Đại hội Văn hóa Quốc gia diễn ra năm 1971 tại Đại học Malaya, Kuala Lumpur. Đại hội đó do Bộ Văn hóa, Thanh niên và Thể thao tổ chức và do Thủ tướng khi ấy, Tun Abdul Razak Hussein, khai mạc.
+Chính sách Văn hóa Quốc gia là khung chính sách được hình thành qua Đại hội Văn hóa Quốc gia diễn ra năm 1971 tại Đại học Malaya, Kuala Lumpur. Đại hội đó do Bộ Văn hóa, Thanh niên và Thể thao tổ chức và do Thủ tướng khi ấy, Tun [Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein), khai mạc.
 
 Bối cảnh của chính sách này không thể tách rời khỏi bầu không khí sau sự kiện 13 tháng 5 năm 1969. Luận án học thuật của Đại học Sains Malaysia nghiên cứu sự phát triển của chính sách này ghi nhận rằng Chính sách Văn hóa Quốc gia được hình thành năm 1971 như một phần của nỗ lực xây dựng đoàn kết quốc gia trong một xã hội đa nguyên. Mục tiêu thường được nhắc đến là củng cố đoàn kết qua một bản sắc văn hóa được chia sẻ chung.
 

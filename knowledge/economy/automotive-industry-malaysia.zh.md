@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ce89b8f0036180e9"
+sourceContentHash: "ea4723a8cd060bef"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ framework: profile
 
 在 Proton 出现之前，日本制造商掌握着马来西亚汽车市场逾 70% 的份额，通过合资企业组装完全散件（CKD）套件。国内市场太小，任何一家都无法真正达到规模经济，整个行业本质上是披着外资外衣的进口替代。
 
-国产车项目改变了游戏规则。1980 年为推动重工业而设立的马来西亚重工业机构（HICOM）成为载体。1983 年，它作为一家合资企业创立了国家汽车工业公司（Proton）：HICOM 占 70%，三菱商事与三菱汽车共占其余 30%，总资本 RM150 million。Proton 不只是一家公司；它是产业政策，旨在培育本地零部件制造商基础，并在新经济政策（NEP）下扩大土著（Bumiputera）在制造业中的参与。
+国产车项目改变了游戏规则。1980 年为推动重工业而设立的马来西亚重工业机构（HICOM）成为载体。1983 年，它作为一家合资企业创立了国家汽车工业公司（Proton）：HICOM 占 70%，三菱商事与三菱汽车共占其余 30%，总资本 RM150 million。Proton 不只是一家公司；它是产业政策，旨在培育本地零部件制造商基础，并在[新经济政策](/zh/malaysia/new-economic-policy)（NEP）下扩大土著（Bumiputera）在制造业中的参与。
 
 第二个国产品牌于 1993 年问世。第二国家汽车工业公司（Perodua）作为围绕日本大发（Daihatsu）的合资企业成立，并从 1994 年起销售一款脱胎于大发 Mira 的紧凑型轿车。Perodua 终结了 Proton 近乎垄断的局面，随着时间推移，这家专注小型车的公司超越了它更年长的同胞，成为它至今仍保有的市场领导者。
 

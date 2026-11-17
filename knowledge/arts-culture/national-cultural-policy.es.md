@@ -30,7 +30,7 @@ faq:
     a: "Según el JKKN, la DKK de 1971 constituye la base de la Política de Cultura Nacional (DAKEN) de 2021, que se sustenta en siete pilares con un periodo de ejecución de 2021-2025. El JKKN también afirma que la DKK de 1971 nunca fue respaldada formalmente a nivel de gabinete, aunque orientó la administración durante unos 50 años."
 
 lang: "es"
-sourceContentHash: "8ad5677b6225effa"
+sourceContentHash: "13839d2ad5ad43f3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ Este artículo presenta de forma descriptiva el registro histórico y la gama de
 
 ## ¿Qué es la Política Cultural Nacional de 1971?
 
-La Política Cultural Nacional es un marco de políticas formulado a través del Congreso Cultural Nacional celebrado en 1971 en la Universidad de Malaya, Kuala Lumpur. El congreso fue organizado por el Ministerio de Cultura, Juventud y Deportes e inaugurado por el entonces primer ministro, Tun Abdul Razak Hussein.
+La Política Cultural Nacional es un marco de políticas formulado a través del Congreso Cultural Nacional celebrado en 1971 en la Universidad de Malaya, Kuala Lumpur. El congreso fue organizado por el Ministerio de Cultura, Juventud y Deportes e inaugurado por el entonces primer ministro, Tun [Abdul Razak Hussein](/es/malaysia/abdul-razak-hussein).
 
 El trasfondo de la política no puede separarse del clima posterior al incidente del 13 de mayo de 1969. Una tesis académica de la Universiti Sains Malaysia que estudió el desarrollo de esta política registra que la Política Cultural Nacional se formó en 1971 como parte del esfuerzo por construir la unidad nacional dentro de una sociedad plural. El objetivo citado con frecuencia era reforzar la unidad mediante una identidad cultural única y compartida.
 

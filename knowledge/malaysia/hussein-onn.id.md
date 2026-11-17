@@ -28,7 +28,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang mencari gambaran ringkas dan ber
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a584eeb2166da82e"
+sourceContentHash: "df191be2c335b5e8"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -115,7 +115,7 @@ Pada 14 Januari 1976 Abdul Razak, Perdana Menteri kedua Malaysia, wafat di Londo
 selagi menjabat. Hussein Onn dilantik sebagai **Perdana Menteri ketiga** negara itu
 **pada 15 Januari 1976**. Ia mewarisi sebuah bangsa yang masih menyelesaikan dampak
 kerusuhan rasial 1969 dan program tindakan afirmatif menyeluruh yang telah diluncurkan
-Razak, dan ia memerintah melalui koalisi **Barisan Nasional** yang menyatukan
+Razak, dan ia memerintah melalui koalisi [**Barisan Nasional**](/id/malaysia/barisan-nasional) yang menyatukan
 partai-partai Melayu, Tionghoa, dan India di bawah satu atap. Britannica menggambarkan
 pemerintahannya sebagai koalisi multirasial yang tetap umumnya damai meskipun
 ketegangan komunal berlanjut dan pemberontakan komunis masih membayangi — sebuah

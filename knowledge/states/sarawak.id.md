@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "id"
-sourceContentHash: "fe6d42d875ef660f"
+sourceContentHash: "dc6f821d38c2946d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Sarawak. Pariwisata, yang dibangun berlandaskan hutan hujan, taman nasional
 dan budaya masyarakat adat negeri ini, merupakan penyumbang yang lebih kecil tetapi semakin
 berkembang. Sarawak juga telah mengejar otonomi fiskal yang lebih besar dari
 pemerintah federal, termasuk perundingan mengenai tarif royalti minyak dan hak hasil
-negeri yang terikat dengan kedudukannya di bawah Perjanjian Malaysia 1963.
+negeri yang terikat dengan kedudukannya di bawah [Perjanjian Malaysia 1963](/id/malaysia/ma63).
 
 ## Menjalankan bisnis di sini
 

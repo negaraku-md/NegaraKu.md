@@ -28,7 +28,7 @@ appliesTo: "希望获得一份简明、有据可查概览的读者、学生与�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a584eeb2166da82e"
+sourceContentHash: "df191be2c335b5e8"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -102,7 +102,7 @@ framework: profile
 
 1976年1月14日，马来西亚第二任首相阿都拉萨在任内于伦敦逝世。胡先翁于 **1976年1月15日宣誓就任国家第三任
 首相**。他继承了一个仍在处理1969年种族动乱余波、以及拉萨所推出之大规模平权行动计划的国家，并透过把马来、
-华人与印度政党聚于一帐之下的 **国阵（Barisan Nasional）** 联盟来治理。大英百科全书把他的政府描述为一个
+华人与印度政党聚于一帐之下的 [**国阵（Barisan Nasional）**](/zh/malaysia/barisan-nasional) 联盟来治理。大英百科全书把他的政府描述为一个
 多元种族的联盟，尽管持续存在族群紧张与挥之不去的共产党叛乱，却大体维持和平——这是一种界定了他任内基调的
 艰难平衡。
 

@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -119,7 +119,7 @@ framework: history-culture
 | 霹雳州歌获选原因 | 「具有马来特色」 |
 | 首次公开演奏 | 1957年8月31日夜晚，雪兰莪俱乐部草场 |
 
-国家档案局记录的委员会成员包括Ya'acob Abdul Latiff、A.T. Reid、Ong Yoke Lin、Haji Mustapha Al-Bakri、Halimathon、拿督阿都拉萨（Dato' Abdul Razak Hussein）与W. Crops。
+国家档案局记录的委员会成员包括Ya'acob Abdul Latiff、A.T. Reid、Ong Yoke Lin、Haji Mustapha Al-Bakri、Halimathon、拿督[阿都拉萨](/zh/malaysia/abdul-razak-hussein)（Dato' Abdul Razak Hussein）与W. Crops。
 
 马来西亚政府官方门户网站补充说明，1957年曾举办一场征歌比赛，但未能选出合适的作品，于是东姑阿都拉曼提议以霹雳州歌作为基础。该门户网站还记载，乐谱由Alfonso Soliano、D.S.P Croff、Captain Lenthall与A.T Reed完成，而歌词则由一个特别委员会草拟，该委员会由东姑阿都拉曼担任主席，并获马来统治者们（Raja-Raja Melayu）恩准。
 

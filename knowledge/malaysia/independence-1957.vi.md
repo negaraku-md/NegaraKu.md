@@ -30,7 +30,7 @@ faq:
     a: "Cả hai khoảnh khắc đều có thật. Việc chuyển giao chủ quyền về mặt pháp lý có hiệu lực lúc nửa đêm ngày 31 tháng 8 năm 1957, được đánh dấu bằng lễ cờ tại padang (sân) ở Kuala Lumpur. Buổi lễ tuyên ngôn công khai, với tiếng hô Merdeka bảy lần, diễn ra sau đó vào sáng cùng ngày tại Stadium Merdeka."
 
 lang: "vi"
-sourceContentHash: "9d15ea63aee3b87b"
+sourceContentHash: "ca15cfa45f8cdedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,7 +71,7 @@ Vài phút sau nửa đêm ngày 31 tháng 8 năm 1957, trên padang (sân) trư
 
 ## Phái đoàn đi hỏi
 
-Vào tháng 1 năm 1956, một phái đoàn Đảng Liên minh Alliance — người Mã Lai, người Hoa và người Ấn thương lượng như một khối duy nhất, do Tunku Abdul Rahman dẫn dắt — đến London để đặt một câu hỏi cụ thể cho chính phủ Anh: khi nào, và với những điều khoản gì, Malaya sẽ trở thành tự trị? Câu trả lời họ mang về không phải là sự trấn an mơ hồ. Anh đồng ý về nguyên tắc về nền độc lập vào tháng 8 năm 1957, với điều kiện một hiến pháp khả thi được đưa vào trước. Chuyến đi duy nhất đó đã chuyển "một ngày nào đó" thành một hạn chót, và mọi thứ theo sau được xây dựng để đáp ứng nó.
+Vào tháng 1 năm 1956, một phái đoàn [Đảng Liên minh Alliance](/vi/malaysia/the-alliance) — người Mã Lai, người Hoa và người Ấn thương lượng như một khối duy nhất, do Tunku Abdul Rahman dẫn dắt — đến London để đặt một câu hỏi cụ thể cho chính phủ Anh: khi nào, và với những điều khoản gì, Malaya sẽ trở thành tự trị? Câu trả lời họ mang về không phải là sự trấn an mơ hồ. Anh đồng ý về nguyên tắc về nền độc lập vào tháng 8 năm 1957, với điều kiện một hiến pháp khả thi được đưa vào trước. Chuyến đi duy nhất đó đã chuyển "một ngày nào đó" thành một hạn chót, và mọi thứ theo sau được xây dựng để đáp ứng nó.
 
 ## Viết cuốn cẩm nang trước bữa tiệc
 

@@ -28,7 +28,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen una visión gener
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a584eeb2166da82e"
+sourceContentHash: "df191be2c335b5e8"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -114,7 +114,7 @@ El 14 de enero de 1976 Abdul Razak, segundo primer ministro de Malasia, murió e
 estando en el cargo. Hussein Onn fue juramentado como **tercer primer
 ministro del país el 15 de enero de 1976**. Heredó una nación que todavía trabajaba a través de las
 secuelas de los disturbios raciales de 1969 y del amplio programa de acción afirmativa
-que Razak había lanzado, y gobernó a través de la coalición **Barisan Nasional**
+que Razak había lanzado, y gobernó a través de la coalición [**Barisan Nasional**](/es/malaysia/barisan-nasional)
 que reunía a partidos malayos, chinos e indios bajo una sola carpa. Britannica
 describe su gobierno como una coalición multirracial que se mantuvo generalmente
 pacífica pese a las continuas tensiones comunales y a una persistente insurgencia

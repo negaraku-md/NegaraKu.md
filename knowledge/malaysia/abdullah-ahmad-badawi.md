@@ -98,7 +98,7 @@ Supporters saw Islam Hadhari as a moderate, modernising counterweight to more ri
 
 ## The 2004 landslide and the 2008 "political tsunami"
 
-Riding his reformist appeal, Abdullah led the ruling **Barisan Nasional (BN)** coalition to a crushing victory at the **general election of 21 March 2004**, winning the great majority of parliamentary seats — one of the strongest mandates any Malaysian government has received.
+Riding his reformist appeal, Abdullah led the ruling [**Barisan Nasional (BN)**](/malaysia/barisan-nasional) coalition to a crushing victory at the **general election of 21 March 2004**, winning the great majority of parliamentary seats — one of the strongest mandates any Malaysian government has received.
 
 The **2008 general election** told the opposite story. On 8 March 2008, BN **lost its two-thirds majority in Parliament** for the first time since 1969 and ceded control of several state governments to a resurgent opposition — an outcome widely described in the Malaysian and international press as a **"political tsunami."** Analysts attribute the swing to rising prices, dissatisfaction over corruption and governance, ethnic-minority grievances, and sustained public criticism, including from Abdullah's own predecessor. Under pressure, Abdullah announced he would not defend the UMNO presidency and set out a timetable to hand over power.
 

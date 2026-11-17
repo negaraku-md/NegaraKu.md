@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs, étudiants et chercheurs souhaitant comprendre les origines de la monarchie du Kelantan, son contexte patanais et siamois, et la façon dont l'une des neuf maisons royales de Malaisie prit sa forme moderne."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "30b2455886499938"
+sourceContentHash: "7959d9e4e2088c71"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -69,7 +69,7 @@ Voici l'histoire de la façon dont ce sultanat se constitua, de la raison pour l
 
 ## Avant l'unification : le Kelantan, Melaka et l'attraction de Patani
 
-Le Kelantan est ancien. Des traces archéologiques de peuplement remontent à la préhistoire, et le Kelantan primitif fut touché tour à tour par les mondes commerciaux et politiques du Funan, de Srivijaya, du royaume khmer, de Majapahit, du Champa et du Siam. Au début du quinzième siècle, c'était un centre commercial notable sous un souverain islamique, et en 1499 il est consigné comme vassal du [Sultanat de Melaka](/fr/malaysia/melaka-sultanate), alors la puissance dominante des détroits.
+Le Kelantan est ancien. Des traces archéologiques de peuplement remontent à la préhistoire, et le Kelantan primitif fut touché tour à tour par les mondes commerciaux et politiques du Funan, de [Srivijaya](/fr/malaysia/srivijaya), du royaume khmer, de Majapahit, du Champa et du Siam. Au début du quinzième siècle, c'était un centre commercial notable sous un souverain islamique, et en 1499 il est consigné comme vassal du [Sultanat de Melaka](/fr/malaysia/melaka-sultanate), alors la puissance dominante des détroits.
 
 Lorsque Melaka tomba aux mains des Portugais en 1511, cette ancre méridionale disparut, et le Kelantan dériva dans l'orbite d'une puissance différente : Patani, le royaume malais immédiatement au nord, dans ce qui est aujourd'hui le sud de la Thaïlande. Selon l'Encyclopaedia Britannica et d'autres histoires, des chefs locaux gouvernaient un Kelantan fragmenté et payaient tribut à Patani, et au XVIIe siècle la plupart lui étaient effectivement soumis. Les deux régions partageaient langue, coutume, religion et lignées régnantes ; la frontière qui sépare aujourd'hui la « Malaisie » de la « Thaïlande » n'existait pas encore. Ce lien profond avec Patani est essentiel à l'origine du sultanat — car l'homme qui allait unifier le Kelantan venait exactement de ce monde.
 
@@ -77,7 +77,7 @@ Lorsque Melaka tomba aux mains des Portugais en 1511, cette ancre méridionale d
 
 L'État moderne du Kelantan fut soudé dans la seconde moitié du dix-huitième siècle, au terme d'une longue lutte entre rajas locaux. La figure à qui l'on attribue cette unification est **Long Yunus**, décrit dans les récits standard comme un chef de guerre aristocrate d'origine patanaise.
 
-Son ascension passa par le sang et l'exil. Après que son père fut tué en 1756, Long Yunus s'enfuit vers le sultanat voisin de Terengganu, dont le souverain finit par soutenir sa quête du pouvoir. Revenant à la tête de ce soutien, il vainquit ses rivaux et se proclama Raja de Kelantan, devenant le fondateur de l'État moderne. Les sources divergent sur l'année précise — les récits situent son accession autour de 1760, 1763, 1764 ou le milieu des années 1770 — mais toutes s'accordent sur le fait que l'unification décisive appartient aux années 1760-1770, et que c'est de Long Yunus que descend la maison royale actuelle.
+Son ascension passa par le sang et l'exil. Après que son père fut tué en 1756, Long Yunus s'enfuit vers le [sultanat voisin de Terengganu](/fr/malaysia/terengganu-sultanate), dont le souverain finit par soutenir sa quête du pouvoir. Revenant à la tête de ce soutien, il vainquit ses rivaux et se proclama Raja de Kelantan, devenant le fondateur de l'État moderne. Les sources divergent sur l'année précise — les récits situent son accession autour de 1760, 1763, 1764 ou le milieu des années 1770 — mais toutes s'accordent sur le fait que l'unification décisive appartient aux années 1760-1770, et que c'est de Long Yunus que descend la maison royale actuelle.
 
 Long Yunus mourut en 1795, et pendant quelques années le Kelantan retomba sous la suzeraineté de Terengganu. L'élévation formelle de la dynastie vint avec son fils, **Long Muhammad**, qui se déclara **Sultan Muhammad Ier** vers 1800 et fut installé comme souverain dans les années qui suivirent. Avec ce titre, la conquête d'un chef de guerre devint un sultanat — l'institution qui perdure aujourd'hui.
 

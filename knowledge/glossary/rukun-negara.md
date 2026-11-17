@@ -144,7 +144,7 @@ perpaduan dan keharmonian negara secara serius.
 Selepas peristiwa itu, sistem pemerintahan berparlimen digantung dan
 sebuah badan pentadbir darurat, **Majlis Gerakan Negara (MAGERAN)**,
 ditubuhkan untuk memulihkan keamanan. MAGERAN dipengerusikan oleh Timbalan
-Perdana Menteri ketika itu, **Tun Abdul Razak Hussein**.
+Perdana Menteri ketika itu, **[Tun Abdul Razak Hussein](/malaysia/abdul-razak-hussein)**.
 
 Di bawah MAGERAN, Tun Abdul Razak menubuhkan tiga badan untuk memulihkan
 perpaduan:

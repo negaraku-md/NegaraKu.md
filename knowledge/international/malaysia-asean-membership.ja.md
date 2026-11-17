@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 
 status: "published"
 aiAssisted: true
@@ -132,7 +132,7 @@ framework: explainer
 ---
 
 1967年8月8日、5人の男たちがバンコクの外務省本館の大広間に集まり、2ページの文書に
-署名した。そのうちの一人、マレーシア副首相トゥン・アブドゥル・ラザク・フセイン
+署名した。そのうちの一人、マレーシア副首相[トゥン・アブドゥル・ラザク・フセイン](/ja/malaysia/abdul-razak-hussein)
 （Tun Abdul Razak Hussein）は、この国の外交政策の主要な枠組みとして今後およそ60年
 にわたって機能することになる組織――そしてマレーシア自身が2025年に議長国を務める
 ことになる組織――にマレーシアを位置づけつつあった。

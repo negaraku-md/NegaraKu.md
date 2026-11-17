@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Étudiants, chercheurs, voyageurs et toute personne cherchant un aperçu sourcé de l'histoire royale du Kedah et de sa place parmi les monarchies malaises de Malaisie."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "3ad93d074a6c5192"
+sourceContentHash: "08adb6bfb26200c1"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Peu de lieux en Malaisie portent leur passé aussi ouvertement que le Kedah. Bien avant que les minarets ne s'élèvent au-dessus d'Alor Setar, la plaine verte de rizières entre les rivières Merbok et Muda était un point d'accostage pour les marchands qui chevauchaient les vents de la mousson entre l'Inde, la Chine et le monde malais. Marins et érudits connaissaient cette côte sous le nom de Kadaram ou Kataha ; les archéologues la connaissent aujourd'hui par les tertres de temples de la vallée de Bujang. De ce commencement cosmopolite, hindou-bouddhique, est née une monarchie malaise qui allait traverser Srivijaya et les Chola, Ayutthaya et Bangkok, et enfin l'Empire britannique.
+Peu de lieux en Malaisie portent leur passé aussi ouvertement que le Kedah. Bien avant que les minarets ne s'élèvent au-dessus d'Alor Setar, la plaine verte de rizières entre les rivières Merbok et Muda était un point d'accostage pour les marchands qui chevauchaient les vents de la mousson entre l'Inde, la Chine et le monde malais. Marins et érudits connaissaient cette côte sous le nom de Kadaram ou Kataha ; les archéologues la connaissent aujourd'hui par les tertres de temples de la vallée de Bujang. De ce commencement cosmopolite, hindou-bouddhique, est née une monarchie malaise qui allait traverser [Srivijaya](/fr/malaysia/srivijaya) et les Chola, Ayutthaya et Bangkok, et enfin l'Empire britannique.
 
 Ce qui rend le Kedah remarquable n'est pas seulement son âge, mais sa continuité. La maison royale de Mahawangsa règne encore, fil vivant qui court de la légende jusqu'à une monarchie constitutionnelle au sein de la Malaisie moderne. Voici l'histoire de cette lignée, racontée dans la mesure où les sources le permettent et prudente là où elles divergent.
 

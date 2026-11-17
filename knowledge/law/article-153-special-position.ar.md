@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يبحث عن عرضٍ وصفي فقرةً فقرةً لما تنص عليه المادة 153 وما تستثنيه، دون الفصل في الجدل السياسي الدائر حولها."
 
 lang: "ar"
-sourceContentHash: "db5076f747cd8ba7"
+sourceContentHash: "91d4996a886b6aaa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ framework: explainer
 
 أكّدت الحكومة الماليزية علناً على الحكم. ففي فبراير 2024، ورداً على دعوة أحد النواب إلى إعادة تقييم ما إذا كانت سياسة التمييز الإيجابي الكامنة ما زالت تفيد المستفيدين المقصودين منها، قال رئيس الوزراء أنور إبراهيم إن الحكومة "will continue upholding the position of the Constitution, including Article 153" — أي ستواصل التمسك بموقف الدستور، بما في ذلك المادة 153 — وفقاً لبيانٍ صادر عن مكتب رئيس الوزراء.
 
-وعلى نحوٍ منفصل، في تعليقٍ قانوني أعاد نشره Malaysian Bar (نشره أصلاً راجا عزيز أدروس وهيلين تينغ في New Sunday Times، 22 يونيو 2008)، يكتب المؤلفان أن الأحكام الدستورية المتعلقة بـ«المكانة الخاصة» قد "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — أي فُهِمت أكثرَ بوصفها تدبيراً حمائياً لمجتمع المالايو الذي كان حينها متأخراً اجتماعياً واقتصادياً — ويشيران إلى أن "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — أي أن خمساً من فقرات المادة 153 الاثنتي عشرة تهدف إلى تقييد نطاق تطبيقها. ويخلصان إلى أنه "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — أي لا أساس للزعم بأن إلغاء السياسة الاقتصادية الجديدة (NEP) يستلزم بالضرورة تعديل المادة 153 أو إلغاءها — وهو موقفٌ يميّز النص الدستوري للمادة 153 عن الإطار السياسي المنفصل للسياسة الاقتصادية الجديدة.
+وعلى نحوٍ منفصل، في تعليقٍ قانوني أعاد نشره Malaysian Bar (نشره أصلاً راجا عزيز أدروس وهيلين تينغ في New Sunday Times، 22 يونيو 2008)، يكتب المؤلفان أن الأحكام الدستورية المتعلقة بـ«المكانة الخاصة» قد "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — أي فُهِمت أكثرَ بوصفها تدبيراً حمائياً لمجتمع المالايو الذي كان حينها متأخراً اجتماعياً واقتصادياً — ويشيران إلى أن "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — أي أن خمساً من فقرات المادة 153 الاثنتي عشرة تهدف إلى تقييد نطاق تطبيقها. ويخلصان إلى أنه "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — أي لا أساس للزعم بأن إلغاء السياسة الاقتصادية الجديدة (NEP) يستلزم بالضرورة تعديل المادة 153 أو إلغاءها — وهو موقفٌ يميّز النص الدستوري للمادة 153 عن الإطار السياسي المنفصل لـ[السياسة الاقتصادية الجديدة](/ar/malaysia/new-economic-policy).
 
 ## ما التالي
 

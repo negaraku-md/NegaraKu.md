@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "es"
-sourceContentHash: "fe6d42d875ef660f"
+sourceContentHash: "dc6f821d38c2946d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ tropicales, los parques nacionales y las culturas indígenas del estado, es un
 contribuyente menor pero en crecimiento. Sarawak también ha buscado una mayor
 autonomía fiscal frente al gobierno federal, incluidas las negociaciones sobre las
 tasas de regalías petroleras y los derechos sobre los ingresos estatales ligados a
-su posición en virtud del Acuerdo de Malasia de 1963.
+su posición en virtud del [Acuerdo de Malasia de 1963](/es/malaysia/ma63).
 
 ## Hacer negocios aquí
 

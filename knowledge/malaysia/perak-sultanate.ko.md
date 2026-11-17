@@ -21,7 +21,7 @@ appliesTo: "페락의 왕실 역사, 말레이 주들에서 영국 식민 통치
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,7 +87,7 @@ framework: history-culture
 
 ## 1874년 팡코르, 그리고 너무 멀리 나간 레지던트
 
-1874년 1월 20일, 팡코르섬(Pangkor Island) 앞바다에 정박한 식민지 증기선 *플루토(Pluto)*호 선상에서 해협식민지 총독 앤드루 클라크 경(Sir Andrew Clarke)은 각 당사자를 소집하여, 팡코르 협정(Pangkor Engagement, 또는 팡코르 조약)이 되는 자리를 열었습니다. 이 협정은 참석을 거부하고 왕실 의기(儀器)를 보유한 경쟁자 술탄 이스마일(Sultan Ismail)보다 라자 압둘라(Raja Abdullah)를 페락 술탄으로 인정했습니다. 그것은 중국인 카피탄(Kapitan)을 임명하고 전화(戰禍)에 시달린 지구를 "영원한 평화"를 뜻하는 타이핑(Taiping)으로 개명함으로써 라룻의 분쟁을 매듭지었습니다.
+1874년 1월 20일, 팡코르섬(Pangkor Island) 앞바다에 정박한 식민지 증기선 *플루토(Pluto)*호 선상에서 [해협식민지](/ko/malaysia/straits-settlements) 총독 앤드루 클라크 경(Sir Andrew Clarke)은 각 당사자를 소집하여, 팡코르 협정(Pangkor Engagement, 또는 팡코르 조약)이 되는 자리를 열었습니다. 이 협정은 참석을 거부하고 왕실 의기(儀器)를 보유한 경쟁자 술탄 이스마일(Sultan Ismail)보다 라자 압둘라(Raja Abdullah)를 페락 술탄으로 인정했습니다. 그것은 중국인 카피탄(Kapitan)을 임명하고 전화(戰禍)에 시달린 지구를 "영원한 평화"를 뜻하는 타이핑(Taiping)으로 개명함으로써 라룻의 분쟁을 매듭지었습니다.
 
 그 가장 중대한 조항은 더 조용했습니다. 영국 레지던트(Resident)가 페락 궁정에 주재하고, 술탄은 레지던트의 조언을 "말레이의 종교와 관습에 관한 것을 제외한 모든 사안에서 반드시 구하고 따라야 한다"고 서약했습니다. 단 한 문장으로 페락은 주권 대부분을 넘겨주었습니다. 팡코르 모델 — "조언"하되 사실상 통치하는 레지던트를 통한 간접 통치 — 은 반도 전역으로 수출되었고 영국이 말레이 주들을 지배하는 본보기가 되었습니다.
 

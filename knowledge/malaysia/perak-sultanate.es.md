@@ -21,7 +21,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen una visión gener
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,7 +87,7 @@ Los combates arruinaron la economía del estaño y amenazaron a los mercaderes d
 
 ## Pangkor 1874 y el Residente que se extralimitó
 
-El 20 de enero de 1874, a bordo del vapor colonial *Pluto* fondeado frente a la isla de Pangkor, el Gobernador de los Asentamientos de los Estrechos, sir Andrew Clarke, convocó a las partes a lo que se convirtió en el Acuerdo de Pangkor (o Tratado de Pangkor). El acuerdo reconoció a Raja Abdullah como Sultán de Perak con preferencia frente a su rival, el Sultán Ismail, que se negó a asistir y conservó las insignias reales. Resolvió las disputas de Larut nombrando a un Kapitan chino y rebautizando el distrito devastado por la guerra como Taiping: «paz eterna».
+El 20 de enero de 1874, a bordo del vapor colonial *Pluto* fondeado frente a la isla de Pangkor, el Gobernador de los [Asentamientos de los Estrechos](/es/malaysia/straits-settlements), sir Andrew Clarke, convocó a las partes a lo que se convirtió en el Acuerdo de Pangkor (o Tratado de Pangkor). El acuerdo reconoció a Raja Abdullah como Sultán de Perak con preferencia frente a su rival, el Sultán Ismail, que se negó a asistir y conservó las insignias reales. Resolvió las disputas de Larut nombrando a un Kapitan chino y rebautizando el distrito devastado por la guerra como Taiping: «paz eterna».
 
 Su cláusula de mayores consecuencias era más discreta. Un Residente británico sería destacado en la corte de Perak, y el sultán se comprometía a que el consejo del Residente «debe pedirse y seguirse en todas las cuestiones salvo las que atañen a la religión y la costumbre malayas». En una sola frase, Perak había cedido la mayor parte de su soberanía. El modelo de Pangkor —gobierno indirecto a través de un Residente que «aconsejaba» pero en la práctica gobernaba— se exportaría por toda la península y se convirtió en la plantilla del control británico de los Estados Malayos.
 

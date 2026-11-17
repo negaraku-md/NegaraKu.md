@@ -35,7 +35,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -120,7 +120,7 @@ This is where the official record is at its strongest. The National Archives of 
 | Reason the Perak song was chosen | "Having Malay characteristics" |
 | First public performance | Night of 31 August 1957, Selangor Club Padang |
 
-The committee members recorded by the National Archives were Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein and W. Crops.
+The committee members recorded by the National Archives were Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/en/malaysia/abdul-razak-hussein) and W. Crops.
 
 The Official Portal of the Government of Malaysia adds that a song competition was held in 1957 but did not produce a suitable choice, so Tunku Abdul Rahman proposed the Perak state song as the basis. The portal also records that the musical score was completed by Alfonso Soliano, D.S.P Croff, Captain Lenthall and A.T Reed, while the lyrics were drafted by a special committee chaired by Tunku Abdul Rahman with the consent of the Malay Rulers.
 

@@ -84,7 +84,7 @@ RELA is a volunteer body: ordinary citizens who enrol, train and turn out to sup
 
 ## Origins: from the Home Guard to Konfrontasi
 
-RELA's lineage runs back to the civil-defence volunteers of the mid-twentieth century. Its closest ancestor is the **Home Guard** (*Pasukan Simpanan Kampung*), set up during the Malayan Emergency declared in 1948 to help protect villages, and stood down when that Emergency ended in 1960. During **Konfrontasi** — the 1963–66 Indonesia–Malaysia confrontation — the government again leaned on community volunteer units for local security, acting as auxiliary eyes and ears for the police and army.
+RELA's lineage runs back to the civil-defence volunteers of the mid-twentieth century. Its closest ancestor is the **Home Guard** (*Pasukan Simpanan Kampung*), set up during the [Malayan Emergency](/malaysia/the-emergency) declared in 1948 to help protect villages, and stood down when that Emergency ended in 1960. During **Konfrontasi** — the 1963–66 Indonesia–Malaysia confrontation — the government again leaned on community volunteer units for local security, acting as auxiliary eyes and ears for the police and army.
 
 The corps in its modern form is generally dated to **1972**, with its early legal scaffolding provided by regulations made under the **Emergency (Essential Powers) Act 1964** — notably the *Essential (Ikatan Relawan Rakyat) Regulations*. (Older rules from the 1960s even made volunteer service compulsory for men of certain ages; that obligation was revoked in 2005.) In **2013**, RELA was upgraded from a unit into a full federal department, the **Jabatan Sukarelawan Malaysia**.
 

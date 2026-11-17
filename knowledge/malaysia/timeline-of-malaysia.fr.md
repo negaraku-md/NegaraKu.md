@@ -35,7 +35,7 @@ verificationNeeded:
   - "Chaque moment clé renvoie à un article complet et documenté là où il en existe un ; ces pages portent les citations. La chronologie politique moderne (Premiers ministres, élections générales, l'affaire 1MDB, le Sheraton Move de 2020) relève du registre public factuel, tiré du Cabinet du Premier ministre et de la Commission électorale, et est présentée de manière neutre. Les entrées qui touchent aux 3R (race / religion / royauté) ou à d'autres thèmes sensibles — l'incident du 13 mai 1969, l'Opération Lalang, la crise judiciaire de 1988 — attendent une révision humaine avant la mise en production."
 
 lang: "fr"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -194,7 +194,7 @@ destitution de son adjoint Anwar Ibrahim et le mouvement de rue de la Reformasi.
 - **1987** — [L'Opération Lalang](/fr/malaysia/ops-lalang-1987) — des détentions de masse en vertu de l'Internal Security Act.
 - **1991** — [Vision 2020 (Wawasan 2020)](/fr/malaysia/wawasan-2020) — l'objectif d'une Malaisie pleinement développée pour 2020.
 - **1997-98** — [La crise financière asiatique et la Reformasi](/fr/malaysia/1998-reformasi) — contrôles des capitaux, la destitution d'[Anwar Ibrahim](/fr/malaysia/anwar-ibrahim) et le mouvement de réforme.
-- **31 octobre 2003** — Mahathir quitte ses fonctions après 22 ans ; Abdullah Ahmad Badawi devient le cinquième Premier ministre.
+- **31 octobre 2003** — Mahathir quitte ses fonctions après 22 ans ; [Abdullah Ahmad Badawi](/fr/malaysia/abdullah-ahmad-badawi) devient le cinquième Premier ministre.
 
 ## De la Reformasi au gouvernement d'unité
 

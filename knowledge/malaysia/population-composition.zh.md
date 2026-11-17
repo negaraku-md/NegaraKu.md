@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a6100396bc06f2b"
+sourceContentHash: "99342f6158195953"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -171,7 +171,7 @@ DOSM将65岁及以上比例一旦超过7%的州属归类为「老龄化」。截
 
 ## 下一步
 
-关于沙巴与砂拉越的土著人口最初如何被纳入联邦统计的宪制与历史背景，请参阅[沙巴](/zh/states/sabah)与[砂拉越](/zh/states/sarawak)的州属简介——两州均是根据《1963年马来西亚协议》（Malaysia Agreement 1963）所定条款加入联邦的。
+关于沙巴与砂拉越的土著人口最初如何被纳入联邦统计的宪制与历史背景，请参阅[沙巴](/zh/states/sabah)与[砂拉越](/zh/states/sarawak)的州属简介——两州均是根据[《1963年马来西亚协议》](/zh/malaysia/ma63)（Malaysia Agreement 1963）所定条款加入联邦的。
 
 关于与马来西亚族群统计并存——而非取代它——的国家团结文件，请参阅[《国家原则》](/zh/malaysia/rukun-negara)（Rukun Negara）。
 

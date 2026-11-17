@@ -119,7 +119,7 @@ Di sinilah rekod rasmi menjadi paling kukuh. Arkib Negara Malaysia mencatatkan b
 | Sebab lagu Perak dipilih | "Mempunyai unsur-unsur kemelayuan" |
 | Persembahan awam pertama | Malam 31 Ogos 1957, Padang Kelab Selangor |
 
-Ahli jawatankuasa yang direkodkan Arkib Negara ialah Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein dan W. Crops.
+Ahli jawatankuasa yang direkodkan Arkib Negara ialah Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/malaysia/abdul-razak-hussein) dan W. Crops.
 
 Portal Rasmi Kerajaan Malaysia menambah bahawa satu sayembara lagu diadakan pada 1957 tetapi tidak menghasilkan pilihan yang sesuai, lalu Tunku Abdul Rahman mencadangkan lagu negeri Perak sebagai asas. Portal itu turut merekodkan bahawa skor muzik disiapkan oleh Alfonso Soliano, D.S.P Croff, Captain Lenthall dan A.T Reed, manakala liriknya dirangka oleh sebuah jawatankuasa khas yang dipengerusikan Tunku Abdul Rahman dengan perkenan Raja-Raja Melayu.
 

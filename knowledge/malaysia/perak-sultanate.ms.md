@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang mencari gambaran bersumber tent
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,7 +87,7 @@ Pertempuran itu memusnahkan ekonomi bijih timah dan mengancam saudagar Pulau Pin
 
 ## Pangkor 1874 dan Residen yang terlalu jauh melampau
 
-Pada 20 Januari 1874, di atas kapal wap penjajah *Pluto* yang berlabuh di luar Pulau Pangkor, Gabenor Negeri-Negeri Selat, Sir Andrew Clarke, menghimpunkan pihak-pihak yang bertelagah kepada apa yang menjadi Perjanjian Pangkor. Perjanjian itu mengiktiraf Raja Abdullah sebagai Sultan Perak mengatasi saingannya Sultan Ismail, yang enggan hadir dan menyimpan alat kebesaran diraja. Ia menyelesaikan pertikaian Larut dengan melantik seorang Kapitan Cina dan menamakan semula daerah yang porak-peranda akibat perang itu sebagai Taiping — "keamanan abadi."
+Pada 20 Januari 1874, di atas kapal wap penjajah *Pluto* yang berlabuh di luar Pulau Pangkor, Gabenor [Negeri-Negeri Selat](/ms/malaysia/straits-settlements), Sir Andrew Clarke, menghimpunkan pihak-pihak yang bertelagah kepada apa yang menjadi Perjanjian Pangkor. Perjanjian itu mengiktiraf Raja Abdullah sebagai Sultan Perak mengatasi saingannya Sultan Ismail, yang enggan hadir dan menyimpan alat kebesaran diraja. Ia menyelesaikan pertikaian Larut dengan melantik seorang Kapitan Cina dan menamakan semula daerah yang porak-peranda akibat perang itu sebagai Taiping — "keamanan abadi."
 
 Fasal yang paling berpengaruh adalah yang lebih senyap. Seorang Residen British akan ditempatkan di istana Perak, dan sultan berjanji bahawa nasihat Residen "mesti dipinta dan dilaksanakan dalam segala persoalan selain daripada yang menyentuh agama dan adat Melayu." Dalam satu ayat, Perak telah menyerahkan sebahagian besar kedaulatannya. Model Pangkor — pemerintahan tidak langsung menerusi seorang Residen yang "menasihati" tetapi pada hakikatnya memerintah — akan dieksport merentasi semenanjung dan menjadi acuan bagi kawalan British ke atas Negeri-Negeri Melayu.
 

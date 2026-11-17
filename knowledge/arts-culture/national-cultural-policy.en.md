@@ -30,7 +30,7 @@ faq:
     a: "According to JKKN, the DKK 1971 forms the basis of the National Culture Policy (DAKEN) 2021, which is built on seven pillars with an implementation period of 2021-2025. JKKN also states that the DKK 1971 was never formally endorsed at Cabinet level, even though it guided administration for about 50 years."
 
 lang: "en"
-sourceContentHash: "8ad5677b6225effa"
+sourceContentHash: "13839d2ad5ad43f3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ This article presents the historical record and the range of views surrounding t
 
 ## What is the National Cultural Policy 1971?
 
-The National Cultural Policy is a policy framework formulated through the National Cultural Congress held in 1971 at the University of Malaya, Kuala Lumpur. The congress was organised by the Ministry of Culture, Youth and Sports and officiated by the then Prime Minister, Tun Abdul Razak Hussein.
+The National Cultural Policy is a policy framework formulated through the National Cultural Congress held in 1971 at the University of Malaya, Kuala Lumpur. The congress was organised by the Ministry of Culture, Youth and Sports and officiated by the then Prime Minister, Tun [Abdul Razak Hussein](/en/malaysia/abdul-razak-hussein).
 
 The policy's background cannot be separated from the atmosphere following the 13 May 1969 incident. An academic thesis from Universiti Sains Malaysia that studied the development of this policy records that the National Cultural Policy was formed in 1971 as part of the effort to build national unity within a plural society. The goal often cited was to strengthen unity through a single, shared cultural identity.
 

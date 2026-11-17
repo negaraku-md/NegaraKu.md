@@ -35,7 +35,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -120,7 +120,7 @@ framework: history-culture
 | பேராக் பாடல் தேர்ந்தெடுக்கப்பட்டதற்கான காரணம் | "மலாய்த் தன்மைகளைக் கொண்டிருந்தது" |
 | முதல் பொது நிகழ்ச்சி | 1957 ஆகஸ்ட் 31 இரவு, Padang Kelab Selangor |
 
-தேசிய ஆவணக் காப்பகத்தால் பதிவு செய்யப்பட்ட குழு உறுப்பினர்கள்: Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein மற்றும் W. Crops.
+தேசிய ஆவணக் காப்பகத்தால் பதிவு செய்யப்பட்ட குழு உறுப்பினர்கள்: Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/ta/malaysia/abdul-razak-hussein) மற்றும் W. Crops.
 
 1957 இல் ஒரு பாடல் போட்டி நடத்தப்பட்டது, ஆனால் பொருத்தமான தேர்வை அது வழங்கவில்லை; எனவே Tunku Abdul Rahman பேராக் மாநிலப் பாடலை அடிப்படையாகக் கொள்ள முன்மொழிந்தார் என மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ இணையவாயில் மேலும் தெரிவிக்கிறது. இசைத் தொகுப்பை (skor muzik) Alfonso Soliano, D.S.P Croff, Captain Lenthall மற்றும் A.T Reed தயாரித்தனர் என்றும், பாடல் வரிகள் Raja-Raja Melayu (மலாய் அரசர்கள்) அவர்களின் அனுமதியுடன் Tunku Abdul Rahman தலைமையிலான சிறப்புக் குழுவால் வரையப்பட்டன என்றும் அந்த இணையவாயில் பதிவு செய்துள்ளது.
 

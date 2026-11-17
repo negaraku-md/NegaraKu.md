@@ -28,7 +28,7 @@ faq:
     a: "Ia sudah dikenal di seluruh negeri, memiliki warna dan bentuk yang menarik, nama yang seragam, mudah didapat, dan belum menjadi bunga nasional negara lain mana pun pada masa itu."
 
 lang: "id"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Warna merah melambangkan keberanian dalam menghadapi segala tantangan, serta ket
 
 ## Di mana bunga raya digunakan hari ini?
 
-Sebagai salah satu simbol nasional, bunga raya berdiri bersama [Jalur Gemilang](/id/malaysia/jalur-gemilang) (bendera) dan Jata Negara sebagai wajah resmi Malaysia, dan citranya kerap muncul dalam acara serta perayaan nasional.
+Sebagai salah satu simbol nasional, bunga raya berdiri bersama [Jalur Gemilang](/id/malaysia/jalur-gemilang) (bendera) dan [Jata Negara](/id/malaysia/coat-of-arms) sebagai wajah resmi Malaysia, dan citranya kerap muncul dalam acara serta perayaan nasional.
 
 ## Apa selanjutnya
 

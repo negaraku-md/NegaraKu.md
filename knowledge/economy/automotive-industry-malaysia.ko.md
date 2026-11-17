@@ -33,7 +33,7 @@ faq:
     a: "자동차 부문에 대한 정부의 틀로, 가장 최근에는 NAP 2020으로 갱신되었습니다. 차세대 차량(NxGV), 서비스형 모빌리티(MaaS), 인더스트리 4.0 역량을 목표로 하며, 중간 검토를 진행 중입니다. MITI가 검토를 시작(2025년 자동차 저명인사 협의회 설치)했으나, 그 결과는 2025년 말 목표에 맞춰 공표되지 않았고 2026년에도 미정 상태로 남아 있었습니다."
 
 lang: "ko"
-sourceContentHash: "ce89b8f0036180e9"
+sourceContentHash: "ea4723a8cd060bef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ framework: profile
 중공업공사(HICOM)가 그 매개가 되었습니다. 1983년 HICOM은 페루사한 오토모빌 나시오날
 (프로톤)을 합작으로 설립했습니다. HICOM이 70%, 미쓰비시상사와 미쓰비시자동차가 나머지
 30%를 총 자본 RM1억 5,000만으로 맡았습니다. 프로톤은 단순한 회사 이상이었습니다. 그것은
-현지 부품 제조업체 기반을 씨앗처럼 키우고 신경제정책(New Economic Policy, NEP) 하에서
+현지 부품 제조업체 기반을 씨앗처럼 키우고 [신경제정책](/ko/malaysia/new-economic-policy)(New Economic Policy, NEP) 하에서
 부미푸트라의 제조업 참여를 확대하기 위한 산업 정책이었습니다.
 
 두 번째 국민 브랜드가 1993년에 뒤따랐습니다. 페루사한 오토모빌 케두아(프로두아)는 일본

@@ -20,7 +20,7 @@ keyTakeaways:
   - "Cuộc họp phân phối ngày 2 tháng 9 năm 1970 quyết định văn bản tiếng Malaysia là văn bản gốc; các phiên bản ngôn ngữ khác là bản dịch"
 appliesTo: "Học sinh sinh viên, giáo viên, công chức và bất kỳ ai cần tham chiếu văn bản chính thức của Rukun Negara cùng niên biểu soạn thảo của nó dựa trên hồ sơ lưu trữ."
 lang: "vi"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ Hãy chú ý sự liên kết giữa hai phần đó. Cụm từ "những khát 
 
 Hồ sơ của Cục Lưu trữ Quốc gia đặt việc soạn thảo Rukun Negara vào thời kỳ đình chỉ hệ thống chính quyền nghị viện sau các cuộc bạo động sắc tộc ngày 13 tháng 5 năm 1969.
 
-Tuyên bố Tình trạng Khẩn cấp được đăng công báo và có hiệu lực vào ngày 16 tháng 5 năm 1969 theo Sắc lệnh Khẩn cấp (Các Quyền lực Thiết yếu) số 2 năm 1969 – P.U.(A) 149. Hội đồng Điều hành Quốc gia (Majlis Gerakan Negara, MAGERAN), do Tun Abdul Razak Hussein đứng đầu, được trao quyền điều hành công việc quốc gia từ ngày 16 tháng 5 năm 1969 đến ngày 23 tháng 2 năm 1971.
+Tuyên bố Tình trạng Khẩn cấp được đăng công báo và có hiệu lực vào ngày 16 tháng 5 năm 1969 theo Sắc lệnh Khẩn cấp (Các Quyền lực Thiết yếu) số 2 năm 1969 – P.U.(A) 149. Hội đồng Điều hành Quốc gia (Majlis Gerakan Negara, MAGERAN), do Tun [Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein) đứng đầu, được trao quyền điều hành công việc quốc gia từ ngày 16 tháng 5 năm 1969 đến ngày 23 tháng 2 năm 1971.
 
 Tại cuộc họp thứ năm của MAGERAN, ngày 6 tháng 10 năm 1969, quyết định được đưa ra để thành lập Hội đồng Tham vấn Quốc gia (Majlis Perundingan Negara) — một cơ quan chịu trách nhiệm thảo luận và tìm giải pháp cho các vấn đề liên quan đến đoàn kết quốc gia. Một phụ lục đề ngày 17 tháng 2 năm 1970 liệt kê 66 thành viên, đại diện cho các Bộ trưởng Nội các, chính quyền bang, các đảng chính trị, các cơ quan tôn giáo, các cơ quan nghề nghiệp, công vụ, công đoàn, các hội của giới chủ, các hiệp hội giáo viên, các nhóm thiểu số, nhà báo và giới phụ nữ.
 

@@ -87,7 +87,7 @@ The fighting wrecked the tin economy and threatened Penang's merchants, whose ca
 
 ## Pangkor 1874 and the Resident who went too far
 
-On 20 January 1874, aboard the colonial steamer *Pluto* anchored off Pangkor Island, the Governor of the Straits Settlements, Sir Andrew Clarke, convened the parties to what became the Pangkor Engagement (or Pangkor Treaty). The agreement recognised Raja Abdullah as Sultan of Perak in preference to his rival Sultan Ismail, who refused to attend and kept the royal regalia. It settled the Larut disputes by appointing a Chinese Kapitan and renaming the war-torn district Taiping — "everlasting peace."
+On 20 January 1874, aboard the colonial steamer *Pluto* anchored off Pangkor Island, the Governor of the [Straits Settlements](/malaysia/straits-settlements), Sir Andrew Clarke, convened the parties to what became the Pangkor Engagement (or Pangkor Treaty). The agreement recognised Raja Abdullah as Sultan of Perak in preference to his rival Sultan Ismail, who refused to attend and kept the royal regalia. It settled the Larut disputes by appointing a Chinese Kapitan and renaming the war-torn district Taiping — "everlasting peace."
 
 Its most consequential clause was quieter. A British Resident would be stationed at the Perak court, and the sultan undertook that the Resident's advice "must be asked and acted upon on all questions other than those touching Malay religion and custom." In a single sentence, Perak had traded away most of its sovereignty. The Pangkor model — indirect rule through a Resident who "advised" but effectively governed — would be exported across the peninsula and became the template for British control of the Malay States.
 

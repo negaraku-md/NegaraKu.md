@@ -28,7 +28,7 @@ appliesTo: "Độc giả, học sinh và nhà nghiên cứu muốn có một cá
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a584eeb2166da82e"
+sourceContentHash: "df191be2c335b5e8"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,7 +87,7 @@ Quá trình học việc chính trị của Hussein Onn chạy song song với c
 
 ## Trở thành Thủ tướng, 1976
 
-Ngày 14 tháng 1 năm 1976 Abdul Razak, Thủ tướng thứ hai của Malaysia, qua đời ở London khi đang tại nhiệm. Hussein Onn tuyên thệ nhậm chức **Thủ tướng thứ ba của đất nước vào ngày 15 tháng 1 năm 1976**. Ông thừa hưởng một quốc gia vẫn còn đang xử lý hậu quả của biến động sắc tộc năm 1969 và chương trình hành động khẳng định sâu rộng mà Razak đã khởi động, và ông cầm quyền thông qua liên minh **Barisan Nasional** vốn đưa các đảng Mã Lai, Hoa và Ấn về chung một mái. Britannica mô tả chính phủ của ông là một liên minh đa chủng tộc nhìn chung vẫn hòa bình bất chấp những căng thẳng cộng đồng còn tiếp diễn và một cuộc nổi dậy cộng sản dai dẳng — một sự cân bằng khó khăn đã định hình âm hưởng những năm ông tại nhiệm.
+Ngày 14 tháng 1 năm 1976 Abdul Razak, Thủ tướng thứ hai của Malaysia, qua đời ở London khi đang tại nhiệm. Hussein Onn tuyên thệ nhậm chức **Thủ tướng thứ ba của đất nước vào ngày 15 tháng 1 năm 1976**. Ông thừa hưởng một quốc gia vẫn còn đang xử lý hậu quả của biến động sắc tộc năm 1969 và chương trình hành động khẳng định sâu rộng mà Razak đã khởi động, và ông cầm quyền thông qua liên minh [**Barisan Nasional**](/vi/malaysia/barisan-nasional) vốn đưa các đảng Mã Lai, Hoa và Ấn về chung một mái. Britannica mô tả chính phủ của ông là một liên minh đa chủng tộc nhìn chung vẫn hòa bình bất chấp những căng thẳng cộng đồng còn tiếp diễn và một cuộc nổi dậy cộng sản dai dẳng — một sự cân bằng khó khăn đã định hình âm hưởng những năm ông tại nhiệm.
 
 Bảng dưới đây đặt nhiệm kỳ của ông theo trình tự.
 

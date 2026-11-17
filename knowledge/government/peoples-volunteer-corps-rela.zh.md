@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ RELA 是一个志愿团体：普通公民入队、受训，并在被召唤时出
 
 ## 起源：从乡村后备队到对抗
 
-RELA 的渊源可追溯至20世纪中叶的民防志愿者。其最直接的前身是**乡村后备队**（Home Guard，*Pasukan Simpanan Kampung*），在1948年宣布的马来亚紧急状态期间设立以协助保卫村庄，并在该紧急状态于1960年结束时解散。在**对抗**（Konfrontasi，1963–66年印尼—马来西亚对抗）期间，政府再度倚重社区志愿单位维持地方治安，作为警察与军队的辅助耳目。
+RELA 的渊源可追溯至20世纪中叶的民防志愿者。其最直接的前身是**乡村后备队**（Home Guard，*Pasukan Simpanan Kampung*），在1948年宣布的[马来亚紧急状态](/zh/malaysia/the-emergency)期间设立以协助保卫村庄，并在该紧急状态于1960年结束时解散。在**对抗**（Konfrontasi，1963–66年印尼—马来西亚对抗）期间，政府再度倚重社区志愿单位维持地方治安，作为警察与军队的辅助耳目。
 
 该队伍现代形态一般定于**1972年**，其早期的法律架构由依据**《1964年紧急（必要权力）法令》**制定的条例——尤其是《紧急（人民志愿团）条例》——所提供。（1960年代更早的规则甚至使某些年龄男子的志愿服务成为强制性；该义务已于2005年废除。）**2013年**，RELA 由一个单位升格为完整的联邦部门——**马来西亚志愿人员团**（Jabatan Sukarelawan Malaysia）。
 

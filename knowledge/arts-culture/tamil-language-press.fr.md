@@ -31,7 +31,7 @@ faq:
     a: "Cela reflète la même tendance mondiale de la presse imprimée : les lecteurs, surtout les plus jeunes, accèdent à l'actualité par Internet, les applications mobiles et les réseaux sociaux. La baisse des recettes publicitaires et les coûts d'impression ont poussé de nombreux titres à donner la priorité aux éditions numériques."
 
 lang: "fr"
-sourceContentHash: "b7243674f3b8cc52"
+sourceContentHash: "32a4a04add201056"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -83,7 +83,7 @@ La presse en langue tamoule de Malaisie a une histoire de plus d'un siècle. Ell
 
 ## Histoire : le journalisme tamoul dans la Malaisie coloniale
 
-Les racines de la presse tamoule se trouvent dans la Malaisie coloniale britannique, en particulier dans les **Établissements des détroits (Straits Settlements)**. Selon les chercheurs, **Penang** fut le berceau de nombreuses publications tamoules à l'époque coloniale ; de la fin du XIXe siècle au début du XXe, les efforts littéraires et journalistiques tamouls y ont grandi.
+Les racines de la presse tamoule se trouvent dans la Malaisie coloniale britannique, en particulier dans les **[Établissements des détroits (Straits Settlements)](/fr/malaysia/straits-settlements)**. Selon les chercheurs, **Penang** fut le berceau de nombreuses publications tamoules à l'époque coloniale ; de la fin du XIXe siècle au début du XXe, les efforts littéraires et journalistiques tamouls y ont grandi.
 
 Dans le prolongement de cet essor, **Tamil Nesan (L'ami tamoul)** parut avec un premier numéro le 24 septembre 1924. Il a apporté à la communauté tamoule une couverture étendue — politique, religion, actualités nationales et internationales, éducation et cinéma tamoul — et, jusqu'à sa fermeture, il était considéré comme le plus ancien quotidien tamoul du pays.
 

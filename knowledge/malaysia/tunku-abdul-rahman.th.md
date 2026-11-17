@@ -28,7 +28,7 @@ appliesTo: "ผู้อ่าน นักเรียน และนักว
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -126,7 +126,7 @@ Organisation — UMNO) เขาได้รับเลือกเป็นป
 มลายา) รัฐบาลยุคต้นของเขามุ่งพัฒนาเศรษฐกิจ ปรับปรุง
 ชนบท และสร้างดุลผลประโยชน์ทางชาติพันธุ์อย่างระมัดระวัง ขณะที่คงมลายาไว้
 อย่างมั่นคงในค่ายตะวันตกต่อต้านคอมมิวนิสต์ในช่วงปีท้าย ๆ ของ
-ภาวะฉุกเฉินมลายา
+[ภาวะฉุกเฉินมลายา](/th/malaysia/the-emergency)
 
 ## การก่อตั้งมาเลเซีย (ค.ศ. 1963) และการแยกตัวของสิงคโปร์ (ค.ศ. 1965)
 

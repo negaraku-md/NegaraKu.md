@@ -31,7 +31,7 @@ faq:
     a: "DOSM chia Bumiputera khác thành Bumiputera Sabah (55.3 phần trăm của nhóm, gồm Kadazan/Dusun, Bajau, Murut và các nhóm Bumiputera Sabah khác), Bumiputera Sarawak (32.3 phần trăm, gồm Iban, Bidayuh, Melanau và các nhóm Bumiputera Sarawak khác), và các nhóm Bumiputera Bán đảo khác chiếm phần còn lại."
 
 lang: "vi"
-sourceContentHash: "6a6100396bc06f2b"
+sourceContentHash: "99342f6158195953"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -172,7 +172,7 @@ DOSM phân loại một bang là "đang già hóa" khi tỷ trọng 65-trở-lê
 
 ## Tiếp theo
 
-Về bối cảnh hiến định và lịch sử của việc dân số Bumiputera của Sabah và Sarawak được đưa vào tính như một phần của thống kê liên bang ngay từ đầu, xem hồ sơ bang cho [Sabah](/vi/states/sabah) và [Sarawak](/vi/states/sarawak), cả hai đều gia nhập liên bang theo các điều khoản được nêu trong Hiệp định Malaysia 1963.
+Về bối cảnh hiến định và lịch sử của việc dân số Bumiputera của Sabah và Sarawak được đưa vào tính như một phần của thống kê liên bang ngay từ đầu, xem hồ sơ bang cho [Sabah](/vi/states/sabah) và [Sarawak](/vi/states/sarawak), cả hai đều gia nhập liên bang theo các điều khoản được nêu trong [Hiệp định Malaysia 1963](/vi/malaysia/ma63).
 
 Về văn kiện thống nhất quốc gia đứng song song với — chứ không thay thế cho — thống kê sắc tộc của Malaysia, xem [Rukun Negara](/vi/malaysia/rukun-negara).
 

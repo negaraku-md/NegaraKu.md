@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "3f5384eace2e70d2"
+sourceContentHash: "0d01e7c35a91fe70"
 masterLanguage: "en"
 
 status: "published"
@@ -121,7 +121,7 @@ Voici la courte liste des vrais changements :
 
 ## Celui qui est différent : déménager au Sabah ou au Sarawak
 
-Un déménagement **vers le Sabah ou le Sarawak** — ou entre les deux — n'est pas un simple déménagement inter-États avec quelques formalités supplémentaires. En vertu de l'**Accord de Malaisie de 1963 (MA63)**, les deux États conservent des pouvoirs que les États de la péninsule n'ont pas, et celui que vous ressentirez immédiatement est l'**immigration**.
+Un déménagement **vers le Sabah ou le Sarawak** — ou entre les deux — n'est pas un simple déménagement inter-États avec quelques formalités supplémentaires. En vertu de l'**[Accord de Malaisie de 1963](/fr/malaysia/ma63) (MA63)**, les deux États conservent des pouvoirs que les États de la péninsule n'ont pas, et celui que vous ressentirez immédiatement est l'**immigration**.
 
 - **Ils contrôlent leur propre immigration, et c'est appliqué.** Un Malaisien de la péninsule utilise son **MyKad comme pièce d'identité** (aucun passeport nécessaire) mais passe tout de même un **contrôle d'immigration de l'État à l'entrée** et est admis en tant que visiteur pour une période limitée.
 - **Y vivre ou y travailler nécessite plus qu'un changement d'adresse.** Pour **travailler, étudier ou résider sur le long terme**, vous avez généralement besoin d'un **laissez-passer ou d'un permis** de l'autorité d'immigration de l'État — organisez cela *avant* de supposer que vous pouvez simplement vous installer.

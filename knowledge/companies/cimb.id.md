@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Pemegang saham terbesarnya adalah Khazanah Nasional, dana kekayaan negara Malays
 
 Nama CIMB berasal dari Commerce International Merchant Bankers, bank investasi di inti grup modern, tetapi garis keturunan perbankannya jauh lebih dalam — hingga Bian Chiang Bank, yang didirikan di Kuching, Sarawak, pada 1924, yang melalui puluhan tahun konsolidasi menjadi bagian dari apa yang kini disebut CIMB.
 
-Babak yang menentukan datang pada pertengahan 2000-an. Pada Juni 2005, CIMB mengumumkan akuisisi grup Bumiputra-Commerce; perusahaan induk Commerce-Asset Holdings diubah namanya menjadi Bumiputra-Commerce Holdings, dan rencananya adalah melebur bank konsumen dan investasinya menjadi satu bank universal (sejarah korporat CIMB). Pada Januari 2006 CIMB Group baru dibentuk, menggabungkan perbankan investasi, perbankan konsumen, pengelolaan aset, dan layanan syariah di bawah satu atap. Pada tahun yang sama grup ini mengakuisisi Southern Bank, dan pada September 2006 Perdana Menteri Abdullah Ahmad Badawi secara resmi meluncurkan grup ini — menuntaskan merger tiga arah atas Commerce International Merchant Bankers, Bumiputra-Commerce Bank, dan Southern Bank, serta memperkenalkan logo baru dan slogan "Forward Banking".
+Babak yang menentukan datang pada pertengahan 2000-an. Pada Juni 2005, CIMB mengumumkan akuisisi grup Bumiputra-Commerce; perusahaan induk Commerce-Asset Holdings diubah namanya menjadi Bumiputra-Commerce Holdings, dan rencananya adalah melebur bank konsumen dan investasinya menjadi satu bank universal (sejarah korporat CIMB). Pada Januari 2006 CIMB Group baru dibentuk, menggabungkan perbankan investasi, perbankan konsumen, pengelolaan aset, dan layanan syariah di bawah satu atap. Pada tahun yang sama grup ini mengakuisisi Southern Bank, dan pada September 2006 Perdana Menteri [Abdullah Ahmad Badawi](/id/malaysia/abdullah-ahmad-badawi) secara resmi meluncurkan grup ini — menuntaskan merger tiga arah atas Commerce International Merchant Bankers, Bumiputra-Commerce Bank, dan Southern Bank, serta memperkenalkan logo baru dan slogan "Forward Banking".
 
 Grup ini kemudian bergerak cepat melintasi batas. Indonesia sudah hadir melalui akuisisi 2002 atas PT Bank Niaga; pada 2008 Bank Niaga bergabung dengan Bank Lippo untuk menciptakan bank terbesar keenam negara itu saat itu, yang diubah namanya menjadi CIMB Niaga, langkah yang didorong Khazanah untuk mematuhi kebijakan kepemilikan tunggal Bank Indonesia. Pada 2008-2009 CIMB masuk Thailand dengan mengakuisisi BankThai (kemudian CIMB Thai) dan membuka operasi di Singapura. Dalam beberapa tahun sebuah rumah perbankan investasi Malaysia telah menjadi bank universal pan-ASEAN.
 

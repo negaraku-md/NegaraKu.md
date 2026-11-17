@@ -29,7 +29,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ Le RELA est un organe de volontaires : des citoyens ordinaires qui s'engagent, s
 
 ## Origines : de la Home Guard à la Konfrontasi
 
-La lignée du RELA remonte aux volontaires de la protection civile du milieu du XXe siècle. Son ancêtre le plus proche est la **Home Guard** (*Pasukan Simpanan Kampung*), mise en place pendant l'état d'urgence malais déclaré en 1948 pour aider à protéger les villages, et dissoute à la fin de cet état d'urgence en 1960. Pendant la **Konfrontasi** — la confrontation Indonésie–Malaisie de 1963–66 — le gouvernement s'est de nouveau appuyé sur des unités de volontaires communautaires pour la sécurité locale, agissant comme yeux et oreilles auxiliaires de la police et de l'armée.
+La lignée du RELA remonte aux volontaires de la protection civile du milieu du XXe siècle. Son ancêtre le plus proche est la **Home Guard** (*Pasukan Simpanan Kampung*), mise en place pendant l'[état d'urgence malais](/fr/malaysia/the-emergency) déclaré en 1948 pour aider à protéger les villages, et dissoute à la fin de cet état d'urgence en 1960. Pendant la **Konfrontasi** — la confrontation Indonésie–Malaisie de 1963–66 — le gouvernement s'est de nouveau appuyé sur des unités de volontaires communautaires pour la sécurité locale, agissant comme yeux et oreilles auxiliaires de la police et de l'armée.
 
 Le corps sous sa forme moderne est généralement daté de **1972**, avec son premier échafaudage juridique fourni par des règlements pris en application de l'**Emergency (Essential Powers) Act 1964** — notamment les *Essential (Ikatan Relawan Rakyat) Regulations*. (Des règles plus anciennes des années 1960 rendaient même le service volontaire obligatoire pour les hommes de certains âges ; cette obligation a été révoquée en 2005.) En **2013**, le RELA a été élevé d'une unité en un département fédéral à part entière, le **Jabatan Sukarelawan Malaysia**.
 

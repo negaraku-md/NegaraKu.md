@@ -27,7 +27,7 @@ faq:
   - q: "RELA는 어느 부처 산하입니까?"
     a: "RELA(Jabatan Sukarelawan Malaysia)는 내무부(Kementerian Dalam Negeri, KDN) 산하 부서입니다. 장관이 공무원 중에서 임명하는 청장이 이 단을 지휘합니다."
 lang: "ko"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,7 +84,7 @@ RELA는 의용 조직입니다: 평범한 시민이 가입하고, 훈련받고, 
 
 ## 기원: 향토방위대에서 콘프론타시까지
 
-RELA의 혈통은 20세기 중반의 민방위 의용대로 거슬러 올라갑니다. 그 가장 가까운 선조는 1948년 선포된 말라야 비상사태 동안 마을 보호를 돕기 위해 세워졌다가 1960년 그 비상사태가 끝나면서 해산된 **향토방위대**(*Pasukan Simpanan Kampung*)입니다. **콘프론타시(Konfrontasi)** — 1963~66년 인도네시아–말레이시아 대결 — 동안 정부는 다시 지역 보안을 위해 공동체 의용 부대에 기대어, 이들이 경찰과 군의 보조적인 눈과 귀로 활동했습니다.
+RELA의 혈통은 20세기 중반의 민방위 의용대로 거슬러 올라갑니다. 그 가장 가까운 선조는 1948년 선포된 [말라야 비상사태](/ko/malaysia/the-emergency) 동안 마을 보호를 돕기 위해 세워졌다가 1960년 그 비상사태가 끝나면서 해산된 **향토방위대**(*Pasukan Simpanan Kampung*)입니다. **콘프론타시(Konfrontasi)** — 1963~66년 인도네시아–말레이시아 대결 — 동안 정부는 다시 지역 보안을 위해 공동체 의용 부대에 기대어, 이들이 경찰과 군의 보조적인 눈과 귀로 활동했습니다.
 
 현대적 형태의 이 단은 일반적으로 **1972년**으로 거슬러 올라가며, 그 초기 법적 토대는 **비상(필수권한)법 1964(Emergency (Essential Powers) Act 1964)**에 따라 만들어진 규정 — 특히 *필수(Ikatan Relawan Rakyat) 규정* — 이 제공했습니다. (1960년대의 더 오래된 규칙은 심지어 특정 연령 남성에게 의용 복무를 의무화하기도 했으나; 그 의무는 2005년에 철폐되었습니다.) **2013년** RELA는 한 부대에서 완전한 연방 부서인 **Jabatan Sukarelawan Malaysia**로 승격되었습니다.
 

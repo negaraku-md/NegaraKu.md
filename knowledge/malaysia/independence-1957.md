@@ -69,7 +69,7 @@ At a few minutes past midnight on 31 August 1957, on the padang in front of the 
 
 ## The delegation that went to ask
 
-In January 1956, an Alliance Party delegation — Malays, Chinese and Indians negotiating as one bloc, led by Tunku Abdul Rahman — travelled to London to put a specific question to the British government: when, and on what terms, would Malaya become self-governing? The answer they brought back was not vague reassurance. Britain agreed in principle to independence by August 1957, provided a workable constitution was in place first. That single trip converted "someday" into a deadline, and everything that followed was built to meet it.
+In January 1956, an [Alliance Party](/malaysia/the-alliance) delegation — Malays, Chinese and Indians negotiating as one bloc, led by Tunku Abdul Rahman — travelled to London to put a specific question to the British government: when, and on what terms, would Malaya become self-governing? The answer they brought back was not vague reassurance. Britain agreed in principle to independence by August 1957, provided a workable constitution was in place first. That single trip converted "someday" into a deadline, and everything that followed was built to meet it.
 
 ## Writing the rulebook before the party
 

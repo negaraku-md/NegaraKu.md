@@ -20,7 +20,7 @@ keyTakeaways:
   - "La réunion de distribution du 2 septembre 1970 décida que le texte en Bahasa Malaysia est le texte original ; les versions dans d'autres langues sont des traductions"
 appliesTo: "Étudiants, enseignants, fonctionnaires et toute personne ayant besoin de se référer au texte officiel du Rukun Negara et à la chronologie de sa rédaction à partir des registres d'archives."
 lang: "fr"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ Observez le lien entre les deux parties. L'expression « ces aspirations » dans
 
 Les registres des Archives nationales situent la rédaction du Rukun Negara dans la période où le gouvernement parlementaire fut suspendu, à la suite des émeutes raciales du 13 mai 1969.
 
-La Proclamation d'urgence fut publiée au journal officiel et entra en vigueur le 16 mai 1969 en vertu de l'Ordonnance d'urgence (pouvoirs essentiels) n° 2, 1969 – P.U.(A) 149. Le Conseil national des opérations (MAGERAN), dirigé par Tun Abdul Razak Hussein, fut habilité à diriger les affaires du pays du 16 mai 1969 au 23 février 1971.
+La Proclamation d'urgence fut publiée au journal officiel et entra en vigueur le 16 mai 1969 en vertu de l'Ordonnance d'urgence (pouvoirs essentiels) n° 2, 1969 – P.U.(A) 149. Le Conseil national des opérations (MAGERAN), dirigé par Tun [Abdul Razak Hussein](/fr/malaysia/abdul-razak-hussein), fut habilité à diriger les affaires du pays du 16 mai 1969 au 23 février 1971.
 
 Lors de la cinquième réunion de MAGERAN, le 6 octobre 1969, la décision fut prise d'établir le Conseil consultatif national — un organe chargé de discuter et de trouver des solutions aux questions relatives à l'unité nationale. Un appendice daté du 17 février 1970 énumère 66 membres, représentant des ministres du Cabinet, des gouvernements d'État, des partis politiques, des organismes religieux, des organismes professionnels, la fonction publique, des syndicats, des syndicats d'employeurs, des associations d'enseignants, de petits groupes, des journalistes et des femmes.
 

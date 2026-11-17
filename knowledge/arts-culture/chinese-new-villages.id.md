@@ -32,7 +32,7 @@ faq:
   - q: "Isu kontemporer apa yang dihadapi Kampung Baru?"
     a: "Isu yang umum meliputi kepemilikan tanah (sebagian petak dipegang dengan Lisensi Pendudukan Sementara / TOL atau sertifikat sewa 99 tahun, alih-alih hak milik kekal), penuaan penduduk dan migrasi keluar kaum muda, serta infrastruktur yang menua. Beberapa tahun terakhir juga muncul inisiatif mencantumkan Kampung Baru sebagai warisan dan merevitalisasi komunitas lewat mural, rute kuliner, dan sejarah kampung."
 lang: "id"
-sourceContentHash: "53661275c9c0a492"
+sourceContentHash: "5a86ba6336d66776"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Melangkah masuk ke Semenyih, Kampar, atau Sekinchan hari ini, yang sebagian besar Anda lihat adalah wajah biasa sebuah kota kecil: deretan rumah toko, sebuah sekolah dasar Tionghoa, kelenteng dan perhimpunan, kedai kopi di tepi jalan serta toko kelontong. Namun banyak dari tempat-tempat ini berbagi satu identitas yang sama — ia adalah "Kampung Baru". Di balik label yang tampak biasa ini tersimpan sebuah sejarah tentang Darurat Malaya, antipemberontakan, dan perpindahan berskala besar.
+Melangkah masuk ke Semenyih, Kampar, atau Sekinchan hari ini, yang sebagian besar Anda lihat adalah wajah biasa sebuah kota kecil: deretan rumah toko, sebuah sekolah dasar Tionghoa, kelenteng dan perhimpunan, kedai kopi di tepi jalan serta toko kelontong. Namun banyak dari tempat-tempat ini berbagi satu identitas yang sama — ia adalah "Kampung Baru". Di balik label yang tampak biasa ini tersimpan sebuah sejarah tentang [Darurat Malaya](/id/malaysia/the-emergency), antipemberontakan, dan perpindahan berskala besar.
 
 Kampung Baru Tionghoa adalah jenis komunitas permukiman tertentu di Malaysia. Untuk memahaminya, kita harus kembali ke tahun-tahun 1948 hingga 1960 yang dikenal sebagai "Darurat Malaya" (Malayan Emergency). Tulisan ini menjelaskan, secara deskriptif dan terkendali, bagaimana Kampung Baru terbentuk, kehidupan di bawah kendali pada masa awal, dan bagaimana ia berevolusi menjadi kota hari ini setelah perang — tanpa membuat penilaian politik terhadap pihak mana pun pada masa itu.
 

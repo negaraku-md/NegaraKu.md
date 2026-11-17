@@ -34,7 +34,7 @@ faq:
     a: "Les aspirations (cinq buts nationaux tels que l'unité et une société juste) sont les fins à atteindre, tandis que les cinq principes sont les fondements et les guides de vie grâce auxquels ces aspirations sont réalisées. Ensemble, ils forment le serment complet du Rukun Negara."
 
 lang: "fr"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ qui ont gravement menacé l'unité et l'harmonie de la nation.
 Après cet incident, le système parlementaire de gouvernement a été suspendu et
 un organe administratif d'urgence, le **Conseil des opérations nationales
 (MAGERAN)**, a été établi pour rétablir la paix. MAGERAN était présidé par le
-vice-Premier ministre de l'époque, **Tun Abdul Razak Hussein**.
+vice-Premier ministre de l'époque, **[Tun Abdul Razak Hussein](/fr/malaysia/abdul-razak-hussein)**.
 
 Sous MAGERAN, Tun Abdul Razak a établi trois organes pour rétablir l'unité :
 

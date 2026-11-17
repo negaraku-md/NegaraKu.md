@@ -26,7 +26,7 @@ faq:
     a: "Ông từ chức vào ngày 22 tháng 9 năm 1970 sau hậu quả của các cuộc bạo loạn chủng tộc ngày 13 tháng 5 năm 1969, trong đó một tình trạng khẩn cấp được ban bố và quyền hành pháp chuyển sang một National Operations Council do người phó của ông, Abdul Razak Hussein, lãnh đạo."
 appliesTo: "Độc giả, học sinh - sinh viên và nhà nghiên cứu muốn có cái nhìn tổng quan ngắn gọn, có dẫn nguồn về nhà lãnh đạo khai quốc của Malaysia và lịch sử thời kỳ đầu của quốc gia."
 lang: "vi"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,7 +85,7 @@ Chiến thắng đưa Tunku lên làm Thủ hiến (Chief Minister) của Liên 
 
 ## Trở thành Thủ tướng đầu tiên của Malaya (1957)
 
-Vào đúng thời khắc độc lập ngày **31 tháng 8 năm 1957**, Tunku Abdul Rahman trở thành Thủ tướng đầu tiên của Liên bang Malaya. Buổi lễ tuyên bố tại Sân vận động Merdeka, nơi ông đọc Tuyên ngôn Độc lập và dẫn tiếng hô Merdeka, vẫn là hình ảnh khai quốc của dân tộc (Tuyên ngôn Độc lập Malaya). Chính phủ thời kỳ đầu của ông theo đuổi phát triển kinh tế, cải thiện nông thôn và một sự cân bằng cẩn trọng các lợi ích sắc tộc, đồng thời giữ Malaya đứng vững trong phe phương Tây chống cộng trong những năm kết thúc của Tình trạng Khẩn cấp Malaya.
+Vào đúng thời khắc độc lập ngày **31 tháng 8 năm 1957**, Tunku Abdul Rahman trở thành Thủ tướng đầu tiên của Liên bang Malaya. Buổi lễ tuyên bố tại Sân vận động Merdeka, nơi ông đọc Tuyên ngôn Độc lập và dẫn tiếng hô Merdeka, vẫn là hình ảnh khai quốc của dân tộc (Tuyên ngôn Độc lập Malaya). Chính phủ thời kỳ đầu của ông theo đuổi phát triển kinh tế, cải thiện nông thôn và một sự cân bằng cẩn trọng các lợi ích sắc tộc, đồng thời giữ Malaya đứng vững trong phe phương Tây chống cộng trong những năm kết thúc của [Tình trạng Khẩn cấp Malaya](/vi/malaysia/the-emergency).
 
 ## Sự thành lập Malaysia (1963) và sự tách ra của Singapore (1965)
 

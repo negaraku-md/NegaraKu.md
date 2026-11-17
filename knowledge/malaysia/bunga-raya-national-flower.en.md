@@ -28,7 +28,7 @@ faq:
     a: "It was already recognised throughout the country, had an attractive colour and shape, a uniform name, was easily available, and was not yet the national flower of any other country at the time."
 
 lang: "en"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ The red colour, in turn, symbolises courage in facing all challenges, as well as
 
 ## Where is the hibiscus used today?
 
-As one of the national symbols, the hibiscus stands alongside the [Jalur Gemilang](/malaysia/jalur-gemilang) (the flag) and the Jata Negara (the national coat of arms) as the official face of Malaysia, and its image often appears in national events and celebrations.
+As one of the national symbols, the hibiscus stands alongside the [Jalur Gemilang](/malaysia/jalur-gemilang) (the flag) and the [Jata Negara](/en/malaysia/coat-of-arms) (the national coat of arms) as the official face of Malaysia, and its image often appears in national events and celebrations.
 
 ## What's next
 

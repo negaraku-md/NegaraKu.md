@@ -29,7 +29,7 @@ faq:
     a: "Kedua momen itu benar. Pemindahan kedaulatan secara hukum berlaku pada tengah malam 31 Agustus 1957, ditandai dengan upacara bendera di lapangan di Kuala Lumpur. Upacara pengumuman publik, dengan pekikan Merdeka sebanyak tujuh kali, berlangsung kemudian pada pagi itu di Stadium Merdeka."
 
 lang: "id"
-sourceContentHash: "9d15ea63aee3b87b"
+sourceContentHash: "ca15cfa45f8cdedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,7 +71,7 @@ Beberapa menit setelah tengah malam pada 31 Agustus 1957, di lapangan di depan b
 
 ## Delegasi yang pergi untuk bertanya
 
-Pada Januari 1956, sebuah delegasi Parti Perikatan — orang Melayu, Tionghoa, dan India yang berunding sebagai satu blok, dipimpin oleh Tunku Abdul Rahman — bertolak ke London untuk mengajukan sebuah pertanyaan spesifik kepada pemerintah Inggris: kapan, dan dengan syarat apa, Tanah Melayu akan memerintah sendiri? Jawaban yang mereka bawa pulang bukanlah jaminan yang samar. Inggris sepakat pada prinsipnya untuk kemerdekaan menjelang Agustus 1957, dengan syarat sebuah konstitusi yang dapat dilaksanakan disiapkan terlebih dahulu. Perjalanan tunggal itu mengubah "suatu hari nanti" menjadi sebuah tenggat waktu, dan segala yang menyusul dibangun untuk memenuhinya.
+Pada Januari 1956, sebuah delegasi [Parti Perikatan](/id/malaysia/the-alliance) — orang Melayu, Tionghoa, dan India yang berunding sebagai satu blok, dipimpin oleh Tunku Abdul Rahman — bertolak ke London untuk mengajukan sebuah pertanyaan spesifik kepada pemerintah Inggris: kapan, dan dengan syarat apa, Tanah Melayu akan memerintah sendiri? Jawaban yang mereka bawa pulang bukanlah jaminan yang samar. Inggris sepakat pada prinsipnya untuk kemerdekaan menjelang Agustus 1957, dengan syarat sebuah konstitusi yang dapat dilaksanakan disiapkan terlebih dahulu. Perjalanan tunggal itu mengubah "suatu hari nanti" menjadi sebuah tenggat waktu, dan segala yang menyusul dibangun untuk memenuhinya.
 
 ## Menulis buku aturan sebelum acaranya
 

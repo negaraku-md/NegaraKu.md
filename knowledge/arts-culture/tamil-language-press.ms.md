@@ -31,7 +31,7 @@ faq:
     a: "Ia mencerminkan trend sejagat yang sama dalam media cetak — pembaca yang lebih muda mengakses berita menerusi internet, aplikasi telefon bimbit dan media sosial. Kemerosotan hasil pengiklanan dan kos percetakan secara bersama telah mendorong banyak akhbar untuk mengutamakan edisi digital."
 
 lang: "ms"
-sourceContentHash: "b7243674f3b8cc52"
+sourceContentHash: "32a4a04add201056"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -93,7 +93,7 @@ akhbar.
 ## Sejarah: kewartawanan Tamil di Tanah Melayu zaman kolonial
 
 Akar umbi akhbar Tamil terletak di Tanah Melayu zaman kolonial British,
-khususnya di **Negeri-negeri Selat (Straits Settlements)**. Menurut para
+khususnya di **[Negeri-negeri Selat (Straits Settlements)](/ms/malaysia/straits-settlements)**. Menurut para
 penyelidik, **Pulau Pinang** merupakan tempat kelahiran banyak penerbitan Tamil
 pada era kolonial; dari akhir abad ke-19 hingga awal abad ke-20, usaha sastera
 dan kewartawanan Tamil berkembang di sana.

@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a6100396bc06f2b"
+sourceContentHash: "99342f6158195953"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -172,7 +172,7 @@ DOSM mengelaskan sesebuah negeri sebagai "menua" sebaik sahaja bahagian umur 65-
 
 ## Apa yang seterusnya
 
-Bagi latar belakang perlembagaan dan sejarah tentang bagaimana populasi Bumiputera Sabah dan Sarawak mula dikira sebagai sebahagian daripada statistik persekutuan, lihat profil negeri bagi [Sabah](/states/sabah) dan [Sarawak](/states/sarawak), yang kedua-duanya menyertai persekutuan atas terma yang ditetapkan dalam Perjanjian Malaysia 1963.
+Bagi latar belakang perlembagaan dan sejarah tentang bagaimana populasi Bumiputera Sabah dan Sarawak mula dikira sebagai sebahagian daripada statistik persekutuan, lihat profil negeri bagi [Sabah](/states/sabah) dan [Sarawak](/states/sarawak), yang kedua-duanya menyertai persekutuan atas terma yang ditetapkan dalam [Perjanjian Malaysia 1963](/malaysia/ma63).
 
 Bagi dokumen penyatuan kebangsaan yang wujud di samping — bukan menggantikan — statistik etnik Malaysia, lihat [Rukun Negara](/malaysia/rukun-negara).
 

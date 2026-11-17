@@ -31,7 +31,7 @@ verificationNeeded:
   - "재임 날짜는 총리실(Prime Minister's Office)과 프르다나 지도력 재단(Perdana Leadership Foundation)과 대조하여 확인하여야 한다. 이스마일 사브리 야콥(Ismail Sabri Yaakob)은 의회(Parliament) 해산(2022년 10월 10일) 후 안와르 이브라힘(Anwar Ibrahim)이 2022년 11월 24일 선서 취임할 때까지 과도기 총리로 남아 있었다 — 종료일은 직위의 이양을 반영한다. 초안이므로 발행 전에 사람 검토자가 필요하다."
 
 lang: "ko"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,11 +79,11 @@ framework: data-reference
 
 | # | 총리 | 재임 기간 | 정당 / 연합 |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 1957년 8월 31일 ~ 1970년 9월 22일 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 1970년 9월 22일 ~ 1976년 1월 14일 | UMNO · Barisan Nasional 창설(1973) |
-| 3 | Hussein Onn | 1976년 1월 15일 ~ 1981년 7월 16일 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 1957년 8월 31일 ~ 1970년 9월 22일 | UMNO · [Alliance](/ko/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/ko/malaysia/abdul-razak-hussein) | 1970년 9월 22일 ~ 1976년 1월 14일 | UMNO · Barisan Nasional 창설(1973) |
+| 3 | [Hussein Onn](/ko/malaysia/hussein-onn) | 1976년 1월 15일 ~ 1981년 7월 16일 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(1기)* | 1981년 7월 16일 ~ 2003년 10월 31일 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 2003년 10월 31일 ~ 2009년 4월 3일 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/ko/malaysia/abdullah-ahmad-badawi) | 2003년 10월 31일 ~ 2009년 4월 3일 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 2009년 4월 3일 ~ 2018년 5월 9일 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(2기)* | 2018년 5월 10일 ~ 2020년 3월 1일 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 2020년 3월 1일 ~ 2021년 8월 16일 | Perikatan Nasional |

@@ -94,13 +94,13 @@ The council ran Malaysia until parliamentary government was restored in 1971. Br
 
 ## The New Economic Policy
 
-Out of the emergency came the policy most closely associated with Razak's name. Launched in 1971 as part of the Second Malaysia Plan, the **New Economic Policy (NEP)** set two overarching goals: to eradicate poverty irrespective of race, and to "restructure" society so that economic function was no longer identified with ethnicity (Perdana Leadership Foundation; Malaysian Bar). In practice this meant a broad programme of affirmative action intended to raise the economic share of Malays and other Bumiputera groups.
+Out of the emergency came the policy most closely associated with Razak's name. Launched in 1971 as part of the Second Malaysia Plan, the [**New Economic Policy (NEP)**](/malaysia/new-economic-policy) set two overarching goals: to eradicate poverty irrespective of race, and to "restructure" society so that economic function was no longer identified with ethnicity (Perdana Leadership Foundation; Malaysian Bar). In practice this meant a broad programme of affirmative action intended to raise the economic share of Malays and other Bumiputera groups.
 
 The NEP reshaped the Malaysian state. Razak's government created or expanded institutions to carry it out — among them the national oil company Petronas, the standards body SIRIM, the development bank Bank Pembangunan, and new universities such as Universiti Kebangsaan Malaysia. Its twenty-year horizon meant the policy long outlived its author, and its legacy continues to be debated.
 
 ## Barisan Nasional and the opening to China
 
-Politically, Razak's answer to the fragility exposed in 1969 was consensus-building on a grand scale. He drew former opposition parties into government, replacing the old three-party Alliance with a far broader coalition. This grouping took shape in 1973 and was formally registered as **Barisan Nasional** (the National Front) in 1974 (Malaysian Bar). It would go on to govern Malaysia continuously until 2018.
+Politically, Razak's answer to the fragility exposed in 1969 was consensus-building on a grand scale. He drew former opposition parties into government, replacing the old three-party [Alliance](/malaysia/the-alliance) with a far broader coalition. This grouping took shape in 1973 and was formally registered as [**Barisan Nasional**](/malaysia/barisan-nasional) (the National Front) in 1974 (Malaysian Bar). It would go on to govern Malaysia continuously until 2018.
 
 Abroad, Razak pursued a strikingly pragmatic course. In late May 1974 he travelled to Beijing, where he met Chairman Mao Zedong, and on 31 May 1974 the two governments signed a communiqué establishing diplomatic relations — making **Malaysia the first ASEAN country to recognise the People's Republic of China** (New Straits Times; The Star). The move, made at the height of the Cold War, reflected his broader policy of regional neutrality and non-alignment.
 

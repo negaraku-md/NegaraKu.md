@@ -32,7 +32,7 @@ faq:
   - q: "Quels enjeux contemporains les Nouveaux Villages affrontent-ils ?"
     a: "Parmi les enjeux courants figurent la tenure foncière (certaines parcelles sont détenues sous permis d'occupation temporaire / TOL ou titre de bail de 99 ans plutôt qu'en pleine propriété), le vieillissement de la population et l'exode des jeunes, ainsi que des infrastructures vieillissantes. Ces dernières années ont aussi vu des initiatives pour inscrire les Nouveaux Villages au patrimoine et pour revitaliser les communautés par des fresques murales, des parcours gastronomiques et des histoires de villages."
 lang: "fr"
-sourceContentHash: "53661275c9c0a492"
+sourceContentHash: "5a86ba6336d66776"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Entrez aujourd'hui à Semenyih, Kampar ou Sekinchan et ce que vous voyez, pour l'essentiel, c'est le visage ordinaire d'une petite ville : des rangées de maisons-boutiques, une école primaire chinoise, des temples et des associations de clan, des cafés de bord de route et des épiceries. Mais nombre de ces lieux partagent une identité commune : ce sont des « Nouveaux Villages ». Derrière ce nom en apparence banal se cache une histoire faite de l'Insurrection malaise, de contre-insurrection et de déplacement à grande échelle.
+Entrez aujourd'hui à Semenyih, Kampar ou Sekinchan et ce que vous voyez, pour l'essentiel, c'est le visage ordinaire d'une petite ville : des rangées de maisons-boutiques, une école primaire chinoise, des temples et des associations de clan, des cafés de bord de route et des épiceries. Mais nombre de ces lieux partagent une identité commune : ce sont des « Nouveaux Villages ». Derrière ce nom en apparence banal se cache une histoire faite de l'[Insurrection malaise](/fr/malaysia/the-emergency), de contre-insurrection et de déplacement à grande échelle.
 
 Les Nouveaux Villages chinois sont un type particulier de communauté de peuplement en Malaisie. Pour les comprendre, il faut remonter aux années 1948 à 1960 connues sous le nom d'« Insurrection malaise » (Malayan Emergency). Cet article explique, de manière descriptive et mesurée, comment les Nouveaux Villages sont apparus, comment était la vie sous contrôle aux premiers temps, et comment ils ont évolué vers les villes d'aujourd'hui après la guerre — sans porter de jugement politique sur aucune partie de l'époque.
 

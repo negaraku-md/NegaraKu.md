@@ -31,7 +31,7 @@ faq:
 
 
 lang: "hi"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | नाम | Permodalan Nasional Berhad (PNB) |
-| स्थापना | 17 मार्च 1978, मलेशिया की नई आर्थिक नीति के हिस्से के रूप में |
+| स्थापना | 17 मार्च 1978, मलेशिया की [नई आर्थिक नीति](/hi/malaysia/new-economic-policy) के हिस्से के रूप में |
 | पूर्ववर्ती | Yayasan Pelaburan Bumiputra (YPB), 9 जनवरी 1978 को स्थापित |
 | अधिदेश | बूमिपुत्र समुदाय और सभी मलेशियाई लोगों की आर्थिक संपदा बढ़ाना |
 | AUM | RM364 बिलियन (2025 के अंत तक, वर्ष-दर-वर्ष 4.5% अधिक) |

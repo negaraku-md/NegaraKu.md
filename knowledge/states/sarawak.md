@@ -113,7 +113,7 @@ under the Sarawak Corridor of Renewable Energy initiative. Tourism, built around
 state's rainforests, national parks and indigenous cultures, is a smaller but
 growing contributor. Sarawak has also pursued greater fiscal autonomy from the
 federal government, including negotiations over oil royalty rates and state
-revenue rights tied to its position under the Malaysia Agreement 1963.
+revenue rights tied to its position under the [Malaysia Agreement 1963](/malaysia/ma63).
 
 ## Doing business here
 

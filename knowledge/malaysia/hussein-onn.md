@@ -122,7 +122,7 @@ On 14 January 1976 Abdul Razak, Malaysia's second Prime Minister, died in London
 while in office. Hussein Onn was sworn in as the country's **third Prime
 Minister on 15 January 1976**. He inherited a nation still working through the
 aftermath of the 1969 racial unrest and the sweeping affirmative-action programme
-Razak had launched, and he governed through the **Barisan Nasional** coalition
+Razak had launched, and he governed through the [**Barisan Nasional**](/malaysia/barisan-nasional) coalition
 that brought Malay, Chinese and Indian parties under one tent. Britannica
 describes his government as a multiracial coalition that remained generally
 peaceful despite continuing communal tensions and a lingering communist

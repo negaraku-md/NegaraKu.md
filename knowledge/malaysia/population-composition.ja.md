@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a6100396bc06f2b"
+sourceContentHash: "99342f6158195953"
 
 status: "published"
 aiAssisted: true
@@ -171,7 +171,7 @@ DOSMは、65歳以上の比率が7%を超えた州を「高齢化」州に分類
 
 ## 次のステップ
 
-サバとサラワクのブミプトラ人口が、そもそもどのようにして連邦統計の一部として数えられるようになったのかという、憲法上及び歴史的な背景については、[サバ](/ja/states/sabah)と[サラワク](/ja/states/sarawak)の州プロフィールを参照のこと。両州はいずれも、1963年マレーシア協定（Malaysia Agreement 1963）に定められた条件のもとで連邦に加入した。
+サバとサラワクのブミプトラ人口が、そもそもどのようにして連邦統計の一部として数えられるようになったのかという、憲法上及び歴史的な背景については、[サバ](/ja/states/sabah)と[サラワク](/ja/states/sarawak)の州プロフィールを参照のこと。両州はいずれも、[1963年マレーシア協定](/ja/malaysia/ma63)（Malaysia Agreement 1963）に定められた条件のもとで連邦に加入した。
 
 マレーシアの民族統計に取って代わるものではなく、それと並び立つ国家統合の文書については、[国家原則（Rukun Negara）](/ja/malaysia/rukun-negara)を参照のこと。
 

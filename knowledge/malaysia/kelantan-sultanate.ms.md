@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang ingin memahami asal usul monark
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "30b2455886499938"
+sourceContentHash: "7959d9e4e2088c71"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,7 +69,7 @@ Inilah kisah bagaimana kesultanan itu terbentuk, mengapa ia menghabiskan begitu 
 
 ## Sebelum penyatuan: Kelantan, Melaka dan tarikan Patani
 
-Kelantan sudah tua. Jejak arkeologi petempatan menjangkau kembali ke zaman prasejarah, dan Kelantan awal disentuh bergilir-gilir oleh dunia perdagangan dan politik Funan, Srivijaya, alam Khmer, Majapahit, Champa dan Siam. Menjelang awal abad kelima belas ia merupakan sebuah pusat perdagangan yang ternama di bawah seorang pemerintah Islam, dan pada 1499 ia direkodkan sebagai sebuah negeri naungan [Kesultanan Melaka](/ms/malaysia/melaka-sultanate), ketika itu kuasa dominan di Selat.
+Kelantan sudah tua. Jejak arkeologi petempatan menjangkau kembali ke zaman prasejarah, dan Kelantan awal disentuh bergilir-gilir oleh dunia perdagangan dan politik Funan, [Srivijaya](/ms/malaysia/srivijaya), alam Khmer, Majapahit, Champa dan Siam. Menjelang awal abad kelima belas ia merupakan sebuah pusat perdagangan yang ternama di bawah seorang pemerintah Islam, dan pada 1499 ia direkodkan sebagai sebuah negeri naungan [Kesultanan Melaka](/ms/malaysia/melaka-sultanate), ketika itu kuasa dominan di Selat.
 
 Apabila Melaka jatuh kepada Portugis pada 1511, sauh selatan itu lenyap, dan Kelantan hanyut ke dalam lingkungan sebuah kuasa yang berbeza: Patani, kerajaan Melayu tepat di utaranya, di kawasan yang kini selatan Thailand. Menurut Encyclopaedia Britannica dan sejarah lain, ketua-ketua tempatan memerintah Kelantan yang berpecah-belah dan membayar ufti kepada Patani, dan menjelang abad ketujuh belas kebanyakan mereka pada hakikatnya tertakluk kepadanya. Kedua-dua rantau berkongsi bahasa, adat, agama dan salasilah pemerintah; sempadan yang kini memisahkan "Malaysia" daripada "Thailand" belum lagi wujud. Hubungan Patani yang mendalam ini penting kepada asal usul kesultanan — kerana lelaki yang akan menyatukan Kelantan datang tepat daripada dunia itu.
 
@@ -77,7 +77,7 @@ Apabila Melaka jatuh kepada Portugis pada 1511, sauh selatan itu lenyap, dan Kel
 
 Negeri Kelantan moden dipateri menjadi satu pada separuh kedua abad kelapan belas, daripada satu perebutan panjang dalam kalangan raja-raja tempatan. Tokoh yang dikreditkan dengan penyatuan itu ialah **Long Yunus**, digambarkan dalam riwayat lazim sebagai seorang panglima perang bangsawan berasal Patani.
 
-Kebangkitannya melalui darah dan buangan. Selepas ayahnya dibunuh pada 1756, Long Yunus melarikan diri ke Kesultanan Terengganu yang berjiran, yang pemerintahnya akhirnya menyokong usahanya untuk berkuasa. Kembali di hadapan sokongan itu, dia menewaskan saingan-saingannya dan mengisytiharkan dirinya Raja Kelantan, menjadi pengasas negeri moden itu. Sumber berselisih tentang tahun tepat — riwayat meletakkan pertabalannya pelbagai sekitar 1760, 1763, 1764 atau pertengahan 1770-an — tetapi kesemuanya bersetuju bahawa penyatuan yang menentukan itu tergolong dalam 1760-an–1770-an, dan bahawa daripada Long Yunus inilah wangsa diraja sekarang berketurunan.
+Kebangkitannya melalui darah dan buangan. Selepas ayahnya dibunuh pada 1756, Long Yunus melarikan diri ke [Kesultanan Terengganu](/ms/malaysia/terengganu-sultanate) yang berjiran, yang pemerintahnya akhirnya menyokong usahanya untuk berkuasa. Kembali di hadapan sokongan itu, dia menewaskan saingan-saingannya dan mengisytiharkan dirinya Raja Kelantan, menjadi pengasas negeri moden itu. Sumber berselisih tentang tahun tepat — riwayat meletakkan pertabalannya pelbagai sekitar 1760, 1763, 1764 atau pertengahan 1770-an — tetapi kesemuanya bersetuju bahawa penyatuan yang menentukan itu tergolong dalam 1760-an–1770-an, dan bahawa daripada Long Yunus inilah wangsa diraja sekarang berketurunan.
 
 Long Yunus meninggal dunia pada 1795, dan selama beberapa tahun Kelantan sekali lagi jatuh di bawah ketuanan Terengganu. Pengangkatan rasmi dinasti itu datang dengan anaknya, **Long Muhammad**, yang mengisytiharkan dirinya **Sultan Muhammad I** sekitar 1800 dan ditabalkan sebagai pemerintah pada tahun-tahun yang menyusul. Dengan gelaran itu, penaklukan seorang panglima perang menjadi sebuah kesultanan — institusi yang bertahan hari ini.
 

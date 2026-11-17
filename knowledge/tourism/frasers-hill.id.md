@@ -37,7 +37,7 @@ faq:
     a: "Berjalan di jalur alam hutan (Bishop, Maxwell, Rompin dan Kindersley termasuk yang paling dikenal), mengunjungi kawasan rekreasi Air Terjun Jeriau, menjelajah desa mock-Tudor di sekitar menara jam, dan sekadar menikmati laju yang sejuk dan lambat (Wikipedia). Ada lapangan golf dan sejumlah warisan era kolonial untuk dilihat, tetapi sesuai rancangan ada sangat sedikit kehidupan malam."
 
 lang: "id"
-sourceContentHash: "7bc61ffb1513250c"
+sourceContentHash: "72a87741425fdeb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird 
 framework: profile
 ---
 
-Sebagian besar stasiun bukit Malaysia menjual Anda sesuatu — kasino, perkebunan teh, ladang stroberi, taman tema. Fraser's Hill menjual Anda ketiadaan semua itu. Terhampar di gugusan punggungan berhutan di barisan Titiwangsa, ia stasiun era kolonial yang kecil, tenang dan berselimut kabut tempat hal paling nyaring yang akan Anda dengar adalah kicau burung, dan tempat sweter berhenti terasa konyol bahkan di khatulistiwa. Bagi pengamat burung ia nyaris tanah suci; bagi semua orang lain ia alternatif yang lambat dan sederhana bagi tetangga dataran tingginya yang lebih mencolok. Panduan ini mencakup apa sebenarnya Fraser's Hill, mengapa pengamat burung datang, apa yang bisa dilihat, bagaimana jalan naik yang berliku bekerja, serta siapa yang cocok dan tidak cocok dengan tempat ini.
+Sebagian besar stasiun bukit Malaysia menjual Anda sesuatu — kasino, perkebunan teh, ladang stroberi, taman tema. Fraser's Hill menjual Anda ketiadaan semua itu. Terhampar di gugusan punggungan berhutan di [barisan Titiwangsa](/id/malaysia/titiwangsa-range), ia stasiun era kolonial yang kecil, tenang dan berselimut kabut tempat hal paling nyaring yang akan Anda dengar adalah kicau burung, dan tempat sweter berhenti terasa konyol bahkan di khatulistiwa. Bagi pengamat burung ia nyaris tanah suci; bagi semua orang lain ia alternatif yang lambat dan sederhana bagi tetangga dataran tingginya yang lebih mencolok. Panduan ini mencakup apa sebenarnya Fraser's Hill, mengapa pengamat burung datang, apa yang bisa dilihat, bagaimana jalan naik yang berliku bekerja, serta siapa yang cocok dan tidak cocok dengan tempat ini.
 
 ## Di mana Fraser's Hill, dan apa sebenarnya ia?
 
@@ -107,7 +107,7 @@ Nama itu berasal dari **Louis James Fraser** (beberapa sumber mengejanya Lewis),
 
 Bukit itu mendapat kehidupan kedua secara kebetulan. Ketika C. J. Ferguson-Davie, Uskup Singapura, datang mencari Fraser yang saat itu telah lenyap pada 1917, ia mengenali potensi punggungan yang sejuk dan berhutan sebagai tempat peristirahatan stasiun bukit (Wikipedia). Survei menyusul, jalan dipahat naik dari The Gap, dan pada **1922** Fraser's Hill yang baru dinamai dibuka untuk pengunjung (Wikipedia). Britania membangunnya dalam gaya desa Inggris di awan — yang menjelaskan mengapa arsitektur hari ini **sebagian besar mock-Tudor**, dengan gable setengah kayu dan semacamnya. Pada 2019 kawasan ini menghitung **46 bangunan warisan** yang dibangun antara 1919 dan 1957 (Wikipedia). Menara jam yang menjangkar lapangan hijau desa adalah citra kartu pos tempat ini, meski ia penanda yang lebih baru yang dibangun dalam gaya kolonial yang sama alih-alih struktur kolonial asli.
 
-Sepotong sejarah yang lebih kelam dan tahan lama menjadi milik jalan naik. Selama **Darurat Malaya**, pada **7 Oktober 1951**, Komisaris Tinggi Britania **Sir Henry Gurney dibunuh dalam penyergapan komunis di jalan ke Fraser's Hill dekat The Gap** (Wikipedia). Ia salah satu peristiwa paling berdampak dari Darurat, dan jalan pendekatan berliku yang Anda setir hari ini adalah rute yang sama. Ia dikenang sebagai fakta sejarah yang serius, bukan atraksi wisata.
+Sepotong sejarah yang lebih kelam dan tahan lama menjadi milik jalan naik. Selama **[Darurat Malaya](/id/malaysia/the-emergency)**, pada **7 Oktober 1951**, Komisaris Tinggi Britania **Sir Henry Gurney dibunuh dalam penyergapan komunis di jalan ke Fraser's Hill dekat The Gap** (Wikipedia). Ia salah satu peristiwa paling berdampak dari Darurat, dan jalan pendekatan berliku yang Anda setir hari ini adalah rute yang sama. Ia dikenang sebagai fakta sejarah yang serius, bukan atraksi wisata.
 
 ## Mengapa Fraser's Hill menjadi mekah pengamatan burung?
 

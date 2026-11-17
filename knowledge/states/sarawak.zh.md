@@ -34,7 +34,7 @@ verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fe6d42d875ef660f"
+sourceContentHash: "dc6f821d38c2946d"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ framework: profile
 为首，为该州在砂拉越再生能源走廊（Sarawak Corridor of Renewable Energy）倡议下
 推动发展能源密集型产业提供电力。围绕该州雨林、国家公园与原住民文化打造的旅游业，
 是一个较小但正在增长的贡献来源。砂拉越亦寻求相对于联邦政府的更大财政自治，包括
-就石油开采税率以及与其在1963年马来西亚协议下地位相关的州收入权利进行磋商。
+就石油开采税率以及与其在[1963年马来西亚协议](/zh/malaysia/ma63)下地位相关的州收入权利进行磋商。
 
 ## 在此经商
 

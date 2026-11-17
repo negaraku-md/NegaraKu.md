@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "vi"
-sourceContentHash: "fe6d42d875ef660f"
+sourceContentHash: "dc6f821d38c2946d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ theo sáng kiến Hành lang Năng lượng Tái tạo Sarawak. Du lịch, đư�
 các khu rừng mưa, vườn quốc gia và các nền văn hóa bản địa của bang, là một nơi đóng góp nhỏ hơn nhưng
 đang tăng trưởng. Sarawak cũng đã theo đuổi quyền tự chủ tài chính lớn hơn từ chính phủ
 liên bang, bao gồm các cuộc thương lượng về mức tiền bản quyền dầu và quyền nguồn thu
-của bang gắn với vị thế của nó theo Thỏa thuận Malaysia 1963.
+của bang gắn với vị thế của nó theo [Thỏa thuận Malaysia 1963](/vi/malaysia/ma63).
 
 ## Kinh doanh tại đây
 

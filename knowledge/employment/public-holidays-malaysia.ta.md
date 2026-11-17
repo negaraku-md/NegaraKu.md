@@ -38,7 +38,7 @@ verificationNeeded:
   - "Cabinet Division அட்டவணையில் மாற்றத்திற்கு உட்பட்டதாகக் குறிக்கப்பட்ட தேதிகளை உறுதிப்படுத்தவும் — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan மற்றும் Hari Raya Qurban இரண்டாம் நாள் அனைத்தும் குறிக்கப்பட்டுள்ளன"
 
 lang: "ta"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -180,7 +180,7 @@ Cabinet Division (Bahagian Kabinet) அட்டவணையின்படி, 
 | விடுமுறை | 2026 தேதி |
 | --- | --- |
 | புத்தாண்டு தினம் | 1 ஜனவரி |
-| நெகிரி செம்பிலான் (Negeri Sembilan) யாங் டி-பெர்துவான் பெசார் அவர்களின் பிறந்தநாள் | 14 ஜனவரி |
+| [நெகிரி செம்பிலான் (Negeri Sembilan) யாங் டி-பெர்துவான் பெசார்](/ta/malaysia/negeri-sembilan-royal-institution) அவர்களின் பிறந்தநாள் | 14 ஜனவரி |
 | இஸ்ராக் மற்றும் மிக்ராஜ் | 17 ஜனவரி |
 | [தைப்பூசம்](/arts-culture/thaipusam) | 1 பிப்ரவரி |
 | கூட்டாட்சி பிரதேச தினம் (Federal Territory Day) | 1 பிப்ரவரி |

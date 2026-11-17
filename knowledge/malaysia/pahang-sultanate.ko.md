@@ -21,7 +21,7 @@ appliesTo: "말레이시아 동해안의 말레이 왕실 가문들이 어떻게
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "13c4da63ac434796"
+sourceContentHash: "ed321bc406e7501b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -91,7 +91,7 @@ framework: history-culture
 
 툰 알리의 죽음은 형제를 서로 맞서게 했습니다. 그의 유언은 전하는 바로 콴탄(Kuantan)과 엔다우(Endau)의 세입을 작은아들 완 아맛(Wan Ahmad)에게 주었으나, 븐다하라를 이은 큰아들 툰 무타히르(Tun Mutahir)는 그 조항을 지키지 않았고 나중에는 그것을 몰랐다고 주장했습니다. 자신의 어머니가 툰 알리의 정실이었기에 자신에게 더 강한 권리가 있다고 주장한 완 아맛은 형의 통치를 받아들이기를 거부했습니다.
 
-그 결과가 대략 1857년에서 1863년 사이에 벌어진 **파항 내전(Pahang Civil War)**이었습니다. 그것은 지역 내의 다툼만이 아니었습니다: 이 갈등은 분열해 가던 말레이 세계의 이웃 세력들을 끌어들였습니다. 완 아맛은 북쪽 트렝가누(Terengganu) 술탄국과 시암(Siam)에서 지원을 끌어온 반면, 조호르의 트믕궁(Temenggung)은 반대편에서 이 다툼에 끌려 들어갔습니다. 여러 해에 걸친 교전 끝에 완 아맛이 승리했습니다. 툰 무타히르는 물러나 1863년 조호르 쪽으로 달아났고 그곳에서 죽었습니다. 완 아맛은 같은 해 파항의 라자 븐다하라가 되었습니다.
+그 결과가 대략 1857년에서 1863년 사이에 벌어진 **파항 내전(Pahang Civil War)**이었습니다. 그것은 지역 내의 다툼만이 아니었습니다: 이 갈등은 분열해 가던 말레이 세계의 이웃 세력들을 끌어들였습니다. 완 아맛은 북쪽 [트렝가누(Terengganu) 술탄국](/ko/malaysia/terengganu-sultanate)과 시암(Siam)에서 지원을 끌어온 반면, 조호르의 트믕궁(Temenggung)은 반대편에서 이 다툼에 끌려 들어갔습니다. 여러 해에 걸친 교전 끝에 완 아맛이 승리했습니다. 툰 무타히르는 물러나 1863년 조호르 쪽으로 달아났고 그곳에서 죽었습니다. 완 아맛은 같은 해 파항의 라자 븐다하라가 되었습니다.
 
 ## 되살아난 술탄국: 술탄 아맛 알무아잠 샤
 
@@ -107,7 +107,7 @@ framework: history-culture
 
 ## 오늘의 가문 — 그리고 말레이시아의 국왕
 
-술탄 아맛이 세운 븐다하라 왕조는 왕조적 단절 없이 현재까지 통치해 왔습니다. 제2차 세계대전 뒤 파항은 말라야 연합(Malayan Union)과 말라야 연방(Federation of Malaya)을 거쳐 1957년 독립에 이르렀고, 그 술탄은 국가 군주를 선출하는 [아홉 통치 주](/ko/malaysia/nine-royal-houses)의 통치자들 가운데 하나가 되었습니다.
+술탄 아맛이 세운 븐다하라 왕조는 왕조적 단절 없이 현재까지 통치해 왔습니다. 제2차 세계대전 뒤 파항은 [말라야 연합](/ko/malaysia/malayan-union)(Malayan Union)과 말라야 연방(Federation of Malaya)을 거쳐 1957년 독립에 이르렀고, 그 술탄은 국가 군주를 선출하는 [아홉 통치 주](/ko/malaysia/nine-royal-houses)의 통치자들 가운데 하나가 되었습니다.
 
 그 연결은 2019년에 생생해졌습니다. 2019년 1월 15일, 텡쿠 압둘라(Tengku Abdullah)는 아버지 술탄 아맛 샤(Sultan Ahmad Shah)의 양위 이후 [파항](/ko/states/pahang)의 술탄으로 선포되었습니다. 그로부터 꼭 일주일 남짓 지난 2019년 1월 24일, 통치자 회의(Conference of Rulers)는 그를 말레이시아의 국왕인 **제16대 양 디페르투안 아공(Yang di-Pertuan Agong)**으로 선출했으며, 그의 재위는 당시 말레이시아키니(Malaysiakini)를 비롯한 언론이 보도했듯 1월 31일에 시작되었습니다. 그는 2024년 1월까지 연방 군주로 재위했습니다. 1881년 지방의 강가에서 되살아난 왕좌가 몇 세대 만에 온 나라의 국가원수를 배출한 것입니다.
 

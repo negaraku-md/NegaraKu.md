@@ -38,7 +38,7 @@ verificationNeeded:
   - "التحقق من التواريخ المُشار إلى أنها قابلة للتغيير في جدول قسم مجلس الوزراء — عيد الفطر (Hari Raya Puasa)، وعيد الأضحى (Hari Raya Qurban)، وديبافالي (Deepavali)، وبداية رمضان (Awal Ramadan)، واليوم الثاني من عيد الأضحى، جميعها مُشار إليها"
 
 lang: "ar"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ framework: data-reference
 | العطلة | تاريخ 2026 |
 | --- | --- |
 | رأس السنة الميلادية | 1 يناير |
-| عيد ميلاد حاكم نيغري سمبيلان الأعلى (Yang di-Pertuan Besar of Negeri Sembilan) | 14 يناير |
+| عيد ميلاد [حاكم نيغري سمبيلان الأعلى](/ar/malaysia/negeri-sembilan-royal-institution) (Yang di-Pertuan Besar of Negeri Sembilan) | 14 يناير |
 | الإسراء والمعراج | 17 يناير |
 | [ثايبوسام](/arts-culture/thaipusam) | 1 فبراير |
 | يوم الأقاليم الاتحادية | 1 فبراير |

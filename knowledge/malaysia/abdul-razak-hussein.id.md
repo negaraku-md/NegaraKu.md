@@ -30,7 +30,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang mencari gambaran netral dan bers
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52dc01cd361df845"
+sourceContentHash: "f0e07118f47f6b2d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -95,13 +95,13 @@ Majelis itu menjalankan Malaysia hingga pemerintahan parlementer dipulihkan pada
 
 ## Dasar Ekonomi Baru
 
-Dari darurat itu lahirlah kebijakan yang paling dekat dikaitkan dengan nama Razak. Diluncurkan pada 1971 sebagai bagian dari Rancangan Malaysia Kedua, **Dasar Ekonomi Baru (DEB)** menetapkan dua tujuan utama: membasmi kemiskinan tanpa memandang ras, dan "menyusun ulang" masyarakat sehingga fungsi ekonomi tidak lagi diidentikkan dengan etnisitas (Perdana Leadership Foundation; Malaysian Bar). Dalam praktiknya hal ini berarti sebuah program luas tindakan afirmatif yang bertujuan meningkatkan pangsa ekonomi orang Melayu dan kelompok Bumiputera lainnya.
+Dari darurat itu lahirlah kebijakan yang paling dekat dikaitkan dengan nama Razak. Diluncurkan pada 1971 sebagai bagian dari Rancangan Malaysia Kedua, [**Dasar Ekonomi Baru (DEB)**](/id/malaysia/new-economic-policy) menetapkan dua tujuan utama: membasmi kemiskinan tanpa memandang ras, dan "menyusun ulang" masyarakat sehingga fungsi ekonomi tidak lagi diidentikkan dengan etnisitas (Perdana Leadership Foundation; Malaysian Bar). Dalam praktiknya hal ini berarti sebuah program luas tindakan afirmatif yang bertujuan meningkatkan pangsa ekonomi orang Melayu dan kelompok Bumiputera lainnya.
 
 DEB membentuk ulang negara Malaysia. Pemerintahan Razak menciptakan atau memperluas lembaga-lembaga untuk melaksanakannya — di antaranya perusahaan minyak nasional Petronas, badan standar SIRIM, bank pembangunan Bank Pembangunan, dan universitas-universitas baru seperti Universiti Kebangsaan Malaysia. Cakrawala dua puluh tahunnya berarti kebijakan itu jauh melampaui usia penulisnya, dan warisannya terus diperdebatkan.
 
 ## Barisan Nasional dan pembukaan ke Tiongkok
 
-Secara politik, jawaban Razak atas kerapuhan yang tersingkap pada 1969 adalah pembangunan permufakatan dalam skala besar. Ia menarik bekas partai-partai oposisi ke dalam pemerintahan, menggantikan Perikatan tiga-partai yang lama dengan sebuah koalisi yang jauh lebih luas. Pengelompokan ini terbentuk pada 1973 dan secara resmi didaftarkan sebagai **Barisan Nasional** (National Front) pada 1974 (Malaysian Bar). Ia akan terus memerintah Malaysia tanpa putus hingga 2018.
+Secara politik, jawaban Razak atas kerapuhan yang tersingkap pada 1969 adalah pembangunan permufakatan dalam skala besar. Ia menarik bekas partai-partai oposisi ke dalam pemerintahan, menggantikan [Perikatan](/id/malaysia/the-alliance) tiga-partai yang lama dengan sebuah koalisi yang jauh lebih luas. Pengelompokan ini terbentuk pada 1973 dan secara resmi didaftarkan sebagai [**Barisan Nasional**](/id/malaysia/barisan-nasional) (National Front) pada 1974 (Malaysian Bar). Ia akan terus memerintah Malaysia tanpa putus hingga 2018.
 
 Di luar negeri, Razak menempuh jalur yang sangat pragmatis. Pada akhir Mei 1974 ia berkunjung ke Beijing, tempat ia bertemu Ketua Mao Zedong, dan pada 31 Mei 1974 kedua pemerintah menandatangani komunike yang menjalin hubungan diplomatik — menjadikan **Malaysia negara ASEAN pertama yang mengakui Republik Rakyat Tiongkok** (New Straits Times; The Star). Langkah itu, yang diambil di puncak Perang Dingin, mencerminkan kebijakannya yang lebih luas tentang kenetralan regional dan non-blok.
 

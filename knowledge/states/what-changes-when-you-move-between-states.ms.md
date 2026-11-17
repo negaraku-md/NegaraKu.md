@@ -35,7 +35,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3f5384eace2e70d2"
+sourceContentHash: "0d01e7c35a91fe70"
 masterLanguage: "en"
 
 status: "published"
@@ -121,7 +121,7 @@ Inilah senarai pendek perubahan sebenar:
 
 ## Yang berbeza: berpindah ke Sabah atau Sarawak
 
-Perpindahan **ke Sabah atau Sarawak** — atau antara kedua-duanya — bukan sekadar perpindahan antara negeri dengan kertas kerja tambahan. Di bawah **Malaysia Agreement 1963 (MA63)**, kedua-dua negeri mengekalkan kuasa yang tidak dimiliki oleh negeri-negeri Semenanjung, dan yang akan anda rasai dengan segera ialah **imigresen**.
+Perpindahan **ke Sabah atau Sarawak** — atau antara kedua-duanya — bukan sekadar perpindahan antara negeri dengan kertas kerja tambahan. Di bawah **[Malaysia Agreement 1963](/ms/malaysia/ma63) (MA63)**, kedua-dua negeri mengekalkan kuasa yang tidak dimiliki oleh negeri-negeri Semenanjung, dan yang akan anda rasai dengan segera ialah **imigresen**.
 
 - **Mereka mengawal imigresen mereka sendiri, dan ia dikuatkuasakan.** Seorang rakyat Malaysia dari Semenanjung menggunakan **MyKad mereka sebagai pengenalan** (tiada pasport diperlukan) tetapi masih **melalui kawalan imigresen negeri semasa kemasukan** dan dibenarkan masuk sebagai pelawat untuk tempoh yang terhad.
 - **Tinggal atau bekerja di sana memerlukan lebih daripada sekadar pertukaran alamat.** Untuk **bekerja, belajar atau menetap untuk jangka panjang**, anda secara amnya memerlukan **pas atau permit** daripada pihak berkuasa imigresen negeri — uruskan ini *sebelum* menganggap anda boleh sekadar berpindah masuk.

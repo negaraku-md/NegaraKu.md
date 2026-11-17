@@ -38,7 +38,7 @@ faq:
     a: "La Secretaría de la ASEAN tiene su sede en Yakarta, Indonesia. Está encabezada por el Secretario General de la ASEAN, actualmente el Dr. Kao Kim Hourn, de Camboya."
 
 lang: "es"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -134,8 +134,7 @@ framework: explainer
 
 El 8 de agosto de 1967, cinco hombres se reunieron en el salón principal del
 edificio del Ministerio de Asuntos Exteriores en Bangkok y firmaron un documento
-de dos páginas. Uno de ellos, el Viceprimer Ministro de Malasia Tun Abdul Razak
-Hussein, estaba situando a Malasia dentro de una organización que llegaría a
+de dos páginas. Uno de ellos, el Viceprimer Ministro de Malasia [Tun Abdul Razak Hussein](/es/malaysia/abdul-razak-hussein), estaba situando a Malasia dentro de una organización que llegaría a
 convertirse en el marco central de la política exterior del país durante casi
 seis décadas, y que la propia Malasia presidió en 2025.
 

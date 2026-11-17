@@ -27,7 +27,7 @@ faq:
   - q: "Di mana MSN berkantor pusat?"
     a: "Di Kompleks Sukan Negara, Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Ia juga mengelola kompleks pelatihan di beberapa negeri lain."
 lang: "id"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,7 +80,7 @@ Kantor pusatnya adalah **Kompleks Sukan Negara, Bukit Jalil**, 57000 Sri Petalin
 
 ## Kapan dan bagaimana ia dibentuk?
 
-MSN dibentuk di bawah **National Sports Council of Malaysia Act 1971**, yang kemudian **diamendemen pada 1979**. Majlis ini **diluncurkan secara resmi pada 21 Februari 1972** oleh Perdana Menteri kedua Malaysia, **Tun Abdul Razak Hussein**.
+MSN dibentuk di bawah **National Sports Council of Malaysia Act 1971**, yang kemudian **diamendemen pada 1979**. Majlis ini **diluncurkan secara resmi pada 21 Februari 1972** oleh Perdana Menteri kedua Malaysia, **Tun [Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein)**.
 
 Ia kemudian **direstrukturisasi pada 1981**, dan setelah itu program serta aktivitasnya berkembang secara signifikan — sejalan dengan tujuan Dasar Sukan Negara untuk memacu sepenuhnya promosi, pembangunan dan pencapaian olahraga di tingkat elite.
 

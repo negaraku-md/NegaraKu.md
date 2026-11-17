@@ -32,7 +32,7 @@ faq:
   - q: "What contemporary issues do the New Villages face?"
     a: "Common issues include land tenure (some plots held on a Temporary Occupation Licence / TOL or a 99-year leasehold title rather than freehold), an ageing population and youth out-migration, and ageing infrastructure. Recent years have also seen initiatives to list New Villages as heritage and to revitalise the communities through murals, food trails and village histories."
 lang: "en"
-sourceContentHash: "53661275c9c0a492"
+sourceContentHash: "5a86ba6336d66776"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Walk into Semenyih, Kampar or Sekinchan today and what you mostly see is the ordinary face of a small town: rows of shophouses, a Chinese primary school, temples and clan associations, roadside kopitiams and sundry shops. But many of these places share a common identity — they are "New Villages". Behind this seemingly plain label lies a history of the Malayan Emergency, counter-insurgency and mass relocation.
+Walk into Semenyih, Kampar or Sekinchan today and what you mostly see is the ordinary face of a small town: rows of shophouses, a Chinese primary school, temples and clan associations, roadside kopitiams and sundry shops. But many of these places share a common identity — they are "New Villages". Behind this seemingly plain label lies a history of the [Malayan Emergency](/en/malaysia/the-emergency), counter-insurgency and mass relocation.
 
 The Chinese New Villages are a specific type of settlement community in Malaysia. To understand them, you have to go back to the years from 1948 to 1960 known as the "Malayan Emergency". This article explains, in a descriptive and restrained way, how the New Villages came about, early life under control, and how they evolved into today's towns after the war — without passing political judgment on any party of that time.
 

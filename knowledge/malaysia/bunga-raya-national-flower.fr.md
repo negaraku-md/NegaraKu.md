@@ -28,7 +28,7 @@ faq:
     a: "Il était déjà reconnu dans tout le pays, avait une couleur et une forme attrayantes, un nom uniforme, était facilement disponible et n'était pas encore la fleur nationale d'un autre pays à l'époque."
 
 lang: "fr"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ La couleur rouge, quant à elle, symbolise le courage de relever tous les défis
 
 ## Où l'hibiscus est-il utilisé aujourd'hui ?
 
-En tant que l'un des symboles nationaux, l'hibiscus figure aux côtés du [Jalur Gemilang](/malaysia/jalur-gemilang) (le drapeau) et du Jata Negara (les armoiries nationales) comme le visage officiel de la Malaisie, et son image apparaît souvent lors des événements et célébrations nationaux.
+En tant que l'un des symboles nationaux, l'hibiscus figure aux côtés du [Jalur Gemilang](/malaysia/jalur-gemilang) (le drapeau) et du [Jata Negara](/fr/malaysia/coat-of-arms) (les armoiries nationales) comme le visage officiel de la Malaisie, et son image apparaît souvent lors des événements et célébrations nationaux.
 
 ## Et ensuite
 

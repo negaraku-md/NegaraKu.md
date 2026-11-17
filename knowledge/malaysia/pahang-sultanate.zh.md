@@ -21,7 +21,7 @@ appliesTo: "循线探寻马来西亚东海岸马来王室如何形成的读者�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "13c4da63ac434796"
+sourceContentHash: "ed321bc406e7501b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -91,7 +91,7 @@ framework: history-culture
 
 Tun Ali 之死使兄弟相争。据报他的遗嘱把关丹（Kuantan）与 Endau 的税收指定给幼子 Wan Ahmad，但继任为宰相的长子 Tun Mutahir 并未履行这一安排，后来更声称对此并不知情。Wan Ahmad 主张自己拥有更强的继承权，因为他的母亲是 Tun Ali 的正室，他拒绝接受其兄的统治。
 
-其结果便是 **彭亨内战**，大约在1857至1863年间进行。这不仅是一场本地的争执：这场冲突把一个碎裂中的马来世界里的邻邦势力也卷了进来。Wan Ahmad 得到北方登嘉楼苏丹王朝与暹罗的支持，而柔佛的天猛公（Temenggung）则被卷入到对立的一方。经过数年征战，Wan Ahmad 占了上风。Tun Mutahir 退却，并于1863年逃往柔佛，在那里去世。同年，Wan Ahmad 成为彭亨的 Raja Bendahara。
+其结果便是 **彭亨内战**，大约在1857至1863年间进行。这不仅是一场本地的争执：这场冲突把一个碎裂中的马来世界里的邻邦势力也卷了进来。Wan Ahmad 得到北方[登嘉楼苏丹王朝](/zh/malaysia/terengganu-sultanate)与暹罗的支持，而柔佛的天猛公（Temenggung）则被卷入到对立的一方。经过数年征战，Wan Ahmad 占了上风。Tun Mutahir 退却，并于1863年逃往柔佛，在那里去世。同年，Wan Ahmad 成为彭亨的 Raja Bendahara。
 
 ## 苏丹王朝的复兴：Sultan Ahmad al-Muadzam Shah
 
@@ -107,7 +107,7 @@ Wan Ahmad 以 Raja Bendahara 的身份统治了将近二十年。随后，1881�
 
 ## 现今的王室——以及一位马来西亚的国王
 
-Sultan Ahmad 所创立的宰相王朝，一脉相承、不曾断绝地延续至今。第二次世界大战后，彭亨经历马来亚联邦（Malayan Union）与马来亚联合邦，直至1957年独立，其苏丹也成为推选国家君主的[九个王室](/zh/malaysia/nine-royal-houses)之一。
+Sultan Ahmad 所创立的宰相王朝，一脉相承、不曾断绝地延续至今。第二次世界大战后，彭亨经历[马来亚联邦](/zh/malaysia/malayan-union)（Malayan Union）与马来亚联合邦，直至1957年独立，其苏丹也成为推选国家君主的[九个王室](/zh/malaysia/nine-royal-houses)之一。
 
 这层联系在2019年变得鲜明。2019年1月15日，Tengku Abdullah 在其父 Sultan Ahmad Shah 退位后被宣告为[彭亨](/zh/states/pahang)苏丹。仅仅一周多之后，2019年1月24日，统治者会议推选他为 **第16任最高元首**（Yang di-Pertuan Agong）——马来西亚的国王——其任期于1月31日开始，正如 Malaysiakini 及其他媒体当时的报道。他作为联邦君主在位至2024年1月。一个1881年在一处内陆河畔复兴的王座，在短短几代人之内，便产生了一位全国的元首。
 

@@ -21,7 +21,7 @@ appliesTo: "希望获得一份有据可查概览的读者、学生与研究者�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,7 +87,7 @@ framework: history-culture
 
 ## 1874年邦咯与那位做得太过头的参政司
 
-1874年1月20日，在停泊于邦咯岛（Pangkor Island）外海的殖民地汽船 *Pluto* 号上，海峡殖民地总督 Sir Andrew Clarke 召集各方，达成了后来所称的《邦咯条约》（Pangkor Engagement，或 Pangkor Treaty）。该协定承认 Raja Abdullah 为霹雳苏丹，而非其对手 Sultan Ismail——后者拒绝出席，并保留着王室御宝。协定还通过委任一名华人甲必丹（Kapitan）来平息拉律的争端，并把这个饱受战乱的地区更名为太平（Taiping）——意为「永久和平」。
+1874年1月20日，在停泊于邦咯岛（Pangkor Island）外海的殖民地汽船 *Pluto* 号上，[海峡殖民地](/zh/malaysia/straits-settlements)总督 Sir Andrew Clarke 召集各方，达成了后来所称的《邦咯条约》（Pangkor Engagement，或 Pangkor Treaty）。该协定承认 Raja Abdullah 为霹雳苏丹，而非其对手 Sultan Ismail——后者拒绝出席，并保留着王室御宝。协定还通过委任一名华人甲必丹（Kapitan）来平息拉律的争端，并把这个饱受战乱的地区更名为太平（Taiping）——意为「永久和平」。
 
 其最具深远影响的一条却较为低调。一名英国参政司（British Resident）将进驻霹雳宫廷，而苏丹承诺：除涉及马来宗教与习俗的问题外，参政司的建议「在一切问题上都必须征询并遵从」。在一句话之间，霹雳交出了它大部分的主权。邦咯模式——透过一名「建议」实则治理的参政司来间接统治——将被推广到整个半岛，并成为英国控制马来诸州的范本。
 

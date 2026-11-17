@@ -21,7 +21,7 @@ appliesTo: "Pembaca yang menjejaki cara wangsa diraja Melayu pantai timur Malays
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "13c4da63ac434796"
+sourceContentHash: "ed321bc406e7501b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -91,7 +91,7 @@ Pahang jatuh di bawah kuasa Bendahara-bendahara ini. Apabila empayar Johor berpe
 
 Kemangkatan Tun Ali mengadu-domba adik-beradik. Wasiatnya dilaporkan menyerahkan hasil Kuantan dan Endau kepada anak bongsunya, Wan Ahmad, tetapi anak sulungnya, Tun Mutahir — yang menggantikannya sebagai Bendahara — tidak menunaikan peruntukan itu, kemudian mendakwa tidak mengetahuinya. Wan Ahmad, yang berhujah dia mempunyai tuntutan yang lebih kuat kerana ibunya ialah isteri utama Tun Ali, enggan menerima pemerintahan saudaranya.
 
-Hasilnya ialah **Perang Saudara Pahang**, yang dilancarkan antara kira-kira 1857 dan 1863. Ia bukan sekadar pertengkaran tempatan: konflik itu menarik kuasa-kuasa jiran dunia Melayu yang sedang berpecah. Wan Ahmad mendapat sokongan daripada kesultanan Terengganu di utara dan daripada Siam, manakala Temenggung Johor ditarik ke dalam persaingan di pihak yang lain. Selepas bertahun-tahun berkempen, Wan Ahmad menang. Tun Mutahir berundur dan, pada 1863, melarikan diri ke arah Johor, di mana dia meninggal dunia. Wan Ahmad menjadi Raja Bendahara Pahang pada tahun yang sama.
+Hasilnya ialah **Perang Saudara Pahang**, yang dilancarkan antara kira-kira 1857 dan 1863. Ia bukan sekadar pertengkaran tempatan: konflik itu menarik kuasa-kuasa jiran dunia Melayu yang sedang berpecah. Wan Ahmad mendapat sokongan daripada [kesultanan Terengganu](/ms/malaysia/terengganu-sultanate) di utara dan daripada Siam, manakala Temenggung Johor ditarik ke dalam persaingan di pihak yang lain. Selepas bertahun-tahun berkempen, Wan Ahmad menang. Tun Mutahir berundur dan, pada 1863, melarikan diri ke arah Johor, di mana dia meninggal dunia. Wan Ahmad menjadi Raja Bendahara Pahang pada tahun yang sama.
 
 ## Sebuah kesultanan dihidupkan semula: Sultan Ahmad al-Muadzam Shah
 
@@ -107,7 +107,7 @@ Beberapa tahun kemudian Pahang disatukan ke dalam satu struktur penjajah yang le
 
 ## Wangsa sekarang — dan seorang raja bagi Malaysia
 
-Dinasti Bendahara yang diasaskan oleh Sultan Ahmad telah memerintah tanpa keretakan dinasti hingga ke hari ini. Selepas Perang Dunia Kedua, Pahang melalui Malayan Union dan Persekutuan Tanah Melayu hingga kemerdekaan pada 1957, dan sultannya menjadi salah satu daripada [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang pemerintahnya memilih raja negara.
+Dinasti Bendahara yang diasaskan oleh Sultan Ahmad telah memerintah tanpa keretakan dinasti hingga ke hari ini. Selepas Perang Dunia Kedua, Pahang melalui [Malayan Union](/ms/malaysia/malayan-union) dan Persekutuan Tanah Melayu hingga kemerdekaan pada 1957, dan sultannya menjadi salah satu daripada [sembilan kerabat diraja](/ms/malaysia/nine-royal-houses) yang pemerintahnya memilih raja negara.
 
 Hubungan itu menjadi nyata pada 2019. Pada 15 Januari 2019, Tengku Abdullah ditabalkan sebagai Sultan [Pahang](/ms/states/pahang) selepas ayahandanya, Sultan Ahmad Shah, turun takhta. Hanya lebih seminggu kemudian, pada 24 Januari 2019, Majlis Raja-Raja memilih baginda sebagai **Yang di-Pertuan Agong ke-16** — raja Malaysia — dengan pemerintahan baginda bermula pada 31 Januari, sebagaimana yang dilaporkan oleh Malaysiakini dan media lain ketika itu. Baginda memerintah sebagai raja persekutuan sehingga Januari 2024. Satu takhta yang dihidupkan semula di tebing sungai wilayah pada 1881 telah, dalam beberapa generasi, menghasilkan seorang ketua negara bagi seluruh negara.
 

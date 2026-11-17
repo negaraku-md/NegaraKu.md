@@ -30,7 +30,7 @@ appliesTo: "Độc giả, học sinh và nhà nghiên cứu muốn có một cá
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52dc01cd361df845"
+sourceContentHash: "f0e07118f47f6b2d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -95,13 +95,13 @@ Hội đồng điều hành Malaysia cho đến khi chính quyền nghị viện
 
 ## Chính sách Kinh tế Mới
 
-Từ tình trạng khẩn cấp đã ra đời chính sách gắn liền nhất với tên tuổi của Razak. Được khởi động năm 1971 như một phần của Kế hoạch Malaysia lần thứ hai, **Chính sách Kinh tế Mới (NEP)** đặt ra hai mục tiêu bao trùm: xóa bỏ nghèo đói bất kể chủng tộc, và "tái cơ cấu" xã hội để chức năng kinh tế không còn bị đồng nhất với sắc tộc (Perdana Leadership Foundation; Malaysian Bar). Trên thực tế điều này có nghĩa là một chương trình hành động khẳng định rộng lớn nhằm nâng cao tỷ phần kinh tế của người Mã Lai và các nhóm Bumiputera khác.
+Từ tình trạng khẩn cấp đã ra đời chính sách gắn liền nhất với tên tuổi của Razak. Được khởi động năm 1971 như một phần của Kế hoạch Malaysia lần thứ hai, [**Chính sách Kinh tế Mới (NEP)**](/vi/malaysia/new-economic-policy) đặt ra hai mục tiêu bao trùm: xóa bỏ nghèo đói bất kể chủng tộc, và "tái cơ cấu" xã hội để chức năng kinh tế không còn bị đồng nhất với sắc tộc (Perdana Leadership Foundation; Malaysian Bar). Trên thực tế điều này có nghĩa là một chương trình hành động khẳng định rộng lớn nhằm nâng cao tỷ phần kinh tế của người Mã Lai và các nhóm Bumiputera khác.
 
 NEP đã tái định hình nhà nước Malaysia. Chính phủ của Razak tạo ra hoặc mở rộng các thể chế để thực thi nó — trong đó có công ty dầu khí quốc gia Petronas, cơ quan tiêu chuẩn SIRIM, ngân hàng phát triển Bank Pembangunan, và các trường đại học mới như Universiti Kebangsaan Malaysia. Tầm nhìn hai mươi năm của nó có nghĩa là chính sách này tồn tại lâu hơn nhiều so với tác giả của nó, và di sản của nó tiếp tục được tranh luận.
 
 ## Barisan Nasional và sự mở cửa với Trung Quốc
 
-Về mặt chính trị, câu trả lời của Razak đối với sự mong manh bị phơi bày năm 1969 là xây dựng đồng thuận ở quy mô lớn. Ông lôi kéo các đảng đối lập cũ vào chính phủ, thay thế the Alliance ba đảng cũ bằng một liên minh rộng lớn hơn nhiều. Nhóm này định hình năm 1973 và được đăng ký chính thức là **Barisan Nasional** (Mặt trận Quốc gia) năm 1974 (Malaysian Bar). Nó sẽ tiếp tục cầm quyền Malaysia liên tục cho đến năm 2018.
+Về mặt chính trị, câu trả lời của Razak đối với sự mong manh bị phơi bày năm 1969 là xây dựng đồng thuận ở quy mô lớn. Ông lôi kéo các đảng đối lập cũ vào chính phủ, thay thế [the Alliance](/vi/malaysia/the-alliance) ba đảng cũ bằng một liên minh rộng lớn hơn nhiều. Nhóm này định hình năm 1973 và được đăng ký chính thức là [**Barisan Nasional**](/vi/malaysia/barisan-nasional) (Mặt trận Quốc gia) năm 1974 (Malaysian Bar). Nó sẽ tiếp tục cầm quyền Malaysia liên tục cho đến năm 2018.
 
 Ở nước ngoài, Razak theo đuổi một đường hướng thực dụng đáng chú ý. Vào cuối tháng 5 năm 1974 ông đến Bắc Kinh, nơi ông gặp Chủ tịch Mao Trạch Đông, và vào ngày 31 tháng 5 năm 1974 hai chính phủ ký một thông cáo thiết lập quan hệ ngoại giao — đưa **Malaysia trở thành quốc gia ASEAN đầu tiên công nhận Cộng hòa Nhân dân Trung Hoa** (New Straits Times; The Star). Động thái này, được thực hiện vào đỉnh điểm của Chiến tranh Lạnh, phản ánh chính sách rộng hơn của ông về trung lập khu vực và không liên kết.
 

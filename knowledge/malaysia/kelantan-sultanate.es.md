@@ -21,7 +21,7 @@ appliesTo: "Lectores, estudiantes e investigadores que quieran entender los orí
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "30b2455886499938"
+sourceContentHash: "7959d9e4e2088c71"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,7 +69,7 @@ Esta es la historia de cómo se formó ese sultanato, por qué pasó tanto tiemp
 
 ## Antes de la unificación: Kelantan, Melaka y el tirón de Patani
 
-Kelantan es antiguo. Los rastros arqueológicos de asentamiento se remontan a la prehistoria, y el Kelantan temprano fue tocado sucesivamente por los mundos comerciales y políticos de Funan, Srivijaya, el reino jemer, Majapahit, Champa y Siam. A comienzos del siglo XV era un notable centro comercial bajo un gobernante islámico, y en 1499 figura como vasallo del [Sultanato de Melaka](/es/malaysia/melaka-sultanate), entonces la potencia dominante de los estrechos.
+Kelantan es antiguo. Los rastros arqueológicos de asentamiento se remontan a la prehistoria, y el Kelantan temprano fue tocado sucesivamente por los mundos comerciales y políticos de Funan, [Srivijaya](/es/malaysia/srivijaya), el reino jemer, Majapahit, Champa y Siam. A comienzos del siglo XV era un notable centro comercial bajo un gobernante islámico, y en 1499 figura como vasallo del [Sultanato de Melaka](/es/malaysia/melaka-sultanate), entonces la potencia dominante de los estrechos.
 
 Cuando Melaka cayó ante los portugueses en 1511, aquel ancla meridional desapareció, y Kelantan derivó hacia la órbita de una potencia distinta: Patani, el reino malayo inmediatamente al norte, en lo que hoy es el sur de Tailandia. Según la Encyclopaedia Britannica y otras historias, caudillos locales gobernaban un Kelantan fragmentado y pagaban tributo a Patani, y para el siglo XVII la mayoría estaban efectivamente sujetos a él. Las dos regiones compartían lengua, costumbre, religión y estirpes gobernantes; la frontera que ahora separa «Malasia» de «Tailandia» aún no existía. Esta profunda conexión con Patani es esencial para el origen del sultanato, porque el hombre que unificaría Kelantan procedía exactamente de ese mundo.
 
@@ -77,7 +77,7 @@ Cuando Melaka cayó ante los portugueses en 1511, aquel ancla meridional desapar
 
 El estado moderno de Kelantan se soldó en la segunda mitad del siglo XVIII, a partir de una larga contienda entre rajás locales. La figura a la que se atribuye esa unificación es **Long Yunus**, descrito en los relatos estándar como un caudillo aristocrático de origen de Patani.
 
-Su ascenso transcurrió entre sangre y exilio. Tras ser asesinado su padre en 1756, Long Yunus huyó al vecino Sultanato de Terengganu, cuyo gobernante acabó respaldando su pretensión de poder. Al regresar al frente de ese apoyo, derrotó a sus rivales y se proclamó Raja de Kelantan, convirtiéndose en el fundador del estado moderno. Las fuentes difieren sobre el año preciso —los relatos sitúan su acceso variadamente hacia 1760, 1763, 1764 o mediados de la década de 1770—, pero todas coinciden en que la unificación decisiva pertenece a las décadas de 1760-1770, y en que es de Long Yunus de quien desciende la casa real actual.
+Su ascenso transcurrió entre sangre y exilio. Tras ser asesinado su padre en 1756, Long Yunus huyó al vecino [Sultanato de Terengganu](/es/malaysia/terengganu-sultanate), cuyo gobernante acabó respaldando su pretensión de poder. Al regresar al frente de ese apoyo, derrotó a sus rivales y se proclamó Raja de Kelantan, convirtiéndose en el fundador del estado moderno. Las fuentes difieren sobre el año preciso —los relatos sitúan su acceso variadamente hacia 1760, 1763, 1764 o mediados de la década de 1770—, pero todas coinciden en que la unificación decisiva pertenece a las décadas de 1760-1770, y en que es de Long Yunus de quien desciende la casa real actual.
 
 Long Yunus murió en 1795, y durante unos años Kelantan cayó de nuevo bajo la supremacía de Terengganu. La elevación formal de la dinastía llegó con su hijo, **Long Muhammad**, que se declaró **Sultán Muhammad I** hacia 1800 y fue instalado como gobernante en los años siguientes. Con ese título, la conquista de un caudillo se convirtió en un sultanato, la institución que perdura hoy.
 

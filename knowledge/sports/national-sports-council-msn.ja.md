@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -79,7 +79,7 @@ MSNは、マレーシアのスポーツ活動を統括する政府機関かつ�
 
 ## いつ、どのように設立されたのか？
 
-MSNは**1971年国家スポーツ評議会法**に基づき設立され、同法は後に**1979年に改正**された。評議会はマレーシア第2代首相**トゥン・アブドゥル・ラザク・フセイン（Tun Abdul Razak Hussein）**によって**1972年2月21日に正式に発足**した。
+MSNは**1971年国家スポーツ評議会法**に基づき設立され、同法は後に**1979年に改正**された。評議会はマレーシア第2代首相**トゥン・[アブドゥル・ラザク・フセイン](/ja/malaysia/abdul-razak-hussein)（Tun Abdul Razak Hussein）**によって**1972年2月21日に正式に発足**した。
 
 その後、**1981年に再編**され、以降、プログラムと活動を大幅に拡充した——国家スポーツ政策が掲げる、スポーツの奨励・発展・エリートレベルの成果を全面的に推進するという目標に沿ってである。
 

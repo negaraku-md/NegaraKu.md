@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencari penjelasan deskriptif ayat demi ayat tentang apa yang ditetapkan oleh Pasal 153 dan apa yang dikecualikannya, tanpa menghakimi perdebatan politik di sekitarnya."
 
 lang: "id"
-sourceContentHash: "db5076f747cd8ba7"
+sourceContentHash: "91d4996a886b6aaa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ Pasal 153 tetap menjadi subjek yang hidup bagi ulasan publik dan hukum. Dilapork
 
 Pemerintah Malaysia telah secara terbuka menegaskan kembali ketentuan ini. Pada Februari 2024, dalam menjawab seruan seorang anggota Parlemen untuk menilai ulang apakah kebijakan tindakan afirmatif yang mendasarinya masih memberi manfaat kepada penerima yang ditargetkan, Perdana Menteri Anwar Ibrahim menyatakan bahwa pemerintah "will continue upholding the position of the Constitution, including Article 153" — yaitu akan terus menegakkan kedudukan Konstitusi, termasuk Pasal 153 — menurut satu pernyataan Kantor Perdana Menteri.
 
-Secara terpisah, dalam ulasan hukum yang diterbitkan ulang oleh Malaysian Bar (aslinya diterbitkan oleh Raja Aziz Addruse dan Helen Ting dalam New Sunday Times, 22 Juni 2008), para penulis menulis bahwa ketentuan konstitusi mengenai "kedudukan istimewa" itu "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — yaitu dipahami lebih sebagai satu langkah perlindungan bagi masyarakat Melayu yang saat itu tertinggal dari segi sosioekonomi — dan mencatat bahwa "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — yaitu lima dari 12 ayat Pasal 153 bertujuan membatasi lingkup penerapannya. Mereka menyimpulkan bahwa "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — yaitu tidak ada dasar untuk mengusulkan bahwa penghapusan DEB mesti memerlukan amandemen atau pencabutan Pasal 153 — suatu pendirian yang membedakan teks konstitusi Pasal 153 dari kerangka kebijakan Dasar Ekonomi Baru (DEB) yang terpisah.
+Secara terpisah, dalam ulasan hukum yang diterbitkan ulang oleh Malaysian Bar (aslinya diterbitkan oleh Raja Aziz Addruse dan Helen Ting dalam New Sunday Times, 22 Juni 2008), para penulis menulis bahwa ketentuan konstitusi mengenai "kedudukan istimewa" itu "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — yaitu dipahami lebih sebagai satu langkah perlindungan bagi masyarakat Melayu yang saat itu tertinggal dari segi sosioekonomi — dan mencatat bahwa "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — yaitu lima dari 12 ayat Pasal 153 bertujuan membatasi lingkup penerapannya. Mereka menyimpulkan bahwa "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — yaitu tidak ada dasar untuk mengusulkan bahwa penghapusan DEB mesti memerlukan amandemen atau pencabutan Pasal 153 — suatu pendirian yang membedakan teks konstitusi Pasal 153 dari kerangka kebijakan [Dasar Ekonomi Baru](/id/malaysia/new-economic-policy) (DEB) yang terpisah.
 
 ## Apa selanjutnya
 

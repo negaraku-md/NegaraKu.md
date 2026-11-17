@@ -38,7 +38,7 @@ verificationNeeded:
   - "내각처 일정에서 변경될 수 있음으로 표시된 날짜를 확인할 것 — 하리 라야 푸아사, 하리 라야 쿠르반, 디파발리, 아왈 라마단, 하리 라야 쿠르반 둘째 날이 모두 표시되어 있음"
 
 lang: "ko"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -168,7 +168,7 @@ framework: data-reference
 | 공휴일 | 2026년 날짜 |
 | --- | --- |
 | 신정(New Year's Day) | 1월 1일 |
-| 네게리 슴빌란(Negeri Sembilan)의 양 디페르투안 브사르 생일 | 1월 14일 |
+| [네게리 슴빌란(Negeri Sembilan)의 양 디페르투안 브사르](/ko/malaysia/negeri-sembilan-royal-institution) 생일 | 1월 14일 |
 | 이스락과 미크라지(Israk and Mikraj) | 1월 17일 |
 | [타이푸삼(Thaipusam)](/arts-culture/thaipusam) | 2월 1일 |
 | 연방직할구의 날(Federal Territory Day) | 2월 1일 |

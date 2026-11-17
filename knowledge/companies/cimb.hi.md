@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ CIMB Group Holdings Berhad एक मलेशियाई सार्वभौ
 
 CIMB का नाम Commerce International Merchant Bankers से आता है, आधुनिक समूह के केंद्र में बैठा निवेश बैंक, पर इसका बैंकिंग वंश कहीं अधिक गहरा है — Bian Chiang Bank तक, जिसकी स्थापना 1924 में Kuching, Sarawak में हुई, जो दशकों के समेकन से होकर आज के CIMB का हिस्सा बना।
 
-निर्णायक अध्याय 2000 के दशक के मध्य में आया। जून 2005 में, CIMB ने Bumiputra-Commerce समूह के अधिग्रहण की घोषणा की; होल्डिंग कंपनी Commerce-Asset Holdings का नाम बदलकर Bumiputra-Commerce Holdings कर दिया गया, और योजना इसके उपभोक्ता और निवेश बैंकों को एक एकल सार्वभौमिक बैंक में मिलाने की थी (CIMB कॉर्पोरेट इतिहास)। जनवरी 2006 में नया CIMB Group बना, जिसने निवेश बैंकिंग, उपभोक्ता बैंकिंग, परिसंपत्ति प्रबंधन और इस्लामी सेवाओं को एक छत के नीचे मिलाया। उसी वर्ष समूह ने Southern Bank का अधिग्रहण किया, और सितंबर 2006 में प्रधानमंत्री Abdullah Ahmad Badawi ने समूह का औपचारिक शुभारंभ किया — जिससे Commerce International Merchant Bankers, Bumiputra-Commerce Bank और Southern Bank का त्रि-पक्षीय विलय पूर्ण हुआ, और एक नया लोगो तथा "Forward Banking" टैगलाइन प्रस्तुत की गई।
+निर्णायक अध्याय 2000 के दशक के मध्य में आया। जून 2005 में, CIMB ने Bumiputra-Commerce समूह के अधिग्रहण की घोषणा की; होल्डिंग कंपनी Commerce-Asset Holdings का नाम बदलकर Bumiputra-Commerce Holdings कर दिया गया, और योजना इसके उपभोक्ता और निवेश बैंकों को एक एकल सार्वभौमिक बैंक में मिलाने की थी (CIMB कॉर्पोरेट इतिहास)। जनवरी 2006 में नया CIMB Group बना, जिसने निवेश बैंकिंग, उपभोक्ता बैंकिंग, परिसंपत्ति प्रबंधन और इस्लामी सेवाओं को एक छत के नीचे मिलाया। उसी वर्ष समूह ने Southern Bank का अधिग्रहण किया, और सितंबर 2006 में प्रधानमंत्री [Abdullah Ahmad Badawi](/hi/malaysia/abdullah-ahmad-badawi) ने समूह का औपचारिक शुभारंभ किया — जिससे Commerce International Merchant Bankers, Bumiputra-Commerce Bank और Southern Bank का त्रि-पक्षीय विलय पूर्ण हुआ, और एक नया लोगो तथा "Forward Banking" टैगलाइन प्रस्तुत की गई।
 
 फिर समूह सीमाओं के पार तेज़ी से बढ़ा। इंडोनेशिया 2002 में PT Bank Niaga के अधिग्रहण के माध्यम से पहले ही पहुँच चुका था; 2008 में Bank Niaga का Bank Lippo के साथ विलय हुआ जिससे तब देश का छठा सबसे बड़ा बैंक बना, जिसे CIMB Niaga के रूप में पुनः ब्रांडित किया गया, एक कदम जो Khazanah द्वारा Bank Indonesia की एकल-उपस्थिति नीति का अनुपालन करने के लिए संचालित था। 2008-2009 में CIMB ने BankThai (बाद में CIMB Thai) का अधिग्रहण कर थाईलैंड में प्रवेश किया और सिंगापुर में खुला। कुछ ही वर्षों में एक मलेशियाई निवेश-बैंकिंग हाउस एक पैन-ASEAN सार्वभौमिक बैंक बन गया।
 

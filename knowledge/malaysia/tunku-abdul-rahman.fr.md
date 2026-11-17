@@ -27,7 +27,7 @@ faq:
 appliesTo: "Lecteurs, étudiants et chercheurs cherchant un aperçu concis et sourcé du leader fondateur de la Malaisie et de l'histoire ancienne de la nation."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ La victoire fit du Tunku le ministre en chef de la Fédération de Malaya en 195
 
 ## Devenir le premier Premier ministre de la Malaya (1957)
 
-À l'instant de l'indépendance, le **31 août 1957**, Tunku Abdul Rahman devint le premier Premier ministre de la Fédération de Malaya. La cérémonie de proclamation au stade Merdeka, où il lut la Déclaration d'indépendance et mena le cri de la Merdeka, demeure l'image fondatrice de la nation (Déclaration d'indépendance de la Malaya). Son premier gouvernement poursuivit le développement économique, l'amélioration des campagnes et un équilibre soigneux des intérêts ethniques, tout en maintenant fermement la Malaya dans le camp occidental et anticommuniste durant les dernières années de l'insurrection communiste de Malaya.
+À l'instant de l'indépendance, le **31 août 1957**, Tunku Abdul Rahman devint le premier Premier ministre de la Fédération de Malaya. La cérémonie de proclamation au stade Merdeka, où il lut la Déclaration d'indépendance et mena le cri de la Merdeka, demeure l'image fondatrice de la nation (Déclaration d'indépendance de la Malaya). Son premier gouvernement poursuivit le développement économique, l'amélioration des campagnes et un équilibre soigneux des intérêts ethniques, tout en maintenant fermement la Malaya dans le camp occidental et anticommuniste durant les dernières années de l'[insurrection communiste de Malaya](/fr/malaysia/the-emergency).
 
 ## La formation de la Malaisie (1963) et la séparation de Singapour (1965)
 

@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 
 status: "published"
 aiAssisted: true
@@ -83,11 +83,11 @@ framework: data-reference
 
 | # | பிரதமர் | பதவிக் காலம் | கட்சி / கூட்டணி |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 Aug 1957 – 22 Sep 1970 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 22 Sep 1970 – 14 Jan 1976 | UMNO · Barisan Nasional-ஐ நிறுவினார் (1973) |
-| 3 | Hussein Onn | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 Aug 1957 – 22 Sep 1970 | UMNO · [Alliance](/ta/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/ta/malaysia/abdul-razak-hussein) | 22 Sep 1970 – 14 Jan 1976 | UMNO · Barisan Nasional-ஐ நிறுவினார் (1973) |
+| 3 | [Hussein Onn](/ta/malaysia/hussein-onn) | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(முதல் பதவிக்காலம்)* | 16 Jul 1981 – 31 Oct 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 Oct 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/ta/malaysia/abdullah-ahmad-badawi) | 31 Oct 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/ta/malaysia/najib-razak) | 3 Apr 2009 – 9 May 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(இரண்டாம் பதவிக்காலம்)* | 10 May 2018 – 1 Mar 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/ta/malaysia/muhyiddin-yassin) | 1 Mar 2020 – 16 Aug 2021 | Perikatan Nasional |

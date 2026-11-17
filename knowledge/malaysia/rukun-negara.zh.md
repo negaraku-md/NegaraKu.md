@@ -22,7 +22,7 @@ appliesTo: "学生、教师、公务员，以及任何需要根据档案记录�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -101,7 +101,7 @@ framework: history-culture
 
 国家档案局的记录显示，《国家原则》的制定，发生于1969年5月13日种族骚乱后、国会制度被中止运作的期间。
 
-《紧急状态文告》于1969年5月16日刊宪并生效，依据的是《1969年（紧急）基本权力法令第2号》[P.U.(A) 149]。由敦阿都拉萨（Tun Abdul Razak Hussein）领导的国家行动理事会（Majlis Gerakan Negara，MAGERAN），获授权自1969年5月16日起至1971年2月23日止处理国家事务。
+《紧急状态文告》于1969年5月16日刊宪并生效，依据的是《1969年（紧急）基本权力法令第2号》[P.U.(A) 149]。由敦[阿都拉萨](/zh/malaysia/abdul-razak-hussein)（Tun Abdul Razak Hussein）领导的国家行动理事会（Majlis Gerakan Negara，MAGERAN），获授权自1969年5月16日起至1971年2月23日止处理国家事务。
 
 在1969年10月6日召开的第五次MAGERAN会议上，议决成立国家咨询理事会（Majlis Perundingan Negara）——一个负责商讨并寻求解决与国家团结相关课题之途径的机构。一份日期为1970年2月17日的附录，列出66名成员，分别代表内阁部长、州政府、政党、宗教团体、专业团体、公共服务部门、工会、雇主公会、教师公会、小型团体、新闻工作者与妇女界。
 

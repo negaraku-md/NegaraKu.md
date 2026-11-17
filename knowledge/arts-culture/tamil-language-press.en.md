@@ -31,7 +31,7 @@ faq:
     a: "It reflects the same worldwide trend in print media — younger readers access news through the internet, mobile apps and social media. Falling advertising revenue and printing costs together have pushed many titles to give priority to digital editions."
 
 lang: "en"
-sourceContentHash: "b7243674f3b8cc52"
+sourceContentHash: "32a4a04add201056"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -92,7 +92,7 @@ today in a neutral way — neither praising nor disparaging any title.
 ## History: Tamil journalism in colonial Malaya
 
 The roots of the Tamil press lie in British colonial Malaya, particularly in the
-**Straits Settlements**. According to researchers, **Penang** was the birthplace
+**[Straits Settlements](/en/malaysia/straits-settlements)**. According to researchers, **Penang** was the birthplace
 of many Tamil publications in the colonial era; from the late 19th century into
 the early 20th century, Tamil literary and journalistic efforts grew there.
 

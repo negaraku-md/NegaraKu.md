@@ -35,7 +35,7 @@ verificationNeeded:
   - "各主要な出来事は、存在する場合は完全で出典のある記事にリンクしており、それらのページには出典の引用が付されている。現代の政治年表（首相、総選挙、1MDB問題、2020年「シェラトン・ムーブ」）は、首相府（Jabatan Perdana Menteri）と選挙管理委員会（Suruhanjaya Pilihan Raya）から取られた事実に基づく公開記録であり、中立的に提示されている。3Rのテーマ（民族／宗教／王権）やその他の機微な内容に触れる項目——1969年5月13日事件、茅草行動、1988年の司法危機——は、公開前に人による審査を要する。"
 
 lang: "ja"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ framework: history-culture
 - **1987年** — [茅草行動](/malaysia/ops-lalang-1987) — 国内治安法（ISA）のもとでの大量拘禁。
 - **1991年** — [ワワサン2020（Wawasan 2020）](/malaysia/wawasan-2020) — 2020年までに完全な先進国となるというマレーシアの目標。
 - **1997年～1998年** — [アジア通貨危機と改革運動](/malaysia/1998-reformasi) — 資本規制、[アンワル・イブラヒム](/malaysia/anwar-ibrahim)の罷免、そして改革運動。
-- **2003年10月31日** — マハティールが22年の在任を経て退任し、アブドラ・アフマド・バダウィが第5代首相となった。
+- **2003年10月31日** — マハティールが22年の在任を経て退任し、[アブドラ・アフマド・バダウィ](/ja/malaysia/abdullah-ahmad-badawi)が第5代首相となった。
 
 ## 改革運動から統一政府へ
 

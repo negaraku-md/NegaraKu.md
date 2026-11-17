@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente entender la base jurídica del sector de petróleo y gas de Malasia, la dependencia fiscal federal del petróleo, o el debate sobre los recursos entre la Federación y los Estados: estudiantes, analistas, inversores y periodistas."
 
 lang: "es"
-sourceContentHash: "e00cfef3a5a059c4"
+sourceContentHash: "a382e8da52c0814c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ Esta es la parte que la mayoría de la cobertura evita o en la que toma partido.
 
 **La posición federal** descansa en el texto. El artículo 2 confiere la propiedad a PETRONAS; cada Estado otorgó el instrumento del Anexo concediendo derechos a perpetuidad; el artículo 2(3) lo hace irrevocable. Según esta lectura, lo que recibe un Estado es el pago en efectivo del artículo 4, un monto fijado por acuerdo, no por derecho adquirido.
 
-**Las posiciones estatales** descansan en lo que precedió y rodea a la ley —el Acuerdo de Malasia de 1963, las ordenanzas estatales preexistentes de minería del petróleo y los límites de la plataforma continental— y en el argumento de que el arreglo de 1974 debería renegociarse o complementarse en lugar de tratarse como asunto zanjado.
+**Las posiciones estatales** descansan en lo que precedió y rodea a la ley —el [Acuerdo de Malasia de 1963](/es/malaysia/ma63), las ordenanzas estatales preexistentes de minería del petróleo y los límites de la plataforma continental— y en el argumento de que el arreglo de 1974 debería renegociarse o complementarse en lugar de tratarse como asunto zanjado.
 
 Lo que de hecho ha cambiado desde 2020 es comercial más que estatutario. La ley no se ha enmendado. En su lugar:
 

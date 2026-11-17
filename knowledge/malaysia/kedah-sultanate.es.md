@@ -21,7 +21,7 @@ appliesTo: "Estudiantes, investigadores, viajeros y cualquiera que busque una vi
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ad93d074a6c5192"
+sourceContentHash: "08adb6bfb26200c1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Pocos lugares de Malasia llevan su pasado tan a la vista como Kedah. Mucho antes de que los alminares se alzaran sobre Alor Setar, la llanura verde de arrozales entre los ríos Merbok y Muda era un punto de arribada para los comerciantes que surcaban los vientos monzónicos entre la India, China y el mundo malayo. Marineros y eruditos conocían esta costa como Kadaram o Kataha; los arqueólogos la conocen hoy por los montículos de templos del valle de Bujang. De aquel comienzo cosmopolita e hindú-budista surgió una monarquía malaya que resistiría a Srivijaya y Chola, a Ayutthaya y Bangkok, y finalmente al Imperio británico.
+Pocos lugares de Malasia llevan su pasado tan a la vista como Kedah. Mucho antes de que los alminares se alzaran sobre Alor Setar, la llanura verde de arrozales entre los ríos Merbok y Muda era un punto de arribada para los comerciantes que surcaban los vientos monzónicos entre la India, China y el mundo malayo. Marineros y eruditos conocían esta costa como Kadaram o Kataha; los arqueólogos la conocen hoy por los montículos de templos del valle de Bujang. De aquel comienzo cosmopolita e hindú-budista surgió una monarquía malaya que resistiría a [Srivijaya](/es/malaysia/srivijaya) y Chola, a Ayutthaya y Bangkok, y finalmente al Imperio británico.
 
 Lo que hace a Kedah notable no es solo su antigüedad, sino su continuidad. La Casa real de Mahawangsa sigue reinando, un hilo vivo que corre desde la leyenda hasta una monarquía constitucional dentro de la Malasia moderna. Esta es la historia de ese linaje, contada según lo permiten las fuentes y con cautela allí donde discrepan.
 

@@ -27,7 +27,7 @@ faq:
 appliesTo: "Lecteurs, étudiants et chercheurs cherchant un aperçu concis et sourcé de la vie, du mandat de Premier ministre et de l'héritage de Hussein Onn dans l'histoire malaisienne moderne."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "a584eeb2166da82e"
+sourceContentHash: "df191be2c335b5e8"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -87,7 +87,7 @@ Il revint à l'UMNO en 1968 à l'instigation d'**[Abdul Razak Hussein](/fr/malay
 
 ## Devenir Premier ministre, 1976
 
-Le 14 janvier 1976, Abdul Razak, deuxième Premier ministre de la Malaisie, mourut à Londres alors qu'il était en fonction. Hussein Onn prêta serment comme **troisième Premier ministre du pays le 15 janvier 1976**. Il hérita d'une nation encore aux prises avec les suites des troubles raciaux de 1969 et le vaste programme d'action positive que Razak avait lancé, et il gouverna à travers la coalition du **Barisan Nasional** qui rassemblait les partis malais, chinois et indien sous un même toit. Britannica décrit son gouvernement comme une coalition multiraciale qui demeura généralement pacifique malgré des tensions communautaires persistantes et une insurrection communiste résiduelle — un équilibre difficile qui définit le ton de ses années de mandat.
+Le 14 janvier 1976, Abdul Razak, deuxième Premier ministre de la Malaisie, mourut à Londres alors qu'il était en fonction. Hussein Onn prêta serment comme **troisième Premier ministre du pays le 15 janvier 1976**. Il hérita d'une nation encore aux prises avec les suites des troubles raciaux de 1969 et le vaste programme d'action positive que Razak avait lancé, et il gouverna à travers la coalition du [**Barisan Nasional**](/fr/malaysia/barisan-nasional) qui rassemblait les partis malais, chinois et indien sous un même toit. Britannica décrit son gouvernement comme une coalition multiraciale qui demeura généralement pacifique malgré des tensions communautaires persistantes et une insurrection communiste résiduelle — un équilibre difficile qui définit le ton de ses années de mandat.
 
 Le tableau ci-dessous situe son mandat dans la séquence.
 

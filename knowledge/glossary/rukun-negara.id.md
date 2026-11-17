@@ -34,7 +34,7 @@ faq:
     a: "Cita-cita (lima tujuan negara seperti perpaduan dan masyarakat adil) adalah tujuan yang hendak dicapai, sedangkan lima prinsip adalah dasar dan panduan hidup untuk mencapai cita-cita tersebut. Keduanya membentuk ikrar lengkap Rukun Negara."
 
 lang: "id"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ perpaduan dan keharmonisan negara secara serius.
 Setelah peristiwa itu, sistem pemerintahan berparlimen digantung dan
 sebuah badan pemerintahan darurat, **Majlis Gerakan Negara (MAGERAN)**,
 didirikan untuk memulihkan keamanan. MAGERAN diketuai oleh Timbalan
-Perdana Menteri ketika itu, **Tun Abdul Razak Hussein**.
+Perdana Menteri ketika itu, **[Tun Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein)**.
 
 Di bawah MAGERAN, Tun Abdul Razak mendirikan tiga badan untuk memulihkan
 perpaduan:

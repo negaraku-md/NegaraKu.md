@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ RELA ialah badan sukarelawan: rakyat biasa yang mendaftar, berlatih dan tampil u
 
 ## Asal usul: dari Pasukan Simpanan Kampung ke Konfrontasi
 
-Salasilah RELA menjangkau kembali ke sukarelawan pertahanan awam pertengahan abad kedua puluh. Nenek moyangnya yang paling hampir ialah **Pasukan Simpanan Kampung** (*Pasukan Simpanan Kampung*), yang ditubuhkan semasa Darurat Malaya diisytiharkan pada 1948 untuk membantu melindungi kampung, dan dibubarkan apabila Darurat itu berakhir pada 1960. Semasa **Konfrontasi** — konfrontasi Indonesia–Malaysia 1963–66 — kerajaan sekali lagi bergantung pada unit sukarelawan masyarakat untuk keselamatan setempat, bertindak sebagai mata dan telinga tambahan bagi polis dan tentera.
+Salasilah RELA menjangkau kembali ke sukarelawan pertahanan awam pertengahan abad kedua puluh. Nenek moyangnya yang paling hampir ialah **Pasukan Simpanan Kampung** (*Pasukan Simpanan Kampung*), yang ditubuhkan semasa [Darurat Malaya](/ms/malaysia/the-emergency) diisytiharkan pada 1948 untuk membantu melindungi kampung, dan dibubarkan apabila Darurat itu berakhir pada 1960. Semasa **Konfrontasi** — konfrontasi Indonesia–Malaysia 1963–66 — kerajaan sekali lagi bergantung pada unit sukarelawan masyarakat untuk keselamatan setempat, bertindak sebagai mata dan telinga tambahan bagi polis dan tentera.
 
 Pasukan dalam bentuk modennya umumnya ditarikhkan kepada **1972**, dengan rangka undang-undang awalnya disediakan oleh peraturan yang dibuat di bawah **Akta (Kuasa-kuasa Perlu) Darurat 1964** — terutamanya *Peraturan-peraturan Perlu (Ikatan Relawan Rakyat)*. (Peraturan lebih lama dari 1960-an malah menjadikan khidmat sukarela wajib bagi lelaki dalam lingkungan umur tertentu; kewajipan itu dibatalkan pada 2005.) Pada **2013**, RELA dinaik taraf daripada sebuah unit menjadi jabatan persekutuan penuh, **Jabatan Sukarelawan Malaysia**.
 

@@ -29,7 +29,7 @@ faq:
     a: "Ambos momentos son reales. El traspaso legal de la soberanía entró en vigor a medianoche del 31 de agosto de 1957, marcado por la ceremonia de la bandera en el padang de Kuala Lumpur. La ceremonia pública de proclamación, con el séptuple grito de «Merdeka», tuvo lugar esa misma mañana, más tarde, en el Stadium Merdeka."
 
 lang: "es"
-sourceContentHash: "9d15ea63aee3b87b"
+sourceContentHash: "ca15cfa45f8cdedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ Unos minutos pasada la medianoche del 31 de agosto de 1957, en el padang frente 
 
 ## La delegación que fue a preguntar
 
-En enero de 1956, una delegación del Partido de la Alianza — malayos, chinos e indios negociando como un solo bloque, encabezados por Tunku Abdul Rahman — viajó a Londres para plantear al gobierno británico una pregunta concreta: ¿cuándo, y en qué términos, se autogobernaría Malaya? La respuesta que trajeron de vuelta no fue una vaga garantía. Gran Bretaña aceptó en principio la independencia para agosto de 1957, siempre que hubiera primero una constitución viable. Aquel único viaje convirtió el «algún día» en una fecha límite, y todo lo que siguió se construyó para cumplirla.
+En enero de 1956, una delegación del [Partido de la Alianza](/es/malaysia/the-alliance) — malayos, chinos e indios negociando como un solo bloque, encabezados por Tunku Abdul Rahman — viajó a Londres para plantear al gobierno británico una pregunta concreta: ¿cuándo, y en qué términos, se autogobernaría Malaya? La respuesta que trajeron de vuelta no fue una vaga garantía. Gran Bretaña aceptó en principio la independencia para agosto de 1957, siempre que hubiera primero una constitución viable. Aquel único viaje convirtió el «algún día» en una fecha límite, y todo lo que siguió se construyó para cumplirla.
 
 ## Escribir el reglamento antes de la fiesta
 

@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ RELA là một tổ chức tình nguyện: những công dân bình thường gh
 
 ## Nguồn gốc: từ Home Guard đến Konfrontasi
 
-Dòng dõi của RELA chạy ngược về các tình nguyện viên phòng vệ dân sự của giữa thế kỷ hai mươi. Tổ tiên gần nhất của nó là **Home Guard** (*Pasukan Simpanan Kampung*), được thiết lập trong Tình trạng Khẩn cấp Malaya được tuyên bố năm 1948 để giúp bảo vệ các làng, và được giải tán khi Tình trạng Khẩn cấp đó kết thúc năm 1960. Trong **Konfrontasi** — cuộc đối đầu Indonesia–Malaysia 1963–66 — chính phủ lại một lần nữa dựa vào các đơn vị tình nguyện cộng đồng để đảm bảo an ninh địa phương, hành động như tai mắt phụ trợ cho cảnh sát và quân đội.
+Dòng dõi của RELA chạy ngược về các tình nguyện viên phòng vệ dân sự của giữa thế kỷ hai mươi. Tổ tiên gần nhất của nó là **Home Guard** (*Pasukan Simpanan Kampung*), được thiết lập trong [Tình trạng Khẩn cấp Malaya](/vi/malaysia/the-emergency) được tuyên bố năm 1948 để giúp bảo vệ các làng, và được giải tán khi Tình trạng Khẩn cấp đó kết thúc năm 1960. Trong **Konfrontasi** — cuộc đối đầu Indonesia–Malaysia 1963–66 — chính phủ lại một lần nữa dựa vào các đơn vị tình nguyện cộng đồng để đảm bảo an ninh địa phương, hành động như tai mắt phụ trợ cho cảnh sát và quân đội.
 
 Đoàn ở hình thức hiện đại của nó nhìn chung được định niên đại vào **1972**, với khung pháp lý ban đầu của nó được cung cấp bởi các quy định được ban hành theo **Luật Quyền hạn Thiết yếu Khẩn cấp 1964** — đáng chú ý là *Quy định Thiết yếu (Ikatan Relawan Rakyat)*. (Các quy tắc cũ hơn từ những năm 1960 thậm chí còn làm cho việc phục vụ tình nguyện là bắt buộc đối với nam giới ở một số độ tuổi nhất định; nghĩa vụ đó đã bị bãi bỏ năm 2005.) Vào **2013**, RELA được nâng cấp từ một đơn vị thành một cục liên bang đầy đủ, **Jabatan Sukarelawan Malaysia**.
 

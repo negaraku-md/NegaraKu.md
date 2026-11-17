@@ -33,7 +33,7 @@ faq:
     a: "Pasal 8(1) Akta 808 menetapkan semua yang hadir harus berdiri siap. Pasal 8(3) mengatur bahwa siapa pun yang dengan sengaja menunjukkan sikap tidak hormat terhadap Lagu Kebangsaan di tempat umum dapat, apabila divonis, didenda tidak melebihi RM100 atau dipenjara selama periode tidak melebihi satu bulan."
 
 lang: "id"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ Di sinilah catatan resmi menjadi paling kuat. Arsip Nasional Malaysia mencatat r
 | Alasan lagu Perak dipilih | "Memiliki unsur-unsur kemelayuan" |
 | Pertunjukan publik pertama | Malam 31 Agustus 1957, Padang Kelab Selangor |
 
-Anggota panitia yang dicatat Arsip Nasional adalah Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein, dan W. Crops.
+Anggota panitia yang dicatat Arsip Nasional adalah Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein), dan W. Crops.
 
 Portal Resmi Pemerintah Malaysia menambahkan bahwa sebuah sayembara lagu diadakan pada 1957 tetapi tidak menghasilkan pilihan yang sesuai, lalu Tunku Abdul Rahman mengusulkan lagu negeri Perak sebagai dasar. Portal itu turut mencatat bahwa skor musik disiapkan oleh Alfonso Soliano, D.S.P Croff, Captain Lenthall, dan A.T Reed, sementara liriknya dirancang oleh sebuah panitia khusus yang diketuai Tunku Abdul Rahman dengan perkenan Raja-Raja Melayu.
 

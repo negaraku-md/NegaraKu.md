@@ -32,7 +32,7 @@ faq:
   - q: "Apakah isu semasa yang dihadapi Kampung Baru?"
     a: "Isu lazim termasuk pegangan tanah (sebahagian lot dipegang dengan Lesen Pendudukan Sementara / TOL atau hak milik pajakan 99 tahun, bukannya hak milik kekal), penuaan penduduk dan penghijrahan keluar belia, serta infrastruktur yang usang. Sejak kebelakangan ini turut muncul inisiatif menyenaraikan Kampung Baru sebagai warisan dan menghidupkan semula komuniti melalui mural, laluan makanan dan sejarah kampung."
 lang: "ms"
-sourceContentHash: "53661275c9c0a492"
+sourceContentHash: "5a86ba6336d66776"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Melangkah masuk ke Semenyih, Kampar atau Sekinchan hari ini, apa yang kebanyakannya anda lihat ialah wajah biasa sebuah pekan kecil: deretan rumah kedai, sebuah sekolah rendah Cina, tokong dan persatuan, kedai kopi di tepi jalan serta kedai runcit. Namun banyak tempat ini berkongsi satu identiti yang sama — ia adalah "Kampung Baru". Di sebalik label yang kelihatan biasa ini tersembunyi satu sejarah tentang Darurat Malaya, anti-pemberontakan dan perpindahan beramai-ramai.
+Melangkah masuk ke Semenyih, Kampar atau Sekinchan hari ini, apa yang kebanyakannya anda lihat ialah wajah biasa sebuah pekan kecil: deretan rumah kedai, sebuah sekolah rendah Cina, tokong dan persatuan, kedai kopi di tepi jalan serta kedai runcit. Namun banyak tempat ini berkongsi satu identiti yang sama — ia adalah "Kampung Baru". Di sebalik label yang kelihatan biasa ini tersembunyi satu sejarah tentang [Darurat Malaya](/ms/malaysia/the-emergency), anti-pemberontakan dan perpindahan beramai-ramai.
 
 Kampung Baru Cina ialah sejenis komuniti petempatan tertentu di Malaysia. Untuk memahaminya, kita perlu kembali ke tahun-tahun 1948 hingga 1960 yang dikenali sebagai "Darurat Malaya" (Malayan Emergency). Rencana ini menerangkan, secara deskriptif dan berhemah, bagaimana Kampung Baru terbentuk, kehidupan awal di bawah kawalan, dan bagaimana ia berevolusi menjadi pekan hari ini selepas perang — tanpa membuat penilaian politik terhadap mana-mana pihak pada waktu itu.
 

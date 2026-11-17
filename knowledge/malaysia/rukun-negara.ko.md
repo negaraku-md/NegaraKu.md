@@ -20,7 +20,7 @@ keyTakeaways:
   - "1970년 9월 2일 배포 회의는 바하사 말레이시아(Bahasa Malaysia) 본문을 원본으로 하고, 다른 언어판은 번역으로 하기로 결정하였습니다"
 appliesTo: "루쿤 느가라(Rukun Negara)의 공식 본문과, 기록 보관 자료에 근거한 그 제정 연표를 참조해야 하는 학생, 교사, 공무원 및 모든 이."
 lang: "ko"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ framework: history-culture
 
 국립문서보관소 기록은 루쿤 느가라의 입안을, 1969년 5월 13일 인종 폭동 이후 의회 정부 체제가 정지된 기간에 위치시킵니다.
 
-비상사태 선포는 1969년 비상(필수 권한) 조례 제2호 — P.U.(A) 149에 따라 1969년 5월 16일에 관보에 실려 발효되었습니다. 툰 압둘 라작 후세인(Tun Abdul Razak Hussein)이 이끄는 국가행동협의회(Majlis Gerakan Negara, MAGERAN)가 1969년 5월 16일부터 1971년 2월 23일까지 국정을 운영할 권한을 부여받았습니다.
+비상사태 선포는 1969년 비상(필수 권한) 조례 제2호 — P.U.(A) 149에 따라 1969년 5월 16일에 관보에 실려 발효되었습니다. 툰 [압둘 라작 후세인](/ko/malaysia/abdul-razak-hussein)(Tun Abdul Razak Hussein)이 이끄는 국가행동협의회(Majlis Gerakan Negara, MAGERAN)가 1969년 5월 16일부터 1971년 2월 23일까지 국정을 운영할 권한을 부여받았습니다.
 
 1969년 10월 6일 제5차 MAGERAN 회의에서, 국가 통합에 관한 문제를 논의하고 그 해법을 찾을 책임을 지는 기구인 국가자문협의회(Majlis Perundingan Negara)를 설립하기로 결정되었습니다. 1970년 2월 17일자 부록은 66명의 회원 명단을 열거하며, 이들은 내각 각료, 주 정부, 정당, 종교 단체, 직능 단체, 공무원, 노동조합, 사용자 단체, 교사 협회, 소수 집단, 언론인, 여성계를 대표했습니다.
 

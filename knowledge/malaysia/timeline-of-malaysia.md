@@ -192,7 +192,7 @@ pemecatan timbalannya Anwar Ibrahim, dan gerakan jalanan Reformasi.
 - **1987** — [Operasi Lalang](/malaysia/ops-lalang-1987) — tahanan beramai-ramai di bawah Akta Keselamatan Dalam Negeri.
 - **1991** — [Wawasan 2020](/malaysia/wawasan-2020) — matlamat Malaysia menjadi negara maju sepenuhnya menjelang 2020.
 - **1997–98** — [Krisis kewangan Asia dan Reformasi](/malaysia/1998-reformasi) — kawalan modal, pemecatan [Anwar Ibrahim](/malaysia/anwar-ibrahim), dan gerakan reformasi.
-- **31 Oktober 2003** — Mahathir berundur selepas 22 tahun; Abdullah Ahmad Badawi menjadi Perdana Menteri kelima.
+- **31 Oktober 2003** — Mahathir berundur selepas 22 tahun; [Abdullah Ahmad Badawi](/malaysia/abdullah-ahmad-badawi) menjadi Perdana Menteri kelima.
 
 ## Reformasi hingga kerajaan perpaduan
 

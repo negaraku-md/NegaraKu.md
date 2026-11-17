@@ -38,7 +38,7 @@ faq:
     a: "아세안 사무국은 인도네시아 자카르타에 본부를 둡니다. 그것은 아세안 사무총장이 이끌며, 현재는 캄보디아 출신의 카오 킴 호른(Kao Kim Hourn) 박사입니다."
 
 lang: "ko"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komu
 framework: explainer
 ---
 
-1967년 8월 8일, 다섯 명의 인사가 방콕 외무부 건물의 대회의장에 모여 두 쪽짜리 문서 한 장에 서명하였습니다. 그중 한 사람인 말레이시아 부총리 툰 압둘 라작 후세인(Tun Abdul Razak Hussein)은, 이후 거의 6십 년 동안 이 나라 외교 정책의 주된 틀이 될 — 그리고 말레이시아 자신이 2025년 의장국을 맡을 — 기구에 말레이시아를 두고 있었습니다.
+1967년 8월 8일, 다섯 명의 인사가 방콕 외무부 건물의 대회의장에 모여 두 쪽짜리 문서 한 장에 서명하였습니다. 그중 한 사람인 말레이시아 부총리 [툰 압둘 라작 후세인](/ko/malaysia/abdul-razak-hussein)(Tun Abdul Razak Hussein)은, 이후 거의 6십 년 동안 이 나라 외교 정책의 주된 틀이 될 — 그리고 말레이시아 자신이 2025년 의장국을 맡을 — 기구에 말레이시아를 두고 있었습니다.
 
 ## 한눈에 보기: 아세안 속 말레이시아
 

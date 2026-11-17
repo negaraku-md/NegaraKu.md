@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami dasar hukum sektor minyak dan gas Malaysia, ketergantungan fiskal federal terhadap petroleum, atau perdebatan sumber daya federal-negara bagian — pelajar, analis, investor, dan wartawan."
 
 lang: "id"
-sourceContentHash: "e00cfef3a5a059c4"
+sourceContentHash: "a382e8da52c0814c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ Ini adalah bagian yang sebagian besar liputan entah menghindari atau memihak kep
 
 **Posisi federal** bergantung pada teks itu. Pasal 2 memberikan kepemilikan kepada PETRONAS; setiap negara bagian melaksanakan instrumen Lampiran yang memberikan hak secara permanen; Pasal 2(3) menjadikannya tidak dapat ditarik kembali. Berdasarkan bacaan ini, apa yang diterima oleh suatu negara bagian adalah pembayaran tunai Pasal 4 — satu jumlah yang ditetapkan melalui kesepakatan, bukan melalui hak mutlak.
 
-**Posisi negara-negara bagian** bergantung pada apa yang mendahului dan mengelilingi Akta itu — Perjanjian Malaysia 1963, ordonansi pertambangan minyak negara bagian yang ada sebelumnya, dan batas landas kontinen — serta argumen bahwa pengaturan 1974 itu seharusnya dirundingkan ulang atau ditambah, bukannya dianggap selesai.
+**Posisi negara-negara bagian** bergantung pada apa yang mendahului dan mengelilingi Akta itu — [Perjanjian Malaysia 1963](/id/malaysia/ma63), ordonansi pertambangan minyak negara bagian yang ada sebelumnya, dan batas landas kontinen — serta argumen bahwa pengaturan 1974 itu seharusnya dirundingkan ulang atau ditambah, bukannya dianggap selesai.
 
 Apa yang sebenarnya berubah sejak 2020 bersifat komersial, bukan statutori. Akta itu tidak diamendemen. Sebaliknya:
 

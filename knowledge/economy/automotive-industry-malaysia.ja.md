@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ce89b8f0036180e9"
+sourceContentHash: "ea4723a8cd060bef"
 
 status: "published"
 aiAssisted: true
@@ -119,7 +119,7 @@ framework: profile
 
 Proton が登場する以前、日本の自動車メーカーはマレーシアの自動車市場の70%以上を占め、合弁事業を通じて完全ノックダウン（CKD）キットを組み立てていた。国内市場はどのメーカーにとっても真の規模の経済に到達するには小さすぎ、この産業は実質的に外資の顔をした輸入代替産業であった。
 
-国民車プロジェクトはその前提を変えた。1980年に重工業振興のために設立されたマレーシア重工業公社（Heavy Industry Corporation of Malaysia、HICOM）がその担い手となった。1983年、同公社は合弁事業として Perusahaan Otomobil Nasional（Proton）を設立した——HICOM が70%、三菱商事と三菱自動車が残る30%を保有し、総資本は RM1億5,000万であった。Proton は単なる一企業ではなく、産業政策そのものであった。現地部品メーカーの基盤を育成し、新経済政策（New Economic Policy、NEP）の下で製造業におけるブミプトラ（Bumiputera）の参入を拡大することを目的としていた。
+国民車プロジェクトはその前提を変えた。1980年に重工業振興のために設立されたマレーシア重工業公社（Heavy Industry Corporation of Malaysia、HICOM）がその担い手となった。1983年、同公社は合弁事業として Perusahaan Otomobil Nasional（Proton）を設立した——HICOM が70%、三菱商事と三菱自動車が残る30%を保有し、総資本は RM1億5,000万であった。Proton は単なる一企業ではなく、産業政策そのものであった。現地部品メーカーの基盤を育成し、[新経済政策](/ja/malaysia/new-economic-policy)（New Economic Policy、NEP）の下で製造業におけるブミプトラ（Bumiputera）の参入を拡大することを目的としていた。
 
 第二の国民車ブランドは1993年に続いた。Perusahaan Otomobil Kedua（Perodua）は、日本のダイハツとの提携を軸とする合弁事業として設立され、1994年からダイハツ・ミラ（Daihatsu Mira）をベースにしたコンパクトカーを販売した。Perodua は Proton のほぼ独占状態を終わらせ、やがてこの小型車専業メーカーは年長の兄弟分を追い越し、今なお保持する市場首位の座に就いた。
 

@@ -32,7 +32,7 @@ faq:
   - q: "¿Qué cuestiones contemporáneas afrontan las Nuevas Aldeas?"
     a: "Entre las cuestiones habituales están la tenencia de la tierra (algunas parcelas se poseen con una Licencia de Ocupación Temporal / TOL o un título de arrendamiento a 99 años en lugar de plena propiedad), el envejecimiento de la población y la emigración de los jóvenes, y la infraestructura envejecida. En los últimos años también han surgido iniciativas para inscribir las Nuevas Aldeas como patrimonio y para revitalizar las comunidades mediante murales, rutas gastronómicas e historias de las aldeas."
 lang: "es"
-sourceContentHash: "53661275c9c0a492"
+sourceContentHash: "5a86ba6336d66776"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,7 +77,7 @@ keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划",
 framework: history-culture
 ---
 
-Si hoy entras en Semenyih, Kampar o Sekinchan, lo que ves en su mayor parte es la estampa corriente de un pueblo pequeño: hileras de casas-tienda, una escuela primaria china, templos y asociaciones de clan, cafeterías de carretera y tiendas de ultramarinos. Pero muchos de estos lugares comparten una identidad común: son "Nuevas Aldeas". Tras ese nombre en apariencia anodino se esconde una historia de la Emergencia Malaya, de la contrainsurgencia y de un traslado a gran escala.
+Si hoy entras en Semenyih, Kampar o Sekinchan, lo que ves en su mayor parte es la estampa corriente de un pueblo pequeño: hileras de casas-tienda, una escuela primaria china, templos y asociaciones de clan, cafeterías de carretera y tiendas de ultramarinos. Pero muchos de estos lugares comparten una identidad común: son "Nuevas Aldeas". Tras ese nombre en apariencia anodino se esconde una historia de la [Emergencia Malaya](/es/malaysia/the-emergency), de la contrainsurgencia y de un traslado a gran escala.
 
 Las Nuevas Aldeas chinas son un tipo específico de comunidad de asentamiento en Malasia. Para entenderlas hay que remontarse a los años de 1948 a 1960 conocidos como la "Emergencia Malaya" (Malayan Emergency). Este artículo explica, de manera descriptiva y contenida, cómo surgieron las Nuevas Aldeas, cómo era la vida bajo control en los primeros tiempos y cómo evolucionaron hacia los pueblos de hoy tras la guerra, sin emitir juicios políticos sobre ninguna parte de aquel entonces.
 

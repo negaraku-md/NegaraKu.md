@@ -32,7 +32,7 @@ faq:
 
 
 lang: "vi"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ framework: profile
 | | |
 | --- | --- |
 | Tên | Permodalan Nasional Berhad (PNB) |
-| Thành lập | 17 tháng 3 năm 1978, như một phần của Chính sách Kinh tế Mới của Malaysia |
+| Thành lập | 17 tháng 3 năm 1978, như một phần của [Chính sách Kinh tế Mới](/vi/malaysia/new-economic-policy) của Malaysia |
 | Tiền thân | Yayasan Pelaburan Bumiputra (YPB), thành lập ngày 9 tháng 1 năm 1978 |
 | Sứ mệnh | Nâng cao của cải kinh tế của cộng đồng Bumiputera và toàn thể người Malaysia |
 | AUM | RM364 tỷ (tính đến cuối năm 2025, tăng 4,5% so với cùng kỳ năm trước) |

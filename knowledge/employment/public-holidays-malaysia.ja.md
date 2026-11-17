@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 
 status: "published"
 aiAssisted: true
@@ -170,7 +170,7 @@ First Scheduleはその条文自体からしてすでに州によって異なる
 | 祝日 | 2026年の日付 |
 | --- | --- |
 | 元日 | 1月1日 |
-| ヌグリ・スンビラン最高統治者（Yang di-Pertuan Besar）誕生日 | 1月14日 |
+| [ヌグリ・スンビラン最高統治者](/ja/malaysia/negeri-sembilan-royal-institution)（Yang di-Pertuan Besar）誕生日 | 1月14日 |
 | イスラーとミウラージ（Israk and Mikraj） | 1月17日 |
 | [タイプーサム](/arts-culture/thaipusam) | 2月1日 |
 | 連邦直轄区の日 | 2月1日 |

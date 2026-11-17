@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tìm kiếm một trình bày mô tả, theo từng khoản, về những gì Điều 153 quy định và những gì nó loại trừ, mà không phân xử cuộc tranh luận chính trị quanh nó."
 
 lang: "vi"
-sourceContentHash: "db5076f747cd8ba7"
+sourceContentHash: "91d4996a886b6aaa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ Về bối cảnh quy mô: Cục Thống kê Malaysia ghi dân số Bumiputera �
 
 Chính phủ Malaysia đã công khai tái khẳng định quy định này. Vào tháng 2 năm 2024, đáp lại lời kêu gọi của một nghị sĩ về việc đánh giá lại liệu chính sách hành động khẳng định nền tảng có còn mang lại lợi ích cho những người được nhắm đến hay không, Thủ tướng Anwar Ibrahim nêu rằng chính phủ "sẽ tiếp tục gìn giữ vị thế của Hiến pháp, bao gồm Điều 153," theo một tuyên bố của Văn phòng Thủ tướng.
 
-Riêng biệt, trong bình luận pháp lý được Malaysian Bar tái hiện (ban đầu do Raja Aziz Addruse và Helen Ting công bố trên New Sunday Times, 22 tháng 6 năm 2008), các tác giả viết rằng các quy định hiến định về "vị thế đặc biệt" được "hiểu nhiều hơn như một biện pháp bảo vệ cho cộng đồng Mã Lai vốn khi đó thiệt thòi về kinh tế - xã hội," và lưu ý rằng "năm trong số 12 khoản của Điều 153 đề ra để giới hạn phạm vi áp dụng của nó." Họ kết luận rằng "không có căn cứ nào để cho rằng việc bãi bỏ NEP nhất thiết đòi hỏi việc sửa đổi hoặc bãi bỏ Điều 153" — một vị thế phân biệt văn bản hiến định của Điều 153 với khuôn khổ chính sách riêng biệt của Chính sách Kinh tế Mới.
+Riêng biệt, trong bình luận pháp lý được Malaysian Bar tái hiện (ban đầu do Raja Aziz Addruse và Helen Ting công bố trên New Sunday Times, 22 tháng 6 năm 2008), các tác giả viết rằng các quy định hiến định về "vị thế đặc biệt" được "hiểu nhiều hơn như một biện pháp bảo vệ cho cộng đồng Mã Lai vốn khi đó thiệt thòi về kinh tế - xã hội," và lưu ý rằng "năm trong số 12 khoản của Điều 153 đề ra để giới hạn phạm vi áp dụng của nó." Họ kết luận rằng "không có căn cứ nào để cho rằng việc bãi bỏ NEP nhất thiết đòi hỏi việc sửa đổi hoặc bãi bỏ Điều 153" — một vị thế phân biệt văn bản hiến định của Điều 153 với khuôn khổ chính sách riêng biệt của [Chính sách Kinh tế Mới](/vi/malaysia/new-economic-policy).
 
 ## Tiếp theo
 

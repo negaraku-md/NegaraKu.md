@@ -32,7 +32,7 @@ faq:
 
 
 lang: "ta"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ framework: profile
 | | |
 | --- | --- |
 | பெயர் | Permodalan Nasional Berhad (PNB) |
-| நிறுவப்பட்டது | 1978 மார்ச் 17, மலேசியாவின் புதிய பொருளாதாரக் கொள்கையின் (New Economic Policy) ஒரு பகுதியாக |
+| நிறுவப்பட்டது | 1978 மார்ச் 17, மலேசியாவின் [புதிய பொருளாதாரக் கொள்கையின்](/ta/malaysia/new-economic-policy) (New Economic Policy) ஒரு பகுதியாக |
 | முன்னோடி | Yayasan Pelaburan Bumiputra (YPB), 1978 ஜனவரி 9-இல் நிறுவப்பட்டது |
 | அதிகாரப் பொறுப்பு | பூமிபுத்ரா சமூகத்தினரின் மற்றும் அனைத்து மலேசியர்களின் பொருளாதார செல்வத்தை மேம்படுத்துவது |
 | AUM | RM364 billion (2025 ஆண்டு இறுதி நிலவரப்படி, ஆண்டுக்கு ஆண்டு 4.5% அதிகரிப்பு) |

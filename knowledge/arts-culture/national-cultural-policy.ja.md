@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8ad5677b6225effa"
+sourceContentHash: "13839d2ad5ad43f3"
 
 status: "published"
 aiAssisted: true
@@ -86,7 +86,7 @@ framework: explainer
 
 ## 1971年国家文化政策とは何か？
 
-国家文化政策は、1971年にクアラルンプールのマラヤ大学で開催された国家文化大会を通じて策定された政策枠組みである。同大会は文化青年スポーツ省が主催し、当時のトゥン・アブドゥル・ラザク・フセイン（Tun Abdul Razak Hussein）首相が開幕式を主宰した。
+国家文化政策は、1971年にクアラルンプールのマラヤ大学で開催された国家文化大会を通じて策定された政策枠組みである。同大会は文化青年スポーツ省が主催し、当時の[トゥン・アブドゥル・ラザク・フセイン（Tun Abdul Razak Hussein）](/ja/malaysia/abdul-razak-hussein)首相が開幕式を主宰した。
 
 この政策の背景は、1969年5月13日事件後の情勢と切り離すことができない。この政策の展開を研究したマレーシア科学大学の学術論文によれば、国家文化政策は1971年、多元社会における国民統合を築く取り組みの一環として形成された。しばしば言及される目標は、共有される一つの文化的アイデンティティを通じて統合を強化することであった。
 

@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 
 status: "published"
 aiAssisted: true
@@ -198,7 +198,7 @@ framework: history-culture
 - **1987** — [ஒப்பராசி லாலாங்](/ta/malaysia/ops-lalang-1987) — உள்நாட்டு பாதுகாப்புச் சட்டத்தின் (Akta Keselamatan Dalam Negeri) கீழ் கூட்டுத் தடுப்புக்காவல்கள்.
 - **1991** — [வவாசான் 2020](/ta/malaysia/wawasan-2020) — 2020-க்குள் மலேசியா முழுமையாக வளர்ந்த நாடாக மாறும் இலக்கு.
 - **1997–98** — [ஆசிய நிதி நெருக்கடியும் ரிஃபோர்மாசியும்](/ta/malaysia/1998-reformasi) — மூலதனக் கட்டுப்பாடுகள், [அன்வர் இப்ராஹிம்](/ta/malaysia/anwar-ibrahim) பதவி நீக்கம், மற்றும் சீர்திருத்த இயக்கம்.
-- **31 அக்டோபர் 2003** — 22 ஆண்டுகளுக்குப் பிறகு மகாதீர் பதவி விலகினார்; அப்துல்லா அஹ்மட் படாவி ஐந்தாவது பிரதமர் ஆனார்.
+- **31 அக்டோபர் 2003** — 22 ஆண்டுகளுக்குப் பிறகு மகாதீர் பதவி விலகினார்; [அப்துல்லா அஹ்மட் படாவி](/ta/malaysia/abdullah-ahmad-badawi) ஐந்தாவது பிரதமர் ஆனார்.
 
 ## ரிஃபோர்மாசி முதல் ஒற்றுமை அரசாங்கம் வரை
 

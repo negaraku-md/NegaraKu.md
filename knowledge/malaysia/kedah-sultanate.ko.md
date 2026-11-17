@@ -21,7 +21,7 @@ appliesTo: "케다의 왕실 역사와 말레이시아 말레이 군주국들 �
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ad93d074a6c5192"
+sourceContentHash: "08adb6bfb26200c1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-말레이시아에서 자신의 과거를 케다만큼 거리낌 없이 드러내는 곳은 드뭅니다. 알로르 스타르(Alor Setar) 위로 첨탑이 솟기 훨씬 전부터, 므르복강(Merbok)과 무다강(Muda) 사이의 벼가 푸른 평야는 인도와 중국, 말레이 세계를 오가며 몬순 바람을 타는 상인들의 상륙지였습니다. 뱃사람과 학자들은 이 해안을 카다람(Kadaram) 혹은 카타하(Kataha)로 알았고, 고고학자들은 오늘날 이곳을 부장 계곡(Bujang Valley)의 사원 둔덕들로 압니다. 그 세계주의적인 힌두-불교적 시작에서, 스리비자야(Srivijaya)와 촐라(Chola), 아유타야(Ayutthaya)와 방콕(Bangkok), 그리고 마침내 대영제국을 견뎌 낸 하나의 말레이 군주국이 자라났습니다.
+말레이시아에서 자신의 과거를 케다만큼 거리낌 없이 드러내는 곳은 드뭅니다. 알로르 스타르(Alor Setar) 위로 첨탑이 솟기 훨씬 전부터, 므르복강(Merbok)과 무다강(Muda) 사이의 벼가 푸른 평야는 인도와 중국, 말레이 세계를 오가며 몬순 바람을 타는 상인들의 상륙지였습니다. 뱃사람과 학자들은 이 해안을 카다람(Kadaram) 혹은 카타하(Kataha)로 알았고, 고고학자들은 오늘날 이곳을 부장 계곡(Bujang Valley)의 사원 둔덕들로 압니다. 그 세계주의적인 힌두-불교적 시작에서, [스리비자야](/ko/malaysia/srivijaya)(Srivijaya)와 촐라(Chola), 아유타야(Ayutthaya)와 방콕(Bangkok), 그리고 마침내 대영제국을 견뎌 낸 하나의 말레이 군주국이 자라났습니다.
 
 케다를 놀랍게 만드는 것은 그 오래됨만이 아니라 그 연속성입니다. 왕실 마하왕사 가문(House of Mahawangsa)은 여전히 통치하며, 전설에서부터 현대 말레이시아 안의 입헌군주제에 이르기까지 이어지는 살아 있는 실을 잇고 있습니다. 이것은 그 계보의 이야기로, 자료가 허락하는 대로 전하되 자료들이 엇갈리는 곳에서는 신중을 기합니다.
 

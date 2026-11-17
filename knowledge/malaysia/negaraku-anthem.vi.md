@@ -33,7 +33,7 @@ faq:
     a: "Mục 8(1) của Act 808 quy định tất cả những người có mặt phải đứng nghiêm. Mục 8(3) quy định rằng bất kỳ ai cố ý tỏ thái độ bất kính đối với Quốc ca ở nơi công cộng có thể, khi bị kết tội, bị phạt tiền không quá RM100 hoặc bị phạt tù trong thời hạn không quá một tháng."
 
 lang: "vi"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ Chi tiết này khó dung hợp với hồ sơ hoàng gia Anh. Trang chính th�
 | Lý do bài của Perak được chọn | "Có các yếu tố Mã Lai" |
 | Buổi trình diễn công khai đầu tiên | Đêm 31 tháng 8 năm 1957, Padang Kelab Selangor |
 
-Các thành viên ủy ban được Cục Lưu trữ Quốc gia ghi lại là Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein và W. Crops.
+Các thành viên ủy ban được Cục Lưu trữ Quốc gia ghi lại là Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein) và W. Crops.
 
 Cổng Thông tin Chính thức của Chính phủ Malaysia bổ sung rằng một cuộc thi sáng tác được tổ chức năm 1957 nhưng không cho ra lựa chọn phù hợp, nên Tunku Abdul Rahman đã đề xuất bài ca của bang Perak làm nền tảng. Cổng thông tin đó cũng ghi rằng bản phối nhạc được hoàn thành bởi Alfonso Soliano, D.S.P Croff, Captain Lenthall và A.T Reed, còn lời bài do một ủy ban đặc biệt do Tunku Abdul Rahman làm chủ tịch soạn thảo với sự chuẩn thuận của các Quốc vương Mã Lai.
 

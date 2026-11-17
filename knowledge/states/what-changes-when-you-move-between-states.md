@@ -120,7 +120,7 @@ This is the short list of real changes:
 
 ## The one that's different: moving to Sabah or Sarawak
 
-A move **to Sabah or Sarawak** — or between them — is not just an inter-state move with extra paperwork. Under the **Malaysia Agreement 1963 (MA63)**, both states keep powers the Peninsular states do not, and the one you will feel immediately is **immigration**.
+A move **to Sabah or Sarawak** — or between them — is not just an inter-state move with extra paperwork. Under the **[Malaysia Agreement 1963](/malaysia/ma63) (MA63)**, both states keep powers the Peninsular states do not, and the one you will feel immediately is **immigration**.
 
 - **They control their own immigration, and it is enforced.** A Malaysian from the Peninsula uses their **MyKad as ID** (no passport needed) but still **clears a state immigration control on entry** and is admitted as a visitor for a limited period.
 - **Living or working there needs more than an address change.** To **work, study or reside long-term**, you generally need a **pass or permit** from the state immigration authority — arrange this *before* assuming you can simply move in.

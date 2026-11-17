@@ -30,7 +30,7 @@ appliesTo: "말레이시아의 제2대 총리와 이 나라 현대 정치·경�
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52dc01cd361df845"
+sourceContentHash: "f0e07118f47f6b2d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -95,13 +95,13 @@ framework: profile
 
 ## 신경제정책
 
-그 비상사태에서 라작의 이름과 가장 밀접히 결부된 정책이 나왔습니다. 제2차 말레이시아 계획(Second Malaysia Plan)의 일부로 1971년 출범한 **신경제정책(New Economic Policy, NEP)**은 두 가지 포괄적 목표를 세웠습니다: 인종과 무관하게 빈곤을 퇴치하는 것, 그리고 경제적 기능이 더는 종족과 동일시되지 않도록 사회를 "재구조화"하는 것입니다(페르다나 리더십 재단; Malaysian Bar). 실제로 이는 말레이인과 그 밖의 부미푸트라(Bumiputera) 집단의 경제적 몫을 끌어올리려는 폭넓은 적극적 우대 조치 프로그램을 뜻했습니다.
+그 비상사태에서 라작의 이름과 가장 밀접히 결부된 정책이 나왔습니다. 제2차 말레이시아 계획(Second Malaysia Plan)의 일부로 1971년 출범한 [**신경제정책(New Economic Policy, NEP)**](/ko/malaysia/new-economic-policy)은 두 가지 포괄적 목표를 세웠습니다: 인종과 무관하게 빈곤을 퇴치하는 것, 그리고 경제적 기능이 더는 종족과 동일시되지 않도록 사회를 "재구조화"하는 것입니다(페르다나 리더십 재단; Malaysian Bar). 실제로 이는 말레이인과 그 밖의 부미푸트라(Bumiputera) 집단의 경제적 몫을 끌어올리려는 폭넓은 적극적 우대 조치 프로그램을 뜻했습니다.
 
 NEP는 말레이시아 국가를 재편했습니다. 라작 정부는 그것을 수행할 기관들을 세우거나 확대했습니다 — 그 가운데 국영 석유 회사 페트로나스(Petronas), 표준 기구 SIRIM, 개발은행 방크 펨방우난(Bank Pembangunan), 그리고 말레이시아 국민대학교(Universiti Kebangsaan Malaysia) 같은 새 대학들이 있습니다. 그 20년의 시간 지평은 이 정책이 그 입안자보다 오래 살아남는다는 뜻이었고, 그 유산은 지금도 논쟁의 대상입니다.
 
 ## 국민전선과 중국으로의 개방
 
-정치적으로, 1969년에 드러난 취약성에 대한 라작의 답은 대대적인 합의 구축이었습니다. 그는 옛 야당들을 정부로 끌어들여, 낡은 3당 동맹(Alliance)을 훨씬 더 넓은 연립으로 바꾸었습니다. 이 결집은 1973년 형태를 갖추었고 1974년 **국민전선(Barisan Nasional)**으로 공식 등록되었습니다(Malaysian Bar). 그것은 2018년까지 말레이시아를 끊임없이 통치하게 됩니다.
+정치적으로, 1969년에 드러난 취약성에 대한 라작의 답은 대대적인 합의 구축이었습니다. 그는 옛 야당들을 정부로 끌어들여, 낡은 3당 [동맹(Alliance)](/ko/malaysia/the-alliance)을 훨씬 더 넓은 연립으로 바꾸었습니다. 이 결집은 1973년 형태를 갖추었고 1974년 [**국민전선(Barisan Nasional)**](/ko/malaysia/barisan-nasional)으로 공식 등록되었습니다(Malaysian Bar). 그것은 2018년까지 말레이시아를 끊임없이 통치하게 됩니다.
 
 대외적으로 라작은 두드러지게 실용적인 노선을 추구했습니다. 1974년 5월 말 그는 베이징을 방문해 마오쩌둥(毛澤東) 주석을 만났고, 1974년 5월 31일 두 정부는 외교 관계를 수립하는 공동성명에 서명하여 — **말레이시아를 중화인민공화국을 승인한 최초의 ASEAN 국가**로 만들었습니다(New Straits Times; The Star). 냉전의 절정에서 내린 그 조치는 지역 중립과 비동맹이라는 그의 더 넓은 정책을 반영했습니다.
 

@@ -28,7 +28,7 @@ appliesTo: "Pembaca, pelajar, wartawan dan penyelidik yang mencari gambaran neut
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "29490eb7d292565c"
+sourceContentHash: "394dd6cf59253891"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -98,7 +98,7 @@ Penyokong melihat Islam Hadhari sebagai satu pengimbang yang sederhana dan memod
 
 ## Kemenangan besar 2004 dan "tsunami politik" 2008
 
-Menunggang daya tarikannya yang bersifat pembaharu, Abdullah mengetuai gabungan pemerintah **Barisan Nasional (BN)** kepada satu kemenangan menghancurkan dalam **pilihan raya umum 21 Mac 2004**, memenangi sebahagian besar kerusi parlimen — salah satu mandat terkuat yang pernah diterima oleh mana-mana kerajaan Malaysia.
+Menunggang daya tarikannya yang bersifat pembaharu, Abdullah mengetuai gabungan pemerintah [**Barisan Nasional (BN)**](/ms/malaysia/barisan-nasional) kepada satu kemenangan menghancurkan dalam **pilihan raya umum 21 Mac 2004**, memenangi sebahagian besar kerusi parlimen — salah satu mandat terkuat yang pernah diterima oleh mana-mana kerajaan Malaysia.
 
 **Pilihan raya umum 2008** menceritakan kisah yang sebaliknya. Pada 8 Mac 2008, BN **kehilangan majoriti dua pertiganya di Parlimen** buat kali pertama sejak 1969 dan menyerahkan kawalan beberapa kerajaan negeri kepada pembangkang yang bangkit semula — satu keputusan yang digambarkan secara meluas dalam akhbar Malaysia dan antarabangsa sebagai **"tsunami politik"**. Penganalisis mengaitkan peralihan itu dengan kenaikan harga, rasa tidak puas hati tentang rasuah dan tadbir urus, keluhan golongan minoriti etnik, dan kritikan awam yang berterusan, termasuk daripada pendahulu Abdullah sendiri. Di bawah tekanan, Abdullah mengumumkan beliau tidak akan mempertahankan jawatan presiden UMNO dan menetapkan satu jadual untuk menyerahkan kuasa.
 

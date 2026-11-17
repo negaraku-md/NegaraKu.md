@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu cơ sở pháp lý của ngành dầu khí Malaysia, sự phụ thuộc tài khóa của liên bang vào dầu mỏ, hoặc cuộc tranh luận tài nguyên liên bang-bang — học sinh sinh viên, nhà phân tích, nhà đầu tư và nhà báo."
 
 lang: "vi"
-sourceContentHash: "e00cfef3a5a059c4"
+sourceContentHash: "a382e8da52c0814c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ Cộng dồn, PETRONAS đặt các khoản đóng góp của mình ở mức kho
 
 **Vị trí của liên bang** dựa vào văn bản. Mục 2 trao quyền sở hữu cho PETRONAS; mỗi bang đã ký thực hiện văn kiện trong Biểu cấp các quyền vĩnh viễn; mục 2(3) khiến nó không thể thu hồi. Theo cách đọc này, những gì một bang nhận được là khoản thanh toán tiền mặt theo mục 4 — một số tiền được ấn định bằng thỏa thuận, không phải bằng quyền hưởng.
 
-**Các vị trí của các bang** dựa vào những gì có trước và bao quanh Luật — Malaysia Agreement 1963, các pháp lệnh khai thác dầu của bang có từ trước, và các ranh giới thềm lục địa — và vào lập luận rằng thỏa thuận năm 1974 nên được đàm phán lại hoặc bổ sung hơn là được coi là đã ngã ngũ.
+**Các vị trí của các bang** dựa vào những gì có trước và bao quanh Luật — [Malaysia Agreement 1963](/vi/malaysia/ma63), các pháp lệnh khai thác dầu của bang có từ trước, và các ranh giới thềm lục địa — và vào lập luận rằng thỏa thuận năm 1974 nên được đàm phán lại hoặc bổ sung hơn là được coi là đã ngã ngũ.
 
 Điều thực sự đã thay đổi kể từ năm 2020 là mang tính thương mại hơn là luật định. Luật chưa được sửa đổi. Thay vào đó:
 

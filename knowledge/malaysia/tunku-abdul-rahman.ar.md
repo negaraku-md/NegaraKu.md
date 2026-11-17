@@ -28,7 +28,7 @@ appliesTo: "القرّاء والطلاب والباحثون الباحثون ع
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -125,7 +125,7 @@ framework: profile
 مالايا). وسعت حكومته المبكّرة إلى التنمية الاقتصادية والتحسين
 الريفي وتوازن دقيق للمصالح العرقية، مع إبقاء مالايا
 راسخةً في المعسكر الغربي المناهض للشيوعية خلال السنوات الأخيرة من
-حالة الطوارئ الملايوية.
+[حالة الطوارئ الملايوية](/ar/malaysia/the-emergency).
 
 ## تكوين ماليزيا (1963) وانفصال سنغافورة (1965)
 

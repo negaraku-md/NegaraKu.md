@@ -79,7 +79,7 @@ Its headquarters is the **Kompleks Sukan Negara (National Sports Complex) in Buk
 
 ## When and how was it created?
 
-MSN was established under the **National Sports Council of Malaysia Act 1971**, which was later **amended in 1979**. The Council was **officially launched on 21 February 1972** by Malaysia's second Prime Minister, **Tun Abdul Razak Hussein**.
+MSN was established under the **National Sports Council of Malaysia Act 1971**, which was later **amended in 1979**. The Council was **officially launched on 21 February 1972** by Malaysia's second Prime Minister, **Tun [Abdul Razak Hussein](/malaysia/abdul-razak-hussein)**.
 
 It was then **restructured in 1981**, after which it significantly expanded its programmes and activities — in line with the National Sports Policy's aim to fully drive the encouragement, development and elite-level achievement of sport.
 

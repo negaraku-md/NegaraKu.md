@@ -28,7 +28,7 @@ appliesTo: "Độc giả, học sinh, nhà báo và nhà nghiên cứu muốn c�
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "29490eb7d292565c"
+sourceContentHash: "394dd6cf59253891"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -98,7 +98,7 @@ Những người ủng hộ coi Islam Hadhari như một đối trọng ôn hòa
 
 ## Chiến thắng áp đảo năm 2004 và 「cơn sóng thần chính trị」 năm 2008
 
-Tận dụng sức hút cải cách của mình, Abdullah dẫn dắt liên minh cầm quyền **Barisan Nasional (BN)** tới một chiến thắng vang dội trong **cuộc tổng tuyển cử ngày 21 tháng 3 năm 2004**, giành phần lớn các ghế nghị viện — một trong những ủy nhiệm mạnh mẽ nhất mà bất kỳ chính phủ Malaysia nào từng nhận được.
+Tận dụng sức hút cải cách của mình, Abdullah dẫn dắt liên minh cầm quyền [**Barisan Nasional (BN)**](/vi/malaysia/barisan-nasional) tới một chiến thắng vang dội trong **cuộc tổng tuyển cử ngày 21 tháng 3 năm 2004**, giành phần lớn các ghế nghị viện — một trong những ủy nhiệm mạnh mẽ nhất mà bất kỳ chính phủ Malaysia nào từng nhận được.
 
 **Cuộc tổng tuyển cử năm 2008** kể một câu chuyện ngược lại. Vào ngày 8 tháng 3 năm 2008, BN **mất đa số hai phần ba trong Nghị viện** lần đầu tiên kể từ năm 1969 và nhường quyền kiểm soát một số chính quyền tiểu bang cho một phe đối lập đang trỗi dậy — một kết quả được báo chí Malaysia và quốc tế mô tả rộng rãi là một **"cơn sóng thần chính trị."** Các nhà phân tích quy sự đảo chiều này cho giá cả leo thang, sự bất mãn về tham nhũng và quản trị, những bất bình của các nhóm thiểu số sắc tộc, và sự chỉ trích công chúng bền bỉ, kể cả từ chính người tiền nhiệm của Abdullah. Dưới áp lực, Abdullah thông báo ông sẽ không bảo vệ chức chủ tịch UMNO và đưa ra một lịch trình để bàn giao quyền lực.
 

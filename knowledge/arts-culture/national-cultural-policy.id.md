@@ -30,7 +30,7 @@ faq:
     a: "Menurut JKKN, DKK 1971 menjadi landasan bagi Dasar Kebudayaan Negara (DAKEN) 2021 yang berlandaskan tujuh pilar dengan masa pelaksanaan 2021-2025. JKKN turut menyatakan DKK 1971 tidak pernah disahkan secara resmi di tingkat Kabinet, meskipun ia memandu administrasi selama kira-kira 50 tahun."
 
 lang: "id"
-sourceContentHash: "8ad5677b6225effa"
+sourceContentHash: "13839d2ad5ad43f3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ Artikel ini memaparkan rekaman sejarah dan berbagai pandangan seputar kebijakan 
 
 ## Apa itu Dasar Kebudayaan Kebangsaan 1971?
 
-Dasar Kebudayaan Kebangsaan adalah kerangka kebijakan yang dirumuskan melalui Kongres Kebudayaan Kebangsaan yang berlangsung pada 1971 di Universiti Malaya, Kuala Lumpur. Kongres itu diselenggarakan oleh Kementerian Kebudayaan Belia dan Sukan dan diresmikan oleh Perdana Menteri ketika itu, Tun Abdul Razak Hussein.
+Dasar Kebudayaan Kebangsaan adalah kerangka kebijakan yang dirumuskan melalui Kongres Kebudayaan Kebangsaan yang berlangsung pada 1971 di Universiti Malaya, Kuala Lumpur. Kongres itu diselenggarakan oleh Kementerian Kebudayaan Belia dan Sukan dan diresmikan oleh Perdana Menteri ketika itu, Tun [Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein).
 
 Latar kebijakan ini tidak dapat dipisahkan dari suasana setelah peristiwa 13 Mei 1969. Tesis akademik Universiti Sains Malaysia yang mengkaji perkembangan kebijakan ini mencatat bahwa Dasar Kebudayaan Kebangsaan dibentuk pada 1971 sebagai bagian dari upaya membangun persatuan negara dalam masyarakat majemuk. Tujuan yang sering disebut adalah memperkukuh persatuan melalui satu identitas kebudayaan yang dibagikan bersama.
 

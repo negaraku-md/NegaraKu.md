@@ -20,7 +20,7 @@ keyTakeaways:
   - "La reunión de distribución del 2 de septiembre de 1970 decidió que el texto en Bahasa Malaysia es el texto original; las versiones en otros idiomas son traducciones"
 appliesTo: "Estudiantes, docentes, funcionarios y cualquier persona que necesite remitirse al texto oficial del Rukun Negara y a la cronología de su redacción con base en los registros de archivo."
 lang: "es"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ Obsérvese el vínculo entre las dos partes. La expresión «estas aspiraciones�
 
 Los registros del Archivo Nacional sitúan la redacción del Rukun Negara dentro del período en que el gobierno parlamentario estuvo suspendido, tras los disturbios raciales del 13 de mayo de 1969.
 
-La Proclamación de Emergencia se publicó en la gaceta y entró en vigor el 16 de mayo de 1969 bajo la Ordenanza de Emergencia (Poderes Esenciales) n.º 2, 1969 – P.U.(A) 149. El Consejo Nacional de Operaciones (MAGERAN), dirigido por Tun Abdul Razak Hussein, quedó facultado para dirigir los asuntos del país desde el 16 de mayo de 1969 hasta el 23 de febrero de 1971.
+La Proclamación de Emergencia se publicó en la gaceta y entró en vigor el 16 de mayo de 1969 bajo la Ordenanza de Emergencia (Poderes Esenciales) n.º 2, 1969 – P.U.(A) 149. El Consejo Nacional de Operaciones (MAGERAN), dirigido por Tun [Abdul Razak Hussein](/es/malaysia/abdul-razak-hussein), quedó facultado para dirigir los asuntos del país desde el 16 de mayo de 1969 hasta el 23 de febrero de 1971.
 
 En la quinta reunión de MAGERAN, el 6 de octubre de 1969, se tomó la decisión de establecer el Consejo Consultivo Nacional — un órgano encargado de discutir y encontrar soluciones a las cuestiones relativas a la unidad nacional. Un apéndice fechado el 17 de febrero de 1970 enumera 66 miembros, en representación de ministros del Gabinete, gobiernos estatales, partidos políticos, organismos religiosos, organismos profesionales, la función pública, sindicatos, sindicatos de empleadores, asociaciones de docentes, pequeños grupos, periodistas y mujeres.
 

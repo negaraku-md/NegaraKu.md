@@ -34,7 +34,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 
 status: "published"
 aiAssisted: true
@@ -82,11 +82,11 @@ framework: data-reference
 
 | # | 首相 | 任期 | 政党／联盟 |
 |---|---|---|---|
-| 1 | 东姑阿都拉曼 | 1957年8月31日 – 1970年9月22日 | 巫统 · 联盟党 |
-| 2 | 阿都拉萨·胡先 | 1970年9月22日 – 1976年1月14日 | 巫统 · 创立国民阵线（1973） |
-| 3 | 胡先·翁 | 1976年1月15日 – 1981年7月16日 | 巫统 · 国民阵线 |
+| 1 | 东姑阿都拉曼 | 1957年8月31日 – 1970年9月22日 | 巫统 · [联盟党](/zh/malaysia/the-alliance) |
+| 2 | [阿都拉萨·胡先](/zh/malaysia/abdul-razak-hussein) | 1970年9月22日 – 1976年1月14日 | 巫统 · 创立国民阵线（1973） |
+| 3 | [胡先·翁](/zh/malaysia/hussein-onn) | 1976年1月15日 – 1981年7月16日 | 巫统 · 国民阵线 |
 | 4 | 马哈迪·莫哈末 *（第一任期）* | 1981年7月16日 – 2003年10月31日 | 巫统 · 国民阵线 |
-| 5 | 阿都拉·巴达威 | 2003年10月31日 – 2009年4月3日 | 巫统 · 国民阵线 |
+| 5 | [阿都拉·巴达威](/zh/malaysia/abdullah-ahmad-badawi) | 2003年10月31日 – 2009年4月3日 | 巫统 · 国民阵线 |
 | 6 | [纳吉·拉萨](/malaysia/najib-razak) | 2009年4月3日 – 2018年5月9日 | 巫统 · 国民阵线 |
 | 7 | 马哈迪·莫哈末 *（第二任期）* | 2018年5月10日 – 2020年3月1日 | 希望联盟 |
 | 8 | [慕尤丁·雅辛](/malaysia/muhyiddin-yassin) | 2020年3月1日 – 2021年8月16日 | 国民联盟 |

@@ -30,7 +30,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen una visión gener
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52dc01cd361df845"
+sourceContentHash: "f0e07118f47f6b2d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -95,13 +95,13 @@ El consejo dirigió Malasia hasta que el gobierno parlamentario fue restaurado e
 
 ## La Nueva Política Económica
 
-De la emergencia surgió la política más estrechamente asociada al nombre de Razak. Lanzada en 1971 como parte del Segundo Plan de Malasia, la **Nueva Política Económica (NEP)** fijó dos metas generales: erradicar la pobreza con independencia de la raza, y «reestructurar» la sociedad de modo que la función económica ya no se identificara con la etnia (Perdana Leadership Foundation; Malaysian Bar). En la práctica esto significó un amplio programa de acción afirmativa destinado a elevar la cuota económica de los malayos y otros grupos bumiputera.
+De la emergencia surgió la política más estrechamente asociada al nombre de Razak. Lanzada en 1971 como parte del Segundo Plan de Malasia, la [**Nueva Política Económica (NEP)**](/es/malaysia/new-economic-policy) fijó dos metas generales: erradicar la pobreza con independencia de la raza, y «reestructurar» la sociedad de modo que la función económica ya no se identificara con la etnia (Perdana Leadership Foundation; Malaysian Bar). En la práctica esto significó un amplio programa de acción afirmativa destinado a elevar la cuota económica de los malayos y otros grupos bumiputera.
 
 La NEP remodeló el Estado malasio. El gobierno de Razak creó o amplió instituciones para llevarla a cabo —entre ellas la petrolera nacional Petronas, el organismo de normalización SIRIM, el banco de desarrollo Bank Pembangunan, y nuevas universidades como la Universiti Kebangsaan Malaysia—. Su horizonte de veinte años hizo que la política sobreviviera largamente a su autor, y su legado sigue siendo debatido.
 
 ## El Barisan Nasional y la apertura a China
 
-En lo político, la respuesta de Razak a la fragilidad expuesta en 1969 fue la construcción de consensos a gran escala. Atrajo al gobierno a antiguos partidos de la oposición, reemplazando la vieja Alianza tripartita por una coalición mucho más amplia. Esta agrupación tomó forma en 1973 y se registró formalmente como **Barisan Nasional** (el Frente Nacional) en 1974 (Malaysian Bar). Pasaría a gobernar Malasia de forma continua hasta 2018.
+En lo político, la respuesta de Razak a la fragilidad expuesta en 1969 fue la construcción de consensos a gran escala. Atrajo al gobierno a antiguos partidos de la oposición, reemplazando la vieja [Alianza](/es/malaysia/the-alliance) tripartita por una coalición mucho más amplia. Esta agrupación tomó forma en 1973 y se registró formalmente como [**Barisan Nasional**](/es/malaysia/barisan-nasional) (el Frente Nacional) en 1974 (Malaysian Bar). Pasaría a gobernar Malasia de forma continua hasta 2018.
 
 En el exterior, Razak siguió un rumbo llamativamente pragmático. A finales de mayo de 1974 viajó a Pekín, donde se reunió con el presidente Mao Zedong, y el 31 de mayo de 1974 los dos gobiernos firmaron un comunicado estableciendo relaciones diplomáticas, haciendo de **Malasia el primer país de la ASEAN en reconocer a la República Popular China** (New Straits Times; The Star). La medida, tomada en el apogeo de la Guerra Fría, reflejaba su política más amplia de neutralidad regional y no alineamiento.
 

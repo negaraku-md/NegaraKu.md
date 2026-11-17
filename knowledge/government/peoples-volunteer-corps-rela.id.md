@@ -29,7 +29,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ RELA adalah badan relawan: warga biasa yang mendaftar, berlatih, dan hadir untuk
 
 ## Asal usul: dari Home Guard hingga Konfrontasi
 
-Garis keturunan RELA menjangkau hingga relawan pertahanan sipil pertengahan abad kedua puluh. Leluhurnya yang terdekat adalah **Home Guard** (*Pasukan Simpanan Kampung*), yang dibentuk selama Darurat Malaya yang diisytiharkan pada 1948 untuk membantu melindungi kampung, dan dibubarkan ketika Darurat itu berakhir pada 1960. Selama **Konfrontasi** — konfrontasi Indonesia–Malaysia 1963–66 — pemerintah kembali bersandar pada unit relawan komunitas untuk keamanan setempat, bertindak sebagai mata dan telinga pembantu bagi polisi dan tentara.
+Garis keturunan RELA menjangkau hingga relawan pertahanan sipil pertengahan abad kedua puluh. Leluhurnya yang terdekat adalah **Home Guard** (*Pasukan Simpanan Kampung*), yang dibentuk selama [Darurat Malaya](/id/malaysia/the-emergency) yang diisytiharkan pada 1948 untuk membantu melindungi kampung, dan dibubarkan ketika Darurat itu berakhir pada 1960. Selama **Konfrontasi** — konfrontasi Indonesia–Malaysia 1963–66 — pemerintah kembali bersandar pada unit relawan komunitas untuk keamanan setempat, bertindak sebagai mata dan telinga pembantu bagi polisi dan tentara.
 
 Korps dalam bentuk modernnya umumnya ditanggalkan ke **1972**, dengan kerangka hukum awalnya disediakan oleh regulasi yang dibuat berdasarkan **Emergency (Essential Powers) Act 1964** — terutama *Essential (Ikatan Relawan Rakyat) Regulations*. (Aturan yang lebih lama dari tahun 1960-an bahkan menjadikan pelayanan relawan wajib bagi pria pada usia tertentu; kewajiban itu dicabut pada 2005.) Pada **2013**, RELA ditingkatkan dari unit menjadi jabatan federal penuh, **Jabatan Sukarelawan Malaysia**.
 

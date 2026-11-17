@@ -37,7 +37,7 @@ faq:
     a: "Đi các lối mòn thiên nhiên rừng rậm (Bishop, Maxwell, Rompin và Kindersley nằm trong số nổi tiếng nhất), thăm khu giải trí Thác Jeriau, dạo quanh ngôi làng giả Tudor quanh tháp đồng hồ, và đơn giản tận hưởng nhịp độ mát mẻ, chậm rãi (Wikipedia). Có một sân golf và một ít di sản thời thuộc địa để xem, nhưng theo thiết kế có rất ít đời sống về đêm."
 
 lang: "vi"
-sourceContentHash: "7bc61ffb1513250c"
+sourceContentHash: "72a87741425fdeb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird 
 framework: profile
 ---
 
-Hầu hết các trạm nghỉ đồi của Malaysia bán cho bạn một thứ gì đó — một sòng bạc, một đồn điền trà, một trang trại dâu, một công viên chủ đề. Fraser's Hill bán cho bạn sự vắng mặt của tất cả những điều đó. Trải khắp một cụm các sống núi phủ rừng trên dãy Titiwangsa, nó là một trạm nghỉ thời thuộc địa nhỏ, yên tĩnh, bọc trong sương mù nơi thứ ồn ào nhất bạn sẽ nghe là tiếng chim hót, và nơi một chiếc áo len thôi cảm thấy lố bịch ngay cả ở xích đạo. Đối với người ngắm chim, nó gần như là đất thiêng; đối với mọi người khác, nó là lựa chọn chậm rãi, kín tiếng thay cho những người hàng xóm vùng cao hào nhoáng hơn. Cẩm nang này bao gồm Fraser's Hill thực sự là gì, vì sao người ngắm chim đến, có gì để xem, con đường quanh co lên hoạt động ra sao, và nơi này phù hợp và không phù hợp với ai.
+Hầu hết các trạm nghỉ đồi của Malaysia bán cho bạn một thứ gì đó — một sòng bạc, một đồn điền trà, một trang trại dâu, một công viên chủ đề. Fraser's Hill bán cho bạn sự vắng mặt của tất cả những điều đó. Trải khắp một cụm các sống núi phủ rừng trên [dãy Titiwangsa](/vi/malaysia/titiwangsa-range), nó là một trạm nghỉ thời thuộc địa nhỏ, yên tĩnh, bọc trong sương mù nơi thứ ồn ào nhất bạn sẽ nghe là tiếng chim hót, và nơi một chiếc áo len thôi cảm thấy lố bịch ngay cả ở xích đạo. Đối với người ngắm chim, nó gần như là đất thiêng; đối với mọi người khác, nó là lựa chọn chậm rãi, kín tiếng thay cho những người hàng xóm vùng cao hào nhoáng hơn. Cẩm nang này bao gồm Fraser's Hill thực sự là gì, vì sao người ngắm chim đến, có gì để xem, con đường quanh co lên hoạt động ra sao, và nơi này phù hợp và không phù hợp với ai.
 
 ## Fraser's Hill ở đâu, và nó chính xác là gì?
 
@@ -107,7 +107,7 @@ Cái tên đến từ **Louis James Fraser** (một số nguồn viết là Lewi
 
 Ngọn đồi có được một đời thứ hai một cách tình cờ. Khi C. J. Ferguson-Davie, Giám mục Singapore, đến tìm Fraser đã-biến-mất vào năm 1917, ông nhận ra tiềm năng của sống núi mát mẻ, phủ rừng như một nơi nghỉ dưỡng kiểu trạm nghỉ đồi (Wikipedia). Một cuộc khảo sát theo sau, một con đường được mở từ The Gap lên, và vào năm **1922** Fraser's Hill mới được đặt tên mở cửa cho du khách (Wikipedia). Người Anh xây nó theo phong cách một ngôi làng Anh trong mây — đó là lý do kiến trúc ngày nay **chủ yếu là giả Tudor**, với các đầu hồi nửa gỗ và tất cả. Tính đến năm 2019, khu vực có **46 tòa nhà di sản** được xây giữa năm 1919 và 1957 (Wikipedia). Tháp đồng hồ neo giữ bãi cỏ làng là hình ảnh bưu thiếp của nơi này, dù nó là một địa danh về sau được xây theo cùng phong cách thuộc địa chứ không phải một công trình thuộc địa nguyên bản.
 
-Một mảnh lịch sử tối tăm hơn, bền vững thuộc về con đường lên. Trong thời **Khẩn cấp Malaya**, vào ngày **7 tháng 10 năm 1951**, Cao ủy Anh **Sir Henry Gurney bị ám sát trong một cuộc phục kích của cộng sản trên con đường đến Fraser's Hill gần The Gap** (Wikipedia). Đó là một trong những sự kiện hệ trọng nhất của thời Khẩn cấp, và con đường tiếp cận quanh co bạn lái ngày nay là chính tuyến đường đó. Nó được ghi nhớ như một sự thật lịch sử nghiêm túc, không phải một điểm thu hút du lịch.
+Một mảnh lịch sử tối tăm hơn, bền vững thuộc về con đường lên. Trong thời **[Khẩn cấp Malaya](/vi/malaysia/the-emergency)**, vào ngày **7 tháng 10 năm 1951**, Cao ủy Anh **Sir Henry Gurney bị ám sát trong một cuộc phục kích của cộng sản trên con đường đến Fraser's Hill gần The Gap** (Wikipedia). Đó là một trong những sự kiện hệ trọng nhất của thời Khẩn cấp, và con đường tiếp cận quanh co bạn lái ngày nay là chính tuyến đường đó. Nó được ghi nhớ như một sự thật lịch sử nghiêm túc, không phải một điểm thu hút du lịch.
 
 ## Vì sao Fraser's Hill là một thánh địa ngắm chim?
 

@@ -40,7 +40,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 
 status: "published"
 aiAssisted: true
@@ -134,7 +134,7 @@ framework: explainer
 
 On 8 August 1967, five men gathered in the main hall of the Ministry of
 Foreign Affairs building in Bangkok and signed a two-page document. One of
-them, Malaysia's Deputy Prime Minister Tun Abdul Razak Hussein, was placing
+them, Malaysia's Deputy Prime Minister [Tun Abdul Razak Hussein](/en/malaysia/abdul-razak-hussein), was placing
 Malaysia within an organisation that would go on to become the central
 framework of the country's foreign policy for nearly six decades — and one
 that Malaysia itself chaired in 2025.

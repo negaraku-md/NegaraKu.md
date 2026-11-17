@@ -28,7 +28,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang mencari gambaran ringkas dan ber
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -125,7 +125,7 @@ ia membacakan Proklamasi Kemerdekaan dan memimpin seruan Merdeka, tetap menjadi 
 pendirian bangsa itu (Proklamasi Kemerdekaan Malaya). Pemerintahan awalnya mengejar
 pembangunan ekonomi, perbaikan pedesaan, dan keseimbangan kepentingan etnis yang
 cermat, sambil menjaga Malaya tetap teguh di kubu Barat yang anti-komunis pada
-tahun-tahun penutup Darurat Malaya.
+tahun-tahun penutup [Darurat Malaya](/id/malaysia/the-emergency).
 
 ## Pembentukan Malaysia (1963) dan pemisahan Singapura (1965)
 

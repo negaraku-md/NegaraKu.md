@@ -31,7 +31,7 @@ faq:
     a: "둘 다입니다. CIMB는 말레이시아에 본사를 두고 상장되어 있지만 아세안 전역에서 영업합니다. 인도네시아(CIMB Niaga를 통해), 태국(CIMB Thai), 싱가포르가 주요 시장이며, 그룹은 약 15개 시장에 걸친 영업을 묘사합니다."
 
 lang: "ko"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ CIMB Group Holdings Berhad는 쿠알라룸푸르에 본사를 두고 Bursa Malay
 
 CIMB라는 이름은 현대 그룹의 핵심인 투자은행 Commerce International Merchant Bankers에서 나왔지만, 그 은행 혈통은 훨씬 더 깊이 거슬러 올라갑니다 — 1924년 사라왁 쿠칭에서 설립되어 수십 년의 통합을 거쳐 오늘날의 CIMB의 일부가 된 Bian Chiang Bank까지.
 
-결정적 장은 2000년대 중반에 찾아왔습니다. 2005년 6월 CIMB는 Bumiputra-Commerce 그룹의 인수를 발표했고; 지주회사 Commerce-Asset Holdings는 Bumiputra-Commerce Holdings로 개명되었으며, 그 소비자 은행과 투자은행을 하나의 종합은행으로 통합하려는 계획이었습니다(CIMB 기업 연혁). 2006년 1월 새 CIMB Group이 형성되어, 투자은행, 소비자 금융, 자산운용, 이슬람 서비스를 한 지붕 아래 결합했습니다. 같은 해 그룹은 Southern Bank를 인수했고, 2006년 9월 압둘라 아흐맛 바다위(Abdullah Ahmad Badawi) 총리가 공식적으로 그룹을 출범시키며 — Commerce International Merchant Bankers, Bumiputra-Commerce Bank, Southern Bank의 3자 합병을 완료하고, 새 로고와 "Forward Banking" 슬로건을 도입했습니다.
+결정적 장은 2000년대 중반에 찾아왔습니다. 2005년 6월 CIMB는 Bumiputra-Commerce 그룹의 인수를 발표했고; 지주회사 Commerce-Asset Holdings는 Bumiputra-Commerce Holdings로 개명되었으며, 그 소비자 은행과 투자은행을 하나의 종합은행으로 통합하려는 계획이었습니다(CIMB 기업 연혁). 2006년 1월 새 CIMB Group이 형성되어, 투자은행, 소비자 금융, 자산운용, 이슬람 서비스를 한 지붕 아래 결합했습니다. 같은 해 그룹은 Southern Bank를 인수했고, 2006년 9월 [압둘라 아흐맛 바다위(Abdullah Ahmad Badawi)](/ko/malaysia/abdullah-ahmad-badawi) 총리가 공식적으로 그룹을 출범시키며 — Commerce International Merchant Bankers, Bumiputra-Commerce Bank, Southern Bank의 3자 합병을 완료하고, 새 로고와 "Forward Banking" 슬로건을 도입했습니다.
 
 이어 그룹은 빠르게 국경을 넘었습니다. 인도네시아는 이미 2002년 PT Bank Niaga 인수로 들어와 있었고; 2008년 Bank Niaga가 Bank Lippo와 합병하여 당시 인도네시아 6위 은행을 만들어 CIMB Niaga로 재브랜딩되었는데, 이는 Bank Indonesia의 단일 존재 정책을 준수하기 위해 Khazanah가 주도한 움직임이었습니다. 2008~2009년 CIMB는 BankThai(나중의 CIMB Thai)를 인수하며 태국에 진출했고 싱가포르에서 영업을 시작했습니다. 몇 년 만에 말레이시아의 한 투자은행이 범(汎)아세안 종합은행이 되었습니다.
 

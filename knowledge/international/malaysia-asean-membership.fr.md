@@ -38,7 +38,7 @@ faq:
     a: "Le Secrétariat de l'ASEAN a son siège à Jakarta, en Indonésie. Il est dirigé par le secrétaire général de l'ASEAN, actuellement le Dr Kao Kim Hourn, du Cambodge."
 
 lang: "fr"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komu
 framework: explainer
 ---
 
-Le 8 août 1967, cinq hommes se sont réunis dans la grande salle du bâtiment du ministère des Affaires étrangères à Bangkok et ont signé un document de deux pages. L'un d'eux, le vice-Premier ministre de la Malaisie Tun Abdul Razak Hussein, plaçait la Malaisie au sein d'une organisation qui allait devenir le cadre central de la politique étrangère du pays pendant près de six décennies — et que la Malaisie elle-même a présidée en 2025.
+Le 8 août 1967, cinq hommes se sont réunis dans la grande salle du bâtiment du ministère des Affaires étrangères à Bangkok et ont signé un document de deux pages. L'un d'eux, le vice-Premier ministre de la Malaisie [Tun Abdul Razak Hussein](/fr/malaysia/abdul-razak-hussein), plaçait la Malaisie au sein d'une organisation qui allait devenir le cadre central de la politique étrangère du pays pendant près de six décennies — et que la Malaisie elle-même a présidée en 2025.
 
 ## En un coup d'œil : la Malaisie dans l'ASEAN
 

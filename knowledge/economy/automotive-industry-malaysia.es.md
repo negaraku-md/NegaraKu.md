@@ -33,7 +33,7 @@ faq:
     a: "Es el marco del gobierno para el sector del automóvil, actualizado más recientemente como la NAP 2020. Fija objetivos de vehículos de nueva generación (NxGV), movilidad como servicio y capacidades de la Industria 4.0, y está sometida a una revisión intermedia; el MITI puso en marcha la revisión (constituyendo un Consejo de Personas Eminentes del Automóvil en 2025), pero su resultado no se publicó en el plazo de finales de 2025 y seguía pendiente en 2026."
 
 lang: "es"
-sourceContentHash: "ce89b8f0036180e9"
+sourceContentHash: "ea4723a8cd060bef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Esa decisión, tomada a principios de la década de 1980 bajo el primer ministro
 
 Antes de Proton, los fabricantes japoneses tenían más del 70% del mercado de vehículos de Malasia, ensamblando kits completamente desmontados (CKD) mediante empresas conjuntas. El mercado interno era demasiado pequeño para que alguno de ellos alcanzara economías de escala reales, y la industria era esencialmente sustitución de importaciones con cara extranjera.
 
-El proyecto del coche nacional cambió las condiciones. La Corporación de Industria Pesada de Malasia (HICOM), creada en 1980 para promover la industria pesada, se convirtió en el vehículo. En 1983 fundó Perusahaan Otomobil Nasional (Proton) como una empresa conjunta: HICOM tomó el 70% y Mitsubishi Corporation y Mitsubishi Motors el 30% restante, con un capital total de RM150 millones. Proton era más que una empresa; era política industrial, destinada a sembrar una base de fabricantes locales de componentes y a ampliar la participación bumiputera en la manufactura bajo la Nueva Política Económica.
+El proyecto del coche nacional cambió las condiciones. La Corporación de Industria Pesada de Malasia (HICOM), creada en 1980 para promover la industria pesada, se convirtió en el vehículo. En 1983 fundó Perusahaan Otomobil Nasional (Proton) como una empresa conjunta: HICOM tomó el 70% y Mitsubishi Corporation y Mitsubishi Motors el 30% restante, con un capital total de RM150 millones. Proton era más que una empresa; era política industrial, destinada a sembrar una base de fabricantes locales de componentes y a ampliar la participación bumiputera en la manufactura bajo la [Nueva Política Económica](/es/malaysia/new-economic-policy).
 
 Una segunda marca nacional llegó en 1993. Perusahaan Otomobil Kedua (Perodua) se estableció como una empresa conjunta construida en torno a la japonesa Daihatsu, y desde 1994 vendió un coche compacto derivado del Daihatsu Mira. Perodua puso fin al casi monopolio de Proton y, con el tiempo, la especialista en coches pequeños superó a su hermana mayor para convertirse en la líder del mercado que sigue siendo.
 

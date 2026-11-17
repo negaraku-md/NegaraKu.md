@@ -31,7 +31,7 @@ faq:
     a: "El DOSM divide Otros Bumiputera en Bumiputera de Sabah (55.3 por ciento del grupo, que comprende a Kadazan/Dusun, Bajau, Murut y otros grupos Bumiputera de Sabah), Bumiputera de Sarawak (32.3 por ciento, que comprende a Iban, Bidayuh, Melanau y otros grupos Bumiputera de Sarawak) y otros grupos Bumiputera peninsulares que constituyen el resto."
 
 lang: "es"
-sourceContentHash: "6a6100396bc06f2b"
+sourceContentHash: "99342f6158195953"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -172,7 +172,7 @@ El DOSM clasifica a un estado como «en envejecimiento» una vez que su proporci
 
 ## Qué sigue
 
-Para el contexto constitucional e histórico de cómo las poblaciones Bumiputera de Sabah y Sarawak llegaron a contabilizarse como parte de las estadísticas federales en primer lugar, véanse los perfiles estatales de [Sabah](/en/states/sabah) y [Sarawak](/en/states/sarawak), ambos incorporados a la federación en los términos establecidos en el Acuerdo de Malasia de 1963.
+Para el contexto constitucional e histórico de cómo las poblaciones Bumiputera de Sabah y Sarawak llegaron a contabilizarse como parte de las estadísticas federales en primer lugar, véanse los perfiles estatales de [Sabah](/en/states/sabah) y [Sarawak](/en/states/sarawak), ambos incorporados a la federación en los términos establecidos en el [Acuerdo de Malasia de 1963](/es/malaysia/ma63).
 
 Para el documento unificador nacional que acompaña —no sustituye— a las estadísticas étnicas de Malasia, véase [Rukun Negara](/en/malaysia/rukun-negara).
 

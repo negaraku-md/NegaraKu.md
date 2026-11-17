@@ -170,7 +170,7 @@ State is self-evident.
 | Holiday | 2026 date |
 | --- | --- |
 | New Year's Day | 1 January |
-| Birthday of the Yang di-Pertuan Besar of Negeri Sembilan | 14 January |
+| Birthday of the [Yang di-Pertuan Besar of Negeri Sembilan](/malaysia/negeri-sembilan-royal-institution) | 14 January |
 | Israk and Mikraj | 17 January |
 | [Thaipusam](/arts-culture/thaipusam) | 1 February |
 | Federal Territory Day | 1 February |

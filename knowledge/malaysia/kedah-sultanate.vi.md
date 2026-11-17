@@ -19,7 +19,7 @@ keyTakeaways:
   - "Hiệp ước Anh-Xiêm (Bangkok) năm 1909 đã chuyển giao các yêu sách của Xiêm đối với Kedah cho Anh; Kedah về sau gia nhập Malaysia độc lập năm 1957."
 appliesTo: "Học sinh - sinh viên, nhà nghiên cứu, du khách và bất kỳ ai muốn có cái nhìn tổng quan có dẫn nguồn về lịch sử hoàng gia Kedah và vị trí của nó trong số các chế độ quân chủ Mã Lai của Malaysia."
 lang: "vi"
-sourceContentHash: "3ad93d074a6c5192"
+sourceContentHash: "08adb6bfb26200c1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Ít nơi nào ở Malaysia mang trong mình quá khứ một cách cởi mở như Kedah. Rất lâu trước khi những ngọn tháp giáo đường vươn lên trên Alor Setar, vùng đồng bằng xanh màu lúa giữa hai con sông Merbok và Muda đã là nơi cập bến của các thương nhân cưỡi gió mùa đi lại giữa Ấn Độ, Trung Hoa và thế giới Mã Lai. Các thủy thủ và học giả biết đến bờ biển này với tên Kadaram hay Kataha; các nhà khảo cổ ngày nay biết đến nó qua những gò đền của Thung lũng Bujang. Từ khởi đầu Hindu-Phật giáo, mang tính quốc tế ấy đã mọc lên một chế độ quân chủ Mã Lai có thể trụ vững qua Srivijaya và Chola, Ayutthaya và Bangkok, và cuối cùng là Đế quốc Anh.
+Ít nơi nào ở Malaysia mang trong mình quá khứ một cách cởi mở như Kedah. Rất lâu trước khi những ngọn tháp giáo đường vươn lên trên Alor Setar, vùng đồng bằng xanh màu lúa giữa hai con sông Merbok và Muda đã là nơi cập bến của các thương nhân cưỡi gió mùa đi lại giữa Ấn Độ, Trung Hoa và thế giới Mã Lai. Các thủy thủ và học giả biết đến bờ biển này với tên Kadaram hay Kataha; các nhà khảo cổ ngày nay biết đến nó qua những gò đền của Thung lũng Bujang. Từ khởi đầu Hindu-Phật giáo, mang tính quốc tế ấy đã mọc lên một chế độ quân chủ Mã Lai có thể trụ vững qua [Srivijaya](/vi/malaysia/srivijaya) và Chola, Ayutthaya và Bangkok, và cuối cùng là Đế quốc Anh.
 
 Điều làm Kedah đáng chú ý không chỉ là tuổi đời của nó mà còn là sự liên tục. Vương tộc Mahawangsa vẫn đang trị vì, một sợi chỉ sống động chạy từ huyền thoại cho đến một chế độ quân chủ lập hiến bên trong Malaysia hiện đại. Đây là câu chuyện về dòng dõi đó, được kể trong chừng mực các nguồn cho phép và thận trọng ở những chỗ chúng bất đồng.
 

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ CIMB Group Holdings Berhad は、クアラルンプールに本社を置き Burs
 
 CIMB の名は、現在のグループの中核をなす投資銀行 Commerce International Merchant Bankers に由来するが、その銀行の系譜ははるかに深く——1924年にサラワクのクチンで創業し、数十年の統合を経て今日の CIMB の一部となった Bian Chiang Bank までさかのぼる。
 
-決定的な章は2000年代半ばに訪れた。2005年6月、CIMB は Bumiputra-Commerce グループの買収を発表した；持株会社 Commerce-Asset Holdings は Bumiputra-Commerce Holdings に改称され、その個人向け銀行と投資銀行を一つのユニバーサルバンクに統合する計画であった（CIMB 企業沿革）。2006年1月に新しい CIMB Group が形成され、投資銀行業務、個人向け銀行業務、資産運用、イスラム・サービスを一つ屋根の下に結びつけた。同じ年に同グループは Southern Bank を買収し、2006年9月には首相 Abdullah Ahmad Badawi が正式にグループを立ち上げた——Commerce International Merchant Bankers、Bumiputra-Commerce Bank、Southern Bank の三社合併を完了し、新しいロゴと「Forward Banking」のタグラインを導入した。
+決定的な章は2000年代半ばに訪れた。2005年6月、CIMB は Bumiputra-Commerce グループの買収を発表した；持株会社 Commerce-Asset Holdings は Bumiputra-Commerce Holdings に改称され、その個人向け銀行と投資銀行を一つのユニバーサルバンクに統合する計画であった（CIMB 企業沿革）。2006年1月に新しい CIMB Group が形成され、投資銀行業務、個人向け銀行業務、資産運用、イスラム・サービスを一つ屋根の下に結びつけた。同じ年に同グループは Southern Bank を買収し、2006年9月には首相 [Abdullah Ahmad Badawi](/ja/malaysia/abdullah-ahmad-badawi) が正式にグループを立ち上げた——Commerce International Merchant Bankers、Bumiputra-Commerce Bank、Southern Bank の三社合併を完了し、新しいロゴと「Forward Banking」のタグラインを導入した。
 
 その後、同グループは急速に国境を越えて動いた。インドネシアは2002年の PT Bank Niaga 買収を通じてすでに到達していた；2008年に Bank Niaga は Bank Lippo と合併し、当時の同国第六位の銀行を創出して CIMB Niaga に改称した。これは、Bank Indonesia のシングル・プレゼンス政策に従うために Khazanah が主導した動きであった。2008〜2009年には、CIMB は BankThai（のちの CIMB Thai）を買収してタイに参入し、シンガポールにも開業した。数年のうちに、マレーシアの投資銀行が汎 ASEAN のユニバーサルバンクとなったのである。
 

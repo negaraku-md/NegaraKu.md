@@ -31,7 +31,7 @@ faq:
 
 
 lang: "ko"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | 명칭 | 페르모달란 나시오날 베르하드(Permodalan Nasional Berhad, PNB) |
-| 설립 | 1978년 3월 17일, 말레이시아 신경제정책의 일환으로 |
+| 설립 | 1978년 3월 17일, 말레이시아 [신경제정책](/ko/malaysia/new-economic-policy)의 일환으로 |
 | 전신 | 야야산 펠라부란 부미푸트라(YPB), 1978년 1월 9일 설립 |
 | 권한 | 부미푸트라 공동체와 모든 말레이시아인의 경제적 부를 증진 |
 | AUM | RM3,640억(2025년 말 기준, 전년 대비 4.5% 증가) |

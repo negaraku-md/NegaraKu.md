@@ -31,7 +31,7 @@ faq:
     a: "Hal ini mencerminkan tren global yang sama pada media cetak — pembaca, terutama kaum muda, mengakses berita melalui internet, aplikasi ponsel, dan media sosial. Pendapatan iklan yang menurun serta biaya cetak secara bersamaan mendorong banyak surat kabar untuk mengutamakan edisi digital."
 
 lang: "id"
-sourceContentHash: "b7243674f3b8cc52"
+sourceContentHash: "32a4a04add201056"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -83,7 +83,7 @@ Industri pers berbahasa Tamil di Malaysia memiliki sejarah lebih dari satu abad.
 
 ## Sejarah: jurnalisme Tamil di Malaya era kolonial
 
-Akar pers Tamil terletak di Malaya era kolonial Inggris, khususnya di **Negeri-Negeri Selat (Straits Settlements)**. Menurut para peneliti, **Penang** merupakan tempat lahir banyak terbitan Tamil pada era kolonial; dari akhir abad ke-19 hingga awal abad ke-20, upaya sastra dan jurnalisme Tamil tumbuh di sana.
+Akar pers Tamil terletak di Malaya era kolonial Inggris, khususnya di **[Negeri-Negeri Selat (Straits Settlements)](/id/malaysia/straits-settlements)**. Menurut para peneliti, **Penang** merupakan tempat lahir banyak terbitan Tamil pada era kolonial; dari akhir abad ke-19 hingga awal abad ke-20, upaya sastra dan jurnalisme Tamil tumbuh di sana.
 
 Sebagai kelanjutan dari pertumbuhan ini, **Tamil Nesan (Sahabat Tamil)** terbit sebagai edisi perdana pada 24 September 1924. Ia membawa beragam liputan kepada komunitas Tamil — politik, agama, berita dalam dan luar negeri, pendidikan, serta film Tamil — dan hingga ditutup, ia dianggap sebagai surat kabar harian Tamil tertua di negeri ini.
 

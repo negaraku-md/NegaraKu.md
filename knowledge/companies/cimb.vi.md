@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Cổ đông lớn nhất của nó là Khazanah Nasional, quỹ đầu tư quố
 
 Tên gọi CIMB bắt nguồn từ Commerce International Merchant Bankers, ngân hàng đầu tư nằm ở cốt lõi của tập đoàn hiện đại, nhưng dòng dõi ngân hàng của nó chạy sâu hơn nhiều — về tận Bian Chiang Bank, được thành lập tại Kuching, Sarawak, năm 1924, mà qua nhiều thập kỷ hợp nhất đã trở thành một phần của CIMB ngày nay.
 
-Chương quyết định đến vào giữa những năm 2000. Vào tháng 6 năm 2005, CIMB công bố việc mua lại tập đoàn Bumiputra-Commerce; công ty mẹ Commerce-Asset Holdings được đổi tên thành Bumiputra-Commerce Holdings, và kế hoạch là gộp các ngân hàng bán lẻ và đầu tư của nó thành một ngân hàng tổng hợp duy nhất (lịch sử doanh nghiệp của CIMB). Vào tháng 1 năm 2006, tập đoàn CIMB mới được hình thành, kết hợp ngân hàng đầu tư, ngân hàng bán lẻ, quản lý tài sản và các dịch vụ Hồi giáo dưới một mái nhà. Cùng năm đó, tập đoàn mua lại Southern Bank, và vào tháng 9 năm 2006, Thủ tướng Abdullah Ahmad Badawi chính thức ra mắt tập đoàn — hoàn tất cuộc sáp nhập ba bên giữa Commerce International Merchant Bankers, Bumiputra-Commerce Bank và Southern Bank, đồng thời giới thiệu một logo mới và khẩu hiệu 「Forward Banking」.
+Chương quyết định đến vào giữa những năm 2000. Vào tháng 6 năm 2005, CIMB công bố việc mua lại tập đoàn Bumiputra-Commerce; công ty mẹ Commerce-Asset Holdings được đổi tên thành Bumiputra-Commerce Holdings, và kế hoạch là gộp các ngân hàng bán lẻ và đầu tư của nó thành một ngân hàng tổng hợp duy nhất (lịch sử doanh nghiệp của CIMB). Vào tháng 1 năm 2006, tập đoàn CIMB mới được hình thành, kết hợp ngân hàng đầu tư, ngân hàng bán lẻ, quản lý tài sản và các dịch vụ Hồi giáo dưới một mái nhà. Cùng năm đó, tập đoàn mua lại Southern Bank, và vào tháng 9 năm 2006, Thủ tướng [Abdullah Ahmad Badawi](/vi/malaysia/abdullah-ahmad-badawi) chính thức ra mắt tập đoàn — hoàn tất cuộc sáp nhập ba bên giữa Commerce International Merchant Bankers, Bumiputra-Commerce Bank và Southern Bank, đồng thời giới thiệu một logo mới và khẩu hiệu 「Forward Banking」.
 
 Sau đó tập đoàn dịch chuyển nhanh chóng qua các biên giới. Indonesia đã đến từ trước qua việc mua lại PT Bank Niaga năm 2002; vào năm 2008, Bank Niaga sáp nhập với Bank Lippo để tạo ra ngân hàng khi đó lớn thứ sáu của đất nước, được đổi thương hiệu thành CIMB Niaga, một động thái do Khazanah thúc đẩy để tuân thủ chính sách hiện diện đơn nhất của Bank Indonesia. Trong giai đoạn 2008-2009, CIMB tiến vào Thái Lan bằng việc mua lại BankThai (sau này là CIMB Thai) và khai trương tại Singapore. Trong vài năm, một ngân hàng đầu tư Malaysia đã trở thành một ngân hàng tổng hợp toàn ASEAN.
 

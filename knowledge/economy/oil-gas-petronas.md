@@ -166,7 +166,7 @@ This is the part most coverage either avoids or takes a side on. The factual pos
 
 **The federal position** rests on the text. Section 2 vests ownership in PETRONAS; each state executed the Schedule instrument granting rights in perpetuity; section 2(3) makes it irrevocable. On this reading, what a state receives is the section 4 cash payment — an amount fixed by agreement, not by entitlement.
 
-**The state positions** rest on what preceded and surrounds the Act — the Malaysia Agreement 1963, pre-existing state oil mining ordinances, and continental-shelf boundaries — and on the argument that the 1974 arrangement should be renegotiated or supplemented rather than treated as settled.
+**The state positions** rest on what preceded and surrounds the Act — the [Malaysia Agreement 1963](/malaysia/ma63), pre-existing state oil mining ordinances, and continental-shelf boundaries — and on the argument that the 1974 arrangement should be renegotiated or supplemented rather than treated as settled.
 
 What has actually changed since 2020 is commercial rather than statutory. The Act has not been amended. Instead:
 

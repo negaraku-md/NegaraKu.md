@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre la base juridique du secteur pétrolier et gazier de la Malaisie, la dépendance fiscale fédérale au pétrole, ou le débat sur les ressources entre la Fédération et les États — étudiants, analystes, investisseurs et journalistes."
 
 lang: "fr"
-sourceContentHash: "e00cfef3a5a059c4"
+sourceContentHash: "a382e8da52c0814c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -167,7 +167,7 @@ C'est la partie que la plupart des analyses évitent ou sur laquelle elles prenn
 
 **La position fédérale** repose sur le texte. La section 2 dévolue la propriété à PETRONAS ; chaque État a signé l'instrument de l'Annexe concédant des droits à perpétuité ; la section 2(3) la rend irrévocable. Selon cette lecture, ce qu'un État reçoit est le paiement en espèces de la section 4 — un montant fixé par accord, non par droit acquis.
 
-**Les positions des États** reposent sur ce qui a précédé et entoure la loi — l'Accord de Malaisie de 1963, les ordonnances d'État préexistantes sur l'extraction du pétrole et les limites du plateau continental — et sur l'argument que l'arrangement de 1974 devrait être renégocié ou complété plutôt que traité comme un dossier clos.
+**Les positions des États** reposent sur ce qui a précédé et entoure la loi — l'[Accord de Malaisie de 1963](/fr/malaysia/ma63), les ordonnances d'État préexistantes sur l'extraction du pétrole et les limites du plateau continental — et sur l'argument que l'arrangement de 1974 devrait être renégocié ou complété plutôt que traité comme un dossier clos.
 
 Ce qui a effectivement changé depuis 2020 est commercial plutôt que statutaire. La loi n'a pas été amendée. En lieu et place :
 

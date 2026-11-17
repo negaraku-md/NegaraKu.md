@@ -29,7 +29,7 @@ faq:
     a: "Les deux moments sont réels. Le transfert légal de la souveraineté prit effet à minuit le 31 août 1957, marqué par la cérémonie du drapeau sur le padang de Kuala Lumpur. La cérémonie publique de proclamation, avec le septuple cri de « Merdeka », eut lieu plus tard le même matin au Stadium Merdeka."
 
 lang: "fr"
-sourceContentHash: "9d15ea63aee3b87b"
+sourceContentHash: "ca15cfa45f8cdedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ Quelques minutes après minuit, le 31 août 1957, sur le padang devant l'ancien 
 
 ## La délégation qui alla demander
 
-En janvier 1956, une délégation du Parti de l'Alliance — Malais, Chinois et Indiens négociant comme un seul bloc, conduits par Tunku Abdul Rahman — se rendit à Londres pour poser au gouvernement britannique une question précise : quand, et à quelles conditions, la Malaya se gouvernerait-elle elle-même ? La réponse qu'elle rapporta ne fut pas une vague assurance. La Grande-Bretagne accepta en principe l'indépendance pour août 1957, à condition qu'une constitution viable fût d'abord en place. Ce seul voyage transforma le « un jour » en une échéance, et tout ce qui suivit fut conçu pour la respecter.
+En janvier 1956, une délégation du [Parti de l'Alliance](/fr/malaysia/the-alliance) — Malais, Chinois et Indiens négociant comme un seul bloc, conduits par Tunku Abdul Rahman — se rendit à Londres pour poser au gouvernement britannique une question précise : quand, et à quelles conditions, la Malaya se gouvernerait-elle elle-même ? La réponse qu'elle rapporta ne fut pas une vague assurance. La Grande-Bretagne accepta en principe l'indépendance pour août 1957, à condition qu'une constitution viable fût d'abord en place. Ce seul voyage transforma le « un jour » en une échéance, et tout ce qui suivit fut conçu pour la respecter.
 
 ## Écrire le règlement avant la fête
 

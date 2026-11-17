@@ -28,7 +28,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen una visión gener
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -126,7 +126,7 @@ cántico de la Merdeka, sigue siendo la imagen fundacional de la nación (Declar
 de Malaya). Su primer gobierno persiguió el desarrollo económico, la
 mejora rural y un cuidadoso equilibrio de los intereses étnicos, al tiempo que mantenía a Malaya
 firmemente en el campo occidental y anticomunista durante los años finales de la
-Emergencia Malaya.
+[Emergencia Malaya](/es/malaysia/the-emergency).
 
 ## La formación de Malasia (1963) y la separación de Singapur (1965)
 

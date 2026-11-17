@@ -38,7 +38,7 @@ verificationNeeded:
   - "Cần xác nhận các ngày được đánh dấu là có thể thay đổi trong biểu của Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan và ngày thứ hai của Hari Raya Qurban đều được gắn cờ"
 
 lang: "vi"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -171,7 +171,7 @@ là hiển nhiên.
 | Ngày nghỉ lễ | Ngày năm 2026 |
 | --- | --- |
 | Tết Dương lịch | 1 tháng 1 |
-| Sinh nhật của Yang di-Pertuan Besar bang Negeri Sembilan | 14 tháng 1 |
+| Sinh nhật của [Yang di-Pertuan Besar bang Negeri Sembilan](/vi/malaysia/negeri-sembilan-royal-institution) | 14 tháng 1 |
 | Israk và Mikraj | 17 tháng 1 |
 | [Thaipusam](/vi/arts-culture/thaipusam) | 1 tháng 2 |
 | Ngày Lãnh thổ Liên bang | 1 tháng 2 |

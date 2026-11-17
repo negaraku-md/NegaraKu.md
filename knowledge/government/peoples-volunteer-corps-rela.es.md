@@ -29,7 +29,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "31a7c6e682e80fdc"
+sourceContentHash: "bde719d3e0b9bcda"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,7 +84,7 @@ RELA es un cuerpo de voluntarios: ciudadanos corrientes que se inscriben, se for
 
 ## Orígenes: de la Guardia Nacional a la Konfrontasi
 
-El linaje de RELA se remonta a los voluntarios de defensa civil de mediados del siglo XX. Su antepasado más cercano es la **Guardia Nacional** (*Home Guard*, *Pasukan Simpanan Kampung*), creada durante la Emergencia Malaya declarada en 1948 para ayudar a proteger las aldeas, y disuelta cuando esa Emergencia terminó en 1960. Durante la **Konfrontasi** — el enfrentamiento entre Indonesia y Malasia de 1963–66 — el Gobierno volvió a apoyarse en las unidades de voluntarios de la comunidad para la seguridad local, que actuaban como ojos y oídos auxiliares de la policía y el ejército.
+El linaje de RELA se remonta a los voluntarios de defensa civil de mediados del siglo XX. Su antepasado más cercano es la **Guardia Nacional** (*Home Guard*, *Pasukan Simpanan Kampung*), creada durante la [Emergencia Malaya](/es/malaysia/the-emergency) declarada en 1948 para ayudar a proteger las aldeas, y disuelta cuando esa Emergencia terminó en 1960. Durante la **Konfrontasi** — el enfrentamiento entre Indonesia y Malasia de 1963–66 — el Gobierno volvió a apoyarse en las unidades de voluntarios de la comunidad para la seguridad local, que actuaban como ojos y oídos auxiliares de la policía y el ejército.
 
 El cuerpo en su forma moderna suele datarse en **1972**, con su primer andamiaje legal provisto por reglamentos dictados al amparo de la **Emergency (Essential Powers) Act 1964** — en particular los *Essential (Ikatan Relawan Rakyat) Regulations*. (Normas más antiguas de la década de 1960 incluso hacían obligatorio el servicio voluntario para los hombres de ciertas edades; esa obligación se revocó en 2005.) En **2013**, RELA se elevó de unidad a departamento federal pleno, el **Jabatan Sukarelawan Malaysia**.
 

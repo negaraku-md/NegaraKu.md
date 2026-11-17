@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 
 status: "published"
 aiAssisted: true
@@ -104,7 +104,7 @@ framework: profile
 | | |
 | --- | --- |
 | 名称 | Permodalan Nasional Berhad（PNB） |
-| 設立 | 1978年3月17日、マレーシアの新経済政策（New Economic Policy）の一環として |
+| 設立 | 1978年3月17日、マレーシアの[新経済政策](/ja/malaysia/new-economic-policy)（New Economic Policy）の一環として |
 | 前身 | Yayasan Pelaburan Bumiputra（YPB）、1978年1月9日設立 |
 | 使命 | ブミプトラ社会および全マレーシア国民の経済的豊かさを高めること |
 | AUM | RM3,640億（2025年末時点、前年比4.5%増） |

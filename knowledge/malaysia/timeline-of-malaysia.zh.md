@@ -35,7 +35,7 @@ verificationNeeded:
   - "每个关键时刻在有文章时都链接到完整、有出处的文章；那些页面附有引用。现代政治年表（首相、全国大选、1MDB事件、2020年“喜来登行动”）是事实性的公开记录，取自首相署与选举委员会，以中立方式呈现。触及3R（种族／宗教／王权）或其他敏感主题的条目——1969年5月13日事件、茅草行动、1988年司法危机——在正式发布前需经人工审核。"
 
 lang: "zh"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -176,7 +176,7 @@ framework: history-culture
 - **1987年** — [茅草行动](/zh/malaysia/ops-lalang-1987) — 依《内部安全法令》进行的大规模拘留。
 - **1991年** — [2020宏愿](/zh/malaysia/wawasan-2020) — 到2020年成为完全发达国家的目标。
 - **1997–98年** — [亚洲金融危机与烈火莫熄](/zh/malaysia/1998-reformasi) — 资本管制、[安华·依布拉欣](/zh/malaysia/anwar-ibrahim)被革职，以及改革运动。
-- **2003年10月31日** — 马哈迪在任22年后卸任；阿都拉·巴达威成为第五任首相。
+- **2003年10月31日** — 马哈迪在任22年后卸任；[阿都拉·巴达威](/zh/malaysia/abdullah-ahmad-badawi)成为第五任首相。
 
 ## 从烈火莫熄到团结政府
 

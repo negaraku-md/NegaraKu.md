@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc61ffb1513250c"
+sourceContentHash: "72a87741425fdeb1"
 
 status: "published"
 aiAssisted: true
@@ -93,7 +93,7 @@ keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird 
 framework: profile
 ---
 
-Kebanyakan pusat peranginan bukit Malaysia menjual anda sesuatu — kasino, ladang teh, ladang strawberi, taman tema. Bukit Fraser menjual anda ketiadaan semua itu. Terbentang merentasi sekelompok rabung berhutan di banjaran Titiwangsa, ia stesen era kolonial yang kecil, tenang dan berselimut kabus tempat bunyi paling kuat yang akan anda dengar ialah kicauan burung, dan tempat sehelai baju sejuk berhenti terasa mengarut walaupun di khatulistiwa. Bagi pemerhati burung ia hampir tanah suci; bagi yang lain ia alternatif perlahan dan rendah suasana kepada jiran tanah tinggi yang lebih gah. Panduan ini merangkumi apa sebenarnya Bukit Fraser, mengapa peminat burung datang, apa yang ada untuk dilihat, cara jalan berliku naik berfungsi, serta untuk siapa tempat ini sesuai dan tidak sesuai.
+Kebanyakan pusat peranginan bukit Malaysia menjual anda sesuatu — kasino, ladang teh, ladang strawberi, taman tema. Bukit Fraser menjual anda ketiadaan semua itu. Terbentang merentasi sekelompok rabung berhutan di [banjaran Titiwangsa](/ms/malaysia/titiwangsa-range), ia stesen era kolonial yang kecil, tenang dan berselimut kabus tempat bunyi paling kuat yang akan anda dengar ialah kicauan burung, dan tempat sehelai baju sejuk berhenti terasa mengarut walaupun di khatulistiwa. Bagi pemerhati burung ia hampir tanah suci; bagi yang lain ia alternatif perlahan dan rendah suasana kepada jiran tanah tinggi yang lebih gah. Panduan ini merangkumi apa sebenarnya Bukit Fraser, mengapa peminat burung datang, apa yang ada untuk dilihat, cara jalan berliku naik berfungsi, serta untuk siapa tempat ini sesuai dan tidak sesuai.
 
 ## Di manakah Bukit Fraser, dan apa sebenarnya ia?
 
@@ -107,7 +107,7 @@ Nama datang daripada **Louis James Fraser** (sesetengah sumber mengejanya Lewis)
 
 Bukit itu mendapat kehidupan kedua secara tidak sengaja. Apabila C. J. Ferguson-Davie, Bishop Singapura, datang mencari Fraser yang pada ketika itu sudah hilang pada 1917, dia mengenali potensi rabung berhutan yang sejuk itu sebagai tempat perlindungan pusat peranginan bukit (Wikipedia). Satu kaji selidik menyusul, satu jalan diukir naik dari The Gap, dan pada **1922** Bukit Fraser yang baru dinamakan itu dibuka kepada pelawat (Wikipedia). British membinanya dalam gaya kampung Inggeris di awan — sebabnya seni bina hari ini **kebanyakannya mock-Tudor**, atap gable separa bersela dan sebagainya. Setakat 2019 kawasan ini mengira **46 bangunan warisan** yang dibina antara 1919 dan 1957 (Wikipedia). Menara jam yang menjadi tiang padang hijau pekan ialah imej poskad tempat ini, walaupun ia mercu tanda kemudian yang dibina dalam gaya kolonial yang sama dan bukannya struktur kolonial asal.
 
-Sekeping sejarah yang lebih gelap dan kekal menjadi milik jalan naik itu. Semasa **Darurat Malaya**, pada **7 Oktober 1951**, Pesuruhjaya Tinggi British **Sir Henry Gurney dibunuh dalam serang hendap komunis di jalan ke Bukit Fraser berhampiran The Gap** (Wikipedia). Ia salah satu peristiwa paling berpengaruh dalam Darurat, dan jalan pendekatan berliku yang anda pandu hari ini ialah laluan yang sama. Ia diingati sebagai fakta sejarah yang serius, bukan tarikan pelancong.
+Sekeping sejarah yang lebih gelap dan kekal menjadi milik jalan naik itu. Semasa **[Darurat Malaya](/ms/malaysia/the-emergency)**, pada **7 Oktober 1951**, Pesuruhjaya Tinggi British **Sir Henry Gurney dibunuh dalam serang hendap komunis di jalan ke Bukit Fraser berhampiran The Gap** (Wikipedia). Ia salah satu peristiwa paling berpengaruh dalam Darurat, dan jalan pendekatan berliku yang anda pandu hari ini ialah laluan yang sama. Ia diingati sebagai fakta sejarah yang serius, bukan tarikan pelancong.
 
 ## Mengapa Bukit Fraser mekah memerhati burung?
 

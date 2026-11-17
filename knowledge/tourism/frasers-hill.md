@@ -92,7 +92,7 @@ keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird 
 framework: profile
 ---
 
-Most of Malaysia's hill stations sell you something — a casino, a tea estate, a strawberry farm, a theme park. Fraser's Hill sells you the absence of all that. Spread across a cluster of forested ridges on the Titiwangsa range, it is a small, quiet, mist-wrapped colonial-era station where the loudest thing you will hear is birdsong, and where a jumper stops feeling ridiculous even at the equator. For birdwatchers it is close to sacred ground; for everyone else it is the slow, low-key alternative to its flashier highland neighbours. This guide covers what Fraser's Hill actually is, why the birders come, what there is to see, how the winding road up works, and who the place does and does not suit.
+Most of Malaysia's hill stations sell you something — a casino, a tea estate, a strawberry farm, a theme park. Fraser's Hill sells you the absence of all that. Spread across a cluster of forested ridges on the [Titiwangsa range](/malaysia/titiwangsa-range), it is a small, quiet, mist-wrapped colonial-era station where the loudest thing you will hear is birdsong, and where a jumper stops feeling ridiculous even at the equator. For birdwatchers it is close to sacred ground; for everyone else it is the slow, low-key alternative to its flashier highland neighbours. This guide covers what Fraser's Hill actually is, why the birders come, what there is to see, how the winding road up works, and who the place does and does not suit.
 
 ## Where is Fraser's Hill, and what exactly is it?
 
@@ -106,7 +106,7 @@ The name comes from **Louis James Fraser** (some sources spell it Lewis), a Scot
 
 The hill got a second life by accident. When C. J. Ferguson-Davie, the Bishop of Singapore, came looking for the by-then-vanished Fraser in 1917, he recognised the cool, forested ridge's potential as a hill-station retreat (Wikipedia). A survey followed, a road was cut up from The Gap, and in **1922** the newly named Fraser's Hill opened to visitors (Wikipedia). The British built it in the style of an English village in the clouds — which is why the architecture today is **mostly mock-Tudor**, half-timbered gables and all. As of 2019 the area counted **46 heritage buildings** constructed between 1919 and 1957 (Wikipedia). The clock tower that anchors the village green is the postcard image of the place, though it is a later landmark built in the same colonial style rather than an original colonial structure.
 
-A darker, durable piece of history belongs to the road up. During the **Malayan Emergency**, on **7 October 1951**, the British High Commissioner **Sir Henry Gurney was assassinated in a communist ambush on the road to Fraser's Hill near The Gap** (Wikipedia). It is one of the most consequential events of the Emergency, and the winding approach road you drive today is the same route. It is remembered as a sober historical fact, not a tourist attraction.
+A darker, durable piece of history belongs to the road up. During the **[Malayan Emergency](/malaysia/the-emergency)**, on **7 October 1951**, the British High Commissioner **Sir Henry Gurney was assassinated in a communist ambush on the road to Fraser's Hill near The Gap** (Wikipedia). It is one of the most consequential events of the Emergency, and the winding approach road you drive today is the same route. It is remembered as a sober historical fact, not a tourist attraction.
 
 ## Why is Fraser's Hill a birdwatching mecca?
 

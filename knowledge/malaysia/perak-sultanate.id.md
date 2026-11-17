@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang mencari gambaran bersumber tenta
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,7 +87,7 @@ Pertempuran itu meluluhlantakkan ekonomi timah dan mengancam para saudagar Penan
 
 ## Pangkor 1874 dan Residen yang terlalu jauh
 
-Pada 20 Januari 1874, di atas kapal uap kolonial *Pluto* yang berlabuh di lepas Pulau Pangkor, Gubernur Negeri-Negeri Selat, Sir Andrew Clarke, mempertemukan para pihak dalam apa yang kemudian menjadi Perjanjian Pangkor (atau Traktat Pangkor). Kesepakatan itu mengakui Raja Abdullah sebagai Sultan Perak, lebih diutamakan daripada saingannya Sultan Ismail, yang menolak hadir dan memegang regalia kerajaan. Perjanjian itu menyelesaikan sengketa Larut dengan mengangkat seorang Kapitan Tionghoa dan mengganti nama distrik yang porak-poranda akibat perang itu menjadi Taiping — "kedamaian abadi."
+Pada 20 Januari 1874, di atas kapal uap kolonial *Pluto* yang berlabuh di lepas Pulau Pangkor, Gubernur [Negeri-Negeri Selat](/id/malaysia/straits-settlements), Sir Andrew Clarke, mempertemukan para pihak dalam apa yang kemudian menjadi Perjanjian Pangkor (atau Traktat Pangkor). Kesepakatan itu mengakui Raja Abdullah sebagai Sultan Perak, lebih diutamakan daripada saingannya Sultan Ismail, yang menolak hadir dan memegang regalia kerajaan. Perjanjian itu menyelesaikan sengketa Larut dengan mengangkat seorang Kapitan Tionghoa dan mengganti nama distrik yang porak-poranda akibat perang itu menjadi Taiping — "kedamaian abadi."
 
 Klausulnya yang paling berdampak justru lebih senyap. Seorang Residen Inggris akan ditempatkan di istana Perak, dan sang sultan berjanji bahwa nasihat Residen "harus diminta dan dilaksanakan dalam segala persoalan selain yang menyentuh agama dan adat Melayu." Dalam satu kalimat, Perak telah menyerahkan sebagian besar kedaulatannya. Model Pangkor — pemerintahan tidak langsung melalui seorang Residen yang "menasihati" tetapi secara efektif memerintah — kelak diekspor ke seluruh semenanjung dan menjadi cetak biru bagi penguasaan Inggris atas negeri-negeri Melayu.
 

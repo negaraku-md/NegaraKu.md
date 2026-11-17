@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -80,7 +80,7 @@ MSN 是负责管理马来西亚体育活动的政府机构与法定机构。它�
 
 ## 它是何时、如何成立的？
 
-MSN 根据《**1971年马来西亚国家体育理事会法令**》设立，该法令后于 **1979年修订**。理事会于 **1972年2月21日正式成立**，由马来西亚第二任首相**敦阿都拉萨·胡先（Tun Abdul Razak Hussein）**主持成立。
+MSN 根据《**1971年马来西亚国家体育理事会法令**》设立，该法令后于 **1979年修订**。理事会于 **1972年2月21日正式成立**，由马来西亚第二任首相**敦[阿都拉萨·胡先](/zh/malaysia/abdul-razak-hussein)（Tun Abdul Razak Hussein）**主持成立。
 
 其后，它于 **1981年进行重组**，此后大幅扩展了各项计划与活动——以配合国家体育政策全力推动体育的鼓励、发展与精英层面成就的目标。
 

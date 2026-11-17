@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "8cf542d7e4bd7380"
+sourceContentHash: "59a7c365df5fee57"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -111,7 +111,7 @@ It is worth being precise here: in 2009, UNESCO inscribed Indonesian batik on it
 
 ## From the kampung to the world stage
 
-Batik did not stay frozen as a village craft. In 2003, the "Malaysian Batik — Crafted for the World" movement championed by Datin Seri Endon Mahmood, wife of then-prime minister Abdullah Ahmad Badawi, set out to lift batik from ceremonial cloth to contemporary design able to compete internationally. At its heart was the Piala Seri Endon, an annual batik design competition organised by Yayasan Budi Penyayang Malaysia: beginning with a single fashion category in 2003, it grew to add soft furnishings in 2004 and handicraft in 2005, drawing younger designers to see batik as a design medium rather than only an inherited heritage.
+Batik did not stay frozen as a village craft. In 2003, the "Malaysian Batik — Crafted for the World" movement championed by Datin Seri Endon Mahmood, wife of then-prime minister [Abdullah Ahmad Badawi](/en/malaysia/abdullah-ahmad-badawi), set out to lift batik from ceremonial cloth to contemporary design able to compete internationally. At its heart was the Piala Seri Endon, an annual batik design competition organised by Yayasan Budi Penyayang Malaysia: beginning with a single fashion category in 2003, it grew to add soft furnishings in 2004 and handicraft in 2005, drawing younger designers to see batik as a design medium rather than only an inherited heritage.
 
 The effect ran both ways. On one hand, batik now appears in fashion collections, furnishings and goods designed for the modern market, no longer confined to the sarong and the formal shirt. On the other, the hand-drawing workshops of Kelantan and Terengganu still face pressure from cheap printed cloth that imitates the look of batik at a far lower cost — the same tension that makes buyer education and the design competition matter for keeping the wax skill alive.
 

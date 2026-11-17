@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -80,7 +80,7 @@ Ibu pejabatnya ialah **Kompleks Sukan Negara, Bukit Jalil**, 57000 Sri Petaling,
 
 ## Bila dan bagaimana ia ditubuhkan?
 
-MSN ditubuhkan di bawah **Akta Majlis Sukan Negara Malaysia 1971**, yang kemudiannya **dipinda pada 1979**. Majlis ini **dilancarkan secara rasmi pada 21 Februari 1972** oleh Perdana Menteri kedua Malaysia, **Tun Abdul Razak Hussein**.
+MSN ditubuhkan di bawah **Akta Majlis Sukan Negara Malaysia 1971**, yang kemudiannya **dipinda pada 1979**. Majlis ini **dilancarkan secara rasmi pada 21 Februari 1972** oleh Perdana Menteri kedua Malaysia, **Tun [Abdul Razak Hussein](/ms/malaysia/abdul-razak-hussein)**.
 
 Ia kemudian **distruktur semula pada 1981**, dan selepas itu program serta aktivitinya berkembang dengan ketara — selaras dengan matlamat Dasar Sukan Negara untuk memacu sepenuhnya galakan, pembangunan dan pencapaian sukan di peringkat elit.
 

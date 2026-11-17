@@ -64,7 +64,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Few places in Malaysia carry their past as openly as Kedah. Long before minarets rose over Alor Setar, the rice-green plain between the Merbok and Muda rivers was a landfall for traders riding the monsoon winds between India, China and the Malay world. Sailors and scholars knew this coast as Kadaram or Kataha; archaeologists know it today by the temple mounds of the Bujang Valley. Out of that cosmopolitan, Hindu-Buddhist beginning grew a Malay monarchy that would weather Srivijaya and Chola, Ayutthaya and Bangkok, and finally the British Empire.
+Few places in Malaysia carry their past as openly as Kedah. Long before minarets rose over Alor Setar, the rice-green plain between the Merbok and Muda rivers was a landfall for traders riding the monsoon winds between India, China and the Malay world. Sailors and scholars knew this coast as Kadaram or Kataha; archaeologists know it today by the temple mounds of the Bujang Valley. Out of that cosmopolitan, Hindu-Buddhist beginning grew a Malay monarchy that would weather [Srivijaya](/malaysia/srivijaya) and Chola, Ayutthaya and Bangkok, and finally the British Empire.
 
 What makes Kedah remarkable is not only its age but its continuity. The royal House of Mahawangsa still reigns, a living thread that runs from legend through to a constitutional monarchy inside modern Malaysia. This is the story of that line, told as the sources allow and careful where they disagree.
 

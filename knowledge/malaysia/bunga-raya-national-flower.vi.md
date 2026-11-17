@@ -28,7 +28,7 @@ faq:
     a: "Nó đã được biết đến khắp cả nước, có màu sắc và hình dáng hấp dẫn, có tên gọi đồng nhất, dễ tìm, và chưa trở thành quốc hoa của bất kỳ quốc gia nào khác vào thời điểm đó."
 
 lang: "vi"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Còn màu đỏ tượng trưng cho lòng dũng cảm trong việc đương đ�
 
 ## Bông dâm bụt được sử dụng ở đâu ngày nay?
 
-Là một trong các biểu tượng quốc gia, bông dâm bụt đứng cùng [Jalur Gemilang](/malaysia/jalur-gemilang) (lá cờ) và Jata Negara (quốc huy) như bộ mặt chính thức của Malaysia, và hình ảnh của nó thường xuất hiện trong các sự kiện và lễ kỷ niệm quốc gia.
+Là một trong các biểu tượng quốc gia, bông dâm bụt đứng cùng [Jalur Gemilang](/malaysia/jalur-gemilang) (lá cờ) và [Jata Negara](/vi/malaysia/coat-of-arms) (quốc huy) như bộ mặt chính thức của Malaysia, và hình ảnh của nó thường xuất hiện trong các sự kiện và lễ kỷ niệm quốc gia.
 
 ## Tiếp theo
 

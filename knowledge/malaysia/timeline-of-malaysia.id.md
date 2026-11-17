@@ -35,7 +35,7 @@ verificationNeeded:
   - "Setiap momen penting tertaut ke artikel lengkap dan bersumber jika ada; halaman tersebut membawa kutipan sumber. Kronologi politik modern (perdana menteri, pemilihan umum, isu 1MDB, 'Langkah Sheraton' 2020) adalah catatan publik yang faktual, diambil dari Departemen Perdana Menteri dan Komisi Pemilihan Umum, dan disajikan secara netral. Entri yang menyentuh tema 3R (bangsa / agama / raja) atau sensitif — peristiwa 13 Mei 1969, Operasi Lalang, krisis kehakiman 1988 — memerlukan peninjauan manusia sebelum penerbitan."
 
 lang: "id"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -193,7 +193,7 @@ pemecatan wakilnya Anwar Ibrahim, dan gerakan jalanan Reformasi.
 - **1987** — [Operasi Lalang](/id/malaysia/ops-lalang-1987) — penahanan massal di bawah Internal Security Act.
 - **1991** — [Wawasan 2020](/id/malaysia/wawasan-2020) — sasaran Malaysia menjadi negara maju sepenuhnya menjelang 2020.
 - **1997–98** — [Krisis keuangan Asia dan Reformasi](/id/malaysia/1998-reformasi) — kontrol modal, pemecatan [Anwar Ibrahim](/id/malaysia/anwar-ibrahim), dan gerakan reformasi.
-- **31 Oktober 2003** — Mahathir mundur setelah 22 tahun; Abdullah Ahmad Badawi menjadi Perdana Menteri kelima.
+- **31 Oktober 2003** — Mahathir mundur setelah 22 tahun; [Abdullah Ahmad Badawi](/id/malaysia/abdullah-ahmad-badawi) menjadi Perdana Menteri kelima.
 
 ## Reformasi hingga pemerintah persatuan
 

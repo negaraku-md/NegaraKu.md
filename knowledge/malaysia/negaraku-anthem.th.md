@@ -33,7 +33,7 @@ faq:
     a: "มาตรา 8(1) ของ Akta 808 กำหนดให้ทุกคนที่อยู่ในที่นั้นต้องยืนตรง มาตรา 8(3) บัญญัติว่าผู้ใดที่จงใจแสดงการไม่แสดงความเคารพต่อเพลงชาติในที่สาธารณะ เมื่อถูกตัดสินว่าผิด อาจถูกปรับไม่เกิน RM100 หรือจำคุกเป็นเวลาไม่เกินหนึ่งเดือน"
 
 lang: "th"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ framework: history-culture
 | เหตุผลที่เพลงเประถูกเลือก | "มีองค์ประกอบความเป็นมลายู" |
 | การแสดงต่อสาธารณะครั้งแรก | คืนวันที่ 31 สิงหาคม 1957 padang สลังงอร์คลับ |
 
-สมาชิกคณะกรรมการที่หอจดหมายเหตุแห่งชาติบันทึกได้แก่ Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein และ W. Crops
+สมาชิกคณะกรรมการที่หอจดหมายเหตุแห่งชาติบันทึกได้แก่ Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/th/malaysia/abdul-razak-hussein) และ W. Crops
 
 พอร์ทัลทางการของรัฐบาลมาเลเซียเพิ่มว่ามีการจัดการประกวดเพลงในปี 1957 แต่ไม่ได้ผลตัวเลือกที่เหมาะสม จึงตนกู อับดุล ราห์มาน เสนอเพลงประจำรัฐเประเป็นพื้นฐาน พอร์ทัลนั้นยังบันทึกว่าโน้ตดนตรีจัดทำโดย Alfonso Soliano, D.S.P Croff, Captain Lenthall และ A.T Reed ในขณะที่เนื้อร้องร่างโดยคณะกรรมการพิเศษที่มีตนกู อับดุล ราห์มาน เป็นประธานด้วยความเห็นชอบของบรรดาพระราชาธิบดีมลายู
 

@@ -125,7 +125,7 @@ Merdeka chant, remains the founding image of the nation (Malayan Declaration of
 Independence). His early government pursued economic development, rural
 improvement and a careful balance of ethnic interests, while keeping Malaya
 firmly in the Western, anti-communist camp during the closing years of the
-Malayan Emergency.
+[Malayan Emergency](/malaysia/the-emergency).
 
 ## The formation of Malaysia (1963) and Singapore's separation (1965)
 

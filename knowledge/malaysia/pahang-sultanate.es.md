@@ -21,7 +21,7 @@ appliesTo: "Lectores que rastrean cómo se formaron las casas reales malayas de 
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "13c4da63ac434796"
+sourceContentHash: "ed321bc406e7501b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -91,7 +91,7 @@ Pahang cayó bajo la autoridad de estos Bendaharas. A medida que el imperio de J
 
 La muerte de Tun Ali enfrentó a un hermano contra otro. Su testamento, según se dice, asignaba los ingresos de Kuantan y Endau a su hijo menor, Wan Ahmad, pero el hijo mayor, Tun Mutahir —que sucedió como Bendahara—, no honró esa disposición, alegando después ignorarla. Wan Ahmad, que sostenía tener la pretensión más fuerte porque su madre era la esposa principal de Tun Ali, se negó a aceptar el gobierno de su hermano.
 
-El resultado fue la **Guerra Civil de Pahang**, librada aproximadamente entre 1857 y 1863. No fue solo una disputa local: el conflicto arrastró a las potencias vecinas de un mundo malayo que se resquebrajaba. Wan Ahmad obtuvo apoyo del sultanato de Terengganu al norte y de Siam, mientras que el Temenggung de Johor fue arrastrado a la rivalidad del otro lado. Tras años de campañas, Wan Ahmad prevaleció. Tun Mutahir se retiró y, en 1863, huyó hacia Johor, donde murió. Wan Ahmad se convirtió en Raja Bendahara de Pahang ese mismo año.
+El resultado fue la **Guerra Civil de Pahang**, librada aproximadamente entre 1857 y 1863. No fue solo una disputa local: el conflicto arrastró a las potencias vecinas de un mundo malayo que se resquebrajaba. Wan Ahmad obtuvo apoyo del [sultanato de Terengganu](/es/malaysia/terengganu-sultanate) al norte y de Siam, mientras que el Temenggung de Johor fue arrastrado a la rivalidad del otro lado. Tras años de campañas, Wan Ahmad prevaleció. Tun Mutahir se retiró y, en 1863, huyó hacia Johor, donde murió. Wan Ahmad se convirtió en Raja Bendahara de Pahang ese mismo año.
 
 ## Un sultanato revivido: el Sultán Ahmad al-Muadzam Shah
 
@@ -107,7 +107,7 @@ Unos años después, Pahang fue agrupado en una estructura colonial mayor. El Su
 
 ## La casa actual, y un rey para Malasia
 
-La dinastía Bendahara fundada por el Sultán Ahmad ha reinado sin ruptura dinástica hasta el presente. Tras la Segunda Guerra Mundial, Pahang atravesó la Unión Malaya y la Federación de Malaya hasta la independencia en 1957, y su sultán se convirtió en una de [las nueve casas reales](/es/malaysia/nine-royal-houses) cuyos gobernantes eligen al monarca nacional.
+La dinastía Bendahara fundada por el Sultán Ahmad ha reinado sin ruptura dinástica hasta el presente. Tras la Segunda Guerra Mundial, Pahang atravesó la [Unión Malaya](/es/malaysia/malayan-union) y la Federación de Malaya hasta la independencia en 1957, y su sultán se convirtió en una de [las nueve casas reales](/es/malaysia/nine-royal-houses) cuyos gobernantes eligen al monarca nacional.
 
 Esa conexión se hizo vívida en 2019. El 15 de enero de 2019, Tengku Abdullah fue proclamado Sultán de [Pahang](/es/states/pahang) tras la abdicación de su padre, el Sultán Ahmad Shah. Poco más de una semana después, el 24 de enero de 2019, la Conferencia de Gobernantes lo eligió **16.º Yang di-Pertuan Agong** —el rey de Malasia—, con su reinado comenzando el 31 de enero, como informaron Malaysiakini y otros medios en su momento. Reinó como monarca federal hasta enero de 2024. Un trono revivido en una ribera provincial en 1881 había producido, en unas pocas generaciones, un jefe de Estado para toda la nación.
 

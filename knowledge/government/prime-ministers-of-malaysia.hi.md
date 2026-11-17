@@ -31,7 +31,7 @@ verificationNeeded:
   - "Tenure dates should be confirmed against the Prime Minister's Office and the Perdana Leadership Foundation. Ismail Sabri Yaakob remained caretaker Prime Minister after Parliament's dissolution (10 Oct 2022) until Anwar Ibrahim was sworn in on 24 November 2022 — the end date reflects the transfer of office. As a draft, this needs a human reviewer before publication."
 
 lang: "hi"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,11 +83,11 @@ framework: data-reference
 
 | # | प्रधानमंत्री | कार्यकाल | दल / गठबंधन |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 अगस्त 1957 – 22 सितंबर 1970 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 22 सितंबर 1970 – 14 जनवरी 1976 | UMNO · Barisan Nasional की स्थापना (1973) |
-| 3 | Hussein Onn | 15 जनवरी 1976 – 16 जुलाई 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 अगस्त 1957 – 22 सितंबर 1970 | UMNO · [Alliance](/hi/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/hi/malaysia/abdul-razak-hussein) | 22 सितंबर 1970 – 14 जनवरी 1976 | UMNO · Barisan Nasional की स्थापना (1973) |
+| 3 | [Hussein Onn](/hi/malaysia/hussein-onn) | 15 जनवरी 1976 – 16 जुलाई 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(पहला कार्यकाल)* | 16 जुलाई 1981 – 31 अक्टूबर 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 अक्टूबर 2003 – 3 अप्रैल 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/hi/malaysia/abdullah-ahmad-badawi) | 31 अक्टूबर 2003 – 3 अप्रैल 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 अप्रैल 2009 – 9 मई 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(दूसरा कार्यकाल)* | 10 मई 2018 – 1 मार्च 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 मार्च 2020 – 16 अगस्त 2021 | Perikatan Nasional |

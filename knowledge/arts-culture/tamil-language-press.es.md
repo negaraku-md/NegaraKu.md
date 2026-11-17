@@ -31,7 +31,7 @@ faq:
     a: "Refleja la misma tendencia mundial de la prensa impresa: los lectores, sobre todo los jóvenes, acceden a las noticias a través de internet, las aplicaciones móviles y las redes sociales. La caída de los ingresos publicitarios y los costes de impresión han empujado a muchas cabeceras a dar prioridad a las ediciones digitales."
 
 lang: "es"
-sourceContentHash: "b7243674f3b8cc52"
+sourceContentHash: "32a4a04add201056"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -83,7 +83,7 @@ La prensa en lengua tamil de Malasia tiene una historia de más de un siglo. Est
 
 ## Historia: el periodismo tamil en la Malaya colonial
 
-Las raíces de la prensa tamil se encuentran en la Malaya colonial británica, en particular en los **Asentamientos del Estrecho (Straits Settlements)**. Según los investigadores, **Penang** fue la cuna de muchas publicaciones tamiles en la época colonial; desde finales del siglo XIX hasta principios del XX, allí florecieron los esfuerzos literarios y periodísticos tamiles.
+Las raíces de la prensa tamil se encuentran en la Malaya colonial británica, en particular en los **[Asentamientos del Estrecho (Straits Settlements)](/es/malaysia/straits-settlements)**. Según los investigadores, **Penang** fue la cuna de muchas publicaciones tamiles en la época colonial; desde finales del siglo XIX hasta principios del XX, allí florecieron los esfuerzos literarios y periodísticos tamiles.
 
 Como prolongación de ese crecimiento, **Tamil Nesan (Amigo tamil)** apareció con su primer número el 24 de septiembre de 1924. Llevó a la comunidad tamil una cobertura amplia —política, religión, noticias nacionales e internacionales, educación y cine tamil— y, hasta su cierre, se le consideró el diario tamil más antiguo del país.
 

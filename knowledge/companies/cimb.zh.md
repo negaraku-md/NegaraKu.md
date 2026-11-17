@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ framework: profile
 
 CIMB 的名称来自 Commerce International Merchant Bankers，即现代集团核心的那家投资银行，但其银行渊源要深远得多——可追溯至1924年创立于砂拉越古晋的 Bian Chiang Bank，经数十年整合后成为今日 CIMB 的一部分。
 
-决定性的篇章出现在2000年代中期。2005年6月，CIMB 宣布收购 Bumiputra-Commerce 集团；控股公司 Commerce-Asset Holdings 更名为 Bumiputra-Commerce Holdings，计划是将其消费银行与投资银行并入单一综合银行（CIMB 公司史）。2006年1月，新的联昌国际集团组建，将投资银行、消费银行、资产管理与伊斯兰服务汇于一处。同年该集团收购了 Southern Bank，并于2006年9月由首相 Abdullah Ahmad Badawi 正式推介该集团——完成了 Commerce International Merchant Bankers、Bumiputra-Commerce Bank 与 Southern Bank 的三方合并，并推出新标志与「Forward Banking」口号。
+决定性的篇章出现在2000年代中期。2005年6月，CIMB 宣布收购 Bumiputra-Commerce 集团；控股公司 Commerce-Asset Holdings 更名为 Bumiputra-Commerce Holdings，计划是将其消费银行与投资银行并入单一综合银行（CIMB 公司史）。2006年1月，新的联昌国际集团组建，将投资银行、消费银行、资产管理与伊斯兰服务汇于一处。同年该集团收购了 Southern Bank，并于2006年9月由首相 [Abdullah Ahmad Badawi](/zh/malaysia/abdullah-ahmad-badawi) 正式推介该集团——完成了 Commerce International Merchant Bankers、Bumiputra-Commerce Bank 与 Southern Bank 的三方合并，并推出新标志与「Forward Banking」口号。
 
 此后该集团迅速跨越国界。印度尼西亚早在2002年收购 PT Bank Niaga 时便已进入；2008年 Bank Niaga 与 Bank Lippo 合并，缔造出当时印尼第六大银行，更名为 CIMB Niaga，此举由国库控股为遵守印度尼西亚银行（Bank Indonesia）的单一存在政策所推动。2008至2009年间，CIMB 透过收购 BankThai（后为 CIMB Thai）进入泰国，并在新加坡开业。短短数年间，一家马来西亚投资银行机构便成为一家泛东盟综合银行。
 

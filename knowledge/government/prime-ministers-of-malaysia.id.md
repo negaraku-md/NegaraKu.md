@@ -31,7 +31,7 @@ verificationNeeded:
   - "Tanggal masa jabatan perlu diverifikasi dengan Jabatan Perdana Menteri dan Yayasan Kepimpinan Perdana. Ismail Sabri Yaakob tetap sebagai Perdana Menteri sementara setelah pembubaran Parlemen (10 Okt 2022) hingga Anwar Ibrahim mengangkat sumpah pada 24 November 2022 — tanggal berakhir mencerminkan peralihan jabatan. Sebagai draf, ini memerlukan peninjau manusia sebelum penerbitan."
 
 lang: "id"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,11 +83,11 @@ sembilan orang**.
 
 | # | Perdana Menteri | Memegang jabatan | Partai / koalisi |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 Agustus 1957 – 22 Sep 1970 | UMNO · Perikatan |
-| 2 | Abdul Razak Hussein | 22 Sep 1970 – 14 Jan 1976 | UMNO · mendirikan Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 Agustus 1957 – 22 Sep 1970 | UMNO · [Perikatan](/id/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein) | 22 Sep 1970 – 14 Jan 1976 | UMNO · mendirikan Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/id/malaysia/hussein-onn) | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(masa jabatan ke-1)* | 16 Jul 1981 – 31 Okt 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 Okt 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/id/malaysia/abdullah-ahmad-badawi) | 31 Okt 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/id/malaysia/najib-razak) | 3 Apr 2009 – 9 Mei 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(masa jabatan ke-2)* | 10 Mei 2018 – 1 Maret 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/id/malaysia/muhyiddin-yassin) | 1 Maret 2020 – 16 Agustus 2021 | Perikatan Nasional |

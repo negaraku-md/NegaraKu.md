@@ -31,7 +31,7 @@ verificationNeeded:
   - "ينبغي تأكيد تواريخ الولايات بالرجوع إلى مكتب رئيس الوزراء ومؤسسة Perdana Leadership Foundation. بقي إسماعيل صبري يعقوب (Ismail Sabri Yaakob) رئيس وزراء تصريف أعمال بعد حلّ البرلمان (10 أكتوبر 2022) حتى أدّى أنور إبراهيم اليمين الدستورية في 24 نوفمبر 2022 — ويعكس تاريخ الانتهاء انتقال المنصب. ولكونها مسودة، تحتاج إلى مراجع بشري قبل النشر."
 
 lang: "ar"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,11 +82,11 @@ framework: data-reference
 
 | الرقم | رئيس الوزراء | مدة الولاية | الحزب / الائتلاف |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 أغسطس 1957 – 22 سبتمبر 1970 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 22 سبتمبر 1970 – 14 يناير 1976 | UMNO · أسّس Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 يناير 1976 – 16 يوليو 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 أغسطس 1957 – 22 سبتمبر 1970 | UMNO · [Alliance](/ar/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/ar/malaysia/abdul-razak-hussein) | 22 سبتمبر 1970 – 14 يناير 1976 | UMNO · أسّس Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/ar/malaysia/hussein-onn) | 15 يناير 1976 – 16 يوليو 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(الولاية الأولى)* | 16 يوليو 1981 – 31 أكتوبر 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 أكتوبر 2003 – 3 أبريل 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/ar/malaysia/abdullah-ahmad-badawi) | 31 أكتوبر 2003 – 3 أبريل 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 أبريل 2009 – 9 مايو 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(الولاية الثانية)* | 10 مايو 2018 – 1 مارس 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 مارس 2020 – 16 أغسطس 2021 | Perikatan Nasional |

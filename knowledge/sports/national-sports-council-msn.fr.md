@@ -27,7 +27,7 @@ faq:
   - q: "Où se trouve le siège du MSN ?"
     a: "Au Complexe sportif national (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Il exploite également des complexes d'entraînement dans plusieurs autres États."
 lang: "fr"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,7 +80,7 @@ Son siège est le **Kompleks Sukan Negara (Complexe sportif national) à Bukit J
 
 ## Quand et comment a-t-il été créé ?
 
-Le MSN a été créé en vertu de la **National Sports Council of Malaysia Act 1971**, qui fut ensuite **amendée en 1979**. Le Conseil a été **officiellement inauguré le 21 février 1972** par le deuxième Premier ministre de la Malaisie, **Tun Abdul Razak Hussein**.
+Le MSN a été créé en vertu de la **National Sports Council of Malaysia Act 1971**, qui fut ensuite **amendée en 1979**. Le Conseil a été **officiellement inauguré le 21 février 1972** par le deuxième Premier ministre de la Malaisie, **Tun [Abdul Razak Hussein](/fr/malaysia/abdul-razak-hussein)**.
 
 Il a ensuite été **restructuré en 1981**, après quoi il a considérablement étendu ses programmes et activités — conformément à l'objectif de la Politique nationale du sport de stimuler pleinement l'encouragement, le développement et la réussite d'élite du sport.
 

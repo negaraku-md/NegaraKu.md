@@ -33,7 +33,7 @@ faq:
     a: "Hãy lật tấm vải lại. Batik chống-sáp đích thực — dù là canting vẽ tay hay blok in khối — được nhuộm bằng cách ngâm vải, nên họa tiết và màu thấm xuyên qua cả hai mặt và hiện ra gần như rõ nét ở mặt sau. Vải in lụa hoặc in kỹ thuật số chỉ mang họa tiết trên một mặt và trông nhạt màu ở mặt trái. Các đường nét cũng là một dấu hiệu: canting để lại những đường không đều không bao giờ lặp lại hoàn hảo, blok cho họa tiết lặp lại gọn gàng với những đường nối mờ, còn in máy lặp lại chính xác mà không để lại dấu vết nào của sáp."
 
 lang: "vi"
-sourceContentHash: "8cf542d7e4bd7380"
+sourceContentHash: "59a7c365df5fee57"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -111,7 +111,7 @@ Cần phải chính xác ở đây: vào năm 2009, UNESCO đưa batik Indonesia
 
 ## Từ kampung đến sân khấu thế giới
 
-Batik không đứng yên như một nghề thủ công làng quê. Vào năm 2003, phong trào "Batik Malaysia — Chế tác cho Thế giới" (Malaysian Batik — Crafted for the World) do Datin Seri Endon Mahmood, phu nhân của thủ tướng khi đó Abdullah Ahmad Badawi, khởi xướng, đã đặt mục tiêu nâng batik từ vải nghi lễ lên thiết kế đương đại có khả năng cạnh tranh quốc tế. Trung tâm của nó là Piala Seri Endon, một cuộc thi thiết kế batik thường niên do Yayasan Budi Penyayang Malaysia tổ chức: khởi đầu với một hạng mục thời trang duy nhất vào năm 2003, nó mở rộng thêm hạng mục đồ nội thất mềm vào năm 2004 và thủ công mỹ nghệ vào năm 2005, thu hút các nhà thiết kế trẻ xem batik như một phương tiện thiết kế chứ không chỉ là di sản được thừa kế.
+Batik không đứng yên như một nghề thủ công làng quê. Vào năm 2003, phong trào "Batik Malaysia — Chế tác cho Thế giới" (Malaysian Batik — Crafted for the World) do Datin Seri Endon Mahmood, phu nhân của thủ tướng khi đó [Abdullah Ahmad Badawi](/vi/malaysia/abdullah-ahmad-badawi), khởi xướng, đã đặt mục tiêu nâng batik từ vải nghi lễ lên thiết kế đương đại có khả năng cạnh tranh quốc tế. Trung tâm của nó là Piala Seri Endon, một cuộc thi thiết kế batik thường niên do Yayasan Budi Penyayang Malaysia tổ chức: khởi đầu với một hạng mục thời trang duy nhất vào năm 2003, nó mở rộng thêm hạng mục đồ nội thất mềm vào năm 2004 và thủ công mỹ nghệ vào năm 2005, thu hút các nhà thiết kế trẻ xem batik như một phương tiện thiết kế chứ không chỉ là di sản được thừa kế.
 
 Tác động diễn ra theo cả hai chiều. Một mặt, batik nay xuất hiện trong các bộ sưu tập thời trang, đồ nội thất và hàng hóa được thiết kế cho thị trường hiện đại, không còn bó hẹp ở chiếc sarong và chiếc áo trang trọng. Mặt khác, các xưởng vẽ tay ở Kelantan và Terengganu vẫn chịu sức ép từ vải in rẻ tiền bắt chước vẻ ngoài của batik với chi phí thấp hơn nhiều — chính sự căng thẳng đó khiến việc giáo dục người mua và cuộc thi thiết kế trở nên quan trọng để giữ cho kỹ năng làm sáp tồn tại.
 

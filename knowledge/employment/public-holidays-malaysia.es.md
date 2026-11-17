@@ -38,7 +38,7 @@ verificationNeeded:
   - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
 
 lang: "es"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,7 +173,7 @@ nombra a un Estado o a un Gobernante, el Estado es evidente por sí mismo.
 | Festivo | Fecha 2026 |
 | --- | --- |
 | Año Nuevo | 1 de enero |
-| Cumpleaños del Yang di-Pertuan Besar de Negeri Sembilan | 14 de enero |
+| Cumpleaños del [Yang di-Pertuan Besar de Negeri Sembilan](/es/malaysia/negeri-sembilan-royal-institution) | 14 de enero |
 | Israk y Mikraj | 17 de enero |
 | [Thaipusam](/arts-culture/thaipusam) | 1 de febrero |
 | Día del Territorio Federal | 1 de febrero |

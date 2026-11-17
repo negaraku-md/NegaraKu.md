@@ -133,8 +133,7 @@ framework: explainer
 
 Pada 8 Ogos 1967, lima lelaki berkumpul di dewan utama bangunan Kementerian
 Luar di Bangkok dan menandatangani sehelai dokumen dua muka surat. Salah
-seorang daripadanya, Timbalan Perdana Menteri Malaysia Tun Abdul Razak
-Hussein, sedang meletakkan Malaysia dalam sebuah pertubuhan yang kelak
+seorang daripadanya, Timbalan Perdana Menteri Malaysia [Tun Abdul Razak Hussein](/malaysia/abdul-razak-hussein), sedang meletakkan Malaysia dalam sebuah pertubuhan yang kelak
 menjadi rangka utama dasar luar negara ini selama hampir enam dekad — dan
 yang dipengerusikan Malaysia sendiri pada 2025.
 

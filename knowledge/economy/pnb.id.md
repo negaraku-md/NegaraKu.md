@@ -31,7 +31,7 @@ faq:
 
 
 lang: "id"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | Nama | Permodalan Nasional Berhad (PNB) |
-| Didirikan | 17 Maret 1978, sebagai bagian dari Dasar Ekonomi Baru Malaysia |
+| Didirikan | 17 Maret 1978, sebagai bagian dari [Dasar Ekonomi Baru](/id/malaysia/new-economic-policy) Malaysia |
 | Pendahulu | Yayasan Pelaburan Bumiputra (YPB), didirikan 9 Januari 1978 |
 | Mandat | Untuk meningkatkan kekayaan ekonomi masyarakat Bumiputera dan semua rakyat Malaysia |
 | AUM | RM364 miliar (per akhir 2025, naik 4.5% tahun ke tahun) |

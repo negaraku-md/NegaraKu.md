@@ -31,7 +31,7 @@ verificationNeeded:
   - "Les dates de mandat devraient être confirmées par rapport au Cabinet du Premier ministre et à la Perdana Leadership Foundation. Ismail Sabri Yaakob est resté Premier ministre par intérim après la dissolution du Parlement (10 oct. 2022) jusqu'à la prestation de serment d'Anwar Ibrahim le 24 novembre 2022 — la date de fin reflète le transfert de la fonction. En tant que brouillon, cela nécessite un relecteur humain avant publication."
 
 lang: "fr"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,11 +82,11 @@ fonction est passée par **dix mandats exercés par neuf personnes**.
 
 | # | Premier ministre | En fonction | Parti / coalition |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 août 1957 – 22 sept. 1970 | UMNO · Alliance (Alliance) |
-| 2 | Abdul Razak Hussein | 22 sept. 1970 – 14 janv. 1976 | UMNO · a fondé Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 janv. 1976 – 16 juil. 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 août 1957 – 22 sept. 1970 | UMNO · [Alliance](/fr/malaysia/the-alliance) (Alliance) |
+| 2 | [Abdul Razak Hussein](/fr/malaysia/abdul-razak-hussein) | 22 sept. 1970 – 14 janv. 1976 | UMNO · a fondé Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/fr/malaysia/hussein-onn) | 15 janv. 1976 – 16 juil. 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(1er mandat)* | 16 juil. 1981 – 31 oct. 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 oct. 2003 – 3 avr. 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/fr/malaysia/abdullah-ahmad-badawi) | 31 oct. 2003 – 3 avr. 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 avr. 2009 – 9 mai 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(2e mandat)* | 10 mai 2018 – 1 mars 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 mars 2020 – 16 août 2021 | Perikatan Nasional |

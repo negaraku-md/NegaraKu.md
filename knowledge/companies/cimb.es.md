@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0246324fbcd38e15"
+sourceContentHash: "d9bcdd21cdf17bf8"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Su mayor accionista es Khazanah Nasional, el fondo soberano de Malasia, cuya par
 
 El nombre de CIMB procede de Commerce International Merchant Bankers, el banco de inversión que está en el núcleo del grupo moderno, pero su linaje bancario llega mucho más atrás — hasta el Bian Chiang Bank, fundado en Kuching, Sarawak, en 1924, que a través de décadas de consolidación pasó a formar parte de lo que hoy es CIMB.
 
-El capítulo decisivo llegó a mediados de la década de 2000. En junio de 2005, CIMB anunció la adquisición del grupo Bumiputra-Commerce; la sociedad de cartera Commerce-Asset Holdings pasó a llamarse Bumiputra-Commerce Holdings, y el plan era integrar sus bancos de consumo y de inversión en un único banco universal (historia corporativa de CIMB). En enero de 2006 se formó el nuevo Grupo CIMB, que combinó banca de inversión, banca de consumo, gestión de activos y servicios islámicos bajo un mismo techo. Ese mismo año el grupo adquirió Southern Bank, y en septiembre de 2006 el primer ministro Abdullah Ahmad Badawi lanzó formalmente el grupo — con lo que completó una fusión a tres bandas de Commerce International Merchant Bankers, Bumiputra-Commerce Bank y Southern Bank, e introdujo un nuevo logotipo y el lema «Forward Banking».
+El capítulo decisivo llegó a mediados de la década de 2000. En junio de 2005, CIMB anunció la adquisición del grupo Bumiputra-Commerce; la sociedad de cartera Commerce-Asset Holdings pasó a llamarse Bumiputra-Commerce Holdings, y el plan era integrar sus bancos de consumo y de inversión en un único banco universal (historia corporativa de CIMB). En enero de 2006 se formó el nuevo Grupo CIMB, que combinó banca de inversión, banca de consumo, gestión de activos y servicios islámicos bajo un mismo techo. Ese mismo año el grupo adquirió Southern Bank, y en septiembre de 2006 el primer ministro [Abdullah Ahmad Badawi](/es/malaysia/abdullah-ahmad-badawi) lanzó formalmente el grupo — con lo que completó una fusión a tres bandas de Commerce International Merchant Bankers, Bumiputra-Commerce Bank y Southern Bank, e introdujo un nuevo logotipo y el lema «Forward Banking».
 
 El grupo se movió entonces con rapidez más allá de las fronteras. Indonesia ya había llegado a través de la adquisición en 2002 de PT Bank Niaga; en 2008, Bank Niaga se fusionó con Bank Lippo para crear lo que entonces era el sexto mayor banco del país, con la nueva marca CIMB Niaga, un movimiento impulsado por Khazanah para cumplir la política de presencia única de Bank Indonesia. En 2008-2009, CIMB entró en Tailandia al adquirir BankThai (más tarde CIMB Thai) y abrió en Singapur. En unos pocos años, una casa de banca de inversión malasia se había convertido en un banco universal panasiático de la ASEAN.
 

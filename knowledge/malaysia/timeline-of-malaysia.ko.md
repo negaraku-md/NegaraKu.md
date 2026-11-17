@@ -35,7 +35,7 @@ verificationNeeded:
   - "각 주요 계기는 해당하는 경우 전체 기사와 출처가 있는 항목으로 연결되며, 그 페이지들은 출처 인용을 담고 있습니다. 현대 정치 연대기(총리, 총선, 1MDB 사안, 2020년 「셰라톤 무브(Langkah Sheraton)」)는 총리실과 선거관리위원회에서 취한 사실적 공적 기록이며 중립적으로 제시되었습니다. 3R 주제(인종/종교/왕실)나 민감한 주제를 다루는 항목 — 1969년 5월 13일 사건, 랄랑 작전(Operasi Lalang), 1988년 사법부 위기 — 는 발행 전 사람 검토가 필요합니다."
 
 lang: "ko"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -192,7 +192,7 @@ Mohamad)이 22년간 통치하였는데, 이는 어느 총리에게도 가장 �
 - **1987년** — [오페라시 랄랑](/malaysia/ops-lalang-1987) — 국내보안법(Akta Keselamatan Dalam Negeri)에 따른 대규모 구금.
 - **1991년** — [와와산 2020](/malaysia/wawasan-2020) — 2020년까지 말레이시아가 완전한 선진국이 된다는 목표.
 - **1997-98년** — [아시아 금융위기와 개혁운동](/malaysia/1998-reformasi) — 자본 통제, [안와르 이브라힘](/malaysia/anwar-ibrahim)의 해임, 그리고 개혁 운동.
-- **2003년 10월 31일** — 마하티르가 22년 후 물러나고, 압둘라 아맛 바다위(Abdullah Ahmad Badawi)가 제5대 총리가 되다.
+- **2003년 10월 31일** — 마하티르가 22년 후 물러나고, [압둘라 아맛 바다위](/ko/malaysia/abdullah-ahmad-badawi)(Abdullah Ahmad Badawi)가 제5대 총리가 되다.
 
 ## 개혁운동에서 통합 정부까지
 

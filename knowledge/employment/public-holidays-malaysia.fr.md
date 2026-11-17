@@ -38,7 +38,7 @@ verificationNeeded:
   - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
 
 lang: "fr"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -174,7 +174,7 @@ férié nomme un État ou un Souverain, l'État va de soi.
 | Jour férié | Date 2026 |
 | --- | --- |
 | Jour de l'An | 1er janvier |
-| Anniversaire du Yang di-Pertuan Besar de Negeri Sembilan | 14 janvier |
+| Anniversaire du [Yang di-Pertuan Besar de Negeri Sembilan](/fr/malaysia/negeri-sembilan-royal-institution) | 14 janvier |
 | Israk et Mikraj | 17 janvier |
 | [Thaipusam](/arts-culture/thaipusam) | 1er février |
 | Fête du Territoire fédéral | 1er février |

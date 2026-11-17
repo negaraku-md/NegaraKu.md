@@ -28,7 +28,7 @@ faq:
     a: "그것은 이미 전국적으로 알려져 있었고, 빛깔과 형태가 매력적이며, 이름이 통일되어 있고, 쉽게 구할 수 있었으며, 당시 다른 어느 나라의 국화도 아니었기 때문입니다."
 
 lang: "ko"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ framework: history-culture
 
 ## 오늘날 붕아 라야는 어디에 쓰이는가?
 
-국가 상징의 하나로서 붕아 라야는 [잘루르 그밀랑](/malaysia/jalur-gemilang)(국기), 자타 느가라(Jata Negara, 국장)와 더불어 말레이시아의 공식적 얼굴을 이루며, 그 이미지는 각종 행사와 국가 기념식에 자주 등장합니다.
+국가 상징의 하나로서 붕아 라야는 [잘루르 그밀랑](/malaysia/jalur-gemilang)(국기), [자타 느가라](/ko/malaysia/coat-of-arms)(Jata Negara, 국장)와 더불어 말레이시아의 공식적 얼굴을 이루며, 그 이미지는 각종 행사와 국가 기념식에 자주 등장합니다.
 
 ## 다음으로 읽을 거리
 

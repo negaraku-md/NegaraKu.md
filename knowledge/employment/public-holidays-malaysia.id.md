@@ -38,7 +38,7 @@ verificationNeeded:
   - "Verifikasi tanggal yang ditandai sebagai tertakluk pada perubahan dalam jadwal Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan, dan hari kedua Hari Raya Qurban semuanya ditandai"
 
 lang: "id"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -181,7 +181,7 @@ menyebut suatu negara bagian atau Raja, negara bagiannya sudah jelas dengan send
 | Hari Libur | Tanggal 2026 |
 | --- | --- |
 | Hari Tahun Baru | 1 Januari |
-| Hari Keputeraan Yang di-Pertuan Besar Negeri Sembilan | 14 Januari |
+| Hari Keputeraan [Yang di-Pertuan Besar Negeri Sembilan](/id/malaysia/negeri-sembilan-royal-institution) | 14 Januari |
 | Israk dan Mikraj | 17 Januari |
 | [Thaipusam](/id/arts-culture/thaipusam) | 1 Februari |
 | Hari Wilayah Persekutuan | 1 Februari |

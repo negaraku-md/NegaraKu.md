@@ -34,7 +34,7 @@ faq:
     a: "이상(통합과 공정한 사회 같은 다섯 국가 목표)은 이루고자 하는 목표이고, 다섯 원칙은 그 이상을 이루기 위한 삶의 토대이자 지침입니다. 둘이 함께 루쿤 느가라 전문을 이룹니다."
 
 lang: "ko"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ framework: explainer
 
 그 사건 이후 의원 내각제가 정지되고, 평화를 회복하기 위해 비상 행정
 기구인 **국가행동회의(Majlis Gerakan Negara, MAGERAN)**가 설립되었습니다.
-MAGERAN은 당시 부총리였던 **툰 압둘 라작 후세인(Tun Abdul Razak Hussein)**이
+MAGERAN은 당시 부총리였던 **[툰 압둘 라작 후세인(Tun Abdul Razak Hussein)](/ko/malaysia/abdul-razak-hussein)**이
 의장을 맡았습니다.
 
 MAGERAN 아래에서 툰 압둘 라작은 통합을 회복하기 위해 세 기구를

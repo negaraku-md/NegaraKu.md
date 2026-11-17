@@ -28,7 +28,7 @@ faq:
     a: "Ya era reconocido en todo el país, tenía un color y una forma atractivos, un nombre uniforme, estaba fácilmente disponible y no era todavía la flor nacional de ningún otro país en aquel momento."
 
 lang: "es"
-sourceContentHash: "a06373b8a03d8ae0"
+sourceContentHash: "a414dd0c6fc76423"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ El color rojo, a su vez, simboliza el coraje para afrontar todos los desafíos, 
 
 ## ¿Dónde se usa el hibisco hoy?
 
-Como uno de los símbolos nacionales, el hibisco figura junto a la [Jalur Gemilang](/es/malaysia/jalur-gemilang) (la bandera) y la Jata Negara (el escudo nacional) como el rostro oficial de Malasia, y su imagen aparece a menudo en eventos y celebraciones nacionales.
+Como uno de los símbolos nacionales, el hibisco figura junto a la [Jalur Gemilang](/es/malaysia/jalur-gemilang) (la bandera) y la [Jata Negara](/es/malaysia/coat-of-arms) (el escudo nacional) como el rostro oficial de Malasia, y su imagen aparece a menudo en eventos y celebraciones nacionales.
 
 ## Qué sigue
 

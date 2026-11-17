@@ -27,7 +27,7 @@ faq:
 appliesTo: "Lecteurs, étudiants, journalistes et chercheurs cherchant un aperçu neutre et sourcé du cinquième Premier ministre de la Malaisie et de sa place dans l'histoire malaisienne moderne."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "29490eb7d292565c"
+sourceContentHash: "394dd6cf59253891"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -98,7 +98,7 @@ Les partisans voyaient l'Islam Hadhari comme un contrepoids modéré et modernis
 
 ## Le raz-de-marée de 2004 et le « tsunami politique » de 2008
 
-Porté par son attrait réformiste, Abdullah mena la coalition gouvernante du **Barisan Nasional (BN)** à une victoire écrasante aux **élections générales du 21 mars 2004**, remportant la grande majorité des sièges parlementaires — l'un des plus forts mandats jamais reçus par un gouvernement malaisien.
+Porté par son attrait réformiste, Abdullah mena la coalition gouvernante du [**Barisan Nasional (BN)**](/fr/malaysia/barisan-nasional) à une victoire écrasante aux **élections générales du 21 mars 2004**, remportant la grande majorité des sièges parlementaires — l'un des plus forts mandats jamais reçus par un gouvernement malaisien.
 
 Les **élections générales de 2008** racontèrent l'histoire inverse. Le 8 mars 2008, le BN **perdit sa majorité des deux tiers au Parlement** pour la première fois depuis 1969 et céda le contrôle de plusieurs gouvernements d'État à une opposition en plein essor — un résultat largement décrit dans la presse malaisienne et internationale comme un **« tsunami politique »**. Les analystes attribuent ce revirement à la hausse des prix, au mécontentement face à la corruption et à la gouvernance, aux griefs des minorités ethniques, et à des critiques publiques soutenues, y compris de la part du propre prédécesseur d'Abdullah. Sous la pression, Abdullah annonça qu'il ne défendrait pas la présidence de l'UMNO et fixa un calendrier pour transmettre le pouvoir.
 

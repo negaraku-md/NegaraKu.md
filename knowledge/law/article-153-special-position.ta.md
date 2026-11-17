@@ -24,7 +24,7 @@ appliesTo: "Article 153 என்ன வழங்குகிறது, எத�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "db5076f747cd8ba7"
+sourceContentHash: "91d4996a886b6aaa"
 
 status: "published"
 aiAssisted: true
@@ -142,7 +142,7 @@ Article 153, பொது மற்றும் சட்ட விமர்ச�
 
 மலேசிய அரசாங்கம் இந்த விதியைப் பகிரங்கமாக மீண்டும் உறுதிப்படுத்தியுள்ளது. அடிப்படையிலான உறுதிமிகு நடவடிக்கைக் (affirmative-action) கொள்கை அதன் நோக்கம் கொண்ட பயனாளிகளுக்கு இன்னும் நன்மை பயக்கிறதா என்பதை மறுமதிப்பீடு செய்யுமாறு ஒரு நாடாளுமன்ற உறுப்பினரின் அழைப்புக்குப் பதிலளிக்கும் வகையில், February 2024-இல், பிரதமர் அன்வர் இப்ராஹிம் (Anwar Ibrahim), அரசாங்கம் "will continue upholding the position of the Constitution, including Article 153" — அதாவது, Article 153 உட்பட அரசியலமைப்பின் நிலைப்பாட்டை நிலைநிறுத்துவதைத் தொடரும் — என்று ஒரு பிரதமர் அலுவலக (Prime Minister's Office) அறிக்கையின்படி கூறினார்.
 
-தனியாக, மலேசிய வழக்கறிஞர் மன்றத்தால் (Malaysian Bar) மறுபிரசுரம் செய்யப்பட்ட ஒரு சட்ட விமர்சனத்தில் (முதலில் Raja Aziz Addruse மற்றும் Helen Ting ஆகியோரால் New Sunday Times-இல், 22 June 2008 அன்று வெளியிடப்பட்டது), „சிறப்பு நிலை" குறித்த அரசியலமைப்பு விதிகள் "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — அதாவது, அப்போது சமூக-பொருளாதார ரீதியாகப் பின்தங்கியிருந்த மலாய் சமூகத்திற்கான ஒரு பாதுகாப்பு நடவடிக்கையாக அதிகம் புரிந்துகொள்ளப்பட்டன — என்று ஆசிரியர்கள் எழுதுகிறார்கள், மேலும் "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — அதாவது, Article 153-இன் 12 உட்பிரிவுகளில் ஐந்து அதன் பயன்பாட்டின் வரம்பைக் கட்டுப்படுத்த அமைந்துள்ளன — என்று குறிப்பிடுகிறார்கள். "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — அதாவது, NEP-ஐ ஒழிப்பது Article 153-ஐத் திருத்துவதையோ ரத்து செய்வதையோ அவசியமாகக் கோருகிறது என்று கூற எந்த அடிப்படையும் இல்லை — என்று அவர்கள் முடிக்கிறார்கள் — இது Article 153-இன் அரசியலமைப்பு உரையை, தனி புதிய பொருளாதாரக் கொள்கை (New Economic Policy) கொள்கைச் சட்டகத்திலிருந்து வேறுபடுத்தும் ஒரு நிலைப்பாடாகும்.
+தனியாக, மலேசிய வழக்கறிஞர் மன்றத்தால் (Malaysian Bar) மறுபிரசுரம் செய்யப்பட்ட ஒரு சட்ட விமர்சனத்தில் (முதலில் Raja Aziz Addruse மற்றும் Helen Ting ஆகியோரால் New Sunday Times-இல், 22 June 2008 அன்று வெளியிடப்பட்டது), „சிறப்பு நிலை" குறித்த அரசியலமைப்பு விதிகள் "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — அதாவது, அப்போது சமூக-பொருளாதார ரீதியாகப் பின்தங்கியிருந்த மலாய் சமூகத்திற்கான ஒரு பாதுகாப்பு நடவடிக்கையாக அதிகம் புரிந்துகொள்ளப்பட்டன — என்று ஆசிரியர்கள் எழுதுகிறார்கள், மேலும் "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — அதாவது, Article 153-இன் 12 உட்பிரிவுகளில் ஐந்து அதன் பயன்பாட்டின் வரம்பைக் கட்டுப்படுத்த அமைந்துள்ளன — என்று குறிப்பிடுகிறார்கள். "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — அதாவது, NEP-ஐ ஒழிப்பது Article 153-ஐத் திருத்துவதையோ ரத்து செய்வதையோ அவசியமாகக் கோருகிறது என்று கூற எந்த அடிப்படையும் இல்லை — என்று அவர்கள் முடிக்கிறார்கள் — இது Article 153-இன் அரசியலமைப்பு உரையை, தனி [புதிய பொருளாதாரக் கொள்கை](/ta/malaysia/new-economic-policy) (New Economic Policy) கொள்கைச் சட்டகத்திலிருந்து வேறுபடுத்தும் ஒரு நிலைப்பாடாகும்.
 
 ## அடுத்தது என்ன
 

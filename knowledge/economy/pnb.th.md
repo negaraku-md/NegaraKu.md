@@ -31,7 +31,7 @@ faq:
 
 
 lang: "th"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | ชื่อ | Permodalan Nasional Berhad (PNB) |
-| ก่อตั้ง | 17 มีนาคม 1978 ในฐานะส่วนหนึ่งของนโยบายเศรษฐกิจใหม่ของมาเลเซีย |
+| ก่อตั้ง | 17 มีนาคม 1978 ในฐานะส่วนหนึ่งของ[นโยบายเศรษฐกิจใหม่](/th/malaysia/new-economic-policy)ของมาเลเซีย |
 | องค์กรก่อนหน้า | Yayasan Pelaburan Bumiputra (YPB) ก่อตั้ง 9 มกราคม 1978 |
 | อาณัติ | เพิ่มความมั่งคั่งทางเศรษฐกิจของชุมชนภูมิบุตรและชาวมาเลเซียทั้งหมด |
 | AUM | RM364 พันล้าน (ณ สิ้นปี 2025 เพิ่มขึ้น 4.5% เทียบปีก่อน) |

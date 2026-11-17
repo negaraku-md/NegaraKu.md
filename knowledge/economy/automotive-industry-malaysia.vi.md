@@ -33,7 +33,7 @@ faq:
     a: "Đây là khuôn khổ của chính phủ cho ngành ô tô, gần đây nhất được cập nhật thành NAP 2020. Nó nhắm tới các dòng xe thế hệ mới (NxGV), Mobility-as-a-Service và năng lực Công nghiệp 4.0, và đang trong quá trình rà soát giữa kỳ; MITI đã khởi động cuộc rà soát (lập ra Hội đồng các Nhân vật Ô tô Tiêu biểu, Council of Automotive Eminent Persons, năm 2025) nhưng kết quả chưa được công bố theo mốc cuối năm 2025 và vẫn còn treo trong năm 2026."
 
 lang: "vi"
-sourceContentHash: "ce89b8f0036180e9"
+sourceContentHash: "ea4723a8cd060bef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Lựa chọn ấy, được đưa ra vào đầu thập niên 1980 dưới thờ
 
 Trước Proton, các nhà sản xuất Nhật Bản nắm giữ hơn 70% thị trường xe của Malaysia, lắp ráp các bộ linh kiện tháo rời hoàn toàn (CKD) thông qua các liên doanh. Thị trường nội địa quá nhỏ để bất kỳ hãng nào trong số họ đạt được quy mô kinh tế thực sự, và ngành công nghiệp về cơ bản là thay thế nhập khẩu với một bộ mặt nước ngoài.
 
-Dự án xe quốc gia đã thay đổi các điều kiện đó. Tập đoàn Công nghiệp Nặng Malaysia (Heavy Industry Corporation of Malaysia, HICOM), lập ra năm 1980 để thúc đẩy công nghiệp nặng, trở thành phương tiện thực hiện. Năm 1983, tập đoàn này thành lập Perusahaan Otomobil Nasional (Proton) dưới dạng liên doanh: HICOM nắm 70% còn Mitsubishi Corporation và Mitsubishi Motors giữ 30% còn lại, trên tổng vốn RM150 triệu. Proton không chỉ là một công ty; nó là chính sách công nghiệp, nhằm gieo mầm một cơ sở các nhà sản xuất linh kiện nội địa và mở rộng sự tham gia của người Bumiputera trong ngành sản xuất theo Chính sách Kinh tế Mới (New Economic Policy).
+Dự án xe quốc gia đã thay đổi các điều kiện đó. Tập đoàn Công nghiệp Nặng Malaysia (Heavy Industry Corporation of Malaysia, HICOM), lập ra năm 1980 để thúc đẩy công nghiệp nặng, trở thành phương tiện thực hiện. Năm 1983, tập đoàn này thành lập Perusahaan Otomobil Nasional (Proton) dưới dạng liên doanh: HICOM nắm 70% còn Mitsubishi Corporation và Mitsubishi Motors giữ 30% còn lại, trên tổng vốn RM150 triệu. Proton không chỉ là một công ty; nó là chính sách công nghiệp, nhằm gieo mầm một cơ sở các nhà sản xuất linh kiện nội địa và mở rộng sự tham gia của người Bumiputera trong ngành sản xuất theo [Chính sách Kinh tế Mới](/vi/malaysia/new-economic-policy) (New Economic Policy).
 
 Một thương hiệu quốc gia thứ hai ra đời năm 1993. Perusahaan Otomobil Kedua (Perodua) được thành lập dưới dạng liên doanh xây dựng xoay quanh hãng Daihatsu của Nhật Bản, và từ năm 1994 đã bán một mẫu xe cỡ nhỏ phái sinh từ Daihatsu Mira. Perodua đã chấm dứt thế gần độc quyền của Proton, và theo thời gian, chuyên gia xe cỡ nhỏ này đã vượt qua người anh lớn tuổi hơn để trở thành hãng dẫn đầu thị trường mà nó vẫn giữ đến nay.
 

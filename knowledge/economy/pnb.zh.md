@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1c4aaf1e059aa22b"
+sourceContentHash: "e3b1b939af180abf"
 
 status: "published"
 aiAssisted: true
@@ -105,7 +105,7 @@ framework: profile
 | | |
 | --- | --- |
 | 名称 | Permodalan Nasional Berhad（PNB） |
-| 成立 | 1978年3月17日，作为马来西亚新经济政策（New Economic Policy）的一部分 |
+| 成立 | 1978年3月17日，作为马来西亚[新经济政策](/zh/malaysia/new-economic-policy)（New Economic Policy）的一部分 |
 | 前身 | 土著投资基金会（Yayasan Pelaburan Bumiputra, YPB），成立于1978年1月9日 |
 | 宗旨 | 增进土著（Bumiputera）社群与全体马来西亚人民的经济财富 |
 | AUM | RM364亿（截至2025年底，按年增长4.5%） |

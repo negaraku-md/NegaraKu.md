@@ -21,7 +21,7 @@ appliesTo: "Pelajar, peneliti, pelancong, dan siapa pun yang mencari gambaran be
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ad93d074a6c5192"
+sourceContentHash: "08adb6bfb26200c1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Sedikit tempat di Malaysia yang memikul masa lalunya seterbuka Kedah. Jauh sebelum menara-menara masjid menjulang di atas Alor Setar, dataran hijau padi di antara Sungai Merbok dan Muda menjadi tempat pendaratan para pedagang yang menunggangi angin monsun antara India, Tiongkok, dan dunia Melayu. Para pelaut dan cendekiawan mengenal pesisir ini sebagai Kadaram atau Kataha; para arkeolog kini mengenalnya melalui gundukan-gundukan candi di Lembah Bujang. Dari awal yang kosmopolitan dan bercorak Hindu-Buddha itu tumbuhlah sebuah monarki Melayu yang akan mengarungi Sriwijaya dan Chola, Ayutthaya dan Bangkok, serta akhirnya Kerajaan Inggris.
+Sedikit tempat di Malaysia yang memikul masa lalunya seterbuka Kedah. Jauh sebelum menara-menara masjid menjulang di atas Alor Setar, dataran hijau padi di antara Sungai Merbok dan Muda menjadi tempat pendaratan para pedagang yang menunggangi angin monsun antara India, Tiongkok, dan dunia Melayu. Para pelaut dan cendekiawan mengenal pesisir ini sebagai Kadaram atau Kataha; para arkeolog kini mengenalnya melalui gundukan-gundukan candi di Lembah Bujang. Dari awal yang kosmopolitan dan bercorak Hindu-Buddha itu tumbuhlah sebuah monarki Melayu yang akan mengarungi [Sriwijaya](/id/malaysia/srivijaya) dan Chola, Ayutthaya dan Bangkok, serta akhirnya Kerajaan Inggris.
 
 Yang membuat Kedah luar biasa bukan hanya usianya, melainkan juga kesinambungannya. Wangsa Mahawangsa yang berkuasa masih memerintah, sebuah benang hidup yang membentang dari legenda hingga ke monarki konstitusional di dalam Malaysia modern. Inilah kisah garis keturunan itu, dituturkan sebagaimana diizinkan oleh sumber-sumber dan dengan kehati-hatian di tempat sumber-sumber itu berselisih.
 

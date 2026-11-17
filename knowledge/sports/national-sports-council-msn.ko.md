@@ -27,7 +27,7 @@ faq:
   - q: "MSN은 어디에 있습니까?"
     a: "쿠알라룸푸르 부킷잘릴의 국가체육단지(Kompleks Sukan Negara), 57000 Sri Petaling, Kuala Lumpur에 있습니다. 또한 여러 다른 주에도 훈련 단지를 운영합니다."
 lang: "ko"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,7 +80,7 @@ MSN은 말레이시아의 스포츠 활동을 관장하는 정부 기관이자 �
 
 ## 언제, 어떻게 설립되었습니까?
 
-MSN은 **국가체육위원회법(National Sports Council of Malaysia Act 1971)**에 따라 설립되었으며, 이 법은 이후 **1979년에 개정**되었습니다. 위원회는 말레이시아 제2대 총리 **툰 압둘 라작 후세인(Tun Abdul Razak Hussein)**에 의해 **1972년 2월 21일에 공식 출범**하였습니다.
+MSN은 **국가체육위원회법(National Sports Council of Malaysia Act 1971)**에 따라 설립되었으며, 이 법은 이후 **1979년에 개정**되었습니다. 위원회는 말레이시아 제2대 총리 **툰 [압둘 라작 후세인](/ko/malaysia/abdul-razak-hussein)(Tun Abdul Razak Hussein)**에 의해 **1972년 2월 21일에 공식 출범**하였습니다.
 
 이후 **1981년에 개편**되었으며, 그 뒤로 스포츠의 장려와 발전, 엘리트 수준의 성취를 온전히 추진하려는 국가스포츠정책(National Sports Policy)의 목표에 맞추어 프로그램과 활동을 크게 확대하였습니다.
 

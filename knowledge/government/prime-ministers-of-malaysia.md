@@ -82,11 +82,11 @@ the confidence of the majority of the Dewan Rakyat and is appointed by the
 
 | # | Prime Minister | In office | Party / coalition |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 Aug 1957 – 22 Sep 1970 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 22 Sep 1970 – 14 Jan 1976 | UMNO · founded Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 Aug 1957 – 22 Sep 1970 | UMNO · [Alliance](/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/malaysia/abdul-razak-hussein) | 22 Sep 1970 – 14 Jan 1976 | UMNO · founded Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/malaysia/hussein-onn) | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(1st term)* | 16 Jul 1981 – 31 Oct 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 Oct 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/malaysia/abdullah-ahmad-badawi) | 31 Oct 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 Apr 2009 – 9 May 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(2nd term)* | 10 May 2018 – 1 Mar 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 Mar 2020 – 16 Aug 2021 | Perikatan Nasional |

@@ -33,7 +33,7 @@ faq:
     a: "Baliklah kainnya. Batik rintang lilin yang sejati — baik canting lukisan tangan maupun blok yang dicap — dicelup dengan merendam kain, sehingga corak dan warna meresap menembus kedua sisi dan tampak hampir sama jelasnya di bagian belakang. Kain yang dicetak sablon atau dicetak digital hanya membawa motif pada satu permukaan saja dan terlihat pudar di bagian sebaliknya. Garis-garisnya juga menjadi petunjuk: canting meninggalkan garis tidak rata yang tidak pernah berulang sempurna, blok memberi perulangan rapi dengan sambungan samar, sedangkan cetakan mesin berulang dengan presisi tanpa jejak lilin."
 
 lang: "id"
-sourceContentHash: "8cf542d7e4bd7380"
+sourceContentHash: "59a7c365df5fee57"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -111,7 +111,7 @@ Wajar untuk bersikap tepat di sini: pada 2009, UNESCO mencantumkan batik Indones
 
 ## Dari kampung ke panggung dunia
 
-Batik tidak tinggal membeku sebagai kriya desa. Pada 2003, gerakan "Malaysian Batik — Crafted for the World" yang dipelopori oleh Datin Seri Endon Mahmood, istri perdana menteri saat itu Abdullah Ahmad Badawi, bertujuan mengangkat batik dari kain seremonial menjadi desain kontemporer yang mampu bersaing secara internasional. Jantungnya adalah Piala Seri Endon, sebuah lomba desain batik tahunan yang diselenggarakan oleh Yayasan Budi Penyayang Malaysia: dimulai dengan satu kategori busana pada 2003, ia berkembang dengan menambahkan perlengkapan rumah pada 2004 dan kerajinan tangan pada 2005, menarik para desainer muda untuk memandang batik sebagai medium desain dan bukan sekadar warisan turun-temurun.
+Batik tidak tinggal membeku sebagai kriya desa. Pada 2003, gerakan "Malaysian Batik — Crafted for the World" yang dipelopori oleh Datin Seri Endon Mahmood, istri perdana menteri saat itu [Abdullah Ahmad Badawi](/id/malaysia/abdullah-ahmad-badawi), bertujuan mengangkat batik dari kain seremonial menjadi desain kontemporer yang mampu bersaing secara internasional. Jantungnya adalah Piala Seri Endon, sebuah lomba desain batik tahunan yang diselenggarakan oleh Yayasan Budi Penyayang Malaysia: dimulai dengan satu kategori busana pada 2003, ia berkembang dengan menambahkan perlengkapan rumah pada 2004 dan kerajinan tangan pada 2005, menarik para desainer muda untuk memandang batik sebagai medium desain dan bukan sekadar warisan turun-temurun.
 
 Dampaknya mengalir ke dua arah. Di satu sisi, batik kini muncul dalam koleksi busana, perlengkapan rumah dan barang yang dirancang untuk pasar modern, tak lagi terbatas pada sarung dan kemeja resmi. Di sisi lain, bengkel-bengkel lukisan tangan di Kelantan dan Terengganu masih menghadapi tekanan dari kain cetakan murah yang meniru tampilan batik dengan biaya jauh lebih rendah — ketegangan yang sama yang menjadikan pendidikan pembeli dan lomba desain itu penting untuk menjaga keterampilan lilin tetap hidup.
 

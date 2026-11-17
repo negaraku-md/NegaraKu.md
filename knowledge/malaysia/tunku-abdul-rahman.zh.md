@@ -28,7 +28,7 @@ appliesTo: "希望获得一份简明、有据可查的概览，了解马来西�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -104,7 +104,7 @@ National Organisation，UMNO）的壮大。他于 **1951年** 当选巫统主席
 
 在 **1957年8月31日** 独立的那一刻，东姑阿都拉曼成为马来亚联合邦的首任首相。默迪卡体育场的宣告仪式
 ——他在那里宣读《独立宣言》并带领高呼默迪卡——至今仍是这个国家的奠基图景（《马来亚独立宣言》）。
-他早期的政府追求经济发展、乡村改善与族群利益的审慎平衡，同时在马来亚紧急状态的尾声岁月里，把马来亚
+他早期的政府追求经济发展、乡村改善与族群利益的审慎平衡，同时在[马来亚紧急状态](/zh/malaysia/the-emergency)的尾声岁月里，把马来亚
 牢牢保持在西方、反共的阵营之内。
 
 ## 马来西亚的组成（1963年）与新加坡的分离（1965年）

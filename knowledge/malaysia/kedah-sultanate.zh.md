@@ -21,7 +21,7 @@ appliesTo: "学生、研究者、旅人，以及任何希望获得一份有据�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ad93d074a6c5192"
+sourceContentHash: "08adb6bfb26200c1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,7 +65,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-马来西亚少有地方像吉打这样坦然承载自己的过去。早在宣礼塔尚未矗立于亚罗士打（Alor Setar）之前，Merbok 河与 Muda 河之间那片稻绿的平原，便已是商旅乘着季风、往返于印度、中国与马来世界之间的登陆之地。水手与学者称这片海岸为 Kadaram 或 Kataha；今日的考古学家则以布央谷（Bujang Valley）的寺庙遗丘来辨认它。正是从那样一个世界主义的、印度教—佛教的起点，成长出一个马来君主政体——它将挨过室利佛逝（Srivijaya）与朱罗（Chola）、大城（Ayutthaya）与曼谷，最终还要挨过大英帝国。
+马来西亚少有地方像吉打这样坦然承载自己的过去。早在宣礼塔尚未矗立于亚罗士打（Alor Setar）之前，Merbok 河与 Muda 河之间那片稻绿的平原，便已是商旅乘着季风、往返于印度、中国与马来世界之间的登陆之地。水手与学者称这片海岸为 Kadaram 或 Kataha；今日的考古学家则以布央谷（Bujang Valley）的寺庙遗丘来辨认它。正是从那样一个世界主义的、印度教—佛教的起点，成长出一个马来君主政体——它将挨过[室利佛逝](/zh/malaysia/srivijaya)（Srivijaya）与朱罗（Chola）、大城（Ayutthaya）与曼谷，最终还要挨过大英帝国。
 
 吉打的非凡之处不仅在于它的古老，更在于它的延续。马哈旺沙王室（House of Mahawangsa）至今仍在位，是一条从传说一路延伸到现代马来西亚宪制君主制的活线。这正是那条世系的故事，依据资料所能讲述的范围来讲，并在资料彼此分歧之处保持审慎。
 

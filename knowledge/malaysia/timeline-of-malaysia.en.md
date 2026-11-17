@@ -35,7 +35,7 @@ verificationNeeded:
   - "Each key moment links to a full, sourced article where one exists; those pages carry the citations. The modern political chronology (prime ministers, general elections, the 1MDB affair, the 2020 Sheraton Move) is factual public record, drawn from the Prime Minister's Office and Election Commission, and is presented neutrally. Entries that touch 3R (race / religion / royalty) or otherwise sensitive themes — the 13 May 1969 incident, Operation Lalang, the 1988 judiciary crisis — await human review before production."
 
 lang: "en"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -190,7 +190,7 @@ the sacking of his deputy Anwar Ibrahim, and the Reformasi street movement.
 - **1987** — [Operation Lalang](/en/malaysia/ops-lalang-1987) — mass detentions under the Internal Security Act.
 - **1991** — [Vision 2020 (Wawasan 2020)](/en/malaysia/wawasan-2020) — the goal of a fully developed Malaysia by 2020.
 - **1997–98** — [The Asian financial crisis and Reformasi](/en/malaysia/1998-reformasi) — capital controls, [Anwar Ibrahim](/en/malaysia/anwar-ibrahim)'s sacking, and the reform movement.
-- **31 October 2003** — Mahathir steps down after 22 years; Abdullah Ahmad Badawi becomes the fifth Prime Minister.
+- **31 October 2003** — Mahathir steps down after 22 years; [Abdullah Ahmad Badawi](/en/malaysia/abdullah-ahmad-badawi) becomes the fifth Prime Minister.
 
 ## Reformasi to the unity government
 

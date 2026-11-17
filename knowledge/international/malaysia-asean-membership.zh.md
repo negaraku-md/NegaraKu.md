@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 
 status: "published"
 aiAssisted: true
@@ -132,7 +132,7 @@ keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komu
 framework: explainer
 ---
 
-1967年8月8日，五个人聚集在曼谷外交部大楼的主厅，签署了一份两页的文件。其中一人——马来西亚副首相敦阿都拉萨·胡先——正将马来西亚置入一个日后将成为这个国家近六十年外交政策主要框架的组织，而马来西亚本身也在2025年担任了该组织的轮值主席国。
+1967年8月8日，五个人聚集在曼谷外交部大楼的主厅，签署了一份两页的文件。其中一人——马来西亚副首相敦[阿都拉萨·胡先](/zh/malaysia/abdul-razak-hussein)——正将马来西亚置入一个日后将成为这个国家近六十年外交政策主要框架的组织，而马来西亚本身也在2025年担任了该组织的轮值主席国。
 
 ## 概览：马来西亚在东盟
 

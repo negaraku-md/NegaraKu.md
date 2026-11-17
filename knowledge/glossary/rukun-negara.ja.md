@@ -34,7 +34,7 @@ faq:
     a: "理想（統合や公正な社会などの五つの国家目標）は達成すべき目的であり、五つの原則はその理想を達成するための生活の基礎と指針である。両者が合わさって、ルクンヌガラの完全な綱領を構成している。"
 
 lang: "ja"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,8 +139,7 @@ Keselamatan Negara、MKN）によれば、ルクンヌガラは「社会生活�
 
 この事件の後、議会制の統治体制は停止され、治安を回復するための緊急行政機関
 として**国家行動評議会（Majlis Gerakan Negara、MAGERAN）**が設立された。
-MAGERANは、当時の副首相であった**トゥン・アブドゥル・ラザク・フセイン
-（Tun Abdul Razak Hussein）**が議長を務めた。
+MAGERANは、当時の副首相であった**[トゥン・アブドゥル・ラザク・フセイン （Tun Abdul Razak Hussein）](/ja/malaysia/abdul-razak-hussein)**が議長を務めた。
 
 MAGERANの下で、トゥン・アブドゥル・ラザクは国民統合を回復するために三つの
 機関を設立した：

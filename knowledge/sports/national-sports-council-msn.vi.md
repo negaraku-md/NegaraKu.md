@@ -27,7 +27,7 @@ faq:
   - q: "MSN đặt trụ sở ở đâu?"
     a: "Tại Khu phức hợp Thể thao Quốc gia (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Nó cũng vận hành các khu phức hợp huấn luyện ở một số bang khác."
 lang: "vi"
-sourceContentHash: "80305dfafe9710fb"
+sourceContentHash: "ebb2456ffa0caf75"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,7 +80,7 @@ Trụ sở của nó là **Kompleks Sukan Negara (Khu phức hợp Thể thao Qu
 
 ## Nó được tạo ra khi nào và như thế nào?
 
-MSN được thành lập theo **Luật Hội đồng Thể thao Quốc gia Malaysia 1971 (National Sports Council of Malaysia Act 1971)**, sau này được **sửa đổi vào năm 1979**. Hội đồng được **chính thức ra mắt vào ngày 21 tháng 2 năm 1972** bởi Thủ tướng thứ hai của Malaysia, **Tun Abdul Razak Hussein**.
+MSN được thành lập theo **Luật Hội đồng Thể thao Quốc gia Malaysia 1971 (National Sports Council of Malaysia Act 1971)**, sau này được **sửa đổi vào năm 1979**. Hội đồng được **chính thức ra mắt vào ngày 21 tháng 2 năm 1972** bởi Thủ tướng thứ hai của Malaysia, **Tun [Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein)**.
 
 Sau đó nó được **tái cơ cấu vào năm 1981**, sau đó nó mở rộng đáng kể các chương trình và hoạt động của mình — phù hợp với mục tiêu của Chính sách Thể thao Quốc gia nhằm thúc đẩy đầy đủ việc khuyến khích, phát triển và thành tích ở cấp tinh nhuệ của thể thao.
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que busque una exposición descriptiva, cláusula por cláusula, de lo que dispone el Artículo 153 y de lo que excluye, sin dirimir el debate político que lo rodea."
 
 lang: "es"
-sourceContentHash: "db5076f747cd8ba7"
+sourceContentHash: "91d4996a886b6aaa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ El Artículo 153 sigue siendo objeto vivo de comentario público y jurídico. Ex
 
 El gobierno malasio ha reafirmado públicamente la disposición. En febrero de 2024, respondiendo al llamamiento de un parlamentario a reevaluar si la política de acción afirmativa subyacente sigue beneficiando a sus destinatarios previstos, el primer ministro Anwar Ibrahim declaró que el gobierno «will continue upholding the position of the Constitution, including Article 153» —seguirá defendiendo la posición de la Constitución, incluido el Artículo 153—, según un comunicado de la Oficina del Primer Ministro.
 
-Por separado, en un comentario jurídico reproducido por el Malaysian Bar (publicado originalmente por Raja Aziz Addruse y Helen Ting en el New Sunday Times, 22 de junio de 2008), los autores escriben que las disposiciones constitucionales sobre la «posición especial» se «understood more as a protective measure for the Malay community which was then socio–economically disadvantaged» —entendieron más como una medida protectora para la comunidad malaya, entonces en desventaja socioeconómica—, y señalan que «five out of the 12 clauses of Article 153 set out to limit the scope of its application» —cinco de las 12 cláusulas del Artículo 153 se proponen limitar el alcance de su aplicación—. Concluyen que «there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153» —no hay fundamento para sugerir que suprimir la NEP requiera necesariamente la enmienda o derogación del Artículo 153—, una postura que distingue el texto constitucional del Artículo 153 del marco de política separado de la Nueva Política Económica.
+Por separado, en un comentario jurídico reproducido por el Malaysian Bar (publicado originalmente por Raja Aziz Addruse y Helen Ting en el New Sunday Times, 22 de junio de 2008), los autores escriben que las disposiciones constitucionales sobre la «posición especial» se «understood more as a protective measure for the Malay community which was then socio–economically disadvantaged» —entendieron más como una medida protectora para la comunidad malaya, entonces en desventaja socioeconómica—, y señalan que «five out of the 12 clauses of Article 153 set out to limit the scope of its application» —cinco de las 12 cláusulas del Artículo 153 se proponen limitar el alcance de su aplicación—. Concluyen que «there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153» —no hay fundamento para sugerir que suprimir la NEP requiera necesariamente la enmienda o derogación del Artículo 153—, una postura que distingue el texto constitucional del Artículo 153 del marco de política separado de la [Nueva Política Económica](/es/malaysia/new-economic-policy).
 
 ## Qué viene a continuación
 

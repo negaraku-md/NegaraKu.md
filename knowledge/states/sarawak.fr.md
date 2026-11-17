@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "fe6d42d875ef660f"
+sourceContentHash: "dc6f821d38c2946d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,8 +120,7 @@ autour des forêts tropicales, des parcs nationaux et des cultures autochtones d
 l'État, est un contributeur plus modeste mais en croissance. Sarawak a également
 recherché une plus grande autonomie fiscale vis-à-vis du gouvernement fédéral, y
 compris des négociations sur les taux de redevances pétrolières et les droits sur
-les revenus de l'État liés à sa position en vertu de l'Accord de la Malaisie de
-1963.
+les revenus de l'État liés à sa position en vertu de l'[Accord de la Malaisie de 1963](/fr/malaysia/ma63).
 
 ## Faire des affaires ici
 

@@ -36,7 +36,7 @@ lang: "zh"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "8cf542d7e4bd7380"
+sourceContentHash: "59a7c365df5fee57"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -111,7 +111,7 @@ batik canting 与 batik blok 都是真正的蜡防染峇迪：布料是染出来
 
 ## 从甘榜走向世界舞台
 
-峇迪并没有凝固成一门乡村工艺。2003 年，由时任首相 Abdullah Ahmad Badawi 的夫人 Datin Seri Endon Mahmood 所倡导的「马来西亚峇迪——为世界而制」（Malaysian Batik — Crafted for the World）运动，着手把峇迪从礼仪布料提升为能够在国际上竞争的当代设计。这项运动的核心是 Piala Seri Endon（恩顿锦标），一项由 Yayasan Budi Penyayang Malaysia 主办的年度峇迪设计比赛：从 2003 年单一的时装组别起步，2004 年增设家居软装，2005 年再添手工艺，吸引更年轻的设计师把峇迪视为一种设计媒介，而不只是继承而来的遗产。
+峇迪并没有凝固成一门乡村工艺。2003 年，由时任首相 [Abdullah Ahmad Badawi](/zh/malaysia/abdullah-ahmad-badawi) 的夫人 Datin Seri Endon Mahmood 所倡导的「马来西亚峇迪——为世界而制」（Malaysian Batik — Crafted for the World）运动，着手把峇迪从礼仪布料提升为能够在国际上竞争的当代设计。这项运动的核心是 Piala Seri Endon（恩顿锦标），一项由 Yayasan Budi Penyayang Malaysia 主办的年度峇迪设计比赛：从 2003 年单一的时装组别起步，2004 年增设家居软装，2005 年再添手工艺，吸引更年轻的设计师把峇迪视为一种设计媒介，而不只是继承而来的遗产。
 
 这股影响是双向的。一方面，峇迪如今出现在时装系列、家居用品以及为现代市场设计的商品之中，不再局限于纱笼与正式衬衫。另一方面，吉兰丹与登嘉楼的手绘作坊仍然面对廉价印花布的压力——这些布以远低得多的成本模仿峇迪的外观；正是这同一种张力，使得教育买家与举办设计比赛，对于让蜡艺技术存活下来显得至关重要。
 

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs, étudiants et chercheurs cherchant un aperçu sourcé de l'histoire royale du Perak, des origines de la domination coloniale britannique dans les États malais, et du fonctionnement du sultanat rotatif de Malaisie."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "9f2336395064695e"
+sourceContentHash: "9c5b289247ceb3ae"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -87,7 +87,7 @@ Les combats ruinèrent l'économie de l'étain et menacèrent les marchands de P
 
 ## Pangkor 1874 et le Résident qui alla trop loin
 
-Le 20 janvier 1874, à bord du vapeur colonial *Pluto* ancré au large de l'île de Pangkor, le gouverneur des Établissements des détroits, Sir Andrew Clarke, réunit les parties à ce qui devint l'Engagement de Pangkor (ou traité de Pangkor). L'accord reconnaissait Raja Abdullah comme Sultan de Perak de préférence à son rival le Sultan Ismail, qui refusa d'assister et conserva les insignes royaux. Il régla les différends de Larut en nommant un Kapitan chinois et en rebaptisant le district ravagé par la guerre Taiping — « paix éternelle ».
+Le 20 janvier 1874, à bord du vapeur colonial *Pluto* ancré au large de l'île de Pangkor, le gouverneur des [Établissements des détroits](/fr/malaysia/straits-settlements), Sir Andrew Clarke, réunit les parties à ce qui devint l'Engagement de Pangkor (ou traité de Pangkor). L'accord reconnaissait Raja Abdullah comme Sultan de Perak de préférence à son rival le Sultan Ismail, qui refusa d'assister et conserva les insignes royaux. Il régla les différends de Larut en nommant un Kapitan chinois et en rebaptisant le district ravagé par la guerre Taiping — « paix éternelle ».
 
 Sa clause la plus lourde de conséquences était plus discrète. Un Résident britannique serait posté à la cour du Perak, et le sultan s'engageait à ce que l'avis du Résident « doive être sollicité et suivi sur toutes les questions autres que celles touchant à la religion et à la coutume malaises ». En une seule phrase, le Perak avait cédé la majeure partie de sa souveraineté. Le modèle de Pangkor — une administration indirecte par un Résident qui « conseillait » mais gouvernait en réalité — serait exporté à travers la péninsule et devint le modèle du contrôle britannique des États malais.
 

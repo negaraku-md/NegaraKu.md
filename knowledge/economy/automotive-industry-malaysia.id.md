@@ -33,7 +33,7 @@ faq:
     a: "Ia adalah kerangka kerja pemerintah untuk sektor mobil, yang paling terkini diperbarui sebagai NAP 2020. Ia menyasarkan kendaraan generasi mendatang (NxGV), Mobilitas-sebagai-Layanan, dan kapabilitas Industri 4.0, dan sedang menjalani kajian paruh waktu; MITI meluncurkan kajian itu (membentuk Majlis Tokoh Automotif Terkemuka pada 2025) tetapi hasilnya tidak diterbitkan pada target akhir 2025 dan tetap tertunda pada 2026."
 
 lang: "id"
-sourceContentHash: "ce89b8f0036180e9"
+sourceContentHash: "ea4723a8cd060bef"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Pilihan itu, yang dibuat pada awal 1980-an di bawah Perdana Menteri Mahathir Moh
 
 Sebelum Proton, produsen Jepang menguasai lebih dari 70% pasar kendaraan Malaysia, merakit kit rakitan utuh (CKD) melalui usaha patungan. Pasar domestik terlalu kecil bagi mana pun dari mereka untuk mencapai skala ekonomi yang sebenarnya, dan industri itu pada dasarnya adalah substitusi impor dengan wajah asing.
 
-Proyek mobil nasional mengubah ketentuannya. Perbadanan Industri Berat Malaysia (HICOM), yang didirikan pada 1980 untuk mendorong industri berat, menjadi wadahnya. Pada 1983 ia mendirikan Perusahaan Otomobil Nasional (Proton) sebagai usaha patungan: HICOM mengambil 70% dan Mitsubishi Corporation serta Mitsubishi Motors mengambil sisa 30%, dengan total modal RM150 juta. Proton lebih dari sekadar perusahaan; ia adalah kebijakan industri, bertujuan menyemai basis produsen suku cadang lokal dan mengembangkan partisipasi Bumiputera dalam manufaktur di bawah Dasar Ekonomi Baru.
+Proyek mobil nasional mengubah ketentuannya. Perbadanan Industri Berat Malaysia (HICOM), yang didirikan pada 1980 untuk mendorong industri berat, menjadi wadahnya. Pada 1983 ia mendirikan Perusahaan Otomobil Nasional (Proton) sebagai usaha patungan: HICOM mengambil 70% dan Mitsubishi Corporation serta Mitsubishi Motors mengambil sisa 30%, dengan total modal RM150 juta. Proton lebih dari sekadar perusahaan; ia adalah kebijakan industri, bertujuan menyemai basis produsen suku cadang lokal dan mengembangkan partisipasi Bumiputera dalam manufaktur di bawah [Dasar Ekonomi Baru](/id/malaysia/new-economic-policy).
 
 Sebuah lambang nasional kedua menyusul pada 1993. Perusahaan Otomobil Kedua (Perodua) didirikan sebagai usaha patungan yang dibangun di sekitar Daihatsu dari Jepang, dan sejak 1994 ia menjual sebuah mobil kompak yang diturunkan dari Daihatsu Mira. Perodua mengakhiri nyaris-monopoli Proton, dan lambat laun spesialis mobil yang lebih kecil itu menyalip mitra seniornya untuk menjadi pemimpin pasar yang masih dipertahankannya.
 

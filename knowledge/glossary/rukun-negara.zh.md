@@ -34,7 +34,7 @@ faq:
     a: "宏愿（如团结与公正社会等五大国家目标）是要达成的目的，而五大原则则是实现这些宏愿的生活基础与指南。两者共同构成了完整的国家原则誓言。"
 
 lang: "zh"
-sourceContentHash: "d94eca92454b00e2"
+sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ framework: explainer
 
 在该事件之后，国会议会制被暂停，一个紧急行政机构
 **国家行动理事会（MAGERAN）**成立，以恢复安宁。MAGERAN由
-当时的副首相**敦阿都拉萨（Tun Abdul Razak Hussein）**主持。
+当时的副首相**[敦阿都拉萨（Tun Abdul Razak Hussein）](/zh/malaysia/abdul-razak-hussein)**主持。
 
 在MAGERAN之下，敦阿都拉萨设立了三个机构以恢复团结：
 

@@ -28,7 +28,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang mencari gambaran ringkas dan be
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72bc2508633e6dd1"
+sourceContentHash: "7318cc9a4243adef"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -128,7 +128,7 @@ tempat beliau membaca Pengisytiharan Kemerdekaan dan memimpin laungan Merdeka, k
 sebagai imej pengasasan negara (Pengisytiharan Kemerdekaan Tanah Melayu). Kerajaan
 awalnya mengejar pembangunan ekonomi, penambahbaikan luar bandar dan satu imbangan
 kepentingan kaum yang berhati-hati, sambil mengekalkan Tanah Melayu teguh dalam kem
-Barat, anti-komunis pada tahun-tahun penghujung Darurat Malaya.
+Barat, anti-komunis pada tahun-tahun penghujung [Darurat Malaya](/ms/malaysia/the-emergency).
 
 ## Pembentukan Malaysia (1963) dan pemisahan Singapura (1965)
 

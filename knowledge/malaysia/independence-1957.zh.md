@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9d15ea63aee3b87b"
+sourceContentHash: "ca15cfa45f8cdedf"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -71,7 +71,7 @@ framework: history-culture
 
 ## 前去请求的代表团
 
-1956年1月，一个联盟党（Alliance Party）代表团——马来人、华人与印度人以一个整体的姿态进行谈判，由东姑阿都拉曼率领——前往伦敦，向英国政府提出一个具体的问题：马来亚将在何时、以何种条件实现自治？他们带回来的答案并非含糊的安抚。英国原则上同意在1957年8月之前给予独立，前提是先有一部可行的宪法到位。这一趟行程把「有朝一日」转化成了一个期限，而其后发生的一切，都是为了赶上它而建构的。
+1956年1月，一个[联盟党（Alliance Party）](/zh/malaysia/the-alliance)代表团——马来人、华人与印度人以一个整体的姿态进行谈判，由东姑阿都拉曼率领——前往伦敦，向英国政府提出一个具体的问题：马来亚将在何时、以何种条件实现自治？他们带回来的答案并非含糊的安抚。英国原则上同意在1957年8月之前给予独立，前提是先有一部可行的宪法到位。这一趟行程把「有朝一日」转化成了一个期限，而其后发生的一切，都是为了赶上它而建构的。
 
 ## 在庆典之前先写下规则手册
 

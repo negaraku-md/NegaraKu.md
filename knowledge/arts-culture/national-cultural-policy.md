@@ -85,7 +85,7 @@ Artikel ini memaparkan rekod sejarah dan pelbagai pandangan sekitar dasar terseb
 
 ## Apa itu Dasar Kebudayaan Kebangsaan 1971?
 
-Dasar Kebudayaan Kebangsaan ialah rangka dasar yang dirumuskan menerusi Kongres Kebudayaan Kebangsaan yang berlangsung pada 1971 di Universiti Malaya, Kuala Lumpur. Kongres itu dianjurkan oleh Kementerian Kebudayaan Belia dan Sukan dan dirasmikan oleh Perdana Menteri ketika itu, Tun Abdul Razak Hussein.
+Dasar Kebudayaan Kebangsaan ialah rangka dasar yang dirumuskan menerusi Kongres Kebudayaan Kebangsaan yang berlangsung pada 1971 di Universiti Malaya, Kuala Lumpur. Kongres itu dianjurkan oleh Kementerian Kebudayaan Belia dan Sukan dan dirasmikan oleh Perdana Menteri ketika itu, Tun [Abdul Razak Hussein](/malaysia/abdul-razak-hussein).
 
 Latar dasar ini tidak dapat dipisahkan daripada suasana selepas peristiwa 13 Mei 1969. Tesis akademik Universiti Sains Malaysia yang mengkaji perkembangan dasar ini mencatatkan bahawa Dasar Kebudayaan Kebangsaan dibentuk pada 1971 sebagai sebahagian daripada usaha membina perpaduan negara dalam masyarakat majmuk. Matlamat yang sering disebut ialah mengukuhkan perpaduan menerusi satu identiti kebudayaan yang dikongsi bersama.
 

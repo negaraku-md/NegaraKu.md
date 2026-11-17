@@ -104,7 +104,7 @@ framework: profile
 | | |
 | --- | --- |
 | Name | Permodalan Nasional Berhad (PNB) |
-| Founded | 17 March 1978, as part of Malaysia's New Economic Policy |
+| Founded | 17 March 1978, as part of Malaysia's [New Economic Policy](/malaysia/new-economic-policy) |
 | Predecessor | Yayasan Pelaburan Bumiputra (YPB), established 9 January 1978 |
 | Mandate | To enhance the economic wealth of the Bumiputera community and all Malaysians |
 | AUM | RM364 billion (as at end-2025, up 4.5% year-on-year) |

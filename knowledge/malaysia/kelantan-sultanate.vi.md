@@ -19,7 +19,7 @@ keyTakeaways:
   - "Hiệp ước Anh-Xiêm năm 1909 chuyển quyền thượng tôn đối với Kelantan từ Xiêm sang Anh, khiến nó trở thành một Bang Mã Lai Không Liên bang với một Cố vấn Anh; Vương tộc Long Yunus vẫn trị vì, ngày nay dưới thời Sultan Muhammad V"
 appliesTo: "Độc giả, học sinh - sinh viên và nhà nghiên cứu muốn hiểu nguồn gốc chế độ quân chủ của Kelantan, bối cảnh Patani và Xiêm của nó, và cách một trong chín vương tộc của Malaysia định hình hiện đại của nó."
 lang: "vi"
-sourceContentHash: "30b2455886499938"
+sourceContentHash: "7959d9e4e2088c71"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,7 +69,7 @@ Trên vai đông bắc của Bán đảo Mã Lai, nơi các con sông chảy xu�
 
 ## Trước khi thống nhất: Kelantan, Melaka và lực hút của Patani
 
-Kelantan có lịch sử lâu đời. Dấu vết khảo cổ về sự định cư vươn về tận thời tiền sử, và Kelantan thời kỳ đầu lần lượt chịu tác động bởi các thế giới thương mại và chính trị của Phù Nam, Srivijaya, vương quốc Khmer, Majapahit, Champa và Xiêm. Đến đầu thế kỷ mười lăm, nó là một trung tâm thương mại đáng chú ý dưới một vị vua Hồi giáo, và năm 1499 nó được ghi nhận là chư hầu của [Vương quốc Hồi giáo Melaka](/vi/malaysia/melaka-sultanate), khi đó là thế lực thống trị của các eo biển.
+Kelantan có lịch sử lâu đời. Dấu vết khảo cổ về sự định cư vươn về tận thời tiền sử, và Kelantan thời kỳ đầu lần lượt chịu tác động bởi các thế giới thương mại và chính trị của Phù Nam, [Srivijaya](/vi/malaysia/srivijaya), vương quốc Khmer, Majapahit, Champa và Xiêm. Đến đầu thế kỷ mười lăm, nó là một trung tâm thương mại đáng chú ý dưới một vị vua Hồi giáo, và năm 1499 nó được ghi nhận là chư hầu của [Vương quốc Hồi giáo Melaka](/vi/malaysia/melaka-sultanate), khi đó là thế lực thống trị của các eo biển.
 
 Khi Melaka rơi vào tay Bồ Đào Nha năm 1511, cái neo phương nam đó biến mất, và Kelantan trôi dạt vào quỹ đạo của một thế lực khác: Patani, vương quốc Mã Lai ngay phía bắc nó, ở nơi nay là miền nam Thái Lan. Theo Encyclopaedia Britannica và các tài liệu lịch sử khác, các tù trưởng địa phương cai trị một Kelantan bị chia cắt và triều cống Patani, và đến thế kỷ mười bảy hầu hết trên thực tế đã thần phục nó. Hai vùng chia sẻ ngôn ngữ, phong tục, tôn giáo và các huyết thống cai trị; đường biên giới nay chia tách "Malaysia" với "Thái Lan" khi đó còn chưa tồn tại. Mối liên hệ Patani sâu sắc này là thiết yếu đối với nguồn gốc của vương quốc Hồi giáo — bởi người sẽ thống nhất Kelantan đến từ chính thế giới đó.
 
@@ -77,7 +77,7 @@ Khi Melaka rơi vào tay Bồ Đào Nha năm 1511, cái neo phương nam đó bi
 
 Bang Kelantan hiện đại được hàn gắn lại với nhau vào nửa sau thế kỷ mười tám, ra khỏi một cuộc tranh giành dài lâu giữa các raja địa phương. Nhân vật được ghi công cho sự thống nhất đó là **Long Yunus**, được mô tả trong các ghi chép chuẩn mực là một thủ lĩnh quân sự quý tộc gốc Patani.
 
-Sự trỗi dậy của ông đi qua máu và lưu vong. Sau khi cha ông bị giết năm 1756, Long Yunus chạy sang Vương quốc Hồi giáo Terengganu láng giềng, vị vua của nước này cuối cùng đã hậu thuẫn cho nỗ lực tranh quyền của ông. Trở về dẫn đầu sự hậu thuẫn đó, ông đánh bại các đối thủ và tự xưng là Raja của Kelantan, trở thành người sáng lập bang hiện đại. Các nguồn khác nhau về năm chính xác — các ghi chép đặt sự lên ngôi của ông khác nhau vào khoảng 1760, 1763, 1764 hay giữa thập niên 1770 — nhưng tất cả đều nhất trí rằng sự thống nhất mang tính quyết định thuộc về thập niên 1760–1770, và rằng chính từ Long Yunus mà vương tộc hiện nay là hậu duệ.
+Sự trỗi dậy của ông đi qua máu và lưu vong. Sau khi cha ông bị giết năm 1756, Long Yunus chạy sang [Vương quốc Hồi giáo Terengganu](/vi/malaysia/terengganu-sultanate) láng giềng, vị vua của nước này cuối cùng đã hậu thuẫn cho nỗ lực tranh quyền của ông. Trở về dẫn đầu sự hậu thuẫn đó, ông đánh bại các đối thủ và tự xưng là Raja của Kelantan, trở thành người sáng lập bang hiện đại. Các nguồn khác nhau về năm chính xác — các ghi chép đặt sự lên ngôi của ông khác nhau vào khoảng 1760, 1763, 1764 hay giữa thập niên 1770 — nhưng tất cả đều nhất trí rằng sự thống nhất mang tính quyết định thuộc về thập niên 1760–1770, và rằng chính từ Long Yunus mà vương tộc hiện nay là hậu duệ.
 
 Long Yunus qua đời năm 1795, và trong vài năm Kelantan lại rơi vào quyền bá chủ của Terengganu. Sự nâng cấp chính thức của vương triều đến với con trai ông, **Long Muhammad**, người tự xưng là **Sultan Muhammad I** vào khoảng năm 1800 và được tấn phong làm vua trong những năm tiếp theo. Với tước hiệu đó, cuộc chinh phục của một thủ lĩnh quân sự trở thành một vương quốc Hồi giáo — định chế trường tồn đến ngày nay.
 

@@ -33,7 +33,7 @@ faq:
     a: "L'article 8(1) de la loi 808 exige que toutes les personnes présentes se tiennent au garde-à-vous. L'article 8(3) prévoit que quiconque manque sciemment de respect à l'hymne national dans un lieu public peut, en cas de condamnation, être puni d'une amende n'excédant pas RM100 ou d'un emprisonnement d'une durée n'excédant pas un mois."
 
 lang: "fr"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ C'est là que le registre officiel est le plus solide. Les Archives nationales d
 | Raison pour laquelle la chanson de Perak a été choisie | « Présenter des caractéristiques malaises » |
 | Première interprétation publique | Soir du 31 août 1957, Selangor Club Padang |
 
-Les membres du comité consignés par les Archives nationales étaient Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' Abdul Razak Hussein et W. Crops.
+Les membres du comité consignés par les Archives nationales étaient Ya'acob Abdul Latiff, A.T. Reid, Ong Yoke Lin, Haji Mustapha Al-Bakri, Halimathon, Dato' [Abdul Razak Hussein](/fr/malaysia/abdul-razak-hussein) et W. Crops.
 
 Le portail officiel du gouvernement de la Malaisie ajoute qu'un concours de chansons a eu lieu en 1957, mais qu'il n'a pas produit de choix convenable, de sorte que Tunku Abdul Rahman a proposé la chanson de l'État de Perak comme base. Le portail consigne également que la partition musicale a été achevée par Alfonso Soliano, D.S.P Croff, le capitaine Lenthall et A.T Reed, tandis que les paroles ont été rédigées par un comité spécial présidé par Tunku Abdul Rahman avec le consentement des Souverains malais.
 

@@ -38,7 +38,7 @@ verificationNeeded:
   - "ยืนยันวันที่ทำเครื่องหมายว่าอาจเปลี่ยนแปลงในตารางของฝ่ายคณะรัฐมนตรี — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan และวันที่สองของ Hari Raya Qurban ล้วนถูกทำเครื่องหมาย"
 
 lang: "th"
-sourceContentHash: "c9161f47701aa87c"
+sourceContentHash: "4f900b1fb9347b94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ framework: data-reference
 | วันหยุด | วันที่ปี 2026 |
 | --- | --- |
 | วันขึ้นปีใหม่ | 1 มกราคม |
-| วันคล้ายวันประสูติของยังดีเปอร์ตวนเบซาร์แห่งเนอเกอรีเซิมบีลัน (Negeri Sembilan) | 14 มกราคม |
+| วันคล้ายวันประสูติของ[ยังดีเปอร์ตวนเบซาร์แห่งเนอเกอรีเซิมบีลัน](/th/malaysia/negeri-sembilan-royal-institution) (Negeri Sembilan) | 14 มกราคม |
 | Israk and Mikraj | 17 มกราคม |
 | [ไทปูซัม](/arts-culture/thaipusam) | 1 กุมภาพันธ์ |
 | วันสหพันธรัฐ | 1 กุมภาพันธ์ |

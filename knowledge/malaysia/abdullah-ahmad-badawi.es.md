@@ -28,7 +28,7 @@ appliesTo: "Lectores, estudiantes, periodistas e investigadores que busquen una 
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "29490eb7d292565c"
+sourceContentHash: "394dd6cf59253891"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -98,7 +98,7 @@ Los partidarios veían el Islam Hadhari como un contrapeso moderado y modernizad
 
 ## La victoria aplastante de 2004 y el «tsunami político» de 2008
 
-Cabalgando sobre su atractivo reformista, Abdullah llevó a la coalición gobernante **Barisan Nasional (BN)** a una victoria arrolladora en las **elecciones generales del 21 de marzo de 2004**, ganando la gran mayoría de los escaños parlamentarios —uno de los mandatos más fuertes que cualquier gobierno malasio haya recibido—.
+Cabalgando sobre su atractivo reformista, Abdullah llevó a la coalición gobernante [**Barisan Nasional (BN)**](/es/malaysia/barisan-nasional) a una victoria arrolladora en las **elecciones generales del 21 de marzo de 2004**, ganando la gran mayoría de los escaños parlamentarios —uno de los mandatos más fuertes que cualquier gobierno malasio haya recibido—.
 
 Las **elecciones generales de 2008** contaron la historia opuesta. El 8 de marzo de 2008, el BN **perdió su mayoría de dos tercios en el Parlamento** por primera vez desde 1969 y cedió el control de varios gobiernos estatales a una oposición revitalizada —un resultado ampliamente descrito en la prensa malasia e internacional como un **«tsunami político»**—. Los analistas atribuyen el vuelco a la subida de los precios, el descontento por la corrupción y la gobernanza, los agravios de las minorías étnicas, y una sostenida crítica pública, incluida la del propio predecesor de Abdullah. Bajo presión, Abdullah anunció que no defendería la presidencia de la UMNO y fijó un calendario para entregar el poder.
 

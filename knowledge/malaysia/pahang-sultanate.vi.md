@@ -19,7 +19,7 @@ keyTakeaways:
   - "Một Công sứ Anh được áp đặt năm 1888 và Pahang gia nhập Liên bang các Bang Mã Lai vào năm 1895–96; vương tộc Bendahara vẫn trị vì, và Sultan Abdullah trở thành Yang di-Pertuan Agong năm 2019"
 appliesTo: "Những độc giả truy tìm cách các vương tộc Mã Lai bờ đông của Malaysia hình thành, và bất kỳ ai muốn hiểu nguồn gốc, cuộc nội chiến và sự khôi phục hiện đại của Vương quốc Hồi giáo Pahang."
 lang: "vi"
-sourceContentHash: "13c4da63ac434796"
+sourceContentHash: "ed321bc406e7501b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,7 +91,7 @@ Pahang rơi vào quyền uy của các Bendahara này. Khi đế quốc Johor ta
 
 Cái chết của Tun Ali đặt anh em chống lại nhau. Di chúc của ông được cho là đã giao nguồn thu của Kuantan và Endau cho con trai thứ của ông, Wan Ahmad, nhưng người con trai lớn, Tun Mutahir — người kế vị làm Bendahara — đã không tôn trọng điều khoản đó, về sau tuyên bố không biết đến nó. Wan Ahmad, người lập luận rằng mình có yêu sách mạnh hơn vì mẹ ông là chính thất của Tun Ali, từ chối chấp nhận sự cai trị của anh mình.
 
-Kết quả là **Nội chiến Pahang**, diễn ra vào khoảng giữa năm 1857 và 1863. Đó không chỉ là một cuộc tranh chấp địa phương: cuộc xung đột lôi kéo các thế lực láng giềng của một thế giới Mã Lai đang rạn vỡ. Wan Ahmad nhận được sự ủng hộ từ vương quốc Hồi giáo Terengganu ở phía bắc và từ Xiêm, trong khi Temenggung của Johor bị kéo vào cuộc tranh giành ở phía bên kia. Sau nhiều năm chinh chiến, Wan Ahmad thắng thế. Tun Mutahir rút lui và, năm 1863, chạy về phía Johor, nơi ông qua đời. Wan Ahmad trở thành Raja Bendahara của Pahang ngay trong năm đó.
+Kết quả là **Nội chiến Pahang**, diễn ra vào khoảng giữa năm 1857 và 1863. Đó không chỉ là một cuộc tranh chấp địa phương: cuộc xung đột lôi kéo các thế lực láng giềng của một thế giới Mã Lai đang rạn vỡ. Wan Ahmad nhận được sự ủng hộ từ [vương quốc Hồi giáo Terengganu](/vi/malaysia/terengganu-sultanate) ở phía bắc và từ Xiêm, trong khi Temenggung của Johor bị kéo vào cuộc tranh giành ở phía bên kia. Sau nhiều năm chinh chiến, Wan Ahmad thắng thế. Tun Mutahir rút lui và, năm 1863, chạy về phía Johor, nơi ông qua đời. Wan Ahmad trở thành Raja Bendahara của Pahang ngay trong năm đó.
 
 ## Một vương quốc Hồi giáo được khôi phục: Sultan Ahmad al-Muadzam Shah
 
@@ -107,7 +107,7 @@ Vài năm sau, Pahang bị gộp vào một cấu trúc thực dân lớn hơn. 
 
 ## Vương tộc hiện nay — và một quốc vương cho Malaysia
 
-Vương triều Bendahara do Sultan Ahmad sáng lập đã trị vì không đứt đoạn vương triều cho đến ngày nay. Sau Thế chiến thứ hai, Pahang trải qua Liên hiệp Malaya (Malayan Union) và Liên bang Malaya đến nền độc lập năm 1957, và vị sultan của nó trở thành một trong [chín vương tộc](/vi/malaysia/nine-royal-houses) mà các vị vua của họ bầu ra quân chủ quốc gia.
+Vương triều Bendahara do Sultan Ahmad sáng lập đã trị vì không đứt đoạn vương triều cho đến ngày nay. Sau Thế chiến thứ hai, Pahang trải qua [Liên hiệp Malaya](/vi/malaysia/malayan-union) (Malayan Union) và Liên bang Malaya đến nền độc lập năm 1957, và vị sultan của nó trở thành một trong [chín vương tộc](/vi/malaysia/nine-royal-houses) mà các vị vua của họ bầu ra quân chủ quốc gia.
 
 Mối liên hệ đó trở nên sống động vào năm 2019. Ngày 15 tháng 1 năm 2019, Tengku Abdullah được tuyên xưng là Sultan của [Pahang](/vi/states/pahang) sau khi cha ông thoái vị, Sultan Ahmad Shah. Chỉ hơn một tuần sau, ngày 24 tháng 1 năm 2019, Hội nghị các Quân chủ bầu ông làm **Yang di-Pertuan Agong thứ 16** — quốc vương Malaysia — với triều đại của ông bắt đầu từ ngày 31 tháng 1, như Malaysiakini và các hãng tin khác đưa tin vào thời điểm đó. Ông trị vì với tư cách quân chủ liên bang cho đến tháng 1 năm 2024. Một ngai vàng được khôi phục trên một bờ sông cấp tỉnh năm 1881 đã, trong vòng vài thế hệ, sản sinh ra một nguyên thủ quốc gia cho toàn thể dân tộc.
 

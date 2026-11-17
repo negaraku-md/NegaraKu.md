@@ -31,7 +31,7 @@ verificationNeeded:
   - "Các mốc ngày nhiệm kỳ cần được xác nhận với Văn phòng Thủ tướng và Perdana Leadership Foundation. Ismail Sabri Yaakob vẫn là Thủ tướng tạm quyền sau khi Nghị viện giải tán (10 tháng 10 năm 2022) cho đến khi Anwar Ibrahim tuyên thệ nhậm chức vào ngày 24 tháng 11 năm 2022 — ngày kết thúc phản ánh việc chuyển giao chức vụ. Là một bản thảo, bài này cần một người rà soát trước khi xuất bản."
 
 lang: "vi"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,11 +82,11 @@ nhiệm của đa số Hạ viện (Dewan Rakyat) và được
 
 | # | Thủ tướng | Nhiệm kỳ | Đảng / liên minh |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 tháng 8 năm 1957 – 22 tháng 9 năm 1970 | UMNO · Alliance |
-| 2 | Abdul Razak Hussein | 22 tháng 9 năm 1970 – 14 tháng 1 năm 1976 | UMNO · thành lập Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 tháng 1 năm 1976 – 16 tháng 7 năm 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 tháng 8 năm 1957 – 22 tháng 9 năm 1970 | UMNO · [Alliance](/vi/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/vi/malaysia/abdul-razak-hussein) | 22 tháng 9 năm 1970 – 14 tháng 1 năm 1976 | UMNO · thành lập Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/vi/malaysia/hussein-onn) | 15 tháng 1 năm 1976 – 16 tháng 7 năm 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(nhiệm kỳ 1)* | 16 tháng 7 năm 1981 – 31 tháng 10 năm 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 tháng 10 năm 2003 – 3 tháng 4 năm 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/vi/malaysia/abdullah-ahmad-badawi) | 31 tháng 10 năm 2003 – 3 tháng 4 năm 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 tháng 4 năm 2009 – 9 tháng 5 năm 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(nhiệm kỳ 2)* | 10 tháng 5 năm 2018 – 1 tháng 3 năm 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 tháng 3 năm 2020 – 16 tháng 8 năm 2021 | Perikatan Nasional |

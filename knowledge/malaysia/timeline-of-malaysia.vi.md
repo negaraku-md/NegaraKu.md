@@ -35,7 +35,7 @@ verificationNeeded:
   - "Mỗi cột mốc quan trọng liên kết đến bài viết đầy đủ và có dẫn nguồn nếu có; trang đó mang các trích dẫn nguồn. Niên biểu chính trị hiện đại (các thủ tướng, tổng tuyển cử, vụ 1MDB, 'Langkah Sheraton' 2020) là hồ sơ công khai mang tính sự thật, lấy từ Văn phòng Thủ tướng và Ủy ban Bầu cử, và được trình bày một cách trung lập. Các mục chạm đến các chủ đề 3R (chủng tộc / tôn giáo / vương thất) hoặc nhạy cảm — sự kiện ngày 13 tháng 5 năm 1969, Ops Lalang, khủng hoảng tư pháp năm 1988 — cần con người rà soát trước khi xuất bản."
 
 lang: "vi"
-sourceContentHash: "e58ff5504e70aafc"
+sourceContentHash: "31ba254aebf976bb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -160,7 +160,7 @@ Chấn thương năm 1969 sinh ra những giải pháp quốc gia mới — Ruku
 - **1987** — [Ops Lalang](/vi/malaysia/ops-lalang-1987) — giam giữ hàng loạt theo Đạo luật An ninh Nội địa.
 - **1991** — [Wawasan 2020](/vi/malaysia/wawasan-2020) — mục tiêu để Malaysia trở thành một nước phát triển đầy đủ vào năm 2020.
 - **1997–98** — [Khủng hoảng tài chính châu Á và Reformasi](/vi/malaysia/1998-reformasi) — kiểm soát vốn, việc sa thải [Anwar Ibrahim](/vi/malaysia/anwar-ibrahim), và phong trào cải cách.
-- **31 tháng 10 năm 2003** — Mahathir rút lui sau 22 năm; Abdullah Ahmad Badawi trở thành Thủ tướng thứ năm.
+- **31 tháng 10 năm 2003** — Mahathir rút lui sau 22 năm; [Abdullah Ahmad Badawi](/vi/malaysia/abdullah-ahmad-badawi) trở thành Thủ tướng thứ năm.
 
 ## Từ Reformasi đến chính phủ đoàn kết
 

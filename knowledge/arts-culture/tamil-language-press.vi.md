@@ -31,7 +31,7 @@ faq:
     a: "Điều này phản ánh cùng một xu hướng toàn cầu của báo in — độc giả, nhất là người trẻ, tiếp cận tin tức qua Internet, ứng dụng di động và mạng xã hội. Doanh thu quảng cáo giảm cùng chi phí in ấn đã buộc nhiều tờ báo phải ưu tiên các ấn bản kỹ thuật số."
 
 lang: "vi"
-sourceContentHash: "b7243674f3b8cc52"
+sourceContentHash: "32a4a04add201056"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -83,7 +83,7 @@ Ngành báo chí tiếng Tamil ở Malaysia có lịch sử hơn một thế k�
 
 ## Lịch sử: báo chí tiếng Tamil ở Malaya thời thuộc địa
 
-Cội rễ của báo chí tiếng Tamil nằm ở Malaya thời thuộc địa Anh, đặc biệt là ở **các Khu định cư Eo biển (Straits Settlements)**. Theo các nhà nghiên cứu, **Penang** là nơi khai sinh của nhiều ấn phẩm tiếng Tamil trong thời thuộc địa; từ cuối thế kỷ 19 sang đầu thế kỷ 20, các nỗ lực văn chương và báo chí tiếng Tamil đã phát triển ở đó.
+Cội rễ của báo chí tiếng Tamil nằm ở Malaya thời thuộc địa Anh, đặc biệt là ở **[các Khu định cư Eo biển (Straits Settlements)](/vi/malaysia/straits-settlements)**. Theo các nhà nghiên cứu, **Penang** là nơi khai sinh của nhiều ấn phẩm tiếng Tamil trong thời thuộc địa; từ cuối thế kỷ 19 sang đầu thế kỷ 20, các nỗ lực văn chương và báo chí tiếng Tamil đã phát triển ở đó.
 
 Như một sự nối dài của đà phát triển này, **Tamil Nesan (Người bạn Tamil)** ra số đầu tiên vào ngày 24 tháng 9 năm 1924. Tờ báo mang đến cho cộng đồng Tamil một nội dung phong phú — chính trị, tôn giáo, tin trong nước và thế giới, giáo dục và điện ảnh Tamil — và cho đến khi đóng cửa, nó vẫn được xem là nhật báo tiếng Tamil lâu đời nhất cả nước.
 

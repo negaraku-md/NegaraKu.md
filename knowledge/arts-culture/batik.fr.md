@@ -33,7 +33,7 @@ faq:
     a: "Retournez l'étoffe. Un véritable batik à réserve de cire — qu'il soit dessiné à la main au canting ou estampé au bloc — est teint par trempage de l'étoffe, de sorte que le motif et la couleur imprègnent les deux faces et apparaissent presque aussi nettement au dos. Une étoffe sérigraphiée ou imprimée numériquement ne porte le motif que sur une seule surface et paraît délavée à l'envers. Les lignes sont aussi un indice : le canting laisse des lignes irrégulières qui ne se répètent jamais parfaitement, le blok donne une répétition nette avec de discrètes jonctions, tandis que l'impression à la machine se répète avec précision, sans aucune trace de cire."
 
 lang: "fr"
-sourceContentHash: "8cf542d7e4bd7380"
+sourceContentHash: "59a7c365df5fee57"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -111,7 +111,7 @@ Il convient d'être précis ici : en 2009, l'UNESCO a inscrit le batik indonési
 
 ## Du kampung à la scène mondiale
 
-Le batik n'est pas resté figé en artisanat villageois. En 2003, le mouvement « Malaysian Batik — Crafted for the World », porté par Datin Seri Endon Mahmood, épouse du Premier ministre d'alors Abdullah Ahmad Badawi, s'est donné pour but de faire passer le batik du statut d'étoffe cérémonielle à celui de création contemporaine capable de rivaliser à l'international. En son cœur se trouvait le Piala Seri Endon, un concours annuel de création de batik organisé par la Yayasan Budi Penyayang Malaysia : lancé avec une seule catégorie de mode en 2003, il s'est enrichi d'une catégorie d'ameublement en 2004 et d'artisanat en 2005, amenant de jeunes créateurs à voir le batik comme un médium de création plutôt que comme un simple héritage.
+Le batik n'est pas resté figé en artisanat villageois. En 2003, le mouvement « Malaysian Batik — Crafted for the World », porté par Datin Seri Endon Mahmood, épouse du Premier ministre d'alors [Abdullah Ahmad Badawi](/fr/malaysia/abdullah-ahmad-badawi), s'est donné pour but de faire passer le batik du statut d'étoffe cérémonielle à celui de création contemporaine capable de rivaliser à l'international. En son cœur se trouvait le Piala Seri Endon, un concours annuel de création de batik organisé par la Yayasan Budi Penyayang Malaysia : lancé avec une seule catégorie de mode en 2003, il s'est enrichi d'une catégorie d'ameublement en 2004 et d'artisanat en 2005, amenant de jeunes créateurs à voir le batik comme un médium de création plutôt que comme un simple héritage.
 
 L'effet a joué dans les deux sens. D'un côté, le batik apparaît désormais dans des collections de mode, des articles d'ameublement et des produits conçus pour le marché moderne, et n'est plus confiné au sarong et à la chemise de cérémonie. De l'autre, les ateliers de dessin à la main du Kelantan et du Terengganu subissent toujours la pression de l'étoffe imprimée bon marché qui imite l'aspect du batik à un coût bien moindre — la même tension qui rend la sensibilisation des acheteurs et le concours de création importants pour maintenir vivant le savoir-faire de la cire.
 

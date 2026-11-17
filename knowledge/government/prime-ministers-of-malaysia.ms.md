@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c027ec0df342599c"
+sourceContentHash: "f30a03980e8ce4a3"
 
 status: "published"
 aiAssisted: true
@@ -83,11 +83,11 @@ sembilan orang**.
 
 | # | Perdana Menteri | Memegang jawatan | Parti / gabungan |
 |---|---|---|---|
-| 1 | Tunku Abdul Rahman | 31 Ogos 1957 – 22 Sep 1970 | UMNO · Perikatan |
-| 2 | Abdul Razak Hussein | 22 Sep 1970 – 14 Jan 1976 | UMNO · mengasaskan Barisan Nasional (1973) |
-| 3 | Hussein Onn | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
+| 1 | Tunku Abdul Rahman | 31 Ogos 1957 – 22 Sep 1970 | UMNO · [Perikatan](/ms/malaysia/the-alliance) |
+| 2 | [Abdul Razak Hussein](/ms/malaysia/abdul-razak-hussein) | 22 Sep 1970 – 14 Jan 1976 | UMNO · mengasaskan Barisan Nasional (1973) |
+| 3 | [Hussein Onn](/ms/malaysia/hussein-onn) | 15 Jan 1976 – 16 Jul 1981 | UMNO · Barisan Nasional |
 | 4 | Mahathir Mohamad *(penggal ke-1)* | 16 Jul 1981 – 31 Okt 2003 | UMNO · Barisan Nasional |
-| 5 | Abdullah Ahmad Badawi | 31 Okt 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
+| 5 | [Abdullah Ahmad Badawi](/ms/malaysia/abdullah-ahmad-badawi) | 31 Okt 2003 – 3 Apr 2009 | UMNO · Barisan Nasional |
 | 6 | [Najib Razak](/malaysia/najib-razak) | 3 Apr 2009 – 9 Mei 2018 | UMNO · Barisan Nasional |
 | 7 | Mahathir Mohamad *(penggal ke-2)* | 10 Mei 2018 – 1 Mac 2020 | Pakatan Harapan |
 | 8 | [Muhyiddin Yassin](/malaysia/muhyiddin-yassin) | 1 Mac 2020 – 16 Ogos 2021 | Perikatan Nasional |

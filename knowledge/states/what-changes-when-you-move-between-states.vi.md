@@ -35,7 +35,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "3f5384eace2e70d2"
+sourceContentHash: "0d01e7c35a91fe70"
 masterLanguage: "en"
 
 status: "published"
@@ -121,7 +121,7 @@ Danh tính và quyền lợi của bạn đi theo bạn. Việc duy nhất phả
 
 ## Cái khác biệt: chuyển đến Sabah hoặc Sarawak
 
-Một lần chuyển **đến Sabah hoặc Sarawak** — hoặc giữa hai bang — không chỉ là một lần chuyển liên bang kèm thêm giấy tờ. Theo **Hiệp định Malaysia 1963 (MA63)**, cả hai bang đều giữ những quyền mà các bang Bán đảo không có, và quyền bạn sẽ cảm nhận ngay là **xuất nhập cảnh**.
+Một lần chuyển **đến Sabah hoặc Sarawak** — hoặc giữa hai bang — không chỉ là một lần chuyển liên bang kèm thêm giấy tờ. Theo **[Hiệp định Malaysia 1963](/vi/malaysia/ma63) (MA63)**, cả hai bang đều giữ những quyền mà các bang Bán đảo không có, và quyền bạn sẽ cảm nhận ngay là **xuất nhập cảnh**.
 
 - **Họ tự kiểm soát xuất nhập cảnh của mình, và điều đó được thực thi.** Một người Malaysia từ Bán đảo dùng **MyKad làm giấy tờ tùy thân** (không cần hộ chiếu) nhưng vẫn **phải qua một chốt kiểm soát nhập cảnh của bang khi vào** và được tiếp nhận như khách trong một khoảng thời gian giới hạn.
 - **Sống hoặc làm việc ở đó cần nhiều hơn việc đổi địa chỉ.** Để **làm việc, học tập hoặc cư trú lâu dài**, bạn nói chung cần một **giấy phép** từ cơ quan xuất nhập cảnh của bang — hãy sắp xếp việc này *trước khi* cho rằng bạn có thể đơn giản dọn đến ở.

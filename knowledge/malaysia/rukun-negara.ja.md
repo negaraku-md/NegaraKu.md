@@ -22,7 +22,7 @@ appliesTo: "学生、教師、公務員、そして公文書の記録に基づ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -100,7 +100,7 @@ framework: history-culture
 
 マレーシア国家公文書館の記録は、ルクンヌガラの制定を、5月13日事件（1969年）の人種暴動の後、議会制統治が停止されていた期間に位置づけている。
 
-緊急事態宣言は、1969年緊急（基本権限）第2号令（Emergency (Essential Powers) Ordinance No. 2, 1969）——P.U.(A) 149——のもとで官報告示され、1969年5月16日に発効した。トゥン・アブドゥル・ラザク・フセイン（Tun Abdul Razak Hussein）が率いる国家行動評議会（Majlis Gerakan Negara、MAGERAN）は、1969年5月16日から1971年2月23日まで、国事を執行する権限を与えられた。
+緊急事態宣言は、1969年緊急（基本権限）第2号令（Emergency (Essential Powers) Ordinance No. 2, 1969）——P.U.(A) 149——のもとで官報告示され、1969年5月16日に発効した。トゥン・[アブドゥル・ラザク・フセイン](/ja/malaysia/abdul-razak-hussein)（Tun Abdul Razak Hussein）が率いる国家行動評議会（Majlis Gerakan Negara、MAGERAN）は、1969年5月16日から1971年2月23日まで、国事を執行する権限を与えられた。
 
 1969年10月6日に開催された第5回MAGERAN会議において、国家協議会（Majlis Perundingan Negara、MPN）の設立が決定された——これは、国民統合に関する課題を協議し、解決策を模索する責務を負う機関である。1970年2月17日付の附録には66名の委員が列挙されており、内閣閣僚、州政府、政党、宗教団体、専門職団体、公共サービス、労働組合、雇用主団体、教員団体、小規模団体、報道関係者及び女性界を代表していた。
 

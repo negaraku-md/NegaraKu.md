@@ -32,7 +32,7 @@ faq:
     a: "Akta 808 제8조 제1항은 참석한 모든 이가 차렷 자세로 일어서야 한다고 정합니다. 제8조 제3항은 공공장소에서 국가(國歌)에 대하여 고의로 불경한 태도를 보이는 자는 유죄가 확정되면 RM100을 초과하지 않는 벌금 또는 1개월을 초과하지 않는 징역에 처해질 수 있다고 규정합니다."
 
 lang: "ko"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -119,7 +119,7 @@ framework: history-culture
 | 페락 노래가 선정된 이유 | "말레이적 요소를 지녔다" |
 | 첫 대중 연주 | 1957년 8월 31일 밤, 슬랑오르 클럽 광장 |
 
-국립문서고가 기록한 위원회 위원은 야콥 압둘 라티프(Ya'acob Abdul Latiff), A.T. 리드(A.T. Reid), 옹 요크 린(Ong Yoke Lin), 하지 무스타파 알바크리(Haji Mustapha Al-Bakri), 할리마톤(Halimathon), 다토 압둘 라작 후세인(Dato' Abdul Razak Hussein), 그리고 W. 크롭스(W. Crops)입니다.
+국립문서고가 기록한 위원회 위원은 야콥 압둘 라티프(Ya'acob Abdul Latiff), A.T. 리드(A.T. Reid), 옹 요크 린(Ong Yoke Lin), 하지 무스타파 알바크리(Haji Mustapha Al-Bakri), 할리마톤(Halimathon), 다토 [압둘 라작 후세인](/ko/malaysia/abdul-razak-hussein)(Dato' Abdul Razak Hussein), 그리고 W. 크롭스(W. Crops)입니다.
 
 말레이시아 정부 공식 포털은 1957년에 노래 공모가 열렸으나 적합한 선택을 내지 못했고, 이에 툰쿠 압둘 라만이 페락주의 노래를 바탕으로 삼도록 제안했다고 덧붙입니다. 이 포털은 또한 악보가 알폰소 솔리아노(Alfonso Soliano), D.S.P. 크로프(D.S.P Croff), 렌톨 대위(Captain Lenthall), A.T. 리드(A.T Reed)에 의해 완성되었고, 가사는 말레이 통치자들의 재가를 받아 툰쿠 압둘 라만이 위원장을 맡은 특별 위원회가 작성했다고 기록합니다.
 

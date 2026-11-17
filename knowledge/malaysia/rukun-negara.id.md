@@ -20,7 +20,7 @@ keyTakeaways:
   - "Pertemuan distribusi pada 2 September 1970 memutuskan teks Bahasa Malaysia adalah teks asli; versi bahasa lain adalah terjemahan"
 appliesTo: "Pelajar, guru, pegawai negeri, dan siapa saja yang perlu merujuk teks resmi Rukun Negara serta kronologi penyusunannya berdasarkan catatan arsip."
 lang: "id"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,7 +101,7 @@ Perhatikan kaitan antara dua bagian itu. Kata "cita-cita tersebut" dalam ikrar m
 
 Catatan Arsip Nasional menempatkan penyusunan Rukun Negara dalam periode penangguhan sistem pemerintahan berparlemen setelah kerusuhan kaum 13 Mei 1969.
 
-Perisytiharan Darurat diumumkan dan berlaku pada 16 Mei 1969 di bawah Ordinan No. 2 (Kuasa-Kuasa Perlu) Darurat 1969 – P.U.(A) 149. Majlis Gerakan Negara (MAGERAN), yang diketuai Tun Abdul Razak Hussein, diberi kuasa menjalankan urusan negara dari 16 Mei 1969 hingga 23 Februari 1971.
+Perisytiharan Darurat diumumkan dan berlaku pada 16 Mei 1969 di bawah Ordinan No. 2 (Kuasa-Kuasa Perlu) Darurat 1969 – P.U.(A) 149. Majlis Gerakan Negara (MAGERAN), yang diketuai Tun [Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein), diberi kuasa menjalankan urusan negara dari 16 Mei 1969 hingga 23 Februari 1971.
 
 Pada pertemuan MAGERAN yang kelima, 6 Oktober 1969, keputusan dibuat untuk mendirikan Majlis Perundingan Negara — sebuah badan yang bertanggung jawab membahas dan mencari penyelesaian atas isu terkait persatuan nasional. Lampiran bertanggal 17 Februari 1970 mendaftar 66 orang anggota, mewakili Menteri Kabinet, pemerintah negeri, partai politik, badan keagamaan, badan profesional, layanan publik, serikat pekerja, serikat pemberi kerja, perkumpulan guru, kelompok minoritas, wartawan, dan kaum wanita.
 

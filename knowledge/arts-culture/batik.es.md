@@ -33,7 +33,7 @@ faq:
     a: "Déle la vuelta a la tela. El batik auténtico de reserva con cera — ya sea canting dibujado a mano o blok estampado — se tiñe sumergiendo la tela, de modo que el patrón y el color penetran por ambas caras y se ven casi con la misma claridad por el reverso. La tela serigrafiada o impresa digitalmente lleva el motivo en una sola cara y se ve descolorida por el reverso. Las líneas también son una pista: el canting deja líneas irregulares que nunca se repiten a la perfección, el blok da una repetición pulcra con juntas tenues, mientras que la impresión a máquina se repite con precisión sin rastro de cera."
 
 lang: "es"
-sourceContentHash: "8cf542d7e4bd7380"
+sourceContentHash: "59a7c365df5fee57"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -111,7 +111,7 @@ Vale la pena ser preciso aquí: en 2009, la UNESCO inscribió el batik indonesio
 
 ## Del kampung al escenario mundial
 
-El batik no se quedó congelado como una artesanía de aldea. En 2003, el movimiento "Batik malasio — Creado para el mundo" ("Malaysian Batik — Crafted for the World"), impulsado por Datin Seri Endon Mahmood, esposa del entonces primer ministro Abdullah Ahmad Badawi, se propuso elevar el batik de tela ceremonial a diseño contemporáneo capaz de competir internacionalmente. En su centro estaba el Piala Seri Endon, un concurso anual de diseño de batik organizado por la Yayasan Budi Penyayang Malaysia: comenzó con una única categoría de moda en 2003, sumó textiles para el hogar en 2004 y artesanía en 2005, atrayendo a diseñadores más jóvenes a ver el batik como un medio de diseño y no solo como un patrimonio heredado.
+El batik no se quedó congelado como una artesanía de aldea. En 2003, el movimiento "Batik malasio — Creado para el mundo" ("Malaysian Batik — Crafted for the World"), impulsado por Datin Seri Endon Mahmood, esposa del entonces primer ministro [Abdullah Ahmad Badawi](/es/malaysia/abdullah-ahmad-badawi), se propuso elevar el batik de tela ceremonial a diseño contemporáneo capaz de competir internacionalmente. En su centro estaba el Piala Seri Endon, un concurso anual de diseño de batik organizado por la Yayasan Budi Penyayang Malaysia: comenzó con una única categoría de moda en 2003, sumó textiles para el hogar en 2004 y artesanía en 2005, atrayendo a diseñadores más jóvenes a ver el batik como un medio de diseño y no solo como un patrimonio heredado.
 
 El efecto fue en ambas direcciones. Por un lado, el batik aparece ahora en colecciones de moda, mobiliario y artículos diseñados para el mercado moderno, ya no confinado al sarong y a la camisa formal. Por otro, los talleres de dibujo a mano de Kelantan y Terengganu siguen enfrentándose a la presión de la tela estampada barata que imita el aspecto del batik a un coste mucho menor — la misma tensión que hace que la educación del comprador y el concurso de diseño importen para mantener viva la destreza de la cera.
 

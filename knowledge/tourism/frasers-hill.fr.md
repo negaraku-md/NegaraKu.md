@@ -37,7 +37,7 @@ faq:
     a: "Parcourir les sentiers nature en jungle (Bishop, Maxwell, Rompin et Kindersley sont parmi les plus connus), visiter l'aire de loisirs de la cascade de Jeriau, flâner dans le village mock-Tudor autour de la tour de l'horloge, et simplement profiter du rythme frais et lent (Wikipedia). Il y a un terrain de golf et quelque patrimoine de l'époque coloniale à voir, mais par choix, il y a très peu de vie nocturne."
 
 lang: "fr"
-sourceContentHash: "7bc61ffb1513250c"
+sourceContentHash: "72a87741425fdeb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird 
 framework: profile
 ---
 
-La plupart des stations d'altitude de Malaisie vous vendent quelque chose — un casino, une plantation de thé, une ferme de fraises, un parc à thème. Fraser's Hill vous vend l'absence de tout cela. Étalée sur un ensemble de crêtes boisées de la chaîne du Titiwangsa, c'est une petite station paisible et enveloppée de brume de l'époque coloniale où la chose la plus bruyante que vous entendrez est le chant des oiseaux, et où un pull cesse de paraître ridicule même à l'équateur. Pour les ornithologues, c'est presque une terre sacrée ; pour tous les autres, c'est l'alternative lente et discrète à ses voisines d'altitude plus tape-à-l'œil. Ce guide couvre ce qu'est réellement Fraser's Hill, pourquoi les ornithologues viennent, ce qu'il y a à voir, le fonctionnement de la route sinueuse d'accès, et à qui le lieu convient et ne convient pas.
+La plupart des stations d'altitude de Malaisie vous vendent quelque chose — un casino, une plantation de thé, une ferme de fraises, un parc à thème. Fraser's Hill vous vend l'absence de tout cela. Étalée sur un ensemble de crêtes boisées de la [chaîne du Titiwangsa](/fr/malaysia/titiwangsa-range), c'est une petite station paisible et enveloppée de brume de l'époque coloniale où la chose la plus bruyante que vous entendrez est le chant des oiseaux, et où un pull cesse de paraître ridicule même à l'équateur. Pour les ornithologues, c'est presque une terre sacrée ; pour tous les autres, c'est l'alternative lente et discrète à ses voisines d'altitude plus tape-à-l'œil. Ce guide couvre ce qu'est réellement Fraser's Hill, pourquoi les ornithologues viennent, ce qu'il y a à voir, le fonctionnement de la route sinueuse d'accès, et à qui le lieu convient et ne convient pas.
 
 ## Où se trouve Fraser's Hill, et qu'est-ce exactement ?
 
@@ -107,7 +107,7 @@ Le nom vient de **Louis James Fraser** (certaines sources l'orthographient Lewis
 
 La colline a connu une seconde vie par accident. Quand C. J. Ferguson-Davie, l'évêque de Singapour, est venu chercher le désormais disparu Fraser en 1917, il a reconnu le potentiel de la crête fraîche et boisée comme retraite d'altitude (Wikipedia). Un relevé a suivi, une route a été taillée depuis The Gap, et en **1922**, la nouvellement baptisée Fraser's Hill a ouvert aux visiteurs (Wikipedia). Les Britanniques l'ont bâtie dans le style d'un village anglais dans les nuages — c'est pourquoi l'architecture d'aujourd'hui est **surtout mock-Tudor**, à pignons à colombages et tout le reste. En 2019, la zone comptait **46 bâtiments patrimoniaux** construits entre 1919 et 1957 (Wikipedia). La tour de l'horloge qui ancre la pelouse du village est l'image de carte postale du lieu, bien qu'elle soit un repère plus tardif bâti dans le même style colonial plutôt qu'une structure coloniale d'origine.
 
-Un morceau d'histoire plus sombre et durable appartient à la route d'accès. Pendant l'**insurrection malaise**, le **7 octobre 1951**, le haut-commissaire britannique **Sir Henry Gurney a été assassiné lors d'une embuscade communiste sur la route de Fraser's Hill près de The Gap** (Wikipedia). C'est l'un des événements les plus lourds de conséquences de l'insurrection, et la route d'approche sinueuse que vous empruntez aujourd'hui est le même itinéraire. Elle est rappelée comme un fait historique grave, non comme une attraction touristique.
+Un morceau d'histoire plus sombre et durable appartient à la route d'accès. Pendant l'**[insurrection malaise](/fr/malaysia/the-emergency)**, le **7 octobre 1951**, le haut-commissaire britannique **Sir Henry Gurney a été assassiné lors d'une embuscade communiste sur la route de Fraser's Hill près de The Gap** (Wikipedia). C'est l'un des événements les plus lourds de conséquences de l'insurrection, et la route d'approche sinueuse que vous empruntez aujourd'hui est le même itinéraire. Elle est rappelée comme un fait historique grave, non comme une attraction touristique.
 
 ## Pourquoi Fraser's Hill est-elle une Mecque de l'ornithologie ?
 

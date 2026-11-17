@@ -22,7 +22,7 @@ appliesTo: "Students, teachers, civil servants and anyone who needs to refer to 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b7cede975bcf8a6f"
+sourceContentHash: "8a0c0e11e8380c12"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -101,7 +101,7 @@ Notice the link between the two parts. The phrase "these aspirations" in the ple
 
 National Archives records place the drafting of Rukun Negara within the period when parliamentary government was suspended, following the 13 May 1969 racial riots.
 
-The Emergency Proclamation was gazetted and came into force on 16 May 1969 under the Emergency (Essential Powers) Ordinance No. 2, 1969 – P.U.(A) 149. The National Operations Council (MAGERAN), led by Tun Abdul Razak Hussein, was empowered to conduct the country's affairs from 16 May 1969 until 23 February 1971.
+The Emergency Proclamation was gazetted and came into force on 16 May 1969 under the Emergency (Essential Powers) Ordinance No. 2, 1969 – P.U.(A) 149. The National Operations Council (MAGERAN), led by Tun [Abdul Razak Hussein](/en/malaysia/abdul-razak-hussein), was empowered to conduct the country's affairs from 16 May 1969 until 23 February 1971.
 
 At the fifth MAGERAN meeting, on 6 October 1969, a decision was made to establish the National Consultative Council — a body responsible for discussing and finding solutions to issues relating to national unity. An appendix dated 17 February 1970 lists 66 members, representing Cabinet Ministers, state governments, political parties, religious bodies, professional bodies, the civil service, trade unions, employer unions, teachers' associations, small groups, journalists and women.
 

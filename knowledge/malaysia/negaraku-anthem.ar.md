@@ -33,7 +33,7 @@ faq:
     a: "تلزم المادة 8(1) من القانون 808 كل من يحضر بالوقوف وقفة احترام. وتنص المادة 8(3) على أن كل من يُظهر عمداً عدم احترام للنشيد الوطني في مكان عام يجوز، عند إدانته، أن يُغرَّم بما لا يتجاوز RM100 أو يُسجَن مدة لا تتجاوز شهراً واحداً."
 
 lang: "ar"
-sourceContentHash: "c84bd6935adf2871"
+sourceContentHash: "75ff7cf1e6767a02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ framework: history-culture
 | سبب اختيار أغنية بيراك | «امتلاكها سمات ملايوية» |
 | أول أداء علني | ليلة 31 أغسطس 1957، ساحة نادي سيلانغور (Selangor Club Padang) |
 
-وكان أعضاء اللجنة الذين سجّلهم الأرشيف الوطني هم يعقوب عبد اللطيف (Ya'acob Abdul Latiff)، وA.T. Reid، وأونغ يوك لين (Ong Yoke Lin)، والحاج مصطفى البكري (Haji Mustapha Al-Bakri)، وحليمتون (Halimathon)، وداتوك عبد الرزاق حسين (Dato' Abdul Razak Hussein)، وW. Crops.
+وكان أعضاء اللجنة الذين سجّلهم الأرشيف الوطني هم يعقوب عبد اللطيف (Ya'acob Abdul Latiff)، وA.T. Reid، وأونغ يوك لين (Ong Yoke Lin)، والحاج مصطفى البكري (Haji Mustapha Al-Bakri)، وحليمتون (Halimathon)، وداتوك [عبد الرزاق حسين](/ar/malaysia/abdul-razak-hussein) (Dato' Abdul Razak Hussein)، وW. Crops.
 
 وتضيف البوابة الرسمية لحكومة ماليزيا أن مسابقة للأغاني أُقيمت في 1957 لكنها لم تثمر خياراً مناسباً، فاقترح تونكو عبد الرحمن أغنية ولاية بيراك أساساً. وتسجّل البوابة أيضاً أن التدوين الموسيقي أنجزه ألفونسو سوليانو (Alfonso Soliano)، وD.S.P Croff، والكابتن لينثال (Captain Lenthall)، وA.T Reed، في حين صاغ الكلمات لجنة خاصة برئاسة تونكو عبد الرحمن بموافقة حكام الملايو.
 

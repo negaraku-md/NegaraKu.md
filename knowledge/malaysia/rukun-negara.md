@@ -100,7 +100,7 @@ Perhatikan pautan antara dua bahagian itu. Perkataan "cita-cita tersebut" dalam 
 
 Rekod Arkib Negara meletakkan penggubalan Rukun Negara dalam tempoh penggantungan sistem kerajaan berparlimen selepas rusuhan kaum 13 Mei 1969.
 
-Perisytiharan Darurat diwartakan dan berkuat kuasa pada 16 Mei 1969 di bawah Ordinan No. 2 (Kuasa-Kuasa Perlu) Darurat 1969 – P.U.(A) 149. Majlis Gerakan Negara (MAGERAN), yang diketuai Tun Abdul Razak Hussein, diberi kuasa menjalankan urusan negara dari 16 Mei 1969 hingga 23 Februari 1971.
+Perisytiharan Darurat diwartakan dan berkuat kuasa pada 16 Mei 1969 di bawah Ordinan No. 2 (Kuasa-Kuasa Perlu) Darurat 1969 – P.U.(A) 149. Majlis Gerakan Negara (MAGERAN), yang diketuai Tun [Abdul Razak Hussein](/malaysia/abdul-razak-hussein), diberi kuasa menjalankan urusan negara dari 16 Mei 1969 hingga 23 Februari 1971.
 
 Pada mesyuarat MAGERAN yang kelima, 6 Oktober 1969, keputusan dibuat untuk menubuhkan Majlis Perundingan Negara — sebuah badan yang bertanggungjawab membincang dan mencari penyelesaian kepada isu berkaitan perpaduan nasional. Lampiran bertarikh 17 Februari 1970 menyenaraikan 66 orang ahli, mewakili Menteri Kabinet, kerajaan negeri, parti politik, badan keagamaan, badan profesional, perkhidmatan awam, kesatuan sekerja, kesatuan majikan, persatuan guru, kumpulan kecil, wartawan dan kaum wanita.
 

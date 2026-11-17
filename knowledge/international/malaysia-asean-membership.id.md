@@ -38,7 +38,7 @@ faq:
     a: "Sekretariat ASEAN berpusat di Jakarta, Indonesia. Ia dipimpin oleh Sekretaris Jenderal ASEAN, kini Dr. Kao Kim Hourn dari Kamboja."
 
 lang: "id"
-sourceContentHash: "a6367ba8ba6baac1"
+sourceContentHash: "cac95ec6f5df6c8a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -134,8 +134,7 @@ framework: explainer
 
 Pada 8 Agustus 1967, lima pria berkumpul di aula utama gedung Kementerian
 Luar Negeri di Bangkok dan menandatangani sehelai dokumen dua halaman. Salah
-seorang dari mereka, Timbalan Perdana Menteri Malaysia Tun Abdul Razak
-Hussein, sedang menempatkan Malaysia dalam sebuah organisasi yang kelak
+seorang dari mereka, Timbalan Perdana Menteri Malaysia [Tun Abdul Razak Hussein](/id/malaysia/abdul-razak-hussein), sedang menempatkan Malaysia dalam sebuah organisasi yang kelak
 menjadi kerangka utama kebijakan luar negeri negara ini selama hampir enam dekade — dan
 yang diketuai Malaysia sendiri pada 2025.
 
