@@ -31,7 +31,7 @@ faq:
   - q: "Comment la fabrication alimentaire est-elle réglementée en Malaisie ?"
     a: "La sécurité et l'étiquetage des aliments sont régis par le Food Act 1983 et ses règles subsidiaires (telles que les Food Regulations 1985 et les Food Hygiene Regulations 2009), administrés par le ministère de la Santé. Les allégations halal sont contrôlées séparément par le Department of Islamic Development Malaysia (JAKIM), qui délivre la certification halal officielle."
 lang: fr
-sourceContentHash: "ac70589426331148"
+sourceContentHash: "391a7deab0b3d94e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -135,7 +135,7 @@ S'il est une chose qui distingue l'agroalimentaire malaisien à l'international,
 
 L'échelle est significative. Les exportations totales de produits halal de la Malaisie ont atteint environ **RM61,79 milliards en 2024**, en hausse d'environ 15 % par rapport aux RM53,72 milliards de l'année précédente, selon le ministère du Commerce ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024) ; [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). Les aliments transformés sont une part centrale de ce panier, et le gouvernement a cité des projections du marché halal mondial d'environ 5 billions de dollars US d'ici 2030 comme l'enjeu.
 
-L'élan à l'exportation a été fort dans de nouvelles régions. MATRADE a fait état d'exportations d'aliments transformés vers l'Europe d'environ RM3,48 milliards en 2024 — un bond d'environ 70 % — menées par les produits du cacao, la crème non laitière, la confiserie et les biscuits, et d'exportations vers le Moyen-Orient et l'Afrique du Nord d'environ RM2,32 milliards, les EAU étant le plus grand marché unique là-bas ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Des agences telles que la Halal Development Corporation (HDC) et MATRADE poussent activement l'agroalimentaire malaisien dans les salons professionnels tels que Gulfood et Anuga. Pour le tableau plus large, voir le guide de l'[industrie et de l'économie halal](/fr/industries/halal-industry-economy/) et le fonctionnement de la [certification halal](/fr/industries/halal-certification-system/).
+L'élan à l'exportation a été fort dans de nouvelles régions. [MATRADE](/fr/government/matrade) a fait état d'exportations d'aliments transformés vers l'Europe d'environ RM3,48 milliards en 2024 — un bond d'environ 70 % — menées par les produits du cacao, la crème non laitière, la confiserie et les biscuits, et d'exportations vers le Moyen-Orient et l'Afrique du Nord d'environ RM2,32 milliards, les EAU étant le plus grand marché unique là-bas ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Des agences telles que la Halal Development Corporation (HDC) et MATRADE poussent activement l'agroalimentaire malaisien dans les salons professionnels tels que Gulfood et Anuga. Pour le tableau plus large, voir le guide de l'[industrie et de l'économie halal](/fr/industries/halal-industry-economy/) et le fonctionnement de la [certification halal](/fr/industries/halal-certification-system/).
 
 ## Qui sont les acteurs clés ?
 

@@ -31,7 +31,7 @@ faq:
   - q: "Quel soutien gouvernemental existe-t-il pour le secteur M&E ?"
     a: "Le M&E est une industrie de haute technologie prioritaire de la MIDA, éligible aux incitations à l'investissement, et il est central dans la politique nationale d'Industrie 4.0 Industry4WRD, qui offre des subventions telles que l'Industry4WRD Intervention Fund et le Domestic Investment Strategic Fund aux firmes qui adoptent l'automatisation et la technologie avancée."
 lang: fr
-sourceContentHash: "1c9235696250bb17"
+sourceContentHash: "019ba1901dcb4865"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ L'intérêt pour l'investissement a suivi cette croissance. La MIDA fait état d
 
 Les **machines de procédé spécialisées** sont l'atout remarquable de la Malaisie. Le pays a bâti une capacité profonde dans les **équipements automatisés de test, d'assemblage et de manutention pour l'industrie des semi-conducteurs et de l'électronique**, aux côtés des **machines de meunerie et de transformation de l'huile de palme** et des **lignes de transformation alimentaire et de boissons**. La MIDA pointe aussi les équipements de production en eau profonde pour le pétrole et le gaz, le moulage de précision et la production d'énergie.
 
-Les **machines d'usinage des métaux et machines-outils** forment le socle physique sous tout cela. MATRADE répertorie des machines-outils et pièces fabriquées en Malaisie, dont les machines de découpe laser, les centres d'usinage, les machines à électroérosion (EDM) et les machines de fraisage et de forgeage. L'usinage de précision, l'outillage et la fabrication métallique à haute tolérance sont ce qui rend possibles en premier lieu les systèmes automatisés plus complexes.
+Les **machines d'usinage des métaux et machines-outils** forment le socle physique sous tout cela. [MATRADE](/fr/government/matrade) répertorie des machines-outils et pièces fabriquées en Malaisie, dont les machines de découpe laser, les centres d'usinage, les machines à électroérosion (EDM) et les machines de fraisage et de forgeage. L'usinage de précision, l'outillage et la fabrication métallique à haute tolérance sont ce qui rend possibles en premier lieu les systèmes automatisés plus complexes.
 
 L'**automatisation et la robotique industrielles** sont la frontière de croissance. À mesure que les salaires augmentent et que les clients exigent de la régularité, les firmes malaisiennes passent de la construction de machines individuelles à l'intégration de systèmes entièrement automatisés — cellules robotisées, inspection par vision et sous-systèmes d'usine intelligente — les capacités les plus directement récompensées par l'agenda d'Industrie 4.0 du pays.
 

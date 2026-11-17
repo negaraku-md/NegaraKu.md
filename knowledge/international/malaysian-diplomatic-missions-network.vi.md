@@ -32,7 +32,7 @@ faq:
     a: "Hầu hết các đại sứ quán và cao ủy nước ngoài thường trú ở Kuala Lumpur và Putrajaya, với một số quốc gia cũng vận hành các lãnh sự quán ở các thành phố như Penang, Johor Bahru, Kota Kinabalu và Kuching."
 
 lang: "vi"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ Mất hộ chiếu ở Lima, bị bắt ở Doha, hay cần công chứng một 
 
 ## Mạng lưới ở nước ngoài của Malaysia lớn đến mức nào?
 
-Bộ Ngoại giao chia sự hiện diện ở nước ngoài của mình thành một số loại cơ quan đại diện. Gộp lại chúng lên đến **111 cơ quan đại diện ở 85 quốc gia**.
+[Bộ Ngoại giao](/vi/government/ministry-of-foreign-affairs-wisma-putra) chia sự hiện diện ở nước ngoài của mình thành một số loại cơ quan đại diện. Gộp lại chúng lên đến **111 cơ quan đại diện ở 85 quốc gia**.
 
 | Loại cơ quan đại diện | Số lượng | Nó là gì |
 | --- | ---: | --- |

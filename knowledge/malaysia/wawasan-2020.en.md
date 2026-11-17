@@ -32,7 +32,7 @@ faq:
     a: "Shared Prosperity Vision 2030 (WKB 2030) was launched in October 2019 as the successor vision, focusing on equitable prosperity for the 2021 to 2030 period."
 
 lang: "en"
-sourceContentHash: "d7d57585a7686755"
+sourceContentHash: "64099ed3e8eb2be7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ The issues of the income gap and social unity remain themes of public discussion
 
 ## What replaced Wawasan 2020?
 
-As the Wawasan 2020 period neared its end, the government introduced a successor vision. Shared Prosperity Vision 2030 (WKB 2030) was launched in October 2019 for the 2021 to 2030 period, focusing on sustainable economic growth and a more equitable distribution of prosperity across all groups. The Ministry of Economy provides the official WKB 2030 document in both Malay and English.
+As the Wawasan 2020 period neared its end, the government introduced a successor vision. Shared Prosperity Vision 2030 (WKB 2030) was launched in October 2019 for the 2021 to 2030 period, focusing on sustainable economic growth and a more equitable distribution of prosperity across all groups. The [Ministry of Economy](/en/government/ministry-of-economy-malaysia-plans) provides the official WKB 2030 document in both Malay and English.
 
 Looking ahead, a World Bank report in February 2025 estimated that Malaysia is likely to transition to high-income status between 2028 and 2030 — a few years after the original Wawasan 2020 target date.
 

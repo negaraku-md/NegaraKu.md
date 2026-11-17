@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana e-dagang telah mengubah runcit Malaysia?
     a: Beli-belah dalam talian telah berkembang pesat, diterajui platform seperti Shopee dan Lazada, dan sempadan antara runcit dalam talian dan fizikal telah kabur apabila peruncit tradisional menambah penghantaran, click-and-collect dan gedung dalam talian. Angka pendapatan e-dagang DOSM mencecah lingkungan trilion ringgit, walaupun jumlah itu merangkumi pembuatan dan perkhidmatan, bukan runcit sahaja.
 lang: ms
-sourceContentHash: "f2f74b511fb8617a"
+sourceContentHash: "7023892418e3b1e5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -145,7 +145,7 @@ Peralihan yang lebih penting ialah kekaburan antara dalam talian dan luar talian
 
 ## Penyertaan asing dan lesen WRT
 
-Perdagangan edaran ialah salah satu sektor yang Malaysia mengawal pemilikan asing. Syarikat milik asing yang mahu menjual secara borong atau runcit umumnya tertakluk di bawah garis panduan Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (**KPDN**) mengenai penyertaan asing dalam perdagangan edaran, dan lazimnya memerlukan **lesen perdagangan borong/runcit (WRT)**.
+Perdagangan edaran ialah salah satu sektor yang Malaysia mengawal pemilikan asing. Syarikat milik asing yang mahu menjual secara borong atau runcit umumnya tertakluk di bawah garis panduan [Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup](/ms/government/ministry-of-domestic-trade-kpdn) (**KPDN**) mengenai penyertaan asing dalam perdagangan edaran, dan lazimnya memerlukan **lesen perdagangan borong/runcit (WRT)**.
 
 Peraturan menetapkan syarat yang berubah dari format ke format. Format yang lebih besar seperti pasar raya besar mempunyai keperluan modal minimum yang lebih tinggi, dan dari segi sejarah terdapat syarat ke atas penyertaan ekuiti Bumiputera serta pengambilan kakitangan yang mencerminkan komposisi demografi negara. Beberapa format yang lebih kecil — seperti pasar raya kecil, mini-market, kedai provision dan kedai serbaneka 24 jam — umumnya dikhaskan untuk pemilikan rakyat Malaysia. Oleh sebab ambang dan senarai ini dipinda secara berkala, sesiapa yang merancang untuk melabur harus mengesahkan edisi semasa garis panduan dengan KPDN. Mekanik praktikal lesen ini diterangkan dalam [panduan lesen WRT](/business/wrt-licence-malaysia/).
 

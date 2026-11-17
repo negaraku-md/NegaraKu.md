@@ -34,7 +34,7 @@ faq:
     a: "Itu ialah penipuan pinjaman fi pendahuluan klasik. Berhenti membayar dengan serta-merta, hubungi Pusat Respons Scam Kebangsaan di 997 (ia boleh cuba membekukan akaun tempat wang itu pergi), semak nombor akaun atau nombor telefon pada Semak Mule di semakmule.rmp.gov.my, dan buat laporan polis. Seorang pemberi pinjaman berlesen yang sah tidak pernah mengenakan fi sebelum mengeluarkan sesuatu pinjaman."
 
 lang: "ms"
-sourceContentHash: "af403774efa8800e"
+sourceContentHash: "ab121346e7722ba5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Apabila sebuah bank berkata tidak dan wang suntuk, iklan seterusnya tidak pernah
 
 ## Apakah yang menjadikan seorang pemberi pinjaman wang "berlesen"?
 
-Seorang pemberi pinjaman wang ialah perniagaan yang memberi pinjaman wang untuk keuntungan di luar sistem perbankan. Di Semenanjung Malaysia ia mesti memegang lesen yang dikeluarkan di bawah **Akta Pemberi Pinjaman Wang 1951 (Akta 400)** oleh **Kementerian Perumahan dan Kerajaan Tempatan (KPKT)**. Pada 2021 KPKT menjenamakan semula perdagangan berlesen itu sebagai **Komuniti Kredit**, jadi bahan rasmi menggunakan kedua-dua nama — tetapi undang-undang yang mentadbir dan keperluan pelesenan tidak berubah.
+Seorang pemberi pinjaman wang ialah perniagaan yang memberi pinjaman wang untuk keuntungan di luar sistem perbankan. Di Semenanjung Malaysia ia mesti memegang lesen yang dikeluarkan di bawah **Akta Pemberi Pinjaman Wang 1951 (Akta 400)** oleh **[Kementerian Perumahan dan Kerajaan Tempatan](/ms/government/ministry-of-housing-local-government-kpkt) (KPKT)**. Pada 2021 KPKT menjenamakan semula perdagangan berlesen itu sebagai **Komuniti Kredit**, jadi bahan rasmi menggunakan kedua-dua nama — tetapi undang-undang yang mentadbir dan keperluan pelesenan tidak berubah.
 
 Lesen itu penting kerana ia membawa pemberi pinjaman ke bawah peraturan sebenar: faedah yang dihadkan, caj yang terhad, perjanjian pinjaman yang ditetapkan, dan sekatan kelakuan (contohnya, pemberi pinjaman berlesen tidak boleh muncul di rumah atau tempat kerja anda untuk mengutip). Pemberi pinjaman tidak berlesen tidak terikat dengan mana-mana daripada ini dan beroperasi sebagai penjenayah.
 

@@ -77,7 +77,7 @@ Untuk mengubah subsidi menyeluruh kepada bantuan yang lebih bersasar, kerajaan p
 
 ## Apa itu PADU?
 
-PADU, atau Pangkalan Data Utama, ialah pangkalan data induk kebangsaan yang dilancarkan oleh Perdana Menteri Anwar Ibrahim pada 2 Januari 2024. Ia dibangunkan bersama oleh Kementerian Ekonomi, Jabatan Perangkaan Malaysia (DOSM) dan Unit Pemodenan Tadbiran dan Perancangan Pengurusan Malaysia (MAMPU).
+PADU, atau Pangkalan Data Utama, ialah pangkalan data induk kebangsaan yang dilancarkan oleh Perdana Menteri Anwar Ibrahim pada 2 Januari 2024. Ia dibangunkan bersama oleh [Kementerian Ekonomi](/government/ministry-of-economy-malaysia-plans), Jabatan Perangkaan Malaysia (DOSM) dan Unit Pemodenan Tadbiran dan Perancangan Pengurusan Malaysia (MAMPU).
 
 Menurut kerajaan, tujuannya adalah menghimpunkan gambaran sosioekonomi rakyat dalam satu tempat supaya subsidi dan bantuan dapat disasarkan kepada kumpulan yang ditetapkan, dan bukan disalurkan secara menyeluruh kepada semua lapisan pendapatan.
 

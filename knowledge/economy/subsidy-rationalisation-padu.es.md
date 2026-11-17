@@ -31,7 +31,7 @@ faq:
     a: "El Ministerio de Finanzas estima ahorros de alrededor de RM5 mil millones al año desde que comenzó la racionalización del diésel el 10 de junio de 2024."
 
 lang: "es"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Durante años, el gobierno malasio subsidió el combustible, la electricidad y l
 
 PADU, abreviatura de Pangkalan Data Utama, fue lanzada por el primer ministro Datuk Seri Anwar Ibrahim el 2 de enero de 2024 en Putrajaya. Es una base de datos central que combina los perfiles individuales y familiares de ciudadanos y residentes permanentes en una única referencia.
 
-Cada perfil contiene información demográfica, localidad, estatus socioeconómico, empleo, ingresos, educación, propiedad de vehículos, situación de pobreza y el tipo de ayuda que se recibe actualmente. Su construcción implicó la cooperación entre el Ministerio de Economía, el Departamento de Estadística de Malasia (DOSM) y MAMPU, con datos extraídos de diversos organismos gubernamentales.
+Cada perfil contiene información demográfica, localidad, estatus socioeconómico, empleo, ingresos, educación, propiedad de vehículos, situación de pobreza y el tipo de ayuda que se recibe actualmente. Su construcción implicó la cooperación entre el [Ministerio de Economía](/es/government/ministry-of-economy-malaysia-plans), el Departamento de Estadística de Malasia (DOSM) y MAMPU, con datos extraídos de diversos organismos gubernamentales.
 
 Es importante entenderlo: PADU no es un mecanismo de fijación de precios. No establece cuántos sen por litro cuesta el combustible en el surtidor. Su función es más fundamental: responde a la pregunta «¿quién reúne los requisitos?» para que los subsidios puedan desviarse de forma focalizada. Por eso PADU se describe a menudo como el motor de datos detrás de la racionalización de subsidios, y no como la racionalización de subsidios en sí.
 

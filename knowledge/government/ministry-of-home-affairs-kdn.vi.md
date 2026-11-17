@@ -27,7 +27,7 @@ faq:
   - q: "Ai là Bộ trưởng Nội vụ?"
     a: "Tính đến năm 2026, Bộ trưởng Nội vụ là Datuk Seri Panglima Saifuddin Nasution bin Ismail, nhậm chức từ ngày 3 tháng 12 năm 2022. Các danh mục nội các thay đổi theo mỗi lần cải tổ, vì vậy hãy xác nhận người đương nhiệm hiện tại trên moha.gov.my."
 lang: "vi"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -132,7 +132,7 @@ và hội đồng** theo luật định khác nhau.
 | Cục Quản lý Trại giam | Hội đồng Chống Buôn người (MAPO) |
 | Cục Đăng ký Quốc gia (JPN) | Hội đồng Phòng chống Tội phạm |
 | Cơ quan Đăng ký Hội đoàn (ROS) | Hội đồng Ân xá |
-| Đội Tình nguyện Nhân dân (RELA) | Hội đồng Kiểm duyệt Phim |
+| [Đội Tình nguyện Nhân dân](/vi/government/peoples-volunteer-corps-rela) (RELA) | Hội đồng Kiểm duyệt Phim |
 | Cơ quan Thực thi Hàng hải (MMEA/APMM) | Hội đồng Phòng chống Khủng bố |
 | Bộ Tư lệnh An ninh Đông Sabah (ESSCOM) | Cơ quan In ấn Quốc gia (PNMB) |
 

@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-Hỏi bất kỳ ai ở Malaysia nên gọi ai khi một tòa nhà đang cháy hoặc có người bị mắc kẹt, và câu trả lời đều là cùng một từ duy nhất: **Bomba**. **Cục Phòng cháy và Cứu hộ Malaysia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), được gần như tất cả mọi người gọi đơn giản là **BOMBA** — là cơ quan liên bang chịu trách nhiệm chữa cháy, cứu hộ, ứng phó vật liệu nguy hiểm và thực thi an toàn phòng cháy trên khắp đất nước. Nó là một cơ quan trực thuộc **Bộ Nhà ở và Chính quyền Địa phương** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), và trong trường hợp khẩn cấp nó được liên hệ bằng cách gọi số **999**.
+Hỏi bất kỳ ai ở Malaysia nên gọi ai khi một tòa nhà đang cháy hoặc có người bị mắc kẹt, và câu trả lời đều là cùng một từ duy nhất: **Bomba**. **Cục Phòng cháy và Cứu hộ Malaysia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), được gần như tất cả mọi người gọi đơn giản là **BOMBA** — là cơ quan liên bang chịu trách nhiệm chữa cháy, cứu hộ, ứng phó vật liệu nguy hiểm và thực thi an toàn phòng cháy trên khắp đất nước. Nó là một cơ quan trực thuộc [**Bộ Nhà ở và Chính quyền Địa phương**](/vi/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), và trong trường hợp khẩn cấp nó được liên hệ bằng cách gọi số **999**.
 
 ## BOMBA là gì?
 

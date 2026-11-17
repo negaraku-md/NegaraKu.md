@@ -35,7 +35,7 @@ faq:
     a: "El origen es genuinamente disputado, y las fuentes de prestigio subrayan que sus ingredientes y técnicas se comparten por todo el Sudeste Asiático en lugar de pertenecer a un solo país. Una teoría muy citada lo vincula con la bebida javanesa dawet de Indonesia; otras apuntan a registros tempranos tailandeses y malayos. Como la historia de la comida en la región estuvo poco documentada, esta página trata las afirmaciones de origen único como no resueltas."
 
 lang: "es"
-sourceContentHash: "5d5bbd7760529e25"
+sourceContentHash: "97259dabe37e7115"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ El cendol no pertenece a ningún país en concreto, y las fuentes de prestigio t
 
 El origen es genuinamente debatido, y esta página trata las historias en competencia como no resueltas en lugar de elegir una ganadora. Una teoría muy citada vincula el cendol con la bebida indonesia **dawet**, asociada desde hace mucho con Java; otros relatos apuntan a registros tempranos de la corte tailandesa o a referencias del mundo malayo, y algunos lo conectan especulativamente con el faloodeh persa a través del falooda indio. Los historiadores señalan que la historia de la comida en la región estuvo poco documentada, que es precisamente por lo que resulta difícil hacer afirmaciones nítidas de origen único. Lo que sí está claro es que las versiones con hielo florecieron en puertos de la época colonial como **Melaka** y **Penang**, donde el hielo importado por barco hizo posibles los postres fríos.
 
-Ese estatus compartido se reconoce ahora formalmente en varios lugares: Indonesia ha catalogado el dawet, el es cendol y el cendol como patrimonio cultural inmaterial en diversas regiones, el **Departamento de Patrimonio Nacional** de Malasia designa el cendol como alimento patrimonial, y Singapur lo ha incluido en su candidatura ante la UNESCO para la cultura de los puestos ambulantes. (Estos reconocimientos y sus fechas están resumidos de fuentes secundarias y se señalan para verificación.)
+Ese estatus compartido se reconoce ahora formalmente en varios lugares: Indonesia ha catalogado el dawet, el es cendol y el cendol como patrimonio cultural inmaterial en diversas regiones, el [**Departamento de Patrimonio Nacional**](/es/government/department-of-national-heritage) de Malasia designa el cendol como alimento patrimonial, y Singapur lo ha incluido en su candidatura ante la UNESCO para la cultura de los puestos ambulantes. (Estos reconocimientos y sus fechas están resumidos de fuentes secundarias y se señalan para verificación.)
 
 ## Dónde y cómo se come
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 그리고 한 회계연도를 넘어 국가 개발이 어떻게 계획되는지 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ framework: explainer
 
 ## 말레이시아 계획이 실제로 무엇인가
 
-말레이시아 계획은 1년의 지출 수치도 아니고 법률도 아닙니다. 이는 경제부가 편성하는 정책
+말레이시아 계획은 1년의 지출 수치도 아니고 법률도 아닙니다. 이는 [경제부](/ko/government/ministry-of-economy-malaysia-plans)가 편성하는 정책
 문서로, 5년 기간에 대한 개발 핵심축, 정책 우선순위, 전략, 성과 목표를 정한 뒤 — 공급 법안
 같은 법안이 아니라 토론과 국회 승인을 위한 **동의안**으로 제출됩니다.
 

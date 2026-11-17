@@ -27,7 +27,7 @@ faq:
   - q: "உள்துறை அமைச்சர் யார்?"
     a: "2026 நிலவரப்படி உள்துறை அமைச்சர் Datuk Seri Panglima Saifuddin Nasution bin Ismail, 3 டிசம்பர் 2022 முதல் பதவியில் உள்ளார். அமைச்சரவைப் பொறுப்புகள் மறுசீரமைப்புகளுடன் மாறுகின்றன, எனவே தற்போதைய பதவியில் இருப்பவரை moha.gov.my-இல் உறுதிப்படுத்தவும்."
 lang: "ta"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -136,7 +136,7 @@ KDN-இன் பொதுமக்களை நேரடியாக எதி�
 | சிறைத் துறை (Prison Department) | ஆள் கடத்தல் எதிர்ப்பு மன்றம் (Anti-Trafficking-in-Persons council, MAPO) |
 | தேசிய பதிவுத் துறை (National Registration Department, JPN) | குற்றத் தடுப்பு வாரியம் (Prevention of Crime Board) |
 | சங்கங்கள் பதிவகம் (Registry of Societies, ROS) | பரோல் வாரியம் (Parole Board) |
-| மக்கள் தன்னார்வப் படை (People's Volunteer Corps, RELA) | திரைப்பட தணிக்கை வாரியம் (Film Censorship Board) |
+| [மக்கள் தன்னார்வப் படை](/ta/government/peoples-volunteer-corps-rela) (People's Volunteer Corps, RELA) | திரைப்பட தணிக்கை வாரியம் (Film Censorship Board) |
 | கடல்சார் அமலாக்க முகமை (Maritime Enforcement Agency, MMEA/APMM) | பயங்கரவாதத் தடுப்பு வாரியம் (Prevention of Terrorism Board) |
 | கிழக்கு சபா பாதுகாப்பு கட்டளையகம் (Eastern Sabah Security Command, ESSCOM) | தேசிய அச்சகம் (National Printing, PNMB) |
 

@@ -35,7 +35,7 @@ faq:
     a: "Asal-usulnya benar-benar diperdebatkan, dan sumber-sumber tepercaya menekankan bahwa bahan dan tekniknya dimiliki bersama di seluruh Asia Tenggara alih-alih milik satu negara. Satu teori yang banyak dikutip menghubungkannya dengan minuman Jawa dawet di Indonesia; yang lain menunjuk pada catatan awal Thai dan Melayu. Karena sejarah makanan di kawasan ini kurang terdokumentasi, halaman ini memperlakukan klaim asal-usul tunggal sebagai belum terselesaikan."
 
 lang: "id"
-sourceContentHash: "5d5bbd7760529e25"
+sourceContentHash: "97259dabe37e7115"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Cendol tidak milik negara tunggal mana pun, dan sumber-sumber tepercaya berhati-
 
 Asal-usulnya benar-benar diperdebatkan, dan halaman ini memperlakukan cerita-cerita yang bersaing sebagai belum terselesaikan alih-alih memilih pemenang. Satu teori yang banyak dikutip menghubungkan cendol dengan minuman Indonesia **dawet**, yang lama dikaitkan dengan Jawa; catatan lain menunjuk pada catatan istana Thai awal atau rujukan dunia Melayu, dan sebagian secara spekulatif mengaitkannya dengan faloodeh Persia melalui falooda India. Para sejarawan mencatat bahwa sejarah makanan di kawasan ini kurang terdokumentasi, yang justru menjadi alasan mengapa klaim asal-usul tunggal yang bersih sulit dibuat. Yang jelas adalah bahwa versi yang memakai es berkembang pesat di pelabuhan-pelabuhan era kolonial seperti **Melaka** dan **Penang**, tempat es kapal impor memungkinkan hidangan penutup dingin.
 
-Status dimiliki-bersama itu kini diakui secara resmi di beberapa tempat: Indonesia telah mendaftarkan dawet, es cendol, dan cendol sebagai warisan budaya takbenda di berbagai daerah, **Departemen Warisan Nasional** Malaysia menetapkan cendol sebagai makanan warisan, dan Singapura telah menyertakannya dalam pengajuannya ke UNESCO untuk budaya pedagang kaki lima. (Pengakuan-pengakuan ini dan tanggalnya diringkas dari sumber sekunder dan ditandai untuk verifikasi.)
+Status dimiliki-bersama itu kini diakui secara resmi di beberapa tempat: Indonesia telah mendaftarkan dawet, es cendol, dan cendol sebagai warisan budaya takbenda di berbagai daerah, [**Departemen Warisan Nasional**](/id/government/department-of-national-heritage) Malaysia menetapkan cendol sebagai makanan warisan, dan Singapura telah menyertakannya dalam pengajuannya ke UNESCO untuk budaya pedagang kaki lima. (Pengakuan-pengakuan ini dan tanggalnya diringkas dari sumber sekunder dan ditandai untuk verifikasi.)
 
 ## Di mana dan bagaimana ia disantap
 

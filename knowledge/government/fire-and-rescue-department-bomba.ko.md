@@ -27,7 +27,7 @@ faq:
   - q: "내 건물에 BOMBA의 소방증명서가 필요합니까?"
     a: "지정된 고위험 건물은 소방안전 검사를 거친 뒤, 소방서비스법 1988에 따라 BOMBA가 발급하는 소방증명서(Perakuan Bomba)를 취득·유지해야 합니다. 특정 건물이 '지정 건물'인지와 현행 양식·수수료는 BOMBA 또는 인근 소방서에 확인해야 합니다."
 lang: "ko"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-말레이시아에서 건물에 불이 났거나 누군가 갇혔을 때 누구에게 전화해야 하는지 아무에게나 물어보면, 대답은 한결같이 한 단어입니다: **봄바(Bomba)**. **말레이시아 소방구조청** — *Jabatan Bomba dan Penyelamat Malaysia*(**JBPM**), 거의 모두에게 그저 **BOMBA**로 알려진 — 는 전국의 소방, 구조, 유해물질 대응, 소방안전 집행을 담당하는 연방 기관입니다. **주택지방정부부**(*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) 산하 기관이며, 긴급 시 **999**를 눌러 연결됩니다.
+말레이시아에서 건물에 불이 났거나 누군가 갇혔을 때 누구에게 전화해야 하는지 아무에게나 물어보면, 대답은 한결같이 한 단어입니다: **봄바(Bomba)**. **말레이시아 소방구조청** — *Jabatan Bomba dan Penyelamat Malaysia*(**JBPM**), 거의 모두에게 그저 **BOMBA**로 알려진 — 는 전국의 소방, 구조, 유해물질 대응, 소방안전 집행을 담당하는 연방 기관입니다. [**주택지방정부부**](/ko/government/ministry-of-housing-local-government-kpkt)(*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) 산하 기관이며, 긴급 시 **999**를 눌러 연결됩니다.
 
 ## BOMBA란 무엇인가?
 

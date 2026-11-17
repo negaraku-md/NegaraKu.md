@@ -117,7 +117,7 @@ Selama bertahun-tahun, kerajaan Malaysia menyubsidi minyak, elektrik dan makanan
 
 PADU, singkatan bagi Pangkalan Data Utama, dilancarkan oleh Perdana Menteri Datuk Seri Anwar Ibrahim pada 2 Januari 2024 di Putrajaya. Ia ialah pangkalan data pusat yang menggabungkan profil individu dan isi rumah warganegara serta pemastautin tetap ke dalam satu rujukan tunggal.
 
-Setiap profil mengandungi maklumat demografi, lokaliti, status sosioekonomi, pekerjaan, pendapatan, pendidikan, pemilikan kenderaan, status kemiskinan dan jenis bantuan yang sedang diterima. Pembinaannya melibatkan kerjasama Kementerian Ekonomi, Jabatan Perangkaan Malaysia (DOSM) dan MAMPU, dengan data ditarik daripada pelbagai agensi kerajaan.
+Setiap profil mengandungi maklumat demografi, lokaliti, status sosioekonomi, pekerjaan, pendapatan, pendidikan, pemilikan kenderaan, status kemiskinan dan jenis bantuan yang sedang diterima. Pembinaannya melibatkan kerjasama [Kementerian Ekonomi](/government/ministry-of-economy-malaysia-plans), Jabatan Perangkaan Malaysia (DOSM) dan MAMPU, dengan data ditarik daripada pelbagai agensi kerajaan.
 
 Yang penting untuk difahami: PADU bukan mekanisme harga. Ia tidak menetapkan berapa sen seliter minyak di pam. Fungsinya lebih asas — ia menjawab soalan "siapa layak?" supaya subsidi boleh dialihkan secara bersasar. Inilah sebabnya PADU sering disebut sebagai enjin data di sebalik rasionalisasi subsidi, bukan rasionalisasi subsidi itu sendiri.
 

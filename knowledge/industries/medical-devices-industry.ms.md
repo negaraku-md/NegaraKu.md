@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang ada untuk pengeluar?
     a: Peranti perubatan ialah aktiviti yang digalakkan MIDA, layak untuk insentif seperti Taraf Perintis (pengecualian cukai pendapatan separa-ke-penuh untuk tempoh tertentu) dan Elaun Cukai Pelaburan ke atas perbelanjaan modal yang layak. Peranti perubatan juga dinamakan sektor keutamaan di bawah Pelan Induk Perindustrian Baharu 2030. Sahkan terma dan kelayakan semasa terus dengan MIDA.
 lang: ms
-sourceContentHash: "03a22155918ac33b"
+sourceContentHash: "0f609e23d14a24f5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Panduan ini melihat industri peranti perubatan secara khusus: pembuatan peranti 
 
 Kedudukan Malaysia paling baik digambarkan secara serantau. Dalam siaran media bersama pada Oktober 2024, MIDA dan Persatuan Industri Perubatan Malaysia (AMMI) menggambarkan Malaysia sebagai hab medtek teratas di Asia Tenggara, hos kepada pasaran peranti perubatan domestik terbesar di rantau ini — bernilai kira-kira **RM10.6 bilion pada 2023** — dan tumpuan syarikat medtek multinasional tertinggi di rantau ini.
 
-Dari segi eksport, angka berbeza dan perlu dikendalikan dengan berhati-hati. Kenyataan Kementerian Kesihatan dan media meletakkan eksport peranti perubatan 2024 pada kira-kira **RM37 bilion**, naik kira-kira 31% berbanding tahun sebelumnya. Seorang pegawai MATRADE pula secara berasingan dilaporkan memetik **AS$8.7 bilion** untuk 2024 dan meletakkan Malaysia antara lima tapak pembuatan peranti perubatan teratas dunia, bersama Costa Rica dan Puerto Rico. Angka-angka ini tidak sejajar dengan kemas, dan tiada satu jumlah utama rasmi yang disahkan untuk panduan ini, jadi setiap satu ditandakan untuk pengesahan.
+Dari segi eksport, angka berbeza dan perlu dikendalikan dengan berhati-hati. Kenyataan Kementerian Kesihatan dan media meletakkan eksport peranti perubatan 2024 pada kira-kira **RM37 bilion**, naik kira-kira 31% berbanding tahun sebelumnya. Seorang pegawai [MATRADE](/ms/government/matrade) pula secara berasingan dilaporkan memetik **AS$8.7 bilion** untuk 2024 dan meletakkan Malaysia antara lima tapak pembuatan peranti perubatan teratas dunia, bersama Costa Rica dan Puerto Rico. Angka-angka ini tidak sejajar dengan kemas, dan tiada satu jumlah utama rasmi yang disahkan untuk panduan ini, jadi setiap satu ditandakan untuk pengesahan.
 
 Jejak manusia sektor ini juga besar: **91 syarikat ahli** AMMI sahaja dilaporkan menyokong **lebih 54,000 pekerjaan** dan menyumbang lebih separuh daripada sumbangan eksport peranti perubatan negara. Merentasi ekonomi, kenyataan kementerian merujuk kepada lebih 200 pengeluar.
 

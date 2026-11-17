@@ -180,7 +180,7 @@ sasaran boleh diukur merentasi bidang seperti pekerjaan mahir, pemilikan ekuiti,
 kadar kemiskinan tegar, pemilikan rumah dan sumbangan perusahaan Bumiputera kepada
 ekonomi.
 
-Antara sasaran yang dinyatakan oleh Kementerian Ekonomi:
+Antara sasaran yang dinyatakan oleh [Kementerian Ekonomi](/government/ministry-of-economy-malaysia-plans):
 
 - **Sumbangan perusahaan Bumiputera kepada KDNK** disasarkan meningkat daripada
   **8.1 peratus (2022) kepada 15 peratus (2035)**.

@@ -30,7 +30,7 @@ lang: "ja"
 masterLanguage: "en"
 
 translationStatus: "in-sync"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 
 status: "published"
 aiAssisted: true
@@ -114,7 +114,7 @@ KDNが一般市民に対して行使する権限の多くは、本部職員に�
 | 刑務所局 | 人身取引防止評議会（MAPO） |
 | 国民登録局（JPN） | 犯罪防止委員会 |
 | 社団登録局（ROS） | 仮釈放委員会 |
-| RELA（人民志願団） | 映画検閲委員会（LPF） |
+| RELA（[人民志願団](/ja/government/peoples-volunteer-corps-rela)） | 映画検閲委員会（LPF） |
 | マレーシア海事法令執行庁（MMEA/APMM） | テロ防止委員会 |
 | 東サバ安全司令部（ESSCOM） | マレーシア国営印刷会社（PNMB） |
 

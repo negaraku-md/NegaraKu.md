@@ -23,7 +23,7 @@ appliesTo: "学生、政策分析员、记者，以及任何想了解国家发�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ framework: explainer
 
 ## 大马计划究竟是什么
 
-大马计划不是一年的开支数字，也不是法律。它是由经济部编制的政策文件，为期
+大马计划不是一年的开支数字，也不是法律。它是由[经济部](/zh/government/ministry-of-economy-malaysia-plans)编制的政策文件，为期
 五年，设定发展重点、政策优先事项、策略与成效目标——然后作为**动议**提呈国
 会辩论与批准，而不是像《拨款法案》那样以法案形式提出。
 

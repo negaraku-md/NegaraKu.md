@@ -31,7 +31,7 @@ faq:
     a: "Bộ Tài chính ước tính tiết kiệm khoảng RM5 tỷ mỗi năm kể từ khi việc hợp lý hóa diesel bắt đầu vào ngày 10 tháng 6 năm 2024."
 
 lang: "vi"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Trong nhiều năm, chính phủ Malaysia trợ giá dầu, điện và thực p
 
 PADU, viết tắt của Pangkalan Data Utama (Cơ sở Dữ liệu Chính), được Thủ tướng Datuk Seri Anwar Ibrahim ra mắt ngày 2 tháng 1 năm 2024 tại Putrajaya. Nó là một cơ sở dữ liệu trung tâm kết hợp các hồ sơ cá nhân và hộ gia đình của công dân cùng thường trú nhân vào một tài liệu tham chiếu duy nhất.
 
-Mỗi hồ sơ chứa thông tin nhân khẩu, địa phương, tình trạng kinh tế - xã hội, nghề nghiệp, thu nhập, giáo dục, sở hữu phương tiện, tình trạng nghèo và loại hỗ trợ đang được nhận. Việc xây dựng nó có sự hợp tác của Bộ Kinh tế, Cục Thống kê Malaysia (DOSM) và MAMPU, với dữ liệu được rút từ nhiều cơ quan chính phủ.
+Mỗi hồ sơ chứa thông tin nhân khẩu, địa phương, tình trạng kinh tế - xã hội, nghề nghiệp, thu nhập, giáo dục, sở hữu phương tiện, tình trạng nghèo và loại hỗ trợ đang được nhận. Việc xây dựng nó có sự hợp tác của [Bộ Kinh tế](/vi/government/ministry-of-economy-malaysia-plans), Cục Thống kê Malaysia (DOSM) và MAMPU, với dữ liệu được rút từ nhiều cơ quan chính phủ.
 
 Điều quan trọng cần hiểu: PADU không phải là một cơ chế giá. Nó không ấn định bao nhiêu sen mỗi lít dầu tại trạm bơm. Chức năng của nó cơ bản hơn — nó trả lời câu hỏi «ai đủ điều kiện?» để trợ giá có thể được chuyển một cách có mục tiêu. Đây là lý do PADU thường được nhắc tới như cỗ máy dữ liệu đằng sau việc hợp lý hóa trợ giá, chứ không phải bản thân việc hợp lý hóa trợ giá.
 

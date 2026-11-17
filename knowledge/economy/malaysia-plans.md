@@ -119,7 +119,7 @@ menterjemah strategi itu kepada peruntukan sebenar setiap tahun.
 ## Apa sebenarnya Rancangan Malaysia
 
 Rancangan Malaysia bukan angka perbelanjaan setahun, dan bukan juga
-undang-undang. Ia dokumen dasar yang disediakan oleh Kementerian Ekonomi,
+undang-undang. Ia dokumen dasar yang disediakan oleh [Kementerian Ekonomi](/government/ministry-of-economy-malaysia-plans),
 menetapkan teras pembangunan, keutamaan dasar, strategi dan sasaran
 keberhasilan bagi tempoh lima tahun — kemudian dibentangkan sebagai **usul**
 untuk perbahasan dan kelulusan Parlimen, bukan sebagai rang undang-undang

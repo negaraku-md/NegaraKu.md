@@ -27,7 +27,7 @@ faq:
   - q: "Qui est le ministre de l'Intérieur ?"
     a: "En 2026, le ministre de l'Intérieur est Datuk Seri Panglima Saifuddin Nasution bin Ismail, en poste depuis le 3 décembre 2022. Les portefeuilles ministériels changent au gré des remaniements, alors confirmez le titulaire actuel sur moha.gov.my."
 lang: "fr"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -136,7 +136,7 @@ statutaires.
 | Département des prisons | Conseil de lutte contre la traite des personnes (MAPO) |
 | Département national de l'enregistrement (JPN) | Conseil de prévention du crime |
 | Registre des associations (ROS) | Conseil de libération conditionnelle |
-| Corps des volontaires du peuple (RELA) | Conseil de la censure cinématographique |
+| [Corps des volontaires du peuple](/fr/government/peoples-volunteer-corps-rela) (RELA) | Conseil de la censure cinématographique |
 | Agence de surveillance maritime (MMEA/APMM) | Conseil de prévention du terrorisme |
 | Commandement de la sécurité de l'est de Sabah (ESSCOM) | Imprimerie nationale (PNMB) |
 

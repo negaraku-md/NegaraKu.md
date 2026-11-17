@@ -32,7 +32,7 @@ faq:
     a: "La plupart des ambassades et hauts-commissariats étrangers résidents se trouvent à Kuala Lumpur et Putrajaya, et quelques pays exploitent aussi des consulats dans des villes comme Penang, Johor Bahru, Kota Kinabalu et Kuching."
 
 lang: "fr"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ Perdez votre passeport à Lima, soyez arrêté à Doha ou ayez besoin de faire n
 
 ## Quelle est l'ampleur du réseau de la Malaisie à l'étranger ?
 
-Le ministère des Affaires étrangères répartit sa présence à l'étranger en une poignée de types de missions. Ensemble, elles totalisent **111 missions dans 85 pays**.
+Le [ministère des Affaires étrangères](/fr/government/ministry-of-foreign-affairs-wisma-putra) répartit sa présence à l'étranger en une poignée de types de missions. Ensemble, elles totalisent **111 missions dans 85 pays**.
 
 | Type de mission | Nombre | Ce que c'est |
 | --- | ---: | --- |

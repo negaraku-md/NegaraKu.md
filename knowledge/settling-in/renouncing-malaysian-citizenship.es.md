@@ -32,7 +32,7 @@ faq:
     a: "El portal MyGovernment indica que la decisión es permanente e irrevocable; quien renuncia a su ciudadanía pierde de forma permanente todos los derechos y privilegios como ciudadano malasio."
 
 lang: "es"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Un malasio que presta juramento para convertirse en ciudadano de otro país a me
 
 ## ¿Por qué Malasia no reconoce la doble ciudadanía?
 
-La posición oficial del Gobierno es que Malasia no reconoce la titularidad de más de una ciudadanía para los adultos. En 2019, el entonces ministro del Interior declaró que «Malaysia does not recognise dual citizenship» (Malasia no reconoce la doble ciudadanía), y explicó que los malasios que adquieren la ciudadanía en otro lugar pueden perder su ciudadanía malasia en virtud del artículo 24(1) de la Constitución Federal.
+La posición oficial del Gobierno es que Malasia no reconoce la titularidad de más de una ciudadanía para los adultos. En 2019, el entonces ministro del Interior declaró que «Malaysia does not recognise dual citizenship» (Malasia no reconoce la doble ciudadanía), y explicó que los malasios que adquieren la ciudadanía en otro lugar pueden perder su [ciudadanía malasia](/es/government/malaysian-citizenship-law) en virtud del artículo 24(1) de la Constitución Federal.
 
 El fundamento jurídico reside en el texto de la Constitución. El artículo 24(1) dispone:
 

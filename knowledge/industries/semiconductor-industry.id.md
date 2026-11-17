@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "e8f5baa4a042bfbe"
+sourceContentHash: "354022a73d700dc8"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -114,7 +114,7 @@ Basis back-end itu dilengkapi oleh manufaktur kontrak dan ekosistem pemasok loka
 
 ## Seberapa besar industrinya?
 
-Semikonduktor adalah kategori ekspor paling bernilai tunggal yang diproduksi Malaysia. Pada 2024, ekspor perangkat semikonduktor — sirkuit terpadu, transistor, dan tabung — bernilai sekitar **RM388 miliar**, menurut statistik perdagangan MATRADE, mencakup sebagian besar dari ekspor elektrik & elektronik (E&E) negara yang berjumlah sekitar RM601 miliar.
+Semikonduktor adalah kategori ekspor paling bernilai tunggal yang diproduksi Malaysia. Pada 2024, ekspor perangkat semikonduktor — sirkuit terpadu, transistor, dan tabung — bernilai sekitar **RM388 miliar**, menurut statistik perdagangan [MATRADE](/id/government/matrade), mencakup sebagian besar dari ekspor elektrik & elektronik (E&E) negara yang berjumlah sekitar RM601 miliar.
 
 Catatan tentang angka: sumber yang berbeda mengutip angka ekspor semikonduktor yang berbeda karena mereka menarik batasnya secara berbeda — ada yang hanya menghitung perangkat semikonduktor, ada pula yang memasukkan keranjang "produk semikonduktor" yang lebih luas. Laporan media sekitar RM437,5 miliar mencerminkan definisi yang lebih luas. Bagaimanapun juga, skalanya sangat besar: semikonduktor saja menyaingi seluruh ekonomi ekspor beberapa negara tetangga.
 

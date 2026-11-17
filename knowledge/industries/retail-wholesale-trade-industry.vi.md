@@ -31,7 +31,7 @@ faq:
   - q: Thương mại điện tử đã thay đổi ngành bán lẻ Malaysia như thế nào?
     a: Mua sắm trực tuyến đã tăng trưởng nhanh, dẫn dắt bởi các nền tảng như Shopee và Lazada, và ranh giới giữa bán lẻ trực tuyến và vật lý đã mờ đi khi các nhà bán lẻ truyền thống bổ sung giao hàng, click-and-collect và cửa hàng trực tuyến. Các con số thu nhập thương mại điện tử của DOSM lên tới hàng nghìn tỷ ringgit, dù tổng đó trải trên cả chế tạo và dịch vụ, không riêng bán lẻ.
 lang: vi
-sourceContentHash: "f2f74b511fb8617a"
+sourceContentHash: "7023892418e3b1e5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -145,7 +145,7 @@ Sự dịch chuyển quan trọng hơn là ranh giới giữa trực tuyến và
 
 ## Sự tham gia của nước ngoài và giấy phép WRT
 
-Thương mại phân phối là một trong những lĩnh vực mà Malaysia điều tiết sở hữu nước ngoài. Các công ty do nước ngoài sở hữu muốn bán buôn hoặc bán lẻ nhìn chung thuộc hướng dẫn của Bộ Nội thương và Chi phí Sinh hoạt (**KPDN**) về sự tham gia của nước ngoài trong thương mại phân phối, và thường cần một **giấy phép thương mại bán buôn/bán lẻ (WRT)**.
+Thương mại phân phối là một trong những lĩnh vực mà Malaysia điều tiết sở hữu nước ngoài. Các công ty do nước ngoài sở hữu muốn bán buôn hoặc bán lẻ nhìn chung thuộc hướng dẫn của [Bộ Nội thương và Chi phí Sinh hoạt](/vi/government/ministry-of-domestic-trade-kpdn) (**KPDN**) về sự tham gia của nước ngoài trong thương mại phân phối, và thường cần một **giấy phép thương mại bán buôn/bán lẻ (WRT)**.
 
 Các quy định đặt ra những điều kiện thay đổi theo từng định dạng. Các định dạng lớn hơn như đại siêu thị gánh yêu cầu vốn tối thiểu cao hơn, và trong lịch sử đã có các điều kiện về sự tham gia cổ phần Bumiputera và việc tuyển dụng nhân sự phản ánh cơ cấu dân số của đất nước. Một số định dạng nhỏ hơn — như siêu thị nhỏ, cửa hàng mini, cửa hàng cung ứng và cửa hàng tiện lợi 24 giờ — nhìn chung được dành riêng cho sở hữu của người Malaysia. Vì các ngưỡng và danh sách này được sửa đổi định kỳ, bất kỳ ai dự định đầu tư nên xác nhận phiên bản hiện hành của hướng dẫn với KPDN. Cơ chế thực tế của giấy phép được trình bày trong [hướng dẫn giấy phép WRT](/vi/business/wrt-licence-malaysia/).
 

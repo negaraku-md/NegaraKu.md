@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos existen para los fabricantes?
     a: Los dispositivos médicos son una actividad promovida por MIDA, elegible para incentivos como el Estatus Pionero (una exención parcial a total del impuesto sobre la renta durante un periodo determinado) y la Deducción por Inversión en Activos sobre el gasto de capital cualificable. Los dispositivos médicos también están nombrados sector prioritario en el Nuevo Plan Maestro Industrial 2030. Confirma los términos actuales y la elegibilidad directamente con MIDA.
 lang: es
-sourceContentHash: "03a22155918ac33b"
+sourceContentHash: "0f609e23d14a24f5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Un "dispositivo médico" es cualquier instrumento, aparato, implante o reactivo 
 
 La posición de Malasia se capta mejor a nivel regional. En un comunicado de prensa conjunto en octubre de 2024, MIDA y la Asociación de Industrias Médicas de Malasia (AMMI) describieron a Malasia como el principal centro de tecnología médica del Sudeste Asiático, sede del mayor mercado nacional de dispositivos médicos de la región —valorado en unos **RM10,6 mil millones en 2023**— y de la mayor concentración de empresas multinacionales de tecnología médica de la región.
 
-En cuanto a las exportaciones, las cifras varían y deben tratarse con cautela. Declaraciones del Ministerio de Salud y de los medios sitúan las exportaciones de dispositivos médicos de 2024 en aproximadamente **RM37 mil millones**, un alza de cerca del 31% sobre el año anterior. Por separado, se ha informado de que un funcionario de MATRADE citó **8.700 millones de dólares estadounidenses** para 2024 y situó a Malasia entre los cinco principales lugares de fabricación de dispositivos médicos del mundo, junto a Costa Rica y Puerto Rico. Estos números no se concilian con claridad, y no se confirmó para esta guía ningún total oficial único, por lo que cada uno se señala para verificación.
+En cuanto a las exportaciones, las cifras varían y deben tratarse con cautela. Declaraciones del Ministerio de Salud y de los medios sitúan las exportaciones de dispositivos médicos de 2024 en aproximadamente **RM37 mil millones**, un alza de cerca del 31% sobre el año anterior. Por separado, se ha informado de que un funcionario de [MATRADE](/es/government/matrade) citó **8.700 millones de dólares estadounidenses** para 2024 y situó a Malasia entre los cinco principales lugares de fabricación de dispositivos médicos del mundo, junto a Costa Rica y Puerto Rico. Estos números no se concilian con claridad, y no se confirmó para esta guía ningún total oficial único, por lo que cada uno se señala para verificación.
 
 La huella humana del sector también es sustancial: se informa de que solo las **91 empresas miembro** de AMMI sostienen **más de 54.000 empleos** y representan más de la mitad de las contribuciones a la exportación de dispositivos médicos del país. En toda la economía, declaraciones del ministerio se refieren a más de 200 fabricantes.
 

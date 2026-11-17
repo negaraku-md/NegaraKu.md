@@ -31,7 +31,7 @@ faq:
   - q: "كيف يُنظَّم تصنيع الأغذية في ماليزيا؟"
     a: "تُحكَم سلامة الأغذية والوسم بقانون الأغذية 1983 ولوائحه الفرعية (مثل لوائح الأغذية 1985 ولوائح نظافة الأغذية 2009)، تديرها وزارة الصحة. أما ادعاءات الحلال فيُتحكّم فيها بشكل منفصل من قبل دائرة التنمية الإسلامية الماليزية (JAKIM)، التي تصدر الاعتماد الحلال الرسمي."
 lang: ar
-sourceContentHash: "ac70589426331148"
+sourceContentHash: "391a7deab0b3d94e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -141,7 +141,7 @@ framework: profile
 
 والحجم ذو معنى. فقد بلغت صادرات ماليزيا الإجمالية للمنتجات الحلال نحو **RM61.79 مليار في 2024**، بزيادة نحو 15% من RM53.72 مليار في السنة السابقة، بحسب وزارة التجارة ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024)؛ [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). والأغذية المصنّعة جزء جوهري من تلك السلة، وذكرت الحكومة توقّعات للسوق الحلال العالمية بنحو 5 تريليونات دولار أمريكي بحلول 2030 بوصفها الجائزة.
 
-كان زخم التصدير قويًا في مناطق جديدة. فقد أبلغت MATRADE عن صادرات أغذية مصنّعة إلى أوروبا بنحو RM3.48 مليار في 2024 — قفزة نحو 70% — تقودها منتجات الكاكاو والمبيّض غير الألباني والحلويات والبسكويت، وصادرات إلى الشرق الأوسط وشمال أفريقيا بنحو RM2.32 مليار، مع كون الإمارات أكبر سوق منفردة هناك ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). وتدفع هيئات مثل مؤسسة تنمية الحلال (HDC) وMATRADE الأغذية والمشروبات الماليزية بنشاط في معارض تجارية مثل Gulfood وAnuga. وللصورة الأوسع، راجع دليل [الصناعة والاقتصاد الحلال](/ar/industries/halal-industry-economy/) وكيف يعمل [الاعتماد الحلال](/ar/industries/halal-certification-system/).
+كان زخم التصدير قويًا في مناطق جديدة. فقد أبلغت [MATRADE](/ar/government/matrade) عن صادرات أغذية مصنّعة إلى أوروبا بنحو RM3.48 مليار في 2024 — قفزة نحو 70% — تقودها منتجات الكاكاو والمبيّض غير الألباني والحلويات والبسكويت، وصادرات إلى الشرق الأوسط وشمال أفريقيا بنحو RM2.32 مليار، مع كون الإمارات أكبر سوق منفردة هناك ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). وتدفع هيئات مثل مؤسسة تنمية الحلال (HDC) وMATRADE الأغذية والمشروبات الماليزية بنشاط في معارض تجارية مثل Gulfood وAnuga. وللصورة الأوسع، راجع دليل [الصناعة والاقتصاد الحلال](/ar/industries/halal-industry-economy/) وكيف يعمل [الاعتماد الحلال](/ar/industries/halal-certification-system/).
 
 ## من هم اللاعبون الرئيسيون؟
 

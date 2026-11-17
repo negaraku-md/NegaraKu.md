@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. அரசாங்கத்தின் கூற்றுப்படி, சட்டக் கட்டுப்பாடுகள் காரணமாக PADU இன் தரவு சேகரிப்பு வங்கித் தகவல் அமைப்புகளை உள்ளடக்கவில்லை."
 
 lang: "ta"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 
 ## PADU என்றால் என்ன?
 
-PADU அல்லது Pangkalan Data Utama என்பது 2024 ஜனவரி 2 அன்று பிரதமர் அன்வர் இப்ராஹிம் (Anwar Ibrahim) அறிமுகப்படுத்திய தேசிய முதன்மை தரவுத்தளமாகும். இது பொருளாதார அமைச்சு (Ministry of Economy), மலேசிய புள்ளியியல் திணைக்களம் (Department of Statistics Malaysia, DOSM) மற்றும் மலேசிய நிர்வாக நவீனமயமாக்கல் மற்றும் மேலாண்மைத் திட்டமிடல் அலகு (Malaysian Administrative Modernisation and Management Planning Unit, MAMPU) ஆகியவற்றால் இணைந்து உருவாக்கப்பட்டது.
+PADU அல்லது Pangkalan Data Utama என்பது 2024 ஜனவரி 2 அன்று பிரதமர் அன்வர் இப்ராஹிம் (Anwar Ibrahim) அறிமுகப்படுத்திய தேசிய முதன்மை தரவுத்தளமாகும். இது [பொருளாதார அமைச்சு](/ta/government/ministry-of-economy-malaysia-plans) (Ministry of Economy), மலேசிய புள்ளியியல் திணைக்களம் (Department of Statistics Malaysia, DOSM) மற்றும் மலேசிய நிர்வாக நவீனமயமாக்கல் மற்றும் மேலாண்மைத் திட்டமிடல் அலகு (Malaysian Administrative Modernisation and Management Planning Unit, MAMPU) ஆகியவற்றால் இணைந்து உருவாக்கப்பட்டது.
 
 அரசாங்கத்தின் கூற்றுப்படி, மானியங்களும் உதவிகளும் அனைத்து வருமான அடுக்குகளுக்கும் மொத்தமாக வழங்கப்படாமல், நிர்ணயிக்கப்பட்ட குழுக்களுக்கு இலக்கு வைத்து வழங்கப்படும் வகையில், மக்களின் சமூகப்பொருளாதார சித்திரத்தை ஒரே இடத்தில் ஒருங்கிணைப்பதே அதன் நோக்கமாகும்.
 

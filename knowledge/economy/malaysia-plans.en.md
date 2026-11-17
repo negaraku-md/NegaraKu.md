@@ -24,7 +24,7 @@ appliesTo: "Students, policy analysts, journalists and anyone who wants to under
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 
 status: "published"
 aiAssisted: true
@@ -119,7 +119,7 @@ strategy into actual allocations each year.
 ## What the Malaysia Plan actually is
 
 The Malaysia Plan is not a one-year spending figure, nor is it legislation.
-It is a policy document prepared by the Ministry of Economy, setting out
+It is a policy document prepared by the [Ministry of Economy](/en/government/ministry-of-economy-malaysia-plans), setting out
 development thrusts, policy priorities, strategies and outcome targets for a
 five-year period — then tabled as a **motion** for Parliament's debate and
 approval, not as a bill in the way the Supply Bill is.

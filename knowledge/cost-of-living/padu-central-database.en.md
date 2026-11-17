@@ -29,7 +29,7 @@ faq:
     a: "No. According to the government, PADU's data collection does not involve banking information systems due to legal restrictions."
 
 lang: "en"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ To shift from blanket subsidies to more targeted assistance, the government need
 
 ## What is PADU?
 
-PADU, or Pangkalan Data Utama (Central Database), is the national master database launched by Prime Minister Anwar Ibrahim on 2 January 2024. It was jointly developed by the Ministry of Economy, the Department of Statistics Malaysia (DOSM) and the Malaysian Administrative Modernisation and Management Planning Unit (MAMPU).
+PADU, or Pangkalan Data Utama (Central Database), is the national master database launched by Prime Minister Anwar Ibrahim on 2 January 2024. It was jointly developed by the [Ministry of Economy](/en/government/ministry-of-economy-malaysia-plans), the Department of Statistics Malaysia (DOSM) and the Malaysian Administrative Modernisation and Management Planning Unit (MAMPU).
 
 According to the government, its purpose is to bring together a socioeconomic picture of the population in one place so that subsidies and assistance can be targeted at the groups that have been defined, rather than being channelled indiscriminately across all income levels.
 

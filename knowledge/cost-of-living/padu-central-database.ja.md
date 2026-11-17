@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 
 status: "published"
 aiAssisted: true
@@ -78,7 +78,7 @@ framework: explainer
 
 ## PADUとは何か？
 
-PADU（中央データベース）は、2024年1月2日にアンワル・イブラヒム首相によって発足された国家中央データベースである。経済省、マレーシア統計局（DOSM）、およびマレーシア行政近代化・管理計画ユニット（MAMPU）によって共同開発された。
+PADU（中央データベース）は、2024年1月2日にアンワル・イブラヒム首相によって発足された国家中央データベースである。[経済省](/ja/government/ministry-of-economy-malaysia-plans)、マレーシア統計局（DOSM）、およびマレーシア行政近代化・管理計画ユニット（MAMPU）によって共同開発された。
 
 政府によれば、その目的は国民の社会経済状況を一か所に集約し、補助金と援助をすべての所得層に一律に支給するのではなく、定められた対象グループへ振り向けられるようにすることである。
 

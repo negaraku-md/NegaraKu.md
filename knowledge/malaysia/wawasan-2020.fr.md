@@ -32,7 +32,7 @@ faq:
     a: "La Vision de prospérité partagée 2030 (WKB 2030) fut lancée en octobre 2019 comme vision successeure, centrée sur une prospérité équitable pour la période 2021 à 2030."
 
 lang: "fr"
-sourceContentHash: "d7d57585a7686755"
+sourceContentHash: "64099ed3e8eb2be7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Les questions de l'écart de revenu et de l'unité sociale restent des thèmes d
 
 ## Qu'est-ce qui a remplacé Wawasan 2020 ?
 
-À mesure que la période de Wawasan 2020 approchait de sa fin, le gouvernement introduisit une vision successeure. La Vision de prospérité partagée 2030 (WKB 2030) fut lancée en octobre 2019 pour la période 2021 à 2030, centrée sur une croissance économique durable et une répartition plus équitable de la prospérité entre tous les groupes. Le ministère de l'Économie fournit le document officiel de la WKB 2030 en malais et en anglais.
+À mesure que la période de Wawasan 2020 approchait de sa fin, le gouvernement introduisit une vision successeure. La Vision de prospérité partagée 2030 (WKB 2030) fut lancée en octobre 2019 pour la période 2021 à 2030, centrée sur une croissance économique durable et une répartition plus équitable de la prospérité entre tous les groupes. Le [ministère de l'Économie](/fr/government/ministry-of-economy-malaysia-plans) fournit le document officiel de la WKB 2030 en malais et en anglais.
 
 Pour l'avenir, un rapport de la Banque mondiale de février 2025 estima qu'il est probable que la Malaisie passe au statut de revenu élevé entre 2028 et 2030 — soit quelques années après la date initialement prévue pour Wawasan 2020.
 

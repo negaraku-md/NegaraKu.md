@@ -56,7 +56,7 @@ obligations:
     consequence: "Chế tài nộp trễ leo thang và truy tố"
 
 lang: "vi"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -403,7 +403,7 @@ phục, thực phẩm và đồ uống, vận chuyển, chỗ ở, các khoản 
 một phần của học phí, phí PTA, các chuyến đi giáo dục không phải là một phần của học phí,
 và các khoản phí thẻ sinh viên hoặc thị thực. Amendment No. 1 thêm các khoản miễn cho
 con cái và người phụ thuộc của các nhà ngoại giao nước ngoài nắm giữ một thư xác nhận
-của Bộ Ngoại giao, và cho các khoản phí được các cơ sở, công ty, quỹ hoặc các tổ chức
+của [Bộ Ngoại giao](/vi/government/ministry-of-foreign-affairs-wisma-putra), và cho các khoản phí được các cơ sở, công ty, quỹ hoặc các tổ chức
 khác tài trợ toàn bộ.
 
 ## Làm đẹp — việc mở rộng không bao giờ xảy ra

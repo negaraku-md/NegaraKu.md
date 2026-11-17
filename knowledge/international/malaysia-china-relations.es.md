@@ -32,7 +32,7 @@ faq:
     a: "Es el marco que ambos gobiernos adoptaron para describir la siguiente fase de los lazos, sobre la base de la asociación estratégica integral establecida en 2013. El concepto se planteó a partir de 2023 y se formalizó en una declaración conjunta durante la visita de Estado del presidente Xi Jinping el 17 de abril de 2025. Establece la cooperación en comercio, tecnología, infraestructura y vínculos de persona a persona."
 
 lang: "es"
-sourceContentHash: "72782c6871b15658"
+sourceContentHash: "b7ef3c40f5decdc1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ La relación no se limita a los flujos comerciales. Solo en los tres primeros tr
 
 Casi toda ella se sitúa en el Mar de China Meridional. La plataforma continental y la zona económica exclusiva de Malasia frente a Sabah y Sarawak se solapan con las aguas que China reivindica bajo su «línea de nueve trazos», una reivindicación que los funcionarios malasios han rechazado públicamente. Los buques de la Guardia Costera de China aparecen con regularidad cerca de accidentes geográficos como los Luconia Shoals, próximos al lugar donde la empresa energética estatal Petronas desarrolla operaciones de petróleo y gas.
 
-Lo llamativo es cómo gestiona Malasia esto. En lugar de una diplomacia de megáfono, Kuala Lumpur ha practicado durante décadas lo que los analistas denominan diplomacia discreta o «silenciosa»: presentar protestas formales a través de Wisma Putra (el Ministerio de Asuntos Exteriores) mientras mantiene a Petronas perforando y se niega a dejar que la disputa se derrame sobre la relación más amplia. El Primer Ministro Anwar ha presentado la zona en disputa llanamente como territorio malasio donde las operaciones energéticas nacionales continuarán, aun cuando su gobierno mantiene bien abiertos los canales de comercio e inversión. El análisis del ISEAS – Yusof Ishak Institute describe esto como una separación deliberada de la disputa marítima respecto de los lazos económicos con el mayor socio comercial de Malasia.
+Lo llamativo es cómo gestiona Malasia esto. En lugar de una diplomacia de megáfono, Kuala Lumpur ha practicado durante décadas lo que los analistas denominan diplomacia discreta o «silenciosa»: presentar protestas formales a través de Wisma Putra (el [Ministerio de Asuntos Exteriores](/es/government/ministry-of-foreign-affairs-wisma-putra)) mientras mantiene a Petronas perforando y se niega a dejar que la disputa se derrame sobre la relación más amplia. El Primer Ministro Anwar ha presentado la zona en disputa llanamente como territorio malasio donde las operaciones energéticas nacionales continuarán, aun cuando su gobierno mantiene bien abiertos los canales de comercio e inversión. El análisis del ISEAS – Yusof Ishak Institute describe esto como una separación deliberada de la disputa marítima respecto de los lazos económicos con el mayor socio comercial de Malasia.
 
 ## ¿Cómo lo gestiona realmente Wisma Putra?
 

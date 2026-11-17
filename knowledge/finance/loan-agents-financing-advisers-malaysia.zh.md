@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4a92402459f1ccc8"
+sourceContentHash: "89a5aa8c792f0100"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ social:
 
 **贷款与房贷经纪——即整理并提交的角色——在马来西亚基本不受监管。**没有专门的『贷款代理』执照、没有费用上限，也**没有可供查核的经纪名录**。只有当一方做了超出经纪范畴的事，它才会受监管：
 
-- 若它**自己放贷**，就需要房屋及地方政府部（KPKT）依《1951 年放贷人法令》发出的**放贷人执照**——见[持牌放贷人与贷款骗局](/finance/licensed-moneylenders-malaysia)；
+- 若它**自己放贷**，就需要[房屋及地方政府部](/zh/government/ministry-of-housing-local-government-kpkt)（KPKT）依《1951 年放贷人法令》发出的**放贷人执照**——见[持牌放贷人与贷款骗局](/finance/licensed-moneylenders-malaysia)；
 - 若它从事**『财务顾问业务』**，就需依《2013 年金融服务法令》获**马来西亚国家银行核准。**
 
 第二点是一个常见的陷阱。持牌的**『财务顾问』**确实*是*一个受监管的角色——但那套制度围绕**保险与伊斯兰保险（takaful）等金融产品**构建，而非贷款经纪。一家在贷款整理意义上自称『融资顾问』的公司，一般**并非**获核准的财务顾问，也并非在那张执照下经营。同一个英文词，所指却不同。

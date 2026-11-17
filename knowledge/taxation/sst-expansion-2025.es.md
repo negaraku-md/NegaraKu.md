@@ -56,7 +56,7 @@ obligations:
     consequence: "Escalating late-payment penalty and prosecution"
 
 lang: "es"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -434,7 +434,7 @@ reembolsables que no forman parte de la matrícula, cuotas de la asociación de
 padres y maestros, viajes educativos que no forman parte de la matrícula, y cargos
 de pase o visado de estudiante. La Modificación n.º 1 añade exenciones para los
 hijos y dependientes de diplomáticos extranjeros que posean una carta de
-confirmación del Ministerio de Asuntos Exteriores, y para las tarifas totalmente
+confirmación del [Ministerio de Asuntos Exteriores](/es/government/ministry-of-foreign-affairs-wisma-putra), y para las tarifas totalmente
 patrocinadas por instituciones, empresas, fundaciones u otras organizaciones.
 
 ## Belleza — la ampliación que nunca ocurrió

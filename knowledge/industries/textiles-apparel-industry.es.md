@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos apoyan la inversión en textiles y confección?
     a: La MIDA administra las aprobaciones de licencias de fabricación y los incentivos fiscales para el subsector, que es un área prioritaria bajo el Nuevo Plan Maestro Industrial (NIMP) 2030. A partir del primer trimestre de 2026, las inversiones que reúnan los requisitos quedan bajo un nuevo Marco de Incentivos a la Inversión basado en resultados, con incentivos escalonados ligados a resultados como la tecnología, las competencias y los vínculos locales. Confirme las tasas y condiciones vigentes con la MIDA.
 lang: es
-sourceContentHash: "610641d5d177ffdc"
+sourceContentHash: "1841208413fe19a3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Junto al extremo de volumen se sitúa una hebra patrimonial distintiva —el **b
 
 ## ¿Qué tamaño tiene?
 
-La industria está consolidada pero, para los estándares malasios, ya no es grande en relación con el resto de la manufactura. Según cifras atribuidas a la **Corporación de Desarrollo del Comercio Exterior de Malasia (MATRADE)**, el comercio de prendas de vestir y accesorios de ropa alcanzó cerca de **RM18,24 mil millones en 2025**, un 8,3% más interanual, con **exportaciones de unos RM6,88 mil millones**. Los envíos siguieron subiendo a principios de 2026.
+La industria está consolidada pero, para los estándares malasios, ya no es grande en relación con el resto de la manufactura. Según cifras atribuidas a la **Corporación de Desarrollo del Comercio Exterior de Malasia ([MATRADE](/es/government/matrade))**, el comercio de prendas de vestir y accesorios de ropa alcanzó cerca de **RM18,24 mil millones en 2025**, un 8,3% más interanual, con **exportaciones de unos RM6,88 mil millones**. Los envíos siguieron subiendo a principios de 2026.
 
 La cifra más reveladora es la tendencia de la *cuota*. La porción de textiles y calzado en las exportaciones totales de Malasia cayó de alrededor del **2,9% en 2000 a cerca del 1,1% en 2023**, según un análisis de MIDF Research, no porque la industria se hundiera, sino porque la electrónica y otros sectores crecieron mucho más rápido mientras los productores de confección de menor coste del extranjero capturaban el volumen. (Estas cifras proceden de resúmenes de noticias e investigación, no de un único comunicado oficial; véanse las notas de verificación.)
 

@@ -35,7 +35,7 @@ faq:
     a: "Nguồn gốc thực sự còn gây tranh cãi, và các nguồn uy tín nhấn mạnh rằng nguyên liệu và kỹ thuật của nó được chia sẻ khắp Đông Nam Á chứ không thuộc về một quốc gia nào. Một giả thuyết được trích dẫn rộng rãi liên hệ nó với thức uống dawet của người Java ở Indonesia; những nguồn khác chỉ đến các ghi chép thời kỳ đầu của Thái và Mã Lai. Vì lịch sử ẩm thực trong khu vực được ghi chép sơ sài, trang này xem các tuyên bố về nguồn gốc đơn lẻ là chưa ngã ngũ."
 
 lang: "vi"
-sourceContentHash: "5d5bbd7760529e25"
+sourceContentHash: "97259dabe37e7115"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Cendol không thuộc về bất kỳ quốc gia đơn lẻ nào, và các ngu�
 
 Nguồn gốc thực sự còn được tranh luận, và trang này xem các câu chuyện cạnh tranh là chưa ngã ngũ thay vì chọn ra một kẻ thắng cuộc. Một giả thuyết được trích dẫn rộng rãi liên hệ cendol với thức uống Indonesia **dawet**, vốn từ lâu gắn với Java; những ghi chép khác chỉ đến các ghi chép cung đình Thái thời kỳ đầu hoặc những tham chiếu của thế giới Mã Lai, và một số liên hệ nó một cách suy đoán với faloodeh Ba Tư thông qua falooda Ấn Độ. Các nhà sử học lưu ý rằng lịch sử ẩm thực trong khu vực được ghi chép sơ sài, đó chính là lý do vì sao các tuyên bố nguồn gốc đơn lẻ rõ ràng khó đưa ra. Điều rõ ràng là các phiên bản ướp đá đã nở rộ tại các cảng thời thuộc địa như **Melaka** và **Penang**, nơi đá tàu nhập khẩu khiến các món tráng miệng lạnh trở nên khả thi.
 
-Vị thế chia sẻ chung đó giờ đây được công nhận chính thức ở một số nơi: Indonesia đã liệt kê dawet, es cendol và cendol là di sản văn hóa phi vật thể ở nhiều vùng khác nhau, **Cục Di sản Quốc gia** của Malaysia chỉ định cendol là một món ăn di sản, và Singapore đã đưa nó vào hồ sơ đề cử UNESCO cho văn hóa hàng rong. (Những công nhận này và niên đại của chúng được tóm tắt từ các nguồn thứ cấp và được đánh dấu để kiểm chứng.)
+Vị thế chia sẻ chung đó giờ đây được công nhận chính thức ở một số nơi: Indonesia đã liệt kê dawet, es cendol và cendol là di sản văn hóa phi vật thể ở nhiều vùng khác nhau, [**Cục Di sản Quốc gia**](/vi/government/department-of-national-heritage) của Malaysia chỉ định cendol là một món ăn di sản, và Singapore đã đưa nó vào hồ sơ đề cử UNESCO cho văn hóa hàng rong. (Những công nhận này và niên đại của chúng được tóm tắt từ các nguồn thứ cấp và được đánh dấu để kiểm chứng.)
 
 ## Ăn ở đâu và như thế nào
 

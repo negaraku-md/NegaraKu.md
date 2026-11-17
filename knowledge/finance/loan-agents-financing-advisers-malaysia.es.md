@@ -36,7 +36,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4a92402459f1ccc8"
+sourceContentHash: "89a5aa8c792f0100"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ Esta es la parte que la mayoría de la gente malinterpreta, así que conviene de
 
 **La correduría de préstamos e hipotecas — el papel de preparar y presentar — está en gran medida sin regular en Malasia.** No hay **licencia dedicada de «agente de préstamos»**, ni tope de comisión, ni **registro de corredores** que pueda comprobar. Una parte solo pasa a estar regulada cuando hace algo más que corredor:
 
-- si **presta dinero ella misma**, necesita una **licencia de prestamista** del Ministerio de Vivienda y Gobierno Local (KPKT) bajo la Ley de Prestamistas de 1951 — véase [prestamistas con licencia y estafas de préstamos](/finance/licensed-moneylenders-malaysia);
+- si **presta dinero ella misma**, necesita una **licencia de prestamista** del [Ministerio de Vivienda y Gobierno Local](/es/government/ministry-of-housing-local-government-kpkt) (KPKT) bajo la Ley de Prestamistas de 1951 — véase [prestamistas con licencia y estafas de préstamos](/finance/licensed-moneylenders-malaysia);
 - si lleva a cabo un **«negocio de asesoría financiera»**, necesita la **aprobación de Bank Negara bajo la Ley de Servicios Financieros de 2013.**
 
 Ese segundo punto es una trampa común. Un **«asesor financiero»** con licencia *es* un papel regulado — pero ese régimen está construido en torno a **productos financieros como seguros y takaful**, no a la correduría de préstamos. Una firma que se llama a sí misma «asesor de financiación» en el sentido de preparación de préstamos generalmente **no** es un asesor financiero aprobado y no opera bajo esa licencia. La misma palabra inglesa, cosa distinta.

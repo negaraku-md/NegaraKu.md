@@ -31,7 +31,7 @@ faq:
   - q: Có những ưu đãi nào cho nhà sản xuất?
     a: Thiết bị y tế là một hoạt động được MIDA thúc đẩy, đủ điều kiện cho các ưu đãi như Vị thế Tiên phong (Pioneer Status, miễn thuế thu nhập một phần đến toàn bộ trong một thời hạn nhất định) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance) trên chi tiêu vốn đủ điều kiện. Thiết bị y tế cũng được nêu tên là ngành ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới 2030. Xác nhận các điều khoản và điều kiện hiện hành trực tiếp với MIDA.
 lang: vi
-sourceContentHash: "03a22155918ac33b"
+sourceContentHash: "0f609e23d14a24f5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Hướng dẫn này nhìn riêng vào ngành thiết bị y tế: việc chế t
 
 Vị thế của Malaysia được nắm bắt rõ nhất ở cấp khu vực. Trong một thông cáo chung tháng 10/2024, MIDA và Hiệp hội Công nghiệp Y tế Malaysia (AMMI) mô tả Malaysia là trung tâm medtech hàng đầu Đông Nam Á, nơi có thị trường thiết bị y tế nội địa lớn nhất khu vực — trị giá khoảng **RM10,6 tỷ năm 2023** — và có mật độ công ty medtech đa quốc gia cao nhất khu vực.
 
-Về xuất khẩu, các con số dao động và nên được xem xét thận trọng. Các tuyên bố của Bộ Y tế và truyền thông đặt xuất khẩu thiết bị y tế năm 2024 ở khoảng **RM37 tỷ**, tăng khoảng 31% so với năm trước. Một quan chức MATRADE lại được tường thuật dẫn **8,7 tỷ USD** cho năm 2024 và xếp Malaysia vào top năm địa điểm chế tạo thiết bị y tế thế giới, cùng Costa Rica và Puerto Rico. Những con số này không khớp gọn gàng, và chưa xác nhận được một tổng chính thức duy nhất cho hướng dẫn này, nên mỗi con số đều được đánh dấu cần xác minh.
+Về xuất khẩu, các con số dao động và nên được xem xét thận trọng. Các tuyên bố của Bộ Y tế và truyền thông đặt xuất khẩu thiết bị y tế năm 2024 ở khoảng **RM37 tỷ**, tăng khoảng 31% so với năm trước. Một quan chức [MATRADE](/vi/government/matrade) lại được tường thuật dẫn **8,7 tỷ USD** cho năm 2024 và xếp Malaysia vào top năm địa điểm chế tạo thiết bị y tế thế giới, cùng Costa Rica và Puerto Rico. Những con số này không khớp gọn gàng, và chưa xác nhận được một tổng chính thức duy nhất cho hướng dẫn này, nên mỗi con số đều được đánh dấu cần xác minh.
 
 Dấu ấn nhân lực của lĩnh vực này cũng đáng kể: riêng **91 công ty thành viên** của AMMI được cho là hỗ trợ **hơn 54.000 việc làm** và chiếm hơn một nửa đóng góp xuất khẩu thiết bị y tế của đất nước. Trên toàn nền kinh tế, các tuyên bố của bộ nhắc đến hơn 200 nhà sản xuất.
 

@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 
 status: "published"
 aiAssisted: true
@@ -83,7 +83,7 @@ framework: explainer
 
 ## なぜマレーシアは二重国籍を認めないのか
 
-政府の公式な立場は、マレーシアが成人の一つを超える市民権の保有を認めていないというものである。2019年、当時の内務大臣は「Malaysia does not recognise dual citizenship」と述べ、他所で市民権を取得したマレーシア人は連邦憲法第24条(1)に基づきマレーシア市民権を失うことがあると説明した。
+政府の公式な立場は、マレーシアが成人の一つを超える市民権の保有を認めていないというものである。2019年、当時の内務大臣は「Malaysia does not recognise dual citizenship」と述べ、他所で市民権を取得したマレーシア人は連邦憲法第24条(1)に基づき[マレーシア市民権](/ja/government/malaysian-citizenship-law)を失うことがあると説明した。
 
 その法的根拠は憲法の条文にある。第24条(1)は次のように定めている。
 

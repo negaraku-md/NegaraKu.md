@@ -56,7 +56,7 @@ obligations:
     consequence: "점증하는 지연 납부 가산세와 기소"
 
 lang: "ko"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -366,7 +366,7 @@ Group M은 등록 기준이 **없습니다(nil)**. 책임은 매출이 아니라
 
 서비스세 정책 제4/2025호는 긴 부수 비용 목록을 면제합니다: 도서, 교복, 식음료, 교통, 숙박, 학비의
 일부가 아닌 환급 가능 보증금, PTA 회비, 학비의 일부가 아닌 교육 여행, 학생 패스 또는 비자 비용.
-개정 제1호는 외교부 확인서를 소지한 외국 외교관의 자녀 및 부양가족, 그리고 기관·회사·재단 또는 기타
+개정 제1호는 [외교부](/ko/government/ministry-of-foreign-affairs-wisma-putra) 확인서를 소지한 외국 외교관의 자녀 및 부양가족, 그리고 기관·회사·재단 또는 기타
 단체가 전액 후원하는 학비에 대한 면제를 추가합니다.
 
 ## 미용 — 일어나지 않은 확대

@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ framework: explainer
 
 PADU，全称 Pangkalan Data Utama（中央数据库），由首相拿督斯里安华（Anwar Ibrahim）于 2024 年 1 月 2 日在布城推出。它是一个中央数据库，把公民及永久居民的个人与家庭档案整合进单一的参照来源。
 
-每份档案包含人口、地区、社会经济状况、职业、收入、教育、车辆拥有权、贫困状况以及正在领取的援助类型等信息。其建设涉及经济部、马来西亚统计局（DOSM）与 MAMPU 的合作，数据取自多个政府机构。
+每份档案包含人口、地区、社会经济状况、职业、收入、教育、车辆拥有权、贫困状况以及正在领取的援助类型等信息。其建设涉及[经济部](/zh/government/ministry-of-economy-malaysia-plans)、马来西亚统计局（DOSM）与 MAMPU 的合作，数据取自多个政府机构。
 
 需要理解的关键是：PADU 不是定价机制。它不决定每公升油在油站是多少钱。它的功能更为根本——它回答「谁有资格？」这个问题，好让补贴能够有针对性地转移。这正是 PADU 常被称为补贴合理化背后的数据引擎、而非补贴合理化本身的原因。
 

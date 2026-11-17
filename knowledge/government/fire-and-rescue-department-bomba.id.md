@@ -29,7 +29,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-Tanyakan kepada siapa pun di Malaysia siapa yang harus dihubungi ketika sebuah bangunan terbakar atau seseorang terjebak, dan jawabannya adalah satu kata yang sama: **Bomba**. **Jabatan Bomba dan Penyelamat Malaysia** (**JBPM**), yang dikenal hampir semua orang sekadar sebagai **BOMBA**, adalah instansi federal yang bertanggung jawab atas pemadam kebakaran, penyelamatan, penanganan bahan berbahaya, dan penegakan keselamatan kebakaran di seluruh negeri. Ia adalah instansi di bawah **Kementerian Perumahan dan Kerajaan Tempatan** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), dan dalam keadaan darurat ia dihubungi dengan menelepon **999**.
+Tanyakan kepada siapa pun di Malaysia siapa yang harus dihubungi ketika sebuah bangunan terbakar atau seseorang terjebak, dan jawabannya adalah satu kata yang sama: **Bomba**. **Jabatan Bomba dan Penyelamat Malaysia** (**JBPM**), yang dikenal hampir semua orang sekadar sebagai **BOMBA**, adalah instansi federal yang bertanggung jawab atas pemadam kebakaran, penyelamatan, penanganan bahan berbahaya, dan penegakan keselamatan kebakaran di seluruh negeri. Ia adalah instansi di bawah [**Kementerian Perumahan dan Kerajaan Tempatan**](/id/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), dan dalam keadaan darurat ia dihubungi dengan menelepon **999**.
 
 ## Apa itu BOMBA?
 

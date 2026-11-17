@@ -115,7 +115,7 @@ The sector sits within Malaysia's broader [manufacturing economy](/en/industries
 
 ## How big is it?
 
-Furniture is one of Malaysia's most significant manufactured exports. According to MATRADE data reported in early 2026, total furniture exports were worth about **RM12.83 billion in 2024**, and Malaysia is routinely described as being among the world's top-ten furniture-exporting countries. Wooden furniture makes up the bulk of that total.
+Furniture is one of Malaysia's most significant manufactured exports. According to [MATRADE](/government/matrade) data reported in early 2026, total furniture exports were worth about **RM12.83 billion in 2024**, and Malaysia is routinely described as being among the world's top-ten furniture-exporting countries. Wooden furniture makes up the bulk of that total.
 
 The wider timber-and-wood-products basket is larger still. MTIB reported total timber and timber-product exports of around **RM21.84 billion in 2023**, down about 13% on 2022, within which wooden furniture was the single biggest earner and plywood a major contributor. (Several figures in this area should be treated with care: sources differ on sub-category values and on exactly which year they describe — see the verification notes on this page.)
 

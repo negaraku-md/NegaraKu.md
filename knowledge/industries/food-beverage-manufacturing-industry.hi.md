@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया में खाद्य विनिर्माण को कैसे विनियमित किया जाता है?
     a: खाद्य सुरक्षा और लेबलिंग Food Act 1983 और इसके सहायक नियमों (जैसे Food Regulations 1985 और Food Hygiene Regulations 2009) द्वारा शासित हैं, जो स्वास्थ्य मंत्रालय द्वारा प्रशासित हैं। हलाल दावे अलग से Department of Islamic Development Malaysia (JAKIM) द्वारा नियंत्रित हैं, जो आधिकारिक हलाल प्रमाणन जारी करता है।
 lang: hi
-sourceContentHash: "ac70589426331148"
+sourceContentHash: "391a7deab0b3d94e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -135,7 +135,7 @@ F&B विनिर्माण का अर्थ है कच्चे क�
 
 पैमाना सार्थक है। व्यापार मंत्रालय के अनुसार, मलेशिया का कुल हलाल उत्पाद निर्यात 2024 में लगभग **RM61.79 बिलियन** तक पहुँचा, जो पिछले वर्ष के RM53.72 बिलियन से लगभग 15% अधिक है ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/))। प्रसंस्कृत भोजन उस टोकरी का एक मुख्य हिस्सा है, और सरकार ने 2030 तक लगभग US$5 ट्रिलियन के वैश्विक-हलाल-बाज़ार अनुमानों को पुरस्कार के रूप में उद्धृत किया है।
 
-निर्यात गति नए क्षेत्रों में मज़बूत रही है। MATRADE ने 2024 में यूरोप को प्रसंस्कृत-भोजन निर्यात लगभग RM3.48 बिलियन — लगभग 70% उछाल — की रिपोर्ट की है, जिसका नेतृत्व कोको उत्पाद, नॉन-डेयरी क्रीमर, कन्फेक्शनरी और बिस्कुट करते हैं, और मध्य पूर्व तथा उत्तरी अफ्रीका को निर्यात लगभग RM2.32 बिलियन, जिसमें UAE वहाँ का सबसे बड़ा एकल बाज़ार है ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany))। Halal Development Corporation (HDC) और MATRADE जैसी एजेंसियाँ Gulfood और Anuga जैसे व्यापार मेलों में मलेशियाई F&B को सक्रिय रूप से बढ़ावा देती हैं। व्यापक तस्वीर के लिए, [हलाल उद्योग और अर्थव्यवस्था](/hi/industries/halal-industry-economy/) मार्गदर्शिका और [हलाल प्रमाणन](/hi/industries/halal-certification-system/) कैसे काम करता है, देखें।
+निर्यात गति नए क्षेत्रों में मज़बूत रही है। [MATRADE](/hi/government/matrade) ने 2024 में यूरोप को प्रसंस्कृत-भोजन निर्यात लगभग RM3.48 बिलियन — लगभग 70% उछाल — की रिपोर्ट की है, जिसका नेतृत्व कोको उत्पाद, नॉन-डेयरी क्रीमर, कन्फेक्शनरी और बिस्कुट करते हैं, और मध्य पूर्व तथा उत्तरी अफ्रीका को निर्यात लगभग RM2.32 बिलियन, जिसमें UAE वहाँ का सबसे बड़ा एकल बाज़ार है ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany))। Halal Development Corporation (HDC) और MATRADE जैसी एजेंसियाँ Gulfood और Anuga जैसे व्यापार मेलों में मलेशियाई F&B को सक्रिय रूप से बढ़ावा देती हैं। व्यापक तस्वीर के लिए, [हलाल उद्योग और अर्थव्यवस्था](/hi/industries/halal-industry-economy/) मार्गदर्शिका और [हलाल प्रमाणन](/hi/industries/halal-certification-system/) कैसे काम करता है, देखें।
 
 ## प्रमुख खिलाड़ी कौन हैं?
 

@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "e8f5baa4a042bfbe"
+sourceContentHash: "354022a73d700dc8"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -114,7 +114,7 @@ Nền tảng khâu sau đó được bổ trợ bằng sản xuất theo hợp �
 
 ## Quy mô ra sao?
 
-Bán dẫn là hạng mục xuất khẩu có giá trị nhất mà Malaysia sản xuất. Năm 2024, xuất khẩu thiết bị bán dẫn — mạch tích hợp, transistor và đèn điện tử — có giá trị khoảng **RM388 tỷ**, theo số liệu thương mại của MATRADE, chiếm phần lớn trong tổng kim ngạch xuất khẩu điện và điện tử (E&E) khoảng RM601 tỷ của đất nước.
+Bán dẫn là hạng mục xuất khẩu có giá trị nhất mà Malaysia sản xuất. Năm 2024, xuất khẩu thiết bị bán dẫn — mạch tích hợp, transistor và đèn điện tử — có giá trị khoảng **RM388 tỷ**, theo số liệu thương mại của [MATRADE](/vi/government/matrade), chiếm phần lớn trong tổng kim ngạch xuất khẩu điện và điện tử (E&E) khoảng RM601 tỷ của đất nước.
 
 Một lưu ý về các con số: các nguồn khác nhau đưa ra những con số xuất khẩu bán dẫn khác nhau vì họ vạch ranh giới khác nhau — một số chỉ tính thiết bị bán dẫn, số khác bao gồm một rổ "sản phẩm bán dẫn" rộng hơn. Các báo cáo của truyền thông với con số khoảng RM437.5 tỷ phản ánh một định nghĩa rộng hơn. Dù theo cách nào, quy mô cũng rất lớn: riêng bán dẫn đã sánh ngang với toàn bộ nền kinh tế xuất khẩu của một số quốc gia láng giềng.
 

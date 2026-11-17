@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, analistas de políticas, periodistas y cualquiera que quiera entender cómo se planifica el desarrollo nacional más allá de un solo ejercicio financiero."
 
 lang: "es"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ estrategia en asignaciones reales cada año.
 ## Qué es realmente el Plan de Malasia
 
 El Plan de Malasia no es una cifra de gasto de un año, ni es legislación. Es un
-documento de política elaborado por el Ministerio de Economía, que establece
+documento de política elaborado por el [Ministerio de Economía](/es/government/ministry-of-economy-malaysia-plans), que establece
 los ejes de desarrollo, las prioridades de política, las estrategias y las
 metas de resultados para un período de cinco años — y que luego se presenta
 como una **moción** para el debate y la aprobación del Parlamento, no como un

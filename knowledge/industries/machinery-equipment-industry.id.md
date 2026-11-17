@@ -31,7 +31,7 @@ faq:
   - q: Dukungan pemerintah apa yang ada untuk sektor M&E?
     a: M&E adalah industri teknologi-tinggi prioritas MIDA yang memenuhi syarat untuk insentif investasi, dan ia sentral bagi kebijakan Industry 4.0 nasional Industry4WRD, yang menawarkan hibah seperti Industry4WRD Intervention Fund dan Domestic Investment Strategic Fund bagi perusahaan yang mengadopsi otomasi dan teknologi canggih.
 lang: id
-sourceContentHash: "1c9235696250bb17"
+sourceContentHash: "019ba1901dcb4865"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Minat investasi telah mengikuti pertumbuhan itu. MIDA melaporkan investasi M&E y
 
 **Mesin proses khusus** adalah kekuatan menonjol Malaysia. Negara ini telah membangun kapabilitas yang dalam dalam **peralatan uji, perakitan, dan penanganan otomatis untuk industri semikonduktor dan elektronik**, bersama **mesin penggilingan dan pengolahan minyak sawit** serta **lini pengolahan makanan dan minuman**. MIDA juga menunjuk peralatan produksi laut-dalam untuk minyak dan gas, pencetakan presisi, dan pembangkitan daya.
 
-**Mesin pengerjaan logam dan perkakas mesin** membentuk fondasi fisik di bawah semua ini. MATRADE mendaftar perkakas mesin dan suku cadang buatan Malaysia termasuk mesin pemotong laser, pusat permesinan (machining centre), mesin electro-discharge (EDM), serta mesin frais dan tempa. Permesinan presisi, perkakas, dan fabrikasi logam bertoleransi-tinggi adalah yang membuat sistem otomatis yang lebih kompleks menjadi mungkin sejak awal.
+**Mesin pengerjaan logam dan perkakas mesin** membentuk fondasi fisik di bawah semua ini. [MATRADE](/id/government/matrade) mendaftar perkakas mesin dan suku cadang buatan Malaysia termasuk mesin pemotong laser, pusat permesinan (machining centre), mesin electro-discharge (EDM), serta mesin frais dan tempa. Permesinan presisi, perkakas, dan fabrikasi logam bertoleransi-tinggi adalah yang membuat sistem otomatis yang lebih kompleks menjadi mungkin sejak awal.
 
 **Otomasi dan robotika industri** adalah batas pertumbuhan. Seiring naiknya upah dan tuntutan pelanggan akan konsistensi, perusahaan Malaysia bergerak dari membangun mesin individual menuju mengintegrasikan sistem otomatis penuh — sel robotik, inspeksi berbasis-penglihatan, dan subsistem pabrik-cerdas — kapabilitas yang paling langsung diganjar di bawah agenda Industry 4.0 negara ini.
 

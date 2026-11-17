@@ -35,7 +35,7 @@ faq:
     a: "Asal usulnya benar-benar dipertikaikan, dan sumber yang berwibawa menegaskan bahawa bahan dan tekniknya dikongsi di seluruh Asia Tenggara dan bukannya milik satu negara. Satu teori yang kerap dipetik mengaitkannya dengan minuman Jawa dawet di Indonesia; yang lain menunjuk kepada rekod awal Thai dan Melayu. Oleh sebab sejarah makanan di rantau ini kurang didokumentasikan, halaman ini menganggap dakwaan asal usul tunggal sebagai belum selesai."
 
 lang: "ms"
-sourceContentHash: "5d5bbd7760529e25"
+sourceContentHash: "97259dabe37e7115"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -195,7 +195,7 @@ ialah versi berais berkembang pesat di pelabuhan era kolonial seperti **Melaka**
 
 Status dikongsi itu kini diiktiraf secara rasmi di beberapa tempat: Indonesia telah
 menyenaraikan dawet, es cendol dan cendol sebagai warisan budaya tidak ketara di
-pelbagai rantau, **Jabatan Warisan Negara** Malaysia mengisytiharkan cendol sebagai
+pelbagai rantau, [**Jabatan Warisan Negara**](/ms/government/department-of-national-heritage) Malaysia mengisytiharkan cendol sebagai
 makanan warisan, dan Singapura telah memasukkannya dalam penyerahan UNESCO-nya untuk
 budaya penjaja. (Pengiktirafan ini dan tarikhnya diringkaskan daripada sumber sekunder
 dan ditandakan untuk pengesahan.)

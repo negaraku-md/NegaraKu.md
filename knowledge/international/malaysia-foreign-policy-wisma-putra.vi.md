@@ -37,7 +37,7 @@ faq:
     a: "ASEAN là trụ cột hay nền tảng của chính sách đối ngoại Malaysia. Malaysia là một trong những quốc gia sáng lập ASEAN và luôn ưu tiên sự bền vững cũng như vị trí trung tâm (centrality) của ASEAN, đồng thời tích cực trong các diễn đàn khác như Liên Hợp Quốc (UN), Tổ chức Hợp tác Hồi giáo (OIC) và Phong trào Không Liên kết (NAM)."
 
 lang: "vi"
-sourceContentHash: "500f0f356d6c239e"
+sourceContentHash: "e4879b43ed98e1b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Khi Hoa Kỳ là nhà đầu tư nước ngoài lớn nhất trong nền kinh t�
 
 Nhiều người nghĩ "chính sách đối ngoại" là công việc của riêng một bộ. Thực ra nó có nhiều tầng.
 
-Bộ Ngoại giao — được biết đến nhiều hơn với tên **Wisma Putra**, theo tên tòa nhà của nó — được ủy nhiệm để *thực thi* và điều phối chính sách đối ngoại của Malaysia theo Hiến pháp Liên bang, với mục tiêu bảo vệ và thúc đẩy lợi ích của quốc gia ở cấp độ quốc tế. Wisma Putra quản lý mạng lưới các đại sứ quán, cao ủy và lãnh sự quán của Malaysia trên khắp thế giới, đàm phán các lập trường của quốc gia trong các diễn đàn quốc tế, và chăm lo phúc lợi của người dân Malaysia ở nước ngoài.
+[Bộ Ngoại giao](/vi/government/ministry-of-foreign-affairs-wisma-putra) — được biết đến nhiều hơn với tên **Wisma Putra**, theo tên tòa nhà của nó — được ủy nhiệm để *thực thi* và điều phối chính sách đối ngoại của Malaysia theo Hiến pháp Liên bang, với mục tiêu bảo vệ và thúc đẩy lợi ích của quốc gia ở cấp độ quốc tế. Wisma Putra quản lý mạng lưới các đại sứ quán, cao ủy và lãnh sự quán của Malaysia trên khắp thế giới, đàm phán các lập trường của quốc gia trong các diễn đàn quốc tế, và chăm lo phúc lợi của người dân Malaysia ở nước ngoài.
 
 Nhưng các quyết định chính sách ở cấp cao nhất không thuộc về riêng bộ đó. Chúng thuộc về **Thủ tướng và Nội các**. Thủ tướng thường đóng vai trò là bộ mặt ngoại giao của quốc gia trong các chuyến thăm chính thức và các hội nghị cấp cao, trong khi Bộ trưởng Ngoại giao đứng đầu Wisma Putra và đại diện cho Malaysia trong hầu hết các cuộc họp cấp bộ trưởng. Trong lịch sử Malaysia, có những lúc chức Thủ tướng và Bộ trưởng Ngoại giao do cùng một người nắm giữ, cho thấy hai vai trò đó gắn kết chặt chẽ đến mức nào.
 

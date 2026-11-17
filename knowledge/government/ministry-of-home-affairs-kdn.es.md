@@ -27,7 +27,7 @@ faq:
   - q: "¿Quién es el ministro del Interior?"
     a: "En 2026 el ministro del Interior es Datuk Seri Panglima Saifuddin Nasution bin Ismail, en el cargo desde el 3 de diciembre de 2022. Las carteras del gabinete cambian con las remodelaciones, así que confirme el titular actual en moha.gov.my."
 lang: "es"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -134,7 +134,7 @@ la sede, sino los organismos de aplicación de la ley que dependen de él —
 | Departamento de Prisiones | Consejo Antitrata de Personas (MAPO) |
 | Departamento Nacional de Registro (JPN) | Junta de Prevención del Delito |
 | Registro de Asociaciones (ROS) | Junta de Libertad Condicional |
-| Cuerpo de Voluntarios del Pueblo (RELA) | Junta de Censura Cinematográfica |
+| [Cuerpo de Voluntarios del Pueblo](/es/government/peoples-volunteer-corps-rela) (RELA) | Junta de Censura Cinematográfica |
 | Agencia de Vigilancia Marítima (MMEA/APMM) | Junta de Prevención del Terrorismo |
 | Mando de Seguridad del Este de Sabah (ESSCOM) | Imprenta Nacional (PNMB) |
 

@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "e8f5baa4a042bfbe"
+sourceContentHash: "354022a73d700dc8"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -114,7 +114,7 @@ framework: profile
 
 ## 规模有多大？
 
-半导体是马来西亚产出中最具价值的单一出口类别。根据大马对外贸易发展局（MATRADE）的贸易统计，2024 年半导体器件——集成电路、晶体管与电子管——的出口额约为 **RM388 billion**，占该国约 RM601 billion 电气与电子（E&E）出口的大部分。
+半导体是马来西亚产出中最具价值的单一出口类别。根据大马对外贸易发展局（[MATRADE](/zh/government/matrade)）的贸易统计，2024 年半导体器件——集成电路、晶体管与电子管——的出口额约为 **RM388 billion**，占该国约 RM601 billion 电气与电子（E&E）出口的大部分。
 
 关于数字的说明：不同来源引用的半导体出口数字各异，因为它们划定的界限不同——有的只计入半导体器件，有的则纳入范围更广的「半导体产品」。媒体报道约 RM437.5 billion 的数字反映的是更宽泛的定义。无论如何，其规模都极为庞大：单是半导体，就可与某些邻国的整个出口经济体量相匹敌。
 

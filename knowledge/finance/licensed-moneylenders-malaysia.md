@@ -90,7 +90,7 @@ When a bank says no and cash is short, the next advert is never far away: "fast 
 
 ## What makes a moneylender "licensed"?
 
-A moneylender is a business that lends money for profit outside the banking system. In Peninsular Malaysia it must hold a licence issued under the **Moneylenders Act 1951 (Act 400)** by the **Ministry of Housing and Local Government (KPKT)**. In 2021 KPKT rebranded the licensed trade as the **Credit Community (Komuniti Kredit)**, so official material uses both names — but the governing law and licensing requirement are unchanged.
+A moneylender is a business that lends money for profit outside the banking system. In Peninsular Malaysia it must hold a licence issued under the **Moneylenders Act 1951 (Act 400)** by the **[Ministry of Housing and Local Government](/government/ministry-of-housing-local-government-kpkt) (KPKT)**. In 2021 KPKT rebranded the licensed trade as the **Credit Community (Komuniti Kredit)**, so official material uses both names — but the governing law and licensing requirement are unchanged.
 
 A licence matters because it brings the lender under real rules: capped interest, limited charges, a prescribed loan agreement, and conduct restrictions (for example, a licensed lender may not turn up at your home or workplace to collect). An unlicensed lender is bound by none of these and operates as a criminal.
 

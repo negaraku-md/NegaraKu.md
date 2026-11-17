@@ -58,7 +58,7 @@ obligations:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 
 status: "published"
 aiAssisted: true
@@ -277,7 +277,7 @@ M組の登録基準額は**なし**である。納税義務の有無は、営業
 - **第2項**——第30号法令、1996年民間高等教育機関法（Private Higher Educational Institutions Act 1996）又は1996年教育法のもとでの高等教育機関が、**非マレーシア人に提供する**サービス。
 - **第3項**——1996年教育法のもとで登録された語学センターが、**非マレーシア人に提供する**サービス。
 
-Service Tax Policy No. 4/2025は、付随的な費用の長いリストを免除する。書籍、制服、飲食、交通、宿泊、学費に含まれない返還可能な預り金、PTA（父母教師会）費用、学費に含まれない教育旅行、並びに学生パス又はビザの費用である。Amendment No. 1は、外務省の確認書を有する外国外交官の子女及び被扶養者に対する免除、並びに機関、企業、財団又はその他の団体によって全額支援される学費に対する免除を追加する。
+Service Tax Policy No. 4/2025は、付随的な費用の長いリストを免除する。書籍、制服、飲食、交通、宿泊、学費に含まれない返還可能な預り金、PTA（父母教師会）費用、学費に含まれない教育旅行、並びに学生パス又はビザの費用である。Amendment No. 1は、[外務省](/ja/government/ministry-of-foreign-affairs-wisma-putra)の確認書を有する外国外交官の子女及び被扶養者に対する免除、並びに機関、企業、財団又はその他の団体によって全額支援される学費に対する免除を追加する。
 
 ## 美容——実現しなかった拡大
 

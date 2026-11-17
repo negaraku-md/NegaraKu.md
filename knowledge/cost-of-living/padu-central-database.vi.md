@@ -29,7 +29,7 @@ faq:
     a: "Không. Theo chính phủ, việc thu thập dữ liệu của PADU không liên quan đến hệ thống thông tin ngân hàng do các hạn chế pháp lý."
 
 lang: "vi"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 
 ## PADU là gì?
 
-PADU, hay Pangkalan Data Utama, là cơ sở dữ liệu chủ quốc gia được Thủ tướng Anwar Ibrahim ra mắt vào ngày 2 tháng 1 năm 2024. Nó được phát triển chung bởi Bộ Kinh tế, Cục Thống kê Malaysia (DOSM) và Đơn vị Hiện đại hóa Hành chính và Kế hoạch Quản lý Malaysia (MAMPU).
+PADU, hay Pangkalan Data Utama, là cơ sở dữ liệu chủ quốc gia được Thủ tướng Anwar Ibrahim ra mắt vào ngày 2 tháng 1 năm 2024. Nó được phát triển chung bởi [Bộ Kinh tế](/vi/government/ministry-of-economy-malaysia-plans), Cục Thống kê Malaysia (DOSM) và Đơn vị Hiện đại hóa Hành chính và Kế hoạch Quản lý Malaysia (MAMPU).
 
 Theo chính phủ, mục đích của nó là tập hợp bức tranh kinh tế-xã hội của người dân vào một nơi để trợ giá và trợ cấp có thể được nhắm đến các nhóm đã định, chứ không được cấp đại trà cho mọi tầng lớp thu nhập.
 

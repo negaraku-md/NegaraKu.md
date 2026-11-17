@@ -37,7 +37,7 @@ faq:
     a: "La ASEAN es la piedra angular o el cimiento de la política exterior de Malasia. Malasia es uno de los países fundadores de la ASEAN y da prioridad de manera sistemática a la integridad y la centralidad de la ASEAN, al tiempo que permanece activa en otros foros como las Naciones Unidas (ONU), la Organización de Cooperación Islámica (OCI) y el Movimiento de Países No Alineados (MNOAL)."
 
 lang: "es"
-sourceContentHash: "500f0f356d6c239e"
+sourceContentHash: "e4879b43ed98e1b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Cuando Estados Unidos es el mayor inversor extranjero en la economía de Malasia
 
 Muchos suponen que la «política exterior» es obra de un único ministerio. En realidad es un asunto por capas.
 
-El Ministerio de Asuntos Exteriores —más conocido como **Wisma Putra**, por su edificio— tiene el mandato de *llevar a cabo* y coordinar la política exterior de Malasia en virtud de la Constitución Federal, con el objetivo de proteger y promover los intereses del país en el escenario internacional. Wisma Putra gestiona la red de embajadas, altas comisiones y consulados de Malasia en todo el mundo, negocia las posiciones del país en los foros internacionales y vela por el bienestar de los malasios en el extranjero.
+El [Ministerio de Asuntos Exteriores](/es/government/ministry-of-foreign-affairs-wisma-putra) —más conocido como **Wisma Putra**, por su edificio— tiene el mandato de *llevar a cabo* y coordinar la política exterior de Malasia en virtud de la Constitución Federal, con el objetivo de proteger y promover los intereses del país en el escenario internacional. Wisma Putra gestiona la red de embajadas, altas comisiones y consulados de Malasia en todo el mundo, negocia las posiciones del país en los foros internacionales y vela por el bienestar de los malasios en el extranjero.
 
 Pero las decisiones de política de más alto nivel no pertenecen únicamente a ese ministerio. Recaen en el **Primer Ministro y el Gabinete**. El Primer Ministro suele actuar como el rostro diplomático del país en las visitas oficiales y en las cumbres, mientras que el Ministro de Asuntos Exteriores encabeza Wisma Putra y representa a Malasia en la mayoría de las reuniones ministeriales. En la historia de Malasia ha habido momentos en que los cargos de Primer Ministro y Ministro de Asuntos Exteriores los ocupó la misma persona, lo que muestra cuán estrechamente están ligados ambos papeles.
 

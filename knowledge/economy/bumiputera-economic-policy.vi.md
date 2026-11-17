@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo và bất kỳ ai muốn hiểu tính liên tục của các mục tiêu chính sách kinh tế Bumiputera từ DEB đến kế hoạch hiện hành."
 
 lang: "vi"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Ba trụ cột đó được hỗ trợ bởi **12 động lực** và **132 sá
 
 PuTERA35 đo lường tiến độ theo ba chiều cốt lõi của nó — **Tham gia, Sở hữu và Làm chủ**. Cổng chính thức của kế hoạch này liệt kê các chỉ tiêu có thể đo lường trải rộng các lĩnh vực như việc làm có kỹ năng, sở hữu vốn cổ phần, tỷ lệ nghèo cùng cực, sở hữu nhà ở và đóng góp của doanh nghiệp Bumiputera vào nền kinh tế.
 
-Trong số các chỉ tiêu do Bộ Kinh tế nêu ra:
+Trong số các chỉ tiêu do [Bộ Kinh tế](/vi/government/ministry-of-economy-malaysia-plans) nêu ra:
 
 - **Đóng góp của doanh nghiệp Bumiputera vào GDP** được nhắm tăng từ **8,1 phần trăm (2022) lên 15 phần trăm (2035)**.
 - **Sự tham gia và làm chủ của người Bumiputera qua vốn cổ phần GLC và GLIC** được nhắm tăng từ **18,7 phần trăm (2020) lên 20 phần trăm (2035)**.

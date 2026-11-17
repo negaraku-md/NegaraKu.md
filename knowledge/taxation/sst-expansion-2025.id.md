@@ -56,7 +56,7 @@ obligations:
     consequence: "Penalti pembayaran terlambat yang meningkat dan penuntutan"
 
 lang: "id"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -416,7 +416,7 @@ seragam, makanan dan minuman, transportasi, akomodasi, deposit yang dapat
 dikembalikan yang bukan bagian dari biaya kuliah, biaya PIBG, kunjungan pendidikan
 yang bukan bagian dari biaya kuliah, dan biaya pas pelajar atau visa. Amendemen No. 1
 menambah pengecualian bagi anak dan tanggungan diplomat asing yang memegang surat
-pengesahan Kementerian Luar Negeri, dan bagi biaya yang disponsori sepenuhnya oleh
+pengesahan [Kementerian Luar Negeri](/id/government/ministry-of-foreign-affairs-wisma-putra), dan bagi biaya yang disponsori sepenuhnya oleh
 institusi, perusahaan, yayasan, atau organisasi lain.
 
 ## Kecantikan — perluasan yang tidak pernah terjadi

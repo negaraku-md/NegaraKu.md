@@ -77,7 +77,7 @@ framework: profile
 wikidata: "Q13646141"
 ---
 
-Ask anyone in Malaysia who to call when a building is burning or someone is trapped, and the answer is the same single word: **Bomba**. The **Fire and Rescue Department of Malaysia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), known to almost everyone simply as **BOMBA** — is the federal agency responsible for firefighting, rescue, hazardous-material response and fire-safety enforcement across the country. It is an agency under the **Ministry of Housing and Local Government** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), and in an emergency it is reached by dialling **999**.
+Ask anyone in Malaysia who to call when a building is burning or someone is trapped, and the answer is the same single word: **Bomba**. The **Fire and Rescue Department of Malaysia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), known to almost everyone simply as **BOMBA** — is the federal agency responsible for firefighting, rescue, hazardous-material response and fire-safety enforcement across the country. It is an agency under the [**Ministry of Housing and Local Government**](/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), and in an emergency it is reached by dialling **999**.
 
 ## What is BOMBA?
 

@@ -31,7 +31,7 @@ faq:
   - q: ¿Cómo ha cambiado el comercio electrónico al comercio minorista malasio?
     a: La compra en línea ha crecido rápidamente, liderada por plataformas como Shopee y Lazada, y la línea entre el comercio minorista en línea y físico se ha difuminado a medida que los minoristas tradicionales añaden entrega, recogida en tienda y escaparates en línea. Las cifras de ingresos del comercio electrónico del DOSM alcanzan el orden de los billones de ringgit, aunque ese total abarca la manufactura y los servicios, no solo el comercio minorista.
 lang: es
-sourceContentHash: "f2f74b511fb8617a"
+sourceContentHash: "7023892418e3b1e5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -145,7 +145,7 @@ El cambio más importante es la difuminación entre lo online y lo offline. Tant
 
 ## La participación extranjera y la licencia WRT
 
-El comercio distributivo es uno de los sectores en los que Malasia regula la propiedad extranjera. Las empresas de propiedad extranjera que quieren vender al por mayor o al por menor suelen quedar bajo las directrices del Ministerio de Comercio Interior y Costo de Vida (**KPDN**) sobre la participación extranjera en el comercio distributivo, y normalmente necesitan una **licencia de comercio mayorista/minorista (WRT)**.
+El comercio distributivo es uno de los sectores en los que Malasia regula la propiedad extranjera. Las empresas de propiedad extranjera que quieren vender al por mayor o al por menor suelen quedar bajo las directrices del [Ministerio de Comercio Interior y Costo de Vida](/es/government/ministry-of-domestic-trade-kpdn) (**KPDN**) sobre la participación extranjera en el comercio distributivo, y normalmente necesitan una **licencia de comercio mayorista/minorista (WRT)**.
 
 Las normas fijan condiciones que cambian de un formato a otro. Los formatos más grandes, como los hipermercados, conllevan requisitos de capital mínimo más altos, e históricamente ha habido condiciones sobre la participación accionarial bumiputera y la contratación de personal que reflejan la composición demográfica del país. Varios formatos más pequeños —como los pequeños supermercados, los minimercados, los colmados y las tiendas de conveniencia abiertas 24 horas— han estado por lo general reservados a la propiedad malasia. Como estos umbrales y listas se modifican periódicamente, cualquiera que planee invertir debe confirmar la edición vigente de la directriz con el KPDN. La mecánica práctica de la licencia se trata en la [guía de la licencia WRT](/es/business/wrt-licence-malaysia/).
 

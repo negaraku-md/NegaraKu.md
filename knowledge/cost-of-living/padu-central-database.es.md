@@ -29,7 +29,7 @@ faq:
     a: "No. Según el gobierno, la recopilación de datos de PADU no involucra los sistemas de información bancaria debido a restricciones legales."
 
 lang: "es"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ Para pasar de los subsidios generalizados a una ayuda más dirigida, el gobierno
 
 ## ¿Qué es PADU?
 
-PADU, o Pangkalan Data Utama (Base de Datos Central), es la base de datos maestra nacional lanzada por el primer ministro Anwar Ibrahim el 2 de enero de 2024. Fue desarrollada conjuntamente por el Ministerio de Economía, el Departamento de Estadística de Malasia (DOSM) y la Unidad de Planificación de la Modernización Administrativa y la Gestión de Malasia (MAMPU).
+PADU, o Pangkalan Data Utama (Base de Datos Central), es la base de datos maestra nacional lanzada por el primer ministro Anwar Ibrahim el 2 de enero de 2024. Fue desarrollada conjuntamente por el [Ministerio de Economía](/es/government/ministry-of-economy-malaysia-plans), el Departamento de Estadística de Malasia (DOSM) y la Unidad de Planificación de la Modernización Administrativa y la Gestión de Malasia (MAMPU).
 
 Según el gobierno, su propósito es reunir en un solo lugar una imagen socioeconómica de la población para que los subsidios y las ayudas puedan dirigirse a los grupos que se han definido, en lugar de canalizarse indiscriminadamente en todos los niveles de renta.
 

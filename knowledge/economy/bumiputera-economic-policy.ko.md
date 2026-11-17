@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 그리고 DEB에서 현행 계획까지 부미푸트라 경제정책 목표의 연속성을 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -163,7 +163,7 @@ PuTERA35는 그 핵심이 되는 세 가지 차원 — **참여, 소유, 지배*
 계획의 공식 포털은 숙련 고용, 지분 소유, 극빈율, 주택 소유, 부미푸트라 기업의 경제 기여
 같은 분야에 걸쳐 측정 가능한 지표를 열거합니다.
 
-경제부가 명시한 지표 중에는 다음이 있습니다.
+[경제부](/ko/government/ministry-of-economy-malaysia-plans)가 명시한 지표 중에는 다음이 있습니다.
 
 - **부미푸트라 기업의 GDP 기여**를 **8.1%(2022년)에서 15%(2035년)로** 높이는 것을 목표로
   합니다.

@@ -32,7 +32,7 @@ faq:
     a: "The MyGovernment portal states that the decision is permanent and irrevocable; a person who renounces their citizenship permanently loses all rights and privileges as a Malaysian citizen."
 
 lang: "en"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ A Malaysian who takes an oath to become a citizen of another country is often sh
 
 ## Why does Malaysia not recognise dual citizenship?
 
-The Government's official position is that Malaysia does not recognise the holding of more than one citizenship for adults. In 2019, the Home Minister at the time stated that "Malaysia does not recognise dual citizenship", and explained that Malaysians who acquire citizenship elsewhere may lose their Malaysian citizenship under Article 24(1) of the Federal Constitution.
+The Government's official position is that Malaysia does not recognise the holding of more than one citizenship for adults. In 2019, the Home Minister at the time stated that "Malaysia does not recognise dual citizenship", and explained that Malaysians who acquire citizenship elsewhere may lose their [Malaysian citizenship](/en/government/malaysian-citizenship-law) under Article 24(1) of the Federal Constitution.
 
 The legal basis lies in the text of the Constitution. Article 24(1) provides:
 

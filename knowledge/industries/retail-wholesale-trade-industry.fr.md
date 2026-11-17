@@ -31,7 +31,7 @@ faq:
   - q: "Comment le commerce électronique a-t-il transformé le commerce de détail malaisien ?"
     a: "Les achats en ligne ont connu une croissance rapide, portés par des plateformes telles que Shopee et Lazada, et la frontière entre détail en ligne et détail physique s'est estompée à mesure que les détaillants traditionnels ajoutent la livraison, le retrait en magasin (click-and-collect) et des vitrines en ligne. Les chiffres de revenu du commerce électronique de la DOSM atteignent des billions de ringgit, bien que ce total couvre la fabrication et les services, et non le seul détail."
 lang: fr
-sourceContentHash: "f2f74b511fb8617a"
+sourceContentHash: "7023892418e3b1e5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -145,7 +145,7 @@ Le changement le plus important est l'estompement de la frontière entre en lign
 
 ## Participation étrangère et licence WRT
 
-Le commerce de distribution est l'un des secteurs où la Malaisie réglemente la propriété étrangère. Les sociétés à capitaux étrangers qui souhaitent vendre en gros ou au détail relèvent généralement des lignes directrices du Ministère du Commerce intérieur et du Coût de la vie (**KPDN**) sur la participation étrangère au commerce de distribution, et ont généralement besoin d'une **licence de commerce de gros/détail (WRT)**.
+Le commerce de distribution est l'un des secteurs où la Malaisie réglemente la propriété étrangère. Les sociétés à capitaux étrangers qui souhaitent vendre en gros ou au détail relèvent généralement des lignes directrices du [Ministère du Commerce intérieur et du Coût de la vie](/fr/government/ministry-of-domestic-trade-kpdn) (**KPDN**) sur la participation étrangère au commerce de distribution, et ont généralement besoin d'une **licence de commerce de gros/détail (WRT)**.
 
 Les règles fixent des conditions qui varient d'un format à l'autre. Les formats plus grands tels que les hypermarchés sont soumis à des exigences de capital minimum plus élevées, et il y a historiquement eu des conditions relatives à la participation Bumiputera au capital et à l'embauche de personnel reflétant la composition démographique du pays. Plusieurs formats plus petits — tels que les petits supermarchés, les supérettes, les épiceries et les magasins de proximité ouverts 24 heures sur 24 — ont généralement été réservés à la propriété malaisienne. Comme ces seuils et ces listes sont périodiquement modifiés, quiconque envisage d'investir devrait confirmer l'édition en vigueur de la directive auprès du KPDN. Les modalités pratiques de la licence sont traitées dans le [guide de la licence WRT](/fr/business/wrt-licence-malaysia/).
 

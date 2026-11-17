@@ -27,7 +27,7 @@ faq:
   - q: "내무부 장관은 누구입니까?"
     a: "2026년 현재 내무부 장관은 Datuk Seri Panglima Saifuddin Nasution bin Ismail로, 2022년 12월 3일부터 재임 중입니다. 내각의 소관은 개편에 따라 바뀌므로 moha.gov.my에서 현재 재직자를 확인하십시오."
 lang: "ko"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -112,7 +112,7 @@ KDN의 대중 대면 권한 대부분은 본부 직원이 아니라 그 산하�
 | 교정청(Prison Department) | 인신매매방지위원회(MAPO) |
 | 국가등록청(JPN) | 범죄예방위원회 |
 | 단체등록청(ROS) | 가석방위원회 |
-| 국민의용단(RELA) | 영화검열위원회 |
+| [국민의용단](/ko/government/peoples-volunteer-corps-rela)(RELA) | 영화검열위원회 |
 | 해양집행청(MMEA/APMM) | 테러예방위원회 |
 | 사바동부안보사령부(ESSCOM) | 국가인쇄공사(PNMB) |
 

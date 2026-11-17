@@ -29,7 +29,7 @@ faq:
     a: "Tidak. Menurut pemerintah, pengumpulan data PADU tidak melibatkan sistem informasi perbankan karena pembatasan undang-undang."
 
 lang: "id"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ Untuk mengubah subsidi menyeluruh menjadi bantuan yang lebih bersasaran, pemerin
 
 ## Apa itu PADU?
 
-PADU, atau Pangkalan Data Utama, adalah basis data induk nasional yang diluncurkan oleh Perdana Menteri Anwar Ibrahim pada 2 Januari 2024. Ia dikembangkan bersama oleh Kementerian Ekonomi, Departemen Statistik Malaysia (DOSM), dan Unit Modernisasi Administrasi dan Perencanaan Manajemen Malaysia (MAMPU).
+PADU, atau Pangkalan Data Utama, adalah basis data induk nasional yang diluncurkan oleh Perdana Menteri Anwar Ibrahim pada 2 Januari 2024. Ia dikembangkan bersama oleh [Kementerian Ekonomi](/id/government/ministry-of-economy-malaysia-plans), Departemen Statistik Malaysia (DOSM), dan Unit Modernisasi Administrasi dan Perencanaan Manajemen Malaysia (MAMPU).
 
 Menurut pemerintah, tujuannya adalah menghimpun gambaran sosioekonomi rakyat dalam satu tempat agar subsidi dan bantuan dapat disasarkan kepada kelompok yang ditetapkan, bukan disalurkan secara menyeluruh kepada semua lapisan pendapatan.
 

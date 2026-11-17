@@ -31,7 +31,7 @@ faq:
   - q: Chế tạo thực phẩm được điều tiết như thế nào ở Malaysia?
     a: An toàn và ghi nhãn thực phẩm được điều chỉnh bởi Đạo luật Thực phẩm 1983 và các quy định phụ (như Quy định Thực phẩm 1985 và Quy định Vệ sinh Thực phẩm 2009), do Bộ Y tế quản lý. Các tuyên bố halal được kiểm soát riêng bởi Cục Phát triển Hồi giáo Malaysia (JAKIM), cơ quan cấp chứng nhận halal chính thức.
 lang: vi
-sourceContentHash: "ac70589426331148"
+sourceContentHash: "391a7deab0b3d94e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -135,7 +135,7 @@ Nếu có một thứ làm F&B Malaysia nổi bật trên trường quốc tế,
 
 Quy mô là đáng kể. Tổng xuất khẩu sản phẩm halal của Malaysia đạt khoảng **RM61,79 tỷ năm 2024**, tăng khoảng 15% so với RM53,72 tỷ năm trước, theo bộ thương mại ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). Thực phẩm chế biến là một phần cốt lõi của rổ đó, và chính phủ đã dẫn các dự báo thị trường halal toàn cầu khoảng 5 nghìn tỷ USD vào năm 2030 như phần thưởng.
 
-Đà xuất khẩu đã mạnh ở các khu vực mới. MATRADE đã báo cáo xuất khẩu thực phẩm chế biến sang Châu Âu khoảng RM3,48 tỷ năm 2024 — một cú nhảy khoảng 70% — dẫn đầu bởi sản phẩm ca cao, kem không sữa, bánh kẹo và bánh quy, và xuất khẩu sang Trung Đông và Bắc Phi khoảng RM2,32 tỷ, với UAE là thị trường lớn nhất ở đó ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Các cơ quan như Tổng công ty Phát triển Halal (HDC) và MATRADE tích cực quảng bá F&B Malaysia tại các hội chợ thương mại như Gulfood và Anuga. Để có bức tranh rộng hơn, xem hướng dẫn về [ngành và nền kinh tế halal](/vi/industries/halal-industry-economy/) và cách [chứng nhận halal](/vi/industries/halal-certification-system/) vận hành.
+Đà xuất khẩu đã mạnh ở các khu vực mới. [MATRADE](/vi/government/matrade) đã báo cáo xuất khẩu thực phẩm chế biến sang Châu Âu khoảng RM3,48 tỷ năm 2024 — một cú nhảy khoảng 70% — dẫn đầu bởi sản phẩm ca cao, kem không sữa, bánh kẹo và bánh quy, và xuất khẩu sang Trung Đông và Bắc Phi khoảng RM2,32 tỷ, với UAE là thị trường lớn nhất ở đó ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Các cơ quan như Tổng công ty Phát triển Halal (HDC) và MATRADE tích cực quảng bá F&B Malaysia tại các hội chợ thương mại như Gulfood và Anuga. Để có bức tranh rộng hơn, xem hướng dẫn về [ngành và nền kinh tế halal](/vi/industries/halal-industry-economy/) và cách [chứng nhận halal](/vi/industries/halal-certification-system/) vận hành.
 
 ## Các tay chơi chính là ai?
 

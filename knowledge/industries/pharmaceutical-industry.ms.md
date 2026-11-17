@@ -31,7 +31,7 @@ faq:
   - q: Apakah syarikat farmaseutikal Malaysia yang utama?
     a: Pengeluar tempatan yang paling dikenali ialah Pharmaniaga (pembuat, pengedar dan pemegang konsesi kerajaan yang bersepadu), Duopharma Biotech (yang tumbuh daripada kumpulan CCM dan membuat biosimilar), CCM, Kotra Pharma dan Hovid. Syarikat multinasional seperti Pfizer, Novartis dan GSK memberi tumpuan terutamanya kepada ubat berpaten dan bukan pengeluaran tempatan berskala besar.
 lang: ms
-sourceContentHash: "298a60d12beaab87"
+sourceContentHash: "74d70b70b888e308"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,7 +114,7 @@ Firma tempatan kuat dalam tablet, kapsul, sirap, krim dan suntikan generik, sert
 
 Angka yang paling jelas adalah tentang bekalan, bukan jualan: badan industri mengatakan pengeluar tempatan memenuhi sebahagian besar permintaan *generik* domestik. Pertubuhan Industri Farmaseutikal Malaysia (MOPI) menyatakan kira-kira **80% ubat generik dikeluarkan secara tempatan** dan bahawa ahlinya membekalkan kira-kira **separuh daripada semua ubat** yang digunakan rakyat Malaysia; gambaran lain meletakkan swasembada generik tempatan pada **70-80%** [sahkan]. Swasembada itu ialah aset strategik yang tulen — ia diuji secara nyata, dan sebahagian besarnya bertahan, semasa kejutan bekalan era pandemik.
 
-Dari segi perdagangan, pelaporan media angka MATRADE meletakkan **eksport farmaseutikal pada kira-kira RM3.04 bilion pada 2024** (naik sekitar 4%), dalam perdagangan peranti-perubatan-dan-farmaseutikal gabungan kira-kira **RM61.31 bilion** — walaupun peranti perubatan, bukan ubat, membentuk sebahagian besar angka yang lebih besar itu [sahkan]. Pasaran domestik itu sendiri dilaporkan dijangka mencapai kira-kira **AS$3.5 bilion menjelang 2028** [sahkan]. Angka-angka ini datang daripada pelaporan sekunder dan perlu disahkan terhadap MATRADE, Jabatan Perangkaan Malaysia (DOSM) dan MIDA sebelum dipetik sebagai rasmi.
+Dari segi perdagangan, pelaporan media angka [MATRADE](/ms/government/matrade) meletakkan **eksport farmaseutikal pada kira-kira RM3.04 bilion pada 2024** (naik sekitar 4%), dalam perdagangan peranti-perubatan-dan-farmaseutikal gabungan kira-kira **RM61.31 bilion** — walaupun peranti perubatan, bukan ubat, membentuk sebahagian besar angka yang lebih besar itu [sahkan]. Pasaran domestik itu sendiri dilaporkan dijangka mencapai kira-kira **AS$3.5 bilion menjelang 2028** [sahkan]. Angka-angka ini datang daripada pelaporan sekunder dan perlu disahkan terhadap MATRADE, Jabatan Perangkaan Malaysia (DOSM) dan MIDA sebelum dipetik sebagai rasmi.
 
 Satu amaran struktur terletak di sebalik semua ini: Malaysia mengimport nilai farmaseutikal jauh lebih banyak daripada yang dieksportnya — satu angka tangan kedua mencadangkan import berjalan beberapa kali ganda nilai eksport dalam tahun-tahun kebelakangan [sahkan] — tepatnya kerana ubat berpaten dan istimewa dibeli masuk, bukan dibuat secara tempatan.
 

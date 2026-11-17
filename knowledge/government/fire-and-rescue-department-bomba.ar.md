@@ -29,7 +29,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-اسأل أي أحد في ماليزيا من يتصل به حين يحترق مبنى أو يعلق أحد، والجواب هو الكلمة نفسها: **بومبا (Bomba)**. فـ**دائرة الإطفاء والإنقاذ الماليزية** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**)، المعروفة لدى الجميع تقريبًا ببساطة باسم **BOMBA** — هي الجهاز الاتحادي المسؤول عن الإطفاء والإنقاذ والاستجابة للمواد الخطرة وإنفاذ السلامة من الحرائق في عموم البلاد. وهي جهاز تابع لـ**وزارة الإسكان والحكم المحلي** (*Kementerian Perumahan dan Kerajaan Tempatan*، KPKT)، ويُتصل بها في الطوارئ بالاتصال على **999**.
+اسأل أي أحد في ماليزيا من يتصل به حين يحترق مبنى أو يعلق أحد، والجواب هو الكلمة نفسها: **بومبا (Bomba)**. فـ**دائرة الإطفاء والإنقاذ الماليزية** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**)، المعروفة لدى الجميع تقريبًا ببساطة باسم **BOMBA** — هي الجهاز الاتحادي المسؤول عن الإطفاء والإنقاذ والاستجابة للمواد الخطرة وإنفاذ السلامة من الحرائق في عموم البلاد. وهي جهاز تابع لـ[**وزارة الإسكان والحكم المحلي**](/ar/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*، KPKT)، ويُتصل بها في الطوارئ بالاتصال على **999**.
 
 ## ما هي BOMBA؟
 

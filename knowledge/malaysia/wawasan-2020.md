@@ -134,7 +134,7 @@ Isu jurang pendapatan dan perpaduan sosial kekal sebagai tema perbincangan awam 
 
 ## Apakah yang menggantikan Wawasan 2020?
 
-Apabila tempoh Wawasan 2020 menghampiri penghujungnya, kerajaan memperkenalkan gagasan penerus. Wawasan Kemakmuran Bersama 2030 (WKB 2030) dilancarkan pada Oktober 2019 untuk tempoh 2021 hingga 2030, dengan tumpuan kepada pertumbuhan ekonomi yang mampan dan pengagihan kemakmuran yang lebih saksama merentas semua kumpulan. Kementerian Ekonomi menyediakan dokumen rasmi WKB 2030 dalam bahasa Melayu dan Inggeris.
+Apabila tempoh Wawasan 2020 menghampiri penghujungnya, kerajaan memperkenalkan gagasan penerus. Wawasan Kemakmuran Bersama 2030 (WKB 2030) dilancarkan pada Oktober 2019 untuk tempoh 2021 hingga 2030, dengan tumpuan kepada pertumbuhan ekonomi yang mampan dan pengagihan kemakmuran yang lebih saksama merentas semua kumpulan. [Kementerian Ekonomi](/government/ministry-of-economy-malaysia-plans) menyediakan dokumen rasmi WKB 2030 dalam bahasa Melayu dan Inggeris.
 
 Bagi laluan ke hadapan, laporan Bank Dunia pada Februari 2025 menganggarkan Malaysia berkemungkinan beralih kepada taraf negara berpendapatan tinggi antara tahun 2028 dan 2030 — beberapa tahun selepas tarikh sasaran asal Wawasan 2020.
 

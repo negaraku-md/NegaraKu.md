@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang menyokong pelaburan tekstil dan pakaian?
     a: MIDA mentadbir kelulusan lesen pembuatan dan insentif cukai bagi subsektor ini, yang merupakan bidang keutamaan di bawah Pelan Induk Perindustrian Baharu (NIMP) 2030. Mulai suku pertama 2026, pelaburan yang layak tertakluk di bawah Rangka Kerja Insentif Pelaburan Baharu yang berasaskan hasil, dengan insentif berperingkat yang dikaitkan dengan hasil seperti teknologi, kemahiran dan hubungan tempatan. Sahkan kadar dan syarat semasa dengan MIDA.
 lang: ms
-sourceContentHash: "610641d5d177ffdc"
+sourceContentHash: "1841208413fe19a3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Di sebelah hujung pukal terletak satu jalur warisan yang tersendiri — **batik 
 
 ## Sebesar mana ia?
 
-Industri ini lama bertapak tetapi, mengikut piawai Malaysia, tidak lagi besar berbanding pembuatan yang lain. Menurut angka yang dikaitkan dengan **Perbadanan Pembangunan Perdagangan Luar Malaysia (MATRADE)**, perdagangan pakaian dan aksesori pakaian mencapai kira-kira **RM18.24 bilion pada 2025**, naik 8.3% tahun ke tahun, dengan **eksport kira-kira RM6.88 bilion**. Penghantaran terus meningkat pada awal 2026.
+Industri ini lama bertapak tetapi, mengikut piawai Malaysia, tidak lagi besar berbanding pembuatan yang lain. Menurut angka yang dikaitkan dengan **Perbadanan Pembangunan Perdagangan Luar Malaysia ([MATRADE](/ms/government/matrade))**, perdagangan pakaian dan aksesori pakaian mencapai kira-kira **RM18.24 bilion pada 2025**, naik 8.3% tahun ke tahun, dengan **eksport kira-kira RM6.88 bilion**. Penghantaran terus meningkat pada awal 2026.
 
 Angka yang lebih memberitahu ialah aliran dalam *bahagian*. Keratan tekstil-dan-kasut daripada jumlah eksport Malaysia jatuh daripada sekitar **2.9% pada 2000 kepada kira-kira 1.1% pada 2023**, menurut analisis MIDF Research — bukan kerana industri runtuh, tetapi kerana elektronik dan sektor lain berkembang jauh lebih pantas sementara pengeluar pakaian kos rendah di luar negara merampas jumlah. (Angka ini diambil daripada ringkasan berita dan penyelidikan dan bukan satu keluaran rasmi tunggal; lihat nota pengesahan.)
 

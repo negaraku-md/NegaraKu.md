@@ -31,7 +31,7 @@ faq:
   - q: "Quelles incitations existent pour les fabricants ?"
     a: "Les dispositifs médicaux sont une activité promue par la MIDA, éligible à des incitations telles que le statut de pionnier (Pioneer Status) (une exonération partielle à totale de l'impôt sur le revenu pour une période déterminée) et l'abattement fiscal pour investissement (Investment Tax Allowance) sur les dépenses en capital admissibles. Les dispositifs médicaux sont également désignés secteur prioritaire au titre du Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030). Confirmer les conditions et l'éligibilité actuelles directement auprès de la MIDA."
 lang: fr
-sourceContentHash: "03a22155918ac33b"
+sourceContentHash: "0f609e23d14a24f5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Un « dispositif médical » est tout instrument, appareil, implant ou réactif 
 
 La position de la Malaisie se saisit le mieux à l'échelle régionale. Dans un communiqué conjoint en octobre 2024, la MIDA et l'Association of Malaysian Medical Industries (AMMI) ont décrit la Malaisie comme le premier pôle medtech d'Asie du Sud-Est, siège du plus grand marché intérieur de dispositifs médicaux de la région — d'une valeur d'environ **RM10,6 milliards en 2023** — et de la plus forte concentration régionale d'entreprises medtech multinationales.
 
-Côté exportations, les chiffres varient et doivent être traités avec prudence. Les déclarations du ministère de la Santé et des médias situent les exportations de dispositifs médicaux de 2024 à environ **RM37 milliards**, en hausse d'environ 31 % par rapport à l'année précédente. Un responsable de MATRADE aurait séparément cité **8,7 milliards de dollars US** pour 2024 en plaçant la Malaisie parmi les cinq premiers sites mondiaux de fabrication de dispositifs médicaux, aux côtés du Costa Rica et de Porto Rico. Ces chiffres ne se concilient pas nettement, et aucun total officiel unique n'a été confirmé pour ce guide, de sorte que chacun est signalé pour vérification.
+Côté exportations, les chiffres varient et doivent être traités avec prudence. Les déclarations du ministère de la Santé et des médias situent les exportations de dispositifs médicaux de 2024 à environ **RM37 milliards**, en hausse d'environ 31 % par rapport à l'année précédente. Un responsable de [MATRADE](/fr/government/matrade) aurait séparément cité **8,7 milliards de dollars US** pour 2024 en plaçant la Malaisie parmi les cinq premiers sites mondiaux de fabrication de dispositifs médicaux, aux côtés du Costa Rica et de Porto Rico. Ces chiffres ne se concilient pas nettement, et aucun total officiel unique n'a été confirmé pour ce guide, de sorte que chacun est signalé pour vérification.
 
 L'empreinte humaine du secteur est également substantielle : les **91 entreprises membres** de l'AMMI à elles seules soutiendraient **plus de 54 000 emplois** et représenteraient plus de la moitié des contributions du pays aux exportations de dispositifs médicaux. À l'échelle de l'économie, les déclarations ministérielles font état de plus de 200 fabricants.
 

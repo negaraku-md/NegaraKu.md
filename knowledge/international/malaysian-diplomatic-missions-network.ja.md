@@ -32,7 +32,7 @@ faq:
     a: "常駐する外国大使館および高等弁務官事務所の大半はクアラルンプールとプトラジャヤにあり、一部の国はペナン、ジョホールバル、コタキナバル、クチンなどの都市でも領事館を運営している。"
 
 lang: "ja"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ framework: data-reference
 
 ## マレーシアの海外ネットワークはどれほどの規模か？
 
-外務省は、その海外におけるプレゼンスをいくつかの公館タイプに分類している。
+[外務省](/ja/government/ministry-of-foreign-affairs-wisma-putra)は、その海外におけるプレゼンスをいくつかの公館タイプに分類している。
 合計すると**85か国に111の公館**となる。
 
 | 公館の種類 | 数 | 内容 |

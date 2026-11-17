@@ -114,7 +114,7 @@ Investment interest has tracked that growth. MIDA reports that approved M&E inve
 
 **Specialised process machinery** is Malaysia's standout strength. The country has built deep capability in **automated test, assembly and handling equipment for the semiconductor and electronics industry**, alongside **palm-oil milling and processing machinery** and **food and beverage processing lines**. MIDA also points to deepwater production equipment for oil and gas, precision moulding and power generation.
 
-**Metalworking machinery and machine tools** form the physical foundation beneath all of this. MATRADE lists Malaysian-made machine tools and parts including laser-cutting machines, machining centres, electro-discharge machines (EDM), and milling and forging machines. Precision machining, tooling and high-tolerance metal fabrication are what make the more complex automated systems possible in the first place.
+**Metalworking machinery and machine tools** form the physical foundation beneath all of this. [MATRADE](/government/matrade) lists Malaysian-made machine tools and parts including laser-cutting machines, machining centres, electro-discharge machines (EDM), and milling and forging machines. Precision machining, tooling and high-tolerance metal fabrication are what make the more complex automated systems possible in the first place.
 
 **Industrial automation and robotics** is the growth frontier. As wages rise and customers demand consistency, Malaysian firms are moving from building individual machines to integrating full automated systems — robotic cells, vision-based inspection and smart-factory subsystems — the capabilities most directly rewarded under the country's Industry 4.0 agenda.
 

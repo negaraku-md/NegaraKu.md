@@ -31,7 +31,7 @@ faq:
   - q: Insentif apa yang mendukung investasi tekstil dan pakaian?
     a: MIDA mengelola persetujuan lisensi manufaktur dan insentif pajak untuk subsektor ini, yang menjadi area prioritas di bawah New Industrial Master Plan (NIMP) 2030. Mulai kuartal pertama 2026, investasi yang memenuhi syarat masuk dalam New Investment Incentive Framework berbasis hasil yang baru, dengan insentif berjenjang yang dikaitkan pada hasil seperti teknologi, keterampilan, dan keterkaitan lokal. Konfirmasikan tarif dan syarat terkini dengan MIDA.
 lang: id
-sourceContentHash: "610641d5d177ffdc"
+sourceContentHash: "1841208413fe19a3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Di samping ujung bervolume terdapat untaian warisan yang khas — **batik dan so
 
 ## Seberapa besar ukurannya?
 
-Industri ini sudah lama mapan tetapi, menurut standar Malaysia, tidak lagi besar relatif terhadap bagian manufaktur lainnya. Menurut angka yang diatribusikan kepada **Malaysia External Trade Development Corporation (MATRADE)**, perdagangan pakaian dan aksesori busana mencapai sekitar **RM18,24 miliar pada 2025**, naik 8,3% dari tahun sebelumnya, dengan **ekspor kira-kira RM6,88 miliar**. Pengapalan terus menanjak pada awal 2026.
+Industri ini sudah lama mapan tetapi, menurut standar Malaysia, tidak lagi besar relatif terhadap bagian manufaktur lainnya. Menurut angka yang diatribusikan kepada **Malaysia External Trade Development Corporation ([MATRADE](/id/government/matrade))**, perdagangan pakaian dan aksesori busana mencapai sekitar **RM18,24 miliar pada 2025**, naik 8,3% dari tahun sebelumnya, dengan **ekspor kira-kira RM6,88 miliar**. Pengapalan terus menanjak pada awal 2026.
 
 Angka yang lebih menggambarkan adalah tren *pangsa*. Irisan tekstil-dan-alas-kaki dari total ekspor Malaysia turun dari sekitar **2,9% pada 2000 menjadi sekitar 1,1% pada 2023**, menurut analisis MIDF Research — bukan karena industrinya runtuh, tetapi karena elektronik dan sektor lain tumbuh jauh lebih cepat sementara produsen pakaian berbiaya lebih rendah di luar negeri merebut volume. (Angka-angka ini diambil dari ringkasan berita dan riset, bukan dari satu rilis resmi; lihat catatan verifikasi.)
 

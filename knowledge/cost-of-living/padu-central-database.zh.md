@@ -29,7 +29,7 @@ faq:
     a: "不能。根据政府说法，因法律限制，PADU 的数据收集不涉及银行资料系统。"
 
 lang: "zh"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 
 ## 什么是 PADU？
 
-PADU，即中央资料库（Pangkalan Data Utama），是由首相安华（Anwar Ibrahim）于 2024 年 1 月 2 日推出的国家级主资料库。它由经济部、马来西亚统计局（DOSM）以及马来西亚行政现代化与管理策划单位（MAMPU）共同开发。
+PADU，即中央资料库（Pangkalan Data Utama），是由首相安华（Anwar Ibrahim）于 2024 年 1 月 2 日推出的国家级主资料库。它由[经济部](/zh/government/ministry-of-economy-malaysia-plans)、马来西亚统计局（DOSM）以及马来西亚行政现代化与管理策划单位（MAMPU）共同开发。
 
 根据政府说法，其目的是将国民的社会经济概况汇集于一处，以便将补贴与援助锁定于既定群体，而不是不分收入阶层向所有人普遍发放。
 

@@ -36,7 +36,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4a92402459f1ccc8"
+sourceContentHash: "89a5aa8c792f0100"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ C'est la part que la plupart des gens comprennent de travers, il vaut donc la pe
 
 **Le courtage en prêt et en prêt immobilier — le rôle de montage et de soumission — est largement non réglementé en Malaisie.** Il n'existe **pas de licence dédiée d'« agent de prêt »**, pas de plafond de frais, et **pas de registre de courtiers** à vérifier. Une partie ne devient réglementée que lorsqu'elle fait quelque chose de plus que du courtage :
 
-- si elle **prête elle-même de l'argent**, il lui faut une **licence de prêteur d'argent** du ministère du Logement et des Collectivités locales (KPKT) au titre de la Moneylenders Act 1951 — voir [prêteurs d'argent agréés et arnaques au prêt](/finance/licensed-moneylenders-malaysia) ;
+- si elle **prête elle-même de l'argent**, il lui faut une **licence de prêteur d'argent** du [ministère du Logement et des Collectivités locales](/fr/government/ministry-of-housing-local-government-kpkt) (KPKT) au titre de la Moneylenders Act 1951 — voir [prêteurs d'argent agréés et arnaques au prêt](/finance/licensed-moneylenders-malaysia) ;
 - si elle exerce une **« activité de conseil financier »**, il lui faut l'**approbation de Bank Negara au titre de la Financial Services Act 2013.**
 
 Ce second point est un piège courant. Un **« conseiller financier »** agréé *est* bien un rôle réglementé — mais ce régime est bâti autour de **produits financiers comme l'assurance et le takaful**, non du courtage en prêt. Une société se qualifiant de « conseiller en financement » au sens du montage de dossiers n'est généralement **pas** un conseiller financier approuvé et n'opère pas sous cette licence. Même mot, chose différente.

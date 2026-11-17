@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-マレーシアで誰かに、建物が燃えているときや人が閉じ込められたときに誰を呼ぶかと尋ねれば、答えは同じ一語である——**ボンバ（Bomba）**。**マレーシア消防救助局**——*Jabatan Bomba dan Penyelamat Malaysia*（**JBPM**）、ほとんど誰もが単に **BOMBA** と呼ぶ——は、全国にわたり消火、救助、危険物対応、防火安全の執行を担う連邦機関である。**住宅・地方自治省**（*Kementerian Perumahan dan Kerajaan Tempatan*、KPKT）傘下の機関であり、緊急時には**999**にかけて連絡できる。
+マレーシアで誰かに、建物が燃えているときや人が閉じ込められたときに誰を呼ぶかと尋ねれば、答えは同じ一語である——**ボンバ（Bomba）**。**マレーシア消防救助局**——*Jabatan Bomba dan Penyelamat Malaysia*（**JBPM**）、ほとんど誰もが単に **BOMBA** と呼ぶ——は、全国にわたり消火、救助、危険物対応、防火安全の執行を担う連邦機関である。[**住宅・地方自治省**](/ja/government/ministry-of-housing-local-government-kpkt)（*Kementerian Perumahan dan Kerajaan Tempatan*、KPKT）傘下の機関であり、緊急時には**999**にかけて連絡できる。
 
 ## BOMBA とは何か
 

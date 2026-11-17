@@ -56,7 +56,7 @@ obligations:
     consequence: "Escalating late-payment penalty and prosecution"
 
 lang: "fr"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -443,8 +443,8 @@ remboursables qui ne font pas partie des frais de scolarité, cotisations de
 l'association des parents et enseignants, voyages éducatifs qui ne font pas partie
 des frais de scolarité, et frais de laissez-passer ou de visa étudiant. La
 Modification n° 1 ajoute des exonérations pour les enfants et personnes à charge
-de diplomates étrangers titulaires d'une lettre de confirmation du Ministère des
-Affaires étrangères, et pour les frais entièrement parrainés par des
+de diplomates étrangers titulaires d'une lettre de confirmation du [Ministère des Affaires étrangères](/fr/government/ministry-of-foreign-affairs-wisma-putra),
+et pour les frais entièrement parrainés par des
 institutions, des entreprises, des fondations ou d'autres organisations.
 
 ## Beauté — l'extension qui n'a jamais eu lieu

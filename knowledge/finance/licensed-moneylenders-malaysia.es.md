@@ -34,7 +34,7 @@ faq:
     a: "Esa es una estafa clásica de préstamo con comisión por adelantado. Deje de pagar de inmediato, llame al Centro Nacional de Respuesta a Estafas al 997 (puede intentar congelar la cuenta a la que fue el dinero), compruebe el número de cuenta o de teléfono en Semak Mule en semakmule.rmp.gov.my, y presente una denuncia policial. Un prestamista legítimo con licencia nunca cobra una comisión antes de desembolsar un préstamo."
 
 lang: "es"
-sourceContentHash: "af403774efa8800e"
+sourceContentHash: "ab121346e7722ba5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Cuando un banco dice que no y el efectivo escasea, el siguiente anuncio nunca es
 
 ## ¿Qué hace que un prestamista tenga «licencia»?
 
-Un prestamista es un negocio que presta dinero con ánimo de lucro fuera del sistema bancario. En la Malasia peninsular debe tener una licencia expedida bajo la **Ley de Prestamistas de 1951 (Ley 400)** por el **Ministerio de Vivienda y Gobierno Local (KPKT)**. En 2021 KPKT rebautizó el oficio con licencia como la **Comunidad de Crédito (Komuniti Kredit)**, de modo que el material oficial usa ambos nombres — pero la ley que lo rige y el requisito de licencia no han cambiado.
+Un prestamista es un negocio que presta dinero con ánimo de lucro fuera del sistema bancario. En la Malasia peninsular debe tener una licencia expedida bajo la **Ley de Prestamistas de 1951 (Ley 400)** por el **[Ministerio de Vivienda y Gobierno Local](/es/government/ministry-of-housing-local-government-kpkt) (KPKT)**. En 2021 KPKT rebautizó el oficio con licencia como la **Comunidad de Crédito (Komuniti Kredit)**, de modo que el material oficial usa ambos nombres — pero la ley que lo rige y el requisito de licencia no han cambiado.
 
 Una licencia importa porque somete al prestamista a reglas reales: intereses limitados, cargos restringidos, un contrato de préstamo prescrito, y restricciones de conducta (por ejemplo, un prestamista con licencia no puede presentarse en su casa o lugar de trabajo para cobrar). Un prestamista sin licencia no está sujeto a ninguna de estas y opera como un delincuente.
 

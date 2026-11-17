@@ -31,7 +31,7 @@ faq:
     a: "재무부는 경유 합리화가 시작된 2024년 6월 10일 이후 연 약 RM50억의 절감을 추정합니다."
 
 lang: "ko"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ PADU는 Pangkalan Data Utama의 약자로, 총리 다툭 세리 안와르 이브
 참조로 결합하는 중앙 데이터베이스입니다.
 
 각 프로필에는 인구학적 정보, 지역, 사회경제적 지위, 직업, 소득, 교육, 차량 소유, 빈곤 상태,
-그리고 현재 받고 있는 지원 유형이 담겨 있습니다. 그 구축에는 경제부, 말레이시아 통계청(DOSM),
+그리고 현재 받고 있는 지원 유형이 담겨 있습니다. 그 구축에는 [경제부](/ko/government/ministry-of-economy-malaysia-plans), 말레이시아 통계청(DOSM),
 MAMPU의 협력이 관여했으며, 데이터는 여러 정부 기관에서 끌어왔습니다.
 
 이해해야 할 중요한 점: PADU는 가격 메커니즘이 아닙니다. 주유소의 리터당 유가를 몇 센으로

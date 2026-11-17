@@ -31,7 +31,7 @@ faq:
   - q: Có những hỗ trợ nào của chính phủ cho lĩnh vực M&E?
     a: M&E là một ngành công nghệ cao ưu tiên của MIDA, đủ điều kiện cho các ưu đãi đầu tư, và nó là trung tâm của chính sách Công nghiệp 4.0 quốc gia Industry4WRD, vốn đưa ra các khoản tài trợ như Quỹ Can thiệp Industry4WRD và Quỹ Chiến lược Đầu tư Nội địa cho các hãng áp dụng tự động hóa và công nghệ tiên tiến.
 lang: vi
-sourceContentHash: "1c9235696250bb17"
+sourceContentHash: "019ba1901dcb4865"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Sự quan tâm đầu tư đã bám theo mức tăng trưởng đó. MIDA báo c
 
 **Máy móc quy trình chuyên dụng** là thế mạnh nổi bật của Malaysia. Đất nước đã xây dựng năng lực sâu về **thiết bị kiểm thử, lắp ráp và xử lý tự động cho ngành bán dẫn và điện tử**, cùng với **máy móc nghiền và chế biến dầu cọ** và **các dây chuyền chế biến thực phẩm và đồ uống**. MIDA cũng chỉ ra thiết bị sản xuất nước sâu cho dầu khí, ép khuôn chính xác và phát điện.
 
-**Máy móc gia công kim loại và máy công cụ** tạo thành nền tảng vật lý bên dưới tất cả những điều này. MATRADE liệt kê các máy công cụ và linh kiện làm tại Malaysia bao gồm máy cắt laser, trung tâm gia công, máy phóng điện (EDM), cùng máy phay và máy rèn. Gia công chính xác, chế tạo dụng cụ và gia công kim loại dung sai cao là những thứ làm cho các hệ thống tự động phức tạp hơn khả thi ngay từ đầu.
+**Máy móc gia công kim loại và máy công cụ** tạo thành nền tảng vật lý bên dưới tất cả những điều này. [MATRADE](/vi/government/matrade) liệt kê các máy công cụ và linh kiện làm tại Malaysia bao gồm máy cắt laser, trung tâm gia công, máy phóng điện (EDM), cùng máy phay và máy rèn. Gia công chính xác, chế tạo dụng cụ và gia công kim loại dung sai cao là những thứ làm cho các hệ thống tự động phức tạp hơn khả thi ngay từ đầu.
 
 **Tự động hóa và robot công nghiệp** là biên giới tăng trưởng. Khi lương tăng và khách hàng đòi hỏi tính nhất quán, các hãng Malaysia đang chuyển từ chế tạo từng cỗ máy riêng lẻ sang tích hợp toàn bộ các hệ thống tự động — các tế bào robot, kiểm tra dựa trên thị giác và các hệ thống con nhà máy thông minh — những năng lực được tưởng thưởng trực tiếp nhất theo chương trình Công nghiệp 4.0 của đất nước.
 

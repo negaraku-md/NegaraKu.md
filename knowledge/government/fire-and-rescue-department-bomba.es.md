@@ -29,7 +29,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-Pregunta a cualquiera en Malasia a quién llamar cuando un edificio arde o alguien queda atrapado, y la respuesta es siempre la misma palabra: **Bomba**. El **Departamento de Bomberos y Rescate de Malasia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), conocido por casi todos simplemente como **BOMBA** — es el organismo federal responsable de la extinción de incendios, el rescate, la respuesta ante materiales peligrosos y la vigilancia de la seguridad contra incendios en todo el país. Es un organismo dependiente del **Ministerio de Vivienda y Gobierno Local** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), y en una emergencia se le llama marcando el **999**.
+Pregunta a cualquiera en Malasia a quién llamar cuando un edificio arde o alguien queda atrapado, y la respuesta es siempre la misma palabra: **Bomba**. El **Departamento de Bomberos y Rescate de Malasia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), conocido por casi todos simplemente como **BOMBA** — es el organismo federal responsable de la extinción de incendios, el rescate, la respuesta ante materiales peligrosos y la vigilancia de la seguridad contra incendios en todo el país. Es un organismo dependiente del [**Ministerio de Vivienda y Gobierno Local**](/es/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), y en una emergencia se le llama marcando el **999**.
 
 ## ¿Qué es BOMBA?
 

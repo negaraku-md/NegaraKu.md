@@ -29,7 +29,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e726b58038891aba"
+sourceContentHash: "780189a25e36c071"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,7 +76,7 @@ social:
 framework: profile
 ---
 
-Demandez à n'importe qui en Malaisie qui appeler quand un bâtiment brûle ou que quelqu'un est coincé, et la réponse est le même mot unique : **Bomba**. Le **Département de lutte contre l'incendie et de secours de Malaisie** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), connu de presque tout le monde simplement sous le nom de **BOMBA** — est l'agence fédérale chargée de la lutte contre l'incendie, du secours, de l'intervention sur les matières dangereuses et de l'application de la sécurité incendie à travers le pays. C'est une agence relevant du **ministère du Logement et des Collectivités locales** (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), et en cas d'urgence elle est joignable en composant le **999**.
+Demandez à n'importe qui en Malaisie qui appeler quand un bâtiment brûle ou que quelqu'un est coincé, et la réponse est le même mot unique : **Bomba**. Le **Département de lutte contre l'incendie et de secours de Malaisie** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), connu de presque tout le monde simplement sous le nom de **BOMBA** — est l'agence fédérale chargée de la lutte contre l'incendie, du secours, de l'intervention sur les matières dangereuses et de l'application de la sécurité incendie à travers le pays. C'est une agence relevant du [**ministère du Logement et des Collectivités locales**](/fr/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), et en cas d'urgence elle est joignable en composant le **999**.
 
 ## Qu'est-ce que BOMBA ?
 

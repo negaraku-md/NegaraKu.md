@@ -32,7 +32,7 @@ faq:
     a: "Cổng MyGovernment nêu rằng quyết định đó là vĩnh viễn và không thể thu hồi; một người từ bỏ quốc tịch của mình mất vĩnh viễn tất cả các quyền và đặc quyền với tư cách công dân Malaysia."
 
 lang: "vi"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Một công dân Malaysia tuyên thệ trở thành công dân của một nư�
 
 ## Vì sao Malaysia không công nhận hai quốc tịch?
 
-Lập trường chính thức của chính phủ là Malaysia không công nhận việc sở hữu nhiều hơn một quốc tịch đối với người trưởng thành. Vào năm 2019, Bộ trưởng Nội vụ khi đó tuyên bố «Malaysia does not recognise dual citizenship», và giải thích rằng công dân Malaysia có được quốc tịch ở nơi khác có thể mất quốc tịch Malaysia theo Điều 24(1) của Hiến pháp Liên bang.
+Lập trường chính thức của chính phủ là Malaysia không công nhận việc sở hữu nhiều hơn một quốc tịch đối với người trưởng thành. Vào năm 2019, Bộ trưởng Nội vụ khi đó tuyên bố «Malaysia does not recognise dual citizenship», và giải thích rằng công dân Malaysia có được quốc tịch ở nơi khác có thể mất [quốc tịch Malaysia](/vi/government/malaysian-citizenship-law) theo Điều 24(1) của Hiến pháp Liên bang.
 
 Cơ sở pháp lý của nó nằm ở văn bản của Hiến pháp. Điều 24(1) quy định:
 

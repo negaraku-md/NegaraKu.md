@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Étudiants, analystes des politiques publiques, journalistes et toute personne souhaitant comprendre comment le développement national est planifié au-delà d'un seul exercice financier."
 
 lang: "fr"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -152,7 +152,7 @@ dissoute pour la dernière fois le 23 décembre 2022, après les 15es élections
 générales, ses fonctions et responsabilités étant reprises par le ministère de
 l'Économie. C'est ce ministère qui coordonne désormais l'élaboration du Plan de la
 Malaisie, selon une approche descendante (cadres macroéconomiques assurés par des
-agences centrales telles que le ministère de l'Économie, le ministère des Finances et
+agences centrales telles que le [ministère de l'Économie](/fr/government/ministry-of-economy-malaysia-plans), le ministère des Finances et
 Bank Negara Malaysia) et une approche ascendante (séances de concertation par le biais
 des réunions du Groupe interagences de planification (IAPG) et des réunions du Groupe
 de travail technique (TWG)).

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, analistas de políticas, periodistas y cualquier persona que desee comprender la continuidad de los objetivos de la política económica Bumiputera, desde la NEP hasta el plan actual."
 
 lang: "es"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -187,7 +187,7 @@ metas medibles en áreas como el empleo cualificado, la propiedad accionaria,
 la tasa de pobreza extrema, la propiedad de vivienda y la contribución de las
 empresas Bumiputera a la economía.
 
-Entre las metas señaladas por el Ministerio de Economía:
+Entre las metas señaladas por el [Ministerio de Economía](/es/government/ministry-of-economy-malaysia-plans):
 
 - **La contribución de las empresas Bumiputera al PIB** tiene como meta
   aumentar del **8.1 por ciento (2022) al 15 por ciento (2035)**.

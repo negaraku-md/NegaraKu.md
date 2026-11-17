@@ -32,7 +32,7 @@ faq:
     a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) được công bố vào tháng 10 năm 2019 như một tầm nhìn kế nhiệm tập trung vào sự thịnh vượng công bằng cho giai đoạn 2021 đến 2030."
 
 lang: "vi"
-sourceContentHash: "d7d57585a7686755"
+sourceContentHash: "64099ed3e8eb2be7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Vấn đề khoảng cách thu nhập và đoàn kết xã hội vẫn là đề
 
 ## Điều gì đã thay thế Wawasan 2020?
 
-Khi giai đoạn Wawasan 2020 đến gần hồi kết, chính phủ giới thiệu một tầm nhìn kế nhiệm. Wawasan Kemakmuran Bersama 2030 (WKB 2030) được công bố vào tháng 10 năm 2019 cho giai đoạn 2021 đến 2030, với trọng tâm là tăng trưởng kinh tế bền vững và phân phối thịnh vượng công bằng hơn trên khắp tất cả các nhóm. Bộ Kinh tế cung cấp các tài liệu chính thức của WKB 2030 bằng tiếng Mã Lai và tiếng Anh.
+Khi giai đoạn Wawasan 2020 đến gần hồi kết, chính phủ giới thiệu một tầm nhìn kế nhiệm. Wawasan Kemakmuran Bersama 2030 (WKB 2030) được công bố vào tháng 10 năm 2019 cho giai đoạn 2021 đến 2030, với trọng tâm là tăng trưởng kinh tế bền vững và phân phối thịnh vượng công bằng hơn trên khắp tất cả các nhóm. [Bộ Kinh tế](/vi/government/ministry-of-economy-malaysia-plans) cung cấp các tài liệu chính thức của WKB 2030 bằng tiếng Mã Lai và tiếng Anh.
 
 Về con đường phía trước, báo cáo của Ngân hàng Thế giới vào tháng 2 năm 2025 ước tính Malaysia có khả năng chuyển sang tư cách nước thu nhập cao giữa năm 2028 và 2030 — vài năm sau ngày mục tiêu ban đầu của Wawasan 2020.
 

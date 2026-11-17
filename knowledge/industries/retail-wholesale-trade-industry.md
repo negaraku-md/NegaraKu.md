@@ -144,7 +144,7 @@ The more important shift is the blurring of online and offline. Traditional and 
 
 ## Foreign participation and the WRT licence
 
-Distributive trade is one of the sectors where Malaysia regulates foreign ownership. Foreign-owned companies that want to sell wholesale or retail generally fall under the Ministry of Domestic Trade and Cost of Living (**KPDN**) guidelines on foreign participation in distributive trade, and typically need a **wholesale/retail trade (WRT) licence**.
+Distributive trade is one of the sectors where Malaysia regulates foreign ownership. Foreign-owned companies that want to sell wholesale or retail generally fall under the [Ministry of Domestic Trade and Cost of Living](/government/ministry-of-domestic-trade-kpdn) (**KPDN**) guidelines on foreign participation in distributive trade, and typically need a **wholesale/retail trade (WRT) licence**.
 
 The rules set conditions that change from format to format. Larger formats such as hypermarkets carry higher minimum-capital requirements, and historically there have been conditions on Bumiputera equity participation and the hiring of staff that reflect the country's demographic make-up. Several smaller formats — such as small supermarkets, mini-markets, provision shops and 24-hour convenience stores — have generally been reserved for Malaysian ownership. Because these thresholds and lists are periodically amended, anyone planning to invest should confirm the current edition of the guideline with KPDN. The practical mechanics of the licence are covered in the [WRT licence guide](/en/business/wrt-licence-malaysia/).
 

@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "e8f5baa4a042bfbe"
+sourceContentHash: "354022a73d700dc8"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -114,7 +114,7 @@ Cette base en aval est complétée par la sous-traitance de fabrication et un é
 
 ## Quelle en est la taille ?
 
-Les semi-conducteurs sont la catégorie d'exportation la plus précieuse que produit la Malaisie. En 2024, les exportations de dispositifs à semi-conducteurs — circuits intégrés, transistors et tubes — valaient environ **RM388 milliards**, selon les statistiques commerciales de MATRADE, représentant la majorité des quelque RM601 milliards d'exportations d'électrique et d'électronique (E&E) du pays.
+Les semi-conducteurs sont la catégorie d'exportation la plus précieuse que produit la Malaisie. En 2024, les exportations de dispositifs à semi-conducteurs — circuits intégrés, transistors et tubes — valaient environ **RM388 milliards**, selon les statistiques commerciales de [MATRADE](/fr/government/matrade), représentant la majorité des quelque RM601 milliards d'exportations d'électrique et d'électronique (E&E) du pays.
 
 Une remarque sur les chiffres : différentes sources citent des chiffres d'exportation de semi-conducteurs différents parce qu'elles tracent la frontière différemment — certaines ne comptent que les dispositifs à semi-conducteurs, d'autres incluent un panier plus large de « produits semi-conducteurs ». Les rapports de presse faisant état d'environ RM437,5 milliards reflètent une définition plus large. Dans tous les cas, l'échelle est énorme : les seuls semi-conducteurs rivalisent avec l'ensemble des économies d'exportation de certains pays voisins.
 

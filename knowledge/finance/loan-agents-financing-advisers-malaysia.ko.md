@@ -36,7 +36,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4a92402459f1ccc8"
+sourceContentHash: "89a5aa8c792f0100"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ social:
 
 **대출 및 주택담보대출 중개 — 포장·제출 역할 — 는 말레이시아에서 대체로 규제되지 않습니다.** **전용 '대출 에이전트' 면허**도, 수수료 상한도, 여러분이 확인할 수 있는 **중개인 등록부**도 없습니다. 어떤 당사자는 중개 이상의 무언가를 할 때에만 규제됩니다:
 
-- **스스로 돈을 빌려준다면**, 1951년 대부업법(Moneylenders Act 1951)에 따라 주택지방정부부(Ministry of Housing and Local Government, KPKT)의 **대부업 면허**가 필요합니다 — [허가받은 대부업자와 대출 사기](/finance/licensed-moneylenders-malaysia)를 참고하십시오;
+- **스스로 돈을 빌려준다면**, 1951년 대부업법(Moneylenders Act 1951)에 따라 [주택지방정부부](/ko/government/ministry-of-housing-local-government-kpkt)(Ministry of Housing and Local Government, KPKT)의 **대부업 면허**가 필요합니다 — [허가받은 대부업자와 대출 사기](/finance/licensed-moneylenders-malaysia)를 참고하십시오;
 - **'금융자문업'을 영위한다면**, **2013년 금융서비스법(Financial Services Act 2013)**에 따른 **Bank Negara 승인**이 필요합니다.
 
 그 둘째 지점이 흔한 함정입니다. 공인 **'금융 자문업자(financial adviser)'**는 *정말로* 규제되는 역할입니다 — 그러나 그 제도는 대출 중개가 아니라 **보험과 타카풀 같은 금융상품**을 중심으로 만들어졌습니다. 대출 포장의 의미로 스스로를 '금융 자문가(financing adviser)'라 칭하는 회사는 일반적으로 승인된 금융 자문업자가 **아니며** 그 면허 하에 운영되지 않습니다. 같은 영어 단어, 다른 것입니다.

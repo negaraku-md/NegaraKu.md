@@ -31,7 +31,7 @@ faq:
   - q: "Qui sont les principaux clients du meuble malaisien ?"
     a: "Les États-Unis sont de loin le plus grand marché unique — absorbant près de la moitié des exportations de meubles en 2024 — suivis de marchés tels que Singapour, l'Australie, le Japon et le Royaume-Uni. Cette forte concentration sur les États-Unis rend aussi l'industrie sensible à la demande immobilière américaine et à la politique tarifaire."
 lang: fr
-sourceContentHash: "b880b17a37c872c5"
+sourceContentHash: "156e73848cc57164"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Le secteur s'inscrit dans l'[économie manufacturière](/fr/industries/manufactu
 
 ## Quelle en est la taille ?
 
-Le meuble est l'une des exportations manufacturières les plus importantes de la Malaisie. Selon les données de la MATRADE rapportées début 2026, les exportations totales de meubles valaient environ **RM12,83 milliards en 2024**, et la Malaisie est régulièrement décrite comme faisant partie des dix premiers pays exportateurs de meubles au monde. Les meubles en bois constituent l'essentiel de ce total.
+Le meuble est l'une des exportations manufacturières les plus importantes de la Malaisie. Selon les données de la [MATRADE](/fr/government/matrade) rapportées début 2026, les exportations totales de meubles valaient environ **RM12,83 milliards en 2024**, et la Malaisie est régulièrement décrite comme faisant partie des dix premiers pays exportateurs de meubles au monde. Les meubles en bois constituent l'essentiel de ce total.
 
 Le panier plus large du bois et des produits du bois est plus vaste encore. Le MTIB a fait état d'exportations totales de bois et de produits du bois d'environ **RM21,84 milliards en 2023**, en baisse d'environ 13 % sur 2022, au sein desquelles les meubles en bois étaient le plus gros gagneur unique et le contreplaqué un contributeur majeur. (Plusieurs chiffres dans ce domaine devraient être traités avec prudence : les sources diffèrent sur les valeurs des sous-catégories et sur l'année exacte qu'elles décrivent — voir les notes de vérification sur cette page.)
 

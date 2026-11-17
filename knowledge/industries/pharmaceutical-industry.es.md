@@ -31,7 +31,7 @@ faq:
   - q: ¿Cuáles son las principales empresas farmacéuticas malasias?
     a: Los fabricantes locales más conocidos son Pharmaniaga (una productora, distribuidora y concesionaria del gobierno integrada), Duopharma Biotech (que surgió del grupo CCM y fabrica biosimilares), CCM, Kotra Pharma y Hovid. Multinacionales como Pfizer, Novartis y GSK se centran principalmente en medicamentos patentados y no en gran producción local.
 lang: es
-sourceContentHash: "298a60d12beaab87"
+sourceContentHash: "74d70b70b888e308"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,7 +114,7 @@ Las firmas locales son fuertes en comprimidos, cápsulas, jarabes, cremas e inye
 
 El número más claro es sobre el abastecimiento, no sobre las ventas: los organismos del sector afirman que los fabricantes locales cubren una gran parte de la demanda nacional de *genéricos*. La Organización Malasia de Industrias Farmacéuticas (MOPI) afirma que alrededor del **80% de los medicamentos genéricos se producen localmente** y que sus miembros abastecen aproximadamente **la mitad de todos los medicamentos** que consumen los malasios; otros panoramas sitúan la autosuficiencia local en genéricos en el **70-80%** [verificar]. Esa autosuficiencia es un activo estratégico genuino: se puso a prueba de forma visible, y en gran medida resistió, durante las sacudidas de suministro de la era de la pandemia.
 
-En cuanto al comercio, la cobertura mediática de las cifras de MATRADE sitúa las **exportaciones farmacéuticas en unos RM3,04 mil millones en 2024** (un alza de alrededor del 4%), dentro de un comercio combinado de dispositivos médicos y productos farmacéuticos de aproximadamente **RM61,31 mil millones** —aunque son los dispositivos médicos, no los medicamentos, los que componen el grueso de esa cifra mayor [verificar]—. Se informa de que se espera que el propio mercado nacional alcance unos **3.500 millones de dólares estadounidenses para 2028** [verificar]. Estos números proceden de cobertura secundaria y deberían confirmarse con MATRADE, el Departamento de Estadística de Malasia (DOSM) y MIDA antes de citarse como oficiales.
+En cuanto al comercio, la cobertura mediática de las cifras de [MATRADE](/es/government/matrade) sitúa las **exportaciones farmacéuticas en unos RM3,04 mil millones en 2024** (un alza de alrededor del 4%), dentro de un comercio combinado de dispositivos médicos y productos farmacéuticos de aproximadamente **RM61,31 mil millones** —aunque son los dispositivos médicos, no los medicamentos, los que componen el grueso de esa cifra mayor [verificar]—. Se informa de que se espera que el propio mercado nacional alcance unos **3.500 millones de dólares estadounidenses para 2028** [verificar]. Estos números proceden de cobertura secundaria y deberían confirmarse con MATRADE, el Departamento de Estadística de Malasia (DOSM) y MIDA antes de citarse como oficiales.
 
 Detrás de todo esto hay una salvedad estructural: Malasia importa mucho más valor farmacéutico del que exporta —una cifra de segunda mano sugiere que las importaciones fueron varias veces el valor de las exportaciones en años recientes [verificar]— precisamente porque los fármacos patentados y especializados se compran, no se fabrican localmente.
 

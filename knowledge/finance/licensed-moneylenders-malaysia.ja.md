@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af403774efa8800e"
+sourceContentHash: "ab121346e7722ba5"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ social:
 
 ## 何が貸金業者を「ライセンスを持つ」ものにするのか？
 
-貸金業者とは、銀行システムの外で利益のためにお金を貸す事業である。半島マレーシアでは、**住宅地方自治省（Ministry of Housing and Local Government、KPKT）**が**1951年貸金業法（Moneylenders Act 1951、第400号法令）**のもとで発行するライセンスを保持しなければならない。2021年、KPKTはライセンスを持つこの業界を**Credit Community（Komuniti Kredit）**と改称したので、公式の資料は両方の名称を用いる——が、規律する法律とライセンス要件は変わっていない。
+貸金業者とは、銀行システムの外で利益のためにお金を貸す事業である。半島マレーシアでは、**[住宅地方自治省](/ja/government/ministry-of-housing-local-government-kpkt)（Ministry of Housing and Local Government、KPKT）**が**1951年貸金業法（Moneylenders Act 1951、第400号法令）**のもとで発行するライセンスを保持しなければならない。2021年、KPKTはライセンスを持つこの業界を**Credit Community（Komuniti Kredit）**と改称したので、公式の資料は両方の名称を用いる——が、規律する法律とライセンス要件は変わっていない。
 
 ライセンスが重要なのは、それが貸し手を本物の規則のもとに置くからだ。すなわち、上限設定された金利、制限された手数料、定められたローン契約書、そして行為の制限（たとえば、ライセンスを持つ貸し手は取り立てのためにあなたの自宅や職場に現れてはならない）である。ライセンスのない貸し手は、これらのいずれにも縛られず、犯罪者として営業している。
 

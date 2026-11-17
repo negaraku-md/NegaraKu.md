@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, dan siapa saja yang ingin memahami bagaimana pembangunan negara direncanakan melampaui satu tahun keuangan."
 
 lang: "id"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ strategi itu menjadi alokasi sebenarnya setiap tahun.
 ## Apa sebenarnya Rancangan Malaysia
 
 Rancangan Malaysia bukan angka belanja setahun, dan bukan juga
-undang-undang. Ia adalah dokumen kebijakan yang disusun oleh Kementerian Ekonomi,
+undang-undang. Ia adalah dokumen kebijakan yang disusun oleh [Kementerian Ekonomi](/id/government/ministry-of-economy-malaysia-plans),
 menetapkan inti pembangunan, prioritas kebijakan, strategi, dan sasaran
 keberhasilan bagi periode lima tahun — kemudian disampaikan sebagai **usul**
 untuk perdebatan dan pengesahan Parlemen, bukan sebagai rancangan undang-undang

@@ -31,7 +31,7 @@ faq:
   - q: "Quelles incitations soutiennent l'investissement dans le textile et l'habillement ?"
     a: "La MIDA administre les approbations de licence de fabrication et les incitations fiscales pour le sous-secteur, qui est un domaine prioritaire du Nouveau Plan directeur industriel 2030 (NIMP 2030). À partir du premier trimestre 2026, les investissements admissibles relèvent d'un nouveau cadre d'incitations à l'investissement fondé sur les résultats (New Investment Incentive Framework), avec des incitations échelonnées liées à des résultats tels que la technologie, les compétences et les retombées locales. Confirmer les taux et conditions en vigueur auprès de la MIDA."
 lang: fr
-sourceContentHash: "610641d5d177ffdc"
+sourceContentHash: "1841208413fe19a3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Les statistiques officielles et l'agence d'investissement de la Malaisie, l'Auto
 
 ## Quelle en est la taille ?
 
-L'industrie est ancienne mais, à l'échelle malaisienne, n'est plus importante par rapport au reste de la fabrication. Selon des chiffres attribués à la **Malaysia External Trade Development Corporation (MATRADE)**, le commerce de vêtements et d'accessoires d'habillement a atteint environ **RM18,24 milliards en 2025**, en hausse de 8,3 % sur un an, avec des **exportations d'environ RM6,88 milliards**. Les expéditions ont continué de grimper début 2026.
+L'industrie est ancienne mais, à l'échelle malaisienne, n'est plus importante par rapport au reste de la fabrication. Selon des chiffres attribués à la **Malaysia External Trade Development Corporation ([MATRADE](/fr/government/matrade))**, le commerce de vêtements et d'accessoires d'habillement a atteint environ **RM18,24 milliards en 2025**, en hausse de 8,3 % sur un an, avec des **exportations d'environ RM6,88 milliards**. Les expéditions ont continué de grimper début 2026.
 
 Le chiffre le plus révélateur est la tendance de la *part*. La tranche textile-et-chaussure des exportations totales de la Malaisie est tombée d'environ **2,9 % en 2000 à environ 1,1 % en 2023**, selon une analyse de MIDF Research — non pas parce que l'industrie s'est effondrée, mais parce que l'électronique et d'autres secteurs ont crû bien plus vite tandis que des producteurs de vêtements à moindre coût à l'étranger captaient le volume. (Ces chiffres sont tirés de synthèses de presse et de recherche plutôt que d'une publication officielle unique ; voir les notes de vérification.)
 

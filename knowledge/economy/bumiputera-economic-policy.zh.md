@@ -24,7 +24,7 @@ appliesTo: "希望了解土著经济政策目标从新经济政策延续至现�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 
 status: "published"
 aiAssisted: true
@@ -160,7 +160,7 @@ PuTERA35从其核心的三个维度——**参与、拥有权与掌控权**—�
 官方门户网站列出了涵盖多个领域的可衡量目标，包括技术性就业、股权拥有、赤贫率、
 房屋拥有权，以及土著企业对经济的贡献。
 
-经济部所陈述的目标包括：
+[经济部](/zh/government/ministry-of-economy-malaysia-plans)所陈述的目标包括：
 
 - **土著企业对GDP的贡献**，目标是从**8.1%（2022年）提高至15%（2035年）**。
 - **通过政联公司（GLC）与政联投资机构（GLIC）股权体现的土著参与和掌控权**，

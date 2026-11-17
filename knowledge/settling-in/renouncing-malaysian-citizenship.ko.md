@@ -32,7 +32,7 @@ faq:
     a: "MyGovernment 포털은 그 결정이 영구적이며 취소할 수 없다고 명시합니다. 시민권을 포기한 사람은 말레이시아 시민으로서의 모든 권리와 특권을 영구히 상실합니다."
 
 lang: "ko"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ framework: explainer
 
 ## 왜 말레이시아는 이중국적을 인정하지 않습니까?
 
-정부의 공식 입장은 말레이시아가 성인의 하나를 초과하는 시민권 보유를 인정하지 않는다는 것입니다. 2019년, 당시 내무부 장관은 「Malaysia does not recognise dual citizenship」이라고 밝히며, 다른 곳에서 시민권을 취득한 말레이시아인이 연방헌법 제24조 (1)항에 따라 말레이시아 시민권을 잃을 수 있다고 설명했습니다.
+정부의 공식 입장은 말레이시아가 성인의 하나를 초과하는 시민권 보유를 인정하지 않는다는 것입니다. 2019년, 당시 내무부 장관은 「Malaysia does not recognise dual citizenship」이라고 밝히며, 다른 곳에서 시민권을 취득한 말레이시아인이 연방헌법 제24조 (1)항에 따라 [말레이시아 시민권](/ko/government/malaysian-citizenship-law)을 잃을 수 있다고 설명했습니다.
 
 그 법적 근거는 헌법 문언에 있습니다. 제24조 (1)항은 다음과 같이 규정합니다.
 

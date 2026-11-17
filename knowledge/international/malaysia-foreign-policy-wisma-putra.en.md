@@ -37,7 +37,7 @@ faq:
     a: "ASEAN is the cornerstone or foundation of Malaysia's foreign policy. Malaysia is one of ASEAN's founding countries and consistently prioritises ASEAN's integrity and centrality, while remaining active in other forums such as the United Nations (UN), the Organisation of Islamic Cooperation (OIC) and the Non-Aligned Movement (NAM)."
 
 lang: "en"
-sourceContentHash: "500f0f356d6c239e"
+sourceContentHash: "e4879b43ed98e1b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ When the United States is the largest foreign investor in Malaysia's economy, bu
 
 Many assume "foreign policy" is the work of a single ministry. In truth it is layered.
 
-The Ministry of Foreign Affairs — better known as **Wisma Putra**, after its building — is mandated to *carry out* and coordinate Malaysia's foreign policy under the Federal Constitution, with the aim of protecting and advancing the country's interests on the international stage. Wisma Putra manages Malaysia's network of embassies, high commissions and consulates around the world, negotiates the country's positions in international forums, and looks after the welfare of Malaysians abroad.
+The [Ministry of Foreign Affairs](/en/government/ministry-of-foreign-affairs-wisma-putra) — better known as **Wisma Putra**, after its building — is mandated to *carry out* and coordinate Malaysia's foreign policy under the Federal Constitution, with the aim of protecting and advancing the country's interests on the international stage. Wisma Putra manages Malaysia's network of embassies, high commissions and consulates around the world, negotiates the country's positions in international forums, and looks after the welfare of Malaysians abroad.
 
 But the highest-level policy decisions do not belong to that ministry alone. They rest with the **Prime Minister and the Cabinet**. The Prime Minister often acts as the country's diplomatic face on official visits and at summits, while the Foreign Minister heads Wisma Putra and represents Malaysia at most ministerial meetings. In Malaysia's history, there have been times when the posts of Prime Minister and Foreign Minister were held by the same person, which shows just how closely the two roles are linked.
 

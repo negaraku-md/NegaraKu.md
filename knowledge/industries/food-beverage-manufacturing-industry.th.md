@@ -31,7 +31,7 @@ faq:
   - q: การผลิตอาหารในมาเลเซียถูกกำกับดูแลอย่างไร?
     a: ความปลอดภัยและการติดฉลากอาหารกำกับดูแลโดยพระราชบัญญัติอาหาร ค.ศ. 1983 และกฎลูก (เช่น ระเบียบอาหาร ค.ศ. 1985 และระเบียบสุขอนามัยอาหาร ค.ศ. 2009) บริหารโดยกระทรวงสาธารณสุข ส่วนการกล่าวอ้างฮาลาลควบคุมแยกต่างหากโดยกรมพัฒนาอิสลามแห่งมาเลเซีย (JAKIM) ซึ่งออกใบรับรองฮาลาลอย่างเป็นทางการ
 lang: th
-sourceContentHash: "ac70589426331148"
+sourceContentHash: "391a7deab0b3d94e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -135,7 +135,7 @@ framework: profile
 
 ขนาดมีความหมาย การส่งออกผลิตภัณฑ์ฮาลาลรวมของมาเลเซียแตะราว **RM61.79 พันล้านในปี 2024** เพิ่มขึ้นราว 15% จาก RM53.72 พันล้านในปีก่อน ตามกระทรวงการค้า ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)) อาหารแปรรูปเป็นส่วนแกนของตะกร้านั้น และรัฐบาลได้อ้างการคาดการณ์ตลาดฮาลาลโลกที่ราว 5 ล้านล้านดอลลาร์สหรัฐภายในปี 2030 เป็นรางวัล
 
-โมเมนตัมการส่งออกแข็งแกร่งในภูมิภาคใหม่ ๆ MATRADE รายงานการส่งออกอาหารแปรรูปไปยุโรปราว RM3.48 พันล้านในปี 2024 — เพิ่มขึ้นราว 70% — นำโดยผลิตภัณฑ์โกโก้ ครีมเทียม ลูกกวาด และบิสกิต และการส่งออกไปตะวันออกกลางและแอฟริกาเหนือราว RM2.32 พันล้าน โดย UAE เป็นตลาดใหญ่ที่สุดเพียงรายเดียวที่นั่น ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)) หน่วยงานเช่น Halal Development Corporation (HDC) และ MATRADE ผลักดัน F&B มาเลเซียอย่างแข็งขันในงานแสดงสินค้าเช่น Gulfood และ Anuga สำหรับภาพรวมที่กว้างกว่า ดูคู่มือ[อุตสาหกรรมและเศรษฐกิจฮาลาล](/th/industries/halal-industry-economy/)และวิธีที่[การรับรองฮาลาล](/th/industries/halal-certification-system/)ทำงาน
+โมเมนตัมการส่งออกแข็งแกร่งในภูมิภาคใหม่ ๆ [MATRADE](/th/government/matrade) รายงานการส่งออกอาหารแปรรูปไปยุโรปราว RM3.48 พันล้านในปี 2024 — เพิ่มขึ้นราว 70% — นำโดยผลิตภัณฑ์โกโก้ ครีมเทียม ลูกกวาด และบิสกิต และการส่งออกไปตะวันออกกลางและแอฟริกาเหนือราว RM2.32 พันล้าน โดย UAE เป็นตลาดใหญ่ที่สุดเพียงรายเดียวที่นั่น ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)) หน่วยงานเช่น Halal Development Corporation (HDC) และ MATRADE ผลักดัน F&B มาเลเซียอย่างแข็งขันในงานแสดงสินค้าเช่น Gulfood และ Anuga สำหรับภาพรวมที่กว้างกว่า ดูคู่มือ[อุตสาหกรรมและเศรษฐกิจฮาลาล](/th/industries/halal-industry-economy/)และวิธีที่[การรับรองฮาลาล](/th/industries/halal-certification-system/)ทำงาน
 
 ## ผู้เล่นหลักคือใคร?
 

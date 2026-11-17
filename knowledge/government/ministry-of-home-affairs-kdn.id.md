@@ -27,7 +27,7 @@ faq:
   - q: "Siapakah Menteri Dalam Negeri?"
     a: "Hingga 2026, Menteri Dalam Negeri adalah Datuk Seri Panglima Saifuddin Nasution bin Ismail, memegang jabatan sejak 3 Desember 2022. Portofolio Kabinet berubah seiring perombakan, jadi konfirmasikan pemegang jabatan saat ini di moha.gov.my."
 lang: "id"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -133,7 +133,7 @@ tetapi oleh badan penegak hukum di bawahnya — **departemen** federal serta ber
 | Jabatan Penjara | Majelis Antiperdagangan Orang (MAPO) |
 | Jabatan Pendaftaran Negara (JPN) | Lembaga Pencegahan Kejahatan |
 | Pendaftar Perkumpulan (ROS) | Lembaga Pembebasan Bersyarat |
-| Jabatan Sukarelawan Malaysia (RELA) | Lembaga Penapisan Filem |
+| [Jabatan Sukarelawan Malaysia](/id/government/peoples-volunteer-corps-rela) (RELA) | Lembaga Penapisan Filem |
 | Agensi Penegakan Maritim (MMEA/APMM) | Lembaga Pencegahan Terorisme |
 | Kawalan Keselamatan Sabah Timur (ESSCOM) | Percetakan Nasional (PNMB) |
 

@@ -117,7 +117,7 @@ This is the part most people get wrong, so it is worth stating plainly.
 
 **Loan and mortgage broking — the packaging-and-submitting role — is largely unregulated in Malaysia.** There is **no dedicated "loan agent" licence**, no fee cap, and **no broker register** you can check. A party only becomes regulated when it does something more than broking:
 
-- if it **lends money itself**, it needs a **moneylender's licence** from the Ministry of Housing and Local Government (KPKT) under the Moneylenders Act 1951 — see [licensed moneylenders and loan scams](/finance/licensed-moneylenders-malaysia);
+- if it **lends money itself**, it needs a **moneylender's licence** from the [Ministry of Housing and Local Government](/government/ministry-of-housing-local-government-kpkt) (KPKT) under the Moneylenders Act 1951 — see [licensed moneylenders and loan scams](/finance/licensed-moneylenders-malaysia);
 - if it carries on **"financial advisory business,"** it needs **Bank Negara approval under the Financial Services Act 2013.**
 
 That second point is a common trap. A licensed **"financial adviser"** *is* a regulated role — but that regime is built around **financial products such as insurance and takaful**, not loan broking. A firm calling itself a "financing adviser" in the loan-packaging sense is generally **not** an approved financial adviser and is not operating under that licence. Same English word, different thing.

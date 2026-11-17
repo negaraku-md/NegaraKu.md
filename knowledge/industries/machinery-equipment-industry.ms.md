@@ -31,7 +31,7 @@ faq:
   - q: Apakah sokongan kerajaan yang wujud untuk sektor M&E?
     a: M&E ialah industri berteknologi tinggi keutamaan MIDA yang layak untuk insentif pelaburan, dan ia menjadi teras kepada dasar Industri 4.0 negara Industry4WRD, yang menawarkan geran seperti Dana Intervensi Industry4WRD dan Dana Strategik Pelaburan Domestik untuk firma yang menerima pakai automasi dan teknologi termaju.
 lang: ms
-sourceContentHash: "1c9235696250bb17"
+sourceContentHash: "019ba1901dcb4865"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Minat pelaburan telah menjejaki pertumbuhan itu. MIDA melaporkan bahawa pelabura
 
 **Jentera proses khusus** ialah kekuatan menonjol Malaysia. Negara ini telah membina keupayaan mendalam dalam **peralatan ujian, pemasangan dan pengendalian automatik untuk industri semikonduktor dan elektronik**, bersama **jentera pengilangan dan pemprosesan minyak sawit** serta **barisan pemprosesan makanan dan minuman**. MIDA juga menunjuk kepada peralatan pengeluaran air dalam untuk minyak dan gas, pengacuan jitu dan penjanaan kuasa.
 
-**Jentera pengerjaan logam dan alat mesin** membentuk asas fizikal di bawah semua ini. MATRADE menyenaraikan alat mesin dan bahagian buatan Malaysia termasuk mesin pemotong laser, pusat pemesinan, mesin nyahcas elektro (EDM), serta mesin pengisaran dan penempaan. Pemesinan jitu, perkakasan dan fabrikasi logam toleransi tinggi ialah apa yang menjadikan sistem automatik yang lebih kompleks itu mungkin pada mulanya.
+**Jentera pengerjaan logam dan alat mesin** membentuk asas fizikal di bawah semua ini. [MATRADE](/ms/government/matrade) menyenaraikan alat mesin dan bahagian buatan Malaysia termasuk mesin pemotong laser, pusat pemesinan, mesin nyahcas elektro (EDM), serta mesin pengisaran dan penempaan. Pemesinan jitu, perkakasan dan fabrikasi logam toleransi tinggi ialah apa yang menjadikan sistem automatik yang lebih kompleks itu mungkin pada mulanya.
 
 **Automasi dan robotik perindustrian** ialah sempadan pertumbuhan. Apabila gaji meningkat dan pelanggan menuntut kekonsistenan, firma Malaysia sedang beralih daripada membina mesin individu kepada mengintegrasikan sistem automatik penuh — sel robotik, pemeriksaan berasaskan penglihatan dan subsistem kilang pintar — keupayaan yang paling langsung diberi ganjaran di bawah agenda Industri 4.0 negara.
 

@@ -37,7 +37,7 @@ faq:
     a: "L'ASEAN est la pierre angulaire ou le socle de la politique étrangère de la Malaisie. La Malaisie est l'un des pays fondateurs de l'ASEAN et donne systématiquement la priorité à l'intégrité et à la centralité de l'ASEAN, tout en restant active dans d'autres forums comme les Nations unies (ONU), l'Organisation de la coopération islamique (OCI) et le Mouvement des pays non alignés (MNA)."
 
 lang: "fr"
-sourceContentHash: "500f0f356d6c239e"
+sourceContentHash: "e4879b43ed98e1b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Lorsque les États-Unis sont le plus grand investisseur étranger dans l'économ
 
 Beaucoup supposent que la « politique étrangère » est l'œuvre d'un seul ministère. En réalité, c'est une affaire à plusieurs niveaux.
 
-Le ministère des Affaires étrangères — mieux connu sous le nom de **Wisma Putra**, d'après son bâtiment — a pour mandat de *mettre en œuvre* et de coordonner la politique étrangère de la Malaisie en vertu de la Constitution fédérale, dans le but de protéger et de promouvoir les intérêts du pays sur la scène internationale. Wisma Putra gère le réseau d'ambassades, de hauts-commissariats et de consulats de la Malaisie dans le monde, négocie les positions du pays dans les forums internationaux et veille au bien-être des Malaisiens à l'étranger.
+Le [ministère des Affaires étrangères](/fr/government/ministry-of-foreign-affairs-wisma-putra) — mieux connu sous le nom de **Wisma Putra**, d'après son bâtiment — a pour mandat de *mettre en œuvre* et de coordonner la politique étrangère de la Malaisie en vertu de la Constitution fédérale, dans le but de protéger et de promouvoir les intérêts du pays sur la scène internationale. Wisma Putra gère le réseau d'ambassades, de hauts-commissariats et de consulats de la Malaisie dans le monde, négocie les positions du pays dans les forums internationaux et veille au bien-être des Malaisiens à l'étranger.
 
 Mais les décisions de politique du plus haut niveau n'appartiennent pas à ce seul ministère. Elles reviennent au **Premier ministre et au Cabinet**. Le Premier ministre agit souvent comme le visage diplomatique du pays lors des visites officielles et des sommets, tandis que le ministre des Affaires étrangères dirige Wisma Putra et représente la Malaisie dans la plupart des réunions ministérielles. Dans l'histoire de la Malaisie, il est arrivé que les fonctions de Premier ministre et de ministre des Affaires étrangères soient occupées par la même personne, ce qui montre à quel point les deux rôles sont étroitement liés.
 

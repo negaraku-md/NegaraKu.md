@@ -31,7 +31,7 @@ faq:
     a: "Kementerian Keuangan memperkirakan penghematan sekitar RM5 miliar setahun sejak rasionalisasi diesel dimulai pada 10 Juni 2024."
 
 lang: "id"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Selama bertahun-tahun, pemerintah Malaysia menyubsidi bahan bakar, listrik, dan 
 
 PADU, singkatan dari Pangkalan Data Utama, diluncurkan oleh Perdana Menteri Datuk Seri Anwar Ibrahim pada 2 Januari 2024 di Putrajaya. Ia adalah pangkalan data pusat yang menggabungkan profil individu dan rumah tangga warga negara serta penduduk tetap ke dalam satu rujukan tunggal.
 
-Setiap profil memuat informasi demografi, lokalitas, status sosioekonomi, pekerjaan, pendapatan, pendidikan, kepemilikan kendaraan, status kemiskinan, dan jenis bantuan yang sedang diterima. Pembangunannya melibatkan kerja sama Kementerian Ekonomi, Departemen Statistik Malaysia (DOSM), dan MAMPU, dengan data ditarik dari berbagai agensi pemerintah.
+Setiap profil memuat informasi demografi, lokalitas, status sosioekonomi, pekerjaan, pendapatan, pendidikan, kepemilikan kendaraan, status kemiskinan, dan jenis bantuan yang sedang diterima. Pembangunannya melibatkan kerja sama [Kementerian Ekonomi](/id/government/ministry-of-economy-malaysia-plans), Departemen Statistik Malaysia (DOSM), dan MAMPU, dengan data ditarik dari berbagai agensi pemerintah.
 
 Yang penting untuk dipahami: PADU bukan mekanisme harga. Ia tidak menetapkan berapa sen per liter bahan bakar di pompa. Fungsinya lebih mendasar — ia menjawab pertanyaan "siapa yang layak?" agar subsidi dapat dialihkan secara tepat sasaran. Inilah alasan PADU sering disebut sebagai mesin data di balik rasionalisasi subsidi, bukan rasionalisasi subsidi itu sendiri.
 

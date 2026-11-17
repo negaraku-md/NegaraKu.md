@@ -32,7 +32,7 @@ faq:
     a: "Kebanyakan kedutaan dan suruhanjaya tinggi asing yang bermastautin terletak di Kuala Lumpur dan Putrajaya, dengan beberapa negara turut mengendalikan konsulat di bandar seperti Pulau Pinang, Johor Bahru, Kota Kinabalu dan Kuching."
 
 lang: "ms"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ anda ialah satu nod dalam rangkaian 111 misi Malaysia yang tersebar merentasi
 
 ## Sebesar manakah rangkaian Malaysia di luar negara?
 
-Kementerian Luar Negeri membahagikan kehadirannya di luar negara kepada
+[Kementerian Luar Negeri](/ms/government/ministry-of-foreign-affairs-wisma-putra) membahagikan kehadirannya di luar negara kepada
 beberapa jenis misi. Secara keseluruhan, jumlahnya mencecah **111 misi di 85
 buah negara**.
 

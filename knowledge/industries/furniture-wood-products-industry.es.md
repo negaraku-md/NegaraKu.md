@@ -31,7 +31,7 @@ faq:
   - q: ¿Quiénes son los principales clientes de los muebles malasios?
     a: Estados Unidos es con diferencia el mayor mercado individual —se llevó cerca de la mitad de las exportaciones de muebles en 2024—, seguido de mercados como Singapur, Australia, Japón y el Reino Unido. Esta fuerte concentración en Estados Unidos también hace que la industria sea sensible a la demanda estadounidense de vivienda y a la política arancelaria.
 lang: es
-sourceContentHash: "b880b17a37c872c5"
+sourceContentHash: "156e73848cc57164"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ El sector se sitúa dentro de la [economía manufacturera](/es/industries/manufa
 
 ## ¿Qué tamaño tiene?
 
-El mueble es una de las exportaciones manufacturadas más significativas de Malasia. Según datos de MATRADE reportados a principios de 2026, las exportaciones totales de muebles valieron unos **RM12,83 mil millones en 2024**, y a Malasia se la describe habitualmente como uno de los diez países exportadores de muebles principales del mundo. El mueble de madera constituye el grueso de ese total.
+El mueble es una de las exportaciones manufacturadas más significativas de Malasia. Según datos de [MATRADE](/es/government/matrade) reportados a principios de 2026, las exportaciones totales de muebles valieron unos **RM12,83 mil millones en 2024**, y a Malasia se la describe habitualmente como uno de los diez países exportadores de muebles principales del mundo. El mueble de madera constituye el grueso de ese total.
 
 La cesta más amplia de madera y productos madereros es aún mayor. La MTIB reportó exportaciones totales de madera y productos madereros de alrededor de **RM21,84 mil millones en 2023**, un 13% menos aproximadamente que en 2022, dentro de las cuales el mueble de madera fue el mayor generador individual de ingresos y el contrachapado un gran contribuyente. (Varias cifras en este terreno deben tratarse con cuidado: las fuentes difieren sobre los valores por subcategoría y sobre qué año describen exactamente; véanse las notas de verificación en esta página.)
 

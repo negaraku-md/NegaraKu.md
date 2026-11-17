@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, dan siapa saja yang ingin memahami kesinambungan tujuan kebijakan ekonomi Bumiputera dari DEB hingga rencana saat ini."
 
 lang: "id"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -181,7 +181,7 @@ sasaran yang dapat diukur di berbagai bidang seperti pekerjaan terampil, kepemil
 ekuitas, tingkat kemiskinan ekstrem, kepemilikan rumah, dan kontribusi perusahaan
 Bumiputera kepada ekonomi.
 
-Di antara sasaran yang dinyatakan oleh Kementerian Ekonomi:
+Di antara sasaran yang dinyatakan oleh [Kementerian Ekonomi](/id/government/ministry-of-economy-malaysia-plans):
 
 - **Kontribusi perusahaan Bumiputera kepada PDB** disasarkan meningkat dari
   **8.1 persen (2022) ke 15 persen (2035)**.

@@ -32,7 +32,7 @@ faq:
     a: "MyGovernment门户网站说明该决定属永久性质、不可撤销；放弃公民身份者将永久失去作为马来西亚公民的一切权利与特权。"
 
 lang: "zh"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ framework: explainer
 
 ## 马来西亚为何不承认双重国籍？
 
-政府的官方立场是，马来西亚不承认成年人拥有一个以上的公民身份。2019年，时任内政部长表示"Malaysia does not recognise dual citizenship"（马来西亚不承认双重国籍），并解释在他处取得公民身份的马来西亚人，可依据《联邦宪法》第24(1)条失去马来西亚公民身份。
+政府的官方立场是，马来西亚不承认成年人拥有一个以上的公民身份。2019年，时任内政部长表示"Malaysia does not recognise dual citizenship"（马来西亚不承认双重国籍），并解释在他处取得公民身份的马来西亚人，可依据《联邦宪法》第24(1)条失去[马来西亚公民身份](/zh/government/malaysian-citizenship-law)。
 
 其法律依据在于宪法文本。第24(1)条规定：
 

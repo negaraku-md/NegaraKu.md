@@ -31,7 +31,7 @@ faq:
   - q: Siapa pelanggan utama furnitur Malaysia?
     a: Amerika Serikat sejauh ini adalah pasar tunggal terbesar — mengambil hampir separuh ekspor furnitur pada 2024 — diikuti pasar seperti Singapura, Australia, Jepang, dan Inggris. Konsentrasi berat pada Amerika Serikat ini juga membuat industri peka terhadap permintaan perumahan dan kebijakan tarif Amerika.
 lang: id
-sourceContentHash: "b880b17a37c872c5"
+sourceContentHash: "156e73848cc57164"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Sektor ini berada dalam [perekonomian manufaktur](/id/industries/manufacturing-i
 
 ## Seberapa besar ukurannya?
 
-Furnitur adalah salah satu ekspor manufaktur paling signifikan Malaysia. Menurut data MATRADE yang dilaporkan pada awal 2026, total ekspor furnitur bernilai sekitar **RM12,83 miliar pada 2024**, dan Malaysia rutin digambarkan sebagai salah satu dari sepuluh negara pengekspor furnitur teratas dunia. Furnitur kayu membentuk sebagian besar total itu.
+Furnitur adalah salah satu ekspor manufaktur paling signifikan Malaysia. Menurut data [MATRADE](/id/government/matrade) yang dilaporkan pada awal 2026, total ekspor furnitur bernilai sekitar **RM12,83 miliar pada 2024**, dan Malaysia rutin digambarkan sebagai salah satu dari sepuluh negara pengekspor furnitur teratas dunia. Furnitur kayu membentuk sebagian besar total itu.
 
 Keranjang kayu-dan-produk-kayu yang lebih luas bahkan lebih besar. MTIB melaporkan total ekspor kayu dan produk kayu sekitar **RM21,84 miliar pada 2023**, turun sekitar 13% dari 2022, yang di dalamnya furnitur kayu adalah penghasil tunggal terbesar dan kayu lapis kontributor utama. (Beberapa angka di area ini sebaiknya diperlakukan dengan hati-hati: sumber berbeda pada nilai subkategori dan pada tahun mana persisnya yang mereka gambarkan — lihat catatan verifikasi pada halaman ini.)
 

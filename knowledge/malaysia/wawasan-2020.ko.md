@@ -32,7 +32,7 @@ faq:
     a: "공동번영비전 2030(Wawasan Kemakmuran Bersama 2030, WKB 2030)이 2021년부터 2030년까지의 기간에 공평한 번영에 초점을 맞춘 후속 구상으로 2019년 10월 발표되었습니다."
 
 lang: "ko"
-sourceContentHash: "d7d57585a7686755"
+sourceContentHash: "64099ed3e8eb2be7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ framework: explainer
 
 ## 무엇이 와와산 2020을 대체하였는가?
 
-와와산 2020의 기간이 끝나감에 따라, 정부는 후속 구상을 도입하였습니다. 공동번영비전 2030(Wawasan Kemakmuran Bersama 2030, WKB 2030)이 2021년부터 2030년까지의 기간을 위해 2019년 10월에 출범하였으며, 지속 가능한 경제 성장과 모든 집단을 아우르는 더 공정한 번영의 분배에 초점을 맞추었습니다. 경제부(Kementerian Ekonomi)는 WKB 2030 공식 문서를 말레이어와 영어로 제공합니다.
+와와산 2020의 기간이 끝나감에 따라, 정부는 후속 구상을 도입하였습니다. 공동번영비전 2030(Wawasan Kemakmuran Bersama 2030, WKB 2030)이 2021년부터 2030년까지의 기간을 위해 2019년 10월에 출범하였으며, 지속 가능한 경제 성장과 모든 집단을 아우르는 더 공정한 번영의 분배에 초점을 맞추었습니다. [경제부](/ko/government/ministry-of-economy-malaysia-plans)(Kementerian Ekonomi)는 WKB 2030 공식 문서를 말레이어와 영어로 제공합니다.
 
 앞으로의 경로에 관하여, 2025년 2월 세계은행 보고서는 말레이시아가 2028년에서 2030년 사이에 고소득국 지위로 전환할 가능성이 있다고 추정하였는데 — 이는 와와산 2020의 원래 목표 시점보다 몇 년 뒤입니다.
 

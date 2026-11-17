@@ -32,7 +32,7 @@ faq:
     a: "Portal MyGovernment menyatakan keputusan itu permanen dan tidak dapat ditarik kembali; seseorang yang melepaskan kewarganegaraannya kehilangan secara permanen semua hak dan keistimewaan sebagai warga negara Malaysia."
 
 lang: "id"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Seorang warga Malaysia yang mengangkat sumpah menjadi warga negara negara lain s
 
 ## Mengapa Malaysia tidak mengakui dwikewarganegaraan?
 
-Pendirian resmi pemerintah adalah Malaysia tidak mengakui kepemilikan lebih dari satu kewarganegaraan bagi orang dewasa. Pada tahun 2019, Menteri Dalam Negeri saat itu menyatakan "Malaysia does not recognise dual citizenship", dan menjelaskan bahwa warga Malaysia yang memperoleh kewarganegaraan di tempat lain dapat kehilangan kewarganegaraan Malaysia di bawah Pasal 24(1) Konstitusi Federal.
+Pendirian resmi pemerintah adalah Malaysia tidak mengakui kepemilikan lebih dari satu kewarganegaraan bagi orang dewasa. Pada tahun 2019, Menteri Dalam Negeri saat itu menyatakan "Malaysia does not recognise dual citizenship", dan menjelaskan bahwa warga Malaysia yang memperoleh kewarganegaraan di tempat lain dapat kehilangan [kewarganegaraan Malaysia](/id/government/malaysian-citizenship-law) di bawah Pasal 24(1) Konstitusi Federal.
 
 Dasar hukumnya terletak pada teks Konstitusi. Pasal 24(1) mengatur:
 

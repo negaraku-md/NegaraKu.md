@@ -31,7 +31,7 @@ faq:
   - q: Apa perusahaan farmasi Malaysia yang utama?
     a: Produsen lokal yang paling dikenal adalah Pharmaniaga (produsen, distributor, dan pemegang konsesi pemerintah yang terintegrasi), Duopharma Biotech (yang tumbuh dari grup CCM dan membuat biosimilar), CCM, Kotra Pharma, dan Hovid. Perusahaan multinasional seperti Pfizer, Novartis, dan GSK berfokus terutama pada obat paten ketimbang produksi lokal berskala besar.
 lang: id
-sourceContentHash: "298a60d12beaab87"
+sourceContentHash: "74d70b70b888e308"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,7 +114,7 @@ Perusahaan lokal kuat dalam tablet, kapsul, sirup, krim, dan obat suntik generik
 
 Angka terjelas adalah tentang pasokan, bukan penjualan: badan-badan industri menyatakan produsen lokal memenuhi sebagian besar permintaan *generik* domestik. Malaysian Organisation of Pharmaceutical Industries (MOPI) menyatakan bahwa sekitar **80% obat generik diproduksi secara lokal** dan bahwa anggotanya memasok kurang lebih **separuh dari seluruh obat** yang dikonsumsi warga Malaysia; ikhtisar lain menempatkan swasembada lokal dalam generik pada **70-80%** [verifikasi]. Swasembada itu adalah aset strategis sejati — hal itu terlihat diuji, dan sebagian besar bertahan, selama guncangan pasokan era pandemi.
 
-Soal perdagangan, pelaporan media atas angka MATRADE menempatkan **ekspor farmasi sekitar RM3,04 miliar pada 2024** (naik sekitar 4%), di dalam perdagangan gabungan peranti-medis-dan-farmasi sekitar **RM61,31 miliar** — meski peranti medis, bukan obat, yang menyusun sebagian besar angka yang lebih besar itu [verifikasi]. Pasar domestik sendiri dilaporkan diperkirakan mencapai sekitar **US$3,5 miliar pada 2028** [verifikasi]. Angka-angka ini berasal dari pelaporan sekunder dan sebaiknya dikonfirmasi terhadap MATRADE, Department of Statistics Malaysia (DOSM), dan MIDA sebelum dikutip sebagai resmi.
+Soal perdagangan, pelaporan media atas angka [MATRADE](/id/government/matrade) menempatkan **ekspor farmasi sekitar RM3,04 miliar pada 2024** (naik sekitar 4%), di dalam perdagangan gabungan peranti-medis-dan-farmasi sekitar **RM61,31 miliar** — meski peranti medis, bukan obat, yang menyusun sebagian besar angka yang lebih besar itu [verifikasi]. Pasar domestik sendiri dilaporkan diperkirakan mencapai sekitar **US$3,5 miliar pada 2028** [verifikasi]. Angka-angka ini berasal dari pelaporan sekunder dan sebaiknya dikonfirmasi terhadap MATRADE, Department of Statistics Malaysia (DOSM), dan MIDA sebelum dikutip sebagai resmi.
 
 Sebuah catatan struktural ada di balik semua ini: Malaysia mengimpor nilai farmasi jauh lebih banyak daripada yang diekspornya — satu angka tidak langsung menunjukkan impor berjalan beberapa kali lipat nilai ekspor dalam beberapa tahun terakhir [verifikasi] — justru karena obat paten dan obat khusus dibeli, bukan dibuat secara lokal.
 

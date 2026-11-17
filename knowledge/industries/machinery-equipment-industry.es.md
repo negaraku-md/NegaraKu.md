@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué apoyo gubernamental existe para el sector de M&E?
     a: La M&E es una industria de alta tecnología prioritaria de MIDA elegible para incentivos de inversión, y es central en la política nacional de Industria 4.0 Industry4WRD, que ofrece subvenciones como el Fondo de Intervención Industry4WRD y el Fondo Estratégico de Inversión Nacional para las firmas que adoptan la automatización y la tecnología avanzada.
 lang: es
-sourceContentHash: "1c9235696250bb17"
+sourceContentHash: "019ba1901dcb4865"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ El interés inversor ha seguido ese crecimiento. MIDA informa de que las inversi
 
 La **maquinaria de proceso especializada** es la fortaleza destacada de Malasia. El país ha construido una profunda capacidad en **equipos automatizados de prueba, ensamblaje y manipulación para la industria de semiconductores y electrónica**, junto a **maquinaria de molienda y procesamiento de aceite de palma** y **líneas de procesamiento de alimentos y bebidas**. MIDA también señala los equipos de producción en aguas profundas para petróleo y gas, el moldeo de precisión y la generación de energía.
 
-La **maquinaria para trabajar metales y las máquinas herramienta** forman la base física bajo todo esto. MATRADE enumera máquinas herramienta y piezas fabricadas en Malasia, incluidas máquinas de corte por láser, centros de mecanizado, máquinas de electroerosión (EDM) y máquinas de fresado y forja. El mecanizado de precisión, el utillaje y la fabricación de metal de alta tolerancia son lo que hace posibles, en primer lugar, los sistemas automatizados más complejos.
+La **maquinaria para trabajar metales y las máquinas herramienta** forman la base física bajo todo esto. [MATRADE](/es/government/matrade) enumera máquinas herramienta y piezas fabricadas en Malasia, incluidas máquinas de corte por láser, centros de mecanizado, máquinas de electroerosión (EDM) y máquinas de fresado y forja. El mecanizado de precisión, el utillaje y la fabricación de metal de alta tolerancia son lo que hace posibles, en primer lugar, los sistemas automatizados más complejos.
 
 La **automatización y la robótica industriales** son la frontera de crecimiento. A medida que los salarios suben y los clientes exigen coherencia, las firmas malasias pasan de construir máquinas individuales a integrar sistemas automatizados completos —celdas robóticas, inspección basada en visión y subsistemas de fábrica inteligente—, las capacidades más directamente recompensadas bajo la agenda de Industria 4.0 del país.
 

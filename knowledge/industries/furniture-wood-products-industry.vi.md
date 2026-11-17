@@ -31,7 +31,7 @@ faq:
   - q: Ai là khách hàng chính của nội thất Malaysia?
     a: Hoa Kỳ là thị trường đơn lẻ lớn nhất rất xa — chiếm gần một nửa xuất khẩu nội thất năm 2024 — theo sau là các thị trường như Singapore, Úc, Nhật Bản và Vương quốc Anh. Sự tập trung nặng vào Hoa Kỳ này cũng khiến ngành nhạy cảm với nhu cầu nhà ở của Mỹ và chính sách thuế quan.
 lang: vi
-sourceContentHash: "b880b17a37c872c5"
+sourceContentHash: "156e73848cc57164"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Lĩnh vực nằm trong [nền kinh tế chế tạo](/vi/industries/manufacturi
 
 ## Nó lớn đến đâu?
 
-Nội thất là một trong những mặt hàng xuất khẩu chế tạo quan trọng nhất của Malaysia. Theo dữ liệu MATRADE được đưa tin đầu năm 2026, tổng xuất khẩu nội thất trị giá khoảng **RM12,83 tỷ năm 2024**, và Malaysia thường được mô tả là nằm trong số các nước xuất khẩu nội thất tốp mười thế giới. Nội thất gỗ chiếm phần lớn tổng đó.
+Nội thất là một trong những mặt hàng xuất khẩu chế tạo quan trọng nhất của Malaysia. Theo dữ liệu [MATRADE](/vi/government/matrade) được đưa tin đầu năm 2026, tổng xuất khẩu nội thất trị giá khoảng **RM12,83 tỷ năm 2024**, và Malaysia thường được mô tả là nằm trong số các nước xuất khẩu nội thất tốp mười thế giới. Nội thất gỗ chiếm phần lớn tổng đó.
 
 Rổ gỗ và sản phẩm gỗ rộng hơn còn lớn hơn nữa. MTIB báo cáo tổng xuất khẩu gỗ và sản phẩm gỗ khoảng **RM21,84 tỷ năm 2023**, giảm khoảng 13% so với 2022, trong đó nội thất gỗ là nguồn thu đơn lẻ lớn nhất và gỗ dán là một đóng góp lớn. (Một số con số trong lĩnh vực này nên được xử lý thận trọng: các nguồn khác nhau về giá trị danh mục phụ và về chính xác chúng mô tả năm nào — xem ghi chú xác minh trên trang này.)
 

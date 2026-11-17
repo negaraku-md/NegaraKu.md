@@ -32,7 +32,7 @@ faq:
     a: "Ia adalah kerangka yang digunakan oleh kedua pemerintah untuk menggambarkan fase hubungan berikutnya, dibangun di atas kemitraan strategis komprehensif yang dijalin pada 2013. Konsep ini dibangkitkan sejak 2023 dan diresmikan dalam pernyataan bersama saat kunjungan kenegaraan Presiden Xi Jinping pada 17 April 2025. Ia menggariskan kerja sama mencakup perdagangan, teknologi, infrastruktur dan hubungan rakyat ke rakyat."
 
 lang: "id"
-sourceContentHash: "72782c6871b15658"
+sourceContentHash: "b7ef3c40f5decdc1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ Hubungan ini bukan hanya mengenai aliran perdagangan. Dalam tiga kuartal pertama
 
 Hampir semuanya terletak di Laut China Selatan. Landas kontinen dan zona ekonomi eksklusif Malaysia di lepas pantai Sabah dan Sarawak bertumpang tindih dengan perairan yang diklaim Tiongkok di bawah "garis sembilan titik"nya, satu klaim yang telah ditolak secara terbuka oleh pejabat Malaysia. Kapal Penjaga Pantai Tiongkok muncul dengan sering di dekat fitur seperti Beting Luconia, dekat dengan lokasi perusahaan energi negara Petronas menjalankan operasi minyak dan gas.
 
-Yang menarik adalah cara Malaysia menangani hal ini. Dibanding diplomasi lantang, Kuala Lumpur selama beberapa dekade telah menerapkan apa yang disebut analis sebagai diplomasi senyap atau "diam" — mengajukan protes resmi melalui Wisma Putra (Kementerian Luar Negeri) sambil mempertahankan pengeboran Petronas dan enggan membiarkan sengketa itu meluber ke dalam hubungan yang lebih luas. Perdana Menteri Anwar telah menggambarkan kawasan yang disengketakan itu secara terus terang sebagai wilayah Malaysia di mana operasi energi negara akan dilanjutkan, meskipun pemerintahnya mempertahankan saluran perdagangan dan investasi terbuka lebar. Analisis oleh Institut ISEAS – Yusof Ishak menggambarkannya sebagai pemisahan yang disengaja antara sengketa maritim dengan hubungan ekonomi dengan mitra dagang terbesar Malaysia.
+Yang menarik adalah cara Malaysia menangani hal ini. Dibanding diplomasi lantang, Kuala Lumpur selama beberapa dekade telah menerapkan apa yang disebut analis sebagai diplomasi senyap atau "diam" — mengajukan protes resmi melalui Wisma Putra ([Kementerian Luar Negeri](/id/government/ministry-of-foreign-affairs-wisma-putra)) sambil mempertahankan pengeboran Petronas dan enggan membiarkan sengketa itu meluber ke dalam hubungan yang lebih luas. Perdana Menteri Anwar telah menggambarkan kawasan yang disengketakan itu secara terus terang sebagai wilayah Malaysia di mana operasi energi negara akan dilanjutkan, meskipun pemerintahnya mempertahankan saluran perdagangan dan investasi terbuka lebar. Analisis oleh Institut ISEAS – Yusof Ishak menggambarkannya sebagai pemisahan yang disengaja antara sengketa maritim dengan hubungan ekonomi dengan mitra dagang terbesar Malaysia.
 
 ## Bagaimana Wisma Putra sebenarnya mengelolanya?
 

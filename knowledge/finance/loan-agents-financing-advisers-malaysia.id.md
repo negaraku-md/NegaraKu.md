@@ -36,7 +36,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4a92402459f1ccc8"
+sourceContentHash: "89a5aa8c792f0100"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ Ini bagian yang paling sering dipahami keliru orang, jadi layak dinyatakan secar
 
 **Broking pinjaman dan KPR — peran mengemas-dan-mengajukan — sebagian besar tidak diatur di Malaysia.** Tidak ada **lisensi "agen pinjaman" khusus**, tidak ada plafon biaya, dan **tidak ada register broker** yang bisa Anda periksa. Sebuah pihak menjadi diatur hanya ketika ia melakukan sesuatu yang lebih dari broking:
 
-- jika ia **meminjamkan uang sendiri**, ia memerlukan **lisensi pemberi pinjaman uang** dari Kementerian Perumahan dan Kerajaan Tempatan (KPKT) di bawah Moneylenders Act 1951 — lihat [pemberi pinjaman uang berlisensi dan penipuan pinjaman](/finance/licensed-moneylenders-malaysia);
+- jika ia **meminjamkan uang sendiri**, ia memerlukan **lisensi pemberi pinjaman uang** dari [Kementerian Perumahan dan Kerajaan Tempatan](/id/government/ministry-of-housing-local-government-kpkt) (KPKT) di bawah Moneylenders Act 1951 — lihat [pemberi pinjaman uang berlisensi dan penipuan pinjaman](/finance/licensed-moneylenders-malaysia);
 - jika ia menjalankan **"usaha penasihat keuangan,"** ia memerlukan **persetujuan Bank Negara di bawah Financial Services Act 2013.**
 
 Poin kedua itu adalah jebakan yang umum. Seorang **"penasihat keuangan"** (financial adviser) berlisensi *memang* peran yang diatur — tetapi rezim itu dibangun di sekitar **produk keuangan seperti asuransi dan takaful**, bukan broking pinjaman. Sebuah firma yang menyebut dirinya "penasihat pembiayaan" dalam arti pengemasan pinjaman umumnya **bukan** penasihat keuangan yang disetujui dan tidak beroperasi di bawah lisensi itu. Kata Inggris yang sama, hal yang berbeda.

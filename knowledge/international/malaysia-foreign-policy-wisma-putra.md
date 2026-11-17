@@ -100,7 +100,7 @@ Apabila Amerika Syarikat ialah pelabur asing terbesar dalam ekonomi Malaysia, te
 
 Ramai menyangka "dasar luar" ialah kerja satu kementerian sahaja. Sebenarnya ia berlapis.
 
-Kementerian Luar Negeri — lebih dikenali sebagai **Wisma Putra**, sempena nama bangunannya — diberi mandat untuk *melaksanakan* dan menyelaraskan dasar luar Malaysia mengikut Perlembagaan Persekutuan, dengan matlaman melindungi serta memajukan kepentingan negara di peringkat antarabangsa. Wisma Putra menguruskan rangkaian kedutaan, suruhanjaya tinggi dan konsulat Malaysia di seluruh dunia, merundingkan pendirian negara dalam forum antarabangsa, dan menjaga kebajikan rakyat Malaysia di luar negara.
+[Kementerian Luar Negeri](/government/ministry-of-foreign-affairs-wisma-putra) — lebih dikenali sebagai **Wisma Putra**, sempena nama bangunannya — diberi mandat untuk *melaksanakan* dan menyelaraskan dasar luar Malaysia mengikut Perlembagaan Persekutuan, dengan matlaman melindungi serta memajukan kepentingan negara di peringkat antarabangsa. Wisma Putra menguruskan rangkaian kedutaan, suruhanjaya tinggi dan konsulat Malaysia di seluruh dunia, merundingkan pendirian negara dalam forum antarabangsa, dan menjaga kebajikan rakyat Malaysia di luar negara.
 
 Tetapi keputusan dasar peringkat tertinggi bukan milik kementerian itu seorang. Ia terletak pada **Perdana Menteri dan Kabinet**. Perdana Menteri kerap bertindak sebagai wajah diplomasi negara dalam lawatan rasmi dan sidang kemuncak, manakala Menteri Luar Negeri mengetuai Wisma Putra dan mewakili Malaysia dalam kebanyakan mesyuarat menteri. Dalam sejarah Malaysia, ada ketika jawatan Perdana Menteri dan Menteri Luar dipegang oleh orang yang sama, yang menunjukkan betapa rapatnya dua peranan itu.
 

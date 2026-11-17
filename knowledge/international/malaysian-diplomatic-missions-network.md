@@ -86,7 +86,7 @@ one of them run out of Wisma Putra in Putrajaya.
 
 ## How big is Malaysia's overseas network?
 
-The Ministry of Foreign Affairs breaks its overseas presence into a handful
+The [Ministry of Foreign Affairs](/government/ministry-of-foreign-affairs-wisma-putra) breaks its overseas presence into a handful
 of mission types. Together they add up to **111 missions in 85 countries**.
 
 | Mission type | Count | What it is |

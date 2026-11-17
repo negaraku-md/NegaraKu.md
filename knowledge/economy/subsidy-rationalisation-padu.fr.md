@@ -31,7 +31,7 @@ faq:
     a: "Le ministère des Finances estime les économies à environ RM5 milliards par an depuis le début de la rationalisation du diesel, le 10 juin 2024."
 
 lang: "fr"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Pendant des années, le gouvernement malaisien a subventionné le carburant, l'�
 
 PADU, abréviation de Pangkalan Data Utama, a été lancée par le Premier ministre Datuk Seri Anwar Ibrahim le 2 janvier 2024 à Putrajaya. C'est une base de données centrale qui combine les profils individuels et familiaux des citoyens et des résidents permanents en une référence unique.
 
-Chaque profil contient des informations démographiques, la localité, le statut socioéconomique, l'emploi, le revenu, l'éducation, la possession de véhicules, la situation de pauvreté et le type d'aide actuellement perçu. Sa construction a impliqué une coopération entre le ministère de l'Économie, le Département des statistiques de la Malaisie (DOSM) et MAMPU, avec des données tirées de divers organismes gouvernementaux.
+Chaque profil contient des informations démographiques, la localité, le statut socioéconomique, l'emploi, le revenu, l'éducation, la possession de véhicules, la situation de pauvreté et le type d'aide actuellement perçu. Sa construction a impliqué une coopération entre le [ministère de l'Économie](/fr/government/ministry-of-economy-malaysia-plans), le Département des statistiques de la Malaisie (DOSM) et MAMPU, avec des données tirées de divers organismes gouvernementaux.
 
 Il est important de le comprendre : PADU n'est pas un mécanisme de fixation des prix. Elle ne détermine pas combien de sen par litre coûte le carburant à la pompe. Sa fonction est plus fondamentale : elle répond à la question « qui remplit les conditions ? » afin que les subventions puissent être redirigées de façon ciblée. C'est pourquoi PADU est souvent décrite comme le moteur de données derrière la rationalisation des subventions, et non comme la rationalisation des subventions elle-même.
 

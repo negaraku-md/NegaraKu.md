@@ -34,7 +34,7 @@ faq:
     a: "Đó là một trò lừa vay tiền thu phí trước kinh điển. Ngừng trả ngay lập tức, gọi Trung tâm Ứng phó Lừa đảo Quốc gia theo số 997 (nó có thể cố đóng băng tài khoản mà tiền đã chuyển tới), kiểm tra số tài khoản hoặc số điện thoại trên Semak Mule tại semakmule.rmp.gov.my, và nộp một báo cáo cảnh sát. Một bên cho vay được cấp phép hợp pháp không bao giờ tính một khoản phí trước khi giải ngân một khoản vay."
 
 lang: "vi"
-sourceContentHash: "af403774efa8800e"
+sourceContentHash: "ab121346e7722ba5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Khi một ngân hàng nói không và tiền mặt eo hẹp, mẩu quảng cáo 
 
 ## Điều gì khiến một bên cho vay "được cấp phép"?
 
-Một bên cho vay là một doanh nghiệp cho vay tiền để kiếm lời ngoài hệ thống ngân hàng. Ở Bán đảo Malaysia, nó phải nắm một giấy phép cấp theo **Moneylenders Act 1951 (Act 400)** bởi **Bộ Nhà ở và Chính quyền Địa phương (KPKT)**. Năm 2021 KPKT đổi tên ngành được cấp phép thành **Cộng đồng Tín dụng (Komuniti Kredit)**, nên tài liệu chính thức dùng cả hai tên — nhưng luật điều chỉnh và yêu cầu cấp phép thì không đổi.
+Một bên cho vay là một doanh nghiệp cho vay tiền để kiếm lời ngoài hệ thống ngân hàng. Ở Bán đảo Malaysia, nó phải nắm một giấy phép cấp theo **Moneylenders Act 1951 (Act 400)** bởi **[Bộ Nhà ở và Chính quyền Địa phương](/vi/government/ministry-of-housing-local-government-kpkt) (KPKT)**. Năm 2021 KPKT đổi tên ngành được cấp phép thành **Cộng đồng Tín dụng (Komuniti Kredit)**, nên tài liệu chính thức dùng cả hai tên — nhưng luật điều chỉnh và yêu cầu cấp phép thì không đổi.
 
 Một giấy phép quan trọng vì nó đưa bên cho vay vào các quy tắc thực sự: lãi suất bị giới hạn, các khoản phí bị giới hạn, một thỏa thuận vay được quy định, và các hạn chế về ứng xử (ví dụ, một bên cho vay được cấp phép không được xuất hiện tại nhà hoặc nơi làm việc của bạn để thu nợ). Một bên cho vay không được cấp phép không bị ràng buộc bởi bất kỳ điều nào trong số này và hoạt động như một tội phạm.
 

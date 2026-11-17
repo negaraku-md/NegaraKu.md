@@ -24,7 +24,7 @@ appliesTo: "学生、政策アナリスト、ジャーナリスト、及びNEP�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 
 status: "published"
 aiAssisted: true
@@ -136,7 +136,7 @@ NEPは1971年に導入され、1990年までの20年間にわたる計画とし�
 
 PuTERA35は、その中核をなす三つの次元——参加（Penyertaan）、所有権（Pemilikan）、支配力（Penguasaan）——において進捗を測定する。同計画の公式ポータルは、熟練雇用、資本保有、絶対貧困率、住宅保有、及びブミプトラ企業の経済への貢献といった分野にわたる測定可能な目標を示している。
 
-経済省が示す目標には、以下が含まれる：
+[経済省](/ja/government/ministry-of-economy-malaysia-plans)が示す目標には、以下が含まれる：
 
 - **ブミプトラ企業のGDPへの貢献**は、**8.1％（2022年）から15％（2035年）**へと高めることが目標とされている。
 - **GLC及びGLIC株式を通じたブミプトラの参加及び支配力**は、**18.7％（2020年）から20％（2035年）**へと高めることが目標とされている。

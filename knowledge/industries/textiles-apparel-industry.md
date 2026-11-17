@@ -115,7 +115,7 @@ Alongside the volume end sits a distinctive heritage strand — **batik and song
 
 ## How big is it?
 
-The industry is long-established but, by Malaysian standards, no longer large relative to the rest of manufacturing. According to figures attributed to the **Malaysia External Trade Development Corporation (MATRADE)**, apparel and clothing-accessories trade reached about **RM18.24 billion in 2025**, up 8.3% year on year, with **exports of roughly RM6.88 billion**. Shipments continued to climb in early 2026.
+The industry is long-established but, by Malaysian standards, no longer large relative to the rest of manufacturing. According to figures attributed to the **Malaysia External Trade Development Corporation ([MATRADE](/government/matrade))**, apparel and clothing-accessories trade reached about **RM18.24 billion in 2025**, up 8.3% year on year, with **exports of roughly RM6.88 billion**. Shipments continued to climb in early 2026.
 
 The more telling number is the trend in *share*. The textiles-and-footwear slice of Malaysia's total exports fell from around **2.9% in 2000 to about 1.1% in 2023**, according to a MIDF Research analysis — not because the industry collapsed, but because electronics and other sectors grew far faster while lower-cost garment producers abroad captured volume. (These figures are drawn from news and research summaries rather than a single official release; see the verification notes.)
 

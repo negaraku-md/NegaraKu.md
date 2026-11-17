@@ -113,7 +113,7 @@ That back-end base is complemented by contract manufacturing and a deep local su
 
 ## How big is it?
 
-Semiconductors are the single most valuable export category Malaysia produces. In 2024, exports of semiconductor devices — integrated circuits, transistors and valves — were worth about **RM388 billion**, according to MATRADE's trade statistics, making up the majority of the country's roughly RM601 billion in electrical & electronics (E&E) exports.
+Semiconductors are the single most valuable export category Malaysia produces. In 2024, exports of semiconductor devices — integrated circuits, transistors and valves — were worth about **RM388 billion**, according to [MATRADE](/government/matrade)'s trade statistics, making up the majority of the country's roughly RM601 billion in electrical & electronics (E&E) exports.
 
 A note on figures: different sources quote different semiconductor export numbers because they draw the boundary differently — some count only semiconductor devices, others include a wider basket of "semiconductor products." Media reports of around RM437.5 billion reflect a broader definition. Either way, the scale is enormous: semiconductors alone rival the entire export economies of some neighbouring countries.
 

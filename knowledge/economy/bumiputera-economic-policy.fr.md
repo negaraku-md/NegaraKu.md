@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Étudiants, analystes des politiques publiques, journalistes et toute personne souhaitant comprendre la continuité des objectifs de la politique économique Bumiputera, de la NEP au plan actuel."
 
 lang: "fr"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -189,7 +189,7 @@ participation au capital, le taux de pauvreté extrême, l'accession à la
 propriété d'un logement et la contribution des entreprises Bumiputera à
 l'économie.
 
-Parmi les cibles énoncées par le Ministère de l'Économie :
+Parmi les cibles énoncées par le [Ministère de l'Économie](/fr/government/ministry-of-economy-malaysia-plans) :
 
 - **La contribution des entreprises Bumiputera au PIB** a pour cible de passer
   de **8.1 pour cent (2022) à 15 pour cent (2035)**.

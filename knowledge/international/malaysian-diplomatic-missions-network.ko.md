@@ -32,7 +32,7 @@ faq:
     a: "대부분의 주재 외국 대사관과 고등판무관실은 쿠알라룸푸르와 푸트라자야에 있으며, 일부 국가는 페낭, 조호르바루, 코타키나발루, 쿠칭과 같은 도시에서도 영사관을 운영합니다."
 
 lang: "ko"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ framework: data-reference
 
 ## 말레이시아의 재외 망은 얼마나 큰가?
 
-외교부는 그 재외 주재를 몇 가지 공관 유형으로 나눕니다. 이들을 합하면 **85개국에 111개 공관**이 됩니다.
+[외교부](/ko/government/ministry-of-foreign-affairs-wisma-putra)는 그 재외 주재를 몇 가지 공관 유형으로 나눕니다. 이들을 합하면 **85개국에 111개 공관**이 됩니다.
 
 | 공관 유형 | 수 | 무엇인가 |
 | --- | ---: | --- |

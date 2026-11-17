@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "e8f5baa4a042bfbe"
+sourceContentHash: "354022a73d700dc8"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -114,7 +114,7 @@ Esa base de back-end se complementa con la fabricación por contrato y un profun
 
 ## ¿Qué tamaño tiene?
 
-Los semiconductores son la categoría de exportación más valiosa que produce Malasia. En 2024, las exportaciones de dispositivos semiconductores —circuitos integrados, transistores y válvulas— tuvieron un valor de unos **RM388 mil millones**, según las estadísticas comerciales de MATRADE, lo que representa la mayoría de los aproximadamente RM601 mil millones del país en exportaciones eléctricas y electrónicas (E&E).
+Los semiconductores son la categoría de exportación más valiosa que produce Malasia. En 2024, las exportaciones de dispositivos semiconductores —circuitos integrados, transistores y válvulas— tuvieron un valor de unos **RM388 mil millones**, según las estadísticas comerciales de [MATRADE](/es/government/matrade), lo que representa la mayoría de los aproximadamente RM601 mil millones del país en exportaciones eléctricas y electrónicas (E&E).
 
 Una nota sobre las cifras: distintas fuentes citan diferentes números de exportación de semiconductores porque trazan la frontera de forma distinta; algunas cuentan solo los dispositivos semiconductores, otras incluyen una canasta más amplia de "productos semiconductores". Los informes de los medios de alrededor de RM437,5 mil millones reflejan una definición más amplia. En cualquier caso, la escala es enorme: los semiconductores por sí solos rivalizan con economías exportadoras completas de algunos países vecinos.
 

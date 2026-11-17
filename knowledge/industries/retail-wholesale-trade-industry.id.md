@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana e-commerce mengubah ritel Malaysia?
     a: Belanja daring tumbuh cepat, dipimpin oleh platform seperti Shopee dan Lazada, dan garis antara ritel daring dan fisik mengabur ketika peritel tradisional menambahkan pengiriman, click-and-collect, dan etalase daring. Angka pendapatan e-commerce DOSM mencapai triliunan ringgit, meski total itu mencakup manufaktur dan jasa, bukan ritel saja.
 lang: id
-sourceContentHash: "f2f74b511fb8617a"
+sourceContentHash: "7023892418e3b1e5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -145,7 +145,7 @@ Pergeseran yang lebih penting adalah kaburnya batas antara daring dan luring. Pe
 
 ## Partisipasi asing dan lisensi WRT
 
-Perdagangan distributif adalah salah satu sektor tempat Malaysia mengatur kepemilikan asing. Perusahaan milik asing yang ingin berjualan grosir atau ritel umumnya tunduk pada pedoman Kementerian Perdagangan Dalam Negeri dan Biaya Hidup (**KPDN**) tentang partisipasi asing dalam perdagangan distributif, dan biasanya memerlukan **lisensi perdagangan grosir/ritel (WRT)**.
+Perdagangan distributif adalah salah satu sektor tempat Malaysia mengatur kepemilikan asing. Perusahaan milik asing yang ingin berjualan grosir atau ritel umumnya tunduk pada pedoman [Kementerian Perdagangan Dalam Negeri dan Biaya Hidup](/id/government/ministry-of-domestic-trade-kpdn) (**KPDN**) tentang partisipasi asing dalam perdagangan distributif, dan biasanya memerlukan **lisensi perdagangan grosir/ritel (WRT)**.
 
 Aturan ini menetapkan syarat yang berbeda dari satu format ke format lain. Format yang lebih besar seperti hipermarket mensyaratkan modal minimum yang lebih tinggi, dan secara historis terdapat syarat tentang partisipasi ekuitas Bumiputera serta perekrutan staf yang mencerminkan susunan demografis negara. Beberapa format yang lebih kecil — seperti supermarket kecil, minimarket, toko kelontong, dan minimarket 24 jam — umumnya disediakan untuk kepemilikan warga Malaysia. Karena ambang dan daftar ini diamendemen secara berkala, siapa pun yang berencana berinvestasi sebaiknya mengonfirmasi edisi terkini pedoman dengan KPDN. Mekanisme praktis lisensi dibahas dalam [panduan lisensi WRT](/id/business/wrt-licence-malaysia/).
 

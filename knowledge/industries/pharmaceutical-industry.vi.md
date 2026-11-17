@@ -31,7 +31,7 @@ faq:
   - q: Những công ty dược phẩm chính của Malaysia là ai?
     a: Các nhà sản xuất nội địa nổi tiếng nhất là Pharmaniaga (nhà sản xuất, phân phối tích hợp và bên nắm nhượng quyền của chính phủ), Duopharma Biotech (lớn lên từ tập đoàn CCM và làm biosimilar), CCM, Kotra Pharma và Hovid. Các đa quốc gia như Pfizer, Novartis và GSK chủ yếu tập trung vào thuốc có bằng sáng chế thay vì sản xuất nội địa quy mô lớn.
 lang: vi
-sourceContentHash: "298a60d12beaab87"
+sourceContentHash: "74d70b70b888e308"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,7 +114,7 @@ Các hãng nội địa mạnh về viên nén, viên nang, siro, kem và thuố
 
 Con số rõ ràng nhất là về nguồn cung, không phải doanh số: các tổ chức ngành nói các nhà sản xuất nội địa đáp ứng một thị phần lớn nhu cầu *thuốc gốc* trong nước. Tổ chức Công nghiệp Dược phẩm Malaysia (MOPI) nêu rằng khoảng **80% thuốc gốc được sản xuất nội địa** và rằng các thành viên của họ cung ứng khoảng **một nửa toàn bộ thuốc** mà người Malaysia tiêu thụ; các bản tổng quan khác đặt khả năng tự cung ứng thuốc gốc nội địa ở **70-80%** [cần xác minh]. Khả năng tự cung ứng đó là một tài sản chiến lược thực sự — nó được kiểm nghiệm rõ rệt, và phần lớn trụ vững, trong những cú sốc nguồn cung thời đại dịch.
 
-Về thương mại, truyền thông tường thuật số liệu MATRADE đặt **xuất khẩu dược phẩm ở khoảng RM3,04 tỷ năm 2024** (tăng khoảng 4%), trong tổng thương mại thiết bị y tế và dược phẩm gộp khoảng **RM61,31 tỷ** — dù thiết bị y tế, chứ không phải thuốc, mới chiếm phần lớn con số lớn hơn đó [cần xác minh]. Bản thân thị trường nội địa được cho là dự kiến đạt khoảng **3,5 tỷ USD vào năm 2028** [cần xác minh]. Những con số này đến từ tường thuật thứ cấp và nên được xác nhận với MATRADE, Cục Thống kê Malaysia (DOSM) và MIDA trước khi được trích dẫn như con số chính thức.
+Về thương mại, truyền thông tường thuật số liệu [MATRADE](/vi/government/matrade) đặt **xuất khẩu dược phẩm ở khoảng RM3,04 tỷ năm 2024** (tăng khoảng 4%), trong tổng thương mại thiết bị y tế và dược phẩm gộp khoảng **RM61,31 tỷ** — dù thiết bị y tế, chứ không phải thuốc, mới chiếm phần lớn con số lớn hơn đó [cần xác minh]. Bản thân thị trường nội địa được cho là dự kiến đạt khoảng **3,5 tỷ USD vào năm 2028** [cần xác minh]. Những con số này đến từ tường thuật thứ cấp và nên được xác nhận với MATRADE, Cục Thống kê Malaysia (DOSM) và MIDA trước khi được trích dẫn như con số chính thức.
 
 Một lưu ý cấu trúc nằm sau tất cả những điều này: Malaysia nhập khẩu giá trị dược phẩm nhiều hơn nhiều so với xuất khẩu — một con số gián tiếp gợi ý nhập khẩu gấp nhiều lần giá trị xuất khẩu trong những năm gần đây [cần xác minh] — chính vì thuốc có bằng sáng chế và đặc trị được mua về, không được làm nội địa.
 

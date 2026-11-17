@@ -34,7 +34,7 @@ faq:
     a: "C'est une arnaque au prêt par frais avancés classique. Cessez de payer immédiatement, appelez le National Scam Response Centre au 997 (il peut tenter de geler le compte où l'argent est allé), vérifiez le numéro de compte ou de téléphone sur Semak Mule à semakmule.rmp.gov.my, et déposez une plainte à la police. Un prêteur agréé légitime ne facture jamais de frais avant de décaisser un prêt."
 
 lang: "fr"
-sourceContentHash: "af403774efa8800e"
+sourceContentHash: "ab121346e7722ba5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Quand une banque dit non et que l'argent manque, la prochaine annonce n'est jama
 
 ## Qu'est-ce qui rend un prêteur « agréé » ?
 
-Un prêteur sur gages est une entreprise qui prête de l'argent à but lucratif en dehors du système bancaire. En Malaisie péninsulaire, il doit détenir une licence délivrée au titre de la **Moneylenders Act 1951 (Act 400)** par le **ministère du Logement et des Collectivités locales (KPKT)**. En 2021, le KPKT a rebaptisé le métier agréé **Credit Community (Komuniti Kredit)**, de sorte que le matériel officiel emploie les deux noms — mais la loi régissante et l'exigence d'agrément restent inchangées.
+Un prêteur sur gages est une entreprise qui prête de l'argent à but lucratif en dehors du système bancaire. En Malaisie péninsulaire, il doit détenir une licence délivrée au titre de la **Moneylenders Act 1951 (Act 400)** par le **[ministère du Logement et des Collectivités locales](/fr/government/ministry-of-housing-local-government-kpkt) (KPKT)**. En 2021, le KPKT a rebaptisé le métier agréé **Credit Community (Komuniti Kredit)**, de sorte que le matériel officiel emploie les deux noms — mais la loi régissante et l'exigence d'agrément restent inchangées.
 
 Une licence compte parce qu'elle soumet le prêteur à de vraies règles : intérêts plafonnés, frais limités, contrat de prêt prescrit, et restrictions de conduite (par exemple, un prêteur agréé ne peut pas se présenter à votre domicile ou sur votre lieu de travail pour recouvrer). Un prêteur non agréé n'est tenu par aucune de ces règles et opère en criminel.
 

@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fb230f3e8cc5eada"
+sourceContentHash: "c730068e7065d136"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ For years, the Malaysian government subsidised fuel, electricity and food for ev
 
 PADU, short for Pangkalan Data Utama, was launched by Prime Minister Datuk Seri Anwar Ibrahim on 2 January 2024 in Putrajaya. It is a central database that combines the individual and household profiles of citizens and permanent residents into a single reference.
 
-Each profile contains demographic information, locality, socioeconomic status, employment, income, education, vehicle ownership, poverty status and the type of aid currently received. Building it involved cooperation between the Ministry of Economy, the Department of Statistics Malaysia (DOSM) and MAMPU, with data drawn from various government agencies.
+Each profile contains demographic information, locality, socioeconomic status, employment, income, education, vehicle ownership, poverty status and the type of aid currently received. Building it involved cooperation between the [Ministry of Economy](/en/government/ministry-of-economy-malaysia-plans), the Department of Statistics Malaysia (DOSM) and MAMPU, with data drawn from various government agencies.
 
 It is important to understand: PADU is not a pricing mechanism. It does not set how many sen per litre fuel costs at the pump. Its function is more fundamental — it answers the question "who qualifies?" so that subsidies can be shifted in a targeted way. This is why PADU is often described as the data engine behind subsidy rationalisation, rather than subsidy rationalisation itself.
 

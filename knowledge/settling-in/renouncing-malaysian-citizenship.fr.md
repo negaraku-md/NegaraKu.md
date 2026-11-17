@@ -32,7 +32,7 @@ faq:
     a: "Le portail MyGovernment indique que la décision est permanente et irrévocable ; quiconque renonce à sa citoyenneté perd de façon permanente tous les droits et privilèges de citoyen malaisien."
 
 lang: "fr"
-sourceContentHash: "350dd3e83765a9b5"
+sourceContentHash: "18ad6686b9db481c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Un Malaisien qui prête serment pour devenir citoyen d'un autre pays est souvent
 
 ## Pourquoi la Malaisie ne reconnaît-elle pas la double citoyenneté ?
 
-La position officielle du Gouvernement est que la Malaisie ne reconnaît pas la détention de plus d'une citoyenneté pour les adultes. En 2019, le ministre de l'Intérieur de l'époque a déclaré que « Malaysia does not recognise dual citizenship » (la Malaisie ne reconnaît pas la double citoyenneté), et a expliqué que les Malaisiens qui acquièrent la citoyenneté ailleurs peuvent perdre leur citoyenneté malaisienne en vertu de l'article 24(1) de la Constitution fédérale.
+La position officielle du Gouvernement est que la Malaisie ne reconnaît pas la détention de plus d'une citoyenneté pour les adultes. En 2019, le ministre de l'Intérieur de l'époque a déclaré que « Malaysia does not recognise dual citizenship » (la Malaisie ne reconnaît pas la double citoyenneté), et a expliqué que les Malaisiens qui acquièrent la citoyenneté ailleurs peuvent perdre leur [citoyenneté malaisienne](/fr/government/malaysian-citizenship-law) en vertu de l'article 24(1) de la Constitution fédérale.
 
 Le fondement juridique réside dans le texte de la Constitution. L'article 24(1) dispose :
 

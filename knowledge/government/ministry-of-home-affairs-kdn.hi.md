@@ -27,7 +27,7 @@ faq:
   - q: "गृह मंत्री कौन हैं?"
     a: "2026 तक गृह मंत्री Datuk Seri Panglima Saifuddin Nasution bin Ismail हैं, जो 3 दिसंबर 2022 से पद पर हैं। मंत्रिमंडल के विभाग फेरबदल के साथ बदलते हैं, इसलिए वर्तमान पदधारी की पुष्टि moha.gov.my पर करें।"
 lang: "hi"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -112,7 +112,7 @@ KDN की अधिकांश जनता-सामना करने व�
 | कारागार विभाग | व्यक्ति-तस्करी-विरोधी परिषद (MAPO) |
 | राष्ट्रीय पंजीकरण विभाग (JPN) | अपराध रोकथाम बोर्ड |
 | समिति रजिस्ट्री (ROS) | पैरोल बोर्ड |
-| जन स्वयंसेवक दल (RELA) | फ़िल्म सेंसरशिप बोर्ड |
+| [जन स्वयंसेवक दल](/hi/government/peoples-volunteer-corps-rela) (RELA) | फ़िल्म सेंसरशिप बोर्ड |
 | समुद्री प्रवर्तन एजेंसी (MMEA/APMM) | आतंकवाद रोकथाम बोर्ड |
 | पूर्वी साबा सुरक्षा कमान (ESSCOM) | राष्ट्रीय मुद्रण (PNMB) |
 

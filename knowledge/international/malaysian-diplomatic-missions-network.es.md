@@ -32,7 +32,7 @@ faq:
     a: "La mayoría de las embajadas y altas comisiones extranjeras residentes están en Kuala Lumpur y Putrajaya, y algunos países también operan consulados en ciudades como Penang, Johor Bahru, Kota Kinabalu y Kuching."
 
 lang: "es"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ gestionadas desde Wisma Putra en Putrajaya—.
 
 ## ¿Cuán grande es la red de Malasia en el extranjero?
 
-El Ministerio de Asuntos Exteriores divide su presencia en el exterior en un
+El [Ministerio de Asuntos Exteriores](/es/government/ministry-of-foreign-affairs-wisma-putra) divide su presencia en el exterior en un
 puñado de tipos de misión. En conjunto suman **111 misiones en 85 países**.
 
 | Tipo de misión | Número | Qué es |

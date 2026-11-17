@@ -32,7 +32,7 @@ faq:
     a: "大多数常驻的外国使馆和高级专员公署位于吉隆坡和布城，部分国家还在槟城、新山、亚庇和古晋等城市设立领事馆。"
 
 lang: "zh"
-sourceContentHash: "7bb552ee1b28a75c"
+sourceContentHash: "772c8b3df48b96b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ framework: data-reference
 
 ## 马来西亚的海外网络有多大？
 
-外交部将其海外机构划分为若干使团类型。它们合计构成
+[外交部](/zh/government/ministry-of-foreign-affairs-wisma-putra)将其海外机构划分为若干使团类型。它们合计构成
 **85个国家的111个使团**。
 
 | 使团类型 | 数量 | 具体含义 |

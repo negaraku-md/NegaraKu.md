@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo và bất kỳ ai muốn hiểu cách phát triển của quốc gia được hoạch định vượt ra ngoài một năm tài chính."
 
 lang: "vi"
-sourceContentHash: "6d304c9b2af203ce"
+sourceContentHash: "b9ead2aabe6a538a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Kế hoạch Malaysia là tầng giữa. Nó chuyển hóa tầm nhìn dài hạ
 
 ## Kế hoạch Malaysia thực sự là gì
 
-Kế hoạch Malaysia không phải là con số chi tiêu của một năm, cũng không phải là luật. Nó là một tài liệu chính sách do Bộ Kinh tế soạn thảo, đặt ra các trụ cột phát triển, ưu tiên chính sách, chiến lược và chỉ tiêu kết quả cho thời kỳ năm năm — rồi được trình dưới dạng một **kiến nghị** để Nghị viện tranh luận và phê duyệt, chứ không phải dưới dạng một dự luật như Dự luật Cấp phát.
+Kế hoạch Malaysia không phải là con số chi tiêu của một năm, cũng không phải là luật. Nó là một tài liệu chính sách do [Bộ Kinh tế](/vi/government/ministry-of-economy-malaysia-plans) soạn thảo, đặt ra các trụ cột phát triển, ưu tiên chính sách, chiến lược và chỉ tiêu kết quả cho thời kỳ năm năm — rồi được trình dưới dạng một **kiến nghị** để Nghị viện tranh luận và phê duyệt, chứ không phải dưới dạng một dự luật như Dự luật Cấp phát.
 
 Truyền thống này bắt đầu sớm hơn thời điểm độc lập hoàn toàn ở hình thức hiện nay của nó. Kế hoạch Malaya lần thứ Nhất (1956-1960) và Kế hoạch Malaya lần thứ Hai (1961-1965) có trước Kế hoạch Malaysia lần thứ Nhất (RMK1, 1966-1970) — khiến RMK13 trở thành kế hoạch phát triển năm năm thứ 15 kể từ năm 1956, và thứ 13 kể từ khi tên «Rancangan Malaysia» được sử dụng vào năm 1966.
 

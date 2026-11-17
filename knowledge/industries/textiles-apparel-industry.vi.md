@@ -31,7 +31,7 @@ faq:
   - q: Những ưu đãi nào hỗ trợ đầu tư dệt may và trang phục?
     a: MIDA quản lý việc phê duyệt giấy phép sản xuất và các ưu đãi thuế cho phân khúc này, vốn là một lĩnh vực ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới (NIMP) 2030. Từ quý đầu năm 2026, các khoản đầu tư đủ điều kiện thuộc Khung Ưu đãi Đầu tư Mới dựa trên kết quả, với các ưu đãi phân tầng gắn với các kết quả như công nghệ, kỹ năng và liên kết nội địa. Hãy xác nhận mức và điều kiện hiện hành với MIDA.
 lang: vi
-sourceContentHash: "610641d5d177ffdc"
+sourceContentHash: "1841208413fe19a3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,7 +116,7 @@ Bên cạnh đầu khối lượng là một mạch di sản đặc trưng — *
 
 ## Nó lớn đến mức nào?
 
-Ngành này lâu đời nhưng, theo tiêu chuẩn Malaysia, không còn lớn so với phần còn lại của chế tạo. Theo các con số được quy cho **Tổng công ty Phát triển Ngoại thương Malaysia (MATRADE)**, kim ngạch thương mại trang phục và phụ kiện may mặc đạt khoảng **RM18,24 tỷ trong năm 2025**, tăng 8,3% so với năm trước, với **xuất khẩu khoảng RM6,88 tỷ**. Lô hàng tiếp tục tăng vào đầu năm 2026.
+Ngành này lâu đời nhưng, theo tiêu chuẩn Malaysia, không còn lớn so với phần còn lại của chế tạo. Theo các con số được quy cho **Tổng công ty Phát triển Ngoại thương Malaysia ([MATRADE](/vi/government/matrade))**, kim ngạch thương mại trang phục và phụ kiện may mặc đạt khoảng **RM18,24 tỷ trong năm 2025**, tăng 8,3% so với năm trước, với **xuất khẩu khoảng RM6,88 tỷ**. Lô hàng tiếp tục tăng vào đầu năm 2026.
 
 Con số nói lên nhiều hơn là xu hướng về *tỷ trọng*. Lát cắt dệt may-giày dép trong tổng xuất khẩu của Malaysia giảm từ khoảng **2,9% năm 2000 xuống khoảng 1,1% năm 2023**, theo một phân tích của MIDF Research — không phải vì ngành sụp đổ, mà vì điện tử và các lĩnh vực khác tăng trưởng nhanh hơn nhiều trong khi các nhà sản xuất trang phục chi phí thấp hơn ở nước ngoài chiếm lĩnh khối lượng. (Các con số này lấy từ các bản tóm tắt tin tức và nghiên cứu chứ không phải một bản phát hành chính thức duy nhất; xem ghi chú xác minh.)
 

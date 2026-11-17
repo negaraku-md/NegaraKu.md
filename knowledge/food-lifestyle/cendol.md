@@ -194,7 +194,7 @@ possible.
 
 That shared status is now formally recognised in several places: Indonesia has listed
 dawet, es cendol and cendol as intangible cultural heritage in various regions,
-Malaysia's **Department of National Heritage** designates cendol a heritage food, and
+Malaysia's [**Department of National Heritage**](/government/department-of-national-heritage) designates cendol a heritage food, and
 Singapore has included it in its UNESCO submission for hawker culture. (These
 recognitions and their dates are summarised from secondary sources and are flagged for
 verification.)

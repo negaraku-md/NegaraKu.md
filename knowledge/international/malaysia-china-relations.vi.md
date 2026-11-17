@@ -32,7 +32,7 @@ faq:
     a: "Đó là cách diễn đạt mà cả hai chính phủ áp dụng để mô tả giai đoạn tiếp theo của quan hệ, dựa trên quan hệ đối tác chiến lược toàn diện được thiết lập vào năm 2013. Khái niệm này được nêu ra từ năm 2023 và được chính thức hóa trong một tuyên bố chung trong chuyến thăm cấp nhà nước của Chủ tịch Tập Cận Bình vào ngày 17 tháng 4 năm 2025. Nó đề ra sự hợp tác trên các lĩnh vực thương mại, công nghệ, cơ sở hạ tầng và các mối liên kết giữa người dân với người dân."
 
 lang: "vi"
-sourceContentHash: "72782c6871b15658"
+sourceContentHash: "b7ef3c40f5decdc1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,7 +107,7 @@ Mối quan hệ không chỉ là về các dòng chảy thương mại. Chỉ ri
 
 Gần như toàn bộ nằm ở Biển Đông. Thềm lục địa và vùng đặc quyền kinh tế của Malaysia ngoài khơi Sabah và Sarawak chồng lấn với vùng biển mà China yêu sách theo "đường chín đoạn" của mình, một yêu sách mà các quan chức Malaysia đã công khai bác bỏ. Các tàu Hải cảnh China xuất hiện thường xuyên gần các thực thể như Luconia Shoals, sát nơi công ty năng lượng nhà nước Petronas vận hành các hoạt động dầu khí.
 
-Điều đáng chú ý là cách Malaysia xử lý việc này. Thay vì ngoại giao ồn ào, Kuala Lumpur trong nhiều thập kỷ đã thực hành cái mà các nhà phân tích gọi là ngoại giao lặng lẽ hay "thầm lặng" — gửi các công hàm phản đối chính thức thông qua Wisma Putra (Bộ Ngoại giao) trong khi vẫn giữ Petronas khoan dầu và từ chối để tranh chấp lan vào mối quan hệ rộng lớn hơn. Thủ tướng Anwar đã diễn đạt thẳng thắn khu vực tranh chấp là lãnh thổ Malaysia nơi các hoạt động năng lượng quốc gia sẽ tiếp tục, ngay cả khi chính phủ của ông vẫn để các kênh thương mại và đầu tư rộng mở. Phân tích của ISEAS – Yusof Ishak Institute mô tả đây là một sự tách biệt có chủ đích giữa tranh chấp hàng hải khỏi các mối quan hệ kinh tế với đối tác thương mại lớn nhất của Malaysia.
+Điều đáng chú ý là cách Malaysia xử lý việc này. Thay vì ngoại giao ồn ào, Kuala Lumpur trong nhiều thập kỷ đã thực hành cái mà các nhà phân tích gọi là ngoại giao lặng lẽ hay "thầm lặng" — gửi các công hàm phản đối chính thức thông qua Wisma Putra ([Bộ Ngoại giao](/vi/government/ministry-of-foreign-affairs-wisma-putra)) trong khi vẫn giữ Petronas khoan dầu và từ chối để tranh chấp lan vào mối quan hệ rộng lớn hơn. Thủ tướng Anwar đã diễn đạt thẳng thắn khu vực tranh chấp là lãnh thổ Malaysia nơi các hoạt động năng lượng quốc gia sẽ tiếp tục, ngay cả khi chính phủ của ông vẫn để các kênh thương mại và đầu tư rộng mở. Phân tích của ISEAS – Yusof Ishak Institute mô tả đây là một sự tách biệt có chủ đích giữa tranh chấp hàng hải khỏi các mối quan hệ kinh tế với đối tác thương mại lớn nhất của Malaysia.
 
 ## Wisma Putra thực sự quản lý nó như thế nào?
 

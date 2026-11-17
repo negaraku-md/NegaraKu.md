@@ -36,7 +36,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4a92402459f1ccc8"
+sourceContentHash: "89a5aa8c792f0100"
 
 status: "published"
 aiAssisted: true
@@ -118,7 +118,7 @@ Hai quy tắc bảo vệ bạn ở đây:
 
 **Môi giới vay và vay thế chấp — vai trò đóng-gói-và-nộp-đơn — phần lớn không được quản lý ở Malaysia.** **Không có giấy phép "đại lý vay" chuyên biệt**, không có trần phí, và **không có sổ đăng ký môi giới** nào bạn có thể kiểm tra. Một bên chỉ trở thành được quản lý khi nó làm điều gì đó hơn môi giới:
 
-- nếu nó **tự cho vay tiền**, nó cần một **giấy phép cho vay tiền** từ Bộ Nhà ở và Chính quyền Địa phương (KPKT) theo Moneylenders Act 1951 — xem [các bên cho vay được cấp phép và các trò lừa vay tiền](/finance/licensed-moneylenders-malaysia);
+- nếu nó **tự cho vay tiền**, nó cần một **giấy phép cho vay tiền** từ [Bộ Nhà ở và Chính quyền Địa phương](/vi/government/ministry-of-housing-local-government-kpkt) (KPKT) theo Moneylenders Act 1951 — xem [các bên cho vay được cấp phép và các trò lừa vay tiền](/finance/licensed-moneylenders-malaysia);
 - nếu nó tiến hành **"hoạt động tư vấn tài chính,"** nó cần **sự chấp thuận của Bank Negara theo Financial Services Act 2013.**
 
 Điểm thứ hai đó là một cái bẫy phổ biến. Một **"cố vấn tài chính"** được cấp phép *là* một vai trò được quản lý — nhưng cơ chế đó được xây quanh các **sản phẩm tài chính như bảo hiểm và takaful**, không phải môi giới vay. Một công ty tự gọi mình là "cố vấn tài trợ" theo nghĩa đóng gói vay nói chung **không** phải một cố vấn tài chính được chấp thuận và không hoạt động theo giấy phép đó. Cùng một từ tiếng Anh, một thứ khác.

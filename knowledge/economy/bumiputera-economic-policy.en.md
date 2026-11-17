@@ -25,7 +25,7 @@ appliesTo: "Students, policy analysts, journalists and anyone who wants to under
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0cfaf6ebc14f819b"
+sourceContentHash: "4c997b9f2887c931"
 
 status: "published"
 aiAssisted: true
@@ -179,7 +179,7 @@ measurable targets across areas such as skilled employment, equity
 ownership, hardcore poverty rate, home ownership and Bumiputera enterprises'
 contribution to the economy.
 
-Among the targets stated by the Ministry of Economy:
+Among the targets stated by the [Ministry of Economy](/en/government/ministry-of-economy-malaysia-plans):
 
 - **Bumiputera enterprises' contribution to GDP** is targeted to rise from
   **8.1 per cent (2022) to 15 per cent (2035)**.

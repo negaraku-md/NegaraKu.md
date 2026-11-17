@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "84024caa253d8b49"
+sourceContentHash: "b098b359d7922252"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -112,7 +112,7 @@ KDN 面向公众的权力大多并非由总部人员行使，而是由其旗下�
 | 监狱局 | 反人口贩运理事会（MAPO） |
 | 国民登记局（JPN） | 预防犯罪委员会 |
 | 社团注册局（ROS） | 假释局 |
-| 人民志愿队（RELA） | 电影审查局 |
+| [人民志愿队](/zh/government/peoples-volunteer-corps-rela)（RELA） | 电影审查局 |
 | 海事执法机构（MMEA/APMM） | 预防恐怖主义委员会 |
 | 沙巴东部安全指挥部（ESSCOM） | 国家印务局（PNMB） |
 

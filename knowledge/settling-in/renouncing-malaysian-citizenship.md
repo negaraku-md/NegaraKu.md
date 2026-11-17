@@ -82,7 +82,7 @@ Seorang rakyat Malaysia yang mengangkat sumpah menjadi warganegara negara lain s
 
 ## Mengapa Malaysia tidak mengiktiraf dwikewarganegaraan?
 
-Pendirian rasmi kerajaan ialah Malaysia tidak mengiktiraf pemilikan lebih daripada satu kewarganegaraan bagi orang dewasa. Pada tahun 2019, Menteri Dalam Negeri ketika itu menyatakan "Malaysia does not recognise dual citizenship", dan menjelaskan bahawa rakyat Malaysia yang memperoleh kewarganegaraan di tempat lain boleh kehilangan kewarganegaraan Malaysia di bawah Perkara 24(1) Perlembagaan Persekutuan.
+Pendirian rasmi kerajaan ialah Malaysia tidak mengiktiraf pemilikan lebih daripada satu kewarganegaraan bagi orang dewasa. Pada tahun 2019, Menteri Dalam Negeri ketika itu menyatakan "Malaysia does not recognise dual citizenship", dan menjelaskan bahawa rakyat Malaysia yang memperoleh kewarganegaraan di tempat lain boleh kehilangan [kewarganegaraan Malaysia](/government/malaysian-citizenship-law) di bawah Perkara 24(1) Perlembagaan Persekutuan.
 
 Asas undang-undangnya terletak pada teks Perlembagaan. Perkara 24(1) memperuntukkan:
 

@@ -32,7 +32,7 @@ faq:
     a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) diluncurkan pada Oktober 2019 sebagai gagasan penerus yang berfokus pada kemakmuran yang merata untuk periode 2021 hingga 2030."
 
 lang: "id"
-sourceContentHash: "d7d57585a7686755"
+sourceContentHash: "64099ed3e8eb2be7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Isu jurang pendapatan dan persatuan sosial tetap menjadi tema perbincangan publi
 
 ## Apa yang menggantikan Wawasan 2020?
 
-Ketika periode Wawasan 2020 mendekati akhirnya, pemerintah memperkenalkan gagasan penerus. Wawasan Kemakmuran Bersama 2030 (WKB 2030) diluncurkan pada Oktober 2019 untuk periode 2021 hingga 2030, dengan fokus pada pertumbuhan ekonomi yang berkelanjutan dan distribusi kemakmuran yang lebih merata lintas semua kelompok. Kementerian Ekonomi menyediakan dokumen resmi WKB 2030 dalam bahasa Melayu dan Inggris.
+Ketika periode Wawasan 2020 mendekati akhirnya, pemerintah memperkenalkan gagasan penerus. Wawasan Kemakmuran Bersama 2030 (WKB 2030) diluncurkan pada Oktober 2019 untuk periode 2021 hingga 2030, dengan fokus pada pertumbuhan ekonomi yang berkelanjutan dan distribusi kemakmuran yang lebih merata lintas semua kelompok. [Kementerian Ekonomi](/id/government/ministry-of-economy-malaysia-plans) menyediakan dokumen resmi WKB 2030 dalam bahasa Melayu dan Inggris.
 
 Untuk jalan ke depan, laporan Bank Dunia pada Februari 2025 memperkirakan Malaysia berkemungkinan beralih ke status negara berpendapatan tinggi antara tahun 2028 dan 2030 — beberapa tahun setelah tanggal sasaran asli Wawasan 2020.
 

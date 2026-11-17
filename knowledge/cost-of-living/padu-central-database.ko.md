@@ -29,7 +29,7 @@ faq:
     a: "아닙니다. 정부에 따르면 PADU의 데이터 수집은 법적 제약으로 인해 은행 정보 시스템을 포함하지 않습니다."
 
 lang: "ko"
-sourceContentHash: "e8105c96d9e01007"
+sourceContentHash: "b9b45dd5e509daf7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,7 +78,7 @@ framework: explainer
 
 ## PADU란 무엇입니까?
 
-PADU, 즉 Pangkalan Data Utama(중앙 데이터베이스)는 안와르 이브라힘(Anwar Ibrahim) 총리가 2024년 1월 2일 출범시킨 국가 중앙 데이터베이스입니다. 경제부, 말레이시아 통계청(DOSM), 그리고 말레이시아 행정현대화관리기획단(MAMPU)이 공동 개발했습니다.
+PADU, 즉 Pangkalan Data Utama(중앙 데이터베이스)는 안와르 이브라힘(Anwar Ibrahim) 총리가 2024년 1월 2일 출범시킨 국가 중앙 데이터베이스입니다. [경제부](/ko/government/ministry-of-economy-malaysia-plans), 말레이시아 통계청(DOSM), 그리고 말레이시아 행정현대화관리기획단(MAMPU)이 공동 개발했습니다.
 
 정부에 따르면, 그 목적은 국민의 사회경제적 모습을 한곳에 통합하여 보조금과 지원이 정해진 집단에 겨냥되고, 모든 소득 계층에 전면적으로 전달되지 않도록 하는 것입니다.
 

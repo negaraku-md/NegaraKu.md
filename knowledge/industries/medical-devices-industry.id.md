@@ -31,7 +31,7 @@ faq:
   - q: Apa saja insentif bagi produsen?
     a: Peranti medis adalah aktivitas yang dipromosikan MIDA, memenuhi syarat untuk insentif seperti Pioneer Status (pembebasan pajak penghasilan sebagian hingga penuh untuk jangka waktu tertentu) dan Investment Tax Allowance atas belanja modal yang memenuhi syarat. Peranti medis juga disebut sebagai sektor prioritas di bawah New Industrial Master Plan 2030. Konfirmasikan ketentuan dan kelayakan terkini langsung kepada MIDA.
 lang: id
-sourceContentHash: "03a22155918ac33b"
+sourceContentHash: "0f609e23d14a24f5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,7 +115,7 @@ Panduan ini membahas industri peranti medis secara khusus: pembuatan peranti dan
 
 Posisi Malaysia paling baik digambarkan secara regional. Dalam siaran media bersama pada Oktober 2024, MIDA dan Association of Malaysian Medical Industries (AMMI) menggambarkan Malaysia sebagai hub medtech teratas di Asia Tenggara, rumah bagi pasar peranti medis domestik terbesar di kawasan — bernilai sekitar **RM10,6 miliar pada 2023** — dan bagi konsentrasi perusahaan medtech multinasional tertinggi di kawasan.
 
-Soal ekspor, angka-angka bervariasi dan sebaiknya diperlakukan dengan hati-hati. Pernyataan Kementerian Kesehatan dan media menempatkan ekspor peranti medis 2024 pada kurang lebih **RM37 miliar**, naik sekitar 31% dari tahun sebelumnya. Seorang pejabat MATRADE secara terpisah dilaporkan mengutip **US$8,7 miliar** untuk 2024 dan menempatkan Malaysia di antara lima besar lokasi manufaktur peranti medis dunia, bersama Kosta Rika dan Puerto Riko. Angka-angka ini tidak selaras dengan rapi, dan tidak ada total utama resmi tunggal yang terkonfirmasi untuk panduan ini, sehingga masing-masing ditandai untuk verifikasi.
+Soal ekspor, angka-angka bervariasi dan sebaiknya diperlakukan dengan hati-hati. Pernyataan Kementerian Kesehatan dan media menempatkan ekspor peranti medis 2024 pada kurang lebih **RM37 miliar**, naik sekitar 31% dari tahun sebelumnya. Seorang pejabat [MATRADE](/id/government/matrade) secara terpisah dilaporkan mengutip **US$8,7 miliar** untuk 2024 dan menempatkan Malaysia di antara lima besar lokasi manufaktur peranti medis dunia, bersama Kosta Rika dan Puerto Riko. Angka-angka ini tidak selaras dengan rapi, dan tidak ada total utama resmi tunggal yang terkonfirmasi untuk panduan ini, sehingga masing-masing ditandai untuk verifikasi.
 
 Jejak manusia sektor ini juga substansial: **91 perusahaan anggota** AMMI saja dilaporkan menopang **lebih dari 54.000 lapangan kerja** dan menyumbang lebih dari separuh kontribusi ekspor peranti medis negara. Di seluruh ekonomi, pernyataan kementerian menyebut lebih dari 200 produsen.
 

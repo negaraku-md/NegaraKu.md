@@ -31,7 +31,7 @@ faq:
   - q: "Quelles sont les principales entreprises pharmaceutiques malaisiennes ?"
     a: "Les fabricants locaux les plus connus sont Pharmaniaga (fabricant, distributeur intégré et titulaire de concession gouvernementale), Duopharma Biotech (issue du groupe CCM et fabriquant des biosimilaires), CCM, Kotra Pharma et Hovid. Des multinationales telles que Pfizer, Novartis et GSK se concentrent surtout sur les médicaments brevetés plutôt que sur une grande production locale."
 lang: fr
-sourceContentHash: "298a60d12beaab87"
+sourceContentHash: "74d70b70b888e308"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,7 +114,7 @@ Les firmes locales sont fortes dans les comprimés, gélules, sirops, crèmes et
 
 Le chiffre le plus clair concerne l'approvisionnement, pas les ventes : les organismes professionnels affirment que les fabricants locaux satisfont une large part de la demande *générique* intérieure. La Malaysian Organisation of Pharmaceutical Industries (MOPI) indique qu'environ **80 % des médicaments génériques sont produits localement** et que ses membres fournissent environ **la moitié de tous les médicaments** consommés par les Malaisiens ; d'autres aperçus situent l'autosuffisance locale en génériques à **70 à 80 %** [à vérifier]. Cette autosuffisance est un véritable atout stratégique — elle a été visiblement mise à l'épreuve, et largement tenue, lors des chocs d'approvisionnement de l'ère pandémique.
 
-Côté commerce, les reportages médiatiques des chiffres de MATRADE situent les **exportations pharmaceutiques à environ RM3,04 milliards en 2024** (en hausse d'environ 4 %), au sein d'un commerce combiné de dispositifs médicaux et de produits pharmaceutiques d'environ **RM61,31 milliards** — bien que ce soient les dispositifs médicaux, et non les médicaments, qui composent l'essentiel de ce chiffre plus large [à vérifier]. Le marché intérieur lui-même devrait atteindre environ **3,5 milliards de dollars US d'ici 2028** [à vérifier]. Ces chiffres proviennent de reportages secondaires et devraient être confirmés auprès de MATRADE, du Department of Statistics Malaysia (DOSM) et de la MIDA avant d'être cités comme officiels.
+Côté commerce, les reportages médiatiques des chiffres de [MATRADE](/fr/government/matrade) situent les **exportations pharmaceutiques à environ RM3,04 milliards en 2024** (en hausse d'environ 4 %), au sein d'un commerce combiné de dispositifs médicaux et de produits pharmaceutiques d'environ **RM61,31 milliards** — bien que ce soient les dispositifs médicaux, et non les médicaments, qui composent l'essentiel de ce chiffre plus large [à vérifier]. Le marché intérieur lui-même devrait atteindre environ **3,5 milliards de dollars US d'ici 2028** [à vérifier]. Ces chiffres proviennent de reportages secondaires et devraient être confirmés auprès de MATRADE, du Department of Statistics Malaysia (DOSM) et de la MIDA avant d'être cités comme officiels.
 
 Une réserve structurelle sous-tend tout cela : la Malaisie importe bien plus de valeur pharmaceutique qu'elle n'en exporte — un chiffre de seconde main suggère que les importations ont représenté plusieurs fois la valeur des exportations ces dernières années [à vérifier] — précisément parce que les médicaments brevetés et de spécialité sont achetés, et non fabriqués localement.
 

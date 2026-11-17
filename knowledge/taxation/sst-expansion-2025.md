@@ -412,7 +412,7 @@ Service Tax Policy No. 4/2025 exempts a long list of ancillary charges: books,
 uniforms, food and beverage, transport, accommodation, refundable deposits that
 are not part of tuition, PTA fees, educational trips not part of tuition, and
 student pass or visa charges. Amendment No. 1 adds exemptions for children and
-dependants of foreign diplomats holding a Ministry of Foreign Affairs
+dependants of foreign diplomats holding a [Ministry of Foreign Affairs](/government/ministry-of-foreign-affairs-wisma-putra)
 confirmation letter, and for fees fully sponsored by institutions, companies,
 foundations or other organisations.
 

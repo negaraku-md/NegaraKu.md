@@ -132,7 +132,7 @@ the enforcement bodies under it — federal **departments** and various statutor
 | Prison Department | Anti-Trafficking-in-Persons council (MAPO) |
 | National Registration Department (JPN) | Prevention of Crime Board |
 | Registry of Societies (ROS) | Parole Board |
-| People's Volunteer Corps (RELA) | Film Censorship Board |
+| [People's Volunteer Corps](/government/peoples-volunteer-corps-rela) (RELA) | Film Censorship Board |
 | Maritime Enforcement Agency (MMEA/APMM) | Prevention of Terrorism Board |
 | Eastern Sabah Security Command (ESSCOM) | National Printing (PNMB) |
 

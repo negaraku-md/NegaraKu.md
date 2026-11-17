@@ -34,7 +34,7 @@ faq:
     a: "Itu adalah penipuan pinjaman biaya di muka yang klasik. Hentikan pembayaran segera, hubungi Pusat Respons Penipuan Nasional (National Scam Response Centre) di 997 (ia dapat mencoba membekukan rekening tujuan uang itu), periksa nomor rekening atau nomor telepon di Semak Mule pada semakmule.rmp.gov.my, dan buat laporan polisi. Pemberi pinjaman berlisensi yang sah tidak pernah memungut biaya sebelum mencairkan sebuah pinjaman."
 
 lang: "id"
-sourceContentHash: "af403774efa8800e"
+sourceContentHash: "ab121346e7722ba5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Ketika sebuah bank berkata tidak dan uang tunai menipis, iklan berikutnya tak pe
 
 ## Apa yang membuat seorang pemberi pinjaman uang "berlisensi"?
 
-Pemberi pinjaman uang adalah bisnis yang meminjamkan uang demi laba di luar sistem perbankan. Di Semenanjung Malaysia ia harus memegang lisensi yang diterbitkan di bawah **Moneylenders Act 1951 (Act 400)** oleh **Kementerian Perumahan dan Kerajaan Tempatan (KPKT)**. Pada 2021 KPKT mengubah citra bidang berlisensi ini menjadi **Komuniti Kredit (Credit Community)**, sehingga materi resmi menggunakan kedua nama — tetapi undang-undang yang mengatur dan persyaratan pelisensian tidak berubah.
+Pemberi pinjaman uang adalah bisnis yang meminjamkan uang demi laba di luar sistem perbankan. Di Semenanjung Malaysia ia harus memegang lisensi yang diterbitkan di bawah **Moneylenders Act 1951 (Act 400)** oleh **[Kementerian Perumahan dan Kerajaan Tempatan](/id/government/ministry-of-housing-local-government-kpkt) (KPKT)**. Pada 2021 KPKT mengubah citra bidang berlisensi ini menjadi **Komuniti Kredit (Credit Community)**, sehingga materi resmi menggunakan kedua nama — tetapi undang-undang yang mengatur dan persyaratan pelisensian tidak berubah.
 
 Sebuah lisensi penting karena ia membawa pemberi pinjaman ke dalam aturan yang nyata: bunga yang dibatasi, biaya yang terbatas, perjanjian pinjaman yang ditetapkan, dan pembatasan perilaku (misalnya, pemberi pinjaman berlisensi tidak boleh datang ke rumah atau tempat kerja Anda untuk menagih). Pemberi pinjaman tak berlisensi tidak terikat oleh satu pun dari ini dan beroperasi sebagai penjahat.
 

@@ -37,7 +37,7 @@ faq:
     a: "ASEAN adalah pilar atau dasar kebijakan luar negeri Malaysia. Malaysia adalah salah satu negara pendiri ASEAN dan selalu mengutamakan keutuhan serta kedudukan sentral (centrality) ASEAN, sambil aktif dalam forum lain seperti Perserikatan Bangsa-Bangsa (PBB), Organisasi Kerja Sama Islam (OKI) dan Gerakan Non-Blok (NAM)."
 
 lang: "id"
-sourceContentHash: "500f0f356d6c239e"
+sourceContentHash: "e4879b43ed98e1b7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Ketika Amerika Serikat adalah investor asing terbesar dalam ekonomi Malaysia, te
 
 Banyak yang mengira "kebijakan luar negeri" adalah kerja satu kementerian saja. Sebenarnya ia berlapis.
 
-Kementerian Luar Negeri — lebih dikenal sebagai **Wisma Putra**, sempena nama gedungnya — diberi mandat untuk *melaksanakan* dan mengoordinasikan kebijakan luar negeri Malaysia mengikuti Konstitusi Federal, dengan tujuan melindungi serta memajukan kepentingan negara di tingkat internasional. Wisma Putra mengelola jaringan kedutaan, komisi tinggi dan konsulat Malaysia di seluruh dunia, merundingkan posisi negara dalam forum internasional, dan menjaga kesejahteraan rakyat Malaysia di luar negeri.
+[Kementerian Luar Negeri](/id/government/ministry-of-foreign-affairs-wisma-putra) — lebih dikenal sebagai **Wisma Putra**, sempena nama gedungnya — diberi mandat untuk *melaksanakan* dan mengoordinasikan kebijakan luar negeri Malaysia mengikuti Konstitusi Federal, dengan tujuan melindungi serta memajukan kepentingan negara di tingkat internasional. Wisma Putra mengelola jaringan kedutaan, komisi tinggi dan konsulat Malaysia di seluruh dunia, merundingkan posisi negara dalam forum internasional, dan menjaga kesejahteraan rakyat Malaysia di luar negeri.
 
 Tetapi keputusan kebijakan tingkat tertinggi bukan milik kementerian itu seorang. Ia berada pada **Perdana Menteri dan Kabinet**. Perdana Menteri kerap bertindak sebagai wajah diplomasi negara dalam kunjungan resmi dan KTT, sementara Menteri Luar Negeri memimpin Wisma Putra dan mewakili Malaysia dalam kebanyakan pertemuan menteri. Dalam sejarah Malaysia, ada saat jabatan Perdana Menteri dan Menteri Luar Negeri dipegang oleh orang yang sama, yang menunjukkan betapa rapatnya dua peran itu.
 

@@ -58,7 +58,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a3f89718dc20f95c"
+sourceContentHash: "3067317e82c4e308"
 
 status: "published"
 aiAssisted: true
@@ -344,7 +344,7 @@ M组的注册门槛为**零**。是否负有责任，取决于机构的性质与
 
 《2025年第4号服务税政策》豁免一长串附带收费：书本、校服、餐饮、交通、住宿、
 非学费组成部分的可退还押金、家教协会（PTA）费用、非学费组成部分的教育旅行，
-以及学生准证或签证费用。第1号修订增加了对持有外交部确认函的外国外交官子女与家属的豁免，
+以及学生准证或签证费用。第1号修订增加了对持有[外交部](/zh/government/ministry-of-foreign-affairs-wisma-putra)确认函的外国外交官子女与家属的豁免，
 以及对由机构、公司、基金会或其他组织全额赞助的费用的豁免。
 
 ## 美容——从未发生的扩展
