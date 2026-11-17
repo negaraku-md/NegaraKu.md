@@ -122,7 +122,7 @@ Here the five split cleanly into two camps. Three are anchored by **government-l
 
 | Group | Largest / controlling shareholder | Ownership character |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) and its Amanah Saham funds; EPF also a top holder | Government-linked (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/economy/pnb) (PNB) and its Amanah Saham funds; EPF also a top holder | Government-linked (GLIC) |
 | CIMB | Khazanah Nasional, with EPF, KWAP and PNB | Government-linked (GLIC) |
 | RHB Bank | Employees Provident Fund (EPF) | Government-linked (GLIC) |
 | Public Bank | Teh family, via Consolidated Teh Holdings | Founder family |

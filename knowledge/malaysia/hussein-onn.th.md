@@ -34,7 +34,7 @@ appliesTo: "ผู้อ่าน นักเรียน และนักว
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 
 status: "published"
 aiAssisted: true
@@ -147,7 +147,7 @@ framework: profile
 หน้าที่ทางเศรษฐกิจไม่ถูกระบุด้วยเชื้อชาติอีกต่อไป
 
 สถาบันที่ยืนยงหลายแห่งมีกำเนิดในช่วงการดำรงตำแหน่งของเขา เขาส่งเสริมการก่อตั้ง
-**Permodalan Nasional Berhad (ค.ศ. 1978)** และในปี ค.ศ. 1981 ริเริ่ม **โครงการทรัสต์หน่วย
+**[Permodalan Nasional Berhad](/th/economy/pnb) (ค.ศ. 1978)** และในปี ค.ศ. 1981 ริเริ่ม **โครงการทรัสต์หน่วย
 แห่งชาติ (Amanah Saham Nasional)** เพื่อขยายการถือหุ้นของภูมิบุตร เขายัง
 ก่อตั้ง **PEMADAM** เพื่อต้านการใช้ยาเสพติดในปี ค.ศ. 1976 และสนับสนุนโครงการเฝ้าระวังย่าน
 ชุมชน **Rukun Tetangga** ด้วยพื้นฐานเป็นทนายความ เขาเด็ดขาดเป็นพิเศษ

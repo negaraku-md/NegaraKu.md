@@ -29,7 +29,7 @@ faq:
     a: "يُعدّ صندوق الاستثمار الحكومي الماليزي Permodalan Nasional Berhad (PNB) مساهماً رئيسياً في شركات سايم داربي، وكان PNB بائع حصة UMW التي استحوذت عليها Sime Darby Berhad. تتغيّر نسب المساهمة الدقيقة مع الوقت وينبغي التحقق منها مقابل أحدث إفصاحات كل شركة لدى بورصة ماليزيا (Bursa Malaysia)."
 
 lang: "ar"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ framework: profile
 
 النسب ضارب في العمق. تأسست Guthrie & Co في سنغافورة عام 1821 على يد Alexander Guthrie، ووُصفت بأنها أول شركة تجارية بريطانية في جنوب شرق آسيا. وفي أكتوبر 1910، أسّس William Sime وHenry Darby شركة Sime, Darby and Co. في تجارة المطاط. (تواريخ التأسيس هذه مُتداولة على نطاق واسع لكن ينبغي تأكيدها مقابل مصدر تراث أولي.)
 
-في يناير 2007، اندمجت ثلاث مجموعات مزارع ماليزية — Sime Darby وKumpulan Guthrie وGolden Hope — في كيان يُدعى Synergy Drive، أُعيدت تسميته إلى Sime Darby Berhad. وبذلك نشأ التكتل الحديث. ومن المحطات في هذا النسب ما حدث عام 1981، حين انتزع Permodalan Nasional Berhad (PNB) السيطرة على Guthrie، فوضع أحد عمالقة الصناعة تحت السيطرة الماليزية.
+في يناير 2007، اندمجت ثلاث مجموعات مزارع ماليزية — Sime Darby وKumpulan Guthrie وGolden Hope — في كيان يُدعى Synergy Drive، أُعيدت تسميته إلى Sime Darby Berhad. وبذلك نشأ التكتل الحديث. ومن المحطات في هذا النسب ما حدث عام 1981، حين انتزع [Permodalan Nasional Berhad](/ar/economy/pnb) (PNB) السيطرة على Guthrie، فوضع أحد عمالقة الصناعة تحت السيطرة الماليزية.
 
 ## ماذا أنشأ تفكيك 2017؟
 

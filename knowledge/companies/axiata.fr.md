@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ La plus grande histoire des télécommunications de Malaisie n'est pas un seul r
 
 ## Aperçu
 
-Axiata Group Berhad est une holding régionale de télécommunications et de numérique basée en Malaisie, cotée à Bursa Malaysia sous le code 6888. Elle n'exploite pas principalement un réseau sous son propre nom ; elle détient plutôt des participations dans des sociétés opérationnelles («opcos») et des sociétés associées à travers l'Asie et les pilote comme un portefeuille. Son principal actionnaire est Khazanah Nasional, le fonds souverain du gouvernement malaisien, avec d'autres institutions liées à l'État — Permodalan Nasional Berhad et le Fonds de prévoyance des employés — également parmi les principaux détenteurs (participations telles que résumées par des sources publiques, non datées ; voir la note de vérification).
+Axiata Group Berhad est une holding régionale de télécommunications et de numérique basée en Malaisie, cotée à Bursa Malaysia sous le code 6888. Elle n'exploite pas principalement un réseau sous son propre nom ; elle détient plutôt des participations dans des sociétés opérationnelles («opcos») et des sociétés associées à travers l'Asie et les pilote comme un portefeuille. Son principal actionnaire est Khazanah Nasional, le fonds souverain du gouvernement malaisien, avec d'autres institutions liées à l'État — [Permodalan Nasional Berhad](/fr/economy/pnb) et le Fonds de prévoyance des employés — également parmi les principaux détenteurs (participations telles que résumées par des sources publiques, non datées ; voir la note de vérification).
 
 La portée du groupe s'étend à la Malaisie, à l'Indonésie, au Sri Lanka, au Bangladesh et au Cambodge, ainsi qu'à l'activité d'infrastructure de tours edotco et à des unités numériques comme la plateforme fintech Boost et la société de données et de marketing ADA.
 

@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 
 status: "published"
 aiAssisted: true
@@ -147,4 +147,4 @@ Bagi kebanyakan orang, sukuk runcit ialah laluan paling hampir untuk memiliki se
 
 ## Apa seterusnya
 
-Jika anda menyelidik sekuriti tertentu, mulakan dengan Bond Info Hub BNM dan BIX Malaysia untuk memaparkan kupon, tempoh matang dan penerbitnya. Jika anda inginkan pendedahan sebagai penyimpan, bandingkan amanah saham dan sukuk bon serta sukuk dan perhatikan tawaran Sukuk Simpanan Rakyat yang seterusnya, yang diumumkan oleh Bank Negara Malaysia. Dan jika anda cuba memahami ke mana arah hasil bon menuju, benang untuk diikuti ialah dasar monetari: Kadar Dasar Semalaman BNM menambat kadar jangka pendek, dan hasil MGS bergerak seiring dengan jangkaan terhadapnya. Angka seperti saiz terbitan dan kadar keuntungan sukuk runcit berubah dengan setiap tawaran — sentiasa sahkan terma semasa terhadap sumber rasmi BNM dan SC sebelum bertindak.
+Jika anda menyelidik sekuriti tertentu, mulakan dengan Bond Info Hub BNM dan BIX Malaysia untuk memaparkan kupon, tempoh matang dan penerbitnya. Jika anda inginkan pendedahan sebagai penyimpan, bandingkan amanah saham dan sukuk bon serta sukuk dan perhatikan tawaran Sukuk Simpanan Rakyat yang seterusnya, yang diumumkan oleh Bank Negara Malaysia. Dan jika anda cuba memahami ke mana arah hasil bon menuju, benang untuk diikuti ialah dasar monetari: [Kadar Dasar Semalaman](/economy/opr-monetary-policy) BNM menambat kadar jangka pendek, dan hasil MGS bergerak seiring dengan jangkaan terhadapnya. Angka seperti saiz terbitan dan kadar keuntungan sukuk runcit berubah dengan setiap tawaran — sentiasa sahkan terma semasa terhadap sumber rasmi BNM dan SC sebelum bertindak.

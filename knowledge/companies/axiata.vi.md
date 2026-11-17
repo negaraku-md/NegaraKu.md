@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ Câu chuyện viễn thông lớn nhất của Malaysia không phải là một 
 
 ## Tổng quan
 
-Axiata Group Berhad là một công ty mẹ viễn thông và số khu vực có trụ sở tại Malaysia, niêm yết trên Bursa Malaysia với mã chứng khoán 6888. Nó không chủ yếu vận hành một mạng lưới dưới tên riêng của mình; thay vào đó nó nắm giữ cổ phần trong các công ty vận hành (「opco」) và các công ty liên kết trên khắp châu Á và lèo lái chúng như một danh mục đầu tư. Cổ đông lớn nhất của nó là Khazanah Nasional, quỹ đầu tư quốc gia của chính phủ Malaysia, với các định chế liên kết với nhà nước khác — Permodalan Nasional Berhad và Quỹ Tiết kiệm Nhân viên — cũng nằm trong số các cổ đông hàng đầu (tỷ lệ nắm giữ theo tóm tắt của các nguồn công khai, không ghi ngày; xem ghi chú xác minh).
+Axiata Group Berhad là một công ty mẹ viễn thông và số khu vực có trụ sở tại Malaysia, niêm yết trên Bursa Malaysia với mã chứng khoán 6888. Nó không chủ yếu vận hành một mạng lưới dưới tên riêng của mình; thay vào đó nó nắm giữ cổ phần trong các công ty vận hành (「opco」) và các công ty liên kết trên khắp châu Á và lèo lái chúng như một danh mục đầu tư. Cổ đông lớn nhất của nó là Khazanah Nasional, quỹ đầu tư quốc gia của chính phủ Malaysia, với các định chế liên kết với nhà nước khác — [Permodalan Nasional Berhad](/vi/economy/pnb) và Quỹ Tiết kiệm Nhân viên — cũng nằm trong số các cổ đông hàng đầu (tỷ lệ nắm giữ theo tóm tắt của các nguồn công khai, không ghi ngày; xem ghi chú xác minh).
 
 Tầm với của tập đoàn trải rộng Malaysia, Indonesia, Sri Lanka, Bangladesh và Campuchia, cùng với mảng kinh doanh hạ tầng tháp edotco và các đơn vị số như nền tảng fintech Boost và công ty dữ liệu và tiếp thị ADA.
 

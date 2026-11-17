@@ -160,7 +160,7 @@ Sebagai pemilik grid dan pemegang portfolio tenaga boleh baharu terbesar negara 
 
 Walaupun tersenarai di Papan Utama Bursa Malaysia (nombor pendaftaran syarikat 199001009294 / 200866-W), TNB kekal sebuah syarikat berkaitan kerajaan (GLC), dengan majoriti sahamnya dipegang dana dan agensi kerajaan yang menyelaraskan syarikat dengan dasar tenaga negara.
 
-Struktur pegangan berubah pada penghujung 2025. Menurut The Edge Malaysia, pada awal Disember 2025 Khazanah Nasional mengurangkan pegangan langsungnya dengan menjual 135.65 juta saham bernilai RM1.69 bilion, menjadikan jumlah pegangannya (langsung dan tidak langsung) kira-kira 18.05%. Hasilnya, Kumpulan Wang Simpanan Pekerja (KWSP) menjadi pemegang saham terbesar dengan 1.24 bilion saham atau 21.25%, dengan Permodalan Nasional Berhad (PNB) turut menjadi pemegang saham utama.
+Struktur pegangan berubah pada penghujung 2025. Menurut The Edge Malaysia, pada awal Disember 2025 Khazanah Nasional mengurangkan pegangan langsungnya dengan menjual 135.65 juta saham bernilai RM1.69 bilion, menjadikan jumlah pegangannya (langsung dan tidak langsung) kira-kira 18.05%. Hasilnya, Kumpulan Wang Simpanan Pekerja (KWSP) menjadi pemegang saham terbesar dengan 1.24 bilion saham atau 21.25%, dengan [Permodalan Nasional Berhad](/economy/pnb) (PNB) turut menjadi pemegang saham utama.
 
 | Pemegang saham utama | Anggaran pegangan | Rujukan |
 |---|---|---|

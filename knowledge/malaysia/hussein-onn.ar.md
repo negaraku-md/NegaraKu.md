@@ -28,7 +28,7 @@ appliesTo: "القرّاء والطلاب والباحثون الباحثون ع
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -139,7 +139,7 @@ framework: profile
 الوظيفة الاقتصادية محدَّدة بالعرق.
 
 وتعود عدة مؤسسات باقية إلى رئاسته للوزراء. فروّج لتأسيس
-**برمودالان ناسيونال بيرهاد (1978)** (Permodalan Nasional Berhad)، وفي عام 1981 أطلق **صندوق الوحدة
+**[برمودالان ناسيونال بيرهاد](/ar/economy/pnb) (1978)** (Permodalan Nasional Berhad)، وفي عام 1981 أطلق **صندوق الوحدة
 الاستئماني الوطني (أمانة ساهم ناسيونال)** (Amanah Saham Nasional) لتوسيع ملكية البوميبوترا
 للأسهم. وأسّس أيضًا **بمادام (PEMADAM)** ضدّ تعاطي المخدرات عام 1976 وشجّع
 مشروع حراسة الأحياء **ركون تتانغّا (Rukun Tetangga)**. ومحاميًا بالتدريب، كان

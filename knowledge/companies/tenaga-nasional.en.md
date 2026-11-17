@@ -30,7 +30,7 @@ faq:
     a: "TNB owns and operates the national grid network, which must be upgraded to absorb renewable energy, in line with the targets of the National Energy Transition Roadmap (NETR)."
 
 lang: "en"
-sourceContentHash: "12e743d05ab159ac"
+sourceContentHash: "d5616d09c699df65"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -161,7 +161,7 @@ As the grid owner and holder of the country's largest renewable energy portfolio
 
 Although listed on the Main Market of Bursa Malaysia (company registration number 199001009294 / 200866-W), TNB remains a government-linked company (GLC), with the majority of its shares held by government funds and agencies that align the company with national energy policy.
 
-The ownership structure shifted at the end of 2025. According to The Edge Malaysia, in early December 2025 Khazanah Nasional reduced its direct holding by selling 135.65 million shares worth RM1.69 billion, bringing its total holding (direct and indirect) to about 18.05%. As a result, the Employees Provident Fund (EPF) became the largest shareholder with 1.24 billion shares, or 21.25%, with Permodalan Nasional Berhad (PNB) also a major shareholder.
+The ownership structure shifted at the end of 2025. According to The Edge Malaysia, in early December 2025 Khazanah Nasional reduced its direct holding by selling 135.65 million shares worth RM1.69 billion, bringing its total holding (direct and indirect) to about 18.05%. As a result, the Employees Provident Fund (EPF) became the largest shareholder with 1.24 billion shares, or 21.25%, with [Permodalan Nasional Berhad](/en/economy/pnb) (PNB) also a major shareholder.
 
 | Major shareholder | Estimated holding | Reference |
 |---|---|---|

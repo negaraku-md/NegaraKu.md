@@ -29,7 +29,7 @@ faq:
     a: "मलेशियाई राज्य निवेश कोष Permodalan Nasional Berhad (PNB) सायम डार्बी की कंपनियों में एक प्रमुख शेयरधारक है, और Sime Darby Berhad द्वारा अधिग्रहीत UMW हिस्सेदारी का विक्रेता PNB ही था। शेयरधारिता के सटीक प्रतिशत समय के साथ बदलते हैं और इन्हें प्रत्येक कंपनी की नवीनतम Bursa Malaysia फाइलिंग के विरुद्ध जाँचा जाना चाहिए।"
 
 lang: "hi"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ framework: profile
 
 इसकी वंशावली बहुत गहरी है। Guthrie & Co की स्थापना 1821 में सिंगापुर में Alexander Guthrie ने की थी, जिसे दक्षिण-पूर्व एशिया की पहली ब्रिटिश व्यापारिक कंपनी बताया जाता है। अक्टूबर 1910 में William Sime और Henry Darby ने रबर व्यापार में Sime, Darby and Co. की स्थापना की। (ये स्थापना तिथियाँ व्यापक रूप से बताई जाती हैं, पर इन्हें किसी प्राथमिक विरासत स्रोत के विरुद्ध पुष्ट किया जाना चाहिए।)
 
-जनवरी 2007 में तीन मलेशियाई बागान समूह — Sime Darby, Kumpulan Guthrie और Golden Hope — Synergy Drive नामक एक इकाई में विलीन हुए, जिसका नाम बदलकर Sime Darby Berhad रखा गया। इससे आधुनिक समूह बना। इस वंशावली का एक मील का पत्थर 1981 में आया, जब Permodalan Nasional Berhad (PNB) ने Guthrie का नियंत्रण अपने हाथ में लेकर इस उद्योग के दिग्गजों में से एक को मलेशियाई नियंत्रण में ला दिया।
+जनवरी 2007 में तीन मलेशियाई बागान समूह — Sime Darby, Kumpulan Guthrie और Golden Hope — Synergy Drive नामक एक इकाई में विलीन हुए, जिसका नाम बदलकर Sime Darby Berhad रखा गया। इससे आधुनिक समूह बना। इस वंशावली का एक मील का पत्थर 1981 में आया, जब [Permodalan Nasional Berhad](/hi/economy/pnb) (PNB) ने Guthrie का नियंत्रण अपने हाथ में लेकर इस उद्योग के दिग्गजों में से एक को मलेशियाई नियंत्रण में ला दिया।
 
 ## 2017 के विभाजन से क्या बना?
 

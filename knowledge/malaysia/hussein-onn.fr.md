@@ -27,7 +27,7 @@ faq:
 appliesTo: "Lecteurs, étudiants et chercheurs cherchant un aperçu concis et sourcé de la vie, du mandat de Premier ministre et de l'héritage de Hussein Onn dans l'histoire malaisienne moderne."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ Le tableau ci-dessous situe son mandat dans la séquence.
 
 L'unité fut l'idée organisatrice du gouvernement de Hussein Onn. Selon la Perdana Leadership Foundation, il avait établi le **Conseil national de l'unité** en 1974 et, comme Premier ministre, s'employa à réduire les écarts économiques entre les communautés qu'il voyait comme la racine de l'instabilité. Son administration poursuivit la **[Nouvelle Politique économique](/fr/malaysia/new-economic-policy)** entamée sous Razak — le programme de long terme visant à réduire la pauvreté et à restructurer la société de sorte que la fonction économique ne soit plus identifiée à la race.
 
-Plusieurs institutions durables datent de son mandat. Il promut la formation de **Permodalan Nasional Berhad (1978)** et, en 1981, lança le **Régime national de fonds de placement (Amanah Saham Nasional)** pour élargir l'actionnariat bumiputera. Il fonda aussi **PEMADAM** contre la toxicomanie en 1976 et encouragea le dispositif de surveillance de voisinage **Rukun Tetangga**. Juriste de formation, il fut notablement ferme sur l'intégrité, avertissant que la corruption était une maladie à éliminer — selon ses mots, avant qu'elle ne devienne « cancéreuse ».
+Plusieurs institutions durables datent de son mandat. Il promut la formation de **[Permodalan Nasional Berhad](/fr/economy/pnb) (1978)** et, en 1981, lança le **Régime national de fonds de placement (Amanah Saham Nasional)** pour élargir l'actionnariat bumiputera. Il fonda aussi **PEMADAM** contre la toxicomanie en 1976 et encouragea le dispositif de surveillance de voisinage **Rukun Tetangga**. Juriste de formation, il fut notablement ferme sur l'intégrité, avertissant que la corruption était une maladie à éliminer — selon ses mots, avant qu'elle ne devienne « cancéreuse ».
 
 ## Choisir Mahathir
 

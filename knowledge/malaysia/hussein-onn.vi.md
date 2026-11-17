@@ -28,7 +28,7 @@ appliesTo: "Độc giả, học sinh và nhà nghiên cứu muốn có một cá
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -101,7 +101,7 @@ Bảng dưới đây đặt nhiệm kỳ của ông theo trình tự.
 
 Đoàn kết là ý tưởng tổ chức của chính phủ Hussein Onn. Theo Perdana Leadership Foundation, ông đã thành lập **Hội đồng Đoàn kết Quốc gia** năm 1974 và, với tư cách Thủ tướng, nỗ lực thu hẹp các khoảng cách kinh tế giữa các cộng đồng mà ông coi là cội rễ của sự bất ổn. Chính quyền của ông tiếp tục **[Chính sách Kinh tế Mới](/vi/malaysia/new-economic-policy)** được bắt đầu dưới thời Razak — chương trình dài hạn nhằm giảm nghèo và tái cơ cấu xã hội để chức năng kinh tế không còn bị đồng nhất với chủng tộc.
 
-Một số thể chế lâu dài có niên đại từ nhiệm kỳ thủ tướng của ông. Ông thúc đẩy việc thành lập **Permodalan Nasional Berhad (1978)** và, năm 1981, khởi động **Chương trình Tín thác Đơn vị Quốc gia (Amanah Saham Nasional)** để mở rộng sở hữu cổ phần của người Bumiputera. Ông cũng sáng lập **PEMADAM** chống lạm dụng ma túy năm 1976 và khuyến khích chương trình canh gác khu phố **Rukun Tetangga**. Vốn là một luật sư được đào tạo bài bản, ông đặc biệt kiên quyết về tính liêm chính, cảnh báo rằng tham nhũng là một căn bệnh cần phải bị loại trừ — theo lời ông, trước khi nó trở nên "ung thư".
+Một số thể chế lâu dài có niên đại từ nhiệm kỳ thủ tướng của ông. Ông thúc đẩy việc thành lập **[Permodalan Nasional Berhad](/vi/economy/pnb) (1978)** và, năm 1981, khởi động **Chương trình Tín thác Đơn vị Quốc gia (Amanah Saham Nasional)** để mở rộng sở hữu cổ phần của người Bumiputera. Ông cũng sáng lập **PEMADAM** chống lạm dụng ma túy năm 1976 và khuyến khích chương trình canh gác khu phố **Rukun Tetangga**. Vốn là một luật sư được đào tạo bài bản, ông đặc biệt kiên quyết về tính liêm chính, cảnh báo rằng tham nhũng là một căn bệnh cần phải bị loại trừ — theo lời ông, trước khi nó trở nên "ung thư".
 
 ## Chọn Mahathir
 

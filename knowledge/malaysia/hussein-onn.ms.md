@@ -34,7 +34,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang mencari gambaran ringkas dan be
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 
 status: "published"
 aiAssisted: true
@@ -111,7 +111,7 @@ kemudian mengikut Onn Jaafar keluar dari parti pada 1951 untuk membantu membentu
 bertukar haluan sepenuhnya — membaca undang-undang di **Lincoln's Inn** di London,
 melayakkan diri sebagai peguam, dan beramal di Kuala Lumpur.
 
-Beliau kembali ke UMNO pada 1968 atas desakan **[Abdul Razak Hussein](/ms/malaysia/abdul-razak-hussein)**,
+Beliau kembali ke UMNO pada 1968 atas desakan **[Abdul Razak Hussein](/malaysia/abdul-razak-hussein)**,
 memenangi sebuah kerusi parlimen dalam pilihan raya umum 1969, dan berkhidmat sebagai
 Menteri Pelajaran. Atas kematian Timbalan Perdana Menteri Tun Dr Ismail, Hussein Onn
 menjadi **Timbalan Perdana Menteri pada 13 Ogos 1973** — meletakkan beliau pertama
@@ -123,7 +123,7 @@ Pada 14 Januari 1976 Abdul Razak, Perdana Menteri kedua Malaysia, meninggal duni
 semasa dalam jawatan. Hussein Onn mengangkat sumpah sebagai **Perdana Menteri ketiga
 negara pada 15 Januari 1976**. Beliau mewarisi sebuah negara yang masih menangani
 susulan pergolakan kaum 1969 dan program tindakan afirmatif menyeluruh yang telah
-dilancarkan Razak, dan beliau memerintah menerusi gabungan [**Barisan Nasional**](/ms/malaysia/barisan-nasional)
+dilancarkan Razak, dan beliau memerintah menerusi gabungan [**Barisan Nasional**](/malaysia/barisan-nasional)
 yang membawa parti Melayu, Cina dan India di bawah satu bumbung. Britannica
 menggambarkan kerajaannya sebagai sebuah gabungan berbilang kaum yang kekal secara amnya
 aman walaupun berterusan ketegangan kaum dan pemberontakan komunis yang berlarutan
@@ -143,12 +143,12 @@ Perpaduan ialah idea pengelola kerajaan Hussein Onn. Menurut Perdana
 Leadership Foundation, beliau telah menubuhkan **Majlis Perpaduan Negara** pada 1974
 dan, sebagai Perdana Menteri, berusaha mengecilkan jurang ekonomi antara komuniti
 yang dilihatnya sebagai akar ketidakstabilan. Pentadbirannya meneruskan
-**[Dasar Ekonomi Baru](/ms/malaysia/new-economic-policy)** yang dimulakan di bawah Razak — program
+**[Dasar Ekonomi Baru](/malaysia/new-economic-policy)** yang dimulakan di bawah Razak — program
 jangka panjang yang bertujuan mengurangkan kemiskinan dan menyusun semula masyarakat supaya
 fungsi ekonomi tidak lagi dikenal pasti dengan kaum.
 
 Beberapa institusi yang bertahan bertarikh pada keperdanaannya. Beliau memajukan pembentukan
-**Permodalan Nasional Berhad (1978)** dan, pada 1981, melancarkan **Skim Amanah Saham
+**[Permodalan Nasional Berhad](/economy/pnb) (1978)** dan, pada 1981, melancarkan **Skim Amanah Saham
 Nasional** untuk meluaskan pemilikan saham Bumiputera. Beliau juga mengasaskan
 **PEMADAM** menentang penyalahgunaan dadah pada 1976 dan menggalakkan skim kawasan-kejiranan
 **Rukun Tetangga**. Seorang peguam dari segi latihan, beliau amat tegas tentang integriti,
@@ -158,7 +158,7 @@ sebelum ia menjadi "barah."
 ## Memilih Mahathir
 
 Keputusan paling berpengaruh dalam keperdanaan Hussein Onn ialah pemilihan
-timbalannya. Pada 1976 beliau memilih **[Mahathir Mohamad](/ms/malaysia/mahathir-mohamad)**,
+timbalannya. Pada 1976 beliau memilih **[Mahathir Mohamad](/malaysia/mahathir-mohamad)**,
 ketika itu seorang naib presiden UMNO, sebagai **Timbalan Perdana Menteri** — mengatasi tokoh-tokoh
 kanan lain. Pelantikan itu menetapkan barisan pewarisan: apabila Hussein Onn berundur,
 Mahathir naik untuk menjadi Perdana Menteri keempat dan akan terus memegang jawatan itu
@@ -190,16 +190,16 @@ negara yang kehidupan awamnya disusun sekeliling pengurusan perbezaan etnik dan 
 penegasannya tentang **perpaduan sebagai tugas pertama kerajaan** memberikan pemimpin-pemimpin
 kemudian satu titik rujukan. Legasinya yang lebih senyap bersifat institusi: dana, majlis
 dan kempen yang dilancarkan dalam penggalnya hidup melebihinya, dan pengangkatannya terhadap
-Mahathir membentuk empat dekad politik Malaysia. Bagi salah seorang [Perdana Menteri](/ms/government/prime-ministers-of-malaysia) Malaysia,
+Mahathir membentuk empat dekad politik Malaysia. Bagi salah seorang [Perdana Menteri](/government/prime-ministers-of-malaysia) Malaysia,
 rekodnya diukur kurang pada tugu dan lebih pada keamanan yang dibantunya pelihara — dan
 pada contoh seorang pemimpin yang memperlakukan kuasa sebagai satu tanggungjawab untuk
 dilaksanakan dan bukannya dipegang.
 
 ## Apa seterusnya
 
-- Baca tentang pendahulunya, **[Abdul Razak Hussein](/ms/malaysia/abdul-razak-hussein)**, Perdana Menteri kedua dan perancang Dasar Ekonomi Baru.
-- Lihat bagaimana timbalan pilihannya, **[Mahathir Mohamad](/ms/malaysia/mahathir-mohamad)**, membentuk semula negara sepanjang dekad-dekad yang menyusul.
-- Terokai barisan penuh **[Perdana Menteri Malaysia](/ms/government/prime-ministers-of-malaysia)**.
+- Baca tentang pendahulunya, **[Abdul Razak Hussein](/malaysia/abdul-razak-hussein)**, Perdana Menteri kedua dan perancang Dasar Ekonomi Baru.
+- Lihat bagaimana timbalan pilihannya, **[Mahathir Mohamad](/malaysia/mahathir-mohamad)**, membentuk semula negara sepanjang dekad-dekad yang menyusul.
+- Terokai barisan penuh **[Perdana Menteri Malaysia](/government/prime-ministers-of-malaysia)**.
 
 *Draf ini meringkaskan kerjaya awam seorang tokoh negara secara neutral; rencana-rencana
 yang dipautkan dan sumber-sumber di atas membawa butirannya, dan seorang penyemak yang

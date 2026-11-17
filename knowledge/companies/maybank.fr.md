@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ La portée de Maybank est ce qui la distingue le plus d'une banque purement nati
 
 ## À qui appartient Maybank ?
 
-Maybank est, de fait, majoritairement détenue par les institutions d'investissement malaisiennes liées à l'État. Ses principaux actionnaires sont des fonds gérés par Permodalan Nasional Berhad (PNB) — avant tout Amanah Saham Bumiputera (ASB), le fonds commun de placement national — ainsi que le Fonds de prévoyance des employés (EPF), le fonds d'épargne-retraite du pays. Les participations déclarées évoluent à chaque divulgation : en 2026, l'ASB était citée comme détenant environ 30 % et l'EPF environ 12 %, les participations gérées par PNB étant au total déclarées autour du bas de la quarantaine en pourcentage. Ces proportions changent fréquemment, aussi faut-il toujours vérifier les dernières déclarations auprès de Bursa Malaysia pour le registre actuel. Le résultat est qu'une grande partie des bénéfices et dividendes de Maybank revient aux épargnants malaisiens ordinaires à travers ces fonds.
+Maybank est, de fait, majoritairement détenue par les institutions d'investissement malaisiennes liées à l'État. Ses principaux actionnaires sont des fonds gérés par [Permodalan Nasional Berhad](/fr/economy/pnb) (PNB) — avant tout Amanah Saham Bumiputera (ASB), le fonds commun de placement national — ainsi que le Fonds de prévoyance des employés (EPF), le fonds d'épargne-retraite du pays. Les participations déclarées évoluent à chaque divulgation : en 2026, l'ASB était citée comme détenant environ 30 % et l'EPF environ 12 %, les participations gérées par PNB étant au total déclarées autour du bas de la quarantaine en pourcentage. Ces proportions changent fréquemment, aussi faut-il toujours vérifier les dernières déclarations auprès de Bursa Malaysia pour le registre actuel. Le résultat est qu'une grande partie des bénéfices et dividendes de Maybank revient aux épargnants malaisiens ordinaires à travers ces fonds.
 
 ## Pourquoi c'est important
 

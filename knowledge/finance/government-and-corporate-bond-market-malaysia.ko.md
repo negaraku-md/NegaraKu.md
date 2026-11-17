@@ -32,7 +32,7 @@ faq:
     a: "RENTAS(Real-Time Electronic Transfer of Funds and Securities)는 말레이시아 중앙은행의 실시간 총액 결제 시스템입니다. 국채는 인도 대(對) 결제(delivery-versus-payment) 방식으로 이를 통해 결제되므로, 현금과 증권이 동시에 이전됩니다."
 
 lang: "ko"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,4 +147,4 @@ BNM은 말레이시아 채권 및 수쿠크 시장 정보를 위한 공개 포�
 
 ## 다음 단계
 
-특정 증권을 조사한다면, BNM의 Bond Info Hub와 BIX Malaysia로 시작하여 그 이표, 만기, 발행자를 조회하십시오. 저축자로서 노출을 원한다면, 채권 및 수쿠크 단위신탁을 비교하고 말레이시아 중앙은행이 발표하는 다음 Sukuk Simpanan Rakyat 발행을 주시하십시오. 채권 수익률이 어디로 향하는지 이해하려면, 따라야 할 실마리는 통화 정책입니다: BNM의 익일물 정책금리(Overnight Policy Rate)가 단기 금리를 고정하고, MGS 수익률은 그에 대한 기대와 함께 움직입니다. 발행 규모나 소매 수쿠크의 수익률 같은 수치는 발행마다 바뀌므로 — 행동하기 전에 항상 공식 BNM 및 SC 출처와 현재 조건을 대조하십시오.
+특정 증권을 조사한다면, BNM의 Bond Info Hub와 BIX Malaysia로 시작하여 그 이표, 만기, 발행자를 조회하십시오. 저축자로서 노출을 원한다면, 채권 및 수쿠크 단위신탁을 비교하고 말레이시아 중앙은행이 발표하는 다음 Sukuk Simpanan Rakyat 발행을 주시하십시오. 채권 수익률이 어디로 향하는지 이해하려면, 따라야 할 실마리는 통화 정책입니다: BNM의 [익일물 정책금리](/ko/economy/opr-monetary-policy)(Overnight Policy Rate)가 단기 금리를 고정하고, MGS 수익률은 그에 대한 기대와 함께 움직입니다. 발행 규모나 소매 수쿠크의 수익률 같은 수치는 발행마다 바뀌므로 — 행동하기 전에 항상 공식 BNM 및 SC 출처와 현재 조건을 대조하십시오.

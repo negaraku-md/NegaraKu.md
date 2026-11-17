@@ -138,7 +138,7 @@ Halaman ini menerangkan apa yang sebenarnya dilakukan kementerian tersebut: baga
 
 Kementerian Kewangan bertanggungjawab ke atas kedua-dua belah imbangan kira-kira negara: hasil yang masuk dan perbelanjaan yang keluar. Ia menggubal dasar fiskal, menyediakan Belanjawan Persekutuan, menguruskan perolehan dan pembayaran balik pinjaman kerajaan, mengawal perakaunan dan perbendaharaan kerajaan, serta menyelia pengurusan kewangan kementerian, jabatan dan badan berkanun yang lain.
 
-Ia juga kementerian peneraju bagi sistem kewangan negara. Melalui agensi di bawahnya, Kementerian Kewangan menyelia pihak berkuasa cukai langsung dan tidak langsung, pasaran modal, insurans deposit, dan pembiayaan sektor awam. Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 (Akta 850) — undang-undang yang kini mengikat pengurusan fiskal kementerian — merangkumkan mandat ini dalam empat prinsip pengurusan fiskal bertanggungjawab: memastikan kestabilan makroekonomi, mencapai imbangan fiskal yang mampan, mengekalkan tahap hutang yang berhemat, dan menguruskan risiko fiskal dengan berkesan.
+Ia juga kementerian peneraju bagi sistem kewangan negara. Melalui agensi di bawahnya, Kementerian Kewangan menyelia pihak berkuasa cukai langsung dan tidak langsung, pasaran modal, insurans deposit, dan pembiayaan sektor awam. [Akta Kewangan Awam dan Tanggungjawab Fiskal 2023](/economy/national-debt-fiscal-responsibility) (Akta 850) — undang-undang yang kini mengikat pengurusan fiskal kementerian — merangkumkan mandat ini dalam empat prinsip pengurusan fiskal bertanggungjawab: memastikan kestabilan makroekonomi, mencapai imbangan fiskal yang mampan, mengekalkan tahap hutang yang berhemat, dan menguruskan risiko fiskal dengan berkesan.
 
 ## Sepintas lalu
 

@@ -31,7 +31,7 @@ faq:
     a: "Di bawah Hire Purchase Act 1967 pemberi pembiayaan secara umum hanya dapat menarik kembali setelah penyewa gagal membayar dua angsuran berturut-turut dan mengikuti proses pemberitahuan 21 hari. Setelah Anda membayar setidaknya 75% dari harga tunai, pemberi pembiayaan memerlukan perintah pengadilan untuk menarik kembali."
 
 lang: "id"
-sourceContentHash: "6a3487bee5c6466c"
+sourceContentHash: "f17ddde675b94f1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Pinjaman suku bunga mengambang di Malaysia tidak ditetapkan harganya sebagai sat
 
 **Suku bunga yang Anda bayar = Suku Bunga Dasar Terstandar (SBR) + spread.**
 
-**Suku Bunga Dasar Terstandar (SBR)** adalah suku bunga acuan bersama yang kini digunakan oleh setiap bank untuk pinjaman ritel suku bunga mengambang baru, dan ia dikaitkan *semata-mata* dengan **Suku Bunga Kebijakan Semalam (OPR)** yang ditetapkan oleh Komite Kebijakan Moneter Bank Negara Malaysia. Ketika OPR bergerak, SBR bergerak dengan jumlah yang persis sama — naik atau turun — tanpa keputusan bebas apa pun oleh bank. Itulah keseluruhan tujuan desain "terstandar": dasarnya sama di semua bank dan sepenuhnya transparan.
+**Suku Bunga Dasar Terstandar (SBR)** adalah suku bunga acuan bersama yang kini digunakan oleh setiap bank untuk pinjaman ritel suku bunga mengambang baru, dan ia dikaitkan *semata-mata* dengan **[Suku Bunga Kebijakan Semalam](/id/economy/opr-monetary-policy) (OPR)** yang ditetapkan oleh Komite Kebijakan Moneter Bank Negara Malaysia. Ketika OPR bergerak, SBR bergerak dengan jumlah yang persis sama — naik atau turun — tanpa keputusan bebas apa pun oleh bank. Itulah keseluruhan tujuan desain "terstandar": dasarnya sama di semua bank dan sepenuhnya transparan.
 
 **Spread** adalah tempat bank sebenarnya bersaing. Ia menggabungkan risiko kredit peminjam, biaya dana, premi likuiditas, biaya operasi, dan margin keuntungan ke dalam satu margin tunggal yang dikutip *di atas* SBR. Jadi ketika Anda membandingkan dua penawaran pinjaman rumah, Anda sebenarnya membandingkan spread — dasarnya sama di setiap bank pada hari tertentu mana pun.
 

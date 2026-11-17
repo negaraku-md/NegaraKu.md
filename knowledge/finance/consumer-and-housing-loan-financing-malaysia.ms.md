@@ -31,7 +31,7 @@ faq:
     a: "Di bawah Akta Sewa Beli 1967 pembiaya secara amnya hanya boleh memiliki semula selepas penyewa gagal membayar dua ansuran berturut-turut dan mengikuti proses notis 21 hari. Setelah anda membayar sekurang-kurangnya 75% daripada harga tunai, pembiaya memerlukan perintah mahkamah untuk memiliki semula."
 
 lang: "ms"
-sourceContentHash: "6a3487bee5c6466c"
+sourceContentHash: "f17ddde675b94f1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Pinjaman kadar terapung di Malaysia tidak ditetapkan harganya sebagai satu nombo
 
 **Kadar yang anda bayar = Kadar Asas Diseragamkan (SBR) + spread.**
 
-**Kadar Asas Diseragamkan (SBR)** ialah kadar rujukan bersama yang kini digunakan oleh setiap bank untuk pinjaman runcit kadar terapung baharu, dan ia dikaitkan *semata-mata* dengan **Kadar Dasar Semalaman (OPR)** yang ditetapkan oleh Jawatankuasa Dasar Monetari Bank Negara Malaysia. Apabila OPR bergerak, SBR bergerak dengan jumlah yang sama tepat — naik atau turun — tanpa sebarang keputusan bebas oleh bank. Itulah keseluruhan tujuan reka bentuk "diseragamkan": asasnya adalah sama merentas semua bank dan telus sepenuhnya.
+**Kadar Asas Diseragamkan (SBR)** ialah kadar rujukan bersama yang kini digunakan oleh setiap bank untuk pinjaman runcit kadar terapung baharu, dan ia dikaitkan *semata-mata* dengan **[Kadar Dasar Semalaman](/economy/opr-monetary-policy) (OPR)** yang ditetapkan oleh Jawatankuasa Dasar Monetari Bank Negara Malaysia. Apabila OPR bergerak, SBR bergerak dengan jumlah yang sama tepat — naik atau turun — tanpa sebarang keputusan bebas oleh bank. Itulah keseluruhan tujuan reka bentuk "diseragamkan": asasnya adalah sama merentas semua bank dan telus sepenuhnya.
 
 **Spread** ialah tempat bank sebenarnya bersaing. Ia menggabungkan risiko kredit peminjam, kos dana, premium kecairan, kos operasi dan margin keuntungan ke dalam satu margin tunggal yang dikuota *di atas* SBR. Jadi apabila anda membandingkan dua tawaran pinjaman rumah, anda sebenarnya membandingkan spread — asasnya adalah sama di setiap bank pada mana-mana hari tertentu.
 

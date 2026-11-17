@@ -30,7 +30,7 @@ faq:
     a: "TNB possède et exploite le réseau électrique national, qui doit être modernisé pour absorber l'énergie renouvelable, conformément aux objectifs de la Feuille de route nationale de transition énergétique (NETR)."
 
 lang: "fr"
-sourceContentHash: "12e743d05ab159ac"
+sourceContentHash: "d5616d09c699df65"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -155,7 +155,7 @@ En tant que propriétaire du réseau et détentrice du plus grand portefeuille d
 
 Bien que cotée au Marché principal de Bursa Malaysia (numéro d'enregistrement de la société 199001009294 / 200866-W), TNB reste une société liée au gouvernement (GLC), la majorité de ses actions étant détenues par des fonds et organismes d'État qui alignent l'entreprise sur la politique énergétique nationale.
 
-La structure de l'actionnariat a changé à la fin de 2025. Selon The Edge Malaysia, début décembre 2025, Khazanah Nasional a réduit sa participation directe en vendant 135,65 millions d'actions d'une valeur de RM1.69 milliards, ramenant sa participation totale (directe et indirecte) à environ 18,05 %. En conséquence, le Fonds de prévoyance des employés (Employees Provident Fund, EPF) est devenu le principal actionnaire avec 1.24 milliards d'actions, soit 21,25 %, Permodalan Nasional Berhad (PNB) étant également un actionnaire important.
+La structure de l'actionnariat a changé à la fin de 2025. Selon The Edge Malaysia, début décembre 2025, Khazanah Nasional a réduit sa participation directe en vendant 135,65 millions d'actions d'une valeur de RM1.69 milliards, ramenant sa participation totale (directe et indirecte) à environ 18,05 %. En conséquence, le Fonds de prévoyance des employés (Employees Provident Fund, EPF) est devenu le principal actionnaire avec 1.24 milliards d'actions, soit 21,25 %, [Permodalan Nasional Berhad](/fr/economy/pnb) (PNB) étant également un actionnaire important.
 
 | Actionnaire principal | Participation estimée | Référence |
 |---|---|---|

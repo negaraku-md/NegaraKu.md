@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 
 status: "published"
 aiAssisted: true
@@ -147,4 +147,4 @@ BNM 运营 **债券信息中心（Bond Info Hub）**，这是一个面向公众�
 
 ## 接下来
 
-如果你在研究某只特定证券，请从 BNM 的债券信息中心和 BIX Malaysia 开始，查出其票息、到期日和发行人。如果你想以储户身份获得敞口，请比较各类债券和伊斯兰债券单位信托，并留意下一次人民储蓄伊斯兰债券的发行，该发行由马来西亚国家银行公布。而如果你想弄清债券收益率的走向，需要追踪的线索是货币政策：BNM 的隔夜政策利率（Overnight Policy Rate）锚定短期利率，而 MGS 收益率会随对它的预期而波动。发行规模和零售伊斯兰债券利润率等数字会随每次发行而变化——在采取行动前，务必对照 BNM 和 SC 的官方来源确认当前条款。
+如果你在研究某只特定证券，请从 BNM 的债券信息中心和 BIX Malaysia 开始，查出其票息、到期日和发行人。如果你想以储户身份获得敞口，请比较各类债券和伊斯兰债券单位信托，并留意下一次人民储蓄伊斯兰债券的发行，该发行由马来西亚国家银行公布。而如果你想弄清债券收益率的走向，需要追踪的线索是货币政策：BNM 的[隔夜政策利率](/zh/economy/opr-monetary-policy)（Overnight Policy Rate）锚定短期利率，而 MGS 收益率会随对它的预期而波动。发行规模和零售伊斯兰债券利润率等数字会随每次发行而变化——在采取行动前，务必对照 BNM 和 SC 的官方来源确认当前条款。

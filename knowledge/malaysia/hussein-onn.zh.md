@@ -28,7 +28,7 @@ appliesTo: "希望获得一份简明、有据可查概览的读者、学生与�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -121,7 +121,7 @@ Council）**，并在出任首相后，致力于缩小他视为不稳定根源�
 开始的 **[新经济政策](/zh/malaysia/new-economic-policy)**——那是一项旨在减少贫穷、并重组社会使经济职能
 不再与种族挂钩的长期计划。
 
-数个延续至今的机构可追溯至他的首相任期。他推动成立了 **国民投资机构（Permodalan Nasional Berhad，
+数个延续至今的机构可追溯至他的首相任期。他推动成立了 **[国民投资机构](/zh/economy/pnb)（Permodalan Nasional Berhad，
 1978年）**，并于1981年推出 **国民单位信托计划（Amanah Saham Nasional）** 以扩大土著的股权持有。他还于
 1976年创立了反毒品滥用的 **PEMADAM**，并鼓励邻里守望的 **睦邻计划（Rukun Tetangga）**。身为法律出身，
 他在廉正方面尤为坚定，警告贪污是一种必须根除的疾病——用他的话说，趁它尚未「癌变」之前。

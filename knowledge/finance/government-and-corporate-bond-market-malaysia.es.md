@@ -32,7 +32,7 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) es el sistema de liquidación bruta en tiempo real del Bank Negara Malaysia. Los valores del Estado se liquidan a través de él sobre la base de entrega contra pago, de modo que el efectivo y los valores cambian de manos simultáneamente."
 
 lang: "es"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,4 +147,4 @@ Para la mayoría de la gente, el sukuk minorista es la vía más cercana a posee
 
 ## Qué sigue
 
-Si investiga un valor concreto, empiece por el Bond Info Hub del BNM y por BIX Malaysia para extraer su cupón, vencimiento y emisor. Si quiere exposición como ahorrador, compare los fondos de inversión colectiva de bonos y sukuk y esté atento a la próxima oferta de Sukuk Simpanan Rakyat, que anuncia el Bank Negara Malaysia. Y si intenta entender hacia dónde van los rendimientos de los bonos, el hilo que debe seguir es la política monetaria: la Tasa de Política a un Día (OPR) del BNM ancla los tipos a corto plazo, y los rendimientos de los MGS se mueven con las expectativas sobre ella. Cifras como los tamaños de emisión y la tasa de beneficio del sukuk minorista cambian con cada oferta — confirme siempre las condiciones vigentes frente a las fuentes oficiales del BNM y la SC antes de actuar.
+Si investiga un valor concreto, empiece por el Bond Info Hub del BNM y por BIX Malaysia para extraer su cupón, vencimiento y emisor. Si quiere exposición como ahorrador, compare los fondos de inversión colectiva de bonos y sukuk y esté atento a la próxima oferta de Sukuk Simpanan Rakyat, que anuncia el Bank Negara Malaysia. Y si intenta entender hacia dónde van los rendimientos de los bonos, el hilo que debe seguir es la política monetaria: la [Tasa de Política a un Día](/es/economy/opr-monetary-policy) (OPR) del BNM ancla los tipos a corto plazo, y los rendimientos de los MGS se mueven con las expectativas sobre ella. Cifras como los tamaños de emisión y la tasa de beneficio del sukuk minorista cambian con cada oferta — confirme siempre las condiciones vigentes frente a las fuentes oficiales del BNM y la SC antes de actuar.

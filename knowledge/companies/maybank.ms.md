@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 
 status: "published"
 aiAssisted: true
@@ -84,7 +84,7 @@ Buka akaun semasa hampir di mana-mana sahaja di Malaysia dan ada kemungkinan bes
 
 ## Apakah Maybank?
 
-Maybank ialah kumpulan perbankan universal: ia menerima deposit dan memberi pinjaman, tetapi juga mengendalikan perbankan pelaburan, perbankan Islam, insurans, pengurusan aset dan pembrokeran di bawah satu bumbung. Syarikat induk, Malayan Banking Berhad, tersenarai di [Bursa Malaysia](/ms/finance) di bawah kod saham 1155 dan merupakan komponen indeks penanda aras FTSE Bursa Malaysia KLCI. Kumpulan ini menggambarkan tujuannya sebagai "Memanusiakan Perkhidmatan Kewangan," frasa yang telah digunakannya untuk merangka strateginya selama lebih sedekad.
+Maybank ialah kumpulan perbankan universal: ia menerima deposit dan memberi pinjaman, tetapi juga mengendalikan perbankan pelaburan, perbankan Islam, insurans, pengurusan aset dan pembrokeran di bawah satu bumbung. Syarikat induk, Malayan Banking Berhad, tersenarai di [Bursa Malaysia](/finance) di bawah kod saham 1155 dan merupakan komponen indeks penanda aras FTSE Bursa Malaysia KLCI. Kumpulan ini menggambarkan tujuannya sebagai "Memanusiakan Perkhidmatan Kewangan," frasa yang telah digunakannya untuk merangka strateginya selama lebih sedekad.
 
 Pada 31 Disember 2025 kumpulan ini melaporkan jumlah aset kira-kira RM1.05 trilion dan, bagi tahun kewangan 2025, keuntungan bersih tertinggi pernah dicatatkan sebanyak RM10.51 bilion atas pendapatan operasi bersih RM30.38 bilion (The Star, Februari 2026). Ia menggaji lebih 43,000 orang dan mengendalikan sekitar 2,600 cawangan di seluruh dunia. Oleh sebab kesemua angka ini bergerak dari tahun ke tahun, anggaplah ia sebagai gambaran pada satu titik masa dan semak laporan tahunan terkini untuk angka semasa.
 
@@ -109,7 +109,7 @@ Maybank diasaskan pada 1960 — bank ini mengira warisannya bermula pada tahun i
 Maybank menyusun dirinya sebagai bank universal, dan hasilnya datang daripada beberapa enjin yang berbeza:
 
 - **Perbankan pengguna dan perniagaan.** Francais runcit dan PKS — akaun harian, kad, gadai janji, sewa beli dan pemberian pinjaman perniagaan — adalah yang terbesar dalam kumpulan dari segi bilangan pelanggan. Hujung digitalnya ialah jenama perbankan dalam talian dan mudah alih **Maybank2u** yang meluas digunakan, dilengkapi dengan aplikasi MAE.
-- **Perbankan Islam.** [**Maybank Islamic**](/ms/finance) ialah anak syarikat perbankan Islam kumpulan ini dan salah satu bank Islam terbesar di dunia dari segi aset; ia dinobatkan sebagai Bank Islam Global Terbaik 2026 dalam anugerah The Banker (The Star, Jun 2026). Malaysia mengendalikan sistem perbankan berkembar di mana perbankan patuh Syariah berjalan seiring dengan perbankan konvensional, dan Maybank ialah pemain utama dalam kedua-duanya.
+- **Perbankan Islam.** [**Maybank Islamic**](/finance) ialah anak syarikat perbankan Islam kumpulan ini dan salah satu bank Islam terbesar di dunia dari segi aset; ia dinobatkan sebagai Bank Islam Global Terbaik 2026 dalam anugerah The Banker (The Star, Jun 2026). Malaysia mengendalikan sistem perbankan berkembar di mana perbankan patuh Syariah berjalan seiring dengan perbankan konvensional, dan Maybank ialah pemain utama dalam kedua-duanya.
 - **Perbankan global dan pelaburan.** Maybank Investment Bank dan Maybank Investment Banking Group serantau (bekas francais Maybank Kim Eng) mengendalikan pemberian pinjaman korporat, pasaran modal, nasihat, perbendaharaan dan pembrokeran saham di seluruh rantau.
 - **Insurans dan takaful.** Lengan insurans kumpulan, **Etiqa**, menjual produk insurans konvensional dan takaful Islam di seluruh Malaysia dan rantau yang lebih luas.
 - **Pengurusan aset dan perkhidmatan lain.** Maybank Asset Management dan unit berkaitan melengkapkan kumpulan ini.
@@ -120,14 +120,14 @@ Jangkauan Maybank itulah yang paling membezakannya daripada bank yang semata-mat
 
 ## Siapakah pemilik Maybank?
 
-Maybank dimiliki secara majoriti, pada hakikatnya, oleh institusi pelaburan berkaitan kerajaan Malaysia. Pemegang saham terbesarnya ialah dana yang diuruskan oleh Permodalan Nasional Berhad (PNB) — terutamanya Amanah Saham Bumiputera (ASB), amanah saham unit kebangsaan — bersama Kumpulan Wang Simpanan Pekerja (KWSP), dana simpanan persaraan negara. Pegangan yang dilaporkan beralih dengan setiap pendedahan: pada 2026, ASB disebut memegang kira-kira 30% dan KWSP sekitar 12%, dengan pegangan urusan PNB secara agregat dilaporkan hampir pada lingkungan awal 40 peratus. Perkadaran ini kerap berubah, jadi sentiasalah semak pemfailan Bursa Malaysia terkini untuk daftar semasa. Kesimpulannya ialah sebahagian besar keuntungan dan dividen Maybank mengalir kembali kepada penyimpan biasa Malaysia menerusi dana-dana ini.
+Maybank dimiliki secara majoriti, pada hakikatnya, oleh institusi pelaburan berkaitan kerajaan Malaysia. Pemegang saham terbesarnya ialah dana yang diuruskan oleh [Permodalan Nasional Berhad](/economy/pnb) (PNB) — terutamanya Amanah Saham Bumiputera (ASB), amanah saham unit kebangsaan — bersama Kumpulan Wang Simpanan Pekerja (KWSP), dana simpanan persaraan negara. Pegangan yang dilaporkan beralih dengan setiap pendedahan: pada 2026, ASB disebut memegang kira-kira 30% dan KWSP sekitar 12%, dengan pegangan urusan PNB secara agregat dilaporkan hampir pada lingkungan awal 40 peratus. Perkadaran ini kerap berubah, jadi sentiasalah semak pemfailan Bursa Malaysia terkini untuk daftar semasa. Kesimpulannya ialah sebahagian besar keuntungan dan dividen Maybank mengalir kembali kepada penyimpan biasa Malaysia menerusi dana-dana ini.
 
 ## Mengapa ia penting
 
-Maybank terletak di tengah-tengah sistem kewangan Malaysia. Sebagai bank terbesar, pemberian pinjaman, kadar deposit dan keputusan kreditnya meriak ke seluruh ekonomi yang lebih luas, dan ia diselia oleh [Bank Negara Malaysia](/ms/finance), bank pusat. Skalanya dalam kewangan Islam turut menjadikannya penting kepada aspirasi Malaysia untuk menjadi hab global bagi perbankan patuh Syariah. Sebagai perbandingan, bank tersenarai besar Malaysia yang lain termasuk [CIMB](/ms/companies/cimb) dan [Public Bank](/ms/companies/public-bank), yang bersama Maybank menguasai pasaran domestik.
+Maybank terletak di tengah-tengah sistem kewangan Malaysia. Sebagai bank terbesar, pemberian pinjaman, kadar deposit dan keputusan kreditnya meriak ke seluruh ekonomi yang lebih luas, dan ia diselia oleh [Bank Negara Malaysia](/finance), bank pusat. Skalanya dalam kewangan Islam turut menjadikannya penting kepada aspirasi Malaysia untuk menjadi hab global bagi perbankan patuh Syariah. Sebagai perbandingan, bank tersenarai besar Malaysia yang lain termasuk [CIMB](/companies/cimb) dan [Public Bank](/companies/public-bank), yang bersama Maybank menguasai pasaran domestik.
 
 ## Apa seterusnya
 
-- Bandingkan Maybank dengan pesaing domestik utamanya: [CIMB](/ms/companies/cimb) dan [Public Bank](/ms/companies/public-bank).
-- Baca tentang sistem perbankan dan kewangan Malaysia serta pengawal selianya di bahagian [kewangan](/ms/finance).
+- Bandingkan Maybank dengan pesaing domestik utamanya: [CIMB](/companies/cimb) dan [Public Bank](/companies/public-bank).
+- Baca tentang sistem perbankan dan kewangan Malaysia serta pengawal selianya di bahagian [kewangan](/finance).
 - Untuk angka semasa — aset, keuntungan, nilai pasaran dan pegangan saham — rujuk laporan tahunan terkini Maybank dan pendedahannya di Bursa Malaysia dan bukannya angka lama.

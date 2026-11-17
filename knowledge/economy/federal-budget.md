@@ -144,7 +144,7 @@ Peraturan Mesyuarat 65 jelas: Anggaran Perbelanjaan mesti dibentangkan di Meja
 Mesyuarat **sebelum** Rang Undang-Undang Perbekalan dibawa ke dalam mesyuarat.
 Ucapan belanjawan mengiringi dokumen, bukan menggantikannya.
 
-Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 [Akta 850] menambah lapisan
+[Akta Kewangan Awam dan Tanggungjawab Fiskal 2023](/economy/national-debt-fiscal-responsibility) [Akta 850] menambah lapisan
 dokumen wajib. Menteri hendaklah membentangkan **laporan tinjauan ekonomi**
 (seksyen 32) dan **laporan tinjauan fiskal** (seksyen 33) bersama penyata
 anggaran hasil dan perbelanjaan.

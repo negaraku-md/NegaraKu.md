@@ -39,7 +39,7 @@ faq:
     a: "Rang Undang-Undang Perbekalan adalah uji kepercayaan keuangan terhadap pemerintah. Karena ia rang undang-undang wang, ia harus bermula di Dewan Rakyat dan hanya dapat dibawa oleh seorang Menteri. Jika Dewan Rakyat menolak peruntukan pemerintah, itu lazimnya ditafsirkan sebagai kehilangan kepercayaan mayoritas — lihat kuasa keuangan Dewan Rakyat di bawah Pasal 67 dan 68 Konstitusi Federal."
 
 lang: "id"
-sourceContentHash: "669255c561437b72"
+sourceContentHash: "82b528da8ca4159d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Halaman ini menjelaskan apa yang sebenarnya dilakukan kementerian tersebut: baga
 
 Kementerian Kewangan bertanggung jawab atas kedua sisi neraca negara: pendapatan yang masuk dan belanja yang keluar. Ia menggubal kebijakan fiskal, menyusun Belanjawan Persekutuan, mengelola perolehan dan pembayaran kembali pinjaman pemerintah, mengendalikan akuntansi dan perbendaharaan pemerintah, serta menyelia pengelolaan keuangan kementerian, jabatan dan badan statutori yang lain.
 
-Ia juga kementerian peneraju bagi sistem keuangan negara. Melalui agensi di bawahnya, Kementerian Kewangan menyelia otoritas pajak langsung dan tidak langsung, pasar modal, asuransi deposito, dan pembiayaan sektor publik. Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 (Akta 850) — undang-undang yang kini mengikat pengelolaan fiskal kementerian — merangkum mandat ini dalam empat prinsip pengelolaan fiskal bertanggung jawab: memastikan stabilitas makroekonomi, mencapai keseimbangan fiskal yang berkelanjutan, mempertahankan tingkat utang yang berhati-hati, dan mengelola risiko fiskal secara efektif.
+Ia juga kementerian peneraju bagi sistem keuangan negara. Melalui agensi di bawahnya, Kementerian Kewangan menyelia otoritas pajak langsung dan tidak langsung, pasar modal, asuransi deposito, dan pembiayaan sektor publik. [Akta Kewangan Awam dan Tanggungjawab Fiskal 2023](/id/economy/national-debt-fiscal-responsibility) (Akta 850) — undang-undang yang kini mengikat pengelolaan fiskal kementerian — merangkum mandat ini dalam empat prinsip pengelolaan fiskal bertanggung jawab: memastikan stabilitas makroekonomi, mencapai keseimbangan fiskal yang berkelanjutan, mempertahankan tingkat utang yang berhati-hati, dan mengelola risiko fiskal secara efektif.
 
 ## Sepintas lalu
 

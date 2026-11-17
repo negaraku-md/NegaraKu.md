@@ -30,7 +30,7 @@ faq:
     a: "TNB memiliki dan menjalankan jaringan grid nasional yang perlu ditingkatkan untuk menyerap energi terbarukan, selaras dengan sasaran Peta Peralihan Tenaga Negara (NETR)."
 
 lang: "id"
-sourceContentHash: "12e743d05ab159ac"
+sourceContentHash: "d5616d09c699df65"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -155,7 +155,7 @@ Sebagai pemilik grid dan pemegang portofolio energi terbarukan terbesar negara â
 
 Walaupun tercatat di Papan Utama Bursa Malaysia (nomor pendaftaran perusahaan 199001009294 / 200866-W), TNB tetap sebuah perusahaan terkait pemerintah (GLC), dengan mayoritas sahamnya dipegang dana dan lembaga pemerintah yang menyelaraskan perusahaan dengan kebijakan energi negara.
 
-Struktur kepemilikan berubah pada akhir 2025. Menurut The Edge Malaysia, pada awal Desember 2025 Khazanah Nasional mengurangi kepemilikan langsungnya dengan menjual 135.65 juta saham bernilai RM1.69 miliar, menjadikan total kepemilikannya (langsung dan tidak langsung) sekitar 18.05%. Hasilnya, Kumpulan Wang Simpanan Pekerja (KWSP) menjadi pemegang saham terbesar dengan 1.24 miliar saham atau 21.25%, dengan Permodalan Nasional Berhad (PNB) turut menjadi pemegang saham utama.
+Struktur kepemilikan berubah pada akhir 2025. Menurut The Edge Malaysia, pada awal Desember 2025 Khazanah Nasional mengurangi kepemilikan langsungnya dengan menjual 135.65 juta saham bernilai RM1.69 miliar, menjadikan total kepemilikannya (langsung dan tidak langsung) sekitar 18.05%. Hasilnya, Kumpulan Wang Simpanan Pekerja (KWSP) menjadi pemegang saham terbesar dengan 1.24 miliar saham atau 21.25%, dengan [Permodalan Nasional Berhad](/id/economy/pnb) (PNB) turut menjadi pemegang saham utama.
 
 | Pemegang saham utama | Perkiraan kepemilikan | Rujukan |
 |---|---|---|

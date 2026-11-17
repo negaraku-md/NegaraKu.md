@@ -39,7 +39,7 @@ faq:
     a: "Le Supply Bill est un test de confiance financière envers le gouvernement. Comme c'est un projet de loi de finances, il doit prendre naissance au Dewan Rakyat et ne peut être présenté que par un ministre. Si le Dewan Rakyat rejette la dotation du gouvernement, cela est conventionnellement interprété comme une perte de la confiance majoritaire — voir les pouvoirs financiers du Dewan Rakyat en vertu des articles 67 et 68 de la Constitution fédérale."
 
 lang: "fr"
-sourceContentHash: "669255c561437b72"
+sourceContentHash: "82b528da8ca4159d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Cette page explique ce que fait réellement le ministère : comment le Budget es
 
 Le ministère des Finances est responsable des deux côtés du bilan de la nation : les recettes qui entrent et les dépenses qui sortent. Il formule la politique budgétaire, prépare le Budget fédéral, gère l'obtention et le remboursement des emprunts du gouvernement, contrôle la comptabilité gouvernementale et le trésor, et supervise la gestion financière des autres ministères, départements et entités statutaires.
 
-C'est aussi le ministère chef de file du système financier du pays. Par l'intermédiaire des agences qui lui sont rattachées, le ministère des Finances supervise les autorités fiscales directes et indirectes, les marchés de capitaux, l'assurance-dépôts et le financement du secteur public. La loi sur les finances publiques et la responsabilité budgétaire de 2023 (Act 850) — la loi qui régit désormais la gestion budgétaire du ministère — consacre ce mandat en quatre principes de gestion budgétaire responsable : assurer la stabilité macroéconomique, atteindre un équilibre budgétaire durable, maintenir un niveau prudent de dette et gérer efficacement les risques budgétaires.
+C'est aussi le ministère chef de file du système financier du pays. Par l'intermédiaire des agences qui lui sont rattachées, le ministère des Finances supervise les autorités fiscales directes et indirectes, les marchés de capitaux, l'assurance-dépôts et le financement du secteur public. La [loi sur les finances publiques et la responsabilité budgétaire de 2023](/fr/economy/national-debt-fiscal-responsibility) (Act 850) — la loi qui régit désormais la gestion budgétaire du ministère — consacre ce mandat en quatre principes de gestion budgétaire responsable : assurer la stabilité macroéconomique, atteindre un équilibre budgétaire durable, maintenir un niveau prudent de dette et gérer efficacement les risques budgétaires.
 
 ## En un coup d'œil
 

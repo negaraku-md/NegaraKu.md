@@ -41,7 +41,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "669255c561437b72"
+sourceContentHash: "82b528da8ca4159d"
 
 status: "published"
 aiAssisted: true
@@ -139,7 +139,7 @@ This page explains what the ministry actually does: how the Budget is prepared a
 
 The Ministry of Finance is responsible for both sides of the nation's balance sheet: the revenue coming in and the expenditure going out. It formulates fiscal policy, prepares the Federal Budget, manages the raising and repayment of government loans, controls government accounting and the treasury, and oversees the financial management of other ministries, departments and statutory bodies.
 
-It is also the lead ministry for the country's financial system. Through the agencies under it, the Ministry of Finance oversees the direct and indirect tax authorities, the capital markets, deposit insurance, and public-sector financing. The Public Finance and Fiscal Responsibility Act 2023 (Act 850) — the law that now binds the ministry's fiscal management — captures this mandate in four principles of responsible fiscal management: ensuring macroeconomic stability, achieving a sustainable fiscal balance, maintaining a prudent level of debt, and managing fiscal risks effectively.
+It is also the lead ministry for the country's financial system. Through the agencies under it, the Ministry of Finance oversees the direct and indirect tax authorities, the capital markets, deposit insurance, and public-sector financing. The [Public Finance and Fiscal Responsibility Act 2023](/en/economy/national-debt-fiscal-responsibility) (Act 850) — the law that now binds the ministry's fiscal management — captures this mandate in four principles of responsible fiscal management: ensuring macroeconomic stability, achieving a sustainable fiscal balance, maintaining a prudent level of debt, and managing fiscal risks effectively.
 
 ## At a glance
 

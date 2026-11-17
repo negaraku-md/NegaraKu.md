@@ -28,7 +28,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang mencari gambaran ringkas dan ber
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -140,7 +140,7 @@ jangka panjang yang bertujuan mengurangi kemiskinan dan menyusun ulang masyaraka
 sehingga fungsi ekonomi tidak lagi diidentikkan dengan ras.
 
 Beberapa lembaga yang bertahan lama berasal dari masa jabatannya. Ia mendorong
-pembentukan **Permodalan Nasional Berhad (1978)** dan, pada 1981, meluncurkan **Skema
+pembentukan **[Permodalan Nasional Berhad](/id/economy/pnb) (1978)** dan, pada 1981, meluncurkan **Skema
 Amanah Saham Nasional (Amanah Saham Nasional)** untuk memperluas kepemilikan saham
 Bumiputera. Ia juga mendirikan **PEMADAM** untuk melawan penyalahgunaan narkoba pada
 1976 dan mendorong skema siskamling **Rukun Tetangga**. Seorang pengacara dari segi

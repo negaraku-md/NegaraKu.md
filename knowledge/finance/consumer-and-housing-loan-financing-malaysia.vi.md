@@ -31,7 +31,7 @@ faq:
     a: "Theo Hire Purchase Act 1967, một bên tài trợ nói chung chỉ có thể thu hồi sau khi người thuê đã vỡ nợ hai kỳ trả góp liên tiếp và tuân theo một quy trình thông báo 21 ngày. Một khi bạn đã trả ít nhất 75% giá tiền mặt, bên tài trợ cần một lệnh của tòa án để thu hồi."
 
 lang: "vi"
-sourceContentHash: "6a3487bee5c6466c"
+sourceContentHash: "f17ddde675b94f1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Một khoản vay lãi suất thả nổi của Malaysia không được định
 
 **Lãi suất bạn trả = Lãi suất Cơ sở Chuẩn hóa (SBR) + biên độ.**
 
-**Lãi suất Cơ sở Chuẩn hóa (SBR)** là lãi suất tham chiếu chung mà mọi ngân hàng nay dùng cho các khoản vay bán lẻ lãi suất thả nổi mới, và nó *chỉ* gắn với **Lãi suất Chính sách Qua đêm (OPR)** do Ủy ban Chính sách Tiền tệ của Bank Negara Malaysia đặt. Khi OPR di chuyển, SBR di chuyển đúng cùng một mức — lên hoặc xuống — mà ngân hàng không cần một quyết định độc lập nào. Đó chính là ý nghĩa của thiết kế "chuẩn hóa": mức cơ sở giống nhau ở mọi ngân hàng và hoàn toàn minh bạch.
+**Lãi suất Cơ sở Chuẩn hóa (SBR)** là lãi suất tham chiếu chung mà mọi ngân hàng nay dùng cho các khoản vay bán lẻ lãi suất thả nổi mới, và nó *chỉ* gắn với **[Lãi suất Chính sách Qua đêm](/vi/economy/opr-monetary-policy) (OPR)** do Ủy ban Chính sách Tiền tệ của Bank Negara Malaysia đặt. Khi OPR di chuyển, SBR di chuyển đúng cùng một mức — lên hoặc xuống — mà ngân hàng không cần một quyết định độc lập nào. Đó chính là ý nghĩa của thiết kế "chuẩn hóa": mức cơ sở giống nhau ở mọi ngân hàng và hoàn toàn minh bạch.
 
 **Biên độ** là nơi các ngân hàng thực sự cạnh tranh. Nó gói rủi ro tín dụng của người vay, chi phí vốn, phần bù thanh khoản, chi phí hoạt động và biên lợi nhuận vào một biên độ duy nhất được báo *trên* SBR. Vì vậy khi bạn so sánh hai đề nghị vay nhà, bạn thực ra đang so sánh các biên độ — mức cơ sở giống nhau ở mọi ngân hàng vào một ngày bất kỳ.
 

@@ -29,7 +29,7 @@ faq:
     a: "El fondo de inversión estatal malasio Permodalan Nasional Berhad (PNB) es un accionista importante en las empresas de Sime Darby, y PNB fue el vendedor de la participación en UMW que adquirió Sime Darby Berhad. Los porcentajes exactos de participación cambian con el tiempo y deben verificarse con las últimas presentaciones de cada empresa ante Bursa Malaysia."
 
 lang: "es"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Las tres empresas todavía comparten la herencia de Sime Darby y un accionista i
 
 El linaje es profundo. Guthrie & Co se fundó en Singapur en 1821 por Alexander Guthrie, descrita como la primera empresa comercial británica del Sudeste Asiático. En octubre de 1910, William Sime y Henry Darby establecieron Sime, Darby and Co. en el comercio del caucho. (Estas fechas de fundación se reportan ampliamente, pero deben confirmarse con una fuente primaria de herencia.)
 
-En enero de 2007, tres grupos malasios de plantaciones —Sime Darby, Kumpulan Guthrie y Golden Hope— se fusionaron en un vehículo llamado Synergy Drive, que pasó a llamarse Sime Darby Berhad. Así se creó el conglomerado moderno. Un hito en ese linaje llegó en 1981, cuando Permodalan Nasional Berhad (PNB) arrebató el control de Guthrie, poniendo a uno de los gigantes del sector bajo control malasio.
+En enero de 2007, tres grupos malasios de plantaciones —Sime Darby, Kumpulan Guthrie y Golden Hope— se fusionaron en un vehículo llamado Synergy Drive, que pasó a llamarse Sime Darby Berhad. Así se creó el conglomerado moderno. Un hito en ese linaje llegó en 1981, cuando [Permodalan Nasional Berhad](/es/economy/pnb) (PNB) arrebató el control de Guthrie, poniendo a uno de los gigantes del sector bajo control malasio.
 
 ## ¿Qué creó la escisión de 2017?
 

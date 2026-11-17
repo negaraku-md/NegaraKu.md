@@ -147,7 +147,7 @@ long-term programme aimed at reducing poverty and restructuring society so that
 economic function was no longer identified with race.
 
 Several lasting institutions date to his premiership. He promoted the formation
-of **Permodalan Nasional Berhad (1978)** and, in 1981, launched the **National
+of **[Permodalan Nasional Berhad](/economy/pnb) (1978)** and, in 1981, launched the **National
 Unit Trust Scheme (Amanah Saham Nasional)** to broaden Bumiputera share
 ownership. He also founded **PEMADAM** against drug abuse in 1976 and encouraged
 the neighbourhood-watch **Rukun Tetangga** scheme. A lawyer by training, he was

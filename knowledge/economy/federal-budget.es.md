@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, analistas de políticas, periodistas, funcionarios públicos y cualquier persona que necesite entender cómo se prepara, debate y aprueba el presupuesto federal."
 
 lang: "es"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -151,7 +151,7 @@ presentarse en la Mesa de la Cámara **antes** de que el Proyecto de Ley
 de Suministros se introduzca en la sesión. El discurso del presupuesto
 acompaña al documento; no lo sustituye.
 
-La Ley de Finanzas Públicas y Responsabilidad Fiscal de 2023 [Act 850]
+La [Ley de Finanzas Públicas y Responsabilidad Fiscal de 2023](/es/economy/national-debt-fiscal-responsibility) [Act 850]
 añade una capa de documentos obligatorios. El Ministro debe presentar un
 **informe de perspectiva económica** (sección 32) y un **informe de
 perspectiva fiscal** (sección 33) junto con el estado de ingresos y

@@ -30,7 +30,7 @@ faq:
     a: "TNB sở hữu và vận hành mạng lưới lưới điện quốc gia cần được nâng cấp để hấp thụ năng lượng tái tạo, phù hợp với các mục tiêu của Lộ trình Chuyển đổi Năng lượng Quốc gia (NETR)."
 
 lang: "vi"
-sourceContentHash: "12e743d05ab159ac"
+sourceContentHash: "d5616d09c699df65"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -161,7 +161,7 @@ Với tư cách là chủ sở hữu lưới điện và bên nắm danh mục n
 
 Dù niêm yết trên Bảng Chính của Bursa Malaysia (số đăng ký công ty 199001009294 / 200866-W), TNB vẫn là một công ty liên kết chính phủ (GLC), với đa số cổ phần được nắm giữ bởi các quỹ và cơ quan của chính phủ, giúp gắn công ty với chính sách năng lượng của đất nước.
 
-Cơ cấu sở hữu thay đổi vào cuối năm 2025. Theo The Edge Malaysia, vào đầu tháng 12 năm 2025 Khazanah Nasional giảm mức nắm giữ trực tiếp của mình bằng việc bán 135,65 triệu cổ phiếu trị giá RM1.69 tỷ, khiến tổng mức nắm giữ của họ (trực tiếp và gián tiếp) còn khoảng 18,05%. Kết quả là, Quỹ Tiết kiệm của Người lao động (KWSP) trở thành cổ đông lớn nhất với 1,24 tỷ cổ phiếu hay 21,25%, với Permodalan Nasional Berhad (PNB) cũng trở thành một cổ đông lớn.
+Cơ cấu sở hữu thay đổi vào cuối năm 2025. Theo The Edge Malaysia, vào đầu tháng 12 năm 2025 Khazanah Nasional giảm mức nắm giữ trực tiếp của mình bằng việc bán 135,65 triệu cổ phiếu trị giá RM1.69 tỷ, khiến tổng mức nắm giữ của họ (trực tiếp và gián tiếp) còn khoảng 18,05%. Kết quả là, Quỹ Tiết kiệm của Người lao động (KWSP) trở thành cổ đông lớn nhất với 1,24 tỷ cổ phiếu hay 21,25%, với [Permodalan Nasional Berhad](/vi/economy/pnb) (PNB) cũng trở thành một cổ đông lớn.
 
 | Cổ đông lớn | Ước tính mức nắm giữ | Tham chiếu |
 |---|---|---|

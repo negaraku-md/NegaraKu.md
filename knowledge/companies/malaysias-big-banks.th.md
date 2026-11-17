@@ -31,7 +31,7 @@ faq:
     a: "CIMB อธิบายตัวเองว่าเป็นกลุ่มที่มุ่งเน้นอาเซียนที่ดำเนินงานทั่วตลาดรวมถึงมาเลเซีย อินโดนีเซีย สิงคโปร์ และไทย RHB ดำเนินงานในเจ็ดตลาดในภูมิภาค Maybank ครอบคลุมสามตลาดบ้านเกิด ได้แก่ มาเลเซีย สิงคโปร์ และอินโดนีเซีย บวกกับการดำเนินงานทั่วอาเซียนและศูนย์กลางการเงินสำคัญของโลก"
 
 lang: "th"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ framework: profile
 
 | กลุ่ม | ผู้ถือหุ้นรายใหญ่ที่สุด / ผู้ควบคุม | ลักษณะความเป็นเจ้าของ |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) และกองทุน Amanah Saham; EPF ก็เป็นผู้ถือหุ้นรายใหญ่ | เกี่ยวข้องกับรัฐบาล (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/th/economy/pnb) (PNB) และกองทุน Amanah Saham; EPF ก็เป็นผู้ถือหุ้นรายใหญ่ | เกี่ยวข้องกับรัฐบาล (GLIC) |
 | CIMB | Khazanah Nasional พร้อม EPF, KWAP และ PNB | เกี่ยวข้องกับรัฐบาล (GLIC) |
 | RHB Bank | กองทุนสำรองเลี้ยงชีพลูกจ้าง (EPF) | เกี่ยวข้องกับรัฐบาล (GLIC) |
 | Public Bank | ตระกูล Teh ผ่าน Consolidated Teh Holdings | ตระกูลผู้ก่อตั้ง |

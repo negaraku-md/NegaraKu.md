@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ El alcance de Maybank es lo que más lo distingue de un banco puramente nacional
 
 ## ¿Quién es el propietario de Maybank?
 
-Maybank es, en la práctica, propiedad mayoritaria de las instituciones de inversión malasias vinculadas al Gobierno. Sus mayores accionistas son fondos gestionados por Permodalan Nasional Berhad (PNB) — sobre todo Amanah Saham Bumiputera (ASB), el fondo de inversión nacional — junto con el Fondo de Previsión de los Empleados (EPF), el fondo de ahorro para la jubilación del país. Las participaciones declaradas varían con cada comunicación: en 2026 se citaba a ASB con cerca de un 30% y al EPF en torno a un 12%, con las participaciones gestionadas por PNB situadas en conjunto, según lo comunicado, en torno a algo más del 40%. Estas proporciones cambian con frecuencia, así que comprueba siempre las comunicaciones más recientes a Bursa Malaysia para conocer el registro actual. La consecuencia es que una gran parte de los beneficios y dividendos de Maybank revierte a los ahorradores malasios de a pie a través de estos fondos.
+Maybank es, en la práctica, propiedad mayoritaria de las instituciones de inversión malasias vinculadas al Gobierno. Sus mayores accionistas son fondos gestionados por [Permodalan Nasional Berhad](/es/economy/pnb) (PNB) — sobre todo Amanah Saham Bumiputera (ASB), el fondo de inversión nacional — junto con el Fondo de Previsión de los Empleados (EPF), el fondo de ahorro para la jubilación del país. Las participaciones declaradas varían con cada comunicación: en 2026 se citaba a ASB con cerca de un 30% y al EPF en torno a un 12%, con las participaciones gestionadas por PNB situadas en conjunto, según lo comunicado, en torno a algo más del 40%. Estas proporciones cambian con frecuencia, así que comprueba siempre las comunicaciones más recientes a Bursa Malaysia para conocer el registro actual. La consecuencia es que una gran parte de los beneficios y dividendos de Maybank revierte a los ahorradores malasios de a pie a través de estos fondos.
 
 ## Por qué importa
 

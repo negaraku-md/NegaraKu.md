@@ -31,7 +31,7 @@ faq:
     a: "Bajo la Ley de Compra a Plazos de 1967, un financiador generalmente solo puede recuperar el bien después de que el arrendatario haya incumplido dos cuotas sucesivas y tras seguir un proceso de preaviso de 21 días. Una vez que ha pagado al menos el 75% del precio al contado, el financiador necesita una orden judicial para recuperar el bien."
 
 lang: "es"
-sourceContentHash: "6a3487bee5c6466c"
+sourceContentHash: "f17ddde675b94f1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Un préstamo malasio a tipo variable no se fija como un único número que el ba
 
 **Tasa que usted paga = Tasa Base Estandarizada (SBR) + diferencial.**
 
-La **Tasa Base Estandarizada (SBR)** es la tasa de referencia común que ahora usa cada banco para los nuevos préstamos minoristas a tipo variable, y está vinculada *únicamente* a la **Tasa de Política Interbancaria (OPR)** fijada por el Comité de Política Monetaria de Bank Negara Malaysia. Cuando la OPR se mueve, la SBR se mueve exactamente en la misma cantidad — al alza o a la baja — sin ninguna decisión independiente del banco. Ese es todo el sentido del diseño «estandarizado»: la base es idéntica en todos los bancos y plenamente transparente.
+La **Tasa Base Estandarizada (SBR)** es la tasa de referencia común que ahora usa cada banco para los nuevos préstamos minoristas a tipo variable, y está vinculada *únicamente* a la **[Tasa de Política Interbancaria](/es/economy/opr-monetary-policy) (OPR)** fijada por el Comité de Política Monetaria de Bank Negara Malaysia. Cuando la OPR se mueve, la SBR se mueve exactamente en la misma cantidad — al alza o a la baja — sin ninguna decisión independiente del banco. Ese es todo el sentido del diseño «estandarizado»: la base es idéntica en todos los bancos y plenamente transparente.
 
 El **diferencial** es donde los bancos compiten realmente. Agrupa el riesgo crediticio del prestatario, el coste de los fondos, la prima de liquidez, el coste operativo y el margen de beneficio en un único margen cotizado *por encima* de la SBR. Así que cuando compara dos ofertas de préstamo de vivienda, en realidad está comparando diferenciales — la base es la misma en todos los bancos en un día dado.
 

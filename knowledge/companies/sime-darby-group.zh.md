@@ -29,7 +29,7 @@ faq:
     a: "马来西亚国家投资基金国民投资机构（Permodalan Nasional Berhad，PNB）是森那美旗下各公司的主要股东，并且 PNB 正是 Sime Darby Berhad 所收购 UMW 股权的卖方。具体持股比例会随时间变化，应对照各公司在马来西亚交易所的最新申报文件核实。"
 
 lang: "zh"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ framework: profile
 
 其血脉源远流长。Guthrie & Co 于1821年由 Alexander Guthrie 在新加坡创立，被称为东南亚第一家英国贸易公司。1910年10月，William Sime 与 Henry Darby 在橡胶贸易领域创立了 Sime, Darby and Co.。（这些创立日期被广泛报道，但应对照原始的公司历史资料予以核实。）
 
-2007年1月，三家马来西亚种植集团——Sime Darby、Kumpulan Guthrie 与 Golden Hope——合并为一个名为 Synergy Drive 的实体，随后更名为 Sime Darby Berhad。现代综合企业集团由此诞生。这一血脉中的一个里程碑发生在1981年，当时国民投资机构（PNB）夺取了 Guthrie 的控制权，将业内巨头之一纳入马来西亚控制之下。
+2007年1月，三家马来西亚种植集团——Sime Darby、Kumpulan Guthrie 与 Golden Hope——合并为一个名为 Synergy Drive 的实体，随后更名为 Sime Darby Berhad。现代综合企业集团由此诞生。这一血脉中的一个里程碑发生在1981年，当时[国民投资机构](/zh/economy/pnb)（PNB）夺取了 Guthrie 的控制权，将业内巨头之一纳入马来西亚控制之下。
 
 ## 2017年的拆分创造了什么？
 

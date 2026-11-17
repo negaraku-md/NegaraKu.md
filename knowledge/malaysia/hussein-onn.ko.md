@@ -28,7 +28,7 @@ appliesTo: "후세인 온의 생애, 총리직, 그리고 현대 말레이시아
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -101,7 +101,7 @@ framework: profile
 
 통합은 후세인 온 정부의 조직 원리였습니다. 페르다나 리더십 재단에 따르면, 그는 1974년 **국민통합위원회(National Unity Council)**를 세웠고, 총리로서 불안정의 뿌리로 본 공동체 간 경제 격차를 좁히려 애썼습니다. 그의 행정부는 라작 아래 시작된 **[신경제정책](/ko/malaysia/new-economic-policy)** — 빈곤을 줄이고 경제적 기능이 더는 인종과 동일시되지 않도록 사회를 재구조화하는 것을 목표로 한 장기 프로그램 — 을 이어 갔습니다.
 
-몇몇 오래가는 제도가 그의 총리직 시기에 생겨났습니다. 그는 **국민자산공사(Permodalan Nasional Berhad, 1978)**의 설립을 촉진했고, 1981년 부미푸트라 지분 소유를 넓히기 위해 **국민단위신탁제도(National Unit Trust Scheme, Amanah Saham Nasional)**를 출범시켰습니다. 그는 또한 1976년 약물 남용에 맞선 **PEMADAM**을 세웠고 이웃 감시 **루쿤 트탕가(Rukun Tetangga)** 제도를 장려했습니다. 법률가로 훈련받은 그는 청렴에 관해 특히 단호하여, 부패가 "암(cancerous)"이 되기 전에 근절해야 할 질병이라고 그 자신의 표현으로 경고했습니다.
+몇몇 오래가는 제도가 그의 총리직 시기에 생겨났습니다. 그는 **[국민자산공사](/ko/economy/pnb)(Permodalan Nasional Berhad, 1978)**의 설립을 촉진했고, 1981년 부미푸트라 지분 소유를 넓히기 위해 **국민단위신탁제도(National Unit Trust Scheme, Amanah Saham Nasional)**를 출범시켰습니다. 그는 또한 1976년 약물 남용에 맞선 **PEMADAM**을 세웠고 이웃 감시 **루쿤 트탕가(Rukun Tetangga)** 제도를 장려했습니다. 법률가로 훈련받은 그는 청렴에 관해 특히 단호하여, 부패가 "암(cancerous)"이 되기 전에 근절해야 할 질병이라고 그 자신의 표현으로 경고했습니다.
 
 ## 마하티르를 택하다
 

@@ -31,7 +31,7 @@ faq:
     a: "يصف CIMB نفسه بأنه مجموعة تركّز على آسيان (ASEAN) تعمل في أسواق منها ماليزيا وإندونيسيا وسنغافورة وتايلند. ويعمل RHB في سبعة أسواق إقليمية. ويمتد Maybank عبر ثلاثة أسواق رئيسية — ماليزيا وسنغافورة وإندونيسيا — إضافةً إلى عمليات عبر آسيان والمراكز المالية العالمية الكبرى."
 
 lang: "ar"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ framework: profile
 
 | المجموعة | أكبر مساهم / المساهم المسيطر | طبيعة الملكية |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) وصناديق Amanah Saham التابعة له؛ EPF أيضًا من كبار المالكين | مرتبطة بالحكومة (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/ar/economy/pnb) (PNB) وصناديق Amanah Saham التابعة له؛ EPF أيضًا من كبار المالكين | مرتبطة بالحكومة (GLIC) |
 | CIMB | Khazanah Nasional، إلى جانب EPF وKWAP وPNB | مرتبطة بالحكومة (GLIC) |
 | RHB Bank | صندوق ادخار الموظفين (EPF) | مرتبطة بالحكومة (GLIC) |
 | Public Bank | عائلة Teh، عبر Consolidated Teh Holdings | عائلة مؤسِّسة |

@@ -32,7 +32,7 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) adalah sistem penyelesaian bruto waktu nyata Bank Negara Malaysia. Sekuritas pemerintah diselesaikan melaluinya atas dasar penyerahan-lawan-pembayaran, sehingga kas dan sekuritas berpindah tangan secara serentak."
 
 lang: "id"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,4 +147,4 @@ Bagi kebanyakan orang, sukuk ritel adalah jalur paling dekat untuk memiliki seba
 
 ## Apa selanjutnya
 
-Jika Anda meneliti sekuritas tertentu, mulailah dengan Bond Info Hub BNM dan BIX Malaysia untuk menampilkan kupon, jatuh tempo, dan penerbitnya. Jika Anda menginginkan eksposur sebagai penabung, bandingkan reksa dana obligasi dan sukuk serta perhatikan penawaran Sukuk Simpanan Rakyat berikutnya, yang diumumkan oleh Bank Negara Malaysia. Dan jika Anda mencoba memahami ke mana arah imbal hasil obligasi menuju, benang untuk diikuti adalah kebijakan moneter: Suku Bunga Kebijakan Semalam (OPR) BNM menambatkan suku bunga jangka pendek, dan imbal hasil MGS bergerak seiring ekspektasi terhadapnya. Angka seperti ukuran terbitan dan tingkat keuntungan sukuk ritel berubah dengan setiap penawaran — selalu pastikan ketentuan terkini terhadap sumber resmi BNM dan SC sebelum bertindak.
+Jika Anda meneliti sekuritas tertentu, mulailah dengan Bond Info Hub BNM dan BIX Malaysia untuk menampilkan kupon, jatuh tempo, dan penerbitnya. Jika Anda menginginkan eksposur sebagai penabung, bandingkan reksa dana obligasi dan sukuk serta perhatikan penawaran Sukuk Simpanan Rakyat berikutnya, yang diumumkan oleh Bank Negara Malaysia. Dan jika Anda mencoba memahami ke mana arah imbal hasil obligasi menuju, benang untuk diikuti adalah kebijakan moneter: [Suku Bunga Kebijakan Semalam](/id/economy/opr-monetary-policy) (OPR) BNM menambatkan suku bunga jangka pendek, dan imbal hasil MGS bergerak seiring ekspektasi terhadapnya. Angka seperti ukuran terbitan dan tingkat keuntungan sukuk ritel berubah dengan setiap penawaran — selalu pastikan ketentuan terkini terhadap sumber resmi BNM dan SC sebelum bertindak.

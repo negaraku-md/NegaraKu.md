@@ -23,7 +23,7 @@ appliesTo: "适用于学生、政策分析员、记者、政府官员，以及�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 
 status: "published"
 aiAssisted: true
@@ -136,7 +136,7 @@ RM81 billion的发展开支同样不在其中。它是根据《1966年发展基�
 议事常规第65条说得很清楚：开支预算须在拨款法案提交入议会**之前**，先
 呈递于议事桌。预算案演说是伴随该文件而来，并非取而代之。
 
-《2023年公共财政与财政责任法令》（第850号法令）则增添了一层强制性文
+[《2023年公共财政与财政责任法令》](/zh/economy/national-debt-fiscal-responsibility)（第850号法令）则增添了一层强制性文
 件。部长须连同收入与开支的预估报表，一并呈递**经济展望报告**（第32条）
 与**财政展望报告**（第33条）。
 

@@ -84,7 +84,7 @@ Malaysia's biggest telecoms story is not a single network but a holding company 
 
 ## Overview
 
-Axiata Group Berhad is a Malaysian-based regional telecommunications and digital holding company, listed on Bursa Malaysia under stock code 6888. It does not primarily run a network under its own name; instead it holds stakes in operating companies ("opcos") and associates across Asia and steers them as a portfolio. Its largest shareholder is Khazanah Nasional, the Malaysian government's sovereign wealth fund, with other state-linked institutions — Permodalan Nasional Berhad and the Employees Provident Fund — also among the top holders (stakes as summarised by public sources, undated; see verification note).
+Axiata Group Berhad is a Malaysian-based regional telecommunications and digital holding company, listed on Bursa Malaysia under stock code 6888. It does not primarily run a network under its own name; instead it holds stakes in operating companies ("opcos") and associates across Asia and steers them as a portfolio. Its largest shareholder is Khazanah Nasional, the Malaysian government's sovereign wealth fund, with other state-linked institutions — [Permodalan Nasional Berhad](/economy/pnb) and the Employees Provident Fund — also among the top holders (stakes as summarised by public sources, undated; see verification note).
 
 The group's reach spans Malaysia, Indonesia, Sri Lanka, Bangladesh and Cambodia, together with the edotco towers infrastructure business and digital units such as the Boost fintech platform and the ADA data-and-marketing company.
 

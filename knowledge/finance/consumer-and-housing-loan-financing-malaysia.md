@@ -103,7 +103,7 @@ A Malaysian floating-rate loan is not priced as a single number the bank invents
 
 **Rate you pay = Standardised Base Rate (SBR) + spread.**
 
-The **Standardised Base Rate (SBR)** is the common reference rate that every bank now uses for new retail floating-rate loans, and it is linked *solely* to the **Overnight Policy Rate (OPR)** set by Bank Negara Malaysia's Monetary Policy Committee. When the OPR moves, the SBR moves by exactly the same amount — up or down — with no independent decision by the bank. That is the whole point of the "standardised" design: the base is identical across banks and fully transparent.
+The **Standardised Base Rate (SBR)** is the common reference rate that every bank now uses for new retail floating-rate loans, and it is linked *solely* to the **[Overnight Policy Rate](/economy/opr-monetary-policy) (OPR)** set by Bank Negara Malaysia's Monetary Policy Committee. When the OPR moves, the SBR moves by exactly the same amount — up or down — with no independent decision by the bank. That is the whole point of the "standardised" design: the base is identical across banks and fully transparent.
 
 The **spread** is where banks actually compete. It bundles the borrower's credit risk, cost of funds, liquidity premium, operating cost and profit margin into a single margin quoted *above* the SBR. So when you compare two home loan offers, you are really comparing spreads — the base is the same at every bank on any given day.
 

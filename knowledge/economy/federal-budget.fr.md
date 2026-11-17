@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Étudiants, analystes de politiques, journalistes, fonctionnaires et toute personne qui doit comprendre comment le budget fédéral est préparé, débattu et adopté."
 
 lang: "fr"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,7 +153,7 @@ doivent être déposées au Bureau de la Chambre **avant** que le projet de
 loi de crédits ne soit introduit dans la séance. Le discours du budget
 accompagne le document ; il ne le remplace pas.
 
-La loi sur les finances publiques et la responsabilité fiscale de 2023
+La [loi sur les finances publiques et la responsabilité fiscale de 2023](/fr/economy/national-debt-fiscal-responsibility)
 [Act 850] ajoute une couche de documents obligatoires. Le ministre doit
 déposer un **rapport de perspective économique** (section 32) et un
 **rapport de perspective fiscale** (section 33) avec l'état des revenus

@@ -29,7 +29,7 @@ faq:
     a: "Quỹ đầu tư nhà nước Malaysia Permodalan Nasional Berhad (PNB) là một cổ đông lớn trên khắp các công ty Sime Darby, và PNB là bên bán cổ phần UMW mà Sime Darby Berhad đã mua lại. Tỷ lệ sở hữu chính xác thay đổi theo thời gian và cần được kiểm tra so với các hồ sơ nộp Bursa Malaysia mới nhất của mỗi công ty."
 
 lang: "vi"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Ba công ty vẫn chia sẻ di sản Sime Darby và một cổ đông lớn chun
 
 Dòng dõi đâm sâu. Guthrie & Co được thành lập tại Singapore năm 1821 bởi Alexander Guthrie, được mô tả là công ty thương mại Anh đầu tiên ở Đông Nam Á. Vào tháng 10 năm 1910, William Sime và Henry Darby thành lập Sime, Darby and Co. trong ngành buôn bán cao su. (Những ngày thành lập này được đưa tin rộng rãi nhưng cần được xác nhận so với một nguồn di sản sơ cấp.)
 
-Vào tháng 1 năm 2007 ba tập đoàn đồn điền Malaysia — Sime Darby, Kumpulan Guthrie và Golden Hope — sáp nhập vào một pháp nhân tên là Synergy Drive, sau đó được đổi tên thành Sime Darby Berhad. Điều đó tạo ra tập đoàn đa ngành hiện đại. Một cột mốc trong dòng dõi đó đến vào năm 1981, khi Permodalan Nasional Berhad (PNB) giành quyền kiểm soát Guthrie, đưa một trong những ông lớn của ngành về dưới sự kiểm soát của Malaysia.
+Vào tháng 1 năm 2007 ba tập đoàn đồn điền Malaysia — Sime Darby, Kumpulan Guthrie và Golden Hope — sáp nhập vào một pháp nhân tên là Synergy Drive, sau đó được đổi tên thành Sime Darby Berhad. Điều đó tạo ra tập đoàn đa ngành hiện đại. Một cột mốc trong dòng dõi đó đến vào năm 1981, khi [Permodalan Nasional Berhad](/vi/economy/pnb) (PNB) giành quyền kiểm soát Guthrie, đưa một trong những ông lớn của ngành về dưới sự kiểm soát của Malaysia.
 
 ## Cuộc tách công ty năm 2017 tạo ra điều gì?
 

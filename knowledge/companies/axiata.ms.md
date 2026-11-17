@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,13 +85,13 @@ Kisah telekomunikasi terbesar Malaysia bukanlah satu rangkaian tunggal tetapi se
 
 ## Gambaran keseluruhan
 
-Axiata Group Berhad ialah syarikat induk telekomunikasi dan digital serantau berpangkalan di Malaysia, tersenarai di Bursa Malaysia di bawah kod saham 6888. Ia tidak mengendalikan rangkaian di bawah namanya sendiri secara utama; sebaliknya ia memegang pegangan dalam syarikat operasi ("opco") dan syarikat bersekutu di seluruh Asia dan mengemudinya sebagai portfolio. Pemegang saham terbesarnya ialah Khazanah Nasional, dana kekayaan negara kerajaan Malaysia, dengan institusi berkaitan kerajaan lain — Permodalan Nasional Berhad dan Kumpulan Wang Simpanan Pekerja — turut antara pemegang teratas (pegangan sebagaimana diringkaskan oleh sumber awam, tanpa tarikh; lihat nota pengesahan).
+Axiata Group Berhad ialah syarikat induk telekomunikasi dan digital serantau berpangkalan di Malaysia, tersenarai di Bursa Malaysia di bawah kod saham 6888. Ia tidak mengendalikan rangkaian di bawah namanya sendiri secara utama; sebaliknya ia memegang pegangan dalam syarikat operasi ("opco") dan syarikat bersekutu di seluruh Asia dan mengemudinya sebagai portfolio. Pemegang saham terbesarnya ialah Khazanah Nasional, dana kekayaan negara kerajaan Malaysia, dengan institusi berkaitan kerajaan lain — [Permodalan Nasional Berhad](/economy/pnb) dan Kumpulan Wang Simpanan Pekerja — turut antara pemegang teratas (pegangan sebagaimana diringkaskan oleh sumber awam, tanpa tarikh; lihat nota pengesahan).
 
 Jangkauan kumpulan ini merangkumi Malaysia, Indonesia, Sri Lanka, Bangladesh dan Kemboja, bersama perniagaan infrastruktur menara edotco serta unit digital seperti platform fintek Boost dan syarikat data-dan-pemasaran ADA.
 
 ## Sejarah: daripada TM International kepada Axiata
 
-Akar umbi Axiata terletak dalam bekas monopoli kebangsaan. Ia diperbadankan pada 12 Jun 1992 sebagai **TM International Berhad**, lengan antarabangsa dan mudah alih [Telekom Malaysia](/ms/companies/telekom-malaysia). Sepanjang tahun-tahun berikutnya ia mengumpulkan pegangan selular di seluruh pasaran Asia sedang pesat membangun, dan pada 2008 ia disenaraikan secara berasingan di Bursa Malaysia.
+Akar umbi Axiata terletak dalam bekas monopoli kebangsaan. Ia diperbadankan pada 12 Jun 1992 sebagai **TM International Berhad**, lengan antarabangsa dan mudah alih [Telekom Malaysia](/companies/telekom-malaysia). Sepanjang tahun-tahun berikutnya ia mengumpulkan pegangan selular di seluruh pasaran Asia sedang pesat membangun, dan pada 2008 ia disenaraikan secara berasingan di Bursa Malaysia.
 
 Pada 2 April 2009 syarikat itu menjenamakan semula sebagai **Axiata Group Berhad**, menandakan identiti yang bebas daripada bekas syarikat induknya dan strategi yang berpusat pada pertumbuhan mudah alih serantau dan bukannya akar talian tetap Malaysia. Nama itu sejak itu menjadi jenama payung yang dibawa oleh beberapa pengendalinya, seperti XL Axiata dan Dialog Axiata.
 
@@ -108,7 +108,7 @@ Struktur Axiata paling mudah difahami sebagai sebuah induk yang memegang peganga
 | Robi Axiata | Bangladesh | Robi / Airtel | ~61.82% |
 | Smart Axiata | Kemboja | Smart | ~72.48% |
 
-**CelcomDigi (Malaysia).** Pengendali pasaran asal Axiata selama bertahun-tahun ialah Celcom, salah satu jenama selular tertua Malaysia. Pada November 2022 Celcom digabungkan dengan Digi milik Telenor untuk mewujudkan CelcomDigi, pengendali mudah alih terbesar Malaysia dari segi pelanggan. Axiata dan Telenor masing-masing mengambil kira-kira 33.1% dan mengawal secara bersama entiti yang digabungkan itu; Digi dinamakan semula CelcomDigi Berhad pada Februari 2023. Penggabungan itu meletakkan CelcomDigi berhadapan dengan [Maxis](/ms/companies/maxis) dan U Mobile dalam pasaran Malaysia.
+**CelcomDigi (Malaysia).** Pengendali pasaran asal Axiata selama bertahun-tahun ialah Celcom, salah satu jenama selular tertua Malaysia. Pada November 2022 Celcom digabungkan dengan Digi milik Telenor untuk mewujudkan CelcomDigi, pengendali mudah alih terbesar Malaysia dari segi pelanggan. Axiata dan Telenor masing-masing mengambil kira-kira 33.1% dan mengawal secara bersama entiti yang digabungkan itu; Digi dinamakan semula CelcomDigi Berhad pada Februari 2023. Penggabungan itu meletakkan CelcomDigi berhadapan dengan [Maxis](/companies/maxis) dan U Mobile dalam pasaran Malaysia.
 
 **XLSmart dan Link Net (Indonesia).** Pengendali Indonesia lama Axiata, XL Axiata, digabungkan dengan pesaing Smartfren pada 2025 untuk membentuk XLSmart, perniagaan yang dikawal bersama yang melaporkan asas pelanggan yang jauh lebih besar selepas penggabungan itu. Di sampingnya, Axiata memegang kepentingan kawalan dalam Link Net, sebuah syarikat jalur lebar tetap dan fiber yang diposisikan sebagai "FibreCo" kedua terbesar di Indonesia.
 
@@ -134,6 +134,6 @@ Bagi sesiapa yang memetakan ekonomi Malaysia, Axiata ialah kajian kes tentang ba
 
 ## Apa seterusnya
 
-- Bandingkan struktur Axiata dengan pembawa besar Malaysia yang satu lagi, [Maxis](/ms/companies/maxis).
-- Lihat bagaimana kumpulan ini bersesuaian dalam [Malaysia](/ms/malaysia) dan ekosistem pelaburan berkaitan kerajaannya.
+- Bandingkan struktur Axiata dengan pembawa besar Malaysia yang satu lagi, [Maxis](/companies/maxis).
+- Lihat bagaimana kumpulan ini bersesuaian dalam [Malaysia](/malaysia) dan ekosistem pelaburan berkaitan kerajaannya.
 - Jejaki pendedahan pelabur Axiata sendiri di Bursa Malaysia dan [keputusan terkininya](https://www.axiata.com/media/news/2025/axiata-reports-rm403-million-ytd-profit-further-strengthens-balance-sheet) untuk pegangan, jumlah pelanggan dan proses pelupusan menara edotco semasa, dan bukannya bergantung pada angka lama.

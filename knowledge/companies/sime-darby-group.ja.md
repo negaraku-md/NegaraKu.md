@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 
 status: "published"
 aiAssisted: true
@@ -102,7 +102,7 @@ Sime Darbyは植民地時代の貿易・プランテーション商会2社とし
 
 その系譜は深い。Guthrie & Coは1821年にAlexander Guthrieによってシンガポールで設立され、東南アジア初の英国系貿易会社とされている。1910年10月には、William SimeとHenry Darbyがゴム貿易を営むSime, Darby and Co.を設立した。（これらの設立年は広く報じられているが、一次的な企業史資料で確認すべきである。）
 
-2007年1月、マレーシアの3つのプランテーション企業グループ——Sime Darby、Kumpulan Guthrie、Golden Hope——がSynergy Driveと呼ばれる器に統合され、その後Sime Darby Berhadへと改称された。これにより現在のコングロマリットが誕生した。この系譜における一つの節目は1981年に訪れた。Permodalan Nasional Berhad（PNB）がGuthrieの支配権を奪取し、業界屈指の巨大企業をマレーシアの管理下に置いたのである。
+2007年1月、マレーシアの3つのプランテーション企業グループ——Sime Darby、Kumpulan Guthrie、Golden Hope——がSynergy Driveと呼ばれる器に統合され、その後Sime Darby Berhadへと改称された。これにより現在のコングロマリットが誕生した。この系譜における一つの節目は1981年に訪れた。[Permodalan Nasional Berhad](/ja/economy/pnb)（PNB）がGuthrieの支配権を奪取し、業界屈指の巨大企業をマレーシアの管理下に置いたのである。
 
 ## 2017年の分割は何を生み出したのか？
 

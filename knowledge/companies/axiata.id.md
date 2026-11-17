@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ Kisah telekomunikasi terbesar Malaysia bukanlah satu jaringan melainkan sebuah p
 
 ## Ikhtisar
 
-Axiata Group Berhad adalah perusahaan induk telekomunikasi dan digital regional berbasis Malaysia, tercatat di Bursa Malaysia dengan kode saham 6888. Ia tidak terutama menjalankan jaringan dengan namanya sendiri; sebaliknya ia memegang kepemilikan di perusahaan operasi ("opco") dan asosiasi di seluruh Asia serta mengemudikannya sebagai sebuah portofolio. Pemegang saham terbesarnya adalah Khazanah Nasional, dana kekayaan negara pemerintah Malaysia, dengan lembaga terkait negara lainnya — Permodalan Nasional Berhad dan Employees Provident Fund — juga termasuk pemegang terbesar (besaran saham sebagaimana dirangkum sumber publik, tanpa tanggal; lihat catatan verifikasi).
+Axiata Group Berhad adalah perusahaan induk telekomunikasi dan digital regional berbasis Malaysia, tercatat di Bursa Malaysia dengan kode saham 6888. Ia tidak terutama menjalankan jaringan dengan namanya sendiri; sebaliknya ia memegang kepemilikan di perusahaan operasi ("opco") dan asosiasi di seluruh Asia serta mengemudikannya sebagai sebuah portofolio. Pemegang saham terbesarnya adalah Khazanah Nasional, dana kekayaan negara pemerintah Malaysia, dengan lembaga terkait negara lainnya — [Permodalan Nasional Berhad](/id/economy/pnb) dan Employees Provident Fund — juga termasuk pemegang terbesar (besaran saham sebagaimana dirangkum sumber publik, tanpa tanggal; lihat catatan verifikasi).
 
 Jangkauan grup ini mencakup Malaysia, Indonesia, Sri Lanka, Bangladesh, dan Kamboja, bersama bisnis infrastruktur menara edotco dan unit digital seperti platform fintech Boost dan perusahaan data-dan-pemasaran ADA.
 

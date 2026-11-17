@@ -31,7 +31,7 @@ faq:
     a: "CIMB se décrit comme un groupe centré sur l'ASEAN opérant sur des marchés tels que la Malaisie, l'Indonésie, Singapour et la Thaïlande. RHB opère sur sept marchés régionaux. Maybank couvre trois marchés d'origine — la Malaisie, Singapour et l'Indonésie — en plus d'activités dans toute l'ASEAN et dans les principaux centres financiers mondiaux."
 
 lang: "fr"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Ici, les cinq se divisent nettement en deux camps. Trois sont ancrées par des *
 
 | Groupe | Principal actionnaire / actionnaire de contrôle | Caractère de l'actionnariat |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) et ses fonds Amanah Saham ; l'EPF est aussi un actionnaire de premier plan | Lié au gouvernement (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/fr/economy/pnb) (PNB) et ses fonds Amanah Saham ; l'EPF est aussi un actionnaire de premier plan | Lié au gouvernement (GLIC) |
 | CIMB | Khazanah Nasional, aux côtés de l'EPF, de KWAP et de PNB | Lié au gouvernement (GLIC) |
 | RHB Bank | Fonds de prévoyance des salariés (EPF) | Lié au gouvernement (GLIC) |
 | Public Bank | Famille Teh, via Consolidated Teh Holdings | Famille fondatrice |

@@ -31,7 +31,7 @@ faq:
     a: "CIMB는 말레이시아, 인도네시아, 싱가포르, 태국을 포함한 시장에서 운영하는 아세안 중심 그룹으로 자신을 규정합니다. RHB는 일곱 개 지역 시장에서 운영합니다. Maybank는 세 개의 본국 시장 — 말레이시아, 싱가포르, 인도네시아 — 에 더해 아세안 전반과 주요 글로벌 금융 중심지에서 사업을 운영합니다."
 
 lang: "ko"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ framework: profile
 
 | 그룹 | 최대 / 지배 주주 | 소유 성격 |
 |---|---|---|
-| Maybank | 국가투자공사(PNB)와 그 아마나 사함 펀드; EPF도 상위 보유자 | 정부연계(GLIC) |
+| Maybank | [국가투자공사](/ko/economy/pnb)(PNB)와 그 아마나 사함 펀드; EPF도 상위 보유자 | 정부연계(GLIC) |
 | CIMB | Khazanah Nasional, EPF, KWAP, PNB와 함께 | 정부연계(GLIC) |
 | RHB Bank | 직원공제기금(EPF) | 정부연계(GLIC) |
 | Public Bank | Teh 가문, Consolidated Teh Holdings를 통해 | 창업 가문 |

@@ -31,7 +31,7 @@ faq:
     a: "CIMB tự mô tả mình là một tập đoàn tập trung vào ASEAN hoạt động trên các thị trường bao gồm Malaysia, Indonesia, Singapore và Thái Lan. RHB hoạt động trên bảy thị trường khu vực. Maybank trải rộng qua ba thị trường quê nhà — Malaysia, Singapore và Indonesia — cộng với các hoạt động trên khắp ASEAN và các trung tâm tài chính toàn cầu chủ chốt."
 
 lang: "vi"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Việc kiểm soát cửa ngõ về sở hữu đó nghiêm ngặt hơn hầu h�
 
 | Tập đoàn | Cổ đông lớn nhất / kiểm soát | Đặc tính sở hữu |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) và các quỹ Amanah Saham của nó; EPF cũng là một trong các bên nắm giữ hàng đầu | Liên kết chính phủ (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/vi/economy/pnb) (PNB) và các quỹ Amanah Saham của nó; EPF cũng là một trong các bên nắm giữ hàng đầu | Liên kết chính phủ (GLIC) |
 | CIMB | Khazanah Nasional, cùng EPF, KWAP và PNB | Liên kết chính phủ (GLIC) |
 | RHB Bank | Quỹ Tiết kiệm của Người lao động (EPF) | Liên kết chính phủ (GLIC) |
 | Public Bank | Gia đình Teh, qua Consolidated Teh Holdings | Gia đình sáng lập |

@@ -31,7 +31,7 @@ faq:
     a: "CIMB menggambarkan dirinya sebagai kelompok berfokus ASEAN yang beroperasi di berbagai pasar termasuk Malaysia, Indonesia, Singapura, dan Thailand. RHB beroperasi di tujuh pasar regional. Maybank mencakup tiga pasar utama — Malaysia, Singapura, dan Indonesia — serta operasi di seluruh ASEAN dan pusat keuangan global yang penting."
 
 lang: "id"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Di sini kelimanya terbagi dengan jelas menjadi dua kubu. Tiga ditumpu oleh **per
 
 | Kelompok | Pemegang saham terbesar / pengendali | Ciri kepemilikan |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) dan dana Amanah Sahamnya; KWSP juga pemegang utama | Terkait pemerintah (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/id/economy/pnb) (PNB) dan dana Amanah Sahamnya; KWSP juga pemegang utama | Terkait pemerintah (GLIC) |
 | CIMB | Khazanah Nasional, bersama KWSP, KWAP, dan PNB | Terkait pemerintah (GLIC) |
 | RHB Bank | Kumpulan Wang Simpanan Pekerja (KWSP) | Terkait pemerintah (GLIC) |
 | Public Bank | Keluarga Teh, melalui Consolidated Teh Holdings | Keluarga pendiri |

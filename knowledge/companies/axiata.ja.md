@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ framework: profile
 
 ## 概観
 
-Axiata Group Berhad は、マレーシアを拠点とする地域通信・デジタル持株会社であり、Bursa Malaysia に銘柄コード6888で上場している。主に自社名でネットワークを運営するのではなく、アジア全域の事業会社（「opco」）や関連会社の持分を保有し、ポートフォリオとしてそれらを舵取りする。最大株主はマレーシア政府の政府系投資ファンドである Khazanah Nasional で、他の国家関連機関——Permodalan Nasional Berhad と従業員積立基金（EPF）——も上位の保有者に名を連ねる（持分は公開情報による要約、日付なし；確認用の注記を参照）。
+Axiata Group Berhad は、マレーシアを拠点とする地域通信・デジタル持株会社であり、Bursa Malaysia に銘柄コード6888で上場している。主に自社名でネットワークを運営するのではなく、アジア全域の事業会社（「opco」）や関連会社の持分を保有し、ポートフォリオとしてそれらを舵取りする。最大株主はマレーシア政府の政府系投資ファンドである Khazanah Nasional で、他の国家関連機関——[Permodalan Nasional Berhad](/ja/economy/pnb) と従業員積立基金（EPF）——も上位の保有者に名を連ねる（持分は公開情報による要約、日付なし；確認用の注記を参照）。
 
 同グループの到達範囲はマレーシア、インドネシア、スリランカ、バングラデシュ、カンボジアにまたがり、通信塔インフラ事業の edotco、そしてフィンテック・プラットフォームの Boost やデータ・マーケティング会社の ADA といったデジタル部門を併せもつ。
 

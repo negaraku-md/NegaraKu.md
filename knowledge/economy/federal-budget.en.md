@@ -23,7 +23,7 @@ appliesTo: "Students, policy analysts, journalists, government officers, and any
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 
 status: "published"
 aiAssisted: true
@@ -148,7 +148,7 @@ tabled at the Table of the House **before** the Supply Bill is
 brought into the sitting. The budget speech accompanies the document;
 it does not replace it.
 
-The Public Finance and Fiscal Responsibility Act 2023 [Act 850] adds a
+The [Public Finance and Fiscal Responsibility Act 2023](/en/economy/national-debt-fiscal-responsibility) [Act 850] adds a
 layer of mandatory documents. The Minister must table an **economic
 outlook report** (section 32) and a **fiscal outlook report** (section
 33) together with the statement of estimated revenue and expenditure.

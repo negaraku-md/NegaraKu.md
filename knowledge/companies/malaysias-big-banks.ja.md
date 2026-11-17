@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 
 status: "published"
 aiAssisted: true
@@ -123,7 +123,7 @@ framework: profile
 
 | グループ | 最大株主／支配株主 | 所有形態 |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad（PNB）およびそのAmanah Saham系ファンド；KWSP（従業員積立基金）も主要株主 | 政府関連（GLIC） |
+| Maybank | [Permodalan Nasional Berhad](/ja/economy/pnb)（PNB）およびそのAmanah Saham系ファンド；KWSP（従業員積立基金）も主要株主 | 政府関連（GLIC） |
 | CIMB | Khazanah Nasional（KWSP、KWAP、PNBも株主） | 政府関連（GLIC） |
 | RHB Bank | KWSP（従業員積立基金） | 政府関連（GLIC） |
 | Public Bank | Teh一族（Consolidated Teh Holdings経由） | 創業家 |

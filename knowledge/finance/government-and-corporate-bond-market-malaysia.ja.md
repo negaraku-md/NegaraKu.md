@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 
 status: "published"
 aiAssisted: true
@@ -146,4 +146,4 @@ BNMは、マレーシアの債券・スクーク市場情報を提供する公�
 
 ## 次に読むべきもの
 
-特定の証券について調べたい場合は、BNMのBond Info HubとBIX Malaysiaから、そのクーポン、満期、発行体を確認するとよい。貯蓄者としてエクスポージャーを得たい場合は、債券・スクーク単位信託を比較し、マレーシア国立銀行が発表する次回の人民貯蓄スクーク（Sukuk Simpanan Rakyat）の発行を注視するとよい。そして、債券利回りがどこへ向かうのかを理解したいのであれば、追うべき糸口は金融政策である。BNMのオーバーナイト政策金利（Overnight Policy Rate）が短期金利を固定し、MGSの利回りはそれに対する期待とともに動く。発行規模やリテール・スクークの利益率といった数字は発行ごとに変わるため、行動する前には必ず、BNMおよびSCの公式情報源に照らして現在の条件を確認すること。
+特定の証券について調べたい場合は、BNMのBond Info HubとBIX Malaysiaから、そのクーポン、満期、発行体を確認するとよい。貯蓄者としてエクスポージャーを得たい場合は、債券・スクーク単位信託を比較し、マレーシア国立銀行が発表する次回の人民貯蓄スクーク（Sukuk Simpanan Rakyat）の発行を注視するとよい。そして、債券利回りがどこへ向かうのかを理解したいのであれば、追うべき糸口は金融政策である。BNMの[オーバーナイト政策金利](/ja/economy/opr-monetary-policy)（Overnight Policy Rate）が短期金利を固定し、MGSの利回りはそれに対する期待とともに動く。発行規模やリテール・スクークの利益率といった数字は発行ごとに変わるため、行動する前には必ず、BNMおよびSCの公式情報源に照らして現在の条件を確認すること。

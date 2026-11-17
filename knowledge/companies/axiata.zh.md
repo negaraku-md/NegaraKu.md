@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ framework: profile
 
 ## 概览
 
-Axiata Group Berhad 是一家总部设于马来西亚的区域电信与数码控股公司，在 Bursa Malaysia 上市，股票代码6888。它主要并不以自己的名义经营网络；相反，它持有亚洲各地运营公司（「opcos」）与联营公司的股权，并将它们作为一个投资组合来引导。其最大股东是马来西亚政府的主权财富基金国库控股（Khazanah Nasional），其他国家关联机构——国民投资公司（PNB）与公积金局（EPF）——也位列最大持股者之中（持股据公开来源摘要，无日期；见核实说明）。
+Axiata Group Berhad 是一家总部设于马来西亚的区域电信与数码控股公司，在 Bursa Malaysia 上市，股票代码6888。它主要并不以自己的名义经营网络；相反，它持有亚洲各地运营公司（「opcos」）与联营公司的股权，并将它们作为一个投资组合来引导。其最大股东是马来西亚政府的主权财富基金国库控股（Khazanah Nasional），其他国家关联机构——[国民投资公司](/zh/economy/pnb)（PNB）与公积金局（EPF）——也位列最大持股者之中（持股据公开来源摘要，无日期；见核实说明）。
 
 该集团的触及范围横跨马来西亚、印度尼西亚、斯里兰卡、孟加拉国与柬埔寨，连同 edotco 电信塔基础设施业务以及 Boost 金融科技平台与 ADA 数据与营销公司等数码单位。
 

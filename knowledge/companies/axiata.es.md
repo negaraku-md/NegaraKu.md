@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 
 status: "published"
 aiAssisted: true
@@ -85,7 +85,7 @@ La mayor historia de las telecomunicaciones de Malasia no es una sola red, sino 
 
 ## Visión general
 
-Axiata Group Berhad es una sociedad de cartera regional de telecomunicaciones y servicios digitales con base en Malasia, cotizada en Bursa Malaysia bajo el código bursátil 6888. No opera principalmente una red con su propio nombre; en su lugar, posee participaciones en empresas operadoras («opcos») y asociadas en toda Asia y las dirige como una cartera. Su mayor accionista es Khazanah Nasional, el fondo soberano del Gobierno de Malasia, con otras instituciones vinculadas al Estado — Permodalan Nasional Berhad y el Fondo de Previsión de los Empleados — también entre los principales tenedores (participaciones según el resumen de fuentes públicas, sin fecha; véase la nota de verificación).
+Axiata Group Berhad es una sociedad de cartera regional de telecomunicaciones y servicios digitales con base en Malasia, cotizada en Bursa Malaysia bajo el código bursátil 6888. No opera principalmente una red con su propio nombre; en su lugar, posee participaciones en empresas operadoras («opcos») y asociadas en toda Asia y las dirige como una cartera. Su mayor accionista es Khazanah Nasional, el fondo soberano del Gobierno de Malasia, con otras instituciones vinculadas al Estado — [Permodalan Nasional Berhad](/es/economy/pnb) y el Fondo de Previsión de los Empleados — también entre los principales tenedores (participaciones según el resumen de fuentes públicas, sin fecha; véase la nota de verificación).
 
 El alcance del grupo abarca Malasia, Indonesia, Sri Lanka, Bangladés y Camboya, junto con el negocio de infraestructura de torres edotco y unidades digitales como la plataforma fintech Boost y la empresa de datos y marketing ADA.
 

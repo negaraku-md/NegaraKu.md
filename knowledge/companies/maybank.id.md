@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ Jangkauan Maybank adalah yang paling membedakannya dari bank murni domestik. Ia 
 
 ## Siapa pemilik Maybank?
 
-Maybank, pada hakikatnya, mayoritas dimiliki oleh lembaga-lembaga investasi terkait pemerintah Malaysia. Pemegang saham terbesarnya adalah dana yang dikelola oleh Permodalan Nasional Berhad (PNB) — terutama Amanah Saham Bumiputera (ASB), reksa dana nasional — bersama Employees Provident Fund (EPF), dana tabungan pensiun negara. Besaran saham yang dilaporkan bergeser pada setiap keterbukaan: pada 2026, ASB disebut memegang sekitar 30% dan EPF sekitar 12%, dengan kepemilikan yang dikelola PNB secara agregat dilaporkan mendekati 40-an persen. Proporsi ini sering berubah, jadi selalu periksa pelaporan Bursa Malaysia terkini untuk daftar pemegang saham saat ini. Intinya, porsi besar dari laba dan dividen Maybank mengalir kembali kepada penabung biasa Malaysia melalui dana-dana ini.
+Maybank, pada hakikatnya, mayoritas dimiliki oleh lembaga-lembaga investasi terkait pemerintah Malaysia. Pemegang saham terbesarnya adalah dana yang dikelola oleh [Permodalan Nasional Berhad](/id/economy/pnb) (PNB) — terutama Amanah Saham Bumiputera (ASB), reksa dana nasional — bersama Employees Provident Fund (EPF), dana tabungan pensiun negara. Besaran saham yang dilaporkan bergeser pada setiap keterbukaan: pada 2026, ASB disebut memegang sekitar 30% dan EPF sekitar 12%, dengan kepemilikan yang dikelola PNB secara agregat dilaporkan mendekati 40-an persen. Proporsi ini sering berubah, jadi selalu periksa pelaporan Bursa Malaysia terkini untuk daftar pemegang saham saat ini. Intinya, porsi besar dari laba dan dividen Maybank mengalir kembali kepada penabung biasa Malaysia melalui dana-dana ini.
 
 ## Mengapa ini penting
 

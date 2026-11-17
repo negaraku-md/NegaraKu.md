@@ -39,7 +39,7 @@ faq:
     a: "El Supply Bill es una prueba de confianza financiera en el gobierno. Como es un proyecto de ley de carácter financiero, debe originarse en el Dewan Rakyat y solo puede presentarlo un Ministro. Si el Dewan Rakyat rechaza la asignación del gobierno, eso se interpreta convencionalmente como una pérdida de la confianza mayoritaria — véanse las facultades financieras del Dewan Rakyat en virtud de los Artículos 67 y 68 de la Constitución Federal."
 
 lang: "es"
-sourceContentHash: "669255c561437b72"
+sourceContentHash: "82b528da8ca4159d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Esta página explica qué hace realmente el ministerio: cómo se prepara y aprue
 
 El Ministerio de Finanzas es responsable de ambos lados del balance de la nación: los ingresos que entran y el gasto que sale. Formula la política fiscal, prepara el Presupuesto Federal, gestiona la obtención y el reembolso de los préstamos del gobierno, controla la contabilidad gubernamental y el tesoro, y supervisa la gestión financiera de otros ministerios, departamentos y entes estatutarios.
 
-También es el ministerio rector del sistema financiero del país. A través de las agencias adscritas a él, el Ministerio de Finanzas supervisa las autoridades tributarias directas e indirectas, los mercados de capitales, el seguro de depósitos y la financiación del sector público. La Ley de Finanzas Públicas y Responsabilidad Fiscal de 2023 (Act 850) — la ley que ahora rige la gestión fiscal del ministerio — recoge este mandato en cuatro principios de gestión fiscal responsable: asegurar la estabilidad macroeconómica, lograr un equilibrio fiscal sostenible, mantener un nivel prudente de deuda y gestionar eficazmente los riesgos fiscales.
+También es el ministerio rector del sistema financiero del país. A través de las agencias adscritas a él, el Ministerio de Finanzas supervisa las autoridades tributarias directas e indirectas, los mercados de capitales, el seguro de depósitos y la financiación del sector público. La [Ley de Finanzas Públicas y Responsabilidad Fiscal de 2023](/es/economy/national-debt-fiscal-responsibility) (Act 850) — la ley que ahora rige la gestión fiscal del ministerio — recoge este mandato en cuatro principios de gestión fiscal responsable: asegurar la estabilidad macroeconómica, lograr un equilibrio fiscal sostenible, mantener un nivel prudente de deuda y gestionar eficazmente los riesgos fiscales.
 
 ## De un vistazo
 

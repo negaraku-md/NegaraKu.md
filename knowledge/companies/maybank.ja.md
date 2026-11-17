@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ Maybank の到達範囲は、純粋な国内銀行との最大の違いである
 
 ## Maybank の所有者は誰か
 
-Maybank は事実上、マレーシアの政府関連投資機関が過半を所有している。最大株主は、Permodalan Nasional Berhad（PNB）が運用するファンド——とりわけ国民ユニット・トラストである Amanah Saham Bumiputera（ASB）——と、国の退職貯蓄基金である従業員積立基金（EPF）である。報告される持分は開示のたびに変動する。2026年には、ASB が約30%、EPF が約12%を保有すると伝えられ、PNB 運用の保有分は合計で40%台前半に近いと報じられた。これらの比率は頻繁に変わるため、現在の株主名簿については常に最新の Bursa Malaysia への提出書類を確認すべきである。要するに、Maybank の利益と配当の大きな部分が、これらのファンドを通じてマレーシアの一般の預金者へと還流しているということである。
+Maybank は事実上、マレーシアの政府関連投資機関が過半を所有している。最大株主は、[Permodalan Nasional Berhad](/ja/economy/pnb)（PNB）が運用するファンド——とりわけ国民ユニット・トラストである Amanah Saham Bumiputera（ASB）——と、国の退職貯蓄基金である従業員積立基金（EPF）である。報告される持分は開示のたびに変動する。2026年には、ASB が約30%、EPF が約12%を保有すると伝えられ、PNB 運用の保有分は合計で40%台前半に近いと報じられた。これらの比率は頻繁に変わるため、現在の株主名簿については常に最新の Bursa Malaysia への提出書類を確認すべきである。要するに、Maybank の利益と配当の大きな部分が、これらのファンドを通じてマレーシアの一般の預金者へと還流しているということである。
 
 ## なぜ重要か
 

@@ -31,7 +31,7 @@ faq:
     a: "En vertu de la Loi sur la location-vente de 1967, un organisme de financement ne peut généralement reprendre le bien qu'après que le locataire a manqué deux mensualités successives et à l'issue d'un processus de préavis de 21 jours. Une fois que vous avez payé au moins 75% du prix comptant, l'organisme de financement a besoin d'une ordonnance judiciaire pour reprendre le bien."
 
 lang: "fr"
-sourceContentHash: "6a3487bee5c6466c"
+sourceContentHash: "f17ddde675b94f1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ Un prêt malaisien à taux variable n'est pas tarifé comme un seul chiffre que 
 
 **Taux que vous payez = Taux de base normalisé (SBR) + marge.**
 
-Le **Taux de base normalisé (SBR)** est le taux de référence commun que chaque banque utilise désormais pour les nouveaux prêts aux particuliers à taux variable, et il est lié *uniquement* au **Taux directeur au jour le jour (OPR)** fixé par le Comité de politique monétaire de Bank Negara Malaysia. Lorsque l'OPR bouge, le SBR bouge exactement du même montant — à la hausse comme à la baisse — sans aucune décision indépendante de la banque. C'est tout l'intérêt de la conception « normalisée » : la base est identique dans toutes les banques et pleinement transparente.
+Le **Taux de base normalisé (SBR)** est le taux de référence commun que chaque banque utilise désormais pour les nouveaux prêts aux particuliers à taux variable, et il est lié *uniquement* au **[Taux directeur au jour le jour](/fr/economy/opr-monetary-policy) (OPR)** fixé par le Comité de politique monétaire de Bank Negara Malaysia. Lorsque l'OPR bouge, le SBR bouge exactement du même montant — à la hausse comme à la baisse — sans aucune décision indépendante de la banque. C'est tout l'intérêt de la conception « normalisée » : la base est identique dans toutes les banques et pleinement transparente.
 
 La **marge** est l'endroit où les banques se font réellement concurrence. Elle regroupe le risque de crédit de l'emprunteur, le coût des fonds, la prime de liquidité, le coût opérationnel et la marge bénéficiaire en une seule marge cotée *au-dessus* du SBR. Ainsi, lorsque vous comparez deux offres de prêt au logement, vous comparez en réalité des marges — la base est la même dans toutes les banques un jour donné.
 

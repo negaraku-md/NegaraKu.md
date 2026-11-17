@@ -29,7 +29,7 @@ faq:
     a: "말레이시아 국가 투자 기금 국가투자공사(PNB)가 Sime Darby 회사들 전반에 걸쳐 주요 주주이며, Sime Darby Berhad가 인수한 UMW 지분의 매도자가 PNB였습니다. 정확한 지분율은 시간에 따라 변하므로 각 회사의 최신 Bursa Malaysia 공시와 대조하여 확인해야 합니다."
 
 lang: "ko"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Sime Darby는 식민지 시대의 무역·플랜테이션 상사 한 쌍에서 �
 
 그 계보는 깊습니다. Guthrie & Co는 1821년 싱가포르에서 알렉산더 거스리(Alexander Guthrie)에 의해 설립되었으며, 동남아시아 최초의 영국 무역회사로 평가됩니다. 1910년 10월 윌리엄 사임(William Sime)과 헨리 다비(Henry Darby)가 고무 무역 분야에서 Sime, Darby and Co.를 설립했습니다. (이 설립일들은 널리 보도되어 있으나 1차 유산 출처와 대조하여 확인해야 합니다.)
 
-2007년 1월 세 개의 말레이시아 플랜테이션 그룹 — Sime Darby, Kumpulan Guthrie, Golden Hope — 이 Synergy Drive라는 법인으로 합병되었고, 이는 Sime Darby Berhad로 사명이 변경되었습니다. 그것이 현대의 대기업을 만들었습니다. 그 계보의 이정표는 1981년으로, 국가투자공사(PNB)가 Guthrie의 지배권을 확보하여 이 업계 거인 중 하나를 말레이시아 통제 아래로 가져온 때입니다.
+2007년 1월 세 개의 말레이시아 플랜테이션 그룹 — Sime Darby, Kumpulan Guthrie, Golden Hope — 이 Synergy Drive라는 법인으로 합병되었고, 이는 Sime Darby Berhad로 사명이 변경되었습니다. 그것이 현대의 대기업을 만들었습니다. 그 계보의 이정표는 1981년으로, [국가투자공사](/ko/economy/pnb)(PNB)가 Guthrie의 지배권을 확보하여 이 업계 거인 중 하나를 말레이시아 통제 아래로 가져온 때입니다.
 
 ## 2017년 분할은 무엇을 만들었습니까?
 

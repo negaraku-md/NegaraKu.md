@@ -31,7 +31,7 @@ faq:
     a: "1992년 Telekom Malaysia의 국제·모바일 부문인 TM International Berhad로 설립되었습니다. Bursa Malaysia에 따로 상장된 뒤, 2009년 4월 2일 Axiata Group Berhad로 재브랜딩되었습니다."
 
 lang: "ko"
-sourceContentHash: "b02d2bf50fe3eddc"
+sourceContentHash: "5c72e45b82ec49a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,7 +85,7 @@ framework: profile
 
 ## 개관
 
-Axiata Group Berhad는 말레이시아에 본사를 둔 지역 통신·디지털 지주회사로, Bursa Malaysia에 종목코드 6888로 상장되어 있습니다. 자신의 이름으로 망을 직접 운영하기보다는, 아시아 전역의 운영 회사("opco")와 관계사의 지분을 보유하고 이를 하나의 포트폴리오로 조율합니다. 최대 주주는 말레이시아 정부의 국부펀드 Khazanah Nasional이며, 그 밖의 국가 연계 기관인 Permodalan Nasional Berhad와 Employees Provident Fund도 상위 보유자에 듭니다(공공 자료가 요약한 지분, 날짜 미상; 확인 주석 참조).
+Axiata Group Berhad는 말레이시아에 본사를 둔 지역 통신·디지털 지주회사로, Bursa Malaysia에 종목코드 6888로 상장되어 있습니다. 자신의 이름으로 망을 직접 운영하기보다는, 아시아 전역의 운영 회사("opco")와 관계사의 지분을 보유하고 이를 하나의 포트폴리오로 조율합니다. 최대 주주는 말레이시아 정부의 국부펀드 Khazanah Nasional이며, 그 밖의 국가 연계 기관인 [Permodalan Nasional Berhad](/ko/economy/pnb)와 Employees Provident Fund도 상위 보유자에 듭니다(공공 자료가 요약한 지분, 날짜 미상; 확인 주석 참조).
 
 이 그룹의 도달 범위는 말레이시아, 인도네시아, 스리랑카, 방글라데시, 캄보디아에 걸치며, 통신탑 인프라 사업 edotco와 Boost 핀테크 플랫폼, ADA 데이터·마케팅 회사 같은 디지털 사업부를 함께 둡니다.
 

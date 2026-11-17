@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo, công chức và bất kỳ ai cần hiểu cách ngân sách liên bang được soạn thảo, tranh luận và phê duyệt."
 
 lang: "vi"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Chính ở đây phần lớn các quyết định thực sự được đưa ra
 
 Nội quy 65 nói rõ: Dự toán Chi tiêu phải được trình lên Bàn của Viện **trước khi** Dự luật Cấp phát được đưa vào phiên họp. Bài phát biểu ngân sách đi kèm tài liệu, chứ không thay thế nó.
 
-Public Finance and Fiscal Responsibility Act 2023 [Act 850] bổ sung một lớp tài liệu bắt buộc. Bộ trưởng phải trình **báo cáo tổng quan kinh tế** (mục 32) và **báo cáo tổng quan tài khóa** (mục 33) cùng với bản dự toán hạng thu và chi tiêu.
+[Public Finance and Fiscal Responsibility Act 2023](/vi/economy/national-debt-fiscal-responsibility) [Act 850] bổ sung một lớp tài liệu bắt buộc. Bộ trưởng phải trình **báo cáo tổng quan kinh tế** (mục 32) và **báo cáo tổng quan tài khóa** (mục 33) cùng với bản dự toán hạng thu và chi tiêu.
 
 Dự toán hạng thu phải cho thấy số thu thực tế của năm trước, dự toán đã điều chỉnh của năm hiện tại và dự toán của năm tiếp theo (mục 34). Dự toán chi tiêu phải trình bày các chương trình và hoạt động, các dự án phát triển cùng hiệu quả chương trình (mục 35).
 

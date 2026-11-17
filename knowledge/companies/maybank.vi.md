@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 
 status: "published"
 aiAssisted: true
@@ -120,7 +120,7 @@ Tầm với của Maybank là điều phân biệt nó nhiều nhất với mộ
 
 ## Ai sở hữu Maybank?
 
-Trên thực tế, Maybank phần lớn do các định chế đầu tư liên kết với chính phủ của Malaysia sở hữu. Các cổ đông lớn nhất của nó là các quỹ do Permodalan Nasional Berhad (PNB) quản lý — trên hết là Amanah Saham Bumiputera (ASB), quỹ tín thác đơn vị quốc gia — cùng với Quỹ Tiết kiệm Nhân viên (EPF), quỹ tiết kiệm hưu trí của đất nước. Tỷ lệ nắm giữ được báo cáo thay đổi theo mỗi lần công bố: năm 2026, ASB được nêu là nắm giữ khoảng 30% và EPF khoảng 12%, với tổng mức nắm giữ do PNB quản lý được báo cáo gần mức đầu 40% tính theo phần trăm. Những tỷ lệ này thay đổi thường xuyên, vì vậy hãy luôn kiểm tra các công bố mới nhất của Bursa Malaysia để biết danh sách cổ đông hiện hành. Kết quả là một phần lớn lợi nhuận và cổ tức của Maybank chảy ngược về những người gửi tiết kiệm bình thường của Malaysia thông qua các quỹ này.
+Trên thực tế, Maybank phần lớn do các định chế đầu tư liên kết với chính phủ của Malaysia sở hữu. Các cổ đông lớn nhất của nó là các quỹ do [Permodalan Nasional Berhad](/vi/economy/pnb) (PNB) quản lý — trên hết là Amanah Saham Bumiputera (ASB), quỹ tín thác đơn vị quốc gia — cùng với Quỹ Tiết kiệm Nhân viên (EPF), quỹ tiết kiệm hưu trí của đất nước. Tỷ lệ nắm giữ được báo cáo thay đổi theo mỗi lần công bố: năm 2026, ASB được nêu là nắm giữ khoảng 30% và EPF khoảng 12%, với tổng mức nắm giữ do PNB quản lý được báo cáo gần mức đầu 40% tính theo phần trăm. Những tỷ lệ này thay đổi thường xuyên, vì vậy hãy luôn kiểm tra các công bố mới nhất của Bursa Malaysia để biết danh sách cổ đông hiện hành. Kết quả là một phần lớn lợi nhuận và cổ tức của Maybank chảy ngược về những người gửi tiết kiệm bình thường của Malaysia thông qua các quỹ này.
 
 ## Vì sao điều này quan trọng
 

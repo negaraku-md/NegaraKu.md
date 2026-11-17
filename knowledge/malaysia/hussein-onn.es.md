@@ -28,7 +28,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen una visión gener
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "df191be2c335b5e8"
+sourceContentHash: "1b9f3cd69da757d3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -139,7 +139,7 @@ programa a largo plazo destinado a reducir la pobreza y reestructurar la socieda
 la función económica ya no se identificara con la raza—.
 
 Varias instituciones duraderas datan de su mandato. Promovió la formación
-de **Permodalan Nasional Berhad (1978)** y, en 1981, lanzó el **Fondo Fiduciario
+de **[Permodalan Nasional Berhad](/es/economy/pnb) (1978)** y, en 1981, lanzó el **Fondo Fiduciario
 Nacional (Amanah Saham Nasional)** para ampliar la propiedad accionaria bumiputera.
 También fundó **PEMADAM** contra el abuso de drogas en 1976 y fomentó el
 esquema de vigilancia vecinal **Rukun Tetangga**. Abogado de formación, fue

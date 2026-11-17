@@ -119,7 +119,7 @@ Maybank's reach is what most distinguishes it from a purely domestic bank. It op
 
 ## Who owns Maybank?
 
-Maybank is majority-owned, in effect, by Malaysia's government-linked investment institutions. Its largest shareholders are funds managed by Permodalan Nasional Berhad (PNB) — above all Amanah Saham Bumiputera (ASB), the national unit trust — together with the Employees Provident Fund (EPF), the country's retirement savings fund. Reported stakes shift with every disclosure: in 2026, ASB was cited as holding roughly 30% and EPF around 12%, with PNB-managed holdings in aggregate reported near the low 40s in percentage terms. These proportions change frequently, so always check the latest Bursa Malaysia filings for the current register. The upshot is that a large share of Maybank's profits and dividends flows back to ordinary Malaysian savers through these funds.
+Maybank is majority-owned, in effect, by Malaysia's government-linked investment institutions. Its largest shareholders are funds managed by [Permodalan Nasional Berhad](/economy/pnb) (PNB) — above all Amanah Saham Bumiputera (ASB), the national unit trust — together with the Employees Provident Fund (EPF), the country's retirement savings fund. Reported stakes shift with every disclosure: in 2026, ASB was cited as holding roughly 30% and EPF around 12%, with PNB-managed holdings in aggregate reported near the low 40s in percentage terms. These proportions change frequently, so always check the latest Bursa Malaysia filings for the current register. The upshot is that a large share of Maybank's profits and dividends flows back to ordinary Malaysian savers through these funds.
 
 ## Why it matters
 

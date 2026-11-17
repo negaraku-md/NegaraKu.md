@@ -101,7 +101,7 @@ The three companies still share the Sime Darby heritage and a common major share
 
 The lineage runs deep. Guthrie & Co was founded in Singapore in 1821 by Alexander Guthrie, described as the first British trading company in South East Asia. In October 1910, William Sime and Henry Darby established Sime, Darby and Co. in the rubber trade. (These founding dates are widely reported but should be confirmed against a primary heritage source.)
 
-In January 2007 three Malaysian plantation groups — Sime Darby, Kumpulan Guthrie and Golden Hope — merged into a vehicle called Synergy Drive, which was renamed Sime Darby Berhad. That created the modern conglomerate. A milestone in that lineage came in 1981, when Permodalan Nasional Berhad (PNB) wrested control of Guthrie, bringing one of the industry's giants under Malaysian control.
+In January 2007 three Malaysian plantation groups — Sime Darby, Kumpulan Guthrie and Golden Hope — merged into a vehicle called Synergy Drive, which was renamed Sime Darby Berhad. That created the modern conglomerate. A milestone in that lineage came in 1981, when [Permodalan Nasional Berhad](/economy/pnb) (PNB) wrested control of Guthrie, bringing one of the industry's giants under Malaysian control.
 
 ## What did the 2017 demerger create?
 

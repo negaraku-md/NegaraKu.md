@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, pejabat pemerintah, dan siapa saja yang perlu memahami cara anggaran federal disusun, diperdebatkan, dan disahkan."
 
 lang: "id"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Peraturan Mesyuarat 65 jelas: Anggaran Belanja harus disampaikan di Meja
 Dewan **sebelum** Rancangan Undang-Undang Perbekalan dibawa ke dalam sidang.
 Pidato anggaran mengiringi dokumen, bukan menggantikannya.
 
-Akta Kewangan Awam dan Tanggungjawab Fiskal 2023 [Akta 850] menambah lapisan
+[Akta Kewangan Awam dan Tanggungjawab Fiskal 2023](/id/economy/national-debt-fiscal-responsibility) [Akta 850] menambah lapisan
 dokumen wajib. Menteri harus menyampaikan **laporan tinjauan ekonomi**
 (Pasal 32) dan **laporan tinjauan fiskal** (Pasal 33) bersama pernyataan
 anggaran pendapatan dan belanja.

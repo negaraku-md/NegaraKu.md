@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 공무원, 그리고 연방 예산이 어떻게 편성·토론·승인되는지 이해해야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ RM810억의 개발 지출도 거기에 없습니다. 이는 개발기금법 1966
 의사규칙 제65조는 명확합니다. 지출 추계는 공급 법안이 회의에 상정되기 **전에** 회의 탁자에
 제출되어야 합니다. 예산 연설은 문서를 대체하는 것이 아니라 문서에 동반됩니다.
 
-공공재정·재정책임법 2023(Public Finance and Fiscal Responsibility Act 2023) [Act 850]은
+[공공재정·재정책임법 2023](/ko/economy/national-debt-fiscal-responsibility)(Public Finance and Fiscal Responsibility Act 2023) [Act 850]은
 의무 문서 층을 추가합니다. 장관은 수입·지출 추계 명세와 함께 **경제 전망 보고서**(제32조)와
 **재정 전망 보고서**(제33조)를 제출해야 합니다.
 

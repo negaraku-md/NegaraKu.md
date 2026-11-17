@@ -32,7 +32,7 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) là hệ thống thanh toán tổng tức thời của Bank Negara Malaysia. Chứng khoán chính phủ được thanh toán qua nó trên cơ sở giao chứng khoán đổi tiền, nên tiền mặt và chứng khoán đổi chủ đồng thời."
 
 lang: "vi"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,4 +147,4 @@ Có ba con đường thực tế để vào:
 
 ## Tiếp theo
 
-Nếu bạn đang nghiên cứu một chứng khoán cụ thể, hãy bắt đầu với Bond Info Hub của BNM và BIX Malaysia để tra ra coupon, đáo hạn và bên phát hành của nó. Nếu bạn muốn có sự tiếp cận với tư cách một người tiết kiệm, hãy so sánh các quỹ tín thác đơn vị trái phiếu và sukuk và để ý đợt Sukuk Simpanan Rakyat tiếp theo, vốn được Bank Negara Malaysia công bố. Và nếu bạn đang cố hiểu lợi suất trái phiếu đang hướng về đâu, sợi chỉ cần theo là chính sách tiền tệ: Lãi suất Chính sách Qua đêm của BNM neo các lãi suất ngắn hạn, và lợi suất MGS di chuyển theo kỳ vọng về nó. Các con số như quy mô phát hành và mức lợi nhuận của sukuk bán lẻ thay đổi theo mỗi đợt chào bán — hãy luôn xác nhận các điều khoản hiện hành so với các nguồn chính thức của BNM và SC trước khi hành động.
+Nếu bạn đang nghiên cứu một chứng khoán cụ thể, hãy bắt đầu với Bond Info Hub của BNM và BIX Malaysia để tra ra coupon, đáo hạn và bên phát hành của nó. Nếu bạn muốn có sự tiếp cận với tư cách một người tiết kiệm, hãy so sánh các quỹ tín thác đơn vị trái phiếu và sukuk và để ý đợt Sukuk Simpanan Rakyat tiếp theo, vốn được Bank Negara Malaysia công bố. Và nếu bạn đang cố hiểu lợi suất trái phiếu đang hướng về đâu, sợi chỉ cần theo là chính sách tiền tệ: [Lãi suất Chính sách Qua đêm](/vi/economy/opr-monetary-policy) của BNM neo các lãi suất ngắn hạn, và lợi suất MGS di chuyển theo kỳ vọng về nó. Các con số như quy mô phát hành và mức lợi nhuận của sukuk bán lẻ thay đổi theo mỗi đợt chào bán — hãy luôn xác nhận các điều khoản hiện hành so với các nguồn chính thức của BNM và SC trước khi hành động.

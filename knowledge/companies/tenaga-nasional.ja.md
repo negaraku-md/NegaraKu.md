@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "12e743d05ab159ac"
+sourceContentHash: "d5616d09c699df65"
 
 status: "published"
 aiAssisted: true
@@ -161,7 +161,7 @@ NETRは六つの転換レバー——エネルギー効率、再生可能エネ�
 
 ブルサ・マレーシア（Bursa Malaysia）のメインボード（会社登記番号199001009294 / 200866-W）に上場しているものの、TNBは依然として政府関連企業（GLC）であり、株式の過半数を政府系の基金・機関が保有し、同社を国家のエネルギー政策と整合させている。
 
-株主構成は2025年末に変化した。The Edge Malaysiaによると、2025年12月初旬、Khazanah Nasionalは1億3,565万株（評価額RM16億9,000万）を売却して直接保有分を減らし、その結果、直接・間接を合わせた保有比率は約18.05%となった。これにより、従業員積立基金（Kumpulan Wang Simpanan Pekerja、KWSP）が12億4,000万株、比率にして21.25%を保有する最大株主となり、Permodalan Nasional Berhad（PNB）も主要株主の一角を占めている。
+株主構成は2025年末に変化した。The Edge Malaysiaによると、2025年12月初旬、Khazanah Nasionalは1億3,565万株（評価額RM16億9,000万）を売却して直接保有分を減らし、その結果、直接・間接を合わせた保有比率は約18.05%となった。これにより、従業員積立基金（Kumpulan Wang Simpanan Pekerja、KWSP）が12億4,000万株、比率にして21.25%を保有する最大株主となり、[Permodalan Nasional Berhad](/ja/economy/pnb)（PNB）も主要株主の一角を占めている。
 
 | 主要株主 | 推定保有比率 | 出典 |
 |---|---|---|

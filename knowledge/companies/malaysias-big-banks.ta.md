@@ -31,7 +31,7 @@ faq:
     a: "CIMB தன்னை மலேசியா, Indonesia, Singapore மற்றும் Thailand உள்ளிட்ட சந்தைகள் முழுவதும் இயங்கும் ASEAN-மையக் குழுமமாக விவரிக்கிறது. RHB ஏழு பிராந்திய சந்தைகளில் இயங்குகிறது. Maybank மூன்று தாய்ச் சந்தைகளை — மலேசியா, Singapore மற்றும் Indonesia — உள்ளடக்குகிறது, மேலும் ASEAN முழுவதும் மற்றும் முக்கிய உலகளாவிய நிதி மையங்களில் செயல்பாடுகளையும் கொண்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ framework: profile
 
 | குழுமம் | மிகப் பெரிய / கட்டுப்படுத்தும் பங்குதாரர் | உரிமையாளர் தன்மை |
 |---|---|---|
-| Maybank | Permodalan Nasional Berhad (PNB) மற்றும் அதன் Amanah Saham நிதிகள்; EPF-ம் ஒரு முதன்மைப் பங்குதாரர் | அரசாங்கத் தொடர்பு (GLIC) |
+| Maybank | [Permodalan Nasional Berhad](/ta/economy/pnb) (PNB) மற்றும் அதன் Amanah Saham நிதிகள்; EPF-ம் ஒரு முதன்மைப் பங்குதாரர் | அரசாங்கத் தொடர்பு (GLIC) |
 | CIMB | Khazanah Nasional, EPF, KWAP மற்றும் PNB உடன் | அரசாங்கத் தொடர்பு (GLIC) |
 | RHB Bank | ஊழியர் சேமநல நிதி (Employees Provident Fund, EPF) | அரசாங்கத் தொடர்பு (GLIC) |
 | Public Bank | Teh குடும்பம், Consolidated Teh Holdings வழியாக | நிறுவனர் குடும்பம் |

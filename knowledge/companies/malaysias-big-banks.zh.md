@@ -31,7 +31,7 @@ faq:
     a: "联昌国际自称为一家聚焦东盟的集团，业务遍及马来西亚、印尼、新加坡与泰国等市场。兴业银行在七个区域市场经营。马来亚银行覆盖三个本土市场——马来西亚、新加坡与印尼——并在整个东盟及主要全球金融中心开展业务。"
 
 lang: "zh"
-sourceContentHash: "8ccc31809a8d6c39"
+sourceContentHash: "14c6f8fee1c877fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ framework: profile
 
 | 集团 | 最大／控股股东 | 所有权性质 |
 |---|---|---|
-| 马来亚银行 | 国民投资机构（PNB）及其Amanah Saham系列基金；雇员公积金局（EPF）亦为主要股东 | 政府关联（GLIC） |
+| 马来亚银行 | [国民投资机构](/zh/economy/pnb)（PNB）及其Amanah Saham系列基金；雇员公积金局（EPF）亦为主要股东 | 政府关联（GLIC） |
 | 联昌国际 | 国库控股（Khazanah Nasional），另有EPF、KWAP与PNB | 政府关联（GLIC） |
 | 兴业银行 | 雇员公积金局（EPF） | 政府关联（GLIC） |
 | 大众银行 | 郑氏家族（Teh family），透过Consolidated Teh Holdings | 创办家族 |

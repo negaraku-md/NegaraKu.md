@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a3487bee5c6466c"
+sourceContentHash: "f17ddde675b94f1b"
 
 status: "published"
 aiAssisted: true
@@ -104,7 +104,7 @@ framework: explainer
 
 **あなたが支払う金利 = 標準基準金利（SBR）＋ スプレッド。**
 
-**標準基準金利（Standardised Base Rate、SBR）** は、いまやすべての銀行が新規の小売変動金利ローンに用いている共通の参照金利であり、マレーシア国立銀行（Bank Negara Malaysia）の金融政策委員会が設定する**翌日物政策金利（Overnight Policy Rate、OPR）**にのみ連動する。OPRが動けば、SBRも——上昇でも下降でも——まったく同じ幅だけ動き、銀行による独立した判断は介在しない。これこそが「標準化」設計の要点であり、基準はすべての銀行で同一かつ完全に透明である。
+**標準基準金利（Standardised Base Rate、SBR）** は、いまやすべての銀行が新規の小売変動金利ローンに用いている共通の参照金利であり、マレーシア国立銀行（Bank Negara Malaysia）の金融政策委員会が設定する**[翌日物政策金利](/ja/economy/opr-monetary-policy)（Overnight Policy Rate、OPR）**にのみ連動する。OPRが動けば、SBRも——上昇でも下降でも——まったく同じ幅だけ動き、銀行による独立した判断は介在しない。これこそが「標準化」設計の要点であり、基準はすべての銀行で同一かつ完全に透明である。
 
 **スプレッド**こそ、銀行が実際に競争する部分である。それは借主の信用リスク、資金調達コスト、流動性プレミアム、運営コスト、利益率を束ね、SBRの*上に*上乗せする単一のマージンとして提示される。したがって、2つの住宅ローンの提案を比較するとき、あなたが実際に比較しているのはスプレッドである——基準はどの銀行でも、その日その日で同一だからだ。
 

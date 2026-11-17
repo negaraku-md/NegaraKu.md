@@ -23,7 +23,7 @@ appliesTo: "学生、政策アナリスト、記者、政府職員、そして�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8b64cd44c511fc05"
+sourceContentHash: "d3baee598a87c0a7"
 
 status: "published"
 aiAssisted: true
@@ -140,7 +140,7 @@ Kumpulan Wang Pembangunan 1966）s.4(3)に基づく別個の決議動議によ�
 **前**に、議事卓に提出されなければならない。予算演説は文書に付随するもので
 あり、それに代わるものではない。
 
-2023年公共財政・財政責任法（Akta Kewangan Awam dan Tanggungjawab Fiskal
+[2023年公共財政・財政責任法](/ja/economy/national-debt-fiscal-responsibility)（Akta Kewangan Awam dan Tanggungjawab Fiskal
 2023、Akta 850）は、これに義務的な文書の層を追加している。大臣は、歳入及び
 歳出の見積書とともに、**経済展望報告**（s.32）及び**財政展望報告**（s.33）
 を提出しなければならない。

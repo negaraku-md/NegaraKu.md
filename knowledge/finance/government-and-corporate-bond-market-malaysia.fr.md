@@ -32,7 +32,7 @@ faq:
     a: "RENTAS (Real-Time Electronic Transfer of Funds and Securities) est le système de règlement brut en temps réel de Bank Negara Malaysia. Les titres d'État s'y règlent sur la base de la livraison contre paiement, de sorte que l'argent et les titres changent de mains simultanément."
 
 lang: "fr"
-sourceContentHash: "9da4da3090cd0bd6"
+sourceContentHash: "b13ff93a5ce03e5c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,4 +147,4 @@ Pour la plupart des gens, le sukuk de détail est la voie la plus proche de la d
 
 ## Et ensuite
 
-Si vous étudiez un titre précis, commencez par le Bond Info Hub du BNM et par BIX Malaysia pour en extraire le coupon, l'échéance et l'émetteur. Si vous souhaitez une exposition en tant qu'épargnant, comparez les fonds communs de placement d'obligations et de sukuk et guettez la prochaine offre de Sukuk Simpanan Rakyat, annoncée par Bank Negara Malaysia. Et si vous cherchez à comprendre où se dirigent les rendements obligataires, le fil à suivre est la politique monétaire : le Taux directeur au jour le jour (OPR) du BNM ancre les taux à court terme, et les rendements des MGS évoluent avec les anticipations à son sujet. Des chiffres comme les tailles d'émission et le taux de bénéfice du sukuk de détail changent à chaque offre — confirmez toujours les conditions en vigueur auprès des sources officielles du BNM et de la SC avant d'agir.
+Si vous étudiez un titre précis, commencez par le Bond Info Hub du BNM et par BIX Malaysia pour en extraire le coupon, l'échéance et l'émetteur. Si vous souhaitez une exposition en tant qu'épargnant, comparez les fonds communs de placement d'obligations et de sukuk et guettez la prochaine offre de Sukuk Simpanan Rakyat, annoncée par Bank Negara Malaysia. Et si vous cherchez à comprendre où se dirigent les rendements obligataires, le fil à suivre est la politique monétaire : le [Taux directeur au jour le jour](/fr/economy/opr-monetary-policy) (OPR) du BNM ancre les taux à court terme, et les rendements des MGS évoluent avec les anticipations à son sujet. Des chiffres comme les tailles d'émission et le taux de bénéfice du sukuk de détail changent à chaque offre — confirmez toujours les conditions en vigueur auprès des sources officielles du BNM et de la SC avant d'agir.

@@ -31,7 +31,7 @@ faq:
     a: "Maybank2u는 말레이시아 개인 고객을 위한 Maybank의 온라인·모바일 뱅킹 브랜드로, 계좌 조회, 이체, 공과금 납부 등 일상적 은행 업무를 아우릅니다. 이 나라에서 가장 널리 쓰이는 디지털 뱅킹 서비스의 하나입니다."
 
 lang: "ko"
-sourceContentHash: "270402a670181414"
+sourceContentHash: "332a316cb1470568"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Maybank의 도달 범위야말로 그것을 순수 국내 은행과 가장 크�
 
 ## Maybank는 누가 소유하는가?
 
-Maybank는 사실상 말레이시아의 정부 연계 투자 기관들이 과반을 소유합니다. 최대 주주는 Permodalan Nasional Berhad(PNB)가 운용하는 기금 — 무엇보다 국민 단위신탁인 Amanah Saham Bumiputera(ASB) — 와, 이 나라의 퇴직 저축 기금인 Employees Provident Fund(EPF)입니다. 보고되는 지분은 공시마다 바뀝니다: 2026년에 ASB는 약 30%, EPF는 약 12%를 보유한 것으로 인용되었고, PNB 운용 보유분은 합산하여 40%대 초반으로 보고되었습니다. 이 비율은 자주 바뀌므로, 현재 주주명부는 항상 최신 Bursa Malaysia 공시를 확인하십시오. 요컨대 Maybank 이익과 배당의 큰 몫이 이 기금들을 통해 평범한 말레이시아 저축자에게 되돌아갑니다.
+Maybank는 사실상 말레이시아의 정부 연계 투자 기관들이 과반을 소유합니다. 최대 주주는 [Permodalan Nasional Berhad](/ko/economy/pnb)(PNB)가 운용하는 기금 — 무엇보다 국민 단위신탁인 Amanah Saham Bumiputera(ASB) — 와, 이 나라의 퇴직 저축 기금인 Employees Provident Fund(EPF)입니다. 보고되는 지분은 공시마다 바뀝니다: 2026년에 ASB는 약 30%, EPF는 약 12%를 보유한 것으로 인용되었고, PNB 운용 보유분은 합산하여 40%대 초반으로 보고되었습니다. 이 비율은 자주 바뀌므로, 현재 주주명부는 항상 최신 Bursa Malaysia 공시를 확인하십시오. 요컨대 Maybank 이익과 배당의 큰 몫이 이 기금들을 통해 평범한 말레이시아 저축자에게 되돌아갑니다.
 
 ## 왜 중요한가
 

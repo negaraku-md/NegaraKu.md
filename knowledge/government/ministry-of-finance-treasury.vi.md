@@ -39,7 +39,7 @@ faq:
     a: "Dự luật Cấp phát là một phép thử về sự tín nhiệm tài chính đối với chính phủ. Vì nó là dự luật ngân sách, nó phải bắt đầu tại Dewan Rakyat và chỉ có thể do một Bộ trưởng đưa ra. Nếu Dewan Rakyat bác bỏ khoản cấp phát của chính phủ, điều đó thường được diễn giải là mất sự tín nhiệm của đa số — xem quyền lực tài chính của Dewan Rakyat theo Điều 67 và 68 của Hiến pháp Liên bang."
 
 lang: "vi"
-sourceContentHash: "669255c561437b72"
+sourceContentHash: "82b528da8ca4159d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Trang này giải thích điều mà bộ đó thực sự làm: cách Ngân sá
 
 Bộ Tài chính chịu trách nhiệm về cả hai phía của bảng cân đối quốc gia: nguồn thu đi vào và chi tiêu đi ra. Nó soạn thảo chính sách tài khóa, soạn Ngân sách Liên bang, quản lý việc huy động và trả nợ của chính phủ, kiểm soát kế toán và kho bạc của chính phủ, cùng giám sát việc quản lý tài chính của các bộ, cục và cơ quan luật định khác.
 
-Nó cũng là bộ dẫn dắt hệ thống tài chính của quốc gia. Qua các cơ quan dưới nó, Bộ Tài chính giám sát các cơ quan thuế trực thu và gián thu, thị trường vốn, bảo hiểm tiền gửi, và việc tài trợ khu vực công. Luật Tài chính Công và Trách nhiệm Tài khóa (Public Finance and Fiscal Responsibility Act 2023, Act 850) — luật hiện nay ràng buộc việc quản lý tài khóa của bộ — gói nhiệm vụ này trong bốn nguyên tắc quản lý tài khóa có trách nhiệm: bảo đảm sự ổn định kinh tế vĩ mô, đạt được sự cân bằng tài khóa bền vững, duy trì mức nợ thận trọng, và quản lý rủi ro tài khóa một cách hiệu quả.
+Nó cũng là bộ dẫn dắt hệ thống tài chính của quốc gia. Qua các cơ quan dưới nó, Bộ Tài chính giám sát các cơ quan thuế trực thu và gián thu, thị trường vốn, bảo hiểm tiền gửi, và việc tài trợ khu vực công. [Luật Tài chính Công và Trách nhiệm Tài khóa](/vi/economy/national-debt-fiscal-responsibility) (Public Finance and Fiscal Responsibility Act 2023, Act 850) — luật hiện nay ràng buộc việc quản lý tài khóa của bộ — gói nhiệm vụ này trong bốn nguyên tắc quản lý tài khóa có trách nhiệm: bảo đảm sự ổn định kinh tế vĩ mô, đạt được sự cân bằng tài khóa bền vững, duy trì mức nợ thận trọng, và quản lý rủi ro tài khóa một cách hiệu quả.
 
 ## Nhìn thoáng qua
 

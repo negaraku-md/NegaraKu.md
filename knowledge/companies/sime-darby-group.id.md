@@ -29,7 +29,7 @@ faq:
     a: "Dana investasi negara Malaysia, Permodalan Nasional Berhad (PNB), merupakan pemegang saham utama di seluruh perusahaan Sime Darby, dan PNB adalah penjual kepemilikan UMW yang diakuisisi Sime Darby Berhad. Persentase kepemilikan saham yang tepat berubah dari waktu ke waktu dan perlu diperiksa terhadap pengajuan Bursa Malaysia terkini setiap perusahaan."
 
 lang: "id"
-sourceContentHash: "b6cfb2928f3fa4fa"
+sourceContentHash: "0cfe61fcdd1fea1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Ketiga perusahaan itu masih berbagi warisan Sime Darby dan seorang pemegang saha
 
 Silsilahnya berakar jauh. Guthrie & Co didirikan di Singapura pada 1821 oleh Alexander Guthrie, yang digambarkan sebagai perusahaan dagang Britania pertama di Asia Tenggara. Pada Oktober 1910, William Sime dan Henry Darby mendirikan Sime, Darby and Co. dalam perdagangan karet. (Tanggal pendirian ini dilaporkan secara luas tetapi perlu dipastikan terhadap sumber warisan primer.)
 
-Pada Januari 2007, tiga kelompok perkebunan Malaysia — Sime Darby, Kumpulan Guthrie, dan Golden Hope — bergabung menjadi sebuah wahana bernama Synergy Drive, yang kemudian dinamai ulang menjadi Sime Darby Berhad. Ini melahirkan konglomerat modern tersebut. Satu tonggak dalam silsilah itu terjadi pada 1981, ketika Permodalan Nasional Berhad (PNB) merebut kendali Guthrie, membawa salah satu raksasa industri ini ke bawah kendali Malaysia.
+Pada Januari 2007, tiga kelompok perkebunan Malaysia — Sime Darby, Kumpulan Guthrie, dan Golden Hope — bergabung menjadi sebuah wahana bernama Synergy Drive, yang kemudian dinamai ulang menjadi Sime Darby Berhad. Ini melahirkan konglomerat modern tersebut. Satu tonggak dalam silsilah itu terjadi pada 1981, ketika [Permodalan Nasional Berhad](/id/economy/pnb) (PNB) merebut kendali Guthrie, membawa salah satu raksasa industri ini ke bawah kendali Malaysia.
 
 ## Apa yang tercipta dari pemisahan 2017?
 
