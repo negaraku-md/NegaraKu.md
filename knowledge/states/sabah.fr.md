@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs recherchant un profil factuel de Sabah — sa géographie, son économie et son gouvernement — et un compte rendu neutre de sa position constitutionnelle en vertu de l'Accord de la Malaisie de 1963."
 
 lang: "fr"
-sourceContentHash: "d05db2b4db752c79"
+sourceContentHash: "a41acdd421e03bda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ sud de la ceinture des typhons. Son point de repère dominant est le mont Kinaba
 un massif granitique de 4 095 mètres qui est la plus haute montagne entre l'Himalaya
 et la Nouvelle-Guinée.
 
-La montagne se situe à l'intérieur du Parc Kinabalu, une aire protégée de 75,370
+La montagne se situe à l'intérieur du [Parc Kinabalu](/fr/tourism/mount-kinabalu-and-kinabalu-park), une aire protégée de 75,370
 hectares gérée par Sabah Parks. En 2000, il est devenu le premier site du patrimoine
 mondial de l'UNESCO de la Malaisie, inscrit pour une concentration exceptionnelle de
 vie végétale — les habitats du parc s'étendent de la forêt tropicale de basse

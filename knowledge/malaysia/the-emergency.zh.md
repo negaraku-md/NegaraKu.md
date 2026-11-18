@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -111,7 +111,7 @@ framework: history-culture
 
 正规军的扩充速度则较为缓慢。马来西亚军队（Malaysian Army）自身的历史记录显示，紧急状态宣布时，马来军团（Malay Regiment）仅有三个营，到1956年增至七个营，到1961年则增至十一个营。英联邦部队与马来亚部队并肩作战，而由马来人、华人与印度人社群组成的本地招募民防军（Home Guard）则负责守卫村庄、种植园与重新安置区。
 
-接替真特出任最高专员的亨利·葛尼爵士（Sir Henry Gurney），于1951年10月在前往福隆港（Fraser's Hill）途中遭伏击身亡。国家档案局记录，这起暗杀事件促使政府的应对行动急剧升级。
+接替真特出任最高专员的亨利·葛尼爵士（Sir Henry Gurney），于1951年10月在前往[福隆港](/zh/tourism/frasers-hill)（Fraser's Hill）途中遭伏击身亡。国家档案局记录，这起暗杀事件促使政府的应对行动急剧升级。
 
 ## 布里格斯计划与新村
 

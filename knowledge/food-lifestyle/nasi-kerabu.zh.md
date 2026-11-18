@@ -35,7 +35,7 @@ faq:
     a: "两者是近亲：都是把米饭配上切得细碎的生鲜香草与蔬菜沙拉。Nasi kerabu 的决定性特征是染色的米饭——最著名的便是用蝶豆花染成的蓝色——连同 budu、solok lada 等东海岸佐料。Nasi ulam 则通常配白饭或只经轻微调味的米饭。实际上两者的界线模糊，资料来源也形容这两道菜在构成上相似。"
 
 lang: "zh"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ dishFacts:
 ## 蛋白质与配菜
 
 米饭周围坐着一众配角，能把一盘朴素的饭变成一场盛宴。蛋白质通常是炸或烤的：炸鸡或炸
-鱼，或是——最受推崇的——*ayam percik*，以甜辣的椰浆酱腌烤的鸡。据 Tourism Malaysia
+鱼，或是——最受推崇的——*ayam percik*，以甜辣的椰浆酱腌烤的鸡。据 [Tourism Malaysia](/zh/tourism/tourism-malaysia-and-tourism-agencies)
 的说法，吉兰丹式的 ayam percik 比别处的版本更甜。
 
 经典配菜与主菜同样重要。*Solok lada*——酿入椰丝（有时还有鱼）的青辣椒——被形容为这道

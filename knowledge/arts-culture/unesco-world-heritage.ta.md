@@ -30,7 +30,7 @@ faq:
     a: "ஆம். உலக பாரம்பரிய மையம் மலேசியாவின் தற்காலிகப் பட்டியலில் (Tentative List) மூன்று தளங்களைப் பதிவு செய்துள்ளது: தீபகற்ப மலேசியாவின் தேசியப் பூங்கா (Taman Negara), Gombak Selangor Quartz Ridge, மற்றும் Sungai Buloh Leprosarium. ஒரு தற்காலிகப் பட்டியலிடல் என்பது பரிந்துரைக்கும் நோக்கத்தின் அறிவிப்பே தவிர, பட்டியலில் சேர்த்தல் அல்ல."
 
 lang: ta
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ UNESCO பத்து தேர்வு அளவுகோல்களின�
 
 | தளம் | ஆண்டு | வகை | அளவுகோல்கள் |
 | --- | --- | --- | --- |
-| Gunung Mulu தேசியப் பூங்கா | 2000 | இயற்கை | (vii)(viii)(ix)(x) |
-| Kinabalu Park | 2000 | இயற்கை | (ix)(x) |
+| [Gunung Mulu தேசியப் பூங்கா](/ta/tourism/gunung-mulu-national-park) | 2000 | இயற்கை | (vii)(viii)(ix)(x) |
+| [Kinabalu Park](/ta/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | இயற்கை | (ix)(x) |
 | Melaka மற்றும் George Town | 2008 | கலாசாரம் | (ii)(iii)(iv) |
 | Lenggong Valley-இன் தொல்லியல் பாரம்பரியம் | 2012 | கலாசாரம் | (iii)(iv) |
 | Niah தேசியப் பூங்காவின் குகைத் தொகுதி | 2024 | கலாசாரம் | (iii)(v) |
@@ -139,4 +139,4 @@ Kinabalu Park (ix) மற்றும் (x)-ஐ மட்டுமே பெற
 
 ## அடுத்தது என்ன
 
-மலேசியாவின் தற்காலிகப் பட்டியலில் மூன்று தளங்கள் உள்ளன: Taman Negara, Gombak Selangor Quartz Ridge, மற்றும் Sungai Buloh Leprosarium. ஒரு தற்காலிகப் பட்டியலிடல் என்பது பரிந்துரைக்கும் நோக்கம் மட்டுமே — ஆனால் இரண்டு ஆண்டுகளில் இரண்டு பட்டியலிடல்கள் நடந்துள்ள நிலையில், ஆறு என்ற எண்ணிக்கை நீண்ட காலம் ஆறாகவே இருக்க வாய்ப்பில்லை.
+மலேசியாவின் தற்காலிகப் பட்டியலில் மூன்று தளங்கள் உள்ளன: [Taman Negara](/ta/tourism/taman-negara-ecotourism-guide), Gombak Selangor Quartz Ridge, மற்றும் Sungai Buloh Leprosarium. ஒரு தற்காலிகப் பட்டியலிடல் என்பது பரிந்துரைக்கும் நோக்கம் மட்டுமே — ஆனால் இரண்டு ஆண்டுகளில் இரண்டு பட்டியலிடல்கள் நடந்துள்ள நிலையில், ஆறு என்ற எண்ணிக்கை நீண்ட காலம் ஆறாகவே இருக்க வாய்ப்பில்லை.

@@ -36,7 +36,7 @@ faq:
     a: "Les deux existent. Des lieux comme Annah Rais, près de Kuching, sont des communautés bidayuh de longhouse vivantes où des familles résident encore, tandis que le Sarawak Cultural Village, près de Santubong, est un musée vivant construit à cet effet. Visiter une longhouse habitée s'organise mieux à l'avance et souvent par l'intermédiaire d'un guide capable d'interpréter la visite avec respect."
 
 lang: "fr"
-sourceContentHash: "484f5ee1df5a2a08"
+sourceContentHash: "e445b9a3b39697bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ framework: explainer
 
 Vous pouvez prendre l'avion de Kuala Lumpur à Kuching en moins de deux heures, ne jamais quitter votre propre pays et recevoir malgré tout un cachet d'immigration à l'autre bout. Cette surprise dans le hall des arrivées est la seule chose la plus importante à comprendre au sujet de Sarawak : c'est un État malaisien qui gère sa propre frontière.
 
-Sarawak est le plus vaste des États de Malaisie par la superficie, occupant le nord-ouest de Bornéo. C'est un lieu de forêt tropicale ancestrale, abritant les plus grandes salles de grottes de la planète et des communautés qui vivent encore en commun dans des longhouses. Ce guide couvre ce dont vous avez besoin pour entrer, comment établir votre base à Kuching, comment atteindre les grottes du patrimoine mondial de Gunung Mulu et comment visiter une longhouse sans en faire un spectacle.
+Sarawak est le plus vaste des États de Malaisie par la superficie, occupant le nord-ouest de Bornéo. C'est un lieu de forêt tropicale ancestrale, abritant les plus grandes salles de grottes de la planète et des communautés qui vivent encore en commun dans des longhouses. Ce guide couvre ce dont vous avez besoin pour entrer, comment établir votre base à Kuching, comment atteindre les grottes du patrimoine mondial de [Gunung Mulu](/fr/tourism/gunung-mulu-national-park) et comment visiter une longhouse sans en faire un spectacle.
 
 ## Pourquoi Sarawak a-t-il sa propre immigration ?
 

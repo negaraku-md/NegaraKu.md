@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "id"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -202,7 +202,7 @@ Minuman ini juga telah diciptakan ulang secara kelas atas. Pada 2025, sebuah rac
 dijernihkan bernama **bandung pandan spritz** — dibangun di atas sirap bandung yang dijernihkan
 dengan serbat kelapa-leci, pandan, dan jeruk — memenangi Signature Mocktail Championship yang
 digelar untuk Visit Malaysia 2026, diselenggarakan oleh Malaysian Association of Hotels dan
-Mixology Alliance dari MFBEA dengan dukungan Tourism Malaysia, serta dipromosikan di pers sebagai
+Mixology Alliance dari MFBEA dengan dukungan [Tourism Malaysia](/id/tourism/tourism-malaysia-and-tourism-agencies), serta dipromosikan di pers sebagai
 mocktail nasional. (Judul-judul berita menyebutnya "resmi" atau "nasional," sementara rincian dalam
 laporannya sendiri menggambarkannya sebagai pemenang kejuaraan, jadi kerangka kejuaraan adalah yang
 lebih aman.) Sang pencipta memilih menyajikannya dengan *kuih lapis*, yang lapisan-lapisannya yang

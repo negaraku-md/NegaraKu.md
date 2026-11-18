@@ -35,7 +35,7 @@ faq:
     a: "Les deux sont de proches cousins : tous deux associent le riz à une salade d'herbes et de légumes crus finement émincés. Le trait déterminant du nasi kerabu est le riz coloré — avant tout le bleu teinté à la fleur de pois bleu — ainsi que ses condiments de la côte est comme le budu et le solok lada. Le nasi ulam se sert d'ordinaire avec un riz nature ou à peine aromatisé. En pratique, la frontière entre les deux est floue, et les sources décrivent ces plats comme semblables par leur composition."
 
 lang: "fr"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -187,7 +187,7 @@ est précisément le propos.
 Autour du riz s'assoit une distribution de second rôle capable de transformer une
 assiette modeste en festin. La protéine est d'ordinaire frite ou grillée : poulet
 ou poisson frits, ou — le plus prisé — l'*ayam percik*, du poulet grillé et badigeonné
-d'une sauce à la noix de coco douce et épicée. Selon Tourism Malaysia, l'ayam
+d'une sauce à la noix de coco douce et épicée. Selon [Tourism Malaysia](/fr/tourism/tourism-malaysia-and-tourism-agencies), l'ayam
 percik à la mode du Kelantan est plus sucré que les versions d'ailleurs.
 
 Les accompagnements classiques sont aussi importants que le plat principal. Le

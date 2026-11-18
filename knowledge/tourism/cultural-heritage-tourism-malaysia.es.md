@@ -31,7 +31,7 @@ faq:
     a: "Cúbrete los hombros y las rodillas en todos los sitios religiosos. Las mezquitas además esperan que las mujeres se cubran el cabello y que todos se descalcen. Los templos hindúes y chinos también exigen descalzarse antes de entrar en el santuario interior."
 
 lang: "es"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ Las Ciudades Históricas del Estrecho de Malaca (Melaka y George Town) fueron in
 
 | Sitio | Año de inscripción | Estado | Tipo |
 | --- | --- | --- | --- |
-| Parque Kinabalu | 2000 | Sabah | Natural |
-| Parque Nacional de Gunung Mulu | 2000 | Sarawak | Natural |
+| [Parque Kinabalu](/es/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | Natural |
+| [Parque Nacional de Gunung Mulu](/es/tourism/gunung-mulu-national-park) | 2000 | Sarawak | Natural |
 | Ciudades Históricas del Estrecho de Malaca (Melaka y George Town) | 2008 | Melaka y Penang | Cultural |
 | Patrimonio Arqueológico del Valle de Lenggong | 2012 | Perak | Cultural (arqueológico) |
 | Patrimonio Arqueológico del Complejo de Cuevas del Parque Nacional de Niah | 2024 | Sarawak | Cultural (arqueológico) |

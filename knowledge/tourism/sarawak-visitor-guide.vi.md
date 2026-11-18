@@ -36,7 +36,7 @@ faq:
     a: "Cả hai đều tồn tại. Những nơi như Annah Rais gần Kuching là các cộng đồng nhà dài Bidayuh còn sinh sống nơi các gia đình vẫn cư trú, trong khi Sarawak Cultural Village gần Santubong là một bảo tàng sống được xây dựng chuyên biệt. Thăm một nhà dài đang sinh hoạt tốt nhất được sắp xếp trước và thường qua một hướng dẫn viên có thể diễn giải chuyến thăm một cách tôn trọng."
 
 lang: "vi"
-sourceContentHash: "484f5ee1df5a2a08"
+sourceContentHash: "e445b9a3b39697bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ framework: explainer
 
 Bạn có thể bay từ Kuala Lumpur đến Kuching trong chưa đầy hai giờ, không hề rời khỏi đất nước của mình, và vẫn được đóng dấu qua di trú ở đầu bên kia. Điều bất ngờ ở sảnh đến đó là điều quan trọng nhất cần hiểu về Sarawak: đó là một bang Malaysia vận hành biên giới riêng của mình.
 
-Sarawak là bang lớn nhất Malaysia về diện tích, chiếm phần tây bắc của Borneo. Đó là một nơi có rừng mưa cổ xưa, những hang động lớn nhất Trái Đất, và những cộng đồng vẫn sống chung trong các nhà dài. Cẩm nang này giới thiệu những gì bạn cần để nhập cảnh, cách chọn lưu trú ở Kuching, cách đến các hang động Di sản Thế giới của Gunung Mulu, và cách thăm một nhà dài mà không biến nó thành một buổi trình diễn.
+Sarawak là bang lớn nhất Malaysia về diện tích, chiếm phần tây bắc của Borneo. Đó là một nơi có rừng mưa cổ xưa, những hang động lớn nhất Trái Đất, và những cộng đồng vẫn sống chung trong các nhà dài. Cẩm nang này giới thiệu những gì bạn cần để nhập cảnh, cách chọn lưu trú ở Kuching, cách đến các hang động Di sản Thế giới của [Gunung Mulu](/vi/tourism/gunung-mulu-national-park), và cách thăm một nhà dài mà không biến nó thành một buổi trình diễn.
 
 ## Tại sao Sarawak có di trú riêng?
 

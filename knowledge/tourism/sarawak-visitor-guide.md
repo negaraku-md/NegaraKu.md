@@ -95,7 +95,7 @@ framework: explainer
 
 You can fly from Kuala Lumpur to Kuching in under two hours, never leave your own country, and still get stamped through immigration on the other end. That surprise at the arrivals hall is the single most important thing to understand about Sarawak: it is a Malaysian state that runs its own border.
 
-Sarawak is the largest of Malaysia's states by area, occupying the northwest of Borneo. It is a place of ancient rainforest, the biggest cave chambers on Earth, and communities who still live communally in longhouses. This guide covers what you need to enter, how to base yourself in Kuching, how to reach the World Heritage caves of Gunung Mulu, and how to visit a longhouse without turning it into a spectacle.
+Sarawak is the largest of Malaysia's states by area, occupying the northwest of Borneo. It is a place of ancient rainforest, the biggest cave chambers on Earth, and communities who still live communally in longhouses. This guide covers what you need to enter, how to base yourself in Kuching, how to reach the World Heritage caves of [Gunung Mulu](/tourism/gunung-mulu-national-park), and how to visit a longhouse without turning it into a spectacle.
 
 ## Why does Sarawak have its own immigration?
 

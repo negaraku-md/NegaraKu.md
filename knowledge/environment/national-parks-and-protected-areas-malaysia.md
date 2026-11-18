@@ -85,7 +85,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-Tanya sesiapa di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Hakikatnya, Malaysia tidak mempunyai satu taman negara — ia mempunyai tiga sistem undang-undang yang berasingan sama sekali, dan salah satunya bahkan tidak merangkumi tempat yang paling terkenal dengan nama "Taman Negara". Memahami peta perundangan ini adalah kunci untuk merancang lawatan, menjalankan penyelidikan, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.
+Tanya sesiapa di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Hakikatnya, Malaysia tidak mempunyai satu taman negara — ia mempunyai tiga sistem undang-undang yang berasingan sama sekali, dan salah satunya bahkan tidak merangkumi tempat yang paling terkenal dengan nama "[Taman Negara](/tourism/taman-negara-ecotourism-guide)". Memahami peta perundangan ini adalah kunci untuk merancang lawatan, menjalankan penyelidikan, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.
 
 ## Mengapa Malaysia tidak mempunyai satu sistem taman negara tunggal?
 

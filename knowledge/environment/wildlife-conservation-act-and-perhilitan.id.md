@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Pasal 2 secara tegas mengecualikan satwa liar yang termasuk di bawah Daftar II Lampiran Kesembilan Konstitusi Federal dan di bawah Fisheries Act 1985, sehingga spesies laut dan kebanyakan spesies perikanan diatur di tempat lain."
 
 lang: "id"
-sourceContentHash: "b4c596ce48f3755c"
+sourceContentHash: "d1666cc3087284f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Polanya jelas: pengadilan semakin menganggap kejahatan satwa liar sebagai kejaha
 
 ## Bagaimana kita sampai di sini — dan siapa PERHILITAN?
 
-Silsilah PERHILITAN berakar jauh. Pengaturan satwa liar di Semenanjung dimulai dengan undang-undang satwa liar pertama pada 1896 dan pewartaan Rizab Hidupan Liar Chior pada 1902. Suruhanjaya Hidupan Liar Malaya 1930 di bawah T.R. Hubback membawa pada pendirian kantor pusat Jabatan Perburuan pada 1936, dan pendirian Taman Negara King George V pada 1938–39 — yaitu **Taman Negara** hari ini. Setelah kemerdekaan, departemen-departemen perburuan negara bagian disatukan di tingkat federal seputar Protection of Wild Life Act 1972, menghasilkan departemen nasional yang kini kita sebut PERHILITAN.
+Silsilah PERHILITAN berakar jauh. Pengaturan satwa liar di Semenanjung dimulai dengan undang-undang satwa liar pertama pada 1896 dan pewartaan Rizab Hidupan Liar Chior pada 1902. Suruhanjaya Hidupan Liar Malaya 1930 di bawah T.R. Hubback membawa pada pendirian kantor pusat Jabatan Perburuan pada 1936, dan pendirian Taman Negara King George V pada 1938–39 — yaitu **[Taman Negara](/id/tourism/taman-negara-ecotourism-guide)** hari ini. Setelah kemerdekaan, departemen-departemen perburuan negara bagian disatukan di tingkat federal seputar Protection of Wild Life Act 1972, menghasilkan departemen nasional yang kini kita sebut PERHILITAN.
 
 Act 716, yang disahkan pada 2010 (Perkenan Diraja 21 Oktober 2010; diwartakan 4 November 2010), adalah pembaruan modern: ia menyatukan lampiran-lampiran, mempertajam pemisahan dilindungi/dilindungi penuh, dan — yang paling penting — menaikkan hukuman jauh melampaui rezim 1972, memberikan PERHILITAN dan pengadilan wewenang pencegahan yang nyata.
 

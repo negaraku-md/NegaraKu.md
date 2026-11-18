@@ -34,7 +34,7 @@ verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 
 status: "published"
 aiAssisted: true
@@ -125,7 +125,7 @@ Petros。充裕而低成本的水电使砂拉越对能源密集型制造业具�
 ## 值得一提的地方
 
 古晋沿砂拉越河的滨水区是这座州首府的核心所在，将殖民时代建筑与包括砂拉越州
-立法议会在内的现代公共建筑融为一体。巴哥国家公园与Gunung Mulu国家公园——后者
+立法议会在内的现代公共建筑融为一体。巴哥国家公园与[Gunung Mulu国家公园](/zh/tourism/gunung-mulu-national-park)——后者
 是一处以其庞大洞穴系统闻名的联合国教科文组织世界遗产——展现了砂拉越的雨林生态。
 古晋附近的实蒙谷野生动物中心（Semenggoh）以其半野生的红毛猩猩种群而闻名。
 民都鲁是该州液化天然气产业的中心，而每年在古晋附近举办的雨林世界音乐节

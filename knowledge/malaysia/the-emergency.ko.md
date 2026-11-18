@@ -30,7 +30,7 @@ faq:
     a: "자료들은 두 과정이 하나가 다른 하나를 초래한 것이 아니라 나란히 진행되었다고 기록합니다. 독립은 비상사태가 여전히 효력을 가진 가운데 협상되어 1957년 8월 31일 달성되었으며, 비상사태는 독립한 말라야 정부 아래에서 거의 3년을 더 계속되었습니다."
 
 lang: "ko"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -111,7 +111,7 @@ framework: history-culture
 
 정규군은 더 느리게 증강되었습니다. 말레이시아 육군(Malaysian Army)의 자체 역사는 비상사태가 선포되었을 때 말레이 연대(Malay Regiment)가 3개 대대였고, 1956년에는 7개, 1961년에는 11개였다고 기록합니다. 영연방(Commonwealth) 부대들이 말라야군과 함께 복무하였으며, 말레이, 중국, 인도 공동체에서 현지 모집된 향토방위대(Home Guard)가 마을, 농원, 재정착 구역을 지켰습니다.
 
-젠트의 뒤를 이어 고등판무관이 된 헨리 거니 경(Sir Henry Gurney)은 1951년 10월 프레이저스 힐(Fraser's Hill)로 이동하던 중 매복 공격으로 사망하였습니다. 국립문서보관소는 이 암살이 정부 대응의 급격한 확대를 촉발하였다고 기록합니다.
+젠트의 뒤를 이어 고등판무관이 된 헨리 거니 경(Sir Henry Gurney)은 1951년 10월 [프레이저스 힐](/ko/tourism/frasers-hill)(Fraser's Hill)로 이동하던 중 매복 공격으로 사망하였습니다. 국립문서보관소는 이 암살이 정부 대응의 급격한 확대를 촉발하였다고 기록합니다.
 
 ## 브리그스 계획과 신촌
 

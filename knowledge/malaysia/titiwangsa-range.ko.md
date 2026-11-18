@@ -18,7 +18,7 @@ keyTakeaways:
   - "이 산맥의 고지대 지형은 고원 및 산지 생태계를 개발로부터 보호하는 말레이시아 환경민감지역(Environmentally Sensitive Area) 보호의 가장 엄격한 등급에 속합니다"
 appliesTo: "티티왕사 산맥(Titiwangsa Range)이 무엇인지, 어디로 뻗어 있는지, 그리고 왜 말레이 반도의 강, 기후, 정착 양상을 서해안과 동해안 두 편으로 갈라놓는지에 대한 평이하고 검증된 설명을 원하는 독자."
 lang: "ko"
-sourceContentHash: "c92a68e675abc2cc"
+sourceContentHash: "8f6fd36f8d34a324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ framework: profile
 
 티티왕사 산맥은 현지에서 반자란 티티왕사(Banjaran Titiwangsa) 또는 그냥 중앙 산맥으로 알려져 있으며, 반도의 등뼈를 따라 이어지는 연속된 산줄기입니다. 말레이시아의 자체 생물다양성 포털인 MyBIS(말레이시아 생물다양성 정보시스템)는 이를 "말레이반도에서 가장 크고, 가장 두드러지며, 연속적인 산맥"으로 서술하며, 북쪽 말레이시아-태국 국경에서 남쪽 느그리슴빌란까지 약 500킬로미터에 걸쳐 뻗어 있고, 그곳에서 지형은 높이를 잃고 말라카 인근 해안 평야로 합쳐진다고 밝힙니다.
 
-그것은 끝에서 끝까지 하나의 이름을 가진 단일 능선이 아닙니다. 그 길이를 따라 이름 붙은 산괴와 봉우리들로 갈라집니다 — 페락 최북단의 블룸(Belum), [카메론 하이랜드(Cameron Highlands)](/tourism/cameron-highlands-visitor-guide) 고원, 그보다 남쪽의 프레이저스 힐(Fraser's Hill), 슬랑오르(Selangor)-파항(Pahang) 경계 인근의 구눙 누앙(Gunung Nuang) — 그러나 지리학자와 정부 계획가들은 이를 하나의 연속된 체계로 취급하는데, 수문학적으로나 생태학적으로 하나로 작동하기 때문입니다.
+그것은 끝에서 끝까지 하나의 이름을 가진 단일 능선이 아닙니다. 그 길이를 따라 이름 붙은 산괴와 봉우리들로 갈라집니다 — 페락 최북단의 블룸(Belum), [카메론 하이랜드(Cameron Highlands)](/tourism/cameron-highlands-visitor-guide) 고원, 그보다 남쪽의 [프레이저스 힐(Fraser's Hill)](/ko/tourism/frasers-hill), 슬랑오르(Selangor)-파항(Pahang) 경계 인근의 구눙 누앙(Gunung Nuang) — 그러나 지리학자와 정부 계획가들은 이를 하나의 연속된 체계로 취급하는데, 수문학적으로나 생태학적으로 하나로 작동하기 때문입니다.
 
 ## 반도 전체를 좌우하는 분수령
 
@@ -100,7 +100,7 @@ framework: profile
 
 **그것을 하나의 이름을 가진 "산"으로 취급하는 것.** 티티왕사 산맥은 하나의 봉우리가 아니라 산줄기입니다 — 카메론 하이랜드, 프레이저스 힐, 구눙 코르부, 구눙 스통은 모두 별개의 산맥이 아니라 그 산맥을 따라 있는 지점들입니다.
 
-**그것을 구눙 타한(Gunung Tahan)과 혼동하는 것.** 말레이반도의 최고봉인 파항의 구눙 타한은 티티왕사 산맥 자체가 아니라 타만 느가라(Taman Negara) 안의 별개인 타한 산맥(Tahan Range)에 자리합니다.
+**그것을 구눙 타한(Gunung Tahan)과 혼동하는 것.** 말레이반도의 최고봉인 파항의 구눙 타한은 티티왕사 산맥 자체가 아니라 [타만 느가라(Taman Negara)](/ko/tourism/taman-negara-ecotourism-guide) 안의 별개인 타한 산맥(Tahan Range)에 자리합니다.
 
 **주 경계와 산맥이 깔끔하게 일치한다고 가정하는 것.** 이 산맥은 여러 주 경계를 따라 대체로 뻗어 있으나 정확히 그 위에 있지는 않습니다 — 그것은 우선 지리적 지형이며, 행정 경계가 그와 반대가 아니라 그것에 맞추어 그어졌습니다.
 

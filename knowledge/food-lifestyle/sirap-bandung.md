@@ -205,7 +205,7 @@ The drink has also been reinvented upmarket. In 2025 a clarified, modernised tak
 called the **bandung pandan spritz** — built on a clarified sirap bandung with
 coconut-lychee cordial, pandan and citrus — won the Signature Mocktail Championship
 staged for Visit Malaysia 2026, organised by the Malaysian Association of Hotels and
-the Mixology Alliance of the MFBEA with support from Tourism Malaysia, and was
+the Mixology Alliance of the MFBEA with support from [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies), and was
 promoted in the press as a national mocktail. (Headlines call it "official" or
 "national," while the reports' own detail describes it as the championship winner, so
 the championship framing is the safer one.) The creator chose to serve it with *kuih

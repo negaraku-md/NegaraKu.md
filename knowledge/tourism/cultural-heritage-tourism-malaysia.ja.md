@@ -31,7 +31,7 @@ faq:
     a: "すべての宗教施設で肩と膝を覆うこと。モスクではさらに、女性は髪を覆い、全員が靴を脱ぐことが求められる。ヒンドゥー教寺院と華人寺院でも、内殿に入る前に靴を脱ぐ必要がある。"
 
 lang: "ja"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ framework: explainer
 
 | 遺産 | 登録年 | 州 | 種別 |
 | --- | --- | --- | --- |
-| キナバル公園 | 2000 | サバ州 | 自然 |
-| グヌン・ムル国立公園 | 2000 | サラワク州 | 自然 |
+| [キナバル公園](/ja/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | サバ州 | 自然 |
+| [グヌン・ムル国立公園](/ja/tourism/gunung-mulu-national-park) | 2000 | サラワク州 | 自然 |
 | マラッカ海峡の歴史都市群（マラッカとジョージタウン） | 2008 | マラッカ州・ペナン州 | 文化 |
 | レンゴン渓谷の考古遺産 | 2012 | ペラ州 | 文化（考古） |
 | ニア国立公園洞窟群の考古遺産 | 2024 | サラワク州 | 文化（考古） |

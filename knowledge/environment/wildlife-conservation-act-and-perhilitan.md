@@ -181,7 +181,7 @@ The pattern is clear: courts increasingly treat wildlife crime as serious organi
 
 ## How did we get here — and who is PERHILITAN?
 
-PERHILITAN's lineage runs deep. Wildlife regulation in the Peninsula dates to a first wildlife law in 1896 and the gazetting of the Chior Wildlife Reserve in 1902. The 1930 Wildlife Commission of Malaya under T.R. Hubback led to a Game Department headquarters in 1936, and to the 1938–39 creation of King George V National Park — today's **Taman Negara**. After independence, the state game departments were federalised around the Protection of Wildlife Act 1972, producing the national department we now call PERHILITAN.
+PERHILITAN's lineage runs deep. Wildlife regulation in the Peninsula dates to a first wildlife law in 1896 and the gazetting of the Chior Wildlife Reserve in 1902. The 1930 Wildlife Commission of Malaya under T.R. Hubback led to a Game Department headquarters in 1936, and to the 1938–39 creation of King George V National Park — today's **[Taman Negara](/tourism/taman-negara-ecotourism-guide)**. After independence, the state game departments were federalised around the Protection of Wildlife Act 1972, producing the national department we now call PERHILITAN.
 
 Act 716, passed in 2010 (Royal Assent 21 October 2010; gazetted 4 November 2010), was the modern overhaul: it consolidated the schedules, sharpened the protected/totally-protected split, and — crucially — raised penalties far above the 1972 regime, giving PERHILITAN and the courts real deterrent power.
 

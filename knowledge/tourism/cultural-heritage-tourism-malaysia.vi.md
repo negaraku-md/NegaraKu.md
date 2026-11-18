@@ -31,7 +31,7 @@ faq:
     a: "Che vai và đầu gối tại mọi địa điểm tôn giáo. Các nhà thờ Hồi giáo còn kỳ vọng phụ nữ che tóc và mọi người cởi giày. Các đền Hindu và đền Trung Hoa cũng yêu cầu cởi giày trước khi vào khu điện thờ bên trong."
 
 lang: "vi"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ Các Thành phố Lịch sử của Eo biển Malacca (Melaka và George Town) �
 
 | Địa điểm | Năm ghi danh | Bang | Loại |
 | --- | --- | --- | --- |
-| Công viên Kinabalu | 2000 | Sabah | Tự nhiên |
-| Công viên Quốc gia Gunung Mulu | 2000 | Sarawak | Tự nhiên |
+| [Công viên Kinabalu](/vi/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | Tự nhiên |
+| [Công viên Quốc gia Gunung Mulu](/vi/tourism/gunung-mulu-national-park) | 2000 | Sarawak | Tự nhiên |
 | Các Thành phố Lịch sử của Eo biển Malacca (Melaka & George Town) | 2008 | Melaka & Penang | Văn hóa |
 | Di sản Khảo cổ của Thung lũng Lenggong | 2012 | Perak | Văn hóa (khảo cổ) |
 | Di sản Khảo cổ của Phức hợp Hang động Công viên Quốc gia Niah | 2024 | Sarawak | Văn hóa (khảo cổ) |

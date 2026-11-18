@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4cb728294e2f0482"
+sourceContentHash: "45f255ab6e60d7a5"
 
 status: "published"
 aiAssisted: true
@@ -130,7 +130,7 @@ framework: explainer
 
 ## 什么是皇家老虎保护区？
 
-最具雄心的新举措是彭亨州的**苏丹阿都拉皇家老虎保护区**——一处面积达1,340平方公里、毗邻国家公园（Taman Negara）的保护区，也是全国首个同类保护区。它将王室的赞助与雄厚的资金结合在一起。
+最具雄心的新举措是彭亨州的**苏丹阿都拉皇家老虎保护区**——一处面积达1,340平方公里、毗邻国家公园（[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)）的保护区，也是全国首个同类保护区。它将王室的赞助与雄厚的资金结合在一起。
 
 2025年1月，在阿布扎比可持续发展周期间，彭亨州签署协议，获得来自阿联酋穆罕默德·本·扎耶德物种保育基金的**9,980万令吉拨款**。该资金用于反盗猎、栖息地修复以及支持保护区周边的当地社区。
 

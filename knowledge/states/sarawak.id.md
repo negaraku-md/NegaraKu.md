@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "id"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ dan kepadatan penduduk yang lebih rendah di luar Kuching dan beberapa kota lain.
 
 Tepian air Kuching di sepanjang Sungai Sarawak menjadi tumpuan ibu kota,
 memadukan bangunan era kolonial dengan arsitektur publik modern termasuk Dewan Undangan
-Negeri Sarawak. Taman Negara Bako dan Taman Negara Gunung Mulu, yang kedua merupakan
+Negeri Sarawak. Taman Negara Bako dan [Taman Negara Gunung Mulu](/id/tourism/gunung-mulu-national-park), yang kedua merupakan
 Situs Warisan Dunia UNESCO yang terkenal dengan sistem gua yang luas, memamerkan
 ekologi hutan hujan Sarawak. Pusat Satwa Liar Semenggoh dekat Kuching terkenal
 dengan populasi orang utan semi-liarnya. Bintulu adalah pusat industri LNG negeri,

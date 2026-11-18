@@ -31,7 +31,7 @@ faq:
     a: "모든 종교 유적에서 어깨와 무릎을 가리십시오. 모스크에서는 추가로 여성은 머리를 가리고 모두 신발을 벗을 것이 요구됩니다. 힌두 사원과 중국 사원에서도 안쪽 성소에 들어가기 전에 신발을 벗어야 합니다."
 
 lang: "ko"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ framework: explainer
 
 | 유산 | 등재 연도 | 주 | 유형 |
 | --- | --- | --- | --- |
-| 키나발루 공원(Kinabalu Park) | 2000 | 사바(Sabah) | 자연 |
-| 그누룽 물루 국립공원(Gunung Mulu National Park) | 2000 | 사라왁(Sarawak) | 자연 |
+| [키나발루 공원](/ko/tourism/mount-kinabalu-and-kinabalu-park)(Kinabalu Park) | 2000 | 사바(Sabah) | 자연 |
+| [그누룽 물루 국립공원](/ko/tourism/gunung-mulu-national-park)(Gunung Mulu National Park) | 2000 | 사라왁(Sarawak) | 자연 |
 | 믈라카 해협의 역사 도시(믈라카·조지타운) | 2008 | 믈라카·페낭(Penang) | 문화 |
 | 릉공 계곡의 고고학 유산(Archaeological Heritage of the Lenggong Valley) | 2012 | 페락(Perak) | 문화(고고학) |
 | 니아 국립공원 동굴 복합군의 고고학 유산(Archaeological Heritage of the Niah National Park Cave Complex) | 2024 | 사라왁 | 문화(고고학) |

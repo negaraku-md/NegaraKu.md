@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Seksyen 2 secara nyata mengecualikan hidupan liar yang termasuk di bawah Senarai II Jadual Kesembilan Perlembagaan Persekutuan dan di bawah Akta Perikanan 1985, jadi spesies marin dan kebanyakan spesies perikanan dikawal di tempat lain."
 
 lang: "ms"
-sourceContentHash: "b4c596ce48f3755c"
+sourceContentHash: "d1666cc3087284f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Coraknya jelas: mahkamah semakin menganggap jenayah hidupan liar sebagai jenayah
 
 ## Bagaimana kita sampai ke sini — dan siapakah PERHILITAN?
 
-Salasilah PERHILITAN berakar umbi jauh. Peraturan hidupan liar di Semenanjung bermula dengan undang-undang hidupan liar pertama pada 1896 dan pewartaan Rizab Hidupan Liar Chior pada 1902. Suruhanjaya Hidupan Liar Malaya 1930 di bawah T.R. Hubback membawa kepada ibu pejabat Jabatan Perburuan pada 1936, dan kepada penubuhan Taman Negara King George V pada 1938–39 — iaitu **Taman Negara** hari ini. Selepas kemerdekaan, jabatan-jabatan perburuan negeri disatukan di peringkat persekutuan sekitar Akta Perlindungan Hidupan Liar 1972, menghasilkan jabatan kebangsaan yang kini kita panggil PERHILITAN.
+Salasilah PERHILITAN berakar umbi jauh. Peraturan hidupan liar di Semenanjung bermula dengan undang-undang hidupan liar pertama pada 1896 dan pewartaan Rizab Hidupan Liar Chior pada 1902. Suruhanjaya Hidupan Liar Malaya 1930 di bawah T.R. Hubback membawa kepada ibu pejabat Jabatan Perburuan pada 1936, dan kepada penubuhan Taman Negara King George V pada 1938–39 — iaitu **[Taman Negara](/tourism/taman-negara-ecotourism-guide)** hari ini. Selepas kemerdekaan, jabatan-jabatan perburuan negeri disatukan di peringkat persekutuan sekitar Akta Perlindungan Hidupan Liar 1972, menghasilkan jabatan kebangsaan yang kini kita panggil PERHILITAN.
 
 Akta 716, yang diluluskan pada 2010 (Perkenan Diraja 21 Oktober 2010; diwartakan 4 November 2010), ialah pembaharuan moden: ia menyatukan jadual-jadual, mempertajam pengasingan dilindungi/dilindungi sepenuhnya, dan — yang paling penting — menaikkan hukuman jauh melebihi rejim 1972, memberikan PERHILITAN dan mahkamah kuasa pencegahan yang sebenar.
 

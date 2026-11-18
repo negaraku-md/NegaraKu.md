@@ -30,7 +30,7 @@ faq:
     a: "Ya. Pusat Warisan Dunia merekodkan tiga harta dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif ialah pengisytiharan niat untuk mencalonkan, bukan satu penyenaraian rasmi."
 
 lang: "ms"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ Sesebuah harta memerlukan sekurang-kurangnya satu. Kriteria mana yang diperolehi
 
 | Harta | Tahun | Jenis | Kriteria |
 | --- | --- | --- | --- |
-| Taman Negara Gunung Mulu | 2000 | Semula Jadi | (vii)(viii)(ix)(x) |
-| Taman Kinabalu | 2000 | Semula Jadi | (ix)(x) |
+| [Taman Negara Gunung Mulu](/tourism/gunung-mulu-national-park) | 2000 | Semula Jadi | (vii)(viii)(ix)(x) |
+| [Taman Kinabalu](/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Semula Jadi | (ix)(x) |
 | Melaka dan George Town | 2008 | Budaya | (ii)(iii)(iv) |
 | Warisan Arkeologi Lembah Lenggong | 2012 | Budaya | (iii)(iv) |
 | Kompleks Gua Taman Negara Niah | 2024 | Budaya | (iii)(v) |
@@ -139,4 +139,4 @@ Taman Kinabalu hanya memperoleh (ix) dan (x). [Gunung Kinabalu](/malaysia/mount-
 
 ## Apa yang seterusnya
 
-Tiga harta berada dalam Senarai Tentatif Malaysia: Taman Negara, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif hanyalah niat untuk mencalonkan — tetapi memandangkan dua penyenaraian dalam tempoh dua tahun, angka enam itu berkemungkinan besar tidak akan kekal enam buat masa yang lama.
+Tiga harta berada dalam Senarai Tentatif Malaysia: [Taman Negara](/tourism/taman-negara-ecotourism-guide), Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif hanyalah niat untuk mencalonkan — tetapi memandangkan dua penyenaraian dalam tempoh dua tahun, angka enam itu berkemungkinan besar tidak akan kekal enam buat masa yang lama.

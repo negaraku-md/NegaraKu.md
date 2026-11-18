@@ -33,7 +33,7 @@ faq:
     a: "Les principaux facteurs sont le braconnage et le commerce illégal de parties de tigre, la dégradation des forêts et la perte d'habitat, les collisions routières et le conflit homme-tigre, et le déclin des proies."
 
 lang: "fr"
-sourceContentHash: "4cb728294e2f0482"
+sourceContentHash: "45f255ab6e60d7a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ La société civile porte depuis longtemps une partie de la charge. MYCAT — un
 
 ## Qu'est-ce que la Réserve royale du tigre ?
 
-L'effort nouveau le plus ambitieux est la **Réserve royale du tigre Al-Sultan Abdullah**, dans le Pahang — un sanctuaire de 1,340 kilomètres carrés contigu à Taman Negara, et la première réserve de ce type dans le pays. Elle associe le patronage royal à un financement substantiel.
+L'effort nouveau le plus ambitieux est la **Réserve royale du tigre Al-Sultan Abdullah**, dans le Pahang — un sanctuaire de 1,340 kilomètres carrés contigu à [Taman Negara](/fr/tourism/taman-negara-ecotourism-guide), et la première réserve de ce type dans le pays. Elle associe le patronage royal à un financement substantiel.
 
 En janvier 2025, lors de la Semaine de la durabilité d'Abou Dabi, le Pahang a signé un accord pour une **subvention de RM99.8 millions** du Fonds Mohamed bin Zayed pour la conservation des espèces des Émirats arabes unis. Le financement est destiné à la lutte anti-braconnage, à la restauration de l'habitat et au soutien aux communautés locales vivant aux abords de la réserve.
 

@@ -20,7 +20,7 @@ appliesTo: "Sesiapa yang cuba memahami mengapa populasi, bandar dan risiko banji
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "53f49043897c123b"
+sourceContentHash: "e7dc1f31338ea13e"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -93,7 +93,7 @@ Lihat peta relief Semenanjung Malaysia dan satu ciri mendominasi: satu rangkaian
 
 Pertama, ia adalah kawasan tadahan air. Hujan yang turun di lerengnya mengalir ke timur atau ke barat bergantung pada sebelah mana puncak bukit ia jatuh, menyalurkan air ke sungai-sungai — antaranya Sungai Pahang, Sungai Perak, Sungai Kelantan — yang telah diusahakan, ditangkap ikan dan diperdagangkan di sepanjangnya oleh rakyat semenanjung selama berabad-abad.
 
-Kedua, ia adalah sebuah tembok. Titik tertinggi banjaran ini, **Gunung Tahan**, menjulang setinggi 2,187 meter di sempadan Pahang–Kelantan, di dalam apa yang kini dikenali sebagai Taman Negara — taman negara Malaysia. Satu tulang belakang tanah tinggi setinggi itu, yang membentang sepanjang Semenanjung, bukan sekadar duduk di situ secara berskala keindahan sahaja. Ia memaksa penempatan bergerak ke luar.
+Kedua, ia adalah sebuah tembok. Titik tertinggi banjaran ini, **Gunung Tahan**, menjulang setinggi 2,187 meter di sempadan Pahang–Kelantan, di dalam apa yang kini dikenali sebagai [Taman Negara](/tourism/taman-negara-ecotourism-guide) — taman negara Malaysia. Satu tulang belakang tanah tinggi setinggi itu, yang membentang sepanjang Semenanjung, bukan sekadar duduk di situ secara berskala keindahan sahaja. Ia memaksa penempatan bergerak ke luar.
 
 ## Mengapa semua orang tinggal di pinggir
 
@@ -109,7 +109,7 @@ Walau apa pun, corak itu kekal: dataran pantai dan lembah sungai untuk manusia, 
 
 Merentasi Laut China Selatan ke Sabah dan Sarawak, logik yang sama muncul semula, cuma dalam skala yang lebih besar. Satu pedalaman bergunung-ganang — bertunjangkan **Banjaran Crocker** di Sabah — memisahkan jalur pantai yang sempit daripada hutan hujan Borneo yang mendalam di pedalaman. Ibu negeri dan pusat populasi, antaranya Kota Kinabalu dan Kuching, terletak di pantai atau di hulu sungai yang boleh dilayari, tepat di tempat yang diramalkan oleh corak semenanjung.
 
-Versi Sabah bagi "puncak tertinggi memaksa penghormatan" tidak berselindung. **[Gunung Kinabalu](/malaysia/mount-kinabalu)** menjulang setinggi 4,095 meter — bukan sahaja titik tertinggi di Malaysia, tetapi puncak tertinggi di mana-mana antara Himalaya dan New Guinea. Ia terletak di dalam Taman Kinabalu, Tapak Warisan Dunia UNESCO pertama Malaysia, dan puncak granitnya kelihatan dari sebahagian besar pantai barat Sabah pada hari yang cerah, satu mercu tanda kekal bagi garis pantai yang selebihnya menawarkan sedikit sahaja mercu tanda.
+Versi Sabah bagi "puncak tertinggi memaksa penghormatan" tidak berselindung. **[Gunung Kinabalu](/malaysia/mount-kinabalu)** menjulang setinggi 4,095 meter — bukan sahaja titik tertinggi di Malaysia, tetapi puncak tertinggi di mana-mana antara Himalaya dan New Guinea. Ia terletak di dalam [Taman Kinabalu](/tourism/mount-kinabalu-and-kinabalu-park), Tapak Warisan Dunia UNESCO pertama Malaysia, dan puncak granitnya kelihatan dari sebahagian besar pantai barat Sabah pada hari yang cerah, satu mercu tanda kekal bagi garis pantai yang selebihnya menawarkan sedikit sahaja mercu tanda.
 
 | | Semenanjung Malaysia | Malaysia Timur (Borneo) |
 | --- | --- | --- |

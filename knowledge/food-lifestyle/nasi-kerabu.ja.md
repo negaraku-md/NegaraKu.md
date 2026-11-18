@@ -35,7 +35,7 @@ faq:
     a: "両者は近い親戚です。どちらもご飯を、細かく刻んだ生のハーブと野菜のサラダと合わせます。ナシ・ケラブの決定的な特徴は色づけされたご飯――最も有名なのはバタフライピーで染めた青――と、budu や solok lada といった東海岸の薬味です。Nasi ulam はふつう、素のままか軽く風味づけした程度のご飯で供されます。実際には両者の境界は曖昧で、資料も両者を構成上よく似た料理として説明しています。"
 
 lang: "ja"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,7 +173,7 @@ Budu かサンバル、kerisik、そしてたいてい皿を締めくくるラ�
 ご飯のまわりには脇役の一団が控えており、質素な一皿を饗宴に変えることができる。
 たんぱく質はたいてい揚げるか焼くかで、揚げ鶏や揚げ魚、あるいは――最も珍重される
 のは――*ayam percik*、甘くスパイスの効いたココナッツソースを塗って焼いた鶏である。
-Tourism Malaysia によれば、クランタン式の ayam percik は他所の版より甘い。
+[Tourism Malaysia](/ja/tourism/tourism-malaysia-and-tourism-agencies) によれば、クランタン式の ayam percik は他所の版より甘い。
 
 定番の副菜は主菜と同じくらい重要だ。*Solok lada*――削りココナッツ（ときに魚も）
 を詰めた青唐辛子――はこの料理を代表する付け合わせのひとつとされる。*Telur masin*

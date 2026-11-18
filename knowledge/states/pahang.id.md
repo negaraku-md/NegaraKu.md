@@ -41,7 +41,7 @@ verificationNeeded:
   - "Portal pariwisata negeri menyebut luas 35,960 km persegi sementara portal pemerintah negeri menyebut 35,965 km persegi; verifikasi angka resmi tunggal dengan Kantor Sekretaris Pemerintah Pahang."
 
 lang: "id"
-sourceContentHash: "da77a92f707cbcd4"
+sourceContentHash: "e16b23300ddd14d8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ satu dari setiap 20 warga Malaysia tinggal di sana.
 
 Itulah fakta tunggal yang menjelaskan hampir segala-galanya tentang negara bagian
 ini: mengapa hutannya masih luas, mengapa ekonominya bersandar pada tanah dan
-bukan pada pabrik, dan mengapa Taman Negara dapat hadir dalam bentuk yang tidak
+bukan pada pabrik, dan mengapa [Taman Negara](/id/tourism/taman-negara-ecotourism-guide) dapat hadir dalam bentuk yang tidak
 mungkin bertahan di [Selangor](/id/states/selangor) atau
 [Pulau Pinang](/id/states/penang).
 
@@ -179,7 +179,7 @@ Pemerintah Negeri. **Pekan** adalah kota diraja.
 Geografinya juga bertingkat. Di pantai timur terdapat jalur pesisir sepanjang
 sekitar 208 kilometer menghadap Laut Tiongkok Selatan. Di pedalaman terbentang
 daerah aliran Sungai Pahang. Di barat terletak dataran tinggi — Cameron
-Highlands, Genting Highlands dan Bukit Fraser — yang menjadikan Pahang
+Highlands, [Genting Highlands](/id/tourism/genting-highlands) dan Bukit Fraser — yang menjadikan Pahang
 satu-satunya negara bagian yang menampung ketiga pusat peristirahatan dataran
 tinggi utama Semenanjung.
 

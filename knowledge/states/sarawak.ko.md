@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "ko"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,7 +103,7 @@ framework: profile
 
 ## 주목할 만한 장소
 
-사라왁강(Sarawak River)을 따라 늘어선 쿠칭의 워터프런트가 주도(州都)를 떠받치며, 사라왁 주 의회를 포함한 현대적 관공서 건축과 식민지 시대 건물을 결합합니다. 바코 국립공원(Bako National Park)과, 방대한 동굴계로 알려진 유네스코 세계유산인 구눙 물루 국립공원(Gunung Mulu National Park)은 사라왁의 열대우림 생태를 보여 줍니다. 쿠칭 인근의 스멍고 야생동물센터(Semenggoh Wildlife Centre)는 반(半)야생 오랑우탄 개체군으로 유명합니다. 빈툴루는 이 주(州) LNG 산업의 중심지이며, 쿠칭 인근에서 열리는 연례 레인포레스트 월드 뮤직 페스티벌(Rainforest World Music Festival)은 세계 각지에서 공연자와 방문객을 끌어들이며 말레이시아에서 가장 잘 알려진 문화 행사 가운데 하나가 되었습니다.
+사라왁강(Sarawak River)을 따라 늘어선 쿠칭의 워터프런트가 주도(州都)를 떠받치며, 사라왁 주 의회를 포함한 현대적 관공서 건축과 식민지 시대 건물을 결합합니다. 바코 국립공원(Bako National Park)과, 방대한 동굴계로 알려진 유네스코 세계유산인 [구눙 물루 국립공원](/ko/tourism/gunung-mulu-national-park)(Gunung Mulu National Park)은 사라왁의 열대우림 생태를 보여 줍니다. 쿠칭 인근의 스멍고 야생동물센터(Semenggoh Wildlife Centre)는 반(半)야생 오랑우탄 개체군으로 유명합니다. 빈툴루는 이 주(州) LNG 산업의 중심지이며, 쿠칭 인근에서 열리는 연례 레인포레스트 월드 뮤직 페스티벌(Rainforest World Music Festival)은 세계 각지에서 공연자와 방문객을 끌어들이며 말레이시아에서 가장 잘 알려진 문화 행사 가운데 하나가 되었습니다.
 
 ---
 

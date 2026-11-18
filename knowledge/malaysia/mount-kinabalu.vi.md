@@ -18,7 +18,7 @@ keyTakeaways:
   - "Nó được các cơ quan cố vấn của UNESCO mô tả là ngọn núi cao nhất giữa dãy Himalaya và New Guinea, và là nơi cư trú của ước tính 5,000-6,000 loài thực vật có mạch bao gồm khoảng 1,000 loài lan"
 appliesTo: "Độc giả muốn có độ cao đã được kiểm chứng và tình trạng khu vực được bảo vệ của Núi Kinabalu, cùng một lời giải thích giản dị vì sao một ngọn núi granite ở Sabah lại trẻ đến vậy về mặt địa chất."
 lang: "vi"
-sourceContentHash: "9898433b2f4e9aa1"
+sourceContentHash: "5bc72b1b2e12a8e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,7 +78,7 @@ Sự nâng lên tiếp tục đẩy ngọn núi cao hơn được gắn với vi
 
 ## Được bảo vệ trên ba phương diện riêng biệt
 
-Vườn Kinabalu được đăng công báo năm 1964 như một trong những vườn quốc gia đầu tiên của Sabah, xây dựng trên nền các cuộc thám hiểm khoa học của Royal Society đến ngọn núi trong thập niên đó. Vào tháng 12 năm 2000, UNESCO ghi danh nó là Di sản Thế giới — đầu tiên của Malaysia — theo tiêu chí thiên nhiên (ix) và (x): sự công nhận các quá trình sinh thái và tiến hóa đang diễn ra của nó, và sự đa dạng sinh học ngoại hạng cùng sinh cảnh cho việc bảo tồn loài. Khu vực được ghi danh bao trùm khoảng 75,370 hecta (753.7 km²).
+[Vườn Kinabalu](/vi/tourism/mount-kinabalu-and-kinabalu-park) được đăng công báo năm 1964 như một trong những vườn quốc gia đầu tiên của Sabah, xây dựng trên nền các cuộc thám hiểm khoa học của Royal Society đến ngọn núi trong thập niên đó. Vào tháng 12 năm 2000, UNESCO ghi danh nó là Di sản Thế giới — đầu tiên của Malaysia — theo tiêu chí thiên nhiên (ix) và (x): sự công nhận các quá trình sinh thái và tiến hóa đang diễn ra của nó, và sự đa dạng sinh học ngoại hạng cùng sinh cảnh cho việc bảo tồn loài. Khu vực được ghi danh bao trùm khoảng 75,370 hecta (753.7 km²).
 
 Danh hiệu Di sản Thế giới đó nằm cùng hai danh hiệu UNESCO khác — một Công viên Địa chất Toàn cầu và một Khu Dự trữ Sinh quyển — khiến Kinabalu trở thành một trong số ít địa điểm trên thế giới giữ cả ba cùng một lúc.
 

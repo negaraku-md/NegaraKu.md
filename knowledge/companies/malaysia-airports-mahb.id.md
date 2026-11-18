@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9580bd545dac351"
+sourceContentHash: "0e548c58dd3f2a31"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ Jaringan MAHB membentang di seluruh rentang penerbangan Malaysia, dari hub inter
 
 KLIA adalah pusatnya. Kedua terminalnya diganti nama pada 2023: Main Terminal Building orisinal menjadi **KLIA Terminal 1**, dan terminal berbiaya rendah klia2 (dibuka 2014) menjadi **KLIA Terminal 2**. Menteri Perhubungan kala itu membingkai penggantian nama sebagai langkah pemasaran dan daya saing; kedua terminal dihubungkan oleh layanan antar-jemput.
 
-Di luar KLIA, MAHB menjalankan gerbang internasional Malaysia lainnya (seperti yang melayani Penang, Kota Kinabalu, Kuching, dan Langkawi), satu jenjang bandara domestik, dan sekumpulan STOLport yang menjaga komunitas terpencil — terutama di Sabah dan Sarawak — tetap terhubung.
+Di luar KLIA, MAHB menjalankan gerbang internasional Malaysia lainnya (seperti yang melayani Penang, Kota Kinabalu, Kuching, dan [Langkawi](/id/tourism/langkawi-visitor-guide)), satu jenjang bandara domestik, dan sekumpulan STOLport yang menjaga komunitas terpencil — terutama di Sabah dan Sarawak — tetap terhubung.
 
 Di luar negeri, MAHB mengoperasikan Istanbul Sabiha Gökçen International Airport, bandara terbesar kedua Turki setelah Istanbul Airport, yang telah dipegangnya sejak pertengahan 2010-an. Sabiha Gökçen adalah hub berbiaya rendah dan titik-ke-titik yang besar; MAHB melaporkan bandara itu menangani sekitar 41 juta penumpang pada 2024, menjadikannya bagian material dari trafik kelompok.
 

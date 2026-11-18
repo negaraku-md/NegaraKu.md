@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "es"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -146,7 +146,7 @@ de un puñado de otras localidades.
 El paseo marítimo de Kuching a lo largo del río Sarawak es el ancla de la capital del
 estado, combinando edificios de la época colonial con arquitectura cívica moderna,
 incluida la Asamblea Legislativa del Estado de Sarawak. El Parque Nacional de Bako y
-el Parque Nacional de Gunung Mulu, este último un Sitio del Patrimonio Mundial de la
+el [Parque Nacional de Gunung Mulu](/es/tourism/gunung-mulu-national-park), este último un Sitio del Patrimonio Mundial de la
 UNESCO conocido por sus vastos sistemas de cuevas, muestran la ecología de la selva
 tropical de Sarawak. El Centro de Vida Silvestre de Semenggoh, cerca de Kuching, es
 conocido por su población de orangutanes semisalvajes. Bintulu es el centro de la

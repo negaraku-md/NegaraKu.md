@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4cb728294e2f0482"
+sourceContentHash: "45f255ab6e60d7a5"
 
 status: "published"
 aiAssisted: true
@@ -130,7 +130,7 @@ Masyarakat sivil telah lama memikul sebahagian daripada beban ini. MYCAT — seb
 
 ## Apakah Rizab Harimau Diraja?
 
-Usaha baharu paling bercita-cita tinggi ialah **Rizab Harimau Diraja Al-Sultan Abdullah** di Pahang — sebuah santuari seluas 1,340 kilometer persegi bersebelahan Taman Negara, dan rizab pertama seumpamanya di negara ini. Ia menggabungkan naungan diraja dengan pembiayaan yang besar.
+Usaha baharu paling bercita-cita tinggi ialah **Rizab Harimau Diraja Al-Sultan Abdullah** di Pahang — sebuah santuari seluas 1,340 kilometer persegi bersebelahan [Taman Negara](/tourism/taman-negara-ecotourism-guide), dan rizab pertama seumpamanya di negara ini. Ia menggabungkan naungan diraja dengan pembiayaan yang besar.
 
 Pada Januari 2025, semasa Minggu Kelestarian Abu Dhabi, Pahang menandatangani perjanjian bagi **geran RM99.8 juta** daripada Tabung Pemuliharaan Spesies Mohamed bin Zayed Emiriah Arab Bersatu. Pembiayaan itu ditujukan kepada usaha anti-pemburuan haram, pemulihan habitat dan sokongan kepada komuniti tempatan yang tinggal bersebelahan rizab.
 

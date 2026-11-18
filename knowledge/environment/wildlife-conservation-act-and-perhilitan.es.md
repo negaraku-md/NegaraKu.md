@@ -36,7 +36,7 @@ faq:
     a: "No. El artículo 2 excluye expresamente la fauna silvestre comprendida en la Lista II del Noveno Anexo de la Constitución Federal y en la Ley de Pesca de 1985 (Fisheries Act 1985), de modo que las especies marinas y la mayoría de las pesqueras se rigen por otra normativa."
 
 lang: "es"
-sourceContentHash: "b4c596ce48f3755c"
+sourceContentHash: "d1666cc3087284f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ El patrón es claro: los tribunales tratan cada vez más los delitos contra la v
 
 ## ¿Cómo llegamos hasta aquí — y quién es PERHILITAN?
 
-El linaje de PERHILITAN es profundo. La regulación de la vida silvestre en la Península se remonta a una primera ley de vida silvestre de 1896 y a la declaración oficial de la Reserva de Vida Silvestre de Chior en 1902. La Comisión de Vida Silvestre de Malaya de 1930, dirigida por T.R. Hubback, condujo a una sede del Departamento de Caza en 1936, y a la creación en 1938–39 del Parque Nacional King George V — el actual **Taman Negara**. Tras la independencia, los departamentos estatales de caza se federalizaron en torno a la Ley de Protección de la Vida Silvestre de 1972, dando origen al departamento nacional que hoy llamamos PERHILITAN.
+El linaje de PERHILITAN es profundo. La regulación de la vida silvestre en la Península se remonta a una primera ley de vida silvestre de 1896 y a la declaración oficial de la Reserva de Vida Silvestre de Chior en 1902. La Comisión de Vida Silvestre de Malaya de 1930, dirigida por T.R. Hubback, condujo a una sede del Departamento de Caza en 1936, y a la creación en 1938–39 del Parque Nacional King George V — el actual **[Taman Negara](/es/tourism/taman-negara-ecotourism-guide)**. Tras la independencia, los departamentos estatales de caza se federalizaron en torno a la Ley de Protección de la Vida Silvestre de 1972, dando origen al departamento nacional que hoy llamamos PERHILITAN.
 
 La Ley 716, aprobada en 2010 (sanción real el 21 de octubre de 2010; publicada en el boletín oficial el 4 de noviembre de 2010), fue la reforma moderna: consolidó los anexos, afinó la división entre protegida y totalmente protegida y — de manera crucial — elevó las sanciones muy por encima del régimen de 1972, dando a PERHILITAN y a los tribunales un verdadero poder disuasorio.
 

@@ -36,7 +36,7 @@ faq:
     a: "Kedua-duanya wujud. Tempat seperti Annah Rais berhampiran Kuching ialah komuniti rumah panjang Bidayuh yang masih didiami keluarga, manakala Kampung Budaya Sarawak berhampiran Santubong ialah muzium hidup yang dibina khas. Melawat rumah panjang yang masih didiami paling baik diatur terlebih dahulu dan selalunya melalui pemandu pelancong yang boleh mentafsir lawatan itu dengan hormat."
 
 lang: "ms"
-sourceContentHash: "484f5ee1df5a2a08"
+sourceContentHash: "e445b9a3b39697bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ framework: explainer
 
 Anda boleh terbang dari Kuala Lumpur ke Kuching dalam masa kurang dua jam, tidak pernah meninggalkan negara anda sendiri, namun masih dicop melalui imigresen di hujung sana. Kejutan di dewan ketibaan itulah perkara paling penting yang perlu difahami tentang Sarawak: ia sebuah negeri Malaysia yang mengendalikan sempadannya sendiri.
 
-Sarawak ialah negeri terbesar Malaysia dari segi keluasan, menduduki barat laut Borneo. Ia sebuah tempat hutan hujan purba, ruang gua terbesar di Bumi, dan komuniti yang masih hidup secara berkomuni dalam rumah panjang. Panduan ini merangkumi apa yang anda perlukan untuk masuk, cara menjadikan Kuching sebagai pangkalan anda, cara mencapai gua Warisan Dunia Gunung Mulu, dan cara melawat rumah panjang tanpa menjadikannya sebuah tontonan.
+Sarawak ialah negeri terbesar Malaysia dari segi keluasan, menduduki barat laut Borneo. Ia sebuah tempat hutan hujan purba, ruang gua terbesar di Bumi, dan komuniti yang masih hidup secara berkomuni dalam rumah panjang. Panduan ini merangkumi apa yang anda perlukan untuk masuk, cara menjadikan Kuching sebagai pangkalan anda, cara mencapai gua Warisan Dunia [Gunung Mulu](/tourism/gunung-mulu-national-park), dan cara melawat rumah panjang tanpa menjadikannya sebuah tontonan.
 
 ## Mengapa Sarawak mempunyai imigresennya sendiri?
 

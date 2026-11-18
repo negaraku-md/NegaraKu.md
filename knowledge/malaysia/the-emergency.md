@@ -111,7 +111,7 @@ The security effort was, numerically, far more a policing operation than a milit
 
 The regular army grew more slowly. The Malaysian Army's own history records the Malay Regiment standing at three battalions when the Emergency was declared, seven by 1956, and eleven by 1961. Commonwealth units served alongside Malayan forces, and a locally recruited Home Guard drawn from Malay, Chinese and Indian communities guarded villages, estates and resettlement areas.
 
-Sir Henry Gurney, who had succeeded Gent as High Commissioner, was killed in an ambush in October 1951 while travelling to Fraser's Hill. Arkib Negara records that the assassination prompted a sharp escalation of the government response.
+Sir Henry Gurney, who had succeeded Gent as High Commissioner, was killed in an ambush in October 1951 while travelling to [Fraser's Hill](/tourism/frasers-hill). Arkib Negara records that the assassination prompted a sharp escalation of the government response.
 
 ## The Briggs Plan and the new villages
 

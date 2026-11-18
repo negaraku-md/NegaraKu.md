@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "es"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -201,7 +201,7 @@ La bebida también se ha reinventado en clave sofisticada. En 2025 una versión 
 modernizada llamada **bandung pandan spritz** —construida sobre un sirap bandung clarificado con
 cordial de coco y lichi, pandan y cítricos— ganó el Signature Mocktail Championship organizado para
 Visit Malaysia 2026, celebrado por la Malaysian Association of Hotels y la Mixology Alliance de la
-MFBEA con el apoyo de Tourism Malaysia, y se promovió en la prensa como un cóctel sin alcohol
+MFBEA con el apoyo de [Tourism Malaysia](/es/tourism/tourism-malaysia-and-tourism-agencies), y se promovió en la prensa como un cóctel sin alcohol
 nacional. (Los titulares lo llaman «oficial» o «nacional», mientras que el propio detalle de los
 reportajes lo describe como el ganador del campeonato, así que el encuadre del campeonato es el más
 seguro). El creador optó por servirlo con *kuih lapis*, cuyas numerosas capas ofreció como un guiño

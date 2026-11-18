@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "da77a92f707cbcd4"
+sourceContentHash: "e16b23300ddd14d8"
 
 status: "published"
 aiAssisted: true
@@ -113,7 +113,7 @@ only one in every 20 Malaysians lives there.
 
 That single fact explains almost everything about this state: why its forests
 remain so extensive, why its economy leans on land rather than factories, and
-why Taman Negara can exist in a form that could not survive in
+why [Taman Negara](/en/tourism/taman-negara-ecotourism-guide) can exist in a form that could not survive in
 [Selangor](/en/states/selangor) or [Penang](/en/states/penang).
 
 ## Key facts
@@ -176,7 +176,7 @@ Office of the State Secretary. **Pekan**, meanwhile, is the royal town.
 
 Its geography is also layered. On the east coast lies a coastal strip about
 208 kilometres long facing the South China Sea. Inland stretches the Pahang
-River basin. To the west lie highlands — [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), Genting Highlands
+River basin. To the west lie highlands — [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), [Genting Highlands](/en/tourism/genting-highlands)
 and Fraser's Hill — making Pahang the only state that hosts all three of the
 Peninsula's major hill-resort centres.
 

@@ -30,7 +30,7 @@ faq:
     a: "نعم. يسجّل مركز التراث العالمي ثلاثة مواقع على القائمة المؤقتة لماليزيا: الحديقة الوطنية (Taman Negara) لشبه جزيرة ماليزيا، وسلسلة كوارتز غومباك سلانغور (Gombak Selangor Quartz Ridge)، ومُستعمرة سونغاي بولوه للمجذومين (Sungai Buloh Leprosarium). والإدراج المؤقت إعلان نيّة الترشيح، لا إدراج فعلي."
 
 lang: "ar"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ framework: data-reference
 
 | الموقع | السنة | النوع | المعايير |
 | --- | --- | --- | --- |
-| حديقة غونونغ مولو الوطنية | 2000 | طبيعي | (vii)(viii)(ix)(x) |
-| حديقة كينابالو | 2000 | طبيعي | (ix)(x) |
+| [حديقة غونونغ مولو الوطنية](/ar/tourism/gunung-mulu-national-park) | 2000 | طبيعي | (vii)(viii)(ix)(x) |
+| [حديقة كينابالو](/ar/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | طبيعي | (ix)(x) |
 | ملقا وجورج تاون | 2008 | ثقافي | (ii)(iii)(iv) |
 | التراث الأثري لوادي لنغونغ | 2012 | ثقافي | (iii)(iv) |
 | مجمّع كهوف حديقة نياه الوطنية | 2024 | ثقافي | (iii)(v) |
@@ -139,4 +139,4 @@ framework: data-reference
 
 ## ماذا بعد
 
-ثلاثة مواقع على القائمة المؤقتة لماليزيا: الحديقة الوطنية (Taman Negara)، وسلسلة كوارتز غومباك سلانغور (Gombak Selangor Quartz Ridge)، ومُستعمرة سونغاي بولوه للمجذومين (Sungai Buloh Leprosarium). والإدراج المؤقت ليس إلا نيّة للترشيح — لكن في ضوء إدراجين خلال عامين، فمن غير المرجّح أن يبقى الرقم ستةً طويلاً.
+ثلاثة مواقع على القائمة المؤقتة لماليزيا: [الحديقة الوطنية (Taman Negara)](/ar/tourism/taman-negara-ecotourism-guide)، وسلسلة كوارتز غومباك سلانغور (Gombak Selangor Quartz Ridge)، ومُستعمرة سونغاي بولوه للمجذومين (Sungai Buloh Leprosarium). والإدراج المؤقت ليس إلا نيّة للترشيح — لكن في ضوء إدراجين خلال عامين، فمن غير المرجّح أن يبقى الرقم ستةً طويلاً.

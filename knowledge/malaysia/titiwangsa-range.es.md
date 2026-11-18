@@ -18,7 +18,7 @@ keyTakeaways:
   - "El terreno de gran altitud de la cordillera queda bajo el nivel más estricto de las protecciones de Área Ambientalmente Sensible de Malasia, que resguardan los ecosistemas de tierras altas y de montaña frente al desarrollo"
 appliesTo: "Lectores que quieran una explicación clara y verificada de qué es la cordillera de Titiwangsa, por dónde discurre y por qué divide los ríos, el clima y el patrón de asentamiento de la Malasia peninsular en un lado de costa oeste y otro de costa este."
 lang: "es"
-sourceContentHash: "c92a68e675abc2cc"
+sourceContentHash: "8f6fd36f8d34a324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ Esa línea es la cordillera de Titiwangsa, y es el elemento geográfico más tra
 
 La cordillera de Titiwangsa, conocida localmente como Banjaran Titiwangsa o simplemente la cordillera principal, es una cadena continua de montañas que recorre el espinazo de la península. El propio portal de biodiversidad de Malasia, MyBIS, la describe como «la cordillera más grande, prominente y continua de la Malasia peninsular», que se extiende unos 500 kilómetros desde la frontera entre Malasia y Tailandia en el norte hasta Negeri Sembilan, donde el terreno pierde altura y se funde con la llanura costera cerca de Melaka.
 
-No es una única cresta con un solo nombre de extremo a extremo. A lo largo de su recorrido se divide en macizos y picos con nombre propio —Belum en el extremo norte de Perak, la meseta de las [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), Fraser's Hill más al sur, el Gunung Nuang cerca de la frontera entre Selangor y Pahang—, pero los geógrafos y los planificadores del gobierno la tratan como un solo sistema continuo, porque hidrológica y ecológicamente se comporta como uno.
+No es una única cresta con un solo nombre de extremo a extremo. A lo largo de su recorrido se divide en macizos y picos con nombre propio —Belum en el extremo norte de Perak, la meseta de las [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), [Fraser's Hill](/es/tourism/frasers-hill) más al sur, el Gunung Nuang cerca de la frontera entre Selangor y Pahang—, pero los geógrafos y los planificadores del gobierno la tratan como un solo sistema continuo, porque hidrológica y ecológicamente se comporta como uno.
 
 ## La divisoria de aguas que gobierna toda la península
 
@@ -100,7 +100,7 @@ La propia altitud determina cómo se gobierna la cordillera: su terreno más alt
 
 **Tratarla como una única «montaña» con nombre.** La cordillera de Titiwangsa es una cadena, no un solo pico: las Cameron Highlands, Fraser's Hill, el Gunung Korbu y el Gunung Stong son todos puntos a lo largo de ella, no cordilleras separadas.
 
-**Confundirla con el Gunung Tahan.** La montaña más alta de la Malasia peninsular, el Gunung Tahan en Pahang, se encuentra en la cordillera de Tahan, aparte, dentro de Taman Negara, no en la propia cordillera de Titiwangsa.
+**Confundirla con el Gunung Tahan.** La montaña más alta de la Malasia peninsular, el Gunung Tahan en Pahang, se encuentra en la cordillera de Tahan, aparte, dentro de [Taman Negara](/es/tourism/taman-negara-ecotourism-guide), no en la propia cordillera de Titiwangsa.
 
 **Suponer que las fronteras estatales y la cordillera coinciden con precisión.** La cordillera discurre a grandes rasgos a lo largo de varias fronteras estatales, pero no exactamente sobre ellas: es ante todo un accidente geográfico, y las fronteras administrativas se trazaron en relación con él, no al revés.
 

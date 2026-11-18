@@ -34,7 +34,7 @@ faq:
     a: "L'article 10 de la loi sur les parcs nationaux de 1980 interdit l'exploitation minière et la prospection à l'intérieur d'un parc national, à moins que l'Autorité de l'État, après consultation du Ministre, ne détermine qu'il existe un gisement minéral si exceptionnellement riche."
 
 lang: "fr"
-sourceContentHash: "1f3622365daf3410"
+sourceContentHash: "a490a97f35c2c8d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-Demandez à n'importe qui où se trouve «le parc national de la Malaisie» et il désignera un seul endroit. En réalité, la Malaisie n'a pas un parc national unique — elle a trois systèmes juridiques entièrement distincts, et l'un d'eux ne couvre même pas le lieu le plus célèbre sous le nom de «Taman Negara». Comprendre cette carte juridique est la clé pour planifier une visite, mener une recherche ou simplement saisir comment la Malaisie protège ses forêts tropicales vieilles de 130 millions d'années.
+Demandez à n'importe qui où se trouve «le parc national de la Malaisie» et il désignera un seul endroit. En réalité, la Malaisie n'a pas un parc national unique — elle a trois systèmes juridiques entièrement distincts, et l'un d'eux ne couvre même pas le lieu le plus célèbre sous le nom de «[Taman Negara](/fr/tourism/taman-negara-ecotourism-guide)». Comprendre cette carte juridique est la clé pour planifier une visite, mener une recherche ou simplement saisir comment la Malaisie protège ses forêts tropicales vieilles de 130 millions d'années.
 
 ## Pourquoi la Malaisie n'a-t-elle pas un système de parcs nationaux unique et unifié ?
 

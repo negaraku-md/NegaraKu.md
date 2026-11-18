@@ -36,7 +36,7 @@ faq:
     a: "Non. L'article 2 exclut expressément la faune sauvage relevant de la Liste II de la neuvième annexe de la Constitution fédérale et de la Loi sur la pêche de 1985 (Fisheries Act 1985), de sorte que les espèces marines et la plupart des espèces halieutiques sont régies par d'autres textes."
 
 lang: "fr"
-sourceContentHash: "b4c596ce48f3755c"
+sourceContentHash: "d1666cc3087284f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Le schéma est clair : les tribunaux traitent de plus en plus les crimes contre 
 
 ## Comment en est-on arrivé là — et qui est PERHILITAN ?
 
-La lignée de PERHILITAN est profonde. La réglementation de la faune sauvage dans la Péninsule remonte à une première loi sur la faune sauvage de 1896 et à la déclaration officielle de la réserve de faune sauvage de Chior en 1902. La Commission de la faune sauvage de Malaya de 1930, dirigée par T.R. Hubback, a conduit à un siège du Département de la chasse en 1936, puis à la création en 1938-39 du parc national King George V — l'actuel **Taman Negara**. Après l'indépendance, les départements d'État de la chasse ont été fédéralisés autour de la Loi sur la protection de la faune sauvage de 1972, donnant naissance au département national que nous appelons aujourd'hui PERHILITAN.
+La lignée de PERHILITAN est profonde. La réglementation de la faune sauvage dans la Péninsule remonte à une première loi sur la faune sauvage de 1896 et à la déclaration officielle de la réserve de faune sauvage de Chior en 1902. La Commission de la faune sauvage de Malaya de 1930, dirigée par T.R. Hubback, a conduit à un siège du Département de la chasse en 1936, puis à la création en 1938-39 du parc national King George V — l'actuel **[Taman Negara](/fr/tourism/taman-negara-ecotourism-guide)**. Après l'indépendance, les départements d'État de la chasse ont été fédéralisés autour de la Loi sur la protection de la faune sauvage de 1972, donnant naissance au département national que nous appelons aujourd'hui PERHILITAN.
 
 La Loi 716, adoptée en 2010 (sanction royale le 21 octobre 2010 ; publiée au Journal officiel le 4 novembre 2010), fut la réforme moderne : elle a consolidé les annexes, affiné la division entre protégée et totalement protégée et — de manière cruciale — relevé les sanctions bien au-dessus du régime de 1972, donnant à PERHILITAN et aux tribunaux un véritable pouvoir dissuasif.
 

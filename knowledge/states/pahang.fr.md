@@ -41,7 +41,7 @@ verificationNeeded:
   - "Le portail touristique de l'État indique une superficie de 35,960 km² tandis que le portail du gouvernement de l'État indique 35,965 km² ; confirmer le chiffre officiel unique auprès du bureau du Secrétaire de l'État de Pahang."
 
 lang: "fr"
-sourceContentHash: "da77a92f707cbcd4"
+sourceContentHash: "e16b23300ddd14d8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ pourtant un seul Malaisien sur 20 y vit.
 
 Ce seul fait explique presque tout de cet État : pourquoi ses forêts
 restent si étendues, pourquoi son économie s'appuie sur la terre plutôt que sur les
-usines, et pourquoi le Taman Negara peut exister sous une forme qui ne pourrait survivre ni à
+usines, et pourquoi le [Taman Negara](/fr/tourism/taman-negara-ecotourism-guide) peut exister sous une forme qui ne pourrait survivre ni à
 [Selangor](/fr/states/selangor) ni à [Penang](/fr/states/penang).
 
 ## Données clés
@@ -178,7 +178,7 @@ bureau du Secrétaire de l'État. **Pekan**, pour sa part, est la ville royale.
 Sa géographie est également étagée. Sur la côte orientale s'étend une bande
 côtière d'environ 208 kilomètres de long face à la mer de Chine méridionale. Vers
 l'intérieur s'étend le bassin du fleuve Pahang. À l'ouest se trouvent les hautes terres
-— [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), Genting Highlands
+— [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), [Genting Highlands](/fr/tourism/genting-highlands)
 et Fraser's Hill — ce qui fait de Pahang le seul État qui accueille les trois
 principaux centres de stations de montagne de la Péninsule.
 

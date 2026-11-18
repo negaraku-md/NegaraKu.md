@@ -18,7 +18,7 @@ keyTakeaways:
   - "Les organes consultatifs de l'UNESCO le décrivent comme la plus haute montagne entre l'Himalaya et la Nouvelle-Guinée, et il abrite environ 5,000-6,000 espèces de plantes vasculaires, dont approximativement 1,000 espèces d'orchidées"
 appliesTo: "Les lecteurs qui souhaitent l'altitude vérifiée et le statut d'aire protégée du mont Kinabalu, et une explication simple de la raison pour laquelle une montagne de granite du Sabah est géologiquement si jeune."
 lang: "fr"
-sourceContentHash: "9898433b2f4e9aa1"
+sourceContentHash: "5bc72b1b2e12a8e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,7 +78,7 @@ Le soulèvement qui continue de pousser la montagne vers le haut est lié à la 
 
 ## Protégé à trois titres distincts
 
-Le parc Kinabalu a été classé au journal officiel en 1964 comme l'un des premiers parcs nationaux du Sabah, construit sur la base des expéditions scientifiques de la Royal Society menées sur la montagne au début de cette décennie. En décembre 2000, l'UNESCO l'a inscrit comme site du patrimoine mondial — le premier de Malaisie — au titre des critères naturels (ix) et (x) : la reconnaissance de ses processus écologiques et évolutifs en cours, et de sa biodiversité et de son habitat exceptionnels pour la conservation des espèces. Le bien inscrit couvre environ 75,370 hectares (753.7 km²).
+Le [parc Kinabalu](/fr/tourism/mount-kinabalu-and-kinabalu-park) a été classé au journal officiel en 1964 comme l'un des premiers parcs nationaux du Sabah, construit sur la base des expéditions scientifiques de la Royal Society menées sur la montagne au début de cette décennie. En décembre 2000, l'UNESCO l'a inscrit comme site du patrimoine mondial — le premier de Malaisie — au titre des critères naturels (ix) et (x) : la reconnaissance de ses processus écologiques et évolutifs en cours, et de sa biodiversité et de son habitat exceptionnels pour la conservation des espèces. Le bien inscrit couvre environ 75,370 hectares (753.7 km²).
 
 Cette inscription au patrimoine mondial coexiste avec deux autres désignations de l'UNESCO — un géoparc mondial et une réserve de biosphère — ce qui fait du Kinabalu l'un des rares sites au monde à détenir les trois à la fois.
 

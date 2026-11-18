@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9580bd545dac351"
+sourceContentHash: "0e548c58dd3f2a31"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ Mạng lưới của MAHB trải rộng trên toàn bộ phạm vi của ngành 
 
 KLIA là tâm điểm. Hai nhà ga của nó được đổi thương hiệu vào năm 2023: Tòa nhà Nhà ga Chính nguyên bản trở thành **KLIA Nhà ga 1**, và nhà ga giá rẻ klia2 (khai trương năm 2014) trở thành **KLIA Nhà ga 2**. Bộ trưởng Giao thông khi đó đóng khung việc đổi tên là một bước đi tiếp thị và cạnh tranh; hai nhà ga được liên kết bằng một dịch vụ xe trung chuyển.
 
-Ngoài KLIA, MAHB điều hành các cửa ngõ quốc tế khác của Malaysia (chẳng hạn những cửa ngõ phục vụ Penang, Kota Kinabalu, Kuching và Langkawi), một tầng các sân bay nội địa, và một tập hợp các STOLport giúp các cộng đồng xa xôi — đặc biệt ở Sabah và Sarawak — được kết nối.
+Ngoài KLIA, MAHB điều hành các cửa ngõ quốc tế khác của Malaysia (chẳng hạn những cửa ngõ phục vụ Penang, Kota Kinabalu, Kuching và [Langkawi](/vi/tourism/langkawi-visitor-guide)), một tầng các sân bay nội địa, và một tập hợp các STOLport giúp các cộng đồng xa xôi — đặc biệt ở Sabah và Sarawak — được kết nối.
 
 Ở nước ngoài, MAHB vận hành Sân bay Quốc tế Istanbul Sabiha Gökçen, sân bay lớn thứ hai của Thổ Nhĩ Kỳ sau Sân bay Istanbul, mà nó đã nắm giữ từ giữa thập niên 2010. Sabiha Gökçen là một trung tâm giá rẻ và điểm-đến-điểm lớn; MAHB báo cáo nó đã xử lý vào khoảng 41 triệu hành khách trong năm 2024, khiến nó trở thành một phần đáng kể của lưu lượng tập đoàn.
 

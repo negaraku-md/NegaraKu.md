@@ -136,7 +136,7 @@ density outside Kuching and a handful of other towns.
 
 Kuching's waterfront along the Sarawak River anchors the state capital, combining
 colonial-era buildings with modern civic architecture including the Sarawak State
-Legislative Assembly. Bako National Park and Gunung Mulu National Park, the latter a
+Legislative Assembly. Bako National Park and [Gunung Mulu National Park](/tourism/gunung-mulu-national-park), the latter a
 UNESCO World Heritage Site known for its vast cave systems, showcase Sarawak's
 rainforest ecology. The Semenggoh Wildlife Centre near Kuching is known for its
 semi-wild orangutan population. Bintulu is the centre of the state's LNG industry,

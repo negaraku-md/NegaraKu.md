@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "ta"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -152,7 +152,7 @@ Petros போன்ற சரவாக்கின் சொந்த மாந�
 காலனித்துவ கால கட்டிடங்களை சரவாக் மாநில சட்டமன்றம் (Sarawak State
 Legislative Assembly) உட்பட நவீன குடிமைக் கட்டிடக்கலையுடன் இணைத்து,
 மாநிலத் தலைநகரை நங்கூரமிடுகிறது. பாக்கோ தேசியப் பூங்கா (Bako National Park)
-மற்றும் Gunung Mulu National Park — பிந்தையது அதன் பரந்த குகை அமைப்புகளுக்குப்
+மற்றும் [Gunung Mulu National Park](/ta/tourism/gunung-mulu-national-park) — பிந்தையது அதன் பரந்த குகை அமைப்புகளுக்குப்
 பெயர்பெற்ற ஒரு UNESCO உலகப் பாரம்பரியத் தளம் — சரவாக்கின் மழைக்காடு
 சூழலியலைக் காட்சிப்படுத்துகின்றன. குச்சிங் அருகிலுள்ள Semenggoh Wildlife
 Centre அதன் அரை-காட்டு ஓராங்குட்டான் மக்கள்தொகைக்குப் பெயர்பெற்றது. பிந்துலு

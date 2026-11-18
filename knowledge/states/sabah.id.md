@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang mencari profil faktual Sabah — geografi, ekonomi dan pemerintahannya — serta penjelasan netral mengenai kedudukan konstitusionalnya di bawah Perjanjian Malaysia 1963."
 
 lang: "id"
-sourceContentHash: "d05db2b4db752c79"
+sourceContentHash: "a41acdd421e03bda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ di selatan lingkaran topan. Markah tanah utamanya adalah Gunung Kinabalu, sebuah
 massa granit setinggi 4,095 meter yang merupakan gunung tertinggi antara Himalaya
 dan New Guinea.
 
-Gunung ini terletak di dalam Taman Kinabalu (Kinabalu Park), sebuah kawasan
+Gunung ini terletak di dalam [Taman Kinabalu](/id/tourism/mount-kinabalu-and-kinabalu-park) (Kinabalu Park), sebuah kawasan
 lindung seluas 75,370 hektar yang dikelola oleh Sabah Parks. Pada tahun 2000,
 ia menjadi Situs Warisan Dunia UNESCO pertama Malaysia, didaftarkan atas
 konsentrasi flora yang luar biasa — habitat taman ini terbentang

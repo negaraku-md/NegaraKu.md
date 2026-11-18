@@ -31,7 +31,7 @@ faq:
     a: "Tutup bahu dan lutut anda di semua tapak keagamaan. Masjid turut mengharapkan wanita menutup rambut dan semua orang menanggalkan kasut. Kuil Hindu dan Cina juga memerlukan kasut ditanggalkan sebelum memasuki ruang dalam yang suci."
 
 lang: "ms"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ Bandar Bersejarah Selat Melaka (Melaka dan George Town) telah disenaraikan pada 
 
 | Tapak | Tahun disenaraikan | Negeri | Jenis |
 | --- | --- | --- | --- |
-| Taman Kinabalu | 2000 | Sabah | Semula jadi |
-| Taman Negara Gunung Mulu | 2000 | Sarawak | Semula jadi |
+| [Taman Kinabalu](/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | Semula jadi |
+| [Taman Negara Gunung Mulu](/tourism/gunung-mulu-national-park) | 2000 | Sarawak | Semula jadi |
 | Bandar Bersejarah Selat Melaka (Melaka & George Town) | 2008 | Melaka & Pulau Pinang | Budaya |
 | Warisan Arkeologi Lembah Lenggong | 2012 | Perak | Budaya (arkeologi) |
 | Warisan Arkeologi Kompleks Gua Taman Negara Niah | 2024 | Sarawak | Budaya (arkeologi) |

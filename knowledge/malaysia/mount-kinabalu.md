@@ -77,7 +77,7 @@ The uplift that keeps pushing the mountain higher is linked to the loss of a den
 
 ## Protected on three separate counts
 
-Kinabalu Park was gazetted in 1964 as one of Sabah's first national parks, built on the back of Royal Society scientific expeditions to the mountain earlier that decade. In December 2000, UNESCO inscribed it as a World Heritage Site — Malaysia's first — under natural criteria (ix) and (x): recognition of its ongoing ecological and evolutionary processes, and of its exceptional biodiversity and habitat for species conservation. The inscribed property covers about 75,370 hectares (753.7 km²).
+[Kinabalu Park](/tourism/mount-kinabalu-and-kinabalu-park) was gazetted in 1964 as one of Sabah's first national parks, built on the back of Royal Society scientific expeditions to the mountain earlier that decade. In December 2000, UNESCO inscribed it as a World Heritage Site — Malaysia's first — under natural criteria (ix) and (x): recognition of its ongoing ecological and evolutionary processes, and of its exceptional biodiversity and habitat for species conservation. The inscribed property covers about 75,370 hectares (753.7 km²).
 
 That World Heritage listing sits alongside two other UNESCO designations — a Global Geopark and a Biosphere Reserve — making Kinabalu one of a small number of sites worldwide to hold all three at once.
 

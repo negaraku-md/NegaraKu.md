@@ -54,7 +54,7 @@ sources:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 
 status: "published"
 aiAssisted: true
@@ -190,7 +190,7 @@ ais* कहें और आपको यह बर्फ़ पर मिलत
 इस पेय को अभिजात रूप में भी फिर से गढ़ा गया है। 2025 में एक स्पष्ट किया हुआ, आधुनिकीकृत रूप जिसे
 **bandung pandan spritz** कहा जाता है — एक स्पष्ट किए हुए सिरप बंदुंग पर नारियल-लीची कॉर्डियल, pandan
 और खट्टे फल के साथ बनाया — ने Visit Malaysia 2026 के लिए आयोजित Signature Mocktail Championship
-जीता, जो Malaysian Association of Hotels और MFBEA के Mixology Alliance द्वारा Tourism Malaysia के
+जीता, जो Malaysian Association of Hotels और MFBEA के Mixology Alliance द्वारा [Tourism Malaysia](/hi/tourism/tourism-malaysia-and-tourism-agencies) के
 समर्थन से आयोजित हुआ, और इसे प्रेस में एक राष्ट्रीय मॉकटेल के रूप में प्रचारित किया गया। (सुर्खियाँ
 इसे "आधिकारिक" या "राष्ट्रीय" कहती हैं, जबकि रिपोर्टों का अपना विवरण इसे चैंपियनशिप विजेता के रूप में
 वर्णित करता है, इसलिए चैंपियनशिप का ढाँचा अधिक सुरक्षित है।) रचनाकार ने इसे *kuih lapis* के साथ परोसना

@@ -34,7 +34,7 @@ faq:
     a: "Section 10 của Đạo luật Công viên Quốc gia 1980 cấm khai thác mỏ và thăm dò khoáng sản trong công viên quốc gia, trừ khi Cơ quan Nhà nước của Bang, sau khi tham vấn với Bộ trưởng, nhận thấy có tồn tại một mỏ khoáng sản đặc biệt giàu."
 
 lang: "vi"
-sourceContentHash: "1f3622365daf3410"
+sourceContentHash: "a490a97f35c2c8d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-Hỏi bất kỳ ai xem "công viên quốc gia của Malaysia" nằm ở đâu và họ sẽ chỉ vào một nơi. Thực tế, Malaysia không có một công viên quốc gia — nó có ba hệ thống pháp lý hoàn toàn riêng biệt, và một trong số đó thậm chí không bao gồm nơi nổi tiếng nhất với cái tên "Taman Negara". Hiểu tấm bản đồ pháp lý này là chìa khóa để lên kế hoạch cho một chuyến đi, tiến hành nghiên cứu, hoặc đơn giản là hiểu cách Malaysia bảo vệ khu rừng mưa 130 triệu năm tuổi của mình.
+Hỏi bất kỳ ai xem "công viên quốc gia của Malaysia" nằm ở đâu và họ sẽ chỉ vào một nơi. Thực tế, Malaysia không có một công viên quốc gia — nó có ba hệ thống pháp lý hoàn toàn riêng biệt, và một trong số đó thậm chí không bao gồm nơi nổi tiếng nhất với cái tên "[Taman Negara](/vi/tourism/taman-negara-ecotourism-guide)". Hiểu tấm bản đồ pháp lý này là chìa khóa để lên kế hoạch cho một chuyến đi, tiến hành nghiên cứu, hoặc đơn giản là hiểu cách Malaysia bảo vệ khu rừng mưa 130 triệu năm tuổi của mình.
 
 ## Vì sao Malaysia không có một hệ thống công viên quốc gia duy nhất?
 

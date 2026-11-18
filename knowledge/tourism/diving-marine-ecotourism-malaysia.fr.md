@@ -31,7 +31,7 @@ faq:
     a: "Cela dépend de l'emplacement. Les parcs marins de la Malaisie péninsulaire et de Labuan sont fédéraux, gérés par le Département des pêches de Malaisie en vertu de la loi sur les pêches de 1985. Les parcs du Sabah, dont Sipadan, sont gérés par l'organisme d'État Sabah Parks en vertu d'une loi d'État distincte."
 
 lang: "fr"
-sourceContentHash: "c84ad1c115fc50b3"
+sourceContentHash: "b4330d885555b613"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["permis de plongée Sipadan", "droits des parcs marins Malaisie", "Sa
 framework: rules
 ---
 
-L'eau la plus claire de la Malaisie est aussi la plus difficile à atteindre : pour vous laisser glisser le long du tombant de Sipadan, il vous faut un permis gouvernemental qu'aucune somme d'argent ne vous permettra d'acheter directement. Ce seul fait résume la façon dont le pays gère son tourisme de plongée — l'accès est rationné, tarifé et réparti entre deux autorités très différentes selon la mer dans laquelle vous souhaitez descendre.
+L'eau la plus claire de la Malaisie est aussi la plus difficile à atteindre : pour vous laisser glisser le long du tombant de [Sipadan](/fr/tourism/sipadan-and-semporna), il vous faut un permis gouvernemental qu'aucune somme d'argent ne vous permettra d'acheter directement. Ce seul fait résume la façon dont le pays gère son tourisme de plongée — l'accès est rationné, tarifé et réparti entre deux autorités très différentes selon la mer dans laquelle vous souhaitez descendre.
 
 ## Qui décide où vous pouvez plonger en Malaisie ?
 

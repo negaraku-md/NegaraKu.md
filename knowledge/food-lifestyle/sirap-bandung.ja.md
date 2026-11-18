@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "ja"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,7 +188,7 @@ berbandung*（二軒続きの家）や*mee bandung*（混ぜ麺料理）にも�
 
 この飲み物は高級路線でも作り直されてきた。2025年、澄ませて現代風にした仕立て——澄ませたシラップ・
 バンドンにココナッツ・ライチのコーディアル、パンダン、柑橘を重ねた**バンドン・パンダン・スプリッツ**
-——が、マレーシア・ホテル協会と MFBEA のミクソロジー・アライアンスが、ツーリズム・マレーシアの支援を
+——が、マレーシア・ホテル協会と MFBEA のミクソロジー・アライアンスが、[ツーリズム・マレーシア](/ja/tourism/tourism-malaysia-and-tourism-agencies)の支援を
 得て催した、ビジット・マレーシア2026のためのシグネチャー・モクテル選手権で優勝し、報道では国民的
 モクテルとして宣伝された。（見出しは「公式」「国民的」と呼ぶが、報道自身の細部はこれを選手権の優勝作と
 説明するので、選手権という枠組みのほうが安全だ。）作り手はこれを*クイ・ラピス*（kuih lapis）とともに

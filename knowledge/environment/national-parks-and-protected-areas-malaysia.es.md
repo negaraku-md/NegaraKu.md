@@ -34,7 +34,7 @@ faq:
     a: "El artículo 10 de la Ley de Parques Nacionales de 1980 prohíbe la minería y la prospección dentro de un parque nacional, a menos que la Autoridad Estatal, tras consultar al Ministro, determine que existe un yacimiento mineral tan excepcionalmente rico."
 
 lang: "es"
-sourceContentHash: "1f3622365daf3410"
+sourceContentHash: "a490a97f35c2c8d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-Pregunte a cualquiera dónde está «el parque nacional de Malasia» y señalará un solo lugar. En realidad, Malasia no tiene un único parque nacional — tiene tres sistemas jurídicos completamente separados, y uno de ellos ni siquiera abarca el lugar más famoso con el nombre de «Taman Negara». Entender este mapa jurídico es la clave para planificar una visita, llevar a cabo una investigación o simplemente comprender cómo protege Malasia sus selvas tropicales de 130 millones de años.
+Pregunte a cualquiera dónde está «el parque nacional de Malasia» y señalará un solo lugar. En realidad, Malasia no tiene un único parque nacional — tiene tres sistemas jurídicos completamente separados, y uno de ellos ni siquiera abarca el lugar más famoso con el nombre de «[Taman Negara](/es/tourism/taman-negara-ecotourism-guide)». Entender este mapa jurídico es la clave para planificar una visita, llevar a cabo una investigación o simplemente comprender cómo protege Malasia sus selvas tropicales de 130 millones de años.
 
 ## ¿Por qué Malasia no tiene un sistema único y unificado de parques nacionales?
 

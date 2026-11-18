@@ -31,7 +31,7 @@ faq:
     a: "Các nguồn ghi hai tiến trình chạy song song chứ không phải cái này gây ra cái kia. Độc lập được thương lượng và đạt được vào ngày 31 tháng 8 năm 1957 khi Tình trạng Khẩn cấp vẫn còn hiệu lực, và Tình trạng Khẩn cấp tiếp tục thêm gần ba năm nữa dưới một chính phủ Malaya độc lập."
 
 lang: "vi"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -112,7 +112,7 @@ Nỗ lực an ninh, về mặt con số, là một hoạt động cảnh sát h�
 
 Quân đội chính quy phát triển chậm hơn. Lịch sử của chính Quân đội Malaysia ghi Trung đoàn Mã Lai đứng ở ba tiểu đoàn khi Tình trạng Khẩn cấp được tuyên bố, bảy vào năm 1956, và mười một vào năm 1961. Các đơn vị Khối Thịnh vượng chung phục vụ bên cạnh các lực lượng Malaya, và một lực lượng Vệ binh Địa phương (Home Guard) được tuyển tại chỗ từ các cộng đồng Mã Lai, Hoa và Ấn đã canh gác các làng, đồn điền và khu tái định cư.
 
-Sir Henry Gurney, người kế nhiệm Gent làm Cao ủy, bị giết trong một cuộc phục kích vào tháng 10 năm 1951 khi đang di chuyển đến Fraser's Hill. Cục Lưu trữ Quốc gia ghi rằng vụ ám sát đã thúc đẩy một sự leo thang mạnh của phản ứng chính phủ.
+Sir Henry Gurney, người kế nhiệm Gent làm Cao ủy, bị giết trong một cuộc phục kích vào tháng 10 năm 1951 khi đang di chuyển đến [Fraser's Hill](/vi/tourism/frasers-hill). Cục Lưu trữ Quốc gia ghi rằng vụ ám sát đã thúc đẩy một sự leo thang mạnh của phản ứng chính phủ.
 
 ## Kế hoạch Briggs và các làng mới
 

@@ -18,7 +18,7 @@ keyTakeaways:
   - "Gió mùa Đông Bắc (tháng 11–tháng 3) làm ướt sũng bờ đông Bán đảo, tây Sarawak và bắc Sabah; Gió mùa Tây Nam (tháng 5–tháng 9) tương đối khô hơn — một nhịp điệu vẫn định hình mùa lũ và lịch canh tác (Cục Khí tượng Malaysia)"
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao dân số, các thành phố và nguy cơ lũ lụt của Malaysia lại tụ về nơi chúng tụ về — học sinh, người mới đến, các nhà quy hoạch, hay bất kỳ ai bối rối vì sao 'mùa gió mùa' lại có nghĩa khác nhau ở các bờ biển khác nhau."
 lang: "vi"
-sourceContentHash: "53f49043897c123b"
+sourceContentHash: "e7dc1f31338ea13e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,7 +93,7 @@ Nhìn vào một bản đồ địa hình của Bán đảo Malaysia và một �
 
 Thứ nhất, nó là một đường phân thủy. Mưa rơi trên các sườn của nó chảy về đông hoặc tây tùy theo mặt nào của đỉnh nó rơi xuống, nuôi các con sông — sông Pahang, sông Perak, sông Kelantan trong số đó — mà người Bán đảo Malaysia đã canh tác, đánh cá và giao thương dọc theo hàng thế kỷ.
 
-Thứ hai, nó là một bức tường. Điểm cao nhất của dãy, **Gunung Tahan**, cao đến 2,187 mét trên biên giới Pahang–Kelantan, bên trong nơi nay là Taman Negara — vườn quốc gia của Malaysia. Một sống cao nguyên cao như vậy, chạy dọc suốt Bán đảo, không chỉ nằm đó cho đẹp mắt. Nó đẩy sự định cư ra ngoài.
+Thứ hai, nó là một bức tường. Điểm cao nhất của dãy, **Gunung Tahan**, cao đến 2,187 mét trên biên giới Pahang–Kelantan, bên trong nơi nay là [Taman Negara](/vi/tourism/taman-negara-ecotourism-guide) — vườn quốc gia của Malaysia. Một sống cao nguyên cao như vậy, chạy dọc suốt Bán đảo, không chỉ nằm đó cho đẹp mắt. Nó đẩy sự định cư ra ngoài.
 
 ## Vì sao mọi người sống ở các rìa
 
@@ -109,7 +109,7 @@ Dù thế nào, khuôn mẫu vẫn giữ: đồng bằng ven biển và thung l�
 
 Vượt Biển Đông sang Sabah và Sarawak và cùng một logic lại xuất hiện, chỉ có điều lớn hơn. Một vùng nội địa núi non — được neo ở Sabah bởi **Dãy Crocker** — ngăn cách một dải ven biển hẹp với rừng nhiệt đới Borneo sâu bên trong. Các thủ phủ bang và các trung tâm dân cư, Kota Kinabalu và Kuching trong số đó, nằm ở ven biển hoặc ngược lên các con sông có thể đi lại được, chính xác nơi khuôn mẫu bán đảo sẽ dự đoán.
 
-Phiên bản của Sabah về "đỉnh cao nhất buộc phải nể trọng" không hề tinh tế. **[Núi Kinabalu](/malaysia/mount-kinabalu)** cao đến 4,095 mét — không chỉ là điểm cao nhất Malaysia, mà là đỉnh cao nhất ở bất cứ đâu giữa dãy Himalaya và New Guinea. Nó nằm bên trong Vườn Kinabalu, Di sản Thế giới UNESCO đầu tiên của Malaysia, và đỉnh granite của nó có thể nhìn thấy từ phần lớn bờ tây Sabah vào một ngày quang đãng, một địa danh vĩnh viễn cho một đường bờ biển vốn có ít.
+Phiên bản của Sabah về "đỉnh cao nhất buộc phải nể trọng" không hề tinh tế. **[Núi Kinabalu](/malaysia/mount-kinabalu)** cao đến 4,095 mét — không chỉ là điểm cao nhất Malaysia, mà là đỉnh cao nhất ở bất cứ đâu giữa dãy Himalaya và New Guinea. Nó nằm bên trong [Vườn Kinabalu](/vi/tourism/mount-kinabalu-and-kinabalu-park), Di sản Thế giới UNESCO đầu tiên của Malaysia, và đỉnh granite của nó có thể nhìn thấy từ phần lớn bờ tây Sabah vào một ngày quang đãng, một địa danh vĩnh viễn cho một đường bờ biển vốn có ít.
 
 | | Bán đảo Malaysia | Đông Malaysia (Borneo) |
 | --- | --- | --- |

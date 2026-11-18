@@ -36,7 +36,7 @@ faq:
     a: "Existen ambas. Lugares como Annah Rais, cerca de Kuching, son comunidades bidayuh vivas de longhouse donde las familias todavía residen, mientras que el Sarawak Cultural Village, cerca de Santubong, es un museo vivo construido a tal fin. Visitar una longhouse en funcionamiento se organiza mejor con antelación y a menudo a través de un guía que pueda interpretar la visita con respeto."
 
 lang: "es"
-sourceContentHash: "484f5ee1df5a2a08"
+sourceContentHash: "e445b9a3b39697bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ framework: explainer
 
 Puedes volar de Kuala Lumpur a Kuching en menos de dos horas, no salir nunca de tu propio país y aun así recibir un sello de inmigración al otro extremo. Esa sorpresa en la sala de llegadas es lo más importante que hay que entender sobre Sarawak: es un estado malasio que gestiona su propia frontera.
 
-Sarawak es el mayor de los estados de Malasia por superficie y ocupa el noroeste de Borneo. Es un lugar de selva tropical ancestral, las mayores salas de cuevas de la Tierra y comunidades que todavía viven en común en longhouses. Esta guía cubre lo que necesitas para entrar, cómo establecer tu base en Kuching, cómo llegar a las cuevas Patrimonio de la Humanidad de Gunung Mulu y cómo visitar una longhouse sin convertirla en un espectáculo.
+Sarawak es el mayor de los estados de Malasia por superficie y ocupa el noroeste de Borneo. Es un lugar de selva tropical ancestral, las mayores salas de cuevas de la Tierra y comunidades que todavía viven en común en longhouses. Esta guía cubre lo que necesitas para entrar, cómo establecer tu base en Kuching, cómo llegar a las cuevas Patrimonio de la Humanidad de [Gunung Mulu](/es/tourism/gunung-mulu-national-park) y cómo visitar una longhouse sin convertirla en un espectáculo.
 
 ## ¿Por qué tiene Sarawak su propia inmigración?
 

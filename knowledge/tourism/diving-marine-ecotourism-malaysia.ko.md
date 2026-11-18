@@ -31,7 +31,7 @@ faq:
     a: "위치에 따라 다릅니다. 반도 말레이시아와 라부안(Labuan)의 해양공원은 연방 관할로, 어업법 1985(Fisheries Act 1985)에 따라 말레이시아 수산국(Department of Fisheries Malaysia)이 관리합니다. 시파단을 포함한 사바(Sabah)의 공원은 별도의 주 법에 따라 주 기관인 사바 파크스(Sabah Parks)가 관리합니다."
 
 lang: "ko"
-sourceContentHash: "c84ad1c115fc50b3"
+sourceContentHash: "b4330d885555b613"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", 
 framework: rules
 ---
 
-말레이시아에서 가장 맑은 물은 또한 가장 다다르기 어렵습니다. 시파단(Sipadan)의 벽면으로 뛰어들려면 아무리 많은 돈을 내도 직접 살 수 없는 정부 허가증이 필요합니다. 이 하나의 사실이 이 나라가 다이빙 관광을 운영하는 방식을 잘 보여줍니다 — 출입은 배분되고, 요금이 매겨지며, 어느 바다로 내려가고 싶은지에 따라 매우 다른 두 관할권으로 나뉩니다.
+말레이시아에서 가장 맑은 물은 또한 가장 다다르기 어렵습니다. [시파단(Sipadan)](/ko/tourism/sipadan-and-semporna)의 벽면으로 뛰어들려면 아무리 많은 돈을 내도 직접 살 수 없는 정부 허가증이 필요합니다. 이 하나의 사실이 이 나라가 다이빙 관광을 운영하는 방식을 잘 보여줍니다 — 출입은 배분되고, 요금이 매겨지며, 어느 바다로 내려가고 싶은지에 따라 매우 다른 두 관할권으로 나뉩니다.
 
 ## 말레이시아에서 어디서 다이빙할 수 있는지는 누가 정합니까?
 

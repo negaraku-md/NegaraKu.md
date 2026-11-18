@@ -34,7 +34,7 @@ faq:
     a: "Pasal 10 National Parks Act 1980 melarang pertambangan dan penggalian dalam taman negara, kecuali jika Pihak Berwenang Negeri, setelah berunding dengan Menteri, menemukan adanya deposit mineral yang sangat kaya."
 
 lang: "id"
-sourceContentHash: "1f3622365daf3410"
+sourceContentHash: "a490a97f35c2c8d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-Tanya siapa pun di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Kenyataannya, Malaysia tidak memiliki satu taman negara — ia memiliki tiga sistem hukum yang sama sekali terpisah, dan salah satunya bahkan tidak mencakup tempat yang paling terkenal dengan nama "Taman Negara". Memahami peta hukum ini adalah kunci untuk merencanakan kunjungan, menjalankan penelitian, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.
+Tanya siapa pun di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Kenyataannya, Malaysia tidak memiliki satu taman negara — ia memiliki tiga sistem hukum yang sama sekali terpisah, dan salah satunya bahkan tidak mencakup tempat yang paling terkenal dengan nama "[Taman Negara](/id/tourism/taman-negara-ecotourism-guide)". Memahami peta hukum ini adalah kunci untuk merencanakan kunjungan, menjalankan penelitian, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.
 
 ## Mengapa Malaysia tidak memiliki satu sistem taman negara tunggal?
 

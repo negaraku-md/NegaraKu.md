@@ -54,7 +54,7 @@ sources:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 
 status: "published"
 aiAssisted: true
@@ -202,7 +202,7 @@ Thức uống cũng đã được tái tạo theo hướng cao cấp. Năm 2025 
 đại hóa gọi là **bandung pandan spritz** — dựng trên một sirap bandung đã tinh lọc với cordial
 dừa-vải, lá dứa và cam chanh — đã thắng Giải Vô địch Mocktail Đặc trưng tổ chức cho Visit
 Malaysia 2026, do Hiệp hội Khách sạn Malaysia và Mixology Alliance của MFBEA tổ chức với sự hỗ
-trợ của Tourism Malaysia, và được quảng bá trên báo chí như một mocktail quốc dân. (Các dòng
+trợ của [Tourism Malaysia](/vi/tourism/tourism-malaysia-and-tourism-agencies), và được quảng bá trên báo chí như một mocktail quốc dân. (Các dòng
 tít gọi nó là "chính thức" hoặc "quốc dân," trong khi phần chi tiết của chính các bản tin mô
 tả nó là người thắng giải vô địch, nên cách diễn đạt giải-vô-địch là cách an toàn hơn.) Người
 sáng tạo đã chọn phục vụ nó với *kuih lapis*, mà nhiều lớp của nó ông đưa ra như một sự gợi

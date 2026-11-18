@@ -31,7 +31,7 @@ faq:
     a: "视地点而定。西马与纳闽的海洋公园属于联邦管辖，由马来西亚渔业局依据《1985年渔业法令》管理。沙巴的公园（包括诗巴丹）则由州级机构沙巴公园依据另外的州法管理。"
 
 lang: "zh"
-sourceContentHash: "c84ad1c115fc50b3"
+sourceContentHash: "b4330d885555b613"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", 
 framework: rules
 ---
 
-马来西亚最清澈的海水，恰恰也是最难抵达的：要跃入诗巴丹（Sipadan）的峭壁，你需要一张再多钱也无法直接购买的政府许可证。这一个事实道尽了这个国家如何经营其潜水旅游——准入是被配给、被定价的，并且依你想潜入哪片海而分属两个截然不同的当局。
+马来西亚最清澈的海水，恰恰也是最难抵达的：要跃入[诗巴丹（Sipadan）](/zh/tourism/sipadan-and-semporna)的峭壁，你需要一张再多钱也无法直接购买的政府许可证。这一个事实道尽了这个国家如何经营其潜水旅游——准入是被配给、被定价的，并且依你想潜入哪片海而分属两个截然不同的当局。
 
 ## 谁来决定你能在马来西亚哪里潜水？
 

@@ -18,7 +18,7 @@ keyTakeaways:
   - "El Monzón del Noreste (nov–mar) empapa la costa este de la Península, el oeste de Sarawak y el norte de Sabah; el Monzón del Suroeste (may–sep) es comparativamente más seco — un ritmo que todavía hoy determina la temporada de inundaciones y los calendarios agrícolas (Departamento Meteorológico de Malasia)"
 appliesTo: "Cualquiera que intente entender por qué la población, las ciudades y el riesgo de inundaciones de Malasia se agrupan donde lo hacen — estudiantes, recién llegados, planificadores o cualquiera desconcertado por qué «temporada de monzones» significa cosas distintas en costas distintas."
 lang: "es"
-sourceContentHash: "53f49043897c123b"
+sourceContentHash: "e7dc1f31338ea13e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,7 +93,7 @@ Mire un mapa de relieve de la Malasia Peninsular y una característica domina: u
 
 Primero, es una divisoria de aguas. La lluvia que cae en sus laderas drena hacia el este o el oeste según en qué lado de la cresta aterrice, alimentando los ríos — el Pahang, el Perak y el Kelantan entre ellos — a lo largo de los cuales los malasios peninsulares han cultivado, pescado y comerciado durante siglos.
 
-Segundo, es un muro. El punto más alto de la cordillera, el **Gunung Tahan**, se eleva hasta 2.187 metros en la frontera entre Pahang y Kelantan, dentro de lo que hoy es el Taman Negara — el parque nacional de Malasia. Una espina de tierras altas tan elevada, que recorre toda la longitud de la Península, no se limita a estar ahí de forma pintoresca. Empuja el poblamiento hacia afuera.
+Segundo, es un muro. El punto más alto de la cordillera, el **Gunung Tahan**, se eleva hasta 2.187 metros en la frontera entre Pahang y Kelantan, dentro de lo que hoy es el [Taman Negara](/es/tourism/taman-negara-ecotourism-guide) — el parque nacional de Malasia. Una espina de tierras altas tan elevada, que recorre toda la longitud de la Península, no se limita a estar ahí de forma pintoresca. Empuja el poblamiento hacia afuera.
 
 ## Por qué todo el mundo vive en los bordes
 
@@ -109,7 +109,7 @@ En cualquier caso, el patrón se mantiene: llanura costera y valle fluvial para 
 
 Cruce el Mar de China Meridional hacia Sabah y Sarawak y la misma lógica reaparece, solo que más grande. Un interior montañoso — anclado en Sabah por la **cordillera de Crocker** — separa una estrecha franja costera de la profunda selva tropical bornéa del interior. Las capitales estatales y los centros de población, entre ellos Kota Kinabalu y Kuching, se asientan en la costa o río arriba por ríos navegables, exactamente donde el patrón peninsular lo predeciría.
 
-La versión de Sabah de «la cima más alta impone respeto» no es sutil. El **[Monte Kinabalu](/malaysia/mount-kinabalu)** se eleva hasta los 4.095 metros — no solo el punto más alto de Malasia, sino la cima más alta de cualquier lugar entre el Himalaya y Nueva Guinea. Se encuentra dentro del Parque Kinabalu, el primer Sitio de Patrimonio Mundial de la UNESCO de Malasia, y su cumbre de granito es visible desde gran parte de la costa oeste de Sabah en un día despejado, un hito permanente para un litoral que, por lo demás, ofrece pocos.
+La versión de Sabah de «la cima más alta impone respeto» no es sutil. El **[Monte Kinabalu](/malaysia/mount-kinabalu)** se eleva hasta los 4.095 metros — no solo el punto más alto de Malasia, sino la cima más alta de cualquier lugar entre el Himalaya y Nueva Guinea. Se encuentra dentro del [Parque Kinabalu](/es/tourism/mount-kinabalu-and-kinabalu-park), el primer Sitio de Patrimonio Mundial de la UNESCO de Malasia, y su cumbre de granito es visible desde gran parte de la costa oeste de Sabah en un día despejado, un hito permanente para un litoral que, por lo demás, ofrece pocos.
 
 | | Malasia Peninsular | Malasia Oriental (Borneo) |
 | --- | --- | --- |

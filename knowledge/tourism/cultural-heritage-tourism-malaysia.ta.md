@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 
 status: "published"
 aiAssisted: true
@@ -91,8 +91,8 @@ The Historic Cities of the Straits of Malacca (Melaka மற்றும் Geor
 
 | தளம் | பட்டியல் ஆண்டு | மாநிலம் | வகை |
 | --- | --- | --- | --- |
-| Kinabalu Park | 2000 | Sabah | இயற்கை |
-| Gunung Mulu National Park | 2000 | Sarawak | இயற்கை |
+| [Kinabalu Park](/ta/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | இயற்கை |
+| [Gunung Mulu National Park](/ta/tourism/gunung-mulu-national-park) | 2000 | Sarawak | இயற்கை |
 | Historic Cities of the Straits of Malacca (Melaka & George Town) | 2008 | Melaka & Penang | பண்பாடு |
 | Archaeological Heritage of the Lenggong Valley | 2012 | Perak | பண்பாடு (தொல்லியல்) |
 | Archaeological Heritage of the Niah National Park Cave Complex | 2024 | Sarawak | பண்பாடு (தொல்லியல்) |

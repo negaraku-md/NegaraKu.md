@@ -69,7 +69,7 @@ That line is the Titiwangsa Range, and it is the single most consequential piece
 
 The Titiwangsa Range, known locally as Banjaran Titiwangsa or simply the Main Range, is a continuous chain of mountains running down the spine of the peninsula. Malaysia's own biodiversity portal, MyBIS, describes it as "the largest, most prominent and continuous mountain range in Peninsular Malaysia," stretching roughly 500 kilometres from the Malaysia-Thailand border in the north down to Negeri Sembilan, where the terrain loses height and merges into the coastal plain near Melaka.
 
-It isn't a single ridge with one name from end to end. Along its length it splits into named massifs and peaks — Belum in the far north of Perak, the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) plateau, Fraser's Hill further south, Gunung Nuang near the Selangor-Pahang border — but geographers and government planners treat it as one continuous system, because hydrologically and ecologically it behaves as one.
+It isn't a single ridge with one name from end to end. Along its length it splits into named massifs and peaks — Belum in the far north of Perak, the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) plateau, [Fraser's Hill](/tourism/frasers-hill) further south, Gunung Nuang near the Selangor-Pahang border — but geographers and government planners treat it as one continuous system, because hydrologically and ecologically it behaves as one.
 
 ## The watershed that runs the whole peninsula
 
@@ -99,7 +99,7 @@ Elevation itself shapes how the range is governed: its highest terrain falls und
 
 **Treating it as a single named "mountain."** The Titiwangsa Range is a chain, not one peak — Cameron Highlands, Fraser's Hill, Gunung Korbu and Gunung Stong are all points along it, not separate ranges.
 
-**Confusing it with Gunung Tahan.** Peninsular Malaysia's single highest mountain, Gunung Tahan in Pahang, sits in the separate Tahan Range inside Taman Negara, not on the Titiwangsa Range itself.
+**Confusing it with Gunung Tahan.** Peninsular Malaysia's single highest mountain, Gunung Tahan in Pahang, sits in the separate Tahan Range inside [Taman Negara](/tourism/taman-negara-ecotourism-guide), not on the Titiwangsa Range itself.
 
 **Assuming state borders and the range line up neatly.** The range runs broadly along, but not exactly on, several state boundaries — it is a geographic feature first, and administrative borders were drawn against it rather than the other way round.
 

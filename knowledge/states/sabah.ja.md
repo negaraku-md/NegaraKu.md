@@ -21,7 +21,7 @@ appliesTo: "サバの地理、経済及び政府に関する事実に基づく�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d05db2b4db752c79"
+sourceContentHash: "a41acdd421e03bda"
 
 status: "published"
 aiAssisted: true
@@ -107,7 +107,7 @@ framework: profile
 地標がキナバル山であり、標高4,095メートルの花崗岩の山塊で、ヒマラヤとニューギニアの
 間で最も高い山である。
 
-この山はキナバル公園内にあり、同公園はサバ公園局（Sabah Parks）が管理する75,370
+この山は[キナバル公園](/ja/tourism/mount-kinabalu-and-kinabalu-park)内にあり、同公園はサバ公園局（Sabah Parks）が管理する75,370
 ヘクタールの保護区である。2000年、この公園はマレーシア初のUNESCO世界遺産となった
 ——植物相の卓越した集積が評価されての登録であり、公園の生息環境は標高約150メートルの
 低地雨林から山頂帯の亜高山性低木林にまで及び、世界的に重要な植物固有性の中心地として

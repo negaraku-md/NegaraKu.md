@@ -21,7 +21,7 @@ appliesTo: "希望了解沙巴事实概况——包括其地理、经济与政�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d05db2b4db752c79"
+sourceContentHash: "a41acdd421e03bda"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ framework: profile
 那巴鲁山，一座海拔4,095米的花岗岩山体，是喜马拉雅山与新几内亚之间最高的
 山峰。
 
-这座山坐落于京那巴鲁公园（Kinabalu Park）内，这是一个由Sabah Parks管理、
+这座山坐落于[京那巴鲁公园](/zh/tourism/mount-kinabalu-and-kinabalu-park)（Kinabalu Park）内，这是一个由Sabah Parks管理、
 占地75,370公顷的保护区。2000年，它成为马来西亚首个联合国教科文组织世界
 遗产，因其植物生态的非凡密集程度而获得列入——公园的生境从海拔约150米的
 低地雨林，一直延伸到山顶地带的亚高山灌丛，并被公认为全球重要的植物特有

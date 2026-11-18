@@ -112,7 +112,7 @@ satu daripada setiap 20 rakyat Malaysia tinggal di sana.
 
 Itulah fakta tunggal yang menerangkan hampir segala-galanya tentang negeri ini:
 mengapa hutannya masih luas, mengapa ekonominya bersandar pada tanah dan bukan
-pada kilang, dan mengapa Taman Negara boleh wujud dalam bentuk yang tidak
+pada kilang, dan mengapa [Taman Negara](/tourism/taman-negara-ecotourism-guide) boleh wujud dalam bentuk yang tidak
 mungkin bertahan di [Selangor](/states/selangor) atau
 [Pulau Pinang](/states/penang).
 
@@ -179,7 +179,7 @@ Kerajaan Negeri. **Pekan** pula ialah bandar diraja.
 Geografinya juga bertingkat. Di pantai timur terdapat jalur pesisir sepanjang
 kira-kira 208 kilometer menghadap Laut China Selatan. Di pedalaman terbentang
 lembangan Sungai Pahang. Di barat pula terletak tanah tinggi — Cameron
-Highlands, Genting Highlands dan Bukit Fraser — yang menjadikan Pahang
+Highlands, [Genting Highlands](/tourism/genting-highlands) dan Bukit Fraser — yang menjadikan Pahang
 satu-satunya negeri yang menempatkan ketiga-tiga pusat peranginan tanah tinggi
 utama Semenanjung.
 

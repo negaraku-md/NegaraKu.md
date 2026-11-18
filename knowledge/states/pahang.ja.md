@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "da77a92f707cbcd4"
+sourceContentHash: "e16b23300ddd14d8"
 
 status: "published"
 aiAssisted: true
@@ -109,7 +109,7 @@ framework: profile
 
 パハンは半島マレーシアの国土の4分の1以上を占めるが、そこに暮らすマレーシア人はわずか20人に1人にすぎない。
 
-この一つの事実が、この州についてのほぼすべてを説明している。なぜ森林が今なお広大なのか、なぜ経済が工場ではなく土地に支えられているのか、そしてなぜタマンヌガラ（Taman Negara）が[セランゴール](/states/selangor)や[ペナン](/states/penang)では存続しえない形で存在できるのかを。
+この一つの事実が、この州についてのほぼすべてを説明している。なぜ森林が今なお広大なのか、なぜ経済が工場ではなく土地に支えられているのか、そしてなぜ[タマンヌガラ（Taman Negara）](/ja/tourism/taman-negara-ecotourism-guide)が[セランゴール](/states/selangor)や[ペナン](/states/penang)では存続しえない形で存在できるのかを。
 
 ## 基本情報
 
@@ -156,7 +156,7 @@ framework: profile
 
 この州は、機能の異なる二つの中心によって運営されている。**クアンタン**は行政州都であり、州秘書室（Pejabat Setiausaha Kerajaan Negeri）が置かれるウィスマ・スリ・パハン（Wisma Sri Pahang）の所在地である。**ペカン**は王室の町である。
 
-地形も階層をなしている。東海岸には、南シナ海に面した約208キロメートルの沿岸地帯が広がる。内陸にはパハン川（Sungai Pahang）の流域が広がる。そして西部には高原地帯——キャメロンハイランド、ゲンティンハイランド、フレイザーズヒル——があり、これによりパハンは半島の三大高原リゾートをすべて擁する唯一の州となっている。
+地形も階層をなしている。東海岸には、南シナ海に面した約208キロメートルの沿岸地帯が広がる。内陸にはパハン川（Sungai Pahang）の流域が広がる。そして西部には高原地帯——キャメロンハイランド、[ゲンティンハイランド](/ja/tourism/genting-highlands)、フレイザーズヒル——があり、これによりパハンは半島の三大高原リゾートをすべて擁する唯一の州となっている。
 
 ## 経済：最も土地に依存する州
 

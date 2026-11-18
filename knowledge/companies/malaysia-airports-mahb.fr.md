@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9580bd545dac351"
+sourceContentHash: "0e548c58dd3f2a31"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ Le réseau de MAHB couvre toute la gamme de l'aviation malaisienne, d'un grand h
 
 KLIA est la pièce maîtresse. Ses deux terminaux ont été rebaptisés en 2023 : le Main Terminal Building d'origine est devenu **KLIA Terminal 1**, et le terminal à bas coût klia2 (ouvert en 2014) est devenu **KLIA Terminal 2**. Le ministre des Transports d'alors a présenté le changement de nom comme une démarche marketing et de compétitivité ; les deux terminaux sont reliés par un service de navette.
 
-Au-delà de KLIA, MAHB gère les autres portes d'entrée internationales de la Malaisie (telles que celles desservant Penang, Kota Kinabalu, Kuching et Langkawi), un palier d'aéroports domestiques, et un ensemble de STOLports qui maintiennent connectées les communautés reculées — en particulier à Sabah et Sarawak.
+Au-delà de KLIA, MAHB gère les autres portes d'entrée internationales de la Malaisie (telles que celles desservant Penang, Kota Kinabalu, Kuching et [Langkawi](/fr/tourism/langkawi-visitor-guide)), un palier d'aéroports domestiques, et un ensemble de STOLports qui maintiennent connectées les communautés reculées — en particulier à Sabah et Sarawak.
 
 À l'étranger, MAHB exploite l'Istanbul Sabiha Gökçen International Airport, le deuxième plus grand aéroport de Turquie après l'Istanbul Airport, qu'elle détient depuis le milieu des années 2010. Sabiha Gökçen est un grand hub à bas coût et point à point ; MAHB a rapporté qu'il a traité de l'ordre de 41 millions de passagers en 2024, ce qui en fait une part importante du trafic du groupe.
 

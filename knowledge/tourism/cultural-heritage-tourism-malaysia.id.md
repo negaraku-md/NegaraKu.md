@@ -31,7 +31,7 @@ faq:
     a: "Tutup bahu dan lutut Anda di semua situs keagamaan. Masjid juga mengharapkan perempuan menutup rambut dan semua orang melepas alas kaki. Kuil Hindu dan Tionghoa juga mengharuskan alas kaki dilepas sebelum memasuki ruang dalam yang suci."
 
 lang: "id"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ Kota Bersejarah Selat Melaka (Melaka dan George Town) telah didaftarkan pada 7 J
 
 | Situs | Tahun didaftarkan | Negara bagian | Jenis |
 | --- | --- | --- | --- |
-| Taman Kinabalu | 2000 | Sabah | Alami |
-| Taman Negara Gunung Mulu | 2000 | Sarawak | Alami |
+| [Taman Kinabalu](/id/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | Alami |
+| [Taman Negara Gunung Mulu](/id/tourism/gunung-mulu-national-park) | 2000 | Sarawak | Alami |
 | Kota Bersejarah Selat Melaka (Melaka & George Town) | 2008 | Melaka & Pulau Pinang | Budaya |
 | Warisan Arkeologi Lembah Lenggong | 2012 | Perak | Budaya (arkeologi) |
 | Warisan Arkeologi Kompleks Gua Taman Negara Niah | 2024 | Sarawak | Budaya (arkeologi) |

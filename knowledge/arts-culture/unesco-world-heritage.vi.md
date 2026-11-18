@@ -30,7 +30,7 @@ faq:
     a: "Có. Trung tâm Di sản Thế giới ghi nhận ba di sản trên Danh sách Dự kiến của Malaysia: Công viên Quốc gia (Taman Negara) của bán đảo Malaysia, Dải Thạch anh Gombak Selangor, và Trại phong Sungai Buloh. Một mục dự kiến là tuyên bố ý định đề cử, chứ không phải một lần ghi danh."
 
 lang: "vi"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ Một di sản cần ít nhất một tiêu chí. Nó được những tiêu ch�
 
 | Di sản | Năm | Loại | Tiêu chí |
 | --- | --- | --- | --- |
-| Công viên Quốc gia Gunung Mulu | 2000 | Tự nhiên | (vii)(viii)(ix)(x) |
-| Công viên Kinabalu | 2000 | Tự nhiên | (ix)(x) |
+| [Công viên Quốc gia Gunung Mulu](/vi/tourism/gunung-mulu-national-park) | 2000 | Tự nhiên | (vii)(viii)(ix)(x) |
+| [Công viên Kinabalu](/vi/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Tự nhiên | (ix)(x) |
 | Malacca và George Town | 2008 | Văn hóa | (ii)(iii)(iv) |
 | Di sản Khảo cổ của Thung lũng Lenggong | 2012 | Văn hóa | (iii)(iv) |
 | Quần thể Hang động thuộc Công viên Quốc gia Niah | 2024 | Văn hóa | (iii)(v) |
@@ -139,4 +139,4 @@ Công viên Kinabalu chỉ được (ix) và (x). [Núi Kinabalu](/vi/malaysia/m
 
 ## Tiếp theo
 
-Ba di sản nằm trên Danh sách Dự kiến của Malaysia: Taman Negara, Dải Thạch anh Gombak Selangor, và Trại phong Sungai Buloh. Một mục dự kiến chỉ là ý định đề cử — nhưng với hai lần ghi danh trong hai năm, con số sáu khó có khả năng ở yên là sáu lâu.
+Ba di sản nằm trên Danh sách Dự kiến của Malaysia: [Taman Negara](/vi/tourism/taman-negara-ecotourism-guide), Dải Thạch anh Gombak Selangor, và Trại phong Sungai Buloh. Một mục dự kiến chỉ là ý định đề cử — nhưng với hai lần ghi danh trong hai năm, con số sáu khó có khả năng ở yên là sáu lâu.

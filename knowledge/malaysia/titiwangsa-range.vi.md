@@ -18,7 +18,7 @@ keyTakeaways:
   - "Địa hình cao của dãy nằm dưới tầng bảo vệ nghiêm ngặt nhất của các quy định Khu vực Nhạy cảm về Môi trường của Malaysia, che chở các hệ sinh thái vùng cao và núi khỏi phát triển"
 appliesTo: "Độc giả muốn một giải thích rõ ràng, đã được kiểm chứng về Dãy Titiwangsa là gì, nó chạy ở đâu, và vì sao nó chia các con sông, khí hậu và khuôn mẫu định cư của Bán đảo Malaysia thành một phía bờ tây và một phía bờ đông."
 lang: "vi"
-sourceContentHash: "c92a68e675abc2cc"
+sourceContentHash: "8f6fd36f8d34a324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ Lằn ranh đó là Dãy Titiwangsa, và nó là mảnh địa lý có hệ qu�
 
 Dãy Titiwangsa, được biết đến tại chỗ là Banjaran Titiwangsa hay đơn giản là Dãy Chính (Main Range), là một chuỗi núi liên tục chạy dọc sống lưng của bán đảo. Cổng thông tin đa dạng sinh học của chính Malaysia, MyBIS, mô tả nó là "dãy núi lớn nhất, nổi bật nhất và liên tục nhất ở Bán đảo Malaysia," trải dài khoảng 500 ki-lô-mét từ biên giới Malaysia-Thái Lan ở phía bắc xuống đến Negeri Sembilan, nơi địa hình mất độ cao và hòa vào đồng bằng ven biển gần Melaka.
 
-Nó không phải một sống núi duy nhất mang một cái tên từ đầu đến cuối. Dọc theo chiều dài của mình, nó tách ra thành các khối núi và đỉnh được đặt tên — Belum ở cực bắc Perak, cao nguyên [Cameron Highlands](/vi/tourism/cameron-highlands-visitor-guide), Fraser's Hill xa hơn về nam, Gunung Nuang gần biên giới Selangor-Pahang — nhưng các nhà địa lý và các nhà quy hoạch của chính phủ coi nó là một hệ thống liên tục, vì về mặt thủy văn và sinh thái nó hành xử như một.
+Nó không phải một sống núi duy nhất mang một cái tên từ đầu đến cuối. Dọc theo chiều dài của mình, nó tách ra thành các khối núi và đỉnh được đặt tên — Belum ở cực bắc Perak, cao nguyên [Cameron Highlands](/vi/tourism/cameron-highlands-visitor-guide), [Fraser's Hill](/vi/tourism/frasers-hill) xa hơn về nam, Gunung Nuang gần biên giới Selangor-Pahang — nhưng các nhà địa lý và các nhà quy hoạch của chính phủ coi nó là một hệ thống liên tục, vì về mặt thủy văn và sinh thái nó hành xử như một.
 
 ## Đường phân thủy vận hành toàn bộ bán đảo
 
@@ -100,7 +100,7 @@ Bản thân độ cao định hình cách dãy được quản trị: địa hì
 
 **Coi nó như một "ngọn núi" duy nhất có tên.** Dãy Titiwangsa là một chuỗi, không phải một đỉnh — Cameron Highlands, Fraser's Hill, Gunung Korbu và Gunung Stong đều là các điểm dọc theo nó, không phải các dãy riêng biệt.
 
-**Nhầm nó với Gunung Tahan.** Ngọn núi cao nhất của Bán đảo Malaysia, Gunung Tahan ở Pahang, nằm trong Dãy Tahan riêng biệt bên trong Taman Negara, không phải trên chính Dãy Titiwangsa.
+**Nhầm nó với Gunung Tahan.** Ngọn núi cao nhất của Bán đảo Malaysia, Gunung Tahan ở Pahang, nằm trong Dãy Tahan riêng biệt bên trong [Taman Negara](/vi/tourism/taman-negara-ecotourism-guide), không phải trên chính Dãy Titiwangsa.
 
 **Cho rằng biên giới các bang và dãy xếp thẳng hàng gọn gàng.** Dãy chạy về đại thể dọc theo, nhưng không chính xác trên, một số biên giới bang — nó là một đặc điểm địa lý trước, và các biên giới hành chính được vẽ dựa theo nó chứ không phải ngược lại.
 

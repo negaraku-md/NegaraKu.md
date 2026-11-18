@@ -31,7 +31,7 @@ faq:
     a: "Sumber-sumber mencatat kedua proses ini berjalan sejajar, bukan satu menyebabkan yang lain. Kemerdekaan dirundingkan dan dicapai pada 31 Agustus 1957 ketika Darurat masih berlaku, dan Darurat berlanjut hampir tiga tahun lagi di bawah pemerintah Tanah Melayu yang merdeka."
 
 lang: "id"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -112,7 +112,7 @@ Dari segi jumlah, upaya keamanan ini jauh lebih merupakan operasi kepolisian ket
 
 Tentara tetap berkembang lebih lambat. Sejarah Angkatan Darat Malaysia sendiri mencatat Rejimen Askar Melayu berdiri dengan tiga batalyon ketika Darurat dinyatakan, tujuh batalyon menjelang 1956, dan sebelas batalyon menjelang 1961. Unit-unit Persemakmuran bertugas bersama pasukan Tanah Melayu, dan Home Guard yang direkrut secara lokal dari masyarakat Melayu, Tionghoa, dan India menjaga kampung, perkebunan, dan kawasan pemukiman kembali.
 
-Sir Henry Gurney, yang menggantikan Gent sebagai Komisaris Tinggi, terbunuh dalam sebuah penyergapan pada Oktober 1951 ketika dalam perjalanan ke Fraser's Hill. Arkib Negara mencatat bahwa pembunuhan ini mendorong peningkatan mendadak dalam tanggapan pemerintah.
+Sir Henry Gurney, yang menggantikan Gent sebagai Komisaris Tinggi, terbunuh dalam sebuah penyergapan pada Oktober 1951 ketika dalam perjalanan ke [Fraser's Hill](/id/tourism/frasers-hill). Arkib Negara mencatat bahwa pembunuhan ini mendorong peningkatan mendadak dalam tanggapan pemerintah.
 
 ## Rencana Briggs dan kampung baru
 

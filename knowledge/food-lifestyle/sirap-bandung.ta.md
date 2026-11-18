@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "ta"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -214,7 +214,7 @@ drinkFacts:
 சிராப் பண்டுங்கின் மேல் தேங்காய்-லிச்சி கார்டியல், பண்டான் மற்றும் எலுமிச்சை-வகையுடன்
 கட்டமைக்கப்பட்டது — Visit Malaysia 2026-க்காக நடத்தப்பட்ட சிக்னேச்சர் மாக்டெய்ல்
 சாம்பியன்ஷிப்பை வென்றது; இது Malaysian Association of Hotels மற்றும் MFBEA-வின் Mixology
-Alliance ஆகியவற்றால் Tourism Malaysia-வின் ஆதரவுடன் ஏற்பாடு செய்யப்பட்டது, மேலும்
+Alliance ஆகியவற்றால் [Tourism Malaysia](/ta/tourism/tourism-malaysia-and-tourism-agencies)-வின் ஆதரவுடன் ஏற்பாடு செய்யப்பட்டது, மேலும்
 ஊடகங்களில் ஒரு தேசிய மாக்டெய்லாக விளம்பரப்படுத்தப்பட்டது. (தலைப்புச் செய்திகள் இதை
 "அதிகாரபூர்வ" அல்லது "தேசிய" என்று அழைக்கின்றன, அதேசமயம் அறிக்கைகளின் சொந்த விவரம் இதைச்
 சாம்பியன்ஷிப் வெற்றியாளர் என்று விவரிக்கிறது, எனவே சாம்பியன்ஷிப் வடிவமைப்பே பாதுகாப்பானது.)

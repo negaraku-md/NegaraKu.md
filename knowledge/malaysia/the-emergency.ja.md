@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -110,7 +110,7 @@ Arkib Negaraは、1948年6月に起きた二つの事件を直接の引き金と
 
 正規軍の拡大はより緩やかであった。マレーシア陸軍（Malaysian Army）自身の記録によれば、マレー連隊（Malay Regiment）は非常事態が宣言された時点で3個大隊であったが、1956年までに7個大隊、1961年までに11個大隊となった。英連邦部隊がマラヤ軍と共に行動し、マレー系・華人系・インド系の各コミュニティから現地で募集されたホームガード（Home Guard）が、村落、農園、再定住地区を警備した。
 
-ジェントの後任として高等弁務官となったヘンリー・ガーニー卿（Sir Henry Gurney）は、1951年10月、フレーザーズ・ヒル（Fraser's Hill）へ向かう途中で待ち伏せ攻撃を受け死亡した。Arkib Negaraの記録によれば、この暗殺事件を受けて政府の対応は急激に強化された。
+ジェントの後任として高等弁務官となったヘンリー・ガーニー卿（Sir Henry Gurney）は、1951年10月、[フレーザーズ・ヒル](/ja/tourism/frasers-hill)（Fraser's Hill）へ向かう途中で待ち伏せ攻撃を受け死亡した。Arkib Negaraの記録によれば、この暗殺事件を受けて政府の対応は急激に強化された。
 
 ## ブリッグス・プランと新村
 

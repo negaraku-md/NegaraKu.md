@@ -35,7 +35,7 @@ faq:
     a: "Sipadan cierra cada noviembre para la recuperación del arrecife, así que planifica los viajes de buceo entre diciembre y octubre. En otros lugares, los meses más lluviosos del Monzón del Noreste (aproximadamente de noviembre a marzo) traen más lluvia a Borneo."
 
 lang: "es"
-sourceContentHash: "c9653441143f9da8"
+sourceContentHash: "65ae95f784dc6568"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,10 +129,10 @@ La mayoría de los visitantes usan KK como base durante dos o tres días y como 
 
 - **Island-hopping a la puerta de casa.** Las islas del Parque Tunku Abdul Rahman están justo frente a la costa, a un corto trayecto en barco desde el paseo marítimo de la ciudad: un sencillo medio día de esnórquel y playas.
 - **El punto de partida para el [Monte Kinabalu](/malaysia/mount-kinabalu).** La montaña y la sede de su parque están aproximadamente a dos horas en coche de la ciudad.
-- **Conexiones con la costa este.** Sandakan (para orangutanes y el río Kinabatangan) y Tawau (para la región de buceo de Semporna-Sipadan) son cortos saltos nacionales desde KK.
+- **Conexiones con la costa este.** Sandakan (para orangutanes y el río Kinabatangan) y Tawau (para la región de buceo de Semporna-[Sipadan](/es/tourism/sipadan-and-semporna)) son cortos saltos nacionales desde KK.
 - **Comida y puestas de sol.** Los mercados nocturnos de la ciudad, el marisco y las célebres puestas de sol de colores sobre el mar de China Meridional son un destino en sí mismos.
 
-Piensa en Sabah como tres conglomerados sueltos: la **costa oeste** (KK, Parque Kinabalu, islas frente a la costa), la **costa este** en torno a Sandakan (fauna, selva tropical, río) y el **sureste** en torno a Semporna (Sipadan y buceo de categoría mundial). Una semana clásica combina los tres; un fin de semana largo suele elegir uno.
+Piensa en Sabah como tres conglomerados sueltos: la **costa oeste** (KK, [Parque Kinabalu](/es/tourism/mount-kinabalu-and-kinabalu-park), islas frente a la costa), la **costa este** en torno a Sandakan (fauna, selva tropical, río) y el **sureste** en torno a Semporna (Sipadan y buceo de categoría mundial). Una semana clásica combina los tres; un fin de semana largo suele elegir uno.
 
 ## ¿Qué deberías saber antes de subir al Monte Kinabalu?
 

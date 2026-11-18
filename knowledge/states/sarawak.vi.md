@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "vi"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ của Sarawak bên ngoài Kuching và một số ít thị trấn khác.
 
 Khu ven nước của Kuching dọc Sông Sarawak neo giữ thủ phủ của bang, kết hợp
 các tòa nhà thời thuộc địa với kiến trúc dân dụng hiện đại bao gồm Hội đồng Lập pháp
-Bang Sarawak. Vườn Quốc gia Bako và Vườn Quốc gia Gunung Mulu, cái sau là một
+Bang Sarawak. Vườn Quốc gia Bako và [Vườn Quốc gia Gunung Mulu](/vi/tourism/gunung-mulu-national-park), cái sau là một
 Di sản Thế giới UNESCO nổi tiếng với các hệ thống hang động rộng lớn, phô bày sinh thái
 rừng mưa của Sarawak. Trung tâm Động vật Hoang dã Semenggoh gần Kuching nổi tiếng với
 quần thể đười ươi bán hoang dã của nó. Bintulu là trung tâm của ngành LNG của bang,

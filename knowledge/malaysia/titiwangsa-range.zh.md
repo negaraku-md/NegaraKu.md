@@ -20,7 +20,7 @@ appliesTo: "适合想要一份浅白且经过查证的说明，了解蒂蒂旺�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c92a68e675abc2cc"
+sourceContentHash: "8f6fd36f8d34a324"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -70,7 +70,7 @@ framework: profile
 
 蒂蒂旺沙山脉，当地称为Banjaran Titiwangsa，或简称主山脉（Main Range），是一条纵贯半岛脊梁的连续山脉。马来西亚官方的生物多样性门户网站MyBIS，将其描述为「马来西亚半岛上最大、最突出且最连续的山脉」，从北端的马来西亚-泰国边境向南延伸约500公里，直至森美兰，山势在此处逐渐降低，并融入马六甲附近的沿海平原。
 
-它并非从头到尾只有一个名字的单一山脊。沿着它的走向，分布着多个各有名称的山系与山峰——霹雳最北端的Belum、[金马仑高原](/tourism/cameron-highlands-visitor-guide)、更南端的福隆港、靠近雪兰莪-彭亨边界的Gunung Nuang——但地理学家与政府规划人员，都将其视为一个连续的整体系统，因为无论在水文还是生态上，它的表现都如同一个整体。
+它并非从头到尾只有一个名字的单一山脊。沿着它的走向，分布着多个各有名称的山系与山峰——霹雳最北端的Belum、[金马仑高原](/tourism/cameron-highlands-visitor-guide)、更南端的[福隆港](/zh/tourism/frasers-hill)、靠近雪兰莪-彭亨边界的Gunung Nuang——但地理学家与政府规划人员，都将其视为一个连续的整体系统，因为无论在水文还是生态上，它的表现都如同一个整体。
 
 ## 贯穿全半岛的分水岭
 
@@ -100,7 +100,7 @@ framework: profile
 
 **把它当作一座有单一名称的「山」。** 蒂蒂旺沙山脉是一条山链，而非单一山峰——金马仑高原、福隆港、Gunung Korbu与Gunung Stong，都只是沿线的几个点，而非各自独立的山脉。
 
-**将它与大汉山（Gunung Tahan）混淆。** 马来西亚半岛唯一的最高峰——位于彭亨的大汉山，坐落在Taman Negara（国家公园）内一条独立的Tahan山脉之上，而不在蒂蒂旺沙山脉本身之上。
+**将它与大汉山（Gunung Tahan）混淆。** 马来西亚半岛唯一的最高峰——位于彭亨的大汉山，坐落在[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)（国家公园）内一条独立的Tahan山脉之上，而不在蒂蒂旺沙山脉本身之上。
 
 **以为州界与山脉走向完全吻合。** 这道山脉的走向，大致沿着几条州界延伸，但并非精确重合——它首先是一项地理特征，行政边界是依它而划定的，而非反过来。
 

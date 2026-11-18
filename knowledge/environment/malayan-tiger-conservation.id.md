@@ -33,7 +33,7 @@ faq:
     a: "Penyebab utama adalah perburuan liar dan perdagangan satwa liar ilegal untuk bagian tubuh harimau, degradasi hutan dan kehilangan habitat, kematian di jalan raya dan konflik manusia–harimau, serta kekurangan mangsa buruan."
 
 lang: "id"
-sourceContentHash: "4cb728294e2f0482"
+sourceContentHash: "45f255ab6e60d7a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ Masyarakat sipil telah lama memikul sebagian dari beban ini. MYCAT — sebuah ko
 
 ## Apa itu Rizab Harimau Diraja?
 
-Upaya baru paling ambisius adalah **Rizab Harimau Diraja Al-Sultan Abdullah** di Pahang — sebuah suaka seluas 1,340 kilometer persegi bersebelahan Taman Negara, dan rizab pertama semacamnya di negara ini. Ia menggabungkan naungan diraja dengan pendanaan yang besar.
+Upaya baru paling ambisius adalah **Rizab Harimau Diraja Al-Sultan Abdullah** di Pahang — sebuah suaka seluas 1,340 kilometer persegi bersebelahan [Taman Negara](/id/tourism/taman-negara-ecotourism-guide), dan rizab pertama semacamnya di negara ini. Ia menggabungkan naungan diraja dengan pendanaan yang besar.
 
 Pada Januari 2025, saat Pekan Keberlanjutan Abu Dhabi, Pahang menandatangani perjanjian bagi **hibah RM99.8 juta** dari Dana Konservasi Spesies Mohamed bin Zayed Uni Emirat Arab. Pendanaan itu ditujukan kepada upaya antiperburuan liar, pemulihan habitat dan dukungan kepada komunitas lokal yang tinggal bersebelahan rizab.
 

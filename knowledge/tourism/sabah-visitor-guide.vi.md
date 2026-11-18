@@ -35,7 +35,7 @@ faq:
     a: "Sipadan đóng cửa vào mỗi tháng 11 để rạn san hô phục hồi, nên hãy lên kế hoạch các chuyến lặn từ tháng 12 đến tháng 10. Ở nơi khác, các tháng gió mùa Đông Bắc ẩm ướt hơn (khoảng tháng 11 đến tháng 3) mang nhiều mưa hơn đến Borneo."
 
 lang: "vi"
-sourceContentHash: "c9653441143f9da8"
+sourceContentHash: "65ae95f784dc6568"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,10 +129,10 @@ Hầu hết du khách dùng KK làm nơi lưu trú trong hai hoặc ba ngày và
 
 - **Nhảy đảo ngay trước cửa.** Các đảo của Vườn Tunku Abdul Rahman nằm ngay ngoài khơi, một chuyến thuyền ngắn từ bờ sông thành phố — một nửa ngày dễ dàng lặn với ống thở và tắm biển.
 - **Điểm khởi hành cho [Núi Kinabalu](/vi/malaysia/mount-kinabalu).** Ngọn núi và trụ sở vườn của nó cách thành phố khoảng hai giờ lái xe.
-- **Các kết nối đến bờ biển phía đông.** Sandakan (cho đười ươi và Sông Kinabatangan) và Tawau (cho vùng lặn Semporna–Sipadan) là những chặng bay nội địa ngắn từ KK.
+- **Các kết nối đến bờ biển phía đông.** Sandakan (cho đười ươi và Sông Kinabatangan) và Tawau (cho vùng lặn Semporna–[Sipadan](/vi/tourism/sipadan-and-semporna)) là những chặng bay nội địa ngắn từ KK.
 - **Ẩm thực và hoàng hôn.** Các chợ đêm của thành phố, hải sản, và những buổi hoàng hôn rực rỡ nổi tiếng trên Biển Đông là một điểm đến theo đúng nghĩa của nó.
 
-Hãy hình dung Sabah như ba cụm lỏng lẻo: **bờ biển phía tây** (KK, Vườn Kinabalu, các đảo ngoài khơi), **bờ biển phía đông** quanh Sandakan (động vật hoang dã, rừng mưa, sông), và **phía đông nam** quanh Semporna (Sipadan và lặn biển đẳng cấp thế giới). Một tuần cổ điển kết hợp cả ba; một kỳ nghỉ cuối tuần dài thường chọn một.
+Hãy hình dung Sabah như ba cụm lỏng lẻo: **bờ biển phía tây** (KK, [Vườn Kinabalu](/vi/tourism/mount-kinabalu-and-kinabalu-park), các đảo ngoài khơi), **bờ biển phía đông** quanh Sandakan (động vật hoang dã, rừng mưa, sông), và **phía đông nam** quanh Semporna (Sipadan và lặn biển đẳng cấp thế giới). Một tuần cổ điển kết hợp cả ba; một kỳ nghỉ cuối tuần dài thường chọn một.
 
 ## Bạn nên biết gì trước khi leo Núi Kinabalu?
 

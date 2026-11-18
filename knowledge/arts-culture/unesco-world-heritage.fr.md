@@ -30,7 +30,7 @@ faq:
     a: "Oui. Le Centre du patrimoine mondial enregistre trois biens sur la Liste indicative de la Malaisie : le parc national (Taman Negara) de la Malaisie péninsulaire, la crête de quartz de Gombak à Selangor et la léproserie de Sungai Buloh. Une inscription indicative est une déclaration d'intention de présenter une candidature, et non une inscription."
 
 lang: "fr"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ Un bien a besoin d'au moins un. Ceux qu'il obtient ne sont pas un ornement ; ils
 
 | Bien | Année | Type | Critères |
 | --- | --- | --- | --- |
-| Parc national de Gunung Mulu | 2000 | Naturel | (vii)(viii)(ix)(x) |
-| Parc du Kinabalu | 2000 | Naturel | (ix)(x) |
+| [Parc national de Gunung Mulu](/fr/tourism/gunung-mulu-national-park) | 2000 | Naturel | (vii)(viii)(ix)(x) |
+| [Parc du Kinabalu](/fr/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Naturel | (ix)(x) |
 | Malacca et George Town | 2008 | Culturel | (ii)(iii)(iv) |
 | Patrimoine archéologique de la vallée de Lenggong | 2012 | Culturel | (iii)(iv) |
 | Complexe de grottes du parc national de Niah | 2024 | Culturel | (iii)(v) |
@@ -139,4 +139,4 @@ Le parc du Kinabalu n'a obtenu que le (ix) et le (x). Le [mont Kinabalu](/malays
 
 ## Et ensuite
 
-Trois biens figurent sur la Liste indicative de la Malaisie : Taman Negara, la crête de quartz de Gombak à Selangor et la léproserie de Sungai Buloh. Une inscription indicative n'est qu'une intention de présenter une candidature, mais, au vu de deux inscriptions en deux ans, il est peu probable que le six reste six bien longtemps.
+Trois biens figurent sur la Liste indicative de la Malaisie : [Taman Negara](/fr/tourism/taman-negara-ecotourism-guide), la crête de quartz de Gombak à Selangor et la léproserie de Sungai Buloh. Une inscription indicative n'est qu'une intention de présenter une candidature, mais, au vu de deux inscriptions en deux ans, il est peu probable que le six reste six bien longtemps.

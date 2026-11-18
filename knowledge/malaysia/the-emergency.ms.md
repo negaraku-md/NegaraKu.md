@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ Dari segi bilangan, usaha keselamatan ini jauh lebih merupakan operasi kepolisan
 
 Tentera tetap berkembang dengan lebih perlahan. Sejarah Tentera Darat Malaysia sendiri merekodkan Rejimen Askar Melayu berdiri dengan tiga batalion ketika Darurat diisytiharkan, tujuh batalion menjelang 1956, dan sebelas batalion menjelang 1961. Unit-unit Komanwel berkhidmat bersama pasukan Tanah Melayu, dan Home Guard yang direkrut secara tempatan daripada masyarakat Melayu, Cina dan India mengawal kampung, ladang dan kawasan penempatan semula.
 
-Sir Henry Gurney, yang menggantikan Gent sebagai Pesuruhjaya Tinggi, terbunuh dalam satu serangan hendap pada Oktober 1951 ketika dalam perjalanan ke Fraser's Hill. Arkib Negara merekodkan bahawa pembunuhan ini mendorong peningkatan mendadak dalam tindak balas kerajaan.
+Sir Henry Gurney, yang menggantikan Gent sebagai Pesuruhjaya Tinggi, terbunuh dalam satu serangan hendap pada Oktober 1951 ketika dalam perjalanan ke [Fraser's Hill](/tourism/frasers-hill). Arkib Negara merekodkan bahawa pembunuhan ini mendorong peningkatan mendadak dalam tindak balas kerajaan.
 
 ## Rancangan Briggs dan kampung baru
 

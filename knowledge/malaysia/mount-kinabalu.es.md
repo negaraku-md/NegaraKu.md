@@ -18,7 +18,7 @@ keyTakeaways:
   - "Los órganos consultivos de la UNESCO lo describen como la montaña más alta entre el Himalaya y Nueva Guinea, y alberga unas 5,000-6,000 especies de plantas vasculares, incluidas aproximadamente 1,000 especies de orquídeas"
 appliesTo: "Lectores que quieran la altitud verificada y el estatus de área protegida del Monte Kinabalu, y una explicación sencilla de por qué una montaña de granito en Sabah es geológicamente tan joven."
 lang: "es"
-sourceContentHash: "9898433b2f4e9aa1"
+sourceContentHash: "5bc72b1b2e12a8e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,7 +78,7 @@ El levantamiento que sigue empujando la montaña hacia arriba está vinculado a 
 
 ## Protegido por tres motivos distintos
 
-El Parque Kinabalu fue declarado en el boletín oficial en 1964 como uno de los primeros parques nacionales de Sabah, construido sobre la base de las expediciones científicas de la Royal Society a la montaña a comienzos de esa década. En diciembre de 2000, la UNESCO lo inscribió como Sitio del Patrimonio Mundial — el primero de Malasia — bajo los criterios naturales (ix) y (x): el reconocimiento de sus procesos ecológicos y evolutivos en curso, y de su excepcional biodiversidad y hábitat para la conservación de especies. El bien inscrito abarca unas 75,370 hectáreas (753.7 km²).
+El [Parque Kinabalu](/es/tourism/mount-kinabalu-and-kinabalu-park) fue declarado en el boletín oficial en 1964 como uno de los primeros parques nacionales de Sabah, construido sobre la base de las expediciones científicas de la Royal Society a la montaña a comienzos de esa década. En diciembre de 2000, la UNESCO lo inscribió como Sitio del Patrimonio Mundial — el primero de Malasia — bajo los criterios naturales (ix) y (x): el reconocimiento de sus procesos ecológicos y evolutivos en curso, y de su excepcional biodiversidad y hábitat para la conservación de especies. El bien inscrito abarca unas 75,370 hectáreas (753.7 km²).
 
 Esa inclusión en el Patrimonio Mundial convive con otras dos designaciones de la UNESCO — un Geoparque Mundial y una Reserva de la Biosfera — lo que hace del Kinabalu uno del reducido número de sitios de todo el mundo que ostentan las tres a la vez.
 

@@ -41,7 +41,7 @@ verificationNeeded:
   - "Cổng du lịch của bang nêu diện tích 35,960 km vuông trong khi cổng chính quyền bang nêu 35,965 km vuông; xác nhận một con số chính thức duy nhất với Văn phòng Thư ký Chính quyền Pahang."
 
 lang: "vi"
-sourceContentHash: "da77a92f707cbcd4"
+sourceContentHash: "e16b23300ddd14d8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ một trong mỗi 20 người dân Malaysia sống ở đó.
 
 Đó là sự kiện đơn lẻ giải thích gần như mọi thứ về bang này:
 vì sao rừng của nó vẫn rộng, vì sao nền kinh tế của nó dựa vào đất đai chứ không
-vào nhà máy, và vì sao Vườn Quốc gia có thể tồn tại ở một hình thức không
+vào nhà máy, và vì sao [Vườn Quốc gia](/vi/tourism/taman-negara-ecotourism-guide) có thể tồn tại ở một hình thức không
 thể sống sót ở [Selangor](/vi/states/selangor) hay
 [Penang](/vi/states/penang).
 
@@ -180,7 +180,7 @@ Chính quyền Bang. **Pekan** thì là thành phố hoàng gia.
 Địa lý của nó cũng phân tầng. Ở bờ biển phía đông có một dải ven biển dài
 khoảng 208 kilômét hướng ra Biển Đông. Ở nội địa trải rộng
 lưu vực Sông Pahang. Ở phía tây thì nằm vùng cao nguyên — Cameron
-Highlands, Genting Highlands và Bukit Fraser — khiến Pahang trở thành
+Highlands, [Genting Highlands](/vi/tourism/genting-highlands) và Bukit Fraser — khiến Pahang trở thành
 bang duy nhất là nơi đặt cả ba trung tâm nghỉ dưỡng cao nguyên
 chính của Bán đảo.
 

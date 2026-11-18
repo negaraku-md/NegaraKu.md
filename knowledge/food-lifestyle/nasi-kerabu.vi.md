@@ -35,7 +35,7 @@ faq:
     a: "Hai món là họ hàng gần: cả hai đều kết hợp cơm với một món xà lách gồm rau thơm và rau củ sống thái mịn. Nét định danh của nasi kerabu là phần cơm có màu — nổi tiếng nhất là màu xanh nhuộm bằng hoa đậu biếc — cùng các món gia vị vùng duyên hải phía đông như budu và solok lada. Nasi ulam thường được ăn với cơm trắng hoặc cơm chỉ nêm nhẹ. Trên thực tế, ranh giới giữa hai món khá mờ, và các nguồn mô tả chúng tương đồng về thành phần."
 
 lang: "vi"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -175,8 +175,7 @@ lõi.
 
 Vây quanh cơm là một dàn vai phụ có thể biến một đĩa khiêm tốn thành một bữa
 tiệc. Phần đạm thường là chiên hoặc nướng: gà hoặc cá chiên, hoặc — được chuộng
-nhất — *ayam percik*, gà nướng phết sốt dừa ngọt có gia vị. Theo lời Tourism
-Malaysia, kiểu ayam percik của Kelantan ngọt hơn các phiên bản nơi khác.
+nhất — *ayam percik*, gà nướng phết sốt dừa ngọt có gia vị. Theo lời [Tourism Malaysia](/vi/tourism/tourism-malaysia-and-tourism-agencies), kiểu ayam percik của Kelantan ngọt hơn các phiên bản nơi khác.
 
 Các món phụ cổ điển cũng quan trọng ngang món chính. *Solok lada* — ớt xanh nhồi
 dừa nạo (và đôi khi cả cá) — được mô tả là một trong những món ăn kèm đặc trưng

@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "zh"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -183,7 +183,7 @@ Sirap bandung 既是成品饮料，也同样是一个基底，小贩会在其上
 这饮品也被重新塑造得更为高档。2025 年，一款经澄清处理、现代化的改良版，名为
 **bandung pandan spritz**——以经澄清的 sirap bandung 为基底，加入椰子荔枝甜露、班兰
 （pandan）与柑橘——赢得了为 Visit Malaysia 2026 举办的招牌无酒精鸡尾酒锦标赛，该赛事
-由马来西亚酒店业公会与 MFBEA 的调酒联盟（Mixology Alliance）主办、获马来西亚旅游局
+由马来西亚酒店业公会与 MFBEA 的调酒联盟（Mixology Alliance）主办、获[马来西亚旅游局](/zh/tourism/tourism-malaysia-and-tourism-agencies)
 （Tourism Malaysia）支持，并在媒体上被宣传为国民无酒精鸡尾酒。（标题称它为「官方」或
 「国民」，而报道本身的细节则将其描述为锦标赛优胜者，因此「锦标赛」的表述更为稳妥。）
 创作者选择以 *kuih lapis* 佐之，并以其层层叠叠的层次隐喻马来西亚的多层社会——这巧妙

@@ -33,7 +33,7 @@ faq:
     a: "Los principales factores son la caza furtiva y el comercio ilegal de partes de tigre, la degradación forestal y la pérdida de hábitat, los atropellos y el conflicto entre humanos y tigres, y la disminución de las presas."
 
 lang: "es"
-sourceContentHash: "4cb728294e2f0482"
+sourceContentHash: "45f255ab6e60d7a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ La sociedad civil lleva mucho tiempo cargando con parte del peso. MYCAT — una 
 
 ## ¿Qué es la Reserva Real del Tigre?
 
-El esfuerzo nuevo más ambicioso es la **Reserva Real del Tigre Al-Sultan Abdullah**, en Pahang — un santuario de 1,340 kilómetros cuadrados contiguo a Taman Negara, y la primera reserva de su tipo en el país. Combina el patrocinio real con una financiación sustancial.
+El esfuerzo nuevo más ambicioso es la **Reserva Real del Tigre Al-Sultan Abdullah**, en Pahang — un santuario de 1,340 kilómetros cuadrados contiguo a [Taman Negara](/es/tourism/taman-negara-ecotourism-guide), y la primera reserva de su tipo en el país. Combina el patrocinio real con una financiación sustancial.
 
 En enero de 2025, durante la Semana de la Sostenibilidad de Abu Dabi, Pahang firmó un acuerdo para una **subvención de RM99.8 millones** del Fondo de Conservación de Especies Mohamed bin Zayed de los Emiratos Árabes Unidos. La financiación se dirige a la lucha antifurtivos, la restauración del hábitat y el apoyo a las comunidades locales que viven junto a la reserva.
 

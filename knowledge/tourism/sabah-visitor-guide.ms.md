@@ -35,7 +35,7 @@ faq:
     a: "Sipadan ditutup setiap November untuk pemulihan terumbu, jadi rancang perjalanan menyelam antara Disember dan Oktober. Di tempat lain, bulan-bulan Monsun Timur Laut yang lebih lembap (kira-kira November hingga Mac) membawa lebih banyak hujan ke Borneo."
 
 lang: "ms"
-sourceContentHash: "c9653441143f9da8"
+sourceContentHash: "65ae95f784dc6568"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,10 +129,10 @@ Kebanyakan pelawat menggunakan KK sebagai pangkalan selama dua atau tiga hari da
 
 - **Melompat dari pulau ke pulau di ambang pintu.** Pulau-pulau Taman Tunku Abdul Rahman terletak berhampiran pantai, hanya perjalanan bot yang singkat dari kawasan tepi laut bandar — separuh hari yang mudah untuk snorkeling dan pantai.
 - **Titik permulaan untuk [Gunung Kinabalu](/malaysia/mount-kinabalu).** Gunung dan ibu pejabat tamannya berjarak kira-kira dua jam pemanduan dari bandar.
-- **Sambungan ke pantai timur.** Sandakan (untuk orang utan dan Sungai Kinabatangan) dan Tawau (untuk kawasan menyelam Semporna–Sipadan) merupakan penerbangan domestik singkat dari KK.
+- **Sambungan ke pantai timur.** Sandakan (untuk orang utan dan Sungai Kinabatangan) dan Tawau (untuk kawasan menyelam Semporna–[Sipadan](/tourism/sipadan-and-semporna)) merupakan penerbangan domestik singkat dari KK.
 - **Makanan dan matahari terbenam.** Pasar malam bandar, makanan laut, dan matahari terbenam yang terkenal berwarna-warni di atas Laut China Selatan adalah destinasi tersendiri.
 
-Anggaplah Sabah sebagai tiga kelompok longgar: **pantai barat** (KK, Taman Kinabalu, pulau-pulau luar pesisir), **pantai timur** di sekitar Sandakan (hidupan liar, hutan hujan, sungai), dan **tenggara** di sekitar Semporna (Sipadan dan penyelaman bertaraf dunia). Perjalanan seminggu klasik menggabungkan ketiga-tiganya; hujung minggu panjang biasanya memilih satu.
+Anggaplah Sabah sebagai tiga kelompok longgar: **pantai barat** (KK, [Taman Kinabalu](/tourism/mount-kinabalu-and-kinabalu-park), pulau-pulau luar pesisir), **pantai timur** di sekitar Sandakan (hidupan liar, hutan hujan, sungai), dan **tenggara** di sekitar Semporna (Sipadan dan penyelaman bertaraf dunia). Perjalanan seminggu klasik menggabungkan ketiga-tiganya; hujung minggu panjang biasanya memilih satu.
 
 ## Apa yang perlu anda ketahui sebelum mendaki Gunung Kinabalu?
 

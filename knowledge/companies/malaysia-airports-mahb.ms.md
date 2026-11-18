@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9580bd545dac351"
+sourceContentHash: "0e548c58dd3f2a31"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ Rangkaian MAHB merangkumi keseluruhan rentang penerbangan Malaysia, daripada hab
 
 KLIA ialah tumpuan utama. Kedua-dua terminalnya dijenamakan semula pada 2023: Bangunan Terminal Utama asal menjadi **KLIA Terminal 1**, dan terminal tambang murah klia2 (dibuka 2014) menjadi **KLIA Terminal 2**. Menteri Pengangkutan ketika itu merangka penamaan semula itu sebagai langkah pemasaran dan daya saing; kedua-dua terminal dihubungkan oleh perkhidmatan ulang-alik.
 
-Di luar KLIA, MAHB mengendalikan pintu masuk antarabangsa Malaysia yang lain (seperti yang melayani Pulau Pinang, Kota Kinabalu, Kuching dan Langkawi), satu lapisan lapangan terbang domestik, dan satu set STOLport yang mengekalkan hubungan komuniti terpencil — khususnya di Sabah dan Sarawak.
+Di luar KLIA, MAHB mengendalikan pintu masuk antarabangsa Malaysia yang lain (seperti yang melayani Pulau Pinang, Kota Kinabalu, Kuching dan [Langkawi](/tourism/langkawi-visitor-guide)), satu lapisan lapangan terbang domestik, dan satu set STOLport yang mengekalkan hubungan komuniti terpencil — khususnya di Sabah dan Sarawak.
 
 Di luar negara, MAHB mengendalikan Lapangan Terbang Antarabangsa Istanbul Sabiha Gökçen, lapangan terbang kedua terbesar Turki selepas Lapangan Terbang Istanbul, yang dipegangnya sejak pertengahan 2010-an. Sabiha Gökçen ialah hab tambang murah dan titik-ke-titik yang besar; MAHB melaporkan ia mengendalikan sekitar 41 juta penumpang pada 2024, menjadikannya bahagian yang material dalam trafik kumpulan ini.
 

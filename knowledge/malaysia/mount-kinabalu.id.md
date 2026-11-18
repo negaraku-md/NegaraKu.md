@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia digambarkan oleh badan penasihat UNESCO sebagai gunung tertinggi antara Himalaya dan New Guinea, dan menampung perkiraan 5,000-6,000 spesies tumbuhan vaskular termasuk sekitar 1,000 spesies anggrek"
 appliesTo: "Pembaca yang menginginkan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan sederhana mengapa sebuah gunung granit di Sabah secara geologi begitu muda."
 lang: "id"
-sourceContentHash: "9898433b2f4e9aa1"
+sourceContentHash: "5bc72b1b2e12a8e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,7 +78,7 @@ Pengangkatan yang terus mendorong gunung ini lebih tinggi dikaitkan dengan hilan
 
 ## Dilindungi atas tiga alasan terpisah
 
-Taman Kinabalu ditetapkan pada 1964 sebagai salah satu taman negara pertama Sabah, dibangun di atas dasar ekspedisi ilmiah Royal Society ke gunung ini pada awal dekade itu. Pada Desember 2000, UNESCO mendaftarkannya sebagai Situs Warisan Dunia — yang pertama bagi Malaysia — di bawah kriteria alam (ix) dan (x): pengakuan terhadap proses ekologi dan evolusi yang berlangsung, serta keanekaragaman biologi dan habitatnya yang luar biasa untuk konservasi spesies. Properti yang didaftarkan itu meliputi sekitar 75,370 hektar (753.7 km²).
+[Taman Kinabalu](/id/tourism/mount-kinabalu-and-kinabalu-park) ditetapkan pada 1964 sebagai salah satu taman negara pertama Sabah, dibangun di atas dasar ekspedisi ilmiah Royal Society ke gunung ini pada awal dekade itu. Pada Desember 2000, UNESCO mendaftarkannya sebagai Situs Warisan Dunia — yang pertama bagi Malaysia — di bawah kriteria alam (ix) dan (x): pengakuan terhadap proses ekologi dan evolusi yang berlangsung, serta keanekaragaman biologi dan habitatnya yang luar biasa untuk konservasi spesies. Properti yang didaftarkan itu meliputi sekitar 75,370 hektar (753.7 km²).
 
 Pencantuman Warisan Dunia itu berdampingan dengan dua penetapan UNESCO lain — sebuah Geopark Global dan sebuah Cagar Biosfer — menjadikan Kinabalu salah satu dari sejumlah kecil situs di seluruh dunia yang memegang ketiganya sekaligus.
 

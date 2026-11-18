@@ -33,7 +33,7 @@ faq:
     a: "Các động lực chính là săn trộm và buôn bán động vật hoang dã bất hợp pháp lấy bộ phận hổ, suy thoái rừng và mất môi trường sống, tai nạn đường bộ và xung đột người–hổ, và con mồi suy giảm."
 
 lang: "vi"
-sourceContentHash: "4cb728294e2f0482"
+sourceContentHash: "45f255ab6e60d7a5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,7 +130,7 @@ Xã hội dân sự từ lâu đã gánh một phần công việc. MYCAT — m�
 
 ## Khu Bảo tồn Hổ Hoàng gia là gì?
 
-Nỗ lực mới tham vọng nhất là **Khu Bảo tồn Hổ Hoàng gia Al-Sultan Abdullah** ở Pahang — một khu bảo tồn rộng 1.340 kilômét vuông liền kề Taman Negara, và là khu bảo tồn đầu tiên thuộc loại này ở đất nước. Nó kết hợp sự bảo trợ hoàng gia với nguồn tài trợ đáng kể.
+Nỗ lực mới tham vọng nhất là **Khu Bảo tồn Hổ Hoàng gia Al-Sultan Abdullah** ở Pahang — một khu bảo tồn rộng 1.340 kilômét vuông liền kề [Taman Negara](/vi/tourism/taman-negara-ecotourism-guide), và là khu bảo tồn đầu tiên thuộc loại này ở đất nước. Nó kết hợp sự bảo trợ hoàng gia với nguồn tài trợ đáng kể.
 
 Vào tháng 1 năm 2025, trong Tuần lễ Bền vững Abu Dhabi, Pahang ký một thỏa thuận cho một **khoản tài trợ RM99.8 triệu** từ Quỹ Bảo tồn Loài Mohamed bin Zayed của Các Tiểu vương quốc Ả Rập Thống nhất. Nguồn tài trợ được hướng vào chống săn trộm, phục hồi môi trường sống và hỗ trợ cho các cộng đồng địa phương sống cạnh khu bảo tồn.
 

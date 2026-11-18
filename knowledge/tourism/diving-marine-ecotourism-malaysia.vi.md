@@ -31,7 +31,7 @@ faq:
     a: "Nó phụ thuộc vào vị trí. Các công viên biển ở bán đảo Malaysia và Labuan thuộc liên bang, do Cục Nghề cá Malaysia quản lý theo Luật Nghề cá (Fisheries Act 1985). Các công viên ở Sabah, bao gồm Sipadan, do cơ quan cấp bang Sabah Parks quản lý theo luật cấp bang riêng."
 
 lang: "vi"
-sourceContentHash: "c84ad1c115fc50b3"
+sourceContentHash: "b4330d885555b613"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", 
 framework: rules
 ---
 
-Vùng nước trong nhất Malaysia cũng là nơi khó đến nhất: để thả mình xuống bức tường của Sipadan bạn cần một giấy phép của chính phủ mà không số tiền nào cho phép bạn mua trực tiếp. Một dữ kiện đơn lẻ đó nắm bắt cách đất nước vận hành du lịch lặn biển của mình — việc tiếp cận được phân phối hạn chế, định giá, và chia giữa hai cơ quan rất khác nhau tùy thuộc vào vùng biển nào bạn muốn lặn xuống.
+Vùng nước trong nhất Malaysia cũng là nơi khó đến nhất: để thả mình xuống bức tường của [Sipadan](/vi/tourism/sipadan-and-semporna) bạn cần một giấy phép của chính phủ mà không số tiền nào cho phép bạn mua trực tiếp. Một dữ kiện đơn lẻ đó nắm bắt cách đất nước vận hành du lịch lặn biển của mình — việc tiếp cận được phân phối hạn chế, định giá, và chia giữa hai cơ quan rất khác nhau tùy thuộc vào vùng biển nào bạn muốn lặn xuống.
 
 ## Ai quyết định nơi bạn có thể lặn tại Malaysia?
 

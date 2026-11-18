@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "ko"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -194,7 +194,7 @@ Sirap bandung는 완성된 음료인 만큼이나 베이스이기도 하여, 상
 **반둥 판단 스프리츠(bandung pandan spritz)** — 맑게 거른 sirap bandung에 코코넛-리치
 코디얼, 판단, 감귤을 더해 지은 것 — 는 Visit Malaysia 2026을 위해 열린 Signature Mocktail
 Championship에서 우승했는데, 이 대회는 Malaysian Association of Hotels와 MFBEA의
-Mixology Alliance가 Tourism Malaysia의 지원을 받아 주최했으며, 언론에서는 그것을 국가
+Mixology Alliance가 [Tourism Malaysia](/ko/tourism/tourism-malaysia-and-tourism-agencies)의 지원을 받아 주최했으며, 언론에서는 그것을 국가
 목테일로 홍보했다. (헤드라인은 그것을 "공식" 또는 "국가"라 부르지만, 보도의 세부는
 그것을 대회 우승작으로 기술하므로, 대회라는 틀이 더 안전하다.) 창작자는 그것을
 *kuih lapis*와 함께 내기로 했는데, 그 여러 겹을 말레이시아의 겹겹인 사회에 대한 끄덕임으로

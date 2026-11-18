@@ -21,7 +21,7 @@ appliesTo: "Pembaca yang mencari profil faktual Sabah — geografi, ekonomi dan 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d05db2b4db752c79"
+sourceContentHash: "a41acdd421e03bda"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ di selatan lingkaran taufan. Mercu tanda utamanya ialah Gunung Kinabalu, sebuah
 jasad granit setinggi 4,095 meter yang merupakan gunung tertinggi antara Himalaya
 dan New Guinea.
 
-Gunung ini terletak di dalam Taman Kinabalu (Kinabalu Park), sebuah kawasan
+Gunung ini terletak di dalam [Taman Kinabalu](/tourism/mount-kinabalu-and-kinabalu-park) (Kinabalu Park), sebuah kawasan
 perlindungan seluas 75,370 hektar yang diurus oleh Sabah Parks. Pada tahun 2000,
 ia menjadi Tapak Warisan Dunia UNESCO pertama Malaysia, didaftarkan atas
 kepekatan hidupan tumbuhan yang luar biasa — habitat taman ini terbentang

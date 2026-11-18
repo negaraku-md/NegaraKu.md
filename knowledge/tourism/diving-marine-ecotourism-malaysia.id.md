@@ -31,7 +31,7 @@ faq:
     a: "Tergantung pada lokasi. Taman laut di Semenanjung Malaysia dan Labuan adalah federal, dikelola oleh Departemen Perikanan Malaysia di bawah Akta Perikanan 1985. Taman di Sabah, termasuk Sipadan, dikelola oleh badan negara bagian Taman-Taman Sabah di bawah undang-undang negara bagian yang terpisah."
 
 lang: "id"
-sourceContentHash: "c84ad1c115fc50b3"
+sourceContentHash: "b4330d885555b613"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", 
 framework: rules
 ---
 
-Air paling jernih di Malaysia juga yang paling sulit dicapai: untuk menyelam ke dinding Sipadan Anda memerlukan izin pemerintah yang tidak dapat dibeli secara langsung dengan uang berapa banyak pun. Fakta tunggal itu menggambarkan cara negara ini mengelola pariwisata selamnya — akses dijatah, diberi harga, dan dibagi antara dua otoritas yang sangat berbeda bergantung pada laut mana yang ingin Anda selami.
+Air paling jernih di Malaysia juga yang paling sulit dicapai: untuk menyelam ke dinding [Sipadan](/id/tourism/sipadan-and-semporna) Anda memerlukan izin pemerintah yang tidak dapat dibeli secara langsung dengan uang berapa banyak pun. Fakta tunggal itu menggambarkan cara negara ini mengelola pariwisata selamnya — akses dijatah, diberi harga, dan dibagi antara dua otoritas yang sangat berbeda bergantung pada laut mana yang ingin Anda selami.
 
 ## Siapa yang menentukan di mana Anda bisa menyelam di Malaysia?
 

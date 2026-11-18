@@ -34,7 +34,7 @@ faq:
     a: "Section 10 of the National Parks Act 1980 prohibits mining and prospecting within a national park, unless the State Authority, after consulting the Minister, finds that a mineral deposit exists that is so exceptionally rich."
 
 lang: "en"
-sourceContentHash: "1f3622365daf3410"
+sourceContentHash: "a490a97f35c2c8d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-Ask anyone where "Malaysia's national park" is and they will point to one place. In reality, Malaysia does not have a single national park — it has three legal systems that are entirely separate, and one of them does not even cover the place most famous by the name "Taman Negara". Understanding this legal map is the key to planning a visit, conducting research, or simply grasping how Malaysia protects its 130-million-year-old rainforests.
+Ask anyone where "Malaysia's national park" is and they will point to one place. In reality, Malaysia does not have a single national park — it has three legal systems that are entirely separate, and one of them does not even cover the place most famous by the name "[Taman Negara](/en/tourism/taman-negara-ecotourism-guide)". Understanding this legal map is the key to planning a visit, conducting research, or simply grasping how Malaysia protects its 130-million-year-old rainforests.
 
 ## Why doesn't Malaysia have a single, unified national park system?
 

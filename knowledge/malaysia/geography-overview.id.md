@@ -18,7 +18,7 @@ keyTakeaways:
   - "Monsun Timur Laut (Nov–Mar) membasahi pantai timur Semenanjung, barat Sarawak, dan utara Sabah; Monsun Barat Daya (Mei–Sep) secara relatif lebih kering — sebuah irama yang masih membentuk musim banjir dan kalender pertanian (Jabatan Meteorologi Malaysia)"
 appliesTo: "Siapa saja yang mencoba memahami mengapa populasi, kota, dan risiko banjir Malaysia terpusat di tempat-tempat tertentu — pelajar, pendatang baru, perencana, atau siapa saja yang bingung mengapa 'musim monsun' berarti berbeda di pantai yang berlainan."
 lang: "id"
-sourceContentHash: "53f49043897c123b"
+sourceContentHash: "e7dc1f31338ea13e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,7 +93,7 @@ Lihat peta relief Semenanjung Malaysia dan satu ciri mendominasi: satu rangkaian
 
 Pertama, ia adalah kawasan tangkapan air. Hujan yang turun di lerengnya mengalir ke timur atau ke barat bergantung pada sisi mana puncak bukit ia jatuh, menyalurkan air ke sungai-sungai — di antaranya Sungai Pahang, Sungai Perak, Sungai Kelantan — yang telah digarap, ditangkap ikannya, dan diperdagangkan di sepanjangnya oleh rakyat semenanjung selama berabad-abad.
 
-Kedua, ia adalah sebuah tembok. Titik tertinggi barisan ini, **Gunung Tahan**, menjulang setinggi 2,187 meter di perbatasan Pahang–Kelantan, di dalam apa yang kini dikenal sebagai Taman Negara — taman nasional Malaysia. Sebuah tulang punggung dataran tinggi setinggi itu, yang membentang sepanjang Semenanjung, bukan sekadar berdiam di sana sebagai pemandangan indah semata. Ia memaksa permukiman bergerak ke luar.
+Kedua, ia adalah sebuah tembok. Titik tertinggi barisan ini, **Gunung Tahan**, menjulang setinggi 2,187 meter di perbatasan Pahang–Kelantan, di dalam apa yang kini dikenal sebagai [Taman Negara](/id/tourism/taman-negara-ecotourism-guide) — taman nasional Malaysia. Sebuah tulang punggung dataran tinggi setinggi itu, yang membentang sepanjang Semenanjung, bukan sekadar berdiam di sana sebagai pemandangan indah semata. Ia memaksa permukiman bergerak ke luar.
 
 ## Mengapa semua orang tinggal di pinggir
 
@@ -109,7 +109,7 @@ Bagaimanapun, pola itu tetap: dataran pantai dan lembah sungai untuk manusia, pe
 
 Melintasi Laut Tiongkok Selatan ke Sabah dan Sarawak, logika yang sama muncul kembali, hanya dalam skala yang lebih besar. Sebuah pedalaman bergunung-gunung — berporoskan **Banjaran Crocker** di Sabah — memisahkan jalur pantai yang sempit dari hutan hujan Borneo yang dalam di pedalaman. Ibu kota dan pusat populasi, di antaranya Kota Kinabalu dan Kuching, terletak di pantai atau di hulu sungai yang dapat dilayari, tepat di tempat yang diperkirakan oleh pola semenanjung.
 
-Versi Sabah dari "puncak tertinggi memaksa penghormatan" tidak bersembunyi. **[Gunung Kinabalu](/id/malaysia/mount-kinabalu)** menjulang setinggi 4,095 meter — bukan hanya titik tertinggi di Malaysia, tetapi puncak tertinggi di mana pun antara Himalaya dan New Guinea. Ia terletak di dalam Taman Kinabalu, Situs Warisan Dunia UNESCO pertama Malaysia, dan puncak granitnya terlihat dari sebagian besar pantai barat Sabah pada hari yang cerah, sebuah penanda yang abadi bagi garis pantai yang selebihnya menawarkan sedikit saja penanda.
+Versi Sabah dari "puncak tertinggi memaksa penghormatan" tidak bersembunyi. **[Gunung Kinabalu](/id/malaysia/mount-kinabalu)** menjulang setinggi 4,095 meter — bukan hanya titik tertinggi di Malaysia, tetapi puncak tertinggi di mana pun antara Himalaya dan New Guinea. Ia terletak di dalam [Taman Kinabalu](/id/tourism/mount-kinabalu-and-kinabalu-park), Situs Warisan Dunia UNESCO pertama Malaysia, dan puncak granitnya terlihat dari sebagian besar pantai barat Sabah pada hari yang cerah, sebuah penanda yang abadi bagi garis pantai yang selebihnya menawarkan sedikit saja penanda.
 
 | | Semenanjung Malaysia | Malaysia Timur (Borneo) |
 | --- | --- | --- |

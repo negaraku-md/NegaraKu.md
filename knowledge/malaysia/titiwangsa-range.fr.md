@@ -18,7 +18,7 @@ keyTakeaways:
   - "Le terrain de haute altitude de la chaîne relève du niveau le plus strict des protections de Zone écologiquement sensible de la Malaisie, qui préservent les écosystèmes de hautes terres et de montagne face au développement"
 appliesTo: "Lecteurs qui veulent une explication claire et vérifiée de ce qu'est la chaîne de Titiwangsa, par où elle passe et pourquoi elle divise les fleuves, le climat et le schéma de peuplement de la Malaisie péninsulaire en un côté côte ouest et un côté côte est."
 lang: "fr"
-sourceContentHash: "c92a68e675abc2cc"
+sourceContentHash: "8f6fd36f8d34a324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ Cette ligne, c'est la chaîne de Titiwangsa, et c'est l'élément géographique 
 
 La chaîne de Titiwangsa, connue localement sous le nom de Banjaran Titiwangsa ou simplement de chaîne principale, est une chaîne continue de montagnes qui traverse l'épine dorsale de la péninsule. Le portail de la biodiversité de la Malaisie lui-même, MyBIS, la décrit comme « la chaîne de montagnes la plus vaste, la plus proéminente et la plus continue de la Malaisie péninsulaire », s'étendant sur environ 500 kilomètres depuis la frontière entre la Malaisie et la Thaïlande au nord jusqu'à Negeri Sembilan, où le terrain perd de la hauteur et se fond dans la plaine côtière près de Melaka.
 
-Ce n'est pas une crête unique portant un seul nom d'un bout à l'autre. Sur sa longueur, elle se divise en massifs et sommets nommés — Belum à l'extrémité nord de Perak, le plateau des [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), Fraser's Hill plus au sud, le Gunung Nuang près de la frontière entre Selangor et Pahang — mais les géographes et les planificateurs du gouvernement la traitent comme un seul système continu, car hydrologiquement et écologiquement elle se comporte comme un seul.
+Ce n'est pas une crête unique portant un seul nom d'un bout à l'autre. Sur sa longueur, elle se divise en massifs et sommets nommés — Belum à l'extrémité nord de Perak, le plateau des [Cameron Highlands](/tourism/cameron-highlands-visitor-guide), [Fraser's Hill](/fr/tourism/frasers-hill) plus au sud, le Gunung Nuang près de la frontière entre Selangor et Pahang — mais les géographes et les planificateurs du gouvernement la traitent comme un seul système continu, car hydrologiquement et écologiquement elle se comporte comme un seul.
 
 ## La ligne de partage des eaux qui gouverne toute la péninsule
 
@@ -100,7 +100,7 @@ L'altitude elle-même façonne la manière dont la chaîne est gouvernée : son 
 
 **La traiter comme une seule « montagne » nommée.** La chaîne de Titiwangsa est une chaîne, non un seul sommet — les Cameron Highlands, Fraser's Hill, le Gunung Korbu et le Gunung Stong sont tous des points le long d'elle, non des chaînes distinctes.
 
-**La confondre avec le Gunung Tahan.** La plus haute montagne de la Malaisie péninsulaire, le Gunung Tahan à Pahang, se trouve dans la chaîne de Tahan, distincte, à l'intérieur du Taman Negara, et non sur la chaîne de Titiwangsa elle-même.
+**La confondre avec le Gunung Tahan.** La plus haute montagne de la Malaisie péninsulaire, le Gunung Tahan à Pahang, se trouve dans la chaîne de Tahan, distincte, à l'intérieur du [Taman Negara](/fr/tourism/taman-negara-ecotourism-guide), et non sur la chaîne de Titiwangsa elle-même.
 
 **Supposer que les frontières des États et la chaîne coïncident précisément.** La chaîne court globalement le long de plusieurs frontières d'États, mais pas exactement sur elles — c'est d'abord un accident géographique, et les frontières administratives ont été tracées par rapport à lui, et non l'inverse.
 

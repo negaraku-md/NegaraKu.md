@@ -52,7 +52,7 @@ sources:
     publisher: "Munch Malaysia"
 
 lang: "fr"
-sourceContentHash: "b84d0084fcb4e7c1"
+sourceContentHash: "1b6092fa7b1937b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -208,7 +208,7 @@ La boisson a aussi été réinventée en version haut de gamme. En 2025, une ver
 modernisée appelée **bandung pandan spritz** — bâtie sur un sirap bandung clarifié avec un
 cordial coco-litchi, du pandan et des agrumes — a remporté le Signature Mocktail Championship
 organisé pour Visit Malaysia 2026, mis sur pied par la Malaysian Association of Hotels et la
-Mixology Alliance de la MFBEA avec le soutien de Tourism Malaysia, et a été promu dans la presse
+Mixology Alliance de la MFBEA avec le soutien de [Tourism Malaysia](/fr/tourism/tourism-malaysia-and-tourism-agencies), et a été promu dans la presse
 comme mocktail national. (Les titres l'appellent « officiel » ou « national », tandis que le
 détail des reportages eux-mêmes le décrit comme le vainqueur du championnat, de sorte que le
 cadrage du championnat est le plus sûr.) Le créateur a choisi de le servir avec du *kuih lapis*,

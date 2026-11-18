@@ -31,7 +31,7 @@ faq:
     a: "Gateway Development Alliance 컨소시엄입니다: 말레이시아 앵커 주주로서 Khazanah Nasional과 직원공제기금(EPF), 그리고 Global Infrastructure Partners와 아부다비 투자청. 보고된 수치는 Khazanah를 최대 지분, EPF를 그다음, 이어 GIP와 ADIA로 놓습니다; 정부도 특별주를 유지합니다. 정확한 비율은 공식 공시와 대조하여 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "c9580bd545dac351"
+sourceContentHash: "0e548c58dd3f2a31"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ MAHB의 네트워크는 주요 국제 허브부터 작은 지방 활주로까지
 
 KLIA가 중심입니다. 그 두 터미널은 2023년 리브랜딩되었습니다: 원래의 메인 터미널 빌딩은 **KLIA 터미널 1**이, 저가 터미널 klia2(2014년 개장)는 **KLIA 터미널 2**가 되었습니다. 당시 교통부 장관은 이 개명을 마케팅·경쟁력 조치로 규정했습니다; 두 터미널은 셔틀 서비스로 연결됩니다.
 
-KLIA를 넘어, MAHB는 말레이시아의 다른 국제 관문(예: 페낭, 코타키나발루, 쿠칭, 랑카위를 서비스하는 공항), 국내 공항 계층, 그리고 특히 사바와 사라왁의 외딴 지역사회를 연결 상태로 유지하는 STOLport 묶음을 운영합니다.
+KLIA를 넘어, MAHB는 말레이시아의 다른 국제 관문(예: 페낭, 코타키나발루, 쿠칭, [랑카위](/ko/tourism/langkawi-visitor-guide)를 서비스하는 공항), 국내 공항 계층, 그리고 특히 사바와 사라왁의 외딴 지역사회를 연결 상태로 유지하는 STOLport 묶음을 운영합니다.
 
 해외에서 MAHB는 2010년대 중반부터 보유해 온, 이스탄불 공항에 이은 튀르키예 제2의 공항 이스탄불 사비하 괵첸 국제공항을 운영합니다. 사비하 괵첸은 대형 저가·점대점 허브입니다; MAHB는 그곳이 2024년 약 4,100만 명의 여객을 처리하여 그룹 트래픽의 상당 부분을 이룬다고 보고했습니다.
 

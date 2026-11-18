@@ -30,7 +30,7 @@ faq:
     a: "是的。世界遗产中心记录马来西亚预备名单上有三处遗产：西马国家公园（Taman Negara）、雪兰莪冈仔石英岭（Gombak Selangor Quartz Ridge），以及双溪毛糯麻风病院（Sungai Buloh Leprosarium）。预备名单上的列名只是提名意向的声明，并非正式列入。"
 
 lang: "zh"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ UNESCO维持一份合并的十项甄选标准清单。编号(i)至(vi)涵盖文�
 
 | 遗产 | 年份 | 类型 | 标准 |
 | --- | --- | --- | --- |
-| Gunung Mulu国家公园 | 2000 | 自然 | (vii)(viii)(ix)(x) |
-| 京那巴鲁公园（Kinabalu Park） | 2000 | 自然 | (ix)(x) |
+| [Gunung Mulu国家公园](/zh/tourism/gunung-mulu-national-park) | 2000 | 自然 | (vii)(viii)(ix)(x) |
+| [京那巴鲁公园](/zh/tourism/mount-kinabalu-and-kinabalu-park)（Kinabalu Park） | 2000 | 自然 | (ix)(x) |
 | 马六甲与乔治市 | 2008 | 文化 | (ii)(iii)(iv) |
 | 冷岳河谷考古遗产 | 2012 | 文化 | (iii)(iv) |
 | Niah国家公园洞穴群考古遗产 | 2024 | 文化 | (iii)(v) |
@@ -139,4 +139,4 @@ UNESCO维持一份合并的十项甄选标准清单。编号(i)至(vi)涵盖文�
 
 ## 下一步
 
-马来西亚预备名单上还有三处遗产：Taman Negara、雪兰莪冈仔石英岭（Gombak Selangor Quartz Ridge），以及双溪毛糯麻风病院（Sungai Buloh Leprosarium）。预备名单上的列名仅是提名意向，并非正式列入——但鉴于两年内已有两次新增列名，六这个数字恐怕不会维持太久。
+马来西亚预备名单上还有三处遗产：[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)、雪兰莪冈仔石英岭（Gombak Selangor Quartz Ridge），以及双溪毛糯麻风病院（Sungai Buloh Leprosarium）。预备名单上的列名仅是提名意向，并非正式列入——但鉴于两年内已有两次新增列名，六这个数字恐怕不会维持太久。

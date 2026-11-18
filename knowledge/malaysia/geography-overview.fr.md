@@ -18,7 +18,7 @@ keyTakeaways:
   - "La mousson du Nord-Est (nov.-mars) détrempe la côte est de la péninsule, l'ouest du Sarawak et le nord du Sabah ; la mousson du Sud-Ouest (mai-sept.) est comparativement plus sèche — un rythme qui détermine encore aujourd'hui la saison des inondations et les calendriers agricoles (Département météorologique de la Malaisie)"
 appliesTo: "Toute personne cherchant à comprendre pourquoi la population, les villes et le risque d'inondation de la Malaisie se regroupent là où ils le font — étudiants, nouveaux arrivants, planificateurs, ou quiconque est déconcerté par le fait que « saison des moussons » signifie des choses différentes sur des côtes différentes."
 lang: "fr"
-sourceContentHash: "53f49043897c123b"
+sourceContentHash: "e7dc1f31338ea13e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,7 +93,7 @@ Regardez une carte en relief de la Malaisie péninsulaire et une caractéristiqu
 
 D'abord, c'est une ligne de partage des eaux. La pluie qui tombe sur ses pentes s'écoule vers l'est ou vers l'ouest selon le versant de la crête où elle atterrit, alimentant les rivières — le Pahang, le Perak et le Kelantan parmi elles — le long desquelles les Malaisiens de la péninsule ont cultivé, pêché et commercé pendant des siècles.
 
-Ensuite, c'est un mur. Le point culminant de la chaîne, le **Gunung Tahan**, s'élève à 2,187 mètres à la frontière entre Pahang et Kelantan, à l'intérieur de ce qui est aujourd'hui le Taman Negara — le parc national de la Malaisie. Une épine de hautes terres aussi élevée, courant sur toute la longueur de la péninsule, ne se contente pas de se tenir là de manière pittoresque. Elle repousse le peuplement vers l'extérieur.
+Ensuite, c'est un mur. Le point culminant de la chaîne, le **Gunung Tahan**, s'élève à 2,187 mètres à la frontière entre Pahang et Kelantan, à l'intérieur de ce qui est aujourd'hui le [Taman Negara](/fr/tourism/taman-negara-ecotourism-guide) — le parc national de la Malaisie. Une épine de hautes terres aussi élevée, courant sur toute la longueur de la péninsule, ne se contente pas de se tenir là de manière pittoresque. Elle repousse le peuplement vers l'extérieur.
 
 ## Pourquoi tout le monde vit sur les bords
 
@@ -109,7 +109,7 @@ Quoi qu'il en soit, le schéma tient : plaine côtière et vallée fluviale pour
 
 Traversez la mer de Chine méridionale jusqu'au Sabah et au Sarawak et la même logique réapparaît, en plus grand. Un intérieur montagneux — ancré au Sabah par la **chaîne de Crocker** — sépare une étroite bande côtière de la profonde forêt tropicale bornéenne de l'intérieur. Les capitales d'État et les centres de population, parmi lesquels Kota Kinabalu et Kuching, se situent sur la côte ou en amont de rivières navigables, exactement là où le schéma péninsulaire le prédirait.
 
-La version du Sabah de « le plus haut sommet impose le respect » n'est pas subtile. Le **[mont Kinabalu](/malaysia/mount-kinabalu)** s'élève à 4,095 mètres — non seulement le point culminant de la Malaisie, mais le plus haut sommet de tout territoire situé entre l'Himalaya et la Nouvelle-Guinée. Il se trouve à l'intérieur du parc du Kinabalu, premier site du patrimoine mondial de l'UNESCO de la Malaisie, et son sommet de granit est visible depuis une grande partie de la côte ouest du Sabah par temps clair, un point de repère permanent pour un littoral qui, par ailleurs, en offre peu.
+La version du Sabah de « le plus haut sommet impose le respect » n'est pas subtile. Le **[mont Kinabalu](/malaysia/mount-kinabalu)** s'élève à 4,095 mètres — non seulement le point culminant de la Malaisie, mais le plus haut sommet de tout territoire situé entre l'Himalaya et la Nouvelle-Guinée. Il se trouve à l'intérieur du [parc du Kinabalu](/fr/tourism/mount-kinabalu-and-kinabalu-park), premier site du patrimoine mondial de l'UNESCO de la Malaisie, et son sommet de granit est visible depuis une grande partie de la côte ouest du Sabah par temps clair, un point de repère permanent pour un littoral qui, par ailleurs, en offre peu.
 
 | | Malaisie péninsulaire | Malaisie orientale (Bornéo) |
 | --- | --- | --- |

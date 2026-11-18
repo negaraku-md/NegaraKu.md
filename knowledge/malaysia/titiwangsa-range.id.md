@@ -18,7 +18,7 @@ keyTakeaways:
   - "Kawasan berketinggian tinggi pegunungan ini tergolong dalam tingkat paling ketat perlindungan Kawasan Sensitif Lingkungan Malaysia, yang melindungi ekosistem tanah tinggi dan pegunungan dari pembangunan"
 appliesTo: "Cocok untuk pembaca yang menginginkan penjelasan yang jelas dan terverifikasi tentang apa itu Banjaran Titiwangsa, ke mana ia membentang, dan mengapa ia membagi sungai, iklim, dan pola permukiman Semenanjung Malaysia menjadi sisi pantai barat dan pantai timur."
 lang: "id"
-sourceContentHash: "c92a68e675abc2cc"
+sourceContentHash: "8f6fd36f8d34a324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ Garis itu adalah Banjaran Titiwangsa, dan ia adalah satu-satunya ciri geografi y
 
 Banjaran Titiwangsa, dikenal secara lokal sebagai Banjaran Titiwangsa atau ringkasnya Banjaran Utama, adalah rangkaian gunung berkesinambungan yang membentang di sepanjang tulang punggung semenanjung ini. Portal biodiversitas resmi Malaysia sendiri, MyBIS, menggambarkannya sebagai "rangkaian pegunungan yang terbesar, paling menonjol, dan paling berkesinambungan di Semenanjung Malaysia," membentang kurang lebih 500 kilometer dari perbatasan Malaysia-Thailand di utara hingga ke Negeri Sembilan, tempat rupa bumi itu berangsur merendah dan menyatu dengan dataran pantai dekat Melaka.
 
-Ia bukan satu punggungan tunggal dengan satu nama dari ujung ke ujung. Di sepanjang panjangnya, ia terbagi menjadi gugusan dan puncak yang masing-masing memiliki nama — Belum di ujung utara Perak, dataran tinggi [Cameron Highlands](/id/tourism/cameron-highlands-visitor-guide), Bukit Fraser lebih jauh ke selatan, Gunung Nuang dekat perbatasan Selangor-Pahang — tetapi ahli geografi dan perencana pemerintah menganggapnya sebagai satu sistem yang berkesinambungan, karena dari segi hidrologi dan ekologi ia berfungsi sebagai satu kesatuan.
+Ia bukan satu punggungan tunggal dengan satu nama dari ujung ke ujung. Di sepanjang panjangnya, ia terbagi menjadi gugusan dan puncak yang masing-masing memiliki nama — Belum di ujung utara Perak, dataran tinggi [Cameron Highlands](/id/tourism/cameron-highlands-visitor-guide), [Bukit Fraser](/id/tourism/frasers-hill) lebih jauh ke selatan, Gunung Nuang dekat perbatasan Selangor-Pahang — tetapi ahli geografi dan perencana pemerintah menganggapnya sebagai satu sistem yang berkesinambungan, karena dari segi hidrologi dan ekologi ia berfungsi sebagai satu kesatuan.
 
 ## Kawasan tangkapan air yang mengendalikan seluruh semenanjung
 
@@ -100,7 +100,7 @@ Ketinggian itu sendiri membentuk cara pegunungan ini dikelola: kawasan tertinggi
 
 **Menganggapnya sebagai satu "gunung" bernama tunggal.** Banjaran Titiwangsa adalah satu rangkaian, bukan satu puncak — Cameron Highlands, Bukit Fraser, Gunung Korbu, dan Gunung Stong semuanya adalah titik di sepanjangnya, bukan pegunungan yang terpisah.
 
-**Mengacaukannya dengan Gunung Tahan.** Gunung tertinggi tunggal di Semenanjung Malaysia, Gunung Tahan di Pahang, terletak di Banjaran Tahan yang terpisah di dalam Taman Negara, bukan di Banjaran Titiwangsa itu sendiri.
+**Mengacaukannya dengan Gunung Tahan.** Gunung tertinggi tunggal di Semenanjung Malaysia, Gunung Tahan di Pahang, terletak di Banjaran Tahan yang terpisah di dalam [Taman Negara](/id/tourism/taman-negara-ecotourism-guide), bukan di Banjaran Titiwangsa itu sendiri.
 
 **Menganggap perbatasan negeri dan pegunungan ini sejajar dengan rapi.** Pegunungan ini secara umum membentang menyusuri, tetapi tidak persis di atas, beberapa perbatasan negeri — ia pada dasarnya adalah satu ciri geografi, dan perbatasan administratif digariskan berdasarkannya, bukan sebaliknya.
 

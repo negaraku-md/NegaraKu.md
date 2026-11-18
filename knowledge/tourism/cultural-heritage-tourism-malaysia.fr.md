@@ -31,7 +31,7 @@ faq:
     a: "Couvrez vos épaules et vos genoux sur tous les sites religieux. Les mosquées attendent en outre des femmes qu'elles se couvrent les cheveux et de tous qu'ils se déchaussent. Les temples hindous et chinois exigent également de se déchausser avant d'entrer dans le sanctuaire intérieur."
 
 lang: "fr"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ Les villes historiques du détroit de Malacca (Melaka et George Town) ont été 
 
 | Site | Année d'inscription | État | Type |
 | --- | --- | --- | --- |
-| Parc du Kinabalu | 2000 | Sabah | Naturel |
-| Parc national du Gunung Mulu | 2000 | Sarawak | Naturel |
+| [Parc du Kinabalu](/fr/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | Naturel |
+| [Parc national du Gunung Mulu](/fr/tourism/gunung-mulu-national-park) | 2000 | Sarawak | Naturel |
 | Villes historiques du détroit de Malacca (Melaka et George Town) | 2008 | Melaka et Penang | Culturel |
 | Patrimoine archéologique de la vallée de Lenggong | 2012 | Perak | Culturel (archéologique) |
 | Patrimoine archéologique du complexe de grottes du parc national de Niah | 2024 | Sarawak | Culturel (archéologique) |

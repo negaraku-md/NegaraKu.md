@@ -31,7 +31,7 @@ faq:
     a: "Las fuentes registran que los dos procesos corrieron en paralelo, más que uno causando el otro. La independencia se negoció y se logró el 31 de agosto de 1957 mientras la Emergencia seguía vigente, y la Emergencia continuó durante casi tres años más bajo un gobierno malayo independiente."
 
 lang: "es"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -112,7 +112,7 @@ El esfuerzo de seguridad fue, en términos numéricos, mucho más una operación
 
 El ejército regular creció más despacio. La propia historia del Ejército de Malasia registra que el Regimiento Malayo contaba con tres batallones cuando se declaró la Emergencia, siete en 1956 y once en 1961. Unidades de la Commonwealth sirvieron junto a las fuerzas malayas, y una Guardia Nacional reclutada localmente entre las comunidades malaya, china e india protegía aldeas, fincas y zonas de reasentamiento.
 
-Sir Henry Gurney, que había sucedido a Gent como alto comisionado, fue asesinado en una emboscada en octubre de 1951 cuando viajaba a Fraser's Hill. Arkib Negara registra que el asesinato provocó una brusca intensificación de la respuesta del gobierno.
+Sir Henry Gurney, que había sucedido a Gent como alto comisionado, fue asesinado en una emboscada en octubre de 1951 cuando viajaba a [Fraser's Hill](/es/tourism/frasers-hill). Arkib Negara registra que el asesinato provocó una brusca intensificación de la respuesta del gobierno.
 
 ## El Plan Briggs y las nuevas aldeas
 

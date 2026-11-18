@@ -110,7 +110,7 @@ The state's traditional nickname, "Land Below the Wind", refers to its position
 south of the typhoon belt. Its dominant landmark is Mount Kinabalu, a 4,095-metre
 granite massif that is the highest mountain between the Himalayas and New Guinea.
 
-The mountain sits inside Kinabalu Park, a 75,370-hectare protected area managed by
+The mountain sits inside [Kinabalu Park](/tourism/mount-kinabalu-and-kinabalu-park), a 75,370-hectare protected area managed by
 Sabah Parks. In 2000 it became Malaysia's first UNESCO World Heritage Site,
 inscribed for an exceptional concentration of plant life — the park's habitats run
 from lowland rainforest at about 150 m to sub-alpine scrub at the summit zone, and

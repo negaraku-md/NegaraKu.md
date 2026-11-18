@@ -31,7 +31,7 @@ faq:
     a: "在所有宗教场所都应遮盖肩膀与膝盖。清真寺另外要求女性遮盖头发，且所有人须脱鞋。印度教庙宇和华人庙宇也要求在进入内殿前脱鞋。"
 
 lang: "zh"
-sourceContentHash: "93767c9cc05e1d13"
+sourceContentHash: "5fc1e9f31b8530da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,8 +91,8 @@ framework: explainer
 
 | 遗产 | 列入年份 | 州属 | 类型 |
 | --- | --- | --- | --- |
-| 京那巴鲁公园 | 2000 | 沙巴 | 自然 |
-| 姆鲁山国家公园 | 2000 | 砂拉越 | 自然 |
+| [京那巴鲁公园](/zh/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | 沙巴 | 自然 |
+| [姆鲁山国家公园](/zh/tourism/gunung-mulu-national-park) | 2000 | 砂拉越 | 自然 |
 | 马六甲海峡历史城市（马六甲与乔治市） | 2008 | 马六甲与槟城 | 文化 |
 | 玲珑谷考古遗产 | 2012 | 霹雳 | 文化（考古） |
 | 尼亚国家公园洞穴群考古遗产 | 2024 | 砂拉越 | 文化（考古） |

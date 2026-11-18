@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "da77a92f707cbcd4"
+sourceContentHash: "e16b23300ddd14d8"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ framework: profile
 只有一人居住在此。
 
 这一个事实几乎解释了这个州属的一切：为什么它的森林至今仍然广袤，为什么它
-的经济依靠土地而非工厂，以及为什么国家公园（Taman Negara）能够以一种在
+的经济依靠土地而非工厂，以及为什么国家公园（[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)）能够以一种在
 [雪兰莪（Selangor）](/zh/states/selangor)或
 [槟城（Penang）](/zh/states/penang)都无法存续的形式存在。
 
@@ -173,7 +173,7 @@ Highlands）**。
 
 其地理形态也呈层次分布。东海岸有一条长约208公里、面向南中国海的沿海地带。
 内陆延伸着彭亨河（Sungai Pahang）流域。西部则是高原地带——金马仑高原、云顶
-高原（Genting Highlands）与福隆港（Bukit Fraser）——使彭亨成为唯一同时坐拥
+高原（[Genting Highlands](/zh/tourism/genting-highlands)）与福隆港（Bukit Fraser）——使彭亨成为唯一同时坐拥
 半岛三大高原度假胜地的州属。
 
 ## 经济：最依赖土地的州属

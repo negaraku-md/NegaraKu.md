@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c9580bd545dac351"
+sourceContentHash: "0e548c58dd3f2a31"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ MAHB का नेटवर्क मलेशियाई विमानन �
 
 KLIA केंद्रबिंदु है। इसके दो टर्मिनलों को 2023 में फिर से ब्रांडेड किया गया: मूल Main Terminal Building **KLIA Terminal 1** बना, और कम-लागत टर्मिनल klia2 (2014 में खोला गया) **KLIA Terminal 2** बना। तत्कालीन परिवहन मंत्री ने इस नाम-परिवर्तन को एक विपणन और प्रतिस्पर्धात्मकता चाल के रूप में प्रस्तुत किया; दोनों टर्मिनल एक शटल सेवा से जुड़े हैं।
 
-KLIA से परे, MAHB मलेशिया के अन्य अंतरराष्ट्रीय द्वारों (जैसे Penang, Kota Kinabalu, Kuching और Langkawi की सेवा करने वाले), घरेलू हवाई अड्डों की एक श्रेणी, और STOLports का एक समूह चलाती है जो दूरस्थ समुदायों — विशेष रूप से Sabah और Sarawak में — को जोड़े रखते हैं।
+KLIA से परे, MAHB मलेशिया के अन्य अंतरराष्ट्रीय द्वारों (जैसे Penang, Kota Kinabalu, Kuching और [Langkawi](/hi/tourism/langkawi-visitor-guide) की सेवा करने वाले), घरेलू हवाई अड्डों की एक श्रेणी, और STOLports का एक समूह चलाती है जो दूरस्थ समुदायों — विशेष रूप से Sabah और Sarawak में — को जोड़े रखते हैं।
 
 विदेश में, MAHB Istanbul Sabiha Gökçen International Airport का परिचालन करती है, जो Istanbul Airport के बाद तुर्की का दूसरा सबसे बड़ा हवाई अड्डा है, जो 2010 के दशक के मध्य से इसके पास है। Sabiha Gökçen एक बड़ा कम-लागत और point-to-point केंद्र है; MAHB ने बताया कि इसने 2024 में लगभग 41 मिलियन यात्रियों को संभाला, जो इसे समूह के ट्रैफ़िक का एक भौतिक हिस्सा बनाता है।
 

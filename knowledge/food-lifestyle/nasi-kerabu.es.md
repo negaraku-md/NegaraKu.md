@@ -35,7 +35,7 @@ faq:
     a: "Los dos son primos cercanos: ambos combinan arroz con una ensalada de hierbas y verduras crudas cortadas finas. El rasgo definitorio del nasi kerabu es el arroz coloreado —sobre todo el azul teñido con flor de guisante de mariposa— junto con sus guarniciones de la costa oriental como el budu y el solok lada. El nasi ulam suele servirse con arroz blanco o apenas aromatizado. En la práctica la línea entre ambos es difusa, y las fuentes describen los platos como similares en composición."
 
 lang: "es"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -183,7 +183,7 @@ capas es precisamente el punto.
 Alrededor del arroz se sienta un reparto secundario capaz de convertir un plato
 modesto en un festín. La proteína suele ser frita o a la brasa: pollo o pescado
 fritos o —el más apreciado— *ayam percik*, pollo a la brasa untado con una salsa
-de coco dulce y especiada. Según Tourism Malaysia, el ayam percik al estilo de
+de coco dulce y especiada. Según [Tourism Malaysia](/es/tourism/tourism-malaysia-and-tourism-agencies), el ayam percik al estilo de
 Kelantan es más dulce que las versiones de otros lugares.
 
 Los acompañamientos clásicos son tan importantes como el principal. El

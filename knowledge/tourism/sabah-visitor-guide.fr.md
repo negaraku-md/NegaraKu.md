@@ -35,7 +35,7 @@ faq:
     a: "Sipadan ferme chaque mois de novembre pour la régénération du récif, planifiez donc les voyages de plongée entre décembre et octobre. Ailleurs, les mois plus humides de la mousson du nord-est (environ de novembre à mars) apportent plus de pluie à Bornéo."
 
 lang: "fr"
-sourceContentHash: "c9653441143f9da8"
+sourceContentHash: "65ae95f784dc6568"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,10 +129,10 @@ La plupart des visiteurs utilisent KK comme base pendant deux ou trois jours et 
 
 - **Le saut d'île en île à sa porte.** Les îles du parc Tunku Abdul Rahman se trouvent juste au large, à une courte traversée en bateau du front de mer de la ville — une demi-journée facile de plongée en apnée et de plages.
 - **Le point de départ du [mont Kinabalu](/malaysia/mount-kinabalu).** La montagne et le siège de son parc sont à environ deux heures de route de la ville.
-- **Des correspondances vers la côte est.** Sandakan (pour les orangs-outans et la rivière Kinabatangan) et Tawau (pour la région de plongée de Semporna-Sipadan) sont de courts sauts intérieurs depuis KK.
+- **Des correspondances vers la côte est.** Sandakan (pour les orangs-outans et la rivière Kinabatangan) et Tawau (pour la région de plongée de Semporna-[Sipadan](/fr/tourism/sipadan-and-semporna)) sont de courts sauts intérieurs depuis KK.
 - **Cuisine et couchers de soleil.** Les marchés nocturnes de la ville, les fruits de mer et les célèbres couchers de soleil hauts en couleur sur la mer de Chine méridionale sont une destination à part entière.
 
-Pensez à Sabah comme à trois ensembles lâches : la **côte ouest** (KK, parc du Kinabalu, îles au large), la **côte est** autour de Sandakan (faune, forêt tropicale, rivière) et le **sud-est** autour de Semporna (Sipadan et plongée de classe mondiale). Une semaine classique combine les trois ; un long week-end en choisit généralement un.
+Pensez à Sabah comme à trois ensembles lâches : la **côte ouest** (KK, [parc du Kinabalu](/fr/tourism/mount-kinabalu-and-kinabalu-park), îles au large), la **côte est** autour de Sandakan (faune, forêt tropicale, rivière) et le **sud-est** autour de Semporna (Sipadan et plongée de classe mondiale). Une semaine classique combine les trois ; un long week-end en choisit généralement un.
 
 ## Que devriez-vous savoir avant de gravir le mont Kinabalu ?
 

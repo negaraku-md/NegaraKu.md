@@ -36,7 +36,7 @@ faq:
     a: "Không. Section 2 loại trừ một cách rõ ràng động vật hoang dã thuộc Danh mục II của Phụ lục Thứ chín của Hiến pháp Liên bang và thuộc Đạo luật Nghề cá (Fisheries Act 1985), nên các loài biển và hầu hết các loài thủy sản được điều chỉnh ở nơi khác."
 
 lang: "vi"
-sourceContentHash: "b4c596ce48f3755c"
+sourceContentHash: "d1666cc3087284f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Quy luật rõ ràng: các tòa ngày càng coi tội phạm động vật hoang
 
 ## Chúng ta đến đây bằng cách nào — và PERHILITAN là ai?
 
-Dòng dõi của PERHILITAN đâm sâu. Việc quản lý động vật hoang dã ở Bán đảo có từ một luật động vật hoang dã đầu tiên năm 1896 và việc công báo Khu Bảo tồn Động vật hoang dã Chior năm 1902. Ủy ban Động vật hoang dã Malaya năm 1930 dưới T.R. Hubback dẫn đến một trụ sở Cục Săn bắn năm 1936, và đến việc thành lập King George V National Park năm 1938–39 — **Taman Negara** ngày nay. Sau độc lập, các cục săn bắn của bang được liên bang hóa quanh Đạo luật Bảo vệ Động vật hoang dã 1972, tạo ra cục quốc gia mà nay chúng ta gọi là PERHILITAN.
+Dòng dõi của PERHILITAN đâm sâu. Việc quản lý động vật hoang dã ở Bán đảo có từ một luật động vật hoang dã đầu tiên năm 1896 và việc công báo Khu Bảo tồn Động vật hoang dã Chior năm 1902. Ủy ban Động vật hoang dã Malaya năm 1930 dưới T.R. Hubback dẫn đến một trụ sở Cục Săn bắn năm 1936, và đến việc thành lập King George V National Park năm 1938–39 — **[Taman Negara](/vi/tourism/taman-negara-ecotourism-guide)** ngày nay. Sau độc lập, các cục săn bắn của bang được liên bang hóa quanh Đạo luật Bảo vệ Động vật hoang dã 1972, tạo ra cục quốc gia mà nay chúng ta gọi là PERHILITAN.
 
 Act 716, được thông qua năm 2010 (Phê chuẩn Hoàng gia ngày 21 tháng 10 năm 2010; công báo ngày 4 tháng 11 năm 2010), là cuộc cải tổ hiện đại: nó hợp nhất các phụ lục, làm sắc bén sự phân chia được-bảo-vệ/được-bảo-vệ-hoàn-toàn, và — điều then chốt — nâng các hình phạt cao hơn nhiều so với chế độ 1972, mang lại cho PERHILITAN và các tòa án sức răn đe thực sự.
 

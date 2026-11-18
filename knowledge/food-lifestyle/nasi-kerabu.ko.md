@@ -35,7 +35,7 @@ faq:
     a: "둘은 가까운 사촌입니다. 모두 밥을 잘게 썬 생허브와 채소 샐러드와 짝지웁니다. 나시 케라부의 결정적 특징은 색을 입힌 밥――가장 유명하게는 나비콩꽃으로 물들인 파란색――과 budu, solok lada 같은 동해안 양념입니다. Nasi ulam은 보통 그냥 밥이나 가볍게 향만 입힌 밥과 냅니다. 실제로 둘의 경계는 흐릿하며, 자료들도 두 요리를 구성상 비슷하다고 설명합니다."
 
 lang: "ko"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -171,8 +171,7 @@ Budu나 삼발, kerisik, 그리고 대개 접시를 마무리하는 라임 사�
 
 밥 둘레에는 조연 한 무리가 앉아, 소박한 한 접시를 잔치로 바꿔 놓을 수 있다.
 단백질은 보통 튀기거나 굽는다: 닭튀김이나 생선튀김, 혹은――가장 귀하게 치는――
-*ayam percik*, 달고 향신료를 넣은 코코넛 소스를 발라 구운 닭이다. Tourism
-Malaysia에 따르면 클란탄식 ayam percik은 다른 곳의 버전보다 더 달다.
+*ayam percik*, 달고 향신료를 넣은 코코넛 소스를 발라 구운 닭이다. [Tourism Malaysia](/ko/tourism/tourism-malaysia-and-tourism-agencies)에 따르면 클란탄식 ayam percik은 다른 곳의 버전보다 더 달다.
 
 고전적인 곁들이는 메인만큼이나 중요하다. *Solok lada*――코코넛 채(때로는 생선도)
 를 채운 풋고추――는 이 요리를 대표하는 곁들이 중 하나로 꼽힌다. *Telur masin*

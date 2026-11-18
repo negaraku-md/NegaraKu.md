@@ -34,7 +34,7 @@ faq:
     a: "《1980年国家公园法令》第10条禁止在国家公园内采矿与探矿，除非州政府在与部长协商后，认定当地存在极为丰富的矿藏。"
 
 lang: "zh"
-sourceContentHash: "1f3622365daf3410"
+sourceContentHash: "a490a97f35c2c8d7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,7 +86,7 @@ keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Ta
 framework: explainer
 ---
 
-随便问一个人「马来西亚的国家公园」在哪里，他们都会指向同一个地方。事实上，马来西亚并没有一座国家公园——它拥有三套完全独立的法律体系，而其中一套甚至不涵盖那个最以「Taman Negara（国家公园）」之名闻名的地方。理解这张法律地图，是规划行程、开展研究，或仅仅想了解马来西亚如何保护其拥有1亿3千万年历史的雨林的关键。
+随便问一个人「马来西亚的国家公园」在哪里，他们都会指向同一个地方。事实上，马来西亚并没有一座国家公园——它拥有三套完全独立的法律体系，而其中一套甚至不涵盖那个最以「[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)（国家公园）」之名闻名的地方。理解这张法律地图，是规划行程、开展研究，或仅仅想了解马来西亚如何保护其拥有1亿3千万年历史的雨林的关键。
 
 ## 为什么马来西亚没有单一的国家公园体系？
 

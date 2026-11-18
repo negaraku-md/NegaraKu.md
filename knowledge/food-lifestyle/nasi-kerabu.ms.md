@@ -35,7 +35,7 @@ faq:
     a: "Kedua-duanya sepupu rapat: kedua-duanya memadankan nasi dengan salad ulam dan sayur mentah yang dicincang halus. Ciri utama nasi kerabu ialah nasi berwarnanya — paling terkenal nasi biru yang diwarnakan dengan bunga telang — bersama pelengkap pantai timur seperti budu dan solok lada. Nasi ulam pula biasanya dihidang dengan nasi putih atau yang berperisa ringan sahaja. Pada praktiknya, garis pemisah antara keduanya kabur dan sumber memerihalkannya sebagai hidangan yang serupa dari segi komposisi."
 
 lang: "ms"
-sourceContentHash: "cb873c36f28e6a11"
+sourceContentHash: "b7f97bc20a26319b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ sangai dan berbau herba. Kontras berlapis itulah intinya.
 Di sekeliling nasi duduk barisan pembantu yang boleh mengubah pinggan sederhana
 menjadi jamuan. Proteinnya biasanya digoreng atau dibakar: ayam atau ikan
 goreng, atau — yang paling dihargai — *ayam percik*, ayam yang dibakar dan
-disapu dengan sos kelapa manis berempah. Menurut catatan Tourism Malaysia, ayam
+disapu dengan sos kelapa manis berempah. Menurut catatan [Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies), ayam
 percik gaya Kelantan lebih manis berbanding versi di tempat lain.
 
 Lauk sampingan klasik sama pentingnya dengan lauk utama. *Solok lada* — cili

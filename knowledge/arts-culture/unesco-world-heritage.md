@@ -106,8 +106,8 @@ A property needs at least one. Which ones it gets is not decoration; it is the l
 
 | Property | Year | Type | Criteria |
 | --- | --- | --- | --- |
-| Gunung Mulu National Park | 2000 | Natural | (vii)(viii)(ix)(x) |
-| Kinabalu Park | 2000 | Natural | (ix)(x) |
+| [Gunung Mulu National Park](/tourism/gunung-mulu-national-park) | 2000 | Natural | (vii)(viii)(ix)(x) |
+| [Kinabalu Park](/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Natural | (ix)(x) |
 | Melaka and George Town | 2008 | Cultural | (ii)(iii)(iv) |
 | Archaeological Heritage of the Lenggong Valley | 2012 | Cultural | (iii)(iv) |
 | Niah National Park's Caves Complex | 2024 | Cultural | (iii)(v) |
@@ -138,4 +138,4 @@ Kinabalu Park got only (ix) and (x). [Mount Kinabalu](/malaysia/mount-kinabalu) 
 
 ## What's next
 
-Three properties sit on Malaysia's Tentative List: Taman Negara, Gombak Selangor Quartz Ridge, and Sungai Buloh Leprosarium. A tentative listing is only an intent to nominate — but given two inscriptions in two years, the six is unlikely to stay six for long.
+Three properties sit on Malaysia's Tentative List: [Taman Negara](/tourism/taman-negara-ecotourism-guide), Gombak Selangor Quartz Ridge, and Sungai Buloh Leprosarium. A tentative listing is only an intent to nominate — but given two inscriptions in two years, the six is unlikely to stay six for long.

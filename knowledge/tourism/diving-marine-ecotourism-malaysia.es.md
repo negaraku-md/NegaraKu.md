@@ -31,7 +31,7 @@ faq:
     a: "Depende de la ubicación. Los parques marinos de la Malasia Peninsular y Labuan son federales, gestionados por el Departamento de Pesca de Malasia bajo la Ley de Pesca de 1985. Los parques de Sabah, incluida Sipadan, son gestionados por el organismo estatal Sabah Parks bajo una ley estatal aparte."
 
 lang: "es"
-sourceContentHash: "c84ad1c115fc50b3"
+sourceContentHash: "b4330d885555b613"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,7 +73,7 @@ keywords: ["permiso de buceo Sipadan", "tarifas de parques marinos Malasia", "Sa
 framework: rules
 ---
 
-El agua más clara de Malasia es también la más difícil de alcanzar: para dejarte caer por la pared de Sipadan necesitas un permiso del gobierno que ninguna cantidad de dinero te permitirá comprar directamente. Ese solo hecho resume cómo el país gestiona su turismo de buceo — el acceso se raciona, se cobra y se reparte entre dos autoridades muy distintas según el mar al que quieras descender.
+El agua más clara de Malasia es también la más difícil de alcanzar: para dejarte caer por la pared de [Sipadan](/es/tourism/sipadan-and-semporna) necesitas un permiso del gobierno que ninguna cantidad de dinero te permitirá comprar directamente. Ese solo hecho resume cómo el país gestiona su turismo de buceo — el acceso se raciona, se cobra y se reparte entre dos autoridades muy distintas según el mar al que quieras descender.
 
 ## ¿Quién decide dónde puedes bucear en Malasia?
 

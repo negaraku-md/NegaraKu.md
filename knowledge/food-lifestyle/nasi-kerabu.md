@@ -181,7 +181,7 @@ contrast is the point.
 Around the rice sits a supporting cast that can turn a modest plate into a feast.
 The protein is usually fried or grilled: fried chicken or fish, or — most prized —
 *ayam percik*, chicken grilled and basted in a sweet, spiced coconut sauce. By
-Tourism Malaysia's account, the Kelantan style of ayam percik runs sweeter than
+[Tourism Malaysia](/tourism/tourism-malaysia-and-tourism-agencies)'s account, the Kelantan style of ayam percik runs sweeter than
 versions elsewhere.
 
 The classic sides are just as important as the main. *Solok lada* — green chillies

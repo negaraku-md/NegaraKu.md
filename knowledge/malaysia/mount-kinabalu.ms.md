@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia digambarkan oleh badan penasihat UNESCO sebagai gunung tertinggi antara Himalaya dan New Guinea, dan menempatkan anggaran 5,000-6,000 spesies tumbuhan vaskular termasuk kira-kira 1,000 spesies orkid"
 appliesTo: "Pembaca yang mahukan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan mudah mengapa sebuah gunung granit di Sabah dari segi geologi begitu muda."
 lang: "ms"
-sourceContentHash: "9898433b2f4e9aa1"
+sourceContentHash: "5bc72b1b2e12a8e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,7 +78,7 @@ Pengangkatan yang terus menolak gunung ini lebih tinggi dikaitkan dengan kehilan
 
 ## Dilindungi atas tiga alasan berasingan
 
-Taman Kinabalu diwartakan pada 1964 sebagai salah satu taman negara pertama Sabah, dibina di atas asas ekspedisi saintifik Royal Society ke gunung ini pada awal dekad itu. Pada Disember 2000, UNESCO mendaftarkannya sebagai Tapak Warisan Dunia — yang pertama bagi Malaysia — di bawah kriteria semula jadi (ix) dan (x): pengiktirafan terhadap proses ekologi dan evolusi yang berterusan, serta kepelbagaian biologi dan habitatnya yang luar biasa untuk pemuliharaan spesies. Hartanah yang didaftarkan itu meliputi kira-kira 75,370 hektar (753.7 km²).
+[Taman Kinabalu](/tourism/mount-kinabalu-and-kinabalu-park) diwartakan pada 1964 sebagai salah satu taman negara pertama Sabah, dibina di atas asas ekspedisi saintifik Royal Society ke gunung ini pada awal dekad itu. Pada Disember 2000, UNESCO mendaftarkannya sebagai Tapak Warisan Dunia — yang pertama bagi Malaysia — di bawah kriteria semula jadi (ix) dan (x): pengiktirafan terhadap proses ekologi dan evolusi yang berterusan, serta kepelbagaian biologi dan habitatnya yang luar biasa untuk pemuliharaan spesies. Hartanah yang didaftarkan itu meliputi kira-kira 75,370 hektar (753.7 km²).
 
 Penyenaraian Warisan Dunia itu wujud bersama dua penetapan UNESCO lain — sebuah Geopark Global dan sebuah Rizab Biosfera — menjadikan Kinabalu salah satu daripada bilangan kecil tapak di seluruh dunia yang memegang ketiga-tiganya sekali gus.
 

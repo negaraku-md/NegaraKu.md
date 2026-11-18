@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Người đọc tìm một hồ sơ dựa trên sự kiện về Sabah — địa lý, kinh tế và chính quyền của nó — và một trình bày trung lập về vị thế hiến pháp của nó theo Thỏa thuận Malaysia 1963."
 
 lang: "vi"
-sourceContentHash: "d05db2b4db752c79"
+sourceContentHash: "a41acdd421e03bda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Biệt danh truyền thống của bang, "Vùng đất Dưới Gió", nói đế
 phía nam vành đai bão. Địa danh nổi bật của nó là Núi Kinabalu, một khối núi
 đá granit cao 4,095 mét là ngọn núi cao nhất giữa dãy Himalaya và New Guinea.
 
-Ngọn núi nằm bên trong Vườn Kinabalu, một khu vực được bảo vệ rộng 75,370 hecta do
+Ngọn núi nằm bên trong [Vườn Kinabalu](/vi/tourism/mount-kinabalu-and-kinabalu-park), một khu vực được bảo vệ rộng 75,370 hecta do
 Sabah Parks quản lý. Vào năm 2000 nó trở thành Di sản Thế giới UNESCO đầu tiên của Malaysia,
 được ghi danh vì một sự tập trung ngoại hạng của đời sống thực vật — các sinh cảnh của vườn trải
 từ rừng mưa vùng thấp ở khoảng 150 m đến bụi cây cận núi cao ở vùng đỉnh, và

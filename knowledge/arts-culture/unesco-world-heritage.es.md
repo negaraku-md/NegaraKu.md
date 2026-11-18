@@ -30,7 +30,7 @@ faq:
     a: "Sí. El Centro del Patrimonio Mundial registra tres bienes en la Lista Indicativa de Malasia: el Parque Nacional (Taman Negara) de Malasia peninsular, la Cresta de Cuarzo de Gombak en Selangor y el Leprosario de Sungai Buloh. Una inscripción indicativa es una declaración de intención de presentar una candidatura, no una inscripción."
 
 lang: "es"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ Un bien necesita al menos uno. Cuáles obtiene no es un adorno; es la descripci�
 
 | Bien | Año | Tipo | Criterios |
 | --- | --- | --- | --- |
-| Parque Nacional de Gunung Mulu | 2000 | Natural | (vii)(viii)(ix)(x) |
-| Parque de Kinabalu | 2000 | Natural | (ix)(x) |
+| [Parque Nacional de Gunung Mulu](/es/tourism/gunung-mulu-national-park) | 2000 | Natural | (vii)(viii)(ix)(x) |
+| [Parque de Kinabalu](/es/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Natural | (ix)(x) |
 | Malaca y George Town | 2008 | Cultural | (ii)(iii)(iv) |
 | Patrimonio Arqueológico del Valle de Lenggong | 2012 | Cultural | (iii)(iv) |
 | Complejo de Cuevas del Parque Nacional de Niah | 2024 | Cultural | (iii)(v) |
@@ -139,4 +139,4 @@ El Parque de Kinabalu obtuvo solo el (ix) y el (x). El [monte Kinabalu](/malaysi
 
 ## Qué sigue
 
-Tres bienes figuran en la Lista Indicativa de Malasia: Taman Negara, la Cresta de Cuarzo de Gombak en Selangor y el Leprosario de Sungai Buloh. Una inscripción indicativa es solo una intención de presentar una candidatura, pero, dadas dos inscripciones en dos años, es poco probable que el seis siga siendo seis por mucho tiempo.
+Tres bienes figuran en la Lista Indicativa de Malasia: [Taman Negara](/es/tourism/taman-negara-ecotourism-guide), la Cresta de Cuarzo de Gombak en Selangor y el Leprosario de Sungai Buloh. Una inscripción indicativa es solo una intención de presentar una candidatura, pero, dadas dos inscripciones en dos años, es poco probable que el seis siga siendo seis por mucho tiempo.

@@ -129,7 +129,7 @@ Civil society has long carried part of the load. MYCAT — an alliance of Malays
 
 ## What is the Royal Tiger Reserve?
 
-The most ambitious new effort is the **Al-Sultan Abdullah Royal Tiger Reserve** in Pahang — a 1,340-square-kilometre sanctuary adjacent to Taman Negara, and the first reserve of its kind in the country. It pairs royal patronage with substantial funding.
+The most ambitious new effort is the **Al-Sultan Abdullah Royal Tiger Reserve** in Pahang — a 1,340-square-kilometre sanctuary adjacent to [Taman Negara](/tourism/taman-negara-ecotourism-guide), and the first reserve of its kind in the country. It pairs royal patronage with substantial funding.
 
 In January 2025, during Abu Dhabi Sustainability Week, Pahang signed an agreement for an **RM99.8 million grant** from the United Arab Emirates' Mohamed bin Zayed Species Conservation Fund. The funding is directed at anti-poaching, habitat restoration and support for local communities living alongside the reserve.
 

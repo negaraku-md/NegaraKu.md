@@ -30,7 +30,7 @@ faq:
     a: "Ya. Pusat Warisan Dunia mencatat tiga properti dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Pencantuman tentatif adalah pernyataan niat untuk mencalonkan, bukan pencantuman resmi."
 
 lang: "id"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ Sebuah properti memerlukan sekurang-kurangnya satu. Kriteria mana yang diperoleh
 
 | Properti | Tahun | Jenis | Kriteria |
 | --- | --- | --- | --- |
-| Taman Negara Gunung Mulu | 2000 | Alami | (vii)(viii)(ix)(x) |
-| Taman Kinabalu | 2000 | Alami | (ix)(x) |
+| [Taman Negara Gunung Mulu](/id/tourism/gunung-mulu-national-park) | 2000 | Alami | (vii)(viii)(ix)(x) |
+| [Taman Kinabalu](/id/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Alami | (ix)(x) |
 | Melaka dan George Town | 2008 | Budaya | (ii)(iii)(iv) |
 | Warisan Arkeologi Lembah Lenggong | 2012 | Budaya | (iii)(iv) |
 | Kompleks Gua Taman Negara Niah | 2024 | Budaya | (iii)(v) |
@@ -139,4 +139,4 @@ Taman Kinabalu hanya memperoleh (ix) dan (x). [Gunung Kinabalu](/id/malaysia/mou
 
 ## Apa yang selanjutnya
 
-Tiga properti berada dalam Senarai Tentatif Malaysia: Taman Negara, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Pencantuman tentatif hanyalah niat untuk mencalonkan — tetapi mengingat dua pencantuman dalam kurun dua tahun, angka enam itu kemungkinan besar tidak akan tetap enam untuk waktu yang lama.
+Tiga properti berada dalam Senarai Tentatif Malaysia: [Taman Negara](/id/tourism/taman-negara-ecotourism-guide), Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Pencantuman tentatif hanyalah niat untuk mencalonkan — tetapi mengingat dua pencantuman dalam kurun dua tahun, angka enam itu kemungkinan besar tidak akan tetap enam untuk waktu yang lama.

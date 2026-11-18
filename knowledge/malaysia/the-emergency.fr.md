@@ -31,7 +31,7 @@ faq:
     a: "Les sources rapportent que les deux processus se déroulèrent en parallèle, plutôt que l'un causant l'autre. L'indépendance fut négociée et acquise le 31 août 1957 alors que l'Insurrection était encore en cours, et l'Insurrection se poursuivit pendant près de trois ans encore sous un gouvernement malayen indépendant."
 
 lang: "fr"
-sourceContentHash: "05c196a1a00207fa"
+sourceContentHash: "f2bba3bb7e88cf48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -112,7 +112,7 @@ L'effort de sécurité fut, en termes numériques, bien davantage une opération
 
 L'armée régulière crût plus lentement. L'histoire de l'Armée de Malaisie elle-même indique que le Régiment malais comptait trois bataillons lorsque l'Insurrection fut déclarée, sept en 1956 et onze en 1961. Des unités du Commonwealth servirent aux côtés des forces malayennes, et une Garde nationale recrutée localement parmi les communautés malaise, chinoise et indienne protégeait villages, plantations et zones de réinstallation.
 
-Sir Henry Gurney, qui avait succédé à Gent comme haut-commissaire, fut tué dans une embuscade en octobre 1951 alors qu'il se rendait à Fraser's Hill. Arkib Negara indique que l'assassinat provoqua une brusque intensification de la réponse du gouvernement.
+Sir Henry Gurney, qui avait succédé à Gent comme haut-commissaire, fut tué dans une embuscade en octobre 1951 alors qu'il se rendait à [Fraser's Hill](/fr/tourism/frasers-hill). Arkib Negara indique que l'assassinat provoqua une brusque intensification de la réponse du gouvernement.
 
 ## Le Plan Briggs et les villages nouveaux
 

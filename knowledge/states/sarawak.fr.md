@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "dc6f821d38c2946d"
+sourceContentHash: "1f58c985aa078563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,7 +147,7 @@ faible densité de population en dehors de Kuching et d'une poignée d'autres vi
 Le front de mer de Kuching le long du fleuve Sarawak ancre la capitale de l'État,
 mêlant des bâtiments de l'époque coloniale à une architecture civique moderne, dont
 l'Assemblée législative de l'État de Sarawak. Le Parc national de Bako et le Parc
-national de Gunung Mulu, ce dernier un site du patrimoine mondial de l'UNESCO connu
+national de [Gunung Mulu](/fr/tourism/gunung-mulu-national-park), ce dernier un site du patrimoine mondial de l'UNESCO connu
 pour ses vastes réseaux de grottes, illustrent l'écologie de la forêt tropicale de
 Sarawak. Le Centre de la faune de Semenggoh, près de Kuching, est connu pour sa
 population d'orangs-outans semi-sauvages. Bintulu est le centre de l'industrie du

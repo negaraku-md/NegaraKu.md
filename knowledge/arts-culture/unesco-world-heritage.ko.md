@@ -30,7 +30,7 @@ faq:
     a: "네. 세계유산센터는 말레이시아 잠정 목록에 세 자산을 기록합니다. 반도 말레이시아의 국립공원(타만 느가라Taman Negara), 곰박 슬랑오르 석영 능선(Gombak Selangor Quartz Ridge), 그리고 숭아이 불로 나병요양원(Sungai Buloh Leprosarium)입니다. 잠정 등재는 지명하겠다는 의사 표명이지 등재가 아닙니다."
 
 lang: "ko"
-sourceContentHash: "2314ed1b6daf68a8"
+sourceContentHash: "8737d6f4b745fcb3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -107,8 +107,8 @@ framework: data-reference
 
 | 자산 | 연도 | 유형 | 기준 |
 | --- | --- | --- | --- |
-| 구눙 물루 국립공원 | 2000 | 자연 | (vii)(viii)(ix)(x) |
-| 키나발루 공원 | 2000 | 자연 | (ix)(x) |
+| [구눙 물루 국립공원](/ko/tourism/gunung-mulu-national-park) | 2000 | 자연 | (vii)(viii)(ix)(x) |
+| [키나발루 공원](/ko/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | 자연 | (ix)(x) |
 | 믈라카와 조지타운 | 2008 | 문화 | (ii)(iii)(iv) |
 | 렝공 계곡의 고고 유산 | 2012 | 문화 | (iii)(iv) |
 | 니아 국립공원 동굴 복합지 | 2024 | 문화 | (iii)(v) |
@@ -139,4 +139,4 @@ framework: data-reference
 
 ## 다음으로 볼 것
 
-세 개의 자산이 말레이시아의 잠정 목록에 올라 있습니다. 타만 느가라(Taman Negara), 곰박 슬랑오르 석영 능선(Gombak Selangor Quartz Ridge), 그리고 순가이 불로 나병원(Sungai Buloh Leprosarium)입니다. 잠정 등재는 지명하겠다는 의향일 뿐이지만, 2년 만에 두 건이 등재된 것을 보면 여섯이 오래 여섯으로 남을 것 같지는 않습니다.
+세 개의 자산이 말레이시아의 잠정 목록에 올라 있습니다. [타만 느가라](/ko/tourism/taman-negara-ecotourism-guide)(Taman Negara), 곰박 슬랑오르 석영 능선(Gombak Selangor Quartz Ridge), 그리고 순가이 불로 나병원(Sungai Buloh Leprosarium)입니다. 잠정 등재는 지명하겠다는 의향일 뿐이지만, 2년 만에 두 건이 등재된 것을 보면 여섯이 오래 여섯으로 남을 것 같지는 않습니다.

@@ -90,8 +90,8 @@ The Historic Cities of the Straits of Malacca (Melaka and George Town) were insc
 
 | Site | Year inscribed | State | Type |
 | --- | --- | --- | --- |
-| Kinabalu Park | 2000 | Sabah | Natural |
-| Gunung Mulu National Park | 2000 | Sarawak | Natural |
+| [Kinabalu Park](/tourism/mount-kinabalu-and-kinabalu-park) | 2000 | Sabah | Natural |
+| [Gunung Mulu National Park](/tourism/gunung-mulu-national-park) | 2000 | Sarawak | Natural |
 | Historic Cities of the Straits of Malacca (Melaka & George Town) | 2008 | Melaka & Penang | Cultural |
 | Archaeological Heritage of the Lenggong Valley | 2012 | Perak | Cultural (archaeological) |
 | Archaeological Heritage of the Niah National Park Cave Complex | 2024 | Sarawak | Cultural (archaeological) |
