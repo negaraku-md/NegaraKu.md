@@ -28,7 +28,11 @@ lang: "hi"
 sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
   - "Mechanics and thresholds of the KEJARA demerit-points system (points per offence, suspension thresholds) — needs primary source."
   - "Whether the AES (Automated Enforcement System) is currently operated by JPJ or another body."
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "मुख्यालय — JPJ का आधिकारिक पोर्टल (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

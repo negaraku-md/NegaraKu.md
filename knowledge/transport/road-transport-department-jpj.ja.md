@@ -28,7 +28,11 @@ lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "329a713e6b0a3f4c"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -47,7 +51,7 @@ verificationNeeded:
   - "マレーシアの運転免許等級の完全な一覧とコード（L、LDL、PDL、CDL、D、B、B2、DAなど）——一次資料の免許ページが必要。"
   - "KEJARA違反点数制度の仕組みと基準（違反ごとの点数、停止基準）——一次資料が必要。"
   - "AES（Automated Enforcement System）が現在JPJによって運用されているか、別の機関によるものか。"
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "本部 — JPJ 公式ポータル (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

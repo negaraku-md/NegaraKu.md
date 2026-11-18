@@ -28,7 +28,11 @@ lang: "ko"
 sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "말레이시아 운전면허 등급의 전체 목록과 코드(L, LDL, PDL, CDL, D, B, B2, DA 등) — 1차 출처 면허 페이지가 필요함."
   - "KEJARA 벌점 제도의 작동 방식과 기준(위반당 점수, 정지 기준) — 1차 출처가 필요함."
   - "AES(자동 집행 시스템, Automated Enforcement System)를 현재 JPJ가 운영하는지 다른 기관이 운영하는지 여부."
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "본부 — JPJ 공식 포털 (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

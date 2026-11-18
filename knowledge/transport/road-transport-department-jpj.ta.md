@@ -28,7 +28,11 @@ lang: "ta"
 sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "மலேசிய ஓட்டுநர் உரிம வகுப்புகள் மற்றும் குறியீடுகளின் முழு பட்டியல் (L, LDL, PDL, CDL, D, B, B2, DA போன்றவை) — முதன்மை-மூல உரிமப் பக்கம் தேவை."
   - "KEJARA பற்றாக்குறை-புள்ளிகள் (demerit-points) அமைப்பின் இயக்கமுறை மற்றும் வரம்புகள் (ஒவ்வொரு மீறலுக்கும் புள்ளிகள், இடைநீக்க வரம்புகள்) — முதன்மை மூலம் தேவை."
   - "AES (Automated Enforcement System) தற்போது JPJ ஆல் இயக்கப்படுகிறதா அல்லது வேறு அமைப்பால் இயக்கப்படுகிறதா."
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "தலைமையகம் — JPJ அதிகாரப்பூர்வ போர்டல் (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

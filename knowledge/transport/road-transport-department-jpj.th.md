@@ -28,7 +28,11 @@ lang: "th"
 sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "รายการเต็มและรหัสของชั้นใบอนุญาตขับขี่มาเลเซีย (L, LDL, PDL, CDL, D, B, B2, DA เป็นต้น) — ต้องมีหน้าเว็บออกใบอนุญาตที่เป็นแหล่งข้อมูลปฐมภูมิ"
   - "กลไกและเกณฑ์ของระบบตัดคะแนน KEJARA (คะแนนต่อการกระทำผิด เกณฑ์การพักใช้) — ต้องมีแหล่งข้อมูลปฐมภูมิ"
   - "ระบบ AES (Automated Enforcement System) ปัจจุบันดำเนินการโดย JPJ หรือหน่วยงานอื่น"
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "สำนักงานใหญ่ — พอร์ทัลทางการ JPJ (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

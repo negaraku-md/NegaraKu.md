@@ -28,7 +28,11 @@ lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "329a713e6b0a3f4c"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "马来西亚驾驶执照类别的完整清单与代码（L、LDL、PDL、CDL、D、B、B2、DA 等）——需要一个主要来源的执照页面。"
   - "KEJARA 记分制度的运作机制与门槛（每项违规的记分、吊销门槛）——需第一手来源。"
   - "AES（Automated Enforcement System）目前是由JPJ还是另一机构运营。"
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "总部 — JPJ 官方门户 (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

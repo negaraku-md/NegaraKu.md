@@ -28,7 +28,11 @@ lang: "ar"
 sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "القائمة الكاملة ورموز فئات رخص القيادة الماليزية (L، LDL، PDL، CDL، D، B، B2، DA، إلخ) — تحتاج إلى صفحة ترخيص من مصدر أولي."
   - "آليات وعتبات نظام نقاط المخالفات KEJARA (النقاط لكل مخالفة، عتبات الإيقاف) — تحتاج إلى مصدر أولي."
   - "ما إذا كانت AES (نظام الإنفاذ الآلي) تُدار حاليًا من قِبل JPJ أو جهة أخرى."
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "المقر الرئيسي — البوابة الرسمية لـ JPJ (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

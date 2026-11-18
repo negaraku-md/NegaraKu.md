@@ -28,7 +28,11 @@ lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "329a713e6b0a3f4c"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "Full list and codes of Malaysian driving licence classes (L, LDL, PDL, CDL, D, B, B2, DA, etc.) — needs a primary-source licensing page."
   - "Mekanik dan ambang sistem mata demerit KEJARA (mata setiap kesalahan, ambang penggantungan) — memerlukan sumber utama."
   - "Sama ada AES (Automated Enforcement System) kini dikendalikan oleh JPJ atau badan lain."
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "Ibu Pejabat — Portal Rasmi JPJ (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"

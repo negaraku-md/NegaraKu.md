@@ -28,7 +28,11 @@ lang: "vi"
 sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the reviewed canonical government/agencies article (same slug); unreviewed transport/driving copy retired, 301 to canonical."
+requestedBy: "ashton-tan"
+supersededBy: "/government/road-transport-department-jpj"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
@@ -48,7 +52,7 @@ verificationNeeded:
   - "Danh sách đầy đủ và các mã của các hạng giấy phép lái xe Malaysia (L, LDL, PDL, CDL, D, B, B2, DA, v.v.) — cần một trang cấp phép nguồn sơ cấp."
   - "Cơ chế và ngưỡng của hệ thống điểm trừ KEJARA (điểm mỗi vi phạm, ngưỡng đình chỉ) — cần nguồn sơ cấp."
   - "Liệu AES (Hệ thống Thực thi Tự động) hiện do JPJ hay một cơ quan khác vận hành."
-updated: 2026-08-14
+updated: 2026-11-18
 sources:
   - title: "Trụ sở chính — Cổng thông tin Chính thức JPJ (Headquarter — Portal Rasmi JPJ)"
     url: "https://www.jpj.gov.my/en/headquarter/"
