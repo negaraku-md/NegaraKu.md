@@ -34,7 +34,7 @@ faq:
     a: "La reprogramación cambia el calendario de reembolso — por ejemplo, ampliando el plazo para reducir la cuota mensual (lo que eleva el total de intereses pagados). La reestructuración es un cambio mayor en los términos del préstamo, como convertir un descubierto en un préstamo a plazo de cuota fija. Ambas se gestionan directamente con su banco, que emite una nueva carta de oferta."
 
 lang: "es"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Las empresas tienen sus propios canales:
 
 ## Cuando la reestructuración no basta
 
-Si las vías voluntarias no pueden resolver la deuda, quedan opciones formales supervisadas por los tribunales: para particulares, un **Acuerdo Voluntario** bajo la Ley de Insolvencia de 1967 como alternativa a la quiebra; para empresas, un **Esquema de Acuerdo (Scheme of Arrangement)** o una **Administración Judicial (Judicial Management)** bajo la Ley de Sociedades de 2016 (Companies Act 2016). Son últimos recursos, pero existen.
+Si las vías voluntarias no pueden resolver la deuda, quedan opciones formales supervisadas por los tribunales: para particulares, un **Acuerdo Voluntario** bajo la [Ley de Insolvencia de 1967](/es/law/insolvency-and-bankruptcy-law/) como alternativa a la quiebra; para empresas, un **Esquema de Acuerdo (Scheme of Arrangement)** o una **Administración Judicial (Judicial Management)** bajo la Ley de Sociedades de 2016 (Companies Act 2016). Son últimos recursos, pero existen.
 
 ## Qué sigue
 

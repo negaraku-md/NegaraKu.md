@@ -34,7 +34,7 @@ faq:
     a: "리스케줄링은 상환 일정을 바꿉니다 — 예컨대 만기를 늘려 월 할부금을 낮춥니다(이는 총 지급 이자를 늘립니다). 구조조정은 대출 조건에 대한 더 큰 변경으로, 예컨대 당좌대월을 고정 할부 기한부 대출로 전환하는 것입니다. 둘 다 은행과 직접 주선하며, 은행이 새 조건제시서를 발행합니다."
 
 lang: "ko"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ AKPK는 세 가지를 제공합니다: 금융 **교육**(POWER! 프로그램), �
 
 ## 구조조정으로 충분하지 않을 때
 
-자발적 경로로 부채를 해결할 수 없다면, 공식적이고 법원 감독하의 선택지가 남아 있습니다: 개인의 경우 파산의 대안으로서 1967년 파산법(Insolvency Act 1967)에 따른 **자발적 합의(Voluntary Arrangement)**; 기업의 경우 2016년 회사법(Companies Act 2016)에 따른 **화의(Scheme of Arrangement)**나 **법정관리(Judicial Management)**. 이들은 최후의 수단이지만, 존재합니다.
+자발적 경로로 부채를 해결할 수 없다면, 공식적이고 법원 감독하의 선택지가 남아 있습니다: 개인의 경우 파산의 대안으로서 [1967년 파산법](/ko/law/insolvency-and-bankruptcy-law/)(Insolvency Act 1967)에 따른 **자발적 합의(Voluntary Arrangement)**; 기업의 경우 2016년 회사법(Companies Act 2016)에 따른 **화의(Scheme of Arrangement)**나 **법정관리(Judicial Management)**. 이들은 최후의 수단이지만, 존재합니다.
 
 ## 다음 단계
 

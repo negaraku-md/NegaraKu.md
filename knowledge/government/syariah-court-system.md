@@ -138,7 +138,7 @@ Bidang kuasa mahkamah syariah dibahagikan kepada mal (sivil) dan jenayah.
 - pembahagian atau tuntutan harta sepencarian;
 - wasiat atau pemberian semasa marad-al-maut (sakit tenat) seorang Islam yang meninggal;
 - hibah, wakaf atau nazr; dan
-- pembahagian dan pewarisan harta berwasiat atau tak berwasiat (faraid).
+- pembahagian dan pewarisan harta berwasiat atau tak berwasiat ([faraid](/law/faraid-and-islamic-inheritance)).
 
 Had nilai wang bagi bidang kuasa mal Mahkamah Rendah Syariah ditetapkan oleh enakmen atau akta masing-masing. Di Wilayah Persekutuan, seksyen 47 Akta 505 menetapkan hadnya pada amaun atau nilai perkara yang dipertikaikan tidak melebihi lima puluh ribu ringgit, atau yang tidak dapat dianggarkan dengan wang. Had ini boleh berbeza antara negeri.
 

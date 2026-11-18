@@ -23,7 +23,7 @@ verificationNeeded:
   - "Cet article ne cite pas le montant exact des frais du cours de catégorie D d'une auto-école privée, ni le barème exact des frais du JPJ pour le parcours LDL/PDL/CDL, car aucune grille tarifaire officielle unique du JPJ n'a été trouvée lors de la vérification — confirmez les frais actuels directement à un guichet du JPJ ou auprès d'une auto-école agréée avant de budgétiser."
   - "La formulation précise de l'article 28 de la loi de 1987 sur les transports routiers (Road Transport Act 1987) a été confirmée au moyen de synthèses secondaires de la loi plutôt que par une lecture directe, ligne par ligne, du PDF hébergé par le JPJ (évitée ici pour maîtriser l'usage du contexte) — le numéro de l'article et son effet de fond sont corroborés par plusieurs sources indépendantes, mais confirmez la formulation exacte sur le PDF de la loi 333 hébergé par le JPJ si vous rédigez un document qui s'appuie juridiquement sur elle."
 lang: "fr"
-sourceContentHash: "04842acf21e405cb"
+sourceContentHash: "137fb2a54b30ed94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,7 +82,7 @@ ont été écrits avant ce changement.
 ## Ce qui vous autorise réellement à conduire ici
 
 La Malaisie n'exige pas que chaque visiteur passe un examen local.
-L'article 28 de la **loi de 1987 sur les transports routiers** (Act 333)
+L'article 28 de la **[loi de 1987 sur les transports routiers](/fr/law/road-transport-act-1987)** (Act 333)
 reconnaît un permis de conduire délivré par un pays partie à un traité avec
 la Malaisie sur la reconnaissance mutuelle des permis nationaux — en
 pratique, cela couvre la Convention de Genève sur la circulation routière

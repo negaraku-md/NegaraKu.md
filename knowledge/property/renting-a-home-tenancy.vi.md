@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai thuê hoặc cho thuê một bất động sản nhà ở tại Malaysia — người thuê ký hợp đồng thuê đầu tiên của mình, và chủ nhà soạn thảo một hợp đồng, tại Bán đảo Malaysia, Sabah hoặc Sarawak."
 
 lang: "vi"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Một Dự luật Thuê nhà ở đã được bàn thảo ở Malaysia trong nh
 
 - **Luật Cứu trợ Cụ thể 1950 (Specific Relief Act 1950)** chi phối điều xảy ra khi một người thuê không chịu rời đi sau khi kỳ thuê kết thúc.
 - **Luật Cưỡng chế 1951 (Distress Act 1951)** trao cho chủ nhà một con đường qua tòa án để thu hồi tiền thuê chưa trả.
-- **Luật Dân sự 1956 (Civil Law Act 1956)** và thủ tục dân sự thông thường xử lý các tranh chấp về tiền và thiệt hại một cách tổng quát hơn.
+- **[Luật Dân sự 1956 (Civil Law Act 1956)](/vi/law/common-law-in-malaysia)** và thủ tục dân sự thông thường xử lý các tranh chấp về tiền và thiệt hại một cách tổng quát hơn.
 
 Không luật nào trong số này được soạn xoay quanh việc thuê nhà hiện đại. Chúng được xây dựng cho các tranh chấp về tài sản và hợp đồng nói chung, và tòa án áp dụng chúng cho việc thuê nhà bằng cách mở rộng. Hệ quả thực tiễn: những quyền mặc định tồn tại ở một quốc gia có luật thuê nhà — một thời hạn báo trước tối thiểu, một mức giới hạn tiền đặt cọc, một tòa tài phán giải quyết tranh chấp theo luật định — phần lớn không tồn tại ở đây trừ khi chính hợp đồng tạo ra chúng.
 

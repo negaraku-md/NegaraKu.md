@@ -37,7 +37,7 @@ verificationNeeded:
   - "Sahkan terma semasa pengiktirafan bersama MICPA-CAANZ dan sama ada sebarang perubahan laluan telah berkuat kuasa sejak pembaharuan 2016"
 
 lang: "ms"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ balik di beberapa ekonomi utama.
 
 MICPA ialah **badan kelima yang disenaraikan dalam Jadual Keempat** kepada Akta
 Syarikat 2016, maka ahlinya layak bertindak sebagai setiausaha syarikat di bawah
-s.235(2)(a) — pada kedudukan yang sama dengan MAICSA, MIA, Badan Peguam Malaysia
+s.235(2)(a) — pada kedudukan yang sama dengan MAICSA, MIA, [Badan Peguam Malaysia](/law/bar-council-malaysia)
 dan badan-badan lain yang diluluskan. Seperti setiap badan Jadual Keempat, itu
 adalah satu kelayakan: seseorang tetap perlu memperoleh sijil amalan s.241
 daripada SSM sebelum bertindak.

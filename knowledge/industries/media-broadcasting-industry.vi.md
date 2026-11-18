@@ -31,7 +31,7 @@ faq:
   - q: Ngành nội dung sáng tạo và hoạt hình của Malaysia là gì?
     a: Đó là lĩnh vực sản xuất phim, chương trình truyền hình, hoạt hình, âm nhạc và trò chơi — ngày càng hướng xuất khẩu cũng như thị trường nội địa. Hoạt hình Malaysia nói riêng đã có thành công quốc tế, ví dụ nổi tiếng nhất là loạt phim thiếu nhi Upin & Ipin, do Les' Copaque sản xuất. Chính phủ hỗ trợ lĩnh vực này qua các quỹ và cơ quan như MyCreative Ventures và FINAS.
 lang: vi
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Thay vì kháng cự, các tay chơi hiện hữu đã cố gắng thích nghi. 
 
 ## Điều tiết: CMA 1998, MCMC và FINAS
 
-Truyền thông và phát sóng ở Malaysia nằm dưới một khung điều tiết hội tụ được xây quanh **Đạo luật Truyền thông và Đa phương tiện 1998 (CMA)**. Đạo luật đưa viễn thông, phát sóng và nội dung trực tuyến vào chung một mái, do **[Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)](/vi/government/mcmc-communications-multimedia-commission/)** quản lý.
+Truyền thông và phát sóng ở Malaysia nằm dưới một khung điều tiết hội tụ được xây quanh **[Đạo luật Truyền thông và Đa phương tiện 1998](/vi/law/communications-and-multimedia-act-1998/) (CMA)**. Đạo luật đưa viễn thông, phát sóng và nội dung trực tuyến vào chung một mái, do **[Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)](/vi/government/mcmc-communications-multimedia-commission/)** quản lý.
 
 Trên thực tế điều này có nghĩa là:
 

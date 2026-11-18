@@ -31,7 +31,7 @@ faq:
   - q: "소규모 회사도 감사인이 필요합니까?"
     a: "항상 그런 것은 아닙니다. SSM은 특정 휴면 회사, 무매출 회사, 기준 충족 비상장 회사에 대해 감사인 선임 의무를 면제합니다. 회사가 요건을 충족한다면 감사 서비스가 전혀 필요하지 않을 수 있습니다 — 비서, 장부 기장, 세무 신고만 있으면 됩니다. 감사 법인을 선임하기 전에 현행 감사 면제 기준을 확인하십시오."
 lang: "ko"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ framework: decision
 
 | 서비스 | 다루는 내용 | 법적으로 제공할 수 있는 자 |
 |---|---|---|
-| **회사 비서** | 법정 제출, 등록부, 이사회 및 SSM 규정 준수 | **회사법(Companies Act 2016) s.241**에 따른 업무수행증서를 보유하고 SSM에 등록된 사람 — 규정된 단체(MAICSA, MACS, MIA, 말레이시아 변호사회)의 회원이거나 SSM법(SSM Act 2001) s.20G에 따라 면허를 받은 자 |
+| **회사 비서** | 법정 제출, 등록부, 이사회 및 SSM 규정 준수 | **회사법(Companies Act 2016) s.241**에 따른 업무수행증서를 보유하고 SSM에 등록된 사람 — 규정된 단체(MAICSA, MACS, MIA, [말레이시아 변호사회](/ko/law/bar-council-malaysia))의 회원이거나 SSM법(SSM Act 2001) s.20G에 따라 면허를 받은 자 |
 | **회계 / 장부 기장** | 일상 장부, 관리 및 법정 회계 | 공공 실무를 위해 회계사법(Accountants Act 1967)에 따라 업무수행증서를 보유한 **말레이시아 회계사협회(MIA)** 회원 |
 | **감사** | 재무제표에 대한 독립적 감사 | 재무부 장관이 승인한, **회사법(Companies Act 2016) s.263**에 따른 **승인 회사 감사인**; 상장 및 공익 법인의 경우 감사감독위원회(Audit Oversight Board)의 감독도 받음 |
 | **세무 대리인** | 세액 계산, 신고, LHDN에 대한 대리 | **소득세법(Income Tax Act 1967) s.153에 따라 승인되어** LHDN 명단에 오른 세무 대리인 |

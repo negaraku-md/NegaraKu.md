@@ -34,7 +34,7 @@ faq:
     a: "Perlindungan Act (pihak ketiga) adalah minimum menurut hukum dan hanya membayar cedera atau kematian pihak ketiga. Pihak ketiga, kebakaran, dan pencurian menambah perlindungan jika mobil Anda sendiri terbakar atau dicuri. Komprehensif adalah yang paling luas, turut membayar kerusakan kecelakaan pada kendaraan Anda sendiri."
 
 lang: "id"
-sourceContentHash: "f3e95ab7db734acf"
+sourceContentHash: "2613d119cd9dfc2d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ Masalah motor bersifat struktural. Pada 2025 keparahan klaim mobil pribadi menin
 
 ## Mengapa hanya asuransi motor yang diwajibkan?
 
-Bagi konsumen biasa, asuransi di Malaysia sebagian besar bersifat sukarela — dengan satu pengecualian keras. Di bawah **Road Transport Act 1987 (Act 333)**, siapa pun yang menggunakan kendaraan bermotor di jalan raya umum harus diasuransikan terhadap risiko pihak ketiga. Inilah perlindungan yang membayar orang asing yang mungkin Anda cederai atau bunuh dalam sebuah kecelakaan, dan tidak ada pajak jalan yang dapat diperbarui tanpanya.
+Bagi konsumen biasa, asuransi di Malaysia sebagian besar bersifat sukarela — dengan satu pengecualian keras. Di bawah **[Road Transport Act 1987](/id/law/road-transport-act-1987) (Act 333)**, siapa pun yang menggunakan kendaraan bermotor di jalan raya umum harus diasuransikan terhadap risiko pihak ketiga. Inilah perlindungan yang membayar orang asing yang mungkin Anda cederai atau bunuh dalam sebuah kecelakaan, dan tidak ada pajak jalan yang dapat diperbarui tanpanya.
 
 Lantai hukum itu datang dalam tiga tingkat perlindungan motor, masing-masing lebih luas dari yang sebelumnya:
 

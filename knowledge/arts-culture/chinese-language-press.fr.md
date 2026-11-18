@@ -33,7 +33,7 @@ faq:
     a: "Conformément à la tendance mondiale du secteur de la presse, la diffusion papier de la presse chinoise de Malaisie a globalement reculé au cours des deux dernières décennies, les lecteurs — en particulier les jeunes générations — s'informant de plus en plus par le téléphone mobile et internet. Les journaux ont donc développé des plateformes numériques telles que des sites d'actualité, des éditions électroniques et des applications mobiles, une partie des contenus étant aussi diffusée sur les réseaux sociaux. La question de savoir si le papier disparaîtra totalement, et quand, reste incertaine, et cet article ne fait aucune prédiction."
 
 lang: "fr"
-sourceContentHash: "77631a962c5674a5"
+sourceContentHash: "ba3edfb9eefffbdb"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -126,7 +126,7 @@ En outre, les grands journaux chinois organisent de longue date des spectacles d
 
 ## Le contexte de la régulation de la presse
 
-Comme tous les journaux de Malaisie, la publication de la presse chinoise est régie par la loi. En vertu de la **loi de 1984 sur les presses d'imprimerie et les publications (Printing Presses and Publications Act 1984)**, l'usage d'une presse d'imprimerie ainsi que l'impression et la publication de journaux nécessitent tous un permis du ministère de l'Intérieur.
+Comme tous les journaux de Malaisie, la publication de la presse chinoise est régie par la loi. En vertu de la **[loi de 1984 sur les presses d'imprimerie et les publications](/fr/law/printing-presses-and-publications-act/) (Printing Presses and Publications Act 1984)**, l'usage d'une presse d'imprimerie ainsi que l'impression et la publication de journaux nécessitent tous un permis du ministère de l'Intérieur.
 
 Avant l'amendement de 2012, les entreprises de presse devaient présenter **chaque année** une nouvelle demande au ministère de l'Intérieur pour renouveler leur permis, un dispositif qui a historiquement suscité des débats sur la liberté de la presse. La loi d'amendement adoptée en 2012 (Act A1436) a supprimé l'obligation de présenter une nouvelle demande chaque année, faisant en sorte que le permis reste valable jusqu'à sa révocation, et a rétabli une certaine marge de contrôle juridictionnel sur les décisions concernées.
 

@@ -29,7 +29,7 @@ faq:
     a: "Lesen balak dan pajakan ladang yang dikeluarkan oleh negeri boleh meliputi kawasan yang dituntut oleh komuniti sebagai tanah adat. Apabila pihak-pihak berselisih sama ada sesuatu kawasan itu tanah NCR, pertikaian tersebut selalunya diputuskan di mahkamah."
 
 lang: "ms"
-sourceContentHash: "73a645ecf7076b5d"
+sourceContentHash: "28337553336a3000"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,7 +111,7 @@ Satu mercu tanda awal ialah **Nor Anak Nyawai & Ors v Borneo Pulp Plantation Sdn
 
 Keputusan terkini yang paling banyak dirujuk ialah **Director of Forest, Sarawak & Anor v TR Sandah & Ors**, dilaporkan pada **[2017] 2 MLJ 281** dan diputuskan pada **20 Disember 2016**. Penuntut menuntut hak ke atas kira-kira **5,639 hektar** yang berasal daripada *pemakai menoa* dan *pulau galau*. Majoriti Mahkamah Persekutuan **3:1** memutuskan bahawa kategori komunal ini tidak mempunyai **kuasa undang-undang**, kerana ia tidak tercermin dalam adat yang telah dikodkan (seperti *Tusun Tunggu* dan Perintah Adat Iban 1993); sebaliknya, *temuda* yang diusahakan dianggap sebagai diiktiraf. Satu penghakiman menentang mengambil pandangan yang bertentangan tentang kebolehkuatkuasaan hak adat yang lebih luas itu.
 
-Penuntut kemudian memohon semakan. Mahkamah Persekutuan menolak permohonan semakan tersebut pada **2019**. Majlis Peguam Malaysia, mengulas keputusan itu, menggambarkannya sebagai peluang yang terlepas dan menyeru tindakan perundangan, termasuk pindaan untuk memastikan hakim yang berpengalaman di Borneo terlibat dalam rayuan Sabah dan Sarawak — satu pendirian yang dikemukakan oleh Majlis Peguam dan bukannya satu keputusan mahkamah.
+Penuntut kemudian memohon semakan. Mahkamah Persekutuan menolak permohonan semakan tersebut pada **2019**. [Majlis Peguam Malaysia](/law/bar-council-malaysia), mengulas keputusan itu, menggambarkannya sebagai peluang yang terlepas dan menyeru tindakan perundangan, termasuk pindaan untuk memastikan hakim yang berpengalaman di Borneo terlibat dalam rayuan Sabah dan Sarawak — satu pendirian yang dikemukakan oleh Majlis Peguam dan bukannya satu keputusan mahkamah.
 
 ## Apakah pendirian yang berbeza-beza?
 

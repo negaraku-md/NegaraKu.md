@@ -90,7 +90,7 @@ A subcontractor who has not been paid for six months does not have to wait years
 
 The Construction Industry Payment and Adjudication Act 2012 created a statutory adjudication process to settle payment disputes quickly, as an alternative to the slower, costlier routes of arbitration or litigation. It applies to construction contracts made in writing and carried out in Malaysia, and it cannot be contracted out of.
 
-Adjudication is administered by the Asian International Arbitration Centre (AIAC) — the body formerly known as the Kuala Lumpur Regional Centre for Arbitration (KLRCA).
+Adjudication is administered by the [Asian International Arbitration Centre](/law/arbitration-and-dispute-resolution) (AIAC) — the body formerly known as the Kuala Lumpur Regional Centre for Arbitration (KLRCA).
 
 ## How does the process run, step by step?
 

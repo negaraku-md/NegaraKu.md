@@ -29,7 +29,7 @@ faq:
     a: "Las licencias madereras y los arrendamientos de plantaciones emitidos por el estado pueden abarcar áreas que las comunidades reclaman como tierra consuetudinaria. Cuando las partes discrepan sobre si un área es tierra NCR, la disputa suele resolverse en los tribunales."
 
 lang: "es"
-sourceContentHash: "73a645ecf7076b5d"
+sourceContentHash: "28337553336a3000"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,7 +111,7 @@ Un hito temprano fue **Nor Anak Nyawai & Ors v Borneo Pulp Plantation Sdn Bhd**,
 
 La decisión reciente más citada es **Director of Forest, Sarawak & Anor v TR Sandah & Ors**, recogida en **[2017] 2 MLJ 281** y resuelta el **20 de diciembre de 2016**. Los demandantes reivindicaban derechos sobre aproximadamente **5,639 hectáreas** derivados del *pemakai menoa* y el *pulau galau*. Una **mayoría de 3:1** del Tribunal Federal sostuvo que estas categorías comunales **no tienen fuerza de ley**, porque no se reflejan en la costumbre codificada (como el *Tusun Tunggu* y la Orden Adat Iban de 1993); en cambio, el *temuda* cultivado se consideró reconocido. Un voto disidente adoptó la postura contraria sobre la exigibilidad de los derechos consuetudinarios más amplios.
 
-Los demandantes solicitaron posteriormente una revisión. El Tribunal Federal desestimó la solicitud de revisión en **2019**. El Colegio de Abogados de Malasia, al comentar ese resultado, lo calificó de oportunidad perdida y pidió acción legislativa, incluidas enmiendas para garantizar que jueces con experiencia bornense formen parte de las apelaciones de Sabah y Sarawak — una posición planteada por el Colegio y no un fallo del tribunal.
+Los demandantes solicitaron posteriormente una revisión. El Tribunal Federal desestimó la solicitud de revisión en **2019**. El [Colegio de Abogados de Malasia](/es/law/bar-council-malaysia), al comentar ese resultado, lo calificó de oportunidad perdida y pidió acción legislativa, incluidas enmiendas para garantizar que jueces con experiencia bornense formen parte de las apelaciones de Sabah y Sarawak — una posición planteada por el Colegio y no un fallo del tribunal.
 
 ## ¿Cuáles son las distintas posiciones?
 

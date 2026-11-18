@@ -30,7 +30,7 @@ faq:
     a: "La Junta de Prevención del Crimen — un órgano presidido por una persona con cualificación jurídica y designado por el gobierno — y no los tribunales. La Junta actúa sobre el informe de un Oficial de Instrucción (Inquiry Officer) nombrado por el Ministro."
 
 lang: "es"
-sourceContentHash: "a6b06f9b9fdb4839"
+sourceContentHash: "3dd3f7fe93ce0398"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ Existen opiniones divergentes sobre estas enmiendas, y este artículo presenta a
 
 **La opinión del gobierno y de sus partidarios.** El gobierno defiende la POCA como una herramienta necesaria para hacer frente al crimen organizado, las sociedades secretas, y las redes de narcotráfico y trata de personas que son difíciles de procesar mediante juicios ordinarios porque los testigos no están dispuestos a declarar.
 
-**La opinión de los críticos.** El Consejo de la Abogacía de Malasia (Malaysian Bar), mediante una declaración fechada el 3 de octubre de 2013, planteó varias preocupaciones. Su entonces presidente, Christopher Leong, argumentó que las enmiendas permitían la detención basada en «creencia o sospecha» en lugar de un delito probado. El Consejo también caracterizó a la Junta como dependiente enteramente del informe del Oficial de Instrucción sin ninguna facultad independiente de investigación. Human Rights Watch, por su parte, agrupó a la POCA junto con la SOSMA y la POTA como leyes que, en su opinión, permiten la detención sin juicio y restricciones severas sin revisión judicial.
+**La opinión de los críticos.** El [Consejo de la Abogacía de Malasia](/es/law/bar-council-malaysia) (Malaysian Bar), mediante una declaración fechada el 3 de octubre de 2013, planteó varias preocupaciones. Su entonces presidente, Christopher Leong, argumentó que las enmiendas permitían la detención basada en «creencia o sospecha» en lugar de un delito probado. El Consejo también caracterizó a la Junta como dependiente enteramente del informe del Oficial de Instrucción sin ninguna facultad independiente de investigación. Human Rights Watch, por su parte, agrupó a la POCA junto con la SOSMA y la POTA como leyes que, en su opinión, permiten la detención sin juicio y restricciones severas sin revisión judicial.
 
 Ambas posturas siguen formando parte del debate público en curso sobre el equilibrio entre la seguridad pública y los derechos individuales en Malasia.
 

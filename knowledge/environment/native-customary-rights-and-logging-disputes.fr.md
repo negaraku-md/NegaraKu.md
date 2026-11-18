@@ -29,7 +29,7 @@ faq:
     a: "Les licences forestières et les baux de plantation délivrés par l'État peuvent couvrir des zones que les communautés revendiquent comme terre coutumière. Lorsque les parties ne s'accordent pas sur le fait qu'une zone est une terre NCR, le litige est souvent tranché en justice."
 
 lang: "fr"
-sourceContentHash: "73a645ecf7076b5d"
+sourceContentHash: "28337553336a3000"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,7 +111,7 @@ Un jalon précoce a été **Nor Anak Nyawai & Ors v Borneo Pulp Plantation Sdn B
 
 La décision récente la plus citée est **Director of Forest, Sarawak & Anor v TR Sandah & Ors**, rapportée à **[2017] 2 MLJ 281** et tranchée le **20 décembre 2016**. Les demandeurs revendiquaient des droits sur environ **5,639 hectares** découlant du *pemakai menoa* et du *pulau galau*. Une **majorité de 3 contre 1** de la Cour fédérale a jugé que ces catégories communales n'ont **pas force de loi**, parce qu'elles ne sont pas reflétées dans la coutume codifiée (comme le *Tusun Tunggu* et l'Ordre Adat Iban de 1993) ; en revanche, le *temuda* cultivé a été considéré comme reconnu. Une opinion dissidente a adopté la position contraire sur l'opposabilité des droits coutumiers plus larges.
 
-Les demandeurs ont ensuite sollicité une révision. La Cour fédérale a rejeté la demande de révision en **2019**. Le Barreau de la Malaisie, commentant ce résultat, l'a qualifié d'occasion manquée et a appelé à une action législative, y compris des amendements pour garantir que des juges ayant une expérience bornéenne siègent aux appels de Sabah et du Sarawak — une position avancée par le Barreau et non une décision de la cour.
+Les demandeurs ont ensuite sollicité une révision. La Cour fédérale a rejeté la demande de révision en **2019**. Le [Barreau de la Malaisie](/fr/law/bar-council-malaysia), commentant ce résultat, l'a qualifié d'occasion manquée et a appelé à une action législative, y compris des amendements pour garantir que des juges ayant une expérience bornéenne siègent aux appels de Sabah et du Sarawak — une position avancée par le Barreau et non une décision de la cour.
 
 ## Quelles sont les différentes positions ?
 

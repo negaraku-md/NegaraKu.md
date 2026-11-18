@@ -38,7 +38,7 @@ faq:
     a: "Có. Người thi hành di chúc phải thông báo cho LHDN về việc tử vong, nộp tờ khai cuối cùng của người quá cố và các tờ khai của di sản, và giải quyết bất kỳ thuế và chế tài còn nợ nào trước khi phân chia di sản. LHDN có ba năm kể từ khi kết thúc năm nó được thông báo về việc tử vong để đưa ra các đánh giá."
 
 lang: "vi"
-sourceContentHash: "68ad2357941779d2"
+sourceContentHash: "41452eb0f37e297f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -335,7 +335,7 @@ Thuế danh nghĩa RM10 áp dụng khi sự chuyển giao được thực hiện
 - một **di chúc** hợp lệ;
 - **Distribution Act** (tức là kế thừa không có di chúc, khi không có di chúc);
   hoặc
-- **faraid**, các quy tắc thừa kế bắt buộc theo luật Syariah cho một di sản Hồi
+- **[faraid](/vi/law/faraid-and-islamic-inheritance)**, các quy tắc thừa kế bắt buộc theo luật Syariah cho một di sản Hồi
   giáo.
 
 Tuy nhiên, thuế trước bạ theo giá trị có thể bị kích hoạt nếu người thụ hưởng sắp

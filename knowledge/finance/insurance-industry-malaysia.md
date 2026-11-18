@@ -136,7 +136,7 @@ The motor problem is structural. In 2025 private-car claim severity increased to
 
 ## Why is only motor insurance compulsory?
 
-For ordinary consumers, insurance in Malaysia is overwhelmingly voluntary — with one hard exception. Under the **Road Transport Act 1987 (Act 333)**, anyone using a motor vehicle on a public road must be insured against third-party risks. This is the cover that pays strangers you might injure or kill in an accident, and no road tax can be renewed without it.
+For ordinary consumers, insurance in Malaysia is overwhelmingly voluntary — with one hard exception. Under the **[Road Transport Act 1987](/law/road-transport-act-1987) (Act 333)**, anyone using a motor vehicle on a public road must be insured against third-party risks. This is the cover that pays strangers you might injure or kill in an accident, and no road tax can be renewed without it.
 
 That legal floor comes in three tiers of motor cover, each wider than the last:
 

@@ -34,7 +34,7 @@ faq:
     a: "La cobertura Act (responsabilidad civil) es el mínimo legal y paga solo las lesiones o la muerte de terceros. La de responsabilidad civil, incendio y robo añade cobertura si su propio coche se incendia o es robado. La de cobertura completa (Comprehensive) es la más amplia, y también paga los daños accidentales a su propio vehículo."
 
 lang: "es"
-sourceContentHash: "f3e95ab7db734acf"
+sourceContentHash: "2613d119cd9dfc2d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ El problema de los automóviles es estructural. En 2025 la gravedad de los sinie
 
 ## ¿Por qué solo el seguro de automóvil es obligatorio?
 
-Para los consumidores corrientes, el seguro en Malasia es abrumadoramente voluntario — con una excepción tajante. Bajo la **Road Transport Act 1987 (Act 333)**, cualquiera que utilice un vehículo de motor en una vía pública debe estar asegurado frente a riesgos de terceros. Esta es la cobertura que paga a los extraños a quienes usted podría herir o matar en un accidente, y no se puede renovar ningún impuesto de circulación sin ella.
+Para los consumidores corrientes, el seguro en Malasia es abrumadoramente voluntario — con una excepción tajante. Bajo la **[Road Transport Act 1987](/es/law/road-transport-act-1987) (Act 333)**, cualquiera que utilice un vehículo de motor en una vía pública debe estar asegurado frente a riesgos de terceros. Esta es la cobertura que paga a los extraños a quienes usted podría herir o matar en un accidente, y no se puede renovar ningún impuesto de circulación sin ella.
 
 Ese suelo legal se presenta en tres niveles de cobertura de automóviles, cada uno más amplio que el anterior:
 

@@ -29,7 +29,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,7 +80,7 @@ Si has pasado por un control de carretera en la víspera de un día festivo, has
 
 ## Qué es RELA
 
-RELA es un cuerpo de voluntarios: ciudadanos corrientes que se inscriben, se forman y se presentan para apoyar las operaciones oficiales cuando se les requiere. Según el portal federal de servicios, la pertenencia está abierta a los ciudadanos malasios de 18 años en adelante que no estén ya sirviendo en las Fuerzas Armadas ni en otra fuerza estatutaria, la inscripción se extiende por periodos renovables de cinco años, y los miembros se consideran funcionarios públicos en virtud del Código Penal (Act 574) mientras están de servicio. Un **Director General**, nombrado por el Ministro de entre el servicio público, manda el cuerpo. Por número de efectivos, RELA es una de las mayores organizaciones de voluntarios de Malasia, con un número de miembros cifrado en millones (véase *verificationNeeded* para la cifra actual).
+RELA es un cuerpo de voluntarios: ciudadanos corrientes que se inscriben, se forman y se presentan para apoyar las operaciones oficiales cuando se les requiere. Según el portal federal de servicios, la pertenencia está abierta a los ciudadanos malasios de 18 años en adelante que no estén ya sirviendo en las Fuerzas Armadas ni en otra fuerza estatutaria, la inscripción se extiende por periodos renovables de cinco años, y los miembros se consideran funcionarios públicos en virtud del [Código Penal](/es/law/penal-code) (Act 574) mientras están de servicio. Un **Director General**, nombrado por el Ministro de entre el servicio público, manda el cuerpo. Por número de efectivos, RELA es una de las mayores organizaciones de voluntarios de Malasia, con un número de miembros cifrado en millones (véase *verificationNeeded* para la cifra actual).
 
 ## Orígenes: de la Guardia Nacional a la Konfrontasi
 

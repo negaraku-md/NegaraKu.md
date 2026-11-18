@@ -30,7 +30,7 @@ faq:
     a: "包含不动产且价值低于 500 万令吉的小额遗产，由土地管理官（Pentadbir Tanah）透过县土地局处理，并发出分配令（Perintah Pembahagian）。"
 
 lang: "zh"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: explainer
 
 ## 哪些法律决定遗产的分配？
 
-马来西亚透过两套独立的框架处理继承。对于穆斯林，遗产依据**法拉伊德（faraid）**——即伊斯兰继承法——分配，而伊斯兰法庭（Mahkamah Syariah）会在遗产分配之前发出**法拉伊德证书（sijil faraid）**，确认有权继承的继承人名单及各自的份额。
+马来西亚透过两套独立的框架处理继承。对于穆斯林，遗产依据**[法拉伊德（faraid）](/zh/law/faraid-and-islamic-inheritance/)**——即伊斯兰继承法——分配，而伊斯兰法庭（Mahkamah Syariah）会在遗产分配之前发出**法拉伊德证书（sijil faraid）**，确认有权继承的继承人名单及各自的份额。
 
 对于无遗嘱去世（即 *intestate*，无遗嘱死亡）的非穆斯林，分配由**1958 年分配法令（第 300 号法令）**主导。这项法令适用于马来西亚半岛及砂拉越的非穆斯林；沙巴以及砂拉越的原住民（anak negeri）则受另外的条文约束。如果一名非穆斯林留有有效的遗嘱，其遗产依据该遗嘱分配，而非第 300 号法令的公式。
 

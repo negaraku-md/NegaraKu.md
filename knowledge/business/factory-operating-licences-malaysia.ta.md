@@ -35,7 +35,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ framework: rules
 |---|---|---|---|
 | உற்பத்தி உரிமம் / ICA விலக்கு | MITI / MIDA | Industrial Co-ordination Act 1975 | உற்பத்தி **செயல்பாட்டை** அங்கீகரிக்கிறது (தனிப் பட்ட வழிகாட்டியைப் பார்க்கவும்) |
 | நிறைவு மற்றும் இணக்கச் சான்றிதழ் (CCC) | கட்டடக்கலைஞர்/பொறியாளர் (PSP) + உள்ளூர் அதிகார அமைப்பு | Street, Drainage and Building Act 1974 + Uniform Building By-Laws | **கட்டிடத்தை** ஆக்கிரமிக்கச் சட்டப்படி தகுதியுடையதாக்குகிறது |
-| இயந்திரத்திற்கான தகுதிச் சான்றிதழ் | DOSH | Occupational Safety and Health Act 1994 + OSH (Plant Requiring CF) Regulations 2024 | கட்டுப்படுத்தப்பட்ட **இயந்திரங்களை** இயக்க அனுமதிக்கிறது |
+| இயந்திரத்திற்கான தகுதிச் சான்றிதழ் | DOSH | [Occupational Safety and Health Act 1994](/ta/law/occupational-safety-and-health-act/) + OSH (Plant Requiring CF) Regulations 2024 | கட்டுப்படுத்தப்பட்ட **இயந்திரங்களை** இயக்க அனுமதிக்கிறது |
 | தீ சான்றிதழ் | BOMBA | Fire Services Act 1988 | **நியமிக்கப்பட்ட வளாகங்களுக்கு** தொடர்ச்சியான தீ-பாதுகாப்பு அனுமதி |
 | வணிக வளாகம் + விளம்பரப் பலகை உரிமம் | உள்ளூர் அரசு அமைப்பு (PBT) | Local Government Act 1976 + அரசு அமைப்பு துணைச் சட்டங்கள் | **அந்த முகவரியில் உள்ள வணிகத்திற்கு** உரிமம் அளிக்கிறது |
 | EIA / குறிப்பிடப்பட்ட-வளாக ஒப்புதல் | DOE | Environmental Quality Act 1974 | குறிப்பிடப்பட்ட இடத்தில் **செயல்பாட்டின் சுற்றுச்சூழல் தாக்கத்தை** ஒப்புதல் அளிக்கிறது |

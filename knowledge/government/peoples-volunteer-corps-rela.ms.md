@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,7 +80,7 @@ Jika anda pernah memandu melalui sekatan jalan pada malam cuti umum, beratur di 
 
 ## Apakah RELA
 
-RELA ialah badan sukarelawan: rakyat biasa yang mendaftar, berlatih dan tampil untuk menyokong operasi rasmi apabila dipanggil. Menurut portal perkhidmatan persekutuan, keahlian terbuka kepada warganegara Malaysia berumur 18 tahun ke atas yang belum berkhidmat dalam Angkatan Tentera atau pasukan berkanun lain, pendaftaran berlangsung untuk tempoh lima tahun yang boleh diperbaharui, dan anggota dianggap sebagai penjawat awam di bawah Kanun Keseksaan (Akta 574) semasa bertugas. Seorang **Ketua Pengarah**, dilantik oleh Menteri daripada perkhidmatan awam, mengetuai pasukan ini. Dari segi bilangan anggota, RELA ialah salah satu organisasi sukarelawan terbesar Malaysia, dengan keahlian dilaporkan dalam jutaan (lihat *verificationNeeded* untuk angka semasa).
+RELA ialah badan sukarelawan: rakyat biasa yang mendaftar, berlatih dan tampil untuk menyokong operasi rasmi apabila dipanggil. Menurut portal perkhidmatan persekutuan, keahlian terbuka kepada warganegara Malaysia berumur 18 tahun ke atas yang belum berkhidmat dalam Angkatan Tentera atau pasukan berkanun lain, pendaftaran berlangsung untuk tempoh lima tahun yang boleh diperbaharui, dan anggota dianggap sebagai penjawat awam di bawah [Kanun Keseksaan](/law/penal-code) (Akta 574) semasa bertugas. Seorang **Ketua Pengarah**, dilantik oleh Menteri daripada perkhidmatan awam, mengetuai pasukan ini. Dari segi bilangan anggota, RELA ialah salah satu organisasi sukarelawan terbesar Malaysia, dengan keahlian dilaporkan dalam jutaan (lihat *verificationNeeded* untuk angka semasa).
 
 ## Asal usul: dari Pasukan Simpanan Kampung ke Konfrontasi
 

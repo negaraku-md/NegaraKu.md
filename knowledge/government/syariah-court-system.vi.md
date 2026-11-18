@@ -33,7 +33,7 @@ faq:
     a: "Cách sắp xếp ba cấp — Tòa Sơ thẩm Syariah, Tòa Thượng thẩm Syariah và Tòa Phúc thẩm Syariah — là phổ biến, nhưng mỗi bang thành lập nó thông qua sắc lệnh riêng của bang mình, trong khi các Lãnh thổ Liên bang được điều chỉnh bởi Act 505. Giới hạn thẩm quyền dân sự (mal) về mặt giá trị tiền được quy định bởi sắc lệnh hoặc đạo luật tương ứng và có thể khác nhau giữa các bang."
 
 lang: "vi"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Thẩm quyền của tòa án Syariah được chia thành mal (dân sự) và h
 - di chúc hoặc sự cho tặng trong lúc marad-al-maut (bệnh nặng nguy kịch) của một người Hồi giáo
   qua đời;
 - hibah, wakaf hoặc nazr; và
-- phân chia và thừa kế tài sản có di chúc hoặc không có di chúc (faraid).
+- phân chia và thừa kế tài sản có di chúc hoặc không có di chúc ([faraid](/vi/law/faraid-and-islamic-inheritance)).
 
 Giới hạn giá trị tiền cho thẩm quyền dân sự của Tòa Sơ thẩm Syariah được quy định bởi sắc lệnh hoặc đạo luật tương ứng. Tại các Lãnh thổ Liên bang, mục 47 của Act 505 quy định giới hạn của nó ở số tiền hoặc giá trị của vấn đề tranh chấp không quá năm mươi nghìn ringgit, hoặc không thể ước tính bằng tiền. Giới hạn này có thể khác nhau giữa các bang.
 

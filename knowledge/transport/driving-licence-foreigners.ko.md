@@ -23,7 +23,7 @@ verificationNeeded:
   - "이 글은 사립 운전학원의 D종(Class D) 과정에 대한 정확한 수강료나, LDL/PDL/CDL 경로에 대한 JPJ의 정확한 수수료 표를 인용하지 않습니다. 검증 과정에서 단일한 JPJ 공식 수수료 표를 찾지 못했기 때문입니다 — 예산을 세우기 전에 현재 수수료를 JPJ 창구나 인가된 운전학원에서 직접 확인하십시오."
   - "도로교통법(Road Transport Act 1987) 제28조의 정확한 문구는 JPJ가 호스팅하는 PDF를 한 줄 한 줄 직접 읽는 대신(맥락 사용량 관리를 위해 여기서는 피함) 이 법에 대한 2차 요약을 통해 확인했습니다 — 조항 번호와 실질적 효력은 여러 독립적 출처에서 교차 확인되지만, 법적 근거로 삼는 문서를 작성할 경우 JPJ가 호스팅하는 Act 333 PDF 원문과 정확한 문구를 대조하십시오."
 lang: "ko"
-sourceContentHash: "04842acf21e405cb"
+sourceContentHash: "137fb2a54b30ed94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,7 +80,7 @@ framework: how-to
 ## 실제로 이곳에서 운전하게 해 주는 것
 
 말레이시아는 모든 방문자에게 현지 시험을 치르도록 요구하지는 않습니다.
-**도로교통법(Road Transport Act 1987)**(Act 333) 제28조는 국내 면허의
+**[도로교통법(Road Transport Act 1987)](/ko/law/road-transport-act-1987)**(Act 333) 제28조는 국내 면허의
 상호 인정에 관해 말레이시아와 조약을 맺은 국가가 발급한 운전면허를
 인정합니다 — 실무적으로 이는 1949년 도로교통에 관한 제네바 협약과 1968년
 도로교통에 관한 비엔나 협약을 포괄합니다. 그 면허는 발급국에서 유효하게

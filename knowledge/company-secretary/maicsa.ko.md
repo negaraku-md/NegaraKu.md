@@ -34,7 +34,7 @@ verificationNeeded:
   - "MAICSA가 공표하는 회원 수치의 기준일과, 각 회원 등급의 현행 입회 및 시험 요건을 확인하십시오"
   - "MAICSA가 승인 단체로 지정된 관보 고시 참조와, s.235(3)에 따라 부과된 조건이 있는지 확인하십시오"
 lang: "ko"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ MAICSA는 사람에게 자격을 부여합니다. 말레이시아 기업위원�
 
 1. 말레이시아 공인 비서·행정사 협회(MAICSA)
 2. 말레이시아 회계사 협회(MIA)
-3. 말레이시아 변호사회(Malaysian Bar)
+3. [말레이시아 변호사회(Malaysian Bar)](/ko/law/bar-council-malaysia)
 4. 말레이시아 회사 비서 협회(MACS)
 5. 말레이시아 공인 회계사 협회(MICPA)
 6. 사바 법률협회(Sabah Law Society)

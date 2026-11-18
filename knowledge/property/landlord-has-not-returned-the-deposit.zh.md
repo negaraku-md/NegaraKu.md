@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "1a172ffed29950eb"
+sourceContentHash: "41f000c53719467c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ relations:
 1. **书面催讨。** 礼貌但坚定地、**以书面形式**要求在合理期限内退还押金——*或*就任何扣款提供逐项列明、有证据的说明。引用你的证据；保持就事论事。许多纠纷在房东看到你手握记录、又懂得合理损耗这条线之后，就到此为止了。
 2. **正式催讨信（letter of demand）。** 更正式，通常由律师起草，在采取法律行动前列明诉求、依据、金额和期限。它表明认真的态度，并建立起清晰的诉讼前记录——请把律师费与押金金额权衡比较。
 3. **民事诉讼。** 马来西亚没有独立的小额索偿“**法庭**”，但**推事庭（Magistrates' Court）** 设有**简化的小额索偿程序**，个人可就较小金额**亲自、无须律师**使用；较大的诉求则作为普通民事诉讼交由推事庭审理，超出其上限者交由**高级推事庭（Sessions Court）。** **金额上限、费用和表格会变动**，所以请向法庭（**kehakiman.gov.my**）查证当前规定，而不要相信任何地方引用的数字。关于受理机构的一点提醒：**购屋者索偿仲裁庭（Tribunal for Homebuyer Claims）** 是供房屋“*买方*”对发展商提出诉求的，而私人住宅租赁押金**一般也不在**消费人仲裁庭（Tribunal for Consumer Claims）受理范围内——所以别假设消费仲裁庭会受理；请向律师或法律援助确认。
-4. **法律援助与免费咨询。** **法律援助局（Jabatan Bantuan Guaman，JBG）** 提供经济状况审查式的援助，**律师公会法律援助中心（Bar Council Legal Aid Centre）**（及各州律师公会中心）提供免费或补贴的咨询——各自须符合自身的资格条件。
+4. **法律援助与免费咨询。** **[法律援助局](/zh/law/legal-aid-in-malaysia/)（Jabatan Bantuan Guaman，JBG）** 提供经济状况审查式的援助，**律师公会法律援助中心（Bar Council Legal Aid Centre）**（及各州律师公会中心）提供免费或补贴的咨询——各自须符合自身的资格条件。
 
 ## 保持比例——并预防下一次
 

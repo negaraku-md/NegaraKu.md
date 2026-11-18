@@ -29,7 +29,7 @@ faq:
     a: "統治者会議は連邦憲法第38条に規定されており、その機能及び手続はFifth Schedule（第五附則）に詳述されている。"
 
 lang: "ja"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ framework: explainer
 - **任命。** 会議の同意を要する特定の任命について助言を行うほか、第182条に基づき特別法廷（Mahkamah Khas）の構成員を任命し、軍事評議会（Majlis Angkatan Tentera）や[国語・文学局（Dewan Bahasa dan Pustaka）](/arts-culture/dewan-bahasa-dan-pustaka)理事会などの機関への代表を任命する。
 - **恩赦権。** 特定の事案において、恩赦、減刑及び刑の軽減を行う。
 
-マレーシア弁護士会（Majlis Peguam Malaysia）の記録によれば、憲法は第38(6)条に基づき国王を罷免する権限も定めているが、同記録によればこの権限はこれまで行使されたことがない。
+[マレーシア弁護士会](/ja/law/bar-council-malaysia)（Majlis Peguam Malaysia）の記録によれば、憲法は第38(6)条に基づき国王を罷免する権限も定めているが、同記録によればこの権限はこれまで行使されたことがない。
 
 ## 会議はどのように運営されるのか
 

@@ -95,7 +95,7 @@ The **Contracts Act 1950** is the base layer — a tenancy agreement is, legally
 
 - The **Specific Relief Act 1950** governs what happens when a tenant won't leave after the tenancy ends.
 - The **Distress Act 1951** gives a landlord a court route to recover unpaid rent.
-- The **Civil Law Act 1956** and ordinary civil procedure handle disputes over money and damages more generally.
+- The **[Civil Law Act 1956](/law/common-law-in-malaysia)** and ordinary civil procedure handle disputes over money and damages more generally.
 
 None of these were drafted around modern renting. They were built for property and contract disputes broadly, and courts apply them to tenancies by extension. The practical consequence: rights that exist by default in a jurisdiction with a tenancy act — a minimum notice period, a cap on deposits, a statutory dispute tribunal — mostly don't exist here unless the agreement itself creates them.
 

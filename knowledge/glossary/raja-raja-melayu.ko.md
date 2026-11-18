@@ -29,7 +29,7 @@ faq:
     a: "통치자회의는 연방헌법 제38조에 명문화되어 있으며, 그 기능과 절차는 제5부칙에 상세히 규정되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ framework: explainer
 - **임명.** 회의의 동의가 필요한 특정 임명에 관해 조언하고, 제182조에 따른 특별법원(Mahkamah Khas) 구성원과 군사위원회 및 [데완 바하사 단 푸스타카](/ko/arts-culture/dewan-bahasa-dan-pustaka) 이사회 같은 기관에 대한 대표를 임명.
 - **사면권.** 특정 사안에서 사면, 감형, 형 경감을 부여.
 
-말레이시아 변호사회의 기록에 따르면, 헌법은 또한 제38조 6항에 따라 양 디페르투안 아공을 파면할 권한을 규정하는데 — 그 기록에 따르면 한 번도 사용된 적이 없는 권한입니다.
+[말레이시아 변호사회](/ko/law/bar-council-malaysia)의 기록에 따르면, 헌법은 또한 제38조 6항에 따라 양 디페르투안 아공을 파면할 권한을 규정하는데 — 그 기록에 따르면 한 번도 사용된 적이 없는 권한입니다.
 
 ## 회의는 어떻게 운영되는가?
 

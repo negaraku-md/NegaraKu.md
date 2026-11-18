@@ -37,7 +37,7 @@ verificationNeeded:
   - "MICPA-CAANZ相互承認の現行条件、及び2016年の更新以降に何らかの進路変更が発効したかどうかを確認すること"
 
 lang: "ja"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ Accountants Australia and New Zealand（CAANZ）**と共同で運営される共
 ## 2016年会社法における地位
 
 MICPAは2016年会社法**Fourth Scheduleに5番目に掲げられた団体**であり、その会員は
-MAICSA、MIA、Malaysian Barその他の承認された団体と同じ立場で、s.235(2)(a)に基づき
+MAICSA、MIA、[Malaysian Bar](/ja/law/bar-council-malaysia)その他の承認された団体と同じ立場で、s.235(2)(a)に基づき
 会社秘書役として職務を行う資格を有する。すべてのFourth Schedule団体と同様、これは
 資格である。すなわち、その者は職務を行う前に、なおSSMからs.241の開業証明書を取得
 しなければならない。

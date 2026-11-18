@@ -35,7 +35,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "1a172ffed29950eb"
+sourceContentHash: "41f000c53719467c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ Hãy leo thang tương xứng với số tiền; hầu hết các vụ việc n�
 1. **Một thư yêu cầu bằng văn bản.** Đề nghị, lịch sự nhưng cứng rắn và **bằng văn bản**, trả lại tiền cọc trong một thời hạn hợp lý — *hoặc* cung cấp một bản kê chi tiết, có bằng chứng cho mọi khoản khấu trừ. Dẫn chiếu đến bằng chứng của bạn; giữ sự khách quan. Nhiều tranh chấp kết thúc ở đây một khi chủ nhà thấy bạn có hồ sơ và hiểu ranh giới hao mòn.
 2. **Một thư yêu cầu chính thức (letter of demand).** Trang trọng hơn, thường do một luật sư soạn, nêu rõ yêu cầu, cơ sở, số tiền và một thời hạn trước khi khởi kiện. Nó cho thấy sự nghiêm túc và tạo ra một hồ sơ tiền tố tụng rõ ràng — hãy cân nhắc phí luật sư so với khoản tiền cọc.
 3. **Một đơn kiện dân sự.** Malaysia không có *tòa* khiếu kiện nhỏ riêng, nhưng **Tòa Sơ thẩm (Magistrates' Court)** có một **thủ tục khiếu kiện nhỏ (small-claims) đơn giản hóa** mà một **cá nhân có thể tự dùng, không cần luật sư**, cho các khoản nhỏ hơn; các vụ lớn hơn đi theo một vụ kiện dân sự thông thường ra Tòa Sơ thẩm hoặc, vượt quá giới hạn của tòa này, ra **Tòa Phiên (Sessions Court).** Các **giới hạn về số tiền, án phí và biểu mẫu thay đổi**, nên hãy kiểm tra mức hiện hành với tòa án (**kehakiman.gov.my**) thay vì tin vào một con số được trích dẫn ở đâu đó. Một lưu ý về diễn đàn: **Tòa án Khiếu nại Người mua nhà (Tribunal for Homebuyer Claims)** là dành cho người *mua* nhà kiện chủ đầu tư, và một khoản tiền cọc thuê nhà ở tư nhân **nói chung cũng không** thuộc thẩm quyền của **Tòa án Khiếu nại Người tiêu dùng (Tribunal for Consumer Claims)** — nên đừng cho rằng một tòa án người tiêu dùng sẽ thụ lý; hãy xác nhận với một luật sư hoặc trợ giúp pháp lý.
-4. **Trợ giúp pháp lý và tư vấn miễn phí.** **Cục Trợ giúp Pháp lý (Jabatan Bantuan Guaman, JBG)** cung cấp trợ giúp có kiểm tra thu nhập, và **Trung tâm Trợ giúp Pháp lý của Hội đồng Luật sư (Bar Council Legal Aid Centre)** (và các trung tâm của Hội đồng Luật sư cấp bang) cung cấp tư vấn miễn phí hoặc được trợ giá — mỗi nơi tùy theo tiêu chí điều kiện riêng của mình.
+4. **Trợ giúp pháp lý và tư vấn miễn phí.** **[Cục Trợ giúp Pháp lý](/vi/law/legal-aid-in-malaysia/) (Jabatan Bantuan Guaman, JBG)** cung cấp trợ giúp có kiểm tra thu nhập, và **Trung tâm Trợ giúp Pháp lý của Hội đồng Luật sư (Bar Council Legal Aid Centre)** (và các trung tâm của Hội đồng Luật sư cấp bang) cung cấp tư vấn miễn phí hoặc được trợ giá — mỗi nơi tùy theo tiêu chí điều kiện riêng của mình.
 
 ## Hãy cân xứng — và phòng ngừa lần sau
 

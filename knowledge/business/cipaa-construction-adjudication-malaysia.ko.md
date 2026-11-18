@@ -31,7 +31,7 @@ faq:
     a: "예 — 단순한 개칭 이상입니다. 2026년 1월 1일부터 시행되는 Act A1738과 2025년 개정규정은 「KLRCA」를 「AIAC」로 바꾸고, 재정 기한을 강화하여 이제 연장에는 양 당사자와 재정인의 동의가 필요하며, 강화된 대금 통지 요건과 법정 서식을 도입하고, 관할 분쟁을 줄이기 위해 핵심 정의를 확대하며, 집행 경로를 강화합니다. 핵심인 45영업일 결정 체계는 유지되지만 그 주변 절차가 바뀌었으므로 현행 AIAC 서식을 사용하십시오."
 
 lang: "ko"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ framework: explainer
 
 건설산업 대금 및 판정법 2012(Construction Industry Payment and Adjudication Act 2012)는 중재나 소송이라는 더 느리고 비용이 많이 드는 경로의 대안으로서, 대금 분쟁을 신속하게 해결하기 위한 법정 판정 절차를 창설했습니다. 이 법은 서면으로 체결되어 말레이시아에서 수행되는 건설 계약에 적용되며, 계약으로 배제할 수 없습니다.
 
-판정은 아시아 국제중재센터(Asian International Arbitration Centre, AIAC) — 이전에 쿠알라룸푸르 지역중재센터(Kuala Lumpur Regional Centre for Arbitration, KLRCA)로 알려졌던 기구 — 가 관리합니다.
+판정은 [아시아 국제중재센터](/ko/law/arbitration-and-dispute-resolution)(Asian International Arbitration Centre, AIAC) — 이전에 쿠알라룸푸르 지역중재센터(Kuala Lumpur Regional Centre for Arbitration, KLRCA)로 알려졌던 기구 — 가 관리합니다.
 
 ## 절차는 단계별로 어떻게 진행되는가?
 

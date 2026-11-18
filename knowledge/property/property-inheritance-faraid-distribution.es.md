@@ -30,7 +30,7 @@ faq:
     a: "Un patrimonio pequeño que contiene bienes inmuebles y está valorado en menos de RM5 millones lo gestiona el Administrador de Tierras a través de la Oficina de Tierras de Distrito (District Land Office), que emite una Orden de Distribución (Distribution Order)."
 
 lang: "es"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Cuando alguien fallece en Malasia, quién hereda su vivienda depende primero de 
 
 ## ¿Qué ley determina la división de un patrimonio?
 
-Malasia gestiona la herencia a través de dos marcos separados. Para los musulmanes, el patrimonio se divide según el **faraid**, la ley islámica de la herencia, y el Tribunal de la Sharía emite un **certificado de faraid** que confirma la lista de herederos con derecho y la parte de cada uno antes de que se distribuya el patrimonio.
+Malasia gestiona la herencia a través de dos marcos separados. Para los musulmanes, el patrimonio se divide según el **[faraid](/es/law/faraid-and-islamic-inheritance/)**, la ley islámica de la herencia, y el Tribunal de la Sharía emite un **certificado de faraid** que confirma la lista de herederos con derecho y la parte de cada uno antes de que se distribuya el patrimonio.
 
 Para los no musulmanes que fallecen sin dejar testamento (falleciendo *ab intestato*), la división se rige por la **Ley de Distribución de 1958 (Distribution Act 1958) (Ley 300)**. Esta Ley se aplica a los no musulmanes en Malasia Peninsular y en Sarawak; Sabah y los nativos de Sarawak están sujetos a disposiciones diferentes. Si un no musulmán deja un testamento válido, su patrimonio se divide según ese testamento, no según la fórmula de la Ley 300.
 

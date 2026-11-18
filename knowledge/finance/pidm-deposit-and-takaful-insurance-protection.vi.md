@@ -37,7 +37,7 @@ faq:
     a: "Nếu một ngân hàng thành viên phá sản, PIDM hoàn trả cho những người gửi đủ điều kiện lên đến giới hạn RM250,000. Nếu một bên bảo hiểm thành viên phá sản, PIDM hoặc thu xếp để bảo hiểm của bạn được tiếp tục hoặc chi trả các quyền lợi được bảo vệ lên đến giới hạn áp dụng."
 
 lang: "vi"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -241,7 +241,7 @@ Cách xử lý chăm sóc y tế rất quan trọng: thay vì một trần Ringg
 Nếu một bên bảo hiểm thành viên phá sản, phí bảo hiểm hoặc đóng góp trả trước cũng có thể được hoàn lại:
 
 - Takaful/bảo hiểm **y tế và sức khỏe**: hoàn 100%.
-- Các hợp đồng theo **Road Transport Act 1987** và **Workmen's Compensation Act 1952**: hoàn 100%.
+- Các hợp đồng theo **[Road Transport Act 1987](/vi/law/road-transport-act-1987)** và **Workmen's Compensation Act 1952**: hoàn 100%.
 - Các hợp đồng khác: lên đến **RM500,000 cho mỗi chứng chỉ hoặc hợp đồng**.
 
 ### Các giới hạn được gộp như thế nào

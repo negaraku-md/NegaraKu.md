@@ -37,7 +37,7 @@ verificationNeeded:
   - "उस राजपत्र (Gazette) अधिसूचना संदर्भ की पुष्टि करें जिसके द्वारा MAICSA को एक अनुमोदित संस्था के रूप में निर्धारित किया गया था, और क्या s.235(3) के तहत कोई शर्तें या निबंधन लगाए गए थे"
 
 lang: "hi"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ MAICSA वह संस्था है जिसका नाम अधिक�
 
 1. मलेशियाई चार्टर्ड सचिव एवं प्रशासक संस्थान (MAICSA)
 2. मलेशियाई लेखाकार संस्थान (MIA)
-3. मलेशियाई बार (Malaysian Bar)
+3. [मलेशियाई बार (Malaysian Bar)](/hi/law/bar-council-malaysia)
 4. मलेशियाई कंपनी सचिव संघ (MACS)
 5. मलेशियाई प्रमाणित सार्वजनिक लेखाकार संस्थान (MICPA)
 6. सबाह विधि सोसायटी (Sabah Law Society)

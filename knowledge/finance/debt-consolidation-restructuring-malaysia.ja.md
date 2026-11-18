@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 
 status: "published"
 aiAssisted: true
@@ -126,7 +126,7 @@ AKPKは3つのものを提供する。金融**教育**（POWER!プログラム�
 
 ## 再編では足りないとき
 
-自発的なルートで債務を解決できない場合、正式な、裁判所が監督する選択肢が残る。すなわち、個人には、破産に代わるものとしての1967年破産法（Insolvency Act 1967）のもとでの**任意整理（Voluntary Arrangement）**、企業には、2016年会社法（Companies Act 2016）のもとでの**整理計画（Scheme of Arrangement）**または**司法管理（Judicial Management）**である。これらは最後の手段だが、存在する。
+自発的なルートで債務を解決できない場合、正式な、裁判所が監督する選択肢が残る。すなわち、個人には、破産に代わるものとしての[1967年破産法](/ja/law/insolvency-and-bankruptcy-law/)（Insolvency Act 1967）のもとでの**任意整理（Voluntary Arrangement）**、企業には、2016年会社法（Companies Act 2016）のもとでの**整理計画（Scheme of Arrangement）**または**司法管理（Judicial Management）**である。これらは最後の手段だが、存在する。
 
 ## 次にすべきこと
 

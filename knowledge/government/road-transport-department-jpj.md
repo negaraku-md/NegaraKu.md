@@ -111,7 +111,7 @@ Licences are issued by vehicle class. The table below summarises the main classe
 
 ## The legal basis: the Road Transport Act 1987
 
-JPJ's central legal authority is the **Road Transport Act 1987 (Act 333)**, which received Royal Assent in August 1987 and came into force the following month. The Act governs the registration and licensing of motor vehicles and drivers, construction and use rules, traffic offences and penalties, and the enforcement powers JPJ relies on. Commercial-vehicle licensing historically draws on a companion statute, the **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Subsidiary rules made under these Acts fill in the operational detail.
+JPJ's central legal authority is the **[Road Transport Act 1987](/law/road-transport-act-1987) (Act 333)**, which received Royal Assent in August 1987 and came into force the following month. The Act governs the registration and licensing of motor vehicles and drivers, construction and use rules, traffic offences and penalties, and the enforcement powers JPJ relies on. Commercial-vehicle licensing historically draws on a companion statute, the **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Subsidiary rules made under these Acts fill in the operational detail.
 
 Because the Act is amended regularly — including periodic reviews of penalties — motorists should treat specific fines and section numbers as liable to change and check the current authoritative text where it matters.
 

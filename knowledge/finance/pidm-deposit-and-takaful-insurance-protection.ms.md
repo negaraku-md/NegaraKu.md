@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 
 status: "published"
 aiAssisted: true
@@ -241,7 +241,7 @@ Layanan penjagaan kesihatan adalah penting: dan bukannya had Ringgit, manfaat pe
 Jika ahli penginsurans gagal, premium atau sumbangan prabayar juga mungkin dibayar balik:
 
 - Takaful/insurans **perubatan dan kesihatan**: 100% dibayar balik.
-- Polisi di bawah **Akta Pengangkutan Jalan 1987** dan **Akta Pampasan Pekerja 1952**: 100% dibayar balik.
+- Polisi di bawah **[Akta Pengangkutan Jalan 1987](/law/road-transport-act-1987)** dan **Akta Pampasan Pekerja 1952**: 100% dibayar balik.
 - Polisi lain: sehingga **RM500,000 bagi setiap sijil atau polisi**.
 
 ### Bagaimana had diagregatkan

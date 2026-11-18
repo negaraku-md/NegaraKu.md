@@ -30,7 +30,7 @@ faq:
     a: "Harta pusaka kecil yang mengandung harta tidak bergerak dan bernilai di bawah RM5 juta ditangani oleh Administrator Tanah melalui Kantor Pertanahan Daerah, yang mengeluarkan Perintah Pembagian."
 
 lang: "id"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Ketika seseorang meninggal dunia di Malaysia, siapa yang mewarisi rumahnya berga
 
 ## Undang-undang apa yang menentukan pembagian harta pusaka?
 
-Malaysia mengelola pewarisan melalui dua kerangka yang terpisah. Bagi orang Islam, harta pusaka dibagi menurut **faraid**, yaitu hukum pewarisan Islam, dan Mahkamah Syariah mengeluarkan **sertifikat faraid** yang mengesahkan daftar ahli waris yang berhak serta bagian masing-masing sebelum harta itu dibagikan.
+Malaysia mengelola pewarisan melalui dua kerangka yang terpisah. Bagi orang Islam, harta pusaka dibagi menurut **[faraid](/id/law/faraid-and-islamic-inheritance/)**, yaitu hukum pewarisan Islam, dan Mahkamah Syariah mengeluarkan **sertifikat faraid** yang mengesahkan daftar ahli waris yang berhak serta bagian masing-masing sebelum harta itu dibagikan.
 
 Bagi non-Islam yang meninggal dunia tanpa meninggalkan wasiat (mati *intestate*), pembagian diatur oleh **Distribution Act 1958 (Act 300)**. Act ini berlaku untuk non-Islam di Semenanjung Malaysia dan di Sarawak; Sabah dan golongan anak negeri Sarawak tunduk pada ketentuan yang berlainan. Jika seorang non-Islam meninggalkan wasiat yang sah, harta pusakanya dibagi menurut wasiat itu, bukan formula Act 300.
 

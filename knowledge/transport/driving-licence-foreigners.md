@@ -80,7 +80,7 @@ before that change.
 ## What actually lets you drive here
 
 Malaysia does not require every visitor to sit a local test. Section 28 of
-the **Road Transport Act 1987** (Act 333) recognises a driving licence issued
+the **[Road Transport Act 1987](/law/road-transport-act-1987)** (Act 333) recognises a driving licence issued
 by a country that is party to a treaty with Malaysia on mutual recognition of
 domestic licences — in practice, this covers the Geneva Convention on Road
 Traffic 1949 and the Vienna Convention on Road Traffic 1968. The licence is

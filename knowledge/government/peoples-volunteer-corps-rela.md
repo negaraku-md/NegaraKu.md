@@ -80,7 +80,7 @@ If you have driven through a roadblock on the eve of a public holiday, queued at
 
 ## What RELA is
 
-RELA is a volunteer body: ordinary citizens who enrol, train and turn out to support official operations when called upon. According to the federal service portal, membership is open to Malaysian citizens aged 18 and above who are not already serving in the Armed Forces or another statutory force, enrolment runs for renewable five-year terms, and members are treated as public servants under the Penal Code (Act 574) while on duty. A **Director General**, appointed by the Minister from the public service, commands the corps. By headcount, RELA is one of Malaysia's largest volunteer organisations, with membership reported in the millions (see *verificationNeeded* for the current figure).
+RELA is a volunteer body: ordinary citizens who enrol, train and turn out to support official operations when called upon. According to the federal service portal, membership is open to Malaysian citizens aged 18 and above who are not already serving in the Armed Forces or another statutory force, enrolment runs for renewable five-year terms, and members are treated as public servants under the [Penal Code](/law/penal-code) (Act 574) while on duty. A **Director General**, appointed by the Minister from the public service, commands the corps. By headcount, RELA is one of Malaysia's largest volunteer organisations, with membership reported in the millions (see *verificationNeeded* for the current figure).
 
 ## Origins: from the Home Guard to Konfrontasi
 

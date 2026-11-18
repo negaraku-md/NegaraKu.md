@@ -37,7 +37,7 @@ faq:
     a: "Si une banque membre fait faillite, PIDM rembourse les déposants éligibles jusqu'à la limite de RM250,000. Si un assureur membre fait faillite, PIDM soit organise la continuité de votre couverture, soit verse les prestations protégées jusqu'à la limite applicable."
 
 lang: "fr"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -241,7 +241,7 @@ Le traitement des soins de santé est important : plutôt qu'un plafond en ringg
 Si un assureur membre fait faillite, les primes ou contributions prépayées peuvent également être remboursées :
 
 - Takaful/assurance **médicale et de santé** : 100% remboursé.
-- Polices relevant de la **Road Transport Act 1987** et de la **Workmen's Compensation Act 1952** : 100% remboursé.
+- Polices relevant de la **[Road Transport Act 1987](/fr/law/road-transport-act-1987)** et de la **Workmen's Compensation Act 1952** : 100% remboursé.
 - Autres polices : jusqu'à **RM500,000 par certificat ou police**.
 
 ### Comment les limites sont agrégées

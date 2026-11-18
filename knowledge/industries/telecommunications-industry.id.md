@@ -31,7 +31,7 @@ faq:
   - q: Apakah pasar telekomunikasi Malaysia masih tumbuh?
     a: Pertumbuhan pelanggan sebagian besar telah mendatar karena pasar nyaris jenuh. Pertumbuhan di masa depan diperkirakan berasal dari layanan bernilai lebih tinggi — 5G, peningkatan serat optik, konektivitas enterprise, dan layanan digital — ketimbang dari mendaftarkan sejumlah besar pengguna baru.
 lang: id
-sourceContentHash: "0a9dfcb348c124ab"
+sourceContentHash: "71058a53ca5ab530"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Penggelaran 5G Malaysia khas dan layak dipahami sebagai konteks bagi operator. A
 
 ## Regulator: MCMC dan Communications and Multimedia Act 1998
 
-Wasit sektor ini adalah **[Malaysian Communications and Multimedia Commission (MCMC)](/id/government/mcmc-communications-multimedia-commission/)**, yang beroperasi di bawah **Communications and Multimedia Act 1998 (CMA)**. CMA menciptakan kerangka "konvergensi" modern yang memperlakukan telekomunikasi, penyiaran, dan konten daring sebagai satu industri teregulasi ketimbang silo-silo terpisah, dan ia menggantikan undang-undang lama seperti Telecommunications Act 1950.
+Wasit sektor ini adalah **[Malaysian Communications and Multimedia Commission (MCMC)](/id/government/mcmc-communications-multimedia-commission/)**, yang beroperasi di bawah **[Communications and Multimedia Act 1998](/id/law/communications-and-multimedia-act-1998/) (CMA)**. CMA menciptakan kerangka "konvergensi" modern yang memperlakukan telekomunikasi, penyiaran, dan konten daring sebagai satu industri teregulasi ketimbang silo-silo terpisah, dan ia menggantikan undang-undang lama seperti Telecommunications Act 1950.
 
 Kewenangan MCMC luas. Ia menerbitkan **lisensi** (undang-undang ini menggunakan struktur berjenjang yang mencakup fasilitas jaringan, layanan jaringan, layanan aplikasi, dan konten), menegakkan aturan **persaingan** dan perlindungan konsumen, menetapkan **standar kualitas layanan**, mengelola **spektrum**, dan — penting bagi harga — menentukan **penetapan harga akses grosir**. Melalui **Mandatory Standard on Access Pricing (MSAP)**, MCMC membatasi tarif grosir yang dapat dikenakan pemilik jaringan seperti TM kepada pesaing untuk akses ke infrastruktur mereka; putaran MSAP 2018 dan 2023 dikreditkan atas mendorong turunnya harga serat optik eceran, meski tarif persis dan penerusannya kepada konsumen sebaiknya diperiksa terhadap penetapan MCMC terkini.
 

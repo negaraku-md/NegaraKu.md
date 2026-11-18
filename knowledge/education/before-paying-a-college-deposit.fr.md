@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -207,7 +207,7 @@ Lisez donc la clause de remboursement et de retrait dans la lettre d'offre
 calendrier, et conservez chaque document.
 
 Si le marketing d'un établissement était trompeur, ou qu'une clause est
-grossièrement déséquilibrée, le **Consumer Protection Act 1999 (Act 599)** — qui
+grossièrement déséquilibrée, le **[Consumer Protection Act 1999](/fr/law/consumer-protection-act/) (Act 599)** — qui
 couvre les comportements trompeurs et les clauses contractuelles abusives —
 *peut* offrir une voie de recours, et la doctrine juridique soutient que les
 étudiants peuvent être des « consommateurs » en vertu de celui-ci. Mais c'est une

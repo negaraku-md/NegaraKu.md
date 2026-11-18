@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 
 status: "published"
 aiAssisted: true
@@ -241,7 +241,7 @@ TIPSは、適格給付を**給付ごとに最大RM500,000**まで保護し、医
 保険会員が破綻した場合、前払いの保険料または拠出金も払い戻される場合がある：
 
 - **医療および健康**に関するタカフル／保険：100%払い戻し。
-- **Road Transport Act 1987** および **Workmen's Compensation Act 1952** のもとでの保険契約：100%払い戻し。
+- **[Road Transport Act 1987](/ja/law/road-transport-act-1987)** および **Workmen's Compensation Act 1952** のもとでの保険契約：100%払い戻し。
 - その他の保険契約：**証書または保険契約ごとに最大RM500,000**まで。
 
 ### 限度額はどのように合算されるのか

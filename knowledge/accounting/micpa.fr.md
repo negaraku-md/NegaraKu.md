@@ -37,7 +37,7 @@ verificationNeeded:
   - "Confirmer les termes actuels de la reconnaissance mutuelle MICPA-CAANZ et si des changements de parcours ont pris effet depuis le renouvellement de 2016"
 
 lang: "fr"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ grandes économies.
 MICPA est le **cinquième organisme inscrit à la Quatrième Annexe** de la Companies
 Act 2016, de sorte que ses membres sont qualifiés pour agir comme secrétaires de
 société au titre de l'art. 235(2)(a) — au même titre que MAICSA, la MIA, le
-Malaysian Bar et les autres organismes approuvés. Comme pour tout organisme de la
+[Malaysian Bar](/fr/law/bar-council-malaysia) et les autres organismes approuvés. Comme pour tout organisme de la
 Quatrième Annexe, il s'agit d'une qualification : une personne doit encore obtenir
 un certificat d'exercice professionnel de l'art. 241 auprès de la SSM avant
 d'agir.

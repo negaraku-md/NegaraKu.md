@@ -34,7 +34,7 @@ faq:
     a: "Itu ialah penipuan pinjaman fi pendahuluan klasik. Berhenti membayar dengan serta-merta, hubungi Pusat Respons Scam Kebangsaan di 997 (ia boleh cuba membekukan akaun tempat wang itu pergi), semak nombor akaun atau nombor telefon pada Semak Mule di semakmule.rmp.gov.my, dan buat laporan polis. Seorang pemberi pinjaman berlesen yang sah tidak pernah mengenakan fi sebelum mengeluarkan sesuatu pinjaman."
 
 lang: "ms"
-sourceContentHash: "ab121346e7722ba5"
+sourceContentHash: "8cd8a52f85fb12de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Jangan sekali-kali mengambil kata-kata seorang pemberi pinjaman bulat-bulat. KPK
 
 ## Pemberi pinjaman berlesen berbanding "Ah Long"
 
-Seorang **Ah Long** ialah pemberi pinjaman wang haram yang tidak berlesen — seorang along. Perbezaannya bukan kosmetik: berurusan dalam pemberian pinjaman wang haram ialah jenayah, dan pinjaman itu tidak boleh dikuatkuasakan. Along mengenakan faedah jauh melebihi had berkanun dan menguatkuasakannya melalui ugutan yang terdokumen dengan baik di Malaysia — menyimbah cat merah pada rumah dan kereta, menggantung sepanduk yang memalukan, ancaman bakar, dan mengganggu bukan sahaja peminjam tetapi saudara-mara dan rakan sekerja yang tidak pernah mengambil pinjaman itu. Perbuatan ini ialah kesalahan di bawah Akta Pemberi Pinjaman Wang dan Kanun Keseksaan. Pemberi pinjaman berlesen, sebaliknya, dilarang daripada kelakuan ini dan daripada melawat anda untuk mengutip.
+Seorang **Ah Long** ialah pemberi pinjaman wang haram yang tidak berlesen — seorang along. Perbezaannya bukan kosmetik: berurusan dalam pemberian pinjaman wang haram ialah jenayah, dan pinjaman itu tidak boleh dikuatkuasakan. Along mengenakan faedah jauh melebihi had berkanun dan menguatkuasakannya melalui ugutan yang terdokumen dengan baik di Malaysia — menyimbah cat merah pada rumah dan kereta, menggantung sepanduk yang memalukan, ancaman bakar, dan mengganggu bukan sahaja peminjam tetapi saudara-mara dan rakan sekerja yang tidak pernah mengambil pinjaman itu. Perbuatan ini ialah kesalahan di bawah Akta Pemberi Pinjaman Wang dan [Kanun Keseksaan](/law/penal-code). Pemberi pinjaman berlesen, sebaliknya, dilarang daripada kelakuan ini dan daripada melawat anda untuk mengutip.
 
 Satu saluran yang berkaitan dan dilesenkan secara berasingan ialah **pajak gadai** di bawah **Akta Pemegang Pajak Gadai 1972** (setaraf Islamnya, **Ar-Rahnu**, mengenakan fi penyimpanan selamat dan bukannya faedah) — pinjaman jangka pendek terhadap barang yang dicagarkan seperti emas. Ia pilihan sah yang berbaloi diketahui, walaupun ditadbir oleh peraturannya sendiri.
 

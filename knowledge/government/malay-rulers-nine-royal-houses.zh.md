@@ -31,7 +31,7 @@ faq:
     a: "针对统治者以其个人身份提起的诉讼，只能在根据第182条设立的特别法庭（Mahkamah Khas）进行，并须取得总检察长（Peguam Negara）的同意。"
 
 lang: "zh"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ framework: explainer
 
 ## 统治者在其州内扮演什么角色？
 
-在其州属的疆界之内，一位统治者肩负三项主要地位：州元首、该州伊斯兰教领袖，以及马来礼俗（adat istiadat Melayu）的守护者。根据马来西亚律师公会（Majlis Peguam Malaysia），州属统治者依据《联邦宪法》第71条与第181(1)条以立宪君主的身份行事——其权力由法律界定与限制，并非绝对。
+在其州属的疆界之内，一位统治者肩负三项主要地位：州元首、该州伊斯兰教领袖，以及马来礼俗（adat istiadat Melayu）的守护者。根据[马来西亚律师公会](/zh/law/bar-council-malaysia)（Majlis Peguam Malaysia），州属统治者依据《联邦宪法》第71条与第181(1)条以立宪君主的身份行事——其权力由法律界定与限制，并非绝对。
 
 在大多数施政事务上，统治者须依据州行政议会（Majlis Mesyuarat Kerajaan）的建议行事。第八附表的条文规定，除了赋予其酌情权的事项外，统治者须依据行政议会的建议行事。
 

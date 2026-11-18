@@ -31,7 +31,7 @@ faq:
   - q: Apa itu industri konten kreatif dan animasi Malaysia?
     a: Ini adalah bisnis memproduksi film, program televisi, animasi, musik, dan gim — kian lama untuk ekspor sekaligus pasar domestik. Animasi Malaysia khususnya telah sukses internasional, contoh paling dikenal adalah serial anak-anak Upin & Ipin, diproduksi oleh Les' Copaque. Pemerintah mendukung sektor ini melalui dana dan badan seperti MyCreative Ventures dan FINAS.
 lang: id
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Untuk menyemai lebih banyak dari ini, pembuat kebijakan bersandar pada pendanaan
 
 ## Regulasi: CMA 1998, MCMC, dan FINAS
 
-Media dan penyiaran di Malaysia berada di bawah kerangka regulasi konvergen yang dibangun di sekitar **Communications and Multimedia Act 1998 (CMA)**. Undang-undang ini membawa telekomunikasi, penyiaran, dan konten daring di bawah satu atap, dikelola oleh **[Malaysian Communications and Multimedia Commission (MCMC)](/id/government/mcmc-communications-multimedia-commission/)**.
+Media dan penyiaran di Malaysia berada di bawah kerangka regulasi konvergen yang dibangun di sekitar **[Communications and Multimedia Act 1998](/id/law/communications-and-multimedia-act-1998/) (CMA)**. Undang-undang ini membawa telekomunikasi, penyiaran, dan konten daring di bawah satu atap, dikelola oleh **[Malaysian Communications and Multimedia Commission (MCMC)](/id/government/mcmc-communications-multimedia-commission/)**.
 
 Dalam praktiknya ini berarti:
 

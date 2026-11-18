@@ -31,7 +31,7 @@ faq:
     a: "Ya — ia lebih daripada sekadar penamaan semula. Akta A1738 dan Peraturan (Pindaan) 2025, yang berkuat kuasa mulai 1 Januari 2026, menggantikan 'KLRCA' dengan 'AIAC', mengetatkan garis masa adjudikasi supaya lanjutan kini memerlukan persetujuan kedua-dua pihak dan adjudikator, memperkenalkan keperluan notis bayaran yang dipertingkatkan dan borang yang ditetapkan, memperluas definisi utama untuk mengurangkan pertikaian bidang kuasa, dan mengukuhkan laluan penguatkuasaan. Rangka kerja teras keputusan 45 hari bekerja kekal, tetapi prosedur di sekelilingnya telah berubah, jadi gunakan borang AIAC semasa."
 
 lang: "ms"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Seorang subkontraktor yang tidak dibayar selama enam bulan tidak perlu menunggu 
 
 Akta Pembayaran dan Adjudikasi Industri Pembinaan 2012 mewujudkan suatu proses adjudikasi berkanun untuk menyelesaikan pertikaian bayaran dengan pantas, sebagai alternatif kepada laluan timbang tara atau litigasi yang lebih lambat dan lebih mahal. Ia terpakai kepada kontrak pembinaan yang dibuat secara bertulis dan dilaksanakan di Malaysia, dan ia tidak boleh dikecualikan melalui kontrak.
 
-Adjudikasi ditadbir oleh Pusat Timbang Tara Antarabangsa Asia (AIAC) — badan yang dahulunya dikenali sebagai Pusat Serantau Kuala Lumpur bagi Timbang Tara (KLRCA).
+Adjudikasi ditadbir oleh [Pusat Timbang Tara Antarabangsa Asia](/law/arbitration-and-dispute-resolution) (AIAC) — badan yang dahulunya dikenali sebagai Pusat Serantau Kuala Lumpur bagi Timbang Tara (KLRCA).
 
 ## Bagaimana proses ini berjalan, langkah demi langkah?
 

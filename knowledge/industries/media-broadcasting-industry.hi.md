@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया का क्रिएटिव-कंटेंट एवं एनिमेशन उद्योग क्या है?
     a: यह फ़िल्में, टेलीविज़न कार्यक्रम, एनिमेशन, संगीत और गेम बनाने का व्यवसाय है — जो घरेलू बाज़ार के साथ-साथ निर्यात के लिए भी बढ़ता जा रहा है। मलेशियाई एनिमेशन को विशेष रूप से अंतरराष्ट्रीय सफलता मिली है, जिसका सबसे प्रसिद्ध उदाहरण है बच्चों की शृंखला Upin & Ipin, जिसे Les' Copaque ने बनाया। सरकार MyCreative Ventures और FINAS जैसे कोषों और एजेंसियों के माध्यम से इस क्षेत्र का समर्थन करती है।
 lang: hi
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ framework: profile
 
 ## विनियमन: CMA 1998, MCMC और FINAS
 
-मलेशिया में मीडिया एवं प्रसारण **Communications and Multimedia Act 1998 (CMA)** के इर्द-गिर्द बने एक अभिसारी नियामक ढाँचे के अंतर्गत बैठते हैं। इस अधिनियम ने दूरसंचार, प्रसारण और ऑनलाइन कंटेंट को एक छत के नीचे ले आया, जिसका प्रशासन **[मलेशियाई संचार एवं मल्टीमीडिया आयोग (MCMC)](/hi/government/mcmc-communications-multimedia-commission/)** करता है।
+मलेशिया में मीडिया एवं प्रसारण **[Communications and Multimedia Act 1998](/hi/law/communications-and-multimedia-act-1998/) (CMA)** के इर्द-गिर्द बने एक अभिसारी नियामक ढाँचे के अंतर्गत बैठते हैं। इस अधिनियम ने दूरसंचार, प्रसारण और ऑनलाइन कंटेंट को एक छत के नीचे ले आया, जिसका प्रशासन **[मलेशियाई संचार एवं मल्टीमीडिया आयोग (MCMC)](/hi/government/mcmc-communications-multimedia-commission/)** करता है।
 
 व्यवहार में इसका अर्थ है:
 

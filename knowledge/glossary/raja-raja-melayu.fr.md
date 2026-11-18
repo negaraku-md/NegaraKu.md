@@ -29,7 +29,7 @@ faq:
     a: "La Conférence des Gouvernants est consacrée par l'article 38 de la Constitution fédérale, ses fonctions et procédures étant détaillées dans le Cinquième Annexe."
 
 lang: "fr"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ La Conférence des Gouvernants exerce plusieurs fonctions constitutionnelles que
 - **Nominations.** Conseiller sur certaines nominations requérant l'accord de la Conférence, ainsi que nommer les membres de la Cour spéciale au titre de l'article 182 et les représentants auprès d'organes tels que le Conseil des forces armées et le Conseil d'administration du [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka).
 - **Pouvoir de grâce.** Accorder des grâces, des sursis et des remises de peine dans certains cas.
 
-Selon les archives du Barreau de Malaisie, la Constitution prévoit également le pouvoir de destituer le Yang di-Pertuan Agong au titre de l'article 38(6) — un pouvoir qui, selon ces archives, n'a jamais été utilisé.
+Selon les archives du [Barreau de Malaisie](/fr/law/bar-council-malaysia), la Constitution prévoit également le pouvoir de destituer le Yang di-Pertuan Agong au titre de l'article 38(6) — un pouvoir qui, selon ces archives, n'a jamais été utilisé.
 
 ## Comment fonctionne la Conférence ?
 

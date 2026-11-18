@@ -37,7 +37,7 @@ faq:
     a: "회원 은행이 파산하면 PIDM은 적격 예금자에게 RM250,000 한도까지 상환합니다. 보험사 회원이 파산하면 PIDM은 여러분의 보장 연속성을 마련하거나 적용 한도까지 보호 혜택을 지급합니다."
 
 lang: "ko"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -241,7 +241,7 @@ TIPS는 적격 혜택을 **혜택당 RM500,000까지** 보호하며, 의료는 �
 보험사 회원이 파산하면, 선납 보험료나 기여금도 환급될 수 있습니다:
 
 - **의료 및 건강** 타카풀/보험: 100% 환급.
-- **1987년 도로교통법(Road Transport Act 1987)** 및 **1952년 근로자보상법(Workmen's Compensation Act 1952)**에 따른 보험: 100% 환급.
+- **[1987년 도로교통법(Road Transport Act 1987)](/ko/law/road-transport-act-1987)** 및 **1952년 근로자보상법(Workmen's Compensation Act 1952)**에 따른 보험: 100% 환급.
 - 기타 보험: **증서 또는 보험당 최대 RM500,000**.
 
 ### 한도는 어떻게 합산됩니까

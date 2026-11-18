@@ -29,7 +29,7 @@ faq:
     a: "Majlis Raja-Raja diatur dalam Pasal 38 Konstitusi Federal, dengan fungsi dan tata caranya diperinci dalam Jadual Kelima."
 
 lang: "id"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Majlis Raja-Raja memikul beberapa fungsi konstitusional yang tidak dipegang oleh
 - **Pengangkatan.** Menasihati mengenai pengangkatan tertentu yang memerlukan persetujuan Majlis, serta mengangkat anggota Mahkamah Khas di bawah Pasal 182 dan wakil ke badan seperti Majlis Angkatan Tentera dan Lembaga Pengelola [Dewan Bahasa dan Pustaka](/id/arts-culture/dewan-bahasa-dan-pustaka).
 - **Kuasa pengampunan.** Memberi ampun, remisi, dan pengurangan hukuman dalam hal-hal tertentu.
 
-Menurut catatan Majelis Pengacara Malaysia, Konstitusi turut mengatur kuasa memberhentikan Yang di-Pertuan Agong di bawah Pasal 38(6) — suatu kuasa yang, menurut catatan itu, tidak pernah digunakan.
+Menurut catatan [Majelis Pengacara Malaysia](/id/law/bar-council-malaysia), Konstitusi turut mengatur kuasa memberhentikan Yang di-Pertuan Agong di bawah Pasal 38(6) — suatu kuasa yang, menurut catatan itu, tidak pernah digunakan.
 
 ## Bagaimana Majlis beroperasi?
 

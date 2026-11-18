@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile o arriende una propiedad residencial en Malasia: inquilinos que firman su primer contrato de arrendamiento, y arrendadores que lo redactan, en Malasia Peninsular, Sabah o Sarawak."
 
 lang: "es"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ La **Ley de Contratos de 1950 (Contracts Act 1950)** es la capa base: un contrat
 
 - La **Ley de Reparación Específica de 1950 (Specific Relief Act 1950)** rige lo que ocurre cuando un inquilino no se va una vez terminado el arrendamiento.
 - La **Ley de Embargo de 1951 (Distress Act 1951)** da al arrendador una vía judicial para recuperar el alquiler impago.
-- La **Ley de Derecho Civil de 1956 (Civil Law Act 1956)** y el procedimiento civil ordinario manejan de forma más general las disputas sobre dinero y daños.
+- La **[Ley de Derecho Civil de 1956 (Civil Law Act 1956)](/es/law/common-law-in-malaysia)** y el procedimiento civil ordinario manejan de forma más general las disputas sobre dinero y daños.
 
 Ninguna de estas se redactó en torno al alquiler moderno. Se construyeron para disputas de propiedad y contractuales en sentido amplio, y los tribunales las aplican a los arrendamientos por extensión. La consecuencia práctica: los derechos que existen por defecto en una jurisdicción con una ley de arrendamiento —un plazo mínimo de preaviso, un límite a los depósitos, un tribunal legal de disputas— en su mayoría no existen aquí salvo que el propio contrato los cree.
 

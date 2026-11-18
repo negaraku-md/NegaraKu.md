@@ -75,7 +75,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-Every road tax paid, number plate issued, and driving licence carried in Malaysia passes through one agency: the **Road Transport Department** — *Jabatan Pengangkutan Jalan*, known everywhere by its initials **JPJ**. It operates under the Land Division of the **Ministry of Transport** and is the department responsible for registering vehicles, issuing driving licences and vehicle number plates, and enforcing the Road Transport Act 1987 to ensure prudent drivers and safe vehicles.
+Every road tax paid, number plate issued, and driving licence carried in Malaysia passes through one agency: the **Road Transport Department** — *Jabatan Pengangkutan Jalan*, known everywhere by its initials **JPJ**. It operates under the Land Division of the **Ministry of Transport** and is the department responsible for registering vehicles, issuing driving licences and vehicle number plates, and enforcing the [Road Transport Act 1987](/law/road-transport-act-1987) to ensure prudent drivers and safe vehicles.
 
 ## What does JPJ actually do?
 

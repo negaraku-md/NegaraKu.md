@@ -58,7 +58,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e2e61d0597cf5908"
+sourceContentHash: "f170a55480255720"
 
 status: "published"
 aiAssisted: true
@@ -141,7 +141,7 @@ s.235(2)(a) 使该 Act 的 Fourth Schedule（第四附表）所列任何团体�
 
 1. 马来西亚特许秘书及行政人员公会（MAICSA）
 2. 马来西亚会计师公会（MIA）
-3. 马来西亚律师公会
+3. [马来西亚律师公会](/zh/law/bar-council-malaysia)
 4. 马来西亚公司秘书协会（MACS）
 5. 马来西亚注册会计师公会（MICPA）
 6. Sabah Law Society

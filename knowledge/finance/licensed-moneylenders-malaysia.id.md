@@ -34,7 +34,7 @@ faq:
     a: "Itu adalah penipuan pinjaman biaya di muka yang klasik. Hentikan pembayaran segera, hubungi Pusat Respons Penipuan Nasional (National Scam Response Centre) di 997 (ia dapat mencoba membekukan rekening tujuan uang itu), periksa nomor rekening atau nomor telepon di Semak Mule pada semakmule.rmp.gov.my, dan buat laporan polisi. Pemberi pinjaman berlisensi yang sah tidak pernah memungut biaya sebelum mencairkan sebuah pinjaman."
 
 lang: "id"
-sourceContentHash: "ab121346e7722ba5"
+sourceContentHash: "8cd8a52f85fb12de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Jangan pernah percaya begitu saja kata pemberi pinjaman. KPKT menjalankan alat v
 
 ## Pemberi pinjaman berlisensi vs. "Ah Long"
 
-Seorang **Ah Long** adalah pemberi pinjaman uang tak berlisensi dan ilegal — seorang rentenir (loan shark). Perbedaannya bukan sekadar kosmetik: berurusan dalam pemberian pinjaman uang ilegal adalah kejahatan, dan pinjamannya tidak dapat ditegakkan. Rentenir memungut bunga jauh di atas batas statutori dan menegakkannya melalui intimidasi yang terdokumentasi baik di Malaysia — menyiram cat merah pada rumah dan mobil, menggantung spanduk yang mempermalukan, ancaman pembakaran, dan melecehkan bukan hanya peminjam tetapi juga kerabat dan rekan kerja yang tidak pernah mengambil pinjaman itu. Tindakan-tindakan ini adalah tindak pidana di bawah Moneylenders Act dan Kanun Keseksaan (Penal Code). Pemberi pinjaman berlisensi, sebaliknya, dilarang dari perilaku ini dan dari mendatangi Anda untuk menagih.
+Seorang **Ah Long** adalah pemberi pinjaman uang tak berlisensi dan ilegal — seorang rentenir (loan shark). Perbedaannya bukan sekadar kosmetik: berurusan dalam pemberian pinjaman uang ilegal adalah kejahatan, dan pinjamannya tidak dapat ditegakkan. Rentenir memungut bunga jauh di atas batas statutori dan menegakkannya melalui intimidasi yang terdokumentasi baik di Malaysia — menyiram cat merah pada rumah dan mobil, menggantung spanduk yang mempermalukan, ancaman pembakaran, dan melecehkan bukan hanya peminjam tetapi juga kerabat dan rekan kerja yang tidak pernah mengambil pinjaman itu. Tindakan-tindakan ini adalah tindak pidana di bawah Moneylenders Act dan [Kanun Keseksaan (Penal Code)](/id/law/penal-code). Pemberi pinjaman berlisensi, sebaliknya, dilarang dari perilaku ini dan dari mendatangi Anda untuk menagih.
 
 Sebuah saluran terkait yang dilisensikan secara terpisah adalah **gadai (pawnbroking)** di bawah **Pawnbrokers Act 1972** (padanan Islamnya, **Ar-Rahnu**, memungut biaya penyimpanan alih-alih bunga) — pinjaman jangka pendek atas barang yang digadaikan seperti emas. Ini adalah pilihan sah yang layak diketahui, meski diatur oleh aturannya sendiri.
 

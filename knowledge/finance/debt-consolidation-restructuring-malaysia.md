@@ -125,7 +125,7 @@ Companies have their own channels:
 
 ## When restructuring is not enough
 
-If voluntary routes cannot resolve the debt, formal, court-supervised options remain: for individuals, a **Voluntary Arrangement** under the Insolvency Act 1967 as an alternative to bankruptcy; for companies, a **Scheme of Arrangement** or **Judicial Management** under the Companies Act 2016. These are last resorts, but they exist.
+If voluntary routes cannot resolve the debt, formal, court-supervised options remain: for individuals, a **Voluntary Arrangement** under the [Insolvency Act 1967](/law/insolvency-and-bankruptcy-law/) as an alternative to bankruptcy; for companies, a **Scheme of Arrangement** or **Judicial Management** under the Companies Act 2016. These are last resorts, but they exist.
 
 ## What's next
 

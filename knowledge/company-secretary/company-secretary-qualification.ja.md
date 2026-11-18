@@ -58,7 +58,7 @@ obligations:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e2e61d0597cf5908"
+sourceContentHash: "f170a55480255720"
 
 status: "published"
 aiAssisted: true
@@ -144,7 +144,7 @@ s.235(2)(a)は、同法のFourth Schedule（第四付表）に掲げるいずれ
 
 1. マレーシア勅許秘書役・管理者協会（Malaysian Institute of Chartered Secretaries and Administrators、MAICSA）
 2. マレーシア会計士協会（Malaysian Institute of Accountants、MIA）
-3. マレーシア弁護士会（Malaysian Bar）
+3. [マレーシア弁護士会（Malaysian Bar）](/ja/law/bar-council-malaysia)
 4. マレーシア会社秘書役協会（Malaysian Association of Company Secretaries、MACS）
 5. マレーシア公認会計士協会（Malaysian Institute of Certified Public Accountants、MICPA）
 6. Sabah Law Society

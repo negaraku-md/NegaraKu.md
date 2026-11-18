@@ -37,7 +37,7 @@ verificationNeeded:
   - "Confirm the Gazette notification reference by which MAICSA was prescribed as an approved body, and whether any terms or conditions were imposed under s.235(3)"
 
 lang: "fr"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ La Quatrième Annexe énumère sept organismes au total :
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/fr/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

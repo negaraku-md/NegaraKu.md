@@ -29,7 +29,7 @@ faq:
     a: "Pasal 38(6) memberi Majlis Raja-Raja kuasa untuk memberhentikan Agong. Menurut ulasan hukum, kuasa ini tidak pernah digunakan sepanjang sejarah negara."
 
 lang: "id"
-sourceContentHash: "f2d2c6ec105b4198"
+sourceContentHash: "6be5b5f761ae3438"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ Selain memilih Yang di-Pertuan Agong dan Timbalan Yang di-Pertuan Agong, Majlis 
 
 - **Kuasa memberhentikan.** Pasal 38(6) memberi Majlis kuasa untuk memberhentikan Yang di-Pertuan Agong dari jabatan. Menurut ulasan hukum, kuasa ini tidak pernah digunakan.
 - **Perkenan atas undang-undang tertentu.** Undang-undang yang secara langsung menyentuh keistimewaan, kedudukan, kehormatan, atau kemuliaan Raja-Raja memerlukan perkenan Majlis (Pasal 38(4)).
-- **Amandemen konstitusi tertentu.** Beberapa amandemen tidak dapat disahkan tanpa persetujuan Majlis Raja-Raja di bawah Pasal 159(5). Menurut ulasan Majlis Peguam Malaysia, ini termasuk amandemen yang menyentuh kedudukan Raja-Raja (Pasal 38(4)), hak-hak kedaulatan dan pewarisan Raja-Raja (Pasal 71), kedudukan bahasa Melayu (Pasal 152), serta kedudukan istimewa orang Melayu dan Bumiputera (Pasal 153); daftar lengkap dalam Pasal 159(5) juga mencakup beberapa ketentuan lain.
+- **Amandemen konstitusi tertentu.** Beberapa amandemen tidak dapat disahkan tanpa persetujuan Majlis Raja-Raja di bawah Pasal 159(5). Menurut ulasan [Majlis Peguam Malaysia](/id/law/bar-council-malaysia), ini termasuk amandemen yang menyentuh kedudukan Raja-Raja (Pasal 38(4)), hak-hak kedaulatan dan pewarisan Raja-Raja (Pasal 71), kedudukan bahasa Melayu (Pasal 152), serta kedudukan istimewa orang Melayu dan Bumiputera (Pasal 153); daftar lengkap dalam Pasal 159(5) juga mencakup beberapa ketentuan lain.
 - **Konsultasi.** Majlis dirujuk sehubungan dengan pengangkatan tertentu seperti hakim pengadilan atasan, Ketua Audit Negara, serta anggota komisi tertentu.
 - **Pembahasan kebijakan negara.** Majlis dapat menimbang kebijakan negara dan perkara terkait agama Islam serta kedudukan orang Melayu.
 - **Mahkamah Khas.** Ketika Raja atau Yang di-Pertuan Agong menghadapi proses di bawah Pasal 182, proses itu dibawa ke Mahkamah Khas yang beranggotakan lima hakim; menurut ulasan Majlis Peguam Malaysia, dua di antaranya dinominasikan oleh Majlis Raja-Raja.

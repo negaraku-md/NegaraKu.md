@@ -29,7 +29,7 @@ faq:
     a: "Article 38(6) gives the Conference of Rulers the power to remove the Agong. According to legal commentary, this power has never been used throughout the country's history."
 
 lang: "en"
-sourceContentHash: "f2d2c6ec105b4198"
+sourceContentHash: "6be5b5f761ae3438"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ In addition to electing the Yang di-Pertuan Agong and the Deputy Yang di-Pertuan
 
 - **Power of removal.** Article 38(6) gives the Conference the power to remove the Yang di-Pertuan Agong from office. According to legal commentary, this power has never been used.
 - **Consent to certain laws.** Laws that directly touch on the privileges, position, honour, or dignity of the Rulers require the consent of the Conference (Article 38(4)).
-- **Certain constitutional amendments.** Some amendments cannot be passed without the consent of the Conference of Rulers under Article 159(5). According to the commentary of the Malaysian Bar, these include amendments touching on the position of the Rulers (Article 38(4)), the sovereign rights and succession of the Rulers (Article 71), the position of the Malay language (Article 152), and the special position of the Malays and the natives (Article 153); the full list in Article 159(5) also encompasses several other provisions.
+- **Certain constitutional amendments.** Some amendments cannot be passed without the consent of the Conference of Rulers under Article 159(5). According to the commentary of the [Malaysian Bar](/en/law/bar-council-malaysia), these include amendments touching on the position of the Rulers (Article 38(4)), the sovereign rights and succession of the Rulers (Article 71), the position of the Malay language (Article 152), and the special position of the Malays and the natives (Article 153); the full list in Article 159(5) also encompasses several other provisions.
 - **Consultation.** The Conference is consulted regarding certain appointments such as judges of the superior courts, the Auditor General, and members of certain commissions.
 - **Deliberation on national policy.** The Conference may consider national policy and matters relating to the religion of Islam and the position of the Malays.
 - **Special Court.** When a Ruler or the Yang di-Pertuan Agong faces proceedings under Article 182, those proceedings are brought before a Special Court composed of five judges; according to the commentary of the Malaysian Bar, two of them are named by the Conference of Rulers.

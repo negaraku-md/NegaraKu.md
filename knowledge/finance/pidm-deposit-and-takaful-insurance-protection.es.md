@@ -37,7 +37,7 @@ faq:
     a: "Si un banco miembro quiebra, PIDM reembolsa a los depositantes elegibles hasta el límite de RM250,000. Si una aseguradora miembro quiebra, PIDM o bien gestiona la continuidad de su cobertura, o bien paga los beneficios protegidos hasta el límite aplicable."
 
 lang: "es"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -241,7 +241,7 @@ El tratamiento de la atención sanitaria es importante: en lugar de un tope en r
 Si una aseguradora miembro quiebra, las primas o contribuciones prepagadas también pueden reembolsarse:
 
 - Takaful/seguro **médico y de salud**: 100% reembolsado.
-- Pólizas bajo la **Road Transport Act 1987** y la **Workmen's Compensation Act 1952**: 100% reembolsado.
+- Pólizas bajo la **[Road Transport Act 1987](/es/law/road-transport-act-1987)** y la **Workmen's Compensation Act 1952**: 100% reembolsado.
 - Otras pólizas: hasta **RM500,000 por certificado o póliza**.
 
 ### Cómo se agregan los límites

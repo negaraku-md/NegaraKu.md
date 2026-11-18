@@ -31,7 +31,7 @@ faq:
   - q: "小公司真的需要核数师吗？"
     a: "并非总是需要。SSM 容许某些休眠、零营收以及符合门槛的私人公司豁免委任核数师。如果你的公司符合资格，你或许根本不需要审计服务——只需要秘书、记账与报税。在聘用审计事务所之前，请先查核现行的审计豁免准则。"
 lang: "zh"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ framework: decision
 
 | 服务 | 它涵盖什么 | 谁可以合法提供 |
 |---|---|---|
-| **公司秘书** | 法定呈报、登记册、董事部与 SSM 合规 | 一名向 SSM 注册、持有 **Companies Act 2016 s.241** 下执业证书的人士——为指定团体（MAICSA、MACS、MIA、Malaysian Bar）的会员，或依 SSM Act 2001 s.20G 获发照 |
+| **公司秘书** | 法定呈报、登记册、董事部与 SSM 合规 | 一名向 SSM 注册、持有 **Companies Act 2016 s.241** 下执业证书的人士——为指定团体（MAICSA、MACS、MIA、[Malaysian Bar](/zh/law/bar-council-malaysia)）的会员，或依 SSM Act 2001 s.20G 获发照 |
 | **会计／记账** | 日常账目、管理账与法定账 | 依 Accountants Act 1967、持有执业证书、可执行公共执业的**马来西亚会计师公会（MIA）**会员 |
 | **审计** | 对财务报表的独立审计 | **Companies Act 2016 s.263** 下、经财政部长批准的**核准公司核数师**；上市与涉及公众利益的实体，另受 Audit Oversight Board 监督 |
 | **税务代理** | 税务计算、呈报，以及代表你与 LHDN 交涉 | 依 **Income Tax Act 1967 s.153** 获批准并列于 LHDN 名单上的税务代理 |

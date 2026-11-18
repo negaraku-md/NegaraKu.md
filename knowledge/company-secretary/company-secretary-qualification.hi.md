@@ -56,7 +56,7 @@ obligations:
     consequence: "Fine not exceeding RM10,000 on conviction"
 
 lang: "hi"
-sourceContentHash: "e2e61d0597cf5908"
+sourceContentHash: "f170a55480255720"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ Companies Act 2016 की धारा 235(1) एक ऐसा आधार न�
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/hi/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

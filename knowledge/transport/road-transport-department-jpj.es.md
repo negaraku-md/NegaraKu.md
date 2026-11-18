@@ -25,7 +25,7 @@ faq:
   - q: "¿Qué es el e-LKM?"
     a: "El e-LKM es la Licencia de Vehículo de Motor digital (impuesto de circulación digital) que el JPJ introdujo a partir de 2023, en sustitución de la pegatina física. Es accesible a través de la app MyJPJ o el portal MySIKAP."
 lang: "es"
-sourceContentHash: "f6e325f951c4e130"
+sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,7 +76,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-Cada impuesto de circulación pagado, cada matrícula expedida y cada licencia de conducir que se lleva en Malasia pasa por una sola agencia: el **Departamento de Transporte por Carretera** —*Jabatan Pengangkutan Jalan*, conocido en todas partes por sus siglas **JPJ**—. Opera bajo la División Terrestre del **Ministerio de Transporte** y es el departamento responsable de matricular vehículos, expedir licencias de conducir y matrículas, y hacer cumplir la Ley de Transporte por Carretera de 1987 para garantizar conductores prudentes y vehículos seguros.
+Cada impuesto de circulación pagado, cada matrícula expedida y cada licencia de conducir que se lleva en Malasia pasa por una sola agencia: el **Departamento de Transporte por Carretera** —*Jabatan Pengangkutan Jalan*, conocido en todas partes por sus siglas **JPJ**—. Opera bajo la División Terrestre del **Ministerio de Transporte** y es el departamento responsable de matricular vehículos, expedir licencias de conducir y matrículas, y hacer cumplir la [Ley de Transporte por Carretera de 1987](/es/law/road-transport-act-1987) para garantizar conductores prudentes y vehículos seguros.
 
 ## ¿Qué hace realmente el JPJ?
 

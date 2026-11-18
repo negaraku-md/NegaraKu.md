@@ -31,7 +31,7 @@ faq:
     a: "Las actuaciones contra un Gobernante a título personal solo pueden interponerse ante el Tribunal Especial establecido en virtud del Artículo 182, y están sujetas al consentimiento del Fiscal General."
 
 lang: "es"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ El Artículo 70 de la Constitución Federal dispone que, con sujeción a la prec
 
 ## ¿Cuál es la función de un Gobernante dentro de su estado?
 
-Dentro de los límites de su estado, un Gobernante ocupa tres posiciones principales: jefe del estado, jefe de la religión islámica para ese estado y guardián de la costumbre y la ceremonia malayas. Según el Colegio de Abogados de Malasia, un Gobernante estatal actúa como monarca constitucional en virtud de los Artículos 71 y 181(1) de la Constitución Federal — sus poderes están definidos y limitados por la ley, no son absolutos.
+Dentro de los límites de su estado, un Gobernante ocupa tres posiciones principales: jefe del estado, jefe de la religión islámica para ese estado y guardián de la costumbre y la ceremonia malayas. Según el [Colegio de Abogados de Malasia](/es/law/bar-council-malaysia), un Gobernante estatal actúa como monarca constitucional en virtud de los Artículos 71 y 181(1) de la Constitución Federal — sus poderes están definidos y limitados por la ley, no son absolutos.
 
 En la mayoría de los asuntos de gobierno, el Gobernante actúa siguiendo el consejo del Consejo Ejecutivo del Estado. Las disposiciones del Octavo Anexo establecen que el Gobernante actuará de conformidad con el consejo del Consejo Ejecutivo, salvo en los asuntos respecto de los cuales se le otorga discreción.
 

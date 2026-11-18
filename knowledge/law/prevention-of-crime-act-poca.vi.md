@@ -30,7 +30,7 @@ faq:
     a: "Ủy ban Phòng chống Tội phạm — một cơ quan do một cá nhân có đủ tư cách pháp luật chủ trì và do chính phủ bổ nhiệm — chứ không phải tòa án. Ủy ban hành động dựa trên báo cáo của Cán bộ Điều tra do Bộ trưởng bổ nhiệm."
 
 lang: "vi"
-sourceContentHash: "a6b06f9b9fdb4839"
+sourceContentHash: "3dd3f7fe93ce0398"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ Có các quan điểm khác nhau về sửa đổi này, và bài viết này tr
 
 **Quan điểm của chính phủ và những người ủng hộ.** Chính phủ bảo vệ POCA như một công cụ cần thiết để xử lý tội phạm có tổ chức, băng nhóm, cùng các đường dây buôn ma túy và buôn người khó truy tố qua xét xử thông thường vì nhân chứng không muốn ra mặt.
 
-**Quan điểm của những người chỉ trích.** Hội đồng Luật sư Malaysia, qua tuyên bố đề ngày 3 Oktober 2013, nêu một số quan ngại. Chủ tịch của họ khi đó, Christopher Leong, lập luận rằng sửa đổi cho phép tạm giữ dựa trên "niềm tin hoặc sự nghi ngờ" chứ không phải tội danh đã được chứng minh. Hội đồng Luật sư cũng mô tả Ủy ban là phụ thuộc hoàn toàn vào báo cáo của Cán bộ Điều tra mà không có quyền điều tra độc lập. Human Rights Watch thì gộp POCA cùng SOSMA và POTA là các luật mà, theo quan điểm của họ, cho phép tạm giữ không qua xét xử và các hạn chế nặng nề mà không có việc xem xét tư pháp.
+**Quan điểm của những người chỉ trích.** [Hội đồng Luật sư Malaysia](/vi/law/bar-council-malaysia), qua tuyên bố đề ngày 3 Oktober 2013, nêu một số quan ngại. Chủ tịch của họ khi đó, Christopher Leong, lập luận rằng sửa đổi cho phép tạm giữ dựa trên "niềm tin hoặc sự nghi ngờ" chứ không phải tội danh đã được chứng minh. Hội đồng Luật sư cũng mô tả Ủy ban là phụ thuộc hoàn toàn vào báo cáo của Cán bộ Điều tra mà không có quyền điều tra độc lập. Human Rights Watch thì gộp POCA cùng SOSMA và POTA là các luật mà, theo quan điểm của họ, cho phép tạm giữ không qua xét xử và các hạn chế nặng nề mà không có việc xem xét tư pháp.
 
 Cả hai lập trường này vẫn là một phần của cuộc tranh luận công chúng liên tục về sự cân bằng giữa an toàn công cộng và quyền cá nhân tại Malaysia.
 

@@ -34,7 +34,7 @@ faq:
     a: "Le rééchelonnement modifie le calendrier de remboursement — par exemple en allongeant la durée pour abaisser le versement mensuel (ce qui augmente le total des intérêts payés). La restructuration est un changement plus important des conditions du prêt, comme la conversion d'un découvert en prêt à terme à versements fixes. Les deux se négocient directement avec votre banque, qui émet une nouvelle lettre d'offre."
 
 lang: "fr"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Les entreprises ont leurs propres canaux :
 
 ## Quand la restructuration ne suffit pas
 
-Si les voies volontaires ne peuvent résoudre la dette, des options formelles et supervisées par un tribunal demeurent : pour les particuliers, un **Voluntary Arrangement** au titre de l'Insolvency Act 1967 comme alternative à la faillite ; pour les entreprises, un **Scheme of Arrangement** ou un **Judicial Management** au titre de la Companies Act 2016. Ce sont des derniers recours, mais ils existent.
+Si les voies volontaires ne peuvent résoudre la dette, des options formelles et supervisées par un tribunal demeurent : pour les particuliers, un **Voluntary Arrangement** au titre de l'[Insolvency Act 1967](/fr/law/insolvency-and-bankruptcy-law/) comme alternative à la faillite ; pour les entreprises, un **Scheme of Arrangement** ou un **Judicial Management** au titre de la Companies Act 2016. Ce sont des derniers recours, mais ils existent.
 
 ## Et ensuite
 

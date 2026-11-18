@@ -34,7 +34,7 @@ faq:
     a: "可以。书面投诉可依据第99节提交予纪律委员会。若委员会认为投诉具有理据，将依据第100节组成调查审裁处对该投诉进行调查。"
 
 lang: "zh"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "pegu
 framework: explainer
 ---
 
-每一位在吉隆坡、新山或槟城法庭上出庭的律师，都是依据同一部法律执业——而如果他行差踏错，同一部法律也能终结他的职业生涯。这就是1976年法律专业法令（Akta 166），它是统一西马半岛法律专业、并将其置于律师公会理事会以及一个独立纪律委员会监督之下的支柱。
+每一位在吉隆坡、新山或槟城法庭上出庭的律师，都是依据同一部法律执业——而如果他行差踏错，同一部法律也能终结他的职业生涯。这就是1976年法律专业法令（Akta 166），它是统一西马半岛法律专业、并将其置于[律师公会理事会](/zh/law/bar-council-malaysia)以及一个独立纪律委员会监督之下的支柱。
 
 ## 1976年法律专业法令规管什么？
 

@@ -33,7 +33,7 @@ faq:
     a: "The three-tier arrangement — the Syariah Subordinate Court, the Syariah High Court and the Syariah Appeal Court — is common, but each state establishes it through its own state enactment, while the Federal Territories are governed by Act 505. The monetary limits on civil jurisdiction are set by the respective enactment or act and may differ between states."
 
 lang: "en"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ The jurisdiction of the syariah courts is divided into civil (mal) and criminal.
 - division of, or claims to, jointly acquired property (harta sepencarian);
 - wills or gifts made during the death-illness (marad-al-maut) of a deceased Muslim;
 - gifts (hibah), endowments (wakaf) or vows (nazr); and
-- the division and inheritance of testate or intestate property (faraid).
+- the division and inheritance of testate or intestate property ([faraid](/en/law/faraid-and-islamic-inheritance)).
 
 The monetary limit for the civil jurisdiction of the Syariah Subordinate Court is set by the respective enactment or act. In the Federal Territories, section 47 of Act 505 sets the limit at an amount or value of the subject matter in dispute not exceeding fifty thousand ringgit, or which is not capable of estimation in money. This limit may differ between states.
 

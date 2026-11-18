@@ -29,7 +29,7 @@ faq:
     a: "El artículo 38(6) otorga a la Conferencia de Gobernantes la facultad de destituir al Agong. Según los comentarios jurídicos, esta facultad nunca se ha utilizado a lo largo de la historia del país."
 
 lang: "es"
-sourceContentHash: "f2d2c6ec105b4198"
+sourceContentHash: "6be5b5f761ae3438"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ Además de elegir al Yang di-Pertuan Agong y al Diputado Yang di-Pertuan Agong, 
 
 - **Facultad de destitución.** El artículo 38(6) otorga a la Conferencia la facultad de destituir del cargo al Yang di-Pertuan Agong. Según los comentarios jurídicos, esta facultad nunca se ha utilizado.
 - **Consentimiento a determinadas leyes.** Las leyes que afectan directamente a los privilegios, la posición, el honor o la dignidad de los Gobernantes requieren el consentimiento de la Conferencia (artículo 38(4)).
-- **Determinadas enmiendas constitucionales.** Algunas enmiendas no pueden aprobarse sin el consentimiento de la Conferencia de Gobernantes conforme al artículo 159(5). Según los comentarios del Colegio de Abogados de Malasia, estas incluyen enmiendas que afectan a la posición de los Gobernantes (artículo 38(4)), los derechos soberanos y la sucesión de los Gobernantes (artículo 71), la posición de la lengua malaya (artículo 152) y la posición especial de los malayos y los nativos (artículo 153); la lista completa del artículo 159(5) abarca además otras disposiciones.
+- **Determinadas enmiendas constitucionales.** Algunas enmiendas no pueden aprobarse sin el consentimiento de la Conferencia de Gobernantes conforme al artículo 159(5). Según los comentarios del [Colegio de Abogados de Malasia](/es/law/bar-council-malaysia), estas incluyen enmiendas que afectan a la posición de los Gobernantes (artículo 38(4)), los derechos soberanos y la sucesión de los Gobernantes (artículo 71), la posición de la lengua malaya (artículo 152) y la posición especial de los malayos y los nativos (artículo 153); la lista completa del artículo 159(5) abarca además otras disposiciones.
 - **Consulta.** Se consulta a la Conferencia respecto de ciertos nombramientos, como los jueces de los tribunales superiores, el Auditor General y los miembros de determinadas comisiones.
 - **Deliberación sobre la política nacional.** La Conferencia puede examinar la política nacional y los asuntos relativos a la religión del islam y la posición de los malayos.
 - **Tribunal Especial.** Cuando un Gobernante o el Yang di-Pertuan Agong afronta un procedimiento conforme al artículo 182, ese procedimiento se sustancia ante un Tribunal Especial compuesto por cinco jueces; según los comentarios del Colegio de Abogados de Malasia, dos de ellos son designados por la Conferencia de Gobernantes.

@@ -37,7 +37,7 @@ verificationNeeded:
   - "MICPA-CAANZ 상호인정의 현행 조건과, 2016년 갱신 이후 경로상의 변경 사항이 발효되었는지 확인하십시오"
 
 lang: "ko"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -131,7 +131,7 @@ MICPA의 현행 전문가 경로는 **MICPA-CAANZ 프로그램**으로, **호주
 ## 회사법(Companies Act 2016)상 지위
 
 MICPA는 회사법(Companies Act 2016) **제4부칙(Fourth Schedule)에 다섯 번째로
-등재된 단체**이므로, 그 회원은 MAICSA, MIA, 말레이시아 변호사회(Malaysian Bar) 및
+등재된 단체**이므로, 그 회원은 MAICSA, MIA, [말레이시아 변호사회(Malaysian Bar)](/ko/law/bar-council-malaysia) 및
 그 밖의 승인 단체와 동등한 지위에서 s.235(2)(a)에 따라 회사 비서로 활동할 자격을
 갖춥니다. 다른 모든 제4부칙 단체와 마찬가지로, 이는 하나의 자격입니다 — 활동하기
 전에 그 사람은 여전히 SSM으로부터 s.241 실무 증서(practising certificate)를

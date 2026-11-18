@@ -26,7 +26,7 @@ verificationNeeded:
   - "Việc liệu có bất kỳ khấu trừ vốn tăng tốc hay nâng cao nào cụ thể cho việc mua (thay vì thuê) xe điện đã được đăng công báo hay không — không tìm thấy công cụ nào như vậy trong cơ sở dữ liệu pháp luật cấp dưới của AGC."
 
 lang: "vi"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -139,8 +139,7 @@ có hiệu lực **từ YA2023 đến YA2027**.
 
 Các điều kiện là nghiêm ngặt:
 
-- chiếc xe phải là một chiếc xe cơ giới điện trong phạm vi s.2 của Road Transport
-  Act 1987;
+- chiếc xe phải là một chiếc xe cơ giới điện trong phạm vi s.2 của [Road Transport Act 1987](/vi/law/road-transport-act-1987);
 - nó phải là **mới** và chưa từng được bất kỳ người nào sử dụng trước khi thuê;
 - nó không được cấp phép cho việc vận chuyển thương mại hàng hóa hoặc hành khách;
 - khoản khấu trừ tổng cộng không được vượt quá **RM300,000** mỗi chiếc xe qua tất

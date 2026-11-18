@@ -23,7 +23,7 @@ verificationNeeded:
   - "This article does not quote the exact fee for a private driving school's Class D course, or the exact JPJ fee schedule for the LDL/PDL/CDL pathway, because no single official JPJ fee table was found during verification — confirm current fees directly at a JPJ counter or licensed driving school before budgeting."
   - "The precise wording of section 28 of the Road Transport Act 1987 was confirmed through secondary summaries of the Act rather than a direct line-by-line read of the JPJ-hosted PDF (avoided here to control context use) — the section number and substantive effect are corroborated across multiple independent sources, but confirm exact wording against the JPJ-hosted Act 333 PDF if drafting anything with legal reliance on it."
 lang: "es"
-sourceContentHash: "04842acf21e405cb"
+sourceContentHash: "137fb2a54b30ed94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,7 +82,7 @@ antes de ese cambio.
 ## Qué te permite realmente conducir aquí
 
 Malasia no exige que todos los visitantes se presenten a un examen local. El
-artículo 28 de la **Ley de Transporte por Carretera de 1987** (Act 333)
+artículo 28 de la **[Ley de Transporte por Carretera de 1987](/es/law/road-transport-act-1987)** (Act 333)
 reconoce una licencia de conducción emitida por un país que sea parte de un
 tratado con Malasia sobre el reconocimiento mutuo de licencias nacionales — en
 la práctica, esto cubre el Convenio de Ginebra sobre Circulación Vial de 1949 y

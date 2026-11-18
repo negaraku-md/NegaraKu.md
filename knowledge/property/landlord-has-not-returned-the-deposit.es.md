@@ -35,7 +35,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "1a172ffed29950eb"
+sourceContentHash: "41f000c53719467c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ Escala en proporción a la suma; la mayoría de los casos deberían terminar en 
 1. **Una reclamación escrita.** Pide, de forma cortés pero firme y **por escrito**, que se devuelva el depósito en un plazo razonable, *o* una cuenta desglosada y documentada de cualquier deducción. Remite a tus pruebas; mantente objetivo. Muchas disputas terminan aquí una vez que el arrendador ve que tienes registros y que conoces la línea del desgaste normal.
 2. **Una carta de reclamación formal.** Más formal, a menudo redactada por un abogado, que expone la reclamación, la base, la suma y un plazo antes de emprender acciones legales. Transmite seriedad y crea un registro previo al litigio claro; sopesa los honorarios del abogado frente al depósito.
 3. **Una demanda civil.** Malasia no tiene un *tribunal* de reclamaciones menores separado, pero el **Tribunal de Magistrados** tiene un **procedimiento simplificado de reclamaciones menores** que una **persona puede usar en persona, sin abogado**, para sumas pequeñas; las reclamaciones mayores van como demanda civil ordinaria al Tribunal de Magistrados o, por encima de su límite, al **Tribunal de Sesiones.** Los **límites monetarios, las tasas y los formularios cambian**, así que consulta los actuales con el tribunal (**kehakiman.gov.my**) en lugar de fiarte de una cifra citada en cualquier parte. Una advertencia sobre el foro: el **Tribunal de Reclamaciones de Compradores de Vivienda** es para *compradores* de casas frente a promotoras, y el depósito de un arrendamiento residencial privado **generalmente tampoco** está dentro del **Tribunal de Reclamaciones del Consumidor**, así que no supongas que un tribunal de consumo lo atenderá; confírmalo con un abogado o con asistencia jurídica.
-4. **Asistencia jurídica y asesoramiento gratuito.** El **Departamento de Asistencia Jurídica (Jabatan Bantuan Guaman, JBG)** ofrece ayuda con prueba de medios, y el **Bar Council Legal Aid Centre** (y los centros de los colegios de abogados estatales) dan asesoramiento gratuito o subvencionado, cada uno sujeto a sus propios criterios de elegibilidad.
+4. **Asistencia jurídica y asesoramiento gratuito.** El **[Departamento de Asistencia Jurídica](/es/law/legal-aid-in-malaysia/) (Jabatan Bantuan Guaman, JBG)** ofrece ayuda con prueba de medios, y el **Bar Council Legal Aid Centre** (y los centros de los colegios de abogados estatales) dan asesoramiento gratuito o subvencionado, cada uno sujeto a sus propios criterios de elegibilidad.
 
 ## Sé proporcionado, y previene la próxima vez
 

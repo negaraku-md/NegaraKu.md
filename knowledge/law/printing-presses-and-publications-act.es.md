@@ -29,7 +29,7 @@ faq:
     a: "La sección 7 permite al Ministro, mediante una orden publicada en el Boletín Oficial (Gazette), prohibir cualquier publicación considerada perjudicial o susceptible de ser perjudicial para el orden público, la seguridad, la moral, las relaciones con un país extranjero o el interés nacional."
 
 lang: "es"
-sourceContentHash: "614accf2d6e4feba"
+sourceContentHash: "a66b780f5398b184"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ La facultad que se discute con mayor frecuencia reside en la sección 7, que se 
 
 Además de la facultad para aprobar o denegar solicitudes, la Act 301 otorga al Ministro la facultad de revocar o suspender licencias y permisos ya expedidos. Esta facultad está establecida en la sección 13.
 
-A lo largo de su historia, esta característica ha sido un punto central de debate porque el permiso de una publicación puede detenerse sin que la publicación quede prohibida de forma permanente. Un ejemplo citado con frecuencia es la suspensión en 2013 del permiso del semanario *The Heat*, que el Colegio de Abogados de Malasia (Malaysian Bar) describió como un caso que planteaba interrogantes sobre el debido proceso.
+A lo largo de su historia, esta característica ha sido un punto central de debate porque el permiso de una publicación puede detenerse sin que la publicación quede prohibida de forma permanente. Un ejemplo citado con frecuencia es la suspensión en 2013 del permiso del semanario *The Heat*, que el [Colegio de Abogados de Malasia](/es/law/bar-council-malaysia) (Malaysian Bar) describió como un caso que planteaba interrogantes sobre el debido proceso.
 
 ## ¿Qué cambió tras la reforma de 2012?
 

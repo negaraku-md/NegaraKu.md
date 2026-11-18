@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,7 +80,7 @@ framework: profile
 
 ## RELA 是什么
 
-RELA 是一个志愿团体：普通公民入队、受训，并在被召唤时出动以支援官方行动。据联邦服务门户，入队资格向年满18岁、非武装部队或另一法定力量现役成员的马来西亚公民开放，入队为期可续的五年任期，成员在执勤期间依《刑事法典》（第574号法令）被视为公务员。一名由部长从公共服务中委任的**总监**统领该队。按人数计，RELA 是马来西亚最大的志愿组织之一，据报成员以百万计（当前数字见 *verificationNeeded*）。
+RELA 是一个志愿团体：普通公民入队、受训，并在被召唤时出动以支援官方行动。据联邦服务门户，入队资格向年满18岁、非武装部队或另一法定力量现役成员的马来西亚公民开放，入队为期可续的五年任期，成员在执勤期间依[《刑事法典》](/zh/law/penal-code)（第574号法令）被视为公务员。一名由部长从公共服务中委任的**总监**统领该队。按人数计，RELA 是马来西亚最大的志愿组织之一，据报成员以百万计（当前数字见 *verificationNeeded*）。
 
 ## 起源：从乡村后备队到对抗
 

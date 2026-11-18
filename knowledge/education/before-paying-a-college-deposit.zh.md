@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -164,7 +164,7 @@ framework: how-to
 在缴付**之前**先阅读录取信里的退款与退学条款，以书面确认什么可退、退款时限
 如何，并保留每一份记录。
 
-如果一所院校的营销具误导性，或某条条款极度片面，**《1999年消费者保护法令》
+如果一所院校的营销具误导性，或某条条款极度片面，**[《1999年消费者保护法令》](/zh/law/consumer-protection-act/)
 （Act 599）**——它涵盖误导性行为与不公平合约条款——*或许*能提供一条途径，而
 法律评论认为学生在其下可被视为"消费者"。但这是一条可能的途径，并非保证退款，
 所以你事先同意的那份书面政策才是真正算数的东西。

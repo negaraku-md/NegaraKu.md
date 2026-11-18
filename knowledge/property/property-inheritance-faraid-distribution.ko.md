@@ -30,7 +30,7 @@ faq:
     a: "부동산을 포함하고 RM500만 미만인 소액 유산은 지방 토지청을 통해 토지관리관이 처리하며, 분배 명령(Perintah Pembahagian)을 발급합니다."
 
 lang: "ko"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ framework: explainer
 
 ## 유산 분배를 정하는 법은 무엇입니까?
 
-말레이시아는 상속을 서로 다른 두 틀로 처리합니다. 무슬림의 경우, 유산은 이슬람 상속법인 **파라이드(faraid)**에 따라 분배되며, 샤리아 법원(Mahkamah Syariah)은 유산이 배분되기 전에 정당한 상속인 명단과 각자의 지분을 확인하는 **파라이드 증서(sijil faraid)**를 발급합니다.
+말레이시아는 상속을 서로 다른 두 틀로 처리합니다. 무슬림의 경우, 유산은 이슬람 상속법인 **[파라이드(faraid)](/ko/law/faraid-and-islamic-inheritance/)**에 따라 분배되며, 샤리아 법원(Mahkamah Syariah)은 유산이 배분되기 전에 정당한 상속인 명단과 각자의 지분을 확인하는 **파라이드 증서(sijil faraid)**를 발급합니다.
 
 유언을 남기지 않고 사망한(무유언, *intestate*) 비무슬림의 경우, 분배는 **분배법 1958(Distribution Act 1958, Act 300)**의 규율을 받습니다. 이 법은 반도 말레이시아와 사라왁(Sarawak)의 비무슬림에게 적용됩니다; 사바(Sabah)와 사라왁의 원주민(anak negeri)은 다른 규정의 적용을 받습니다. 비무슬림이 유효한 유언을 남긴 경우, 유산은 Act 300의 공식이 아니라 그 유언에 따라 분배됩니다.
 

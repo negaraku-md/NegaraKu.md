@@ -189,7 +189,7 @@ So read the refund and withdrawal clause in the offer letter **before** you pay,
 confirm in writing what is refundable and on what timeline, and keep every record.
 
 If an institution's marketing was misleading, or a term is grossly one-sided, the
-**Consumer Protection Act 1999 (Act 599)** — which covers misleading conduct and
+**[Consumer Protection Act 1999](/law/consumer-protection-act/) (Act 599)** — which covers misleading conduct and
 unfair contract terms — *may* offer an avenue, and legal commentary argues that
 students can be "consumers" under it. But that is a possible route, not a
 guaranteed refund, so the written policy you agree to up front is what counts.

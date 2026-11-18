@@ -30,7 +30,7 @@ faq:
     a: "A small estate containing immovable property and valued below RM5 million is handled by the Land Administrator through the District Land Office, which issues a Distribution Order."
 
 lang: "en"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ When someone dies in Malaysia, who inherits their house depends first on one fun
 
 ## What law determines the division of an estate?
 
-Malaysia handles inheritance through two separate frameworks. For Muslims, the estate is divided according to **faraid**, the Islamic law of inheritance, and the Syariah Court issues a **faraid certificate** confirming the list of entitled heirs and each one's share before the estate is distributed.
+Malaysia handles inheritance through two separate frameworks. For Muslims, the estate is divided according to **[faraid](/en/law/faraid-and-islamic-inheritance/)**, the Islamic law of inheritance, and the Syariah Court issues a **faraid certificate** confirming the list of entitled heirs and each one's share before the estate is distributed.
 
 For non-Muslims who die without leaving a will (dying *intestate*), the division is governed by the **Distribution Act 1958 (Act 300)**. This Act applies to non-Muslims in Peninsular Malaysia and in Sarawak; Sabah and the natives of Sarawak are subject to different provisions. If a non-Muslim leaves a valid will, their estate is divided according to that will, not the Act 300 formula.
 

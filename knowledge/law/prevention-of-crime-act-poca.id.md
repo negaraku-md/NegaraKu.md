@@ -30,7 +30,7 @@ faq:
     a: "Lembaga Pencegahan Jenayah — sebuah badan yang diketuai oleh individu berkualifikasi hukum dan ditunjuk pemerintah — bukan pengadilan. Lembaga bertindak berdasarkan laporan Pegawai Penyiasat yang ditunjuk Menteri."
 
 lang: "id"
-sourceContentHash: "a6b06f9b9fdb4839"
+sourceContentHash: "3dd3f7fe93ce0398"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ Terdapat pandangan yang berbeda tentang amandemen ini, dan artikel ini memaparka
 
 **Pandangan pemerintah dan pendukung.** Pemerintah mempertahankan POCA sebagai alat yang diperlukan untuk menangani kejahatan terorganisasi, kongsi gelap, serta sindikat peredaran narkotika dan perdagangan manusia yang sulit didakwa melalui persidangan biasa karena saksi enggan tampil.
 
-**Pandangan pengkritik.** Majlis Peguam Malaysia, melalui pernyataan bertanggal 3 Oktober 2013, mengangkat beberapa kekhawatiran. Presidennya saat itu, Christopher Leong, berargumen bahwa amandemen membolehkan penahanan berdasarkan "keyakinan atau kecurigaan" dan bukan kesalahan yang dibuktikan. Majlis Peguam juga menggambarkan Lembaga sebagai sepenuhnya bergantung pada laporan Pegawai Penyiasat tanpa kuasa penyidikan independen. Human Rights Watch mengelompokkan POCA bersama SOSMA dan POTA sebagai undang-undang yang, menurut pandangannya, membolehkan penahanan tanpa persidangan dan pembatasan berat tanpa peninjauan yudisial.
+**Pandangan pengkritik.** [Majlis Peguam Malaysia](/id/law/bar-council-malaysia), melalui pernyataan bertanggal 3 Oktober 2013, mengangkat beberapa kekhawatiran. Presidennya saat itu, Christopher Leong, berargumen bahwa amandemen membolehkan penahanan berdasarkan "keyakinan atau kecurigaan" dan bukan kesalahan yang dibuktikan. Majlis Peguam juga menggambarkan Lembaga sebagai sepenuhnya bergantung pada laporan Pegawai Penyiasat tanpa kuasa penyidikan independen. Human Rights Watch mengelompokkan POCA bersama SOSMA dan POTA sebagai undang-undang yang, menurut pandangannya, membolehkan penahanan tanpa persidangan dan pembatasan berat tanpa peninjauan yudisial.
 
 Kedua posisi ini tetap menjadi bagian dari perdebatan publik yang berlangsung tentang keseimbangan antara keamanan publik dan hak individu di Malaysia.
 

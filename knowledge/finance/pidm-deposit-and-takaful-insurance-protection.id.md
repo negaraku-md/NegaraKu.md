@@ -37,7 +37,7 @@ faq:
     a: "Jika sebuah bank anggota gagal, PIDM membayar kembali deposan yang layak hingga batas RM250,000. Jika penanggung asuransi anggota gagal, PIDM baik mengatur kesinambungan perlindungan Anda atau membayar manfaat yang dilindungi hingga batas yang berlaku."
 
 lang: "id"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -241,7 +241,7 @@ Perlakuan terhadap perawatan kesehatan itu penting: alih-alih batas Ringgit, man
 Jika penanggung asuransi anggota gagal, premi atau kontribusi prabayar juga mungkin dikembalikan:
 
 - Takaful/asuransi **medis dan kesehatan**: 100% dikembalikan.
-- Polis di bawah **Road Transport Act 1987** dan **Workmen's Compensation Act 1952**: 100% dikembalikan.
+- Polis di bawah **[Road Transport Act 1987](/id/law/road-transport-act-1987)** dan **Workmen's Compensation Act 1952**: 100% dikembalikan.
 - Polis lain: hingga **RM500,000 per sertifikat atau polis**.
 
 ### Bagaimana batas diagregasi

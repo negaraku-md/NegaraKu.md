@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "वह कोई भी जो अनुच्छेद 153 क्या प्रावधान करता है और क्या बाहर रखता है, इसका खंड-दर-खंड, वर्णनात्मक विवरण चाहता है, इसके इर्द-गिर्द की राजनीतिक बहस में निर्णय किए बिना।"
 
 lang: "hi"
-sourceContentHash: "91d4996a886b6aaa"
+sourceContentHash: "64d20a0bdc0d7dde"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ framework: explainer
 
 मलेशियाई सरकार ने सार्वजनिक रूप से इस प्रावधान की पुनःपुष्टि की है। फरवरी 2024 में, एक सांसद के इस आह्वान के जवाब में कि क्या अंतर्निहित सकारात्मक-कार्रवाई नीति अभी भी अपने इच्छित प्राप्तकर्ताओं को लाभ पहुँचाती है, इसका पुनर्मूल्यांकन किया जाए, प्रधानमंत्री अनवर इब्राहिम ने कहा कि सरकार "will continue upholding the position of the Constitution, including Article 153" — अर्थात् अनुच्छेद 153 सहित संविधान की स्थिति को बनाए रखना जारी रखेगी — प्रधानमंत्री कार्यालय के एक वक्तव्य के अनुसार।
 
-अलग से, Malaysian Bar द्वारा पुनर्प्रकाशित एक विधिक टिप्पणी में (मूलतः राजा अज़ीज़ अद्रुस और हेलेन टिंग द्वारा New Sunday Times, 22 जून 2008 में प्रकाशित), लेखक लिखते हैं कि «विशेष स्थिति» पर संवैधानिक प्रावधानों को "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — अर्थात् मलय समुदाय के लिए एक संरक्षात्मक उपाय के रूप में अधिक समझा गया, जो उस समय सामाजिक-आर्थिक रूप से वंचित था — और नोट करते हैं कि "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — अर्थात् अनुच्छेद 153 के 12 खंडों में से पाँच इसके अनुप्रयोग के क्षेत्र को सीमित करने के लिए हैं। वे यह निष्कर्ष निकालते हैं कि "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — अर्थात् यह सुझाव देने का कोई आधार नहीं है कि NEP को समाप्त करने के लिए अनिवार्य रूप से अनुच्छेद 153 के संशोधन या निरसन की आवश्यकता है — एक ऐसी अवस्थिति जो अनुच्छेद 153 के संवैधानिक पाठ को [नई आर्थिक नीति](/hi/malaysia/new-economic-policy) के अलग नीतिगत ढाँचे से विभेदित करती है।
+अलग से, [Malaysian Bar](/hi/law/bar-council-malaysia) द्वारा पुनर्प्रकाशित एक विधिक टिप्पणी में (मूलतः राजा अज़ीज़ अद्रुस और हेलेन टिंग द्वारा New Sunday Times, 22 जून 2008 में प्रकाशित), लेखक लिखते हैं कि «विशेष स्थिति» पर संवैधानिक प्रावधानों को "understood more as a protective measure for the Malay community which was then socio–economically disadvantaged" — अर्थात् मलय समुदाय के लिए एक संरक्षात्मक उपाय के रूप में अधिक समझा गया, जो उस समय सामाजिक-आर्थिक रूप से वंचित था — और नोट करते हैं कि "five out of the 12 clauses of Article 153 set out to limit the scope of its application" — अर्थात् अनुच्छेद 153 के 12 खंडों में से पाँच इसके अनुप्रयोग के क्षेत्र को सीमित करने के लिए हैं। वे यह निष्कर्ष निकालते हैं कि "there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153" — अर्थात् यह सुझाव देने का कोई आधार नहीं है कि NEP को समाप्त करने के लिए अनिवार्य रूप से अनुच्छेद 153 के संशोधन या निरसन की आवश्यकता है — एक ऐसी अवस्थिति जो अनुच्छेद 153 के संवैधानिक पाठ को [नई आर्थिक नीति](/hi/malaysia/new-economic-policy) के अलग नीतिगत ढाँचे से विभेदित करती है।
 
 ## आगे क्या
 

@@ -26,7 +26,7 @@ verificationNeeded:
   - "Apakah ada capital allowance dipercepat atau ditingkatkan khusus untuk pembelian (dibanding sewa) kendaraan listrik yang telah diwartakan — tidak ada instrumen demikian yang ditemukan dalam basis data perundangan subsidier AGC."
 
 lang: "id"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -147,8 +147,7 @@ YA2027**.
 
 Syarat-syaratnya ketat:
 
-- kendaraan itu haruslah kendaraan motor listrik dalam maksud s.2 Road Transport
-  Act 1987;
+- kendaraan itu haruslah kendaraan motor listrik dalam maksud s.2 [Road Transport Act 1987](/id/law/road-transport-act-1987);
 - ia haruslah **baru** dan tidak pernah digunakan oleh siapa pun sebelum sewa guna;
 - ia tidak boleh dilisensikan untuk transportasi komersial barang atau penumpang;
 - total pengurangan agregat tidak boleh melebihi **RM300,000** bagi setiap

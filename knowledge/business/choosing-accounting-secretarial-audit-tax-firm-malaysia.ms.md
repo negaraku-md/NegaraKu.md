@@ -31,7 +31,7 @@ faq:
   - q: "Adakah syarikat kecil benar-benar memerlukan juruaudit?"
     a: "Tidak semestinya. SSM membenarkan syarikat persendirian tertentu yang dorman, tiada hasil dan layak ambang untuk dikecualikan daripada melantik juruaudit. Jika syarikat anda layak, anda mungkin tidak memerlukan perkhidmatan audit langsung — hanya setiausaha, simpan kira dan pemfailan cukai. Semak kriteria pengecualian audit semasa sebelum melibatkan firma audit."
 lang: "ms"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ Perkara pertama yang perlu difahami ialah ini adalah **empat perkhidmatan berasi
 
 | Perkhidmatan | Apa yang dirangkuminya | Siapa yang boleh menyediakannya secara sah |
 |---|---|---|
-| **Setiausaha syarikat** | Pemfailan statutori, daftar, pematuhan lembaga dan SSM | Seorang yang berdaftar dengan SSM yang memegang sijil amalan di bawah **s.241, Companies Act 2016** — ahli badan yang ditetapkan (MAICSA, MACS, MIA, Majlis Peguam Malaysia) atau berlesen di bawah s.20G SSM Act 2001 |
+| **Setiausaha syarikat** | Pemfailan statutori, daftar, pematuhan lembaga dan SSM | Seorang yang berdaftar dengan SSM yang memegang sijil amalan di bawah **s.241, Companies Act 2016** — ahli badan yang ditetapkan (MAICSA, MACS, MIA, [Majlis Peguam Malaysia](/law/bar-council-malaysia)) atau berlesen di bawah s.20G SSM Act 2001 |
 | **Perakaunan / simpan kira** | Buku akaun harian, akaun pengurusan dan statutori | Seorang ahli **Institut Akauntan Malaysia (MIA)** dengan sijil amalan, di bawah Accountants Act 1967, untuk amalan awam |
 | **Audit** | Audit bebas penyata kewangan | Seorang **juruaudit syarikat yang diluluskan** di bawah **s.263, Companies Act 2016**, diluluskan oleh Menteri Kewangan; bagi entiti tersenarai dan berkepentingan awam, turut diawasi oleh Audit Oversight Board |
 | **Ejen cukai** | Pengiraan cukai, pemfailan, dan mewakili anda kepada LHDN | Seorang ejen cukai **diluluskan di bawah s.153, Income Tax Act 1967** dan disenaraikan oleh LHDN |

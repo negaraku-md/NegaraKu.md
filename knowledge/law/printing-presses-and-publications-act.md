@@ -101,7 +101,7 @@ Kuasa yang paling kerap dibincangkan terletak pada seksyen 7, yang berkaitan pen
 
 Selain kuasa untuk meluluskan atau menolak permohonan, Akta 301 memberi Menteri kuasa untuk membatalkan atau menggantung lesen dan permit yang telah dikeluarkan. Kuasa ini dinyatakan dalam seksyen 13.
 
-Sepanjang sejarahnya, ciri ini menjadi tumpuan perdebatan kerana permit sesebuah penerbitan boleh dihentikan tanpa penerbitan itu diharamkan secara kekal. Salah satu contoh yang kerap dirujuk ialah penggantungan permit akhbar mingguan *The Heat* pada 2013, yang disebut oleh Majlis Peguam Malaysia sebagai kes yang menimbulkan persoalan tentang proses yang wajar.
+Sepanjang sejarahnya, ciri ini menjadi tumpuan perdebatan kerana permit sesebuah penerbitan boleh dihentikan tanpa penerbitan itu diharamkan secara kekal. Salah satu contoh yang kerap dirujuk ialah penggantungan permit akhbar mingguan *The Heat* pada 2013, yang disebut oleh [Majlis Peguam Malaysia](/law/bar-council-malaysia) sebagai kes yang menimbulkan persoalan tentang proses yang wajar.
 
 ## Apa yang berubah selepas pindaan 2012?
 

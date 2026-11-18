@@ -24,7 +24,7 @@ appliesTo: "Sesiapa sahaja — pelancong, majikan, pelajar, atau pembaca yang be
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "468d0412b31978aa"
+sourceContentHash: "4aa35379a611971b"
 
 status: "published"
 aiAssisted: true
@@ -162,7 +162,7 @@ Oleh sebab perlindungan **Bahagian XIIA** ini dan peruntukan berkaitannya diperk
 
 ## Pendirian yang didokumenkan
 
-Skop dan pelaksanaan perlindungan ini kekal sebagai subjek perbincangan awam dan undang-undang yang masih hangat — dilaporkan di sini tanpa sokongan. Ulasan yang dikumpulkan oleh badan seperti Malaysian Bar dan ConstitutionNet mencatatkan bahawa Perlembagaan itu sendiri memperkukuh perlindungan ini sekali gus membiarkan beberapa daripadanya — terutamanya peruntukan kewangan di bawah Perkara 112C dan 112D — bergantung kepada semakan dan persetujuan berkala, sebab itulah pelaksanaan hariannya diperdebatkan walaupun teksnya sudah tetap. NegaraKu.md menyatakan peruntukan-peruntukan itu; ia tidak menyelesaikan perdebatan tersebut.
+Skop dan pelaksanaan perlindungan ini kekal sebagai subjek perbincangan awam dan undang-undang yang masih hangat — dilaporkan di sini tanpa sokongan. Ulasan yang dikumpulkan oleh badan seperti [Malaysian Bar](/law/bar-council-malaysia) dan ConstitutionNet mencatatkan bahawa Perlembagaan itu sendiri memperkukuh perlindungan ini sekali gus membiarkan beberapa daripadanya — terutamanya peruntukan kewangan di bawah Perkara 112C dan 112D — bergantung kepada semakan dan persetujuan berkala, sebab itulah pelaksanaan hariannya diperdebatkan walaupun teksnya sudah tetap. NegaraKu.md menyatakan peruntukan-peruntukan itu; ia tidak menyelesaikan perdebatan tersebut.
 
 ## Apa yang seterusnya
 

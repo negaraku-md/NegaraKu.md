@@ -34,7 +34,7 @@ faq:
     a: "Yes. A written complaint may be referred to the Disciplinary Board under section 99. If the Board finds merit, it will form an Investigating Tribunal under section 100 to investigate the complaint."
 
 lang: "en"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "pegu
 framework: explainer
 ---
 
-Every lawyer who stands before a court in Kuala Lumpur, Johor Bahru, or Penang does so under one and the same body of law — and if they stray, that same law can end their career. That is the Legal Profession Act 1976 (Act 166), the backbone that unifies the legal profession of Peninsular Malaysia and places it under the oversight of the Bar Council and an independent disciplinary board.
+Every lawyer who stands before a court in Kuala Lumpur, Johor Bahru, or Penang does so under one and the same body of law — and if they stray, that same law can end their career. That is the Legal Profession Act 1976 (Act 166), the backbone that unifies the legal profession of Peninsular Malaysia and places it under the oversight of [the Bar Council](/en/law/bar-council-malaysia) and an independent disciplinary board.
 
 ## What does the Legal Profession Act 1976 regulate?
 

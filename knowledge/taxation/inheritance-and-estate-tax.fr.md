@@ -38,7 +38,7 @@ faq:
     a: "Oui. L'exécuteur testamentaire doit informer la LHDN du décès, déposer la déclaration finale du défunt et les déclarations de la succession, et régler tout impôt et pénalité en souffrance avant de distribuer la succession. La LHDN dispose de trois ans, à compter de la fin de l'année où elle est informée du décès, pour émettre des avis d'imposition."
 
 lang: "fr"
-sourceContentHash: "68ad2357941779d2"
+sourceContentHash: "41452eb0f37e297f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -211,7 +211,7 @@ Le droit nominal de RM10 s'applique lorsque le transfert est effectué en vertu 
 
 - d'un **testament** valide ;
 - de la **Distribution Act** (c'est-à-dire la succession ab intestat, lorsqu'il n'y a pas de testament) ; ou
-- du **faraid**, les règles de la réserve héréditaire selon la loi Syariah pour une succession musulmane.
+- du **[faraid](/fr/law/faraid-and-islamic-inheritance)**, les règles de la réserve héréditaire selon la loi Syariah pour une succession musulmane.
 
 Le droit de timbre ad valorem peut toutefois être déclenché si les bénéficiaires réorganisent leurs droits *en dehors* de ces cadres légaux. La jurisprudence malaisienne s'est penchée sur ce point : dans *Lee Koy Eng contre Pemungut Duti Setem* [2022] MSTC 30-483, la Haute Cour a jugé qu'un bénéficiaire dans une succession ab intestat n'a aucun droit acquis ni intérêt dans la succession tant que l'administration n'est pas achevée, de sorte qu'un instrument Form 14A donnant effet à une renonciation à ce droit ne peut être une « donation » — on ne peut pas donner ce que l'on ne possède pas encore — et n'attire que le droit nominal, et non le droit ad valorem. (En appel, l'affaire est rapportée sous *Pemungut Duti Setem contre Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209, où la Cour fédérale a confirmé qu'une question de droit soumise (case stated) au titre de la section 39 de la Stamp Act 1949 lui est susceptible d'appel ; tant la Haute Cour que la Cour d'appel ont statué en faveur du redevable sur le fond.) La leçon plus large est que la façon dont les documents sont structurés (par exemple, un acte d'arrangement familial, deed of family arrangement) affecte le droit. Si les bénéficiaires veulent redistribuer les biens entre eux d'une manière que le testament ou la Distribution Act n'avaient pas prévue, demandez conseil d'abord, car la mauvaise structure peut convertir un transfert à RM10 en un droit à plein taux.
 

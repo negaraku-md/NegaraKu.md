@@ -26,7 +26,7 @@ verificationNeeded:
   - "Déterminer si une déduction pour amortissement accélérée ou majorée propre à l'achat (par opposition à la location) de véhicules électriques a été publiée au journal officiel — aucun instrument de ce type n'a été trouvé dans la base de données de la législation subsidiaire de l'AGC."
 
 lang: "fr"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Il existe une règle propre, publiée au journal officiel, pour les loyers. Les 
 
 Les conditions sont strictes :
 
-- le véhicule doit être un véhicule à moteur électrique au sens de la s.2 de la Road Transport Act 1987 ;
+- le véhicule doit être un véhicule à moteur électrique au sens de la s.2 de la [Road Transport Act 1987](/fr/law/road-transport-act-1987) ;
 - il doit être **neuf** et n'avoir jamais été utilisé par quiconque avant la location ;
 - il ne doit pas être titulaire d'une licence pour le transport commercial de marchandises ou de passagers ;
 - la déduction agrégée ne doit pas dépasser **RM300,000** par véhicule sur l'ensemble des années ;

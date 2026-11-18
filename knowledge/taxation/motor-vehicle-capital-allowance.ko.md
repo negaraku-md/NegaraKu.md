@@ -26,7 +26,7 @@ verificationNeeded:
   - "전기차의 리스가 아니라 매입에 특화된 가속 또는 강화 자본공제가 관보에 게재되었는지 여부 — AGC 하위 법령 데이터베이스에서 그러한 문서를 찾지 못했습니다."
 
 lang: "ko"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ s.39(1)(k)은 비상업용 자동차에 대한 리스료 중 RM50,000을 초과�
 
 조건은 엄격합니다:
 
-- 차량은 도로교통법(Road Transport Act 1987) s.2에 정의된 전기 자동차여야 합니다;
+- 차량은 [도로교통법(Road Transport Act 1987)](/ko/law/road-transport-act-1987) s.2에 정의된 전기 자동차여야 합니다;
 - 리스 전에 어떤 사람도 사용한 적이 없는 **신차**여야 합니다;
 - 물품 또는 승객의 상업적 운송을 위한 면허를 받은 것이 아니어야 합니다;
 - 합산 공제액은 전 연도에 걸쳐 차량당 **RM300,000**을 초과할 수 없습니다;

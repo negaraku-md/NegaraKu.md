@@ -31,7 +31,7 @@ faq:
     a: "Les procédures contre un Souverain à titre personnel ne peuvent être engagées que devant la Cour spéciale établie en vertu de l'Article 182, et sont soumises au consentement du Procureur général."
 
 lang: "fr"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ L'Article 70 de la Constitution fédérale dispose que, sous réserve de la pré
 
 ## Quelle est la fonction d'un Souverain au sein de son État ?
 
-À l'intérieur des limites de son État, un Souverain occupe trois positions principales : chef de l'État, chef de la religion islamique pour cet État et gardien de la coutume et de la cérémonie malaises. Selon le Barreau de Malaisie, un Souverain d'État agit comme un monarque constitutionnel en vertu des Articles 71 et 181(1) de la Constitution fédérale — ses pouvoirs sont définis et limités par la loi, ils ne sont pas absolus.
+À l'intérieur des limites de son État, un Souverain occupe trois positions principales : chef de l'État, chef de la religion islamique pour cet État et gardien de la coutume et de la cérémonie malaises. Selon le [Barreau de Malaisie](/fr/law/bar-council-malaysia), un Souverain d'État agit comme un monarque constitutionnel en vertu des Articles 71 et 181(1) de la Constitution fédérale — ses pouvoirs sont définis et limités par la loi, ils ne sont pas absolus.
 
 Dans la plupart des matières de gouvernement, le Souverain agit sur l'avis du Conseil exécutif de l'État. Les dispositions de la Huitième Annexe prévoient que le Souverain agira conformément à l'avis du Conseil exécutif, sauf dans les matières à l'égard desquelles un pouvoir discrétionnaire lui est accordé.
 

@@ -35,7 +35,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -186,7 +186,7 @@ MOHE의 승인도 필요하기 때문입니다.
 어떤 일정에 따르는지 서면으로 확인하고, 모든 기록을 보관하십시오.
 
 기관의 마케팅이 오도하는 것이었거나, 어떤 조항이 지나치게 일방적이라면,
-오도하는 행위와 불공정한 계약 조항을 다루는 **1999년 소비자보호법(Consumer
+오도하는 행위와 불공정한 계약 조항을 다루는 **[1999년 소비자보호법](/ko/law/consumer-protection-act/)(Consumer
 Protection Act 1999, Act 599)**이 하나의 경로를 *제공할 수도* 있으며, 법률
 해설은 학생이 그 법에 따른 "소비자"일 수 있다고 주장합니다. 그러나 그것은
 가능한 경로일 뿐 환불이 보장되는 것은 아니므로, 사전에 동의하는 서면 정책이

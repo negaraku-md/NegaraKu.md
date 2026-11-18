@@ -33,7 +33,7 @@ faq:
     a: "ขึ้นอยู่กับกิจกรรม ภายใต้ Environmental Quality Act 1974 โครงการอุตสาหกรรมหนักหรือขนาดใหญ่ที่ระบุใน Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015 ต้องมี EIA ที่ได้รับอนุมัติก่อนที่โครงการจะดำเนินต่อไป บางอุตสาหกรรม — น้ำมันปาล์มดิบ ยางธรรมชาติดิบ สิ่งอำนวยความสะดวกกากของเสียที่กำหนด — เป็น 'สถานประกอบการที่กำหนด' ที่ต้องการอนุญาตเป็นลายลักษณ์อักษรจาก DOE ในการก่อสร้างและใบอนุญาตในการดำเนินการ โรงงานธรรมดาที่ปล่อยน้ำเสียหรือปล่อยมลพิษทางอากาศยังต้องปฏิบัติตามกฎน้ำเสียและอากาศสะอาดของ DOE ยืนยันสถานะของกิจกรรมของคุณกับ DOE ก่อนสร้าง"
 
 lang: "th"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ framework: rules
 |---|---|---|---|
 | ใบอนุญาตการผลิต / การยกเว้น ICA | MITI / MIDA | Industrial Co-ordination Act 1975 | อนุญาต **กิจกรรม** การผลิต (ดูคู่มือเฉพาะ) |
 | ใบรับรองความสำเร็จและการปฏิบัติตามข้อกำหนด (CCC) | สถาปนิก/วิศวกร (PSP) + หน่วยงานท้องถิ่น | Street, Drainage and Building Act 1974 + Uniform Building By-Laws | ทำให้ **อาคาร** เหมาะสมที่จะเข้าอยู่อย่างถูกกฎหมาย |
-| ใบรับรองความเหมาะสมสำหรับเครื่องจักร | DOSH | Occupational Safety and Health Act 1994 + OSH (Plant Requiring CF) Regulations 2024 | ให้ **เครื่องจักร** ที่ถูกควบคุมดำเนินการได้ |
+| ใบรับรองความเหมาะสมสำหรับเครื่องจักร | DOSH | [Occupational Safety and Health Act 1994](/th/law/occupational-safety-and-health-act/) + OSH (Plant Requiring CF) Regulations 2024 | ให้ **เครื่องจักร** ที่ถูกควบคุมดำเนินการได้ |
 | ใบรับรองอัคคีภัย | BOMBA | Fire Services Act 1988 | การเคลียร์ความปลอดภัยอัคคีภัยที่ต่อเนื่องสำหรับ **สถานประกอบการที่ถูกกำหนด** |
 | ใบอนุญาตสถานประกอบการธุรกิจ + ป้าย | สภาท้องถิ่น (PBT) | Local Government Act 1976 + ข้อบัญญัติของสภา | ออกใบอนุญาต **ธุรกิจที่ที่อยู่นั้น** |
 | การอนุมัติ EIA / สถานประกอบการที่กำหนด | DOE | Environmental Quality Act 1974 | อนุมัติ **ผลกระทบสิ่งแวดล้อมของกิจกรรม** ในที่ที่กำหนด |

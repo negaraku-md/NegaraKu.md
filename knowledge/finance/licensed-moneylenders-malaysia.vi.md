@@ -34,7 +34,7 @@ faq:
     a: "Đó là một trò lừa vay tiền thu phí trước kinh điển. Ngừng trả ngay lập tức, gọi Trung tâm Ứng phó Lừa đảo Quốc gia theo số 997 (nó có thể cố đóng băng tài khoản mà tiền đã chuyển tới), kiểm tra số tài khoản hoặc số điện thoại trên Semak Mule tại semakmule.rmp.gov.my, và nộp một báo cáo cảnh sát. Một bên cho vay được cấp phép hợp pháp không bao giờ tính một khoản phí trước khi giải ngân một khoản vay."
 
 lang: "vi"
-sourceContentHash: "ab121346e7722ba5"
+sourceContentHash: "8cd8a52f85fb12de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Một giấy phép quan trọng vì nó đưa bên cho vay vào các quy tắc t
 
 ## Bên cho vay được cấp phép so với "Ah Long"
 
-Một **Ah Long** là một bên cho vay bất hợp pháp, không được cấp phép — một tay cho vay nặng lãi. Sự phân biệt không phải hình thức: giao dịch trong việc cho vay bất hợp pháp là một tội phạm, và khoản vay không thể thi hành. Các tay cho vay nặng lãi tính lãi cao hơn nhiều so với các trần luật định và thi hành nó qua sự hăm dọa được ghi chép rõ ở Malaysia — tạt sơn đỏ lên nhà và xe, treo băng rôn bêu xấu, đe dọa phóng hỏa, và quấy rối không chỉ người vay mà cả họ hàng và đồng nghiệp chẳng bao giờ lấy khoản vay. Những hành vi này là các tội theo Moneylenders Act và Bộ luật Hình sự. Ngược lại, một bên cho vay được cấp phép bị cấm hành vi này và cấm tới thăm bạn để thu nợ.
+Một **Ah Long** là một bên cho vay bất hợp pháp, không được cấp phép — một tay cho vay nặng lãi. Sự phân biệt không phải hình thức: giao dịch trong việc cho vay bất hợp pháp là một tội phạm, và khoản vay không thể thi hành. Các tay cho vay nặng lãi tính lãi cao hơn nhiều so với các trần luật định và thi hành nó qua sự hăm dọa được ghi chép rõ ở Malaysia — tạt sơn đỏ lên nhà và xe, treo băng rôn bêu xấu, đe dọa phóng hỏa, và quấy rối không chỉ người vay mà cả họ hàng và đồng nghiệp chẳng bao giờ lấy khoản vay. Những hành vi này là các tội theo Moneylenders Act và [Bộ luật Hình sự](/vi/law/penal-code). Ngược lại, một bên cho vay được cấp phép bị cấm hành vi này và cấm tới thăm bạn để thu nợ.
 
 Một kênh liên quan, được cấp phép riêng, là **cầm đồ** theo **Pawnbrokers Act 1972** (tương đương Hồi giáo của nó, **Ar-Rahnu**, tính một khoản phí giữ hộ thay vì lãi) — một khoản vay ngắn hạn dựa trên một món đồ được cầm cố như vàng. Đó là một lựa chọn hợp pháp đáng biết tới, dù được điều chỉnh bởi các quy tắc riêng.
 

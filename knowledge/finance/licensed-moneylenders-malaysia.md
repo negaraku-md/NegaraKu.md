@@ -109,7 +109,7 @@ Never take a lender's word for it. KPKT runs a verification tool, the **i-Kredik
 
 ## Licensed lender vs. "Ah Long"
 
-An **Ah Long** is an unlicensed, illegal moneylender — a loan shark. The distinction is not cosmetic: dealing in illegal moneylending is a crime, and the loan is unenforceable. Loan sharks charge interest far above the statutory caps and enforce it through intimidation that is well documented in Malaysia — splashing red paint on homes and cars, hanging shaming banners, arson threats, and harassing not just the borrower but relatives and co-workers who never took the loan. These acts are offences under the Moneylenders Act and the Penal Code. A licensed lender, by contrast, is barred from this conduct and from visiting you to collect.
+An **Ah Long** is an unlicensed, illegal moneylender — a loan shark. The distinction is not cosmetic: dealing in illegal moneylending is a crime, and the loan is unenforceable. Loan sharks charge interest far above the statutory caps and enforce it through intimidation that is well documented in Malaysia — splashing red paint on homes and cars, hanging shaming banners, arson threats, and harassing not just the borrower but relatives and co-workers who never took the loan. These acts are offences under the Moneylenders Act and the [Penal Code](/law/penal-code). A licensed lender, by contrast, is barred from this conduct and from visiting you to collect.
 
 A related, separately licensed channel is **pawnbroking** under the **Pawnbrokers Act 1972** (its Islamic equivalent, **Ar-Rahnu**, charges a safekeeping fee rather than interest) — a short-term loan against a pledged item such as gold. It is a legitimate option worth knowing about, though governed by its own rules.
 

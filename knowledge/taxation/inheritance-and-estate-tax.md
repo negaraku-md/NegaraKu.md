@@ -210,7 +210,7 @@ Nominal RM10 duty applies where the transfer is made under:
 
 - a valid **will**;
 - the **Distribution Act** (i.e. intestate succession, where there is no will); or
-- **faraid**, the forced-heirship rules under Syariah law for a Muslim estate.
+- **[faraid](/law/faraid-and-islamic-inheritance)**, the forced-heirship rules under Syariah law for a Muslim estate.
 
 Ad valorem stamp duty can, however, be triggered if beneficiaries rearrange their entitlements *outside* those statutory frameworks. Malaysian case law has grappled with this: in *Lee Koy Eng v Pemungut Duti Setem* [2022] MSTC 30-483, the High Court held that a beneficiary under an intestacy has no vested right or interest in the estate until administration is complete, so a Form 14A instrument giving effect to a renunciation of that entitlement cannot be a "gift" — you cannot gift what you do not yet own — and attracts only nominal, not ad valorem, duty. (On appeal the case is reported as *Pemungut Duti Setem v Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209, where the Federal Court confirmed that a case stated under section 39 of the Stamp Act 1949 is appealable to it; both the High Court and the Court of Appeal found for the duty payer on the substance.) The wider lesson is that how the paperwork is structured (for example, a deed of family arrangement) affects the duty. If beneficiaries want to redistribute assets among themselves in a way the will or the Distribution Act did not provide for, take advice first, because the wrong structure can convert an RM10 transfer into a full-rate duty.
 

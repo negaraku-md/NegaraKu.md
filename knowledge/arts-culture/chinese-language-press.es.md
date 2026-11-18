@@ -33,7 +33,7 @@ faq:
     a: "En línea con la tendencia mundial del sector periodístico, la circulación en papel de la prensa china de Malasia ha disminuido en general en las últimas dos décadas, y los lectores —sobre todo las generaciones más jóvenes— obtienen cada vez más las noticias a través del teléfono móvil e internet. Por ello los periódicos han desarrollado plataformas digitales como sitios web de noticias, ediciones electrónicas y aplicaciones móviles, y parte de los contenidos también se difunde en las redes sociales. Si el papel desaparecerá por completo, y cuándo, sigue siendo incierto, y este artículo no hace ninguna predicción."
 
 lang: "es"
-sourceContentHash: "77631a962c5674a5"
+sourceContentHash: "ba3edfb9eefffbdb"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -126,7 +126,7 @@ Además, los grandes periódicos chinos han organizado durante mucho tiempo gala
 
 ## El trasfondo de la regulación de la prensa
 
-Como todos los periódicos de Malasia, la publicación de la prensa china está regulada por la ley. Según la **Ley de Imprentas y Publicaciones de 1984 (Printing Presses and Publications Act 1984)**, el uso de una imprenta, así como la impresión y publicación de periódicos, requieren un permiso del Ministerio del Interior.
+Como todos los periódicos de Malasia, la publicación de la prensa china está regulada por la ley. Según la **[Ley de Imprentas y Publicaciones de 1984](/es/law/printing-presses-and-publications-act/) (Printing Presses and Publications Act 1984)**, el uso de una imprenta, así como la impresión y publicación de periódicos, requieren un permiso del Ministerio del Interior.
 
 Antes de la enmienda de 2012, las empresas periodísticas debían volver a solicitar **cada año** al Ministerio del Interior la renovación del permiso, un sistema que históricamente suscitó debates sobre la libertad de prensa. La Ley de enmienda aprobada en 2012 (Act A1436) suprimió la obligación de volver a solicitarlo cada año, pasando a que el permiso siga siendo válido hasta su revocación, y restableció cierto margen de revisión judicial sobre las decisiones correspondientes.
 

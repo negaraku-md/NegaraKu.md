@@ -145,7 +145,7 @@ to the Act. Most guides name two. There are seven:
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

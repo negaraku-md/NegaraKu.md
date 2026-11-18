@@ -34,7 +34,7 @@ faq:
     a: "Ya. Pengaduan tertulis dapat dirujuk kepada Lembaga Tatatertib di bawah Pasal 99. Jika Lembaga mendapati ada merit, ia akan membentuk Tribunal Penyiasatan di bawah Pasal 100 untuk menyelidiki pengaduan tersebut."
 
 lang: "id"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "pegu
 framework: explainer
 ---
 
-Setiap pengacara yang berdiri di pengadilan di Kuala Lumpur, Johor Bahru atau Pulau Pinang melakukannya di bawah satu undang-undang yang sama — dan jika ia menyimpang, undang-undang yang sama itu dapat mengakhiri kariernya. Itulah Legal Profession Act 1976 (Act 166), tulang punggung yang menyatukan profesi hukum Semenanjung Malaysia dan menempatkannya di bawah pengawasan Majlis Peguam serta sebuah lembaga tatatertib yang independen.
+Setiap pengacara yang berdiri di pengadilan di Kuala Lumpur, Johor Bahru atau Pulau Pinang melakukannya di bawah satu undang-undang yang sama — dan jika ia menyimpang, undang-undang yang sama itu dapat mengakhiri kariernya. Itulah Legal Profession Act 1976 (Act 166), tulang punggung yang menyatukan profesi hukum Semenanjung Malaysia dan menempatkannya di bawah pengawasan [Majlis Peguam](/id/law/bar-council-malaysia) serta sebuah lembaga tatatertib yang independen.
 
 ## Apa yang diatur oleh Legal Profession Act 1976?
 

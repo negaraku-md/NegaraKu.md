@@ -31,7 +31,7 @@ faq:
   - q: Thị trường viễn thông của Malaysia có còn tăng trưởng không?
     a: Tăng trưởng thuê bao phần lớn đã chững lại vì thị trường gần bão hòa. Tăng trưởng tương lai dự kiến đến từ các dịch vụ giá trị cao hơn — 5G, nâng cấp cáp quang, kết nối doanh nghiệp và dịch vụ số — thay vì từ việc ký kết một lượng lớn người dùng mới.
 lang: vi
-sourceContentHash: "0a9dfcb348c124ab"
+sourceContentHash: "71058a53ca5ab530"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Việc triển khai 5G của Malaysia là đặc biệt và đáng hiểu như b
 
 ## Cơ quan điều tiết: MCMC và Đạo luật Truyền thông và Đa phương tiện 1998
 
-Trọng tài của lĩnh vực này là **[Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)](/vi/government/mcmc-communications-multimedia-commission/)**, vốn vận hành theo **Đạo luật Truyền thông và Đa phương tiện 1998 (CMA)**. CMA tạo ra một khung "hội tụ" hiện đại xem viễn thông, phát sóng và nội dung trực tuyến là một ngành được điều tiết chứ không phải các ốc đảo riêng biệt, và nó thay thế các luật cũ hơn như Đạo luật Viễn thông 1950.
+Trọng tài của lĩnh vực này là **[Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)](/vi/government/mcmc-communications-multimedia-commission/)**, vốn vận hành theo **[Đạo luật Truyền thông và Đa phương tiện 1998](/vi/law/communications-and-multimedia-act-1998/) (CMA)**. CMA tạo ra một khung "hội tụ" hiện đại xem viễn thông, phát sóng và nội dung trực tuyến là một ngành được điều tiết chứ không phải các ốc đảo riêng biệt, và nó thay thế các luật cũ hơn như Đạo luật Viễn thông 1950.
 
 Quyền hạn của MCMC rộng. Nó cấp **giấy phép** (Đạo luật dùng một cấu trúc phân tầng bao quát cơ sở hạ tầng mạng, dịch vụ mạng, dịch vụ ứng dụng và nội dung), thực thi các quy tắc **cạnh tranh** và bảo vệ người tiêu dùng, đặt **tiêu chuẩn chất lượng dịch vụ**, quản lý **phổ tần**, và — quan trọng đối với giá cả — quyết định **định giá truy cập bán buôn**. Qua **Tiêu chuẩn Bắt buộc về Định giá Truy cập (MSAP)**, MCMC áp trần các mức bán buôn mà các chủ sở hữu mạng như TM có thể tính cho các đối thủ để truy cập hạ tầng của họ; các vòng MSAP 2018 và 2023 được ghi nhận là đã đẩy giá cáp quang bán lẻ xuống, dù các mức chính xác và sự truyền dẫn của chúng đến người tiêu dùng nên được kiểm tra với các quyết định hiện hành của MCMC.
 

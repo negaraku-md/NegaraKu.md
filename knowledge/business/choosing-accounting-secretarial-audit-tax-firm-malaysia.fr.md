@@ -31,7 +31,7 @@ faq:
   - q: "Une petite entreprise a-t-elle seulement besoin d'un auditeur ?"
     a: "Pas toujours. La SSM permet à certaines entreprises privées inactives, sans chiffre d'affaires ou éligibles au titre de seuils d'être exemptées de la nomination d'un auditeur. Si votre entreprise est éligible, vous pourriez n'avoir aucun besoin de services d'audit — seulement d'un secrétaire, d'une tenue de comptabilité et d'un dépôt fiscal. Vérifiez les critères actuels d'exemption d'audit avant de faire appel à un cabinet d'audit."
 lang: "fr"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ La première chose à comprendre, c'est qu'il s'agit de **quatre prestations dis
 
 | Prestation | Ce qu'elle couvre | Qui peut légalement la fournir |
 |---|---|---|
-| **Secrétaire général** | Dépôts légaux, registres, conformité du conseil et de la SSM | Une personne enregistrée auprès de la SSM détenant un certificat d'exercice au titre de la **s.241, Companies Act 2016** — membre d'un organisme prescrit (MAICSA, MACS, MIA, le Malaysian Bar) ou licenciée au titre de la s.20G de la SSM Act 2001 |
+| **Secrétaire général** | Dépôts légaux, registres, conformité du conseil et de la SSM | Une personne enregistrée auprès de la SSM détenant un certificat d'exercice au titre de la **s.241, Companies Act 2016** — membre d'un organisme prescrit (MAICSA, MACS, MIA, le [Malaysian Bar](/fr/law/bar-council-malaysia)) ou licenciée au titre de la s.20G de la SSM Act 2001 |
 | **Comptabilité / tenue de livres** | Livres courants, comptes de gestion et comptes légaux | Un membre de l'**Institut des comptables de Malaisie (MIA)** détenant un certificat d'exercice, au titre de l'Accountants Act 1967, pour l'exercice public |
 | **Audit** | Audit indépendant des états financiers | Un **auditeur de société agréé** au titre de la **s.263, Companies Act 2016**, agréé par le ministre des Finances ; pour les entités cotées et d'intérêt public, également supervisé par l'Audit Oversight Board |
 | **Agent fiscal** | Calculs fiscaux, dépôts et représentation auprès de la LHDN | Un agent fiscal **approuvé au titre de la s.153, Income Tax Act 1967** et figurant sur la liste de la LHDN |

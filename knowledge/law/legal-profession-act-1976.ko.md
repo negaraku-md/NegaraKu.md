@@ -34,7 +34,7 @@ faq:
     a: "예. 서면 진정은 제99조에 따라 징계위원회에 회부될 수 있습니다. 위원회가 이유가 있다고 판단하면, 그 진정을 조사하기 위하여 제100조에 따라 조사 심판소를 구성합니다."
 
 lang: "ko"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "pegu
 framework: explainer
 ---
 
-쿠알라룸푸르(Kuala Lumpur), 조호르바루 또는 페낭(Penang)의 법정에 서는 모든 변호사는 동일한 한 장의 법 아래에서 그렇게 하며 — 만약 그가 궤도를 벗어나면, 바로 그 법이 그의 경력을 끝낼 수 있습니다. 그것이 법조전문직법 1976(Legal Profession Act 1976, Act 166)으로, 말레이반도의 법조전문직을 통합하고 이를 변호사회(Majlis Peguam)와 독립적인 징계위원회의 감독 아래 두는 근간입니다.
+쿠알라룸푸르(Kuala Lumpur), 조호르바루 또는 페낭(Penang)의 법정에 서는 모든 변호사는 동일한 한 장의 법 아래에서 그렇게 하며 — 만약 그가 궤도를 벗어나면, 바로 그 법이 그의 경력을 끝낼 수 있습니다. 그것이 법조전문직법 1976(Legal Profession Act 1976, Act 166)으로, 말레이반도의 법조전문직을 통합하고 이를 [변호사회(Majlis Peguam)](/ko/law/bar-council-malaysia)와 독립적인 징계위원회의 감독 아래 두는 근간입니다.
 
 ## 법조전문직법 1976은 무엇을 규제하는가?
 

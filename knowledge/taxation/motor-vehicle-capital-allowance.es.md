@@ -26,7 +26,7 @@ verificationNeeded:
   - "Whether any accelerated or enhanced capital allowance specific to the purchase (as opposed to the rental) of electric vehicles has been gazetted — no such instrument was found in the AGC subsidiary-legislation database."
 
 lang: "es"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Existe una regla propia, publicada en boletín oficial, para las rentas. Las **R
 
 Las condiciones son estrictas:
 
-- el vehículo debe ser un vehículo de motor eléctrico en el sentido de la s.2 de la Road Transport Act 1987;
+- el vehículo debe ser un vehículo de motor eléctrico en el sentido de la s.2 de la [Road Transport Act 1987](/es/law/road-transport-act-1987);
 - debe ser **nuevo** y no haber sido usado nunca por ninguna persona antes del arrendamiento;
 - no debe tener licencia para el transporte comercial de mercancías o de pasajeros;
 - la deducción agregada no debe superar **RM300,000** por vehículo a lo largo de todos los años;

@@ -31,7 +31,7 @@ faq:
   - q: Adakah pasaran telekomunikasi Malaysia masih berkembang?
     a: Pertumbuhan pelanggan sebahagian besarnya telah mendatar kerana pasaran hampir tepu. Pertumbuhan masa depan dijangka datang daripada perkhidmatan bernilai lebih tinggi — 5G, naik taraf fiber, ketersambungan perusahaan dan perkhidmatan digital — dan bukannya daripada mendaftarkan sejumlah besar pengguna baharu.
 lang: ms
-sourceContentHash: "0a9dfcb348c124ab"
+sourceContentHash: "71058a53ca5ab530"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Pelancaran 5G Malaysia tersendiri dan wajar difahami sebagai konteks untuk penge
 
 ## Pengawal selia: MCMC dan Akta Komunikasi dan Multimedia 1998
 
-Pengadil sektor ini ialah **[Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)](/government/mcmc-communications-multimedia-commission/)**, yang beroperasi di bawah **Akta Komunikasi dan Multimedia 1998 (CMA)**. CMA mencipta rangka kerja "penumpuan" moden yang mengendalikan telekomunikasi, penyiaran dan kandungan dalam talian sebagai satu industri yang dikawal selia dan bukannya silo berasingan, serta menggantikan undang-undang lama seperti Akta Telekomunikasi 1950.
+Pengadil sektor ini ialah **[Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)](/government/mcmc-communications-multimedia-commission/)**, yang beroperasi di bawah **[Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998/) (CMA)**. CMA mencipta rangka kerja "penumpuan" moden yang mengendalikan telekomunikasi, penyiaran dan kandungan dalam talian sebagai satu industri yang dikawal selia dan bukannya silo berasingan, serta menggantikan undang-undang lama seperti Akta Telekomunikasi 1950.
 
 Kuasa MCMC adalah luas. Ia mengeluarkan **lesen** (Akta ini menggunakan struktur berlapis yang meliputi kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi dan kandungan), menguatkuasakan peraturan **persaingan** dan perlindungan pengguna, menetapkan **standard kualiti perkhidmatan**, menguruskan **spektrum**, dan — pentingnya bagi harga — menentukan **penetapan harga akses borong**. Melalui **Standard Mandatori Penetapan Harga Akses (MSAP)**, MCMC menghadkan kadar borong yang boleh dikenakan pemilik rangkaian seperti TM kepada pesaing untuk akses kepada infrastruktur mereka; pusingan MSAP 2018 dan 2023 dikreditkan dengan menolak harga fiber runcit turun, walaupun kadar tepat dan limpahannya kepada pengguna harus disemak terhadap penentuan MCMC semasa.
 

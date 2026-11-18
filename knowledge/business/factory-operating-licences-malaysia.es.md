@@ -33,7 +33,7 @@ faq:
     a: "Depende de la actividad. Conforme a la Ley de Calidad Ambiental de 1974, los proyectos industriales pesados o grandes enumerados en la Orden de Calidad Ambiental (Actividades Prescritas) (Evaluación de Impacto Ambiental) de 2015 deben tener una EIA aprobada antes de que el proyecto avance. Ciertas industrias —aceite de palma crudo, caucho natural en bruto, instalaciones de residuos regulados— son «instalaciones prescritas» que necesitan el permiso escrito de DOE para construir y una licencia para operar. Una fábrica ordinaria que vierte efluentes o emite contaminantes atmosféricos debe aún así cumplir con los reglamentos de efluentes y de aire limpio de DOE. Confirma el estatus de tu actividad con DOE antes de construir."
 
 lang: "es"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ La capa operativa se arma a partir de autoridades separadas, cada una con su pro
 |---|---|---|---|
 | Licencia de fabricación / exención de la ICA | MITI / MIDA | Ley de Coordinación Industrial de 1975 | Autoriza la **actividad** de fabricación (ver la guía dedicada) |
 | Certificado de Terminación y Cumplimiento (CCC) | Arquitecto/ingeniero (PSP) + autoridad local | Ley de Calles, Drenaje y Edificación de 1974 + Reglamentos Uniformes de Edificación | Hace que el **edificio** sea legalmente apto para ocuparse |
-| Certificado de aptitud de maquinaria | DOSH | Ley de Seguridad y Salud en el Trabajo de 1994 + Reglamento OSH (Maquinaria que Requiere CA) de 2024 | Permite operar la **maquinaria** regulada |
+| Certificado de aptitud de maquinaria | DOSH | [Ley de Seguridad y Salud en el Trabajo de 1994](/es/law/occupational-safety-and-health-act/) + Reglamento OSH (Maquinaria que Requiere CA) de 2024 | Permite operar la **maquinaria** regulada |
 | Certificado de incendios | BOMBA | Ley de Servicios contra Incendios de 1988 | Visto bueno de seguridad contra incendios continuo para las **instalaciones designadas** |
 | Licencia de local comercial + rótulo | Ayuntamiento local (PBT) | Ley de Administración Local de 1976 + reglamentos municipales | Licencia el **negocio en esa dirección** |
 | EIA / aprobación de instalación prescrita | DOE | Ley de Calidad Ambiental de 1974 | Aprueba el **impacto ambiental de la actividad** cuando está prescrita |

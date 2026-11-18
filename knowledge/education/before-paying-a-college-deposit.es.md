@@ -35,7 +35,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -203,7 +203,7 @@ confirma por escrito qué es reembolsable y en qué plazo, y conserva todos los
 registros.
 
 Si el marketing de una institución fue engañoso, o una cláusula está gravemente
-desequilibrada, la **Ley de Protección del Consumidor de 1999 (Act 599)** —que
+desequilibrada, la **[Ley de Protección del Consumidor de 1999](/es/law/consumer-protection-act/) (Act 599)** —que
 cubre la conducta engañosa y las cláusulas contractuales abusivas— *podría*
 ofrecer una vía, y los comentarios jurídicos sostienen que los estudiantes pueden
 ser "consumidores" conforme a ella. Pero esa es una posible vía, no un reembolso

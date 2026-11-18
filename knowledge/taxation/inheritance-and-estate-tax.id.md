@@ -38,7 +38,7 @@ faq:
     a: "Ya. Wasi harus memberi tahu LHDN tentang kematian, menyampaikan laporan akhir pewaris dan laporan harta peninggalan, serta menyelesaikan pajak dan penalti tertunggak apa pun sebelum membagikan harta peninggalan. LHDN memiliki tiga tahun dari akhir tahun ia diberi tahu tentang kematian untuk menerbitkan ketetapan."
 
 lang: "id"
-sourceContentHash: "68ad2357941779d2"
+sourceContentHash: "41452eb0f37e297f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -211,7 +211,7 @@ Bea nominal RM10 berlaku apabila pemindahan dibuat di bawah:
 
 - suatu **wasiat** yang sah;
 - **Distribution Act** (yaitu perwarisan tanpa wasiat, apabila tidak ada wasiat); atau
-- **faraid**, aturan waris wajib di bawah hukum Syariah untuk harta peninggalan orang Islam.
+- **[faraid](/id/law/faraid-and-islamic-inheritance)**, aturan waris wajib di bawah hukum Syariah untuk harta peninggalan orang Islam.
 
 Bea meterai ad valorem dapat, bagaimanapun, dipicu jika benefisiari menyusun ulang hak mereka *di luar* kerangka statutori tersebut. Yurisprudensi Malaysia telah bergulat dengan hal ini: dalam *Lee Koy Eng v Pemungut Duti Setem* [2022] MSTC 30-483, Mahkamah Tinggi memutuskan bahwa seorang benefisiari di bawah kematian tanpa wasiat tidak memiliki hak atau kepentingan yang melekat dalam harta peninggalan sampai pengurusan selesai, sehingga suatu instrumen Borang 14A yang melaksanakan penolakan hak itu tidak dapat menjadi 'pemberian' — Anda tidak dapat memberikan apa yang belum Anda miliki — dan hanya menarik bea nominal, bukan ad valorem. (Atas banding, kasus itu dilaporkan sebagai *Pemungut Duti Setem v Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209, di mana Mahkamah Persekutuan memastikan bahwa suatu kasus yang dinyatakan di bawah Pasal 39 Stamp Act 1949 dapat dibanding kepadanya; baik Mahkamah Tinggi maupun Mahkamah Rayuan memutuskan memihak kepada pembayar bea dari segi substansi.) Pelajaran yang lebih luas adalah bagaimana dokumen disusun (contohnya, suatu akta pengaturan keluarga) memengaruhi bea. Jika benefisiari ingin membagi ulang aset di antara mereka dengan cara yang tidak diperuntukkan oleh wasiat atau Distribution Act, dapatkan nasihat terlebih dahulu, karena struktur yang salah dapat mengubah pemindahan RM10 menjadi bea tarif penuh.
 

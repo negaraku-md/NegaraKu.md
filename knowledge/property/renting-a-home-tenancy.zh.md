@@ -23,7 +23,7 @@ appliesTo: "在马来西亚半岛、沙巴或砂拉越租住或出租住宅物�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ framework: explainer
 
 - **Specific Relief Act 1950** 规范租赁期满后租客拒不搬离时该怎么处理。
 - **Distress Act 1951** 给予房东一条经法院追讨欠租的途径。
-- **Civil Law Act 1956** 与普通民事诉讼程序，则更概括地处理有关金钱与损害赔偿的纠纷。
+- **[Civil Law Act 1956](/zh/law/common-law-in-malaysia)** 与普通民事诉讼程序，则更概括地处理有关金钱与损害赔偿的纠纷。
 
 这些法律没有一部是围绕现代租赁而拟定的。它们是为了处理广义的物业与合同纠纷而制定的，法院则将其延伸适用于租赁关系。由此产生的实际后果是：在设有租赁法的司法管辖区里默认存在的权利——最短通知期、押金上限、法定纠纷仲裁庭——在这里大多并不存在，除非协议本身创设了它们。
 

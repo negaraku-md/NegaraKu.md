@@ -109,7 +109,7 @@ Perkara 70 Perlembagaan Persekutuan menetapkan bahawa, tertakluk kepada keutamaa
 
 ## Apakah peranan seorang Raja dalam negerinya?
 
-Dalam sempadan negerinya, seorang Raja memikul tiga kedudukan utama: ketua negeri, ketua agama Islam bagi negeri itu, dan penjaga adat istiadat Melayu. Menurut Majlis Peguam Malaysia, Raja negeri bertindak sebagai raja berperlembagaan di bawah Perkara 71 dan 181(1) Perlembagaan Persekutuan — kuasa mereka ditakrif dan dibatasi oleh undang-undang, bukan bersifat mutlak.
+Dalam sempadan negerinya, seorang Raja memikul tiga kedudukan utama: ketua negeri, ketua agama Islam bagi negeri itu, dan penjaga adat istiadat Melayu. Menurut [Majlis Peguam Malaysia](/law/bar-council-malaysia), Raja negeri bertindak sebagai raja berperlembagaan di bawah Perkara 71 dan 181(1) Perlembagaan Persekutuan — kuasa mereka ditakrif dan dibatasi oleh undang-undang, bukan bersifat mutlak.
 
 Dalam kebanyakan urusan pemerintahan, Raja bertindak atas nasihat Majlis Mesyuarat Kerajaan negeri. Peruntukan Jadual Kelapan menetapkan bahawa Raja hendaklah bertindak mengikut nasihat Majlis Mesyuarat, kecuali dalam perkara yang diberikan budi bicara kepadanya.
 

@@ -29,7 +29,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ Les permis sont délivrés par classe de véhicule. Le tableau ci-dessous résum
 
 ## La base juridique : le Road Transport Act 1987
 
-L'autorité juridique centrale du JPJ est le **Road Transport Act 1987 (Act 333)**, qui a reçu la sanction royale en août 1987 et est entré en vigueur le mois suivant. La loi régit l'immatriculation et les permis des véhicules à moteur et des conducteurs, les règles de construction et d'usage, les infractions au code de la route et les sanctions, ainsi que les pouvoirs d'application sur lesquels le JPJ s'appuie. L'autorisation des véhicules commerciaux s'appuie historiquement sur une loi compagnon, le **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Les règles subsidiaires prises en application de ces lois en précisent le détail opérationnel.
+L'autorité juridique centrale du JPJ est le **[Road Transport Act 1987](/fr/law/road-transport-act-1987) (Act 333)**, qui a reçu la sanction royale en août 1987 et est entré en vigueur le mois suivant. La loi régit l'immatriculation et les permis des véhicules à moteur et des conducteurs, les règles de construction et d'usage, les infractions au code de la route et les sanctions, ainsi que les pouvoirs d'application sur lesquels le JPJ s'appuie. L'autorisation des véhicules commerciaux s'appuie historiquement sur une loi compagnon, le **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Les règles subsidiaires prises en application de ces lois en précisent le détail opérationnel.
 
 Comme la loi est amendée régulièrement — y compris des révisions périodiques des sanctions — les automobilistes devraient considérer les amendes et numéros de section précis comme susceptibles de changer et vérifier le texte faisant foi en vigueur lorsque cela importe.
 

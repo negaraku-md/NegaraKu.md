@@ -137,7 +137,7 @@ Majlis Raja-Raja memikul beberapa fungsi perlembagaan yang tidak dipegang oleh m
 - **Pelantikan.** Menasihati mengenai pelantikan tertentu yang memerlukan persetujuan Majlis, serta melantik anggota Mahkamah Khas di bawah Perkara 182 dan wakil kepada badan seperti Majlis Angkatan Tentera dan Lembaga Pengelola [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka).
 - **Kuasa pengampunan.** Memberi ampun, remisi dan pengurangan hukuman dalam hal-hal tertentu.
 
-Menurut catatan Majlis Peguam Malaysia, Perlembagaan turut memperuntukkan kuasa memberhentikan Yang di-Pertuan Agong di bawah Perkara 38(6) — satu kuasa yang, menurut catatan itu, tidak pernah digunakan.
+Menurut catatan [Majlis Peguam Malaysia](/law/bar-council-malaysia), Perlembagaan turut memperuntukkan kuasa memberhentikan Yang di-Pertuan Agong di bawah Perkara 38(6) — satu kuasa yang, menurut catatan itu, tidak pernah digunakan.
 
 ## Bagaimana Majlis beroperasi?
 

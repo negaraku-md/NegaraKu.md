@@ -23,7 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyebut biaya pasti untuk kursus Kelas D di sekolah mengemudi swasta, atau jadwal biaya JPJ yang pasti untuk jalur LDL/PDL/CDL, karena tiada satu jadwal biaya resmi JPJ ditemukan saat verifikasi — verifikasi biaya saat ini langsung di konter JPJ atau sekolah mengemudi berlisensi sebelum menyusun anggaran."
   - "Kata-kata pasti Pasal 28 Road Transport Act 1987 diverifikasi melalui ringkasan sekunder Undang-Undang itu alih-alih pembacaan baris demi baris langsung terhadap PDF yang dihosting JPJ (dihindari di sini untuk menghemat penggunaan konteks) — nomor pasal dan dampak substantifnya didukung di berbagai sumber independen, tetapi verifikasi kata-kata pasti terhadap PDF Act 333 yang dihosting JPJ jika menyusun sesuatu yang bergantung secara hukum kepadanya."
 lang: "id"
-sourceContentHash: "04842acf21e405cb"
+sourceContentHash: "137fb2a54b30ed94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,7 +82,7 @@ daring ditulis sebelum perubahan itu terjadi.
 ## Apa yang sebenarnya mengizinkan Anda mengemudi di sini
 
 Malaysia tidak mengharuskan setiap pengunjung mengikuti ujian lokal. Pasal
-28 **Road Transport Act 1987** (Act 333)
+28 **[Road Transport Act 1987](/id/law/road-transport-act-1987)** (Act 333)
 mengakui lisensi mengemudi yang dikeluarkan oleh negara yang menjadi pihak
 dalam perjanjian dengan Malaysia mengenai pengakuan bersama lisensi
 domestik — dalam praktiknya, ini mencakup Konvensi Jenewa tentang Lalu

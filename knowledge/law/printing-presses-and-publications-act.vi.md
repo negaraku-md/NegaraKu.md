@@ -29,7 +29,7 @@ faq:
     a: "Điều 7 cho phép Bộ trưởng, qua một lệnh trong Công báo, cấm một ấn phẩm bị coi là gây hại hoặc có khả năng gây hại cho trật tự công cộng, an ninh, đạo đức, quan hệ với nước ngoài hoặc lợi ích quốc gia."
 
 lang: "vi"
-sourceContentHash: "614accf2d6e4feba"
+sourceContentHash: "a66b780f5398b184"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Quyền lực được thảo luận thường xuyên nhất nằm ở điều 7
 
 Ngoài quyền phê duyệt hoặc từ chối đơn, Act 301 trao cho Bộ trưởng quyền thu hồi hoặc đình chỉ giấy phép và giấy phép hoạt động đã được cấp. Quyền này được nêu trong điều 13.
 
-Trong suốt lịch sử của nó, đặc điểm này trở thành tâm điểm của cuộc tranh luận vì giấy phép hoạt động của một ấn phẩm có thể bị dừng lại mà ấn phẩm đó không bị cấm vĩnh viễn. Một trong những ví dụ thường được dẫn là việc đình chỉ giấy phép hoạt động của tuần báo *The Heat* vào năm 2013, được Hội đồng Luật sư Malaysia nêu như một vụ đặt ra câu hỏi về quy trình thích đáng.
+Trong suốt lịch sử của nó, đặc điểm này trở thành tâm điểm của cuộc tranh luận vì giấy phép hoạt động của một ấn phẩm có thể bị dừng lại mà ấn phẩm đó không bị cấm vĩnh viễn. Một trong những ví dụ thường được dẫn là việc đình chỉ giấy phép hoạt động của tuần báo *The Heat* vào năm 2013, được [Hội đồng Luật sư Malaysia](/vi/law/bar-council-malaysia) nêu như một vụ đặt ra câu hỏi về quy trình thích đáng.
 
 ## Điều gì thay đổi sau sửa đổi 2012?
 

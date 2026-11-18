@@ -87,7 +87,7 @@ The first thing to understand is that these are **four separate services, each w
 
 | Service | What it covers | Who may legally provide it |
 |---|---|---|
-| **Company secretary** | Statutory filings, registers, board and SSM compliance | A person registered with SSM holding a practising certificate under **s.241, Companies Act 2016** — a member of a prescribed body (MAICSA, MACS, MIA, the Malaysian Bar) or licensed under s.20G of the SSM Act 2001 |
+| **Company secretary** | Statutory filings, registers, board and SSM compliance | A person registered with SSM holding a practising certificate under **s.241, Companies Act 2016** — a member of a prescribed body (MAICSA, MACS, MIA, [the Malaysian Bar](/law/bar-council-malaysia)) or licensed under s.20G of the SSM Act 2001 |
 | **Accounting / bookkeeping** | Day-to-day books, management and statutory accounts | A member of the **Malaysian Institute of Accountants (MIA)** with a practising certificate, under the Accountants Act 1967, for public practice |
 | **Audit** | Independent audit of the financial statements | An **approved company auditor** under **s.263, Companies Act 2016**, approved by the Minister of Finance; for listed and public-interest entities, also overseen by the Audit Oversight Board |
 | **Tax agent** | Tax computations, filing, and representing you to LHDN | A tax agent **approved under s.153, Income Tax Act 1967** and listed by LHDN |

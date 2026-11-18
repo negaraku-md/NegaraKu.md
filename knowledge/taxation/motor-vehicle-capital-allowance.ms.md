@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 
 status: "published"
 aiAssisted: true
@@ -149,7 +149,7 @@ pemprosesan yang berkaitan dengan pajakan itu. Kaedah-kaedah ini berkuat kuasa
 Syarat-syaratnya ketat:
 
 - kenderaan itu mestilah kenderaan motor elektrik dalam maksud s.2 Akta
-  Pengangkutan Jalan 1987 (Road Transport Act 1987);
+  Pengangkutan Jalan 1987 ([Road Transport Act 1987](/law/road-transport-act-1987));
 - ia mestilah **baru** dan tidak pernah digunakan oleh sesiapa sebelum pajakan;
 - ia tidak boleh dilesenkan untuk pengangkutan komersial barangan atau
   penumpang;

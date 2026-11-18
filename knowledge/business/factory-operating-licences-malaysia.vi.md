@@ -33,7 +33,7 @@ faq:
     a: "Điều đó phụ thuộc vào hoạt động. Theo Luật Chất lượng Môi trường năm 1974 (Environmental Quality Act 1974), các dự án công nghiệp nặng hoặc quy mô lớn được liệt kê trong Lệnh về Chất lượng Môi trường (Hoạt động được quy định) (Đánh giá Tác động Môi trường) năm 2015 (Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015) phải có một EIA được phê duyệt trước khi dự án tiến hành. Một số ngành — dầu cọ thô, cao su thiên nhiên nguyên liệu, các cơ sở xử lý chất thải theo danh mục — là «mặt bằng được quy định» cần giấy phép bằng văn bản của DOE để xây dựng và một giấy phép để vận hành. Một nhà máy thông thường xả nước thải hoặc phát thải chất ô nhiễm không khí vẫn phải tuân thủ các quy định về nước thải và không khí sạch của DOE. Hãy xác nhận tình trạng hoạt động của bạn với DOE trước khi xây dựng."
 
 lang: "vi"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Lớp vận hành được lắp ghép từ các cơ quan riêng biệt, mỗi c
 |---|---|---|---|
 | Giấy phép sản xuất / miễn trừ ICA | MITI / MIDA | Industrial Co-ordination Act 1975 | Cho phép **hoạt động** sản xuất (xem hướng dẫn riêng) |
 | Giấy chứng nhận Hoàn thành và Tuân thủ (CCC) | Kiến trúc sư/kỹ sư (PSP) + cơ quan địa phương | Street, Drainage and Building Act 1974 + Uniform Building By-Laws | Làm cho **tòa nhà** hợp pháp đủ điều kiện sử dụng |
-| Giấy chứng nhận đủ điều kiện cho thiết bị | DOSH | Occupational Safety and Health Act 1994 + OSH (Plant Requiring CF) Regulations 2024 | Cho phép **máy móc** được quy định được vận hành |
+| Giấy chứng nhận đủ điều kiện cho thiết bị | DOSH | [Occupational Safety and Health Act 1994](/vi/law/occupational-safety-and-health-act/) + OSH (Plant Requiring CF) Regulations 2024 | Cho phép **máy móc** được quy định được vận hành |
 | Giấy chứng nhận phòng cháy chữa cháy | BOMBA | Fire Services Act 1988 | Sự thông qua an toàn cháy nổ thường xuyên cho **mặt bằng được chỉ định** |
 | Giấy phép mặt bằng kinh doanh + biển hiệu | Hội đồng địa phương (PBT) | Local Government Act 1976 + quy chế của hội đồng | Cấp phép cho **doanh nghiệp tại địa chỉ đó** |
 | Phê duyệt EIA / mặt bằng được quy định | DOE | Environmental Quality Act 1974 | Phê duyệt **tác động môi trường của hoạt động** ở nơi được quy định |

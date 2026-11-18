@@ -23,7 +23,7 @@ verificationNeeded:
   - "本文并未引用私人驾驶学校 Class D 课程的确切收费，也未列出 LDL/PDL/CDL 流程的 JPJ 确切收费表，因为查证过程中未能找到单一的官方 JPJ 收费表——在编列预算前，请直接向 JPJ 柜台或持牌驾驶学校确认现行收费。"
   - "Road Transport Act 1987 第28条的确切文字，是透过该法令的二手摘要确认的，而非逐行阅读 JPJ 网站上刊载的 PDF 原文（此处为控制查证篇幅而未采用）——条文编号与实质效力已获多个独立来源相互印证，但若要撰写任何具法律依赖性的文件，请以 JPJ 网站刊载的 Act 333 PDF 原文为准核实确切措辞。"
 lang: "zh"
-sourceContentHash: "04842acf21e405cb"
+sourceContentHash: "137fb2a54b30ed94"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,7 +79,7 @@ Pass 新雇员，以及一位为期两周行程的游客——三人向 JPJ 提�
 
 ## 究竟是什么让你能在这里开车
 
-马来西亚并不要求每一位访客都参加本地考试。**Road Transport Act 1987**
+马来西亚并不要求每一位访客都参加本地考试。**[Road Transport Act 1987](/zh/law/road-transport-act-1987)**
 （Act 333）第28条承认由与马来西亚订有国内驾照互认条约的国家所核发的驾驶
 执照——实务上，这涵盖 1949 年日内瓦道路交通公约（Geneva Convention on
 Road Traffic 1949）与 1968 年维也纳道路交通公约（Vienna Convention on

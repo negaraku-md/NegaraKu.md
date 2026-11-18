@@ -27,7 +27,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6e325f951c4e130"
+sourceContentHash: "329a713e6b0a3f4c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -76,7 +76,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-Setiap cukai jalan yang dibayar, plat nombor yang dikeluarkan, dan lesen memandu yang dibawa di Malaysia melalui satu agensi: **Jabatan Pengangkutan Jalan**, yang dikenali di mana-mana dengan singkatannya **JPJ**. Ia beroperasi di bawah Bahagian Darat **Kementerian Pengangkutan** dan merupakan jabatan yang bertanggungjawab mendaftarkan kenderaan, mengeluarkan lesen memandu dan plat nombor kenderaan, serta menguatkuasakan Akta Pengangkutan Jalan 1987 untuk memastikan pemandu yang berhemah dan kenderaan yang selamat.
+Setiap cukai jalan yang dibayar, plat nombor yang dikeluarkan, dan lesen memandu yang dibawa di Malaysia melalui satu agensi: **Jabatan Pengangkutan Jalan**, yang dikenali di mana-mana dengan singkatannya **JPJ**. Ia beroperasi di bawah Bahagian Darat **Kementerian Pengangkutan** dan merupakan jabatan yang bertanggungjawab mendaftarkan kenderaan, mengeluarkan lesen memandu dan plat nombor kenderaan, serta menguatkuasakan [Akta Pengangkutan Jalan 1987](/law/road-transport-act-1987) untuk memastikan pemandu yang berhemah dan kenderaan yang selamat.
 
 ## Apakah yang sebenarnya dilakukan oleh JPJ?
 

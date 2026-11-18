@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 
 status: "published"
 aiAssisted: true
@@ -113,7 +113,7 @@ Fourth Scheduleには、合計七つの団体が掲げられている。
 
 1. マレーシア勅許秘書役・管理者協会（MAICSA）
 2. Malaysian Institute of Accountants（MIA）
-3. Malaysian Bar
+3. [Malaysian Bar](/ja/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries（MACS）
 5. Malaysian Institute of Certified Public Accountants（MICPA）
 6. Sabah Law Society

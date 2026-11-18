@@ -29,7 +29,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ Lisensi diterbitkan menurut kelas kendaraan. Tabel di bawah merangkum kelas-kela
 
 ## Dasar hukum: Road Transport Act 1987
 
-Dasar hukum utama JPJ adalah **Road Transport Act 1987 (Act 333)**, yang menerima Persetujuan Diraja pada Agustus 1987 dan mulai berlaku bulan berikutnya. Undang-undang ini mengatur pendaftaran dan pemberian lisensi kendaraan bermotor dan pengemudi, aturan konstruksi dan penggunaan, pelanggaran lalu lintas dan sanksi, serta kewenangan penegakan yang diandalkan JPJ. Lisensi kendaraan niaga secara historis bersandar pada undang-undang pendamping, yaitu **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Aturan turunan yang dibuat berdasarkan undang-undang ini mengisi rincian operasionalnya.
+Dasar hukum utama JPJ adalah **[Road Transport Act 1987](/id/law/road-transport-act-1987) (Act 333)**, yang menerima Persetujuan Diraja pada Agustus 1987 dan mulai berlaku bulan berikutnya. Undang-undang ini mengatur pendaftaran dan pemberian lisensi kendaraan bermotor dan pengemudi, aturan konstruksi dan penggunaan, pelanggaran lalu lintas dan sanksi, serta kewenangan penegakan yang diandalkan JPJ. Lisensi kendaraan niaga secara historis bersandar pada undang-undang pendamping, yaitu **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Aturan turunan yang dibuat berdasarkan undang-undang ini mengisi rincian operasionalnya.
 
 Karena undang-undang ini diubah secara berkala — termasuk peninjauan sanksi secara periodik — pengendara sebaiknya memperlakukan denda dan nomor pasal tertentu sebagai dapat berubah dan memeriksa teks otoritatif terkini jika itu penting.
 

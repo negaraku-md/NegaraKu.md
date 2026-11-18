@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 
 status: "published"
 aiAssisted: true
@@ -139,7 +139,7 @@ framework: explainer
 - 共有財産（harta sepencarian）の分配又は請求；
 - 死亡したイスラム教徒の病篤（marad-al-maut、重篤な病）における遺言又は贈与；
 - 贈与（hibah）、宗教寄進（wakaf）又は誓約寄進（nazr）；及び
-- 遺言による、又は無遺言による財産の分配及び相続（faraid）。
+- 遺言による、又は無遺言による財産の分配及び相続（[faraid](/ja/law/faraid-and-islamic-inheritance)）。
 
 シャリア下級裁判所の民事（mal）管轄権の金額上限は、それぞれの法令又は法律によって定められている。連邦直轄区では、Akta 505 s.47が、争われている事項の金額又は価額がRM50,000を超えない場合、又は金銭で見積もることができない場合にその上限を定めている。この上限は州によって異なりうる。
 

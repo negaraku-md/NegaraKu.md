@@ -23,7 +23,7 @@ appliesTo: "任何人——旅客、雇主、学生，或关心马来西亚联�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "468d0412b31978aa"
+sourceContentHash: "4aa35379a611971b"
 
 status: "published"
 aiAssisted: true
@@ -161,7 +161,7 @@ Article 112D 提供了检讨机制：特别拨款须由联邦政府与州政府�
 
 ## 已记录的立场
 
-这些保障的范围与落实情况，至今仍是公众与法律界持续讨论的活跃议题——本文在此如实报告，不作任何背书。由马来西亚律师公会（Malaysian Bar）与 ConstitutionNet 等机构汇整的评论指出，宪法一方面将这些保障予以固化，另一方面又让其中若干项——尤其是 Article 112C 与 112D 之下的财政条文——依赖于定期的检讨与协议，这正是为什么即使条文本身已经确定，其日常执行仍会引发争论。NegaraKu.md 陈述这些条文本身；它不解决这些争论。
+这些保障的范围与落实情况，至今仍是公众与法律界持续讨论的活跃议题——本文在此如实报告，不作任何背书。由[马来西亚律师公会](/zh/law/bar-council-malaysia)（Malaysian Bar）与 ConstitutionNet 等机构汇整的评论指出，宪法一方面将这些保障予以固化，另一方面又让其中若干项——尤其是 Article 112C 与 112D 之下的财政条文——依赖于定期的检讨与协议，这正是为什么即使条文本身已经确定，其日常执行仍会引发争论。NegaraKu.md 陈述这些条文本身；它不解决这些争论。
 
 ## 下一步
 

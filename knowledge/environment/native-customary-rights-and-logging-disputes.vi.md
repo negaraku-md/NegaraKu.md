@@ -29,7 +29,7 @@ faq:
     a: "Các giấy phép khai thác gỗ và hợp đồng thuê đồn điền do bang cấp có thể bao phủ các khu vực mà các cộng đồng yêu sách là đất tập quán. Nơi các bên bất đồng về việc liệu một khu vực có phải là đất NCR hay không, tranh chấp thường được quyết định tại tòa án."
 
 lang: "vi"
-sourceContentHash: "73a645ecf7076b5d"
+sourceContentHash: "28337553336a3000"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,7 +111,7 @@ Một cột mốc ban đầu là **Nor Anak Nyawai & Ors v Borneo Pulp Plantatio
 
 Quyết định gần đây được trích dẫn nhiều nhất là **Director of Forest, Sarawak & Anor v TR Sandah & Ors**, được báo cáo tại **[2017] 2 MLJ 281** và quyết định vào ngày **20 tháng 12 năm 2016**. Các bên yêu sách khẳng định các quyền đối với khoảng **5,639 hecta** bắt nguồn từ *pemakai menoa* và *pulau galau*. Một **đa số 3:1** của Tòa án Liên bang cho rằng các loại cộng đồng này **không có hiệu lực pháp lý**, vì chúng không được phản ánh trong tập quán được mã hóa (như *Tusun Tunggu* và Adat Iban Order 1993); ngược lại, *temuda* đã canh tác được xử lý như được công nhận. Một ý kiến bất đồng có quan điểm trái ngược về tính có thể thực thi của các quyền tập quán rộng hơn.
 
-Các bên yêu sách sau đó tìm cách rà soát. Tòa án Liên bang bác đơn xin rà soát vào năm **2019**. The Malaysian Bar, bình luận về kết quả đó, mô tả nó là một cơ hội bị bỏ lỡ và kêu gọi hành động lập pháp, bao gồm các sửa đổi để bảo đảm các thẩm phán có kinh nghiệm về Borneo tham gia xét xử các kháng cáo của Sabah và Sarawak — một lập trường do Bar đưa ra chứ không phải một phán quyết của tòa.
+Các bên yêu sách sau đó tìm cách rà soát. Tòa án Liên bang bác đơn xin rà soát vào năm **2019**. [The Malaysian Bar](/vi/law/bar-council-malaysia), bình luận về kết quả đó, mô tả nó là một cơ hội bị bỏ lỡ và kêu gọi hành động lập pháp, bao gồm các sửa đổi để bảo đảm các thẩm phán có kinh nghiệm về Borneo tham gia xét xử các kháng cáo của Sabah và Sarawak — một lập trường do Bar đưa ra chứ không phải một phán quyết của tòa.
 
 ## Các lập trường khác nhau là gì?
 

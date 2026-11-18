@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 
 status: "published"
 aiAssisted: true
@@ -113,7 +113,7 @@ s.39(1)(k)は、非商用自動車についてRM50,000を超えるリース料�
 
 条件は厳格である：
 
-- 当該車両は、Road Transport Act 1987のs.2の意味における電気自動車でなければならない；
+- 当該車両は、[Road Transport Act 1987](/ja/law/road-transport-act-1987)のs.2の意味における電気自動車でなければならない；
 - 当該車両は**新車**であり、リース前にいかなる者によっても使用されたことがあってはならない；
 - 当該車両は、貨物又は旅客の商業運送のために免許されていてはならない；
 - 合計控除額は、車両1台につきすべての年度を通じて**RM300,000**を超えてはならない；

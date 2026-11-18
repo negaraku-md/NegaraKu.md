@@ -89,7 +89,7 @@ Apabila seseorang meninggal dunia di Malaysia, siapa yang mewarisi rumahnya berg
 
 ## Apakah undang-undang yang menentukan pembahagian harta pusaka?
 
-Malaysia mengendalikan pewarisan melalui dua rangka kerja yang berasingan. Bagi orang Islam, harta pusaka dibahagikan mengikut **faraid**, iaitu undang-undang pewarisan Islam, dan Mahkamah Syariah mengeluarkan **sijil faraid** yang mengesahkan senarai waris yang berhak serta bahagian masing-masing sebelum harta itu diagihkan.
+Malaysia mengendalikan pewarisan melalui dua rangka kerja yang berasingan. Bagi orang Islam, harta pusaka dibahagikan mengikut **[faraid](/law/faraid-and-islamic-inheritance/)**, iaitu undang-undang pewarisan Islam, dan Mahkamah Syariah mengeluarkan **sijil faraid** yang mengesahkan senarai waris yang berhak serta bahagian masing-masing sebelum harta itu diagihkan.
 
 Bagi bukan Islam yang meninggal dunia tanpa meninggalkan wasiat (mati *intestate*), pembahagian dikawal oleh **Akta Pembahagian 1958 (Akta 300)**. Akta ini terpakai kepada bukan Islam di Semenanjung Malaysia dan di Sarawak; Sabah dan golongan anak negeri Sarawak tertakluk pada peruntukan yang berlainan. Jika seseorang bukan Islam meninggalkan wasiat yang sah, harta pusakanya dibahagikan mengikut wasiat itu, bukan formula Akta 300.
 

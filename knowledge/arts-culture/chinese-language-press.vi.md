@@ -33,7 +33,7 @@ faq:
     a: "Phù hợp với xu thế của ngành báo toàn cầu, lượng phát hành bản in của báo tiếng Hoa Malaysia nhìn chung sụt giảm trong hai thập niên gần đây, với người đọc — nhất là thế hệ trẻ — ngày càng tiếp cận tin tức qua điện thoại di động và internet. Do đó các tờ báo đã phát triển các nền tảng số như trang tin tức, báo điện tử và ứng dụng di động, với một phần nội dung cũng được lan truyền trên mạng xã hội. Liệu bản in có biến mất hoàn toàn hay không, và khi nào, vẫn còn chưa chắc chắn, và bài viết này không đưa ra dự đoán."
 
 lang: "vi"
-sourceContentHash: "77631a962c5674a5"
+sourceContentHash: "ba3edfb9eefffbdb"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -126,7 +126,7 @@ Ngoài ra, các tờ báo tiếng Hoa lớn từ lâu tổ chức các buổi bi
 
 ## Bối cảnh quản lý báo chí
 
-Như mọi tờ báo ở Malaysia, việc xuất bản báo tiếng Hoa chịu sự điều chỉnh của pháp luật. Theo **Đạo luật Máy in và Ấn phẩm 1984 (Printing Presses and Publications Act 1984)**, việc sử dụng máy in cũng như in và xuất bản báo chí đều phải xin giấy phép của Bộ Nội vụ.
+Như mọi tờ báo ở Malaysia, việc xuất bản báo tiếng Hoa chịu sự điều chỉnh của pháp luật. Theo **[Đạo luật Máy in và Ấn phẩm 1984](/vi/law/printing-presses-and-publications-act/) (Printing Presses and Publications Act 1984)**, việc sử dụng máy in cũng như in và xuất bản báo chí đều phải xin giấy phép của Bộ Nội vụ.
 
 Trước lần sửa đổi năm 2012, các công ty báo chí phải nộp đơn lại cho Bộ Nội vụ **hằng năm** để gia hạn giấy phép, một sắp xếp trong lịch sử từng làm nảy sinh những cuộc thảo luận về tự do báo chí. Đạo luật sửa đổi được thông qua năm 2012 (Act A1436) đã bãi bỏ yêu cầu nộp đơn lại mỗi năm, đổi thành giấy phép tiếp tục có hiệu lực cho đến khi bị thu hồi, và khôi phục một mức độ xem xét tư pháp đối với các quyết định liên quan.
 

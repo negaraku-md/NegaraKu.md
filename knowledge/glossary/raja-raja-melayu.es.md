@@ -29,7 +29,7 @@ faq:
     a: "La Conferencia de Gobernantes está consagrada en el Artículo 38 de la Constitución Federal, con sus funciones y procedimientos detallados en el Quinto Anexo."
 
 lang: "es"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ La Conferencia de Gobernantes desempeña varias funciones constitucionales que n
 - **Nombramientos.** Asesorar sobre ciertos nombramientos que requieren el acuerdo de la Conferencia, así como nombrar a los miembros del Tribunal Especial bajo el Artículo 182 y a los representantes ante órganos como el Consejo de las Fuerzas Armadas y la Junta de Gobernadores del [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka).
 - **Facultad de indulto.** Conceder indultos, suspensiones y aplazamientos de la pena en ciertos casos.
 
-Según los registros del Colegio de Abogados de Malasia, la Constitución también prevé la facultad de destituir al Yang di-Pertuan Agong bajo el Artículo 38(6) — una facultad que, según esos registros, nunca se ha utilizado.
+Según los registros del [Colegio de Abogados de Malasia](/es/law/bar-council-malaysia), la Constitución también prevé la facultad de destituir al Yang di-Pertuan Agong bajo el Artículo 38(6) — una facultad que, según esos registros, nunca se ha utilizado.
 
 ## ¿Cómo funciona la Conferencia?
 

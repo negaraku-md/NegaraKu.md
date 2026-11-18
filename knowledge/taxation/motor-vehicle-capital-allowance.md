@@ -136,7 +136,7 @@ effect **from YA2023 to YA2027**.
 
 The conditions are strict:
 
-- the vehicle must be an electric motor vehicle within s.2 of the Road Transport Act 1987;
+- the vehicle must be an electric motor vehicle within s.2 of the [Road Transport Act 1987](/law/road-transport-act-1987);
 - it must be **new** and never used by any person before the rental;
 - it must not be licensed for the commercial carriage of goods or passengers;
 - the aggregate deduction must not exceed **RM300,000** per vehicle across all years;

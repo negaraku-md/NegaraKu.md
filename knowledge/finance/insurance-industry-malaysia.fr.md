@@ -34,7 +34,7 @@ faq:
     a: "La couverture Act (responsabilité civile) est le minimum légal et ne paie que les blessures ou le décès de tiers. La responsabilité civile, incendie et vol ajoute une couverture si votre propre voiture brûle ou est volée. La couverture tous risques (Comprehensive) est la plus large, et paie aussi les dommages accidentels à votre propre véhicule."
 
 lang: "fr"
-sourceContentHash: "f3e95ab7db734acf"
+sourceContentHash: "2613d119cd9dfc2d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ Le problème de l'automobile est structurel. En 2025, la gravité des sinistres 
 
 ## Pourquoi seule l'assurance automobile est-elle obligatoire ?
 
-Pour les consommateurs ordinaires, l'assurance en Malaisie est très majoritairement facultative — à une exception tranchée près. Au titre de la **Road Transport Act 1987 (Act 333)**, quiconque utilise un véhicule à moteur sur une voie publique doit être assuré contre les risques de tiers. C'est la couverture qui paie les inconnus que vous pourriez blesser ou tuer dans un accident, et aucune taxe de circulation ne peut être renouvelée sans elle.
+Pour les consommateurs ordinaires, l'assurance en Malaisie est très majoritairement facultative — à une exception tranchée près. Au titre de la **[Road Transport Act 1987](/fr/law/road-transport-act-1987) (Act 333)**, quiconque utilise un véhicule à moteur sur une voie publique doit être assuré contre les risques de tiers. C'est la couverture qui paie les inconnus que vous pourriez blesser ou tuer dans un accident, et aucune taxe de circulation ne peut être renouvelée sans elle.
 
 Ce socle légal se décline en trois niveaux de couverture automobile, chacun plus large que le précédent :
 

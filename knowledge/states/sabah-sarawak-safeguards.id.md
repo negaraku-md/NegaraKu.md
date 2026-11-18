@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun — wisatawan, pemberi kerja, pelajar, atau pembaca yang tertarik pada federalisme Malaysia — yang menginginkan penjelasan yang mudah dan deskriptif tentang perlindungan konstitusional yang dimiliki oleh Sabah dan Sarawak, dan di mana masing-masing termaktub, tanpa memihak dalam perdebatan tentang cara ia dilaksanakan."
 
 lang: "id"
-sourceContentHash: "468d0412b31978aa"
+sourceContentHash: "4aa35379a611971b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -162,7 +162,7 @@ Karena perlindungan **Bagian XIIA** ini dan ketentuan terkaitnya dikukuhkan deng
 
 ## Pendirian yang didokumentasikan
 
-Cakupan dan pelaksanaan perlindungan ini tetap menjadi subjek perbincangan publik dan hukum yang masih hangat — dilaporkan di sini tanpa dukungan. Ulasan yang dikumpulkan oleh badan seperti Malaysian Bar dan ConstitutionNet mencatat bahwa Konstitusi itu sendiri mengukuhkan perlindungan ini sekaligus membiarkan beberapa di antaranya — terutama ketentuan keuangan di bawah Pasal 112C dan 112D — bergantung pada tinjauan dan persetujuan berkala, itulah sebabnya pelaksanaan hariannya diperdebatkan meskipun teksnya sudah tetap. NegaraKu.md menyatakan ketentuan-ketentuan itu; ia tidak menuntaskan perdebatan tersebut.
+Cakupan dan pelaksanaan perlindungan ini tetap menjadi subjek perbincangan publik dan hukum yang masih hangat — dilaporkan di sini tanpa dukungan. Ulasan yang dikumpulkan oleh badan seperti [Malaysian Bar](/id/law/bar-council-malaysia) dan ConstitutionNet mencatat bahwa Konstitusi itu sendiri mengukuhkan perlindungan ini sekaligus membiarkan beberapa di antaranya — terutama ketentuan keuangan di bawah Pasal 112C dan 112D — bergantung pada tinjauan dan persetujuan berkala, itulah sebabnya pelaksanaan hariannya diperdebatkan meskipun teksnya sudah tetap. NegaraKu.md menyatakan ketentuan-ketentuan itu; ia tidak menuntaskan perdebatan tersebut.
 
 ## Apa selanjutnya
 

@@ -23,7 +23,7 @@ appliesTo: "任何希望以逐款、描述性的方式了解第153条实际规�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "91d4996a886b6aaa"
+sourceContentHash: "64d20a0bdc0d7dde"
 
 status: "published"
 aiAssisted: true
@@ -141,7 +141,7 @@ framework: explainer
 
 马来西亚政府已公开重申这项条文。2024年2月，针对一名国会议员呼吁重新评估相关平权政策是否仍然惠及其原定对象，首相安华依布拉欣（Anwar Ibrahim）表示，政府"will continue upholding the position of the Constitution, including Article 153"——即将继续捍卫宪法立场，包括第153条，据首相署一份声明。
 
-另外，在马来西亚律师公会（Malaysian Bar）转载的一篇法律评论中（原文由Raja Aziz Addruse与Helen Ting发表于《New Sunday Times》，2008年6月22日），作者写道，宪法中有关"特殊地位"的条文"understood more as a protective measure for the Malay community which was then socio–economically disadvantaged"——即更应被理解为对当时在社会经济上处于弱势的马来社群的一项保护措施，并指出"five out of the 12 clauses of Article 153 set out to limit the scope of its application"——即第153条12款之中有五款旨在限制其适用范围。作者总结道，"there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153"——即没有理由认为废除新经济政策（NEP）必然要求修改或废止第153条——这一立场将第153条的宪法文本，与另一套独立的[新经济政策](/zh/malaysia/new-economic-policy)政策框架区分开来。
+另外，在[马来西亚律师公会](/zh/law/bar-council-malaysia)（Malaysian Bar）转载的一篇法律评论中（原文由Raja Aziz Addruse与Helen Ting发表于《New Sunday Times》，2008年6月22日），作者写道，宪法中有关"特殊地位"的条文"understood more as a protective measure for the Malay community which was then socio–economically disadvantaged"——即更应被理解为对当时在社会经济上处于弱势的马来社群的一项保护措施，并指出"five out of the 12 clauses of Article 153 set out to limit the scope of its application"——即第153条12款之中有五款旨在限制其适用范围。作者总结道，"there is no ground to suggest that doing away with the NEP necessarily requires the amendment or repeal of Article 153"——即没有理由认为废除新经济政策（NEP）必然要求修改或废止第153条——这一立场将第153条的宪法文本，与另一套独立的[新经济政策](/zh/malaysia/new-economic-policy)政策框架区分开来。
 
 ## 下一步
 

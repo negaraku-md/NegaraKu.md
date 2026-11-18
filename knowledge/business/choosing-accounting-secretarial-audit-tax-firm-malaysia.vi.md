@@ -31,7 +31,7 @@ faq:
   - q: "Một công ty nhỏ có thực sự cần một kiểm toán viên không?"
     a: "Không phải lúc nào cũng vậy. SSM cho phép một số công ty tư nhân ngủ yên, không doanh thu và đủ điều kiện theo ngưỡng được miễn bổ nhiệm một kiểm toán viên. Nếu công ty của bạn đủ điều kiện, bạn có thể hoàn toàn không cần dịch vụ kiểm toán — chỉ cần một thư ký, việc giữ sổ sách và nộp thuế. Hãy kiểm tra các tiêu chí miễn kiểm toán hiện hành trước khi thuê một công ty kiểm toán."
 lang: "vi"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ Mọi công ty Malaysia đều dựa vào một nhóm nhỏ các chuyên gia mà
 
 | Dịch vụ | Nó bao gồm những gì | Ai được phép cung cấp nó một cách hợp pháp |
 |---|---|---|
-| **Thư ký công ty** | Các lần nộp hồ sơ theo luật, các sổ đăng ký, sự tuân thủ của hội đồng và SSM | Một người được đăng ký với SSM giữ một giấy chứng nhận hành nghề theo **s.241, Companies Act 2016** — một thành viên của một tổ chức được quy định (MAICSA, MACS, MIA, Malaysian Bar) hoặc được cấp phép theo s.20G của SSM Act 2001 |
+| **Thư ký công ty** | Các lần nộp hồ sơ theo luật, các sổ đăng ký, sự tuân thủ của hội đồng và SSM | Một người được đăng ký với SSM giữ một giấy chứng nhận hành nghề theo **s.241, Companies Act 2016** — một thành viên của một tổ chức được quy định (MAICSA, MACS, MIA, [Malaysian Bar](/vi/law/bar-council-malaysia)) hoặc được cấp phép theo s.20G của SSM Act 2001 |
 | **Kế toán / giữ sổ sách** | Sổ sách hằng ngày, các tài khoản quản trị và theo luật | Một thành viên của **Malaysian Institute of Accountants (MIA)** với một giấy chứng nhận hành nghề, theo Accountants Act 1967, đối với hành nghề công |
 | **Kiểm toán** | Kiểm toán độc lập các báo cáo tài chính | Một **kiểm toán viên công ty được phê duyệt** theo **s.263, Companies Act 2016**, được Bộ trưởng Tài chính phê duyệt; đối với các thực thể niêm yết và vì lợi ích công, còn được Audit Oversight Board giám sát |
 | **Đại lý thuế** | Các tính toán thuế, nộp hồ sơ, và đại diện cho bạn trước LHDN | Một đại lý thuế **được phê duyệt theo s.153, Income Tax Act 1967** và được LHDN liệt kê |

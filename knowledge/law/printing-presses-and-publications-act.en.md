@@ -29,7 +29,7 @@ faq:
     a: "Section 7 allows the Minister, through an order in the Gazette, to prohibit any publication deemed prejudicial or likely to be prejudicial to public order, security, morality, relations with a foreign country or the national interest."
 
 lang: "en"
-sourceContentHash: "614accf2d6e4feba"
+sourceContentHash: "a66b780f5398b184"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ The most frequently discussed power lies in section 7, which concerns undesirabl
 
 In addition to the power to approve or refuse applications, Act 301 grants the Minister the power to revoke or suspend licences and permits that have already been issued. This power is set out in section 13.
 
-Throughout its history, this feature has been a focal point of debate because a publication's permit can be halted without the publication being permanently banned. One frequently cited example is the suspension of the weekly newspaper *The Heat*'s permit in 2013, which the Malaysian Bar described as a case that raised questions about due process.
+Throughout its history, this feature has been a focal point of debate because a publication's permit can be halted without the publication being permanently banned. One frequently cited example is the suspension of the weekly newspaper *The Heat*'s permit in 2013, which the [Malaysian Bar](/en/law/bar-council-malaysia) described as a case that raised questions about due process.
 
 ## What changed after the 2012 amendment?
 

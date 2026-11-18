@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué es la industria de contenidos creativos y animación de Malasia?
     a: Es el negocio de producir películas, programas de televisión, animación, música y videojuegos, cada vez más para la exportación además del mercado interno. La animación malasia en particular ha tenido éxito internacional, siendo el ejemplo más conocido la serie infantil Upin & Ipin, producida por Les' Copaque. El gobierno apoya el sector a través de fondos y agencias como MyCreative Ventures y FINAS.
 lang: es
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Para nutrir más de esto, los responsables de políticas se apoyan en financiaci
 
 ## Regulación: la CMA 1998, la MCMC y FINAS
 
-Los medios y la radiodifusión en Malasia se sitúan bajo un marco regulatorio convergente construido en torno a la **Ley de Comunicaciones y Multimedia de 1998 (CMA)**. La Ley reunió las telecomunicaciones, la radiodifusión y el contenido en línea bajo un mismo techo, administrado por la **[Comisión de Comunicaciones y Multimedia de Malasia (MCMC)](/es/government/mcmc-communications-multimedia-commission/)**.
+Los medios y la radiodifusión en Malasia se sitúan bajo un marco regulatorio convergente construido en torno a la **[Ley de Comunicaciones y Multimedia de 1998](/es/law/communications-and-multimedia-act-1998/) (CMA)**. La Ley reunió las telecomunicaciones, la radiodifusión y el contenido en línea bajo un mismo techo, administrado por la **[Comisión de Comunicaciones y Multimedia de Malasia (MCMC)](/es/government/mcmc-communications-multimedia-commission/)**.
 
 En la práctica esto significa:
 

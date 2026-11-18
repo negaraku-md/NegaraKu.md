@@ -33,7 +33,7 @@ faq:
     a: "활동에 따라 다릅니다. 환경질법 1974(Environmental Quality Act 1974)에 따라, 환경질(규정 활동)(환경영향평가)명령 2015(Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015)에 열거된 중공업 또는 대규모 산업 프로젝트는 프로젝트 진행 전에 승인된 EIA를 갖추어야 합니다. 원유 팜유, 원료 천연고무, 지정폐기물 시설 같은 특정 산업은 건설에 DOE의 서면 허가를, 운영에 인허가를 요하는 「규정 사업장」입니다. 폐수를 배출하거나 대기 오염물질을 배출하는 일반 공장도 여전히 DOE의 폐수 및 청정대기 규정을 준수해야 합니다. 건축 전에 귀하의 활동 상태를 DOE에 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ framework: rules
 |---|---|---|---|
 | 제조 라이선스 / ICA 면제 | MITI / MIDA | 산업조정법(Industrial Co-ordination Act 1975) | 제조 **활동**을 허가함(전용 가이드 참조) |
 | 준공·적합 증명서(CCC) | 건축사/엔지니어(PSP) + 지방자치단체 | 도로·배수·건축법(Street, Drainage and Building Act 1974) + 통일건축세칙(Uniform Building By-Laws) | **건물**을 점유하기에 법적으로 적합하게 만듦 |
-| 설비 적합 증명서 | DOSH | 산업안전보건법(Occupational Safety and Health Act 1994) + OSH(적합 증명서 요구 설비) 규정 2024 | 규제 대상 **기계**를 운영할 수 있게 함 |
+| 설비 적합 증명서 | DOSH | [산업안전보건법](/ko/law/occupational-safety-and-health-act/)(Occupational Safety and Health Act 1994) + OSH(적합 증명서 요구 설비) 규정 2024 | 규제 대상 **기계**를 운영할 수 있게 함 |
 | 소방 증명서 | BOMBA | 소방서비스법(Fire Services Act 1988) | **지정 부지**에 대한 지속적 소방 안전 승인 |
 | 영업장 + 간판 라이선스 | 지방의회(PBT) | 지방정부법(Local Government Act 1976) + 의회 세칙 | **해당 주소의 영업**을 허가함 |
 | EIA / 지정 부지 승인 | DOE | 환경품질법(Environmental Quality Act 1974) | 지정된 경우 **활동의 환경 영향**을 승인함 |

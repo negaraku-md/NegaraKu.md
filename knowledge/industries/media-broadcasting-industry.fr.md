@@ -31,7 +31,7 @@ faq:
   - q: "Qu'est-ce que l'industrie malaisienne du contenu créatif et de l'animation ?"
     a: "C'est l'activité de production de films, de programmes de télévision, d'animation, de musique et de jeux — de plus en plus pour l'exportation autant que pour le marché intérieur. L'animation malaisienne en particulier a connu un succès international, l'exemple le plus connu étant la série pour enfants Upin & Ipin, produite par Les' Copaque. Le gouvernement soutient le secteur par des fonds et des agences telles que MyCreative Ventures et FINAS."
 lang: fr
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Pour en nourrir davantage, les décideurs s'appuient sur des financements et des
 
 ## Réglementation : le CMA 1998, la MCMC et FINAS
 
-Les médias et la radiodiffusion en Malaisie relèvent d'un cadre réglementaire convergé bâti autour du **Communications and Multimedia Act 1998 (CMA)**. La loi a réuni les télécommunications, la radiodiffusion et le contenu en ligne sous un même toit, administré par la **[Commission malaisienne des communications et du multimédia (MCMC)](/fr/government/mcmc-communications-multimedia-commission/)**.
+Les médias et la radiodiffusion en Malaisie relèvent d'un cadre réglementaire convergé bâti autour du **[Communications and Multimedia Act 1998](/fr/law/communications-and-multimedia-act-1998/) (CMA)**. La loi a réuni les télécommunications, la radiodiffusion et le contenu en ligne sous un même toit, administré par la **[Commission malaisienne des communications et du multimédia (MCMC)](/fr/government/mcmc-communications-multimedia-commission/)**.
 
 En pratique, cela signifie :
 

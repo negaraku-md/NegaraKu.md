@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang menyewa atau menyewakan hartanah kediaman di Malaysia �
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 
 status: "published"
 aiAssisted: true
@@ -96,7 +96,7 @@ Satu Rang Undang-Undang Sewaan Kediaman (Residential Tenancy Bill) telah dibinca
 
 - **Akta Relif Spesifik 1950 (Specific Relief Act 1950)** mentadbir apa yang berlaku apabila penyewa enggan berpindah keluar selepas penyewaan tamat.
 - **Akta Distres 1951 (Distress Act 1951)** memberikan tuan rumah laluan mahkamah untuk mendapatkan semula sewa yang tidak dibayar.
-- **Akta Undang-Undang Sivil 1956 (Civil Law Act 1956)** dan prosedur sivil biasa menguruskan pertikaian mengenai wang dan ganti rugi secara lebih umum.
+- **[Akta Undang-Undang Sivil 1956 (Civil Law Act 1956)](/law/common-law-in-malaysia)** dan prosedur sivil biasa menguruskan pertikaian mengenai wang dan ganti rugi secara lebih umum.
 
 Tiada satu pun daripadanya dirangka khusus untuk penyewaan moden. Ia dibina untuk pertikaian hartanah dan kontrak secara umum, dan mahkamah memakainya kepada penyewaan secara lanjutan. Akibat praktikalnya: hak-hak yang wujud secara lalai dalam sesebuah bidang kuasa yang mempunyai akta sewaan — tempoh notis minimum, had ke atas deposit, tribunal pertikaian berkanun — sebahagian besarnya tidak wujud di sini melainkan perjanjian itu sendiri mewujudkannya.
 

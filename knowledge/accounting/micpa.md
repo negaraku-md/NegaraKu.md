@@ -133,7 +133,7 @@ members enjoy reciprocal recognition in several major economies.
 
 MICPA is the **fifth body listed in the Fourth Schedule** to the Companies Act
 2016, so its members are qualified to act as company secretaries under
-s.235(2)(a) — on the same footing as MAICSA, MIA, the Malaysian Bar and the other
+s.235(2)(a) — on the same footing as MAICSA, MIA, [the Malaysian Bar](/law/bar-council-malaysia) and the other
 approved bodies. As with every Fourth Schedule body, that is a qualification: a
 person must still obtain a s.241 practising certificate from SSM before acting.
 

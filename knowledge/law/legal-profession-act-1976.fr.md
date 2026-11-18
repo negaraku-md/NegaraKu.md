@@ -34,7 +34,7 @@ faq:
     a: "Oui. Une plainte écrite peut être transmise au Conseil de discipline en vertu de la section 99. Si le Conseil estime la plainte fondée, il constituera un Tribunal d'enquête en vertu de la section 100 pour enquêter sur la plainte."
 
 lang: "fr"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "advo
 framework: explainer
 ---
 
-Tout avocat qui se présente devant un tribunal à Kuala Lumpur, Johor Bahru ou Penang le fait sous un seul et même corps de règles — et, s'il s'en écarte, cette même loi peut mettre fin à sa carrière. C'est le Legal Profession Act 1976 (Act 166), la colonne vertébrale qui unifie la profession juridique de Malaisie péninsulaire et la place sous la supervision du Bar Council et d'un conseil de discipline indépendant.
+Tout avocat qui se présente devant un tribunal à Kuala Lumpur, Johor Bahru ou Penang le fait sous un seul et même corps de règles — et, s'il s'en écarte, cette même loi peut mettre fin à sa carrière. C'est le Legal Profession Act 1976 (Act 166), la colonne vertébrale qui unifie la profession juridique de Malaisie péninsulaire et la place sous la supervision du [Bar Council](/fr/law/bar-council-malaysia) et d'un conseil de discipline indépendant.
 
 ## Que réglemente le Legal Profession Act 1976 ?
 

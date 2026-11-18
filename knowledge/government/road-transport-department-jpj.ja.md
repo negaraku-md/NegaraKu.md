@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ JPJ の責務は、いくつかの中核領域に集約される。
 
 ## 法的根拠：1987年道路交通法
 
-JPJ の中核的な法的権限は**1987年道路交通法（Road Transport Act 1987、Act 333）**であり、1987年8月に国王の裁可を受け、翌月に施行された。同法は、自動車と運転者の登録・免許付与、構造と使用の規則、交通違反と罰則、そして JPJ が依拠する執行権限を定める。商用車両の免許付与は歴史的に、同伴の法律である**1987年商用車両免許委員会法（Commercial Vehicles Licensing Board Act 1987、Act 334）**に依拠する。これらの法律のもとで作られた下位規則が運用の細部を補う。
+JPJ の中核的な法的権限は**[1987年道路交通法](/ja/law/road-transport-act-1987)（Road Transport Act 1987、Act 333）**であり、1987年8月に国王の裁可を受け、翌月に施行された。同法は、自動車と運転者の登録・免許付与、構造と使用の規則、交通違反と罰則、そして JPJ が依拠する執行権限を定める。商用車両の免許付与は歴史的に、同伴の法律である**1987年商用車両免許委員会法（Commercial Vehicles Licensing Board Act 1987、Act 334）**に依拠する。これらの法律のもとで作られた下位規則が運用の細部を補う。
 
 同法は定期的に改正されるため——罰則の定期的な見直しを含む——運転者は特定の罰金や条文番号は変わりうるものとして扱い、重要な場合には現在の正文を確認すべきである。
 

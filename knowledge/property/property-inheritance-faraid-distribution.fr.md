@@ -30,7 +30,7 @@ faq:
     a: "Une petite succession comprenant des biens immeubles et évaluée à moins de RM5 millions est gérée par l'administrateur foncier via le bureau foncier de district (District Land Office), qui délivre une ordonnance de distribution (Distribution Order)."
 
 lang: "fr"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Lorsqu'une personne décède en Malaisie, celui qui hérite de son logement dép
 
 ## Quelle loi détermine le partage d'une succession ?
 
-La Malaisie gère l'héritage au moyen de deux cadres distincts. Pour les musulmans, la succession est partagée selon le **faraid**, le droit islamique de l'héritage, et le tribunal de la charia délivre un **certificat de faraid** confirmant la liste des héritiers ayant droit et la part de chacun avant que la succession ne soit distribuée.
+La Malaisie gère l'héritage au moyen de deux cadres distincts. Pour les musulmans, la succession est partagée selon le **[faraid](/fr/law/faraid-and-islamic-inheritance/)**, le droit islamique de l'héritage, et le tribunal de la charia délivre un **certificat de faraid** confirmant la liste des héritiers ayant droit et la part de chacun avant que la succession ne soit distribuée.
 
 Pour les non-musulmans décédés sans laisser de testament (décès *ab intestat*), le partage est régi par la **Loi sur la distribution de 1958 (Distribution Act 1958) (loi 300)**. Cette loi s'applique aux non-musulmans en Malaisie péninsulaire et au Sarawak ; le Sabah et les autochtones du Sarawak sont soumis à des dispositions différentes. Si un non-musulman laisse un testament valable, sa succession est partagée selon ce testament, et non selon la formule de la loi 300.
 

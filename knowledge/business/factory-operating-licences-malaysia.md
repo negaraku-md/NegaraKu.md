@@ -99,7 +99,7 @@ The operating layer is assembled from separate authorities, each with its own st
 |---|---|---|---|
 | Manufacturing licence / ICA exemption | MITI / MIDA | Industrial Co-ordination Act 1975 | Authorises the manufacturing **activity** (see the dedicated guide) |
 | Certificate of Completion and Compliance (CCC) | Architect/engineer (PSP) + local authority | Street, Drainage and Building Act 1974 + Uniform Building By-Laws | Makes the **building** legally fit to occupy |
-| Certificate of fitness for plant | DOSH | Occupational Safety and Health Act 1994 + OSH (Plant Requiring CF) Regulations 2024 | Lets regulated **machinery** be operated |
+| Certificate of fitness for plant | DOSH | [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act/) + OSH (Plant Requiring CF) Regulations 2024 | Lets regulated **machinery** be operated |
 | Fire certificate | BOMBA | Fire Services Act 1988 | Ongoing fire-safety clearance for **designated premises** |
 | Business-premise + signboard licence | Local council (PBT) | Local Government Act 1976 + council by-laws | Licenses the **business at that address** |
 | EIA / prescribed-premises approval | DOE | Environmental Quality Act 1974 | Approves the **activity's environmental impact** where prescribed |

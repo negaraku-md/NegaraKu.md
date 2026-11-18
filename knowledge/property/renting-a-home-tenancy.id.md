@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa atau menyewakan properti hunian di Malaysia — penyewa yang menandatangani perjanjian penyewaan pertama mereka, dan pemilik yang menyusun satu, di Semenanjung Malaysia, Sabah atau Sarawak."
 
 lang: "id"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Satu Rancangan Undang-Undang Sewa Hunian (Residential Tenancy Bill) telah dibaha
 
 - **Specific Relief Act 1950** mengatur apa yang terjadi ketika penyewa enggan pindah keluar setelah penyewaan berakhir.
 - **Distress Act 1951** memberi pemilik jalur pengadilan untuk mendapatkan kembali sewa yang tidak dibayar.
-- **Civil Law Act 1956** dan prosedur sipil biasa mengurus sengketa mengenai uang dan ganti rugi secara lebih umum.
+- **[Civil Law Act 1956](/id/law/common-law-in-malaysia)** dan prosedur sipil biasa mengurus sengketa mengenai uang dan ganti rugi secara lebih umum.
 
 Tidak satu pun dari itu disusun khusus untuk penyewaan modern. Ia dibangun untuk sengketa properti dan kontrak secara umum, dan pengadilan menerapkannya pada penyewaan secara perluasan. Akibat praktisnya: hak-hak yang ada secara bawaan dalam suatu yurisdiksi yang memiliki undang-undang sewa — masa pemberitahuan minimum, batas atas deposit, tribunal sengketa statutori — sebagian besar tidak ada di sini kecuali perjanjian itu sendiri menciptakannya.
 

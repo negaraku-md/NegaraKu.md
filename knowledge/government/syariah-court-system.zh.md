@@ -33,7 +33,7 @@ faq:
     a: "三级架构——伊斯兰下级法庭、伊斯兰高等法庭与伊斯兰上诉法庭——是通行做法，但各州通过其本州的法令设立，而联邦直辖区则由第505号法令规范。民事管辖权在金额价值上的上限由各自的法令或条例订明，各州之间可能有所不同。"
 
 lang: "zh"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ framework: explainer
 - 共同财产（harta sepencarian）的分配或申索；
 - 一名穆斯林在病危（marad-al-maut，即重病）期间去世时的遗嘱或赠与；
 - 赠与（hibah）、宗教捐赠（wakaf）或誓愿捐赠（nazr）；以及
-- 有遗嘱或无遗嘱财产的分配与继承（faraid）。
+- 有遗嘱或无遗嘱财产的分配与继承（[faraid](/zh/law/faraid-and-islamic-inheritance)）。
 
 伊斯兰下级法庭民事管辖权的金额上限由各自的法令或条例订明。在联邦直辖区，第505号法令第47条将上限定为争议事项的金额或价值不超过五万令吉，或无法以金钱估算者。此上限各州之间可能有所不同。
 

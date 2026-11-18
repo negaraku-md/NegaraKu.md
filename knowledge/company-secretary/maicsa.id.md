@@ -37,7 +37,7 @@ verificationNeeded:
   - "Pastikan rujukan pemberitahuan Warta (Gazette) yang menetapkan MAICSA sebagai badan yang disetujui, dan apakah ada syarat atau ketentuan apa pun yang dikenakan di bawah s.235(3)"
 
 lang: "id"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ Fourth Schedule menyenaraikan tujuh badan seluruhnya:
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/id/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

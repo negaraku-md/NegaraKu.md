@@ -31,7 +31,7 @@ faq:
     a: "نعم — وهو أكثر من إعادة تسمية. فالقانون A1738 ولائحة (التعديل) 2025، النافذان من 1 يناير 2026، يستبدلان 'KLRCA' بـ'AIAC'، ويشدّدان الجدول الزمني للفصل بحيث يتطلب التمديد الآن موافقة الطرفين والمحكِّم الفاصل، ويُدخِلان متطلبات محسّنة لإشعار الدفع ونماذج مقرَّرة، ويوسّعان التعريفات الرئيسية للحدّ من منازعات الاختصاص، ويعزّزان مسار التنفيذ. ويبقى إطار قرار الـ45 يوم عمل الأساسي، لكن الإجراء المحيط به تغيّر، فاستخدم نماذج AIAC الحالية."
 
 lang: "ar"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ framework: explainer
 
 أنشأ قانون الدفع والفصل في قطاع البناء لسنة 2012 (Construction Industry Payment and Adjudication Act 2012) عملية فصل قانونية لتسوية منازعات الدفع بسرعة، كبديل عن مسارَي التحكيم أو التقاضي الأبطأ والأكثر كلفة. وينطبق على عقود البناء المبرمة كتابةً والمنفَّذة في ماليزيا، ولا يمكن استبعاده بالتعاقد.
 
-ويدير الفصلَ المركز الآسيوي الدولي للتحكيم (Asian International Arbitration Centre, AIAC) — الهيئة المعروفة سابقاً باسم مركز كوالالمبور الإقليمي للتحكيم (Kuala Lumpur Regional Centre for Arbitration, KLRCA).
+ويدير الفصلَ [المركز الآسيوي الدولي للتحكيم](/ar/law/arbitration-and-dispute-resolution) (Asian International Arbitration Centre, AIAC) — الهيئة المعروفة سابقاً باسم مركز كوالالمبور الإقليمي للتحكيم (Kuala Lumpur Regional Centre for Arbitration, KLRCA).
 
 ## كيف تجري العملية، خطوة بخطوة؟
 

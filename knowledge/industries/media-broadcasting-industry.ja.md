@@ -31,7 +31,7 @@ faq:
   - q: マレーシアのクリエイティブコンテンツ・アニメ産業とは何ですか。
     a: 映画、テレビ番組、アニメ、音楽、ゲームを制作する事業で、国内市場だけでなくますます輸出向けにも作られています。とりわけマレーシアのアニメは国際的な成功を収めており、最もよく知られた例はLes' Copaqueが制作する子ども向けシリーズ『Upin & Ipin』です。政府は、MyCreative VenturesやFINASといった基金・機関を通じて同部門を支援しています。
 lang: ja
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ framework: profile
 
 ## 規制：CMA 1998、MCMC、FINAS
 
-マレーシアのメディア・放送は、**1998年通信マルチメディア法（CMA）**を軸に築かれた、融合した規制の枠組みのもとに位置している。同法は、電気通信、放送、オンラインコンテンツをひとつ屋根の下に収め、**[マレーシア通信マルチメディア委員会（MCMC）](/ja/government/mcmc-communications-multimedia-commission/)**が所管している。
+マレーシアのメディア・放送は、**[1998年通信マルチメディア法](/ja/law/communications-and-multimedia-act-1998/)（CMA）**を軸に築かれた、融合した規制の枠組みのもとに位置している。同法は、電気通信、放送、オンラインコンテンツをひとつ屋根の下に収め、**[マレーシア通信マルチメディア委員会（MCMC）](/ja/government/mcmc-communications-multimedia-commission/)**が所管している。
 
 実務上、これは次を意味する。
 

@@ -25,7 +25,7 @@ faq:
   - q: "Qu'est-ce que l'e-LKM ?"
     a: "L'e-LKM est la licence de véhicule à moteur numérique (taxe de circulation numérique) que le JPJ a introduite à partir de 2023, en remplacement de la vignette physique. Elle est accessible via l'application MyJPJ ou le portail MySIKAP."
 lang: "fr"
-sourceContentHash: "f6e325f951c4e130"
+sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,7 +76,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-Chaque taxe de circulation payée, chaque plaque d'immatriculation délivrée et chaque permis de conduire détenu en Malaisie passe par une seule agence : le **Département des Transports routiers** — *Jabatan Pengangkutan Jalan*, connu partout sous ses initiales **JPJ**. Il opère sous la Division terrestre du **ministère des Transports** et est le département chargé d'immatriculer les véhicules, de délivrer les permis de conduire et les plaques d'immatriculation, et d'appliquer la loi sur les transports routiers de 1987 afin de garantir des conducteurs prudents et des véhicules sûrs.
+Chaque taxe de circulation payée, chaque plaque d'immatriculation délivrée et chaque permis de conduire détenu en Malaisie passe par une seule agence : le **Département des Transports routiers** — *Jabatan Pengangkutan Jalan*, connu partout sous ses initiales **JPJ**. Il opère sous la Division terrestre du **ministère des Transports** et est le département chargé d'immatriculer les véhicules, de délivrer les permis de conduire et les plaques d'immatriculation, et d'appliquer la [loi sur les transports routiers de 1987](/fr/law/road-transport-act-1987) afin de garantir des conducteurs prudents et des véhicules sûrs.
 
 ## Que fait réellement le JPJ ?
 

@@ -37,7 +37,7 @@ verificationNeeded:
   - "التأكد من مرجع الإشعار في الجريدة الرسمية (Gazette) الذي بموجبه نُصَّ على اعتماد MAICSA كهيئة معتمدة، وما إذا كانت أي شروط أو أحكام قد فُرِضت بموجب المادة 235(3)"
 
 lang: "ar"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ MAICSA هي الهيئة التي يذكرها معظم الماليزيين ح�
 
 1. المعهد الماليزي لأمناء السر والإداريين المعتمدين (MAICSA)
 2. المعهد الماليزي للمحاسبين (MIA)
-3. نقابة المحامين الماليزية (Malaysian Bar)
+3. [نقابة المحامين الماليزية (Malaysian Bar)](/ar/law/bar-council-malaysia)
 4. الرابطة الماليزية لأمناء سر الشركات (MACS)
 5. المعهد الماليزي للمحاسبين العموميين المعتمدين (MICPA)
 6. جمعية صباح القانونية (Sabah Law Society)

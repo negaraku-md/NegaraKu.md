@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ framework: rules
 |---|---|---|---|
 | 製造ライセンス／ICA免除 | MITI／MIDA | 1975年産業調整法（Industrial Co-ordination Act 1975） | 製造という**活動**を認可する（専門ガイドを参照） |
 | 竣工適合証明書（CCC） | 建築士／技術者（PSP）＋地方自治体 | 1974年街路・排水及び建築物法＋統一建築附則 | **建物**を合法的に占用可能にする |
-| 設備の適格証明書 | DOSH | 1994年労働安全衛生法＋2024年労働安全衛生（適格証明書を要する設備）規則 | 規制対象**機械**の運営を可能にする |
+| 設備の適格証明書 | DOSH | [1994年労働安全衛生法](/ja/law/occupational-safety-and-health-act/)＋2024年労働安全衛生（適格証明書を要する設備）規則 | 規制対象**機械**の運営を可能にする |
 | 消防証明書 | BOMBA | 1988年消防法（Fire Services Act 1988） | **指定施設**についての継続的な消防安全上のクリアランス |
 | 施設許可＋看板許可 | 地方自治体（PBT） | 1976年地方政府法＋自治体細則 | **その住所での事業**を許可する |
 | EIA／特定施設の承認 | DOE | 1974年環境質法 | 指定される場合の**活動の環境影響**を承認する |

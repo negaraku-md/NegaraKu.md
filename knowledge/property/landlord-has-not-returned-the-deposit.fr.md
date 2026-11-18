@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "1a172ffed29950eb"
+sourceContentHash: "41f000c53719467c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ Escaladez proportionnellement à la somme ; la plupart des cas devraient s'arrê
 1. **Une demande écrite.** Réclamez, poliment mais fermement et **par écrit**, la restitution du dépôt dans un délai raisonnable — *ou* un décompte détaillé et étayé de toute déduction. Renvoyez à vos preuves ; restez factuel. Beaucoup de litiges s'arrêtent ici une fois que le propriétaire voit que vous avez des relevés et que vous connaissez la limite de l'usure normale.
 2. **Une mise en demeure formelle.** Plus formelle, souvent rédigée par un avocat, exposant la demande, son fondement, la somme et un délai avant action en justice. Elle signale votre sérieux et crée un dossier pré-contentieux clair — pesez les honoraires de l'avocat au regard du dépôt.
 3. **Une action civile.** La Malaisie n'a pas de *tribunal* des petites créances distinct, mais le **tribunal de première instance (Magistrates' Court)** dispose d'une **procédure simplifiée de petites créances** qu'un **particulier peut utiliser en personne, sans avocat**, pour les petites sommes ; les demandes plus importantes suivent la voie d'une action civile ordinaire devant le tribunal de première instance ou, au-delà de son seuil, le **Sessions Court.** Les **seuils monétaires, frais et formulaires changent**, alors vérifiez les seuils actuels auprès du tribunal (**kehakiman.gov.my**) plutôt que de vous fier à un chiffre cité ailleurs. Une mise en garde sur l'instance : le **tribunal des réclamations des acheteurs de logement (Tribunal for Homebuyer Claims)** concerne les *acheteurs* de logement contre les promoteurs, et un dépôt de location résidentielle privée n'entre **généralement pas** non plus dans le **tribunal des réclamations des consommateurs (Tribunal for Consumer Claims)** — ne supposez donc pas qu'un tribunal des consommateurs l'examinera ; confirmez auprès d'un avocat ou de l'aide juridique.
-4. **Aide juridique et conseils gratuits.** Le **Département de l'aide juridique (Jabatan Bantuan Guaman, JBG)** offre une aide soumise à condition de ressources, et le **Bar Council Legal Aid Centre** (ainsi que les centres du Barreau des États) fournissent des conseils gratuits ou subventionnés — chacun sous réserve de ses propres critères d'éligibilité.
+4. **Aide juridique et conseils gratuits.** Le **[Département de l'aide juridique](/fr/law/legal-aid-in-malaysia/) (Jabatan Bantuan Guaman, JBG)** offre une aide soumise à condition de ressources, et le **Bar Council Legal Aid Centre** (ainsi que les centres du Barreau des États) fournissent des conseils gratuits ou subventionnés — chacun sous réserve de ses propres critères d'éligibilité.
 
 ## Soyez proportionné — et prévenez le prochain
 

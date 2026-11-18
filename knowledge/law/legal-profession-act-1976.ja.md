@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 
 status: "published"
 aiAssisted: true
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "pegu
 framework: explainer
 ---
 
-クアラルンプール、ジョホールバル、あるいはペナンの法廷に立つすべての弁護士は、同一の一枚の法律のもとで職務を行っている——そして、もし道を誤れば、同じ法律が彼のキャリアを終わらせることもありうる。それが1976年法律専門職法（Legal Profession Act 1976、Act 166）である。この法律は、マレー半島（西マレーシア）の法律専門職を統一し、弁護士評議会（Bar Council）及び独立した懲戒委員会の監督下に置く屋台骨である。
+クアラルンプール、ジョホールバル、あるいはペナンの法廷に立つすべての弁護士は、同一の一枚の法律のもとで職務を行っている——そして、もし道を誤れば、同じ法律が彼のキャリアを終わらせることもありうる。それが1976年法律専門職法（Legal Profession Act 1976、Act 166）である。この法律は、マレー半島（西マレーシア）の法律専門職を統一し、[弁護士評議会（Bar Council）](/ja/law/bar-council-malaysia)及び独立した懲戒委員会の監督下に置く屋台骨である。
 
 ## 1976年法律専門職法は何を規律しているか。
 

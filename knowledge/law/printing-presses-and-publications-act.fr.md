@@ -29,7 +29,7 @@ faq:
     a: "La section 7 permet au ministre, par une ordonnance publiée au Journal officiel (Gazette), d'interdire toute publication jugée préjudiciable ou susceptible d'être préjudiciable à l'ordre public, à la sécurité, à la moralité, aux relations avec un pays étranger ou à l'intérêt national."
 
 lang: "fr"
-sourceContentHash: "614accf2d6e4feba"
+sourceContentHash: "a66b780f5398b184"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Le pouvoir le plus fréquemment débattu réside dans la section 7, qui concerne
 
 Outre le pouvoir d'approuver ou de refuser les demandes, l'Act 301 confère au ministre le pouvoir de révoquer ou de suspendre des licences et des permis déjà délivrés. Ce pouvoir est énoncé à la section 13.
 
-Tout au long de son histoire, cette caractéristique a été un point central de débat parce que le permis d'une publication peut être arrêté sans que la publication soit interdite de façon permanente. Un exemple fréquemment cité est la suspension en 2013 du permis de l'hebdomadaire *The Heat*, que le Conseil de l'Ordre des avocats de Malaisie (Malaysian Bar) a décrite comme une affaire soulevant des interrogations sur le respect de la régularité de la procédure.
+Tout au long de son histoire, cette caractéristique a été un point central de débat parce que le permis d'une publication peut être arrêté sans que la publication soit interdite de façon permanente. Un exemple fréquemment cité est la suspension en 2013 du permis de l'hebdomadaire *The Heat*, que le [Conseil de l'Ordre des avocats de Malaisie](/fr/law/bar-council-malaysia) (Malaysian Bar) a décrite comme une affaire soulevant des interrogations sur le respect de la régularité de la procédure.
 
 ## Qu'est-ce qui a changé après l'amendement de 2012 ?
 

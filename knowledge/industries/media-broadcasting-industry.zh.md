@@ -31,7 +31,7 @@ faq:
   - q: 什么是马来西亚的创意内容与动画产业？
     a: 它是制作电影、电视节目、动画、音乐与游戏的业务——日益面向出口以及本土市场。马来西亚动画尤其取得国际成功，最知名的例子是由 Les' Copaque 制作的儿童系列《Upin & Ipin》。政府通过 MyCreative Ventures 与 FINAS 等基金与机构扶持该领域。
 lang: zh
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ framework: profile
 
 ## 规管：CMA 1998、MCMC 与 FINAS
 
-马来西亚的媒体与广播置身于一个围绕**《1998 年通讯与多媒体法令》（CMA）**构建的融合监管框架之下。该法令把电信、广播与在线内容纳入一个屋檐，由**[马来西亚通讯与多媒体委员会（MCMC）](/zh/government/mcmc-communications-multimedia-commission/)**管理。
+马来西亚的媒体与广播置身于一个围绕**[《1998 年通讯与多媒体法令》](/zh/law/communications-and-multimedia-act-1998/)（CMA）**构建的融合监管框架之下。该法令把电信、广播与在线内容纳入一个屋檐，由**[马来西亚通讯与多媒体委员会（MCMC）](/zh/government/mcmc-communications-multimedia-commission/)**管理。
 
 实务上这意味着：
 

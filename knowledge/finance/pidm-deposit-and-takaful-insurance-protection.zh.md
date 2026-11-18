@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6dadc68b3f5258f8"
+sourceContentHash: "35c467b5af509978"
 
 status: "published"
 aiAssisted: true
@@ -238,7 +238,7 @@ TIPS 保障符合资格的利益，最高至 **每项利益 RM500,000**，其中
 如果保险成员倒闭，预付的保费或供款也可能获退还：
 
 - **医药与健康** 回教保险／保险：全额（100%）退还。
-- 依据 **《1987 年陆路交通法令》**（Road Transport Act 1987）和 **《1952 年劳工赔偿法令》**（Workmen's Compensation Act 1952）的保单：全额（100%）退还。
+- 依据 **[《1987 年陆路交通法令》](/zh/law/road-transport-act-1987)**（Road Transport Act 1987）和 **《1952 年劳工赔偿法令》**（Workmen's Compensation Act 1952）的保单：全额（100%）退还。
 - 其他保单：每份证书或保单最高 **RM500,000**。
 
 ### 上限如何汇总计算

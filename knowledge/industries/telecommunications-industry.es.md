@@ -31,7 +31,7 @@ faq:
   - q: ¿Sigue creciendo el mercado de telecomunicaciones de Malasia?
     a: El crecimiento de abonados se ha estancado en gran medida porque el mercado está casi saturado. Se espera que el crecimiento futuro provenga de servicios de mayor valor —5G, mejoras de fibra, conectividad empresarial y servicios digitales— y no de dar de alta a grandes cantidades de nuevos usuarios.
 lang: es
-sourceContentHash: "0a9dfcb348c124ab"
+sourceContentHash: "71058a53ca5ab530"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ El despliegue del 5G de Malasia es distintivo y vale la pena entenderlo como con
 
 ## El regulador: la MCMC y la Ley de Comunicaciones y Multimedia de 1998
 
-El árbitro del sector es la **[Comisión de Comunicaciones y Multimedia de Malasia (MCMC)](/es/government/mcmc-communications-multimedia-commission/)**, que opera conforme a la **Ley de Comunicaciones y Multimedia de 1998 (CMA)**. La CMA creó un marco moderno de "convergencia" que trata las telecomunicaciones, la radiodifusión y el contenido en línea como una única industria regulada en lugar de silos separados, y sustituyó a leyes más antiguas como la Ley de Telecomunicaciones de 1950.
+El árbitro del sector es la **[Comisión de Comunicaciones y Multimedia de Malasia (MCMC)](/es/government/mcmc-communications-multimedia-commission/)**, que opera conforme a la **[Ley de Comunicaciones y Multimedia de 1998](/es/law/communications-and-multimedia-act-1998/) (CMA)**. La CMA creó un marco moderno de "convergencia" que trata las telecomunicaciones, la radiodifusión y el contenido en línea como una única industria regulada en lugar de silos separados, y sustituyó a leyes más antiguas como la Ley de Telecomunicaciones de 1950.
 
 Los poderes de la MCMC son amplios. Emite **licencias** (la Ley usa una estructura escalonada que cubre las instalaciones de red, los servicios de red, los servicios de aplicaciones y el contenido), hace cumplir las reglas de **competencia** y de protección del consumidor, fija **normas de calidad de servicio**, gestiona el **espectro** y —algo importante para los precios— determina los **precios de acceso mayorista**. A través de la **Norma Obligatoria sobre Precios de Acceso (MSAP)**, la MCMC limita las tarifas mayoristas que los propietarios de red como TM pueden cobrar a sus rivales por el acceso a su infraestructura; las rondas de MSAP de 2018 y 2023 fueron acreditadas con empujar a la baja los precios minoristas de la fibra, aunque las tasas exactas y su traslado a los consumidores deberían comprobarse con las determinaciones actuales de la MCMC.
 

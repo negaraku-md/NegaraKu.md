@@ -31,7 +31,7 @@ faq:
     a: "Oui : c'est plus qu'un changement de nom. L'Act A1738 et le règlement modificatif de 2025, en vigueur depuis le 1 janvier 2026, remplacent « KLRCA » par « AIAC », resserrent le calendrier de l'adjudication de sorte que les prorogations exigent désormais le consentement des deux parties et de l'adjudicateur, introduisent des exigences renforcées de notification de paiement et des formulaires prescrits, élargissent les définitions clés pour réduire les litiges de compétence, et renforcent la voie d'exécution. Le cadre essentiel de la décision en 45 jours ouvrables demeure, mais la procédure qui l'entoure a changé, alors utilisez les formulaires actuels de l'AIAC."
 
 lang: "fr"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Un sous-traitant qui attend son paiement depuis six mois n'a pas à patienter de
 
 La loi de 2012 sur le paiement et l'adjudication dans l'industrie de la construction (Construction Industry Payment and Adjudication Act 2012) a créé un processus d'adjudication légal pour régler rapidement les litiges de paiement, en alternative aux voies plus lentes et plus coûteuses de l'arbitrage ou du contentieux. Elle s'applique aux contrats de construction conclus par écrit et exécutés en Malaisie, et il est impossible de l'écarter par convention.
 
-L'adjudication est administrée par l'Asian International Arbitration Centre (AIAC), l'organisme autrefois connu sous le nom de Kuala Lumpur Regional Centre for Arbitration (KLRCA).
+L'adjudication est administrée par l'[Asian International Arbitration Centre](/fr/law/arbitration-and-dispute-resolution) (AIAC), l'organisme autrefois connu sous le nom de Kuala Lumpur Regional Centre for Arbitration (KLRCA).
 
 ## Comment le processus se déroule-t-il, étape par étape ?
 

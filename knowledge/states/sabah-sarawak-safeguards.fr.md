@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Quiconque — voyageur, employeur, étudiant ou lecteur du fédéralisme malaisien — souhaite un compte rendu clair et descriptif des garanties constitutionnelles dont disposent Sabah et Sarawak, et de l'endroit où chacune est inscrite, sans prendre parti dans le débat sur la manière dont elles sont mises en œuvre."
 
 lang: "fr"
-sourceContentHash: "468d0412b31978aa"
+sourceContentHash: "4aa35379a611971b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -162,7 +162,7 @@ Parce que ces protections de la Partie XIIA et leurs dispositions connexes sont 
 
 ## Positions documentées
 
-La portée et la mise en œuvre de ces garanties demeurent un sujet vivant de discussion publique et juridique — rapporté ici sans approbation. Les commentaires rassemblés par des organismes tels que le Barreau de la Malaisie et ConstitutionNet notent que la Constitution à la fois ancre les garanties et laisse plusieurs d'entre elles — notamment les dispositions financières des Articles 112C et 112D — dépendantes d'une révision et d'un accord périodiques, c'est pourquoi leur application quotidienne est débattue même là où le texte est arrêté. NegaraKu.md expose les dispositions ; il ne résout pas ces débats.
+La portée et la mise en œuvre de ces garanties demeurent un sujet vivant de discussion publique et juridique — rapporté ici sans approbation. Les commentaires rassemblés par des organismes tels que le [Barreau de la Malaisie](/fr/law/bar-council-malaysia) et ConstitutionNet notent que la Constitution à la fois ancre les garanties et laisse plusieurs d'entre elles — notamment les dispositions financières des Articles 112C et 112D — dépendantes d'une révision et d'un accord périodiques, c'est pourquoi leur application quotidienne est débattue même là où le texte est arrêté. NegaraKu.md expose les dispositions ; il ne résout pas ces débats.
 
 ## Et ensuite
 

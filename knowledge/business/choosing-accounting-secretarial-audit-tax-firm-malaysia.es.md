@@ -31,7 +31,7 @@ faq:
   - q: "¿Necesita siquiera un auditor una empresa pequeña?"
     a: "No siempre. La SSM permite que determinadas empresas privadas inactivas, sin ingresos o que cumplen ciertos umbrales queden exentas de nombrar a un auditor. Si su empresa cumple los requisitos, puede que no necesite servicios de auditoría en absoluto: solo un secretario, teneduría de libros y presentación de impuestos. Consulte los criterios vigentes de exención de auditoría antes de contratar a una firma de auditoría."
 lang: "es"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ Lo primero que hay que entender es que se trata de **cuatro servicios separados,
 
 | Servicio | Qué abarca | Quién puede prestarlo legalmente |
 |---|---|---|
-| **Secretario de empresa** | Presentaciones legales, registros, cumplimiento ante el Consejo y la SSM | Una persona registrada ante la SSM que posea un certificado de ejercicio conforme a la **s.241, Companies Act 2016**: miembro de un organismo prescrito (MAICSA, MACS, MIA, el Malaysian Bar) o licenciada conforme a la s.20G de la SSM Act 2001 |
+| **Secretario de empresa** | Presentaciones legales, registros, cumplimiento ante el Consejo y la SSM | Una persona registrada ante la SSM que posea un certificado de ejercicio conforme a la **s.241, Companies Act 2016**: miembro de un organismo prescrito (MAICSA, MACS, MIA, el [Malaysian Bar](/es/law/bar-council-malaysia)) o licenciada conforme a la s.20G de la SSM Act 2001 |
 | **Contabilidad / teneduría de libros** | Libros del día a día, cuentas de gestión y cuentas legales | Un miembro del **Instituto Malasio de Contadores (MIA)** con certificado de ejercicio, conforme a la Accountants Act 1967, para el ejercicio público |
 | **Auditoría** | Auditoría independiente de los estados financieros | Un **auditor de empresa aprobado** conforme a la **s.263, Companies Act 2016**, aprobado por el Ministro de Finanzas; para las entidades cotizadas y de interés público, supervisado además por el Audit Oversight Board |
 | **Agente fiscal** | Cálculos de impuestos, presentación y representación ante LHDN | Un agente fiscal **aprobado conforme a la s.153, Income Tax Act 1967** y listado por LHDN |

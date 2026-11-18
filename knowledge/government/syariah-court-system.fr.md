@@ -33,7 +33,7 @@ faq:
     a: "La disposition à trois niveaux — le Tribunal subordonné de la Syariah, le Tribunal supérieur de la Syariah et le Tribunal d'appel de la Syariah — est commune, mais chaque État l'établit par son propre enactment d'État, tandis que les Territoires fédéraux sont régis par l'Act 505. Les limites monétaires de la compétence civile sont fixées par l'enactment ou la loi concernés et peuvent différer entre États."
 
 lang: "fr"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ La compétence des tribunaux de la Syariah se divise en civile (mal) et pénale.
 - le partage des biens acquis conjointement (harta sepencarian), ou les réclamations à leur sujet ;
 - les testaments ou donations faits pendant la maladie mortelle (marad-al-maut) d'un musulman décédé ;
 - les donations (hibah), les legs pieux (wakaf) ou les vœux (nazr) ; et
-- le partage et l'héritage des biens testamentaires ou ab intestat (faraid).
+- le partage et l'héritage des biens testamentaires ou ab intestat ([faraid](/fr/law/faraid-and-islamic-inheritance)).
 
 La limite monétaire de la compétence civile du Tribunal subordonné de la Syariah est fixée par l'enactment ou la loi concernés. Dans les Territoires fédéraux, la section 47 de l'Act 505 fixe la limite à un montant ou une valeur de la matière en litige n'excédant pas cinquante mille ringgit, ou qui n'est pas susceptible d'estimation monétaire. Cette limite peut différer entre États.
 

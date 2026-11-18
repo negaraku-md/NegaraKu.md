@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "68ad2357941779d2"
+sourceContentHash: "41452eb0f37e297f"
 
 status: "published"
 aiAssisted: true
@@ -211,7 +211,7 @@ Duti nominal RM10 terpakai apabila pemindahan dibuat di bawah:
 
 - suatu **wasiat** yang sah;
 - **Akta Pembahagian** (iaitu perwarisan tanpa wasiat, apabila tiada wasiat); atau
-- **faraid**, peraturan waris terpaksa di bawah hukum Syariah untuk harta pusaka orang Islam.
+- **[faraid](/law/faraid-and-islamic-inheritance)**, peraturan waris terpaksa di bawah hukum Syariah untuk harta pusaka orang Islam.
 
 Duti setem ad valorem boleh, bagaimanapun, dicetuskan jika benefisiari menyusun semula hak mereka *di luar* rangka kerja berkanun tersebut. Undang-undang kes Malaysia telah bergelut dengan hal ini: dalam *Lee Koy Eng v Pemungut Duti Setem* [2022] MSTC 30-483, Mahkamah Tinggi memutuskan bahawa seorang benefisiari di bawah kematian tanpa wasiat tidak mempunyai hak atau kepentingan terletak hak dalam harta pusaka sehingga pentadbiran selesai, jadi suatu suratcara Borang 14A yang melaksanakan penolakan hak itu tidak boleh menjadi "pemberian" — anda tidak boleh memberikan apa yang belum anda miliki — dan hanya menarik duti nominal, bukan ad valorem. (Atas rayuan, kes itu dilaporkan sebagai *Pemungut Duti Setem v Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209, di mana Mahkamah Persekutuan mengesahkan bahawa suatu kes dinyatakan di bawah seksyen 39 Akta Setem 1949 boleh dirayu kepadanya; kedua-dua Mahkamah Tinggi dan Mahkamah Rayuan memutuskan memihak kepada pembayar duti dari segi substans.) Pengajaran yang lebih luas ialah bagaimana kertas kerja disusun (contohnya, suatu suratikatan susunan keluarga) mempengaruhi duti. Jika benefisiari mahu mengagih semula aset di kalangan mereka dengan cara yang tidak diperuntukkan oleh wasiat atau Akta Pembahagian, dapatkan nasihat terlebih dahulu, kerana struktur yang salah boleh menukar pemindahan RM10 menjadi duti kadar penuh.
 

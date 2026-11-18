@@ -34,7 +34,7 @@ faq:
     a: "세 단계 구성 — 샤리아 하급법원(Mahkamah Rendah Syariah), 샤리아 고등법원(Mahkamah Tinggi Syariah), 샤리아 항소법원(Mahkamah Rayuan Syariah) — 이 일반적이지만, 각 주는 자체 주 조례를 통해 이를 설치하며, 연방직할구는 Act 505가 규율합니다. 금액 기준의 민사 관할 한도는 각각의 조례나 법률로 정해지며 주마다 다를 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -140,7 +140,7 @@ framework: explainer
 - 공동재산(하르타 스픈카리안)의 분할 또는 청구;
 - 사망한 무슬림의 유언 또는 임종 병중(마라드 알마우트)의 증여;
 - 히바(hibah), 와카프(wakaf) 또는 나즈르(nazr); 그리고
-- 유언 또는 무유언 재산의 분할과 상속(파라이드, faraid).
+- 유언 또는 무유언 재산의 분할과 상속(파라이드, [faraid](/ko/law/faraid-and-islamic-inheritance)).
 
 샤리아 하급법원 민사 관할의 금액 한도는 각 조례나 법률이 정합니다. 연방직할구에서 Act 505 제47조는 그 한도를 다투는 사안의 금액이나 가액이 5만 링깃을 넘지 않거나 금전으로 산정할 수 없는 경우로 정합니다. 이 한도는 주마다 다를 수 있습니다.
 

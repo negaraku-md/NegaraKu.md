@@ -29,7 +29,7 @@ faq:
     a: "L'article 38(6) confère à la Conférence des Souverains le pouvoir de destituer l'Agong. Selon les commentaires juridiques, ce pouvoir n'a jamais été utilisé au cours de l'histoire du pays."
 
 lang: "fr"
-sourceContentHash: "f2d2c6ec105b4198"
+sourceContentHash: "6be5b5f761ae3438"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ Outre l'élection du Yang di-Pertuan Agong et du Yang di-Pertuan Agong adjoint, 
 
 - **Pouvoir de destitution.** L'article 38(6) confère à la Conférence le pouvoir de destituer de ses fonctions le Yang di-Pertuan Agong. Selon les commentaires juridiques, ce pouvoir n'a jamais été utilisé.
 - **Consentement à certaines lois.** Les lois qui touchent directement aux privilèges, à la position, à l'honneur ou à la dignité des Souverains requièrent le consentement de la Conférence (article 38(4)).
-- **Certains amendements constitutionnels.** Certains amendements ne peuvent être adoptés sans le consentement de la Conférence des Souverains au titre de l'article 159(5). Selon les commentaires du Barreau malaisien (Malaysian Bar), ceux-ci incluent les amendements touchant à la position des Souverains (article 38(4)), aux droits souverains et à la succession des Souverains (article 71), à la position de la langue malaise (article 152) et à la position spéciale des Malais et des autochtones (article 153) ; la liste complète de l'article 159(5) englobe en outre plusieurs autres dispositions.
+- **Certains amendements constitutionnels.** Certains amendements ne peuvent être adoptés sans le consentement de la Conférence des Souverains au titre de l'article 159(5). Selon les commentaires du [Barreau malaisien](/fr/law/bar-council-malaysia) (Malaysian Bar), ceux-ci incluent les amendements touchant à la position des Souverains (article 38(4)), aux droits souverains et à la succession des Souverains (article 71), à la position de la langue malaise (article 152) et à la position spéciale des Malais et des autochtones (article 153) ; la liste complète de l'article 159(5) englobe en outre plusieurs autres dispositions.
 - **Consultation.** La Conférence est consultée au sujet de certaines nominations, telles que les juges des juridictions supérieures, le Vérificateur général et les membres de certaines commissions.
 - **Délibération sur la politique nationale.** La Conférence peut examiner la politique nationale et les questions relatives à la religion de l'Islam et à la position des Malais.
 - **Cour spéciale.** Lorsqu'un Souverain ou le Yang di-Pertuan Agong fait l'objet d'une procédure au titre de l'article 182, cette procédure est portée devant une Cour spéciale composée de cinq juges ; selon les commentaires du Barreau malaisien (Malaysian Bar), deux d'entre eux sont désignés par la Conférence des Souverains.

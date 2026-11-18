@@ -34,7 +34,7 @@ faq:
     a: "C'est une arnaque au prêt par frais avancés classique. Cessez de payer immédiatement, appelez le National Scam Response Centre au 997 (il peut tenter de geler le compte où l'argent est allé), vérifiez le numéro de compte ou de téléphone sur Semak Mule à semakmule.rmp.gov.my, et déposez une plainte à la police. Un prêteur agréé légitime ne facture jamais de frais avant de décaisser un prêt."
 
 lang: "fr"
-sourceContentHash: "ab121346e7722ba5"
+sourceContentHash: "8cd8a52f85fb12de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Ne croyez jamais un prêteur sur parole. Le KPKT gère un outil de vérification
 
 ## Prêteur agréé contre « Ah Long »
 
-Un **Ah Long** est un prêteur non agréé et illégal — un usurier. La distinction n'est pas cosmétique : traiter du prêt illégal est un crime, et le prêt est inapplicable. Les usuriers facturent des intérêts bien au-dessus des plafonds légaux et les font respecter par une intimidation bien documentée en Malaisie — jets de peinture rouge sur les maisons et les voitures, banderoles d'humiliation, menaces d'incendie, et harcèlement non seulement de l'emprunteur mais de proches et de collègues qui n'ont jamais contracté le prêt. Ces actes sont des infractions au titre de la Moneylenders Act et du Code pénal. Un prêteur agréé, en revanche, a interdiction de cette conduite et de se rendre chez vous pour recouvrer.
+Un **Ah Long** est un prêteur non agréé et illégal — un usurier. La distinction n'est pas cosmétique : traiter du prêt illégal est un crime, et le prêt est inapplicable. Les usuriers facturent des intérêts bien au-dessus des plafonds légaux et les font respecter par une intimidation bien documentée en Malaisie — jets de peinture rouge sur les maisons et les voitures, banderoles d'humiliation, menaces d'incendie, et harcèlement non seulement de l'emprunteur mais de proches et de collègues qui n'ont jamais contracté le prêt. Ces actes sont des infractions au titre de la Moneylenders Act et du [Code pénal](/fr/law/penal-code). Un prêteur agréé, en revanche, a interdiction de cette conduite et de se rendre chez vous pour recouvrer.
 
 Un canal connexe et agréé séparément est le **prêt sur gages** au titre de la **Pawnbrokers Act 1972** (son équivalent islamique, l'**Ar-Rahnu**, facture des frais de garde plutôt que des intérêts) — un prêt à court terme adossé à un bien mis en gage, comme de l'or. C'est une option légitime à connaître, bien que régie par ses propres règles.
 

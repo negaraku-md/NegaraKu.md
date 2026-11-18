@@ -161,7 +161,7 @@ Because these Part XIIA protections and their related provisions are entrenched 
 
 ## Documented positions
 
-The scope and implementation of these safeguards remain a live subject of public and legal discussion — reported here without endorsement. Commentary collected by bodies such as the Malaysian Bar and ConstitutionNet notes that the Constitution both entrenches the safeguards and leaves several of them — notably the financial provisions under Articles 112C and 112D — dependent on periodic review and agreement, which is why their day-to-day application is argued over even where the text is settled. NegaraKu.md states the provisions; it does not resolve those arguments.
+The scope and implementation of these safeguards remain a live subject of public and legal discussion — reported here without endorsement. Commentary collected by bodies such as the [Malaysian Bar](/law/bar-council-malaysia) and ConstitutionNet notes that the Constitution both entrenches the safeguards and leaves several of them — notably the financial provisions under Articles 112C and 112D — dependent on periodic review and agreement, which is why their day-to-day application is argued over even where the text is settled. NegaraKu.md states the provisions; it does not resolve those arguments.
 
 ## What's next
 

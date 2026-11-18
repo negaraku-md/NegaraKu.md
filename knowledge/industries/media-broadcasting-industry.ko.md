@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아의 창작 콘텐츠·애니메이션 산업이란 무엇인가요?
     a: 영화, 텔레비전 프로그램, 애니메이션, 음악, 게임을 — 점점 더 내수뿐 아니라 수출용으로 — 제작하는 사업입니다. 특히 말레이시아 애니메이션은 국제적 성공을 거뒀는데, 가장 잘 알려진 예가 Les' Copaque가 제작한 어린이 시리즈 Upin & Ipin입니다. 정부는 MyCreative Ventures와 FINAS 같은 기금·기관을 통해 이 부문을 지원합니다.
 lang: ko
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ framework: profile
 
 ## 규제: CMA 1998, MCMC, FINAS
 
-말레이시아의 미디어·방송은 **1998년 통신·멀티미디어법(CMA)**을 중심으로 구축된 융합 규제 체계 아래 자리합니다. 이 법은 통신·방송·온라인 콘텐츠를 한 지붕 아래로 모았으며, **[말레이시아 통신·멀티미디어위원회(MCMC)](/ko/government/mcmc-communications-multimedia-commission/)**가 집행합니다.
+말레이시아의 미디어·방송은 **[1998년 통신·멀티미디어법](/ko/law/communications-and-multimedia-act-1998/)(CMA)**을 중심으로 구축된 융합 규제 체계 아래 자리합니다. 이 법은 통신·방송·온라인 콘텐츠를 한 지붕 아래로 모았으며, **[말레이시아 통신·멀티미디어위원회(MCMC)](/ko/government/mcmc-communications-multimedia-commission/)**가 집행합니다.
 
 실무적으로 이는 다음을 뜻합니다.
 

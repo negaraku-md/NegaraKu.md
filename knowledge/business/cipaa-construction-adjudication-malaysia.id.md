@@ -31,7 +31,7 @@ faq:
     a: "Ya — ia lebih dari sekadar penggantian nama. Akta A1738 dan Peraturan (Pindaan) 2025, yang berlaku mulai 1 Januari 2026, mengganti 'KLRCA' dengan 'AIAC', memperketat garis waktu adjudikasi sehingga perpanjangan kini memerlukan persetujuan kedua pihak dan adjudikator, memperkenalkan persyaratan notis pembayaran yang ditingkatkan dan formulir yang ditetapkan, memperluas definisi utama untuk mengurangi sengketa yurisdiksi, dan memperkuat jalur penegakan. Kerangka inti keputusan 45 hari kerja tetap, tetapi prosedur di sekelilingnya telah berubah, jadi gunakan formulir AIAC terkini."
 
 lang: "id"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Seorang subkontraktor yang tidak dibayar selama enam bulan tidak perlu menunggu 
 
 Akta Pembayaran dan Adjudikasi Industri Pembinaan 2012 mewujudkan suatu proses adjudikasi statutori untuk menyelesaikan sengketa pembayaran dengan cepat, sebagai alternatif terhadap jalur arbitrase atau litigasi yang lebih lambat dan lebih mahal. Ia berlaku bagi kontrak konstruksi yang dibuat secara tertulis dan dilaksanakan di Malaysia, dan ia tidak dapat dikecualikan melalui kontrak.
 
-Adjudikasi dikelola oleh Pusat Arbitrase Internasional Asia (AIAC) — badan yang dahulu dikenal sebagai Pusat Regional Kuala Lumpur untuk Arbitrase (KLRCA).
+Adjudikasi dikelola oleh [Pusat Arbitrase Internasional Asia](/id/law/arbitration-and-dispute-resolution) (AIAC) — badan yang dahulu dikenal sebagai Pusat Regional Kuala Lumpur untuk Arbitrase (KLRCA).
 
 ## Bagaimana proses ini berjalan, langkah demi langkah?
 

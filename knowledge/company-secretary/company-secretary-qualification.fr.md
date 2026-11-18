@@ -56,7 +56,7 @@ obligations:
     consequence: "Fine not exceeding RM10,000 on conviction"
 
 lang: "fr"
-sourceContentHash: "e2e61d0597cf5908"
+sourceContentHash: "f170a55480255720"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ La section 235(2)(a) qualifie un membre de tout organisme établi dans la Fourth
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/fr/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

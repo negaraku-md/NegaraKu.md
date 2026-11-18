@@ -38,7 +38,7 @@ faq:
     a: "Sí. El albacea debe informar del fallecimiento a la LHDN, presentar la declaración final del fallecido y las declaraciones de la sucesión, y liquidar cualquier impuesto y sanción pendientes antes de distribuir la sucesión. La LHDN tiene tres años, desde el final del año en que se le notifica el fallecimiento, para emitir liquidaciones."
 
 lang: "es"
-sourceContentHash: "68ad2357941779d2"
+sourceContentHash: "41452eb0f37e297f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -211,7 +211,7 @@ El impuesto nominal de RM10 aplica cuando la transferencia se realiza conforme a
 
 - un **testamento** válido;
 - la **Distribution Act** (es decir, sucesión intestada, cuando no hay testamento); o
-- el **faraid**, las reglas de sucesión forzosa conforme a la ley Syariah para una sucesión musulmana.
+- el **[faraid](/es/law/faraid-and-islamic-inheritance)**, las reglas de sucesión forzosa conforme a la ley Syariah para una sucesión musulmana.
 
 El impuesto de timbre ad valorem puede, sin embargo, detonarse si los beneficiarios reorganizan sus derechos *fuera* de esos marcos legales. La jurisprudencia malasia ha lidiado con esto: en *Lee Koy Eng contra Pemungut Duti Setem* [2022] MSTC 30-483, el Tribunal Superior sostuvo que un beneficiario en una sucesión intestada no tiene ningún derecho ni interés consolidado en la sucesión hasta que la administración esté completa, de modo que un instrumento Form 14A que da efecto a una renuncia de ese derecho no puede ser una «donación» — no se puede donar lo que aún no se posee — y atrae solo el impuesto nominal, no el ad valorem. (En apelación, el caso se reporta como *Pemungut Duti Setem contra Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209, donde el Tribunal Federal confirmó que un caso planteado (case stated) conforme a la sección 39 de la Stamp Act 1949 es apelable ante él; tanto el Tribunal Superior como el Tribunal de Apelación fallaron a favor del pagador del impuesto en cuanto al fondo.) La lección más amplia es que la forma en que se estructura la documentación (por ejemplo, una escritura de acuerdo familiar, deed of family arrangement) afecta al impuesto. Si los beneficiarios quieren redistribuir los bienes entre ellos de una manera que el testamento o la Distribution Act no previeron, pidan asesoramiento primero, porque la estructura equivocada puede convertir una transferencia de RM10 en un impuesto a tasa plena.
 

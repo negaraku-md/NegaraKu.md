@@ -25,7 +25,7 @@ faq:
   - q: "Apa itu e-LKM?"
     a: "e-LKM adalah Lisensi Kendaraan Bermotor digital (pajak jalan digital) yang diperkenalkan oleh JPJ mulai 2023, menggantikan stiker fisik. Ia dapat diakses melalui aplikasi MyJPJ atau portal MySIKAP."
 lang: "id"
-sourceContentHash: "f6e325f951c4e130"
+sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,7 +76,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-Setiap pajak jalan yang dibayar, pelat nomor yang dikeluarkan, dan lisensi mengemudi yang dibawa di Malaysia melalui satu agensi: **Jabatan Pengangkutan Jalan**, yang dikenal di mana-mana dengan singkatannya **JPJ**. Ia beroperasi di bawah Bahagian Darat **Kementerian Pengangkutan** dan merupakan departemen yang bertanggung jawab mendaftarkan kendaraan, mengeluarkan lisensi mengemudi dan pelat nomor kendaraan, serta menegakkan Akta Pengangkutan Jalan 1987 untuk memastikan pengemudi yang bijak dan kendaraan yang aman.
+Setiap pajak jalan yang dibayar, pelat nomor yang dikeluarkan, dan lisensi mengemudi yang dibawa di Malaysia melalui satu agensi: **Jabatan Pengangkutan Jalan**, yang dikenal di mana-mana dengan singkatannya **JPJ**. Ia beroperasi di bawah Bahagian Darat **Kementerian Pengangkutan** dan merupakan departemen yang bertanggung jawab mendaftarkan kendaraan, mengeluarkan lisensi mengemudi dan pelat nomor kendaraan, serta menegakkan [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act-1987) untuk memastikan pengemudi yang bijak dan kendaraan yang aman.
 
 ## Apa yang sebenarnya dilakukan oleh JPJ?
 

@@ -35,7 +35,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "1a172ffed29950eb"
+sourceContentHash: "41f000c53719467c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ Eskalasikan sesuai dengan besarnya jumlah; sebagian besar kasus seharusnya berak
 1. **Surat tuntutan.** Minta, dengan sopan tetapi tegas dan **secara tertulis**, agar deposit dikembalikan dalam tenggat waktu yang wajar — *atau* minta rincian terperinci dan berbukti atas potongan apa pun. Rujuk bukti Anda; tetaplah berdasarkan fakta. Banyak sengketa berakhir di sini begitu pemilik melihat Anda memiliki catatan dan mengetahui garis keausan wajar.
 2. **Surat tuntutan resmi (surat tuntutan).** Lebih formal, sering disusun pengacara, menguraikan tuntutan, dasarnya, jumlahnya, dan tenggat waktu sebelum tindakan hukum. Ini menandakan keseriusan dan menciptakan catatan pra-litigasi yang jelas — timbang biaya pengacara terhadap deposit.
 3. **Gugatan sipil.** Malaysia tidak memiliki *pengadilan* tuntutan kecil tersendiri, tetapi **Mahkamah Majistret (Magistrates' Court)** memiliki **prosedur tuntutan kecil (tuntutan kecil) yang disederhanakan** yang dapat digunakan **individu sendiri, tanpa pengacara**, untuk jumlah kecil; tuntutan lebih besar diajukan sebagai gugatan sipil biasa ke Mahkamah Majistret atau, di atas batasnya, ke **Mahkamah Sesyen (Sessions Court).** **Batas moneter, biaya, dan formulir berubah**, jadi periksa ketentuan terkini dengan pengadilan (**kehakiman.gov.my**) daripada mempercayai angka yang dikutip di mana pun. Satu peringatan soal forum: **Tribunal Tuntutan Pembeli Rumah (Tribunal for Homebuyer Claims)** adalah untuk *pembeli* rumah terhadap pengembang, dan deposit sewa hunian pribadi **umumnya tidak** termasuk dalam **Tribunal Tuntutan Pengguna (Tribunal for Consumer Claims / TTPM)** — jadi jangan berasumsi tribunal konsumen akan menanganinya; konfirmasikan dengan pengacara atau bantuan hukum.
-4. **Bantuan hukum dan nasihat gratis.** **Jabatan Bantuan Guaman (JBG)** menawarkan bantuan berbasis uji kemampuan, dan **Bar Council Legal Aid Centre** (serta pusat Bar negeri) memberikan nasihat gratis atau bersubsidi — masing-masing tunduk pada kriteria kelayakannya sendiri.
+4. **Bantuan hukum dan nasihat gratis.** **[Jabatan Bantuan Guaman](/id/law/legal-aid-in-malaysia/) (JBG)** menawarkan bantuan berbasis uji kemampuan, dan **Bar Council Legal Aid Centre** (serta pusat Bar negeri) memberikan nasihat gratis atau bersubsidi — masing-masing tunduk pada kriteria kelayakannya sendiri.
 
 ## Bersikaplah proporsional — dan cegah yang berikutnya
 

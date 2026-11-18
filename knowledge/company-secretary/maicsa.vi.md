@@ -37,7 +37,7 @@ verificationNeeded:
   - "Xác nhận tham chiếu thông báo Công báo mà theo đó MAICSA được quy định là một tổ chức được phê duyệt, và liệu có bất kỳ điều khoản hoặc điều kiện nào được áp đặt theo s.235(3) hay không"
 
 lang: "vi"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,7 +112,7 @@ Fourth Schedule liệt kê bảy tổ chức tổng cộng:
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/vi/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

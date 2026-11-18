@@ -29,7 +29,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,7 +80,7 @@ Jika Anda pernah melintasi pos pemeriksaan pada malam menjelang hari libur umum,
 
 ## Apa itu RELA
 
-RELA adalah badan relawan: warga biasa yang mendaftar, berlatih, dan hadir untuk mendukung operasi resmi ketika dipanggil. Menurut portal layanan federal, keanggotaan terbuka bagi warga negara Malaysia berusia 18 tahun ke atas yang belum berdinas di Angkatan Bersenjata atau pasukan statutori lain, pendaftaran berlangsung untuk masa jabatan lima tahun yang dapat diperbarui, dan anggota diperlakukan sebagai pegawai negeri berdasarkan Kanun Keseksaan (Act 574) saat bertugas. Seorang **Direktur Jenderal**, yang ditunjuk oleh Menteri dari pegawai negeri, memimpin korps ini. Menurut jumlah kepala, RELA adalah salah satu organisasi relawan terbesar Malaysia, dengan keanggotaan yang dilaporkan berjumlah jutaan (lihat *verificationNeeded* untuk angka saat ini).
+RELA adalah badan relawan: warga biasa yang mendaftar, berlatih, dan hadir untuk mendukung operasi resmi ketika dipanggil. Menurut portal layanan federal, keanggotaan terbuka bagi warga negara Malaysia berusia 18 tahun ke atas yang belum berdinas di Angkatan Bersenjata atau pasukan statutori lain, pendaftaran berlangsung untuk masa jabatan lima tahun yang dapat diperbarui, dan anggota diperlakukan sebagai pegawai negeri berdasarkan [Kanun Keseksaan](/id/law/penal-code) (Act 574) saat bertugas. Seorang **Direktur Jenderal**, yang ditunjuk oleh Menteri dari pegawai negeri, memimpin korps ini. Menurut jumlah kepala, RELA adalah salah satu organisasi relawan terbesar Malaysia, dengan keanggotaan yang dilaporkan berjumlah jutaan (lihat *verificationNeeded* untuk angka saat ini).
 
 ## Asal usul: dari Home Guard hingga Konfrontasi
 

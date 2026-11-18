@@ -110,7 +110,7 @@ An early landmark was **Nor Anak Nyawai & Ors v Borneo Pulp Plantation Sdn Bhd**
 
 The most cited recent decision is **Director of Forest, Sarawak & Anor v TR Sandah & Ors**, reported at **[2017] 2 MLJ 281** and decided on **20 December 2016**. The claimants asserted rights over roughly **5,639 hectares** derived from *pemakai menoa* and *pulau galau*. A Federal Court **3:1 majority** held that these communal categories carry **no force of law**, because they are not reflected in the codified custom (such as the *Tusun Tunggu* and the Adat Iban Order 1993); by contrast, cultivated *temuda* was treated as recognised. A dissenting judgment took the contrary view on the enforceability of the wider customary rights.
 
-The claimants later sought review. The Federal Court dismissed the review application in **2019**. The Malaysian Bar, commenting on that outcome, characterised it as a missed opportunity and called for legislative action, including amendments to ensure judges with Bornean experience sit on Sabah and Sarawak appeals — a position advanced by the Bar rather than a finding of the court.
+The claimants later sought review. The Federal Court dismissed the review application in **2019**. The [Malaysian Bar](/law/bar-council-malaysia), commenting on that outcome, characterised it as a missed opportunity and called for legislative action, including amendments to ensure judges with Bornean experience sit on Sabah and Sarawak appeals — a position advanced by the Bar rather than a finding of the court.
 
 ## What are the different positions?
 

@@ -29,7 +29,7 @@ faq:
     a: "Hội đồng Quân vương được quy định trong Điều 38 Hiến pháp Liên bang, với các chức năng và thủ tục của nó được chi tiết hóa trong Phụ lục Năm."
 
 lang: "vi"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Hội đồng Quân vương gánh vác một số chức năng hiến pháp mà 
 - **Bổ nhiệm.** Cố vấn về một số bổ nhiệm nhất định đòi hỏi sự đồng thuận của Hội đồng, cũng như bổ nhiệm các thành viên của Tòa án Đặc biệt theo Điều 182 và người đại diện cho các cơ quan như Hội đồng Lực lượng Vũ trang và Ban Quản trị của [Dewan Bahasa dan Pustaka](/vi/arts-culture/dewan-bahasa-dan-pustaka).
 - **Quyền ân xá.** Ban ân xá, giảm và giảm nhẹ hình phạt trong một số trường hợp nhất định.
 
-Theo ghi chép của Đoàn Luật sư Malaysia, Hiến pháp cũng quy định quyền bãi nhiệm Yang di-Pertuan Agong theo Điều 38(6) — một quyền mà, theo ghi chép đó, chưa bao giờ được sử dụng.
+Theo ghi chép của [Đoàn Luật sư Malaysia](/vi/law/bar-council-malaysia), Hiến pháp cũng quy định quyền bãi nhiệm Yang di-Pertuan Agong theo Điều 38(6) — một quyền mà, theo ghi chép đó, chưa bao giờ được sử dụng.
 
 ## Hội đồng hoạt động như thế nào?
 

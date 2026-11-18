@@ -35,7 +35,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1a172ffed29950eb"
+sourceContentHash: "41f000c53719467c"
 masterLanguage: "en"
 
 status: "published"
@@ -131,7 +131,7 @@ Eskalasi secara berkadar dengan jumlah; kebanyakan kes sepatutnya berakhir pada 
 1. **Tuntutan bertulis.** Minta, dengan sopan tetapi tegas dan **secara bertulis**, agar deposit dipulangkan menjelang tarikh akhir yang munasabah — *atau* minta akaun potongan yang diperincikan dan berbukti. Rujuk bukti anda; kekal berfakta. Banyak pertikaian berakhir di sini sebaik sahaja tuan rumah melihat anda mempunyai rekod dan mengetahui garis haus-dan-lusuh.
 2. **Surat tuntutan rasmi.** Lebih rasmi, selalunya digubal oleh peguam, menyatakan tuntutan, asasnya, jumlah dan tarikh akhir sebelum tindakan guaman. Ia menandakan keseriusan dan mewujudkan rekod pra-litigasi yang jelas — timbangkan yuran peguam berbanding deposit.
 3. **Tuntutan sivil.** Malaysia tiada *mahkamah* tuntutan kecil yang berasingan, tetapi **Mahkamah Majistret** mempunyai **prosedur tuntutan kecil yang dipermudah** yang boleh **digunakan individu secara sendiri, tanpa peguam**, untuk jumlah yang lebih kecil; tuntutan yang lebih besar dibawa sebagai saman sivil biasa ke Mahkamah Majistret atau, melebihi hadnya, ke **Mahkamah Sesyen.** **Had kewangan, yuran dan borang berubah**, jadi semak yang semasa dengan mahkamah (**kehakiman.gov.my**) dan bukannya mempercayai angka yang dipetik di mana-mana. Satu peringatan tentang forum: **Tribunal Tuntutan Pembeli Rumah** adalah untuk *pembeli* rumah terhadap pemaju, dan deposit penyewaan kediaman persendirian secara amnya **tidak** termasuk dalam **Tribunal Tuntutan Pengguna** juga — jadi jangan anggap tribunal pengguna akan membicarakannya; sahkan dengan peguam atau bantuan guaman.
-4. **Bantuan guaman dan nasihat percuma.** **Jabatan Bantuan Guaman (JBG)** menawarkan bantuan berasaskan ujian kemampuan, dan **Pusat Bantuan Guaman Majlis Peguam** (serta pusat Bar negeri) memberikan nasihat percuma atau bersubsidi — setiap satu tertakluk pada kriteria kelayakan masing-masing.
+4. **Bantuan guaman dan nasihat percuma.** **[Jabatan Bantuan Guaman](/law/legal-aid-in-malaysia/) (JBG)** menawarkan bantuan berasaskan ujian kemampuan, dan **Pusat Bantuan Guaman Majlis Peguam** (serta pusat Bar negeri) memberikan nasihat percuma atau bersubsidi — setiap satu tertakluk pada kriteria kelayakan masing-masing.
 
 ## Jadilah berkadar — dan cegah yang seterusnya
 

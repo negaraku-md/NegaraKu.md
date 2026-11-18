@@ -27,7 +27,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6e325f951c4e130"
+sourceContentHash: "329a713e6b0a3f4c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,7 +75,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-マレーシアで支払われる全ての道路税、発行される全てのナンバープレート、携帯される全ての運転免許は、一つの機関を経由する：**道路交通局**——*Jabatan Pengangkutan Jalan*、どこでもその頭文字**JPJ**で知られている。同局は**運輸省**の陸路部門（Land Division）のもとで運営され、車両を登録し、運転免許及び車両のナンバープレートを発行し、慎重な運転者と安全な車両を確保するために1987年道路交通法（Road Transport Act 1987）を執行する責任を負う部門である。
+マレーシアで支払われる全ての道路税、発行される全てのナンバープレート、携帯される全ての運転免許は、一つの機関を経由する：**道路交通局**——*Jabatan Pengangkutan Jalan*、どこでもその頭文字**JPJ**で知られている。同局は**運輸省**の陸路部門（Land Division）のもとで運営され、車両を登録し、運転免許及び車両のナンバープレートを発行し、慎重な運転者と安全な車両を確保するために[1987年道路交通法](/ja/law/road-transport-act-1987)（Road Transport Act 1987）を執行する責任を負う部門である。
 
 ## JPJは実際に何をするのか？
 

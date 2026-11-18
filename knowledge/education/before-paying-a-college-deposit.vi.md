@@ -35,7 +35,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -194,7 +194,7 @@ học **trước** khi đóng, xác nhận bằng văn bản khoản nào đư�
 thời gian nào, và lưu giữ mọi hồ sơ.
 
 Nếu hoạt động tiếp thị của một cơ sở gây hiểu lầm, hoặc một điều khoản quá thiên
-lệch một chiều, **Đạo luật Bảo vệ Người tiêu dùng 1999 (Act 599)** — vốn bao quát
+lệch một chiều, **[Đạo luật Bảo vệ Người tiêu dùng 1999](/vi/law/consumer-protection-act/) (Act 599)** — vốn bao quát
 hành vi gây hiểu lầm và các điều khoản hợp đồng bất bình đẳng — *có thể* mở ra một
 hướng đi, và giới bình luận pháp lý lập luận rằng sinh viên có thể là "người tiêu
 dùng" theo đạo luật này. Nhưng đó là một hướng đi có thể có, không phải một sự hoàn

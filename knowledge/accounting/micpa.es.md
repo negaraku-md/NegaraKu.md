@@ -37,7 +37,7 @@ verificationNeeded:
   - "Confirmar los términos actuales del reconocimiento mutuo MICPA-CAANZ y si han entrado en vigor cambios de vía desde la renovación de 2016"
 
 lang: "es"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ economías.
 MICPA es el **quinto organismo listado en el Cuarto Anexo** de la Ley de Sociedades
 de 2016, de modo que sus miembros están cualificados para actuar como secretarios de
 empresa bajo el art. 235(2)(a) — en igualdad de condiciones con MAICSA, la MIA, el
-Malaysian Bar y los demás organismos aprobados. Como con todos los organismos del
+[Malaysian Bar](/es/law/bar-council-malaysia) y los demás organismos aprobados. Como con todos los organismos del
 Cuarto Anexo, eso es una cualificación: una persona todavía debe obtener de la SSM un
 certificado de ejercicio profesional del art. 241 antes de actuar.
 

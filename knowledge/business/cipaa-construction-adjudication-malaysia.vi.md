@@ -31,7 +31,7 @@ faq:
     a: "Có — nó hơn cả một việc đổi tên. Act A1738 và các Amendment Regulations 2025, có hiệu lực từ 1 tháng 1 năm 2026, thay 'KLRCA' bằng 'AIAC', siết chặt dòng thời gian phân xử để việc gia hạn nay đòi hỏi sự đồng ý của cả hai bên và người phân xử, đưa ra các yêu cầu về thông báo thanh toán được tăng cường và các mẫu được quy định, mở rộng các định nghĩa chủ chốt để giảm các tranh chấp về thẩm quyền, và củng cố lối đi thi hành. Khung quyết định cốt lõi 45 ngày làm việc vẫn còn, nhưng thủ tục xung quanh đã thay đổi, nên hãy dùng các mẫu hiện hành của AIAC."
 
 lang: "vi"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ Một thầu phụ chưa được thanh toán trong sáu tháng không phải đ
 
 Construction Industry Payment and Adjudication Act 2012 đã tạo ra một quy trình phân xử theo luật để giải quyết các tranh chấp thanh toán một cách nhanh chóng, như một phương án thay thế cho các lối đi chậm hơn, tốn kém hơn là trọng tài hoặc kiện tụng. Nó áp dụng cho các hợp đồng xây dựng được lập bằng văn bản và được thực hiện ở Malaysia, và không thể thỏa thuận loại trừ.
 
-Việc phân xử do Asian International Arbitration Centre (AIAC) quản lý — cơ quan trước đây được biết đến là Kuala Lumpur Regional Centre for Arbitration (KLRCA).
+Việc phân xử do [Asian International Arbitration Centre](/vi/law/arbitration-and-dispute-resolution) (AIAC) quản lý — cơ quan trước đây được biết đến là Kuala Lumpur Regional Centre for Arbitration (KLRCA).
 
 ## Quy trình vận hành như thế nào, từng bước một?
 

@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ Giấy phép được cấp theo hạng phương tiện. Bảng dưới đây t�
 
 ## Cơ sở pháp lý: Luật Giao thông Đường bộ 1987
 
-Thẩm quyền pháp lý trung tâm của JPJ là **Luật Giao thông Đường bộ 1987 (Act 333)**, đã nhận được Phê chuẩn của Hoàng gia vào tháng 8 năm 1987 và có hiệu lực vào tháng tiếp theo. Luật quy định việc đăng ký và cấp phép phương tiện cơ giới và tài xế, các quy tắc chế tạo và sử dụng, các tội vi phạm giao thông và mức phạt, cùng các quyền hạn thực thi mà JPJ dựa vào. Việc cấp phép phương tiện thương mại về mặt lịch sử dựa trên một văn bản luật đồng hành, **Luật Hội đồng Cấp phép Phương tiện Thương mại 1987 (Act 334)**. Các quy tắc phụ được ban hành theo các luật này điền vào chi tiết vận hành.
+Thẩm quyền pháp lý trung tâm của JPJ là **[Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act-1987) (Act 333)**, đã nhận được Phê chuẩn của Hoàng gia vào tháng 8 năm 1987 và có hiệu lực vào tháng tiếp theo. Luật quy định việc đăng ký và cấp phép phương tiện cơ giới và tài xế, các quy tắc chế tạo và sử dụng, các tội vi phạm giao thông và mức phạt, cùng các quyền hạn thực thi mà JPJ dựa vào. Việc cấp phép phương tiện thương mại về mặt lịch sử dựa trên một văn bản luật đồng hành, **Luật Hội đồng Cấp phép Phương tiện Thương mại 1987 (Act 334)**. Các quy tắc phụ được ban hành theo các luật này điền vào chi tiết vận hành.
 
 Vì Luật được sửa đổi thường xuyên — bao gồm cả việc rà soát mức phạt định kỳ — người lái xe nên xem các khoản phạt cụ thể và số mục là có thể thay đổi và kiểm tra văn bản có thẩm quyền hiện hành ở những nơi điều đó quan trọng.
 

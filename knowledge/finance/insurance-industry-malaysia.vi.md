@@ -34,7 +34,7 @@ faq:
     a: "Bảo hiểm Act (bên thứ ba) là mức tối thiểu theo luật và chỉ chi trả thương tích hoặc tử vong của bên thứ ba. Bảo hiểm bên thứ ba, hỏa hoạn và trộm cắp bổ sung bảo hiểm nếu chính chiếc xe của bạn bị cháy hoặc bị đánh cắp. Bảo hiểm toàn diện là rộng nhất, cũng chi trả cho thiệt hại do tai nạn đối với chính phương tiện của bạn."
 
 lang: "vi"
-sourceContentHash: "f3e95ab7db734acf"
+sourceContentHash: "2613d119cd9dfc2d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -137,7 +137,7 @@ Vấn đề xe cơ giới mang tính cấu trúc. Trong năm 2025 mức độ ng
 
 ## Vì sao chỉ có bảo hiểm xe cơ giới là bắt buộc?
 
-Đối với người tiêu dùng bình thường, bảo hiểm ở Malaysia phần lớn là tự nguyện — với một ngoại lệ cứng rắn. Theo **Road Transport Act 1987 (Act 333)**, bất kỳ ai sử dụng một phương tiện cơ giới trên đường công cộng phải được bảo hiểm chống các rủi ro bên thứ ba. Đây là bảo hiểm chi trả cho những người lạ mà bạn có thể làm bị thương hoặc thiệt mạng trong một tai nạn, và không thuế đường bộ nào có thể được gia hạn mà không có nó.
+Đối với người tiêu dùng bình thường, bảo hiểm ở Malaysia phần lớn là tự nguyện — với một ngoại lệ cứng rắn. Theo **[Road Transport Act 1987](/vi/law/road-transport-act-1987) (Act 333)**, bất kỳ ai sử dụng một phương tiện cơ giới trên đường công cộng phải được bảo hiểm chống các rủi ro bên thứ ba. Đây là bảo hiểm chi trả cho những người lạ mà bạn có thể làm bị thương hoặc thiệt mạng trong một tai nạn, và không thuế đường bộ nào có thể được gia hạn mà không có nó.
 
 Sàn pháp lý đó đến trong ba tầng bảo hiểm xe, mỗi tầng rộng hơn tầng trước:
 

@@ -37,7 +37,7 @@ verificationNeeded:
   - "Xác nhận các điều khoản hiện hành của việc công nhận lẫn nhau MICPA-CAANZ và liệu có bất kỳ thay đổi lộ trình nào có hiệu lực kể từ lần gia hạn năm 2016 hay không"
 
 lang: "vi"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ nhận tương hỗ ở một số nền kinh tế lớn.
 
 MICPA là **tổ chức thứ năm được liệt kê trong Fourth Schedule** của Companies Act
 2016, nên các thành viên của nó đủ tư cách để hành động với tư cách các thư ký
-công ty theo s.235(2)(a) — trên cùng một vị thế với MAICSA, MIA, Malaysian Bar và
+công ty theo s.235(2)(a) — trên cùng một vị thế với MAICSA, MIA, [Malaysian Bar](/vi/law/bar-council-malaysia) và
 các tổ chức được phê duyệt khác. Như với mọi tổ chức trong Fourth Schedule, đó là
 một sự đủ tư cách: một người vẫn phải có được một chứng chỉ hành nghề theo s.241
 từ SSM trước khi hành động.

@@ -33,7 +33,7 @@ faq:
     a: "Cela dépend de l'activité. En vertu de la loi de 1974 sur la qualité de l'environnement, les projets industriels lourds ou de grande taille énumérés dans l'Ordonnance sur la qualité de l'environnement (activités prescrites) (évaluation de l'impact environnemental) de 2015 doivent disposer d'une EIE approuvée avant que le projet n'avance. Certaines industries — huile de palme brute, caoutchouc naturel brut, installations de déchets réglementés — sont des «locaux prescrits» qui nécessitent la permission écrite du DOE pour construire et une licence pour exploiter. Une usine ordinaire qui rejette des effluents ou émet des polluants atmosphériques doit tout de même se conformer aux règlements du DOE sur les effluents et l'air pur. Confirmez le statut de votre activité auprès du DOE avant de construire."
 
 lang: "fr"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ La couche d'exploitation est assemblée à partir d'autorités distinctes, chacu
 |---|---|---|---|
 | Licence de fabrication / exemption de l'ICA | MITI / MIDA | Loi de 1975 sur la coordination industrielle | Autorise l'**activité** de fabrication (voir le guide dédié) |
 | Certificat d'achèvement et de conformité (CCC) | Architecte/ingénieur (PSP) + autorité locale | Loi de 1974 sur les rues, le drainage et le bâtiment + Règlements uniformes de la construction | Rend le **bâtiment** légalement apte à être occupé |
-| Certificat d'aptitude des machines | DOSH | Loi de 1994 sur la sécurité et la santé au travail + Règlement OSH (Machines nécessitant un CA) de 2024 | Permet d'exploiter les **machines** réglementées |
+| Certificat d'aptitude des machines | DOSH | [Loi de 1994 sur la sécurité et la santé au travail](/fr/law/occupational-safety-and-health-act/) + Règlement OSH (Machines nécessitant un CA) de 2024 | Permet d'exploiter les **machines** réglementées |
 | Certificat d'incendie | BOMBA | Loi de 1988 sur les services d'incendie | Autorisation de sécurité incendie continue pour les **locaux désignés** |
 | Licence de local commercial + enseigne | Municipalité locale (PBT) | Loi de 1976 sur l'administration locale + règlements municipaux | Délivre la licence de l'**entreprise à cette adresse** |
 | EIE / approbation de local prescrit | DOE | Loi de 1974 sur la qualité de l'environnement | Approuve l'**impact environnemental de l'activité** lorsqu'elle est prescrite |

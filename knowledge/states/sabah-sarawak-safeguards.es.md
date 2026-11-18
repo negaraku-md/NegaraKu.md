@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera — viajero, empleador, estudiante o lector del federalismo malasio — que desee un relato claro y descriptivo de las salvaguardias constitucionales que tienen Sabah y Sarawak, y de dónde está escrita cada una, sin tomar partido en el debate sobre cómo se implementan."
 
 lang: "es"
-sourceContentHash: "468d0412b31978aa"
+sourceContentHash: "4aa35379a611971b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -162,7 +162,7 @@ Como estas protecciones de la Parte XIIA y sus disposiciones relacionadas están
 
 ## Posiciones documentadas
 
-El alcance y la implementación de estas salvaguardias siguen siendo un tema vivo de discusión pública y jurídica — del que aquí se informa sin respaldo. Los comentarios recopilados por organismos como el Colegio de Abogados de Malasia y ConstitutionNet señalan que la Constitución a la vez arraiga las salvaguardias y deja varias de ellas — en particular las disposiciones financieras de los Artículos 112C y 112D — dependientes de la revisión y el acuerdo periódicos, razón por la cual su aplicación cotidiana se discute incluso donde el texto está asentado. NegaraKu.md expone las disposiciones; no resuelve esos argumentos.
+El alcance y la implementación de estas salvaguardias siguen siendo un tema vivo de discusión pública y jurídica — del que aquí se informa sin respaldo. Los comentarios recopilados por organismos como el [Colegio de Abogados de Malasia](/es/law/bar-council-malaysia) y ConstitutionNet señalan que la Constitución a la vez arraiga las salvaguardias y deja varias de ellas — en particular las disposiciones financieras de los Artículos 112C y 112D — dependientes de la revisión y el acuerdo periódicos, razón por la cual su aplicación cotidiana se discute incluso donde el texto está asentado. NegaraKu.md expone las disposiciones; no resuelve esos argumentos.
 
 ## Qué sigue
 

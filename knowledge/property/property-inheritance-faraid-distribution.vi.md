@@ -30,7 +30,7 @@ faq:
     a: "Di sản nhỏ gồm tài sản bất động sản và có giá trị dưới RM5 triệu được xử lý bởi Người quản lý Đất đai (Land Administrator) qua Văn phòng Địa chính Quận, cơ quan cấp Lệnh Phân chia."
 
 lang: "vi"
-sourceContentHash: "34023c075e010a0d"
+sourceContentHash: "7da221c06c43a7d9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ Khi một người qua đời ở Malaysia, ai thừa kế ngôi nhà của họ
 
 ## Luật nào quyết định việc phân chia di sản?
 
-Malaysia xử lý việc thừa kế thông qua hai khuôn khổ tách biệt. Đối với người Hồi giáo, di sản được phân chia theo **faraid**, tức luật thừa kế Hồi giáo, và Tòa án Syariah cấp **giấy chứng nhận faraid** xác nhận danh sách những người thừa kế có quyền cùng phần của mỗi người trước khi tài sản được phân chia.
+Malaysia xử lý việc thừa kế thông qua hai khuôn khổ tách biệt. Đối với người Hồi giáo, di sản được phân chia theo **[faraid](/vi/law/faraid-and-islamic-inheritance/)**, tức luật thừa kế Hồi giáo, và Tòa án Syariah cấp **giấy chứng nhận faraid** xác nhận danh sách những người thừa kế có quyền cùng phần của mỗi người trước khi tài sản được phân chia.
 
 Đối với người không theo đạo Hồi qua đời mà không để lại di chúc (qua đời *intestate*), việc phân chia được điều chỉnh bởi **Luật Phân chia 1958 (Distribution Act 1958) (Luật 300)**. Luật này áp dụng cho người không theo đạo Hồi tại Bán đảo Malaysia và tại Sarawak; Sabah và nhóm người bản địa Sarawak tuân theo các quy định khác. Nếu một người không theo đạo Hồi để lại một di chúc hợp lệ, di sản của họ được phân chia theo di chúc đó, không phải theo công thức của Luật 300.
 

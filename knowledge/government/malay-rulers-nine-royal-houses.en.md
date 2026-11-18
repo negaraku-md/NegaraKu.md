@@ -31,7 +31,7 @@ faq:
     a: "Proceedings against a Ruler in his personal capacity may only be brought before the Special Court established under Article 182, and are subject to the consent of the Attorney General."
 
 lang: "en"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Article 70 of the Federal Constitution provides that, subject to the precedence 
 
 ## What is the role of a Ruler within his state?
 
-Within the boundaries of his state, a Ruler holds three principal positions: head of state, head of the Islamic religion for that state, and guardian of Malay custom and ceremony. According to the Malaysian Bar, a state Ruler acts as a constitutional monarch under Articles 71 and 181(1) of the Federal Constitution — their powers are defined and limited by law, not absolute.
+Within the boundaries of his state, a Ruler holds three principal positions: head of state, head of the Islamic religion for that state, and guardian of Malay custom and ceremony. According to the [Malaysian Bar](/en/law/bar-council-malaysia), a state Ruler acts as a constitutional monarch under Articles 71 and 181(1) of the Federal Constitution — their powers are defined and limited by law, not absolute.
 
 In most matters of governance, the Ruler acts on the advice of the State Executive Council. The provisions of the Eighth Schedule stipulate that the Ruler shall act in accordance with the advice of the Executive Council, except in matters in respect of which he is given discretion.
 

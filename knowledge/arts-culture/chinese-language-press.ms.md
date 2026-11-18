@@ -33,7 +33,7 @@ faq:
     a: "Selaras dengan trend industri akhbar global, jumlah edaran bercetak akhbar Cina Malaysia secara amnya menurun dalam kira-kira dua dekad kebelakangan ini, dengan pembaca — terutamanya generasi muda — semakin banyak memperoleh berita melalui telefon pintar dan internet. Oleh itu, setiap akhbar membangunkan platform digital seperti laman berita, akhbar elektronik dan aplikasi telefon pintar, dengan sebahagian kandungan turut disebarkan di media sosial. Sama ada dan bila versi cetak akan hilang sepenuhnya masih tidak pasti, dan rencana ini tidak membuat sebarang ramalan."
 
 lang: "ms"
-sourceContentHash: "77631a962c5674a5"
+sourceContentHash: "ba3edfb9eefffbdb"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -126,7 +126,7 @@ Selain itu, akhbar-akhbar besar Cina sejak lama mengadakan persembahan amal, tab
 
 ## Latar Belakang Pengawalseliaan Industri Akhbar
 
-Seperti semua akhbar di Malaysia, penerbitan akhbar Cina dikawal oleh undang-undang. Menurut **Akta Mesin Cetak dan Penerbitan 1984 (Printing Presses and Publications Act 1984)**, penggunaan mesin cetak serta percetakan dan penerbitan akhbar perlu memohon permit daripada Kementerian Dalam Negeri.
+Seperti semua akhbar di Malaysia, penerbitan akhbar Cina dikawal oleh undang-undang. Menurut **[Akta Mesin Cetak dan Penerbitan 1984](/law/printing-presses-and-publications-act/) (Printing Presses and Publications Act 1984)**, penggunaan mesin cetak serta percetakan dan penerbitan akhbar perlu memohon permit daripada Kementerian Dalam Negeri.
 
 Sebelum pindaan 2012, syarikat akhbar perlu memohon semula untuk memperbaharui permit **setiap tahun** daripada Kementerian Dalam Negeri, satu susunan yang pernah menimbulkan perbincangan mengenai kebebasan akhbar dalam sejarah. Akta pindaan yang diluluskan pada 2012 (Act A1436) memansuhkan keperluan memohon semula setiap tahun, menukarkannya supaya permit kekal sah sehingga ia dibatalkan, dan memulihkan ruang semakan kehakiman tertentu terhadap keputusan berkaitan.
 

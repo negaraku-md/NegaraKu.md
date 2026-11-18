@@ -34,7 +34,7 @@ faq:
     a: "Có. Khiếu nại bằng văn bản có thể được chuyển đến Ủy ban Kỷ luật theo điều 99. Nếu Ủy ban thấy có căn cứ, nó sẽ lập một Tribunal Điều tra theo điều 100 để điều tra khiếu nại đó."
 
 lang: "vi"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "pegu
 framework: explainer
 ---
 
-Mỗi luật sư đứng tại tòa ở Kuala Lumpur, Johor Bahru hay Penang đều làm vậy dưới cùng một tấm luật — và nếu anh ta đi chệch hướng, chính đạo luật đó có thể chấm dứt sự nghiệp của anh ta. Đó là Luật Nghề Luật sư 1976 (Act 166), xương sống hợp nhất nghề luật sư của Bán đảo Malaysia và đặt nó dưới sự giám sát của Hội đồng Luật sư cùng một ủy ban kỷ luật độc lập.
+Mỗi luật sư đứng tại tòa ở Kuala Lumpur, Johor Bahru hay Penang đều làm vậy dưới cùng một tấm luật — và nếu anh ta đi chệch hướng, chính đạo luật đó có thể chấm dứt sự nghiệp của anh ta. Đó là Luật Nghề Luật sư 1976 (Act 166), xương sống hợp nhất nghề luật sư của Bán đảo Malaysia và đặt nó dưới sự giám sát của [Hội đồng Luật sư](/vi/law/bar-council-malaysia) cùng một ủy ban kỷ luật độc lập.
 
 ## Luật Nghề Luật sư 1976 điều tiết những gì?
 

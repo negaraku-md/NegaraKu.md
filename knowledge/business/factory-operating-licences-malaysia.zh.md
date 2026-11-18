@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ framework: rules
 |---|---|---|---|
 | 制造执照／ICA 豁免 | MITI／MIDA | 《1975 年工业协调法令》 | 授权制造**活动**（见专门指南） |
 | 竣工与合规证书（CCC） | 建筑师/工程师（PSP）＋地方当局 | 《1974 年街道、排水与建筑法令》＋《统一建筑附例》 | 使**建筑**合法可占用 |
-| 机械设备合格证书 | DOSH | 《1994 年职业安全与健康法令》＋《2024 年职安卫（需要合格证书的机械设备）条例》 | 让受管制**机械**得以运营 |
+| 机械设备合格证书 | DOSH | [《1994 年职业安全与健康法令》](/zh/law/occupational-safety-and-health-act/)＋《2024 年职安卫（需要合格证书的机械设备）条例》 | 让受管制**机械**得以运营 |
 | 消防证书 | BOMBA | 《1988 年消防服务法令》 | 为**指定处所**提供持续的消防安全批准 |
 | 营业处所＋招牌执照 | 地方议会（PBT） | 《1976 年地方政府法令》＋议会附例 | 为**该地址的生意**发照 |
 | EIA／指定处所批准 | DOE | 《1974 年环境质量法令》 | 在指定情况下批准**活动的环境影响** |

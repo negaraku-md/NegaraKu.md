@@ -33,7 +33,7 @@ faq:
     a: "In line with global newspaper trends, the print circulation of Malaysia's Chinese-language press has generally declined over the past two decades, with readers — especially the younger generation — increasingly getting their news via mobile phones and the internet. The papers have therefore developed digital platforms such as news websites, e-papers and mobile apps, with some content also spread on social media. Whether and when print will disappear entirely remains uncertain, and this article makes no prediction."
 
 lang: "en"
-sourceContentHash: "77631a962c5674a5"
+sourceContentHash: "ba3edfb9eefffbdb"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -126,7 +126,7 @@ In addition, the major Chinese papers have long organised charity performances, 
 
 ## The Background to Press Regulation
 
-Like all newspapers in Malaysia, the publication of the Chinese press is regulated by law. Under the **Printing Presses and Publications Act 1984**, the use of a printing press and the printing and publishing of newspapers all require a permit from the Ministry of Home Affairs.
+Like all newspapers in Malaysia, the publication of the Chinese press is regulated by law. Under the **[Printing Presses and Publications Act 1984](/en/law/printing-presses-and-publications-act/)**, the use of a printing press and the printing and publishing of newspapers all require a permit from the Ministry of Home Affairs.
 
 Before the 2012 amendment, newspaper companies had to reapply to the Ministry of Home Affairs **each year** to renew their permit, an arrangement that historically prompted discussion about press freedom. The amending Act passed in 2012 (Act A1436) abolished the requirement to reapply each year, changing it so that a permit remains valid until it is revoked, and restored a measure of judicial review over related decisions.
 

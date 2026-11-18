@@ -37,7 +37,7 @@ verificationNeeded:
   - "Pastikan ketentuan terkini dari pengakuan bersama MICPA-CAANZ dan apakah ada perubahan jalur yang telah berlaku sejak pembaruan 2016"
 
 lang: "id"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ perekonomian besar.
 
 MICPA adalah **badan kelima yang tercantum dalam Fourth Schedule** Companies Act
 2016, maka anggotanya memenuhi syarat untuk bertindak sebagai sekretaris
-perusahaan di bawah Pasal 235(2)(a) — setara dengan MAICSA, MIA, Malaysian Bar dan
+perusahaan di bawah Pasal 235(2)(a) — setara dengan MAICSA, MIA, [Malaysian Bar](/id/law/bar-council-malaysia) dan
 badan-badan disetujui lainnya. Seperti setiap badan Fourth Schedule, itu adalah
 sebuah kualifikasi: seseorang tetap harus memperoleh sertifikat praktik Pasal 241
 dari SSM sebelum bertindak.

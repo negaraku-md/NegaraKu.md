@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9f0ef46f2f698cad"
+sourceContentHash: "3af2cf48abfd7aa5"
 
 status: "published"
 aiAssisted: true
@@ -130,7 +130,7 @@ YA2023 至 YA2027** 有效。
 
 条件很严：
 
-- 该车辆须为 Road Transport Act 1987 s.2 意义下的电动汽车；
+- 该车辆须为 [Road Transport Act 1987](/zh/law/road-transport-act-1987) s.2 意义下的电动汽车；
 - 它必须是**全新**的，在租赁前未曾被任何人使用过；
 - 它不得领有货物或乘客商业运载的执照；
 - 每辆车跨所有年度的合计扣除不得超过 **RM300,000**；

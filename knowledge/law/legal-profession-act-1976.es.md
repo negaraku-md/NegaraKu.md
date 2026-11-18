@@ -34,7 +34,7 @@ faq:
     a: "Sí. Una denuncia por escrito puede remitirse a la Junta Disciplinaria conforme a la sección 99. Si la Junta considera que hay fundamento, constituirá un Tribunal de Investigación conforme a la sección 100 para investigar la denuncia."
 
 lang: "es"
-sourceContentHash: "b2af26646e05de04"
+sourceContentHash: "5fd0e8944462bf5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ keywords: ["Akta Profesion Guaman 1976", "Majlis Peguam", "Malaysian Bar", "advo
 framework: explainer
 ---
 
-Todo abogado que comparece ante un tribunal en Kuala Lumpur, Johor Bahru o Penang lo hace bajo un único y mismo cuerpo normativo — y, si se desvía, esa misma ley puede poner fin a su carrera. Esa es la Ley de la Profesión Jurídica de 1976 (Act 166), la columna vertebral que unifica la profesión jurídica de Malasia Peninsular y la coloca bajo la supervisión del Bar Council y de una junta disciplinaria independiente.
+Todo abogado que comparece ante un tribunal en Kuala Lumpur, Johor Bahru o Penang lo hace bajo un único y mismo cuerpo normativo — y, si se desvía, esa misma ley puede poner fin a su carrera. Esa es la Ley de la Profesión Jurídica de 1976 (Act 166), la columna vertebral que unifica la profesión jurídica de Malasia Peninsular y la coloca bajo la supervisión del [Bar Council](/es/law/bar-council-malaysia) y de una junta disciplinaria independiente.
 
 ## ¿Qué regula la Ley de la Profesión Jurídica de 1976?
 

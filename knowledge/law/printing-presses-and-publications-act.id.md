@@ -29,7 +29,7 @@ faq:
     a: "Pasal 7 membolehkan Menteri, melalui perintah dalam Warta, melarang penerbitan yang dianggap merugikan atau berkemungkinan merugikan ketertiban umum, keamanan, moralitas, hubungan dengan negara asing, atau kepentingan negara."
 
 lang: "id"
-sourceContentHash: "614accf2d6e4feba"
+sourceContentHash: "a66b780f5398b184"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Kuasa yang paling sering dibahas terletak pada Pasal 7, yang berkaitan dengan pe
 
 Selain kuasa untuk menyetujui atau menolak permohonan, Akta 301 memberi Menteri kuasa untuk mencabut atau menangguhkan lisensi dan permit yang telah dikeluarkan. Kuasa ini dinyatakan dalam Pasal 13.
 
-Sepanjang sejarahnya, ciri ini menjadi fokus perdebatan karena permit suatu penerbitan dapat dihentikan tanpa penerbitan itu dilarang secara permanen. Salah satu contoh yang kerap dirujuk adalah penangguhan permit surat kabar mingguan *The Heat* pada 2013, yang disebut oleh Majlis Peguam Malaysia sebagai kasus yang menimbulkan pertanyaan tentang proses yang wajar.
+Sepanjang sejarahnya, ciri ini menjadi fokus perdebatan karena permit suatu penerbitan dapat dihentikan tanpa penerbitan itu dilarang secara permanen. Salah satu contoh yang kerap dirujuk adalah penangguhan permit surat kabar mingguan *The Heat* pada 2013, yang disebut oleh [Majlis Peguam Malaysia](/id/law/bar-council-malaysia) sebagai kasus yang menimbulkan pertanyaan tentang proses yang wajar.
 
 ## Apa yang berubah setelah amandemen 2012?
 

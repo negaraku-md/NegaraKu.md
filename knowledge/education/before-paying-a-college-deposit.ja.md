@@ -35,7 +35,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -185,7 +185,7 @@ framework: how-to
 か、どのような期限で返金されるのかを書面で確認し、すべての記録を残してください。
 
 もし機関のマーケティングが誤認させるものであったり、条項が著しく一方的であったり
-した場合、**1999年消費者保護法（Act 599）**——誤認させる行為や不公正な契約条項を
+した場合、**[1999年消費者保護法](/ja/law/consumer-protection-act/)（Act 599）**——誤認させる行為や不公正な契約条項を
 扱う——が手段を*提供し得る*かもしれず、学生が同法のもとで「消費者」になり得ると
 法学上の論評は主張しています。しかしそれはあり得る道であって、保証された返金では
 ないので、前もって同意する文書化された方針こそが物を言います。

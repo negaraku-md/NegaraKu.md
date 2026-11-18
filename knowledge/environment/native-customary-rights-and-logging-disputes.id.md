@@ -29,7 +29,7 @@ faq:
     a: "Lisensi tebang dan sewa perkebunan yang dikeluarkan oleh negeri dapat meliputi kawasan yang diklaim oleh komunitas sebagai tanah adat. Ketika pihak-pihak berselisih apakah suatu kawasan itu tanah NCR, sengketa tersebut biasanya diputuskan di pengadilan."
 
 lang: "id"
-sourceContentHash: "73a645ecf7076b5d"
+sourceContentHash: "28337553336a3000"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,7 +111,7 @@ Satu tonggak awal adalah **Nor Anak Nyawai & Ors v Borneo Pulp Plantation Sdn Bh
 
 Keputusan terkini yang paling banyak dirujuk adalah **Director of Forest, Sarawak & Anor v TR Sandah & Ors**, dilaporkan pada **[2017] 2 MLJ 281** dan diputuskan pada **20 Desember 2016**. Penggugat menuntut hak atas sekitar **5,639 hektar** yang berasal dari *pemakai menoa* dan *pulau galau*. Mayoritas Mahkamah Persekutuan **3:1** memutuskan bahwa kategori komunal ini tidak memiliki **kekuatan hukum**, karena ia tidak tercermin dalam adat yang telah dikodifikasi (seperti *Tusun Tunggu* dan Perintah Adat Iban 1993); sebaliknya, *temuda* yang diusahakan dianggap diakui. Satu putusan yang berbeda pendapat mengambil pandangan yang bertentangan tentang keterlaksanaan hak adat yang lebih luas itu.
 
-Penggugat kemudian mengajukan peninjauan. Mahkamah Persekutuan menolak permohonan peninjauan tersebut pada **2019**. Majlis Peguam Malaysia, mengomentari keputusan itu, menggambarkannya sebagai peluang yang terlewat dan menyerukan tindakan legislatif, termasuk amendemen untuk memastikan hakim yang berpengalaman di Borneo terlibat dalam banding Sabah dan Sarawak — satu pendirian yang dikemukakan oleh Majlis Peguam dan bukan satu keputusan pengadilan.
+Penggugat kemudian mengajukan peninjauan. Mahkamah Persekutuan menolak permohonan peninjauan tersebut pada **2019**. [Majlis Peguam Malaysia](/id/law/bar-council-malaysia), mengomentari keputusan itu, menggambarkannya sebagai peluang yang terlewat dan menyerukan tindakan legislatif, termasuk amendemen untuk memastikan hakim yang berpengalaman di Borneo terlibat dalam banding Sabah dan Sarawak — satu pendirian yang dikemukakan oleh Majlis Peguam dan bukan satu keputusan pengadilan.
 
 ## Apa saja pendirian yang berbeda-beda?
 

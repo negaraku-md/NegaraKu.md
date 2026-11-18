@@ -153,7 +153,7 @@ To nurture more of this, policymakers lean on dedicated funding and agencies. **
 
 ## Regulation: the CMA 1998, MCMC and FINAS
 
-Media and broadcasting in Malaysia sit under a converged regulatory framework built around the **Communications and Multimedia Act 1998 (CMA)**. The Act brought telecommunications, broadcasting and online content under one roof, administered by the **[Malaysian Communications and Multimedia Commission (MCMC)](/en/government/mcmc-communications-multimedia-commission/)**.
+Media and broadcasting in Malaysia sit under a converged regulatory framework built around the **[Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998/) (CMA)**. The Act brought telecommunications, broadcasting and online content under one roof, administered by the **[Malaysian Communications and Multimedia Commission (MCMC)](/en/government/mcmc-communications-multimedia-commission/)**.
 
 In practice this means:
 

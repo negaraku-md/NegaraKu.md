@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "68ad2357941779d2"
+sourceContentHash: "41452eb0f37e297f"
 
 status: "published"
 aiAssisted: true
@@ -211,7 +211,7 @@ framework: explainer
 
 - 有效的**遗嘱**；
 - **《分配法令》**（Distribution Act，即在没有遗嘱的情况下的无遗嘱继承）；或
-- **法拉伊德**（faraid），即伊斯兰法下适用于穆斯林遗产的强制继承规则。
+- **[法拉伊德](/zh/law/faraid-and-islamic-inheritance)**（faraid），即伊斯兰法下适用于穆斯林遗产的强制继承规则。
 
 然而，若受益人在上述法定框架*之外*重新安排其应得份额，则可能触发从价印花税。马来西亚判例法曾就此问题反复权衡：在*Lee Koy Eng v Pemungut Duti Setem* [2022] MSTC 30-483 案中，高等法院裁定，无遗嘱继承下的受益人在遗产管理完成之前，对遗产并无既得权利或权益，因此一份用以实现放弃该应得份额的14A表格（Form 14A）文书不能构成「赠与」——你无法赠与你尚未拥有之物——故仅须缴纳象征性而非从价印花税。（在上诉时，该案报告为*Pemungut Duti Setem v Lee Koy Eng & Another Appeal* [2022] 6 MLRA 209，联邦法院在其中确认，根据1949年《印花税法令》第39条呈述的案件可向其上诉；高等法院与上诉法院在实质问题上均判决缴税人胜诉。）更广泛的教训是，文书的架构方式（例如一份家庭安排契据）会影响印花税。若受益人希望以遗嘱或《分配法令》未作规定的方式在彼此之间重新分配资产，请先寻求意见，因为错误的架构可能把一项RM10的转移变成全额印花税。
 

@@ -34,7 +34,7 @@ faq:
     a: "Penjadualan semula menukar garis masa bayaran balik — contohnya memanjangkan tempoh untuk menurunkan ansuran bulanan (yang menaikkan jumlah faedah yang dibayar). Penstrukturan semula ialah perubahan yang lebih besar kepada terma pinjaman, seperti menukar overdraf kepada pinjaman berjangka beransuran tetap. Kedua-duanya diatur terus dengan bank anda, yang mengeluarkan surat tawaran baharu."
 
 lang: "ms"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Syarikat mempunyai salurannya sendiri:
 
 ## Apabila penstrukturan semula tidak mencukupi
 
-Jika laluan sukarela tidak dapat menyelesaikan hutang, pilihan formal yang diselia mahkamah masih ada: bagi individu, **Perjanjian Sukarela** di bawah Akta Insolvensi 1967 sebagai alternatif kepada kebankrapan; bagi syarikat, **Skim Pengaturan** atau **Pengurusan Kehakiman** di bawah Akta Syarikat 2016. Ini ialah jalan terakhir, tetapi ia wujud.
+Jika laluan sukarela tidak dapat menyelesaikan hutang, pilihan formal yang diselia mahkamah masih ada: bagi individu, **Perjanjian Sukarela** di bawah [Akta Insolvensi 1967](/law/insolvency-and-bankruptcy-law/) sebagai alternatif kepada kebankrapan; bagi syarikat, **Skim Pengaturan** atau **Pengurusan Kehakiman** di bawah Akta Syarikat 2016. Ini ialah jalan terakhir, tetapi ia wujud.
 
 ## Apa yang seterusnya
 

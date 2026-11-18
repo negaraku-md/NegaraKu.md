@@ -35,7 +35,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -192,7 +192,7 @@ sendiri. Jadi baca klausa pemulangan wang dan penarikan diri dalam surat tawaran
 garis masa yang mana, dan simpan setiap rekod.
 
 Jika pemasaran sesebuah institusi mengelirukan, atau sesuatu terma amat berat sebelah,
-**Consumer Protection Act 1999 (Act 599)** — yang meliputi kelakuan mengelirukan dan terma
+**[Consumer Protection Act 1999](/law/consumer-protection-act/) (Act 599)** — yang meliputi kelakuan mengelirukan dan terma
 kontrak tidak adil — *mungkin* menawarkan satu laluan, dan ulasan undang-undang berhujah
 bahawa pelajar boleh menjadi "pengguna" di bawahnya. Tetapi itu laluan yang mungkin, bukan
 pemulangan wang yang terjamin, jadi dasar bertulis yang anda persetujui pada awalnya ialah

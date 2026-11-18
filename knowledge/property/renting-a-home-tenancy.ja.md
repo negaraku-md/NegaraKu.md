@@ -23,7 +23,7 @@ appliesTo: "マレーシア半島、サバまたはサラワクで住宅物件�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 
 status: "published"
 aiAssisted: true
@@ -94,7 +94,7 @@ framework: explainer
 
 - **1950年特定救済法（Specific Relief Act 1950）**は、賃貸借の終了後に借主が退去しない場合にどうなるかを規律する。
 - **1951年差押法（Distress Act 1951）**は、未払い家賃を回収するための裁判所を通じた手段を貸主に与える。
-- **1956年民事法（Civil Law Act 1956）**と通常の民事訴訟手続は、金銭及び損害賠償をめぐる紛争をより一般的に扱う。
+- **[1956年民事法（Civil Law Act 1956）](/ja/law/common-law-in-malaysia)**と通常の民事訴訟手続は、金銭及び損害賠償をめぐる紛争をより一般的に扱う。
 
 これらのいずれも現代の賃貸を念頭に起草されたものではない。それらは広く物件及び契約の紛争のために作られており、裁判所はそれらを拡張適用によって賃貸借に適用する。実際上の帰結はこうだ。賃貸借法を持つ法域では既定で存在する権利——最短通知期間、保証金の上限、法定の紛争審判所——は、契約そのものがそれらを創設しない限り、ここではほとんど存在しない。
 

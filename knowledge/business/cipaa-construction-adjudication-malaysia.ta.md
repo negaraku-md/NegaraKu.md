@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ framework: explainer
 
 Construction Industry Payment and Adjudication Act 2012 கட்டணத் தகராறுகளை விரைவாகத் தீர்க்க ஒரு சட்டப்பூர்வ தீர்ப்பளிப்பு நடைமுறையை உருவாக்கியது, இது நடுவர்த்தீர்ப்பு அல்லது வழக்காடலின் மெதுவான, அதிக செலவுள்ள வழிகளுக்கு மாற்றாகும். இது எழுத்துப்பூர்வமாக உருவாக்கப்பட்டு மலேசியாவில் நிறைவேற்றப்படும் கட்டுமான ஒப்பந்தங்களுக்குப் பொருந்தும், மேலும் ஒப்பந்தத்தின் மூலம் இதன் பயன்பாட்டை விலக்க முடியாது.
 
-தீர்ப்பளிப்பு ஆசிய சர்வதேச நடுவர்த்தீர்ப்பு மையம் (Asian International Arbitration Centre, AIAC) ஆல் நிர்வகிக்கப்படுகிறது — இந்த அமைப்பு முன்னர் கோலாலம்பூர் பிராந்திய நடுவர்த்தீர்ப்பு மையம் (Kuala Lumpur Regional Centre for Arbitration, KLRCA) என அறியப்பட்டது.
+தீர்ப்பளிப்பு [ஆசிய சர்வதேச நடுவர்த்தீர்ப்பு மையம்](/ta/law/arbitration-and-dispute-resolution) (Asian International Arbitration Centre, AIAC) ஆல் நிர்வகிக்கப்படுகிறது — இந்த அமைப்பு முன்னர் கோலாலம்பூர் பிராந்திய நடுவர்த்தீர்ப்பு மையம் (Kuala Lumpur Regional Centre for Arbitration, KLRCA) என அறியப்பட்டது.
 
 ## இந்த நடைமுறை படிப்படியாக எவ்வாறு இயங்குகிறது?
 

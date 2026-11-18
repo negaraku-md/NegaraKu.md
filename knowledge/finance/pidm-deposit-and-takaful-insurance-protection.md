@@ -240,7 +240,7 @@ The healthcare treatment is important: rather than a Ringgit cap, protected heal
 If an insurer member fails, prepaid premiums or contributions may also be refunded:
 
 - **Medical and health** takaful/insurance: 100% refunded.
-- Policies under the **Road Transport Act 1987** and the **Workmen's Compensation Act 1952**: 100% refunded.
+- Policies under the **[Road Transport Act 1987](/law/road-transport-act-1987)** and the **Workmen's Compensation Act 1952**: 100% refunded.
 - Other policies: up to **RM500,000 per certificate or policy**.
 
 ### How the limits are aggregated

@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 
 status: "published"
 aiAssisted: true
@@ -100,7 +100,7 @@ Lapisan operasi dihimpunkan daripada pihak berkuasa yang berasingan, masing-masi
 |---|---|---|---|
 | Lesen pembuatan / pengecualian ICA | MITI / MIDA | Akta Penyelarasan Perindustrian 1975 | Membenarkan **aktiviti** pembuatan (lihat panduan khususnya) |
 | Sijil Perakuan Siap dan Pematuhan (CCC) | Arkitek/jurutera (PSP) + pihak berkuasa tempatan | Akta Jalan, Parit dan Bangunan 1974 + Undang-Undang Kecil Bangunan Seragam | Menjadikan **bangunan** sah untuk diduduki |
-| Perakuan kelayakan bagi loji | DOSH | Akta Keselamatan dan Kesihatan Pekerjaan 1994 + Peraturan KKP (Loji yang Memerlukan PK) 2024 | Membenarkan **jentera** terkawal dioperasikan |
+| Perakuan kelayakan bagi loji | DOSH | [Akta Keselamatan dan Kesihatan Pekerjaan 1994](/law/occupational-safety-and-health-act/) + Peraturan KKP (Loji yang Memerlukan PK) 2024 | Membenarkan **jentera** terkawal dioperasikan |
 | Sijil kebakaran | BOMBA | Akta Perkhidmatan Bomba 1988 | Pelepasan keselamatan kebakaran berterusan bagi **premis yang ditetapkan** |
 | Lesen premis perniagaan + papan tanda | Pihak berkuasa tempatan (PBT) | Akta Kerajaan Tempatan 1976 + undang-undang kecil majlis | Melesenkan **perniagaan di alamat itu** |
 | Kelulusan EIA / premis yang ditetapkan | DOE | Akta Kualiti Alam Sekeliling 1974 | Meluluskan **kesan alam sekitar aktiviti** di mana ditetapkan |

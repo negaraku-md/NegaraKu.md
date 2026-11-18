@@ -31,7 +31,7 @@ faq:
   - q: Apakah industri kandungan kreatif dan animasi Malaysia?
     a: Ia ialah perniagaan menghasilkan filem, rancangan televisyen, animasi, muzik dan permainan — semakin untuk eksport selain pasaran domestik. Animasi Malaysia khususnya telah mencapai kejayaan antarabangsa, contoh paling terkenal ialah siri kanak-kanak Upin & Ipin, dihasilkan oleh Les' Copaque. Kerajaan menyokong sektor ini melalui dana dan agensi seperti MyCreative Ventures dan FINAS.
 lang: ms
-sourceContentHash: "1329d35616c4ab41"
+sourceContentHash: "3e8bc7e3b643f33d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Untuk memupuk lebih banyak ini, penggubal dasar bersandar pada pembiayaan dan ag
 
 ## Pengawalseliaan: CMA 1998, MCMC dan FINAS
 
-Media dan penyiaran di Malaysia terletak di bawah rangka kerja pengawalseliaan menumpu yang dibina di sekitar **Akta Komunikasi dan Multimedia 1998 (CMA)**. Akta ini membawa telekomunikasi, penyiaran dan kandungan dalam talian di bawah satu bumbung, ditadbir oleh **[Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)](/government/mcmc-communications-multimedia-commission/)**.
+Media dan penyiaran di Malaysia terletak di bawah rangka kerja pengawalseliaan menumpu yang dibina di sekitar **[Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998/) (CMA)**. Akta ini membawa telekomunikasi, penyiaran dan kandungan dalam talian di bawah satu bumbung, ditadbir oleh **[Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)](/government/mcmc-communications-multimedia-commission/)**.
 
 Dalam amalan, ini bermaksud:
 

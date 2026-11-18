@@ -31,7 +31,7 @@ faq:
     a: "ใช่ — มันมากกว่าการเปลี่ยนชื่อ Act A1738 และ 2025 Amendment Regulations ที่มีผลบังคับใช้ตั้งแต่ 1 มกราคม 2026 แทนที่ 'KLRCA' ด้วย 'AIAC' ทำให้กรอบเวลาการชี้ขาดเข้มงวดขึ้นจนการขยายเวลาขณะนี้ต้องได้รับความยินยอมจากทั้งคู่กรณีและผู้ชี้ขาด แนะนำข้อกำหนดหนังสือแจ้งการชำระเงินและแบบฟอร์มที่กำหนด ขยายคำนิยามสำคัญเพื่อลดข้อพิพาทเรื่องเขตอำนาจ และเสริมความแข็งแกร่งของเส้นทางการบังคับใช้ กรอบคำวินิจฉัย 45 วันทำการหลักยังคงอยู่ แต่กระบวนการโดยรอบเปลี่ยนไป ดังนั้นให้ใช้แบบฟอร์ม AIAC ปัจจุบัน"
 
 lang: "th"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ framework: explainer
 
 Construction Industry Payment and Adjudication Act 2012 สร้างกระบวนการชี้ขาดตามกฎหมายเพื่อระงับข้อพิพาทการชำระเงินอย่างรวดเร็ว เป็นทางเลือกแทนเส้นทางที่ช้ากว่าและมีค่าใช้จ่ายสูงกว่าอย่างการอนุญาโตตุลาการหรือการฟ้องคดี มันใช้กับสัญญาก่อสร้างที่ทำเป็นลายลักษณ์อักษรและดำเนินการในมาเลเซีย และไม่สามารถตกลงยกเว้นได้
 
-การชี้ขาดบริหารโดย Asian International Arbitration Centre (AIAC) — องค์กรที่เดิมรู้จักในชื่อ Kuala Lumpur Regional Centre for Arbitration (KLRCA)
+การชี้ขาดบริหารโดย [Asian International Arbitration Centre](/th/law/arbitration-and-dispute-resolution) (AIAC) — องค์กรที่เดิมรู้จักในชื่อ Kuala Lumpur Regional Centre for Arbitration (KLRCA)
 
 ## กระบวนการดำเนินไปทีละขั้นตอนอย่างไร
 

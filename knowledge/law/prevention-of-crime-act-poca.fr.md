@@ -30,7 +30,7 @@ faq:
     a: "Le Conseil de prévention du crime — un organe présidé par une personne juridiquement qualifiée et désigné par le gouvernement — et non les tribunaux. Le Conseil agit sur le rapport d'un Officier d'instruction (Inquiry Officer) nommé par le ministre."
 
 lang: "fr"
-sourceContentHash: "a6b06f9b9fdb4839"
+sourceContentHash: "3dd3f7fe93ce0398"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ Il existe des avis divergents sur ces amendements, et cet article présente les 
 
 **L'avis du gouvernement et de ses partisans.** Le gouvernement défend la POCA comme un outil nécessaire pour faire face au crime organisé, aux sociétés secrètes, et aux réseaux de trafic de drogue et de traite des êtres humains qui sont difficiles à poursuivre par des procès ordinaires parce que les témoins ne sont pas disposés à se manifester.
 
-**L'avis des critiques.** Le Conseil de l'Ordre des avocats de Malaisie (Malaysian Bar), par une déclaration datée du 3 octobre 2013, a soulevé plusieurs préoccupations. Son président d'alors, Christopher Leong, a soutenu que les amendements permettaient la détention fondée sur une « croyance ou un soupçon » plutôt que sur une infraction prouvée. Le Conseil de l'Ordre a également qualifié le Conseil de prévention du crime de dépendant entièrement du rapport de l'Officier d'instruction, sans aucun pouvoir d'enquête indépendant. Human Rights Watch, de son côté, a regroupé la POCA avec la SOSMA et la POTA parmi les lois qui, selon elle, permettent la détention sans procès et des restrictions sévères sans contrôle judiciaire.
+**L'avis des critiques.** Le [Conseil de l'Ordre des avocats de Malaisie](/fr/law/bar-council-malaysia) (Malaysian Bar), par une déclaration datée du 3 octobre 2013, a soulevé plusieurs préoccupations. Son président d'alors, Christopher Leong, a soutenu que les amendements permettaient la détention fondée sur une « croyance ou un soupçon » plutôt que sur une infraction prouvée. Le Conseil de l'Ordre a également qualifié le Conseil de prévention du crime de dépendant entièrement du rapport de l'Officier d'instruction, sans aucun pouvoir d'enquête indépendant. Human Rights Watch, de son côté, a regroupé la POCA avec la SOSMA et la POTA parmi les lois qui, selon elle, permettent la détention sans procès et des restrictions sévères sans contrôle judiciaire.
 
 Ces deux positions demeurent une composante du débat public en cours sur l'équilibre entre la sécurité publique et les droits individuels en Malaisie.
 

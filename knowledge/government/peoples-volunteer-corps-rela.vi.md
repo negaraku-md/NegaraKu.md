@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,7 +80,7 @@ Nếu bạn đã từng lái xe qua một chốt chặn vào đêm trước mộ
 
 ## RELA là gì
 
-RELA là một tổ chức tình nguyện: những công dân bình thường ghi danh, huấn luyện và xuất hiện để hỗ trợ các hoạt động chính thức khi được triệu tập. Theo cổng dịch vụ liên bang, tư cách thành viên mở cho công dân Malaysia từ 18 tuổi trở lên chưa đang phục vụ trong Lực lượng Vũ trang hoặc một lực lượng theo luật định khác, việc ghi danh kéo dài theo các nhiệm kỳ năm năm có thể gia hạn, và các thành viên được đối xử như công chức theo Bộ luật Hình sự (Act 574) khi đang làm nhiệm vụ. Một **Tổng Giám đốc**, do Bộ trưởng bổ nhiệm từ công vụ, chỉ huy đoàn. Xét theo số lượng, RELA là một trong những tổ chức tình nguyện lớn nhất Malaysia, với số lượng thành viên được báo cáo bằng hàng triệu (xem *verificationNeeded* để biết con số hiện hành).
+RELA là một tổ chức tình nguyện: những công dân bình thường ghi danh, huấn luyện và xuất hiện để hỗ trợ các hoạt động chính thức khi được triệu tập. Theo cổng dịch vụ liên bang, tư cách thành viên mở cho công dân Malaysia từ 18 tuổi trở lên chưa đang phục vụ trong Lực lượng Vũ trang hoặc một lực lượng theo luật định khác, việc ghi danh kéo dài theo các nhiệm kỳ năm năm có thể gia hạn, và các thành viên được đối xử như công chức theo [Bộ luật Hình sự](/vi/law/penal-code) (Act 574) khi đang làm nhiệm vụ. Một **Tổng Giám đốc**, do Bộ trưởng bổ nhiệm từ công vụ, chỉ huy đoàn. Xét theo số lượng, RELA là một trong những tổ chức tình nguyện lớn nhất Malaysia, với số lượng thành viên được báo cáo bằng hàng triệu (xem *verificationNeeded* để biết con số hiện hành).
 
 ## Nguồn gốc: từ Home Guard đến Konfrontasi
 

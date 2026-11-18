@@ -34,7 +34,7 @@ faq:
     a: "Tái lập lịch thay đổi thời gian biểu trả nợ — ví dụ kéo dài kỳ hạn để hạ khoản trả góp hằng tháng (điều này làm tăng tổng lãi phải trả). Tái cơ cấu là một thay đổi lớn hơn đối với các điều khoản của khoản vay, như chuyển một thấu chi thành một khoản vay có kỳ hạn trả góp cố định. Cả hai đều được sắp xếp trực tiếp với ngân hàng của bạn, nơi phát hành một thư chào mới."
 
 lang: "vi"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Các công ty có những kênh riêng:
 
 ## Khi tái cơ cấu là không đủ
 
-Nếu các tuyến đường tự nguyện không thể giải quyết khoản nợ, vẫn còn các lựa chọn chính thức, do tòa án giám sát: đối với cá nhân, một **Voluntary Arrangement** theo Insolvency Act 1967 như một lựa chọn thay cho phá sản; đối với công ty, một **Scheme of Arrangement** hoặc **Judicial Management** theo Companies Act 2016. Đây là những phương sách cuối cùng, nhưng chúng tồn tại.
+Nếu các tuyến đường tự nguyện không thể giải quyết khoản nợ, vẫn còn các lựa chọn chính thức, do tòa án giám sát: đối với cá nhân, một **Voluntary Arrangement** theo [Insolvency Act 1967](/vi/law/insolvency-and-bankruptcy-law/) như một lựa chọn thay cho phá sản; đối với công ty, một **Scheme of Arrangement** hoặc **Judicial Management** theo Companies Act 2016. Đây là những phương sách cuối cùng, nhưng chúng tồn tại.
 
 ## Tiếp theo
 

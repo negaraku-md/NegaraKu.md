@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 
 status: "published"
 aiAssisted: true
@@ -91,7 +91,7 @@ framework: explainer
 
 建設産業支払及び裁定法（Construction Industry Payment and Adjudication Act 2012、CIPAA）は、より遅く費用のかかる仲裁や訴訟に代わる手段として、支払紛争を迅速に解決するための法定裁定手続を創設した。同法は、書面で締結されマレーシア国内で履行される建設契約に適用され、契約によってその適用を排除することはできない。
 
-裁定はアジア国際仲裁センター（Asian International Arbitration Centre、AIAC）が管理する——同センターは、かつてクアラルンプール地域仲裁センター（Kuala Lumpur Regional Centre for Arbitration、KLRCA）として知られていた機関である。
+裁定は[アジア国際仲裁センター](/ja/law/arbitration-and-dispute-resolution)（Asian International Arbitration Centre、AIAC）が管理する——同センターは、かつてクアラルンプール地域仲裁センター（Kuala Lumpur Regional Centre for Arbitration、KLRCA）として知られていた機関である。
 
 ## 手続はどのように進むのか
 

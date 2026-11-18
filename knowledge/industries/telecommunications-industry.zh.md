@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚的电信市场还在增长吗？
     a: 由于市场近乎饱和，用户增长已大体见顶。未来增长预期将来自更高价值的服务——5G、光纤升级、企业连接与数字服务——而非签下大量新用户。
 lang: zh
-sourceContentHash: "0a9dfcb348c124ab"
+sourceContentHash: "71058a53ca5ab530"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ framework: profile
 
 ## 监管机构：MCMC 与《1998 年通讯与多媒体法令》
 
-该领域的裁判是**[马来西亚通讯及多媒体委员会（MCMC）](/zh/government/mcmc-communications-multimedia-commission/)**，依据**《1998 年通讯与多媒体法令》（CMA）**运作。CMA 创立了一个现代的「融合」框架，把电信、广播与在线内容视为一个受监管的产业，而非彼此分立的孤岛，并取代了《1950 年电信法令》等旧法。
+该领域的裁判是**[马来西亚通讯及多媒体委员会（MCMC）](/zh/government/mcmc-communications-multimedia-commission/)**，依据**[《1998 年通讯与多媒体法令》](/zh/law/communications-and-multimedia-act-1998/)（CMA）**运作。CMA 创立了一个现代的「融合」框架，把电信、广播与在线内容视为一个受监管的产业，而非彼此分立的孤岛，并取代了《1950 年电信法令》等旧法。
 
 MCMC 的权力很广。它发放**牌照**（该法采用分级结构，涵盖网络设施、网络服务、应用服务与内容）、执行**竞争**与消费者保护规则、设定**服务质量标准**、管理**频谱**，并且——对价格至关重要——裁定**批发接入定价**。通过**《强制性接入定价标准》（MSAP）**，MCMC 对 TM 等网络所有者向竞争对手收取的基础设施接入批发费率设定上限；2018 与 2023 两轮 MSAP 被认为推动了零售光纤价格下降，不过确切费率及其向消费者的传导，应对照当前 MCMC 裁定查核。
 

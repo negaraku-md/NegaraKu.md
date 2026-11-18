@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ Lesen dikeluarkan mengikut kelas kenderaan. Jadual di bawah meringkaskan kelas u
 
 ## Asas undang-undang: Akta Pengangkutan Jalan 1987
 
-Kuasa undang-undang pusat JPJ ialah **Akta Pengangkutan Jalan 1987 (Akta 333)**, yang mendapat Perkenan Diraja pada Ogos 1987 dan berkuat kuasa pada bulan berikutnya. Akta ini mengawal pendaftaran dan pelesenan kenderaan bermotor dan pemandu, peraturan pembinaan dan penggunaan, kesalahan trafik dan penalti, serta kuasa penguatkuasaan yang disandarkan oleh JPJ. Pelesenan kenderaan perdagangan secara sejarah bersandar pada statut pasangan, **Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 (Akta 334)**. Peraturan subsidiari yang dibuat di bawah Akta-akta ini mengisi butiran operasi.
+Kuasa undang-undang pusat JPJ ialah **[Akta Pengangkutan Jalan 1987](/law/road-transport-act-1987) (Akta 333)**, yang mendapat Perkenan Diraja pada Ogos 1987 dan berkuat kuasa pada bulan berikutnya. Akta ini mengawal pendaftaran dan pelesenan kenderaan bermotor dan pemandu, peraturan pembinaan dan penggunaan, kesalahan trafik dan penalti, serta kuasa penguatkuasaan yang disandarkan oleh JPJ. Pelesenan kenderaan perdagangan secara sejarah bersandar pada statut pasangan, **Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 (Akta 334)**. Peraturan subsidiari yang dibuat di bawah Akta-akta ini mengisi butiran operasi.
 
 Oleh sebab Akta ini dipinda secara berkala — termasuk semakan berkala penalti — pemandu patut menganggap denda dan nombor seksyen tertentu sebagai tertakluk kepada perubahan dan menyemak teks berautoriti semasa apabila ia penting.
 

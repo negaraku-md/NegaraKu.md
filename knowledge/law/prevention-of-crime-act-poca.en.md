@@ -30,7 +30,7 @@ faq:
     a: "The Prevention of Crime Board — a body chaired by a legally qualified individual and appointed by the government — not the courts. The Board acts on the report of an Inquiry Officer appointed by the Minister."
 
 lang: "en"
-sourceContentHash: "a6b06f9b9fdb4839"
+sourceContentHash: "3dd3f7fe93ce0398"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ There are differing views on these amendments, and this article presents both si
 
 **The government and supporters' view.** The government defends POCA as a necessary tool for tackling organised crime, secret societies, and drug-trafficking and human-trafficking syndicates that are difficult to prosecute through ordinary trials because witnesses are unwilling to come forward.
 
-**The critics' view.** The Malaysian Bar, through a statement dated 3 October 2013, raised several concerns. Its then-President, Christopher Leong, argued that the amendments permitted detention based on "belief or suspicion" rather than a proven offence. The Bar also characterised the Board as relying entirely on the Inquiry Officer's report without any independent power of investigation. Human Rights Watch, for its part, grouped POCA together with SOSMA and POTA as laws that, in its view, permit detention without trial and severe restrictions without judicial review.
+**The critics' view.** The [Malaysian Bar](/en/law/bar-council-malaysia), through a statement dated 3 October 2013, raised several concerns. Its then-President, Christopher Leong, argued that the amendments permitted detention based on "belief or suspicion" rather than a proven offence. The Bar also characterised the Board as relying entirely on the Inquiry Officer's report without any independent power of investigation. Human Rights Watch, for its part, grouped POCA together with SOSMA and POTA as laws that, in its view, permit detention without trial and severe restrictions without judicial review.
 
 Both of these positions remain part of the ongoing public debate over the balance between public security and individual rights in Malaysia.
 

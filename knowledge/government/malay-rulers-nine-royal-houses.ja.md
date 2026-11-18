@@ -31,7 +31,7 @@ faq:
     a: "統治者個人の資格において提起される訴訟手続は、第182条に基づき設置された特別法廷（Mahkamah Khas）においてのみ行うことができ、かつ司法長官（Peguam Negara）の同意を要する。"
 
 lang: "ja"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ framework: explainer
 
 ## 統治者は州内でどのような役割を担うのか
 
-統治者はその州の領域内で、三つの主要な地位を担う。すなわち州元首、その州のイスラム教の長、そしてマレー習俗（adat istiadat Melayu）の守護者である。マレーシア弁護士会（Majlis Peguam Malaysia）によれば、州の統治者は連邦憲法第71条及び第181(1)条のもとで立憲君主として行動する——その権限は法律によって定義され、制限されており、絶対的なものではない。
+統治者はその州の領域内で、三つの主要な地位を担う。すなわち州元首、その州のイスラム教の長、そしてマレー習俗（adat istiadat Melayu）の守護者である。[マレーシア弁護士会](/ja/law/bar-council-malaysia)（Majlis Peguam Malaysia）によれば、州の統治者は連邦憲法第71条及び第181(1)条のもとで立憲君主として行動する——その権限は法律によって定義され、制限されており、絶対的なものではない。
 
 大半の統治事項において、統治者は州内閣（Majlis Mesyuarat Kerajaan）の助言に従って行動する。第八附表（Jadual Kelapan）の規定は、統治者に裁量権が与えられた事項を除き、統治者は州内閣の助言に従って行動しなければならないと定めている。
 

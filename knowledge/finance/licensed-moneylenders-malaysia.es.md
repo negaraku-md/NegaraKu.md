@@ -34,7 +34,7 @@ faq:
     a: "Esa es una estafa clásica de préstamo con comisión por adelantado. Deje de pagar de inmediato, llame al Centro Nacional de Respuesta a Estafas al 997 (puede intentar congelar la cuenta a la que fue el dinero), compruebe el número de cuenta o de teléfono en Semak Mule en semakmule.rmp.gov.my, y presente una denuncia policial. Un prestamista legítimo con licencia nunca cobra una comisión antes de desembolsar un préstamo."
 
 lang: "es"
-sourceContentHash: "ab121346e7722ba5"
+sourceContentHash: "8cd8a52f85fb12de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Nunca se fíe de la palabra de un prestamista. KPKT gestiona una herramienta de 
 
 ## Prestamista con licencia frente a «Ah Long»
 
-Un **Ah Long** es un prestamista ilegal y sin licencia — un usurero. La distinción no es cosmética: operar en el préstamo ilegal es un delito, y el préstamo es inejecutable. Los usureros cobran intereses muy por encima de los topes legales y los hacen cumplir mediante una intimidación bien documentada en Malasia — salpicar pintura roja en casas y coches, colgar pancartas difamatorias, amenazas de incendio, y acosar no solo al prestatario sino a los familiares y compañeros de trabajo que nunca tomaron el préstamo. Estos actos son delitos bajo la Ley de Prestamistas y el Código Penal. Un prestamista con licencia, por el contrario, tiene prohibida esta conducta y visitarlo para cobrar.
+Un **Ah Long** es un prestamista ilegal y sin licencia — un usurero. La distinción no es cosmética: operar en el préstamo ilegal es un delito, y el préstamo es inejecutable. Los usureros cobran intereses muy por encima de los topes legales y los hacen cumplir mediante una intimidación bien documentada en Malasia — salpicar pintura roja en casas y coches, colgar pancartas difamatorias, amenazas de incendio, y acosar no solo al prestatario sino a los familiares y compañeros de trabajo que nunca tomaron el préstamo. Estos actos son delitos bajo la Ley de Prestamistas y el [Código Penal](/es/law/penal-code). Un prestamista con licencia, por el contrario, tiene prohibida esta conducta y visitarlo para cobrar.
 
 Un canal relacionado y con licencia aparte es el **préstamo pignoraticio (pawnbroking)** bajo la **Ley de Prestamistas Pignoraticios de 1972 (Pawnbrokers Act 1972)** (su equivalente islámico, **Ar-Rahnu**, cobra una comisión de custodia en lugar de interés) — un préstamo a corto plazo contra un objeto empeñado, como el oro. Es una opción legítima que conviene conocer, aunque se rige por sus propias reglas.
 

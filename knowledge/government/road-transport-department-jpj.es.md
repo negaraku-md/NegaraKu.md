@@ -29,7 +29,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -112,7 +112,7 @@ Los permisos se emiten por clase de vehículo. La tabla siguiente resume las cla
 
 ## La base legal: la Road Transport Act 1987
 
-La autoridad legal central de la JPJ es la **Road Transport Act 1987 (Act 333)**, que recibió la sanción real en agosto de 1987 y entró en vigor al mes siguiente. La ley rige la matriculación y la concesión de licencias de vehículos de motor y conductores, las normas de construcción y uso, las infracciones de tráfico y las sanciones, así como las facultades de vigilancia en las que se apoya la JPJ. Las licencias de vehículos comerciales se apoyan históricamente en una ley complementaria, la **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Las normas subsidiarias dictadas al amparo de estas leyes completan el detalle operativo.
+La autoridad legal central de la JPJ es la **[Road Transport Act 1987](/es/law/road-transport-act-1987) (Act 333)**, que recibió la sanción real en agosto de 1987 y entró en vigor al mes siguiente. La ley rige la matriculación y la concesión de licencias de vehículos de motor y conductores, las normas de construcción y uso, las infracciones de tráfico y las sanciones, así como las facultades de vigilancia en las que se apoya la JPJ. Las licencias de vehículos comerciales se apoyan históricamente en una ley complementaria, la **Commercial Vehicles Licensing Board Act 1987 (Act 334)**. Las normas subsidiarias dictadas al amparo de estas leyes completan el detalle operativo.
 
 Como la ley se modifica con regularidad — incluidas revisiones periódicas de las sanciones — los conductores deberían tratar las multas y los números de sección concretos como susceptibles de cambio y comprobar el texto autorizado vigente cuando importe.
 

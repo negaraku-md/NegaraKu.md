@@ -29,7 +29,7 @@ faq:
     a: "Điều 38(6) trao cho Hội đồng các Quốc vương quyền phế truất Agong. Theo các bình luận pháp lý, quyền này chưa bao giờ được sử dụng trong suốt lịch sử quốc gia."
 
 lang: "vi"
-sourceContentHash: "f2d2c6ec105b4198"
+sourceContentHash: "6be5b5f761ae3438"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,7 +127,7 @@ Ngoài việc bầu Yang di-Pertuan Agong và Phó Yang di-Pertuan Agong, Hội 
 
 - **Quyền phế truất.** Điều 38(6) trao cho Hội đồng quyền phế truất Yang di-Pertuan Agong khỏi chức vụ. Theo các bình luận pháp lý, quyền này chưa bao giờ được sử dụng.
 - **Chuẩn thuận đối với một số luật nhất định.** Các luật trực tiếp liên quan đến đặc quyền, địa vị, danh dự hoặc phẩm giá của các Quốc vương đòi hỏi sự chuẩn thuận của Hội đồng (Điều 38(4)).
-- **Một số sửa đổi hiến pháp nhất định.** Một số sửa đổi không thể được thông qua nếu không có sự đồng ý của Hội đồng các Quốc vương theo Điều 159(5). Theo bình luận của Đoàn Luật sư Malaysia, điều này bao gồm các sửa đổi liên quan đến địa vị của các Quốc vương (Điều 38(4)), các quyền về chủ quyền và kế vị của các Quốc vương (Điều 71), địa vị của tiếng Mã Lai (Điều 152), cùng địa vị đặc biệt của người Mã Lai và người bản địa (bumiputera) (Điều 153); danh sách đầy đủ trong Điều 159(5) cũng bao gồm một số quy định khác.
+- **Một số sửa đổi hiến pháp nhất định.** Một số sửa đổi không thể được thông qua nếu không có sự đồng ý của Hội đồng các Quốc vương theo Điều 159(5). Theo bình luận của [Đoàn Luật sư Malaysia](/vi/law/bar-council-malaysia), điều này bao gồm các sửa đổi liên quan đến địa vị của các Quốc vương (Điều 38(4)), các quyền về chủ quyền và kế vị của các Quốc vương (Điều 71), địa vị của tiếng Mã Lai (Điều 152), cùng địa vị đặc biệt của người Mã Lai và người bản địa (bumiputera) (Điều 153); danh sách đầy đủ trong Điều 159(5) cũng bao gồm một số quy định khác.
 - **Tham vấn.** Hội đồng được tham vấn về một số việc bổ nhiệm nhất định như thẩm phán các tòa án cấp trên, Tổng Kiểm toán Nhà nước cùng thành viên của một số ủy ban nhất định.
 - **Thảo luận chính sách quốc gia.** Hội đồng có thể xem xét chính sách quốc gia và các vấn đề liên quan đến đạo Hồi cũng như địa vị của người Mã Lai.
 - **Tòa án Đặc biệt.** Khi một Quốc vương hoặc Yang di-Pertuan Agong đối diện với tố tụng theo Điều 182, tố tụng đó được đưa ra Tòa án Đặc biệt gồm năm thẩm phán; theo bình luận của Đoàn Luật sư Malaysia, hai trong số đó do Hội đồng các Quốc vương chỉ định.

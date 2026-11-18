@@ -37,7 +37,7 @@ verificationNeeded:
   - "确认 MICPA-CAANZ 互认的现行条款，以及自 2016 年续签以来是否有任何途径变动生效"
 
 lang: "zh"
-sourceContentHash: "f89f8372aff2120a"
+sourceContentHash: "620dddb74f0c503f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ Accounting Alliance** 的途径——这是一个特许会计团体的网络，�
 ## 在 Companies Act 2016 下的地位
 
 MICPA 是 Companies Act 2016 **Fourth Schedule 中列在第五位的团体**，因此其会员依
-s.235(2)(a) 具备担任公司秘书的资格——与 MAICSA、MIA、Malaysian Bar 以及其他认可
+s.235(2)(a) 具备担任公司秘书的资格——与 MAICSA、MIA、[Malaysian Bar](/zh/law/bar-council-malaysia) 以及其他认可
 团体地位相同。与每一个 Fourth Schedule 团体一样，那是一项资格：该人仍须先向 SSM
 取得 s.241 执业证书，方可执业。
 

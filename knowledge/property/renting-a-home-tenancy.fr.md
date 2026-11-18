@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue ou donne à bail un bien à usage d'habitation en Malaisie : locataires signant leur premier contrat de bail, et bailleurs qui le rédigent, en Malaisie péninsulaire, au Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "846d66a2a34a7e98"
+sourceContentHash: "22529f1f29bdf0fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ La **Loi sur les contrats de 1950 (Contracts Act 1950)** constitue la couche de 
 
 - La **Loi sur la réparation en nature de 1950 (Specific Relief Act 1950)** régit ce qui se passe lorsqu'un locataire ne part pas à la fin du bail.
 - La **Loi sur la saisie-gagerie de 1951 (Distress Act 1951)** donne au bailleur une voie judiciaire pour recouvrer le loyer impayé.
-- La **Loi sur le droit civil de 1956 (Civil Law Act 1956)** et la procédure civile ordinaire traitent plus largement des litiges portant sur l'argent et les dommages.
+- La **[Loi sur le droit civil de 1956 (Civil Law Act 1956)](/fr/law/common-law-in-malaysia)** et la procédure civile ordinaire traitent plus largement des litiges portant sur l'argent et les dommages.
 
 Aucune de ces lois n'a été rédigée autour de la location moderne. Elles ont été conçues pour les litiges de propriété et de contrat au sens large, et les tribunaux les appliquent aux baux par extension. La conséquence pratique : les droits qui existent par défaut dans une juridiction dotée d'une loi sur les baux — un délai de préavis minimal, un plafond des dépôts, un tribunal légal des litiges — n'existent pour la plupart pas ici, à moins que le contrat lui-même ne les crée.
 

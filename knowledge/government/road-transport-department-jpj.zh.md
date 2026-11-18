@@ -28,7 +28,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "94d96ff23ee94d3f"
+sourceContentHash: "9b4ba9b9f0826cbb"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -111,7 +111,7 @@ JPJ 的职责可归纳为几个核心领域：
 
 ## 法律依据：《1987年陆路交通法令》
 
-JPJ 的核心法律依据是**《1987年陆路交通法令》（Road Transport Act 1987，第333号法令）**，它于1987年8月获得御准，并于翌月生效。该法令规范机动车辆与驾驶者的注册与发照、构造与使用规则、交通违例与罚则，以及 JPJ 所依赖的执法权。商用车辆发照历来援引一部配套法规，即**《1987年商用车辆执照局法令》（Commercial Vehicles Licensing Board Act 1987，第334号法令）**。根据这些法令制定的附属规则填补了运作层面的细节。
+JPJ 的核心法律依据是**[《1987年陆路交通法令》](/zh/law/road-transport-act-1987)（Road Transport Act 1987，第333号法令）**，它于1987年8月获得御准，并于翌月生效。该法令规范机动车辆与驾驶者的注册与发照、构造与使用规则、交通违例与罚则，以及 JPJ 所依赖的执法权。商用车辆发照历来援引一部配套法规，即**《1987年商用车辆执照局法令》（Commercial Vehicles Licensing Board Act 1987，第334号法令）**。根据这些法令制定的附属规则填补了运作层面的细节。
 
 由于该法令经常修订——包括定期检讨罚则——驾车者应将具体的罚款与条文视为可能变动，并在关键之处查阅当前的权威文本。
 

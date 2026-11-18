@@ -31,7 +31,7 @@ faq:
     a: "Tố tụng đối với một Quốc vương với tư cách cá nhân chỉ có thể được đưa ra tại Tòa án Đặc biệt được lập ra theo Điều 182, và tùy thuộc vào sự chuẩn thuận của Tổng Chưởng lý."
 
 lang: "vi"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Chín bang Mã Lai ở Bán đảo duy trì thiết chế quân chủ kế vị 
 
 ## Vai trò của một Quốc vương trong bang của mình là gì?
 
-Trong ranh giới bang của mình, một Quốc vương gánh vác ba vị thế chính: nguyên thủ bang, người đứng đầu tôn giáo Hồi giáo của bang đó, và người gìn giữ phong tục nghi lễ Mã Lai. Theo Đoàn Luật sư Malaysia, Quốc vương bang đóng vai trò quốc vương lập hiến theo các Điều 71 và 181(1) của Hiến pháp Liên bang — quyền lực của họ được luật pháp xác định và giới hạn, không mang tính tuyệt đối.
+Trong ranh giới bang của mình, một Quốc vương gánh vác ba vị thế chính: nguyên thủ bang, người đứng đầu tôn giáo Hồi giáo của bang đó, và người gìn giữ phong tục nghi lễ Mã Lai. Theo [Đoàn Luật sư Malaysia](/vi/law/bar-council-malaysia), Quốc vương bang đóng vai trò quốc vương lập hiến theo các Điều 71 và 181(1) của Hiến pháp Liên bang — quyền lực của họ được luật pháp xác định và giới hạn, không mang tính tuyệt đối.
 
 Trong hầu hết các việc điều hành, Quốc vương hành động theo lời khuyên của Hội đồng Chính quyền Bang. Quy định của Phụ lục thứ Tám ấn định rằng Quốc vương phải hành động theo lời khuyên của Hội đồng Chính quyền, trừ trong những vấn đề được trao quyền tùy nghi cho ngài.
 

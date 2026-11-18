@@ -31,7 +31,7 @@ faq:
   - q: "Apakah perusahaan kecil bahkan memerlukan auditor?"
     a: "Tidak selalu. SSM mengizinkan perusahaan tertutup tertentu yang dorman, bernol pendapatan, dan memenuhi syarat ambang untuk dikecualikan dari menunjuk auditor. Jika perusahaan Anda memenuhi syarat, Anda mungkin tidak memerlukan layanan audit sama sekali — hanya sekretaris, pembukuan, dan pengajuan pajak. Periksa kriteria pengecualian audit terkini sebelum melibatkan firma audit."
 lang: "id"
-sourceContentHash: "e856a8845133dbe3"
+sourceContentHash: "f5f2af8b03d95697"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ Hal pertama yang perlu dipahami adalah bahwa ini merupakan **empat layanan terpi
 
 | Layanan | Apa yang dicakupnya | Siapa yang secara sah boleh menyediakannya |
 |---|---|---|
-| **Sekretaris perusahaan** | Pengajuan statutori, daftar, kepatuhan dewan dan SSM | Seseorang yang terdaftar dengan SSM yang memegang sertifikat praktik di bawah **s.241, Companies Act 2016** — anggota badan yang ditetapkan (MAICSA, MACS, MIA, Malaysian Bar) atau berlisensi di bawah s.20G SSM Act 2001 |
+| **Sekretaris perusahaan** | Pengajuan statutori, daftar, kepatuhan dewan dan SSM | Seseorang yang terdaftar dengan SSM yang memegang sertifikat praktik di bawah **s.241, Companies Act 2016** — anggota badan yang ditetapkan (MAICSA, MACS, MIA, [Malaysian Bar](/id/law/bar-council-malaysia)) atau berlisensi di bawah s.20G SSM Act 2001 |
 | **Akuntansi / pembukuan** | Pembukuan harian, akun manajemen dan statutori | Anggota **Malaysian Institute of Accountants (MIA)** dengan sertifikat praktik, di bawah Accountants Act 1967, untuk praktik umum |
 | **Audit** | Audit independen atas laporan keuangan | Seorang **auditor perusahaan yang disetujui** di bawah **s.263, Companies Act 2016**, disetujui oleh Menteri Keuangan; untuk entitas tercatat dan berkepentingan publik, juga diawasi oleh Audit Oversight Board |
 | **Agen pajak** | Perhitungan pajak, pengajuan, dan mewakili Anda kepada LHDN | Seorang agen pajak yang **disetujui di bawah s.153, Income Tax Act 1967** dan terdaftar oleh LHDN |

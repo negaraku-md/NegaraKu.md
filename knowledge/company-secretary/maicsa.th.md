@@ -38,7 +38,7 @@ verificationNeeded:
   - "ตรวจสอบเลขที่การแจ้งใน Gazette ที่ใช้กำหนดให้ MAICSA เป็นองค์กรที่ได้รับอนุมัติ และว่ามีเงื่อนไขใดถูกกำหนดภายใต้มาตรา 235(3) หรือไม่"
 
 lang: "th"
-sourceContentHash: "b8d7278523a1c564"
+sourceContentHash: "ad26213f09336678"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ MAICSA เป็นองค์กรที่ชาวมาเลเซีย�
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/th/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

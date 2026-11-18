@@ -56,7 +56,7 @@ obligations:
     consequence: "Phạt không quá RM10,000 khi bị kết án"
 
 lang: "vi"
-sourceContentHash: "e2e61d0597cf5908"
+sourceContentHash: "f170a55480255720"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -144,7 +144,7 @@ tư của Act đủ tư cách. Hầu hết các hướng dẫn nêu tên hai. C�
 
 1. Malaysian Institute of Chartered Secretaries and Administrators (MAICSA)
 2. Malaysian Institute of Accountants (MIA)
-3. Malaysian Bar
+3. [Malaysian Bar](/vi/law/bar-council-malaysia)
 4. Malaysian Association of Company Secretaries (MACS)
 5. Malaysian Institute of Certified Public Accountants (MICPA)
 6. Sabah Law Society

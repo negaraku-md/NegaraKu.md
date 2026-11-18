@@ -34,7 +34,7 @@ faq:
     a: "Penjadwalan ulang (rescheduling) mengubah lini masa pembayaran kembali — misalnya memperpanjang jangka waktu untuk menurunkan angsuran bulanan (yang menaikkan total bunga yang dibayar). Restrukturisasi (restructuring) adalah perubahan yang lebih besar pada ketentuan pinjaman, seperti mengubah cerukan menjadi pinjaman berjangka dengan angsuran tetap. Keduanya diatur langsung dengan bank Anda, yang menerbitkan surat penawaran baru."
 
 lang: "id"
-sourceContentHash: "1d1a7168151e91ec"
+sourceContentHash: "88cae73952c8c46f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Perusahaan memiliki salurannya sendiri:
 
 ## Ketika restrukturisasi tidak cukup
 
-Jika jalur sukarela tidak dapat menyelesaikan utang, pilihan formal yang diawasi pengadilan tetap ada: bagi individu, **Voluntary Arrangement** di bawah Insolvency Act 1967 sebagai alternatif kebangkrutan; bagi perusahaan, **Scheme of Arrangement** atau **Judicial Management** di bawah Companies Act 2016. Ini adalah upaya terakhir, tetapi tersedia.
+Jika jalur sukarela tidak dapat menyelesaikan utang, pilihan formal yang diawasi pengadilan tetap ada: bagi individu, **Voluntary Arrangement** di bawah [Insolvency Act 1967](/id/law/insolvency-and-bankruptcy-law/) sebagai alternatif kebangkrutan; bagi perusahaan, **Scheme of Arrangement** atau **Judicial Management** di bawah Companies Act 2016. Ini adalah upaya terakhir, tetapi tersedia.
 
 ## Apa selanjutnya
 

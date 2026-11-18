@@ -33,7 +33,7 @@ faq:
     a: "Ia bergantung pada aktivitas. Di bawah Environmental Quality Act 1974, proyek perindustrian berat atau besar yang tercantum dalam Environmental Quality (Prescribed Activities) (Environmental Impact Assessment) Order 2015 harus memiliki EIA yang disetujui sebelum proyek diteruskan. Industri tertentu — minyak sawit mentah, karet alam mentah, fasilitas buangan terjadwal — adalah 'premis yang ditetapkan' yang memerlukan izin tertulis DOE untuk membangun dan lisensi untuk beroperasi. Sebuah pabrik biasa yang membuang efluen atau memancarkan bahan pencemar udara masih harus mematuhi peraturan efluen dan udara bersih DOE. Pastikan status aktivitas Anda dengan DOE sebelum membangun."
 
 lang: "id"
-sourceContentHash: "b9703e6c709c9e9a"
+sourceContentHash: "85a6b5e4299b86fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,7 +100,7 @@ Lapisan operasi dihimpun dari otoritas yang terpisah, masing-masing dengan statu
 |---|---|---|---|
 | Lisensi manufaktur / pengecualian ICA | MITI / MIDA | Industrial Coordination Act 1975 | Mengizinkan **aktivitas** manufaktur (lihat panduan khususnya) |
 | Sijil Perakuan Siap dan Pematuhan (CCC) | Arsitek/insinyur (PSP) + otoritas lokal | Street, Drainage and Building Act 1974 + Undang-Undang Kecil Bangunan Seragam | Menjadikan **bangunan** sah untuk diduduki |
-| Sertifikat kelaikan bagi instalasi | DOSH | Occupational Safety and Health Act 1994 + OSH (Plant Requiring CoF) Regulations 2024 | Mengizinkan **mesin** terkendali dioperasikan |
+| Sertifikat kelaikan bagi instalasi | DOSH | [Occupational Safety and Health Act 1994](/id/law/occupational-safety-and-health-act/) + OSH (Plant Requiring CoF) Regulations 2024 | Mengizinkan **mesin** terkendali dioperasikan |
 | Sertifikat kebakaran | BOMBA | Fire Services Act 1988 | Pembebasan keselamatan kebakaran berkelanjutan bagi **premis yang ditetapkan** |
 | Lisensi premis bisnis + papan tanda | Otoritas lokal (PBT) | Local Government Act 1976 + undang-undang kecil dewan | Melisensikan **bisnis di alamat itu** |
 | Persetujuan EIA / premis yang ditetapkan | DOE | Environmental Quality Act 1974 | Menyetujui **dampak lingkungan aktivitas** di mana ditetapkan |

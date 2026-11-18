@@ -31,7 +31,7 @@ faq:
     a: "是的——这不只是改名而已。自2026年1月1日起生效的 Act A1738 及2025年修正条例将「KLRCA」替换为「AIAC」，收紧了裁决时间表，使延期现须经双方当事人及裁决人共同同意，引入了更严格的付款通知要求及规定格式，扩大了关键定义以减少管辖权纠纷，并强化了执行途径。核心的45个工作日裁决框架维持不变，但其周边程序已有改动，因此请使用现行的 AIAC 表格。"
 
 lang: "zh"
-sourceContentHash: "e21cf5dfaabc98af"
+sourceContentHash: "60661e08cc182b22"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ framework: explainer
 
 《2012年建筑业付款与裁决法令》（Construction Industry Payment and Adjudication Act 2012）设立了一套法定裁决程序，用以快速解决付款纠纷，作为较缓慢、较昂贵的仲裁或诉讼途径以外的另一种选择。它适用于以书面订立并在马来西亚境内履行的建筑合同，且不得以合同约定排除其适用。
 
-裁决由亚洲国际仲裁中心（Asian International Arbitration Centre，AIAC）管理——该机构前身为吉隆坡区域仲裁中心（Kuala Lumpur Regional Centre for Arbitration，KLRCA）。
+裁决由[亚洲国际仲裁中心](/zh/law/arbitration-and-dispute-resolution)（Asian International Arbitration Centre，AIAC）管理——该机构前身为吉隆坡区域仲裁中心（Kuala Lumpur Regional Centre for Arbitration，KLRCA）。
 
 ## 整个程序如何逐步进行？
 

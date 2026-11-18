@@ -27,7 +27,7 @@ faq:
   - q: "RELA는 어느 부처 산하입니까?"
     a: "RELA(Jabatan Sukarelawan Malaysia)는 내무부(Kementerian Dalam Negeri, KDN) 산하 부서입니다. 장관이 공무원 중에서 임명하는 청장이 이 단을 지휘합니다."
 lang: "ko"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,7 +80,7 @@ framework: profile
 
 ## RELA란 무엇인가
 
-RELA는 의용 조직입니다: 평범한 시민이 가입하고, 훈련받고, 부름을 받으면 공식 작전을 지원하러 나섭니다. 연방 서비스 포털에 따르면, 단원 자격은 이미 군대나 다른 법정 기관에서 복무하지 않는 18세 이상 말레이시아 시민에게 열려 있고, 가입은 갱신 가능한 5년 임기로 운영되며, 단원은 근무 중 형법(Act 574)상 공무원으로 취급됩니다. 장관이 공무원 중에서 임명하는 **청장**이 이 단을 지휘합니다. 인원 기준으로 RELA는 수백만 명으로 보고되는 단원을 둔 말레이시아 최대 의용 조직의 하나입니다(현재 수치는 *verificationNeeded* 참조).
+RELA는 의용 조직입니다: 평범한 시민이 가입하고, 훈련받고, 부름을 받으면 공식 작전을 지원하러 나섭니다. 연방 서비스 포털에 따르면, 단원 자격은 이미 군대나 다른 법정 기관에서 복무하지 않는 18세 이상 말레이시아 시민에게 열려 있고, 가입은 갱신 가능한 5년 임기로 운영되며, 단원은 근무 중 [형법](/ko/law/penal-code)(Act 574)상 공무원으로 취급됩니다. 장관이 공무원 중에서 임명하는 **청장**이 이 단을 지휘합니다. 인원 기준으로 RELA는 수백만 명으로 보고되는 단원을 둔 말레이시아 최대 의용 조직의 하나입니다(현재 수치는 *verificationNeeded* 참조).
 
 ## 기원: 향토방위대에서 콘프론타시까지
 

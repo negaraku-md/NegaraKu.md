@@ -33,7 +33,7 @@ faq:
     a: "Susunan tiga tingkat — Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah, dan Mahkamah Rayuan Syariah — adalah lazim, tetapi setiap negara bagian mendirikannya melalui enakmen negara bagiannya sendiri, sementara Wilayah Persekutuan diatur oleh Act 505. Batas yurisdiksi mal dari segi nilai uang ditetapkan oleh enakmen atau undang-undang masing-masing dan dapat berbeda antarnegara bagian."
 
 lang: "id"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ Yurisdiksi mahkamah syariah dibagi menjadi mal (perdata) dan pidana.
 - pembagian atau tuntutan harta sepencarian (harta bersama);
 - wasiat atau pemberian saat marad-al-maut (sakit parah menjelang ajal) seorang Muslim yang meninggal;
 - hibah, wakaf, atau nazr; dan
-- pembagian dan pewarisan harta berwasiat atau tak berwasiat (faraid).
+- pembagian dan pewarisan harta berwasiat atau tak berwasiat ([faraid](/id/law/faraid-and-islamic-inheritance)).
 
 Batas nilai uang bagi yurisdiksi mal Mahkamah Rendah Syariah ditetapkan oleh enakmen atau undang-undang masing-masing. Di Wilayah Persekutuan, Pasal 47 Act 505 menetapkan batasnya pada jumlah atau nilai perkara yang disengketakan tidak melebihi lima puluh ribu ringgit, atau yang tidak dapat ditaksir dengan uang. Batas ini dapat berbeda antarnegara bagian.
 

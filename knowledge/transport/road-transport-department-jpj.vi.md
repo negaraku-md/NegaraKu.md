@@ -25,7 +25,7 @@ faq:
   - q: "e-LKM là gì?"
     a: "e-LKM là Giấy phép Phương tiện Cơ giới số (thuế đường bộ số) mà JPJ giới thiệu bắt đầu từ năm 2023, thay thế miếng dán vật lý. Nó có thể được truy cập qua ứng dụng MyJPJ hoặc cổng MySIKAP."
 lang: "vi"
-sourceContentHash: "f6e325f951c4e130"
+sourceContentHash: "329a713e6b0a3f4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,7 +76,7 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department Malay
 framework: profile
 ---
 
-Mọi khoản thuế đường bộ được trả, biển số được cấp, và giấy phép lái xe được mang theo ở Malaysia đều đi qua một cơ quan: **Cục Giao thông Đường bộ** — *Jabatan Pengangkutan Jalan*, được biết đến khắp nơi bằng chữ viết tắt của nó là **JPJ**. Nó vận hành dưới Bộ phận Đường bộ của **Bộ Giao thông** và là cơ quan chịu trách nhiệm đăng ký phương tiện, cấp giấy phép lái xe và biển số phương tiện, và thực thi Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) để bảo đảm người lái thận trọng và phương tiện an toàn.
+Mọi khoản thuế đường bộ được trả, biển số được cấp, và giấy phép lái xe được mang theo ở Malaysia đều đi qua một cơ quan: **Cục Giao thông Đường bộ** — *Jabatan Pengangkutan Jalan*, được biết đến khắp nơi bằng chữ viết tắt của nó là **JPJ**. Nó vận hành dưới Bộ phận Đường bộ của **Bộ Giao thông** và là cơ quan chịu trách nhiệm đăng ký phương tiện, cấp giấy phép lái xe và biển số phương tiện, và thực thi [Luật Giao thông Đường bộ 1987 (Road Transport Act 1987)](/vi/law/road-transport-act-1987) để bảo đảm người lái thận trọng và phương tiện an toàn.
 
 ## JPJ thực sự làm gì?
 

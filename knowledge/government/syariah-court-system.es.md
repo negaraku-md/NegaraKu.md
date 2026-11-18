@@ -33,7 +33,7 @@ faq:
     a: "La disposición de tres niveles — el Tribunal Subordinado de la Syariah, el Tribunal Superior de la Syariah y el Tribunal de Apelación de la Syariah — es común, pero cada estado la establece mediante su propio decreto estatal (enactment), mientras que los Territorios Federales se rigen por la Act 505. Los límites monetarios de la jurisdicción civil los fija el respectivo decreto o ley y pueden diferir entre estados."
 
 lang: "es"
-sourceContentHash: "8fac45bc244e70ad"
+sourceContentHash: "9a994e65690e0df2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ La jurisdicción de los tribunales de la Syariah se divide en civil (mal) y pena
 - la división de bienes adquiridos conjuntamente (harta sepencarian), o las reclamaciones sobre ellos;
 - los testamentos o donaciones hechos durante la enfermedad mortal (marad-al-maut) de un musulmán fallecido;
 - las donaciones (hibah), los legados piadosos (wakaf) o los votos (nazr); y
-- la división y la herencia de bienes testados o intestados (faraid).
+- la división y la herencia de bienes testados o intestados ([faraid](/es/law/faraid-and-islamic-inheritance)).
 
 El límite monetario de la jurisdicción civil del Tribunal Subordinado de la Syariah lo fija el respectivo decreto o ley. En los Territorios Federales, el artículo 47 de la Act 505 fija el límite en una cuantía o valor de la materia en disputa que no exceda de cincuenta mil ringgit, o que no sea susceptible de estimación monetaria. Este límite puede diferir entre estados.
 

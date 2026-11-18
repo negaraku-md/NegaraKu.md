@@ -35,7 +35,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "8fc236ad59df2bb7"
+sourceContentHash: "7d63f469a6fa2d2e"
 masterLanguage: "en"
 
 status: "published"
@@ -198,7 +198,7 @@ membayar, konfirmasikan secara tertulis apa yang dapat dikembalikan dan dalam
 rentang waktu berapa, serta simpan setiap catatan.
 
 Jika pemasaran sebuah institusi menyesatkan, atau sebuah ketentuan sangat berat
-sebelah, **Consumer Protection Act 1999 (Act 599)** — yang mencakup perilaku
+sebelah, **[Consumer Protection Act 1999](/id/law/consumer-protection-act/) (Act 599)** — yang mencakup perilaku
 menyesatkan dan ketentuan kontrak yang tidak adil — *mungkin* menawarkan jalur, dan
 ulasan hukum berpendapat bahwa mahasiswa dapat menjadi "konsumen" di bawahnya.
 Tetapi itu adalah jalur yang mungkin, bukan pengembalian dana yang terjamin,

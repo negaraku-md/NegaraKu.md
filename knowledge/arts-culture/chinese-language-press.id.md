@@ -33,7 +33,7 @@ faq:
     a: "Sejalan dengan tren industri surat kabar global, oplah cetak pers Tionghoa Malaysia secara umum menurun dalam sekitar dua dekade terakhir, dengan pembaca — terutama generasi muda — semakin banyak memperoleh berita melalui ponsel dan internet. Karena itu surat kabar mengembangkan platform digital seperti situs berita, koran elektronik, dan aplikasi ponsel, dengan sebagian konten juga disebarkan di media sosial. Apakah dan kapan edisi cetak akan hilang sepenuhnya masih belum pasti, dan artikel ini tidak membuat prediksi apa pun."
 
 lang: "id"
-sourceContentHash: "77631a962c5674a5"
+sourceContentHash: "ba3edfb9eefffbdb"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -126,7 +126,7 @@ Selain itu, surat-surat kabar Tionghoa besar telah lama menyelenggarakan pertunj
 
 ## Latar Belakang Pengaturan Pers
 
-Seperti semua surat kabar di Malaysia, penerbitan pers Tionghoa diatur oleh hukum. Menurut **Undang-Undang Mesin Cetak dan Penerbitan 1984 (Printing Presses and Publications Act 1984)**, penggunaan mesin cetak serta pencetakan dan penerbitan surat kabar semuanya memerlukan izin dari Kementerian Dalam Negeri.
+Seperti semua surat kabar di Malaysia, penerbitan pers Tionghoa diatur oleh hukum. Menurut **[Undang-Undang Mesin Cetak dan Penerbitan 1984](/id/law/printing-presses-and-publications-act/) (Printing Presses and Publications Act 1984)**, penggunaan mesin cetak serta pencetakan dan penerbitan surat kabar semuanya memerlukan izin dari Kementerian Dalam Negeri.
 
 Sebelum amendemen 2012, perusahaan surat kabar harus mengajukan ulang kepada Kementerian Dalam Negeri **setiap tahun** untuk memperbarui izin, suatu pengaturan yang dalam sejarah pernah menimbulkan diskusi tentang kebebasan pers. Undang-Undang amendemen yang disahkan pada 2012 (Act A1436) menghapus keharusan mengajukan ulang setiap tahun, mengubahnya sehingga izin tetap berlaku sampai dicabut, dan memulihkan sejumlah ruang peninjauan yudisial atas keputusan terkait.
 

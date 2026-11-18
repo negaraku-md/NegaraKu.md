@@ -29,7 +29,7 @@ faq:
     a: "统治者会议由《联邦宪法》第38条设立，其职能与程序详列于附表五（Jadual Kelima）。"
 
 lang: "zh"
-sourceContentHash: "145a64a2a5caf8b7"
+sourceContentHash: "b7d02944e1f65471"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ framework: explainer
 - **委任事宜。** 就某些须经会议同意的委任提供意见，并依据第182条委任特别法庭（Mahkamah Khas）成员，以及向诸如武装部队委员会（Majlis Angkatan Tentera）和[国家语文局（Dewan Bahasa dan Pustaka）](/arts-culture/dewan-bahasa-dan-pustaka)理事会等机构委派代表。
 - **赦免权。** 在特定情形下给予赦免、减刑及缓刑。
 
-根据马来西亚律师公会（Majlis Peguam Malaysia）的记载，《宪法》还依据第38(6)条赋予罢免最高元首的权力——据该记载所述，这一权力从未被行使过。
+根据[马来西亚律师公会](/zh/law/bar-council-malaysia)（Majlis Peguam Malaysia）的记载，《宪法》还依据第38(6)条赋予罢免最高元首的权力——据该记载所述，这一权力从未被行使过。
 
 ## 会议如何运作？
 

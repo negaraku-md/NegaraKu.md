@@ -52,7 +52,7 @@ obligations:
     statute: "Companies Act 2016, s.241"
     consequence: "유죄 확정 시 RM10,000 이하의 벌금"
 lang: "ko"
-sourceContentHash: "e2e61d0597cf5908"
+sourceContentHash: "f170a55480255720"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ s.235(2)(a)는 본 법 제4부칙(Fourth Schedule)에 열거된 단체의 회원
 
 1. 말레이시아 공인비서·관리자협회(MAICSA)
 2. 말레이시아 회계사협회(MIA)
-3. 말레이시아 변호사회(Malaysian Bar)
+3. [말레이시아 변호사회(Malaysian Bar)](/ko/law/bar-council-malaysia)
 4. 말레이시아 회사비서협회(MACS)
 5. 말레이시아 공인회계사협회(MICPA)
 6. 사바 법률협회(Sabah Law Society)

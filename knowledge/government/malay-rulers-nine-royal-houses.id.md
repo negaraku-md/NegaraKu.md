@@ -31,7 +31,7 @@ faq:
     a: "Prosiding terhadap seorang Raja atas sifat pribadinya hanya dapat dibawa ke Mahkamah Khas yang dibentuk di bawah Pasal 182, dan tunduk pada perkenan Peguam Negara."
 
 lang: "id"
-sourceContentHash: "3f9c93463dcbf28a"
+sourceContentHash: "45a06348142b0909"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,7 +110,7 @@ Pasal 70 Konstitusi Federal menetapkan bahwa, tunduk pada keutamaan Yang di-Pert
 
 ## Apa peran seorang Raja dalam negerinya?
 
-Dalam batas negerinya, seorang Raja memikul tiga kedudukan utama: kepala negeri, kepala agama Islam bagi negeri itu, dan penjaga adat istiadat Melayu. Menurut Majlis Peguam Malaysia, Raja negeri bertindak sebagai raja konstitusional di bawah Pasal 71 dan 181(1) Konstitusi Federal — kuasa mereka didefinisikan dan dibatasi oleh undang-undang, bukan bersifat mutlak.
+Dalam batas negerinya, seorang Raja memikul tiga kedudukan utama: kepala negeri, kepala agama Islam bagi negeri itu, dan penjaga adat istiadat Melayu. Menurut [Majlis Peguam Malaysia](/id/law/bar-council-malaysia), Raja negeri bertindak sebagai raja konstitusional di bawah Pasal 71 dan 181(1) Konstitusi Federal — kuasa mereka didefinisikan dan dibatasi oleh undang-undang, bukan bersifat mutlak.
 
 Dalam kebanyakan urusan pemerintahan, Raja bertindak atas nasihat Majlis Mesyuarat Kerajaan negeri. Ketentuan Jadwal Kedelapan menetapkan bahwa Raja hendaklah bertindak menurut nasihat Majlis Mesyuarat, kecuali dalam perkara yang diberikan diskresi kepadanya.
 

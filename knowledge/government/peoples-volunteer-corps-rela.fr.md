@@ -29,7 +29,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bde719d3e0b9bcda"
+sourceContentHash: "7668c87be9406726"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,7 +80,7 @@ Si vous avez traversé un barrage routier la veille d'un jour férié, fait la q
 
 ## Ce qu'est le RELA
 
-Le RELA est un organe de volontaires : des citoyens ordinaires qui s'engagent, se forment et se présentent pour appuyer les opérations officielles lorsqu'ils sont appelés. Selon le portail du service fédéral, l'adhésion est ouverte aux citoyens malaisiens âgés de 18 ans et plus qui ne servent pas déjà dans les forces armées ou une autre force statutaire, l'engagement court pour des mandats renouvelables de cinq ans, et les membres sont traités comme des agents publics au titre du Penal Code (Act 574) pendant leur service. Un **directeur général**, nommé par le ministre au sein de la fonction publique, commande le corps. Par ses effectifs, le RELA est l'une des plus grandes organisations de volontaires de Malaisie, avec une adhésion rapportée en millions (voir *verificationNeeded* pour le chiffre actuel).
+Le RELA est un organe de volontaires : des citoyens ordinaires qui s'engagent, se forment et se présentent pour appuyer les opérations officielles lorsqu'ils sont appelés. Selon le portail du service fédéral, l'adhésion est ouverte aux citoyens malaisiens âgés de 18 ans et plus qui ne servent pas déjà dans les forces armées ou une autre force statutaire, l'engagement court pour des mandats renouvelables de cinq ans, et les membres sont traités comme des agents publics au titre du [Penal Code](/fr/law/penal-code) (Act 574) pendant leur service. Un **directeur général**, nommé par le ministre au sein de la fonction publique, commande le corps. Par ses effectifs, le RELA est l'une des plus grandes organisations de volontaires de Malaisie, avec une adhésion rapportée en millions (voir *verificationNeeded* pour le chiffre actuel).
 
 ## Origines : de la Home Guard à la Konfrontasi
 
