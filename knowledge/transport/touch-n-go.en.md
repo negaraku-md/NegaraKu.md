@@ -68,7 +68,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 framework: explainer
 ---
 
@@ -108,7 +108,7 @@ A few misunderstandings that come up often:
 
 ## Scale of the network
 
-Touch 'n Go's official website reports that its network covers paid highways, RFID lanes and car park sites across the country. Touch 'n Go eWallet, meanwhile, operates as an e-money issuer regulated by Bank Negara Malaysia and the Securities Commission Malaysia — a status the company states itself on its official website. Read more about Bank Negara Malaysia's jurisdiction at [/economy/bank-negara-malaysia](/en/economy/bank-negara-malaysia).
+Touch 'n Go's official website reports that its network covers paid highways, RFID lanes and car park sites across the country. Touch 'n Go eWallet, meanwhile, operates as an [e-money issuer](/en/money-daily-life/ewallets-regulation-safety) regulated by Bank Negara Malaysia and the Securities Commission Malaysia — a status the company states itself on its official website. Read more about Bank Negara Malaysia's jurisdiction at [/economy/bank-negara-malaysia](/en/economy/bank-negara-malaysia).
 
 ## What's next
 

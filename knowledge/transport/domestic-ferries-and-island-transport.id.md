@@ -29,7 +29,7 @@ faq:
     a: "Seringnya tidak. Banyak resort dan operator perahu pantai timur secara sukarela menangguhkan layanan dari sekitar Oktober hingga Februari karena laut yang bergelora akibat monsun timur laut."
 
 lang: "id"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Tiada satu layanan feri nasional tunggal di Malaysia. Untuk sampai ke sebuah pul
 
 Penyeberangan Pulau Pinang adalah feri penumpang yang telah lama beroperasi yang menghubungkan **Butterworth** di daratan utama dengan **Pengkalan Weld** di George Town, dan dioperasikan oleh **Komisi Pelabuhan Pulau Pinang**.
 
-Feri beroperasi setiap hari dari 06:30 hingga 23:30, pada selang waktu yang tetap sepanjang hari (lebih sering saat jam sibuk komuter). Perahu saat ini hanya membawa pejalan kaki, sepeda dan sepeda motor — bukan mobil. Tarifnya termasuk yang termurah bagi transportasi publik di Malaysia:
+Feri beroperasi setiap hari dari 06:30 hingga 23:30, pada selang waktu yang tetap sepanjang hari (lebih sering saat jam sibuk komuter). Perahu saat ini hanya membawa pejalan kaki, sepeda dan sepeda motor — bukan mobil. Tarifnya termasuk yang termurah bagi [transportasi publik di Malaysia](/id/transport/getting-around-malaysia):
 
 | Penumpang / kendaraan | Tarif |
 | --- | --- |

@@ -29,7 +29,7 @@ faq:
     a: "A menudo no. Muchos resorts y operadores de barco de la costa este suspenden voluntariamente los servicios desde alrededor de octubre a febrero debido a los mares agitados del monzón del noreste."
 
 lang: "es"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ No existe una única línea nacional de ferris en Malasia. Llegar a una isla sig
 
 La travesía de Penang es un ferri de pasajeros de larga trayectoria que enlaza **Butterworth**, en el continente, con **Pengkalan Weld**, en George Town, y la opera la **Penang Port Commission**.
 
-Los ferris circulan a diario de 06:30 a 23:30, a intervalos regulares durante el día (con mayor frecuencia en las horas punta de desplazamiento). Los barcos actuales transportan solo peatones, bicicletas y motocicletas — no coches. Las tarifas están entre las más baratas del transporte público de Malasia:
+Los ferris circulan a diario de 06:30 a 23:30, a intervalos regulares durante el día (con mayor frecuencia en las horas punta de desplazamiento). Los barcos actuales transportan solo peatones, bicicletas y motocicletas — no coches. Las tarifas están entre las más baratas del [transporte público de Malasia](/es/transport/getting-around-malaysia):
 
 | Pasajero / vehículo | Tarifa |
 | --- | --- |

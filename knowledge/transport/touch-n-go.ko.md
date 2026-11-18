@@ -29,7 +29,7 @@ faq:
     a: "네, NFC 충전 기능을 사용하려면요. 등록 과정은 신원 확인(KYC)을 포함하여 그 카드의 잔액이 당신의 e월렛 계정에 연동되게 합니다 — 이는 또한 카드를 분실했을 때, 잔액을 주운 사람 누구나 쓸 수 있는 미등록 카드에 비해 추가 보호 계층을 제공합니다."
 
 lang: "ko"
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -131,7 +131,7 @@ e월렛 앱을 통해 충전할 수 있습니다 — 키오스크나 소매 기�
 
 터치 앤 고 공식 사이트는 그 네트워크가 전국의 유료 고속도로, RFID 차로,
 주차 부지를 아우른다고 보고합니다. 터치 앤 고 e월렛은 말레이시아
-중앙은행(BNM)과 말레이시아 증권위원회의 규제를 받는 전자화폐 발행사로
+중앙은행(BNM)과 말레이시아 증권위원회의 규제를 받는 [전자화폐 발행사](/ko/money-daily-life/ewallets-regulation-safety)로
 운영됩니다 — 회사가 공식 사이트에서 스스로 밝힌 지위입니다. 말레이시아
 중앙은행의 관할에 대한 자세한 내용은
 [/ko/economy/bank-negara-malaysia](/ko/economy/bank-negara-malaysia)에서

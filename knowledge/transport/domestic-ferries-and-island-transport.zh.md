@@ -29,7 +29,7 @@ faq:
     a: "通常不能。许多东海岸度假村和船运营运商大约从10月到2月自愿暂停服务，因为东北季候风带来汹涌的海面。"
 
 lang: "zh"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ framework: explainer
 
 槟城航线是一条历史悠久的客运渡轮，连接大陆的**北海（Butterworth）**与乔治市的**槟城关（Pengkalan Weld）**，由**槟城港务局**营运。
 
-渡轮每天从06:30运行至23:30，全天定时开航（在通勤高峰时段更为频密）。目前的渡轮只载运行人、自行车和摩托车——不载汽车。票价属于马来西亚最便宜的公共交通之一：
+渡轮每天从06:30运行至23:30，全天定时开航（在通勤高峰时段更为频密）。目前的渡轮只载运行人、自行车和摩托车——不载汽车。票价属于马来西亚最便宜的[公共交通](/zh/transport/getting-around-malaysia)之一：
 
 | 乘客／车辆 | 票价 |
 | --- | --- |

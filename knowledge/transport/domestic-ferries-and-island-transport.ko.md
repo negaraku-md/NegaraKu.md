@@ -29,7 +29,7 @@ faq:
     a: "대개 불가능합니다. 많은 동해안 리조트와 선박 운영자가 북동 몬순으로 인한 험한 바다 때문에 대략 10월부터 2월까지 자발적으로 서비스를 중단합니다."
 
 lang: "ko"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,7 +102,7 @@ Port Commission)**가 운영합니다.
 
 페리는 매일 06:30부터 23:30까지 하루 종일 규칙적인 간격으로(출퇴근 혼잡
 시간에는 더 자주) 운항합니다. 현재의 배는 보행자, 자전거, 오토바이만 실어
-나릅니다 — 자동차는 아닙니다. 요금은 말레이시아에서 가장 저렴한 대중교통에
+나릅니다 — 자동차는 아닙니다. 요금은 말레이시아에서 가장 저렴한 [대중교통](/ko/transport/getting-around-malaysia)에
 속합니다:
 
 | 승객 / 차량 | 요금 |

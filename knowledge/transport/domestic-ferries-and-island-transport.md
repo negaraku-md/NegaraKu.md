@@ -95,7 +95,7 @@ There is no single national ferry line in Malaysia. Reaching an island means kno
 
 The Penang crossing is a long-running passenger ferry that links **Butterworth** on the mainland with **Pengkalan Weld** in George Town, and is run by the **Penang Port Commission**.
 
-Ferries run daily from 06:30 to 23:30, at regular intervals through the day (more frequent during peak commuting hours). The current boats carry pedestrians, bicycles and motorcycles only — not cars. Fares are among the cheapest public transport in Malaysia:
+Ferries run daily from 06:30 to 23:30, at regular intervals through the day (more frequent during peak commuting hours). The current boats carry pedestrians, bicycles and motorcycles only — not cars. Fares are among the cheapest [public transport in Malaysia](/transport/getting-around-malaysia):
 
 | Passenger / vehicle | Fare |
 | --- | --- |

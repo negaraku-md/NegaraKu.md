@@ -30,7 +30,7 @@ faq:
     a: "Ya, jika ingin menggunakan fitur isi ulang NFC. Proses pendaftaran melibatkan verifikasi identitas (KYC) sehingga saldo kartu itu disandarkan ke akun eWallet Anda — ini turut memberi lapisan perlindungan tambahan jika kartu hilang, dibandingkan kartu tanpa daftar yang saldonya dapat digunakan siapa saja yang menemukannya."
 
 lang: "id"
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Beberapa salah paham yang kerap terjadi:
 
 ## Skala jaringan
 
-Laman resmi Touch 'n Go melaporkan jaringannya mencakup jalan tol berbayar, jalur RFID dan lokasi parkir di seluruh negeri. Touch 'n Go eWallet beroperasi sebagai penerbit e-uang yang diatur oleh Bank Negara Malaysia dan Suruhanjaya Sekuriti Malaysia — status yang dinyatakan sendiri oleh perusahaan pada laman resminya. Baca lebih lanjut tentang yurisdiksi Bank Negara Malaysia di [/id/economy/bank-negara-malaysia](/id/economy/bank-negara-malaysia).
+Laman resmi Touch 'n Go melaporkan jaringannya mencakup jalan tol berbayar, jalur RFID dan lokasi parkir di seluruh negeri. Touch 'n Go eWallet beroperasi sebagai [penerbit e-uang](/id/money-daily-life/ewallets-regulation-safety) yang diatur oleh Bank Negara Malaysia dan Suruhanjaya Sekuriti Malaysia — status yang dinyatakan sendiri oleh perusahaan pada laman resminya. Baca lebih lanjut tentang yurisdiksi Bank Negara Malaysia di [/id/economy/bank-negara-malaysia](/id/economy/bank-negara-malaysia).
 
 ## Apa berikutnya
 

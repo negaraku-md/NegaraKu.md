@@ -29,7 +29,7 @@ faq:
     a: "Thường là không. Nhiều khu nghỉ dưỡng bờ đông và đơn vị vận hành thuyền tự nguyện ngừng dịch vụ từ khoảng tháng 10 đến tháng 2 vì biển động do gió mùa đông bắc."
 
 lang: "vi"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Không có một hãng phà quốc gia duy nhất nào ở Malaysia. Đến mộ
 
 Tuyến vượt biển Penang là một chuyến phà chở khách hoạt động lâu đời nối **Butterworth** trên đất liền với **Pengkalan Weld** ở George Town, và do **Ủy ban Cảng Penang** vận hành.
 
-Phà chạy hàng ngày từ 06:30 đến 23:30, với khoảng cách đều đặn trong ngày (dày hơn trong giờ đi lại cao điểm). Các thuyền hiện tại chỉ chở người đi bộ, xe đạp và xe máy — không phải ô tô. Giá vé nằm trong số các phương tiện công cộng rẻ nhất ở Malaysia:
+Phà chạy hàng ngày từ 06:30 đến 23:30, với khoảng cách đều đặn trong ngày (dày hơn trong giờ đi lại cao điểm). Các thuyền hiện tại chỉ chở người đi bộ, xe đạp và xe máy — không phải ô tô. Giá vé nằm trong số các [phương tiện công cộng](/vi/transport/getting-around-malaysia) rẻ nhất ở Malaysia:
 
 | Hành khách / phương tiện | Giá vé |
 | --- | --- |

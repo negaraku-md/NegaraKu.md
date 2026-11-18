@@ -29,7 +29,7 @@ faq:
     a: "Souvent non. De nombreux complexes hôteliers et opérateurs de bateau de la côte est suspendent volontairement leurs services d'environ octobre à février en raison des mers agitées de la mousson du nord-est."
 
 lang: "fr"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Il n'existe pas d'unique ligne de ferry nationale en Malaisie. Rejoindre une îl
 
 La traversée de Penang est un ferry de passagers de longue date qui relie **Butterworth**, sur le continent, à **Pengkalan Weld**, à George Town, et elle est exploitée par la **Penang Port Commission**.
 
-Les ferries circulent tous les jours de 06 h 30 à 23 h 30, à intervalles réguliers tout au long de la journée (plus fréquents aux heures de pointe des déplacements domicile-travail). Les bateaux actuels ne transportent que piétons, vélos et motos — pas de voitures. Les tarifs comptent parmi les moins chers des transports publics de la Malaisie :
+Les ferries circulent tous les jours de 06 h 30 à 23 h 30, à intervalles réguliers tout au long de la journée (plus fréquents aux heures de pointe des déplacements domicile-travail). Les bateaux actuels ne transportent que piétons, vélos et motos — pas de voitures. Les tarifs comptent parmi les moins chers des [transports publics de la Malaisie](/fr/transport/getting-around-malaysia) :
 
 | Passager / véhicule | Tarif |
 | --- | --- |

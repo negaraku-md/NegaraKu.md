@@ -107,7 +107,7 @@ Beberapa silap faham yang kerap berlaku:
 
 ## Skala rangkaian
 
-Laman rasmi Touch 'n Go melaporkan rangkaiannya meliputi lebuh raya berbayar, lorong RFID dan tapak letak kereta di seluruh negara. Touch 'n Go eWallet pula beroperasi sebagai pengeluar e-wang yang dikawal selia oleh Bank Negara Malaysia dan Suruhanjaya Sekuriti Malaysia — status yang dinyatakan sendiri oleh syarikat pada laman rasminya. Baca lebih lanjut tentang bidang kuasa Bank Negara Malaysia di [/economy/bank-negara-malaysia](/economy/bank-negara-malaysia).
+Laman rasmi Touch 'n Go melaporkan rangkaiannya meliputi lebuh raya berbayar, lorong RFID dan tapak letak kereta di seluruh negara. Touch 'n Go eWallet pula beroperasi sebagai [pengeluar e-wang](/money-daily-life/ewallets-regulation-safety) yang dikawal selia oleh Bank Negara Malaysia dan Suruhanjaya Sekuriti Malaysia — status yang dinyatakan sendiri oleh syarikat pada laman rasminya. Baca lebih lanjut tentang bidang kuasa Bank Negara Malaysia di [/economy/bank-negara-malaysia](/economy/bank-negara-malaysia).
 
 ## Apa yang seterusnya
 

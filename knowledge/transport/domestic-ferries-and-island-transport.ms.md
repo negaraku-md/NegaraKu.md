@@ -29,7 +29,7 @@ faq:
     a: "Selalunya tidak. Banyak resort dan pengendali bot pantai timur secara sukarela menggantung perkhidmatan dari sekitar Oktober hingga Februari kerana laut yang bergelora akibat monsun timur laut."
 
 lang: "ms"
-sourceContentHash: "6d82ddd104b2cdb5"
+sourceContentHash: "67e4ba71972f528c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ Tiada satu perkhidmatan feri kebangsaan tunggal di Malaysia. Untuk sampai ke ses
 
 Penyeberangan Pulau Pinang ialah feri penumpang yang telah lama beroperasi yang menghubungkan **Butterworth** di tanah besar dengan **Pengkalan Weld** di George Town, dan dikendalikan oleh **Suruhanjaya Pelabuhan Pulau Pinang**.
 
-Feri beroperasi setiap hari dari 06:30 hingga 23:30, pada selang masa yang tetap sepanjang hari (lebih kerap semasa waktu puncak berulang-alik). Bot semasa hanya membawa pejalan kaki, basikal dan motosikal — bukan kereta. Tambangnya antara yang termurah bagi pengangkutan awam di Malaysia:
+Feri beroperasi setiap hari dari 06:30 hingga 23:30, pada selang masa yang tetap sepanjang hari (lebih kerap semasa waktu puncak berulang-alik). Bot semasa hanya membawa pejalan kaki, basikal dan motosikal — bukan kereta. Tambangnya antara yang termurah bagi [pengangkutan awam di Malaysia](/transport/getting-around-malaysia):
 
 | Penumpang / kenderaan | Tambang |
 | --- | --- |

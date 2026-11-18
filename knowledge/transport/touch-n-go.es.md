@@ -30,7 +30,7 @@ faq:
     a: "Sí, si quiere usar la función de recarga por NFC. El registro implica una verificación de identidad (KYC) para que el saldo de la tarjeta quede vinculado a su cuenta eWallet; esto también añade una capa de protección si se pierde la tarjeta, en comparación con una tarjeta no registrada cuyo saldo puede ser utilizado por quien la encuentre."
 
 lang: "es"
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Algunos malentendidos que surgen con frecuencia:
 
 ## Alcance de la red
 
-El sitio web oficial de Touch 'n Go indica que su red cubre autopistas de peaje, carriles RFID y aparcamientos en todo el país. Touch 'n Go eWallet, por su parte, opera como emisor de dinero electrónico regulado por Bank Negara Malaysia y la Securities Commission Malaysia — una condición que la propia empresa declara en su sitio web oficial. Puede leer más sobre la jurisdicción de Bank Negara Malaysia en [/economy/bank-negara-malaysia](/en/economy/bank-negara-malaysia).
+El sitio web oficial de Touch 'n Go indica que su red cubre autopistas de peaje, carriles RFID y aparcamientos en todo el país. Touch 'n Go eWallet, por su parte, opera como [emisor de dinero electrónico](/es/money-daily-life/ewallets-regulation-safety) regulado por Bank Negara Malaysia y la Securities Commission Malaysia — una condición que la propia empresa declara en su sitio web oficial. Puede leer más sobre la jurisdicción de Bank Negara Malaysia en [/economy/bank-negara-malaysia](/en/economy/bank-negara-malaysia).
 
 ## Qué sigue
 

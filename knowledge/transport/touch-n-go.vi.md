@@ -30,7 +30,7 @@ faq:
     a: "Có, nếu muốn dùng tính năng nạp lại NFC. Quy trình đăng ký liên quan đến việc xác minh danh tính (KYC) để số dư của thẻ được liên kết với tài khoản eWallet của bạn — điều này cũng mang lại một lớp bảo vệ bổ sung nếu thẻ bị mất, so với thẻ chưa đăng ký mà số dư có thể được dùng bởi bất kỳ ai tìm thấy nó."
 
 lang: "vi"
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Một số hiểu lầm thường xảy ra:
 
 ## Quy mô mạng lưới
 
-Trang chính thức của Touch 'n Go báo cáo mạng lưới của nó bao trùm các cao tốc thu phí, làn RFID và các điểm đậu xe trên khắp cả nước. Còn Touch 'n Go eWallet vận hành với tư cách một nhà phát hành tiền điện tử được Ngân hàng Trung ương Malaysia và Ủy ban Chứng khoán Malaysia điều tiết — địa vị do chính công ty nêu trên trang chính thức của mình. Đọc thêm về thẩm quyền của Ngân hàng Trung ương Malaysia tại [/vi/economy/bank-negara-malaysia](/vi/economy/bank-negara-malaysia).
+Trang chính thức của Touch 'n Go báo cáo mạng lưới của nó bao trùm các cao tốc thu phí, làn RFID và các điểm đậu xe trên khắp cả nước. Còn Touch 'n Go eWallet vận hành với tư cách một [nhà phát hành tiền điện tử](/vi/money-daily-life/ewallets-regulation-safety) được Ngân hàng Trung ương Malaysia và Ủy ban Chứng khoán Malaysia điều tiết — địa vị do chính công ty nêu trên trang chính thức của mình. Đọc thêm về thẩm quyền của Ngân hàng Trung ương Malaysia tại [/vi/economy/bank-negara-malaysia](/vi/economy/bank-negara-malaysia).
 
 ## Tiếp theo
 

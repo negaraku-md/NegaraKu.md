@@ -30,7 +30,7 @@ faq:
     a: "हाँ, यदि आप NFC टॉप-अप सुविधा का उपयोग करना चाहते हैं। पंजीकरण में पहचान सत्यापन (KYC) शामिल होता है ताकि कार्ड का शेष आपके eWallet खाते से जुड़ा रहे — यह कार्ड खो जाने पर सुरक्षा की एक परत भी जोड़ता है, एक गैर-पंजीकृत कार्ड की तुलना में जिसका शेष उसे पाने वाला कोई भी उपयोग कर सकता है।"
 
 lang: "hi"
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Enhanced कार्ड पर NFC सुविधा कार्ड शेष
 
 ## नेटवर्क का विस्तार
 
-Touch 'n Go की आधिकारिक वेबसाइट बताती है कि इसका नेटवर्क देश भर में सशुल्क राजमार्गों, RFID लेनों और पार्किंग स्थलों को कवर करता है। वहीं Touch 'n Go eWallet एक ई-मनी जारीकर्ता के रूप में काम करता है जो Bank Negara Malaysia और Securities Commission Malaysia द्वारा विनियमित है — एक ऐसा दर्जा जिसे कंपनी स्वयं अपनी आधिकारिक वेबसाइट पर बताती है। Bank Negara Malaysia के अधिकार-क्षेत्र के बारे में और पढ़ें: [/economy/bank-negara-malaysia](/economy/bank-negara-malaysia)।
+Touch 'n Go की आधिकारिक वेबसाइट बताती है कि इसका नेटवर्क देश भर में सशुल्क राजमार्गों, RFID लेनों और पार्किंग स्थलों को कवर करता है। वहीं Touch 'n Go eWallet एक [ई-मनी जारीकर्ता](/hi/money-daily-life/ewallets-regulation-safety) के रूप में काम करता है जो Bank Negara Malaysia और Securities Commission Malaysia द्वारा विनियमित है — एक ऐसा दर्जा जिसे कंपनी स्वयं अपनी आधिकारिक वेबसाइट पर बताती है। Bank Negara Malaysia के अधिकार-क्षेत्र के बारे में और पढ़ें: [/economy/bank-negara-malaysia](/economy/bank-negara-malaysia)।
 
 ## आगे क्या
 

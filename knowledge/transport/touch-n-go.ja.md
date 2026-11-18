@@ -66,7 +66,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
-sourceContentHash: "a15af3c5fd918fa5"
+sourceContentHash: "1ad968acdf06922a"
 framework: explainer
 ---
 
@@ -106,7 +106,7 @@ Enhanced カードの NFC 機能は、カードの残高と eWallet の残高を
 
 ## ネットワークの規模
 
-Touch 'n Go の公式サイトは、そのネットワークが全国の有料高速道路、RFID レーン、駐車場を網羅していると述べている。一方 Touch 'n Go eWallet は、マレーシア国立銀行（Bank Negara Malaysia、BNM）とマレーシア証券委員会（Securities Commission Malaysia、SC）の規制を受ける電子マネーの発行体として運営されている——これは同社が公式サイトで自ら述べている位置づけである。マレーシア国立銀行の管轄について詳しくは [/economy/bank-negara-malaysia](/economy/bank-negara-malaysia) を参照。
+Touch 'n Go の公式サイトは、そのネットワークが全国の有料高速道路、RFID レーン、駐車場を網羅していると述べている。一方 Touch 'n Go eWallet は、マレーシア国立銀行（Bank Negara Malaysia、BNM）とマレーシア証券委員会（Securities Commission Malaysia、SC）の規制を受ける[電子マネーの発行体](/ja/money-daily-life/ewallets-regulation-safety)として運営されている——これは同社が公式サイトで自ら述べている位置づけである。マレーシア国立銀行の管轄について詳しくは [/economy/bank-negara-malaysia](/economy/bank-negara-malaysia) を参照。
 
 ## 次に何をすべきか
 
