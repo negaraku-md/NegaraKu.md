@@ -33,7 +33,7 @@ faq:
     a: "前往主管机构自己的网站——Cradle、MDEC、MIDA、SME Corp、MTDC、MRANTI、MATRADE、HRD Corp——而不是第三方清单文章，后者常把已关闭的计划仍列为可用。政府也在 MyStartup 全国资助门户运营一个汇总目录。拨款窗口随年度预算案变动，因此在你投入时间准备申请之前，请确认当前状态。"
 
 lang: "zh"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Cradle 也是 **MYStartup**（全国初创平台）的支柱——它更像是�
 
 ## 数字与科技：MDEC 与 MRANTI
 
-**MDEC**（Malaysia Digital Economy Corporation）资助数字企业：
+[**MDEC**](/zh/technology/mdec-digital-economy-corporation)（Malaysia Digital Economy Corporation）资助数字企业：
 
 - **Malaysia Digital Catalyst Grant（MDCG）** — 为创新数字解决方案共同承担资金：**本地持股公司最高承担项目成本的 50%（外资持股为 30%），上限 RM1 million**。需要 Malaysia Digital 资格。
 - **Malaysia Digital Acceleration Grant（MDAG）** — 一项更大额、无需偿还的拨款（最高 70% / RM5 million）——但它**已不再接受新申请**（申请窗口于 2023 年结束）。忽略任何仍将其列为开放的博客。

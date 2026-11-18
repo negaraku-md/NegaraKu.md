@@ -86,7 +86,7 @@ Here is how MDEC's two digital-economy grants work — what each one is for, the
 
 ## Who runs these grants, and why it matters
 
-The **Malaysia Digital Economy Corporation (MDEC)** is the government agency that promotes Malaysia's digital economy. It administers **Malaysia Digital (MD) status** and, on top of that, a set of co-funding grants for digital companies. MDEC sits under the **Ministry of Digital**.
+The [**Malaysia Digital Economy Corporation (MDEC)**](/technology/mdec-digital-economy-corporation/) is the government agency that promotes Malaysia's digital economy. It administers **Malaysia Digital (MD) status** and, on top of that, a set of co-funding grants for digital companies. MDEC sits under the **Ministry of Digital**.
 
 That reporting line is the reason the grants and the status are joined at the hip. MDEC's grants are not a general small-business fund — they are an incentive built onto MD status, aimed at the Malaysia Digital **promoted sectors** (digital agriculture, services, cities, health, finance, trade, content, tourism, Islamic digital economy) and the **technology enablers** (AI and big data, blockchain, cloud, cybersecurity, drone tech, IoT, robotics and XR, creative media technology, IC design and embedded software, advanced network connectivity). If your work does not sit in that map, these are not your grants.
 

@@ -33,7 +33,7 @@ faq:
     a: "เข้าไปที่เว็บไซต์ของหน่วยงานผู้ดำเนินการเอง ได้แก่ Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp แทนที่จะดูรายการสรุปจากบุคคลภายนอก ซึ่งมักคงรายการโครงการที่ปิดแล้วไว้ว่ายังเปิดรับ รัฐบาลยังจัดทำสารบบรวมไว้ที่พอร์ทัลแหล่งเงินทุนแห่งชาติ MyStartup ช่วงเวลาของเงินอุดหนุนเปลี่ยนแปลงพร้อมงบประมาณประจำปี จึงควรยืนยันสถานะปัจจุบันก่อนที่ท่านจะลงทุนเวลาในการยื่นคำขอ"
 
 lang: "th"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Cradle ยังเป็นแกนหลักของ **MYStartup** แพ�
 
 ## ดิจิทัลและเทคโนโลยี: MDEC และ MRANTI
 
-**MDEC** (Malaysia Digital Economy Corporation) สนับสนุนธุรกิจดิจิทัล:
+[**MDEC**](/th/technology/mdec-digital-economy-corporation) (Malaysia Digital Economy Corporation) สนับสนุนธุรกิจดิจิทัล:
 
 - **Malaysia Digital Catalyst Grant (MDCG)** — ร่วมสนับสนุนโซลูชันดิจิทัลเชิงนวัตกรรม: **สูงสุด 50% ของค่าใช้จ่ายโครงการสำหรับบริษัทที่ถือหุ้นในประเทศ (30% สำหรับที่ถือหุ้นโดยต่างชาติ) จำกัดที่ RM1 ล้าน** ต้องมีสถานะ Malaysia Digital
 - **Malaysia Digital Acceleration Grant (MDAG)** — เงินอุดหนุนที่ไม่ต้องชำระคืนขนาดใหญ่กว่า (สูงสุด 70% / RM5 ล้าน) แต่**ปิดรับคำขอใหม่แล้ว** (ช่วงรับคำขอสิ้นสุดในปี 2023) ให้เพิกเฉยต่อบล็อกใดที่ยังคงระบุว่าเปิดรับ

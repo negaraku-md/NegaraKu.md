@@ -43,7 +43,7 @@ verificationNeeded:
   - "Xác nhận liệu SEDIA, NCER và ECERDC có thẩm quyền phê duyệt giấy phép chuyên gia nước ngoài (expatriate-pass) tương đương với IRDA hay không, điều chưa được xác lập"
 
 lang: "vi"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ Mọi thứ thực sự quyết định liệu bạn có thể kinh doanh hay kh
 | **SSM** — Ủy ban Công ty Malaysia | Cơ quan Đăng ký theo Luật Công ty năm 2016 | Thành lập, sổ đăng ký, báo cáo thường niên, nộp báo cáo tài chính. Không có quyền kinh doanh. |
 | **MITI** — Bộ Đầu tư, Thương mại và Công nghiệp | Bộ; được đổi tên từ International Trade and Industry vào **tháng 4 năm 2023** | **Giấy phép sản xuất** theo Luật Điều phối Công nghiệp năm 1975 (Industrial Coordination Act 1975) là một văn bản của Bộ |
 | **MIDA** — Cơ quan Phát triển Đầu tư Malaysia | Cơ quan xúc tiến đầu tư của MITI | Nhận, đánh giá và quản lý các đơn xin giấy phép sản xuất và miễn trừ; đánh giá ưu đãi thuế; công bố các tập gấp đầu tư theo ngành |
-| **MDEC** — Malaysia Digital Economy Corporation | Thuộc **Bộ Kỹ thuật số** (thành lập ngày 12 tháng 12 năm 2023) | Tình trạng Malaysia Digital, hướng dẫn Ưu đãi Thuế MD, DE Rantau; cơ quan phê duyệt người nước ngoài cho **ICT** |
+| [**MDEC**](/vi/technology/mdec-digital-economy-corporation) — Malaysia Digital Economy Corporation | Thuộc **Bộ Kỹ thuật số** (thành lập ngày 12 tháng 12 năm 2023) | Tình trạng Malaysia Digital, hướng dẫn Ưu đãi Thuế MD, DE Rantau; cơ quan phê duyệt người nước ngoài cho **ICT** |
 | **KPDN** — [Bộ Thương mại Nội địa và Chi phí Sinh hoạt](/government/ministry-of-domestic-trade-kpdn) | Bộ | Sự tham gia của nước ngoài trong **thương mại phân phối**, theo Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia; quản lý bán hàng trực tiếp và nhượng quyền |
 | **ESD** — Phòng Dịch vụ Người nước ngoài, Cục Nhập cư | Thuộc Bộ Nội vụ | Đăng ký công ty để tuyển dụng người nước ngoài, Thị thực Việc làm, Thị thực Thăm viếng Chuyên môn, Thị thực Người phụ thuộc, LTSVP |
 | **MyIPO** — Cục Sở hữu Trí tuệ Malaysia | Thuộc MITI | Nhãn hiệu, sáng chế, kiểu dáng công nghiệp, thông báo tự nguyện về bản quyền |

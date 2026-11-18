@@ -39,7 +39,7 @@ faq:
     a: "国家人工智能办公室（National AI Office，NAIO）是数字部辖下的机构，于 2024 年 8 月 28 日获内阁批准，并于 2024 年 12 月 12 日推出。它负责制定、规划、研究、协调及落实国家人工智能举措。据 Tech For Good Institute，其职责包括主导预计涵盖 2026-2030 年的国家人工智能战略，作为 2021-2025 年 AI 路线图的延续；该战略的官方名称与范围有待正式文件确认。"
 
 lang: "zh"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ MSC 的主要吸引力是**《保证书》（Bill of Guarantees）**——政府
 
 ## 2010 年代初：数字马来西亚扩大授权
 
-到 2010 年代初，政策焦点开始从物理区域转向整个经济。执行机构——如今称为**马来西亚数字经济机构（Malaysia Digital Economy Corporation，MDEC）**，其渊源可追溯至 1996 年为推动 MSC 而成立的机构——的授权被扩展，以通过**数字马来西亚（Digital Malaysia）**议程引导马来西亚迈向更全面的数字经济转型。
+到 2010 年代初，政策焦点开始从物理区域转向整个经济。执行机构——如今称为**[马来西亚数字经济机构（Malaysia Digital Economy Corporation，MDEC）](/zh/technology/mdec-digital-economy-corporation)**，其渊源可追溯至 1996 年为推动 MSC 而成立的机构——的授权被扩展，以通过**数字马来西亚（Digital Malaysia）**议程引导马来西亚迈向更全面的数字经济转型。
 
 其概念上的区别很重要：MSC 侧重于将公司吸引到特定区域，而数字马来西亚则开始思考全国的政府、企业与人民如何运用数字解决方案。这两个框架在 MDEC 之下并行运作了数年。
 

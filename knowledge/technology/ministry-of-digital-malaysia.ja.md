@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | 国家デジタル局（JDN） | 局 | デジタル政府の変革；MAMPUの再編により発足 |
 | 個人データ保護局（JPDP） | 局 | 個人データ保護の執行 |
-| マレーシアデジタル経済公社（MDEC） | 傘下機関 | デジタル経済とデジタル投資の推進 |
+| [マレーシアデジタル経済公社（MDEC）](/ja/technology/mdec-digital-economy-corporation) | 傘下機関 | デジタル経済とデジタル投資の推進 |
 | サイバーセキュリティ・マレーシア（CSM） | 傘下機関 | 国家サイバーセキュリティの技術機関 |
 | デジタル・ナショナル（DNB） | 傘下機関 | 国家単一5Gホールセールネットワーク |
 | MYNIC Berhad | 傘下機関 | `.my` ドメイン名の管理者 |

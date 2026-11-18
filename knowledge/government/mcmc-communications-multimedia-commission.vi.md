@@ -34,7 +34,7 @@ faq:
     a: "Điều 126(2) quy định rằng bất kỳ ai sở hữu hoặc cung cấp hạ tầng mạng, dịch vụ mạng hoặc dịch vụ ứng dụng mà không có giấy phép hợp lệ đều phạm một tội và có thể, khi bị kết án, bị phạt tiền không quá RM500,000 hoặc phạt tù không quá năm năm hoặc cả hai, cùng khoản phạt bổ sung RM1,000 cho mỗi ngày tội đó tiếp diễn sau khi bị kết án."
 
 lang: "vi"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ Cơ chế chính của nó là *phân bổ phổ tần* (spectrum assignment), t
 
 ## Vai trò của MCMC trong kết nối quốc gia: JENDELA và 5G
 
-Ngoài việc điều chỉnh, MCMC cũng dẫn dắt chính sách kết nối quốc gia. JENDELA (Jalinan Digital Negara) là kế hoạch do MCMC dẫn dắt để mở rộng vùng phủ và nâng cao chất lượng băng rộng đồng thời chuẩn bị cho quốc gia đón 5G. Giai đoạn 1 (2020–2022) nhắm đến vùng phủ 4G từ 91,8% lên 96,9% và tốc độ băng rộng di động từ 25 Mbps lên 35 Mbps, trong khi Giai đoạn 2 tập trung vào việc triển khai 5G.
+Ngoài việc điều chỉnh, MCMC cũng dẫn dắt chính sách kết nối quốc gia. [JENDELA](/vi/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara) là kế hoạch do MCMC dẫn dắt để mở rộng vùng phủ và nâng cao chất lượng băng rộng đồng thời chuẩn bị cho quốc gia đón 5G. Giai đoạn 1 (2020–2022) nhắm đến vùng phủ 4G từ 91,8% lên 96,9% và tốc độ băng rộng di động từ 25 Mbps lên 35 Mbps, trong khi Giai đoạn 2 tập trung vào việc triển khai 5G.
 
 Đối với 5G, chính phủ ban đầu chỉ đạo Digital Nasional Berhad (DNB) xây dựng một mạng bán buôn duy nhất được cấp phép theo Act 588. Vào tháng 5 năm 2023, chính phủ quyết định chuyển sang mô hình hai mạng 5G: MCMC chọn U Mobile làm nhà điều hành mạng thứ hai (tháng 11 năm 2024), và mạng này ra mắt dịch vụ vào tháng 1 năm 2026. Cả hai mạng hoạt động dưới sự giám sát điều chỉnh của MCMC.
 

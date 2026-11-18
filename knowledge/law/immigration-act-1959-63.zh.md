@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 
 status: "published"
 aiAssisted: true
@@ -158,7 +158,7 @@ framework: rules
 | **长期社交访问准证（LTSVP）** | 家属准证未涵盖的较长期家属停留 | 父母、年龄较大的子女、某些伴侣 |
 | **DE Rantau 游民准证** | 为外国雇主或客户进行的远程工作 | 符合条件的数字游民与远程专业人士 |
 
-**DE Rantau 游民准证**由马来西亚数字经济机构（MDEC）管理，让符合条件的远程工作者在马来西亚常驻最长12个月，并可再续期12个月。适用最低收入与经验门槛，且技术与非技术岗位有所不同，因此在申请前请在 MDEC 的 DE Rantau 门户上确认当前的续期条款与资格标准。
+**DE Rantau 游民准证**由[马来西亚数字经济机构（MDEC）](/zh/technology/mdec-digital-economy-corporation)管理，让符合条件的远程工作者在马来西亚常驻最长12个月，并可再续期12个月。适用最低收入与经验门槛，且技术与非技术岗位有所不同，因此在申请前请在 MDEC 的 DE Rantau 门户上确认当前的续期条款与资格标准。
 
 ## 我持就业准证可以工作多久？
 

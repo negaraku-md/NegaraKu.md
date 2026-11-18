@@ -35,7 +35,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ framework: explainer
 
 ## MSME டிஜிட்டல் மானியம் MADANI என்றால் என்ன?
 
-மலாய் மொழியில் **Geran Digital PMKS Madani** (GDPM) என அறியப்படும் இது, நுண், சிறு மற்றும் நடுத்தர நிறுவனங்கள் தினசரி இயக்கங்களில் டிஜிட்டல் சேவைகளைப் பயன்படுத்த உதவும் ஒரு அரசாங்கத் திட்டமாக **பட்ஜெட் 2025**-இன் கீழ் அறிவிக்கப்பட்டது. இது **நிதி அமைச்சினால் (Ministry of Finance)**, நிர்வகிக்கும் வங்கியாக **தேசிய சேமிப்பு வங்கி (Bank Simpanan Nasional, BSN)**, **மலேசியா டிஜிட்டல் பொருளாதாரக் கழகம் (Malaysia Digital Economy Corporation, MDEC)**, மற்றும் **மலேசிய தகவல் தொடர்பு மற்றும் மல்டிமீடியா ஆணையம் (Malaysian Communications and Multimedia Commission, MCMC)** ஆகியவற்றுடன் இணைந்து இயக்கப்படுகிறது.
+மலாய் மொழியில் **Geran Digital PMKS Madani** (GDPM) என அறியப்படும் இது, நுண், சிறு மற்றும் நடுத்தர நிறுவனங்கள் தினசரி இயக்கங்களில் டிஜிட்டல் சேவைகளைப் பயன்படுத்த உதவும் ஒரு அரசாங்கத் திட்டமாக **பட்ஜெட் 2025**-இன் கீழ் அறிவிக்கப்பட்டது. இது **நிதி அமைச்சினால் (Ministry of Finance)**, நிர்வகிக்கும் வங்கியாக **தேசிய சேமிப்பு வங்கி (Bank Simpanan Nasional, BSN)**, [**மலேசியா டிஜிட்டல் பொருளாதாரக் கழகம் (Malaysia Digital Economy Corporation, MDEC)**](/ta/technology/mdec-digital-economy-corporation), மற்றும் **மலேசிய தகவல் தொடர்பு மற்றும் மல்டிமீடியா ஆணையம் (Malaysian Communications and Multimedia Commission, MCMC)** ஆகியவற்றுடன் இணைந்து இயக்கப்படுகிறது.
 
 இதன் வடிவமைப்பு வேண்டுமென்றே எளிமையானது: அரசாங்கம், BSN-இன் சொந்த வார்த்தைகளில், "a matching grant of up to 50% of the invoice amount or up to RM5,000 for eligible PMKS to assist them to subscribe to digital services" (தகுதிவாய்ந்த PMKS-கள் டிஜிட்டல் சேவைகளுக்குச் சந்தா செலுத்த உதவும் வகையில், விலைப்பட்டியல் தொகையில் 50% வரை அல்லது RM5,000 வரையிலான ஓர் ஈடுசெய்யும் மானியம்) வழங்குகிறது. இது ஒரு உண்மையான கொள்முதலின் மீதான மானியம், பணக் கொடை அல்ல — நீங்கள் உண்மையில் ஒரு தகுதிவாய்ந்த கருவியைப் பயன்படுத்தினால் மட்டுமே பயனடைவீர்கள்.
 

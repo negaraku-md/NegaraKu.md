@@ -43,7 +43,7 @@ verificationNeeded:
   - "Confirm whether SEDIA, NCER and ECERDC hold expatriate-pass approving authority equivalent to IRDA's, which was not established"
 
 lang: "hi"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ SSM आपकी कंपनी को निगमित करती है�
 | **SSM** — मलेशिया कंपनी आयोग (Companies Commission of Malaysia) | Companies Act 2016 के तहत रजिस्ट्रार | निगमन, रजिस्टर, वार्षिक रिटर्न, वित्तीय विवरण दाखिला। कोई व्यापार अधिकार नहीं। |
 | **MITI** — निवेश, व्यापार और उद्योग मंत्रालय (Ministry of Investment, Trade and Industry) | मंत्रालय; **अप्रैल 2023** में International Trade and Industry से नाम बदला | Industrial Coordination Act 1975 के तहत **विनिर्माण लाइसेंस** एक मंत्रालयी साधन है |
 | **MIDA** — मलेशियाई निवेश विकास प्राधिकरण (Malaysian Investment Development Authority) | MITI की निवेश संवर्धन एजेंसी | विनिर्माण लाइसेंस और छूट आवेदनों को प्राप्त, मूल्यांकन और प्रशासित करती है; कर प्रोत्साहन मूल्यांकन; क्षेत्रीय निवेश पुस्तिकाएँ प्रकाशित करती है |
-| **MDEC** — मलेशिया डिजिटल अर्थव्यवस्था निगम (Malaysia Digital Economy Corporation) | **Ministry of Digital** के अधीन (12 दिसंबर 2023 को स्थापित) | Malaysia Digital दर्जा, MD कर प्रोत्साहन दिशानिर्देश, DE Rantau; **ICT** के लिए प्रवासी अनुमोदन एजेंसी |
+| [**MDEC**](/hi/technology/mdec-digital-economy-corporation) — मलेशिया डिजिटल अर्थव्यवस्था निगम (Malaysia Digital Economy Corporation) | **Ministry of Digital** के अधीन (12 दिसंबर 2023 को स्थापित) | Malaysia Digital दर्जा, MD कर प्रोत्साहन दिशानिर्देश, DE Rantau; **ICT** के लिए प्रवासी अनुमोदन एजेंसी |
 | **KPDN** — [घरेलू व्यापार और जीवनयापन लागत मंत्रालय](/government/ministry-of-domestic-trade-kpdn) (Ministry of Domestic Trade and Cost of Living) | मंत्रालय | **वितरण व्यापार** में विदेशी भागीदारी, Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia के तहत; प्रत्यक्ष विक्रय और फ़्रैंचाइज़ी विनियमन |
 | **ESD** — Expatriate Services Division, आप्रवासन विभाग (Immigration Department) | गृह मामलों के मंत्रालय के अधीन | प्रवासी भर्ती के लिए कंपनी पंजीकरण, Employment Pass, Professional Visit Pass, Dependant Pass, LTSVP |
 | **MyIPO** — मलेशियाई बौद्धिक संपदा निगम (Intellectual Property Corporation of Malaysia) | MITI के अधीन | ट्रेडमार्क, पेटेंट, औद्योगिक डिज़ाइन, कॉपीराइट स्वैच्छिक अधिसूचना |

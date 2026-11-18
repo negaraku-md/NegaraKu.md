@@ -31,7 +31,7 @@ faq:
   - q: "¿Es la industria espacial de Malasia distinta de su industria aeroespacial?"
     a: "Sí. La industria aeroespacial cubre la aviación, el mantenimiento, reparación y revisión (MRO) y las aeroestructuras de aeronaves. La industria espacial cubre los satélites, el lanzamiento, la regulación espacial y los servicios aguas abajo como las comunicaciones por satélite y la teledetección."
 lang: es
-sourceContentHash: "9618715d572865bf"
+sourceContentHash: "c74b519cf5166ca0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ La dirección política proviene de la **Política Nacional Espacial 2030** (Das
 
 La herencia espacial práctica de Malasia comenzó con pequeños satélites construidos mediante transferencia de tecnología. **TiungSAT-1**, el primer microsatélite del país, se lanzó en 2000 y se desarrolló con la Surrey Satellite Technology del Reino Unido, dando a una generación de ingenieros malasios experiencia directa de construcción. Le siguió **RazakSAT**, un satélite de observación terrestre colocado en una órbita casi ecuatorial en 2009 a bordo de un SpaceX Falcon 1, una misión notable, aunque el satélite falló tras aproximadamente un año, una lección aleccionadora sobre la dificultad de operar activos espaciales.
 
-La columna vertebral comercial del sector es **MEASAT**, el principal operador de satélites de Malasia. A través de Measat Satellite Systems, opera una flota de satélites de comunicaciones desde la posición orbital de 91,5 grados Este. Su nave más capaz, **MEASAT-3d**, se lanzó en junio de 2022 —el octavo satélite MEASAT— en un Ariane 5 desde la Guayana Francesa. Un satélite de alto rendimiento estimado en unos 273 millones de US$, lleva múltiples bandas de frecuencia y estaba dirigido directamente a extender la banda ancha de alta velocidad al Malasia rural y oriental bajo el plan nacional de conectividad JENDELA, junto con la televisión directa al hogar. MEASAT vincula el sector espacial directamente con la [industria de las telecomunicaciones](/es/industries/telecommunications-industry/): gran parte de la actividad satelital de Malasia existe para ofrecer conectividad en tierra.
+La columna vertebral comercial del sector es **MEASAT**, el principal operador de satélites de Malasia. A través de Measat Satellite Systems, opera una flota de satélites de comunicaciones desde la posición orbital de 91,5 grados Este. Su nave más capaz, **MEASAT-3d**, se lanzó en junio de 2022 —el octavo satélite MEASAT— en un Ariane 5 desde la Guayana Francesa. Un satélite de alto rendimiento estimado en unos 273 millones de US$, lleva múltiples bandas de frecuencia y estaba dirigido directamente a extender la banda ancha de alta velocidad al Malasia rural y oriental bajo el plan nacional de conectividad [JENDELA](/es/technology/5g-jendela-dnb-malaysia/), junto con la televisión directa al hogar. MEASAT vincula el sector espacial directamente con la [industria de las telecomunicaciones](/es/industries/telecommunications-industry/): gran parte de la actividad satelital de Malasia existe para ofrecer conectividad en tierra.
 
 ## El programa angkasawan
 

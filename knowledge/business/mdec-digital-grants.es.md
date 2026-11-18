@@ -33,7 +33,7 @@ faq:
     a: "La Malaysia Digital Economy Corporation (MDEC), la agencia gubernamental que promueve la economía digital de Malasia y administra el estatus Malaysia Digital. MDEC depende del Ministerio Digital (Ministry of Digital). Las solicitudes se hacen a través de la plataforma Malaysia Digital de MDEC, y MDEC evalúa la elegibilidad, organiza una sesión de presentación (pitching) y aprueba las concesiones. Las consultas se canalizan a través del canal de contacto con clientes de MDEC (clic@mdec.com.my)."
 
 lang: "es"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Así funcionan las dos subvenciones de economía digital de MDEC — para qué s
 
 ## Quién gestiona estas subvenciones, y por qué importa
 
-La **Malaysia Digital Economy Corporation (MDEC)** es la agencia gubernamental que promueve la economía digital de Malasia. Administra el **estatus Malaysia Digital (MD)** y, por encima de eso, un conjunto de subvenciones de cofinanciación para empresas digitales. MDEC depende del **Ministerio Digital (Ministry of Digital)**.
+La [**Malaysia Digital Economy Corporation (MDEC)**](/es/technology/mdec-digital-economy-corporation/) es la agencia gubernamental que promueve la economía digital de Malasia. Administra el **estatus Malaysia Digital (MD)** y, por encima de eso, un conjunto de subvenciones de cofinanciación para empresas digitales. MDEC depende del **Ministerio Digital (Ministry of Digital)**.
 
 Esa línea de dependencia es la razón por la que las subvenciones y el estatus van unidos. Las subvenciones de MDEC no son un fondo general para pequeñas empresas — son un incentivo construido sobre el estatus MD, dirigido a los **sectores promovidos** de Malaysia Digital (agricultura digital, servicios, ciudades, salud, finanzas, comercio, contenidos, turismo, economía digital islámica) y a los **habilitadores tecnológicos** (IA y macrodatos, blockchain, nube, ciberseguridad, tecnología de drones, IoT, robótica y XR, tecnología de medios creativos, diseño de circuitos integrados y software embebido, conectividad de red avanzada). Si su trabajo no se sitúa en ese mapa, estas no son sus subvenciones.
 

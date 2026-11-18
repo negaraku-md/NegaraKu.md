@@ -38,7 +38,7 @@ faq:
     a: "Emplear a un extranjero sin un pase válido es un delito en virtud de la Section 55B, que acarrea una multa de RM10,000 a RM50,000 o prisión de hasta 12 meses por cada trabajador. Contratar a cinco o más trabajadores indocumentados eleva la exposición a prisión de seis meses a cinco años y posibles azotes."
 
 lang: "es"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -158,7 +158,7 @@ Una vez admitido, el *pase* define lo que puede hacer legalmente. Usar el incorr
 | **Long-Term Social Visit Pass (LTSVP)** | Estancias familiares más largas no cubiertas por un Dependant Pass | Padres, hijos mayores, ciertas parejas |
 | **DE Rantau Nomad Pass** | Trabajo remoto para un empleador o clientes extranjeros | Nómadas digitales y profesionales remotos elegibles |
 
-El **DE Rantau Nomad Pass**, administrado por la Corporación de la Economía Digital de Malasia (MDEC), permite a los trabajadores remotos cualificados establecerse en Malasia por hasta 12 meses y es renovable por otros 12 meses. Se aplican umbrales mínimos de ingresos y experiencia que difieren según se trate de puestos tecnológicos o no tecnológicos, así que confirme las condiciones de renovación y los criterios de elegibilidad vigentes en el portal DE Rantau de MDEC antes de solicitarlo.
+El **DE Rantau Nomad Pass**, administrado por la [Corporación de la Economía Digital de Malasia (MDEC)](/es/technology/mdec-digital-economy-corporation), permite a los trabajadores remotos cualificados establecerse en Malasia por hasta 12 meses y es renovable por otros 12 meses. Se aplican umbrales mínimos de ingresos y experiencia que difieren según se trate de puestos tecnológicos o no tecnológicos, así que confirme las condiciones de renovación y los criterios de elegibilidad vigentes en el portal DE Rantau de MDEC antes de solicitarlo.
 
 ## ¿Cuánto tiempo puedo trabajar con un Employment Pass?
 

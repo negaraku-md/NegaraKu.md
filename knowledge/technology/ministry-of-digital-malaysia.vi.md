@@ -29,7 +29,7 @@ faq:
     a: "Hai cục (Cục Kỹ thuật số Quốc gia và Cục Bảo vệ Dữ liệu Cá nhân) cùng bốn cơ quan: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad và MYNIC Berhad."
 
 lang: "vi"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Việc bố trí các cơ quan được công bố theo từng giai đoạn. Và
 | --- | --- | --- |
 | Cục Kỹ thuật số Quốc gia (JDN) | Cục | Chuyển đổi chính phủ số; kết quả tái cơ cấu MAMPU |
 | Cục Bảo vệ Dữ liệu Cá nhân (JPDP) | Cục | Thực thi bảo vệ dữ liệu cá nhân |
-| Malaysia Digital Economy Corporation (MDEC) | Cơ quan | Thúc đẩy kinh tế số và đầu tư kỹ thuật số |
+| [Malaysia Digital Economy Corporation (MDEC)](/vi/technology/mdec-digital-economy-corporation) | Cơ quan | Thúc đẩy kinh tế số và đầu tư kỹ thuật số |
 | CyberSecurity Malaysia (CSM) | Cơ quan | Cơ quan kỹ thuật an ninh mạng quốc gia |
 | Digital Nasional Berhad (DNB) | Cơ quan | Mạng bán buôn 5G duy nhất của quốc gia |
 | MYNIC Berhad | Cơ quan | Đơn vị quản lý tên miền `.my` |

@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "678b132c5368b3aa"
+sourceContentHash: "e98b7dba06ff74b9"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ TM menyusun operasinya di sekitar jenama yang menghadap pelanggan di bawah lenga
 
 Kepentingan TM melangkaui pelanggannya sendiri kerana ia memiliki infrastruktur yang digunakan oleh seluruh sektor. Tulang belakang fibernya ialah rangkaian jarak jauh utama yang menghubungkan bandar dan negeri, dan TM Global mengendalikan pendaratan kabel dasar laut Malaysia, yang menghubungkan negara ini ke Asia, Timur Tengah, Eropah dan Amerika Syarikat. Seperti yang dinyatakan pada 31 Januari 2026, jangkauan TM Global merangkumi 33 sistem kabel dasar laut yang berjumlah kira-kira 275,000 km, dengan stesen pendaratan kabel termasuk stesen kelima di Morib, Selangor dan satu lagi yang dirancang di Kuala Sedili, Johor.
 
-TM juga ialah rakan penyampaian utama bagi **JENDELA** (Jalinan Digital Negara), rancangan sambungan digital kebangsaan yang diselaraskan oleh Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC). JENDELA bertujuan untuk memperluas jalur lebar fiber dan mudah alih ke seluruh negara dan menamatkan rangkaian warisan, dan pelaksanaan fiber TM ialah salah satu penyumbang terbesar kepada sasaran premis yang dilepasi. Oleh sebab begitu banyak trafik kebangsaan dan pihak ketiga bergantung pada rangkaian TM, syarikat ini berfungsi sebagai keping infrastruktur awam strategik sama seperti pengendali komersial.
+TM juga ialah rakan penyampaian utama bagi [**JENDELA**](/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara), rancangan sambungan digital kebangsaan yang diselaraskan oleh Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC). JENDELA bertujuan untuk memperluas jalur lebar fiber dan mudah alih ke seluruh negara dan menamatkan rangkaian warisan, dan pelaksanaan fiber TM ialah salah satu penyumbang terbesar kepada sasaran premis yang dilepasi. Oleh sebab begitu banyak trafik kebangsaan dan pihak ketiga bergantung pada rangkaian TM, syarikat ini berfungsi sebagai keping infrastruktur awam strategik sama seperti pengendali komersial.
 
 ## Skala dan Kepentingan
 

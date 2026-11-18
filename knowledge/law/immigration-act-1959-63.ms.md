@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 
 status: "published"
 aiAssisted: true
@@ -155,7 +155,7 @@ Setelah anda dibenarkan masuk, *pas* menentukan apa yang boleh anda lakukan seca
 | **Pas Lawatan Sosial Jangka Panjang (LTSVP)** | Tempoh tinggal keluarga yang lebih lama yang tidak diliputi Pas Tanggungan | Ibu bapa, anak yang lebih dewasa, pasangan tertentu |
 | **Pas Nomad DE Rantau** | Kerja jarak jauh untuk majikan atau pelanggan asing | Digital nomad dan profesional jarak jauh yang layak |
 
-**Pas Nomad DE Rantau**, yang ditadbir oleh Malaysia Digital Economy Corporation (MDEC), membenarkan pekerja jarak jauh yang layak menetap di Malaysia sehingga 12 bulan dan boleh diperbaharui untuk 12 bulan lagi. Ambang pendapatan dan pengalaman minimum terpakai dan berbeza bagi peranan teknologi dan bukan teknologi, jadi sahkan syarat pembaharuan dan kriteria kelayakan terkini di portal DE Rantau MDEC sebelum memohon.
+**Pas Nomad DE Rantau**, yang ditadbir oleh [Malaysia Digital Economy Corporation (MDEC)](/technology/mdec-digital-economy-corporation), membenarkan pekerja jarak jauh yang layak menetap di Malaysia sehingga 12 bulan dan boleh diperbaharui untuk 12 bulan lagi. Ambang pendapatan dan pengalaman minimum terpakai dan berbeza bagi peranan teknologi dan bukan teknologi, jadi sahkan syarat pembaharuan dan kriteria kelayakan terkini di portal DE Rantau MDEC sebelum memohon.
 
 ## Berapa lama saya boleh bekerja dengan Pas Penggajian?
 

@@ -31,7 +31,7 @@ faq:
     a: "Ya. Pasangan atau pasangan de facto, anak di bawah 18 tahun, anak penyandang disabilitas, dan orang tua pemegang utama dapat mengajukan sebagai tanggungan, tetapi pasangan tidak boleh bekerja di bawah pas ini."
 
 lang: "id"
-sourceContentHash: "4acc75e3a074b7b6"
+sourceContentHash: "ba8316561dc3caab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Jika Anda bekerja jarak jauh untuk pemberi kerja atau klien yang berbasis di lua
 
 ## Apa itu Pas Nomad DE Rantau?
 
-Pas ini merupakan sejenis **Pas Lawatan Ikhtisas** (*Professional Visit Pass*) yang dirancang oleh **Malaysia Digital Economy Corporation (MDEC)** untuk memungkinkan nomad digital asing yang memenuhi syarat untuk berkelana dan bekerja di Malaysia. Ciri utamanya adalah dari mana pendapatan Anda diperoleh. **Pemohon pekerja jarak jauh** harus dipekerjakan oleh pemberi kerja yang berbasis di luar negeri — bukan perusahaan yang terdaftar di Malaysia. **Pekerja lepas dan kontraktor independen** bekerja secara mandiri dengan klien yang berbasis di luar negeri; menurut FAQ MDEC, mereka dapat juga melayani klien Malaysia, dengan syarat mereka masih memenuhi syarat kelayakan dan pendapatan pas ini.
+Pas ini merupakan sejenis **Pas Lawatan Ikhtisas** (*Professional Visit Pass*) yang dirancang oleh **[Malaysia Digital Economy Corporation (MDEC)](/id/technology/mdec-digital-economy-corporation/)** untuk memungkinkan nomad digital asing yang memenuhi syarat untuk berkelana dan bekerja di Malaysia. Ciri utamanya adalah dari mana pendapatan Anda diperoleh. **Pemohon pekerja jarak jauh** harus dipekerjakan oleh pemberi kerja yang berbasis di luar negeri — bukan perusahaan yang terdaftar di Malaysia. **Pekerja lepas dan kontraktor independen** bekerja secara mandiri dengan klien yang berbasis di luar negeri; menurut FAQ MDEC, mereka dapat juga melayani klien Malaysia, dengan syarat mereka masih memenuhi syarat kelayakan dan pendapatan pas ini.
 
 ## Siapa yang memenuhi syarat, dan berapa yang perlu Anda peroleh?
 

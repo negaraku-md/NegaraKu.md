@@ -39,7 +39,7 @@ faq:
     a: "국가AI사무소(National AI Office, NAIO)는 디지털부 산하 기관으로, 2024년 8월 28일 내각의 승인을 받아 2024년 12월 12일 출범했습니다. 국가의 AI 이니셔티브를 기획, 계획, 연구, 조율 및 실행하는 책임을 맡습니다. Tech For Good Institute에 따르면, 그 책임에는 AI 로드맵 2021-2025의 연장선으로서 2026-2030년을 아우를 것으로 예상되는 국가 AI 전략을 주도하는 것이 포함되며, 그 전략의 공식 명칭과 범위는 공식 문서의 확인을 기다리고 있습니다."
 
 lang: "ko"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ MSC의 주요 매력은 **Bill of Guarantees** — 글로벌 기술 기업을 �
 
 ## 2010년대 초: Digital Malaysia가 권한을 넓히다
 
-2010년대에 들어서면서 정책의 초점이 물리적 구역에서 경제 전체로 옮겨가기 시작했습니다. 실행 기관 — 지금은 **말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)**로 알려졌으며, 그 기원은 MSC를 추진하기 위한 1996년 설립으로 거슬러 올라갑니다 — 의 권한은 **Digital Malaysia** 의제를 통해 말레이시아의 보다 포괄적인 디지털 경제로의 전환을 이끌도록 확장되었습니다.
+2010년대에 들어서면서 정책의 초점이 물리적 구역에서 경제 전체로 옮겨가기 시작했습니다. 실행 기관 — 지금은 **[말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)](/ko/technology/mdec-digital-economy-corporation)**로 알려졌으며, 그 기원은 MSC를 추진하기 위한 1996년 설립으로 거슬러 올라갑니다 — 의 권한은 **Digital Malaysia** 의제를 통해 말레이시아의 보다 포괄적인 디지털 경제로의 전환을 이끌도록 확장되었습니다.
 
 개념적 차이가 중요합니다. MSC는 특정 구역으로 기업을 유치하는 데 초점을 두었던 반면, Digital Malaysia는 전국의 정부, 기업, 국민이 어떻게 디지털 솔루션을 활용할 수 있는지를 고민하기 시작했습니다. 두 프레임워크는 몇 년간 MDEC 아래에서 병행되었습니다.
 

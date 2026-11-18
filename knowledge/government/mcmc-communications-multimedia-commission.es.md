@@ -34,7 +34,7 @@ faq:
     a: "La Sección 126(2) dispone que toda persona que posea o preste una instalación de red, un servicio de red o un servicio de aplicaciones sin una licencia válida comete un delito y puede, en caso de condena, ser pasible de una multa no superior a RM500,000 o prisión no superior a cinco años o ambas, junto con una multa adicional de RM1,000 por cada día que el delito continúe tras la condena."
 
 lang: "es"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -225,7 +225,7 @@ publicado por MCMC. Entre los ejemplos están las bandas IMT-2000 (3G), 900MHz y
 ## El papel de MCMC en la conectividad nacional: JENDELA y 5G
 
 Más allá de la regulación, MCMC también lidera la agenda nacional de
-conectividad. JENDELA (Jalinan Digital Negara) es el plan liderado por MCMC para
+conectividad. [JENDELA](/es/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara) es el plan liderado por MCMC para
 ampliar la cobertura y mejorar la calidad de la banda ancha mientras prepara al
 país para el 5G. La Fase 1 (2020–2022) se propuso elevar la cobertura 4G del 91,8%
 al 96,9% y las velocidades de la banda ancha móvil de 25 Mbps a 35 Mbps, mientras

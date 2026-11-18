@@ -39,7 +39,7 @@ faq:
     a: "Pejabat AI Kebangsaan (National AI Office, NAIO) adalah agensi di bawah Kementerian Digital yang disetujui Kabinet pada 28 Agustus 2024 dan diluncurkan pada 12 Desember 2024. Ia bertanggung jawab menyusun, merencanakan, meneliti, mengoordinasikan dan melaksanakan inisiatif AI negara. Menurut Tech For Good Institute, tanggung jawabnya termasuk memimpin Strategi AI Kebangsaan yang diperkirakan mencakup 2026-2030, sebagai kesinambungan AI Roadmap 2021-2025; nama dan lingkup resmi strategi itu menunggu konfirmasi dokumen resmi."
 
 lang: "id"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ Jaminan "tidak ada sensor internet" (jaminan ke-7) khususnya menjadi tonggak keb
 
 ## Awal 2010-an: Digital Malaysia memperluas mandat
 
-Menjelang awal dekade 2010-an, fokus kebijakan mulai beralih dari zona fisik ke seluruh ekonomi. Mandat agensi pelaksana — kini dikenal sebagai **Malaysia Digital Economy Corporation (MDEC)**, yang asal-usulnya kembali ke pendirian pada 1996 untuk menggerakkan MSC — diperluas untuk memandu peralihan Malaysia ke arah ekonomi digital yang lebih menyeluruh melalui agenda **Digital Malaysia**.
+Menjelang awal dekade 2010-an, fokus kebijakan mulai beralih dari zona fisik ke seluruh ekonomi. Mandat agensi pelaksana — kini dikenal sebagai **[Malaysia Digital Economy Corporation (MDEC)](/id/technology/mdec-digital-economy-corporation)**, yang asal-usulnya kembali ke pendirian pada 1996 untuk menggerakkan MSC — diperluas untuk memandu peralihan Malaysia ke arah ekonomi digital yang lebih menyeluruh melalui agenda **Digital Malaysia**.
 
 Perbedaan konsepnya penting: MSC memberi fokus pada menarik perusahaan ke dalam zona tertentu, sedangkan Digital Malaysia mulai memikirkan bagaimana pemerintah, bisnis dan rakyat di seluruh negara dapat menggunakan solusi digital. Kedua kerangka berjalan serentak di bawah MDEC selama beberapa tahun.
 

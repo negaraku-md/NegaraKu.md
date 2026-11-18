@@ -33,7 +33,7 @@ faq:
     a: "No, no está permanentemente abierta. La subvención se financia con una asignación presupuestaria gubernamental fija y opera en rondas periódicas que se abren y se cierran, así que la disponibilidad depende del ciclo vigente y de los fondos restantes. Bajo las reglas de 2025, un negocio que ya ha recibido una subvención digital de contrapartida generalmente no puede reclamar de nuevo, salvo para soluciones de facturación electrónica. Verifique siempre si una ronda está abierta actualmente, y los términos exactos, en el portal oficial de BSN o MDEC."
 
 lang: "es"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ Así funciona este *tipo* de subvención, para que pueda juzgar si le conviene y
 
 ## ¿Qué es el MSME Digital Grant MADANI?
 
-Conocido en malayo como **Geran Digital PMKS Madani** (GDPM), es una iniciativa gubernamental anunciada en el **Presupuesto 2025** para ayudar a las microempresas y a las pequeñas y medianas empresas a usar servicios digitales en las operaciones del día a día. Lo gestiona el **Ministerio de Finanzas** en colaboración con **Bank Simpanan Nasional (BSN)** como banco administrador, la **Malaysia Digital Economy Corporation (MDEC)**, y la **Malaysian Communications and Multimedia Commission (MCMC)**.
+Conocido en malayo como **Geran Digital PMKS Madani** (GDPM), es una iniciativa gubernamental anunciada en el **Presupuesto 2025** para ayudar a las microempresas y a las pequeñas y medianas empresas a usar servicios digitales en las operaciones del día a día. Lo gestiona el **Ministerio de Finanzas** en colaboración con **Bank Simpanan Nasional (BSN)** como banco administrador, la [**Malaysia Digital Economy Corporation (MDEC)**](/es/technology/mdec-digital-economy-corporation), y la **Malaysian Communications and Multimedia Commission (MCMC)**.
 
 El diseño es deliberadamente sencillo: el gobierno proporciona «una subvención de contrapartida de hasta el 50% del importe de la factura o hasta RM5,000 para las PMKS elegibles, con el fin de ayudarlas a suscribirse a servicios digitales», en palabras de la propia BSN. Es una subvención sobre una compra real, no una entrega de efectivo — solo se beneficia si realmente adopta una herramienta que califique.
 

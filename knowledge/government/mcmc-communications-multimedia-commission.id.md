@@ -34,7 +34,7 @@ faq:
     a: "Pasal 126(2) menetapkan bahwa siapa saja yang memiliki atau menyediakan fasilitas jaringan, layanan jaringan atau layanan aplikasi tanpa lisensi sah melakukan kesalahan dan dapat, apabila dinyatakan bersalah, dikenakan denda tidak melebihi RM500,000 atau penjara tidak melebihi lima tahun atau keduanya, serta denda lanjutan RM1,000 bagi setiap hari kesalahan itu diteruskan setelah vonis."
 
 lang: "id"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -222,7 +222,7 @@ IMT-2000 (3G), 900MHz dan 1800MHz yang digunakan oleh operator seluler.
 
 ## Peran MCMC dalam konektivitas negara: JENDELA dan 5G
 
-Di luar pengaturan, MCMC turut memimpin kebijakan konektivitas negara. JENDELA
+Di luar pengaturan, MCMC turut memimpin kebijakan konektivitas negara. [JENDELA](/id/technology/5g-jendela-dnb-malaysia)
 (Jalinan Digital Negara) adalah rencana yang dipimpin MCMC untuk memperluas cakupan
 dan meningkatkan kualitas pita lebar sambil mempersiapkan negara untuk 5G. Fase 1
 (2020–2022) menargetkan cakupan 4G dari 91.8% ke 96.9% dan kecepatan

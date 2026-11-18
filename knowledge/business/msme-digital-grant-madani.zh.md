@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ framework: explainer
 
 ## 什么是 MSME 数字化拨款 MADANI？
 
-以马来文称为 **Geran Digital PMKS Madani**（GDPM），它是在 **2025 年预算案**下宣布的一项政府举措，旨在帮助微型、小型与中型企业在日常运营中使用数字服务。它由**财政部**主导，联同作为承办银行的**国民储蓄银行（BSN）**、**马来西亚数字经济机构（MDEC）**，以及**马来西亚通讯及多媒体委员会（MCMC）**共同运作。
+以马来文称为 **Geran Digital PMKS Madani**（GDPM），它是在 **2025 年预算案**下宣布的一项政府举措，旨在帮助微型、小型与中型企业在日常运营中使用数字服务。它由**财政部**主导，联同作为承办银行的**国民储蓄银行（BSN）**、[**马来西亚数字经济机构（MDEC）**](/zh/technology/mdec-digital-economy-corporation)，以及**马来西亚通讯及多媒体委员会（MCMC）**共同运作。
 
 其设计刻意从简：用 BSN 自己的话说，政府提供"最高达发票金额 50% 或最高 RM5,000 的配对拨款，供合资格 PMKS 订阅数字服务之用"。它是对一笔真实购买的补贴，而非现金派发——只有你确实采用了合资格工具，才会受益。
 

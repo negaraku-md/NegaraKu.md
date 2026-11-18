@@ -41,7 +41,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 
 status: "published"
 aiAssisted: true
@@ -136,7 +136,7 @@ MSCの最大の魅力は**保証書（Bill of Guarantees）**であった——�
 
 ## 2010年代初頭：デジタル・マレーシアが権限を拡大する
 
-2010年代初頭になると、政策の焦点は物理的なゾーンから経済全体へと移り始めた。実施機関——現在は**マレーシアデジタル経済公社（Malaysia Digital Economy Corporation、MDEC）**として知られ、その起源はMSCを推進するために1996年に設立されたことにさかのぼる——の権限は、**デジタル・マレーシア（Digital Malaysia）**アジェンダを通じて、マレーシアのより包括的なデジタル経済への移行を導くために拡大された。
+2010年代初頭になると、政策の焦点は物理的なゾーンから経済全体へと移り始めた。実施機関——現在は**[マレーシアデジタル経済公社（Malaysia Digital Economy Corporation、MDEC）](/ja/technology/mdec-digital-economy-corporation)**として知られ、その起源はMSCを推進するために1996年に設立されたことにさかのぼる——の権限は、**デジタル・マレーシア（Digital Malaysia）**アジェンダを通じて、マレーシアのより包括的なデジタル経済への移行を導くために拡大された。
 
 概念上の違いは重要である：MSCは企業を特定のゾーンへ惹きつけることに焦点を当てたのに対し、デジタル・マレーシアは、全国の政府、企業、そして国民がどのようにデジタル・ソリューションを活用できるかを考え始めた。二つの枠組みは、MDECのもとで数年間並行して運用された。
 

@@ -31,7 +31,7 @@ faq:
   - q: "Apakah industri antariksa Malaysia berbeda dari industri kedirgantaraannya?"
     a: "Ya. Industri kedirgantaraan mencakup penerbangan, pemeliharaan, perbaikan dan overhaul (MRO) serta aerostruktur untuk pesawat. Industri antariksa mencakup satelit, peluncuran, regulasi antariksa dan layanan hilir seperti komunikasi satelit dan penginderaan jauh."
 lang: id
-sourceContentHash: "9618715d572865bf"
+sourceContentHash: "c74b519cf5166ca0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ Arah kebijakan datang dari **Dasar Angkasa Negara 2030** (National Space Policy 
 
 Warisan antariksa langsung Malaysia dimulai dengan satelit kecil yang dibangun melalui alih teknologi. **TiungSAT-1**, mikrosatelit pertama negara ini, diluncurkan pada 2000 dan dikembangkan bersama Surrey Satellite Technology dari Britania Raya, memberi segenerasi insinyur Malaysia pengalaman membangun langsung. Ia diikuti oleh **RazakSAT**, satelit pengamatan bumi yang ditempatkan dalam orbit nyaris khatulistiwa pada 2009 dengan SpaceX Falcon 1 — misi penting, meski satelit itu gagal setelah kira-kira satu tahun, pelajaran yang menyadarkan tentang sulitnya mengoperasikan aset antariksa.
 
-Tulang punggung komersial sektor ini adalah **MEASAT**, operator satelit utama Malaysia. Melalui Measat Satellite Systems, ia menjalankan armada satelit komunikasi dari slot orbit 91,5 derajat Bujur Timur. Wahananya yang paling berkemampuan, **MEASAT-3d**, diluncurkan pada Juni 2022 — satelit MEASAT kedelapan — dengan Ariane 5 dari Guyana Prancis. Sebuah satelit throughput tinggi yang diperkirakan sekitar US$273 juta, ia membawa beberapa pita frekuensi dan dibidik tepat untuk memperluas jalur lebar berkecepatan tinggi ke pedesaan dan Malaysia Timur di bawah rencana konektivitas nasional JENDELA, bersama televisi langsung ke rumah. MEASAT mengaitkan sektor antariksa langsung dengan [industri telekomunikasi](/id/industries/telecommunications-industry/): sebagian besar kegiatan satelit Malaysia ada untuk mengantarkan konektivitas di darat.
+Tulang punggung komersial sektor ini adalah **MEASAT**, operator satelit utama Malaysia. Melalui Measat Satellite Systems, ia menjalankan armada satelit komunikasi dari slot orbit 91,5 derajat Bujur Timur. Wahananya yang paling berkemampuan, **MEASAT-3d**, diluncurkan pada Juni 2022 — satelit MEASAT kedelapan — dengan Ariane 5 dari Guyana Prancis. Sebuah satelit throughput tinggi yang diperkirakan sekitar US$273 juta, ia membawa beberapa pita frekuensi dan dibidik tepat untuk memperluas jalur lebar berkecepatan tinggi ke pedesaan dan Malaysia Timur di bawah rencana konektivitas nasional [JENDELA](/id/technology/5g-jendela-dnb-malaysia/), bersama televisi langsung ke rumah. MEASAT mengaitkan sektor antariksa langsung dengan [industri telekomunikasi](/id/industries/telecommunications-industry/): sebagian besar kegiatan satelit Malaysia ada untuk mengantarkan konektivitas di darat.
 
 ## Program angkasawan
 

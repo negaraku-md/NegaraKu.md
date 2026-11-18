@@ -43,7 +43,7 @@ verificationNeeded:
   - "Pastikan apakah SEDIA, NCER, dan ECERDC memegang kewenangan persetujuan pas ekspatriat setara dengan IRDA, yang tidak dapat dipastikan"
 
 lang: "id"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ hilir.
 | **SSM** — Komisi Perusahaan Malaysia (Companies Commission of Malaysia) | Pendaftar di bawah Companies Act 2016 | Pendirian, daftar, laporan tahunan, penyerahan laporan keuangan. Tidak ada hak berbisnis. |
 | **MITI** — Kementerian Investasi, Perdagangan, dan Industri (Ministry of Investment, Trade and Industry) | Kementerian; diganti nama dari Perdagangan Internasional dan Industri pada **April 2023** | **Lisensi manufaktur** di bawah Industrial Coordination Act 1975 adalah instrumen Menteri |
 | **MIDA** — Badan Pengembangan Investasi Malaysia (Malaysian Investment Development Authority) | Agensi promosi investasi MITI | Menerima, menilai, dan mengelola permohonan lisensi manufaktur dan pengecualian; penilaian insentif pajak; menerbitkan buku panduan investasi sektoral |
-| **MDEC** — Malaysia Digital Economy Corporation | Di bawah **Kementerian Digital** (didirikan 12 Desember 2023) | Status Malaysia Digital, pedoman MD Tax Incentive, DE Rantau; agensi persetujuan ekspatriat bagi **ICT** |
+| [**MDEC**](/id/technology/mdec-digital-economy-corporation) — Malaysia Digital Economy Corporation | Di bawah **Kementerian Digital** (didirikan 12 Desember 2023) | Status Malaysia Digital, pedoman MD Tax Incentive, DE Rantau; agensi persetujuan ekspatriat bagi **ICT** |
 | **KPDN** — [Kementerian Perdagangan Dalam Negeri dan Biaya Hidup](/id/government/ministry-of-domestic-trade-kpdn) (Ministry of Domestic Trade and Cost of Living) | Kementerian | Penyertaan asing dalam **perdagangan distribusi**, di bawah Pedoman Penyertaan Asing dalam Sektor Perdagangan Distribusi di Malaysia; regulasi penjualan langsung dan waralaba |
 | **ESD** — Divisi Layanan Ekspatriat, Departemen Imigrasi (Expatriate Services Division, Immigration Department) | Di bawah Kementerian Dalam Negeri | Pendaftaran perusahaan untuk perekrutan ekspatriat, Pas Kerja, Pas Kunjungan Profesional, Pas Tanggungan, LTSVP |
 | **MyIPO** — Korporasi Kekayaan Intelektual Malaysia (Intellectual Property Corporation of Malaysia) | Di bawah MITI | Merek dagang, paten, desain industri, notifikasi sukarela hak cipta |

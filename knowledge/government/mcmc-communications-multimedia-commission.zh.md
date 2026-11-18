@@ -34,7 +34,7 @@ faq:
     a: "第 126(2) 条规定，任何人在没有有效牌照下拥有或提供网络设施、网络服务或应用服务，即属犯罪，一经定罪，可被处以不超过 50 万令吉罚款，或不超过五年监禁，或两者兼施，并就该罪行在定罪后每持续一日加处 1,000 令吉罚款。"
 
 lang: "zh"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ MCMC 的监管范围横跨移动与固定电信、宽带、卫星通讯、广播
 
 ## MCMC 在国家连接中的角色：JENDELA 与 5G
 
-在监管之外，MCMC 还主导国家连接政策。JENDELA（国家数字网络，Jalinan Digital Negara）是由 MCMC 主导的计划，旨在扩大覆盖范围、提升宽带质量，同时为国家迎接 5G 做好准备。第一阶段（2020–2022）以将 4G 覆盖率从 91.8% 提升至 96.9%、移动宽带速度从 25 Mbps 提升至 35 Mbps 为目标，而第二阶段则聚焦于 5G 的部署。
+在监管之外，MCMC 还主导国家连接政策。[JENDELA](/zh/technology/5g-jendela-dnb-malaysia)（国家数字网络，Jalinan Digital Negara）是由 MCMC 主导的计划，旨在扩大覆盖范围、提升宽带质量，同时为国家迎接 5G 做好准备。第一阶段（2020–2022）以将 4G 覆盖率从 91.8% 提升至 96.9%、移动宽带速度从 25 Mbps 提升至 35 Mbps 为目标，而第二阶段则聚焦于 5G 的部署。
 
 在 5G 方面，政府最初指示国家数字有限公司（Digital Nasional Berhad，DNB）建设依据第 588 号法令获发牌照的单一批发网络。政府于 2023 年 5 月决定转向双 5G 网络模式：MCMC 选定 U Mobile 为第二网络运营商（2024 年 11 月），并于 2026 年 1 月投入服务。两个网络均处于 MCMC 的监管监督之下。
 

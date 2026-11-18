@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "678b132c5368b3aa"
+sourceContentHash: "e98b7dba06ff74b9"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ TM mengorganisasi operasinya di sekitar merek yang menghadap pelanggan di bawah 
 
 Signifikansi TM melampaui pelanggannya sendiri karena ia memiliki infrastruktur yang digunakan seluruh sektor. Tulang punggung fiber-nya adalah jaringan long-haul utama yang menghubungkan kota dan negara bagian, dan TM Global mengoperasikan pendaratan kabel bawah laut Malaysia, yang menghubungkan negara ini ke Asia, Timur Tengah, Eropa, dan Amerika Serikat. Sebagaimana dinyatakan pada 31 Januari 2026, jangkauan TM Global membentang 33 sistem kabel bawah laut sepanjang total sekitar 275.000 km, dengan stasiun pendaratan kabel termasuk stasiun kelima di Morib, Selangor dan satu lagi yang direncanakan di Kuala Sedili, Johor.
 
-TM juga merupakan mitra pelaksana sentral bagi **JENDELA** (Jalinan Digital Negara), rencana konektivitas digital nasional yang dikoordinasikan oleh Komisi Komunikasi dan Multimedia Malaysia (MCMC). JENDELA bertujuan memperluas broadband fiber dan seluler ke seluruh negeri dan memensiunkan jaringan lawas, dan penggelaran fiber TM adalah salah satu penyumbang terbesar bagi target premises-passed. Karena begitu banyak trafik nasional dan pihak ketiga menumpang pada jaringan TM, perusahaan ini berfungsi sebagai keping infrastruktur publik strategis sekaligus operator komersial.
+TM juga merupakan mitra pelaksana sentral bagi [**JENDELA**](/id/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara), rencana konektivitas digital nasional yang dikoordinasikan oleh Komisi Komunikasi dan Multimedia Malaysia (MCMC). JENDELA bertujuan memperluas broadband fiber dan seluler ke seluruh negeri dan memensiunkan jaringan lawas, dan penggelaran fiber TM adalah salah satu penyumbang terbesar bagi target premises-passed. Karena begitu banyak trafik nasional dan pihak ketiga menumpang pada jaringan TM, perusahaan ini berfungsi sebagai keping infrastruktur publik strategis sekaligus operator komersial.
 
 ## Skala dan signifikansi
 

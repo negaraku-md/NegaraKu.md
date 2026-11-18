@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 
 status: "published"
 aiAssisted: true
@@ -228,7 +228,7 @@ MCMC நிர்ணயிக்கும் ஒதுக்கீட்டு �
 ## தேசிய இணைப்பில் MCMC இன் பங்கு: JENDELA மற்றும் 5G
 
 ஒழுங்குபடுத்தலுக்கு அப்பால், MCMC தேசிய இணைப்புக் கொள்கையையும் வழிநடத்துகிறது.
-JENDELA (Jalinan Digital Negara) என்பது பரப்பளவை விரிவுபடுத்தவும் அகலப்பட்டை
+[JENDELA](/ta/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara) என்பது பரப்பளவை விரிவுபடுத்தவும் அகலப்பட்டை
 தரத்தை மேம்படுத்தவும், அதேவேளை நாட்டை 5G க்குத் தயார்படுத்தவும் MCMC தலைமையிலான
 திட்டமாகும். கட்டம் 1 (2020–2022) 4G பரப்பளவை 91.8% இலிருந்து 96.9% ஆகவும்,
 நகர்வுறு அகலப்பட்டை வேகத்தை 25 Mbps இலிருந்து 35 Mbps ஆகவும் உயர்த்துவதை

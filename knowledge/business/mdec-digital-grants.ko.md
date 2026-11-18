@@ -33,7 +33,7 @@ faq:
     a: "말레이시아의 디지털 경제를 촉진하고 Malaysia Digital 지위를 운영하는 정부기관인 말레이시아 디지털경제공사(MDEC)입니다. MDEC는 디지털부(Ministry of Digital) 소관입니다. 신청은 MDEC의 Malaysia Digital 플랫폼을 통해 이루어지며, MDEC가 자격을 심사하고 발표 심사(pitching session)를 진행한 뒤 지원을 승인합니다. 문의는 MDEC의 고객 연락 채널(clic@mdec.com.my)을 통합니다."
 
 lang: "ko"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ MDEC 자금을 찾는 대부분의 창업자는 "MDEC 보조금"을 검색하며
 
 ## 이 보조금은 누가 운영하며, 왜 그것이 중요한가
 
-**말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)**는 말레이시아의 디지털 경제를 진흥하는 정부 기관입니다. **말레이시아 디지털(MD) 지위**를 관리하고, 그 위에 디지털 기업을 위한 일련의 공동 지원 보조금을 운영합니다. MDEC는 **디지털부(Ministry of Digital)** 산하에 있습니다.
+[**말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)**](/ko/technology/mdec-digital-economy-corporation/)는 말레이시아의 디지털 경제를 진흥하는 정부 기관입니다. **말레이시아 디지털(MD) 지위**를 관리하고, 그 위에 디지털 기업을 위한 일련의 공동 지원 보조금을 운영합니다. MDEC는 **디지털부(Ministry of Digital)** 산하에 있습니다.
 
 그 보고 체계가 바로 보조금과 지위가 밀접하게 연결된 이유입니다. MDEC의 보조금은 일반적인 소기업 기금이 아닙니다 — 이는 MD 지위 위에 구축된 인센티브로서, 말레이시아 디지털 **진흥 부문(promoted sectors)**(디지털 농업, 서비스, 도시, 헬스, 금융, 무역, 콘텐츠, 관광, 이슬람 디지털 경제)과 **기술 조력자(technology enablers)**(AI 및 빅데이터, 블록체인, 클라우드, 사이버보안, 드론 기술, IoT, 로보틱스 및 XR, 크리에이티브 미디어 기술, IC 설계 및 임베디드 소프트웨어, 첨단 네트워크 연결)를 겨냥합니다. 당신의 업무가 그 지도 안에 속하지 않는다면, 이 보조금은 당신의 것이 아닙니다.
 

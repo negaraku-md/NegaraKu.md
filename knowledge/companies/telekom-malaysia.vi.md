@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "678b132c5368b3aa"
+sourceContentHash: "e98b7dba06ff74b9"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ TM tổ chức các hoạt động của mình quanh các thương hiệu hướ
 
 Tầm quan trọng của TM vượt ra ngoài các thuê bao của chính nó vì nó sở hữu hạ tầng mà cả ngành sử dụng. Trục xương sống cáp quang của nó là mạng đường trục chính liên kết các thị trấn và các bang, và TM Global vận hành các điểm cập bờ cáp ngầm biển của Malaysia, vốn kết nối đất nước với châu Á, Trung Đông, châu Âu và Hoa Kỳ. Như đã nêu vào ngày 31 tháng 1 năm 2026, tầm với của TM Global trải trên 33 hệ thống cáp ngầm biển với tổng cộng khoảng 275.000 km, với các trạm cập bờ cáp bao gồm một trạm thứ năm tại Morib, Selangor và một trạm khác được dự kiến tại Kuala Sedili, Johor.
 
-TM cũng là một đối tác triển khai trung tâm cho **JENDELA** (Jalinan Digital Negara), kế hoạch kết nối số quốc gia do Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC) điều phối. JENDELA nhằm mở rộng băng thông rộng cáp quang và di động trên khắp cả nước và rút lui các mạng kế thừa, và việc triển khai cáp quang của TM là một trong những đóng góp lớn nhất cho các mục tiêu về số cơ sở được phủ sóng. Vì rất nhiều lưu lượng quốc gia và của bên thứ ba chạy trên mạng của TM, công ty vận hành như một mảnh hạ tầng công chiến lược không kém gì một nhà mạng thương mại.
+TM cũng là một đối tác triển khai trung tâm cho [**JENDELA**](/vi/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara), kế hoạch kết nối số quốc gia do Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC) điều phối. JENDELA nhằm mở rộng băng thông rộng cáp quang và di động trên khắp cả nước và rút lui các mạng kế thừa, và việc triển khai cáp quang của TM là một trong những đóng góp lớn nhất cho các mục tiêu về số cơ sở được phủ sóng. Vì rất nhiều lưu lượng quốc gia và của bên thứ ba chạy trên mạng của TM, công ty vận hành như một mảnh hạ tầng công chiến lược không kém gì một nhà mạng thương mại.
 
 ## Quy mô và tầm quan trọng
 

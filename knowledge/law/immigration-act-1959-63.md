@@ -157,7 +157,7 @@ Once you are admitted, the *pass* defines what you may lawfully do. Using the wr
 | **Long-Term Social Visit Pass (LTSVP)** | Longer family stays not covered by a Dependant Pass | Parents, older children, certain partners |
 | **DE Rantau Nomad Pass** | Remote work for a foreign employer or clients | Eligible digital nomads and remote professionals |
 
-The **DE Rantau Nomad Pass**, administered by the Malaysia Digital Economy Corporation (MDEC), lets qualified remote workers base themselves in Malaysia for up to 12 months and is renewable for a further 12 months. Minimum income and experience thresholds apply and differ for technology and non-technology roles, so confirm the current renewal terms and eligibility criteria on MDEC's DE Rantau portal before applying.
+The **DE Rantau Nomad Pass**, administered by the [Malaysia Digital Economy Corporation (MDEC)](/technology/mdec-digital-economy-corporation), lets qualified remote workers base themselves in Malaysia for up to 12 months and is renewable for a further 12 months. Minimum income and experience thresholds apply and differ for technology and non-technology roles, so confirm the current renewal terms and eligibility criteria on MDEC's DE Rantau portal before applying.
 
 ## How long can I work on an Employment Pass?
 

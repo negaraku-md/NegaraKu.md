@@ -29,7 +29,7 @@ faq:
     a: "இரண்டு திணைக்களங்கள் (தேசிய டிஜிட்டல் திணைக்களம் மற்றும் தனிநபர் தரவு பாதுகாப்பு திணைக்களம்) மற்றும் நான்கு நிறுவனங்கள்: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad மற்றும் MYNIC Berhad."
 
 lang: "ta"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | தேசிய டிஜிட்டல் திணைக்களம் (National Digital Department, JDN) | திணைக்களம் | டிஜிட்டல் அரசாங்க மாற்றம்; MAMPU-வின் மறுசீரமைப்பின் விளைவு |
 | தனிநபர் தரவு பாதுகாப்பு திணைக்களம் (Personal Data Protection Department, JPDP) | திணைக்களம் | தனிநபர் தரவு பாதுகாப்பை அமல்படுத்துகிறது |
-| Malaysia Digital Economy Corporation (MDEC) | நிறுவனம் | டிஜிட்டல் பொருளாதாரத்தையும் டிஜிட்டல் முதலீட்டையும் உந்துகிறது |
+| [Malaysia Digital Economy Corporation (MDEC)](/ta/technology/mdec-digital-economy-corporation) | நிறுவனம் | டிஜிட்டல் பொருளாதாரத்தையும் டிஜிட்டல் முதலீட்டையும் உந்துகிறது |
 | CyberSecurity Malaysia (CSM) | நிறுவனம் | தேசிய தொழில்நுட்ப சைபர் பாதுகாப்பு அமைப்பு |
 | Digital Nasional Berhad (DNB) | நிறுவனம் | நாட்டின் ஒற்றை 5G மொத்த விற்பனை வலையமைப்பு |
 | MYNIC Berhad | நிறுவனம் | `.my` டொமைன் பெயரின் நிர்வாகி |

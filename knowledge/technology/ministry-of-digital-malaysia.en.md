@@ -29,7 +29,7 @@ faq:
     a: "Two departments (the National Digital Department and the Personal Data Protection Department) and four agencies: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad and MYNIC Berhad."
 
 lang: "en"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ The placement of agencies was announced in phases. In December 2023, it was repo
 | --- | --- | --- |
 | National Digital Department (JDN) | Department | Digital government transformation; result of the restructuring of MAMPU |
 | Personal Data Protection Department (JPDP) | Department | Enforces personal data protection |
-| Malaysia Digital Economy Corporation (MDEC) | Agency | Drives the digital economy and digital investment |
+| [Malaysia Digital Economy Corporation (MDEC)](/en/technology/mdec-digital-economy-corporation) | Agency | Drives the digital economy and digital investment |
 | CyberSecurity Malaysia (CSM) | Agency | National technical cybersecurity body |
 | Digital Nasional Berhad (DNB) | Agency | The country's single 5G wholesale network |
 | MYNIC Berhad | Agency | Administrator of the `.my` domain name |

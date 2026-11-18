@@ -34,7 +34,7 @@ faq:
     a: "L'article 126(2) dispose que toute personne qui possède ou fournit une installation de réseau, un service de réseau ou un service d'applications sans licence valide commet une infraction et peut, en cas de condamnation, être passible d'une amende ne dépassant pas RM500,000 ou d'un emprisonnement ne dépassant pas cinq ans ou des deux, ainsi que d'une amende supplémentaire de RM1,000 pour chaque jour où l'infraction se poursuit après la condamnation."
 
 lang: "fr"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -224,7 +224,7 @@ sont des exemples.
 ## Le rôle de MCMC dans la connectivité nationale : JENDELA et la 5G
 
 Au-delà de la réglementation, MCMC dirige également l'agenda national de connectivité.
-JENDELA (Jalinan Digital Negara) est le plan piloté par MCMC pour étendre la couverture
+[JENDELA](/fr/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara) est le plan piloté par MCMC pour étendre la couverture
 et améliorer la qualité du haut débit tout en préparant le pays à la 5G. La phase 1
 (2020-2022) visait à faire passer la couverture 4G de 91.8% à 96.9% et les vitesses du
 haut débit mobile de 25 Mbps à 35 Mbps, tandis que la phase 2 se concentre sur le

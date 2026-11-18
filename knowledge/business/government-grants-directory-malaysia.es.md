@@ -33,7 +33,7 @@ faq:
     a: "Vaya al propio sitio web de la agencia administradora — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — en lugar de a listados de terceros, que con frecuencia mantienen programas cerrados figurando como disponibles. El gobierno también mantiene un directorio agregado en el portal nacional de financiación MyStartup. Las ventanas de subvención cambian con el Presupuesto anual, así que confirme el estado actual antes de invertir tiempo en una solicitud."
 
 lang: "es"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -123,7 +123,7 @@ programas de aceleración y de ecosistema que una única subvención en efectivo
 
 ## Digital y tecnología: MDEC y MRANTI
 
-**MDEC** (Corporación de la Economía Digital de Malasia) financia negocios digitales:
+[**MDEC**](/es/technology/mdec-digital-economy-corporation) (Corporación de la Economía Digital de Malasia) financia negocios digitales:
 
 - **Malaysia Digital Catalyst Grant (MDCG)** — cofinancia soluciones digitales innovadoras:
   **hasta el 50% del coste del proyecto para empresas de propiedad local (30% para las de

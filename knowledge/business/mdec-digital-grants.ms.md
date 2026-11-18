@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation (MDEC), agensi kerajaan yang menggalakkan ekonomi digital Malaysia dan mentadbir status Malaysia Digital. MDEC berada di bawah Kementerian Digital. Permohonan dibuat melalui platform Malaysia Digital MDEC, dan MDEC menilai kelayakan, menjalankan sesi pembentangan, dan meluluskan anugerah. Pertanyaan dibuat melalui saluran hubungan pelanggan MDEC (clic@mdec.com.my)."
 
 lang: "ms"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Berikut ialah cara dua geran ekonomi digital MDEC berfungsi — untuk apa setiap
 
 ## Siapa yang menjalankan geran ini, dan mengapa ia penting
 
-**Malaysia Digital Economy Corporation (MDEC)** ialah agensi kerajaan yang menggalakkan ekonomi digital Malaysia. Ia mentadbir **status Malaysia Digital (MD)** dan, di atas itu, satu set geran pembiayaan bersama bagi syarikat digital. MDEC berada di bawah **Kementerian Digital**.
+[**Malaysia Digital Economy Corporation (MDEC)**](/technology/mdec-digital-economy-corporation/) ialah agensi kerajaan yang menggalakkan ekonomi digital Malaysia. Ia mentadbir **status Malaysia Digital (MD)** dan, di atas itu, satu set geran pembiayaan bersama bagi syarikat digital. MDEC berada di bawah **Kementerian Digital**.
 
 Garis pelaporan itulah sebab geran dan status bergandingan rapat. Geran MDEC bukan tabung perniagaan kecil umum — ia ialah insentif yang dibina di atas status MD, disasarkan kepada **sektor digalakkan** Malaysia Digital (pertanian digital, perkhidmatan, bandar, kesihatan, kewangan, perdagangan, kandungan, pelancongan, ekonomi digital Islam) dan **pembolehdaya teknologi** (AI dan data raya, rantaian blok, awan, keselamatan siber, teknologi dron, IoT, robotik dan XR, teknologi media kreatif, reka bentuk IC dan perisian terbenam, ketersambungan rangkaian termaju). Jika kerja anda tidak berada dalam peta itu, ini bukan geran anda.
 

@@ -38,7 +38,7 @@ faq:
     a: "Sử dụng một người nước ngoài không có giấy phép lưu trú hợp lệ là một tội danh theo Điều 55B, mang mức phạt RM10,000 đến RM50,000 hoặc phạt tù đến 12 tháng cho mỗi lao động. Thuê năm lao động không giấy tờ trở lên nâng mức nguy cơ lên phạt tù từ sáu tháng đến năm năm và có thể bị đánh roi."
 
 lang: "vi"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -158,7 +158,7 @@ Một khi bạn được nhận vào, *giấy phép lưu trú* xác định nh�
 | **Giấy phép Thăm Xã giao Dài hạn (LTSVP)** | Lưu trú gia đình dài hơn không được Giấy phép Người phụ thuộc bao trùm | Cha mẹ, con lớn hơn, một số bạn đời nhất định |
 | **DE Rantau Nomad Pass** | Làm việc từ xa cho người sử dụng lao động hoặc khách hàng nước ngoài | Người làm việc du mục số và chuyên gia làm việc từ xa đủ điều kiện |
 
-**DE Rantau Nomad Pass**, do Malaysia Digital Economy Corporation (MDEC) quản lý, cho phép người làm việc từ xa đủ điều kiện đặt cơ sở tại Malaysia đến 12 tháng và có thể gia hạn thêm 12 tháng. Các ngưỡng tối thiểu về thu nhập và kinh nghiệm được áp dụng và khác nhau đối với vai trò công nghệ và phi công nghệ, do đó hãy xác nhận các điều khoản gia hạn và tiêu chí đủ điều kiện hiện hành trên cổng DE Rantau của MDEC trước khi nộp đơn.
+**DE Rantau Nomad Pass**, do [Malaysia Digital Economy Corporation (MDEC)](/vi/technology/mdec-digital-economy-corporation) quản lý, cho phép người làm việc từ xa đủ điều kiện đặt cơ sở tại Malaysia đến 12 tháng và có thể gia hạn thêm 12 tháng. Các ngưỡng tối thiểu về thu nhập và kinh nghiệm được áp dụng và khác nhau đối với vai trò công nghệ và phi công nghệ, do đó hãy xác nhận các điều khoản gia hạn và tiêu chí đủ điều kiện hiện hành trên cổng DE Rantau của MDEC trước khi nộp đơn.
 
 ## Tôi có thể làm việc bằng Giấy phép Lao động bao lâu?
 

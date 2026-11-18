@@ -31,7 +31,7 @@ faq:
     a: "Ya. Pasangan atau pasangan de facto, anak di bawah 18 tahun, anak kurang upaya, dan ibu bapa pemegang utama boleh memohon sebagai tanggungan, tetapi pasangan tidak boleh bekerja di bawah pas ini."
 
 lang: "ms"
-sourceContentHash: "4acc75e3a074b7b6"
+sourceContentHash: "ba8316561dc3caab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Jika anda bekerja jarak jauh untuk majikan atau pelanggan yang berpangkalan di l
 
 ## Apakah Pas Nomad DE Rantau?
 
-Ia merupakan sejenis **Pas Lawatan Ikhtisas** (*Professional Visit Pass*) yang direka oleh **Malaysia Digital Economy Corporation (MDEC)** untuk membolehkan nomad digital asing yang layak untuk mengembara dan bekerja di Malaysia. Ciri utamanya ialah dari mana pendapatan anda diperoleh. **Pemohon pekerja jarak jauh** mesti diambil bekerja oleh majikan yang berpangkalan di luar negara — bukan syarikat yang berdaftar di Malaysia. **Pekerja bebas dan kontraktor bebas** bekerja secara bebas dengan pelanggan yang berpangkalan di luar negara; menurut FAQ MDEC, mereka boleh juga berkhidmat untuk pelanggan Malaysia, dengan syarat mereka masih memenuhi syarat kelayakan dan pendapatan pas ini.
+Ia merupakan sejenis **Pas Lawatan Ikhtisas** (*Professional Visit Pass*) yang direka oleh **[Malaysia Digital Economy Corporation (MDEC)](/technology/mdec-digital-economy-corporation/)** untuk membolehkan nomad digital asing yang layak untuk mengembara dan bekerja di Malaysia. Ciri utamanya ialah dari mana pendapatan anda diperoleh. **Pemohon pekerja jarak jauh** mesti diambil bekerja oleh majikan yang berpangkalan di luar negara — bukan syarikat yang berdaftar di Malaysia. **Pekerja bebas dan kontraktor bebas** bekerja secara bebas dengan pelanggan yang berpangkalan di luar negara; menurut FAQ MDEC, mereka boleh juga berkhidmat untuk pelanggan Malaysia, dengan syarat mereka masih memenuhi syarat kelayakan dan pendapatan pas ini.
 
 ## Siapa yang layak, dan berapa yang perlu anda peroleh?
 

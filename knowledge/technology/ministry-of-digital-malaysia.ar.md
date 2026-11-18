@@ -29,7 +29,7 @@ faq:
     a: "إدارتان (الدائرة الوطنية للرقمنة ودائرة حماية البيانات الشخصية) وأربع وكالات: MDEC وCyberSecurity Malaysia وDigital Nasional Berhad وMYNIC Berhad."
 
 lang: "ar"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | الدائرة الوطنية للرقمنة (JDN) | إدارة | تحول الحكومة الرقمية؛ ناتجة عن إعادة هيكلة MAMPU |
 | دائرة حماية البيانات الشخصية (JPDP) | إدارة | إنفاذ حماية البيانات الشخصية |
-| Malaysia Digital Economy Corporation (MDEC) | وكالة | دفع الاقتصاد الرقمي والاستثمار الرقمي |
+| [Malaysia Digital Economy Corporation (MDEC)](/ar/technology/mdec-digital-economy-corporation) | وكالة | دفع الاقتصاد الرقمي والاستثمار الرقمي |
 | CyberSecurity Malaysia (CSM) | وكالة | الهيئة التقنية الوطنية للأمن السيبراني |
 | Digital Nasional Berhad (DNB) | وكالة | شبكة الجملة الوحيدة للجيل الخامس 5G في البلاد |
 | MYNIC Berhad | وكالة | المسؤول عن إدارة اسم النطاق `.my` |

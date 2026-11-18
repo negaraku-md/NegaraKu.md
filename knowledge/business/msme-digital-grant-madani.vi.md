@@ -33,7 +33,7 @@ faq:
     a: "Không, nó không mở vĩnh viễn. Khoản trợ cấp được tài trợ từ một khoản phân bổ ngân sách chính phủ cố định và chạy theo các vòng định kỳ mở và đóng, nên khả năng có sẵn phụ thuộc vào chu kỳ hiện hành và quỹ còn lại. Theo các quy tắc 2025, một doanh nghiệp đã nhận một khoản trợ cấp đối ứng số nói chung không thể đòi lại, trừ đối với các giải pháp hóa đơn điện tử. Hãy luôn xác minh liệu một vòng có đang mở, và các điều khoản chính xác, trên cổng chính thức của BSN hoặc MDEC."
 
 lang: "vi"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ Sau đây là cách *loại* trợ cấp này hoạt động, để bạn có th
 
 ## MSME Digital Grant MADANI là gì?
 
-Được biết trong tiếng Mã Lai là **Geran Digital PMKS Madani** (GDPM), nó là một sáng kiến của chính phủ được công bố theo **Ngân sách 2025** để giúp các doanh nghiệp siêu nhỏ, nhỏ và vừa sử dụng các dịch vụ số trong hoạt động hằng ngày. Nó được **Bộ Tài chính** vận hành phối hợp với **Bank Simpanan Nasional (BSN)** với tư cách là ngân hàng quản lý, **Malaysia Digital Economy Corporation (MDEC)**, và **Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)**.
+Được biết trong tiếng Mã Lai là **Geran Digital PMKS Madani** (GDPM), nó là một sáng kiến của chính phủ được công bố theo **Ngân sách 2025** để giúp các doanh nghiệp siêu nhỏ, nhỏ và vừa sử dụng các dịch vụ số trong hoạt động hằng ngày. Nó được **Bộ Tài chính** vận hành phối hợp với **Bank Simpanan Nasional (BSN)** với tư cách là ngân hàng quản lý, [**Malaysia Digital Economy Corporation (MDEC)**](/vi/technology/mdec-digital-economy-corporation), và **Ủy ban Truyền thông và Đa phương tiện Malaysia (MCMC)**.
 
 Thiết kế cố ý đơn giản: chính phủ cung cấp «một khoản trợ cấp đối ứng tới 50% số tiền hóa đơn hoặc tới RM5,000 cho các PMKS đủ điều kiện để hỗ trợ họ đăng ký các dịch vụ số», theo chính lời của BSN. Đó là một khoản trợ giá trên một giao dịch mua thực tế, không phải một khoản phát tiền mặt — bạn chỉ được lợi nếu bạn thực sự áp dụng một công cụ đủ điều kiện.
 

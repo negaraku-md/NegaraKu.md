@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation (MDEC), cơ quan chính phủ thúc đẩy nền kinh tế số của Malaysia và quản lý tình trạng Malaysia Digital. MDEC thuộc Bộ Kỹ thuật số. Các đơn được nộp thông qua nền tảng Malaysia Digital của MDEC, và MDEC đánh giá điều kiện, tổ chức một buổi thuyết trình (pitching session), và phê duyệt các khoản trao. Các thắc mắc đi qua kênh liên hệ khách hàng của MDEC (clic@mdec.com.my)."
 
 lang: "vi"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Sau đây là cách hai khoản trợ cấp kinh tế số của MDEC hoạt đ�
 
 ## Ai vận hành các khoản trợ cấp này, và vì sao điều đó quan trọng
 
-**Malaysia Digital Economy Corporation (MDEC)** là cơ quan chính phủ thúc đẩy nền kinh tế số của Malaysia. Nó quản lý **tình trạng Malaysia Digital (MD)** và, trên đó, một bộ các khoản trợ cấp đồng tài trợ cho các công ty số. MDEC thuộc **Bộ Kỹ thuật số**.
+[**Malaysia Digital Economy Corporation (MDEC)**](/vi/technology/mdec-digital-economy-corporation/) là cơ quan chính phủ thúc đẩy nền kinh tế số của Malaysia. Nó quản lý **tình trạng Malaysia Digital (MD)** và, trên đó, một bộ các khoản trợ cấp đồng tài trợ cho các công ty số. MDEC thuộc **Bộ Kỹ thuật số**.
 
 Tuyến báo cáo đó là lý do các khoản trợ cấp và tình trạng gắn liền với nhau. Các khoản trợ cấp của MDEC không phải là một quỹ doanh nghiệp nhỏ chung — chúng là một ưu đãi được xây dựng trên tình trạng MD, nhắm vào các **lĩnh vực được thúc đẩy** của Malaysia Digital (nông nghiệp số, dịch vụ, thành phố, y tế, tài chính, thương mại, nội dung, du lịch, kinh tế số Hồi giáo) và các **yếu tố hỗ trợ công nghệ** (AI và dữ liệu lớn, blockchain, đám mây, an ninh mạng, công nghệ drone, IoT, robot và XR, công nghệ truyền thông sáng tạo, thiết kế IC và phần mềm nhúng, kết nối mạng tiên tiến). Nếu công việc của bạn không nằm trong bản đồ đó, đây không phải là các khoản trợ cấp của bạn.
 

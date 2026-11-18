@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 
 status: "published"
 aiAssisted: true
@@ -87,7 +87,7 @@ MDECの資金を探す創業者の多くは「MDECの助成金」を検索し、
 
 ## これらの助成金を運営しているのは誰か、そしてなぜそれが重要なのか
 
-**マレーシアデジタル経済公社（Malaysia Digital Economy Corporation、MDEC）**は、マレーシアのデジタル経済を推進する政府機関である。同公社は**マレーシア・デジタル認定（MD Status）**を管理し、それに加えてデジタル企業向けの一連の共同資金助成金を運営している。MDECは**デジタル省（Ministry of Digital）**の傘下にある。
+[**マレーシアデジタル経済公社（Malaysia Digital Economy Corporation、MDEC）**](/ja/technology/mdec-digital-economy-corporation/)は、マレーシアのデジタル経済を推進する政府機関である。同公社は**マレーシア・デジタル認定（MD Status）**を管理し、それに加えてデジタル企業向けの一連の共同資金助成金を運営している。MDECは**デジタル省（Ministry of Digital）**の傘下にある。
 
 この所管関係こそが、助成金と認定が切っても切れない理由である。MDECの助成金は一般的な中小企業向け基金ではない——それはMD認定の上に築かれたインセンティブであり、マレーシア・デジタルの**重点推進分野**（デジタル農業、サービス、都市、健康、金融、貿易、コンテンツ、観光、イスラム・デジタル経済）と**テック・イネイブラー**（AI及びビッグデータ、ブロックチェーン、クラウド、サイバーセキュリティ、ドローン技術、IoT、ロボティクス及びXR、クリエイティブ・メディア技術、IC設計及び組込みソフトウェア、先進ネットワーク接続性）を対象としている。あなたの事業がこの地図の中に位置していないなら、これらはあなたのための助成金ではない。
 

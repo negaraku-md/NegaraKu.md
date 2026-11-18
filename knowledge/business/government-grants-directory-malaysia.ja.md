@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ Cradleはまた、全国スタートアップ・プラットフォームであ�
 
 ## デジタル・テクノロジー：MDECとMRANTI
 
-**MDEC**（マレーシアデジタル経済公社、Malaysia Digital Economy Corporation）はデジタル企業に資金を提供する。
+[**MDEC**](/ja/technology/mdec-digital-economy-corporation)（マレーシアデジタル経済公社、Malaysia Digital Economy Corporation）はデジタル企業に資金を提供する。
 
 - **Malaysia Digital Catalyst Grant（MDCG）** — 革新的なデジタルソリューションに共同で資金を提供する：**地場資本企業はプロジェクト費用の最大50%（外資系企業は30%）まで、上限RM100万**。マレーシア・デジタル認定（MD Status）の取得が必要である。
 - **Malaysia Digital Acceleration Grant（MDAG）** — より大規模な返済不要の助成金（最大70%／RM500万）であるが——**新規申請の受付は終了している**（申請期間は2023年に終了した）。いまだにこれを募集中として掲載しているブログがあっても無視してよい。

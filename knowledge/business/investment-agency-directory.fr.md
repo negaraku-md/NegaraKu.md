@@ -43,7 +43,7 @@ verificationNeeded:
   - "Confirmer si SEDIA, NCER et ECERDC détiennent une autorité d'approbation des permis d'expatrié équivalente à celle d'IRDA, ce qui n'a pas été établi"
 
 lang: "fr"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ Tout ce qui décide réellement si vous pouvez exercer se situe en aval.
 | **SSM** — Commission des sociétés de Malaisie | Registraire en vertu de la Companies Act 2016 | Constitution, le registre, les déclarations annuelles, le dépôt des états financiers. Aucun droit d'exercer. |
 | **MITI** — Ministère de l'Investissement, du Commerce et de l'Industrie | Ministère ; renommé depuis International Trade and Industry en **avril 2023** | La **licence de fabrication** en vertu de la Industrial Coordination Act 1975 est un instrument ministériel |
 | **MIDA** — Autorité malaisienne de développement des investissements | Agence de promotion des investissements de MITI | Reçoit, évalue et administre les demandes de licence de fabrication et d'exemption ; évaluation des incitatifs fiscaux ; publie les livrets d'investissement sectoriels |
-| **MDEC** — Malaysia Digital Economy Corporation | Relève du **Ministère du numérique** (créé le 12 décembre 2023) | Le statut Malaysia Digital, les directives de l'incitatif fiscal MD, DE Rantau ; l'agence d'approbation des expatriés pour les **TIC** |
+| [**MDEC**](/fr/technology/mdec-digital-economy-corporation) — Malaysia Digital Economy Corporation | Relève du **Ministère du numérique** (créé le 12 décembre 2023) | Le statut Malaysia Digital, les directives de l'incitatif fiscal MD, DE Rantau ; l'agence d'approbation des expatriés pour les **TIC** |
 | **KPDN** — [Ministère du Commerce intérieur et du Coût de la vie](/government/ministry-of-domestic-trade-kpdn) | Ministère | Participation étrangère dans le **commerce de distribution**, en vertu des Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia ; réglementation de la vente directe et de la franchise |
 | **ESD** — Division des services aux expatriés, Département de l'immigration | Relève du Ministère de l'Intérieur | Enregistrement de l'entreprise pour l'embauche d'expatriés, permis d'emploi, permis de visite professionnelle, permis de personne à charge, LTSVP |
 | **MyIPO** — Corporation de la propriété intellectuelle de Malaisie | Relève de MITI | Marques, brevets, dessins industriels, notification volontaire de droit d'auteur |

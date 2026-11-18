@@ -135,7 +135,7 @@ Jaminan "tiada penapisan internet" (jaminan ke-7) khususnya menjadi tonggak dasa
 
 ## Awal 2010-an: Digital Malaysia meluaskan mandat
 
-Menjelang awal dekad 2010-an, tumpuan dasar mula beralih daripada zon fizikal kepada seluruh ekonomi. Mandat agensi pelaksana — kini dikenali sebagai **Malaysia Digital Economy Corporation (MDEC)**, yang asal-usulnya kembali kepada penubuhan pada 1996 untuk memacu MSC — diperluas untuk memandu peralihan Malaysia ke arah ekonomi digital yang lebih menyeluruh melalui agenda **Digital Malaysia**.
+Menjelang awal dekad 2010-an, tumpuan dasar mula beralih daripada zon fizikal kepada seluruh ekonomi. Mandat agensi pelaksana — kini dikenali sebagai **[Malaysia Digital Economy Corporation (MDEC)](/technology/mdec-digital-economy-corporation)**, yang asal-usulnya kembali kepada penubuhan pada 1996 untuk memacu MSC — diperluas untuk memandu peralihan Malaysia ke arah ekonomi digital yang lebih menyeluruh melalui agenda **Digital Malaysia**.
 
 Perbezaan konsepnya penting: MSC memberi fokus kepada menarik syarikat ke dalam zon tertentu, manakala Digital Malaysia mula memikirkan bagaimana kerajaan, perniagaan dan rakyat di seluruh negara boleh menggunakan penyelesaian digital. Kedua-dua rangka kerja berjalan serentak di bawah MDEC selama beberapa tahun.
 

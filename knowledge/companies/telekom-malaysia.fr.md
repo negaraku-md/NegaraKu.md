@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "678b132c5368b3aa"
+sourceContentHash: "e98b7dba06ff74b9"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ TM organise ses opérations autour de marques destinées aux clients sous son p�
 
 L'importance de TM va au-delà de ses propres abonnés car elle possède une infrastructure que tout le secteur utilise. Son épine dorsale de fibre est le principal réseau longue distance reliant les villes et les États, et TM Global exploite les atterrages de câbles sous-marins de la Malaisie, qui relient le pays à l'Asie, au Moyen-Orient, à l'Europe et aux États-Unis. Comme indiqué au 31 janvier 2026, la portée de TM Global s'étendait sur 33 systèmes de câbles sous-marins totalisant environ 275 000 km, avec des stations d'atterrage de câbles comprenant une cinquième station à Morib, Selangor et une autre prévue à Kuala Sedili, Johor.
 
-TM est aussi un partenaire central de déploiement pour **JENDELA** (Jalinan Digital Negara), le plan national de connectivité numérique coordonné par la Commission malaisienne des communications et du multimédia (MCMC). JENDELA vise à étendre le haut débit par fibre et mobile dans tout le pays et à retirer les réseaux hérités, et le déploiement de la fibre de TM est l'un des plus grands contributeurs aux objectifs de locaux couverts. Parce qu'une si grande part du trafic national et de tiers circule sur le réseau de TM, l'entreprise fonctionne comme une pièce stratégique d'infrastructure publique autant que comme un opérateur commercial.
+TM est aussi un partenaire central de déploiement pour [**JENDELA**](/fr/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara), le plan national de connectivité numérique coordonné par la Commission malaisienne des communications et du multimédia (MCMC). JENDELA vise à étendre le haut débit par fibre et mobile dans tout le pays et à retirer les réseaux hérités, et le déploiement de la fibre de TM est l'un des plus grands contributeurs aux objectifs de locaux couverts. Parce qu'une si grande part du trafic national et de tiers circule sur le réseau de TM, l'entreprise fonctionne comme une pièce stratégique d'infrastructure publique autant que comme un opérateur commercial.
 
 ## Taille et importance
 

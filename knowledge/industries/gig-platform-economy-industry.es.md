@@ -31,7 +31,7 @@ faq:
   - q: ¿Es esto lo mismo que el artículo sobre la Ley de Trabajadores Gig?
     a: 'No. El artículo sobre la Ley de Trabajadores Gig de 2025 explica la ley en sí: derechos, contratos y el tribunal. Este artículo cubre el sector económico: qué tamaño tiene la economía gig y de plataformas, quiénes son las principales plataformas y cómo encaja en la economía digital más amplia.'
 lang: es
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ Durante la mayor parte de la historia del sector, el problema definitorio era qu
 
 **La cobertura de la SOCSO** es el soporte práctico. Los trabajadores gig pueden cotizar bajo la Ley de Seguridad Social para Autónomos de 2017, que proporciona protección contra accidentes laborales, discapacidad y riesgos relacionados; la información en torno a la nueva ley describe que las cotizaciones vinculadas a la plataforma (ampliamente citadas como una deducción del 1,25% por viaje o entrega) se vuelven obligatorias. La **cobertura de jubilación del EPF**, en cambio, sigue sin resolverse: varios análisis señalan que no se zanjó en la primera fase y aún está en estudio.
 
-**Una Comisión de la Economía Gig** —la Comisión Malasia de la Economía Gig, o SEGiM (Suruhanjaya Ekonomi Gig Malaysia)— fue aprobada por el Gabinete para supervisar el sector, coordinar la política y monitorear el cumplimiento de las plataformas, supuestamente situada bajo el Departamento del Primer Ministro con la Corporación de Economía Digital de Malasia como secretaría técnica. Su estado exacto en la gaceta y su mandato deben confirmarse con las fuentes oficiales.
+**Una Comisión de la Economía Gig** —la Comisión Malasia de la Economía Gig, o SEGiM (Suruhanjaya Ekonomi Gig Malaysia)— fue aprobada por el Gabinete para supervisar el sector, coordinar la política y monitorear el cumplimiento de las plataformas, supuestamente situada bajo el Departamento del Primer Ministro con la [Corporación de Economía Digital de Malasia](/es/technology/mdec-digital-economy-corporation/) como secretaría técnica. Su estado exacto en la gaceta y su mandato deben confirmarse con las fuentes oficiales.
 
 ## Las cuestiones sin resolver
 

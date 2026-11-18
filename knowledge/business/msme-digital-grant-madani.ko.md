@@ -33,7 +33,7 @@ faq:
     a: "아닙니다. 영구적으로 열려 있지 않습니다. 이 보조금은 고정된 정부 예산 배정으로 자금이 조달되며 열리고 닫히는 주기적 회차로 운영되므로, 이용 가능 여부는 현재 회차와 잔여 자금에 달려 있습니다. 2025년 규칙상 이미 디지털 매칭 보조금을 받은 사업체는 전자송장 솔루션을 제외하고는 일반적으로 다시 청구할 수 없습니다. 회차가 현재 열려 있는지와 정확한 조건을 항상 공식 BSN 또는 MDEC 포털에서 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ framework: explainer
 
 ## MSME Digital Grant MADANI란 무엇인가?
 
-말레이어로 **Geran Digital PMKS Madani(GDPM)**로 알려진 이것은, 소규모, 소기업 및 중기업이 일상 운영에서 디지털 서비스를 사용하도록 돕기 위해 **2025년 예산안** 하에 발표된 정부 이니셔티브입니다. **재무부(Ministry of Finance)**가 관리 은행인 **국민저축은행(Bank Simpanan Nasional, BSN)**, **말레이시아 디지털경제공사(MDEC)**, **말레이시아 통신멀티미디어위원회(Malaysian Communications and Multimedia Commission, MCMC)**와 협력하여 운영합니다.
+말레이어로 **Geran Digital PMKS Madani(GDPM)**로 알려진 이것은, 소규모, 소기업 및 중기업이 일상 운영에서 디지털 서비스를 사용하도록 돕기 위해 **2025년 예산안** 하에 발표된 정부 이니셔티브입니다. **재무부(Ministry of Finance)**가 관리 은행인 **국민저축은행(Bank Simpanan Nasional, BSN)**, [**말레이시아 디지털경제공사(MDEC)**](/ko/technology/mdec-digital-economy-corporation), **말레이시아 통신멀티미디어위원회(Malaysian Communications and Multimedia Commission, MCMC)**와 협력하여 운영합니다.
 
 설계는 의도적으로 단순합니다: BSN 자체의 표현을 빌리면, 정부는 "적격 PMKS가 디지털 서비스를 구독하는 것을 돕기 위해 청구서 금액의 최대 50% 또는 최대 RM5,000의 매칭 보조금"을 제공합니다. 이는 현금 지급이 아니라 실제 구매에 대한 보조금입니다 — 적격 도구를 실제로 도입해야만 혜택을 봅니다.
 

@@ -38,7 +38,7 @@ faq:
     a: "Mempekerjakan warga asing tanpa pas yang sah adalah pelanggaran di bawah Pasal 55B, yang membawa denda RM10,000 hingga RM50,000 atau penjara hingga 12 bulan bagi setiap pekerja. Merekrut lima atau lebih pekerja tanpa dokumen meningkatkan risiko penjara enam bulan hingga lima tahun dan kemungkinan cambukan."
 
 lang: "id"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -155,7 +155,7 @@ Setelah Anda diperbolehkan masuk, *pas* menentukan apa yang boleh Anda lakukan s
 | **Pas Lawatan Sosial Jangka Panjang (LTSVP)** | Masa tinggal keluarga yang lebih lama yang tidak dicakup Pas Tanggungan | Orang tua, anak yang lebih dewasa, pasangan tertentu |
 | **Pas Nomad DE Rantau** | Kerja jarak jauh untuk pemberi kerja atau klien asing | Digital nomad dan profesional jarak jauh yang memenuhi syarat |
 
-**Pas Nomad DE Rantau**, yang dikelola oleh Malaysia Digital Economy Corporation (MDEC), memperbolehkan pekerja jarak jauh yang memenuhi syarat menetap di Malaysia hingga 12 bulan dan dapat diperpanjang untuk 12 bulan lagi. Ambang pendapatan dan pengalaman minimum berlaku dan berbeda bagi peran teknologi dan bukan teknologi, jadi pastikan syarat perpanjangan dan kriteria kelayakan terkini di portal DE Rantau MDEC sebelum mengajukan permohonan.
+**Pas Nomad DE Rantau**, yang dikelola oleh [Malaysia Digital Economy Corporation (MDEC)](/id/technology/mdec-digital-economy-corporation), memperbolehkan pekerja jarak jauh yang memenuhi syarat menetap di Malaysia hingga 12 bulan dan dapat diperpanjang untuk 12 bulan lagi. Ambang pendapatan dan pengalaman minimum berlaku dan berbeda bagi peran teknologi dan bukan teknologi, jadi pastikan syarat perpanjangan dan kriteria kelayakan terkini di portal DE Rantau MDEC sebelum mengajukan permohonan.
 
 ## Berapa lama saya boleh bekerja dengan Pas Penggajian?
 

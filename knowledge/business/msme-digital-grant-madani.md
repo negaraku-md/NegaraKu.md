@@ -80,7 +80,7 @@ Here is how this grant *type* works, so you can judge whether it fits you and ac
 
 ## What is the MSME Digital Grant MADANI?
 
-Known in Malay as the **Geran Digital PMKS Madani** (GDPM), it is a government initiative announced under **Budget 2025** to help micro, small and medium enterprises use digital services in day-to-day operations. It is run by the **Ministry of Finance** in collaboration with **Bank Simpanan Nasional (BSN)** as the administering bank, the **Malaysia Digital Economy Corporation (MDEC)**, and the **Malaysian Communications and Multimedia Commission (MCMC)**.
+Known in Malay as the **Geran Digital PMKS Madani** (GDPM), it is a government initiative announced under **Budget 2025** to help micro, small and medium enterprises use digital services in day-to-day operations. It is run by the **Ministry of Finance** in collaboration with **Bank Simpanan Nasional (BSN)** as the administering bank, the [**Malaysia Digital Economy Corporation (MDEC)**](/technology/mdec-digital-economy-corporation), and the **Malaysian Communications and Multimedia Commission (MCMC)**.
 
 The design is deliberately simple: the government provides "a matching grant of up to 50% of the invoice amount or up to RM5,000 for eligible PMKS to assist them to subscribe to digital services," in BSN's own words. It is a subsidy on a real purchase, not a cash handout — you only benefit if you actually adopt a qualifying tool.
 

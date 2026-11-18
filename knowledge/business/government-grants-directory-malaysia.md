@@ -107,7 +107,7 @@ Cradle also anchors **MYStartup**, the national startup platform — more an umb
 
 ## Digital and technology: MDEC and MRANTI
 
-**MDEC** (Malaysia Digital Economy Corporation) funds digital businesses:
+[**MDEC**](/technology/mdec-digital-economy-corporation) (Malaysia Digital Economy Corporation) funds digital businesses:
 
 - **Malaysia Digital Catalyst Grant (MDCG)** — co-funds innovative digital solutions: **up to 50% of project cost for locally-owned companies (30% for foreign-owned), capped at RM1 million**. Requires Malaysia Digital status.
 - **Malaysia Digital Acceleration Grant (MDAG)** — a larger non-repayable grant (up to 70% / RM5 million) — but it is **closed to new applications** (the application window ended in 2023). Ignore any blog still listing it as open.

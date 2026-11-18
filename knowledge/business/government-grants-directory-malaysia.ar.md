@@ -33,7 +33,7 @@ faq:
     a: "اذهب إلى موقع الوكالة المديرة نفسه — كرادل، MDEC، MIDA، SME Corp، MTDC، MRANTI، MATRADE، HRD Corp — لا إلى قوائم الأطراف الثالثة، التي كثيراً ما تُبقي البرامج المغلقة مدرجةً بوصفها متاحة. وتدير الحكومة أيضاً دليلاً مجمَّعاً على بوابة التمويل الوطني MyStartup. ونوافذ المنح تتغيّر مع الموازنة السنوية، فأكّد الحالة الحالية قبل أن تستثمر وقتاً في طلب."
 
 lang: "ar"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -119,7 +119,7 @@ framework: data-reference
 
 ## الرقمي والتقني: MDEC وMRANTI
 
-تموّل **MDEC** (مؤسسة الاقتصاد الرقمي الماليزية) الأعمال الرقمية:
+تموّل [**MDEC**](/ar/technology/mdec-digital-economy-corporation) (مؤسسة الاقتصاد الرقمي الماليزية) الأعمال الرقمية:
 
 - **Malaysia Digital Catalyst Grant (MDCG)** — تشارك في تمويل الحلول الرقمية المبتكرة: **حتى 50% من
   كلفة المشروع للشركات المملوكة محلياً (30% للمملوكة لأجانب)، بسقف RM1 مليون**. وتتطلب وضع Malaysia

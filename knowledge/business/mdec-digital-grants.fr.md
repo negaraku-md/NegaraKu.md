@@ -33,7 +33,7 @@ faq:
     a: "La Malaysia Digital Economy Corporation (MDEC), l'agence gouvernementale qui promeut l'économie numérique de la Malaisie et administre le statut Malaysia Digital. MDEC relève du Ministère du Numérique (Ministry of Digital). Les demandes se font via la plateforme Malaysia Digital de MDEC, et MDEC évalue l'éligibilité, organise une séance de présentation (pitching) et approuve les attributions. Les questions sont adressées au canal de contact client de MDEC (clic@mdec.com.my)."
 
 lang: "fr"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Voici comment fonctionnent les deux subventions pour l'économie numérique de M
 
 ## Qui gère ces subventions, et pourquoi c'est important
 
-La **Malaysia Digital Economy Corporation (MDEC)** est l'agence gouvernementale qui promeut l'économie numérique de la Malaisie. Elle administre le **statut Malaysia Digital (MD)** et, par-dessus, un ensemble de subventions de cofinancement pour les entreprises numériques. MDEC relève du **Ministère du Numérique (Ministry of Digital)**.
+La [**Malaysia Digital Economy Corporation (MDEC)**](/fr/technology/mdec-digital-economy-corporation/) est l'agence gouvernementale qui promeut l'économie numérique de la Malaisie. Elle administre le **statut Malaysia Digital (MD)** et, par-dessus, un ensemble de subventions de cofinancement pour les entreprises numériques. MDEC relève du **Ministère du Numérique (Ministry of Digital)**.
 
 Cette ligne hiérarchique explique pourquoi les subventions et le statut sont indissociables. Les subventions de MDEC ne sont pas un fonds général pour petites entreprises — ce sont une incitation construite sur le statut MD, destinée aux **secteurs promus** de Malaysia Digital (agriculture numérique, services, villes, santé, finance, commerce, contenus, tourisme, économie numérique islamique) et aux **habilitateurs technologiques** (IA et mégadonnées, blockchain, nuage, cybersécurité, technologie des drones, IoT, robotique et XR, technologies des médias créatifs, conception de circuits intégrés et logiciels embarqués, connectivité réseau avancée). Si votre travail ne figure pas sur cette carte, ce ne sont pas vos subventions.
 

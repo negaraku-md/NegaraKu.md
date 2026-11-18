@@ -31,7 +31,7 @@ faq:
     a: "Sí. Un cónyuge o pareja de hecho, los hijos menores de 18 años, un hijo con discapacidad y los padres del titular principal pueden solicitarlo como dependientes, pero un cónyuge no puede trabajar bajo el pase."
 
 lang: "es"
-sourceContentHash: "4acc75e3a074b7b6"
+sourceContentHash: "ba8316561dc3caab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Si trabaja a distancia para un empleador o clientes radicados fuera de Malasia, 
 
 ## ¿Qué es el DE Rantau Nomad Pass?
 
-Es un tipo de **Pase de Visita Profesional** (*Pas Lawatan Ikhtisas*) diseñado por la **Corporación de Economía Digital de Malasia (MDEC)** para permitir que nómadas digitales extranjeros cualificados viajen y trabajen en Malasia. El rasgo que lo define es de dónde provienen sus ingresos. Los **solicitantes que trabajan a distancia** deben estar empleados por un empleador radicado en el extranjero, no por una empresa registrada en Malasia. Los **autónomos y contratistas independientes** trabajan de forma independiente con clientes radicados en el extranjero; según las preguntas frecuentes de MDEC, también pueden atender a clientes malasios, siempre que sigan cumpliendo los requisitos de elegibilidad e ingresos del pase.
+Es un tipo de **Pase de Visita Profesional** (*Pas Lawatan Ikhtisas*) diseñado por la **[Corporación de Economía Digital de Malasia (MDEC)](/es/technology/mdec-digital-economy-corporation/)** para permitir que nómadas digitales extranjeros cualificados viajen y trabajen en Malasia. El rasgo que lo define es de dónde provienen sus ingresos. Los **solicitantes que trabajan a distancia** deben estar empleados por un empleador radicado en el extranjero, no por una empresa registrada en Malasia. Los **autónomos y contratistas independientes** trabajan de forma independiente con clientes radicados en el extranjero; según las preguntas frecuentes de MDEC, también pueden atender a clientes malasios, siempre que sigan cumpliendo los requisitos de elegibilidad e ingresos del pase.
 
 ## ¿Quién cumple los requisitos y cuánto hay que ganar?
 

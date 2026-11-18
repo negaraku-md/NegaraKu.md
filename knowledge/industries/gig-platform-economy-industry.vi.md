@@ -31,7 +31,7 @@ faq:
   - q: Đây có giống bài viết về Đạo luật Lao động Gig không?
     a: "Không. Bài viết về Đạo luật Lao động Gig 2025 giải thích chính bản thân luật — quyền, hợp đồng và tòa án. Bài viết này bao quát khu vực kinh tế — kinh tế gig và nền tảng lớn đến đâu, ai là các nền tảng chính, và nó khớp vào nền kinh tế số rộng hơn ra sao."
 lang: vi
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ Trong phần lớn lịch sử của lĩnh vực, vấn đề định hình là 
 
 **Bảo hiểm SOCSO** là xương sống thực tế. Lao động gig có thể đóng góp theo Đạo luật An sinh Xã hội Tự doanh 2017, vốn cung cấp bảo vệ chống lại tai nạn tại nơi làm việc, khuyết tật và các rủi ro liên quan; việc đưa tin quanh luật mới mô tả các khoản đóng góp gắn với nền tảng (được dẫn rộng rãi là một khoản khấu trừ 1,25% mỗi chuyến hoặc lần giao) trở thành bắt buộc. Ngược lại, **bảo hiểm hưu trí EPF** vẫn chưa được giải quyết — nhiều phân tích lưu ý nó chưa được quyết trong giai đoạn đầu và vẫn đang được nghiên cứu.
 
-**Một Ủy ban Kinh tế Gig** — Ủy ban Kinh tế Gig Malaysia, hay SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — đã được Nội các phê duyệt để giám sát lĩnh vực, điều phối chính sách và theo dõi việc tuân thủ của nền tảng, được cho là nằm dưới Văn phòng Thủ tướng với Tổng công ty Kinh tế Số Malaysia làm ban thư ký kỹ thuật. Tình trạng công báo chính xác và nhiệm vụ của nó nên được xác nhận với các nguồn chính thức.
+**Một Ủy ban Kinh tế Gig** — Ủy ban Kinh tế Gig Malaysia, hay SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — đã được Nội các phê duyệt để giám sát lĩnh vực, điều phối chính sách và theo dõi việc tuân thủ của nền tảng, được cho là nằm dưới Văn phòng Thủ tướng với [Tổng công ty Kinh tế Số Malaysia](/vi/technology/mdec-digital-economy-corporation/) làm ban thư ký kỹ thuật. Tình trạng công báo chính xác và nhiệm vụ của nó nên được xác nhận với các nguồn chính thức.
 
 ## Các vấn đề chưa giải quyết
 

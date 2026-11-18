@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation（MDEC），即推广马来西亚数字经济并管理 Malaysia Digital 身份的政府机构。MDEC 隶属于数字部（Ministry of Digital）。申请通过 MDEC 的 Malaysia Digital 平台提交，MDEC 评估资格、举行路演，并批准授予。查询通过 MDEC 的客户联络渠道（clic@mdec.com.my）进行。"
 
 lang: "zh"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ framework: explainer
 
 ## 谁运作这些补助金，以及为何重要
 
-**Malaysia Digital Economy Corporation（MDEC）**是推广马来西亚数字经济的政府机构。它管理 **Malaysia Digital（MD）身份**，并在此之上为数字公司管理一套共同资助补助金。MDEC 隶属于**数字部（Ministry of Digital）**。
+[**Malaysia Digital Economy Corporation（MDEC）**](/zh/technology/mdec-digital-economy-corporation/)是推广马来西亚数字经济的政府机构。它管理 **Malaysia Digital（MD）身份**，并在此之上为数字公司管理一套共同资助补助金。MDEC 隶属于**数字部（Ministry of Digital）**。
 
 正是这条汇报线使补助金与身份密不可分。MDEC 的补助金不是一般的小企业基金——它是建立在 MD 身份之上的激励，面向 Malaysia Digital 的**重点推广领域**（数字农业、服务、城市、健康、金融、贸易、内容、旅游、伊斯兰数字经济）和**技术使能者**（AI 与大数据、区块链、云、网络安全、无人机技术、物联网、机器人与 XR、创意媒体技术、IC 设计与嵌入式软件、先进网络连接）。如果你的工作不在这张图里，这些就不是你的补助金。
 

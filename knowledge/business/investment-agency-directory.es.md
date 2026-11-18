@@ -43,7 +43,7 @@ verificationNeeded:
   - "Confirm whether SEDIA, NCER and ECERDC hold expatriate-pass approving authority equivalent to IRDA's, which was not established"
 
 lang: "es"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Todo lo que realmente decide si puede operar se sitúa aguas abajo.
 | **SSM** — Comisión de Sociedades de Malasia | Registrador bajo la Companies Act 2016 | Constitución, el registro, las declaraciones anuales, el depósito de estados financieros. Ningún derecho a operar. |
 | **MITI** — Ministerio de Inversión, Comercio e Industria | Ministerio; renombrado desde International Trade and Industry en **abril de 2023** | La **licencia de fabricación** bajo la Industrial Coordination Act 1975 es un instrumento ministerial |
 | **MIDA** — Autoridad de Desarrollo de la Inversión de Malasia | Agencia de promoción de inversiones de MITI | Recibe, evalúa y administra las solicitudes de licencia de fabricación y de exención; evaluación de incentivos fiscales; publica los folletos sectoriales de inversión |
-| **MDEC** — Corporación de la Economía Digital de Malasia | Bajo el **Ministerio Digital** (creado el 12 de diciembre de 2023) | Estatus de Malasia Digital, las directrices del Incentivo Fiscal MD, DE Rantau; la agencia aprobadora de expatriados para las **TIC** |
+| [**MDEC**](/es/technology/mdec-digital-economy-corporation) — Corporación de la Economía Digital de Malasia | Bajo el **Ministerio Digital** (creado el 12 de diciembre de 2023) | Estatus de Malasia Digital, las directrices del Incentivo Fiscal MD, DE Rantau; la agencia aprobadora de expatriados para las **TIC** |
 | **KPDN** — [Ministerio de Comercio Interior y Coste de Vida](/government/ministry-of-domestic-trade-kpdn) | Ministerio | Participación extranjera en el **comercio distributivo**, bajo las Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia; regulación de la venta directa y la franquicia |
 | **ESD** — División de Servicios para Expatriados, Departamento de Inmigración | Bajo el Ministerio del Interior | Registro de la empresa para la contratación de expatriados, Permiso de Empleo, Permiso de Visita Profesional, Permiso de Dependiente, LTSVP |
 | **MyIPO** — Corporación de Propiedad Intelectual de Malasia | Bajo MITI | Marcas, patentes, diseños industriales, notificación voluntaria de derechos de autor |

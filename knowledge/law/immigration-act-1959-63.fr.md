@@ -38,7 +38,7 @@ faq:
     a: "Employer un étranger sans passe valable est une infraction au titre de la Section 55B, passible d'une amende de RM10,000 à RM50,000 ou d'une peine de prison pouvant aller jusqu'à 12 mois pour chaque travailleur. Embaucher cinq travailleurs sans papiers ou plus porte l'exposition à une peine de prison de six mois à cinq ans et à d'éventuels coups de canne."
 
 lang: "fr"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -158,7 +158,7 @@ Une fois admis, la *passe* définit ce que vous pouvez faire légalement. Utilis
 | **Long-Term Social Visit Pass (LTSVP)** | Séjours familiaux plus longs non couverts par un Dependant Pass | Parents, enfants plus âgés, certains partenaires |
 | **DE Rantau Nomad Pass** | Travail à distance pour un employeur ou des clients étrangers | Nomades numériques et professionnels à distance éligibles |
 
-Le **DE Rantau Nomad Pass**, administré par la Corporation de l'économie numérique de la Malaisie (MDEC), permet aux travailleurs à distance qualifiés de s'installer en Malaisie pour une durée maximale de 12 mois et est renouvelable pour 12 mois supplémentaires. Des seuils minimaux de revenu et d'expérience s'appliquent et diffèrent selon qu'il s'agit de postes technologiques ou non technologiques, alors confirmez les conditions de renouvellement et les critères d'éligibilité en vigueur sur le portail DE Rantau de MDEC avant de postuler.
+Le **DE Rantau Nomad Pass**, administré par la [Corporation de l'économie numérique de la Malaisie (MDEC)](/fr/technology/mdec-digital-economy-corporation), permet aux travailleurs à distance qualifiés de s'installer en Malaisie pour une durée maximale de 12 mois et est renouvelable pour 12 mois supplémentaires. Des seuils minimaux de revenu et d'expérience s'appliquent et diffèrent selon qu'il s'agit de postes technologiques ou non technologiques, alors confirmez les conditions de renouvellement et les critères d'éligibilité en vigueur sur le portail DE Rantau de MDEC avant de postuler.
 
 ## Combien de temps puis-je travailler avec un Employment Pass ?
 

@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "678b132c5368b3aa"
+sourceContentHash: "e98b7dba06ff74b9"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ TM 围绕其技术服务臂膀之下面向客户的品牌来组织运营。
 
 TM 的重要性超越其自身的用户，因为它拥有整个行业都在使用的基础设施。其光纤骨干网是连接各城镇与各州的主要长途网络，而 TM Global 运营马来西亚的海底电缆登陆站，这些登陆站将该国连接至亚洲、中东、欧洲与美国。截至2026年1月31日所述，TM Global 的覆盖横跨33个海底电缆系统、合计约275,000公里，电缆登陆站包括雪兰莪 Morib 的第五座登陆站，以及柔佛 Kuala Sedili 另一座在规划中的登陆站。
 
-TM 也是 **JENDELA**（Jalinan Digital Negara，国家数码连接计划）的核心交付伙伴，这是由马来西亚通讯及多媒体委员会（MCMC）协调的国家数码连接计划。JENDELA 旨在将光纤与移动宽带扩展至全国，并退役旧有网络，而 TM 的光纤铺设是达成「已通过处所」目标的最大贡献者之一。由于如此多的国家与第三方流量都依附于 TM 的网络，这家公司既是一家商业运营商，也发挥着战略性公共基础设施的功能。
+TM 也是 [**JENDELA**](/zh/technology/5g-jendela-dnb-malaysia)（Jalinan Digital Negara，国家数码连接计划）的核心交付伙伴，这是由马来西亚通讯及多媒体委员会（MCMC）协调的国家数码连接计划。JENDELA 旨在将光纤与移动宽带扩展至全国，并退役旧有网络，而 TM 的光纤铺设是达成「已通过处所」目标的最大贡献者之一。由于如此多的国家与第三方流量都依附于 TM 的网络，这家公司既是一家商业运营商，也发挥着战略性公共基础设施的功能。
 
 ## 规模与重要性
 

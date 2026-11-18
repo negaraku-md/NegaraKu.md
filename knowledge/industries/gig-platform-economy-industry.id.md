@@ -31,7 +31,7 @@ faq:
   - q: Apakah ini sama dengan artikel Gig Workers Act?
     a: 'Tidak. Artikel Gig Workers Act 2025 menjelaskan undang-undangnya sendiri — hak, kontrak, dan tribunal. Artikel ini mencakup sektor ekonominya — seberapa besar ekonomi gig dan platform, siapa platform utamanya, dan bagaimana ia cocok dalam ekonomi digital yang lebih luas.'
 lang: id
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ Selama sebagian besar sejarah sektor ini, masalah yang mendefinisikannya adalah 
 
 **Cakupan SOCSO** adalah tulang punggung praktisnya. Pekerja gig dapat beriuran di bawah Self-Employment Social Security Act 2017, yang memberi perlindungan terhadap kecelakaan kerja, disabilitas, dan risiko terkait; pelaporan seputar Act baru ini menggambarkan iuran terkait platform (luas dikutip sebagai pemotongan 1,25% per tumpangan atau pengantaran) menjadi wajib. **Cakupan pensiun EPF**, sebaliknya, tetap belum terselesaikan — beberapa analisis mencatat ia tidak diselesaikan di fase pertama dan masih dikaji.
 
-**Komisi Ekonomi Gig** — Malaysian Gig Economy Commission, atau SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — disetujui Kabinet untuk mengawasi sektor ini, mengoordinasikan kebijakan, dan memantau kepatuhan platform, dilaporkan berada di bawah Departemen Perdana Menteri dengan Malaysia Digital Economy Corporation sebagai sekretariat teknis. Status pewartaan dan mandat persisnya sebaiknya dikonfirmasi terhadap sumber resmi.
+**Komisi Ekonomi Gig** — Malaysian Gig Economy Commission, atau SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — disetujui Kabinet untuk mengawasi sektor ini, mengoordinasikan kebijakan, dan memantau kepatuhan platform, dilaporkan berada di bawah Departemen Perdana Menteri dengan [Malaysia Digital Economy Corporation](/id/technology/mdec-digital-economy-corporation/) sebagai sekretariat teknis. Status pewartaan dan mandat persisnya sebaiknya dikonfirmasi terhadap sumber resmi.
 
 ## Isu yang belum terselesaikan
 

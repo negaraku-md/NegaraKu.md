@@ -39,7 +39,7 @@ faq:
     a: "The National AI Office (NAIO) is an agency under the Ministry of Digital that was approved by the Cabinet on 28 August 2024 and launched on 12 December 2024. It is responsible for formulating, planning, researching, coordinating and implementing the country's AI initiatives. According to the Tech For Good Institute, its responsibilities include leading the National AI Strategy expected to cover 2026-2030, as a continuation of the AI Roadmap 2021-2025; the strategy's official name and scope await confirmation from official documents."
 
 lang: "en"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ The "no internet censorship" guarantee (guarantee 7) in particular became a poli
 
 ## Early 2010s: Digital Malaysia broadens the mandate
 
-By the early years of the 2010s, the policy focus began to shift from physical zones to the whole economy. The mandate of the implementing agency — now known as the **Malaysia Digital Economy Corporation (MDEC)**, whose origins go back to a 1996 establishment to drive the MSC — was broadened to guide Malaysia's transition toward a more comprehensive digital economy through the **Digital Malaysia** agenda.
+By the early years of the 2010s, the policy focus began to shift from physical zones to the whole economy. The mandate of the implementing agency — now known as the **[Malaysia Digital Economy Corporation (MDEC)](/en/technology/mdec-digital-economy-corporation)**, whose origins go back to a 1996 establishment to drive the MSC — was broadened to guide Malaysia's transition toward a more comprehensive digital economy through the **Digital Malaysia** agenda.
 
 The conceptual difference matters: the MSC focused on attracting companies into specific zones, whereas Digital Malaysia began to consider how government, businesses and citizens across the country could use digital solutions. Both frameworks ran in parallel under MDEC for several years.
 

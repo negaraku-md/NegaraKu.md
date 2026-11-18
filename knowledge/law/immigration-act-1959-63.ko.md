@@ -38,7 +38,7 @@ faq:
     a: "유효한 패스 없이 외국인을 고용하는 것은 제55B조상 범죄로, 근로자 1인당 RM10,000에서 RM50,000의 벌금 또는 최대 12개월의 징역이 부과됩니다. 5인 이상의 미등록 근로자를 고용하면 6개월에서 5년의 징역과 태형 가능성으로 위험이 커집니다."
 
 lang: "ko"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -158,7 +158,7 @@ framework: rules
 | **장기사회방문패스(Long-Term Social Visit Pass, LTSVP)** | 동반가족패스로 다루어지지 않는 장기 가족 체류 | 부모, 성인 자녀, 특정 동반자 |
 | **DE Rantau 노마드패스(DE Rantau Nomad Pass)** | 외국인 고용주나 고객을 위한 원격 근무 | 적격 디지털 노마드 및 원격 전문가 |
 
-말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)가 관장하는 **DE Rantau 노마드패스**는 적격 원격 근무자가 최대 12개월간 말레이시아에 기반을 둘 수 있게 하며 추가 12개월 갱신이 가능합니다. 최소 소득 및 경력 기준이 적용되고 기술직과 비기술직에 따라 다르므로, 신청 전에 MDEC의 DE Rantau 포털에서 현행 갱신 조건과 자격 기준을 확인하십시오.
+[말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)](/ko/technology/mdec-digital-economy-corporation)가 관장하는 **DE Rantau 노마드패스**는 적격 원격 근무자가 최대 12개월간 말레이시아에 기반을 둘 수 있게 하며 추가 12개월 갱신이 가능합니다. 최소 소득 및 경력 기준이 적용되고 기술직과 비기술직에 따라 다르므로, 신청 전에 MDEC의 DE Rantau 포털에서 현행 갱신 조건과 자격 기준을 확인하십시오.
 
 ## 취업패스로 얼마나 오래 일할 수 있는가?
 

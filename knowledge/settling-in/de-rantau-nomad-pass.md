@@ -82,7 +82,7 @@ If you work remotely for an employer or clients based outside Malaysia, you can 
 
 ## What is the DE Rantau Nomad Pass?
 
-It is a type of **Professional Visit Pass** (*Pas Lawatan Ikhtisas*) designed by the **Malaysia Digital Economy Corporation (MDEC)** to let qualified foreign digital nomads travel and work in Malaysia. The defining feature is where your income comes from. **Remote-worker applicants** must be employed by a foreign-based employer — not a company registered in Malaysia. **Freelancers and independent contractors** work independently with foreign-based clients; per MDEC's FAQ, they may also serve Malaysian clients, provided they still meet the pass's eligibility and income requirements.
+It is a type of **Professional Visit Pass** (*Pas Lawatan Ikhtisas*) designed by the **[Malaysia Digital Economy Corporation (MDEC)](/technology/mdec-digital-economy-corporation)** to let qualified foreign digital nomads travel and work in Malaysia. The defining feature is where your income comes from. **Remote-worker applicants** must be employed by a foreign-based employer — not a company registered in Malaysia. **Freelancers and independent contractors** work independently with foreign-based clients; per MDEC's FAQ, they may also serve Malaysian clients, provided they still meet the pass's eligibility and income requirements.
 
 ## Who qualifies, and how much must you earn?
 

@@ -139,7 +139,7 @@ For most of the sector's history, the defining problem was that platform workers
 
 **SOCSO coverage** is the practical backbone. Gig workers can contribute under the Self-Employment Social Security Act 2017, which provides protection against workplace accidents, disability and related risks; reporting around the new Act describes platform-linked contributions (widely cited as a 1.25% deduction per ride or delivery) becoming mandatory. **EPF retirement coverage**, by contrast, remains unresolved — several analyses note it was not settled in the first phase and is still being studied.
 
-**A Gig Economy Commission** — the Malaysian Gig Economy Commission, or SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — was approved by the Cabinet to oversee the sector, coordinate policy and monitor platform compliance, reportedly sitting under the Prime Minister's Department with the Malaysia Digital Economy Corporation as technical secretariat. Its exact gazetted status and mandate should be confirmed against official sources.
+**A Gig Economy Commission** — the Malaysian Gig Economy Commission, or SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — was approved by the Cabinet to oversee the sector, coordinate policy and monitor platform compliance, reportedly sitting under the Prime Minister's Department with the [Malaysia Digital Economy Corporation](/technology/mdec-digital-economy-corporation/) as technical secretariat. Its exact gazetted status and mandate should be confirmed against official sources.
 
 ## The unresolved issues
 

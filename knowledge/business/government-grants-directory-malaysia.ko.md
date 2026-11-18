@@ -33,7 +33,7 @@ faq:
     a: "마감된 프로그램을 이용 가능한 것으로 계속 올려두는 경우가 잦은 제3자 목록 글이 아니라, 관장 기관의 자체 웹사이트 — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — 를 방문하십시오. 정부는 또한 MyStartup 국가 자금지원 포털에서 통합 디렉터리를 운영합니다. 보조금 기간은 연례 예산안과 함께 변경되므로, 신청에 시간을 들이기 전에 현행 상태를 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Cradle은 또한 국가 스타트업 플랫폼인 **MYStartup**의 중심 역할
 
 ## 디지털 및 기술: MDEC와 MRANTI
 
-**MDEC**(말레이시아 디지털경제공사, Malaysia Digital Economy Corporation)는 디지털 사업을 지원합니다:
+[**MDEC**](/ko/technology/mdec-digital-economy-corporation)(말레이시아 디지털경제공사, Malaysia Digital Economy Corporation)는 디지털 사업을 지원합니다:
 
 - **말레이시아 디지털 촉매 보조금(MDCG)** — 혁신적 디지털 솔루션을 공동 지원: **국내 소유 기업은 프로젝트 비용의 최대 50%(외국 소유는 30%), RM1백만 상한**. 말레이시아 디지털 지위가 필요합니다.
 - **말레이시아 디지털 가속 보조금(MDAG)** — 더 큰 규모의 상환 불필요 보조금(최대 70%/RM5백만) — 그러나 **신규 신청은 마감되었습니다**(신청 기간이 2023년에 종료). 여전히 열려 있다고 표시하는 블로그는 무시하십시오.

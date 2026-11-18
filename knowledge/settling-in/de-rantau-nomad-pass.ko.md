@@ -31,7 +31,7 @@ faq:
     a: "네. 배우자 또는 사실혼 배우자, 18세 미만 자녀, 장애 자녀, 그리고 주 소지자의 부모가 부양가족으로 신청할 수 있지만, 배우자는 이 패스로 일할 수 없습니다."
 
 lang: "ko"
-sourceContentHash: "4acc75e3a074b7b6"
+sourceContentHash: "ba8316561dc3caab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ stayFacts:
 
 ## DE Rantau 노마드 패스란 무엇입니까?
 
-이는 자격을 갖춘 외국인 디지털 노마드가 말레이시아에서 여행하며 일할 수 있도록 **말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)**가 설계한 **전문가 방문 패스**(*Pas Lawatan Ikhtisas*)의 한 유형입니다. 결정적인 특징은 소득이 어디에서 나오는가입니다. **원격근무 신청자**는 말레이시아에 등록된 회사가 아니라 해외 소재 고용주에게 고용되어 있어야 합니다. **프리랜서와 독립계약자**는 해외 소재 고객과 독립적으로 일하며, MDEC의 FAQ에 따르면 패스의 자격 및 소득 요건을 여전히 충족하는 한 말레이시아 고객에게도 서비스를 제공할 수 있습니다.
+이는 자격을 갖춘 외국인 디지털 노마드가 말레이시아에서 여행하며 일할 수 있도록 **[말레이시아 디지털경제공사(Malaysia Digital Economy Corporation, MDEC)](/ko/technology/mdec-digital-economy-corporation/)**가 설계한 **전문가 방문 패스**(*Pas Lawatan Ikhtisas*)의 한 유형입니다. 결정적인 특징은 소득이 어디에서 나오는가입니다. **원격근무 신청자**는 말레이시아에 등록된 회사가 아니라 해외 소재 고용주에게 고용되어 있어야 합니다. **프리랜서와 독립계약자**는 해외 소재 고객과 독립적으로 일하며, MDEC의 FAQ에 따르면 패스의 자격 및 소득 요건을 여전히 충족하는 한 말레이시아 고객에게도 서비스를 제공할 수 있습니다.
 
 ## 누가 자격이 있으며, 얼마를 벌어야 합니까?
 

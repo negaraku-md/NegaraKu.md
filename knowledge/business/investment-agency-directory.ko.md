@@ -43,7 +43,7 @@ verificationNeeded:
   - "SEDIA, NCER, ECERDC가 IRDA와 동등한 외국인 패스 승인 권한을 보유하는지 여부 — 확인되지 않았습니다"
 
 lang: "ko"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ SSM은 당신의 회사를 설립합니다. 지분 조건도, 최소 납입 자�
 | **SSM** — 말레이시아 기업위원회 | 회사법(Companies Act 2016)상의 등록관 | 설립, 등록부, 연차 보고서, 재무제표 제출. 거래 권리는 없음. |
 | **MITI** — 투자통상산업부 | 부처; **2023년 4월**에 국제통상산업부에서 개칭 | 산업조정법(Industrial Coordination Act 1975)에 따른 **제조 라이선스**는 장관 발급 수단 |
 | **MIDA** — 말레이시아 투자개발청 | MITI의 투자 진흥 기관 | 제조 라이선스 및 면제 신청의 접수, 평가 및 관리; 세제 인센티브 평가; 부문별 투자 책자 발간 |
-| **MDEC** — 말레이시아 디지털경제공사 | **디지털부(Ministry of Digital)** 산하(2023년 12월 12일 설립) | 말레이시아 디지털 지위, MD 세제 인센티브 지침, DE Rantau; **ICT**의 주재원 승인 기관 |
+| [**MDEC**](/ko/technology/mdec-digital-economy-corporation) — 말레이시아 디지털경제공사 | **디지털부(Ministry of Digital)** 산하(2023년 12월 12일 설립) | 말레이시아 디지털 지위, MD 세제 인센티브 지침, DE Rantau; **ICT**의 주재원 승인 기관 |
 | **KPDN** — [국내통상생활비부](/government/ministry-of-domestic-trade-kpdn) | 부처 | **유통업**의 외국인 참여, Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia에 따름; 직접판매 및 프랜차이즈 규제 |
 | **ESD** — 이민국 주재원서비스과 | 내무부 산하 | 주재원 채용을 위한 회사 등록, 취업 패스(Employment Pass), 전문직 방문 패스(Professional Visit Pass), 동반가족 패스(Dependant Pass), LTSVP |
 | **MyIPO** — 말레이시아 지식재산공사 | MITI 산하 | 상표, 특허, 산업디자인, 저작권 임의 통보 |

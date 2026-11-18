@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0a352a7bd7d5e1fc"
+sourceContentHash: "8f38aae81d9398ba"
 
 status: "published"
 aiAssisted: true
@@ -158,7 +158,7 @@ framework: rules
 | **長期社会訪問パス（Long-Term Social Visit Pass、LTSVP）** | 扶養家族パスの対象とならない、より長期の家族滞在 | 両親、年長の子、一部のパートナー |
 | **DE Rantau Nomad Pass** | 外国の雇用主又は顧客のためのリモートワーク | 対象となるデジタルノマド及びリモートワーカー |
 
-マレーシアデジタル経済公社（MDEC）が管理する**DE Rantau Nomad Pass**は、要件を満たすリモートワーカーがマレーシアを拠点として最長12か月間活動することを認め、さらに12か月の更新が可能である。最低収入及び経験に関するしきい値が適用され、テクノロジー職と非テクノロジー職とで異なるため、申請前にMDECのDE Rantauポータルで現行の更新条件及び資格要件を確認すること。
+[マレーシアデジタル経済公社（MDEC）](/ja/technology/mdec-digital-economy-corporation)が管理する**DE Rantau Nomad Pass**は、要件を満たすリモートワーカーがマレーシアを拠点として最長12か月間活動することを認め、さらに12か月の更新が可能である。最低収入及び経験に関するしきい値が適用され、テクノロジー職と非テクノロジー職とで異なるため、申請前にMDECのDE Rantauポータルで現行の更新条件及び資格要件を確認すること。
 
 ## エンプロイメントパスでどれだけの期間働けるか？
 

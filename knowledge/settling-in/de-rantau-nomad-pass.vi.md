@@ -31,7 +31,7 @@ faq:
     a: "Có. Vợ/chồng hoặc bạn đời chung sống, con dưới 18 tuổi, con khuyết tật, và cha mẹ của người giữ giấy phép chính có thể nộp đơn với tư cách người phụ thuộc, nhưng vợ/chồng không thể làm việc theo giấy phép này."
 
 lang: "vi"
-sourceContentHash: "4acc75e3a074b7b6"
+sourceContentHash: "ba8316561dc3caab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Nếu bạn làm việc từ xa cho một người sử dụng lao động hoặ
 
 ## DE Rantau Nomad Pass là gì?
 
-Đó là một loại **Giấy phép Thăm Chuyên môn** (*Pas Lawatan Ikhtisas*) do **Tập đoàn Kinh tế Số Malaysia (Malaysia Digital Economy Corporation, MDEC)** thiết kế để cho phép người du mục kỹ thuật số nước ngoài đủ điều kiện đi lại và làm việc tại Malaysia. Đặc điểm định danh là nơi thu nhập của bạn đến từ đâu. **Người nộp đơn là lao động từ xa** phải được một người sử dụng lao động có trụ sở ở nước ngoài thuê — chứ không phải một công ty đăng ký tại Malaysia. **Người làm nghề tự do và nhà thầu độc lập** làm việc độc lập với các khách hàng có trụ sở ở nước ngoài; theo FAQ của MDEC, họ cũng có thể phục vụ khách hàng Malaysia, miễn là vẫn đáp ứng các yêu cầu về điều kiện và thu nhập của giấy phép.
+Đó là một loại **Giấy phép Thăm Chuyên môn** (*Pas Lawatan Ikhtisas*) do **[Tập đoàn Kinh tế Số Malaysia (Malaysia Digital Economy Corporation, MDEC)](/vi/technology/mdec-digital-economy-corporation/)** thiết kế để cho phép người du mục kỹ thuật số nước ngoài đủ điều kiện đi lại và làm việc tại Malaysia. Đặc điểm định danh là nơi thu nhập của bạn đến từ đâu. **Người nộp đơn là lao động từ xa** phải được một người sử dụng lao động có trụ sở ở nước ngoài thuê — chứ không phải một công ty đăng ký tại Malaysia. **Người làm nghề tự do và nhà thầu độc lập** làm việc độc lập với các khách hàng có trụ sở ở nước ngoài; theo FAQ của MDEC, họ cũng có thể phục vụ khách hàng Malaysia, miễn là vẫn đáp ứng các yêu cầu về điều kiện và thu nhập của giấy phép.
 
 ## Ai đủ điều kiện, và bạn phải kiếm được bao nhiêu?
 

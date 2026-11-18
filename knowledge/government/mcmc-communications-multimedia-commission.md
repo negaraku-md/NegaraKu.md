@@ -221,7 +221,7 @@ IMT-2000 (3G), 900MHz dan 1800MHz yang digunakan oleh operator mudah alih.
 
 ## Peranan MCMC dalam sambungan negara: JENDELA dan 5G
 
-Di luar pengawalseliaan, MCMC turut menerajui dasar sambungan negara. JENDELA
+Di luar pengawalseliaan, MCMC turut menerajui dasar sambungan negara. [JENDELA](/technology/5g-jendela-dnb-malaysia)
 (Jalinan Digital Negara) ialah pelan berpimpin MCMC untuk memperluas liputan
 dan meningkatkan kualiti jalur lebar sambil menyediakan negara untuk 5G. Fasa 1
 (2020–2022) menyasarkan liputan 4G daripada 91.8% kepada 96.9% dan kelajuan

@@ -29,7 +29,7 @@ faq:
     a: "สองกรม (กรมดิจิทัลแห่งชาติและกรมคุ้มครองข้อมูลส่วนบุคคล) และสี่หน่วยงาน: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad และ MYNIC Berhad"
 
 lang: "th"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | กรมดิจิทัลแห่งชาติ (JDN) | กรม | การเปลี่ยนผ่านรัฐบาลดิจิทัล; ผลจากการปรับโครงสร้าง MAMPU |
 | กรมคุ้มครองข้อมูลส่วนบุคคล (JPDP) | กรม | บังคับใช้การคุ้มครองข้อมูลส่วนบุคคล |
-| Malaysia Digital Economy Corporation (MDEC) | หน่วยงาน | ขับเคลื่อนเศรษฐกิจดิจิทัลและการลงทุนดิจิทัล |
+| [Malaysia Digital Economy Corporation (MDEC)](/th/technology/mdec-digital-economy-corporation) | หน่วยงาน | ขับเคลื่อนเศรษฐกิจดิจิทัลและการลงทุนดิจิทัล |
 | CyberSecurity Malaysia (CSM) | หน่วยงาน | หน่วยงานเทคนิคด้านความมั่นคงปลอดภัยไซเบอร์แห่งชาติ |
 | Digital Nasional Berhad (DNB) | หน่วยงาน | โครงข่ายค้าส่งเดียว 5G ของประเทศ |
 | MYNIC Berhad | หน่วยงาน | ผู้ดูแลชื่อโดเมน `.my` |

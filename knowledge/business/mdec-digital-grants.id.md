@@ -33,7 +33,7 @@ faq:
     a: "Malaysia Digital Economy Corporation (MDEC), agensi pemerintah yang mempromosikan ekonomi digital Malaysia dan mengelola status Malaysia Digital. MDEC berada di bawah Kementerian Digital. Permohonan dibuat melalui platform Malaysia Digital MDEC, dan MDEC menilai kelayakan, menjalankan sesi presentasi, dan menyetujui anugerah. Pertanyaan dibuat melalui saluran hubungan pelanggan MDEC (clic@mdec.com.my)."
 
 lang: "id"
-sourceContentHash: "5428789a15a23f7a"
+sourceContentHash: "5c7d2d4dfac9e53f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,7 +87,7 @@ Berikut adalah cara dua hibah ekonomi digital MDEC bekerja — untuk apa masing-
 
 ## Siapa yang menjalankan hibah ini, dan mengapa ia penting
 
-**Malaysia Digital Economy Corporation (MDEC)** adalah agensi pemerintah yang mempromosikan ekonomi digital Malaysia. Ia mengelola **status Malaysia Digital (MD)** dan, di atas itu, satu set hibah pembiayaan bersama bagi perusahaan digital. MDEC berada di bawah **Kementerian Digital**.
+[**Malaysia Digital Economy Corporation (MDEC)**](/id/technology/mdec-digital-economy-corporation/) adalah agensi pemerintah yang mempromosikan ekonomi digital Malaysia. Ia mengelola **status Malaysia Digital (MD)** dan, di atas itu, satu set hibah pembiayaan bersama bagi perusahaan digital. MDEC berada di bawah **Kementerian Digital**.
 
 Garis pelaporan itulah sebab hibah dan status berpasangan erat. Hibah MDEC bukan dana usaha kecil umum — ia adalah insentif yang dibangun di atas status MD, ditujukan kepada **sektor yang didorong** Malaysia Digital (pertanian digital, layanan, kota, kesehatan, keuangan, perdagangan, konten, pariwisata, ekonomi digital Islam) dan **pemungkin teknologi** (AI dan big data, blockchain, cloud, keamanan siber, teknologi dron, IoT, robotika dan XR, teknologi media kreatif, desain IC dan perangkat lunak tertanam, konektivitas jaringan termaju). Jika pekerjaan Anda tidak berada dalam peta itu, ini bukan hibah Anda.
 

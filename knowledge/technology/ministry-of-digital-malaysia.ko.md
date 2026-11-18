@@ -29,7 +29,7 @@ faq:
     a: "두 개의 청(국가디지털청(Jabatan Digital Negara)과 개인정보보호청(Jabatan Perlindungan Data Peribadi))과 네 개의 기관: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad, MYNIC Berhad입니다."
 
 lang: "ko"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | 국가디지털청(JDN) | 청 | 디지털 정부 전환; MAMPU 재편 결과 |
 | 개인정보보호청(JPDP) | 청 | 개인정보 보호 집행 |
-| 말레이시아 디지털경제공사(MDEC) | 기관 | 디지털 경제 및 디지털 투자 견인 |
+| [말레이시아 디지털경제공사(MDEC)](/ko/technology/mdec-digital-economy-corporation) | 기관 | 디지털 경제 및 디지털 투자 견인 |
 | CyberSecurity Malaysia(CSM) | 기관 | 국가 사이버보안 기술 기구 |
 | Digital Nasional Berhad(DNB) | 기관 | 국가 5G 단일 도매 네트워크 |
 | MYNIC Berhad | 기관 | `.my` 도메인 관리자 |

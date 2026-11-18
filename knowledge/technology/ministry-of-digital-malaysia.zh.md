@@ -29,7 +29,7 @@ faq:
     a: "两个部门（国家数字局与个人资料保护局）以及四个机构：MDEC、马来西亚网络安全机构（CyberSecurity Malaysia）、国家数字有限公司（Digital Nasional Berhad）和MYNIC有限公司。"
 
 lang: "zh"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | 国家数字局（JDN） | 部门 | 数字政府转型；由MAMPU重组而来 |
 | 个人资料保护局（JPDP） | 部门 | 执行个人资料保护 |
-| 马来西亚数字经济机构（MDEC） | 机构 | 推动数字经济与数字投资 |
+| [马来西亚数字经济机构（MDEC）](/zh/technology/mdec-digital-economy-corporation) | 机构 | 推动数字经济与数字投资 |
 | 马来西亚网络安全机构（CSM） | 机构 | 国家网络安全技术机构 |
 | 国家数字有限公司（DNB） | 机构 | 国家单一5G批发网络 |
 | MYNIC有限公司 | 机构 | `.my` 域名管理者 |

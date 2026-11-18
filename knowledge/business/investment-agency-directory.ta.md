@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 
 status: "published"
 aiAssisted: true
@@ -121,7 +121,7 @@ SSM உங்கள் நிறுவனத்தைப் பதிவு ச�
 | **SSM** — மலேசிய நிறுவனங்கள் ஆணையம் (Companies Commission of Malaysia) | Companies Act 2016 இன் கீழான பதிவாளர் | நிறுவனப் பதிவு, பதிவேடு, ஆண்டு அறிக்கைகள், நிதி அறிக்கை தாக்கல். எந்த வணிக உரிமையும் இல்லை. |
 | **MITI** — முதலீடு, வர்த்தகம் மற்றும் தொழில்துறை அமைச்சு (Ministry of Investment, Trade and Industry) | அமைச்சு; **2023 ஏப்ரலில்** International Trade and Industry என்பதிலிருந்து மறுபெயரிடப்பட்டது | Industrial Coordination Act 1975 இன் கீழான **உற்பத்தி உரிமம்** ஒரு அமைச்சர் அளவிலான சட்டக்கருவி |
 | **MIDA** — மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (Malaysian Investment Development Authority) | MITI-யின் முதலீட்டு ஊக்குவிப்பு நிறுவனம் | உற்பத்தி உரிமம் மற்றும் விலக்கு விண்ணப்பங்களைப் பெற்று, மதிப்பீடு செய்து, நிர்வகிக்கிறது; வரிச் சலுகை மதிப்பீடு; துறை சார்ந்த முதலீட்டு கையேடுகளை வெளியிடுகிறது |
-| **MDEC** — மலேசிய டிஜிட்டல் பொருளாதாரக் கழகம் (Malaysia Digital Economy Corporation) | **டிஜிட்டல் அமைச்சின் (Ministry of Digital)** கீழ் (2023 டிசம்பர் 12 அன்று நிறுவப்பட்டது) | Malaysia Digital status, MD Tax Incentive வழிகாட்டுதல்கள், DE Rantau; **ICT** துறைக்கான வெளிநாட்டு ஊழியர் அங்கீகார நிறுவனம் |
+| [**MDEC**](/ta/technology/mdec-digital-economy-corporation) — மலேசிய டிஜிட்டல் பொருளாதாரக் கழகம் (Malaysia Digital Economy Corporation) | **டிஜிட்டல் அமைச்சின் (Ministry of Digital)** கீழ் (2023 டிசம்பர் 12 அன்று நிறுவப்பட்டது) | Malaysia Digital status, MD Tax Incentive வழிகாட்டுதல்கள், DE Rantau; **ICT** துறைக்கான வெளிநாட்டு ஊழியர் அங்கீகார நிறுவனம் |
 | **KPDN** — [உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு](/ta/government/ministry-of-domestic-trade-kpdn) | அமைச்சு | Garis Panduan Penyertaan Asing dalam Sektor Perdagangan Pengedaran di Malaysia இன் கீழ் **விநியோக வர்த்தகத்தில்** வெளிநாட்டு பங்கேற்பு; நேரடி விற்பனை மற்றும் உரிமையம் (franchise) ஒழுங்குமுறை |
 | **ESD** — வெளிநாட்டு ஊழியர் சேவைப் பிரிவு (Expatriate Services Division), குடிவரவுத் துறை | உள்துறை அமைச்சின் (Ministry of Home Affairs) கீழ் | வெளிநாட்டு ஊழியரை பணியமர்த்துவதற்கான நிறுவனப் பதிவு, Employment Pass, Professional Visit Pass, Dependant Pass, LTSVP |
 | **MyIPO** — மலேசிய அறிவுசார் சொத்துக் கழகம் (Intellectual Property Corporation of Malaysia) | MITI-யின் கீழ் | வர்த்தக முத்திரைகள், காப்புரிமைகள், தொழில்துறை வடிவமைப்புகள், பதிப்புரிமை தன்னார்வ அறிவிப்பு |

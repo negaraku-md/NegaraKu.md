@@ -33,7 +33,7 @@ faq:
     a: "Tidak, ia tidak dibuka secara permanen. Hibah ini dibiayai dari alokasi anggaran pemerintah yang tetap dan berjalan dalam putaran berkala yang dibuka dan ditutup, jadi ketersediaannya bergantung pada siklus terkini dan sisa dana. Di bawah aturan 2025, usaha yang telah menerima hibah pendamping digital secara umum tidak dapat menuntut lagi, kecuali bagi solusi e-invois. Selalu pastikan apakah suatu putaran sedang dibuka, dan ketentuan tepatnya, di portal resmi BSN atau MDEC."
 
 lang: "id"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,7 +81,7 @@ Berikut adalah cara kerja *jenis* hibah ini, agar Anda dapat menilai apakah ia c
 
 ## Apa itu Geran Digital PMKS Madani?
 
-Dikenal dalam bahasa Melayu sebagai **Geran Digital PMKS Madani** (GDPM), ia adalah inisiatif pemerintah yang diumumkan di bawah **Anggaran 2025** untuk membantu perusahaan mikro, kecil, dan menengah menggunakan layanan digital dalam operasi harian. Ia dikelola oleh **Kementerian Keuangan** bekerja sama dengan **Bank Simpanan Nasional (BSN)** sebagai bank pengelola, **Malaysia Digital Economy Corporation (MDEC)**, dan **Komisi Komunikasi dan Multimedia Malaysia (MCMC)**.
+Dikenal dalam bahasa Melayu sebagai **Geran Digital PMKS Madani** (GDPM), ia adalah inisiatif pemerintah yang diumumkan di bawah **Anggaran 2025** untuk membantu perusahaan mikro, kecil, dan menengah menggunakan layanan digital dalam operasi harian. Ia dikelola oleh **Kementerian Keuangan** bekerja sama dengan **Bank Simpanan Nasional (BSN)** sebagai bank pengelola, [**Malaysia Digital Economy Corporation (MDEC)**](/id/technology/mdec-digital-economy-corporation), dan **Komisi Komunikasi dan Multimedia Malaysia (MCMC)**.
 
 Desainnya sengaja dibuat sederhana: pemerintah menyediakan "hibah pendamping hingga 50% dari jumlah faktur atau hingga RM5,000 bagi PMKS yang layak untuk membantu mereka berlangganan layanan digital," dalam kata-kata BSN sendiri. Ia adalah subsidi atas pembelian sebenar, bukan pemberian tunai — Anda hanya mendapat manfaat jika Anda benar-benar menggunakan alat yang layak.
 

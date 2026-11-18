@@ -33,7 +33,7 @@ faq:
     a: "Kunjungi situs web agensi pengelola sendiri — Cradle, MDEC, MIDA, SME Corp, MTDC, MRANTI, MATRADE, HRD Corp — dan bukan daftar pihak ketiga, yang kerap mempertahankan program yang telah ditutup sebagai masih tersedia. Pemerintah juga mengelola direktori teragregasi di portal pembiayaan nasional MyStartup. Masa hibah berubah bersama Anggaran tahunan, jadi pastikan status terkini sebelum Anda menginvestasikan waktu dalam permohonan."
 
 lang: "id"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,7 +108,7 @@ Cradle juga menaungi **MYStartup**, platform perusahaan rintisan nasional — le
 
 ## Digital dan teknologi: MDEC dan MRANTI
 
-**MDEC** (Malaysia Digital Economy Corporation) membiayai bisnis digital:
+[**MDEC**](/id/technology/mdec-digital-economy-corporation) (Malaysia Digital Economy Corporation) membiayai bisnis digital:
 
 - **Malaysia Digital Catalyst Grant (MDCG)** — membiayai bersama solusi digital inovatif: **hingga 50% biaya proyek untuk perusahaan milik lokal (30% untuk milik asing), dibatasi pada RM1 juta**. Memerlukan status Malaysia Digital.
 - **Malaysia Digital Acceleration Grant (MDAG)** — hibah yang lebih besar dan tidak perlu dibayar kembali (hingga 70% / RM5 juta) — tetapi ia **ditutup bagi permohonan baru** (masa permohonan berakhir pada 2023). Abaikan blog mana pun yang masih mencantumkannya sebagai dibuka.

@@ -31,7 +31,7 @@ faq:
   - q: "Adakah industri angkasa Malaysia berbeza daripada industri aeroangkasanya?"
     a: "Ya. Industri aeroangkasa merangkumi penerbangan, penyelenggaraan, pembaikan dan baik pulih (MRO) serta struktur udara untuk pesawat. Industri angkasa merangkumi satelit, pelancaran, kawal selia angkasa serta perkhidmatan hiliran seperti komunikasi satelit dan penderiaan jauh."
 lang: ms
-sourceContentHash: "9618715d572865bf"
+sourceContentHash: "c74b519cf5166ca0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ Hala tuju dasar datang daripada **Dasar Angkasa Negara 2030** (DAN2030), yang di
 
 Warisan angkasa Malaysia yang praktikal bermula dengan satelit kecil yang dibina melalui pemindahan teknologi. **TiungSAT-1**, mikrosatelit pertama negara, dilancarkan pada 2000 dan dibangunkan bersama Surrey Satellite Technology United Kingdom, memberikan satu generasi jurutera Malaysia pengalaman membina secara langsung. Ia diikuti oleh **RazakSAT**, satelit pemerhatian bumi yang diletakkan dalam orbit hampir-khatulistiwa pada 2009 menaiki SpaceX Falcon 1 — misi yang ketara, walaupun satelit itu gagal selepas kira-kira setahun, satu pengajaran yang menginsafkan tentang kesukaran mengendalikan aset angkasa.
 
-Tulang belakang komersial sektor ini ialah **MEASAT**, pengendali satelit utama Malaysia. Melalui Measat Satellite Systems, ia mengendalikan armada satelit komunikasi dari slot orbit 91.5 darjah Timur. Pesawat paling berupaya, **MEASAT-3d**, dilancarkan pada Jun 2022 — satelit MEASAT kelapan — menaiki Ariane 5 dari French Guiana. Satelit pemprosesan tinggi yang dianggarkan sekitar US$273 juta, ia membawa pelbagai jalur frekuensi dan disasarkan tepat untuk meluaskan jalur lebar berkelajuan tinggi ke luar bandar dan Malaysia Timur di bawah pelan ketersambungan JENDELA negara, bersama televisyen terus-ke-rumah. MEASAT mengikat sektor angkasa secara langsung dengan [industri telekomunikasi](/industries/telecommunications-industry/): banyak aktiviti satelit Malaysia wujud untuk menyampaikan ketersambungan di bumi.
+Tulang belakang komersial sektor ini ialah **MEASAT**, pengendali satelit utama Malaysia. Melalui Measat Satellite Systems, ia mengendalikan armada satelit komunikasi dari slot orbit 91.5 darjah Timur. Pesawat paling berupaya, **MEASAT-3d**, dilancarkan pada Jun 2022 — satelit MEASAT kelapan — menaiki Ariane 5 dari French Guiana. Satelit pemprosesan tinggi yang dianggarkan sekitar US$273 juta, ia membawa pelbagai jalur frekuensi dan disasarkan tepat untuk meluaskan jalur lebar berkelajuan tinggi ke luar bandar dan Malaysia Timur di bawah pelan ketersambungan [JENDELA](/technology/5g-jendela-dnb-malaysia/) negara, bersama televisyen terus-ke-rumah. MEASAT mengikat sektor angkasa secara langsung dengan [industri telekomunikasi](/industries/telecommunications-industry/): banyak aktiviti satelit Malaysia wujud untuk menyampaikan ketersambungan di bumi.
 
 ## Program angkasawan
 

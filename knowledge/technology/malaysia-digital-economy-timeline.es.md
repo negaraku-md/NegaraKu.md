@@ -39,7 +39,7 @@ faq:
     a: "La Oficina Nacional de IA (NAIO) es una agencia del Ministerio de Digital que fue aprobada por el Gabinete el 28 de agosto de 2024 y lanzada el 12 de diciembre de 2024. Es responsable de formular, planificar, investigar, coordinar e implementar las iniciativas de IA del país. Según el Tech For Good Institute, sus responsabilidades incluyen liderar la Estrategia Nacional de IA que se espera que abarque 2026-2030, como continuación de la Hoja de Ruta de IA 2021-2025; el nombre oficial y el alcance de la estrategia esperan confirmación de documentos oficiales."
 
 lang: "es"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ La garantía de «no censura de internet» (garantía 7) en particular se convir
 
 ## Principios de la década de 2010: Digital Malaysia amplía el mandato
 
-En los primeros años de la década de 2010, el enfoque de la política empezó a desplazarse de las zonas físicas a toda la economía. El mandato de la agencia ejecutora — hoy conocida como la **Malaysia Digital Economy Corporation (MDEC)**, cuyos orígenes se remontan a una creación de 1996 para impulsar el MSC — se amplió para guiar la transición de Malasia hacia una economía digital más integral a través de la agenda **Digital Malaysia**.
+En los primeros años de la década de 2010, el enfoque de la política empezó a desplazarse de las zonas físicas a toda la economía. El mandato de la agencia ejecutora — hoy conocida como la **[Malaysia Digital Economy Corporation (MDEC)](/es/technology/mdec-digital-economy-corporation)**, cuyos orígenes se remontan a una creación de 1996 para impulsar el MSC — se amplió para guiar la transición de Malasia hacia una economía digital más integral a través de la agenda **Digital Malaysia**.
 
 La diferencia conceptual importa: el MSC se centraba en atraer empresas a zonas específicas, mientras que Digital Malaysia comenzó a considerar cómo el gobierno, las empresas y los ciudadanos de todo el país podían usar soluciones digitales. Ambos marcos funcionaron en paralelo bajo MDEC durante varios años.
 

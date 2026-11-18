@@ -31,7 +31,7 @@ faq:
   - q: "Est-ce la même chose que l'article sur le Gig Workers Act ?"
     a: "Non. L'article sur le Gig Workers Act 2025 explique la loi elle-même — droits, contrats et tribunal. Cet article couvre le secteur économique — quelle est la taille de l'économie du gig et des plateformes, qui sont les principales plateformes, et comment elle s'insère dans l'économie numérique au sens large."
 lang: fr
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ Pendant la majeure partie de l'histoire du secteur, le problème déterminant é
 
 **La couverture SOCSO** est l'épine dorsale pratique. Les travailleurs du gig peuvent cotiser en vertu du Self-Employment Social Security Act 2017, qui offre une protection contre les accidents du travail, l'invalidité et les risques connexes ; les reportages autour de la nouvelle loi décrivent des cotisations liées aux plateformes (largement citées comme une déduction de 1,25 % par course ou livraison) devenant obligatoires. **La couverture retraite de l'EPF**, en revanche, reste en suspens — plusieurs analyses notent qu'elle n'a pas été réglée dans la première phase et fait encore l'objet d'études.
 
-**Une Commission de l'économie du gig** — la Malaysian Gig Economy Commission, ou SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — a été approuvée par le Cabinet pour superviser le secteur, coordonner la politique et surveiller la conformité des plateformes, rattachée selon les rapports au Département du Premier ministre avec la Malaysia Digital Economy Corporation comme secrétariat technique. Son statut exact au journal officiel et son mandat devraient être confirmés auprès de sources officielles.
+**Une Commission de l'économie du gig** — la Malaysian Gig Economy Commission, ou SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — a été approuvée par le Cabinet pour superviser le secteur, coordonner la politique et surveiller la conformité des plateformes, rattachée selon les rapports au Département du Premier ministre avec la [Malaysia Digital Economy Corporation](/fr/technology/mdec-digital-economy-corporation/) comme secrétariat technique. Son statut exact au journal officiel et son mandat devraient être confirmés auprès de sources officielles.
 
 ## Les questions non résolues
 

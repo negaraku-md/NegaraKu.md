@@ -31,7 +31,7 @@ faq:
   - q: "马来西亚的太空产业与其航空航天产业有区别吗？"
     a: "是的。航空航天产业涵盖航空、维护、修理和大修 (MRO) 以及飞机机体结构。太空产业涵盖卫星、发射、太空监管以及卫星通信和遥感等下游服务。"
 lang: zh
-sourceContentHash: "9618715d572865bf"
+sourceContentHash: "c74b519cf5166ca0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ framework: profile
 
 马来西亚的实操太空传承始于通过技术转让建造的小型卫星。**TiungSAT-1**，该国首颗微型卫星，于2000年发射，与英国的Surrey Satellite Technology合作研发，使一代马来西亚工程师获得了直接的建造经验。随后是**RazakSAT**，一颗对地观测卫星，于2009年搭乘SpaceX Falcon 1被送入近赤道轨道——这是一次值得注意的任务，尽管该卫星在约一年后失效，成为运营太空资产之艰难的一个发人深省的教训。
 
-该领域的商业支柱是**MEASAT**，马来西亚的主要卫星运营商。通过Measat Satellite Systems，它从东经91.5度轨道位置运营一支通信卫星机队。其性能最强的卫星**MEASAT-3d**于2022年6月发射——这是第八颗MEASAT卫星——从法属圭亚那搭乘Ariane 5升空。作为一颗估计造价约2.73亿美元的高通量卫星，它搭载多个频段，目标明确地指向在国家JENDELA连接计划下将高速宽带延伸至乡村和东马，同时提供直播到户电视。MEASAT将太空领域直接与[电信产业](/zh/industries/telecommunications-industry/)联系起来：马来西亚的大部分卫星活动都是为了在地面提供连接而存在的。
+该领域的商业支柱是**MEASAT**，马来西亚的主要卫星运营商。通过Measat Satellite Systems，它从东经91.5度轨道位置运营一支通信卫星机队。其性能最强的卫星**MEASAT-3d**于2022年6月发射——这是第八颗MEASAT卫星——从法属圭亚那搭乘Ariane 5升空。作为一颗估计造价约2.73亿美元的高通量卫星，它搭载多个频段，目标明确地指向在国家[JENDELA](/zh/technology/5g-jendela-dnb-malaysia/)连接计划下将高速宽带延伸至乡村和东马，同时提供直播到户电视。MEASAT将太空领域直接与[电信产业](/zh/industries/telecommunications-industry/)联系起来：马来西亚的大部分卫星活动都是为了在地面提供连接而存在的。
 
 ## 宇航员计划
 

@@ -29,7 +29,7 @@ faq:
     a: "दो विभाग (राष्ट्रीय डिजिटल विभाग और व्यक्तिगत डेटा संरक्षण विभाग) और चार एजेंसियाँ: MDEC, CyberSecurity Malaysia, Digital Nasional Berhad और MYNIC Berhad।"
 
 lang: "hi"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: profile
 | --- | --- | --- |
 | राष्ट्रीय डिजिटल विभाग (JDN) | विभाग | डिजिटल सरकार का रूपांतरण; MAMPU के पुनर्गठन का परिणाम |
 | व्यक्तिगत डेटा संरक्षण विभाग (JPDP) | विभाग | व्यक्तिगत डेटा संरक्षण को लागू करता है |
-| Malaysia Digital Economy Corporation (MDEC) | एजेंसी | डिजिटल अर्थव्यवस्था और डिजिटल निवेश को आगे बढ़ाती है |
+| [Malaysia Digital Economy Corporation (MDEC)](/hi/technology/mdec-digital-economy-corporation) | एजेंसी | डिजिटल अर्थव्यवस्था और डिजिटल निवेश को आगे बढ़ाती है |
 | CyberSecurity Malaysia (CSM) | एजेंसी | राष्ट्रीय तकनीकी साइबर सुरक्षा निकाय |
 | Digital Nasional Berhad (DNB) | एजेंसी | देश का एकल 5G थोक नेटवर्क |
 | MYNIC Berhad | एजेंसी | `.my` डोमेन नाम का प्रशासक |

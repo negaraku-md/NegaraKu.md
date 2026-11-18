@@ -31,7 +31,7 @@ faq:
   - q: "Ngành vũ trụ của Malaysia có khác với ngành hàng không vũ trụ của nước này không?"
     a: "Có. Ngành hàng không vũ trụ bao gồm hàng không, bảo trì, sửa chữa và đại tu (MRO) và kết cấu máy bay. Ngành vũ trụ bao gồm vệ tinh, phóng, điều tiết vũ trụ và các dịch vụ hạ nguồn như viễn thông vệ tinh và viễn thám."
 lang: vi
-sourceContentHash: "9618715d572865bf"
+sourceContentHash: "c74b519cf5166ca0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ Trong phần lớn lịch sử của mình, hoạt động vũ trụ của Malay
 
 Di sản vũ trụ thực hành của Malaysia bắt đầu với các vệ tinh nhỏ được chế tạo qua chuyển giao công nghệ. **TiungSAT-1**, vi vệ tinh đầu tiên của đất nước, phóng năm 2000 và được phát triển cùng Surrey Satellite Technology của Vương quốc Anh, mang lại cho một thế hệ kỹ sư Malaysia kinh nghiệm chế tạo trực tiếp. Theo sau là **RazakSAT**, một vệ tinh quan sát Trái Đất được đặt trên một quỹ đạo gần xích đạo năm 2009 trên tên lửa SpaceX Falcon 1 — một sứ mệnh đáng chú ý, dù vệ tinh hỏng sau khoảng một năm, một bài học tỉnh táo về mức độ khó khăn của việc vận hành các tài sản vũ trụ.
 
-Xương sống thương mại của ngành là **MEASAT**, nhà khai thác vệ tinh chính của Malaysia. Thông qua Measat Satellite Systems, hãng vận hành một đội vệ tinh viễn thông từ vị trí quỹ đạo 91,5 độ Đông. Con tàu có năng lực nhất của hãng, **MEASAT-3d**, phóng vào tháng 6 năm 2022 — vệ tinh MEASAT thứ tám — trên tên lửa Ariane 5 từ Guiana thuộc Pháp. Là một vệ tinh thông lượng cao ước tính khoảng US$273 triệu, nó mang nhiều băng tần và được nhắm thẳng vào việc mở rộng băng rộng tốc độ cao vào nông thôn và Đông Malaysia theo kế hoạch kết nối quốc gia JENDELA, cùng với truyền hình trực tiếp tới nhà. MEASAT gắn ngành vũ trụ trực tiếp với [ngành viễn thông](/vi/industries/telecommunications-industry/): phần lớn hoạt động vệ tinh của Malaysia tồn tại để cung cấp kết nối trên mặt đất.
+Xương sống thương mại của ngành là **MEASAT**, nhà khai thác vệ tinh chính của Malaysia. Thông qua Measat Satellite Systems, hãng vận hành một đội vệ tinh viễn thông từ vị trí quỹ đạo 91,5 độ Đông. Con tàu có năng lực nhất của hãng, **MEASAT-3d**, phóng vào tháng 6 năm 2022 — vệ tinh MEASAT thứ tám — trên tên lửa Ariane 5 từ Guiana thuộc Pháp. Là một vệ tinh thông lượng cao ước tính khoảng US$273 triệu, nó mang nhiều băng tần và được nhắm thẳng vào việc mở rộng băng rộng tốc độ cao vào nông thôn và Đông Malaysia theo kế hoạch kết nối quốc gia [JENDELA](/vi/technology/5g-jendela-dnb-malaysia/), cùng với truyền hình trực tiếp tới nhà. MEASAT gắn ngành vũ trụ trực tiếp với [ngành viễn thông](/vi/industries/telecommunications-industry/): phần lớn hoạt động vệ tinh của Malaysia tồn tại để cung cấp kết nối trên mặt đất.
 
 ## Chương trình angkasawan
 

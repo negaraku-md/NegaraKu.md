@@ -31,7 +31,7 @@ faq:
   - q: क्या यह Gig Workers Act वाले लेख के समान है?
     a: "नहीं। Gig Workers Act 2025 वाला लेख कानून को ही समझाता है — अधिकार, अनुबंध और अधिकरण। यह लेख आर्थिक क्षेत्र को समेटता है — गिग एवं प्लेटफ़ॉर्म अर्थव्यवस्था कितनी बड़ी है, मुख्य प्लेटफ़ॉर्म कौन हैं, और यह व्यापक डिजिटल अर्थव्यवस्था में कैसे समाती है।"
 lang: hi
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ framework: profile
 
 **SOCSO कवरेज** व्यावहारिक रीढ़ है। गिग श्रमिक Self-Employment Social Security Act 2017 के तहत अंशदान कर सकते हैं, जो कार्यस्थल दुर्घटनाओं, विकलांगता और संबंधित जोखिमों के विरुद्ध संरक्षण प्रदान करता है; नए अधिनियम के इर्द-गिर्द की रिपोर्टिंग प्लेटफ़ॉर्म-लिंक्ड अंशदान (व्यापक रूप से प्रति राइड या डिलीवरी 1.25% कटौती के रूप में उद्धृत) के अनिवार्य बनने का वर्णन करती है। इसके विपरीत, **EPF सेवानिवृत्ति कवरेज** अनसुलझा बना हुआ है — कई विश्लेषण नोट करते हैं कि यह पहले चरण में तय नहीं हुआ और अब भी अध्ययनाधीन है।
 
-**एक Gig Economy Commission** — Malaysian Gig Economy Commission, या SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — को इस क्षेत्र की देखरेख, नीति समन्वय और प्लेटफ़ॉर्म अनुपालन की निगरानी के लिए कैबिनेट द्वारा मंज़ूरी दी गई, जो कथित रूप से Prime Minister's Department के अधीन बैठता है और Malaysia Digital Economy Corporation तकनीकी सचिवालय के रूप में है। इसकी सटीक राजपत्र-अधिसूचित स्थिति और जनादेश की आधिकारिक स्रोतों के विरुद्ध पुष्टि की जानी चाहिए।
+**एक Gig Economy Commission** — Malaysian Gig Economy Commission, या SEGiM (Suruhanjaya Ekonomi Gig Malaysia) — को इस क्षेत्र की देखरेख, नीति समन्वय और प्लेटफ़ॉर्म अनुपालन की निगरानी के लिए कैबिनेट द्वारा मंज़ूरी दी गई, जो कथित रूप से Prime Minister's Department के अधीन बैठता है और [Malaysia Digital Economy Corporation](/hi/technology/mdec-digital-economy-corporation/) तकनीकी सचिवालय के रूप में है। इसकी सटीक राजपत्र-अधिसूचित स्थिति और जनादेश की आधिकारिक स्रोतों के विरुद्ध पुष्टि की जानी चाहिए।
 
 ## अनसुलझे मुद्दे
 

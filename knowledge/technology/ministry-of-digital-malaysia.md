@@ -100,7 +100,7 @@ Penempatan agensi diumumkan secara berperingkat. Pada Disember 2023, dilaporkan 
 | --- | --- | --- |
 | Jabatan Digital Negara (JDN) | Jabatan | Transformasi kerajaan digital; hasil penstrukturan semula MAMPU |
 | Jabatan Perlindungan Data Peribadi (JPDP) | Jabatan | Menguatkuasakan perlindungan data peribadi |
-| Malaysia Digital Economy Corporation (MDEC) | Agensi | Memacu ekonomi digital dan pelaburan digital |
+| [Malaysia Digital Economy Corporation (MDEC)](/technology/mdec-digital-economy-corporation) | Agensi | Memacu ekonomi digital dan pelaburan digital |
 | CyberSecurity Malaysia (CSM) | Agensi | Badan teknikal keselamatan siber kebangsaan |
 | Digital Nasional Berhad (DNB) | Agensi | Rangkaian borong tunggal 5G negara |
 | MYNIC Berhad | Agensi | Pentadbir nama domain `.my` |

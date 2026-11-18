@@ -35,7 +35,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7466f2a7eef60107"
+sourceContentHash: "6d5badb3857c25f1"
 
 status: "published"
 aiAssisted: true
@@ -108,7 +108,7 @@ framework: data-reference
 
 ## டிஜிட்டல் மற்றும் தொழில்நுட்பம்: MDEC மற்றும் MRANTI
 
-**MDEC** (மலேசிய டிஜிட்டல் பொருளாதார நிறுவனம், Malaysia Digital Economy Corporation) டிஜிட்டல் வணிகங்களுக்கு நிதியளிக்கிறது:
+[**MDEC**](/ta/technology/mdec-digital-economy-corporation) (மலேசிய டிஜிட்டல் பொருளாதார நிறுவனம், Malaysia Digital Economy Corporation) டிஜிட்டல் வணிகங்களுக்கு நிதியளிக்கிறது:
 
 - **Malaysia Digital Catalyst Grant (MDCG)** — புத்தாக்கமான டிஜிட்டல் தீர்வுகளுக்கு இணைந்து நிதியளிக்கிறது: **உள்நாட்டு உரிமையிலான நிறுவனங்களுக்கு திட்டச் செலவின் 50% வரை (வெளிநாட்டு உரிமையிலானவற்றுக்கு 30%), RM1 million உச்சவரம்பு**. Malaysia Digital அந்தஸ்து தேவை.
 - **Malaysia Digital Acceleration Grant (MDAG)** — ஒரு பெரிய திருப்பிச் செலுத்தத் தேவையில்லாத மானியம் (70% / RM5 million வரை) — ஆனால் இது **புதிய விண்ணப்பங்களுக்கு மூடப்பட்டுள்ளது** (விண்ணப்ப சாளரம் 2023-இல் முடிந்தது). இதை இன்னும் திறந்திருப்பதாகப் பட்டியலிடும் எந்த வலைப்பதிவையும் புறக்கணிக்கவும்.

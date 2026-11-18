@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ Berikut ialah cara *jenis* geran ini berfungsi, supaya anda boleh menilai sama a
 
 ## Apakah Geran Digital PMKS Madani?
 
-Dikenali dalam bahasa Melayu sebagai **Geran Digital PMKS Madani** (GDPM), ia adalah inisiatif kerajaan yang diumumkan di bawah **Belanjawan 2025** untuk membantu perusahaan mikro, kecil dan sederhana menggunakan perkhidmatan digital dalam operasi harian. Ia dikendalikan oleh **Kementerian Kewangan** dengan kerjasama **Bank Simpanan Nasional (BSN)** sebagai bank pentadbir, **Malaysia Digital Economy Corporation (MDEC)**, dan **Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)**.
+Dikenali dalam bahasa Melayu sebagai **Geran Digital PMKS Madani** (GDPM), ia adalah inisiatif kerajaan yang diumumkan di bawah **Belanjawan 2025** untuk membantu perusahaan mikro, kecil dan sederhana menggunakan perkhidmatan digital dalam operasi harian. Ia dikendalikan oleh **Kementerian Kewangan** dengan kerjasama **Bank Simpanan Nasional (BSN)** sebagai bank pentadbir, [**Malaysia Digital Economy Corporation (MDEC)**](/technology/mdec-digital-economy-corporation), dan **Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)**.
 
 Reka bentuknya sengaja dibuat mudah: kerajaan menyediakan "geran padanan sehingga 50% daripada jumlah invois atau sehingga RM5,000 bagi PMKS yang layak untuk membantu mereka melanggan perkhidmatan digital," dalam kata-kata BSN sendiri. Ia adalah subsidi ke atas pembelian sebenar, bukan pemberian tunai — anda hanya mendapat manfaat jika anda benar-benar menggunakan alat yang layak.
 

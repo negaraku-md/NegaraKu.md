@@ -29,7 +29,7 @@ faq:
     a: "Deux départements (le Département national du numérique et le Département de la protection des données personnelles) et quatre agences : MDEC, CyberSecurity Malaysia, Digital Nasional Berhad et MYNIC Berhad."
 
 lang: "fr"
-sourceContentHash: "8890a54407574604"
+sourceContentHash: "e1f0b8e000c0bcfa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ L'attribution des agences a été annoncée par phases. En décembre 2023, il a 
 | --- | --- | --- |
 | Département national du numérique (JDN) | Département | Transformation du gouvernement numérique ; issu de la restructuration de MAMPU |
 | Département de la protection des données personnelles (JPDP) | Département | Applique la protection des données personnelles |
-| Malaysia Digital Economy Corporation (MDEC) | Agence | Impulse l'économie numérique et l'investissement numérique |
+| [Malaysia Digital Economy Corporation (MDEC)](/fr/technology/mdec-digital-economy-corporation) | Agence | Impulse l'économie numérique et l'investissement numérique |
 | CyberSecurity Malaysia (CSM) | Agence | Organisme technique national de cybersécurité |
 | Digital Nasional Berhad (DNB) | Agence | L'unique réseau de gros 5G du pays |
 | MYNIC Berhad | Agence | Administrateur du nom de domaine `.my` |

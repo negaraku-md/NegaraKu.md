@@ -31,7 +31,7 @@ faq:
   - q: "말레이시아의 우주 산업은 항공우주(aerospace) 산업과 구별되는가?"
     a: "그렇다. 항공우주 산업은 항공, 정비·수리·분해정비(MRO), 항공기용 기체구조를 다룬다. 우주 산업은 위성, 발사, 우주 규제, 그리고 위성통신과 원격탐사 같은 하류 서비스를 다룬다."
 lang: ko
-sourceContentHash: "9618715d572865bf"
+sourceContentHash: "c74b519cf5166ca0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -128,7 +128,7 @@ framework: profile
 
 말레이시아의 실질적 우주 유산은 기술 이전을 통해 제작된 소형 위성으로 시작되었다. 나라 최초의 초소형위성 **TiungSAT-1**은 2000년 발사되었고 영국 Surrey Satellite Technology와 함께 개발되어 한 세대의 말레이시아 엔지니어에게 직접적 제작 경험을 안겼다. 그 뒤를 이은 것이 **RazakSAT**으로, 2009년 SpaceX Falcon 1에 실려 적도 근접 궤도에 올려진 지구관측위성이다 - 주목할 만한 임무였으나 위성은 약 1년 뒤 고장나, 우주 자산 운영의 어려움을 일깨우는 교훈이 되었다.
 
-부문의 상업적 중추는 말레이시아의 주요 위성 운영사 **MEASAT**다. Measat Satellite Systems를 통해 동경 91.5도 궤도 위치에서 통신위성 함대를 운영한다. 가장 유능한 기체 **MEASAT-3d**는 2022년 6월 - 여덟 번째 MEASAT 위성 - 프랑스령 기아나에서 Ariane 5로 발사되었다. 약 US$273 million으로 추정되는 고처리량 위성으로, 다중 주파수 대역을 탑재하며 국가 JENDELA 연결 계획 하 농촌 및 동말레이시아로 고속 광대역을 확장하는 것과 직접위성방송(DTH) 텔레비전을 정조준했다. MEASAT는 우주 부문을 [통신 산업](/ko/industries/telecommunications-industry/)과 직접 연결한다: 말레이시아 위성 활동의 상당 부분은 지상에 연결성을 전달하기 위해 존재한다.
+부문의 상업적 중추는 말레이시아의 주요 위성 운영사 **MEASAT**다. Measat Satellite Systems를 통해 동경 91.5도 궤도 위치에서 통신위성 함대를 운영한다. 가장 유능한 기체 **MEASAT-3d**는 2022년 6월 - 여덟 번째 MEASAT 위성 - 프랑스령 기아나에서 Ariane 5로 발사되었다. 약 US$273 million으로 추정되는 고처리량 위성으로, 다중 주파수 대역을 탑재하며 국가 [JENDELA](/ko/technology/5g-jendela-dnb-malaysia/) 연결 계획 하 농촌 및 동말레이시아로 고속 광대역을 확장하는 것과 직접위성방송(DTH) 텔레비전을 정조준했다. MEASAT는 우주 부문을 [통신 산업](/ko/industries/telecommunications-industry/)과 직접 연결한다: 말레이시아 위성 활동의 상당 부분은 지상에 연결성을 전달하기 위해 존재한다.
 
 ## 앙카사완 프로그램
 

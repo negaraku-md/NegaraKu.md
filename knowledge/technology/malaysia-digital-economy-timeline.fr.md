@@ -39,7 +39,7 @@ faq:
     a: "L'Office national de l'IA (NAIO) est une agence relevant du ministère du Numérique qui a été approuvée par le Cabinet le 28 août 2024 et lancée le 12 décembre 2024. Elle est chargée de formuler, planifier, rechercher, coordonner et mettre en œuvre les initiatives d'IA du pays. Selon le Tech For Good Institute, ses responsabilités incluent le pilotage de la Stratégie nationale d'IA censée couvrir 2026-2030, en continuité de la Feuille de route de l'IA 2021-2025 ; le nom officiel et la portée de la stratégie attendent confirmation par des documents officiels."
 
 lang: "fr"
-sourceContentHash: "4d479bafdf246fa8"
+sourceContentHash: "96715454c90890b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -136,7 +136,7 @@ La garantie de « non-censure d'internet » (garantie 7) en particulier est deve
 
 ## Début des années 2010 : Digital Malaysia élargit le mandat
 
-Au début des années 2010, le focus de la politique a commencé à se déplacer des zones physiques vers l'ensemble de l'économie. Le mandat de l'agence de mise en œuvre — aujourd'hui connue sous le nom de **Malaysia Digital Economy Corporation (MDEC)**, dont les origines remontent à une création de 1996 pour piloter le MSC — a été élargi pour guider la transition de la Malaisie vers une économie numérique plus complète à travers l'agenda **Digital Malaysia**.
+Au début des années 2010, le focus de la politique a commencé à se déplacer des zones physiques vers l'ensemble de l'économie. Le mandat de l'agence de mise en œuvre — aujourd'hui connue sous le nom de **[Malaysia Digital Economy Corporation (MDEC)](/fr/technology/mdec-digital-economy-corporation)**, dont les origines remontent à une création de 1996 pour piloter le MSC — a été élargi pour guider la transition de la Malaisie vers une économie numérique plus complète à travers l'agenda **Digital Malaysia**.
 
 La différence conceptuelle importe : le MSC se concentrait sur l'attraction d'entreprises dans des zones spécifiques, tandis que Digital Malaysia a commencé à considérer comment le gouvernement, les entreprises et les citoyens de tout le pays pouvaient utiliser des solutions numériques. Les deux cadres ont fonctionné en parallèle sous MDEC pendant plusieurs années.
 

@@ -31,7 +31,7 @@ faq:
     a: "Oui. Un conjoint ou partenaire de fait, les enfants de moins de 18 ans, un enfant en situation de handicap et les parents du titulaire principal peuvent faire une demande en tant que personnes à charge, mais un conjoint ne peut pas travailler au titre du pass."
 
 lang: "fr"
-sourceContentHash: "4acc75e3a074b7b6"
+sourceContentHash: "ba8316561dc3caab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Si vous travaillez à distance pour un employeur ou des clients établis en deho
 
 ## Qu'est-ce que le DE Rantau Nomad Pass ?
 
-Il s'agit d'un type de **Pass de visite professionnelle** (*Pas Lawatan Ikhtisas*) conçu par la **Malaysia Digital Economy Corporation (MDEC)** pour permettre à des nomades numériques étrangers qualifiés de voyager et de travailler en Malaisie. Le trait déterminant est l'origine de vos revenus. Les **demandeurs travaillant à distance** doivent être employés par un employeur établi à l'étranger — et non par une entreprise immatriculée en Malaisie. Les **indépendants et travailleurs sous contrat indépendants** travaillent de manière autonome avec des clients établis à l'étranger ; selon la FAQ de MDEC, ils peuvent aussi servir des clients malaisiens, à condition de continuer à remplir les critères d'éligibilité et de revenu du pass.
+Il s'agit d'un type de **Pass de visite professionnelle** (*Pas Lawatan Ikhtisas*) conçu par la **[Malaysia Digital Economy Corporation (MDEC)](/fr/technology/mdec-digital-economy-corporation/)** pour permettre à des nomades numériques étrangers qualifiés de voyager et de travailler en Malaisie. Le trait déterminant est l'origine de vos revenus. Les **demandeurs travaillant à distance** doivent être employés par un employeur établi à l'étranger — et non par une entreprise immatriculée en Malaisie. Les **indépendants et travailleurs sous contrat indépendants** travaillent de manière autonome avec des clients établis à l'étranger ; selon la FAQ de MDEC, ils peuvent aussi servir des clients malaisiens, à condition de continuer à remplir les critères d'éligibilité et de revenu du pass.
 
 ## Qui est éligible, et combien faut-il gagner ?
 

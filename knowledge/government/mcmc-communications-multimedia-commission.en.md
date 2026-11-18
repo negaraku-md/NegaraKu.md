@@ -34,7 +34,7 @@ faq:
     a: "Section 126(2) provides that any person who owns or provides a network facility, network service or applications service without a valid licence commits an offence and may, on conviction, be liable to a fine not exceeding RM500,000 or imprisonment not exceeding five years or both, together with a further fine of RM1,000 for every day the offence is continued after conviction."
 
 lang: "en"
-sourceContentHash: "f7de1e94c09f1ce3"
+sourceContentHash: "b4e62c7facf85776"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -218,7 +218,7 @@ IMT-2000 (3G), 900MHz and 1800MHz bands used by mobile operators.
 
 ## MCMC's role in national connectivity: JENDELA and 5G
 
-Beyond regulation, MCMC also leads the national connectivity agenda. JENDELA
+Beyond regulation, MCMC also leads the national connectivity agenda. [JENDELA](/en/technology/5g-jendela-dnb-malaysia)
 (Jalinan Digital Negara) is the MCMC-led plan to expand coverage and improve
 broadband quality while preparing the country for 5G. Phase 1 (2020–2022)
 targeted 4G coverage rising from 91.8% to 96.9% and mobile broadband speeds

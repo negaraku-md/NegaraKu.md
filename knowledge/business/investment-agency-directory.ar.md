@@ -43,7 +43,7 @@ verificationNeeded:
   - "تأكّد مما إذا كانت SEDIA وNCER وECERDC تملك سلطة اعتماد تصاريح المغتربين بما يعادل سلطة IRDA، وهو ما لم يَثبُت"
 
 lang: "ar"
-sourceContentHash: "dbc6e7a307297e3a"
+sourceContentHash: "a3087424e642e372"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -119,7 +119,7 @@ SSM تؤسّس شركتك. وهي لا تفرض أي شرط على الملكي�
 | **SSM** — لجنة الشركات الماليزية (Companies Commission of Malaysia) | جهة التسجيل بموجب Companies Act 2016 | التأسيس، والسجل، والإقرارات السنوية، وإيداع البيانات المالية. لا حق في مزاولة التجارة. |
 | **MITI** — وزارة الاستثمار والتجارة والصناعة (Ministry of Investment, Trade and Industry) | وزارة؛ أُعيدت تسميتها من التجارة الدولية والصناعة في **أبريل 2023** | **رخصة التصنيع** بموجب Industrial Coordination Act 1975 أداة وزارية |
 | **MIDA** — هيئة تنمية الاستثمار الماليزية (Malaysian Investment Development Authority) | وكالة ترويج الاستثمار التابعة لـ MITI | تتلقى طلبات رخصة التصنيع والإعفاء وتقيّمها وتديرها؛ تقييم الحوافز الضريبية؛ نشر كتيّبات الاستثمار القطاعية |
-| **MDEC** — مؤسسة الاقتصاد الرقمي الماليزية (Malaysia Digital Economy Corporation) | تتبع **وزارة الرقمنة** (Ministry of Digital) (أُنشئت في 12 ديسمبر 2023) | وضع Malaysia Digital، وإرشادات حافز MD الضريبي، وDE Rantau؛ وهي جهة اعتماد المغتربين لقطاع **ICT** |
+| [**MDEC**](/ar/technology/mdec-digital-economy-corporation) — مؤسسة الاقتصاد الرقمي الماليزية (Malaysia Digital Economy Corporation) | تتبع **وزارة الرقمنة** (Ministry of Digital) (أُنشئت في 12 ديسمبر 2023) | وضع Malaysia Digital، وإرشادات حافز MD الضريبي، وDE Rantau؛ وهي جهة اعتماد المغتربين لقطاع **ICT** |
 | **KPDN** — [وزارة التجارة الداخلية وغلاء المعيشة](/government/ministry-of-domestic-trade-kpdn) (Ministry of Domestic Trade and Cost of Living) | وزارة | المشاركة الأجنبية في **تجارة التوزيع**، بموجب الدليل الإرشادي للمشاركة الأجنبية في قطاع تجارة التوزيع؛ وتنظيم البيع المباشر والامتياز التجاري |
 | **ESD** — قسم خدمات المغتربين، إدارة الهجرة (Expatriate Services Division, Immigration Department) | يتبع وزارة الداخلية | تسجيل الشركة لتوظيف المغتربين، وEmployment Pass، وتصريح الزيارة المهنية، وتصريح المرافقين، وLTSVP |
 | **MyIPO** — المؤسسة الماليزية للملكية الفكرية (Intellectual Property Corporation of Malaysia) | تتبع MITI | العلامات التجارية، وبراءات الاختراع، والتصاميم الصناعية، والإخطار الطوعي بحقوق المؤلف |

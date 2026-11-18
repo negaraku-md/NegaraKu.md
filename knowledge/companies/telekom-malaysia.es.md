@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "678b132c5368b3aa"
+sourceContentHash: "e98b7dba06ff74b9"
 
 status: "published"
 aiAssisted: true
@@ -112,7 +112,7 @@ TM organiza sus operaciones en torno a marcas de cara al cliente bajo su brazo d
 
 La significación de TM va más allá de sus propios abonados porque posee infraestructura que utiliza todo el sector. Su red troncal de fibra es la principal red de largo recorrido que enlaza ciudades y estados, y TM Global opera los puntos de amarre de los cables submarinos de Malasia, que conectan el país con Asia, Oriente Medio, Europa y Estados Unidos. Según lo declarado el 31 de enero de 2026, el alcance de TM Global abarcaba 33 sistemas de cable submarino que totalizaban unos 275,000 km, con estaciones de amarre de cable que incluían una quinta estación en Morib (Selangor) y otra prevista en Kuala Sedili (Johor).
 
-TM es también un socio de ejecución central de **JENDELA** (Jalinan Digital Negara), el plan nacional de conectividad digital coordinado por la Comisión de Comunicaciones y Multimedia de Malasia (MCMC). JENDELA aspira a extender la fibra y la banda ancha móvil por todo el país y a retirar las redes heredadas, y el despliegue de fibra de TM es uno de los mayores contribuyentes a los objetivos de inmuebles cubiertos. Dado que tanto tráfico nacional y de terceros circula sobre la red de TM, la empresa funciona tanto como una pieza estratégica de infraestructura pública como un operador comercial.
+TM es también un socio de ejecución central de [**JENDELA**](/es/technology/5g-jendela-dnb-malaysia) (Jalinan Digital Negara), el plan nacional de conectividad digital coordinado por la Comisión de Comunicaciones y Multimedia de Malasia (MCMC). JENDELA aspira a extender la fibra y la banda ancha móvil por todo el país y a retirar las redes heredadas, y el despliegue de fibra de TM es uno de los mayores contribuyentes a los objetivos de inmuebles cubiertos. Dado que tanto tráfico nacional y de terceros circula sobre la red de TM, la empresa funciona tanto como una pieza estratégica de infraestructura pública como un operador comercial.
 
 ## Escala y significación
 

@@ -31,7 +31,7 @@ faq:
   - q: Adakah ini sama dengan artikel Akta Pekerja Gig?
     a: "Tidak. Artikel Akta Pekerja Gig 2025 menerangkan undang-undang itu sendiri — hak, kontrak dan tribunal. Artikel ini meliputi sektor ekonomi — sebesar mana ekonomi gig dan platform, siapa platform utamanya, dan bagaimana ia menyesuaikan diri ke dalam ekonomi digital yang lebih luas."
 lang: ms
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ Bagi kebanyakan sejarah sektor ini, masalah penentunya ialah pekerja platform bu
 
 **Liputan PERKESO** ialah tulang belakang praktikal. Pekerja gig boleh mencarum di bawah Akta Keselamatan Sosial Pekerjaan Sendiri 2017, yang menyediakan perlindungan terhadap kemalangan tempat kerja, hilang upaya dan risiko berkaitan; laporan sekitar Akta baharu menggambarkan caruman berkait platform (dipetik secara meluas sebagai potongan 1.25% setiap perjalanan atau penghantaran) menjadi wajib. **Liputan persaraan KWSP**, sebaliknya, kekal belum selesai — beberapa analisis mencatatkan ia tidak diselesaikan dalam fasa pertama dan masih dikaji.
 
-**Suruhanjaya Ekonomi Gig** — Suruhanjaya Ekonomi Gig Malaysia, atau SEGiM — telah diluluskan oleh Kabinet untuk mengawasi sektor ini, menyelaras dasar dan memantau pematuhan platform, dilaporkan terletak di bawah Jabatan Perdana Menteri dengan Perbadanan Ekonomi Digital Malaysia sebagai urus setia teknikal. Status warta dan mandatnya yang tepat harus disahkan terhadap sumber rasmi.
+**Suruhanjaya Ekonomi Gig** — Suruhanjaya Ekonomi Gig Malaysia, atau SEGiM — telah diluluskan oleh Kabinet untuk mengawasi sektor ini, menyelaras dasar dan memantau pematuhan platform, dilaporkan terletak di bawah Jabatan Perdana Menteri dengan [Perbadanan Ekonomi Digital Malaysia](/technology/mdec-digital-economy-corporation/) sebagai urus setia teknikal. Status warta dan mandatnya yang tepat harus disahkan terhadap sumber rasmi.
 
 ## Isu yang belum selesai
 

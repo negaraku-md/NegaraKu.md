@@ -31,7 +31,7 @@ faq:
   - q: 这与《零工工作者法令》那篇文章是同一回事吗？
     a: 不是。《2025 年零工工作者法令》那篇文章解释法律本身——权利、合约与仲裁庭。本文涵盖经济领域——零工与平台经济规模有多大、主要平台是谁，以及它如何融入更广泛的数字经济。
 lang: zh
-sourceContentHash: "15e5c757cc5345af"
+sourceContentHash: "a1c033e7ed54660d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -140,7 +140,7 @@ framework: profile
 
 **SOCSO 覆盖**是实务上的支柱。零工工作者可依据《2017 年自雇社会保障法令》缴款，该法令提供针对工伤、伤残及相关风险的保障；围绕新法令的报道描述，与平台挂钩的缴款（被广泛援引为每趟行程或配送扣除 1.25%）正变为强制性。相比之下，**EPF 退休覆盖**仍未解决——若干分析指出它未在第一阶段敲定，仍在研究中。
 
-**一个零工经济委员会**——马来西亚零工经济委员会，即 SEGiM（Suruhanjaya Ekonomi Gig Malaysia）——获内阁批准设立，以监督该领域、统筹政策并监察平台合规，据报隶属首相署，以马来西亚数字经济机构为技术秘书处。其确切的宪报状态与职权范围应对照官方来源核实。
+**一个零工经济委员会**——马来西亚零工经济委员会，即 SEGiM（Suruhanjaya Ekonomi Gig Malaysia）——获内阁批准设立，以监督该领域、统筹政策并监察平台合规，据报隶属首相署，以[马来西亚数字经济机构](/zh/technology/mdec-digital-economy-corporation/)为技术秘书处。其确切的宪报状态与职权范围应对照官方来源核实。
 
 ## 尚未解决的问题
 

@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1194109fce71d94d"
+sourceContentHash: "d50887907d7303be"
 
 status: "published"
 aiAssisted: true
@@ -81,7 +81,7 @@ framework: explainer
 
 ## MSMEデジタル助成金MADANIとは何か
 
-マレー語では **Geran Digital PMKS Madani**（GDPM）と呼ばれ、これはMSMEが日常業務でデジタルサービスを利用できるよう支援するために、**2025年予算案**のもとで発表された政府の施策である。**財務省（Ministry of Finance）**が主導し、実施銀行としての**BSN**、**マレーシアデジタル経済公社（Malaysia Digital Economy Corporation、MDEC）**、及び**マレーシア通信・マルチメディア委員会（Malaysian Communications and Multimedia Commission、MCMC）**と連携して運営されている。
+マレー語では **Geran Digital PMKS Madani**（GDPM）と呼ばれ、これはMSMEが日常業務でデジタルサービスを利用できるよう支援するために、**2025年予算案**のもとで発表された政府の施策である。**財務省（Ministry of Finance）**が主導し、実施銀行としての**BSN**、[**マレーシアデジタル経済公社（Malaysia Digital Economy Corporation、MDEC）**](/ja/technology/mdec-digital-economy-corporation)、及び**マレーシア通信・マルチメディア委員会（Malaysian Communications and Multimedia Commission、MCMC）**と連携して運営されている。
 
 この設計は意図的にシンプルである：BSN自身の言葉で言えば、政府は「合資格PMKSがデジタルサービスを購読するのを支援するため、請求書金額の最大50%又は最大RM5,000のマッチング助成金」を提供する。これは実際の購入に対する補助金であり、現金の給付ではない——実際に合資格ツールを導入した場合にのみ、あなたは恩恵を受ける。
 
