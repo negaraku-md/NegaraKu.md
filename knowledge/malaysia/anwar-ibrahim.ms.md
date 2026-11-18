@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
+seoTitle: "Anwar Ibrahim: Perdana Menteri Malaysia ke-10 (2022–kini)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "อันวาร์ อิบราฮิม"
+seoTitle: "อันวาร์ อิบราฮิม: นายกรัฐมนตรีคนที่ 10 ของมาเลเซีย (2022–ปัจจุบัน)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

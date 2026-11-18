@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
+seoTitle: "Anwar Ibrahim: Thủ tướng thứ 10 của Malaysia (2022–nay)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

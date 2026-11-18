@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "أنور إبراهيم"
+seoTitle: "أنور إبراهيم: رئيس وزراء ماليزيا العاشر (2022–الآن)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

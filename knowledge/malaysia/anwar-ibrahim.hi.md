@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "अनवर इब्राहिम"
+seoTitle: "अनवर इब्राहिम: मलेशिया के 10वें प्रधानमंत्री (2022–वर्तमान)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

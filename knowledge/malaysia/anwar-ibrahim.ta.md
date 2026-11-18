@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "அன்வர் இப்ராஹிம்"
+seoTitle: "அன்வர் இப்ராஹிம்: மலேசியாவின் 10வது பிரதமர் (2022–தற்போது)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

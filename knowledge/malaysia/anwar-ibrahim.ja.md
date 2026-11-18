@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "アンワル・イブラヒム"
+seoTitle: "アンワル・イブラヒム：マレーシア第10代首相（2022年–現在）"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

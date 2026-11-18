@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "안와르 이브라힘"
+seoTitle: "안와르 이브라힘: 말레이시아 제10대 총리 (2022년–현재)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "マハティール・モハマド"
+seoTitle: "マハティール・モハマド：マレーシアの第4代・第7代首相"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

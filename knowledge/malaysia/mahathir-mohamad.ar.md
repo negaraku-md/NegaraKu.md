@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "مهاتير محمد"
+seoTitle: "مهاتير محمد: رئيس الوزراء الـ4 والـ7 لماليزيا"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

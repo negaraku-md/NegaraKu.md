@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
+seoTitle: "Mahathir Mohamad: 4.º y 7.º primer ministro de Malasia"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

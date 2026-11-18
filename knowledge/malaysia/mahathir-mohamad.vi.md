@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
+seoTitle: "Mahathir Mohamad: Thủ tướng thứ 4 và 7 của Malaysia"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

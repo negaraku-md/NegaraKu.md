@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "มหาธีร์ โมฮัมหมัด"
+seoTitle: "มหาธีร์ โมฮัมหมัด: นายกรัฐมนตรีคนที่ 4 และ 7 ของมาเลเซีย"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

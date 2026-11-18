@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
+seoTitle: "Mahathir Mohamad: 4th & 7th Prime Minister of Malaysia (1981–2003, 2018–2020)"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

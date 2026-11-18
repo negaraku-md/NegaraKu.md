@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
+seoTitle: "Mahathir Mohamad: Perdana Menteri ke-4 & ke-7 Malaysia"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

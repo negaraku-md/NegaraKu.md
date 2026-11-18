@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "马哈迪·莫哈末"
+seoTitle: "马哈迪·莫哈末：马来西亚第四与第七任首相（1981–2003、2018–2020）"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
+seoTitle: "Anwar Ibrahim : Dixième Premier ministre de la Malaisie (2022–présent)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
-seoTitle: "மகாதீர் முகமது: மலேசியாவின் நீண்டகால பிரதமர் (4வது & 7வது)"
+seoTitle: "மகாதீர் முகமது: மலேசியாவின் 4வது & 7வது பிரதமர்"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

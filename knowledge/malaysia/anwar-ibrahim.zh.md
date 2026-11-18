@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "安华·依布拉欣"
+seoTitle: "安华·依布拉欣：马来西亚第十任首相（2022年至今）"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "महातिर मोहम्मद"
+seoTitle: "महातिर मोहम्मद: मलेशिया के चौथे और सातवें प्रधानमंत्री"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]

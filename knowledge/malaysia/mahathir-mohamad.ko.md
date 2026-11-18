@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "마하티르 모하맛(Mahathir Mohamad)"
+seoTitle: "마하티르 모하맛: 말레이시아의 제4·7대 총리"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]
