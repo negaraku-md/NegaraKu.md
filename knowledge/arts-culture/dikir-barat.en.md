@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the performance form of Dikir Barat, 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -69,7 +69,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-Two groups sit cross-legged, facing each other on stage. There is no script. When the first group finishes a round of satirical pantun about rising prices, the second group has only a few seconds to compose a reply — and it must rhyme, must land on the beat, and ideally must be sharper than the original verse.
+Two groups sit cross-legged, facing each other on stage. There is no script. When the first group finishes a round of satirical [pantun](/en/arts-culture/pantun) about rising prices, the second group has only a few seconds to compose a reply — and it must rhyme, must land on the beat, and ideally must be sharper than the original verse.
 
 That is the moment everyone waits for in Dikir Barat: the spontaneous clash between two Tukang Karut.
 

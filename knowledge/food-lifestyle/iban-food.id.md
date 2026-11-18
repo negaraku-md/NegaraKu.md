@@ -35,7 +35,7 @@ faq:
     a: "Masakan Iban sehari-hari dan masakan Sarawak yang lebih luas banyak memakai sayuran liar yang dipetik di dekat rumah panjang, terutama paku-pakuan hutan seperti midin (Stenochlaena palustris) dan paku, biasanya ditumis dengan bawang putih atau terasi udang (belacan). Sayur ensabi adalah sayuran umum lainnya, dimasak dengan belacan dan bawang putih, dijadikan sup, atau diasinkan menjadi kasam ensabi."
 
 lang: "id"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ singkong layu melebur ke dalam hidangan. Banyak resep juga menambahkan serai, me
 pendapat apakah ia termasuk dalam versi yang paling tradisional, jadi anggaplah paduan bumbu yang persis
 sebagai variasi menurut daerah dan keluarga.
 
-Di luar dapur, manok pansoh adalah hidangan perayaan, dimasak untuk perayaan Gawai Dayak dan pertemuan
+Di luar dapur, manok pansoh adalah hidangan perayaan, dimasak untuk perayaan [Gawai Dayak](/id/arts-culture/gawai-dayak) dan pertemuan
 lain, dan juga dijual di gerai makanan di seantero Sarawak. Ia bukan milik eksklusif Iban——komunitas
 Bidayuh dan Orang Ulu juga membuat ayam bambu——sehingga lebih tepat dipahami sebagai teknik Dayak
 bersama yang orang Iban terutama dikenal karenanya.

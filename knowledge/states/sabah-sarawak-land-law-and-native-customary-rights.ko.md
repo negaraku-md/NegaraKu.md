@@ -32,7 +32,7 @@ faq:
     a: "완전히는 아닙니다. 연방법원은 *Madeli bin Salleh*(2007)에서 NCR의 관습법상 인정을 확인했지만, *TR Sandah*(2016)에서는 의견이 갈린 법원이 집행 가능한 권리를 경작지로 제한하고 주변 공동체 산림에 대한 주장을 배척했습니다. NCR의 범위는 여전히 논쟁 중입니다."
 
 lang: "ko"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ framework: explainer
 | --- | --- | --- | --- |
 | 규율 제정법 | 국가토지법 | 사바 토지 법령(Cap. 68) | 사라왁 토지법(Cap. 81) |
 | 원주민 보유 범주 | 말레이 보호지 | 원주민 명의 / 원주민 관습권 | 원주민 관습지 / 원주민 지역지(Native Area Land) |
-| NCR 인정 | 제한적(오랑 아슬리(Orang Asli), 별도 법률) | 예, 제15조에 따라 | 예, 제5조에 따라 |
+| NCR 인정 | 제한적([오랑 아슬리(Orang Asli)](/ko/arts-culture/orang-asli), 별도 법률) | 예, 제15조에 따라 | 예, 제5조에 따라 |
 
 두 주(州) 모두 원주민 토지의 결정적 특징은 이전 제한입니다. 사바에서는 토지 법령 제17조 제1항이 서면 허가가 있는 경우를 제외하고 원주민과 비원주민 사이의 토지 거래를 금지합니다 — 원주민 토지를 원주민의 손안에 두려는 규칙입니다.
 

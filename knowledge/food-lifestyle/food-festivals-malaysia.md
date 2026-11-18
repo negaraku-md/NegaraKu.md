@@ -120,7 +120,7 @@ The open house is the thread that ties the whole calendar together. A family
 celebrating its own festival prepares a spread and welcomes friends, neighbours,
 colleagues and often complete strangers to eat, so that over the course of a year
 most Malaysians end up as guests at festivals that are not their own. The custom
-runs across communities: it is practised at Hari Raya, Chinese New Year, Deepavali
+runs across communities: it is practised at Hari Raya, Chinese New Year, [Deepavali](/arts-culture/deepavali)
 and other festivals alike. Politicians, companies and government bodies stage
 large public open houses, and the tradition is widely read as shorthand for the
 country's multicultural coexistence. Its standing is such that, in 2025, *The
@@ -142,7 +142,7 @@ bazaars, covered in their own right under
 [Ramadan bazaars and the fasting month](/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 are a seasonal institution that draws buyers of every background.
 
-The fast culminates in **Hari Raya Aidilfitri**, the festival that opens the
+The fast culminates in [**Hari Raya Aidilfitri**](/arts-culture/hari-raya-aidilfitri), the festival that opens the
 country's best-known season of open houses. The table is built around a handful
 of staples: *ketupat* (rice dumplings compressed and boiled in woven palm-leaf
 pouches), *lemang* (glutinous rice cooked with coconut milk in bamboo over an open
@@ -190,7 +190,7 @@ across communities is mapped in
 ## Gawai and Kaamatan: Borneo's harvest festivals
 
 East Malaysia keeps a different pair of festivals rooted in the rice harvest.
-**Gawai Dayak**, celebrated by the Iban and other Dayak groups in Sarawak around
+[**Gawai Dayak**](/arts-culture/gawai-dayak), celebrated by the Iban and other Dayak groups in Sarawak around
 the start of June, and **Kaamatan**, the Kadazan-Dusun thanksgiving in Sabah in
 late May, both give thanks for the harvest and both revolve around rice and rice
 wine. *Tuak* — a wine brewed from glutinous rice and homemade yeast — is central to
@@ -211,7 +211,7 @@ rather than definitive.
 
 ## Thaipusam: vegetarian devotion
 
-Not every festival is a feast. **Thaipusam**, the Hindu festival most visibly
+Not every festival is a feast. [**Thaipusam**](/arts-culture/thaipusam), the Hindu festival most visibly
 associated with Batu Caves near Kuala Lumpur, is marked by fasting and strict
 vegetarianism. Devotees — especially those who will carry a *kavadi* — prepare
 with a period of abstinence, eating a single vegetarian meal a day; sources

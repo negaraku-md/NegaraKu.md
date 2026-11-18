@@ -36,7 +36,7 @@ faq:
     a: "Pasal 55(5) mengatur bahwa suatu rancangan undang-undang yang belum diputuskan di dalam Parlemen tidak gugur karena prorogasi Parlemen. Pasal 55(7) pula melindungi rancangan undang-undang yang menunggu perkenan dari kegugurannya karena prorogasi atau pembubaran Parlemen."
 
 lang: "id"
-sourceContentHash: "87bf8d58ce7f3cea"
+sourceContentHash: "d04c5a2953189f7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -164,7 +164,7 @@ Setelah bacaan ketiga dan pengesahan, Peraturan Mesyuarat 70 mengharuskan Tuan Y
 
 Di Dewan Negara, rancangan undang-undang itu melalui bacaan dan tahap komitenya sendiri. Rancangan undang-undang yang datang **dari** Dewan Negara pula dibentangkan di atas Meja Dewan Rakyat sampai hari bacaan kedua ditetapkan (P.M. 72).
 
-Dewan Negara bukan cerminan Dewan Rakyat. Menurut Pasal 45(1), keanggotaannya terdiri dari dua anggota bagi setiap Negara Bagian yang dipilih menurut Jadwal Ketujuh; dua anggota bagi Wilayah Persekutuan Kuala Lumpur, seorang bagi Labuan dan seorang bagi Putrajaya yang ditunjuk oleh Yang di-Pertuan Agong; serta **empat puluh anggota yang ditunjuk oleh Yang di-Pertuan Agong**. Pasal 45(2) menetapkan mereka yang ditunjuk hendaklah orang yang telah memberikan layanan publik yang cemerlang atau mencapai keunggulan dalam profesi, perdagangan, perindustrian, pertanian, aktivitas kebudayaan atau layanan sosial, atau yang mewakili ras minoritas atau berkemampuan mewakili kepentingan orang asli.
+Dewan Negara bukan cerminan Dewan Rakyat. Menurut Pasal 45(1), keanggotaannya terdiri dari dua anggota bagi setiap Negara Bagian yang dipilih menurut Jadwal Ketujuh; dua anggota bagi Wilayah Persekutuan Kuala Lumpur, seorang bagi Labuan dan seorang bagi Putrajaya yang ditunjuk oleh Yang di-Pertuan Agong; serta **empat puluh anggota yang ditunjuk oleh Yang di-Pertuan Agong**. Pasal 45(2) menetapkan mereka yang ditunjuk hendaklah orang yang telah memberikan layanan publik yang cemerlang atau mencapai keunggulan dalam profesi, perdagangan, perindustrian, pertanian, aktivitas kebudayaan atau layanan sosial, atau yang mewakili ras minoritas atau berkemampuan mewakili kepentingan [orang asli](/id/arts-culture/orang-asli).
 
 Masa jabatan seorang anggota Dewan Negara adalah tiga tahun dan **tidak tersentuh oleh pembubaran Parlemen** (Pasal 45(3)); seorang anggota tidak boleh memegang jabatan lebih dari dua periode (Pasal 45(3A)).
 

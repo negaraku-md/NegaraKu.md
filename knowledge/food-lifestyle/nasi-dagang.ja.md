@@ -35,7 +35,7 @@ faq:
     a: "Terengganu と Kelantan に最も結びつく東海岸の料理で、2009 年以来マレーシアの国家遺産食リストに載っています。名前は「商人の米」と訳され、俗説では商人や、海へ持ち出した漁師に結びつけられますが、こうした起源譚の記録は曖昧なものにとどまります。"
 
 lang: "ja"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ nasi dagang は、通常の訳では「商人の米」を意味する。俗説�
 nasi dagang が 2009 年以来「国家遺産食のひとつとして登録されている」と記している。
 
 それは何より、半島東部の朝食であり市場の料理であり——Terengganu と Kelantan に強く結びつく——
-いまでははるか遠方でも売られ、とりわけ Hari Raya Aidilfitri の頃には祝祭の食卓にも現れる。
+いまでははるか遠方でも売られ、とりわけ [Hari Raya Aidilfitri](/ja/arts-culture/hari-raya-aidilfitri) の頃には祝祭の食卓にも現れる。
 より広い[マレー料理](/ja/food-lifestyle/malay-cuisine)の世界と、この国の
 [地域・民族料理](/ja/food-lifestyle/regional-and-ethnic-cuisines)の地図の中に位置づけられる。
 

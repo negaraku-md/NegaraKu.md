@@ -165,7 +165,7 @@ bawah Surat Pekeliling Ikhtisas Bil. 10/1998.
 ibu bapa mahu menangguhkan kemasukan (bukan mempercepatkan), permohonan dibuat
 menggunakan **Borang PPW 2** di JPN, disertakan salinan disahkan kad
 pengenalan ibu bapa, sijil kelahiran anak, bukti pendaftaran Tahun 1, dan
-laporan perubatan doktor. Pertimbangan turut diberi kepada murid orang asli,
+laporan perubatan doktor. Pertimbangan turut diberi kepada murid [orang asli](/arts-culture/orang-asli),
 anak Bumiputera Sabah/Sarawak di kawasan pedalaman, dan murid berkeperluan
 khas. Kuasa meluluskan terletak pada Ketua Pengarah Pendidikan Malaysia (KPPM)
 selaku Ketua Pendaftar, di bawah Seksyen 29A(3) Akta Pendidikan 1996 — dan

@@ -25,7 +25,7 @@ appliesTo: "Anyone who wants to understand, descriptively, how Malaysian senator
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "344b9bed4a29fc5f"
+sourceContentHash: "45a9a03bd4ed597b"
 
 status: "published"
 aiAssisted: true
@@ -95,7 +95,7 @@ Article 45(1) divides membership into two categories that are entirely different
 
 **Appointed Senators.** Forty are appointed by the Yang di-Pertuan Agong under Article 45(1)(b), plus a further four representing the Federal Territories: two for Kuala Lumpur, one for Labuan and one for Putrajaya.
 
-Article 45(2) sets out the criteria for those appointed by the Yang di-Pertuan Agong: persons who, in His Majesty's opinion, have rendered distinguished public service or achieved distinction in a profession, commerce, industry, agriculture, cultural activities or social service, or who represent racial minorities or are capable of representing the interests of the Orang Asli.
+Article 45(2) sets out the criteria for those appointed by the Yang di-Pertuan Agong: persons who, in His Majesty's opinion, have rendered distinguished public service or achieved distinction in a profession, commerce, industry, agriculture, cultural activities or social service, or who represent racial minorities or are capable of representing the interests of the [Orang Asli](/en/arts-culture/orang-asli).
 
 Note the ratio. The number of appointed Senators (44) exceeds the number of state Senators (26). The original 1957 design was the reverse — the Reid Commission's report proposed 22 state Senators against 11 appointed Senators. Article 45(1)(b) originally provided for only 16 appointed members; that figure was raised to 22 in 1963, then 32 in 1964, and finally 40 in 1978.
 

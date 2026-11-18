@@ -113,7 +113,7 @@ Both statutes classify land into categories that do not map neatly onto Peninsul
 | --- | --- | --- | --- |
 | Governing statute | National Land Code | Sabah Land Ordinance (Cap. 68) | Sarawak Land Code (Cap. 81) |
 | Native tenure category | Malay reservation land | Native Title / native customary rights | Native customary land / Native Area Land |
-| Recognises NCR | Limited (Orang Asli, separate law) | Yes, under section 15 | Yes, under section 5 |
+| Recognises NCR | Limited ([Orang Asli](/arts-culture/orang-asli), separate law) | Yes, under section 15 | Yes, under section 5 |
 
 A defining feature of native land in both states is restriction on transfer. In Sabah, section 17(1) of the Land Ordinance forbids dealings in land between natives and non-natives except with written permission — a rule intended to keep native land within native hands.
 

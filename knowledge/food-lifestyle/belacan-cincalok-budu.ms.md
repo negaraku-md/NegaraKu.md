@@ -34,7 +34,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8b1e516c1efc69e1"
+sourceContentHash: "708bcc89edd82a37"
 masterLanguage: "en"
 
 status: "published"
@@ -106,7 +106,7 @@ Belacan mentah sangat tajam baunya, jadi tukang masak **hampir selalu membakarny
 
 Cincalok (juga dieja **cencaluk**) bermula daripada **udang halus yang sama seperti belacan** — tetapi daripada dikeringkan dan ditumbuk keras, udang utuh dimasukkan ke dalam air garam, **selalunya ditambah sedikit beras**, dan dibiarkan terperam untuk tempoh yang singkat sahaja. Hasilnya tidak mungkin lebih berbeza daripada belacan: **campuran basah yang boleh dituang di mana udang halus individu kekal kelihatan**, masin dengan sedikit rasa masam-tajam. Ia dijual dalam balang, dan oleh sebab ia terperam dalam keadaan tertutup dan tekanan boleh terbina di dalamnya, eloklah membuka bekas itu dengan berhati-hati.
 
-Cincalok paling kuat terikat dengan **Melaka**, tempat ia telah lama menjadi sebahagian daripada masakan Melayu, **Peranakan dan Kristang** (Serani Portugis); perencah ini sering ditelusuri, menurut tradisi, kepada zaman Portugis di Melaka. Tidak seperti belacan, ia biasanya **dimakan mentah**. Penyediaan klasiknya ialah pencicah atau sambal segera — cincalok digaul dengan **jus limau kasturi atau limau nipis, bawang merah hiris dan cili padi** — dihidangkan bersama nasi putih. Ia juga lazim digoreng menjadi **telur dadar (telur cincalok)**. Jika belacan ialah bahan masakan, cincalok lebih kerap menjadi perencah yang sampai ke meja lebih kurang seperti keadaannya ketika keluar dari balang.
+Cincalok paling kuat terikat dengan **Melaka**, tempat ia telah lama menjadi sebahagian daripada masakan Melayu, **Peranakan dan [Kristang](/arts-culture/kristang-eurasian-culture)** (Serani Portugis); perencah ini sering ditelusuri, menurut tradisi, kepada zaman Portugis di Melaka. Tidak seperti belacan, ia biasanya **dimakan mentah**. Penyediaan klasiknya ialah pencicah atau sambal segera — cincalok digaul dengan **jus limau kasturi atau limau nipis, bawang merah hiris dan cili padi** — dihidangkan bersama nasi putih. Ia juga lazim digoreng menjadi **telur dadar (telur cincalok)**. Jika belacan ialah bahan masakan, cincalok lebih kerap menjadi perencah yang sampai ke meja lebih kurang seperti keadaannya ketika keluar dari balang.
 
 ## Budu: ikan yang ditukarkan menjadi cecair
 

@@ -29,7 +29,7 @@ faq:
   - q: "¿Está reconocido el silambam como deporte en Malasia?"
     a: "El silambam se practica en Malasia tanto como arte marcial como deporte de competición; se han celebrado competiciones nacionales, campeonatos internacionales y ha habido participación en los Juegos de Malasia (SUKMA) en algunos años. No obstante, las asociaciones y la condición administrativa del deporte pueden cambiar con el tiempo; verifique la situación actual en las fuentes oficiales."
 lang: "es"
-sourceContentHash: "c8454fb7c128f998"
+sourceContentHash: "ecfad46369d6e997"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["சிலம்பம்", "Silambam", "மலேசியா சி
 framework: history-culture
 ---
 
-En una festividad de un templo o en una celebración del Año Nuevo tamil en Malasia, puede que vea a un joven hacer girar un largo bastón de bambú por encima de la cabeza y alrededor del cuerpo a una velocidad de vértigo, al compás de los tambores. Ese giro no es solo por vistosidad — es el emblema del silambam, un arte marcial tamil con más de mil quinientos años de antigüedad.
+En una festividad de un templo o en una celebración del [Año Nuevo tamil](/es/arts-culture/tamil-new-year) en Malasia, puede que vea a un joven hacer girar un largo bastón de bambú por encima de la cabeza y alrededor del cuerpo a una velocidad de vértigo, al compás de los tambores. Ese giro no es solo por vistosidad — es el emblema del silambam, un arte marcial tamil con más de mil quinientos años de antigüedad.
 
 El silambam es **un arte marcial que se originó en Tamil Nadu y que emplea el bastón de bambú como su arma principal**. Llegó a Malasia con la migración tamil y hoy continúa como arte marcial, deporte y espectáculo cultural. Este artículo describe, de forma neutral, los orígenes de este arte, sus técnicas y su lugar dentro de la comunidad tamil de Malasia.
 

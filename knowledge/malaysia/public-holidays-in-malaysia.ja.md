@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 マレーシアの祝日暦は、実質的に国の肖像である。
 
-- **宗教。** 祝祭日は主要な信仰の祭りを記す――イスラム教（ハリラヤ・アイディルフィトリ、ハリラヤ・アイディルアドハ、アワル・ムハラム、マウリドゥル・ラスル）、仏教（ウェサック）、キリスト教（クリスマス）、ヒンドゥー教（ディーパバリ、一部の州ではタイプーサム）など。
+- **宗教。** 祝祭日は主要な信仰の祭りを記す――イスラム教（[ハリラヤ・アイディルフィトリ](/ja/arts-culture/hari-raya-aidilfitri/)、ハリラヤ・アイディルアドハ、アワル・ムハラム、マウリドゥル・ラスル）、仏教（ウェサック）、キリスト教（クリスマス）、ヒンドゥー教（[ディーパバリ](/ja/arts-culture/deepavali/)、一部の州では[タイプーサム](/ja/arts-culture/thaipusam/)）など。
 - **王室。** **国王（Yang di-Pertuan Agong）**の誕生日は国家の祝日であり、世襲の統治者を戴く各州もまた、その統治者の誕生日を州の祝日として守る。
 - **国家性。** **ムルデカ・デー**（8月31日）は独立を記し、**マレーシア・デー**（9月16日）はマレーシアの成立を記す。
 

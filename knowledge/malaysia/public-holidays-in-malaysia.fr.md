@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ En raison de la couche d'État, le *nombre total* de jours fériés — et parfo
 
 Le calendrier des jours fériés de la Malaisie est, de fait, un portrait du pays :
 
-- **La religion.** Les jours fériés marquent les fêtes des grandes confessions — islamiques (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), bouddhistes (Wesak), chrétiennes (Noël) et hindoues (Deepavali, Thaipusam dans certains États), entre autres.
+- **La religion.** Les jours fériés marquent les fêtes des grandes confessions — islamiques ([Hari Raya Aidilfitri](/fr/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), bouddhistes (Wesak), chrétiennes (Noël) et hindoues ([Deepavali](/fr/arts-culture/deepavali/), [Thaipusam](/fr/arts-culture/thaipusam/) dans certains États), entre autres.
 - **La royauté.** L'anniversaire du **Yang di-Pertuan Agong** (le Roi) est un jour férié national, et chaque État doté d'un Souverain héréditaire observe aussi l'anniversaire de ce Souverain comme jour férié d'État.
 - **La nation.** Le **Jour de Merdeka** (31 août) marque l'indépendance ; le **Jour de la Malaisie** (16 septembre) marque la formation de la Malaisie.
 

@@ -143,7 +143,7 @@ Neither state's linguistic map reduces cleanly to a short list; the scale report
 
 ## Peninsular Malaysia's Orang Asli
 
-Peninsular Malaysia has its own indigenous population, the Orang Asli, administered by the Department of Orang Asli Development (JAKOA). JAKOA classifies the Orang Asli into three main groups — Negrito, Senoi and Proto-Malay — comprising 18 subgroups in total, each historically associated with its own language, distributed mainly across Pahang, Perak and Selangor.
+Peninsular Malaysia has its own indigenous population, the [Orang Asli](/arts-culture/orang-asli), administered by the Department of Orang Asli Development (JAKOA). JAKOA classifies the Orang Asli into three main groups — Negrito, Senoi and Proto-Malay — comprising 18 subgroups in total, each historically associated with its own language, distributed mainly across Pahang, Perak and Selangor.
 
 The Orang Asli are numerically a small share of the national population, but they are linguistically distinct from both the Malay-speaking majority and from the indigenous groups of Sabah and Sarawak — three separate indigenous language traditions inside one country, not one.
 

@@ -18,7 +18,7 @@ keyTakeaways:
   - "이 예술 형식은 태국 남부의 디키르(dikir) 전통과 연관되며, 클란탄(Kelantan)에서 판툰과 클란탄 방언이 더해져 변용되었습니다"
 appliesTo: "디키르 바랏의 공연 형식, 투캉 카룻과 톡 주아라의 역할, 그리고 한 무리의 구성을 이해하고자 하는 모든 사람."
 lang: "ko"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,7 +69,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-두 무리가 무대 위에서 책상다리로 마주 앉습니다. 대본은 없습니다. 첫 번째 무리가 물가 상승을 풍자하는 판툰을 주고받기를 마치면, 두 번째 무리에게는 응수를 지어낼 몇 초의 시간밖에 없습니다 — 그것은 운(韻)이 맞아야 하고, 박자가 맞아야 하며, 가능하다면 원래 판툰보다 더 날카로워야 합니다.
+두 무리가 무대 위에서 책상다리로 마주 앉습니다. 대본은 없습니다. 첫 번째 무리가 물가 상승을 풍자하는 [판툰](/ko/arts-culture/pantun)을 주고받기를 마치면, 두 번째 무리에게는 응수를 지어낼 몇 초의 시간밖에 없습니다 — 그것은 운(韻)이 맞아야 하고, 박자가 맞아야 하며, 가능하다면 원래 판툰보다 더 날카로워야 합니다.
 
 그것이 디키르 바랏에서 가장 기다려지는 순간입니다. 두 투캉 카룻 사이의 즉흥적인 격돌입니다.
 

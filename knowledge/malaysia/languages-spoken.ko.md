@@ -32,7 +32,7 @@ faq:
     a: "그렇습니다. 말레이시아의 국가 교육 제도에는 바하사 믈라유(Bahasa Melayu)를 사용하는 국민학교(SK)와 더불어, 중국어(SJKC) 또는 타밀어(SJKT)를 교육 매개로 사용하는 국민형 학교(Sekolah Jenis Kebangsaan)가 포함됩니다. 이 세 가지는 모두 교육부와 동일한 국가 교육과정 아래에 있습니다."
 
 lang: "ko"
-sourceContentHash: "ab65f68bd17c67a2"
+sourceContentHash: "363a56e58f7f2279"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -144,7 +144,7 @@ SJKC 계열은 교육부 산하 국가 교육 체계 안에 있으며, 국민학
 
 ## 말레이반도의 오랑 아슬리
 
-말레이반도에는 자신의 토착 인구인 오랑 아슬리(Orang Asli)가 있으며, 오랑 아슬리 개발국(JAKOA)이 이를 관할합니다. JAKOA는 오랑 아슬리를 세 주요 집단 — 느그리토(Negrito), 스노이(Senoi), 원(原)말레이(Proto-Malay) — 으로 분류하며, 모두 18개 하위 집단으로 이루어지고, 각각 역사적으로 저마다의 언어와 결부되며, 주로 파항(Pahang), 페락(Perak), 슬랑오르(Selangor)에 분포합니다.
+말레이반도에는 자신의 토착 인구인 [오랑 아슬리(Orang Asli)](/ko/arts-culture/orang-asli)가 있으며, 오랑 아슬리 개발국(JAKOA)이 이를 관할합니다. JAKOA는 오랑 아슬리를 세 주요 집단 — 느그리토(Negrito), 스노이(Senoi), 원(原)말레이(Proto-Malay) — 으로 분류하며, 모두 18개 하위 집단으로 이루어지고, 각각 역사적으로 저마다의 언어와 결부되며, 주로 파항(Pahang), 페락(Perak), 슬랑오르(Selangor)에 분포합니다.
 
 오랑 아슬리는 국가 인구에서 수적으로 작은 몫이지만, 말레이어를 쓰는 다수와도, 사바·사라왁의 토착 집단과도 언어적으로 구별됩니다 — 한 나라 안의 세 개의 별개 토착 언어 전통이지, 하나가 아닙니다.
 

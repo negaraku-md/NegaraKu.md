@@ -35,7 +35,7 @@ faq:
     a: "Gawai Dayak (dirayakan oleh orang Iban dan kelompok Dayak lain di Sarawak) dan Kaamatan (perayaan syukur Kadazan-Dusun di Sabah) sama-sama berporos pada beras dan arak beras. Tuak, arak dari beras ketan, menjadi inti sambutan dan ritual. Hidangan khasnya mencakup manok pansuh (ayam yang dimasak dalam tabung bambu) di Sarawak dan hinava (hidangan ikan mentah yang diasamkan dengan jeruk nipis) di Sabah, di samping beras yang dibungkus dan dimasak dalam daun."
 
 lang: "id"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ Open house adalah benang yang mengikat seluruh kalender menjadi satu. Sebuah kel
 merayakan perayaannya sendiri menyiapkan hidangan dan menyambut teman, tetangga, rekan kerja,
 dan sering kali orang yang sama sekali asing untuk makan, sehingga sepanjang setahun sebagian
 besar warga Malaysia pada akhirnya menjadi tamu di perayaan yang bukan milik mereka. Kebiasaan
-ini melintasi komunitas: ia dijalankan pada Hari Raya, Tahun Baru Imlek, Deepavali, dan
+ini melintasi komunitas: ia dijalankan pada Hari Raya, Tahun Baru Imlek, [Deepavali](/id/arts-culture/deepavali), dan
 perayaan lain dengan setara. Politikus, perusahaan, dan badan pemerintah menggelar open house
 publik yang besar, dan tradisi ini secara luas dibaca sebagai ringkasan koeksistensi
 multikultural negeri ini. Kedudukannya demikian tinggi sehingga, pada 2025, *The Star*
@@ -140,7 +140,7 @@ ini, yang dibahas tersendiri dalam
 [bazar Ramadan dan bulan puasa](/id/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 adalah institusi musiman yang menarik pembeli dari setiap latar belakang.
 
-Puasa memuncak pada **Hari Raya Aidilfitri**, perayaan yang membuka musim open house
+Puasa memuncak pada [**Hari Raya Aidilfitri**](/id/arts-culture/hari-raya-aidilfitri), perayaan yang membuka musim open house
 paling tersohor di negeri ini. Mejanya dibangun di sekitar segelintir makanan pokok:
 *ketupat* (ketupat beras yang dipadatkan dan direbus dalam anyaman kantong daun palem),
 *lemang* (beras ketan dimasak dengan santan dalam bambu di atas api terbuka), dan *rendang*
@@ -185,8 +185,7 @@ lebih luas dari hidangan perayaan yang dibagikan lintas komunitas dipetakan dala
 
 ## Gawai dan Kaamatan: perayaan panen Borneo
 
-Malaysia Timur memelihara sepasang perayaan berbeda yang berakar pada panen padi. **Gawai
-Dayak**, dirayakan oleh orang Iban dan kelompok Dayak lain di Sarawak sekitar awal Juni, dan
+Malaysia Timur memelihara sepasang perayaan berbeda yang berakar pada panen padi. [**Gawai Dayak**](/id/arts-culture/gawai-dayak), dirayakan oleh orang Iban dan kelompok Dayak lain di Sarawak sekitar awal Juni, dan
 **Kaamatan**, perayaan syukur Kadazan-Dusun di Sabah pada akhir Mei, keduanya mensyukuri panen
 dan keduanya berporos pada beras dan arak beras. *Tuak* — arak yang diseduh dari beras ketan
 dan ragi buatan sendiri — menjadi inti sambutan dan ritual; sebagaimana dilaporkan *The Star*
@@ -206,7 +205,7 @@ dan bukan menentukan.
 
 ## Thaipusam: kesalehan vegetarian
 
-Tidak setiap perayaan adalah pesta. **Thaipusam**, perayaan Hindu yang paling kentara dikaitkan
+Tidak setiap perayaan adalah pesta. [**Thaipusam**](/id/arts-culture/thaipusam), perayaan Hindu yang paling kentara dikaitkan
 dengan Batu Caves di dekat Kuala Lumpur, ditandai dengan puasa dan vegetarianisme yang ketat.
 Umat — terutama mereka yang akan memikul *kavadi* — bersiap dengan masa pantang, menyantap satu
 kali makan vegetarian sehari; sumber memberikan angka ini secara beragam, sekitar 30 atau 48

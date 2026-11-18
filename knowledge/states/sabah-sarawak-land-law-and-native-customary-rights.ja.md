@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 
 status: "published"
 aiAssisted: true
@@ -114,7 +114,7 @@ framework: explainer
 | --- | --- | --- | --- |
 | 準拠法令 | National Land Code | サバ土地条例（Cap. 68） | サラワク土地法典（Cap. 81） |
 | 先住民保有区分 | マレー人保留地 | 先住民権原／先住民慣習権 | 慣習地／Native Area Land |
-| NCRを承認するか | 限定的（オラン・アスリ、別法による） | 認める（s.15） | 認める（s.5） |
+| NCRを承認するか | 限定的（[オラン・アスリ](/ja/arts-culture/orang-asli)、別法による） | 認める（s.15） | 認める（s.5） |
 
 両州における先住民地の際立った特徴の一つは、譲渡が制限されていることである。サバでは、土地条例s.17(1)が、書面による許可がない限り、先住民と非先住民との間の土地取引を禁じている——先住民地を先住民の手の中に留めておくことを意図した規則である。
 

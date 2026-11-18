@@ -36,7 +36,7 @@ socialTitle: "Du Sejarah Melayu jusqu'aux Lauréats littéraires nationaux — l
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ La littérature malaise n'est pas une époque, mais un courant qui coule depuis 
 
 ## La littérature classique : le monde des hikayat et des syair
 
-La littérature classique malaise est née de la tradition de cour et de la tradition religieuse, et en grande partie recopiée en [écriture Jawi](/fr/arts-culture/jawi-script) avant l'arrivée de l'écriture Rumi. Selon l'Encyclopaedia Britannica, le *Sejarah Melayu* — composé vers le XVe ou le XVIe siècle — est l'une des meilleures œuvres littéraires et historiques en langue malaise, une grande description du Sultanat de Melaka fondé vers l'an 1400.
+La littérature classique malaise est née de la tradition de cour et de la tradition religieuse, et en grande partie recopiée en [écriture Jawi](/fr/arts-culture/jawi-script) avant l'arrivée de l'[écriture Rumi](/fr/arts-culture/rumi-script). Selon l'Encyclopaedia Britannica, le *Sejarah Melayu* — composé vers le XVe ou le XVIe siècle — est l'une des meilleures œuvres littéraires et historiques en langue malaise, une grande description du Sultanat de Melaka fondé vers l'an 1400.
 
 À côté de cette œuvre historique se tient le *Hikayat Hang Tuah*, une œuvre épique considérée comme l'un des textes classiques malais les plus importants. À la différence du *Sejarah Melayu* qui relève de l'historiographie traditionnelle, le *Hikayat Hang Tuah* élève l'histoire de l'amiral de Melaka au rang de héros épique, avec des éléments que les chercheurs étudient comme des adaptations d'influences culturelles diverses. Son auteur et sa date réelle ne peuvent être établis avec précision.
 
@@ -112,7 +112,7 @@ La devise de ce mouvement — **«L'art pour la société»** — place la litt�
 
 ## Le Prix littéraire national et les figures majeures
 
-La plus haute reconnaissance du pays décernée aux écrivains est le **Prix littéraire national** (*Anugerah Sastera Negara*), qui confère le titre de **Lauréat littéraire national** (*Sasterawan Negara*). Ce prix a été décerné pour la première fois en **1981**, et sa sélection est portée par le Panel du Prix littéraire national avec le soutien du Dewan Bahasa dan Pustaka.
+La plus haute reconnaissance du pays décernée aux écrivains est le **[Prix littéraire national](/fr/arts-culture/malaysian-literature)** (*Anugerah Sastera Negara*), qui confère le titre de **Lauréat littéraire national** (*Sasterawan Negara*). Ce prix a été décerné pour la première fois en **1981**, et sa sélection est portée par le Panel du Prix littéraire national avec le soutien du [Dewan Bahasa dan Pustaka](/fr/arts-culture/dewan-bahasa-dan-pustaka).
 
 Son premier lauréat est **Keris Mas** (Kamaludin Muhammad, 1922–1992), figure centrale de l'ASAS 50. Il a été suivi par une série de grands noms : Shahnon Ahmad (1982), Usman Awang (1983), A. Samad Said (1985), Arena Wati (1987) et Muhammad Haji Salleh (1991), entre autres. Chaque lauréat représente une contribution majeure au roman, à la nouvelle, au poème ou au théâtre malais moderne.
 

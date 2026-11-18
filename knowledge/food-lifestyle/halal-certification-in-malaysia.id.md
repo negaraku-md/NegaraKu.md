@@ -37,7 +37,7 @@ faq:
     a: "Ya. Sertifikasi halal tertumpu pada kepatuhan produk, bahan, dan proses terhadap persyaratan MS 1500 dan MPPHM, bukan pada agama pemilik. Perusahaan milik non-Muslim boleh dan banyak yang memohon serta memperoleh Sijil Pengesahan Halal Malaysia."
 
 lang: "id"
-sourceContentHash: "73ec7034840ec260"
+sourceContentHash: "56d2ce4e65866dc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Ciri-ciri logo Halal Malaysia yang asli pula membantu pemeriksaan cepat dengan m
 
 - Bintang bersudut delapan di tengah lingkaran
 - Kata "HALAL" dalam tulisan Arab di dalam bintang
-- Kata "HALAL" dan "MALAYSIA" dalam tulisan Latin (huruf besar)
+- Kata "HALAL" dan "MALAYSIA" dalam [tulisan Latin](/id/arts-culture/rumi-script) (huruf besar)
 - Kata Malaysia dalam tulisan Arab
 - Dua bintang kecil bersudut lima di kiri dan kanan
 

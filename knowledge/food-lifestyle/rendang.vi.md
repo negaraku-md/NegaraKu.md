@@ -35,7 +35,7 @@ faq:
     a: "Thịt bò là lựa chọn kinh điển và nổi tiếng nhất, theo truyền thống dùng những phần dai hơn vốn có lợi khi nấu lâu, và trong lịch sử là thịt trâu. Rendang gà (rendang ayam) rất phổ biến ở Malaysia và chín nhanh hơn. Các phiên bản khác dùng vịt, cừu, hoặc các đặc sản vùng miền; vùng ven biển Tây Sumatra thậm chí còn có phiên bản dùng động vật có vỏ. Kỹ thuật nấu chậm, nhiều gia vị quan trọng hơn loại đạm cụ thể."
 
 lang: "vi"
-sourceContentHash: "89aad66ea5c70fd7"
+sourceContentHash: "88b7fd40089dd4b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ dishFacts:
   where: "Trên bàn tiệc lễ hội và open-house của Malaysia; gắn liền chặt chẽ với cộng đồng gốc Minangkabau ở Negeri Sembilan và các kiểu rendang sậm màu của họ."
 ---
 
-Đi ngang một gian bếp Mã Lai vào những ngày trước Hari Raya, bạn thường sẽ nghe
+Đi ngang một gian bếp Mã Lai vào những ngày trước [Hari Raya](/vi/arts-culture/hari-raya-aidilfitri), bạn thường sẽ nghe
 thấy rendang trước khi nhìn thấy nó — tiếng chiếc thìa gỗ cạo chậm rãi vào thành
 một chiếc nồi nặng, lặp đi lặp lại, suốt nhiều giờ. Rendang không phải món ăn
 bạn có thể vội vàng. Nó được dỗ dành chứ không đơn thuần được nấu, từ một món cà

@@ -35,7 +35,7 @@ faq:
     a: "Gawai Dayak（サラワクの Iban をはじめとする Dayak 諸族が祝う）と Kaamatan（サバの Kadazan-Dusun の感謝祭）は、いずれも米と米酒を軸とする。もち米から造る米酒 tuak は、乾杯と儀礼の中心だ。代表的な料理には、サラワクの manok pansuh（竹筒で調理した鶏）やサバの hinava（ライムで締めた生魚料理）があり、葉で包んで調理した米も添えられる。"
 
 lang: "ja"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ framework: history-culture
 オープンハウスは、暦全体を一つに結ぶ糸だ。自らの祭りを祝う家庭がごちそうを用意し、
 友人、隣人、同僚、そしてしばしばまったく見知らぬ人までも食事に迎える。こうして一年
 の間に、ほとんどのマレーシア人が、自分のものではない祭りの客となる。この習わしは
-共同体を越えて続く——Hari Raya、旧正月、Deepavali などの祭りで等しく行われている。
+共同体を越えて続く——Hari Raya、旧正月、[Deepavali](/ja/arts-culture/deepavali) などの祭りで等しく行われている。
 政治家、企業、政府機関が大規模な公開のオープンハウスを催し、この伝統は国の多文化共生
 を表す言葉として広く読み解かれている。その地位は高く、2025 年には、Hari Raya、
 Deepavali、旧正月などにまたがるオープンハウスの概念に UNESCO の認定を求める提案を
@@ -136,7 +136,7 @@ Ramadan に始まる。午後遅くから、*bazaar Ramadan* が駐車場や路�
 [Ramadan のバザールと断食月](/ja/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
 で別途取り上げているとおり、あらゆる背景の買い手を引き寄せる季節の恒例行事だ。
 
-断食は **Hari Raya Aidilfitri** で頂点を迎える。この祭りが、国で最もよく知られる
+断食は [**Hari Raya Aidilfitri**](/ja/arts-culture/hari-raya-aidilfitri) で頂点を迎える。この祭りが、国で最もよく知られる
 オープンハウスの季節の幕を開ける。食卓は、ひと握りの定番を軸に組み立てられる——
 *ketupat*（編んだ椰子の葉の袋に詰めて茹でた米の団子）、*lemang*（もち米をココナッツ
 ミルクとともに竹筒で直火で炊いたもの）、*rendang*（肉を香辛料入りのココナッツソースで
@@ -179,7 +179,7 @@ Ching Fatt が供した魚料理に起源を求める。一方シンガポール
 
 ## Gawai と Kaamatan：ボルネオの収穫祭
 
-東マレーシアは、稲の収穫に根ざした別の一対の祭りを守っている。**Gawai Dayak** は
+東マレーシアは、稲の収穫に根ざした別の一対の祭りを守っている。[**Gawai Dayak**](/ja/arts-culture/gawai-dayak) は
 サラワクの Iban をはじめとする Dayak 諸族が 6 月初めごろに祝い、**Kaamatan** はサバの
 Kadazan-Dusun の感謝祭で 5 月下旬に行われる。いずれも収穫に感謝し、いずれも米と米酒を
 軸とする。*Tuak*——もち米と自家製の酵母から醸す酒——は乾杯と儀礼の中心だ。*The Star*
@@ -199,7 +199,7 @@ pansuh**、竹筒の中で調理した鶏で——より広い [Iban 料理](/ja
 ## Thaipusam：菜食の信仰
 
 すべての祭りが饗宴とは限らない。クアラルンプール近郊の Batu Caves と最も目に見える形で
-結びついたヒンドゥー教の祭り **Thaipusam** は、断食と厳格な菜食で特徴づけられる。
+結びついたヒンドゥー教の祭り [**Thaipusam**](/ja/arts-culture/thaipusam) は、断食と厳格な菜食で特徴づけられる。
 信者——とりわけ *kavadi* を担ぐ人々——は、節制の期間を設けて備え、一日に一度の菜食の
 みをとる。資料はこれを約 30 日とも 48 日ともさまざまに伝え、最後の一両日はより厳格な
 完全断食とする説もあるため、正確な行法は信仰上の権威に確認するのがよい。祭り当日には、

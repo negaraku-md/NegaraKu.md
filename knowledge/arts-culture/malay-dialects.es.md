@@ -36,7 +36,7 @@ socialTitle: "Loghat de Kelantan, dialectos del norte, malayo de Sarawak — la 
 lang: "es"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ Este artículo explica los dialectos malayos de forma descriptiva: qué es un di
 
 ## La lengua estándar y los dialectos
 
-La primera distinción que hay que comprender es la que existe entre el **malayo estándar** y los **dialectos regionales**. La lengua estándar es la variedad normalizada de la [lengua malaya](/es/arts-culture/bahasa-melayu) que se usa en la educación, la radiodifusión oficial, los documentos gubernamentales y las publicaciones. Es la variedad que coordina y desarrolla, entre otros, el Dewan Bahasa dan Pustaka (DBP), como lengua común entre regiones.
+La primera distinción que hay que comprender es la que existe entre el **malayo estándar** y los **dialectos regionales**. La lengua estándar es la variedad normalizada de la [lengua malaya](/es/arts-culture/bahasa-melayu) que se usa en la educación, la radiodifusión oficial, los documentos gubernamentales y las publicaciones. Es la variedad que coordina y desarrolla, entre otros, el [Dewan Bahasa dan Pustaka](/es/arts-culture/dewan-bahasa-dan-pustaka) (DBP), como lengua común entre regiones.
 
 Según los estudios lingüísticos, el malayo estándar en Malasia se basa en gran medida en el **dialecto de Johor-Riau**, es decir, la variedad malaya del sur de la península. En el estudio de Mukhlis Abu Bakar sobre la pronunciación de Johor-Riau y la pronunciación estándar, la pronunciación de Johor-Riau se describe como la que se convirtió en la referencia estándar en Malasia y Singapur tras el papel de la radio a mediados del siglo XX. La cuestión de si la pronunciación oficial debía basarse en la ortografía (pronunciación estándar) o en la pronunciación de Johor-Riau fue en su día un asunto de política lingüística que cambió con el tiempo.
 

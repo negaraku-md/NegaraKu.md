@@ -35,7 +35,7 @@ faq:
     a: "La cocina Iban cotidiana y la cocina de Sarawak en general usan mucho verduras silvestres recogidas cerca de la casa larga, en especial helechos de selva como el midin (Stenochlaena palustris) y el paku, normalmente salteados con ajo o pasta de camarón (belacan). La mostaza ensabi es otra hortaliza común, cocinada con belacan y ajo, hecha sopa o encurtida como kasam ensabi."
 
 lang: "es"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -140,7 +140,7 @@ se marchitan y se funden en el plato. Muchas recetas añaden también hierba de 
 discrepan sobre si pertenece a la versión más tradicional, de modo que conviene tomar la mezcla exacta de
 aromáticos como una cuestión de variación regional y familiar.
 
-Más allá de la cocina, el manok pansoh es un plato de celebración, cocinado para la fiesta Gawai Dayak y
+Más allá de la cocina, el manok pansoh es un plato de celebración, cocinado para la fiesta [Gawai Dayak](/es/arts-culture/gawai-dayak) y
 otras reuniones, y también se vende en los puestos de comida por todo Sarawak. No es exclusivo de los
 Iban——las comunidades Bidayuh y Orang Ulu también preparan pollo al bambú——, de modo que se entiende
 mejor como una técnica Dayak compartida por la que los Iban son especialmente conocidos.

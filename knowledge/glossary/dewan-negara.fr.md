@@ -27,7 +27,7 @@ verificationNeeded:
   - "Le texte en langue malaise de la Constitution fédérale est une traduction du Cabinet du Procureur général. À moins et jusqu'à ce qu'il soit déclaré faisant foi en vertu de l'article 160B, c'est le texte anglais qui fait foi."
 
 lang: "fr"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -171,7 +171,7 @@ L'article 45(2) fixe les critères applicables aux membres nommés. Ils doivent
 - ont atteint une distinction dans une profession, le commerce, l'industrie,
   l'agriculture, les activités culturelles ou le service social ; ou
 - représentent une minorité raciale ; ou
-- sont capables de représenter les intérêts des Orang Asli.
+- sont capables de représenter les intérêts des [Orang Asli](/fr/arts-culture/orang-asli).
 
 Un élément doit être lu en parallèle. L'article 40(1) dispose que, dans
 l'exercice de ses fonctions au titre de la Constitution, le Yang di-Pertuan Agong

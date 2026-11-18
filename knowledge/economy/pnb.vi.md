@@ -32,7 +32,7 @@ faq:
 
 
 lang: "vi"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -152,7 +152,7 @@ ASB chỉ giới hạn cho Bumiputera, nhưng nhóm đủ điều kiện rộng 
 - Các cá nhân Bumiputera Malaysia từ 18 tuổi trở lên; hoặc
 - Các công dân Malaysia từ 18 tuổi trở lên gốc Xiêm/Thái, gốc Bồ Đào Nha/Á-Âu, hoặc người cải đạo Hồi giáo không phải Bumiputera.
 
-Nguồn có thẩm quyền về việc ai có thể đầu tư là ASNB Master Prospectus, không phải Product Highlights Sheet, và nó khung nhóm Bumiputera cốt lõi là người Mã Lai, người bản địa Sabah và Sarawak, và người Orang Asli.
+Nguồn có thẩm quyền về việc ai có thể đầu tư là ASNB Master Prospectus, không phải Product Highlights Sheet, và nó khung nhóm Bumiputera cốt lõi là người Mã Lai, người bản địa Sabah và Sarawak, và người [Orang Asli](/vi/arts-culture/orang-asli).
 
 Một người giám hộ thuộc một trong hai nhóm đủ điều kiện cũng có thể mở một **Akaun Remaja** cho một trẻ vị thành niên Malaysia (giấy khai sinh hợp lệ, dưới 18 tuổi). Một Remaja không thể yêu cầu rút tiền cho đến 12 tuổi, và ngay cả khi đó cũng bị giới hạn ở 200 đơn vị một tuần; tài khoản tự động chuyển thành một Akaun Dewasa khi trẻ vị thành niên đạt tuổi trưởng thành.
 

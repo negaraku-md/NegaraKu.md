@@ -35,7 +35,7 @@ faq:
     a: "Le Gawai Dayak (célébré par les Iban et d'autres groupes Dayak du Sarawak) et le Kaamatan (l'action de grâce Kadazan-Dusun du Sabah) tournent tous deux autour du riz et du vin de riz. Le tuak, un vin de riz gluant, est au cœur des toasts et des rituels. Parmi les plats emblématiques figurent le manok pansuh (poulet cuit dans un tube de bambou) au Sarawak et le hinava (un plat de poisson cru mariné au citron vert) au Sabah, aux côtés de riz enveloppé et cuit dans des feuilles."
 
 lang: "fr"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ L'open house est le fil qui relie tout le calendrier. Une famille qui célèbre 
 prépare une tablée et accueille amis, voisins, collègues et souvent de parfaits inconnus pour
 manger, si bien qu'au cours d'une année la plupart des Malaisiens finissent par être conviés à
 des fêtes qui ne sont pas les leurs. La coutume traverse les communautés : elle se pratique au
-Hari Raya, au Nouvel An chinois, à Deepavali et lors d'autres fêtes pareillement. Responsables
+Hari Raya, au Nouvel An chinois, à [Deepavali](/fr/arts-culture/deepavali) et lors d'autres fêtes pareillement. Responsables
 politiques, entreprises et organismes publics organisent de grandes open houses publiques, et la
 tradition se lit largement comme un raccourci de la coexistence multiculturelle du pays. Son
 prestige est tel qu'en 2025, *The Star* a rapporté une proposition visant à demander la
@@ -139,7 +139,7 @@ Ces bazars, traités à part dans
 [les bazars du Ramadan et le mois de jeûne](/fr/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 sont une institution saisonnière qui attire des acheteurs de toute origine.
 
-Le jeûne culmine au **Hari Raya Aidilfitri**, la fête qui ouvre la saison d'open houses la plus
+Le jeûne culmine au [**Hari Raya Aidilfitri**](/fr/arts-culture/hari-raya-aidilfitri), la fête qui ouvre la saison d'open houses la plus
 connue du pays. La table se construit autour d'une poignée d'incontournables : le *ketupat*
 (boulettes de riz comprimées et bouillies dans des pochettes tressées en feuille de palmier), le
 *lemang* (riz gluant cuit au lait de coco dans du bambou sur feu ouvert) et le *rendang* (viande
@@ -187,7 +187,7 @@ cartographié dans
 ## Gawai et Kaamatan : les fêtes des moissons de Bornéo
 
 La Malaisie orientale entretient un autre couple de fêtes enracinées dans la moisson du riz. Le
-**Gawai Dayak**, célébré par les Iban et d'autres groupes Dayak du Sarawak vers le début de juin,
+[**Gawai Dayak**](/fr/arts-culture/gawai-dayak), célébré par les Iban et d'autres groupes Dayak du Sarawak vers le début de juin,
 et le **Kaamatan**, l'action de grâce Kadazan-Dusun du Sabah à la fin de mai, rendent tous deux
 grâce pour la moisson et tournent tous deux autour du riz et du vin de riz. Le *tuak* — un vin
 brassé à partir de riz gluant et de levure maison — est au cœur des toasts et du rituel ; comme l'a
@@ -207,7 +207,7 @@ représentatifs et non comme définitifs.
 
 ## Thaipusam : dévotion végétarienne
 
-Toute fête n'est pas un festin. **Thaipusam**, la fête hindoue la plus visiblement associée aux
+Toute fête n'est pas un festin. [**Thaipusam**](/fr/arts-culture/thaipusam), la fête hindoue la plus visiblement associée aux
 Batu Caves, près de Kuala Lumpur, se signale par le jeûne et un végétarisme strict. Les fidèles —
 surtout ceux qui porteront un *kavadi* — s'y préparent par une période d'abstinence, ne prenant
 qu'un seul repas végétarien par jour ; les sources le donnent diversement comme environ 30 ou 48

@@ -32,7 +32,7 @@ faq:
     a: "Sí. El sistema educativo nacional de Malasia incluye escuelas de tipo nacional (Sekolah Jenis Kebangsaan) que usan el mandarín (SJKC) o el tamil (SJKT) como lengua de instrucción, junto a las escuelas nacionales (SK) que usan el bahasa melayu. Las tres dependen del Ministerio de Educación y del mismo currículo nacional."
 
 lang: "es"
-sourceContentHash: "ab65f68bd17c67a2"
+sourceContentHash: "363a56e58f7f2279"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -144,7 +144,7 @@ El mapa lingüístico de ninguno de los dos estados se reduce limpiamente a una 
 
 ## Los orang asli de Malasia Peninsular
 
-Malasia Peninsular tiene su propia población indígena, los orang asli, administrada por el Departamento de Desarrollo de los Orang Asli (JAKOA). JAKOA clasifica a los orang asli en tres grupos principales — negrito, senoi y protomalayo — que comprenden 18 subgrupos en total, cada uno asociado históricamente a su propia lengua, distribuidos principalmente por Pahang, Perak y Selangor.
+Malasia Peninsular tiene su propia población indígena, los [orang asli](/es/arts-culture/orang-asli), administrada por el Departamento de Desarrollo de los Orang Asli (JAKOA). JAKOA clasifica a los orang asli en tres grupos principales — negrito, senoi y protomalayo — que comprenden 18 subgrupos en total, cada uno asociado históricamente a su propia lengua, distribuidos principalmente por Pahang, Perak y Selangor.
 
 Los orang asli son numéricamente una pequeña proporción de la población nacional, pero son lingüísticamente distintos tanto de la mayoría de habla malaya como de los grupos indígenas de Sabah y Sarawak — tres tradiciones de lenguas indígenas separadas dentro de un mismo país, no una.
 

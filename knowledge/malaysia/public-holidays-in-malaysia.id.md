@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ Karena lapisan negara bagian, *total* jumlah hari libur umum — dan sesekali ta
 
 Kalender hari libur Malaysia, pada dasarnya, adalah potret negara ini:
 
-- **Agama.** Hari libur menandai perayaan agama-agama besar — Islam (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Buddha (Wesak), Kristen (Natal), dan Hindu (Deepavali, Thaipusam di sebagian negara bagian), di antaranya.
+- **Agama.** Hari libur menandai perayaan agama-agama besar — Islam ([Hari Raya Aidilfitri](/id/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Buddha (Wesak), Kristen (Natal), dan Hindu ([Deepavali](/id/arts-culture/deepavali/), [Thaipusam](/id/arts-culture/thaipusam/) di sebagian negara bagian), di antaranya.
 - **Kerajaan.** Ulang tahun **Yang di-Pertuan Agong** (Raja) adalah hari libur nasional, dan setiap negara bagian yang memiliki Raja turun-temurun juga memperingati ulang tahun Raja tersebut sebagai hari libur negara bagian.
 - **Kebangsaan.** **Hari Merdeka** (31 Agustus) menandai kemerdekaan; **Hari Malaysia** (16 September) menandai pembentukan Malaysia.
 

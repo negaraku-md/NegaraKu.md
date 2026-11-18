@@ -36,7 +36,7 @@ socialTitle: "马来人最古老的口传诗歌——pantun 的故事及其 UNES
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## 什么是 pantun
 
-Pantun 是马来传统口传诗歌形式。根据语文出版局（DBP）出版的《Kamus Dewan》，pantun 是「一种通常每节由四行构成的旧体诗」，其中「前两行为 pembayang maksud（铺垫意旨），其余各行则包含其意旨」。
+Pantun 是马来传统口传诗歌形式。根据[语文出版局](/zh/arts-culture/dewan-bahasa-dan-pustaka)（DBP）出版的《Kamus Dewan》，pantun 是「一种通常每节由四行构成的旧体诗」，其中「前两行为 pembayang maksud（铺垫意旨），其余各行则包含其意旨」。
 
 这一定义包含两个要点。其一，pantun 是*口传*诗歌——它早在被书面记录之前，便透过口语、歌唱与记忆而诞生、存活与流传。学术来源将其形容为马来文明中最古老的口传文学形式之一。其二，pantun 并非仅是押韵诗行的串联；它在「意象」部分与「意义」部分之间有着特定的内部划分。
 

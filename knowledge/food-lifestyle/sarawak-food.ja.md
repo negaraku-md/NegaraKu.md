@@ -35,7 +35,7 @@ faq:
     a: "いいえ。名前は共通していますが、サラワク・ラクサは独自のスタイルで、タマリンドと香味料を加えたsambal belacanのペーストを土台とし、細い米ビーフンに、ほぐした鶏肉、エビ、卵焼き、そしてライムを絞ってのせます。酸味のあるPulau Pinang asam laksaでも、一般的なココナッツカレーラクサでもありません。"
 
 lang: "ja"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ Sibu周辺では、Foochowの食卓が近い親類を提供する。**Kampua mee
 
 ## 竹で調理し、生で供する：manok pansohとumai
 
-二つの料理がサラワク料理の先住民的な核心をとらえている。**Manok pansoh**（*ayam pansuh*または*manuk pansuh*とも）は、鶏をレモングラス、ショウガ、*daun ubi*（キャッサバの葉）とともに中空の竹筒に詰め、直火で調理するものだ。封じられた竹が肉をその肉汁の中で蒸し、かすかな木の香りを与える。これはIbanとBidayuhの料理で、伝統的には大きな行事、とりわけGawai Dayakの収穫祭のために作られたが、今では飲食店で一年中供されている。
+二つの料理がサラワク料理の先住民的な核心をとらえている。**Manok pansoh**（*ayam pansuh*または*manuk pansuh*とも）は、鶏をレモングラス、ショウガ、*daun ubi*（キャッサバの葉）とともに中空の竹筒に詰め、直火で調理するものだ。封じられた竹が肉をその肉汁の中で蒸し、かすかな木の香りを与える。これはIbanとBidayuhの料理で、伝統的には大きな行事、とりわけ[Gawai Dayak](/ja/arts-culture/gawai-dayak)の収穫祭のために作られたが、今では飲食店で一年中供されている。
 
 **Umai**は海岸のMelanauに由来し、事実上ボルネオのceviche（セビーチェ）だ。*tenggiri*（サワラ）のような身の締まった骨なしの海の魚を薄切りにし、ライムだけで「調理」し、エシャロット、唐辛子、ショウガ、玉ねぎと和えて冷たいまま食べる。しばしば炒ったサゴ粒を添える。かつては漁師の手早い食事だったが、今では珍重される前菜であり、MukahのようなMelanauの地域の定番だ。
 

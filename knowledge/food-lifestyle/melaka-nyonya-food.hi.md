@@ -35,7 +35,7 @@ faq:
     a: "gula का मलय में अर्थ है sugar (शक्कर), और यह नाम आमतौर पर Melaka राज्य तक पहुँचाया जाता है, जहाँ नारियल-ताड़ के फूल के रस से बनी यह ताड़ शक्कर उपजी मानी जाती है — हालाँकि यह जुड़ाव केवल ढीले-ढाले प्रलेखित है। गहरे भूरे रंग और कैरेमल-सदृश, यह cendol और कई Nyonya मिठाइयों को स्वाद देती है।"
 
 lang: "hi"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ Wikipedia इसे "a hot boiling pot of satay gravy" में डुबोई
 
 ## Kristang की भोजन-परंपरा
 
-Melaka एक ऐसा व्यंजन भी सहेजता है जो कहीं और लगभग नहीं मिलता: Kristang लोगों का खाना।
+Melaka एक ऐसा व्यंजन भी सहेजता है जो कहीं और लगभग नहीं मिलता: [Kristang](/hi/arts-culture/kristang-eurasian-culture) लोगों का खाना।
 Kristang वह पुर्तगाली-यूरेशियन समुदाय है जो 16वीं सदी के पुर्तगाली बसने वालों और
 स्थानीय लोगों का वंशज है, जिनमें से कई आज भी शहर की पुर्तगाली बस्ती (Portuguese
 Settlement) में रहते हैं। उनका सबसे प्रसिद्ध पकवान है *kari debal*, यानी devil's curry

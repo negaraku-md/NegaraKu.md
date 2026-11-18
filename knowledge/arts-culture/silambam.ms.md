@@ -29,7 +29,7 @@ faq:
   - q: "Adakah silambam diiktiraf sebagai sukan di Malaysia?"
     a: "Silambam diamalkan di Malaysia sebagai seni mempertahankan diri dan juga sebagai sukan pertandingan; pertandingan kebangsaan, kejohanan antarabangsa serta penyertaan dalam Sukan Malaysia (SUKMA) pada sesetengah tahun semuanya telah berlangsung. Namun begitu, persatuan dan status pentadbiran sukan ini mungkin berubah dari semasa ke semasa; sahkan kedudukan semasa dengan sumber rasmi."
 lang: "ms"
-sourceContentHash: "c8454fb7c128f998"
+sourceContentHash: "ecfad46369d6e997"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["சிலம்பம்", "Silambam", "மலேசியா சி
 framework: history-culture
 ---
 
-Di sebuah perayaan kuil atau majlis Tahun Baharu Tamil di Malaysia, anda mungkin melihat seorang pemuda memutar tongkat buluh panjang di atas kepala dan mengelilingi tubuhnya dengan pantas sepantas kilat, mengikut rentak gendang. Pusingan itu bukan sekadar untuk tatapan — ia merupakan lambang silambam, seni mempertahankan diri Tamil yang berusia lebih seribu lima ratus tahun.
+Di sebuah perayaan kuil atau majlis [Tahun Baharu Tamil](/arts-culture/tamil-new-year) di Malaysia, anda mungkin melihat seorang pemuda memutar tongkat buluh panjang di atas kepala dan mengelilingi tubuhnya dengan pantas sepantas kilat, mengikut rentak gendang. Pusingan itu bukan sekadar untuk tatapan — ia merupakan lambang silambam, seni mempertahankan diri Tamil yang berusia lebih seribu lima ratus tahun.
 
 Silambam ialah **seni mempertahankan diri yang berasal dari Tamil Nadu dan menggunakan tongkat buluh sebagai senjata utamanya**. Ia tiba di Malaysia bersama penghijrahan Tamil, dan hari ini berterusan sebagai seni mempertahankan diri, sukan dan persembahan budaya. Rencana ini menerangkan secara neutral asal usul seni ini, tekniknya, serta tempatnya dalam komuniti Tamil Malaysia.
 

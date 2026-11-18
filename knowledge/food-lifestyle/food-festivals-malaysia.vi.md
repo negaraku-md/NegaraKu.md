@@ -35,7 +35,7 @@ faq:
     a: "Gawai Dayak (do người Iban và các nhóm Dayak khác ở Sarawak mừng) và Kaamatan (lễ tạ ơn của người Kadazan-Dusun ở Sabah) đều xoay quanh gạo và rượu gạo. Tuak, một loại rượu gạo nếp, là trung tâm của các màn nâng ly và nghi lễ. Những món đặc trưng gồm manok pansuh (gà nấu trong ống tre) ở Sarawak và hinava (món cá sống ướp chanh) ở Sabah, cùng với cơm gói và nấu trong lá."
 
 lang: "vi"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ Open house là sợi chỉ nối cả cuốn lịch lại thành một. Một gi
 chính mình chuẩn bị một mâm cỗ và đón tiếp bạn bè, hàng xóm, đồng nghiệp và thường là cả
 những người hoàn toàn xa lạ đến ăn, để rồi trong vòng một năm, phần lớn người Malaysia rốt
 cuộc trở thành khách tại những lễ hội không phải của mình. Tập tục này trải khắp các cộng
-đồng: nó được thực hành trong Hari Raya, Tết Nguyên Đán của người Hoa, Deepavali và các lễ
+đồng: nó được thực hành trong Hari Raya, Tết Nguyên Đán của người Hoa, [Deepavali](/vi/arts-culture/deepavali) và các lễ
 hội khác như nhau. Chính trị gia, doanh nghiệp và các cơ quan chính phủ đều tổ chức những
 open house công cộng lớn, và truyền thống này được diễn giải rộng rãi như cách nói tắt cho
 sự chung sống đa văn hóa của đất nước. Vị thế của nó cao đến mức, vào năm 2025, *The Star*
@@ -138,7 +138,7 @@ chay Ramadan, khi mà, từ xế chiều, các *bazaar Ramadan* mọc lên ở c
 [chợ Ramadan và tháng chay](/vi/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 là một định chế theo mùa thu hút người mua thuộc mọi xuất thân.
 
-Việc chay tịnh lên đến đỉnh điểm ở **Hari Raya Aidilfitri**, lễ hội mở màn cho mùa open house
+Việc chay tịnh lên đến đỉnh điểm ở [**Hari Raya Aidilfitri**](/vi/arts-culture/hari-raya-aidilfitri), lễ hội mở màn cho mùa open house
 nổi tiếng nhất của đất nước. Chiếc bàn được dựng lên quanh một vài món chủ lực: *ketupat*
 (bánh gạo nén chặt và luộc trong túi lá cọ đan), *lemang* (gạo nếp nấu với nước cốt dừa trong
 ống tre trên lửa than), và *rendang* (thịt ninh liu riu trong nước xốt dừa cay cho đến khi
@@ -180,7 +180,7 @@ hơn của các món lễ hội được chia sẻ xuyên các cộng đồng đ
 
 ## Gawai và Kaamatan: các lễ hội mùa gặt của Borneo
 
-Đông Malaysia giữ một cặp lễ hội khác bắt rễ từ mùa gặt lúa. **Gawai Dayak**, do người Iban và
+Đông Malaysia giữ một cặp lễ hội khác bắt rễ từ mùa gặt lúa. [**Gawai Dayak**](/vi/arts-culture/gawai-dayak), do người Iban và
 các nhóm Dayak khác ở Sarawak mừng vào khoảng đầu tháng Sáu, và **Kaamatan**, lễ tạ ơn của
 người Kadazan-Dusun ở Sabah vào cuối tháng Năm, cả hai đều tạ ơn cho mùa gặt và cả hai đều
 xoay quanh gạo và rượu gạo. *Tuak* — một loại rượu ủ từ gạo nếp và men tự làm — là trung tâm
@@ -200,7 +200,7 @@ cách kể theo vùng nên được đọc như mang tính đại diện chứ k
 
 ## Thaipusam: lòng sùng đạo ăn chay
 
-Không phải lễ hội nào cũng là một bữa tiệc. **Thaipusam**, lễ hội Hindu gắn bó rõ rệt nhất với
+Không phải lễ hội nào cũng là một bữa tiệc. [**Thaipusam**](/vi/arts-culture/thaipusam), lễ hội Hindu gắn bó rõ rệt nhất với
 Batu Caves gần Kuala Lumpur, được đánh dấu bằng việc chay tịnh và ăn chay nghiêm ngặt. Các tín
 đồ — đặc biệt là những người sẽ vác *kavadi* — chuẩn bị bằng một giai đoạn kiêng khem, chỉ ăn
 một bữa chay mỗi ngày; các nguồn đưa ra con số này khác nhau, khoảng 30 hoặc 48 ngày, và một số

@@ -36,7 +36,7 @@ socialTitle: "Từ Sejarah Melayu cho đến các Văn hào Quốc gia — câu 
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ Văn chương Mã Lai không phải là một thời kỳ, mà là một dòng c
 
 ## Văn chương cổ điển: thế giới của hikayat và syair
 
-Văn chương cổ điển Mã Lai nảy nở từ truyền thống cung đình và tôn giáo, và phần lớn được chép bằng [chữ Jawi](/vi/arts-culture/jawi-script) trước khi chữ Rumi xuất hiện. Theo Encyclopaedia Britannica, *Sejarah Melayu* — được soạn vào khoảng thế kỷ 15 hoặc 16 — là một trong những tác phẩm văn chương và sử học hay nhất bằng tiếng Mã Lai, một sự mô tả hùng tráng về Vương quốc Hồi giáo Melaka được thành lập vào khoảng năm 1400.
+Văn chương cổ điển Mã Lai nảy nở từ truyền thống cung đình và tôn giáo, và phần lớn được chép bằng [chữ Jawi](/vi/arts-culture/jawi-script) trước khi [chữ Rumi](/vi/arts-culture/rumi-script) xuất hiện. Theo Encyclopaedia Britannica, *Sejarah Melayu* — được soạn vào khoảng thế kỷ 15 hoặc 16 — là một trong những tác phẩm văn chương và sử học hay nhất bằng tiếng Mã Lai, một sự mô tả hùng tráng về Vương quốc Hồi giáo Melaka được thành lập vào khoảng năm 1400.
 
 Bên cạnh tác phẩm sử học này đứng *Hikayat Hang Tuah*, một tác phẩm sử thi được xem là một trong những văn bản cổ điển Mã Lai quan trọng nhất. Khác với *Sejarah Melayu* vốn mang hình thức sử liệu truyền thống, *Hikayat Hang Tuah* nâng câu chuyện của vị Đô đốc Melaka lên thành người anh hùng sử thi, trọn vẹn với những yếu tố mà các học giả nghiên cứu như là sự tiếp thu ảnh hưởng của nhiều nền văn hóa. Tác giả và niên đại thật sự của nó không thể xác định chính xác.
 
@@ -112,7 +112,7 @@ Khẩu hiệu của phong trào này — **「Nghệ thuật vì Xã hội」** 
 
 ## Giải thưởng Văn hào Quốc gia và những nhân vật chính
 
-Sự công nhận cao nhất của quốc gia dành cho các nhà văn là **Giải thưởng Văn chương Quốc gia**, mang theo danh hiệu **Văn hào Quốc gia** (Sasterawan Negara). Giải thưởng này lần đầu được trao vào năm **1981**, và việc tuyển chọn được dẫn dắt bởi Hội đồng Giải thưởng Văn chương Quốc gia với sự hỗ trợ của Dewan Bahasa dan Pustaka.
+Sự công nhận cao nhất của quốc gia dành cho các nhà văn là **[Giải thưởng Văn chương Quốc gia](/vi/arts-culture/malaysian-literature)**, mang theo danh hiệu **Văn hào Quốc gia** (Sasterawan Negara). Giải thưởng này lần đầu được trao vào năm **1981**, và việc tuyển chọn được dẫn dắt bởi Hội đồng Giải thưởng Văn chương Quốc gia với sự hỗ trợ của [Dewan Bahasa dan Pustaka](/vi/arts-culture/dewan-bahasa-dan-pustaka).
 
 Người nhận đầu tiên là **Keris Mas** (Kamaludin Muhammad, 1922–1992), một nhân vật nòng cốt của ASAS 50. Ông được tiếp nối bởi một loạt tên tuổi lớn: Shahnon Ahmad (1982), Usman Awang (1983), A. Samad Said (1985), Arena Wati (1987) và Muhammad Haji Salleh (1991), cùng những người khác. Mỗi người nhận đại diện cho một đóng góp lớn trong tiểu thuyết, truyện ngắn, thơ hoặc kịch Mã Lai hiện đại.
 

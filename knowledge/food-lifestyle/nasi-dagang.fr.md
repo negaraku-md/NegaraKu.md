@@ -35,7 +35,7 @@ faq:
     a: "C'est un plat de la côte est associé avant tout au Terengganu et au Kelantan, et il figure sur la liste des mets du patrimoine national de la Malaisie depuis 2009. Son nom se traduit par « riz du marchand », et les récits populaires le relient à des marchands ou à des pêcheurs qui l'emportaient en mer, bien que ces histoires d'origine ne soient que vaguement documentées."
 
 lang: "fr"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ consignent que le nasi dagang est « inscrit parmi les mets du patrimoine nation
 
 C'est avant tout un plat de petit-déjeuner et de marché de l'est de la péninsule — fortement
 identifié au Terengganu et au Kelantan —, même s'il se vend désormais bien au-delà et paraît sur
-les tables de fête, surtout autour du Hari Raya Aidilfitri. Il s'inscrit dans le monde plus vaste
+les tables de fête, surtout autour du [Hari Raya Aidilfitri](/fr/arts-culture/hari-raya-aidilfitri). Il s'inscrit dans le monde plus vaste
 de la [cuisine malaise](/fr/food-lifestyle/malay-cuisine) et dans la carte des
 [cuisines régionales et ethniques](/fr/food-lifestyle/regional-and-ethnic-cuisines) du pays.
 

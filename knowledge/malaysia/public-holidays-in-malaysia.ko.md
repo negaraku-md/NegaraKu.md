@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 말레이시아의 공휴일 달력은 사실상 이 나라의 초상화입니다.
 
-- **종교.** 공휴일은 주요 신앙의 명절을 기립니다 — 이슬람교(하리 라야 아이딜피트리, 하리 라야 아이딜아다, 아왈 무하람, 마울리두르 라술), 불교(웨삭), 기독교(크리스마스), 힌두교(디파발리, 일부 주의 타이푸삼) 등입니다.
+- **종교.** 공휴일은 주요 신앙의 명절을 기립니다 — 이슬람교([하리 라야 아이딜피트리](/ko/arts-culture/hari-raya-aidilfitri/), 하리 라야 아이딜아다, 아왈 무하람, 마울리두르 라술), 불교(웨삭), 기독교(크리스마스), 힌두교([디파발리](/ko/arts-culture/deepavali/), 일부 주의 [타이푸삼](/ko/arts-culture/thaipusam/)) 등입니다.
 - **왕실.** **양 디-퍼르투안 아공**(국왕)의 생일은 국가 공휴일이며, 세습 통치자를 둔 각 주도 그 통치자의 생일을 주 공휴일로 지킵니다.
 - **국가.** **므르데카의 날**(8월 31일)은 독립을 기리고, **말레이시아의 날**(9월 16일)은 말레이시아의 결성을 기립니다.
 

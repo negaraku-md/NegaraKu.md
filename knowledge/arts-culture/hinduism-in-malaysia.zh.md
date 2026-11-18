@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -117,8 +117,8 @@ framework: history-culture
 
 - **屠妖节（Deepavali）** — "灯节"。它**除砂拉越外**在每个州属及联邦直辖区均为公共假期。更多详情请见[马来西亚的屠妖节](/zh/arts-culture/deepavali)。
 - **大宝森节（Thaipusam）** — 以穆鲁干为中心的节庆；在黑风洞举行的游行是其最大的聚集。它并非**全国性**假期 — 只在将其列为假日的州属（例如吉隆坡、布城、雪兰莪、槟城、霹雳、森美兰、柔佛）才是公共假期；吉打则在某些年份以临时宣布的方式给予，而非以常设宪报列明。参见：[大宝森节](/zh/arts-culture/thaipusam)。
-- **丰收节（Thaipongal）** — 丰收的节庆，在泰月（Thai）之初举行。
-- **九夜节（Navaratri）** — 为期九夜、崇拜女神的节庆。
+- **[丰收节](/zh/arts-culture/pongal)（Thaipongal）** — 丰收的节庆，在泰月（Thai）之初举行。
+- **[九夜节](/zh/arts-culture/navaratri)（Navaratri）** — 为期九夜、崇拜女神的节庆。
 
 马拉雅拉姆（Malayalam）传统的信众还会庆祝奥南节（Onam）、维苏节（Vishu）等节日。
 

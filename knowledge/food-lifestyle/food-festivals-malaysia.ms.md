@@ -35,7 +35,7 @@ faq:
     a: "Gawai Dayak (disambut oleh kaum Iban dan kumpulan Dayak lain di Sarawak) dan Kaamatan (kesyukuran Kadazan-Dusun di Sabah) kedua-duanya berkisar pada beras dan arak beras. Tuak, arak beras pulut, menjadi inti kepada ucap selamat dan ritual. Hidangan tanda termasuk manok pansuh (ayam dimasak dalam buluh) di Sarawak dan hinava (hidangan ikan mentah diperam dengan limau) di Sabah, di samping beras yang dibungkus dan dimasak dalam daun."
 
 lang: "ms"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ keluarga yang menyambut perayaannya sendiri menyediakan juadah dan mengalu-aluka
 rakan, jiran, rakan sekerja dan selalunya orang yang sama sekali tidak dikenali
 untuk makan, sehingga sepanjang setahun kebanyakan rakyat Malaysia akhirnya
 menjadi tetamu di perayaan yang bukan milik mereka. Adat ini merentasi komuniti:
-ia diamalkan pada Hari Raya, Tahun Baru Cina, Deepavali dan perayaan lain sama
+ia diamalkan pada Hari Raya, Tahun Baru Cina, [Deepavali](/arts-culture/deepavali) dan perayaan lain sama
 rata. Ahli politik, syarikat dan badan kerajaan mengadakan rumah terbuka awam
 yang besar, dan tradisi ini difahami secara meluas sebagai lambang kewujudan
 bersama pelbagai budaya negara. Kedudukannya sedemikian tinggi sehingga, pada
@@ -145,7 +145,7 @@ dalam
 [bazar Ramadan dan bulan puasa](/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 ialah institusi bermusim yang menarik pembeli daripada setiap latar belakang.
 
-Puasa itu memuncak pada **Hari Raya Aidilfitri**, perayaan yang membuka musim
+Puasa itu memuncak pada [**Hari Raya Aidilfitri**](/arts-culture/hari-raya-aidilfitri), perayaan yang membuka musim
 rumah terbuka paling terkenal di negara ini. Mejanya dibina sekeliling segelintir
 hidangan ruji: *ketupat* (dumpling nasi dimampatkan dan direbus dalam sarung
 anyaman daun palma), *lemang* (pulut dimasak dengan santan dalam buluh di atas
@@ -197,7 +197,7 @@ dalam
 ## Gawai dan Kaamatan: perayaan menuai Borneo
 
 Malaysia Timur menyimpan sepasang perayaan berbeza yang berakar pada tuaian padi.
-**Gawai Dayak**, disambut oleh kaum Iban dan kumpulan Dayak lain di Sarawak
+[**Gawai Dayak**](/arts-culture/gawai-dayak), disambut oleh kaum Iban dan kumpulan Dayak lain di Sarawak
 sekitar awal Jun, dan **Kaamatan**, kesyukuran Kadazan-Dusun di Sabah pada
 penghujung Mei, kedua-duanya mengucapkan kesyukuran atas tuaian dan kedua-duanya
 berkisar pada beras dan arak beras. *Tuak* — arak yang diperam daripada pulut dan
@@ -219,7 +219,7 @@ maka riwayat wilayah harus dibaca sebagai mewakili dan bukannya muktamad.
 
 ## Thaipusam: kesetiaan vegetarian
 
-Bukan setiap perayaan ialah jamuan. **Thaipusam**, perayaan Hindu yang paling
+Bukan setiap perayaan ialah jamuan. [**Thaipusam**](/arts-culture/thaipusam), perayaan Hindu yang paling
 jelas dikaitkan dengan Batu Caves berhampiran Kuala Lumpur, ditandai dengan puasa
 dan vegetarianisme ketat. Penganut — terutamanya mereka yang akan memikul
 *kavadi* — bersedia dengan satu tempoh berpantang, memakan satu hidangan

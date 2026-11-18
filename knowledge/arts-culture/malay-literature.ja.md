@@ -36,7 +36,7 @@ socialTitle: "Sejarah Melayu から国家文学家まで——マレー文筆の
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## 古典文学：ヒカヤットとシャイルの世界
 
-マレー古典文学は宮廷と宗教の伝統から育ち、その大部分はルミ文字の到来以前に[ジャウィ文字](/ja/arts-culture/jawi-script)で写された。ブリタニカ百科事典によれば、*Sejarah Melayu*——15世紀か16世紀ごろに編まれた——はマレー語における最良の文学・歴史作品のひとつであり、1400年ごろに創建されたマラッカ王国についての壮大な描写である。
+マレー古典文学は宮廷と宗教の伝統から育ち、その大部分は[ルミ文字](/ja/arts-culture/rumi-script)の到来以前に[ジャウィ文字](/ja/arts-culture/jawi-script)で写された。ブリタニカ百科事典によれば、*Sejarah Melayu*——15世紀か16世紀ごろに編まれた——はマレー語における最良の文学・歴史作品のひとつであり、1400年ごろに創建されたマラッカ王国についての壮大な描写である。
 
 この歴史作品の傍らに立つのが *Hikayat Hang Tuah* であり、最も重要なマレー古典テキストのひとつと見なされる叙事詩的作品である。伝統的な歴史叙述の形をとる *Sejarah Melayu* とは異なり、*Hikayat Hang Tuah* はマラッカの提督（Laksamana）を叙事詩の英雄として称え、学者がさまざまな文化の影響の翻案として研究する諸要素を備えている。その実際の著者と年代は正確には確定できない。
 
@@ -112,7 +112,7 @@ framework: history-culture
 
 ## 国家文学賞と主要な人物
 
-文学家に対する国の最高の栄誉は、**国家文学賞**（Anugerah Sastera Negara）であり、**国家文学家**（Sasterawan Negara）の称号をもたらす。この賞は**1981年**に初めて授与され、その選定は国語・文学局の支援のもと国家文学賞選考委員会によって進められる。
+文学家に対する国の最高の栄誉は、**[国家文学賞](/ja/arts-culture/malaysian-literature)**（Anugerah Sastera Negara）であり、**国家文学家**（Sasterawan Negara）の称号をもたらす。この賞は**1981年**に初めて授与され、その選定は[国語・文学局](/ja/arts-culture/dewan-bahasa-dan-pustaka)の支援のもと国家文学賞選考委員会によって進められる。
 
 最初の受賞者は、ASAS 50 の中核をなす人物 **Keris Mas**（Kamaludin Muhammad、1922–1992年）であった。彼に続いて大物の名が並ぶ：Shahnon Ahmad（1982年）、Usman Awang（1983年）、A. Samad Said（1985年）、Arena Wati（1987年）、Muhammad Haji Salleh（1991年）など。各受賞者は、近代マレーの小説、短編、詩、戯曲における大きな貢献を代表している。
 

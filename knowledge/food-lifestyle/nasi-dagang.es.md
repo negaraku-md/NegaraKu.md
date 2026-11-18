@@ -35,7 +35,7 @@ faq:
     a: "Es un plato de la costa este asociado sobre todo a Terengganu y Kelantan, y figura en la lista de comidas del patrimonio nacional de Malasia desde 2009. Su nombre se traduce como 'arroz del comerciante', y los relatos populares lo vinculan a comerciantes o a pescadores que lo llevaban al mar, aunque estas historias de origen están solo documentadas de forma imprecisa."
 
 lang: "es"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ registran que el nasi dagang está "incluido como una de las comidas del patrimo
 
 Es, ante todo, un plato de desayuno y de mercado del este de la península —fuertemente
 identificado con Terengganu y Kelantan—, aunque hoy se vende mucho más allá y aparece en las mesas
-festivas, sobre todo en torno al Hari Raya Aidilfitri. Se inscribe en el mundo más amplio de la
+festivas, sobre todo en torno al [Hari Raya Aidilfitri](/es/arts-culture/hari-raya-aidilfitri). Se inscribe en el mundo más amplio de la
 [cocina malaya](/es/food-lifestyle/malay-cuisine) y en el mapa de las
 [cocinas regionales y étnicas](/es/food-lifestyle/regional-and-ethnic-cuisines) del país.
 

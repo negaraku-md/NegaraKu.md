@@ -35,7 +35,7 @@ faq:
     a: "Ia hidangan pantai timur yang paling dikaitkan dengan Terengganu dan Kelantan, dan telah berada dalam senarai makanan warisan kebangsaan Malaysia sejak 2009. Namanya diterjemahkan sebagai 'nasi pedagang', dan cerita popular mengaitkannya dengan pedagang atau nelayan yang membawanya ke laut, walaupun kisah asal usul ini hanya terdokumentasi secara longgar."
 
 lang: "ms"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,7 +125,7 @@ warisan kebangsaan" sejak 2009.
 
 Ia, lebih daripada segalanya, hidangan sarapan dan pasar di timur semenanjung —
 kuat dikenali dengan Terengganu dan Kelantan — walaupun kini ia dijual jauh di
-luar itu, dan muncul di meja perayaan, terutamanya sekitar Hari Raya Aidilfitri.
+luar itu, dan muncul di meja perayaan, terutamanya sekitar [Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri).
 Ia terletak dalam dunia yang lebih luas [masakan Melayu](/food-lifestyle/malay-cuisine)
 dan peta negara ini tentang [masakan serantau dan etnik](/food-lifestyle/regional-and-ethnic-cuisines).
 

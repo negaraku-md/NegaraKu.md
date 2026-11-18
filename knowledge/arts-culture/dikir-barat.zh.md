@@ -20,7 +20,7 @@ appliesTo: "任何想了解 Dikir Barat 的演出形式、Tukang Karut 与 Tok J
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -69,7 +69,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-两支队伍在台上盘腿相对而坐。没有剧本。当第一队唱完一轮讽刺物价上涨的 pantun（马来即兴四行诗），第二队只有短短几秒钟构思回应——而且必须押韵、必须踩准节拍，若可能的话，还得比原句更犀利。
+两支队伍在台上盘腿相对而坐。没有剧本。当第一队唱完一轮讽刺物价上涨的 [pantun](/zh/arts-culture/pantun)（马来即兴四行诗），第二队只有短短几秒钟构思回应——而且必须押韵、必须踩准节拍，若可能的话，还得比原句更犀利。
 
 这正是 Dikir Barat 中人人最期待的时刻：两位 Tukang Karut 之间的即兴交锋。
 

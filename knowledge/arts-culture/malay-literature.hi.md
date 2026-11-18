@@ -36,7 +36,7 @@ socialTitle: "Sejarah Melayu से राष्ट्रीय साहित�
 lang: "hi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## शास्त्रीय साहित्य: hikayat और syair का संसार
 
-शास्त्रीय मलय साहित्य राजदरबार और धार्मिक परंपरा से उपजा, और इसका अधिकांश भाग रूमी लिपि के आगमन से पहले [जावी लिपि](/hi/arts-culture/jawi-script) में नकल किया गया। Encyclopaedia Britannica के अनुसार, *Sejarah Melayu* — जो लगभग 15वीं या 16वीं शताब्दी में रचा गया — मलय भाषा की सर्वोत्तम साहित्यिक और ऐतिहासिक कृतियों में से एक है, जो लगभग 1400 में स्थापित Kesultanan Melaka का एक भव्य वर्णन है।
+शास्त्रीय मलय साहित्य राजदरबार और धार्मिक परंपरा से उपजा, और इसका अधिकांश भाग [रूमी लिपि](/hi/arts-culture/rumi-script) के आगमन से पहले [जावी लिपि](/hi/arts-culture/jawi-script) में नकल किया गया। Encyclopaedia Britannica के अनुसार, *Sejarah Melayu* — जो लगभग 15वीं या 16वीं शताब्दी में रचा गया — मलय भाषा की सर्वोत्तम साहित्यिक और ऐतिहासिक कृतियों में से एक है, जो लगभग 1400 में स्थापित Kesultanan Melaka का एक भव्य वर्णन है।
 
 इस ऐतिहासिक कृति के साथ खड़ा है *Hikayat Hang Tuah*, एक महाकाव्यात्मक कृति जिसे सबसे महत्वपूर्ण शास्त्रीय मलय ग्रंथों में से एक माना जाता है। पारंपरिक इतिहास-लेखन के रूप वाले *Sejarah Melayu* के विपरीत, *Hikayat Hang Tuah* Melaka के Laksamana को एक महाकाव्य-नायक के रूप में उठाता है, जिसमें वे तत्व भी हैं जिन्हें विद्वान विविध संस्कृतियों के प्रभाव के रूपांतरण के रूप में अध्ययन करते हैं। इसके लेखक और वास्तविक तिथि ठीक-ठीक निश्चित नहीं की जा सकती।
 
@@ -112,7 +112,7 @@ framework: history-culture
 
 ## Anugerah Sasterawan Negara और प्रमुख व्यक्तित्व
 
-साहित्यकारों को दी जाने वाली राष्ट्र की सर्वोच्च मान्यता है **Anugerah Sastera Negara**, जो **Sasterawan Negara** की उपाधि लाती है। यह पुरस्कार पहली बार **1981** में प्रदान किया गया, और इसका चयन Dewan Bahasa dan Pustaka के समर्थन से Panel Anugerah Sastera Negara द्वारा संचालित होता है।
+साहित्यकारों को दी जाने वाली राष्ट्र की सर्वोच्च मान्यता है **[Anugerah Sastera Negara](/hi/arts-culture/malaysian-literature)**, जो **Sasterawan Negara** की उपाधि लाती है। यह पुरस्कार पहली बार **1981** में प्रदान किया गया, और इसका चयन [Dewan Bahasa dan Pustaka](/hi/arts-culture/dewan-bahasa-dan-pustaka) के समर्थन से Panel Anugerah Sastera Negara द्वारा संचालित होता है।
 
 इसके प्रथम प्राप्तकर्ता **Keris Mas** (Kamaludin Muhammad, 1922–1992) थे, जो ASAS 50 के केंद्रीय व्यक्तित्व थे। उनके बाद बड़े नामों की पंक्ति रही: Shahnon Ahmad (1982), Usman Awang (1983), A. Samad Said (1985), Arena Wati (1987) और Muhammad Haji Salleh (1991), अन्य के साथ। प्रत्येक प्राप्तकर्ता आधुनिक मलय उपन्यास, कहानी, कविता या नाटक में बड़े योगदान का प्रतिनिधित्व करता है।
 

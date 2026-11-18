@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami secara deskriptif bagaimana senator Malaysia dipilih dan diangkat, dan sejauh mana Dewan Negara dapat memengaruhi perjalanan suatu rang undang-undang."
 
 lang: "id"
-sourceContentHash: "344b9bed4a29fc5f"
+sourceContentHash: "45a9a03bd4ed597b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,7 +94,7 @@ Pasal 45(1) membagi keanggotaan menjadi dua kategori yang berbeda sama sekali da
 
 **Senator yang diangkat.** Empat puluh orang diangkat oleh Yang di-Pertuan Agong di bawah Pasal 45(1)(b), ditambah empat orang lagi yang mewakili Wilayah Persekutuan: dua bagi Kuala Lumpur, seorang bagi Labuan dan seorang bagi Putrajaya.
 
-Pasal 45(2) menyatakan kriteria bagi mereka yang diangkat oleh Yang di-Pertuan Agong: orang yang menurut pendapat Baginda telah memberikan layanan publik yang cemerlang atau telah mencapai keunggulan dalam profesi, bidang komersial, industri, pertanian, kegiatan kebudayaan atau layanan sosial, atau yang mewakili ras minoritas atau berkemampuan mewakili kepentingan orang asli.
+Pasal 45(2) menyatakan kriteria bagi mereka yang diangkat oleh Yang di-Pertuan Agong: orang yang menurut pendapat Baginda telah memberikan layanan publik yang cemerlang atau telah mencapai keunggulan dalam profesi, bidang komersial, industri, pertanian, kegiatan kebudayaan atau layanan sosial, atau yang mewakili ras minoritas atau berkemampuan mewakili kepentingan [orang asli](/id/arts-culture/orang-asli).
 
 Perhatikan rasionya. Jumlah senator yang diangkat (44) melebihi jumlah senator negeri (26). Rancangan asal pada 1957 justru sebaliknya — laporan Suruhanjaya Reid mengusulkan 22 senator negeri dibanding 11 senator yang diangkat. Pasal 45(1)(b) asalnya menetapkan 16 orang anggota yang diangkat saja; angka itu dinaikkan menjadi 22 pada 1963, kemudian 32 pada 1964, dan akhirnya 40 pada 1978.
 

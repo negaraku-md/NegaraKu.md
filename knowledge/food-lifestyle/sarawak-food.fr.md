@@ -35,7 +35,7 @@ faq:
     a: "Non. Bien qu'ils partagent le nom, le laksa du Sarawak est un style à part entière bâti sur une pâte de sambal belacan avec du tamarin et des aromates, servi sur de fins vermicelles de riz avec du poulet effiloché, des crevettes, de l'omelette et un trait de citron vert. Ce n'est ni l'aigre Pulau Pinang asam laksa ni un laksa au curry et au lait de coco classique."
 
 lang: "fr"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ Autour de Sibu, la table foochow propose de proches cousins. Le **kampua mee** e
 
 ## Cuit dans le bambou, servi cru : manok pansoh et umai
 
-Deux plats saisissent le cœur autochtone de la cuisine du Sarawak. Le **manok pansoh** (aussi *ayam pansuh* ou *manuk pansuh*) est du poulet tassé dans un tube de bambou creux avec de la citronnelle, du gingembre et du *daun ubi* (feuilles de manioc) et cuit sur un feu ouvert ; le bambou scellé fait cuire la viande à la vapeur dans ses propres sucs et lui confère un léger arôme boisé. C'est un plat iban et bidayuh traditionnellement préparé pour les grandes occasions, en particulier la fête des récoltes Gawai Dayak, même s'il est désormais servi toute l'année au restaurant.
+Deux plats saisissent le cœur autochtone de la cuisine du Sarawak. Le **manok pansoh** (aussi *ayam pansuh* ou *manuk pansuh*) est du poulet tassé dans un tube de bambou creux avec de la citronnelle, du gingembre et du *daun ubi* (feuilles de manioc) et cuit sur un feu ouvert ; le bambou scellé fait cuire la viande à la vapeur dans ses propres sucs et lui confère un léger arôme boisé. C'est un plat iban et bidayuh traditionnellement préparé pour les grandes occasions, en particulier la fête des récoltes [Gawai Dayak](/fr/arts-culture/gawai-dayak), même s'il est désormais servi toute l'année au restaurant.
 
 L'**umai** vient des Melanau de la côte et constitue, en somme, un ceviche bornéen : un poisson de mer ferme et sans arêtes comme le *tenggiri* (maquereau) tranché finement et « cuit » uniquement par le citron vert, mélangé à des échalotes, du piment, du gingembre et de l'oignon et mangé froid, souvent avec des perles de sagou grillées. Jadis repas rapide de pêcheur, il est aujourd'hui une entrée prisée et un incontournable de régions melanau comme Mukah.
 

@@ -30,7 +30,7 @@ faq:
     a: "가장 집중된 곳은 믈라카 Ujong Pasir 인근의 Portuguese Settlement으로, 흩어진 Kristang 공동체를 모으기 위해 1933년에 설립되었고 지금은 해산물 식당으로 알려져 있다. 그러나 여러 전통 가정 요리는 드물어져, 일상 메뉴보다는 주로 축제 모임에서 이어지고 있다고 보고된다."
 
 lang: "ko"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ framework: history-culture
 믈라카의 말레이 주방에서 카레를 주문하면 코코넛과 레몬그라스의 맛이 난다. 두
 블록 떨어진 Portuguese Settlement에서 한 접시를 주문하면, 가장 먼저 덮쳐 오는
 것은 식초다——날카롭고, 거의 공격적이며, 겨자와 고추로 잘려 있다. 그 새콤함이
-바로 Kristang 요리의 지문이며, 말레이시아 포르투갈계 유라시안 공동체의 음식이자,
+바로 [Kristang](/ko/arts-culture/kristang-eurasian-culture) 요리의 지문이며, 말레이시아 포르투갈계 유라시안 공동체의 음식이자,
 이 식탁이 반도의 다른 지역이 아닌 어딘가 다른 곳에서 자라났음을 보여 주는 가장
 분명한 표식이다.
 

@@ -24,7 +24,7 @@ appliesTo: "学生、教員、公務員、報道関係者、そしてパスポ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 
 status: "published"
 aiAssisted: true
@@ -115,7 +115,7 @@ framework: explainer
 
 ## 格言「Bersekutu Bertambah Mutu」（団結は力なり）
 
-紋章全体を締めくくるのは、盾の下のリボンに記された格言――**BERSEKUTU BERTAMBAH MUTU**（団結は力なり）である。これは二つの文字で同時に記されている――「左側にルーミー文字（ローマ字）、右側に[ジャウィ文字](/arts-culture/jawi-script)」である。
+紋章全体を締めくくるのは、盾の下のリボンに記された格言――**BERSEKUTU BERTAMBAH MUTU**（団結は力なり）である。これは二つの文字で同時に記されている――「左側に[ルーミー文字](/ja/arts-culture/rumi-script)（ローマ字）、右側に[ジャウィ文字](/arts-culture/jawi-script)」である。
 
 この格言は、紋章全体の背後にある理念を凝縮している――すなわち、連合した州々――マレー連合州、マレー非連合州、海峡植民地（Straits Settlements）、そして後にサバとサラワク――が一体となって、その部分の総和よりも優れた統一体を形づくるという理念である。盾の上のクリスの一振り一振り、帯の一本一本、樹の一本一本が、その連邦の一構成員なのであり、この格言はその集合体の意味を四つの言葉で言い表している。
 

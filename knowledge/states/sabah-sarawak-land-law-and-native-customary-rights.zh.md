@@ -32,7 +32,7 @@ faq:
     a: "尚未完全定论。联邦法院在Madeli bin Salleh案（2007年）中确认普通法对NCR的承认，但在TR Sandah案（2016年）中，意见分歧的法院将可强制执行的权利限于已耕种土地，并驳回了对周边公有森林的主张。NCR的范围仍存在争议。"
 
 lang: "zh"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ framework: explainer
 | --- | --- | --- | --- |
 | 管辖成文法 | 国家土地法典 | 沙巴土地法令（Cap. 68） | 砂拉越土地法典（Cap. 81） |
 | 原住民保有类别 | 马来保留地 | 原住民地契／原住民习俗权 | 原住民习俗地／原住民地区土地 |
-| 承认NCR | 有限（原住民 Orang Asli，另有单独法律） | 是，依第15条 | 是，依第5条 |
+| 承认NCR | 有限（[原住民 Orang Asli](/zh/arts-culture/orang-asli)，另有单独法律） | 是，依第15条 | 是，依第5条 |
 
 两州原住民土地的一项决定性特征是转让受到限制。在沙巴，《土地法令》第17(1)条禁止原住民与非原住民之间的土地交易，除非获得书面许可——此规则旨在使原住民土地保留在原住民手中。
 

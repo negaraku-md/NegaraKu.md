@@ -36,7 +36,7 @@ socialTitle: "How Bahasa Melayu became the national language — and moved from 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 
 status: "published"
 aiAssisted: true
@@ -143,7 +143,7 @@ This provision establishes two things at once: the official script of the nation
 
 Jawi script — Arabic letters adapted for Malay sounds — was the primary script of Bahasa Melayu for centuries, as evidenced by the Terengganu Inscribed Stone dated 1303 CE. It developed alongside the spread of Islam in the Malay Archipelago, and became the script of administration, correspondence and religion in the Malay courts, including during the era of the [Melaka Sultanate](/en/malaysia/melaka-sultanate).
 
-Rumi script — the Latin alphabet — began to be used widely for Bahasa Melayu during the colonial period, when various Rumi spelling systems were devised. By the mid-20th century, standardising Rumi spelling had become a focus of the Malay language movement.
+[Rumi script](/en/arts-culture/rumi-script) — the Latin alphabet — began to be used widely for Bahasa Melayu during the colonial period, when various Rumi spelling systems were devised. By the mid-20th century, standardising Rumi spelling had become a focus of the Malay language movement.
 
 **1956** — [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), originally named Balai Pustaka, was established on 22 June 1956 in Johor Bahru to develop Bahasa Melayu as the national and official language of the soon-to-be-independent country. Following the Third Malay Language and Literature Congress (Kongres Bahasa dan Persuratan Melayu Ketiga), held in Singapore and Johor Bahru from 16 to 21 September 1956, its name was changed to Dewan Bahasa dan Pustaka.
 

@@ -35,7 +35,7 @@ faq:
     a: "Le bœuf est le choix classique et le plus connu, en utilisant traditionnellement des morceaux plus coriaces qui profitent d'une cuisson longue, et historiquement le buffle d'eau. Le rendang de poulet (rendang ayam) est très courant en Malaisie et cuit plus vite. D'autres versions emploient le canard, l'agneau ou des spécialités régionales ; la côte de Sumatra occidental possède même une version aux fruits de mer. La technique lente et riche en épices compte davantage que la protéine précise."
 
 lang: "fr"
-sourceContentHash: "89aad66ea5c70fd7"
+sourceContentHash: "88b7fd40089dd4b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ dishFacts:
   where: "Sur la table festive et des portes ouvertes de Malaisie ; étroitement associé à la communauté d'ascendance minangkabau de Negeri Sembilan et à ses styles de rendang foncé."
 ---
 
-Passez près d'une cuisine malaise dans les jours qui précèdent le Hari Raya et
+Passez près d'une cuisine malaise dans les jours qui précèdent le [Hari Raya](/fr/arts-culture/hari-raya-aidilfitri) et
 vous entendrez souvent le rendang avant de le voir — le lent raclement d'une
 cuillère en bois contre une lourde marmite, encore et encore, pendant des
 heures. Le rendang n'est pas un plat que l'on bâcle. On l'amène à force de

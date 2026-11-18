@@ -99,7 +99,7 @@ Because of the state layer, the *total* number of public holidays — and occasi
 
 Malaysia's holiday calendar is, in effect, a portrait of the country:
 
-- **Religion.** Holidays mark the festivals of the major faiths — Islamic (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Buddhist (Wesak), Christian (Christmas) and Hindu (Deepavali, Thaipusam in some states), among others.
+- **Religion.** Holidays mark the festivals of the major faiths — Islamic ([Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Buddhist (Wesak), Christian (Christmas) and Hindu ([Deepavali](/arts-culture/deepavali/), [Thaipusam](/arts-culture/thaipusam/) in some states), among others.
 - **Royalty.** The birthday of the **Yang di-Pertuan Agong** (the King) is a national holiday, and each state with a hereditary Ruler also observes that Ruler's birthday as a state holiday.
 - **Nationhood.** **Merdeka Day** (31 August) marks independence; **Malaysia Day** (16 September) marks the formation of Malaysia.
 

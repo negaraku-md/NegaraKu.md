@@ -36,7 +36,7 @@ socialTitle: "マレー人最古の口承詩——パントゥンとそのUNESCO
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## パントゥンとは何か
 
-パントゥンはマレーの伝統的口承詩の形式である。国語・文学局（Dewan Bahasa dan Pustaka、DBP）が刊行する *Kamus Dewan* によれば、パントゥンは「各連がふつう四行からなる一種の古い詩」であり、「最初の二行はマクスッドを暗示するプンバヤンであり、残りがそのマクスッドを含む」ものである。
+パントゥンはマレーの伝統的口承詩の形式である。[国語・文学局](/ja/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）が刊行する *Kamus Dewan* によれば、パントゥンは「各連がふつう四行からなる一種の古い詩」であり、「最初の二行はマクスッドを暗示するプンバヤンであり、残りがそのマクスッドを含む」ものである。
 
 この定義には二つの重要な点が含まれている。第一に、パントゥンは*口承*の詩である——文字に記録されるはるか以前から、話すこと、歌うこと、記憶を通じて生まれ、生き、広まった。学術的な資料はそれをマレー文明における最古の口承文学の形式のひとつと特徴づけている。第二に、パントゥンは単に韻を踏む行の連なりではない。それは「情景」の部分と「意味」の部分の間に固有の内的な分割をもつ。
 

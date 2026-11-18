@@ -30,7 +30,7 @@ faq:
     a: "Điều đó khác nhau, và nhìn chung thực phẩm từ rừng dường như chiếm một phần nhỏ hơn trong khẩu phần so với trước kia. Các nghiên cứu về những cộng đồng cụ thể báo cáo rằng nạn phá rừng, khai hoang và tái định cư đã làm giảm khả năng tiếp cận thực phẩm hoang, và việc chuyển sang thực phẩm chợ chi phí thấp hơn gắn với sự đa dạng khẩu phần kém hơn. Những phát hiện này đến từ các nghiên cứu địa phương nhỏ chứ không phải một khảo sát toàn quốc, nên cần được đọc như mang tính gợi ý chứ không phải kết luận."
 
 lang: "vi"
-sourceContentHash: "fa11a4e4e92a1ed6"
+sourceContentHash: "c6cb118ca6070b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Hỏi 「ẩm thực Orang Asli」là gì thì câu trả lời đầu tiên trung thực lại là một câu hỏi vặn: thức ăn của *ai*? Thuật ngữ 「Orang Asli」— tiếng Mã Lai nghĩa là 「những người nguyên thủy」— bao trùm các dân tộc bản địa của Bán đảo Mã Lai, và cách phân loại chính thức chia họ thành ba nhóm với nhiều phân nhóm, sống rất khác nhau từ rừng sâu đến bờ biển. Không hề có một nền ẩm thực Orang Asli duy nhất theo kiểu có laksa Penang. Thay vào đó, cái có là một tập hợp các lối ăn hái lượm và tự cung tự cấp liên quan với nhau, được hình thành bởi rừng và sông, xứng đáng được mô tả một cách cẩn trọng — và với một sự thừa nhận trung thực rằng tư liệu thành văn rời rạc đến mức nào.
+Hỏi 「ẩm thực Orang Asli」là gì thì câu trả lời đầu tiên trung thực lại là một câu hỏi vặn: thức ăn của *ai*? Thuật ngữ 「[Orang Asli](/vi/arts-culture/orang-asli)」— tiếng Mã Lai nghĩa là 「những người nguyên thủy」— bao trùm các dân tộc bản địa của Bán đảo Mã Lai, và cách phân loại chính thức chia họ thành ba nhóm với nhiều phân nhóm, sống rất khác nhau từ rừng sâu đến bờ biển. Không hề có một nền ẩm thực Orang Asli duy nhất theo kiểu có laksa Penang. Thay vào đó, cái có là một tập hợp các lối ăn hái lượm và tự cung tự cấp liên quan với nhau, được hình thành bởi rừng và sông, xứng đáng được mô tả một cách cẩn trọng — và với một sự thừa nhận trung thực rằng tư liệu thành văn rời rạc đến mức nào.
 
 ## Orang Asli là ai, và vì sao một mô tả không thể hợp với tất cả
 

@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 
 status: "published"
 aiAssisted: true
@@ -151,7 +151,7 @@ ASB仅限土著申请，但符合资格的类别比单纯的「土著」更广�
 - 年满18岁的马来西亚土著个人；或
 - 年满18岁、属暹罗／泰裔、葡萄牙／欧亚裔或非土著穆斯林皈依者的马来西亚公民。
 
-关于谁可投资，最具权威的来源是ASNB招股说明书总纲（Prospektus Induk），而非产品要点表（PHS）；它将土著的核心类别界定为马来人、沙巴与砂拉越原住民，以及原住民（Orang Asli）。
+关于谁可投资，最具权威的来源是ASNB招股说明书总纲（Prospektus Induk），而非产品要点表（PHS）；它将土著的核心类别界定为马来人、沙巴与砂拉越原住民，以及[原住民（Orang Asli）](/zh/arts-culture/orang-asli)。
 
 来自上述任一符合资格类别的监护人，也可为马来西亚未成年人（须持有效出生证明，未满18岁）开立**Akaun Remaja（青少年户口）**。Remaja户口的持有人须年满12岁才可申请赎回，即使如此，每周也设有200单位的上限；一旦该未成年人达到成年年龄，账户会自动转为 Akaun Dewasa。
 

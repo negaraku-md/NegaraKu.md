@@ -35,7 +35,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "10e50c8f9bbc2e3a"
+sourceContentHash: "8bb8f4e4a270c076"
 sources:
   - title: "Pendaftaran (Pendaftaran Murid Tahun 1)"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -170,7 +170,7 @@ parents want to defer entry (rather than bring it forward), the application
 is made using **Borang PPW 2** at the JPN, accompanied by a certified copy
 of the parent's identity card, the child's birth certificate, proof of Year
 1 registration, and a doctor's medical report. Consideration is also given
-to Orang Asli pupils, Bumiputera Sabah/Sarawak children in interior areas,
+to [Orang Asli](/en/arts-culture/orang-asli) pupils, Bumiputera Sabah/Sarawak children in interior areas,
 and pupils with special needs. Approval authority rests with the
 Director-General of Education Malaysia (KPPM) as Chief Registrar, under
 Seksyen 29A(3) Akta Pendidikan 1996 — and KPM stresses that **deferment is

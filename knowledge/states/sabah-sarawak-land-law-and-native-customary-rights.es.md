@@ -32,7 +32,7 @@ faq:
     a: "No del todo. El Tribunal Federal confirmó el reconocimiento por el common law del NCR en Madeli bin Salleh (2007), pero en TR Sandah (2016) un tribunal dividido limitó los derechos ejecutables a la tierra cultivada y rechazó las reclamaciones sobre el bosque comunal circundante. El alcance del NCR sigue siendo objeto de debate."
 
 lang: "es"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Ambas leyes clasifican la tierra en categorías que no se corresponden limpiamen
 | --- | --- | --- | --- |
 | Ley que rige | National Land Code | Sabah Land Ordinance (Cap. 68) | Sarawak Land Code (Cap. 81) |
 | Categoría de tenencia nativa | Tierra de reserva malaya | Título Nativo / derechos consuetudinarios nativos | Tierra consuetudinaria nativa / Native Area Land |
-| Reconoce el NCR | Limitado (Orang Asli, ley aparte) | Sí, bajo la sección 15 | Sí, bajo la sección 5 |
+| Reconoce el NCR | Limitado ([Orang Asli](/es/arts-culture/orang-asli), ley aparte) | Sí, bajo la sección 15 | Sí, bajo la sección 5 |
 
 Un rasgo definitorio de la tierra nativa en ambos estados es la restricción sobre la transferencia. En Sabah, la sección 17(1) de la Land Ordinance prohíbe las transacciones de tierra entre nativos y no nativos salvo con permiso escrito — una regla destinada a mantener la tierra nativa en manos nativas.
 

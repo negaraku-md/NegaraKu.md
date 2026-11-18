@@ -35,7 +35,7 @@ faq:
     a: "Tidak. Walaupun berkongsi nama, laksa Sarawak ialah gaya tersendiri yang dibina atas pes sambal belacan dengan asam jawa dan rempah ratus, dihidang atas bihun halus dengan ayam carik, udang, telur dadar dan perahan limau. Ia bukan asam laksa Pulau Pinang yang masam mahupun laksa kari santan biasa."
 
 lang: "ms"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -198,7 +198,7 @@ Dua hidangan menangkap hati orang asal masakan Sarawak. **Manok pansoh** (juga
 berongga bersama serai, halia dan *daun ubi* (daun ubi kayu) dan dimasak di atas
 api terbuka; buluh yang tertutup mengukus daging dalam jusnya sendiri dan memberi
 aroma kayu yang samar. Ia hidangan Iban dan Bidayuh yang secara tradisinya dibuat
-untuk majlis besar, terutamanya pesta menuai Gawai Dayak, walaupun kini ia
+untuk majlis besar, terutamanya pesta menuai [Gawai Dayak](/arts-culture/gawai-dayak), walaupun kini ia
 dihidang sepanjang tahun di restoran.
 
 **Umai** datang daripada orang Melanau pesisir dan, sebenarnya, ialah ceviche

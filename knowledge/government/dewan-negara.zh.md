@@ -24,7 +24,7 @@ appliesTo: "任何想要从描述性角度了解马来西亚上议员如何选�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "344b9bed4a29fc5f"
+sourceContentHash: "45a9a03bd4ed597b"
 
 status: "published"
 aiAssisted: true
@@ -94,7 +94,7 @@ framework: profile
 
 **委任上议员。** 40名由最高元首依第45(1)(b)条委任，另加代表联邦直辖区（Wilayah Persekutuan）的4名：吉隆坡两名、纳闽一名、布城一名。
 
-第45(2)条订明最高元首委任人选的资格：最高元首认为曾提供杰出公共服务，或在专业、商业、工业、农业、文化活动或社会服务方面有卓越成就的人士，或是代表少数种族，或有能力代表原住民（Orang Asli）利益的人士。
+第45(2)条订明最高元首委任人选的资格：最高元首认为曾提供杰出公共服务，或在专业、商业、工业、农业、文化活动或社会服务方面有卓越成就的人士，或是代表少数种族，或有能力代表[原住民（Orang Asli）](/zh/arts-culture/orang-asli)利益的人士。
 
 留意其中的比例。委任上议员的人数（44）超过州属上议员的人数（26）。1957年的原始设计正好相反——李特宪制委员会（Reid Commission）的报告建议州属上议员22名，对委任上议员11名。第45(1)(b)条原本只规定16名委任议员；该数字在1963年提高至22名，1964年再增至32名，最终于1978年定为40名。
 

@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "vi"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -156,8 +156,8 @@ Các lễ hội chính của tín đồ Ấn Độ giáo Malaysia đến từ tr
   Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor); Kedah một số
   năm công bố theo diện lâm thời (ad-hoc) chứ không phải theo công báo cố định. Xem:
   [Thaipusam](/vi/arts-culture/thaipusam).
-- **Thai Pongal** — lễ hội mùa gặt, vào đầu tháng Thai.
-- **Navaratri** — lễ hội thờ nữ thần kéo dài chín đêm.
+- **[Thai Pongal](/vi/arts-culture/pongal)** — lễ hội mùa gặt, vào đầu tháng Thai.
+- **[Navaratri](/vi/arts-culture/navaratri)** — lễ hội thờ nữ thần kéo dài chín đêm.
 
 Những người thuộc truyền thống Malayalam còn tổ chức các lễ hội như Onam và Vishu.
 

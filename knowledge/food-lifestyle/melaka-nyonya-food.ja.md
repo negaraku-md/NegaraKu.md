@@ -35,7 +35,7 @@ faq:
     a: "gulaはマレー語でsugar（砂糖）を意味し、この名は通常マラッカ州にさかのぼるとされる——ココヤシの花穂の樹液から作るこのヤシ糖は、ここで生まれたと考えられている——もっともその由来はゆるやかに記録されているにすぎない。濃い茶色でキャラメルのような風味をもち、cendolや多くのNyonyaのデザートに風味を与える。"
 
 lang: "ja"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -183,7 +183,7 @@ satay celup（*celup* は「to dip」、浸すの意）はマラッカでもっ�
 
 ## Kristangの食卓
 
-マラッカは、ほかではほとんど見られない料理も守り伝えている。Kristang——16世紀の
+マラッカは、ほかではほとんど見られない料理も守り伝えている。[Kristang](/ja/arts-culture/kristang-eurasian-culture)——16世紀の
 ポルトガル人入植者と現地人の末裔である、ポルトガル系ユーラシアンの社会——の食だ。
 その多くは今も街のポルトガル人居住区（Portuguese Settlement）に暮らす。彼らの
 もっとも知られた料理は *kari debal*、すなわち devil's curry——鋭く激辛の肉（多くは

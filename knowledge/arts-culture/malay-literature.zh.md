@@ -36,7 +36,7 @@ socialTitle: "从《马来纪年》到国家文学家——马来书写文学的
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## 古典文学：hikayat 与 syair 的世界
 
-马来古典文学生长自宫廷与宗教传统，其中大部分在罗马字到来之前以[爪夷文](/zh/arts-culture/jawi-script)抄写。根据 Encyclopaedia Britannica，《Sejarah Melayu》——约编撰于15或16世纪——是马来语中最优秀的文学与历史著作之一，是对约于1400年建立的马六甲苏丹国的一部宏大记述。
+马来古典文学生长自宫廷与宗教传统，其中大部分在[罗马字](/zh/arts-culture/rumi-script)到来之前以[爪夷文](/zh/arts-culture/jawi-script)抄写。根据 Encyclopaedia Britannica，《Sejarah Melayu》——约编撰于15或16世纪——是马来语中最优秀的文学与历史著作之一，是对约于1400年建立的马六甲苏丹国的一部宏大记述。
 
 与这部史著并立的是《Hikayat Hang Tuah》（汉都亚传），一部被视为最重要的马来古典文本之一的史诗作品。与属传统史学体裁的《Sejarah Melayu》不同，《Hikayat Hang Tuah》将马六甲海军统帅塑造为史诗英雄，当中充满了被学者研究为融汇多元文化影响的元素。其作者与确切年代无法准确确定。
 
@@ -112,7 +112,7 @@ framework: history-culture
 
 ## 国家文学家奖与主要人物
 
-国家颁予文学家的最高认定是 **国家文学奖**（Anugerah Sastera Negara），授予 **国家文学家**（Sasterawan Negara）称号。此奖始于 **1981年**，其遴选由国家文学奖评审团推动，并获语文出版局的支持。
+国家颁予文学家的最高认定是 **[国家文学奖](/zh/arts-culture/malaysian-literature)**（Anugerah Sastera Negara），授予 **国家文学家**（Sasterawan Negara）称号。此奖始于 **1981年**，其遴选由国家文学奖评审团推动，并获[语文出版局](/zh/arts-culture/dewan-bahasa-dan-pustaka)的支持。
 
 其首位得奖者是 **Keris Mas**（Kamaludin Muhammad，1922–1992），ASAS 50 的核心人物。随后是一连串响亮的名字：Shahnon Ahmad（1982）、Usman Awang（1983）、A. Samad Said（1985）、Arena Wati（1987）与 Muhammad Haji Salleh（1991）等。每一位得奖者都代表着在现代马来小说、短篇小说、诗歌或戏剧中的重大贡献。
 

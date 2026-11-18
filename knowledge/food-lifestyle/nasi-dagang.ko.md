@@ -35,7 +35,7 @@ faq:
     a: "Terengganu와 Kelantan과 가장 밀접한 동해안 음식으로, 2009년 이래 말레이시아의 국가 유산 음식 목록에 올라 있습니다. 이름은 '상인의 밥'으로 번역되며, 통설은 이를 상인이나 바다로 가지고 나간 어부와 결부시키지만, 이런 기원 이야기들은 느슨하게만 기록되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -119,7 +119,7 @@ nasi dagang은 흔한 풀이로는 '상인의 밥'을 뜻한다. 통설은 이 �
 등재되었다'고 기록한다.
 
 그것은 무엇보다 반도 동부의 아침 식사이자 시장 음식으로——Terengganu와 Kelantan과 강하게
-결부되며——이제는 그보다 훨씬 먼 곳에서도 팔리고, 특히 Hari Raya Aidilfitri 무렵에는 명절
+결부되며——이제는 그보다 훨씬 먼 곳에서도 팔리고, 특히 [Hari Raya Aidilfitri](/ko/arts-culture/hari-raya-aidilfitri) 무렵에는 명절
 식탁에도 오른다. 그것은 더 넓은 [말레이 요리](/ko/food-lifestyle/malay-cuisine)의 세계와, 이
 나라의 [지역 및 민족 요리](/ko/food-lifestyle/regional-and-ethnic-cuisines) 지도 안에 자리한다.
 

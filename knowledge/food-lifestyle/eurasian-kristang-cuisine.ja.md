@@ -30,7 +30,7 @@ faq:
     a: "最も集中しているのはマラッカの Ujong Pasir 近くの Portuguese Settlement で、散り散りになった Kristang 共同体を集めるために1933年に設立され、今ではシーフードレストランで知られる。しかし、いくつかの伝統的な家庭料理は珍しくなり、日常のメニューよりも主に祭りの集まりで受け継がれていると報じられている。"
 
 lang: "ja"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ framework: history-culture
 マラッカのマレー人の台所でカレーを注文すれば、ココナッツとレモングラスの味が
 する。二本向こうの通り、Portuguese Settlement で一皿注文すれば、まず襲ってくる
 のは酢だ——鋭く、ほとんど攻撃的で、マスタードと唐辛子で切られている。その酸味
-こそが Kristang 料理の指紋であり、マレーシアのポルトガル・ユーラシア共同体の食
+こそが [Kristang](/ja/arts-culture/kristang-eurasian-culture) 料理の指紋であり、マレーシアのポルトガル・ユーラシア共同体の食
 であって、この食卓が半島のほかの地域とは別のどこかから育ったことを示す最も明白
 なしるしである。
 

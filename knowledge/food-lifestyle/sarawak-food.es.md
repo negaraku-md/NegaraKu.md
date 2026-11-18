@@ -35,7 +35,7 @@ faq:
     a: "No. Aunque comparten nombre, el laksa de Sarawak es un estilo propio construido sobre una pasta de sambal belacan con tamarindo y aromáticos, servido sobre finos fideos de arroz con pollo desmenuzado, gambas, tortilla y un chorrito de lima. No es ni el agrio Pulau Pinang asam laksa ni un laksa de curry con coco estándar."
 
 lang: "es"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,7 +133,7 @@ En torno a Sibu, la mesa foochow ofrece primos cercanos. El **kampua mee** es un
 
 ## Cocinado en bambú, servido crudo: manok pansoh y umai
 
-Dos platos capturan el corazón indígena de la cocina de Sarawak. El **manok pansoh** (también *ayam pansuh* o *manuk pansuh*) es pollo embutido en un tubo de bambú hueco con hierba limón, jengibre y *daun ubi* (hojas de yuca) y cocinado sobre fuego abierto; el bambú sellado cuece el pollo al vapor en sus propios jugos y le presta un leve aroma a madera. Es un plato iban y bidayuh que tradicionalmente se preparaba para grandes ocasiones, en especial la fiesta de la cosecha Gawai Dayak, aunque ahora se sirve todo el año en los restaurantes.
+Dos platos capturan el corazón indígena de la cocina de Sarawak. El **manok pansoh** (también *ayam pansuh* o *manuk pansuh*) es pollo embutido en un tubo de bambú hueco con hierba limón, jengibre y *daun ubi* (hojas de yuca) y cocinado sobre fuego abierto; el bambú sellado cuece el pollo al vapor en sus propios jugos y le presta un leve aroma a madera. Es un plato iban y bidayuh que tradicionalmente se preparaba para grandes ocasiones, en especial la fiesta de la cosecha [Gawai Dayak](/es/arts-culture/gawai-dayak), aunque ahora se sirve todo el año en los restaurantes.
 
 El **umai** proviene de los melanau de la costa y es, en efecto, un ceviche borneano: pescado de mar firme y sin espinas como el *tenggiri* (caballa) cortado fino y "cocinado" solo con lima, mezclado con chalotas, chile, jengibre y cebolla y comido frío, a menudo con perlas de sagú tostadas. Antaño una comida rápida de pescadores, hoy es un entrante preciado y un fijo de zonas melanau como Mukah.
 

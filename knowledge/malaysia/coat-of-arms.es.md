@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, docentes, funcionarios públicos, periodistas y cualquiera que vea el Jata Negara en un pasaporte, una moneda, una carta del gobierno o un edificio oficial y quiera conocer el significado de cada elemento."
 
 lang: "es"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ En el centro mismo del escudo se alza la **Bunga Raya**, la flor nacional de Mal
 
 ## El lema: 'Bersekutu Bertambah Mutu'
 
-Lo que une todo el emblema es el lema en la cinta bajo el escudo: **BERSEKUTU BERTAMBAH MUTU**. Está escrito en dos escrituras a la vez — «la escritura rumi a la izquierda y la [escritura jawi](/arts-culture/jawi-script) a la derecha».
+Lo que une todo el emblema es el lema en la cinta bajo el escudo: **BERSEKUTU BERTAMBAH MUTU**. Está escrito en dos escrituras a la vez — «la [escritura rumi](/es/arts-culture/rumi-script) a la izquierda y la [escritura jawi](/arts-culture/jawi-script) a la derecha».
 
 Este lema resume la idea que hay detrás de todo el emblema: que los estados que se unieron — los Estados Malayos Federados, los Estados Malayos No Federados, los Asentamientos del Estrecho y, más tarde, Sabah y Sarawak — forman juntos una unión de mayor valor que la suma de sus partes. Cada kris, cada franja de color y cada árbol del escudo es un miembro de esa federación; el lema expresa el significado de esa unión en cuatro palabras.
 

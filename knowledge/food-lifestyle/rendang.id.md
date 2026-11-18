@@ -35,7 +35,7 @@ faq:
     a: "Daging sapi adalah pilihan klasik dan paling dikenal, secara tradisional menggunakan potongan yang lebih alot yang terbantu oleh pemasakan lama, dan secara historis daging kerbau. Rendang ayam sangat umum di Malaysia dan lebih cepat matang. Versi lain menggunakan bebek, kambing, atau kekhasan daerah; pesisir Sumatra Barat bahkan memiliki versi kerang-kerangan. Teknik memasak yang lambat dan kaya rempah lebih penting daripada jenis protein tertentu."
 
 lang: "id"
-sourceContentHash: "89aad66ea5c70fd7"
+sourceContentHash: "88b7fd40089dd4b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ dishFacts:
   where: "Di meja perayaan dan rumah terbuka Malaysia; sangat lekat dengan masyarakat keturunan Minangkabau di Negeri Sembilan dan gaya rendang gelapnya."
 ---
 
-Berjalanlah melewati sebuah dapur Melayu pada hari-hari menjelang Hari Raya dan
+Berjalanlah melewati sebuah dapur Melayu pada hari-hari menjelang [Hari Raya](/id/arts-culture/hari-raya-aidilfitri) dan
 Anda akan sering mendengar rendang sebelum melihatnya — bunyi sendok kayu yang
 menggesek perlahan ke panci berat, berulang-ulang, selama berjam-jam. Rendang
 bukan hidangan yang bisa Anda buru-buru. Ia dibujuk, bukan sekadar dimasak, dari

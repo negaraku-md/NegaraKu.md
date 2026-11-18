@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu: lengua nacional según el Artículo 152"
 socialTitle: "Cómo el bahasa melayu se convirtió en la lengua nacional — y pasó del jawi al rumi"
 
 lang: "es"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Esta disposición establece dos cosas a la vez: la escritura oficial de la lengu
 
 La escritura jawi — letras árabes adaptadas a los sonidos del malayo — fue la escritura principal del bahasa melayu durante siglos, como lo evidencia la Piedra Inscrita de Terengganu fechada en 1303 d. C. Se desarrolló junto con la expansión del islam en el archipiélago malayo, y se convirtió en la escritura de la administración, la correspondencia y la religión en las cortes malayas, incluso durante la era del [Sultanato de Melaka](/en/malaysia/melaka-sultanate).
 
-La escritura rumi — el alfabeto latino — empezó a usarse ampliamente para el bahasa melayu durante el período colonial, cuando se idearon diversos sistemas de ortografía rumi. A mediados del siglo XX, estandarizar la ortografía rumi se había convertido en un foco del movimiento de la lengua malaya.
+La [escritura rumi](/es/arts-culture/rumi-script) — el alfabeto latino — empezó a usarse ampliamente para el bahasa melayu durante el período colonial, cuando se idearon diversos sistemas de ortografía rumi. A mediados del siglo XX, estandarizar la ortografía rumi se había convertido en un foco del movimiento de la lengua malaya.
 
 **1956** — El [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), originalmente llamado Balai Pustaka, se estableció el 22 de junio de 1956 en Johor Bahru para desarrollar el bahasa melayu como lengua nacional y oficial del país que pronto sería independiente. Tras el Tercer Congreso de la Lengua y la Literatura Malayas (Kongres Bahasa dan Persuratan Melayu Ketiga), celebrado en Singapur y Johor Bahru del 16 al 21 de septiembre de 1956, su nombre se cambió a Dewan Bahasa dan Pustaka.
 

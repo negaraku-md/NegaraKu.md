@@ -29,7 +29,7 @@ faq:
   - q: "Silambam có được công nhận là một môn thể thao ở Malaysia không?"
     a: "Silambam được tổ chức ở Malaysia vừa như một môn võ vừa như một môn thể thao thi đấu; các giải đấu quốc gia, giải vô địch quốc tế và việc tham dự Đại hội Thể thao Malaysia (SUKMA) vào một số năm đều đã diễn ra. Tuy nhiên, các hiệp hội và vị thế quản lý của môn này có thể thay đổi theo thời gian; hãy kiểm chứng tình hình hiện tại với các nguồn chính thức."
 lang: "vi"
-sourceContentHash: "c8454fb7c128f998"
+sourceContentHash: "ecfad46369d6e997"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["சிலம்பம்", "Silambam", "மலேசியா சி
 framework: history-culture
 ---
 
-Tại một lễ hội đền hay một dịp Tết Tamil ở Malaysia, bạn có thể thấy một chàng trai xoay cây côn tre dài trên đầu và quanh thân mình với tốc độ nhanh như chớp, theo nhịp trống. Vòng xoay ấy không chỉ để phô diễn — đó là biểu tượng của silambam, một môn võ Tamil đã hơn một nghìn năm trăm năm tuổi.
+Tại một lễ hội đền hay một dịp [Tết Tamil](/vi/arts-culture/tamil-new-year) ở Malaysia, bạn có thể thấy một chàng trai xoay cây côn tre dài trên đầu và quanh thân mình với tốc độ nhanh như chớp, theo nhịp trống. Vòng xoay ấy không chỉ để phô diễn — đó là biểu tượng của silambam, một môn võ Tamil đã hơn một nghìn năm trăm năm tuổi.
 
 Silambam là **một môn võ có nguồn gốc từ bang Tamil Nadu và lấy côn tre làm vũ khí chính**. Nó theo chân người Tamil di cư đến Malaysia, và ngày nay vẫn tiếp nối với tư cách võ thuật, thể thao và biểu diễn văn hóa. Bài viết này mô tả một cách trung lập nguồn gốc của môn võ, các kỹ thuật của nó, cùng vị trí của nó trong cộng đồng Tamil ở Malaysia.
 

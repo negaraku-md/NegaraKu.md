@@ -31,7 +31,7 @@ faq:
   - q: "Quelles incitations soutiennent l'investissement dans le textile et l'habillement ?"
     a: "La MIDA administre les approbations de licence de fabrication et les incitations fiscales pour le sous-secteur, qui est un domaine prioritaire du Nouveau Plan directeur industriel 2030 (NIMP 2030). À partir du premier trimestre 2026, les investissements admissibles relèvent d'un nouveau cadre d'incitations à l'investissement fondé sur les résultats (New Investment Incentive Framework), avec des incitations échelonnées liées à des résultats tels que la technologie, les compétences et les retombées locales. Confirmer les taux et conditions en vigueur auprès de la MIDA."
 lang: fr
-sourceContentHash: "1841208413fe19a3"
+sourceContentHash: "33538782332736dd"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -112,7 +112,7 @@ Les statistiques officielles et l'agence d'investissement de la Malaisie, l'Auto
 - **Textiles techniques et industriels** — des tissus à plus forte valeur conçus pour la performance plutôt que pour la mode, tels que les géotextiles, les médias de filtration, les textiles automobiles et les tissus de protection ou médicaux (y compris les équipements de protection individuelle).
 - **Chaussure** — bottes, chaussures, sandales, pantoufles et sabots, étroitement liés au segment du cuir.
 
-À côté du segment de volume se trouve un fil patrimonial distinctif — le **batik et le songket** — qui porte un poids culturel et un angle d'exportation de mode pudique, illustré par des marques locales du créneau du vêtement musulman.
+À côté du segment de volume se trouve un fil patrimonial distinctif — le **batik et le [songket](/fr/arts-culture/songket/)** — qui porte un poids culturel et un angle d'exportation de mode pudique, illustré par des marques locales du créneau du vêtement musulman.
 
 ## Quelle en est la taille ?
 

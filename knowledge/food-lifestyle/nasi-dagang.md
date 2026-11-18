@@ -125,7 +125,7 @@ since 2009.
 
 It is, above all, a breakfast and market dish of the peninsula's east — strongly
 identified with Terengganu and Kelantan — though it is now sold far beyond, and
-appears at festive tables, especially around Hari Raya Aidilfitri. It sits within
+appears at festive tables, especially around [Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri). It sits within
 the broader world of [Malay cuisine](/food-lifestyle/malay-cuisine) and the
 country's map of [regional and ethnic cuisines](/food-lifestyle/regional-and-ethnic-cuisines).
 

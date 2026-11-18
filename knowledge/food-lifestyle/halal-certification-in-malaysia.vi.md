@@ -37,7 +37,7 @@ faq:
     a: "Có. Chứng nhận halal tập trung vào sự tuân thủ của sản phẩm, nguyên liệu và quy trình đối với các yêu cầu của MS 1500 và MPPHM, chứ không phải tôn giáo của chủ sở hữu. Các công ty do người không theo Hồi giáo sở hữu có thể và nhiều công ty đã nộp đơn cũng như nhận được Giấy Chứng nhận Halal Malaysia."
 
 lang: "vi"
-sourceContentHash: "73ec7034840ec260"
+sourceContentHash: "56d2ce4e65866dc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Các đặc điểm của logo Halal Malaysia thật cũng giúp kiểm tra nhan
 
 - Ngôi sao tám cánh ở giữa vòng tròn
 - Chữ "HALAL" bằng chữ Ả Rập bên trong ngôi sao
-- Chữ "HALAL" và "MALAYSIA" bằng chữ Latinh (chữ in hoa)
+- Chữ "HALAL" và "MALAYSIA" bằng [chữ Latinh](/vi/arts-culture/rumi-script) (chữ in hoa)
 - Chữ Malaysia bằng chữ Ả Rập
 - Hai ngôi sao nhỏ năm cánh ở bên trái và bên phải
 

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Bentuk seni ini dikaitkan dengan tradisi dikir dari Thailand selatan yang disesuaikan di Kelantan dengan penambahan pantun dan dialek Kelantan"
 appliesTo: "Siapa saja yang ingin memahami bentuk pertunjukan Dikir Barat, peran Tukang Karut dan Tok Juara, serta struktur sebuah kelompok."
 lang: "id"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-Dua kelompok duduk bersila berhadapan di atas panggung. Tidak ada skrip. Ketika kelompok pertama selesai berbalas pantun sindiran tentang harga barang yang naik, kelompok kedua hanya punya beberapa detik untuk menyusun balasan — dan balasan itu harus berima, harus tepat waktu, dan kalau bisa, harus lebih tajam daripada pantun asal.
+Dua kelompok duduk bersila berhadapan di atas panggung. Tidak ada skrip. Ketika kelompok pertama selesai berbalas [pantun](/id/arts-culture/pantun) sindiran tentang harga barang yang naik, kelompok kedua hanya punya beberapa detik untuk menyusun balasan — dan balasan itu harus berima, harus tepat waktu, dan kalau bisa, harus lebih tajam daripada pantun asal.
 
 Itulah momen paling dinanti dalam Dikir Barat: adu spontan antara dua Tukang Karut.
 

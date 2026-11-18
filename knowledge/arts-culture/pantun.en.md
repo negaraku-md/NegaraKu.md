@@ -36,7 +36,7 @@ socialTitle: "The oldest oral poetry of the Malays — the story of the pantun a
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ This article explains the pantun descriptively: what a pantun is, how its struct
 
 ## What a pantun is
 
-The pantun is a form of traditional Malay oral poetry. According to the *Kamus Dewan* published by Dewan Bahasa dan Pustaka (DBP), the pantun is "a type of old poetry that usually consists of four lines in each stanza", with "the first two lines being the foreshadowing of the meaning and the rest containing its meaning".
+The pantun is a form of traditional Malay oral poetry. According to the *Kamus Dewan* published by [Dewan Bahasa dan Pustaka](/en/arts-culture/dewan-bahasa-dan-pustaka) (DBP), the pantun is "a type of old poetry that usually consists of four lines in each stanza", with "the first two lines being the foreshadowing of the meaning and the rest containing its meaning".
 
 Two important things are contained in this definition. First, the pantun is *oral* poetry — it was born, lived and spread through speech, song and memory, long before it was recorded in writing. Academic sources characterise it as among the oldest forms of oral literature in Malay civilisation. Second, the pantun is not merely a string of rhyming lines; it has a specific internal division between the "image" part and the "meaning" part.
 

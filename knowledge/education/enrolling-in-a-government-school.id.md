@@ -20,7 +20,7 @@ keyTakeaways:
   - "Masuk awal (di bawah umur) dan penangguhan Tahun 1 keduanya ada sebagai kebijakan resmi terpisah — permohonan dilakukan melalui JPN, bukan melalui sistem idMe biasa, dan penangguhan adalah keistimewaan (privilege), bukan hak otomatis"
 appliesTo: "Orang tua atau wali warga negara Malaysia yang anaknya akan memasuki Tahun 1 sekolah rendah pemerintah atau Tingkatan 1 sekolah menengah pemerintah."
 lang: "id"
-sourceContentHash: "10e50c8f9bbc2e3a"
+sourceContentHash: "8bb8f4e4a270c076"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -166,7 +166,7 @@ bawah Surat Pekeliling Ikhtisas Bil. 10/1998.
 orang tua ingin menangguhkan masuk (bukan mempercepat), permohonan dilakukan
 menggunakan **Borang PPW 2** di JPN, disertai salinan yang disahkan dari kartu
 identitas orang tua, akta kelahiran anak, bukti pendaftaran Tahun 1, dan
-laporan medis dokter. Pertimbangan juga diberikan kepada murid orang asli,
+laporan medis dokter. Pertimbangan juga diberikan kepada murid [orang asli](/id/arts-culture/orang-asli),
 anak Bumiputera Sabah/Sarawak di kawasan pedalaman, dan murid berkebutuhan
 khusus. Wewenang menyetujui terletak pada Ketua Pengarah Pendidikan Malaysia (KPPM)
 selaku Ketua Pendaftar, di bawah Pasal 29A(3) Akta Pendidikan 1996 — dan

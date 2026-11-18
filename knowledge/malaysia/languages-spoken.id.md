@@ -32,7 +32,7 @@ faq:
     a: "Ya. Sistem pendidikan nasional Malaysia mencakup sekolah jenis kebangsaan (Sekolah Jenis Kebangsaan) yang menggunakan Mandarin (SJKC) atau Tamil (SJKT) sebagai bahasa pengantar, di samping sekolah kebangsaan (SK) yang menggunakan Bahasa Melayu. Ketiganya berada di bawah Kementerian Pendidikan dan kurikulum nasional yang sama."
 
 lang: "id"
-sourceContentHash: "ab65f68bd17c67a2"
+sourceContentHash: "363a56e58f7f2279"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -144,7 +144,7 @@ Peta linguistik kedua negara bagian ini tidak dapat disederhanakan dengan rapi m
 
 ## Orang Asli di Semenanjung Malaysia
 
-Semenanjung Malaysia memiliki populasi pribuminya sendiri, yaitu Orang Asli, yang dikelola oleh Jabatan Kemajuan Orang Asli (JAKOA). JAKOA mengklasifikasikan Orang Asli ke dalam tiga kelompok utama — Negrito, Senoi, dan Melayu-Proto — mencakup 18 suku secara keseluruhan, masing-masing secara historis dikaitkan dengan bahasanya sendiri, terpusat terutama di Pahang, Perak, dan Selangor.
+Semenanjung Malaysia memiliki populasi pribuminya sendiri, yaitu [Orang Asli](/id/arts-culture/orang-asli), yang dikelola oleh Jabatan Kemajuan Orang Asli (JAKOA). JAKOA mengklasifikasikan Orang Asli ke dalam tiga kelompok utama — Negrito, Senoi, dan Melayu-Proto — mencakup 18 suku secara keseluruhan, masing-masing secara historis dikaitkan dengan bahasanya sendiri, terpusat terutama di Pahang, Perak, dan Selangor.
 
 Orang Asli merupakan bagian yang kecil dari segi jumlah dibandingkan populasi nasional, tetapi mereka berbeda dari segi bahasa dibandingkan baik mayoritas penutur bahasa Melayu maupun kelompok pribumi Sabah serta Sarawak — tiga tradisi bahasa pribumi yang terpisah dalam satu negara, bukan satu saja.
 

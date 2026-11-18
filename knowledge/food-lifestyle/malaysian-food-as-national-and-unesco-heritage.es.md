@@ -35,7 +35,7 @@ faq:
     a: "Sí. Figura entre los 10 platos publicados en la Gaceta como objetos de Patrimonio Nacional por el Comisionado del Patrimonio el 23 de febrero de 2024."
 
 lang: "es"
-sourceContentHash: "99f9a99ac9dc7cef"
+sourceContentHash: "b52a2c5ef4e067c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ La descripción oficial del elemento lo caracteriza como un patrimonio vivo liga
 
 ## ¿Hay ya otros alimentos en la lista de la UNESCO?
 
-Hasta ahora no. Malasia tiene nueve elementos en las listas del Patrimonio Cultural Inmaterial de la UNESCO: [Mak Yong](/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), la ceremonia Ong Chun/Wangchuan (2020), [Songket](/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), la cultura del desayuno (2024) y Pantun (2025). Ocho de ellos están en la **Lista Representativa**; Mek Mulung (2023) está inscrito en la **Lista del Patrimonio Cultural Inmaterial que requiere medidas urgentes de salvaguardia** (Urgent Safeguarding List), no en la Lista Representativa. De todos ellos, **solo la cultura del desayuno está relacionada con la comida** — el resto son artes escénicas, textiles, vestimenta, ceremonias o literatura oral.
+Hasta ahora no. Malasia tiene nueve elementos en las listas del Patrimonio Cultural Inmaterial de la UNESCO: [Mak Yong](/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), la ceremonia Ong Chun/Wangchuan (2020), [Songket](/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), la cultura del desayuno (2024) y [Pantun](/es/arts-culture/pantun) (2025). Ocho de ellos están en la **Lista Representativa**; Mek Mulung (2023) está inscrito en la **Lista del Patrimonio Cultural Inmaterial que requiere medidas urgentes de salvaguardia** (Urgent Safeguarding List), no en la Lista Representativa. De todos ellos, **solo la cultura del desayuno está relacionada con la comida** — el resto son artes escénicas, textiles, vestimenta, ceremonias o literatura oral.
 
 Esto significa que el reconocimiento de la UNESCO para la comida malasia sigue siendo muy selectivo: un elemento, un año.
 

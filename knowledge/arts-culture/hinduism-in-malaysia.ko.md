@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -148,8 +148,8 @@ Fund Ordinance)**를 통해 이 유입을 규율했다.
   조호르)에서만 공휴일이다; 케다는 상설 관보로 지정하지 않고 일부 해에 임시 공고로
   지정한다. 참고:
   [타이푸삼](/ko/arts-culture/thaipusam).
-- **타이퐁갈** — 타밀력 '타이'월 초에 열리는 추수 축제.
-- **나바라트리** — 아홉 밤에 걸친 여신 숭배 축제.
+- **[타이퐁갈](/ko/arts-culture/pongal)** — 타밀력 '타이'월 초에 열리는 추수 축제.
+- **[나바라트리](/ko/arts-culture/navaratri)** — 아홉 밤에 걸친 여신 숭배 축제.
 
 말라얄람 전통에 속한 이들은 오남, 비슈 같은 축제도 기념한다.
 

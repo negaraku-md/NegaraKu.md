@@ -32,7 +32,7 @@ faq:
     a: "Chưa hoàn toàn. Tòa Liên bang xác nhận sự công nhận theo thông luật đối với NCR trong vụ Madeli bin Salleh (2007), nhưng trong vụ TR Sandah (2016) một tòa án bị chia rẽ giới hạn các quyền có thể thực thi ở đất được canh tác và bác bỏ các yêu sách đối với rừng cộng đồng xung quanh. Phạm vi của NCR vẫn còn được tranh luận."
 
 lang: "vi"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Cả hai đạo luật phân loại đất thành các loại không ánh xạ g
 | --- | --- | --- | --- |
 | Đạo luật điều chỉnh | National Land Code | Sabah Land Ordinance (Cap. 68) | Sarawak Land Code (Cap. 81) |
 | Loại sở hữu bản địa | Đất dự trữ Mã Lai | Native Title / quyền tập tục bản địa | Đất tập tục bản địa / Native Area Land |
-| Công nhận NCR | Hạn chế (Orang Asli, luật riêng) | Có, theo mục 15 | Có, theo mục 5 |
+| Công nhận NCR | Hạn chế ([Orang Asli](/vi/arts-culture/orang-asli), luật riêng) | Có, theo mục 15 | Có, theo mục 5 |
 
 Một đặc điểm định hình của đất bản địa ở cả hai bang là hạn chế về chuyển nhượng. Ở Sabah, mục 17(1) của Land Ordinance cấm giao dịch đất giữa người bản địa và người không phải bản địa trừ khi có sự cho phép bằng văn bản — một quy tắc nhằm giữ đất bản địa trong tay người bản địa.
 

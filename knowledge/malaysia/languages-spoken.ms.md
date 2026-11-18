@@ -48,7 +48,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "ab65f68bd17c67a2"
+sourceContentHash: "363a56e58f7f2279"
 sources:
   - title: "Perlembagaan Persekutuan — Perkara 152 (Bahasa kebangsaan) (Federal Constitution — Article 152 (National language))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
@@ -144,7 +144,7 @@ Peta linguistik kedua-dua negeri ini tidak dapat dipermudahkan dengan bersih kep
 
 ## Orang Asli di Semenanjung Malaysia
 
-Semenanjung Malaysia mempunyai populasi peribuminya sendiri, iaitu Orang Asli, yang ditadbir oleh Jabatan Kemajuan Orang Asli (JAKOA). JAKOA mengelaskan Orang Asli kepada tiga kumpulan utama — Negrito, Senoi dan Melayu-Proto — merangkumi 18 suku kaum secara keseluruhannya, masing-masing secara sejarahnya dikaitkan dengan bahasanya sendiri, tertumpu terutamanya di Pahang, Perak dan Selangor.
+Semenanjung Malaysia mempunyai populasi peribuminya sendiri, iaitu [Orang Asli](/arts-culture/orang-asli), yang ditadbir oleh Jabatan Kemajuan Orang Asli (JAKOA). JAKOA mengelaskan Orang Asli kepada tiga kumpulan utama — Negrito, Senoi dan Melayu-Proto — merangkumi 18 suku kaum secara keseluruhannya, masing-masing secara sejarahnya dikaitkan dengan bahasanya sendiri, tertumpu terutamanya di Pahang, Perak dan Selangor.
 
 Orang Asli merupakan bahagian yang kecil dari segi bilangan berbanding populasi kebangsaan, tetapi mereka berbeza dari segi bahasa berbanding kedua-dua majoriti penutur bahasa Melayu dan kumpulan peribumi Sabah serta Sarawak — tiga tradisi bahasa peribumi yang berasingan dalam satu negara, bukan satu sahaja.
 

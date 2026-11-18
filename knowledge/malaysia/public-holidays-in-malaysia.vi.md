@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ Vì lớp tiểu bang, *tổng* số ngày lễ công — và đôi khi là các
 
 Lịch ngày lễ của Malaysia, trên thực tế, là một bức chân dung của đất nước:
 
-- **Tôn giáo.** Ngày lễ đánh dấu các lễ hội của các tín ngưỡng lớn — Hồi giáo (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Phật giáo (Wesak), Thiên Chúa giáo (Giáng sinh) và Ấn Độ giáo (Deepavali, Thaipusam ở một số tiểu bang), cùng nhiều ngày khác.
+- **Tôn giáo.** Ngày lễ đánh dấu các lễ hội của các tín ngưỡng lớn — Hồi giáo ([Hari Raya Aidilfitri](/vi/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Phật giáo (Wesak), Thiên Chúa giáo (Giáng sinh) và Ấn Độ giáo ([Deepavali](/vi/arts-culture/deepavali/), [Thaipusam](/vi/arts-culture/thaipusam/) ở một số tiểu bang), cùng nhiều ngày khác.
 - **Hoàng gia.** Sinh nhật của **Yang di-Pertuan Agong** (Quốc vương) là một ngày lễ quốc gia, và mỗi tiểu bang có một Tiểu vương thế tập cũng tuân theo sinh nhật của Tiểu vương đó như một ngày lễ tiểu bang.
 - **Quốc gia.** **Ngày Merdeka** (31 tháng 8) đánh dấu nền độc lập; **Ngày Malaysia** (16 tháng 9) đánh dấu sự hình thành của Malaysia.
 

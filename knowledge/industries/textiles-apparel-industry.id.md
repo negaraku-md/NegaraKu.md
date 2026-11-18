@@ -31,7 +31,7 @@ faq:
   - q: Insentif apa yang mendukung investasi tekstil dan pakaian?
     a: MIDA mengelola persetujuan lisensi manufaktur dan insentif pajak untuk subsektor ini, yang menjadi area prioritas di bawah New Industrial Master Plan (NIMP) 2030. Mulai kuartal pertama 2026, investasi yang memenuhi syarat masuk dalam New Investment Incentive Framework berbasis hasil yang baru, dengan insentif berjenjang yang dikaitkan pada hasil seperti teknologi, keterampilan, dan keterkaitan lokal. Konfirmasikan tarif dan syarat terkini dengan MIDA.
 lang: id
-sourceContentHash: "1841208413fe19a3"
+sourceContentHash: "33538782332736dd"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -112,7 +112,7 @@ Statistik resmi dan badan investasi Malaysia, Malaysian Investment Development A
 - **Tekstil teknis dan industri** — kain bernilai lebih tinggi yang direkayasa untuk performa, bukan mode, seperti geotekstil, media filtrasi, tekstil otomotif, dan kain pelindung atau medis (termasuk alat pelindung diri).
 - **Alas kaki** — bot, sepatu, sandal, selop, dan bakiak, terkait erat dengan segmen kulit.
 
-Di samping ujung bervolume terdapat untaian warisan yang khas — **batik dan songket** — yang membawa bobot budaya dan sudut ekspor modest fashion, dicontohkan oleh merek-merek buatan lokal di ruang busana Muslim.
+Di samping ujung bervolume terdapat untaian warisan yang khas — **batik dan [songket](/id/arts-culture/songket/)** — yang membawa bobot budaya dan sudut ekspor modest fashion, dicontohkan oleh merek-merek buatan lokal di ruang busana Muslim.
 
 ## Seberapa besar ukurannya?
 

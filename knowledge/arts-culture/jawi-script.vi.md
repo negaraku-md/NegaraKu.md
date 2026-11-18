@@ -34,7 +34,7 @@ seoTitle: "Chữ Jawi: lịch sử, hệ thống và địa vị hiện nay"
 socialTitle: "Hệ chữ Ả Rập viết tiếng Mã Lai suốt bảy thế kỷ — câu chuyện của chữ Jawi"
 
 lang: "vi"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ Sau thời kỳ đó, Jawi phát triển thành hệ chữ hành chính, thư t�
 
 ## Hệ chữ Jawi vận hành như thế nào
 
-Một vài đặc điểm phân biệt cách Jawi vận hành với chữ Rumi dựa trên bảng chữ cái Latinh:
+Một vài đặc điểm phân biệt cách Jawi vận hành với [chữ Rumi](/vi/arts-culture/rumi-script) dựa trên bảng chữ cái Latinh:
 
 - **Hướng viết** — Jawi được viết và đọc từ phải sang trái.
 - **Hình dáng chữ cái thay đổi** — như chữ Ả Rập, nhiều chữ cái có hình dáng khác nhau tùy vị trí của nó (đầu, giữa hay cuối từ) và tùy nó có nối với chữ bên cạnh hay không.

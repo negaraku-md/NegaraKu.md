@@ -34,7 +34,7 @@ seoTitle: "자위 문자: 역사, 체계, 그리고 오늘날의 지위"
 socialTitle: "일곱 세기 동안 말레이어를 적어 온 아랍 문자 — 자위 문자 이야기"
 
 lang: "ko"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ framework: history-culture
 
 ## 자위 표기 체계는 어떻게 작동하는가
 
-몇 가지 특징이 자위의 작동 방식을 라틴 알파벳에 기반한 로마자 표기(Rumi)와 구별합니다.
+몇 가지 특징이 자위의 작동 방식을 라틴 알파벳에 기반한 [로마자 표기](/ko/arts-culture/rumi-script)(Rumi)와 구별합니다.
 
 - **쓰는 방향** — 자위는 오른쪽에서 왼쪽으로 쓰고 읽습니다.
 - **글자 모양의 변화** — 아랍 문자처럼 많은 글자가 낱말에서의 위치(첫머리, 가운데, 끝)와 옆 글자와 이어지는지에 따라 다른 모양을 가집니다.

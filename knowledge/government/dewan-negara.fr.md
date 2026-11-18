@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui souhaite comprendre, de façon descriptive, comment les sénateurs malaisiens sont élus et nommés, et dans quelle mesure le Dewan Negara peut influer sur l'adoption d'un projet de loi."
 
 lang: "fr"
-sourceContentHash: "344b9bed4a29fc5f"
+sourceContentHash: "45a9a03bd4ed597b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ L'Article 45(1) répartit l'effectif en deux catégories entièrement différent
 
 **Sénateurs nommés.** Quarante sont nommés par le Yang di-Pertuan Agong au titre de l'Article 45(1)(b), plus quatre autres représentant les Territoires fédéraux : deux pour Kuala Lumpur, un pour Labuan et un pour Putrajaya.
 
-L'Article 45(2) fixe les critères pour ceux que nomme le Yang di-Pertuan Agong : des personnes qui, de l'avis de Sa Majesté, ont rendu un service public distingué ou atteint une distinction dans une profession, le commerce, l'industrie, l'agriculture, les activités culturelles ou le service social, ou qui représentent des minorités raciales ou sont capables de représenter les intérêts des Orang Asli.
+L'Article 45(2) fixe les critères pour ceux que nomme le Yang di-Pertuan Agong : des personnes qui, de l'avis de Sa Majesté, ont rendu un service public distingué ou atteint une distinction dans une profession, le commerce, l'industrie, l'agriculture, les activités culturelles ou le service social, ou qui représentent des minorités raciales ou sont capables de représenter les intérêts des [Orang Asli](/fr/arts-culture/orang-asli).
 
 Notez la proportion. Le nombre de sénateurs nommés (44) dépasse celui des sénateurs d'État (26). La conception originale de 1957 était l'inverse : le rapport de la Commission Reid proposait 22 sénateurs d'État contre 11 nommés. L'Article 45(1)(b) ne prévoyait à l'origine que 16 membres nommés ; ce chiffre a été porté à 22 en 1963, puis à 32 en 1964 et enfin à 40 en 1978.
 

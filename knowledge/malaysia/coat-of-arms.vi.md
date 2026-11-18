@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Học sinh, giáo viên, viên chức nhà nước, nhà báo và bất kỳ ai nhìn thấy Jata Negara trên hộ chiếu, đồng xu, thư từ chính phủ hoặc các tòa nhà chính thức và muốn nhận biết ý nghĩa của từng yếu tố của nó."
 
 lang: "vi"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ Vậy nên một dải nhỏ ở giữa tấm khiên thực ra chứa cả bốn
 
 ## Khẩu hiệu: 'Bersekutu Bertambah Mutu'
 
-Kết nối toàn bộ huy hiệu là khẩu hiệu trên dải băng bên dưới tấm khiên: **BERSEKUTU BERTAMBAH MUTU** (Đoàn kết để nâng cao chất lượng). Nó được viết bằng hai loại chữ cùng một lúc — "chữ Latin (rumi) ở bên trái và [chữ Jawi](/arts-culture/jawi-script) ở bên phải."
+Kết nối toàn bộ huy hiệu là khẩu hiệu trên dải băng bên dưới tấm khiên: **BERSEKUTU BERTAMBAH MUTU** (Đoàn kết để nâng cao chất lượng). Nó được viết bằng hai loại chữ cùng một lúc — "[chữ Latin](/vi/arts-culture/rumi-script) (rumi) ở bên trái và [chữ Jawi](/arts-culture/jawi-script) ở bên phải."
 
 Khẩu hiệu này gói gọn ý tưởng đằng sau toàn bộ huy hiệu đó: rằng các bang liên hiệp lại — Mã Lai Liên hiệp, Mã Lai Không Liên hiệp, các Khu định cư Eo biển (Straits Settlements), và về sau là Sabah cùng Sarawak — cùng nhau tạo thành một khối thống nhất có chất lượng cao hơn tổng số các phần của nó. Mỗi lưỡi keris, mỗi dải màu và mỗi cái cây trên tấm khiên là một thành viên của liên bang đó; khẩu hiệu này nêu ý nghĩa của sự quy tụ đó trong bốn chữ.
 

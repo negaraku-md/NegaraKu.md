@@ -35,7 +35,7 @@ faq:
     a: "เป็นอาหารชายฝั่งตะวันออกที่ผูกพันกับ Terengganu และ Kelantan มากที่สุด และอยู่ในรายการอาหารมรดกแห่งชาติของมาเลเซียมาตั้งแต่ปี 2009 ชื่อของมันแปลว่า 'ข้าวของพ่อค้า' และเรื่องเล่ายอดนิยมโยงมันเข้ากับพ่อค้าหรือชาวประมงที่นำมันออกทะเล แม้เรื่องต้นกำเนิดเหล่านี้จะมีบันทึกอย่างหลวม ๆ เท่านั้น"
 
 lang: "th"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ nasi dagang "ได้รับการขึ้นทะเบียนเป�
 
 เหนือสิ่งอื่นใด มันเป็นอาหารเช้าและอาหารตลาดของภาคตะวันออกของคาบสมุทร—ผูกพันอย่างแน่นแฟ้นกับ
 Terengganu และ Kelantan—แม้ปัจจุบันจะขายกันไปไกลกว่านั้นมาก และปรากฏบนโต๊ะเทศกาล โดยเฉพาะ
-ช่วง Hari Raya Aidilfitri มันอยู่ในโลกที่กว้างขึ้นของ[อาหารมลายู](/th/food-lifestyle/malay-cuisine)
+ช่วง [Hari Raya Aidilfitri](/th/arts-culture/hari-raya-aidilfitri) มันอยู่ในโลกที่กว้างขึ้นของ[อาหารมลายู](/th/food-lifestyle/malay-cuisine)
 และแผนที่[อาหารตามภูมิภาคและชาติพันธุ์](/th/food-lifestyle/regional-and-ethnic-cuisines)ของประเทศ
 
 ## ข้าว: นึ่งกะทิและหอมกรุ่น

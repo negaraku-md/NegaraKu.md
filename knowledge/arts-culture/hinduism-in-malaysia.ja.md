@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -149,8 +149,8 @@ Immigration Fund Ordinance)**を通じてこの渡来を規制した。
   クアラルンプール、プトラジャヤ、スランゴール、ペナン、ペラ、ヌグリ・スンビラン、
   ジョホール)でのみ祝日となる。クダは年によっては、常設の官報公示によってではなく
   臨時の告示として祝日とすることがある。参照:[タイプーサム](/ja/arts-culture/thaipusam)。
-- **タイポンガル** — 収穫祭。タイ月の初めに行われる。
-- **ナヴァラートリ** — 9夜にわたる女神崇拝の祭り。
+- **[タイポンガル](/ja/arts-culture/pongal)** — 収穫祭。タイ月の初めに行われる。
+- **[ナヴァラートリ](/ja/arts-culture/navaratri)** — 9夜にわたる女神崇拝の祭り。
 
 マラヤーリ系の人々は、オナムやヴィシュなどの祭りも祝う。
 

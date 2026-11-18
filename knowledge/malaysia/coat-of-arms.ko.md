@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "여권, 동전, 정부 문서 또는 공식 건물에서 국장(Jata Negara)을 보고 각 요소의 의미를 알고자 하는 학생, 교사, 공무원, 기자 및 모든 이."
 
 lang: "ko"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ framework: explainer
 
 ## 표어: 'Bersekutu Bertambah Mutu'
 
-문장 전체를 하나로 묶는 것은 방패 아래 리본에 적힌 표어 **BERSEKUTU BERTAMBAH MUTU**('연합하여 더 나아진다')입니다. 이는 두 가지 문자로 동시에 쓰여 있는데, "왼쪽에는 로마자(rumi), 오른쪽에는 [자위 문자](/arts-culture/jawi-script)"입니다.
+문장 전체를 하나로 묶는 것은 방패 아래 리본에 적힌 표어 **BERSEKUTU BERTAMBAH MUTU**('연합하여 더 나아진다')입니다. 이는 두 가지 문자로 동시에 쓰여 있는데, "왼쪽에는 [로마자](/ko/arts-culture/rumi-script)(rumi), 오른쪽에는 [자위 문자](/arts-culture/jawi-script)"입니다.
 
 이 표어는 문장 전체에 담긴 생각을 요약합니다. 곧 연합한 주들 — 말레이연합주, 비연합말레이주, 해협식민지(Negeri-negeri Selat), 그리고 이후의 사바와 사라왁 — 이 함께 그 부분들의 합보다 더 나은 하나의 통합체를 이룬다는 것입니다. 방패 위의 크리스 하나하나, 색 띠 하나하나, 나무 하나하나가 그 연방의 한 구성원이며, 이 표어는 그 결집의 뜻을 네 마디 말로 담아냅니다.
 

@@ -35,7 +35,7 @@ faq:
     a: "Có. Nó nằm trong số 10 món ăn được Ủy viên Di sản công báo là các đối tượng Di sản Quốc gia vào ngày 23 tháng 2 năm 2024."
 
 lang: "vi"
-sourceContentHash: "99f9a99ac9dc7cef"
+sourceContentHash: "b52a2c5ef4e067c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Mô tả chính thức của yếu tố đó mô tả nó là một di sản s�
 
 ## Có món ăn nào khác đã vào danh sách UNESCO chưa?
 
-Cho đến nay thì chưa. Malaysia có chín yếu tố trong danh sách Di sản Văn hóa Phi vật thể của UNESCO: [Mak Yong](/vi/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), nghi lễ Ong Chun/Wangchuan (2020), [Songket](/vi/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), Văn hóa bữa sáng (2024) và Pantun (2025). Tám trong số đó nằm trong **Danh sách Đại diện**; Mek Mulung (2023) thì được ghi trong **Danh sách Di sản Cần Bảo vệ Khẩn cấp** (Urgent Safeguarding List), chứ không phải Danh sách Đại diện. Trong tất cả, **chỉ có văn hóa bữa sáng là liên quan đến ẩm thực** — số còn lại là nghệ thuật biểu diễn, dệt may, trang phục, nghi lễ hoặc văn học truyền miệng.
+Cho đến nay thì chưa. Malaysia có chín yếu tố trong danh sách Di sản Văn hóa Phi vật thể của UNESCO: [Mak Yong](/vi/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), nghi lễ Ong Chun/Wangchuan (2020), [Songket](/vi/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), Văn hóa bữa sáng (2024) và [Pantun](/vi/arts-culture/pantun) (2025). Tám trong số đó nằm trong **Danh sách Đại diện**; Mek Mulung (2023) thì được ghi trong **Danh sách Di sản Cần Bảo vệ Khẩn cấp** (Urgent Safeguarding List), chứ không phải Danh sách Đại diện. Trong tất cả, **chỉ có văn hóa bữa sáng là liên quan đến ẩm thực** — số còn lại là nghệ thuật biểu diễn, dệt may, trang phục, nghi lễ hoặc văn học truyền miệng.
 
 Điều này nghĩa là sự công nhận của UNESCO cho ẩm thực Malaysia vẫn rất chọn lọc: một yếu tố, một năm.
 

@@ -35,7 +35,7 @@ faq:
     a: "不一样。虽然名字相同，砂拉越叻沙自成一格，建立在以sambal belacan为基底、加入亚参（酸豆）与香料的酱料之上，浇在细米粉上，配以鸡丝、虾、蛋皮和一挤青柠汁。它既不是酸味的Pulau Pinang asam laksa，也不是一般的椰浆咖喱叻沙。"
 
 lang: "zh"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -163,7 +163,7 @@ Teochew、Hokkien和Hakka厨师则塑造了它的面食与咖啡店文化。马�
 两道菜捕捉了砂拉越烹饪的原住民内核。**Manok pansoh**（也作*ayam pansuh*或*manuk pansuh*）
 是把鸡连同香茅、姜和*daun ubi*（木薯叶）塞进一截空心竹筒，架在明火上烹煮；封起来的竹筒用鸡
 自身的汁液把肉蒸熟，并赋予一缕淡淡的木香。这是一道Iban与Bidayuh的菜肴，传统上为重大场合而
-做，尤其是Gawai Dayak丰收节，不过如今在餐馆里全年供应。
+做，尤其是[Gawai Dayak](/zh/arts-culture/gawai-dayak)丰收节，不过如今在餐馆里全年供应。
 
 **Umai**来自沿海的Melanau，实际上是一种婆罗洲的ceviche：像*tenggiri*（马鲛鱼）这类结实无骨
 的海鱼切成薄片，只靠青柠「煮」熟，再与葱、辣椒、姜和洋葱拌匀、冷食，常配烤过的西米粒。它曾

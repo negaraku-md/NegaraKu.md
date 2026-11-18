@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender, de forma descriptiva, cómo se eligen y nombran los senadores malasios, y hasta qué punto el Dewan Negara puede influir en la aprobación de un proyecto de ley."
 
 lang: "es"
-sourceContentHash: "344b9bed4a29fc5f"
+sourceContentHash: "45a9a03bd4ed597b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,7 +95,7 @@ El artículo 45(1) divide la composición en dos categorías por completo distin
 
 **Senadores nombrados.** Cuarenta son nombrados por el Yang di-Pertuan Agong en virtud del artículo 45(1)(b), más otros cuatro en representación de los Territorios Federales: dos por Kuala Lumpur, uno por Labuan y uno por Putrajaya.
 
-El artículo 45(2) fija los criterios para quienes nombra el Yang di-Pertuan Agong: personas que, a juicio de Su Majestad, hayan prestado un servicio público distinguido o alcanzado distinción en una profesión, el comercio, la industria, la agricultura, las actividades culturales o el servicio social, o que representen a minorías raciales o sean capaces de representar los intereses de los Orang Asli.
+El artículo 45(2) fija los criterios para quienes nombra el Yang di-Pertuan Agong: personas que, a juicio de Su Majestad, hayan prestado un servicio público distinguido o alcanzado distinción en una profesión, el comercio, la industria, la agricultura, las actividades culturales o el servicio social, o que representen a minorías raciales o sean capaces de representar los intereses de los [Orang Asli](/es/arts-culture/orang-asli).
 
 Repárese en la proporción. El número de senadores nombrados (44) supera al de senadores estatales (26). El diseño original de 1957 era el inverso: el informe de la Comisión Reid proponía 22 senadores estatales frente a 11 nombrados. El artículo 45(1)(b) preveía en su origen solo 16 miembros nombrados; esa cifra se elevó a 22 en 1963, luego a 32 en 1964 y finalmente a 40 en 1978.
 

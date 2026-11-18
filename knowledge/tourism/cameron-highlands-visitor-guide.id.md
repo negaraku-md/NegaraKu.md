@@ -31,7 +31,7 @@ faq:
     a: "Ini adalah tur budaya berpemandu ke perkampungan Semai, biasanya dengan demonstrasi sumpit dan penjelasan tentang kehidupan hutan. Pergilah bersama pemandu lokal yang bereputasi baik, minta izin sebelum mengambil gambar orang, dan anggaplah sebagai pertukaran budaya yang penuh hormat dan bukan tontonan."
 
 lang: "id"
-sourceContentHash: "3402603241935266"
+sourceContentHash: "970b80eaebd8ab03"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Menu agrowisata secara garis besar:
 
 ## Bisakah Anda mengunjungi perkampungan Orang Asli?
 
-Ya — dan ini adalah salah satu hal yang paling khas untuk dilakukan di sini. Cameron Highlands terletak di perbatasan Pahang–Perak, dan penduduk pribumi hutan sekitarnya adalah **Orang Asli**, sebagian besar dari kelompok Semai.
+Ya — dan ini adalah salah satu hal yang paling khas untuk dilakukan di sini. Cameron Highlands terletak di perbatasan Pahang–Perak, dan penduduk pribumi hutan sekitarnya adalah **[Orang Asli](/id/arts-culture/orang-asli)**, sebagian besar dari kelompok Semai.
 
 Penang Travel Tips menggambarkan Orang Asli sebagai penghuni hutan yang "menanam padi bukit, berburu dan mengumpulkan, serta berdagang hasil hutan seperti petai, durian, rotan dan damar." Tur budaya berpemandu membawa Anda masuk ke sebuah perkampungan untuk bertemu penduduk, menyaksikan **demonstrasi sumpit**, dan mempelajari cara tumbuhan dan herba hutan digunakan. Pemandu ekologi biasanya juga bertindak sebagai penerjemah bagi kedua budaya dan hutan sekitarnya.
 

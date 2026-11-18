@@ -35,7 +35,7 @@ faq:
     a: "La cuisine Iban quotidienne et la cuisine du Sarawak en général font grand usage de légumes sauvages cueillis près de la maison longue, surtout des fougères de jungle comme le midin (Stenochlaena palustris) et le paku, généralement sautés à l'ail ou à la pâte de crevette (belacan). La moutarde ensabi est un autre légume courant, cuite avec du belacan et de l'ail, préparée en soupe ou saumurée en kasam ensabi."
 
 lang: "fr"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -142,7 +142,7 @@ recettes ajoutent aussi de la citronnelle, bien que les sources divergent sur so
 version la plus traditionnelle, aussi vaut-il mieux tenir le mélange exact d'aromates pour une affaire de
 variation régionale et familiale.
 
-Au-delà de la cuisine, le manok pansoh est un plat de fête, préparé pour la fête Gawai Dayak et d'autres
+Au-delà de la cuisine, le manok pansoh est un plat de fête, préparé pour la fête [Gawai Dayak](/fr/arts-culture/gawai-dayak) et d'autres
 rassemblements, et il se vend aussi aux étals de nourriture à travers le Sarawak. Il n'est pas
 exclusivement Iban——les communautés Bidayuh et Orang Ulu préparent elles aussi le poulet au bambou——, de
 sorte qu'il vaut mieux le comprendre comme une technique Dayak partagée pour laquelle les Iban sont

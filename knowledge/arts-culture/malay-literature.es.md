@@ -36,7 +36,7 @@ socialTitle: "De la Sejarah Melayu a los Sasterawan Negara — la historia de la
 lang: "es"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ La literatura malaya no es una época, sino una corriente que fluye a lo largo d
 
 ## La literatura clásica: el mundo de los hikayat y los syair
 
-La literatura clásica malaya creció a partir de las tradiciones cortesana y religiosa, y en gran medida se copió en [escritura jawi](/es/arts-culture/jawi-script) antes de la llegada de la escritura rumi. Según la Encyclopaedia Britannica, la *Sejarah Melayu* — compuesta hacia los siglos XV o XVI — es una de las mejores obras literarias e históricas en lengua malaya, una gran crónica del Sultanato de Melaka, fundado hacia el año 1400.
+La literatura clásica malaya creció a partir de las tradiciones cortesana y religiosa, y en gran medida se copió en [escritura jawi](/es/arts-culture/jawi-script) antes de la llegada de la [escritura rumi](/es/arts-culture/rumi-script). Según la Encyclopaedia Britannica, la *Sejarah Melayu* — compuesta hacia los siglos XV o XVI — es una de las mejores obras literarias e históricas en lengua malaya, una gran crónica del Sultanato de Melaka, fundado hacia el año 1400.
 
 Junto a esta obra histórica se alza el *Hikayat Hang Tuah*, una obra épica considerada uno de los textos clásicos malayos más importantes. A diferencia de la *Sejarah Melayu*, de corte historiográfico tradicional, el *Hikayat Hang Tuah* eleva la historia del Almirante (Laksamana) de Melaka a la categoría de héroe épico, con elementos que los especialistas estudian como adaptación de influencias de diversas culturas. Su autor y su fecha exactos no pueden determinarse con precisión.
 
@@ -112,7 +112,7 @@ El lema del movimiento — **«El arte para la sociedad»** — situó la litera
 
 ## El Premio Sasterawan Negara y las figuras principales
 
-El máximo reconocimiento del país a los literatos es el **Premio de Literatura Nacional (Anugerah Sastera Negara)**, que confiere el título de **Sasterawan Negara** (Literato Nacional). Este premio se instituyó en **1981**, y su selección la impulsa el Panel del Premio de Literatura Nacional con el apoyo del Dewan Bahasa dan Pustaka.
+El máximo reconocimiento del país a los literatos es el **[Premio de Literatura Nacional](/es/arts-culture/malaysian-literature) (Anugerah Sastera Negara)**, que confiere el título de **Sasterawan Negara** (Literato Nacional). Este premio se instituyó en **1981**, y su selección la impulsa el Panel del Premio de Literatura Nacional con el apoyo del [Dewan Bahasa dan Pustaka](/es/arts-culture/dewan-bahasa-dan-pustaka).
 
 Su primer galardonado fue **Keris Mas** (Kamaludin Muhammad, 1922–1992), figura central de ASAS 50. Le siguió una serie de grandes nombres: Shahnon Ahmad (1982), Usman Awang (1983), A. Samad Said (1985), Arena Wati (1987) y Muhammad Haji Salleh (1991), entre otros. Cada galardonado representa una gran aportación a la novela, el cuento, el poema o el teatro malayo modernos.
 

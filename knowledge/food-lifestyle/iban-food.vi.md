@@ -35,7 +35,7 @@ faq:
     a: "Ẩm thực Iban hằng ngày và ẩm thực Sarawak nói chung dùng nhiều rau rừng hái gần nhà dài, nhất là các loại dương xỉ rừng như midin (Stenochlaena palustris) và paku, thường được xào với tỏi hoặc mắm tôm (belacan). Rau cải ensabi là một loại rau phổ biến khác, được nấu với belacan và tỏi, nấu canh, hoặc muối thành kasam ensabi."
 
 lang: "vi"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -139,7 +139,7 @@ tre xanh; lá sắn mềm rũ hòa vào món ăn. Nhiều công thức còn thê
 có thuộc phiên bản truyền thống nhất hay không, nên hãy xem hỗn hợp gia vị thơm chính xác là chuyện khác
 nhau theo vùng miền và gia đình.
 
-Ngoài gian bếp, manok pansoh là một món lễ hội, được nấu cho lễ hội Gawai Dayak và các cuộc tụ họp
+Ngoài gian bếp, manok pansoh là một món lễ hội, được nấu cho lễ hội [Gawai Dayak](/vi/arts-culture/gawai-dayak) và các cuộc tụ họp
 khác, và cũng được bán ở các quầy ăn khắp Sarawak. Nó không chỉ riêng của người Iban——các cộng đồng
 Bidayuh và Orang Ulu cũng làm gà ống tre——nên tốt hơn nên hiểu nó như một kỹ thuật Dayak chung mà người
 Iban đặc biệt nổi tiếng.

@@ -37,7 +37,7 @@ faq:
     a: "可以。清真认证着重于产品、原料及流程是否符合 MS 1500 与 MPPHM 的要求，而非拥有者的宗教信仰。非穆斯林拥有的公司可以申请，许多也确实申请并取得了马来西亚清真认证证书。"
 
 lang: "zh"
-sourceContentHash: "73ec7034840ec260"
+sourceContentHash: "56d2ce4e65866dc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ MPPHM（《马来西亚清真认证程序手册》）则是一份程序性文件
 
 - 圆圈中央的八角星
 - 星形内以阿拉伯文书写的"HALAL"字样
-- 以罗马字母（大写）书写的"HALAL"和"MALAYSIA"字样
+- 以[罗马字母](/zh/arts-culture/rumi-script)（大写）书写的"HALAL"和"MALAYSIA"字样
 - 以阿拉伯文书写的 Malaysia 字样
 - 左右两侧各有一颗小的五角星
 

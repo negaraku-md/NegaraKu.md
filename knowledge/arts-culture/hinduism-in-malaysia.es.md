@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -160,8 +160,8 @@ sudindia:
   Putrajaya, Selangor, Penang, Perak, Negeri Sembilan y Johor; Kedah lo concede
   algunos años mediante una declaración ad hoc, y no por gaceta permanente). Véase:
   [el Thaipusam](/es/arts-culture/thaipusam).
-- **Thai Pongal**: la fiesta de la cosecha, al comienzo del mes de Thai.
-- **Navaratri**: festividad de culto a la Diosa que dura nueve noches.
+- **[Thai Pongal](/es/arts-culture/pongal)**: la fiesta de la cosecha, al comienzo del mes de Thai.
+- **[Navaratri](/es/arts-culture/navaratri)**: festividad de culto a la Diosa que dura nueve noches.
 
 Las personas de tradición malayalí celebran también festividades como el Onam y el
 Vishu.

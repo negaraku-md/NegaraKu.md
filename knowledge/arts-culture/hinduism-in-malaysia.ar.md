@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ar"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -152,8 +152,8 @@ Fund Ordinance)**.
   وبيراك، ونيغري سمبيلان، وجوهور)؛ أما قدح فتمنحها في بعض السنوات بإعلان
   ظرفي لا بتخصيص دائم في الجريدة الرسمية. انظر:
   [تايبوسام](/ar/arts-culture/thaipusam).
-- **تاي بونغال** — عيد الحصاد، في مطلع شهر "تاي".
-- **نافاراتري** — عيد عبادة الإلهة (ديفي) ويمتد تسع ليالٍ.
+- **[تاي بونغال](/ar/arts-culture/pongal)** — عيد الحصاد، في مطلع شهر "تاي".
+- **[نافاراتري](/ar/arts-culture/navaratri)** — عيد عبادة الإلهة (ديفي) ويمتد تسع ليالٍ.
 
 ويحتفل المنحدرون من أصول مالايالامية بأعياد مثل أونام وفيشو.
 

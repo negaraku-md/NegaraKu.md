@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 
 status: "published"
 aiAssisted: true
@@ -150,7 +150,7 @@ ASBはブミプトラに限定されているが、対象となる区分は単�
 - 18歳以上のマレーシア人ブミプトラ個人；または
 - 18歳以上で、シャム系／タイ系、ポルトガル系／ユーラシア系、または非ブミプトラのムスリム改宗者であるマレーシア国民。
 
-誰が投資できるかについての権威ある情報源は、Product Highlights SheetではなくASNBのMaster Prospectusであり、そこではブミプトラの中核区分をマレー人、サバ州およびサラワク州の先住民、ならびにオラン・アスリと位置づけている。
+誰が投資できるかについての権威ある情報源は、Product Highlights SheetではなくASNBのMaster Prospectusであり、そこではブミプトラの中核区分をマレー人、サバ州およびサラワク州の先住民、ならびに[オラン・アスリ](/ja/arts-culture/orang-asli)と位置づけている。
 
 いずれかの資格区分に該当する保護者は、マレーシアの未成年者（有効な出生証明書を有し、18歳未満）のために**Akaun Remaja（未成年口座）**を開設することもできる。Remaja口座は12歳になるまで買戻しを請求できず、それ以降も週200ユニットの上限が設けられている；未成年者が成年年齢に達すると、口座は自動的にAkaun Dewasaに転換される。
 

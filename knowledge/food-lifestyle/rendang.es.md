@@ -35,7 +35,7 @@ faq:
     a: "La carne de res es la elección clásica y más conocida, tradicionalmente usando cortes más duros que se benefician de una cocción larga, e históricamente el búfalo de agua. El rendang de pollo (rendang ayam) es muy común en Malasia y se cocina más rápido. Otras versiones usan pato, cordero o especialidades regionales; la costa de Sumatra Occidental tiene incluso una versión con marisco. La técnica lenta y cargada de especias importa más que la proteína concreta."
 
 lang: "es"
-sourceContentHash: "89aad66ea5c70fd7"
+sourceContentHash: "88b7fd40089dd4b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ dishFacts:
   where: "En la mesa festiva y de puertas abiertas de Malasia; estrechamente asociado con la comunidad de ascendencia minangkabau de Negeri Sembilan y sus estilos de rendang oscuro."
 ---
 
-Si pasas junto a una cocina malaya en los días previos a Hari Raya, a menudo
+Si pasas junto a una cocina malaya en los días previos a [Hari Raya](/es/arts-culture/hari-raya-aidilfitri), a menudo
 oirás el rendang antes de verlo — el lento raspar de una cuchara de madera
 contra una olla pesada, una y otra vez, durante horas. El rendang no es un plato
 que se pueda apresurar. Se saca con mimo, no se cocina sin más, de un curry de

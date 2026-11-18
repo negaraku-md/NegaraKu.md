@@ -29,7 +29,7 @@ faq:
   - q: "Le silambam est-il reconnu comme un sport en Malaisie ?"
     a: "Le silambam se pratique en Malaisie à la fois comme art martial et comme sport de compétition ; des compétitions nationales, des championnats internationaux et une participation aux Jeux de Malaisie (SUKMA) certaines années ont tous eu lieu. Toutefois, les associations et le statut administratif de ce sport peuvent changer au fil du temps ; vérifiez la situation actuelle auprès des sources officielles."
 lang: "fr"
-sourceContentHash: "c8454fb7c128f998"
+sourceContentHash: "ecfad46369d6e997"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["சிலம்பம்", "Silambam", "மலேசியா சி
 framework: history-culture
 ---
 
-Lors d'une fête de temple ou d'une célébration du Nouvel An tamoul en Malaisie, vous pourrez voir un jeune homme faire tournoyer un long bâton de bambou au-dessus de sa tête et autour de son corps à une vitesse fulgurante, au rythme des tambours. Ce tournoiement n'est pas qu'une affaire d'esthétique — c'est l'emblème du silambam, un art martial tamoul vieux de plus de mille cinq cents ans.
+Lors d'une fête de temple ou d'une célébration du [Nouvel An tamoul](/fr/arts-culture/tamil-new-year) en Malaisie, vous pourrez voir un jeune homme faire tournoyer un long bâton de bambou au-dessus de sa tête et autour de son corps à une vitesse fulgurante, au rythme des tambours. Ce tournoiement n'est pas qu'une affaire d'esthétique — c'est l'emblème du silambam, un art martial tamoul vieux de plus de mille cinq cents ans.
 
 Le silambam est **un art martial né au Tamil Nadu qui emploie le bâton de bambou comme arme principale**. Il est arrivé en Malaisie avec la migration tamoule et se perpétue aujourd'hui comme art martial, comme sport et comme spectacle culturel. Cet article décrit, de manière neutre, les origines de cet art, ses techniques et sa place au sein de la communauté tamoule de Malaisie.
 

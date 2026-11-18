@@ -36,7 +36,7 @@ socialTitle: "吉兰丹口音、北部方言、砂拉越马来语——马来语
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ framework: explainer
 
 ## 标准语与方言
 
-首先需要理解的区别，是**标准马来语**与**地方方言**之间的分别。标准语是[马来语](/zh/arts-culture/bahasa-melayu)的规范变体，用于教育、官方广播、政府文件与出版。它是一种经协调与发展的变体，部分由语文出版局（DBP）统筹，作为跨地区的共通语言。
+首先需要理解的区别，是**标准马来语**与**地方方言**之间的分别。标准语是[马来语](/zh/arts-culture/bahasa-melayu)的规范变体，用于教育、官方广播、政府文件与出版。它是一种经协调与发展的变体，部分由[语文出版局](/zh/arts-culture/dewan-bahasa-dan-pustaka)（DBP）统筹，作为跨地区的共通语言。
 
 根据语言学研究，马来西亚的标准马来语大体上以**柔佛—廖内方言**为基础，即半岛南部的马来语变体。在 Mukhlis Abu Bakar 关于柔佛—廖内发音与标准发音的研究中，柔佛—廖内发音被形容为在20世纪中叶电台的作用之后，成为马来西亚与新加坡标准参照的发音。官方发音究竟应以拼写为准（标准发音）抑或以柔佛—廖内发音为准，曾是一个不时改变的语言政策议题。
 

@@ -27,7 +27,7 @@ verificationNeeded:
   - "Teks Bahasa Melayu Konstitusi Federal adalah terjemahan oleh Jabatan Peguam Negara. Kecuali jika dan sampai ditetapkan sahih di bawah Pasal 160b, teks Bahasa Inggris adalah teks yang sahih."
 
 lang: "id"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -170,7 +170,7 @@ yang menurut pendapat Yang di-Pertuan Agong:
 - telah mencapai keunggulan dalam profesi, bidang komersial, perindustrian,
   pertanian, aktivitas kebudayaan, atau layanan sosial; atau
 - mewakili ras minoritas; atau
-- mampu mewakili kepentingan orang asli.
+- mampu mewakili kepentingan [orang asli](/id/arts-culture/orang-asli).
 
 Satu hal perlu dibaca bersama-sama. Pasal 40(1) menetapkan bahwa
 dalam menjalankan fungsinya di bawah Konstitusi, Yang di-Pertuan Agong

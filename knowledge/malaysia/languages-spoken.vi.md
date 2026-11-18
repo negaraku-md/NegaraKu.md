@@ -32,7 +32,7 @@ faq:
     a: "Có. Hệ thống giáo dục quốc gia của Malaysia bao gồm các trường loại quốc gia (Sekolah Jenis Kebangsaan) dùng tiếng Quan Thoại (SJKC) hoặc tiếng Tamil (SJKT) làm ngôn ngữ giảng dạy, bên cạnh các trường quốc gia (SK) dùng Bahasa Melayu. Cả ba đều thuộc Bộ Giáo dục và cùng một chương trình học quốc gia."
 
 lang: "vi"
-sourceContentHash: "ab65f68bd17c67a2"
+sourceContentHash: "363a56e58f7f2279"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -144,7 +144,7 @@ Bản đồ ngôn ngữ của cả hai bang đều không rút gọn gọn gàng
 
 ## Người Orang Asli của Bán đảo Malaysia
 
-Bán đảo Malaysia có dân số bản địa của riêng mình, người Orang Asli, được Cục Phát triển Orang Asli (JAKOA) quản lý. JAKOA phân loại người Orang Asli thành ba nhóm chính — Negrito, Senoi và Proto-Malay — gồm tổng cộng 18 phân nhóm, mỗi nhóm về mặt lịch sử gắn với ngôn ngữ riêng của mình, phân bố chủ yếu ở Pahang, Perak và Selangor.
+Bán đảo Malaysia có dân số bản địa của riêng mình, người [Orang Asli](/vi/arts-culture/orang-asli), được Cục Phát triển Orang Asli (JAKOA) quản lý. JAKOA phân loại người Orang Asli thành ba nhóm chính — Negrito, Senoi và Proto-Malay — gồm tổng cộng 18 phân nhóm, mỗi nhóm về mặt lịch sử gắn với ngôn ngữ riêng của mình, phân bố chủ yếu ở Pahang, Perak và Selangor.
 
 Người Orang Asli về mặt số lượng là một phần nhỏ của dân số quốc gia, nhưng họ khác biệt về ngôn ngữ so với cả đa số nói tiếng Malay lẫn các nhóm bản địa của Sabah và Sarawak — ba truyền thống ngôn ngữ bản địa riêng biệt bên trong một đất nước, không phải một.
 

@@ -181,7 +181,7 @@ ASB is Bumiputera-restricted, but the eligible category is broader than
 
 The authoritative source for who may invest is the ASNB Master Prospectus, not
 the Product Highlights Sheet, and it frames the core Bumiputera category as
-Malays, the natives of Sabah and Sarawak, and the Orang Asli.
+Malays, the natives of Sabah and Sarawak, and the [Orang Asli](/arts-culture/orang-asli).
 
 A guardian from either eligible category may also open an **Akaun Remaja** for
 a Malaysian minor (valid birth certificate, under 18). A Remaja cannot request

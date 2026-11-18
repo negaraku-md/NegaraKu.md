@@ -35,7 +35,7 @@ faq:
     a: "Gula berarti sugar dalam bahasa Melayu, dan namanya biasanya dirunut ke negeri Melaka, tempat gula aren dari sari bunga kelapa ini diyakini berasal — meski pengaitan itu hanya terdokumentasi secara longgar. Berwarna cokelat pekat dan bernuansa karamel, ia memberi cita rasa pada cendol dan banyak dessert Nyonya."
 
 lang: "id"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -200,7 +200,7 @@ Melaka secara istimewa.
 ## Meja makan Kristang
 
 Melaka juga melestarikan sebuah masakan yang hampir tidak ditemukan di tempat
-lain: kuliner Kristang, komunitas Portugis-Eurasia keturunan pemukim Portugis
+lain: kuliner [Kristang](/id/arts-culture/kristang-eurasian-culture), komunitas Portugis-Eurasia keturunan pemukim Portugis
 abad ke-16 dan penduduk lokal, banyak yang masih tinggal di Perkampungan Portugis
 kota ini. Hidangan mereka yang paling terkenal adalah *kari debal*, atau devil's
 curry — semur daging (sering ayam atau babi) yang tajam dan pedas membara,

@@ -35,7 +35,7 @@ faq:
     a: "El Gawai Dayak (celebrado por los Iban y otros grupos Dayak de Sarawak) y el Kaamatan (la acción de gracias Kadazan-Dusun de Sabah) giran ambos en torno al arroz y al vino de arroz. El tuak, un vino de arroz glutinoso, es central en los brindis y los rituales. Entre los platos emblemáticos están el manok pansuh (pollo cocinado en un tubo de bambú) en Sarawak y el hinava (un plato de pescado crudo curado en lima) en Sabah, junto con arroz envuelto y cocinado en hojas."
 
 lang: "es"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ La open house es el hilo que ata todo el calendario. Una familia que celebra su 
 festividad prepara una mesa y acoge a amigos, vecinos, colegas y a menudo a completos
 desconocidos para comer, de modo que a lo largo de un año la mayoría de los malasios acaban
 siendo invitados en festividades que no son las suyas. La costumbre atraviesa las comunidades:
-se practica por igual en el Hari Raya, el Año Nuevo Chino, Deepavali y otras festividades.
+se practica por igual en el Hari Raya, el Año Nuevo Chino, [Deepavali](/es/arts-culture/deepavali) y otras festividades.
 Políticos, empresas y organismos gubernamentales montan grandes open houses públicas, y la
 tradición se lee ampliamente como un resumen de la convivencia multicultural del país. Su
 prestigio es tal que, en 2025, *The Star* informó de una propuesta para solicitar el
@@ -140,7 +140,7 @@ bazares, tratados por su cuenta en
 [los bazares de Ramadan y el mes de ayuno](/es/food-lifestyle/ramadan-bazaars-and-fasting-month-food),
 son una institución estacional que atrae a compradores de toda procedencia.
 
-El ayuno culmina en el **Hari Raya Aidilfitri**, la festividad que abre la temporada de open
+El ayuno culmina en el [**Hari Raya Aidilfitri**](/es/arts-culture/hari-raya-aidilfitri), la festividad que abre la temporada de open
 houses más conocida del país. La mesa se construye en torno a un puñado de básicos: el
 *ketupat* (bolitas de arroz prensadas y hervidas en fundas trenzadas de hoja de palma), el
 *lemang* (arroz glutinoso cocinado con leche de coco en bambú sobre fuego abierto) y el
@@ -187,7 +187,7 @@ nacional. El abanico más amplio de platos festivos compartidos entre comunidade
 ## Gawai y Kaamatan: las fiestas de la cosecha de Borneo
 
 Malasia Oriental mantiene otro par de festividades arraigadas en la cosecha del arroz. El
-**Gawai Dayak**, celebrado por los Iban y otros grupos Dayak de Sarawak hacia comienzos de
+[**Gawai Dayak**](/es/arts-culture/gawai-dayak), celebrado por los Iban y otros grupos Dayak de Sarawak hacia comienzos de
 junio, y el **Kaamatan**, la acción de gracias Kadazan-Dusun de Sabah a finales de mayo, dan
 gracias por la cosecha y giran ambos en torno al arroz y al vino de arroz. El *tuak* — un vino
 elaborado a partir de arroz glutinoso y levadura casera — es central en los brindis y el ritual;
@@ -208,7 +208,7 @@ no como definitivos.
 
 ## Thaipusam: devoción vegetariana
 
-No toda festividad es un festín. **Thaipusam**, la festividad hindú asociada de forma más visible
+No toda festividad es un festín. [**Thaipusam**](/es/arts-culture/thaipusam), la festividad hindú asociada de forma más visible
 con Batu Caves, cerca de Kuala Lumpur, se distingue por el ayuno y un vegetarianismo estricto.
 Los devotos — en especial quienes van a cargar un *kavadi* — se preparan con un periodo de
 abstinencia, comiendo una sola comida vegetariana al día; las fuentes lo dan de diversas formas

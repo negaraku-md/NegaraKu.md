@@ -190,7 +190,7 @@ Southeast Asian treat that Melaka has made especially its own.
 ## The Kristang table
 
 Melaka also preserves a cuisine found almost nowhere else: the food of the
-Kristang, the Portuguese-Eurasian community descended from 16th-century Portuguese
+[Kristang](/arts-culture/kristang-eurasian-culture), the Portuguese-Eurasian community descended from 16th-century Portuguese
 settlers and locals, many still living in the city's Portuguese Settlement. Their
 best-known dish is *kari debal*, or devil's curry — a sharp, fiery stew of meat
 (often chicken or pork) built on a spice paste with vinegar and mustard, by

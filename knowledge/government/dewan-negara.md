@@ -93,7 +93,7 @@ Perkara 45(1) membahagikan keahlian kepada dua kategori yang berbeza sama sekali
 
 **Senator lantikan.** Empat puluh orang dilantik oleh Yang di-Pertuan Agong di bawah Perkara 45(1)(b), ditambah empat orang lagi yang mewakili Wilayah Persekutuan: dua bagi Kuala Lumpur, seorang bagi Labuan dan seorang bagi Putrajaya.
 
-Perkara 45(2) menyatakan kriteria bagi mereka yang dilantik oleh Yang di-Pertuan Agong: orang yang pada pendapat Baginda telah memberikan perkhidmatan awam yang cemerlang atau telah mencapai keunggulan dalam profesion, perkara komersial, perindustrian, pertanian, aktiviti kebudayaan atau perkhidmatan sosial, atau yang mewakili ras minoriti atau berkebolehan mewakili kepentingan orang asli.
+Perkara 45(2) menyatakan kriteria bagi mereka yang dilantik oleh Yang di-Pertuan Agong: orang yang pada pendapat Baginda telah memberikan perkhidmatan awam yang cemerlang atau telah mencapai keunggulan dalam profesion, perkara komersial, perindustrian, pertanian, aktiviti kebudayaan atau perkhidmatan sosial, atau yang mewakili ras minoriti atau berkebolehan mewakili kepentingan [orang asli](/arts-culture/orang-asli).
 
 Perhatikan nisbahnya. Bilangan senator lantikan (44) melebihi bilangan senator negeri (26). Reka bentuk asal pada 1957 adalah sebaliknya — laporan Suruhanjaya Reid mencadangkan 22 senator negeri berbanding 11 senator lantikan. Perkara 45(1)(b) asalnya memperuntukkan 16 orang ahli lantikan sahaja; angka itu dinaikkan kepada 22 pada 1963, kemudian 32 pada 1964, dan akhirnya 40 pada 1978.
 

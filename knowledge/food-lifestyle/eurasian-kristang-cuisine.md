@@ -92,7 +92,7 @@ framework: history-culture
 Order a curry in a Melaka Malay kitchen and you taste coconut and lemongrass.
 Order one two streets away, in the Portuguese Settlement, and the first thing
 that hits you is vinegar — sharp, almost aggressive, cut with mustard and chilli.
-That tang is the fingerprint of Kristang cooking, the food of Malaysia's
+That tang is the fingerprint of [Kristang](/arts-culture/kristang-eurasian-culture) cooking, the food of Malaysia's
 Portuguese-Eurasian community, and it is the clearest sign that this table grew
 from somewhere other than the rest of the peninsula.
 

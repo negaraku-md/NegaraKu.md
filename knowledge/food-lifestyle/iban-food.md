@@ -147,8 +147,7 @@ add lemongrass, though sources differ on whether it belongs in the most
 traditional version, so treat the exact aromatic blend as a matter of regional
 and family variation.
 
-Beyond the kitchen, manok pansoh is a celebratory dish, cooked for the Gawai
-Dayak festival and other gatherings, and it is also sold at food stalls around
+Beyond the kitchen, manok pansoh is a celebratory dish, cooked for the [Gawai Dayak festival](/arts-culture/gawai-dayak) and other gatherings, and it is also sold at food stalls around
 Sarawak. It is not exclusively Iban — Bidayuh and Orang Ulu communities prepare
 bamboo chicken too — so it is better understood as a shared Dayak technique that
 the Iban are especially known for.

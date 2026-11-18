@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -158,8 +158,8 @@ Perayaan utama penganut Hindu Malaysia berasal daripada tradisi India Selatan:
   Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan, Johor);
   Kedah pula mewartakannya pada sesetengah tahun sebagai pengisytiharan ad-hoc
   dan bukan melalui warta tetap. Lihat: [Thaipusam](/arts-culture/thaipusam).
-- **Thai Pongal** — perayaan menuai, pada permulaan bulan Thai.
-- **Navaratri** — perayaan pemujaan Devi selama sembilan malam.
+- **[Thai Pongal](/arts-culture/pongal)** — perayaan menuai, pada permulaan bulan Thai.
+- **[Navaratri](/arts-culture/navaratri)** — perayaan pemujaan Devi selama sembilan malam.
 
 Mereka yang berketurunan Malayali turut menyambut perayaan seperti Onam dan
 Vishu.

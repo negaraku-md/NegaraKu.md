@@ -30,7 +30,7 @@ faq:
     a: "最集中之处是马六甲 Ujong Pasir 附近的 Portuguese Settlement，它于1933年设立，以聚拢离散的 Kristang 社群，如今以海鲜餐馆闻名。然而据报好几道传统家常菜已变得稀少，主要在节庆聚会上存续，而非出现在日常菜单。"
 
 lang: "zh"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,7 +91,7 @@ framework: history-culture
 
 在马六甲的马来厨房点一道咖喱，你尝到的是椰浆与香茅。隔两条街，在 Portuguese
 Settlement 点一道，最先冲击你的却是醋味——尖锐，近乎咄咄逼人，又被芥末与辣椒
-切开。那股酸，正是 Kristang 烹饪的指纹，是马来西亚葡萄牙欧亚裔社群的食物，也
+切开。那股酸，正是 [Kristang](/zh/arts-culture/kristang-eurasian-culture) 烹饪的指纹，是马来西亚葡萄牙欧亚裔社群的食物，也
 是最清晰的标记，说明这张餐桌长自半岛其余地方之外的某处。
 
 ## Kristang 人是谁

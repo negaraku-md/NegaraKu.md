@@ -36,7 +36,7 @@ socialTitle: "From the Sejarah Melayu to the National Laureate — the story of 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ Malay literature is not a single era, but a current flowing across centuries —
 
 ## Classical literature: the world of hikayat and syair
 
-Classical Malay literature grew out of court and religious traditions, and was largely copied in [Jawi script](/en/arts-culture/jawi-script) before the arrival of Rumi script. According to Encyclopaedia Britannica, the *Sejarah Melayu* — composed around the 15th or 16th century — is one of the finest literary and historical works in the Malay language, a grand depiction of the Melaka Sultanate founded around the year 1400.
+Classical Malay literature grew out of court and religious traditions, and was largely copied in [Jawi script](/en/arts-culture/jawi-script) before the arrival of [Rumi script](/en/arts-culture/rumi-script). According to Encyclopaedia Britannica, the *Sejarah Melayu* — composed around the 15th or 16th century — is one of the finest literary and historical works in the Malay language, a grand depiction of the Melaka Sultanate founded around the year 1400.
 
 Alongside this historical work stands the *Hikayat Hang Tuah*, an epic work regarded as among the most important classical Malay texts. Unlike the *Sejarah Melayu*, which takes the form of traditional historiography, the *Hikayat Hang Tuah* elevates the tale of the Admiral of Melaka as an epic hero, complete with elements that scholars study as an adaptation of influences from various cultures. Its author and actual date cannot be ascertained precisely.
 
@@ -112,7 +112,7 @@ The movement's motto — **"Art for Society"** — placed literature as a tool o
 
 ## The National Laureate Award and major figures
 
-The nation's highest recognition for writers is the **National Literary Award**, which carries the title **National Laureate** (Sasterawan Negara). This award was first held in **1981**, and its selection is driven by the National Literary Award Panel with the support of Dewan Bahasa dan Pustaka.
+The nation's highest recognition for writers is the **[National Literary Award](/en/arts-culture/malaysian-literature)**, which carries the title **National Laureate** (Sasterawan Negara). This award was first held in **1981**, and its selection is driven by the National Literary Award Panel with the support of [Dewan Bahasa dan Pustaka](/en/arts-culture/dewan-bahasa-dan-pustaka).
 
 Its first recipient was **Keris Mas** (Kamaludin Muhammad, 1922–1992), a core figure of ASAS 50. He was followed by a roll of great names: Shahnon Ahmad (1982), Usman Awang (1983), A. Samad Said (1985), Arena Wati (1987) and Muhammad Haji Salleh (1991), among others. Each recipient represents a major contribution to the modern Malay novel, short story, poem or drama.
 

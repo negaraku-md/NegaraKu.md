@@ -35,7 +35,7 @@ faq:
     a: "Masakan Iban harian dan masakan Sarawak yang lebih luas banyak menggunakan sayur liar yang dipungut berhampiran rumah panjang, terutamanya paku-pakis hutan seperti midin (Stenochlaena palustris) dan paku, biasanya digoreng dengan bawang putih atau belacan. Sayur sawi ensabi ialah satu lagi sayur biasa, dimasak dengan belacan dan bawang putih, dijadikan sup, atau dijeruk sebagai kasam ensabi."
 
 lang: "ms"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -149,8 +149,7 @@ walaupun sumber berbeza pendapat sama ada ia tergolong dalam versi yang paling
 tradisional, jadi anggaplah gabungan rempah yang tepat sebagai kelainan mengikut
 wilayah dan keluarga.
 
-Di luar dapur, manok pansoh ialah hidangan perayaan, dimasak untuk pesta Gawai
-Dayak dan perhimpunan lain, dan ia juga dijual di gerai makanan sekitar Sarawak.
+Di luar dapur, manok pansoh ialah hidangan perayaan, dimasak untuk pesta [Gawai Dayak](/arts-culture/gawai-dayak) dan perhimpunan lain, dan ia juga dijual di gerai makanan sekitar Sarawak.
 Ia bukan eksklusif milik Iban — masyarakat Bidayuh dan Orang Ulu turut
 menyediakan ayam buluh — jadi ia lebih tepat difahami sebagai teknik Dayak yang
 dikongsi bersama, yang orang Iban terutamanya terkenal dengannya.
@@ -231,8 +230,7 @@ amalan sedang berubah apabila tuak sampai ke pasaran bandar yang lebih luas, jad
 perinciannya paling baik dianggap sebagai tradisi hidup dan bukan upacara yang
 tetap. Digambarkan secara neutral, tuak ialah contoh paling jelas tentang
 bagaimana makanan Iban mengikat rumah panjang, tanah dan tahun pertanian menjadi
-satu meja makan — satu bahagian kecil daripada peta [masakan wilayah dan
-etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas.
+satu meja makan — satu bahagian kecil daripada peta [masakan wilayah dan etnik](/food-lifestyle/regional-and-ethnic-cuisines) Malaysia yang lebih luas.
 
 ## Apa yang seterusnya
 

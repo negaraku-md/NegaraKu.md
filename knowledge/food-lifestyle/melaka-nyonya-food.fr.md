@@ -35,7 +35,7 @@ faq:
     a: "Gula signifie sugar en malais, et le nom est généralement rattaché à l'État de Melaka, où ce sucre de palme tiré de la sève des fleurs de cocotier serait né — même si l'attribution n'est que vaguement documentée. Brun foncé et caramélisé, il parfume le cendol et bien des desserts nyonya."
 
 lang: "fr"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -202,7 +202,7 @@ d'Asie du Sud-Est que Melaka s'est particulièrement appropriée.
 ## La table kristang
 
 Melaka préserve aussi une cuisine qu'on ne trouve presque nulle part ailleurs :
-celle des Kristang, la communauté portugaise-eurasienne descendant de colons
+celle des [Kristang](/fr/arts-culture/kristang-eurasian-culture), la communauté portugaise-eurasienne descendant de colons
 portugais du XVIe siècle et d'autochtones, dont beaucoup vivent encore dans le
 Quartier portugais de la ville. Leur plat le plus connu est le *kari debal*, ou
 devil's curry — un ragoût de viande (souvent du poulet ou du porc) tranchant et

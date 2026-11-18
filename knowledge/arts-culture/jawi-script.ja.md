@@ -36,7 +36,7 @@ socialTitle: "七世紀にわたりマレー語を書いてきたアラビア文
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -119,7 +119,7 @@ UNESCOによれば、この石碑は東南アジアのマレー・イスラム�
 
 ## ジャウィ文字の表記体系はどのように機能するか
 
-いくつかの特徴が、ラテン文字を基礎とするローマ字（Rumi）とジャウィ文字の機能の仕方を区別している。
+いくつかの特徴が、ラテン文字を基礎とする[ローマ字](/ja/arts-culture/rumi-script)（Rumi）とジャウィ文字の機能の仕方を区別している。
 
 - **書字方向** — ジャウィ文字は右から左へ書かれ、読まれる。
 - **文字の形が変化する** — アラビア文字と同様、多くの文字は、語中の位置（語頭、語中、語尾）や隣接する文字と連結しているかどうかに応じて、異なる形を持つ。

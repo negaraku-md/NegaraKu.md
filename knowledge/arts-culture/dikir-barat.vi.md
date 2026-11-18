@@ -18,7 +18,7 @@ keyTakeaways:
   - "Loại hình nghệ thuật này gắn với truyền thống dikir từ miền nam Thái Lan, được điều chỉnh ở Kelantan với việc bổ sung thơ pantun và phương ngữ Kelantan"
 appliesTo: "Bất kỳ ai muốn hiểu hình thức trình diễn Dikir Barat, vai trò của Tukang Karut và Tok Juara, cùng cấu trúc của một nhóm."
 lang: "vi"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,7 +69,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-Hai nhóm ngồi xếp bằng đối diện nhau trên sân khấu. Không có kịch bản. Khi nhóm thứ nhất vừa đối đáp xong câu pantun châm biếm về chuyện giá cả leo thang, nhóm thứ hai chỉ có vài giây để soạn câu đáp — và câu ấy phải có vần, phải đúng nhịp, và nếu có thể, phải sắc bén hơn câu pantun gốc.
+Hai nhóm ngồi xếp bằng đối diện nhau trên sân khấu. Không có kịch bản. Khi nhóm thứ nhất vừa đối đáp xong câu [pantun](/vi/arts-culture/pantun) châm biếm về chuyện giá cả leo thang, nhóm thứ hai chỉ có vài giây để soạn câu đáp — và câu ấy phải có vần, phải đúng nhịp, và nếu có thể, phải sắc bén hơn câu pantun gốc.
 
 Đó chính là khoảnh khắc được mong chờ nhất trong Dikir Barat: cuộc chạm trán ứng khẩu giữa hai Tukang Karut.
 

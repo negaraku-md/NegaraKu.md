@@ -34,7 +34,7 @@ seoTitle: "말레이 문학"
 socialTitle: "《스자라 믈라유》에서 국가문인까지 — 말레이 문필 이야기"
 
 lang: "ko"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## 고전 문학: 히카얏과 샤이르의 세계
 
-말레이 고전 문학은 궁정과 종교 전통에서 자라났으며, 루미 문자가 들어오기 전 대체로 [자위 문자](/ko/arts-culture/jawi-script)로 베껴 쓰였습니다. Encyclopaedia Britannica에 따르면, 15세기 또는 16세기 무렵 지어진 《스자라 믈라유》는 말레이어로 된 가장 뛰어난 문학·역사 작품의 하나로, 1400년 무렵 세워진 믈라카 술탄국에 대한 웅장한 서술입니다.
+말레이 고전 문학은 궁정과 종교 전통에서 자라났으며, [루미 문자](/ko/arts-culture/rumi-script)가 들어오기 전 대체로 [자위 문자](/ko/arts-culture/jawi-script)로 베껴 쓰였습니다. Encyclopaedia Britannica에 따르면, 15세기 또는 16세기 무렵 지어진 《스자라 믈라유》는 말레이어로 된 가장 뛰어난 문학·역사 작품의 하나로, 1400년 무렵 세워진 믈라카 술탄국에 대한 웅장한 서술입니다.
 
 이 역사 작품 곁에는 가장 중요한 말레이 고전 텍스트의 하나로 여겨지는 서사 작품 《히카얏 항 투아(Hikayat Hang Tuah)》가 있습니다. 전통 사서(史書) 형식인 《스자라 믈라유》와 달리, 《히카얏 항 투아》는 믈라카의 수군제독(Laksamana)을 서사의 영웅으로 끌어올리며, 학자들이 여러 문화의 영향을 받아들인 것으로 연구하는 요소들로 가득합니다. 실제 저자와 연대는 정확히 확정할 수 없습니다.
 
@@ -112,7 +112,7 @@ framework: history-culture
 
 ## 국가문학상과 주요 인물
 
-문인에게 주어지는 국가 최고의 인정은 **국가문학상(Anugerah Sastera Negara)**으로, **국가문인(Sasterawan Negara)**의 칭호를 함께 안겨줍니다. 이 상은 **1981년**에 처음 수여되었으며, 그 선정은 언어문학원의 지원을 받는 국가문학상 심사단에 의해 이루어집니다.
+문인에게 주어지는 국가 최고의 인정은 **[국가문학상](/ko/arts-culture/malaysian-literature)(Anugerah Sastera Negara)**으로, **국가문인(Sasterawan Negara)**의 칭호를 함께 안겨줍니다. 이 상은 **1981년**에 처음 수여되었으며, 그 선정은 [언어문학원](/ko/arts-culture/dewan-bahasa-dan-pustaka)의 지원을 받는 국가문학상 심사단에 의해 이루어집니다.
 
 첫 수상자는 ASAS 50의 핵심 인물이었던 **크리스 마스(Keris Mas)**(카말루딘 무하맛, Kamaludin Muhammad, 1922–1992)였습니다. 그에 이어 큰 이름들이 줄을 이었습니다: 샤논 아흐맛(Shahnon Ahmad, 1982), 우스만 아왕(Usman Awang, 1983), A. 사맛 사이드(A. Samad Said, 1985), 아레나 와티(Arena Wati, 1987), 무하맛 하지 살레(Muhammad Haji Salleh, 1991) 등이 있습니다. 수상자마다 근대 말레이 소설, 단편, 시 또는 희곡에서 큰 기여를 대표합니다.
 

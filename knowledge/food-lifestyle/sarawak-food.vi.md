@@ -35,7 +35,7 @@ faq:
     a: "Không. Dù chung tên gọi, laksa Sarawak là một phong cách riêng được xây dựng trên hỗn hợp sambal belacan cùng me và các gia vị thơm, dùng trên bún gạo mảnh với gà xé, tôm, trứng chiên và một chút chanh vắt. Nó không phải là Pulau Pinang asam laksa chua, cũng không phải laksa cà ri cốt dừa thông thường."
 
 lang: "vi"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -192,7 +192,7 @@ Hai món ăn nắm bắt được cốt lõi bản địa của ẩm thực Sara
 và *daun ubi* (lá sắn) rồi nấu trên lửa ngoài trời; ống tre bịt kín hấp chín thịt trong
 chính nước của nó và ban cho một mùi gỗ thoang thoảng. Đó là một món của người Iban và
 Bidayuh, theo truyền thống được làm cho những dịp lớn, đặc biệt là lễ hội thu hoạch
-Gawai Dayak, dù nay đã được phục vụ quanh năm trong các nhà hàng.
+[Gawai Dayak](/vi/arts-culture/gawai-dayak), dù nay đã được phục vụ quanh năm trong các nhà hàng.
 
 **Umai** đến từ người Melanau ở vùng ven biển và trên thực tế là một món ceviche kiểu
 Borneo: cá biển chắc thịt không xương như *tenggiri* (cá thu) được thái lát mỏng và

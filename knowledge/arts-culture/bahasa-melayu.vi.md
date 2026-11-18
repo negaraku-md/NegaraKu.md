@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu: Ngôn ngữ Quốc gia theo Điều 152"
 socialTitle: "Tiếng Mã Lai trở thành ngôn ngữ quốc gia ra sao — và chuyển từ Jawi sang Rumi"
 
 lang: "vi"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -142,7 +142,7 @@ Phần chạm trực tiếp nhất đến vấn đề chữ viết là **Mục 9
 
 Chữ Jawi — chữ Ả Rập được điều chỉnh cho các âm của tiếng Mã Lai — là chữ viết chính của tiếng Mã Lai trong nhiều thế kỷ, như được chứng minh bởi Batu Bersurat Terengganu có niên đại năm 1303 sau Công nguyên. Nó phát triển song song với sự lan tỏa của Hồi giáo ở Nusantara, và trở thành chữ viết hành chính, thư từ và tôn giáo của các triều đình Mã Lai, bao gồm vào thời [Vương quốc Melaka](/vi/malaysia/melaka-sultanate).
 
-Chữ Rumi — bảng chữ cái Latin — bắt đầu được dùng rộng rãi cho tiếng Mã Lai trong thời kỳ thuộc địa, khi nhiều hệ thống chính tả Rumi được soạn. Đến giữa thế kỷ 20, việc chuẩn hóa chính tả Rumi trở thành trọng tâm của phong trào tiếng Mã Lai.
+[Chữ Rumi](/vi/arts-culture/rumi-script) — bảng chữ cái Latin — bắt đầu được dùng rộng rãi cho tiếng Mã Lai trong thời kỳ thuộc địa, khi nhiều hệ thống chính tả Rumi được soạn. Đến giữa thế kỷ 20, việc chuẩn hóa chính tả Rumi trở thành trọng tâm của phong trào tiếng Mã Lai.
 
 **1956** — [Dewan Bahasa dan Pustaka](/vi/arts-culture/dewan-bahasa-dan-pustaka) (DBP), ban đầu có tên Balai Pustaka, được thành lập vào ngày 22 tháng 6 năm 1956 tại Johor Bahru để phát triển tiếng Mã Lai như ngôn ngữ quốc gia và ngôn ngữ chính thức của quốc gia sắp giành độc lập. Sau Đại hội Ngôn ngữ và Văn chương Mã Lai lần thứ Ba (Kongres Bahasa dan Persuratan Melayu Ketiga) diễn ra ở Singapore và Johor Bahru từ ngày 16 đến 21 tháng 9 năm 1956, tên của nó được đổi thành Dewan Bahasa dan Pustaka.
 

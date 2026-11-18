@@ -111,7 +111,7 @@ Malaysia's official statistics and investment agency, the Malaysian Investment D
 - **Technical and industrial textiles** — higher-value fabrics engineered for performance rather than fashion, such as geotextiles, filtration media, automotive textiles and protective or medical fabrics (including personal protective equipment).
 - **Footwear** — boots, shoes, sandals, slippers and clogs, closely linked to the leather segment.
 
-Alongside the volume end sits a distinctive heritage strand — **batik and songket** — which carries cultural weight and a modest-fashion export angle, exemplified by home-grown brands in the Muslim-wear space.
+Alongside the volume end sits a distinctive heritage strand — **batik and [songket](/arts-culture/songket)** — which carries cultural weight and a modest-fashion export angle, exemplified by home-grown brands in the Muslim-wear space.
 
 ## How big is it?
 

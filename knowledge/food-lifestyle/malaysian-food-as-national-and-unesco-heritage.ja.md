@@ -37,7 +37,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "99f9a99ac9dc7cef"
+sourceContentHash: "b52a2c5ef4e067c5"
 
 status: "published"
 aiAssisted: true
@@ -145,7 +145,7 @@ framework: data-reference
 
 ## 他の料理もすでにユネスコのリストに入っているのか
 
-これまでのところ、ない。マレーシアはユネスコの無形文化遺産リストに九つの要素を有している：[マッ・ヨン](/arts-culture/mak-yong)（2008年）、ドンダン・サヤン（Dondang Sayang、2018年）、シラット（2019年）、王船（Ong Chun/Wangchuan）儀礼（2020年）、[ソンケット](/arts-culture/songket)（2021年）、メッ・ムルン（Mek Mulung、2023年）、クバヤ（2024年）、朝食文化（2024年）、そしてパントゥン（2025年）である。このうち八件は**代表一覧表**に、メッ・ムルン（2023年）は代表一覧表ではなく**緊急保護リスト**（Urgent Safeguarding List）に記載されている。これらすべてのうち、**食に関わるのは朝食文化のみ**であり——残りは舞台芸術、織物、衣装、儀礼、口承文学である。
+これまでのところ、ない。マレーシアはユネスコの無形文化遺産リストに九つの要素を有している：[マッ・ヨン](/arts-culture/mak-yong)（2008年）、ドンダン・サヤン（Dondang Sayang、2018年）、シラット（2019年）、王船（Ong Chun/Wangchuan）儀礼（2020年）、[ソンケット](/arts-culture/songket)（2021年）、メッ・ムルン（Mek Mulung、2023年）、クバヤ（2024年）、朝食文化（2024年）、そして[パントゥン](/ja/arts-culture/pantun)（2025年）である。このうち八件は**代表一覧表**に、メッ・ムルン（2023年）は代表一覧表ではなく**緊急保護リスト**（Urgent Safeguarding List）に記載されている。これらすべてのうち、**食に関わるのは朝食文化のみ**であり——残りは舞台芸術、織物、衣装、儀礼、口承文学である。
 
 これはつまり、マレーシア料理に対するユネスコの認定は今なおきわめて限定的であるということだ——一つの要素、一つの年。
 

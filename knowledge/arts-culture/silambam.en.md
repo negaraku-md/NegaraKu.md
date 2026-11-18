@@ -29,7 +29,7 @@ faq:
   - q: "Is silambam recognised as a sport in Malaysia?"
     a: "Silambam is practised in Malaysia both as a martial art and as a competitive sport; national competitions, international championships and participation in the Malaysia Games (SUKMA) in some years have all taken place. However, the associations and the sport's administrative status may change from time to time; verify the current position against official sources."
 lang: "en"
-sourceContentHash: "c8454fb7c128f998"
+sourceContentHash: "ecfad46369d6e997"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["சிலம்பம்", "Silambam", "மலேசியா சி
 framework: history-culture
 ---
 
-At a temple festival or a Tamil New Year event in Malaysia, you may see a young man twirling a long bamboo staff above his head and around his body at lightning speed, in time with the beat of the drums. That spinning is not merely for show — it is the hallmark of silambam, a Tamil martial art more than one and a half thousand years old.
+At a temple festival or a [Tamil New Year](/en/arts-culture/tamil-new-year) event in Malaysia, you may see a young man twirling a long bamboo staff above his head and around his body at lightning speed, in time with the beat of the drums. That spinning is not merely for show — it is the hallmark of silambam, a Tamil martial art more than one and a half thousand years old.
 
 Silambam is **a martial art that originated in Tamil Nadu and uses the bamboo staff as its primary weapon**. It came to Malaysia with Tamil migration and continues today as a martial art, a sport and a cultural performance. This article describes, in a neutral way, the art's origins, its techniques, and its place within Malaysia's Tamil community.
 

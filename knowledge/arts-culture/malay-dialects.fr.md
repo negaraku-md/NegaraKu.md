@@ -36,7 +36,7 @@ socialTitle: "Parler de Kelantan, dialecte du nord, malais du Sarawak — la div
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ Cet article explique les dialectes malais de manière descriptive : ce qu'est un
 
 ## Langue standard et dialecte
 
-La première distinction à comprendre est celle entre le **malais standard** et les **dialectes régionaux**. La langue standard est la variété normalisée du [malais](/fr/arts-culture/bahasa-melayu) utilisée dans l'éducation, la diffusion officielle, les documents gouvernementaux et l'édition. C'est une variété coordonnée et développée, entre autres par le Dewan Bahasa dan Pustaka (DBP), comme langue commune par-delà les régions.
+La première distinction à comprendre est celle entre le **malais standard** et les **dialectes régionaux**. La langue standard est la variété normalisée du [malais](/fr/arts-culture/bahasa-melayu) utilisée dans l'éducation, la diffusion officielle, les documents gouvernementaux et l'édition. C'est une variété coordonnée et développée, entre autres par le [Dewan Bahasa dan Pustaka](/fr/arts-culture/dewan-bahasa-dan-pustaka) (DBP), comme langue commune par-delà les régions.
 
 Selon les études linguistiques, le malais standard en Malaisie repose en grande partie sur le **dialecte de Johor-Riau**, c'est-à-dire la variété malaise du sud de la péninsule. Dans l'étude de Mukhlis Abu Bakar sur la prononciation de Johor-Riau et la prononciation standard, la prononciation de Johor-Riau est décrite comme celle devenue la référence standard en Malaisie et à Singapour après le rôle de la radio au milieu du XXe siècle. La question de savoir si la prononciation officielle devait reposer sur l'orthographe (prononciation standard) ou sur la prononciation de Johor-Riau a été un enjeu de politique linguistique qui a changé de temps à autre.
 

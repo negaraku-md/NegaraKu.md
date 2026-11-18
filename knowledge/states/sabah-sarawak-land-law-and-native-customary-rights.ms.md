@@ -32,7 +32,7 @@ faq:
     a: "Tidak sepenuhnya. Mahkamah Persekutuan mengesahkan pengiktirafan common law terhadap NCR dalam Madeli bin Salleh (2007), tetapi dalam TR Sandah (2016) mahkamah yang berpecah mengehadkan hak yang boleh dikuatkuasakan kepada tanah yang diusahakan dan menolak tuntutan ke atas hutan komunal di sekelilingnya. Skop NCR masih diperdebatkan."
 
 lang: "ms"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Kedua-dua statut mengelaskan tanah kepada kategori yang tidak selari kemas denga
 | --- | --- | --- | --- |
 | Statut yang mentadbir | Kanun Tanah Negara | Ordinan Tanah Sabah (Cap. 68) | Kanun Tanah Sarawak (Cap. 81) |
 | Kategori pegangan bumiputera | Tanah rizab Melayu | Hak Milik Bumiputera / hak adat bumiputera | Tanah adat bumiputera / Tanah Kawasan Bumiputera |
-| Mengiktiraf NCR | Terhad (Orang Asli, undang-undang berasingan) | Ya, di bawah seksyen 15 | Ya, di bawah seksyen 5 |
+| Mengiktiraf NCR | Terhad ([Orang Asli](/arts-culture/orang-asli), undang-undang berasingan) | Ya, di bawah seksyen 15 | Ya, di bawah seksyen 5 |
 
 Satu ciri penting tanah bumiputera di kedua-dua negeri ialah sekatan ke atas pindah milik. Di Sabah, seksyen 17(1) Ordinan Tanah melarang urusan tanah antara bumiputera dan bukan bumiputera kecuali dengan kebenaran bertulis — satu peraturan yang bertujuan mengekalkan tanah bumiputera dalam tangan bumiputera.
 

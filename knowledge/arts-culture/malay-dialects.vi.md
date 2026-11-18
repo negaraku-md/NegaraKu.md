@@ -36,7 +36,7 @@ socialTitle: "Giọng Kelantan, phương ngữ miền bắc, tiếng Mã Lai Sar
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ Bài viết này giải thích phương ngữ Mã Lai một cách mô tả: phư
 
 ## Ngôn ngữ chuẩn và phương ngữ
 
-Sự khác biệt đầu tiên cần hiểu là giữa **tiếng Mã Lai chuẩn** với **phương ngữ vùng miền**. Ngôn ngữ chuẩn là biến thể quy chuẩn của [tiếng Mã Lai](/vi/arts-culture/bahasa-melayu) được dùng trong giáo dục, phát sóng chính thức, văn bản nhà nước và xuất bản. Đó là biến thể được điều phối và phát triển, trong đó có Dewan Bahasa dan Pustaka (DBP), làm ngôn ngữ chung vượt qua ranh giới vùng miền.
+Sự khác biệt đầu tiên cần hiểu là giữa **tiếng Mã Lai chuẩn** với **phương ngữ vùng miền**. Ngôn ngữ chuẩn là biến thể quy chuẩn của [tiếng Mã Lai](/vi/arts-culture/bahasa-melayu) được dùng trong giáo dục, phát sóng chính thức, văn bản nhà nước và xuất bản. Đó là biến thể được điều phối và phát triển, trong đó có [Dewan Bahasa dan Pustaka](/vi/arts-culture/dewan-bahasa-dan-pustaka) (DBP), làm ngôn ngữ chung vượt qua ranh giới vùng miền.
 
 Theo các nghiên cứu ngôn ngữ học, tiếng Mã Lai chuẩn tại Malaysia phần lớn dựa trên **phương ngữ Johor-Riau**, tức biến thể Mã Lai ở miền nam Bán đảo. Trong nghiên cứu của Mukhlis Abu Bakar về phát âm Johor-Riau và phát âm chuẩn, phát âm Johor-Riau được mô tả là cách phát âm trở thành chuẩn tham chiếu tại Malaysia và Singapore sau vai trò của radio vào giữa thế kỷ 20. Vấn đề liệu phát âm chính thức nên dựa trên chính tả (phát âm chuẩn) hay phát âm Johor-Riau từng là một vấn đề chính sách ngôn ngữ thay đổi theo thời gian.
 

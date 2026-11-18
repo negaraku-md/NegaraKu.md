@@ -34,7 +34,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "8b1e516c1efc69e1"
+sourceContentHash: "708bcc89edd82a37"
 masterLanguage: "en"
 
 status: "published"
@@ -106,7 +106,7 @@ Belacan sống có mùi nồng gắt, nên người nấu **gần như luôn nư
 
 Cincalok (cũng viết là **cencaluk** — mắm tôm chua) bắt đầu từ **cùng loại tôm nhỏ như belacan** — nhưng thay vì được phơi khô và giã cho cứng, cả con tôm được xếp vào nước muối mặn, **thường thêm một ít cơm**, và để lên men chỉ trong thời gian ngắn. Kết quả không thể khác belacan hơn được nữa: một **hỗn hợp ướt, rót được, trong đó từng con tôm nhỏ vẫn nhìn thấy được**, mặn với một chút vị chua nhẹ. Nó được bán trong hũ, và vì nó lên men trong hũ kín và áp suất có thể tích tụ bên trong, nên mở hũ một cách cẩn thận là điều đáng làm.
 
-Cincalok gắn bó mạnh nhất với **Melaka**, nơi nó từ lâu đã là một phần của ẩm thực Mã Lai, **Peranakan và Kristang** (gốc Bồ Đào Nha – Á Âu); loại gia vị này thường được truy nguồn, theo truyền thống, về thời Bồ Đào Nha của Melaka. Khác với belacan, nó thường được **ăn sống**. Cách chế biến kinh điển là một thứ nước chấm hay sambal nhanh — cincalok trộn với **nước tắc hoặc chanh, hẹ tây thái lát và ớt hiểm (cili padi)** — dùng kèm cơm trắng. Nó cũng thường được chiên thành món **trứng (telur cincalok)**. Nếu belacan là một nguyên liệu để nấu, thì cincalok thường là một thứ gia vị lên bàn gần như y nguyên cách nó vừa được múc ra khỏi hũ.
+Cincalok gắn bó mạnh nhất với **Melaka**, nơi nó từ lâu đã là một phần của ẩm thực Mã Lai, **Peranakan và [Kristang](/vi/arts-culture/kristang-eurasian-culture)** (gốc Bồ Đào Nha – Á Âu); loại gia vị này thường được truy nguồn, theo truyền thống, về thời Bồ Đào Nha của Melaka. Khác với belacan, nó thường được **ăn sống**. Cách chế biến kinh điển là một thứ nước chấm hay sambal nhanh — cincalok trộn với **nước tắc hoặc chanh, hẹ tây thái lát và ớt hiểm (cili padi)** — dùng kèm cơm trắng. Nó cũng thường được chiên thành món **trứng (telur cincalok)**. Nếu belacan là một nguyên liệu để nấu, thì cincalok thường là một thứ gia vị lên bàn gần như y nguyên cách nó vừa được múc ra khỏi hũ.
 
 ## Budu: cá biến thành chất lỏng
 

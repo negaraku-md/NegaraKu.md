@@ -96,7 +96,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Ask what "Orang Asli food" is and the honest first answer is a question back: *whose* food? The term "Orang Asli" — Malay for "original people" — covers the indigenous peoples of Peninsular Malaysia, and the official classification splits them into three groupings with many subgroups, living very differently from the deep forest to the coast. There is no single Orang Asli cuisine in the way there is a Penang laksa. What there is instead is a set of related foraging-and-subsistence foodways, shaped by the forest and river, that deserve to be described carefully — and with an honest admission of how patchy the written record is.
+Ask what "Orang Asli food" is and the honest first answer is a question back: *whose* food? The term "[Orang Asli](/arts-culture/orang-asli)" — Malay for "original people" — covers the indigenous peoples of Peninsular Malaysia, and the official classification splits them into three groupings with many subgroups, living very differently from the deep forest to the coast. There is no single Orang Asli cuisine in the way there is a Penang laksa. What there is instead is a set of related foraging-and-subsistence foodways, shaped by the forest and river, that deserve to be described carefully — and with an honest admission of how patchy the written record is.
 
 ## Who the Orang Asli are, and why one description cannot fit all
 

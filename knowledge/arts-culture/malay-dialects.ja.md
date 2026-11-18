@@ -36,7 +36,7 @@ socialTitle: "クランタン方言、北部方言、サラワク・マレー語
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ framework: explainer
 
 ## 標準語と方言
 
-まず理解すべき第一の区別は、**標準マレー語**と**地域方言**の区別である。標準語は、教育、公式放送、政府文書、出版で用いられる[マレー語](/ja/arts-culture/bahasa-melayu)の標準的な変種である。それは、とりわけ国語・文学局（DBP）によって、地域を越えた共通語として調整され発展させられた変種である。
+まず理解すべき第一の区別は、**標準マレー語**と**地域方言**の区別である。標準語は、教育、公式放送、政府文書、出版で用いられる[マレー語](/ja/arts-culture/bahasa-melayu)の標準的な変種である。それは、とりわけ[国語・文学局](/ja/arts-culture/dewan-bahasa-dan-pustaka)（DBP）によって、地域を越えた共通語として調整され発展させられた変種である。
 
 言語学的研究によれば、マレーシアの標準マレー語は大部分が半島部南部のマレー語の変種である**ジョホール・リアウ方言**に基づいている。Mukhlis Abu Bakar によるジョホール・リアウ発音と標準発音の研究では、ジョホール・リアウ発音は、20世紀半ばのラジオの役割を経てマレーシアとシンガポールにおける標準の基準となった発音として特徴づけられている。公式発音を綴字に基づくべき（標準発音）か、ジョホール・リアウ発音に基づくべきかという問題は、時代によって変化する言語政策上の論点であった。
 

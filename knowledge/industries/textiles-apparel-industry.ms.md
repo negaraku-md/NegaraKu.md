@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang menyokong pelaburan tekstil dan pakaian?
     a: MIDA mentadbir kelulusan lesen pembuatan dan insentif cukai bagi subsektor ini, yang merupakan bidang keutamaan di bawah Pelan Induk Perindustrian Baharu (NIMP) 2030. Mulai suku pertama 2026, pelaburan yang layak tertakluk di bawah Rangka Kerja Insentif Pelaburan Baharu yang berasaskan hasil, dengan insentif berperingkat yang dikaitkan dengan hasil seperti teknologi, kemahiran dan hubungan tempatan. Sahkan kadar dan syarat semasa dengan MIDA.
 lang: ms
-sourceContentHash: "1841208413fe19a3"
+sourceContentHash: "33538782332736dd"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -112,7 +112,7 @@ Statistik rasmi dan agensi pelaburan Malaysia, Lembaga Pembangunan Pelaburan Mal
 - **Tekstil teknikal dan industri** — fabrik bernilai lebih tinggi yang direka untuk prestasi dan bukan fesyen, seperti geotekstil, media penapisan, tekstil automotif dan fabrik pelindung atau perubatan (termasuk kelengkapan perlindungan diri).
 - **Kasut** — but, kasut, sandal, selipar dan terompah, berkait rapat dengan segmen kulit.
 
-Di sebelah hujung pukal terletak satu jalur warisan yang tersendiri — **batik dan songket** — yang membawa berat budaya dan sudut eksport fesyen sopan, dicontohi oleh jenama buatan tempatan dalam ruang pakaian Muslim.
+Di sebelah hujung pukal terletak satu jalur warisan yang tersendiri — **batik dan [songket](/arts-culture/songket/)** — yang membawa berat budaya dan sudut eksport fesyen sopan, dicontohi oleh jenama buatan tempatan dalam ruang pakaian Muslim.
 
 ## Sebesar mana ia?
 

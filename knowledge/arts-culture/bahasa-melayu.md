@@ -141,7 +141,7 @@ Peruntukan ini menetapkan dua perkara sekali gus: tulisan rasmi bagi bahasa keba
 
 Tulisan Jawi — huruf Arab yang disesuaikan untuk bunyi bahasa Melayu — merupakan aksara utama bahasa Melayu selama berabad-abad, seperti yang dibuktikan oleh Batu Bersurat Terengganu bertarikh 1303 Masihi. Ia berkembang seiring dengan penyebaran Islam di Nusantara, dan menjadi tulisan pentadbiran, persuratan dan keagamaan istana-istana Melayu, termasuk pada zaman [Kesultanan Melaka](/malaysia/melaka-sultanate).
 
-Tulisan Rumi — abjad Latin — mula digunakan secara meluas untuk bahasa Melayu dalam tempoh penjajahan, apabila pelbagai sistem ejaan Rumi disusun. Menjelang pertengahan abad ke-20, penyeragaman ejaan Rumi menjadi tumpuan gerakan bahasa Melayu.
+[Tulisan Rumi](/arts-culture/rumi-script) — abjad Latin — mula digunakan secara meluas untuk bahasa Melayu dalam tempoh penjajahan, apabila pelbagai sistem ejaan Rumi disusun. Menjelang pertengahan abad ke-20, penyeragaman ejaan Rumi menjadi tumpuan gerakan bahasa Melayu.
 
 **1956** — [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), pada asalnya bernama Balai Pustaka, ditubuhkan pada 22 Jun 1956 di Johor Bahru untuk mengembangkan bahasa Melayu sebagai bahasa kebangsaan dan bahasa rasmi negara yang bakal merdeka. Berikutan Kongres Bahasa dan Persuratan Melayu Ketiga yang berlangsung di Singapura dan Johor Bahru pada 16 hingga 21 September 1956, namanya ditukar kepada Dewan Bahasa dan Pustaka.
 

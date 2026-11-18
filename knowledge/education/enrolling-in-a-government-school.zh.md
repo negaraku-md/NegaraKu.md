@@ -34,7 +34,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "10e50c8f9bbc2e3a"
+sourceContentHash: "8bb8f4e4a270c076"
 sources:
   - title: "注册（一年级学生注册） (Pendaftaran (Pendaftaran Murid Tahun 1))"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -145,7 +145,7 @@ framework: how-to
 **延后入读一年级。** 相反地，对于在1月2日至15日出生、但家长希望延后入
 学（而非提早）的孩子，须以**Borang PPW 2**表格向JPN提出申请，并附上家
 长身份证核证副本、孩子出生证明、一年级报读证明，以及医生的医疗报告。此
-外也会考虑原住民学生、内陆地区的沙巴/砂拉越土著儿童，以及有特殊需求的
+外也会考虑[原住民](/zh/arts-culture/orang-asli)学生、内陆地区的沙巴/砂拉越土著儿童，以及有特殊需求的
 学生。批准权在于身为总注册官的**马来西亚教育总监（KPPM）**，依据**Akta
 Pendidikan 1996 Seksyen 29A(3)**——而教育部强调，**延后入学是一项特权，
 而非权利**：在获得正式批准之前，孩子仍须依法上小学。

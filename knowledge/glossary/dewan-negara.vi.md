@@ -27,7 +27,7 @@ verificationNeeded:
   - "Văn bản tiếng Mã Lai của Hiến pháp Liên bang là bản dịch của Cục Chưởng lý (Jabatan Peguam Negara). Trừ khi và cho đến khi được xác lập là xác thực theo Điều 160B, văn bản tiếng Anh là văn bản xác thực."
 
 lang: "vi"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -170,7 +170,7 @@ mà theo ý kiến của Yang di-Pertuan Agong:
 - đã đạt được sự xuất chúng trong nghề nghiệp, thương mại, công nghiệp,
   nông nghiệp, hoạt động văn hóa hoặc dịch vụ xã hội; hoặc
 - đại diện cho một sắc tộc thiểu số; hoặc
-- có năng lực đại diện cho lợi ích của người bản địa.
+- có năng lực đại diện cho lợi ích của [người bản địa](/vi/arts-culture/orang-asli).
 
 Có một điều cần được đọc cùng nhau. Điều 40(1) quy định rằng
 khi thực hiện các chức năng của mình theo Hiến pháp, Yang di-Pertuan Agong

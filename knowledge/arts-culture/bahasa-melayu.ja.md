@@ -36,7 +36,7 @@ socialTitle: "マレー語はいかにして国語となったか——そして
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 
 status: "published"
 aiAssisted: true
@@ -142,7 +142,7 @@ framework: explainer
 
 ジャウィ文字——マレー語の音に合わせて調整されたアラビア文字——は、西暦1303年のトレンガヌ碑文石が示すとおり、何世紀にもわたりマレー語の主要な文字であった。それはヌサンタラ（マレー諸島）におけるイスラームの伝播とともに発展し、[マラッカ王国](/malaysia/melaka-sultanate)の時代を含め、マレーの王宮における行政、書簡および宗教の文字となった。
 
-ローマ字——ラテン文字——は、植民地時代にマレー語のために広く用いられるようになり、その間にさまざまなローマ字綴り字体系が編まれた。20世紀半ばまでに、ローマ字綴りの統一はマレー語運動の関心の的となった。
+[ローマ字](/ja/arts-culture/rumi-script)——ラテン文字——は、植民地時代にマレー語のために広く用いられるようになり、その間にさまざまなローマ字綴り字体系が編まれた。20世紀半ばまでに、ローマ字綴りの統一はマレー語運動の関心の的となった。
 
 **1956年** — [国語・文学局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka、DBP）は、当初 Balai Pustaka という名称で、独立を目前にした国の国語および公用語としてマレー語を発展させるため、1956年6月22日にジョホールバルで設立された。1956年9月16日から21日までシンガポールとジョホールバルで開催された第3回マレー語文学会議（Kongres Bahasa dan Persuratan Melayu Ketiga）を受けて、その名称は Dewan Bahasa dan Pustaka に改められた。
 

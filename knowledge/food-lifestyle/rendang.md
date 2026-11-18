@@ -106,7 +106,7 @@ dishFacts:
   where: "On the Malaysian festive and open-house table; closely associated with Negeri Sembilan's Minangkabau-descended community and its dark rendang styles."
 ---
 
-Walk past a Malay kitchen in the days before Hari Raya and you will often hear
+Walk past a Malay kitchen in the days before [Hari Raya](/arts-culture/hari-raya-aidilfitri) and you will often hear
 rendang before you see it — the slow scrape of a wooden spoon against a heavy
 pot, over and over, for hours. Rendang is not a dish you rush. It is coaxed,
 not cooked, from a soupy coconut curry into something dark, dense and almost

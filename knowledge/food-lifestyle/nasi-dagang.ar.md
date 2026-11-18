@@ -35,7 +35,7 @@ faq:
     a: "هو طبق من الساحل الشرقي يرتبط أكثر ما يرتبط بـ Terengganu وKelantan، وهو مُدرَج على قائمة أطعمة ماليزيا التراثية الوطنية منذ 2009. ويُترجَم اسمه بـ «أرزّ التاجر»، وتربطه الروايات الشائعة بالتجّار أو بالصيّادين الذين حملوه إلى البحر، وإن كانت حكايات المنشأ هذه موثّقة توثيقًا فضفاضًا فحسب."
 
 lang: "ar"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -119,7 +119,7 @@ dishFacts:
 الوطني» منذ 2009.
 
 وهو قبل كلّ شيء طبق إفطار وسوق في شرق شبه الجزيرة — يُعرَف بقوّة بـ Terengganu وKelantan — وإن صار
-يُباع اليوم أبعد من ذلك بكثير، ويظهر على موائد الأعياد، خصوصًا حول Hari Raya Aidilfitri. وهو يقع
+يُباع اليوم أبعد من ذلك بكثير، ويظهر على موائد الأعياد، خصوصًا حول [Hari Raya Aidilfitri](/ar/arts-culture/hari-raya-aidilfitri). وهو يقع
 ضمن العالم الأوسع لـ [المطبخ الملايويّ](/ar/food-lifestyle/malay-cuisine) وضمن خريطة
 [المطابخ الإقليمية والعرقية](/ar/food-lifestyle/regional-and-ethnic-cuisines) في البلاد.
 

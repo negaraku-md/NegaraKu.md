@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 تقويم العطل في ماليزيا هو، في الواقع، صورة للبلد:
 
-- **الدين.** تحتفي العطل بأعياد الأديان الرئيسية — الإسلامية (Hari Raya Aidilfitri، وHari Raya Aidiladha، وAwal Muharram، وMaulidur Rasul)، والبوذية (Wesak)، والمسيحية (عيد الميلاد)، والهندوسية (ديبافالي، وثايبوسام في بعض الولايات)، وغيرها.
+- **الدين.** تحتفي العطل بأعياد الأديان الرئيسية — الإسلامية ([Hari Raya Aidilfitri](/ar/arts-culture/hari-raya-aidilfitri/)، وHari Raya Aidiladha، وAwal Muharram، وMaulidur Rasul)، والبوذية (Wesak)، والمسيحية (عيد الميلاد)، والهندوسية ([ديبافالي](/ar/arts-culture/deepavali/)، و[ثايبوسام](/ar/arts-culture/thaipusam/) في بعض الولايات)، وغيرها.
 - **الملكية.** عيد ميلاد **Yang di-Pertuan Agong** (الملك) عطلة وطنية، كما تراعي كل ولاية ذات حاكم وراثي عيد ميلاد ذلك الحاكم بوصفه عطلة ولائية.
 - **البناء الوطني.** يحتفي **يوم Merdeka** (31 أغسطس) بالاستقلال؛ ويحتفي **يوم ماليزيا** (16 سبتمبر) بتكوين ماليزيا.
 

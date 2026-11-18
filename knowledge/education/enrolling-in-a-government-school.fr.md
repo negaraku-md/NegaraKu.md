@@ -20,7 +20,7 @@ keyTakeaways:
   - "L'entrée anticipée (avant l'âge requis) et le report de la Year 1 existent comme politiques officielles distinctes : les demandes se font via le JPN, et non par le système idMe habituel, et le report est un privilège, non un droit automatique"
 appliesTo: "Parents ou tuteurs de nationalité malaisienne dont l'enfant est sur le point d'entrer en Year 1 de l'école primaire publique ou en Form 1 de l'école secondaire publique."
 lang: "fr"
-sourceContentHash: "10e50c8f9bbc2e3a"
+sourceContentHash: "8bb8f4e4a270c076"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -174,7 +174,7 @@ janvier dont les parents veulent reporter l'entrée (plutôt que l'avancer), la
 demande se fait à l'aide du **Borang PPW 2** auprès du JPN, accompagné d'une
 copie certifiée conforme de la carte d'identité du parent, de l'acte de naissance
 de l'enfant, de la preuve d'inscription en Year 1 et d'un rapport médical d'un
-médecin. Une considération est aussi accordée aux élèves Orang Asli, aux enfants
+médecin. Une considération est aussi accordée aux élèves [Orang Asli](/fr/arts-culture/orang-asli), aux enfants
 Bumiputera de Sabah/Sarawak dans les zones de l'intérieur et aux élèves à besoins
 particuliers. L'autorité d'approbation revient au Directeur général de
 l'éducation de Malaisie (KPPM) en tant que Registraire en chef, en vertu de la

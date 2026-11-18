@@ -30,7 +30,7 @@ faq:
     a: "El lugar más concentrado es el Portuguese Settlement, cerca de Ujong Pasir, en Melaka, establecido en 1933 para reunir a la dispersa comunidad Kristang y hoy conocido por sus restaurantes de marisco. Sin embargo, se informa de que varios platos caseros tradicionales se han vuelto raros, y sobreviven sobre todo en reuniones festivas más que en los menús diarios."
 
 lang: "es"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ framework: history-culture
 Pide un curry en una cocina malaya de Melaka y saboreas coco y hierba de limón.
 Pide otro dos calles más allá, en el Portuguese Settlement, y lo primero que te
 golpea es el vinagre — agudo, casi agresivo, cortado con mostaza y chile. Ese punto
-ácido es la huella dactilar de la cocina Kristang, la comida de la comunidad
+ácido es la huella dactilar de la cocina [Kristang](/es/arts-culture/kristang-eurasian-culture), la comida de la comunidad
 portuguesa-euroasiática de Malasia, y es la señal más clara de que esta mesa creció
 en un lugar distinto del resto de la península.
 

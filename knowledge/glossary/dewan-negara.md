@@ -169,7 +169,7 @@ yang pada pendapat Yang di-Pertuan Agong:
 - telah mencapai keunggulan dalam profesion, perkara komersial, perindustrian,
   pertanian, aktiviti kebudayaan atau perkhidmatan sosial; atau
 - mewakili ras minoriti; atau
-- berkebolehan mewakili kepentingan orang asli.
+- berkebolehan mewakili kepentingan [orang asli](/arts-culture/orang-asli).
 
 Satu perkara perlu dibaca bersama-sama. Perkara 40(1) memperuntukkan bahawa
 dalam menjalankan fungsinya di bawah Perlembagaan, Yang di-Pertuan Agong

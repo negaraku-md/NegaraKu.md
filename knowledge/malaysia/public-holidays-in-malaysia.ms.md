@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ Disebabkan lapisan negeri, *jumlah* keseluruhan cuti umum — dan sesekali tarik
 
 Kalendar cuti Malaysia, pada hakikatnya, ialah potret negara ini:
 
-- **Agama.** Cuti menandakan perayaan agama-agama utama — Islam (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Buddha (Wesak), Kristian (Krismas) dan Hindu (Deepavali, Thaipusam di sesetengah negeri), antara lain.
+- **Agama.** Cuti menandakan perayaan agama-agama utama — Islam ([Hari Raya Aidilfitri](/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), Buddha (Wesak), Kristian (Krismas) dan Hindu ([Deepavali](/arts-culture/deepavali/), [Thaipusam](/arts-culture/thaipusam/) di sesetengah negeri), antara lain.
 - **Kerabat diraja.** Hari lahir **Yang di-Pertuan Agong** (Raja) ialah cuti kebangsaan, dan setiap negeri yang mempunyai Raja turun-temurun juga menyambut hari lahir Raja itu sebagai cuti negeri.
 - **Kenegaraan.** **Hari Merdeka** (31 Ogos) menandakan kemerdekaan; **Hari Malaysia** (16 September) menandakan pembentukan Malaysia.
 

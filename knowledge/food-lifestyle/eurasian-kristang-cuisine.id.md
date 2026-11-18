@@ -30,7 +30,7 @@ faq:
     a: "Tempat paling terpusat adalah Portuguese Settlement dekat Ujong Pasir di Melaka, yang didirikan pada 1933 untuk mengumpulkan komunitas Kristang yang tersebar dan kini dikenal dengan restoran makanan lautnya. Namun, beberapa hidangan rumahan tradisional dilaporkan menjadi langka, bertahan terutama pada pertemuan perayaan ketimbang pada menu sehari-hari."
 
 lang: "id"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ framework: history-culture
 Pesan kari di sebuah dapur Melayu di Melaka, Anda mengecap santan dan serai. Pesan
 satu lagi dua jalan jauhnya, di Portuguese Settlement, dan hal pertama yang menyerang
 Anda adalah cuka — tajam, nyaris agresif, dipotong dengan mustar dan cabai. Rasa asam
-itu adalah sidik jari masakan Kristang, makanan komunitas Portugis-Eurasia Malaysia,
+itu adalah sidik jari masakan [Kristang](/id/arts-culture/kristang-eurasian-culture), makanan komunitas Portugis-Eurasia Malaysia,
 dan merupakan tanda paling jelas bahwa meja ini tumbuh dari tempat yang berbeda dari
 seluruh semenanjung.
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu một cách mô tả cách các thượng nghị sĩ Malaysia được bầu và bổ nhiệm, và Dewan Negara có thể ảnh hưởng đến tiến trình của một dự luật đến mức nào."
 
 lang: "vi"
-sourceContentHash: "344b9bed4a29fc5f"
+sourceContentHash: "45a9a03bd4ed597b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,7 +94,7 @@ Hiến pháp Liên bang trao cho thượng viện này một chiếc đồng h�
 
 **Thượng nghị sĩ được bổ nhiệm.** Bốn mươi người do Yang di-Pertuan Agong bổ nhiệm theo Điều 45(1)(b), cộng thêm bốn người nữa đại diện cho các Lãnh thổ Liên bang: hai cho Kuala Lumpur, một cho Labuan và một cho Putrajaya.
 
-Điều 45(2) nêu tiêu chí cho những người do Yang di-Pertuan Agong bổ nhiệm: người mà theo ý kiến của Ngài đã cống hiến dịch vụ công xuất sắc hoặc đã đạt được sự nổi bật trong nghề nghiệp, thương mại, công nghiệp, nông nghiệp, hoạt động văn hóa hoặc dịch vụ xã hội, hoặc người đại diện cho các sắc tộc thiểu số hoặc có khả năng đại diện cho lợi ích của người bản địa.
+Điều 45(2) nêu tiêu chí cho những người do Yang di-Pertuan Agong bổ nhiệm: người mà theo ý kiến của Ngài đã cống hiến dịch vụ công xuất sắc hoặc đã đạt được sự nổi bật trong nghề nghiệp, thương mại, công nghiệp, nông nghiệp, hoạt động văn hóa hoặc dịch vụ xã hội, hoặc người đại diện cho các sắc tộc thiểu số hoặc có khả năng đại diện cho lợi ích của [người bản địa](/vi/arts-culture/orang-asli).
 
 Hãy lưu ý tỷ lệ. Số thượng nghị sĩ được bổ nhiệm (44) vượt quá số thượng nghị sĩ của bang (26). Thiết kế ban đầu năm 1957 thì ngược lại — báo cáo của Ủy ban Reid đề xuất 22 thượng nghị sĩ của bang so với 11 thượng nghị sĩ được bổ nhiệm. Điều 45(1)(b) ban đầu chỉ quy định 16 thành viên được bổ nhiệm; con số đó được nâng lên 22 vào năm 1963, rồi 32 vào năm 1964, và cuối cùng 40 vào năm 1978.
 

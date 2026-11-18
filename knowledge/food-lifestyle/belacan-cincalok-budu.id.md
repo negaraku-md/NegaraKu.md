@@ -34,7 +34,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "8b1e516c1efc69e1"
+sourceContentHash: "708bcc89edd82a37"
 masterLanguage: "en"
 
 status: "published"
@@ -106,7 +106,7 @@ Belacan mentah berasa sangat menyengat, sehingga juru masak **hampir selalu meny
 
 Cincalok (juga dieja **cencaluk**) berawal dari **udang mungil yang sama dengan belacan** — tetapi alih-alih dikeringkan dan ditumbuk hingga keras, udang utuh dimasukkan ke dalam air garam, **sering ditambah sedikit nasi**, dan dibiarkan berfermentasi hanya sebentar. Hasilnya tak mungkin lebih berbeda dari belacan: **campuran basah yang bisa dituang, tempat tiap udang mungil tetap tampak**, asin dengan sedikit rasa asam-tajam. Ia dijual dalam stoples, dan karena ia berfermentasi dalam keadaan tertutup dan tekanan dapat terbentuk di dalamnya, sebaiknya bukalah wadahnya dengan hati-hati.
 
-Cincalok paling lekat dengan **Melaka**, tempat ia sejak lama menjadi bagian masakan Melayu, **Peranakan dan Kristang** (Eurasia keturunan Portugis); condiment ini sering dilacak, menurut tradisi, hingga era Portugis di Melaka. Tidak seperti belacan, ia biasanya **dimakan mentah**. Olahan klasiknya adalah cocolan atau sambal cepat — cincalok diaduk dengan **air jeruk kalamansi atau jeruk nipis, bawang merah iris, dan cabai rawit (cili padi)** — disajikan bersama nasi putih. Ia juga umum digoreng menjadi **telur dadar (telur cincalok)**. Jika belacan adalah bahan masakan, cincalok lebih sering menjadi condiment yang sampai ke meja makan kurang lebih sebagaimana ia keluar dari stoples.
+Cincalok paling lekat dengan **Melaka**, tempat ia sejak lama menjadi bagian masakan Melayu, **Peranakan dan [Kristang](/id/arts-culture/kristang-eurasian-culture)** (Eurasia keturunan Portugis); condiment ini sering dilacak, menurut tradisi, hingga era Portugis di Melaka. Tidak seperti belacan, ia biasanya **dimakan mentah**. Olahan klasiknya adalah cocolan atau sambal cepat — cincalok diaduk dengan **air jeruk kalamansi atau jeruk nipis, bawang merah iris, dan cabai rawit (cili padi)** — disajikan bersama nasi putih. Ia juga umum digoreng menjadi **telur dadar (telur cincalok)**. Jika belacan adalah bahan masakan, cincalok lebih sering menjadi condiment yang sampai ke meja makan kurang lebih sebagaimana ia keluar dari stoples.
 
 ## Budu: ikan yang diubah menjadi cairan
 

@@ -34,7 +34,7 @@ seoTitle: "말레이 방언"
 socialTitle: "클란탄 사투리, 북부 방언, 사라왁 말레이어 — 말레이어 방언의 다양성"
 
 lang: "ko"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,7 +85,7 @@ framework: explainer
 
 ## 표준어와 방언
 
-먼저 이해해야 할 구분은 **표준 말레이어**와 **지역 방언**의 차이입니다. 표준어는 교육, 공식 방송, 정부 문서, 출판에 쓰이는 [말레이어](/ko/arts-culture/bahasa-melayu)의 규범적 변이형입니다. 이는 지역을 아우르는 공통어로서 언어문학원(DBP) 등에 의해 조정되고 발전된 변이형입니다.
+먼저 이해해야 할 구분은 **표준 말레이어**와 **지역 방언**의 차이입니다. 표준어는 교육, 공식 방송, 정부 문서, 출판에 쓰이는 [말레이어](/ko/arts-culture/bahasa-melayu)의 규범적 변이형입니다. 이는 지역을 아우르는 공통어로서 [언어문학원](/ko/arts-culture/dewan-bahasa-dan-pustaka)(DBP) 등에 의해 조정되고 발전된 변이형입니다.
 
 언어학 연구에 따르면, 말레이시아의 표준 말레이어는 대체로 **조호르-리아우(Johor-Riau) 방언**, 즉 반도 남부의 말레이어 변이형에 기반합니다. 무클리스 아부 바카르(Mukhlis Abu Bakar)의 조호르-리아우 발음과 표준 발음에 관한 연구에서, 조호르-리아우 발음은 20세기 중반 라디오의 역할 이후 말레이시아와 싱가포르에서 표준 참조가 된 발음으로 묘사됩니다. 공식 발음이 철자에 기반해야 하는지(표준 발음) 아니면 조호르-리아우 발음에 기반해야 하는지의 문제는 때때로 바뀌어 온 언어 정책 쟁점이었습니다.
 

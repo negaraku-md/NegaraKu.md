@@ -36,7 +36,7 @@ socialTitle: "The Kelantan vernacular, northern dialects, Sarawak Malay — the 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ This article explains Malay dialects descriptively: what a dialect is, how it re
 
 ## The standard language and dialects
 
-The first distinction to understand is between **standard Malay** and **regional dialects**. The standard language is the standard variety of [Malay](/en/arts-culture/bahasa-melayu) used in education, official broadcasting, government documents and publishing. It is the variety that is coordinated and developed, among others by Dewan Bahasa dan Pustaka (DBP), as a common language across regions.
+The first distinction to understand is between **standard Malay** and **regional dialects**. The standard language is the standard variety of [Malay](/en/arts-culture/bahasa-melayu) used in education, official broadcasting, government documents and publishing. It is the variety that is coordinated and developed, among others by [Dewan Bahasa dan Pustaka](/en/arts-culture/dewan-bahasa-dan-pustaka) (DBP), as a common language across regions.
 
 According to linguistic study, standard Malay in Malaysia is largely based on the **Johor-Riau dialect**, that is, the Malay variety of the southern Peninsula. In Mukhlis Abu Bakar's study of Johor-Riau pronunciation and standard pronunciation, Johor-Riau pronunciation is characterised as the pronunciation that became the standard reference in Malaysia and Singapore after the role of radio in the mid-20th century. The question of whether official pronunciation should be based on spelling (standard pronunciation) or on Johor-Riau pronunciation was once a language-policy issue that changed from time to time.
 

@@ -35,7 +35,7 @@ faq:
     a: "gula는 말레이어로 sugar(설탕)를 뜻하며, 이 이름은 보통 말라카 주로 거슬러 올라간다 — 코코넛 야자 꽃봉오리 수액으로 만드는 이 야자 설탕이 이곳에서 유래했다고 여겨진다 — 다만 그 유래는 느슨하게만 기록되어 있다. 짙은 갈색에 캐러멜 같은 풍미로, cendol과 많은 Nyonya 디저트에 맛을 더한다."
 
 lang: "ko"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -183,7 +183,7 @@ Peranakan 공동체를 번갈아 제시한다 — 그러므로 이 디저트는 
 
 ## Kristang의 식탁
 
-말라카는 다른 곳에서는 거의 찾아볼 수 없는 요리도 지켜오고 있다: Kristang 사람들의
+말라카는 다른 곳에서는 거의 찾아볼 수 없는 요리도 지켜오고 있다: [Kristang](/ko/arts-culture/kristang-eurasian-culture) 사람들의
 음식이다. Kristang은 16세기 포르투갈 정착민과 현지인의 후손인 포르투갈계 유라시안
 공동체로, 다수가 지금도 도시의 포르투갈인 정착지(Portuguese Settlement)에 산다.
 그들의 가장 잘 알려진 요리는 *kari debal*, 곧 devil's curry — 날카롭고 매운 고기

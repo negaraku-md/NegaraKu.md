@@ -31,7 +31,7 @@ faq:
 
 
 lang: "ko"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -172,7 +172,7 @@ Akaun Dewasa(성인 계좌) 자격에 따르면 다음과 같습니다.
   시민.
 
 누가 투자할 수 있는지에 대한 권위 있는 출처는 상품 요약서가 아니라 ASNB 마스터 투자설명서
-이며, 여기서는 핵심 부미푸트라 범주를 말레이인, 사바와 사라왁의 원주민, 오랑 아슬리(Orang
+이며, 여기서는 핵심 부미푸트라 범주를 말레이인, 사바와 사라왁의 원주민, [오랑 아슬리](/ko/arts-culture/orang-asli)(Orang
 Asli)로 규정합니다.
 
 두 적격 범주 중 어느 하나에 해당하는 후견인은 말레이시아 미성년자(유효한 출생증명서, 18세

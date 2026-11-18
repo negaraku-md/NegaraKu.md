@@ -35,7 +35,7 @@ faq:
     a: "Oui. Il figure parmi les 10 plats publiés au Journal officiel comme objets de Patrimoine national par le Commissaire au patrimoine le 23 février 2024."
 
 lang: "fr"
-sourceContentHash: "99f9a99ac9dc7cef"
+sourceContentHash: "b52a2c5ef4e067c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ La description officielle de l'élément le caractérise comme un patrimoine viv
 
 ## D'autres mets figurent-ils déjà sur la liste de l'UNESCO ?
 
-Pas jusqu'à présent. La Malaisie compte neuf éléments sur les listes du patrimoine culturel immatériel de l'UNESCO : [Mak Yong](/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), la cérémonie Ong Chun/Wangchuan (2020), [Songket](/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), la culture du petit-déjeuner (2024) et Pantun (2025). Huit d'entre eux figurent sur la **Liste représentative** ; Mek Mulung (2023) est inscrit sur la **Liste du patrimoine culturel immatériel nécessitant une sauvegarde urgente** (Urgent Safeguarding List), et non sur la Liste représentative. De tous, **seule la culture du petit-déjeuner est liée à l'alimentation** — le reste relève des arts du spectacle, des textiles, du vêtement, des cérémonies ou de la littérature orale.
+Pas jusqu'à présent. La Malaisie compte neuf éléments sur les listes du patrimoine culturel immatériel de l'UNESCO : [Mak Yong](/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), la cérémonie Ong Chun/Wangchuan (2020), [Songket](/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), la culture du petit-déjeuner (2024) et [Pantun](/fr/arts-culture/pantun) (2025). Huit d'entre eux figurent sur la **Liste représentative** ; Mek Mulung (2023) est inscrit sur la **Liste du patrimoine culturel immatériel nécessitant une sauvegarde urgente** (Urgent Safeguarding List), et non sur la Liste représentative. De tous, **seule la culture du petit-déjeuner est liée à l'alimentation** — le reste relève des arts du spectacle, des textiles, du vêtement, des cérémonies ou de la littérature orale.
 
 Cela signifie que la reconnaissance de l'UNESCO pour la cuisine malaisienne demeure très sélective : un élément, une année.
 

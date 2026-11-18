@@ -26,7 +26,7 @@ verificationNeeded:
   - "연방헌법의 말레이어 원문은 법무부(Jabatan Peguam Negara)의 번역입니다. 제160B조에 따라 정본으로 지정되기 전까지는 영어 원문이 정본입니다."
 
 lang: "ko"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -168,7 +168,7 @@ framework: explainer
 - 전문 분야, 상업, 산업, 농업, 문화 활동 또는 사회
   봉사에서 두각을 나타낸 사람; 또는
 - 소수 종족을 대표하는 사람; 또는
-- 원주민의 이익을 대표할 수 있는 사람.
+- [원주민](/ko/arts-culture/orang-asli)의 이익을 대표할 수 있는 사람.
 
 함께 읽어야 할 규정이 하나 있습니다. 제40조 1항은 헌법상
 기능을 수행함에 있어 양 디페르투안 아공은 헌법에 달리

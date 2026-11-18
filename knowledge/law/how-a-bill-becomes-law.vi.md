@@ -36,7 +36,7 @@ faq:
     a: "Điều 55(5) quy định rằng một dự luật chưa được quyết định trong Quốc hội không bị mất hiệu lực do việc hoãn họp Quốc hội. Điều 55(7) thì bảo vệ dự luật đang chờ phê chuẩn khỏi việc mất hiệu lực do hoãn họp hoặc giải thể Quốc hội."
 
 lang: "vi"
-sourceContentHash: "87bf8d58ce7f3cea"
+sourceContentHash: "d04c5a2953189f7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -164,7 +164,7 @@ Sau lần đọc thứ ba và thông qua, Quy chế Họp 70 yêu cầu Chủ t�
 
 Tại Dewan Negara, dự luật đó trải qua các lần đọc và giai đoạn ủy ban riêng của nó. Dự luật đến **từ** Dewan Negara thì được trình lên Bàn của Dewan Rakyat cho đến khi ngày đọc lần thứ hai được ấn định (P.M. 72).
 
-Dewan Negara không phải là hình ảnh phản chiếu của Dewan Rakyat. Theo Điều 45(1), thành phần của nó gồm hai thành viên cho mỗi Bang được chọn theo Phụ lục Thứ bảy; hai thành viên cho Lãnh thổ Liên bang Kuala Lumpur, một cho Labuan và một cho Putrajaya do Yang di-Pertuan Agong bổ nhiệm; cùng **bốn mươi thành viên do Yang di-Pertuan Agong bổ nhiệm**. Điều 45(2) quy định những người được bổ nhiệm phải là người đã có công phục vụ công xuất sắc hoặc đạt được sự ưu tú trong nghề nghiệp, thương mại, công nghiệp, nông nghiệp, hoạt động văn hóa hoặc phục vụ xã hội, hoặc đại diện cho các sắc tộc thiểu số hoặc có khả năng đại diện cho lợi ích của người bản địa.
+Dewan Negara không phải là hình ảnh phản chiếu của Dewan Rakyat. Theo Điều 45(1), thành phần của nó gồm hai thành viên cho mỗi Bang được chọn theo Phụ lục Thứ bảy; hai thành viên cho Lãnh thổ Liên bang Kuala Lumpur, một cho Labuan và một cho Putrajaya do Yang di-Pertuan Agong bổ nhiệm; cùng **bốn mươi thành viên do Yang di-Pertuan Agong bổ nhiệm**. Điều 45(2) quy định những người được bổ nhiệm phải là người đã có công phục vụ công xuất sắc hoặc đạt được sự ưu tú trong nghề nghiệp, thương mại, công nghiệp, nông nghiệp, hoạt động văn hóa hoặc phục vụ xã hội, hoặc đại diện cho các sắc tộc thiểu số hoặc có khả năng đại diện cho lợi ích của [người bản địa](/vi/arts-culture/orang-asli).
 
 Nhiệm kỳ của một thành viên Dewan Negara là ba năm và **không bị ảnh hưởng bởi việc giải thể Quốc hội** (Điều 45(3)); một thành viên không thể giữ chức quá hai nhiệm kỳ (Điều 45(3A)).
 

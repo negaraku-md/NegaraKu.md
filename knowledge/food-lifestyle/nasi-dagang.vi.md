@@ -35,7 +35,7 @@ faq:
     a: "Đây là một món bờ Đông gắn bó nhất với Terengganu và Kelantan, và đã nằm trong danh sách món ăn di sản quốc gia của Malaysia từ năm 2009. Tên của nó dịch là 'cơm của người buôn', và các câu chuyện phổ biến gắn nó với những người buôn hoặc những ngư dân mang nó ra biển, dù những câu chuyện nguồn gốc này chỉ được ghi chép một cách lỏng lẻo."
 
 lang: "vi"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ vào một trong những món ăn di sản quốc gia" từ năm 2009.
 
 Trên hết, nó là một món ăn sáng và món chợ của phía Đông bán đảo — gắn bó chặt chẽ với Terengganu
 và Kelantan — dù nay đã được bán ở xa hơn nhiều, và xuất hiện trên bàn tiệc lễ, nhất là vào dịp
-Hari Raya Aidilfitri. Nó nằm trong thế giới rộng lớn hơn của
+[Hari Raya Aidilfitri](/vi/arts-culture/hari-raya-aidilfitri). Nó nằm trong thế giới rộng lớn hơn của
 [ẩm thực Mã Lai](/vi/food-lifestyle/malay-cuisine) và bản đồ
 [các nền ẩm thực vùng miền và sắc tộc](/vi/food-lifestyle/regional-and-ethnic-cuisines) của đất nước.
 

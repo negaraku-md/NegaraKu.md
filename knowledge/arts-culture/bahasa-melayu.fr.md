@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu : langue nationale selon l'article 152"
 socialTitle: "Comment le bahasa melayu est devenu la langue nationale — et est passé du jawi au rumi"
 
 lang: "fr"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Cette disposition établit deux choses à la fois : l'écriture officielle de la
 
 L'écriture jawi — des lettres arabes adaptées aux sons du malais — a été l'écriture principale du bahasa melayu pendant des siècles, comme en témoigne la Pierre inscrite de Terengganu datée de 1303 apr. J.-C. Elle s'est développée avec l'expansion de l'islam dans l'archipel malais, et est devenue l'écriture de l'administration, de la correspondance et de la religion dans les cours malaises, y compris à l'époque du [Sultanat de Melaka](/fr/malaysia/melaka-sultanate).
 
-L'écriture rumi — l'alphabet latin — a commencé à être largement utilisée pour le bahasa melayu pendant la période coloniale, lorsque divers systèmes d'orthographe rumi ont été conçus. Au milieu du XXe siècle, standardiser l'orthographe rumi était devenu un enjeu central du mouvement de la langue malaise.
+L'[écriture rumi](/fr/arts-culture/rumi-script) — l'alphabet latin — a commencé à être largement utilisée pour le bahasa melayu pendant la période coloniale, lorsque divers systèmes d'orthographe rumi ont été conçus. Au milieu du XXe siècle, standardiser l'orthographe rumi était devenu un enjeu central du mouvement de la langue malaise.
 
 **1956** — Le [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), d'abord nommé Balai Pustaka, a été créé le 22 juin 1956 à Johor Bahru pour développer le bahasa melayu comme langue nationale et officielle du pays bientôt indépendant. À la suite du Troisième Congrès de la langue et de la littérature malaises (Kongres Bahasa dan Persuratan Melayu Ketiga), tenu à Singapour et à Johor Bahru du 16 au 21 septembre 1956, son nom a été changé en Dewan Bahasa dan Pustaka.
 

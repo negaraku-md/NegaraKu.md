@@ -35,7 +35,7 @@ faq:
     a: "日常の Iban 料理やより広いサラワク料理は、ロングハウスの近くで採れる野生の青菜、とりわけ midin（Stenochlaena palustris）や paku といったジャングルのシダを多用し、たいていニンニクやエビペースト（belacan）で炒める。からし菜の ensabi もよくある野菜で、belacan とニンニクで調理したり、スープにしたり、kasam ensabi として漬けたりする。"
 
 lang: "ja"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ Iban と最も結びつく料理は **manok pansoh** である——*manok* は�
 む。多くのレシピはレモングラスも加えるが、それが最も伝統的な型に属するかどうかは資料によって
 異なるため、正確な香味の配合は地域や家庭による違いとみなすのがよい。
 
-台所を離れれば、manok pansoh は祝祭の料理であり、Gawai Dayak 祭りやその他の集まりのために調
+台所を離れれば、manok pansoh は祝祭の料理であり、[Gawai Dayak](/ja/arts-culture/gawai-dayak) 祭りやその他の集まりのために調
 理され、サラワク各地の屋台でも売られている。Iban だけのものではなく——Bidayuh や Orang Ulu
 の共同体も竹の鶏肉を作る——したがって、Iban がとりわけよく知られている、共有された Dayak の
 技法として理解するのが適切である。

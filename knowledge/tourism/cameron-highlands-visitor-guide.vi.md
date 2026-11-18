@@ -31,7 +31,7 @@ faq:
     a: "Đây là các chuyến thăm văn hóa có hướng dẫn vào các làng Semai, thường có một màn trình diễn ống thổi và các buổi nói chuyện về sinh kế rừng. Hãy đi cùng một hướng dẫn viên địa phương uy tín, hỏi trước khi chụp ảnh người dân, và coi đó như một cuộc trao đổi văn hóa tôn trọng chứ không phải một màn trình diễn."
 
 lang: "vi"
-sourceContentHash: "3402603241935266"
+sourceContentHash: "970b80eaebd8ab03"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Một thực đơn du lịch nông nghiệp sơ lược:
 
 ## Bạn có thể thăm một làng Orang Asli không?
 
-Có — và đó là một trong những điều đặc trưng hơn để làm ở đây. Cameron Highlands nằm ở rìa Pahang–Perak, và người bản địa của khu rừng xung quanh là **Orang Asli**, chủ yếu thuộc nhóm Semai.
+Có — và đó là một trong những điều đặc trưng hơn để làm ở đây. Cameron Highlands nằm ở rìa Pahang–Perak, và người bản địa của khu rừng xung quanh là **[Orang Asli](/vi/arts-culture/orang-asli)**, chủ yếu thuộc nhóm Semai.
 
 Penang Travel Tips mô tả người Orang Asli sống trong rừng "trồng lúa nương, và tham gia săn bắt và hái lượm, và buôn bán các sản vật rừng như petai, sầu riêng, mây và nhựa cây." Các chuyến thăm văn hóa có hướng dẫn đưa bạn vào một làng để gặp gỡ cư dân, xem một **màn trình diễn ống thổi**, và tìm hiểu cách các cây rừng và thảo dược được sử dụng. Các hướng dẫn viên sinh thái thường kiêm luôn vai trò phiên dịch cả về văn hóa lẫn khu rừng xung quanh.
 

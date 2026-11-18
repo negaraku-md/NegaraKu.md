@@ -30,7 +30,7 @@ faq:
     a: "Nơi tập trung nhất là Portuguese Settlement gần Ujong Pasir ở Melaka, được thành lập năm 1933 để quy tụ cộng đồng Kristang phân tán và nay nổi tiếng với các nhà hàng hải sản. Tuy nhiên, nhiều món ăn gia đình truyền thống được cho là đã trở nên hiếm, chủ yếu tồn tại trong các buổi tụ họp lễ hội hơn là trên thực đơn hằng ngày."
 
 lang: "vi"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,7 +92,7 @@ framework: history-culture
 Gọi một món cà ri trong một bếp Mã Lai ở Melaka, bạn nếm thấy nước cốt dừa và sả.
 Gọi một món cách đó hai con phố, tại Portuguese Settlement, điều đầu tiên đập vào
 bạn là giấm — sắc, gần như hung hãn, được cắt bởi mù tạt và ớt. Vị chua ấy là dấu
-vân tay của nấu ăn Kristang, món ăn của cộng đồng Bồ Đào Nha-Á Âu ở Malaysia, và
+vân tay của nấu ăn [Kristang](/vi/arts-culture/kristang-eurasian-culture), món ăn của cộng đồng Bồ Đào Nha-Á Âu ở Malaysia, và
 là dấu hiệu rõ ràng nhất cho thấy bàn ăn này lớn lên từ một nơi nào đó khác với
 phần còn lại của bán đảo.
 

@@ -27,7 +27,7 @@ verificationNeeded:
   - "The Malay-language text of the Federal Constitution is a translation by the Attorney General's Chambers. Unless and until declared authoritative under Article 160B, the English text is the authoritative text."
 
 lang: "es"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -171,7 +171,7 @@ ser personas que, en opinión del Yang di-Pertuan Agong:
 - hayan alcanzado distinción en una profesión, el comercio, la industria, la
   agricultura, las actividades culturales o el servicio social; o
 - representen a una minoría racial; o
-- sean capaces de representar los intereses de los Orang Asli.
+- sean capaces de representar los intereses de los [Orang Asli](/es/arts-culture/orang-asli).
 
 Hay algo que debe leerse junto a esto. El artículo 40(1) dispone que, en el
 ejercicio de sus funciones conforme a la Constitución, el Yang di-Pertuan Agong

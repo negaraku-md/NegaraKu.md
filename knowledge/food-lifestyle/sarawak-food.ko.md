@@ -35,7 +35,7 @@ faq:
     a: "아닙니다. 이름은 같지만, 사라왁 락사는 타마린드와 향신 재료를 넣은 sambal belacan 페이스트를 바탕으로 한 독자적 스타일로, 가는 쌀 비훈 위에 찢은 닭고기, 새우, 달걀지단을 올리고 라임을 짜서 냅니다. 신맛 나는 Pulau Pinang asam laksa도, 일반적인 코코넛 커리 락사도 아닙니다."
 
 lang: "ko"
-sourceContentHash: "60883305809135b5"
+sourceContentHash: "42a65b2d52b2b4d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -134,7 +134,7 @@ Sibu 주변에서는 Foochow 식탁이 가까운 사촌들을 내놓는다. **Ka
 
 ## 대나무에 익히고, 날로 낸다: manok pansoh와 umai
 
-두 요리가 사라왁 요리의 원주민적 핵심을 포착한다. **Manok pansoh**(*ayam pansuh* 또는 *manuk pansuh*라고도 한다)는 닭을 레몬그라스, 생강, *daun ubi*(카사바 잎)와 함께 속이 빈 대나무 통에 넣고 모닥불 위에서 익히는 요리다. 밀봉된 대나무가 고기를 그 자체의 육즙 속에서 쪄내며 은은한 나무 향을 더한다. 이것은 Iban과 Bidayuh의 요리로, 전통적으로 큰 행사, 특히 Gawai Dayak 추수 축제를 위해 만들어졌으나 이제는 식당에서 연중 나온다.
+두 요리가 사라왁 요리의 원주민적 핵심을 포착한다. **Manok pansoh**(*ayam pansuh* 또는 *manuk pansuh*라고도 한다)는 닭을 레몬그라스, 생강, *daun ubi*(카사바 잎)와 함께 속이 빈 대나무 통에 넣고 모닥불 위에서 익히는 요리다. 밀봉된 대나무가 고기를 그 자체의 육즙 속에서 쪄내며 은은한 나무 향을 더한다. 이것은 Iban과 Bidayuh의 요리로, 전통적으로 큰 행사, 특히 [Gawai Dayak](/ko/arts-culture/gawai-dayak) 추수 축제를 위해 만들어졌으나 이제는 식당에서 연중 나온다.
 
 **Umai**는 해안의 Melanau에서 왔으며 사실상 보르네오식 ceviche(세비체)다. *tenggiri*(삼치) 같은 살이 단단하고 가시 없는 바닷물고기를 얇게 썰어 라임으로만 "익히고", 샬롯, 고추, 생강, 양파와 버무려 차갑게 먹으며, 흔히 볶은 사고 알갱이를 곁들인다. 한때 어부의 간편한 끼니였던 것이 이제는 귀한 전채이자 Mukah 같은 Melanau 지역의 단골 메뉴가 되었다.
 

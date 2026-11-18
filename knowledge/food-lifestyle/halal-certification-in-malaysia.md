@@ -181,7 +181,7 @@ Ciri-ciri logo Halal Malaysia yang tulen pula membantu pemeriksaan pantas dengan
 
 - Bintang berbucu lapan di tengah bulatan
 - Perkataan "HALAL" dalam tulisan Arab di dalam bintang
-- Perkataan "HALAL" dan "MALAYSIA" dalam tulisan Rumi (huruf besar)
+- Perkataan "HALAL" dan "MALAYSIA" dalam [tulisan Rumi](/arts-culture/rumi-script) (huruf besar)
 - Perkataan Malaysia dalam tulisan Arab
 - Dua bintang kecil berbucu lima di kiri dan kanan
 

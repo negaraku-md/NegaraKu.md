@@ -36,7 +36,7 @@ socialTitle: "书写马来语七个世纪的阿拉伯字母——爪夷文的故
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -120,7 +120,7 @@ framework: history-culture
 
 ## 爪夷文书写系统如何运作
 
-有几项特征，使爪夷文的运作方式有别于以拉丁字母为基础的罗马字：
+有几项特征，使爪夷文的运作方式有别于以拉丁字母为基础的[罗马字](/zh/arts-culture/rumi-script)：
 
 - **书写方向**——爪夷文由右向左书写与阅读。
 - **字母形态会变化**——和阿拉伯文一样，许多字母会依其在词中的位置（词首、词中或词尾）以及是否与相邻字母相连，而呈现不同形态。

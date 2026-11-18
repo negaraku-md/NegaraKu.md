@@ -36,7 +36,7 @@ socialTitle: "La plus ancienne poésie orale des Malais — l'histoire du pantou
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ Cet article explique le pantoun de manière descriptive : ce qu'est le pantoun, 
 
 ## Qu'est-ce que le pantoun
 
-Le pantoun est une forme de poésie orale traditionnelle malaise. Selon le *Kamus Dewan* publié par le Dewan Bahasa dan Pustaka (DBP), le pantoun est «une sorte de poésie ancienne qui se compose habituellement de quatre vers dans chaque strophe», les «deux premiers vers formant l'annonce du sens (pembayang maksud) et les autres contenant le sens».
+Le pantoun est une forme de poésie orale traditionnelle malaise. Selon le *Kamus Dewan* publié par le [Dewan Bahasa dan Pustaka](/fr/arts-culture/dewan-bahasa-dan-pustaka) (DBP), le pantoun est «une sorte de poésie ancienne qui se compose habituellement de quatre vers dans chaque strophe», les «deux premiers vers formant l'annonce du sens (pembayang maksud) et les autres contenant le sens».
 
 Deux éléments importants sont contenus dans cette définition. Premièrement, le pantoun est une poésie *orale* — il naît, vit et se diffuse par la parole, le chant et la mémoire, bien avant d'être consigné par écrit. Les sources savantes le décrivent comme l'une des plus anciennes formes de littérature orale de la civilisation malaise. Deuxièmement, le pantoun n'est pas une simple suite de vers rimés ; il possède une division interne précise entre la partie «image» et la partie «sens».
 

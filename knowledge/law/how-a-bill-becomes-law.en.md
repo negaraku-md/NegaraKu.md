@@ -38,7 +38,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "87bf8d58ce7f3cea"
+sourceContentHash: "d04c5a2953189f7c"
 
 status: "published"
 aiAssisted: true
@@ -164,7 +164,7 @@ After the third reading and passage, Standing Order 70 requires the Speaker to s
 
 In the Dewan Negara, the Bill goes through its own readings and committee stage. A Bill coming **from** the Dewan Negara, in turn, is laid on the Table of the Dewan Rakyat until a day is fixed for the second reading (S.O. 72).
 
-The Dewan Negara is not a mirror of the Dewan Rakyat. Under Article 45(1), its membership consists of two members for each State elected in accordance with the Seventh Schedule; two members for the Federal Territory of Kuala Lumpur, one for Labuan and one for Putrajaya, appointed by the Yang di-Pertuan Agong; and **forty members appointed by the Yang di-Pertuan Agong**. Article 45(2) provides that those appointed shall be persons who have rendered distinguished public service or achieved distinction in a profession, commerce, industry, agriculture, cultural activities or social service, or who are representative of racial minorities or capable of representing the interests of aborigines.
+The Dewan Negara is not a mirror of the Dewan Rakyat. Under Article 45(1), its membership consists of two members for each State elected in accordance with the Seventh Schedule; two members for the Federal Territory of Kuala Lumpur, one for Labuan and one for Putrajaya, appointed by the Yang di-Pertuan Agong; and **forty members appointed by the Yang di-Pertuan Agong**. Article 45(2) provides that those appointed shall be persons who have rendered distinguished public service or achieved distinction in a profession, commerce, industry, agriculture, cultural activities or social service, or who are representative of racial minorities or capable of representing the interests of [aborigines](/en/arts-culture/orang-asli).
 
 The term of office of a member of the Dewan Negara is three years and **is not affected by the dissolution of Parliament** (Article 45(3)); a member may not hold office for more than two terms (Article 45(3A)).
 

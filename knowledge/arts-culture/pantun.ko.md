@@ -34,7 +34,7 @@ seoTitle: "판툰(Pantun)"
 socialTitle: "말레이인의 가장 오래된 구전시 — 판툰 이야기와 그 유네스코 유산"
 
 lang: "ko"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -88,7 +88,7 @@ framework: history-culture
 
 ## 판툰이란 무엇인가
 
-판툰은 말레이의 전통 구전시 형식입니다. 언어문학원(DBP)이 펴낸 《카무스 드완(Kamus Dewan)》에 따르면, 판툰은 "각 연이 보통 네 행으로 이루어진 옛 시의 한 종류"로, "처음 두 행은 뜻의 전조이고 나머지는 그 뜻을 담는다"고 되어 있습니다.
+판툰은 말레이의 전통 구전시 형식입니다. [언어문학원](/ko/arts-culture/dewan-bahasa-dan-pustaka)(DBP)이 펴낸 《카무스 드완(Kamus Dewan)》에 따르면, 판툰은 "각 연이 보통 네 행으로 이루어진 옛 시의 한 종류"로, "처음 두 행은 뜻의 전조이고 나머지는 그 뜻을 담는다"고 되어 있습니다.
 
 이 정의에는 두 가지 중요한 점이 들어 있습니다. 첫째, 판툰은 *구전* 시입니다 — 그것은 글로 기록되기 훨씬 전에 말과 노래와 기억을 통해 생겨나고 살아가고 퍼졌습니다. 학술 자료는 이를 말레이 문명에서 가장 오래된 구전 문학 형식의 하나로 묘사합니다. 둘째, 판툰은 단순히 각운 있는 행들의 나열이 아닙니다; 그것은 "심상" 부분과 "의미" 부분 사이에 고유한 내적 구분을 지닙니다.
 

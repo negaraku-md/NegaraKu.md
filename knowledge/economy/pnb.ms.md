@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 
 status: "published"
 aiAssisted: true
@@ -186,7 +186,7 @@ Akaun Dewasa (akaun dewasa):
 
 Sumber berautoriti bagi siapa yang boleh melabur ialah Prospektus Induk ASNB,
 bukan Product Highlights Sheet, dan ia merangka kategori teras Bumiputera
-sebagai orang Melayu, anak negeri Sabah dan Sarawak, serta Orang Asli.
+sebagai orang Melayu, anak negeri Sabah dan Sarawak, serta [Orang Asli](/arts-culture/orang-asli).
 
 Seorang penjaga daripada mana-mana kategori yang layak juga boleh membuka
 **Akaun Remaja** bagi kanak-kanak Malaysia yang bawah umur (sijil kelahiran

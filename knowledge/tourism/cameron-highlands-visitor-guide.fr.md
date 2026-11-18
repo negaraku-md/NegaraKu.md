@@ -31,7 +31,7 @@ faq:
     a: "Ce sont des visites culturelles guidées dans des villages Semai, généralement avec une démonstration de sarbacane et des échanges sur les modes de vie de la forêt. Allez-y avec un guide local réputé, demandez la permission avant de photographier les personnes, et traitez cela comme un échange culturel respectueux plutôt que comme un spectacle."
 
 lang: "fr"
-sourceContentHash: "3402603241935266"
+sourceContentHash: "970b80eaebd8ab03"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Un menu approximatif d'agrotourisme :
 
 ## Peut-on visiter un village Orang Asli ?
 
-Oui — et c'est l'une des choses les plus singulières à faire ici. Les Cameron Highlands s'adossent à la frange Pahang-Perak, et les peuples autochtones de la forêt environnante sont les **Orang Asli**, principalement du groupe Semai.
+Oui — et c'est l'une des choses les plus singulières à faire ici. Les Cameron Highlands s'adossent à la frange Pahang-Perak, et les peuples autochtones de la forêt environnante sont les **[Orang Asli](/fr/arts-culture/orang-asli)**, principalement du groupe Semai.
 
 Penang Travel Tips décrit des Orang Asli vivant dans la forêt qui «cultivent le riz de montagne, pratiquent la chasse et la cueillette, et font le commerce de produits forestiers tels que le petai, le durian, le rotin et les résines». Les visites culturelles guidées vous emmènent dans un village pour rencontrer les habitants, assister à une **démonstration de sarbacane** et apprendre comment les plantes et les herbes de la forêt sont utilisées. Les guides écologiques font généralement aussi office d'interprètes, tant de la culture que de la jungle environnante.
 

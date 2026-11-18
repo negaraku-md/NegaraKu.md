@@ -36,7 +36,7 @@ socialTitle: "Dari Sejarah Melayu hingga Sasterawan Negara — kisah persuratan 
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bfbea3036c7deea"
+sourceContentHash: "106c6c9a2b36cbbd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ Kesusastraan Melayu bukan satu zaman, melainkan satu aliran yang mengalir beraba
 
 ## Sastra klasik: dunia hikayat dan syair
 
-Sastra klasik Melayu tumbuh dari tradisi istana dan keagamaan, dan sebagian besarnya disalin dalam [tulisan Jawi](/id/arts-culture/jawi-script) sebelum kedatangan tulisan Rumi. Menurut Encyclopaedia Britannica, *Sejarah Melayu* — digubah sekitar abad ke-15 atau ke-16 — adalah salah satu karya sastra dan sejarah terbaik dalam bahasa Melayu, sebuah pemerian agung tentang Kesultanan Melaka yang didirikan sekitar tahun 1400.
+Sastra klasik Melayu tumbuh dari tradisi istana dan keagamaan, dan sebagian besarnya disalin dalam [tulisan Jawi](/id/arts-culture/jawi-script) sebelum kedatangan [tulisan Rumi](/id/arts-culture/rumi-script). Menurut Encyclopaedia Britannica, *Sejarah Melayu* — digubah sekitar abad ke-15 atau ke-16 — adalah salah satu karya sastra dan sejarah terbaik dalam bahasa Melayu, sebuah pemerian agung tentang Kesultanan Melaka yang didirikan sekitar tahun 1400.
 
 Di samping karya sejarah ini berdiri *Hikayat Hang Tuah*, sebuah karya epik yang dianggap sebagai salah satu teks klasik Melayu terpenting. Berbeda dengan *Sejarah Melayu* yang berbentuk historiografi tradisional, *Hikayat Hang Tuah* mengangkat kisah Laksamana Melaka sebagai pahlawan epik, lengkap dengan unsur-unsur yang dikaji sarjana sebagai saduran pengaruh beragam budaya. Pengarang dan tanggal sebenarnya tidak dapat dipastikan dengan tepat.
 
@@ -112,7 +112,7 @@ Semboyan gerakan ini — **"Seni untuk Masyarakat"** — menempatkan sastra seba
 
 ## Anugerah Sasterawan Negara dan tokoh utama
 
-Pengakuan tertinggi negara kepada sastrawan adalah **Anugerah Sastera Negara**, yang membawa gelar **Sasterawan Negara**. Anugerah ini mulai diadakan pada **1981**, dan pemilihannya digerakkan oleh Panel Anugerah Sastera Negara dengan dukungan Dewan Bahasa dan Pustaka.
+Pengakuan tertinggi negara kepada sastrawan adalah **[Anugerah Sastera Negara](/id/arts-culture/malaysian-literature)**, yang membawa gelar **Sasterawan Negara**. Anugerah ini mulai diadakan pada **1981**, dan pemilihannya digerakkan oleh Panel Anugerah Sastera Negara dengan dukungan [Dewan Bahasa dan Pustaka](/id/arts-culture/dewan-bahasa-dan-pustaka).
 
 Penerima pertamanya adalah **Keris Mas** (Kamaludin Muhammad, 1922–1992), tokoh inti ASAS 50. Ia diikuti oleh barisan nama besar: Shahnon Ahmad (1982), Usman Awang (1983), A. Samad Said (1985), Arena Wati (1987), dan Muhammad Haji Salleh (1991), antara lain. Setiap penerima mewakili sumbangan besar dalam novel, cerpen, sajak, atau drama Melayu modern.
 

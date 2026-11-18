@@ -35,7 +35,7 @@ faq:
     a: "Gawai Dayak(사라왁의 Iban과 다른 Dayak 집단이 기린다)와 Kaamatan(사바의 Kadazan-Dusun 추수감사절)은 모두 쌀과 쌀술을 중심으로 한다. 찹쌀로 빚은 쌀술 tuak는 건배와 의례의 핵심이다. 대표 음식으로는 사라왁의 manok pansuh(대나무 통에 조리한 닭)와 사바의 hinava(라임에 절인 생선회 요리)가 있고, 잎에 싸서 조리한 쌀도 곁들인다."
 
 lang: "ko"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,7 +115,7 @@ framework: history-culture
 오픈 하우스는 달력 전체를 하나로 묶는 실이다. 자기 축제를 기리는 가정이 한 상을 차려
 친구, 이웃, 동료, 그리고 흔히 전혀 모르는 낯선 이까지 식사에 맞이한다. 그래서 한 해가
 지나는 동안 대부분의 말레이시아인은 자기 것이 아닌 축제의 손님이 된다. 이 관습은 공동체
-를 넘나든다 — Hari Raya, 춘절, Deepavali 등 여러 축제에서 똑같이 행해진다. 정치인, 기업,
+를 넘나든다 — Hari Raya, 춘절, [Deepavali](/ko/arts-culture/deepavali) 등 여러 축제에서 똑같이 행해진다. 정치인, 기업,
 정부 기관이 대규모 공개 오픈 하우스를 열며, 이 전통은 나라의 다문화 공존을 가리키는
 말로 널리 읽힌다. 그 위상이 높아, 2025년 *The Star*는 Hari Raya, Deepavali, 춘절 등에
 걸친 오픈 하우스 개념에 UNESCO 등재를 신청하자는 제안을 보도하기도 했다 — 다만 이 글을
@@ -134,7 +134,7 @@ framework: history-culture
 [Ramadan 바자르와 금식월](/ko/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
 에서 따로 다루듯이, 모든 배경의 손님을 끌어들이는 계절의 전통 행사다.
 
-금식은 **Hari Raya Aidilfitri**에서 절정에 이른다. 이 축제가 나라에서 가장 잘 알려진
+금식은 [**Hari Raya Aidilfitri**](/ko/arts-culture/hari-raya-aidilfitri)에서 절정에 이른다. 이 축제가 나라에서 가장 잘 알려진
 오픈 하우스 철의 막을 연다. 식탁은 몇 가지 주식을 중심으로 꾸려진다 — *ketupat*(엮은
 야자 잎 주머니에 눌러 삶은 쌀 경단), *lemang*(찹쌀을 코코넛 밀크와 함께 대나무에 담아
 장작불에 익힌 것), *rendang*(고기를 향신료 코코넛 국물에 국물이 졸아들 때까지 뭉근히
@@ -175,7 +175,7 @@ Raya 같은 축제 때 흔히 차려지며", 엮은 경단의 마름모꼴은 �
 
 ## Gawai와 Kaamatan: 보르네오의 추수 축제
 
-동말레이시아는 벼 수확에 뿌리를 둔 또 다른 한 쌍의 축제를 지킨다. **Gawai Dayak**은
+동말레이시아는 벼 수확에 뿌리를 둔 또 다른 한 쌍의 축제를 지킨다. [**Gawai Dayak**](/ko/arts-culture/gawai-dayak)은
 사라왁의 Iban과 다른 Dayak 집단이 6월 초 무렵에 기리고, **Kaamatan**은 사바의
 Kadazan-Dusun 추수감사절로 5월 말에 열린다. 둘 다 수확에 감사하며, 둘 다 쌀과 쌀술을
 중심으로 한다. *Tuak* — 찹쌀과 집에서 띄운 누룩으로 빚은 술 — 는 건배와 의례의 핵심이다.
@@ -194,7 +194,7 @@ Kadazan-Dusun 추수감사절로 5월 말에 열린다. 둘 다 수확에 감사
 ## Thaipusam: 채식의 신앙
 
 모든 축제가 잔치는 아니다. 쿠알라룸푸르 인근의 Batu Caves와 가장 뚜렷이 결부된 힌두교
-축제 **Thaipusam**은 금식과 엄격한 채식으로 특징지어진다. 신도들 — 특히 *kavadi*를 짊어
+축제 [**Thaipusam**](/ko/arts-culture/thaipusam)은 금식과 엄격한 채식으로 특징지어진다. 신도들 — 특히 *kavadi*를 짊어
 질 이들 — 은 절제의 기간을 두어 준비하며 하루에 한 끼 채식만 든다. 자료는 이를 약 30일
 이라고도 48일이라고도 저마다 전하고, 마지막 하루 이틀은 더 엄격한 완전 금식으로 묘사하는
 경우도 있으므로, 정확한 규례는 신앙상의 권위에 확인하는 것이 좋다. 축제 당일에는 채식이

@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu: Bahasa Kebangsaan di Bawah Perkara 152"
 socialTitle: "Bagaimana bahasa Melayu menjadi bahasa kebangsaan — dan berpindah dari Jawi ke Rumi"
 
 lang: "id"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -142,7 +142,7 @@ Ketentuan ini menetapkan dua hal sekaligus: tulisan resmi bagi bahasa kebangsaan
 
 Tulisan Jawi — huruf Arab yang disesuaikan untuk bunyi bahasa Melayu — merupakan aksara utama bahasa Melayu selama berabad-abad, seperti dibuktikan oleh Batu Bersurat Terengganu bertanggal 1303 Masehi. Ia berkembang seiring dengan penyebaran Islam di Nusantara, dan menjadi tulisan administrasi, surat-menyurat dan keagamaan istana-istana Melayu, termasuk pada masa [Kesultanan Melaka](/id/malaysia/melaka-sultanate).
 
-Tulisan Rumi — abjad Latin — mulai digunakan secara luas untuk bahasa Melayu dalam masa penjajahan, ketika berbagai sistem ejaan Rumi disusun. Menjelang pertengahan abad ke-20, penyeragaman ejaan Rumi menjadi fokus gerakan bahasa Melayu.
+[Tulisan Rumi](/id/arts-culture/rumi-script) — abjad Latin — mulai digunakan secara luas untuk bahasa Melayu dalam masa penjajahan, ketika berbagai sistem ejaan Rumi disusun. Menjelang pertengahan abad ke-20, penyeragaman ejaan Rumi menjadi fokus gerakan bahasa Melayu.
 
 **1956** — [Dewan Bahasa dan Pustaka](/id/arts-culture/dewan-bahasa-dan-pustaka) (DBP), yang awalnya bernama Balai Pustaka, didirikan pada 22 Juni 1956 di Johor Bahru untuk mengembangkan bahasa Melayu sebagai bahasa kebangsaan dan bahasa resmi negara yang akan merdeka. Menyusul Kongres Bahasa dan Persuratan Melayu Ketiga yang berlangsung di Singapura dan Johor Bahru pada 16 hingga 21 September 1956, namanya diubah menjadi Dewan Bahasa dan Pustaka.
 

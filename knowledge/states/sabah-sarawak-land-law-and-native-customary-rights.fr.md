@@ -32,7 +32,7 @@ faq:
     a: "Pas entièrement. La Cour fédérale a confirmé la reconnaissance du NCR par la common law dans l'affaire Madeli bin Salleh (2007), mais dans l'affaire TR Sandah (2016) une cour divisée a limité les droits opposables à la terre cultivée et a rejeté les revendications sur la forêt communautaire environnante. La portée du NCR reste débattue."
 
 lang: "fr"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Les deux lois classent la terre en catégories qui ne correspondent pas propreme
 | --- | --- | --- | --- |
 | Loi régissante | National Land Code | Sabah Land Ordinance (Cap. 68) | Sarawak Land Code (Cap. 81) |
 | Catégorie de tenure autochtone | Terre de réserve malaise | Titre autochtone / droits coutumiers autochtones | Terre coutumière autochtone / Native Area Land |
-| Reconnaît le NCR | Limité (Orang Asli, loi distincte) | Oui, en vertu de la section 15 | Oui, en vertu de la section 5 |
+| Reconnaît le NCR | Limité ([Orang Asli](/fr/arts-culture/orang-asli), loi distincte) | Oui, en vertu de la section 15 | Oui, en vertu de la section 5 |
 
 Un trait déterminant de la terre autochtone dans les deux États est la restriction sur le transfert. À Sabah, la section 17(1) de la Land Ordinance interdit les transactions foncières entre autochtones et non-autochtones sauf avec autorisation écrite — une règle destinée à maintenir la terre autochtone entre des mains autochtones.
 

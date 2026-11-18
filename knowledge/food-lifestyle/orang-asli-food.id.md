@@ -30,7 +30,7 @@ faq:
     a: "Hal itu beragam, dan secara umum makanan hutan tampaknya menjadi bagian yang lebih kecil dari pola makan dibanding masa lalu. Kajian atas komunitas tertentu melaporkan bahwa penggundulan hutan, pembukaan lahan, dan pemukiman kembali telah mengurangi akses ke makanan liar, dan bahwa peralihan ke makanan pasar berbiaya lebih rendah berkaitan dengan keragaman pangan yang lebih sedikit. Temuan-temuan ini berasal dari kajian lokal kecil, bukan survei nasional, sehingga harus dibaca sebagai indikatif dan bukan menyimpulkan."
 
 lang: "id"
-sourceContentHash: "fa11a4e4e92a1ed6"
+sourceContentHash: "c6cb118ca6070b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Tanyakan apa itu 「makanan Orang Asli」dan jawaban pertama yang jujur adalah sebuah pertanyaan balik: makanan *siapa*? Istilah 「Orang Asli」— bahasa Melayu untuk 「orang asal」— mencakup masyarakat pribumi Semenanjung Malaysia, dan klasifikasi resmi membagi mereka menjadi tiga kelompok dengan banyak subkelompok, yang hidup sangat berbeda dari hutan dalam hingga pesisir. Tidak ada satu masakan Orang Asli tunggal sebagaimana ada laksa Penang. Yang ada justru seperangkat tradisi pangan meramu dan swasembada yang saling berkaitan, dibentuk oleh hutan dan sungai, yang layak digambarkan dengan cermat — dan dengan pengakuan jujur betapa tambal-sulamnya catatan tertulisnya.
+Tanyakan apa itu 「makanan Orang Asli」dan jawaban pertama yang jujur adalah sebuah pertanyaan balik: makanan *siapa*? Istilah 「[Orang Asli](/id/arts-culture/orang-asli)」— bahasa Melayu untuk 「orang asal」— mencakup masyarakat pribumi Semenanjung Malaysia, dan klasifikasi resmi membagi mereka menjadi tiga kelompok dengan banyak subkelompok, yang hidup sangat berbeda dari hutan dalam hingga pesisir. Tidak ada satu masakan Orang Asli tunggal sebagaimana ada laksa Penang. Yang ada justru seperangkat tradisi pangan meramu dan swasembada yang saling berkaitan, dibentuk oleh hutan dan sungai, yang layak digambarkan dengan cermat — dan dengan pengakuan jujur betapa tambal-sulamnya catatan tertulisnya.
 
 ## Siapa Orang Asli, dan mengapa satu deskripsi tidak bisa cocok untuk semua
 

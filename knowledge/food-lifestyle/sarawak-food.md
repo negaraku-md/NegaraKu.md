@@ -193,7 +193,7 @@ Two dishes capture the indigenous heart of Sarawak cooking. **Manok pansoh** (al
 lemongrass, ginger and *daun ubi* (tapioca leaves) and cooked over an open fire;
 the sealed bamboo steams the meat in its own juices and lends a faint woody
 aroma. It is an Iban and Bidayuh dish traditionally made for big occasions,
-especially the Gawai Dayak harvest festival, though it is now served year-round
+especially the [Gawai Dayak](/arts-culture/gawai-dayak) harvest festival, though it is now served year-round
 in restaurants.
 
 **Umai** comes from the Melanau of the coast and is, in effect, a Bornean ceviche:

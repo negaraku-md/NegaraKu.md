@@ -34,7 +34,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "8b1e516c1efc69e1"
+sourceContentHash: "708bcc89edd82a37"
 masterLanguage: "en"
 
 status: "published"
@@ -106,7 +106,7 @@ Le belacan cru est vivement puissant, aussi les cuisiniers le **font-ils presque
 
 Le cincalok (aussi orthographié **cencaluk**) part des **mêmes minuscules crevettes que le belacan** — mais au lieu d'être séchées et pilées dur, les crevettes entières sont tassées dans une saumure salée, **souvent additionnée d'un peu de riz**, et laissées à fermenter seulement un court moment. Le résultat ne pourrait pas avoir l'air plus différent du belacan : un **mélange humide que l'on peut verser et dans lequel les minuscules crevettes individuelles restent visibles**, salé avec une pointe aigre-acidulée. Il se vend en bocaux, et comme il fermente hermétiquement et que la pression peut monter à l'intérieur, mieux vaut ouvrir le récipient avec précaution.
 
-Le cincalok est le plus fortement lié à **Melaka**, où il fait depuis longtemps partie de la cuisine malaise, **peranakan et kristang** (eurasienne d'origine portugaise) ; le condiment est souvent rattaché, par tradition, à l'époque portugaise de Melaka. Contrairement au belacan, il se mange généralement **cru**. La préparation classique est une trempette ou un sambal rapide — du cincalok mélangé à du **jus de calamondin ou de citron vert, des échalotes émincées et du piment oiseau (cili padi)** — servi avec du riz nature. On le fait aussi couramment frire en **omelette (telur cincalok)**. Si le belacan est un ingrédient de cuisine, le cincalok est plus souvent un condiment qui arrive à table plus ou moins tel qu'il est sorti du bocal.
+Le cincalok est le plus fortement lié à **Melaka**, où il fait depuis longtemps partie de la cuisine malaise, **peranakan et [kristang](/fr/arts-culture/kristang-eurasian-culture)** (eurasienne d'origine portugaise) ; le condiment est souvent rattaché, par tradition, à l'époque portugaise de Melaka. Contrairement au belacan, il se mange généralement **cru**. La préparation classique est une trempette ou un sambal rapide — du cincalok mélangé à du **jus de calamondin ou de citron vert, des échalotes émincées et du piment oiseau (cili padi)** — servi avec du riz nature. On le fait aussi couramment frire en **omelette (telur cincalok)**. Si le belacan est un ingrédient de cuisine, le cincalok est plus souvent un condiment qui arrive à table plus ou moins tel qu'il est sorti du bocal.
 
 ## Budu : le poisson transformé en liquide
 

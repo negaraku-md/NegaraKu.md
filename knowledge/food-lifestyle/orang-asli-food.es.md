@@ -30,7 +30,7 @@ faq:
     a: "Varía, y en general los alimentos del bosque parecen ocupar una parte menor de la dieta que en el pasado. Estudios de comunidades concretas informan de que la deforestación, el desmonte de tierras y el reasentamiento han reducido el acceso a los alimentos silvestres, y de que un giro hacia alimentos de mercado de menor costo se asocia a una menor variedad dietética. Estos hallazgos provienen de pequeños estudios locales y no de una encuesta nacional, así que deben leerse como indicativos y no concluyentes."
 
 lang: "es"
-sourceContentHash: "fa11a4e4e92a1ed6"
+sourceContentHash: "c6cb118ca6070b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Pregunte qué es la 「comida orang asli」y la primera respuesta honesta es una pregunta de vuelta: ¿la comida de *quién*? El término 「Orang Asli」—en malayo, 「pueblos originarios」— abarca a los pueblos indígenas de la Malasia peninsular, y la clasificación oficial los divide en tres agrupaciones con muchos subgrupos, que viven de maneras muy distintas, desde la selva profunda hasta la costa. No existe una cocina orang asli única del modo en que existe el laksa de Penang. Lo que hay, en cambio, es un conjunto de tradiciones alimentarias emparentadas, de recolección y subsistencia, moldeadas por el bosque y el río, que merecen describirse con cuidado y con el reconocimiento honesto de lo fragmentario que es el registro escrito.
+Pregunte qué es la 「comida orang asli」y la primera respuesta honesta es una pregunta de vuelta: ¿la comida de *quién*? El término 「[Orang Asli](/es/arts-culture/orang-asli)」—en malayo, 「pueblos originarios」— abarca a los pueblos indígenas de la Malasia peninsular, y la clasificación oficial los divide en tres agrupaciones con muchos subgrupos, que viven de maneras muy distintas, desde la selva profunda hasta la costa. No existe una cocina orang asli única del modo en que existe el laksa de Penang. Lo que hay, en cambio, es un conjunto de tradiciones alimentarias emparentadas, de recolección y subsistencia, moldeadas por el bosque y el río, que merecen describirse con cuidado y con el reconocimiento honesto de lo fragmentario que es el registro escrito.
 
 ## Quiénes son los orang asli, y por qué una descripción no puede valer para todos
 

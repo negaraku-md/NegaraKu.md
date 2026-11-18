@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Les élèves, les enseignants, les fonctionnaires, les journalistes et toute personne qui voit le Jata Negara sur un passeport, une pièce de monnaie, une lettre du gouvernement ou un bâtiment officiel et souhaite en connaître la signification de chaque élément."
 
 lang: "fr"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ Au centre même de l'écu se dresse la **Bunga Raya**, la fleur nationale de la 
 
 ## La devise : « Bersekutu Bertambah Mutu »
 
-Ce qui lie tout l'emblème, c'est la devise inscrite sur le ruban sous l'écu : **BERSEKUTU BERTAMBAH MUTU**. Elle est écrite en deux écritures à la fois — « l'écriture rumi à gauche et l'[écriture jawi](/arts-culture/jawi-script) à droite ».
+Ce qui lie tout l'emblème, c'est la devise inscrite sur le ruban sous l'écu : **BERSEKUTU BERTAMBAH MUTU**. Elle est écrite en deux écritures à la fois — « l'[écriture rumi](/fr/arts-culture/rumi-script) à gauche et l'[écriture jawi](/arts-culture/jawi-script) à droite ».
 
 Cette devise résume l'idée qui sous-tend l'ensemble de l'emblème : que les États qui se sont réunis — les États malais fédérés, les États malais non fédérés, les Établissements des détroits et, plus tard, Sabah et Sarawak — forment ensemble une union d'une valeur supérieure à la somme de ses parties. Chaque kris, chaque bande colorée et chaque arbre de l'écu est un membre de cette fédération ; la devise énonce la signification de cette union en quatre mots.
 

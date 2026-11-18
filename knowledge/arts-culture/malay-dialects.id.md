@@ -36,7 +36,7 @@ socialTitle: "Logat Kelantan, dialek utara, Melayu Sarawak — keragaman dialek 
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "27a7fd285fc88ec8"
+sourceContentHash: "5b24bf4ffc138470"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -85,7 +85,7 @@ Artikel ini menjelaskan dialek Melayu secara deskriptif: apa itu dialek, bagaima
 
 ## Bahasa baku dan dialek
 
-Perbedaan pertama yang perlu dipahami adalah antara **bahasa Melayu baku** dengan **dialek daerah**. Bahasa baku adalah ragam standar [bahasa Melayu](/id/arts-culture/bahasa-melayu) yang digunakan dalam pendidikan, penyiaran resmi, dokumen pemerintah, dan penerbitan. Ia adalah ragam yang diselaraskan dan dikembangkan, antara lain oleh Dewan Bahasa dan Pustaka (DBP), sebagai bahasa bersama lintas daerah.
+Perbedaan pertama yang perlu dipahami adalah antara **bahasa Melayu baku** dengan **dialek daerah**. Bahasa baku adalah ragam standar [bahasa Melayu](/id/arts-culture/bahasa-melayu) yang digunakan dalam pendidikan, penyiaran resmi, dokumen pemerintah, dan penerbitan. Ia adalah ragam yang diselaraskan dan dikembangkan, antara lain oleh [Dewan Bahasa dan Pustaka](/id/arts-culture/dewan-bahasa-dan-pustaka) (DBP), sebagai bahasa bersama lintas daerah.
 
 Menurut kajian linguistik, bahasa Melayu baku di Malaysia sebagian besarnya berbasis **dialek Johor-Riau**, yaitu ragam Melayu di selatan Semenanjung. Dalam kajian Mukhlis Abu Bakar tentang pelafalan Johor-Riau dan pelafalan baku, pelafalan Johor-Riau disebut sebagai pelafalan yang menjadi rujukan standar di Malaysia dan Singapura setelah peran radio pada pertengahan abad ke-20. Persoalan apakah pelafalan resmi harus berbasis ejaan (pelafalan baku) atau pelafalan Johor-Riau pernah menjadi isu kebijakan bahasa yang berubah dari waktu ke waktu.
 

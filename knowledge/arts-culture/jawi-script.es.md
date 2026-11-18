@@ -34,7 +34,7 @@ seoTitle: "La escritura jawi: historia, sistema y su situación actual"
 socialTitle: "El alfabeto árabe que ha escrito el malayo durante siete siglos — la historia de la escritura jawi"
 
 lang: "es"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ Tras aquella época, el jawi se desarrolló hasta convertirse en la escritura de
 
 ## Cómo funciona el sistema de escritura jawi
 
-Varias características distinguen el funcionamiento del jawi del de la escritura rumi, que se basa en el alfabeto latino:
+Varias características distinguen el funcionamiento del jawi del de la [escritura rumi](/es/arts-culture/rumi-script), que se basa en el alfabeto latino:
 
 - **Dirección de escritura** — el jawi se escribe y se lee de derecha a izquierda.
 - **Las formas de las letras cambian** — como en la escritura árabe, muchas letras tienen formas distintas según su posición en la palabra (inicial, medial o final) y según se unan o no a la letra contigua.

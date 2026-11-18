@@ -34,7 +34,7 @@ seoTitle: "Tulisan Jawi: Sejarah, Sistem, dan Kedudukannya Kini"
 socialTitle: "Aksara Arab yang menulis bahasa Melayu selama tujuh abad — kisah tulisan Jawi"
 
 lang: "id"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -120,7 +120,7 @@ Setelah masa itu, Jawi berkembang menjadi aksara pemerintahan, persuratan, dan k
 
 ## Bagaimana sistem tulisan Jawi berfungsi
 
-Beberapa ciri membedakan cara Jawi berfungsi dari tulisan Rumi yang berbasis abjad Latin:
+Beberapa ciri membedakan cara Jawi berfungsi dari [tulisan Rumi](/id/arts-culture/rumi-script) yang berbasis abjad Latin:
 
 - **Arah tulisan** — Jawi ditulis dan dibaca dari kanan ke kiri.
 - **Bentuk huruf berubah** — seperti tulisan Arab, banyak huruf memiliki bentuk berbeda bergantung pada kedudukannya (awal, tengah, atau akhir kata) dan apakah ia bersambung dengan huruf di sebelahnya.

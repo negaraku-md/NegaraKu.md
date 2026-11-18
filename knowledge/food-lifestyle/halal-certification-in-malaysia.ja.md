@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "73ec7034840ec260"
+sourceContentHash: "56d2ce4e65866dc1"
 
 status: "published"
 aiAssisted: true
@@ -182,7 +182,7 @@ MPPHM（マレーシア・ハラル認証手続きマニュアル）は、この
 
 - 円の中央にある八角星
 - 星の中にアラビア文字で書かれた「HALAL」の文字
-- ルーミー文字（大文字）で書かれた「HALAL」および「MALAYSIA」の文字
+- [ルーミー文字](/ja/arts-culture/rumi-script)（大文字）で書かれた「HALAL」および「MALAYSIA」の文字
 - アラビア文字で書かれたMalaysiaの文字
 - 左右にある二つの小さな五角星
 

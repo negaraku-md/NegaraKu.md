@@ -35,7 +35,7 @@ faq:
     a: "它是一道东海岸料理，最常与登嘉楼和吉兰丹联系在一起，自2009年起便已列入马来西亚国家遗产美食名单。它的名字意为「商人的饭」，流行的说法把它与商人、或把它带出海的渔民联系起来，不过这些起源故事只有松散的记载。"
 
 lang: "zh"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,7 +118,7 @@ nasi dagang 按一般的解法，意思是「商人的饭」。流行的说法�
 已「被列为国家遗产美食之一」。
 
 它首先是半岛东部的一道早餐与市集料理——与登嘉楼、吉兰丹紧密相连——尽管如今远销他处，
-也出现在节庆餐桌上，尤其是在开斋节（Hari Raya Aidilfitri）前后。它属于更广阔的
+也出现在节庆餐桌上，尤其是在[开斋节](/zh/arts-culture/hari-raya-aidilfitri)（Hari Raya Aidilfitri）前后。它属于更广阔的
 [马来料理](/zh/food-lifestyle/malay-cuisine)世界，以及这个国家的
 [地方与族群料理](/zh/food-lifestyle/regional-and-ethnic-cuisines)版图。
 

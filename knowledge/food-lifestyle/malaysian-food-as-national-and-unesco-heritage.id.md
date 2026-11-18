@@ -35,7 +35,7 @@ faq:
     a: "Ya. Ia salah satu dari 10 hidangan yang diwartakan sebagai objek Warisan Kebangsaan oleh Pesuruhjaya Warisan pada 23 Februari 2024."
 
 lang: "id"
-sourceContentHash: "99f9a99ac9dc7cef"
+sourceContentHash: "b52a2c5ef4e067c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -145,7 +145,7 @@ Deskripsi resmi elemen itu menggambarkannya sebagai warisan hidup terkait prakti
 
 ## Apakah makanan lain sudah masuk daftar UNESCO?
 
-Sejauh ini tidak. Malaysia memiliki sembilan elemen dalam daftar Warisan Budaya Takbenda UNESCO: [Mak Yong](/id/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), upacara Ong Chun/Wangchuan (2020), [Songket](/id/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), Budaya sarapan (2024), dan Pantun (2025). Delapan di antaranya berada dalam **Daftar Perwakilan**; Mek Mulung (2023) dicantumkan dalam **Daftar Warisan yang Memerlukan Perlindungan Segera** (Urgent Safeguarding List), bukan Daftar Perwakilan. Dari semuanya, **hanya budaya sarapan yang berkaitan makanan** — selebihnya adalah seni pertunjukan, tekstil, pakaian, upacara, atau sastra lisan.
+Sejauh ini tidak. Malaysia memiliki sembilan elemen dalam daftar Warisan Budaya Takbenda UNESCO: [Mak Yong](/id/arts-culture/mak-yong) (2008), Dondang Sayang (2018), Silat (2019), upacara Ong Chun/Wangchuan (2020), [Songket](/id/arts-culture/songket) (2021), Mek Mulung (2023), Kebaya (2024), Budaya sarapan (2024), dan [Pantun](/id/arts-culture/pantun) (2025). Delapan di antaranya berada dalam **Daftar Perwakilan**; Mek Mulung (2023) dicantumkan dalam **Daftar Warisan yang Memerlukan Perlindungan Segera** (Urgent Safeguarding List), bukan Daftar Perwakilan. Dari semuanya, **hanya budaya sarapan yang berkaitan makanan** — selebihnya adalah seni pertunjukan, tekstil, pakaian, upacara, atau sastra lisan.
 
 Ini berarti pengakuan UNESCO untuk makanan Malaysia masih sangat terpilih: satu elemen, satu tahun.
 

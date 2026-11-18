@@ -35,7 +35,7 @@ faq:
     a: "Gula significa sugar en malayo, y el nombre suele rastrearse hasta el estado de Melaka, donde se cree que se originó este azúcar de palma hecho con la savia de la flor del cocotero — aunque la atribución está documentada solo de forma laxa. De color marrón oscuro y tono acaramelado, da sabor al cendol y a muchos postres nyonya."
 
 lang: "es"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -199,7 +199,7 @@ del Sudeste Asiático que Melaka ha hecho especialmente suyo.
 ## La mesa kristang
 
 Melaka también conserva una cocina que casi no se encuentra en ningún otro sitio:
-la comida de los kristang, la comunidad portuguesa-euroasiática descendiente de
+la comida de los [kristang](/es/arts-culture/kristang-eurasian-culture), la comunidad portuguesa-euroasiática descendiente de
 colonos portugueses del siglo XVI y lugareños, muchos de los cuales todavía viven
 en el Asentamiento Portugués de la ciudad. Su plato más conocido es el *kari
 debal*, o devil's curry — un guiso de carne (a menudo pollo o cerdo) cortante y

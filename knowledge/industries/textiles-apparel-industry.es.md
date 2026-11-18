@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos apoyan la inversión en textiles y confección?
     a: La MIDA administra las aprobaciones de licencias de fabricación y los incentivos fiscales para el subsector, que es un área prioritaria bajo el Nuevo Plan Maestro Industrial (NIMP) 2030. A partir del primer trimestre de 2026, las inversiones que reúnan los requisitos quedan bajo un nuevo Marco de Incentivos a la Inversión basado en resultados, con incentivos escalonados ligados a resultados como la tecnología, las competencias y los vínculos locales. Confirme las tasas y condiciones vigentes con la MIDA.
 lang: es
-sourceContentHash: "1841208413fe19a3"
+sourceContentHash: "33538782332736dd"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -112,7 +112,7 @@ Las estadísticas oficiales y la agencia de inversión de Malasia, la Autoridad 
 - **Textiles técnicos e industriales** — tejidos de mayor valor diseñados para el rendimiento más que para la moda, como geotextiles, medios de filtración, textiles para automoción y telas protectoras o médicas (incluido el equipo de protección individual).
 - **Calzado** — botas, zapatos, sandalias, pantuflas y zuecos, estrechamente ligados al segmento del cuero.
 
-Junto al extremo de volumen se sitúa una hebra patrimonial distintiva —el **batik y el songket**—, que carga con peso cultural y un ángulo de exportación de moda modesta, ejemplificado por marcas autóctonas en el espacio de la ropa musulmana.
+Junto al extremo de volumen se sitúa una hebra patrimonial distintiva —el **batik y el [songket](/es/arts-culture/songket/)**—, que carga con peso cultural y un ángulo de exportación de moda modesta, ejemplificado por marcas autóctonas en el espacio de la ropa musulmana.
 
 ## ¿Qué tamaño tiene?
 

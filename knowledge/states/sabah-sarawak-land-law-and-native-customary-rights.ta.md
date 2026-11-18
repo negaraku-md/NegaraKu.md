@@ -32,7 +32,7 @@ faq:
     a: "முழுமையாக இல்லை. கூட்டரசு நீதிமன்றம் (Federal Court) Madeli bin Salleh (2007) வழக்கில் NCR-க்கான பொதுச் சட்ட அங்கீகாரத்தை உறுதிப்படுத்தியது; ஆனால் TR Sandah (2016) வழக்கில், பிளவுபட்ட நீதிமன்றம் அமல்படுத்தத்தக்க உரிமைகளை பயிரிடப்பட்ட நிலத்திற்கு மட்டுப்படுத்தி, சுற்றியுள்ள சமூகக் காட்டின் மீதான உரிமைகோரல்களை நிராகரித்தது. NCR-இன் எல்லை இன்னும் விவாதத்திற்குரியதாகவே உள்ளது."
 
 lang: "ta"
-sourceContentHash: "f1772b5d15bbbf86"
+sourceContentHash: "f76465c4c2f59072"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ framework: explainer
 | --- | --- | --- | --- |
 | ஆளும் சட்டம் | National Land Code | Sabah Land Ordinance (Cap. 68) | Sarawak Land Code (Cap. 81) |
 | பூர்வீக நிலவுடைமை வகை | Malay reservation land | Native Title / native customary rights | Native customary land / Native Area Land |
-| NCR-ஐ அங்கீகரிக்கிறதா | வரம்புடன் (Orang Asli, தனிச் சட்டம்) | ஆம், section 15-இன் கீழ் | ஆம், section 5-இன் கீழ் |
+| NCR-ஐ அங்கீகரிக்கிறதா | வரம்புடன் ([Orang Asli](/ta/arts-culture/orang-asli), தனிச் சட்டம்) | ஆம், section 15-இன் கீழ் | ஆம், section 5-இன் கீழ் |
 
 இரு மாநிலங்களிலும் பூர்வீக நிலத்தின் ஒரு தனித்துவ அம்சம் மாற்றத்தின் மீதான கட்டுப்பாடு. சபாவில், Land Ordinance-இன் section 17(1), எழுத்துப்பூர்வ அனுமதியுடன் தவிர, பூர்வீகர்களுக்கும் பூர்வீகர் அல்லாதவர்களுக்கும் இடையேயான நில பரிவர்த்தனைகளை தடை செய்கிறது — இது பூர்வீக நிலத்தை பூர்வீகர்களின் கைகளிலேயே வைத்திருக்க நோக்கம் கொண்ட ஒரு விதி.
 

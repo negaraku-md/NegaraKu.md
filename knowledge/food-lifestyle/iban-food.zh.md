@@ -35,7 +35,7 @@ faq:
     a: "Iban 人的日常烹饪以及更广义的砂拉越烹饪，大量使用在长屋附近采集的野菜，尤其是 midin（Stenochlaena palustris）和 paku 等丛林蕨菜，通常用蒜头或虾酱（belacan）清炒。芥菜类的 ensabi 是另一种常见蔬菜，可用 belacan 和蒜头烹煮、做成汤，或腌成 kasam ensabi。"
 
 lang: "zh"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,7 +129,7 @@ Iban 人是砂拉越最大的原住民群体，也是婆罗洲被统称为 Dayak
 肉在自身汁液中蒸熟，染上青竹淡淡的草香；木薯叶则软化、融入菜中。许多食谱还会加入香茅，不过各
 来源对它是否属于最传统的版本看法不一，因此把确切的香料组合看作地域与家族的差异即可。
 
-在厨房之外，manok pansoh 是一道庆典菜肴，为丰收节 Gawai Dayak 及其他聚会而烹制，也在砂拉越
+在厨房之外，manok pansoh 是一道庆典菜肴，为丰收节 [Gawai Dayak](/zh/arts-culture/gawai-dayak) 及其他聚会而烹制，也在砂拉越
 各地的小吃摊出售。它并非 Iban 人独有——Bidayuh 和 Orang Ulu 社群同样制作竹筒鸡——因此更应把
 它理解为一种 Dayak 共享的手法，而 Iban 人尤以此闻名。
 

@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "hi"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -160,8 +160,8 @@ framework: history-culture
   सेलांगोर, पिनांग, पेराक, नेगरी सेम्बिलान, जोहोर); केदाह इसे कुछ वर्षों में
   स्थायी राजपत्र के बजाय तदर्थ घोषणा के रूप में प्रदान करता है।
   देखें: [थाईपूसम](/hi/arts-culture/thaipusam)।
-- **थाईपोंगल** — फ़सल का त्योहार, थाई मास के आरंभ में।
-- **नवरात्रि** — नौ रातों वाला देवी उपासना का त्योहार।
+- **[थाईपोंगल](/hi/arts-culture/pongal)** — फ़सल का त्योहार, थाई मास के आरंभ में।
+- **[नवरात्रि](/hi/arts-culture/navaratri)** — नौ रातों वाला देवी उपासना का त्योहार।
 
 मलयाली परंपरा के लोग ओणम और विशु जैसे त्योहार भी मनाते हैं।
 

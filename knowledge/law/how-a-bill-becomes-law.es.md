@@ -36,7 +36,7 @@ faq:
     a: "El artículo 55(5) dispone que un proyecto de ley que aún no se haya resuelto en el Parlamento no decae por razón de la suspensión del Parlamento. El artículo 55(7), a su vez, protege de la caducidad a un proyecto a la espera de sanción por razón de la suspensión o la disolución del Parlamento."
 
 lang: "es"
-sourceContentHash: "87bf8d58ce7f3cea"
+sourceContentHash: "d04c5a2953189f7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -164,7 +164,7 @@ Tras la tercera lectura y la aprobación, el Standing Order 70 exige que el Pres
 
 En el Dewan Negara, el proyecto de ley pasa por sus propias lecturas y fase de comisión. Un proyecto de ley procedente **del** Dewan Negara, a su vez, se deposita en la Mesa del Dewan Rakyat hasta que se fije un día para la segunda lectura (S.O. 72).
 
-El Dewan Negara no es un reflejo del Dewan Rakyat. Conforme al artículo 45(1), su composición consta de dos miembros por cada Estado elegidos de acuerdo con el Seventh Schedule; dos miembros por el Territorio Federal de Kuala Lumpur, uno por Labuan y uno por Putrajaya, nombrados por el Yang di-Pertuan Agong; y **cuarenta miembros nombrados por el Yang di-Pertuan Agong**. El artículo 45(2) dispone que los nombrados serán personas que hayan prestado un servicio público distinguido o alcanzado distinción en una profesión, el comercio, la industria, la agricultura, actividades culturales o el servicio social, o que sean representativas de minorías raciales o capaces de representar los intereses de los aborígenes.
+El Dewan Negara no es un reflejo del Dewan Rakyat. Conforme al artículo 45(1), su composición consta de dos miembros por cada Estado elegidos de acuerdo con el Seventh Schedule; dos miembros por el Territorio Federal de Kuala Lumpur, uno por Labuan y uno por Putrajaya, nombrados por el Yang di-Pertuan Agong; y **cuarenta miembros nombrados por el Yang di-Pertuan Agong**. El artículo 45(2) dispone que los nombrados serán personas que hayan prestado un servicio público distinguido o alcanzado distinción en una profesión, el comercio, la industria, la agricultura, actividades culturales o el servicio social, o que sean representativas de minorías raciales o capaces de representar los intereses de los [aborígenes](/es/arts-culture/orang-asli).
 
 El mandato de un miembro del Dewan Negara es de tres años y **no se ve afectado por la disolución del Parlamento** (artículo 45(3)); un miembro no puede ocupar el cargo durante más de dos mandatos (artículo 45(3A)).
 

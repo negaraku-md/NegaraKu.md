@@ -35,7 +35,7 @@ faq:
     a: "Gula nghĩa là sugar trong tiếng Mã Lai, và cái tên này thường được truy về bang Melaka, nơi loại đường thốt nốt làm từ nhựa hoa dừa này được cho là có nguồn gốc — dù sự gắn kết đó chỉ được ghi chép lỏng lẻo. Màu nâu sẫm và có vị caramel, nó tạo hương cho cendol và nhiều món tráng miệng Nyonya."
 
 lang: "vi"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -195,7 +195,7 @@ của riêng mình một cách đặc biệt.
 ## Bàn ăn Kristang
 
 Malacca cũng gìn giữ một nền ẩm thực hầu như không tìm thấy ở nơi nào khác: ẩm
-thực của người Kristang, cộng đồng Bồ Đào Nha-Á Âu hậu duệ của những người Bồ Đào
+thực của người [Kristang](/vi/arts-culture/kristang-eurasian-culture), cộng đồng Bồ Đào Nha-Á Âu hậu duệ của những người Bồ Đào
 Nha định cư thế kỷ 16 và dân bản địa, nhiều người vẫn sống ở Khu định cư Bồ Đào
 Nha của thành phố. Món nổi tiếng nhất của họ là *kari debal*, hay devil's curry
 — một món hầm thịt (thường là gà hoặc heo) sắc bén, cay xé lưỡi, dựng trên một

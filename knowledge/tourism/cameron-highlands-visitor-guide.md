@@ -137,7 +137,7 @@ A rough agrotourism menu:
 
 ## Can you visit an Orang Asli village?
 
-Yes — and it is one of the more distinctive things to do here. Cameron Highlands sits on the Pahang–Perak fringe, and the indigenous people of the surrounding forest are the **Orang Asli**, predominantly of the Semai group.
+Yes — and it is one of the more distinctive things to do here. Cameron Highlands sits on the Pahang–Perak fringe, and the indigenous people of the surrounding forest are the **[Orang Asli](/arts-culture/orang-asli)**, predominantly of the Semai group.
 
 Penang Travel Tips describes forest-dwelling Orang Asli who "cultivate hill rice, and engage in hunting and gathering, and trade in forest produce such as petai, durian, rattan and resins." Guided cultural visits bring you into a village to meet residents, watch a **blowpipe demonstration**, and learn how forest plants and herbs are used. Ecological guides typically double as interpreters of both the culture and the surrounding jungle.
 

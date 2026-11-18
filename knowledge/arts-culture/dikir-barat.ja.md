@@ -20,7 +20,7 @@ appliesTo: "ディキール・バラットの演出形式、トゥカン・カ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -68,7 +68,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-二つのグループが舞台の上で向かい合い、あぐらをかいて座る。台本はない。最初のグループが物価上昇を皮肉ったパントゥンを歌い終えると、二番目のグループには返歌を作る時間がほんの数秒しか与えられない――しかも韻を踏み、拍に合わせ、できれば元の句よりも鋭くなければならない。
+二つのグループが舞台の上で向かい合い、あぐらをかいて座る。台本はない。最初のグループが物価上昇を皮肉った[パントゥン](/ja/arts-culture/pantun)を歌い終えると、二番目のグループには返歌を作る時間がほんの数秒しか与えられない――しかも韻を踏み、拍に合わせ、できれば元の句よりも鋭くなければならない。
 
 それこそが、ディキール・バラットの中で最も待ち望まれる瞬間――二人のトゥカン・カルットによる即興のぶつかり合いである。
 

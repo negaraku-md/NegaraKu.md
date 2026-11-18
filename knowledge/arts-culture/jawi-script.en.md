@@ -36,7 +36,7 @@ socialTitle: "The Arabic alphabet that has written Malay for seven centuries —
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "227837ea67cec8a8"
+sourceContentHash: "26f4f979c6d95ce7"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -120,7 +120,7 @@ After that era, Jawi developed into the script of administration, correspondence
 
 ## How the Jawi writing system works
 
-Several features distinguish how Jawi functions from Rumi script, which is based on the Latin alphabet:
+Several features distinguish how Jawi functions from [Rumi script](/en/arts-culture/rumi-script), which is based on the Latin alphabet:
 
 - **Direction of writing** — Jawi is written and read from right to left.
 - **Letter forms change** — like Arabic script, many letters have different forms depending on their position in a word (initial, medial or final) and whether they connect to the adjoining letter.

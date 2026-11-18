@@ -34,7 +34,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "8b1e516c1efc69e1"
+sourceContentHash: "708bcc89edd82a37"
 masterLanguage: "en"
 
 status: "published"
@@ -106,7 +106,7 @@ El belacan crudo es intensamente punzante, así que los cocineros **casi siempre
 
 El cincalok (también escrito **cencaluk**) parte de la **misma gamba diminuta que el belacan**, pero, en lugar de secarse y machacarse hasta quedar duro, las gambas enteras se empacan en una salmuera salada, **a menudo con un poco de arroz añadido**, y se dejan fermentar solo un tiempo corto. El resultado no podría verse más distinto del belacan: una **mezcla húmeda y vertible en la que las gambas diminutas individuales siguen visibles**, salada con un toque ácido y punzante. Se vende en tarros y, como fermenta sellado y puede acumularse presión en el interior, conviene abrir el recipiente con cuidado.
 
-El cincalok está ligado sobre todo a **Melaka**, donde lleva mucho tiempo formando parte de la cocina malaya, **Peranakan y Kristang** (euroasiática de origen portugués); el condimento suele atribuirse, por tradición, a la época portuguesa de Melaka. A diferencia del belacan, normalmente se **come crudo**. La preparación clásica es una salsa o sambal rápido —cincalok mezclado con **zumo de calamansi o de lima, chalota en rodajas y chile ojo de pájaro (cili padi)**— servido junto a arroz blanco. También es común freírlo en una **tortilla (telur cincalok)**. Si el belacan es un ingrediente de cocina, el cincalok es más a menudo un condimento que llega a la mesa más o menos tal como salió del tarro.
+El cincalok está ligado sobre todo a **Melaka**, donde lleva mucho tiempo formando parte de la cocina malaya, **Peranakan y [Kristang](/es/arts-culture/kristang-eurasian-culture)** (euroasiática de origen portugués); el condimento suele atribuirse, por tradición, a la época portuguesa de Melaka. A diferencia del belacan, normalmente se **come crudo**. La preparación clásica es una salsa o sambal rápido —cincalok mezclado con **zumo de calamansi o de lima, chalota en rodajas y chile ojo de pájaro (cili padi)**— servido junto a arroz blanco. También es común freírlo en una **tortilla (telur cincalok)**. Si el belacan es un ingrediente de cocina, el cincalok es más a menudo un condimento que llega a la mesa más o menos tal como salió del tarro.
 
 ## Budu: pescado convertido en líquido
 

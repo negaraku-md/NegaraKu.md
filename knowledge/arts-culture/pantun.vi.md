@@ -36,7 +36,7 @@ socialTitle: "Thể thơ truyền miệng lâu đời nhất của người Mã 
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ Bài viết này giải thích pantun một cách mô tả: pantun là gì, cấ
 
 ## Pantun là gì
 
-Pantun là thể thơ truyền miệng truyền thống của người Mã Lai. Theo *Kamus Dewan* do Dewan Bahasa dan Pustaka (DBP) xuất bản, pantun là 「một loại thơ cổ thường gồm bốn dòng trong mỗi khổ」, với 「hai dòng đầu là phần gợi hình cho ý nghĩa và những dòng còn lại chứa đựng ý nghĩa của nó」.
+Pantun là thể thơ truyền miệng truyền thống của người Mã Lai. Theo *Kamus Dewan* do [Dewan Bahasa dan Pustaka](/vi/arts-culture/dewan-bahasa-dan-pustaka) (DBP) xuất bản, pantun là 「một loại thơ cổ thường gồm bốn dòng trong mỗi khổ」, với 「hai dòng đầu là phần gợi hình cho ý nghĩa và những dòng còn lại chứa đựng ý nghĩa của nó」.
 
 Hai điều quan trọng được chứa đựng trong định nghĩa này. Thứ nhất, pantun là thơ *truyền miệng* — nó ra đời, sống và lan truyền qua lời nói, lời ca và trí nhớ, từ rất lâu trước khi được ghi lại thành chữ viết. Các nguồn học thuật mô tả nó là một trong những thể văn chương truyền miệng lâu đời nhất của nền văn minh Mã Lai. Thứ hai, pantun không chỉ là một chuỗi các dòng gieo vần; nó có sự phân chia nội tại đặc thù giữa phần 「hình ảnh」 với phần 「ý nghĩa」.
 

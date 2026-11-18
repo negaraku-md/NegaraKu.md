@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ Debido a la capa estatal, el *total* de días festivos —y en ocasiones las fec
 
 El calendario de días festivos de Malasia es, en efecto, un retrato del país:
 
-- **Religión.** Los días festivos marcan los festivales de las principales religiones: islámicos (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), budistas (Wesak), cristianos (Navidad) e hindúes (Deepavali, Thaipusam en algunos estados), entre otros.
+- **Religión.** Los días festivos marcan los festivales de las principales religiones: islámicos ([Hari Raya Aidilfitri](/es/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), budistas (Wesak), cristianos (Navidad) e hindúes ([Deepavali](/es/arts-culture/deepavali/), [Thaipusam](/es/arts-culture/thaipusam/) en algunos estados), entre otros.
 - **Realeza.** El cumpleaños del **Yang di-Pertuan Agong** (el Rey) es un día festivo nacional, y cada estado con un Gobernante hereditario también observa el cumpleaños de ese Gobernante como día festivo estatal.
 - **Nación.** El **Día de Merdeka** (31 de agosto) marca la independencia; el **Día de Malasia** (16 de septiembre) marca la formación de Malasia.
 

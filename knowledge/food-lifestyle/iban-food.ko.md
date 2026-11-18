@@ -35,7 +35,7 @@ faq:
     a: "일상의 Iban 요리와 더 넓은 사라왁 요리는 롱하우스 근처에서 채집한 야생 채소, 특히 midin(Stenochlaena palustris)과 paku 같은 정글 고사리를 많이 쓰며, 보통 마늘이나 새우 페이스트(belacan)와 함께 볶는다. 갓류 채소 ensabi도 흔한 채소로, belacan과 마늘로 조리하거나 국으로 끓이거나 kasam ensabi로 절인다."
 
 lang: "ko"
-sourceContentHash: "74a815c3e5b646ba"
+sourceContentHash: "992eb9202964346f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,7 +135,7 @@ Iban과 가장 깊이 연결된 요리는 **manok pansoh**다——*manok*은 �
 레몬그라스도 넣지만, 그것이 가장 전통적인 형태에 속하는지는 자료마다 다르므로, 정확한 향신 배합
 은 지역과 집안의 차이로 보는 것이 좋다.
 
-부엌 너머에서 manok pansoh는 잔치 요리로, Gawai Dayak 축제와 그 밖의 모임을 위해 조리되며, 사라
+부엌 너머에서 manok pansoh는 잔치 요리로, [Gawai Dayak](/ko/arts-culture/gawai-dayak) 축제와 그 밖의 모임을 위해 조리되며, 사라
 왁 곳곳의 음식 노점에서도 팔린다. Iban만의 것은 아니다——Bidayuh와 Orang Ulu 공동체도 대나무 닭
 을 만든다——따라서 Iban이 특히 잘 알려진, 공유된 Dayak 기법으로 이해하는 편이 낫다.
 

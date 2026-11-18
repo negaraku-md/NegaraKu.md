@@ -37,7 +37,7 @@ faq:
     a: "Oui. La certification halal porte sur la conformité du produit, des ingrédients et des procédés aux exigences de la MS 1500 et du MPPHM, non sur la religion du propriétaire. Les entreprises détenues par des non-musulmans peuvent demander et obtenir le Certificat de confirmation halal de Malaisie, et beaucoup le font."
 
 lang: "fr"
-sourceContentHash: "73ec7034840ec260"
+sourceContentHash: "56d2ce4e65866dc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ Les caractéristiques d'un logo authentique Malaysia Halal, par ailleurs, facili
 
 - Une étoile à huit branches au centre d'un cercle
 - Le mot «HALAL» en écriture arabe à l'intérieur de l'étoile
-- Les mots «HALAL» et «MALAYSIA» en écriture latine (majuscules)
+- Les mots «HALAL» et «MALAYSIA» en [écriture latine](/fr/arts-culture/rumi-script) (majuscules)
 - Le mot Malaysia en écriture arabe
 - Deux petites étoiles à cinq branches à gauche et à droite
 

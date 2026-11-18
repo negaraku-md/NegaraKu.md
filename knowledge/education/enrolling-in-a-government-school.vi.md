@@ -20,7 +20,7 @@ keyTakeaways:
   - "Nhập học sớm (dưới tuổi) và hoãn nhập học Lớp 1 đều tồn tại như các chính sách chính thức riêng biệt — đơn xin được nộp qua JPN, không qua hệ thống idMe thông thường, và việc hoãn là một đặc ân (privilege), không phải một quyền tự động"
 appliesTo: "Cha mẹ hoặc người giám hộ là công dân Malaysia có con sắp vào Lớp 1 trường tiểu học công lập hoặc Khối 1 trường trung học công lập."
 lang: "vi"
-sourceContentHash: "10e50c8f9bbc2e3a"
+sourceContentHash: "8bb8f4e4a270c076"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -113,7 +113,7 @@ Hai chính sách vận hành riêng biệt của KPM tồn tại cụ thể cho 
 
 **Nhập học sớm (dưới tuổi).** Đối với trẻ sinh từ 2–15 tháng 1 của năm học (tức là gần đạt tuổi đủ điều kiện nhưng vẫn thiếu vài ngày), cha mẹ có thể nộp đơn nhập học sớm qua JPN. Điều kiện: trẻ đã theo học giáo dục mầm non/mẫu giáo (tadika), thể hiện mức độ phát triển tâm trí và khả năng đọc đầy đủ, và là công dân Malaysia. Giấy tờ cần thiết bao gồm giấy khai sinh, thư xác nhận mầm non/mẫu giáo, và báo cáo tiến bộ của học sinh đã được xác nhận. Trẻ sẽ trải qua mô-đun sàng lọc và phỏng vấn bởi cán bộ JPN; quyết định cuối cùng do Ủy ban Đánh giá của KPM ở cấp bộ đưa ra, dựa trên xét về mặt của từng trường hợp và chỗ trống của trường. Chính sách này hoạt động theo Thông tư Chuyên môn (Surat Pekeliling Ikhtisas) Bil. 10/1998.
 
-**Hoãn nhập học Lớp 1.** Ngược lại, đối với trẻ sinh từ 2–15 tháng 1 nhưng cha mẹ muốn hoãn nhập học (không phải đẩy nhanh), đơn được nộp bằng **Biểu mẫu PPW 2** tại JPN, kèm bản sao có chứng thực thẻ căn cước của cha mẹ, giấy khai sinh của con, bằng chứng đăng ký Lớp 1, và báo cáo y tế của bác sĩ. Sự cân nhắc cũng được dành cho học sinh Orang Asli, con em Bumiputera Sabah/Sarawak ở các khu vực vùng sâu, và học sinh có nhu cầu đặc biệt. Thẩm quyền phê duyệt thuộc về Tổng Giám đốc Giáo dục Malaysia (Ketua Pengarah Pendidikan Malaysia, KPPM) với tư cách Trưởng Cơ quan Đăng ký, theo Mục 29A(3) Luật Giáo dục (Education Act 1996) — và KPM nhấn mạnh **việc hoãn là một đặc ân, không phải một quyền**: học sinh vẫn buộc phải đến trường tiểu học cho đến khi có được sự phê duyệt chính thức.
+**Hoãn nhập học Lớp 1.** Ngược lại, đối với trẻ sinh từ 2–15 tháng 1 nhưng cha mẹ muốn hoãn nhập học (không phải đẩy nhanh), đơn được nộp bằng **Biểu mẫu PPW 2** tại JPN, kèm bản sao có chứng thực thẻ căn cước của cha mẹ, giấy khai sinh của con, bằng chứng đăng ký Lớp 1, và báo cáo y tế của bác sĩ. Sự cân nhắc cũng được dành cho học sinh [Orang Asli](/vi/arts-culture/orang-asli), con em Bumiputera Sabah/Sarawak ở các khu vực vùng sâu, và học sinh có nhu cầu đặc biệt. Thẩm quyền phê duyệt thuộc về Tổng Giám đốc Giáo dục Malaysia (Ketua Pengarah Pendidikan Malaysia, KPPM) với tư cách Trưởng Cơ quan Đăng ký, theo Mục 29A(3) Luật Giáo dục (Education Act 1996) — và KPM nhấn mạnh **việc hoãn là một đặc ân, không phải một quyền**: học sinh vẫn buộc phải đến trường tiểu học cho đến khi có được sự phê duyệt chính thức.
 
 ## Những sai lầm phổ biến
 

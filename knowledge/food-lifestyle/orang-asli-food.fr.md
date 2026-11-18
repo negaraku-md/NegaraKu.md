@@ -30,7 +30,7 @@ faq:
     a: "Cela varie, et en général les aliments de la forêt semblent occuper une part plus petite du régime que par le passé. Des études de communautés particulières rapportent que la déforestation, le défrichement et la réinstallation ont réduit l'accès aux aliments sauvages, et qu'un basculement vers une nourriture de marché moins coûteuse est lié à une moindre variété alimentaire. Ces constats proviennent de petites études locales plutôt que d'une enquête nationale, et doivent donc être lus comme indicatifs et non concluants."
 
 lang: "fr"
-sourceContentHash: "fa11a4e4e92a1ed6"
+sourceContentHash: "c6cb118ca6070b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Demandez ce qu'est la 「cuisine orang asli」et la première réponse honnête est une question en retour : la nourriture de *qui* ? Le terme 「Orang Asli」— en malais, 「peuples originels」— recouvre les peuples autochtones de la Malaisie péninsulaire, et la classification officielle les répartit en trois ensembles comptant de nombreux sous-groupes, vivant de façons très différentes, de la forêt profonde jusqu'au littoral. Il n'existe pas de cuisine orang asli unique à la manière du laksa de Penang. Ce qu'il y a, en revanche, c'est un ensemble de traditions alimentaires apparentées, de cueillette et de subsistance, façonnées par la forêt et la rivière, qui méritent d'être décrites avec soin — et avec l'aveu honnête du caractère lacunaire du corpus écrit.
+Demandez ce qu'est la 「cuisine orang asli」et la première réponse honnête est une question en retour : la nourriture de *qui* ? Le terme 「[Orang Asli](/fr/arts-culture/orang-asli)」— en malais, 「peuples originels」— recouvre les peuples autochtones de la Malaisie péninsulaire, et la classification officielle les répartit en trois ensembles comptant de nombreux sous-groupes, vivant de façons très différentes, de la forêt profonde jusqu'au littoral. Il n'existe pas de cuisine orang asli unique à la manière du laksa de Penang. Ce qu'il y a, en revanche, c'est un ensemble de traditions alimentaires apparentées, de cueillette et de subsistance, façonnées par la forêt et la rivière, qui méritent d'être décrites avec soin — et avec l'aveu honnête du caractère lacunaire du corpus écrit.
 
 ## Qui sont les orang asli, et pourquoi une seule description ne peut convenir à tous
 

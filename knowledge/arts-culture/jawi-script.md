@@ -119,7 +119,7 @@ Selepas zaman itu, Jawi berkembang menjadi aksara pentadbiran, persuratan dan ke
 
 ## Bagaimana sistem tulisan Jawi berfungsi
 
-Beberapa ciri membezakan cara Jawi berfungsi daripada tulisan Rumi yang berasaskan abjad Latin:
+Beberapa ciri membezakan cara Jawi berfungsi daripada [tulisan Rumi](/arts-culture/rumi-script) yang berasaskan abjad Latin:
 
 - **Arah tulisan** — Jawi ditulis dan dibaca dari kanan ke kiri.
 - **Bentuk huruf berubah** — seperti tulisan Arab, banyak huruf mempunyai bentuk berbeza bergantung pada kedudukannya (awal, tengah atau akhir perkataan) dan sama ada ia bersambung dengan huruf sebelah.

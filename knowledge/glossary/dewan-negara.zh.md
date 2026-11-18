@@ -26,7 +26,7 @@ verificationNeeded:
   - "联邦宪法的马来文文本为总检察署（Jabatan Peguam Negara）所译。除非且直至根据第160B条宣布马来文本为准确文本，否则英文文本为作准文本。"
 
 lang: "zh"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -157,7 +157,7 @@ Dewan Negara 是国会的**上议院（Senate）**。联邦宪法第44条规定�
 - 曾提供卓越公共服务；或
 - 曾在专业、商业、工业、农业、文化活动或社会服务方面有杰出成就；或
 - 代表少数种族；或
-- 有能力代表原住民（Orang Asli）利益的人士。
+- 有能力代表[原住民（Orang Asli）](/zh/arts-culture/orang-asli)利益的人士。
 
 有一点须一并阅读。第40(1)条规定，最高元首在行使宪法赋予的职能时，除宪法另有
 规定外，须按内阁（Jemaah Menteri）或依内阁一般授权行事的部长的意见行事。委

@@ -37,7 +37,7 @@ faq:
     a: "그렇습니다. 할랄 인증은 소유주의 종교가 아니라 제품, 재료, 공정이 MS 1500과 MPPHM 요건에 부합하는지에 초점을 둡니다. 비무슬림 소유 회사도 신청할 수 있으며, 많은 회사가 말레이시아 할랄 인증서(SPHM)를 신청하고 취득합니다."
 
 lang: "ko"
-sourceContentHash: "73ec7034840ec260"
+sourceContentHash: "56d2ce4e65866dc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ MPPHM(말레이시아 할랄 인증 절차 매뉴얼)은 이 표준을 실제 �
 
 - 원 안 중앙의 팔각별
 - 별 안에 아랍 문자로 쓴 「HALAL」
-- 로마자(대문자)로 쓴 「HALAL」과 「MALAYSIA」
+- [로마자](/ko/arts-culture/rumi-script)(대문자)로 쓴 「HALAL」과 「MALAYSIA」
 - 아랍 문자로 쓴 Malaysia
 - 좌우에 오각형 작은 별 두 개
 

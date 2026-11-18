@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 ปฏิทินวันหยุดของมาเลเซียเป็นภาพแทนของประเทศได้อย่างแท้จริง:
 
-- **ศาสนา** วันหยุดฉลองเทศกาลของศาสนาหลัก — อิสลาม (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul) พุทธ (Wesak) คริสต์ (คริสต์มาส) และฮินดู (Deepavali, Thaipusam ในบางรัฐ) เป็นต้น
+- **ศาสนา** วันหยุดฉลองเทศกาลของศาสนาหลัก — อิสลาม ([Hari Raya Aidilfitri](/th/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul) พุทธ (Wesak) คริสต์ (คริสต์มาส) และฮินดู ([Deepavali](/th/arts-culture/deepavali/), [Thaipusam](/th/arts-culture/thaipusam/) ในบางรัฐ) เป็นต้น
 - **ราชวงศ์** วันคล้ายวันพระราชสมภพของ **Yang di-Pertuan Agong** (พระราชา) เป็นวันหยุดระดับชาติ และแต่ละรัฐที่มีเจ้าผู้ครองรัฐสืบสันตติวงศ์ก็ถือวันประสูติของเจ้าผู้ครองรัฐนั้นเป็นวันหยุดระดับรัฐด้วย
 - **ความเป็นชาติ** **วัน Merdeka** (31 สิงหาคม) ฉลองเอกราช **วันมาเลเซีย** (16 กันยายน) ฉลองการก่อตั้งมาเลเซีย
 

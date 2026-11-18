@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "fr"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -167,8 +167,8 @@ sud-indienne :
   l'accorde certaines années par une déclaration ad hoc plutôt que par une
   publication permanente au Journal officiel. Voir :
   [Thaipusam](/fr/arts-culture/thaipusam).
-- **Thai Pongal** — fête des moissons, au début du mois de Thai.
-- **Navaratri** — fête de neuf nuits consacrée au culte de la Déesse.
+- **[Thai Pongal](/fr/arts-culture/pongal)** — fête des moissons, au début du mois de Thai.
+- **[Navaratri](/fr/arts-culture/navaratri)** — fête de neuf nuits consacrée au culte de la Déesse.
 
 Les personnes de tradition malayalie célèbrent également des fêtes comme Onam et
 Vishu.

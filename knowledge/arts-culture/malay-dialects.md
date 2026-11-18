@@ -84,7 +84,7 @@ Rencana ini menerangkan dialek Melayu secara deskriptif: apa itu dialek, bagaima
 
 ## Bahasa baku dan dialek
 
-Perbezaan pertama yang perlu difahami ialah antara **bahasa Melayu baku** dengan **dialek daerah**. Bahasa baku ialah ragam piawai [bahasa Melayu](/arts-culture/bahasa-melayu) yang digunakan dalam pendidikan, penyiaran rasmi, dokumen kerajaan dan penerbitan. Ia ragam yang diselaras dan dikembangkan, antaranya oleh Dewan Bahasa dan Pustaka (DBP), sebagai bahasa bersama merentas daerah.
+Perbezaan pertama yang perlu difahami ialah antara **bahasa Melayu baku** dengan **dialek daerah**. Bahasa baku ialah ragam piawai [bahasa Melayu](/arts-culture/bahasa-melayu) yang digunakan dalam pendidikan, penyiaran rasmi, dokumen kerajaan dan penerbitan. Ia ragam yang diselaras dan dikembangkan, antaranya oleh [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), sebagai bahasa bersama merentas daerah.
 
 Menurut kajian linguistik, bahasa Melayu baku di Malaysia sebahagian besarnya berasaskan **dialek Johor-Riau**, iaitu ragam Melayu di selatan Semenanjung. Dalam kajian Mukhlis Abu Bakar tentang sebutan Johor-Riau dan sebutan baku, sebutan Johor-Riau disifatkan sebagai sebutan yang menjadi rujukan standard di Malaysia dan Singapura selepas peranan radio pada pertengahan abad ke-20. Soal sama ada sebutan rasmi patut berasaskan ejaan (sebutan baku) atau sebutan Johor-Riau pernah menjadi isu dasar bahasa yang berubah dari semasa ke semasa.
 

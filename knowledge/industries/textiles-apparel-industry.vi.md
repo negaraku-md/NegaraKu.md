@@ -31,7 +31,7 @@ faq:
   - q: Những ưu đãi nào hỗ trợ đầu tư dệt may và trang phục?
     a: MIDA quản lý việc phê duyệt giấy phép sản xuất và các ưu đãi thuế cho phân khúc này, vốn là một lĩnh vực ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới (NIMP) 2030. Từ quý đầu năm 2026, các khoản đầu tư đủ điều kiện thuộc Khung Ưu đãi Đầu tư Mới dựa trên kết quả, với các ưu đãi phân tầng gắn với các kết quả như công nghệ, kỹ năng và liên kết nội địa. Hãy xác nhận mức và điều kiện hiện hành với MIDA.
 lang: vi
-sourceContentHash: "1841208413fe19a3"
+sourceContentHash: "33538782332736dd"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -112,7 +112,7 @@ Cơ quan thống kê và đầu tư chính thức của Malaysia, Cơ quan Phát
 - **Dệt may kỹ thuật và công nghiệp** — các loại vải giá trị cao hơn được thiết kế vì hiệu năng chứ không phải thời trang, như vải địa kỹ thuật, vật liệu lọc, dệt may ô tô và vải bảo hộ hoặc y tế (bao gồm thiết bị bảo hộ cá nhân).
 - **Giày dép** — bốt, giày, dép quai hậu, dép lê và guốc, gắn chặt với phân khúc da.
 
-Bên cạnh đầu khối lượng là một mạch di sản đặc trưng — **batik và songket** — mang sức nặng văn hóa và một góc xuất khẩu thời trang khiêm tốn, điển hình là các thương hiệu thuần nội địa trong không gian trang phục Hồi giáo.
+Bên cạnh đầu khối lượng là một mạch di sản đặc trưng — **batik và [songket](/vi/arts-culture/songket/)** — mang sức nặng văn hóa và một góc xuất khẩu thời trang khiêm tốn, điển hình là các thương hiệu thuần nội địa trong không gian trang phục Hồi giáo.
 
 ## Nó lớn đến mức nào?
 

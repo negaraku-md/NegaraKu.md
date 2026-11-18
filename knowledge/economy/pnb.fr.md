@@ -32,7 +32,7 @@ faq:
 
 
 lang: "fr"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -183,7 +183,7 @@ L'ASB est réservé aux bumiputera, mais la catégorie éligible est plus large 
 
 La source faisant autorité sur qui peut investir est le Prospectus maître de l'ASNB, non
 la fiche de présentation du produit, et il cadre la catégorie bumiputera centrale comme
-les Malais, les autochtones de Sabah et de Sarawak, et les Orang Asli.
+les Malais, les autochtones de Sabah et de Sarawak, et les [Orang Asli](/fr/arts-culture/orang-asli).
 
 Un tuteur de l'une ou l'autre des catégories éligibles peut aussi ouvrir une **Akaun Remaja** pour
 un mineur malaisien (certificat de naissance valide, moins de 18 ans). Une Remaja ne peut pas demander

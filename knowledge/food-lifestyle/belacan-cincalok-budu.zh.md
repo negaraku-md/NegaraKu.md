@@ -34,7 +34,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "8b1e516c1efc69e1"
+sourceContentHash: "708bcc89edd82a37"
 masterLanguage: "en"
 
 status: "published"
@@ -106,7 +106,7 @@ belacan 是马来西亚的发酵**虾膏**，由当地称为 *geragau*（银虾�
 
 cincalok（也拼作 **cencaluk**）起点是**与 belacan 相同的小虾**——但它不是被晒干、舂硬，而是把整只虾装入咸卤水中，**常加一点米**，只发酵较短的时间。其结果与 belacan 判若两物：一种**湿润、可倾倒的混合物，其中一只只小虾仍清晰可见**，味咸并带酸爽的边味。它以罐装出售，由于是密封发酵、内部可能积压气压，开罐时宜小心。
 
-cincalok 最与**马六甲**相连，在那里它长久以来是马来、**Peranakan（土生华人／娘惹）与 Kristang（葡裔欧亚人）** 烹饪的一部分；按照传统，这种调味料常被追溯到马六甲的葡萄牙时期。与 belacan 不同，它通常**生吃**。经典做法是快手蘸料或 sambal——把 cincalok 拌入**金桔（calamansi）或青柠汁、切片红葱头和指天椒（cili padi，鸟眼辣椒）**——配白饭食用。它也常煎成**蛋（telur cincalok，cincalok 煎蛋）**。如果说 belacan 是烹饪食材，那么 cincalok 更多是一种差不多就照原样从罐里端上桌的调味料。
+cincalok 最与**马六甲**相连，在那里它长久以来是马来、**Peranakan（土生华人／娘惹）与 [Kristang](/zh/arts-culture/kristang-eurasian-culture)（葡裔欧亚人）** 烹饪的一部分；按照传统，这种调味料常被追溯到马六甲的葡萄牙时期。与 belacan 不同，它通常**生吃**。经典做法是快手蘸料或 sambal——把 cincalok 拌入**金桔（calamansi）或青柠汁、切片红葱头和指天椒（cili padi，鸟眼辣椒）**——配白饭食用。它也常煎成**蛋（telur cincalok，cincalok 煎蛋）**。如果说 belacan 是烹饪食材，那么 cincalok 更多是一种差不多就照原样从罐里端上桌的调味料。
 
 ## budu：把鱼变成液体
 

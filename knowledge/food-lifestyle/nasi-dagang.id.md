@@ -35,7 +35,7 @@ faq:
     a: "Ia hidangan pesisir timur yang paling lekat dengan Terengganu dan Kelantan, dan telah masuk daftar makanan warisan nasional Malaysia sejak 2009. Namanya diterjemahkan sebagai 'nasi pedagang', dan kisah-kisah populer mengaitkannya dengan para pedagang atau nelayan yang membawanya melaut, meskipun kisah-kisah asal usul ini hanya terdokumentasi secara longgar."
 
 lang: "id"
-sourceContentHash: "186df7ba4a0da1fe"
+sourceContentHash: "986da44828fa463d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,7 +122,7 @@ dagang telah "didaftarkan sebagai salah satu makanan warisan nasional" sejak 200
 
 Ia, di atas segalanya, hidangan sarapan dan pasar di bagian timur semenanjung — lekat kuat dengan
 Terengganu dan Kelantan — meski kini dijual jauh melampaui itu, dan muncul di meja perayaan,
-terutama sekitar Hari Raya Aidilfitri. Ia berada dalam dunia yang lebih luas
+terutama sekitar [Hari Raya Aidilfitri](/id/arts-culture/hari-raya-aidilfitri). Ia berada dalam dunia yang lebih luas
 [masakan Melayu](/id/food-lifestyle/malay-cuisine) dan peta negeri ini tentang
 [masakan kedaerahan dan etnis](/id/food-lifestyle/regional-and-ethnic-cuisines).
 

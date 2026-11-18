@@ -36,7 +36,7 @@ socialTitle: "马来语如何成为国家语言——并从爪夷文过渡到罗
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1578825625379e44"
+sourceContentHash: "ac6472952bdfcbbb"
 
 status: "published"
 aiAssisted: true
@@ -143,7 +143,7 @@ framework: explainer
 
 爪夷文——为马来语音调整过的阿拉伯字母——数百年来一直是马来语的主要文字，正如日期为公元1303年的登嘉楼碑文石所证明的那样。它随着伊斯兰教在马来群岛的传播而发展，成为马来宫廷行政、书信往来与宗教事务所用的文字，包括[马六甲苏丹国](/zh/malaysia/melaka-sultanate)时期。
 
-罗马字——拉丁字母——在殖民地时期开始广泛用于马来语，当时出现了多种不同的罗马字拼写系统。到20世纪中叶，统一罗马字拼写已成为马来语文运动的关注重点。
+[罗马字](/zh/arts-culture/rumi-script)——拉丁字母——在殖民地时期开始广泛用于马来语，当时出现了多种不同的罗马字拼写系统。到20世纪中叶，统一罗马字拼写已成为马来语文运动的关注重点。
 
 **1956年** — [国家语文局](/arts-culture/dewan-bahasa-dan-pustaka)（Dewan Bahasa dan Pustaka，简称DBP），原名 Balai Pustaka，于1956年6月22日在新山成立，旨在将马来语发展为即将独立的国家的国家语言与官方语言。继1956年9月16日至21日在新加坡与新山举行的第三届马来语文与文学大会（Kongres Bahasa dan Persuratan Melayu Ketiga）之后，其名称改为 Dewan Bahasa dan Pustaka。
 

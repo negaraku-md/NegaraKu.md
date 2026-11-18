@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 मलेशिया का छुट्टी कैलेंडर, वास्तव में, देश का एक चित्र है:
 
-- **धर्म।** छुट्टियाँ प्रमुख धर्मों के त्योहारों को चिह्नित करती हैं — इस्लामी (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), बौद्ध (Wesak), ईसाई (क्रिसमस) और हिंदू (दीपावली, कुछ राज्यों में Thaipusam), अन्य के बीच।
+- **धर्म।** छुट्टियाँ प्रमुख धर्मों के त्योहारों को चिह्नित करती हैं — इस्लामी ([Hari Raya Aidilfitri](/hi/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), बौद्ध (Wesak), ईसाई (क्रिसमस) और हिंदू ([दीपावली](/hi/arts-culture/deepavali/), कुछ राज्यों में [Thaipusam](/hi/arts-culture/thaipusam/)), अन्य के बीच।
 - **राजघराना।** **Yang di-Pertuan Agong** (राजा) का जन्मदिन एक राष्ट्रीय छुट्टी है, और वंशानुगत शासक वाला प्रत्येक राज्य उस शासक के जन्मदिन को राज्य छुट्टी के रूप में भी मनाता है।
 - **राष्ट्रवाद।** **Merdeka दिवस** (31 अगस्त) स्वतंत्रता को चिह्नित करता है; **मलेशिया दिवस** (16 सितंबर) मलेशिया के गठन को चिह्नित करता है।
 

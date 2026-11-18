@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 
 status: "published"
 aiAssisted: true
@@ -166,7 +166,7 @@ Rakyat）——から成ると定めている。
 - 専門職、商業、工業、農業、文化活動又は社会奉仕活動のいずれかにおいて卓
   越した実績を上げた者であるか；又は
 - 少数民族を代表する者であるか；又は
-- オラン・アスリ（Orang Asli）の利益を代表する能力を有する者、でなければ
+- [オラン・アスリ（Orang Asli）](/ja/arts-culture/orang-asli)の利益を代表する能力を有する者、でなければ
   ならない。
 
 ここで併せて読むべき条文がある。第40(1)条は、国王が憲法上の職務を遂行す

@@ -27,7 +27,7 @@ verificationNeeded:
   - "The Malay-language text of the Federal Constitution is a translation by the Attorney General's Chambers. Unless and until declared authoritative under Article 160B, the English text is the authoritative text."
 
 lang: "hi"
-sourceContentHash: "bf114efc3f1d5751"
+sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -144,7 +144,7 @@ Dewan Negara संसद का **ऊपरी सदन (Senate)** है। �
 - विशिष्ट लोक सेवा प्रदान कर चुके हों; या
 - किसी पेशे, वाणिज्य, उद्योग, कृषि, सांस्कृतिक गतिविधियों या सामाजिक सेवा में विशिष्टता प्राप्त कर चुके हों; या
 - किसी नस्लीय अल्पसंख्यक का प्रतिनिधित्व करते हों; या
-- Orang Asli के हितों का प्रतिनिधित्व करने में सक्षम हों।
+- [Orang Asli](/hi/arts-culture/orang-asli) के हितों का प्रतिनिधित्व करने में सक्षम हों।
 
 एक बात को इसके साथ पढ़ा जाना चाहिए। अनुच्छेद 40(1) प्रावधान करता है कि संविधान के तहत अपने कार्यों का निर्वहन करते समय, Yang di-Pertuan Agong Cabinet की या Cabinet के सामान्य प्राधिकार के तहत कार्य करने वाले किसी मंत्री की सलाह के अनुसार कार्य करेंगे, सिवाय इसके कि संविधान अन्यथा प्रावधान करे। senators की नियुक्ति उन अपवादित विवेकाधीन शक्तियों में से नहीं है।
 

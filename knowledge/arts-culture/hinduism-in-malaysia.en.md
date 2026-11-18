@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "6fa948730726def7"
+sourceContentHash: "d7df97b39a2da0c7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -156,8 +156,8 @@ The principal festivals of Malaysian Hindus come from the South Indian tradition
   Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor; Kedah grants it in
   some years as an ad-hoc declaration rather than by standing gazette). See
   [Thaipusam](/en/arts-culture/thaipusam).
-- **Thai Pongal** — a harvest festival, at the start of the Tamil month of Thai.
-- **Navaratri** — a nine-night festival of Devi worship.
+- **[Thai Pongal](/en/arts-culture/pongal)** — a harvest festival, at the start of the Tamil month of Thai.
+- **[Navaratri](/en/arts-culture/navaratri)** — a nine-night festival of Devi worship.
 
 Those of Malayali heritage also celebrate festivals such as Onam and Vishu.
 

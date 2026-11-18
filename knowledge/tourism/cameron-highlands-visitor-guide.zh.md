@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3402603241935266"
+sourceContentHash: "970b80eaebd8ab03"
 
 status: "published"
 aiAssisted: true
@@ -138,7 +138,7 @@ BOH官方双溪巴叻页面列出茶园开放时间为**周二至周日8.30am至
 
 ## 可以参观原住民村落吗？
 
-可以——而且这是此地较为独特的体验之一。金马仑高原位于彭亨与霹雳交界地带，周边森林的原住民是**原住民（Orang Asli）**，主要属于塞迈族（Semai）。
+可以——而且这是此地较为独特的体验之一。金马仑高原位于彭亨与霹雳交界地带，周边森林的原住民是**[原住民（Orang Asli）](/zh/arts-culture/orang-asli)**，主要属于塞迈族（Semai）。
 
 Penang Travel Tips描述了这些以森林为居所的原住民，他们「种植旱稻，从事狩猎与采集，并交易如臭豆（petai）、榴莲、藤条与树脂等森林产品」。有导览的文化游览会带你进入村落，与居民会面，观看**吹箭演示**，并了解森林植物与草药的用途。生态向导通常也兼任文化与周边丛林的讲解者。
 

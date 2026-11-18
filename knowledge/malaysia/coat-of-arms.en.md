@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Students, teachers, civil servants, journalists and anyone who sees the Jata Negara on a passport, coin, government letter or official building and wants to know the meaning of each element."
 
 lang: "en"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ At the very centre of the shield stands the **Bunga Raya**, Malaysia's national 
 
 ## The motto: 'Bersekutu Bertambah Mutu'
 
-Binding the whole emblem together is the motto on the ribbon beneath the shield: **BERSEKUTU BERTAMBAH MUTU**. It is written in two scripts at once — "Rumi script on the left and [Jawi script](/arts-culture/jawi-script) on the right."
+Binding the whole emblem together is the motto on the ribbon beneath the shield: **BERSEKUTU BERTAMBAH MUTU**. It is written in two scripts at once — "[Rumi script](/en/arts-culture/rumi-script) on the left and [Jawi script](/arts-culture/jawi-script) on the right."
 
 This motto sums up the idea behind the entire emblem: that the states which came together — the Federated Malay States, the Unfederated Malay States, the Straits Settlements, and later Sabah and Sarawak — together form a union of greater worth than the sum of its parts. Every kris, every coloured stripe and every tree on the shield is one member of that federation; the motto states the meaning of that union in four words.
 

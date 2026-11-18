@@ -87,7 +87,7 @@ Rencana ini menerangkan pantun secara deskriptif: apa itu pantun, bagaimana stru
 
 ## Apa itu pantun
 
-Pantun ialah bentuk puisi lisan tradisional Melayu. Menurut *Kamus Dewan* terbitan Dewan Bahasa dan Pustaka (DBP), pantun ialah "sejenis puisi lama yang biasanya terdiri daripada empat baris dalam tiap-tiap rangkap", dengan "dua baris pertama merupakan pembayang maksud dan yang selainnya mengandungi maksudnya".
+Pantun ialah bentuk puisi lisan tradisional Melayu. Menurut *Kamus Dewan* terbitan [Dewan Bahasa dan Pustaka](/arts-culture/dewan-bahasa-dan-pustaka) (DBP), pantun ialah "sejenis puisi lama yang biasanya terdiri daripada empat baris dalam tiap-tiap rangkap", dengan "dua baris pertama merupakan pembayang maksud dan yang selainnya mengandungi maksudnya".
 
 Dua perkara penting terkandung dalam takrif ini. Pertama, pantun ialah puisi *lisan* — ia lahir, hidup dan tersebar melalui pertuturan, nyanyian dan ingatan, jauh sebelum ia dicatatkan dalam tulisan. Sumber akademik menyifatkannya sebagai antara bentuk sastera lisan tertua dalam tamadun Melayu. Kedua, pantun bukan sekadar rangkaian baris berima; ia mempunyai pembahagian dalaman yang khusus antara bahagian "gambaran" dengan bahagian "makna".
 

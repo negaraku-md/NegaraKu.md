@@ -36,7 +36,7 @@ socialTitle: "La poesía oral más antigua del pueblo malayo — la historia del
 lang: "es"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f6a8b9e39d6bac9"
+sourceContentHash: "038f73b231155ba9"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -88,7 +88,7 @@ Este artículo explica el pantun de forma descriptiva: qué es el pantun, cómo 
 
 ## Qué es el pantun
 
-El pantun es una forma de poesía oral tradicional malaya. Según el *Kamus Dewan*, publicado por el Dewan Bahasa dan Pustaka (DBP), el pantun es «un tipo de poesía antigua que por lo general consta de cuatro versos en cada estrofa», en la que «los dos primeros versos son el presagio del sentido y los demás contienen su sentido».
+El pantun es una forma de poesía oral tradicional malaya. Según el *Kamus Dewan*, publicado por el [Dewan Bahasa dan Pustaka](/es/arts-culture/dewan-bahasa-dan-pustaka) (DBP), el pantun es «un tipo de poesía antigua que por lo general consta de cuatro versos en cada estrofa», en la que «los dos primeros versos son el presagio del sentido y los demás contienen su sentido».
 
 Esta definición encierra dos cosas importantes. Primera, el pantun es poesía *oral* — nace, vive y se difunde mediante el habla, el canto y la memoria, mucho antes de consignarse por escrito. Las fuentes académicas lo describen como una de las formas de literatura oral más antiguas de la civilización malaya. Segunda, el pantun no es una mera sucesión de versos rimados; tiene una división interna específica entre la parte de «imagen» y la parte de «sentido».
 

@@ -30,7 +30,7 @@ faq:
     a: "Ia berbeza-beza, dan secara amnya makanan hutan nampaknya menjadi bahagian yang lebih kecil dalam diet berbanding dahulu. Kajian terhadap komuniti tertentu melaporkan bahawa penyahhutanan, pembersihan tanah dan penempatan semula telah mengurangkan akses kepada makanan liar, dan bahawa peralihan ke arah makanan pasar yang lebih murah dikaitkan dengan kepelbagaian diet yang lebih sedikit. Penemuan ini datang daripada kajian tempatan yang kecil, bukan tinjauan kebangsaan, jadi ia harus dibaca sebagai petunjuk dan bukan muktamad."
 
 lang: "ms"
-sourceContentHash: "fa11a4e4e92a1ed6"
+sourceContentHash: "c6cb118ca6070b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,7 +96,7 @@ verificationNeeded:
 framework: history-culture
 ---
 
-Tanya apa itu "makanan Orang Asli" dan jawapan pertama yang jujur ialah satu soalan balik: makanan *siapa*? Istilah "Orang Asli" merangkumi masyarakat peribumi Semenanjung Malaysia, dan pengelasan rasmi membahagikan mereka kepada tiga kumpulan dengan banyak subkumpulan, yang hidup dengan cara yang amat berbeza dari hutan dalam hingga ke pantai. Tiada satu masakan Orang Asli tunggal seperti adanya laksa Penang. Sebaliknya yang ada ialah satu set budaya pemakanan meramu dan sara diri yang saling berkait, dibentuk oleh hutan dan sungai, yang berhak digambarkan dengan teliti — dan dengan pengakuan jujur betapa berteraburnya rekod bertulisnya.
+Tanya apa itu "makanan Orang Asli" dan jawapan pertama yang jujur ialah satu soalan balik: makanan *siapa*? Istilah "[Orang Asli](/arts-culture/orang-asli)" merangkumi masyarakat peribumi Semenanjung Malaysia, dan pengelasan rasmi membahagikan mereka kepada tiga kumpulan dengan banyak subkumpulan, yang hidup dengan cara yang amat berbeza dari hutan dalam hingga ke pantai. Tiada satu masakan Orang Asli tunggal seperti adanya laksa Penang. Sebaliknya yang ada ialah satu set budaya pemakanan meramu dan sara diri yang saling berkait, dibentuk oleh hutan dan sungai, yang berhak digambarkan dengan teliti — dan dengan pengakuan jujur betapa berteraburnya rekod bertulisnya.
 
 ## Siapa Orang Asli, dan mengapa satu keterangan tidak boleh muat untuk semua
 

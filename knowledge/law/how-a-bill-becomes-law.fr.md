@@ -36,7 +36,7 @@ faq:
     a: "L'article 55(5) dispose qu'un projet de loi qui n'a pas encore été réglé au Parlement ne devient pas caduc du fait de la prorogation du Parlement. L'article 55(7) protège à son tour de la caducité un projet en attente de sanction du fait de la prorogation ou de la dissolution du Parlement."
 
 lang: "fr"
-sourceContentHash: "87bf8d58ce7f3cea"
+sourceContentHash: "d04c5a2953189f7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -164,7 +164,7 @@ Après la troisième lecture et l'adoption, le Standing Order 70 exige que le Pr
 
 Au Dewan Negara, le projet de loi passe par ses propres lectures et sa propre phase de commission. Un projet de loi provenant **du** Dewan Negara est à son tour déposé sur le Bureau du Dewan Rakyat jusqu'à ce qu'un jour soit fixé pour la deuxième lecture (S.O. 72).
 
-Le Dewan Negara n'est pas un reflet du Dewan Rakyat. Au titre de l'article 45(1), sa composition comprend deux membres pour chaque État élus conformément à la Seventh Schedule ; deux membres pour le Territoire fédéral de Kuala Lumpur, un pour Labuan et un pour Putrajaya, nommés par le Yang di-Pertuan Agong ; et **quarante membres nommés par le Yang di-Pertuan Agong**. L'article 45(2) dispose que les personnes nommées sont des personnes qui ont rendu un service public distingué ou atteint une distinction dans une profession, le commerce, l'industrie, l'agriculture, des activités culturelles ou le service social, ou qui représentent des minorités raciales ou sont capables de représenter les intérêts des aborigènes.
+Le Dewan Negara n'est pas un reflet du Dewan Rakyat. Au titre de l'article 45(1), sa composition comprend deux membres pour chaque État élus conformément à la Seventh Schedule ; deux membres pour le Territoire fédéral de Kuala Lumpur, un pour Labuan et un pour Putrajaya, nommés par le Yang di-Pertuan Agong ; et **quarante membres nommés par le Yang di-Pertuan Agong**. L'article 45(2) dispose que les personnes nommées sont des personnes qui ont rendu un service public distingué ou atteint une distinction dans une profession, le commerce, l'industrie, l'agriculture, des activités culturelles ou le service social, ou qui représentent des minorités raciales ou sont capables de représenter les intérêts des [aborigènes](/fr/arts-culture/orang-asli).
 
 Le mandat d'un membre du Dewan Negara est de trois ans et **n'est pas affecté par la dissolution du Parlement** (article 45(3)) ; un membre ne peut exercer ses fonctions pendant plus de deux mandats (article 45(3A)).
 

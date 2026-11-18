@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pelajar, guru, pegawai negeri, jurnalis, dan siapa saja yang melihat Jata Negara pada paspor, koin, surat pemerintah, atau bangunan resmi dan ingin mengenali makna setiap elemennya."
 
 lang: "id"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -117,7 +117,7 @@ Di tengah-tengah perisai berdiri **Bunga Raya**, bunga nasional Malaysia — sat
 
 ## Semboyan: 'Bersekutu Bertambah Mutu'
 
-Mengikat keseluruhan jata adalah semboyan pada pita di bawah perisai: **BERSEKUTU BERTAMBAH MUTU**. Ia ditulis dalam dua aksara sekaligus — "tulisan rumi di sebelah kiri dan [tulisan jawi](/id/arts-culture/jawi-script) di sebelah kanan."
+Mengikat keseluruhan jata adalah semboyan pada pita di bawah perisai: **BERSEKUTU BERTAMBAH MUTU**. Ia ditulis dalam dua aksara sekaligus — "[tulisan rumi](/id/arts-culture/rumi-script) di sebelah kiri dan [tulisan jawi](/id/arts-culture/jawi-script) di sebelah kanan."
 
 Semboyan ini merangkum gagasan di balik seluruh jata itu: bahwa negara-negara bagian yang bersekutu — Melayu Bersekutu, Melayu Tidak Bersekutu, Negeri-negeri Selat, dan kemudian Sabah serta Sarawak — bersama-sama membentuk sebuah kesatuan yang lebih bermutu daripada jumlah bagiannya. Setiap keris, setiap jalur warna, dan setiap pohon pada perisai adalah satu anggota federasi itu; semboyan ini menyatakan makna himpunan itu dalam empat patah kata.
 

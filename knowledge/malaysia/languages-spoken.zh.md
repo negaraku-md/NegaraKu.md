@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "ab65f68bd17c67a2"
+sourceContentHash: "363a56e58f7f2279"
 sources:
   - title: "联邦宪法 — 第152条（国语）(Federal Constitution — Article 152 (National language))"
     url: "https://lom.agc.gov.my/federal-constitution.php"
@@ -143,7 +143,7 @@ SJKC源流学校隶属教育部管理的国家教育体系，遵循与国民小�
 
 ## 马来西亚半岛的原住民
 
-马来西亚半岛有自己的原住民人口，即原住民（Orang Asli），由原住民发展局（JAKOA）负责管理。JAKOA将原住民分为三大族群——尼格利陀人（Negrito）、塞诺伊人（Senoi）与原马来人（Proto-Malay）——总共涵盖18个支系，每个支系历来都有自己的语言，主要分布在彭亨、霹雳与雪兰莪。
+马来西亚半岛有自己的原住民人口，即[原住民（Orang Asli）](/zh/arts-culture/orang-asli)，由原住民发展局（JAKOA）负责管理。JAKOA将原住民分为三大族群——尼格利陀人（Negrito）、塞诺伊人（Senoi）与原马来人（Proto-Malay）——总共涵盖18个支系，每个支系历来都有自己的语言，主要分布在彭亨、霹雳与雪兰莪。
 
 原住民在全国人口中所占比例很小，但他们在语言上既有别于讲马来语的多数族群，也有别于沙巴与砂拉越的原住民族群——这是一个国家之内三种彼此独立的原住民语言传统，而非只有一种。
 

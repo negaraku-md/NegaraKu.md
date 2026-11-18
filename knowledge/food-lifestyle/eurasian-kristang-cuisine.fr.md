@@ -30,7 +30,7 @@ faq:
     a: "L'endroit le plus concentré est le Portuguese Settlement, près d'Ujong Pasir à Melaka, établi en 1933 pour rassembler la communauté Kristang dispersée et aujourd'hui connu pour ses restaurants de fruits de mer. Plusieurs plats familiaux traditionnels seraient toutefois devenus rares, survivant surtout lors des rassemblements festifs plutôt que sur les menus quotidiens."
 
 lang: "fr"
-sourceContentHash: "99646b90132b11d3"
+sourceContentHash: "08b9a2ef489a85be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,7 +93,7 @@ Commandez un curry dans une cuisine malaise de Melaka et vous goûtez la noix de
 et la citronnelle. Commandez-en un deux rues plus loin, au Portuguese Settlement, et
 la première chose qui vous frappe, c'est le vinaigre — vif, presque agressif, tranché
 de moutarde et de piment. Cette acidité est l'empreinte digitale de la cuisine
-Kristang, la nourriture de la communauté portugaise-eurasienne de Malaisie, et c'est
+[Kristang](/fr/arts-culture/kristang-eurasian-culture), la nourriture de la communauté portugaise-eurasienne de Malaisie, et c'est
 le signe le plus clair que cette table a poussé ailleurs que dans le reste de la
 péninsule.
 

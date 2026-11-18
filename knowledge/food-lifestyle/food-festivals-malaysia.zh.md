@@ -35,7 +35,7 @@ faq:
     a: "Gawai Dayak（由砂拉越的 Iban 及其他 Dayak 群体庆祝）与 Kaamatan（沙巴 Kadazan-Dusun 的感恩节）都围绕着米和米酒。Tuak——一种以糯米酿成的米酒——是敬酒与仪式的核心。标志性食物包括砂拉越的 manok pansuh（在竹筒中烹煮的鸡）与沙巴的 hinava（以青柠腌制的生鱼菜肴），还有用叶子包裹烹煮的米饭。"
 
 lang: "zh"
-sourceContentHash: "dc79c6796da1373d"
+sourceContentHash: "5319a3923e5fb41e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ framework: history-culture
 
 Open house 是把整张日历串连成一体的那根线。一个庆祝自家节日的家庭准备好满桌佳肴，欢迎
 朋友、邻居、同事以及常常是素不相识的陌生人前来吃饭，于是在一年之中，大多数马来西亚人
-最终都成了别人节日里的宾客。这项习俗跨越各社群：在 Hari Raya、农历新年、Deepavali 及其
+最终都成了别人节日里的宾客。这项习俗跨越各社群：在 Hari Raya、农历新年、[Deepavali](/zh/arts-culture/deepavali) 及其
 他节日里一样被奉行。政治人物、公司与政府机构会举办大型的公共 open house，而这项传统也被
 广泛解读为国家多元文化共存的缩影。它的地位之高，以致 2025 年 *The Star* 报道，有人建议
 为 open house 概念申请 UNESCO 认证，涵盖 Hari Raya、Deepavali、农历新年等等——尽管在撰
@@ -131,7 +131,7 @@ Open house 是把整张日历串连成一体的那根线。一个庆祝自家节
 [Ramadan 市集与斋戒月](/zh/food-lifestyle/ramadan-bazaars-and-fasting-month-food)
 中另有专文介绍，是一项吸引各种背景买家的应季盛事。
 
-斋戒在 **Hari Raya Aidilfitri** 达到高潮，这个节日揭开了全国最著名的 open house 季节。餐
+斋戒在 [**Hari Raya Aidilfitri**](/zh/arts-culture/hari-raya-aidilfitri) 达到高潮，这个节日揭开了全国最著名的 open house 季节。餐
 桌是围绕着少数几样主食搭建起来的：*ketupat*（压实后在编织的棕榈叶袋中煮熟的米粽）、
 *lemang*（糯米加椰浆在竹筒中以明火烹煮）、以及 *rendang*（肉在香料椰浆中慢炖至收汁），
 通常还配有沙爹和各式 *kuih*（糕点）。Ketupat 在整个马来世界都与开斋节紧密相连——正如英
@@ -166,7 +166,7 @@ yusheng 条目所概述，将它追溯到 Loke Ching Fatt 在 Seremban 供应的
 
 ## Gawai 与 Kaamatan：婆罗洲的丰收节
 
-东马保留着另一对植根于稻米丰收的节日。**Gawai Dayak**，由砂拉越的 Iban 及其他 Dayak 群
+东马保留着另一对植根于稻米丰收的节日。[**Gawai Dayak**](/zh/arts-culture/gawai-dayak)，由砂拉越的 Iban 及其他 Dayak 群
 体于六月初前后庆祝；**Kaamatan**，则是沙巴 Kadazan-Dusun 于五月下旬的感恩节——两者都为丰
 收谢恩，也都围绕着米和米酒。*Tuak*——一种以糯米和自制酵母酿成的酒——是敬酒与仪式的核心；
 正如 *The Star* 在 2026 年所报道，村民会在 Gawai 前夜午夜时分献上 *tuak pengayu*（长寿米
@@ -182,7 +182,7 @@ Kadazan-Dusun 支系之间各有不同，因此区域性的说法应被视为具
 
 ## Thaipusam：素食的虔诚
 
-并非每个节日都是盛宴。**Thaipusam**，这个最鲜明地与吉隆坡近郊 Batu Caves 相关联的印度教节
+并非每个节日都是盛宴。[**Thaipusam**](/zh/arts-culture/thaipusam)，这个最鲜明地与吉隆坡近郊 Batu Caves 相关联的印度教节
 日，以禁食和严格的素食为标志。信众——尤其是即将背负 *kavadi* 的人——会以一段戒绝期作准备，
 每天只吃一顿素食；各来源对此说法不一，有说约 30 天，也有说约 48 天，还有一些描述在最后一
 两天有更严格的全面禁食，因此确切的规程最好向宗教权威核实。在节日当天，素食会通过

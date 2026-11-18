@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 மலேசியாவின் விடுமுறை நாட்காட்டி, உண்மையில், நாட்டின் ஒரு உருவப்படம்:
 
-- **மதம்.** விடுமுறைகள் முக்கிய மதங்களின் திருவிழாக்களைக் குறிக்கின்றன — இஸ்லாமிய (Hari Raya Aidilfitri, Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), பௌத்த (Wesak), கிறித்துவ (கிறிஸ்துமஸ்) மற்றும் இந்து (தீபாவளி, சில மாநிலங்களில் தைப்பூசம்) உட்பட பலவும்.
+- **மதம்.** விடுமுறைகள் முக்கிய மதங்களின் திருவிழாக்களைக் குறிக்கின்றன — இஸ்லாமிய ([Hari Raya Aidilfitri](/ta/arts-culture/hari-raya-aidilfitri/), Hari Raya Aidiladha, Awal Muharram, Maulidur Rasul), பௌத்த (Wesak), கிறித்துவ (கிறிஸ்துமஸ்) மற்றும் இந்து ([தீபாவளி](/ta/arts-culture/deepavali/), சில மாநிலங்களில் [தைப்பூசம்](/ta/arts-culture/thaipusam/)) உட்பட பலவும்.
 - **அரச குடும்பம்.** **Yang di-Pertuan Agong** (மன்னர்) இன் பிறந்தநாள் ஒரு தேசிய விடுமுறை, மேலும் பரம்பரை ஆட்சியாளர் உள்ள ஒவ்வொரு மாநிலமும் அந்த ஆட்சியாளரின் பிறந்தநாளை ஒரு மாநில விடுமுறையாகக் கடைப்பிடிக்கிறது.
 - **நாட்டுத்தன்மை.** **Merdeka தினம்** (ஆகஸ்ட் 31) சுதந்திரத்தைக் குறிக்கிறது; **மலேசியா தினம்** (செப்டம்பர் 16) மலேசியாவின் உருவாக்கத்தைக் குறிக்கிறது.
 

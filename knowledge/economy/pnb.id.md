@@ -31,7 +31,7 @@ faq:
 
 
 lang: "id"
-sourceContentHash: "c6ef01d3bb216ad1"
+sourceContentHash: "4b8f217e00949b96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -186,7 +186,7 @@ Akun Dewasa (akun dewasa):
 
 Sumber otoritatif tentang siapa yang dapat berinvestasi adalah Prospektus Induk ASNB,
 bukan Product Highlights Sheet, dan ia merumuskan kategori inti Bumiputera
-sebagai orang Melayu, anak negeri Sabah dan Sarawak, serta Orang Asli.
+sebagai orang Melayu, anak negeri Sabah dan Sarawak, serta [Orang Asli](/id/arts-culture/orang-asli).
 
 Seorang wali dari kategori mana pun yang layak juga dapat membuka
 **Akun Remaja** bagi anak Malaysia yang di bawah umur (akta kelahiran

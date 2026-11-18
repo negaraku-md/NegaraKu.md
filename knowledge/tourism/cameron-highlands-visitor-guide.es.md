@@ -31,7 +31,7 @@ faq:
     a: "Se trata de visitas culturales guiadas a aldeas Semai, normalmente con una demostración de cerbatana y charlas sobre los modos de vida del bosque. Ve con un guía local de confianza, pide permiso antes de fotografiar a las personas y trátalo como un intercambio cultural respetuoso y no como un espectáculo."
 
 lang: "es"
-sourceContentHash: "3402603241935266"
+sourceContentHash: "970b80eaebd8ab03"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -138,7 +138,7 @@ Un menú aproximado de agroturismo:
 
 ## ¿Se puede visitar una aldea Orang Asli?
 
-Sí — y es una de las cosas más singulares que hacer aquí. Cameron Highlands se asienta en la franja Pahang–Perak, y los pueblos indígenas del bosque circundante son los **Orang Asli**, predominantemente del grupo Semai.
+Sí — y es una de las cosas más singulares que hacer aquí. Cameron Highlands se asienta en la franja Pahang–Perak, y los pueblos indígenas del bosque circundante son los **[Orang Asli](/es/arts-culture/orang-asli)**, predominantemente del grupo Semai.
 
 Penang Travel Tips describe a los Orang Asli del bosque que «cultivan arroz de montaña, se dedican a la caza y la recolección, y comercian con productos del bosque como petai, durian, ratán y resinas». Las visitas culturales guiadas te llevan a una aldea para conocer a los residentes, ver una **demostración de cerbatana** y aprender cómo se usan las plantas y hierbas del bosque. Los guías ecológicos suelen hacer también de intérpretes tanto de la cultura como de la selva circundante.
 

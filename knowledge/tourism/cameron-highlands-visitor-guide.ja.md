@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3402603241935266"
+sourceContentHash: "970b80eaebd8ab03"
 
 status: "published"
 aiAssisted: true
@@ -138,7 +138,7 @@ BOHの公式スンガイ・パラス（Sungei Palas）ページは、茶畑の�
 
 ## オラン・アスリの村を訪ねることはできるのか？
 
-できる——しかもここでできる、より個性的なことの一つである。キャメロンハイランドはパハン〜ペラ（Pahang–Perak）の縁に位置しており、周辺の森に暮らす先住民が**オラン・アスリ（Orang Asli）**で、その大多数はスマイ（Semai）系である。
+できる——しかもここでできる、より個性的なことの一つである。キャメロンハイランドはパハン〜ペラ（Pahang–Perak）の縁に位置しており、周辺の森に暮らす先住民が**[オラン・アスリ（Orang Asli）](/ja/arts-culture/orang-asli)**で、その大多数はスマイ（Semai）系である。
 
 Penang Travel Tipsは、森に暮らすオラン・アスリについて、彼らは「陸稲を栽培し、狩猟採集を営み、プタイ（petai）、ドリアン、籐、樹脂といった森林産物を交易する」と述べている。ガイド付きの文化訪問では、村に入って住民と会い、**吹き矢の実演**を見物し、森の植物や薬草がどのように使われるかを学ぶ。エコロジー・ガイドはたいてい、文化と周辺のジャングルの両方の解説者を兼ねている。
 

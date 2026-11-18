@@ -35,7 +35,7 @@ faq:
     a: "gula 在马来语中意为 sugar（糖），这个名字通常被追溯到马六甲州——一般认为这种取自椰花花苞汁液的棕榈糖源自此地，尽管这一归属只有零散的记载。它呈深褐色、带焦糖风味，为 cendol 和许多 Nyonya 甜点增添味道。"
 
 lang: "zh"
-sourceContentHash: "4e57aafcd2ce17cf"
+sourceContentHash: "40265c87203955e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -172,7 +172,7 @@ boiling pot of satay gravy」（一锅滚烫沸腾的沙爹汤汁），档口往
 
 ## Kristang 的餐桌
 
-马六甲还保存着一种几乎在别处见不到的菜系：Kristang 人的食物。Kristang 是葡萄牙-
+马六甲还保存着一种几乎在别处见不到的菜系：[Kristang](/zh/arts-culture/kristang-eurasian-culture) 人的食物。Kristang 是葡萄牙-
 欧亚裔社群，为 16 世纪葡萄牙拓居者与当地人的后裔，许多人至今仍住在城里的葡萄牙村
 （Portuguese Settlement）。他们最知名的一道菜是 *kari debal*，即 devil's curry
 （魔鬼咖喱）——一锅辛锐、火辣的炖肉（常用鸡肉或猪肉），以香料酱加醋和芥末为底，按

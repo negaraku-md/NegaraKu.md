@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "e97dca9642279cb4"
+sourceContentHash: "b364077cf92058e5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -100,7 +100,7 @@ framework: explainer
 
 马来西亚的假期历，实际上是这个国家的一幅写照：
 
-- **宗教。** 假期标志着各主要信仰的节庆——伊斯兰教（开斋节、哈芝节、回历新年（Awal Muharram）、穆罕默德诞辰（Maulidur Rasul））、佛教（卫塞节）、基督教（圣诞节）与兴都教（屠妖节，以及某些州的大宝森节）等等。
+- **宗教。** 假期标志着各主要信仰的节庆——伊斯兰教（[开斋节](/zh/arts-culture/hari-raya-aidilfitri/)、哈芝节、回历新年（Awal Muharram）、穆罕默德诞辰（Maulidur Rasul））、佛教（卫塞节）、基督教（圣诞节）与兴都教（[屠妖节](/zh/arts-culture/deepavali/)，以及某些州的[大宝森节](/zh/arts-culture/thaipusam/)）等等。
 - **皇室。** **最高元首（Yang di-Pertuan Agong）**的诞辰是全国假期，而每个拥有世袭统治者的州，也将该统治者的诞辰订为州假期。
 - **国族。** **国庆日（默迪卡）**（8月31日）纪念独立；**马来西亚日**（9月16日）纪念马来西亚的成立。
 

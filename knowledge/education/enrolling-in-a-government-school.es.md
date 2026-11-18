@@ -20,7 +20,7 @@ keyTakeaways:
   - "El ingreso anticipado (menor de edad) y el aplazamiento del Año 1 existen como políticas oficiales distintas: las solicitudes se hacen a través del JPN, no del sistema idMe habitual, y el aplazamiento es un privilegio, no un derecho automático"
 appliesTo: "Padres, madres o tutores de ciudadanía malasia cuyo hijo está por ingresar al Año 1 de la escuela primaria pública o al Formulario 1 de la escuela secundaria pública."
 lang: "es"
-sourceContentHash: "10e50c8f9bbc2e3a"
+sourceContentHash: "8bb8f4e4a270c076"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -174,7 +174,7 @@ enero cuyos padres quieren aplazar el ingreso (en lugar de adelantarlo), la
 solicitud se hace usando el **Borang PPW 2** en el JPN, acompañado de una copia
 certificada del documento de identidad del padre/madre, el certificado de
 nacimiento del niño, el comprobante de registro del Año 1 y un informe médico
-de un doctor. También se da consideración a los alumnos Orang Asli, a los niños
+de un doctor. También se da consideración a los alumnos [Orang Asli](/es/arts-culture/orang-asli), a los niños
 Bumiputera de Sabah/Sarawak en zonas del interior y a los alumnos con
 necesidades especiales. La autoridad de aprobación recae en el Director General
 de Educación de Malasia (KPPM) como Registrador Jefe, bajo la Seksyen 29A(3) de

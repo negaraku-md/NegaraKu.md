@@ -35,7 +35,7 @@ faq:
     a: "Daging lembu ialah pilihan klasik dan paling terkenal, secara tradisinya menggunakan bahagian yang lebih liat yang mendapat manfaat daripada masakan lama, dan dari segi sejarah kerbau. Rendang ayam sangat biasa di Malaysia dan lebih cepat masak. Versi lain menggunakan itik, kambing, atau keistimewaan tempatan; pesisir Sumatera Barat malah mempunyai versi kerang. Teknik perlahan dan penuh rempah lebih penting daripada jenis protein tertentu."
 
 lang: "ms"
-sourceContentHash: "89aad66ea5c70fd7"
+sourceContentHash: "88b7fd40089dd4b4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,7 +104,7 @@ dishFacts:
   where: "Di meja perayaan dan rumah terbuka Malaysia; amat dikaitkan dengan masyarakat keturunan Minangkabau di Negeri Sembilan dan gaya rendangnya yang gelap."
 ---
 
-Berjalan melepasi dapur orang Melayu pada hari-hari menjelang Hari Raya dan
+Berjalan melepasi dapur orang Melayu pada hari-hari menjelang [Hari Raya](/arts-culture/hari-raya-aidilfitri) dan
 selalunya anda akan mendengar rendang sebelum melihatnya — bunyi sudu kayu yang
 dikaut perlahan pada periuk yang berat, berulang-ulang kali, selama berjam-jam.
 Rendang bukan hidangan yang boleh digesa. Ia dipujuk, bukan sekadar dimasak,

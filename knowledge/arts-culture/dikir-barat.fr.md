@@ -19,7 +19,7 @@ keyTakeaways:
   - "La forme artistique est liée à une tradition de dikir du sud de la Thaïlande qui fut adaptée au Kelantan avec l'ajout du pantun et du dialecte kelantanais"
 appliesTo: "Toute personne souhaitant comprendre la forme scénique du Dikir Barat, les rôles du Tukang Karut et du Tok Juara, et la structure d'une troupe."
 lang: "fr"
-sourceContentHash: "8d1b65f59cb7dafe"
+sourceContentHash: "4d8a7c24ae26161c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,7 +70,7 @@ keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", 
 framework: history-culture
 ---
 
-Deux groupes sont assis jambes croisées, face à face sur la scène. Il n'y a pas de script. Lorsque le premier groupe termine une série de pantun satiriques sur la hausse des prix, le second groupe n'a que quelques secondes pour composer une réplique — qui doit rimer, doit tomber sur le temps et, idéalement, doit être plus mordante que le vers d'origine.
+Deux groupes sont assis jambes croisées, face à face sur la scène. Il n'y a pas de script. Lorsque le premier groupe termine une série de [pantun](/fr/arts-culture/pantun) satiriques sur la hausse des prix, le second groupe n'a que quelques secondes pour composer une réplique — qui doit rimer, doit tomber sur le temps et, idéalement, doit être plus mordante que le vers d'origine.
 
 C'est le moment que tout le monde attend dans le Dikir Barat : l'affrontement spontané entre deux Tukang Karut.
 

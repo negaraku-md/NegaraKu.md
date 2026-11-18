@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "学生、教师、公务员、新闻工作者，以及任何在护照、硬币、政府公函或官方建筑上见过 Jata Negara、并想了解每个元素含义的人。"
 
 lang: "zh"
-sourceContentHash: "d089f6e067d44f67"
+sourceContentHash: "cd7471ea89025ade"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ framework: explainer
 
 ## 格言：「Bersekutu Bertambah Mutu」
 
-将整个徽章串联起来的，是盾牌下方缎带上的格言：**BERSEKUTU BERTAMBAH MUTU**。它同时以两种文字书写——「左侧为罗马字，右侧为[爪夷文](/arts-culture/jawi-script)」。
+将整个徽章串联起来的，是盾牌下方缎带上的格言：**BERSEKUTU BERTAMBAH MUTU**。它同时以两种文字书写——「左侧为[罗马字](/zh/arts-culture/rumi-script)，右侧为[爪夷文](/arts-culture/jawi-script)」。
 
 这句格言概括了整个徽章背后的理念：那些联合起来的州属——马来联邦、马来属邦、海峡殖民地，以及后来加入的沙巴与砂拉越——共同组成一个价值大于各部分总和的联合体。盾牌上的每一把短剑、每一道色条、每一棵树，都是这个联邦中的一个成员；而这句格言，用寥寥数字道出了这个联合体的意义。
 
