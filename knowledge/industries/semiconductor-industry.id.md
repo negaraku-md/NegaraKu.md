@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ Jika Anda membaca ini di ponsel atau laptop, ada kemungkinan nyata bahwa salah s
 
 Malaysia sering digambarkan sebagai "negara chip," yang benar sekaligus sedikit menyesatkan. Negara ini memang pemain berat sejati dalam semikonduktor — tetapi secara dominan pada **back end** industri ini, yaitu perakitan, pengujian, dan pengemasan (ATP) chip yang wafer silikonnya difabrikasi di tempat lain. Memahami perbedaan itu adalah kunci untuk memahami baik kekuatan maupun ambisi Malaysia.
 
-Panduan ini menjelaskan apa yang sebenarnya dilakukan Malaysia dalam rantai pasok chip, di mana ia melakukannya, seberapa besar, dan apa yang ingin diubah oleh National Semiconductor Strategy.
+Panduan ini menjelaskan apa yang sebenarnya dilakukan Malaysia dalam rantai pasok chip, di mana ia melakukannya, seberapa besar, dan apa yang ingin diubah oleh [National Semiconductor Strategy](/id/industries/semiconductor-industry-national-strategy).
 
 ## Apa yang sebenarnya dilakukan Malaysia dalam rantai pasok chip?
 

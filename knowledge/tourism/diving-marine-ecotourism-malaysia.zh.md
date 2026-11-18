@@ -31,7 +31,7 @@ faq:
     a: "视地点而定。西马与纳闽的海洋公园属于联邦管辖，由马来西亚渔业局依据《1985年渔业法令》管理。沙巴的公园（包括诗巴丹）则由州级机构沙巴公园依据另外的州法管理。"
 
 lang: "zh"
-sourceContentHash: "b4330d885555b613"
+sourceContentHash: "d2d1f34db7ef0126"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ framework: rules
 
 马来西亚没有单一的"国家潜水当局"。管辖权按地理划分。
 
-**西马与纳闽（Labuan）**的海洋公园属于联邦管辖，由**马来西亚渔业局（Department of Fisheries Malaysia, DOF）**依据**《1985年渔业法令》（Fisheries Act 1985）**管理。渔业局将49座岛屿周边的海域宪报公告为海洋公园，分布于五个州及联邦直辖区纳闽，保护区自最低海平面向海延伸两海里（登嘉楼Terengganu和纳闽的部分岛屿为一海里）。
+**西马与纳闽（Labuan）**的海洋公园属于联邦管辖，由**[马来西亚渔业局](/zh/agriculture/department-of-fisheries-malaysia)（Department of Fisheries Malaysia, DOF）**依据**《1985年渔业法令》（Fisheries Act 1985）**管理。渔业局将49座岛屿周边的海域宪报公告为海洋公园，分布于五个州及联邦直辖区纳闽，保护区自最低海平面向海延伸两海里（登嘉楼Terengganu和纳闽的部分岛屿为一海里）。
 
 **沙巴（Sabah）**则不同。其岛屿——包括诗巴丹以及仙本那（Semporna）周边的珊瑚礁——归州级机构**沙巴公园（Sabah Parks）**管辖，后者制定自己的许可证与规则。对潜水者而言，这一区别并非纸上谈兵：你缴的费用、需要的许可证，以及必须通过谁来预订，全都取决于你身处地图的哪一侧。
 

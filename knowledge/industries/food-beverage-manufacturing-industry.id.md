@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana manufaktur makanan diatur di Malaysia?
     a: Keamanan dan pelabelan pangan diatur oleh Food Act 1983 dan aturan turunannya (seperti Food Regulations 1985 dan Food Hygiene Regulations 2009), yang dikelola oleh Kementerian Kesehatan. Klaim halal secara terpisah dikendalikan oleh Department of Islamic Development Malaysia (JAKIM), yang menerbitkan sertifikasi halal resmi.
 lang: id
-sourceContentHash: "391a7deab0b3d94e"
+sourceContentHash: "5dada9f392a41065"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -125,7 +125,7 @@ Industri ini bukan satu hal melainkan beberapa, masing-masing dengan ekonominya 
 
 - **Makanan olahan dan kemasan** — camilan, mi instan, biskuit, saus, bumbu, dan makanan siap saji. Ini segmen yang paling kasatmata dan rumah bagi banyak merek konsumen Malaysia yang paling dikenal.
 - **Kakao dan kembang gula** — salah satu spesialisasi Malaysia yang paling mencolok. Meski menanam kakao yang sangat sedikit saat ini, Malaysia adalah **penggiling kakao** yang besar, mengimpor biji dan mengolahnya menjadi mentega kakao, bubuk, pasta (liquor), dan cokelat industri. Penggilingan dilaporkan mencapai sekitar 90.849 ton pada kuartal kedua 2026 — kurang lebih 40% dari total Asia — setelah sekitar 370.000 ton untuk setahun-penuh 2023 ([Malay Mail](https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224)). Guan Chong Berhad dan Barry Callebaut sama-sama menjalankan operasi penggilingan besar di Johor.
-- **Minyak dan lemak goreng** — terkait erat dengan industri minyak sawit Malaysia, memproduksi minyak masak, lemak khusus, margarin, dan bahan pangan untuk penggunaan lokal maupun ekspor.
+- **Minyak dan lemak goreng** — terkait erat dengan [industri minyak sawit Malaysia](/id/industries/palm-oil-industry), memproduksi minyak masak, lemak khusus, margarin, dan bahan pangan untuk penggunaan lokal maupun ekspor.
 - **Minuman** — minuman ringan, air kemasan dan air mineral, kopi, teh, serta minuman energi atau herbal. Merek di sini mencakup 100Plus milik F&N, air kemasan Spritzer, dan minuman energi herbal Power Root.
 - **Akuakultur dan pengolahan hasil laut** — mengubah tangkapan laut dan budi daya Malaysia menjadi produk hasil laut beku, kalengan, dan bernilai tambah, dengan potensi ekspor yang signifikan.
 

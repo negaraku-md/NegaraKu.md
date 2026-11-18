@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Memancing dilarang di dalam sempadan taman laut, dan pengunjung tidak boleh mengutip mana-mana bahagian organisma marin — hidup atau mati — termasuk kepingan batu karang dan cangkerang, serta tidak boleh menyentuh, memijak atau merosakkan batu karang."
 
 lang: "ms"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ Perhentian, Redang, Kapas dan Tioman adalah empat pulau pantai yang dimaksudkan 
 
 ## Apa yang menjadikan pulau-pulau ini "taman laut," dan mengapa ia penting kepada anda?
 
-Zon perlindungan bukan sekadar pantai. Taman laut Malaysia menganjur **secara umumnya dua batu nautika dari paras laut terendah** di sekeliling setiap pulau yang diwartakan — dengan sempadan **satu batu nautika** bagi pulau-pulau Terengganu tertentu — dan ia diuruskan oleh **Jabatan Perikanan Malaysia** di bawah **Akta Perikanan 1985 (Pindaan 1993)**. Di seluruh negara, **49 pulau** diwartakan sebagai taman laut.
+Zon perlindungan bukan sekadar pantai. Taman laut Malaysia menganjur **secara umumnya dua batu nautika dari paras laut terendah** di sekeliling setiap pulau yang diwartakan — dengan sempadan **satu batu nautika** bagi pulau-pulau Terengganu tertentu — dan ia diuruskan oleh [**Jabatan Perikanan Malaysia**](/agriculture/department-of-fisheries-malaysia) di bawah **Akta Perikanan 1985 (Pindaan 1993)**. Di seluruh negara, **49 pulau** diwartakan sebagai taman laut.
 
 Di pantai timur, taman laut Terengganu meliputi empat kepulauan — **Pulau Redang, Pulau Perhentian, Pulau Kapas dan Pulau Tenggol** — manakala taman laut **Tioman** di Pahang ialah sekumpulan **sembilan pulau**: Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh dan Pulau Sembilang.
 

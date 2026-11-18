@@ -45,7 +45,7 @@ verificationNeeded:
   - "Halaman insentif ECERDC sendiri di ecerdc.com.my mengembalikan 404, jadi pernyataan terkini ECERDC mengenai jalur insentifnya sendiri tidak dapat diperoleh."
 
 lang: "id"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -161,7 +161,7 @@ Perhatikan juga bahwa istilah statutori bagi Iskandar adalah **"Iskandar Develop
 
 | Koridor | Sektor sasaran | Daya tarik sebenar |
 | --- | --- | --- |
-| NCER | Semikonduktor, elektrik dan elektronik, pertanian, pariwisata | Klaster Kulim, Batu Kawan dan Bayan Lepas — **aglomerasi, bukan kelayakan hukum**. Strategi Semikonduktor Negara tidak menyebut NCER sama sekali |
+| NCER | Semikonduktor, elektrik dan elektronik, pertanian, pariwisata | Klaster Kulim, Batu Kawan dan Bayan Lepas — **aglomerasi, bukan kelayakan hukum**. [Strategi Semikonduktor Negara](/id/industries/semiconductor-industry-national-strategy) tidak menyebut NCER sama sekali |
 | ECER | Petrokimia, manufaktur, pemrosesan agro, pariwisata, logistik | MCKIP, Pelabuhan Kuantan sebagai **Zona Perdagangan Bebas** yang diwartakan, dan ECRL |
 | Iskandar Malaysia | Jasa keuangan, logistik, pariwisata, perawatan kesehatan, pendidikan, kreatif | Kedekatan dengan Singapura, dan paket **JS-SEZ** yang tumpang tindih di atasnya |
 | SDC | Pertanian, hilir minyak sawit, pariwisata, logistik | Pelan Induk SDC 2.0, meliputi **2021 hingga 2030** |

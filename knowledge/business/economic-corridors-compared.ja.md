@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 
 status: "published"
 aiAssisted: true
@@ -156,7 +156,7 @@ Malaysia」は後年のブランド名であり、Act 664には一切登場し�
 
 | 回廊 | 目標分野 | 真の魅力 |
 | --- | --- | --- |
-| NCER | 半導体、電気電子、農業、観光 | クリム、バトゥ・カワン、バヤンレパスのクラスター——**集積効果であって、法的な権利ではない**。国家半導体戦略（National Semiconductor Strategy）はNCERに一切言及していない |
+| NCER | 半導体、電気電子、農業、観光 | クリム、バトゥ・カワン、バヤンレパスのクラスター——**集積効果であって、法的な権利ではない**。[国家半導体戦略（National Semiconductor Strategy）](/ja/industries/semiconductor-industry-national-strategy)はNCERに一切言及していない |
 | ECER | 石油化学、製造業、農産加工、観光、物流 | MCKIP、官報告示された**自由商業区**であるクアンタン港、そしてECRL |
 | イスカンダル・マレーシア | 金融サービス、物流、観光、医療、教育、クリエイティブ | シンガポールへの近接性、及びその上に重なる**JS-SEZ**パッケージ |
 | SDC | 農業、パーム油下流産業、観光、物流 | **2021年から2030年**をカバーするSDC Blueprint 2.0 |

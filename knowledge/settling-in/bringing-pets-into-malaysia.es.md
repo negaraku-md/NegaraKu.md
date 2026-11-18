@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que se traslade a Malasia con un perro o gato, o que traiga uno con cualquier otro fin, y que necesite planificar el proceso de permiso y cuarentena antes de la salida."
 
 lang: "es"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ stayFacts:
 
 Su vuelo está reservado, sus cajas están empacadas y, de repente, cae en la cuenta: ¿y el perro? En Malasia, una mascota no se limita a viajar en la bodega de carga: necesita un permiso que se aprueba antes de que despegue, un microchip que cumpla una norma ISO específica y, muy probablemente, una semana o más de cuarentena antes de que usted pueda recuperarla.
 
-Las reglas se reparten entre dos organismos. El Departamento de Servicios Veterinarios (DVS) —Jabatan Perkhidmatan Veterinar— redacta las condiciones de bioseguridad: edad, vacunación, certificación sanitaria, duración de la cuarentena. Los Servicios Malasios de Cuarentena e Inspección (MAQIS) son quienes realmente emiten el permiso de importación y gestionan las estaciones de cuarentena. En la práctica, usted trata sobre todo con MAQIS.
+Las reglas se reparten entre dos organismos. El [Departamento de Servicios Veterinarios](/es/agriculture/livestock-poultry-industry/) (DVS) —Jabatan Perkhidmatan Veterinar— redacta las condiciones de bioseguridad: edad, vacunación, certificación sanitaria, duración de la cuarentena. Los Servicios Malasios de Cuarentena e Inspección (MAQIS) son quienes realmente emiten el permiso de importación y gestionan las estaciones de cuarentena. En la práctica, usted trata sobre todo con MAQIS.
 
 ## Qué debe cumplirse antes de que el animal viaje
 

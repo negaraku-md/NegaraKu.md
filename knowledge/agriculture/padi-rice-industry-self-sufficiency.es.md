@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) posee el rol de único importador de arroz del país, un rol heredado de la Junta Nacional del Padi y el Arroz (LPN), que asumió las importaciones de arroz y se convirtió en el único importador en 1974 tras la crisis alimentaria mundial de 1973. BERNAS también gestiona el stock de reserva nacional de arroz y apoya a los molineros bumiputera. Fue privatizada el 12 de enero de 1996."
 
 lang: "es"
-sourceContentHash: "ed4546075e84eef3"
+sourceContentHash: "8f44d2a10fa14edb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Tres capas principales sostienen los ingresos de los agricultores:
 2. **El Subsidio al Precio del Padi.** El pago adicional por cada tonelada de padi vendida se elevó a **RM500 por tonelada** (desde RM360). Es un subsidio basado en la producción — cuanto más padi se vende, más asistencia se recibe.
 3. **Subsidios a los insumos.** El gobierno asignó **RM2.600 millones** en el Presupuesto 2024 para diversos subsidios e incentivos a los agricultores de padi y los pescadores, incluidos fertilizantes, pesticidas y costos de producción.
 
-Al final de la cadena se encuentra **BERNAS** (Padiberas Nasional Berhad). La empresa posee el rol de único importador de arroz del país — una responsabilidad heredada de la Junta Nacional del Padi y el Arroz (LPN), que asumió el rol de importación de arroz y se convirtió en el único importador en 1974 tras la crisis alimentaria mundial de 1973. A cambio, BERNAS asume obligaciones sociales como gestionar el stock de reserva nacional de arroz, comprar el padi de los agricultores al precio garantizado y apoyar a los molineros bumiputera. BERNAS fue privatizada el **12 de enero de 1996** y posteriormente cotizó en Bursa Malaysia.
+Al final de la cadena se encuentra **[BERNAS](/es/agriculture/bernas-rice-import-monopoly/)** (Padiberas Nasional Berhad). La empresa posee el rol de único importador de arroz del país — una responsabilidad heredada de la Junta Nacional del Padi y el Arroz (LPN), que asumió el rol de importación de arroz y se convirtió en el único importador en 1974 tras la crisis alimentaria mundial de 1973. A cambio, BERNAS asume obligaciones sociales como gestionar el stock de reserva nacional de arroz, comprar el padi de los agricultores al precio garantizado y apoyar a los molineros bumiputera. BERNAS fue privatizada el **12 de enero de 1996** y posteriormente cotizó en Bursa Malaysia.
 
 ## ¿Por qué es tan difícil alcanzar esta meta?
 

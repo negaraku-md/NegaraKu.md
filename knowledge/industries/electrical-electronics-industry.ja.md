@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "981590959ca6617e"
+sourceContentHash: "6d5304fd8585d336"
 
 status: "published"
 aiAssisted: true
@@ -140,7 +140,7 @@ Intelが進出した先には、他社も追随した。AMD、Hewlett-Packard、
 
 - **ペナン（バヤンレパスおよびバトゥ・カワン（Batu Kawan））：** 依然として中核——半導体、ATP、そして厚みのある受託製造基盤。InvestPenangによれば、Intel、AMD、Broadcom、Bosch、OSRAM、Motorola、Lumiledsが拠点を置くほか、Jabil、Flex、Plexus、Sanmina、Benchmark、Inari AmertronといったEMS（受託製造企業）も存在する。
 - **ケダ州クリム：** ペナンとの州境をまたいですぐの位置にあるクリム・ハイテクパーク（Kulim Hi-Tech Park）は、先進的な電子製造によって北部クラスターを拡張してきた——OSRAMのLEDチップ工場もその一つであり、2017年以降、同パーク内でLEDおよびmicroLED向けの本格的なウェハー製造を行っている。
-- **クランバレー（セランゴールおよびクアラルンプール）、マラッカ、ヌグリ・スンビラン：** 新産業マスタープラン2030（NIMP2030）が示す中部クラスターであり、シャーアラム工業地帯と南部の電子回廊からなる。同国の主要空港と金融中心地に近く、Sony、Panasonic、Samsung、Renesas、ON Semiconductorといった企業が拠点を置く。
+- **クランバレー（セランゴールおよびクアラルンプール）、マラッカ、ヌグリ・スンビラン：** [新産業マスタープラン2030](/ja/industries/new-industrial-master-plan-2030/)（NIMP2030）が示す中部クラスターであり、シャーアラム工業地帯と南部の電子回廊からなる。同国の主要空港と金融中心地に近く、Sony、Panasonic、Samsung、Renesas、ON Semiconductorといった企業が拠点を置く。
 - **ジョホール：** 隣接するシンガポールからの波及効果が南部で新たなデータセンターおよび電子産業投資を後押ししており、その重要性を増している。MIDAによれば、2024年最初の9か月間にジョホールバルはRM98億の承認済みE&E投資を集めた。
 
 北部回廊——ペナンとクリム——へのこの集中こそが、この地域が時に「マレーシアのシリコンバレー」と呼ばれる理由である。もっとも、この比喩はビジネスモデルよりもブランドイメージを持ち上げている面が強い。マレーシアの強みは、歴史的にチップ設計よりも製造と後工程サービスにあったからである。
@@ -171,7 +171,7 @@ Intelが進出した先には、他社も追随した。AMD、Hewlett-Packard、
 
 ## マレーシアはこれにどう対応しているのか？　国家半導体戦略
 
-これらの弱点に対する政府の答えが、2024年に発表された国家半導体戦略（NSS）である。その詳細は、2024年5月28日にクアラルンプールで開催されたSEMICON Southeast Asiaにおいて、アンワル・イブラヒム首相（Anwar Ibrahim）によって示された。
+これらの弱点に対する政府の答えが、2024年に発表された[国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy/)（NSS）である。その詳細は、2024年5月28日にクアラルンプールで開催されたSEMICON Southeast Asiaにおいて、アンワル・イブラヒム首相（Anwar Ibrahim）によって示された。
 
 NSSは本質的に、バリューチェーンを上へと登るための計画である——マレーシアの既存の製造基盤に、より多くの設計、先進パッケージング、ウェハー製造を加えることを目指す。MIDAによれば、その主な公約には以下が含まれる。
 

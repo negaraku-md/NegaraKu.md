@@ -31,7 +31,7 @@ faq:
   - q: "Vì sao nuôi trồng thủy sản quan trọng đối với an ninh lương thực của Malaysia?"
     a: "Cá là nguồn đạm động vật chính của Malaysia, và đánh bắt tự nhiên đã chững lại. Nuôi trồng thủy sản là đòn bẩy chính để nâng tỷ lệ tự túc cá quốc gia — khoảng 90,7% năm 2025 — và Chính sách Nông thực phẩm Quốc gia ưu tiên rõ ràng cá nuôi hơn cá đánh bắt để đáp ứng nhu cầu tương lai."
 lang: vi
-sourceContentHash: "fbf634717e2b17c5"
+sourceContentHash: "8e2067b1d42a9bd3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,7 +109,7 @@ Phần lớn cá trên bàn ăn tối của người Malaysia vẫn đến từ 
 
 ## Ngành nuôi trồng thủy sản của Malaysia lớn đến mức nào?
 
-Nuôi trồng thủy sản không còn là một hoạt động phụ. Cục Nghề cá Malaysia (DOF) báo cáo khoảng **492.680 tấn** sản lượng nuôi trồng thủy sản trị giá khoảng **RM3,9 tỷ** năm 2023, với sản lượng tăng lên khoảng **510.000 tấn** năm 2024. So với tổng sản lượng cá ăn được 1,79 triệu tấn năm 2023, sản lượng nuôi nay chiếm gần **30%** toàn bộ sản lượng thủy sản — và tỷ trọng đó được thiết kế để tăng.
+Nuôi trồng thủy sản không còn là một hoạt động phụ. [Cục Nghề cá Malaysia](/vi/agriculture/department-of-fisheries-malaysia/) (DOF) báo cáo khoảng **492.680 tấn** sản lượng nuôi trồng thủy sản trị giá khoảng **RM3,9 tỷ** năm 2023, với sản lượng tăng lên khoảng **510.000 tấn** năm 2024. So với tổng sản lượng cá ăn được 1,79 triệu tấn năm 2023, sản lượng nuôi nay chiếm gần **30%** toàn bộ sản lượng thủy sản — và tỷ trọng đó được thiết kế để tăng.
 
 Lô-gíc chiến lược rất đơn giản. Nghề cá đánh bắt bị giới hạn bởi những gì biển có thể cho một cách bền vững, và sản lượng đánh bắt của Malaysia về cơ bản đã đi ngang. Nuôi trồng thủy sản, ngược lại, có thể được mở rộng bằng đầu tư. Đó là lý do mục tiêu của chính phủ, theo Chính sách Nông thực phẩm Quốc gia, là chuyển cán cân sản lượng cá ăn được về phía nuôi — hướng theo thời gian tới **tỷ lệ nuôi trồng so với đánh bắt khoảng 60:40**, gần như đảo ngược cơ cấu lịch sử.
 

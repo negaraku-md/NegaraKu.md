@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana pemerintah mendukung industri kimia?
     a: Malaysian Investment Development Authority (MIDA), melalui Chemical and Advanced Material Division-nya, mengevaluasi lisensi manufaktur dan menawarkan insentif seperti Pioneer Status dan Investment Tax Allowance. Proyek minyak bumi dan petrokimia juga diatur di bawah Petroleum Development Act 1974. Chemical Industry Roadmap 2030 dan New Industrial Master Plan 2030 menetapkan arah strategis menuju kimia khusus yang bernilai lebih tinggi.
 lang: id
-sourceContentHash: "11eb5b1edb640b2d"
+sourceContentHash: "dd296a225bbc1577"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Zona-zona yang saling terhubung ini â€” terutama Pengerang, Kerteh, dan Gebeng â
 
 Investasi dan pemberian lisensi berjalan melalui [Malaysian Investment Development Authority (MIDA)](/id/government/mida/), yang **Chemical and Advanced Material Division**-nya mengevaluasi permohonan lisensi manufaktur dan mengelola insentif seperti Pioneer Status dan Investment Tax Allowance; aktivitas minyak bumi dan petrokimia juga berada di bawah **Petroleum Development Act 1974**. MIDA telah menggambarkan Malaysia sebagai tempat bagi lebih dari 100 perusahaan petrokimia yang membuat beragam produk.
 
-Arah kebijakan berasal dari dua dokumen. **New Industrial Master Plan 2030 (NIMP 2030)** adalah cetak biru transformasi industri nasional, dibangun di atas empat misi (meningkatkan kompleksitas ekonomi, digitalisasi, dorongan net-zero, dan keamanan ekonomi), dengan kimia diperlakukan sebagai segmen berdampak tinggi dan bertumbuh tinggi yang ditangani melalui serangkaian rencana aksi. **Chemical Industry Roadmap 2030** adalah pendamping spesifik-sektornya, yang menargetkan pangsa-PDB dan kenaikan nilai sebagaimana dicatat di atas serta memprioritaskan kimia khusus.
+Arah kebijakan berasal dari dua dokumen. **[New Industrial Master Plan 2030](/id/industries/new-industrial-master-plan-2030/) (NIMP 2030)** adalah cetak biru transformasi industri nasional, dibangun di atas empat misi (meningkatkan kompleksitas ekonomi, digitalisasi, dorongan net-zero, dan keamanan ekonomi), dengan kimia diperlakukan sebagai segmen berdampak tinggi dan bertumbuh tinggi yang ditangani melalui serangkaian rencana aksi. **Chemical Industry Roadmap 2030** adalah pendamping spesifik-sektornya, yang menargetkan pangsa-PDB dan kenaikan nilai sebagaimana dicatat di atas serta memprioritaskan kimia khusus.
 
 ## Prospek
 

@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "522e3a6274830936"
+sourceContentHash: "5d102a726d64965e"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -143,7 +143,7 @@ framework: profile
 国家介入的规模从已在案的具体数字中可见一斑：
 
 - 单在全国最大谷仓区 **MADA** 一地，政府已投入约 **RM10 亿**。
-- 持牌稻米进口商 **BERNAS** 提供 **RM32 亿** 以履行政府规定的十项社会义务。据农业及粮食安全部副部长曾敏凯（Chan Foong Hin），其中包括 2025 年 **RM9,000 万** 的农民援助，以及从稻米进口利润中分发的 **RM1,300 万**。
+- 持牌稻米进口商 **[BERNAS](/zh/agriculture/bernas-rice-import-monopoly/)** 提供 **RM32 亿** 以履行政府规定的十项社会义务。据农业及粮食安全部副部长曾敏凯（Chan Foong Hin），其中包括 2025 年 **RM9,000 万** 的农民援助，以及从稻米进口利润中分发的 **RM1,300 万**。
 
 在消费端，该体系也以可负担性为定价考量：部门一项为期六个月的研究发现，约 **15% 的马来西亚人**需要每袋 10 公斤约 **RM26** 的稻米，凸显了为何价格管控与农民扶持并列于同一政策之中。
 
@@ -157,7 +157,7 @@ framework: profile
 
 ## 马来西亚的自给率目标是什么？
 
-评判整个体系的数字是自给率，而政策将其设定得远高于当前现实。在涵盖 **2021–2030** 年的**《国家农粮政策 2.0》（Dasar Agromakanan Negara 2.0 / DAN 2.0）**下，马来西亚的目标为：
+评判整个体系的数字是自给率，而政策将其设定得远高于当前现实。在涵盖 **2021–2030** 年的**[《国家农粮政策 2.0》](/zh/agriculture/food-security-self-sufficiency-policy/)（Dasar Agromakanan Negara 2.0 / DAN 2.0）**下，马来西亚的目标为：
 
 | 里程碑 | 稻米自给率目标 |
 |---|---|

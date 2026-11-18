@@ -31,7 +31,7 @@ faq:
     a: "Tras dos aplazamientos, se aplica a los grandes y medianos operadores desde el 30 de diciembre de 2026, y a las microempresas y pequeñas empresas desde el 30 de junio de 2027. La fecha límite de deforestación es el 31 de diciembre de 2020."
 
 lang: "es"
-sourceContentHash: "8402e69b6d7b51cb"
+sourceContentHash: "630a55603b7f639f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -160,7 +160,7 @@ Malasia, el segundo mayor productor mundial de aceite de palma, ha tratado el ti
 
 Antes de la deforestación, la presión vino del trabajo. La Oficina de Aduanas y Protección Fronteriza de EE. UU. (CBP) utiliza las **Withhold Release Orders (WRO)** — prohibiciones de importación activadas por sospecha de trabajo forzoso — y dos de ellas golpearon a grandes productores malasios.
 
-La CBP emitió primero una WRO contra **FGV Holdings Berhad**, sus filiales y empresas conjuntas el **30 de septiembre de 2020**, por aceite de palma producido con trabajo forzoso. Tres meses después, el **30 de diciembre de 2020**, la CBP emitió una WRO contra **[Sime Darby](/companies/sime-darby-group) Plantation** — esta basada en información que indicaba razonablemente la presencia de **los 11 indicadores de trabajo forzoso de la Organización Internacional del Trabajo** en su proceso de producción. La CBP escaló la orden contra Sime Darby a un **Hallazgo formal el 28 de enero de 2022**, exponiendo los envíos a incautación. La empresa reformó sus prácticas laborales, y el **3 de febrero de 2023** la CBP concluyó que ya no usaba trabajo forzoso y levantó la orden — poco más de dos años después de que comenzara la prohibición.
+La CBP emitió primero una WRO contra **[FGV Holdings Berhad](/es/agriculture/fgv-holdings-plantation-restructuring)**, sus filiales y empresas conjuntas el **30 de septiembre de 2020**, por aceite de palma producido con trabajo forzoso. Tres meses después, el **30 de diciembre de 2020**, la CBP emitió una WRO contra **[Sime Darby](/companies/sime-darby-group) Plantation** — esta basada en información que indicaba razonablemente la presencia de **los 11 indicadores de trabajo forzoso de la Organización Internacional del Trabajo** en su proceso de producción. La CBP escaló la orden contra Sime Darby a un **Hallazgo formal el 28 de enero de 2022**, exponiendo los envíos a incautación. La empresa reformó sus prácticas laborales, y el **3 de febrero de 2023** la CBP concluyó que ya no usaba trabajo forzoso y levantó la orden — poco más de dos años después de que comenzara la prohibición.
 
 El caso mostró con qué rapidez una acusación laboral podía dejar a un productor fuera de un mercado importante, y empujó a la industria en general hacia registros auditables de bienestar de los trabajadores — exactamente el terreno que reforzó la MS 2530:2022.
 

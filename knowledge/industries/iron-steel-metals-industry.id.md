@@ -31,7 +31,7 @@ faq:
   - q: Apakah Malaysia kuat dalam logam selain baja?
     a: Ya. Dalam logam nonfero, Malaysia kompetitif secara global. Press Metal, berbasis di Sarawak, adalah produsen aluminium terintegrasi terbesar di Asia Tenggara, dan Malaysia Smelting Corporation termasuk produsen timah olahan terkemuka dunia, warisan dari sejarah panjang penambangan timah negara ini.
 lang: id
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -151,7 +151,7 @@ Jauh dari baja, Malaysia jauh lebih kompetitif. Dalam **aluminium**, **Press Met
 
 ## Kebijakan dan prospek
 
-Respons pemerintah terhadap kelebihan kapasitas baja memiliki dua cabang. Pertama, sebuah **moratorium**: sejak Agustus 2023, MITI membekukan lisensi manufaktur besi dan baja baru serta perluasan, bertujuan agar pabrik yang ada mengangkat utilisasi menuju sekitar 80% sebelum mengizinkan kapasitas segar; pembekuan itu **diperpanjang pada Februari 2025**, mencakup segmen baja panjang dan pipih hulu serta membatasi perluasan besar. Kedua, dorongan pada **tata kelola dan dekarbonisasi** — pengawasan lisensi yang lebih ketat dan prospek penetapan harga karbon bagi pabrik yang intensif emisi, selaras dengan New Industrial Master Plan 2030. [Malaysian Investment Development Authority (MIDA)](/id/government/mida/) menangani kebijakan investasi, sementara perizinan dan moratorium berada di [MITI](/id/government/miti/).
+Respons pemerintah terhadap kelebihan kapasitas baja memiliki dua cabang. Pertama, sebuah **moratorium**: sejak Agustus 2023, MITI membekukan lisensi manufaktur besi dan baja baru serta perluasan, bertujuan agar pabrik yang ada mengangkat utilisasi menuju sekitar 80% sebelum mengizinkan kapasitas segar; pembekuan itu **diperpanjang pada Februari 2025**, mencakup segmen baja panjang dan pipih hulu serta membatasi perluasan besar. Kedua, dorongan pada **tata kelola dan dekarbonisasi** — pengawasan lisensi yang lebih ketat dan prospek penetapan harga karbon bagi pabrik yang intensif emisi, selaras dengan [New Industrial Master Plan 2030](/id/industries/new-industrial-master-plan-2030/). [Malaysian Investment Development Authority (MIDA)](/id/government/mida/) menangani kebijakan investasi, sementara perizinan dan moratorium berada di [MITI](/id/government/miti/).
 
 Prospeknya bercampur. Nasib baja jangka pendek bergantung pada permintaan konstruksi (termasuk ledakan pusat data), pada seberapa tegas impor dikendalikan, dan pada apakah konsolidasi akhirnya merasionalisasi kapasitas surplus. Dekarbonisasi dan kemungkinan pajak karbon menambah biaya sekaligus peluang. Logam nonfero, sebaliknya, tampak lebih sehat secara struktural. Benang merahnya jelas: Malaysia dapat membuat logam yang dibutuhkan kawasan ini, tetapi sektor bajanya harus lebih dulu memecahkan masalah buatannya sendiri — kapasitas terlalu banyak untuk permintaan terlalu sedikit.
 

@@ -22,7 +22,7 @@ appliesTo: "マレーシアの産業統計を正確に読み解こうとする�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 
 status: "published"
 aiAssisted: true
@@ -177,7 +177,7 @@ DOSMの四半期雇用調査は、2025年第4四半期に**254万人の製造業
 
 DOSMによれば、一人当たりGNIは2025年にRM57,200に達し、2024年のRM54,870から上昇した。5年でRM77,200に到達するまでの差こそ、この政策課題のすべてを一文で言い表したものである。
 
-同計画で名指しされている政策手段は、新産業マスタープラン2030（NIMP 2030）、国家半導体戦略、そして[国家エネルギー転換ロードマップ](/energy/national-energy-transition-roadmap-netr)である。製造業の目標が何を意味するかに注目したい：経済全体が4.5-5.5%で成長する中で製造業が5.8%で成長するためには、そのGDP構成比は再び上昇し始めなければならない。足踏みの終わりは予測ではなく、目標なのである。
+同計画で名指しされている政策手段は、[新産業マスタープラン2030](/ja/industries/new-industrial-master-plan-2030)（NIMP 2030）、[国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy)、そして[国家エネルギー転換ロードマップ](/energy/national-energy-transition-roadmap-netr)である。製造業の目標が何を意味するかに注目したい：経済全体が4.5-5.5%で成長する中で製造業が5.8%で成長するためには、そのGDP構成比は再び上昇し始めなければならない。足踏みの終わりは予測ではなく、目標なのである。
 
 ## よくある誤り
 

@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "981590959ca6617e"
+sourceContentHash: "6d5304fd8585d336"
 
 status: "published"
 aiAssisted: true
@@ -141,7 +141,7 @@ Pulau Pinang ialah kisah asal usul, tetapi ia bukan lagi keseluruhan peta. Sepan
 
 - **Pulau Pinang (Bayan Lepas dan Batu Kawan):** Masih menjadi teras — semikonduktor, ATP, dan asas pembuatan kontrak yang mendalam. Menempatkan Intel, AMD, Broadcom, Bosch, OSRAM, Motorola dan Lumileds, serta pemain EMS seperti Jabil, Flex, Plexus, Sanmina, Benchmark dan Inari Amertron, menurut InvestPenang.
 - **Kulim, Kedah:** Kulim Hi-Tech Park, hanya di seberang sempadan negeri dari Pulau Pinang, memperluas kelompok utara dengan pembuatan elektronik termaju — termasuk kilang cip LED OSRAM, yang sejak 2017 menjalankan fabrikasi wafer sebenar untuk LED dan microLED di taman itu.
-- **Lembah Klang (Selangor dan Kuala Lumpur), Melaka dan Negeri Sembilan:** Kelompok Tengah yang dipetakan oleh Pelan Induk Perindustrian Baharu 2030 — kawasan perindustrian Shah Alam dan koridor elektronik selatan, lebih hampir dengan lapangan terbang utama negara dan pusat kewangan, menempatkan firma seperti Sony, Panasonic, Samsung, Renesas dan ON Semiconductor.
+- **Lembah Klang (Selangor dan Kuala Lumpur), Melaka dan Negeri Sembilan:** Kelompok Tengah yang dipetakan oleh [Pelan Induk Perindustrian Baharu 2030](/industries/new-industrial-master-plan-2030/) — kawasan perindustrian Shah Alam dan koridor elektronik selatan, lebih hampir dengan lapangan terbang utama negara dan pusat kewangan, menempatkan firma seperti Sony, Panasonic, Samsung, Renesas dan ON Semiconductor.
 - **Johor:** Semakin relevan apabila limpahan daripada jiran Singapura memacu pelaburan pusat data dan elektronik baharu di selatan; Johor Bahru menarik pelaburan E&E diluluskan bernilai RM9.8 bilion dalam sembilan bulan pertama 2024, menurut MIDA.
 
 Kepekatan di koridor utara — Pulau Pinang serta Kulim — ialah sebab rantau itu kadangkala digelar "Silicon Valley" Malaysia, walaupun perbandingan itu lebih menyanjung penjenamaan berbanding model perniagaannya: kekuatan Malaysia dari segi sejarah adalah dalam pembuatan dan perkhidmatan bahagian belakang, bukan reka bentuk cip.
@@ -172,7 +172,7 @@ Sektor yang sedominan ini membawa kelemahan sebenar, dan penggubal dasar Malaysi
 
 ## Apa yang Malaysia lakukan mengenainya? Strategi Semikonduktor Kebangsaan
 
-Jawapan kerajaan kepada kelemahan ini ialah Strategi Semikonduktor Kebangsaan (NSS), yang dizahirkan pada 2024, dengan butiran dibentangkan oleh Perdana Menteri Anwar Ibrahim di SEMICON Southeast Asia di Kuala Lumpur pada 28 Mei 2024.
+Jawapan kerajaan kepada kelemahan ini ialah [Strategi Semikonduktor Kebangsaan](/industries/semiconductor-industry-national-strategy/) (NSS), yang dizahirkan pada 2024, dengan butiran dibentangkan oleh Perdana Menteri Anwar Ibrahim di SEMICON Southeast Asia di Kuala Lumpur pada 28 Mei 2024.
 
 NSS pada dasarnya ialah rancangan untuk mendaki rantaian nilai — untuk menambah lebih banyak reka bentuk, pembungkusan termaju dan fabrikasi wafer kepada asas pembuatan sedia ada Malaysia. Menurut MIDA, komitmen utamanya termasuk:
 

@@ -31,7 +31,7 @@ verificationNeeded:
   - "Judul singkat Bahasa Inggris yang digunakan oleh JAKIM dan Pendaftar Pertubuhan — keduanya tidak terdapat pada situs web instansi masing-masing"
 
 lang: "id"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -154,7 +154,7 @@ yang sama sekali berbeda.
 
 | Regulator | Statuta yang mengatur | Apa yang dikeluarkan | Situs web |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Pendaftaran kontraktor, akreditasi personel | cidb.gov.my |
+| [CIDB](/id/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Pendaftaran kontraktor, akreditasi personel | cidb.gov.my |
 | Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — kata "and Property Managers" ditambahkan oleh Act A1550, berlaku 2 Januari 2018 | Pendaftaran dan sertifikat praktik | lpeph.gov.my |
 | Pemerintah daerah | Town and Country Planning Act 1976 (Act 172) | Izin perencanaan dan perubahan penggunaan | — |
 | Pemerintah daerah | Street, Drainage and Building Act 1974 (Act 133) | Persetujuan rencana bangunan, sertifikat selesai dan kepatuhan | — |

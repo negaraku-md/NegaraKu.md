@@ -36,7 +36,7 @@ faq:
     a: "Premis makanan diatur di bawah Peraturan-Peraturan Kebersihan Makanan 2009. Konsumen dianjurkan memilih gerai bergred A atau B, yang menyediakan makanan panas dan segar, serta memeriksa label gred yang biasanya dipajang."
 
 lang: "id"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Ketiga pasar ini sering dicampuradukkan, tetapi masing-masing menjalankan fungsi
 
 **Pasar malam** adalah pasar bergerak yang muncul pada sore hingga malam, biasanya pada hari tertentu setiap minggu di kawasan yang sama. Ia menjual segalanya — makanan siap santap, buah-buahan, sayur, pakaian, hingga barang rumah tangga. Bagi kebanyakan orang, pasar malam adalah tempat makan malam yang murah dan meriah, bukan sekadar membeli bahan mentah.
 
-**Pasar tani** adalah program resmi di bawah FAMA (Lembaga Pemasaran Pertanian Persekutuan). Konsepnya adalah "tempat pertemuan produsen dan konsumen" — petani dan pengusaha kecil menjual hasil tani langsung kepada pembeli tanpa melalui perantara. Ia biasanya diadakan pada pagi hingga siang hari.
+**Pasar tani** adalah program resmi di bawah [FAMA](/id/agriculture/fama-agricultural-marketing-authority/) (Lembaga Pemasaran Pertanian Persekutuan). Konsepnya adalah "tempat pertemuan produsen dan konsumen" — petani dan pengusaha kecil menjual hasil tani langsung kepada pembeli tanpa melalui perantara. Ia biasanya diadakan pada pagi hingga siang hari.
 
 **Pasar basah** adalah pasar tetap yang beroperasi sejak subuh, menjual daging, ikan, ayam, dan sayur segar. Namanya berasal dari lantai yang selalu basah karena es dan air pencuci hasil laut. Pasar basah adalah nadi dapur rumah tangga dan pengusaha restoran yang menginginkan bahan segar setiap hari.
 

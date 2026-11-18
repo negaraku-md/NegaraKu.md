@@ -29,7 +29,7 @@ faq:
     a: "Malaysia's halal product exports reached RM61.79 billion in 2024, up 15% from RM53.72 billion in 2023 (MITI). For the January–September 2024 period, exports were valued at RM45.04 billion compared with RM39.36 billion in the same period in 2023 (MITI/MIDA)."
 
 lang: "en"
-sourceContentHash: "1b16a223e725d8d1"
+sourceContentHash: "df3f9fe9e6326bd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ According to a Ministry of Finance reference, about **13.5%** of the RM36.3 bill
 
 ## What is the role of HDC and the global halal hub strategy?
 
-Beyond certification, Malaysia is building a halal development ecosystem. The **Halal Development Corporation (HDC)**, an agency under the umbrella of the Ministry of Investment, Trade and Industry (MITI), plays a role in coordinating the development of halal parks, training and industry promotion — while the mandate to issue certificates remains with JAKIM. A Ministry of Finance reference records cumulative investment in halal parks of **RM16.1 billion since 2011**, with 295 companies operating across 21 halal parks.
+Beyond certification, Malaysia is building a halal development ecosystem. The **[Halal Development Corporation (HDC)](/en/industries/halal-industry-economy)**, an agency under the umbrella of the Ministry of Investment, Trade and Industry (MITI), plays a role in coordinating the development of halal parks, training and industry promotion — while the mandate to issue certificates remains with JAKIM. A Ministry of Finance reference records cumulative investment in halal parks of **RM16.1 billion since 2011**, with 295 companies operating across 21 halal parks.
 
 The long-term aspiration is guided by the Halal Industry Master Plan (HIMP) 2030, which sets growth targets to expand Malaysia's participation in the global halal market. Under the **Thirteenth Malaysia Plan (RMK-13)**, tabled on 31 July 2025, the government targets halal exports of **RM80 billion** and a **11%** contribution to GDP. Among the measures announced are the establishment of **a halal commission** as well as the development of new halal industrial parks in Melaka, Perak and Kelantan.
 

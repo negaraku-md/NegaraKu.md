@@ -34,7 +34,7 @@ faq:
     a: "Jabatan Perangkaan Malaysia (DOSM) menerbitkan statistik manufaktur bulanan dan tahunan serta data PDB. Lembaga Pembangunan Pelaburan Malaysia (MIDA) mempromosikan dan menyetujui investasi manufaktur, sementara Kementerian Pelaburan, Perdagangan dan Industri (MITI) memiliki NIMP 2030."
 
 lang: "id"
-sourceContentHash: "00a67f4ef7e6555a"
+sourceContentHash: "479d1b3f589a9b53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ Dua bidang menonjol di mana Malaysia melampaui ukurannya, dan tak satu pun darin
 
 ## Bagaimana pemerintah mencoba menaikkannya dalam rantai nilai?
 
-Jawabannya adalah **Rencana Induk Perindustrian Baru 2030 (NIMP 2030)**, yang diluncurkan pada 1 September 2023. Alih-alih memilih pemenang yang sempit, ia mengambil pendekatan "berbasis misi" yang dibangun sekitar empat misi:
+Jawabannya adalah **[Rencana Induk Perindustrian Baru 2030](/id/industries/new-industrial-master-plan-2030/) (NIMP 2030)**, yang diluncurkan pada 1 September 2023. Alih-alih memilih pemenang yang sempit, ia mengambil pendekatan "berbasis misi" yang dibangun sekitar empat misi:
 
 1. Memajukan kompleksitas ekonomi
 2. Meningkatkan teknologi untuk negara yang bertenaga secara digital

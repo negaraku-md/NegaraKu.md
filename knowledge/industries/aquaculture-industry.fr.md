@@ -31,7 +31,7 @@ faq:
   - q: "Pourquoi l'aquaculture est-elle importante pour la sécurité alimentaire de la Malaisie ?"
     a: "Le poisson est la principale source de protéines animales de la Malaisie, et la capture sauvage a plafonné. L'aquaculture est le principal levier pour relever le ratio national d'autosuffisance en poisson — environ 90,7 % en 2025 — et la Politique nationale agroalimentaire favorise explicitement le poisson d'élevage par rapport au poisson capturé pour répondre à la demande future."
 lang: fr
-sourceContentHash: "fbf634717e2b17c5"
+sourceContentHash: "8e2067b1d42a9bd3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,7 +109,7 @@ La plupart du poisson dans l'assiette d'un dîner malaisien vient encore de la m
 
 ## Quelle est l'ampleur de l'industrie aquacole de la Malaisie ?
 
-L'aquaculture n'est plus une activité secondaire. Le Département des pêches de Malaisie (DOF) a rapporté environ **492 680 tonnes** de production aquacole d'une valeur d'environ **3,9 milliards RM** en 2023, la production grimpant à environ **510 000 tonnes** en 2024. Rapportée à une production totale de poisson comestible de 1,79 million de tonnes en 2023, la production d'élevage représente désormais près de **30 %** de toute la production halieutique — et cette part est conçue pour croître.
+L'aquaculture n'est plus une activité secondaire. Le [Département des pêches de Malaisie](/fr/agriculture/department-of-fisheries-malaysia/) (DOF) a rapporté environ **492 680 tonnes** de production aquacole d'une valeur d'environ **3,9 milliards RM** en 2023, la production grimpant à environ **510 000 tonnes** en 2024. Rapportée à une production totale de poisson comestible de 1,79 million de tonnes en 2023, la production d'élevage représente désormais près de **30 %** de toute la production halieutique — et cette part est conçue pour croître.
 
 La logique stratégique est simple. Les pêches de capture sont limitées par ce que la mer peut produire durablement, et la capture de la Malaisie s'est globalement aplatie. L'aquaculture, en revanche, peut être développée avec de l'investissement. C'est pourquoi l'objectif du gouvernement, au titre de la Politique nationale agroalimentaire, est de déplacer l'équilibre de la production de poisson comestible vers l'élevage — visant au fil du temps un **ratio aquaculture/capture d'environ 60:40**, soit une quasi-inversion du mélange historique.
 

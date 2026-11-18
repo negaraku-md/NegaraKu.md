@@ -27,7 +27,7 @@ faq:
   - q: "¿De dónde proviene el arroz importado de Malasia?"
     a: "El grueso de las importaciones proviene de Vietnam, Tailandia, Pakistán, India y Myanmar, según BERNAS."
 lang: "es"
-sourceContentHash: "522e3a6274830936"
+sourceContentHash: "5d102a726d64965e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -143,7 +143,7 @@ Cultivar padi en Malasia se mantiene viable gracias al apoyo gubernamental más 
 La escala de la participación estatal se percibe en las cifras concretas que constan en el registro:
 
 - El gobierno ha gastado alrededor de **RM1.000 millones** solo en la zona de **MADA**, la mayor zona granera del país.
-- **BERNAS**, el importador de arroz autorizado, aporta **RM3.200 millones** para cumplir diez obligaciones sociales impuestas por el gobierno. Estas incluyen **RM90 millones** en asistencia a los agricultores en 2025 y **RM13 millones** distribuidos de los beneficios de la importación de arroz, según el viceministro de Agricultura y Seguridad Alimentaria, Chan Foong Hin.
+- **[BERNAS](/es/agriculture/bernas-rice-import-monopoly/)**, el importador de arroz autorizado, aporta **RM3.200 millones** para cumplir diez obligaciones sociales impuestas por el gobierno. Estas incluyen **RM90 millones** en asistencia a los agricultores en 2025 y **RM13 millones** distribuidos de los beneficios de la importación de arroz, según el viceministro de Agricultura y Seguridad Alimentaria, Chan Foong Hin.
 
 El sistema también se fija con la asequibilidad en mente en el extremo del consumidor: un estudio ministerial de seis meses determinó que alrededor del **15% de los malasios** necesitan arroz a un precio de unos **RM26 por una bolsa de 10 kg**, lo que subraya por qué el control de precios se sitúa junto al apoyo a los agricultores dentro de la misma política.
 
@@ -157,7 +157,7 @@ Ese modelo de importador único no es permanente. La concesión **expira en 2031
 
 ## ¿Cuáles son las metas de autosuficiencia de Malasia?
 
-La cifra que juzga a todo el sistema es el nivel de autosuficiencia, y la política lo fija muy por encima de la realidad actual. En el marco de la **Política Nacional Agroalimentaria 2.0 (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, que abarca **2021–2030**, Malasia tiene como meta:
+La cifra que juzga a todo el sistema es el nivel de autosuficiencia, y la política lo fija muy por encima de la realidad actual. En el marco de la **[Política Nacional Agroalimentaria 2.0](/es/agriculture/food-security-self-sufficiency-policy/) (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, que abarca **2021–2030**, Malasia tiene como meta:
 
 | Hito | Meta de autosuficiencia arrocera |
 |---|---|

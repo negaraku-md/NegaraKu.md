@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "522e3a6274830936"
+sourceContentHash: "5d102a726d64965e"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -143,7 +143,7 @@ Menanam padi di Malaysia dikekalkan berdaya maju oleh sokongan kerajaan dan buka
 Skala penglibatan negara kelihatan dalam angka konkrit yang tercatat dalam rekod:
 
 - Kerajaan telah membelanjakan kira-kira **RM1 bilion** di kawasan **MADA** sahaja, jelapang terbesar negara.
-- **BERNAS**, pengimport beras berlesen, menyediakan **RM3.2 bilion** untuk memenuhi sepuluh tanggungjawab sosial yang dikenakan kerajaan. Ini termasuk **RM90 juta** dalam bantuan petani pada 2025 dan **RM13 juta** yang diagihkan daripada keuntungan import beras, menurut Timbalan Menteri Pertanian dan Keterjaminan Makanan Chan Foong Hin.
+- **[BERNAS](/agriculture/bernas-rice-import-monopoly/)**, pengimport beras berlesen, menyediakan **RM3.2 bilion** untuk memenuhi sepuluh tanggungjawab sosial yang dikenakan kerajaan. Ini termasuk **RM90 juta** dalam bantuan petani pada 2025 dan **RM13 juta** yang diagihkan daripada keuntungan import beras, menurut Timbalan Menteri Pertanian dan Keterjaminan Makanan Chan Foong Hin.
 
 Sistem ini juga ditetapkan harganya dengan mengambil kira kemampuan di hujung pengguna: satu kajian kementerian selama enam bulan mendapati bahawa kira-kira **15% rakyat Malaysia** memerlukan beras berharga sekitar **RM26 untuk sebeg 10kg**, menekankan mengapa kawalan harga terletak bersama sokongan petani dalam dasar yang sama.
 
@@ -157,7 +157,7 @@ Model pengimport tunggal itu tidak kekal. Konsesi itu **tamat pada tahun 2031**,
 
 ## Apakah sasaran sara diri Malaysia?
 
-Angka yang menilai keseluruhan sistem ialah tahap sara diri, dan dasar menetapkannya jauh di atas realiti hari ini. Di bawah **Dasar Agromakanan Negara 2.0 (DAN 2.0)**, yang meliputi **2021–2030**, Malaysia menyasarkan:
+Angka yang menilai keseluruhan sistem ialah tahap sara diri, dan dasar menetapkannya jauh di atas realiti hari ini. Di bawah **[Dasar Agromakanan Negara 2.0](/agriculture/food-security-self-sufficiency-policy/) (DAN 2.0)**, yang meliputi **2021–2030**, Malaysia menyasarkan:
 
 | Peristiwa penanda | Sasaran sara diri beras |
 |---|---|

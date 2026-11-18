@@ -45,7 +45,7 @@ verificationNeeded:
   - "Le chiffre largement diffusé de RM435 milliards d'exportations de Penang, soit 31 pour cent du national, n'a pu être rattaché à aucune page officielle. (The widely circulated figure of RM435 billion of Penang exports, or 31 per cent of national, could not be tied to any official page.)"
 
 lang: "fr"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -298,7 +298,7 @@ partir du **1 mars 2026**. Les approbations existantes ne sont pas affectées, m
 plan qui dit encore *demander le Statut de pionnier dans la FIZ* planifie contre une
 fenêtre close.
 
-La **Stratégie nationale des semi-conducteurs** du MITI, du 28 mai 2024, fait le même
+La **[Stratégie nationale des semi-conducteurs](/fr/industries/semiconductor-industry-national-strategy)** du MITI, du 28 mai 2024, fait le même
 constat : elle mentionne Bayan Lepas une seule fois, de façon descriptive, et
 n'alloue rien géographiquement. La profondeur du cluster en assemblage, test et
 conditionnement est l'atout. La désignation est de la tuyauterie.

@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ Si vous lisez ceci sur un téléphone ou un ordinateur portable, il y a de réel
 
 On décrit souvent la Malaisie comme une « nation de la puce », ce qui est à la fois vrai et légèrement trompeur. Le pays est un véritable poids lourd des semi-conducteurs — mais massivement dans l'**aval** de l'industrie, l'assemblage, le test et l'encapsulation (ATP) de puces dont les tranches de silicium sont fabriquées ailleurs. Comprendre cette distinction est la clé pour comprendre à la fois la force et l'ambition de la Malaisie.
 
-Ce guide explique ce que fait réellement la Malaisie dans la chaîne d'approvisionnement des puces, où elle le fait, quelle en est la taille, et ce que la Stratégie nationale des semi-conducteurs cherche à changer.
+Ce guide explique ce que fait réellement la Malaisie dans la chaîne d'approvisionnement des puces, où elle le fait, quelle en est la taille, et ce que la [Stratégie nationale des semi-conducteurs](/fr/industries/semiconductor-industry-national-strategy) cherche à changer.
 
 ## Que fait réellement la Malaisie dans la chaîne d'approvisionnement des puces ?
 

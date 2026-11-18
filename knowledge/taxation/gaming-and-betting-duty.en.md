@@ -29,7 +29,7 @@ faq:
     a: "On a RM2 Sports Toto bet, 8% (16 sen) is deducted as gaming tax and a further 8% (14.72 sen) as pool betting duty; about 55% (RM1.10) is allocated as prize money."
 
 lang: "en"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Take a simple example — a Sports Toto bet worth **RM2**:
 - **Prizes** — about 55% (RM1.10) is allocated as prize money to winners.
 - **SST** — about 4.39 sen borne by the industry.
 
-In addition, the NFO industry contributes **10% of pre-tax profit** to the National Sports Council, and is still subject to the 24% corporate tax (the standard rate for resident companies) like any other company.
+In addition, the NFO industry contributes **10% of pre-tax profit** to the [National Sports Council](/en/sports/national-sports-council-msn), and is still subject to the 24% corporate tax (the standard rate for resident companies) like any other company.
 
 That means that before an operator counts its operating costs and profit, a large part of every bet has already flowed to the government and the national sports fund.
 

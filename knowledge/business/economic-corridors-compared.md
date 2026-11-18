@@ -157,7 +157,7 @@ Malaysia" is later branding and appears nowhere in Act 664.
 
 | Corridor | Target sectors | The real draw |
 | --- | --- | --- |
-| NCER | Semiconductors, electrical and electronics, agriculture, tourism | The Kulim, Batu Kawan and Bayan Lepas cluster — **agglomeration, not legal entitlement**. The National Semiconductor Strategy mentions NCER nowhere |
+| NCER | Semiconductors, electrical and electronics, agriculture, tourism | The Kulim, Batu Kawan and Bayan Lepas cluster — **agglomeration, not legal entitlement**. The [National Semiconductor Strategy](/industries/semiconductor-industry-national-strategy) mentions NCER nowhere |
 | ECER | Petrochemicals, manufacturing, agri-processing, tourism, logistics | MCKIP, Kuantan Port as a gazetted **Free Commercial Zone**, and the ECRL |
 | Iskandar Malaysia | Financial services, logistics, tourism, healthcare, education, creative | Proximity to Singapore, and the overlaying **JS-SEZ** package |
 | SDC | Agriculture, palm oil downstream, tourism, logistics | SDC Blueprint 2.0, covering **2021 to 2030** |

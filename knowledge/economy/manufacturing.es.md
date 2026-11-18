@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Inversores, buscadores de empleo, analistas de políticas y estudiantes que intentan leer con precisión las estadísticas industriales de Malasia."
 
 lang: "es"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -230,8 +230,8 @@ Plan de Malasia (2026-2030) fija como meta:
 El DOSM informa que el INB per cápita alcanzó RM57,200 en 2025, frente a RM54,870 en 2024.
 La distancia hasta RM77,200 en cinco años es todo el problema de política en una línea.
 
-Los instrumentos nombrados en el Plan son el Nuevo Plan Maestro Industrial 2030, la
-Estrategia Nacional de Semiconductores y la [Hoja de ruta nacional de transición energética](/energy/national-energy-transition-roadmap-netr). Fíjese en
+Los instrumentos nombrados en el Plan son el [Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030), la
+[Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy) y la [Hoja de ruta nacional de transición energética](/energy/national-energy-transition-roadmap-netr). Fíjese en
 lo que implica la meta manufacturera: para que la manufactura crezca al 5.8% mientras
 la economía crece al 4.5-5.5%, su cuota del PIB tiene que empezar a subir de nuevo. El
 final de la meseta no es un pronóstico — es una meta.

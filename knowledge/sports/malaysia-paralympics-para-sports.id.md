@@ -32,7 +32,7 @@ faq:
     a: "Di antara yang paling menonjol adalah Cheah Liek Hou (bulu tangkis SU5, emas Tokyo 2020 dan Paris 2024), Bonnie Bunyau Gustin (angkat berat, emas Tokyo 2020 dan Paris 2024) dan Abdul Latif Romly (lompat jauh T20, emas Rio 2016 dan Tokyo 2020)."
 
 lang: "id"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ Nama dan status badan ini kemudian berubah beberapa kali:
 
 Ini kekeliruan yang umum. **Majelis Olimpik Malaysia (OCM)** adalah Komite Olimpiade Nasional negara — ia mengurus keikutsertaan atlet ke Olimpiade, Commonwealth Games, Asian Games dan SEA Games. **PCM adalah badan yang benar-benar terpisah** yang mengurus jalur Paralimpik: Paralimpiade, Asian Para Games dan ASEAN Para Games.
 
-Keduanya adalah organisasi yang berbeda, dengan kepemimpinan, keanggotaan dan afiliasi internasional masing-masing. OCM berafiliasi dengan Komite Olimpiade Internasional (IOC); PCM berafiliasi dengan IPC. Persamaan mereka adalah keduanya beroperasi dalam kerangka **Sports Development Act 1997** dan bekerja sama dengan Kementerian Belia dan Sukan serta Majlis Sukan Negara dalam pembinaan atlet.
+Keduanya adalah organisasi yang berbeda, dengan kepemimpinan, keanggotaan dan afiliasi internasional masing-masing. OCM berafiliasi dengan Komite Olimpiade Internasional (IOC); PCM berafiliasi dengan IPC. Persamaan mereka adalah keduanya beroperasi dalam kerangka **Sports Development Act 1997** dan bekerja sama dengan Kementerian Belia dan Sukan serta [Majlis Sukan Negara](/id/sports/national-sports-council-msn) dalam pembinaan atlet.
 
 PCM juga bukan sekadar pengirim kontingen. Menurut situs resminya, ia telah menyelenggarakan **ASEAN Para Games perdana pada 2001**, dan sekali lagi pada **2009** dan **2017**. Dari segi kepemimpinan, Dato' Sri Megat D. Shahriman adalah Presiden PCM yang terpilih pada Desember 2019 dan terpilih kembali pada Desember 2024.
 

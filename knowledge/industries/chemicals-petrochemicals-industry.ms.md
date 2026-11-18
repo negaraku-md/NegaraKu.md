@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana kerajaan menyokong industri kimia?
     a: Lembaga Pembangunan Pelaburan Malaysia (MIDA), melalui Bahagian Kimia dan Bahan Termaju, menilai permohonan lesen pembuatan dan menawarkan insentif seperti Taraf Perintis dan Elaun Cukai Pelaburan. Projek petroleum dan petrokimia juga dikawal di bawah Akta Kemajuan Petroleum 1974. Pelan Hala Tuju Industri Kimia 2030 dan Pelan Induk Perindustrian Baharu 2030 menetapkan arah strategik ke arah kimia istimewa yang bernilai lebih tinggi.
 lang: ms
-sourceContentHash: "11eb5b1edb640b2d"
+sourceContentHash: "dd296a225bbc1577"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Zon-zon yang saling berhubung ini â€” terutamanya Pengerang, Kerteh dan Gebeng â
 
 Pelaburan dan pelesenan berjalan melalui [Lembaga Pembangunan Pelaburan Malaysia (MIDA)](/government/mida/), yang **Bahagian Kimia dan Bahan Termaju**-nya menilai permohonan lesen pembuatan dan mentadbir insentif seperti Taraf Perintis dan Elaun Cukai Pelaburan; aktiviti petroleum dan petrokimia juga tertakluk di bawah **Akta Kemajuan Petroleum 1974**. MIDA telah menggambarkan Malaysia sebagai hos kepada lebih 100 syarikat petrokimia yang membuat pelbagai jenis produk.
 
-Arah dasar datang daripada dua dokumen. **Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)** ialah pelan tindakan transformasi perindustrian negara, dibina atas empat misi (meningkatkan kerumitan ekonomi, pendigitalan, dorongan sifar bersih dan keselamatan ekonomi), dengan kimia dikendalikan sebagai segmen berimpak tinggi dan pertumbuhan tinggi yang ditangani melalui satu set pelan tindakan. **Pelan Hala Tuju Industri Kimia 2030** ialah pelengkap khusus-sektornya, mensasarkan bahagian KDNK dan peningkatan nilai yang dinyatakan di atas serta mengutamakan kimia istimewa.
+Arah dasar datang daripada dua dokumen. **[Pelan Induk Perindustrian Baharu 2030](/industries/new-industrial-master-plan-2030/) (NIMP 2030)** ialah pelan tindakan transformasi perindustrian negara, dibina atas empat misi (meningkatkan kerumitan ekonomi, pendigitalan, dorongan sifar bersih dan keselamatan ekonomi), dengan kimia dikendalikan sebagai segmen berimpak tinggi dan pertumbuhan tinggi yang ditangani melalui satu set pelan tindakan. **Pelan Hala Tuju Industri Kimia 2030** ialah pelengkap khusus-sektornya, mensasarkan bahagian KDNK dan peningkatan nilai yang dinyatakan di atas serta mengutamakan kimia istimewa.
 
 ## Tinjauan
 

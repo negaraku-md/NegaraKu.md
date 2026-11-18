@@ -143,7 +143,7 @@ The industry sits within Malaysia's broader manufacturing-investment framework, 
 
 Two policy threads matter specifically here:
 
-- **NIMP 2030.** The New Industrial Master Plan 2030, launched on 1 September 2023, names textiles, apparel and footwear among its priority subsectors and frames the goal as higher economic complexity, technology adoption and net-zero progress rather than low-cost production.
+- **NIMP 2030.** The [New Industrial Master Plan 2030](/industries/new-industrial-master-plan-2030/), launched on 1 September 2023, names textiles, apparel and footwear among its priority subsectors and frames the goal as higher economic complexity, technology adoption and net-zero progress rather than low-cost production.
 - **A new incentive framework.** From the first quarter of 2026, qualifying investment in the subsector falls under a **New Investment Incentive Framework** in which tax incentives are tiered and tied to outcomes — for example technology level, skills and local linkages — rather than granted as flat allowances. MIDA also administers manufacturing-licence approvals and continues to promote heritage segments such as batik.
 
 MIDA reported approved investment of about **RM657 million across 28 projects** in the lifestyle subsector in 2025, generating some 1,222 jobs — a reminder that, while the sector is mature, it still attracts fresh capital.

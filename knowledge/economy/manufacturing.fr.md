@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Investisseurs, chercheurs d'emploi, analystes des politiques publiques et étudiants qui cherchent à lire avec précision les statistiques industrielles de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -230,8 +230,8 @@ Plan de la Malaisie (2026-2030) vise :
 Le DOSM indique que le RNB par habitant a atteint RM57,200 en 2025, contre RM54,870 en 2024.
 L'écart jusqu'à RM77,200 en cinq ans, c'est tout le problème de politique publique en une ligne.
 
-Les instruments nommés dans le Plan sont le Nouveau Plan directeur industriel 2030, la
-Stratégie nationale des semi-conducteurs et la [Feuille de route nationale de transition énergétique](/energy/national-energy-transition-roadmap-netr). Notez
+Les instruments nommés dans le Plan sont le [Nouveau Plan directeur industriel 2030](/fr/industries/new-industrial-master-plan-2030), la
+[Stratégie nationale des semi-conducteurs](/fr/industries/semiconductor-industry-national-strategy) et la [Feuille de route nationale de transition énergétique](/energy/national-energy-transition-roadmap-netr). Notez
 ce qu'implique l'objectif manufacturier : pour que la manufacture croisse à 5,8 % tandis que
 l'économie croît à 4,5-5,5 %, sa part du PIB doit recommencer à monter. La
 fin du plateau n'est pas une prévision — c'est un objectif.

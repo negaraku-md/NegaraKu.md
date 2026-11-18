@@ -31,7 +31,7 @@ faq:
   - q: Chế tạo thực phẩm được điều tiết như thế nào ở Malaysia?
     a: An toàn và ghi nhãn thực phẩm được điều chỉnh bởi Đạo luật Thực phẩm 1983 và các quy định phụ (như Quy định Thực phẩm 1985 và Quy định Vệ sinh Thực phẩm 2009), do Bộ Y tế quản lý. Các tuyên bố halal được kiểm soát riêng bởi Cục Phát triển Hồi giáo Malaysia (JAKIM), cơ quan cấp chứng nhận halal chính thức.
 lang: vi
-sourceContentHash: "391a7deab0b3d94e"
+sourceContentHash: "5dada9f392a41065"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -125,7 +125,7 @@ Ngành này không phải một thứ mà là nhiều thứ, mỗi phân khúc c
 
 - **Thực phẩm chế biến và đóng gói** — đồ ăn vặt, mì ăn liền, bánh quy, nước sốt, gia vị và bữa ăn sẵn. Đây là phân khúc dễ thấy nhất và là nơi có nhiều thương hiệu tiêu dùng nổi tiếng nhất của Malaysia.
 - **Ca cao và bánh kẹo** — một trong những chuyên môn nổi bật nhất của Malaysia. Dù trồng rất ít ca cao ngày nay, Malaysia là một nhà **nghiền ca cao** lớn, nhập khẩu hạt và chế biến chúng thành bơ ca cao, bột, dịch ca cao (liquor) và sô cô la công nghiệp. Lượng nghiền được cho là đạt khoảng 90.849 tấn trong quý hai năm 2026 — khoảng 40% tổng lượng của Châu Á — sau khoảng 370.000 tấn cho cả năm 2023 ([Malay Mail](https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224)). Guan Chong Berhad và Barry Callebaut đều vận hành các hoạt động nghiền lớn ở Johor.
-- **Dầu và mỡ ăn** — gắn chặt với ngành dầu cọ của Malaysia, sản xuất dầu ăn, mỡ đặc chủng, bơ thực vật và nguyên liệu thực phẩm cho cả dùng nội địa và xuất khẩu.
+- **Dầu và mỡ ăn** — gắn chặt với [ngành dầu cọ của Malaysia](/vi/industries/palm-oil-industry), sản xuất dầu ăn, mỡ đặc chủng, bơ thực vật và nguyên liệu thực phẩm cho cả dùng nội địa và xuất khẩu.
 - **Đồ uống** — nước ngọt, nước đóng chai và nước khoáng, cà phê, trà và đồ uống năng lượng hoặc thảo dược. Các thương hiệu ở đây gồm 100Plus của F&N, nước đóng chai của Spritzer và đồ uống năng lượng thảo dược của Power Root.
 - **Nuôi trồng thủy sản và chế biến hải sản** — biến sản lượng biển và nuôi trồng của Malaysia thành các sản phẩm hải sản đông lạnh, đóng hộp và giá trị gia tăng, với tiềm năng xuất khẩu đáng kể.
 

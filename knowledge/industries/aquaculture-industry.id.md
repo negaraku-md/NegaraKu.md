@@ -31,7 +31,7 @@ faq:
   - q: "Mengapa akuakultur penting bagi ketahanan pangan Malaysia?"
     a: "Ikan adalah sumber protein hewani utama Malaysia, dan tangkapan liar telah mendatar. Akuakultur adalah tuas utama untuk mengangkat rasio swasembada ikan nasional — sekitar 90,7% pada 2025 — dan Dasar Agromakanan Negara secara eksplisit memihak ikan budidaya ketimbang ikan tangkapan untuk memenuhi permintaan masa depan."
 lang: id
-sourceContentHash: "fbf634717e2b17c5"
+sourceContentHash: "8e2067b1d42a9bd3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,7 +109,7 @@ Sebagian besar ikan di piring makan malam orang Malaysia masih berasal dari laut
 
 ## Seberapa besar industri akuakultur Malaysia?
 
-Akuakultur bukan lagi kegiatan sampingan. Jabatan Perikanan Malaysia (DOF) melaporkan kira-kira **492.680 ton** produksi akuakultur bernilai sekitar **RM3,9 miliar** pada 2023, dengan produksi naik menjadi sekitar **510.000 ton** pada 2024. Berbanding total produksi ikan konsumsi sebesar 1,79 juta ton pada 2023, produksi budidaya kini menyumbang hampir **30%** dari seluruh produksi perikanan — dan pangsa itu dirancang untuk tumbuh.
+Akuakultur bukan lagi kegiatan sampingan. [Jabatan Perikanan Malaysia](/id/agriculture/department-of-fisheries-malaysia/) (DOF) melaporkan kira-kira **492.680 ton** produksi akuakultur bernilai sekitar **RM3,9 miliar** pada 2023, dengan produksi naik menjadi sekitar **510.000 ton** pada 2024. Berbanding total produksi ikan konsumsi sebesar 1,79 juta ton pada 2023, produksi budidaya kini menyumbang hampir **30%** dari seluruh produksi perikanan — dan pangsa itu dirancang untuk tumbuh.
 
 Logika strategisnya sederhana. Perikanan tangkap dibatasi oleh apa yang dapat dihasilkan laut secara lestari, dan tangkapan Malaysia secara luas telah mendatar. Akuakultur, sebaliknya, dapat diperbesar dengan investasi. Itulah mengapa target pemerintah, di bawah Dasar Agromakanan Negara, adalah menggeser keseimbangan produksi ikan konsumsi ke arah budidaya — menargetkan dari waktu ke waktu suatu **rasio akuakultur-terhadap-tangkapan sekitar 60:40**, nyaris membalik campuran historis.
 

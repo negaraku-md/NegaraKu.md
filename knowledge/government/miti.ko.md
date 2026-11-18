@@ -37,7 +37,7 @@ verificationNeeded:
   - "MIDA 자체 연혁 페이지는 Act 397에 따른 1967년 설립을 밝히나, 이 기관의 영어 명칭이 「Malaysian Industrial Development Authority」에서 「Malaysian Investment Development Authority」로 바뀐 시점은 공식 자료에서 확인되지 않았으며 이 문서에는 명시하지 않는다"
 
 lang: "ko"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -169,7 +169,7 @@ MITI는 양자 및 지역 자유무역협정 협상을 주도합니다. 말레�
 
 2025년 12월 내각 개편 기준으로, MITI는 **Datuk Seri Johari Abdul Ghani**가 장관, **Sim Tze Tzin**이 부장관으로 이끕니다. 이 부처는 쿠알라룸푸르의 **Menara MITI**에 본부를 둡니다.
 
-2026년 예산에서, MITI는 말레이시아의 제조·산업 방향을 이끄는 청사진인 **신산업마스터플랜 2030(New Industrial Master Plan 2030, NIMP 2030)**의 이행을 주도하기 위해 **RM18.98억**의 배정을 받았습니다.
+2026년 예산에서, MITI는 말레이시아의 제조·산업 방향을 이끄는 청사진인 **[신산업마스터플랜 2030](/ko/industries/new-industrial-master-plan-2030)(New Industrial Master Plan 2030, NIMP 2030)**의 이행을 주도하기 위해 **RM18.98억**의 배정을 받았습니다.
 
 ## 관련 규칙이 있는 곳
 

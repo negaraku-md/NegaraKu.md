@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ framework: explainer
 
 **パサ・マラム（夜市、pasar malam）**は、夕方から夜にかけて現れる移動式市場で、通常は毎週決まった曜日に同じ地区で開かれる。調理済みの食品、果物、野菜、衣類から日用品まで、あらゆるものを売っている。多くの人にとって夜市は、単に生鮮食材を買う場所ではなく、安くて賑やかな夕食どころである。
 
-**農民市場（pasar tani）**は、FAMA（連邦農業マーケティング庁、Lembaga Pemasaran Pertanian Persekutuan）のもとの公式プログラムである。そのコンセプトは「生産者と消費者の出会いの場」——農民や小規模事業者が中間業者を介さず、農産物を直接買い手に販売する。通常は朝から昼にかけて開かれる。
+**農民市場（pasar tani）**は、[FAMA](/ja/agriculture/fama-agricultural-marketing-authority/)（連邦農業マーケティング庁、Lembaga Pemasaran Pertanian Persekutuan）のもとの公式プログラムである。そのコンセプトは「生産者と消費者の出会いの場」——農民や小規模事業者が中間業者を介さず、農産物を直接買い手に販売する。通常は朝から昼にかけて開かれる。
 
 **生鮮市場（wet market、pasar basah）**は、早朝から営業する常設市場で、肉類、魚、鶏肉、新鮮な野菜を販売する。その名は、氷や海産物を洗う水によって常に濡れている床に由来する。生鮮市場は、毎日新鮮な食材を求める家庭の台所やレストラン経営者にとっての命脈である。
 

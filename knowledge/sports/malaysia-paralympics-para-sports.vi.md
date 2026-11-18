@@ -32,7 +32,7 @@ faq:
     a: "Trong số nổi bật nhất là Cheah Liek Hou (cầu lông SU5, vàng Tokyo 2020 và Paris 2024), Bonnie Bunyau Gustin (cử tạ, vàng Tokyo 2020 và Paris 2024) và Abdul Latif Romly (nhảy xa T20, vàng Rio 2016 và Tokyo 2020)."
 
 lang: "vi"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ Tên và tư cách của cơ quan này về sau thay đổi vài lần:
 
 Đây là một sự nhầm lẫn phổ biến. **Hội đồng Olympic Malaysia (OCM)** là Ủy ban Olympic Quốc gia của đất nước — nó quản lý sự tham gia của các vận động viên tới Thế vận hội Olympic, Đại hội Thể thao Khối Thịnh vượng chung, Đại hội Thể thao Châu Á và SEA Games. **PCM là một tổ chức hoàn toàn tách biệt** quản lý con đường Paralympic: Thế vận hội Paralympic, Đại hội Thể thao Người khuyết tật Châu Á và Đại hội Thể thao Người khuyết tật ASEAN.
 
-Cả hai đều là những tổ chức khác nhau, với ban lãnh đạo, tư cách thành viên và liên kết quốc tế riêng. OCM liên kết với Ủy ban Olympic Quốc tế (IOC); PCM liên kết với IPC. Điểm chung của họ là cả hai đều hoạt động trong khuôn khổ **Luật Phát triển Thể thao (Sports Development Act 1997)** và hợp tác với Bộ Thanh niên và Thể thao cùng Hội đồng Thể thao Quốc gia trong việc phát triển vận động viên.
+Cả hai đều là những tổ chức khác nhau, với ban lãnh đạo, tư cách thành viên và liên kết quốc tế riêng. OCM liên kết với Ủy ban Olympic Quốc tế (IOC); PCM liên kết với IPC. Điểm chung của họ là cả hai đều hoạt động trong khuôn khổ **Luật Phát triển Thể thao (Sports Development Act 1997)** và hợp tác với Bộ Thanh niên và Thể thao cùng [Hội đồng Thể thao Quốc gia](/vi/sports/national-sports-council-msn) trong việc phát triển vận động viên.
 
 PCM cũng không chỉ là một đơn vị cử đoàn. Theo trang chính thức của nó, nó đã đăng cai **Đại hội Thể thao Người khuyết tật ASEAN đầu tiên vào năm 2001**, và một lần nữa vào các năm **2009** và **2017**. Về mặt lãnh đạo, Dato' Sri Megat D. Shahriman là Chủ tịch PCM được bầu vào tháng 12 năm 2019 và tái đắc cử vào tháng 12 năm 2024.
 

@@ -27,7 +27,7 @@ faq:
   - q: "Gạo nhập khẩu của Malaysia đến từ đâu?"
     a: "Phần lớn lượng nhập khẩu được lấy từ Việt Nam, Thái Lan, Pakistan, Ấn Độ và Myanmar, theo BERNAS."
 lang: "vi"
-sourceContentHash: "522e3a6274830936"
+sourceContentHash: "5d102a726d64965e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -143,7 +143,7 @@ Việc trồng lúa ở Malaysia được giữ khả thi nhờ hỗ trợ của
 Quy mô của sự tham gia của nhà nước hiện rõ trong các con số cụ thể được ghi nhận:
 
 - Chính phủ đã chi khoảng **RM1 tỷ** riêng trong khu vực **MADA**, vựa lúa lớn nhất của đất nước.
-- **BERNAS**, nhà nhập khẩu gạo được cấp phép, cung cấp **RM3.2 tỷ** để thực hiện mười nghĩa vụ xã hội do chính phủ áp đặt. Những nghĩa vụ này bao gồm **RM90 triệu** hỗ trợ nông dân năm 2025 và **RM13 triệu** được phân phối từ lợi nhuận nhập khẩu gạo, theo Thứ trưởng Bộ Nông nghiệp và An ninh Lương thực Chan Foong Hin.
+- **[BERNAS](/vi/agriculture/bernas-rice-import-monopoly/)**, nhà nhập khẩu gạo được cấp phép, cung cấp **RM3.2 tỷ** để thực hiện mười nghĩa vụ xã hội do chính phủ áp đặt. Những nghĩa vụ này bao gồm **RM90 triệu** hỗ trợ nông dân năm 2025 và **RM13 triệu** được phân phối từ lợi nhuận nhập khẩu gạo, theo Thứ trưởng Bộ Nông nghiệp và An ninh Lương thực Chan Foong Hin.
 
 Hệ thống cũng được định giá với sự cân nhắc về khả năng chi trả ở đầu người tiêu dùng: một nghiên cứu sáu tháng của bộ phát hiện rằng khoảng **15% người Malaysia** cần gạo có giá khoảng **RM26 cho một bao 10kg**, nhấn mạnh vì sao kiểm soát giá đứng cạnh hỗ trợ nông dân trong cùng một chính sách.
 
@@ -157,7 +157,7 @@ Mô hình nhà nhập khẩu duy nhất đó không phải là vĩnh viễn. Nh�
 
 ## Các mục tiêu tự cung tự cấp của Malaysia là gì?
 
-Con số phán xét cả hệ thống là tỷ lệ tự cung tự cấp, và chính sách đặt nó cao hơn nhiều so với thực tế hôm nay. Theo **Chính sách Nông sản-Thực phẩm Quốc gia 2.0 (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, bao trùm **2021–2030**, Malaysia nhắm mục tiêu:
+Con số phán xét cả hệ thống là tỷ lệ tự cung tự cấp, và chính sách đặt nó cao hơn nhiều so với thực tế hôm nay. Theo **[Chính sách Nông sản-Thực phẩm Quốc gia 2.0](/vi/agriculture/food-security-self-sufficiency-policy/) (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, bao trùm **2021–2030**, Malaysia nhắm mục tiêu:
 
 | Cột mốc | Mục tiêu tự cung tự cấp gạo |
 |---|---|

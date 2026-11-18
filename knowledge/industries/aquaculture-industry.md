@@ -108,7 +108,7 @@ Most of the fish on a Malaysian dinner plate still comes from the sea — but a 
 
 ## How big is Malaysia's aquaculture industry?
 
-Aquaculture is no longer a sideline. The Department of Fisheries Malaysia (DOF) reported roughly **492,680 tonnes** of aquaculture production worth about **RM3.9 billion** in 2023, with output rising to around **510,000 tonnes** in 2024. Set against total edible-fish production of 1.79 million tonnes in 2023, farmed output now accounts for close to **30%** of all fishery production — and that share is designed to grow.
+Aquaculture is no longer a sideline. The [Department of Fisheries Malaysia](/agriculture/department-of-fisheries-malaysia/) (DOF) reported roughly **492,680 tonnes** of aquaculture production worth about **RM3.9 billion** in 2023, with output rising to around **510,000 tonnes** in 2024. Set against total edible-fish production of 1.79 million tonnes in 2023, farmed output now accounts for close to **30%** of all fishery production — and that share is designed to grow.
 
 The strategic logic is simple. Capture fisheries are limited by what the sea can sustainably yield, and Malaysia's catch has broadly flattened. Aquaculture, by contrast, can be scaled with investment. That is why the government's target, under the National Agrofood Policy, is to shift the balance of edible-fish output toward farming — aiming over time at an **aquaculture-to-capture ratio of roughly 60:40**, a near-reversal of the historical mix.
 

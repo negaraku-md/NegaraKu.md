@@ -269,7 +269,7 @@ incentive applications under the Promotion of Investments Act 1986 at **3.00 p.m
 **1 March 2026**. Existing approvals are unaffected, but a plan that still reads *apply for
 Pioneer Status in the FIZ* is planning against a shut window.
 
-MITI's **National Semiconductor Strategy** of 28 May 2024 makes the same point: it mentions
+MITI's **[National Semiconductor Strategy](/industries/semiconductor-industry-national-strategy)** of 28 May 2024 makes the same point: it mentions
 Bayan Lepas once, descriptively, and allocates nothing geographically. The cluster's assembly,
 test and packaging depth is the asset. The designation is plumbing.
 

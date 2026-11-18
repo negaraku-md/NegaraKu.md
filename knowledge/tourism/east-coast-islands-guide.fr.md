@@ -31,7 +31,7 @@ faq:
     a: "Non. La pêche est interdite à l'intérieur des limites du parc marin, et les visiteurs ne peuvent ramasser aucune partie d'un organisme marin — vivant ou mort — y compris les fragments de corail et les coquillages, ni toucher, piétiner ou endommager de quelque autre manière le corail."
 
 lang: "fr"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ Perhentian, Redang, Kapas et Tioman sont les quatre îles balnéaires auxquelles
 
 ## Qu'est-ce qui fait de ces îles des « parcs marins » et pourquoi est-ce important pour vous ?
 
-La zone protégée ne se limite pas à la plage. Les parcs marins de la Malaisie s'étendent **généralement sur deux milles nautiques depuis le niveau le plus bas de la mer** autour de chaque île classée — avec une limite d'**un mille nautique** pour certaines îles du Terengganu — et ils sont gérés par le **Département des pêches de Malaisie** en vertu de la **loi sur les pêches de 1985 (modifiée en 1993) (Fisheries Act 1985)**. À l'échelle nationale, **49 îles** sont classées parcs marins.
+La zone protégée ne se limite pas à la plage. Les parcs marins de la Malaisie s'étendent **généralement sur deux milles nautiques depuis le niveau le plus bas de la mer** autour de chaque île classée — avec une limite d'**un mille nautique** pour certaines îles du Terengganu — et ils sont gérés par le [**Département des pêches de Malaisie**](/fr/agriculture/department-of-fisheries-malaysia) en vertu de la **loi sur les pêches de 1985 (modifiée en 1993) (Fisheries Act 1985)**. À l'échelle nationale, **49 îles** sont classées parcs marins.
 
 Sur la côte est, les parcs marins du Terengganu couvrent quatre archipels — **Pulau Redang, Pulau Perhentian, Pulau Kapas et Pulau Tenggol** — tandis que le parc marin de **Tioman**, au Pahang, est un ensemble de **neuf îles** : Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh et Pulau Sembilang.
 

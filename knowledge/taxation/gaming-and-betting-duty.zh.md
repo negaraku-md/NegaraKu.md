@@ -29,7 +29,7 @@ faq:
     a: "以一注2令吉的Sports Toto投注为例，8%（16仙）作为博彩税扣除，另外8%（14.72仙）作为彩池投注税；约55%（1.10令吉）拨作奖金。"
 
 lang: "zh"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ framework: rules
 - **奖金**——约55%（1.10令吉）拨作给予中奖者的奖金。
 - **SST**——约4.39仙由业界承担。
 
-此外，NFO行业还须将**税前利润的10%**捐献给国家体育理事会（Majlis Sukan Negara），并像其他公司一样仍须缴纳24%的企业税（居民公司的标准税率）。
+此外，NFO行业还须将**税前利润的10%**捐献给[国家体育理事会](/zh/sports/national-sports-council-msn)（Majlis Sukan Negara），并像其他公司一样仍须缴纳24%的企业税（居民公司的标准税率）。
 
 也就是说，在经营商计算其营运成本和利润之前，每一注投注中的大部分早已流向政府和国家体育基金。
 

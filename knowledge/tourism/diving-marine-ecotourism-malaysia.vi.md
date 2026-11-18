@@ -31,7 +31,7 @@ faq:
     a: "Nó phụ thuộc vào vị trí. Các công viên biển ở bán đảo Malaysia và Labuan thuộc liên bang, do Cục Nghề cá Malaysia quản lý theo Luật Nghề cá (Fisheries Act 1985). Các công viên ở Sabah, bao gồm Sipadan, do cơ quan cấp bang Sabah Parks quản lý theo luật cấp bang riêng."
 
 lang: "vi"
-sourceContentHash: "b4330d885555b613"
+sourceContentHash: "d2d1f34db7ef0126"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ Vùng nước trong nhất Malaysia cũng là nơi khó đến nhất: để th�
 
 Không có một "cơ quan lặn quốc gia" duy nhất. Thẩm quyền được chia theo địa lý.
 
-Các công viên biển ở **bán đảo Malaysia và Labuan** thuộc liên bang, do **Cục Nghề cá Malaysia (DOF)** quản lý theo **Luật Nghề cá (Fisheries Act 1985)**. DOF công báo vùng biển quanh 49 đảo là các công viên biển, trải khắp năm bang và lãnh thổ liên bang Labuan, với một khu bảo vệ chạy hai hải lý về phía biển tính từ mực nước biển thấp nhất (một hải lý đối với một số đảo ở Terengganu và Labuan).
+Các công viên biển ở **bán đảo Malaysia và Labuan** thuộc liên bang, do **[Cục Nghề cá Malaysia](/vi/agriculture/department-of-fisheries-malaysia) (DOF)** quản lý theo **Luật Nghề cá (Fisheries Act 1985)**. DOF công báo vùng biển quanh 49 đảo là các công viên biển, trải khắp năm bang và lãnh thổ liên bang Labuan, với một khu bảo vệ chạy hai hải lý về phía biển tính từ mực nước biển thấp nhất (một hải lý đối với một số đảo ở Terengganu và Labuan).
 
 **Sabah** thì khác. Các đảo của nó — bao gồm Sipadan và các rạn san hô quanh Semporna — thuộc cơ quan cấp bang **Sabah Parks**, cơ quan tự đặt ra giấy phép và quy tắc của mình. Đối với một thợ lặn sự phân biệt này không mang tính học thuật: khoản phí bạn trả, giấy phép bạn cần, và bạn phải đặt qua ai đều phụ thuộc vào bạn ở phía nào của bản đồ.
 

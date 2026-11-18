@@ -30,7 +30,7 @@ faq:
     a: "La Loi sur le contrôle du paddy et du riz de 1994 (Loi 522). Le riz est un produit contrôlé ; le Directeur général de la régulation du paddy et du riz délivre des licences et des permis pour le décorticage, la vente en gros, la vente au détail, l'importation, l'exportation et le transport entre États."
 
 lang: "fr"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,12 +127,12 @@ manière suivante :
 | Abréviation | Nom complet | Type |
 | --- | --- | --- |
 | DOA | Département de l'agriculture de la Malaisie | Département |
-| DVS | Département des services vétérinaires | Département |
+| [DVS](/fr/agriculture/livestock-poultry-industry/) | Département des services vétérinaires | Département |
 | DOF | Département des pêches de la Malaisie | Département |
 | MAQIS | Département des services de quarantaine et d'inspection de la Malaisie | Département |
 | MARDI | Institut de recherche et de développement agricole de la Malaisie | Institut de recherche |
 | LPP | Autorité des organisations d'agriculteurs | Organisme statutaire |
-| FAMA | Autorité fédérale de commercialisation agricole | Organisme statutaire |
+| [FAMA](/fr/agriculture/fama-agricultural-marketing-authority/) | Autorité fédérale de commercialisation agricole | Organisme statutaire |
 | LKIM | Autorité de développement des pêches de la Malaisie | Organisme statutaire |
 | MADA | Autorité de développement agricole de Muda | Organisme statutaire |
 | KADA | Autorité de développement agricole de Kemubu | Organisme statutaire |
@@ -171,7 +171,7 @@ point de départ est le KKDW, et non le KPKM.
 
 ## Comment BERNAS est-elle liée au ministère ?
 
-BERNAS (Padiberas Nasional Berhad) est souvent confondue avec une agence
+[BERNAS](/fr/agriculture/bernas-rice-import-monopoly/) (Padiberas Nasional Berhad) est souvent confondue avec une agence
 gouvernementale. Il s'agit en réalité d'une **entreprise privée** qui exerce des
 fonctions publiques en vertu d'un accord avec le gouvernement.
 

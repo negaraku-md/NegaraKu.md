@@ -31,7 +31,7 @@ faq:
   - q: Mengapa Malaysia mengharamkan eksport nadir bumi mentah?
     a: Kerajaan mengatakan moratorium itu — berkuat kuasa sejak awal 2024 — bertujuan menghentikan sumber nadir bumi negara daripada dieksport tanpa diproses, dan memaksa nilai ditambah di dalam negara melalui penapisan tempatan dan industri hiliran. Pegawai menggambarkannya sebagai melindungi sumber strategik; terma dasar tepat telah berubah dari masa ke masa dan harus disemak terhadap kenyataan kerajaan terkini.
 lang: ms
-sourceContentHash: "b76525788cb61fae"
+sourceContentHash: "2cfb1c127d0860c5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Pembahagian negeri-berbanding-persekutuan ini penting untuk memahami perlombonga
 
 Perlombongan ialah hirisan kecil KDNK — sub-sektor mineral-sahaja terletak jauh di bawah 1%, dengan sasaran kerajaan untuk meningkatkan sumbangan perlombongan-dan-pengkuarian daripada sekitar 0.7% kepada 1% menjelang 2030 (angka KDNK "perlombongan dan pengkuarian" utama beberapa peratus umumnya termasuk minyak dan gas, jadi takrifan penting). Namun pemetaan kerajaan awal telah menilai sumber mineral negara pada kira-kira **RM4.11 trilion**, dan dasar telah beralih ke arah mengekstrak lebih banyak nilai daripadanya.
 
-Arahnya ditetapkan oleh **Pelan Transformasi Industri Mineral Negara 2021–2030** dan pelan sektoral mineral di bawah **Pelan Induk Perindustrian Baharu 2030** (dilancarkan September 2023), kedua-duanya menekankan bergerak menaiki rantaian nilai — memproses, bukan sekadar mengekstrak — dan berbuat demikian secara lebih mampan. Pengganti kepada Dasar Mineral Negara yang telah lama wujud juga sedang dalam perbincangan.
+Arahnya ditetapkan oleh **Pelan Transformasi Industri Mineral Negara 2021–2030** dan pelan sektoral mineral di bawah [**Pelan Induk Perindustrian Baharu 2030**](/industries/new-industrial-master-plan-2030/) (dilancarkan September 2023), kedua-duanya menekankan bergerak menaiki rantaian nilai — memproses, bukan sekadar mengekstrak — dan berbuat demikian secara lebih mampan. Pengganti kepada Dasar Mineral Negara yang telah lama wujud juga sedang dalam perbincangan.
 
 Garis utamanya jelas. Setelah belajar daripada timah — tempat Malaysia mengeksport komoditi mentah dan kemudian menyaksikan pasaran lenyap — negara kini mahu mineralnya, terutamanya nadir bumi, ditapis dan dibuat menjadi produk bernilai lebih tinggi di dalam negara. Sama ada pertaruhan nadir bumi membuahkan hasil akan bergantung pada harga, pengurusan alam sekitar dan persekitaran dasar yang masih sangat berubah-ubah.
 

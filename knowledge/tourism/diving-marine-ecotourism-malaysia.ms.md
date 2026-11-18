@@ -31,7 +31,7 @@ faq:
     a: "Ia bergantung pada lokasi. Taman laut di Semenanjung Malaysia dan Labuan adalah persekutuan, diuruskan oleh Jabatan Perikanan Malaysia di bawah Akta Perikanan 1985. Taman di Sabah, termasuk Sipadan, diuruskan oleh agensi negeri Taman-Taman Sabah di bawah undang-undang negeri yang berasingan."
 
 lang: "ms"
-sourceContentHash: "b4330d885555b613"
+sourceContentHash: "d2d1f34db7ef0126"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ Air paling jernih di Malaysia juga yang paling sukar dicapai: untuk menyelam ke 
 
 Tiada "pihak berkuasa selam kebangsaan" yang tunggal. Bidang kuasa dibahagikan mengikut geografi.
 
-Taman laut di **Semenanjung Malaysia dan Labuan** adalah persekutuan, diuruskan oleh **Jabatan Perikanan Malaysia (DOF)** di bawah **Akta Perikanan 1985**. DOF mewartakan perairan sekitar 49 pulau sebagai taman laut, tersebar merentasi lima negeri dan wilayah persekutuan Labuan, dengan zon perlindungan menjangkau dua batu nautika ke arah laut dari paras laut terendah (satu batu nautika bagi sesetengah pulau di Terengganu dan Labuan).
+Taman laut di **Semenanjung Malaysia dan Labuan** adalah persekutuan, diuruskan oleh **[Jabatan Perikanan Malaysia](/agriculture/department-of-fisheries-malaysia) (DOF)** di bawah **Akta Perikanan 1985**. DOF mewartakan perairan sekitar 49 pulau sebagai taman laut, tersebar merentasi lima negeri dan wilayah persekutuan Labuan, dengan zon perlindungan menjangkau dua batu nautika ke arah laut dari paras laut terendah (satu batu nautika bagi sesetengah pulau di Terengganu dan Labuan).
 
 **Sabah** berbeza. Pulau-pulaunya — termasuk Sipadan dan terumbu di sekitar Semporna — terletak di bawah agensi negeri **Taman-Taman Sabah**, yang menetapkan permit dan peraturannya sendiri. Bagi seorang penyelam, perbezaan ini bukan sekadar teori: yuran yang anda bayar, permit yang anda perlukan, dan pihak yang perlu anda tempah melaluinya semuanya bergantung pada bahagian peta mana anda berada.
 

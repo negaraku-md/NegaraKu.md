@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ framework: profile
 
 马来西亚常被称为「芯片国度」，这个说法既属实，又略带误导。这个国家在半导体领域确实举足轻重——但压倒性地集中在产业的**后端**，即对芯片进行组装、测试与封装（ATP），而这些芯片的硅晶圆是在别处制造的。理解这个区别，是理解马来西亚实力与雄心的关键。
 
-本指南将说明马来西亚在芯片供应链中究竟扮演什么角色、在哪里进行、规模有多大，以及国家半导体策略（NSS）试图改变什么。
+本指南将说明马来西亚在芯片供应链中究竟扮演什么角色、在哪里进行、规模有多大，以及[国家半导体策略](/zh/industries/semiconductor-industry-national-strategy)（NSS）试图改变什么。
 
 ## 马来西亚在芯片供应链中究竟做什么？
 

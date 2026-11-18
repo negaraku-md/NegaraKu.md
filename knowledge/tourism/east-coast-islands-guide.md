@@ -79,7 +79,7 @@ Perhentian, Redang, Kapas and Tioman are the four beach islands most travellers 
 
 ## What makes these islands "marine parks," and why does it matter to you?
 
-The protected zone is not just the beach. Malaysia's marine parks extend **generally two nautical miles from the lowest sea level** around each gazetted island — with a **one-nautical-mile** boundary for certain Terengganu islands — and they are managed by the **Department of Fisheries Malaysia** under the **[Fisheries Act 1985](/en/law/fisheries-act-1985) (Amended 1993)**. Nationwide, **49 islands** are gazetted as marine parks.
+The protected zone is not just the beach. Malaysia's marine parks extend **generally two nautical miles from the lowest sea level** around each gazetted island — with a **one-nautical-mile** boundary for certain Terengganu islands — and they are managed by the [**Department of Fisheries Malaysia**](/agriculture/department-of-fisheries-malaysia) under the **[Fisheries Act 1985](/en/law/fisheries-act-1985) (Amended 1993)**. Nationwide, **49 islands** are gazetted as marine parks.
 
 On the east coast, Terengganu's marine parks cover four archipelagos — **Pulau Redang, Pulau Perhentian, Pulau Kapas and Pulau Tenggol** — while Pahang's **Tioman** marine park is a cluster of **nine islands**: Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh and Pulau Sembilang.
 

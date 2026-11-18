@@ -31,7 +31,7 @@ faq:
   - q: ¿Cómo apoya el gobierno a la industria química?
     a: La Autoridad de Desarrollo de Inversiones de Malasia (MIDA), a través de su División de Productos Químicos y Materiales Avanzados, evalúa las licencias de fabricación y ofrece incentivos como el Estatus Pionero y la Deducción por Inversión en Activos. Los proyectos de petróleo y petroquímicos también se rigen por la Ley de Desarrollo del Petróleo de 1974. La Hoja de Ruta de la Industria Química 2030 y el Nuevo Plan Maestro Industrial 2030 fijan la dirección estratégica hacia químicos especializados y de mayor valor.
 lang: es
-sourceContentHash: "11eb5b1edb640b2d"
+sourceContentHash: "dd296a225bbc1577"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Estas zonas interconectadas —Pengerang, Kerteh y Gebeng en especial— dan a M
 
 La inversión y las licencias se gestionan a través de la [Autoridad de Desarrollo de Inversiones de Malasia (MIDA)](/es/government/mida/), cuya **División de Productos Químicos y Materiales Avanzados** evalúa las solicitudes de licencia de fabricación y administra incentivos como el Estatus Pionero y la Deducción por Inversión en Activos; las actividades de petróleo y petroquímica también se enmarcan en la **Ley de Desarrollo del Petróleo de 1974**. MIDA ha descrito a Malasia como sede de más de 100 empresas petroquímicas que fabrican una amplia gama de productos.
 
-La dirección de políticas procede de dos documentos. El **Nuevo Plan Maestro Industrial 2030 (NIMP 2030)** es el plan nacional de transformación industrial, construido sobre cuatro misiones (aumentar la complejidad económica, la digitalización, el impulso hacia las cero emisiones netas y la seguridad económica), con los químicos tratados como un segmento de alto impacto y alto crecimiento abordado mediante un conjunto de planes de acción. La **Hoja de Ruta de la Industria Química 2030** es su complemento sectorial, que apunta al aumento de la cuota del PIB y del valor señalado antes y prioriza los químicos especializados.
+La dirección de políticas procede de dos documentos. El **[Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030/) (NIMP 2030)** es el plan nacional de transformación industrial, construido sobre cuatro misiones (aumentar la complejidad económica, la digitalización, el impulso hacia las cero emisiones netas y la seguridad económica), con los químicos tratados como un segmento de alto impacto y alto crecimiento abordado mediante un conjunto de planes de acción. La **Hoja de Ruta de la Industria Química 2030** es su complemento sectorial, que apunta al aumento de la cuota del PIB y del valor señalado antes y prioriza los químicos especializados.
 
 ## Perspectivas
 

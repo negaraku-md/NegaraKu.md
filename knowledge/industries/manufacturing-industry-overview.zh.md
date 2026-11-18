@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "00a67f4ef7e6555a"
+sourceContentHash: "479d1b3f589a9b53"
 
 status: "published"
 aiAssisted: true
@@ -132,7 +132,7 @@ MIDA 指出，机械与设备是「高附加值项目的主要贡献者」——
 
 ## 政府如何推动它沿价值链向上攀升？
 
-答案是于 2023 年 9 月 1 日发布的**《2030 年新工业大蓝图》（NIMP 2030）**。它并非挑选少数狭窄的赢家，而是采取「以使命为导向」的方式，围绕四大使命构建：
+答案是于 2023 年 9 月 1 日发布的**[《2030 年新工业大蓝图》](/zh/industries/new-industrial-master-plan-2030/)（NIMP 2030）**。它并非挑选少数狭窄的赢家，而是采取「以使命为导向」的方式，围绕四大使命构建：
 
 1. 提升经济复杂度
 2. 科技赋能，迈向数字活力之国

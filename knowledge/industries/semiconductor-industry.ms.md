@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ Jika anda sedang membaca ini pada telefon atau komputer riba, ada kemungkinan se
 
 Malaysia sering digambarkan sebagai "negara cip," satu gambaran yang benar sekali gus sedikit mengelirukan. Negara ini memang sebuah kuasa besar sebenar dalam semikonduktor — tetapi secara majoritinya dalam **bahagian belakang** industri ini, iaitu pemasangan, pengujian dan pembungkusan (ATP) cip yang wafer silikonnya difabrikasi di tempat lain. Memahami perbezaan itu ialah kunci untuk memahami kedua-dua kekuatan dan cita-cita Malaysia.
 
-Panduan ini menerangkan apa yang sebenarnya dilakukan Malaysia dalam rantaian bekalan cip, di mana ia dilakukan, sebesar mana ia, dan apa yang cuba diubah oleh Strategi Semikonduktor Nasional.
+Panduan ini menerangkan apa yang sebenarnya dilakukan Malaysia dalam rantaian bekalan cip, di mana ia dilakukan, sebesar mana ia, dan apa yang cuba diubah oleh [Strategi Semikonduktor Nasional](/industries/semiconductor-industry-national-strategy).
 
 ## Apakah yang sebenarnya dilakukan Malaysia dalam rantaian bekalan cip?
 

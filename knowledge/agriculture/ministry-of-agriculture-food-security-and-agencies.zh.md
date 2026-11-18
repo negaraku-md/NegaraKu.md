@@ -30,7 +30,7 @@ faq:
     a: "《1994 年稻米与白米管制法令》（第 522 号法令）。白米属于受管制商品；稻米与白米管制总监就碾米、批发、零售、进口、出口及跨州转运发出准证和执照。"
 
 lang: "zh"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -119,12 +119,12 @@ KPKM 将自身定位为"农业转型的领航者"——一个协调机构，把�
 | 简称 | 全称 | 类型 |
 | --- | --- | --- |
 | DOA | 马来西亚农业局 | 部门 |
-| DVS | 兽医服务局 | 部门 |
+| [DVS](/zh/agriculture/livestock-poultry-industry/) | 兽医服务局 | 部门 |
 | DOF | 马来西亚渔业局 | 部门 |
 | MAQIS | 马来西亚检疫与检验服务局 | 部门 |
 | MARDI | 马来西亚农业研究与发展研究院 | 研究院 |
 | LPP | 农民组织局 | 法定机构 |
-| FAMA | 联邦农产品营销局 | 法定机构 |
+| [FAMA](/zh/agriculture/fama-agricultural-marketing-authority/) | 联邦农产品营销局 | 法定机构 |
 | LKIM | 马来西亚渔业发展局 | 法定机构 |
 | MADA | 慕达农业发展局 | 法定机构 |
 | KADA | 吉马都农业发展局 | 法定机构 |
@@ -153,7 +153,7 @@ FELCRA 和 RISDA 保持一致——因此在正式文件中援引之前，应先
 
 ## BERNAS 如何与该部门挂钩？
 
-BERNAS（Padiberas Nasional Berhad）常被误认为是政府机构。它实际上是一家
+[BERNAS](/zh/agriculture/bernas-rice-import-monopoly/)（Padiberas Nasional Berhad）常被误认为是政府机构。它实际上是一家
 **私人公司**，根据与政府签订的协议执行公共职能。
 
 其历史能说明这层关系。国家稻米局（LPN）于 1971 年 10 月 20 日成立，并在世界

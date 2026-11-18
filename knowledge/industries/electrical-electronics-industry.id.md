@@ -34,7 +34,7 @@ faq:
     a: "Nama global seperti Intel, AMD, Broadcom, Bosch dan OSRAM beroperasi di sini, bersama produsen kontrak (EMS) seperti Jabil, Flex, Plexus, Sanmina dan Benchmark, serta firma lokal termasuk Inari Amertron."
 
 lang: "id"
-sourceContentHash: "981590959ca6617e"
+sourceContentHash: "6d5304fd8585d336"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Pulau Pinang adalah kisah asal usul, tetapi ia bukan lagi keseluruhan peta. Sepa
 
 - **Pulau Pinang (Bayan Lepas dan Batu Kawan):** Masih menjadi teras — semikonduktor, ATP, dan fondasi manufaktur kontrak yang mendalam. Menampung Intel, AMD, Broadcom, Bosch, OSRAM, Motorola dan Lumileds, serta pemain EMS seperti Jabil, Flex, Plexus, Sanmina, Benchmark dan Inari Amertron, menurut InvestPenang.
 - **Kulim, Kedah:** Kulim Hi-Tech Park, hanya di seberang perbatasan negara bagian dari Pulau Pinang, memperluas kelompok utara dengan manufaktur elektronik canggih — termasuk pabrik cip LED OSRAM, yang sejak 2017 menjalankan fabrikasi wafer sebenarnya untuk LED dan microLED di taman itu.
-- **Lembah Klang (Selangor dan Kuala Lumpur), Melaka dan Negeri Sembilan:** Kelompok Tengah yang dipetakan oleh Rencana Induk Perindustrian Baru 2030 — kawasan perindustrian Shah Alam dan koridor elektronik selatan, lebih dekat dengan bandara utama negara dan pusat keuangan, menampung firma seperti Sony, Panasonic, Samsung, Renesas dan ON Semiconductor.
+- **Lembah Klang (Selangor dan Kuala Lumpur), Melaka dan Negeri Sembilan:** Kelompok Tengah yang dipetakan oleh [Rencana Induk Perindustrian Baru 2030](/id/industries/new-industrial-master-plan-2030/) — kawasan perindustrian Shah Alam dan koridor elektronik selatan, lebih dekat dengan bandara utama negara dan pusat keuangan, menampung firma seperti Sony, Panasonic, Samsung, Renesas dan ON Semiconductor.
 - **Johor:** Makin relevan ketika limpahan dari tetangga Singapura memacu investasi pusat data dan elektronik baru di selatan; Johor Bahru menarik investasi E&E yang disetujui bernilai RM9.8 miliar dalam sembilan bulan pertama 2024, menurut MIDA.
 
 Kepekatan di koridor utara — Pulau Pinang serta Kulim — adalah alasan kawasan itu kadang dijuluki "Silicon Valley" Malaysia, meskipun perbandingan itu lebih menyanjung penjenamaan dibanding model bisnisnya: kekuatan Malaysia secara historis ada dalam manufaktur dan layanan bagian belakang, bukan desain cip.
@@ -172,7 +172,7 @@ Sektor yang sedominan ini membawa kelemahan nyata, dan perumus kebijakan Malaysi
 
 ## Apa yang Malaysia lakukan mengenainya? Strategi Semikonduktor Nasional
 
-Jawaban pemerintah atas kelemahan ini adalah Strategi Semikonduktor Nasional (NSS), yang diwujudkan pada 2024, dengan rincian dipaparkan oleh Perdana Menteri Anwar Ibrahim di SEMICON Southeast Asia di Kuala Lumpur pada 28 Mei 2024.
+Jawaban pemerintah atas kelemahan ini adalah [Strategi Semikonduktor Nasional](/id/industries/semiconductor-industry-national-strategy/) (NSS), yang diwujudkan pada 2024, dengan rincian dipaparkan oleh Perdana Menteri Anwar Ibrahim di SEMICON Southeast Asia di Kuala Lumpur pada 28 Mei 2024.
 
 NSS pada dasarnya adalah rencana untuk mendaki rantai nilai — untuk menambah lebih banyak desain, pengemasan canggih dan fabrikasi wafer kepada fondasi manufaktur Malaysia yang ada. Menurut MIDA, komitmen utamanya termasuk:
 

@@ -115,7 +115,7 @@ Dasar Sukan Negara 2009 dengan tegas menyatakan bahawa dua komponen "hendaklah d
 | Teras | Budaya penyertaan | Budaya pencapaian |
 | Matlamat | Gaya hidup aktif dan sihat untuk rakyat | Kecemerlangan di pertandingan antarabangsa |
 | Contoh aktiviti | Larian amal, aerobik, permainan tradisional | Latihan atlet negara untuk Olimpik dan Sukan Asia |
-| Agensi peneraju | Jabatan Belia dan Sukan | Majlis Sukan Negara dan Institut Sukan Negara |
+| Agensi peneraju | Jabatan Belia dan Sukan | [Majlis Sukan Negara](/sports/national-sports-council-msn) dan Institut Sukan Negara |
 | Ukuran kejayaan | Kadar penyertaan masyarakat | Pingat dan kedudukan dunia |
 
 Program Podium duduk sepenuhnya di dalam lajur kanan. Ia tidak direka untuk menambah bilangan orang yang bersukan; ia direka untuk menyediakan atlet paling elit negara supaya berpeluang menang di peringkat antarabangsa.

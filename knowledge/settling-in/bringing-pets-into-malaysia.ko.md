@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "반려견이나 반려묘와 함께 말레이시아로 이주하거나, 그 밖의 목적으로 동물을 데려오려는 사람으로서, 출발 전에 허가와 검역 절차를 계획해야 하는 모든 이."
 
 lang: "ko"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,7 +74,7 @@ stayFacts:
 
 항공편을 예약했고, 짐도 다 쌌는데, 문득 이런 생각이 듭니다. 개는 어떻게 하지. 말레이시아에서 반려동물은 그저 화물칸에 함께 실려 오는 존재가 아닙니다. 출발하기 전에 승인을 받아야 하는 허가, 특정 ISO 규격을 충족하는 마이크로칩, 그리고 아마도 데려오기까지 일주일 이상의 검역이 필요합니다.
 
-규정은 두 기관에 걸쳐 있습니다. 수의청(Department of Veterinary Services, DVS) — Jabatan Perkhidmatan Veterinar — 은 연령, 예방접종, 건강 증명, 검역 기간 등 생물안보 조건을 정합니다. 말레이시아 검역검사청(Malaysian Quarantine and Inspection Services, MAQIS)은 실제로 수입 허가를 발급하고 검역소를 운영하는 곳입니다. 실무에서는 주로 MAQIS를 상대하게 됩니다.
+규정은 두 기관에 걸쳐 있습니다. [수의청](/ko/agriculture/livestock-poultry-industry/)(Department of Veterinary Services, DVS) — Jabatan Perkhidmatan Veterinar — 은 연령, 예방접종, 건강 증명, 검역 기간 등 생물안보 조건을 정합니다. 말레이시아 검역검사청(Malaysian Quarantine and Inspection Services, MAQIS)은 실제로 수입 허가를 발급하고 검역소를 운영하는 곳입니다. 실무에서는 주로 MAQIS를 상대하게 됩니다.
 
 ## 동물이 이동하기 전에 갖추어야 할 조건
 

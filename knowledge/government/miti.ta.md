@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 
 status: "published"
 aiAssisted: true
@@ -220,7 +220,7 @@ Abdul Ghani** தலைமையில், துணை அமைச்சரா
 தலைமையகம் கோலாலம்பூரில் உள்ள **Menara MITI**.
 
 2026 பட்ஜெட்டின் கீழ், மலேசியாவின் உற்பத்தி மற்றும் தொழில்துறை திசையை வழிநடத்தும்
-வரைபடமான **New Industrial Master Plan 2030 (NIMP 2030)** (2030 புதிய தொழில்துறை
+வரைபடமான **[New Industrial Master Plan 2030](/ta/industries/new-industrial-master-plan-2030) (NIMP 2030)** (2030 புதிய தொழில்துறை
 திட்டம்) இன் வழங்கலை முன்னின்று நடத்துவதற்கு MITI **RM1.898 பில்லியன்** ஒதுக்கீட்டைப்
 பெற்றது.
 

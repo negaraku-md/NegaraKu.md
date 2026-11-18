@@ -32,7 +32,7 @@ faq:
     a: "가장 두드러진 선수로는 Cheah Liek Hou(배드민턴 SU5, 2020년 도쿄 및 2024년 파리 금메달), Bonnie Bunyau Gustin(파워리프팅, 2020년 도쿄 및 2024년 파리 금메달), Abdul Latif Romly(멀리뛰기 T20, 2016년 리우 및 2020년 도쿄 금메달)를 들 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,7 +113,7 @@ PCM 공식 웹사이트에 따르면 이 운동의 뿌리는 1970년대 초로 �
 
 이는 흔한 혼동입니다. **말레이시아 올림픽위원회(OCM)**는 국가 올림픽위원회로서 올림픽, 커먼웰스 게임, 아시안 게임, SEA 게임에 대한 선수 참가를 관리합니다. **반면 PCM은 완전히 별개의 기구**로서 패럴림픽, 아시아 장애인 경기대회(Asian Para Games), ASEAN 장애인 경기대회(ASEAN Para Games)라는 패럴림픽 경로를 관리합니다.
 
-두 기구는 각자의 지도부, 회원, 국제 가맹 관계를 갖는 서로 다른 조직입니다. OCM은 국제올림픽위원회(IOC)에, PCM은 IPC에 가맹해 있습니다. 두 기구의 공통점은 모두 **스포츠개발법(Sports Development Act 1997)**의 틀 안에서 운영되며 선수 육성을 위해 청소년체육부(Ministry of Youth and Sports) 및 국가체육위원회(MSN)와 협력한다는 점입니다.
+두 기구는 각자의 지도부, 회원, 국제 가맹 관계를 갖는 서로 다른 조직입니다. OCM은 국제올림픽위원회(IOC)에, PCM은 IPC에 가맹해 있습니다. 두 기구의 공통점은 모두 **스포츠개발법(Sports Development Act 1997)**의 틀 안에서 운영되며 선수 육성을 위해 청소년체육부(Ministry of Youth and Sports) 및 [국가체육위원회](/ko/sports/national-sports-council-msn)(MSN)와 협력한다는 점입니다.
 
 PCM은 단순한 선수단 파견 기구가 아닙니다. 공식 웹사이트에 따르면 PCM은 **2001년 제1회 ASEAN 장애인 경기대회**를 개최했으며, **2009년**과 **2017년**에도 다시 개최했습니다. 지도부와 관련해서는, Dato' Sri Megat D. Shahriman이 2019년 12월에 선출되고 2024년 12월에 재선된 PCM 회장입니다.
 

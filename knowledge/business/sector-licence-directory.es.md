@@ -31,7 +31,7 @@ verificationNeeded:
   - "The English short titles used by JAKIM and the Registrar of Societies — neither appears on the agency's own site"
 
 lang: "es"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -152,7 +152,7 @@ pago u operar un sistema de pago es una cuestión totalmente distinta.
 
 | Regulador | Ley rectora | Qué emite | Sitio |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Registro de contratistas, acreditación de personal | cidb.gov.my |
+| [CIDB](/es/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Registro de contratistas, acreditación de personal | cidb.gov.my |
 | Consejo de Tasadores, Peritos, Agentes Inmobiliarios y Administradores de Propiedades | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — las palabras «and Property Managers» se añadieron por la Act A1550, en vigor el 2 de enero de 2018 | Registro y certificados de ejercicio | lpeph.gov.my |
 | Autoridad local | Town and Country Planning Act 1976 (Act 172) | Permiso de planificación y cambio de uso | — |
 | Autoridad local | Street, Drainage and Building Act 1974 (Act 133) | Aprobación de plano de edificación, certificado de finalización y cumplimiento | — |

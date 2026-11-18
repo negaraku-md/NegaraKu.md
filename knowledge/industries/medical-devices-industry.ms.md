@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang ada untuk pengeluar?
     a: Peranti perubatan ialah aktiviti yang digalakkan MIDA, layak untuk insentif seperti Taraf Perintis (pengecualian cukai pendapatan separa-ke-penuh untuk tempoh tertentu) dan Elaun Cukai Pelaburan ke atas perbelanjaan modal yang layak. Peranti perubatan juga dinamakan sektor keutamaan di bawah Pelan Induk Perindustrian Baharu 2030. Sahkan terma dan kelayakan semasa terus dengan MIDA.
 lang: ms
-sourceContentHash: "0f609e23d14a24f5"
+sourceContentHash: "7fd1c6521ba9829e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -149,7 +149,7 @@ Di samping multinasional terdapat lapisan pengeluar tempatan — pakar ortopedik
 
 Peranti perubatan di Malaysia dikawal selia oleh **Pihak Berkuasa Peranti Perubatan (MDA)**, badan berkanun di bawah **Kementerian Kesihatan**. MDA ditubuhkan di bawah **Akta Pihak Berkuasa Peranti Perubatan 2012 (Akta 738)** dan menguatkuasakan **Akta Peranti Perubatan 2012 (Akta 737)**. Di bawah rangka kerja ini, peranti dikelaskan mengikut risiko **A hingga D**, mesti **didaftarkan** sebelum diletakkan di pasaran, dan perniagaan yang membuat, mengimport, mengedar atau mewakilinya mesti memegang **lesen establismen**. Pengeluar asing tanpa kehadiran tempatan mesti melantik **wakil sah** dalam negara, dan penyerahan dibuat melalui sistem dalam talian MDA (MeDC@St).
 
-Dari segi pelaburan, peranti perubatan ialah **aktiviti yang digalakkan MIDA** dalam ruang sains hayat dan medtek. Pengeluar boleh memohon insentif arus perdana seperti **Taraf Perintis** (pengecualian separa-ke-penuh pendapatan berkanun untuk tempoh tertentu) dan **Elaun Cukai Pelaburan** ke atas perbelanjaan modal yang layak, sebagaimana dinyatakan dalam garis panduan MIDA; kadar dan kelayakan tepat harus sentiasa disahkan dengan MIDA kerana senarai aktiviti yang digalakkan dan termanya berubah dari masa ke masa. Sektor ini juga dinamakan keutamaan di bawah **Pelan Induk Perindustrian Baharu 2030**, yang bertujuan mendorong Malaysia ke arah pembuatan bernilai lebih tinggi dan lebih setempat. Lihat profil [MIDA](/government/mida/) untuk cara agensi ini mentadbir insentif ini.
+Dari segi pelaburan, peranti perubatan ialah **aktiviti yang digalakkan MIDA** dalam ruang sains hayat dan medtek. Pengeluar boleh memohon insentif arus perdana seperti **Taraf Perintis** (pengecualian separa-ke-penuh pendapatan berkanun untuk tempoh tertentu) dan **Elaun Cukai Pelaburan** ke atas perbelanjaan modal yang layak, sebagaimana dinyatakan dalam garis panduan MIDA; kadar dan kelayakan tepat harus sentiasa disahkan dengan MIDA kerana senarai aktiviti yang digalakkan dan termanya berubah dari masa ke masa. Sektor ini juga dinamakan keutamaan di bawah [**Pelan Induk Perindustrian Baharu 2030**](/industries/new-industrial-master-plan-2030/), yang bertujuan mendorong Malaysia ke arah pembuatan bernilai lebih tinggi dan lebih setempat. Lihat profil [MIDA](/government/mida/) untuk cara agensi ini mentadbir insentif ini.
 
 ## Tinjauan
 

@@ -45,7 +45,7 @@ verificationNeeded:
   - "ecerdc.com.my의 ECERDC 자체 인센티브 페이지가 404를 반환하므로, ECERDC의 자체 인센티브 경로에 대한 현행 진술을 확보할 수 없었습니다."
 
 lang: "ko"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -144,7 +144,7 @@ framework: decision
 
 | 회랑 | 목표 부문 | 진짜 매력 |
 | --- | --- | --- |
-| NCER | 반도체, 전기·전자, 농업, 관광 | 쿨림(Kulim)·바투카완(Batu Kawan)·바얀르파스(Bayan Lepas) 클러스터 — **법적 권리가 아니라 집적(agglomeration)**. 국가반도체전략(National Semiconductor Strategy)은 NCER을 어디에서도 언급하지 않음 |
+| NCER | 반도체, 전기·전자, 농업, 관광 | 쿨림(Kulim)·바투카완(Batu Kawan)·바얀르파스(Bayan Lepas) 클러스터 — **법적 권리가 아니라 집적(agglomeration)**. [국가반도체전략(National Semiconductor Strategy)](/ko/industries/semiconductor-industry-national-strategy)은 NCER을 어디에서도 언급하지 않음 |
 | ECER | 석유화학, 제조, 농산물 가공, 관광, 물류 | MCKIP, 관보에 고시된 **자유상업지대(Free Commercial Zone)** 로서의 콴탄항(Kuantan Port), 그리고 ECRL |
 | 이스칸다르 말레이시아 | 금융서비스, 물류, 관광, 헬스케어, 교육, 창의 | 싱가포르 근접성, 그리고 그 위에 겹치는 **JS-SEZ** 패키지 |
 | SDC | 농업, 팜오일 하류, 관광, 물류 | **2021년부터 2030년까지**를 포괄하는 SDC 블루프린트 2.0 |

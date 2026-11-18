@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 
 status: "published"
 aiAssisted: true
@@ -106,7 +106,7 @@ framework: rules
 - **賞金**——約55%（RM1.10）が当選者への賞金として充てられる。
 - **SST**——約4.39センが業界の負担となる。
 
-さらに、NFO業界は**税引前利益の10%**を国家スポーツ評議会（Majlis Sukan Negara）に拠出しており、他の企業と同様に24%の法人税（居住法人の標準税率）も課される。
+さらに、NFO業界は**税引前利益の10%**を[国家スポーツ評議会](/ja/sports/national-sports-council-msn)（Majlis Sukan Negara）に拠出しており、他の企業と同様に24%の法人税（居住法人の標準税率）も課される。
 
 つまり、事業者が運営コストと利益を計算する前の段階で、投注額の大部分はすでに政府と国のスポーツ基金へと流れているのである。
 

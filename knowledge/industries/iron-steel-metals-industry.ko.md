@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아는 철강 외의 금속에도 강한가요?
     a: 그렇습니다. 비철금속에서 말레이시아는 세계적으로 경쟁력이 있습니다. 사라왁에 본거지를 둔 Press Metal은 동남아시아 최대의 통합 알루미늄 생산자이고, Malaysia Smelting Corporation은 이 나라의 오랜 주석 채광 역사의 유산으로서 세계 최상위 정제 주석 생산자 중 하나입니다.
 lang: ko
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

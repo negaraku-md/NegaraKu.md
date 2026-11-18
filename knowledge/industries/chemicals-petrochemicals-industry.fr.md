@@ -31,7 +31,7 @@ faq:
   - q: "Comment le gouvernement soutient-il l'industrie chimique ?"
     a: "La Malaysian Investment Development Authority (MIDA), par l'intermédiaire de sa Chemical and Advanced Material Division, évalue les licences de fabrication et offre des incitations telles que le statut de pionnier (Pioneer Status) et l'abattement fiscal pour investissement (Investment Tax Allowance). Les projets pétroliers et pétrochimiques relèvent également du Petroleum Development Act 1974. La Feuille de route de l'industrie chimique 2030 (Chemical Industry Roadmap 2030) et le Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030) fixent l'orientation stratégique vers des produits chimiques de spécialité à plus forte valeur ajoutée."
 lang: fr
-sourceContentHash: "11eb5b1edb640b2d"
+sourceContentHash: "dd296a225bbc1577"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Ces zones interconnectées — Pengerang, Kerteh et Gebeng en particulier — co
 
 L'investissement et l'octroi de licences passent par la [Malaysian Investment Development Authority (MIDA)](/fr/government/mida/), dont la **Chemical and Advanced Material Division** évalue les demandes de licence de fabrication et administre des incitations telles que le statut de pionnier (Pioneer Status) et l'abattement fiscal pour investissement (Investment Tax Allowance) ; les activités pétrolières et pétrochimiques relèvent aussi du **Petroleum Development Act 1974**. La MIDA a décrit la Malaisie comme accueillant plus de 100 entreprises pétrochimiques fabriquant une gamme variée de produits.
 
-L'orientation politique provient de deux documents. Le **Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030, NIMP 2030)** est le schéma national de transformation industrielle, bâti sur quatre missions (accroître la complexité économique, la numérisation, la poussée vers le zéro net et la sécurité économique), la chimie étant traitée comme un segment à fort impact et à forte croissance abordé par un ensemble de plans d'action. La **Feuille de route de l'industrie chimique 2030 (Chemical Industry Roadmap 2030)** en est le compagnon sectoriel, visant le relèvement de la part du PIB et de la valeur noté plus haut et donnant la priorité aux produits chimiques de spécialité.
+L'orientation politique provient de deux documents. Le **[Nouveau Plan directeur industriel 2030](/fr/industries/new-industrial-master-plan-2030/) (New Industrial Master Plan 2030, NIMP 2030)** est le schéma national de transformation industrielle, bâti sur quatre missions (accroître la complexité économique, la numérisation, la poussée vers le zéro net et la sécurité économique), la chimie étant traitée comme un segment à fort impact et à forte croissance abordé par un ensemble de plans d'action. La **Feuille de route de l'industrie chimique 2030 (Chemical Industry Roadmap 2030)** en est le compagnon sectoriel, visant le relèvement de la part du PIB et de la valeur noté plus haut et donnant la priorité aux produits chimiques de spécialité.
 
 ## Perspectives
 

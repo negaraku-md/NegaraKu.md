@@ -37,7 +37,7 @@ verificationNeeded:
   - "MIDA's own history page states its 1967 incorporation under Act 397, but the point at which the authority's English name changed from 'Malaysian Industrial Development Authority' to 'Malaysian Investment Development Authority' was not confirmed at an official source and is not stated in this article"
 
 lang: "es"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -217,7 +217,7 @@ Tras la remodelación del gabinete de diciembre de 2025, el MITI está dirigido 
 viceministro. El ministerio tiene su sede en **Menara MITI**, en Kuala Lumpur.
 
 En el marco del Presupuesto 2026, el MITI recibió una asignación de **RM1.898
-millones** para liderar la ejecución del **Nuevo Plan Maestro Industrial 2030 (New
+millones** para liderar la ejecución del **[Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030) (New
 Industrial Master Plan 2030, NIMP 2030)**, el plan rector que guía la dirección
 manufacturera e industrial de Malasia.
 

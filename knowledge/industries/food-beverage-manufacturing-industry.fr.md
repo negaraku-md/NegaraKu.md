@@ -31,7 +31,7 @@ faq:
   - q: "Comment la fabrication alimentaire est-elle réglementée en Malaisie ?"
     a: "La sécurité et l'étiquetage des aliments sont régis par le Food Act 1983 et ses règles subsidiaires (telles que les Food Regulations 1985 et les Food Hygiene Regulations 2009), administrés par le ministère de la Santé. Les allégations halal sont contrôlées séparément par le Department of Islamic Development Malaysia (JAKIM), qui délivre la certification halal officielle."
 lang: fr
-sourceContentHash: "391a7deab0b3d94e"
+sourceContentHash: "5dada9f392a41065"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -125,7 +125,7 @@ L'industrie n'est pas une chose unique mais plusieurs, chacune avec sa propre é
 
 - **Aliments transformés et emballés** — snacks, nouilles instantanées, biscuits, sauces, assaisonnements et plats préparés. C'est le segment le plus visible et le siège de beaucoup des marques de consommation les plus connues de la Malaisie.
 - **Cacao et confiserie** — l'une des spécialisations les plus frappantes de la Malaisie. Bien qu'elle cultive très peu de cacao aujourd'hui, la Malaisie est un grand **broyeur de cacao**, important des fèves et les transformant en beurre, poudre, liqueur de cacao et chocolat industriel. Le broyage aurait atteint environ 90 849 tonnes au deuxième trimestre 2026 — environ 40 % du total asiatique — après environ 370 000 tonnes pour l'ensemble de l'année 2023 ([Malay Mail](https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224)). Guan Chong Berhad et Barry Callebaut exploitent tous deux de grandes opérations de broyage dans le Johor.
-- **Huiles et graisses comestibles** — étroitement liées à l'industrie de l'huile de palme de la Malaisie, produisant des huiles de cuisson, des graisses de spécialité, de la margarine et des ingrédients alimentaires pour l'usage local et l'exportation.
+- **Huiles et graisses comestibles** — étroitement liées à [l'industrie de l'huile de palme de la Malaisie](/fr/industries/palm-oil-industry), produisant des huiles de cuisson, des graisses de spécialité, de la margarine et des ingrédients alimentaires pour l'usage local et l'exportation.
 - **Boissons** — sodas, eau en bouteille et minérale, café, thé et boissons énergisantes ou à base de plantes. Les marques ici incluent le 100Plus de F&N, l'eau en bouteille de Spritzer et les boissons énergisantes à base de plantes de Power Root.
 - **Aquaculture et transformation des produits de la mer** — transformant les captures marines et d'élevage de la Malaisie en produits de la mer surgelés, en conserve et à valeur ajoutée, avec un potentiel d'exportation important.
 

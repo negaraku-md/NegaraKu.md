@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ framework: explainer
 
 Fisheries Act 1985 मलेशिया का **मत्स्य और समुद्री संरक्षण पर प्रमुख संघीय कानून** है। इसने पहले के मत्स्य कानून का स्थान लिया और मछली पकड़ने के लाइसेंसिंग, मत्स्य संसाधनों के प्रबंधन, और समुद्री आवासों की रक्षा को एक एकल ढाँचे के अंतर्गत लाया। अधिनियम को कई Parts में संगठित किया गया है; समुद्री उद्यानों और समुद्री रिज़र्वों को विशेष रूप से **Part IX** में निपटाया गया है।
 
-इसका प्रशासन **मत्स्य महानिदेशक (Director-General of Fisheries)** की अध्यक्षता वाले **Department of Fisheries Malaysia** (Jabatan Perikanan Malaysia) द्वारा किया जाता है, जो मलेशियाई जल में मत्स्य और समुद्री उद्यान के मामलों का समन्वय और देखरेख करता है।
+इसका प्रशासन **मत्स्य महानिदेशक (Director-General of Fisheries)** की अध्यक्षता वाले [**Department of Fisheries Malaysia**](/hi/agriculture/department-of-fisheries-malaysia/) (Jabatan Perikanan Malaysia) द्वारा किया जाता है, जो मलेशियाई जल में मत्स्य और समुद्री उद्यान के मामलों का समन्वय और देखरेख करता है।
 
 ## लाइसेंसिंग: मछली पकड़ना एक अनुमत गतिविधि है, कोई खुली छूट नहीं
 

@@ -30,7 +30,7 @@ faq:
     a: "1994年稲・米統制法（Control of Padi and Rice Act 1994、Act 522）である。米は統制商品であり、稲・米統制総局長が精米、卸売、小売、輸入、輸出及び州間移送についてライセンス及び許可を発給する。"
 
 lang: "ja"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -122,12 +122,12 @@ KPKM は自らを「農業変革のリーダー（Peneraju Transformasi Pertania
 | 略称 | 正式名称 | 種類 |
 | --- | --- | --- |
 | DOA | マレーシア農業局 | 部門 |
-| DVS | 獣医サービス局 | 部門 |
+| [DVS](/ja/agriculture/livestock-poultry-industry/) | 獣医サービス局 | 部門 |
 | DOF | マレーシア漁業局 | 部門 |
 | MAQIS | マレーシア検疫検査サービス局 | 部門 |
 | MARDI | マレーシア農業研究開発研究所 | 研究機関 |
 | LPP | 農民組織庁 | 法定機関 |
-| FAMA | 連邦農産物マーケティング庁 | 法定機関 |
+| [FAMA](/ja/agriculture/fama-agricultural-marketing-authority/) | 連邦農産物マーケティング庁 | 法定機関 |
 | LKIM | マレーシア漁業開発庁 | 法定機関 |
 | MADA | ムダ農業開発庁 | 法定機関 |
 | KADA | クムブ農業開発庁 | 法定機関 |
@@ -160,7 +160,7 @@ KKDW である。
 
 ## BERNAS はどのように同省と結びついているか？
 
-BERNAS（Padiberas Nasional Berhad）は政府機関だと誤解されることが多い。し
+[BERNAS](/ja/agriculture/bernas-rice-import-monopoly/)（Padiberas Nasional Berhad）は政府機関だと誤解されることが多い。し
 かし実際には、政府との協定に基づいて公的な機能を担う**民間企業**である。
 
 その歴史がこの関係を説明している。国家稲穀庁（LPN）は1971年10月20日に設立

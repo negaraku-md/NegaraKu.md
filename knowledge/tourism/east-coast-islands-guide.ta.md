@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 
 status: "published"
 aiAssisted: true
@@ -80,7 +80,7 @@ Perhentian, Redang, Kapas மற்றும் Tioman ஆகியவை பய
 
 ## இந்தத் தீவுகளை “கடல் பூங்காக்கள்” ஆக்குவது எது, அது உங்களுக்கு ஏன் முக்கியம்?
 
-பாதுகாக்கப்பட்ட மண்டலம் வெறும் கடற்கரை மட்டுமல்ல. மலேசியாவின் கடல் பூங்காக்கள் ஒவ்வொரு அரசிதழில் அறிவிக்கப்பட்ட தீவைச் சுற்றியும் **பொதுவாக மிகக் குறைந்த கடல் மட்டத்திலிருந்து இரண்டு கடல் மைல்கள்** வரை நீண்டுள்ளன — சில Terengganu தீவுகளுக்கு **ஒரு கடல் மைல்** எல்லையுடன் — மேலும் அவை **Fisheries Act 1985 (Amended 1993)**-இன் கீழ் **மலேசிய மீன்வளத் துறையால் (Department of Fisheries Malaysia)** நிர்வகிக்கப்படுகின்றன. நாடு முழுவதும், **49 தீவுகள்** கடல் பூங்காக்களாக அரசிதழில் அறிவிக்கப்பட்டுள்ளன.
+பாதுகாக்கப்பட்ட மண்டலம் வெறும் கடற்கரை மட்டுமல்ல. மலேசியாவின் கடல் பூங்காக்கள் ஒவ்வொரு அரசிதழில் அறிவிக்கப்பட்ட தீவைச் சுற்றியும் **பொதுவாக மிகக் குறைந்த கடல் மட்டத்திலிருந்து இரண்டு கடல் மைல்கள்** வரை நீண்டுள்ளன — சில Terengganu தீவுகளுக்கு **ஒரு கடல் மைல்** எல்லையுடன் — மேலும் அவை **Fisheries Act 1985 (Amended 1993)**-இன் கீழ் [**மலேசிய மீன்வளத் துறையால்**](/ta/agriculture/department-of-fisheries-malaysia) **(Department of Fisheries Malaysia)** நிர்வகிக்கப்படுகின்றன. நாடு முழுவதும், **49 தீவுகள்** கடல் பூங்காக்களாக அரசிதழில் அறிவிக்கப்பட்டுள்ளன.
 
 கிழக்குக் கடற்கரையில், Terengganu-இன் கடல் பூங்காக்கள் நான்கு தீவுத் தொகுதிகளை உள்ளடக்குகின்றன — **Pulau Redang, Pulau Perhentian, Pulau Kapas மற்றும் Pulau Tenggol** — அதே சமயம் Pahang-இன் **Tioman** கடல் பூங்கா **ஒன்பது தீவுகளின்** தொகுப்பாகும்: Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh மற்றும் Pulau Sembilang.
 

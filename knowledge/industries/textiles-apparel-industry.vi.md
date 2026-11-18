@@ -31,7 +31,7 @@ faq:
   - q: Những ưu đãi nào hỗ trợ đầu tư dệt may và trang phục?
     a: MIDA quản lý việc phê duyệt giấy phép sản xuất và các ưu đãi thuế cho phân khúc này, vốn là một lĩnh vực ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới (NIMP) 2030. Từ quý đầu năm 2026, các khoản đầu tư đủ điều kiện thuộc Khung Ưu đãi Đầu tư Mới dựa trên kết quả, với các ưu đãi phân tầng gắn với các kết quả như công nghệ, kỹ năng và liên kết nội địa. Hãy xác nhận mức và điều kiện hiện hành với MIDA.
 lang: vi
-sourceContentHash: "33538782332736dd"
+sourceContentHash: "97b0b938d8bbc429"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -144,7 +144,7 @@ Ngành nằm trong khung đầu tư chế tạo rộng hơn của Malaysia, do M
 
 Hai mạch chính sách có ý nghĩa cụ thể ở đây:
 
-- **NIMP 2030.** Kế hoạch Tổng thể Công nghiệp Mới 2030, ra mắt ngày 1 tháng 9 năm 2023, nêu tên dệt may, trang phục và giày dép trong số các phân khúc ưu tiên và định khung mục tiêu là độ phức tạp kinh tế cao hơn, áp dụng công nghệ và tiến bộ phát thải ròng bằng không thay vì sản xuất chi phí thấp.
+- **NIMP 2030.** [Kế hoạch Tổng thể Công nghiệp Mới 2030](/vi/industries/new-industrial-master-plan-2030/), ra mắt ngày 1 tháng 9 năm 2023, nêu tên dệt may, trang phục và giày dép trong số các phân khúc ưu tiên và định khung mục tiêu là độ phức tạp kinh tế cao hơn, áp dụng công nghệ và tiến bộ phát thải ròng bằng không thay vì sản xuất chi phí thấp.
 - **Một khung ưu đãi mới.** Từ quý đầu năm 2026, đầu tư đủ điều kiện vào phân khúc này thuộc một **Khung Ưu đãi Đầu tư Mới** trong đó các ưu đãi thuế được phân tầng và gắn với kết quả — ví dụ mức độ công nghệ, kỹ năng và liên kết nội địa — thay vì được cấp như các khoản trợ cấp đồng loạt. MIDA cũng quản lý việc phê duyệt giấy phép sản xuất và tiếp tục quảng bá các phân khúc di sản như batik.
 
 MIDA báo cáo đầu tư được duyệt khoảng **RM657 triệu trên 28 dự án** trong phân khúc lối sống năm 2025, tạo ra khoảng 1.222 việc làm — một lời nhắc rằng, dù ngành đã trưởng thành, nó vẫn thu hút vốn mới.

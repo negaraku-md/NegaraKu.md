@@ -210,7 +210,7 @@ Abdul Ghani** as Minister, with **Sim Tze Tzin** as Deputy Minister. The
 ministry is headquartered at **Menara MITI** in Kuala Lumpur.
 
 Under Budget 2026, MITI received an allocation of **RM1.898 billion** to lead
-delivery of the **New Industrial Master Plan 2030 (NIMP 2030)**, the blueprint
+delivery of the **[New Industrial Master Plan 2030](/industries/new-industrial-master-plan-2030) (NIMP 2030)**, the blueprint
 guiding Malaysia's manufacturing and industrial direction.
 
 ## Where the related rules live

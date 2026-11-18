@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚在钢铁以外的金属上是否强势？
     a: 是的。在非铁金属方面马来西亚具全球竞争力。总部位于砂拉越的齐力（Press Metal）是东南亚最大的一体化铝生产商，马来西亚冶炼公司（MSC）则跻身全球领先的精炼锡生产商之列，这是该国悠久采锡历史的遗产。
 lang: zh
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

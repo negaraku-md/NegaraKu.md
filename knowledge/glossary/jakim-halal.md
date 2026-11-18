@@ -165,7 +165,7 @@ Sebagai gambaran fi (mengikut jadual dalam FAQ portal negeri Sarawak/KISWA; kada
 
 Ramai keliru antara dua badan ini. Perbezaannya jelas:
 
-| Aspek | JAKIM | HDC (Halal Development Corporation) |
+| Aspek | JAKIM | [HDC (Halal Development Corporation)](/industries/halal-industry-economy) |
 | --- | --- | --- |
 | Fungsi utama | Mengeluarkan & mengaudit sijil halal | Membangunkan ekonomi & industri halal |
 | Kuasa pensijilan | Ya (bersama MAIN/JAIN) | Tidak — tidak mengeluarkan sijil |

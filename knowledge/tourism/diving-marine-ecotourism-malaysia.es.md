@@ -31,7 +31,7 @@ faq:
     a: "Depende de la ubicación. Los parques marinos de la Malasia Peninsular y Labuan son federales, gestionados por el Departamento de Pesca de Malasia bajo la Ley de Pesca de 1985. Los parques de Sabah, incluida Sipadan, son gestionados por el organismo estatal Sabah Parks bajo una ley estatal aparte."
 
 lang: "es"
-sourceContentHash: "b4330d885555b613"
+sourceContentHash: "d2d1f34db7ef0126"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ El agua más clara de Malasia es también la más difícil de alcanzar: para dej
 
 No existe una única «autoridad nacional de buceo». La jurisdicción está dividida por geografía.
 
-Los parques marinos de la **Malasia Peninsular y Labuan** son federales, gestionados por el **Departamento de Pesca de Malasia (DOF)** bajo la **Ley de Pesca de 1985**. El DOF declara las aguas que rodean 49 islas como parques marinos, repartidos en cinco estados y el territorio federal de Labuan, con una zona protegida que se extiende dos millas náuticas mar adentro desde el nivel más bajo del mar (una milla náutica para algunas islas de Terengganu y Labuan).
+Los parques marinos de la **Malasia Peninsular y Labuan** son federales, gestionados por el **[Departamento de Pesca de Malasia](/es/agriculture/department-of-fisheries-malaysia) (DOF)** bajo la **Ley de Pesca de 1985**. El DOF declara las aguas que rodean 49 islas como parques marinos, repartidos en cinco estados y el territorio federal de Labuan, con una zona protegida que se extiende dos millas náuticas mar adentro desde el nivel más bajo del mar (una milla náutica para algunas islas de Terengganu y Labuan).
 
 **Sabah** es diferente. Sus islas — incluidas Sipadan y los arrecifes en torno a Semporna — están bajo el organismo estatal **Sabah Parks**, que fija sus propios permisos y reglas. Para un buceador esta distinción no es académica: la tarifa que pagas, el permiso que necesitas y a través de quién debes reservar dependen de en qué lado del mapa te encuentres.
 

@@ -35,7 +35,7 @@ verificationNeeded:
   - "The RM2 Sports Toto ticket breakdown (16 sen, 14.72 sen, RM1.10, 4.39 sen SST) is one example; the actual values may differ by game and draw."
 
 lang: "es"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Tomemos un ejemplo sencillo — una apuesta de Sports Toto por valor de **RM2**:
 - **Premios** — alrededor del 55% (RM1.10) se asigna como dinero de premios a los ganadores.
 - **SST** — alrededor de 4.39 sen soportados por el sector.
 
-Además, el sector de los NFO aporta el **10% del beneficio antes de impuestos** al Consejo Nacional del Deporte (Majlis Sukan Negara), y sigue estando sujeto al impuesto de sociedades del 24% (la tasa estándar para las sociedades residentes) como cualquier otra empresa.
+Además, el sector de los NFO aporta el **10% del beneficio antes de impuestos** al [Consejo Nacional del Deporte](/es/sports/national-sports-council-msn) (Majlis Sukan Negara), y sigue estando sujeto al impuesto de sociedades del 24% (la tasa estándar para las sociedades residentes) como cualquier otra empresa.
 
 Eso significa que, antes de que un operador cuente sus costes de explotación y su beneficio, una gran parte de cada apuesta ya ha fluido al gobierno y al fondo nacional del deporte.
 

@@ -30,7 +30,7 @@ faq:
     a: "Akta Kawalan Padi dan Beras 1994 (Akta 522). Beras adalah komoditas terkendali; Direktur Jenderal Kawalselia Padi dan Beras menerbitkan lisensi dan izin bagi penggilingan, perdagangan grosir, ritel, impor, ekspor dan pemindahan antarnegara bagian."
 
 lang: "id"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -125,12 +125,12 @@ Direktori resmi kementerian mengelompokkan entitas di bawahnya sebagai berikut:
 | Singkatan | Nama lengkap | Jenis |
 | --- | --- | --- |
 | DOA | Departemen Pertanian Malaysia | Departemen |
-| DVS | Departemen Layanan Veteriner | Departemen |
+| [DVS](/id/agriculture/livestock-poultry-industry/) | Departemen Layanan Veteriner | Departemen |
 | DOF | Departemen Perikanan Malaysia | Departemen |
 | MAQIS | Departemen Layanan Karantina dan Pemeriksaan Malaysia | Departemen |
 | MARDI | Institut Penelitian dan Kemajuan Pertanian Malaysia | Institut penelitian |
 | LPP | Lembaga Organisasi Petani | Badan statutori |
-| FAMA | Lembaga Pemasaran Pertanian Federal | Badan statutori |
+| [FAMA](/id/agriculture/fama-agricultural-marketing-authority/) | Lembaga Pemasaran Pertanian Federal | Badan statutori |
 | LKIM | Lembaga Kemajuan Ikan Malaysia | Badan statutori |
 | MADA | Lembaga Kemajuan Pertanian Muda | Badan statutori |
 | KADA | Lembaga Kemajuan Pertanian Kemubu | Badan statutori |
@@ -166,7 +166,7 @@ KKDW, bukan KPKM.
 
 ## Bagaimana BERNAS terikat dengan kementerian?
 
-BERNAS (Padiberas Nasional Berhad) sering disalahpahami sebagai lembaga
+[BERNAS](/id/agriculture/bernas-rice-import-monopoly/) (Padiberas Nasional Berhad) sering disalahpahami sebagai lembaga
 pemerintah. Ia sebenarnya **perusahaan swasta** yang menjalankan fungsi publik di
 bawah perjanjian dengan pemerintah.
 

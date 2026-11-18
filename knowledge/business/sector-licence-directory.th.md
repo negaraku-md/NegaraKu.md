@@ -31,7 +31,7 @@ verificationNeeded:
   - "ชื่อย่อภาษาอังกฤษที่ JAKIM และนายทะเบียนสมาคมใช้ — ทั้งสองไม่ปรากฏบนเว็บไซต์ของหน่วยงานเอง"
 
 lang: "th"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -148,7 +148,7 @@ BLESS จัดการใบอนุญาตของรัฐบาลก�
 
 | ผู้กำกับดูแล | กฎหมายที่กำกับ | สิ่งที่ออก | เว็บไซต์ |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | การจดทะเบียนผู้รับเหมา การรับรองบุคลากร | cidb.gov.my |
+| [CIDB](/th/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | การจดทะเบียนผู้รับเหมา การรับรองบุคลากร | cidb.gov.my |
 | Board of Valuers, Appraisers, Estate Agents and Property Managers | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — คำว่า and Property Managers เพิ่มโดย Act A1550 มีผล 2 มกราคม 2018 | การจดทะเบียนและหนังสือรับรองการประกอบวิชาชีพ | lpeph.gov.my |
 | องค์กรปกครองท้องถิ่น | Town and Country Planning Act 1976 (Act 172) | การอนุญาตผังเมืองและการเปลี่ยนการใช้ | — |
 | องค์กรปกครองท้องถิ่น | Street, Drainage and Building Act 1974 (Act 133) | การอนุมัติแบบอาคาร หนังสือรับรองการเสร็จสมบูรณ์และการปฏิบัติตาม | — |

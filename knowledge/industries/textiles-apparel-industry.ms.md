@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang menyokong pelaburan tekstil dan pakaian?
     a: MIDA mentadbir kelulusan lesen pembuatan dan insentif cukai bagi subsektor ini, yang merupakan bidang keutamaan di bawah Pelan Induk Perindustrian Baharu (NIMP) 2030. Mulai suku pertama 2026, pelaburan yang layak tertakluk di bawah Rangka Kerja Insentif Pelaburan Baharu yang berasaskan hasil, dengan insentif berperingkat yang dikaitkan dengan hasil seperti teknologi, kemahiran dan hubungan tempatan. Sahkan kadar dan syarat semasa dengan MIDA.
 lang: ms
-sourceContentHash: "33538782332736dd"
+sourceContentHash: "97b0b938d8bbc429"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -144,7 +144,7 @@ Industri ini terletak dalam rangka kerja pelaburan-pembuatan Malaysia yang lebih
 
 Dua rentetan dasar penting secara khusus di sini:
 
-- **NIMP 2030.** Pelan Induk Perindustrian Baharu 2030, dilancarkan pada 1 September 2023, menamakan tekstil, pakaian dan kasut antara subsektor keutamaannya dan merangka matlamatnya sebagai kerumitan ekonomi yang lebih tinggi, penggunaan teknologi dan kemajuan sifar bersih berbanding pengeluaran kos rendah.
+- **NIMP 2030.** [Pelan Induk Perindustrian Baharu 2030](/industries/new-industrial-master-plan-2030/), dilancarkan pada 1 September 2023, menamakan tekstil, pakaian dan kasut antara subsektor keutamaannya dan merangka matlamatnya sebagai kerumitan ekonomi yang lebih tinggi, penggunaan teknologi dan kemajuan sifar bersih berbanding pengeluaran kos rendah.
 - **Rangka kerja insentif baharu.** Mulai suku pertama 2026, pelaburan yang layak dalam subsektor ini tertakluk di bawah **Rangka Kerja Insentif Pelaburan Baharu** yang insentif cukainya berperingkat dan dikaitkan dengan hasil — contohnya tahap teknologi, kemahiran dan hubungan tempatan — dan bukan diberikan sebagai elaun rata. MIDA juga mentadbir kelulusan lesen pembuatan dan terus mempromosikan segmen warisan seperti batik.
 
 MIDA melaporkan pelaburan diluluskan kira-kira **RM657 juta merentasi 28 projek** dalam subsektor gaya hidup pada 2025, menjana kira-kira 1,222 pekerjaan — satu peringatan bahawa, walaupun sektor ini matang, ia masih menarik modal baharu.

@@ -31,7 +31,7 @@ faq:
     a: "No. La pesca está prohibida dentro de los límites del parque marino, y los visitantes no pueden recoger ninguna parte de un organismo marino —vivo o muerto— incluidos fragmentos de coral y conchas, ni tocar, pisar o dañar de otro modo el coral."
 
 lang: "es"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ Perhentian, Redang, Kapas y Tioman son las cuatro islas de playa a las que se re
 
 ## ¿Qué hace que estas islas sean «parques marinos» y por qué le importa a usted?
 
-La zona protegida no es solo la playa. Los parques marinos de Malasia se extienden **en general dos millas náuticas desde el nivel más bajo del mar** alrededor de cada isla declarada —con un límite de **una milla náutica** para ciertas islas de Terengganu— y son gestionados por el **Departamento de Pesca de Malasia** en virtud de la **Ley de Pesca de 1985 (modificada en 1993) (Fisheries Act 1985)**. En todo el país, **49 islas** están declaradas parques marinos.
+La zona protegida no es solo la playa. Los parques marinos de Malasia se extienden **en general dos millas náuticas desde el nivel más bajo del mar** alrededor de cada isla declarada —con un límite de **una milla náutica** para ciertas islas de Terengganu— y son gestionados por el [**Departamento de Pesca de Malasia**](/es/agriculture/department-of-fisheries-malaysia) en virtud de la **Ley de Pesca de 1985 (modificada en 1993) (Fisheries Act 1985)**. En todo el país, **49 islas** están declaradas parques marinos.
 
 En la costa este, los parques marinos de Terengganu abarcan cuatro archipiélagos —**Pulau Redang, Pulau Perhentian, Pulau Kapas y Pulau Tenggol**— mientras que el parque marino de **Tioman**, en Pahang, es un conjunto de **nueve islas**: Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh y Pulau Sembilang.
 

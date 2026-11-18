@@ -31,7 +31,7 @@ faq:
   - q: "هل ماليزيا قوية في معادن غير الصلب؟"
     a: "نعم. ففي المعادن غير الحديدية، ماليزيا تنافسية عالميًا. فـPress Metal، ومقرّها ساراواك، أكبر منتج ألمنيوم متكامل في جنوب شرق آسيا، وMalaysia Smelting Corporation من كبار منتجي القصدير المكرَّر في العالم، إرثًا من تاريخ تعدين القصدير الطويل في البلاد."
 lang: ar
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

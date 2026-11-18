@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ framework: explainer
 
 Fisheries Act 1985 是马来西亚**关于渔业与海洋保护的主要联邦法律**。它取代了较早的渔业立法，把捕鱼发照、渔业资源管理与海洋栖息地保护纳入单一框架之下。该法令分为若干 Part（部分）；海洋公园与海洋保留区在 **Part IX（第九部分）**中专门处理。
 
-它由**大马渔业局**（Jabatan Perikanan Malaysia）管理，由**渔业总监**领导，负责协调与监管马来西亚水域内的渔业与海洋公园事务。
+它由[**大马渔业局**](/zh/agriculture/department-of-fisheries-malaysia/)（Jabatan Perikanan Malaysia）管理，由**渔业总监**领导，负责协调与监管马来西亚水域内的渔业与海洋公园事务。
 
 ## 发照：捕鱼是获准的活动，而非人人自便
 

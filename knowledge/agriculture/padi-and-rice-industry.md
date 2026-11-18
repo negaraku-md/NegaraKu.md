@@ -142,7 +142,7 @@ Growing padi in Malaysia is kept viable by government support rather than by the
 The scale of state involvement is visible in the concrete figures that are on the record:
 
 - The government has spent about **RM1 billion** in the **MADA** area alone, the country's largest granary.
-- **BERNAS**, the licensed rice importer, provides **RM3.2 billion** to fulfil ten government-imposed social obligations. These include **RM90 million** in farmer assistance in 2025 and **RM13 million** distributed from rice-import profits, according to Deputy Agriculture and Food Security Minister Chan Foong Hin.
+- **[BERNAS](/agriculture/bernas-rice-import-monopoly/)**, the licensed rice importer, provides **RM3.2 billion** to fulfil ten government-imposed social obligations. These include **RM90 million** in farmer assistance in 2025 and **RM13 million** distributed from rice-import profits, according to Deputy Agriculture and Food Security Minister Chan Foong Hin.
 
 The system is also priced with affordability in mind at the consumer end: a six-month ministry study found that about **15% of Malaysians** need rice priced around **RM26 for a 10kg bag**, underscoring why price control sits alongside farmer support in the same policy.
 
@@ -156,7 +156,7 @@ That single-importer model is not permanent. The concession **expires in 2031**,
 
 ## What are Malaysia's self-sufficiency targets?
 
-The number that judges the whole system is the self-sufficiency level, and policy sets it well above today's reality. Under the **National Agrofood Policy 2.0 (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, which covers **2021–2030**, Malaysia targets:
+The number that judges the whole system is the self-sufficiency level, and policy sets it well above today's reality. Under the **[National Agrofood Policy 2.0](/agriculture/food-security-self-sufficiency-policy/) (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, which covers **2021–2030**, Malaysia targets:
 
 | Milestone | Rice self-sufficiency target |
 |---|---|
@@ -172,4 +172,4 @@ The distance between the 52.9% actual and the 75%-by-2025 target is the core ten
 - **Watch the 2031 BERNAS review**, which will decide whether the sole-importer concession is renewed, restructured or opened up, and what happens to the social obligations it funds.
 - **Confirm the remaining figures** flagged in *verificationNeeded* — exact padi planted area and production tonnage, and the registered-farmer headcount — against DOSM and KPKM primary sources before citing them as settled.
 
-See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/agriculture/agriculture-sector-overview/).

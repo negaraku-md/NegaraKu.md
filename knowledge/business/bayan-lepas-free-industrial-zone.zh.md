@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 
 status: "published"
 aiAssisted: true
@@ -271,7 +271,7 @@ DOSM的**《2025年各州国内生产总值》**
 现有的批准不受影响，但一份仍写着*在FIZ内申请
 先锋地位*的计划，是在对着一扇已关闭的窗口筹划。
 
-MITI于2024年5月28日发布的**国家半导体战略**也提出同样的观点：它仅
+MITI于2024年5月28日发布的**[国家半导体战略](/zh/industries/semiconductor-industry-national-strategy)**也提出同样的观点：它仅
 一次提及峇六拜，且属描述性质，并未按地理进行任何拨配。该集群在封装、
 测试和封装（ATP）方面的深度才是资产。这一身份只是管道设施。
 

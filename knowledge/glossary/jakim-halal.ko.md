@@ -34,7 +34,7 @@ faq:
     a: "예. 해외 제조업체는 JAKIM 인증을 신청하거나, JAKIM이 인정하는 외국 할랄 인증 기관의 인증서를 사용할 수 있습니다. 인정 기관 목록은 JAKIM이 검토하고 갱신합니다."
 
 lang: "ko"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ JAKIM의 이 중심 역할은 변하지 않은 오래된 지위가 아닙니다.
 
 많은 이가 이 두 기관을 혼동합니다. 그 차이는 분명합니다.
 
-| 측면 | JAKIM | HDC(할랄개발공사) |
+| 측면 | JAKIM | [HDC(할랄개발공사)](/ko/industries/halal-industry-economy) |
 | --- | --- | --- |
 | 주요 기능 | 할랄 인증서 발급 및 감사 | 할랄 경제·산업 발전 |
 | 인증 권한 | 있음(MAIN/JAIN과 함께) | 없음 — 인증서를 발급하지 않음 |

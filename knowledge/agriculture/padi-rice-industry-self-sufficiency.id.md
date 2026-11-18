@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) memegang peran importir tunggal beras negara, satu peran yang diwarisi dari Lembaga Padi dan Beras Negara (LPN), yang mengambil alih impor beras dan menjadi importir tunggal pada 1974 menyusul krisis pangan dunia 1973. BERNAS juga mengelola stok penyangga beras negara dan mendukung penggiling Bumiputera. Ia diprivatisasi pada 12 Januari 1996."
 
 lang: "id"
-sourceContentHash: "ed4546075e84eef3"
+sourceContentHash: "8f44d2a10fa14edb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Tiga lapisan utama mendukung pendapatan petani padi:
 2. **Subsidi Harga Padi.** Pembayaran tambahan bagi setiap ton padi yang dijual dinaikkan menjadi **RM500 per ton** (dari RM360). Ia adalah subsidi berbasis produksi — semakin banyak padi dijual, semakin banyak bantuan diterima.
 3. **Subsidi input.** Pemerintah mengalokasikan **RM2.6 miliar** dalam Belanjawan 2024 bagi berbagai subsidi dan insentif kepada petani padi serta nelayan, termasuk pupuk, pestisida dan biaya produksi.
 
-Di ujung rantai berdiri **BERNAS** (Padiberas Nasional Berhad). Perusahaan ini memegang peran importir tunggal beras negara — satu tanggung jawab yang diwarisi dari Lembaga Padi dan Beras Negara (LPN), yang mengambil alih peran impor beras dan menjadi importir tunggal pada 1974 menyusul krisis pangan dunia 1973. Sebagai imbalan, BERNAS memikul kewajiban sosial seperti mengelola stok penyangga beras negara, membeli padi petani pada harga terjamin, dan mendukung penggiling Bumiputera. BERNAS diprivatisasi pada **12 Januari 1996** dan kemudian dicatatkan di Bursa Malaysia.
+Di ujung rantai berdiri **[BERNAS](/id/agriculture/bernas-rice-import-monopoly/)** (Padiberas Nasional Berhad). Perusahaan ini memegang peran importir tunggal beras negara — satu tanggung jawab yang diwarisi dari Lembaga Padi dan Beras Negara (LPN), yang mengambil alih peran impor beras dan menjadi importir tunggal pada 1974 menyusul krisis pangan dunia 1973. Sebagai imbalan, BERNAS memikul kewajiban sosial seperti mengelola stok penyangga beras negara, membeli padi petani pada harga terjamin, dan mendukung penggiling Bumiputera. BERNAS diprivatisasi pada **12 Januari 1996** dan kemudian dicatatkan di Bursa Malaysia.
 
 ## Mengapa target ini sulit dicapai?
 

@@ -31,7 +31,7 @@ faq:
     a: "Cela dépend de l'emplacement. Les parcs marins de la Malaisie péninsulaire et de Labuan sont fédéraux, gérés par le Département des pêches de Malaisie en vertu de la loi sur les pêches de 1985. Les parcs du Sabah, dont Sipadan, sont gérés par l'organisme d'État Sabah Parks en vertu d'une loi d'État distincte."
 
 lang: "fr"
-sourceContentHash: "b4330d885555b613"
+sourceContentHash: "d2d1f34db7ef0126"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ L'eau la plus claire de la Malaisie est aussi la plus difficile à atteindre : p
 
 Il n'existe pas d'« autorité nationale de la plongée » unique. La compétence est divisée par la géographie.
 
-Les parcs marins de la **Malaisie péninsulaire et de Labuan** sont fédéraux, gérés par le **Département des pêches de Malaisie (DOF)** en vertu de la **loi sur les pêches de 1985**. Le DOF classe les eaux entourant 49 îles comme parcs marins, répartis dans cinq États et le territoire fédéral de Labuan, avec une zone protégée s'étendant sur deux milles nautiques vers le large à partir du niveau le plus bas de la mer (un mille nautique pour certaines îles de Terengganu et de Labuan).
+Les parcs marins de la **Malaisie péninsulaire et de Labuan** sont fédéraux, gérés par le **[Département des pêches de Malaisie](/fr/agriculture/department-of-fisheries-malaysia) (DOF)** en vertu de la **loi sur les pêches de 1985**. Le DOF classe les eaux entourant 49 îles comme parcs marins, répartis dans cinq États et le territoire fédéral de Labuan, avec une zone protégée s'étendant sur deux milles nautiques vers le large à partir du niveau le plus bas de la mer (un mille nautique pour certaines îles de Terengganu et de Labuan).
 
 Le **Sabah** fait exception. Ses îles — dont Sipadan et les récifs autour de Semporna — relèvent de l'organisme d'État **Sabah Parks**, qui fixe ses propres permis et règles. Pour un plongeur, cette distinction n'a rien d'académique : le droit que vous payez, le permis dont vous avez besoin et l'intermédiaire par lequel vous devez réserver dépendent tous du côté de la carte où vous vous trouvez.
 

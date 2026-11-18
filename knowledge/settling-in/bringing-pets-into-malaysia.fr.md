@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne s'installant en Malaisie avec un chien ou un chat, ou en faisant venir un à toute autre fin, et qui doit planifier la procédure de permis et de quarantaine avant le départ."
 
 lang: "fr"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ stayFacts:
 
 Votre vol est réservé, vos cartons sont faits, et soudain la question vous frappe : et le chien ? En Malaisie, un animal de compagnie ne se contente pas de voyager en soute — il lui faut un permis approuvé avant même le décollage, une puce conforme à une norme ISO précise et, très probablement, une semaine ou plus de quarantaine avant que vous puissiez le récupérer.
 
-Les règles se répartissent entre deux organismes. Le Département des services vétérinaires (DVS) — Jabatan Perkhidmatan Veterinar — rédige les conditions de biosécurité : âge, vaccination, certification sanitaire, durée de la quarantaine. Les Services malaisiens de quarantaine et d'inspection (MAQIS) sont ceux qui délivrent réellement le permis d'importation et gèrent les stations de quarantaine. En pratique, vous traitez surtout avec MAQIS.
+Les règles se répartissent entre deux organismes. Le [Département des services vétérinaires](/fr/agriculture/livestock-poultry-industry/) (DVS) — Jabatan Perkhidmatan Veterinar — rédige les conditions de biosécurité : âge, vaccination, certification sanitaire, durée de la quarantaine. Les Services malaisiens de quarantaine et d'inspection (MAQIS) sont ceux qui délivrent réellement le permis d'importation et gèrent les stations de quarantaine. En pratique, vous traitez surtout avec MAQIS.
 
 ## Ce qui doit être rempli avant que l'animal ne voyage
 

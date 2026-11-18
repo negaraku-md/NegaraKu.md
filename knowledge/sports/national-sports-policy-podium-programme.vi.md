@@ -35,7 +35,7 @@ faq:
     a: "Các mục tiêu được gắn với chu kỳ của các đại hội chính — Olympic, Đại hội Thể thao Châu Á và Đại hội Thể thao Khối Thịnh vượng chung — và trọng tâm được đặt vào các môn được xác định có cơ hội thành công cao, phù hợp với Mục tiêu 8 của Chính sách Thể thao Quốc gia. Tài trợ được phân bổ theo chu kỳ (ví dụ RM60 triệu mỗi năm trong bốn năm), do Hội đồng Thể thao Quốc gia điều phối và được Viện Thể thao Quốc gia hỗ trợ về khoa học thể thao."
 
 lang: "vi"
-sourceContentHash: "7132b0584a8f785b"
+sourceContentHash: "d336fe0c30f91bdb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ Chính sách Thể thao Quốc gia 2009 nêu rõ rằng hai thành phần "phả
 | Cốt lõi | Văn hóa tham gia | Văn hóa thành tích |
 | Mục tiêu | Lối sống năng động và lành mạnh cho người dân | Sự xuất sắc tại các giải đấu quốc tế |
 | Ví dụ hoạt động | Chạy bộ từ thiện, thể dục nhịp điệu, các trò chơi truyền thống | Huấn luyện vận động viên quốc gia cho Olympic và Đại hội Thể thao Châu Á |
-| Cơ quan dẫn dắt | Cục Thanh niên và Thể thao | Hội đồng Thể thao Quốc gia và Viện Thể thao Quốc gia |
+| Cơ quan dẫn dắt | Cục Thanh niên và Thể thao | [Hội đồng Thể thao Quốc gia](/vi/sports/national-sports-council-msn) và Viện Thể thao Quốc gia |
 | Thước đo thành công | Tỷ lệ tham gia của xã hội | Huy chương và thứ hạng thế giới |
 
 Chương trình Podium nằm hoàn toàn trong cột bên phải. Nó không được thiết kế để tăng số người chơi thể thao; nó được thiết kế để chuẩn bị cho các vận động viên tinh nhuệ nhất của quốc gia có cơ hội chiến thắng ở tầm quốc tế.

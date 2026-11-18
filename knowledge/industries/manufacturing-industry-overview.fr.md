@@ -34,7 +34,7 @@ faq:
     a: "Le Département des statistiques de la Malaisie (DOSM) publie les statistiques manufacturières mensuelles et annuelles et les données du PIB. L'Autorité malaisienne de développement des investissements (MIDA) promeut et approuve l'investissement manufacturier, tandis que le ministère de l'Investissement, du Commerce et de l'Industrie (MITI) est le dépositaire du NIMP 2030."
 
 lang: "fr"
-sourceContentHash: "00a67f4ef7e6555a"
+sourceContentHash: "479d1b3f589a9b53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ Deux domaines se distinguent où la Malaisie joue bien au-dessus de sa taille, e
 
 ## Comment le gouvernement tente-t-il de la faire monter dans la chaîne de valeur ?
 
-La réponse est le **Nouveau Plan directeur industriel 2030 (NIMP 2030)**, lancé le 1er septembre 2023. Plutôt que de désigner des gagnants étroits, il adopte une approche « fondée sur des missions » construite autour de quatre missions :
+La réponse est le **[Nouveau Plan directeur industriel 2030](/fr/industries/new-industrial-master-plan-2030/) (NIMP 2030)**, lancé le 1er septembre 2023. Plutôt que de désigner des gagnants étroits, il adopte une approche « fondée sur des missions » construite autour de quatre missions :
 
 1. Faire progresser la complexité économique
 2. Monter en gamme technologique pour une nation numériquement dynamique

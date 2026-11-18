@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 
 status: "published"
 aiAssisted: true
@@ -197,7 +197,7 @@ Johari Abdul Ghani）担任部长，**沈志强**（Sim Tze Tzin）担任副部�
 总部为吉隆坡的 **Menara MITI**。
 
 在 2026 年财政预算案下，MITI 获得 **18.98 亿令吉（RM1.898 billion）** 拨款，
-以主导落实**《2030 年新工业大蓝图》（New Industrial Master Plan 2030，NIMP
+以主导落实**[《2030 年新工业大蓝图》](/zh/industries/new-industrial-master-plan-2030)（New Industrial Master Plan 2030，NIMP
 2030）**——这是指引马来西亚制造业与工业方向的蓝图。
 
 ## 相关规则在哪里

@@ -31,7 +31,7 @@ faq:
   - q: "Mengapa akuakultur penting bagi sekuriti makanan Malaysia?"
     a: "Ikan ialah sumber protein haiwan utama Malaysia, dan tangkapan liar telah mendatar. Akuakultur ialah tuas utama untuk meningkatkan nisbah sara diri ikan negara — kira-kira 90.7% pada 2025 — dan Dasar Agromakanan Negara secara jelas mengutamakan ikan ternak berbanding ikan tangkapan untuk memenuhi permintaan masa depan."
 lang: ms
-sourceContentHash: "fbf634717e2b17c5"
+sourceContentHash: "8e2067b1d42a9bd3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,7 +109,7 @@ Kebanyakan ikan di pinggan makan malam rakyat Malaysia masih datang dari laut �
 
 ## Sebesar mana industri akuakultur Malaysia?
 
-Akuakultur bukan lagi sampingan. Jabatan Perikanan Malaysia (DOF) melaporkan kira-kira **492,680 tan** pengeluaran akuakultur bernilai kira-kira **RM3.9 bilion** pada 2023, dengan hasil meningkat kepada kira-kira **510,000 tan** pada 2024. Berbanding jumlah pengeluaran ikan boleh dimakan sebanyak 1.79 juta tan pada 2023, hasil ternak kini menyumbang hampir **30%** daripada semua pengeluaran perikanan — dan bahagian itu direka untuk berkembang.
+Akuakultur bukan lagi sampingan. [Jabatan Perikanan Malaysia](/agriculture/department-of-fisheries-malaysia/) (DOF) melaporkan kira-kira **492,680 tan** pengeluaran akuakultur bernilai kira-kira **RM3.9 bilion** pada 2023, dengan hasil meningkat kepada kira-kira **510,000 tan** pada 2024. Berbanding jumlah pengeluaran ikan boleh dimakan sebanyak 1.79 juta tan pada 2023, hasil ternak kini menyumbang hampir **30%** daripada semua pengeluaran perikanan — dan bahagian itu direka untuk berkembang.
 
 Logik strateginya mudah. Perikanan tangkapan terhad oleh apa yang laut boleh hasilkan secara mampan, dan tangkapan Malaysia secara amnya telah mendatar. Akuakultur, sebaliknya, boleh dikembangkan dengan pelaburan. Itulah sebabnya sasaran kerajaan, di bawah Dasar Agromakanan Negara, adalah untuk menganjak keseimbangan pengeluaran ikan boleh dimakan ke arah penternakan — menyasarkan dari semasa ke semasa **nisbah akuakultur kepada tangkapan kira-kira 60:40**, hampir satu pembalikan daripada campuran sejarah.
 

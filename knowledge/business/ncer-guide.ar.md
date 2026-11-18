@@ -46,7 +46,7 @@ verificationNeeded:
   - "ما إذا كان أي حافز ضريبي خاص بالاستراتيجية الوطنية لأشباه الموصلات قد نُشر في الجريدة الرسمية — لم يُعثر على أي منها"
 
 lang: "ar"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -182,7 +182,7 @@ P.U.(B) 249/2008.
 العمالة الهندسية المرافقة لها. ومطار بينانغ الدولي (Penang International Airport) وميناء
 بينانغ (Penang Port) إلى جوارها. وهذا التكتل هو الأصل الحقيقي.
 
-لكن **الاستراتيجية الوطنية لأشباه الموصلات (National Semiconductor Strategy)**، التي أطلقها
+لكن **[الاستراتيجية الوطنية لأشباه الموصلات](/ar/industries/semiconductor-industry-national-strategy) (National Semiconductor Strategy)**، التي أطلقها
 رئيس الوزراء في **28 مايو 2024** وتقودها MITI، لا تربط ذلك التجمّع بـ NCER. تذكر NSS الشمال
 مرة واحدة بالضبط، وعلى سبيل الوصف:
 

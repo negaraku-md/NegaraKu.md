@@ -22,7 +22,7 @@ appliesTo: "犬や猫を連れてマレーシアへ移住する人、または�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 
 status: "published"
 aiAssisted: true
@@ -73,7 +73,7 @@ stayFacts:
 
 航空券は予約済み、荷物も詰め終えた——そこでふと気づく。犬はどうする。マレーシアでは、ペットはただ貨物室に乗せればよいというわけではない。地上を離れる前に承認された許可、特定のISO規格を満たすマイクロチップ、そしておそらくは取り戻すまでに1週間以上の検疫が必要になる。
 
-これらの規則は2つの機関にまたがっている。獣医サービス局（Jabatan Perkhidmatan Veterinar、DVS）が、年齢、ワクチン接種、健康証明、検疫期間といったバイオセキュリティ条件を定める。実際に輸入許可を発行し、検疫所を運営するのは、マレーシア検疫検査局（Malaysian Quarantine and Inspection Services、MAQIS）である。実務上、やり取りする相手は主にMAQISになる。
+これらの規則は2つの機関にまたがっている。[獣医サービス局](/ja/agriculture/livestock-poultry-industry/)（Jabatan Perkhidmatan Veterinar、DVS）が、年齢、ワクチン接種、健康証明、検疫期間といったバイオセキュリティ条件を定める。実際に輸入許可を発行し、検疫所を運営するのは、マレーシア検疫検査局（Malaysian Quarantine and Inspection Services、MAQIS）である。実務上、やり取りする相手は主にMAQISになる。
 
 ## 動物が渡航する前に満たすべき条件
 

@@ -30,7 +30,7 @@ faq:
     a: "벼및쌀통제법 1994(Control of Paddy and Rice Act 1994, Act 522)입니다. 쌀은 통제 상품이며; 벼·쌀 규제 사무총장이 정미, 도매, 소매, 수입, 수출, 주(州) 간 이송에 대한 허가와 인가를 발급합니다."
 
 lang: "ko"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,12 +113,12 @@ KPKM는 스스로를 "농업 전환의 선도자"로 자리매김합니다 — �
 | 약칭 | 정식 명칭 | 유형 |
 | --- | --- | --- |
 | DOA | 말레이시아 농업부 | 부서 |
-| DVS | 수의청 | 부서 |
+| [DVS](/ko/agriculture/livestock-poultry-industry/) | 수의청 | 부서 |
 | DOF | 말레이시아 수산청 | 부서 |
 | MAQIS | 말레이시아 검역검사청 | 부서 |
 | MARDI | 말레이시아 농업연구개발원 | 연구원 |
 | LPP | 농민조직청 | 법정 기구 |
-| FAMA | 연방농산물유통청 | 법정 기구 |
+| [FAMA](/ko/agriculture/fama-agricultural-marketing-authority/) | 연방농산물유통청 | 법정 기구 |
 | LKIM | 말레이시아 수산개발청 | 법정 기구 |
 | MADA | 무다 농업개발청 | 법정 기구 |
 | KADA | 케무부 농업개발청 | 법정 기구 |
@@ -139,7 +139,7 @@ KPKM는 스스로를 "농업 전환의 선도자"로 자리매김합니다 — �
 
 ## BERNAS는 이 부처에 어떻게 묶여 있습니까?
 
-BERNAS(Padiberas Nasional Berhad)는 정부 기관으로 자주 오해됩니다. 실제로는 정부와의 계약에 따라 공적 기능을 수행하는 **민간 회사**입니다.
+[BERNAS](/ko/agriculture/bernas-rice-import-monopoly/)(Padiberas Nasional Berhad)는 정부 기관으로 자주 오해됩니다. 실제로는 정부와의 계약에 따라 공적 기능을 수행하는 **민간 회사**입니다.
 
 그 역사가 이 관계를 설명합니다. 국가벼위원회(LPN)는 1971년 10월 20일에 설립되어 세계 식량 위기에 뒤이어 단독 쌀 수입업체가 되었습니다. Syarikat Padiberas Nasional은 1994년 7월 7일에 법인화되었고, BERNAS는 1996년 1월 12일에 민영화되어 — 정부가 정책과 법 집행에 대한 통제를 유지하는 가운데 LPN의 상업적·사회적 업무를 인수했습니다.
 

@@ -34,7 +34,7 @@ faq:
     a: "Nombres globales como Intel, AMD, Broadcom, Bosch y OSRAM operan aquí, junto a fabricantes por contrato (EMS) como Jabil, Flex, Plexus, Sanmina y Benchmark, y firmas de origen local como Inari Amertron."
 
 lang: "es"
-sourceContentHash: "981590959ca6617e"
+sourceContentHash: "6d5304fd8585d336"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Penang es la historia de origen, pero ya no es el mapa completo. A lo largo de c
 
 - **Penang (Bayan Lepas y Batu Kawan):** Sigue siendo el núcleo — semiconductores, ATP y una profunda base de fabricación por contrato. Hogar de Intel, AMD, Broadcom, Bosch, OSRAM, Motorola y Lumileds, además de actores EMS como Jabil, Flex, Plexus, Sanmina, Benchmark e Inari Amertron, según InvestPenang.
 - **Kulim, Kedah:** El Kulim Hi-Tech Park, justo al otro lado de la línea estatal desde Penang, amplió el clúster del norte con fabricación de electrónica avanzada — incluida la fábrica de chips LED de OSRAM, que desde 2017 realiza fabricación de obleas genuina para LED y microLED en el parque.
-- **Valle de Klang (Selangor y Kuala Lumpur), Melaka y Negeri Sembilan:** El clúster Central mapeado por el Nuevo Plan Maestro Industrial 2030 — el cinturón industrial de Shah Alam y un corredor electrónico del sur, más cerca del principal aeropuerto y centro financiero del país, que alberga firmas como Sony, Panasonic, Samsung, Renesas y ON Semiconductor.
+- **Valle de Klang (Selangor y Kuala Lumpur), Melaka y Negeri Sembilan:** El clúster Central mapeado por el [Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030/) — el cinturón industrial de Shah Alam y un corredor electrónico del sur, más cerca del principal aeropuerto y centro financiero del país, que alberga firmas como Sony, Panasonic, Samsung, Renesas y ON Semiconductor.
 - **Johor:** Cada vez más relevante a medida que el desbordamiento desde la vecina Singapur impulsa nueva inversión en centros de datos y electrónica en el sur; Johor Bahru atrajo RM9.8 mil millones en inversión aprobada de E&E en los primeros nueve meses de 2024, según MIDA.
 
 La concentración en el corredor del norte — Penang más Kulim — es la razón por la que a esa región a veces se la llama el «Silicon Valley» de Malasia, aunque la comparación favorece más a la marca que al modelo de negocio: la fortaleza de Malasia ha estado históricamente en la manufactura y los servicios de back-end más que en el diseño de chips.
@@ -172,7 +172,7 @@ Un sector tan dominante trae vulnerabilidades reales, y los responsables de pol�
 
 ## ¿Qué está haciendo Malasia al respecto? La Estrategia Nacional de Semiconductores
 
-La respuesta del gobierno a estas debilidades es la Estrategia Nacional de Semiconductores (NSS), presentada en 2024, con detalles expuestos por el primer ministro Anwar Ibrahim en SEMICON Southeast Asia, en Kuala Lumpur, el 28 de mayo de 2024.
+La respuesta del gobierno a estas debilidades es la [Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy/) (NSS), presentada en 2024, con detalles expuestos por el primer ministro Anwar Ibrahim en SEMICON Southeast Asia, en Kuala Lumpur, el 28 de mayo de 2024.
 
 La NSS es, en esencia, un plan para ascender en la cadena de valor — para añadir más diseño, empaquetado avanzado y fabricación de obleas a la base manufacturera existente de Malasia. Según MIDA, sus compromisos principales incluyen:
 

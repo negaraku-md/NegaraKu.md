@@ -29,7 +29,7 @@ faq:
     a: "Đối với một khoản cá cược Sports Toto RM2, 8% (16 sen) được trích làm thuế trò chơi và thêm 8% (14.72 sen) làm thuế cá cược pool; khoảng 55% (RM1.10) được phân bổ làm tiền thưởng."
 
 lang: "vi"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -119,8 +119,7 @@ Lấy một ví dụ đơn giản — một khoản cá cược Sports Toto tr�
   thắng.
 - **SST** — khoảng 4.39 sen do ngành gánh chịu.
 
-Bên cạnh đó, ngành NFO đóng góp **10% lợi nhuận trước thuế** cho Majlis Sukan
-Negara, và vẫn chịu thuế doanh nghiệp 24% (thuế suất chuẩn đối với công ty cư
+Bên cạnh đó, ngành NFO đóng góp **10% lợi nhuận trước thuế** cho [Majlis Sukan Negara](/vi/sports/national-sports-council-msn), và vẫn chịu thuế doanh nghiệp 24% (thuế suất chuẩn đối với công ty cư
 trú) như các công ty khác.
 
 Điều đó có nghĩa là, trước khi nhà điều hành tính chi phí hoạt động và lợi nhuận

@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 
 status: "published"
 aiAssisted: true
@@ -212,7 +212,7 @@ MIDAの**2025年マレーシア投資実績報告書（Malaysia Investment Perfo
 
 バヤンレパスの製造業者が享受するあらゆる財政上の便益は、別個の国家的な文書に由来しており、これまでの既定路線は今や閉鎖されている。MIDAは**2026年2月28日午後3時**をもって、1986年投資奨励法令（Promotion of Investments Act 1986）に基づく新規の製造業優遇申請の受付を停止し、新規の申請は**2026年3月1日**以降、**新優遇枠組み（New Incentive Framework）**の下で審査される。既存の承認には影響がないが、いまだに*FIZ内でパイオニア・ステータスを申請する*と書かれている計画は、すでに閉じられた窓に向けて立てられている。
 
-MITIが2024年5月28日に発表した**国家半導体戦略（National Semiconductor Strategy）**も同じ点を指摘している。バヤンレパスに一度だけ、記述的に言及するのみで、地理的な配分は何も行っていない。このクラスターの組立、テスト、パッケージング（ATP）における厚みこそが資産であり、この指定は単なる配管設備にすぎない。
+MITIが2024年5月28日に発表した**[国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy)（National Semiconductor Strategy）**も同じ点を指摘している。バヤンレパスに一度だけ、記述的に言及するのみで、地理的な配分は何も行っていない。このクラスターの組立、テスト、パッケージング（ATP）における厚みこそが資産であり、この指定は単なる配管設備にすぎない。
 
 ## FIZか、免許製造倉庫か？
 

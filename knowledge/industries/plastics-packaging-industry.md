@@ -153,7 +153,7 @@ No part of the industry has changed faster than its relationship with waste. Aft
 
 That episode pushed sustainability to the centre of policy. The **Malaysia Plastics Sustainability Roadmap 2021–2030**, led by the environment ministry, sets time-bound national targets: phasing out problematic single-use plastics, lifting the recycling rate for post-consumer plastic packaging, making plastic packaging fully recyclable, raising recycled content, and collecting the large majority of plastic waste for recycling by 2030. It also introduces an **Extended Producer Responsibility (EPR)** scheme, under which producers help fund the collection and recycling of the packaging they put on the market.
 
-Import controls have tightened in parallel. Under rules reported to take effect in 2025, importers of plastic waste (HS code 39.15) must obtain a **Certificate of Approval from SIRIM**, backed by pre-shipment inspection and factory audits — an attempt to keep genuine recycling feedstock flowing to legitimate processors while shutting out dirty, unrecyclable scrap. Policymakers frame these measures as part of the New Industrial Master Plan 2030 and a circular-economy agenda for manufacturing.
+Import controls have tightened in parallel. Under rules reported to take effect in 2025, importers of plastic waste (HS code 39.15) must obtain a **Certificate of Approval from SIRIM**, backed by pre-shipment inspection and factory audits — an attempt to keep genuine recycling feedstock flowing to legitimate processors while shutting out dirty, unrecyclable scrap. Policymakers frame these measures as part of the [New Industrial Master Plan 2030](/industries/new-industrial-master-plan-2030/) and a circular-economy agenda for manufacturing.
 
 ## Incentives
 

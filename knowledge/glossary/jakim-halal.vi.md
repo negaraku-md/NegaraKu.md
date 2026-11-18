@@ -34,7 +34,7 @@ faq:
     a: "Có. Nhà sản xuất ở nước ngoài có thể xin chứng nhận của JAKIM, hoặc sử dụng giấy chứng nhận từ một cơ quan chứng nhận halal nước ngoài được JAKIM công nhận. Danh sách các cơ quan được công nhận được JAKIM rà soát và cập nhật."
 
 lang: "vi"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ Vì nó cần được gia hạn, đơn vị giữ giấy chứng nhận cần l
 
 Nhiều người nhầm lẫn giữa hai cơ quan này. Sự khác biệt rất rõ:
 
-| Khía cạnh | JAKIM | HDC (Halal Development Corporation) |
+| Khía cạnh | JAKIM | [HDC (Halal Development Corporation)](/vi/industries/halal-industry-economy) |
 | --- | --- | --- |
 | Chức năng chính | Cấp & kiểm toán giấy chứng nhận halal | Phát triển nền kinh tế & ngành halal |
 | Thẩm quyền chứng nhận | Có (cùng MAIN/JAIN) | Không — không cấp giấy chứng nhận |

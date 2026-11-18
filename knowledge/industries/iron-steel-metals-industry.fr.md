@@ -31,7 +31,7 @@ faq:
   - q: "La Malaisie est-elle forte dans d'autres métaux que l'acier ?"
     a: "Oui. Dans les métaux non ferreux, la Malaisie est compétitive à l'échelle mondiale. Press Metal, basée au Sarawak, est le plus grand producteur intégré d'aluminium d'Asie du Sud-Est, et Malaysia Smelting Corporation figure parmi les premiers producteurs mondiaux d'étain raffiné, un héritage de la longue histoire minière de l'étain du pays."
 lang: fr
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

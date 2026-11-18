@@ -142,7 +142,7 @@ Tiga lapisan utama menyokong pendapatan pesawah:
 2. **Subsidi Harga Padi.** Bayaran tambahan bagi setiap tan padi yang dijual dinaikkan kepada **RM500 setan** (daripada RM360). Ia adalah subsidi berasaskan pengeluaran — lebih banyak padi dijual, lebih banyak bantuan diterima.
 3. **Subsidi input.** Kerajaan memperuntukkan **RM2.6 bilion** dalam Belanjawan 2024 bagi pelbagai subsidi dan insentif kepada pesawah serta nelayan, termasuk baja, racun dan kos pengeluaran.
 
-Di hujung rantaian pula berdiri **BERNAS** (Padiberas Nasional Berhad). Syarikat ini memegang peranan pengimport tunggal beras negara — satu tanggungjawab yang diwarisi daripada Lembaga Padi dan Beras Negara (LPN), yang mengambil alih peranan import beras dan menjadi pengimport tunggal pada 1974 berikutan krisis makanan dunia 1973. Sebagai balasan, BERNAS memikul kewajipan sosial seperti menguruskan stok penimbal beras negara, membeli padi pesawah pada harga terjamin, dan menyokong pengilang Bumiputera. BERNAS diswastakan pada **12 Januari 1996** dan kemudiannya disenaraikan di Bursa Malaysia.
+Di hujung rantaian pula berdiri **[BERNAS](/agriculture/bernas-rice-import-monopoly/)** (Padiberas Nasional Berhad). Syarikat ini memegang peranan pengimport tunggal beras negara — satu tanggungjawab yang diwarisi daripada Lembaga Padi dan Beras Negara (LPN), yang mengambil alih peranan import beras dan menjadi pengimport tunggal pada 1974 berikutan krisis makanan dunia 1973. Sebagai balasan, BERNAS memikul kewajipan sosial seperti menguruskan stok penimbal beras negara, membeli padi pesawah pada harga terjamin, dan menyokong pengilang Bumiputera. BERNAS diswastakan pada **12 Januari 1996** dan kemudiannya disenaraikan di Bursa Malaysia.
 
 ## Mengapa sasaran ini sukar dicapai?
 

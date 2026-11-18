@@ -37,7 +37,7 @@ verificationNeeded:
   - "تذكر صفحة تاريخ MIDA نفسها تأسيسها سنة 1967 بموجب Act 397، لكن النقطة التي تغيّر عندها الاسم الإنجليزي للهيئة من 'Malaysian Industrial Development Authority' إلى 'Malaysian Investment Development Authority' لم تُؤكَّد من مصدر رسمي ولا يرد ذكرها في هذه المقالة"
 
 lang: "ar"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -201,8 +201,7 @@ International Trade and Industry»، فهي تشير إلى الوزارة نف�
 وزيرًا، مع **سيم تزي تزين** نائبًا للوزير. ومقر الوزارة في **منارة MITI (Menara
 MITI)** بكوالالمبور.
 
-وبموجب ميزانية 2026، تلقّت MITI مخصصًا قدره **RM1.898 مليار** لتقود تنفيذ **الخطة
-الرئيسة الصناعية الجديدة 2030 (NIMP 2030)**، وهي المخطط الموجِّه لاتجاه ماليزيا في
+وبموجب ميزانية 2026، تلقّت MITI مخصصًا قدره **RM1.898 مليار** لتقود تنفيذ **[الخطة الرئيسة الصناعية الجديدة 2030](/ar/industries/new-industrial-master-plan-2030) (NIMP 2030)**، وهي المخطط الموجِّه لاتجاه ماليزيا في
 التصنيع والصناعة.
 
 ## أين تقع القواعد ذات الصلة

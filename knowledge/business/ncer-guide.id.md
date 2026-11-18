@@ -46,7 +46,7 @@ verificationNeeded:
   - "Apakah insentif pajak khusus apa pun untuk National Semiconductor Strategy telah diundangkan dalam Warta — tidak ada yang ditemukan"
 
 lang: "id"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -190,7 +190,7 @@ semikonduktor paling dalam di Malaysia — perakitan, pengujian, pengemasan, per
 tenaga kerja rekayasa yang menyertainya. Bandara Internasional Pulau Pinang dan Pelabuhan Pulau
 Pinang berdekatan. Aglomerasi itulah asetnya.
 
-Tetapi **Strategi Semikonduktor Nasional**, yang diluncurkan oleh Perdana Menteri pada **28 Mei
+Tetapi **[Strategi Semikonduktor Nasional](/id/industries/semiconductor-industry-national-strategy)**, yang diluncurkan oleh Perdana Menteri pada **28 Mei
 2024** dan dipimpin MITI, tidak menghubungkan klaster itu dengan NCER. NSS menyebut utara tepat
 sekali saja, dan secara deskriptif:
 

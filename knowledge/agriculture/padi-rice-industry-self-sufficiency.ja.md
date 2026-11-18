@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ed4546075e84eef3"
+sourceContentHash: "8f44d2a10fa14edb"
 
 status: "published"
 aiAssisted: true
@@ -142,7 +142,7 @@ framework: profile
 2. **稲価格補助金。** 販売された稲1トンごとに支払われる追加金額は、RM360から**1トンあたりRM500**へ引き上げられた。これは生産量に基づく補助金であり——販売する稲が多いほど、受け取る支援も多くなる。
 3. **投入補助金。** 政府は2024年度予算において、肥料、農薬、生産コストを含む稲作農家および漁業者向けの各種補助金・奨励金として**RM26億**を計上した。
 
-この連鎖の末端に立つのが**BERNAS**（パディベラス・ナショナル・ベルハッド、Padiberas Nasional Berhad）である。同社は国の米唯一の輸入業者という地位を担っている——これは、1973年の世界食料危機を受けて1974年に米輸入の役割を引き継ぎ唯一の輸入業者となった国家稲米局（Lembaga Padi dan Beras Negara、LPN）から引き継がれた責務である。その見返りとして、BERNASは国家米緩衝備蓄の管理、稲作農家からの稲の保証価格での買い取り、ブミプトラ精米業者への支援といった社会的義務を負っている。BERNASは**1996年1月12日**に民営化され、その後Bursa Malaysiaに上場した。
+この連鎖の末端に立つのが**[BERNAS](/ja/agriculture/bernas-rice-import-monopoly/)**（パディベラス・ナショナル・ベルハッド、Padiberas Nasional Berhad）である。同社は国の米唯一の輸入業者という地位を担っている——これは、1973年の世界食料危機を受けて1974年に米輸入の役割を引き継ぎ唯一の輸入業者となった国家稲米局（Lembaga Padi dan Beras Negara、LPN）から引き継がれた責務である。その見返りとして、BERNASは国家米緩衝備蓄の管理、稲作農家からの稲の保証価格での買い取り、ブミプトラ精米業者への支援といった社会的義務を負っている。BERNASは**1996年1月12日**に民営化され、その後Bursa Malaysiaに上場した。
 
 ## なぜこれらの目標は達成が難しいのか？
 

@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 
 status: "published"
 aiAssisted: true
@@ -102,7 +102,7 @@ framework: explainer
 
 **夜市**（pasar malam）是傍晚至夜间出现的流动市场，通常每周在同一地区的固定日子举行。它无所不卖——即食熟食、水果、蔬菜、服装，乃至家居用品。对许多人而言，夜市是便宜又热闹的晚餐去处，而不只是购买生鲜食材的地方。
 
-**农民市场**（pasar tani）则是FAMA（联邦农业销售局）旗下的官方计划。其理念是「生产者与消费者的会面之地」——农民和小型业者不经中间商，直接把农产品卖给买家。它通常在上午至中午举行。
+**农民市场**（pasar tani）则是[FAMA](/zh/agriculture/fama-agricultural-marketing-authority/)（联邦农业销售局）旗下的官方计划。其理念是「生产者与消费者的会面之地」——农民和小型业者不经中间商，直接把农产品卖给买家。它通常在上午至中午举行。
 
 **巴刹**（pasar basah）是清晨即开始营业的固定市场，售卖新鲜的肉类、鱼类、鸡肉和蔬菜。它的名字源自因冰块和清洗海鲜的水而常年湿漉漉的地面。巴刹是家庭厨房与追求每日新鲜食材的餐馆业者的命脉。
 

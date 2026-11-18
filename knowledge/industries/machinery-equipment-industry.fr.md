@@ -31,7 +31,7 @@ faq:
   - q: "Quel soutien gouvernemental existe-t-il pour le secteur M&E ?"
     a: "Le M&E est une industrie de haute technologie prioritaire de la MIDA, éligible aux incitations à l'investissement, et il est central dans la politique nationale d'Industrie 4.0 Industry4WRD, qui offre des subventions telles que l'Industry4WRD Intervention Fund et le Domestic Investment Strategic Fund aux firmes qui adoptent l'automatisation et la technologie avancée."
 lang: fr
-sourceContentHash: "019ba1901dcb4865"
+sourceContentHash: "e4dca19fd76c4c0c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -129,7 +129,7 @@ Les noms M&E les plus en vue de la Malaisie sont concentrés dans les équipemen
 
 ## Incitations et Industry4WRD
 
-Parce que le M&E est une industrie de haute technologie prioritaire de la MIDA, les projets admissibles sont éligibles aux incitations à l'investissement, et le secteur est un bénéficiaire central de la politique nationale d'Industrie 4.0 **Industry4WRD**, lancée par le MITI en octobre 2018. Industry4WRD pousse les fabricants à adopter l'automatisation, les données et les pratiques d'usine intelligente, soutenues par des outils tels que l'Industry4WRD Readiness Assessment et des financements dont l'**Industry4WRD Intervention Fund** (une subvention en contrepartie, rapportée à 70:30 et plafonnée à RM500 000) et le **Domestic Investment Strategic Fund** (rapporté à 60:40) pour les firmes qui achèvent l'évaluation. Ces paramètres devraient être confirmés par rapport aux orientations d'incitations actuelles de la MIDA. L'orientation d'ensemble provient désormais du **Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030, NIMP 2030)** et, pour le volet des équipements pour semi-conducteurs, de la **Stratégie nationale des semi-conducteurs (National Semiconductor Strategy)**, qui tous deux poussent la Malaisie vers des machines à plus forte valeur ajoutée et de plus haute technologie — y compris les équipements semi-conducteurs en amont (front-end).
+Parce que le M&E est une industrie de haute technologie prioritaire de la MIDA, les projets admissibles sont éligibles aux incitations à l'investissement, et le secteur est un bénéficiaire central de la politique nationale d'Industrie 4.0 **Industry4WRD**, lancée par le MITI en octobre 2018. Industry4WRD pousse les fabricants à adopter l'automatisation, les données et les pratiques d'usine intelligente, soutenues par des outils tels que l'Industry4WRD Readiness Assessment et des financements dont l'**Industry4WRD Intervention Fund** (une subvention en contrepartie, rapportée à 70:30 et plafonnée à RM500 000) et le **Domestic Investment Strategic Fund** (rapporté à 60:40) pour les firmes qui achèvent l'évaluation. Ces paramètres devraient être confirmés par rapport aux orientations d'incitations actuelles de la MIDA. L'orientation d'ensemble provient désormais du **Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030, NIMP 2030)** et, pour le volet des équipements pour semi-conducteurs, de la **[Stratégie nationale des semi-conducteurs](/fr/industries/semiconductor-industry-national-strategy/) (National Semiconductor Strategy)**, qui tous deux poussent la Malaisie vers des machines à plus forte valeur ajoutée et de plus haute technologie — y compris les équipements semi-conducteurs en amont (front-end).
 
 ## Perspectives
 

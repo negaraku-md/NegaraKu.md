@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 
 status: "published"
 aiAssisted: true
@@ -168,7 +168,7 @@ MITIは、二国間及び地域の双方において、マレーシアの自由�
 
 2025年12月の内閣改造時点で、MITIは大臣に**ダト・スリ・ジョハリ・アブドゥル・ガニ（Datuk Seri Johari Abdul Ghani）**、副大臣に**シム・ツェ・ツィン（Sim Tze Tzin）**を迎えている。同省の本部はクアラルンプールの**Menara MITI**に置かれている。
 
-2026年予算のもと、MITIは**新産業マスタープラン2030（New Industrial Master Plan 2030、NIMP 2030）**——マレーシアの製造業及び産業の方向性を導く青写真——の主導実施のため、**RM18.98億（RM1.898 billion）**の配分を受けた。
+2026年予算のもと、MITIは**[新産業マスタープラン2030](/ja/industries/new-industrial-master-plan-2030)（New Industrial Master Plan 2030、NIMP 2030）**——マレーシアの製造業及び産業の方向性を導く青写真——の主導実施のため、**RM18.98億（RM1.898 billion）**の配分を受けた。
 
 ## 関連する規則の所在
 

@@ -31,7 +31,7 @@ faq:
   - q: ¿Por qué prohíbe Malasia la exportación de tierras raras en bruto?
     a: El gobierno afirma que la moratoria —en vigor desde el inicio de 2024— pretende impedir que los recursos de tierras raras del país se exporten sin procesar, y forzar que el valor se aporte en el país mediante refinación local e industrias aguas abajo. Los funcionarios la han descrito como la protección de un recurso estratégico; los términos exactos de la política han cambiado con el tiempo y deberían cotejarse con la declaración gubernamental más reciente.
 lang: es
-sourceContentHash: "b76525788cb61fae"
+sourceContentHash: "2cfb1c127d0860c5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Esta división entre estados y gobierno federal es central para entender la mine
 
 La minería es una pequeña porción del PIB —el subsector exclusivamente mineral se sitúa muy por debajo del 1%, con un objetivo gubernamental de elevar la contribución de la minería y las canteras de alrededor del 0,7% al 1% para 2030 (las cifras principales del PIB de "minería y canteras" de varios por ciento generalmente incluyen el petróleo y el gas, por lo que la definición importa)—. Sin embargo, una cartografía gubernamental preliminar ha valorado los recursos minerales de la nación en aproximadamente **RM4,11 billones**, y la política se ha orientado a extraer más valor de ellos.
 
-La dirección la marcan el **Plan de Transformación de la Industria Mineral Nacional 2021-2030** y el plan sectorial mineral del **Nuevo Plan Maestro Industrial 2030** (lanzado en septiembre de 2023), ambos de los cuales hacen hincapié en ascender en la cadena de valor —procesar, no solo extraer— y hacerlo de forma más sostenible. También se ha venido debatiendo un sucesor de la consolidada Política Nacional de Minerales.
+La dirección la marcan el **Plan de Transformación de la Industria Mineral Nacional 2021-2030** y el plan sectorial mineral del [**Nuevo Plan Maestro Industrial 2030**](/es/industries/new-industrial-master-plan-2030/) (lanzado en septiembre de 2023), ambos de los cuales hacen hincapié en ascender en la cadena de valor —procesar, no solo extraer— y hacerlo de forma más sostenible. También se ha venido debatiendo un sucesor de la consolidada Política Nacional de Minerales.
 
 El hilo conductor es claro. Tras aprender del estaño —donde Malasia exportó una materia prima en bruto y luego vio desaparecer el mercado—, el país quiere ahora que sus minerales, sobre todo las tierras raras, se refinen y se fabriquen en productos de mayor valor en casa. Que la apuesta por las tierras raras dé fruto dependerá de los precios, la gestión ambiental y un entorno de política que todavía está muy en movimiento.
 

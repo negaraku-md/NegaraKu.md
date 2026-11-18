@@ -36,7 +36,7 @@ faq:
     a: "Los establecimientos de comida están regulados por el Reglamento de Higiene Alimentaria de 2009 (Food Hygiene Regulations 2009). Se anima a los consumidores a elegir puestos calificados con A o B, que sirven comida caliente y fresca, y a comprobar la etiqueta de calificación que suele mostrarse."
 
 lang: "es"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Estos tres mercados suelen confundirse, pero cada uno cumple una función difere
 
 **Un pasar malam** es un mercado móvil que aparece de tarde a noche, normalmente en días concretos de cada semana en la misma zona. Vende de todo — comida lista para comer, fruta, verduras, ropa, hasta artículos para el hogar. Para la mayoría de la gente, el pasar malam es un lugar para una cena barata y animada, no solo para comprar ingredientes crudos.
 
-**Un pasar tani**, por su parte, es un programa oficial de FAMA (la Autoridad Federal de Comercialización Agrícola). Su concepto es un «punto de encuentro entre productores y consumidores» — los agricultores y pequeños operadores venden su producción agrícola directamente a los compradores sin pasar por intermediarios. Suele celebrarse de la mañana al mediodía.
+**Un pasar tani**, por su parte, es un programa oficial de [FAMA](/es/agriculture/fama-agricultural-marketing-authority/) (la Autoridad Federal de Comercialización Agrícola). Su concepto es un «punto de encuentro entre productores y consumidores» — los agricultores y pequeños operadores venden su producción agrícola directamente a los compradores sin pasar por intermediarios. Suele celebrarse de la mañana al mediodía.
 
 **Un mercado de productos frescos (wet market)** es un mercado permanente que opera ya desde el amanecer, vendiendo carne, pescado, pollo y verduras frescas. Su nombre viene del suelo, siempre mojado por el hielo y el agua con que se lava el marisco. El mercado de productos frescos es el pulso de las cocinas domésticas y de los operadores de restaurantes que quieren ingredientes frescos cada día.
 

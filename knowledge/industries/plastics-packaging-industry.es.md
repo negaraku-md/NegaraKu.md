@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué está haciendo Malasia respecto a la contaminación por plástico?
     a: La Hoja de Ruta de Sostenibilidad del Plástico de Malasia 2021-2030, liderada por el ministerio de medio ambiente, fija objetivos para eliminar progresivamente los plásticos de un solo uso problemáticos, elevar las tasas de reciclaje y el contenido reciclado, y hacer que el envase de plástico sea reciclable. También introduce un esquema de Responsabilidad Ampliada del Productor (RAP) que hace que los productores ayuden a financiar la recogida y el reciclaje.
 lang: es
-sourceContentHash: "dc6e2cfa034711f6"
+sourceContentHash: "de0d1c6868348e76"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Ninguna parte de la industria ha cambiado más rápido que su relación con los 
 
 Ese episodio empujó la sostenibilidad al centro de la política. La **Hoja de Ruta de Sostenibilidad del Plástico de Malasia 2021-2030**, liderada por el ministerio de medio ambiente, fija objetivos nacionales con plazos: eliminar progresivamente los plásticos de un solo uso problemáticos, elevar la tasa de reciclaje de los envases de plástico posconsumo, hacer que el envase de plástico sea totalmente reciclable, aumentar el contenido reciclado y recoger la gran mayoría de los residuos plásticos para reciclaje para 2030. También introduce un esquema de **Responsabilidad Ampliada del Productor (RAP)**, bajo el cual los productores ayudan a financiar la recogida y el reciclaje del envase que ponen en el mercado.
 
-Los controles a la importación se han endurecido en paralelo. Bajo normas que, según se informa, entran en vigor en 2025, los importadores de residuos plásticos (código SA 39.15) deben obtener un **Certificado de Aprobación de SIRIM**, respaldado por inspección previa al embarque y auditorías de fábrica, un intento de mantener el flujo de materia prima de reciclaje genuina hacia los procesadores legítimos mientras se cierra el paso a la chatarra sucia y no reciclable. Los responsables de políticas enmarcan estas medidas como parte del Nuevo Plan Maestro Industrial 2030 y de una agenda de economía circular para la manufactura.
+Los controles a la importación se han endurecido en paralelo. Bajo normas que, según se informa, entran en vigor en 2025, los importadores de residuos plásticos (código SA 39.15) deben obtener un **Certificado de Aprobación de SIRIM**, respaldado por inspección previa al embarque y auditorías de fábrica, un intento de mantener el flujo de materia prima de reciclaje genuina hacia los procesadores legítimos mientras se cierra el paso a la chatarra sucia y no reciclable. Los responsables de políticas enmarcan estas medidas como parte del [Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030/) y de una agenda de economía circular para la manufactura.
 
 ## Incentivos
 

@@ -34,7 +34,7 @@ faq:
     a: "Cục Thống kê Malaysia (DOSM) công bố thống kê chế tạo hằng tháng và hằng năm cùng dữ liệu GDP. Cục Phát triển Đầu tư Malaysia (MIDA) xúc tiến và phê duyệt đầu tư chế tạo, trong khi Bộ Đầu tư, Thương mại và Công nghiệp (MITI) làm chủ NIMP 2030."
 
 lang: "vi"
-sourceContentHash: "00a67f4ef7e6555a"
+sourceContentHash: "479d1b3f589a9b53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ Hai lĩnh vực nổi bật nơi Malaysia có sức nặng vượt xa quy mô c�
 
 ## Chính phủ đang cố gắng đưa nó lên cao hơn trong chuỗi giá trị như thế nào?
 
-Câu trả lời là **Kế hoạch Tổng thể Công nghiệp Mới 2030 (NIMP 2030)**, được công bố ngày 1 tháng 9 năm 2023. Thay vì chọn những người thắng cuộc hẹp, nó áp dụng cách tiếp cận "dựa trên sứ mệnh" được xây dựng quanh bốn sứ mệnh:
+Câu trả lời là **[Kế hoạch Tổng thể Công nghiệp Mới 2030](/vi/industries/new-industrial-master-plan-2030/) (NIMP 2030)**, được công bố ngày 1 tháng 9 năm 2023. Thay vì chọn những người thắng cuộc hẹp, nó áp dụng cách tiếp cận "dựa trên sứ mệnh" được xây dựng quanh bốn sứ mệnh:
 
 1. Thúc đẩy độ phức tạp kinh tế
 2. Nâng cấp công nghệ cho một quốc gia sôi động về kỹ thuật số

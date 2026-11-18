@@ -38,7 +38,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 
 status: "published"
 aiAssisted: true
@@ -101,7 +101,7 @@ These three markets are often confused, but each serves a different function.
 
 **A pasar malam** is a mobile market that appears in the evening to night, usually on specific days each week in the same area. It sells everything — ready-to-eat food, fruit, vegetables, clothing, right up to household goods. For most people, the pasar malam is a place for a cheap and lively dinner, not merely to buy raw ingredients.
 
-**A pasar tani**, meanwhile, is an official programme under FAMA (the Federal Agricultural Marketing Authority). Its concept is a "meeting place of producers and consumers" — farmers and small operators sell their farm produce directly to buyers without going through middlemen. It is usually held from morning to midday.
+**A pasar tani**, meanwhile, is an official programme under [FAMA](/en/agriculture/fama-agricultural-marketing-authority/) (the Federal Agricultural Marketing Authority). Its concept is a "meeting place of producers and consumers" — farmers and small operators sell their farm produce directly to buyers without going through middlemen. It is usually held from morning to midday.
 
 **A wet market** is a permanent market that operates from as early as dawn, selling fresh meat, fish, chicken and vegetables. Its name comes from the floor that is always wet from ice and water washing the seafood. The wet market is the lifeblood of household kitchens and restaurant operators who want fresh ingredients every day.
 

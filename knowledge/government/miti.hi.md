@@ -37,7 +37,7 @@ verificationNeeded:
   - "MIDA's own history page states its 1967 incorporation under Act 397, but the point at which the authority's English name changed from 'Malaysian Industrial Development Authority' to 'Malaysian Investment Development Authority' was not confirmed at an official source and is not stated in this article"
 
 lang: "hi"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -169,7 +169,7 @@ MITI मलेशिया की मुक्त व्यापार सम�
 
 दिसंबर 2025 के मंत्रिमंडल-फेरबदल के अनुसार, MITI का नेतृत्व मंत्री के रूप में **Datuk Seri Johari Abdul Ghani** करते हैं, जिनके साथ उप-मंत्री के रूप में **Sim Tze Tzin** हैं। मंत्रालय का मुख्यालय कुआलालंपुर में **Menara MITI** में है।
 
-बजट 2026 के अंतर्गत, MITI को **New Industrial Master Plan 2030 (NIMP 2030)** — मलेशिया की विनिर्माण एवं औद्योगिक दिशा का मार्गदर्शन करने वाली रूपरेखा — के कार्यान्वयन का नेतृत्व करने हेतु **RM1.898 बिलियन** का आवंटन मिला।
+बजट 2026 के अंतर्गत, MITI को **[New Industrial Master Plan 2030](/hi/industries/new-industrial-master-plan-2030) (NIMP 2030)** — मलेशिया की विनिर्माण एवं औद्योगिक दिशा का मार्गदर्शन करने वाली रूपरेखा — के कार्यान्वयन का नेतृत्व करने हेतु **RM1.898 बिलियन** का आवंटन मिला।
 
 ## संबंधित नियम कहाँ हैं
 

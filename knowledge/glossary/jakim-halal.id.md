@@ -34,7 +34,7 @@ faq:
     a: "Ya. Produsen luar negeri dapat mengajukan sertifikasi JAKIM, atau menggunakan sertifikat dari badan sertifikasi halal asing yang diakui oleh JAKIM. Daftar badan yang diakui ditinjau dan dimutakhirkan oleh JAKIM."
 
 lang: "id"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ Sebagai gambaran biaya (menurut jadwal dalam FAQ portal negeri Sarawak/KISWA; ta
 
 Banyak orang keliru antara dua badan ini. Perbedaannya jelas:
 
-| Aspek | JAKIM | HDC (Halal Development Corporation) |
+| Aspek | JAKIM | [HDC (Halal Development Corporation)](/id/industries/halal-industry-economy) |
 | --- | --- | --- |
 | Fungsi utama | Menerbitkan & mengaudit sertifikat halal | Mengembangkan ekonomi & industri halal |
 | Kuasa sertifikasi | Ya (bersama MAIN/JAIN) | Tidak — tidak menerbitkan sertifikat |

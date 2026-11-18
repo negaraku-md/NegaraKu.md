@@ -31,7 +31,7 @@ faq:
   - q: Dukungan pemerintah apa yang ada untuk sektor M&E?
     a: M&E adalah industri teknologi-tinggi prioritas MIDA yang memenuhi syarat untuk insentif investasi, dan ia sentral bagi kebijakan Industry 4.0 nasional Industry4WRD, yang menawarkan hibah seperti Industry4WRD Intervention Fund dan Domestic Investment Strategic Fund bagi perusahaan yang mengadopsi otomasi dan teknologi canggih.
 lang: id
-sourceContentHash: "019ba1901dcb4865"
+sourceContentHash: "e4dca19fd76c4c0c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -129,7 +129,7 @@ Nama-nama M&E Malaysia yang paling menonjol terkonsentrasi pada peralatan semiko
 
 ## Insentif dan Industry4WRD
 
-Karena M&E adalah industri teknologi-tinggi prioritas MIDA, proyek yang memenuhi syarat berhak atas insentif investasi, dan sektor ini adalah penerima manfaat sentral dari kebijakan nasional Industry 4.0 **Industry4WRD**, yang diluncurkan oleh MITI pada Oktober 2018. Industry4WRD mendorong produsen mengadopsi otomasi, data, dan praktik pabrik-cerdas, didukung oleh alat seperti Industry4WRD Readiness Assessment dan pendanaan termasuk **Industry4WRD Intervention Fund** (hibah pencocokan, dilaporkan 70:30 dan dibatasi RM500.000) dan **Domestic Investment Strategic Fund** (dilaporkan 60:40) bagi perusahaan yang menyelesaikan penilaian itu. Parameter ini sebaiknya dikonfirmasi terhadap panduan insentif MIDA terkini. Arah menyeluruh kini berasal dari **New Industrial Master Plan (NIMP) 2030** dan, untuk untai peralatan-semikonduktor, **National Semiconductor Strategy**, yang keduanya mendorong Malaysia menuju mesin yang bernilai lebih tinggi dan berteknologi lebih tinggi — termasuk peralatan semikonduktor front-end.
+Karena M&E adalah industri teknologi-tinggi prioritas MIDA, proyek yang memenuhi syarat berhak atas insentif investasi, dan sektor ini adalah penerima manfaat sentral dari kebijakan nasional Industry 4.0 **Industry4WRD**, yang diluncurkan oleh MITI pada Oktober 2018. Industry4WRD mendorong produsen mengadopsi otomasi, data, dan praktik pabrik-cerdas, didukung oleh alat seperti Industry4WRD Readiness Assessment dan pendanaan termasuk **Industry4WRD Intervention Fund** (hibah pencocokan, dilaporkan 70:30 dan dibatasi RM500.000) dan **Domestic Investment Strategic Fund** (dilaporkan 60:40) bagi perusahaan yang menyelesaikan penilaian itu. Parameter ini sebaiknya dikonfirmasi terhadap panduan insentif MIDA terkini. Arah menyeluruh kini berasal dari **New Industrial Master Plan (NIMP) 2030** dan, untuk untai peralatan-semikonduktor, **[National Semiconductor Strategy](/id/industries/semiconductor-industry-national-strategy/)**, yang keduanya mendorong Malaysia menuju mesin yang bernilai lebih tinggi dan berteknologi lebih tinggi — termasuk peralatan semikonduktor front-end.
 
 ## Prospek
 

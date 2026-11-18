@@ -30,7 +30,7 @@ faq:
     a: "The Control of Padi and Rice Act 1994 (Act 522). Rice is a controlled commodity; the Director-General of the Padi and Rice Regulatory issues licences and permits for milling, wholesaling, retailing, importing, exporting and inter-state movement."
 
 lang: "en"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -124,12 +124,12 @@ The ministry's official directory groups the entities under it as follows:
 | Abbreviation | Full name | Type |
 | --- | --- | --- |
 | DOA | Department of Agriculture Malaysia | Department |
-| DVS | Department of Veterinary Services | Department |
+| [DVS](/en/agriculture/livestock-poultry-industry/) | Department of Veterinary Services | Department |
 | DOF | Department of Fisheries Malaysia | Department |
 | MAQIS | Malaysian Quarantine and Inspection Services Department | Department |
 | MARDI | Malaysian Agricultural Research and Development Institute | Research institute |
 | LPP | Farmers' Organisation Authority | Statutory body |
-| FAMA | Federal Agricultural Marketing Authority | Statutory body |
+| [FAMA](/en/agriculture/fama-agricultural-marketing-authority/) | Federal Agricultural Marketing Authority | Statutory body |
 | LKIM | Malaysian Fisheries Development Authority | Statutory body |
 | MADA | Muda Agricultural Development Authority | Statutory body |
 | KADA | Kemubu Agricultural Development Authority | Statutory body |
@@ -164,7 +164,7 @@ palm smallholders, or scheme land, your starting point is KKDW, not KPKM.
 
 ## How is BERNAS tied to the ministry?
 
-BERNAS (Padiberas Nasional Berhad) is often mistaken for a government agency. It
+[BERNAS](/en/agriculture/bernas-rice-import-monopoly/) (Padiberas Nasional Berhad) is often mistaken for a government agency. It
 is in fact a **private company** that carries out public functions under an
 agreement with the government.
 

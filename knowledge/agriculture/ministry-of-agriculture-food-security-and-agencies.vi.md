@@ -30,7 +30,7 @@ faq:
     a: "Control of Paddy and Rice Act 1994 (Act 522). Gạo là một mặt hàng được kiểm soát; Tổng Giám đốc Quản lý Lúa và Gạo cấp giấy phép và giấy phép cho việc xay xát, bán buôn, bán lẻ, nhập khẩu, xuất khẩu và di chuyển giữa các bang."
 
 lang: "vi"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,12 +113,12 @@ Danh bạ chính thức của bộ nhóm các thực thể trực thuộc như s
 | Viết tắt | Tên đầy đủ | Loại |
 | --- | --- | --- |
 | DOA | Cục Nông nghiệp Malaysia | Cục |
-| DVS | Cục Dịch vụ Thú y | Cục |
+| [DVS](/vi/agriculture/livestock-poultry-industry/) | Cục Dịch vụ Thú y | Cục |
 | DOF | Cục Thủy sản Malaysia | Cục |
 | MAQIS | Cục Dịch vụ Kiểm dịch và Kiểm tra Malaysia | Cục |
 | MARDI | Viện Nghiên cứu và Phát triển Nông nghiệp Malaysia | Viện nghiên cứu |
 | LPP | Ủy ban Tổ chức Nông dân | Cơ quan theo luật định |
-| FAMA | Cục Tiếp thị Nông sản Liên bang | Cơ quan theo luật định |
+| [FAMA](/vi/agriculture/fama-agricultural-marketing-authority/) | Cục Tiếp thị Nông sản Liên bang | Cơ quan theo luật định |
 | LKIM | Ủy ban Phát triển Cá Malaysia | Cơ quan theo luật định |
 | MADA | Cục Phát triển Nông nghiệp Muda | Cơ quan theo luật định |
 | KADA | Cục Phát triển Nông nghiệp Kemubu | Cơ quan theo luật định |
@@ -139,7 +139,7 @@ Danh bạ chính thức của Bộ Phát triển Nông thôn và Vùng (KKDW) li
 
 ## BERNAS bị ràng buộc với bộ như thế nào?
 
-BERNAS (Padiberas Nasional Berhad) thường bị hiểu lầm là một cơ quan của chính phủ. Nó thực chất là một **công ty tư nhân** thực hiện các chức năng công theo một thỏa thuận với chính phủ.
+[BERNAS](/vi/agriculture/bernas-rice-import-monopoly/) (Padiberas Nasional Berhad) thường bị hiểu lầm là một cơ quan của chính phủ. Nó thực chất là một **công ty tư nhân** thực hiện các chức năng công theo một thỏa thuận với chính phủ.
 
 Lịch sử của nó giải thích mối quan hệ đó. Ủy ban Lúa Quốc gia (LPN) được thành lập vào ngày 20 tháng 10 năm 1971 và trở thành nhà nhập khẩu gạo duy nhất sau cuộc khủng hoảng lương thực thế giới. Công ty Padiberas Nasional được thành lập công ty vào ngày 7 tháng 7 năm 1994, và BERNAS được tư nhân hóa vào ngày 12 tháng 1 năm 1996 — tiếp quản các nhiệm vụ thương mại và xã hội của LPN trong khi chính phủ giữ quyền kiểm soát chính sách và thực thi luật.
 

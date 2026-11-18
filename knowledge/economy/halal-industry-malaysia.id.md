@@ -29,7 +29,7 @@ faq:
     a: "Ekspor produk halal Malaysia mencapai RM61.79 miliar pada 2024, naik 15% dibandingkan RM53.72 miliar pada 2023 (MITI). Untuk periode Januari–September 2024, ekspor bernilai RM45.04 miliar dibandingkan RM39.36 miliar dalam periode yang sama pada 2023 (MITI/MIDA)."
 
 lang: "id"
-sourceContentHash: "1b16a223e725d8d1"
+sourceContentHash: "df3f9fe9e6326bd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Menurut rujukan Kementerian Keuangan, sekitar **13.5%** dari ekspor halal RM36.3
 
 ## Apa peran HDC dan strategi hab halal global?
 
-Di balik sertifikasi, Malaysia membangun sebuah ekosistem pengembangan halal. **Halal Development Corporation (HDC)**, sebuah lembaga di bawah lingkup Kementerian Investasi, Perdagangan, dan Industri (MITI), berperan menyelaraskan pengembangan taman halal, pelatihan, dan dorongan industri — sementara mandat mengeluarkan sertifikat tetap pada JAKIM. Rujukan Kementerian Keuangan mencatat investasi terkumpul dalam taman halal sebanyak **RM16.1 miliar sejak 2011**, dengan 295 perusahaan beroperasi di 21 taman halal.
+Di balik sertifikasi, Malaysia membangun sebuah ekosistem pengembangan halal. **[Halal Development Corporation (HDC)](/id/industries/halal-industry-economy)**, sebuah lembaga di bawah lingkup Kementerian Investasi, Perdagangan, dan Industri (MITI), berperan menyelaraskan pengembangan taman halal, pelatihan, dan dorongan industri — sementara mandat mengeluarkan sertifikat tetap pada JAKIM. Rujukan Kementerian Keuangan mencatat investasi terkumpul dalam taman halal sebanyak **RM16.1 miliar sejak 2011**, dengan 295 perusahaan beroperasi di 21 taman halal.
 
 Aspirasi jangka panjang dipandu oleh Pelan Induk Industri Halal (HIMP) 2030, yang menetapkan sasaran pertumbuhan untuk memperluas partisipasi Malaysia dalam pasar halal global. Di bawah **Rancangan Malaysia Ke-13 (RMK-13)** yang disampaikan pada 31 Juli 2025, pemerintah menyasarkan ekspor halal **RM80 miliar** dan kontribusi **11%** kepada PDB. Di antara langkah yang diumumkan adalah pembentukan **sebuah komisi halal** serta pembangunan kawasan industri halal baru di Melaka, Perak, dan Kelantan.
 

@@ -31,7 +31,7 @@ faq:
     a: "Setelah dua penundaan, ia berlaku untuk operator besar dan menengah mulai 30 Desember 2026, dan untuk usaha mikro dan kecil mulai 30 Juni 2027. Tanggal batas deforestasi adalah 31 Desember 2020."
 
 lang: "id"
-sourceContentHash: "8402e69b6d7b51cb"
+sourceContentHash: "630a55603b7f639f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -160,7 +160,7 @@ Malaysia, produsen minyak sawit kedua terbesar di dunia, telah menganggap waktu 
 
 Sebelum deforestasi, tekanan datang dari perburuhan. Bea Cukai dan Perlindungan Perbatasan AS (CBP) menggunakan **Withhold Release Orders (WRO)** — larangan impor yang dipicu oleh dugaan kerja paksa — dan dua di antaranya menimpa produsen utama Malaysia.
 
-CBP mula-mula mengeluarkan WRO terhadap **FGV Holdings Berhad**, anak perusahaan dan usaha patungannya pada **30 September 2020**, atas minyak sawit yang diproduksi dengan kerja paksa. Tiga bulan kemudian, pada **30 Desember 2020**, CBP mengeluarkan WRO terhadap **[Sime Darby](/id/companies/sime-darby-group) Plantation** — kali ini berdasarkan informasi yang secara wajar menunjukkan kehadiran **seluruh 11 indikator kerja paksa Organisasi Buruh Internasional (ILO)** dalam proses produksinya. CBP meningkatkan perintah Sime Darby menjadi **Temuan (Finding) resmi pada 28 Januari 2022**, membuka pengiriman kepada penyitaan. Perusahaan itu merombak praktik perburuhannya, dan pada **3 Februari 2023** CBP menyimpulkan bahwa ia tidak lagi menggunakan kerja paksa dan mencabut perintah itu — sedikit lebih dari dua tahun setelah larangan bermula.
+CBP mula-mula mengeluarkan WRO terhadap **[FGV Holdings Berhad](/id/agriculture/fgv-holdings-plantation-restructuring)**, anak perusahaan dan usaha patungannya pada **30 September 2020**, atas minyak sawit yang diproduksi dengan kerja paksa. Tiga bulan kemudian, pada **30 Desember 2020**, CBP mengeluarkan WRO terhadap **[Sime Darby](/id/companies/sime-darby-group) Plantation** — kali ini berdasarkan informasi yang secara wajar menunjukkan kehadiran **seluruh 11 indikator kerja paksa Organisasi Buruh Internasional (ILO)** dalam proses produksinya. CBP meningkatkan perintah Sime Darby menjadi **Temuan (Finding) resmi pada 28 Januari 2022**, membuka pengiriman kepada penyitaan. Perusahaan itu merombak praktik perburuhannya, dan pada **3 Februari 2023** CBP menyimpulkan bahwa ia tidak lagi menggunakan kerja paksa dan mencabut perintah itu — sedikit lebih dari dua tahun setelah larangan bermula.
 
 Kasus ini menunjukkan betapa cepatnya suatu tuduhan perburuhan dapat menutup akses seorang produsen dari pasar utama, dan mendorong industri yang lebih luas menuju rekam jejak kesejahteraan pekerja yang dapat diaudit — tepat pada bidang yang diperkuat oleh MS 2530:2022.
 

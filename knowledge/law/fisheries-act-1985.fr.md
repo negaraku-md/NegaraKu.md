@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ Ce guide offre un aperçu en langage clair de ce que fait la loi, de qui la fait
 
 Le Fisheries Act 1985 est la **principale loi fédérale de la Malaisie sur les pêches et la conservation marine**. Il a remplacé une législation antérieure sur les pêches et a placé la délivrance de licences de pêche, la gestion des ressources halieutiques et la protection des habitats marins sous un cadre unique. La loi est organisée en plusieurs Parts ; les parcs marins et les réserves marines sont traités spécifiquement dans la **Part IX**.
 
-Elle est administrée par le **Department of Fisheries Malaysia** (Jabatan Perikanan Malaysia), dirigé par le **Director-General of Fisheries**, qui coordonne et supervise les questions de pêche et de parcs marins dans les eaux malaisiennes.
+Elle est administrée par le [**Department of Fisheries Malaysia**](/fr/agriculture/department-of-fisheries-malaysia/) (Jabatan Perikanan Malaysia), dirigé par le **Director-General of Fisheries**, qui coordonne et supervise les questions de pêche et de parcs marins dans les eaux malaisiennes.
 
 ## Licences : la pêche est une activité autorisée, pas une liberté sans règles
 

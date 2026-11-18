@@ -45,7 +45,7 @@ verificationNeeded:
   - "ECERDC's own incentives page at ecerdc.com.my returns 404, so ECERDC's current statement of its own incentive route could not be obtained."
 
 lang: "fr"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -160,7 +160,7 @@ Malaysia » est une marque ultérieure et n'apparaît nulle part dans l'Act 664.
 
 | Corridor | Secteurs cibles | Le véritable attrait |
 | --- | --- | --- |
-| NCER | Semi-conducteurs, électrique et électronique, agriculture, tourisme | Le pôle de Kulim, Batu Kawan et Bayan Lepas — **l'agglomération, non un droit légal**. La National Semiconductor Strategy ne mentionne NCER nulle part |
+| NCER | Semi-conducteurs, électrique et électronique, agriculture, tourisme | Le pôle de Kulim, Batu Kawan et Bayan Lepas — **l'agglomération, non un droit légal**. La [National Semiconductor Strategy](/fr/industries/semiconductor-industry-national-strategy) ne mentionne NCER nulle part |
 | ECER | Pétrochimie, manufacture, transformation agricole, tourisme, logistique | MCKIP, le port de Kuantan comme **zone commerciale franche** publiée au journal officiel, et l'ECRL |
 | Iskandar Malaysia | Services financiers, logistique, tourisme, santé, éducation, créatif | Proximité de Singapour, et le paquet **JS-SEZ** superposé |
 | SDC | Agriculture, aval de l'huile de palme, tourisme, logistique | SDC Blueprint 2.0, couvrant **2021 à 2030** |

@@ -31,7 +31,7 @@ faq:
   - q: Apa yang Malaysia lakukan tentang pencemaran plastik?
     a: Pelan Hala Tuju Kelestarian Plastik Malaysia 2021–2030, diterajui kementerian alam sekitar, menetapkan sasaran untuk menghapuskan secara berperingkat plastik sekali guna yang bermasalah, menaikkan kadar kitar semula dan kandungan kitar semula, serta menjadikan pembungkusan plastik boleh dikitar semula. Ia juga memperkenalkan skim Tanggungjawab Pengeluar Lanjutan (EPR) yang menjadikan pengeluar membantu membiayai pengumpulan dan kitar semula.
 lang: ms
-sourceContentHash: "dc6e2cfa034711f6"
+sourceContentHash: "de0d1c6868348e76"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Tiada bahagian industri ini yang berubah lebih pantas daripada hubungannya denga
 
 Episod itu mendorong kelestarian ke tengah dasar. **Pelan Hala Tuju Kelestarian Plastik Malaysia 2021–2030**, diterajui kementerian alam sekitar, menetapkan sasaran nasional berjangka masa: menghapuskan secara berperingkat plastik sekali guna yang bermasalah, menaikkan kadar kitar semula pembungkusan plastik pasca-pengguna, menjadikan pembungkusan plastik boleh dikitar semula sepenuhnya, menaikkan kandungan kitar semula, dan mengumpul sebahagian besar sisa plastik untuk kitar semula menjelang 2030. Ia juga memperkenalkan skim **Tanggungjawab Pengeluar Lanjutan (EPR)**, yang mana pengeluar membantu membiayai pengumpulan dan kitar semula pembungkusan yang mereka letakkan di pasaran.
 
-Kawalan import mengetat secara selari. Di bawah peraturan yang dilaporkan berkuat kuasa pada 2025, pengimport sisa plastik (kod HS 39.15) mesti memperoleh **Sijil Kelulusan daripada SIRIM**, disokong pemeriksaan pra-penghantaran dan audit kilang — satu usaha untuk mengekalkan aliran bahan suapan kitar semula yang tulen kepada pemproses sah sambil menutup pintu kepada buangan kotor yang tidak boleh dikitar semula. Penggubal dasar merangka langkah-langkah ini sebagai sebahagian daripada Pelan Induk Perindustrian Baharu 2030 dan agenda ekonomi kitaran bagi pembuatan.
+Kawalan import mengetat secara selari. Di bawah peraturan yang dilaporkan berkuat kuasa pada 2025, pengimport sisa plastik (kod HS 39.15) mesti memperoleh **Sijil Kelulusan daripada SIRIM**, disokong pemeriksaan pra-penghantaran dan audit kilang — satu usaha untuk mengekalkan aliran bahan suapan kitar semula yang tulen kepada pemproses sah sambil menutup pintu kepada buangan kotor yang tidak boleh dikitar semula. Penggubal dasar merangka langkah-langkah ini sebagai sebahagian daripada [Pelan Induk Perindustrian Baharu 2030](/industries/new-industrial-master-plan-2030/) dan agenda ekonomi kitaran bagi pembuatan.
 
 ## Insentif
 

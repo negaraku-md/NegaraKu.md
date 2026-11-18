@@ -29,7 +29,7 @@ faq:
     a: "Bagi taruhan Sports Toto RM2, 8% (16 sen) dipotong sebagai pajak permainan dan 8% lagi (14.72 sen) sebagai bea taruhan pool; sekitar 55% (RM1.10) dialokasikan sebagai hadiah."
 
 lang: "id"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Ambil satu contoh sederhana — taruhan Sports Toto bernilai **RM2**:
 - **SST** — sekitar 4.39 sen ditanggung industri.
 
 Di samping itu, industri NFO menyumbang **10% dari keuntungan sebelum pajak**
-kepada Majlis Sukan Negara (Dewan Olahraga Nasional), dan masih tunduk pada
+kepada [Majlis Sukan Negara](/id/sports/national-sports-council-msn) (Dewan Olahraga Nasional), dan masih tunduk pada
 pajak korporat 24% (tarif standar bagi perusahaan residen) seperti perusahaan
 lain.
 

@@ -124,12 +124,12 @@ Direktori rasmi kementerian mengumpulkan entiti di bawahnya seperti berikut:
 | Singkatan | Nama penuh | Jenis |
 | --- | --- | --- |
 | DOA | Jabatan Pertanian Malaysia | Jabatan |
-| DVS | Jabatan Perkhidmatan Veterinar | Jabatan |
+| [DVS](/agriculture/livestock-poultry-industry/) | Jabatan Perkhidmatan Veterinar | Jabatan |
 | DOF | Jabatan Perikanan Malaysia | Jabatan |
 | MAQIS | Jabatan Perkhidmatan Kuarantin dan Pemeriksaan Malaysia | Jabatan |
 | MARDI | Institut Penyelidikan dan Kemajuan Pertanian Malaysia | Institut penyelidikan |
 | LPP | Lembaga Pertubuhan Peladang | Badan berkanun |
-| FAMA | Lembaga Pemasaran Pertanian Persekutuan | Badan berkanun |
+| [FAMA](/agriculture/fama-agricultural-marketing-authority/) | Lembaga Pemasaran Pertanian Persekutuan | Badan berkanun |
 | LKIM | Lembaga Kemajuan Ikan Malaysia | Badan berkanun |
 | MADA | Lembaga Kemajuan Pertanian Muda | Badan berkanun |
 | KADA | Lembaga Kemajuan Pertanian Kemubu | Badan berkanun |
@@ -165,7 +165,7 @@ KKDW, bukan KPKM.
 
 ## Bagaimana BERNAS terikat dengan kementerian?
 
-BERNAS (Padiberas Nasional Berhad) sering disalah anggap sebagai agensi
+[BERNAS](/agriculture/bernas-rice-import-monopoly/) (Padiberas Nasional Berhad) sering disalah anggap sebagai agensi
 kerajaan. Ia sebenarnya **syarikat swasta** yang menjalankan fungsi awam di
 bawah perjanjian dengan kerajaan.
 

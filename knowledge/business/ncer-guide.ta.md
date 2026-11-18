@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 
 status: "published"
 aiAssisted: true
@@ -189,7 +189,7 @@ P.U.(A) எதுவும் கிடைக்கவில்லை. NCIA-வ�
 வரும் பொறியியல் தொழிலாளர் சந்தை. Penang International Airport மற்றும் Penang Port அருகில் உள்ளன. அந்தத்
 திரட்சியே சொத்து.
 
-ஆனால் **National Semiconductor Strategy**, **2024 மே 28** அன்று பிரதமரால் தொடங்கப்பட்டு MITI-ஆல்
+ஆனால் **[National Semiconductor Strategy](/ta/industries/semiconductor-industry-national-strategy)**, **2024 மே 28** அன்று பிரதமரால் தொடங்கப்பட்டு MITI-ஆல்
 வழிநடத்தப்பட்டது, அந்தக் கொத்தை NCER-உடன் இணைக்கவில்லை. NSS வடபகுதியை ஒரே ஒரு முறை, விவரணையாக,
 குறிப்பிடுகிறது:
 

@@ -31,7 +31,7 @@ faq:
   - q: Apa yang dilakukan Malaysia terhadap polusi plastik?
     a: Malaysia Plastics Sustainability Roadmap 2021–2030, dipimpin kementerian lingkungan, menetapkan target untuk menghapus bertahap plastik sekali pakai yang bermasalah, menaikkan tingkat daur ulang dan kandungan daur ulang, serta membuat kemasan plastik dapat didaur ulang. Ia juga memperkenalkan skema Extended Producer Responsibility (EPR) yang membuat produsen ikut mendanai pengumpulan dan daur ulang.
 lang: id
-sourceContentHash: "dc6e2cfa034711f6"
+sourceContentHash: "de0d1c6868348e76"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Tak ada bagian industri yang berubah lebih cepat daripada hubungannya dengan sam
 
 Episode itu mendorong keberlanjutan ke pusat kebijakan. **Malaysia Plastics Sustainability Roadmap 2021–2030**, dipimpin kementerian lingkungan, menetapkan target nasional berbatas waktu: menghapus bertahap plastik sekali pakai yang bermasalah, menaikkan tingkat daur ulang kemasan plastik pascakonsumen, membuat kemasan plastik sepenuhnya dapat didaur ulang, menaikkan kandungan daur ulang, dan mengumpulkan sebagian besar sampah plastik untuk daur ulang pada 2030. Ia juga memperkenalkan skema **Extended Producer Responsibility (EPR)**, yang di dalamnya produsen ikut mendanai pengumpulan dan daur ulang kemasan yang mereka pasarkan.
 
-Kontrol impor diperketat secara paralel. Di bawah aturan yang dilaporkan berlaku pada 2025, importir sampah plastik (kode HS 39.15) harus memperoleh **Certificate of Approval dari SIRIM**, didukung inspeksi prapengapalan dan audit pabrik — upaya menjaga aliran bahan baku daur ulang asli ke pemroses sah sekaligus menutup plastik bekas kotor yang tak dapat didaur ulang. Pembuat kebijakan membingkai tindakan ini sebagai bagian dari New Industrial Master Plan 2030 dan agenda ekonomi sirkular untuk manufaktur.
+Kontrol impor diperketat secara paralel. Di bawah aturan yang dilaporkan berlaku pada 2025, importir sampah plastik (kode HS 39.15) harus memperoleh **Certificate of Approval dari SIRIM**, didukung inspeksi prapengapalan dan audit pabrik — upaya menjaga aliran bahan baku daur ulang asli ke pemroses sah sekaligus menutup plastik bekas kotor yang tak dapat didaur ulang. Pembuat kebijakan membingkai tindakan ini sebagai bagian dari [New Industrial Master Plan 2030](/id/industries/new-industrial-master-plan-2030/) dan agenda ekonomi sirkular untuk manufaktur.
 
 ## Insentif
 

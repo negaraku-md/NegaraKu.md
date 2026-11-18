@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 
 status: "published"
 aiAssisted: true
@@ -113,7 +113,7 @@ framework: explainer
 
 这是一个常见的混淆。**马来西亚奥林匹克理事会（OCM）**是本国的国家奥林匹克委员会——负责管理运动员参加奥运会、英联邦运动会、亚运会和东南亚运动会。**PCM则是一个完全独立的机构**，负责管理残奥路线：残奥会、亚洲残疾人运动会和东盟残疾人运动会。
 
-两者是不同的组织，各有其领导层、会员和国际隶属关系。OCM隶属国际奥林匹克委员会（IOC）；PCM隶属IPC。它们的共同之处在于两者都在**1997年体育发展法令**的框架下运作，并与青年及体育部以及国家体育理事会在运动员培养方面合作。
+两者是不同的组织，各有其领导层、会员和国际隶属关系。OCM隶属国际奥林匹克委员会（IOC）；PCM隶属IPC。它们的共同之处在于两者都在**1997年体育发展法令**的框架下运作，并与青年及体育部以及[国家体育理事会](/zh/sports/national-sports-council-msn)在运动员培养方面合作。
 
 PCM也不仅仅是代表团的派遣者。根据其官方网站，它曾于**2001年主办首届东盟残疾人运动会**，并在**2009年**和**2017年**再度主办。在领导层方面，Dato' Sri Megat D. Shahriman于2019年12月当选PCM主席，并于2024年12月连任。
 

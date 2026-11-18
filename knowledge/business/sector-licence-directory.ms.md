@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 
 status: "published"
 aiAssisted: true
@@ -154,7 +154,7 @@ yang sama sekali berbeza.
 
 | Pengawal Selia | Statut yang mentadbir | Apa yang dikeluarkan | Laman web |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Pendaftaran kontraktor, akreditasi personel | cidb.gov.my |
+| [CIDB](/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Pendaftaran kontraktor, akreditasi personel | cidb.gov.my |
 | Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — perkataan and Property Managers ditambah oleh Act A1550, berkuat kuasa 2 Januari 2018 | Pendaftaran dan sijil amalan | lpeph.gov.my |
 | Pihak berkuasa tempatan | Town and Country Planning Act 1976 (Act 172) | Kebenaran merancang dan perubahan kegunaan | — |
 | Pihak berkuasa tempatan | Street, Drainage and Building Act 1974 (Act 133) | Kelulusan pelan bangunan, sijil siap dan pematuhan | — |

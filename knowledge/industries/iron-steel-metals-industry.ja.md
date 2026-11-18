@@ -31,7 +31,7 @@ faq:
   - q: マレーシアは鉄鋼以外の金属に強いですか。
     a: はい。非鉄金属ではマレーシアは世界的に競争力があります。サラワク州を拠点とするPress Metalは東南アジア最大の統合アルミニウム生産者であり、Malaysia Smelting Corporationは、同国の長いスズ採掘の歴史を受け継ぐ、世界有数の精錬スズ生産者です。
 lang: ja
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

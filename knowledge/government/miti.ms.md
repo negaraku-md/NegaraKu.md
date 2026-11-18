@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 
 status: "published"
 aiAssisted: true
@@ -216,7 +216,7 @@ Johari Abdul Ghani** sebagai Menteri, dengan **Sim Tze Tzin** sebagai Timbalan
 Menteri. Ibu pejabat kementerian ini ialah **Menara MITI** di Kuala Lumpur.
 
 Di bawah Belanjawan 2026, MITI menerima peruntukan sebanyak **RM1.898 bilion**
-untuk menerajui pelaksanaan **Pelan Induk Perindustrian Baharu 2030 (NIMP
+untuk menerajui pelaksanaan **[Pelan Induk Perindustrian Baharu 2030](/industries/new-industrial-master-plan-2030) (NIMP
 2030)**, pelan tindakan yang memandu hala tuju pembuatan dan perindustrian
 Malaysia.
 

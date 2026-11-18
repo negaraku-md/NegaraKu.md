@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Nhà đầu tư, người tìm việc, nhà phân tích chính sách và học sinh sinh viên đang cố đọc chính xác các số liệu thống kê công nghiệp của Malaysia."
 
 lang: "vi"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -179,7 +179,7 @@ Chính các tài liệu hoạch định của chính phủ chấp nhận cách �
 
 DOSM báo cáo GNI bình quân đầu người đạt RM57,200 vào năm 2025, tăng từ RM54,870 năm 2024. Khoảng cách tới RM77,200 trong năm năm là toàn bộ bài toán chính sách trong một dòng.
 
-Các công cụ được nêu tên trong Kế hoạch là New Industrial Master Plan 2030, National Semiconductor Strategy và [Kế hoạch Chuyển đổi Năng lượng Quốc gia](/vi/energy/national-energy-transition-roadmap-netr). Hãy lưu ý điều mà chỉ tiêu chế tạo hàm ý: để chế tạo tăng trưởng 5,8% trong khi nền kinh tế tăng 4,5-5,5%, tỷ trọng của nó trong GDP phải bắt đầu tăng trở lại. Việc kết thúc cao nguyên không phải là một dự báo — nó là một mục tiêu.
+Các công cụ được nêu tên trong Kế hoạch là [New Industrial Master Plan 2030](/vi/industries/new-industrial-master-plan-2030), [National Semiconductor Strategy](/vi/industries/semiconductor-industry-national-strategy) và [Kế hoạch Chuyển đổi Năng lượng Quốc gia](/vi/energy/national-energy-transition-roadmap-netr). Hãy lưu ý điều mà chỉ tiêu chế tạo hàm ý: để chế tạo tăng trưởng 5,8% trong khi nền kinh tế tăng 4,5-5,5%, tỷ trọng của nó trong GDP phải bắt đầu tăng trở lại. Việc kết thúc cao nguyên không phải là một dự báo — nó là một mục tiêu.
 
 ## Những nhầm lẫn thường gặp
 

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 
 status: "published"
 aiAssisted: true
@@ -80,7 +80,7 @@ framework: explainer
 
 ## 何がこれらの島を「海洋公園」にしているのか、そしてそれはなぜあなたに関係するのか？
 
-保護された区域はビーチだけではない。マレーシアの海洋公園は、官報告示された各島の周囲で**最低海面からおおむね2海里まで**広がり——一部のトレンガヌの島々では境界が**1海里**——**1985年漁業法（1993年改正）**に基づき**マレーシア漁業局**によって管理されている。全国では、**49の島**が海洋公園として官報告示されている。
+保護された区域はビーチだけではない。マレーシアの海洋公園は、官報告示された各島の周囲で**最低海面からおおむね2海里まで**広がり——一部のトレンガヌの島々では境界が**1海里**——**1985年漁業法（1993年改正）**に基づき[**マレーシア漁業局**](/ja/agriculture/department-of-fisheries-malaysia)によって管理されている。全国では、**49の島**が海洋公園として官報告示されている。
 
 東海岸では、トレンガヌの海洋公園は4つの群島——**ルダン島（Pulau Redang）、プルフンティアン島（Pulau Perhentian）、カパス島（Pulau Kapas）、トゥンゴル島（Pulau Tenggol）**——をカバーし、一方でパハンの**ティオマン**海洋公園は**9つの島**からなる島群である：ティオマン島（Pulau Tioman）、トゥライ島（Pulau Tulai）、ラバス島（Pulau Labas）、スポイ島（Pulau Sepoi）、スリ・ブアット島（Pulau Seri Buat）、トコン・バハラ島（Pulau Tokong Bahara）、グット島（Pulau Gut）、チェベ島（Pulau Cebeh）、スンビラン島（Pulau Sembilang）。
 

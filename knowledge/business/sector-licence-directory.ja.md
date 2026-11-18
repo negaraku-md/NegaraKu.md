@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 
 status: "published"
 aiAssisted: true
@@ -150,7 +150,7 @@ framework: data-reference
 
 | 規制当局 | 規範法令 | 発行するもの | サイト |
 | --- | --- | --- | --- |
-| マレーシア建設産業開発庁（CIDB） | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | 請負業者登録、要員認定 | cidb.gov.my |
+| [マレーシア建設産業開発庁（CIDB）](/ja/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | 請負業者登録、要員認定 | cidb.gov.my |
 | 評価士・鑑定士・不動産エージェント・プロパティマネージャー委員会 | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242)——and Property Managers という文言は Act A1550 により追加され、2018年1月2日施行 | 登録及び開業証明書 | lpeph.gov.my |
 | 地方政府 | Town and Country Planning Act 1976 (Act 172) | 計画許可及び用途変更 | — |
 | 地方政府 | Street, Drainage and Building Act 1974 (Act 133) | 建築図面承認、竣工及び適合証明書 | — |

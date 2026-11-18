@@ -34,7 +34,7 @@ faq:
     a: "Yes. Overseas manufacturers can apply for JAKIM certification, or use a certificate from a foreign halal certification body recognised by JAKIM. The list of recognised bodies is reviewed and updated by JAKIM."
 
 lang: "en"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ As an illustration of fees (according to the schedule in the Sarawak state porta
 
 Many people confuse these two bodies. The difference is clear:
 
-| Aspect | JAKIM | HDC (Halal Development Corporation) |
+| Aspect | JAKIM | [HDC (Halal Development Corporation)](/en/industries/halal-industry-economy) |
 | --- | --- | --- |
 | Main function | Issues & audits halal certificates | Develops the halal economy & industry |
 | Certification authority | Yes (together with MAIN/JAIN) | No — does not issue certificates |

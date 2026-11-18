@@ -140,7 +140,7 @@ Penang is the origin story, but it is no longer the whole map. Over five decades
 
 - **Penang (Bayan Lepas and Batu Kawan):** Still the core — semiconductors, ATP, and a deep contract-manufacturing base. Home to Intel, AMD, Broadcom, Bosch, OSRAM, Motorola and Lumileds, plus EMS players such as Jabil, Flex, Plexus, Sanmina, Benchmark and Inari Amertron, per InvestPenang.
 - **Kulim, Kedah:** The Kulim Hi-Tech Park, just across the state line from Penang, extended the northern cluster with advanced electronics manufacturing — including OSRAM's LED chip factory, which since 2017 has run genuine wafer fabrication for LEDs and microLEDs at the park.
-- **Klang Valley (Selangor and Kuala Lumpur), Melaka and Negeri Sembilan:** The Central cluster mapped by the New Industrial Master Plan 2030 — the Shah Alam industrial belt and a southern electronics corridor, closer to the country's main airport and financial centre, hosting firms such as Sony, Panasonic, Samsung, Renesas and ON Semiconductor.
+- **Klang Valley (Selangor and Kuala Lumpur), Melaka and Negeri Sembilan:** The Central cluster mapped by the [New Industrial Master Plan 2030](/industries/new-industrial-master-plan-2030/) — the Shah Alam industrial belt and a southern electronics corridor, closer to the country's main airport and financial centre, hosting firms such as Sony, Panasonic, Samsung, Renesas and ON Semiconductor.
 - **Johor:** Increasingly relevant as spillover from neighbouring Singapore drives new data-centre and electronics investment in the south; Johor Bahru drew RM9.8 billion in approved E&E investment in the first nine months of 2024, per MIDA.
 
 The concentration in the northern corridor — Penang plus Kulim — is why that region is sometimes called Malaysia's "Silicon Valley," though the comparison flatters the branding more than the business model: Malaysia's strength has historically been in manufacturing and back-end services rather than chip design.
@@ -171,7 +171,7 @@ A sector this dominant brings real vulnerabilities, and Malaysian policymakers a
 
 ## What is Malaysia doing about it? The National Semiconductor Strategy
 
-The government's answer to these weaknesses is the National Semiconductor Strategy (NSS), unveiled in 2024, with details presented by Prime Minister Anwar Ibrahim at SEMICON Southeast Asia in Kuala Lumpur on 28 May 2024.
+The government's answer to these weaknesses is the [National Semiconductor Strategy](/industries/semiconductor-industry-national-strategy/) (NSS), unveiled in 2024, with details presented by Prime Minister Anwar Ibrahim at SEMICON Southeast Asia in Kuala Lumpur on 28 May 2024.
 
 The NSS is essentially a plan to climb the value chain — to add more design, advanced packaging and wafer fabrication to Malaysia's existing manufacturing base. According to MIDA, its headline commitments include:
 

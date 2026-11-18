@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 
 status: "published"
 aiAssisted: true
@@ -271,7 +271,7 @@ Act 1986)** கீழ் புதிய உற்பத்திச் சல�
 பாதிக்கப்படவில்லை, ஆனால் இன்னும் *FIZ-இல் Pioneer Status-க்கு விண்ணப்பியுங்கள்* என்று படிக்கும் ஒரு திட்டம், மூடப்பட்ட
 ஒரு சாளரத்திற்கு எதிராகத் திட்டமிடுகிறது.
 
-MITI-இன் 2024 மே 28 தேதிய **National Semiconductor Strategy** அதே கருத்தைச் சொல்கிறது: அது Bayan Lepas-ஐ ஒரு முறை,
+MITI-இன் 2024 மே 28 தேதிய **[National Semiconductor Strategy](/ta/industries/semiconductor-industry-national-strategy)** அதே கருத்தைச் சொல்கிறது: அது Bayan Lepas-ஐ ஒரு முறை,
 விவரணமாகக் குறிப்பிட்டு, புவியியல் ரீதியாக எதையும் ஒதுக்கவில்லை. கூட்டமைப்பின் அசெம்பிளி, சோதனை மற்றும் பேக்கேஜிங் ஆழம்தான்
 சொத்து. இந்தத் தகுதிப்படுத்தல் ஒரு குழாய்த்தொகுப்பு.
 

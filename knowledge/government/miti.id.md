@@ -37,7 +37,7 @@ verificationNeeded:
   - "Laman sejarah MIDA sendiri menyatakan pendiriannya pada 1967 di bawah Act 397, tetapi titik waktu nama bahasa Inggris otoritas itu berubah dari 'Malaysian Industrial Development Authority' menjadi 'Malaysian Investment Development Authority' tidak dikonfirmasi pada sumber resmi dan tidak dinyatakan dalam artikel ini"
 
 lang: "id"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,7 +216,7 @@ Johari Abdul Ghani** sebagai Menteri, dengan **Sim Tze Tzin** sebagai Wakil
 Menteri. Kantor pusat kementerian ini adalah **Menara MITI** di Kuala Lumpur.
 
 Di bawah Anggaran 2026, MITI menerima alokasi sebesar **RM1.898 miliar**
-untuk memimpin pelaksanaan **Rencana Induk Perindustrian Baru 2030 (NIMP
+untuk memimpin pelaksanaan **[Rencana Induk Perindustrian Baru 2030](/id/industries/new-industrial-master-plan-2030) (NIMP
 2030)**, rencana tindakan yang memandu arah manufaktur dan perindustrian
 Malaysia.
 

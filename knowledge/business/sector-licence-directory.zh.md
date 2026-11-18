@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 
 status: "published"
 aiAssisted: true
@@ -148,7 +148,7 @@ BLESS 处理来自 18 个当局的 49 项联邦执照，而两者都不完备。
 
 | 监管机构 | 规范法规 | 签发什么 | 网站 |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | 承包商注册、人员认证 | cidb.gov.my |
+| [CIDB](/zh/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | 承包商注册、人员认证 | cidb.gov.my |
 | 估价师、估值师、房地产经纪与产业管理师局 | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242)——and Property Managers 这几个字由 Act A1550 加入，2018 年 1 月 2 日生效 | 注册与执业证书 | lpeph.gov.my |
 | 地方政府 | Town and Country Planning Act 1976 (Act 172) | 规划许可与用途更改 | — |
 | 地方政府 | Street, Drainage and Building Act 1974 (Act 133) | 建筑图则批准、竣工与合规证书 | — |

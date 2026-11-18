@@ -46,7 +46,7 @@ verificationNeeded:
   - "국가반도체전략(National Semiconductor Strategy)에 특유한 세제 인센티브가 관보에 게재되었는지 여부 — 아무것도 찾지 못함"
 
 lang: "ko"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -149,7 +149,7 @@ NCIA는 이제 **국가투자위원회(National Committee on Investments)**를 �
 
 바얀르파스, 바투카완(Batu Kawan), 쿨림 하이테크파크는 말레이시아에서 가장 깊은 전자 및 반도체 공급망 — 조립, 시험, 패키징, 장비, 그리고 이에 수반되는 엔지니어링 노동 시장 — 을 보유합니다. 페낭 국제공항과 페낭항이 인접해 있습니다. 그 집적(agglomeration)이 자산입니다.
 
-그러나 총리가 **2024년 5월 28일** 출범시키고 MITI가 주도하는 **국가 반도체 전략(National Semiconductor Strategy, NSS)**은 그 클러스터를 NCER과 연결하지 않습니다. NSS는 북부를 정확히 한 번, 그리고 서술적으로 언급합니다:
+그러나 총리가 **2024년 5월 28일** 출범시키고 MITI가 주도하는 **[국가 반도체 전략](/ko/industries/semiconductor-industry-national-strategy)(National Semiconductor Strategy, NSS)**은 그 클러스터를 NCER과 연결하지 않습니다. NSS는 북부를 정확히 한 번, 그리고 서술적으로 언급합니다:
 
 > 말레이시아의 세계적 수준의 인프라는 쿨림, 바투카완, 바얀르파스의 산업단지, 그리고 국제공항과 항만을 통해 드러납니다.
 

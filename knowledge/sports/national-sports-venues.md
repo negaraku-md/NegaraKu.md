@@ -82,7 +82,7 @@ Apabila 85,500 penonton memenuhi lengkung tiga tingkat TM Stadium Nasional pada 
 
 Kebanyakan acara berprofil tinggi berlegar di sekitar **Kuala Lumpur Sports City** (dahulunya Kompleks Sukan Negara) di Bukit Jalil, kira-kira 20 minit dari pusat bandar Kuala Lumpur dan tiga minit berjalan kaki dari stesen LRT Bukit Jalil. Kompleks ini menempatkan TM Stadium Nasional, Stadium Hoki Nasional, Pusat Akuatik Negara, Arena Axiata/Unifi, Pusat Skuasy Negara dan Dewan Sri Putra dalam satu kawasan.
 
-Dua gelanggang penting lain berada di luar Bukit Jalil: **Velodrom Nasional Malaysia** di Nilai, Negeri Sembilan, dan **Litar Antarabangsa Sepang** di Sepang, Selangor.
+Dua gelanggang penting lain berada di luar Bukit Jalil: [**Velodrom Nasional Malaysia**](/sports/track-cycling-velodrome-malaysia) di Nilai, Negeri Sembilan, dan **Litar Antarabangsa Sepang** di Sepang, Selangor.
 
 ## Apakah kapasiti dan fungsi setiap gelanggang?
 

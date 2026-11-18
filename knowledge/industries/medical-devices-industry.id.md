@@ -31,7 +31,7 @@ faq:
   - q: Apa saja insentif bagi produsen?
     a: Peranti medis adalah aktivitas yang dipromosikan MIDA, memenuhi syarat untuk insentif seperti Pioneer Status (pembebasan pajak penghasilan sebagian hingga penuh untuk jangka waktu tertentu) dan Investment Tax Allowance atas belanja modal yang memenuhi syarat. Peranti medis juga disebut sebagai sektor prioritas di bawah New Industrial Master Plan 2030. Konfirmasikan ketentuan dan kelayakan terkini langsung kepada MIDA.
 lang: id
-sourceContentHash: "0f609e23d14a24f5"
+sourceContentHash: "7fd1c6521ba9829e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -149,7 +149,7 @@ Berdampingan dengan multinasional terdapat lapisan produsen lokal — spesialis 
 
 Peranti medis di Malaysia diatur oleh **Medical Device Authority (MDA)**, badan statutori di bawah **Kementerian Kesehatan**. MDA didirikan berdasarkan **Medical Device Authority Act 2012 (Act 738)** dan menegakkan **Medical Device Act 2012 (Act 737)**. Di bawah kerangka ini, peranti diklasifikasikan menurut risiko **A hingga D**, wajib **didaftarkan** sebelum dipasarkan, dan bisnis yang membuat, mengimpor, mendistribusikan, atau mewakilinya wajib memegang **lisensi pendirian (establishment licence)**. Produsen asing tanpa kehadiran lokal wajib menunjuk **perwakilan resmi (authorised representative)** di dalam negeri, dan pengajuan dilakukan melalui sistem daring MDA (MeDC@St).
 
-Di sisi investasi, peranti medis adalah **aktivitas yang dipromosikan MIDA** dalam ruang ilmu hayati dan medtech. Produsen dapat mengajukan insentif utama seperti **Pioneer Status** (pembebasan sebagian hingga penuh atas penghasilan statutori untuk jangka waktu tertentu) dan **Investment Tax Allowance** atas belanja modal yang memenuhi syarat, sebagaimana tertuang dalam panduan MIDA; tarif dan kelayakan persisnya sebaiknya selalu dikonfirmasi kepada MIDA karena daftar aktivitas yang dipromosikan dan ketentuannya berubah dari waktu ke waktu. Sektor ini juga disebut sebagai prioritas di bawah **New Industrial Master Plan 2030**, yang bertujuan mendorong Malaysia menuju manufaktur yang bernilai lebih tinggi dan lebih terlokalisasi. Lihat profil [MIDA](/id/government/mida/) untuk mengetahui bagaimana lembaga ini mengelola insentif-insentif tersebut.
+Di sisi investasi, peranti medis adalah **aktivitas yang dipromosikan MIDA** dalam ruang ilmu hayati dan medtech. Produsen dapat mengajukan insentif utama seperti **Pioneer Status** (pembebasan sebagian hingga penuh atas penghasilan statutori untuk jangka waktu tertentu) dan **Investment Tax Allowance** atas belanja modal yang memenuhi syarat, sebagaimana tertuang dalam panduan MIDA; tarif dan kelayakan persisnya sebaiknya selalu dikonfirmasi kepada MIDA karena daftar aktivitas yang dipromosikan dan ketentuannya berubah dari waktu ke waktu. Sektor ini juga disebut sebagai prioritas di bawah [**New Industrial Master Plan 2030**](/id/industries/new-industrial-master-plan-2030/), yang bertujuan mendorong Malaysia menuju manufaktur yang bernilai lebih tinggi dan lebih terlokalisasi. Lihat profil [MIDA](/id/government/mida/) untuk mengetahui bagaimana lembaga ini mengelola insentif-insentif tersebut.
 
 ## Prospek
 

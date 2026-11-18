@@ -31,7 +31,7 @@ verificationNeeded:
   - "العناوين القصيرة الإنجليزية التي تستخدمها JAKIM ومسجّل الجمعيات — كلاهما لا يظهر على موقع الجهة المعنية نفسها"
 
 lang: "ar"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -152,7 +152,7 @@ framework: data-reference
 
 | الجهة المنظِّمة | القانون الحاكم | ما تصدره | الموقع |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | تسجيل المقاولين واعتماد العاملين | cidb.gov.my |
+| [CIDB](/ar/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | تسجيل المقاولين واعتماد العاملين | cidb.gov.my |
 | مجلس المثمّنين والمقيّمين ووكلاء العقارات ومديري الأملاك | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — أُضيفت عبارة «and Property Managers» بموجب Act A1550 النافذ في 2 يناير 2018 | التسجيل وشهادات الممارسة | lpeph.gov.my |
 | السلطة المحلية | Town and Country Planning Act 1976 (Act 172) | إذن التخطيط وتغيير الاستعمال | — |
 | السلطة المحلية | Street, Drainage and Building Act 1974 (Act 133) | اعتماد مخطط البناء وشهادة الإنجاز والامتثال | — |

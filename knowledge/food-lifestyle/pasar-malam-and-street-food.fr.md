@@ -36,7 +36,7 @@ faq:
     a: "Les établissements de restauration sont réglementés par le Food Hygiene Regulations 2009. Les consommateurs sont encouragés à choisir les stands notés A ou B, qui servent une nourriture chaude et fraîche, et à vérifier l'étiquette de notation qui est généralement affichée."
 
 lang: "fr"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Ces trois marchés sont souvent confondus, mais chacun remplit une fonction diff
 
 **Un pasar malam** est un marché mobile qui apparaît de la fin d'après-midi à la nuit, généralement certains jours précis chaque semaine dans la même zone. Il vend de tout — nourriture prête à consommer, fruits, légumes, vêtements, jusqu'aux articles ménagers. Pour la plupart des gens, le pasar malam est un lieu où dîner à bas prix dans une ambiance animée, et pas seulement pour acheter des ingrédients crus.
 
-**Un pasar tani**, en revanche, est un programme officiel de la FAMA (l'Autorité fédérale de commercialisation agricole). Son concept est un « point de rencontre entre producteurs et consommateurs » — les agriculteurs et les petits exploitants vendent leur production agricole directement aux acheteurs sans passer par des intermédiaires. Il se tient généralement du matin à la mi-journée.
+**Un pasar tani**, en revanche, est un programme officiel de la [FAMA](/fr/agriculture/fama-agricultural-marketing-authority/) (l'Autorité fédérale de commercialisation agricole). Son concept est un « point de rencontre entre producteurs et consommateurs » — les agriculteurs et les petits exploitants vendent leur production agricole directement aux acheteurs sans passer par des intermédiaires. Il se tient généralement du matin à la mi-journée.
 
 **Un marché de produits frais (wet market)** est un marché permanent qui fonctionne dès l'aube, vendant de la viande, du poisson, du poulet et des légumes frais. Son nom vient du sol, toujours mouillé par la glace et l'eau avec lesquelles on lave les produits de la mer. Le marché de produits frais est le pouls des cuisines domestiques et des restaurateurs qui veulent des ingrédients frais chaque jour.
 

@@ -28,7 +28,7 @@ faq:
     a: "아닙니다. 세팡은 2017년까지 포뮬러 1 그랑프리를 개최했으며, 현재 서킷은 MotoGP와 기타 모터스포츠 행사에 주력하고 있습니다."
 
 lang: "ko"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ framework: profile
 
 주목도가 높은 행사 대부분은 부킷잘릴(Bukit Jalil)에 있는 **쿠알라룸푸르 스포츠 시티(Kuala Lumpur Sports City)**(옛 국립스포츠단지)를 중심으로 이루어지며, 쿠알라룸푸르 시내에서 약 20분 거리, 부킷잘릴 LRT역에서 도보 3분 거리에 있습니다. 이 단지에는 TM 국립경기장, 국립하키경기장, 국립수영센터, 악시아타/유니파이 아레나(Arena Axiata/Unifi), 국립스쿼시센터, 스리 푸트라 홀(Dewan Sri Putra)이 한 구역에 자리하고 있습니다.
 
-또 다른 중요한 두 경기장은 부킷잘릴 외곽에 있습니다. 느그리슴빌란(Negeri Sembilan)주 닐라이(Nilai)의 **말레이시아 국립벨로드롬**과 슬랑오르(Selangor)주 세팡(Sepang)의 **세팡 국제서킷**입니다.
+또 다른 중요한 두 경기장은 부킷잘릴 외곽에 있습니다. 느그리슴빌란(Negeri Sembilan)주 닐라이(Nilai)의 [**말레이시아 국립벨로드롬**](/ko/sports/track-cycling-velodrome-malaysia)과 슬랑오르(Selangor)주 세팡(Sepang)의 **세팡 국제서킷**입니다.
 
 ## 각 경기장의 수용 인원과 기능은 무엇입니까?
 

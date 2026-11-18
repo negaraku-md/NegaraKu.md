@@ -34,7 +34,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 
 status: "published"
 aiAssisted: true
@@ -114,7 +114,7 @@ The body's name and status then changed several times:
 
 This is a common confusion. The **Olympic Council of Malaysia (OCM)** is the country's National Olympic Committee — it manages athletes' participation in the Olympic Games, the Commonwealth Games, the Asian Games and the SEA Games. **PCM, meanwhile, is an entirely separate body** that manages the Paralympic pathway: the Paralympic Games, the Asian Para Games and the ASEAN Para Games.
 
-The two are distinct organisations, each with its own leadership, membership and international affiliation. OCM is affiliated with the International Olympic Committee (IOC); PCM is affiliated with the IPC. What they have in common is that both operate within the framework of the **Sports Development Act 1997** and work with the Ministry of Youth and Sports and the National Sports Council on athlete development.
+The two are distinct organisations, each with its own leadership, membership and international affiliation. OCM is affiliated with the International Olympic Committee (IOC); PCM is affiliated with the IPC. What they have in common is that both operate within the framework of the **Sports Development Act 1997** and work with the Ministry of Youth and Sports and the [National Sports Council](/en/sports/national-sports-council-msn) on athlete development.
 
 PCM is also more than just a contingent sender. According to its official website, it hosted the **inaugural ASEAN Para Games in 2001**, and again in **2009** and **2017**. In terms of leadership, Dato' Sri Megat D. Shahriman is the PCM President, elected in December 2019 and re-elected in December 2024.
 

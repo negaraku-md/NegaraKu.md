@@ -119,7 +119,7 @@ Menurut rujukan Kementerian Kewangan, kira-kira **13.5%** daripada eksport halal
 
 ## Apakah peranan HDC dan strategi hab halal global?
 
-Di sebalik persijilan, Malaysia membina sebuah ekosistem pembangunan halal. **Halal Development Corporation (HDC)**, sebuah agensi di bawah lingkungan Kementerian Pelaburan, Perdagangan dan Industri (MITI), berperanan menyelaras pembangunan taman halal, latihan dan galakan industri — manakala mandat mengeluarkan sijil kekal pada JAKIM. Rujukan Kementerian Kewangan mencatatkan pelaburan terkumpul dalam taman halal sebanyak **RM16.1 bilion sejak 2011**, dengan 295 syarikat beroperasi merentasi 21 taman halal.
+Di sebalik persijilan, Malaysia membina sebuah ekosistem pembangunan halal. **[Halal Development Corporation (HDC)](/industries/halal-industry-economy)**, sebuah agensi di bawah lingkungan Kementerian Pelaburan, Perdagangan dan Industri (MITI), berperanan menyelaras pembangunan taman halal, latihan dan galakan industri — manakala mandat mengeluarkan sijil kekal pada JAKIM. Rujukan Kementerian Kewangan mencatatkan pelaburan terkumpul dalam taman halal sebanyak **RM16.1 bilion sejak 2011**, dengan 295 syarikat beroperasi merentasi 21 taman halal.
 
 Aspirasi jangka panjang dipandu oleh Pelan Induk Industri Halal (HIMP) 2030, yang meletakkan sasaran pertumbuhan bagi memperluas penyertaan Malaysia dalam pasaran halal global. Di bawah **Rancangan Malaysia Ke-13 (RMK-13)** yang dibentangkan pada 31 Julai 2025, kerajaan mensasarkan eksport halal **RM80 bilion** dan sumbangan **11%** kepada KDNK. Antara langkah yang diumumkan ialah penubuhan **sebuah suruhanjaya halal** serta pembangunan taman perindustrian halal baharu di Melaka, Perak dan Kelantan.
 

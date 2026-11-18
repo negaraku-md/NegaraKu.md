@@ -31,7 +31,7 @@ faq:
   - q: Mengapa Malaysia melarang ekspor tanah jarang mentah?
     a: Pemerintah menyatakan moratorium itu — berlaku sejak awal 2024 — dimaksudkan untuk menghentikan sumber daya tanah jarang negara diekspor tanpa diolah, dan memaksa nilai ditambahkan di dalam negeri melalui pemurnian lokal dan industri hilir. Pejabat menggambarkannya sebagai melindungi sumber daya strategis; ketentuan kebijakan persisnya telah bergeser dari waktu ke waktu dan sebaiknya diperiksa terhadap pernyataan pemerintah terbaru.
 lang: id
-sourceContentHash: "b76525788cb61fae"
+sourceContentHash: "2cfb1c127d0860c5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Pembagian negara bagian-versus-federal ini sentral untuk memahami pertambangan M
 
 Pertambangan adalah irisan kecil PDB — sub-sektor khusus-mineral berada jauh di bawah 1%, dengan target pemerintah mengangkat kontribusi pertambangan-dan-penggalian dari sekitar 0,7% menjadi 1% pada 2030 (angka PDB utama "pertambangan dan penggalian" sebesar beberapa persen umumnya mencakup minyak dan gas, jadi definisinya penting). Namun pemetaan pemerintah awal telah menilai sumber daya mineral negara sekitar **RM4,11 triliun**, dan kebijakan telah beralih menuju menarik lebih banyak nilai darinya.
 
-Arah ditetapkan oleh **National Mineral Industry Transformation Plan 2021-2030** dan rencana sektoral mineral di bawah **New Industrial Master Plan 2030** (diluncurkan September 2023), yang keduanya menekankan naik di rantai nilai — mengolah, bukan sekadar mengekstraksi — dan melakukannya secara lebih berkelanjutan. Penerus dari National Mineral Policy yang telah lama berlaku juga tengah dibahas.
+Arah ditetapkan oleh **National Mineral Industry Transformation Plan 2021-2030** dan rencana sektoral mineral di bawah [**New Industrial Master Plan 2030**](/id/industries/new-industrial-master-plan-2030/) (diluncurkan September 2023), yang keduanya menekankan naik di rantai nilai — mengolah, bukan sekadar mengekstraksi — dan melakukannya secara lebih berkelanjutan. Penerus dari National Mineral Policy yang telah lama berlaku juga tengah dibahas.
 
 Benang merahnya jelas. Setelah belajar dari timah — ketika Malaysia mengekspor komoditas mentah lalu menyaksikan pasar lenyap — negara ini kini ingin mineralnya, terutama tanah jarang, dimurnikan dan dibuat menjadi produk bernilai lebih tinggi di dalam negeri. Apakah taruhan tanah jarang itu membuahkan hasil akan bergantung pada harga, pengelolaan lingkungan, dan lingkungan kebijakan yang masih sangat berubah-ubah.
 

@@ -131,7 +131,7 @@ Two areas stand out where Malaysia punches well above its size, and neither is a
 
 ## How is the government trying to move it up the value chain?
 
-The answer is the **New Industrial Master Plan 2030 (NIMP 2030)**, launched on 1 September 2023. Rather than picking narrow winners, it takes a "mission-based" approach built around four missions:
+The answer is the **[New Industrial Master Plan 2030](/industries/new-industrial-master-plan-2030/) (NIMP 2030)**, launched on 1 September 2023. Rather than picking narrow winners, it takes a "mission-based" approach built around four missions:
 
 1. Advance economic complexity
 2. Tech up for a digitally-vibrant nation

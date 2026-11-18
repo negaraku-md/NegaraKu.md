@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos apoyan la inversión en textiles y confección?
     a: La MIDA administra las aprobaciones de licencias de fabricación y los incentivos fiscales para el subsector, que es un área prioritaria bajo el Nuevo Plan Maestro Industrial (NIMP) 2030. A partir del primer trimestre de 2026, las inversiones que reúnan los requisitos quedan bajo un nuevo Marco de Incentivos a la Inversión basado en resultados, con incentivos escalonados ligados a resultados como la tecnología, las competencias y los vínculos locales. Confirme las tasas y condiciones vigentes con la MIDA.
 lang: es
-sourceContentHash: "33538782332736dd"
+sourceContentHash: "97b0b938d8bbc429"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -144,7 +144,7 @@ La industria se sitúa dentro del marco más amplio de inversión manufacturera 
 
 Dos hilos de política importan específicamente aquí:
 
-- **NIMP 2030.** El Nuevo Plan Maestro Industrial 2030, lanzado el 1 de septiembre de 2023, nombra a los textiles, la confección y el calzado entre sus subsectores prioritarios y enmarca el objetivo como una mayor complejidad económica, adopción de tecnología y avance hacia las cero emisiones netas, en lugar de la producción de bajo coste.
+- **NIMP 2030.** El [Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030/), lanzado el 1 de septiembre de 2023, nombra a los textiles, la confección y el calzado entre sus subsectores prioritarios y enmarca el objetivo como una mayor complejidad económica, adopción de tecnología y avance hacia las cero emisiones netas, en lugar de la producción de bajo coste.
 - **Un nuevo marco de incentivos.** A partir del primer trimestre de 2026, la inversión que reúna los requisitos en el subsector queda bajo un **Marco de Incentivos a la Inversión** nuevo en el que los incentivos fiscales son escalonados y están ligados a resultados —por ejemplo, el nivel tecnológico, las competencias y los vínculos locales— en lugar de concederse como deducciones uniformes. La MIDA también administra las aprobaciones de licencias de fabricación y continúa promoviendo segmentos patrimoniales como el batik.
 
 La MIDA informó de una inversión aprobada de unos **RM657 millones en 28 proyectos** en el subsector del estilo de vida en 2025, generando unos 1.222 empleos, un recordatorio de que, aunque el sector es maduro, aún atrae capital fresco.

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai chuyển đến Malaysia cùng một con chó hoặc mèo, hoặc mang một con vào vì bất kỳ mục đích nào khác, cần lên kế hoạch cho quy trình giấy phép và cách ly trước khi khởi hành."
 
 lang: "vi"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ stayFacts:
 
 Chuyến bay của bạn đã đặt, các thùng đồ đã đóng gói, và rồi bạn chợt nhận ra: còn con chó thì sao. Tại Malaysia, một con thú cưng không chỉ đi cùng trong khoang hàng — nó cần một giấy phép được phê duyệt trước khi nó rời mặt đất, một chip vi mạch đáp ứng một tiêu chuẩn ISO cụ thể, và rất có thể một tuần hoặc hơn trong cách ly trước khi bạn nhận lại nó.
 
-Các quy định nằm ở hai cơ quan. Cục Dịch vụ Thú y (Department of Veterinary Services, DVS) — Jabatan Perkhidmatan Veterinar — soạn các điều kiện an toàn sinh học: độ tuổi, tiêm phòng, chứng nhận sức khỏe, thời gian cách ly. Dịch vụ Kiểm dịch và Kiểm tra Malaysia (Malaysian Quarantine and Inspection Services, MAQIS) là bên thực sự cấp giấy phép nhập khẩu và vận hành các trạm kiểm dịch. Trên thực tế, bạn chủ yếu làm việc với MAQIS.
+Các quy định nằm ở hai cơ quan. [Cục Dịch vụ Thú y](/vi/agriculture/livestock-poultry-industry/) (Department of Veterinary Services, DVS) — Jabatan Perkhidmatan Veterinar — soạn các điều kiện an toàn sinh học: độ tuổi, tiêm phòng, chứng nhận sức khỏe, thời gian cách ly. Dịch vụ Kiểm dịch và Kiểm tra Malaysia (Malaysian Quarantine and Inspection Services, MAQIS) là bên thực sự cấp giấy phép nhập khẩu và vận hành các trạm kiểm dịch. Trên thực tế, bạn chủ yếu làm việc với MAQIS.
 
 ## Những gì phải đúng trước khi con vật di chuyển
 

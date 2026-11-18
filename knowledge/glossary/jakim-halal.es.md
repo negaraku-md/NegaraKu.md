@@ -34,7 +34,7 @@ faq:
     a: "Sí. Los fabricantes extranjeros pueden solicitar la certificación de JAKIM, o usar un certificado de un organismo de certificación halal extranjero reconocido por JAKIM. La lista de organismos reconocidos es revisada y actualizada por JAKIM."
 
 lang: "es"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ A modo de ilustración de las tasas (según el baremo de las preguntas frecuente
 
 Mucha gente confunde estos dos organismos. La diferencia es clara:
 
-| Aspecto | JAKIM | HDC (Corporación de Desarrollo Halal) |
+| Aspecto | JAKIM | [HDC (Corporación de Desarrollo Halal)](/es/industries/halal-industry-economy) |
 | --- | --- | --- |
 | Función principal | Emite y audita certificados halal | Desarrolla la economía y el sector halal |
 | Autoridad de certificación | Sí (junto con MAIN/JAIN) | No — no emite certificados |

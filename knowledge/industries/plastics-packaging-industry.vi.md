@@ -31,7 +31,7 @@ faq:
   - q: Malaysia đang làm gì về ô nhiễm nhựa?
     a: Lộ trình Bền vững Nhựa Malaysia 2021–2030, do bộ môi trường dẫn dắt, đặt các mục tiêu loại bỏ dần các loại nhựa dùng một lần gây rắc rối, nâng tỷ lệ tái chế và hàm lượng tái chế, và làm cho bao bì nhựa có thể tái chế được. Nó cũng giới thiệu một chương trình Trách nhiệm Mở rộng của Nhà sản xuất (EPR) buộc các nhà sản xuất góp phần tài trợ việc thu gom và tái chế.
 lang: vi
-sourceContentHash: "dc6e2cfa034711f6"
+sourceContentHash: "de0d1c6868348e76"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Không phần nào của ngành thay đổi nhanh hơn mối quan hệ của nó
 
 Giai đoạn đó đẩy tính bền vững vào trung tâm chính sách. **Lộ trình Bền vững Nhựa Malaysia 2021–2030**, do bộ môi trường dẫn dắt, đặt các mục tiêu quốc gia có thời hạn: loại bỏ dần các loại nhựa dùng một lần gây rắc rối, nâng tỷ lệ tái chế cho bao bì nhựa sau tiêu dùng, làm cho bao bì nhựa có thể tái chế hoàn toàn, nâng hàm lượng tái chế, và thu gom phần lớn rác thải nhựa để tái chế vào năm 2030. Nó cũng giới thiệu một chương trình **Trách nhiệm Mở rộng của Nhà sản xuất (EPR)**, theo đó các nhà sản xuất góp phần tài trợ việc thu gom và tái chế bao bì mà họ đưa ra thị trường.
 
-Các kiểm soát nhập khẩu đã siết chặt song song. Theo các quy định được đưa tin có hiệu lực năm 2025, nhà nhập khẩu rác thải nhựa (mã HS 39.15) phải có một **Giấy chứng nhận Phê duyệt từ SIRIM**, được hỗ trợ bởi kiểm tra trước khi giao hàng và kiểm toán nhà máy — một nỗ lực giữ cho nguyên liệu tái chế thực sự chảy đến các nhà xử lý hợp pháp trong khi chặn nhựa phế liệu bẩn, không thể tái chế. Các nhà hoạch định chính sách định khung các biện pháp này như một phần của Kế hoạch Tổng thể Công nghiệp Mới 2030 và một chương trình nghị sự kinh tế tuần hoàn cho chế tạo.
+Các kiểm soát nhập khẩu đã siết chặt song song. Theo các quy định được đưa tin có hiệu lực năm 2025, nhà nhập khẩu rác thải nhựa (mã HS 39.15) phải có một **Giấy chứng nhận Phê duyệt từ SIRIM**, được hỗ trợ bởi kiểm tra trước khi giao hàng và kiểm toán nhà máy — một nỗ lực giữ cho nguyên liệu tái chế thực sự chảy đến các nhà xử lý hợp pháp trong khi chặn nhựa phế liệu bẩn, không thể tái chế. Các nhà hoạch định chính sách định khung các biện pháp này như một phần của [Kế hoạch Tổng thể Công nghiệp Mới 2030](/vi/industries/new-industrial-master-plan-2030/) và một chương trình nghị sự kinh tế tuần hoàn cho chế tạo.
 
 ## Ưu đãi
 

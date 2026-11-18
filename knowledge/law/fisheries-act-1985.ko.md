@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ framework: explainer
 
 1985년 어업법은 **어업과 해양 보전에 관한 말레이시아의 주요 연방 법**입니다. 이전 어업 법령을 대체하여, 어업의 면허, 수산 자원의 관리, 해양 서식지의 보호를 하나의 틀 아래에 두었습니다. 이 법은 여러 Part(편)로 구성되며, 해양공원과 해양보호구역은 특히 **Part IX**에서 다룹니다.
 
-이 법은 말레이시아 수역의 어업과 해양공원 사안을 조율·감독하는 **어업총국장**이 수장을 맡는 **말레이시아 수산청**(Jabatan Perikanan Malaysia)이 집행합니다.
+이 법은 말레이시아 수역의 어업과 해양공원 사안을 조율·감독하는 **어업총국장**이 수장을 맡는 [**말레이시아 수산청**](/ko/agriculture/department-of-fisheries-malaysia/)(Jabatan Perikanan Malaysia)이 집행합니다.
 
 ## 면허: 어업은 허가된 활동이지, 무제한 자유가 아니다
 

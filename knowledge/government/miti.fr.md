@@ -38,7 +38,7 @@ verificationNeeded:
   - "MIDA's own history page states its 1967 incorporation under Act 397, but the point at which the authority's English name changed from 'Malaysian Industrial Development Authority' to 'Malaysian Investment Development Authority' was not confirmed at an official source and is not stated in this article"
 
 lang: "fr"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -215,7 +215,7 @@ Johari Abdul Ghani** comme ministre, avec **Sim Tze Tzin** comme vice-ministre. 
 ministère a son siège à **Menara MITI**, à Kuala Lumpur.
 
 Dans le cadre du Budget 2026, le MITI a reçu une allocation de **RM1.898 milliard** pour
-piloter la mise en œuvre du **Nouveau plan directeur industriel 2030 (New Industrial
+piloter la mise en œuvre du **[Nouveau plan directeur industriel 2030](/fr/industries/new-industrial-master-plan-2030) (New Industrial
 Master Plan 2030, NIMP 2030)**, le schéma directeur guidant l'orientation manufacturière
 et industrielle de la Malaisie.
 

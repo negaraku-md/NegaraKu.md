@@ -29,7 +29,7 @@ faq:
     a: "Las exportaciones de productos halal de Malasia alcanzaron RM61.79 mil millones en 2024, un 15% más que los RM53.72 mil millones de 2023 (MITI). Para el período de enero a septiembre de 2024, las exportaciones se valoraron en RM45.04 mil millones frente a los RM39.36 mil millones del mismo período de 2023 (MITI/MIDA)."
 
 lang: "es"
-sourceContentHash: "1b16a223e725d8d1"
+sourceContentHash: "df3f9fe9e6326bd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Según una referencia del Ministerio de Finanzas, alrededor del **13.5%** de los
 
 ## ¿Cuál es el papel de la HDC y la estrategia de centro halal global?
 
-Más allá de la certificación, Malasia está construyendo un ecosistema de desarrollo halal. La **Corporación de Desarrollo Halal (HDC)**, una agencia bajo el paraguas del Ministerio de Inversiones, Comercio e Industria (MITI), desempeña un papel en la coordinación del desarrollo de parques halal, la formación y la promoción de la industria — mientras que el mandato de emitir certificados sigue correspondiendo a JAKIM. Una referencia del Ministerio de Finanzas registra una inversión acumulada en parques halal de **RM16.1 mil millones desde 2011**, con 295 empresas operando en 21 parques halal.
+Más allá de la certificación, Malasia está construyendo un ecosistema de desarrollo halal. La **[Corporación de Desarrollo Halal (HDC)](/es/industries/halal-industry-economy)**, una agencia bajo el paraguas del Ministerio de Inversiones, Comercio e Industria (MITI), desempeña un papel en la coordinación del desarrollo de parques halal, la formación y la promoción de la industria — mientras que el mandato de emitir certificados sigue correspondiendo a JAKIM. Una referencia del Ministerio de Finanzas registra una inversión acumulada en parques halal de **RM16.1 mil millones desde 2011**, con 295 empresas operando en 21 parques halal.
 
 La aspiración de largo plazo se guía por el Plan Maestro de la Industria Halal (HIMP) 2030, que fija objetivos de crecimiento para ampliar la participación de Malasia en el mercado halal mundial. Bajo el **Decimotercer Plan de Malasia (RMK-13)**, presentado el 31 de julio de 2025, el gobierno se fija como objetivo exportaciones halal de **RM80 mil millones** y una contribución del **11%** al PIB. Entre las medidas anunciadas figuran la creación de **una comisión halal**, así como el desarrollo de nuevos parques industriales halal en Melaka, Perak y Kelantan.
 

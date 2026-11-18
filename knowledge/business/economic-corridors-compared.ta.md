@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 
 status: "published"
 aiAssisted: true
@@ -161,7 +161,7 @@ Iskandar-க்கான சட்டப்பூர்வ சொல் **"Iskan
 
 | வழித்தடம் | இலக்குத் துறைகள் | உண்மையான ஈர்ப்பு |
 | --- | --- | --- |
-| NCER | அரைக்கடத்திகள், மின் மற்றும் மின்னணுவியல், விவசாயம், சுற்றுலா | Kulim, Batu Kawan மற்றும் Bayan Lepas கொத்து — **திரட்சி, சட்டப்பூர்வ உரிமை அல்ல**. National Semiconductor Strategy NCER-ஐ எங்கும் குறிப்பிடவில்லை |
+| NCER | அரைக்கடத்திகள், மின் மற்றும் மின்னணுவியல், விவசாயம், சுற்றுலா | Kulim, Batu Kawan மற்றும் Bayan Lepas கொத்து — **திரட்சி, சட்டப்பூர்வ உரிமை அல்ல**. [National Semiconductor Strategy](/ta/industries/semiconductor-industry-national-strategy) NCER-ஐ எங்கும் குறிப்பிடவில்லை |
 | ECER | பெட்ரோ வேதிப்பொருட்கள், உற்பத்தி, விவசாய-பதப்படுத்தல், சுற்றுலா, தளவாடவியல் | MCKIP, வர்த்தமானியில் அறிவிக்கப்பட்ட **Free Commercial Zone (இலவச வணிக மண்டலம்)** ஆக Kuantan Port, மற்றும் ECRL |
 | Iskandar Malaysia | நிதிச் சேவைகள், தளவாடவியல், சுற்றுலா, சுகாதாரம், கல்வி, படைப்பாற்றல் | சிங்கப்பூருக்கு அருகாமை, மற்றும் மேற்பொருந்தும் **JS-SEZ** தொகுப்பு |
 | SDC | விவசாயம், பாமாயில் கீழ்நிலை (downstream), சுற்றுலா, தளவாடவியல் | SDC Blueprint 2.0, **2021 முதல் 2030** வரை உள்ளடக்கியது |

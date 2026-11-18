@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 
 status: "published"
 aiAssisted: true
@@ -150,7 +150,7 @@ NCIAは現在、**国家投資委員会（National Committee on Investments）**
 
 バヤンレパス、バトゥ・カワン及びクリム・ハイテクパークは、マレーシアで最も深い電子・半導体サプライチェーン——組立、試験、パッケージング、設備、そしてそれに伴うエンジニアリング労働市場——を有している。ペナン国際空港とペナン港が隣接している。その産業集積こそが資産である。
 
-しかし、**首相により2024年5月28日に発足し**、MITIが主導する**国家半導体戦略（National Semiconductor Strategy）**は、そのクラスターをNCERと結び付けてはいない。NSSは北部について、正確に一度だけ、しかも描写的に言及している。
+しかし、**首相により2024年5月28日に発足し**、MITIが主導する**[国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy)（National Semiconductor Strategy）**は、そのクラスターをNCERと結び付けてはいない。NSSは北部について、正確に一度だけ、しかも描写的に言及している。
 
 > マレーシアの世界水準のインフラは、クリム、バトゥ・カワン及びバヤンレパスにある工業団地、
 > ならびに国際空港及び海港を通じて示されている。

@@ -31,7 +31,7 @@ faq:
   - q: "Pourquoi la Malaisie interdit-elle l'exportation de terres rares brutes ?"
     a: "Le gouvernement affirme que le moratoire — en vigueur depuis le début de 2024 — vise à empêcher que les ressources de terres rares du pays soient exportées sans transformation, et à forcer l'ajout de valeur sur place par le raffinage local et les industries en aval. Les responsables l'ont décrit comme protégeant une ressource stratégique ; les termes exacts de la politique ont évolué au fil du temps et devraient être vérifiés par rapport à la dernière déclaration gouvernementale."
 lang: fr
-sourceContentHash: "b76525788cb61fae"
+sourceContentHash: "2cfb1c127d0860c5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Cette division État-fédéral est centrale pour comprendre l'exploitation mini�
 
 L'exploitation minière est une petite tranche du PIB — le sous-secteur des minéraux seuls se situe bien en deçà de 1 %, avec un objectif gouvernemental de porter la contribution de l'exploitation minière et des carrières d'environ 0,7 % à 1 % d'ici 2030 (les chiffres phares du PIB « exploitation minière et carrières » de plusieurs pour cent incluent généralement le pétrole et le gaz, de sorte que la définition importe). Pourtant, une cartographie gouvernementale préliminaire a évalué les ressources minérales de la nation à environ **RM4,11 billions**, et la politique s'est tournée vers l'extraction de davantage de valeur à partir de celles-ci.
 
-Le cap est fixé par le **National Mineral Industry Transformation Plan 2021–2030** et le plan sectoriel des minéraux au titre du **Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030)** (lancé en septembre 2023), qui tous deux insistent sur la montée dans la chaîne de valeur — transformer, pas seulement extraire — et le faire de manière plus durable. Un successeur à la longue National Mineral Policy est également à l'étude.
+Le cap est fixé par le **National Mineral Industry Transformation Plan 2021–2030** et le plan sectoriel des minéraux au titre du [**Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030)**](/fr/industries/new-industrial-master-plan-2030/) (lancé en septembre 2023), qui tous deux insistent sur la montée dans la chaîne de valeur — transformer, pas seulement extraire — et le faire de manière plus durable. Un successeur à la longue National Mineral Policy est également à l'étude.
 
 Le fil conducteur est clair. Ayant tiré les leçons de l'étain — où la Malaisie a exporté une matière première brute puis a vu le marché disparaître — le pays veut désormais que ses minéraux, surtout les terres rares, soient raffinés et transformés en produits à plus forte valeur ajoutée sur place. Que le pari des terres rares soit gagnant dépendra des prix, de la gestion environnementale et d'un environnement politique encore très mouvant.
 

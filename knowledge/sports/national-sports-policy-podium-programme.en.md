@@ -35,7 +35,7 @@ faq:
     a: "Targets are tied to the cycle of major games — the Olympics, the Asian Games and the Commonwealth Games — and focus is given to sports identified as having a high chance of success, in line with Objective 8 of the National Sports Policy. Funding is channelled on a cyclical basis (for example RM60 million a year for four years), coordinated by the National Sports Council and supported by sports science from the National Sports Institute."
 
 lang: "en"
-sourceContentHash: "7132b0584a8f785b"
+sourceContentHash: "d336fe0c30f91bdb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ The National Sports Policy 2009 firmly states that the two components "shall be 
 | Core | Culture of participation | Culture of achievement |
 | Goal | An active and healthy lifestyle for the people | Excellence at international competitions |
 | Example activities | Charity runs, aerobics, traditional games | National athlete training for the Olympics and Asian Games |
-| Lead agency | Department of Youth and Sports | National Sports Council and National Sports Institute |
+| Lead agency | Department of Youth and Sports | [National Sports Council](/en/sports/national-sports-council-msn) and National Sports Institute |
 | Measure of success | Community participation rate | Medals and world ranking |
 
 The Podium Programme sits entirely within the right-hand column. It is not designed to increase the number of people doing sport; it is designed to prepare the country's most elite athletes so that they have a chance of winning at the international level.

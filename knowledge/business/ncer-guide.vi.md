@@ -46,7 +46,7 @@ verificationNeeded:
   - "Liệu có bất kỳ ưu đãi thuế nào riêng cho National Semiconductor Strategy đã được đăng công báo hay không — không tìm thấy ưu đãi nào"
 
 lang: "vi"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -187,7 +187,7 @@ Bayan Lepas, Batu Kawan và Kulim Hi-Tech Park nắm giữ chuỗi cung ứng đ
 Malaysia — lắp ráp, thử nghiệm, đóng gói, thiết bị, và thị trường lao động kỹ thuật đi kèm với nó.
 Sân bay Quốc tế Penang và Cảng Penang liền kề. Sự tập tụ đó là tài sản.
 
-Nhưng **Chiến lược Bán dẫn Quốc gia (National Semiconductor Strategy)**, được Thủ tướng khởi động vào
+Nhưng **[Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy) (National Semiconductor Strategy)**, được Thủ tướng khởi động vào
 ngày **28 tháng 5 năm 2024** và do MITI dẫn dắt, không kết nối cụm đó với NCER. NSS đề cập đến phía bắc
 đúng một lần, và mang tính mô tả:
 

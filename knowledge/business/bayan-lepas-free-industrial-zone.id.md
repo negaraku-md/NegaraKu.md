@@ -45,7 +45,7 @@ verificationNeeded:
   - "Angka RM435 miliar ekspor Pulau Pinang yang tersebar luas, atau 31 persen dari ekspor negara, tidak dapat dikaitkan dengan situs resmi mana pun."
 
 lang: "id"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -269,7 +269,7 @@ baru di bawah Promotion of Investments Act 1986 pada **pukul 15.00 pada
 **1 Maret 2026**. Persetujuan yang sudah ada tidak terpengaruh, tetapi suatu rencana yang masih berbunyi *ajukan
 Taraf Perintis dalam FIZ* sedang merencanakan terhadap suatu jendela yang telah ditutup.
 
-**Strategi Semikonduktor Nasional** MITI bertanggal 28 Mei 2024 melakukan hal yang sama: ia menyebut
+**[Strategi Semikonduktor Nasional](/id/industries/semiconductor-industry-national-strategy)** MITI bertanggal 28 Mei 2024 melakukan hal yang sama: ia menyebut
 Bayan Lepas sekali saja, secara deskriptif, dan tidak menetapkan apa pun secara geografis. Kedalaman perakitan,
 pengujian, dan pengemasan klaster itu adalah asetnya. Penetapan itu adalah saluran.
 

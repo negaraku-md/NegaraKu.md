@@ -35,7 +35,7 @@ faq:
     a: "Les objectifs sont liés au cycle des grands jeux — les Jeux olympiques, les Jeux asiatiques et les Jeux du Commonwealth — et la priorité est donnée aux sports identifiés comme ayant une forte probabilité de succès, conformément à l'Objectif 8 de la Politique nationale du sport. Le financement est acheminé de façon cyclique (par exemple RM60 millions par an pendant quatre ans), coordonné par le Conseil national du sport et soutenu par la science du sport de l'Institut national du sport."
 
 lang: "fr"
-sourceContentHash: "7132b0584a8f785b"
+sourceContentHash: "d336fe0c30f91bdb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ La Politique nationale du sport de 2009 affirme fermement que les deux composant
 | Cœur | Culture de la participation | Culture de la performance |
 | But | Un mode de vie actif et sain pour la population | Excellence dans les compétitions internationales |
 | Exemples d'activités | Courses caritatives, aérobic, jeux traditionnels | Entraînement des athlètes nationaux pour les Jeux olympiques et asiatiques |
-| Agence responsable | Département de la jeunesse et des sports | Conseil national du sport et Institut national du sport |
+| Agence responsable | Département de la jeunesse et des sports | [Conseil national du sport](/fr/sports/national-sports-council-msn) et Institut national du sport |
 | Mesure du succès | Taux de participation communautaire | Médailles et classement mondial |
 
 Le Programme Podium se situe entièrement dans la colonne de droite. Il n'est pas conçu pour augmenter le nombre de personnes qui pratiquent un sport ; il est conçu pour préparer les athlètes les plus élitistes du pays afin qu'ils aient une chance de gagner au niveau international.

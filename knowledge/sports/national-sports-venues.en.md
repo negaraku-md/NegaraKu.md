@@ -28,7 +28,7 @@ faq:
     a: "No. Sepang hosted the Formula 1 Grand Prix until 2017; the circuit now focuses on MotoGP and other motorsport events."
 
 lang: "en"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ When 85,500 spectators fill the three-tier curve of the TM National Stadium on a
 
 Most high-profile events revolve around the **Kuala Lumpur Sports City** (formerly the National Sports Complex) in Bukit Jalil, about 20 minutes from downtown Kuala Lumpur and a three-minute walk from the Bukit Jalil LRT station. The complex houses the TM National Stadium, the National Hockey Stadium, the National Aquatic Centre, the Axiata/Unifi Arena, the National Squash Centre and Dewan Sri Putra within a single area.
 
-Two other important venues lie outside Bukit Jalil: the **Malaysia National Velodrome** in Nilai, Negeri Sembilan, and the **Sepang International Circuit** in Sepang, Selangor.
+Two other important venues lie outside Bukit Jalil: the [**Malaysia National Velodrome**](/en/sports/track-cycling-velodrome-malaysia) in Nilai, Negeri Sembilan, and the **Sepang International Circuit** in Sepang, Selangor.
 
 ## What is the capacity and function of each venue?
 

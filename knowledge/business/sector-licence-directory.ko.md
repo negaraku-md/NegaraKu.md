@@ -31,7 +31,7 @@ verificationNeeded:
   - "JAKIM과 사단등록관(Registrar of Societies)이 사용하는 영문 약칭 — 어느 것도 해당 기관 자체 사이트에 나타나지 않음"
 
 lang: "ko"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -151,7 +151,7 @@ framework: data-reference
 
 | 규제기관 | 근거 법령 | 발급 대상 | 사이트 |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | 시공사 등록, 인력 인증 | cidb.gov.my |
+| [CIDB](/ko/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | 시공사 등록, 인력 인증 | cidb.gov.my |
 | 감정평가사·평정사·부동산중개사·부동산관리사 위원회(Board of Valuers, Appraisers, Estate Agents and Property Managers) | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — 「and Property Managers」라는 문구는 Act A1550으로 추가되어 2018년 1월 2일 시행됨 | 등록 및 실무 증명서 | lpeph.gov.my |
 | 지방 당국 | Town and Country Planning Act 1976 (Act 172) | 계획 허가 및 용도 변경 | — |
 | 지방 당국 | Street, Drainage and Building Act 1974 (Act 133) | 건축 도면 승인, 준공 및 준수 증명서 | — |

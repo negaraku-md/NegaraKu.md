@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ Panduan ini memberikan gambaran bahasa sederhana tentang apa yang dilakukan unda
 
 Fisheries Act 1985 adalah **undang-undang persekutuan utama Malaysia tentang perikanan dan konservasi laut**. Ia menggantikan perundang-undangan perikanan sebelumnya dan menyatukan pemberian lisensi penangkapan ikan, pengelolaan sumber daya perikanan, serta perlindungan habitat laut ke dalam satu kerangka. Undang-undang ini tersusun menjadi beberapa Part; taman laut dan cagar laut diatur secara khusus dalam **Part IX**.
 
-Undang-undang ini dikelola oleh **Department of Fisheries Malaysia** (Jabatan Perikanan Malaysia), yang dipimpin oleh **Director-General of Fisheries**, yang mengoordinasikan dan mengawasi urusan perikanan dan taman laut di perairan Malaysia.
+Undang-undang ini dikelola oleh [**Department of Fisheries Malaysia**](/id/agriculture/department-of-fisheries-malaysia/) (Jabatan Perikanan Malaysia), yang dipimpin oleh **Director-General of Fisheries**, yang mengoordinasikan dan mengawasi urusan perikanan dan taman laut di perairan Malaysia.
 
 ## Pemberian lisensi: menangkap ikan adalah kegiatan yang diizinkan, bukan bebas sepenuhnya
 

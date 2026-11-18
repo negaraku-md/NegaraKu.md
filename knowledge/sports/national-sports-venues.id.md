@@ -28,7 +28,7 @@ faq:
     a: "Tidak. Sepang menjadi tuan rumah Grand Prix Formula 1 hingga 2017; kini sirkuit itu berfokus pada MotoGP dan acara motorsport lain."
 
 lang: "id"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Ketika 85,500 penonton memenuhi lengkungan tiga tingkat TM Stadium Nasional pada
 
 Sebagian besar acara berprofil tinggi berkisar di sekitar **Kuala Lumpur Sports City** (dahulu Kompleks Sukan Negara) di Bukit Jalil, sekitar 20 menit dari pusat kota Kuala Lumpur dan tiga menit berjalan kaki dari stasiun LRT Bukit Jalil. Kompleks ini menampung TM Stadium Nasional, Stadium Hoki Nasional, Pusat Akuatik Negara, Arena Axiata/Unifi, Pusat Skuasy Negara dan Dewan Sri Putra dalam satu kawasan.
 
-Dua gelanggang penting lain berada di luar Bukit Jalil: **Velodrom Nasional Malaysia** di Nilai, Negeri Sembilan, dan **Litar Antarabangsa Sepang** di Sepang, Selangor.
+Dua gelanggang penting lain berada di luar Bukit Jalil: [**Velodrom Nasional Malaysia**](/id/sports/track-cycling-velodrome-malaysia) di Nilai, Negeri Sembilan, dan **Litar Antarabangsa Sepang** di Sepang, Selangor.
 
 ## Apa kapasitas dan fungsi setiap gelanggang?
 

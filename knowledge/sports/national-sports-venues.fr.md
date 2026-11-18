@@ -28,7 +28,7 @@ faq:
     a: "Non. Sepang a accueilli le Grand Prix de Formule 1 jusqu'en 2017 ; le circuit se concentre désormais sur le MotoGP et d'autres événements de sport automobile."
 
 lang: "fr"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Quand 85,500 spectateurs remplissent la courbe à trois niveaux du Stade nationa
 
 La plupart des événements de grande envergure gravitent autour de la **Kuala Lumpur Sports City** (anciennement Complexe sportif national) à Bukit Jalil, à environ 20 minutes du centre de Kuala Lumpur et à trois minutes à pied de la station de LRT de Bukit Jalil. Le complexe abrite, au sein d'une seule zone, le Stade national TM, le Stade national de hockey, le Centre aquatique national, l'Axiata/Unifi Arena, le Centre national de squash et le Dewan Sri Putra.
 
-Deux autres sites importants se trouvent en dehors de Bukit Jalil : le **Vélodrome national de la Malaisie (Malaysia National Velodrome)** à Nilai, dans le Negeri Sembilan, et le **Circuit international de Sepang (Sepang International Circuit)** à Sepang, dans le Selangor.
+Deux autres sites importants se trouvent en dehors de Bukit Jalil : le [**Vélodrome national de la Malaisie (Malaysia National Velodrome)**](/fr/sports/track-cycling-velodrome-malaysia) à Nilai, dans le Negeri Sembilan, et le **Circuit international de Sepang (Sepang International Circuit)** à Sepang, dans le Selangor.
 
 ## Quelle est la capacité et la fonction de chaque site ?
 

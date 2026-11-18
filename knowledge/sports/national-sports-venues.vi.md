@@ -28,7 +28,7 @@ faq:
     a: "Không. Sepang là chủ nhà của Grand Prix Formula 1 cho đến năm 2017; nay trường đua đó tập trung vào MotoGP và các sự kiện đua xe khác."
 
 lang: "vi"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ Khi 85,500 khán giả lấp đầy đường vòng cung ba tầng của TM Stad
 
 Hầu hết các sự kiện có tầm cỡ cao xoay quanh **Kuala Lumpur Sports City** (trước đây là Kompleks Sukan Negara) ở Bukit Jalil, cách trung tâm thành phố Kuala Lumpur khoảng 20 phút và ba phút đi bộ từ ga LRT Bukit Jalil. Khu phức hợp này đặt TM Stadium Nasional, Sân vận động Khúc côn cầu Quốc gia, Trung tâm Thể thao Dưới nước Quốc gia, Arena Axiata/Unifi, Trung tâm Squash Quốc gia và Dewan Sri Putra trong một khu vực.
 
-Hai sân đấu quan trọng khác nằm ngoài Bukit Jalil: **Velodrom Quốc gia Malaysia** tại Nilai, Negeri Sembilan, và **Trường đua Quốc tế Sepang** tại Sepang, Selangor.
+Hai sân đấu quan trọng khác nằm ngoài Bukit Jalil: [**Velodrom Quốc gia Malaysia**](/vi/sports/track-cycling-velodrome-malaysia) tại Nilai, Negeri Sembilan, và **Trường đua Quốc tế Sepang** tại Sepang, Selangor.
 
 ## Sức chứa và chức năng của mỗi sân đấu là gì?
 

@@ -103,7 +103,7 @@ Ketiga-tiga pasar ini sering dicampur adukkan, tetapi masing-masing menjalankan 
 
 **Pasar malam** ialah pasar bergerak yang muncul pada waktu petang hingga malam, biasanya pada hari tertentu setiap minggu di kawasan yang sama. Ia menjual segala-galanya — makanan siap dimakan, buah-buahan, sayur, pakaian, sehingga barangan rumah. Bagi kebanyakan orang, pasar malam ialah tempat makan malam yang murah dan meriah, bukan sekadar membeli bahan mentah.
 
-**Pasar tani** pula ialah program rasmi di bawah FAMA (Lembaga Pemasaran Pertanian Persekutuan). Konsepnya ialah "tempat pertemuan pengeluar dan pengguna" — petani dan pengusaha kecil menjual hasil tani terus kepada pembeli tanpa melalui orang tengah. Ia biasanya diadakan pada waktu pagi hingga tengah hari.
+**Pasar tani** pula ialah program rasmi di bawah [FAMA](/agriculture/fama-agricultural-marketing-authority/) (Lembaga Pemasaran Pertanian Persekutuan). Konsepnya ialah "tempat pertemuan pengeluar dan pengguna" — petani dan pengusaha kecil menjual hasil tani terus kepada pembeli tanpa melalui orang tengah. Ia biasanya diadakan pada waktu pagi hingga tengah hari.
 
 **Pasar basah** ialah pasar tetap yang beroperasi seawal subuh, menjual daging, ikan, ayam dan sayur segar. Namanya berasal daripada lantai yang sentiasa basah kerana ais dan air mencuci hasil laut. Pasar basah ialah nadi dapur rumah tangga dan pengusaha restoran yang mahukan bahan segar setiap hari.
 

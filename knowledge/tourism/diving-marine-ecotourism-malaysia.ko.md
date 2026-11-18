@@ -31,7 +31,7 @@ faq:
     a: "위치에 따라 다릅니다. 반도 말레이시아와 라부안(Labuan)의 해양공원은 연방 관할로, 어업법 1985(Fisheries Act 1985)에 따라 말레이시아 수산국(Department of Fisheries Malaysia)이 관리합니다. 시파단을 포함한 사바(Sabah)의 공원은 별도의 주 법에 따라 주 기관인 사바 파크스(Sabah Parks)가 관리합니다."
 
 lang: "ko"
-sourceContentHash: "b4330d885555b613"
+sourceContentHash: "d2d1f34db7ef0126"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,7 +79,7 @@ framework: rules
 
 단일한 "국가 다이빙 관할 기관"은 없습니다. 관할권은 지리에 따라 나뉩니다.
 
-**반도 말레이시아와 라부안(Labuan)**의 해양공원은 연방 관할로, 어업법 1985(Fisheries Act 1985)에 따라 **말레이시아 수산국(Department of Fisheries Malaysia, DOF)**이 관리합니다. DOF는 49개 섬 주변 해역을 해양공원으로 관보에 지정하며, 이는 5개 주와 연방직할구 라부안에 걸쳐 있고 최저 해수면에서 바다 쪽으로 2해리(트렝가누와 라부안의 일부 섬은 1해리)까지 이어지는 보호 구역을 둡니다.
+**반도 말레이시아와 라부안(Labuan)**의 해양공원은 연방 관할로, 어업법 1985(Fisheries Act 1985)에 따라 **[말레이시아 수산국](/ko/agriculture/department-of-fisheries-malaysia)(Department of Fisheries Malaysia, DOF)**이 관리합니다. DOF는 49개 섬 주변 해역을 해양공원으로 관보에 지정하며, 이는 5개 주와 연방직할구 라부안에 걸쳐 있고 최저 해수면에서 바다 쪽으로 2해리(트렝가누와 라부안의 일부 섬은 1해리)까지 이어지는 보호 구역을 둡니다.
 
 **사바(Sabah)**는 다릅니다. 시파단과 셈포르나(Semporna) 주변 산호초를 포함한 그 섬들은 주 기관인 **사바 파크스(Sabah Parks)** 관할이며, 이 기관은 자체 허가증과 규정을 정합니다. 다이버에게 이 구분은 탁상공론이 아닙니다. 지불하는 요금, 필요한 허가증, 예약해야 하는 업체가 모두 지도의 어느 쪽에 있는지에 달려 있습니다.
 

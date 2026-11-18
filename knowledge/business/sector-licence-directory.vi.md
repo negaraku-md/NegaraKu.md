@@ -31,7 +31,7 @@ verificationNeeded:
   - "Các tên tiếng Anh ngắn được JAKIM và Registrar of Societies dùng — cả hai đều không xuất hiện trên trang của chính cơ quan"
 
 lang: "vi"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -150,7 +150,7 @@ câu hỏi hoàn toàn khác.
 
 | Cơ quan quản lý | Luật điều chỉnh | Cấp cái gì | Trang |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Đăng ký nhà thầu, công nhận nhân sự | cidb.gov.my |
+| [CIDB](/vi/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Đăng ký nhà thầu, công nhận nhân sự | cidb.gov.my |
 | Board of Valuers, Appraisers, Estate Agents and Property Managers | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — các từ and Property Managers được thêm bởi Act A1550, có hiệu lực 2 tháng 1 năm 2018 | Đăng ký và giấy chứng nhận hành nghề | lpeph.gov.my |
 | Chính quyền địa phương | Town and Country Planning Act 1976 (Act 172) | Giấy phép quy hoạch và thay đổi mục đích sử dụng | — |
 | Chính quyền địa phương | Street, Drainage and Building Act 1974 (Act 133) | Phê duyệt bản vẽ xây dựng, giấy chứng nhận hoàn thành và tuân thủ | — |

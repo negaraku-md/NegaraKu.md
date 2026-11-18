@@ -101,7 +101,7 @@ If you are reading this on a phone or laptop, there is a real chance one of its 
 
 Malaysia is often described as a "chip nation," which is both true and slightly misleading. The country is a genuine heavyweight in semiconductors — but overwhelmingly in the **back end** of the industry, the assembly, testing and packaging (ATP) of chips whose silicon wafers are fabricated elsewhere. Understanding that distinction is the key to understanding both Malaysia's strength and its ambition.
 
-This guide explains what Malaysia actually does in the chip supply chain, where it does it, how big it is, and what the National Semiconductor Strategy is trying to change.
+This guide explains what Malaysia actually does in the chip supply chain, where it does it, how big it is, and what the [National Semiconductor Strategy](/industries/semiconductor-industry-national-strategy) is trying to change.
 
 ## What does Malaysia actually do in the chip supply chain?
 

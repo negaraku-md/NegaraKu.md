@@ -32,7 +32,7 @@ faq:
     a: "Parmi les plus en vue figurent Cheah Liek Hou (badminton SU5, or à Tokyo 2020 et Paris 2024), Bonnie Bunyau Gustin (haltérophilie, or à Tokyo 2020 et Paris 2024) et Abdul Latif Romly (saut en longueur T20, or à Rio 2016 et Tokyo 2020)."
 
 lang: "fr"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ Le nom et le statut de l'organisme ont ensuite changé plusieurs fois :
 
 C'est une confusion fréquente. Le **Conseil olympique de Malaisie (OCM)** est le Comité olympique national du pays — il gère la participation des athlètes aux Jeux olympiques, aux Jeux du Commonwealth, aux Jeux asiatiques et aux Jeux d'Asie du Sud-Est (SEA Games). **Le PCM, en revanche, est un organisme entièrement distinct** qui gère la filière paralympique : les Jeux paralympiques, les Jeux para-asiatiques et les ASEAN Para Games.
 
-Ce sont des organisations distinctes, chacune avec sa propre direction, ses membres et son affiliation internationale. L'OCM est affilié au Comité international olympique (CIO) ; le PCM est affilié à l'IPC. Ce qu'ils ont en commun, c'est qu'ils opèrent tous deux dans le cadre de la **Loi sur le développement du sport de 1997 (Sports Development Act 1997)** et travaillent avec le ministère de la Jeunesse et des Sports et le Conseil national du sport au développement des athlètes.
+Ce sont des organisations distinctes, chacune avec sa propre direction, ses membres et son affiliation internationale. L'OCM est affilié au Comité international olympique (CIO) ; le PCM est affilié à l'IPC. Ce qu'ils ont en commun, c'est qu'ils opèrent tous deux dans le cadre de la **Loi sur le développement du sport de 1997 (Sports Development Act 1997)** et travaillent avec le ministère de la Jeunesse et des Sports et le [Conseil national du sport](/fr/sports/national-sports-council-msn) au développement des athlètes.
 
 Le PCM est aussi plus qu'un simple envoyeur de délégations. Selon son site officiel, il a accueilli les **premiers ASEAN Para Games en 2001**, puis de nouveau en **2009** et **2017**. En matière de direction, Dato' Sri Megat D. Shahriman est le président du PCM, élu en décembre 2019 et réélu en décembre 2024.
 

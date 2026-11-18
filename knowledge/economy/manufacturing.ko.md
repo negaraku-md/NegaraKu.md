@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "투자자, 구직자, 정책 분석가, 그리고 말레이시아 산업 통계를 정확히 읽으려는 학생."
 
 lang: "ko"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -214,8 +214,8 @@ GDP의 33.6%**(RM6,485억)로, 2023년 33.5%에서 소폭만 올랐으며, 총�
 DOSM은 1인당 GNI가 2024년 RM54,870에서 2025년 RM57,200에 도달했다고 보고합니다. 5년 안에
 RM77,200까지의 격차가 정책 문제 전부를 한 줄로 요약합니다.
 
-계획에 명명된 수단은 신산업 마스터플랜 2030(New Industrial Master Plan 2030), 국가 반도체
-전략(National Semiconductor Strategy), 그리고
+계획에 명명된 수단은 신산업 마스터플랜 2030([New Industrial Master Plan 2030](/ko/industries/new-industrial-master-plan-2030)), 국가 반도체
+전략([National Semiconductor Strategy](/ko/industries/semiconductor-industry-national-strategy)), 그리고
 [국가 에너지 전환 로드맵](/energy/national-energy-transition-roadmap-netr)입니다. 제조업
 목표가 시사하는 바에 주목하십시오. 경제가 4.5~5.5% 성장하는 가운데 제조업이 5.8% 성장하려면,
 그 GDP 비중이 다시 오르기 시작해야 합니다. 정체의 종료는 전망이 아니라 목표입니다.

@@ -34,7 +34,7 @@ faq:
     a: "El Departamento de Estadística de Malasia (DOSM) publica las estadísticas manufactureras mensuales y anuales y los datos del PIB. La Autoridad de Desarrollo de Inversiones de Malasia (MIDA) promueve y aprueba la inversión manufacturera, mientras que el Ministerio de Inversión, Comercio e Industria (MITI) es el titular del NIMP 2030."
 
 lang: "es"
-sourceContentHash: "00a67f4ef7e6555a"
+sourceContentHash: "479d1b3f589a9b53"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,7 +132,7 @@ Destacan dos áreas en las que Malasia golpea muy por encima de su tamaño, y ni
 
 ## ¿Cómo intenta el gobierno hacerlo subir por la cadena de valor?
 
-La respuesta es el **Nuevo Plan Maestro Industrial 2030 (NIMP 2030)**, lanzado el 1 de septiembre de 2023. En lugar de elegir ganadores concretos, adopta un enfoque «basado en misiones» construido en torno a cuatro misiones:
+La respuesta es el **[Nuevo Plan Maestro Industrial 2030](/es/industries/new-industrial-master-plan-2030/) (NIMP 2030)**, lanzado el 1 de septiembre de 2023. En lugar de elegir ganadores concretos, adopta un enfoque «basado en misiones» construido en torno a cuatro misiones:
 
 1. Avanzar en la complejidad económica
 2. Elevar el nivel tecnológico para una nación digitalmente vibrante

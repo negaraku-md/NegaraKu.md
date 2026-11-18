@@ -28,7 +28,7 @@ faq:
     a: "இல்லை. Sepang 2017 வரை Formula 1 கிராண்ட் பிரிக்ஸுக்கு புரவலராக இருந்தது; தற்போது இந்த லிட்டார் MotoGP மற்றும் பிற மோட்டார்ஸ்போர்ட் நிகழ்வுகளில் கவனம் செலுத்துகிறது."
 
 lang: "ta"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ framework: profile
 
 பெரும்பாலான முக்கிய நிகழ்வுகள் Bukit Jalil-இல் உள்ள **Kuala Lumpur Sports City** (முன்னர் Kompleks Sukan Negara) ஐச் சுற்றி நடக்கின்றன; இது Kuala Lumpur நகர மையத்திலிருந்து சுமார் 20 நிமிடங்கள், மற்றும் Bukit Jalil LRT நிலையத்திலிருந்து மூன்று நிமிட நடைப்பயணத் தொலைவில் உள்ளது. இந்த வளாகம் TM Stadium Nasional, Stadium Hoki Nasional, Pusat Akuatik Negara, Arena Axiata/Unifi, Pusat Skuasy Negara மற்றும் Dewan Sri Putra ஆகியவற்றை ஒரே பகுதிக்குள் அமைத்துள்ளது.
 
-மற்றொரு இரண்டு முக்கிய அரங்குகள் Bukit Jalil-க்கு வெளியே உள்ளன: Negeri Sembilan-இன் Nilai-இல் உள்ள **Velodrom Nasional Malaysia**, மற்றும் Selangor-இன் Sepang-இல் உள்ள **Litar Antarabangsa Sepang**.
+மற்றொரு இரண்டு முக்கிய அரங்குகள் Bukit Jalil-க்கு வெளியே உள்ளன: Negeri Sembilan-இன் Nilai-இல் உள்ள [**Velodrom Nasional Malaysia**](/ta/sports/track-cycling-velodrome-malaysia), மற்றும் Selangor-இன் Sepang-இல் உள்ள **Litar Antarabangsa Sepang**.
 
 ## ஒவ்வொரு அரங்கின் இருக்கை எண்ணிக்கையும் பயன்பாடும் என்ன?
 

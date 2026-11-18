@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 
 status: "published"
 aiAssisted: true
@@ -155,7 +155,7 @@ Malaysia」是较后的品牌名称，在 Act 664 中完全不曾出现。
 
 | 走廊 | 目标领域 | 真正的吸引力 |
 | --- | --- | --- |
-| NCER | 半导体、电气与电子、农业、旅游 | 居林、峇都加湾与 Bayan Lepas 的集群——**是集聚效应，不是法律权利**。国家半导体策略完全没有提到 NCER |
+| NCER | 半导体、电气与电子、农业、旅游 | 居林、峇都加湾与 Bayan Lepas 的集群——**是集聚效应，不是法律权利**。[国家半导体策略](/zh/industries/semiconductor-industry-national-strategy)完全没有提到 NCER |
 | ECER | 石化、制造业、农产加工、旅游、物流 | MCKIP、经宪报颁布为**自由商业区**的关丹港，以及 ECRL |
 | Iskandar Malaysia | 金融服务、物流、旅游、医疗、教育、创意 | 邻近新加坡，以及覆盖其上的 **JS-SEZ** 配套 |
 | SDC | 农业、棕油下游、旅游、物流 | SDC Blueprint 2.0，涵盖 **2021 至 2030 年** |

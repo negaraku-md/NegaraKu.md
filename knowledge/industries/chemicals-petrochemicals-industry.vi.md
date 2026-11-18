@@ -31,7 +31,7 @@ faq:
   - q: Chính phủ hỗ trợ ngành hóa chất như thế nào?
     a: Cơ quan Phát triển Đầu tư Malaysia (MIDA), thông qua Phân ban Hóa chất và Vật liệu Tiên tiến, đánh giá các giấy phép sản xuất và đưa ra các ưu đãi như Vị thế Tiên phong (Pioneer Status) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance). Các dự án dầu mỏ và hóa dầu cũng được điều chỉnh theo Đạo luật Phát triển Dầu khí 1974 (Petroleum Development Act 1974). Lộ trình Ngành Hóa chất 2030 và Kế hoạch Tổng thể Công nghiệp Mới 2030 đặt ra định hướng chiến lược hướng tới hóa chất đặc chủng, giá trị cao hơn.
 lang: vi
-sourceContentHash: "11eb5b1edb640b2d"
+sourceContentHash: "dd296a225bbc1577"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Các vùng liên kết với nhau này — đặc biệt là Pengerang, Kerteh v
 
 Đầu tư và cấp phép chạy qua [Cơ quan Phát triển Đầu tư Malaysia (MIDA)](/vi/government/mida/), với **Phân ban Hóa chất và Vật liệu Tiên tiến** đánh giá các đơn xin giấy phép sản xuất và quản lý các ưu đãi như Vị thế Tiên phong (Pioneer Status) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance); các hoạt động dầu mỏ và hóa dầu cũng thuộc **Đạo luật Phát triển Dầu khí 1974 (Petroleum Development Act 1974)**. MIDA đã mô tả Malaysia là nơi đặt trụ sở của hơn 100 công ty hóa dầu sản xuất đa dạng các sản phẩm.
 
-Định hướng chính sách đến từ hai tài liệu. **Kế hoạch Tổng thể Công nghiệp Mới 2030 (NIMP 2030)** là bản thiết kế chuyển đổi công nghiệp quốc gia, dựng trên bốn sứ mệnh (nâng độ phức tạp kinh tế, số hóa, thúc đẩy phát thải ròng bằng không và an ninh kinh tế), với hóa chất được xem là một phân khúc tác động cao, tăng trưởng cao được xử lý qua một bộ kế hoạch hành động. **Lộ trình Ngành Hóa chất 2030** là bản đồng hành riêng theo ngành, nhắm tới mức nâng tỷ trọng GDP và giá trị nêu trên và ưu tiên hóa chất đặc chủng.
+Định hướng chính sách đến từ hai tài liệu. **[Kế hoạch Tổng thể Công nghiệp Mới 2030](/vi/industries/new-industrial-master-plan-2030/) (NIMP 2030)** là bản thiết kế chuyển đổi công nghiệp quốc gia, dựng trên bốn sứ mệnh (nâng độ phức tạp kinh tế, số hóa, thúc đẩy phát thải ròng bằng không và an ninh kinh tế), với hóa chất được xem là một phân khúc tác động cao, tăng trưởng cao được xử lý qua một bộ kế hoạch hành động. **Lộ trình Ngành Hóa chất 2030** là bản đồng hành riêng theo ngành, nhắm tới mức nâng tỷ trọng GDP và giá trị nêu trên và ưu tiên hóa chất đặc chủng.
 
 ## Triển vọng
 

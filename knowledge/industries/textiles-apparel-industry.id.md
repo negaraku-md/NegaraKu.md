@@ -31,7 +31,7 @@ faq:
   - q: Insentif apa yang mendukung investasi tekstil dan pakaian?
     a: MIDA mengelola persetujuan lisensi manufaktur dan insentif pajak untuk subsektor ini, yang menjadi area prioritas di bawah New Industrial Master Plan (NIMP) 2030. Mulai kuartal pertama 2026, investasi yang memenuhi syarat masuk dalam New Investment Incentive Framework berbasis hasil yang baru, dengan insentif berjenjang yang dikaitkan pada hasil seperti teknologi, keterampilan, dan keterkaitan lokal. Konfirmasikan tarif dan syarat terkini dengan MIDA.
 lang: id
-sourceContentHash: "33538782332736dd"
+sourceContentHash: "97b0b938d8bbc429"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -144,7 +144,7 @@ Industri ini berada dalam kerangka investasi-manufaktur Malaysia yang lebih luas
 
 Dua untaian kebijakan secara khusus relevan di sini:
 
-- **NIMP 2030.** New Industrial Master Plan 2030, diluncurkan pada 1 September 2023, menyebut tekstil, pakaian, dan alas kaki di antara subsektor prioritasnya dan membingkai tujuannya sebagai kompleksitas ekonomi yang lebih tinggi, adopsi teknologi, dan kemajuan net-zero ketimbang produksi berbiaya rendah.
+- **NIMP 2030.** [New Industrial Master Plan 2030](/id/industries/new-industrial-master-plan-2030/), diluncurkan pada 1 September 2023, menyebut tekstil, pakaian, dan alas kaki di antara subsektor prioritasnya dan membingkai tujuannya sebagai kompleksitas ekonomi yang lebih tinggi, adopsi teknologi, dan kemajuan net-zero ketimbang produksi berbiaya rendah.
 - **Kerangka insentif baru.** Mulai kuartal pertama 2026, investasi yang memenuhi syarat di subsektor ini masuk dalam **New Investment Incentive Framework** di mana insentif pajak berjenjang dan dikaitkan pada hasil — misalnya tingkat teknologi, keterampilan, dan keterkaitan lokal — ketimbang diberikan sebagai keringanan datar. MIDA juga mengelola persetujuan lisensi manufaktur dan terus mempromosikan segmen warisan seperti batik.
 
 MIDA melaporkan investasi disetujui sekitar **RM657 juta di 28 proyek** pada subsektor lifestyle di 2025, menghasilkan sekitar 1.222 pekerjaan — pengingat bahwa, walaupun sektor ini matang, ia masih menarik modal segar.

@@ -36,7 +36,7 @@ faq:
     a: "Các cơ sở thực phẩm được quản lý theo Food Hygiene Regulations 2009. Người tiêu dùng được khuyến khích chọn các quầy hạng A hoặc B, vốn cung cấp thức ăn nóng và tươi, cùng kiểm tra nhãn hạng thường được trưng bày."
 
 lang: "vi"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ Cả ba chợ này thường bị trộn lẫn, nhưng mỗi chợ thực hiện
 
 **Pasar malam** là chợ lưu động xuất hiện vào buổi chiều đến tối, thường vào một ngày nhất định mỗi tuần tại cùng một khu vực. Nó bán mọi thứ — thức ăn ăn liền, trái cây, rau, quần áo, cho đến đồ gia dụng. Đối với hầu hết mọi người, pasar malam là nơi ăn tối rẻ và náo nhiệt, chứ không chỉ mua nguyên liệu thô.
 
-**Pasar tani** thì là một chương trình chính thức dưới FAMA (Cơ quan Tiếp thị Nông nghiệp Liên bang). Khái niệm của nó là "nơi gặp gỡ giữa nhà sản xuất và người tiêu dùng" — nông dân và các doanh nhân nhỏ bán nông sản trực tiếp cho người mua mà không qua trung gian. Nó thường được tổ chức vào buổi sáng đến trưa.
+**Pasar tani** thì là một chương trình chính thức dưới [FAMA](/vi/agriculture/fama-agricultural-marketing-authority/) (Cơ quan Tiếp thị Nông nghiệp Liên bang). Khái niệm của nó là "nơi gặp gỡ giữa nhà sản xuất và người tiêu dùng" — nông dân và các doanh nhân nhỏ bán nông sản trực tiếp cho người mua mà không qua trung gian. Nó thường được tổ chức vào buổi sáng đến trưa.
 
 **Pasar basah** là chợ cố định hoạt động từ tinh mơ, bán thịt, cá, gà và rau tươi. Tên của nó bắt nguồn từ sàn luôn ướt vì đá và nước rửa hải sản. Pasar basah là mạch sống của căn bếp gia đình và các chủ nhà hàng muốn nguyên liệu tươi mỗi ngày.
 

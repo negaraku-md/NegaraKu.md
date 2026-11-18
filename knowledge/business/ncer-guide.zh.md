@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 
 status: "published"
 aiAssisted: true
@@ -151,7 +151,7 @@ NCIA 现在表示，将协助投资者通过**国家投资委员会**申请即�
 
 峇六拜、峇都加湾与居林高科技园拥有马来西亚最深厚的电子与半导体供应链——封装、测试、组装、设备，以及随之而来的工程劳动力市场。槟城国际机场与槟城港就在旁边。那种产业聚集才是资产。
 
-但由首相于 **2024 年 5 月 28 日**推介、由 MITI 主导的**《国家半导体策略》**，并没有把那个集群与 NCER 连结起来。NSS 提及北马仅仅一次，而且是描述性的：
+但由首相于 **2024 年 5 月 28 日**推介、由 MITI 主导的**[《国家半导体策略》](/zh/industries/semiconductor-industry-national-strategy)**，并没有把那个集群与 NCER 连结起来。NSS 提及北马仅仅一次，而且是描述性的：
 
 > 马来西亚世界级的基础设施，通过其位于居林、峇都加湾与峇六拜的工业园，以及其国际机场与海港，得以展现。
 

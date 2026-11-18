@@ -32,7 +32,7 @@ faq:
     a: "Entre los más destacados están Cheah Liek Hou (bádminton SU5, oro en Tokio 2020 y París 2024), Bonnie Bunyau Gustin (halterofilia, oro en Tokio 2020 y París 2024) y Abdul Latif Romly (salto de longitud T20, oro en Río 2016 y Tokio 2020)."
 
 lang: "es"
-sourceContentHash: "1cf985c7e961d813"
+sourceContentHash: "457f33eb5b3c31ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -114,7 +114,7 @@ El nombre y el estatus del organismo cambiaron después varias veces:
 
 Es una confusión habitual. El **Consejo Olímpico de Malasia (OCM)** es el Comité Olímpico Nacional del país: gestiona la participación de los atletas en los Juegos Olímpicos, los Juegos de la Commonwealth, los Juegos Asiáticos y los Juegos del Sudeste Asiático (SEA Games). **El PCM, en cambio, es un organismo totalmente separado** que gestiona la vía paralímpica: los Juegos Paralímpicos, los Juegos Paraasiáticos y los ASEAN Para Games.
 
-Son organizaciones distintas, cada una con su propio liderazgo, membresía y afiliación internacional. El OCM está afiliado al Comité Olímpico Internacional (COI); el PCM está afiliado al IPC. Lo que tienen en común es que ambos operan en el marco de la **Ley de Desarrollo Deportivo de 1997 (Sports Development Act 1997)** y trabajan con el Ministerio de Juventud y Deportes y el Consejo Nacional de Deportes en el desarrollo de los atletas.
+Son organizaciones distintas, cada una con su propio liderazgo, membresía y afiliación internacional. El OCM está afiliado al Comité Olímpico Internacional (COI); el PCM está afiliado al IPC. Lo que tienen en común es que ambos operan en el marco de la **Ley de Desarrollo Deportivo de 1997 (Sports Development Act 1997)** y trabajan con el Ministerio de Juventud y Deportes y el [Consejo Nacional de Deportes](/es/sports/national-sports-council-msn) en el desarrollo de los atletas.
 
 El PCM es también más que un simple enviador de delegaciones. Según su sitio web oficial, albergó los **primeros ASEAN Para Games en 2001**, y de nuevo en **2009** y **2017**. En cuanto al liderazgo, Dato' Sri Megat D. Shahriman es el presidente del PCM, elegido en diciembre de 2019 y reelegido en diciembre de 2024.
 

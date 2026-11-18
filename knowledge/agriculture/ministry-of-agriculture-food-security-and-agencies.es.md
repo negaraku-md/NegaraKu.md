@@ -30,7 +30,7 @@ faq:
     a: "La Ley de Control del Arroz Paddy y el Arroz 1994 (Ley 522). El arroz es un producto controlado; el Director General de la Regulación del Arroz Paddy y el Arroz expide licencias y permisos para el molido, la venta mayorista, la venta minorista, la importación, la exportación y el traslado entre estados."
 
 lang: "es"
-sourceContentHash: "57032872a3092c06"
+sourceContentHash: "27b4e08ac8937e74"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -127,12 +127,12 @@ siguiente manera:
 | Abreviatura | Nombre completo | Tipo |
 | --- | --- | --- |
 | DOA | Departamento de Agricultura de Malasia | Departamento |
-| DVS | Departamento de Servicios Veterinarios | Departamento |
+| [DVS](/es/agriculture/livestock-poultry-industry/) | Departamento de Servicios Veterinarios | Departamento |
 | DOF | Departamento de Pesca de Malasia | Departamento |
 | MAQIS | Departamento de Servicios de Cuarentena e Inspección de Malasia | Departamento |
 | MARDI | Instituto de Investigación y Desarrollo Agrícola de Malasia | Instituto de investigación |
 | LPP | Autoridad de Organizaciones de Agricultores | Organismo estatutario |
-| FAMA | Autoridad Federal de Comercialización Agrícola | Organismo estatutario |
+| [FAMA](/es/agriculture/fama-agricultural-marketing-authority/) | Autoridad Federal de Comercialización Agrícola | Organismo estatutario |
 | LKIM | Autoridad de Desarrollo Pesquero de Malasia | Organismo estatutario |
 | MADA | Autoridad de Desarrollo Agrícola de Muda | Organismo estatutario |
 | KADA | Autoridad de Desarrollo Agrícola de Kemubu | Organismo estatutario |
@@ -170,7 +170,7 @@ partida es el KKDW, no el KPKM.
 
 ## ¿Cómo está vinculado BERNAS al ministerio?
 
-A BERNAS (Padiberas Nasional Berhad) se le confunde a menudo con una agencia
+A [BERNAS](/es/agriculture/bernas-rice-import-monopoly/) (Padiberas Nasional Berhad) se le confunde a menudo con una agencia
 gubernamental. En realidad es una **empresa privada** que desempeña funciones
 públicas en virtud de un acuerdo con el gobierno.
 

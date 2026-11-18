@@ -93,7 +93,7 @@ This guide gives a plain-language overview of what the Act does, who enforces it
 
 The Fisheries Act 1985 is Malaysia's **principal federal law on fisheries and marine conservation**. It replaced earlier fisheries legislation and brought the licensing of fishing, the management of fisheries resources, and the protection of marine habitats under a single framework. The Act is organised into several Parts; marine parks and marine reserves are dealt with specifically in **Part IX**.
 
-It is administered by the **Department of Fisheries Malaysia** (Jabatan Perikanan Malaysia), headed by the **Director-General of Fisheries**, who coordinates and supervises fisheries and marine park matters in Malaysian waters.
+It is administered by the [**Department of Fisheries Malaysia**](/agriculture/department-of-fisheries-malaysia/) (Jabatan Perikanan Malaysia), headed by the **Director-General of Fisheries**, who coordinates and supervises fisheries and marine park matters in Malaysian waters.
 
 ## Licensing: fishing is a permitted activity, not a free-for-all
 

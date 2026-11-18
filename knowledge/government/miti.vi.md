@@ -37,7 +37,7 @@ verificationNeeded:
   - "Trang lịch sử của chính MIDA nêu việc thành lập năm 1967 theo Act 397, nhưng thời điểm tên tiếng Anh của cơ quan thay đổi từ 'Malaysian Industrial Development Authority' sang 'Malaysian Investment Development Authority' chưa được xác nhận tại một nguồn chính thức và không được nêu trong bài viết này"
 
 lang: "vi"
-sourceContentHash: "384564550c625009"
+sourceContentHash: "37ab55b6f5959749"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -208,7 +208,7 @@ Ghani** làm Bộ trưởng, với **Sim Tze Tzin** làm Thứ trưởng. Bộ �
 **Menara MITI** ở Kuala Lumpur.
 
 Theo Ngân sách 2026, MITI nhận khoản phân bổ **RM1.898 tỷ** để dẫn dắt việc triển
-khai **New Industrial Master Plan 2030 (NIMP 2030)**, bản kế hoạch định hướng cho
+khai **[New Industrial Master Plan 2030](/vi/industries/new-industrial-master-plan-2030) (NIMP 2030)**, bản kế hoạch định hướng cho
 đường lối sản xuất và công nghiệp của Malaysia.
 
 ## Nơi có các quy định liên quan

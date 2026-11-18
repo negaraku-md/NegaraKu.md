@@ -46,7 +46,7 @@ verificationNeeded:
   - "Whether any tax incentive specific to the National Semiconductor Strategy has been gazetted — none was found"
 
 lang: "es"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -184,7 +184,7 @@ semiconductores más profunda de Malasia — ensamblaje, prueba, encapsulado, eq
 laboral de ingeniería que lo acompaña. El Penang International Airport y el Penang Port son adyacentes. Esa
 aglomeración es el activo.
 
-Pero la **National Semiconductor Strategy**, lanzada por el Primer Ministro el **28 de mayo de 2024** y
+Pero la **[National Semiconductor Strategy](/es/industries/semiconductor-industry-national-strategy)**, lanzada por el Primer Ministro el **28 de mayo de 2024** y
 liderada por MITI, no conecta ese clúster con el NCER. La NSS menciona el norte exactamente una vez, y de forma
 descriptiva:
 

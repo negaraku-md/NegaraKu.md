@@ -27,7 +27,7 @@ faq:
   - q: "Dari mana datangnya beras impor Malaysia?"
     a: "Sebagian besar impor diperoleh dari Vietnam, Thailand, Pakistan, India dan Myanmar, menurut BERNAS."
 lang: "id"
-sourceContentHash: "522e3a6274830936"
+sourceContentHash: "5d102a726d64965e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -143,7 +143,7 @@ Menanam padi di Malaysia dipertahankan tetap layak oleh dukungan pemerintah, buk
 Skala keterlibatan negara terlihat dalam angka konkret yang tercatat dalam rekaman:
 
 - Pemerintah telah membelanjakan sekitar **RM1 miliar** di kawasan **MADA** saja, lumbung padi terbesar negara.
-- **BERNAS**, importir beras berlisensi, menyediakan **RM3.2 miliar** untuk memenuhi sepuluh tanggung jawab sosial yang dikenakan pemerintah. Ini termasuk **RM90 juta** dalam bantuan petani pada 2025 dan **RM13 juta** yang disalurkan dari keuntungan impor beras, menurut Wakil Menteri Pertanian dan Ketahanan Pangan Chan Foong Hin.
+- **[BERNAS](/id/agriculture/bernas-rice-import-monopoly/)**, importir beras berlisensi, menyediakan **RM3.2 miliar** untuk memenuhi sepuluh tanggung jawab sosial yang dikenakan pemerintah. Ini termasuk **RM90 juta** dalam bantuan petani pada 2025 dan **RM13 juta** yang disalurkan dari keuntungan impor beras, menurut Wakil Menteri Pertanian dan Ketahanan Pangan Chan Foong Hin.
 
 Sistem ini juga ditetapkan harganya dengan mempertimbangkan keterjangkauan di sisi konsumen: satu kajian kementerian selama enam bulan menemukan bahwa sekitar **15% rakyat Malaysia** memerlukan beras seharga sekitar **RM26 untuk sekarung 10kg**, menegaskan mengapa kontrol harga terletak bersama dukungan petani dalam kebijakan yang sama.
 
@@ -157,7 +157,7 @@ Model importir tunggal itu tidak permanen. Konsesi itu **berakhir pada tahun 203
 
 ## Apa target swasembada Malaysia?
 
-Angka yang menilai keseluruhan sistem adalah tingkat swasembada, dan kebijakan menetapkannya jauh di atas realitas hari ini. Di bawah **Dasar Agromakanan Negara 2.0 (DAN 2.0)**, yang mencakup **2021–2030**, Malaysia menargetkan:
+Angka yang menilai keseluruhan sistem adalah tingkat swasembada, dan kebijakan menetapkannya jauh di atas realitas hari ini. Di bawah **[Dasar Agromakanan Negara 2.0](/id/agriculture/food-security-self-sufficiency-policy/) (DAN 2.0)**, yang mencakup **2021–2030**, Malaysia menargetkan:
 
 | Peristiwa penanda | Target swasembada beras |
 |---|---|

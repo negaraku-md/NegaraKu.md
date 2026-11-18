@@ -31,7 +31,7 @@ faq:
   - q: Adakah Malaysia kukuh dalam logam selain keluli?
     a: Ya. Dalam logam bukan ferus Malaysia kompetitif di peringkat global. Press Metal, berpangkalan di Sarawak, ialah pengeluar aluminium bersepadu terbesar di Asia Tenggara, dan Malaysia Smelting Corporation ialah antara pengeluar timah ditapis terkemuka dunia, warisan sejarah perlombongan timah negara yang panjang.
 lang: ms
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

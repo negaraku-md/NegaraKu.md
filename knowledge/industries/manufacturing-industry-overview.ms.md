@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "00a67f4ef7e6555a"
+sourceContentHash: "479d1b3f589a9b53"
 
 status: "published"
 aiAssisted: true
@@ -132,7 +132,7 @@ Dua bidang menonjol di mana Malaysia melangkaui saiznya, dan tiada satu pun dari
 
 ## Bagaimana kerajaan cuba menaikkannya dalam rantaian nilai?
 
-Jawapannya ialah **Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)**, yang dilancarkan pada 1 September 2023. Daripada memilih pemenang yang sempit, ia mengambil pendekatan "berasaskan misi" yang dibina sekitar empat misi:
+Jawapannya ialah **[Pelan Induk Perindustrian Baharu 2030](/industries/new-industrial-master-plan-2030/) (NIMP 2030)**, yang dilancarkan pada 1 September 2023. Daripada memilih pemenang yang sempit, ia mengambil pendekatan "berasaskan misi" yang dibina sekitar empat misi:
 
 1. Memajukan kerumitan ekonomi
 2. Meningkatkan teknologi untuk negara yang bertenaga secara digital

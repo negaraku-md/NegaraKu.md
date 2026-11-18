@@ -22,7 +22,7 @@ appliesTo: "任何携狗或携猫搬迁至马来西亚，或基于其他任何�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 
 status: "published"
 aiAssisted: true
@@ -74,7 +74,7 @@ stayFacts:
 
 机票订好了，箱子也打包好了，这时你突然想到：狗怎么办。在马来西亚，宠物不能只是搭上货舱那么简单——它需要一张在离地之前就已获批的许可证、一枚符合特定 ISO 标准的芯片，而且很可能还得先在检疫所待上一周甚至更久，你才能把它接回来。
 
-这些规定分属两个机构。兽医服务局（Department of Veterinary Services，简称 DVS，马来文 Jabatan Perkhidmatan Veterinar）负责制定生物安全方面的条件：年龄、疫苗接种、健康证明、检疫时长。而实际核发进口许可证、经营检疫站的，是 Malaysian Quarantine and Inspection Services（MAQIS）。实务上，你打交道最多的会是 MAQIS。
+这些规定分属两个机构。[兽医服务局](/zh/agriculture/livestock-poultry-industry/)（Department of Veterinary Services，简称 DVS，马来文 Jabatan Perkhidmatan Veterinar）负责制定生物安全方面的条件：年龄、疫苗接种、健康证明、检疫时长。而实际核发进口许可证、经营检疫站的，是 Malaysian Quarantine and Inspection Services（MAQIS）。实务上，你打交道最多的会是 MAQIS。
 
 ## 动物启程前须具备的条件
 

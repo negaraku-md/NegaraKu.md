@@ -149,7 +149,7 @@ question entirely.
 
 | Regulator | Governing statute | What it issues | Site |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Contractor registration, personnel accreditation | cidb.gov.my |
+| [CIDB](/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | Contractor registration, personnel accreditation | cidb.gov.my |
 | Board of Valuers, Appraisers, Estate Agents and Property Managers | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — the words and Property Managers were added by Act A1550, in force 2 January 2018 | Registration and practising certificates | lpeph.gov.my |
 | Local authority | Town and Country Planning Act 1976 (Act 172) | Planning permission and change of use | — |
 | Local authority | Street, Drainage and Building Act 1974 (Act 133) | Building plan approval, certificate of completion and compliance | — |

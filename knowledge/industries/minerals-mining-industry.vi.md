@@ -31,7 +31,7 @@ faq:
   - q: Vì sao Malaysia cấm xuất khẩu đất hiếm thô?
     a: Chính phủ nói lệnh cấm — có hiệu lực từ đầu năm 2024 — nhằm ngăn tài nguyên đất hiếm của đất nước bị xuất khẩu chưa qua chế biến, và buộc gia tăng giá trị trong nước qua tinh luyện nội địa và các ngành hạ nguồn. Các quan chức đã mô tả nó như việc bảo vệ một tài nguyên chiến lược; các điều khoản chính sách chính xác đã thay đổi theo thời gian và nên được kiểm tra với tuyên bố mới nhất của chính phủ.
 lang: vi
-sourceContentHash: "b76525788cb61fae"
+sourceContentHash: "2cfb1c127d0860c5"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -147,7 +147,7 @@ Sự phân chia tiểu bang - liên bang này là trung tâm để hiểu khai k
 
 Khai khoáng là một lát nhỏ của GDP — tiểu ngành chỉ riêng khoáng sản nằm dưới 1% khá xa, với một mục tiêu của chính phủ nâng đóng góp của khai khoáng và khai thác đá từ khoảng 0,7% lên 1% vào năm 2030 (các con số GDP "khai khoáng và khai thác đá" tiêu đề ở mức vài phần trăm thường bao gồm cả dầu khí, nên định nghĩa rất quan trọng). Tuy vậy, việc lập bản đồ sơ bộ của chính phủ đã định giá tài nguyên khoáng sản của quốc gia ở khoảng **RM4,11 nghìn tỷ**, và chính sách đã chuyển hướng sang chiết xuất nhiều giá trị hơn từ chúng.
 
-Định hướng được đặt ra bởi **Kế hoạch Chuyển đổi Ngành Công nghiệp Khoáng sản Quốc gia 2021–2030** và kế hoạch ngành khoáng sản thuộc **Kế hoạch Tổng thể Công nghiệp Mới 2030** (ra mắt tháng 9/2023), cả hai đều nhấn mạnh đi lên chuỗi giá trị — chế biến, không chỉ chiết xuất — và làm điều đó bền vững hơn. Một chính sách kế thừa cho Chính sách Khoáng sản Quốc gia lâu đời cũng đang được bàn thảo.
+Định hướng được đặt ra bởi **Kế hoạch Chuyển đổi Ngành Công nghiệp Khoáng sản Quốc gia 2021–2030** và kế hoạch ngành khoáng sản thuộc [**Kế hoạch Tổng thể Công nghiệp Mới 2030**](/vi/industries/new-industrial-master-plan-2030/) (ra mắt tháng 9/2023), cả hai đều nhấn mạnh đi lên chuỗi giá trị — chế biến, không chỉ chiết xuất — và làm điều đó bền vững hơn. Một chính sách kế thừa cho Chính sách Khoáng sản Quốc gia lâu đời cũng đang được bàn thảo.
 
 Mạch xuyên suốt là rõ ràng. Đã học được từ thiếc — nơi Malaysia xuất khẩu một hàng hóa thô rồi chứng kiến thị trường biến mất — đất nước nay muốn khoáng sản của mình, trên hết là đất hiếm, được tinh luyện và chế tạo thành các sản phẩm giá trị cao hơn tại nhà. Liệu canh bạc đất hiếm có thành công hay không sẽ phụ thuộc vào giá cả, quản lý môi trường và một môi trường chính sách vẫn còn rất nhiều biến động.
 

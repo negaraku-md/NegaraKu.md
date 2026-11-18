@@ -112,7 +112,7 @@ Nama dan status badan ini kemudiannya berubah beberapa kali:
 
 Ini kekeliruan yang lazim. **Majlis Olimpik Malaysia (OCM)** ialah Jawatankuasa Olimpik Kebangsaan negara — ia menguruskan penyertaan atlet ke Sukan Olimpik, Sukan Komanwel, Sukan Asia dan Sukan SEA. **PCM pula ialah badan yang benar-benar berasingan** yang menguruskan laluan Paralimpik: Sukan Paralimpik, Sukan Para Asia dan Sukan Para ASEAN.
 
-Kedua-duanya ialah pertubuhan yang berlainan, dengan kepimpinan, keahlian dan gabungan antarabangsa masing-masing. OCM bergabung dengan Jawatankuasa Olimpik Antarabangsa (IOC); PCM bergabung dengan IPC. Persamaan mereka ialah kedua-duanya beroperasi dalam kerangka **Akta Pembangunan Sukan 1997** dan bekerjasama dengan Kementerian Belia dan Sukan serta Majlis Sukan Negara dalam pembangunan atlet.
+Kedua-duanya ialah pertubuhan yang berlainan, dengan kepimpinan, keahlian dan gabungan antarabangsa masing-masing. OCM bergabung dengan Jawatankuasa Olimpik Antarabangsa (IOC); PCM bergabung dengan IPC. Persamaan mereka ialah kedua-duanya beroperasi dalam kerangka **Akta Pembangunan Sukan 1997** dan bekerjasama dengan Kementerian Belia dan Sukan serta [Majlis Sukan Negara](/sports/national-sports-council-msn) dalam pembangunan atlet.
 
 PCM juga bukan sekadar penghantar kontinjen. Menurut laman rasminya, ia telah menganjurkan **Sukan Para ASEAN sulung pada 2001**, dan sekali lagi pada **2009** dan **2017**. Dari segi kepimpinan, Dato' Sri Megat D. Shahriman ialah Presiden PCM yang dipilih pada Disember 2019 dan dipilih semula pada Disember 2024.
 

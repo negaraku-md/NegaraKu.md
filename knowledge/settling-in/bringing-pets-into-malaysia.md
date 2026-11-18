@@ -74,7 +74,7 @@ stayFacts:
 
 Your flight is booked, your boxes are packed, and then it hits you: what about the dog. In Malaysia, a pet doesn't just ride along in the cargo hold — it needs a permit that's approved before it leaves the ground, a microchip that meets a specific ISO standard, and quite possibly a week or more in quarantine before you get it back.
 
-The rules sit across two agencies. The Department of Veterinary Services (DVS) — Jabatan Perkhidmatan Veterinar — writes the biosecurity conditions: age, vaccination, health certification, quarantine length. The Malaysian Quarantine and Inspection Services (MAQIS) is who actually issues the import permit and runs the quarantine stations. In practice, you deal mostly with MAQIS.
+The rules sit across two agencies. The [Department of Veterinary Services](/agriculture/livestock-poultry-industry) (DVS) — Jabatan Perkhidmatan Veterinar — writes the biosecurity conditions: age, vaccination, health certification, quarantine length. The Malaysian Quarantine and Inspection Services (MAQIS) is who actually issues the import permit and runs the quarantine stations. In practice, you deal mostly with MAQIS.
 
 ## What has to be true before the animal travels
 

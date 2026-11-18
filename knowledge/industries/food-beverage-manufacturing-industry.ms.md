@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana pembuatan makanan dikawal selia di Malaysia?
     a: Keselamatan dan pelabelan makanan dikawal oleh Akta Makanan 1983 dan peraturan subsidiarinya (seperti Peraturan-Peraturan Makanan 1985 dan Peraturan-Peraturan Kebersihan Makanan 2009), ditadbir oleh Kementerian Kesihatan. Tuntutan halal pula dikawal secara berasingan oleh Jabatan Kemajuan Islam Malaysia (JAKIM), yang mengeluarkan pensijilan halal rasmi.
 lang: ms
-sourceContentHash: "391a7deab0b3d94e"
+sourceContentHash: "5dada9f392a41065"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -125,7 +125,7 @@ Industri ini bukan satu perkara tetapi beberapa, masing-masing dengan ekonominya
 
 - **Makanan diproses dan dibungkus** — snek, mi segera, biskut, sos, perasa dan hidangan sedia. Ini segmen yang paling kelihatan dan rumah kepada banyak jenama pengguna Malaysia yang paling dikenali.
 - **Koko dan konfeksi** — salah satu kepakaran Malaysia yang paling menonjol. Walaupun menanam sangat sedikit koko hari ini, Malaysia ialah **pengisar koko** utama, mengimport biji dan memprosesnya menjadi mentega koko, serbuk, likur dan coklat industri. Pengisaran dilaporkan mencapai kira-kira 90,849 tan pada suku kedua 2026 — kira-kira 40% daripada jumlah Asia — selepas kira-kira 370,000 tan untuk setahun penuh 2023 ([Malay Mail](https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224)). Guan Chong Berhad dan Barry Callebaut kedua-duanya menjalankan operasi pengisaran besar di Johor.
-- **Minyak dan lemak makan** — berkait rapat dengan industri minyak sawit Malaysia, menghasilkan minyak masak, lemak istimewa, marjerin dan bahan makanan untuk kegunaan tempatan dan eksport.
+- **Minyak dan lemak makan** — berkait rapat dengan [industri minyak sawit Malaysia](/industries/palm-oil-industry), menghasilkan minyak masak, lemak istimewa, marjerin dan bahan makanan untuk kegunaan tempatan dan eksport.
 - **Minuman** — minuman ringan, air botol dan mineral, kopi, teh dan minuman tenaga atau herba. Jenama di sini termasuk 100Plus milik F&N, air botol Spritzer dan minuman tenaga herba Power Root.
 - **Akuakultur dan pemprosesan makanan laut** — menukarkan tangkapan marin dan ternakan Malaysia menjadi produk makanan laut sejuk beku, dalam tin dan bernilai tambah, dengan potensi eksport yang ketara.
 

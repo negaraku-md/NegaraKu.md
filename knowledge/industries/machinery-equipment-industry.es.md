@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué apoyo gubernamental existe para el sector de M&E?
     a: La M&E es una industria de alta tecnología prioritaria de MIDA elegible para incentivos de inversión, y es central en la política nacional de Industria 4.0 Industry4WRD, que ofrece subvenciones como el Fondo de Intervención Industry4WRD y el Fondo Estratégico de Inversión Nacional para las firmas que adoptan la automatización y la tecnología avanzada.
 lang: es
-sourceContentHash: "019ba1901dcb4865"
+sourceContentHash: "e4dca19fd76c4c0c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -129,7 +129,7 @@ Los nombres de M&E más prominentes de Malasia se concentran en los equipos de s
 
 ## Incentivos e Industry4WRD
 
-Dado que la M&E es una industria de alta tecnología prioritaria de MIDA, los proyectos cualificables son elegibles para incentivos de inversión, y el sector es un beneficiario central de la política nacional **Industry4WRD** de Industria 4.0, lanzada por el MITI en octubre de 2018. Industry4WRD empuja a los fabricantes a adoptar la automatización, los datos y las prácticas de fábrica inteligente, apoyada por herramientas como la Evaluación de Preparación Industry4WRD y financiación que incluye el **Fondo de Intervención Industry4WRD** (una subvención equiparada, reportada en 70:30 y con un tope de RM500.000) y el **Fondo Estratégico de Inversión Nacional** (reportado en 60:40) para las firmas que completan la evaluación. Estos parámetros deberían confirmarse con la orientación de incentivos actual de MIDA. La dirección general procede ahora del **Nuevo Plan Maestro Industrial (NIMP) 2030** y, para la vertiente de equipos de semiconductores, de la **Estrategia Nacional de Semiconductores**, ambos de los cuales impulsan a Malasia hacia maquinaria de mayor valor y mayor tecnología, incluidos los equipos de semiconductores de front-end.
+Dado que la M&E es una industria de alta tecnología prioritaria de MIDA, los proyectos cualificables son elegibles para incentivos de inversión, y el sector es un beneficiario central de la política nacional **Industry4WRD** de Industria 4.0, lanzada por el MITI en octubre de 2018. Industry4WRD empuja a los fabricantes a adoptar la automatización, los datos y las prácticas de fábrica inteligente, apoyada por herramientas como la Evaluación de Preparación Industry4WRD y financiación que incluye el **Fondo de Intervención Industry4WRD** (una subvención equiparada, reportada en 70:30 y con un tope de RM500.000) y el **Fondo Estratégico de Inversión Nacional** (reportado en 60:40) para las firmas que completan la evaluación. Estos parámetros deberían confirmarse con la orientación de incentivos actual de MIDA. La dirección general procede ahora del **Nuevo Plan Maestro Industrial (NIMP) 2030** y, para la vertiente de equipos de semiconductores, de la **[Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy/)**, ambos de los cuales impulsan a Malasia hacia maquinaria de mayor valor y mayor tecnología, incluidos los equipos de semiconductores de front-end.
 
 ## Perspectivas
 

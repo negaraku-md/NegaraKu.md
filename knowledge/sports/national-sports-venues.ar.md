@@ -28,7 +28,7 @@ faq:
     a: "لا. استضافت سيبانغ جائزة فورمولا 1 الكبرى حتى عام 2017؛ وتركّز الحلبة الآن على MotoGP وفعاليات رياضة السيارات الأخرى."
 
 lang: "ar"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ framework: profile
 
 تدور معظم الفعاليات البارزة حول **Kuala Lumpur Sports City** (المجمّع الرياضي الوطني سابقاً) في بوكيت جليل، على بُعد نحو 20 دقيقة من وسط كوالالمبور وثلاث دقائق سيراً على الأقدام من محطة Bukit Jalil LRT. ويضمّ المجمّع استاد TM الوطني واستاد الهوكي الوطني والمركز المائي الوطني وأرينا Axiata/Unifi ومركز الإسكواش الوطني وقاعة Dewan Sri Putra ضمن منطقة واحدة.
 
-ويقع ملعبان مهمان آخران خارج بوكيت جليل: **الفيلودروم الوطني الماليزي (Malaysia National Velodrome)** في نيلاي بولاية نݢري سمبيلان، و**حلبة سيبانغ الدولية (Sepang International Circuit)** في سيبانغ بولاية سيلانغور.
+ويقع ملعبان مهمان آخران خارج بوكيت جليل: [**الفيلودروم الوطني الماليزي (Malaysia National Velodrome)**](/ar/sports/track-cycling-velodrome-malaysia) في نيلاي بولاية نݢري سمبيلان، و**حلبة سيبانغ الدولية (Sepang International Circuit)** في سيبانغ بولاية سيلانغور.
 
 ## ما سعة كل ملعب ووظيفته؟
 

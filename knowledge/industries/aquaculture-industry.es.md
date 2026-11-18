@@ -31,7 +31,7 @@ faq:
   - q: "¿Por qué importa la acuicultura para la seguridad alimentaria de Malasia?"
     a: "El pescado es la principal fuente de proteína animal de Malasia, y la captura silvestre se ha estancado. La acuicultura es la principal palanca para elevar la tasa nacional de autosuficiencia en pescado —en torno al 90,7% en 2025— y la Política Nacional Agroalimentaria favorece explícitamente el pescado de cultivo sobre el capturado para satisfacer la demanda futura."
 lang: es
-sourceContentHash: "fbf634717e2b17c5"
+sourceContentHash: "8e2067b1d42a9bd3"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,7 +109,7 @@ La mayor parte del pescado en el plato de una cena malasia todavía proviene del
 
 ## ¿Qué tamaño tiene la industria de la acuicultura de Malasia?
 
-La acuicultura ya no es una actividad secundaria. El Departamento de Pesca de Malasia (DOF) reportó unas **492.680 toneladas** de producción acuícola por un valor de unos **RM3.900 millones** en 2023, con la producción subiendo a unas **510.000 toneladas** en 2024. Frente a una producción total de pescado comestible de 1,79 millones de toneladas en 2023, la producción de cultivo representa ahora cerca del **30%** de toda la producción pesquera, y esa cuota está diseñada para crecer.
+La acuicultura ya no es una actividad secundaria. El [Departamento de Pesca de Malasia](/es/agriculture/department-of-fisheries-malaysia/) (DOF) reportó unas **492.680 toneladas** de producción acuícola por un valor de unos **RM3.900 millones** en 2023, con la producción subiendo a unas **510.000 toneladas** en 2024. Frente a una producción total de pescado comestible de 1,79 millones de toneladas en 2023, la producción de cultivo representa ahora cerca del **30%** de toda la producción pesquera, y esa cuota está diseñada para crecer.
 
 La lógica estratégica es simple. Las pesquerías de captura están limitadas por lo que el mar puede rendir de forma sostenible, y la captura de Malasia se ha aplanado en general. La acuicultura, en cambio, puede escalarse con inversión. Por eso el objetivo del gobierno, bajo la Política Nacional Agroalimentaria, es desplazar el equilibrio de la producción de pescado comestible hacia el cultivo, apuntando con el tiempo a una **relación acuicultura-captura de aproximadamente 60:40**, una casi inversión de la combinación histórica.
 

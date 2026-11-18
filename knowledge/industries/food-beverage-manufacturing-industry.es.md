@@ -31,7 +31,7 @@ faq:
   - q: ¿Cómo se regula la fabricación de alimentos en Malasia?
     a: La seguridad y el etiquetado de los alimentos se rigen por la Ley de Alimentos de 1983 y sus reglas subsidiarias (como el Reglamento de Alimentos de 1985 y el Reglamento de Higiene de los Alimentos de 2009), administrados por el Ministerio de Salud. Las declaraciones halal las controla por separado el Departamento de Desarrollo Islámico de Malasia (JAKIM), que emite la certificación halal oficial.
 lang: es
-sourceContentHash: "391a7deab0b3d94e"
+sourceContentHash: "5dada9f392a41065"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -125,7 +125,7 @@ La industria no es una sola cosa, sino varias, cada una con su propia economía:
 
 - **Alimentos procesados y envasados** — aperitivos, fideos instantáneos, galletas, salsas, condimentos y comidas preparadas. Este es el segmento más visible y la sede de muchas de las marcas de consumo más conocidas de Malasia.
 - **Cacao y confitería** — una de las especialidades más llamativas de Malasia. Pese a cultivar hoy muy poco cacao, Malasia es un importante **moledor de cacao**, que importa granos y los procesa en manteca de cacao, polvo, licor y chocolate industrial. La molienda alcanzó, según se informa, unas 90.849 toneladas en el segundo trimestre de 2026 —cerca del 40% del total de Asia— tras unas 370.000 toneladas en el año completo de 2023 ([Malay Mail](https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224)). Tanto Guan Chong Berhad como Barry Callebaut operan grandes operaciones de molienda en Johor.
-- **Aceites y grasas comestibles** — estrechamente ligados a la industria del aceite de palma de Malasia, que producen aceites de cocina, grasas especializadas, margarina e ingredientes alimentarios tanto para uso local como para exportación.
+- **Aceites y grasas comestibles** — estrechamente ligados a [la industria del aceite de palma de Malasia](/es/industries/palm-oil-industry), que producen aceites de cocina, grasas especializadas, margarina e ingredientes alimentarios tanto para uso local como para exportación.
 - **Bebidas** — refrescos, agua embotellada y mineral, café, té y bebidas energéticas o herbales. Entre las marcas aquí están el 100Plus de F&N, el agua embotellada de Spritzer y las bebidas energéticas herbales de Power Root.
 - **Acuicultura y procesamiento de mariscos** — convertir la captura marina y de cultivo de Malasia en productos de marisco congelados, enlatados y de valor añadido, con un significativo potencial de exportación.
 

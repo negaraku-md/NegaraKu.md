@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Investor, pencari kerja, analis kebijakan, dan pelajar yang mencoba membaca statistik industri Malaysia dengan tepat."
 
 lang: "id"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -179,7 +179,7 @@ Dokumen perencanaan pemerintah sendiri menerima kerangka ini. Rancangan Malaysia
 
 DOSM melaporkan PNB per kapita mencapai RM57,200 pada 2025, meningkat dari RM54,870 pada 2024. Kesenjangan menuju RM77,200 dalam periode lima tahun adalah keseluruhan masalah kebijakan dalam satu kalimat.
 
-Instrumen yang disebut dalam Rancangan tersebut adalah Pelan Induk Perindustrian Baharu 2030 (New Industrial Master Plan 2030, NIMP 2030), National Semiconductor Strategy, dan [National Energy Transition Roadmap](/id/energy/national-energy-transition-roadmap-netr). Perhatikan apa yang tersirat oleh sasaran manufaktur: agar manufaktur tumbuh pada 5.8% sementara ekonomi tumbuh pada 4.5-5.5%, pangsanya dalam PDB perlu mulai meningkat kembali. Berakhirnya dataran ini bukan ramalan — ia adalah sasaran.
+Instrumen yang disebut dalam Rancangan tersebut adalah [Pelan Induk Perindustrian Baharu 2030](/id/industries/new-industrial-master-plan-2030) (New Industrial Master Plan 2030, NIMP 2030), [National Semiconductor Strategy](/id/industries/semiconductor-industry-national-strategy), dan [National Energy Transition Roadmap](/id/energy/national-energy-transition-roadmap-netr). Perhatikan apa yang tersirat oleh sasaran manufaktur: agar manufaktur tumbuh pada 5.8% sementara ekonomi tumbuh pada 4.5-5.5%, pangsanya dalam PDB perlu mulai meningkat kembali. Berakhirnya dataran ini bukan ramalan — ia adalah sasaran.
 
 ## Kesalahan umum
 

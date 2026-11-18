@@ -105,7 +105,7 @@ Ambil satu contoh mudah — pertaruhan Sports Toto bernilai **RM2**:
 - **Hadiah** — kira-kira 55% (RM1.10) diperuntukkan sebagai wang hadiah kepada pemenang.
 - **SST** — kira-kira 4.39 sen ditanggung industri.
 
-Di samping itu, industri NFO menyumbang **10% daripada keuntungan sebelum cukai** kepada Majlis Sukan Negara, dan masih tertakluk kepada cukai korporat 24% (kadar standard bagi syarikat pemastautin) seperti syarikat lain.
+Di samping itu, industri NFO menyumbang **10% daripada keuntungan sebelum cukai** kepada [Majlis Sukan Negara](/sports/national-sports-council-msn), dan masih tertakluk kepada cukai korporat 24% (kadar standard bagi syarikat pemastautin) seperti syarikat lain.
 
 Ertinya, sebelum pengendali mengira kos operasi dan keuntungannya, sebahagian besar setiap taruhan sudah pun mengalir ke kerajaan dan tabung sukan negara.
 

@@ -31,7 +31,7 @@ faq:
   - q: ¿Es Malasia fuerte en metales distintos del acero?
     a: Sí. En metales no ferrosos Malasia es competitiva a nivel mundial. Press Metal, con sede en Sarawak, es el mayor productor integrado de aluminio del Sudeste Asiático, y Malaysia Smelting Corporation está entre los principales productores mundiales de estaño refinado, un legado de la larga historia minera del estaño del país.
 lang: es
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

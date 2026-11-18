@@ -31,7 +31,7 @@ faq:
   - q: Apakah sokongan kerajaan yang wujud untuk sektor M&E?
     a: M&E ialah industri berteknologi tinggi keutamaan MIDA yang layak untuk insentif pelaburan, dan ia menjadi teras kepada dasar Industri 4.0 negara Industry4WRD, yang menawarkan geran seperti Dana Intervensi Industry4WRD dan Dana Strategik Pelaburan Domestik untuk firma yang menerima pakai automasi dan teknologi termaju.
 lang: ms
-sourceContentHash: "019ba1901dcb4865"
+sourceContentHash: "e4dca19fd76c4c0c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -129,7 +129,7 @@ Nama M&E Malaysia yang paling menonjol tertumpu dalam peralatan semikonduktor da
 
 ## Insentif dan Industry4WRD
 
-Kerana M&E ialah industri berteknologi tinggi keutamaan MIDA, projek yang layak boleh mendapat insentif pelaburan, dan sektor ini ialah penerima manfaat utama dasar negara **Industry4WRD** mengenai Industri 4.0, dilancarkan oleh MITI pada Oktober 2018. Industry4WRD mendorong pengeluar menerima pakai automasi, data dan amalan kilang pintar, disokong oleh alat seperti Penilaian Kesediaan Industry4WRD dan pembiayaan termasuk **Dana Intervensi Industry4WRD** (geran padanan, dilaporkan pada 70:30 dan dihadkan pada RM500,000) dan **Dana Strategik Pelaburan Domestik** (dilaporkan pada 60:40) untuk firma yang menyiapkan penilaian itu. Parameter ini harus disahkan terhadap panduan insentif MIDA semasa. Arah menyeluruh kini datang daripada **Pelan Induk Perindustrian Baharu (NIMP) 2030** dan, bagi helai peralatan semikonduktor, **Strategi Semikonduktor Nasional**, kedua-duanya mendorong Malaysia ke arah jentera bernilai lebih tinggi dan berteknologi lebih tinggi — termasuk peralatan semikonduktor bahagian hadapan.
+Kerana M&E ialah industri berteknologi tinggi keutamaan MIDA, projek yang layak boleh mendapat insentif pelaburan, dan sektor ini ialah penerima manfaat utama dasar negara **Industry4WRD** mengenai Industri 4.0, dilancarkan oleh MITI pada Oktober 2018. Industry4WRD mendorong pengeluar menerima pakai automasi, data dan amalan kilang pintar, disokong oleh alat seperti Penilaian Kesediaan Industry4WRD dan pembiayaan termasuk **Dana Intervensi Industry4WRD** (geran padanan, dilaporkan pada 70:30 dan dihadkan pada RM500,000) dan **Dana Strategik Pelaburan Domestik** (dilaporkan pada 60:40) untuk firma yang menyiapkan penilaian itu. Parameter ini harus disahkan terhadap panduan insentif MIDA semasa. Arah menyeluruh kini datang daripada **Pelan Induk Perindustrian Baharu (NIMP) 2030** dan, bagi helai peralatan semikonduktor, **[Strategi Semikonduktor Nasional](/industries/semiconductor-industry-national-strategy/)**, kedua-duanya mendorong Malaysia ke arah jentera bernilai lebih tinggi dan berteknologi lebih tinggi — termasuk peralatan semikonduktor bahagian hadapan.
 
 ## Tinjauan
 

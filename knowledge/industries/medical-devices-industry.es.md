@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos existen para los fabricantes?
     a: Los dispositivos médicos son una actividad promovida por MIDA, elegible para incentivos como el Estatus Pionero (una exención parcial a total del impuesto sobre la renta durante un periodo determinado) y la Deducción por Inversión en Activos sobre el gasto de capital cualificable. Los dispositivos médicos también están nombrados sector prioritario en el Nuevo Plan Maestro Industrial 2030. Confirma los términos actuales y la elegibilidad directamente con MIDA.
 lang: es
-sourceContentHash: "0f609e23d14a24f5"
+sourceContentHash: "7fd1c6521ba9829e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -149,7 +149,7 @@ Junto a las multinacionales se sitúa una capa de fabricantes locales —especia
 
 Los dispositivos médicos en Malasia están regulados por la **Autoridad de Dispositivos Médicos (MDA)**, un organismo estatutario dependiente del **Ministerio de Salud**. La MDA se creó conforme a la **Ley de la Autoridad de Dispositivos Médicos de 2012 (Ley 738)** y hace cumplir la **Ley de Dispositivos Médicos de 2012 (Ley 737)**. Bajo este marco, los dispositivos se clasifican por riesgo de la **A a la D**, deben **registrarse** antes de comercializarse, y las empresas que los fabrican, importan, distribuyen o representan deben tener una **licencia de establecimiento**. Los fabricantes extranjeros sin presencia local deben nombrar a un **representante autorizado** en el país, y las solicitudes se presentan a través del sistema en línea de la MDA (MeDC@St).
 
-En el plano de la inversión, los dispositivos médicos son una **actividad promovida por MIDA** dentro del espacio de las ciencias de la vida y la tecnología médica. Los fabricantes pueden solicitar incentivos generales como el **Estatus Pionero** (una exención parcial a total de la renta estatutaria durante un periodo determinado) y la **Deducción por Inversión en Activos** sobre el gasto de capital cualificable, según se expone en la orientación de MIDA; las tasas y la elegibilidad exactas siempre deben confirmarse con MIDA, porque la lista de actividades promovidas y los términos cambian con el tiempo. El sector también está nombrado como prioridad en el **Nuevo Plan Maestro Industrial 2030**, que busca impulsar a Malasia hacia una fabricación de mayor valor y más localizada. Consulta el perfil de [MIDA](/es/government/mida/) para ver cómo la agencia administra estos incentivos.
+En el plano de la inversión, los dispositivos médicos son una **actividad promovida por MIDA** dentro del espacio de las ciencias de la vida y la tecnología médica. Los fabricantes pueden solicitar incentivos generales como el **Estatus Pionero** (una exención parcial a total de la renta estatutaria durante un periodo determinado) y la **Deducción por Inversión en Activos** sobre el gasto de capital cualificable, según se expone en la orientación de MIDA; las tasas y la elegibilidad exactas siempre deben confirmarse con MIDA, porque la lista de actividades promovidas y los términos cambian con el tiempo. El sector también está nombrado como prioridad en el [**Nuevo Plan Maestro Industrial 2030**](/es/industries/new-industrial-master-plan-2030/), que busca impulsar a Malasia hacia una fabricación de mayor valor y más localizada. Consulta el perfil de [MIDA](/es/government/mida/) para ver cómo la agencia administra estos incentivos.
 
 ## Perspectivas
 

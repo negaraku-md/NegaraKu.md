@@ -29,7 +29,7 @@ faq:
     a: "말레이시아 할랄 제품 수출은 2024년 RM617.9억에 이르러 2023년 RM537.2억 대비 15% 상승했습니다(MITI). 2024년 1~9월 수출은 RM450.4억으로, 2023년 같은 기간의 RM393.6억과 대비됩니다(MITI/MIDA)."
 
 lang: "ko"
-sourceContentHash: "1b16a223e725d8d1"
+sourceContentHash: "df3f9fe9e6326bd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ RM867억을 창출하는 7,748개 사업체 — 를 차지합니다. 이 모든 
 ## HDC와 글로벌 할랄 허브 전략의 역할은 무엇인가?
 
 인증을 넘어, 말레이시아는 할랄 개발 생태계를 구축합니다. 투자통상산업부(MITI) 범위 아래의
-기관인 **할랄개발공사(Halal Development Corporation, HDC)**는 할랄 산업단지, 교육, 산업 진흥의
+기관인 **[할랄개발공사(Halal Development Corporation, HDC)](/ko/industries/halal-industry-economy)**는 할랄 산업단지, 교육, 산업 진흥의
 개발을 조정하는 역할을 하며 — 인증 발급 권한은 JAKIM에 남아 있습니다. 재무부 참조는 할랄
 산업단지에 대한 누적 투자를 **2011년 이후 RM161억**으로 기록하며, 21개 할랄 산업단지에 걸쳐
 295개 회사가 운영됩니다.

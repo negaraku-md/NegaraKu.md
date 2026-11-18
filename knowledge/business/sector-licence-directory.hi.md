@@ -31,7 +31,7 @@ verificationNeeded:
   - "JAKIM और सोसाइटी रजिस्ट्रार द्वारा प्रयुक्त अंग्रेज़ी लघु-शीर्षक — दोनों में से कोई भी एजेंसी की अपनी साइट पर नहीं दिखता"
 
 lang: "hi"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -152,7 +152,7 @@ framework: data-reference
 
 | नियामक | शासक क़ानून | यह क्या जारी करता है | साइट |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | ठेकेदार पंजीकरण, कार्मिक मान्यता | cidb.gov.my |
+| [CIDB](/hi/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | ठेकेदार पंजीकरण, कार्मिक मान्यता | cidb.gov.my |
 | मूल्यांकक, निर्धारक, संपदा एजेंट एवं संपत्ति प्रबंधक बोर्ड | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — शब्द «and Property Managers» Act A1550 द्वारा जोड़े गए, 2 जनवरी 2018 से प्रभावी | पंजीकरण और अभ्यास-प्रमाणपत्र | lpeph.gov.my |
 | स्थानीय प्राधिकरण | Town and Country Planning Act 1976 (Act 172) | योजना-अनुमति और उपयोग-परिवर्तन | — |
 | स्थानीय प्राधिकरण | Street, Drainage and Building Act 1974 (Act 133) | भवन-योजना अनुमोदन, पूर्णता एवं अनुपालन प्रमाणपत्र | — |

@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ed4546075e84eef3"
+sourceContentHash: "8f44d2a10fa14edb"
 
 status: "published"
 aiAssisted: true
@@ -143,7 +143,7 @@ Three main layers support farmers' incomes:
 2. **The Padi Price Subsidy.** The additional payment for each tonne of padi sold was raised to **RM500 per tonne** (from RM360). It is a production-based subsidy — the more padi sold, the more assistance received.
 3. **Input subsidies.** The government allocated **RM2.6 billion** in Budget 2024 for various subsidies and incentives to padi farmers and fishermen, including fertiliser, pesticides and production costs.
 
-At the end of the chain stands **BERNAS** (Padiberas Nasional Berhad). The company holds the country's sole rice-importer role — a responsibility inherited from the National Padi and Rice Board (LPN), which took over the rice import role and became the sole importer in 1974 following the 1973 world food crisis. In return, BERNAS carries social obligations such as managing the national rice buffer stock, buying farmers' padi at the guaranteed price, and supporting Bumiputera millers. BERNAS was privatised on **12 January 1996** and later listed on Bursa Malaysia.
+At the end of the chain stands **[BERNAS](/en/agriculture/bernas-rice-import-monopoly/)** (Padiberas Nasional Berhad). The company holds the country's sole rice-importer role — a responsibility inherited from the National Padi and Rice Board (LPN), which took over the rice import role and became the sole importer in 1974 following the 1973 world food crisis. In return, BERNAS carries social obligations such as managing the national rice buffer stock, buying farmers' padi at the guaranteed price, and supporting Bumiputera millers. BERNAS was privatised on **12 January 1996** and later listed on Bursa Malaysia.
 
 ## Why is this target so hard to reach?
 

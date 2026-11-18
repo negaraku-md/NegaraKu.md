@@ -31,7 +31,7 @@ faq:
   - q: "Que fait la Malaisie contre la pollution plastique ?"
     a: "La Feuille de route malaisienne pour la durabilité des plastiques 2021–2030, pilotée par le ministère de l'Environnement, fixe des objectifs pour éliminer progressivement les plastiques à usage unique problématiques, augmenter les taux de recyclage et le contenu recyclé, et rendre les emballages plastiques recyclables. Elle introduit également un régime de responsabilité élargie des producteurs (REP) qui fait participer les producteurs au financement de la collecte et du recyclage."
 lang: fr
-sourceContentHash: "dc6e2cfa034711f6"
+sourceContentHash: "de0d1c6868348e76"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -154,7 +154,7 @@ Aucune partie de l'industrie n'a changé plus vite que sa relation aux déchets.
 
 Cet épisode a placé la durabilité au centre de la politique. La **Feuille de route malaisienne pour la durabilité des plastiques 2021–2030**, pilotée par le ministère de l'Environnement, fixe des objectifs nationaux assortis d'échéances : élimination progressive des plastiques à usage unique problématiques, relèvement du taux de recyclage des emballages plastiques post-consommation, emballages plastiques entièrement recyclables, augmentation du contenu recyclé, et collecte de la grande majorité des déchets plastiques pour recyclage d'ici 2030. Elle introduit aussi un régime de **responsabilité élargie des producteurs (REP)**, en vertu duquel les producteurs participent au financement de la collecte et du recyclage des emballages qu'ils mettent sur le marché.
 
-Les contrôles à l'importation se sont resserrés en parallèle. En vertu de règles rapportées comme entrant en vigueur en 2025, les importateurs de déchets plastiques (code SH 39.15) doivent obtenir un **Certificat d'approbation de la SIRIM**, étayé par une inspection avant expédition et des audits d'usine — une tentative de maintenir l'afflux de véritable matière première de recyclage vers les transformateurs légitimes tout en excluant le rebut sale et non recyclable. Les décideurs présentent ces mesures comme faisant partie du Nouveau Plan directeur industriel 2030 et d'un programme d'économie circulaire pour la fabrication.
+Les contrôles à l'importation se sont resserrés en parallèle. En vertu de règles rapportées comme entrant en vigueur en 2025, les importateurs de déchets plastiques (code SH 39.15) doivent obtenir un **Certificat d'approbation de la SIRIM**, étayé par une inspection avant expédition et des audits d'usine — une tentative de maintenir l'afflux de véritable matière première de recyclage vers les transformateurs légitimes tout en excluant le rebut sale et non recyclable. Les décideurs présentent ces mesures comme faisant partie du [Nouveau Plan directeur industriel 2030](/fr/industries/new-industrial-master-plan-2030/) et d'un programme d'économie circulaire pour la fabrication.
 
 ## Incitations
 

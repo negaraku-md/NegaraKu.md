@@ -124,7 +124,7 @@ The industry is not one thing but several, each with its own economics:
 
 - **Processed and packaged food** — snacks, instant noodles, biscuits, sauces, seasonings and ready meals. This is the most visible segment and home to many of Malaysia's best-known consumer brands.
 - **Cocoa and confectionery** — one of Malaysia's most striking specialisms. Despite growing very little cocoa today, Malaysia is a major **cocoa grinder**, importing beans and processing them into cocoa butter, powder, liquor and industrial chocolate. Grinding reportedly reached about 90,849 tonnes in the second quarter of 2026 — roughly 40% of Asia's total — after around 370,000 tonnes for full-year 2023 ([Malay Mail](https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224)). Guan Chong Berhad and Barry Callebaut both run large grinding operations in Johor.
-- **Edible oils and fats** — closely tied to Malaysia's palm oil industry, producing cooking oils, specialty fats, margarine and food ingredients for both local use and export.
+- **Edible oils and fats** — closely tied to [Malaysia's palm oil industry](/industries/palm-oil-industry), producing cooking oils, specialty fats, margarine and food ingredients for both local use and export.
 - **Beverages** — soft drinks, bottled and mineral water, coffee, tea and energy or herbal drinks. Brands here include F&N's 100Plus, Spritzer's bottled water and Power Root's herbal energy drinks.
 - **Aquaculture and seafood processing** — turning Malaysia's marine and farmed catch into frozen, canned and value-added seafood products, with significant export potential.
 

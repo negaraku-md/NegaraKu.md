@@ -31,7 +31,7 @@ faq:
   - q: Có những hỗ trợ nào của chính phủ cho lĩnh vực M&E?
     a: M&E là một ngành công nghệ cao ưu tiên của MIDA, đủ điều kiện cho các ưu đãi đầu tư, và nó là trung tâm của chính sách Công nghiệp 4.0 quốc gia Industry4WRD, vốn đưa ra các khoản tài trợ như Quỹ Can thiệp Industry4WRD và Quỹ Chiến lược Đầu tư Nội địa cho các hãng áp dụng tự động hóa và công nghệ tiên tiến.
 lang: vi
-sourceContentHash: "019ba1901dcb4865"
+sourceContentHash: "e4dca19fd76c4c0c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -129,7 +129,7 @@ Những tên tuổi M&E nổi bật nhất của Malaysia tập trung ở thiế
 
 ## Ưu đãi và Industry4WRD
 
-Vì M&E là một ngành công nghệ cao ưu tiên của MIDA, các dự án đủ điều kiện được hưởng các ưu đãi đầu tư, và lĩnh vực này là một bên hưởng lợi trung tâm của chính sách quốc gia **Industry4WRD** về Công nghiệp 4.0, được MITI khởi động vào tháng 10/2018. Industry4WRD thúc đẩy các nhà sản xuất áp dụng tự động hóa, dữ liệu và các thực hành nhà máy thông minh, được hỗ trợ bởi các công cụ như Đánh giá Mức độ Sẵn sàng Industry4WRD và nguồn tài trợ bao gồm **Quỹ Can thiệp Industry4WRD** (một khoản tài trợ đối ứng, được báo cáo ở mức 70:30 và trần RM500.000) và **Quỹ Chiến lược Đầu tư Nội địa** (được báo cáo ở mức 60:40) cho các hãng hoàn thành đánh giá. Các tham số này nên được xác nhận với hướng dẫn ưu đãi hiện hành của MIDA. Định hướng bao trùm nay đến từ **Kế hoạch Tổng thể Công nghiệp Mới (NIMP) 2030** và, cho nhánh thiết bị bán dẫn, **Chiến lược Bán dẫn Quốc gia**, cả hai đều đẩy Malaysia hướng tới máy móc giá trị cao hơn, công nghệ cao hơn — bao gồm thiết bị bán dẫn khâu trước.
+Vì M&E là một ngành công nghệ cao ưu tiên của MIDA, các dự án đủ điều kiện được hưởng các ưu đãi đầu tư, và lĩnh vực này là một bên hưởng lợi trung tâm của chính sách quốc gia **Industry4WRD** về Công nghiệp 4.0, được MITI khởi động vào tháng 10/2018. Industry4WRD thúc đẩy các nhà sản xuất áp dụng tự động hóa, dữ liệu và các thực hành nhà máy thông minh, được hỗ trợ bởi các công cụ như Đánh giá Mức độ Sẵn sàng Industry4WRD và nguồn tài trợ bao gồm **Quỹ Can thiệp Industry4WRD** (một khoản tài trợ đối ứng, được báo cáo ở mức 70:30 và trần RM500.000) và **Quỹ Chiến lược Đầu tư Nội địa** (được báo cáo ở mức 60:40) cho các hãng hoàn thành đánh giá. Các tham số này nên được xác nhận với hướng dẫn ưu đãi hiện hành của MIDA. Định hướng bao trùm nay đến từ **Kế hoạch Tổng thể Công nghiệp Mới (NIMP) 2030** và, cho nhánh thiết bị bán dẫn, **[Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy/)**, cả hai đều đẩy Malaysia hướng tới máy móc giá trị cao hơn, công nghệ cao hơn — bao gồm thiết bị bán dẫn khâu trước.
 
 ## Triển vọng
 

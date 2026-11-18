@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ framework: profile
 
 말레이시아는 흔히 "칩 국가"로 묘사되는데, 이는 사실이면서도 약간 오해를 부르기도 합니다. 이 나라는 반도체에서 진정한 중량급이지만 — 압도적으로 산업의 **후공정**, 즉 실리콘 웨이퍼가 다른 곳에서 제조된 칩의 조립·검사·패키징(ATP)에 있어서입니다. 그 구분을 이해하는 것이 말레이시아의 강점과 야망을 모두 이해하는 열쇠입니다.
 
-이 가이드는 말레이시아가 칩 공급망에서 실제로 무엇을 하는지, 어디에서 하는지, 규모가 얼마나 되는지, 그리고 국가반도체전략이 무엇을 바꾸려 하는지를 설명합니다.
+이 가이드는 말레이시아가 칩 공급망에서 실제로 무엇을 하는지, 어디에서 하는지, 규모가 얼마나 되는지, 그리고 [국가반도체전략](/ko/industries/semiconductor-industry-national-strategy)이 무엇을 바꾸려 하는지를 설명합니다.
 
 ## 말레이시아는 칩 공급망에서 실제로 무엇을 하는가?
 

@@ -146,7 +146,7 @@ These interconnected zones — Pengerang, Kerteh and Gebeng especially — give 
 
 Investment and licensing run through the [Malaysian Investment Development Authority (MIDA)](/en/government/mida/), whose **Chemical and Advanced Material Division** evaluates manufacturing-licence applications and administers incentives such as Pioneer Status and the Investment Tax Allowance; petroleum and petrochemical activities also fall under the **Petroleum Development Act 1974**. MIDA has described Malaysia as hosting over 100 petrochemical companies making a diverse range of products.
 
-The policy direction comes from two documents. The **New Industrial Master Plan 2030 (NIMP 2030)** is the national industrial-transformation blueprint, built on four missions (raising economic complexity, digitalisation, the net-zero push and economic security), with chemicals treated as a high-impact, high-growth segment addressed through a set of action plans. The **Chemical Industry Roadmap 2030** is its sector-specific companion, targeting the GDP-share and value uplift noted above and prioritising specialty chemicals.
+The policy direction comes from two documents. The **[New Industrial Master Plan 2030](/industries/new-industrial-master-plan-2030/) (NIMP 2030)** is the national industrial-transformation blueprint, built on four missions (raising economic complexity, digitalisation, the net-zero push and economic security), with chemicals treated as a high-impact, high-growth segment addressed through a set of action plans. The **Chemical Industry Roadmap 2030** is its sector-specific companion, targeting the GDP-share and value uplift noted above and prioritising specialty chemicals.
 
 ## Outlook
 

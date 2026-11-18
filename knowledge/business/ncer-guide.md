@@ -183,7 +183,7 @@ semiconductor supply chain — assembly, test, packaging, equipment, and the eng
 market that goes with it. Penang International Airport and Penang Port are adjacent. That
 agglomeration is the asset.
 
-But the **National Semiconductor Strategy**, launched by the Prime Minister on **28 May 2024** and
+But the **[National Semiconductor Strategy](/industries/semiconductor-industry-national-strategy)**, launched by the Prime Minister on **28 May 2024** and
 led by MITI, does not connect that cluster to NCER. The NSS mentions the north exactly once, and
 descriptively:
 

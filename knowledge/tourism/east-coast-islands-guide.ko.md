@@ -31,7 +31,7 @@ faq:
     a: "아니요. 해양공원 경계 내에서 낚시는 금지되며, 방문객은 산호 조각과 조개껍데기를 포함해 해양 생물의 어떤 부분도 — 살아 있든 죽었든 — 채집할 수 없고, 산호를 만지거나 밟거나 그 밖의 방식으로 훼손할 수도 없습니다."
 
 lang: "ko"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ framework: explainer
 
 ## 무엇이 이 섬들을 "해양공원"으로 만들며, 왜 그것이 여러분에게 중요합니까?
 
-보호 구역은 해변만이 아닙니다. 말레이시아의 해양공원은 관보에 지정된 각 섬 주변으로 **일반적으로 최저 해수면에서 2해리**까지 — 일부 트렝가누 섬은 **1해리** 경계로 — 뻗어 있으며, 어업법 1985(개정 1993)(Fisheries Act 1985 (Amended 1993))에 따라 **말레이시아 수산국(Department of Fisheries Malaysia)**이 관리합니다. 전국적으로 **49개 섬**이 해양공원으로 관보에 지정되어 있습니다.
+보호 구역은 해변만이 아닙니다. 말레이시아의 해양공원은 관보에 지정된 각 섬 주변으로 **일반적으로 최저 해수면에서 2해리**까지 — 일부 트렝가누 섬은 **1해리** 경계로 — 뻗어 있으며, 어업법 1985(개정 1993)(Fisheries Act 1985 (Amended 1993))에 따라 [**말레이시아 수산국**](/ko/agriculture/department-of-fisheries-malaysia)**(Department of Fisheries Malaysia)**이 관리합니다. 전국적으로 **49개 섬**이 해양공원으로 관보에 지정되어 있습니다.
 
 동해안에서 트렝가누의 해양공원은 네 개의 군도 — **풀라우 르당(Pulau Redang), 풀라우 프른티안(Pulau Perhentian), 풀라우 카파스(Pulau Kapas), 풀라우 텅골(Pulau Tenggol)** — 를 아우르며, 파항의 **티오만(Tioman)** 해양공원은 **9개 섬**의 무리입니다: 풀라우 티오만(Pulau Tioman), 풀라우 툴라이(Pulau Tulai), 풀라우 라바스(Pulau Labas), 풀라우 스포이(Pulau Sepoi), 풀라우 스리 부앗(Pulau Seri Buat), 풀라우 토콩 바하라(Pulau Tokong Bahara), 풀라우 굿(Pulau Gut), 풀라우 츠베(Pulau Cebeh), 풀라우 슴빌랑(Pulau Sembilang).
 

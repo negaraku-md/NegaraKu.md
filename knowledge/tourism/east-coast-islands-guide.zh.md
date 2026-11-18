@@ -31,7 +31,7 @@ faq:
     a: "不可以。海洋公园范围内禁止钓鱼，游客不得采集海洋生物的任何部分——无论死活——包括珊瑚碎片和贝壳，也不得触摸、踩踏或以其他方式破坏珊瑚。"
 
 lang: "zh"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ framework: explainer
 
 ## 是什么让这些岛屿成为"海洋公园"，这对你又为何重要？
 
-受保护区域不只是沙滩。马来西亚的海洋公园从每座宪报颁布岛屿周围的**最低海平面向外一般延伸两海里**——某些登嘉楼岛屿的边界为**一海里**——并由**马来西亚渔业局**根据**《1985年渔业法令（1993年修订）》**管理。全国共有**49座岛屿**被宪报颁布为海洋公园。
+受保护区域不只是沙滩。马来西亚的海洋公园从每座宪报颁布岛屿周围的**最低海平面向外一般延伸两海里**——某些登嘉楼岛屿的边界为**一海里**——并由[**马来西亚渔业局**](/zh/agriculture/department-of-fisheries-malaysia)根据**《1985年渔业法令（1993年修订）》**管理。全国共有**49座岛屿**被宪报颁布为海洋公园。
 
 在东海岸，登嘉楼的海洋公园涵盖四组群岛——**热浪岛（Pulau Redang）、停泊岛（Pulau Perhentian）、卡帕斯岛（Pulau Kapas）和登卡岛（Pulau Tenggol）**——而彭亨的**刁曼岛**海洋公园则是由**九座岛屿**组成的岛群：刁曼岛（Pulau Tioman）、图莱岛（Pulau Tulai）、拉巴斯岛（Pulau Labas）、瑟波依岛（Pulau Sepoi）、瑟里布亚岛（Pulau Seri Buat）、托孔巴哈拉岛（Pulau Tokong Bahara）、古特岛（Pulau Gut）、切贝岛（Pulau Cebeh）和森比朗岛（Pulau Sembilang）。
 

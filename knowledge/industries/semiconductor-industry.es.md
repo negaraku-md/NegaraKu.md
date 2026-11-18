@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ Si estás leyendo esto en un teléfono o una computadora portátil, hay una posi
 
 A menudo se describe a Malasia como una "nación de chips", lo cual es a la vez cierto y ligeramente engañoso. El país es un verdadero peso pesado en semiconductores, pero de forma abrumadora en el **back end** de la industria: el ensamblaje, las pruebas y el encapsulado (ATP) de chips cuyas obleas de silicio se fabrican en otros lugares. Comprender esa distinción es la clave para entender tanto la fortaleza de Malasia como su ambición.
 
-Esta guía explica qué hace realmente Malasia en la cadena de suministro de chips, dónde lo hace, qué tamaño tiene y qué intenta cambiar la Estrategia Nacional de Semiconductores.
+Esta guía explica qué hace realmente Malasia en la cadena de suministro de chips, dónde lo hace, qué tamaño tiene y qué intenta cambiar la [Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy).
 
 ## ¿Qué hace realmente Malasia en la cadena de suministro de chips?
 

@@ -28,7 +28,7 @@ faq:
     a: "不再举办。雪邦曾举办一级方程式大奖赛至2017年；如今该赛道以MotoGP及其他赛车运动赛事为重点。"
 
 lang: "zh"
-sourceContentHash: "e8c2bc7d28bb0f71"
+sourceContentHash: "447129692593155d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,7 +83,7 @@ framework: profile
 
 大多数备受瞩目的赛事都围绕位于武吉加里尔的**吉隆坡体育城**（Kuala Lumpur Sports City，前称国家体育中心）展开，距吉隆坡市中心约20分钟车程，距武吉加里尔轻快铁（LRT）站步行三分钟。该综合体在同一区域内容纳了TM国家体育场、国家曲棍球体育场、国家水上运动中心、Axiata/Unifi竞技馆、国家壁球中心及斯里布特拉大厅（Dewan Sri Putra）。
 
-另外两座重要场馆位于武吉加里尔之外：位于森美兰州汝来的**马来西亚国家自行车馆**，以及位于雪兰莪州雪邦的**雪邦国际赛道**。
+另外两座重要场馆位于武吉加里尔之外：位于森美兰州汝来的[**马来西亚国家自行车馆**](/zh/sports/track-cycling-velodrome-malaysia)，以及位于雪兰莪州雪邦的**雪邦国际赛道**。
 
 ## 每座场馆的容量与功能如何？
 

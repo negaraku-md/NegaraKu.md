@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) giữ vai trò nhà nhập khẩu gạo duy nhất của đất nước, một vai trò được kế thừa từ Ủy ban Lúa và Gạo Quốc gia (LPN), vốn tiếp quản việc nhập khẩu gạo và trở thành nhà nhập khẩu duy nhất vào năm 1974 sau cuộc khủng hoảng lương thực thế giới 1973. BERNAS cũng quản lý kho đệm gạo quốc gia và hỗ trợ các nhà xay xát Bumiputera. Nó được tư nhân hóa vào ngày 12 tháng 1 năm 1996."
 
 lang: "vi"
-sourceContentHash: "ed4546075e84eef3"
+sourceContentHash: "8f44d2a10fa14edb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Ba lớp chính nâng đỡ thu nhập của nông dân:
 2. **Trợ cấp Giá Lúa.** Khoản chi trả thêm cho mỗi tấn lúa được bán được nâng lên **RM500 mỗi tấn** (từ RM360). Đó là một khoản trợ cấp dựa trên sản xuất — bán càng nhiều lúa, càng nhận nhiều hỗ trợ.
 3. **Trợ cấp đầu vào.** Chính phủ phân bổ **RM2.6 tỷ** trong Ngân sách 2024 cho các khoản trợ cấp và khuyến khích khác nhau cho nông dân trồng lúa cùng ngư dân, bao gồm phân bón, thuốc trừ sâu và chi phí sản xuất.
 
-Còn ở cuối chuỗi là **BERNAS** (Padiberas Nasional Berhad). Công ty này giữ vai trò nhà nhập khẩu gạo duy nhất của đất nước — một trách nhiệm được kế thừa từ Ủy ban Lúa và Gạo Quốc gia (LPN), vốn tiếp quản vai trò nhập khẩu gạo và trở thành nhà nhập khẩu duy nhất vào năm 1974 sau cuộc khủng hoảng lương thực thế giới 1973. Đổi lại, BERNAS gánh các nghĩa vụ xã hội như quản lý kho đệm gạo quốc gia, mua lúa của nông dân với giá được bảo đảm, và hỗ trợ các nhà xay xát Bumiputera. BERNAS được tư nhân hóa vào ngày **12 tháng 1 năm 1996** và sau đó được niêm yết tại Bursa Malaysia.
+Còn ở cuối chuỗi là **[BERNAS](/vi/agriculture/bernas-rice-import-monopoly/)** (Padiberas Nasional Berhad). Công ty này giữ vai trò nhà nhập khẩu gạo duy nhất của đất nước — một trách nhiệm được kế thừa từ Ủy ban Lúa và Gạo Quốc gia (LPN), vốn tiếp quản vai trò nhập khẩu gạo và trở thành nhà nhập khẩu duy nhất vào năm 1974 sau cuộc khủng hoảng lương thực thế giới 1973. Đổi lại, BERNAS gánh các nghĩa vụ xã hội như quản lý kho đệm gạo quốc gia, mua lúa của nông dân với giá được bảo đảm, và hỗ trợ các nhà xay xát Bumiputera. BERNAS được tư nhân hóa vào ngày **12 tháng 1 năm 1996** và sau đó được niêm yết tại Bursa Malaysia.
 
 ## Tại sao các mục tiêu này khó đạt được?
 

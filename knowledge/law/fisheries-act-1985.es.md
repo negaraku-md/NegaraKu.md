@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ Esta guía ofrece una visión general en lenguaje sencillo de qué hace la Ley, 
 
 La Ley de Pesca de 1985 es la **principal ley federal de Malasia sobre pesca y conservación marina**. Reemplazó a legislación pesquera anterior y reunió la concesión de licencias de pesca, la gestión de los recursos pesqueros y la protección de los hábitats marinos bajo un único marco. La Ley está organizada en varias Partes; los parques y reservas marinas se tratan específicamente en la **Part IX**.
 
-La administra el **Departamento de Pesca de Malasia** (Jabatan Perikanan Malaysia), encabezado por el **Director General de Pesca**, que coordina y supervisa los asuntos de pesca y de parques marinos en aguas malasias.
+La administra el [**Departamento de Pesca de Malasia**](/es/agriculture/department-of-fisheries-malaysia/) (Jabatan Perikanan Malaysia), encabezado por el **Director General de Pesca**, que coordina y supervisa los asuntos de pesca y de parques marinos en aguas malasias.
 
 ## Licencias: la pesca es una actividad permitida, no libre para todos
 

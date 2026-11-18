@@ -36,7 +36,7 @@ faq:
     a: "식품 시설은 식품위생규정 2009에 따라 관리됩니다. 소비자는 뜨겁고 신선한 음식을 내는 A 또는 B 등급 노점을 고르고, 보통 게시된 등급 표시를 확인하도록 권장됩니다."
 
 lang: "ko"
-sourceContentHash: "1f2264f16a54722d"
+sourceContentHash: "12c4c2eb45b43df9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,7 +101,7 @@ framework: explainer
 
 **파사르 말람**(pasar malam, 야시장)은 오후부터 밤까지 나타나는 이동 시장으로, 보통 매주 특정 요일에 같은 지역에서 열립니다. 바로 먹는 조리 음식, 과일, 채소, 의류, 심지어 생활용품까지 온갖 것을 팝니다. 많은 사람에게 파사르 말람은 단순히 식재료를 사는 곳이 아니라 값싸고 활기찬 저녁 식사 장소입니다.
 
-**파사르 타니**(pasar tani, 농민 시장)는 FAMA(연방농산물유통청, Lembaga Pemasaran Pertanian Persekutuan) 산하의 공식 프로그램입니다. 그 개념은 「생산자와 소비자가 만나는 곳」 — 농부와 소상공인이 중간 상인을 거치지 않고 구매자에게 농산물을 직접 파는 것입니다. 보통 아침부터 정오까지 열립니다.
+**파사르 타니**(pasar tani, 농민 시장)는 [FAMA](/ko/agriculture/fama-agricultural-marketing-authority/)(연방농산물유통청, Lembaga Pemasaran Pertanian Persekutuan) 산하의 공식 프로그램입니다. 그 개념은 「생산자와 소비자가 만나는 곳」 — 농부와 소상공인이 중간 상인을 거치지 않고 구매자에게 농산물을 직접 파는 것입니다. 보통 아침부터 정오까지 열립니다.
 
 **파사르 바사**(pasar basah, 재래·수산 시장)는 이른 새벽부터 운영되는 고정 시장으로, 신선한 고기, 생선, 닭, 채소를 팝니다. 그 이름은 얼음과 해산물을 씻는 물로 바닥이 늘 젖어 있는 데서 왔습니다. 파사르 바사는 매일 신선한 재료를 원하는 가정과 식당 운영자의 부엌의 중심입니다.
 

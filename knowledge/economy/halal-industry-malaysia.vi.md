@@ -29,7 +29,7 @@ faq:
     a: "Xuất khẩu sản phẩm halal của Malaysia đạt RM61.79 tỷ vào năm 2024, tăng 15% so với RM53.72 tỷ năm 2023 (MITI). Trong giai đoạn tháng 1–9 năm 2024, xuất khẩu trị giá RM45.04 tỷ so với RM39.36 tỷ trong cùng kỳ năm 2023 (MITI/MIDA)."
 
 lang: "vi"
-sourceContentHash: "1b16a223e725d8d1"
+sourceContentHash: "df3f9fe9e6326bd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -120,7 +120,7 @@ Theo tham chiếu của Bộ Tài chính, khoảng **13,5%** trong số xuất k
 
 ## Vai trò của HDC và chiến lược trung tâm halal toàn cầu là gì?
 
-Đằng sau việc chứng nhận, Malaysia xây dựng một hệ sinh thái phát triển halal. **Halal Development Corporation (HDC)**, một cơ quan trong phạm vi Bộ Đầu tư, Thương mại và Công nghiệp (MITI), đóng vai trò điều phối phát triển các khu công viên halal, đào tạo và khuyến khích ngành — trong khi sứ mệnh cấp chứng nhận vẫn thuộc JAKIM. Tham chiếu của Bộ Tài chính ghi nhận đầu tư tích lũy vào các khu công viên halal là **RM16.1 tỷ kể từ năm 2011**, với 295 công ty hoạt động trải rộng 21 khu công viên halal.
+Đằng sau việc chứng nhận, Malaysia xây dựng một hệ sinh thái phát triển halal. **[Halal Development Corporation (HDC)](/vi/industries/halal-industry-economy)**, một cơ quan trong phạm vi Bộ Đầu tư, Thương mại và Công nghiệp (MITI), đóng vai trò điều phối phát triển các khu công viên halal, đào tạo và khuyến khích ngành — trong khi sứ mệnh cấp chứng nhận vẫn thuộc JAKIM. Tham chiếu của Bộ Tài chính ghi nhận đầu tư tích lũy vào các khu công viên halal là **RM16.1 tỷ kể từ năm 2011**, với 295 công ty hoạt động trải rộng 21 khu công viên halal.
 
 Khát vọng dài hạn được dẫn dắt bởi Kế hoạch Tổng thể Ngành công nghiệp Halal (HIMP) 2030, vốn đặt ra các mục tiêu tăng trưởng nhằm mở rộng sự tham gia của Malaysia trong thị trường halal toàn cầu. Theo **Kế hoạch Malaysia lần thứ 13 (RMK-13)** được trình bày ngày 31 tháng 7 năm 2025, chính phủ nhắm tới xuất khẩu halal **RM80 tỷ** và đóng góp **11%** vào GDP. Trong số các biện pháp được công bố có việc thành lập **một ủy ban halal** cùng việc phát triển các khu công nghiệp halal mới ở Melaka, Perak và Kelantan.
 

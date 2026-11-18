@@ -29,7 +29,7 @@ faq:
     a: "RM2짜리 Sports Toto 베팅의 경우, 8%(16센)가 게임세로, 추가로 8%(14.72센)가 풀 베팅 세금으로 공제되며, 약 55%(RM1.10)가 상금으로 배정됩니다."
 
 lang: "ko"
-sourceContentHash: "156aadc5edee33a0"
+sourceContentHash: "cc5076fd23598c28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,7 +106,7 @@ Sports Toto, Magnum, Da Ma Cai 같은 숫자 예측 운영자(Number Forecast Op
 - **상금** — 약 55%(RM1.10)가 당첨자에게 상금으로 배정됩니다.
 - **SST** — 약 4.39센을 업계가 부담합니다.
 
-이 외에, NFO 업계는 **세전 이익의 10%**를 국가체육위원회(Majlis Sukan Negara)에 기여하며, 다른 회사와 마찬가지로 여전히 24% 법인세(거주 회사 표준 세율)의 대상이 됩니다.
+이 외에, NFO 업계는 **세전 이익의 10%**를 [국가체육위원회](/ko/sports/national-sports-council-msn)(Majlis Sukan Negara)에 기여하며, 다른 회사와 마찬가지로 여전히 24% 법인세(거주 회사 표준 세율)의 대상이 됩니다.
 
 즉, 운영자가 운영 비용과 이익을 계산하기 전에, 이미 각 베팅의 큰 부분이 정부와 국가 체육 기금으로 흘러갑니다.
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang pindah ke Malaysia bersama anjing atau kucing, atau membawa masuk seekor hewan untuk tujuan lain apa pun, yang perlu merencanakan proses izin dan karantina sebelum berangkat."
 
 lang: "id"
-sourceContentHash: "f0c824b1e97a05f2"
+sourceContentHash: "e8342975e300c615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,7 +75,7 @@ stayFacts:
 
 Penerbangan Anda sudah dipesan, kotak-kotak Anda sudah dikemas, dan kemudian terlintas di pikiran Anda: bagaimana dengan anjing itu. Di Malaysia, hewan peliharaan tidak boleh sekadar menumpang dalam ruang kargo — ia memerlukan izin yang disetujui sebelum berangkat, mikrocip yang memenuhi standar ISO tertentu, dan kemungkinan besar seminggu atau lebih dalam karantina sebelum Anda mendapatkannya kembali.
 
-Peraturan-peraturan ini berada di bawah dua lembaga. Department of Veterinary Services (DVS) — Departemen Layanan Veteriner — menetapkan syarat-syarat biosekuriti: usia, vaksinasi, sertifikasi kesehatan, masa karantina. Malaysian Quarantine and Inspection Services (MAQIS) yang sebenarnya menerbitkan izin impor dan mengelola stasiun-stasiun karantina. Dalam praktiknya, Anda kebanyakannya berurusan dengan MAQIS.
+Peraturan-peraturan ini berada di bawah dua lembaga. [Department of Veterinary Services](/id/agriculture/livestock-poultry-industry/) (DVS) — Departemen Layanan Veteriner — menetapkan syarat-syarat biosekuriti: usia, vaksinasi, sertifikasi kesehatan, masa karantina. Malaysian Quarantine and Inspection Services (MAQIS) yang sebenarnya menerbitkan izin impor dan mengelola stasiun-stasiun karantina. Dalam praktiknya, Anda kebanyakannya berurusan dengan MAQIS.
 
 ## Apa yang harus dipenuhi sebelum hewan itu berangkat
 

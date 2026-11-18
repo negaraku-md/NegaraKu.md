@@ -31,7 +31,7 @@ faq:
   - q: Malaysia có mạnh ở các kim loại khác ngoài thép không?
     a: Có. Về kim loại màu, Malaysia có sức cạnh tranh toàn cầu. Press Metal, đặt tại Sarawak, là nhà sản xuất nhôm tích hợp lớn nhất Đông Nam Á, và Malaysia Smelting Corporation nằm trong số các nhà sản xuất thiếc tinh luyện hàng đầu thế giới, một di sản của lịch sử khai thác thiếc lâu đời của đất nước.
 lang: vi
-sourceContentHash: "cd0cc445b02691a0"
+sourceContentHash: "156a3076c2c92ad0"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published

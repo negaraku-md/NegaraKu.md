@@ -45,7 +45,7 @@ verificationNeeded:
   - "Con số được lưu truyền rộng rãi là RM435 tỷ xuất khẩu của Penang, hay 31 phần trăm của quốc gia, không thể gắn với bất kỳ trang chính thức nào."
 
 lang: "vi"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -279,7 +279,7 @@ năm 2026**, với các đơn mới được đánh giá theo **New Incentive Fr
 2026**. Các phê duyệt hiện có không bị ảnh hưởng, nhưng một kế hoạch vẫn viết là *nộp đơn xin
 Pioneer Status trong FIZ* là đang lập kế hoạch chống lại một cửa đã đóng.
 
-**National Semiconductor Strategy** ngày 28 tháng 5 năm 2024 của MITI cũng nêu cùng điểm: nó
+**[National Semiconductor Strategy](/vi/industries/semiconductor-industry-national-strategy)** ngày 28 tháng 5 năm 2024 của MITI cũng nêu cùng điểm: nó
 đề cập Bayan Lepas một lần, một cách mô tả, và không phân bổ gì theo địa lý. Chiều sâu về lắp
 ráp, kiểm thử và đóng gói của cụm là tài sản. Sự chỉ định là hệ thống đường ống.
 

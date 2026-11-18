@@ -45,7 +45,7 @@ verificationNeeded:
   - "Trang các ưu đãi của chính ECERDC tại ecerdc.com.my trả về lỗi 404, nên phát biểu hiện hành của ECERDC về lối ưu đãi của chính nó không thể có được."
 
 lang: "vi"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -159,7 +159,7 @@ Malaysia" là thương hiệu về sau và không xuất hiện ở đâu trong 
 
 | Hành lang | Các lĩnh vực mục tiêu | Sức hút thực sự |
 | --- | --- | --- |
-| NCER | Bán dẫn, điện và điện tử, nông nghiệp, du lịch | Cụm Kulim, Batu Kawan và Bayan Lepas — **sự tích tụ, không phải quyền lợi pháp lý**. National Semiconductor Strategy không đề cập NCER ở đâu cả |
+| NCER | Bán dẫn, điện và điện tử, nông nghiệp, du lịch | Cụm Kulim, Batu Kawan và Bayan Lepas — **sự tích tụ, không phải quyền lợi pháp lý**. [National Semiconductor Strategy](/vi/industries/semiconductor-industry-national-strategy) không đề cập NCER ở đâu cả |
 | ECER | Hóa dầu, sản xuất, chế biến nông sản, du lịch, logistics | MCKIP, Cảng Kuantan như một **Khu Thương mại Tự do** đã đăng công báo, và ECRL |
 | Iskandar Malaysia | Dịch vụ tài chính, logistics, du lịch, y tế, giáo dục, sáng tạo | Sự gần gũi với Singapore, và gói **JS-SEZ** phủ lên |
 | SDC | Nông nghiệp, dầu cọ khâu sau, du lịch, logistics | SDC Blueprint 2.0, bao trùm **2021 đến 2030** |

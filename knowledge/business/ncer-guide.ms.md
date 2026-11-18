@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4221d6f415c3fa4d"
+sourceContentHash: "820c7e23185245ed"
 
 status: "published"
 aiAssisted: true
@@ -190,7 +190,7 @@ semikonduktor paling mendalam di Malaysia — pemasangan, ujian, pembungkusan, p
 buruh kejuruteraan yang menyertainya. Lapangan Terbang Antarabangsa Pulau Pinang dan Pelabuhan Pulau
 Pinang berdekatan. Aglomerasi itulah asetnya.
 
-Tetapi **Strategi Semikonduktor Kebangsaan**, yang dilancarkan oleh Perdana Menteri pada **28 Mei
+Tetapi **[Strategi Semikonduktor Kebangsaan](/industries/semiconductor-industry-national-strategy)**, yang dilancarkan oleh Perdana Menteri pada **28 Mei
 2024** dan diterajui MITI, tidak menghubungkan kluster itu dengan NCER. NSS menyebut utara tepat
 sekali sahaja, dan secara deskriptif:
 

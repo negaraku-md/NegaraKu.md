@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவின் தொழில்துறை புள்ளிவிவரங்களைத் துல்லியமாக வாசிக்க முயலும் முதலீட்டாளர்கள், வேலைதேடுவோர், கொள்கை பகுப்பாய்வாளர்கள் மற்றும் மாணவர்கள்."
 
 lang: "ta"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -246,8 +246,8 @@ Thirteenth Malaysia Plan (2026-2030) பின்வருவனவற்றை 
 RM54,870-இலிருந்து உயர்ந்துள்ளது. ஐந்து ஆண்டுகளில் RM77,200-க்கு உள்ள
 இடைவெளிதான் ஒட்டுமொத்தக் கொள்கைச் சிக்கல், ஒரே வரியில்.
 
-திட்டத்தில் குறிப்பிடப்பட்டுள்ள கருவிகள்: New Industrial Master Plan 2030,
-National Semiconductor Strategy மற்றும் [National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr).
+திட்டத்தில் குறிப்பிடப்பட்டுள்ள கருவிகள்: [New Industrial Master Plan 2030](/ta/industries/new-industrial-master-plan-2030),
+[National Semiconductor Strategy](/ta/industries/semiconductor-industry-national-strategy) மற்றும் [National Energy Transition Roadmap](/energy/national-energy-transition-roadmap-netr).
 உற்பத்தி இலக்கு உட்குறிப்பதைக் கவனியுங்கள்: பொருளாதாரம் 4.5-5.5% வளரும்போது
 உற்பத்தி 5.8% வளர வேண்டுமெனில், GDP-யில் அதன் பங்கு மீண்டும் உயரத் தொடங்க
 வேண்டும். தேக்கநிலை முடிவடைவது ஒரு முன்னறிவிப்பு அல்ல — அது ஒரு இலக்கு.

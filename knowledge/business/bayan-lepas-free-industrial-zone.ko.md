@@ -45,7 +45,7 @@ verificationNeeded:
   - "널리 인용되는 페낭 수출액 RM4,350억(전국의 31퍼센트)이라는 수치는 어떤 공식 페이지와도 연결할 수 없었습니다."
 
 lang: "ko"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -288,7 +288,7 @@ Incentive Framework)**에 따라 평가됩니다. 기존 승인은 영향을 받
 *FIZ에서 파이오니어 지위를 신청하라*고 적힌 계획은 닫힌 창구에 대고 계획하는
 것입니다.
 
-2024년 5월 28일자 MITI의 **국가 반도체 전략(National Semiconductor Strategy)**도
+2024년 5월 28일자 MITI의 **[국가 반도체 전략](/ko/industries/semiconductor-industry-national-strategy)(National Semiconductor Strategy)**도
 같은 점을 지적합니다. 이는 바얀르파스를 서술적으로 한 번 언급할 뿐, 지리적으로
 아무것도 배정하지 않습니다. 클러스터의 조립·시험·패키징 역량이 자산입니다. 그
 지정은 배관일 뿐입니다.

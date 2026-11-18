@@ -31,7 +31,7 @@ faq:
   - q: Có những ưu đãi nào cho nhà sản xuất?
     a: Thiết bị y tế là một hoạt động được MIDA thúc đẩy, đủ điều kiện cho các ưu đãi như Vị thế Tiên phong (Pioneer Status, miễn thuế thu nhập một phần đến toàn bộ trong một thời hạn nhất định) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance) trên chi tiêu vốn đủ điều kiện. Thiết bị y tế cũng được nêu tên là ngành ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới 2030. Xác nhận các điều khoản và điều kiện hiện hành trực tiếp với MIDA.
 lang: vi
-sourceContentHash: "0f609e23d14a24f5"
+sourceContentHash: "7fd1c6521ba9829e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -149,7 +149,7 @@ Bên cạnh các đa quốc gia là một lớp nhà sản xuất nội địa �
 
 Thiết bị y tế ở Malaysia được điều tiết bởi **Cơ quan Quản lý Thiết bị Y tế (MDA)**, một cơ quan theo luật định thuộc **Bộ Y tế**. MDA được thành lập theo **Đạo luật Cơ quan Quản lý Thiết bị Y tế 2012 (Act 738)** và thực thi **Đạo luật Thiết bị Y tế 2012 (Act 737)**. Theo khung này, thiết bị được phân loại rủi ro **A đến D**, phải được **đăng ký** trước khi đưa ra thị trường, và các doanh nghiệp làm ra, nhập khẩu, phân phối hoặc đại diện cho chúng phải có **giấy phép cơ sở**. Nhà sản xuất nước ngoài không có hiện diện tại chỗ phải chỉ định một **đại diện được ủy quyền** trong nước, và việc nộp hồ sơ được thực hiện qua hệ thống trực tuyến của MDA (MeDC@St).
 
-Về phía đầu tư, thiết bị y tế là một **hoạt động được MIDA thúc đẩy** trong không gian khoa học đời sống và medtech. Nhà sản xuất có thể xin các ưu đãi chủ đạo như **Vị thế Tiên phong** (miễn một phần đến toàn bộ thu nhập theo luật định trong một thời hạn nhất định) và **Trợ cấp Thuế Đầu tư** trên chi tiêu vốn đủ điều kiện, như nêu trong hướng dẫn của MIDA; các mức và điều kiện chính xác luôn nên được xác nhận với MIDA vì danh sách hoạt động được thúc đẩy và các điều khoản thay đổi theo thời gian. Lĩnh vực này cũng được nêu tên là ưu tiên theo **Kế hoạch Tổng thể Công nghiệp Mới 2030**, vốn nhằm đẩy Malaysia hướng tới chế tạo giá trị cao hơn, nội địa hóa nhiều hơn. Xem hồ sơ về [MIDA](/vi/government/mida/) về cách cơ quan này quản lý các ưu đãi đó.
+Về phía đầu tư, thiết bị y tế là một **hoạt động được MIDA thúc đẩy** trong không gian khoa học đời sống và medtech. Nhà sản xuất có thể xin các ưu đãi chủ đạo như **Vị thế Tiên phong** (miễn một phần đến toàn bộ thu nhập theo luật định trong một thời hạn nhất định) và **Trợ cấp Thuế Đầu tư** trên chi tiêu vốn đủ điều kiện, như nêu trong hướng dẫn của MIDA; các mức và điều kiện chính xác luôn nên được xác nhận với MIDA vì danh sách hoạt động được thúc đẩy và các điều khoản thay đổi theo thời gian. Lĩnh vực này cũng được nêu tên là ưu tiên theo [**Kế hoạch Tổng thể Công nghiệp Mới 2030**](/vi/industries/new-industrial-master-plan-2030/), vốn nhằm đẩy Malaysia hướng tới chế tạo giá trị cao hơn, nội địa hóa nhiều hơn. Xem hồ sơ về [MIDA](/vi/government/mida/) về cách cơ quan này quản lý các ưu đãi đó.
 
 ## Triển vọng
 

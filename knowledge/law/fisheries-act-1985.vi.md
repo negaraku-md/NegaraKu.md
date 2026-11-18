@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ Hướng dẫn này cung cấp một cái nhìn tổng quan bằng ngôn ngữ d
 
 Đạo luật Nghề cá 1985 là **luật liên bang chính của Malaysia về nghề cá và bảo tồn biển**. Nó thay thế các văn bản luật nghề cá trước đây và đưa việc cấp phép đánh bắt cá, quản lý tài nguyên nghề cá, và bảo vệ các môi trường sống biển vào một khuôn khổ duy nhất. Đạo luật được tổ chức thành nhiều Phần (Parts); các công viên biển và khu bảo tồn biển được xử lý cụ thể trong **Part IX**.
 
-Nó được quản lý bởi **Cục Nghề cá Malaysia (Department of Fisheries Malaysia)** (Jabatan Perikanan Malaysia), đứng đầu là **Tổng Giám đốc Nghề cá (Director-General of Fisheries)**, người điều phối và giám sát các vấn đề về nghề cá và công viên biển trong vùng biển Malaysia.
+Nó được quản lý bởi [**Cục Nghề cá Malaysia (Department of Fisheries Malaysia)**](/vi/agriculture/department-of-fisheries-malaysia/) (Jabatan Perikanan Malaysia), đứng đầu là **Tổng Giám đốc Nghề cá (Director-General of Fisheries)**, người điều phối và giám sát các vấn đề về nghề cá và công viên biển trong vùng biển Malaysia.
 
 ## Cấp phép: đánh bắt cá là hoạt động được cho phép, không phải tự do vô tổ chức
 

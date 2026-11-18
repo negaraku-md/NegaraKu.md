@@ -35,7 +35,7 @@ faq:
     a: "Los objetivos están vinculados al ciclo de los grandes juegos —los Juegos Olímpicos, los Juegos Asiáticos y los Juegos de la Commonwealth— y se da prioridad a los deportes identificados como de alta probabilidad de éxito, en consonancia con el Objetivo 8 de la Política Nacional del Deporte. La financiación se canaliza de forma cíclica (por ejemplo, RM60 millones al año durante cuatro años), coordinada por el Consejo Nacional del Deporte y respaldada por la ciencia deportiva del Instituto Nacional del Deporte."
 
 lang: "es"
-sourceContentHash: "7132b0584a8f785b"
+sourceContentHash: "d336fe0c30f91bdb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ La Política Nacional del Deporte de 2009 afirma con firmeza que los dos compone
 | Núcleo | Cultura de participación | Cultura de logro |
 | Meta | Un estilo de vida activo y saludable para la población | Excelencia en las competiciones internacionales |
 | Actividades de ejemplo | Carreras benéficas, aeróbic, juegos tradicionales | Entrenamiento de atletas nacionales para los Juegos Olímpicos y Asiáticos |
-| Agencia responsable | Departamento de Juventud y Deportes | Consejo Nacional del Deporte e Instituto Nacional del Deporte |
+| Agencia responsable | Departamento de Juventud y Deportes | [Consejo Nacional del Deporte](/es/sports/national-sports-council-msn) e Instituto Nacional del Deporte |
 | Medida de éxito | Tasa de participación comunitaria | Medallas y clasificación mundial |
 
 El Programa Podio se sitúa por completo en la columna de la derecha. No está diseñado para aumentar el número de personas que practican deporte; está diseñado para preparar a los atletas más elitistas del país de modo que tengan una posibilidad de ganar a nivel internacional.

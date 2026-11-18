@@ -33,7 +33,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "de6126fff54d2ff3"
+sourceContentHash: "83d6eea4b5eafcc6"
 
 status: "published"
 aiAssisted: true
@@ -153,7 +153,7 @@ Chambers) சட்ட இணையதளத்துடன் ஒப்பி�
 
 | ஒழுங்குமுறை அமைப்பு | நிர்வகிக்கும் சட்டம் | வழங்குவது | இணையதளம் |
 | --- | --- | --- | --- |
-| CIDB | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | ஒப்பந்ததாரர் பதிவு, பணியாளர் அங்கீகாரம் | cidb.gov.my |
+| [CIDB](/ta/industries/construction-industry) | Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Act 520) | ஒப்பந்ததாரர் பதிவு, பணியாளர் அங்கீகாரம் | cidb.gov.my |
 | மதிப்பீட்டாளர்கள், மதிப்பாய்வாளர்கள், அசையா சொத்து முகவர்கள் மற்றும் சொத்து மேலாளர்கள் வாரியம் | Valuers, Appraisers, Estate Agents and Property Managers Act 1981 (Act 242) — and Property Managers என்ற சொற்கள் Act A1550 மூலம் சேர்க்கப்பட்டன, 2018 ஜனவரி 2 அன்று நடைமுறைக்கு வந்தது | பதிவு மற்றும் பயிற்சிச் சான்றிதழ்கள் | lpeph.gov.my |
 | உள்ளூர் அதிகாரசபை | Town and Country Planning Act 1976 (Act 172) | திட்டமிடல் அனுமதி மற்றும் பயன்பாட்டு மாற்றம் | — |
 | உள்ளூர் அதிகாரசபை | Street, Drainage and Building Act 1974 (Act 133) | கட்டிடத் திட்ட அனுமதி, நிறைவு மற்றும் இணக்கச் சான்றிதழ் | — |

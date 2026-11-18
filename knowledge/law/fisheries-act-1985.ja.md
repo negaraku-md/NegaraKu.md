@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ framework: explainer
 
 1985年漁業法は、マレーシアの**漁業と海洋保全に関する主要な連邦法**である。それ以前の漁業法制に取って代わり、漁業の免許、漁業資源の管理、海洋生息地の保護を単一の枠組みのもとにまとめた。同法はいくつかのParts（部）に分かれて構成されており、海洋公園と海洋保護区は**Part IX（第IX部）**で特に扱われる。
 
-これは、漁業局長が率いる**マレーシア漁業局**（Jabatan Perikanan Malaysia）が所管し、同局長がマレーシア水域における漁業と海洋公園の事柄を調整し監督する。
+これは、漁業局長が率いる[**マレーシア漁業局**](/ja/agriculture/department-of-fisheries-malaysia/)（Jabatan Perikanan Malaysia）が所管し、同局長がマレーシア水域における漁業と海洋公園の事柄を調整し監督する。
 
 ## 免許――漁業は許可された活動であり、無制限ではない
 

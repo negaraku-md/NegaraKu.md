@@ -45,7 +45,7 @@ verificationNeeded:
   - "The widely circulated figure of RM435 billion of Penang exports, or 31 per cent of national, could not be tied to any official page."
 
 lang: "es"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -296,7 +296,7 @@ las nuevas solicitudes se evalúan conforme al **Nuevo Marco de Incentivos** des
 que todavía diga *solicitar el Estatus Pionero en la FIZ* planifica contra una ventana
 cerrada.
 
-La **Estrategia Nacional de Semiconductores** del MITI, del 28 de mayo de 2024, hace el
+La **[Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy)** del MITI, del 28 de mayo de 2024, hace el
 mismo punto: menciona Bayan Lepas una sola vez, de forma descriptiva, y no asigna nada
 geográficamente. La profundidad del clúster en ensamblaje, prueba y encapsulado es el
 activo. La designación es fontanería.

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "المستثمرون والباحثون عن عمل ومحللو السياسات والطلاب الذين يحاولون قراءة إحصاءات ماليزيا الصناعية بدقة."
 
 lang: "ar"
-sourceContentHash: "72ec467c3b342c14"
+sourceContentHash: "e50d18cc1ae3ffb7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -179,7 +179,7 @@ framework: explainer
 
 وتفيد DOSM بأن الدخل القومي الإجمالي للفرد بلغ RM57,200 في 2025، بارتفاع من RM54,870 في 2024. والفجوة إلى RM77,200 في خمس سنوات هي كامل مشكلة السياسات في سطر واحد.
 
-والأدوات المسمّاة في الخطة هي خطة التصنيع الرئيسية الجديدة 2030 (New Industrial Master Plan 2030)، والاستراتيجية الوطنية لأشباه الموصلات (National Semiconductor Strategy)، و[خارطة طريق انتقال الطاقة الوطنية](/energy/national-energy-transition-roadmap-netr). ولاحِظ ما يتضمّنه هدف التصنيع: فلكي ينمو التصنيع بنسبة 5.8% بينما ينمو الاقتصاد بنسبة 4.5-5.5%، يتعيّن أن تبدأ حصته من الناتج المحلي الإجمالي بالارتفاع من جديد. فنهاية الثبات ليست توقّعًا — بل هدفًا.
+والأدوات المسمّاة في الخطة هي [خطة التصنيع الرئيسية الجديدة 2030](/ar/industries/new-industrial-master-plan-2030) (New Industrial Master Plan 2030)، و[الاستراتيجية الوطنية لأشباه الموصلات](/ar/industries/semiconductor-industry-national-strategy) (National Semiconductor Strategy)، و[خارطة طريق انتقال الطاقة الوطنية](/energy/national-energy-transition-roadmap-netr). ولاحِظ ما يتضمّنه هدف التصنيع: فلكي ينمو التصنيع بنسبة 5.8% بينما ينمو الاقتصاد بنسبة 4.5-5.5%، يتعيّن أن تبدأ حصته من الناتج المحلي الإجمالي بالارتفاع من جديد. فنهاية الثبات ليست توقّعًا — بل هدفًا.
 
 ## الأخطاء الشائعة
 

@@ -31,7 +31,7 @@ faq:
     a: "Không. Đánh cá bị cấm trong ranh giới công viên biển, và du khách không được thu thập bất kỳ phần nào của một sinh vật biển — sống hay chết — bao gồm các mảnh san hô và vỏ sò, cũng không được chạm, đứng lên hoặc gây hư hại san hô theo cách khác."
 
 lang: "vi"
-sourceContentHash: "e6efc5cebf8ca4dd"
+sourceContentHash: "c7a68dc6da13f639"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,7 +80,7 @@ Perhentian, Redang, Kapas và Tioman là bốn đảo bãi biển mà hầu hế
 
 ## Điều gì khiến những đảo này là "công viên biển," và vì sao nó quan trọng với bạn?
 
-Khu vực được bảo vệ không chỉ là bãi biển. Các công viên biển của Malaysia kéo dài **nói chung hai hải lý từ mực nước biển thấp nhất** quanh mỗi đảo được công báo — với một ranh giới **một hải lý** đối với một số đảo Terengganu — và chúng do **Cục Nghề cá Malaysia** quản lý theo **Luật Nghề cá (Fisheries Act 1985) (sửa đổi 1993)**. Trên toàn quốc, **49 đảo** được công báo là các công viên biển.
+Khu vực được bảo vệ không chỉ là bãi biển. Các công viên biển của Malaysia kéo dài **nói chung hai hải lý từ mực nước biển thấp nhất** quanh mỗi đảo được công báo — với một ranh giới **một hải lý** đối với một số đảo Terengganu — và chúng do [**Cục Nghề cá Malaysia**](/vi/agriculture/department-of-fisheries-malaysia) quản lý theo **Luật Nghề cá (Fisheries Act 1985) (sửa đổi 1993)**. Trên toàn quốc, **49 đảo** được công báo là các công viên biển.
 
 Ở bờ đông, các công viên biển của Terengganu bao phủ bốn quần đảo — **Pulau Redang, Pulau Perhentian, Pulau Kapas và Pulau Tenggol** — trong khi công viên biển **Tioman** của Pahang là một cụm gồm **chín đảo**: Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh và Pulau Sembilang.
 

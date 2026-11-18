@@ -31,7 +31,7 @@ faq:
   - q: "Quelles incitations soutiennent l'investissement dans le textile et l'habillement ?"
     a: "La MIDA administre les approbations de licence de fabrication et les incitations fiscales pour le sous-secteur, qui est un domaine prioritaire du Nouveau Plan directeur industriel 2030 (NIMP 2030). À partir du premier trimestre 2026, les investissements admissibles relèvent d'un nouveau cadre d'incitations à l'investissement fondé sur les résultats (New Investment Incentive Framework), avec des incitations échelonnées liées à des résultats tels que la technologie, les compétences et les retombées locales. Confirmer les taux et conditions en vigueur auprès de la MIDA."
 lang: fr
-sourceContentHash: "33538782332736dd"
+sourceContentHash: "97b0b938d8bbc429"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -144,7 +144,7 @@ L'industrie s'inscrit dans le cadre plus large d'investissement manufacturier de
 
 Deux axes de politique importent spécifiquement ici :
 
-- **NIMP 2030.** Le Nouveau Plan directeur industriel 2030, lancé le 1er septembre 2023, cite le textile, l'habillement et la chaussure parmi ses sous-secteurs prioritaires et formule l'objectif comme une plus grande complexité économique, l'adoption de technologies et des progrès vers le zéro net plutôt qu'une production à bas coût.
+- **NIMP 2030.** Le [Nouveau Plan directeur industriel 2030](/fr/industries/new-industrial-master-plan-2030/), lancé le 1er septembre 2023, cite le textile, l'habillement et la chaussure parmi ses sous-secteurs prioritaires et formule l'objectif comme une plus grande complexité économique, l'adoption de technologies et des progrès vers le zéro net plutôt qu'une production à bas coût.
 - **Un nouveau cadre d'incitations.** À partir du premier trimestre 2026, les investissements admissibles dans le sous-secteur relèvent d'un **nouveau cadre d'incitations à l'investissement** dans lequel les incitations fiscales sont échelonnées et liées aux résultats — par exemple le niveau technologique, les compétences et les retombées locales — plutôt qu'accordées sous forme d'abattements forfaitaires. La MIDA administre également les approbations de licence de fabrication et continue de promouvoir des segments patrimoniaux tels que le batik.
 
 La MIDA a fait état d'un investissement approuvé d'environ **RM657 millions sur 28 projets** dans le sous-secteur lifestyle en 2025, générant quelque 1 222 emplois — un rappel que, bien que le secteur soit mature, il attire encore des capitaux frais.

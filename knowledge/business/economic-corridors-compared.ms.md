@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4e723b19c6d6a1a"
+sourceContentHash: "f45cf8bfda7abfa9"
 
 status: "published"
 aiAssisted: true
@@ -162,7 +162,7 @@ Perhatikan juga bahawa istilah berkanun bagi Iskandar ialah **"Iskandar Developm
 
 | Koridor | Sektor sasaran | Daya tarikan sebenar |
 | --- | --- | --- |
-| NCER | Semikonduktor, elektrik dan elektronik, pertanian, pelancongan | Kluster Kulim, Batu Kawan dan Bayan Lepas — **aglomerasi, bukan kelayakan undang-undang**. Strategi Semikonduktor Negara tidak menyebut NCER langsung |
+| NCER | Semikonduktor, elektrik dan elektronik, pertanian, pelancongan | Kluster Kulim, Batu Kawan dan Bayan Lepas — **aglomerasi, bukan kelayakan undang-undang**. [Strategi Semikonduktor Negara](/industries/semiconductor-industry-national-strategy) tidak menyebut NCER langsung |
 | ECER | Petrokimia, pembuatan, pemprosesan agro, pelancongan, logistik | MCKIP, Pelabuhan Kuantan sebagai **Zon Perdagangan Bebas** yang diwartakan, dan ECRL |
 | Iskandar Malaysia | Perkhidmatan kewangan, logistik, pelancongan, penjagaan kesihatan, pendidikan, kreatif | Kedekatan dengan Singapura, dan pakej **JS-SEZ** yang bertindih di atasnya |
 | SDC | Pertanian, hiliran minyak sawit, pelancongan, logistik | Pelan Induk SDC 2.0, meliputi **2021 hingga 2030** |

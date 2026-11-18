@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "354022a73d700dc8"
+sourceContentHash: "5004e184b2934476"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -102,7 +102,7 @@ Nếu bạn đang đọc bài này trên điện thoại hoặc máy tính xách
 
 Malaysia thường được mô tả là một "quốc gia chip", điều này vừa đúng vừa hơi gây hiểu lầm. Đất nước này là một tên tuổi hạng nặng thực sự trong lĩnh vực bán dẫn — nhưng áp đảo ở **khâu sau** (back end) của ngành, tức lắp ráp, kiểm thử và đóng gói (ATP) những con chip mà tấm wafer silicon của chúng được chế tạo ở nơi khác. Hiểu được sự phân biệt đó là chìa khóa để hiểu cả thế mạnh lẫn tham vọng của Malaysia.
 
-Hướng dẫn này giải thích Malaysia thực sự làm gì trong chuỗi cung ứng chip, làm ở đâu, quy mô ra sao, và Chiến lược Bán dẫn Quốc gia đang cố gắng thay đổi điều gì.
+Hướng dẫn này giải thích Malaysia thực sự làm gì trong chuỗi cung ứng chip, làm ở đâu, quy mô ra sao, và [Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy) đang cố gắng thay đổi điều gì.
 
 ## Malaysia thực sự làm gì trong chuỗi cung ứng chip?
 

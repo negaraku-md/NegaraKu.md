@@ -31,7 +31,7 @@ faq:
     a: "Sau hai lần trì hoãn, nó áp dụng cho các nhà điều hành lớn và vừa từ ngày 30 tháng 12 năm 2026, và cho các doanh nghiệp siêu nhỏ và nhỏ từ ngày 30 tháng 6 năm 2027. Ngày cắt phá rừng là 31 tháng 12 năm 2020."
 
 lang: "vi"
-sourceContentHash: "8402e69b6d7b51cb"
+sourceContentHash: "630a55603b7f639f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -160,7 +160,7 @@ Malaysia, nhà sản xuất dầu cọ lớn thứ hai thế giới, đã coi th
 
 Trước phá rừng, áp lực đến từ lao động. Cơ quan Hải quan và Bảo vệ Biên giới Hoa Kỳ (CBP) sử dụng các **Lệnh Giữ hàng (Withhold Release Orders, WRO)** — các lệnh cấm nhập khẩu được kích hoạt bởi lao động cưỡng bức bị nghi ngờ — và hai trong số đó đã giáng vào các nhà sản xuất lớn của Malaysia.
 
-CBP lần đầu ban hành một WRO đối với **FGV Holdings Berhad**, các công ty con và liên doanh của nó vào ngày **30 tháng 9 năm 2020**, về dầu cọ được sản xuất bằng lao động cưỡng bức. Ba tháng sau, vào ngày **30 tháng 12 năm 2020**, CBP ban hành một WRO đối với **[Sime Darby](/vi/companies/sime-darby-group) Plantation** — lệnh này dựa trên thông tin chỉ ra một cách hợp lý sự hiện diện của **tất cả 11 chỉ số về lao động cưỡng bức của Tổ chức Lao động Quốc tế** trong quy trình sản xuất của nó. CBP nâng lệnh Sime Darby lên một **Kết luận chính thức vào ngày 28 tháng 1 năm 2022**, khiến các lô hàng có nguy cơ bị tịch thu. Công ty đã cải tổ các thực hành lao động của mình, và vào ngày **3 tháng 2 năm 2023** CBP kết luận rằng nó không còn sử dụng lao động cưỡng bức và dỡ bỏ lệnh — chỉ hơn hai năm sau khi lệnh cấm bắt đầu.
+CBP lần đầu ban hành một WRO đối với **[FGV Holdings Berhad](/vi/agriculture/fgv-holdings-plantation-restructuring)**, các công ty con và liên doanh của nó vào ngày **30 tháng 9 năm 2020**, về dầu cọ được sản xuất bằng lao động cưỡng bức. Ba tháng sau, vào ngày **30 tháng 12 năm 2020**, CBP ban hành một WRO đối với **[Sime Darby](/vi/companies/sime-darby-group) Plantation** — lệnh này dựa trên thông tin chỉ ra một cách hợp lý sự hiện diện của **tất cả 11 chỉ số về lao động cưỡng bức của Tổ chức Lao động Quốc tế** trong quy trình sản xuất của nó. CBP nâng lệnh Sime Darby lên một **Kết luận chính thức vào ngày 28 tháng 1 năm 2022**, khiến các lô hàng có nguy cơ bị tịch thu. Công ty đã cải tổ các thực hành lao động của mình, và vào ngày **3 tháng 2 năm 2023** CBP kết luận rằng nó không còn sử dụng lao động cưỡng bức và dỡ bỏ lệnh — chỉ hơn hai năm sau khi lệnh cấm bắt đầu.
 
 Vụ việc cho thấy một cáo buộc về lao động có thể nhanh chóng loại một nhà sản xuất khỏi một thị trường lớn như thế nào, và đẩy ngành rộng hơn hướng tới các hồ sơ phúc lợi người lao động có thể kiểm toán — chính là mảnh đất mà MS 2530:2022 đã củng cố.
 

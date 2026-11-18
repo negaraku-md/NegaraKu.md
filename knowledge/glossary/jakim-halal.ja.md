@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 
 status: "published"
 aiAssisted: true
@@ -166,7 +166,7 @@ JAKIMのこの中心的な役割は、昔から変わらない固定的な地位
 
 多くの人がこの2つの機関を混同している。その違いは明確である。
 
-| 側面 | JAKIM | HDC（ハラル開発公社） |
+| 側面 | JAKIM | [HDC（ハラル開発公社）](/ja/industries/halal-industry-economy) |
 | --- | --- | --- |
 | 主な機能 | ハラル証明書の発行及び監査 | ハラル経済及び産業の発展 |
 | 認証権限 | あり（MAIN／JAINと共に） | なし——証明書は発行しない |

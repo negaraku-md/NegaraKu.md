@@ -72,7 +72,7 @@ keywords:
   - Department of Fisheries Malaysia
   - coral reef protection
   - prohibited fishing areas
-sourceContentHash: "141e6c8974042935"
+sourceContentHash: "f2c762da1677d669"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -94,7 +94,7 @@ Panduan ini memberikan gambaran keseluruhan dalam bahasa mudah tentang apa yang 
 
 Akta Perikanan 1985 ialah **undang-undang persekutuan utama Malaysia mengenai perikanan dan pemuliharaan marin**. Ia menggantikan perundangan perikanan terdahulu dan membawa pelesenan penangkapan ikan, pengurusan sumber perikanan, dan perlindungan habitat marin di bawah satu rangka kerja tunggal. Akta ini disusun kepada beberapa Bahagian; taman laut dan rizab laut dikendalikan secara khusus dalam **Bahagian IX** (Part IX).
 
-Ia ditadbir oleh **Jabatan Perikanan Malaysia** (Department of Fisheries Malaysia), yang diketuai oleh **Ketua Pengarah Perikanan**, yang menyelaras dan menyelia hal ehwal perikanan dan taman laut di perairan Malaysia.
+Ia ditadbir oleh [**Jabatan Perikanan Malaysia**](/agriculture/department-of-fisheries-malaysia/) (Department of Fisheries Malaysia), yang diketuai oleh **Ketua Pengarah Perikanan**, yang menyelaras dan menyelia hal ehwal perikanan dan taman laut di perairan Malaysia.
 
 ## Pelesenan: menangkap ikan ialah aktiviti yang dibenarkan, bukan bebas sesuka hati
 

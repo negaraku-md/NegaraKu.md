@@ -34,7 +34,7 @@ faq:
     a: "Các tên toàn cầu như Intel, AMD, Broadcom, Bosch và OSRAM hoạt động ở đây, cùng với các nhà sản xuất theo hợp đồng (EMS) như Jabil, Flex, Plexus, Sanmina và Benchmark, và các hãng nội địa bao gồm Inari Amertron."
 
 lang: "vi"
-sourceContentHash: "981590959ca6617e"
+sourceContentHash: "6d5304fd8585d336"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -141,7 +141,7 @@ Penang là câu chuyện khởi nguồn, nhưng nó không còn là toàn bộ b
 
 - **Penang (Bayan Lepas và Batu Kawan):** Vẫn là lõi — chất bán dẫn, ATP, và một cơ sở chế tạo theo hợp đồng sâu. Nơi có Intel, AMD, Broadcom, Bosch, OSRAM, Motorola và Lumileds, cùng các bên EMS như Jabil, Flex, Plexus, Sanmina, Benchmark và Inari Amertron, theo InvestPenang.
 - **Kulim, Kedah:** Kulim Hi-Tech Park, ngay bên kia ranh giới bang từ Penang, mở rộng cụm phía bắc với chế tạo điện tử tiên tiến — bao gồm nhà máy chip LED của OSRAM, nơi từ năm 2017 đã chạy chế tạo tấm wafer thực sự cho LED và microLED tại khu.
-- **Thung lũng Klang (Selangor và Kuala Lumpur), Melaka và Negeri Sembilan:** Cụm Trung tâm được New Industrial Master Plan 2030 lập bản đồ — vành đai công nghiệp Shah Alam và một hành lang điện tử phía nam, gần sân bay chính và trung tâm tài chính của đất nước hơn, đón các hãng như Sony, Panasonic, Samsung, Renesas và ON Semiconductor.
+- **Thung lũng Klang (Selangor và Kuala Lumpur), Melaka và Negeri Sembilan:** Cụm Trung tâm được [New Industrial Master Plan 2030](/vi/industries/new-industrial-master-plan-2030/) lập bản đồ — vành đai công nghiệp Shah Alam và một hành lang điện tử phía nam, gần sân bay chính và trung tâm tài chính của đất nước hơn, đón các hãng như Sony, Panasonic, Samsung, Renesas và ON Semiconductor.
 - **Johor:** Ngày càng liên quan khi sự lan tỏa từ Singapore láng giềng dẫn đầu tư trung tâm dữ liệu và điện tử mới vào phía nam; Johor Bahru thu hút RM9.8 tỷ đầu tư E&E được phê duyệt trong chín tháng đầu năm 2024, theo MIDA.
 
 Sự tập trung ở hành lang phía bắc — Penang cộng Kulim — là lý do vì sao vùng đó đôi khi được gọi là "Thung lũng Silicon" của Malaysia, dù sự so sánh tâng bốc thương hiệu nhiều hơn mô hình kinh doanh: thế mạnh của Malaysia trong lịch sử là ở chế tạo và các dịch vụ back-end chứ không phải thiết kế chip.
@@ -172,7 +172,7 @@ Một khu vực chi phối đến vậy mang những điểm dễ tổn thương
 
 ## Malaysia đang làm gì về điều đó? Chiến lược Bán dẫn Quốc gia
 
-Câu trả lời của chính phủ cho những điểm yếu này là Chiến lược Bán dẫn Quốc gia (National Semiconductor Strategy, NSS), được công bố vào năm 2024, với các chi tiết được Thủ tướng Anwar Ibrahim trình bày tại SEMICON Southeast Asia ở Kuala Lumpur vào ngày 28 tháng 5 năm 2024.
+Câu trả lời của chính phủ cho những điểm yếu này là [Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy/) (National Semiconductor Strategy, NSS), được công bố vào năm 2024, với các chi tiết được Thủ tướng Anwar Ibrahim trình bày tại SEMICON Southeast Asia ở Kuala Lumpur vào ngày 28 tháng 5 năm 2024.
 
 NSS về cơ bản là một kế hoạch leo lên chuỗi giá trị — thêm nhiều thiết kế, đóng gói tiên tiến và chế tạo tấm wafer vào cơ sở chế tạo hiện có của Malaysia. Theo MIDA, các cam kết tiêu đề của nó bao gồm:
 

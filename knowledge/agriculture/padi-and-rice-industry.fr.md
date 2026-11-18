@@ -27,7 +27,7 @@ faq:
   - q: "D'où provient le riz importé par la Malaisie ?"
     a: "L'essentiel des importations provient du Vietnam, de la Thaïlande, du Pakistan, de l'Inde et du Myanmar, selon BERNAS."
 lang: "fr"
-sourceContentHash: "522e3a6274830936"
+sourceContentHash: "5d102a726d64965e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -143,7 +143,7 @@ Cultiver le padi en Malaisie reste viable grâce au soutien de l'État plutôt q
 L'ampleur de l'implication de l'État se lit dans les chiffres concrets qui figurent au dossier :
 
 - Le gouvernement a dépensé environ **RM1 milliard** rien que dans la zone de **MADA**, la plus grande zone grenier du pays.
-- **BERNAS**, l'importateur de riz agréé, apporte **RM3.2 milliards** pour remplir dix obligations sociales imposées par le gouvernement. Elles comprennent **RM90 millions** d'aide aux agriculteurs en 2025 et **RM13 millions** redistribués des bénéfices de l'importation de riz, selon le vice-ministre de l'Agriculture et de la Sécurité alimentaire, Chan Foong Hin.
+- **[BERNAS](/fr/agriculture/bernas-rice-import-monopoly/)**, l'importateur de riz agréé, apporte **RM3.2 milliards** pour remplir dix obligations sociales imposées par le gouvernement. Elles comprennent **RM90 millions** d'aide aux agriculteurs en 2025 et **RM13 millions** redistribués des bénéfices de l'importation de riz, selon le vice-ministre de l'Agriculture et de la Sécurité alimentaire, Chan Foong Hin.
 
 Le système est aussi tarifé en gardant à l'esprit l'accessibilité du côté du consommateur : une étude ministérielle de six mois a établi qu'environ **15 % des Malaisiens** ont besoin de riz à un prix d'environ **RM26 le sac de 10 kg**, ce qui souligne pourquoi le contrôle des prix côtoie le soutien aux agriculteurs au sein de la même politique.
 
@@ -157,7 +157,7 @@ Ce modèle d'importateur unique n'est pas permanent. La concession **expire en 2
 
 ## Quels sont les objectifs d'autosuffisance de la Malaisie ?
 
-Le chiffre qui juge l'ensemble du système est le niveau d'autosuffisance, et la politique le fixe bien au-dessus de la réalité actuelle. Dans le cadre de la **Politique nationale agroalimentaire 2.0 (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, qui couvre **2021-2030**, la Malaisie vise :
+Le chiffre qui juge l'ensemble du système est le niveau d'autosuffisance, et la politique le fixe bien au-dessus de la réalité actuelle. Dans le cadre de la **[Politique nationale agroalimentaire 2.0](/fr/agriculture/food-security-self-sufficiency-policy/) (Dasar Agromakanan Negara 2.0 / DAN 2.0)**, qui couvre **2021-2030**, la Malaisie vise :
 
 | Jalon | Objectif d'autosuffisance rizicole |
 |---|---|

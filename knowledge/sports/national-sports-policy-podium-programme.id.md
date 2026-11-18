@@ -35,7 +35,7 @@ faq:
     a: "Target dikaitkan dengan siklus pesta olahraga utama — Olimpiade, Asian Games dan Commonwealth Games — dan fokus diberikan kepada olahraga yang diidentifikasi memiliki peluang keberhasilan tinggi, sejalan dengan Tujuan 8 Dasar Sukan Negara. Pembiayaan disalurkan menurut siklus (contohnya RM60 juta setahun untuk empat tahun), dikoordinasi oleh Majlis Sukan Negara dan didukung sains olahraga oleh Institut Sukan Negara."
 
 lang: "id"
-sourceContentHash: "7132b0584a8f785b"
+sourceContentHash: "d336fe0c30f91bdb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,7 +116,7 @@ Dasar Sukan Negara 2009 dengan tegas menyatakan bahwa dua komponen "harus dibang
 | Inti | Budaya partisipasi | Budaya pencapaian |
 | Tujuan | Gaya hidup aktif dan sehat untuk rakyat | Keunggulan di kompetisi internasional |
 | Contoh aktivitas | Lari amal, aerobik, permainan tradisional | Latihan atlet negara untuk Olimpiade dan Asian Games |
-| Agensi pemimpin | Jabatan Belia dan Sukan | Majlis Sukan Negara dan Institut Sukan Negara |
+| Agensi pemimpin | Jabatan Belia dan Sukan | [Majlis Sukan Negara](/id/sports/national-sports-council-msn) dan Institut Sukan Negara |
 | Ukuran keberhasilan | Tingkat partisipasi masyarakat | Medali dan peringkat dunia |
 
 Program Podium berada sepenuhnya di dalam kolom kanan. Ia tidak dirancang untuk menambah jumlah orang yang berolahraga; ia dirancang untuk mempersiapkan atlet paling elite negara agar berpeluang menang di tingkat internasional.

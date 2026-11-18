@@ -34,7 +34,7 @@ faq:
     a: "可以。海外制造商可申请 JAKIM 认证，或使用获 JAKIM 认可的外国清真认证机构所发出的证书。获认可机构名单由 JAKIM 审查及更新。"
 
 lang: "zh"
-sourceContentHash: "86854384949bcaf4"
+sourceContentHash: "6196735406d36f6f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -166,7 +166,7 @@ JAKIM 这一核心角色并非一成不变的旧有地位。根据官方的马�
 
 许多人把这两个机构混淆了。区别很清楚：
 
-| 方面 | JAKIM | HDC（清真发展机构） |
+| 方面 | JAKIM | [HDC（清真发展机构）](/zh/industries/halal-industry-economy) |
 | --- | --- | --- |
 | 主要职能 | 发出及审核清真证书 | 发展清真经济与产业 |
 | 认证权 | 有（连同 MAIN/JAIN） | 无——不发出证书 |

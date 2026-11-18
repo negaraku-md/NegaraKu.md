@@ -47,7 +47,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6475dc27ed25022d"
+sourceContentHash: "5680d6e20c45393d"
 
 status: "published"
 aiAssisted: true
@@ -270,7 +270,7 @@ baharu di bawah Akta Penggalakan Pelaburan 1986 pada **3.00 petang pada
 **1 Mac 2026**. Kelulusan sedia ada tidak terjejas, tetapi suatu rancangan yang masih berbunyi *mohon
 Taraf Perintis dalam FIZ* sedang merancang terhadap suatu tingkap yang telah ditutup.
 
-**Strategi Semikonduktor Kebangsaan** MITI bertarikh 28 Mei 2024 membuat perkara yang sama: ia menyebut
+**[Strategi Semikonduktor Kebangsaan](/industries/semiconductor-industry-national-strategy)** MITI bertarikh 28 Mei 2024 membuat perkara yang sama: ia menyebut
 Bayan Lepas sekali sahaja, secara deskriptif, dan tidak memperuntukkan apa-apa secara geografi. Kedalaman pemasangan,
 ujian dan pembungkusan kelompok itu ialah asetnya. Penetapan itu ialah paip.
 

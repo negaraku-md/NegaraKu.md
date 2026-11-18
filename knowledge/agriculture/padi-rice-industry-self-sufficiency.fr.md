@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) détient le rôle d'importateur unique de riz du pays, un rôle hérité du Conseil national du padi et du riz (LPN), qui a repris les importations de riz et est devenu l'importateur unique en 1974 à la suite de la crise alimentaire mondiale de 1973. BERNAS gère aussi le stock tampon national de riz et soutient les meuniers bumiputera. Elle a été privatisée le 12 janvier 1996."
 
 lang: "fr"
-sourceContentHash: "ed4546075e84eef3"
+sourceContentHash: "8f44d2a10fa14edb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -143,7 +143,7 @@ Trois grandes couches soutiennent les revenus des agriculteurs :
 2. **La Subvention du prix du padi.** Le paiement supplémentaire pour chaque tonne de padi vendue a été relevé à **RM500 la tonne** (contre RM360). C'est une subvention fondée sur la production — plus on vend de padi, plus on reçoit d'aide.
 3. **Les subventions aux intrants.** Le gouvernement a affecté **RM2.6 milliards** dans le Budget 2024 à diverses subventions et incitations destinées aux riziculteurs et aux pêcheurs, dont les engrais, les pesticides et les coûts de production.
 
-Au bout de la chaîne se trouve **BERNAS** (Padiberas Nasional Berhad). L'entreprise détient le rôle d'importateur unique de riz du pays — une responsabilité héritée du Conseil national du padi et du riz (LPN), qui a repris le rôle d'importation du riz et est devenu l'importateur unique en 1974 à la suite de la crise alimentaire mondiale de 1973. En contrepartie, BERNAS assume des obligations sociales telles que la gestion du stock tampon national de riz, l'achat du padi des agriculteurs au prix garanti et le soutien aux meuniers bumiputera. BERNAS a été privatisée le **12 janvier 1996** et a ensuite été cotée à Bursa Malaysia.
+Au bout de la chaîne se trouve **[BERNAS](/fr/agriculture/bernas-rice-import-monopoly/)** (Padiberas Nasional Berhad). L'entreprise détient le rôle d'importateur unique de riz du pays — une responsabilité héritée du Conseil national du padi et du riz (LPN), qui a repris le rôle d'importation du riz et est devenu l'importateur unique en 1974 à la suite de la crise alimentaire mondiale de 1973. En contrepartie, BERNAS assume des obligations sociales telles que la gestion du stock tampon national de riz, l'achat du padi des agriculteurs au prix garanti et le soutien aux meuniers bumiputera. BERNAS a été privatisée le **12 janvier 1996** et a ensuite été cotée à Bursa Malaysia.
 
 ## Pourquoi cet objectif est-il si difficile à atteindre ?
 
