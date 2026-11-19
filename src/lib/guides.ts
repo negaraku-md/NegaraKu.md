@@ -411,6 +411,40 @@ export const GUIDES: Guide[] = [
       { cat: 'business', slug: 'shareholders-agreement-malaysia' },
     ],
   },
+  {
+    id: 'healthcare-in-malaysia',
+    pillar: 'living',
+    icon: '🏥',
+    title: { ms: "Penjagaan kesihatan di Malaysia", en: "Healthcare in Malaysia", zh: "马来西亚的医疗保健", ta: "மலேசியாவில் சுகாதாரப் பராமரிப்பு", ja: "マレーシアの医療", ko: "말레이시아의 의료", th: "การดูแลสุขภาพในมาเลเซีย", vi: "Chăm sóc sức khỏe tại Malaysia", id: "Layanan kesehatan di Malaysia", ar: "الرعاية الصحية في ماليزيا", hi: "मलेशिया में स्वास्थ्य सेवा", es: "Sanidad en Malasia", fr: "La santé en Malaisie" },
+    blurb: { ms: "Cara sistem ini berfungsi dan cara menggunakannya — klinik dan hospital awam, sektor swasta, insurans, farmasi, dan apa yang perlu dilakukan dalam kecemasan.", en: "How the system works and how to use it — public clinics and hospitals, the private sector, insurance, pharmacies, and what to do in an emergency.", zh: "医疗系统如何运作、如何使用——公立诊所与医院、私立医疗、保险、药房,以及紧急情况下该怎么办。", ta: "இந்த அமைப்பு எவ்வாறு செயல்படுகிறது, அதை எவ்வாறு பயன்படுத்துவது — அரசு கிளினிக்குகள் மற்றும் மருத்துவமனைகள், தனியார் துறை, காப்பீடு, மருந்தகங்கள், மற்றும் அவசரநிலையில் என்ன செய்வது.", ja: "制度の仕組みと使い方——公立の診療所や病院、民間医療、保険、薬局、そして緊急時の対応について。", ko: "제도가 어떻게 작동하고 어떻게 이용하는지 — 공공 클리닉과 병원, 민간 부문, 보험, 약국, 그리고 응급 상황에서 해야 할 일.", th: "ระบบทำงานอย่างไรและใช้บริการอย่างไร — คลินิกและโรงพยาบาลของรัฐ ภาคเอกชน ประกัน ร้านขายยา และสิ่งที่ควรทำในกรณีฉุกเฉิน", vi: "Hệ thống hoạt động ra sao và cách sử dụng — phòng khám và bệnh viện công, khu vực tư nhân, bảo hiểm, nhà thuốc, và cần làm gì khi khẩn cấp.", id: "Cara sistem ini bekerja dan cara menggunakannya — klinik dan rumah sakit pemerintah, sektor swasta, asuransi, apotek, serta apa yang harus dilakukan saat darurat.", ar: "كيف يعمل النظام وكيفية استخدامه — العيادات والمستشفيات الحكومية، القطاع الخاص، التأمين، الصيدليات، وما يجب فعله في حالات الطوارئ.", hi: "यह व्यवस्था कैसे काम करती है और इसका उपयोग कैसे करें — सरकारी क्लिनिक और अस्पताल, निजी क्षेत्र, बीमा, फार्मेसी, और आपात स्थिति में क्या करें।", es: "Cómo funciona el sistema y cómo usarlo: clínicas y hospitales públicos, el sector privado, los seguros, las farmacias y qué hacer en una emergencia.", fr: "Comment le système fonctionne et comment l'utiliser — cliniques et hôpitaux publics, secteur privé, assurances, pharmacies et que faire en cas d'urgence." },
+    steps: [
+      { cat: 'healthcare', slug: 'how-malaysian-healthcare-works' },
+      { cat: 'healthcare', slug: 'public-healthcare-system-malaysia' },
+      { cat: 'healthcare', slug: 'government-hospitals' },
+      { cat: 'healthcare', slug: 'private-hospitals-and-costs' },
+      { cat: 'healthcare', slug: 'medical-insurance' },
+      { cat: 'healthcare', slug: 'buying-medicine-pharmacies' },
+      { cat: 'healthcare', slug: 'emergencies-999' },
+      { cat: 'healthcare', slug: 'medical-tourism' },
+    ],
+  },
+  {
+    id: 'keeping-your-company-compliant',
+    pillar: 'doing-business',
+    icon: '📋',
+    title: { ms: "Memastikan syarikat anda patuh", en: "Keeping your company compliant", zh: "让公司保持合规", ta: "உங்கள் நிறுவனத்தை இணக்கமாக வைத்திருத்தல்", ja: "会社をコンプライアンス順守に保つ", ko: "회사를 법규에 맞게 유지하기", th: "การรักษาบริษัทให้ปฏิบัติตามกฎระเบียบ", vi: "Giữ cho công ty tuân thủ pháp luật", id: "Menjaga perusahaan Anda tetap patuh", ar: "الحفاظ على امتثال شركتك", hi: "अपनी कंपनी को अनुपालन में बनाए रखना", es: "Mantener tu empresa en regla", fr: "Maintenir votre entreprise en conformité" },
+    blurb: { ms: "Tanggungjawab tahunan yang memastikan Sdn Bhd kekal mematuhi undang-undang — setiausaha syarikat, perlembagaan, lembaga dan AGM, penyata tahunan, penyata kewangan, tugas pengarah dan pemilikan benefisial.", en: "The yearly duties that keep a Sdn Bhd in good standing — your company secretary, constitution, board and AGM, annual return, financial statements, directors' duties and beneficial ownership.", zh: "让私人有限公司(Sdn Bhd)保持良好信誉的年度职责——公司秘书、章程、董事会与股东大会、年度申报、财务报表、董事职责及实益拥有权。", ta: "ஒரு Sdn Bhd-ஐ நல்ல நிலையில் வைத்திருக்கும் வருடாந்திரக் கடமைகள் — உங்கள் நிறுவனச் செயலாளர், அரசியலமைப்பு, இயக்குநர் குழு மற்றும் AGM, வருடாந்திர அறிக்கை, நிதி அறிக்கைகள், இயக்குநர்களின் கடமைகள் மற்றும் பயனுறு உரிமை.", ja: "Sdn Bhd を良好な状態に保つための年次義務——会社秘書役、定款、取締役会と AGM、年次報告、財務諸表、取締役の義務、実質的支配者について。", ko: "Sdn Bhd를 양호한 상태로 유지하는 연례 의무 — 회사 비서, 정관, 이사회와 AGM, 연례 신고, 재무제표, 이사의 의무, 실질적 소유권.", th: "หน้าที่ประจำปีที่ทำให้ Sdn Bhd อยู่ในสถานะที่ดี — เลขานุการบริษัท ข้อบังคับบริษัท คณะกรรมการและ AGM รายงานประจำปี งบการเงิน หน้าที่ของกรรมการ และความเป็นเจ้าของที่แท้จริง", vi: "Những nghĩa vụ hằng năm giúp một Sdn Bhd duy trì tình trạng hợp lệ — thư ký công ty, điều lệ, hội đồng quản trị và AGM, báo cáo thường niên, báo cáo tài chính, trách nhiệm của giám đốc và quyền sở hữu hưởng lợi.", id: "Kewajiban tahunan yang menjaga Sdn Bhd tetap berstatus baik — sekretaris perusahaan, anggaran dasar, dewan direksi dan AGM, laporan tahunan, laporan keuangan, tugas direktur, dan kepemilikan manfaat.", ar: "الواجبات السنوية التي تُبقي شركة Sdn Bhd في وضع نظامي سليم — أمين سر الشركة، النظام الأساسي، مجلس الإدارة وAGM، الإقرار السنوي، البيانات المالية، واجبات المديرين، والملكية المنتفعة.", hi: "वे वार्षिक कर्तव्य जो किसी Sdn Bhd को अच्छी स्थिति में बनाए रखते हैं — आपका कंपनी सचिव, संविधान, बोर्ड और AGM, वार्षिक विवरणी, वित्तीय विवरण, निदेशकों के कर्तव्य और लाभकारी स्वामित्व।", es: "Las obligaciones anuales que mantienen a una Sdn Bhd en regla: el secretario de la empresa, los estatutos, el consejo y la AGM, la declaración anual, los estados financieros, los deberes de los administradores y la titularidad real.", fr: "Les obligations annuelles qui maintiennent une Sdn Bhd en règle — votre secrétaire de société, les statuts, le conseil et l'AGM, la déclaration annuelle, les états financiers, les devoirs des administrateurs et la propriété effective." },
+    steps: [
+      { cat: 'company-secretary', slug: 'appoint-company-secretary' },
+      { cat: 'company-secretary', slug: 'company-constitution' },
+      { cat: 'company-secretary', slug: 'board-meetings-and-minutes' },
+      { cat: 'company-secretary', slug: 'agm-requirements' },
+      { cat: 'company-secretary', slug: 'annual-return' },
+      { cat: 'company-secretary', slug: 'financial-statements-lodgement' },
+      { cat: 'company-secretary', slug: 'directors-duties' },
+      { cat: 'company-secretary', slug: 'beneficial-ownership' },
+    ],
+  },
 ];
 
 /** Guides belonging to a pillar, in registry order. */
