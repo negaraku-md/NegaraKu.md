@@ -91,7 +91,7 @@ sources:
     publisher: "Mount Kinabalu (Sutera Sanctuary Lodges / شريك حديقة كينابالو الجيولوجية العالمية لليونسكو)"
 
 entity: "Kinabalu Park"
-related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "gunung-mulu-national-park"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "تصريح التسلّق", "Laban Rata", "Panalaban", "ينابيع بورينغ الساخنة", "صباح", "Nepenthes rajah"]
 framework: profile
 visitFacts:

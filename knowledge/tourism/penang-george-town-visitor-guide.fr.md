@@ -82,7 +82,7 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["guide de voyage Penang", "George Town UNESCO", "art de rue Penang", "funiculaire Penang Hill", "cuisine de hawker Penang", "cœur patrimonial George Town", "Batu Ferringhi", "que faire à Penang"]
 framework: explainer
 visitFacts:

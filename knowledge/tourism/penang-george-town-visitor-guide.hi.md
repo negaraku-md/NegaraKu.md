@@ -82,7 +82,7 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["पिनांग यात्रा गाइड", "Penang travel guide", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "पिनांग स्ट्रीट आर्ट", "Penang street art", "पिनांग हिल फ़्यूनिक्युलर", "Penang Hill funicular", "पिनांग हॉकर भोजन", "जॉर्ज टाउन विरासत केंद्र", "Batu Ferringhi", "पिनांग में करने योग्य चीज़ें"]
 framework: explainer
 visitFacts:

@@ -69,7 +69,7 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["بيرهنتيان", "ريدانغ", "تيومان", "كاباس", "حديقة بحرية", "رسم الصون", "الرياح الموسمية الشمالية الشرقية", "جزر ماليزيا", "الغطس السطحي", "الغوص", "Perhentian", "Redang", "Tioman", "Kapas", "marine park", "northeast monsoon"]
 framework: explainer
 visitFacts:

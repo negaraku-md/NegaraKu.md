@@ -68,7 +68,7 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
 framework: rules
 visitFacts:

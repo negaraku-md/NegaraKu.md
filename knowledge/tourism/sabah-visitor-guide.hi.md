@@ -91,7 +91,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["सबाह यात्रा गाइड", "Sabah travel guide", "कोटा किनाबालू", "Kota Kinabalu", "माउंट किनाबालू चढ़ाई परमिट", "Mount Kinabalu climb permit", "किनाबालू पार्क यूनेस्को", "Kinabalu Park UNESCO", "सिपादान गोताख़ोरी परमिट", "Sipadan diving permit", "Sepilok ओरंगुटान", "सबाह आव्रजन चौकी", "सबाह प्रवेश आवश्यकताएँ"]
 framework: explainer
 visitFacts:

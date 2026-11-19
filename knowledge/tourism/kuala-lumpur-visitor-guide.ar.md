@@ -95,7 +95,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["كوالالمبور", "kuala lumpur", "برجا بتروناس التوأم", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "الحي الصيني كوالالمبور", "klia ekspres", "دليل سفر كوالالمبور"]
 framework: profile
 visitFacts:

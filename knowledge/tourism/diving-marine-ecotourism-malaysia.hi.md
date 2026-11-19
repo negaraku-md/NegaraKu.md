@@ -68,7 +68,7 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["सिपादान गोताख़ोरी परमिट", "मलेशिया समुद्री उद्यान शुल्क", "Sabah Parks", "मत्स्य विभाग समुद्री उद्यान", "स्कूबा गोताख़ोरी मलेशिया", "समुद्री पारिस्थितिकी-पर्यटन", "Sipadan diving permit", "Sabah Parks", "scuba diving Malaysia", "marine ecotourism"]
 framework: rules
 visitFacts:

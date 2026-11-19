@@ -78,7 +78,7 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["تراث ملقا", "Melaka heritage", "ملقا التراث العالمي اليونسكو", "Melaka UNESCO World Heritage", "شارع جونكر", "Jonker Street", "بابا ونيونيا بيرانكان ملقا", "Baba Nyonya Peranakan Melaka", "آ فاموسا Porta de Santiago", "Stadthuys الساحة الهولندية", "تلة القديس بولس ملقا", "دليل سفر ملقا"]
 framework: explainer
 visitFacts:

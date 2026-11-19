@@ -95,7 +95,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "tours jumelles petronas", "tour kl", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "transport kuala lumpur", "carte d'arrivée numérique de malaisie", "guide de voyage kl"]
 framework: profile
 visitFacts:

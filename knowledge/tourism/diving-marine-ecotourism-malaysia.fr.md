@@ -68,7 +68,7 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["permis de plongée Sipadan", "droits des parcs marins Malaisie", "Sabah Parks", "parc marin Département des pêches", "plongée sous-marine Malaisie", "écotourisme marin"]
 framework: rules
 visitFacts:

@@ -91,7 +91,7 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["دليل سفر صباح", "Sabah travel guide", "كوتا كينابالو", "Kota Kinabalu", "تصريح تسلّق جبل كينابالو", "Mount Kinabalu climb permit", "متنزّه كينابالو اليونسكو", "Kinabalu Park UNESCO", "تصريح الغوص سيبادان", "Sipadan diving permit", "إنسان الغاب Sepilok", "نقطة تفتيش هجرة صباح", "شروط دخول صباح"]
 framework: explainer
 visitFacts:

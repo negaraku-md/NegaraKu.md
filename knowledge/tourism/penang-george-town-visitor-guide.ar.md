@@ -82,7 +82,7 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["دليل سفر بينانغ", "Penang travel guide", "جورج تاون اليونسكو", "George Town UNESCO", "فنّ شارع بينانغ", "Penang street art", "قطار تلة بينانغ المائل", "Penang Hill funicular", "طعام باعة بينانغ", "قلب تراث جورج تاون", "Batu Ferringhi", "أشياء تُفعل في بينانغ"]
 framework: explainer
 visitFacts:

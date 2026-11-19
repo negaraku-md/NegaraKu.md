@@ -89,7 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["सारावाक यात्रा", "सारावाक आव्रजन", "कुचिंग गाइड", "Gunung Mulu National Park", "Iban लॉन्गहाउस", "Bidayuh लॉन्गहाउस", "सारावाक प्रवेश पास", "बोर्नियो यात्रा", "Sarawak travel"]
 framework: explainer
 visitFacts:

@@ -68,7 +68,7 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["تصريح الغوص في سيبادان", "رسوم الحدائق البحرية في ماليزيا", "هيئة حدائق صباح", "الحديقة البحرية لدائرة مصايد الأسماك", "الغوص بالأسطوانات في ماليزيا", "السياحة البيئية البحرية", "Sipadan diving permit", "Sabah Parks", "scuba diving Malaysia", "marine ecotourism"]
 framework: rules
 visitFacts:

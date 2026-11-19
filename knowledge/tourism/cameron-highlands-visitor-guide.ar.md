@@ -82,7 +82,7 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["مرتفعات كاميرون", "تانه راتا", "برينتشانغ", "رينغليت", "شاي BOH", "مزرعة الفراولة", "الأورانغ أسلي", "السيماي", "محطة جبلية", "باهانغ", "Cameron Highlands", "Tanah Rata", "Brinchang", "BOH tea", "Orang Asli", "Pahang"]
 framework: profile
 visitFacts:

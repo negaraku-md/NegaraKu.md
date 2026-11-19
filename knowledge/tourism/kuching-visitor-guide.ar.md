@@ -87,7 +87,7 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "مدينة القطط", "عاصمة ساراواك", "واجهة نهر ساراواك المائية", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "الراجا الأبيض", "سلالة بروك", "إنسان الغاب سيمينغوه", "متنزّه باكو الوطني", "القرية الثقافية الساراواكية"]
 framework: profile
 visitFacts:

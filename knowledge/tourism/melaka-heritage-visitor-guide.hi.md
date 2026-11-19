@@ -78,7 +78,7 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["मेलाका धरोहर", "Melaka heritage", "Melaka UNESCO World Heritage", "जोंकर स्ट्रीट", "Jonker Street", "बाबा न्योन्या पेरानाकन", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka"]
 framework: explainer
 visitFacts:

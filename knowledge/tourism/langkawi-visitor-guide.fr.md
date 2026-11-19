@@ -101,7 +101,7 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "île franche", "géoparc mondial de l'UNESCO", "SkyCab", "SkyBridge", "saut d'île en île", "Kilim", "Dayang Bunting", "mer d'Andaman", "Kedah"]
 framework: profile
 visitFacts:

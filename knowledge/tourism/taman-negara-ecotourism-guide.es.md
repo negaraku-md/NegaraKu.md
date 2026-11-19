@@ -76,7 +76,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "pasarela elevada", "gunung tahan", "perhilitan", "parque nacional malasia", "senderismo jungla", "selva tropical"]
 framework: explainer
 visitFacts:
