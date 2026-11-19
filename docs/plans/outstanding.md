@@ -107,8 +107,11 @@ best-in-class; the gap is **off-page** (third-party citations, backlinks, domain
   source drink hero images (Wikimedia → sharp → webp).
 - [ ] **吃喝玩乐 hub consolidation** — per the entry-layer rule (hub, not a 4th pillar);
   surface the Experience rail on more hubs.
-- [ ] **玩 attraction rule-cards** — fees/permits are freshness-prone; frame as the
-  **durable rule**, never a year-specific figure (same discipline as festival cards).
+- [x] **玩 attraction rule-cards — DONE + HELD 2026-11-19** (commits `4b46fbd52` masters
+  + `6627236ca` ×13 langs). `visitFacts{bestFor,getThere,permit,watch,next}` card on 18
+  tourism destination guides × 13 langs (234 files); `permit` states the **durable rule**,
+  never a year-specific figure. Freshness-neutral. Excluded the 2 mood/itinerary pieces
+  (rainy-day-KL, gentler-Putrajaya). Awaiting push.
 - [ ] **Dish "top places" live leaderboard** — **BLOCKED on [you] Google Places
   billing**; CF Worker + Places (Nasi Lemak pilot first), reuses `fetch-google-places.mjs`.
 - [ ] **Affiliate experience links** (Klook/Grab) — capability is built (`scenarios.ts`
