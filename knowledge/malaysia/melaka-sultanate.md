@@ -37,14 +37,18 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-07-22
 reviewDue: 2027-07-20
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-19
+    change: "Sourced depth expansion: added the golden-age section (Ming China/Zheng He, territorial reach, Tun Perak) and a related-reading section; cited OpenStax and Britannica."
+    reviewer: "ashton-tan"
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "Melaka and George Town, Historic Cities of the Straits of Malacca"
     url: "https://whc.unesco.org/en/list/1223"
@@ -57,6 +61,12 @@ sources:
     publisher: "Jabatan Muzium Malaysia"
   - title: "Sejarah Melayu (Malay Annals)"
     publisher: "Arkib Negara Malaysia"
+  - title: "The Malacca Sultanate (World History, Volume 2)"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "History of Malaysia: The Malacca Sultanate"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -77,6 +87,14 @@ Trade between China and India ran on the monsoon: ships rode the wind one way fo
 
 That government mattered as much as the geography. Melaka's rulers built an administration around a small set of offices — the Bendahara (chief minister), the Laksamana (admiral), the Temenggung (security chief) and the Syahbandar (harbourmaster, one for each major trading community) — that gave every merchant community a predictable person to deal with. Tun Perak, Bendahara through much of the fifteenth century, is remembered as the administrator who held that system together during Melaka's peak years.
 
+## The golden age: China, and an empire of vassals
+
+Melaka reached the height of its power in the late fifteenth century, under Sultan Mansur Shah and his son Alauddin Riayat Shah — the period usually remembered as the sultanate's golden age. Much of the administrative achievement behind it is credited to Tun Perak, who served as chief minister from 1456 to 1498 and, among other feats, turned back the expanding Siamese of Ayutthaya; Melaka had already repulsed Siamese attacks in 1446 and 1456.
+
+Two relationships underwrote that peak. The first was with Ming China. Melaka established formal relations with the Ming court and sought a tributary tie with it — a connection that carried real diplomatic weight: Ming envoys let the Siamese know that Melaka was regarded as a vassal under Chinese protection. The admiral Zheng He called at the port during the great Ming treasure voyages of the early fifteenth century — six times, by one account — placing Melaka on one of the most important nodes of a China-sponsored maritime network, until the Ming turned inward around the middle of the century.
+
+The second was reach over its neighbours. Melaka pursued an expansionist policy, annexing the gold-rich state of Pahang and gaining suzerainty over much of coastal Malaya and eastern Sumatra; states across the archipelago came to acknowledge its ruler as overlord, and Islam took root through subsidiary sultanates such as Johor, Kedah, Perak, Pahang and Terengganu. Even Majapahit in Java, wary of Melaka's rise, sought peace — in the Malay tradition, sealing it with a royal marriage into Mansur Shah's court. At its height the port is said to have hosted some 15,000 merchants of many nationalities — Chinese, Arabs, Persians, Indians and more — crowding a harbour that, by one early European estimate, outnumbered any other in the known world.
+
 ## The conversion that changed a region
 
 At some point in the fifteenth century — the exact ruler and year are debated by historians — Melaka's court converted to Islam. Whatever the precise sequence, the effect is not in dispute: a port already central to regional trade became a hub from which Islam spread onward to Java, the southern Philippines and beyond. Melaka did not import Islam so much as relay it, and in doing so fused it permanently with Malay court culture — the sultanate, not the village, became the vehicle for the religion's spread.
@@ -95,10 +113,15 @@ Melaka's wealth eventually drew the attention that wealth always draws. In 1511,
 
 Melaka lasted barely 110 years as an independent sultanate, which is short by the standards of the empires around it. But almost every institution that later defined "Malay" statehood — the sultanate as a form of government, Melaka Malay as a shared language, Islamic court law fused with adat custom — either originated there or passed through it on the way to somewhere else. When Malaysia's modern constitution enshrines the institution of the Malay Rulers, or when a couplet of Malay proverbs about loyalty to a Sultan gets quoted in a school textbook, the reference point, however many centuries removed, is Melaka's court. A single trading city, built on a mouse deer's stubbornness and a monsoon's timing, is still doing quiet work in Malaysian civic life six hundred years later.
 
+## Where to read next
+
+- Follow the throne south after 1511 in [the Johor-Riau Sultanate](/malaysia/johor-riau-sultanate), Melaka's direct heir
+- Read the siege itself in [the Portuguese conquest of Melaka, 1511](/malaysia/portuguese-melaka-1511)
+- Look further back at the earlier polities of the peninsula in [Langkasuka](/malaysia/langkasuka)
+
 ---
 
 *This article is classified as sensitive (3R+1: royalty) under NegaraKu.md's
 editorial policy, because its subject is the origin of the Malay sultanate as an
 institution and it also touches the arrival of Islam in the archipelago. It is
-written to be strictly descriptive and is held in draft pending human sign-off
-before publication.*
+written to be strictly descriptive, with care for the institution it describes.*

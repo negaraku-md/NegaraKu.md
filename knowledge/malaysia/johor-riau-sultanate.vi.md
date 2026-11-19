@@ -19,7 +19,7 @@ keyTakeaways:
   - "Anglo-Dutch Treaty 1824 và những gì theo sau chia cắt vùng này: Riau-Lingga dưới quyền Hà Lan, Johor trong phạm vi ảnh hưởng của Anh"
 appliesTo: "Bất kỳ ai muốn hiểu cách thiết chế hoàng gia Mã Lai của Melaka nối liền không đứt đoạn đến các bang Mã Lai hiện đại, đặc biệt là Johor."
 lang: "vi"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "4378491a1522cd95"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -34,7 +34,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Lịch sử Vương quốc Hồi giáo Johor (Sejarah Kesultanan Johor)"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -50,6 +50,9 @@ sources:
     publisher: "Cục Lưu trữ Quốc gia Malaysia"
   - title: "Biên niên sử Mã Lai (Sejarah Melayu (Sulalatus Salatin))"
     publisher: "Cục Lưu trữ Quốc gia Malaysia"
+  - title: "Vương quốc Hồi giáo Johor (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -106,6 +109,16 @@ Sự kiện này trở thành một bước ngoặt lớn. Vì không có ngư�
 
 Theo hồ sơ chính thức của vương triều, những cuộc chuyển giao ngai vàng Johor này diễn ra "thông qua thương lượng, thiện chí và hòa giải" — không có xung đột hay tổn thương đáng kể.
 
+## Một thế kỷ biến động: người Hà Lan, Jambi và người Bugis
+
+Nếu phả hệ của ngai vàng được truyền từ tay này sang tay khác một cách hòa bình theo biên niên sử hoàng gia, thì thế giới xung quanh ngai vàng ấy lại động loạn hơn nhiều. Thế kỷ 17 và đầu thế kỷ 18 chứng kiến Johor bị thử thách bởi những cuộc chiến từ bên ngoài và nền chính trị quyền lực đã định hình lại ai mới thực sự cai trị.
+
+**Liên minh với người Hà Lan và sự sụp đổ của Melaka thuộc Bồ Đào Nha (1641).** Trong cuộc cạnh tranh ba bên giữa Johor, người Bồ Đào Nha ở Melaka và Vương triều Aceh, Johor rốt cuộc ngả về phía Công ty Đông Ấn Hà Lan (VOC), vốn cũng đang thù địch với Bồ Đào Nha. Ngày 14 tháng 1 năm 1641, liên quân Hà Lan và Johor — do Bendahara Skudai chỉ huy — đã chiếm thành Melaka từ tay người Bồ Đào Nha, chấm dứt 130 năm cai trị của Bồ Đào Nha đối với thành phố này. Melaka sau đó trở thành lãnh địa của Hà Lan cho đến Anglo-Dutch Treaty 1824. Trước đó, Aceh dưới thời Sultan Iskandar Muda từng tấn công Johor vào năm 1613 và 1615; đỉnh điểm của cuộc cạnh tranh với Aceh là trận đánh ở sông Duyong (Sungai Duyong) năm 1629.
+
+**Chiến tranh Johor–Jambi.** Hòa bình không kéo dài. Một liên minh hôn nhân được dự tính giữa người thừa kế ngai vàng Johor với con gái của một quý tộc Jambi đã đổ vỡ khi vị hoàng tử lại cưới con gái của Laksamana Abdul Jamil. Từ mối bất hòa đó bùng nổ một cuộc chiến kéo dài 13 năm bắt đầu vào năm 1666. Năm 1673, quân Jambi tấn công và phá hủy kinh đô Johor ở Batu Sawar; Sultan Abdul Jalil Shah III rút về Pahang và băng hà không lâu sau đó. Dưới thời Sultan Ibrahim Shah (trị vì 1677–1685), Johor cầu viện các chiến binh Bugis và giành lại vị thế của mình vào năm 1679.
+
+**Sự trỗi dậy của người Bugis.** Những chiến binh Bugis được đưa vào đã từ chối ra đi, và ảnh hưởng của họ bén rễ ở Johor. Sau khi dòng dõi hoàng gia Melaka chấm dứt vào năm 1699, sự can thiệp của người Bugis càng sâu thêm giữa cuộc tranh giành ngai vàng. Khi Raja Kecil của Siak — kẻ tự xưng là con trai của Sultan Mahmud Shah II — chiếm đoạt ngai vàng, người Bugis ủng hộ Raja Sulaiman lật đổ ông ta vào năm 1722. Sultan Sulaiman lên ngôi, nhưng quyền cai trị thực sự nằm trong tay vị thủ lĩnh Bugis giữ chức Yang Dipertuan Muda (Yamtuan Muda). Từ năm 1760 đến 1784, người Bugis chi phối nền hành chính của vương triều, với sultan là biểu tượng của chủ quyền và Yang Dipertuan Muda là người nắm thực quyền.
+
 ## Sự chia cắt lãnh thổ: Hiệp ước 1824
 
 Sự thống nhất của lãnh thổ Johor-Riau không tồn tại mãi. Anglo-Dutch Treaty 1824 (Hiệp ước London), được ký giữa Anh và Hà Lan, chia phạm vi ảnh hưởng của hai cường quốc châu Âu đó trong khu vực này.
@@ -138,5 +151,4 @@ Khi Hiến pháp Liên bang ngày nay gìn giữ thiết chế các Quốc vươ
 
 *Bài viết này được phân loại là nhạy cảm (3R+1: royalty) theo chính sách biên tập của
 NegaraKu.md, vì chủ đề của nó đề cập đến sự nối tiếp của thiết chế hoàng gia Mã Lai. Nó
-được viết một cách mô tả và đầy tôn trọng đối với thiết chế hoàng gia, và được giữ ở
-trạng thái bản nháp chờ một người kiểm duyệt trước khi xuất bản.*
+được viết một cách mô tả và đầy tôn trọng đối với thiết chế hoàng gia.*

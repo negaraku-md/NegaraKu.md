@@ -19,7 +19,7 @@ keyTakeaways:
   - "The Anglo-Dutch Treaty of 1824 and its aftermath divided this territory: Riau-Lingga under the Dutch, Johor within the British sphere"
 appliesTo: "Anyone who wants to understand how the Malay royal institution of Melaka continued unbroken into the modern Malay states, particularly Johor."
 lang: "en"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "4378491a1522cd95"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -34,7 +34,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Sejarah Kesultanan Johor"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -50,6 +50,9 @@ sources:
     publisher: "Arkib Negara Malaysia"
   - title: "Sejarah Melayu (Sulalatus Salatin)"
     publisher: "Arkib Negara Malaysia"
+  - title: "Kesultanan Johor (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -106,6 +109,16 @@ This event became a major turning point. Because there was no direct heir from t
 
 According to the sultanate's official records, these transitions of the Johor throne took place "through negotiation, goodwill and reconciliation" — without significant conflict or harm.
 
+## A turbulent century: the Dutch, Jambi, and the Bugis
+
+If the throne's lineage passed peacefully from hand to hand according to the royal chronicle, the world around that throne was far more turbulent. The seventeenth and early eighteenth centuries saw Johor tested by foreign wars and power politics that reshaped who actually ruled.
+
+**Alliance with the Dutch and the fall of Portuguese Melaka (1641).** In the three-way rivalry between Johor, the Portuguese at Melaka, and the Aceh Sultanate, Johor eventually sided with the Dutch East India Company (VOC), which was also at war with Portugal. On 14 January 1641, combined Dutch and Johor forces — led by Bendahara Skudai — captured the city of Melaka from the Portuguese, ending 130 years of Portuguese rule over the city. Melaka then became a Dutch possession until the Anglo-Dutch Treaty of 1824. Earlier, Aceh under Sultan Iskandar Muda had attacked Johor in 1613 and 1615; the peak of the rivalry with Aceh was the battle at the Duyong River in 1629.
+
+**The Johor–Jambi War.** The peace did not last. A planned marriage alliance between Johor's heir and a daughter of a Jambi noble collapsed when the prince married the daughter of Laksamana Abdul Jamil instead. From that falling-out erupted a 13-year war beginning in 1666. In 1673, Jambi forces attacked and destroyed Johor's capital at Batu Sawar; Sultan Abdul Jalil Shah III withdrew to Pahang and died soon after. Under Sultan Ibrahim Shah (reigned 1677–1685), Johor called on Bugis warriors for help and won back its position by 1679.
+
+**The rise of the Bugis.** The Bugis warriors who had been brought in refused to leave, and their influence took root in Johor. After the Melaka royal line ended in 1699, Bugis intervention deepened amid the contest for the throne. When Raja Kecil of Siak — who claimed to be a son of Sultan Mahmud Shah II — seized the throne, the Bugis backed Raja Sulaiman in overthrowing him in 1722. Sultan Sulaiman took the throne, but real governing power lay with the Bugis leader holding the office of Yang Dipertuan Muda (Yamtuan Muda). Between 1760 and 1784 the Bugis dominated the sultanate's administration, with the sultan as the symbol of sovereignty and the Yang Dipertuan Muda as the holder of actual power.
+
 ## Territorial division: the 1824 Treaty
 
 The territorial unity of Johor-Riau did not last. The Anglo-Dutch Treaty of 1824 (the Treaty of London), signed between Britain and the Netherlands, divided the two European powers' spheres of influence in the region.
@@ -139,5 +152,4 @@ When today's Federal Constitution preserves the institution of the Malay Rulers,
 *This article is classified as sensitive (3R+1: royalty) under NegaraKu.md's
 editorial policy, because its subject touches on the continuity of the Malay
 royal institution. It is written descriptively and with full respect for the
-royal institution, and is held in draft status pending human review before
-publication.*
+royal institution.*

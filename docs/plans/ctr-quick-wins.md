@@ -87,8 +87,12 @@ banner, highest search volume). The 3 legally-sensitive PM pages were deliberate
    the standing SEO conclusion ("real lever = backlinks").
 2. **Internal links** — done this sprint (+288); keep feeding the near-miss pages above with contextual links
    from related articles to pass authority.
-3. **Content refresh** on the top-10 near-miss pages (Johor/Melaka sultanates, SUKMA, Malayan Union, KPDN) —
-   depth + freshness signals to nudge pos 8 → 5.
+3. **Content refresh** on the top-10 near-miss pages — depth + freshness signals to nudge pos 8 → 5.
+   - **DONE (2026-11-19):** Johor-Riau + Melaka sultanates (the two highest-impression near-miss pages) given a
+     sourced depth expansion ×13 langs each — Melaka: golden-age section (Ming China/Zheng He, territorial reach,
+     Tun Perak) + related-reading links; Johor: turbulent-century section (1641 Dutch capture of Melaka, Johor-Jambi
+     war, Bugis Yang Dipertuan Muda). Cited OpenStax/Britannica (Melaka) and the Johor Sultanate record. Also fixed a
+     stale "held in draft" footer on both. Remaining: SUKMA, Malayan Union, KPDN.
 4. **DONE** (2026-11-19): all non-sensitive PM bios now carry the descriptive `seoTitle` pattern —
    anwar + mahathir (prior commit) and the four name-only historical PMs (tunku 1st, razak 2nd, hussein-onn 3rd,
    badawi 5th) × 13 langs each, sourced from each file's own body. The 3 legal-skip pages

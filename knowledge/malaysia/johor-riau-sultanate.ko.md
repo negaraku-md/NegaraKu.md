@@ -18,7 +18,7 @@ keyTakeaways:
   - "1824년 영란 조약(Perjanjian Inggeris-Belanda)과 그 후속 조치는 이 영역을 나누었습니다: 리아우-링가(Riau-Lingga)는 네덜란드 아래로, 조호르(Johor)는 영국의 영향권 아래로 들어갔습니다"
 appliesTo: "말라카의 말레이 왕실 제도가 어떻게 끊김 없이 현대 말레이 주들, 특히 조호르(Johor)로 이어졌는지 이해하고자 하는 모든 이."
 lang: "ko"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "4378491a1522cd95"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -33,7 +33,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "조호르 술탄국의 역사 (Sejarah Kesultanan Johor)"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -49,6 +49,9 @@ sources:
     publisher: "말레이시아 국립문서보관소"
   - title: "말레이 연대기 (Sejarah Melayu (Sulalatus Salatin))"
     publisher: "말레이시아 국립문서보관소"
+  - title: "조호르 술탄국 (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -105,6 +108,16 @@ framework: history-culture
 
 술탄국의 공식 기록에 따르면, 이러한 조호르 왕좌의 전환들은 "협의와 우호, 화평을 통해" — 뚜렷한 갈등이나 유혈 없이 — 이루어졌습니다.
 
+## 격동의 세기: 네덜란드, 잠비, 부기스
+
+왕실 기록상 왕좌의 혈통이 평화롭게 손에서 손으로 이어졌다 하더라도, 그 왕좌를 둘러싼 세계는 훨씬 더 격동했습니다. 17세기와 18세기 초, 조호르는 대외 전쟁과 권력 정치의 시험을 받았고, 그것은 실제로 누가 다스리는가를 다시 그려 냈습니다.
+
+**네덜란드와의 동맹과 포르투갈령 말라카의 함락(1641년).** 조호르, 말라카의 포르투갈, 그리고 아체 술탄국 사이의 삼각 경쟁 속에서, 조호르는 결국 포르투갈과 역시 적대하던 네덜란드 동인도회사(VOC) 편에 섰습니다. 1641년 1월 14일, 븐다하라 스쿠다이(Bendahara Skudai)가 이끄는 네덜란드와 조호르의 연합군은 포르투갈의 손에서 말라카 성을 빼앗아, 그 도성에 대한 130년에 걸친 포르투갈의 지배를 끝냈습니다. 이후 말라카는 1824년 영란 조약까지 네덜란드의 영유가 되었습니다. 그에 앞서, 술탄 이스칸다르 무다(Sultan Iskandar Muda) 치하의 아체는 1613년과 1615년에 조호르를 공격했으며, 아체와의 경쟁의 정점은 1629년 두용강(Sungai Duyong)에서의 전투였습니다.
+
+**조호르-잠비 전쟁.** 평화는 오래가지 않았습니다. 조호르의 왕위 계승자와 잠비(Jambi) 귀족의 딸 사이에 계획되었던 혼인 동맹은, 왕자가 대신 락사마나 압둘 자밀(Laksamana Abdul Jamil)의 딸과 혼인하면서 깨졌습니다. 그 불화로부터 1666년에 시작된 13년에 걸친 전쟁이 터졌습니다. 1673년, 잠비 군대는 바투 사와르(Batu Sawar)의 조호르 도성을 공격하여 파괴했고, 술탄 압둘 잘릴 샤 3세(Sultan Abdul Jalil Shah III)는 파항으로 물러나 얼마 지나지 않아 승하했습니다. 술탄 이브라힘 샤(Sultan Ibrahim Shah, 재위 1677–1685) 치하에서 조호르는 부기스 전사들에게 도움을 청하여 1679년까지 그 지위를 되찾았습니다.
+
+**부기스의 부상.** 불러들인 부기스 전사들은 떠나기를 거부했고, 그들의 영향력은 조호르에 뿌리내렸습니다. 1699년 말라카 왕통이 끊긴 뒤, 왕좌를 둘러싼 다툼 속에서 부기스의 개입은 더욱 깊어졌습니다. 스스로를 술탄 마흐무드 샤 2세의 아들이라 주장한 시악(Siak)의 라자 케칠(Raja Kecil)이 왕좌를 찬탈하자, 부기스는 라자 술라이만(Raja Sulaiman)을 지지하여 1722년에 그를 무너뜨렸습니다. 술탄 술라이만(Sultan Sulaiman)이 즉위했으나, 실제 통치권은 양 디프르투안 무다(Yang Dipertuan Muda, Yamtuan Muda) 직을 맡은 부기스 지도자에게 있었습니다. 1760년부터 1784년까지 부기스는 술탄국의 행정을 장악했으며, 술탄은 주권의 상징으로, 양 디프르투안 무다는 실권의 보유자로 존재했습니다.
+
 ## 영토의 분할: 1824년 조약
 
 조호르-리아우의 영토적 통일은 지속되지 않았습니다. 영국과 네덜란드 사이에 체결된 1824년 영국-네덜란드 조약(런던 조약)은 이 지역에서 두 유럽 세력의 영향권을 분할했습니다.
@@ -137,5 +150,4 @@ framework: history-culture
 
 *이 글은 NegaraKu.md의 편집 정책상 민감 문서(3R+1: royalty)로 분류됩니다. 그 주제가
 말레이 왕실 제도의 연속성을 건드리기 때문입니다. 이 글은 왕실 제도에 대해
-서술적이고 정중하게 작성되었으며, 발행에 앞서 사람의 검토를 기다리는 초안 상태로
-유지되고 있습니다.*
+서술적이고 정중하게 작성되었습니다.*

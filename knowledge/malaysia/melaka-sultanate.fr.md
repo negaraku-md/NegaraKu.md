@@ -29,7 +29,7 @@ faq:
     a: "La cour. Le Sultan Mahmud Shah et ses descendants rétablirent le gouvernement malais plus au sud, de la manière la plus marquante dans le Sultanat de Johor, perpétuant la structure de cour, le code juridique et la langue de Melaka. Ces institutions survécurent à l'indépendance de la ville pendant des siècles."
 
 lang: "fr"
-sourceContentHash: "cf412842ff34bf8f"
+sourceContentHash: "c0cb6569dbb2731b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -45,7 +45,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "Melaka et George Town, villes historiques du détroit de Malacca (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
@@ -58,6 +58,12 @@ sources:
     publisher: "Département des musées de Malaisie (Jabatan Muzium Malaysia)"
   - title: "Sejarah Melayu — Annales malaises (Sejarah Melayu / Malay Annals)"
     publisher: "Archives nationales de Malaisie (Arkib Negara Malaysia)"
+  - title: "Le Sultanat de Melaka, World History, Volume 2"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "Histoire de la Malaisie : le Sultanat de Melaka (History of Malaysia: The Malacca Sultanate)"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -77,6 +83,14 @@ Le commerce entre la Chine et l'Inde suivait le rythme de la mousson : les navir
 
 Ce gouvernement comptait autant que la géographie. Les souverains de Melaka bâtirent une administration autour d'un petit ensemble de charges — le Bendahara (premier ministre), le Laksamana (amiral), le Temenggung (chef de la sécurité) et le Syahbandar (capitaine de port, un pour chaque grande communauté marchande) — qui donnait à chaque communauté de marchands un interlocuteur prévisible. Tun Perak, Bendahara pendant une bonne partie du XVe siècle, est resté comme l'administrateur qui maintint ce système durant les années d'apogée de Melaka.
 
+## L'âge d'or : la Chine et un empire de vassaux
+
+Melaka atteignit l'apogée de sa puissance à la fin du XVe siècle, sous le Sultan Mansur Shah et son fils Alauddin Riayat Shah — la période que l'on retient généralement comme l'âge d'or du sultanat. On attribue l'essentiel de la réussite administrative qui la sous-tendit à Tun Perak, qui fut premier ministre de 1456 à 1498 et qui, entre autres exploits, repoussa les Siamois d'Ayutthaya alors en expansion ; Melaka avait déjà repoussé des attaques siamoises en 1446 et 1456.
+
+Deux relations soutinrent cet apogée. La première fut avec la Chine des Ming. Melaka établit des relations officielles avec la cour des Ming et chercha à nouer avec elle un lien tributaire — une relation qui pesait réellement sur le plan diplomatique : les émissaires Ming firent savoir aux Siamois que Melaka était considérée comme un vassal placé sous la protection chinoise. L'amiral Zheng He fit escale au port lors des grandes expéditions maritimes des trésors Ming du début du XVe siècle — six fois, selon un récit —, plaçant Melaka sur l'un des nœuds les plus importants d'un réseau maritime parrainé par la Chine, jusqu'à ce que les Ming se replient sur eux-mêmes vers le milieu du siècle.
+
+La seconde fut sa portée sur ses voisins. Melaka mena une politique expansionniste, annexant l'État de Pahang, riche en or, et obtenant la suzeraineté sur une bonne partie des côtes de la péninsule Malaise et de l'est de Sumatra ; des États de tout l'archipel en vinrent à reconnaître son souverain comme suzerain, et l'islam s'enracina par l'intermédiaire de sultanats subsidiaires comme Johor, Kedah, Perak, Pahang et Terengganu. Même Majapahit, à Java, méfiante face à l'essor de Melaka, rechercha la paix — dans la tradition malaise, en la scellant par un mariage royal entrant dans la cour de Mansur Shah. À son apogée, le port aurait accueilli quelque 15 000 marchands de nombreuses nationalités — Chinois, Arabes, Persans, Indiens et d'autres —, se pressant dans une rade qui, selon une première estimation européenne, dépassait toute autre du monde connu.
+
 ## La conversion qui changea une région
 
 À un moment du XVe siècle — le souverain et l'année exacts font débat parmi les historiens — la cour de Melaka se convertit à l'islam. Quelle qu'ait été la séquence précise, l'effet n'est pas contesté : un port déjà central dans le commerce régional devint un foyer depuis lequel l'islam se diffusa vers Java, le sud des Philippines et au-delà. Melaka n'importa pas tant l'islam qu'elle ne le relaya, et ce faisant le fondit durablement avec la culture de cour malaise — le sultanat, et non le village, devint le vecteur de la diffusion de la religion.
@@ -95,10 +109,15 @@ La richesse de Melaka finit par attirer l'attention que la richesse attire toujo
 
 Melaka ne dura que 110 ans à peine en tant que sultanat indépendant, ce qui est court à l'aune des empires qui l'entouraient. Mais presque toutes les institutions qui définirent plus tard l'État « malais » — le sultanat comme forme de gouvernement, le malais de Melaka comme langue commune, le droit de cour islamique fondu avec la coutume adat — soit y sont nées, soit y sont passées en chemin vers ailleurs. Lorsque la constitution moderne de la Malaisie consacre l'institution des Souverains malais, ou lorsqu'un distique de proverbes malais sur la loyauté envers un sultan est cité dans un manuel scolaire, le point de référence, aussi lointain soit-il, est la cour de Melaka. Une seule ville commerçante, bâtie sur l'obstination d'un chevrotain et sur la synchronie d'une mousson, accomplit encore un travail discret dans la vie civique malaisienne six cents ans plus tard.
 
+## Pour aller plus loin
+
+- Suivez le trône vers le sud après 1511 dans [le Sultanat de Johor-Riau](/fr/malaysia/johor-riau-sultanate), héritier direct de Melaka
+- Lisez le siège lui-même dans [la conquête portugaise de Melaka, 1511](/fr/malaysia/portuguese-melaka-1511)
+- Remontez plus loin, vers les premières entités politiques de la péninsule, dans [Langkasuka](/fr/malaysia/langkasuka)
+
 ---
 
 *Cet article est classé comme sensible (3R+1 : royauté) selon la politique
 éditoriale de NegaraKu.md, car son sujet est l'origine du sultanat malais en tant
 qu'institution et qu'il aborde aussi l'arrivée de l'islam dans l'archipel. Il est
-rédigé de manière strictement descriptive et reste à l'état de brouillon dans
-l'attente d'une approbation humaine avant publication.*
+rédigé de manière strictement descriptive.*

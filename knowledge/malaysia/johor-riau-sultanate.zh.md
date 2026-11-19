@@ -18,7 +18,7 @@ keyTakeaways:
   - "1824年英荷条约及其后续安排将这片疆域一分为二：廖内-林加归属荷兰，柔佛则纳入英国势力范围"
 appliesTo: "任何想了解马六甲马来皇室体制如何不间断地延续至现代马来州属，特别是柔佛的人。"
 lang: "zh"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "4378491a1522cd95"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -33,7 +33,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "柔佛苏丹国历史 (Sejarah Kesultanan Johor)"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -49,6 +49,9 @@ sources:
     publisher: "马来西亚国家档案馆"
   - title: "马来纪年 (Sejarah Melayu (Sulalatus Salatin))"
     publisher: "马来西亚国家档案馆"
+  - title: "柔佛苏丹国 (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -105,6 +108,16 @@ framework: history-culture
 
 根据苏丹国的官方记载，柔佛王位的这些交接「经由协商、亲善与和解」完成——并未发生明显的冲突或伤害。
 
+## 动荡的世纪：荷兰人、占碑与武吉斯人
+
+倘若按照皇室记载，王位的世系是在平和中代代相传，那么环绕这个王位的世界却远为动荡。十七世纪与十八世纪初，柔佛饱经外来战争与强权政治的考验，而这些重新界定了究竟谁才是真正的统治者。
+
+**与荷兰结盟及葡属马六甲的陷落（1641年）。** 在柔佛、马六甲的葡萄牙人与亚齐苏丹国之间的三方角力中，柔佛最终倒向了同样与葡萄牙为敌的荷兰东印度公司（VOC）。1641年1月14日，由 Bendahara Skudai 率领的荷兰与柔佛联军从葡萄牙人手中攻下马六甲城，结束了葡萄牙对该城长达130年的统治。此后马六甲归荷兰所有，直至1824年英荷条约。在此之前，亚齐在苏丹 Iskandar Muda 统治下曾于1613年与1615年进攻柔佛；与亚齐角力的高峰是1629年在 Sungai Duyong 的战役。
+
+**柔佛-占碑战争。** 和平并未长久。一桩原先筹划的联姻——柔佛王位继承人与占碑贵族之女之间——因这位王子转而迎娶 Laksamana Abdul Jamil 之女而告吹。由这场龃龉爆发了一场始于1666年、长达13年的战争。1673年，占碑军队进攻并摧毁了柔佛位于 Batu Sawar 的都城；Sultan Abdul Jalil Shah III 退往彭亨，不久即驾崩。在 Sultan Ibrahim Shah（1677–1685年在位）治下，柔佛请来武吉斯武士相助，至1679年重夺其地位。
+
+**武吉斯人的崛起。** 被请来的武吉斯武士不肯离去，他们的影响力就此在柔佛扎根。1699年马六甲世系终结后，武吉斯人在王位争夺的漩涡中愈发深入干预。当来自 Siak、自称是 Sultan Mahmud Shah II 之子的 Raja Kecil 篡夺王位时，武吉斯人支持 Raja Sulaiman 于1722年将其推翻。Sultan Sulaiman 登上王位，但真正的治理权却掌握在担任 Yang Dipertuan Muda（Yamtuan Muda）一职的武吉斯领袖手中。1760年至1784年间，武吉斯人掌控了苏丹国的行政，苏丹作为主权的象征，而 Yang Dipertuan Muda 则是实权的掌握者。
+
 ## 疆域的分裂：1824年条约
 
 柔佛-廖内疆域的统一并未持续下去。1824年英荷条约（伦敦条约）由英国与荷兰签署，划定了这两个欧洲强权在本地区的势力范围。
@@ -136,5 +149,4 @@ framework: history-culture
 ---
 
 *根据 NegaraKu.md 的编辑政策，本文被归类为敏感内容（3R+1：皇室），因为其主题
-涉及马来皇室体制的延续性。本文以描述性方式撰写，并对皇室体制给予充分尊重，
-在正式发表前保持草稿状态，等待人工审核。*
+涉及马来皇室体制的延续性。本文以描述性方式撰写，并对皇室体制给予充分尊重。*

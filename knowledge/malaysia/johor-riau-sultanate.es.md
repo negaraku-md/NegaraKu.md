@@ -19,7 +19,7 @@ keyTakeaways:
   - "El Tratado Anglo-Neerlandés de 1824 y sus consecuencias dividieron este territorio: Riau-Lingga bajo los neerlandeses, Johor dentro de la esfera británica"
 appliesTo: "Cualquiera que quiera entender cómo la institución real malaya de Melaka continuó sin interrupción hasta los estados malayos modernos, en particular Johor."
 lang: "es"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "4378491a1522cd95"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -34,7 +34,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Historia del Sultanato de Johor (Sejarah Kesultanan Johor)"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -50,6 +50,9 @@ sources:
     publisher: "Archivo Nacional de Malasia (Arkib Negara Malaysia)"
   - title: "Sejarah Melayu (Sulalatus Salatin)"
     publisher: "Archivo Nacional de Malasia (Arkib Negara Malaysia)"
+  - title: "Sultanato de Johor (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -106,6 +109,16 @@ Este acontecimiento se convirtió en un gran punto de inflexión. Al no haber un
 
 Según los registros oficiales del sultanato, estas transiciones del trono de Johor se produjeron «mediante la negociación, la buena voluntad y la reconciliación» — sin conflicto ni daño significativos.
 
+## Un siglo turbulento: los neerlandeses, Jambi y los Bugis
+
+Si el linaje del trono pasó de mano en mano pacíficamente según la crónica real, el mundo que rodeaba a ese trono era mucho más turbulento. Los siglos XVII y comienzos del XVIII vieron a Johor puesto a prueba por guerras extranjeras y una política de poder que rehízo quién gobernaba en realidad.
+
+**Alianza con los neerlandeses y la caída de la Melaka portuguesa (1641).** En la rivalidad triangular entre Johor, los portugueses de Melaka y el Sultanato de Acheh, Johor acabó aliándose con la Compañía Neerlandesa de las Indias Orientales (VOC), que también estaba en guerra con Portugal. El 14 de enero de 1641, las fuerzas combinadas neerlandesas y de Johor — al mando del Bendahara Skudai — tomaron la ciudad de Melaka a los portugueses, poniendo fin a 130 años de dominio portugués sobre la ciudad. Melaka pasó entonces a ser posesión neerlandesa hasta el Tratado Anglo-Neerlandés de 1824. Antes de eso, Acheh, bajo el Sultán Iskandar Muda, había atacado Johor en 1613 y 1615; el punto culminante de la rivalidad con Acheh fue la batalla del río Duyong en 1629.
+
+**La guerra de Johor-Jambi.** La paz no duró. Una alianza matrimonial planeada entre el heredero de Johor y una hija de un noble de Jambi se vino abajo cuando el príncipe se casó, en cambio, con la hija del Laksamana Abdul Jamil. De aquella ruptura estalló una guerra de 13 años que comenzó en 1666. En 1673, las fuerzas de Jambi atacaron y destruyeron la capital de Johor en Batu Sawar; el Sultán Abdul Jalil Shah III se retiró a Pahang y murió poco después. Bajo el Sultán Ibrahim Shah (que reinó entre 1677 y 1685), Johor recurrió a los guerreros Bugis en busca de ayuda y recuperó su posición hacia 1679.
+
+**El ascenso de los Bugis.** Los guerreros Bugis que habían sido traídos se negaron a marcharse, y su influencia echó raíces en Johor. Tras extinguirse la línea de Melaka en 1699, la intervención Bugis se profundizó en medio de la disputa por el trono. Cuando Raja Kecil de Siak — que afirmaba ser hijo del Sultán Mahmud Shah II — se apoderó del trono, los Bugis apoyaron a Raja Sulaiman para derrocarlo en 1722. El Sultán Sulaiman ocupó el trono, pero el verdadero poder de gobierno residía en el líder Bugis que ostentaba el cargo de Yang Dipertuan Muda (Yamtuan Muda). Entre 1760 y 1784, los Bugis dominaron la administración del sultanato, con el sultán como símbolo de la soberanía y el Yang Dipertuan Muda como poseedor del poder real.
+
 ## División territorial: el Tratado de 1824
 
 La unidad territorial de Johor-Riau no perduró. El Tratado Anglo-Neerlandés de 1824 (el Tratado de Londres), firmado entre Gran Bretaña y los Países Bajos, dividió las esferas de influencia de las dos potencias europeas en la región.
@@ -139,5 +152,4 @@ Cuando la Constitución Federal de hoy preserva la institución de los Gobernant
 *Este artículo está clasificado como sensible (3R+1: realeza) según la política
 editorial de NegaraKu.md, porque su tema toca la continuidad de la institución
 real malaya. Está escrito de forma descriptiva y con pleno respeto hacia la
-institución real, y se mantiene en estado de borrador a la espera de la revisión
-humana antes de su publicación.*
+institución real.*

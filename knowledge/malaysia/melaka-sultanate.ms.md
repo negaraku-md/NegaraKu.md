@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cf412842ff34bf8f"
+sourceContentHash: "c0cb6569dbb2731b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -45,7 +45,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "Melaka dan George Town, Bandar Bersejarah Selat Melaka (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
@@ -58,6 +58,12 @@ sources:
     publisher: "Jabatan Muzium Malaysia"
   - title: "Sejarah Melayu (Malay Annals)"
     publisher: "Arkib Negara Malaysia"
+  - title: "Kesultanan Melaka, World History Jilid 2"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "Sejarah Malaysia: Kesultanan Melaka (History of Malaysia: The Malacca Sultanate)"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -77,6 +83,14 @@ Perdagangan antara China dan India bergerak mengikut monsun: kapal-kapal menaiki
 
 Pentadbiran itu penting sama seperti geografinya. Pemerintah Melaka membina sebuah pentadbiran di sekeliling sebilangan kecil jawatan — Bendahara (menteri utama), Laksamana (panglima laut), Temenggung (ketua keselamatan) dan Syahbandar (ketua pelabuhan, seorang bagi setiap komuniti perdagangan utama) — yang memberikan setiap komuniti saudagar seorang yang boleh diramal untuk berurusan. Tun Perak, Bendahara sepanjang sebahagian besar abad kelima belas, dikenang sebagai pentadbir yang mengekalkan kesatuan sistem itu sepanjang tahun-tahun kemuncak Melaka.
 
+## Zaman kegemilangan: China, dan sebuah empayar negeri naungan
+
+Melaka mencapai kemuncak kuasanya pada akhir abad kelima belas, di bawah Sultan Mansur Shah dan puteranya Alauddin Riayat Shah — zaman yang biasanya dikenang sebagai zaman kegemilangan kesultanan itu. Sebahagian besar pencapaian pentadbiran di sebaliknya dikreditkan kepada Tun Perak, yang berkhidmat sebagai menteri utama dari tahun 1456 hingga 1498 dan, antara pelbagai jasanya, menolak kembali pencerobohan Siam Ayutthaya yang sedang berkembang; Melaka telah pun menangkis serangan Siam pada tahun 1446 dan 1456.
+
+Dua hubungan menyokong kemuncak itu. Yang pertama ialah dengan China Dinasti Ming. Melaka menjalin hubungan rasmi dengan istana Ming dan berusaha mewujudkan ikatan ufti dengannya — satu hubungan yang membawa bobot diplomatik yang nyata: utusan Ming memberitahu pihak Siam bahawa Melaka dianggap sebagai negeri naungan di bawah perlindungan China. Laksamana Zheng He singgah di pelabuhan itu semasa pelayaran harta Ming yang agung pada awal abad kelima belas — enam kali, menurut satu catatan — meletakkan Melaka pada salah satu nod paling penting dalam rangkaian maritim tajaan China, sehinggalah Dinasti Ming berpaling ke dalam sekitar pertengahan abad itu.
+
+Yang kedua ialah jangkauan ke atas negeri-negeri jirannya. Melaka menjalankan dasar peluasan kuasa, menakluk negeri Pahang yang kaya dengan emas dan memperoleh ketuanan ke atas sebahagian besar pesisir Tanah Melayu dan timur Sumatera; negeri-negeri di seluruh Nusantara mengiktiraf pemerintahnya sebagai penaung tertinggi, dan Islam berakar umbi melalui kesultanan naungan seperti Johor, Kedah, Perak, Pahang dan Terengganu. Malah Majapahit di Jawa, yang berwaspada terhadap kebangkitan Melaka, mengusahakan perdamaian — dalam tradisi Melayu, memeteraikannya dengan perkahwinan diraja ke dalam istana Mansur Shah. Pada kemuncaknya, pelabuhan itu dikatakan menjadi tumpuan kira-kira 15,000 saudagar daripada pelbagai bangsa — Cina, Arab, Parsi, India dan lain-lain — memenuhi sebuah pelabuhan yang, menurut satu anggaran awal Eropah, melebihi mana-mana pelabuhan lain di dunia yang diketahui.
+
 ## Pengislaman yang mengubah sebuah rantau
 
 Pada suatu ketika dalam abad kelima belas — pemerintah dan tahun yang tepat diperdebatkan oleh ahli sejarah — istana Melaka memeluk Islam. Apa pun urutan yang tepat, kesannya tidak dipertikaikan: sebuah pelabuhan yang sudah pun menjadi pusat perdagangan serantau menjadi hab yang daripadanya Islam tersebar seterusnya ke Jawa, selatan Filipina dan lebih jauh lagi. Melaka bukannya mengimport Islam sebaliknya menyampaikannya, dan dengan berbuat demikian menyatukannya secara kekal dengan budaya istana Melayu — kesultanan, bukan kampung, yang menjadi wahana bagi penyebaran agama itu.
@@ -95,10 +109,15 @@ Kekayaan Melaka akhirnya menarik perhatian yang sentiasa ditarik oleh kekayaan. 
 
 Melaka bertahan hampir 110 tahun sahaja sebagai kesultanan merdeka, yang singkat menurut ukuran empayar-empayar di sekelilingnya. Tetapi hampir setiap institusi yang kemudiannya mentakrifkan kenegaraan "Melayu" — kesultanan sebagai satu bentuk pemerintahan, bahasa Melayu Melaka sebagai bahasa bersama, undang-undang istana Islam yang disatukan dengan adat — sama ada berasal di sana atau melaluinya dalam perjalanan ke tempat lain. Apabila perlembagaan moden Malaysia mengabadikan institusi Raja-Raja Melayu, atau apabila serangkap peribahasa Melayu tentang taat setia kepada seorang Sultan dipetik dalam buku teks sekolah, titik rujukannya, betapa berabad-abad terpisah pun, ialah istana Melaka. Sebuah kota perdagangan tunggal, yang dibina atas kedegilan seekor pelanduk dan penetapan masa sebuah monsun, masih melakukan kerja yang senyap dalam kehidupan sivik Malaysia enam ratus tahun kemudian.
 
+## Bacaan seterusnya
+
+- Ikuti takhta ke selatan selepas 1511 dalam [Kesultanan Johor-Riau](/ms/malaysia/johor-riau-sultanate), pewaris langsung Melaka
+- Baca kepungan itu sendiri dalam [penaklukan Portugis ke atas Melaka, 1511](/ms/malaysia/portuguese-melaka-1511)
+- Lihat lebih jauh ke belakang pada kerajaan-kerajaan awal di semenanjung dalam [Langkasuka](/ms/malaysia/langkasuka)
+
 ---
 
 *Rencana ini dikelaskan sebagai sensitif (3R+1: royalty) di bawah dasar
 editorial NegaraKu.md, kerana subjeknya ialah asal usul kesultanan Melayu sebagai
 sebuah institusi dan ia juga menyentuh kedatangan Islam di Nusantara. Ia
-ditulis untuk bersifat deskriptif semata-mata dan ditahan dalam draf sementara
-menunggu kelulusan manusia sebelum penerbitan.*
+ditulis untuk bersifat deskriptif semata-mata.*
