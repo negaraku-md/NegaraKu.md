@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Air mata kucing is plant-based and non-alcoholic — dried fruit, monk fruit, winter melon and rock sugar in water — so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual stall."
   served: "Usually served ice-cold, poured from a large chilled dispenser; it can also be drunk warm or at room temperature. It is sweet and refreshing and naturally caffeine-free, which makes it an easy any-time drink rather than a morning pick-me-up."
   where: "Found at hawker stalls, dessert shops and night markets, and most famously from a long-running stall on Jalan Petaling (Petaling Street) in KL's Chinatown, where it is poured ice-cold from a big metal dispenser for the passing market crowds."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "A Malaysian hawker stall vat of dark air mata kucing longan drink with a bilingual sign"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 Step off the crowded market lane of Petaling Street in Kuala Lumpur's Chinatown

@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Air tebu 由蔗汁、冰、或许再加青柠做成，不含酒精，因此饮品本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别摊档查问。"
   served: "加冰冰镇、现点现压供应。可要原味，或加一点青柠以平衡甜味；有些摊档会加一点酸梅或一撮盐。天然糖分高——一款甜味消暑饮品，适量为宜。"
   where: "遍布全国的夜市（pasar malam）、早市、路边小贩摊位、美食广场与果汁档都有——找找那叠摆在电动滚筒压榨机旁的甘蔗茎。"
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "街边小贩用压榨机榨甘蔗，旁边摆着几壶新鲜青绿色的甘蔗汁（air tebu）"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 在马来西亚炎热的午后，没有多少东西能像一杯 **air tebu** 那样驱散暑气——甘蔗水，

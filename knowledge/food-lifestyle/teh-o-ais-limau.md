@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Teh-O ais limau is black tea, water, sugar, ice and lime, with no milk and no alcohol, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual mamak or coffee shop."
   served: "Served iced ('ais'), often in a tall glass with the lime squeezed in. Order 'teh-O limau panas' for the hot version, or add 'kosong' for no sugar. The default comes sweet, so 'kurang manis' (less sweet) is a common request."
   where: "Found at mamak stalls, kopitiam coffee shops and pasar malam nationwide, where it is one of the default hot-weather orders — the light alternative when teh tarik feels too rich."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A tall glass of iced black tea with lemon slices and no milk"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 Order "teh tarik" and you get the rich, frothy, milky icon of the Malaysian

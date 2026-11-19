@@ -81,7 +81,14 @@ drinkFacts:
   origin: "A staple fresh-lime cooler of Malaysian mamak and kopitiam counters, built on the local limes (calamansi/limau kasturi, limau nipis) rather than a single inventor. The limau asam boi version adds dried sour plum for a sweet-salty-sour depth."
   halal: "Lime, sugar and water, with no alcohol, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual stall."
   served: "Served cold over ice, squeezed fresh; ask for 'kurang manis' for less sweet. Order it plain, or as limau asam boi with dried sour plum and a pinch of salt. Distinct from teh O ais limau, which is iced lime tea."
-  where: "Found at mamak outlets, kopitiam and hawker drink stalls across the country — one of the most-ordered everyday coolers."
+  where: "Found at mamak outlets, kopitiam and hawker drink stalls across the country — one of the most-ordered everyday coolers."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A tumbler of iced lime juice (air limau ais) with a fresh lime wedge, seen from above"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 Ask for a cold drink at almost any Malaysian mamak and one answer never fails: **air

@@ -85,6 +85,13 @@ drinkFacts:
   halal: "teh-O ais limau は紅茶、水、砂糖、氷、ライムで、ミルクもアルコールもないので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の mamak やコーヒー店で確認すべきだ。"
   served: "氷入り（「ais」）で、しばしば背の高いグラスにライムを搾り入れて供される。温かい版には「teh-O limau panas」、砂糖なしには「kosong」を加えて注文する。既定は甘く出てくるので、「kurang manis」（甘さ控えめ）はよくある注文だ。"
   where: "全国の mamak の屋台、kopitiam のコーヒー店、pasar malam で見かけ、そこでは既定の暑い時季の注文の一つ——teh tarik がこってり感じられるときの軽い選択肢——となっている。"
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "レモンスライス入りでミルクなしの、背の高いグラスのアイス紅茶"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 「teh tarik」と注文すれば、マレーシアのコーヒー店の、こくがあって泡立つミルキーな

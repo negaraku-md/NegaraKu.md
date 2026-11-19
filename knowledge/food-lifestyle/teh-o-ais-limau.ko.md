@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Teh-O ais limau은 홍차, 물, 설탕, 얼음, 라임으로, 우유도 알코올도 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 mamak나 커피숍을 확인해야 한다."
   served: "얼음에('ais') 내며, 흔히 라임을 짜 넣은 긴 유리잔에 담는다. 뜨거운 버전은 'teh-O limau panas', 무설탕은 'kosong'을 더해 주문한다. 기본값이 달게 나오므로 'kurang manis'(덜 달게)가 흔한 요청이다."
   where: "전국의 mamak 노점, kopitiam 커피숍, pasar malam에서 찾을 수 있으며, 그곳에서 기본으로 찾는 더운 날씨 주문의 하나다 — teh tarik가 너무 진하게 느껴질 때의 가벼운 대안이다."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "레몬 조각이 들어가고 우유가 없는, 키 큰 잔의 아이스 홍차"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 "teh tarik"을 주문하면 말레이시아 커피숍의 진하고 거품 많은 우윳빛 상징을 얻는다.

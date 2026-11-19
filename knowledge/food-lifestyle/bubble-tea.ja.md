@@ -87,6 +87,13 @@ drinkFacts:
   halal: "マレーシアの大手チェーンは JAKIM のハラル認証を保持する——Chatime Malaysia が取得し、JAKIM は2019年に Tealive をハラルと公に確認した——それが bubble tea を共同体をまたいで共有される飲み物にするのを助けた。ハラルの保証は特定の認証を受けた店舗に付随するので、あらゆる bubble tea が認証済みだと決めつけず、個々の店の掲示された認証を確認すること。"
   served: "伝統的な kopitiam ではなく、専門のチェーン店やモールのキオスクから、氷を入れて冷たく供される（温かい版もある）。カウンターでカスタマイズ可能——甘さの度合い（例：50%、「控えめ」）、氷の度合い、トッピングを選ぶ。粒は目印の太いストローで吸い上げる。"
   where: "全国のモール、大通り、ドライブスルーにある専門の bubble tea チェーン（Tealive、Chatime その他多数）で見かける——kopitiam の定番とは別物の、現代的で都会的な飲み物だ。"
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "底に黒いタピオカパールが厚く溜まった、背の高いグラスのバブルティー（bubble tea）"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
 ---
 
 マレーシアのどのモールを歩いても、数分のうちにそれらの前を通り過ぎる。前に行列のできた明るい小さな

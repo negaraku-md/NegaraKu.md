@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Le teh-O ais limau est du thé noir, de l'eau, du sucre, de la glace et du citron vert, sans lait ni alcool, donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque mamak ou café."
   served: "Servi glacé (« ais »), souvent dans un grand verre avec le citron vert pressé dedans. Commandez « teh-O limau panas » pour la version chaude, ou ajoutez « kosong » pour sans sucre. La version par défaut arrive sucrée, « kurang manis » (moins sucré) est donc une demande courante."
   where: "On le trouve dans les stands mamak, les cafés kopitiam et les pasar malam de tout le pays, où il est l'une des commandes par défaut par temps chaud — l'alternative légère quand le teh tarik paraît trop riche."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un grand verre de thé noir glacé avec des tranches de citron et sans lait"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 Commandez « teh tarik » et vous obtenez l'icône riche, mousseuse et lactée du café

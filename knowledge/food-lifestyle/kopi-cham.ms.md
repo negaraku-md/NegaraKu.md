@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Kopi cham ialah kopi, teh, air dan susu, tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap kedai kopi."
   served: "Dihidang panas secara lalai; pesan 'ais kopi cham' atau 'cham peng' untuk beais. Datang manis dengan susu pekat; tambah 'kosong' untuk tanpa gula atau 'kurang manis' untuk kurang manis. Dipesan melalui kod bermodul yang sama (O, C, kosong, gao, peng) dengan kopi dan teh."
   where: "Terdapat di kedai kopi kopitiam dan gerai mamak di seluruh negara, dituang dari kaunter yang sama dengan kopi dan teh tarik — minuman bila-bila masa harian untuk mereka yang tidak dapat memilih antara kopi dan teh."
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Kopi cham berbuih dalam cawan dan piring kopitiam bercorak bunga"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
 ---
 
 Bagi sesiapa yang duduk di kedai kopi Malaysia dan tidak dapat memilih antara kopi dan teh,

@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Cincau có nguồn gốc thực vật và không cồn — thảo mộc đun sôi, nước và đường — nên bản thân thạch là halal. Sự bảo đảm halal gắn với cơ sở bán hàng và với bất cứ thứ gì nó được pha trộn (như sữa trong một ly soya cincau hai tông màu), nên những thực khách cần chứng nhận nên kiểm tra từng quán."
   served: "Phục vụ lạnh. Dùng riêng thì gọi là 'air cincau' — những khối thạch trong nước đá ngọt. Rót cùng sữa đậu nành thì thành 'soya cincau', có biệt danh 'Michael Jackson' vì những lớp đen-trắng. Nó cũng là một món phủ tiêu chuẩn trong cendol, ais kacang (ABC) và món leng chi kang nhiều nguyên liệu."
   where: "Tìm thấy tại kopitiam, các quầy hàng rong, tiệm tráng miệng và pasar malam khắp cả nước, và được bán sẵn trong hộp giấy và lon (như Yeo's) ở mọi siêu thị và cửa hàng tạp hóa."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Ly thạch sương sâm (cincau) ướp lạnh với thạch đen lắng dưới đáy"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
 ---
 
 Vào một buổi chiều nóng bức tại một quán cà phê Malaysia, một trong những cách rẻ

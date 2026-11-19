@@ -100,6 +100,13 @@ drinkFacts:
   halal: "जैसा आमतौर पर बनाया जाता है, Milo dinosaur हलाल है: बर्फ़ पर Milo पाउडर, दूध और पानी का एक ग़ैर-मादक पेय, बिना किसी मांस या शराब के। मलेशिया में बिकने वाला Milo, Nestle Malaysia द्वारा JAKIM के अंतर्गत हलाल प्रमाणित है, और यह पेय mamak (भारतीय-मुस्लिम) ठेलों पर एक मुख्य पेय है, जो आमतौर पर हलाल होते हैं। किसी भी ठेला-भोजन की तरह, आश्वासन विशिष्ट परिसर और सामग्री पर टिका होता है।"
   served: "एक लंबे गिलास में ठंडा, बर्फ़ पर परोसा जाता है, एक चम्मच सूखे Milo पाउडर से सजा हुआ — और कभी-कभी ढेर के बीच से एक स्ट्रॉ धँसा हुआ। भरपूर Milo godzilla वही पेय है जिसके ऊपर आइसक्रीम और/या व्हिप्ड क्रीम का एक स्कूप हो; 'Milo tabur' (मलय में 'छिड़का हुआ') पाउडर-भरे संस्करण का एक और नाम है। Milo kosong बिना अतिरिक्त चीनी के बनाया जाता है।"
   where: "मलेशिया भर के mamak ठेलों, kopitiam (कॉफ़ी शॉप), pasar malam पेय-गाड़ियों और फ़ूड कोर्ट पर, और सिंगापुर में भी व्यापक रूप से। यह किसी विशेष-कैफ़े पेय के बजाय एक रोज़मर्रा का, सस्ता ऑर्डर है, जहाँ भी Milo पटल पर हो वहाँ मिलता है।"
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "बिना घुले Milo पाउडर के मोटे ढेर से सजा बर्फ़ीले Milo का गिलास"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
 ---
 
 एक मलेशियाई mamak पर Milo ऑर्डर करें और आपको एक ठंडा, मीठा, चॉकलेटी पेय मिलता है। एक **Milo

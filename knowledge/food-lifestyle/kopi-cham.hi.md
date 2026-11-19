@@ -84,6 +84,13 @@ drinkFacts:
   halal: "kopi cham कॉफ़ी, चाय, पानी और दूध है, बिना मदिरा के, इसलिए पेय स्वयं हलाल है। हलाल का आश्वासन परिसर से जुड़ा होता है, इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग कॉफ़ी शॉप की जाँच कर लेनी चाहिए।"
   served: "डिफ़ॉल्ट रूप से गर्म परोसा जाता है; बर्फ़ के लिए 'ais kopi cham' या 'cham peng' ऑर्डर करें। गाढ़े दूध के साथ मीठा आता है; बिना चीनी के लिए 'kosong' या कम मीठे के लिए 'kurang manis' जोड़ें। kopi और teh जैसे उसी मॉड्यूलर कोड (O, C, kosong, gao, peng) के ज़रिए ऑर्डर किया जाता है।"
   where: "देश भर के kopitiam कॉफ़ी शॉपों और mamak ठेलों पर मिलता है, उसी काउंटर से उड़ेला जाता है जिससे kopi और teh tarik — उनके लिए एक रोज़मर्रा का किसी-भी-समय का पेय जो कॉफ़ी और चाय के बीच चुन नहीं पाते।"
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "फूलों वाली kopitiam प्याली और तश्तरी में झागदार कॉफ़ी-और-चाय का मिश्रण (kopi cham)"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
 ---
 
 जो भी किसी मलेशियाई कॉफ़ी शॉप पर बैठता है और कॉफ़ी व चाय के बीच तय नहीं कर पाता, उसके लिए काउंटर

@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Air tebu ialah jus tebu, ais dan mungkin limau, tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidang sejuk di atas ais, diperah segar bila dipesan. Mintalah ia kosong atau dengan perahan limau untuk menebus rasa manis; sesetengah gerai menambah sedikit buah masin atau secubit garam. Tinggi gula semula jadi — penyejuk manis, paling baik secara sederhana."
   where: "Terdapat di pasar malam, pasar pagi, gerai jaja tepi jalan, medan selera dan bar jus di seluruh negara — carilah timbunan batang tebu di sebelah mesin penggulung bermotor."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Penjaja memerah tebu melalui kilang di sebelah jag air tebu hijau segar"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 Pada petang Malaysia yang panas, sedikit sahaja yang mampu menebus kepanasan seperti

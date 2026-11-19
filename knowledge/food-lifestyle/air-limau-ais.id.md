@@ -82,7 +82,14 @@ drinkFacts:
   origin: "Minuman penyegar jeruk segar yang menjadi andalan gerai mamak dan kopitiam Malaysia, dibangun di atas limau lokal (calamansi/limau kasturi, limau nipis) alih-alih seorang penemu tunggal. Versi limau asam boi menambahkan plum asam kering untuk kedalaman rasa manis-asin-asam."
   halal: "Jeruk, gula, dan air, tanpa alkohol, sehingga minumannya sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan dingin dengan es, diperas segar; minta 'kurang manis' untuk gula lebih sedikit. Pesan polos, atau sebagai limau asam boi dengan plum asam kering dan sejumput garam. Berbeda dari teh O ais limau, yang merupakan teh jeruk dingin."
-  where: "Ditemukan di gerai mamak, kopitiam, dan gerai minuman kaki lima di seluruh negeri — salah satu minuman penyegar sehari-hari yang paling laris."
+  where: "Ditemukan di gerai mamak, kopitiam, dan gerai minuman kaki lima di seluruh negeri — salah satu minuman penyegar sehari-hari yang paling laris."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Gelas jus jeruk nipis dingin (air limau ais) dengan potongan jeruk nipis segar, dilihat dari atas"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 Minta minuman dingin di hampir semua gerai mamak Malaysia dan satu jawaban tak pernah

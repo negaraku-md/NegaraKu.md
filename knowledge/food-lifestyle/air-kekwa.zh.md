@@ -83,6 +83,13 @@ drinkFacts:
   halal: "只有花、水与糖——无肉、无动物制品、无酒精——因此是素食的，本身也是清真的。清真保证附属于店面，因此需要认证的食客应查看店家或瓶身标签。"
   served: "可热饮或冰饮；如偏好，可要少糖。人们普遍饮用它来平衡「上火」、油炸或丰腴的食物与炎热天气——这是一种关于平衡的文化信念，而非医疗声称。也有瓶装与罐装的即饮菊花茶出售。"
   where: "在 kopitiam、凉茶与凉茶档有售，全国各地的商店与超市也有瓶装或罐装产品。"
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "花纹茶杯中一杯淡色菊花茶（air kekwa），花瓣正在浸泡"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 在马来西亚咖啡店那些香甜的奶味饮品之间，**air kekwa** 显得有些与众不同：清澈、

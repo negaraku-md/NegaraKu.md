@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Teh, halia dan susu, tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai kopitiam atau mamak."
   served: "Dihidangkan panas untuk keselesaannya yang menghangatkan, dan juga ber-ais. Manis daripada susu pekat; minta kurang manis jika mahu. Selalunya ditarik (tarik) seperti teh tarik; cawan menenangkan yang popular dan minuman sahur yang lazim semasa Ramadan."
   where: "Terdapat di kopitiam dan gerai mamak di seluruh negara, dituang dari kaunter yang sama dengan teh tarik dan kopi; juga dijual sebagai sachet teh susu halia segera."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Mug kaca berisi teh halia berwarna perang di atas meja kayu"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
 ---
 
 Ambil minuman paling terkenal negara, tambah kick halia yang hangat, dan anda dapat **teh

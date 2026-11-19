@@ -84,6 +84,13 @@ drinkFacts:
   halal: "L'air tebu, c'est du jus de canne, de la glace et peut-être du citron vert, sans alcool, donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Servi froid sur de la glace, pressé frais à la commande. Demandez-le nature ou avec un trait de citron vert pour couper le sucre ; certains stands ajoutent un peu de prune salée ou une pincée de sel. Riche en sucre naturel — une boisson rafraîchissante sucrée, à savourer avec modération."
   where: "On le trouve dans les pasar malam (marchés nocturnes), les marchés du matin, les stands de rue, les aires de restauration et les bars à jus de tout le pays — repérez la pile de tiges de canne à côté d'une presse à rouleaux motorisée."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Un vendeur de rue pressant de la canne à sucre dans un moulin à côté de pichets de jus de canne vert frais (air tebu)"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 Par un après-midi de chaleur en Malaisie, peu de choses coupent la chaleur comme un

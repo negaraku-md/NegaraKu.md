@@ -82,7 +82,14 @@ drinkFacts:
   origin: "Một món giải khát chanh tươi chủ lực của các quầy mamak và kopitiam Malaysia, dựa trên các loại chanh địa phương (calamansi/limau kasturi, limau nipis) chứ không phải một người phát minh duy nhất. Phiên bản limau asam boi thêm xí muội sấy khô để có chiều sâu ngọt-mặn-chua."
   halal: "Chanh, đường và nước, không có cồn, nên bản thân thức uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy."
   served: "Phục vụ lạnh với đá, vắt tươi; gọi 'kurang manis' để bớt ngọt. Gọi loại thường, hoặc gọi limau asam boi với xí muội sấy khô và một nhúm muối. Khác với teh O ais limau, vốn là trà chanh đá."
-  where: "Tìm thấy tại các quầy mamak, kopitiam và quầy đồ uống hàng rong khắp cả nước — một trong những món giải khát thường ngày được gọi nhiều nhất."
+  where: "Tìm thấy tại các quầy mamak, kopitiam và quầy đồ uống hàng rong khắp cả nước — một trong những món giải khát thường ngày được gọi nhiều nhất."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Ly nước chanh đá (air limau ais) với miếng chanh tươi, nhìn từ trên xuống"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 Gọi một ly nước mát ở hầu như bất kỳ quán mamak nào của Malaysia thì luôn có một câu trả

@@ -86,6 +86,13 @@ drinkFacts:
   halal: "L'air mata kucing est d'origine végétale et sans alcool — fruit séché, fruit du moine, courge cireuse et sucre candi dans de l'eau — donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Habituellement servi glacé, versé depuis un grand distributeur réfrigéré ; il peut aussi se boire chaud ou à température ambiante. Il est sucré et rafraîchissant, et naturellement sans caféine, ce qui en fait une boisson facile à toute heure plutôt qu'un stimulant matinal."
   where: "On le trouve dans les stands de rue, les boutiques de desserts et les marchés nocturnes, et le plus célèbrement depuis un stand de longue date sur Jalan Petaling (Petaling Street) dans le quartier chinois (Chinatown) de KL, où il est versé glacé depuis un grand distributeur en métal pour la foule du marché qui passe."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Une cuve d'échoppe de hawker malaisienne de boisson sombre au longane air mata kucing avec une pancarte bilingue"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 Quittez la ruelle bondée de marché de Petaling Street, dans le quartier chinois

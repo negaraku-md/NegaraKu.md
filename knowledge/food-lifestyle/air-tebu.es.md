@@ -83,6 +83,13 @@ drinkFacts:
   halal: "El air tebu es zumo de caña, hielo y quizá lima, sin alcohol, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve frío sobre hielo, prensado fresco al momento. Pídelo solo o con un chorrito de lima para rebajar el dulzor; algunos puestos añaden un poco de ciruela salada o una pizca de sal. Alto en azúcar natural —un refrescante dulce, mejor con moderación."
   where: "Se encuentra en los pasar malam (mercados nocturnos), mercados matutinos, puestos de comida callejera, patios de comidas y zumerías por todo el país —busca el montón de cañas junto a una prensa de rodillos motorizada."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Un vendedor ambulante prensando caña de azúcar en un molino junto a jarras de zumo verde fresco de caña (air tebu)"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 En una calurosa tarde malasia, pocas cosas cortan el calor como un vaso de **air

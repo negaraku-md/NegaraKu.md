@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Kopi cham là cà phê, trà, nước và sữa, không có cồn, nên bản thân đồ uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quán cà phê."
   served: "Phục vụ nóng theo mặc định; gọi 'ais kopi cham' hay 'cham peng' để lấy dạng đá. Đến với vị ngọt từ sữa đặc; thêm 'kosong' để không đường hoặc 'kurang manis' để ít ngọt hơn. Được gọi qua cùng một bộ mã theo mô-đun (O, C, kosong, gao, peng) như kopi và teh."
   where: "Tìm thấy tại các quán cà phê kopitiam và quầy mamak khắp cả nước, được rót từ cùng một quầy như kopi và teh tarik — một đồ uống hằng ngày, bất cứ lúc nào cho những ai không thể chọn giữa cà phê và trà."
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Hỗn hợp cà phê pha trà nổi bọt (kopi cham) trong tách và đĩa kopitiam hoa văn"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
 ---
 
 Với bất kỳ ai ngồi xuống tại một quán cà phê Malaysia mà không thể quyết định giữa cà

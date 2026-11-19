@@ -99,6 +99,13 @@ drinkFacts:
   halal: "テ・タレはママックの屋台——インド系ムスリムの飲食店——やコピティアムで売られるノンアルコールの茶であり、そのママックの場においてはハラルの飲み物である。それが、共同体をまたいで共有される社交の飲み物となった理由の一端でもある。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の店で確認すべきだ。"
   served: "温かく泡立てて供され、二つの容器のあいだで引っ張って冷まし、混ぜ、空気を含ませる。既定の「テ・タレ（teh tarik）」は練乳で甘い。ミルクなしの紅茶には「teh-O」、無糖練乳には「teh-C」、砂糖控えめには「kurang manis」、冷たい版には「teh ais」／「teh peng」と注文する。"
   where: "全国のママックの屋台、コピティアムのコーヒーショップ、パサール・マラム（pasar malam）で見かけ、そこでは日常の社交の飲み物となっている。「jom teh tarik」（「テ・タレに行こう」）は茶そのものというより、腰を据えて語り合おうという誘いだ。"
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "マーブルのテーブルに置かれた、泡立つ茶色の引き延ばしミルクティー（teh tarik）のクリアなガラスマグ"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
 ---
 
 その光景はマレーシアの暮らしに欠かせない定番だ。ママック（mamak）の屋台で、男が使い込んだ

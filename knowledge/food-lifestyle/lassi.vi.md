@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Lassi là sữa chua, nước hoặc sữa, và đường hoặc trái cây — không có thịt và không cồn — nên nó là chay và, tự thân nó, halal, và là một bạn đồng hành tự nhiên của các bữa banana-leaf chay. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng nhà hàng."
   served: "Phục vụ lạnh, thường trong một ly cao, nổi bọt từ việc xay. Gọi nó ngọt, mặn hoặc dạng xoài (hay một loại trái cây khác); nó là một món ăn kèm kinh điển cho một món cà ri cay hoặc một bữa banana-leaf-rice, làm mát vòm miệng giữa các miếng ăn."
   where: "Tìm thấy tại các nhà hàng Ấn, các tiệm banana-leaf-rice, các quầy lassi chuyên biệt và nhiều quán mamak khắp cả nước, đặc biệt nơi phục vụ đồ ăn Nam Ấn và Bắc Ấn."
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Lassi sữa chua đá màu trắng kem trong cốc hoa văn cắm ống hút"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
 ---
 
 Ngồi xuống trước một đĩa banana-leaf rice bốc lửa hay một món cà ri Bắc Ấn đậm đà, và

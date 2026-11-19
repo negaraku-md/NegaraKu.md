@@ -86,6 +86,13 @@ drinkFacts:
   halal: "Air mata kucing 属植物性、不含酒精——干果、罗汉果、冬瓜与冰糖加水——因此饮料本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别档口查问。"
   served: "通常加冰冷饮，从一座大型冰镇饮料柜中倒出；也可以温饮或常温饮用。它甜而解渴，天然不含咖啡因，因此更像一款随时可喝的饮料，而非早晨的提神饮品。"
   where: "在小贩摊档、甜品店与夜市都有，最著名的则出自吉隆坡 Chinatown 的 Jalan Petaling（Petaling Street）上一家历史悠久的档口——那里的饮料从一座大型金属饮料柜中冰凉地倒出，卖给经过市场的人潮。"
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "马来西亚小贩摊上一大桶深色的龙眼水（air mata kucing），旁边有双语招牌"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 走出吉隆坡 Chinatown 熙攘的 Petaling Street 市场巷口，很有可能附近就有人正攥着一杯

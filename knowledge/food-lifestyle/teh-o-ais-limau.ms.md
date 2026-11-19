@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Teh-O ais limau ialah teh hitam, air, gula, ais dan limau, tanpa susu dan tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap mamak atau kedai kopi."
   served: "Dihidang beais ('ais'), selalunya dalam gelas tinggi dengan limau diperah masuk. Pesan 'teh-O limau panas' untuk versi panas, atau tambah 'kosong' untuk tanpa gula. Versi lalai datang manis, jadi 'kurang manis' ialah permintaan yang lazim."
   where: "Terdapat di gerai mamak, kedai kopi kopitiam dan pasar malam di seluruh negara, tempat ia menjadi salah satu pesanan cuaca panas yang lalai — alternatif ringan apabila teh tarik terasa terlalu pekat."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Segelas tinggi teh o ais limau dengan hirisan limau tanpa susu"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 Pesan "teh tarik" dan anda dapat ikon kedai kopi Malaysia yang pekat, berbuih dan

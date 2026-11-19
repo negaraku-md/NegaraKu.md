@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Teh-O ais limau 是红茶、水、糖、冰和青柠，不加奶、不含酒精，因此饮料本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别 mamak 或咖啡店查问。"
   served: "加冰（「ais」）供应，常盛在高玻璃杯里、把青柠挤进去。点「teh-O limau panas」要热的版本，或加「kosong」表示不加糖。默认款是甜的，所以「kurang manis」（少糖）是常见的要求。"
   where: "全国的 mamak 摊档、kopitiam 咖啡店与 pasar malam 都有，是炎热天气里的默认点单之一——当 teh tarik 显得太浓时，它便是那款清爽的替代。"
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "一高杯无奶的柠檬冰红茶，加柠檬片"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 点「teh tarik」，你得到的是马来西亚咖啡店那款浓郁、起泡、带奶的招牌；点

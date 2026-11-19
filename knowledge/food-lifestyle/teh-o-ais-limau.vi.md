@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Teh-O ais limau là trà đen, nước, đường, đá và chanh, không sữa và không cồn, nên bản thân đồ uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quán mamak hay quán cà phê."
   served: "Phục vụ đá ('ais'), thường trong một chiếc ly cao với chanh được vắt vào. Gọi 'teh-O limau panas' cho phiên bản nóng, hoặc thêm 'kosong' để không đường. Mặc định có vị ngọt, nên 'kurang manis' (ít ngọt hơn) là một yêu cầu thường gặp."
   where: "Tìm thấy tại các quầy mamak, các quán cà phê kopitiam và pasar malam trên khắp cả nước, nơi nó là một trong những món mặc định cho tiết trời nóng — lựa chọn nhẹ nhàng khi teh tarik có vẻ quá đậm đà."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Ly cao trà đen đá với lát chanh, không sữa"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 Gọi "teh tarik" và bạn nhận được biểu tượng đậm đà, sủi bọt, béo sữa của quán cà

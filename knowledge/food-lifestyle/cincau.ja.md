@@ -85,6 +85,13 @@ drinkFacts:
   halal: "cincau は植物由来でノンアルコール——煮出した薬草、水、砂糖——なので、ゼリーそのものはハラルである。ハラルの保証は店舗と、それとともに混ぜられるもの（二色の soya cincau のミルクなど）に付随するので、認証が必要な食べ手は個々の店で確認すべきだ。"
   served: "冷たく供される。単独なら「air cincau」——甘い氷水に入れたゼリーの角切り。豆乳を注げば「soya cincau」となり、黒と白の層から「Michael Jackson」の愛称で呼ばれる。cendol、ais kacang（ABC）、具だくさんの leng chi kang の定番のトッピングでもある。"
   where: "全国の kopitiam、屋台、デザート店、pasar malam で見かけ、カートンや缶の出来合い（Yeo's など）がどのスーパーや雑貨店でも売られている。"
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "底に黒いゼリーが沈んだ、冷たいグラスゼリー飲料（cincau）"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
 ---
 
 マレーシアのコーヒー店の暑い午後、涼をとるもっとも安上がりな方法の一つが、背の高い

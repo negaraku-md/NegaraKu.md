@@ -98,6 +98,13 @@ drinkFacts:
   halal: "ローズシロップ、ミルク、水のノンアルコールの飲み物で、結婚披露宴やラマダンのイフタールといったマレー・ムスリムの機会で長く供されてきたので、その組成はハラルである。厳格に守る人はなお具体的なシロップとミルクの銘柄を確認してもよい。バンドン・ソーダの変種は普通の炭酸飲料を加えるだけで、同じくノンアルコールだ。"
   served: "氷を入れた鮮やかなピンクで、しばしば泡立つ。祝祭にも日常にもなる飲み物だ。結婚披露宴やクンドゥリ（kenduri）で注がれ、ラマダンのイフタールで振る舞われ、家族の集まりや食堂でナシ・ビリヤニやルンダンといったこってりした料理とともに冷たく供される。"
   where: "全国のママックの屋台、ホーカーセンター、コピティアム、パサール・マラム（pasar malam）の夜市の定番で、「シラップ・バンドン（sirap bandung）」として注文される（氷入りには peng か ais を付ける）。変種——バンドン・ソーダ、仙草入りのバンドン・チンチャウ——も同じ屋台や祝祭の卓に登場する。"
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "ストロー付きの、ピンク色のアイス・ローズシロップミルク（sirap bandung）の背の高いグラス2つ"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
 ---
 
 マレーシアのコーヒーショップの品書きに並ぶあらゆる飲み物のなかで、シラップ・バンドンは真っ先に

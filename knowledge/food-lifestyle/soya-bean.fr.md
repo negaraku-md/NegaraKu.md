@@ -84,6 +84,13 @@ drinkFacts:
   halal: "La boisson au soja est d'origine végétale et sans alcool — graines de soja, eau et sucre — et naturellement sans produits laitiers, donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Servi chaud ou sur glace, légèrement sucré. Accords courants : avec le tau foo fah (flan de tofu soyeux) en formule dessert, ou versé sur de la gelée aux herbes noire en « soya cincau » (le « Michael Jackson »). Les versions de style Penang misent sur le pandan et le sucre roux ; les cafés à soja modernes proposent des variantes au haricot noir, au sésame noir et au haricot rouge."
   where: "On le trouve dans les stands de kopitiam, les centres de hawker, les pasar malam et les boutiques dédiées au soja de tout le pays — souvent depuis un stand qui ne vend que du lait de soja et du tau foo fah — ainsi qu'en bouteille dans les supermarchés."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un grand verre de lait de soja pâle avec des graines de soja à côté"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
 ---
 
 Dans d'innombrables cafés malaisiens, un seul stand ne fait que du soja : une cuve de

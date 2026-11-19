@@ -27,12 +27,8 @@ not core features.
 ---
 
 ## 🟢 Held locally right now (awaiting `push`)
-- `2753c8690` — **喝 Drink tranche 2**: 5 discrete-drink "what-is" cards (cincau,
-  air-mata-kucing, teh-o-ais-limau, soya-bean, air-kelapa; MY-FDL-0088–0092) × 13
-  languages = 65 files + hub `related[]` wiring. Full gate green; render-verified.
-
-Everything else from earlier sessions is **pushed + live** (the old "held locally"
-block — food heroes B.1/B.2, the 3R publish-gate hardening — all shipped).
+- _Nothing held._ `2753c8690` (喝 Drink tranche 2) and everything from earlier
+  sessions are **pushed + live**.
 
 ---
 
@@ -141,7 +137,14 @@ best-in-class; the gap is **off-page** (third-party citations, backlinks, domain
   restaurant/real-photo rollout. Pending approval.
 - [ ] **orang-asli-food** — held editorial call: respectful documentary photo vs. keep
   the neutral branded fallback. ~17 fine-dining/MICHELIN profiles acceptably on fallback.
-- [ ] **[me]** Drink hero images for the 8 drink articles (Wikimedia → webp).
+- [x] **[me]** **Drink hero images — DONE (2026-11-19).** 15 drink articles given a
+  free-licensed Wikimedia Commons hero (× 13 langs, localised `heroAlt`): teh-tarik,
+  teh-halia, teh-o-ais-limau, kopi-cham, sirap-bandung, milo-dinosaur, air-kelapa,
+  air-kekwa, air-limau-ais, air-tebu, lassi, bubble-tea, soya-bean, cincau,
+  air-mata-kucing. Generator `scripts/build-drink-heroes.mjs`; every licence verified
+  against the Commons API; stall/vendor shots tagged `representative`, clean servings
+  `actual`. **nutmeg-juice + barley deliberately skipped** — Commons has no genuine free
+  photo, and a wrong-looking substitute would mislead. Freshness-neutral (0 stale).
 
 ---
 

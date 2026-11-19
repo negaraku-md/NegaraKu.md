@@ -84,6 +84,13 @@ drinkFacts:
   halal: "La bebida de soya bean es de origen vegetal y sin alcohol —soja, agua y azúcar— y naturalmente libre de lácteos, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve caliente o con hielo, ligeramente dulce. Acompañamientos comunes: con tau foo fah (pudin de tofu blando) como conjunto de postre, o vertida sobre gelatina de hierba negra como «soya cincau» (el «Michael Jackson»). Las versiones al estilo de Penang se apoyan en el pandan y el azúcar moreno; los cafés de soja modernos ofrecen variantes de soja negra, sésamo negro y judía roja."
   where: "Se encuentra en puestos de kopitiam, centros de hawker, pasar malam y tiendas especializadas en soja por todo el país —a menudo en un puesto que vende solo leche de soja y tau foo fah—, además de embotellada en supermercados."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un vaso alto de leche de soja pálida con granos de soja al lado"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
 ---
 
 En incontables cafeterías malasias un solo puesto no hace más que soja: una tina

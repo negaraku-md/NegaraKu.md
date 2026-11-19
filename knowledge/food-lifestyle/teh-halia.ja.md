@@ -83,7 +83,14 @@ drinkFacts:
   origin: "teh tarik のマレーシアの生姜版——「halia」はマレー語で生姜——で、teh tarik halia として作るときは同じように引っ張られる。コピティアムやママックのカウンターの teh tarik 一族の一部であり、別個の伝統ではない。"
   halal: "茶、生姜、ミルクのみでアルコールを含まないので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々のコピティアムやママックの店で確認すべきだ。"
   served: "温めてくれる心地よさのために温かく、また冷たくも供される。加糖練乳で甘いので、好みで甘さ控えめにも頼める。しばしば teh tarik のように引っ張られる（tarik）。穏やかな一杯として親しまれ、ラマダンのあいだの suhoor の定番の飲み物だ。"
-  where: "全国のコピティアムやママックの店で見かけ、teh tarik や kopi と同じカウンターから注がれる。インスタントのジンジャーミルクティーのサシェとしても売られている。"
+  where: "全国のコピティアムやママックの店で見かけ、teh tarik や kopi と同じカウンターから注がれる。インスタントのジンジャーミルクティーのサシェとしても売られている。"
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "木製のテーブルに置かれた、茶色のジンジャーミルクティー（teh halia）のガラスマグ"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
 ---
 
 この国でもっとも有名な飲み物に、生姜の温かな刺激を加えれば、**teh halia** ができる——

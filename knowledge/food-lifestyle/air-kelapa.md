@@ -86,6 +86,13 @@ drinkFacts:
   halal: "Air kelapa is a single plant ingredient — coconut water — with nothing added but, sometimes, ice or a little syrup, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual stall."
   served: "Served cold, usually straight from the shell with a straw, or poured over ice into a cup or bag with the scraped young flesh. Some prefer it plain; a little sugar syrup is sometimes offered but is not needed. Kelapa bakar is the grilled variation; frozen 'slushie' pouches are a modern take."
   where: "Found at roadside stalls, wet and night markets, food courts and beaches across the country — anywhere a vendor can stack and chill young coconuts — as well as bottled and frozen in shops."
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "A street vendor opening a fresh green young coconut with a cleaver, beside a pile of coconuts"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
 ---
 
 On a Malaysian roadside, few things say "tropical heat" more plainly than a

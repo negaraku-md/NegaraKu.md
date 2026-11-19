@@ -100,6 +100,13 @@ drinkFacts:
   halal: "Như thường được làm, Milo dinosaur là halal: một thức uống không cồn gồm bột Milo, sữa và nước trên đá, không có thịt hay cồn. Milo bán ở Malaysia được Nestlé Malaysia chứng nhận halal theo JAKIM, và thức uống này là một món chủ lực tại các quầy mamak (người Hồi giáo gốc Ấn), vốn thường là halal. Như với bất kỳ món ăn quầy nào, sự bảo đảm dựa trên chính cơ sở và các nguyên liệu cụ thể."
   served: "Phục vụ lạnh trong một ly cao, trên đá, với vương miện là một thìa bột Milo khô — và đôi khi một chiếc ống hút cắm xuyên qua đống bột. Phiên bản Milo godzilla đậm đà hơn là cùng thức uống đó phủ một viên kem và/hoặc kem tươi; 'Milo tabur' (tiếng Mã Lai nghĩa là 'rắc') là một tên gọi khác cho phiên bản chất đầy bột. Một món Milo kosong được làm không thêm đường."
   where: "Các quầy mamak, kopitiam (quán cà phê), xe đẩy đồ uống pasar malam và khu ẩm thực khắp Malaysia, và cũng rộng rãi ở Singapore. Nó là một món gọi hằng ngày, rẻ tiền chứ không phải một thức uống quán cà phê chuyên biệt, tìm thấy ở bất cứ đâu Milo có trên bảng."
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Ly Milo đá phủ một lớp bột Milo chưa tan dày"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
 ---
 
 Gọi một ly Milo tại một quán mamak Malaysia và bạn nhận được một thức uống lạnh, ngọt, đậm

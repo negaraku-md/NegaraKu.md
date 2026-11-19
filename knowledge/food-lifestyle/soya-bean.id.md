@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Minuman soya bean berbahan nabati dan bebas alkohol — kedelai, air, dan gula — serta secara alami bebas susu, jadi minuman itu sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan panas atau di atas es, sedikit manis. Paduan umum: dengan tau foo fah (puding tahu lembut) sebagai set pencuci mulut, atau dituangkan di atas cincau hitam sebagai 'soya cincau' (si 'Michael Jackson'). Versi gaya Penang bertumpu pada pandan dan gula merah; kafe kedelai modern menawarkan varian kacang hitam, wijen hitam, dan kacang merah."
   where: "Ditemukan di gerai kopitiam, pusat jaja, pasar malam, dan kedai kedelai khusus di seluruh negeri — sering dari gerai yang hanya menjual susu kedelai dan tau foo fah — serta dalam botol di pasar swalayan."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Gelas tinggi susu kedelai pucat dengan kedelai di sampingnya"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
 ---
 
 Di tak terhitung banyaknya kedai kopi Malaysia, satu gerai mengerjakan tak lain selain

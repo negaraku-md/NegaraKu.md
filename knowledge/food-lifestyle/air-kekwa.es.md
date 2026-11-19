@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Solo flores, agua y azúcar —sin carne, sin productos de origen animal, sin alcohol—, así que es vegetariano y, en sí mismo, halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobar la tienda o la etiqueta de la botella."
   served: "Se sirve caliente o con hielo; pídelo menos dulce si lo prefieres. Se bebe popularmente para contrarrestar la comida «caliente», frita o copiosa y el clima caluroso —una creencia cultural sobre el equilibrio, no una afirmación médica. También se vende embotellado y enlatado como té de crisantemo listo para beber."
   where: "Se encuentra en los kopitiam, los puestos de té de hierbas y liang cha, y embotellado o enlatado en tiendas y supermercados por todo el país."
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Una taza floral de té claro de crisantemo (air kekwa) con flores en infusión"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 Entre las bebidas dulces y lechosas de la cafetería malasia, el **air kekwa** se

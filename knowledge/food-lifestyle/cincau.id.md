@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Cincau berbahan nabati dan bebas alkohol — rebusan herba, air, dan gula — jadi jelinya sendiri halal. Jaminan halal melekat pada tempat usahanya dan pada apa pun yang dicampurkan padanya (seperti susu dalam soya cincau dua warna), jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan dingin. Sendirian ia menjadi 'air cincau' — kubus jeli dalam air es manis. Dituangi susu kedelai ia menjadi 'soya cincau', dijuluki 'Michael Jackson' karena lapisan hitam-putihnya. Ia juga topping baku dalam cendol, ais kacang (ABC), serta leng chi kang yang beragam bahan."
   where: "Ditemukan di kopitiam, gerai jaja, kedai pencuci mulut, dan pasar malam di seluruh negeri, serta dijual siap saji dalam karton dan kaleng (seperti Yeo's) di setiap pasar swalayan dan kedai runcit."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Minuman cincau dingin dengan jeli hitam mengendap di dasarnya"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
 ---
 
 Pada sore yang panas di sebuah kedai kopi Malaysia, salah satu cara termurah untuk

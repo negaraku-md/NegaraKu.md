@@ -86,6 +86,13 @@ drinkFacts:
   halal: "air mata kucing は植物由来でノンアルコール——乾燥果実、モンクフルーツ、winter melon（冬瓜）、氷砂糖を水で——なので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の屋台で確認すべきだ。"
   served: "通常は氷のように冷たく、大きな冷たいディスペンサーから注がれて供される。温かく、あるいは常温でも飲める。甘く清々しく、自然にカフェインを含まないので、朝の気付けというよりいつでも飲みやすい一杯だ。"
   where: "屋台、デザート店、夜市で見かけ、もっとも有名なのは KL の Chinatown、Jalan Petaling（Petaling Street）にある老舗の屋台で、通り過ぎる市場の人だかりに向けて大きな金属のディスペンサーから氷のように冷たく注がれる。"
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "二言語の看板が添えられた、濃い色のair mata kucing（龍眼ドリンク）のホーカー屋台の大鍋"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 クアラルンプールの Chinatown、Petaling Street の混み合った市場の路地から一歩外れると、

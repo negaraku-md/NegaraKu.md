@@ -98,6 +98,13 @@ drinkFacts:
   halal: "Une boisson non alcoolisée de sirop de rose, de lait et d'eau, servie de longue date aux occasions musulmanes malaises telles que les réceptions de mariage et l'iftar du Ramadan, de sorte que sa composition est halal ; les observants stricts peuvent tout de même vérifier les marques précises de sirop et de lait. La variante bandung soda n'ajoute qu'un soda gazeux ordinaire et est de même non alcoolisée."
   served: "Glacé et d'un rose vif, souvent mousseux. Une boisson festive autant que quotidienne : versée aux réceptions de mariage et aux kenduri, sortie à l'iftar du Ramadan, et servie froide aux rassemblements familiaux et aux restaurants aux côtés de plats riches tels que le nasi beriani ou le rendang."
   where: "Un incontournable des stands mamak, des hawker centres, des kopitiam et des pasar malam de toute la Malaisie, où on le commande couramment sous le nom de « sirap bandung » (ajoutez peng ou ais pour la version glacée). Les variantes — bandung soda, bandung cincau à la gelée d'herbe — apparaissent aux mêmes stands et aux tables de fête."
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Deux grands verres de lait rose glacé au sirop de rose (sirap bandung) avec des pailles"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
 ---
 
 De toutes les boissons d'un tableau de café malaisien, le sirap bandung est celle que l'on

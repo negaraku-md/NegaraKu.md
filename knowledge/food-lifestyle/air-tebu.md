@@ -82,6 +82,13 @@ drinkFacts:
   halal: "Air tebu is cane juice, ice and perhaps lime, with no alcohol, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual stall."
   served: "Served cold over ice, pressed fresh to order. Ask for it plain or with a squeeze of lime to cut the sweetness; some stalls add a little salted plum or a pinch of salt. High in natural sugar — a sweet cooler, best in moderation."
   where: "Found at pasar malam (night markets), morning markets, roadside hawker stalls, food courts and juice bars across the country — look for the stack of cane stalks beside a motorised roller press."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "A street vendor pressing sugarcane through a mill beside jugs of fresh green sugarcane juice (air tebu)"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 On a hot Malaysian afternoon, few things cut through the heat like a cup of **air

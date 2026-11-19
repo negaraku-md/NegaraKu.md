@@ -87,6 +87,13 @@ drinkFacts:
   halal: "Air kelapa là một nguyên liệu thực vật đơn lẻ — nước dừa — không thêm gì ngoài, đôi khi, đá hoặc một chút nước đường, nên bản thân đồ uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy."
   served: "Phục vụ lạnh, thường là uống thẳng từ vỏ với một ống hút, hoặc rót qua đá vào một chiếc ly hay túi với phần cùi non đã nạo. Một số người thích uống nguyên chất; một chút nước đường đôi khi được mời nhưng không cần thiết. Kelapa bakar là biến thể nướng; các túi 'đá bào' đông lạnh là một phiên bản hiện đại."
   where: "Tìm thấy tại các quầy ven đường, chợ ướt và chợ đêm, khu ẩm thực và bãi biển trên khắp cả nước — bất cứ nơi nào người bán có thể xếp chồng và giữ lạnh trái dừa non — cũng như đóng chai và đông lạnh trong các cửa hàng."
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Người bán hàng rong bổ một quả dừa non xanh tươi bằng dao phay, bên cạnh đống dừa"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
 ---
 
 Trên một con đường Malaysia, hiếm có thứ gì nói lên "cái nóng nhiệt đới" rõ ràng

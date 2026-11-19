@@ -82,6 +82,13 @@ drinkFacts:
   halal: "Flowers, water and sugar only — meat-free, no animal products, no alcohol — so it is vegetarian and, in itself, halal. Halal assurance attaches to the premises, so diners needing certification should check the shop or the bottle label."
   served: "Served hot or iced; ask for it less sweet if preferred. Popularly drunk to offset 'heaty', fried or rich food and hot weather — a cultural belief about balance, not a medical claim. Also sold bottled and canned as ready-to-drink chrysanthemum tea."
   where: "Found at kopitiam, herbal-tea and liang-cha stalls, and bottled or canned in shops and supermarkets across the country."
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A floral teacup of pale chrysanthemum tea (air kekwa) with steeping flowers"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 Among the sweet, milky drinks of the Malaysian coffee shop, **air kekwa** stands a

@@ -82,7 +82,14 @@ drinkFacts:
   origin: "مبرّد ليمون طازج ركيزة في أكشاك المامك والكوبيتيام الماليزية، مبنيّ على أنواع الليمون المحلية (الكالامانسي/limau kasturi وlimau nipis) لا على مخترع واحد. ونسخة limau asam boi تضيف البرقوق الحامض المجفَّف لعمق حلو مالح حامض."
   halal: "ليمون وسكر وماء، بلا كحول، فالمشروب نفسه حلال. ويتعلّق ضمان الحلال بالمحل، فعلى مَن يحتاج اعتمادًا أن يتحقّق من الكشك المعنيّ."
   served: "يُقدَّم باردًا فوق الثلج، معصورًا طازجًا؛ اطلب 'kurang manis' لحلاوة أقلّ. اطلبه عاديًّا، أو limau asam boi مع البرقوق الحامض المجفَّف ورشّة ملح. ويتمايز عن teh O ais limau، وهو شاي ليمون مثلَّج."
-  where: "يوجد في أكشاك المامك والكوبيتيام وأكشاك مشروبات الباعة في عموم البلاد — أحد أكثر المبرّدات اليومية طلبًا."
+  where: "يوجد في أكشاك المامك والكوبيتيام وأكشاك مشروبات الباعة في عموم البلاد — أحد أكثر المبرّدات اليومية طلبًا."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "كوب من عصير الليمون المثلّج (air limau ais) مع شريحة ليمون طازجة، من الأعلى"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 اطلب مشروبًا باردًا في أي مطعم مامك ماليزي تقريبًا، ولن يخيب جواب واحد أبدًا: **air

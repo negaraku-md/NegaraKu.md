@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Air tebu là nước mía, đá và có lẽ chút chanh, không có cồn, nên bản thân thức uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy."
   served: "Phục vụ lạnh với đá, ép tươi theo yêu cầu. Gọi nó trơn hoặc thêm một chút nước cốt chanh để giảm độ ngọt; một số quầy thêm một ít xí muội hoặc một nhúm muối. Nhiều đường tự nhiên — một thức giải nhiệt ngọt, nên dùng điều độ."
   where: "Tìm thấy tại các pasar malam (chợ đêm), chợ sáng, quầy hàng rong ven đường, khu ẩm thực và quầy nước ép khắp cả nước — hãy tìm đống cây mía bên cạnh một chiếc máy ép trục chạy động cơ."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Người bán hàng rong ép mía qua máy bên cạnh những bình nước mía xanh tươi (air tebu)"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 Trong một buổi chiều oi ả ở Malaysia, ít thứ gì xua tan cái nóng được như một ly **air

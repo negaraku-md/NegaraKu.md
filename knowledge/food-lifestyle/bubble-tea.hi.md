@@ -87,6 +87,13 @@ drinkFacts:
   halal: "बड़ी मलेशियाई चेनें JAKIM हलाल प्रमाणन रखती हैं — Chatime Malaysia ने इसे प्राप्त किया, और JAKIM ने 2019 में सार्वजनिक रूप से Tealive को हलाल पुष्टि किया — जिसने bubble tea को समुदायों में साझा पेय बनाने में मदद की। हलाल का आश्वासन विशिष्ट प्रमाणित परिसर से जुड़ा होता है, इसलिए यह मानने के बजाय कि हर bubble tea प्रमाणित है, अलग-अलग दुकान का प्रदर्शित प्रमाणपत्र देख लें।"
   served: "समर्पित चेन स्टोर और मॉल kiosk से बर्फ़ पर ठंडी परोसी जाती है (गर्म संस्करण भी हैं), पारंपरिक kopitiam से नहीं। काउंटर पर अनुकूलन-योग्य: चीनी-स्तर (जैसे 50%, 'कम मीठा'), बर्फ़-स्तर और टॉपिंग चुनें। pearls को पहचान वाले मोटे straw से खींचा जाता है।"
   where: "देश भर के मॉल, मुख्य सड़कों और drive-through में समर्पित bubble-tea चेनों (Tealive, Chatime और कई अन्य) पर मिलती है — kopitiam की शास्त्रीय चीज़ों से अलग एक आधुनिक, शहरी पेय।"
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "तले में काले टैपिओका मोतियों की मोटी परत वाले दूध की चाय (bubble tea) का लंबा गिलास"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
 ---
 
 किसी भी मलेशियाई मॉल से गुज़रें और आप मिनटों में इनसे टकरा जाएँगे: चमकीले छोटे काउंटर जिनके आगे

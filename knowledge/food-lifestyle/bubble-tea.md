@@ -86,6 +86,13 @@ drinkFacts:
   halal: "Major Malaysian chains hold JAKIM halal certification — Chatime Malaysia obtained it, and JAKIM publicly confirmed Tealive halal in 2019 — which helped make bubble tea a drink shared across communities. Halal assurance attaches to the specific certified premises, so check the individual shop's displayed certificate rather than assuming all bubble tea is certified."
   served: "Served cold over ice (hot versions exist) from dedicated chain stores and mall kiosks, not traditional kopitiam. Customisable at the counter: choose sugar level (e.g. 50%, 'less sweet'), ice level and toppings. The pearls are sucked up through the signature fat straw."
   where: "Found at dedicated bubble-tea chains (Tealive, Chatime and many others) in malls, high streets and drive-throughs across the country — a modern, urban drink distinct from the kopitiam classics."
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A tall glass of milk tea with a thick layer of black tapioca pearls at the base"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
 ---
 
 Walk through any Malaysian mall and you will pass them within minutes: bright little

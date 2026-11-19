@@ -99,6 +99,13 @@ drinkFacts:
   halal: "Le teh tarik est un thé non alcoolisé vendu dans les stands mamak — des restaurants indo-musulmans — et dans les kopitiam, et dans ce cadre mamak c'est une boisson halal, ce qui explique en partie qu'il soit devenu une boisson sociale partagée entre les communautés. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque établissement."
   served: "Servi chaud et mousseux, tiré entre deux récipients pour le refroidir, le mélanger et l'aérer. Le « teh tarik » par défaut arrive sucré avec du lait concentré ; commandez « teh-O » pour un thé noir sans lait, « teh-C » pour du lait évaporé, « kurang manis » pour moins de sucre, ou « teh ais »/« teh peng » pour la version glacée."
   where: "On le trouve dans les stands mamak, les cafés kopitiam et les pasar malam de tout le pays, où il est la boisson sociale de tous les jours ; « jom teh tarik » (« allons prendre un teh tarik ») parle moins du thé que d'une invitation à s'asseoir et à discuter."
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Une chope en verre transparent de thé au lait mousseux (teh tarik) sur une table en marbre"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
 ---
 
 La scène est un classique de la vie malaisienne : un homme à un stand mamak tenant une

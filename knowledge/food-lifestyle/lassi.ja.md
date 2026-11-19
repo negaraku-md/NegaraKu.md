@@ -84,6 +84,13 @@ drinkFacts:
   halal: "lassi はヨーグルト、水かミルク、そして砂糖かフルーツ——肉を含まずノンアルコール——なので、ベジタリアンであり、それ自体はハラルで、ベジタリアンの banana-leaf（バナナの葉）の定食の自然な相棒だ。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の店で確認すべきだ。"
   served: "冷たく、しばしば背の高いグラスで、混ぜて泡立った状態で供される。甘い・塩味・あるいは mango（やほかのフルーツ）の lassi として注文する。辛いカレーや banana-leaf-rice（バナナの葉の定食）の定番の付け合わせで、一口ごとに口中を冷ます。"
   where: "全国のインド料理店、banana-leaf-rice（バナナの葉の定食）の店、専門の lassi 屋台、多くのママックの店で見かけ、とりわけ南インドと北インドの料理が供される場所に多い。"
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "ストロー付きの模様入りカップに入った、クリーミーな白いアイスヨーグルトのlassi"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
 ---
 
 辛い banana-leaf rice（バナナの葉の定食）の一皿や、こくのある北インドのカレーに向き合うと、その火を

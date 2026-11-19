@@ -84,6 +84,13 @@ drinkFacts:
   halal: "kopi cham はコーヒー、茶、水、ミルクから成り、アルコールを含まないので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々のコーヒーショップで確認すべきだ。"
   served: "既定では温かく供される。冷たいものは「ais kopi cham」か「cham peng」と注文する。加糖練乳で甘くなっており、砂糖なしには「kosong」、甘さ控えめには「kurang manis」を加える。kopi や teh と同じ組み合わせ式の符丁（O、C、kosong、gao、peng）で注文する。"
   where: "全国のコピティアムのコーヒーショップやママックの屋台で見かけ、kopi や teh tarik と同じカウンターから注がれる——コーヒーと茶のどちらにも決められない人のための、いつでも飲める日常の一杯だ。"
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "花柄のコピティアムのカップと受け皿に入った、泡立つコーヒーと紅茶のミックス（kopi cham）"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
 ---
 
 マレーシアのコーヒーショップに腰を下ろし、コーヒーと茶のどちらにも決められない人のために、カウンターは

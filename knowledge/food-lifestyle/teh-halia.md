@@ -81,7 +81,14 @@ drinkFacts:
   origin: "A Malaysian ginger variant of teh tarik — 'halia' is Malay for ginger — pulled the same way when made as teh tarik halia. Part of the teh tarik family of the kopitiam and mamak counter, not a separate tradition."
   halal: "Tea, ginger and milk, with no alcohol, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual kopitiam or mamak stall."
   served: "Served hot for its warming comfort, and also iced. Sweet from condensed milk; ask for less sweet if preferred. Often pulled (tarik) like teh tarik; a popular soothing cup and a common suhoor drink during Ramadan."
-  where: "Found at kopitiam and mamak outlets across the country, poured from the same counter as teh tarik and kopi; also sold as instant ginger-milk-tea sachets."
+  where: "Found at kopitiam and mamak outlets across the country, poured from the same counter as teh tarik and kopi; also sold as instant ginger-milk-tea sachets."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Glass mugs of brown ginger milk tea (teh halia) on a wooden table"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
 ---
 
 Take the country's most famous drink, add a warm kick of ginger, and you have **teh

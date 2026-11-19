@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Air tebu는 사탕수수 즙, 얼음, 그리고 기껏해야 라임으로, 알코올이 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "얼음 위에 차갑게, 주문 즉시 갓 짜내어 낸다. 그냥 달라고 하거나, 단맛을 가르는 라임 한 짜내기를 넣어 달라고 한다; 일부 노점은 소금에 절인 매실이나 소금 한 꼬집을 넣는다. 천연 당이 높다 — 달콤한 쿨러이니 적당히가 가장 좋다."
   where: "전국의 pasar malam(야시장), 아침 시장, 길가 노점, 푸드코트, 주스 바에서 찾을 수 있다 — 전동 롤러 압착기 옆에 쌓인 사탕수수 줄기 더미를 찾아보라."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "신선한 초록색 사탕수수주스(air tebu) 주전자 옆에서 사탕수수를 압착기로 짜는 노점 상인"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 무더운 말레이시아의 오후, **air tebu** 한 잔 — 줄기에서 갓 짜내 얼음탑 위로 연한

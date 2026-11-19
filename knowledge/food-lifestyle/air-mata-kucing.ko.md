@@ -86,6 +86,13 @@ drinkFacts:
   halal: "Air mata kucing은 식물성에 무알코올이다 — 말린 과일, 나한과, 동과, 얼음 설탕을 물에 — 이므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "보통 큰 냉각 디스펜서로 부어 얼음처럼 차게 내며; 따뜻하게 또는 실온으로도 마실 수 있다. 달고 상쾌하며 본래 무카페인이라, 아침의 각성제라기보다 아무 때나 마시기 좋은 음료다."
   where: "노점, 디저트 가게, 야시장에서 찾을 수 있으며, 가장 유명하게는 KL Chinatown의 Jalan Petaling(Petaling Street)에 있는 오래된 노점에서 큰 금속 디스펜서로 지나는 시장 인파에게 얼음처럼 차게 부어 판다."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "이중 언어 간판이 있는, 진한 색 air mata kucing 용안 음료가 담긴 호커 노점의 큰 통"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 쿠알라룸푸르 Chinatown의 붐비는 시장 골목 Petaling Street에 발을 들이면, 근처

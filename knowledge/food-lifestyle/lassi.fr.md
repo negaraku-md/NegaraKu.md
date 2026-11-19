@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Le lassi, c'est du yaourt, de l'eau ou du lait, et du sucre ou des fruits — sans viande et sans alcool — donc il est végétarien et, en lui-même, halal, et un partenaire naturel des repas végétariens sur feuille de bananier. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque restaurant."
   served: "Servi froid, souvent dans un grand verre, mousseux après mixage. Commandez-le sucré, salé ou en lassi à la mangue (ou à un autre fruit) ; c'est un accompagnement classique d'un curry épicé ou d'un repas de riz sur feuille de bananier, rafraîchissant le palais entre les bouchées."
   where: "On le trouve dans les restaurants indiens, les maisons de riz sur feuille de bananier, les stands de lassi dédiés et de nombreux établissements mamak de tout le pays, surtout là où l'on sert de la cuisine indienne du Sud et du Nord."
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un lassi au yaourt glacé, crémeux et blanc, dans une tasse à motifs avec une paille"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
 ---
 
 Attablez-vous devant une assiette ardente de riz sur feuille de bananier ou un riche curry du

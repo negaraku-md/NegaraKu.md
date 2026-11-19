@@ -99,6 +99,13 @@ drinkFacts:
   halal: "Teh tarik는 mamak 노점 — 인도계 무슬림 식당 — 과 kopitiam에서 파는 무알코올 차이며, 그 mamak 환경에서는 할랄 음료다 — 여러 공동체가 함께 나누는 사교 음료가 된 이유의 하나다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 가게를 확인해야 한다."
   served: "뜨겁고 거품이 일게, 두 용기 사이에서 당겨 식히고 섞고 공기를 넣어 낸다. 기본 'teh tarik'는 연유로 달게 나오며; 우유 없는 홍차는 'teh-O', 무가당 연유를 넣은 것은 'teh-C', 설탕을 줄인 것은 'kurang manis', 아이스 버전은 'teh ais'/'teh peng'으로 주문한다."
   where: "전국의 mamak 노점, kopitiam 커피숍, pasar malam에서 찾을 수 있으며 그곳에서 일상의 사교 음료다; 'jom teh tarik'('teh tarik 하러 가자')는 차 자체보다 앉아서 이야기하자는 초대에 가깝다."
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "대리석 테이블 위에 놓인, 거품이 인 갈색 풀드 밀크티(teh tarik)가 담긴 투명한 유리 머그잔"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
 ---
 
 말레이시아 삶의 한 고정된 풍경이 있다: mamak 노점의 한 남자가 찌그러진 금속 머그잔을

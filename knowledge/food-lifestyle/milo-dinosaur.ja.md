@@ -100,6 +100,13 @@ drinkFacts:
   halal: "通常の作り方では、ミロ・ダイナソーはハラルだ。氷の上のミロの粉、ミルク、水のノンアルコールの飲み物で、肉もアルコールもない。マレーシアで売られるミロはネスレ・マレーシアによって JAKIM のもとでハラル認証されており、この飲み物はママック（インド系ムスリム）の屋台の定番で、そうした屋台はたいていハラルだ。どの屋台の食べ物でもそうであるように、保証は個々の店舗と材料に依る。"
   served: "背の高いグラスに氷を入れて冷たく供し、乾いたミロの粉をひとさじ冠のようにのせる——ときに粉の山にストローを突き通して。よりこくのあるミロ・ゴジラは同じ飲み物にアイスクリームおよび／またはホイップクリームをひとすくいのせたもの。「ミロ・タブール」（Milo tabur、マレー語で「撒いた」）は粉を山盛りにした版の別名だ。ミロ・コソン（Milo kosong）は砂糖を加えずに作る。"
   where: "全国のママックの屋台、コピティアム（コーヒーショップ）、パサール・マラム（pasar malam）の飲み物の荷車、フードコート、そしてシンガポールでも広く見かける。専門店のカフェの飲み物というより、日常の安価な注文で、ミロが品書きにあるところならどこにでもある。"
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "溶けていないミロパウダーが厚く山盛りになった、アイスミロ（Milo）のグラス"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
 ---
 
 マレーシアのママックでミロを頼めば、冷たく甘いチョコレート味の飲み物が来る。**ミロ・ダイナソー**を

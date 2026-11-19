@@ -83,7 +83,14 @@ drinkFacts:
   origin: "マレーシアのママックやコピティアムのカウンターの定番フレッシュライム清涼飲料で、単一の発明者ではなく現地のライム（calamansi／limau kasturi、limau nipis）に根ざしている。limau asam boi 版は干したサワープラムを加え、甘じょっぱく酸っぱい奥行きを足す。"
   halal: "ライム、砂糖、水のみでアルコールを含まないので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の店で確認すべきだ。"
   served: "氷を入れて冷たく、その場で搾って供される。甘さ控えめには「kurang manis」と頼む。プレーンで、あるいは干したサワープラムと塩ひとつまみを加えた limau asam boi として注文する。アイスのライムティーである teh O ais limau とは別物だ。"
-  where: "全国のママックの店、コピティアム、屋台の飲み物カウンターで見かける——もっとも多く注文される日常の清涼飲料の一つだ。"
+  where: "全国のママックの店、コピティアム、屋台の飲み物カウンターで見かける——もっとも多く注文される日常の清涼飲料の一つだ。"
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "新鮮なライムのくし切りを添えた、アイスライムジュース（air limau ais）のタンブラーを上から見たところ"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 マレーシアのほとんどどのママック（mamak）でも冷たい飲み物を頼めば、まず外れない答えが

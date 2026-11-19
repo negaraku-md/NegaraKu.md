@@ -83,6 +83,13 @@ drinkFacts:
   halal: "꽃, 물, 설탕뿐 — 고기 없이, 동물성 성분 없이, 알코올 없이 — 이므로 채식이고 그 자체로 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 가게나 병 라벨을 확인해야 한다."
   served: "뜨겁게 또는 차갑게 내며; 원하면 덜 달게 달라고 한다. '열이 많거나' 튀기거나 기름진 음식과 더운 날씨를 상쇄하려 즐겨 마신다 — 균형에 관한 문화적 믿음이지 의학적 주장이 아니다. 바로 마시는 병·캔 국화차로도 팔린다."
   where: "전국의 kopitiam, 약초차·liang cha 노점에서 찾을 수 있으며, 가게와 슈퍼마켓에서 병이나 캔으로도 판다."
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "꽃이 우러나고 있는, 연한 국화차(air kekwa)가 담긴 꽃무늬 찻잔"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 말레이시아 커피숍의 달고 우윳빛 도는 음료들 사이에서, **air kekwa**는 조금 떨어져 선다:

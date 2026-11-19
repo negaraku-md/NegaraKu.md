@@ -82,7 +82,14 @@ drinkFacts:
   origin: "teh tarik의 말레이시아식 생강 변형 — 'halia'는 말레이어로 생강 — 으로, teh tarik halia로 만들 때는 같은 방식으로 당긴다. 별개의 전통이 아니라 kopitiam과 mamak 카운터의 teh tarik 가족의 일부다."
   halal: "차, 생강, 우유로 알코올 없이 만들어 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 kopitiam이나 mamak 노점을 확인해야 한다."
   served: "따뜻한 위안을 위해 뜨겁게, 아이스로도 낸다. 가당 연유로 달며; 원하면 덜 달게 해 달라고 한다. 흔히 teh tarik처럼 당기며(tarik); 인기 있는 달래 주는 한 잔이자 라마단 중 흔한 suhoor 음료다."
-  where: "전국의 kopitiam과 mamak 업소에서 찾을 수 있으며, teh tarik·kopi와 같은 카운터에서 붓는다; 인스턴트 생강 밀크티 봉지로도 팔린다."
+  where: "전국의 kopitiam과 mamak 업소에서 찾을 수 있으며, teh tarik·kopi와 같은 카운터에서 붓는다; 인스턴트 생강 밀크티 봉지로도 팔린다."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "나무 테이블 위에 놓인, 갈색 생강 밀크티(teh halia) 유리 머그잔들"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
 ---
 
 이 나라에서 가장 유명한 음료를 가져다 따뜻한 생강 한 방을 더하면 **teh halia**가 된다 —

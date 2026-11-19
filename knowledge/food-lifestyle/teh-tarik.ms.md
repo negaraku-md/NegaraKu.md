@@ -99,6 +99,13 @@ drinkFacts:
   halal: "Teh tarik ialah teh tidak beralkohol yang dijual di gerai mamak — kedai makan Muslim-India — dan di kopitiam, dan dalam suasana mamak itu ia minuman yang halal, yang menjadi sebahagian daripada sebab ia menjadi minuman sosial yang dikongsi merentasi masyarakat. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidangkan panas dan berbuih, ditarik antara dua bekas untuk menyejukkan, menyebatikan dan mengudarakannya. 'Teh tarik' lalai datang manis dengan susu pekat; pesan 'teh-O' untuk teh hitam tanpa susu, 'teh-C' untuk susu sejat, 'kurang manis' untuk gula yang lebih sedikit, atau 'teh ais'/'teh peng' untuk versi bersejuk."
   where: "Terdapat di gerai mamak, kedai kopi kopitiam dan pasar malam di seluruh negara, tempat ia menjadi minuman sosial harian; 'jom teh tarik' bukan tentang teh itu sebanyak satu jemputan untuk duduk dan berbual."
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Mug kaca jernih berisi teh tarik berbuih berwarna perang di atas meja marmar"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
 ---
 
 Pemandangannya ialah satu lazim kehidupan Malaysia: seorang lelaki di gerai mamak

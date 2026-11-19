@@ -82,7 +82,14 @@ drinkFacts:
   origin: "teh tarik का एक मलेशियाई अदरक रूपांतर — 'halia' अदरक के लिए मलय शब्द है — teh tarik halia के रूप में बनने पर उसी तरह खींचा जाता है। यह kopitiam और mamak काउंटर के teh tarik परिवार का हिस्सा है, कोई अलग परंपरा नहीं।"
   halal: "चाय, अदरक और दूध, बिना किसी शराब के, इसलिए पेय स्वयं हलाल है। हलाल का आश्वासन परिसर से जुड़ा होता है, इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग kopitiam या mamak ठेले की जाँच कर लेनी चाहिए।"
   served: "इसके गर्म सुकून के लिए गर्म परोसी जाती है, और बर्फ़ के साथ भी। गाढ़े दूध से मीठी; पसंद हो तो कम मीठा माँगें। अक्सर teh tarik की तरह खींची (tarik) जाती है; एक लोकप्रिय शांतिदायक प्याला और रमज़ान के दौरान एक आम suhoor पेय।"
-  where: "देश भर के kopitiam और mamak आउटलेट पर मिलती है, teh tarik और kopi के उसी काउंटर से उड़ेली जाती है; इंस्टेंट अदरक-दूध-चाय के पाउच के रूप में भी बिकती है।"
+  where: "देश भर के kopitiam और mamak आउटलेट पर मिलती है, teh tarik और kopi के उसी काउंटर से उड़ेली जाती है; इंस्टेंट अदरक-दूध-चाय के पाउच के रूप में भी बिकती है।"
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "लकड़ी की मेज़ पर भूरी अदरक वाली दूध की चाय (teh halia) के काँच के मग"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
 ---
 
 देश के सबसे प्रसिद्ध पेय को लें, अदरक का एक गर्म तीखापन जोड़ें, और आपके पास **teh halia**

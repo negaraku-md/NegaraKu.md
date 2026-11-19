@@ -83,7 +83,14 @@ drinkFacts:
   origin: "Teh tarik 的一种马来西亚姜味变种——「halia」在马来语中意为「姜」——做成 teh tarik halia 时以同样的方式拉制。属于 kopitiam 与 mamak 柜台的 teh tarik 家族，而非一个独立的传统。"
   halal: "茶、姜和奶，不含酒精，所以饮品本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别 kopitiam 或 mamak 摊档查问。"
   served: "热饮以取其暖身的慰藉，也冰饮。因加糖炼乳而香甜；偏好的话可要求少甜。常像 teh tarik 那样被拉制（tarik）；是一杯受欢迎的舒缓饮品，也是斋戒月期间常见的封斋饭饮品。"
-  where: "遍布全国的 kopitiam 与 mamak 食肆有售，与 teh tarik 和 kopi 从同一柜台倒出；也以速溶姜味奶茶冲剂形式出售。"
+  where: "遍布全国的 kopitiam 与 mamak 食肆有售，与 teh tarik 和 kopi 从同一柜台倒出；也以速溶姜味奶茶冲剂形式出售。"
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "木桌上几杯褐色姜味奶茶（teh halia）"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
 ---
 
 取本国最著名的饮品，添一股暖身的姜劲，你便得到 **teh halia**——姜味奶茶，[teh

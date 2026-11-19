@@ -87,6 +87,13 @@ drinkFacts:
   halal: "air kelapa は単一の植物材料——ココナッツウォーター——で、加えるものは、あってもせいぜい氷か少量のシロップだけなので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の屋台で確認すべきだ。"
   served: "冷たく、たいていストローを挿して殻から直接、あるいは氷の上にカップや袋に注ぎ、かき出した若い果肉とともに供される。素のまま好む人もいる。少量のシロップが供されることもあるが、必要ではない。kelapa bakar は焼いた変種、冷凍の「スラッシー」パウチは現代のひねりだ。"
   where: "全国の路傍の屋台、市場や夜市、フードコート、ビーチで見かけ——売り手が若いココナッツを積んで冷やせるところならどこでも——店では瓶詰めや冷凍でも売られる。"
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "ヤシの実の山の横で、ナタで新鮮な緑の若いヤシの実（air kelapa）を開ける屋台の売り子"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
 ---
 
 マレーシアの路傍で、「熱帯の暑さ」をこれ以上に平明に物語るものは少ない。売り手が緑の

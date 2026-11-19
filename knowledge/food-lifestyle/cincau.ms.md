@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Cincau berasaskan tumbuhan dan tidak beralkohol — herba rebus, air dan gula — jadi agar itu sendiri halal. Jaminan halal melekat pada premis dan pada apa-apa yang dicampur dengannya (seperti susu dalam soya cincau dua warna), jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidang sejuk. Secara bersendirian ia dipanggil 'air cincau' — kiub agar dalam air beais manis. Dituang bersama susu soya ia menjadi 'soya cincau', digelar 'Michael Jackson' kerana lapisan hitam-putihnya. Ia juga topping standard dalam cendol, ais kacang (ABC) dan leng chi kang yang bercampur bahan."
   where: "Terdapat di kopitiam, gerai jaja, kedai pencuci mulut dan pasar malam di seluruh negara, dan dijual siap sedia dalam kotak dan tin (seperti Yeo's) di setiap pasar raya dan kedai runcit."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Minuman cincau sejuk dengan cincau gelap mendap di dasar gelas"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
 ---
 
 Pada petang yang panas di sebuah kedai kopi Malaysia, salah satu cara paling murah

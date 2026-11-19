@@ -85,6 +85,13 @@ drinkFacts:
   halal: "Cincau는 식물성에 무알코올이다 — 끓인 약초, 물, 설탕 — 이므로 젤리 자체는 할랄이다. 할랄 보증은 업소와 그것에 섞는 모든 것(예컨대 두 빛깔 soya cincau 속 우유)에 결부되므로, 인증이 필요한 손님은 개별 가게를 확인해야 한다."
   served: "차갑게 낸다. 단독으로는 'air cincau' — 달콤한 얼음물에 넣은 젤리 깍둑 — 이다. 두유와 부으면 'soya cincau'가 되어, 흑백 층 때문에 'Michael Jackson'이라는 별명이 붙는다. cendol, ais kacang(ABC), 그리고 여러 재료를 섞은 leng chi kang의 기본 토핑이기도 하다."
   where: "전국의 kopitiam, 노점, 디저트 가게, pasar malam에서 찾을 수 있으며, 종이팩과 캔(Yeo's 등)에 든 기성품으로 모든 슈퍼마켓과 잡화점에서 팔린다."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "바닥에 검은 젤리가 가라앉은, 시원한 풀젤리 음료(cincau)"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
 ---
 
 말레이시아 커피숍의 더운 오후, 더위를 식히는 가장 싼 방법 하나는 어둡고 미끄러운

@@ -87,6 +87,13 @@ drinkFacts:
   halal: "Các chuỗi lớn ở Malaysia nắm giữ chứng nhận halal của JAKIM — Chatime Malaysia đã có nó, và JAKIM công khai xác nhận Tealive là halal năm 2019 — điều đã giúp biến trà sữa trân châu thành một đồ uống được chia sẻ giữa các cộng đồng. Sự bảo đảm halal gắn với cơ sở được chứng nhận cụ thể, nên hãy kiểm tra giấy chứng nhận được trưng ra của từng tiệm thay vì cho rằng mọi trà sữa trân châu đều được chứng nhận."
   served: "Phục vụ lạnh với đá (có phiên bản nóng) từ các cửa hàng chuỗi chuyên biệt và quầy trong trung tâm thương mại, chứ không phải kopitiam truyền thống. Tùy chỉnh ở quầy: chọn mức đường (ví dụ 50%, 'ít ngọt'), mức đá và topping. Những viên trân châu được hút lên qua chiếc ống hút to đặc trưng."
   where: "Tìm thấy tại các chuỗi trà sữa trân châu chuyên biệt (Tealive, Chatime và nhiều chuỗi khác) trong các trung tâm thương mại, phố lớn và quầy drive-through khắp cả nước — một đồ uống hiện đại, đô thị khác biệt với những món kinh điển của kopitiam."
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Ly cao trà sữa với lớp trân châu đen dày dưới đáy"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
 ---
 
 Đi bộ qua bất kỳ trung tâm thương mại nào ở Malaysia và bạn sẽ đi ngang chúng trong
