@@ -20,7 +20,7 @@ keyTakeaways:
   - "La Fédération de 1948 établit la Conférence des souverains, le Conseil législatif fédéral et le Conseil exécutif fédéral, mais le pouvoir exécutif revenait toujours au Haut-Commissaire britannique"
 appliesTo: "Étudiants, chercheurs et lecteurs en général qui souhaitent comprendre les origines de la structure constitutionnelle de la Malaisie — en particulier la manière dont la position des souverains malais et les conditions de la citoyenneté furent pour la première fois établies par écrit, avant le Merdeka."
 lang: "fr"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,8 +36,17 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
+  - title: "Gouverner les souverains (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "Barreau de la Malaisie (Malaysian Bar)"
+  - title: "L'Union malaise et son impact (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "Barreau de la Malaisie (Malaysian Bar)"
+  - title: "Un « paysage mémoriel » : se souvenir de l'Union malaise de 1946 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
   - title: "L'Union malaise — une leçon pour les générations présentes et futures (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
     publisher: "Archives nationales de la Malaisie (Arkib Negara Malaysia, Pustaka Ilmu)"
@@ -125,6 +134,8 @@ L'opposition se développa à travers plusieurs canaux à la fois, et eut un car
 Les intellectuels portèrent l'affaire dans la presse de langue malaise, dans des publications comme *Utusan Melayu* et *Majlis*. Le premier Congrès malais se tint du 1er au 4 mars 1946 au Club Sultan Sulaiman, avec la participation de 41 organisations malaises. De ce processus naquit l'Organisation nationale des Malais unis, fondée le 11 mai 1946 à l'Istana Besar, Johor Bahru, sous la direction de Dato' Onn Jaafar.
 
 Le portail officiel de la Conférence des souverains consigne que les souverains malais se levèrent de même aux côtés de la population pour s'opposer à l'application du cadre. Le Parlement de la Malaisie, pour sa part, consigne que l'Union malaise fut farouchement rejetée par les Malais, menés par Dato' Onn Jaafar.
+
+L'un des actes de protestation les plus mémorables se produisit le jour même de l'entrée en vigueur. Lorsque l'Union malaise fut inaugurée à la salle du Conseil (Council Chamber) de Kuala Lumpur le 1er avril 1946 et que Sir Edward Gent fut installé comme son premier gouverneur, les souverains malais n'assistèrent pas à la cérémonie d'installation — un refus adopté à l'instigation de l'UMNO sous la direction d'Onn Jaafar, alors que leur protestation contre le projet était encore en suspens. Des foules se rassemblèrent également là où séjournaient les souverains en signe de soutien. Ce refus d'assister à l'installation et aux réunions du conseil consultatif devint l'une des formes de désobéissance civile qui marquèrent le mouvement contre l'Union malaise.
 
 Il convient également de noter que les conditions de citoyenneté plus strictes du cadre de remplacement de 1948 devinrent à leur tour, plus tard, un motif d'objection de la part d'autres milieux, y compris des non-Malais qui virent leur éligibilité réduite par rapport à la proposition de 1946.
 

@@ -29,7 +29,7 @@ faq:
     a: "SUKMA adalah panggung negeri untuk atlet remaja menunjukkan bakat. Atlet berpotensi dapat dinaikkan ke program pembangunan bakat dan pelapis MSN dan selanjutnya ke Program Podium ISN yang mempersiapkan atlet elite untuk pesta olahraga internasional."
 
 lang: "id"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "85246294d35de2fe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Struktur dan nama tepat program pembangunan MSN (Program Bakat; Program Pelapis Negeri/Serantau/Kebangsaan) — pastikan penamaan terkini."
   - "Kriteria pemilihan khusus atlet ke Program Podium ISN — rincian tidak dicantumkan pada situs resmi."
   - "Pernyataan umum tentang investasi infrastruktur tuan rumah dan keuntungan gelanggang sendiri — belum didukung sumber khusus; pastikan atau hapus."
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
   - title: "10,000 atlet akan meriahkan SUKMA XXII, Para SUKMA Selangor 2026"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
@@ -69,6 +69,27 @@ sources:
   - title: "Program Podium — Institut Sukan Negara"
     url: "https://isn.gov.my/bahagian-podium/"
     publisher: "Institut Sukan Negara"
+  - title: "Sukan Malaysia (SUKMA) — sejarah dan daftar edisi (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "Wikipedia"
+  - title: "SUKMA sebaiknya tetap menjadi kompetisi bawah 21 tahun, kata NSC (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "SUKMA 2026 akan menampilkan 474 nomor, terbanyak dalam sejarah turnamen (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "Bagaimana SUKMA menyelamatkan karier loncat indah Pandelela setelah hampir berhenti pada 2004 (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei mengejutkan Li Lian untuk emas SUKMA (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson siap membuat kejutan besar di SUKMA XV (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz memecahkan rekor nasional 100m (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
 
 entity: "Sukan Malaysia (SUKMA)"
 wikidata: "Q137161"
@@ -94,6 +115,14 @@ SUKMA pertama diadakan di Kuala Lumpur pada April 1986. Sejak itu, ia diselengga
 
 Penyelenggaraannya dikelola oleh **[Majlis Sukan Negara Malaysia](/id/sports/national-sports-council-msn) (MSN)** bersama majelis-majelis olahraga negeri, Majlis Sukan Sekolah-Sekolah Malaysia (MSSM), Majlis Sukan Universiti Malaysia (MASUM) dan Majlis Sukan Polis DiRaja Malaysia. Edisi terkini, **SUKMA XXII Selangor 2026**, dijadwalkan berlangsung dari 15 hingga 24 Agustus 2026. Pesta khusus untuk atlet penyandang disabilitas, **Para SUKMA**, dijadwalkan terpisah pada 5 hingga 14 September 2026.
 
+Edisi 2026 juga mencatat rekor tersendiri: sebanyak 474 nomor dipertandingkan — jumlah nomor terbanyak dalam sejarah SUKMA hingga kini.
+
+## Dari 1986 hingga kini: batas usia, juara dan rekor
+
+SUKMA adalah pertandingan **bawah 21 tahun (U-21)**, dan batas usia itulah inti identitasnya — Majlis Sukan Negara (MSN) mempertahankan batasan usia ini untuk menjaga agar pesta ini terfokus pada pembangunan atlet muda. Satu-satunya pengecualian sejauh ini adalah edisi 2022 (SUKMA XX), yang diizinkan menaikkan batas menjadi bawah 23 tahun karena Sukan 2020 dibatalkan akibat pandemi COVID-19.
+
+Sejak edisi pertama di Kuala Lumpur pada 1986 — yang menghimpun sekitar 4.500 atlet dari 16 kontingen — pesta ini diselenggarakan bergilir di berbagai negeri, dari Kuching dan Johor Bahru hingga Alor Setar, Kuala Terengganu dan Kota Kinabalu. **Selangor** adalah kontingen paling sukses, menjadi juara umum sembilan kali, diikuti Terengganu dan Sarawak. Rekor perolehan emas terbanyak dalam satu edisi juga dipegang Selangor, dengan 80 emas di SUKMA VII pada 1998.
+
 ## Bagaimana SUKMA memasok jalur bakat elite?
 
 SUKMA berdiri di anak tangga pertama sistem pembangunan olahraga Malaysia. Atlet yang menonjol di pesta ini menjadi calon untuk dinaikkan ke tahap berikutnya:
@@ -105,6 +134,17 @@ SUKMA berdiri di anak tangga pertama sistem pembangunan olahraga Malaysia. Atlet
 **Program Podium** diluncurkan pada 2 Februari 2016 di bawah Kementerian Belia dan Sukan dan dikelola oleh **Institut Sukan Negara (ISN)**. Ia dirancang khusus untuk mempersiapkan atlet elite mencapai prestasi bertaraf dunia di pesta olahraga utama internasional seperti Olimpiade, Asian Games dan Commonwealth Games. Pemilihan atlet ke Program Podium dibuat oleh ISN berdasarkan kriteria pemilihan yang ditetapkannya.
 
 Dengan kata lain, SUKMA menyediakan kolam bakat mentah, sementara program pelapis dan Podium menyaring serta mengasah bakat itu menjadi atlet berprestasi tinggi.
+
+## Bukti jalur bakat: mereka bermula di SUKMA
+
+Teorinya sederhana; buktinya ada pada nama-namanya. Beberapa atlet terkenal negara mulai menonjol di panggung SUKMA sebelum mewakili Malaysia di tingkat internasional:
+
+- **Pandelela Rinong** (loncat indah, Sarawak) — kemudian menjadi atlet Malaysia pertama yang meraih medali Olimpiade dalam loncat indah (perunggu, platform 10m perorangan, London 2012; perak, nomor sinkro, Rio 2016). Ia pernah mengatakan SUKMA menghidupkan kembali kariernya: setelah hampir berhenti pada 2004, kepulangannya dengan tiga emas di SUKMA 2006 Kedah menyalakan kembali kecintaannya pada olahraga ini.
+- **Goh Jin Wei** (bulu tangkis, Penang) — meraih emas tunggal putri di SUKMA 2014 pada usia 14 tahun, sebelum menjadi juara dunia junior BWF (2015 dan 2018) dan peraih emas Olimpiade Remaja pertama Malaysia.
+- **Welson Sim** (renang, Sarawak) — meraih emas di SUKMA XV (2012) sebelum tampil di Olimpiade Rio 2016 dan menang di SEA Games.
+- **Khairul Hafiz Jantan** (atletik, Melaka) — mencetak rekor nasional 100 meter (10,18 detik) di SUKMA XVIII 2016, memecahkan rekor 18 tahun milik Watson Nyambek, lalu naik ke skuad nasional.
+
+Daftar ini bukan kebetulan: ia menunjukkan fungsi sebenarnya SUKMA sebagai tempat persemaian, tempat bakat negeri mula-mula diuji sebelum disaring naik ke tingkat yang lebih tinggi.
 
 ## Mengapa negeri berebut menjadi tuan rumah?
 

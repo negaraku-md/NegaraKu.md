@@ -92,7 +92,16 @@ banner, highest search volume). The 3 legally-sensitive PM pages were deliberate
      sourced depth expansion ×13 langs each — Melaka: golden-age section (Ming China/Zheng He, territorial reach,
      Tun Perak) + related-reading links; Johor: turbulent-century section (1641 Dutch capture of Melaka, Johor-Jambi
      war, Bugis Yang Dipertuan Muda). Cited OpenStax/Britannica (Melaka) and the Johor Sultanate record. Also fixed a
-     stale "held in draft" footer on both. Remaining: SUKMA, Malayan Union, KPDN.
+     stale "held in draft" footer on both.
+   - **DONE (2026-11-19):** SUKMA, Malayan Union, KPDN — the three remaining near-miss pages — refreshed ×13 langs:
+     SUKMA got edition history (U-21 rule, Selangor's nine titles, 1998 golds record) + a notable-alumni section
+     proving the talent pipeline (Pandelela Rinong, Goh Jin Wei, Welson Sim, Khairul Hafiz Jantan) + the 2026 "474
+     events" record; KPDN got the four-name rename history (KPDNHEP 1990 → KPDNKK/MDTCC 2009 → KPDNHEP 2018 → KPDN
+     2022) + an enforcement-arm section, serving the "是什么部门" definitional query; Malayan Union (already the deepest
+     article in the corpus) got a single light-touch sourced addition — the Rulers' boycott of Gent's 1 April 1946
+     installation — with the thinly-sourced mourning-band detail deliberately excluded. Sourced to Wikipedia/NST/
+     Bernama/athlete-press (SUKMA), Wikipedia/Berita Harian (KPDN), and Malaysian Bar + Ramli Dollah et al. 2013
+     (Malayan Union). **Content-refresh lever now complete for every ranked near-miss page.**
 4. **DONE** (2026-11-19): all non-sensitive PM bios now carry the descriptive `seoTitle` pattern —
    anwar + mahathir (prior commit) and the four name-only historical PMs (tunku 1st, razak 2nd, hussein-onn 3rd,
    badawi 5th) × 13 langs each, sourced from each file's own body. The 3 legal-skip pages

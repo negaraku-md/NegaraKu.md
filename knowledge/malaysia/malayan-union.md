@@ -28,14 +28,18 @@ reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 reviewDue: 2027-07-24
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-19
+    change: "Added the sourced account of the Malay Rulers' boycott of Governor Gent's installation on 1 April 1946 into the protest section; added Malaysian Bar and academic (Ramli Dollah et al., 2013) sources. The thinly-sourced white-mourning-band detail was deliberately excluded."
+    reviewer: "ashton-tan"
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Malayan Union — Teladan buat generasi kini, akan datang"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -66,6 +70,15 @@ sources:
   - title: "Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "Ruling the rulers"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "Malaysian Bar"
+  - title: "The Malayan Union and its impact"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "Malaysian Bar"
+  - title: "A 'Memoryscape': Remembering the Malayan Union 1946"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -124,6 +137,8 @@ Bantahan berlaku dalam beberapa saluran serentak, dan bersifat terbuka serta ber
 Golongan intelektual membawa isu itu ke ruang akhbar berbahasa Melayu seperti *Utusan Melayu* dan *Majlis*. Kongres Melayu pertama diadakan pada 1 hingga 4 Mac 1946 di Kelab Sultan Sulaiman, dihadiri 41 pertubuhan Melayu. Daripada proses itu, Pertubuhan Kebangsaan Melayu Bersatu ditubuhkan pada 11 Mei 1946 di Istana Besar, Johor Bahru, di bawah pimpinan Dato' Onn Jaafar.
 
 Portal rasmi Majlis Raja-Raja mencatatkan bahawa Raja-Raja Melayu turut bangkit bersama penduduk dalam menentang pelaksanaan rangka tersebut. Parlimen Malaysia pula merekodkan bahawa Malayan Union ditentang hebat oleh orang Melayu yang dipimpin oleh Dato' Onn Jaafar.
+
+Salah satu tindakan bantahan yang paling diingati berlaku pada hari pelaksanaan itu sendiri. Apabila Malayan Union dirasmikan di Dewan Majlis, Kuala Lumpur pada 1 April 1946 dan Sir Edward Gent dilantik sebagai Gabenor pertamanya, Raja-Raja Melayu tidak menghadiri istiadat pelantikan tersebut — satu keengganan yang diambil atas desakan UMNO pimpinan Onn Jaafar, sementara bantahan mereka terhadap rangka itu masih belum diputuskan. Orang ramai turut berkumpul di tempat Raja-Raja menginap sebagai tanda sokongan. Keengganan menghadiri istiadat pelantikan dan mesyuarat majlis penasihat ini menjadi antara bentuk ketidakpatuhan sivil yang menandai gerakan menentang Malayan Union.
 
 Perlu dicatat juga bahawa syarat kerakyatan yang lebih ketat dalam rangka gantian 1948 kemudiannya menjadi asas bantahan pula daripada pihak lain, termasuk kalangan bukan Melayu yang mendapati kelayakan mereka menyempit berbanding cadangan 1946.
 

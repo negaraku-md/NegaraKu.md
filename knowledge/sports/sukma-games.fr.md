@@ -29,7 +29,7 @@ faq:
     a: "Les SUKMA sont l'étape au niveau des États où les jeunes athlètes font valoir leur talent. Les athlètes à potentiel peuvent être promus vers les programmes de développement des talents et de relève du MSN, puis vers le Programme Podium de l'ISN, qui prépare les athlètes d'élite aux jeux internationaux."
 
 lang: "fr"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "85246294d35de2fe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,8 +49,29 @@ verificationNeeded:
   - "La structure et les noms exacts des programmes de développement du MSN (Program Bakat ; Program Pelapis Negeri/Serantau/Kebangsaan) — confirmer la dénomination actuelle."
   - "Les critères de sélection spécifiques des athlètes pour le Program Podium de l'ISN — les détails ne sont pas listés sur le site officiel."
   - "L'affirmation générale sur l'investissement en infrastructures de l'État hôte et l'avantage du terrain — pas encore étayée par une source précise ; confirmer ou supprimer."
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
+  - title: "Jeux de la Malaisie (SUKMA) — histoire et liste des éditions (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "Wikipédia (Wikipedia)"
+  - title: "Les SUKMA doivent rester une compétition des moins de 21 ans, selon le NSC (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "Les SUKMA 2026 compteront 474 épreuves, le plus grand nombre de l'histoire du tournoi (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "Comment les SUKMA ont sauvé la carrière de plongeuse de Pandelela après qu'elle a failli abandonner en 2004 (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei crée la surprise face à Li Lian et remporte l'or des SUKMA (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson va faire sensation aux SUKMA XV (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz bat le record national du 100 m (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
   - title: "10 000 athlètes animeront les SUKMA XXII, Para SUKMA Selangor 2026 (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
     publisher: "RTM (Radio Televisyen Malaysia, berita.rtm.gov.my)"
@@ -92,7 +113,13 @@ Contrairement à d'autres championnats nationaux, les SUKMA se concentrent sur l
 
 Les premiers SUKMA se sont tenus à Kuala Lumpur en avril 1986. Depuis, ils sont organisés **tous les deux ans** — de manière biennale — en alternance avec les SEA Games, les États se relayant comme hôtes.
 
-Leur organisation est gérée par le **[Conseil national des sports de la Malaisie](/sports/national-sports-council-msn) (MSN)** avec les conseils sportifs des États, le Conseil des sports scolaires de la Malaisie (MSSM), le Conseil des sports universitaires de la Malaisie (MASUM) et le Conseil des sports de la Police royale de la Malaisie. La dernière édition, les **SUKMA XXII Selangor 2026**, est prévue du 15 au 24 août 2026. Les jeux dédiés aux athlètes en situation de handicap, les **Para SUKMA**, sont programmés séparément du 5 au 14 septembre 2026.
+Leur organisation est gérée par le **[Conseil national des sports de la Malaisie](/sports/national-sports-council-msn) (MSN)** avec les conseils sportifs des États, le Conseil des sports scolaires de la Malaisie (MSSM), le Conseil des sports universitaires de la Malaisie (MASUM) et le Conseil des sports de la Police royale de la Malaisie. La dernière édition, les **SUKMA XXII Selangor 2026**, est prévue du 15 au 24 août 2026. Les jeux dédiés aux athlètes en situation de handicap, les **Para SUKMA**, sont programmés séparément du 5 au 14 septembre 2026. L'édition 2026 a par ailleurs établi un record qui lui est propre : 474 épreuves ont été disputées, le plus grand nombre d'épreuves de l'histoire des SUKMA à ce jour.
+
+## De 1986 à aujourd'hui : limite d'âge, champions et records
+
+Les SUKMA sont une compétition réservée aux moins de 21 ans (U-21), et cette limite d'âge en est le trait distinctif : le Conseil national des sports (MSN) la défend pour garder les jeux centrés sur le développement des jeunes athlètes. La seule exception à ce jour a été l'édition 2022 (SUKMA XX), autorisée à relever la limite aux moins de 23 ans (U-23) parce que les Jeux de 2020 avaient été annulés en raison de la pandémie de COVID-19.
+
+Depuis la première édition à Kuala Lumpur en 1986 — qui avait rassemblé environ 4 500 athlètes de 16 délégations —, les jeux tournent entre les États, de Kuching et Johor Bahru à Alor Setar, Kuala Terengganu et Kota Kinabalu. Le Selangor est la délégation la plus titrée, championne générale à neuf reprises, devant le Terengganu et le Sarawak. Le record du plus grand nombre de médailles d'or en une seule édition revient également au Selangor, avec 80 titres aux SUKMA VII de 1998.
 
 ## Comment les SUKMA nourrissent-ils le vivier de talents d'élite ?
 
@@ -105,6 +132,17 @@ Les SUKMA se situent au premier échelon du système de développement sportif d
 Le **Programme Podium (Podium Programme)** a été lancé le 2 février 2016 sous l'égide du ministère de la Jeunesse et des Sports et est géré par l'**Institut national des sports (ISN)**. Il est conçu spécifiquement pour préparer les athlètes d'élite à réaliser des performances de classe mondiale lors de grands jeux internationaux tels que les Jeux olympiques, les Jeux asiatiques et les Jeux du Commonwealth. La sélection des athlètes dans le Programme Podium est effectuée par l'ISN selon les critères de sélection qu'il établit.
 
 Autrement dit, les SUKMA fournissent le réservoir de talent brut, tandis que les programmes de relève et Podium filtrent et affinent ce talent pour en faire des athlètes de haut niveau.
+
+## La preuve du vivier : ils ont débuté aux SUKMA
+
+La théorie est simple ; la preuve est dans les noms. Plusieurs athlètes nationaux bien connus se sont d'abord illustrés aux SUKMA avant de représenter la Malaisie à l'international :
+
+- **Pandelela Rinong** (plongeon, Sarawak) — devenue plus tard la première médaillée olympique de plongeon de la Malaisie (bronze, plateforme individuelle de 10 m, Londres 2012 ; argent, synchronisé, Rio 2016). Elle a déclaré que les SUKMA avaient relancé sa carrière : après avoir failli abandonner en 2004, son retour avec trois médailles d'or aux SUKMA de Kedah en 2006 a ravivé sa passion pour ce sport.
+- **Goh Jin Wei** (badminton, Penang) — a remporté l'or du simple dames aux SUKMA 2014 à 14 ans, avant de devenir championne du monde junior de la BWF (2015 et 2018) et première médaillée d'or de la Malaisie aux Jeux olympiques de la jeunesse.
+- **Welson Sim** (natation, Sarawak) — a décroché l'or aux SUKMA XV (2012) avant de participer aux Jeux olympiques de Rio 2016 et de s'imposer aux SEA Games.
+- **Khairul Hafiz Jantan** (athlétisme, Melaka) — a établi le record national du 100 m (10,18 s) aux SUKMA XVIII de 2016, battant la marque vieille de 18 ans de Watson Nyambek, puis a rejoint l'équipe nationale.
+
+Cette liste n'est pas le fruit du hasard : elle montre la véritable fonction des SUKMA comme pépinière, où le talent des États est testé pour la première fois avant d'être filtré vers des niveaux supérieurs.
 
 ## Pourquoi les États se disputent-ils l'organisation ?
 

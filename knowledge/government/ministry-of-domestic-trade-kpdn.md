@@ -35,19 +35,23 @@ reviewer: null
 reviewed: "2026-08-14"
 reviewDue: 2028-08-14
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-19
+    change: "Sourced depth expansion for the 'what ministry is KPDN' query: added the four-name rename history (KPDNHEP 1990 → KPDNKK/MDTCC 2009 → KPDNHEP 2018 → KPDN 2022) and an enforcement-arm section (Bahagian Penguatkuasaan, officer powers, Ops Pantau scale). Cited the Wikipedia office-history and Berita Harian."
+    reviewer: null
 verificationNeeded:
-  - "Exact chronology and years of every ministry rename (KPDNHEP, KPDNKK/MDTCC, then KPDN in Dec 2022) — confirm each transition year against an official/Hansard source before listing them."
+  - "Exact DAY of the 2009 rename to KPDNKK — the year 2009 is settled, but sources conflict (9 vs 10 April vs 11 June), so only the year is stated. Confirm the day against an official/Hansard source if a precise date is later needed."
   - "TTPM specifics beyond the RM50,000 ceiling (RM5 filing fee, 3-year limitation) — reconfirm on the live TTPM/KPDN page before publishing exact figures."
   - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
   - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
   - "Current Deputy Minister and Secretary-General — verify still in office at publication."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "Latar Belakang - KPDN"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -73,6 +77,12 @@ sources:
   - title: "Protecting Consumers - KPDN"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
+  - title: "Minister of Domestic Trade and Costs of Living (Malaysia) — office name history"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
@@ -89,6 +99,12 @@ KPDN was **established on 27 October 1990**. Its stated objective is to promote 
 
 The ministry adopted its current name, adding the "Cost of Living" emphasis, in **December 2022**. Its headquarters is at No. 13, Persiaran Perdana, Precinct 2, Federal Government Administrative Centre, 62623 Putrajaya. The minister is **Datuk Armizan Mohd Ali**, who has led the ministry since 30 July 2023.
 
+## What KPDN was called before: four names since 1990
+
+KPDN has worn four official names, each reflecting the portfolio it carried at the time. It was established on **27 October 1990** as the **Ministry of Domestic Trade and Consumer Affairs** (*Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna*, **KPDNHEP**), carved out of the trade-and-industry ministry. In **2009** it absorbed the co-operatives portfolio to become the **Ministry of Domestic Trade, Co-operatives and Consumerism** (**KPDNKK**, rendered **MDTCC** in English). In **2018** co-operatives moved out again and it reverted to **KPDNHEP**. Finally, on **3 December 2022**, it took its present name and an explicit cost-of-living mandate: the **Ministry of Domestic Trade and Cost of Living** (**KPDN**).
+
+The thread through all four names never changed — domestic trade and the protection of consumers — but the 2022 rename signalled that holding down the price of everyday essentials had become the ministry's defining public task. So if you encounter the older abbreviations KPDNHEP, KPDNKK or MDTCC in documents or news reports, they refer to the same ministry at an earlier stage of its life.
+
 ## Which laws does KPDN use to keep prices in check?
 
 KPDN and its agencies administer a body of trade and consumer legislation. The statutes an ordinary Malaysian is most likely to feel are these:
@@ -104,6 +120,10 @@ KPDN and its agencies administer a body of trade and consumer legislation. The s
 | Franchise Act 1998 [Act 590] | Registers and regulates franchises |
 
 Using Act 122 and Act 723, KPDN works to stabilise the prices of essentials such as rice, eggs, cooking oil and chicken. It runs enforcement operations including **Ops Pantau** and **Ops Menu**, and imposes festive **Maximum Price Schemes** (*Skim Harga Maksimum Musim Perayaan*) that cap the prices of selected controlled items during celebrations — as during the October 2025 [Deepavali](/arts-culture/deepavali) scheme. Under Section 10 of Act 723, the minister can require any seller of goods or services to display prices.
+
+## Who actually enforces the rules?
+
+Behind those operations sits the ministry's **Enforcement Division** (*Bahagian Penguatkuasaan*), the uniformed arm whose officers work out of state-level offices nationwide. Operating mainly under the Price Control and Anti-Profiteering Act 2011 and the Control of Supplies Act 1961, they inspect premises, compel price displays, seize goods, and bring charges against traders who breach ceiling prices or profiteer. During a single festive sweep such as **Ops Pantau**, the division can field thousands of officers — the 2026 operation deployed more than 2,400 — making it the face of the ministry that most traders actually meet. The division sits within a ministry organised into roughly a dozen divisions and units, spanning domestic-trade development, cost-of-living monitoring, consumerism, and the legal and tribunal functions described below.
 
 ## How do you actually use KPDN when you are cheated?
 

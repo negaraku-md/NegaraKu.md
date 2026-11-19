@@ -20,7 +20,7 @@ keyTakeaways:
   - "1948 संघ ने शासक सम्मेलन, संघीय विधान परिषद और संघीय कार्यकारी परिषद की स्थापना की, लेकिन कार्यकारी शक्ति अब भी ब्रिटिश उच्चायुक्त के पास थी"
 appliesTo: "वे छात्र, शोधकर्ता और सामान्य पाठक जो मलेशिया की संवैधानिक संरचना की उत्पत्ति को समझना चाहते हैं — विशेष रूप से यह कि मलय शासकों की स्थिति और नागरिकता की शर्तें मेरदेका से पहले पहली बार लिखित रूप में कैसे निर्धारित की गईं।"
 lang: "hi"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,7 +36,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "मलायन यूनियन — वर्तमान और आने वाली पीढ़ियों के लिए एक सबक़ (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "मलायन यूनियन नागरिकता: मलाया में संवैधानिक परिवर्तन और विवाद, 1942–48 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "शासकों पर शासन (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "मलेशियाई बार (Malaysian Bar)"
+  - title: "मलायन यूनियन और उसका प्रभाव (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "मलेशियाई बार (Malaysian Bar)"
+  - title: "एक 'स्मृति-परिदृश्य': 1946 के मलायन यूनियन को स्मरण करना (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -125,6 +134,8 @@ framework: history-culture
 बुद्धिजीवियों ने इस मुद्दे को *Utusan Melayu* और *Majlis* जैसे माध्यमों में मलय-भाषा के प्रेस में लाया। पहला मलय कांग्रेस 1 से 4 मार्च 1946 तक सुल्तान सुलैमान क्लब में आयोजित हुआ, जिसमें 41 मलय संगठनों ने भाग लिया। उस प्रक्रिया से, यूनाइटेड मलेज़ नेशनल ऑर्गनाइज़ेशन की स्थापना 11 मई 1946 को जोहोर बहरू के इस्ताना बेसार में, दातो' ओन जाफ़र के नेतृत्व में हुई।
 
 आधिकारिक शासक सम्मेलन पोर्टल दर्ज करता है कि मलय शासक भी इसी प्रकार ढाँचे के कार्यान्वयन का विरोध करने में जनता के साथ उठ खड़े हुए। मलेशिया संसद, अपनी ओर से, दर्ज करती है कि मलायन यूनियन का दातो' ओन जाफ़र के नेतृत्व में मलयों द्वारा प्रचंड विरोध किया गया।
+
+सबसे अधिक याद किए जाने वाले विरोध के कृत्यों में से एक उसके कार्यान्वयन के दिन ही हुआ। जब 1 अप्रैल 1946 को कुआलालंपुर के सभा-भवन (Dewan Majlis, Council Chamber) में मलायन यूनियन का उद्घाटन हुआ और Sir Edward Gent को इसका पहला गवर्नर नियुक्त किया गया, तब मलय शासक उस पदग्रहण समारोह में उपस्थित नहीं हुए — यह एक इनकार था जो Onn Jaafar के नेतृत्व वाले UMNO के आग्रह पर लिया गया, जबकि इस ढाँचे के विरुद्ध उनका विरोध अभी भी लंबित था। लोग भी शासकों के ठहरने के स्थान पर समर्थन दिखाने के लिए एकत्र हुए। पदग्रहण समारोह और सलाहकार परिषद की बैठकों में उपस्थित होने से इनकार करने का यह कृत्य, मलायन यूनियन के विरुद्ध आंदोलन को चिह्नित करने वाली नागरिक अवज्ञा (civil disobedience) के रूपों में से एक बन गया।
 
 यह भी ध्यान देने योग्य है कि 1948 के प्रतिस्थापन ढाँचे में अधिक कठोर नागरिकता शर्तें बदले में बाद में अन्य पक्षों की ओर से आपत्ति का आधार बनीं, जिनमें वे ग़ैर-मलय भी शामिल थे जिन्होंने 1946 के प्रस्ताव की तुलना में अपनी पात्रता संकुचित पाई।
 

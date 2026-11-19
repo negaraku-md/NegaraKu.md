@@ -35,8 +35,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
-sourceContentHash: "f8c770a08f5a6831"
+updated: 2026-11-19
+sourceContentHash: "904115cd95750d61"
 sources:
   - title: "Malayan Union — Teladan buat generasi kini, akan datang"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "Ruling the rulers"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "Malaysian Bar"
+  - title: "The Malayan Union and its impact"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "Malaysian Bar"
+  - title: "A 'Memoryscape': Remembering the Malayan Union 1946"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -125,6 +134,8 @@ The opposition took place across several channels at once, and was open and cons
 Intellectuals brought the issue into the Malay-language press, in outlets such as *Utusan Melayu* and *Majlis*. The first Malay Congress was held from 1 to 4 March 1946 at the Sultan Sulaiman Club, attended by 41 Malay organisations. Out of that process, the United Malays National Organisation was established on 11 May 1946 at Istana Besar, Johor Bahru, under the leadership of Dato' Onn Jaafar.
 
 The official Conference of Rulers portal records that the Malay Rulers likewise rose together with the population in opposing the framework's implementation. The Parliament of Malaysia, for its part, records that the Malayan Union was fiercely opposed by Malays led by Dato' Onn Jaafar.
+
+One of the most remembered acts of protest took place on the day of implementation itself. When the Malayan Union was inaugurated at the Council Chamber in Kuala Lumpur on 1 April 1946 and Sir Edward Gent was installed as its first Governor, the Malay Rulers did not attend the installation ceremony — a refusal taken at the urging of UMNO under Onn Jaafar, while their protest against the scheme was still pending. Crowds also gathered where the Rulers were staying as a show of support. This refusal to attend the installation and the advisory-council meetings became one of the forms of civil disobedience that marked the movement against the Malayan Union.
 
 It should also be noted that the stricter citizenship terms in the 1948 replacement framework later became, in turn, grounds for objection from other quarters, including among non-Malays who found their eligibility narrowed compared with the 1946 proposal.
 

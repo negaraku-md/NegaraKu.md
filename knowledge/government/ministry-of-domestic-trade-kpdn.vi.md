@@ -27,7 +27,7 @@ faq:
   - q: "KPDN dùng những luật nào để kiểm soát giá?"
     a: "Nó chủ yếu dựa vào Luật Kiểm soát Nguồn cung (Control of Supplies Act 1961) và Luật Kiểm soát Giá và Chống Trục lợi (Price Control and Anti-Profiteering Act 2011), cho phép nó đặt mức trần giá, yêu cầu niêm yết giá, và hành động chống lại lợi nhuận cao một cách bất hợp lý."
 lang: "vi"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "eafe5ca3a7bd0d06"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Các số kênh khiếu nại người tiêu dùng (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — xác minh còn hiện hành trên kpdn.gov.my/bantuan, vì các đường dây nóng đôi khi thay đổi."
   - "Số lượng chính xác các bộ phận (bahagian) và tổng số các Đạo luật được quản lý — xác nhận trước khi nêu một con số cứng."
   - "Thứ trưởng và Tổng Thư ký hiện tại — xác minh vẫn đương chức vào thời điểm xuất bản."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "Bối cảnh - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,6 +74,12 @@ sources:
   - title: "Bảo vệ người tiêu dùng - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "Bộ Thương mại Nội địa và Chi phí Sinh hoạt (KPDN)"
+  - title: "Bộ trưởng Thương mại Nội địa và Chi phí Sinh hoạt (Malaysia) — lịch sử tên gọi chức vụ (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN bảo đảm không có thao túng giá suốt mùa lễ hội (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
@@ -90,6 +96,12 @@ KPDN được **thành lập ngày 27 tháng 10 năm 1990**. Mục tiêu đượ
 
 Bộ lấy tên hiện tại, bổ sung nhấn mạnh "Chi phí Sinh hoạt", vào **tháng 12 năm 2022**. Trụ sở của nó ở No. 13, Persiaran Perdana, Precinct 2, Trung tâm Hành chính Chính phủ Liên bang, 62623 Putrajaya. Bộ trưởng là **Datuk Armizan Mohd Ali**, người đã lãnh đạo bộ kể từ ngày 30 tháng 7 năm 2023.
 
+## Trước đây KPDN có tên gì: bốn cái tên kể từ năm 1990
+
+KPDN đã mang bốn cái tên chính thức, mỗi tên phản ánh phạm vi nhiệm vụ mà bộ đảm nhận vào thời điểm đó. Nó được thành lập vào ngày **27 tháng 10 năm 1990** với tên **Bộ Thương mại Nội địa và Vấn đề Người tiêu dùng** (*Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna*, **KPDNHEP**), tách ra từ bộ thương mại và công nghiệp. Năm **2009**, nó tiếp nhận thêm mảng hợp tác xã để trở thành **Bộ Thương mại Nội địa, Hợp tác xã và Chủ nghĩa Tiêu dùng** (**KPDNKK**, được viết là **MDTCC** trong tiếng Anh). Năm **2018**, mảng hợp tác xã lại tách ra và bộ quay về tên **KPDNHEP**. Cuối cùng, vào ngày **3 tháng 12 năm 2022**, bộ lấy tên hiện tại cùng một nhiệm vụ rõ ràng về chi phí sinh hoạt: **Bộ Thương mại Nội địa và Chi phí Sinh hoạt** (**KPDN**).
+
+Sợi chỉ xuyên suốt cả bốn cái tên chưa bao giờ thay đổi — thương mại nội địa và việc bảo vệ người tiêu dùng — nhưng lần đổi tên năm 2022 báo hiệu rằng việc kìm giữ giá các mặt hàng thiết yếu hằng ngày đã trở thành nhiệm vụ công nổi bật của bộ. Vì vậy nếu bạn gặp các chữ viết tắt cũ hơn như KPDNHEP, KPDNKK hay MDTCC trong tài liệu hoặc tin tức, chúng đều chỉ cùng một bộ ở một giai đoạn trước đó.
+
 ## KPDN dùng những luật nào để kiềm chế giá?
 
 KPDN và các cơ quan của nó quản lý một khối pháp luật về thương mại và người tiêu dùng. Các đạo luật mà một người Malaysia bình thường có nhiều khả năng cảm nhận nhất là những đạo luật sau:
@@ -105,6 +117,10 @@ KPDN và các cơ quan của nó quản lý một khối pháp luật về thư�
 | Luật Nhượng quyền (Franchise Act 1998) [Act 590] | Đăng ký và điều chỉnh các nhượng quyền thương mại |
 
 Dùng Act 122 và Act 723, KPDN nỗ lực ổn định giá các mặt hàng thiết yếu như gạo, trứng, dầu ăn và gà. Nó tiến hành các chiến dịch thực thi bao gồm **Ops Pantau** và **Ops Menu**, và áp đặt các **Chương trình Giá Tối đa** dịp lễ hội (*Skim Harga Maksimum Musim Perayaan*) giới hạn giá của một số mặt hàng được kiểm soát trong các dịp lễ — như trong chương trình [Deepavali](/arts-culture/deepavali) tháng 10 năm 2025. Theo Điều 10 của Act 723, bộ trưởng có thể yêu cầu bất kỳ người bán hàng hóa hoặc dịch vụ nào niêm yết giá.
+
+## Ai thực sự thực thi các quy định?
+
+Đứng sau những chiến dịch đó là **Cục Thực thi** (*Bahagian Penguatkuasaan*) của bộ, cánh tay mặc đồng phục với các cán bộ làm việc tại các văn phòng cấp bang trên khắp cả nước. Hoạt động chủ yếu theo Luật Kiểm soát Giá và Chống Trục lợi 2011 và Luật Kiểm soát Nguồn cung 1961, họ kiểm tra cơ sở kinh doanh, buộc niêm yết giá, tịch thu hàng hóa, và truy tố các thương nhân vi phạm mức giá trần hoặc trục lợi. Trong một đợt càn quét dịp lễ hội như **Ops Pantau**, cục có thể huy động hàng nghìn cán bộ — chiến dịch năm 2026 đã triển khai hơn 2.400 người — khiến nó trở thành gương mặt của bộ mà hầu hết thương nhân thực sự gặp. Cục này nằm trong một bộ được tổ chức thành khoảng một chục cục và đơn vị, trải rộng từ phát triển thương mại nội địa, giám sát chi phí sinh hoạt, chủ nghĩa tiêu dùng, đến các chức năng pháp lý và tòa trọng tài được mô tả bên dưới.
 
 ## Bạn thực sự dùng KPDN như thế nào khi bị lừa?
 

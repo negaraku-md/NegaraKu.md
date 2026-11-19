@@ -27,7 +27,7 @@ faq:
   - q: "KPDN은 어떤 법으로 가격을 통제합니까?"
     a: "주로 물자통제법(Control of Supplies Act 1961)과 가격통제·폭리방지법(Price Control and Anti-Profiteering Act 2011)에 의존하며, 이 법들은 가격 상한 설정, 가격 표시 의무화, 부당하게 높은 이윤에 대한 조치를 가능하게 합니다."
 lang: "ko"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "eafe5ca3a7bd0d06"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "소비자 민원 창구 번호(1-800-886-800, 왓츠앱 019-848 8000, eaduan.kpdn.gov.my, Ez ADU, e-aduan@kpdn.gov.my) — 상담 전화가 때때로 바뀌므로 kpdn.gov.my/bantuan에서 현재 정보를 확인할 것."
   - "부서(bahagian)의 정확한 수와 관장하는 법률의 총수 — 확정된 수치를 명시하기 전에 확인할 것."
   - "현재의 차관과 사무총장 — 발행 시점에 여전히 재직 중인지 확인할 것."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "배경 - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,6 +74,12 @@ sources:
   - title: "소비자 보호 - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "국내통상생활비부 (KPDN)"
+  - title: "국내무역생계비부 장관(말레이시아) — 부처 명칭 연혁 (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN, 명절 내내 가격 조작이 없도록 보장 (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
@@ -90,6 +96,12 @@ KPDN은 **1990년 10월 27일에 설립**되었습니다. 그 명시된 목적�
 
 이 부처는 "생계비(Cost of Living)" 강조를 더한 현재의 명칭을 **2022년 12월**에 채택했습니다. 그 본부는 No. 13, Persiaran Perdana, Precinct 2, Federal Government Administrative Centre, 62623 Putrajaya에 있습니다. 장관은 **Datuk Armizan Mohd Ali**로, 2023년 7월 30일 이래 이 부처를 이끌고 있습니다.
 
+## KPDN의 이전 명칭: 1990년 이래 네 개의 이름
+
+KPDN은 네 개의 공식 명칭을 거쳐 왔으며, 각 명칭은 그때그때 맡았던 소관 업무를 반영합니다. 1990년 10월 27일 통상산업부에서 분리되어 국내무역소비자부(Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna, KPDNHEP)로 설립되었습니다. 2009년에는 협동조합 소관을 흡수하여 국내무역협동조합소비자부(KPDNKK, 영문으로는 MDTCC)가 되었습니다. 2018년에는 협동조합 소관이 다시 분리되어 KPDNHEP로 되돌아갔습니다. 마침내 2022년 12월 3일, 현재의 명칭과 생계비에 관한 명시적 소임을 갖추게 되었습니다 — 국내무역생계비부(KPDN)입니다.
+
+네 개의 명칭을 관통하는 축은 결코 바뀌지 않았습니다 — 국내 무역과 소비자 보호입니다 — 그러나 2022년의 개칭은 일상 필수품의 가격을 억제하는 일이 이 부처의 대표적 공적 임무가 되었음을 알렸습니다. 따라서 문서나 뉴스에서 KPDNHEP, KPDNKK 또는 MDTCC라는 옛 약칭을 만나더라도, 그것들은 더 이른 단계의 같은 부처를 가리킵니다.
+
 ## KPDN은 가격을 억제하기 위해 어떤 법을 쓰는가?
 
 KPDN과 그 산하 기관은 무역 및 소비자 법령의 체계를 관장합니다. 일반 말레이시아인이 가장 체감하기 쉬운 법령은 다음과 같습니다.
@@ -105,6 +117,10 @@ KPDN과 그 산하 기관은 무역 및 소비자 법령의 체계를 관장합�
 | 프랜차이즈법(Franchise Act 1998) [Act 590] | 프랜차이즈 등록 및 규제 |
 
 Act 122와 Act 723을 사용하여, KPDN은 쌀, 계란, 식용유, 닭고기와 같은 필수품의 가격을 안정시키려 노력합니다. **Ops Pantau**와 **Ops Menu**를 포함한 집행 작전을 운영하고, 명절 동안 선정된 통제 품목의 가격에 상한을 두는 명절 **최고가격제**(*Skim Harga Maksimum Musim Perayaan*)를 부과합니다 — 2025년 10월 [디파발리(Deepavali)](/arts-culture/deepavali) 제도가 그 예입니다. Act 723 제10조에 따라, 장관은 상품이나 서비스의 판매자에게 가격을 표시하도록 요구할 수 있습니다.
+
+## 실제로 규칙을 집행하는 것은 누구인가?
+
+그러한 작전의 배후에는 이 부처의 집행국(Bahagian Penguatkuasaan)이 자리합니다. 전국의 주 단위 사무소에서 일하는 제복 요원들로 이루어진 조직입니다. 주로 가격통제 및 폭리방지법 2011과 공급통제법 1961에 근거하여, 이들은 영업장을 점검하고, 가격 표시를 강제하며, 물품을 압수하고, 상한가를 위반하거나 폭리를 취한 상인을 기소합니다. Ops Pantau와 같은 한 번의 명절 단속 기간에 이 국은 수천 명의 요원을 투입할 수 있으며 — 2026년 작전에는 2,400명이 넘는 인원이 배치되었습니다 — 그리하여 대다수 상인이 실제로 마주하는 이 부처의 얼굴이 됩니다. 이 국은 국내무역 발전, 생계비 감시, 소비자 업무, 그리고 아래에서 설명하는 법무·심판 기능에 걸쳐 약 열두 개의 국과 단위로 조직된 한 부처 안에 자리합니다.
 
 ## 속았을 때 KPDN을 실제로 어떻게 이용하는가?
 

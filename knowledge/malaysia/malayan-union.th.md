@@ -20,7 +20,7 @@ keyTakeaways:
   - "สหพันธ์ปี 1948 ก่อตั้งที่ประชุมพระราชาธิบดี สภานิติบัญญัติสหพันธ์ และสภาบริหาร แต่อำนาจบริหารยังคงอยู่ที่ข้าหลวงใหญ่อังกฤษ"
 appliesTo: "นักเรียน นักวิจัย และผู้อ่านทั่วไปที่ต้องการเข้าใจต้นกำเนิดทางรัฐธรรมนูญของมาเลเซีย โดยเฉพาะการที่สถานะของบรรดาพระราชาธิบดีมลายูและเงื่อนไขสัญชาติเริ่มถูกกำหนดเป็นลายลักษณ์อักษรก่อนเมอร์เดกาอย่างไร"
 lang: "th"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,7 +36,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "สหภาพมลายา — บทเรียนสำหรับคนรุ่นปัจจุบันและอนาคต (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "สัญชาติสหภาพมลายา: การเปลี่ยนแปลงทางรัฐธรรมนูญและข้อโต้แย้งในมลายา, 1942–48 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "การปกครองผู้ปกครอง (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "สภาทนายความมาเลเซีย (Malaysian Bar)"
+  - title: "สหภาพมลายาและผลกระทบของมัน (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "สภาทนายความมาเลเซีย (Malaysian Bar)"
+  - title: "ภูมิทัศน์แห่งความทรงจำ: การระลึกถึงสหภาพมลายา 1946 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -125,6 +134,8 @@ framework: history-culture
 กลุ่มปัญญาชนนำประเด็นนั้นสู่พื้นที่หนังสือพิมพ์ภาษามลายูเช่น *Utusan Melayu* และ *Majlis* การประชุมมลายูครั้งแรกจัดขึ้นเมื่อวันที่ 1 ถึง 4 มีนาคม 1946 ที่สโมสรสุลต่านสุไลมาน (Kelab Sultan Sulaiman) มีองค์กรมลายู 41 องค์กรเข้าร่วม จากกระบวนการนั้น องค์การสหมลายูแห่งชาติ (Pertubuhan Kebangsaan Melayu Bersatu, UMNO) ถูกก่อตั้งขึ้นเมื่อวันที่ 11 พฤษภาคม 1946 ที่อิสตานาเบอซาร์ (Istana Besar) ยะโฮร์บาห์รู ภายใต้การนำของดาโต๊ะ ออน จาฟาร์ (Dato' Onn Jaafar)
 
 พอร์ทัลทางการของที่ประชุมพระราชาธิบดีบันทึกว่าบรรดาพระราชาธิบดีมลายูก็ลุกขึ้นร่วมกับประชากรในการต่อต้านการดำเนินกรอบดังกล่าว ส่วนรัฐสภามาเลเซียบันทึกว่าสหภาพมลายาถูกต่อต้านอย่างหนักโดยชาวมลายูที่นำโดยดาโต๊ะ ออน จาฟาร์
+
+หนึ่งในการกระทำเพื่อคัดค้านที่ถูกจดจำมากที่สุดเกิดขึ้นในวันบังคับใช้นั้นเอง เมื่อสหภาพมลายาได้รับการประกาศใช้อย่างเป็นทางการที่หอประชุมสภา (Dewan Majlis) ในกัวลาลัมเปอร์เมื่อวันที่ 1 เมษายน 1946 และ Sir Edward Gent ได้รับการแต่งตั้งเป็นผู้ว่าการคนแรก บรรดาพระราชาธิบดีมลายูไม่เสด็จร่วมพระราชพิธีแต่งตั้งดังกล่าว — การปฏิเสธที่เกิดขึ้นตามการเรียกร้องของ UMNO ภายใต้การนำของ Onn Jaafar ในขณะที่การคัดค้านของพวกพระองค์ต่อกรอบดังกล่าวยังไม่ได้ข้อยุติ ประชาชนยังมารวมตัวกัน ณ ที่ประทับของบรรดาพระราชาธิบดีเพื่อแสดงการสนับสนุน การปฏิเสธที่จะเข้าร่วมพระราชพิธีแต่งตั้งและการประชุมสภาที่ปรึกษานี้ได้กลายเป็นหนึ่งในรูปแบบของการดื้อแพ่งที่เป็นเครื่องหมายของการเคลื่อนไหวต่อต้านสหภาพมลายา
 
 พึงบันทึกด้วยว่าเงื่อนไขสัญชาติที่เข้มงวดกว่าในกรอบทดแทนปี 1948 ต่อมากลายเป็นพื้นฐานของการคัดค้านจากฝ่ายอื่นด้วย รวมถึงในหมู่ผู้ที่ไม่ใช่ชาวมลายูที่พบว่าคุณสมบัติของตนแคบลงเมื่อเทียบกับข้อเสนอปี 1946
 

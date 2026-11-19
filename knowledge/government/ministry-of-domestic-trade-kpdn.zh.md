@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "eafe5ca3a7bd0d06"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -54,7 +54,7 @@ verificationNeeded:
   - "消费者投诉渠道号码（1-800-886-800；WhatsApp 019-848 8000；eaduan.kpdn.gov.my；Ez ADU；e-aduan@kpdn.gov.my）——由于热线偶有变动，请在kpdn.gov.my/bantuan上核实是否为最新。"
   - "部门／bahagian的确切数目以及所执掌法令的总数——在给出确切数字前请先核实。"
   - "现任副部长与秘书长——请核实在发布时仍在任。"
-updated: 2026-10-24
+updated: 2026-11-19
 sources:
   - title: "背景 - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -80,6 +80,12 @@ sources:
   - title: "保护消费者 - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "国内贸易及生活成本部 (KPDN)"
+  - title: "国内贸易及生活成本部部长（马来西亚）——职位名称沿革 (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN 确保节庆期间供应与价格无操纵 (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
@@ -96,6 +102,12 @@ KPDN 于 **1990 年 10 月 27 日成立**。其既定目标是促进「可行、
 
 该部于 **2022 年 12 月**采用现有名称，加入了「生活成本」的重点。其总部位于 No. 13, Persiaran Perdana, Precinct 2, Federal Government Administrative Centre, 62623 Putrajaya。现任部长为 **Datuk Armizan Mohd Ali**，自 2023 年 7 月 30 日起领导该部。
 
+## KPDN 以前叫什么：1990 年以来的四个名称
+
+KPDN 曾先后使用过四个官方名称，每一个都反映了它当时所承担的职责范围。它于 **1990 年 10 月 27 日**成立，名为**国内贸易及消费者事务部**（*Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna*，**KPDNHEP**），由贸易及工业部拆分而来。**2009 年**，它纳入了合作社职责，更名为**国内贸易、合作社及消费主义部**（**KPDNKK**，英文作 **MDTCC**）。**2018 年**，合作社职责再度移出，它恢复为 **KPDNHEP**。最终，于 **2022 年 12 月 3 日**，它采用了现今的名称，并被赋予明确的生活成本职责：**国内贸易及生活成本部**（**KPDN**）。
+
+贯穿这四个名称的主线从未改变——国内贸易与消费者保护——但 2022 年的更名标志着，压低日常必需品的价格已成为该部对公众而言最具标志性的任务。因此，如果你在文件或新闻中遇到较旧的缩写 KPDNHEP、KPDNKK 或 MDTCC，它们指的都是同一个部门在其发展较早阶段的称谓。
+
 ## KPDN 依据哪些法令来控制价格？
 
 KPDN 及其属下机构负责执行一系列贸易与消费者法令。普通马来西亚人最有可能切身感受到的法令如下：
@@ -111,6 +123,10 @@ KPDN 及其属下机构负责执行一系列贸易与消费者法令。普通马
 | 《1998 年特许经营法令》[Act 590] | 注册及监管特许经营 |
 
 KPDN 运用 Act 122 及 Act 723，致力于稳定稻米、鸡蛋、食油和鸡肉等必需品的价格。它开展 **Ops Pantau** 和 **Ops Menu** 等执法行动，并推行节庆**最高价格计划**（*Skim Harga Maksimum Musim Perayaan*），在庆典期间为选定的受管制商品设定价格上限——如 2025 年 10 月[屠妖节（Deepavali）](/arts-culture/deepavali)计划期间。根据 Act 723 第 10 条，部长可要求任何商品或服务的卖家标示价格。
+
+## 究竟是谁在执法？
+
+在这些行动的背后，是该部的**执法组**（*Bahagian Penguatkuasaan*）——这支身着制服的队伍，其官员分驻全国各州级办事处。他们主要依据《2011 年价格管制及反暴利法令》和《1961 年供应管制法令》行事，检查营业场所、强制标示价格、扣押货物，并对违反顶价或暴利的商家提起控诉。在诸如 **Ops Pantau** 这类节庆专项行动中，该组可出动数以千计的官员——2026 年的行动便部署了超过 2,400 人——使其成为大多数商家实际会打交道的那张「部门的脸」。该组隶属于一个由大约十余个部门与单位组成的部，涵盖国内贸易发展、生活成本监控、消费主义，以及下文所述的法律与仲裁职能。
 
 ## 当你被欺骗时，实际上要如何借助 KPDN？
 

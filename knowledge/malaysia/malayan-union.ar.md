@@ -20,7 +20,7 @@ keyTakeaways:
   - "أنشأ اتحاد 1948 مجلس الحكّام (Conference of Rulers)، والمجلس التشريعي الاتحادي، والمجلس التنفيذي الاتحادي، لكن السلطة التنفيذية ظلّت بيد المفوّض السامي البريطاني (High Commissioner)"
 appliesTo: "الطلاب والباحثون والقرّاء العامّون الراغبون في فهم أصول البنية الدستورية لماليزيا — خصوصًا كيف وُضعت كتابةً، لأول مرة قبل يوم الاستقلال، مكانةُ الحكّام الملايويين وشروطُ المواطنة."
 lang: "ar"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,8 +36,17 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
+  - title: "حُكمُ الحكّام (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "نقابة المحامين الماليزية (Malaysian Bar)"
+  - title: "الاتحاد الملايوي وأثره (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "نقابة المحامين الماليزية (Malaysian Bar)"
+  - title: "«مشهد ذاكرة»: تذكّر الاتحاد الملايوي 1946 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
   - title: "الاتحاد الملايوي — عبرة للأجيال الحالية والقادمة (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
     publisher: "الأرشيف الوطني الماليزي (Arkib Negara Malaysia, Pustaka Ilmu)"
@@ -131,6 +140,8 @@ framework: history-culture
 حمل المثقفون القضية إلى الصحافة الناطقة بالملايوية، في منابر مثل *Utusan Melayu* و*Majlis*. وعُقد أول مؤتمر ملايوي في الفترة من 1 إلى 4 مارس 1946 في نادي السلطان سليمان (Sultan Sulaiman Club)، بحضور 41 منظمة ملايوية. ومن تلك العملية، تأسست المنظمة الوطنية الملايوية المتحدة (United Malays National Organisation, UMNO) في 11 مايو 1946 في القصر الكبير (Istana Besar) بجوهور بهرو، بقيادة داتو أون جعفر (Dato' Onn Jaafar).
 
 وتسجّل البوابة الرسمية لمجلس الحكّام أن الحكّام الملايويين نهضوا كذلك مع السكان في معارضة تطبيق الإطار. ويسجّل برلمان ماليزيا، من جهته، أن الاتحاد الملايوي عُورض بشدة من الملايو بقيادة داتو أون جعفر.
+
+ومن أكثر أفعال الاحتجاج بقاءً في الذاكرة ما حدث في يوم التطبيق نفسه. فحين دُشّن الاتحاد الملايوي في قاعة المجلس (Council Chamber) بكوالالمبور في 1 أبريل 1946 ونُصّب السير إدوارد جنت (Sir Edward Gent) أول حاكم (Governor) له، لم يحضر الحكّام الملايويون حفل التنصيب — رفضٌ اتُّخذ بإلحاح من UMNO بقيادة أون جعفر (Onn Jaafar)، بينما كان احتجاجهم على المشروع لا يزال معلّقًا. كما احتشدت الجموع حيث كان الحكّام نازلين تعبيرًا عن التأييد. وصار رفض حضور التنصيب واجتماعات المجلس الاستشاري أحد أشكال العصيان المدني التي طبعت الحركة المناهضة للاتحاد الملايوي.
 
 وينبغي أن يُلاحَظ أيضًا أن شروط المواطنة الأشدّ في الإطار البديل لسنة 1948 صارت بدورها لاحقًا موضع اعتراض من جهات أخرى، بما في ذلك بين غير الملايويين الذين وجدوا أهليتهم تضيق مقارنةً باقتراح 1946.
 

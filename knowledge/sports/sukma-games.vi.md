@@ -29,7 +29,7 @@ faq:
     a: "SUKMA là sân khấu cấp bang để các vận động viên tuổi thiếu niên thể hiện tài năng. Các vận động viên tiềm năng có thể được nâng lên các chương trình phát triển tài năng và kế cận của MSN và tiếp đó đến Chương trình Podium của ISN vốn chuẩn bị các vận động viên tinh nhuệ cho các đại hội quốc tế."
 
 lang: "vi"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "85246294d35de2fe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,7 @@ verificationNeeded:
   - "Cấu trúc và tên chính xác của các chương trình phát triển MSN (Program Bakat; Program Pelapis Negeri/Serantau/Kebangsaan) — bảo đảm cách đặt tên mới nhất."
   - "Tiêu chí tuyển chọn cụ thể vận động viên vào Chương trình Podium của ISN — chi tiết không được liệt kê trên trang chính thức."
   - "Tuyên bố chung về đầu tư hạ tầng của chủ nhà và lợi thế sân nhà — chưa được nguồn cụ thể hỗ trợ; xác nhận hoặc loại bỏ."
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
   - title: "10,000 vận động viên sẽ làm sôi động SUKMA XXII, Para SUKMA Selangor 2026 (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
@@ -69,6 +69,27 @@ sources:
   - title: "Chương trình Podium — Viện Thể thao Quốc gia (Program Podium — Institut Sukan Negara)"
     url: "https://isn.gov.my/bahagian-podium/"
     publisher: "Institut Sukan Negara"
+  - title: "Sukan Malaysia (SUKMA) — lịch sử và danh sách các kỳ đại hội (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "Wikipedia"
+  - title: "SUKMA nên giữ là giải đấu dưới 21 tuổi, NSC cho biết (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "SUKMA 2026 sẽ có 474 nội dung, cao nhất trong lịch sử giải đấu (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "SUKMA đã cứu sự nghiệp nhảy cầu của Pandelela ra sao sau khi cô suýt giải nghệ năm 2004 (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei hạ Li Lian để giành huy chương vàng SUKMA (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson sẵn sàng tạo tiếng vang lớn tại SUKMA XV (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz phá kỷ lục quốc gia 100m (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
 
 entity: "Sukan Malaysia (SUKMA)"
 wikidata: "Q137161"
@@ -94,6 +115,14 @@ SUKMA lần đầu tiên được tổ chức tại Kuala Lumpur vào tháng 4 n
 
 Việc tổ chức nó do **[Hội đồng Thể thao Quốc gia Malaysia](/vi/sports/national-sports-council-msn) (MSN)** điều hành cùng các hội đồng thể thao cấp bang, Hội đồng Thể thao Các Trường học Malaysia (MSSM), Hội đồng Thể thao Đại học Malaysia (MASUM) và Hội đồng Thể thao Cảnh sát Hoàng gia Malaysia. Kỳ gần nhất, **SUKMA XXII Selangor 2026**, được lên lịch diễn ra từ 15 đến 24 tháng 8 năm 2026. Đại hội dành riêng cho các vận động viên khuyết tật, **Para SUKMA**, được lên lịch riêng vào ngày 5 đến 14 tháng 9 năm 2026.
 
+Kỳ 2026 cũng lập một kỷ lục riêng: có tới 474 nội dung được tranh tài — số nội dung nhiều nhất trong lịch sử SUKMA cho đến nay.
+
+## Từ 1986 đến nay: giới hạn tuổi, nhà vô địch và kỷ lục
+
+SUKMA là một cuộc tranh tài dành cho lứa tuổi **dưới 21 (U-21)**, và chính giới hạn tuổi đó là nét định hình bản sắc của nó — Hội đồng Thể thao Quốc gia (MSN) bảo vệ giới hạn tuổi này nhằm giữ cho đại hội tập trung vào việc phát triển vận động viên trẻ. Ngoại lệ duy nhất cho đến nay là kỳ 2022 (SUKMA XX), được phép nâng giới hạn lên dưới 23 tuổi vì Đại hội năm 2020 đã bị hủy do đại dịch COVID-19.
+
+Kể từ kỳ đầu tiên tại Kuala Lumpur năm 1986 — vốn quy tụ khoảng 4.500 vận động viên từ 16 đoàn — đại hội được tổ chức luân phiên giữa các bang, từ Kuching và Johor Bahru đến Alor Setar, Kuala Terengganu và Kota Kinabalu. **Selangor** là đoàn thành công nhất, chín lần vô địch toàn đoàn, theo sau là Terengganu và Sarawak. Kỷ lục về số huy chương vàng nhiều nhất trong một kỳ cũng thuộc về Selangor, với 80 huy chương vàng tại SUKMA VII năm 1998.
+
 ## SUKMA nuôi dưỡng dòng chảy tài năng tinh nhuệ như thế nào?
 
 SUKMA đứng ở bậc thang đầu tiên của hệ thống phát triển thể thao Malaysia. Các vận động viên nổi bật tại đại hội này trở thành ứng viên để được nâng lên cấp độ tiếp theo:
@@ -105,6 +134,17 @@ SUKMA đứng ở bậc thang đầu tiên của hệ thống phát triển th�
 **Chương trình Podium** được khởi động vào ngày 2 tháng 2 năm 2016 dưới Bộ Thanh niên và Thể thao và do **Viện Thể thao Quốc gia (ISN)** điều hành. Nó được thiết kế riêng để chuẩn bị cho các vận động viên tinh nhuệ đạt thành tích đẳng cấp thế giới tại các đại hội quốc tế lớn như Thế vận hội Olympic, Đại hội Thể thao Châu Á và Đại hội Thể thao Khối Thịnh vượng chung. Việc tuyển chọn vận động viên vào Chương trình Podium do ISN thực hiện dựa trên các tiêu chí tuyển chọn mà nó đặt ra.
 
 Nói cách khác, SUKMA cung cấp nguồn tài năng thô, trong khi các chương trình kế cận và Podium sàng lọc và mài giũa tài năng đó thành các vận động viên thành tích cao.
+
+## Bằng chứng về dòng chảy tài năng: họ khởi đầu ở SUKMA
+
+Lý thuyết thì đơn giản; bằng chứng nằm ở những cái tên. Nhiều vận động viên nổi tiếng của quốc gia lần đầu tỏa sáng tại SUKMA trước khi đại diện cho Malaysia ở đấu trường quốc tế:
+
+- **Pandelela Rinong** (nhảy cầu, Sarawak) — về sau trở thành vận động viên Malaysia đầu tiên giành huy chương Olympic môn nhảy cầu (huy chương đồng, cầu cứng 10m cá nhân, London 2012; huy chương bạc, đồng diễn, Rio 2016). Cô từng nói SUKMA đã hồi sinh sự nghiệp của mình: sau khi suýt giải nghệ vào năm 2004, sự trở lại với ba huy chương vàng tại SUKMA 2006 ở Kedah đã khơi dậy lại niềm đam mê của cô.
+- **Goh Jin Wei** (cầu lông, Penang) — giành huy chương vàng đơn nữ tại SUKMA 2014 khi mới 14 tuổi, trước khi trở thành nhà vô địch trẻ thế giới BWF (2015 và 2018) và là vận động viên Malaysia đầu tiên giành huy chương vàng Thế vận hội Trẻ.
+- **Welson Sim** (bơi lội, Sarawak) — đoạt huy chương vàng tại SUKMA XV (2012) trước khi tranh tài tại Olympic Rio 2016 và giành chiến thắng ở SEA Games.
+- **Khairul Hafiz Jantan** (điền kinh, Melaka) — lập kỷ lục quốc gia 100m (10,18 giây) tại SUKMA XVIII 2016, phá kỷ lục tồn tại 18 năm của Watson Nyambek, rồi vươn lên đội tuyển quốc gia.
+
+Danh sách này không phải ngẫu nhiên: nó cho thấy chức năng thực sự của SUKMA như một vườn ươm, nơi tài năng của bang được thử thách lần đầu trước khi được sàng lọc lên các cấp độ cao hơn.
 
 ## Vì sao các bang tranh nhau làm chủ nhà?
 

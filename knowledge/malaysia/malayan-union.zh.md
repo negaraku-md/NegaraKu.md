@@ -35,8 +35,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
-sourceContentHash: "f8c770a08f5a6831"
+updated: 2026-11-19
+sourceContentHash: "904115cd95750d61"
 sources:
   - title: "马来亚联邦 — 予当代与后世的借鉴 (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "马来亚联邦公民权：马来亚的宪政变革与争议，1942–48 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "统驭统治者 (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "马来西亚律师公会 (Malaysian Bar)"
+  - title: "马来亚联邦及其影响 (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "马来西亚律师公会 (Malaysian Bar)"
+  - title: "「记忆景观」：铭记1946年马来亚联邦 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -125,6 +134,8 @@ framework: history-culture
 知识分子将此议题带入马来文报章，如《Utusan Melayu》与《Majlis》等。首届马来大会于1946年3月1日至4日在苏丹苏莱曼俱乐部（Kelab Sultan Sulaiman）举行，共有41个马来团体出席。由此进程，统一马来民族组织（巫统，UMNO）于1946年5月11日在新山Istana Besar成立，由拿督翁惹化（Dato' Onn Jaafar）领导。
 
 统治者会议（Majlis Raja-Raja）官方网站记载，马来统治者亦与民众一同起而反对该框架的实施。马来西亚国会记录，马来亚联邦遭到由拿督翁惹化领导的马来人猛烈反对。
+
+其中最为人铭记的抗议行动之一，发生在框架实施的当天。1946年4月1日，马来亚联邦在吉隆坡的会议厅（Council Chamber）举行成立仪式，Sir Edward Gent 就任首任总督，而马来统治者并未出席该就职典礼——这是在翁惹化（Onn Jaafar）领导的巫统（UMNO）敦促下所采取的拒绝之举，其时他们对该框架的抗议尚未有定论。民众也聚集在统治者下榻之处，以示支持。这种拒绝出席就职典礼及顾问理事会会议的做法，成为标志着反对马来亚联邦运动的公民不服从形式之一。
 
 亦须指出，1948年接续框架中更严格的公民权条件，其后转而成为另一方——包括部分发现自身资格较1946年提案收窄的非马来人——提出反对的根据。
 

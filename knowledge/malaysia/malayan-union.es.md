@@ -20,7 +20,7 @@ keyTakeaways:
   - "La Federación de 1948 estableció la Conferencia de Gobernantes, el Consejo Legislativo Federal y el Consejo Ejecutivo Federal, pero el poder ejecutivo seguía recayendo en el Alto Comisionado británico"
 appliesTo: "Estudiantes, investigadores y lectores en general que quieran comprender los orígenes de la estructura constitucional de Malasia — en particular, cómo se establecieron por primera vez por escrito, antes de la Merdeka, la posición de los Gobernantes malayos y los términos de la ciudadanía."
 lang: "es"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,8 +36,17 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
+  - title: "Gobernar a los gobernantes (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "Colegio de Abogados de Malasia (Malaysian Bar)"
+  - title: "La Unión Malaya y su impacto (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "Colegio de Abogados de Malasia (Malaysian Bar)"
+  - title: "Un «paisaje de memoria»: recordar la Unión Malaya de 1946 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
   - title: "La Unión Malaya — una lección para las generaciones presentes y futuras (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
     publisher: "Archivo Nacional de Malasia (Arkib Negara Malaysia, Pustaka Ilmu)"
@@ -125,6 +134,8 @@ La oposición se desarrolló a través de varios canales a la vez, y tuvo un car
 Los intelectuales llevaron el asunto a la prensa en lengua malaya, en publicaciones como *Utusan Melayu* y *Majlis*. El primer Congreso Malayo se celebró del 1 al 4 de marzo de 1946 en el Club Sultan Sulaiman, con la asistencia de 41 organizaciones malayas. De ese proceso surgió la Organización Nacional de los Malayos Unidos, fundada el 11 de mayo de 1946 en el Istana Besar, Johor Bahru, bajo el liderazgo de Dato' Onn Jaafar.
 
 El portal oficial de la Conferencia de Gobernantes registra que los Gobernantes malayos se alzaron igualmente junto con la población para oponerse a la aplicación del marco. El Parlamento de Malasia, por su parte, registra que la Unión Malaya fue ferozmente rechazada por los malayos, liderados por Dato' Onn Jaafar.
+
+Uno de los actos de protesta más recordados ocurrió el propio día de la entrada en vigor. Cuando la Unión Malaya fue inaugurada en la Sala del Consejo (Council Chamber) de Kuala Lumpur el 1 de abril de 1946 y Sir Edward Gent fue investido como su primer gobernador, los Gobernantes malayos no asistieron a la ceremonia de investidura — una negativa adoptada a instancias de la UMNO bajo el liderazgo de Onn Jaafar, mientras su protesta contra el proyecto seguía pendiente. También se congregaron multitudes donde se alojaban los Gobernantes como muestra de apoyo. Esta negativa a asistir a la investidura y a las reuniones del consejo consultivo se convirtió en una de las formas de desobediencia civil que marcaron el movimiento contra la Unión Malaya.
 
 Cabe señalar también que los términos de ciudadanía más estrictos del marco de reemplazo de 1948 se convirtieron a su vez, más tarde, en motivo de objeción desde otros sectores, incluidos los no malayos que vieron reducida su elegibilidad en comparación con la propuesta de 1946.
 

@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "eafe5ca3a7bd0d06"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Nombor saluran aduan pengguna (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — sahkan kekiniannya pada kpdn.gov.my/bantuan, kerana talian hotline kadangkala berubah."
   - "Bilangan tepat bahagian dan jumlah kiraan Akta yang ditadbir — sahkan sebelum menyatakan angka yang tetap."
   - "Timbalan Menteri dan Ketua Setiausaha semasa — sahkan masih memegang jawatan setakat penerbitan."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "Latar Belakang - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,6 +74,12 @@ sources:
   - title: "Melindungi Pengguna - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
+  - title: "Menteri Perdagangan Dalam Negeri dan Kos Sara Hidup (Malaysia) — sejarah nama jawatan (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
@@ -90,6 +96,12 @@ KPDN **ditubuhkan pada 27 Oktober 1990**. Objektif yang dinyatakannya adalah unt
 
 Kementerian ini memakai nama semasanya, dengan menambah penekanan "Kos Sara Hidup," pada **Disember 2022**. Ibu pejabatnya terletak di No. 13, Persiaran Perdana, Presint 2, Pusat Pentadbiran Kerajaan Persekutuan, 62623 Putrajaya. Menterinya ialah **Datuk Armizan Mohd Ali**, yang telah mengetuai kementerian ini sejak 30 Julai 2023.
 
+## Apakah nama KPDN sebelum ini: empat nama sejak 1990
+
+KPDN telah memakai empat nama rasmi, masing-masing mencerminkan portfolio yang digalasnya ketika itu. Ia ditubuhkan pada **27 Oktober 1990** sebagai **Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna** (**KPDNHEP**), yang dipecahkan daripada kementerian perdagangan dan perindustrian. Pada **2009**, ia menyerap portfolio koperasi lalu menjadi **Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan** (**KPDNKK**, dikenali sebagai **MDTCC** dalam bahasa Inggeris). Pada **2018**, koperasi dipindahkan keluar semula dan ia kembali menjadi **KPDNHEP**. Akhirnya, pada **3 Disember 2022**, ia memakai nama semasanya berserta mandat kos sara hidup yang jelas: **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup** (**KPDN**).
+
+Benang merah yang menyulam keempat-empat nama itu tidak pernah berubah — perdagangan dalam negeri dan perlindungan pengguna — tetapi penamaan semula pada 2022 menandakan bahawa menekan harga barangan keperluan harian telah menjadi tugas awam utama kementerian ini. Jadi, jika anda menemui singkatan lama KPDNHEP, KPDNKK atau MDTCC dalam dokumen atau berita, semuanya merujuk kepada kementerian yang sama pada peringkat awal perjalanannya.
+
 ## Undang-undang apakah yang digunakan KPDN untuk mengawal harga?
 
 KPDN dan agensi-agensinya mentadbir sekumpulan perundangan perdagangan dan pengguna. Statut yang paling mungkin dirasai oleh rakyat Malaysia biasa adalah seperti berikut:
@@ -105,6 +117,10 @@ KPDN dan agensi-agensinya mentadbir sekumpulan perundangan perdagangan dan pengg
 | Akta Francais 1998 [Akta 590] | Mendaftar dan mengawal selia francais |
 
 Dengan menggunakan Akta 122 dan Akta 723, KPDN berusaha menstabilkan harga barangan keperluan seperti beras, telur, minyak masak dan ayam. Ia menjalankan operasi penguatkuasaan termasuk **Ops Pantau** dan **Ops Menu**, serta mengenakan **Skim Harga Maksimum Musim Perayaan** yang menghadkan harga barangan terkawal terpilih semasa perayaan — seperti ketika skim [Deepavali](/arts-culture/deepavali) Oktober 2025. Di bawah Seksyen 10 Akta 723, menteri boleh mewajibkan mana-mana penjual barangan atau perkhidmatan untuk memaparkan harga.
+
+## Siapakah yang sebenarnya menguatkuasakan peraturan ini?
+
+Di sebalik operasi itu terletak **Bahagian Penguatkuasaan** kementerian, lengan berpakaian seragam yang pegawainya bertugas dari pejabat peringkat negeri di seluruh negara. Beroperasi terutamanya di bawah Akta Kawalan Harga dan Anti-Pencatutan 2011 dan Akta Kawalan Bekalan 1961, mereka memeriksa premis, mewajibkan paparan harga, menyita barangan, dan mendakwa peniaga yang melanggar harga siling atau mencatut. Dalam satu operasi bermusim seperti **Ops Pantau**, bahagian ini boleh mengerahkan ribuan pegawai — operasi 2026 mengerahkan lebih daripada 2,400 orang — menjadikannya wajah kementerian yang paling kerap ditemui peniaga. Bahagian ini berada dalam sebuah kementerian yang disusun kepada kira-kira sedozen bahagian dan unit, meliputi pembangunan perdagangan dalam negeri, pemantauan kos sara hidup, kepenggunaan, serta fungsi perundangan dan tribunal yang diterangkan di bawah.
 
 ## Bagaimana anda sebenarnya menggunakan KPDN apabila ditipu?
 

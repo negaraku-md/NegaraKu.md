@@ -27,7 +27,7 @@ faq:
   - q: "मूल्यों को नियंत्रित करने के लिए KPDN किन कानूनों का उपयोग करता है?"
     a: "यह मुख्यतः आपूर्ति नियंत्रण अधिनियम 1961 (Control of Supplies Act 1961) और मूल्य नियंत्रण एवं अति-लाभ-विरोधी अधिनियम 2011 (Price Control and Anti-Profiteering Act 2011) पर निर्भर करता है, जो इसे मूल्य-सीमाएँ निर्धारित करने, मूल्य प्रदर्शन अनिवार्य करने, और अनुचित रूप से उच्च लाभों के विरुद्ध कार्रवाई करने देते हैं।"
 lang: "hi"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "eafe5ca3a7bd0d06"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
   - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
   - "Current Deputy Minister and Secretary-General — verify still in office at publication."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "पृष्ठभूमि - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,6 +74,12 @@ sources:
   - title: "उपभोक्ताओं की रक्षा - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "घरेलू व्यापार एवं जीवन-यापन लागत मंत्रालय (KPDN)"
+  - title: "घरेलू व्यापार एवं जीवन-यापन लागत मंत्री (मलेशिया) — पद-नाम इतिहास (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN यह सुनिश्चित करता है कि त्योहारी मौसम भर कोई मूल्य हेरफेर न हो (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
@@ -90,6 +96,12 @@ framework: profile
 
 मंत्रालय ने अपना वर्तमान नाम, «जीवन-यापन लागत» पर ज़ोर जोड़ते हुए, **दिसंबर 2022** में अपनाया। इसका मुख्यालय No. 13, Persiaran Perdana, प्रीसिंक्ट 2 (Precinct 2), संघीय सरकार प्रशासनिक केंद्र, 62623 पुत्रजया में है। मंत्री **Datuk Armizan Mohd Ali** हैं, जो 30 जुलाई 2023 से मंत्रालय का नेतृत्व कर रहे हैं।
 
+## KPDN पहले क्या कहलाता था: 1990 से चार नाम
+
+KPDN ने चार आधिकारिक नाम धारण किए हैं, जिनमें से हर एक उस समय उसके पास रहे कार्यभार को दर्शाता है। इसकी स्थापना 27 अक्टूबर 1990 को व्यापार-एवं-उद्योग मंत्रालय से अलग करके घरेलू व्यापार एवं उपभोक्ता मामले मंत्रालय (Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna, KPDNHEP) के रूप में हुई। 2009 में इसने सहकारिता कार्यभार को समाहित कर घरेलू व्यापार, सहकारिता एवं उपभोक्तावाद मंत्रालय (KPDNKK, अंग्रेज़ी में MDTCC) का रूप लिया। 2018 में सहकारिता फिर से अलग हो गई और यह KPDNHEP पर लौट आया। अंततः, 3 दिसंबर 2022 को, इसने अपना वर्तमान नाम और जीवन-यापन लागत का एक स्पष्ट अधिदेश ग्रहण किया: घरेलू व्यापार एवं जीवन-यापन लागत मंत्रालय (KPDN)।
+
+चारों नामों में से गुज़रने वाला सूत्र कभी नहीं बदला — घरेलू व्यापार और उपभोक्ताओं की रक्षा — लेकिन 2022 के नाम-परिवर्तन ने संकेत दिया कि रोज़मर्रा की आवश्यक वस्तुओं के मूल्य को नीचे रखना मंत्रालय का परिभाषक सार्वजनिक कार्य बन गया है। इसलिए यदि आपको दस्तावेज़ों या समाचारों में पुराने संक्षिप्त नाम KPDNHEP, KPDNKK या MDTCC मिलें, तो वे उसी मंत्रालय को उसके किसी पूर्व चरण में संदर्भित करते हैं।
+
 ## मूल्यों को नियंत्रण में रखने के लिए KPDN किन कानूनों का उपयोग करता है?
 
 KPDN और इसकी एजेंसियाँ व्यापार एवं उपभोक्ता विधान के एक समुच्चय का प्रशासन करती हैं। जिन संविधियों का प्रभाव एक सामान्य मलेशियाई के महसूस करने की सर्वाधिक संभावना है, वे ये हैं:
@@ -105,6 +117,10 @@ KPDN और इसकी एजेंसियाँ व्यापार ए�
 | फ्रैंचाइज़ अधिनियम 1998 (Franchise Act 1998) [Act 590] | फ्रैंचाइज़ों को पंजीकृत और विनियमित करता है |
 
 Act 122 और Act 723 का उपयोग करते हुए, KPDN चावल, अंडे, खाद्य तेल और चिकन जैसी आवश्यक वस्तुओं के मूल्यों को स्थिर करने का कार्य करता है। यह **Ops Pantau** और **Ops Menu** सहित प्रवर्तन अभियान चलाता है, और त्योहारी **अधिकतम मूल्य योजनाएँ** (*Skim Harga Maksimum Musim Perayaan*) लागू करता है जो उत्सवों के दौरान चयनित नियंत्रित वस्तुओं के मूल्यों पर सीमा लगाती हैं — जैसे अक्टूबर 2025 की [दीपावली](/arts-culture/deepavali) योजना के दौरान। Act 723 की धारा 10 के अंतर्गत, मंत्री वस्तुओं या सेवाओं के किसी भी विक्रेता से मूल्य प्रदर्शित करने की अपेक्षा कर सकता है।
+
+## नियमों को वास्तव में कौन लागू करता है?
+
+उन अभियानों के पीछे मंत्रालय का प्रवर्तन प्रभाग (Bahagian Penguatkuasaan) बैठा है, वह वर्दीधारी शाखा जिसके अधिकारी देश भर में राज्य-स्तरीय कार्यालयों से काम करते हैं। मुख्यतः मूल्य नियंत्रण एवं अति-लाभ-विरोधी अधिनियम 2011 (Price Control and Anti-Profiteering Act 2011) और आपूर्ति नियंत्रण अधिनियम 1961 (Control of Supplies Act 1961) के अंतर्गत कार्य करते हुए, वे परिसरों का निरीक्षण करते हैं, मूल्य प्रदर्शन के लिए बाध्य करते हैं, माल ज़ब्त करते हैं, और उन व्यापारियों के विरुद्ध आरोप लगाते हैं जो मूल्य-सीमाओं का उल्लंघन करते हैं या अति-लाभ कमाते हैं। Ops Pantau जैसे किसी एकल त्योहारी अभियान के दौरान, यह प्रभाग हज़ारों अधिकारियों को उतार सकता है — 2026 के अभियान में 2,400 से अधिक अधिकारी तैनात किए गए — जिससे यह मंत्रालय का वह चेहरा बन जाता है जिससे अधिकांश व्यापारी वास्तव में मिलते हैं। यह प्रभाग एक ऐसे मंत्रालय के भीतर स्थित है जो लगभग एक दर्जन प्रभागों एवं इकाइयों में संगठित है, जो घरेलू-व्यापार विकास, जीवन-यापन लागत निगरानी, उपभोक्तावाद, और नीचे वर्णित विधिक एवं अधिकरण कार्यों तक फैले हैं।
 
 ## जब आपको ठगा जाए तो आप वास्तव में KPDN का उपयोग कैसे करते हैं?
 
