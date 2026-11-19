@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "东姑阿都拉曼"
-seoTitle: 东姑阿都拉曼
+seoTitle: "东姑阿都拉曼: 马来西亚首任首相 (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

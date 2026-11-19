@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "अब्दुल रज़ाक हुसैन"
-seoTitle: अब्दुल रज़ाक हुसैन
+seoTitle: "अब्दुल रज़ाक हुसैन: मलेशिया के दूसरे प्रधानमंत्री (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

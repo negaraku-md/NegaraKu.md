@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "トゥンク・アブドゥル・ラーマン"
-seoTitle: トゥンク・アブドゥル・ラーマン
+seoTitle: "トゥンク・アブドゥル・ラーマン: マレーシアの初代首相 (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

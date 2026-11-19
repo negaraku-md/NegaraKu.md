@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "압둘라 아맛 바다위"
-seoTitle: 압둘라 아맛 바다위
+seoTitle: "압둘라 아맛 바다위: 말레이시아의 제5대 총리 (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]

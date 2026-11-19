@@ -70,7 +70,7 @@ Across the PM-biography set, `seoTitle` coverage is inconsistent:
 
 | PM | seoTitle coverage | Action |
 |---|---|---|
-| abdul-razak-hussein, abdullah-ahmad-badawi, hussein-onn, tunku-abdul-rahman | 13/13 (name-only) | optional: upgrade to descriptive pattern |
+| **tunku-abdul-rahman** (1st), **abdul-razak-hussein** (2nd), **hussein-onn** (3rd), **abdullah-ahmad-badawi** (5th) | was 13/13 name-only | **WIRED** → descriptive, 13 langs each (sourced from each file's own body) |
 | **anwar-ibrahim** | 0/13 | **WIRED** → descriptive, 13 langs |
 | **mahathir-mohamad** | 1/13 | **WIRED** → descriptive, 13 langs |
 | muhyiddin-yassin (2/13), ismail-sabri-yaakob (1/13) | partial | **SKIP** — `sensitivity: legal-proceedings` + "not reviewed / live legal matter / not public" banner |
@@ -89,7 +89,9 @@ banner, highest search volume). The 3 legally-sensitive PM pages were deliberate
    from related articles to pass authority.
 3. **Content refresh** on the top-10 near-miss pages (Johor/Melaka sultanates, SUKMA, Malayan Union, KPDN) —
    depth + freshness signals to nudge pos 8 → 5.
-4. **Optional:** standardise ALL PM bios (incl. the four name-only ones) to the descriptive `seoTitle` pattern
-   for corpus consistency — a ~6-article × 13-lang pass, excluding the 3 legal-skip pages. Awaiting go-ahead.
+4. **DONE** (2026-11-19): all non-sensitive PM bios now carry the descriptive `seoTitle` pattern —
+   anwar + mahathir (prior commit) and the four name-only historical PMs (tunku 1st, razak 2nd, hussein-onn 3rd,
+   badawi 5th) × 13 langs each, sourced from each file's own body. The 3 legal-skip pages
+   (muhyiddin, ismail-sabri, najib) remain deliberately untouched.
 
 *Do NOT chase the Ahrefs India number. The real audience is Malaysia-led and on-strategy.*

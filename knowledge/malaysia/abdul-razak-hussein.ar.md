@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "عبد الرزاق حسين"
-seoTitle: عبد الرزاق حسين
+seoTitle: "عبد الرزاق حسين: ثاني رئيس وزراء لماليزيا (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

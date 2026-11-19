@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "حسين عون"
-seoTitle: حسين عون
+seoTitle: "حسين عون: ثالث رئيس وزراء لماليزيا (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

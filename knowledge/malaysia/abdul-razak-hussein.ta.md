@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "Abdul Razak Hussein"
-seoTitle: Abdul Razak Hussein
+seoTitle: "Abdul Razak Hussein: மலேசியாவின் இரண்டாவது பிரதமர் (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

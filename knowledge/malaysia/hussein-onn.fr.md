@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "Hussein Onn"
-seoTitle: Hussein Onn
+seoTitle: "Hussein Onn: Troisième Premier ministre de la Malaisie (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

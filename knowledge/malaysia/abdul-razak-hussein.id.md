@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "Abdul Razak Hussein"
-seoTitle: Abdul Razak Hussein
+seoTitle: "Abdul Razak Hussein: Perdana Menteri kedua Malaysia (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

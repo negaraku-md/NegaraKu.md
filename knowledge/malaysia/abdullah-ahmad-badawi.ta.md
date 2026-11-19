@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "Abdullah Ahmad Badawi"
-seoTitle: Abdullah Ahmad Badawi
+seoTitle: "Abdullah Ahmad Badawi: மலேசியாவின் ஐந்தாவது பிரதமர் (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]

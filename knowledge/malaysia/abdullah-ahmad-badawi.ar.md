@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "عبد الله أحمد بدوي"
-seoTitle: عبد الله أحمد بدوي
+seoTitle: "عبد الله أحمد بدوي: خامس رئيس وزراء لماليزيا (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "Abdullah Ahmad Badawi"
-seoTitle: Abdullah Ahmad Badawi
+seoTitle: "Abdullah Ahmad Badawi: Cinquième Premier ministre de la Malaisie (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]

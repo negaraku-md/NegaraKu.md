@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "تنكو عبد الرحمن"
-seoTitle: تنكو عبد الرحمن
+seoTitle: "تنكو عبد الرحمن: أول رئيس وزراء لماليزيا (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

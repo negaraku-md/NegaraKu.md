@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "압둘 라작 후세인"
-seoTitle: 압둘 라작 후세인
+seoTitle: "압둘 라작 후세인: 말레이시아의 제2대 총리 (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

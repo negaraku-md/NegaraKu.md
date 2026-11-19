@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "तुन्कू अब्दुल रहमान"
-seoTitle: तुन्कू अब्दुल रहमान
+seoTitle: "तुन्कू अब्दुल रहमान: मलेशिया के पहले प्रधानमंत्री (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

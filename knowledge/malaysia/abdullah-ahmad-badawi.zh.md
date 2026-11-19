@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "阿都拉·阿末·巴达威"
-seoTitle: 阿都拉·阿末·巴达威
+seoTitle: "阿都拉·阿末·巴达威: 马来西亚第五任首相 (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "อับดุล ราซัก ฮุสเซน"
-seoTitle: อับดุล ราซัก ฮุสเซน
+seoTitle: "อับดุล ราซัก ฮุสเซน: นายกรัฐมนตรีคนที่สองของมาเลเซีย (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

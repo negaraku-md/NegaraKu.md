@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "ตุนกู อับดุล ราห์มาน"
-seoTitle: ตุนกู อับดุล ราห์มาน
+seoTitle: "ตุนกู อับดุล ราห์มาน: นายกรัฐมนตรีคนแรกของมาเลเซีย (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

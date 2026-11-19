@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "Tunku Abdul Rahman"
-seoTitle: Tunku Abdul Rahman
+seoTitle: "Tunku Abdul Rahman: Perdana Menteri pertama Malaysia (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

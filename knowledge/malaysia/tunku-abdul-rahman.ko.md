@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "툰쿠 압둘 라만"
-seoTitle: 툰쿠 압둘 라만
+seoTitle: "툰쿠 압둘 라만: 말레이시아의 초대 총리 (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]

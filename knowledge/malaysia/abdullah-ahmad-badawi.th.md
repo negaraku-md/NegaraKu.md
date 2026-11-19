@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "อับดุลลาห์ อาหมัด บาดาวี"
-seoTitle: อับดุลลาห์ อาหมัด บาดาวี
+seoTitle: "อับดุลลาห์ อาหมัด บาดาวี: นายกรัฐมนตรีคนที่ห้าของมาเลเซีย (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]

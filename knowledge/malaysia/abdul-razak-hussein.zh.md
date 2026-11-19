@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "阿都拉萨·胡先"
-seoTitle: 阿都拉萨·胡先
+seoTitle: "阿都拉萨·胡先: 马来西亚第二任首相 (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]

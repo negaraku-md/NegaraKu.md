@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "アブドゥル・ラザク・フセイン"
-seoTitle: アブドゥル・ラザク・フセイン
+seoTitle: "アブドゥル・ラザク・フセイン: マレーシアの第2代首相 (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]
