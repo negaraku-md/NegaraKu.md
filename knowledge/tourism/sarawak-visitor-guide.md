@@ -91,6 +91,12 @@ relations:
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers after Borneo nature and living Dayak culture, using relaxed, walkable Kuching as a base for Semenggoh''s semi-wild orangutans and Bidayuh longhouses, with Gunung Mulu''s World Heritage caves and rainforest as the headline add-on.'
+  getThere: 'Fly in to Kuching as the main hub, with Gunung Mulu reachable only by MASwings flights (from Miri, Kuching or Kota Kinabalu) since there is no practical road to the park.'
+  permit: 'Sarawak runs its own immigration, so everyone — Malaysians from the Peninsula included — is cleared and issued an entry pass on arrival (foreigners get a separate Sarawak stamp on top of their Malaysian entry, and most must file the MDAC online beforehand), and Mulu flights plus guided cave tours should be booked ahead.'
+  watch: 'Mulu''s small aircraft are regularly delayed or cancelled by weather, so build in buffer days and never book a tight onward connection out of the park.'
+  next: 'Confirm current visa and MDAC requirements for your nationality with the Immigration Department of Malaysia.'
 ---
 
 You can fly from Kuala Lumpur to Kuching in under two hours, never leave your own country, and still get stamped through immigration on the other end. That surprise at the arrivals hall is the single most important thing to understand about Sarawak: it is a Malaysian state that runs its own border.

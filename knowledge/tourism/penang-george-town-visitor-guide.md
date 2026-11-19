@@ -84,6 +84,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers who want to explore a walkable UNESCO heritage core of shophouses, clan houses, Ernest Zacharevic''s street art and multicultural hawker food on foot.'
+  getThere: 'Fly into Penang International Airport south of George Town, or reach the island overland via the Penang Bridge and the Sultan Abdul Halim Muadzam Shah Bridge, or take the Rapid Ferry from Butterworth to the George Town waterfront.'
+  watch: 'Treat the street art as a gateway rather than the whole story, since the clan houses, temples and shophouse streets are what the UNESCO listing actually protects.'
+  next: 'Confirm current funicular schedules and rules with the Penang Hill Corporation.'
 ---
 
 Land on the island, step out of the air-conditioning, and the first thing that hits you is the smell — wok smoke, incense from a Chinese temple, frangipani, and the salt of the Strait of Malacca. George Town is a place you read with your feet: a compact grid of century-old shophouses where a mosque, a clan house and a colonial church can share a single block. This guide covers what to see, where to eat, how to reach the beaches and the hill, and how long to give a city that rewards slowness.

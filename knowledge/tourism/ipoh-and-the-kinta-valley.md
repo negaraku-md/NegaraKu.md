@@ -113,6 +113,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Suits heritage and food travellers and families wanting a walkable colonial Old Town, limestone cave temples, and Perak''s celebrated kopitiam food scene.'
+  getThere: 'Reach Ipoh by KTM ETS electric train from KL Sentral into the Old Town station, or drive the North-South Expressway; express buses also serve the city.'
+  permit: 'The cave temples are active places of worship, so dress modestly (cover shoulders and knees) and keep quiet inside.'
+  watch: 'Despite loose tourism copy, the Kinta Valley is a national geopark, not a UNESCO Global Geopark.'
+  next: 'Confirm current train timetables and fares with KTMB before travelling.'
 ---
 
 Tin made Ipoh, and then it almost unmade it. A village on the Kinta River turned into one of British Malaya's wealthiest towns on the strength of the ore buried under the Kinta Valley, built itself a grand colonial centre, and then watched the money drain away when the tin price collapsed. What it kept was the architecture, the limestone hills riddled with cave temples, and an unusually good kitchen. Today Ipoh is Malaysia's most comfortable heritage-and-food city break — close enough to Kuala Lumpur for a day trip, rich enough to reward a weekend. This guide covers the landscape and the history that shaped it, what there is to see in and around town, the food in brief, and the practicalities of getting there.

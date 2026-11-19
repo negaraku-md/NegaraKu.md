@@ -97,6 +97,12 @@ relations:
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: 'First-time international visitors wanting a short, easy city stay, and travellers using Kuala Lumpur as a base before heading elsewhere in Malaysia.'
+  getThere: 'From Kuala Lumpur International Airport (KLIA), ride the KLIA Ekspres train non-stop to the KL Sentral hub, then connect onward by MRT, LRT, Monorail or Grab.'
+  permit: 'Petronas Twin Towers entry uses timed tickets with daily-capped numbers, so book online in advance rather than relying on walking up.'
+  watch: 'City-centre traffic is heavy at peak hours, so trains are usually faster than a car for trips across town.'
+  next: 'Confirm current opening hours and ticketing for the Petronas Twin Towers with the official PETRONAS Twin Towers site (petronastwintowers.com.my).'
 ---
 
 Land at Kuala Lumpur International Airport at dawn and, within an hour, you can be standing beneath two silver towers that once ruled the world's skyline — no rental car, no complicated planning, just a train and a tap-in card. That ease is the whole point of KL: it is Malaysia's front door, a compact and inexpensive capital where the headline sights sit a short rail ride apart, and where nearly every onward journey in the country begins.

@@ -103,6 +103,12 @@ relations:
 related: ["kedah"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'First-timers, families and mixed-interest travellers after beaches, duty-free shopping and the UNESCO Geopark — the SkyCab cable car, SkyBridge and mangrove island-hopping — more than world-class diving.'
+  getThere: 'Fly into Langkawi International Airport (LGK), or cross by passenger ferry to Kuah Jetty from the mainland jetties at Kuala Kedah and Kuala Perlis.'
+  permit: 'Langkawi''s duty-free prices apply only on the island; goods carried back to the mainland fall under Malaysia''s national traveller allowance, which sets a minimum qualifying stay and caps the alcohol, tobacco and souvenirs you can bring back duty-free.'
+  watch: 'Don''t over-buy duty-free liquor to take home — the cheap prices are for enjoying on the island, and only a limited allowance clears customs on the mainland.'
+  next: 'Confirm current ferry schedules with the ferry operators, and duty-free allowances with the Royal Malaysian Customs Department (RMCD).'
 ---
 
 Ninety-nine islands, rocks older than fish, cheap whisky and a cable car that hangs off the side of a mountain built from rock estimated at over 550 million years old — Langkawi packs an unusual amount into one archipelago off Malaysia's northwest tip. It is the country's flagship west-coast holiday island, and it works on almost the opposite logic to the palm-fringed diving islands on the other side of the peninsula. This guide covers what actually matters before you go: the duty-free rules that trip people up, the UNESCO geopark that gives the scenery its backstory, the SkyCab and SkyBridge, the boat tours worth taking, and how to decide between Langkawi and the east coast.

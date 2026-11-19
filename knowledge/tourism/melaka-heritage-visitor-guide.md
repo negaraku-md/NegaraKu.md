@@ -80,6 +80,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers after a compact, walkable UNESCO heritage core — Malay-sultanate, Portuguese and Dutch landmarks plus Peranakan (Baba Nyonya) Nyonya food — easily done as a weekend trip.'
+  getThere: 'Reached by road from Kuala Lumpur, about a two-hour drive — a common weekend trip.'
+  watch: 'Plan around the day of week — the Jonker Street night market runs only on Friday-to-Sunday evenings, and on weekdays it is an ordinary shophouse street — and don''t mistake the free historic A Famosa gate for the separate A''Famosa Resort theme park outside town.'
+  next: 'Confirm current opening days and hours with the Baba & Nyonya Heritage Museum''s official website before your visit, as these change.'
 ---
 
 Stand in Dutch Square at dusk and you can read five centuries in a single glance: a salmon-red Dutch town hall on one side, the ruins of a Portuguese-era church on the hill above, a stone gate that once anchored a fortress the British tried to demolish, and — a two-minute walk away — a lane of Chinese-Malay townhouses now lit up for a Friday-night bazaar. Melaka does not spread its history across a large city. It stacks it into roughly one square mile you can walk in an afternoon. Here is how to read it, and how to plan a visit around it.

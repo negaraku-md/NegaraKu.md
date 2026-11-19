@@ -84,6 +84,12 @@ relations:
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Trip planners wanting a cool-climate hill-station break of two to three days, basing in Tanah Rata or Brinchang and combining tea estates, strawberry and flower farms, and a guided Orang Asli village or Mossy Forest walk.'
+  getThere: 'No airport or railway reaches the plateau — you drive or are driven up by road from Tapah or the Raub/Kuala Lipis side (converging at Ringlet) or from Simpang Pulai in the north, with public buses running up from Tapah to Tanah Rata.'
+  permit: 'No park permit to enter; BOH tea-estate factory tours are free, while Orang Asli village visits should be done through a reputable local guide or operator.'
+  watch: 'Don''t treat it as one town — it is three settlements with different roles — and note that tea gardens close on Mondays while plateau weather shifts quickly, so day plans can change.'
+  next: 'Confirm current opening hours and Monday closures directly with each site — BOH Plantations'' official site (bohtea.com) for the tea gardens and the Cameron Highlands District Council (MDCH) for farm-and-garden attractions.'
 ---
 
 Step off the bus at Tanah Rata and the first thing you notice is your own breath — the air is cool enough that a jumper stops feeling ridiculous, even at the equator. That is the whole point of Cameron Highlands: a slab of temperate hill country stacked above tropical Malaysia, where tea grows in neat green corduroy over the ridges and strawberries ripen in roadside polytunnels.

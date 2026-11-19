@@ -93,6 +93,12 @@ relations:
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
 framework: explainer
+visitFacts:
+  bestFor: 'Nature-first travellers after Borneo''s headline experiences — climbing Mount Kinabalu, diving Sipadan''s protected reef, and seeing orangutans and river wildlife around Sandakan.'
+  getThere: 'Fly into Kota Kinabalu International Airport, Sabah''s main air gateway, then take short domestic hops onward to Sandakan, Tawau and the dive region.'
+  permit: 'Sabah controls its own immigration under the Malaysia Agreement 1963, so every arrival — including Malaysians flying in from the Peninsula — clears a checkpoint and receives a visit pass, while the Mount Kinabalu climb and Sipadan diving are each gated by capped Sabah Parks permits.'
+  watch: 'Book the scarce, permit-gated highlights well ahead and plan around Sipadan''s annual November closure for reef recovery, because these pieces sell out and cannot be secured on arrival.'
+  next: 'Confirm current entry and visit-pass and permit rules with the Immigration Department of Malaysia and Sabah Parks before you travel.'
 ---
 
 You can fly from Kuala Lumpur to Kota Kinabalu without leaving the country and still queue at an immigration counter when you land. That surprise catches many first-time visitors — and it is the single most important thing to understand before you plan a trip to Sabah. This guide walks through the gateway, the headline attractions, and the entry rules that make Sabah feel like its own place, because in one very real sense, it is.

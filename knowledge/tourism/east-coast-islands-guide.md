@@ -70,7 +70,13 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Beach-and-reef travellers — snorkellers and divers after marine-park island trips, from backpacker beaches to package resorts.'
+  getThere: 'Boat from each island''s own mainland jetty: Merang for Redang, Kuala Besut for Perhentian and Marang for Kapas in Terengganu, and Mersing or Tanjung Gemok for Tioman in Pahang.'
+  permit: 'A compulsory marine-park conservation charge, paid at a counter in the mainland jetty terminal before boarding and separate from your boat fare.'
+  watch: 'No single mandated closure, but most island operators shut voluntarily for the northeast monsoon, so near those months confirm boat transfers before paying.'
+  next: 'Confirm current conservation fees and marine-park rules with the Department of Fisheries Malaysia.'
 ---
 
 Turn up at a Redang beach resort in December and you will likely find the boats gone, the jetty quiet and the dive shop shuttered. The east-coast islands run on a calendar written by the sea, not the tourist brochure — and by a set of marine-park rules most first-timers only discover at the ticket counter.

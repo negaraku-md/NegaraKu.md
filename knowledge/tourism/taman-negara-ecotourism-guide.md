@@ -78,6 +78,12 @@ relations:
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers after an ancient tropical rainforest — the treetop canopy walkway, jungle trekking, wildlife hides and river trips — based at the Kuala Tahan gateway in Pahang.'
+  getThere: 'Travel by road to Jerantut in Pahang, then take a boat up Sungai Tembeling from the Kuala Tembeling jetty to Kuala Tahan, with a direct road link as the alternative.'
+  permit: 'Every visitor registers for a PERHILITAN entrance permit on arrival at the jetty or park counter, pays a separate camera licence, and must use a licensed guide for the Gunung Tahan climb.'
+  watch: 'The northeast monsoon can swell rivers and disrupt boats and trails, the canopy walkways have faced closures, and leeches and humidity are constant — confirm access and book guides ahead.'
+  next: 'Confirm current permit and entry rules and fees with the Department of Wildlife and National Parks (PERHILITAN) office at Taman Negara Pahang.'
 ---
 
 Standing at the Kuala Tahan jetty at dawn, watching mist lift off a river older than the Himalayas, it is easy to forget you are barely a half-day from Kuala Lumpur. Taman Negara is not a manufactured attraction. It is a living tropical rainforest that has stood, roughly undisturbed, for tens of millions of years — and getting into it is cheaper and simpler than almost any traveller expects.

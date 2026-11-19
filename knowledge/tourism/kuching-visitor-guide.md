@@ -89,6 +89,12 @@ wikidata: "Q220445"
 related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'First-time and independent travellers, families and heritage or wildlife lovers who want a walkable riverside heritage city as a relaxed base for Borneo rainforest, orangutan and national-park day trips.'
+  getThere: 'Fly into Kuching International Airport (KCH), the main air gateway to southern Sarawak, with connections from Kuala Lumpur and other Malaysian and regional hubs.'
+  permit: 'Sarawak runs its own immigration, so everyone clears a border check on arrival even on a domestic flight from Peninsular Malaysia — foreigners receive a separate Sarawak entry stamp, so carry your passport throughout.'
+  watch: 'Orangutan sightings at Semenggoh are never guaranteed, since the semi-wild apes are free to forage in the surrounding forest — treat any sighting as a bonus, not a promise.'
+  next: 'Confirm current Sarawak entry requirements and park or festival timings with the Sarawak Tourism Board and the parks'' official operators before you travel.'
 ---
 
 You can walk the length of Kuching's riverfront in an evening, pass a colonial fort, a Rajah's palace and a Chinese temple on the way, eat one of Borneo's great bowls of noodles, and pose with a giant cat statue — all without leaving the city. Kuching is the capital and largest city of Sarawak, set on the Sarawak River at the southwestern tip of the state on the island of Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). It is the relaxed, river-city base from which most Sarawak trips begin. This guide covers the city itself — its waterfront, its Brooke-era history, its Chinatown and museums, and its cats — and how it works as a launchpad for the rainforest and wildlife that surround it.

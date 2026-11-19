@@ -89,7 +89,12 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Birdwatchers and nature-lovers after a quiet, cool-climate highland retreat of jungle trails and faded colonial charm, rather than nightlife or big attractions.'
+  getThere: 'No airport or railway — you drive up a winding mountain road from Kuala Kubu Bharu to The Gap, where the final climb begins, with uphill and downhill traffic now split between two roads (the original single-lane road historically ran as timed one-way).'
+  watch: 'The narrow, winding mountain road is slow and prone to closures after rain, landslides or fallen trees, and the hill itself is often misty and wet, with limited dining and supplies.'
+  next: 'Confirm the current road access arrangement and any closures with the roads authority (JKR) before you travel.'
 ---
 
 Most of Malaysia's hill stations sell you something — a casino, a tea estate, a strawberry farm, a theme park. Fraser's Hill sells you the absence of all that. Spread across a cluster of forested ridges on the [Titiwangsa range](/malaysia/titiwangsa-range), it is a small, quiet, mist-wrapped colonial-era station where the loudest thing you will hear is birdsong, and where a jumper stops feeling ridiculous even at the equator. For birdwatchers it is close to sacred ground; for everyone else it is the slow, low-key alternative to its flashier highland neighbours. This guide covers what Fraser's Hill actually is, why the birders come, what there is to see, how the winding road up works, and who the place does and does not suit.
