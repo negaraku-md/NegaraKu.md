@@ -79,6 +79,12 @@ relations:
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: '适合追求远古热带雨林的旅人——树冠吊桥、丛林徒步、野生动物观察屋与河流之旅——以彭亨的瓜拉大汉（Kuala Tahan）门户为基地。'
+  getThere: '陆路前往彭亨的珍拿律（Jerantut），再从瓜拉淡美灵（Kuala Tembeling）码头沿淡美灵河（Sungai Tembeling）乘船上行至瓜拉大汉，另有直达公路可作替代选择。'
+  permit: '每位访客抵达时都须在码头或公园柜台办理 PERHILITAN 入园准证登记，另缴一笔相机准证费，攀登大汉山（Gunung Tahan）则须聘用持牌向导。'
+  watch: '东北季候风可能使河水上涨、扰乱船只与步道，树冠吊桥曾面临封闭，而蚂蟥与潮湿更是常态——请确认通行情况并提前预订向导。'
+  next: '请向国家野生动物与国家公园局（PERHILITAN）设于彭亨国家公园的办事处确认当前的准证与入园规定及收费。'
 ---
 
 黎明时分站在瓜拉大汉码头，望着薄雾从一条比喜马拉雅山还要古老的河流上升腾，你很容易忘记自己距离吉隆坡不过半日路程。国家公园并非人工打造的景点。它是一片活生生的热带雨林，数千万年来大致未受干扰地屹立至今——而进入它，比几乎任何旅客所预期的都更便宜、更简单。

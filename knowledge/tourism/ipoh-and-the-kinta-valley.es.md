@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Conviene a viajeros de patrimonio y gastronomía y a familias que quieren un casco antiguo colonial recorrible a pie, templos en cuevas de piedra caliza y la célebre escena gastronómica de kopitiam de Perak.'
+  getThere: 'Llegue a Ipoh en el tren eléctrico KTM ETS desde KL Sentral hasta la estación del casco antiguo, o conduzca por la autopista Norte-Sur; también hay autobuses exprés que dan servicio a la ciudad.'
+  permit: 'Los templos en cuevas son lugares de culto en activo, así que vista con modestia (cubra hombros y rodillas) y guarde silencio en su interior.'
+  watch: 'A pesar de lo que diga cierta publicidad turística imprecisa, el valle de Kinta es un geoparque nacional, no un Geoparque Mundial de la UNESCO.'
+  next: 'Confirme los horarios y las tarifas vigentes de los trenes con KTMB antes de viajar.'
 ---
 
 El estaño hizo a Ipoh, y luego casi la deshizo. Una aldea sobre el río Kinta se convirtió en una de las ciudades más ricas de la Malaya británica gracias al mineral enterrado bajo el valle de Kinta, se construyó un grandioso centro colonial, y luego vio escaparse el dinero cuando el precio del estaño se desplomó. Lo que conservó fue la arquitectura, las colinas de piedra caliza acribilladas de templos rupestres, y una cocina inusualmente buena. Hoy Ipoh es la escapada urbana de patrimonio y gastronomía más cómoda de Malasia — lo bastante cerca de Kuala Lumpur para una excursión de un día, lo bastante rica para recompensar un fin de semana. Esta guía cubre el paisaje y la historia que la moldearon, qué hay que ver en la ciudad y sus alrededores, la comida en breve, y lo práctico de cómo llegar.

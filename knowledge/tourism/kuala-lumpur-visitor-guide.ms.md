@@ -98,6 +98,12 @@ relations:
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk pelawat antarabangsa kali pertama yang mahukan penginapan bandar yang singkat dan mudah, serta pengembara yang menggunakan Kuala Lumpur sebagai pangkalan sebelum menuju ke tempat lain di Malaysia.'
+  getThere: 'Dari Kuala Lumpur International Airport (KLIA), naik kereta api KLIA Ekspres tanpa henti ke hab KL Sentral, kemudian sambung seterusnya dengan MRT, LRT, Monorel atau Grab.'
+  permit: 'Kemasukan Menara Berkembar Petronas menggunakan tiket bermasa dengan bilangan harian yang terhad, jadi tempah dalam talian lebih awal berbanding bergantung pada kemasukan terus di tempat.'
+  watch: 'Lalu lintas pusat bandar sesak pada waktu puncak, jadi kereta api biasanya lebih pantas daripada kereta untuk perjalanan merentasi bandar.'
+  next: 'Sahkan waktu buka dan penjualan tiket semasa untuk Menara Berkembar Petronas dengan laman rasmi PETRONAS Twin Towers (petronastwintowers.com.my).'
 ---
 
 Mendarat di Lapangan Terbang Antarabangsa Kuala Lumpur pada waktu subuh dan, dalam masa sejam, anda boleh berdiri di bawah dua menara perak yang pernah menguasai langit dunia — tanpa kereta sewa, tanpa perancangan rumit, hanya sebuah kereta api dan kad mengetip. Kemudahan itulah yang menjadi intipati KL: ia adalah pintu depan Malaysia, sebuah ibu negara yang padat dan murah di mana tarikan-tarikan utama terletak berdekatan dengan sekali perjalanan rel, dan di mana hampir setiap perjalanan seterusnya di negara ini bermula.

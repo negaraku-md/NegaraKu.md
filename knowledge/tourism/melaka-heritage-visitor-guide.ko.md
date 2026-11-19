@@ -81,6 +81,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: '걸어서 둘러보는 아담한 UNESCO 유산 핵심부를 원하는 여행자에게 적합합니다 — 말레이 술탄국, 포르투갈, 네덜란드 유적에 더해 페라나칸(바바 뇨냐) 뇨냐 음식까지, 주말 여행으로 손쉽게 소화할 수 있습니다.'
+  getThere: '쿠알라룸푸르에서 도로로 약 두 시간 운전 거리로, 흔한 주말 여행지입니다.'
+  watch: '요일에 맞춰 계획하십시오 — 존커 거리(Jonker Street) 야시장은 금요일부터 일요일 저녁에만 열리고 평일에는 평범한 숍하우스 거리이며 — 무료 사적인 아 파모사(A Famosa) 성문을 교외의 별개 시설인 아파모사 리조트(A''Famosa Resort) 테마파크와 혼동하지 마십시오.'
+  next: '방문 전에 현재의 개장 요일과 시간을 바바 & 뇨냐 유산 박물관(Baba & Nyonya Heritage Museum) 공식 웹사이트에서 확인하십시오. 바뀔 수 있습니다.'
 ---
 
 해 질 녘 더치 스퀘어(Dutch Square)에 서면 한눈에 다섯 세기를 읽을 수 있습니다. 한쪽에는 연어빛 붉은 네덜란드 시청, 위쪽 언덕에는 포르투갈 시대 교회의 폐허, 영국이 허물려 했던 요새를 한때 지탱했던 돌문, 그리고 — 2분 거리에 — 금요일 밤 시장을 위해 불을 밝힌 중국-말레이 타운하우스 골목이 있습니다. 믈라카는 역사를 큰 도시에 펼쳐 놓지 않습니다. 오후 한나절이면 걸을 수 있는 약 1제곱마일에 켜켜이 쌓아 둡니다. 이를 어떻게 읽고, 그 주변으로 방문을 어떻게 계획하는지 소개합니다.

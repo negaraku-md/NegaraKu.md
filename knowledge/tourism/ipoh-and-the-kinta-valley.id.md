@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Cocok untuk pelancong warisan dan kuliner serta keluarga yang menginginkan Kota Tua kolonial yang mudah dijelajahi dengan berjalan kaki, kuil gua batu kapur, dan kancah kuliner kopitiam Perak yang terkenal.'
+  getThere: 'Capai Ipoh dengan kereta listrik KTM ETS dari KL Sentral ke stasiun Kota Tua, atau berkendara melalui Lebuhraya Utara-Selatan; bus ekspres juga melayani kota ini.'
+  permit: 'Kuil gua adalah tempat ibadah yang aktif, jadi berpakaianlah sopan (tutup bahu dan lutut) dan jagalah ketenangan di dalamnya.'
+  watch: 'Terlepas dari narasi pariwisata yang longgar, Lembah Kinta adalah geopark nasional, bukan UNESCO Global Geopark.'
+  next: 'Konfirmasikan jadwal dan tarif kereta api terkini dengan KTMB sebelum bepergian.'
 ---
 
 Timah membentuk Ipoh, lalu nyaris membubarkannya. Sebuah desa di Sungai Kinta berubah menjadi salah satu kota terkaya Malaya Britania berkat bijih yang terkubur di bawah Lembah Kinta, membangun untuk dirinya sebuah pusat kolonial yang megah, lalu menyaksikan uang itu mengalir pergi ketika harga timah runtuh. Yang dipertahankannya adalah arsitektur, bukit batu kapur yang bersarang kuil gua, dan dapur yang luar biasa baik. Kini Ipoh adalah liburan singkat kota warisan dan kuliner yang paling nyaman di Malaysia — cukup dekat ke Kuala Lumpur untuk kunjungan sehari, cukup kaya untuk sepadan diberi akhir pekan. Panduan ini mencakup lanskap dan sejarah yang membentuknya, apa yang bisa dilihat di dalam dan sekitar kota, kuliner secara ringkas, serta hal-hal praktis untuk ke sana.

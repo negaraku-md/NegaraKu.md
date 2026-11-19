@@ -84,7 +84,13 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "té BOH", "granja de fresas", "Orang Asli", "Semai", "estación de montaña", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Quien planifica un viaje y quiere una escapada de clima fresco a una estación de montaña de dos o tres días, alojándose en Tanah Rata o Brinchang y combinando plantaciones de té, granjas de fresas y flores y una visita guiada a una aldea Orang Asli o un paseo por el Mossy Forest.'
+  getThere: 'Ningún aeropuerto ni ferrocarril llega a la meseta: se sube en coche, propio o con conductor, por carretera desde Tapah o desde el lado de Raub/Kuala Lipis (que confluyen en Ringlet), o desde Simpang Pulai por el norte, con autobuses públicos que suben de Tapah a Tanah Rata.'
+  permit: 'No hace falta permiso para entrar en el parque; las visitas a la fábrica de las plantaciones de té BOH son gratuitas, mientras que las visitas a aldeas Orang Asli deberían hacerse a través de un guía u operador local de buena reputación.'
+  watch: 'No lo trate como un solo pueblo — son tres asentamientos con funciones distintas — y tenga en cuenta que las plantaciones de té cierran los lunes y que el tiempo en la meseta cambia rápido, así que los planes del día pueden variar.'
+  next: 'Confirme los horarios de apertura vigentes y los cierres de los lunes directamente con cada sitio — el sitio oficial de BOH Plantations (bohtea.com) para las plantaciones de té y el Consejo del Distrito de Cameron Highlands (MDCH) para las atracciones de granjas y jardines.'
 ---
 
 Baja del autobús en Tanah Rata y lo primero que notas es tu propio aliento — el aire es lo bastante fresco como para que un suéter deje de parecer ridículo, incluso en el ecuador. Ese es todo el sentido de Cameron Highlands: un bloque de montaña templada apilado sobre la Malasia tropical, donde el té crece en pulcra pana verde sobre las lomas y las fresas maduran en túneles de plástico al borde de la carretera.

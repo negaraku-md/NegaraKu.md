@@ -85,6 +85,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: '适合想徒步探索可步行的 UNESCO 古迹核心区的旅人，这里有店屋、宗祠、Ernest Zacharevic 的街头艺术以及多元文化的小贩美食。'
+  getThere: '飞抵乔治市（George Town）以南的槟城国际机场，或经槟威大桥（Penang Bridge）与苏丹阿都哈林大桥（Sultan Abdul Halim Muadzam Shah Bridge）陆路上岛，或从北海（Butterworth）搭乘 Rapid Ferry 渡轮前往乔治市海滨。'
+  watch: '请把街头艺术当作一道入口，而非全部，因为 UNESCO 名录真正保护的其实是那些宗祠、庙宇与店屋街道。'
+  next: '请向槟城升旗山机构（Penang Hill Corporation）确认当前的缆索列车班次与规定。'
 ---
 
 登上海岛，走出冷气房，第一件扑面而来的便是气味——镬气、华人庙宇的香火、鸡蛋花，还有马六甲海峡的咸味。乔治市是一座要用双脚去阅读的城市：一片紧凑的百年店屋网格，一座清真寺、一座宗祠和一座殖民时期的教堂可以共享同一街区。本指南将介绍看什么、去哪里吃、如何前往海滩和升旗山，以及该给这座奖赏慢游者的城市留出多少时间。

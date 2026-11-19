@@ -71,7 +71,13 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách biển-và-rạn san hô — người lặn ống thở và thợ lặn muốn các chuyến đi đảo công viên biển, từ các bãi biển cho dân phượt đến các khu nghỉ trọn gói.'
+  getThere: 'Thuyền từ bến tàu đất liền của riêng mỗi đảo: Merang cho Redang, Kuala Besut cho Perhentian và Marang cho Kapas ở Terengganu, và Mersing hoặc Tanjung Gemok cho Tioman ở Pahang.'
+  permit: 'Một khoản phí bảo tồn công viên biển bắt buộc, trả tại quầy ở nhà ga bến tàu đất liền trước khi lên thuyền và tách biệt với tiền vé thuyền của bạn.'
+  watch: 'Không có một đợt đóng cửa bắt buộc duy nhất, nhưng hầu hết các nhà điều hành trên đảo tự nguyện đóng cửa vào mùa gió mùa đông bắc, nên gần những tháng đó hãy xác nhận các chuyến thuyền trung chuyển trước khi trả tiền.'
+  next: 'Hãy xác nhận phí bảo tồn và quy định công viên biển hiện tại với Cục Thủy sản Malaysia (Department of Fisheries).'
 ---
 
 Xuất hiện tại một khu nghỉ dưỡng bãi biển Redang vào tháng 12 và bạn sẽ có khả năng thấy các thuyền đã đi, cầu tàu yên tĩnh và cửa hàng lặn đóng cửa. Các đảo bờ đông chạy theo một lịch được viết bởi biển, chứ không phải cuốn cẩm nang du lịch — và bởi một bộ quy tắc công viên biển mà hầu hết những người lần đầu chỉ khám phá ra tại quầy vé.

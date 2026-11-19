@@ -81,6 +81,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que buscan un núcleo patrimonial de la UNESCO compacto y recorrible a pie — hitos del sultanato malayo, portugueses y neerlandeses, además de la comida nyonya peranakan (baba nyonya) — fácil de hacer como viaje de fin de semana.'
+  getThere: 'Se llega por carretera desde Kuala Lumpur, a unas dos horas en coche — un viaje de fin de semana habitual.'
+  watch: 'Planifique según el día de la semana — el mercado nocturno de Jonker Street funciona solo las tardes de viernes a domingo, y entre semana es una calle de tiendas-vivienda corriente — y no confunda la puerta histórica gratuita de A Famosa con el parque temático A''Famosa Resort, aparte y fuera de la ciudad.'
+  next: 'Confirme los días y horarios de apertura vigentes con el sitio oficial del Museo del Patrimonio Baba & Nyonya (Baba & Nyonya Heritage Museum) antes de su visita, ya que cambian.'
 ---
 
 Párate en la Dutch Square al atardecer y podrás leer cinco siglos de una sola mirada: un ayuntamiento neerlandés de color rojo salmón a un lado, las ruinas de una iglesia de la época portuguesa en la colina de arriba, una puerta de piedra que en su día ancló una fortaleza que los británicos intentaron demoler y —a dos minutos a pie— una callejuela de casas urbanas chino-malayas ahora iluminadas para un bazar de viernes por la noche. Melaka no reparte su historia por una gran ciudad. La apila en aproximadamente una milla cuadrada que puedes recorrer en una tarde. Aquí tienes cómo leerla y cómo planificar una visita en torno a ella.

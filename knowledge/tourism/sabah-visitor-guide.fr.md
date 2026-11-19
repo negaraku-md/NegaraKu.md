@@ -93,7 +93,13 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Voyageurs privilégiant la nature en quête des expériences phares de Bornéo — l''ascension du mont Kinabalu, la plongée sur le récif protégé de Sipadan, et l''observation des orangs-outans et de la faune fluviale autour de Sandakan.'
+  getThere: 'Prenez un vol vers l''aéroport international de Kota Kinabalu, la principale porte d''entrée aérienne du Sabah, puis de courts sauts intérieurs pour poursuivre vers Sandakan, Tawau et la région de plongée.'
+  permit: 'Le Sabah contrôle sa propre immigration en vertu de l''Accord de Malaisie de 1963, de sorte que chaque arrivant — y compris les Malaisiens venant de la Péninsule — passe un point de contrôle et reçoit un laissez-passer de visite, tandis que l''ascension du mont Kinabalu et la plongée à Sipadan sont chacune soumises à des permis plafonnés de Sabah Parks.'
+  watch: 'Réservez bien à l''avance les sites phares rares et soumis à permis et planifiez en tenant compte de la fermeture annuelle de Sipadan en novembre pour la régénération du récif, car ces éléments affichent complet et ne peuvent pas être obtenus à l''arrivée.'
+  next: 'Confirmez les règles en vigueur d''entrée, de laissez-passer de visite et de permis auprès du Département de l''immigration de Malaisie (Immigration Department of Malaysia) et de Sabah Parks avant de voyager.'
 ---
 
 Vous pouvez prendre l'avion de Kuala Lumpur à Kota Kinabalu sans quitter le pays et faire malgré tout la queue à un guichet d'immigration à l'atterrissage. Cette surprise prend de court de nombreux primo-visiteurs — et c'est la seule chose la plus importante à comprendre avant de planifier un voyage à Sabah. Ce guide passe en revue la porte d'entrée, les attractions phares et les règles d'entrée qui font que Sabah ressemble à un lieu à part entière, car, dans un sens très réel, c'en est un.

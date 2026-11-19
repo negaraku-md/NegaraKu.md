@@ -98,6 +98,12 @@ relations:
 related: []
 keywords: ["kuala lumpur", "torres gemelas petronas", "torre kl", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "transporte kuala lumpur", "tarjeta digital de llegada a malasia", "guía de viaje kl"]
 framework: profile
+visitFacts:
+  bestFor: 'Visitantes internacionales que viajan por primera vez y quieren una estancia corta y fácil en la ciudad, y viajeros que usan Kuala Lumpur como base antes de dirigirse a otros lugares de Malasia.'
+  getThere: 'Desde el Aeropuerto Internacional de Kuala Lumpur (KLIA), tome el tren KLIA Ekspres sin paradas hasta el nudo de KL Sentral y, desde allí, continúe en MRT, LRT, monorraíl o Grab.'
+  permit: 'La entrada a las Torres Gemelas Petronas (Petronas Twin Towers) usa entradas con hora asignada y cupos diarios limitados, así que resérvelas en línea con antelación en lugar de confiar en presentarse sin más.'
+  watch: 'El tráfico del centro es denso en hora punta, así que los trenes suelen ser más rápidos que el coche para los trayectos por la ciudad.'
+  next: 'Confirme los horarios de apertura y la venta de entradas vigentes de las Torres Gemelas Petronas con el sitio oficial de las PETRONAS Twin Towers (petronastwintowers.com.my).'
 ---
 
 Aterrice en el Aeropuerto Internacional de Kuala Lumpur al amanecer y, en una hora, puede estar de pie bajo dos torres plateadas que un día dominaron el perfil urbano del mundo — sin coche de alquiler, sin planificación complicada, solo un tren y una tarjeta de paso. Esa facilidad es la esencia de KL: es la puerta de entrada de Malasia, una capital compacta y económica donde los lugares principales están a un corto trayecto en tren unos de otros, y donde comienza casi todo viaje posterior por el país.

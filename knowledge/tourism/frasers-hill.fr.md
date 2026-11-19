@@ -90,7 +90,12 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Ornithologues et amoureux de la nature en quête d''une retraite d''altitude paisible au climat frais, faite de sentiers de jungle et de charme colonial suranné, plutôt que de vie nocturne ou de grandes attractions.'
+  getThere: 'Ni aéroport ni chemin de fer — vous montez par une route de montagne sinueuse depuis Kuala Kubu Bharu jusqu''à The Gap, où commence l''ascension finale, le trafic montant et descendant étant désormais réparti sur deux routes (la route originale à voie unique fonctionnait historiquement en sens unique alterné à horaires fixes).'
+  watch: 'La route de montagne étroite et sinueuse est lente et sujette à des fermetures après la pluie, des glissements de terrain ou des chutes d''arbres, et la colline elle-même est souvent brumeuse et humide, avec une restauration et des provisions limitées.'
+  next: 'Confirmez les modalités d''accès routier en vigueur et toute fermeture auprès de l''autorité des routes (JKR) avant de voyager.'
 ---
 
 La plupart des stations d'altitude de Malaisie vous vendent quelque chose — un casino, une plantation de thé, une ferme de fraises, un parc à thème. Fraser's Hill vous vend l'absence de tout cela. Étalée sur un ensemble de crêtes boisées de la [chaîne du Titiwangsa](/fr/malaysia/titiwangsa-range), c'est une petite station paisible et enveloppée de brume de l'époque coloniale où la chose la plus bruyante que vous entendrez est le chant des oiseaux, et où un pull cesse de paraître ridicule même à l'équateur. Pour les ornithologues, c'est presque une terre sacrée ; pour tous les autres, c'est l'alternative lente et discrète à ses voisines d'altitude plus tape-à-l'œil. Ce guide couvre ce qu'est réellement Fraser's Hill, pourquoi les ornithologues viennent, ce qu'il y a à voir, le fonctionnement de la route sinueuse d'accès, et à qui le lieu convient et ne convient pas.

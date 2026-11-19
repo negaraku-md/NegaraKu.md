@@ -90,7 +90,12 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Dành cho người ngắm chim và người yêu thiên nhiên muốn một kỳ nghỉ cao nguyên khí hậu mát, yên tĩnh với các lối mòn rừng rậm và nét thuộc địa phai màu, hơn là đời sống về đêm hay các điểm thu hút lớn.'
+  getThere: 'Không có sân bay hay đường sắt — bạn lái lên một con đường núi quanh co từ Kuala Kubu Bharu đến The Gap, nơi chặng leo cuối cùng bắt đầu, với giao thông lên và xuống dốc nay được tách giữa hai con đường (con đường một làn ban đầu trong lịch sử chạy một chiều theo giờ).'
+  watch: 'Con đường núi hẹp, quanh co chạy chậm và dễ bị đóng sau mưa, sạt lở hay cây đổ, và bản thân ngọn đồi thường nhiều sương mù và ẩm ướt, với dịch vụ ăn uống và tiếp tế hạn chế.'
+  next: 'Hãy xác nhận cách bố trí lối vào đường bộ hiện tại và bất kỳ đợt đóng đường nào với cơ quan quản lý đường bộ (JKR) trước khi bạn đi.'
 ---
 
 Hầu hết các trạm nghỉ đồi của Malaysia bán cho bạn một thứ gì đó — một sòng bạc, một đồn điền trà, một trang trại dâu, một công viên chủ đề. Fraser's Hill bán cho bạn sự vắng mặt của tất cả những điều đó. Trải khắp một cụm các sống núi phủ rừng trên [dãy Titiwangsa](/vi/malaysia/titiwangsa-range), nó là một trạm nghỉ thời thuộc địa nhỏ, yên tĩnh, bọc trong sương mù nơi thứ ồn ào nhất bạn sẽ nghe là tiếng chim hót, và nơi một chiếc áo len thôi cảm thấy lố bịch ngay cả ở xích đạo. Đối với người ngắm chim, nó gần như là đất thiêng; đối với mọi người khác, nó là lựa chọn chậm rãi, kín tiếng thay cho những người hàng xóm vùng cao hào nhoáng hơn. Cẩm nang này bao gồm Fraser's Hill thực sự là gì, vì sao người ngắm chim đến, có gì để xem, con đường quanh co lên hoạt động ra sao, và nơi này phù hợp và không phù hợp với ai.

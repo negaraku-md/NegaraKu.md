@@ -93,7 +93,13 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'ボルネオの目玉となる体験——Mount Kinabaluの登頂、Sipadanの保護されたリーフでのダイビング、そしてSandakan周辺でのオランウータンや川の野生生物の観察——を求める、自然を第一とする旅行者に。'
+  getThere: 'サバの主要な空の玄関口であるKota Kinabalu International Airportに飛び、そこからSandakan、Tawau、ダイビング地域へ短い国内線で乗り継ぐ。'
+  permit: 'サバはMalaysia Agreement 1963のもとで独自の入国管理を行っており、半島から飛来するマレーシア人を含むすべての到着者が審査所を通過して訪問パスを受け、Mount Kinabaluの登山とSipadanのダイビングはそれぞれ上限付きのSabah Parks許可で管理されている。'
+  watch: '数が限られ許可で管理される目玉は十分に前もって予約し、リーフ回復のためのSipadanの毎年11月の閉鎖を踏まえて計画すること；これらは売り切れ、到着時には確保できないからである。'
+  next: '出発前に、現在の入境・訪問パス・許可の規則を、Immigration Department of MalaysiaおよびSabah Parksで確認すること。'
 ---
 
 クアラルンプールからコタキナバルへは国境を越えることなく飛ぶことができるが、それでも着陸時には入境カウンターで列に並ぶことになる。この意外な事実は、多くの初めての訪問者を戸惑わせる——そしてこれこそが、サバ州への旅を計画する前に理解しておくべき最も重要な一点である。本ガイドでは、玄関口となる都市、目玉となる見どころ、そしてサバ州をあたかも独自の土地であるかのように感じさせる入境規則を順を追って見ていく。というのも、ある非常に現実的な意味において、サバ州はまさにそうだからである。

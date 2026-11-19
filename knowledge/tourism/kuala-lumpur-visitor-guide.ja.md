@@ -97,6 +97,12 @@ relations:
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: '短く手軽な都市滞在を望む初めての海外からの訪問者、そしてマレーシアの他の地域へ向かう前にクアラルンプールを拠点として使う旅行者に。'
+  getThere: 'Kuala Lumpur International Airport（KLIA）からKLIA Ekspres列車にノンストップで乗り、交通ハブのKL Sentralまで行き、そこからMRT、LRT、モノレール、あるいはGrabで先へ乗り継ぐ。'
+  permit: 'Petronas Twin Towersの入場は1日ごとの人数上限がある時間指定チケット制のため、当日の飛び込みに頼らず、事前にオンラインで予約すること。'
+  watch: '市中心部の交通はピーク時に混雑するため、市内を横断する移動では列車のほうが車より速いのが普通である。'
+  next: 'Petronas Twin Towersの現在の開場時間とチケット情報は、PETRONAS Twin Towersの公式サイト（petronastwintowers.com.my）で確認すること。'
 ---
 
 夜明けにクアラルンプール国際空港に降り立てば、1時間以内に、かつて世界の摩天楼を支配した2本の銀色のタワーの足元に立つことができる——レンタカーも、複雑な計画も要らず、ただ列車1本とタップ式のカード1枚だけでよい。この手軽さこそがクアラルンプールの真骨頂である：ここはマレーシアの玄関口であり、主要な見どころが短い鉄道の乗車で隣り合う、コンパクトで安価な首都であり、そしてこの国のほぼすべての次なる旅がここから始まる。

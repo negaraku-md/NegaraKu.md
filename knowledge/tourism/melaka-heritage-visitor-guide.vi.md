@@ -81,6 +81,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách muốn một lõi di sản UNESCO nhỏ gọn, đi bộ được — các di tích thời Vương quốc Hồi giáo Mã Lai, Bồ Đào Nha và Hà Lan cùng ẩm thực Nyonya của người Peranakan (Baba Nyonya) — dễ dàng thực hiện như một chuyến đi cuối tuần.'
+  getThere: 'Đến bằng đường bộ từ Kuala Lumpur, lái xe khoảng hai giờ — một chuyến đi cuối tuần phổ biến.'
+  watch: 'Hãy lên kế hoạch theo ngày trong tuần — chợ đêm Jonker Street chỉ diễn ra vào các tối thứ Sáu đến Chủ nhật, và vào ngày thường nó là một con phố nhà phố bình thường — và đừng nhầm cổng lịch sử A Famosa miễn phí với công viên giải trí A''Famosa Resort riêng biệt bên ngoài thị trấn.'
+  next: 'Hãy xác nhận ngày và giờ mở cửa hiện tại với trang chính thức của Bảo tàng Di sản Baba & Nyonya trước chuyến thăm của bạn, vì những điều này thay đổi.'
 ---
 
 Đứng ở Quảng trường Hà Lan lúc chạng vạng và bạn có thể đọc năm thế kỷ trong một cái liếc: một tòa thị chính Hà Lan màu đỏ cá hồi ở một phía, các phế tích của một nhà thờ thời Bồ Đào Nha trên ngọn đồi phía trên, một cổng đá từng neo giữ một pháo đài mà người Anh cố phá dỡ, và — cách hai phút đi bộ — một con hẻm các nhà phố Trung-Mã nay được thắp sáng cho một chợ đêm tối thứ Sáu. Melaka không trải lịch sử của mình khắp một thành phố lớn. Nó xếp chúng vào khoảng một dặm vuông mà bạn có thể đi bộ trong một buổi chiều. Đây là cách đọc nó, và cách lên kế hoạch một chuyến thăm quanh nó.

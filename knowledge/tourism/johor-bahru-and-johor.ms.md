@@ -113,6 +113,12 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'Paling sesuai untuk pelancong sehari dan pengunjung hujung minggu dari Singapura serta keluarga — tertarik dengan membeli-belah dan makanan berbaloi, kelompok Legoland dan taman tema, pantai Desaru Coast, serta pergunungan dan paya bakau di pedalaman.'
+  getThere: 'Dicapai dari Singapura melalui Tambak Johor–Singapura atau Second Link (serta kereta api KTM Shuttle Tebrau), dan dari seluruh Malaysia dengan bas jarak jauh, kereta api antara bandar KTM/ETS, atau Senai International Airport yang terletak di utara bandar.'
+  permit: 'Setiap lintasan adalah sempadan antarabangsa, jadi bawa pasport yang sah dan lepasi imigresen di kedua-dua belah.'
+  watch: 'Tambak sesak pada petang Jumaat, hujung minggu, cuti sekolah Singapura dan malam sebelum cuti umum, jadi lintas awal, elakkan waktu pulang puncak, dan beralih ke Second Link apabila ia sesak.'
+  next: 'Sahkan susunan lintasan, RTS Link dan permit taman semasa dengan pihak berkuasa pengangkutan rasmi Malaysia dan Singapura serta pihak berkuasa taman berkaitan sebelum anda mengembara.'
 ---
 
 Kebanyakan pelawat bertemu Johor di barisan sempadan — di dalam kereta di Tambak, di atas bas di Laluan Kedua, atau di kereta api ulang-alik singkat ke JB Sentral — dan memperlakukan bandar sebagai singgahan membeli-belah-dan-makan dari Singapura. Itu memandang rendah kepadanya. Johor Bahru ialah ibu negeri negeri paling selatan Malaysia dan pintu masuk tempat semenanjung bertemu republik pulau di seberang air, dengan teras warisan yang mudah dijalani kaki, salah satu kelompok taman tema keluarga terbesar di Asia di ambang pintunya, dan seluruh negeri di belakangnya: pantai di timur, bakau di hujung selatan, serta gunung dan hutan hujan di pedalaman. Panduan ini merangkumi cara lintasan berfungsi, apa yang hendak dilakukan di bandar, taman tema, pesisir dan pedalaman, untuk siapa Johor sesuai, serta satu kesilapan yang memerangkap hampir semua orang — tersilap mengira masa lintasan.

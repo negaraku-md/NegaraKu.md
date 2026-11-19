@@ -113,6 +113,12 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'Idóneo para excursionistas de un día y viajeros de fin de semana desde Singapur y para familias — atraídos por las compras y la comida económicas, el conjunto de Legoland y parques temáticos, las playas de Desaru Coast y las montañas y manglares del interior.'
+  getThere: 'Se llega desde Singapur por la Calzada Johor–Singapur (Johor–Singapore Causeway) o el Second Link (además del tren KTM Shuttle Tebrau), y desde el resto de Malasia en autobús de largo recorrido, tren interurbano KTM/ETS o el Aeropuerto Internacional de Senai, justo al norte de la ciudad.'
+  permit: 'Cada cruce es una frontera internacional, así que lleve un pasaporte válido y pase el control de inmigración en ambos lados.'
+  watch: 'La Calzada se congestiona los viernes por la tarde, los fines de semana, las vacaciones escolares de Singapur y las vísperas de festivos, así que cruce temprano, evite las horas punta de regreso y cambie al Second Link cuando esté atascada.'
+  next: 'Confirme las disposiciones vigentes de cruce, del RTS Link y de permisos de parques con las autoridades de transporte oficiales de Malasia y Singapur y con la autoridad del parque correspondiente antes de viajar.'
 ---
 
 La mayoría de los visitantes conocen Johor en una cola fronteriza — en coche en el Causeway, en autobús en el Second Link, o en el corto tren lanzadera hacia JB Sentral — y tratan la ciudad como un desvío de compras y comida desde Singapur. Eso la infravalora. Johor Bahru es la capital del estado más meridional de Malasia y la puerta donde la península se encuentra con la república insular al otro lado del agua, con un casco patrimonial transitable a pie, uno de los mayores conglomerados de parques temáticos familiares de Asia a su puerta, y todo un estado detrás: playas en el este, manglares en el extremo sur, y montañas y selva tierra adentro. Esta guía cubre cómo funcionan los cruces, qué hacer en la ciudad, los parques temáticos, la costa y el interior, a quién conviene Johor, y el único error que pilla a casi todo el mundo — equivocar el momento del cruce.

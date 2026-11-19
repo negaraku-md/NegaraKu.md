@@ -84,7 +84,13 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "thé BOH", "ferme de fraises", "Orang Asli", "Semai", "station de montagne", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Organisateurs de séjour souhaitant une escapade de deux à trois jours dans une station d''altitude au climat frais, en séjournant à Tanah Rata ou Brinchang et en combinant plantations de thé, fermes de fraises et de fleurs, et une visite guidée d''un village Orang Asli ou une marche dans la Mossy Forest.'
+  getThere: 'Aucun aéroport ni chemin de fer n''atteint le plateau — vous montez par la route au volant ou en voiture avec chauffeur depuis Tapah ou le versant de Raub/Kuala Lipis (qui se rejoignent à Ringlet), ou depuis Simpang Pulai au nord, des bus publics montant de Tapah à Tanah Rata.'
+  permit: 'Aucun permis de parc n''est requis pour entrer ; les visites de l''usine de la plantation de thé BOH sont gratuites, tandis que les visites de village Orang Asli devraient se faire avec un guide ou un opérateur local réputé.'
+  watch: 'Ne considérez pas ce lieu comme une seule ville — ce sont trois localités aux rôles différents — et notez que les jardins de thé ferment le lundi tandis que la météo du plateau change rapidement, de sorte que les plans de la journée peuvent évoluer.'
+  next: 'Confirmez les horaires d''ouverture et les fermetures du lundi en vigueur directement auprès de chaque site — le site officiel de BOH Plantations (bohtea.com) pour les jardins de thé et le Conseil de district des Cameron Highlands (MDCH) pour les fermes et jardins.'
 ---
 
 Descendez du bus à Tanah Rata et la première chose que vous remarquez, c'est votre propre souffle — l'air est assez frais pour qu'un pull cesse de paraître ridicule, même à l'équateur. C'est tout l'intérêt des Cameron Highlands : un bloc de hautes terres tempérées empilé au-dessus de la Malaisie tropicale, où le thé pousse en un propre velours côtelé vert sur les crêtes et où les fraises mûrissent dans des tunnels plastiques en bord de route.

@@ -101,6 +101,12 @@ wikidata: "Q1412482"
 related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'Penyelam scuba bersertifikat yang mencari penyelaman dinding dalam kelas dunia — penyu, pusaran barakuda, dan hiu karang di lepas pantai satu-satunya pulau samudra Malaysia.'
+  getThere: 'Terbanglah ke Bandara Tawau, pindah dengan jalan darat ke kota gerbang Semporna, lalu naik perahu keluar ke pulau-pulau dan lokasi selam.'
+  permit: 'Menyelami Sipadan memerlukan izin Sabah Parks, dan jumlah yang dikeluarkan setiap hari dibatasi ketat serta dialokasikan hanya melalui operator selam berlisensi — pesanlah jauh-jauh hari.'
+  watch: 'Pulau-pulau di Sabah timur berada dalam zona keamanan yang ditetapkan (ESSZONE), izin tidak pernah dijamin, dan batasan konservasi (termasuk penutupan tahunan) berlaku — bepergianlah dengan informasi dan periksa nasihat resmi terkini.'
+  next: 'Konfirmasikan kuota izin, biaya, dan penutupan konservasi Sipadan terkini dengan Sabah Parks atau operator selam berlisensi Anda.'
 ---
 
 Satu menara tunggal berselimut karang yang menjulang enam ratus meter lurus dari dasar Laut Sulawesi, berpusar dengan penyu dan tornado barakuda — Sipadan adalah alasan penyelam serius menaruh Sabah timur dalam daftar mereka, dan alasan sebuah ekonomi perjalanan utuh tumbuh di sekitar kota kecil Semporna. Tetapi ia bukan tempat yang bisa Anda datangi dan selami begitu saja. Sipadan adalah taman laut yang dilindungi ketat dengan izin harian berkuota, tanpa penginapan di pulau itu sendiri, dan konteks zona keamanan di pantai sekitarnya yang perlu dipahami pendatang pertama kali secara tenang dan faktual. Panduan ini mencakup apa yang menjadikan penyelaman bertaraf dunia, bagaimana izin dan kuota harian sebenarnya bekerja, di mana Anda menginap, bagaimana Sipadan berbeda dari Taman Laut Tun Sakaran yang berdekatan, siapa yang cocok untuk kawasan ini, dan kapan pergi.

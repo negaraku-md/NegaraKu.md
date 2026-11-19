@@ -70,7 +70,13 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
-framework: rules
+framework: rules
+visitFacts:
+  bestFor: 'マレーシアの海洋公園を巡るレクリエーション・ダイバーとシュノーケラー（およびその予約を扱う業者）に——アクセスしやすい半島のリーフから、人数枠で管理されるSipadanのダイビングまでをカバーする。'
+  getThere: 'Tioman、Redang、Perhentian、Tenggolといった半島の公園は本土の桟橋からボートでアクセスし、サバのSipadanはMabulやKapalaiなど近隣の島に滞在し、公認業者の許可で日帰りで渡ってダイビングする。'
+  permit: 'Sipadanは公認業者だけが保有する1日ごとの上限付き許可枠で運用されるため、直接購入はできず、割当を持つ業者を通じて予約する必要があり、連邦（漁業局）の海洋公園は代わりに桟橋で徴収される保全料を課す。'
+  watch: 'Sipadanは直接予約できず、少なくともAdvanced Open Waterの認定が必要で、その人数枠とダイビング規則は随時改定されるため、計画前に現在の制限を業者に確認すること。'
+  next: '現在の料金、許可、人数枠は、半島の公園についてはDepartment of Fisheries Malaysiaで、SipadanについてはSabah Parksで確認すること。'
 ---
 
 マレーシアで最も澄んだ海は、同時に最もたどり着きにくい：[シパダン（Sipadan）](/ja/tourism/sipadan-and-semporna)の壁に飛び込むには、いくら金を積んでも直接は買えない政府の許可が必要だ。この一点が、この国のダイブ観光の運営のされ方を言い尽くしている——立ち入りは配給され、値付けされ、そしてあなたがどの海に潜り込みたいかに応じて、二つのまったく異なる当局に分けられている。

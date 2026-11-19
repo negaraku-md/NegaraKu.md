@@ -71,7 +71,13 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pelancong pantai-dan-terumbu — penyelam snorkel dan penyelam yang mencari perjalanan pulau taman marin, dari pantai backpacker hingga resort pakej.'
+  getThere: 'Bot dari jeti tanah besar setiap pulau: Merang untuk Redang, Kuala Besut untuk Perhentian dan Marang untuk Kapas di Terengganu, dan Mersing atau Tanjung Gemok untuk Tioman di Pahang.'
+  permit: 'Caj pemuliharaan taman marin yang wajib, dibayar di kaunter dalam terminal jeti tanah besar sebelum menaiki bot dan berasingan daripada tambang bot anda.'
+  watch: 'Tiada penutupan wajib tunggal, tetapi kebanyakan pengendali pulau tutup secara sukarela sepanjang monsun timur laut, jadi menghampiri bulan-bulan itu sahkan pemindahan bot sebelum membayar.'
+  next: 'Sahkan yuran pemuliharaan dan peraturan taman marin semasa dengan Jabatan Perikanan Malaysia.'
 ---
 
 Sampai di sebuah resort pantai Redang pada bulan Disember dan besar kemungkinan anda akan mendapati bot telah tiada, jeti sunyi dan kedai menyelam tertutup. Pulau-pulau pantai timur beroperasi mengikut kalendar yang ditulis oleh laut, bukan oleh risalah pelancongan — dan mengikut satu set peraturan taman laut yang kebanyakan pengunjung kali pertama hanya ketahui di kaunter tiket.

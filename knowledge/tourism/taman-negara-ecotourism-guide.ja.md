@@ -78,6 +78,12 @@ relations:
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: '太古の熱帯雨林——樹冠のキャノピーウォーク、ジャングルのトレッキング、野生生物の観察小屋、川の旅——を求める旅行者に、パハンのKuala Tahanの玄関口を拠点として。'
+  getThere: 'パハンのJerantutまで道路で行き、そこからKuala Tembelingの桟橋よりSungai Tembelingをボートで遡ってKuala Tahanに至り、代替として直通の道路も利用できる。'
+  permit: 'すべての訪問者は桟橋または公園の窓口に到着した時点でPERHILITANの入域許可を登録し、別途カメラ使用料を支払い、Gunung Tahanの登山には公認ガイドを利用しなければならない。'
+  watch: '北東モンスーンは川を増水させてボートや小道を乱すことがあり、キャノピーウォークは閉鎖されたこともあり、ヒルと湿気は常に付きまとう——アクセスを確認し、ガイドを前もって予約すること。'
+  next: '現在の許可・入域の規則と料金は、Taman Negara PahangにあるDepartment of Wildlife and National Parks（PERHILITAN）の事務所で確認すること。'
 ---
 
 夜明けのクアラ・タハンの桟橋に立ち、ヒマラヤよりも古い川から霧が立ちのぼるのを眺めていると、自分がクアラルンプールからわずか半日の距離にいることを忘れてしまいそうになる。タマン・ヌガラは人工的に作られた観光地ではない。数千万年にわたってほぼ手つかずのまま存在し続けてきた、生きた熱帯雨林であり——そしてそこに入るのは、ほとんどの旅行者が予想するよりも安く、簡単だ。

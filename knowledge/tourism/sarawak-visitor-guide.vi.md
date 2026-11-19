@@ -92,6 +92,12 @@ relations:
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách muốn thiên nhiên Borneo và văn hóa Dayak sống động, dùng Kuching thư thái, đi bộ được làm cơ sở cho đười ươi bán hoang dã của Semenggoh và các nhà dài Bidayuh, với các hang động và rừng mưa Di sản Thế giới của Gunung Mulu làm điểm bổ sung tiêu đề.'
+  getThere: 'Bay vào Kuching làm trung tâm chính, với Gunung Mulu chỉ đến được bằng các chuyến bay MASwings (từ Miri, Kuching hoặc Kota Kinabalu) vì không có đường bộ thực tế tới công viên.'
+  permit: 'Sarawak vận hành việc nhập cảnh riêng của mình, nên mọi người — kể cả người Malaysia từ Bán đảo — đều được thông quan và cấp một thẻ nhập cảnh khi đến (người nước ngoài nhận một con dấu Sarawak riêng ngoài dấu nhập cảnh Malaysia của họ, và hầu hết phải nộp MDAC trực tuyến trước), và các chuyến bay Mulu cùng các tour hang động có hướng dẫn nên được đặt trước.'
+  watch: 'Máy bay nhỏ của Mulu thường xuyên bị trì hoãn hoặc hủy do thời tiết, nên hãy dự trù thêm ngày đệm và đừng bao giờ đặt một chuyến nối chuyến sát nút rời khỏi công viên.'
+  next: 'Hãy xác nhận yêu cầu visa và MDAC hiện tại cho quốc tịch của bạn với Cục Nhập cảnh Malaysia (Immigration Department).'
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kuching trong chưa đầy hai giờ, không hề rời khỏi đất nước của mình, và vẫn được đóng dấu qua di trú ở đầu bên kia. Điều bất ngờ ở sảnh đến đó là điều quan trọng nhất cần hiểu về Sarawak: đó là một bang Malaysia vận hành biên giới riêng của mình.

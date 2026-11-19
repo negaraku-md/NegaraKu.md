@@ -90,7 +90,12 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: '适合观鸟者与自然爱好者，想要一处清凉宁静的高原度假地，享受丛林步道与褪色的殖民风情，而非夜生活或大型景点。'
+  getThere: '没有机场或铁路——须从瓜拉古巴峇鲁（Kuala Kubu Bharu）沿蜿蜒山路上行至 The Gap，最后一段攀登由此开始，如今上下山车流分走两条路（原本的单线道路历史上曾按时段单向通行）。'
+  watch: '这条狭窄蜿蜒的山路车速缓慢，雨后、山泥倾泻或倒树后易封闭，而山上本身常年多雾潮湿，餐饮与补给有限。'
+  next: '出发前请向公路主管部门（JKR）确认当前的道路通行安排与任何封路情况。'
 ---
 
 马来西亚大多数的避暑山站都向你兜售着什么——一座赌场、一片茶园、一座草莓农场、一座主题乐园。福隆港向你兜售的是这一切的缺席。它铺展于[蒂迪旺沙山脉](/zh/malaysia/titiwangsa-range)一簇森林覆盖的山脊之上，是一座小而安静、被雾气笼罩的殖民时期山站，你在这里能听到的最响的声音是鸟鸣，而即使在赤道，一件毛衣穿在身上也不再显得可笑。对观鸟者而言，它近乎圣地；对其他所有人而言，它是其更张扬的高原邻居们缓慢、低调的替代。本指南涵盖福隆港究竟是什么、观鸟者为何而来、有什么可看、上山的蜿蜒公路如何运作，以及这个地方适合与不适合谁。

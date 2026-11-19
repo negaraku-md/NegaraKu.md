@@ -81,6 +81,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Pelancong yang mencari inti warisan UNESCO yang ringkas dan mudah dijelajahi dengan berjalan kaki — markah tanah kesultanan Melayu, Portugis, dan Belanda ditambah kuliner Nyonya Peranakan (Baba Nyonya) — mudah ditempuh sebagai perjalanan akhir pekan.'
+  getThere: 'Dicapai melalui jalan darat dari Kuala Lumpur, sekitar dua jam berkendara — perjalanan akhir pekan yang umum.'
+  watch: 'Rencanakan berdasarkan hari dalam seminggu — pasar malam Jonker Street hanya beroperasi pada sore hari Jumat hingga Minggu, dan pada hari kerja ia adalah jalan rumah toko biasa — dan jangan salah mengira gerbang bersejarah A Famosa yang gratis sebagai taman tema A''Famosa Resort yang terpisah di luar kota.'
+  next: 'Konfirmasikan hari dan jam buka terkini dengan situs resmi Baba & Nyonya Heritage Museum sebelum kunjungan Anda, karena hal ini berubah.'
 ---
 
 Berdirilah di Dataran Belanda pada waktu senja dan Anda bisa membaca lima abad dalam satu pandangan: sebuah balai kota Belanda berwarna merah salmon di satu sisi, reruntuhan sebuah gereja zaman Portugis di bukit di atas, sebuah pintu gerbang batu yang pernah menjadi inti sebuah benteng yang coba dirobohkan oleh Inggris, dan — dua menit berjalan kaki dari situ — sebuah lorong rumah toko Tionghoa-Melayu yang kini gemerlap untuk bazar malam Jumat. Melaka tidak menyebarkan sejarahnya ke seluruh sebuah kota besar. Ia menyusunnya ke dalam kawasan kurang lebih satu mil persegi yang bisa Anda jelajahi dalam satu sore. Inilah cara membacanya, dan cara merencanakan kunjungan mengelilinginya.

@@ -88,6 +88,12 @@ relations:
 related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Keluarga, pelancong sehari, dan pelancong akhir pekan dari Kuala Lumpur yang menginginkan taman tema, cuaca dataran tinggi yang sejuk, belanja, dan pertunjukan, bukan alam yang tenang.'
+  getThere: 'Sekitar satu jam berkendara dari Kuala Lumpur menaiki jalan raya dan jalan pegunungan, atau parkir di tengah bukit dekat Genting Highlands Premium Outlets dan naik gondola Awana SkyWay ke puncak SkyAvenue.'
+  permit: 'Kasino hanya menerima non-Muslim, dan mensyaratkan usia minimum, pemeriksaan identitas, serta aturan berpakaian.'
+  watch: 'Puncaknya sering diselimuti awan, dingin, dan basah dengan pemandangan yang datang dan pergi, dan akhir pekan serta hari libur umum mendatangkan keramaian padat serta antrean panjang.'
+  next: 'Konfirmasikan aturan masuk taman tema, kereta gantung, dan kasino terkini dengan Resorts World Genting.'
 ---
 
 Berkendaralah naik jalan gunung keluar dari panas Kuala Lumpur dan, di suatu titik melewati tanda setengah perjalanan, jendela mulai berembun dan udara menjadi dingin. Dalam sejam setelah meninggalkan ibu kota Anda bisa berdiri di tengah awan pada hampir 1,800 meter, di depan kota resor neon yang bertumpuk di puncak gunung. Kontras itu — dataran rendah tropis di bawah, puncak berkabut yang sejuk di atas, dapat dicapai dalam satu pagi — adalah keseluruhan tawaran Genting Highlands. Panduan ini mencakup apa sebenarnya ia, bagaimana ke sana, apa yang bisa dilakukan, bagaimana menyikapi kasino secara bijak, serta kesalahan yang menjebak pendatang pertama kali.

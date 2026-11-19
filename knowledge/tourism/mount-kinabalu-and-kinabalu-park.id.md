@@ -94,6 +94,12 @@ entity: "Kinabalu Park"
 related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "climbing permit", "Laban Rata", "Panalaban", "Poring Hot Springs", "Sabah", "Nepenthes rajah"]
 framework: profile
+visitFacts:
+  bestFor: 'Cocok untuk pendaki yang bugar dan terorganisir yang mengejar fajar di puncak tertinggi Malaysia maupun pengunjung harian yang menginginkan udara gunung yang sejuk, tumbuhan karnivora, jalur alam, dan mata air panas di sekitar basis taman.'
+  getThere: 'Dicapai melalui jalan darat dari Kota Kinabalu, ibu kota Sabah, perjalanan berkendara di jalan pegunungan berkelok-kelok ke arah timur laut menuju dataran tinggi ke markas besar taman.'
+  permit: 'Pendakian puncak terbatas izin: izin mendaki taman dan pemandu gunung Sabah Parks berlisensi keduanya wajib, jumlah tempat harian dibatasi, dan hampir semua orang harus memesan di muka tempat tidur gunung untuk bermalam melalui pemegang konsesi taman — jadi pesanlah jauh-jauh hari.'
+  watch: 'Pendakian dua hari di ketinggian yang menuntut di mana penyakit ketinggian dan kebugaran penting serta gunung menciptakan cuacanya sendiri; akses dan rute bisa berubah setelah peristiwa seperti gempa bumi besar, jadi rencanakan berdasarkan informasi terkini.'
+  next: 'Konfirmasikan aturan dan biaya izin, pemandu, dan akomodasi terkini dengan Sabah Parks.'
 ---
 
 Mahkota granit yang menjulang lurus dari hutan hujan Borneo hingga sedikit di atas 4,000 meter, taman Warisan Dunia dengan lebih banyak spesies tumbuhan daripada sebagian benua, dan pendakian puncak yang begitu ketat dijatah hingga Anda memesannya sebelum memesan penerbangan — Gunung Kinabalu adalah bentang alam paling terkenal di Malaysia, dan salah satu yang paling terstruktur untuk benar-benar dikunjungi. Ia terletak di Sabah, di bagian Malaysia dari Borneo, dan ia menyenangkan dua jenis pelancong yang sangat berbeda: pendaki yang bugar dan terorganisir yang mengejar fajar di puncak tertinggi antara Himalaya dan New Guinea, dan pengunjung sehari yang sekadar menginginkan udara gunung yang sejuk, tumbuhan karnivora yang aneh dan berendam di sumber air panas. Panduan ini mencakup keduanya, serta hal-hal yang sering salah dipahami orang sebelum pergi.

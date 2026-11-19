@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: '适合古迹与美食旅人以及家庭，他们想要可步行的殖民风情老城区、石灰岩洞庙，以及霹雳远近闻名的咖啡店（kopitiam）美食风景。'
+  getThere: '可搭乘 KTM ETS 电动火车从 KL Sentral 直达怡保老城区车站，或驾车走南北大道（North-South Expressway）前往怡保；长途巴士亦有班次服务该市。'
+  permit: '洞庙是仍在使用的宗教场所，故请着装端庄（遮盖肩膀与膝盖）并在庙内保持安静。'
+  watch: '尽管旅游文案措辞含糊，Kinta Valley 其实是一座国家地质公园，而非 UNESCO 世界地质公园。'
+  next: '出发前请向 KTMB 确认当前的火车时刻表与票价。'
 ---
 
 锡造就了怡保，继而又几乎毁了它。一座近打河畔的村落，凭借埋藏于近打谷之下的矿石，变成了英属马来亚最富庶的城镇之一，为自己建起了一座恢弘的殖民中心，随后又眼看着钱财在锡价崩跌时流走。它留下来的，是那些建筑、那些布满洞穴庙宇的石灰岩山丘，以及一间格外出色的厨房。如今怡保是马来西亚最惬意的古迹与美食城市短途游——离吉隆坡近得足以一日往返，又丰盈得值得一个周末。本指南涵盖塑造它的地貌与历史、城里城外有什么可看、简要的美食，以及前往的实用事项。

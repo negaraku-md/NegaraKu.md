@@ -93,7 +93,13 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách ưu tiên thiên nhiên muốn những trải nghiệm tiêu đề của Borneo — leo Mount Kinabalu, lặn rạn san hô được bảo vệ của Sipadan, và ngắm đười ươi cùng động vật hoang dã trên sông quanh Sandakan.'
+  getThere: 'Bay vào Kota Kinabalu International Airport, cửa ngõ hàng không chính của Sabah, rồi đi các chặng nội địa ngắn tiếp tới Sandakan, Tawau và vùng lặn.'
+  permit: 'Sabah kiểm soát việc nhập cảnh riêng của mình theo Hiệp định Malaysia 1963, nên mọi người đến — kể cả người Malaysia bay vào từ Bán đảo — đều qua một trạm kiểm soát và nhận một thẻ thăm (visit pass), trong khi chặng leo Mount Kinabalu và lặn Sipadan mỗi thứ đều bị khống chế bằng các giấy phép Sabah Parks có giới hạn.'
+  watch: 'Hãy đặt trước thật sớm các điểm nổi bật khan hiếm, bị khống chế bằng giấy phép và lên kế hoạch quanh đợt đóng cửa thường niên tháng Mười Một của Sipadan để rạn san hô phục hồi, vì những phần này bán hết và không thể giữ chỗ khi đến nơi.'
+  next: 'Hãy xác nhận quy định nhập cảnh, thẻ thăm và giấy phép hiện tại với Cục Nhập cảnh Malaysia (Immigration Department) và Sabah Parks trước khi bạn đi.'
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kota Kinabalu mà không rời khỏi đất nước và vẫn xếp hàng tại một quầy di trú khi hạ cánh. Điều bất ngờ đó khiến nhiều du khách lần đầu bối rối — và đó là điều quan trọng nhất cần hiểu trước khi bạn lên kế hoạch cho chuyến đi đến Sabah. Cẩm nang này đi qua cửa ngõ, các điểm thu hút hàng đầu, và các quy định nhập cảnh khiến Sabah cảm thấy như một nơi riêng của nó, bởi vì theo một nghĩa rất thực, nó đúng là như vậy.

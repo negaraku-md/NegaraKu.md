@@ -84,6 +84,12 @@ wikidata: "Q61535"
 related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho người thám hiểm hang động, người leo núi mạo hiểm và du khách yêu thiên nhiên đang xây dựng hành trình Borneo — địa hình karst Di sản Thế giới UNESCO, các hang động trưng bày lập kỷ lục và màn dơi bay ra khỏi Deer Cave.'
+  getThere: 'Chỉ đến được bằng máy bay nhỏ — không có đường bộ vào. Hãy bay đến Mulu Airport (thường là chặng ngắn từ Miri), rồi đăng ký tại trụ sở công viên.'
+  permit: 'Đăng ký tại trụ sở công viên; các hang trưng bày, thám hiểm hang động và tuyến Pinnacles đều cần hướng dẫn viên có giấy phép và đặt chỗ trước — hãy giữ chỗ trước nhiều tuần đến nhiều tháng.'
+  watch: 'Rừng mưa xích đạo không có mùa khô ổn định — hành trình leo Pinnacles và màn dơi bay ra phụ thuộc vào thời tiết và bị hủy khi mưa lớn, nên hãy dự trù thêm ngày đệm. Có giới hạn hành lý trên máy bay nhỏ.'
+  next: 'Hãy xác nhận các chuyến bay, phòng, quy định hoạt động có hướng dẫn và phí hiện tại với trang chính thức của công viên (mulupark.com) và Sarawak Tourism Board.'
 ---
 
 Sâu trong rừng mưa của Sarawak, nơi những ngọn núi đá vôi vươn thẳng ra khỏi rừng già và không có con đường nào vươn tới, là một trong những cảnh quan phi thường nhất Malaysia — và một trong những vùng hang động được nghiên cứu nhiều nhất hành tinh. Vườn Quốc gia Gunung Mulu là nơi bạn tìm thấy khoang hang lớn nhất thế giới, một đường hang đủ lớn để lái một chiếc máy bay phản lực cỡ lớn xuyên qua, một dòng sông hằng đêm gồm hàng triệu con dơi, và một khu rừng trên đồi gồm những lưỡi đá vôi đủ sắc để xé toạc một chiếc giày. Nó cũng thực sự hẻo lánh: bạn đến bằng một máy bay nhỏ, bạn đi gần như mọi nơi với một hướng dẫn viên, và bạn đặt trước nhiều tháng. Cẩm nang này bao gồm Mulu là gì, có gì để xem dưới lòng đất và trên mặt đất, hai chuyến trekking lớn, cách thức tiếp cận hoạt động, và những sai lầm mà người lần đầu mắc phải.

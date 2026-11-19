@@ -88,6 +88,12 @@ relations:
 related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho gia đình, người đi trong ngày và người đi cuối tuần từ Kuala Lumpur muốn công viên giải trí, khí hậu cao nguyên mát, mua sắm và các buổi diễn hơn là thiên nhiên yên tĩnh.'
+  getThere: 'Cách Kuala Lumpur khoảng một giờ lái xe lên đường cao tốc và đường núi, hoặc đỗ xe ở lưng chừng đồi gần Genting Highlands Premium Outlets và đi cáp treo Awana SkyWay lên đỉnh SkyAvenue.'
+  permit: 'Sòng bạc chỉ nhận người không theo đạo Hồi, và yêu cầu độ tuổi tối thiểu, kiểm tra danh tính và quy định trang phục.'
+  watch: 'Đỉnh núi thường bị mây bao phủ, lạnh và ẩm với tầm nhìn lúc có lúc không, và cuối tuần cùng ngày lễ công cộng mang lại đám đông dày đặc và hàng chờ dài.'
+  next: 'Hãy xác nhận quy định vào cửa công viên giải trí, cáp treo và sòng bạc hiện tại với Resorts World Genting.'
 ---
 
 Lái xe lên đường núi ra khỏi cái nóng của Kuala Lumpur và, đâu đó quá nửa đường, cửa kính bắt đầu mờ sương và không khí trở lạnh. Trong vòng một giờ rời thủ đô, bạn có thể đứng trong mây ở gần 1,800 mét, trước một thành phố nghỉ dưỡng rực đèn neon xếp chồng trên một đỉnh núi. Sự tương phản đó — vùng thấp nhiệt đới bên dưới, đỉnh núi mát mẻ sương mù bên trên, đến được trong một buổi sáng — là toàn bộ đề xuất của Genting Highlands. Cẩm nang này bao gồm nó thực sự là gì, cách lên đó, có gì để làm, cách đối xử với sòng bạc một cách hợp lý, và những sai lầm bắt những người lần đầu.

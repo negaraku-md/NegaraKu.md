@@ -85,6 +85,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางที่ต้องการสำรวจแกนมรดก UNESCO ที่เดินเที่ยวได้ ทั้งตึกแถว บ้านตระกูล (clan houses) ศิลปะข้างถนนของ Ernest Zacharevic และอาหารหาบเร่หลากวัฒนธรรมด้วยการเดินเท้า'
+  getThere: 'บินเข้าสู่สนามบินนานาชาติ Penang ทางใต้ของ George Town หรือเข้าถึงเกาะทางบกผ่านสะพาน Penang Bridge และสะพาน Sultan Abdul Halim Muadzam Shah หรือนั่งเรือ Rapid Ferry จาก Butterworth สู่ริมน้ำ George Town'
+  watch: 'ควรมองศิลปะข้างถนนเป็นประตูสู่เรื่องราวมากกว่าเรื่องราวทั้งหมด เพราะบ้านตระกูล วัด และถนนตึกแถวคือสิ่งที่การขึ้นทะเบียน UNESCO คุ้มครองจริง ๆ'
+  next: 'ตรวจสอบตารางเวลาและกฎของรถรางไฟฟ้า (funicular) ปัจจุบันกับ Penang Hill Corporation'
 ---
 
 ลงบนเกาะ ก้าวออกจากเครื่องปรับอากาศ และสิ่งแรกที่กระทบคุณคือกลิ่น ควันกระทะ ธูปจากวัดจีน ดอกลั่นทม และไอเค็มของช่องแคบมะละกา จอร์จทาวน์เป็นที่ที่คุณอ่านด้วยเท้า ผังตึกแถวอายุร้อยปีที่กะทัดรัด ที่ซึ่งมัสยิด บ้านตระกูล และโบสถ์อาณานิคมอาจอยู่ในบล็อกเดียวกัน คู่มือนี้ครอบคลุมสิ่งที่ควรชม ที่ที่ควรกิน วิธีไปถึงชายหาดและเนินเขา และควรให้เวลาแค่ไหนกับเมืองที่ให้รางวัลกับความช้า

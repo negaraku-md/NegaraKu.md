@@ -92,6 +92,12 @@ relations:
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: '适合追求婆罗洲自然与活态达雅（Dayak）文化的旅人，以轻松、可步行的古晋为基地前往实蒙谷（Semenggoh）的半野生红毛猩猩与比达友（Bidayuh）长屋，并以姆鲁（Gunung Mulu）的世界遗产洞穴与雨林作为招牌延伸项目。'
+  getThere: '以古晋为主要枢纽飞抵，而姆鲁（Gunung Mulu）只能搭乘 MASwings 航班（从美里、古晋或亚庇）前往，因为没有通往公园的实际公路。'
+  permit: '砂拉越自行管理移民事务，故每个人——包括从西马来的马来西亚人——抵达时都须通关并获发入境准证（外国人在其马来西亚入境之外另获一枚砂拉越入境章，且多数人须事先在线填报 MDAC），而姆鲁航班及向导带领的洞穴游应提前预订。'
+  watch: '姆鲁的小型飞机常因天气延误或取消，故请预留缓冲日，切勿预订离开公园后衔接紧凑的后续航班。'
+  next: '请向马来西亚移民局（Immigration Department of Malaysia）确认适用于你国籍的当前签证与 MDAC 要求。'
 ---
 
 你可以在不到两小时内从吉隆坡飞抵古晋，全程不曾离开自己的国家，抵达另一端时却仍要通过移民关卡盖章。在到达大厅里的这份意外，正是理解砂拉越最重要的一点：它是一个自设边境的马来西亚州属。

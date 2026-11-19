@@ -113,6 +113,12 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'Terbaik untuk pelancong sehari dan pelancong akhir pekan dari Singapura serta untuk keluarga — tertarik oleh belanja dan kuliner bernilai, gugusan Legoland dan taman tema, pantai Desaru Coast, serta pegunungan dan hutan bakau di pedalaman.'
+  getThere: 'Dicapai dari Singapura melalui Johor–Singapore Causeway atau Second Link (ditambah kereta KTM Shuttle Tebrau), dan dari seluruh Malaysia dengan bus jarak jauh, kereta antarkota KTM/ETS, atau Bandara Internasional Senai tepat di utara kota.'
+  permit: 'Setiap penyeberangan adalah perbatasan internasional, jadi bawalah paspor yang sah dan lewati imigrasi di kedua sisi.'
+  watch: 'Causeway macet pada Jumat sore, akhir pekan, liburan sekolah Singapura, dan malam menjelang hari libur umum, jadi menyeberanglah lebih awal, hindari waktu pulang puncak, dan beralihlah ke Second Link saat ia macet.'
+  next: 'Konfirmasikan pengaturan penyeberangan, RTS Link, dan izin taman terkini dengan otoritas transportasi resmi Malaysia dan Singapura serta otoritas taman terkait sebelum Anda bepergian.'
 ---
 
 Sebagian besar pengunjung berjumpa Johor di antrean perbatasan — dalam mobil di Causeway, dalam bus di Second Link, atau di kereta ulang-alik singkat ke JB Sentral — dan memperlakukan kota sebagai selingan belanja-dan-kuliner dari Singapura. Itu meremehkannya. Johor Bahru adalah ibu kota negara bagian paling selatan Malaysia dan gerbang tempat semenanjung bertemu republik pulau di seberang perairan, dengan inti warisan yang mudah dijalani, salah satu gugusan taman tema keluarga terbesar Asia di ambang pintunya, dan seluruh negara bagian di belakangnya: pantai di timur, bakau di ujung selatan, serta gunung dan hutan hujan di pedalaman. Panduan ini mencakup bagaimana penyeberangan bekerja, apa yang bisa dilakukan di kota, taman tema, pesisir dan pedalaman, siapa yang cocok untuk Johor, serta satu kesalahan yang menjebak hampir semua orang — salah mengatur waktu penyeberangan.

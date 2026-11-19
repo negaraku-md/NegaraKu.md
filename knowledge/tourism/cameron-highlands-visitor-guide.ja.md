@@ -84,7 +84,13 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: '涼しい気候の高原リゾートで2〜3日を過ごしたい旅程の立案者に——Tanah RataまたはBrinchangを拠点に、茶園、イチゴや花の農園、そしてガイド付きのOrang Asliの村やMossy Forestの散策を組み合わせられる。'
+  getThere: '高原には空港も鉄道も通じておらず、TapahやRaub／Kuala Lipis側（Ringletで合流）、あるいは北のSimpang Pulaiから道路を車で上るか送迎してもらう形となり、公共バスもTapahからTanah Rataまで運行している。'
+  permit: '入域に公園の許可証は不要で、BOHの茶園工場見学は無料だが、Orang Asliの村の訪問は信頼できる地元ガイドや業者を通じて行うべきである。'
+  watch: '一つの町として捉えず——役割の異なる3つの集落だと考え——茶園は月曜日に休業し、高原の天候は急変するため、1日の予定は変わり得ることに留意すること。'
+  next: '現在の開場時間と月曜日の休業は各施設に直接確認し——茶園はBOH Plantationsの公式サイト（bohtea.com）、農園や庭園の見どころはCameron Highlands District Council（MDCH）で確認すること。'
 ---
 
 タナ・ラタ（Tanah Rata）でバスを降りて真っ先に気づくのは、自分の吐く息だ——赤道直下でありながら、セーターを羽織っても場違いに感じないほど空気は涼しい。それこそがキャメロンハイランドの真髄である：熱帯マレーシアの上に積み重なった温帯の丘陵地帯で、茶が尾根に沿って整然とした緑のコーデュロイを描き、イチゴが道端のビニールハウスで実っていく。

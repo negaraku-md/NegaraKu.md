@@ -71,7 +71,13 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: '适合追求海滩与珊瑚礁的旅人——想前往海洋公园岛屿的浮潜者与潜水者，从背包客海滩到配套度假村一应俱全。'
+  getThere: '由各岛各自的本土码头乘船前往：登嘉楼的热浪岛（Redang）走 Merang，停泊岛（Perhentian）走瓜拉勿述（Kuala Besut），加帛岛（Kapas）走马兰（Marang）；彭亨的刁曼岛（Tioman）走丰盛港（Mersing）或丹绒蓝莫（Tanjung Gemok）。'
+  permit: '须缴纳强制性的海洋公园保育费，于登船前在本土码头航站楼的柜台缴付，与船费分开计算。'
+  watch: '并无统一规定的封闭期，但多数岛屿业者会在东北季候风期间自愿停业，故接近这些月份时请在付款前确认船只接驳。'
+  next: '请向马来西亚渔业局（Department of Fisheries Malaysia）确认当前的保育费与海洋公园规定。'
 ---
 
 十二月来到热浪岛的沙滩度假村，你多半会发现船只不见了、码头一片寂静、潜水店也关门大吉。东海岸岛屿依循的是一份由海洋书写的日历，而不是旅游手册——它们也依循一套多数初次到访者要到售票柜台才发现的海洋公园规则。

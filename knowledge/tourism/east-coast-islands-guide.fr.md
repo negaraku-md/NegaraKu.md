@@ -71,7 +71,13 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "parc marin", "droit de conservation", "mousson du nord-est", "îles de Malaisie", "snorkeling", "plongée"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Voyageurs amateurs de plages et de récifs — plongeurs avec tuba et plongeurs en quête de sorties sur les îles des parcs marins, des plages pour routards aux complexes en formule tout compris.'
+  getThere: 'En bateau depuis la jetée continentale propre à chaque île : Merang pour Redang, Kuala Besut pour Perhentian et Marang pour Kapas au Terengganu, et Mersing ou Tanjung Gemok pour Tioman au Pahang.'
+  permit: 'Une redevance de conservation du parc marin obligatoire, payée à un guichet du terminal de la jetée continentale avant l''embarquement et distincte du prix de votre traversée en bateau.'
+  watch: 'Aucune fermeture unique imposée, mais la plupart des opérateurs insulaires cessent volontairement leur activité pendant la mousson du nord-est, alors à l''approche de ces mois confirmez les transferts en bateau avant de payer.'
+  next: 'Confirmez les redevances de conservation et les règles des parcs marins en vigueur auprès du Département des pêches de Malaisie (Department of Fisheries Malaysia).'
 ---
 
 Présentez-vous dans un complexe balnéaire de Redang en décembre et vous trouverez probablement les embarcations absentes, l'embarcadère silencieux et le centre de plongée fermé. Les îles de la côte est suivent un calendrier écrit par la mer, et non par la brochure touristique, et un ensemble de règles de parc marin que la plupart des nouveaux venus ne découvrent qu'au guichet.

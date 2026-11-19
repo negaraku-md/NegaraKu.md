@@ -91,6 +91,11 @@ relations:
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk pemerhati burung dan pencinta alam semula jadi yang mencari percutian tanah tinggi yang tenang dan beriklim sejuk dengan denai hutan serta pesona kolonial yang pudar, dan bukan hiburan malam atau tarikan besar.'
+  getThere: 'Tiada lapangan terbang atau landasan kereta api — anda memandu naik jalan gunung yang berliku dari Kuala Kubu Bharu ke The Gap, tempat pendakian terakhir bermula, dengan lalu lintas menaik dan menurun kini dibahagikan antara dua jalan (jalan asal berlorong tunggal dahulunya beroperasi sebagai sehala mengikut masa).'
+  watch: 'Jalan gunung yang sempit dan berliku adalah perlahan serta mudah ditutup selepas hujan, tanah runtuh atau pokok tumbang, dan bukit itu sendiri sering berkabus dan lembap, dengan pilihan makan dan bekalan yang terhad.'
+  next: 'Sahkan susunan akses jalan dan sebarang penutupan semasa dengan pihak berkuasa jalan (JKR) sebelum anda mengembara.'
 ---
 
 Kebanyakan pusat peranginan bukit Malaysia menjual anda sesuatu — kasino, ladang teh, ladang strawberi, taman tema. Bukit Fraser menjual anda ketiadaan semua itu. Terbentang merentasi sekelompok rabung berhutan di [banjaran Titiwangsa](/malaysia/titiwangsa-range), ia stesen era kolonial yang kecil, tenang dan berselimut kabus tempat bunyi paling kuat yang akan anda dengar ialah kicauan burung, dan tempat sehelai baju sejuk berhenti terasa mengarut walaupun di khatulistiwa. Bagi pemerhati burung ia hampir tanah suci; bagi yang lain ia alternatif perlahan dan rendah suasana kepada jiran tanah tinggi yang lebih gah. Panduan ini merangkumi apa sebenarnya Bukit Fraser, mengapa peminat burung datang, apa yang ada untuk dilihat, cara jalan berliku naik berfungsi, serta untuk siapa tempat ini sesuai dan tidak sesuai.

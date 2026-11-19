@@ -79,6 +79,12 @@ relations:
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "pasarela elevada", "gunung tahan", "perhilitan", "parque nacional malasia", "senderismo jungla", "selva tropical"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que buscan una selva tropical ancestral — la pasarela por las copas de los árboles, el senderismo por la jungla, los escondites de observación de fauna y las travesías fluviales — con base en el acceso de Kuala Tahan, en Pahang.'
+  getThere: 'Viaje por carretera hasta Jerantut, en Pahang, y tome luego un barco río arriba por el Sungai Tembeling desde el embarcadero de Kuala Tembeling hasta Kuala Tahan, con un enlace directo por carretera como alternativa.'
+  permit: 'Cada visitante se registra para obtener un permiso de entrada de PERHILITAN a la llegada en el embarcadero o el mostrador del parque, paga aparte una licencia de cámara y debe usar un guía autorizado para la ascensión al Gunung Tahan.'
+  watch: 'El monzón del nordeste puede crecer los ríos y alterar los barcos y los senderos, las pasarelas por las copas han sufrido cierres, y las sanguijuelas y la humedad son constantes — confirme el acceso y reserve los guías con antelación.'
+  next: 'Confirme las normas y tarifas vigentes de permisos y entrada con la oficina del Departamento de Fauna y Parques Nacionales (Department of Wildlife and National Parks, PERHILITAN) en Taman Negara Pahang.'
 ---
 
 De pie en el embarcadero de Kuala Tahan al amanecer, viendo la bruma levantarse de un río más antiguo que el Himalaya, es fácil olvidar que estás a apenas medio día de Kuala Lumpur. Taman Negara no es una atracción fabricada. Es una selva tropical viva que ha permanecido, en gran medida intacta, durante decenas de millones de años — y entrar en ella es más barato y sencillo de lo que casi cualquier viajero espera.

@@ -101,6 +101,12 @@ wikidata: "Q1412482"
 related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'Buceadores con certificación que buscan buceo de pared profunda de primer nivel mundial — tortugas, tornados de barracudas y tiburones de arrecife frente a la única isla oceánica de Malasia.'
+  getThere: 'Vuele al aeropuerto de Tawau, trasládese por carretera hasta la localidad de acceso de Semporna y tome luego un barco hasta las islas y los puntos de inmersión.'
+  permit: 'Bucear en Sipadan exige un permiso de Sabah Parks, y el número que se expide cada día está estrictamente limitado y se asigna únicamente a través de operadores de buceo autorizados — reserve con mucha antelación.'
+  watch: 'Las islas del este de Sabah se sitúan en una zona de seguridad designada (ESSZONE), los permisos nunca están garantizados y rigen límites de conservación (incluido un cierre anual) — viaje informado y consulte los avisos oficiales vigentes.'
+  next: 'Confirme el cupo vigente de permisos de Sipadan, las tarifas y cualquier cierre por conservación con Sabah Parks o su operador de buceo autorizado.'
 ---
 
 Un único pináculo cubierto de coral que se alza seiscientos metros directamente del fondo del mar de Célebes, bullendo de tortugas y tornados de barracudas — Sipadan es la razón por la que los buceadores serios ponen el este de Sabah en su lista, y la razón por la que toda una economía de viajes ha crecido en torno al pueblecito de Semporna. Pero no es un lugar al que simplemente puedas presentarte y bucear. Sipadan es un parque marino estrictamente protegido con un permiso diario limitado, sin alojamiento en la propia isla, y un contexto de zona de seguridad en la costa circundante que los primerizos necesitan entender con calma y rigor. Esta guía cubre qué hace que el buceo sea de categoría mundial, cómo funcionan en realidad el permiso y el límite diario, dónde te alojas, en qué se diferencia Sipadan del cercano Parque Marino de Tun Sakaran, a quién conviene la región, y cuándo ir.

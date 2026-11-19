@@ -90,6 +90,12 @@ wikidata: "Q220445"
 related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: '歩いて回れる川沿いの歴史都市を、ボルネオの熱帯雨林、オランウータン、国立公園への日帰り旅行のゆったりとした拠点にしたい、初めての旅行者や個人旅行者、家族連れ、文化遺産や野生生物の愛好家に。'
+  getThere: 'サラワク南部の主要な空の玄関口であるKuching International Airport（KCH）に飛び、クアラルンプールやマレーシア国内・地域の他のハブからの便が接続している。'
+  permit: 'サラワクは独自の入国管理を行っており、半島マレーシアからの国内線であっても全員が到着時に入境審査を受け——外国人は別途サラワクの入境スタンプを受けるため、常にパスポートを携行すること。'
+  watch: 'Semenggohでのオランウータンとの遭遇は決して保証されず、半野生の類人猿は周囲の森で自由に採食しているため、見られれば幸運と考え、約束されたものとは見なさないこと。'
+  next: '出発前に、現在のサラワク入境要件や公園・祭りの時期は、Sarawak Tourism Boardおよび各公園の公式運営者で確認すること。'
 ---
 
 クチンの川辺は一晩で端から端まで歩くことができ、その道すがら植民地時代の砦、ラジャの宮殿、華人の廟を通り過ぎ、ボルネオ随一の麺の丼を食べ、巨大な猫の像とポーズをとる——しかもすべて街を離れることなく、です。クチンはサラワク州の州都にして最大の都市で、ボルネオ島のサラワク州南西端のサラワク川のほとりに位置します（[Wikipedia](https://en.wikipedia.org/wiki/Kuching)；[Wikidata](https://www.wikidata.org/wiki/Q220445)）。ほとんどのサラワクの旅が始まる、くつろいだ川の街の拠点です。本ガイドは、街そのもの——そのウォーターフロント、ブルック時代の歴史、チャイナタウンと博物館、そして猫——と、それを取り巻く熱帯雨林と野生生物への発射台としてどう機能するかを扱います。

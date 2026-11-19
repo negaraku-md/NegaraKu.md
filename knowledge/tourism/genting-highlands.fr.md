@@ -88,6 +88,12 @@ relations:
 related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Familles, excursionnistes à la journée et vacanciers du week-end venus de Kuala Lumpur qui recherchent des parcs à thème, le climat frais de l''altitude, du shopping et des spectacles plutôt qu''une nature paisible.'
+  getThere: 'À environ une heure de route de Kuala Lumpur en montant l''autoroute et la route de montagne, ou garez-vous à mi-hauteur près des Genting Highlands Premium Outlets et prenez la télécabine Awana SkyWay jusqu''au sommet de SkyAvenue.'
+  permit: 'Le casino n''admet que les non-musulmans et exige un âge minimum, des contrôles d''identité et une tenue correcte.'
+  watch: 'Le sommet est souvent enveloppé de nuages, froid et humide, avec des vues qui vont et viennent, et les week-ends et jours fériés amènent une forte affluence et de longues files d''attente.'
+  next: 'Confirmez les règles d''entrée en vigueur pour les parcs à thème, la télécabine et le casino auprès de Resorts World Genting.'
 ---
 
 Montez la route de montagne hors de la chaleur de Kuala Lumpur et, quelque part après le milieu du parcours, les vitres commencent à s'embuer et l'air se rafraîchit. En moins d'une heure après avoir quitté la capitale, vous pouvez vous tenir dans les nuages à près de 1,800 mètres, devant une ville-station au néon empilée au sommet d'une montagne. Ce contraste — plaine tropicale en bas, sommet frais et brumeux en haut, accessible en une matinée — est toute la proposition de Genting Highlands. Ce guide couvre ce qu'il est réellement, comment y monter, ce qu'il y a à faire, comment aborder le casino avec bon sens, et les erreurs qui piègent les débutants.

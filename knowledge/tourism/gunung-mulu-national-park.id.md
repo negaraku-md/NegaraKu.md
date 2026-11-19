@@ -84,6 +84,12 @@ wikidata: "Q61535"
 related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'Penjelajah gua, pendaki petualang, dan pelancong alam yang menyusun rencana perjalanan Borneo — karst Warisan Dunia UNESCO, gua pertunjukan pemecah rekor, dan eksodus kelelawar Deer Cave.'
+  getThere: 'Hanya dengan pesawat kecil — tidak ada jalan darat masuk. Terbanglah ke Bandara Mulu (biasanya penerbangan singkat dari Miri), lalu daftarkan diri di markas besar taman.'
+  permit: 'Daftarkan diri di markas besar taman; gua pertunjukan, penelusuran gua petualangan, dan Pinnacles semuanya memerlukan pemandu berlisensi serta pemesanan di muka — pesanlah berminggu-minggu hingga berbulan-bulan sebelumnya.'
+  watch: 'Hutan hujan khatulistiwa tanpa musim kemarau yang dapat diandalkan — pendakian Pinnacles dan eksodus kelelawar bergantung cuaca dan dibatalkan saat hujan lebat, jadi sediakan hari cadangan. Batas bagasi pesawat kecil berlaku.'
+  next: 'Konfirmasikan jadwal penerbangan, kamar, aturan aktivitas berpemandu, dan biaya terkini dengan situs resmi taman (mulupark.com) dan Sarawak Tourism Board.'
 ---
 
 Jauh di dalam hutan hujan Sarawak, tempat gunung batu kapur menjulang lurus dari belantara dan tidak ada jalan yang mencapainya, terletak salah satu lanskap paling luar biasa di Malaysia — dan salah satu kawasan gua paling banyak dipelajari di planet ini. Taman Nasional Gunung Mulu adalah tempat Anda menemukan ruang gua terbesar di dunia, lorong gua yang cukup besar untuk menerbangkan jumbo jet melewatinya, sungai malam berupa jutaan kelelawar, dan hutan di puncak bukit berupa bilah batu kapur yang cukup tajam untuk merobek sepatu bot. Ia juga benar-benar terpencil: Anda tiba dengan pesawat kecil, pergi ke hampir mana saja dengan pemandu, dan memesan berbulan-bulan lebih awal. Panduan ini mencakup apa itu Mulu, apa yang bisa dilihat di bawah tanah dan di atasnya, dua pendakian besar, bagaimana akses bekerja, serta kesalahan yang dibuat pendatang pertama kali.

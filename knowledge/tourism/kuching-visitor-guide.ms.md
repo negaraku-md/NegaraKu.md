@@ -90,6 +90,12 @@ wikidata: "Q220445"
 related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara kali pertama dan bebas, keluarga serta pencinta warisan atau hidupan liar yang mahukan bandar warisan tepi sungai yang boleh dijelajahi dengan berjalan kaki sebagai pangkalan santai untuk perjalanan sehari ke hutan hujan Borneo, orangutan dan taman negara.'
+  getThere: 'Terbang ke Kuching International Airport (KCH), pintu masuk udara utama ke selatan Sarawak, dengan sambungan dari Kuala Lumpur dan hab Malaysia serta serantau yang lain.'
+  permit: 'Sarawak mengendalikan imigresennya sendiri, jadi semua orang melepasi semakan sempadan ketika ketibaan walaupun dengan penerbangan domestik dari Semenanjung Malaysia — warga asing menerima cap kemasukan Sarawak yang berasingan, jadi bawa pasport anda sepanjang masa.'
+  watch: 'Penampakan orangutan di Semenggoh tidak pernah dijamin, kerana mawas separa liar itu bebas mencari makanan di hutan sekeliling — anggap sebarang penampakan sebagai bonus, bukan janji.'
+  next: 'Sahkan keperluan kemasukan Sarawak serta waktu taman atau perayaan semasa dengan Sarawak Tourism Board dan pengendali rasmi taman sebelum anda mengembara.'
 ---
 
 Anda boleh berjalan sepanjang tepi sungai Kuching dalam satu petang, melepasi kubu kolonial, istana Rajah dan tokong Cina dalam perjalanan, memakan salah satu mangkuk mi hebat Borneo, dan bergambar dengan patung kucing gergasi — semuanya tanpa meninggalkan bandar. Kuching ialah ibu negeri dan bandar terbesar Sarawak, terletak di Sungai Sarawak di hujung barat daya negeri di pulau Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Ia pangkalan bandar sungai yang santai tempat kebanyakan perjalanan Sarawak bermula. Panduan ini merangkumi bandar itu sendiri — kawasan tepi sungainya, sejarah era Brookenya, Pekan Cina dan muziumnya, serta kucingnya — dan cara ia berfungsi sebagai landasan pelancar untuk hutan hujan dan hidupan liar yang mengelilinginya.

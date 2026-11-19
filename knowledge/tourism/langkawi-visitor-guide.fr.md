@@ -104,6 +104,12 @@ relations:
 related: ["kedah"]
 keywords: ["Langkawi", "île franche", "géoparc mondial de l'UNESCO", "SkyCab", "SkyBridge", "saut d'île en île", "Kilim", "Dayang Bunting", "mer d'Andaman", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'Visiteurs venant pour la première fois, familles et voyageurs aux intérêts variés en quête de plages, de shopping hors taxes et du Géoparc UNESCO — la télécabine SkyCab, le SkyBridge et le saut d''île en île dans la mangrove — plus que de plongée de niveau mondial.'
+  getThere: 'Prenez un vol vers l''aéroport international de Langkawi (LGK), ou traversez par ferry de passagers jusqu''à la jetée de Kuah depuis les jetées continentales de Kuala Kedah et Kuala Perlis.'
+  permit: 'Les prix hors taxes de Langkawi ne s''appliquent que sur l''île ; les marchandises rapportées sur le continent relèvent de la franchise nationale des voyageurs de Malaisie, qui fixe une durée minimale de séjour ouvrant droit et plafonne l''alcool, le tabac et les souvenirs que vous pouvez rapporter en franchise de droits.'
+  watch: 'N''achetez pas trop d''alcool hors taxes pour le rapporter chez vous — les prix bas sont faits pour en profiter sur l''île, et seule une franchise limitée passe la douane sur le continent.'
+  next: 'Confirmez les horaires des ferries en vigueur auprès des opérateurs de ferry, et les franchises hors taxes auprès du Département royal des douanes de Malaisie (Royal Malaysian Customs Department, RMCD).'
 ---
 
 Quatre-vingt-dix-neuf îles, des roches plus anciennes que les poissons, du whisky bon marché et un téléphérique accroché au flanc d'une montagne bâtie de roche estimée à plus de 550 millions d'années — Langkawi concentre une quantité inhabituelle de choses dans un seul archipel au large de la pointe nord-ouest de la Malaisie. C'est l'île de vacances phare de la côte ouest du pays, et elle fonctionne selon une logique presque opposée à celle des îles de plongée bordées de palmiers de l'autre côté de la péninsule. Ce guide couvre ce qui compte réellement avant de partir : les règles de la zone franche qui font trébucher les gens, le géoparc de l'UNESCO qui donne au paysage son histoire, le SkyCab et le SkyBridge, les excursions en bateau qui valent la peine, et comment choisir entre Langkawi et la côte est.

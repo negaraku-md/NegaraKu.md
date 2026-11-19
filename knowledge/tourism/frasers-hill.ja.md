@@ -90,7 +90,12 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'ナイトライフや大きな見どころよりも、ジャングルの小道と色あせた植民地時代の趣が残る、静かで涼しい高原の隠れ家を求める野鳥観察者や自然愛好家に。'
+  getThere: '空港も鉄道もなく、Kuala Kubu Bharuから曲がりくねった山道を上ってThe Gapに至り、そこから最後の登りが始まる形で、現在は上り下りの交通が2本の道路に分けられている（かつての一車線の旧道は時間帯で一方通行として運用されていた）。'
+  watch: '狭く曲がりくねった山道は進みが遅く、雨、地滑り、倒木の後に通行止めになりやすいうえ、丘自体もしばしば霧がかかって湿っており、飲食店や物資も限られている。'
+  next: '出発前に、現在の道路アクセスの取り決めや通行止めの有無を道路当局（JKR）に確認すること。'
 ---
 
 マレーシアの高原の避暑地のほとんどは、あなたに何かを売ります——カジノ、茶園、イチゴ農園、テーマパークを。フレイザーズ・ヒルは、そのすべての不在を売ります。[ティティワンサ山脈](/ja/malaysia/titiwangsa-range)の森に覆われた尾根の集まりに広がる、小さく静かで霧に包まれた植民地時代の避暑地で、聞こえる最も大きな音が鳥のさえずりであり、赤道でさえセーターがばかばかしく感じられなくなる場所です。野鳥観察者にとっては神聖な地に近く、それ以外のすべての人にとっては、より派手な高原の隣人たちへの、ゆっくりした控えめな代替です。本ガイドは、フレイザーズ・ヒルが実際に何であるか、なぜ野鳥観察者が来るのか、何が見られるか、曲がりくねった登りの道がどう機能するか、そしてこの場所が誰に向いていて誰に向いていないかを扱います。

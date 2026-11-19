@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Convient aux voyageurs amateurs de patrimoine et de gastronomie et aux familles souhaitant une vieille ville coloniale parcourable à pied, des temples troglodytes calcaires et la célèbre scène des kopitiam du Perak.'
+  getThere: 'Rejoignez Ipoh par le train électrique KTM ETS depuis KL Sentral jusqu''à la gare de la vieille ville, ou empruntez l''autoroute Nord-Sud ; des bus express desservent également la ville.'
+  permit: 'Les temples troglodytes sont des lieux de culte actifs, habillez-vous donc modestement (couvrez épaules et genoux) et restez silencieux à l''intérieur.'
+  watch: 'Malgré des brochures touristiques approximatives, la vallée de Kinta est un géoparc national, et non un Géoparc mondial UNESCO.'
+  next: 'Confirmez les horaires et les tarifs des trains en vigueur auprès de KTMB avant de voyager.'
 ---
 
 L'étain a fait Ipoh, puis a failli la défaire. Un village sur la rivière Kinta est devenu l'une des villes les plus riches de la Malaisie britannique grâce au minerai enfoui sous la vallée de Kinta, s'est construit un grand centre colonial, puis a vu l'argent s'écouler lorsque le prix de l'étain s'est effondré. Ce qu'elle a conservé, c'est l'architecture, les collines calcaires criblées de temples-grottes, et une cuisine inhabituellement bonne. Aujourd'hui, Ipoh est l'escapade urbaine patrimoine-et-cuisine la plus confortable de Malaisie — assez proche de Kuala Lumpur pour une excursion d'une journée, assez riche pour récompenser un week-end. Ce guide couvre le paysage et l'histoire qui l'ont façonné, ce qu'il y a à voir en ville et aux alentours, la cuisine en bref, et les aspects pratiques pour s'y rendre.

@@ -113,6 +113,12 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'Tốt nhất cho người đi trong ngày và người đi cuối tuần từ Singapore cùng các gia đình — bị thu hút bởi mua sắm và ẩm thực giá hời, cụm Legoland và công viên giải trí, các bãi biển Desaru Coast, và núi cùng rừng ngập mặn trong nội địa.'
+  getThere: 'Đến từ Singapore qua Causeway Johor–Singapore hoặc Second Link (cộng tàu KTM Shuttle Tebrau), và từ phần còn lại của Malaysia bằng xe khách đường dài, tàu KTM liên tỉnh/ETS, hoặc Senai International Airport ngay phía bắc thành phố.'
+  permit: 'Mỗi lần qua lại là một biên giới quốc tế, nên hãy mang theo hộ chiếu hợp lệ và làm thủ tục nhập cảnh ở cả hai phía.'
+  watch: 'Causeway tắc nghẽn vào tối thứ Sáu, cuối tuần, kỳ nghỉ học của Singapore và các đêm trước ngày lễ công cộng, nên hãy qua sớm, tránh các giờ quay về cao điểm, và chuyển sang Second Link khi nó bị kẹt.'
+  next: 'Hãy xác nhận cách bố trí qua lại biên giới, RTS Link và giấy phép công viên hiện tại với các cơ quan giao thông chính thức của Malaysia và Singapore cùng cơ quan quản lý công viên liên quan trước khi bạn đi.'
 ---
 
 Hầu hết du khách gặp Johor tại một hàng dài biên giới — trong một chiếc xe trên Causeway, trên một chuyến xe buýt tại Second Link, hoặc trên chuyến tàu con thoi ngắn vào JB Sentral — và coi thành phố như một đoạn rẽ mua-sắm-và-ẩm-thực từ Singapore. Điều đó đánh giá thấp nó. Johor Bahru là thủ phủ của bang cực nam Malaysia và là cửa ngõ nơi bán đảo gặp nước cộng hòa đảo bên kia mặt nước, với một lõi di sản dễ đi bộ, một trong những cụm công viên chủ đề gia đình lớn nhất châu Á ngay trước cửa, và cả một bang phía sau nó: các bãi biển ở phía đông, rừng ngập mặn ở mũi phía nam, và núi non cùng rừng mưa trong nội địa. Cẩm nang này bao gồm cách các cửa khẩu hoạt động, có gì để làm trong thành phố, các công viên chủ đề, bờ biển và nội địa, Johor phù hợp với ai, và một sai lầm bắt gần như tất cả mọi người — tính sai thời điểm vượt biên.

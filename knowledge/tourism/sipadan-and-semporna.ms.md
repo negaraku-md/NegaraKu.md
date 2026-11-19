@@ -101,6 +101,12 @@ wikidata: "Q1412482"
 related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk penyelam skuba bertauliah yang mencari penyelaman dinding dalam bertaraf dunia — penyu, pusaran barakuda dan jerung terumbu di perairan satu-satunya pulau samudera Malaysia.'
+  getThere: 'Terbang ke Tawau Airport, berpindah melalui jalan darat ke pekan pintu masuk Semporna, kemudian naik bot keluar ke pulau dan tapak menyelam.'
+  permit: 'Menyelam di Sipadan memerlukan permit Sabah Parks, dan bilangan yang dikeluarkan setiap hari dihadkan secara ketat dan diperuntukkan hanya melalui pengendali menyelam berlesen — tempah jauh lebih awal.'
+  watch: 'Pulau-pulau di timur Sabah terletak dalam zon keselamatan yang ditetapkan (ESSZONE), permit tidak pernah dijamin, dan had pemuliharaan (termasuk penutupan tahunan) terpakai — mengembara dengan maklumat dan semak nasihat rasmi semasa.'
+  next: 'Sahkan had permit Sipadan, yuran dan sebarang penutupan pemuliharaan semasa dengan Sabah Parks atau pengendali menyelam berlesen anda.'
 ---
 
 Satu menara tunggal berselimut karang yang menjulang enam ratus meter terus dari dasar Laut Sulawesi, berpusar dengan penyu dan puting beliung barakuda — Sipadan ialah sebab penyelam serius meletakkan timur Sabah dalam senarai mereka, dan sebab seluruh ekonomi pelancongan telah tumbuh di sekeliling pekan kecil Semporna. Tetapi ia bukan tempat yang boleh anda sekadar hadir dan selami. Sipadan ialah taman marin yang dilindungi ketat dengan permit harian yang dihadkan, tiada penginapan di pulau itu sendiri, dan konteks zon keselamatan di pantai sekitar yang perlu difahami oleh pendatang kali pertama dengan tenang dan berfakta. Panduan ini merangkumi apa yang menjadikan penyelaman bertaraf dunia, bagaimana permit dan had harian sebenarnya berfungsi, di mana anda menginap, bagaimana Sipadan berbeza daripada Taman Marin Tun Sakaran berdekatan, untuk siapa rantau ini sesuai, dan bila hendak pergi.

@@ -84,6 +84,12 @@ wikidata: "Q61535"
 related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'ボルネオの旅程を組む洞窟探検家、冒険的なトレッカー、自然派の旅行者に——UNESCO世界遺産のカルスト地形、記録破りの観光洞窟、そしてDeer Caveのコウモリの大群の飛び立ちが待っている。'
+  getThere: '道路は通じておらず、アクセスは小型機のみ——Mulu空港へ（通常はMiriからの短いフライト）飛び、公園本部で登録する。'
+  permit: '公園本部で登録を行い、観光洞窟、アドベンチャー・ケイビング、Pinnaclesはいずれも公認ガイドと事前予約が必須で、数週間から数か月前に押さえておくこと。'
+  watch: '確実な乾季のない赤道直下の熱帯雨林で、Pinnaclesの登攀とコウモリの飛び立ちは天候次第であり、豪雨の際は中止されるため、予備日を組み込んでおくこと。小型機には手荷物の重量制限が適用される。'
+  next: '現在のフライト、宿泊、ガイド付きアクティビティの規則と料金は、公園の公式サイト（mulupark.com）およびSarawak Tourism Boardで確認すること。'
 ---
 
 サラワクの熱帯雨林の奥深く、石灰岩の山々がジャングルからまっすぐそびえ、道路の届かないところに、マレーシアで最も並外れた景観の一つ——そして地球上で最もよく研究された洞窟地域の一つ——があります。グヌン・ムル国立公園は、世界最大の洞窟空間、ジャンボジェットが通り抜けられるほど大きな洞窟通路、夜ごとの数百万匹のコウモリの川、そしてブーツを切り裂くほど鋭い石灰岩の刃の森が、丘の上にある場所です。それはまた本当に辺境です。小型機で到着し、ほとんどどこへもガイドとともに行き、数か月前に予約します。本ガイドは、ムルとは何か、地下と地上に何が見られるか、二つの大きなトレック、アクセスの仕組み、そして初めての人が犯す間違いを扱います。

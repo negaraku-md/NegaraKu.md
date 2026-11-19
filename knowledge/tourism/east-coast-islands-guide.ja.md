@@ -71,7 +71,13 @@ relations:
   - { rel: "related-to", to: "northeast-monsoon" }
 related: []
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'ビーチとリーフを楽しむ旅行者に——バックパッカー向けのビーチからパッケージ型リゾートまで、海洋公園の島を巡りたいシュノーケラーやダイバー向け。'
+  getThere: '各島それぞれの本土側の桟橋からボートで渡る：トレンガヌではRedangへMerang、PerhentianへKuala Besut、KapasへMarang、パハンではTiomanへMersingまたはTanjung Gemok。'
+  permit: '乗船前に本土の桟橋ターミナルの窓口で支払う、ボート料金とは別の義務的な海洋公園保全料。'
+  watch: '一律に定められた閉鎖期間はないが、ほとんどの島の業者は北東モンスーンの時期に自主的に休業するため、その時期が近い場合は支払う前にボートの運航を確認すること。'
+  next: '現在の保全料と海洋公園の規則は、Department of Fisheries Malaysiaで確認すること。'
 ---
 
 12月にルダンのビーチリゾートに現れると、ボートは姿を消し、桟橋は静まり返り、ダイビングショップはシャッターを下ろしているのに出くわす公算が大きい。東海岸の島々は、旅行パンフレットではなく海が書いたカレンダーに従って動いている——そして、多くの初心者がチケットカウンターで初めて知ることになる一連の海洋公園のルールにも従っている。

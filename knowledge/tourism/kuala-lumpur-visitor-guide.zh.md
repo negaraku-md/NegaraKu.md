@@ -98,6 +98,12 @@ relations:
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: '适合想要一段短暂轻松城市停留的首次国际到访者，以及以吉隆坡为基地再前往马来西亚各地的旅客。'
+  getThere: '从吉隆坡国际机场（KLIA）搭乘 KLIA Ekspres 列车直达 KL Sentral 枢纽，再换乘 MRT、LRT、单轨列车或 Grab 继续前行。'
+  permit: '国油双峰塔（Petronas Twin Towers）采分时段门票且每日名额有限，故请提前在线预订，而非指望现场购票。'
+  watch: '市中心高峰时段交通繁忙，故跨城出行时列车通常比汽车更快。'
+  next: '请向国油双峰塔官方网站（petronastwintowers.com.my）确认当前的开放时间与购票安排。'
 ---
 
 在拂晓时分降落吉隆坡国际机场，一小时之内，你就可以站在两座曾经称霸全球天际线的银色高塔之下——不需要租车，不需要复杂的规划，只需一趟列车和一张刷卡即可。这份从容正是吉隆坡的意义所在：它是马来西亚的大门，一座紧凑而经济实惠的首都，主要景点之间只隔着一小段轨道车程，而这个国家几乎每一段后续旅程都从这里开始。

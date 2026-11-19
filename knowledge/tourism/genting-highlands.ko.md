@@ -88,6 +88,12 @@ relations:
 related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: '조용한 자연보다 테마파크, 시원한 고원 날씨, 쇼핑과 공연을 원하는 쿠알라룸푸르발 가족, 당일치기 여행자, 주말 여행자에게 적합합니다.'
+  getThere: '쿠알라룸푸르에서 고속도로와 산길로 약 한 시간 운전 거리이거나, 겐팅하일랜즈 프리미엄 아웃렛(Genting Highlands Premium Outlets) 근처 중턱에 주차한 뒤 아와나 스카이웨이(Awana SkyWay) 곤돌라를 타고 스카이애비뉴(SkyAvenue) 정상까지 오릅니다.'
+  permit: '카지노는 비무슬림만 입장할 수 있으며, 최소 연령, 신분 확인, 복장 규정을 요구합니다.'
+  watch: '정상은 자주 구름에 싸이고 춥고 비가 와 전망이 나타났다 사라지며, 주말과 공휴일에는 인파가 몰려 긴 줄이 생깁니다.'
+  next: '현재의 테마파크, 케이블카, 카지노 입장 규정은 Resorts World Genting에 확인하십시오.'
 ---
 
 쿠알라룸푸르의 더위를 벗어나 산길을 오르다 보면, 중간쯤 어딘가에서 창문이 뿌옇게 흐려지고 공기가 차가워집니다. 수도를 떠난 지 한 시간 안에 거의 1,800미터의 구름 속에, 산꼭대기에 쌓인 네온 리조트 도시 앞에 서 있을 수 있습니다. 그 대비 — 아래의 열대 저지대, 위의 서늘하고 안개 낀 정상, 한나절이면 닿는 — 가 겐팅 하이랜드의 전부입니다. 이 가이드는 그것이 실제로 무엇인지, 어떻게 올라가는지, 무엇을 할 수 있는지, 카지노를 어떻게 분별 있게 대할지, 그리고 첫 방문객이 걸려드는 실수를 다룹니다.

@@ -84,6 +84,12 @@ wikidata: "Q61535"
 related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: '보르네오 일정을 짜는 동굴 탐험가, 모험 트레커, 자연 여행자에게 적합합니다 — UNESCO 세계유산 카르스트, 기록적인 규모의 관광 동굴, 그리고 디어 동굴(Deer Cave)의 박쥐 떼 출현을 만날 수 있습니다.'
+  getThere: '도로가 없어 소형 비행기로만 들어갑니다 — 멀루 공항(Mulu Airport)으로 날아가(보통 미리에서 짧게 연결), 공원 본부에서 등록하십시오.'
+  permit: '공원 본부에서 등록하며, 관광 동굴, 모험 동굴 탐험, 피너클스(Pinnacles)는 모두 면허 가이드와 사전 예약이 필요하니 몇 주에서 몇 달 전에 예약하십시오.'
+  watch: '믿을 만한 건기가 없는 적도 우림이어서 피너클스 등반과 박쥐 떼 출현은 날씨에 좌우되고 폭우 시 취소되므로 여유 일정을 두고, 소형 비행기 수하물 제한도 적용됩니다.'
+  next: '현재의 항공편, 객실, 가이드 활동 규정과 요금은 공원 공식 사이트(mulupark.com)와 사라왁 관광청(Sarawak Tourism Board)에서 확인하십시오.'
 ---
 
 사라왁의 열대우림 깊숙이, 석회암 산이 정글에서 곧장 솟아오르고 어떤 도로도 닿지 않는 곳에, 말레이시아에서 가장 비범한 경관 중 하나이자 지구상에서 가장 많이 연구된 동굴 지역 중 하나가 자리합니다. 구눙 물루 국립공원은 세계에서 가장 큰 동굴 챔버, 점보제트기가 날아 지날 만큼 큰 동굴 통로, 밤마다 흐르는 수백만 마리 박쥐의 강, 그리고 부츠를 찢을 만큼 날카로운 석회암 칼날의 언덕 숲을 품은 곳입니다. 이곳은 진정으로 외딥니다: 소형 비행기로 도착하고, 거의 모든 곳을 가이드와 함께 가며, 수개월 전에 예약합니다. 이 가이드는 물루가 무엇인지, 지하와 지상에 무엇이 있는지, 두 개의 큰 트레킹, 접근이 어떻게 이루어지는지, 그리고 첫 방문객이 저지르는 실수를 다룹니다.

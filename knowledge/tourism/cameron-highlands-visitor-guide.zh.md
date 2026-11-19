@@ -84,7 +84,13 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: '适合想在高原避暑两到三天的行程规划者，以丹那拉打（Tanah Rata）或碧兰璋（Brinchang）为基地，将茶园、草莓与花卉农场，以及由向导带领的原住民村落或迷雾森林（Mossy Forest）步行结合起来。'
+  getThere: '没有机场或铁路通达这片高原——须自驾或乘车，从打巴（Tapah）、劳勿／瓜拉立卑一侧（在冷力 Ringlet 交汇）或北面的实兆班底（Simpang Pulai）沿公路上山，并有公共巴士从打巴开往丹那拉打。'
+  permit: '进入高原无需公园准证；BOH 茶园的工厂参观免费，而原住民村落参观则应透过信誉良好的本地向导或旅行社安排。'
+  watch: '别把它当作一座城镇——它是三处各有分工的聚落——且茶园逢星期一休息，高原天气变化又快，故每日行程可能临时调整。'
+  next: '请直接向各景点确认当前的开放时间与星期一休息情况——茶园请查 BOH Plantations 官方网站（bohtea.com），农场与花园景点请查金马伦高原县议会（MDCH）。'
 ---
 
 在丹那拉打（Tanah Rata）下了巴士，你首先注意到的是自己呼出的白气——空气凉爽到即便身处赤道，穿件毛衣也不再显得可笑。这正是金马仑高原的精髓所在：一块温带高地叠加在热带马来西亚之上，茶树在山脊上织出整齐的绿色灯芯绒，草莓则在路旁的塑料棚里成熟。

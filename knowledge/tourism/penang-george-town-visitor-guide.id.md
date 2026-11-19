@@ -85,6 +85,11 @@ relations:
 related: ["tourist-safety-health-practical-tips"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Pelancong yang ingin menjelajahi inti warisan UNESCO yang mudah dijelajahi dengan berjalan kaki berupa rumah toko, rumah marga, seni jalanan Ernest Zacharevic, dan kuliner jajanan multikultural dengan berjalan kaki.'
+  getThere: 'Terbanglah ke Bandara Internasional Penang di selatan George Town, atau capai pulau melalui jalan darat lewat Jembatan Penang dan Jembatan Sultan Abdul Halim Muadzam Shah, atau naik Rapid Ferry dari Butterworth ke tepi laut George Town.'
+  watch: 'Perlakukan seni jalanan sebagai gerbang, bukan keseluruhan cerita, karena rumah marga, kuil, dan jalan rumah toko itulah yang sebenarnya dilindungi oleh penetapan UNESCO.'
+  next: 'Konfirmasikan jadwal dan aturan funikular terkini dengan Penang Hill Corporation.'
 ---
 
 Mendarat di pulau, melangkah keluar dari pendingin udara, dan hal pertama yang menerpa Anda adalah bau — asap wajan, wangi dupa dari kelenteng Tionghoa, kamboja, dan garam Selat Melaka. George Town adalah tempat yang Anda baca dengan kaki: satu grid padat rumah toko berusia seabad tempat masjid, rumah kongsi dan gereja kolonial bisa berbagi satu blok yang sama. Panduan ini merangkum apa yang perlu dilihat, di mana makan, cara mencapai pantai dan bukit, dan berapa lama waktu yang perlu diberikan kepada sebuah kota yang menghargai kelambatan.

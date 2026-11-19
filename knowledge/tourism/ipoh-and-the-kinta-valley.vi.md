@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Phù hợp với du khách di sản và ẩm thực cùng các gia đình muốn một phố cổ thuộc địa đi bộ được, các đền hang đá vôi, và nền ẩm thực kopitiam nổi tiếng của Perak.'
+  getThere: 'Đến Ipoh bằng tàu điện KTM ETS từ KL Sentral vào ga Phố Cổ, hoặc lái theo Đường cao tốc Bắc-Nam; xe khách tốc hành cũng phục vụ thành phố.'
+  permit: 'Các đền hang là nơi thờ phụng đang hoạt động, nên hãy ăn mặc kín đáo (che vai và đầu gối) và giữ yên lặng bên trong.'
+  watch: 'Dù tài liệu du lịch mô tả thiếu chính xác, Kinta Valley là một geopark quốc gia, không phải một UNESCO Global Geopark.'
+  next: 'Hãy xác nhận thời gian biểu và giá vé tàu hiện tại với KTMB trước khi đi.'
 ---
 
 Thiếc tạo nên Ipoh, và rồi nó gần như hủy hoại thành phố. Một làng trên sông Kinta biến thành một trong những thị trấn giàu nhất của Malaya thuộc Anh nhờ sức mạnh của quặng chôn dưới Thung lũng Kinta, tự xây cho mình một trung tâm thuộc địa đồ sộ, rồi chứng kiến tiền của cạn đi khi giá thiếc sụp đổ. Thứ nó giữ lại là kiến trúc, những ngọn đồi đá vôi lỗ chỗ chùa hang, và một gian bếp xuất sắc một cách bất thường. Ngày nay Ipoh là kỳ nghỉ ngắn di sản-và-ẩm thực thoải mái nhất của Malaysia — đủ gần Kuala Lumpur cho một chuyến đi trong ngày, đủ phong phú để tưởng thưởng một kỳ cuối tuần. Cẩm nang này bao gồm cảnh quan và lịch sử đã định hình nó, có gì để xem trong và quanh thị trấn, ẩm thực tóm lược, và những điều thực tế về việc đến đó.

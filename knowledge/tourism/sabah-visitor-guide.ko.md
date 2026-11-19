@@ -93,7 +93,13 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: '보르네오의 대표 경험을 찾는 자연 우선 여행자에게 적합합니다 — 키나발루산 등반, 시파단의 보호된 산호초 다이빙, 그리고 산다칸 일대의 오랑우탄과 강 야생동물 관찰.'
+  getThere: '사바의 주요 항공 관문인 코타키나발루 국제공항으로 들어온 뒤, 산다칸, 타와우, 다이빙 지역으로 짧은 국내선으로 이어서 이동합니다.'
+  permit: '사바는 1963년 말레이시아 협정(Malaysia Agreement 1963)에 따라 자체 출입국 관리를 하므로 반도에서 들어오는 말레이시아인을 포함해 모든 입국자가 검문소를 거쳐 방문 패스를 받으며, 키나발루산 등반과 시파단 다이빙은 각각 정원이 제한된 Sabah Parks 허가로 통제됩니다.'
+  watch: '허가제로 희소한 대표 명소는 넉넉히 앞서 예약하고, 산호초 회복을 위한 시파단의 연례 11월 휴장에 맞춰 계획하십시오. 이 자리들은 매진되고 도착해서는 확보할 수 없기 때문입니다.'
+  next: '출발 전에 현재의 입국·방문 패스 및 허가 규정을 말레이시아 이민청(Immigration Department of Malaysia)과 Sabah Parks에 확인하십시오.'
 ---
 
 쿠알라룸푸르에서 코타키나발루(Kota Kinabalu)까지 나라를 떠나지 않고 비행하고도 착륙하면 출입국 창구에 줄을 서게 됩니다. 이 의외의 사실은 많은 첫 방문객을 놀라게 하며 — 사바 여행을 계획하기 전에 이해해야 할 가장 중요한 한 가지입니다. 이 가이드는 관문, 주요 명소, 그리고 사바를 그 자체의 고유한 곳으로 느끼게 하는 입국 규정을 살펴봅니다. 어떤 매우 실질적인 의미에서 사바는 실제로 그러하기 때문입니다.

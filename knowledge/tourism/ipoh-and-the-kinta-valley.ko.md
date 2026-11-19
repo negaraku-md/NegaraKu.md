@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: '걸어서 둘러보는 식민지풍 올드타운, 석회암 동굴 사원, 그리고 페락이 자랑하는 코피티암 음식 문화를 원하는 유산·음식 여행자와 가족에게 적합합니다.'
+  getThere: 'KL 센트럴에서 KTM ETS 전기 열차로 올드타운역까지 들어오거나 남북 고속도로를 운전하며, 고속버스도 이 도시로 운행합니다.'
+  permit: '동굴 사원은 현재 예배가 이루어지는 곳이므로 단정하게 입고(어깨와 무릎을 가리고) 내부에서는 정숙하십시오.'
+  watch: '느슨한 관광 홍보 문구와 달리 킨타 밸리(Kinta Valley)는 국가 지질공원이지 UNESCO 세계지질공원이 아닙니다.'
+  next: '출발 전에 현재의 열차 시간표와 요금을 KTMB에 확인하십시오.'
 ---
 
 주석이 이포를 만들었고, 그다음 거의 무너뜨릴 뻔했습니다. 킨타강의 한 마을이 킨타 밸리 아래 묻힌 광석의 힘으로 영국령 말라야에서 가장 부유한 도시 중 하나로 변해 웅장한 콜로니얼 중심부를 짓고는, 주석 가격이 붕괴하자 돈이 빠져나가는 것을 지켜보았습니다. 남은 것은 건축, 동굴 사원으로 벌집처럼 뚫린 석회암 언덕, 그리고 유난히 훌륭한 주방이었습니다. 오늘날 이포는 말레이시아에서 가장 편안한 유산·음식 도시 휴식지입니다 — 당일 여행으로 가기에 쿠알라룸푸르에 충분히 가깝고, 주말을 보낼 만큼 풍부합니다. 이 가이드는 그 땅을 빚은 경관과 역사, 도시 안팎에서 볼 것, 음식을 간략히, 그리고 가는 실용 사항을 다룹니다.

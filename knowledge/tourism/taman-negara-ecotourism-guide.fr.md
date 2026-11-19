@@ -79,6 +79,12 @@ relations:
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "passerelle de canopée", "gunung tahan", "perhilitan", "parc national malaisie", "randonnée en jungle", "forêt tropicale"]
 framework: explainer
+visitFacts:
+  bestFor: 'Voyageurs en quête d''une forêt tropicale ancestrale — la passerelle dans la canopée, le trek en jungle, les affûts d''observation de la faune et les sorties en rivière — depuis la porte d''entrée de Kuala Tahan au Pahang.'
+  getThere: 'Rejoignez par la route Jerantut au Pahang, puis prenez un bateau remontant le Sungai Tembeling depuis la jetée de Kuala Tembeling jusqu''à Kuala Tahan, une liaison routière directe constituant l''alternative.'
+  permit: 'Chaque visiteur s''enregistre pour un permis d''entrée PERHILITAN à l''arrivée à la jetée ou au guichet du parc, paie une licence d''appareil photo distincte, et doit recourir à un guide agréé pour l''ascension du Gunung Tahan.'
+  watch: 'La mousson du nord-est peut faire gonfler les rivières et perturber les bateaux et les sentiers, les passerelles de la canopée ont déjà connu des fermetures, et les sangsues et l''humidité sont constantes — confirmez l''accès et réservez les guides à l''avance.'
+  next: 'Confirmez les règles et tarifs en vigueur de permis et d''entrée auprès du bureau du Département de la faune et des parcs nationaux (PERHILITAN) à Taman Negara Pahang.'
 ---
 
 Debout à l'embarcadère de Kuala Tahan à l'aube, à regarder la brume se lever d'une rivière plus ancienne que l'Himalaya, il est facile d'oublier que vous n'êtes qu'à une demi-journée de Kuala Lumpur. Taman Negara n'est pas une attraction fabriquée. C'est une forêt tropicale vivante qui est restée, en grande partie intacte, pendant des dizaines de millions d'années — et y entrer est moins cher et plus simple que presque aucun voyageur ne l'imagine.

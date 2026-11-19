@@ -93,7 +93,13 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mengutamakan alam semula jadi dan mencari pengalaman utama Borneo — mendaki Mount Kinabalu, menyelam terumbu terlindung Sipadan, dan melihat orangutan serta hidupan liar sungai di sekitar Sandakan.'
+  getThere: 'Terbang ke Kota Kinabalu International Airport, pintu masuk udara utama Sabah, kemudian naik penerbangan domestik singkat seterusnya ke Sandakan, Tawau dan wilayah menyelam.'
+  permit: 'Sabah mengawal imigresennya sendiri di bawah Perjanjian Malaysia 1963, jadi setiap ketibaan — termasuk rakyat Malaysia yang terbang masuk dari Semenanjung — melepasi pusat pemeriksaan dan menerima pas lawatan, manakala pendakian Mount Kinabalu dan penyelaman Sipadan masing-masing dikawal oleh permit Sabah Parks yang terhad.'
+  watch: 'Tempah tarikan utama yang terhad dan dikawal permit itu jauh lebih awal dan rancang mengikut penutupan tahunan Sipadan pada bulan November untuk pemulihan terumbu, kerana bahagian-bahagian ini habis dijual dan tidak boleh diperoleh ketika ketibaan.'
+  next: 'Sahkan peraturan kemasukan, pas lawatan dan permit semasa dengan Jabatan Imigresen Malaysia dan Sabah Parks sebelum anda mengembara.'
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kota Kinabalu tanpa meninggalkan negara ini dan tetap beratur di kaunter imigresen semasa mendarat. Kejutan itu menimpa ramai pelawat kali pertama — dan ia merupakan perkara paling penting untuk difahami sebelum anda merancang perjalanan ke Sabah. Panduan ini menerangkan pintu masuk, tarikan utama, dan peraturan masuk yang menjadikan Sabah seolah-olah tempat tersendiri, kerana dalam satu erti kata yang sangat nyata, memang begitulah keadaannya.

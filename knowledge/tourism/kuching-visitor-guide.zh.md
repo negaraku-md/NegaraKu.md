@@ -90,6 +90,12 @@ wikidata: "Q220445"
 related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: '适合首次到访与自由行旅客、家庭以及古迹或野生动物爱好者，他们想要一座可步行的河畔古迹城市，作为前往婆罗洲雨林、红毛猩猩与国家公园一日游的轻松基地。'
+  getThere: '飞抵古晋国际机场（KCH）——这是通往砂拉越南部的主要航空门户，与吉隆坡及马来西亚和区域内其他枢纽相连。'
+  permit: '砂拉越自行管理移民事务，故即便是从西马搭乘国内航班抵达，每个人也须办理边境查验——外国人会另获一枚砂拉越入境章，因此请全程随身携带护照。'
+  watch: '在实蒙谷（Semenggoh）目击红毛猩猩永无保证，因为这些半野生猿类可在周边森林自由觅食——请把任何目击都当作意外之喜，而非承诺。'
+  next: '出发前请向砂拉越旅游局（Sarawak Tourism Board）及各公园的官方营运方确认当前的砂拉越入境要求与公园或节庆的时间安排。'
 ---
 
 你可以在一个傍晚走完古晋滨水区的全长，沿途经过一座殖民城堡、一座拉者的宫殿和一座华人庙宇，吃上婆罗洲最出色的一碗面，再与一尊巨大的猫雕像合影——而这一切都无须离开城市。古晋是砂拉越的首府兼最大城市，坐落于婆罗洲岛上砂拉越州西南端的砂拉越河畔（[Wikipedia](https://en.wikipedia.org/wiki/Kuching)；[Wikidata](https://www.wikidata.org/wiki/Q220445)）。它是大多数砂拉越之旅起步的那座悠闲的河畔城市基地。本指南涵盖城市本身——它的滨水区、它的布鲁克时代历史、它的唐人街和博物馆，以及它的猫——以及它如何作为通往环绕其四周的雨林和野生动物的跳板。

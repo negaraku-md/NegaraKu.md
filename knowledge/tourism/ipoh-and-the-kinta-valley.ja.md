@@ -114,6 +114,12 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: '歩いて回れる植民地時代のOld Town、石灰岩の洞窟寺院、そしてペラ州の名高いkopitiamの食文化を求める、文化遺産や食の旅行者と家族連れに向いている。'
+  getThere: 'KL SentralからKTM ETS電車でOld Town駅まで行くか、North-South Expresswayを車で走ってIpohに到達し、都市間の長距離バスも市内に乗り入れている。'
+  permit: '洞窟寺院は現役の礼拝の場であるため、控えめな服装をし（肩と膝を覆う）、内部では静かにすること。'
+  watch: '緩い観光文句とは裏腹に、Kinta Valleyは国立ジオパークであって、UNESCO世界ジオパークではない。'
+  next: '出発前に、現在の列車の時刻表と運賃をKTMBで確認すること。'
 ---
 
 錫がイポーを作り、そしてそれが街をほとんど壊しかけました。キンタ川のほとりの村が、キンタ渓谷の地下に埋もれた鉱石を頼りに英領マラヤ屈指の富裕な街へと変わり、壮麗な植民地時代の中心部を築き、そして錫価格が暴落すると富が流れ去るのを見届けました。街が保ったのは、建築、洞窟寺院で穴だらけになった石灰岩の丘、そして並外れて優れた厨房です。今日のイポーは、マレーシアで最も居心地のよい遺産とグルメの都市休暇です——クアラルンプールから日帰りできるほど近く、週末を過ごすに値するほど豊かです。本ガイドは、それを形づくった景観と歴史、街の内外で何が見られるか、食を手短に、そして行き方の実際を扱います。

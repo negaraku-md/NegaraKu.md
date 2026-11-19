@@ -79,6 +79,12 @@ relations:
 related: ["orang-asli"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mencari hutan hujan tropika purba — laluan kanopi puncak pokok, pendakian hutan, pondok memerhati hidupan liar dan perjalanan sungai — berpangkalan di pintu masuk Kuala Tahan di Pahang.'
+  getThere: 'Mengembara melalui jalan darat ke Jerantut di Pahang, kemudian naik bot menyusur Sungai Tembeling dari jeti Kuala Tembeling ke Kuala Tahan, dengan sambungan jalan terus sebagai alternatif.'
+  permit: 'Setiap pelawat mendaftar untuk permit masuk PERHILITAN ketika ketibaan di jeti atau kaunter taman, membayar lesen kamera yang berasingan, dan mesti menggunakan pemandu berlesen untuk pendakian Gunung Tahan.'
+  watch: 'Monsun timur laut boleh membuak sungai serta mengganggu bot dan denai, laluan kanopi pernah ditutup, dan lintah serta kelembapan sentiasa ada — sahkan akses dan tempah pemandu lebih awal.'
+  next: 'Sahkan peraturan dan yuran permit serta kemasukan semasa dengan pejabat Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) di Taman Negara Pahang.'
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, memerhati kabus mengangkat dari sebatang sungai yang lebih tua daripada Banjaran Himalaya, mudah untuk lupa bahawa anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah tarikan buatan. Ia sebuah hutan hujan tropika yang hidup, yang telah berdiri, secara amnya tanpa gangguan, selama berpuluh-puluh juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang dijangkakan oleh hampir mana-mana pengembara.

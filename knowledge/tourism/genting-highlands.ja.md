@@ -88,6 +88,12 @@ relations:
 related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: '静かな自然よりも、テーマパーク、涼しい高原の気候、ショッピングやショーを求める、クアラルンプールからの家族連れ、日帰り客、週末旅行者に。'
+  getThere: 'クアラルンプールから高速道路と山道を車でおよそ1時間上るか、Genting Highlands Premium Outlets近くの中腹に車を停め、Awana SkyWayのゴンドラでSkyAvenueの山頂まで上がる。'
+  permit: 'カジノは非ムスリムのみ入場でき、最低年齢、本人確認、ドレスコードが求められる。'
+  watch: '山頂はしばしば雲に包まれて寒く湿っており、眺望は現れたり消えたりするうえ、週末や祝日には大勢の人出と長い行列が生じる。'
+  next: '現在のテーマパーク、ケーブルカー、カジノの入場規則は、Resorts World Gentingで確認すること。'
 ---
 
 クアラルンプールの暑さを抜けて山道を登っていくと、中間点を過ぎたあたりのどこかで、窓が曇り始め、空気が冷たくなります。首都を出て1時間のうちに、山頂に積み上げられたネオンのリゾート都市を前に、ほぼ1,800メートルの雲の中に立つことができます。その対比——下は熱帯の低地、上は涼しく霧がかった頂上、午前中で到達できる——こそがゲンティン・ハイランドのすべての売りです。本ガイドは、それが実際に何であるか、どうやって登るか、何ができるか、カジノとどう賢く向き合うか、そして初めての人を引っかける間違いを扱います。

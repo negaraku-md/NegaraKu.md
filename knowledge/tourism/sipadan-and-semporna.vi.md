@@ -101,6 +101,12 @@ wikidata: "Q1412482"
 related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho thợ lặn bình khí có chứng chỉ muốn lặn vách sâu đẳng cấp thế giới — rùa, lốc xoáy cá nhồng và cá mập rạn ngoài khơi hòn đảo đại dương duy nhất của Malaysia.'
+  getThere: 'Bay đến Tawau Airport, trung chuyển bằng đường bộ tới thị trấn cửa ngõ Semporna, rồi đi thuyền ra các đảo và điểm lặn.'
+  permit: 'Lặn Sipadan đòi hỏi một giấy phép Sabah Parks, và số lượng cấp mỗi ngày bị giới hạn nghiêm ngặt và chỉ phân bổ qua các nhà điều hành lặn có giấy phép — hãy đặt trước thật sớm.'
+  watch: 'Các đảo ở phía đông Sabah nằm trong một vùng an ninh được chỉ định (ESSZONE), giấy phép không bao giờ được bảo đảm, và các giới hạn bảo tồn (bao gồm một đợt đóng cửa thường niên) được áp dụng — hãy đi lại với đầy đủ thông tin và kiểm tra khuyến cáo chính thức hiện tại.'
+  next: 'Hãy xác nhận giới hạn giấy phép, phí Sipadan hiện tại và bất kỳ đợt đóng cửa bảo tồn nào với Sabah Parks hoặc nhà điều hành lặn có giấy phép của bạn.'
 ---
 
 Một đỉnh phủ san hô đơn lẻ vươn sáu trăm mét thẳng khỏi đáy Biển Celebes, cuộn xoáy với rùa và những cơn lốc cá nhồng — Sipadan là lý do những thợ lặn nghiêm túc đưa đông Sabah vào danh sách của họ, và là lý do cả một nền kinh tế du lịch đã mọc lên quanh thị trấn nhỏ Semporna. Nhưng nó không phải là một nơi bạn có thể chỉ đến và lặn. Sipadan là một công viên biển được bảo vệ nghiêm ngặt với một giấy phép hằng ngày bị giới hạn, không có chỗ ở trên chính hòn đảo, và một bối cảnh khu an ninh trên bờ biển xung quanh mà người lần đầu cần hiểu một cách bình tĩnh và dựa trên sự thật. Cẩm nang này bao gồm điều gì khiến nghề lặn đẳng cấp thế giới, hệ thống giấy phép và hạn ngạch hằng ngày thực sự vận hành ra sao, bạn lưu trú ở đâu, Sipadan khác với Công viên Biển Tun Sakaran lân cận như thế nào, ai phù hợp với khu vực, và khi nào nên đi.

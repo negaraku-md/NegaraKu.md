@@ -92,6 +92,12 @@ relations:
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mencari alam semula jadi Borneo dan budaya Dayak yang hidup, menggunakan Kuching yang santai dan boleh dijelajahi dengan berjalan kaki sebagai pangkalan untuk orangutan separa liar Semenggoh dan rumah panjang Bidayuh, dengan gua Warisan Dunia dan hutan hujan Gunung Mulu sebagai tambahan utama.'
+  getThere: 'Terbang masuk ke Kuching sebagai hab utama, dengan Gunung Mulu hanya boleh dicapai menerusi penerbangan MASwings (dari Miri, Kuching atau Kota Kinabalu) kerana tiada jalan yang praktikal ke taman itu.'
+  permit: 'Sarawak mengendalikan imigresennya sendiri, jadi semua orang — termasuk rakyat Malaysia dari Semenanjung — dilepasi dan dikeluarkan pas kemasukan ketika ketibaan (warga asing mendapat cap Sarawak berasingan di samping kemasukan Malaysia mereka, dan kebanyakannya mesti mengisi MDAC dalam talian terlebih dahulu), dan penerbangan Mulu serta lawatan gua berpandu sebaiknya ditempah lebih awal.'
+  watch: 'Pesawat kecil Mulu kerap lewat atau dibatalkan akibat cuaca, jadi sediakan hari penimbal dan jangan sekali-kali menempah sambungan seterusnya yang ketat keluar dari taman.'
+  next: 'Sahkan keperluan visa dan MDAC semasa untuk kewarganegaraan anda dengan Jabatan Imigresen Malaysia.'
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kuching dalam masa kurang dua jam, tidak pernah meninggalkan negara anda sendiri, namun masih dicop melalui imigresen di hujung sana. Kejutan di dewan ketibaan itulah perkara paling penting yang perlu difahami tentang Sarawak: ia sebuah negeri Malaysia yang mengendalikan sempadannya sendiri.

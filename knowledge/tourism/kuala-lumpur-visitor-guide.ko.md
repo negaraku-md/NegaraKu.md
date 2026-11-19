@@ -98,6 +98,12 @@ relations:
 related: []
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: '짧고 수월한 도시 체류를 원하는 첫 방문 외국인, 그리고 말레이시아의 다른 곳으로 떠나기 전 쿠알라룸푸르를 거점으로 삼는 여행자에게 적합합니다.'
+  getThere: '쿠알라룸푸르 국제공항(KLIA)에서 KLIA 에크스프레스(KLIA Ekspres) 열차를 타고 KL 센트럴(KL Sentral) 허브까지 무정차로 이동한 뒤, MRT, LRT, 모노레일 또는 그랩(Grab)으로 이어서 연결하십시오.'
+  permit: '페트로나스 트윈 타워 입장은 일일 인원이 제한된 시간 지정 티켓을 쓰므로, 현장 방문에 기대지 말고 온라인으로 미리 예약하십시오.'
+  watch: '도심 교통은 출퇴근 시간에 혼잡하므로, 시내를 가로지르는 이동에는 대개 열차가 자동차보다 빠릅니다.'
+  next: '페트로나스 트윈 타워의 현재 개장 시간과 티켓 정보는 공식 PETRONAS Twin Towers 사이트(petronastwintowers.com.my)에서 확인하십시오.'
 ---
 
 새벽에 쿠알라룸푸르 국제공항에 내리면, 한 시간 안에 한때 세계의 스카이라인을 지배했던 두 개의 은빛 타워 아래에 설 수 있습니다 — 렌터카도, 복잡한 계획도 없이, 그저 기차와 태그 카드 하나로. 그 수월함이 바로 KL의 핵심입니다. 말레이시아의 정문이자, 대표 명소들이 짧은 철도 이동 거리에 자리한 아담하고 저렴한 수도이며, 이 나라의 거의 모든 후속 여정이 시작되는 곳입니다.

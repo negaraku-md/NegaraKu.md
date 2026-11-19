@@ -90,6 +90,12 @@ wikidata: "Q220445"
 related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho du khách lần đầu và du khách độc lập, các gia đình cùng người yêu di sản hoặc động vật hoang dã muốn một thành phố di sản ven sông đi bộ được làm cơ sở thư thái cho các chuyến đi trong ngày tới rừng mưa Borneo, đười ươi và công viên quốc gia.'
+  getThere: 'Bay vào Kuching International Airport (KCH), cửa ngõ hàng không chính tới nam Sarawak, với các chuyến nối từ Kuala Lumpur cùng các trung tâm khác của Malaysia và khu vực.'
+  permit: 'Sarawak vận hành việc nhập cảnh riêng của mình, nên mọi người đều làm kiểm tra biên giới khi đến ngay cả trên một chuyến bay nội địa từ Bán đảo Malaysia — người nước ngoài nhận một con dấu nhập cảnh Sarawak riêng, nên hãy mang hộ chiếu suốt chuyến đi.'
+  watch: 'Việc gặp đười ươi tại Semenggoh không bao giờ được bảo đảm, vì những con vượn bán hoang dã được tự do kiếm ăn trong rừng xung quanh — hãy coi mọi lần gặp là một phần thưởng, không phải một lời hứa.'
+  next: 'Hãy xác nhận yêu cầu nhập cảnh Sarawak hiện tại và thời điểm diễn ra công viên hoặc lễ hội với Sarawak Tourism Board cùng các nhà điều hành chính thức của các công viên trước khi bạn đi.'
 ---
 
 Bạn có thể đi bộ hết chiều dài bờ sông của Kuching trong một buổi tối, đi qua một pháo đài thuộc địa, một cung điện của Rajah và một ngôi đền Hoa trên đường, ăn một trong những tô mì tuyệt vời của Borneo, và chụp ảnh với một tượng mèo khổng lồ — tất cả mà không rời thành phố. Kuching là thủ phủ và thành phố lớn nhất của Sarawak, nằm trên sông Sarawak ở mũi tây nam của bang trên đảo Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Nó là căn cứ thành phố-bên-sông thư thái mà hầu hết các chuyến đi Sarawak bắt đầu từ đó. Cẩm nang này bao gồm bản thân thành phố — bờ sông, lịch sử thời Brooke, Khu phố Tàu và các bảo tàng, cùng những con mèo của nó — và cách nó hoạt động như một bệ phóng cho rừng mưa và động vật hoang dã bao quanh nó.

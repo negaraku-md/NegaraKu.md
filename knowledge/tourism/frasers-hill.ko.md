@@ -90,7 +90,12 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: '유흥이나 대형 명소보다 밀림 트레일과 빛바랜 식민지풍 정취가 있는 조용하고 시원한 고원 휴양을 원하는 탐조가와 자연 애호가에게 적합합니다.'
+  getThere: '공항도 철도도 없어 쿠알라 쿠부 바루(Kuala Kubu Bharu)에서 더 갭(The Gap)까지 구불구불한 산길을 운전해 올라가면 마지막 등반이 시작되며, 올라가는 길과 내려오는 길이 이제 두 도로로 나뉘어 있습니다(원래의 단일 차선 도로는 역사적으로 시간제 일방통행으로 운영되었습니다).'
+  watch: '좁고 구불구불한 산길은 느리고 비, 산사태, 쓰러진 나무 이후 폐쇄되기 쉬우며, 언덕 자체도 자주 안개가 끼고 비가 오는 데다 식사와 물자도 제한적입니다.'
+  next: '출발 전에 현재의 도로 접근 방식과 폐쇄 여부를 도로 당국(JKR)에 확인하십시오.'
 ---
 
 말레이시아 고원 휴양지 대부분은 무언가를 팝니다 — 카지노, 차 농원, 딸기 농장, 테마파크. 프레이저스 힐은 그 모든 것의 부재를 팝니다. [티티왕사 산맥](/ko/malaysia/titiwangsa-range)의 숲으로 덮인 능선 군집에 펼쳐진 이곳은, 가장 큰 소리가 새소리이고 적도에서도 스웨터가 우스꽝스럽게 느껴지지 않는, 작고 조용하고 안개에 싸인 콜로니얼 시대 휴양지입니다. 탐조객에게는 거의 성지에 가깝고; 그 밖의 모두에게는 더 화려한 고원 이웃들의 느리고 수수한 대안입니다. 이 가이드는 프레이저스 힐이 실제로 무엇인지, 왜 탐조객이 오는지, 무엇을 볼 수 있는지, 올라가는 구불구불한 도로가 어떻게 작동하는지, 그리고 이곳이 누구에게 맞고 맞지 않는지를 다룹니다.

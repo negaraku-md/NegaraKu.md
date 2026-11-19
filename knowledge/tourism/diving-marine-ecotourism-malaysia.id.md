@@ -70,7 +70,13 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
-framework: rules
+framework: rules
+visitFacts:
+  bestFor: 'Penyelam dan perenkel rekreasi (serta operator yang memesankan mereka) yang merencanakan perjalanan taman laut Malaysia, dari terumbu semenanjung yang mudah dijangkau hingga penyelaman berbatas kuota di Sipadan.'
+  getThere: 'Taman di Semenanjung seperti Tioman, Redang, Perhentian, dan Tenggol dicapai dengan perahu dari dermaga daratan utama, sedangkan Sipadan di Sabah diselami dengan menginap di pulau-pulau tetangga seperti Mabul atau Kapalai dan menyeberang untuk perjalanan sehari dengan izin operator berlisensi.'
+  permit: 'Sipadan beroperasi dengan kuota izin harian yang dibatasi dan hanya dipegang oleh operator berlisensi, jadi Anda tidak bisa membelinya langsung dan harus memesan melalui operator yang memegang alokasi; taman laut federal (Jabatan Perikanan) sebaliknya mengenakan biaya konservasi yang dipungut di dermaga.'
+  watch: 'Anda tidak bisa memesan Sipadan langsung dan memerlukan setidaknya sertifikasi Advanced Open Water, dan kuota serta aturan selamnya ditinjau secara berkala, jadi konfirmasikan batas terkini dengan operator Anda sebelum merencanakan.'
+  next: 'Konfirmasikan biaya, izin, dan kuota terkini dengan Jabatan Perikanan Malaysia (Department of Fisheries Malaysia) untuk taman di Semenanjung dan dengan Sabah Parks untuk Sipadan.'
 ---
 
 Air paling jernih di Malaysia juga yang paling sulit dicapai: untuk menyelam ke dinding [Sipadan](/id/tourism/sipadan-and-semporna) Anda memerlukan izin pemerintah yang tidak dapat dibeli secara langsung dengan uang berapa banyak pun. Fakta tunggal itu menggambarkan cara negara ini mengelola pariwisata selamnya — akses dijatah, diberi harga, dan dibagi antara dua otoritas yang sangat berbeda bergantung pada laut mana yang ingin Anda selami.

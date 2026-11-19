@@ -113,6 +113,12 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'Idéal pour les excursionnistes et vacanciers du week-end venus de Singapour et pour les familles — attirés par le shopping et la gastronomie à bon prix, le pôle Legoland et parcs à thème, les plages de la Desaru Coast, et les montagnes et mangroves de l''intérieur.'
+  getThere: 'Accessible depuis Singapour par la chaussée Johor–Singapour (Causeway) ou le Second Link (ainsi que le train KTM Shuttle Tebrau), et depuis le reste de la Malaisie par bus longue distance, par le rail interurbain KTM/ETS, ou par l''aéroport international de Senai juste au nord de la ville.'
+  permit: 'Chaque passage est une frontière internationale, munissez-vous donc d''un passeport valide et passez l''immigration des deux côtés.'
+  watch: 'La Causeway s''engorge le vendredi soir, le week-end, pendant les vacances scolaires de Singapour et les veilles de jours fériés, alors traversez tôt, évitez les heures de pointe du retour et basculez sur le Second Link lorsqu''elle est bloquée.'
+  next: 'Confirmez les modalités en vigueur de passage frontalier, de RTS Link et de permis de parc auprès des autorités de transport officielles malaisienne et singapourienne et de l''autorité du parc concernée avant de voyager.'
 ---
 
 La plupart des visiteurs rencontrent le Johor dans une file à la frontière — en voiture sur le Causeway, en bus au Second Link, ou dans le court train navette vers JB Sentral — et traitent la ville comme un détour shopping-et-cuisine depuis Singapour. C'est la vendre trop court. Johor Bahru est la capitale de l'État le plus méridional de Malaisie et la porte où la péninsule rencontre la république insulaire de l'autre côté de l'eau, avec un cœur patrimonial piétonnier, l'un des plus grands pôles de parcs à thème familiaux d'Asie à sa porte, et tout un État derrière elle : des plages à l'est, des mangroves à la pointe sud, et des montagnes et de la forêt tropicale à l'intérieur. Ce guide couvre le fonctionnement des passages, que faire en ville, les parcs à thème, la côte et l'intérieur, à qui le Johor convient, et la seule erreur qui piège presque tout le monde — se tromper de moment pour le passage.

@@ -90,6 +90,12 @@ wikidata: "Q220445"
 related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'Viajeros primerizos e independientes, familias y amantes del patrimonio o la fauna que quieren una ciudad patrimonial junto al río, recorrible a pie, como base relajada para excursiones de un día a la selva, los orangutanes y los parques nacionales de Borneo.'
+  getThere: 'Vuele al Aeropuerto Internacional de Kuching (KCH), la principal puerta aérea del sur de Sarawak, con conexiones desde Kuala Lumpur y otros nudos de Malasia y de la región.'
+  permit: 'Sarawak gestiona su propia inmigración, así que todo el mundo pasa un control fronterizo a la llegada, incluso en un vuelo nacional desde la Malasia peninsular — los extranjeros reciben un sello de entrada aparte de Sarawak, así que lleve el pasaporte consigo en todo momento.'
+  watch: 'El avistamiento de orangutanes en Semenggoh nunca está garantizado, ya que los simios semisalvajes tienen libertad para buscar alimento en el bosque de alrededor — tome cualquier avistamiento como un regalo, no como una promesa.'
+  next: 'Confirme los requisitos de entrada vigentes de Sarawak y los horarios de los parques o festivales con la Junta de Turismo de Sarawak (Sarawak Tourism Board) y los operadores oficiales de los parques antes de viajar.'
 ---
 
 Puedes recorrer de punta a punta la ribera de Kuching en una tarde, pasar junto a un fuerte colonial, un palacio de un rajá y un templo chino por el camino, comer uno de los grandes tazones de fideos de Borneo, y posar con una estatua gigante de un gato — todo sin salir de la ciudad. Kuching es la capital y mayor ciudad de Sarawak, asentada sobre el río Sarawak en el extremo suroeste del estado, en la isla de Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Es la relajada ciudad fluvial que sirve de base desde la que comienzan la mayoría de los viajes por Sarawak. Esta guía cubre la ciudad en sí — su paseo marítimo, su historia de la era Brooke, su Chinatown y sus museos, y sus gatos — y cómo funciona como trampolín hacia la selva y la fauna que la rodean.

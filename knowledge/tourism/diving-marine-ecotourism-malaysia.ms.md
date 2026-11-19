@@ -70,7 +70,13 @@ relations:
   - { rel: "related-to", to: "sabah-travel-guide" }
 related: []
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
-framework: rules
+framework: rules
+visitFacts:
+  bestFor: 'Sesuai untuk penyelam dan penyelam snorkel rekreasi (serta pengendali yang menempah untuk mereka) yang merancang perjalanan taman marin Malaysia, dari terumbu semenanjung yang mudah dicapai hingga penyelaman berkuota terkawal di Sipadan.'
+  getThere: 'Taman semenanjung seperti Tioman, Redang, Perhentian dan Tenggol dicapai dengan bot dari jeti tanah besar, manakala Sipadan di Sabah diselami dengan menginap di pulau berdekatan seperti Mabul atau Kapalai dan membuat perjalanan sehari ke sana dengan permit pengendali berlesen.'
+  permit: 'Sipadan beroperasi dengan kuota permit harian terhad yang dipegang hanya oleh pengendali berlesen, jadi anda tidak boleh membelinya secara terus dan mesti menempah melalui pengendali yang memegang peruntukan; taman marin persekutuan (Jabatan Perikanan) sebaliknya mengenakan caj pemuliharaan yang dipungut di jeti.'
+  watch: 'Anda tidak boleh menempah Sipadan secara terus dan memerlukan sekurang-kurangnya pensijilan Advanced Open Water, dan kuota serta peraturan menyelamnya disemak semula dari semasa ke semasa, jadi sahkan had semasa dengan pengendali anda sebelum merancang.'
+  next: 'Sahkan yuran, permit dan kuota semasa dengan Jabatan Perikanan Malaysia untuk taman semenanjung dan dengan Sabah Parks untuk Sipadan.'
 ---
 
 Air paling jernih di Malaysia juga yang paling sukar dicapai: untuk menyelam ke dinding [Sipadan](/tourism/sipadan-and-semporna) anda memerlukan permit kerajaan yang tidak boleh dibeli secara terus dengan wang berapa banyak sekalipun. Fakta tunggal itu menggambarkan cara negara ini menguruskan pelancongan selamnya — akses dicatu, diberi harga, dan dibahagikan antara dua pihak berkuasa yang sangat berbeza bergantung pada laut mana yang anda mahu selami.

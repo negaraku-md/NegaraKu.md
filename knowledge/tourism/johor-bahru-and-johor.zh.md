@@ -113,6 +113,12 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: '最适合从新加坡来的一日游客与周末游人以及家庭——他们为超值的购物与美食、Legoland 及主题公园群、笛沙鲁海岸（Desaru Coast）的海滩，以及内陆的山林与红树林而来。'
+  getThere: '从新加坡可经新柔长堤（Johor–Singapore Causeway）或第二通道（Second Link）（另有 KTM Shuttle Tebrau 列车）前往，从马来西亚其余地区则可搭乘长途巴士、KTM 城际／ETS 列车，或利用市区以北的士乃国际机场（Senai International Airport）。'
+  permit: '每一次过境都是国际边界，故请携带有效护照并在两侧办理通关。'
+  watch: '长堤在星期五傍晚、周末、新加坡学校假期及公共假期前夕会严重堵塞，故请及早过境、避开返程高峰，并在拥堵时改走第二通道。'
+  next: '出发前请向马来西亚与新加坡的官方交通主管部门及相关公园主管部门确认当前的过境、RTS Link 与公园准证安排。'
 ---
 
 大多数游客是在一条关卡排队中初见柔佛的——车子在长堤上、巴士在第二通道上，或搭短程接驳列车进入新山中央车站——并把这座城市当作从新加坡出发的购物与美食顺道一游。这小看了它。新山是马来西亚最南端州属的首府，是半岛隔水与岛国相接的门户，拥有可步行的古迹核心、门口就有亚洲最大的家庭主题乐园群之一，背后还有一整个州属：东部的海滩、南端的红树林，以及内陆的群山和雨林。本指南涵盖关卡如何运作、城里有什么可做、各主题乐园、海岸与内陆、柔佛适合谁，以及那个几乎人人都会踩的坑——弄错通关的时机。

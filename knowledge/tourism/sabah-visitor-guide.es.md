@@ -93,7 +93,13 @@ relations:
   - { rel: "part-of", to: "malaysia-agreement-1963" }
 related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que ponen la naturaleza por delante y buscan las experiencias estrella de Borneo: escalar el Monte Kinabalu, bucear el arrecife protegido de Sipadan y ver orangutanes y fauna fluvial en torno a Sandakan.'
+  getThere: 'Vuele al Aeropuerto Internacional de Kota Kinabalu, la principal puerta aérea de Sabah, y continúe luego en breves saltos nacionales hacia Sandakan, Tawau y la región de buceo.'
+  permit: 'Sabah controla su propia inmigración en virtud del Acuerdo de Malasia de 1963, así que toda llegada — incluidos los malasios que vuelan desde la Península — pasa un control y recibe un pase de visita, mientras que la ascensión al Monte Kinabalu y el buceo en Sipadan están regulados cada uno por permisos de cupo limitado de Sabah Parks.'
+  watch: 'Reserve con mucha antelación los puntos estrella, escasos y regulados por permiso, y planifique en torno al cierre anual de Sipadan en noviembre para la recuperación del arrecife, porque estas piezas se agotan y no pueden asegurarse a la llegada.'
+  next: 'Confirme las normas vigentes de entrada, de pase de visita y de permisos con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia) y Sabah Parks antes de viajar.'
 ---
 
 Puedes volar de Kuala Lumpur a Kota Kinabalu sin salir del país y aun así hacer cola en un mostrador de inmigración cuando aterrizas. Esa sorpresa pilla desprevenidos a muchos visitantes primerizos, y es lo más importante que hay que entender antes de planificar un viaje a Sabah. Esta guía recorre la puerta de entrada, las atracciones más destacadas y las normas de entrada que hacen que Sabah se sienta como un lugar propio, porque, en un sentido muy real, lo es.

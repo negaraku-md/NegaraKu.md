@@ -84,6 +84,12 @@ wikidata: "Q61535"
 related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'Spéléologues, randonneurs aventureux et voyageurs amoureux de la nature qui composent un itinéraire à Bornéo — karst classé au patrimoine mondial de l''UNESCO, grottes aménagées aux dimensions record et sortie des chauves-souris de la Deer Cave.'
+  getThere: 'Uniquement par petit avion — aucune route n''y mène : prenez un vol pour l''aéroport de Mulu (en général le court saut depuis Miri), puis inscrivez-vous au quartier général du parc.'
+  permit: 'Inscrivez-vous au QG du parc ; les grottes aménagées, la spéléologie d''aventure et les Pinnacles exigent tous des guides agréés et une réservation anticipée — réservez des semaines, voire des mois à l''avance.'
+  watch: 'Forêt tropicale équatoriale sans saison sèche fiable — l''ascension des Pinnacles et la sortie des chauves-souris dépendent de la météo et sont annulées en cas de fortes pluies, prévoyez donc des jours de battement, et les limites de bagages des petits avions s''appliquent.'
+  next: 'Confirmez les vols, hébergements, règles d''activités guidées et tarifs en vigueur auprès du site officiel du parc (mulupark.com) et du Sarawak Tourism Board.'
 ---
 
 Au cœur de la forêt tropicale du Sarawak, là où des montagnes calcaires s'élèvent tout droit hors de la jungle et où aucune route n'arrive, se trouve l'un des paysages les plus extraordinaires de Malaisie — et l'une des régions de grottes les plus étudiées de la planète. Le parc national du Gunung Mulu est l'endroit où l'on trouve la plus grande chambre de grotte du monde, un passage de grotte assez grand pour y faire voler un gros-porteur, un fleuve nocturne de millions de chauves-souris, et une forêt de sommet de lames calcaires assez acérées pour déchiqueter une chaussure. Il est aussi véritablement reculé : vous arrivez en petit avion, vous allez presque partout avec un guide, et vous réservez des mois à l'avance. Ce guide couvre ce qu'est Mulu, ce qu'il y a à voir sous et sur terre, les deux grands treks, le fonctionnement de l'accès, et les erreurs des débutants.

@@ -92,6 +92,12 @@ relations:
 related: ["sabah-visitor-guide"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que buscan la naturaleza de Borneo y la cultura dayak viva, usando la relajada y recorrible Kuching como base para los orangutanes semisalvajes de Semenggoh y las casas comunales bidayuh, con las cuevas y la selva Patrimonio Mundial de Gunung Mulu como gran complemento estrella.'
+  getThere: 'Vuele a Kuching como nudo principal, con Gunung Mulu accesible solo en vuelos de MASwings (desde Miri, Kuching o Kota Kinabalu), ya que no hay una carretera practicable hasta el parque.'
+  permit: 'Sarawak gestiona su propia inmigración, así que a todo el mundo — malasios de la Península incluidos — se le controla y se le expide un pase de entrada a la llegada (los extranjeros reciben un sello aparte de Sarawak además de su entrada a Malasia, y la mayoría deben presentar la MDAC en línea de antemano), y los vuelos a Mulu y las visitas guiadas a las cuevas deberían reservarse con antelación.'
+  watch: 'Las avionetas de Mulu sufren con frecuencia retrasos o cancelaciones por el tiempo, así que prevea días de margen y nunca reserve una conexión de salida ajustada desde el parque.'
+  next: 'Confirme los requisitos vigentes de visado y de MDAC para su nacionalidad con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia).'
 ---
 
 Puedes volar de Kuala Lumpur a Kuching en menos de dos horas, no salir nunca de tu propio país y aun así recibir un sello de inmigración al otro extremo. Esa sorpresa en la sala de llegadas es lo más importante que hay que entender sobre Sarawak: es un estado malasio que gestiona su propia frontera.

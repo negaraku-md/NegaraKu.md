@@ -84,7 +84,13 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["pahang"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk perancang perjalanan yang mahukan percutian stesen bukit beriklim sejuk selama dua hingga tiga hari, berpangkalan di Tanah Rata atau Brinchang dan menggabungkan ladang teh, ladang strawberi dan bunga, serta lawatan berpandu ke perkampungan Orang Asli atau denai Mossy Forest.'
+  getThere: 'Tiada lapangan terbang atau landasan kereta api sampai ke tanah tinggi ini — anda memandu atau dibawa naik melalui jalan darat dari Tapah atau sebelah Raub/Kuala Lipis (bertemu di Ringlet) atau dari Simpang Pulai di utara, dengan bas awam beroperasi naik dari Tapah ke Tanah Rata.'
+  permit: 'Tiada permit taman untuk masuk; lawatan kilang ladang teh BOH adalah percuma, manakala lawatan ke perkampungan Orang Asli sebaiknya dibuat melalui pemandu atau pengendali tempatan yang bereputasi.'
+  watch: 'Jangan anggap ia sebagai satu pekan — ia tiga petempatan dengan peranan berbeza — dan ambil perhatian bahawa taman teh tutup pada hari Isnin manakala cuaca tanah tinggi berubah dengan cepat, jadi rancangan harian boleh berubah.'
+  next: 'Sahkan waktu buka dan penutupan hari Isnin semasa terus dengan setiap tapak — laman rasmi BOH Plantations (bohtea.com) untuk taman teh dan Majlis Daerah Cameron Highlands (MDCH) untuk tarikan ladang-dan-taman.'
 ---
 
 Turun dari bas di Tanah Rata dan perkara pertama yang anda perasan ialah nafas anda sendiri — udaranya cukup sejuk sehingga sehelai baju sejuk tidak lagi terasa janggal, walaupun di garisan khatulistiwa. Itulah intipati Cameron Highlands: satu bongkah tanah tinggi beriklim sederhana yang bertindih di atas Malaysia tropika, tempat teh tumbuh berbaris hijau bagai kordur di atas banjaran dan strawberi masak dalam terowong plastik di tepi jalan.

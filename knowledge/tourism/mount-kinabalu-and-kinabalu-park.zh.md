@@ -94,6 +94,12 @@ entity: "Kinabalu Park"
 related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "climbing permit", "Laban Rata", "Panalaban", "Poring Hot Springs", "Sabah", "Nepenthes rajah"]
 framework: profile
+visitFacts:
+  bestFor: '既适合体能良好、计划周密、追逐在马来西亚最高峰迎接破晓的登山者，也适合想在公园山脚一带享受清凉山风、食虫植物、自然步道与温泉的一日游客。'
+  getThere: '从沙巴首府亚庇（Kota Kinabalu）陆路前往，沿蜿蜒山路向东北驶入高地直达公园总部。'
+  permit: '登顶须凭准证：公园登山准证与持牌的 Sabah Parks 山岳向导两者皆为强制，每日名额有限，且几乎所有人都须透过公园特许经营方预订一晚山上床位——故请及早预约。'
+  watch: '这是一段艰苦的两天高海拔攀登，高山症与体能至关重要，山岳又自成天气；在重大地震等事件后，通行与路线可能改变，故请依当前资讯规划。'
+  next: '请向 Sabah Parks 确认当前的准证、向导与住宿规定及收费。'
 ---
 
 一顶花岗岩王冠自婆罗洲的雨林中拔地而起，直抵刚过4,000米的高处；一座植物物种比某些大洲还多的世界遗产公园；以及一条管控到你得在订机票之前就先预订的登顶之路——京那巴鲁山是马来西亚最负盛名的单一自然地标，也是实际游览起来最有章法的地标之一。它坐落于沙巴，位于马来西亚的婆罗洲一侧，并回馈两类截然不同的旅行者：身强体健、安排周密、追逐喜马拉雅山与新几内亚之间最高峰上一轮黎明的登山者，以及只想呼吸凉爽山间空气、看看奇异食虫植物、在温泉里泡个澡的一日游访客。本指南兼顾两者，也涵盖人们出发前惯常搞错的事情。
