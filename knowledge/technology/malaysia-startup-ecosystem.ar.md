@@ -103,6 +103,14 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["منظومة الشركات الناشئة في ماليزيا", "Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "النافذة الموحَّدة MYStartup", "MAVCAP", "Jelawang Capital", "رأس المال الجريء في ماليزيا", "KL20"]
 framework: explainer
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'A bright multi-storey coworking office seen from above, with glass balustrades, open staircases and people working at desks across several levels under a glass roof'
+heroCredit: 'Jasmanna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 ---
 
 اسأل عشرة من مؤسِّسي الشركات الماليزيين من أين يأتي مال الشركات الناشئة الحكومي وستحصل على عشرة اختصارات مختلفة. الجهاز حقيقي وسخيّ، لكنه منتشر عبر وكالات يملك كل منها شريحةً — مِنَح هنا، ومساحة مختبر هناك، ورأس مال جريء في مكان آخر مجددًا — ومعرفة أي باب تطرق توفّر شهورًا.

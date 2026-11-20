@@ -79,6 +79,14 @@ verificationNeeded:
   - "กำไรสะสมตั้งแต่ต้นปีของกลุ่ม RM403.3 ล้านสำหรับเก้าเดือนถึง 30 ก.ย. 2025 (เผยแพร่ 27 พ.ย. 2025) — ยืนยันกับผลประกอบการรายไตรมาสและรายปีถัดไป"
   - "'ลูกค้ากว่า 150 ล้านราย' อิงตัวเลขของบริษัทในปี 2019 บวกการเติบโตของตลาดที่ตามมา; ยืนยันยอดลูกค้ารวมของกลุ่มปัจจุบันกับรายงานประจำปีล่าสุด"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 เรื่องราวโทรคมนาคมที่ใหญ่ที่สุดของมาเลเซียไม่ใช่เครือข่ายเดียว แต่เป็นบริษัทโฮลดิงที่เป็นเจ้าของส่วนหนึ่งของผู้ให้บริการมือถือในหกประเทศ Axiata Group Berhad นั่งอยู่ในอาคารสำนักงานที่ Kuala Lumpur Sentral และควบคุม เป็นเจ้าของบางส่วน หรือดำเนินการร่วมในผู้ให้บริการที่เชื่อมต่อผู้คนหลายร้อยล้านทั่วเอเชียใต้และเอเชียตะวันออกเฉียงใต้

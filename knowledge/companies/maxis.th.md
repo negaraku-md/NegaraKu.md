@@ -79,6 +79,14 @@ verificationNeeded:
   - "การถือหุ้นปัจจุบันของกลุ่มบริษัทแม่ (ผลประโยชน์ที่เชื่อมโยงกับ Usaha Tegas และ Saudi Telecom Company) — ยืนยันกับการเปิดเผยข้อมูลล่าสุดของ Bursa Malaysia"
   - "สถานะของเครือข่าย 5G เครือข่ายที่สองของมาเลเซียและบทบาทของ Maxis ในนั้น (U Mobile ถูกเลือกในเดือนพฤศจิกายน 2024) — ตรวจสอบนโยบายและข้อตกลง 5G ปัจจุบันกับ MCMC"
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 เกือบทุกคนในมาเลเซียที่มีโทรศัพท์ เคยเป็นลูกค้า Maxis หรือ Hotlink มา ณ จุดใดจุดหนึ่ง เบื้องหลังสองแบรนด์ที่คุ้นเคยนั้นคือบริษัทเดียว — Maxis Berhad — ที่อยู่ในกลุ่มผู้ให้บริการโทรคมนาคมที่ใหญ่ที่สุดของประเทศ และเติบโตจากผู้ให้บริการมือถือเพียงอย่างเดียวสู่ผู้ให้บริการแบบหลอมรวมที่มีทั้งมือถือ บรอดแบนด์สำหรับบ้าน และการเชื่อมต่อสำหรับองค์กร

@@ -79,6 +79,14 @@ verificationNeeded:
   - "Bénéfice cumulé du groupe de 403,3 millions de RM pour les neuf mois clos le 30 sept. 2025 (publié le 27 nov. 2025) — à vérifier par rapport aux prochains résultats trimestriels et annuels."
   - "«Bien plus de 150 millions de clients» repose sur un chiffre de la société de 2019 plus la croissance ultérieure du marché ; à vérifier le total actuel de clients du groupe par rapport au dernier rapport annuel."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 La plus grande histoire des télécommunications de Malaisie n'est pas un seul réseau, mais une holding qui possède des morceaux d'opérateurs mobiles dans six pays. Axiata Group Berhad siège dans une tour de bureaux à Kuala Lumpur Sentral et contrôle, détient en partie ou exploite conjointement les opérateurs qui connectent des centaines de millions de personnes à travers l'Asie du Sud et du Sud-Est.

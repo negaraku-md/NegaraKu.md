@@ -2605,5 +2605,461 @@
         "alt": "The tall, intricately carved and brightly painted gopuram towers of the Meenakshi Amman Temple in Madurai rising above the temple's pillared corridors and tank"
       }
     ]
+  },
+  "technology/5g-jendela-dnb-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Telecommunications_towers_of_Bukit_Nyabau%2C_Bintulu.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Wee Hong",
+      "page": "https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg",
+      "kind": "actual",
+      "subject": "Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset",
+      "alt": "Two lattice telecommunications towers at Bukit Nyabau in Bintulu, Malaysia, silhouetted against an orange and blue sunset sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mobile_phone_tower_with_5G_equipment_in_Corinda%2C_Queensland%2C_Australia.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Kgbo",
+        "page": "https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg",
+        "kind": "representative",
+        "subject": "A monopole mobile-phone tower carrying 5G antennas against a clear blue sky",
+        "alt": "A tall grey monopole mobile-phone tower topped with mobile-network antennas and 5G equipment, standing against a clear blue sky above suburban rooftops"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi%2C_Malta.jpg",
+        "license": "CC BY 4.0",
+        "by": "Marcin Floryan",
+        "page": "https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg",
+        "kind": "representative",
+        "subject": "A rooftop 5G cell tower with panel antennas and microwave dishes over a city",
+        "alt": "A rooftop telecom mast fitted with white panel antennas, microwave dishes and base-station cabinets, rising above a low-rise city under a blue sky"
+      }
+    ]
+  },
+  "companies/axiata": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Axiata_Arena%2C_Bukit_Jalil_front_%28220713%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "*angys*",
+      "page": "https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg",
+      "kind": "representative",
+      "subject": "Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur",
+      "alt": "Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta 'axiata arena' name and triangular logo"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Axiata_Arena_Bukit_Jalil_%28230527%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "*angys*",
+        "page": "https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg",
+        "kind": "actual",
+        "subject": "Crowds at the main entrance of Axiata Arena, Bukit Jalil, during an event",
+        "alt": "People gathered outside Axiata Arena's main entrance beneath the giant blue-and-magenta 'axiata arena' signage during a sporting event"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Axiata_Arena_2017_Sea_Games.jpg",
+        "license": "CC BY 2.0",
+        "by": "WIL",
+        "page": "https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg",
+        "kind": "actual",
+        "subject": "Interior of Axiata Arena during the 2017 SEA Games badminton event",
+        "alt": "Packed interior of Axiata Arena during a badminton match at the 2017 SEA Games, spectators filling the tiered blue stands around the court"
+      }
+    ]
+  },
+  "companies/cimb": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg",
+      "kind": "actual",
+      "subject": "CIMB Bank Tower, the group's former headquarters, Jalan Semarang, Kuala Lumpur",
+      "alt": "A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Wiki Asmah",
+        "page": "https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg",
+        "kind": "actual",
+        "subject": "The modern CIMB tower at Kuala Lumpur Sentral, seen from Perdana Botanical Garden",
+        "alt": "A glass-clad modern tower bearing a red CIMB logo near its top standing beside the Q Sentral building at KL Sentral, framed by dark tree foliage"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/CIMB_Bank_Bendahara_Street_Branch.JPG",
+        "license": "CC BY-SA 4.0",
+        "by": "Chongkian",
+        "page": "https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG",
+        "kind": "actual",
+        "subject": "The CIMB Bank branch in a heritage building on Bendahara Street, Melaka City",
+        "alt": "A white colonial-era two-storey heritage building housing a CIMB Bank branch, with a red CIMB BANK sign over the ground-floor entrance"
+      }
+    ]
+  },
+  "technology/data-centre-boom-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BalticServers_data_center.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "BalticServers.com",
+      "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+      "kind": "representative",
+      "subject": "Rows of server racks glowing with blue indicator lights inside a data centre hall",
+      "alt": "A wall of server racks in a data centre, each row lit by rows of bright blue indicator lights receding into the dark"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Virginia_Tech_-_data_center.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "Christopher Bowns",
+        "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+        "kind": "representative",
+        "subject": "Symmetrical aisle between tall black server cabinets in a university data centre",
+        "alt": "A narrow aisle running between two walls of tall black server cabinets, the rows converging toward a lit doorway at the far end"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Data_center_roof.jpg",
+        "license": "CC0",
+        "by": "Rsparks3",
+        "page": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+        "kind": "representative",
+        "subject": "Aerial view of rooftop cooling units at a large data-centre campus under construction",
+        "alt": "Aerial view of a data-centre campus at dusk, with long rows of rooftop cooling units and an adjacent building still under construction"
+      }
+    ]
+  },
+  "technology/kl20-startup-ecosystem": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/KLCC_%28Unsplash%29.jpg",
+      "license": "CC0",
+      "by": "Wikimedia Commons (CC0)",
+      "page": "https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg",
+      "kind": "representative",
+      "subject": "Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia's startup-ecosystem hub",
+      "alt": "The Petronas Twin Towers rising above the Kuala Lumpur skyline in soft morning mist"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tun_Razak_Exchange_skyline_20230317.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "InterEdit88",
+        "page": "https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg",
+        "kind": "representative",
+        "subject": "The Exchange 106 tower and the Tun Razak Exchange (TRX) financial district in Kuala Lumpur",
+        "alt": "The Exchange 106 tower and the Tun Razak Exchange financial district in Kuala Lumpur, seen from KL Tower"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kuala_Lumpur_Malaysia_Skyline-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg",
+        "kind": "representative",
+        "subject": "Kuala Lumpur city skyline with the KL Tower and clustered high-rise office buildings",
+        "alt": "Kuala Lumpur city skyline with the KL Tower and high-rise office buildings under a blue sky"
+      }
+    ]
+  },
+  "companies/malaysia-airports-mahb": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/KLIA_control_tower_2_2016_October.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Morio",
+      "page": "https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg",
+      "kind": "actual",
+      "subject": "KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)",
+      "alt": "The tall white cylindrical KLIA air traffic control tower rising against a dramatic evening sky, with a terminal roadway curving past at right"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Terminal_1_of_Kuala_Lumpur_International_Airport%2C_January_2023.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "No Swan So Fine",
+        "page": "https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg",
+        "kind": "actual",
+        "subject": "Interior concourse of KLIA Terminal 1, Kuala Lumpur International Airport",
+        "alt": "Interior walkway of KLIA Terminal 1 with its curved timber-slatted vaulted ceiling, blue gate direction signs and a travelator, a lone traveller walking down the polished floor"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kuala_Lumpur_International_Airport_20240509.jpg",
+        "license": "CC0",
+        "by": "Eugene Ormandy",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg",
+        "kind": "actual",
+        "subject": "KLIA Terminal 1 concourse with Malaysia Airports (MAHB) branding",
+        "alt": "KLIA Terminal 1 concourse showing the forest-airport's white splayed steel roof columns against tall glass walls, with a blue Malaysia Airports upgrade hoarding running along the walkway"
+      }
+    ]
+  },
+  "technology/malaysia-startup-ecosystem": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Coworking_Space_in_Melbourne.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Jasmanna",
+      "page": "https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg",
+      "kind": "representative",
+      "subject": "A bright multi-level modern coworking office with glass staircases and people working",
+      "alt": "A bright multi-storey coworking office seen from above, with glass balustrades, open staircases and people working at desks across several levels under a glass roof"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CM_Deep_Ellum_12122018-28_%281%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Thecommondesk",
+        "page": "https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg",
+        "kind": "representative",
+        "subject": "People working on laptops and talking at shared tables in an industrial-style coworking space",
+        "alt": "People working on laptops and chatting at long shared wooden tables in a warm, industrial-style coworking space with large windows and a leather sofa"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Making_a_pitch%2C_startups_at_the_GIZ_Techathon_2018.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Fredericknoronha",
+        "page": "https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg",
+        "kind": "representative",
+        "subject": "A small group of startup founders talking together at a tech incubator event",
+        "alt": "A small group of startup founders standing in a circle in a coworking office, listening intently as one of them makes a point during a tech event"
+      }
+    ]
+  },
+  "companies/maxis": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Menara_Maxis_night.jpg",
+      "license": "CC BY 2.0",
+      "by": "Brandon Lim Lik Wei",
+      "page": "https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg",
+      "kind": "actual",
+      "subject": "Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown",
+      "alt": "The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2016_Kuala_Lumpur%2C_Menara_Maxis_%2801%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Marcin Konsek",
+        "page": "https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg",
+        "kind": "actual",
+        "subject": "Daytime view of Menara Maxis rising above the Suria KLCC mall, Kuala Lumpur, with the maxis logo and clock near its crown",
+        "alt": "The tan stone and green-glass Menara Maxis tower curving up to an arched crown against a cloudy sky, the maxis logo and a digital clock visible high on its facade, the Suria KLCC logo on the podium below"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Menara_Maxis_3.jpg",
+        "license": "CC BY 2.0",
+        "by": "Brandon Lim Lik Wei",
+        "page": "https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg",
+        "kind": "actual",
+        "subject": "Menara Maxis at night viewed from the base, with a large maxis-branded advertising banner on its lower facade, KLCC, Kuala Lumpur",
+        "alt": "A steep upward night view of Menara Maxis's tapering lit facade, with a tall illuminated advertising banner carrying the maxis logo hung across its lower floors against a black sky"
+      }
+    ]
+  },
+  "companies/maybank": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg",
+      "license": "CC0",
+      "by": "Ahmad Ali Karim",
+      "page": "https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg",
+      "kind": "actual",
+      "subject": "Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower",
+      "alt": "The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/KL_-_Menara_Maybank_%282014%29.JPG",
+        "license": "CC BY-SA 3.0",
+        "by": "Azreey",
+        "page": "https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG",
+        "kind": "actual",
+        "subject": "Menara Maybank seen from Chin Woo Stadium against a blue sky, Kuala Lumpur",
+        "alt": "The full height of the white Menara Maybank tower against a blue sky, a yellow Maybank sign and tiger-head logo mounted at its crown above the city rooftops"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Menara_Maybank_entrance_%28220512%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "*angys*",
+        "page": "https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg",
+        "kind": "actual",
+        "subject": "The escalator entrance to Menara Maybank with a Maybank welcome sign, Kuala Lumpur",
+        "alt": "Twin escalators under a domed canopy leading up to Menara Maybank, with a yellow Maybank logo on a welcome board naming the KL Main Branch at the foot of the steps"
+      }
+    ]
+  },
+  "technology/mcmc-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Shaftsburry_Square_Cyberjaya.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Vimobe",
+      "page": "https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjaya.jpg",
+      "kind": "representative",
+      "subject": "Office towers at Shaftsbury Square in Cyberjaya, the corporate district where MCMC is headquartered",
+      "alt": "Modern glass office towers and commercial buildings at Shaftsbury Square in Cyberjaya, Malaysia"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/TMR%26D_Office.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Wanobi88",
+        "page": "https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg",
+        "kind": "representative",
+        "subject": "The Telekom Malaysia Research & Development (TMR&D) office building in Cyberjaya — a telecoms-sector building in the corridor MCMC regulates",
+        "alt": "The Telekom Malaysia Research and Development office building, a modern tech building in Cyberjaya"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Skylines_of_Cyberjaya_%28221225%29_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "*angys*",
+        "page": "https://commons.wikimedia.org/wiki/File:Skylines_of_Cyberjaya_(221225)_01.jpg",
+        "kind": "representative",
+        "subject": "The skyline of Cyberjaya, Malaysia's communications and multimedia hub",
+        "alt": "The skyline of Cyberjaya with residential and office high-rises above green parkland"
+      }
+    ]
+  },
+  "technology/mdec-digital-economy-corporation": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cyberjaya_Aerial.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Vimobe",
+      "page": "https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg",
+      "kind": "representative",
+      "subject": "Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered",
+      "alt": "Aerial panorama of Cyberjaya, Malaysia's tech corridor, showing office buildings, highways and green landscaping"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cyberjaya1dunhill1410.jpg",
+        "license": "Public domain",
+        "by": "Dunhill1410",
+        "page": "https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg",
+        "kind": "actual",
+        "subject": "Signboard for the MSC Headquarters / Multimedia Development Corporation (MDEC's predecessor) in Cyberjaya",
+        "alt": "A signboard reading 'MSC Headquarters, Multimedia Development Corporation' beside a landscaped pond and fountain in Cyberjaya"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cyberjaya_Signage.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Vimobe",
+        "page": "https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg",
+        "kind": "representative",
+        "subject": "Sculptural 'Cyberjaya Malaysia' landmark signage at a roadside park in Cyberjaya",
+        "alt": "A large red sculptural letter C reading 'Cyberjaya Malaysia' with a circuit-board pattern, at a Cyberjaya roadside park"
+      }
+    ]
+  },
+  "companies/public-bank": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Public_Bank_Kuala_Lumpur.jpg",
+      "license": "CC BY 4.0",
+      "by": "Philip Nalangan",
+      "page": "https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg",
+      "kind": "actual",
+      "subject": "Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk",
+      "alt": "The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Public_Bank_Tower.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Chongkian",
+        "page": "https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg",
+        "kind": "actual",
+        "subject": "Public Bank Tower in Johor Bahru, Johor",
+        "alt": "A slender white Public Bank tower against a blue sky, the red octagonal Public Bank logo near its top and a red PUBLIC BANK sign above the ground-floor branch entrance"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg",
+        "kind": "actual",
+        "subject": "Menara Public Bank, the 170 m stone-clad HQ tower, Jalan Ampang, Kuala Lumpur",
+        "alt": "The tan stone-clad, stepped Menara Public Bank tower under a pale sky, the red octagonal Public Bank logo displayed on a panel near its pyramidal crown"
+      }
+    ]
+  },
+  "companies/rhb-banking-group": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RHB_Bank_Taman_Nusa_Bestari.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Chongkian",
+      "page": "https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg",
+      "kind": "actual",
+      "subject": "An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo",
+      "alt": "A three-storey corner bank building whose ground floor is wrapped in a bright blue fascia reading RHB Bank, RHB Islamic and RHB Bank, each with the red-diamond RHB logo, a red car parked out front under a pale sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Seremban_2_RHB.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "PulauKakatua19",
+        "page": "https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg",
+        "kind": "actual",
+        "subject": "An RHB Bank branch at Seremban 2, Negeri Sembilan, with RHB Bank and RHB Islamic signage below a bright blue sky",
+        "alt": "A white two-storey corner branch of RHB Bank seen across a brick-paved junction, its blue signage band reading RHB Islamic and RHB Bank with the red-diamond logo, market canopies set up on the forecourt under a clear blue sky"
+      }
+    ]
+  },
+  "companies/telekom-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Shesmax",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg",
+      "kind": "actual",
+      "subject": "Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown",
+      "alt": "The tapering curved Menara TM skyscraper rising against blue sky and cumulus cloud, its vertical blade-like spine carrying the red-and-blue TM logo and a disc-shaped sky terrace jutting from the upper floors"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Shesmax",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg",
+        "kind": "actual",
+        "subject": "Menara TM seen beside a neighbouring tower across an elevated highway, the TM logo visible on its spire, Lembah Pantai, Kuala Lumpur",
+        "alt": "The distinctive leaning, curved Menara TM tower with the TM logo on its upper spine and a saucer-shaped sky terrace, rising on the right against blue sky beside an octagonal office tower, an elevated rail viaduct crossing the foreground"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Shesmax",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg",
+        "kind": "actual",
+        "subject": "Full-height view of Menara TM and its flying-saucer sky terrace under a moody grey sky, Kuala Lumpur",
+        "alt": "The full sweep of Menara TM's curved silver facade and bladed spire topped by a disc-shaped sky terrace, set against a heavy grey overcast sky above lower city buildings"
+      }
+    ]
+  },
+  "companies/tenaga-nasional": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "TheHolySnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg",
+      "kind": "actual",
+      "subject": "Kenyir Dam and the Sultan Mahmud Power Station, TNB's hydroelectric facility in Terengganu",
+      "alt": "Aerial view of Kenyir Dam's grey rockfill embankment marked with the giant white word KENYIR, the hydroelectric power station and transmission lines at its base and Kenyir Lake stretching behind"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tenaga_Nasional_building_in_Bangsar.JPG",
+        "license": "CC BY-SA 3.0",
+        "by": "Khairul hazim",
+        "page": "https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG",
+        "kind": "actual",
+        "subject": "Tenaga Nasional Berhad headquarters building in Bangsar, Kuala Lumpur",
+        "alt": "The Tenaga Nasional Berhad headquarters in Bangsar, Kuala Lumpur, a tall grey office block whose rooftop carries the red TNB logo and the illuminated 'TENAGA NASIONAL' sign above the city skyline"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Connaught_Bridge_Power_Station.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Chongkian",
+        "page": "https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg",
+        "kind": "actual",
+        "subject": "TNB's Connaught Bridge Power Station in Klang, Selangor",
+        "alt": "Connaught Bridge Power Station in Klang, a long red-brick power house with a tall red-and-white striped chimney stack under a bright blue sky"
+      }
+    ]
   }
 }

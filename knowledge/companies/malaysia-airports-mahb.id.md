@@ -78,6 +78,14 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: 'The tall white cylindrical KLIA air traffic control tower rising against a dramatic evening sky, with a terminal roadway curving past at right'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
 ---
 
 Hampir setiap kali seorang pelancong mendarat di Malaysia, mereka tiba di bandara yang dijalankan oleh satu perusahaan. Malaysia Airports Holdings Berhad (MAHB) mengoperasikan Kuala Lumpur International Airport — kini berjenama KLIA Terminal 1 dan Terminal 2 — dan, menurut hitungannya sendiri, 39 bandara di seluruh negeri, ditambah satu gerbang luar negeri di Istanbul. Pada 2025 ia juga menjadi sesuatu yang tidak lazim bagi operator bandara nasional: bukan lagi perusahaan publik.

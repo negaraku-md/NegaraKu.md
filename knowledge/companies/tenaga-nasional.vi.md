@@ -86,6 +86,14 @@ relations:
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'Aerial view of Kenyir Dam''s grey rockfill embankment marked with the giant white word KENYIR, the hydroelectric power station and transmission lines at its base and Kenyir Lake stretching behind'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
 ---
 
 Mỗi khi đèn trong nhà bạn bật sáng ở Bán đảo, khả năng rất cao là dòng điện đó chảy qua dây của một công ty duy nhất: Tenaga Nasional Berhad. Đây là đơn vị tiện ích điện lớn nhất của đất nước, với hơn 11 triệu khách hàng ở Bán đảo Malaysia, Sabah và Labuan tính đến ngày 30 tháng 9 năm 2025.

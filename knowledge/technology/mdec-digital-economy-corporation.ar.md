@@ -68,6 +68,14 @@ relations: []
 related: []
 keywords: ["MDEC", "مؤسسة الاقتصاد الرقمي الماليزية", "Malaysia Digital Status", "مركز MD", "MD Status", "MSC Malaysia", "مركز MSC", "وثيقة ضمانات Malaysia Digital", "الحافز الضريبي لـ Malaysia Digital", "أنشطة MD", "العامل المعرفي في ماليزيا", "Cyberjaya", "الاقتصاد الرقمي في ماليزيا"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: 'Aerial panorama of Cyberjaya, Malaysia''s tech corridor, showing office buildings, highways and green landscaping'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
 ---
 
 ابحث عن «Malaysia Digital Status» وتكاد تكون كل نتيجة شركة استشارية تبيع خدمة تقديم طلب — ومعظمها يُضبّب ثلاثة أمور منفصلة في أمر واحد. فهناك **الوكالة** (MDEC)، و**المركز** الذي تمنحه (MD Status)، و**حافز ضريبي** هو طلب منفصل تمامًا باشتراطات أشدّ بكثير. والتمييز بينها هو الفرق بين عتبة RM1,000 وعتبة RM50,000. وفي ما يلي كل طبقة، من المصادر الأولية.

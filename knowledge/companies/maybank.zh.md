@@ -78,6 +78,14 @@ verificationNeeded:
   - "PNB 管理基金与 EPF 的持股百分比——随每次 Bursa Malaysia 申报而变动。"
   - "经营国家的数目（全部十个东盟国家加上全球金融中心）——可能变动。"
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 在马来西亚几乎任何地方开一个往来账户，都很有可能会见到马来亚银行那个虎头标志。Malayan Banking Berhad 是本国最大的银行——无论按其资产负债表上的资产，还是按股市对它的估值——也是东南亚最大的银行集团之一。本篇概览说明这个集团做什么、在哪里经营，以及由谁拥有。

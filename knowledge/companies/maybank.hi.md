@@ -78,6 +78,14 @@ verificationNeeded:
   - "PNB-प्रबंधित निधियों और EPF की शेयरधारिता प्रतिशत — प्रत्येक Bursa Malaysia फाइलिंग के साथ बदलती है।"
   - "संचालन वाले देशों की संख्या (सभी दस ASEAN राज्य तथा वैश्विक वित्तीय केंद्र) — बदल सकती है।"
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 मलेशिया में लगभग कहीं भी एक चालू खाता खोलिए और अच्छी संभावना है कि उस पर Maybank का बाघ-सिर वाला लोगो हो। Malayan Banking Berhad देश का सबसे बड़ा बैंक है — अपने तुलन-पत्र की परिसंपत्तियों की दृष्टि से और शेयर बाज़ार के अनुसार उसके मूल्य की दृष्टि से — और दक्षिण-पूर्व एशिया के सबसे बड़े बैंकिंग समूहों में से एक। यह प्रोफ़ाइल बताती है कि यह समूह क्या करता है, कहाँ संचालित होता है और इसका स्वामी कौन है।

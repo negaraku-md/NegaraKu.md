@@ -99,6 +99,14 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'Two lattice telecommunications towers at Bukit Nyabau in Bintulu, Malaysia, silhouetted against an orange and blue sunset sky'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
 ---
 
 Ask two Malaysians how the country's mobile networks are run and you will often get two different, half-right answers — because there are actually two separate stories tangled together. One is a broadband coverage plan with a name most people have seen on a government banner. The other is a fast-moving fight over who gets to own the 5G pipe. Understanding modern Malaysian connectivity means keeping these two stories straight.

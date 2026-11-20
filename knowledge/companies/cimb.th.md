@@ -81,6 +81,14 @@ verificationNeeded:
   - "อันดับการเป็นธนาคารที่ใหญ่เป็นอันดับสองของมาเลเซียเมื่อวัดจากสินทรัพย์และหนึ่งในห้ากลุ่มธนาคารที่ใหญ่ที่สุดในอาเซียน — เป็นเชิงตำแหน่งและแปรผันตามเวลา; ยืนยันใหม่กับงบดุลของคู่แข่งปัจจุบัน"
   - "จำนวนลูกค้า (ตัวเลขที่อ้างในโปรไฟล์ของบุคคลที่สามแตกต่างกันมาก เช่น ~13.5 ล้านรายย่อย เทียบกับ ~25 ล้านรวม) — ตรวจสอบกับการรายงานปัจจุบันของ CIMB เองก่อนเผยแพร่ตัวเลข"
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 CIMB คือธนาคารที่คุณพบเจอแทบทุกหนทุกแห่งในการพาณิชย์ของมาเลเซีย — และมากขึ้นเรื่อย ๆ ทั่วเอเชียตะวันออกเฉียงใต้ มันเป็นธนาคารครบวงจร หมายความว่ามันทำทุกอย่างตั้งแต่บัญชีออมทรัพย์ของมนุษย์เงินเดือนไปจนถึงการออกพันธบัตรมูลค่าหลายพันล้านริงกิตและการเข้าซื้อกิจการข้ามพรมแดน และมันทำเช่นนั้นไม่เพียงในมาเลเซียแต่ผ่านการดำเนินงานขนาดใหญ่ในอินโดนีเซีย ไทย และสิงคโปร์

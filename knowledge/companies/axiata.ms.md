@@ -79,6 +79,14 @@ verificationNeeded:
   - "Keuntungan kumpulan setakat tahun ini RM403.3 juta bagi sembilan bulan hingga 30 Sep 2025 (diterbitkan 27 Nov 2025) — sahkan terhadap keputusan suku tahunan dan tahunan yang akan datang."
   - "'Jauh melebihi 150 juta pelanggan' adalah berdasarkan angka syarikat 2019 ditambah pertumbuhan pasaran berikutnya; sahkan jumlah pelanggan kumpulan semasa terhadap laporan tahunan terkini."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 Kisah telekomunikasi terbesar Malaysia bukanlah satu rangkaian tunggal tetapi sebuah syarikat induk yang memiliki bahagian dalam pengendali mudah alih di enam negara. Axiata Group Berhad terletak di sebuah menara pejabat di Kuala Lumpur Sentral dan mengawal, memiliki sebahagian atau mengendalikan secara bersama pembawa yang menyambungkan ratusan juta orang di seluruh Asia Selatan dan Asia Tenggara.

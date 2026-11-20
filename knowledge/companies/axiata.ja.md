@@ -79,6 +79,14 @@ verificationNeeded:
   - "2025年9月30日までの9か月のグループ年初来純利益RM4.033億（2025年11月27日公表）——次の四半期・年次決算に照らして確認する。"
   - "「1億5,000万人をはるかに超える顧客」は、2019年の会社の数字にその後の市場成長を加えたものに基づく；現在のグループ顧客総数を最新の年次報告書に照らして確認する。"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 マレーシア最大の通信の物語は、単一のネットワークではなく、六か国のモバイル事業者の一部を所有する一つの持株会社である。Axiata Group Berhad はクアラルンプール・セントラルのオフィスタワーに座し、南アジアと東南アジア全域で何億もの人々をつなぐ通信事業者を、支配し、一部を所有し、あるいは共同で運営している。

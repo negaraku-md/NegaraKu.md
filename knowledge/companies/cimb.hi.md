@@ -81,6 +81,14 @@ verificationNeeded:
   - "परिसंपत्ति की दृष्टि से मलेशिया के दूसरे सबसे बड़े बैंक और ASEAN के पाँच सबसे बड़े बैंकिंग समूहों में से एक के रूप में रैंकिंग — स्थिति-आधारित और समय-परिवर्तनशील; मौजूदा प्रतिस्पर्धी तुलन-पत्रों के विरुद्ध पुनः पुष्टि करें।"
   - "ग्राहक संख्या (तृतीय-पक्ष प्रोफ़ाइलों में उद्धृत आँकड़े व्यापक रूप से भिन्न हैं, उदाहरण के लिए ~13.5 million खुदरा बनाम ~25 million कुल) — कोई संख्या प्रकाशित करने से पहले CIMB की अपनी मौजूदा रिपोर्टिंग के विरुद्ध सत्यापित करें।"
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 CIMB वह बैंक है जिससे आप मलेशियाई वाणिज्य में लगभग हर मोड़ पर मिलते हैं — और बढ़ते हुए दक्षिण-पूर्व एशिया भर में। यह एक सार्वभौमिक बैंक है, अर्थात यह एक वेतनभोगी कर्मचारी के बचत खाते से लेकर अरबों-रिंगिट के बॉन्ड निर्गमों और सीमा-पार अधिग्रहणों तक सब कुछ करता है, और यह न केवल मलेशिया में बल्कि इंडोनेशिया, थाईलैंड और सिंगापुर में बड़े संचालनों के माध्यम से भी ऐसा करता है।

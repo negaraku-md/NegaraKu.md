@@ -79,6 +79,14 @@ verificationNeeded:
   - "集团截至2025年9月30日止九个月的年初至今利润 RM403.3 million（于2025年11月27日公布）——对照下一份季度与年度业绩核实。"
   - "「远超1.5亿名客户」基于2019年的公司数字加上其后的市场增长；对照最新年报核实集团当前的客户总数。"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 马来西亚最大的电信故事，并非单一的网络，而是一家拥有六个国家移动运营商部分股权的控股公司。Axiata Group Berhad 坐落于吉隆坡中环（Kuala Lumpur Sentral）的一座办公大楼内，控制、部分持有或共同经营着连接南亚与东南亚数以亿计人口的运营商。

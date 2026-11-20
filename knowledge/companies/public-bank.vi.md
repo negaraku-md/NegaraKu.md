@@ -79,6 +79,14 @@ verificationNeeded:
   - "Tỷ lệ nắm giữ 44,15% trong LPI Capital Bhd — xác nhận tỷ lệ sở hữu cổ phần hiện hành và mọi chi tiết hoàn tất."
   - "Ban lãnh đạo: Tay Ah Lek làm giám đốc điều hành và Tổng Giám đốc, cùng chủ tịch đương nhiệm — xác nhận các vị trí hiện hành trong hội đồng quản trị."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
 ---
 
 Ít có công ty Malaysia nào gắn bó mật thiết với một người sáng lập duy nhất như Public Bank gắn với Tan Sri Teh Hong Piow. Bắt đầu với một chi nhánh ở trung tâm Kuala Lumpur năm 1966, ông đã xây dựng một đơn vị cho vay phát triển thành một trong những tập đoàn ngân hàng lớn nhất của đất nước — và một tập đoàn nổi tiếng ít vì quy mô mà hơn vì sự thận trọng, ghi nhận các tỷ lệ nợ xấu thấp nhất ngành ngân hàng hết thập kỷ này sang thập kỷ khác.

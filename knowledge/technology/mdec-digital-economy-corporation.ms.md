@@ -68,6 +68,14 @@ relations: []
 related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: 'Aerial panorama of Cyberjaya, Malaysia''s tech corridor, showing office buildings, highways and green landscaping'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
 ---
 
 Cari "Status Malaysia Digital" dan hampir setiap hasil carian ialah sebuah firma perunding yang menjual perkhidmatan permohonan — dan kebanyakannya mengaburkan tiga perkara berasingan menjadi satu. Ada **agensi** (MDEC), ada **status** yang dianugerahkannya (Status MD), dan ada **insentif cukai** yang merupakan permohonan yang benar-benar berasingan dengan syarat yang jauh lebih ketat. Membezakannya ialah perbezaan antara ambang RM1,000 dan RM50,000. Berikut ialah setiap lapisan, daripada sumber utama.

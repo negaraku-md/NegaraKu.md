@@ -78,6 +78,14 @@ verificationNeeded:
   - "Persentase kepemilikan saham untuk dana yang dikelola PNB dan EPF — berubah pada setiap pelaporan Bursa Malaysia."
   - "Jumlah negara tempat beroperasi (seluruh sepuluh negara ASEAN ditambah pusat-pusat keuangan global) — dapat berubah."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 Bukalah rekening giro hampir di mana saja di Malaysia dan ada peluang besar rekening itu membawa logo kepala harimau Maybank. Malayan Banking Berhad adalah bank terbesar di negara ini — menurut aset di neracanya dan menurut nilai yang ditetapkan pasar saham — serta salah satu grup perbankan terbesar di Asia Tenggara. Profil ini memaparkan apa yang dilakukan grup ini, di mana ia beroperasi, dan siapa pemiliknya.

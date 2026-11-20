@@ -81,6 +81,14 @@ verificationNeeded:
   - "الترتيب بوصفه ثاني أكبر بنك في ماليزيا بالأصول ومن بين أكبر خمس مجموعات مصرفية في آسيان — ترتيبي ومتغير زمنيًّا؛ يُعاد التحقق منه مقابل ميزانيات الأقران الحالية."
   - "عدد العملاء (تتفاوت الأرقام في الملفات الطرفية تفاوتًا واسعًا، مثلًا ~13.5 مليون تجزئة مقابل ~25 مليون إجمالًا) — يُتحقق منه مقابل تقارير سي آي إم بي الحالية قبل نشر رقم."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 سي آي إم بي هو البنك الذي تصادفه في كل مكان تقريبًا في التجارة الماليزية — وعلى نحو متزايد عبر جنوب شرق آسيا. وهو بنك شامل، أي يفعل كل شيء من حساب توفير لعاملٍ براتب إلى إصدارات سندات بمليارات الرينغيت واستحواذات عابرة للحدود، ويفعل ذلك لا في ماليزيا وحدها بل عبر عمليات كبيرة في إندونيسيا وتايلاند وسنغافورة.

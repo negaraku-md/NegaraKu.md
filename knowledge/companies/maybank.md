@@ -77,6 +77,14 @@ verificationNeeded:
   - "Shareholding percentages for PNB-managed funds and EPF — change with each Bursa Malaysia filing."
   - "Number of countries of operation (all ten ASEAN states plus global financial centres) — may change."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 Open a current account almost anywhere in Malaysia and there is a good chance it carries the tiger's-head logo of Maybank. Malayan Banking Berhad is the country's largest bank — by the assets on its balance sheet and by what the stock market says it is worth — and one of the biggest banking groups in Southeast Asia. This profile sets out what the group does, where it operates and who owns it.

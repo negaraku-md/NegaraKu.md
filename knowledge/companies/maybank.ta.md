@@ -78,6 +78,14 @@ verificationNeeded:
   - "PNB நிர்வகிக்கும் நிதிகள் மற்றும் EPF-இன் பங்கு சதவீதங்கள் — ஒவ்வொரு Bursa Malaysia தாக்கலுடனும் மாறுகின்றன."
   - "செயல்படும் நாடுகளின் எண்ணிக்கை (பத்து ASEAN நாடுகள் அனைத்தும், மேலும் உலகளாவிய நிதி மையங்கள்) — மாறலாம்."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 மலேசியாவில் கிட்டத்தட்ட எங்கு வேண்டுமானாலும் நடப்புக் கணக்கு ஒன்றைத் திறந்தால், அதில் Maybank-இன் புலித் தலை சின்னம் இருக்க நல்ல வாய்ப்பு உண்டு. Malayan Banking Berhad என்பது நாட்டின் மிகப்பெரிய வங்கி — அதன் இருப்புநிலைக் குறிப்பிலுள்ள சொத்துகளின்படியும், பங்குச் சந்தை அதன் மதிப்பு எவ்வளவு என்று சொல்வதின்படியும் — மேலும் தென்கிழக்கு ஆசியாவின் மிகப்பெரிய வங்கிக் குழுமங்களில் ஒன்று. இந்தச் சுயவிவரம் குழுமம் என்ன செய்கிறது, எங்கு செயல்படுகிறது, யார் சொந்தமாக வைத்திருக்கிறார்கள் என்பதை விளக்குகிறது.

@@ -79,6 +79,14 @@ verificationNeeded:
   - "المساهمة الحالية في المجموعة الأم (المصالح المرتبطة بأوساها تيغاس وشركة الاتصالات السعودية) — يُتحقق منها مقابل آخر إفصاحات بورصة ماليزيا."
   - "حالة شبكة الجيل الخامس الثانية في ماليزيا ودور ماكسيس فيها (اختيرت يو موبايل في نوفمبر 2024) — يُتحقق من سياسة الجيل الخامس الحالية والترتيبات مع MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 كل ماليزي لديه هاتف تقريبًا كان، في مرحلةٍ ما، عميلًا لماكسيس أو هوتلينك. وخلف هاتين العلامتين المألوفتين تقف شركة واحدة — ماكسيس برهاد (Maxis Berhad) — تُعدّ من أكبر مشغّلي الاتصالات في البلاد، ونمت من حاملٍ للجوال فقط إلى مزوّدٍ متقارب للجوال وعريض النطاق المنزلي والاتصال المؤسسي.

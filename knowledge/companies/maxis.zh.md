@@ -79,6 +79,14 @@ verificationNeeded:
   - "母公司集团的当前持股（Usaha Tegas 关联权益与沙特电信公司）——对照最新的 Bursa Malaysia 披露确认。"
   - "马来西亚第二个5G网络的状态及 Maxis 在其中的角色（U Mobile 于2024年11月获选）——对照 MCMC 核实当前的5G政策与安排。"
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 几乎每个有手机的马来西亚人，都曾在某个时刻成为 Maxis 或 Hotlink 的客户。在这两个耳熟能详的品牌背后，是单一一家公司——Maxis Berhad——它跻身本国最大的电信运营商之列，并已从一家纯移动运营商成长为提供移动、家庭宽带与企业连接的融合服务商。

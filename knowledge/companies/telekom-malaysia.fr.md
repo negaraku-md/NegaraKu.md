@@ -81,6 +81,14 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: 'The tapering curved Menara TM skyscraper rising against blue sky and cumulus cloud, its vertical blade-like spine carrying the red-and-blue TM logo and a disc-shaped sky terrace jutting from the upper floors'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
 ---
 
 Presque chaque ligne de haut débit par fibre, circuit d'entreprise et câble de données sous-marin en Malaisie passe par une seule entreprise avant d'atteindre quiconque. Telekom Malaysia Berhad (TM) est l'opérateur historique national — l'opérateur qui a construit la majeure partie du réseau fixe du pays et possède toujours l'épine dorsale dont dépendent les concurrents et les transporteurs internationaux.

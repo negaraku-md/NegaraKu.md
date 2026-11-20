@@ -81,6 +81,14 @@ verificationNeeded:
   - "Peringkat sebagai bank terbesar kedua Malaysia menurut aset dan termasuk lima grup perbankan terbesar ASEAN — bersifat posisional dan berubah menurut waktu; konfirmasi ulang terhadap neraca pesaing saat ini."
   - "Jumlah nasabah (angka yang dikutip dalam profil pihak ketiga bervariasi luas, misalnya ~13,5 juta ritel vs. ~25 juta total) — verifikasi terhadap pelaporan terkini CIMB sendiri sebelum menerbitkan sebuah angka."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 CIMB adalah bank yang hampir selalu Anda temui ke mana pun Anda melangkah dalam perniagaan Malaysia — dan semakin banyak di seluruh Asia Tenggara. Ia adalah bank universal, artinya ia melakukan segala hal mulai dari rekening tabungan pekerja bergaji hingga penerbitan obligasi bernilai miliaran ringgit dan akuisisi lintas batas, dan ia melakukannya tidak hanya di Malaysia tetapi juga melalui operasi besar di Indonesia, Thailand, dan Singapura.

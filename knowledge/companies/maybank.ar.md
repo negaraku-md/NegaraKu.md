@@ -78,6 +78,14 @@ verificationNeeded:
   - "نسب المساهمة لصناديق بيرمودالان ناسيونال برهاد (PNB) وصندوق ادخار الموظفين (EPF) — تتغير مع كل إفصاح لبورصة ماليزيا."
   - "عدد دول العمل (كل دول آسيان العشر إضافةً إلى مراكز مالية عالمية) — قد يتغير."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 افتح حسابًا جاريًا في أي مكان في ماليزيا تقريبًا، وثمة احتمال كبير أن يحمل شعار رأس النمر الخاص بماي بنك. فـMalayan Banking Berhad أكبر بنك في البلاد — بالأصول في ميزانيته العمومية وبما تقول السوق إنه يساويه — وإحدى أكبر المجموعات المصرفية في جنوب شرق آسيا. يبيّن هذا الملف ما تفعله المجموعة، وأين تعمل، ومن يملكها.

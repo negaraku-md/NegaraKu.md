@@ -79,6 +79,14 @@ verificationNeeded:
   - "Tỷ lệ sở hữu cổ phần hiện hành của tập đoàn mẹ (các lợi ích liên kết với Usaha Tegas và Saudi Telecom Company) — xác nhận đối chiếu với các công bố mới nhất của Bursa Malaysia."
   - "Tình trạng của mạng 5G thứ hai của Malaysia và vai trò của Maxis trong đó (U Mobile được chọn vào tháng 11 năm 2024) — xác minh chính sách và các dàn xếp 5G hiện hành với MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 Gần như mọi người Malaysia có điện thoại đều, vào một thời điểm nào đó, từng là khách hàng của Maxis hay Hotlink. Đằng sau hai thương hiệu quen thuộc đó là một công ty duy nhất — Maxis Berhad — nằm trong số các nhà khai thác viễn thông lớn nhất của đất nước và đã phát triển từ một nhà mạng chỉ cung cấp di động thành một nhà cung cấp hội tụ về di động, băng rộng gia đình và kết nối doanh nghiệp.

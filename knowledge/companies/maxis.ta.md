@@ -79,6 +79,14 @@ verificationNeeded:
   - "தாய் குழுமத்தின் தற்போதைய பங்குவைப்பு (Usaha Tegas-உடன் இணைந்த நலன்கள் மற்றும் Saudi Telecom Company) — சமீபத்திய Bursa Malaysia வெளிப்படுத்தல்களுடன் உறுதிப்படுத்தவும்."
   - "மலேசியாவின் இரண்டாவது 5G வலையமைப்பின் நிலை மற்றும் அதில் Maxis-இன் பங்கு (2024 நவம்பரில் U Mobile தேர்ந்தெடுக்கப்பட்டது) — MCMC-உடன் தற்போதைய 5G கொள்கை மற்றும் ஏற்பாடுகளை சரிபார்க்கவும்."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 தொலைபேசி வைத்திருக்கும் கிட்டத்தட்ட ஒவ்வொரு மலேசியரும், எப்போதாவது, ஒரு Maxis அல்லது Hotlink வாடிக்கையாளராக இருந்திருப்பார்கள். அந்த இரண்டு பரிச்சயமான பிராண்டுகளுக்குப் பின்னால் ஒரே நிறுவனம் — Maxis Berhad — அமர்ந்துள்ளது; இது நாட்டின் மிகப்பெரிய தொலைத்தொடர்பு இயக்குநர்களில் ஒன்றாக இருந்து, மொபைல்-மட்டும் கேரியரிலிருந்து மொபைல், வீட்டு பிராட்பேண்ட் மற்றும் நிறுவன இணைப்பின் ஒருங்கிணைந்த வழங்குநராக வளர்ந்துள்ளது.

@@ -79,6 +79,14 @@ verificationNeeded:
   - "Pegangan saham semasa kumpulan induk (kepentingan berkaitan Usaha Tegas dan Saudi Telecom Company) — sahkan terhadap pendedahan Bursa Malaysia terkini."
   - "Status rangkaian 5G kedua Malaysia dan peranan Maxis di dalamnya (U Mobile dipilih pada November 2024) — sahkan dasar dan pengaturan 5G semasa dengan SKMM."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 Hampir setiap rakyat Malaysia yang memiliki telefon pernah, pada satu masa, menjadi pelanggan Maxis atau Hotlink. Di sebalik dua jenama yang biasa itu terletak satu syarikat — Maxis Berhad — yang berada dalam kalangan pengendali telekomunikasi terbesar negara ini dan telah berkembang daripada pembawa mudah alih sahaja menjadi penyedia bersepadu mudah alih, jalur lebar rumah dan ketersambungan perusahaan.

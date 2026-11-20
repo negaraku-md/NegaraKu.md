@@ -81,6 +81,14 @@ verificationNeeded:
   - "Classement comme deuxième banque de Malaisie par les actifs et parmi les cinq plus grands groupes bancaires de l'ASEAN — positionnel et variable dans le temps ; à reconfirmer par rapport aux bilans actuels des pairs."
   - "Nombre de clients (les chiffres cités dans des profils tiers varient largement, par ex. ~13,5 millions de clients de détail contre ~25 millions au total) — à vérifier par rapport au reporting actuel de CIMB avant de publier un chiffre."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 CIMB est la banque que l'on croise presque partout où l'on se tourne dans le commerce malaisien — et de plus en plus dans toute l'Asie du Sud-Est. C'est une banque universelle, ce qui signifie qu'elle fait tout, du compte d'épargne d'un salarié aux émissions obligataires de plusieurs milliards de ringgit et aux acquisitions transfrontalières, et elle le fait non seulement en Malaisie mais à travers de grandes opérations en Indonésie, en Thaïlande et à Singapour.

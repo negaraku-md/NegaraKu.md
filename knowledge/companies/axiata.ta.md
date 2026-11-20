@@ -79,6 +79,14 @@ verificationNeeded:
   - "2025 செப். 30-உடன் முடிந்த ஒன்பது மாதங்களுக்கு குழும YTD லாபம் RM403.3 மில்லியன் (2025 நவ. 27 அன்று வெளியிடப்பட்டது) — அடுத்த காலாண்டு மற்றும் ஆண்டு முடிவுகளுடன் சரிபார்க்கவும்."
   - "'150 மில்லியனுக்கும் அதிகமான வாடிக்கையாளர்கள்' என்பது 2019 நிறுவன எண்ணையும் அடுத்தடுத்த சந்தை வளர்ச்சியையும் அடிப்படையாகக் கொண்டது; தற்போதைய குழும வாடிக்கையாளர் மொத்தத்தை சமீபத்திய ஆண்டறிக்கையுடன் சரிபார்க்கவும்."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 மலேசியாவின் மிகப்பெரிய தொலைத்தொடர்புக் கதை ஒரே வலையமைப்பு அல்ல, மாறாக ஆறு நாடுகளில் மொபைல் இயக்குநர்களின் பங்குகளைச் சொந்தமாக்கும் ஒரு ஹோல்டிங் நிறுவனம். Axiata Group Berhad, Kuala Lumpur Sentral-இல் ஒரு அலுவலகக் கோபுரத்தில் அமர்ந்து, தெற்கு மற்றும் தென்கிழக்கு ஆசியா முழுவதும் நூற்றுக்கணக்கான மில்லியன் மக்களை இணைக்கும் கேரியர்களைக் கட்டுப்படுத்துகிறது, பகுதி உரிமையாக்குகிறது அல்லது கூட்டாக நடத்துகிறது.

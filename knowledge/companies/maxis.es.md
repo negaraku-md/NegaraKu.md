@@ -79,6 +79,14 @@ verificationNeeded:
   - "Participación actual del grupo matriz (intereses vinculados a Usaha Tegas y Saudi Telecom Company) — confirmar frente a las divulgaciones más recientes a Bursa Malaysia."
   - "Situación de la segunda red 5G de Malasia y el papel de Maxis en ella (U Mobile fue seleccionada en noviembre de 2024) — verificar la política y los acuerdos actuales de 5G con la MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
 ---
 
 Casi todos los malasios con teléfono han sido, en algún momento, clientes de Maxis o de Hotlink. Detrás de esas dos marcas familiares hay una sola empresa — Maxis Berhad — que figura entre los mayores operadores de telecomunicaciones del país y que ha pasado de ser una operadora exclusivamente móvil a un proveedor convergente de móvil, banda ancha para el hogar y conectividad empresarial.

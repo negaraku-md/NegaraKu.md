@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "empresa eléctrica", "utiliti elektrik", "red nacional", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'Aerial view of Kenyir Dam''s grey rockfill embankment marked with the giant white word KENYIR, the hydroelectric power station and transmission lines at its base and Kenyir Lake stretching behind'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
 ---
 
 Cada vez que se encienden las luces en su hogar en la Península, hay muchas probabilidades de que la electricidad fluya por cables propiedad de una única empresa: Tenaga Nasional Berhad. Es la mayor empresa eléctrica del país, con más de 11 millones de clientes en Malasia Peninsular, Sabah y Labuan a fecha de 30 de septiembre de 2025.

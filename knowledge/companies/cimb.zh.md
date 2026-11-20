@@ -81,6 +81,14 @@ verificationNeeded:
   - "作为马来西亚按资产计第二大银行以及东盟最大五家银行集团之一的排名——属位置性且随时间变动；对照同业当前的资产负债表重新确认。"
   - "客户数目（第三方简介所引数字差异甚大，例如零售约1,350万相较于总计约2,500万）——在公布任何数字前对照 CIMB 自身当前的报告核实。"
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 在马来西亚的商业活动中，几乎转身即可遇见 CIMB——而且在东南亚各地也日益如此。它是一家综合银行，意即从受薪者的储蓄账户到数十亿令吉的债券发行与跨境收购，无所不做，而且不仅在马来西亚，也透过在印度尼西亚、泰国与新加坡的庞大业务进行。

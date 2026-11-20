@@ -78,6 +78,14 @@ verificationNeeded:
   - "Peratusan pegangan saham bagi dana urusan PNB dan KWSP — berubah dengan setiap pemfailan Bursa Malaysia."
   - "Bilangan negara operasi (kesemua sepuluh negara ASEAN serta pusat kewangan global) — mungkin berubah."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 Buka akaun semasa hampir di mana-mana sahaja di Malaysia dan ada kemungkinan besar ia membawa logo kepala harimau Maybank. Malayan Banking Berhad ialah bank terbesar negara ini — dari segi aset dalam kunci kira-kiranya dan dari segi nilainya pada pandangan pasaran saham — dan salah satu kumpulan perbankan terbesar di Asia Tenggara. Profil ini menjelaskan apa yang dilakukan oleh kumpulan ini, di mana ia beroperasi dan siapa pemiliknya.

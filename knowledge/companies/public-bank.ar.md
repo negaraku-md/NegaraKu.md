@@ -79,6 +79,14 @@ verificationNeeded:
   - "حصة 44.15% في LPI Capital Bhd — يُتحقق من الحصة الحالية وأي تفاصيل إتمام."
   - "القيادة: تاي آه ليك (Tay Ah Lek) عضوًا منتدبًا ورئيسًا تنفيذيًّا، والرئيس الحالي — يُتحقق من مناصب المجلس الحالية."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
 ---
 
 قليل من الشركات الماليزية مرتبط بمؤسسٍ واحد كما البنك العام بتان سري تيه هونغ بيو (Teh Hong Piow). فبدءًا بفرعٍ واحد في وسط كوالالمبور عام 1966، بنى مُقرضًا نما إلى إحدى أكبر المجموعات المصرفية في البلاد — ومشهورًا لا بالحجم بل بالحذر، مسجلًا عقدًا بعد عقد أدنى نسب قروض رديئة في القطاع المصرفي.

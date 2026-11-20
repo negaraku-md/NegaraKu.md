@@ -79,6 +79,14 @@ verificationNeeded:
   - "ربح المجموعة حتى تاريخه قدره 403.3 مليون رينغيت للأشهر التسعة المنتهية في 30 سبتمبر 2025 (نُشر في 27 نوفمبر 2025) — يُتحقق منه مقابل النتائج الربع سنوية والسنوية التالية."
   - "عبارة «ما يفوق 150 مليون عميل» مبنية على رقم شركة لعام 2019 إضافةً إلى نمو السوق اللاحق؛ يُتحقق من إجمالي عملاء المجموعة الحالي مقابل آخر تقرير سنوي."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 أكبر قصة اتصالات في ماليزيا ليست شبكة واحدة بل شركة قابضة تملك حصصًا من مشغّلي جوال في ست دول. فمجموعة أكسياتا برهاد (Axiata Group Berhad) تقع في برج مكاتب في كوالالمبور سنترال (Kuala Lumpur Sentral) وتسيطر على، أو تشارك في ملكية، أو تدير معًا الحوامل التي تصل مئات الملايين من الناس عبر جنوب وجنوب شرق آسيا.

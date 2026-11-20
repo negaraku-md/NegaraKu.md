@@ -78,6 +78,14 @@ verificationNeeded:
   - "Tỷ lệ sở hữu cổ phần của các quỹ do PNB quản lý và EPF — thay đổi theo mỗi lần công bố với Bursa Malaysia."
   - "Số quốc gia hoạt động (cả mười quốc gia ASEAN cộng với các trung tâm tài chính toàn cầu) — có thể thay đổi."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 Mở một tài khoản vãng lai ở gần như bất cứ đâu tại Malaysia và rất có khả năng nó mang logo đầu hổ của Maybank. Malayan Banking Berhad là ngân hàng lớn nhất của đất nước — xét theo tài sản trên bảng cân đối kế toán của nó và theo điều mà thị trường chứng khoán cho rằng nó đáng giá — và là một trong những tập đoàn ngân hàng lớn nhất Đông Nam Á. Hồ sơ này trình bày tập đoàn làm gì, hoạt động ở đâu và ai sở hữu nó.

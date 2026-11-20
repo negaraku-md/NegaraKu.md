@@ -78,6 +78,14 @@ verificationNeeded:
   - "สัดส่วนการถือหุ้นของกองทุนที่บริหารโดย PNB และ EPF — เปลี่ยนแปลงในแต่ละการยื่นรายงานของ Bursa Malaysia"
   - "จำนวนประเทศที่ดำเนินงาน (ทั้งสิบรัฐอาเซียนบวกศูนย์กลางการเงินระดับโลก) — อาจเปลี่ยนแปลง"
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 เปิดบัญชีกระแสรายวันที่ไหนก็ได้แทบทุกแห่งในมาเลเซีย และมีโอกาสสูงที่มันจะมีโลโก้หัวเสือของเมย์แบงก์ Malayan Banking Berhad เป็นธนาคารที่ใหญ่ที่สุดของประเทศ — ทั้งโดยสินทรัพย์ในงบดุลและโดยมูลค่าที่ตลาดหุ้นกำหนด — และเป็นหนึ่งในกลุ่มธนาคารที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ ข้อมูลหน่วยงานนี้ชี้แจงว่ากลุ่มนี้ทำอะไร ดำเนินงานที่ไหน และใครเป็นเจ้าของ

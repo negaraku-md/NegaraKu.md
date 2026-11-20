@@ -79,6 +79,14 @@ verificationNeeded:
   - "Laba YTD grup sebesar RM403,3 juta untuk sembilan bulan hingga 30 Sep 2025 (diterbitkan 27 Nov 2025) — verifikasi terhadap hasil triwulanan dan tahunan berikutnya."
   - "'Jauh lebih dari 150 juta pelanggan' didasarkan pada angka perusahaan 2019 ditambah pertumbuhan pasar berikutnya; verifikasi total pelanggan grup saat ini terhadap laporan tahunan terbaru."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 Kisah telekomunikasi terbesar Malaysia bukanlah satu jaringan melainkan sebuah perusahaan induk yang memiliki bagian operator seluler di enam negara. Axiata Group Berhad bermarkas di sebuah gedung perkantoran di Kuala Lumpur Sentral dan mengendalikan, memiliki sebagian, atau menjalankan bersama operator-operator yang menghubungkan ratusan juta orang di seluruh Asia Selatan dan Tenggara.

@@ -81,6 +81,14 @@ verificationNeeded:
   - "資産規模でマレーシア第二位の銀行、ASEAN 最大級の五つの銀行グループのひとつという順位——位置的かつ時とともに変わる；現在の同業の貸借対照表に照らして再確認する。"
   - "顧客数（第三者プロフィールで引用される数字は、個人約1,350万から総計約2,500万まで大きく幅がある）——数字を公表する前に CIMB 自身の現在の報告に照らして確認する。"
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 CIMB は、マレーシアの商取引のどこを向いてもほとんど必ず出会う銀行であり——そしてますます東南アジア全域でもそうなっている。それはユニバーサルバンクであり、給与所得者の貯蓄口座から数十億リンギット規模の債券発行や越境買収まですべてを手がけ、しかもマレーシアだけでなく、インドネシア、タイ、シンガポールの大規模な事業を通じてもそれを行う。

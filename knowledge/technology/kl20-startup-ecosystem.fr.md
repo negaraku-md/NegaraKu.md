@@ -92,6 +92,14 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'The Petronas Twin Towers rising above the Kuala Lumpur skyline in soft morning mist'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
 ---
 
 En avril 2024, la Malaisie a cessé de parler de ses startups dans le langage de l'espoir pour commencer à en parler dans celui des classements. L'annonce était directe : faire entrer Kuala Lumpur dans les 20 premiers écosystèmes de startups au monde d'ici 2030, ou admettre que le pays avait tourné au ralenti.

@@ -78,6 +78,14 @@ verificationNeeded:
   - "PNB 운용 기금과 EPF의 지분율 — Bursa Malaysia 공시마다 변함."
   - "영업 국가 수(아세안 10개국 전체와 글로벌 금융 중심지) — 변할 수 있음."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 말레이시아 거의 어디에서든 당좌계좌를 열면, 그 계좌에 Maybank의 호랑이 머리 로고가 찍혀 있을 가능성이 높습니다. Malayan Banking Berhad는 이 나라 최대 은행이며 — 대차대조표상의 자산으로 보나 주식시장이 매기는 가치로 보나 — 동남아시아에서 가장 큰 은행 그룹의 하나입니다. 이 프로필은 이 그룹이 무엇을 하고, 어디에서 영업하며, 누가 소유하는지를 정리합니다.

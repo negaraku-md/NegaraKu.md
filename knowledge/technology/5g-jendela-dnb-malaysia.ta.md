@@ -100,6 +100,14 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'Two lattice telecommunications towers at Bukit Nyabau in Bintulu, Malaysia, silhouetted against an orange and blue sunset sky'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
 ---
 
 நாட்டின் மொபைல் வலையமைப்புகள் எவ்வாறு நடத்தப்படுகின்றன என்று இரண்டு மலேசியர்களிடம் கேளுங்கள் — நீங்கள் அடிக்கடி இரண்டு வேறுபட்ட, பாதி-சரியான பதில்களைப் பெறுவீர்கள், ஏனெனில் உண்மையில் இரண்டு தனித்தனி கதைகள் ஒன்றாகப் பின்னிப் பிணைந்துள்ளன. ஒன்று, பெரும்பாலான மக்கள் ஒரு அரசாங்க பதாகையில் பார்த்திருக்கும் பெயருடன் கூடிய அகலப்பட்டை பரவல் திட்டம். மற்றொன்று, 5G குழாயை யார் சொந்தமாக்குவது என்பது குறித்து வேகமாக நகரும் போராட்டம். நவீன மலேசிய இணைப்பைப் புரிந்துகொள்வது என்பது இந்த இரண்டு கதைகளையும் தெளிவாக வேறுபடுத்திப் பார்ப்பதாகும்.

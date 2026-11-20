@@ -79,6 +79,14 @@ verificationNeeded:
   - "2025년 9월 30일까지 9개월 그룹 YTD 순이익 RM403.3 million(2025년 11월 27일 발표) — 다음 분기·연차 실적과 대조하여 확인."
   - "'1억 5천만 명을 훨씬 넘는 고객'은 2019년 회사 수치에 이후 시장 성장을 더한 것; 현재 그룹 고객 총수를 최신 연차보고서와 대조하여 확인."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 말레이시아의 가장 큰 통신 이야기는 단일 망이 아니라, 여섯 나라의 모바일 사업자 지분을 소유한 지주회사입니다. Axiata Group Berhad는 쿠알라룸푸르 센트럴(Kuala Lumpur Sentral)의 한 오피스 타워에 자리하며, 남아시아와 동남아시아 전역에서 수억 명을 연결하는 통신사들을 지배하거나, 일부 소유하거나, 공동으로 운영합니다.

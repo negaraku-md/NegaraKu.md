@@ -79,6 +79,14 @@ verificationNeeded:
   - "LPI Capital Bhd-இல் 44.15% பங்கு — தற்போதைய பங்குவைப்பு மற்றும் ஏதேனும் நிறைவு விவரங்களை உறுதிப்படுத்தவும்."
   - "தலைமை: Tay Ah Lek நிர்வாக இயக்குநர் மற்றும் CEO ஆக, மற்றும் தற்போதைய தலைவர் — தற்போதைய வாரியப் பதவிகளை உறுதிப்படுத்தவும்."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
 ---
 
 Public Bank, Tan Sri Teh Hong Piow-உடன் எவ்வளவு நெருக்கமாகப் பிணைக்கப்பட்டுள்ளதோ அவ்வளவு ஒரே நிறுவனருடன் பிணைக்கப்பட்ட மலேசிய நிறுவனங்கள் மிகச் சில. 1966-இல் மத்திய Kuala Lumpur-இல் ஒரே கிளையுடன் தொடங்கி, அவர் நாட்டின் மிகப்பெரிய வங்கிக் குழுமங்களில் ஒன்றாக வளர்ந்த ஒரு கடன்தரரைக் கட்டினார் — அளவுக்காக அல்ல, மாறாகக் கவனத்திற்காக, தசாப்தத்திற்குப் பின் தசாப்தமாக வங்கித் துறையின் மிகக் குறைந்த மோசமான கடன் விகிதங்களைப் பதிவு செய்ததற்காகப் பிரபலமானவர்.

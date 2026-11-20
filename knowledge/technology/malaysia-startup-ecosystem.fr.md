@@ -103,6 +103,14 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "écosystème de startups de la Malaisie", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'A bright multi-storey coworking office seen from above, with glass balustrades, open staircases and people working at desks across several levels under a glass roof'
+heroCredit: 'Jasmanna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 ---
 
 Demandez à dix fondateurs malaisiens d'où vient l'argent public destiné aux

@@ -79,6 +79,14 @@ verificationNeeded:
   - "Lợi nhuận lũy kế từ đầu năm của tập đoàn là RM403,3 triệu cho chín tháng đến ngày 30 tháng 9 năm 2025 (công bố ngày 27 tháng 11 năm 2025) — xác minh đối chiếu với kết quả theo quý và thường niên tiếp theo."
   - "「Hơn 150 triệu khách hàng」 dựa trên một con số của công ty năm 2019 cộng với tăng trưởng thị trường sau đó; xác minh tổng số khách hàng hiện hành của tập đoàn đối chiếu với báo cáo thường niên mới nhất."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 Câu chuyện viễn thông lớn nhất của Malaysia không phải là một mạng lưới đơn lẻ mà là một công ty mẹ sở hữu các phần của những nhà mạng di động ở sáu quốc gia. Axiata Group Berhad tọa lạc trong một tòa tháp văn phòng tại Kuala Lumpur Sentral và kiểm soát, sở hữu một phần hoặc cùng vận hành các nhà mạng kết nối hàng trăm triệu người trên khắp Nam Á và Đông Nam Á.

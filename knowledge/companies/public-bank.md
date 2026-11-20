@@ -78,6 +78,14 @@ verificationNeeded:
   - "44.15% stake in LPI Capital Bhd — confirm current shareholding and any completion details."
   - "Leadership: Tay Ah Lek as managing director and CEO, and the serving chairman — confirm current board positions."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
 ---
 
 Few Malaysian companies are as closely tied to a single founder as Public Bank is to Tan Sri Teh Hong Piow. Starting with one branch in central Kuala Lumpur in 1966, he built a lender that grew into one of the country's largest banking groups — and one famous less for size than for caution, posting the banking sector's lowest bad-loan ratios decade after decade.

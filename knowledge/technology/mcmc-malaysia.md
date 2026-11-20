@@ -84,6 +84,14 @@ relations:
   - { rel: "governs", to: "digital-nasional-berhad" }
 related: ["online-safety-act-malaysia"]
 keywords: ["MCMC", "SKMM", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen kelas", "spektrum", "JENDELA", "Digital Nasional Berhad", "5G"]
+hero: '/media/technology/mcmc-malaysia/hero.webp'
+heroAlt: 'Modern glass office towers and commercial buildings at Shaftsbury Square in Cyberjaya, Malaysia'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Office towers at Shaftsbury Square in Cyberjaya, the corporate district where MCMC is headquartered'
 ---
 
 Setiap kali telefon anda melompat daripada 4G ke 5G, menyambung Wi-Fi rumah, atau memasang antena satelit, aktiviti itu bergerak dalam rangka undang-undang yang satu badan sahaja mengawal — MCMC. Ia menentukan siapa boleh membina rangkaian, siapa boleh menjual perkhidmatan di atasnya, dan frekuensi radio mana yang boleh digunakan.

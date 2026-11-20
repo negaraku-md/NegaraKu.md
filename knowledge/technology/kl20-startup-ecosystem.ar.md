@@ -92,6 +92,14 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'The Petronas Twin Towers rising above the Kuala Lumpur skyline in soft morning mist'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
 ---
 
 في أبريل 2024، كفّت ماليزيا عن الحديث عن شركاتها الناشئة بلغة الأمل وبدأت تتحدّث بلغة المراتب. وكان العرض صريحاً: أدخِلوا كوالالمبور إلى أفضل 20 منظومة شركات ناشئة في العالم بحلول 2030، أو اعترفوا بأن البلاد كانت تسير بلا جهد.

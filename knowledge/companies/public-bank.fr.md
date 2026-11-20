@@ -79,6 +79,14 @@ verificationNeeded:
   - "Participation de 44,15 % dans LPI Capital Bhd — à confirmer avec l'actionnariat actuel et les détails d'achèvement éventuels."
   - "Direction : Tay Ah Lek comme directeur général et PDG, et le président en exercice — à confirmer avec les postes actuels du conseil."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
 ---
 
 Peu d'entreprises malaisiennes sont aussi étroitement liées à un fondateur unique que Public Bank l'est à Tan Sri Teh Hong Piow. Partant d'une seule agence au centre de Kuala Lumpur en 1966, il a bâti un prêteur devenu l'un des plus grands groupes bancaires du pays — et célèbre moins pour sa taille que pour sa prudence, affichant décennie après décennie les plus faibles ratios de créances douteuses du secteur bancaire.

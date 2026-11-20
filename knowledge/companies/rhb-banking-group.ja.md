@@ -77,6 +77,14 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'A three-storey corner bank building whose ground floor is wrapped in a bright blue fascia reading RHB Bank, RHB Islamic and RHB Bank, each with the red-diamond RHB logo, a red car parked out front under a pale sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
 ---
 
 RHB は、街角の銀行支店、ATM カード、住宅ローンのパンフレットの上で、ほとんどのマレーシア人が見覚えのある名のひとつである——しかしその背後にあるグループの手は、リテール銀行業務をはるかに超えて、イスラム金融、投資銀行業務、保険、そして東南アジア各地の市場へと及んでいる。本ページは、RHB Banking Group とは何か、どのように構成され、誰が所有し、なぜ重要なのかについての、中立で事実に基づく概観である。

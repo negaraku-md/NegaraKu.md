@@ -81,6 +81,14 @@ verificationNeeded:
   - "சொத்தின்படி மலேசியாவின் இரண்டாவது மிகப்பெரிய வங்கி மற்றும் ASEAN-இன் ஐந்து மிகப்பெரியவற்றில் ஒன்று என்ற தரவரிசை — நிலை மற்றும் காலத்துக்கேற்ப மாறுவது; தற்போதைய போட்டியாளர் இருப்புநிலைக் குறிப்புகளுடன் மீண்டும் உறுதிப்படுத்தவும்."
   - "வாடிக்கையாளர் எண்ணிக்கை (மூன்றாம் தரப்புச் சுயவிவரங்களில் குறிப்பிடப்பட்ட எண்கள் பரவலாக மாறுபடுகின்றன, எ.கா. ~13.5 மில்லியன் சில்லறை எதிர் ~25 மில்லியன் மொத்தம்) — ஒரு எண்ணை வெளியிடுமுன் CIMB-இன் சொந்த தற்போதைய அறிக்கையுடன் சரிபார்க்கவும்."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 மலேசிய வணிகத்தில் நீங்கள் எங்கு திரும்பினாலும் கிட்டத்தட்ட சந்திக்கும் வங்கி CIMB — மேலும் தென்கிழக்கு ஆசியா முழுவதும் அதிகரித்துவருகிறது. இது ஒரு பல்துறை வங்கி; அதாவது சம்பளம் பெறும் தொழிலாளியின் சேமிப்புக் கணக்கு முதல் பல பில்லியன் ரிங்கிட் பத்திர வெளியீடுகள் மற்றும் எல்லைகளைக் கடந்த கையகப்படுத்தல்கள் வரை அனைத்தையும் செய்கிறது; அதை மலேசியாவில் மட்டுமல்ல, இந்தோனேசியா, தாய்லாந்து மற்றும் சிங்கப்பூரில் உள்ள பெரிய செயல்பாடுகள் வழியாகவும் செய்கிறது.

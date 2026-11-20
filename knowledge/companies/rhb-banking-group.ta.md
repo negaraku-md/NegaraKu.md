@@ -77,6 +77,14 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'A three-storey corner bank building whose ground floor is wrapped in a bright blue fascia reading RHB Bank, RHB Islamic and RHB Bank, each with the red-diamond RHB logo, a red car parked out front under a pale sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
 ---
 
 ஒரு பெருவீதி வங்கிக் கிளையில், ஓர் ATM அட்டையில், அல்லது வீட்டுக் கடன் துண்டுப்பிரசுரத்தில் பெரும்பாலான மலேசியர்கள் அங்கீகரிக்கும் பெயர்களில் ஒன்று RHB — ஆனால் அதற்குப் பின்னால் உள்ள குழுமம் சில்லறை வங்கிக்கு வெகு அப்பால், இஸ்லாமிய நிதி, முதலீட்டு வங்கி, காப்பீடு மற்றும் தென்கிழக்கு ஆசியா முழுவதுமான சந்தைகள் வரை நீள்கிறது. இந்தப் பக்கம் RHB Banking Group என்றால் என்ன, அது எவ்வாறு அமைக்கப்பட்டுள்ளது, அதை யார் சொந்தமாக்கியுள்ளார்கள், அது ஏன் முக்கியம் என்பதற்கான நடுநிலையான, உண்மையான கண்ணோட்டம்.

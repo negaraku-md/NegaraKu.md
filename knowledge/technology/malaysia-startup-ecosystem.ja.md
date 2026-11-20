@@ -102,6 +102,14 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'A bright multi-storey coworking office seen from above, with glass balustrades, open staircases and people working at desks across several levels under a glass roof'
+heroCredit: 'Jasmanna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 ---
 
 マレーシアの創業者10人に政府のスタートアップ資金がどこから来るのかを尋ねれば、10通りの異なる略語が返ってくるだろう。この仕組みは実在し、しかも手厚いが、それぞれが一部分——助成金はここ、実験室はそこ、ベンチャーキャピタルはまた別のところ——を担う複数の機関に分散しており、どの扉を叩くべきかを知っていれば数か月を節約できる。

@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "बिजली उपयोगिता", "utiliti elektrik", "राष्ट्रीय ग्रिड", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'Aerial view of Kenyir Dam''s grey rockfill embankment marked with the giant white word KENYIR, the hydroelectric power station and transmission lines at its base and Kenyir Lake stretching behind'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
 ---
 
 प्रायद्वीप में आपके घर में हर बार जब रोशनी जलती है, तो बहुत संभावना है कि बिजली एक ही कंपनी के स्वामित्व वाले तारों से बह रही हो: Tenaga Nasional Berhad। यह देश की सबसे बड़ी बिजली उपयोगिता है, जिसके 30 सितंबर 2025 तक प्रायद्वीपीय मलेशिया, Sabah और Labuan में 1.1 करोड़ से अधिक ग्राहक हैं।

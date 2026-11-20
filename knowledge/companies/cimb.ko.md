@@ -81,6 +81,14 @@ verificationNeeded:
   - "자산 기준 말레이시아 2위 은행 및 아세안 5대 은행 그룹 순위 — 위치적·시간적으로 변하므로 현재 동종 업체 대차대조표와 대조하여 재확인."
   - "고객 수(제3자 프로필 인용치가 크게 다름, 예: 소매 ~1,350만 vs. 총 ~2,500만) — 숫자를 게재하기 전 CIMB 자신의 현행 보고와 대조하여 확인."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
 ---
 
 CIMB는 말레이시아 상거래에서 거의 어디를 돌아봐도 마주치는 은행이며 — 점점 더 동남아시아 전역에서도 그렇습니다. 그것은 종합은행으로, 월급쟁이의 저축계좌에서부터 수십억 링깃 규모의 채권 발행과 국경을 넘는 인수에 이르기까지 모든 것을 하며, 말레이시아뿐 아니라 인도네시아, 태국, 싱가포르의 대규모 영업을 통해서도 그렇게 합니다.

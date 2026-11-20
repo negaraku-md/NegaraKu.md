@@ -78,6 +78,14 @@ verificationNeeded:
   - "PNB 運用ファンドと EPF の持分比率——Bursa Malaysia への提出のたびに変わる。"
   - "事業展開国数（ASEAN 十か国すべてに加えグローバル金融センター）——変わる可能性がある。"
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
 ---
 
 マレーシアのほとんどどこでも当座預金口座を開けば、それが Maybank の虎の頭のロゴを帯びている可能性は高い。Malayan Banking Berhad は国内最大の銀行であり——貸借対照表上の資産でも、株式市場が示すその価値でも——東南アジアでも最大級の銀行グループのひとつである。本プロフィールは、同グループが何を行い、どこで事業を展開し、誰が所有しているかを示す。

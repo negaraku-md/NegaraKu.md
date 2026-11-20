@@ -79,6 +79,14 @@ verificationNeeded:
   - "持有 LPI Capital Bhd 的44.15%股权——确认当前持股及任何完成细节。"
   - "领导层：Tay Ah Lek 任董事经理兼首席执行员，以及现任主席——确认当前董事会职位。"
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
 ---
 
 鲜有马来西亚公司像大众银行与丹斯里郑鸿标那样，与单一创办人如此紧密相连。从1966年吉隆坡市中心的一家分行起步，他建立起一家成长为本国最大银行集团之一的放贷机构——而它成名所凭的，与其说是规模，不如说是审慎，年复一年地录得银行业最低的坏账比率。

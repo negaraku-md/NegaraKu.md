@@ -79,6 +79,14 @@ verificationNeeded:
   - "30 सितंबर 2025 तक नौ महीनों के लिए समूह का YTD लाभ RM403.3 million (27 नवंबर 2025 को प्रकाशित) — अगले तिमाही और वार्षिक परिणामों के विरुद्ध सत्यापित करें।"
   - "'Well over 150 million customers' 2019 की एक कंपनी-संख्या तथा बाद की बाज़ार-वृद्धि पर आधारित है; मौजूदा समूह ग्राहक-कुल को नवीनतम वार्षिक रिपोर्ट के विरुद्ध सत्यापित करें।"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
 ---
 
 मलेशिया की सबसे बड़ी दूरसंचार कहानी कोई एकल नेटवर्क नहीं, बल्कि एक होल्डिंग कंपनी है जो छह देशों में मोबाइल ऑपरेटरों के हिस्से रखती है। Axiata Group Berhad Kuala Lumpur Sentral के एक कार्यालय-भवन में बैठती है और उन वाहकों को नियंत्रित करती है, आंशिक रूप से स्वामी है या संयुक्त रूप से चलाती है जो दक्षिण और दक्षिण-पूर्व एशिया भर में करोड़ों लोगों को जोड़ते हैं।

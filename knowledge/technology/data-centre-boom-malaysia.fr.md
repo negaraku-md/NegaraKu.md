@@ -102,6 +102,14 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "centre de données Malaisie", "Johor data centre", "centre de données Johor", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "souveraineté des données", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'A wall of server racks in a data centre, each row lit by rows of bright blue indicator lights receding into the dark'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
 ---
 
 En moins de trois ans, une bande du sud du Johor, de l'autre côté de la chaussée face à Singapour, est devenue l'un des endroits les plus convoités de la planète pour brancher un serveur. Géants du nuage, opérateurs de colocation et jeunes pousses d'IA s'y sont rués — et la Malaisie découvre maintenant que les lignes électriques et les conduites d'eau sous l'essor ont des limites.

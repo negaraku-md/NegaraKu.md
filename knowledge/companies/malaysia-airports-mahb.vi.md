@@ -78,6 +78,14 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: 'The tall white cylindrical KLIA air traffic control tower rising against a dramatic evening sky, with a terminal roadway curving past at right'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
 ---
 
 Gần như mỗi lần một hành khách hạ cánh xuống Malaysia, họ đến một sân bay do một công ty vận hành. Malaysia Airports Holdings Berhad (MAHB) vận hành Sân bay Quốc tế Kuala Lumpur — nay được gắn thương hiệu KLIA Nhà ga 1 và Nhà ga 2 — và, theo cách đếm của chính mình, 39 sân bay trên khắp cả nước, cùng một cửa ngõ ở nước ngoài tại Istanbul. Vào năm 2025, nó cũng trở thành một điều bất thường đối với một đơn vị vận hành sân bay quốc gia: không còn là một công ty đại chúng.
