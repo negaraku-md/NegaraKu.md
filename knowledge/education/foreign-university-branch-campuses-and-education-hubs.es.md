@@ -108,6 +108,12 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Esto es para estudiantes y padres que valoran un campus filial de una universidad extranjera —un campus de propiedad íntegra en el extranjero (Monash, Nottingham, Xiamen, Heriot-Watt y otros) que otorga en Malasia el título propio de la universidad de origen.'
+  how: 'Elige según la marca de la universidad de origen, la ubicación del campus y la especialización; los campus filiales se sitúan en el Klang Valley, Putrajaya, la zona EduCity Iskandar en Johor y en Sarawak. El título otorgado es el título idéntico de la institución de origen, impartido en un campus malasio.'
+  cost: 'El atractivo es una credencial occidental o china con tasas de matrícula y coste de vida locales, muy por debajo de estudiar en el campus de origen en el extranjero, pero las tasas varían según la institución y el programa, así que confirma las cifras actuales con cada campus.'
+  watch: 'El título es portátil, pero la experiencia es local: el tamaño de las clases, las instalaciones y la vida en el campus difieren mucho entre un campus independiente y uno compartido en una ciudad educativa. Los programas de los campus filiales también necesitan la acreditación de la MQA y figuran en el MQR.'
+  next: 'Haz una preselección por especialización y ubicación, verifica el programa exacto en el MQR y confirma con el campus la autorización para matricular a estudiantes internacionales. Consulta Estudiar en Malasia y Universidades públicas vs privadas.'
 ---
 
 En 1998, un estudiante en Kuala Lumpur podía obtener un título australiano de Monash sin salir del país, y pagar por él precios malasios. Ese único acuerdo puso en marcha un modelo sobre el que el país ha estado construyendo desde entonces: importar la universidad, no al estudiante.

@@ -76,6 +76,12 @@ relations:
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'This is for prospective students, parents and employers checking whether a Malaysian post-secondary qualification is officially recognised.'
+  how: 'Search the free Malaysian Qualifications Register (MQR) by the exact programme name, level and delivering campus, and confirm it holds Provisional or Full Accreditation. Recognition for a regulated profession or for public-sector employment is verified separately with that body.'
+  cost: 'The MQR search is free; recognition you may be counting on — a professional licence, a government job, or study abroad — can each need separate verification with its own body.'
+  watch: 'Accreditation attaches to the specific programme and intake, not the institution — a reputable university can still run a new, provisional or unlisted programme. A brochure''s ''MQA-approved'' claim is not the register; confirm the live entry yourself, and note that provisional status is legitimate, not second-rate.'
+  next: 'Look up your exact programme on the MQR before paying any deposit; for a regulated profession, confirm the graduate route with that professional body. See Before paying a college deposit.'
 ---
 
 Two students graduate with the same-sounding diploma. One qualifies for a government job and a master's place; the other is turned away at the door. The difference is often a single line in a public register: whether the Malaysian Qualifications Agency accredited the programme.

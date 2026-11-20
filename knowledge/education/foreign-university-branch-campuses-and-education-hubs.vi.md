@@ -107,6 +107,12 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Dành cho sinh viên và phụ huynh đang cân nhắc một phân hiệu của trường đại học nước ngoài — một cơ sở ở hải ngoại thuộc sở hữu hoàn toàn (Monash, Nottingham, Xiamen, Heriot-Watt và những trường khác) cấp chính tấm bằng của trường mẹ ngay tại Malaysia.'
+  how: 'Hãy chọn theo thương hiệu trường mẹ, vị trí cơ sở và thế mạnh chuyên ngành; các phân hiệu nằm ở Thung lũng Klang, Putrajaya, khu EduCity Iskandar ở Johor và ở Sarawak. Bằng cấp được cấp chính là tấm bằng giống hệt của trường mẹ, được giảng dạy trên một cơ sở tại Malaysia.'
+  cost: 'Điểm hấp dẫn là có được một tấm bằng phương Tây hoặc Trung Quốc với học phí và chi phí sinh hoạt địa phương, thấp hơn nhiều so với học tại trường mẹ ở nước ngoài — nhưng học phí khác nhau tùy cơ sở và chương trình, vì vậy hãy xác nhận con số hiện hành với từng cơ sở.'
+  watch: 'Tấm bằng thì mang theo được nhưng trải nghiệm lại mang tính địa phương — sĩ số lớp, cơ sở vật chất và đời sống học đường khác nhau rất nhiều giữa một cơ sở độc lập và một cơ sở trong khu đô thị giáo dục dùng chung. Các chương trình của phân hiệu vẫn cần được MQA kiểm định và xuất hiện trên MQR.'
+  next: 'Hãy lập danh sách rút gọn theo chuyên ngành và vị trí, kiểm chứng đúng chương trình trên MQR, và xác nhận việc được phép tuyển sinh quốc tế với cơ sở. Xem bài Du học tại Malaysia và bài Đại học công lập so với tư thục.'
 ---
 
 Năm 1998, một sinh viên ở Kuala Lumpur có thể lấy một tấm bằng Monash của Úc mà không cần rời khỏi đất nước — và trả giá Malaysia cho nó. Sự sắp xếp duy nhất đó đã khởi động một mô hình mà đất nước đã xây dựng dựa vào kể từ đó: nhập khẩu đại học, không phải sinh viên.

@@ -77,6 +77,12 @@ relations:
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Ceci s''adresse aux futurs étudiants, aux parents et aux employeurs qui vérifient si une qualification post-secondaire malaisienne est officiellement reconnue.'
+  how: 'Recherchez gratuitement sur le Registre des qualifications de Malaisie (MQR) le nom exact du programme, son niveau et le campus qui le dispense, et confirmez qu''il détient une Accréditation provisoire ou complète. La reconnaissance pour une profession réglementée ou pour un emploi dans le secteur public se vérifie séparément auprès de l''organisme concerné.'
+  cost: 'La recherche sur le MQR est gratuite ; la reconnaissance sur laquelle vous comptez — une licence professionnelle, un emploi dans la fonction publique ou des études à l''étranger — peut nécessiter chacune une vérification distincte auprès de son propre organisme.'
+  watch: 'L''accréditation se rattache au programme et à l''année d''admission précis, non à l''établissement — une université réputée peut tout de même proposer un programme nouveau, à accréditation provisoire ou non répertorié. La mention « approuvé par la MQA » d''une brochure n''est pas le registre ; confirmez vous-même l''inscription en vigueur, et notez que le statut provisoire est légitime, et non de second ordre.'
+  next: 'Cherchez votre programme exact sur le MQR avant de verser le moindre acompte ; pour une profession réglementée, confirmez la voie d''accès pour les diplômés auprès de l''organisme professionnel concerné. Voir Avant de payer un acompte à un collège.'
 ---
 
 Deux étudiants obtiennent un diplôme au nom quasi identique. L'un remplit les conditions pour un emploi public et une place de master ; l'autre est refusé à la porte. La différence est souvent une seule ligne dans un registre public : le fait que l'Agence des qualifications de Malaisie ait ou non accrédité le programme.

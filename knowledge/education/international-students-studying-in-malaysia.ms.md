@@ -85,6 +85,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Ini untuk bakal pelajar antarabangsa yang sedang memilih institusi dan program di Malaysia sebelum menerima tawaran dan memulakan proses visa pelajar.'
+  how: 'Lepasi dua pintu berasingan dahulu: program itu diakreditasi oleh Agensi Kelayakan Malaysia (MQA) dalam Daftar Kelayakan Malaysia (MQR), dan institusi itu sendiri diluluskan oleh Kementerian Pendidikan Tinggi untuk mengambil pelajar asing. Hanya surat tawaran yang ditandatangani daripada institusi sebegini mencetuskan Pas Pelajar, yang dihantar oleh institusi — bukan anda — kepada Education Malaysia Global Services (EMGS).'
+  cost: 'Yuran pengajian berbeza-beza dengan ketara mengikut institusi dan program, dan Pas Pelajar membawa caj EMGS serta visa yang berasingan dan disemak semula dari semasa ke semasa, jadi sahkan angka semasa dengan institusi dan portal EMGS (educationmalaysia.gov.my) dan bukan angka yang dipetik.'
+  watch: 'Akreditasi program MQA dan kelulusan institusi untuk mengambil pelajar asing adalah dua semakan yang berbeza — sesuatu program yang diakreditasi sepenuhnya boleh berada di institusi yang tidak dibenarkan mengambil anda. Pengajaran dalam medium bahasa Inggeris tidak menggantikan bukti kecekapan bahasa Inggeris yang diperlukan secara berasingan oleh EMGS.'
+  next: 'Sahkan kedua-dua pintu ini secara bertulis dengan pejabat antarabangsa institusi, terima tawaran, kemudian ikuti proses Pas Pelajar melalui EMGS. Lihat penerangan tentang Pas Pelajar, panduan Belajar di Malaysia, dan penerangan tentang akreditasi MQA.'
 ---
 
 Surat tawaran daripada institusi yang salah jenis tidak bernilai untuk tujuan visa, walaupun program itu sendiri diakreditasi dengan sempurna. Perbezaan itu — program yang diakreditasi berbanding institusi yang diluluskan untuk pelajar antarabangsa — adalah punca kebanyakan kekeliruan bermula, jauh sebelum sesiapa pun mengisi borang EMGS.

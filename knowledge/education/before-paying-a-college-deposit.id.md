@@ -88,6 +88,12 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["deposit kuliah Malaysia", "cek akreditasi MQA", "MQR mqr.gov.my", "apakah program studi saya terakreditasi", "kebijakan pengembalian dana kuliah Malaysia", "badan pemberi gelar twinning 3+0", "universitas swasta Malaysia IPTS", "Act 555", "sebelum membayar biaya kuliah"]
 framework: how-to
+stayFacts:
+  who: 'Ini untuk mahasiswa dan orang tua yang telah memegang tawaran dari kolej dan hendak membayar deposit atau biaya pendaftaran — sering kali uang pertama yang dikeluarkan, dan kerap tidak dapat dikembalikan.'
+  how: 'Sebelum membayar, verifikasi lima hal secara tertulis: program yang tepat tercantum di MQR; institusi tersebut adalah penyedia terdaftar (IPTS di bawah Private Higher Educational Institutions Act 1996 (Act 555), atau universitas negeri maupun kampus cabang yang diakui); untuk program twinning atau 3+0, siapa yang memberikan sertifikat akhir; jadwal biaya lengkap secara tertulis untuk seluruh program; serta klausul pengembalian dana dan pengunduran diri.'
+  cost: 'Deposit hanyalah sebagian kecil — minta jadwal biaya lengkap secara tertulis untuk seluruh program (pendaftaran, biaya kuliah per semester, sumber daya, ujian, asuransi, dan biaya mahasiswa internasional), bukan hanya tahun pertama, dan pastikan deposit itu diperhitungkan terhadap apa.'
+  watch: 'Deposit kerap tidak dapat dikembalikan dan tidak ada hak masa tenggang (cooling-off) yang diatur secara nasional — apa yang bisa Anda peroleh kembali ditetapkan oleh kebijakan tertulis institusi itu sendiri. ''Jaminan pindah ke Tahun 3'' adalah keputusan universitas mitra, bukan kolej lokal; mintalah itu secara tertulis.'
+  next: 'Ajukan setiap pemeriksaan kepada institusi secara tertulis dan simpan jawabannya sebelum uang apa pun keluar dari rekening Anda; verifikasi dulu program yang tepat di MQR. Lihat penjelasan akreditasi MQA.'
 ---
 
 Deposit biasanya merupakan uang pertama yang diserahkan sebuah keluarga kepada

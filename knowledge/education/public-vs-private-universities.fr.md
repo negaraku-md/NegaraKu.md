@@ -77,6 +77,12 @@ faq:
   - q: Un programme n'est que « provisoirement accrédité » — cela signifie-t-il qu'il n'est pas accrédité ?
     a: Non. Selon le Code de pratique pour l'accréditation des programmes de la MQA, l'accréditation provisoire confirme qu'un programme a satisfait aux exigences de qualité minimales pour être proposé légalement, et elle constitue elle-même une condition de l'approbation du ministère. L'accréditation complète est l'évaluation plus approfondie menée une fois qu'une première promotion a suivi le programme. Un programme accrédité à titre provisoire est légitime et peut être proposé légalement ; il n'a simplement pas encore achevé l'évaluation du cycle complet.
 framework: explainer
+stayFacts:
+  who: 'Ceci s''adresse aux titulaires du SPM, STPM, matriculation, foundation, UEC, A-Level ou d''un diplôme qui choisissent entre une université publique (IPTA/Universiti Awam) et une université privée (IPTS).'
+  how: 'Les universités publiques admettent presque entièrement via l''UPU (Unit Pusat Universiti), le système centralisé en ligne du ministère — vous classez vos préférences de programmes et êtes apparié au mérite face à des places limitées par quotas. Les établissements privés se situent hors de l''UPU, gèrent directement leurs propres admissions en continu et acceptent un éventail plus large de titres.'
+  cost: 'La candidature UPU elle-même est gratuite, même si vous achetez un Unik ID à 12 chiffres auprès du Bank Simpanan Nasional (BSN) pour vous connecter ; les frais des établissements privés sont fixés par programme et évoluent, confirmez donc les montants actuels auprès de l''e-Panduan de l''UPU ou de l''établissement.'
+  watch: 'L''étiquette IPTA/IPTS ne vous dit pas si un diplôme est reconnu — cela dépend de savoir si le programme précis est accrédité par la MQA sur le MQR, ce que vous devriez vérifier pour votre année d''admission exacte. Vous ne pouvez pas postuler à une université privée via l''UPU.'
+  next: 'Décidez à partir du titre que vous détenez, puis vérifiez le programme et l''année d''admission exacts sur le Registre des qualifications de Malaisie avant de vous inscrire dans l''un ou l''autre type d''établissement. Voir l''explication de l''accréditation MQA et Avant de payer un acompte à un collège.'
 ---
 
 Deux étudiantes ayant les mêmes résultats au SPM se retrouvent dans des systèmes

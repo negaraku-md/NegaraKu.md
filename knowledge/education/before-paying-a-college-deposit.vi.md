@@ -88,6 +88,12 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["tiền đặt cọc cao đẳng Malaysia", "kiểm tra kiểm định MQA", "MQR mqr.gov.my", "khóa học của tôi có được kiểm định không", "chính sách hoàn tiền cao đẳng Malaysia", "cơ quan cấp bằng twinning 3+0", "đại học tư thục Malaysia IPTS", "Act 555", "trước khi đóng học phí cao đẳng"]
 framework: how-to
+stayFacts:
+  who: 'Dành cho sinh viên và phụ huynh đã có thư mời nhập học từ một trường và sắp đóng tiền đặt cọc hoặc lệ phí ghi danh — thường là khoản tiền đầu tiên, và nhiều khi không hoàn lại, mà họ cam kết.'
+  how: 'Trước khi đóng tiền, hãy xác minh năm điều bằng văn bản: đúng chương trình có trên MQR; cơ sở là một nhà cung cấp đã đăng ký (một IPTS theo Private Higher Educational Institutions Act 1996 (Act 555), hoặc một trường đại học công lập hay phân hiệu được công nhận); đối với chương trình liên kết (twinning) hoặc 3+0, ai là bên cấp bằng cuối cùng; biểu phí bằng văn bản đầy đủ cho toàn bộ chương trình; và điều khoản hoàn tiền và rút học.'
+  cost: 'Tiền đặt cọc chỉ là một phần nhỏ — hãy yêu cầu biểu phí bằng văn bản đầy đủ cho toàn bộ chương trình (phí ghi danh, học phí theo từng học kỳ, phí tài nguyên, phí thi, phí bảo hiểm và phí dành cho sinh viên quốc tế), chứ không chỉ năm thứ nhất, và xác nhận tiền đặt cọc được trừ vào khoản nào.'
+  watch: 'Tiền đặt cọc thường không hoàn lại và không có quyền hủy trong thời gian cân nhắc theo luật định trên toàn quốc — khoản bạn có thể lấy lại do chính chính sách bằng văn bản của cơ sở quyết định. Một lời hứa ''chắc chắn được chuyển lên Năm 3'' là quyết định của trường đại học đối tác, chứ không phải của trường tại địa phương; hãy lấy cam kết đó bằng văn bản.'
+  next: 'Hãy đưa mọi câu hỏi kiểm tra cho cơ sở bằng văn bản và giữ lại các câu trả lời trước khi bất kỳ khoản tiền nào rời khỏi tài khoản của bạn; trước hết hãy kiểm chứng đúng chương trình trên MQR. Xem bài giải thích về kiểm định của MQA.'
 ---
 
 Tiền đặt cọc thường là khoản tiền đầu tiên một gia đình trao cho trường cao đẳng

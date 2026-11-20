@@ -78,6 +78,12 @@ sources:
 entity: "Parcours d'études et de qualification en comptabilité en Malaisie"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Ceci s''adresse aux étudiants et aux personnes en reconversion qui décident comment devenir comptable en Malaisie, en comparant une licence, l''ACCA, le CIMA ou une autre voie professionnelle.'
+  how: 'Fixez d''abord la destination : vous êtes légalement comptable professionnel lorsque vous êtes membre du MIA (Institut malaisien des comptables) au titre de l''Accountants Act 1967. Trois voies mènent au MIA — une licence reconnue assortie d''une expérience ; un organisme professionnel reconnu (ACCA, CIMA et d''autres) assorti d''une expérience ; ou l''examen de qualification du MIA assorti d''une expérience. L''ACCA penche vers l''audit, l''exercice en cabinet et la portabilité mondiale ; le CIMA vers la comptabilité de gestion et l''industrie.'
+  cost: 'Les frais, le nombre d''examens et les dispenses que confère une licence accréditée évoluent tous à chaque cycle d''accréditation ; faites donc vous-même le total des montants actuels auprès de l''organisme, du prestataire de formation et de l''université — ne vous fiez jamais à un nombre de dispenses annoncé.'
+  watch: 'L''ACCA ou le CIMA à eux seuls ne font pas de vous un comptable malaisien — c''est l''adhésion au MIA qui le fait, et la qualification assortie d''une expérience en est la voie. Le nombre de dispenses est le fait le plus variable du sujet ; vérifiez-le programme par programme.'
+  next: 'Choisissez l''organisme dont la destination habituelle correspond à l''endroit où vous souhaitez travailler, confirmez qu''il mène actuellement à l''adhésion au MIA et quelle expérience est requise, puis optimisez votre point d''entrée, votre mode d''études et vos dispenses. Voir Avant de payer un acompte à un collège.'
 ---
 
 Toute personne qui décide comment devenir comptable en Malaisie se heurte d'emblée à une soupe d'acronymes : **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Cela ressemble à un menu de qualifications concurrentes entre lesquelles il faudrait trancher. Il vaut mieux y voir **une seule destination avec plusieurs routes qui y mènent** — et une fois la destination en vue, les choix se mettent en place.

@@ -88,6 +88,12 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["deposit kolej Malaysia", "semak akreditasi MQA", "MQR mqr.gov.my", "adakah kursus saya diakreditasi", "dasar pemulangan yuran kolej Malaysia", "badan penganugerah twinning 3+0", "universiti swasta Malaysia IPTS", "Act 555", "sebelum bayar yuran kolej"]
 framework: how-to
+stayFacts:
+  who: 'Ini untuk pelajar dan ibu bapa yang memegang tawaran kolej dan hampir membayar deposit atau yuran pendaftaran — selalunya wang pertama, dan kerap kali tidak boleh dikembalikan, yang dikomitkan.'
+  how: 'Sebelum membayar, sahkan lima perkara secara bertulis: program tepat itu ada dalam MQR; institusi itu penyedia berdaftar (sebuah IPTS di bawah Private Higher Educational Institutions Act 1996 (Act 555) (Akta Institusi Pendidikan Tinggi Swasta 1996), atau universiti awam atau kampus cawangan yang diiktiraf); bagi program berkembar atau 3+0, siapa yang menganugerahkan sijil akhir; jadual yuran bertulis penuh bagi keseluruhan program; dan klausa bayaran balik serta penarikan diri.'
+  cost: 'Deposit itu hanya sebahagian kecil — minta jadual yuran bertulis lengkap bagi keseluruhan program (pendaftaran, yuran pengajian setiap semester, sumber, peperiksaan, insurans dan yuran pelajar antarabangsa), bukan tahun pertama sahaja, dan sahkan terhadap apa deposit itu dikreditkan.'
+  watch: 'Deposit kerap kali tidak boleh dikembalikan dan tiada hak tempoh bertenang (cooling-off) berkanun di peringkat kebangsaan — apa yang boleh anda dapatkan semula ditetapkan oleh polisi bertulis institusi itu sendiri. ''Jaminan pemindahan ke Tahun 3'' adalah keputusan universiti rakan kongsi, bukan kolej tempatan; dapatkannya secara bertulis.'
+  next: 'Kemukakan setiap semakan kepada institusi secara bertulis dan simpan jawapannya sebelum sebarang wang keluar daripada akaun anda; sahkan program tepat dalam MQR dahulu. Lihat penerangan tentang akreditasi MQA.'
 ---
 
 Deposit biasanya wang pertama yang diserahkan sesebuah keluarga kepada kolej — dan,

@@ -77,6 +77,12 @@ relations:
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Ini untuk bakal pelajar, ibu bapa dan majikan yang menyemak sama ada sesuatu kelayakan lepasan menengah Malaysia itu diiktiraf secara rasmi.'
+  how: 'Cari dalam Daftar Kelayakan Malaysia (MQR) yang percuma mengikut nama program, peringkat dan kampus penyampai yang tepat, dan sahkan ia memegang Provisional atau Full Accreditation. Pengiktirafan bagi profesion berkawal selia atau bagi pekerjaan sektor awam disahkan secara berasingan dengan badan berkenaan.'
+  cost: 'Carian MQR adalah percuma; pengiktirafan yang mungkin anda harapkan — lesen profesional, kerja kerajaan, atau pengajian di luar negara — masing-masing boleh memerlukan pengesahan berasingan dengan badannya sendiri.'
+  watch: 'Akreditasi melekat pada program dan kemasukan tertentu, bukan institusi — universiti yang terkenal pun masih boleh menawarkan program baharu, provisional atau tidak tersenarai. Dakwaan ''diluluskan MQA'' dalam risalah bukanlah daftar itu; sahkan sendiri entri yang aktif, dan ambil perhatian bahawa status provisional adalah sah, bukan kelas kedua.'
+  next: 'Semak program tepat anda dalam MQR sebelum membayar sebarang deposit; bagi profesion berkawal selia, sahkan laluan graduan dengan badan profesional berkenaan. Lihat panduan Sebelum membayar deposit kolej.'
 ---
 
 Dua orang pelajar bergraduat dengan diploma yang kedengaran sama. Seorang layak untuk pekerjaan kerajaan dan tempat pengajian sarjana; seorang lagi ditolak di pintu masuk. Perbezaannya sering kali terletak pada satu baris dalam daftar awam: sama ada Agensi Kelayakan Malaysia telah mengakreditasi program tersebut.

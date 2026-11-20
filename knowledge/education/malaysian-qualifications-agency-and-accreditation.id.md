@@ -77,6 +77,12 @@ relations:
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Ini untuk calon mahasiswa, orang tua, dan pemberi kerja yang memeriksa apakah suatu kualifikasi pascamenengah Malaysia diakui secara resmi.'
+  how: 'Cari di Malaysian Qualifications Register (MQR, Daftar Kualifikasi Malaysia) yang gratis menurut nama program, jenjang, dan kampus penyelenggara yang tepat, lalu pastikan program itu memegang Provisional atau Full Accreditation. Pengakuan untuk profesi teregulasi atau untuk pekerjaan sektor publik diverifikasi secara terpisah dengan badan terkait.'
+  cost: 'Pencarian MQR gratis; pengakuan yang mungkin Anda andalkan — lisensi profesi, pekerjaan pemerintah, atau studi di luar negeri — masing-masing bisa memerlukan verifikasi terpisah dengan badannya sendiri.'
+  watch: 'Akreditasi melekat pada program dan tahun penerimaan tertentu, bukan pada institusi — universitas yang bereputasi pun masih bisa menjalankan program baru, provisional, atau yang belum terdaftar. Klaim ''MQA-approved'' pada brosur bukanlah daftar resminya; pastikan sendiri entri yang aktif, dan ingat bahwa status provisional itu sah, bukan kelas dua.'
+  next: 'Cari program Anda yang tepat di MQR sebelum membayar deposit apa pun; untuk profesi teregulasi, pastikan jalur bagi lulusan dengan badan profesi tersebut. Lihat panduan Sebelum membayar deposit kolej.'
 ---
 
 Dua orang pelajar lulus dengan diploma yang terdengar sama. Seorang layak untuk pekerjaan pemerintah dan tempat studi sarjana; seorang lagi ditolak di pintu masuk. Perbedaannya sering kali terletak pada satu baris dalam daftar publik: apakah Agensi Kualifikasi Malaysia telah mengakreditasi program tersebut.

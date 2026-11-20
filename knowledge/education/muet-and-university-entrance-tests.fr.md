@@ -86,6 +86,12 @@ relations:
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'Ceci s''adresse aux étudiants de niveau pré-universitaire (STPM, matriculation, foundation ou diplôme) qui postulent à une licence, pour qui le MUET est la porte obligatoire de compétence en anglais dans les universités publiques.'
+  how: 'Passez les quatre épreuves du MUET — Compréhension orale, Expression orale, Compréhension écrite et Expression écrite — auprès du MPM (Conseil malaisien des examens) ; votre score global correspond à une bande, et le Sénat de chaque université fixe la bande minimale requise pour chaque programme.'
+  cost: 'Les frais sont fixés par le MPM et sont plus élevés pour les non-citoyens et pour la version informatisée MUET on Demand, et ils évoluent — confirmez le tarif en vigueur sur le portail du MPM (mpm.edu.my) plutôt que de vous fier à un chiffre annoncé.'
+  watch: 'Il n''existe pas de bande de réussite unique — le minimum varie selon le programme et est fixé par le Sénat de chaque université. Les résultats sont valables cinq ans ; passer l''examen trop tôt peut donc faire qu''ils expirent avant votre candidature.'
+  next: 'Vérifiez la bande minimale du programme visé sur le site de l''université, inscrivez-vous tôt auprès du MPM, et surveillez la validité de cinq ans. Voir Universités publiques vs privées.'
 ---
 
 Vous pouvez exceller au STPM ou en matriculation, mais sans un résultat de plus, votre dossier de candidature en licence reste incomplet. Ce résultat, c'est le MUET — et de nombreux étudiants n'en mesurent l'importance que lorsque la date limite de candidature à l'université approche déjà.

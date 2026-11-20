@@ -77,6 +77,12 @@ faq:
   - q: Un programa solo está "acreditado provisionalmente" — ¿significa eso que no está acreditado?
     a: No. Según el Código de Práctica para la Acreditación de Programas de la MQA, la Acreditación Provisional confirma que un programa ha cumplido los requisitos mínimos de calidad para ofrecerse legalmente, y es en sí misma una condición para la aprobación del Ministerio. La Acreditación Plena es la evaluación más completa que se lleva a cabo una vez que una primera promoción ha cursado el programa. Un programa acreditado provisionalmente es legítimo y puede ofrecerse legalmente; simplemente aún no ha completado la evaluación de ciclo completo.
 framework: explainer
+stayFacts:
+  who: 'Esto es para titulares de SPM, STPM, matriculación, foundation, UEC, A-Level o diploma que deciden entre una universidad pública (IPTA/Universiti Awam) y una privada (IPTS).'
+  how: 'Las universidades públicas admiten casi por completo a través de la UPU (Unit Pusat Universiti), el sistema centralizado en línea del Ministerio: ordenas tus preferencias de programa y se te empareja por mérito frente a plazas limitadas por cuota. Las instituciones privadas quedan fuera de la UPU, gestionan sus propias admisiones de forma continua y directa, y aceptan una mezcla más amplia de titulaciones.'
+  cost: 'La solicitud a la UPU en sí es gratuita, aunque debes adquirir un Unik ID de 12 dígitos del Bank Simpanan Nasional (BSN) para iniciar sesión; las tasas de las instituciones privadas se fijan por programa y cambian, así que confirma las cifras actuales con el e-Panduan de la UPU o con la institución.'
+  watch: 'La etiqueta IPTA/IPTS no te dice si un título está reconocido: eso depende de que el programa concreto esté acreditado por la MQA en el MQR, algo que debes comprobar para tu año de ingreso exacto. No puedes solicitar plaza en una universidad privada a través de la UPU.'
+  next: 'Decide a partir de la titulación que posees y luego verifica el programa y el año de ingreso exactos en el Registro de Cualificaciones de Malasia antes de matricularte en cualquiera de los dos tipos. Consulta la explicación sobre la acreditación de la MQA y Antes de pagar el depósito de un colegio universitario.'
 ---
 
 Dos estudiantes con los mismos resultados del SPM acaban en sistemas por

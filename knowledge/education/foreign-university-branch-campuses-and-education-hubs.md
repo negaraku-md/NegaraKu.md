@@ -106,6 +106,12 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'This is for students and parents weighing a foreign university branch campus — a wholly-owned overseas campus (Monash, Nottingham, Xiamen, Heriot-Watt and others) that awards the home university''s own degree in Malaysia.'
+  how: 'Choose by the home-university brand, campus location and specialism; branch campuses sit in the Klang Valley, Putrajaya, the EduCity Iskandar zone in Johor and in Sarawak. The award is the home institution''s identical degree, delivered on a Malaysian campus.'
+  cost: 'The draw is a Western or Chinese credential at local tuition and living costs, far below studying at the home campus abroad — but fees vary by institution and programme, so confirm current figures with each campus.'
+  watch: 'The degree is portable but the experience is local — class size, facilities and campus life differ widely between a standalone campus and a shared education-city one. Branch-campus programmes still need MQA accreditation and appear on the MQR.'
+  next: 'Shortlist by specialism and location, verify the exact programme on the MQR, and confirm international-enrolment approval with the campus. See Studying in Malaysia and Public vs private universities.'
 ---
 
 In 1998, a student in Kuala Lumpur could earn an Australian Monash degree without leaving the country — and pay Malaysian prices for it. That single arrangement launched a model the country has been building on ever since: import the university, not the student.

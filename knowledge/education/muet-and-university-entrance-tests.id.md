@@ -86,6 +86,12 @@ relations:
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'Ini untuk mahasiswa prauniversitas (STPM, matrikulasi, asasi, atau diploma) yang melamar gelar sarjana, yang bagi mereka MUET adalah gerbang kemahiran bahasa Inggris yang wajib di universitas negeri.'
+  how: 'Ikuti empat kertas MUET — Listening, Speaking, Reading, dan Writing — melalui Majlis Peperiksaan Malaysia (MPM, Majelis Ujian Malaysia); nilai agregat Anda dipetakan ke sebuah band, dan Senat setiap universitas menetapkan band minimum yang diperlukan untuk setiap program.'
+  cost: 'Biaya ditetapkan oleh MPM dan lebih tinggi bagi bukan warga negara serta bagi MUET on Demand versi berbasis komputer, dan biaya ini berubah — pastikan biaya terkini di portal MPM (mpm.edu.my), bukan dari angka yang dikutip.'
+  watch: 'Tidak ada satu band lulus tunggal — minimumnya berbeda menurut program dan ditetapkan oleh Senat masing-masing universitas. Hasilnya berlaku selama lima tahun, jadi mengikuti ujian terlalu dini bisa berarti hasilnya kedaluwarsa sebelum Anda melamar.'
+  next: 'Periksa band minimum program yang Anda tuju di situs web universitasnya, daftar lebih awal melalui MPM, dan pantau masa berlaku lima tahun. Lihat Universitas negeri vs swasta.'
 ---
 
 Anda bisa cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu hasil lagi, formulir pengajuan program sarjana Anda masih belum lengkap. Hasil itu adalah MUET — dan banyak pelajar baru menyadari pentingnya ketika tanggal penutupan pendaftaran universitas sudah mendekat.

@@ -87,6 +87,12 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["college deposit Malaysia", "MQA accreditation check", "MQR mqr.gov.my", "is my course accredited", "college refund policy Malaysia", "twinning 3+0 awarding body", "private university Malaysia IPTS", "Act 555", "before paying college fees"]
 framework: how-to
+stayFacts:
+  who: 'This is for students and parents who hold a college offer and are about to pay a deposit or registration fee — often the first, and frequently non-refundable, money committed.'
+  how: 'Before paying, verify five things in writing: the exact programme is on the MQR; the institution is a registered provider (an IPTS under the Private Higher Educational Institutions Act 1996 (Act 555), or a recognised public university or branch campus); for a twinning or 3+0 programme, who awards the final certificate; the full written fee schedule for the whole programme; and the refund and withdrawal clause.'
+  cost: 'The deposit is only a fraction — ask for the complete written fee schedule for the entire programme (registration, per-semester tuition, resource, exam, insurance and international-student fees), not just year one, and confirm what the deposit is credited against.'
+  watch: 'Deposits are frequently non-refundable and there is no national statutory cooling-off right — what you can get back is set by the institution''s own written policy. A ''guaranteed transfer to Year 3'' is the partner university''s decision, not the local college''s; get it in writing.'
+  next: 'Put every check to the institution in writing and keep the replies before any money leaves your account; verify the exact programme on the MQR first. See the MQA accreditation explainer.'
 ---
 
 The deposit is usually the first money a family hands a college — and, once it is

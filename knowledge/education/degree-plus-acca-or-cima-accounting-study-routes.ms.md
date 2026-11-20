@@ -78,6 +78,12 @@ sources:
 entity: "Laluan pengajian dan kelayakan perakaunan di Malaysia"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Ini untuk pelajar dan mereka yang bertukar kerjaya yang sedang memutuskan cara untuk melayakkan diri sebagai akauntan di Malaysia, menimbang antara ijazah, ACCA, CIMA atau laluan profesional lain.'
+  how: 'Tetapkan destinasi dahulu: anda secara sah menjadi akauntan profesional apabila anda menjadi ahli Malaysian Institute of Accountants (MIA) (Institut Akauntan Malaysia) di bawah Accountants Act 1967 (Akta Akauntan 1967). Tiga jalan menuju MIA — ijazah yang diiktiraf berserta pengalaman; badan profesional yang diiktiraf (ACCA, CIMA dan lain-lain) berserta pengalaman; atau Peperiksaan Kelayakan MIA berserta pengalaman. ACCA cenderung ke arah audit dan amalan awam serta kebolehalihan global; CIMA ke arah perakaunan pengurusan dan industri.'
+  cost: 'Yuran, bilangan peperiksaan dan pengecualian yang dibawa oleh ijazah yang diakreditasi semuanya berubah pada setiap kitaran akreditasi, jadi jumlahkan sendiri angka semasa daripada badan berkenaan, penyedia tuisyen dan universiti — jangan sekali-kali bergantung pada bilangan pengecualian yang dipetik.'
+  watch: 'ACCA atau CIMA dengan sendirinya tidak menjadikan anda akauntan Malaysia — keahlian MIA yang menjadikannya, dan kelayakan berserta pengalaman adalah laluan menujunya. Bilangan pengecualian adalah fakta yang paling kerap berubah dalam topik ini; sahkan ia bagi setiap program.'
+  next: 'Pilih badan yang destinasi lazimnya sepadan dengan tempat anda ingin bekerja, sahkan ia pada masa ini menuju ke keahlian MIA dan pengalaman apa yang diperlukan, kemudian optimumkan titik masuk, mod pengajian dan pengecualian anda. Lihat panduan Sebelum membayar deposit kolej.'
 ---
 
 Sesiapa yang menimbang cara untuk menjadi akauntan di Malaysia akan terus berdepan dengan kekeliruan singkatan: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Ia kelihatan seperti satu menu kelayakan yang bersaing yang mesti anda pilih antaranya. Ia lebih baik difahami sebagai **satu destinasi dengan beberapa jalan ke arahnya** — dan sebaik sahaja anda nampak destinasinya, pilihan-pilihan itu menjadi jelas.

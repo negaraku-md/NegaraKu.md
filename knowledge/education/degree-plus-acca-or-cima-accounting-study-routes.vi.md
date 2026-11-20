@@ -78,6 +78,12 @@ sources:
 entity: "Các lộ trình học và chứng chỉ kế toán ở Malaysia"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Dành cho sinh viên và người chuyển nghề đang quyết định cách để trở thành kế toán viên tại Malaysia, cân nhắc giữa bằng đại học, ACCA, CIMA hay một lộ trình nghề nghiệp khác.'
+  how: 'Trước hết hãy xác định đích đến: bạn chính thức là một kế toán viên chuyên nghiệp theo pháp luật khi bạn là hội viên của Malaysian Institute of Accountants (MIA) theo Accountants Act 1967. Ba con đường dẫn đến MIA — một bằng đại học được công nhận cộng với kinh nghiệm; một tổ chức nghề nghiệp được công nhận (ACCA, CIMA và những tổ chức khác) cộng với kinh nghiệm; hoặc Kỳ thi Đủ điều kiện của MIA (MIA Qualifying Examination) cộng với kinh nghiệm. ACCA nghiêng về kiểm toán, hành nghề công và khả năng dùng được trên toàn cầu; CIMA nghiêng về kế toán quản trị và ngành công nghiệp.'
+  cost: 'Lệ phí, số lượng môn thi và số môn được miễn mà một bằng đại học đã kiểm định mang lại đều thay đổi theo mỗi chu kỳ kiểm định, vì vậy hãy tự mình cộng các con số hiện hành từ tổ chức nghề nghiệp, đơn vị đào tạo và trường đại học — đừng bao giờ dựa vào một con số miễn môn được báo.'
+  watch: 'Chỉ riêng ACCA hay CIMA không làm cho bạn trở thành một kế toán viên Malaysia — tư cách hội viên MIA mới làm điều đó, và chứng chỉ cộng với kinh nghiệm là con đường dẫn tới nó. Số môn được miễn là dữ kiện dễ thay đổi nhất trong chủ đề này; hãy kiểm chứng theo từng chương trình.'
+  next: 'Hãy chọn tổ chức có đích đến điển hình khớp với nơi bạn muốn làm việc, xác nhận rằng hiện nó dẫn tới tư cách hội viên MIA và cần kinh nghiệm gì, rồi tối ưu điểm vào, hình thức học và số môn được miễn của bạn. Xem bài Trước khi đóng tiền đặt cọc cho trường.'
 ---
 
 Bất cứ ai quyết định cách trở thành kế toán ở Malaysia đều lập tức đâm vào một mớ chữ viết tắt: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Nó trông như một thực đơn các chứng chỉ cạnh tranh mà bạn phải chọn giữa chúng. Cách hiểu đúng hơn là **một đích đến với vài con đường dẫn tới đó** — và một khi bạn nhìn ra đích đến, các lựa chọn sẽ vào đúng chỗ của chúng.

@@ -85,6 +85,12 @@ relations:
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: '学士課程に出願する大学進学前（STPM、予科、ファウンデーション、またはディプロマ）の学生で、国立大学においてMUETが必須の英語能力の関門となる人向け。'
+  how: 'マレーシア試験評議会（MPM、Majlis Peperiksaan Malaysia）を通じて、MUETの4科目——リスニング、スピーキング、リーディング、ライティング——を受験する。総合点がバンドに対応し、各大学の評議会（Senate）が課程ごとに必要な最低バンドを定める。'
+  cost: '受験料はMPMが定めており、非国民や、コンピューターベースのMUET on Demand版ではより高くなり、また変動する——どこかで示された金額ではなく、現在の受験料をMPMポータル（mpm.edu.my）で確認すること。'
+  watch: '合格とみなされる単一のバンドは存在しない——最低基準は課程によって異なり、各大学の評議会（Senate）が定める。結果の有効期間は5年であるため、早く受験しすぎると、出願前に有効期限が切れてしまうことがある。'
+  next: '志望する課程の最低バンドを大学のウェブサイトで確認し、MPMを通じて早めに受験登録し、5年の有効期間を管理すること。詳しくは「国立大学と私立大学」を参照のこと。'
 ---
 
 STPMや予科（matrikulasi）で優秀な成績を収めていても、もう一つの結果がなければ、学位への出願書類は完成しない。その結果とはMUETのことであり、多くの学生は大学の出願締切が迫ってから、ようやくその重要性に気づく。

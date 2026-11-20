@@ -108,6 +108,12 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Ini untuk mahasiswa dan orang tua yang mempertimbangkan kampus cabang universitas asing — kampus di luar negeri yang dimiliki sepenuhnya (Monash, Nottingham, Xiamen, Heriot-Watt, dan lainnya) yang memberikan gelar milik universitas asalnya sendiri di Malaysia.'
+  how: 'Pilih berdasarkan merek universitas asal, lokasi kampus, dan bidang keahlian; kampus cabang berada di Lembah Klang, Putrajaya, zona EduCity Iskandar di Johor, dan di Sarawak. Gelar yang diberikan adalah gelar yang identik dengan institusi asal, hanya disampaikan di kampus Malaysia.'
+  cost: 'Daya tariknya adalah kredensial Barat atau Tiongkok dengan biaya kuliah dan biaya hidup lokal, jauh lebih rendah daripada kuliah di kampus asal di luar negeri — tetapi biaya bervariasi menurut institusi dan program, jadi pastikan angka terkini dengan masing-masing kampus.'
+  watch: 'Gelarnya portabel, tetapi pengalamannya bersifat lokal — ukuran kelas, fasilitas, dan kehidupan kampus sangat berbeda antara kampus mandiri dan kampus yang berbagi di kota pendidikan. Program kampus cabang tetap memerlukan akreditasi MQA dan muncul di MQR.'
+  next: 'Susun daftar pendek berdasarkan bidang keahlian dan lokasi, verifikasi program yang tepat di MQR, dan pastikan persetujuan penerimaan mahasiswa internasional dengan kampus tersebut. Lihat Kuliah di Malaysia dan Universitas negeri vs swasta.'
 ---
 
 Pada 1998, seorang mahasiswa di Kuala Lumpur dapat memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Pengaturan tunggal itu meluncurkan satu model yang terus dikembangkan oleh negara sejak itu: mengimpor universitas, bukan mahasiswa.

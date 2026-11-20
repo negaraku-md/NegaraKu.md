@@ -76,6 +76,12 @@ faq:
   - q: A programme is only "provisionally accredited" — does that mean it isn't accredited?
     a: No. Under MQA's Code of Practice for Programme Accreditation, Provisional Accreditation confirms a programme has met the minimum quality requirements to be legally offered, and is itself a condition for Ministry approval. Full Accreditation is the fuller assessment carried out once a first cohort has gone through the programme. A provisionally accredited programme is legitimate and legally offerable; it simply hasn't yet completed the full-cycle assessment.
 framework: explainer
+stayFacts:
+  who: 'This is for SPM, STPM, matriculation, foundation, UEC, A-Level or diploma holders deciding between a public university (IPTA/Universiti Awam) and a private one (IPTS).'
+  how: 'Public universities admit almost entirely through UPU, the Ministry''s centralised online system — you rank programme preferences and are matched by merit against quota-limited places. Private institutions sit outside UPU, run their own rolling admissions directly, and accept a wider mix of qualifications.'
+  cost: 'The UPU application itself is free, though you buy a 12-digit Unik ID from Bank Simpanan Nasional (BSN) to log in; private-institution fees are set per programme and change, so confirm current figures with UPU''s e-Panduan or the institution.'
+  watch: 'The IPTA/IPTS label does not tell you whether a degree is recognised — that depends on whether the specific programme is MQA-accredited on the MQR, which you should check for your exact intake year. You cannot apply to a private university through UPU.'
+  next: 'Decide from the qualification you hold, then verify the exact programme and intake on the Malaysian Qualifications Register before enrolling at either type. See the MQA accreditation explainer and Before paying a college deposit.'
 ---
 
 Two students with the same SPM results end up in completely different systems.

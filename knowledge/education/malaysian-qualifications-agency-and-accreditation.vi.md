@@ -77,6 +77,12 @@ relations:
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Dành cho sinh viên tương lai, phụ huynh và nhà tuyển dụng đang kiểm tra xem một bằng cấp sau trung học của Malaysia có được chính thức công nhận hay không.'
+  how: 'Hãy tra cứu miễn phí Malaysian Qualifications Register (MQR) theo đúng tên chương trình, bậc học và cơ sở giảng dạy, và xác nhận rằng chương trình đang có Kiểm định Tạm thời hoặc Kiểm định Đầy đủ. Sự công nhận đối với một nghề được quản lý hoặc để làm việc trong khu vực công được kiểm chứng riêng với cơ quan đó.'
+  cost: 'Việc tra cứu MQR là miễn phí; còn sự công nhận mà bạn có thể đang trông cậy — một giấy phép hành nghề, một việc làm nhà nước, hay việc du học — mỗi thứ có thể cần kiểm chứng riêng với cơ quan của chính nó.'
+  watch: 'Việc kiểm định gắn với chương trình và đợt nhập học cụ thể, chứ không phải với cơ sở — một trường đại học uy tín vẫn có thể cung cấp một chương trình mới, đang kiểm định tạm thời hoặc chưa được liệt kê. Một dòng chữ ''đã được MQA phê duyệt'' trong tờ rơi không phải là sổ đăng ký; hãy tự mình xác nhận mục tra cứu trực tiếp, và lưu ý rằng tình trạng kiểm định tạm thời là hợp pháp, chứ không phải hạng hai.'
+  next: 'Hãy tra cứu đúng chương trình của bạn trên MQR trước khi đóng bất kỳ khoản tiền đặt cọc nào; đối với một nghề được quản lý, hãy xác nhận lộ trình dành cho người tốt nghiệp với cơ quan nghề nghiệp đó. Xem bài Trước khi đóng tiền đặt cọc cho trường.'
 ---
 
 Hai sinh viên tốt nghiệp với một diploma nghe giống nhau. Một người đủ tư cách cho một công việc chính phủ và một suất thạc sĩ; người kia bị từ chối ngay trước cửa. Sự khác biệt thường là một dòng duy nhất trong một sổ đăng ký công khai: liệu Cơ quan Kiểm định Malaysia có kiểm định chương trình hay không.

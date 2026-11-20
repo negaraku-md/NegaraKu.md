@@ -78,6 +78,12 @@ sources:
 entity: "Jalur studi dan kualifikasi akuntansi di Malaysia"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Ini untuk mahasiswa dan orang yang beralih karier yang sedang memutuskan cara menjadi akuntan di Malaysia, mempertimbangkan gelar, ACCA, CIMA, atau jalur profesi lainnya.'
+  how: 'Tetapkan dulu tujuan akhirnya: Anda secara hukum menjadi akuntan profesional ketika Anda adalah anggota Malaysian Institute of Accountants (MIA, Institut Akuntan Malaysia) di bawah Accountants Act 1967. Ada tiga jalan menuju MIA — gelar yang diakui ditambah pengalaman; badan profesi yang diakui (ACCA, CIMA, dan lainnya) ditambah pengalaman; atau MIA Qualifying Examination ditambah pengalaman. ACCA cenderung ke arah audit dan praktik publik serta portabilitas global; CIMA ke arah akuntansi manajemen dan industri.'
+  cost: 'Biaya, jumlah ujian, dan pengecualian (exemption) yang dibawa oleh gelar terakreditasi semuanya berubah pada setiap siklus akreditasi, jadi hitung sendiri angka terkini dari badan profesi, penyedia tuisyen, dan universitas — jangan pernah bergantung pada jumlah pengecualian yang dikutip.'
+  watch: 'ACCA atau CIMA saja tidak menjadikan Anda akuntan Malaysia — keanggotaan MIA yang menjadikannya, dan kualifikasi ditambah pengalaman adalah jalurnya. Jumlah pengecualian adalah fakta yang paling mudah berubah dalam topik ini; verifikasi per program.'
+  next: 'Pilih badan profesi yang tujuan akhir lazimnya sesuai dengan tempat Anda ingin bekerja, pastikan badan itu saat ini mengarah ke keanggotaan MIA dan pengalaman apa yang diperlukan, lalu optimalkan titik masuk, mode belajar, dan pengecualian Anda. Lihat panduan Sebelum membayar deposit kolej.'
 ---
 
 Siapa pun yang memutuskan cara menjadi akuntan di Malaysia langsung bertemu sup alfabet: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Tampak seperti menu kualifikasi yang saling bersaing dan harus Anda pilih salah satunya. Lebih baik dipahami sebagai **satu tujuan dengan beberapa jalan menuju ke sana** — dan begitu Anda melihat tujuannya, pilihan-pilihan itu jatuh pada tempatnya.

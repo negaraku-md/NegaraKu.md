@@ -86,6 +86,12 @@ relations:
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: '这适用于申请学士课程的大学先修阶段学生（STPM、大学先修班、基础课程或文凭），对他们而言，MUET是公立大学强制性的英语能力关卡。'
+  how: '透过马来西亚考试理事会（Malaysian Examinations Council，MPM）应考MUET的四张试卷——聆听、口试、阅读与写作；你的总成绩换算为相应等级（band），而每所大学的评议会（Senate）会为各课程设定所需的最低等级。'
+  cost: '费用由MPM设定，非公民以及电脑化的MUET on Demand版本收费较高，且会变动——请在MPM门户网站（mpm.edu.my）上核实当前费用，而非依据某个报出的数字。'
+  watch: '并不存在单一的及格等级——最低要求因课程而异，由各大学评议会设定。成绩有效期为五年，因此考得太早可能导致成绩在你申请之前就已过期。'
+  next: '在大学网站上查看目标课程所需的最低等级，尽早透过MPM报名，并留意五年有效期。参阅《公立与私立大学》。'
 ---
 
 你可以在 STPM 或大学预科中表现优异，但若少了另一项成绩，你的学位申请表仍然不完整。那项成绩就是 MUET——而许多学生往往要等到大学申请截止日期逼近时，才意识到它的重要性。

@@ -84,6 +84,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: '这适用于在接受录取通知、启动学生签证流程之前，正在挑选大马院校与课程的准留学生。'
+  how: '先厘清两道各自独立的关卡：一是该课程已由大马学术资格鉴定机构（Malaysian Qualifications Agency，MQA）认证，并列入大马学术资格鉴定名册（Malaysian Qualifications Register，MQR）；二是该院校本身已获高等教育部（MOHE）批准招收外国学生。只有来自这类院校、经签署的录取通知书，才会触发学生准证（Student Pass），而且是由院校（而非你本人）向大马教育全球服务中心（Education Malaysia Global Services，EMGS）提交申请。'
+  cost: '学费因院校与课程而差异极大，学生准证另有EMGS及签证相关费用，且会不时调整，因此请直接向院校及EMGS门户网站（educationmalaysia.gov.my）核实当前数字，而非依据某个报出的金额。'
+  watch: 'MQA的课程认证与院校招收外国学生的批准，是两项不同的查核——一个课程即便已获完整认证，所在院校也可能并未获准招收你。以英语为教学媒介，并不能取代EMGS另行要求的英语能力证明。'
+  next: '先向院校的国际事务处以书面形式确认这两道关卡，接受录取，再透过EMGS办理学生准证流程。参阅《学生准证》《留学大马》以及MQA认证说明。'
 ---
 
 来自错误类型院校的录取信，对签证申请而言毫无用处，即使课程本身完全获得认证也一样。「已获认证的课程」与「获准招收国际学生的院校」这两者之间的区别，正是大部分混淆的起点，而这早在任何人填写 EMGS 表格之前就已经发生。

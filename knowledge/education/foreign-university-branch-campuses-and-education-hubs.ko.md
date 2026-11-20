@@ -107,6 +107,12 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: '외국 대학 분교 캠퍼스 — 본교의 학위를 말레이시아에서 수여하는, 완전 소유의 해외 캠퍼스(Monash, Nottingham, Xiamen, Heriot-Watt 등) — 를 저울질하는 학생과 학부모를 위한 카드입니다.'
+  how: '본교 브랜드, 캠퍼스 위치, 전공 분야로 선택하십시오. 분교 캠퍼스는 클랑밸리, 푸트라자야, 조호르의 EduCity Iskandar 구역, 그리고 사라왁에 자리합니다. 수여되는 학위는 말레이시아 캠퍼스에서 공부하더라도 본교의 학위와 동일합니다.'
+  cost: '매력은 해외 본교에서 공부하는 것보다 훨씬 낮은 현지 학비와 생활비로 서구나 중국의 학위를 얻는다는 점입니다 — 다만 학비는 기관과 프로그램에 따라 다르니 현재 수치는 각 캠퍼스에 확인하십시오.'
+  watch: '학위는 어디서나 통용되지만 경험은 현지의 것입니다 — 수업 규모, 시설, 캠퍼스 생활은 독립형 캠퍼스와 공유형 교육도시 캠퍼스 사이에서 크게 다릅니다. 분교 캠퍼스 프로그램도 여전히 MQA 인증이 필요하며 MQR에 올라 있습니다.'
+  next: '전공과 위치로 후보를 추린 뒤, MQR에서 정확한 프로그램을 확인하고, 외국인 입학 승인 여부를 캠퍼스에 확인하십시오. 말레이시아 유학과 공립 대 사립 대학교 글을 참고하십시오.'
 ---
 
 1998년, 쿠알라룸푸르의 한 학생은 나라를 떠나지 않고도 호주 모나시(Monash) 학위를 받을 수 있었고, 그 대가로 말레이시아 가격을 냈습니다. 이 하나의 방식이 이후 말레이시아가 계속 발전시켜 온 모델을 출범시켰습니다. 즉 학생이 아니라 대학교를 들여오는 것입니다.

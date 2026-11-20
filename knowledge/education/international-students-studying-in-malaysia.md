@@ -84,6 +84,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'This is for a prospective international student choosing a Malaysian institution and programme before accepting an offer and starting the student-visa process.'
+  how: 'Clear two separate gates first: the programme is accredited by the Malaysian Qualifications Agency (MQA) on the Malaysian Qualifications Register (MQR), and the institution itself is approved by the Ministry of Higher Education to enrol foreign students. Only a signed offer letter from such an institution triggers the Student Pass, which the institution — not you — submits to Education Malaysia Global Services (EMGS).'
+  cost: 'Tuition varies widely by institution and programme, and the Student Pass carries separate EMGS and visa charges that are revised over time, so confirm current figures with the institution and the EMGS portal (educationmalaysia.gov.my) rather than a quoted number.'
+  watch: 'MQA programme accreditation and institutional approval to take foreign students are two different checks — a fully accredited programme can sit at an institution that is not cleared to enrol you. English-medium teaching does not replace EMGS''s separate English-proficiency evidence.'
+  next: 'Confirm both gates in writing with the institution''s international office, accept the offer, then follow the Student Pass process through EMGS. See The Student Pass, Studying in Malaysia, and the MQA accreditation explainer.'
 ---
 
 An offer letter from the wrong kind of institution is worthless for a visa, even if the programme itself is perfectly accredited. That distinction — accredited programme versus approved-for-international-students institution — is where most confusion starts, well before anyone fills in an EMGS form.

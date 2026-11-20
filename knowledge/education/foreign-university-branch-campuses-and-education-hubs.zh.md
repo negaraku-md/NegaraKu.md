@@ -107,6 +107,12 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: '这适用于正在权衡外国大学分校的学生与家长——所谓分校，是指全资拥有的海外校区（Monash、Nottingham、厦门大学、Heriot-Watt等），在大马颁授母校本身的学位。'
+  how: '依母校品牌、校区位置与专业方向来选择；分校分布于巴生谷、布城、柔佛的EduCity Iskandar教育城片区以及砂拉越。所颁授的，是母校完全相同的学位，只是在大马校区授课。'
+  cost: '其吸引力在于以本地的学费与生活成本取得一纸西方或中国的文凭，远低于赴母校海外本部就读——但费用因院校与课程而异，因此请向各校区核实当前数字。'
+  watch: '学位可携带，但就读体验是本地的——独立校区与共享型教育城校区之间，班级规模、设施与校园生活差异很大。分校课程同样需获MQA认证，并列入MQR。'
+  next: '先按专业与地点圈定候选名单，在MQR上查证确切课程，并向校区确认其招收国际学生的批准。参阅《留学大马》与《公立与私立大学》。'
 ---
 
 1998年，吉隆坡的一名学生无需离开本国就能获得澳大利亚莫纳什大学的学位——而且只需支付马来西亚的价格。这一单一安排开启了一种此后不断发展的模式：引进大学，而非输出学生。

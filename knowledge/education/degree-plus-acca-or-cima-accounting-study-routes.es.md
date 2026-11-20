@@ -78,6 +78,12 @@ sources:
 entity: "Rutas de estudio y cualificación contable en Malasia"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Esto es para estudiantes y personas que cambian de carrera y deciden cómo cualificarse como contable en Malasia, sopesando un título, ACCA, CIMA u otra vía profesional.'
+  how: 'Fija primero el destino: legalmente eres contable profesional cuando eres miembro del Instituto de Contables de Malasia (MIA) conforme a la Accountants Act 1967. Tres caminos llegan al MIA: un título reconocido más experiencia; un organismo profesional reconocido (ACCA, CIMA y otros) más experiencia; o el Examen de Cualificación del MIA más experiencia. ACCA se inclina hacia la auditoría, el ejercicio público y la portabilidad global; CIMA, hacia la contabilidad de gestión y la industria.'
+  cost: 'Las tasas, el número de exámenes y las convalidaciones que otorga un título acreditado cambian con cada ciclo de acreditación, así que suma tú mismo las cifras actuales a partir del organismo, el proveedor de formación y la universidad; nunca te fíes de un número de convalidaciones citado.'
+  watch: 'ACCA o CIMA por sí solo no te convierte en contable malasio: eso lo hace la pertenencia al MIA, y la cualificación más la experiencia es la vía para lograrlo. El número de convalidaciones es el dato más cambiante del tema; verifícalo programa por programa.'
+  next: 'Elige el organismo cuyo destino habitual coincida con dónde quieres trabajar, confirma que actualmente conduce a la pertenencia al MIA y qué experiencia se exige, y luego optimiza tu punto de entrada, tu modalidad de estudio y tus convalidaciones. Consulta Antes de pagar el depósito de un colegio universitario.'
 ---
 
 Cualquiera que esté decidiendo cómo llegar a ser contador en Malasia se topa de frente con una sopa de letras: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Parece un menú de cualificaciones rivales entre las que hay que elegir. Se entiende mejor como **un solo destino con varios caminos hacia él**, y una vez que ves el destino, las decisiones encajan en su sitio.

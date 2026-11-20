@@ -85,6 +85,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Ceci s''adresse à un futur étudiant international qui choisit un établissement et un programme malaisiens avant d''accepter une offre et d''entamer la procédure de visa étudiant.'
+  how: 'Franchissez d''abord deux portes distinctes : le programme est accrédité par la MQA (Agence des qualifications de Malaisie) sur le MQR (Registre des qualifications de Malaisie), et l''établissement lui-même est agréé par le ministère de l''Enseignement supérieur pour inscrire des étudiants étrangers. Seule une lettre d''offre signée par un tel établissement déclenche le Student Pass, que l''établissement — et non vous — soumet à l''EMGS (Education Malaysia Global Services).'
+  cost: 'Les frais de scolarité varient fortement selon l''établissement et le programme, et le Student Pass comporte des frais d''EMGS et de visa distincts, révisés au fil du temps ; confirmez donc les montants actuels auprès de l''établissement et du portail EMGS (educationmalaysia.gov.my) plutôt que de vous fier à un chiffre annoncé.'
+  watch: 'L''accréditation d''un programme par la MQA et l''agrément de l''établissement pour accueillir des étudiants étrangers sont deux vérifications différentes — un programme pleinement accrédité peut se trouver dans un établissement qui n''est pas autorisé à vous inscrire. L''enseignement en anglais ne remplace pas la preuve de compétence linguistique en anglais exigée séparément par l''EMGS.'
+  next: 'Faites confirmer les deux portes par écrit auprès du bureau international de l''établissement, acceptez l''offre, puis suivez la procédure du Student Pass via l''EMGS. Voir Le Student Pass, Étudier en Malaisie, et l''explication de l''accréditation MQA.'
 ---
 
 Une lettre d'offre émanant du mauvais type d'établissement ne vaut rien pour un visa, même si le programme lui-même est parfaitement accrédité. Cette distinction — programme accrédité par rapport à établissement autorisé pour les étudiants internationaux — est là où naît la plupart de la confusion, bien avant que quiconque ne remplisse un formulaire de l'EMGS.

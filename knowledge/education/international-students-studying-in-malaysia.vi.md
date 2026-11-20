@@ -85,6 +85,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Dành cho sinh viên quốc tế tương lai đang chọn cơ sở và chương trình tại Malaysia trước khi nhận thư mời nhập học và bắt đầu quy trình xin thị thực du học.'
+  how: 'Trước hết hãy vượt qua hai cửa riêng biệt: chương trình phải được Cơ quan Bằng cấp Malaysia (MQA) kiểm định trên Malaysian Qualifications Register (MQR), và bản thân cơ sở phải được Bộ Giáo dục Đại học cho phép tuyển sinh viên nước ngoài. Chỉ một thư mời nhập học có chữ ký từ một cơ sở như vậy mới kích hoạt Student Pass (giấy phép du học), do cơ sở — chứ không phải bạn — nộp cho Education Malaysia Global Services (EMGS).'
+  cost: 'Học phí khác nhau rất nhiều tùy cơ sở và chương trình, còn Student Pass thì có các khoản phí EMGS và phí thị thực riêng vốn được điều chỉnh theo thời gian, vì vậy hãy xác nhận con số hiện hành với cơ sở và cổng EMGS (educationmalaysia.gov.my) thay vì dựa vào một con số được báo.'
+  watch: 'Việc MQA kiểm định chương trình và việc cơ sở được phép tuyển sinh viên nước ngoài là hai khâu kiểm tra khác nhau — một chương trình đã được kiểm định đầy đủ vẫn có thể nằm ở một cơ sở chưa được phép tuyển bạn. Việc giảng dạy bằng tiếng Anh không thay thế được bằng chứng về năng lực tiếng Anh riêng mà EMGS yêu cầu.'
+  next: 'Hãy xác nhận cả hai cửa bằng văn bản với văn phòng sinh viên quốc tế của cơ sở, nhận thư mời, rồi thực hiện quy trình Student Pass qua EMGS. Xem bài về Student Pass, bài về Du học tại Malaysia, và bài giải thích về kiểm định của MQA.'
 ---
 
 Một thư mời từ loại cơ sở sai là vô giá trị đối với một thị thực, ngay cả khi bản thân chương trình được kiểm định hoàn hảo. Sự phân biệt đó — chương trình được kiểm định so với cơ sở được phê duyệt cho sinh viên quốc tế — là nơi hầu hết sự bối rối bắt đầu, từ rất lâu trước khi ai đó điền một mẫu EMGS.

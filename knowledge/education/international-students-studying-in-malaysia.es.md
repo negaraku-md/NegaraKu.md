@@ -85,6 +85,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Esto es para un futuro estudiante internacional que elige una institución y un programa en Malasia antes de aceptar una oferta e iniciar el trámite del visado de estudiante.'
+  how: 'Supera primero dos puertas distintas: que el programa esté acreditado por la Agencia de Cualificaciones de Malasia (MQA) en el Registro de Cualificaciones de Malasia (MQR), y que la propia institución esté autorizada por el Ministerio de Educación Superior (MOHE) para matricular a estudiantes extranjeros. Solo una carta de oferta firmada por una institución así activa el Pase de Estudiante (Student Pass), que tramita la institución —no tú— ante Education Malaysia Global Services (EMGS).'
+  cost: 'Las tasas de matrícula varían mucho según la institución y el programa, y el Pase de Estudiante conlleva cargos aparte de la EMGS y del visado que se revisan con el tiempo, así que confirma las cifras actuales con la institución y con el portal de la EMGS (educationmalaysia.gov.my) en lugar de fiarte de una cantidad citada.'
+  watch: 'La acreditación del programa por la MQA y la autorización de la institución para admitir estudiantes extranjeros son dos comprobaciones distintas: un programa plenamente acreditado puede estar en una institución que no tenga permiso para matricularte. La docencia en inglés no sustituye a la prueba de competencia en inglés que la EMGS exige por separado.'
+  next: 'Confirma ambas puertas por escrito con la oficina internacional de la institución, acepta la oferta y luego sigue el proceso del Pase de Estudiante a través de la EMGS. Consulta el artículo sobre el Pase de Estudiante, Estudiar en Malasia y la explicación sobre la acreditación de la MQA.'
 ---
 
 Una carta de oferta del tipo equivocado de institución no sirve de nada para una visa, aunque el programa en sí esté perfectamente acreditado. Esa distinción — programa acreditado frente a institución aprobada para estudiantes internacionales — es donde empieza la mayor parte de la confusión, mucho antes de que alguien rellene un formulario de EMGS.

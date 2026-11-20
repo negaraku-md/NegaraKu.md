@@ -77,6 +77,12 @@ faq:
   - q: Suatu program hanya "terakreditasi sementara" — apakah itu berarti ia tidak terakreditasi?
     a: Tidak. Berdasarkan Kode Praktik Akreditasi Program MQA, Akreditasi Sementara memastikan bahwa suatu program telah memenuhi persyaratan mutu minimum untuk ditawarkan secara sah, dan itu sendiri merupakan syarat bagi persetujuan Kementerian. Akreditasi Penuh adalah penilaian yang lebih menyeluruh yang dilakukan setelah angkatan pertama menyelesaikan program tersebut. Program yang terakreditasi sementara adalah sah dan dapat ditawarkan secara sah; ia hanya belum menyelesaikan penilaian siklus penuh.
 framework: explainer
+stayFacts:
+  who: 'Ini untuk pemegang SPM, STPM, matrikulasi, asasi, UEC, A-Level, atau diploma yang sedang memutuskan antara universitas negeri (IPTA/Universiti Awam) dan universitas swasta (IPTS).'
+  how: 'Universitas negeri menerima mahasiswa hampir sepenuhnya melalui UPU (Unit Pusat Universiti), sistem daring terpusat milik Kementerian — Anda menyusun peringkat pilihan program dan dicocokkan menurut merit terhadap tempat yang terbatas kuota. Institusi swasta berada di luar UPU, menjalankan penerimaan berkelanjutan mereka sendiri secara langsung, dan menerima gabungan kualifikasi yang lebih luas.'
+  cost: 'Permohonan UPU itu sendiri gratis, meskipun Anda membeli Unik ID 12 digit dari Bank Simpanan Nasional (BSN) untuk masuk; biaya institusi swasta ditetapkan per program dan berubah, jadi pastikan angka terkini dengan e-Panduan UPU atau institusi terkait.'
+  watch: 'Label IPTA/IPTS tidak memberi tahu apakah suatu gelar diakui — itu tergantung apakah program tertentu tersebut terakreditasi MQA di dalam MQR, yang sebaiknya Anda periksa untuk tahun penerimaan Anda yang tepat. Anda tidak dapat melamar ke universitas swasta melalui UPU.'
+  next: 'Putuskan berdasarkan kualifikasi yang Anda pegang, lalu verifikasi program dan tahun penerimaan yang tepat di Malaysian Qualifications Register sebelum mendaftar pada salah satu jenis institusi. Lihat penjelasan akreditasi MQA dan panduan Sebelum membayar deposit kolej.'
 ---
 
 Dua orang pelajar dengan hasil SPM yang sama dapat berakhir dalam dua sistem

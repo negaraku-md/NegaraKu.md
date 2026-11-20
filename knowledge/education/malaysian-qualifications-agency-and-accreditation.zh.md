@@ -77,6 +77,12 @@ relations:
 related: []
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: '这适用于正在查证某项大马中学后学历是否获得官方承认的准学生、家长与雇主。'
+  how: '在免费的大马学术资格鉴定名册（MQR）上，按确切的课程名称、级别与授课校区查询，确认其持有临时认证（Provisional Accreditation）或完全认证（Full Accreditation）。某项受规管专业或公共部门就业的承认资格，则须另行向相关机构查证。'
+  cost: 'MQR查询是免费的；但你可能指望的那种承认——专业执照、政府工作或出国深造——各自都可能需向其对应的机构另行查证。'
+  watch: '认证所依附的是特定的课程与入学批次，而非院校本身——一所声誉良好的大学，仍可能开办某个新设、临时认证或尚未列册的课程。宣传册上「MQA-approved」的说法并不等于名册本身；请自行查证线上的实时记录，并留意临时认证地位是合法有效的，并非次人一等。'
+  next: '在缴付任何订金之前，先于MQR上查询你确切的课程；若涉及受规管专业，向该专业机构确认毕业后的入会途径。参阅《缴付学院订金前》。'
 ---
 
 两名学生毕业时拿着名称听起来一样的文凭。其中一人有资格获得政府工作和硕士学位名额；另一人却被拒之门外。这个差别往往就在一份公开名册上的一行字：马来西亚学术资格鉴定机构是否认证了该课程。

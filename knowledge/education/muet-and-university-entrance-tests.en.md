@@ -86,6 +86,12 @@ relations:
 related: []
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'This is for pre-university students (STPM, matriculation, foundation or diploma) applying for a bachelor''s degree, for whom MUET is the compulsory English-proficiency gate at public universities.'
+  how: 'Sit MUET''s four papers — Listening, Speaking, Reading and Writing — through the Malaysian Examinations Council (MPM); your aggregate maps to a band, and each university''s Senate sets the minimum band required for each programme.'
+  cost: 'Fees are set by MPM and are higher for non-citizens and for the computer-based MUET on Demand version, and they change — confirm the current fee on the MPM portal (mpm.edu.my) rather than a quoted figure.'
+  watch: 'There is no single pass band — the minimum varies by programme and is set by each university''s Senate. Results are valid for five years, so sitting too early can mean they expire before you apply.'
+  next: 'Check your target programme''s minimum band on the university''s website, register early through MPM, and track the five-year validity. See Public vs private universities.'
 ---
 
 You may excel in STPM or matriculation, but without one more result, your degree application form is still incomplete. That result is MUET — and many students only realise its importance when the university application deadline is already looming.

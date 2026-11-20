@@ -85,6 +85,12 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Ini untuk calon mahasiswa internasional yang sedang memilih institusi dan program di Malaysia sebelum menerima tawaran dan memulai proses visa pelajar.'
+  how: 'Lewati dulu dua gerbang yang terpisah: program tersebut terakreditasi oleh Malaysian Qualifications Agency (MQA, Badan Kualifikasi Malaysia) di dalam Malaysian Qualifications Register (MQR, Daftar Kualifikasi Malaysia), dan institusinya sendiri disetujui oleh Kementerian Pendidikan Tinggi untuk menerima mahasiswa asing. Hanya surat tawaran yang ditandatangani dari institusi semacam itu yang memicu Student Pass, yang diajukan oleh institusi — bukan oleh Anda — kepada Education Malaysia Global Services (EMGS).'
+  cost: 'Biaya kuliah sangat bervariasi menurut institusi dan program, dan Student Pass memiliki biaya EMGS serta biaya visa tersendiri yang direvisi dari waktu ke waktu, jadi pastikan angka terkini dengan institusi dan portal EMGS (educationmalaysia.gov.my), bukan dari angka yang dikutip.'
+  watch: 'Akreditasi program oleh MQA dan persetujuan institusi untuk menerima mahasiswa asing adalah dua pemeriksaan yang berbeda — program yang sepenuhnya terakreditasi bisa saja berada di institusi yang tidak diizinkan menerima Anda. Pengajaran dalam bahasa Inggris tidak menggantikan bukti kemahiran bahasa Inggris tersendiri yang diminta EMGS.'
+  next: 'Pastikan kedua gerbang itu secara tertulis dengan kantor internasional institusi, terima tawaran tersebut, lalu ikuti proses Student Pass melalui EMGS. Lihat penjelasan tentang Student Pass, Kuliah di Malaysia, dan penjelasan akreditasi MQA.'
 ---
 
 Surat penawaran dari institusi yang salah jenis tidak bernilai untuk tujuan visa, meskipun program itu sendiri diakreditasi dengan sempurna. Perbedaan itu — program yang diakreditasi dibandingkan institusi yang disetujui untuk mahasiswa internasional — adalah penyebab kebanyakan kebingungan bermula, jauh sebelum siapa pun mengisi formulir EMGS.
