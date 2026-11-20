@@ -78,6 +78,14 @@ relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "ministère du Logement et des Collectivités locales Malaisie", "Ministry of Housing and Local Government Malaysia", "KPKT fonctions", "KPKT agences", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "logement abordable Malaisie B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'A tall curved grey-and-glass government tower in Putrajaya rising above a black signage monument reading Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministry of Urban Wellbeing, Housing and Local Government) with the KPKT house logo'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
 ---
 
 Quand vos ordures ne sont pas ramassées, quand un certificat de sécurité incendie arrive à échéance et quand un promoteur vous livre votre appartement avec deux ans de retard — le même ministère fédéral se trouve derrière ces trois cas. Le **ministère du Logement et des Collectivités locales**, *Kementerian Perumahan dan Kerajaan Tempatan*, universellement connu sous le nom de **KPKT**, est le ministère fédéral malaisien chargé du logement abordable, des collectivités locales, de l'urbanisme, de la lutte contre les incendies et du secours, des déchets solides, de l'aménagement paysager et du crédit communautaire. Son siège se trouve au No. 51, Persiaran Perdana, Precinct 4, Centre administratif du gouvernement fédéral, 62100 Putrajaya. Le ministre est **Nga Kor Ming** et la vice-ministre est **Datuk Hajah Aiman Athirah binti Sabu**.

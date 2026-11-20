@@ -76,6 +76,14 @@ relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
 framework: profile
+hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
+heroAlt: 'Frontal view of the red-brick Ministry of Home Affairs (KDN) building in Putrajaya, its central tower flanked by arched windows above a grand arched entrance, palm trees lining the plaza under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
 ---
 
 เมื่อชาวมาเลเซียต่ออายุหนังสือเดินทาง เมื่อตำรวจจับกุม เมื่อใบอนุญาตของแรงงานต่างชาติถูกตรวจสอบ หรือเมื่อภาพยนตร์ถูกจัดเรตเพื่อฉาย — กระทรวงเดียวกันยืนอยู่เบื้องหลังทั้งสี่เหตุการณ์ กระทรวงนั้นคือ **กระทรวงมหาดไทย** ที่รู้จักในภาษามลายูว่า **Kementerian Dalam Negeri (KDN)** และในภาษาอังกฤษว่า **MOHA**

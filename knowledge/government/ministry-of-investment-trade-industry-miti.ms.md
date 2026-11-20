@@ -66,6 +66,14 @@ wikidata: "Q14933204"
 relations: []
 related: []
 keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]
+hero: '/media/government/ministry-of-investment-trade-industry-miti/hero.webp'
+heroAlt: 'Low-angle view of Menara MITI, a tall curved blue-glass office tower with a tapered crown, rising against a lightly clouded sky in Kuala Lumpur'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_MITI,_Segambut_20230304_115907.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MITI, the Ministry of Investment, Trade and Industry tower at KL Metropolis, Segambut, Kuala Lumpur'
 ---
 
 Perhatikan empat huruf itu dengan teliti dan anda akan nampak helahnya: **MITI** dahulu bermaksud Kementerian Perdagangan *Antarabangsa* dan Industri (Ministry of *International* Trade and Industry). Sejak April 2023, ia bermaksud Kementerian **Pelaburan**, Perdagangan dan Industri (Bahasa Malaysia: *Kementerian Pelaburan, Perdagangan dan Industri*) — akronim yang sama, satu perkataan yang berubah, mandat yang sedikit berubah. Inilah kementerian persekutuan Malaysia bagi pelaburan, perdagangan antarabangsa dan dasar perindustrian, dan halaman ini menerangkan apa yang dilakukannya, siapa yang menerajuinya, dan bagaimana ia berbeza daripada agensi-agensinya sendiri.

@@ -78,6 +78,14 @@ relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'JKM Social Welfare Department district office in Pontian, Johor, fronted by a large yellow signboard reading ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' with the JKM logo and a jkm.gov.my email, beside a Malaysian flag'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
 ---
 
 **사회복지청** — *Jabatan Kebajikan Masyarakat*, 어디서나 그 약칭 **JKM**으로 알려진 — 은 말레이시아인이 넘어질 때 그들을 받아 주는 연방 기관입니다. **1946년**에 처음에는 제2차 세계대전이 야기한 사회 문제에 대응하여 설립되었으며, 그 역할은 이후 **보호, 재활, 예방, 발전, 지역사회 통합**으로 확대되었습니다. JKM에 대한 검색 결과는 연도가 붙은 "지원 신청 방법" 블로그와 무미건조한 서비스 페이지가 지배합니다. 이 페이지는 대신 JKM을 하나의 제도로 설명하고, 그 서비스가 어떻게 전 생애 주기에 걸쳐 — 아동에서 장애인, 노인에 이르기까지 — 연결되는지를 설명합니다.

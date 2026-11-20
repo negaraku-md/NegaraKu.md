@@ -86,6 +86,14 @@ relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "وزارة التجارة الداخلية وتكلفة المعيشة", "شكاوى KPDN", "Price Control and Anti-Profiteering Act 2011", "قانون ضبط الأسعار", "Ez ADU KPDN", "محكمة مطالبات المستهلكين TTPM", "الخط الساخن KPDN", "ضبط أسعار السلع", "حماية المستهلك في ماليزيا", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'Wide frontal view of the long sandstone KPDN ministry building in Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' lettering above the central entrance and a taller office block bearing the diamond K logo at the right end'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
 ---
 
 عندما يُغالي أحد التجار في سعر زيت الطهي الذي يبيعه لك، أو يبيع سلعة خاضعة للرقابة فوق سقف سعرها، أو يرفض الوفاء بمسؤوليته تجاه منتج معيب، فإن الجهة الاتحادية التي مهمتها أن تتصرف نيابةً عنك هي **KPDN** — **وزارة التجارة الداخلية وتكلفة المعيشة** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). تُطوّر الوزارة التجارة الداخلية، وتضبط أسعار السلع الأساسية اليومية، وتحمي المستهلكين، مدعومةً بتشريعات فعلية وقنوات شكاوى نشطة ومحكمة مطالبات صغيرة مُصمّمة للمتسوقين العاديين.

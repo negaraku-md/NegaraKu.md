@@ -78,6 +78,14 @@ relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'A tall curved grey-and-glass government tower in Putrajaya rising above a black signage monument reading Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministry of Urban Wellbeing, Housing and Local Government) with the KPKT house logo'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
 ---
 
 உங்கள் குப்பை சேகரிக்கப்படாமல் இருக்கும்போது, தீ-பாதுகாப்புச் சான்றிதழ் புதுப்பிக்கப்பட வேண்டியிருக்கும்போது, மற்றும் உருவாக்குநர் உங்கள் குடியிருப்பை இரண்டு ஆண்டுகள் தாமதமாக ஒப்படைக்கும்போது — இந்த மூன்றின் பின்னணியிலும் ஒரே கூட்டாட்சி அமைச்சு உள்ளது. **வீட்டுவசதி மற்றும் உள்ளாட்சி அமைச்சு**, *Kementerian Perumahan dan Kerajaan Tempatan*, பரவலாக **KPKT** என்று அறியப்படுகிறது; இது மலிவு வீட்டுவசதி, உள்ளாட்சி, நகர திட்டமிடல், தீயணைப்பு மற்றும் மீட்பு, திண்மக் கழிவு, நிலத்தோற்ற வடிவமைப்பு, மற்றும் சமூகக் கடன் ஆகியவற்றுக்கான மலேசிய கூட்டாட்சி அமைச்சாகும். அதன் தலைமையகம் No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya இல் உள்ளது. அமைச்சர் **Nga Kor Ming**, துணை அமைச்சர் **Datuk Hajah Aiman Athirah binti Sabu**.

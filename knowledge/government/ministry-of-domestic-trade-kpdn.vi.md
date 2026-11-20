@@ -86,6 +86,14 @@ relations: []
 related: []
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'Wide frontal view of the long sandstone KPDN ministry building in Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' lettering above the central entrance and a taller office block bearing the diamond K logo at the right end'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
 ---
 
 Khi một thương nhân tính giá dầu ăn quá cao cho bạn, bán một mặt hàng được kiểm soát trên mức giá trần của nó, hoặc từ chối bảo hành một sản phẩm bị lỗi, cơ quan liên bang có nhiệm vụ hành động thay bạn là **KPDN** — **Bộ Thương mại Nội địa và Chi phí Sinh hoạt** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). Nó phát triển thương mại nội địa, kìm giữ giá các mặt hàng thiết yếu hằng ngày, và bảo vệ người tiêu dùng, được hậu thuẫn bởi các đạo luật thực sự, các kênh khiếu nại trực tuyến, và một tòa trọng tài khiếu nại nhỏ được xây dựng cho người mua hàng bình thường.

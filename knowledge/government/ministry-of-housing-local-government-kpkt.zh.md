@@ -78,6 +78,14 @@ relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'A tall curved grey-and-glass government tower in Putrajaya rising above a black signage monument reading Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministry of Urban Wellbeing, Housing and Local Government) with the KPKT house logo'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
 ---
 
 当你的垃圾无人收取、消防安全证书到期，以及发展商延迟两年才交付你的公寓时——背后都是同一个联邦部门。**房屋及地方政府部**，*Kementerian Perumahan dan Kerajaan Tempatan*，普遍简称 **KPKT**，是马来西亚负责可负担房屋、地方政府、城市规划、消防与拯救、固体废料、园林绿化以及社区信贷的联邦部门。其总部位于 No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya。部长为 **倪可敏（Nga Kor Ming）**，副部长为 **拿督哈嘉·艾曼·阿蒂拉·沙布（Datuk Hajah Aiman Athirah binti Sabu）**。

@@ -78,6 +78,14 @@ relations: []
 related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'JKM Social Welfare Department district office in Pontian, Johor, fronted by a large yellow signboard reading ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' with the JKM logo and a jkm.gov.my email, beside a Malaysian flag'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
 ---
 
 **Cục Phúc lợi Xã hội** — *Jabatan Kebajikan Masyarakat*, được biết đến ở khắp nơi qua tên viết tắt **JKM** — là cơ quan liên bang đỡ người Malaysia khi họ vấp ngã. Nó được thành lập vào năm **1946**, ban đầu để đáp ứng các vấn đề xã hội do Thế chiến thứ hai gây ra, và vai trò của nó về sau mở rộng sang **bảo vệ, phục hồi chức năng, phòng ngừa, phát triển và hòa nhập cộng đồng**. Kết quả tìm kiếm về JKM bị chi phối bởi các blog "cách xin trợ cấp" đóng dấu năm và các trang dịch vụ trống trơn; trang này thay vào đó giải thích JKM như một thiết chế và cách các dịch vụ của nó kết nối xuyên suốt cả vòng đời — từ trẻ em đến người khuyết tật đến người cao tuổi.

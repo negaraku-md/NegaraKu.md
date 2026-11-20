@@ -77,6 +77,14 @@ relations: []
 related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'A tall curved grey-and-glass government tower in Putrajaya rising above a black signage monument reading Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministry of Urban Wellbeing, Housing and Local Government) with the KPKT house logo'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
 ---
 
 あなたのごみが収集されないとき、消防安全証明書の更新期限が迫っているとき、そしてデベロッパーがあなたのフラットを2年遅れで引き渡すとき——そのすべての背後に同じ一つの連邦省が存在する。**住宅・地方政府省**、*Kementerian Perumahan dan Kerajaan Tempatan*、通称**KPKT**は、手頃な価格の住宅、地方自治、都市・農村計画、消防・救助、固形廃棄物、造園、そして地域信用を所管するマレーシアの連邦省である。本部はNo. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajayaにある。大臣は**Nga Kor Ming**、副大臣は**Datuk Hajah Aiman Athirah binti Sabu**である。

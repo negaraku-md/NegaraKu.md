@@ -76,6 +76,14 @@ relations: []
 related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "मलेशिया गृह मंत्रालय", "Ministry of Home Affairs Malaysia", "MOHA", "KDN एजेंसियाँ", "KDN विभाग", "agensi bawah KDN", "मलेशिया गृह मंत्री", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "फ़िल्म सेंसरशिप बोर्ड"]
 framework: profile
+hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
+heroAlt: 'Frontal view of the red-brick Ministry of Home Affairs (KDN) building in Putrajaya, its central tower flanked by arched windows above a grand arched entrance, palm trees lining the plaza under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
 ---
 
 जब कोई मलेशियाई पासपोर्ट नवीनीकृत कराता है, जब पुलिस गिरफ़्तारी करती है, जब किसी विदेशी कर्मचारी के परमिट की जाँच होती है, या जब किसी फ़िल्म को रिलीज़ के लिए रेटिंग दी जाती है — इन चारों के पीछे एक ही मंत्रालय खड़ा होता है। वह मंत्रालय **गृह मंत्रालय** है, जिसे मलय में **Kementerian Dalam Negeri (KDN)** और अंग्रेज़ी में **MOHA** के रूप में जाना जाता है।

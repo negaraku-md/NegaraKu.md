@@ -82,6 +82,14 @@ wikidata: "Q7354404"
 relations: []
 related: []
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
+hero: '/media/government/national-registration-department-jpn/hero.webp'
+heroAlt: 'The tiered pale-stone tower of the National Registration Department (JPN) headquarters in Putrajaya against a blue sky, with ''JPN'' logos near the top of the tower'
+heroCredit: 'Farishhamka / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_Jabatan_Pendaftaran_Negara_(JPN)_%E2%80%93_WP_Putrajaya,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Headquarters of the National Registration Department (Jabatan Pendaftaran Negara, JPN) in Putrajaya, with ''JPN'' logos on the tower'
 ---
 
 **国民登録局**に関するガイドの多くは、一つの窓口業務にしか答えない——紛失した身分証（IC）の再発行方法や、子どもが12歳になったときに何を持参すべきかといった内容である。しかしJPNは、単一の手続きよりもはるかに大きな存在である。マレーシア国民の法的な人生全体を記録する機関だからだ。**国民登録局**（*Jabatan Pendaftaran Negara*、**JPN**）は、**内務省**（*Kementerian Dalam Negeri*、KDN）傘下の部門である。同局は、出生、死亡、養子縁組、婚姻及び離婚という個人の人生における重要な出来事を登録し、国籍資格を判定し、資格を有する個人に身分証明書を発行する。

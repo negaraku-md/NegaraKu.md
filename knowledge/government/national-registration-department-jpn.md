@@ -82,6 +82,14 @@ wikidata: "Q7354404"
 relations: []
 related: []
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
+hero: '/media/government/national-registration-department-jpn/hero.webp'
+heroAlt: 'The tiered pale-stone tower of the National Registration Department (JPN) headquarters in Putrajaya against a blue sky, with ''JPN'' logos near the top of the tower'
+heroCredit: 'Farishhamka / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_Jabatan_Pendaftaran_Negara_(JPN)_%E2%80%93_WP_Putrajaya,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Headquarters of the National Registration Department (Jabatan Pendaftaran Negara, JPN) in Putrajaya, with ''JPN'' logos on the tower'
 ---
 
 Most guides to the **National Registration Department** answer one counter question — how to replace a lost IC, or what to bring when a child turns 12. But JPN is bigger than any single transaction: it is the agency that records a Malaysian's entire legal life. The **National Registration Department** (*Jabatan Pendaftaran Negara*, or **JPN**) is a department under the **Ministry of Home Affairs** (*Kementerian Dalam Negeri*, KDN). It registers the important events in every individual's life — births, deaths, adoptions, marriages and divorces — determines citizenship status, and issues identity documents to eligible individuals.

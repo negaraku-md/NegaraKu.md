@@ -76,6 +76,14 @@ keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "dr
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'Service counters of a JPJ Road Transport Department branch office, with the JPJ crest and ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' signage above the glass-walled counter hall'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
 ---
 
 대부분의 사람은 단 한 순간에 **육상교통청**을 마주합니다 — 도로세를 갱신하거나, 운전면허 시험을 보거나, 중고차를 이전할 때. 그러나 JPJ는 그 모든 거래의 뒤에 서 있는 기관입니다. **육상교통청**(*Jabatan Pengangkutan Jalan*, 즉 **JPJ**)은 말레이시아 **교통부(MOT)** 산하 기관입니다. 자동차와 운전자를 등록하고, 운전면허, 도로세, 번호판을 발급하며, 상용 차량을 허가하고, 차량과 운전자가 공공 도로를 사용하는 방식을 규율하는 법을 집행합니다.
