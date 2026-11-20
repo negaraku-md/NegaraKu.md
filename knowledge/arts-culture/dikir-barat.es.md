@@ -68,6 +68,14 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "artes escénicas", "patrimonio nacional"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'Two dikir barat performers in green-and-gold costume and tall curved headdresses sit on the ground doing synchronized arm gestures and smiling, rebana hand-drums on the floor in front of them and pink flowers behind'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
 ---
 
 Dos grupos se sientan con las piernas cruzadas, frente a frente en el escenario. No hay guion. Cuando el primer grupo termina una ronda de [pantun](/es/arts-culture/pantun) satírico sobre la subida de precios, el segundo grupo tiene apenas unos segundos para componer una réplica — y debe rimar, debe caer en el compás e, idealmente, debe ser más afilada que el verso original.

@@ -75,6 +75,14 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
 ---
 
 Melangkah masuk ke kawasan sekitar Kota Cornwallis di George Town, Pulau Pinang, di antara deretan rumah kedai tiba-tiba muncul sebuah tokong marga dengan bumbung melentik berukir halus dan rasuk berwarna — itulah Leong San Tong Khoo Kongsi. Berjalan lebih jauh ke arah laut, terdapat deretan rumah kayu bertiang yang menjulur ke atas air, setiap perkampungan dinamakan sempena satu nama keluarga: Jeti Chew, Jeti Lim, Jeti Tan. Bangunan-bangunan ini bukan tokong, bukan juga sekadar kediaman, tetapi tinggalan fizikal salah satu bentuk organisasi tertua dalam masyarakat pendatang Cina — persatuan marga dan kampung halaman.

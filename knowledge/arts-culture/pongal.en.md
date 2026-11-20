@@ -82,6 +82,14 @@ festivalFacts:
   when: "The first day of the Tamil month of Thai — generally mid-January in the Gregorian calendar (14 or 15)."
   holiday: "Not a gazetted public holiday at the federal level or in any state in Malaysia. (Only Deepavali is a federal public holiday — except in Sarawak; Thaipusam is a holiday only in some states.)"
   etiquette: "Primarily a harvest-based cultural festival, secular in nature (clarified by a Malaysian minister in 2020); community organisations and temples hold public celebrations, boiling pongal together in many pots alongside cultural performances."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 In the early dawn as the month of Thai begins, the courtyards and doorsteps of

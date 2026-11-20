@@ -78,6 +78,14 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "بانجساوان", "الأوبرا الملايوية", "مسرح بارسي", "Wayang Parsi", "Pushi Indera Bangsawan", "المسرح الانتقالي", "الفيلم الملايوي"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'Sepia 1890s photograph of a bangsawan Malay opera troupe in royal costume on a painted-backdrop stage, performers in crowns and ornate dress seated and standing on a throne platform while a crowd watches from below'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
 ---
 
 قبل أن تكون هناك صور متحركة، كانت هناك مسارح مضاءة وستائر مرسومة يدوياً وأوركسترا قادرة على الانتقال من الألحان المنسابة لبلاط ملايوي إلى إيقاع من الشرق الأوسط في عرض الليلة نفسها. ذلك كان البانجساوان — أوبرا المسرح التي كانت ذات يوم أكثر وسائل الترفيه الحضري حيويةً في شبه الجزيرة، والتي سلّمت لاحقاً ممثليها ومغنّيها إلى صناعة الفيلم الملايوي الوليدة.

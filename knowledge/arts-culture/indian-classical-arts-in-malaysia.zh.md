@@ -75,6 +75,14 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: 'Young Indian classical dancer in a blue and gold Bharatanatyam costume striking a pose on a plaza, with a red tiered Chinese temple rising behind her'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
 ---
 
 在马来西亚任何一座大城市里，无论是屠妖节的黄昏，还是庙会之日，都能看见一位婆罗多舞者伴着脚铃声、随着姆里丹加鼓的节奏登上舞台。那些舞步与手势绝非偶然——它们述说的是一项逾千年的南印度艺术传统，以及马来西亚淡米尔社群逾一个半世纪以来承载它的方式。

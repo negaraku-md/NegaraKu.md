@@ -82,6 +82,14 @@ festivalFacts:
   when: "तमिल महीने Thai के आरंभ का दिन — ग्रेगोरियन पंचांग में आम तौर पर जनवरी के मध्य (14 या 15)।"
   holiday: "मलेशिया में संघीय स्तर पर या किसी भी राज्य स्तर पर यह राजपत्रित सार्वजनिक अवकाश नहीं है। (केवल दीपावली संघीय सार्वजनिक अवकाश है — सरवाक को छोड़कर; Thaipusam कुछ ही राज्यों में अवकाश है।)"
   etiquette: "यह मुख्यतः फसल आधारित एक सांस्कृतिक त्योहार है, धर्मनिरपेक्ष है (2020 में एक मलेशियाई मंत्री ने स्पष्ट किया); सामाजिक संगठन और मंदिर कई बर्तनों में एक साथ पोंगल पकाकर, कला प्रदर्शनों के साथ सार्वजनिक उत्सव आयोजित करते हैं।"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 थाई माह के उदय की भोर में, मलेशिया भर के तमिल परिवारों के आँगन और द्वार पर भारी

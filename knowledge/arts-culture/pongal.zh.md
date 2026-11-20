@@ -82,6 +82,14 @@ festivalFacts:
   when: "泰米尔历「泰月」（Thai）开始的那一天——在公历中通常为 1 月中旬（14 日或 15 日）。"
   holiday: "在马来西亚无论联邦层级或任何州属，都不是宪报公布的公共假期。（只有屠妖节（Deepavali）是联邦公共假期——砂拉越除外；大宝森节（Thaipusam）仅在部分州属为假期。）"
   etiquette: "主要是以丰收为本的文化节庆，不涉宗教（2020 年马来西亚一名部长曾作澄清）；社会团体与庙宇会用多个锅一起煮 Pongal，并举办带有文艺表演的公开庆祝活动。"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 「泰」月初临的清晨，马来西亚泰米尔家庭的庭院与门前一片忙碌。在一幅新画好的

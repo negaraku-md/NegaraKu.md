@@ -77,6 +77,14 @@ festivalFacts:
   when: "Chithirai महीने का पहला दिन — आम तौर पर 14 अप्रैल के आसपास; उसी दिन मलयाली लोगों का Vishu और सिखों की Vaisakhi भी आते हैं।"
   holiday: "यह संघीय सार्वजनिक अवकाश नहीं है; कोई भी राज्य आम तौर पर इसे अवकाश घोषित नहीं करता (दीपावली, Thaipusam के विपरीत)।"
   etiquette: "\"नववर्ष की शुभकामनाएँ\" का आदान-प्रदान करने की प्रथा है; Chithirai के दिन कुआलालंपुर के Little India, मंदिरों और सामुदायिक आयोजनों में त्योहार का स्वरूप दिखाई देता है।"
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 चित्तिरै मास की पहली भोर। बहुत-से तमिल घरों में एक रात पहले ही एक थाली तैयार हो चुकी होती है — आम, केला, पान का पत्ता, थोड़ा-सा सोने का आभूषण, एक दर्पण। सुबह आँख खुलते ही, किसी और वस्तु को देखने से पहले, सबसे पहले इसी थाली को देखना होता है। यही है **कण्णि (kanni)** — इस विश्वास की अभिव्यक्ति कि नववर्ष के दिन सबसे पहले जो दृश्य देखा जाता है वह पूरे वर्ष का स्वर तय करता है।

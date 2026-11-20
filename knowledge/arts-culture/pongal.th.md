@@ -82,6 +82,14 @@ festivalFacts:
   when: "วันขึ้นต้นเดือน Thai ของทมิฬ — ตามปฏิทินเกรโกเรียนโดยทั่วไปอยู่กลางเดือนมกราคม (14 หรือ 15)"
   holiday: "ไม่ใช่วันหยุดราชการที่ประกาศในราชกิจจานุเบกษาทั้งในระดับสหพันธ์หรือระดับรัฐใด ๆ ในมาเลเซีย (มีเพียง Deepavali เท่านั้นที่เป็นวันหยุดราชการระดับสหพันธ์ — ยกเว้นซาราวัก ส่วน Thaipusam เป็นวันหยุดเฉพาะในบางรัฐเท่านั้น)"
   etiquette: "เป็นเทศกาลเชิงวัฒนธรรมที่เกี่ยวกับการเก็บเกี่ยวเป็นหลัก ไม่อิงศาสนา (รัฐมนตรีมาเลเซียชี้แจงไว้ในปี 2020) องค์กรชุมชนและวัดต่างหุง Pongal พร้อมกันในหม้อหลายใบ และจัดการเฉลิมฉลองสาธารณะพร้อมการแสดงศิลปวัฒนธรรม"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 ในยามรุ่งสางที่เดือนไทเริ่มต้นขึ้น ลานบ้านและหน้าประตูของครอบครัวชาวทมิฬทั่ว

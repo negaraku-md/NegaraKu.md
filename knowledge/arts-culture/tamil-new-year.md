@@ -76,6 +76,14 @@ festivalFacts:
   when: "சித்திரை மாதத்தின் முதல் நாள் — பொதுவாக ஏப்ரல் 14-ஐ ஒட்டி; அதே நாளில் மலையாளிகளின் விஷு, சீக்கியரின் வைசாகியும் வருகின்றன."
   holiday: "கூட்டரசுப் பொது விடுமுறை அல்ல; எந்த மாநிலமும் வழக்கமாக விடுமுறையாக அறிவிப்பதில்லை (தீபாவளி, தைப்பூசம் போலன்று)."
   etiquette: "\"புத்தாண்டு வாழ்த்துகள்\" எனப் பரிமாறிக் கொள்வது வழக்கம்; சித்திரை நாளில் கோலாலம்பூர் சிறிய இந்தியா, கோயில்கள், சமூக நிகழ்வுகளில் விழாத் தோற்றம் காணப்படுகிறது."
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 சித்திரை மாதத்தின் முதல் விடியல். பல தமிழ் வீடுகளில் நேற்றிரவே ஒரு தட்டு

@@ -71,6 +71,14 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple''s names in pink characters on either side'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
 ---
 
 पौ अभी पूरी तरह फटी भी नहीं कि गाड़ियों की एक कतार वधू के घर के सामने आ खड़ी होती है। वर हाथ में फूलों का गुच्छा थामे, पीछे कुछ 'भाई-बंधु' लिए खड़ा है, पर द्वार से झाँकती कुछ 'बहनें' उसे रोक लेती हैं: पहले प्रश्नों के उत्तर दो, फिर एक कड़ी गाओ, बहुत पतले कटे नींबू के कुछ टुकड़े खाओ, और अंत में द्वार की दरार से कुछ अंगपाव सरकाओ — इस 'द्वार-भेदन' (छ्वांग मन) की बाधा पार होने पर ही द्वार खुलता है, और वर लाल वस्त्रों में सजी वधू को देख पाता है। हँसी-ठिठोली और उल्लास से भरी ऐसी ही एक सुबह मलेशिया के अनेक चीनी विवाहों के उस दिन का आरंभ होती है।

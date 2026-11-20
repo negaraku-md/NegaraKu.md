@@ -85,6 +85,14 @@ festivalFacts:
   when: "크리스마스는 매년 12월 25일이며, 장식과 소매 시즌은 대략 11월 말부터 시작된다."
   holiday: "크리스마스인 12월 25일은 모든 주와 연방직할구에서 전국적인 공휴일이다(반도에서는 1951년 공휴일법(제369호)의 제1부칙(First Schedule of the Holidays Act 1951 (Act 369)); 사바와 사라왁에서는 주 조례). 사바는 추가로 사바 공휴일 조례(Sabah Holidays Ordinance, Cap. 56)에 따라 12월 24일 크리스마스 이브를 주 공휴일로 관보에 공고한다."
   etiquette: "배경을 가리지 않고 손님을 초대해 함께 식사하는 오픈 하우스 전통은 다른 축제와 마찬가지로 크리스마스에도 적용되며, 손님을 맞이하는 기독교 가정은 흔히 다른 신앙의 손님을 환영하고, 방문은 축제 달력 전반에 걸쳐 양방향으로 이루어진다."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 12월 24일 저녁, 코타키나발루(Kota Kinabalu)나 쿠칭(Kuching)의 한 교회가 늦은 예배로 가득 차는 동안, 수백 킬로미터 떨어진 반도에서는 같은 날짜가 평범한 근무일인 목요일입니다. 이튿날 아침인 12월 25일에는 온 나라가 일을 쉽니다. 그 갈림 — 하나의 날짜, 매우 다른 두 지위 — 이 크리스마스가 말레이시아에 자리하는 방식을 이해하는 가장 깔끔한 방법입니다. 한 공동체에게는 종교 축제이고, 모두에게는 공휴일이며, 신앙과 무관하게 많은 이가 참여하는 열린 문의 철입니다.

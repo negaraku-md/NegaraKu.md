@@ -67,6 +67,14 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "दिकिर बारात", "tukang karut", "tok juara", "awok-awok", "Kelantan", "कलंतान", "pantun berbalas", "प्रदर्शन कला", "राष्ट्रीय विरासत"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'Two dikir barat performers in green-and-gold costume and tall curved headdresses sit on the ground doing synchronized arm gestures and smiling, rebana hand-drums on the floor in front of them and pink flowers behind'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
 ---
 
 दो दल पालथी मारकर बैठते हैं, मंच पर एक-दूसरे के आमने-सामने। कोई पटकथा नहीं होती। जब पहला दल बढ़ती कीमतों पर व्यंग्यात्मक [पंतुन](/hi/arts-culture/pantun) (pantun) का एक दौर समाप्त करता है, तो दूसरे दल के पास प्रत्युत्तर रचने के लिए केवल कुछ ही सेकंड होते हैं — और उसे तुकबंदी वाला होना चाहिए, ताल पर आना चाहिए, और आदर्श रूप से मूल पद से अधिक तीक्ष्ण होना चाहिए।

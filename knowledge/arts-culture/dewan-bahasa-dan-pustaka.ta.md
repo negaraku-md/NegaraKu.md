@@ -77,6 +77,14 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur at golden hour, its name and emblem on the crown of the building above a tree-lined field'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
 ---
 
 ஒரு மலாய் சொல்லின் எழுத்துக்கூட்டலைச் சரிபார்க்கும் ஒவ்வொரு முறையும், புதிய அறிவியல் சொல்லைச் சந்திக்கும்போது, அல்லது ஒரு தேசிய இலக்கியவாதியின் (Sasterawan Negara) பட்டத்தைப் படிக்கும்போது, திரைக்குப் பின்னால் ஒரு நிறுவனம் உள்ளது: Dewan Bahasa dan Pustaka.

@@ -67,6 +67,14 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'Two dikir barat performers in green-and-gold costume and tall curved headdresses sit on the ground doing synchronized arm gestures and smiling, rebana hand-drums on the floor in front of them and pink flowers behind'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
 ---
 
 두 무리가 무대 위에서 책상다리로 마주 앉습니다. 대본은 없습니다. 첫 번째 무리가 물가 상승을 풍자하는 [판툰](/ko/arts-culture/pantun)을 주고받기를 마치면, 두 번째 무리에게는 응수를 지어낼 몇 초의 시간밖에 없습니다 — 그것은 운(韻)이 맞아야 하고, 박자가 맞아야 하며, 가능하다면 원래 판툰보다 더 날카로워야 합니다.

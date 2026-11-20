@@ -77,6 +77,14 @@ festivalFacts:
   when: "Chithirai 月的第一天——通常在 4 月 14 日前后；同一天也迎来马拉雅利人（Malayali）的 Vishu，以及锡克人的 Vaisakhi。"
   holiday: "并非联邦公共假期；任何州属通常也不会将其宣布为假期（不像屠妖节（Deepavali）与大宝森节（Thaipusam））。"
   etiquette: "人们习惯互道「新年祝福」（Puthaandu Vaazhthukkal）；在 Chithirai 当天，吉隆坡（Kuala Lumpur）的小印度、庙宇及社区活动中可见节庆景象。"
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 齐特莱月的第一个破晓。在许多泰米尔人家中，前一夜就已备好一个托盘——芒果、香蕉、槟榔叶、一点金饰、一面镜子。清晨睁眼时，在看任何其他东西之前，要先看到这个托盘。这就是**卡尼（kanni）**——相信新年当天第一眼看到的景象会为一整年定下基调的一种体现。

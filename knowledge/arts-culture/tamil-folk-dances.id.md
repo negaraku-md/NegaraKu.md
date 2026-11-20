@@ -70,6 +70,14 @@ relations:
 related: ["indian-classical-arts-in-malaysia", "temple-music-nadaswaram", "tamil-in-malaysia", "hinduism-in-malaysia", "thaipusam", "mariamman-worship", "estate-tamil-community", "silambam", "tamil-new-year"]
 keywords: ["தமிழர் நாட்டுப்புற நடனங்கள்", "கரகாட்டம்", "ஒயிலாட்டம்", "மயிலாட்டம்", "பொய்க்கால் குதிரை ஆட்டம்", "காவடியாட்டம்", "மலேசியத் தமிழ் நடனம்", "Tamil folk dances Malaysia", "Karagattam", "Oyilattam"]
 framework: history-culture
+hero: '/media/arts-culture/tamil-folk-dances/hero.webp'
+heroAlt: 'Rows of women in matching orange saris dancing in formation outdoors, each balancing a tall red decorated pot on her head'
+heroCredit: 'தகவலுழவன் (Thakavaluzhavan) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Nadu357.jpeg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
 ---
 
 Pada hari perayaan kuil, ketika dentuman thavil dan bunyi nadaswaram memenuhi jalan,

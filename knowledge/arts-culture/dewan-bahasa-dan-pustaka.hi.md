@@ -77,6 +77,14 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["भाषा एवं साहित्य परिषद", "DBP", "मलय भाषा", "कामुस देवान", "राष्ट्रीय साहित्यकार", "वैधानिक निकाय", "dewan bahasa dan pustaka", "bahasa melayu", "sasterawan negara"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur at golden hour, its name and emblem on the crown of the building above a tree-lined field'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
 ---
 
 हर बार जब आप किसी मलय शब्द की वर्तनी जाँचते हैं, किसी नए वैज्ञानिक शब्द से सामना होता है, या किसी राष्ट्रीय साहित्यकार की उपाधि पढ़ते हैं, तो परदे के पीछे एक संस्था होती है: Dewan Bahasa dan Pustaka।

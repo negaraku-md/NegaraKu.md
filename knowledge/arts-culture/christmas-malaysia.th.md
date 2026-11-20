@@ -86,6 +86,14 @@ festivalFacts:
   when: "วันคริสต์มาสตรงกับวันที่ 25 ธันวาคมของทุกปี โดยมีช่วงการประดับตกแต่งและการค้าปลีกตั้งแต่ประมาณปลายเดือนพฤศจิกายน"
   holiday: "วันคริสต์มาส วันที่ 25 ธันวาคม เป็นวันหยุดราชการทั่วประเทศในทุกรัฐและดินแดนสหพันธ์ (First Schedule of the Holidays Act 1951 (Act 369) ในคาบสมุทร; กฎหมายของรัฐในซาบาห์และซาราวัก) นอกจากนี้ซาบาห์ยังประกาศให้วันคริสต์มาสอีฟ วันที่ 24 ธันวาคม เป็นวันหยุดราชการของรัฐภายใต้ Sabah Holidays Ordinance (Cap. 56)"
   etiquette: "ประเพณีเปิดบ้านต้อนรับ (open house) ที่ต้อนรับแขกจากทุกภูมิหลังมาร่วมรับประทานอาหารด้วยกันนั้นใช้กับคริสต์มาสเช่นเดียวกับเทศกาลอื่น ๆ ครอบครัวชาวคริสต์ที่เป็นเจ้าภาพมักต้อนรับแขกต่างศาสนา และการไปมาหาสู่กันก็เป็นไปทั้งสองทางตลอดปฏิทินเทศกาล"
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 ในเย็นวันที่ 24 ธันวาคม โบสถ์แห่งหนึ่งในโกตากินาบาลู (Kota Kinabalu) หรือกูจิง (Kuching) เต็มไปด้วยผู้คนสำหรับพิธีค่ำ ขณะที่ห่างออกไปไม่กี่ร้อยกิโลเมตรบนคาบสมุทร วันเดียวกันนั้นเป็นวันพฤหัสบดีทำงานปกติ เช้าวันรุ่งขึ้น 25 ธันวาคม ทั้งประเทศหยุดงาน การแยกกันนั้น — วันเดียวกัน สองสถานะที่ต่างกันมาก — เป็นวิธีที่ชัดเจนที่สุดในการเข้าใจว่าคริสต์มาสมีที่ทางอย่างไรในมาเลเซีย กล่าวคือ เทศกาลทางศาสนาสำหรับชุมชนหนึ่ง วันหยุดราชการสำหรับทุกคน และฤดูกาลของการเปิดประตูต้อนรับที่หลายคนเข้าร่วมโดยไม่คำนึงถึงศาสนา

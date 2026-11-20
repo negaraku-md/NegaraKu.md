@@ -86,6 +86,14 @@ festivalFacts:
   when: "يقع يوم عيد الميلاد في 25 ديسمبر من كل عام، مع موسم للزينة والتسوّق يبدأ من أواخر نوفمبر تقريبًا."
   holiday: "يوم عيد الميلاد، 25 ديسمبر، عطلة رسمية على مستوى البلاد في جميع الولايات والأقاليم الاتحادية (الجدول الأول من Holidays Act 1951 (Act 369) في شبه الجزيرة؛ ومراسيم الولايات في Sabah وSarawak). كما تُدرِج Sabah ليلة عيد الميلاد، 24 ديسمبر، عطلةً رسمية للولاية بموجب Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "يُطبَّق تقليد البيت المفتوح (open house) في استضافة الضيوف من أي خلفية لتناول وجبة مشتركة على عيد الميلاد كما على سائر الأعياد؛ والعائلات المسيحية المضيفة ترحّب عادةً بضيوف من أديان أخرى، وتجري الزيارات في الاتجاهين عبر رزنامة الأعياد."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 في مساء 24 ديسمبر، تمتلئ كنيسة في كوتا كينابالو أو كوتشينغ بروّاد قدّاسٍ متأخّر، بينما يكون التاريخ نفسه على بُعد بضع مئات من الكيلومترات في شبه الجزيرة يومَ خميسٍ عاديّ للعمل. وفي صباح اليوم التالي، 25 ديسمبر، تتوقّف البلاد كلها عن العمل. وهذا الانقسام — تاريخ واحد، وحالتان مختلفتان تماماً — هو أوضح طريقة لفهم موقع عيد الميلاد في ماليزيا: عيد ديني لجالية واحدة، وعطلة رسمية للجميع، وموسم أبوابٍ مفتوحة يشارك فيه كثيرون بصرف النظر عن المعتقد.

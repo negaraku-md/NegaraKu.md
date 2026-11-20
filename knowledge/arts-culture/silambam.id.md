@@ -68,6 +68,14 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'Children and an instructor in orange Silambam Asia T-shirts practising stick-fighting stances with long bamboo staves at an outdoor demonstration'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
 ---
 
 Di sebuah perayaan kuil atau acara [Tahun Baru Tamil](/id/arts-culture/tamil-new-year) di Malaysia, Anda mungkin melihat seorang pemuda memutar tongkat bambu panjang di atas kepala dan mengelilingi tubuhnya secepat kilat, mengikuti irama gendang. Putaran itu bukan sekadar untuk tontonan — ia adalah lambang silambam, seni bela diri Tamil yang berusia lebih dari seribu lima ratus tahun.

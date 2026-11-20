@@ -75,6 +75,14 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: 'Young Indian classical dancer in a blue and gold Bharatanatyam costume striking a pose on a plaza, with a red tiered Chinese temple rising behind her'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
 ---
 
 Vào một buổi tối Deepavali hay một ngày lễ hội đền tại bất kỳ thành phố lớn nào của Malaysia, bạn có thể thấy một nghệ sĩ Bharatanatyam bước lên sân khấu, tiếng lục lạc chân reo vang, chuyển động theo nhịp mridangam. Những bước chân và cử chỉ tay ấy không hề ngẫu nhiên — chúng kể lại một truyền thống nghệ thuật Nam Ấn hơn một ngàn năm tuổi, và cách cộng đồng Tamil Malaysia đã gánh vác nó suốt hơn một thế kỷ rưỡi.

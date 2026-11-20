@@ -63,6 +63,14 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["الأوبرا الصينية", "أوبرا شكر الآلهة", "الأوبرا الكانتونية في ماليزيا", "أوبرا التيوتشو", "أوبرا الهوكين", "مسرح العرائس الصيني", "عيد الأشباح الجائعة بينانغ", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
 ---
 
 تُقرَع الصنوج والطبول، وترفرف الأكمام المائية (水袖) على المنصّة — بينما لا تحمل مقاعد الجمهور في الأسفل غالباً سوى حفنة من الناس، وأحياناً لا أحد البتّة. وهذا ليس عرضاً فاشلاً، لأن العرض لم يكن أصلاً موجّهاً إلى أعين البشر.

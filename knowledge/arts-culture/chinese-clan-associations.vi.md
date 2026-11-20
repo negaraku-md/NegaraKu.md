@@ -75,6 +75,14 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
 ---
 
 Bước vào khu vực quanh Pháo đài Cornwallis ở George Town, Penang, giữa những dãy nhà phố bỗng hiện ra một từ đường tông tộc với mái cong chạm trổ tinh xảo và xà nhà sơn vẽ — đó là Long Sơn Đường Khâu Công Ty (Khoo Kongsi). Đi tiếp ra phía biển, có những dãy nhà sàn gỗ vươn ra mặt nước, mỗi xóm làng mang tên một dòng họ: Cầu họ Chu (Chew), Cầu họ Lâm (Lim), Cầu họ Trần (Tan). Những công trình này không phải đền miếu, cũng không chỉ là nhà ở, mà là di tích vật chất của một trong những hình thức tổ chức lâu đời nhất của xã hội di dân người Hoa — hội quán và hội tông thân.

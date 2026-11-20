@@ -85,6 +85,14 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["الخط الجاوي", "الأبجدية العربية الملايوية", "حجر تيرينغانو المنقوش", "تاريخ الخط الجاوي", "فن الخط", "الإملاء الجاوي", "المادة 9 من قانون اللغة الوطنية", "Jawi", "Batu Bersurat Terengganu", "National Language Act"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Dark navy signboard with the Terengganu royal crest and the words ''Istana Maziah'' spelled in gold Jawi (Arabic-derived Malay) script'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
 ---
 
 على نقش حجري عُثر عليه في تيرينغانو (Terengganu)، نُحتت كلمات ملايوية — لا بالحروف التي نستخدمها اليوم، بل بخط عربي مكيَّف لأصوات الملايوية. ويحمل هذا النقش، حجر تيرينغانو المنقوش (Batu Bersurat Terengganu)، تاريخ 702 هجرية، الذي يُوافَق عادةً على عام 1303 ميلادية.

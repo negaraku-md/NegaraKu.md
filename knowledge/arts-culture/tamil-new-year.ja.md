@@ -77,6 +77,14 @@ festivalFacts:
   when: "Chithirai 月の第一日——通常は4月14日前後。同じ日に、マラヤーリの Vishu や、シク教徒の Vaisakhi も訪れる。"
   holiday: "連邦の祝日ではなく、いずれの州も通常これを祝日として宣言することはない（ディーパバリ（Deepavali）やタイプーサム（Thaipusam）とは異なる）。"
   etiquette: "「Puthandu Vazhthukkal（新年おめでとう）」と挨拶を交わすのが慣習である。Chithirai の日には、クアラルンプールのリトル・インディア、寺院、地域行事で祝祭の光景が見られる。"
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 チッティライ月の最初の夜明け。多くのタミル系の家庭では、前夜のうちに盆が一つ用意されている——マンゴー、バナナ、キンマの葉、少しの金の装身具、そして一枚の鏡。朝、目を覚ましたら、ほかの何を見るよりも前に、まずこの盆を見なければならない。これが**カンニ（kanni）**である——新年の日に最初に見る光景がその一年の調子を定める、という信仰の表れである。

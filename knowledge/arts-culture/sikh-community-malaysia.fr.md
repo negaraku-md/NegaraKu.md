@@ -83,6 +83,14 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["communauté sikhe Malaisie", "Sikh Malaysia", "Pendjabis Malaisie", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "langue pendjabie"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
 ---
 
 Dans les rangs de la police et dans les forts britanniques de la Malaya du XIXe siècle, bon nombre de ces officiers au turban et à la barbe fournie n'étaient pas des locaux : c'étaient des sikhs venus de milliers de kilomètres, du Pendjab, dans le nord-ouest de l'Inde. De ce devoir de maintenir la sécurité est née l'une des communautés minoritaires les plus petites et pourtant les plus immédiatement reconnaissables de Malaisie.

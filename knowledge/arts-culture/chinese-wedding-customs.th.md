@@ -71,6 +71,14 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple''s names in pink characters on either side'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
 ---
 
 ก่อนฟ้าสางเต็มที่ ขบวนรถแถวหนึ่งจอดอยู่หน้าบ้านเจ้าสาวแล้ว เจ้าบ่าวประคองช่อดอกไม้ มีเพื่อน "พี่น้องชาย" หลายคนตามหลัง แต่กลับถูก "พี่น้องหญิง" หลายคนที่ชะโงกออกมาจากประตูขวางไว้: ก่อนอื่นต้องตอบคำถาม แล้วร้องเพลงสักท่อน กินมะนาวที่หั่นบางเฉียบสองสามชิ้น และสุดท้ายสอดอั่งเปาสองสามซองผ่านช่องประตู — เมื่อผ่านด่าน "ฝ่าประตู" (ฉวงเหมิน) นี้ได้ ประตูจึงเปิด เจ้าบ่าวจึงได้พบเจ้าสาวในชุดแดงฉาน เช้าที่เต็มไปด้วยการหยอกล้อและความครึกครื้นเช่นนี้คือการเปิดฉากของวันแต่งงานจีนหลายงานในมาเลเซีย

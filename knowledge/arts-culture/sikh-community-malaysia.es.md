@@ -83,6 +83,14 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["comunidad sij Malasia", "Sikh Malaysia", "punjabíes Malasia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "lengua punjabí"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
 ---
 
 En las filas de la policía y en los fuertes británicos de la Malaya del siglo XIX, muchos de aquellos oficiales de turbante y barba poblada no eran locales: eran sijes traídos desde miles de kilómetros de distancia, desde el Punjab, en el noroeste de la India. De aquel deber de mantener la seguridad surgió una de las comunidades minoritarias más pequeñas y, a la vez, más reconocibles al instante de Malasia.

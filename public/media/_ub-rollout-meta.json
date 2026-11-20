@@ -2554,5 +2554,560 @@
         "kb": 169
       }
     ]
+  },
+  "arts-culture/bangsawan": {
+    "hero": {
+      "file": "/media/arts-culture/bangsawan/hero.webp",
+      "credit": "G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895",
+      "alt": "Sepia 1890s photograph of a bangsawan Malay opera troupe in royal costume on a painted-backdrop stage, performers in crowns and ornate dress seated and standing on a throne platform while a crowd watches from below",
+      "kb": 115
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/bangsawan/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Panggung Bangsawan, the theatre dedicated to bangsawan in Melaka City",
+        "alt": "Exterior of the Panggung Bangsawan theatre in Melaka, a cream-and-brown modern facade with red 'Panggung Bangsawan Melaka' signage under a clear blue sky",
+        "kb": 121
+      },
+      {
+        "file": "/media/arts-culture/bangsawan/body-2.webp",
+        "credit": "angys / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Street view of Panggung Bangsawan, Melaka's dedicated bangsawan theatre",
+        "alt": "Street-corner view of the Panggung Bangsawan theatre in Melaka with its tall vertical red 'Panggung' sign, palm trees and city buildings behind under an overcast sky",
+        "kb": 155
+      }
+    ]
+  },
+  "arts-culture/chinese-clan-associations": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-clan-associations/hero.webp",
+      "credit": "Supanut Arunoprayote / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang",
+      "alt": "The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky",
+      "kb": 217
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-clan-associations/body-1.webp",
+        "credit": "HundenvonPenang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Khoo Kongsi clan house illuminated and decorated with red lanterns for Chinese New Year 2024, George Town, Penang",
+        "alt": "The Khoo Kongsi clan house lit up at dusk for Chinese New Year, hung with red lanterns and glowing light frames while a crowd gathers in the forecourt",
+        "kb": 192
+      },
+      {
+        "file": "/media/arts-culture/chinese-clan-associations/body-2.webp",
+        "credit": "Supanut Arunoprayote / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The painted and gilded timber ceiling of the Khoo Kongsi clan house, George Town, Penang",
+        "alt": "Upward view of the Khoo Kongsi clan house ceiling, showing terracotta tiled rafters, painted beams and richly gilded carved brackets",
+        "kb": 204
+      }
+    ]
+  },
+  "arts-culture/chinese-opera": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-opera/hero.webp",
+      "credit": "hams Nocete / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak",
+      "alt": "Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre",
+      "kb": 181
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-opera/body-1.webp",
+        "credit": "HundenvonPenang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Teochew street opera during Chinese New Year, George Town, Penang, 2024",
+        "alt": "Two Teochew opera performers on a festival stage at night, a male scholar in blue robes and a female character in bright pink, before a 'Penang Dialect Theater' backdrop covered in Chinese characters",
+        "kb": 176
+      },
+      {
+        "file": "/media/arts-culture/chinese-opera/body-2.webp",
+        "credit": "denise chan / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Chinese street-opera performer in costume studying a script backstage, Malaysia",
+        "alt": "A Chinese street-opera performer in white robes and a beaded black cap, wearing stage makeup and glasses, leaning toward a small lamp to read a script backstage in warm low light",
+        "kb": 77
+      }
+    ]
+  },
+  "arts-culture/chinese-wedding-customs": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-wedding-customs/hero.webp",
+      "credit": "Marufish / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia",
+      "alt": "A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple's names in pink characters on either side",
+      "kb": 149
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-wedding-customs/body-1.webp",
+        "credit": "Pauloleong2002 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a red-and-gold double-happiness teapot and cups used in the Chinese wedding tea ceremony",
+        "alt": "A glossy red Chinese wedding tea set on a red tray, a teapot decorated with a gold double-happiness character and five small matching red tea cups arranged around it, used by the couple to serve tea to their elders",
+        "kb": 123
+      },
+      {
+        "file": "/media/arts-culture/chinese-wedding-customs/body-2.webp",
+        "credit": "Bjoertvedt / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a bakul siah, the tiered lacquered basket used to carry betrothal gifts between families in a Straits-Chinese wedding",
+        "alt": "A tall tiered black lacquered bakul siah wedding gift basket intricately decorated with gold figures, flowers, birds and fish on each level, used to carry symbolic betrothal gifts between the two families, displayed in a glass museum case",
+        "kb": 174
+      }
+    ]
+  },
+  "arts-culture/christmas-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/christmas-malaysia/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall",
+      "alt": "A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet",
+      "kb": 177
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/christmas-malaysia/body-1.webp",
+        "credit": "Shirley SL / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Candyland-themed Christmas display with gingerbread houses and lit trees at a Kuala Lumpur mall",
+        "alt": "An elaborate candyland Christmas display at a Kuala Lumpur shopping mall, with a red and white peppermint-swirl stage, gingerbread houses and rows of fairy-lit Christmas trees above the crowds",
+        "kb": 167
+      },
+      {
+        "file": "/media/arts-culture/christmas-malaysia/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "St Mary's Anglican Cathedral, a historic white church in central Kuala Lumpur",
+        "alt": "The white-walled, red-tiled St Mary's Anglican Cathedral in central Kuala Lumpur, with a cross on its gable and a Malaysian flag in front, modern office towers rising behind",
+        "kb": 164
+      }
+    ]
+  },
+  "arts-culture/dewan-bahasa-dan-pustaka": {
+    "hero": {
+      "file": "/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur",
+      "alt": "The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur at golden hour, its name and emblem on the crown of the building above a tree-lined field",
+      "kb": 45
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp",
+        "credit": "Victor Pogadaev / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The large mosaic mural on the DBP podium block with the 'Bahasa Bangsa Negara' banner and the tower behind, Kuala Lumpur",
+        "alt": "A large colourful cubist-style mosaic mural depicting Malaysian life on the facade of the Dewan Bahasa dan Pustaka building, with the office tower rising behind",
+        "kb": 132
+      },
+      {
+        "file": "/media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The main entrance of DBP with its Malay-motif carved panels and grand staircase, Kuala Lumpur",
+        "alt": "The grand pitched-roof entrance portico of the Dewan Bahasa dan Pustaka building, faced with intricate carved Malay-motif panels above a wide staircase",
+        "kb": 145
+      }
+    ]
+  },
+  "arts-culture/dikir-barat": {
+    "hero": {
+      "file": "/media/arts-culture/dikir-barat/hero.webp",
+      "credit": "Stsanto / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)",
+      "alt": "Two dikir barat performers in green-and-gold costume and tall curved headdresses sit on the ground doing synchronized arm gestures and smiling, rebana hand-drums on the floor in front of them and pink flowers behind",
+      "kb": 173
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/dikir-barat/body-1.webp",
+        "credit": "Stsanto / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Row of seated dikir barat performers (awok-awok) clapping in unison (shared Malay tradition, Chingay, Singapore)",
+        "alt": "A line of seated dikir barat performers in green-and-gold costumes and tall headdresses clap in unison and smile during a night performance, with rebana hand-drums on the ground before them",
+        "kb": 168
+      },
+      {
+        "file": "/media/arts-culture/dikir-barat/body-2.webp",
+        "credit": "SMK Seri Mahkota / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "School dikir barat group with a lead singer, clapping awok-awok chorus and percussion, Malaysia",
+        "alt": "A female lead singer sings into a microphone while a seated row of student performers in black with red headbands clap in unison, with a rebana drum and a gong, in a Malaysian school hall",
+        "kb": 123
+      }
+    ]
+  },
+  "arts-culture/indian-classical-arts-in-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp",
+      "credit": "Shubhendu Kumar / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore",
+      "alt": "Young Indian classical dancer in a blue and gold Bharatanatyam costume striking a pose on a plaza, with a red tiered Chinese temple rising behind her",
+      "kb": 149
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp",
+        "credit": "Augustus Binu / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Odissi classical dancer mid-pose in blue costume and silver jewellery",
+        "alt": "Female Odissi dancer in a bright blue costume and silver temple jewellery holding a graceful stylised pose against a black stage backdrop",
+        "kb": 79
+      },
+      {
+        "file": "/media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp",
+        "credit": "Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Carnatic violinist performing in a silk sari at a classical music concert",
+        "alt": "Woman in a yellow and purple silk sari playing a violin held in the seated Carnatic style, leaning into a microphone on stage",
+        "kb": 102
+      }
+    ]
+  },
+  "arts-culture/jawi-script": {
+    "hero": {
+      "file": "/media/arts-culture/jawi-script/hero.webp",
+      "credit": "Dominic Nelson / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia",
+      "alt": "Dark navy signboard with the Terengganu royal crest and the words 'Istana Maziah' spelled in gold Jawi (Arabic-derived Malay) script",
+      "kb": 149
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/jawi-script/body-1.webp",
+        "credit": "Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Illuminated opening pages of the Malay literary work Taj al-Salatin, hand-written in Jawi",
+        "alt": "Two facing manuscript pages of Jawi text framed by ornate gold, blue and red floral illumination",
+        "kb": 279
+      },
+      {
+        "file": "/media/arts-culture/jawi-script/body-2.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Open manuscript of the Hukum Kanun Melaka (Malacca legal digest) written in Jawi, on museum display",
+        "alt": "An aged open manuscript book in a display case, its facing pages covered in flowing hand-written Jawi script",
+        "kb": 162
+      }
+    ]
+  },
+  "arts-culture/kristang-eurasian-culture": {
+    "hero": {
+      "file": "/media/arts-culture/kristang-eurasian-culture/hero.webp",
+      "credit": "Song GK / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka",
+      "alt": "A line of Kristang performers in traditional Portuguese-Eurasian costume, the women in red headscarves, white blouses and embroidered skirts and the men in black hats and waistcoats, singing and dancing on a stage under a Festa San Pedro 2026 banner in the Portuguese Settlement in Melaka",
+      "kb": 167
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/kristang-eurasian-culture/body-1.webp",
+        "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Medan Portugis (Portuguese Square) entrance at the Portuguese Settlement in Melaka",
+        "alt": "The white colonial-style entrance archway of Medan Portugis or Portuguese Square at the Portuguese Settlement in Melaka, flanked by pink and signboarded Kristang restaurants, under a clear blue sky with a modern high-rise in the background",
+        "kb": 180
+      },
+      {
+        "file": "/media/arts-culture/kristang-eurasian-culture/body-2.webp",
+        "credit": "Song GK / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a decorated fishing boat built for the Feast of Saint Peter (San Pedro) in the Portuguese Settlement, Melaka",
+        "alt": "A model fishing boat decorated for the Feast of Saint Peter in the Portuguese Settlement in Melaka, its tall white sails painted with religious scenes and an image of Saint Peter, draped with fishing nets beside the waterfront, with palm trees and onlookers behind",
+        "kb": 153
+      }
+    ]
+  },
+  "arts-culture/pongal": {
+    "hero": {
+      "file": "/media/arts-culture/pongal/hero.webp",
+      "credit": "Nithi Anand / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple",
+      "alt": "A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal",
+      "kb": 123
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/pongal/body-1.webp",
+        "credit": "Timothy A. Gonsalves / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Colourful Pongal kolam with sugarcane, flowers and an overflowing-pot motif on a street",
+        "alt": "A large colourful Pongal kolam drawn in coloured powder on the ground, showing sugarcane stalks, bright flowers and an overflowing festival pot, outside a house gate",
+        "kb": 217
+      },
+      {
+        "file": "/media/arts-culture/pongal/body-2.webp",
+        "credit": "Wikimedia Commons (CC0)",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Two hand-painted clay Pongal pots decorated for the harvest festival",
+        "alt": "Two round clay pots with red rims, hand-painted in white with colourful zigzag and dot patterns, prepared for cooking Pongal during the harvest festival",
+        "kb": 147
+      }
+    ]
+  },
+  "arts-culture/sikh-community-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/sikh-community-malaysia/hero.webp",
+      "credit": "Zahirulnukman / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia",
+      "alt": "A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky",
+      "kb": 126
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/sikh-community-malaysia/body-1.webp",
+        "credit": "Vano111ru / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, a Sikh temple in Shah Alam, Selangor, Malaysia",
+        "alt": "The bright yellow and white gabled facade of Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, the Sikh Khanda emblem above the entrance, saffron Nishan Sahib flags on the roof and a gold onion dome to the right, seen across a chequered tiled forecourt",
+        "kb": 170
+      },
+      {
+        "file": "/media/arts-culture/sikh-community-malaysia/body-2.webp",
+        "credit": "Yeo Jiun Tzen / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Gurdwara Sahib Kuching, the Sarawak Sikh Temple Association gurdwara in Kuching, Sarawak, Malaysia",
+        "alt": "The tall white multi-towered facade of Gurdwara Sahib Kuching with gold-topped domes and corner minarets, Sikh Khanda emblems flanking a yellow signboard reading Gurdwara Sahib Kuching, Malaysian and Sarawak flags flying from a central pole, under a blue sky",
+        "kb": 160
+      }
+    ]
+  },
+  "arts-culture/silambam": {
+    "hero": {
+      "file": "/media/arts-culture/silambam/hero.webp",
+      "credit": "Tara-sumitra / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Silambam Asia students and their guru practising with bamboo staves, Malaysia",
+      "alt": "Children and an instructor in orange Silambam Asia T-shirts practising stick-fighting stances with long bamboo staves at an outdoor demonstration",
+      "kb": 58
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/silambam/body-1.webp",
+        "credit": "Naga nachiyar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Silambam sword-and-shield (vaal and kedaiyam) form, a weapon variation of the Tamil martial art",
+        "alt": "Woman in a red sari lunging in a low fighting stance, holding a curved sword in one hand and a round metal shield in the other",
+        "kb": 127
+      },
+      {
+        "file": "/media/arts-culture/silambam/body-2.webp",
+        "credit": "Arunachalam Mani / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Display board of Silambam weapons, including staves, swords, shields and daggers",
+        "alt": "Wall-mounted display board arranged with the weapons of Silambam, including long staves, curved swords, round shields and daggers",
+        "kb": 90
+      }
+    ]
+  },
+  "arts-culture/tamil-folk-dances": {
+    "hero": {
+      "file": "/media/arts-culture/tamil-folk-dances/hero.webp",
+      "credit": "தகவலுழவன் (Thakavaluzhavan) / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Nadu357.jpeg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu",
+      "alt": "Rows of women in matching orange saris dancing in formation outdoors, each balancing a tall red decorated pot on her head",
+      "kb": 141
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/tamil-folk-dances/body-1.webp",
+        "credit": "Nocturnal08 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Mayilattam (peacock dance) performer in a feathered peacock costume",
+        "alt": "Dancer wearing an ornate peacock costume with a fanned tail of real peacock feathers and a beaked headdress, lit against a dark background",
+        "kb": 150
+      },
+      {
+        "file": "/media/arts-culture/tamil-folk-dances/body-2.webp",
+        "credit": "Suyothami Yoganathan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Poikkal Kudirai Attam, the Tamil dummy-horse folk dance",
+        "alt": "Male folk dancer in yellow costume and headdress wearing a brightly painted dummy-horse frame around his waist, in a green outdoor setting",
+        "kb": 107
+      }
+    ]
+  },
+  "arts-culture/tamil-new-year": {
+    "hero": {
+      "file": "/media/arts-culture/tamil-new-year/hero.webp",
+      "credit": "Nimaaland / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur",
+      "alt": "A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind",
+      "kb": 160
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/tamil-new-year/body-1.webp",
+        "credit": "Amila Tennakoon / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Traditional Tamil New Year kalasam of a silver pot topped with a coconut, mango leaves and flowers beside brass oil lamps",
+        "alt": "A silver pot crowned with a coconut, mango leaves and yellow flowers, flanked by lit brass oil lamps, arranged as an auspicious Tamil New Year altar",
+        "kb": 139
+      },
+      {
+        "file": "/media/arts-culture/tamil-new-year/body-2.webp",
+        "credit": "BOMBMAN / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Towering carved gopurams of the Meenakshi Amman Temple in Madurai, home of the Chithirai festival",
+        "alt": "The tall, intricately carved and brightly painted gopuram towers of the Meenakshi Amman Temple in Madurai rising above the temple's pillared corridors and tank",
+        "kb": 177
+      }
+    ]
   }
 }

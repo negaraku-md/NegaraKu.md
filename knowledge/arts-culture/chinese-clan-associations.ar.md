@@ -75,6 +75,14 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
 ---
 
 عند دخولك المنطقة المحيطة بحصن كورنواليس في جورج تاون ببينانغ، يطلّ فجأة من بين صفوف البيوت-المتاجر (الشوب هاوس) معبدٌ عشائري بأفاريزَ مقوّسة منحوتة بدقّة وعوارضَ مزيّنة بالألوان — إنّه ليونغ سان تونغ خو كونغسي. وإذا مضيت نحو البحر وجدت صفوفًا من بيوت خشبية قائمة على ركائز تمتدّ فوق الماء، تحمل كل قرية منها اسم عائلة واحدة: رصيف تشو، ورصيف لِم، ورصيف تان. هذه المباني ليست معابد ولا مجرّد مساكن، بل هي البقايا المادية لأحد أقدم أشكال التنظيم في مجتمع المهاجرين الصينيين — جمعيات العشائر والمواطن الأصلية.

@@ -71,6 +71,14 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple''s names in pink characters on either side'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
 ---
 
 Antes de que haya amanecido del todo, una hilera de coches ya se ha detenido frente a la casa de la novia. El novio sostiene un ramo, con varios "hermanos" detrás, pero lo detienen unas cuantas "hermanas" que se asoman por la puerta: primero responde las preguntas, luego canta una estrofa, come unas rodajas de lima cortadas finísimas y, por último, desliza unos sobres rojos por la rendija de la puerta. Solo tras superar este obstáculo de "forzar la puerta" (chuang men) se abre esta y el novio puede ver a la novia, vestida toda de rojo. Una mañana así, llena de bromas y bullicio, es el comienzo del día en muchas bodas chinas de Malasia.

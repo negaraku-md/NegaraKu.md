@@ -77,6 +77,14 @@ festivalFacts:
   when: "El primer día del mes de Chithirai, generalmente en torno al 14 de abril; ese mismo día coinciden el Vishu de los malayalíes y el Vaisakhi de los sijs."
   holiday: "No es fiesta pública federal; ningún estado suele declararla fiesta (a diferencia de Deepavali y Thaipusam)."
   etiquette: "Es costumbre intercambiar el saludo «Puthandu Vazhthukkal» (felicitación de Año Nuevo); el día de Chithirai se aprecia un ambiente festivo en la Little India de Kuala Lumpur, en los templos y en los actos comunitarios."
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 El primer amanecer del mes de Chithirai. En muchos hogares tamiles ya la noche

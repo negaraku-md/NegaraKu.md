@@ -83,6 +83,14 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["السيخ في ماليزيا", "Sikh Malaysia", "البنجاب في ماليزيا", "Punjabi Malaysia", "غوردوارا", "gurdwara", "فايساخي", "Vaisakhi", "الخالصة", "Khalsa", "لانغار", "langar", "Tatt Khalsa Diwan", "اللغة البنجابية"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
 ---
 
 في صفوف الشرطة والحصون البريطانية في مالايا خلال القرن التاسع عشر، لم يكن كثير من أولئك الضباط ذوي العمائم واللحى الكثيفة من أهل البلاد — بل كانوا سيخًا جُلبوا آلاف الأميال من البنجاب في شمال غرب الهند. ومن واجب حفظ الأمن ذاك نمت واحدة من أصغر جاليات الأقليات في ماليزيا، وإن كانت من أكثرها تميّزًا للنظرة الأولى.

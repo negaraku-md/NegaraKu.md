@@ -75,6 +75,14 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
 ---
 
 Al entrar en la zona que rodea el Fuerte Cornwallis, en George Town (Penang), entre las hileras de casas-tienda surge de pronto un templo de clan de aleros curvos, finamente tallados, y vigas pintadas: es el Leong San Tong Khoo Kongsi. Si uno sigue hacia el mar, encuentra hileras de casas de madera sobre pilotes que se adentran en el agua, cada aldea bautizada con un único apellido: el Embarcadero Chew, el Embarcadero Lim, el Embarcadero Tan. Estas construcciones no son templos ni meras viviendas, sino los restos materiales de una de las formas de organización más antiguas de la sociedad inmigrante china: las asociaciones de clan y de paisanaje.

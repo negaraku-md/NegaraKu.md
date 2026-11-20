@@ -83,6 +83,14 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["सिख मलेशिया", "Sikh Malaysia", "पंजाबी मलेशिया", "Punjabi Malaysia", "गुरुद्वारा", "gurdwara", "वैसाखी", "Vaisakhi", "खालसा", "Khalsa", "लंगर", "langar", "Tatt Khalsa Diwan", "पंजाबी भाषा"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
 ---
 
 उन्नीसवीं सदी के मलाया की पुलिस की पंक्तियों और ब्रिटिश किलों में, पगड़ी और घनी दाढ़ी वाले उन अधिकारियों में से कई स्थानीय नहीं थे — वे सिख थे जिन्हें उत्तर-पश्चिमी भारत के पंजाब से हज़ारों मील दूर लाया गया था। सुरक्षा बनाए रखने के उस कर्तव्य से मलेशिया के सबसे छोटे किंतु सबसे तुरंत पहचाने जाने वाले अल्पसंख्यक समुदायों में से एक का उदय हुआ।

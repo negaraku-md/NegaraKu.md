@@ -85,6 +85,14 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Dark navy signboard with the Terengganu royal crest and the words ''Istana Maziah'' spelled in gold Jawi (Arabic-derived Malay) script'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
 ---
 
 ட்ரெங்கானுவில் கண்டெடுக்கப்பட்ட ஒரு கல் கல்வெட்டில், மலாய்ச் சொற்கள் செதுக்கப்பட்டுள்ளன — இன்று நாம் பயன்படுத்தும் எழுத்துகளில் அல்ல, மாறாக மலாய் மொழியின் ஒலிகளுக்கு ஏற்றவாறு மாற்றியமைக்கப்பட்ட அரபு எழுத்துகளில். அந்தக் கல்வெட்டு, ட்ரெங்கானு கல்வெட்டு (Batu Bersurat Terengganu), 702 ஹிஜ்ரி என்ற தேதியைத் தாங்கியுள்ளது; இது பொதுவாக 1303 கிபி ஆண்டுடன் பொருத்தப்படுகிறது.

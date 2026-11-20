@@ -84,6 +84,14 @@ festivalFacts:
   when: "クリスマスは毎年12月25日にあたり、11月下旬ごろから装飾・小売のシーズンが始まる。"
   holiday: "12月25日のクリスマスは、すべての州および連邦直轄領にわたる全国的な祝日である（半島部ではHolidays Act 1951 (Act 369)の第一附則；サバ州・サラワク州では州の条例による）。サバ州はさらに、12月24日のクリスマスイブをSabah Holidays Ordinance (Cap. 56)に基づく州の祝日として官報告示している。"
   etiquette: "どんな背景の客も食事に招くオープンハウスの伝統は、他の祭日と同様にクリスマスにも適用される。もてなす側のキリスト教徒の家庭は他宗教の客を迎え入れることが多く、訪問は祭日のカレンダーを通じて双方向に行われる。"
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 12月24日の夕方、コタキナバルやクチンの教会は遅い時間の礼拝に集まる人々で満たされるが、そこから数百キロメートル離れた半島では、同じ日はごく普通の木曜日の勤務日にすぎない。翌朝、12月25日には、国中が休みになる。この分裂——同じ日付でありながら、まったく異なる二つの位置づけ——こそが、マレーシアにおけるクリスマスの立ち位置を理解する最も的確な方法である：ある一つの共同体にとっては宗教的な祭日であり、すべての人にとっては公共の祝日であり、そして信仰を問わず多くの人が参加する、扉を開いた季節でもある。

@@ -82,6 +82,14 @@ festivalFacts:
   when: "اليوم الذي يبدأ فيه الشهر التاميلي Thai — وعادةً منتصف يناير في التقويم الغريغوري (14 أو 15)."
   holiday: "في ماليزيا ليس عطلة رسمية مُدرَجة في الجريدة الرسمية على المستوى الاتحادي ولا في أي ولاية. (Deepavali وحده عطلة رسمية اتحادية — باستثناء Sarawak؛ أما Thaipusam فعطلة في بعض الولايات فقط.)"
   etiquette: "عيد ثقافي قائم أساسًا على الحصاد، غير ديني (أوضح ذلك وزير ماليزي في 2020)؛ وتطبخ المنظمات المجتمعية والمعابد البونغل معًا في أوعية عديدة، وتقيم احتفالًا عامًا مصحوبًا بعروض فنية."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 في فجر اليوم الذي يُطلّ فيه شهر تاي، تعجّ باحات بيوت العائلات التاميلية في أنحاء

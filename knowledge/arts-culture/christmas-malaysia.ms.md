@@ -86,6 +86,14 @@ festivalFacts:
   when: "Hari Krismas jatuh pada 25 Disember setiap tahun, dengan musim hiasan dan runcit bermula sekitar akhir November."
   holiday: "Hari Krismas, 25 Disember, merupakan cuti umum di seluruh negara di semua negeri dan wilayah persekutuan (Jadual Pertama Holidays Act 1951 (Act 369) di Semenanjung; ordinan negeri di Sabah dan Sarawak). Sabah turut mewartakan Christmas Eve, 24 Disember, sebagai cuti umum negeri di bawah Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "Tradisi rumah terbuka menjamu tetamu daripada apa-apa latar belakang untuk sesi jamuan bersama turut diamalkan pada Krismas sebagaimana perayaan lain; keluarga Kristian yang menjadi tuan rumah lazimnya mengalu-alukan tetamu daripada agama lain, dan kunjung-mengunjung berlaku dua hala sepanjang kalendar perayaan."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 Pada malam 24 Disember, sebuah gereja di Kota Kinabalu atau Kuching penuh sesak untuk satu ibadah lewat malam, sementara beberapa ratus kilometer jauhnya di Semenanjung, tarikh yang sama merupakan hari Khamis bekerja biasa. Pada pagi esoknya, 25 Disember, seluruh negara bercuti. Perbezaan itu — satu tarikh, dua status yang amat berbeza — adalah cara paling jelas untuk memahami kedudukan Krismas di Malaysia: satu perayaan keagamaan bagi satu komuniti, cuti umum bagi semua orang, dan satu musim pintu terbuka yang disertai ramai orang tanpa mengira agama.

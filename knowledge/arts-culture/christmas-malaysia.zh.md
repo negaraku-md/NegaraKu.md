@@ -85,6 +85,14 @@ festivalFacts:
   when: "圣诞节在每年 12 月 25 日，装饰与零售节期大约自 11 月下旬开始。"
   holiday: "圣诞节（12 月 25 日）是全国各州与联邦直辖区的公共假期（半岛依据 1951 年假期法令（Act 369）第一附表；沙巴与砂拉越则依州法令）。沙巴另依《沙巴假期条例》（Cap. 56）将平安夜（12 月 24 日）宪报公布为州公共假期。"
   etiquette: "招待任何背景客人共进一餐的开放门户（open house）传统，如同其他节日一样也适用于圣诞节；设宴的基督徒家庭通常欢迎其他信仰的客人，而在整个节庆历中，互访是双向进行的。"
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 12月24日傍晚，亚庇或古晋的一座教堂挤满了参加深夜仪式的信众，而在几百公里外的马来西亚半岛，同一天却只是普通的星期四工作日。到了隔天早上，也就是12月25日，全国都放假了。这种分野——同一个日期，两种截然不同的地位——是理解圣诞节在马来西亚所处位置最简明的方式：对某一个社群而言是宗教节日，对所有人而言是公共假期，也是一个不分信仰、许多人都参与其中的敞开门户的季节。

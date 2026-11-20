@@ -78,6 +78,14 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'Sepia 1890s photograph of a bangsawan Malay opera troupe in royal costume on a painted-backdrop stage, performers in crowns and ornate dress seated and standing on a throne platform while a crowd watches from below'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
 ---
 
 ก่อนจะมีภาพยนตร์ ก็มีเวทีที่มีไฟส่อง ม่านวาดด้วยมือ และวงดนตรีที่สามารถเปลี่ยนจากเพลงร่ายของราชสำนักมลายูไปสู่จังหวะจากตะวันออกกลางในคืนการแสดงเดียวกัน นั่นคือบังซาวัน (bangsawan) — อุปรากรบนเวทีที่ครั้งหนึ่งเคยเป็นความบันเทิงในเมืองที่คึกคักที่สุดในคาบสมุทร และต่อมาได้มอบนักแสดงกับนักร้องของตนให้แก่อุตสาหกรรมภาพยนตร์มลายูที่เพิ่งถือกำเนิด

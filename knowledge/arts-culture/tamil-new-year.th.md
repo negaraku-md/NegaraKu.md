@@ -77,6 +77,14 @@ festivalFacts:
   when: "วันแรกของเดือน Chithirai — โดยทั่วไปอยู่ราววันที่ 14 เมษายน ในวันเดียวกันนั้นยังเป็นวัน Vishu ของชาวมาลายาลีและวัน Vaisakhi ของชาวซิกข์ด้วย"
   holiday: "ไม่ใช่วันหยุดราชการระดับสหพันธ์ และโดยปกติไม่มีรัฐใดประกาศให้เป็นวันหยุด (ต่างจาก Deepavali และ Thaipusam)"
   etiquette: "เป็นธรรมเนียมที่จะกล่าวอวยพรแก่กันว่า \"Puthandu Valthukkal\" (คำอวยพรปีใหม่) ในวัน Chithirai จะเห็นบรรยากาศงานเทศกาลในย่านลิตเติลอินเดียของกัวลาลัมเปอร์ ตามวัด และในงานกิจกรรมของชุมชน"
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 รุ่งอรุณแรกของเดือนจิตติไร ในบ้านชาวทมิฬหลายหลัง ถาดใบหนึ่งถูกจัดเตรียมไว้ตั้งแต่คืนก่อน — มะม่วง กล้วย ใบพลู เครื่องประดับทองเล็กน้อย และกระจกบานหนึ่ง เมื่อลืมตาตื่นในตอนเช้า ก่อนจะมองสิ่งอื่นใด ต้องมองถาดใบนี้เป็นอย่างแรก นี่คือ **กันนิ (kanni)** — การแสดงออกถึงความเชื่อที่ว่า สิ่งแรกที่มองเห็นในวันปีใหม่จะกำหนดโทนของทั้งปี

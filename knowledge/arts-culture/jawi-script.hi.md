@@ -85,6 +85,14 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["जावी लिपि", "अरबी मलय वर्णमाला", "तेरेंगानु शिलालेख", "जावी लिपि का इतिहास", "ख़त कला", "जावी वर्तनी", "राष्ट्रीय भाषा अधिनियम की धारा 9", "Jawi", "Batu Bersurat Terengganu", "National Language Act"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Dark navy signboard with the Terengganu royal crest and the words ''Istana Maziah'' spelled in gold Jawi (Arabic-derived Malay) script'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
 ---
 
 तेरेंगानु (Terengganu) में मिले एक शिलालेख पर, मलय शब्द उकेरे गए हैं — उन अक्षरों में नहीं जिन्हें हम आज इस्तेमाल करते हैं, बल्कि मलय ध्वनियों के लिए अनुकूलित एक अरबी लिपि में। यह शिलालेख, तेरेंगानु शिलालेख (Batu Bersurat Terengganu), 702 हिजरी की तिथि धारण करता है, जिसे आमतौर पर 1303 ईस्वी के बराबर माना जाता है।

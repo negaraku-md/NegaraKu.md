@@ -87,6 +87,14 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["क्रिस्तांग", "पापिया क्रिस्तांग", "मलक्का की पुर्तगाली बस्ती", "मलेशिया में यूरेशियाई", "इंत्रुदु", "ब्रान्यो", "Kristang", "Papia Kristang", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'A line of Kristang performers in traditional Portuguese-Eurasian costume, the women in red headscarves, white blouses and embroidered skirts and the men in black hats and waistcoats, singing and dancing on a stage under a Festa San Pedro 2026 banner in the Portuguese Settlement in Melaka'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
 ---
 
 उजोंग पासिर (Ujong Pasir), मलक्का में, एक समुद्र-तटीय बस्ती है जहाँ लोग एक-दूसरे का अभिवादन एक ऐसी भाषा में करते हैं जो न मलय है, न अंग्रेज़ी, न ही आधुनिक पुर्तगाली — बल्कि पाँच सदी पहले आए विजेताओं की ज़बान का जीवित अवशेष है। यह क्रिस्तांग समुदाय की दुनिया है।

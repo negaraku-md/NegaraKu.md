@@ -82,6 +82,14 @@ festivalFacts:
   when: "Hari lahirnya bulan Tamil Thai — dalam penanggalan Gregorian umumnya pertengahan Januari (14 atau 15)."
   holiday: "Bukan hari libur umum yang diwartakan baik di tingkat persekutuan maupun di tingkat negeri mana pun di Malaysia. (Hanya Deepavali yang merupakan hari libur umum persekutuan — kecuali Sarawak; Thaipusam hanya libur di sebagian negeri.)"
   etiquette: "Terutama merupakan perayaan budaya terkait panen, bersifat sekuler (diklarifikasi oleh seorang menteri Malaysia pada 2020); organisasi komunitas dan kuil mengadakan perayaan publik dengan memasak pongal bersama dalam banyak periuk sekaligus, disertai pertunjukan seni."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 Pada subuh hari ketika bulan Thai menjelang, halaman dan ambang pintu keluarga

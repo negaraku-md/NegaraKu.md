@@ -63,6 +63,14 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
 ---
 
 மேளதாளம் முழங்குகிறது, மேடையில் நீர்-கைகள் (水袖) அசைந்தாடுகின்றன — ஆனால் கீழே பார்வையாளர் இருக்கைகளில் பெரும்பாலும் ஒரு சிலரே அமர்ந்திருப்பர்; சில வேளைகளில் ஒருவர் கூட இருக்க மாட்டார். இது தோல்வியடைந்த நிகழ்ச்சி அல்ல; ஏனெனில் இந்த நாடகம் ஆரம்பத்திலிருந்தே மனிதர்களைப் பார்ப்பதற்காக நடத்தப்படுவதில்லை.

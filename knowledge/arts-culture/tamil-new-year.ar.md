@@ -77,6 +77,14 @@ festivalFacts:
   when: "اليوم الأول من شهر Chithirai — وعادةً قرابة 14 أبريل؛ وفي اليوم نفسه يأتي Vishu لدى المالايالِيين وVaisakhi لدى السيخ."
   holiday: "ليس عطلة رسمية اتحادية؛ ولا تعلنه أي ولاية عطلةً في العادة (بخلاف Deepavali وThaipusam)."
   etiquette: "من المعتاد تبادل عبارة «Puthandu Vazhthukkal» (تهاني العام الجديد)؛ وفي يوم Chithirai يظهر مشهد احتفالي في Little India بـ Kuala Lumpur وفي المعابد والفعاليات المجتمعية."
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
 ---
 
 أول فجر من شهر تشيتيراي. في كثير من البيوت التاميلية تكون صينية قد أُعدّت منذ الليلة السابقة — مانجو وموز وورق تنبول وقليل من الحلي الذهبية ومرآة. وحين يستيقظ المرء صباحًا، وقبل أن ينظر إلى أي شيء آخر، ينبغي أن تكون هذه الصينية أول ما يراه. هذا هو **الكانّي (kanni)** — تعبيرٌ عن الاعتقاد بأنّ أول مشهد يُرى يوم رأس السنة يرسم مزاج العام كله.

@@ -75,6 +75,14 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
 ---
 
 பினாங் ஜியார்ஜ் டவுனில் கோர்ன்வாலிஸ் கோட்டையைச் சுற்றியுள்ள பகுதிக்குள் நுழைந்தால், தொடர் கடை-வீடுகளுக்கு (ஷாப்ஹவுஸ்) இடையே திடீரென வளைந்த கூரையும் நுட்பமான சிற்பவேலையும் வண்ணச் சித்திரங்களும் கொண்ட ஒரு குல ஆலயம் தோன்றும் — அதுவே லியோங் சான் தோங் கூ காங்சி. கடலை நோக்கி மேலும் சென்றால், மரக் கம்பங்கள் தாங்க நீரின் மேல் நீட்டிக்கொண்டிருக்கும் மரவீட்டுக் கிராமங்கள் வரிசையாக இருக்கும்; ஒவ்வொன்றும் ஒரு குடும்பப் பெயரால் அழைக்கப்படுகின்றன: சூ பாலம், லிம் பாலம், டான் பாலம். இக் கட்டிடங்கள் கோயில்களுமல்ல, வெறும் குடியிருப்புகளுமல்ல; சீனக் குடியேற்றச் சமூகத்தின் மிகப் பழமையான அமைப்பு வடிவங்களில் ஒன்று விட்டுச்சென்ற சான்றுகள் — குல மற்றும் சொந்த ஊர் சங்கங்கள்.

@@ -63,6 +63,14 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["चीनी ऑपेरा", "देव-कृतज्ञता ऑपेरा", "मलेशिया में कैंटोनीज़ ऑपेरा", "तियोचिउ ऑपेरा", "होक्कियन ऑपेरा", "चीनी कठपुतली रंगमंच", "पेनांग भूखे प्रेतों का उत्सव", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
 ---
 
 घड़ियाल और ढोल बज उठते हैं, मंच पर जल-आस्तीनें (水袖) लहराती हैं — जबकि नीचे दर्शक-सीटों पर अक्सर केवल मुट्ठी भर लोग होते हैं, कभी-कभी एक भी नहीं। यह कोई असफल प्रदर्शन नहीं है, क्योंकि यह प्रस्तुति शुरू से ही मानव-नेत्रों के लिए थी ही नहीं।

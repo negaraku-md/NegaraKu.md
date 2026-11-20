@@ -87,6 +87,14 @@ festivalFacts:
   when: "क्रिसमस दिवस हर वर्ष 25 दिसंबर को पड़ता है, जिसमें नवंबर के अंत के आसपास से एक सजावटी और खुदरा मौसम शुरू होता है।"
   holiday: "क्रिसमस दिवस, 25 दिसंबर, सभी राज्यों और संघीय क्षेत्रों में देशव्यापी सार्वजनिक अवकाश है (प्रायद्वीप पर Holidays Act 1951 (Act 369) की First Schedule के अंतर्गत; सबाह और सरवाक में राज्य अध्यादेशों के अंतर्गत)। सबाह इसके अतिरिक्त Sabah Holidays Ordinance (Cap. 56) के अंतर्गत क्रिसमस की पूर्व संध्या, 24 दिसंबर, को राज्य सार्वजनिक अवकाश के रूप में राजपत्रित करता है।"
   etiquette: "किसी भी पृष्ठभूमि के मेहमानों को साझा भोजन के लिए आतिथ्य देने की ओपन-हाउस परंपरा क्रिसमस पर भी अन्य त्योहारों की तरह लागू होती है; मेज़बानी करने वाले ईसाई परिवार आम तौर पर अन्य धर्मों के मेहमानों का स्वागत करते हैं, और त्योहार के पंचांग भर में आना-जाना दोनों दिशाओं में चलता है।"
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
 ---
 
 24 दिसंबर की शाम, कोटा किनाबालू या कुचिंग का एक चर्च एक देर की सेवा के लिए भर जाता है, जबकि कुछ सौ किलोमीटर दूर प्रायद्वीप में वही तारीख एक साधारण कामकाजी गुरुवार होती है। अगली सुबह, 25 दिसंबर, पूरा देश काम से छुट्टी पर होता है। यह विभाजन — एक तारीख, दो बिल्कुल भिन्न स्थितियाँ — यह समझने का सबसे स्पष्ट तरीका है कि क्रिसमस मलेशिया में कहाँ बैठता है: एक समुदाय के लिए एक धार्मिक उत्सव, सबके लिए एक सार्वजनिक अवकाश, और खुले द्वारों का एक मौसम जिसमें कई लोग आस्था की परवाह किए बिना भाग लेते हैं।

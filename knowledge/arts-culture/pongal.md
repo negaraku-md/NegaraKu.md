@@ -81,6 +81,14 @@ festivalFacts:
   when: "தமிழ் மாதமான தை பிறக்கும் நாள் — கிரிகோரியன் நாட்காட்டியில் பொதுவாக ஜனவரி நடுப்பகுதி (14 அல்லது 15)."
   holiday: "மலேசியாவில் கூட்டரசு அளவிலோ எந்த மாநில அளவிலோ வர்த்தமானப்படுத்தப்பட்ட பொது விடுமுறை அல்ல. (தீபாவளி மட்டுமே கூட்டரசுப் பொது விடுமுறை — சரவாக்கைத் தவிர; தைப்பூசம் சில மாநிலங்களில் மட்டும் விடுமுறை.)"
   etiquette: "முதன்மையாக அறுவடை சார்ந்த பண்பாட்டுப் பண்டிகை, மதச் சார்பற்றது (2020-இல் மலேசிய அமைச்சர் தெளிவுபடுத்தினார்); சமூக அமைப்புகளும் கோயில்களும் பலப் பானைகளில் ஒருசேரப் பொங்கல் வைத்து, கலை நிகழ்ச்சிகளுடன் பொதுக் கொண்டாட்டம் நடத்துகின்றன."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 தை மாதம் பிறக்கும் அதிகாலையில், மலேசியாவின் தமிழ்க் குடும்பங்களின் முற்றங்களிலும்

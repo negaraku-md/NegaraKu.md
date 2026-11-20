@@ -83,6 +83,14 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
 ---
 
 19-ஆம் நூற்றாண்டு Tanah Melayu-இன் காவல் அணிகளிலும் பிரிட்டிஷ் கோட்டைகளிலும், தலைப்பாகை அணிந்து அடர்ந்த தாடி வைத்திருந்த அந்த அதிகாரிகளில் பலர் உள்ளூர்வாசிகள் அல்ல — அவர்கள் வடமேற்கு இந்தியாவின் Punjab-இலிருந்து ஆயிரக்கணக்கான மைல்கள் தொலைவிலிருந்து அழைத்துவரப்பட்ட சீக்கியர்கள். அந்தப் பாதுகாப்புக் கடமையிலிருந்துதான் மலேசியாவின் மிகச் சிறிய, ஆனால் உடனடியாக அடையாளம் காணக்கூடிய சிறுபான்மைச் சமூகங்களில் ஒன்று வளர்ந்தது.

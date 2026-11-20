@@ -82,6 +82,14 @@ festivalFacts:
   when: "Le premier jour du mois tamoul de Thai — dans le calendrier grégorien, généralement à la mi-janvier (le 14 ou le 15)."
   holiday: "Ce n'est pas un jour férié inscrit au journal officiel, ni au niveau fédéral ni dans aucun État de Malaisie. (Seul Deepavali est un jour férié fédéral — à l'exception du Sarawak ; Thaipusam n'est férié que dans certains États.)"
   etiquette: "Il s'agit avant tout d'une fête culturelle liée aux récoltes, de nature non religieuse (un ministre malaisien l'a précisé en 2020) ; les organisations communautaires et les temples préparent ensemble le pongal dans de nombreux pots et organisent des célébrations publiques accompagnées de spectacles artistiques."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 À l'aube où commence le mois de Thai, les cours et les seuils des familles

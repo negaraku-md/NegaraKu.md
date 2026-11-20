@@ -71,6 +71,14 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple''s names in pink characters on either side'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
 ---
 
 Le jour n'est pas encore tout à fait levé qu'une file de voitures s'est déjà arrêtée devant la maison de la mariée. Le marié porte un bouquet, suivi de quelques « frères », mais quelques « sœurs » qui passent la tête par la porte lui barrent le chemin : réponds d'abord aux questions, puis chante un couplet, mange quelques tranches de citron vert coupées très fines et, pour finir, glisse quelques enveloppes rouges par l'entrebâillement de la porte — ce n'est qu'une fois franchie cette épreuve du « forçage de la porte » (chuang men) que la porte s'ouvre et que le marié peut voir la mariée, tout de rouge vêtue. Une matinée de la sorte, pleine de taquineries et d'animation, c'est l'ouverture de la journée pour bien des mariages chinois en Malaisie.

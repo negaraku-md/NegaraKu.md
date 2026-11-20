@@ -82,6 +82,14 @@ festivalFacts:
   when: "タミル暦の月である Thai が始まる日——グレゴリオ暦では一般に1月中旬（14日または15日）。"
   holiday: "マレーシアでは、連邦レベルでも、いずれの州レベルでも官報告示された祝日ではない。（連邦の祝日はディーパバリ（Deepavali）のみ——サラワク州を除く。タイプーサム（Thaipusam）は一部の州のみの祝日。）"
   etiquette: "主として収穫に関わる文化的な祝祭であり、宗教色のないものである（2020年にマレーシアの閣僚が明確にした）。地域団体や寺院は多くの鍋で一緒にポンガルを炊き、芸能公演とともに公開の祝いを行う。"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
 ---
 
 タイ月が明ける早朝、マレーシアのタミル人家庭の庭先や玄関口はにぎわいに包まれます。

@@ -75,6 +75,14 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
 ---
 
 페낭 조지타운의 콘월리스 요새 일대로 들어서면, 줄지어 선 상점가옥(숍하우스) 사이에서 처마가 치솟고 섬세한 조각과 채색을 입힌 종사(宗祠)가 불쑥 나타납니다——바로 룽산탕 추 공사입니다. 바닷가 쪽으로 더 나아가면, 나무 기둥이 떠받친 채 수면 위로 뻗어 나간 목조 가옥의 마을들이 줄지어 있고, 저마다 하나의 성씨를 내걸고 있습니다——성주교(姓周橋), 성림교(姓林橋), 성진교(姓陳橋). 이 건물들은 사당도 아니고 단순한 주거도 아니며, 화인 이민 사회에서 가장 오래된 조직 형태의 하나가 남긴 실체——회관과 종친회입니다.

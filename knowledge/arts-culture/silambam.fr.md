@@ -68,6 +68,14 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'Children and an instructor in orange Silambam Asia T-shirts practising stick-fighting stances with long bamboo staves at an outdoor demonstration'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
 ---
 
 Lors d'une fête de temple ou d'une célébration du [Nouvel An tamoul](/fr/arts-culture/tamil-new-year) en Malaisie, vous pourrez voir un jeune homme faire tournoyer un long bâton de bambou au-dessus de sa tête et autour de son corps à une vitesse fulgurante, au rythme des tambours. Ce tournoiement n'est pas qu'une affaire d'esthétique — c'est l'emblème du silambam, un art martial tamoul vieux de plus de mille cinq cents ans.
