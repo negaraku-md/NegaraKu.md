@@ -81,6 +81,14 @@ relations:
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
+hero: '/media/government/imigresen/hero.webp'
+heroAlt: 'The stone facade of the Immigration Department of Malaysia headquarters in Putrajaya, its tiered Islamic-patterned tower rising behind an entrance canopy that bears the words Jabatan Imigresen Malaysia and the department crest'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
 ---
 
 每一个跨越大马边境的人——续领护照的国民、抵境的游客、前来工作的外籍专才——都要经过同一个部门。但它所签发的文件却常被彼此混淆，而这种混淆正是多数移民问题的根源。

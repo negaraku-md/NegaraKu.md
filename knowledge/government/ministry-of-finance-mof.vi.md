@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 Mỗi đồng ringgit mà chính phủ liên bang thu và chi đều đi qua một thể chế: Bộ Tài chính. Đó là bộ của Chính phủ Malaysia được giao trách nhiệm về cả chi tiêu của chính phủ lẫn việc huy động nguồn thu — nó xây dựng chính sách kinh tế, soạn Ngân sách liên bang của Malaysia, và giám sát pháp luật cùng việc điều chỉnh về tài chính. Trong tiếng Mã Lai nó là Kementerian Kewangan, và bộ máy cốt lõi của nó là Kho bạc Liên bang, hay Perbendaharaan. Trang này giải thích thể chế đó rồi gỡ rối nó khỏi thứ riêng biệt mà người ta muốn nói khi tìm kiếm "đăng ký MOF".

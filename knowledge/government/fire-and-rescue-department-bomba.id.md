@@ -74,6 +74,14 @@ keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue De
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
+hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'The front of a Malaysian fire station with the giant red word BOMBA spelt across its five roller-shutter doors and a yellow sign reading Balai Bomba dan Penyelamat Jalan Kubu above them, strung with red lanterns'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
 ---
 
 Tanyakan kepada siapa pun di Malaysia siapa yang harus dihubungi ketika sebuah bangunan terbakar atau seseorang terjebak, dan jawabannya adalah satu kata yang sama: **Bomba**. **Jabatan Bomba dan Penyelamat Malaysia** (**JBPM**), yang dikenal hampir semua orang sekadar sebagai **BOMBA**, adalah instansi federal yang bertanggung jawab atas pemadam kebakaran, penyelamatan, penanganan bahan berbahaya, dan penegakan keselamatan kebakaran di seluruh negeri. Ia adalah instansi di bawah [**Kementerian Perumahan dan Kerajaan Tempatan**](/id/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), dan dalam keadaan darurat ia dihubungi dengan menelepon **999**.

@@ -93,6 +93,14 @@ relations:
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "मलेशिया विदेश मंत्रालय", "Kementerian Luar Negeri", "kln.gov.my", "मलेशियाई दूतावास", "कांसुलर सहायता मलेशिया", "मलेशियाई उच्चायोग", "मलेशिया विदेश नीति"]
 framework: profile
+hero: '/media/government/ministry-of-foreign-affairs-wisma-putra/hero.webp'
+heroAlt: 'The entrance of Wisma Putra, Malaysia''s Ministry of Foreign Affairs, with its green Malay-style roofs, flags and the Wisma Putra Kementerian Luar Negeri signage'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
 ---
 
 जब कोई मलेशियाई विदेश में फँस जाता है, जब मलेशिया संयुक्त राष्ट्र में मतदान करता है, या जब कोई नया राजदूत किसी विदेशी राजधानी में अपना परिचय-पत्र प्रस्तुत करता है, तो इन तीनों के पीछे एक ही संस्था खड़ी होती है — Wisma Putra।

@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 Setiap ringgit yang dikutip dan dibelanjakan oleh kerajaan persekutuan melalui satu institusi: Kementerian Kewangan. Ia ialah kementerian Kerajaan Malaysia yang dipertanggungjawabkan ke atas kedua-dua perbelanjaan kerajaan dan penjanaan hasil — ia membangunkan dasar ekonomi, menyediakan Belanjawan persekutuan Malaysia, serta menyelia perundangan dan pengawalseliaan kewangan. Dalam bahasa Melayu ia dikenali sebagai Kementerian Kewangan, dan jentera terasnya ialah Perbendaharaan Persekutuan, atau Perbendaharaan. Halaman ini menerangkan institusi tersebut dan seterusnya memisahkannya daripada perkara berasingan yang dimaksudkan orang apabila mereka mencari "pendaftaran MOF".

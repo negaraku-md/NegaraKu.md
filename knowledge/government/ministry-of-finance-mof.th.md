@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 ทุกริงกิตที่รัฐบาลสหพันธ์จัดเก็บและใช้จ่ายผ่านสถาบันเดียว คือกระทรวงการคลัง เป็นกระทรวงของรัฐบาลมาเลเซียที่มีหน้าที่รับผิดชอบทั้งรายจ่ายของรัฐบาลและการระดมรายได้ — พัฒนานโยบายเศรษฐกิจ จัดทำงบประมาณสหพันธ์ของมาเลเซีย และกำกับดูแลกฎหมายและการกำกับดูแลด้านการเงิน ในภาษามลายูคือ Kementerian Kewangan และกลไกหลักคือกระทรวงพระคลังสหพันธ์ หรือ Perbendaharaan หน้านี้อธิบายสถาบันดังกล่าวและจากนั้นแยกมันออกจากสิ่งที่แยกต่างหากซึ่งผู้คนหมายถึงเมื่อค้นหา "การลงทะเบียน MOF"

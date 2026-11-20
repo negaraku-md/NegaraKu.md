@@ -77,6 +77,14 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: 'The towering dark facade of Menara MATRADE in Kuala Lumpur, pierced by an enormous pointed-arch opening and topped by a ribbed dome'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
 ---
 
 ถามผู้ส่งออกมือใหม่ว่าหน่วยงานรัฐใดจัดการบูทงานแสดงสินค้าของตน ราวครึ่งหนึ่งจะตอบว่า MIDA แต่ MIDA ไม่ได้ทำ นั่นเป็นหน้าที่ของ MATRADE — และสองหน่วยงานทำงานคนละปลายของความสัมพันธ์ทางการค้าเดียวกัน

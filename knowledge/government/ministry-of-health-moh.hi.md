@@ -82,6 +82,14 @@ relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "मलेशिया स्वास्थ्य मंत्रालय", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "मलेशिया स्वास्थ्य मंत्री", "Director-General of Health", "स्वास्थ्य महानिदेशक", "klinik kesihatan", "moh.gov.my", "मलेशिया सार्वजनिक स्वास्थ्य देखभाल", "Dzulkefly Ahmad", "RM1 क्लिनिक शुल्क"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'A tall sandstone-and-green-glass government tower topped by an open square crown, with the words KEMENTERIAN KESIHATAN MALAYSIA and the national crest over its entrance canopy against a cloudy sky'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
 ---
 
 जब आप किसी मलेशियाई सरकारी क्लिनिक में जाते हैं, एक RM1 का नोट थमाते हैं, और अपनी सलाह-मशविरा तथा अपनी दवा कवर किए हुए बाहर निकलते हैं, तो आप दुनिया की सबसे अधिक सब्सिडी वाली स्वास्थ्य प्रणालियों में से एक का उपयोग कर रहे होते हैं। इसे चलाने वाला है **मलेशिया का स्वास्थ्य मंत्रालय** — *Kementerian Kesihatan Malaysia* (**KKM**), या अंग्रेज़ी में **MOH** — वह संघीय मंत्रालय जो सार्वजनिक स्वास्थ्य, चिकित्सा देखभाल, चिकित्सा अनुसंधान, स्वास्थ्य संवर्धन, औषधीय एवं चिकित्सा-उपकरण विनियमन, दंत चिकित्सा और रोगी सुरक्षा के लिए ज़िम्मेदार है। इसका मुख्यालय संघीय सरकार प्रशासनिक केंद्र, 62590 पुत्राजया में Complex E (ब्लॉक E1, E3, E6, E7 और E10) में है।

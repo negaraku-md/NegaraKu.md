@@ -85,6 +85,14 @@ relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "وزارة التعليم الماليزية", "Fadhlina Sidek", "Education Act 1996", "قانون التعليم 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "menteri pendidikan", "moe.gov.my", "التعليم الإلزامي في ماليزيا", "نظام المدارس في ماليزيا"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'A grand symmetrical tan government tower in Moorish-Islamic style with finialed turrets and a soaring arched central bay, the words KEMENTERIAN PENDIDIKAN MALAYSIA over its entrance, flanked by lower wings under a cloud-filled sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
 ---
 
 إذا كان الأمر يتعلق بطفل مدرسي ماليزي — المنهج الذي يدرسه، أو الكتاب المدرسي على مكتبه، أو الامتحان الوطني الذي يؤدّيه، أو معلم المدرسة الحكومية أمام الصف — فإنه من اختصاص وزارة التعليم. وهي، المعروفة بالملايوية باسم **Kementerian Pendidikan Malaysia** والمختصرة دائمًا تقريبًا إلى **KPM**، الوزارة الاتحادية التي تُدير نظام التعليم ما قبل الجامعي في البلاد. أما ما *لا* تُديره فهو الجامعات — وهو حدٌّ يُربك كثيرًا من الناس.

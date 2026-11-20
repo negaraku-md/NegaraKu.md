@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 Chaque ringgit que le gouvernement fédéral lève et dépense passe par une seule institution : le ministère des Finances. C'est le ministère du gouvernement de la Malaisie auquel a été confiée la responsabilité à la fois des dépenses publiques et de la levée des recettes — il élabore la politique économique, prépare le Budget fédéral malaisien et supervise la législation et la réglementation financières. En malais, c'est le Kementerian Kewangan, et sa machinerie centrale est le Trésor fédéral, ou Perbendaharaan. Cette page explique l'institution, puis la démêle de la chose distincte que les gens veulent dire lorsqu'ils recherchent « enregistrement MOF ».

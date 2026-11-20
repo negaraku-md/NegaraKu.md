@@ -82,6 +82,14 @@ relations: []
 related: []
 keywords: ["Ministry of Health Malaysia", "وزارة الصحة الماليزية", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "وزير الصحة الماليزي", "Director-General of Health", "المدير العام للصحة", "klinik kesihatan", "moh.gov.my", "الرعاية الصحية العامة ماليزيا", "Dzulkefly Ahmad", "رسم العيادة RM1"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'A tall sandstone-and-green-glass government tower topped by an open square crown, with the words KEMENTERIAN KESIHATAN MALAYSIA and the national crest over its entrance canopy against a cloudy sky'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
 ---
 
 حين تدخل عيادة حكومية ماليزية، وتسلّم ورقة من فئة RM1، وتخرج وقد غُطّيت استشارتك

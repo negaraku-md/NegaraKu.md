@@ -70,6 +70,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 マレーシア連邦政府が徴収し支出するすべてのリンギットは、一つの機関を通過する——財務省である。これはマレーシア政府において、政府支出と歳入徴収の双方を所管する省庁であり——経済政策を策定し、マレーシア連邦予算案を編成し、金融関連の立法と規制を監督する。マレー語ではKementerian Kewanganと呼ばれ、その中核機構は連邦国庫（Federal Treasury）、すなわちPerbendaharaanである。本ページでは、まずこの機関について説明し、次に人々が「MOF登録」を検索するときに指している別の事柄との違いを整理する。

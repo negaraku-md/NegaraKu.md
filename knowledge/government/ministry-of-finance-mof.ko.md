@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 연방정부가 걷고 쓰는 모든 링깃(RM)은 하나의 기관을 거칩니다. 바로 재무부입니다. 이는 정부 지출과 세입 조달을 모두 담당하는 말레이시아 정부의 부처입니다 — 경제 정책을 수립하고, 말레이시아 연방 예산을 편성하며, 금융 법령과 규제를 감독합니다. 말레이어로는 Kementerian Kewangan이며, 그 핵심 기구는 재무성(Federal Treasury), 즉 Perbendaharaan입니다. 이 페이지는 그 기관을 설명한 다음, 사람들이 "MOF 등록"을 검색할 때 뜻하는 별개의 것과 구별합니다.

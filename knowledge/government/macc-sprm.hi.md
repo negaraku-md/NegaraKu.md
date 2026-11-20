@@ -87,6 +87,14 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "मलेशियाई भ्रष्टाचार-रोधी आयोग", "MACC Act 2009", "Act 694", "भ्रष्टाचार-रोधी सलाहकार बोर्ड", "Anti-Corruption Advisory Board", "भ्रष्टाचार पर विशेष समिति", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'A long red-brick government building rising above a screen of green trees, its upper facade bearing the gold SPRM (MACC) lettering and emblem above rows of arched windows hung with small Malaysian flags'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
 ---
 
 MACC के अधिकांश विवरण «मलेशिया की भ्रष्टाचार-रोधी एजेंसी» पर ही रुक जाते हैं। अधिक

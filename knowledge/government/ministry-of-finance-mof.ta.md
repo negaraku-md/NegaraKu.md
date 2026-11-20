@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 கூட்டரசு அரசாங்கம் திரட்டி செலவிடும் ஒவ்வொரு ரிங்கிட்டும் ஒரே நிறுவனத்தின் வழியாகக் கடந்து செல்கிறது: நிதி அமைச்சு. இது அரசாங்கச் செலவு மற்றும் வருவாய் திரட்டல் ஆகிய இரண்டுக்கும் பொறுப்பான மலேசிய அரசாங்கத்தின் அமைச்சு ஆகும் — இது பொருளாதாரக் கொள்கையை வகுக்கிறது, மலேசியக் கூட்டரசுப் பட்ஜெட்டைத் தயாரிக்கிறது, மேலும் நிதிசார் சட்டங்களையும் ஒழுங்குமுறையையும் மேற்பார்வையிடுகிறது. மலாய் மொழியில் இது Kementerian Kewangan, அதன் மைய இயந்திரம் கூட்டரசுக் கருவூலம் அல்லது Perbendaharaan ஆகும். இந்தப் பக்கம் இந்த நிறுவனத்தை விளக்கி, பின்னர் மக்கள் “MOF பதிவு” எனத் தேடும்போது குறிப்பிடும் தனியான விஷயத்திலிருந்து அதைப் பிரித்துக் காட்டுகிறது.

@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "وزارة المالية الماليزية", "menteri kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "الخزانة الاتحادية الماليزية", "الميزانية الاتحادية الماليزية", "Belanjawan", "MOF registration", "تسجيل MOF", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 كل رينغيت تجبيه الحكومة الاتحادية وتُنفقه يمرّ عبر مؤسسة واحدة: وزارة المالية. وهي وزارة حكومة ماليزيا المُكلَّفة بمسؤولية الإنفاق الحكومي وتحصيل الإيرادات معًا — فتُطوّر السياسة الاقتصادية، وتُعدّ الميزانية الاتحادية الماليزية، وتُشرف على التشريعات والتنظيمات المالية. وبالملايوية هي Kementerian Kewangan، ومحرّكها الأساسي هو الخزانة الاتحادية، أو Perbendaharaan. تشرح هذه الصفحة المؤسسة ثم تفكّها عن الأمر المنفصل الذي يقصده الناس حين يبحثون عن «تسجيل MOF».

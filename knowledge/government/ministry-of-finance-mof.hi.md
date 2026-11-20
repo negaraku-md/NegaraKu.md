@@ -71,6 +71,14 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "मलेशिया वित्त मंत्रालय", "menteri kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "संघीय खज़ाना मलेशिया", "मलेशिया संघीय बजट", "Belanjawan", "MOF registration", "MOF पंजीकरण", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
 ---
 
 संघीय सरकार जो भी रिंगिट एकत्र करती और ख़र्च करती है, वह एक ही संस्था से होकर गुज़रता है: वित्त मंत्रालय। यह मलेशिया सरकार का वह मंत्रालय है जिसे सरकारी ख़र्च और राजस्व जुटाने दोनों की ज़िम्मेदारी सौंपी गई है — यह आर्थिक नीति विकसित करता है, मलेशिया का संघीय बजट तैयार करता है, और वित्तीय विधान एवं विनियमन की देखरेख करता है। मलय में यह Kementerian Kewangan है, और इसकी मूल मशीनरी संघीय खज़ाना, या Perbendaharaan है। यह पृष्ठ संस्था की व्याख्या करता है और फिर उसे उस अलग चीज़ से सुलझाता है जिसका लोगों का अर्थ होता है जब वे "MOF पंजीकरण" खोजते हैं।

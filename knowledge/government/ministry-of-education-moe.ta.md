@@ -85,6 +85,14 @@ relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'A grand symmetrical tan government tower in Moorish-Islamic style with finialed turrets and a soaring arched central bay, the words KEMENTERIAN PENDIDIKAN MALAYSIA over its entrance, flanked by lower wings under a cloud-filled sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
 ---
 
 ஒரு மலேசியப் பள்ளி மாணவனைப் பற்றியது என்றால் — அவர்கள் படிக்கும் பாடத்திட்டம், அவர்களது மேசையிலுள்ள பாடநூல், அவர்கள் எழுதும் தேசியத் தேர்வு, அல்லது வகுப்பறையின் முன்னால் நிற்கும் அரசுப் பள்ளி ஆசிரியர் — அது கல்வி அமைச்சின் பொறுப்பாகும். மலாய் மொழியில் **Kementerian Pendidikan Malaysia** என அறியப்படும் இது எப்போதும் **KPM** எனச் சுருக்கப்படுகிறது; இதுவே நாட்டின் பல்கலைக்கழகத்துக்கு முந்தைய கல்வி முறையை நடத்தும் கூட்டாட்சி அமைச்சாகும். அது நடத்தாதது *எது* என்றால் — பல்கலைக்கழகங்கள்; இந்த எல்லை பலரையும் குழப்பத்தில் ஆழ்த்துகிறது.

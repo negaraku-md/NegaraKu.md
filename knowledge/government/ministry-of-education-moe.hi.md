@@ -85,6 +85,14 @@ relations: []
 related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "मलेशिया शिक्षा मंत्रालय", "Fadhlina Sidek", "Education Act 1996", "शिक्षा अधिनियम 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "menteri pendidikan", "moe.gov.my", "मलेशिया अनिवार्य शिक्षा", "मलेशिया स्कूल प्रणाली"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'A grand symmetrical tan government tower in Moorish-Islamic style with finialed turrets and a soaring arched central bay, the words KEMENTERIAN PENDIDIKAN MALAYSIA over its entrance, flanked by lower wings under a cloud-filled sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
 ---
 
 अगर मामला किसी मलेशियाई स्कूली बच्चे से जुड़ा है — वह जो पाठ्यक्रम पढ़ता है, उसकी मेज़ पर रखी पाठ्यपुस्तक, वह राष्ट्रीय परीक्षा जो वह देता है, या कक्षा के सामने खड़ा सरकारी स्कूल का शिक्षक — तो वह शिक्षा मंत्रालय के अधीन आता है। मलय में **Kementerian Pendidikan Malaysia** के नाम से जाना जाने वाला और लगभग हमेशा **KPM** तक संक्षिप्त किया जाने वाला यह वह संघीय मंत्रालय है जो देश की पूर्व-विश्वविद्यालयी शिक्षा प्रणाली चलाता है। जो यह *नहीं* चलाता वह है विश्वविद्यालय — एक ऐसी सीमा जो बहुत से लोगों को भ्रमित करती है।

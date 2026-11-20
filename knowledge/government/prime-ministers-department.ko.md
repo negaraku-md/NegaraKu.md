@@ -67,6 +67,14 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'The domed Perdana Putra building, seat of Malaysia''s Prime Minister''s Department, under a dramatic cloudy sky in Putrajaya'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
 ---
 
 말레이시아에는 나라의 일상적 정책 기구를 운영하는 단일 부처가 없습니다. 대신 하나의 부처가 있는데 — 그 부처는 대부분의 부처를 합친 것보다 큽니다.

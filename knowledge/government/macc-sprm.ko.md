@@ -86,6 +86,14 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'A long red-brick government building rising above a screen of green trees, its upper facade bearing the gold SPRM (MACC) lettering and emblem above rows of arched windows hung with small Malaysian flags'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
 ---
 
 MACC에 대한 대부분의 설명은 "말레이시아의 반부패 기관"에서 멈춥니다. 더 유용한 질문은 더 좁습니다. 즉, 이 법이 실제로 그 관료에게 무엇을 허용하는지, 그리고 누가 법적으로 그들을 감시할 권한이 있는지입니다.

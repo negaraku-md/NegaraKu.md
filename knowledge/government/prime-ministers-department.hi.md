@@ -67,6 +67,14 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "प्रधानमंत्री विभाग", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "सरकार के मुख्य सचिव", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "पुत्रजया", "संघीय सरकारी विभाग मलेशिया"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'The domed Perdana Putra building, seat of Malaysia''s Prime Minister''s Department, under a dramatic cloudy sky in Putrajaya'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
 ---
 
 मलेशिया में कोई एक ऐसा मंत्रालय नहीं है जो देश की रोज़मर्रा की नीति-मशीन चलाता हो। उसके
