@@ -59,6 +59,12 @@ relations:
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
 framework: explainer
+stayFacts:
+  who: 'Business owners and finance staff in Malaysia trying to work out which part of the SST regime, if any, applies to them.'
+  how: 'SST is not one tax but two unrelated single-stage taxes: sales tax on taxable goods manufactured in or imported into Malaysia (Sales Tax Act 2018), and service tax on prescribed taxable services provided in Malaysia (Service Tax Act 2018). First work out which applies, not whether you are registered: sales tax is charged by registered manufacturers and by Customs on import, while service tax is charged by registered providers of services in the prescribed groups. Most businesses only ever deal with one of the two, and each has its own registration test. Note that buying services from a supplier outside Malaysia (imported taxable services) can make you liable even if you are not SST-registered.'
+  cost: 'The article gives no single SST rate and no single SST threshold: rates are set by goods class (sales tax) or service group (service tax), and thresholds vary by group. Confirm the current rate and registration threshold for your specific goods or service with RMCD (Customs) or the MySST portal before relying on any figure, since these are the most rot-prone SST facts and were reset for several groups in 2025.'
+  watch: 'SST is not GST with a different name. Neither tax offers a general input tax credit, so chasing input tax credits is wasted effort. Do not assume one rate and one threshold apply across the board, and do not assume that being unregistered means no exposure: service tax on imported taxable services reaches any business acquiring such a service with no threshold at all, which is the most commonly missed SST liability among small Malaysian companies.'
+  next: 'Start with the SST registration guidance to see if you are in scope at all, since that answer determines everything else; if you already know you are registered, go to the service group rate and threshold reference. Confirm registration, current rates and thresholds against RMCD (Royal Malaysian Customs Department) via the MySST portal (mysst.customs.gov.my).'
 ---
 
 SST is described everywhere as "the GST replacement", which is the least useful

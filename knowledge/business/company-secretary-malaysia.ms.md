@@ -107,6 +107,12 @@ keywords:
   - "adakah saya perlu setiausaha syarikat"
   - "keperluan setiausaha syarikat Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Setiap pemilik syarikat Malaysia, termasuk syarikat dorman dan tidak berniaga, kerana Companies Act 2016 tidak membenarkan sebarang pengecualian syarikat kecil, pusing ganti atau kedormanan daripada keperluan setiausaha.'
+  how: 'Syarikat anda mesti mempunyai sekurang-kurangnya seorang setiausaha yang merupakan orang perseorangan, berumur 18 tahun ke atas, warganegara Malaysia atau pemastautin tetap yang lazimnya bermastautin di Malaysia, dan yang melepasi pintu kedua: sama ada keahlian badan profesional yang disenaraikan dalam Jadual Keempat atau lesen daripada SSM. Orang itu juga mesti didaftarkan dengan Pendaftar dan memegang sijil amalan yang sah. Lembaga Pengarah mesti melantik setiausaha pertama dalam tempoh 30 hari selepas pemerbadanan, dan jawatan itu tidak boleh kosong lebih daripada 30 hari pada satu-satu masa.'
+  cost: 'Tiada jadual rasmi yuran pengekalan setiausaha, jadi tiada harga boleh dipetik; skop, bukan harga, memacu sebut harga, dan yuran pemfailan berkanun SSM sendiri ialah kos lalu-terus dan diterbitkan secara berasingan. Minta surat pelantikan secara bertulis dan sahkan yuran berkanun SSM semasa terhadap Jadual Yuran ROC SSM.'
+  watch: 'Akta menetapkan siapa yang boleh menjadi setiausaha, bukan perkhidmatan yang mesti mereka berikan, jadi skop pengekalan bersifat kontrak, bukan berkanun, dan dua sebut harga yang amat berbeza biasanya ialah dua skop yang berbeza, bukan satu jujur dan satu tamak. Pengarah asing mungkin menyangka mereka boleh berkhidmat, tetapi ujian setiausaha menghendaki kewarganegaraan atau pemastautinan tetap, yang lebih ketat daripada ujian pemastautinan pengarah. Mengesahkan sijil amalan itu ialah risiko pengarah sendiri, bukan hanya risiko setiausaha.'
+  next: 'Dapatkan surat pelantikan dan baca pengecualian sebelum apa yang termasuk, kemudian sahkan nombor sijil amalan setiausaha terhadap daftar setiausaha SSM sebelum anda melantik.'
 ---
 
 Hampir semua yang ditulis mengenai setiausaha syarikat di Malaysia ditulis oleh

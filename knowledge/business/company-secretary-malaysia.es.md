@@ -107,6 +107,12 @@ keywords:
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Todo propietario de una sociedad malasia, incluidas las sociedades inactivas y las que no comercian, dado que la Companies Act 2016 (Ley de sociedades de 2016) no admite ninguna exención del requisito de secretario por tamaño reducido, por volumen de negocio ni por inactividad.'
+  how: 'Tu sociedad debe tener al menos un secretario que sea persona física, de 18 años o más, ciudadano malasio o residente permanente que resida habitualmente en Malasia, y que supere un segundo filtro: ya sea la pertenencia a un organismo profesional incluido en la Cuarta Lista (Fourth Schedule) o una licencia de SSM. Esa persona también debe estar registrada ante el Registrador y poseer un certificado de ejercicio en vigor. La Junta debe designar al primer secretario dentro de los 30 días siguientes a la constitución, y el cargo no puede quedar vacante más de 30 días seguidos.'
+  cost: 'No existe una tarifa oficial de honorarios fijos de secretaría, por lo que no hay un precio citable; lo que determina el presupuesto es el alcance, no el precio, y las propias tasas estatutarias de presentación de SSM se repercuten y se publican por separado. Pide la carta de encargo por escrito y confirma las tasas estatutarias vigentes de SSM frente a la Tabla de Tasas del ROC de SSM.'
+  watch: 'La Ley prescribe quién puede ser secretario, no qué servicios debe prestar, de modo que el alcance del encargo es contractual, no estatutario, y dos presupuestos radicalmente distintos suelen ser dos alcances diferentes, no uno honesto y otro abusivo. Un director extranjero puede suponer que puede ejercer, pero el requisito del secretario exige ciudadanía o residencia permanente, lo cual es más estricto que el requisito de residencia del director. Verificar el certificado de ejercicio es riesgo propio del director, no solo del secretario.'
+  next: 'Consigue la carta de encargo y lee las exclusiones antes que las inclusiones, luego verifica el número del certificado de ejercicio del secretario frente al registro de secretarios de SSM antes de designarlo.'
 ---
 
 Casi todo lo que se ha escrito sobre los secretarios de empresa en Malasia lo escribieron

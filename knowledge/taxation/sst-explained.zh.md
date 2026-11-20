@@ -61,6 +61,12 @@ relations:
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
 framework: explainer
+stayFacts:
+  who: '马来西亚的生意东主和财务人员，正设法弄清 SST 制度的哪一部分（如果有的话）适用于自己。'
+  how: 'SST 并非一种税，而是两种互不相关的单阶段税：对在马来西亚制造或进口到马来西亚的应税货品征收的销售税（Sales Tax Act 2018），以及对在马来西亚提供的指定应税服务征收的服务税（Service Tax Act 2018）。先弄清哪一种适用，而非你是否已注册：销售税由已注册的制造商征收、并由关税局在进口时征收，而服务税由指定类别内的已注册服务提供者征收。多数生意一辈子只会接触两者之一，而各有其自身的注册测试。请注意，向马来西亚境外的供应商购买服务（进口应税服务）即使你并未注册 SST，也可能使你负有缴税责任。'
+  cost: '文章没有给出单一的 SST 税率，也没有单一的 SST 门槛：税率按货品类别（销售税）或服务类别（服务税）设定，门槛则因类别而异。在依赖任何数字之前，就你所属的具体货品或服务，向 RMCD（关税局）或 MySST 门户核实现行税率和注册门槛，因为这些是 SST 事实中最易过时的部分，并于 2025 年对若干类别作了重设。'
+  watch: 'SST 不是换了名字的 GST。两种税都不提供一般的进项税抵扣，所以追逐进项税抵扣是白费工夫。不要以为单一税率和单一门槛全面通用，也不要以为未注册就等于没有风险：对进口应税服务征收的服务税，会触及任何取得此类服务的生意，而且完全没有门槛，这是马来西亚小型公司最常漏掉的 SST 责任。'
+  next: '先从 SST 注册指引着手，看看你是否根本在适用范围之内，因为那个答案决定其余一切；若你已知自己已注册，就前往服务类别的税率和门槛参考资料。向 RMCD（马来西亚皇家关税局）透过 MySST 门户（mysst.customs.gov.my）核实注册、现行税率和门槛。'
 ---
 
 到处都把 SST 描述成「GST 的替代品」，而这是关于它最没有用的一句话。GST 是一种税、

@@ -66,6 +66,12 @@ relations:
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["close sdn bhd", "strike off company Malaysia", "winding up company", "tutup syarikat sdn bhd", "deregister company SSM", "close company malaysia"]
 framework: decision
+stayFacts:
+  who: '操業を停止した、意図的に清算を進めている、財務的に窮迫している、または売却されようとしているSdn Bhdの取締役および株主。'
+  how: 'Sdn Bhdを閉じる方法は一つではありません。出口は5つあり、どれが使えるかはあなたの好みではなく状況が決めます。これを仕分けるのは2つの問いです。会社は債務を全額支払えるか、そしてまだ何かを所有しているか。資産・負債・担保・訴訟のいずれもない休眠会社は抹消（struck off）できます。資産・払込資本・子会社をまだ保有する支払能力のある会社は、社員による任意清算（members'' voluntary winding up）に進みます。債務を支払えない会社は、債権者による任意清算（creditors'' voluntary winding up）に進みますが、事業がまだ存続可能な場合は企業再建（corporate rescue：司法管理（judicial management）、スキーム・オブ・アレンジメント、またはcorporate voluntary arrangement）が適用されます。そして収益性のある事業は、通常は閉鎖ではなく売却されます。'
+  cost: '抹消は最も安い道で、清算（清算人（liquidator）が必要）はより高くつきますが、各ルートの正確な手数料と法定の期限は、それぞれのルート専用ページに記載されています。行動の前に、現行の数値と期限をSSMまたは清算人に確認してください。'
+  watch: '取引の停止は閉鎖ではありません。会社が正式に解散されるまで、年次申告書と財務諸表の提出義務は続き、過料も累積し続けます。抹消は最も頻繁に拒否されます（資本の払戻し、持株会社であること、保証会社（guarantor corporation）であることは失格事由です）。そして抹消された会社でさえ、7年間は裁判所によって復活させられる可能性があり、その間も取締役と社員は会社が存在していたかのように責任を負います。'
+  next: '2つの問いに正直に答え、次に該当する単一のルートページ（抹消、社員または債権者による任意清算、企業再建、または事業の売却）に進んでください。それぞれに手数料、法定の期限、出典が記載されています。登記簿と準拠規則はCompanies Act 2016に基づきSSM（ssm.com.my）が管理しています。'
 ---
 
 取引を停止することは、会社を閉鎖することではない。静かになったSdn Bhdは依然として

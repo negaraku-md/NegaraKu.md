@@ -66,6 +66,12 @@ relations:
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["close sdn bhd", "strike off company Malaysia", "winding up company", "tutup syarikat sdn bhd", "deregister company SSM", "close company malaysia"]
 framework: decision
+stayFacts:
+  who: '영업을 중단했거나, 의도적으로 정리 중이거나, 재정난에 처했거나, 매각 중인 Sdn Bhd의 이사와 주주.'
+  how: 'Sdn Bhd를 닫는 단일한 방법은 없습니다: 다섯 가지 출구가 있으며, 어느 것이 열려 있는지는 당신의 선호가 아니라 당신의 상황이 결정합니다. 두 가지 질문으로 정리됩니다 — 회사가 부채를 전액 갚을 수 있는가, 그리고 여전히 소유한 자산이 있는가. 자산·부채·담보·소송이 없는 휴면 회사는 등록 말소(strike off)할 수 있습니다. 여전히 자산, 납입 자본, 또는 자회사를 보유한 지급능력 있는 회사는 주주 임의 청산(members'' voluntary winding up)으로 넘어갑니다. 부채를 갚을 수 없는 회사는 채권자 임의 청산(creditors'' voluntary winding up)으로 가되, 사업이 여전히 존속 가능하다면 기업 구제(corporate rescue — 법정관리(judicial management), 화의(scheme of arrangement), 또는 기업 임의 협정(corporate voluntary arrangement))가 적용됩니다. 수익성 있는 사업은 대개 닫기보다 매각됩니다.'
+  cost: '등록 말소가 가장 저렴한 경로이고 청산(청산인(liquidator)이 필요함)은 비용이 더 들지만, 각 경로의 정확한 수수료와 법정 기한은 해당 경로의 개별 안내 페이지에 있습니다 — 실행 전에 현행 수치와 기한을 SSM이나 청산인에게 확인하세요.'
+  watch: '영업을 멈추는 것은 회사를 닫는 것이 아닙니다 — 회사가 공식적으로 해산될 때까지 연차보고서와 재무제표는 계속 제출 의무가 있고 과태료도 계속 쌓입니다. 등록 말소는 가장 자주 거부됩니다(자본 환급, 지주회사인 경우, 또는 보증 법인(guarantor corporation)인 경우 자격이 박탈됩니다). 그리고 말소된 회사라도 법원에 의해 7년간 복원될 수 있으며, 그동안 이사와 주주는 회사가 존재하는 것처럼 여전히 책임을 집니다.'
+  next: '두 가지 질문에 정직하게 답한 뒤, 해당되는 단일 경로 페이지(등록 말소, 주주 임의 청산 또는 채권자 임의 청산, 기업 구제, 또는 사업 매각)로 가세요. 각 페이지에는 수수료, 법정 기한, 출처가 담겨 있습니다. 등록부와 적용 규칙은 Companies Act 2016에 따라 SSM(ssm.com.my)이 관장합니다.'
 ---
 
 영업을 멈추는 것은 회사를 폐업하는 것이 아닙니다. 조용한 Sdn Bhd도 여전히

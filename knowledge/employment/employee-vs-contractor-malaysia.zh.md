@@ -86,6 +86,12 @@ relations:
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["employee vs contractor malaysia", "independent contractor malaysia", "worker classification malaysia", "contract for service vs contract of service", "gig worker malaysia classification"]
 framework: explainer
+stayFacts:
+  who: '任何聘用顾问、自由职业者、平台工作者或合约人员的马来西亚生意，正在判断一名受聘者是雇员、零工工作者，还是独立承包商。'
+  how: '马来西亚如今有三类：以服务合约（contract of service）受聘的雇员（受 Employment Act 1955 和 Industrial Relations Act 1967 涵盖）、以服务协议受聘且受 Gig Workers Act 2025 规管的零工工作者，以及以服务合约（contract for service）受聘的独立承包商。分类取决于实质，而非协议上的标签——Employment Act 的 s.2 以关系实际如何运作来定义服务合约。法院、JTKSM、EPF 和 PERKESO 采用一套以控制为核心的多因素测试，再加上整合程度、由谁提供工具、可否代工、财务风险、排他性，以及此人受到何种对待。这之所以重要，是因为整套法定义务只附着于雇员身上，而 Act 872 是以分类为前提，而非由它来裁定分类。'
+  cost: '是形态而非固定数字：雇员会带来 EPF、SOCSO、EIS、PCB、Employment Act 权益以及 s.20 的不公平解雇风险，而错误分类可能令这一切作为各自独立的风险同时被触发。零工工作者须承担一项平台社会保障扣款，部长声明其为暂定数额，而非已定的法定税率。请在聘用之时，向相关机构（KWSP/EPF，负责 SOCSO/EIS 的 PERKESO，LHDN，JTKSM）核实现行税率和义务。'
+  watch: '标签并不能定夺此事。一条声明双方无意建立雇佣关系的条款、一个顾问头衔，或由你自己系统生成的发票，都只是证据，在工作实况与之相悖时分量甚微；把雇员转为承包商却不改变职责、控制或整合程度，是对你不利的证据，而非抗辩。另请注意，OSHA 1994 的安全义务约束雇主、自雇人士和主事方，不论其分类为何。'
+  next: '就控制、整合、工具、代工和风险，对你历时最长的聘用关系逐一评分；凡有两项或以上指向雇佣关系，就把补缴往期供款的风险估算出来。对照官方机构核实分类和义务——就 Employment Act 和 Gig Workers Act 2025 向 JTKSM／人力资源部（mohr.gov.my），就供款向 EPF（KWSP）、PERKESO 和 LHDN。'
 ---
 
 在 2026 年 3 月 31 日之前，这在马来西亚是一道二选一的题目：contract **of** service

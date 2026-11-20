@@ -85,6 +85,12 @@ relations:
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["employee vs contractor malaysia", "independent contractor malaysia", "worker classification malaysia", "contract for service vs contract of service", "gig worker malaysia classification"]
 framework: explainer
+stayFacts:
+  who: '컨설턴트, 프리랜서, 플랫폼 노동자, 또는 계약직을 쓰면서 그 채용이 근로자(employee)인지, 긱 워커(gig worker)인지, 독립 계약자(independent contractor)인지 결정하는 모든 말레이시아 사업자.'
+  how: '말레이시아에는 이제 세 가지 범주가 있습니다: 고용 계약(contract of service)에 따른 근로자(Employment Act 1955 및 Industrial Relations Act 1967의 적용 대상), Gig Workers Act 2025(2025년 긱 워커법)에 따른 서비스 약정(service agreement)의 긱 워커, 그리고 도급 계약(contract for service)에 따른 독립 계약자입니다. 분류는 계약서의 명칭이 아니라 실질에 달려 있습니다 — Employment Act의 s.2는 고용 계약을 관계가 실제로 운영되는 방식으로 정의합니다. 법원, JTKSM, EPF, PERKESO는 지배(control)를 중심으로 통합성, 도구를 누가 제공하는가, 대체 가능성, 재정적 위험, 전속성, 그리고 그 사람이 어떻게 대우받는가를 더한 다요소 기준(multi-factor test)을 적용합니다. 이것이 중요한 이유는 법정 의무의 전체 묶음이 근로자에게만 붙기 때문이며, Act 872는 분류를 결정하는 것이 아니라 전제로 삼습니다.'
+  cost: '고정된 수치가 아니라 형태의 문제입니다: 근로자는 EPF, SOCSO, EIS, PCB, Employment Act상의 권리, 그리고 s.20의 부당해고 노출을 끌어들이며, 오분류(misclassification)는 이 모든 것을 별개의 노출로 한꺼번에 촉발할 수 있습니다. 긱 워커는 정착된 법정 세율이 아니라 당분간 정해진 것으로 당국이 밝힌 플랫폼 사회보장 공제를 부담합니다. 채용 시점에 해당 기관(KWSP/EPF, SOCSO/EIS는 PERKESO, LHDN, JTKSM)에 현행 세율과 의무를 확인하세요.'
+  watch: '명칭이 이를 결정하지 않습니다. 당사자가 고용을 의도하지 않는다는 조항, 컨설턴트라는 직함, 또는 당신 자신의 시스템에서 생성된 청구서는 증거일 뿐이며, 근로 실태가 이와 모순되는 경우 거의 무게를 갖지 못합니다. 직무, 지배, 통합성을 바꾸지 않은 채 근로자를 계약자로 전환하는 것은 방어가 아니라 당신에게 불리한 증거입니다. 또한 OSHA 1994(1994년 산업안전보건법)상의 안전 의무는 분류와 무관하게 고용주, 자영업자, 그리고 원청(principal)을 구속한다는 점에 유의하세요.'
+  next: '가장 오래 지속된 계약들을 지배, 통합성, 도구, 대체 가능성, 위험에 비추어 평가하세요. 둘 이상이 내부(근로자) 쪽을 가리키면 소급 기여금 노출을 산정하세요. 분류와 의무는 공식 기관과 대조해 검증하세요 — Employment Act와 Gig Workers Act 2025는 JTKSM/인적자원부(Ministry of Human Resources, mohr.gov.my), 기여금은 EPF(KWSP), PERKESO, LHDN에 확인하세요.'
 ---
 
 2026년 3월 31일까지 말레이시아에서 이것은 이분법적 질문이었습니다. 근로계약(contract **of**

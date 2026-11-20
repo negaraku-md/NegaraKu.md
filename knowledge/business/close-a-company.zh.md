@@ -67,6 +67,12 @@ relations:
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["close sdn bhd", "strike off company Malaysia", "winding up company", "tutup syarikat sdn bhd", "deregister company SSM", "close company malaysia"]
 framework: decision
+stayFacts:
+  who: '已停止营运、正被有计划地结束、陷入财务困境、或正被出售的 Sdn Bhd 的董事和股东。'
+  how: '结束一家 Sdn Bhd 没有单一方法：共有五种退出途径，而决定哪一种对你开放的是你的处境，而非你的偏好。两个问题即可理清——公司是否能全额偿还债务，以及它是否仍拥有任何资产。一家没有资产、负债、押记或诉讼的休眠公司可以被除名；一家仍持有资产、已缴股本或子公司的有偿债能力公司，会被导向成员自愿清盘；一家无力偿债的公司则走债权人自愿清盘，除非业务仍属可行，此时适用公司拯救（司法管理、债务重整安排或公司自愿安排）；而一门有盈利的生意通常是被出售，而非被结束。'
+  cost: '除名是最便宜的途径，而清盘（需要清盘人）成本较高，但每条途径的确切费用和法定时限都载于各自的途径页面——在行动前，向 SSM 或清盘人核实现行数字和时间表。'
+  watch: '停止经营并不等于结束——周年申报表和财务报表仍须照常提交，罚款也会持续累积，直到公司正式解散为止。除名最常被拒（资本返还、身为控股公司、或身为担保公司，都会令你失去资格），而即使已被除名的公司，也可在七年内由法院恢复注册，届时董事和成员仍如公司存在般承担责任。'
+  next: '诚实回答那两个问题，然后前往与之相符的那一条途径页面（除名、成员或债权人自愿清盘、公司拯救，或出售业务），每一页都载有费用、法定时限和出处。注册名册及其规管规则由 SSM（ssm.com.my）依据 Companies Act 2016 管理。'
 ---
 
 停止营业不等于关闭一家公司。一家安静下来的 Sdn Bhd 依然存在，依然要依 s.68 每年

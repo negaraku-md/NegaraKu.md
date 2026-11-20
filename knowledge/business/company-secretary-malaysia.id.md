@@ -107,6 +107,12 @@ keywords:
   - "adakah saya perlu setiausaha syarikat"
   - "keperluan setiausaha syarikat Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Setiap pemilik perusahaan Malaysia, termasuk perusahaan yang tidak aktif (dormant) dan yang tidak berdagang, karena Companies Act 2016 tidak memberikan pengecualian apa pun dari kewajiban memiliki setiausaha syarikat (company secretary) berdasarkan ukuran perusahaan kecil, omzet, maupun ketidakaktifan.'
+  how: 'Perusahaan Anda harus memiliki sekurang-kurangnya satu setiausaha yang merupakan orang perseorangan, berusia 18 tahun ke atas, warga negara atau penduduk tetap Malaysia yang lazim berdomisili di Malaysia, dan yang memenuhi syarat kedua: baik keanggotaan pada badan profesi yang tercantum dalam Jadwal Keempat (Fourth Schedule) maupun lisensi dari SSM. Orang tersebut juga harus terdaftar pada Pendaftar (Registrar) dan memegang sertifikat praktik (practising certificate) yang sah. Dewan (Board) harus menunjuk setiausaha pertama dalam 30 hari sejak pendirian, dan jabatan ini tidak boleh kosong lebih dari 30 hari sekaligus.'
+  cost: 'Tidak ada daftar resmi biaya retainer setiausaha, sehingga tidak ada harga yang dapat dikutip; lingkup pekerjaan, bukan harga, yang menentukan penawaran, dan biaya penyampaian dokumen menurut undang-undang (statutory lodgement fees) milik SSM bersifat pass-through dan diterbitkan secara terpisah. Mintalah surat perikatan (engagement letter) secara tertulis dan pastikan biaya statutori SSM terkini terhadap Tabel Biaya ROC (ROC Table of Fees) milik SSM.'
+  watch: 'Undang-undang menetapkan siapa yang boleh menjadi setiausaha, bukan layanan apa yang harus mereka berikan, sehingga lingkup retainer bersifat kontraktual, bukan statutori, dan dua penawaran yang sangat berbeda biasanya adalah dua lingkup yang berbeda, bukan satu yang jujur dan satu yang serakah. Seorang direktur asing mungkin mengira dirinya dapat menjabat, tetapi syarat setiausaha mewajibkan kewarganegaraan atau penduduk tetap, yang lebih ketat daripada syarat domisili direktur. Memverifikasi sertifikat praktik adalah risiko direktur itu sendiri, bukan hanya risiko setiausaha.'
+  next: 'Dapatkan surat perikatan dan baca bagian pengecualiannya sebelum bagian yang termasuk, lalu verifikasi nomor sertifikat praktik setiausaha terhadap daftar setiausaha milik SSM sebelum Anda menunjuknya.'
 ---
 
 Hampir semua yang ditulis mengenai sekretaris perusahaan di Malaysia ditulis oleh

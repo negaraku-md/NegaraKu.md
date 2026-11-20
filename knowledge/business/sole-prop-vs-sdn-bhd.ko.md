@@ -62,6 +62,12 @@ relations:
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["sole proprietorship vs sdn bhd", "enterprise vs sdn bhd", "perniagaan tunggal atau sdn bhd", "which business structure Malaysia", "sole proprietor tax Malaysia"]
 framework: decision
+stayFacts:
+  who: '말레이시아 반도(Peninsular Malaysia) 또는 라부안(Labuan)에서 처음 사업을 시작하며 개인사업자(sole proprietorship)로 등록할지 아니면 Sdn Bhd(비공개 유한책임회사)를 설립할지 결정하는 사람.'
+  how: '모든 것의 출발점이 되는 하나의 사실에서 시작하세요. 개인사업자는 법적으로 당신이 등록된 상호로 사업을 하는 것이므로 그 부채와 계약은 당신 개인의 것이 됩니다. 반면 Sdn Bhd는 별개의 법인격을 가지며, 책임은 당신이 보유한 주식 중 미납입분에 한정됩니다. 무한한 개인적 노출을 Sdn Bhd가 지속적으로 수반하는 규정 준수 부담과 견주어 보세요. 사업 규모가 작고, 책임 위험이 낮으며, 서류 작업을 최소화하고 싶다면 개인사업자 쪽으로 기울고, 직원·사업장·실패할 수 있는 납품물처럼 실질적 책임이 생기거나, 지분 조달이 필요하거나, 소유권 변경을 넘어 존속해야 한다면 Sdn Bhd 쪽으로 기우세요.'
+  cost: '개인사업자는 반복되는 등록 갱신 비용이 낮고 지속적인 신고 의무가 거의 없습니다. Sdn Bhd는 일회성 설립 비용이 더 높은 데다 거주 이사(resident director)와 면허를 보유한 비서(licensed secretary)가 의무이며, 연차보고서(annual return), 재무제표, 그리고 대개 감사가 필요해 휴면 회사에도 적용되는 반복적인 규정 준수 비용이 발생합니다. 세금은 별개의 변수입니다. 개인사업자는 개인 누진세율을, Sdn Bhd는 법인세율을 적용받는데, 적정 수준의 이익에서는 개인사업자가 세금을 덜 내는 경우가 많으며, 법인세율의 이점은 이익이 지속적으로 높아야 나타나고 그 SME 요건도 대부분의 사람이 생각하는 것보다 더 좁습니다. 모든 현행 금액·세율·기준은 SSM(등록)과 LHDN(세금)에 반드시 확인하세요.'
+  watch: '흔한 함정은 등록 수수료만으로 결정하는 것입니다. Sdn Bhd의 반복적 규정 준수 비용은 일회성 수수료 차이를 크게 웃돌며, 개인사업자의 무한책임은 그 둘을 모두 압도합니다. Sdn Bhd가 항상 세금을 덜 낸다고 단정하지 말고, 구조를 쉽게 바꿀 수 있으리라 기대하지 마세요(전환이란 새 법인을 설립하고 계약·자산·면허를 경개(novation)하는 것이며, 상호와 영업권은 이전되지 않습니다). 또한 개인사업자에 관한 내용은 사바(Sabah)와 사라왁(Sarawak)이 전혀 다른 제도를 운영하므로 반도 말레이시아와 라부안에만 적용된다는 점을 유의하세요.'
+  next: '책임과 규정 준수의 적합성을 기준으로 결정한 뒤, 현행 수수료와 세금 수치를 SSM과 LHDN에 확인하세요. 개인사업자 등록은 SSM의 EzBiz 포털을 이용하고, Sdn Bhd 설립은 SSM의 설립 절차를 따르세요. 법인세율에 의존하기 전에 최신 SME 세금 요건을 LHDN에 확인하세요.'
 ---
 
 대부분의 사람들은 이를 비용 문제로 접근하고 잘못된 답을 얻습니다. 등록비는

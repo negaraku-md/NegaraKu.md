@@ -106,6 +106,12 @@ keywords:
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Mọi chủ công ty Malaysia, kể cả các công ty không hoạt động và không kinh doanh, vì Companies Act 2016 không cho phép bất kỳ miễn trừ nào khỏi yêu cầu về thư ký dựa trên quy mô công ty nhỏ, doanh thu hay tình trạng không hoạt động.'
+  how: 'Công ty của bạn phải có ít nhất một thư ký là một thể nhân, từ 18 tuổi trở lên, là công dân Malaysia hoặc thường trú nhân cư trú thông thường tại Malaysia, và phải vượt qua một cửa thứ hai: hoặc là thành viên của một tổ chức nghề nghiệp được liệt kê trong Phụ lục thứ Tư (Fourth Schedule), hoặc có giấy phép từ SSM. Người đó cũng phải được đăng ký với Cơ quan đăng ký và nắm giữ một chứng chỉ hành nghề còn hiệu lực. Hội đồng quản trị phải bổ nhiệm thư ký đầu tiên trong vòng 30 ngày kể từ khi thành lập, và vị trí này không được bỏ trống quá 30 ngày mỗi lần.'
+  cost: 'Không có biểu phí giữ chỗ (retainer) chính thức cho dịch vụ thư ký, nên không có mức giá nào để trích dẫn; phạm vi công việc, chứ không phải giá, quyết định báo giá, và các khoản phí nộp hồ sơ theo luật của chính SSM là khoản chuyển tiếp (pass-through) và được công bố riêng. Hãy yêu cầu thư mời hợp tác (engagement letter) bằng văn bản và xác nhận các khoản phí theo luật hiện hành của SSM theo Biểu phí ROC (ROC Table of Fees) của SSM.'
+  watch: 'Đạo luật quy định ai có thể làm thư ký, chứ không quy định họ phải cung cấp những dịch vụ gì, nên phạm vi phí giữ chỗ là theo hợp đồng, không phải theo luật, và hai báo giá chênh lệch rất lớn thường là hai phạm vi công việc khác nhau, chứ không phải một bên trung thực và một bên tham lam. Một giám đốc nước ngoài có thể tưởng rằng mình có thể đảm nhận vai trò này, nhưng yêu cầu về thư ký đòi hỏi quốc tịch hoặc thường trú, vốn chặt chẽ hơn yêu cầu về cư trú đối với giám đốc. Việc xác minh chứng chỉ hành nghề là rủi ro của chính giám đốc, chứ không chỉ của thư ký.'
+  next: 'Lấy thư mời hợp tác và đọc các điều khoản loại trừ trước khi đọc các điều khoản bao gồm, rồi xác minh số chứng chỉ hành nghề của thư ký theo sổ đăng ký thư ký của SSM trước khi bạn bổ nhiệm.'
 ---
 
 Gần như mọi điều được viết về thư ký công ty ở Malaysia đều do các thư ký công ty viết.
