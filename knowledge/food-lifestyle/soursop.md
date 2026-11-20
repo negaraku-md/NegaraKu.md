@@ -87,8 +87,8 @@ heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papa
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
-heroKind: 'actual'
-heroOrigin: 'third-party'
+heroKind: "actual"
+heroOrigin: "third-party"
 heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 images:
   - role: scene

@@ -81,8 +81,8 @@ heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass
 heroCredit: 'Iybtk / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
-heroKind: 'representative'
-heroOrigin: 'third-party'
+heroKind: "representative"
+heroOrigin: "third-party"
 heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
 images:
   - role: scene

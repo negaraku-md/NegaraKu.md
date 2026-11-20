@@ -84,8 +84,8 @@ heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mor
 heroCredit: 'Mdsheth1986 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
-heroKind: 'actual'
-heroOrigin: 'third-party'
+heroKind: "actual"
+heroOrigin: "third-party"
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 images:
   - role: scene

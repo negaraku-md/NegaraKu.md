@@ -92,8 +92,8 @@ heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
-heroKind: 'actual'
-heroOrigin: 'third-party'
+heroKind: "actual"
+heroOrigin: "third-party"
 heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 

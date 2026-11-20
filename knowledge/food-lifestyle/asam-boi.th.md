@@ -88,8 +88,8 @@ heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as 
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
-heroKind: 'actual'
-heroOrigin: 'third-party'
+heroKind: "actual"
+heroOrigin: "third-party"
 heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 images:
   - role: scene

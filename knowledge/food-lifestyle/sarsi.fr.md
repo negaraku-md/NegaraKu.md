@@ -89,8 +89,8 @@ heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with
 heroCredit: 'Markmark28 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
-heroKind: 'representative'
-heroOrigin: 'third-party'
+heroKind: "representative"
+heroOrigin: "third-party"
 heroSubject: 'Sarsaparilla soda (sarsi)'
 images:
   - role: scene
