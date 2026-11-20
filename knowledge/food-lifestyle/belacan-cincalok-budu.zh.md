@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 走进任何一个马来西亚的巴刹（湿巴刹）、甘榜厨房，或是杂货店（kedai runcit）摆满瓶装调味料的货架，你都会遇到同一组名字：**belacan（虾膏）**、**cincalok（马来腌虾）** 和 **budu（鱼露）**。它们看起来、闻起来仿佛同属一个家族——都咸、都浓烈、都是让小型海洋生物在盐里发酵而成——在菜单和食谱里这些名字也常被随意混用。但它们是三种截然不同的东西，制法不同，起点不同，用法也不同。弄清楚哪个是哪个，能让你不至于把本该生吃的东西拿去烘烤，或者在该用虾膏的地方倒了鱼露。

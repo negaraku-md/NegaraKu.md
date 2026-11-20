@@ -84,6 +84,14 @@ drinkFacts:
   halal: "腌制水果；asam boi 饮品由水果、糖和水制成，不含酒精，所以它们本身是清真的。就摊档饮品而言，保证附属于店面；就包装产品而言，则看包装上的认证标志——请认准标志，而非想当然。"
   served: "最经典的是 limau asam boi——酸柑青柠配酸梅糖浆，盛在冰块上，放几颗酸梅，有时再加一撮盐。也会加进汽水（Sprite asam boi）和 Ribena。它也可以单独当零食吃。"
   where: "遍布全国的 mamak 与 kopitiam 饮料柜台、小贩摊档和干货店有售；包装的 asam boi 在超市和杂货店出售。"
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 有些味道难以忘怀，而 **asam boi** 正是其中之一：一颗小巧、起皱、晒干的酸梅，又甜、

@@ -84,6 +84,14 @@ drinkFacts:
   halal: "En tant que soda commercial d'un grand fabricant, le Sarsi porte une certification halal ; la vérification la plus sûre est la marque halal imprimée sur la bouteille ou la canette. Cherchez-la sur l'emballage."
   served: "Servi frais à la bouteille ou à la canette. Une variation locale très appréciée est le « Sarsi susu » — du Sarsi avec du lait évaporé, concentré ou frais versé pour faire un flotteur crémeux. Sucré et pétillant ; une gourmandise soda, non une boisson infusée de kopitiam."
   where: "On le trouve dans les épiceries, les supermarchés, les kopitiam et aux rassemblements familiaux de tout le pays — un incontournable nostalgique de l'étagère réfrigérée."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 Toutes les boissons de la table malaisienne ne sont pas infusées, tirées ou pressées.

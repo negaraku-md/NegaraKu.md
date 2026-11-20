@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 マレーシアのどの市場（wet market）でも、カンポン（kampung）の台所でも、クダイ・ルンチッ（kedai runcit、よろず屋）の瓶詰め調味料の棚でも、同じ三つの名前に出会います——**ブラチャン（belacan）**、**チンチャロ（cincalok）**、**ブドゥ（budu）**。見た目も匂いも一つの家族のようで——どれも塩辛く、どれも香りが強く、どれも小さな海の生き物を塩で発酵させて作られ——メニューやレシピでも名前が大まかに使われがちです。しかしこれらは別々に作られた、出発点の異なる、使い方の異なる三つの別物です。どれがどれかを知っておけば、生で食べるべきものをあぶってしまったり、エビペーストを使うべきところに魚醤を注いでしまったりせずにすみます。

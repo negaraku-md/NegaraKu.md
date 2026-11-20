@@ -82,6 +82,14 @@ drinkFacts:
   halal: "As a commercial soft drink from a major manufacturer, Sarsi carries halal certification; the surest check is the halal mark printed on the bottle or can. Look for it on the packaging."
   served: "Served chilled from the bottle or can. A beloved local variation is 'Sarsi susu' — Sarsi with evaporated, condensed or fresh milk poured in to make a creamy float. Sweet and fizzy; a soft-drink treat, not a brewed kopitiam drink."
   where: "Found in sundry shops, supermarkets, kopitiam and at family gatherings across the country — a nostalgic staple of the chilled shelf."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 Not every drink on the Malaysian table is brewed, pulled or pressed. Some come from a

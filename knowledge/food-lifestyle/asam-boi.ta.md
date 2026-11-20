@@ -83,6 +83,14 @@ drinkFacts:
   halal: "பதப்படுத்தப்பட்ட பழம்; asam boi பானங்கள் பழம், சர்க்கரை மற்றும் தண்ணீர் மது இல்லாமல், எனவே அவை தம்மளவிலேயே ஹலால். உத்தரவாதம் ஒரு கடை பானத்துக்கு வளாகத்துடனும், ஒரு பேக்கேஜ் செய்யப்பட்ட பொருளின் சான்றிதழ் முத்திரையுடனும் தொடர்புடையது — கருதிக்கொள்வதற்குப் பதிலாக அதைத் தேடுங்கள்."
   served: "மிகவும் செந்நெறியாக limau asam boi ஆக — calamansi எலுமிச்சை புளிப்பு-பிளம் கரைசலுடன், ஐஸ் மேல், சில பிளம் துண்டுகளுடனும் சில நேரங்களில் ஒரு சிட்டிகை உப்புடனும். குளிர்பானங்களிலும் (Sprite asam boi) Ribena-விலும் சேர்க்கப்படுகிறது. தனியாக ஒரு சிற்றுண்டியாகவும் உண்ணப்படுகிறது."
   where: "நாடு முழுவதுமுள்ள மாமாக் மற்றும் கோபிதியாம் பானக் கவுண்டர்கள், ஹாக்கர் கடைகள் மற்றும் உலர்-பொருட்கள் கடைகளில் காணப்படுகிறது; பேக்கேஜ் செய்யப்பட்ட asam boi பேரங்காடிகளிலும் சில்லறைக் கடைகளிலும் விற்கப்படுகிறது."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 சில சுவைகளை மறப்பது கடினம், மேலும் **asam boi** அவற்றுள் ஒன்று: ஒரே நேரத்தில் இனிப்பு,

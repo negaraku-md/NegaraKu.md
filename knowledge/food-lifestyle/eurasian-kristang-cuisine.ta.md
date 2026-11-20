@@ -87,6 +87,14 @@ verificationNeeded:
   - "sugee கேக்கின் சொற்பிறப்பும் வகைப்பாடும் (ரவையும் வெண்ணெயும் கொண்ட ஒரு கொண்டாட்ட கேக்; அதன் பெயர் பொதுவாக ரவைக்கான தென்னாசிய சொல்லிலிருந்து கண்டறியப்படுகிறது, செய்முறை பிரிட்டிஷ் Madeira கேக்குடன் ஒப்பிடப்படுகிறது) — சமையல்-வரலாற்று மூலத்துடன் உறுதிப்படுத்தவும்."
   - "Portuguese Settlement நிறுவப்பட்ட ஆண்டு (பொதுவாக 1933 எனக் கூறப்படுகிறது) மற்றும் pang susi மற்றும் சவுக்கறி உணவுகள் போன்ற பல வீட்டு உணவுகள் அரிதாகி வருகின்றன என்ற கூற்று — ஒரு முதன்மை அல்லது பாரம்பரிய மூலத்துடன் உறுதிப்படுத்தவும்."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 மலாக்காவின் ஒரு மலாய் சமையலறையில் ஒரு கறியை ஆர்டர் செய்யுங்கள், உங்களுக்கு தேங்காய்ப்பாலும் கரு வேம்பும் (lemongrass) சுவைக்கும். இரண்டு தெருக்கள் தள்ளி, Portuguese Settlement-இல் ஒன்றை ஆர்டர் செய்யுங்கள், உங்களை முதலில் தாக்குவது வினிகர் — கூர்மையானது, கிட்டத்தட்ட தீவிரமானது, கடுகாலும் மிளகாயாலும் வெட்டப்பட்டது. அந்தப் புளிப்புதான் [Kristang](/ta/arts-culture/kristang-eurasian-culture) சமையலின் கைரேகை, மலேசியாவின் போர்த்துகீசிய-யூரேசிய சமூகத்தின் உணவு, மேலும் இந்த மேசை தீபகற்பத்தின் மற்ற பகுதிகளைத் தவிர வேறு எங்கிருந்தோ வளர்ந்தது என்பதற்கான தெளிவான அடையாளம் அது.

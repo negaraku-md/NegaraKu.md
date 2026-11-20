@@ -84,6 +84,14 @@ drinkFacts:
   halal: "大手メーカーの市販の清涼飲料として、Sarsi はハラル認証を帯びている。最も確かな確認は瓶や缶に印刷されたハラルマークだ。包装で探すこと。"
   served: "瓶や缶から冷やして供される。愛される地元の変種は「Sarsi susu」——無糖練乳、加糖練乳、あるいは生乳を注ぎ入れてこくのあるフロートにした Sarsi だ。甘く発泡——淹れた kopitiam の飲み物ではなく清涼飲料の嗜好品だ。"
   where: "全国の雑貨店、スーパーマーケット、kopitiam、そして家族の集まりで見かける——冷蔵棚の懐かしい定番だ。"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 マレーシアの食卓のどの飲み物も淹れたり、引っ張ったり、搾ったりされるわけではない。瓶から来るものも

@@ -87,6 +87,14 @@ verificationNeeded:
   - "sugee 蛋糕的词源与归类（一款用粗粒小麦粉与牛油做的庆典蛋糕;其名普遍追溯到南亚语中表示粗粒小麦粉的词，而食谱常被比作英式 Madeira 蛋糕）——请以饮食史来源核实。"
   - "Portuguese Settlement 的设立年份（普遍记为1933年）以及好几道家常菜如 pang susi 和杂碎菜肴正日渐稀少的说法——请以一手或文化遗产来源核实。"
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 在马六甲的马来厨房点一道咖喱，你尝到的是椰浆与香茅。隔两条街，在 Portuguese

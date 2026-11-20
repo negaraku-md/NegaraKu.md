@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 เดินผ่านตลาดสดมาเลเซีย ครัวในกัมปง หรือชั้นวางเครื่องปรุงแบบขวดในร้านชำ (kedai runcit) ที่ไหนก็ตาม คุณจะได้พบกับชื่อสามอย่างชุดเดิมนี้: **เบลาจัน (belacan / กะปิมาเลย์)** **จินจาโลก (cincalok)** และ **บูดู (budu / น้ำปลาหมักปลากะตัก)** ทั้งสามหน้าตาและกลิ่นเหมือนอยู่ในตระกูลเดียวกัน — เค็มเหมือนกัน กลิ่นแรงเหมือนกัน ทำโดยการปล่อยให้สัตว์ทะเลตัวเล็กหมักในเกลือเหมือนกัน — และในเมนูกับสูตรอาหารชื่อเหล่านี้ก็มักถูกใช้แบบหลวม ๆ แต่ทั้งสามเป็นคนละสิ่งกันอย่างชัดเจน ทำด้วยกรรมวิธีต่างกัน จากจุดตั้งต้นต่างกัน และใช้ต่างกัน การรู้ว่าอันไหนเป็นอันไหนช่วยให้คุณไม่ต้องคั่วสิ่งที่ควรกินสด หรือเทน้ำปลาลงไปในที่ที่ควรใส่กะปิ

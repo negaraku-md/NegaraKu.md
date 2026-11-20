@@ -83,6 +83,14 @@ drinkFacts:
   halal: "Como refresco comercial de un gran fabricante, Sarsi cuenta con certificación halal; la comprobación más segura es la marca halal impresa en la botella o lata. Búscala en el envase."
   served: "Se sirve frío de la botella o la lata. Una querida variación local es el «Sarsi susu» —Sarsi con leche evaporada, condensada o fresca para hacer un float cremoso. Dulce y gaseoso; un capricho refresquero, no una bebida preparada de kopitiam."
   where: "Se encuentra en colmados, supermercados, kopitiam y reuniones familiares por todo el país —un elemento nostálgico del estante refrigerado."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 No toda bebida de la mesa malasia es preparada, estirada o prensada. Algunas vienen de

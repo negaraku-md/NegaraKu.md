@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 تجوّلْ في أيّ سوق رطب ماليزيّ، أو مطبخ قرويّ (kampung)، أو رفّ توابل معبّأة في دكّان بقالة (kedai runcit)، وستلتقي الثلاثيّ نفسه من الأسماء: **belacan** و**cincalok** و**budu**. تبدو هذه الثلاثة وتفوح رائحتها كأنها من عائلة واحدة — كلّها مالحة، كلّها نفّاذة، كلّها تُصنع بترك كائنات بحرية صغيرة تتخمّر في الملح — وفي قوائم الطعام والوصفات تُستعمل أسماؤها على نحو فضفاض. لكنها ثلاثة أشياء متمايزة، تُصنع بطرق مختلفة، من نقاط انطلاق مختلفة، وتُستخدم بطرق مختلفة. ومعرفة أيّها أيّ تنقذك من تحميص شيء كان ينبغي أن يُؤكل نيئًا، أو صبّ صلصة سمك حيث ينبغي معجون روبيان.

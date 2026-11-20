@@ -77,6 +77,14 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["첫 파사르 말람", "파사르 말람 가는 법", "파사르 말람 말레이시아 가이드", "파사르 말람 tapau", "DuitNow QR 파사르 말람", "파사르 말람 할랄", "말레이시아 야시장 주문법", "파사르 말람 자리", "파사르 말람 식품 안전"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
 ---
 
 파사르 말람(pasar malam)에 처음 가면 어리둥절할 수 있습니다. 양옆의 가게 벽

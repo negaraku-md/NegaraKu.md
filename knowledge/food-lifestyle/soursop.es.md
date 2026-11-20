@@ -83,6 +83,14 @@ drinkFacts:
   halal: "El zumo de guanábana es pulpa de fruta batida con agua o leche y azúcar, sin alcohol, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve frío, batido fresco al momento —más ligero con agua, más rico con leche como batido. Una bebida de fruta refrescante; disfrútala como tal, y ten en cuenta que las afirmaciones de salud y «anticáncer» atribuidas a la guanábana no están probadas en humanos y no sustituyen la atención médica."
   where: "Se encuentra en zumerías, puestos de hawker y puestos de fruta por todo el país, dondequiera que se baten zumos frescos de fruta tropical."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 Espinosa, verde y pesada, la **guanábana** parece a primera vista un pequeño durián

@@ -87,6 +87,14 @@ verificationNeeded:
   - "The etymology and classification of sugee cake (a semolina-and-butter celebration cake; the name is commonly traced to the South Asian word for semolina and the recipe compared to British Madeira cake) — confirm with a culinary-history source."
   - "The founding year of the Portuguese Settlement (commonly given as 1933) and the claim that several home dishes such as pang susi and offal dishes are becoming rare — confirm with a primary or heritage source."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 Order a curry in a Melaka Malay kitchen and you taste coconut and lemongrass.

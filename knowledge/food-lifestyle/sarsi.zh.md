@@ -83,6 +83,14 @@ drinkFacts:
   halal: "作为来自大型制造商的商业汽水，Sarsi 带有清真认证；最可靠的查验是印在瓶身或罐身上的清真标志。请在包装上找找它。"
   served: "从瓶中或罐中冰镇饮用。一种广受喜爱的本地变化是「Sarsi susu」——Sarsi 倒入淡奶、炼乳或鲜奶，做成一杯绵密的漂浮。香甜而带气；一款汽水美味，而非现冲的 kopitiam 饮品。"
   where: "遍布全国的杂货店、超市、kopitiam 与家庭聚会中都有——冷藏货架上的怀旧常备品。"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 并非马来西亚餐桌上的每一款饮品都是现冲、现拉或现压的。有些来自瓶子——而其中少有

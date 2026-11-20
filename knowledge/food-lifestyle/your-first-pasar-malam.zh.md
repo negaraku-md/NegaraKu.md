@@ -77,6 +77,14 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["第一次逛 pasar malam", "pasar malam 怎么逛", "马来西亚 pasar malam 指南", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam 清真", "马来西亚夜市如何点餐", "pasar malam 座位", "pasar malam 食品安全"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
 ---
 
 第一次逛 pasar malam 可能会让人晕头转向：两排摊位之间挤满了缓缓流动的人潮、

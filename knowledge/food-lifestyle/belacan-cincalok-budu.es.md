@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 Recorre cualquier mercado húmedo malayo, cualquier cocina de kampung o cualquier estante de condimentos embotellados de un kedai runcit y te toparás con el mismo trío de nombres: **belacan** (pasta de gambas fermentada), **cincalok** (cencaluk) y **budu** (salsa de anchoa fermentada). Se ven y huelen como si pertenecieran a una misma familia —todos salados, todos intensos, todos hechos dejando fermentar pequeñas criaturas marinas en sal— y en los menús y las recetas los nombres se usan con poca precisión. Pero son tres cosas distintas, elaboradas de forma diferente, a partir de puntos de partida diferentes y usadas de maneras diferentes. Saber cuál es cuál te evita tostar algo que debería comerse crudo, o verter una salsa de pescado donde corresponde una pasta de gambas.

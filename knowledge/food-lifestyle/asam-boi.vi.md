@@ -83,6 +83,14 @@ drinkFacts:
   halal: "Trái cây bảo quản; các thức uống asam boi là trái cây, đường và nước không có cồn, nên tự chúng là halal. Sự bảo đảm gắn với cơ sở bán hàng đối với một thức uống tại quầy, hoặc dấu chứng nhận trên sản phẩm đóng gói — hãy tìm dấu đó thay vì mặc định."
   served: "Kinh điển nhất là limau asam boi — chanh calamansi với siro xí muội, với đá, cùng vài miếng mơ và đôi khi một nhúm muối. Cũng được thêm vào nước ngọt (Sprite asam boi) và vào Ribena. Cũng được ăn trực tiếp như một món ăn vặt."
   where: "Tìm thấy tại các quầy đồ uống mamak và kopitiam, quầy hàng rong và cửa hàng đồ khô khắp cả nước; asam boi đóng gói được bán ở siêu thị và các cửa hàng tạp hóa."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 Có những hương vị khó quên, và **asam boi** là một trong số đó: một quả mơ chua sấy khô

@@ -83,6 +83,14 @@ drinkFacts:
   halal: "น้ำทุเรียนเทศคือเนื้อผลไม้ปั่นกับน้ำหรือนมและน้ำตาล ไม่มีแอลกอฮอล์ ตัวเครื่องดื่มจึงฮาลาล การรับประกันฮาลาลผูกอยู่กับสถานประกอบการ ดังนั้นผู้ที่ต้องการการรับรองควรตรวจสอบกับแผงแต่ละแห่ง"
   served: "เสิร์ฟเย็น ปั่นสดตามสั่ง — เบากว่าด้วยน้ำเปล่า เข้มข้นกว่าด้วยนมในแบบสมูทตี้ เป็นเครื่องดื่มผลไม้ที่สดชื่น; ดื่มเพลิน ๆ ในฐานะนั้น และพึงทราบว่าการอ้างด้านสุขภาพและ 'ต้านมะเร็ง' ที่ผูกกับทุเรียนเทศยังไม่ได้รับการพิสูจน์ในมนุษย์และไม่ใช่สิ่งทดแทนการรักษาพยาบาล"
   where: "พบได้ตามร้านน้ำผลไม้ แผงหาบเร่ และแผงผลไม้ทั่วประเทศ ที่ใดก็ตามที่มีการปั่นน้ำผลไม้เขตร้อนสด ๆ"
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 หนามแหลม สีเขียว และหนัก **ทุเรียนเทศ** เมื่อมองแวบแรกดูเหมือนทุเรียนลูกเล็ก —

@@ -77,6 +77,14 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["初めてのパサー・マラム", "パサー・マラム 行き方", "パサー・マラム マレーシア ガイド", "tapau パサー・マラム", "DuitNow QR パサー・マラム", "パサー・マラム ハラル", "マレーシア 夜市 注文方法", "パサー・マラム 座席", "パサー・マラム 衛生"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
 ---
 
 初めてのパサー・マラム（pasar malam）は戸惑うかもしれません。二列に並んだ

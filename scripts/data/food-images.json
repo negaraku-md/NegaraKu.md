@@ -1,0 +1,142 @@
+{
+  "your-first-pasar-malam": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pasar_Malam.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Iybtk",
+      "page": "https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg",
+      "kind": "representative",
+      "subject": "pasar malam fried-snack food stall glowing under warm lights at night",
+      "alt": "A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Satay_at_Night.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "OpenRegent",
+        "page": "https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg",
+        "kind": "actual",
+        "subject": "skewers of satay-style grilled snacks steaming on a hot plate at a night market",
+        "alt": "Bamboo skewers of glazed grilled snacks sizzling and steaming on a black hot plate at a night-market stall"
+      }
+    ]
+  },
+  "soursop": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Soursop_Fruit_on_display_at_Fruit_Garden_Market_%2C_Port-Harcourt.jpg",
+      "license": "CC BY 4.0",
+      "by": "Iwai-Dialax",
+      "page": "https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg",
+      "kind": "actual",
+      "subject": "fresh whole green spiky soursop (durian belanda) fruit piled on a market display",
+      "alt": "A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Picture_of_Soursop_and_lime.jpg",
+        "license": "CC BY 4.0",
+        "by": "Nubelbariloe",
+        "page": "https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg",
+        "kind": "actual",
+        "subject": "whole soursop fruit beside a basket of fresh limes at a fruit stall",
+        "alt": "Spiky green soursop fruit in a metal bowl next to a blue basket of bright green limes at a market"
+      }
+    ]
+  },
+  "sarsi": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Root_beer_in_glass_mug.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Markmark28",
+      "page": "https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg",
+      "kind": "representative",
+      "subject": "Sarsaparilla soda (sarsi)",
+      "alt": "A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Glass_of_Asia_Sarsae.jpg",
+        "license": "CC0",
+        "by": "Mx. Granger",
+        "page": "https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg",
+        "kind": "actual",
+        "subject": "glass of Asia Sarsae sarsaparilla soft drink",
+        "alt": "A glass filled with a dark reddish-brown fizzy sarsaparilla (sarsae) soft drink"
+      }
+    ]
+  },
+  "asam-boi": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Chinese_preserved_plum_snack.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Alancrh",
+      "page": "https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg",
+      "kind": "actual",
+      "subject": "wrinkled brown dried preserved plums (asam boi) in a dish",
+      "alt": "A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Salted_Plum_%28%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Nix Sunyata",
+        "page": "https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg",
+        "kind": "actual",
+        "subject": "close-up of two salted preserved plums (buay khem / asam boi)",
+        "alt": "Close-up of two wrinkled, salt-coated dried preserved plums"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Buai_khem.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Takeaway",
+        "page": "https://commons.wikimedia.org/wiki/File:Buai_khem.jpg",
+        "kind": "actual",
+        "subject": "a bowl of salted dried preserved plums (buai khem / asam boi)",
+        "alt": "A clear glass bowl piled with salt-frosted dried preserved plums"
+      }
+    ]
+  },
+  "belacan-cincalok-budu": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sambal_Belacan.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Mdsheth1986",
+      "page": "https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg",
+      "kind": "actual",
+      "subject": "Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)",
+      "alt": "Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Cincalok%2C_shallots%2C_chilli.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "Alpha from Melbourne, Australia",
+        "page": "https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg",
+        "kind": "actual",
+        "subject": "Cincalok served as a condiment with sliced shallots and chilli",
+        "alt": "A dish of pinkish cincalok (fermented tiny shrimp) mixed with sliced shallots and red chilli"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/YosriBuduMempelam.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Yosri",
+        "page": "https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg",
+        "kind": "actual",
+        "subject": "Budu (fermented anchovy sauce) dip with sliced mango, shallots and chilli",
+        "alt": "A glass bowl of dark brown budu anchovy sauce with strips of unripe mango, shallots and red chilli"
+      }
+    ]
+  },
+  "eurasian-kristang-cuisine": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sugee_cake_at_Food_for_Thought%2C_Singapore_-_20130615.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Jacklee",
+      "page": "https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg",
+      "kind": "actual",
+      "subject": "A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking",
+      "alt": "A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork"
+    },
+    "body": []
+  }
+}

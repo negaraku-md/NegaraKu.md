@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Fruit confit ; les boissons à l'asam boi sont du fruit, du sucre et de l'eau sans alcool, de sorte qu'elles sont halal en elles-mêmes. La garantie porte sur l'établissement pour une boisson de stand, ou sur la marque de certification d'un produit emballé — cherchez-la plutôt que de présumer."
   served: "Le plus classiquement en limau asam boi — citron vert calamansi avec sirop de prune aigre, sur glace, avec quelques morceaux de prune et parfois une pincée de sel. Ajouté aussi aux sodas (Sprite asam boi) et au Ribena. Mangé seul comme en-cas également."
   where: "On le trouve aux comptoirs de boissons mamak et kopitiam, aux étals de hawker et dans les boutiques de produits secs à travers le pays ; l'asam boi emballé se vend dans les supermarchés et les épiceries."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 Certaines saveurs sont difficiles à oublier, et l'**asam boi** en fait partie : une

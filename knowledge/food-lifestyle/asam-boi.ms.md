@@ -83,6 +83,14 @@ drinkFacts:
   halal: "Buah yang diawet; minuman asam boi ialah buah, gula dan air tanpa alkohol, jadi ia halal dengan sendirinya. Jaminan melekat pada premis bagi minuman gerai, atau tanda pensijilan pada produk berbungkus — cari tanda itu dan bukannya mengandaikan."
   served: "Paling klasik sebagai limau asam boi — limau calamansi dengan sirap plum masam, atas ais, dengan beberapa ketul plum dan kadangkala secubit garam. Juga ditambah kepada minuman ringan (Sprite asam boi) dan kepada Ribena. Dimakan sendiri sebagai makanan ringan juga."
   where: "Terdapat di kaunter minuman mamak dan kopitiam, gerai penjaja dan kedai barang kering di seluruh negara; asam boi berbungkus dijual di pasar raya dan kedai runcit."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 Sesetengah perisa sukar dilupakan, dan **asam boi** salah satunya: plum masam kering yang

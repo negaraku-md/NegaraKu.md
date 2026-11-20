@@ -76,6 +76,14 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["first pasar malam", "how to pasar malam", "pasar malam Malaysia guide", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam halal", "night market Malaysia how to order", "pasar malam seating", "pasar malam food safety"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
 ---
 
 The first time at a pasar malam can be disorienting: a packed, slow-moving river

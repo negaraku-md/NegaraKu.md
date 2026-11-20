@@ -83,6 +83,14 @@ drinkFacts:
   halal: "عصير الـsoursop لبّ فاكهة مخفوق مع ماء أو حليب وسكر، بلا كحول، فالمشروب نفسه حلال. ويتعلّق ضمان الحلال بالمحل، فعلى مَن يحتاج اعتمادًا أن يتحقّق من الكشك المعنيّ."
   served: "يُقدَّم باردًا، مخفوقًا طازجًا عند الطلب — أخفّ بالماء، أغنى بالحليب سموذي. مشروب فاكهة منعش؛ استمتع به بوصفه كذلك، ولاحظ أنّ الادّعاءات الصحّية و«المضادة للسرطان» المرتبطة بالـsoursop غير مُثبَتة في البشر ولا بديل عن الرعاية الطبية."
   where: "يوجد في بارات العصائر وأكشاك الباعة وأكشاك الفاكهة في عموم البلاد، حيثما تُخفَق عصائر الفاكهة المدارية الطازجة."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 شائكة وخضراء وثقيلة، تبدو الـ**soursop** للوهلة الأولى كدوريان صغير — وهكذا بالضبط

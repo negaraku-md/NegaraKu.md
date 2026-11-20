@@ -84,6 +84,14 @@ drinkFacts:
   halal: "サワーソップジュースは果肉を水か牛乳と砂糖とともにブレンドしたもので、アルコールを含まないので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の屋台で確認すべきだ。"
   served: "冷たく、注文を受けてブレンドしたてで供される——水を使えば軽く、牛乳を入れればスムージーとしてこくが出る。清々しいフルーツ飲料で、そのものとして楽しむべきで、サワーソップに付される健康上の「抗がん」の主張は人では証明されておらず、医療の代わりにはならないことに留意のこと。"
   where: "全国のジュースバー、屋台、果物の屋台で、新鮮な熱帯フルーツのジュースがブレンドされるところならどこでも見かける。"
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 トゲがあり、緑色で、ずっしりとした **サワーソップ** は、一見すると小さなドリアンのように見える——

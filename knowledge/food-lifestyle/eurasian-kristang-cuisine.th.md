@@ -87,6 +87,14 @@ verificationNeeded:
   - "ที่มาของคำและการจัดประเภทของเค้ก sugee (เค้กเฉลิมฉลองที่ทำจากเซโมลินาและเนย; ชื่อมักสืบไปถึงคำในภาษาเอเชียใต้ที่หมายถึงเซโมลินา และสูตรถูกเปรียบกับเค้ก Madeira ของอังกฤษ) — ตรวจสอบกับแหล่งข้อมูลประวัติศาสตร์การทำอาหาร"
   - "ปีที่ก่อตั้ง Portuguese Settlement (มักระบุเป็นปี 1933) และข้ออ้างที่ว่าอาหารบ้าน ๆ หลายอย่างเช่น pang susi และอาหารเครื่องในกำลังหายากขึ้น — ตรวจสอบกับแหล่งข้อมูลปฐมภูมิหรือมรดก"
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 สั่งแกงในครัวมาเลย์ของมะละกา แล้วคุณจะได้ลิ้มรสกะทิและตะไคร้ สั่งอีกจานห่างออกไป

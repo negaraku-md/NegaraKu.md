@@ -83,6 +83,14 @@ drinkFacts:
   halal: "ในฐานะน้ำอัดลมเชิงพาณิชย์จากผู้ผลิตรายใหญ่ Sarsi มีเครื่องหมายรับรองฮาลาล; การตรวจสอบที่แน่นอนที่สุดคือเครื่องหมายฮาลาลที่พิมพ์บนขวดหรือกระป๋อง มองหามันบนบรรจุภัณฑ์"
   served: "เสิร์ฟเย็นจากขวดหรือกระป๋อง เวอร์ชันท้องถิ่นที่เป็นที่รักคือ 'Sarsi susu' — Sarsi ที่เทนมระเหย นมข้น หรือนมสดลงไปเพื่อทำเป็นโฟลตรสครีม หวานและซ่า; เป็นของอร่อยจากน้ำอัดลม ไม่ใช่เครื่องดื่มชงของโกปี๊เตี่ยม"
   where: "พบได้ในร้านขายของชำ ซูเปอร์มาร์เก็ต ร้านโกปี๊เตี่ยม และงานรวมญาติทั่วประเทศ — ของประจำอันชวนคิดถึงบนชั้นวางแช่เย็น"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 ไม่ใช่ทุกเครื่องดื่มบนโต๊ะมาเลเซียที่ชง ชัก หรือคั้น บางอย่างมาจากขวด — และน้อยอย่างที่

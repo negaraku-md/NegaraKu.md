@@ -83,6 +83,14 @@ drinkFacts:
   halal: "soursop 주스는 과육을 물이나 우유, 설탕과 간 것으로 알코올이 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "차갑게, 주문 즉시 갓 갈아서 낸다 — 물로 하면 더 가볍고, 우유로 하면 더 진한 스무디다. 상쾌한 과일 음료이니 그렇게 즐기되, soursop에 붙은 건강·'항암' 주장은 사람에게서 입증되지 않았으며 의료의 대체물이 아님을 유념하라."
   where: "전국의 주스 바, 노점, 과일 가게에서, 신선한 열대 과일 주스를 가는 곳이라면 어디서든 찾을 수 있다."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 가시 돋치고 초록빛에 묵직한 **soursop**은 첫눈에 작은 durian처럼 보인다 — 바로 그래서

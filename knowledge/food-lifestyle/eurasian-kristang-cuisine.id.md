@@ -87,6 +87,14 @@ verificationNeeded:
   - "Etimologi dan klasifikasi kue sugee (kue perayaan berbahan semolina dan mentega; namanya umum ditelusuri ke kata Asia Selatan untuk semolina dan resepnya dibandingkan dengan kue Madeira Inggris) — verifikasi dengan sumber sejarah kuliner."
   - "Tahun pendirian Portuguese Settlement (umum disebut 1933) dan klaim bahwa beberapa hidangan rumahan seperti pang susi dan hidangan jeroan semakin langka — verifikasi dengan sumber primer atau warisan."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 Pesan kari di sebuah dapur Melayu di Melaka, Anda mengecap santan dan serai. Pesan

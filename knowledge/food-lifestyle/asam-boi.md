@@ -82,6 +82,14 @@ drinkFacts:
   halal: "Preserved fruit; asam boi drinks are fruit, sugar and water with no alcohol, so they are halal in themselves. Assurance attaches to the premises for a stall drink, or the certification mark on a packaged product — look for it rather than assume."
   served: "Most classically as limau asam boi — calamansi lime with sour-plum syrup, over ice, with a few pieces of plum and sometimes a pinch of salt. Also added to soft drinks (Sprite asam boi) and to Ribena. Eaten on its own as a snack too."
   where: "Found at mamak and kopitiam drink counters, hawker stalls and dried-goods shops across the country; packaged asam boi is sold in supermarkets and sundry shops."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 Some flavours are hard to forget, and **asam boi** is one of them: a small, wrinkled,

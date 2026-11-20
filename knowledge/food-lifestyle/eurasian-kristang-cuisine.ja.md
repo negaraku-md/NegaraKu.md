@@ -87,6 +87,14 @@ verificationNeeded:
   - "sugee ケーキの語源と分類（セモリナとバターの祝祭ケーキ；その名は一般にセモリナを指す南アジアの語にさかのぼるとされ、レシピはイギリスの Madeira ケーキと比較される）——料理史の資料で確認すること。"
   - "Portuguese Settlement の設立年（一般に1933年とされる）と、pang susi や臓物料理などいくつかの家庭料理が珍しくなりつつあるという主張——一次資料または遺産資料で確認すること。"
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 マラッカのマレー人の台所でカレーを注文すれば、ココナッツとレモングラスの味が

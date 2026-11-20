@@ -77,6 +77,14 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["पहला पासार मलम", "पासार मलम कैसे करें", "पासार मलम मलेशिया गाइड", "तापाउ पासार मलम", "DuitNow QR पासार मलम", "पासार मलम हलाल", "रात का बाज़ार मलेशिया ऑर्डर कैसे करें", "पासार मलम बैठने की जगह", "पासार मलम खाद्य सुरक्षा"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
 ---
 
 पासार मलम (pasar malam) में पहली बार जाना भ्रमित कर सकता है: दो दीवारों जैसे स्टॉलों

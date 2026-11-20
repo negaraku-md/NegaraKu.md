@@ -83,6 +83,14 @@ drinkFacts:
   halal: "ผลไม้ถนอมอาหาร; เครื่องดื่ม asam boi เป็นผลไม้ น้ำตาล และน้ำ โดยไม่มีแอลกอฮอล์ ดังนั้นในตัวมันเองจึงฮาลาล การรับประกันผูกอยู่กับสถานประกอบการสำหรับเครื่องดื่มที่แผง หรือเครื่องหมายรับรองบนผลิตภัณฑ์แบบบรรจุ — มองหามันแทนการสันนิษฐาน"
   served: "คลาสสิกที่สุดคือ limau asam boi — มะนาว calamansi กับน้ำเชื่อมบ๊วยเปรี้ยว ราดน้ำแข็ง พร้อมชิ้นบ๊วยสองสามชิ้นและบางครั้งเกลือเล็กน้อย ยังถูกเติมลงในน้ำอัดลม (Sprite asam boi) และ Ribena กินเดี่ยว ๆ เป็นของว่างด้วย"
   where: "พบได้ที่แผงเครื่องดื่มมะมักและโกปี๊เตี่ยม แผงหาบเร่ และร้านของแห้งทั่วประเทศ; asam boi แบบบรรจุภัณฑ์ขายในซูเปอร์มาร์เก็ตและร้านชำ"
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 บางรสชาติยากจะลืม และ **asam boi** คือหนึ่งในนั้น: บ๊วยเปรี้ยวแห้งลูกเล็กย่นที่หวาน เค็ม และ

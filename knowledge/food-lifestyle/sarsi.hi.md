@@ -84,6 +84,14 @@ drinkFacts:
   halal: "एक बड़े निर्माता के वाणिज्यिक शीतल पेय के रूप में, Sarsi हलाल प्रमाणन रखता है; सबसे पक्की जाँच बोतल या कैन पर छपा हलाल चिह्न है। इसे पैकेजिंग पर ढूँढें।"
   served: "बोतल या कैन से ठंडा परोसा जाता है। एक प्यारी स्थानीय विविधता 'Sarsi susu' है — एक मलाईदार float बनाने के लिए वाष्पीकृत, गाढ़े या ताज़े दूध को इसमें उड़ेला गया Sarsi। मीठा और फ़िज़ी; एक शीतल-पेय भोग-वस्तु, न कि कोई बनाई हुई kopitiam पेय।"
   where: "देश भर की किराना दुकानों, सुपरमार्केट, kopitiam और पारिवारिक जमावड़ों में मिलता है — ठंडे शेल्फ़ का एक पुरानी-यादों वाला स्थायी अंग।"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 मलेशियाई मेज़ पर हर पेय बनाया, खींचा या निचोड़ा नहीं जाता। कुछ एक बोतल से आते हैं — और कम

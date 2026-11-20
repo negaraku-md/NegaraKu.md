@@ -83,6 +83,14 @@ drinkFacts:
   halal: "절인 과일; asam boi 음료는 과일, 설탕, 물로 알코올 없이 만들어 그 자체로 할랄이다. 보증은 노점 음료라면 업소에, 포장 제품이라면 포장의 인증 표시에 결부된다 — 단정하기보다 표시를 확인할 것."
   served: "가장 고전적으로는 limau asam boi로 — calamansi 라임에 신 매실 시럽을 더해, 매실 몇 조각과 때로 소금 한 꼬집을 넣어 얼음 위에 낸다. 탄산음료(Sprite asam boi)와 Ribena에도 넣는다. 그 자체로 간식으로도 먹는다."
   where: "전국의 mamak과 kopitiam 음료 카운터, 노점, 건어물 상점에서 찾을 수 있으며; 포장 asam boi는 슈퍼마켓과 잡화점에서 팔린다."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 어떤 맛은 잊기 어려운데, **asam boi**가 그 하나다: 작고 쭈글쭈글한, 말린 신 매실로 달고

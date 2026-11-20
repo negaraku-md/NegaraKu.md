@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Sebagai minuman ringan komersial daripada pengeluar besar, Sarsi membawa pensijilan halal; semakan yang paling pasti ialah tanda halal yang dicetak pada botol atau tin. Carilah ia pada pembungkusan."
   served: "Dihidang sejuk daripada botol atau tin. Variasi tempatan yang digemari ialah 'Sarsi susu' — Sarsi dengan susu sejat, pekat atau segar yang dituang untuk menjadikan float yang berkrim. Manis dan bergas; hidangan minuman ringan, bukan minuman seduhan kopitiam."
   where: "Terdapat di kedai runcit, pasar raya, kopitiam dan perhimpunan keluarga di seluruh negara — makanan ruji nostalgia rak sejuk."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: 'representative'
+heroOrigin: 'third-party'
+heroSubject: 'Sarsaparilla soda (sarsi)'
 ---
 
 Tidak setiap minuman di meja Malaysia diseduh, ditarik atau diperah. Ada yang datang dari

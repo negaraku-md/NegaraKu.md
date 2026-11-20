@@ -83,6 +83,14 @@ drinkFacts:
   halal: "Jus sirsak adalah daging buah yang diblender dengan air atau susu dan gula, tanpa alkohol, sehingga minumannya sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan dingin, diblender segar sesuai pesanan — lebih ringan dengan air, lebih kaya dengan susu sebagai smoothie. Minuman buah yang menyegarkan; nikmatilah sebagaimana adanya, dan perhatikan bahwa klaim kesehatan serta 'anti-kanker' yang melekat pada sirsak tidak terbukti pada manusia dan bukan pengganti perawatan medis."
   where: "Ditemukan di kedai jus, gerai kaki lima, dan gerai buah di seluruh negeri, di mana pun jus buah tropis segar diblender."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 Berduri, hijau, dan berat, **sirsak** sekilas tampak seperti durian kecil — yang justru

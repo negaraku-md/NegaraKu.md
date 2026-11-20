@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 Parcourez n'importe quel marché humide malaisien, cuisine de kampung ou rayon de condiments en bouteille d'un kedai runcit, et vous rencontrerez le même trio de noms : **belacan**, **cincalok** et **budu**. Ils ont l'air et l'odeur d'appartenir à une même famille — tous salés, tous puissants, tous obtenus en laissant fermenter de petites créatures marines dans du sel — et dans les menus comme dans les recettes, les noms s'emploient de façon approximative. Mais ce sont trois choses distinctes, faites différemment, à partir de points de départ différents, et utilisées de façons différentes. Savoir lequel est lequel vous évite de griller quelque chose qui devrait se manger cru, ou de verser une sauce de poisson là où il faut une pâte de crevettes.

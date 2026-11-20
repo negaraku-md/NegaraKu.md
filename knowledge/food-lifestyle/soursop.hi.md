@@ -84,6 +84,14 @@ drinkFacts:
   halal: "सॉरसॉप जूस फल-गूदा है जिसे पानी या दूध और चीनी के साथ मिलाया जाता है, जिसमें कोई शराब नहीं, इसलिए पेय स्वयं हलाल है। हलाल का आश्वासन परिसर से जुड़ा होता है, इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग ठेले की जाँच कर लेनी चाहिए।"
   served: "ठंडा परोसा जाता है, ऑर्डर पर ताज़ा मिलाया जाता है — पानी के साथ हल्का, दूध के साथ एक स्मूदी के रूप में अधिक भरपूर। एक तरोताज़ा फल-पेय; इसका आनंद उसी रूप में लें, और ध्यान दें कि सॉरसॉप से जुड़े स्वास्थ्य और 'कैंसर-रोधी' दावे मनुष्यों में असिद्ध हैं और चिकित्सीय देखभाल का कोई विकल्प नहीं।"
   where: "देश भर के जूस बार, hawker ठेलों और फल-ठेलों पर मिलता है, जहाँ भी ताज़े उष्णकटिबंधीय-फल जूस मिलाए जाते हैं।"
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 काँटेदार, हरा और भारी, **सॉरसॉप** पहली नज़र में एक छोटे durian जैसा दिखता है — जो ठीक

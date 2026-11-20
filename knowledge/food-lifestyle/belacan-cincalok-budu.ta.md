@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 எந்த மலேசிய ஈர சந்தை, கம்போங் சமையலறை, அல்லது கெடை ருஞ்சி (kedai runcit) அடுக்கில் உள்ள பாட்டில் செய்யப்பட்ட சாஞ்சுகள் வழியே நடந்தாலும், அதே மூன்று பெயர்களைச் சந்திப்பீர்கள்: **பெலாச்சான்** (belacan), **சிஞ்சாலோக்** (cincalok), **புடு** (budu). அவை ஒரே குடும்பத்தைச் சேர்ந்தவை போலத் தோன்றும், வாசனையும் அப்படியே — மூன்றும் உப்பானவை, மூன்றும் காரமானவை, மூன்றும் சிறிய கடலுயிர்களை உப்பில் புளிக்கவைத்துச் செய்யப்பட்டவை — மேலும் மெனுக்களிலும் செய்முறைகளிலும் பெயர்கள் தளர்வாகப் பயன்படுத்தப்படுகின்றன. ஆனால் அவை மூன்று தனித்த பொருட்கள், வெவ்வேறு விதமாக, வெவ்வேறு தொடக்கப் புள்ளிகளிலிருந்து செய்யப்பட்டவை, வெவ்வேறு விதங்களில் பயன்படுத்தப்படுபவை. எது எது என்று அறிவது, பச்சையாக உண்ண வேண்டியதை வறுப்பதிலிருந்தும், இறால் பேஸ்ட் வேண்டிய இடத்தில் மீன் சாஸ் ஊற்றுவதிலிருந்தும் உங்களைக் காப்பாற்றும்.

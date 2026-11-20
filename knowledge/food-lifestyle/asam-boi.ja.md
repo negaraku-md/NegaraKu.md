@@ -84,6 +84,14 @@ drinkFacts:
   halal: "漬けた果実で、asam boi の飲み物は果実、砂糖、水のみでアルコールを含まないので、それ自体ハラルである。保証は、屋台の飲み物については店舗に、包装された製品については認証の印に付随する——思い込まず探すこと。"
   served: "もっとも定番なのは limau asam boi——calamansi のライムにサワープラムのシロップを合わせ、梅の実を数個と、ときに塩をひとつまみ加えて氷入りで。炭酸飲料（Sprite asam boi）や Ribena にも加えられる。単独でスナックとしても食べられる。"
   where: "全国のママックやコピティアムの飲み物カウンター、屋台、乾物店で見かける。包装された asam boi はスーパーや雑貨店で売られている。"
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
 ---
 
 忘れがたい味というものがあり、**asam boi** はその一つだ——小さく、しわの寄った

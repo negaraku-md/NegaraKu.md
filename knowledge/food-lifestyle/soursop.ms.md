@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Jus soursop ialah isi buah yang diadun dengan air atau susu dan gula, tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidang sejuk, diadun segar bila dipesan — lebih ringan dengan air, lebih pekat dengan susu sebagai smoothie. Minuman buah yang menyegarkan; nikmatinya sebagai itu, dan perhatikan bahawa dakwaan kesihatan dan 'anti-kanser' yang dikaitkan dengan soursop tidak terbukti pada manusia dan bukan pengganti rawatan perubatan."
   where: "Terdapat di bar jus, gerai jaja dan gerai buah di seluruh negara, di mana sahaja jus buah tropika segar diadun."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 Berduri, hijau dan berat, **soursop** kelihatan pada pandangan pertama seperti durian

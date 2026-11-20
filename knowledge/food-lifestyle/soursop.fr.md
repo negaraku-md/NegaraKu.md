@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Le jus de corossol, c'est de la pulpe de fruit mixée avec de l'eau ou du lait et du sucre, sans alcool, donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Servi froid, mixé frais à la commande — plus léger avec de l'eau, plus riche avec du lait en smoothie. Une boisson de fruit rafraîchissante ; savourez-la comme telle, et notez que les allégations de santé et « anticancer » attachées au corossol ne sont pas prouvées chez l'humain et ne remplacent pas un soin médical."
   where: "On le trouve dans les bars à jus, les stands de rue et les étals de fruits de tout le pays, partout où l'on mixe des jus de fruits tropicaux frais."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
 ---
 
 Épineux, vert et lourd, le **corossol** ressemble au premier coup d'œil à un petit

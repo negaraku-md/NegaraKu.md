@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 Jelajahi pasar basah Malaysia mana pun, dapur kampung, atau rak condiment botolan di kedai runcit, dan Anda akan bertemu trio nama yang sama: **belacan**, **cincalok**, dan **budu**. Ketiganya tampak dan beraroma seolah berasal dari satu keluarga — semuanya asin, semuanya menyengat, semuanya dibuat dengan membiarkan makhluk laut kecil berfermentasi dalam garam — dan di menu maupun resep namanya kerap dipakai sembarangan. Padahal ketiganya adalah tiga hal yang berbeda, dibuat dengan cara berbeda, dari titik awal yang berbeda, dan dipakai dengan cara yang berbeda pula. Mengetahui mana yang mana menyelamatkan Anda dari menyangrai sesuatu yang semestinya dimakan mentah, atau menuang saus ikan di tempat yang semestinya pasta udang.

@@ -80,6 +80,14 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
 ---
 
 किसी भी मलेशियाई गीले बाज़ार, kampung रसोई या kedai runcit की बोतलबंद मसालों की शेल्फ से गुज़रिए और आपको वही तीन नाम मिलेंगे: **belacan** (झींगे का किण्वित पेस्ट), **cincalok** (cencaluk) और **budu** (किण्वित एंकोवी मछली सॉस)। ये दिखने और महकने में ऐसे लगते हैं जैसे एक ही परिवार के हों — सभी नमकीन, सभी तीखे, सभी छोटे समुद्री जीवों को नमक में किण्वित करके बनाए गए — और मेनू व नुस्खों में इनके नाम ढीले ढंग से इस्तेमाल होते हैं। लेकिन ये तीन अलग चीज़ें हैं, अलग तरीके से बनी, अलग शुरुआती बिंदुओं से, और अलग तरीकों से इस्तेमाल होने वाली। यह जानना कि कौन-सा कौन है, आपको उस चीज़ को भूनने से बचाता है जिसे कच्चा खाना चाहिए, या वहाँ मछली सॉस डालने से जहाँ झींगा पेस्ट जाना चाहिए।
