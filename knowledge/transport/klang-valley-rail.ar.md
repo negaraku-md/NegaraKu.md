@@ -34,7 +34,7 @@ verificationNeeded:
   - "تأكيد طول/عدد محطات خط MRT Kajang الحالي مباشرةً مع MRT Corp أو Rapid Rail قبل النشر — إذ تقدّم وزارة النقل وصفحة الخط لدى Rapid Rail نفسها أرقاماً مختلفة قليلاً (51 كم/31 محطة مقابل 46 كم/29 محطة)، وقد تجنّب هذا المقال تكرارها حرفياً بانتظار التوفيق بينها."
 
 lang: "ar"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: رصيف مترو أنفاق عصري نظيف (Tun Razak Exchange) مزوّد بأبواب حاجبة للرصيف وشاشة لمواعيد وصول القطار — منظر داخلي للمحطة. بلا وجوه قابلة للتعرّف.
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: قطار KL Monorail ينعطف على مساره المرفوع بمحاذاة مسجد وأفق المدينة — يضيف نمط سكك ثانيًا وسياق وادي كلانغ. يختلف عن البطل (مترو مرفوع) والصورة الأولى (محطة تحت الأرض).
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 انظر إلى خريطة سكك وادي كلانغ لأول مرة، فستبدو أشبه بحساء الحروف —

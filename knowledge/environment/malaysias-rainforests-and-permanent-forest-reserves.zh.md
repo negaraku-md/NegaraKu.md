@@ -32,7 +32,7 @@ faq:
     a: "该修正案规定，在撤销永久森林保护区公告前必须进行公开调查，并将罚款提高至20,000令吉至500万令吉，监禁提高至7年至20年。它自2025年2月1日起在联邦直辖区生效。"
 
 lang: "zh"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: 阳光洒落的棕榈叶与茂密的绿色下层植被，沿着国家公园（Taman Negara）原始雨林中一条荫蔽小径
+    kind: actual
+    origin: third-party
+    subject: 国家公园（Taman Negara）原始雨林地面上的棕榈下层植被与落叶
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: 从国家公园（Taman Negara）的武吉特里塞（Bukit Terisek）望去，连绵起伏的丘陵覆满茂密热带雨林，在阴天下渐隐入蓝色薄雾
+    kind: actual
+    origin: third-party
+    subject: 从武吉特里塞（Bukit Terisek）眺望国家公园（Taman Negara）绵延不绝的森林丘陵
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 马来西亚的一片林地，并不会仅仅因为长满树木就受到"保护"——它的保护始于其名称刊登在宪报（Warta）上的那一天。没有这份公告，同一片森林随时都可能被批准执照用于开发。这正是马来西亚整个永久森林保护区（HSK）制度的基础。

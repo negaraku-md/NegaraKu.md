@@ -96,6 +96,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: A female Bornean orangutan with two young hanging from branches high in the rainforest canopy
+    kind: actual
+    origin: third-party
+    subject: Wild Bornean orangutan family group hanging and feeding in rainforest trees, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: Close-up portrait of a wild Bornean orangutan's expressive face framed by its reddish fur
+    kind: actual
+    origin: third-party
+    subject: Close-up portrait of a wild Bornean orangutan's face in the rainforest, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 A wild orangutan needs a lot of forest, and a connected forest. In the lowlands of eastern Sabah, that has become the rarest thing of all: the trees that once let an ape travel for kilometres without touching the ground now stop at the edge of an oil palm estate. Whether the Bornean orangutan survives in this landscape is, in large part, a question of law, land, and corridors.

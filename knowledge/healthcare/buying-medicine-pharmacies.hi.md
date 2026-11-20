@@ -19,7 +19,7 @@ keyTakeaways:
   - "Poisons Act 1952 की तीसरी अनुसूची के तहत मनोसक्रिय पदार्थ अलग विनियमों के अधीन हैं, जिनमें अनधिकृत अपराधों के लिए RM100,000 तक का जुर्माना या पाँच वर्ष का कारावास दंड है (धारा 30)"
 appliesTo: "मलेशिया में किसी सरकारी या निजी फार्मेसी से दवा खरीदने वाला वह हर व्यक्ति जो समझना चाहता है कि कुछ दवाओं के लिए नुस्खे की आवश्यकता क्यों होती है जबकि अन्य के लिए नहीं, और उस प्रक्रिया में पंजीकृत फार्मासिस्ट की भूमिका क्या है।"
 lang: "hi"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: Malaysia में साफ़ आकाश के नीचे नीले Farmasi Sinar साइनेज वाली एक एकमंज़िला स्वतंत्र सामुदायिक फ़ार्मेसी, बाहर खड़ी कारें
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar, Kluang, Johor में एक स्वतंत्र मोहल्ला सामुदायिक फ़ार्मेसी
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: एक मलेशियाई सरकारी अस्पताल के भीतर बाह्य-रोगी फ़ार्मेसी प्रवेश, पीले और नीले Farmasi साइन और एक World Pharmacist Day बैनर के साथ, कोई व्यक्ति नहीं दिखता
+    kind: actual
+    origin: third-party
+    subject: Hospital Sultanah Nora Ismail, Batu Pahat, Johor के एक सरकारी अस्पताल में बाह्य-रोगी फ़ार्मेसी (Farmasi) प्रवेश
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 एक ग्राहक फार्मेसी काउंटर पर खाँसी की दवा माँगता है और तुरंत सेवा पा जाता है। दूसरा गले की खराश के लिए एंटीबायोटिक्स माँगता है और उससे पहले डॉक्टर का नुस्खा दिखाने को कहा जाता है। दोनों लेन-देन एक ही फार्मेसी में, एक ही दिन होते हैं — अंतर इस बात में है कि कानून दवा को कैसे वर्गीकृत करता है, न कि फार्मासिस्ट के विवेक में।

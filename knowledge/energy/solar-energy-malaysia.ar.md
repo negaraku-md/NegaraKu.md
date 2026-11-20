@@ -31,7 +31,7 @@ faq:
     a: "لجنة الطاقة (Suruhanjaya Tenaga) هي المنظّم الرئيسي. وتنفّذ SEDA ماليزيا برنامج NEM، في حين ينسّق Single Buyer (التابع لـ TNB) برامج السوق مثل CGPP وCRESS وCREAM."
 
 lang: "ar"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: صفوف طويلة من ألواح شمسية مائلة مثبّتة على الأرض تمتدّ عبر حقل مُزال مع غابة مطيرة في الأفق تحت سماء ضبابية
+    kind: actual
+    origin: third-party
+    subject: صفوف من ألواح شمسية كهروضوئية مثبّتة على الأرض في مزرعة شمسية قرب بوكيت ميراه، ماليزيا
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: مظلّة ذات هيكل فولاذي مسقوفة بألواح شمسية بجانب لوحة لمشروع شمسي-هجين حكومي ماليزي في مدرسة ريفية بصباح، مع سيارات متوقّفة ودجاج في المقدّمة
+    kind: actual
+    origin: third-party
+    subject: منشأة طاقة شمسية-هجينة ريفية في مدرسة بصباح، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 أصبحت الألواح الشمسية على سطح المنزل قرارًا ماليًا يرتبط ارتباطًا وثيقًا بالسياسة الحكومية في ماليزيا. لكن «التحول إلى الطاقة الشمسية» يعني شيئًا مختلفًا تمامًا لصاحب منزل في إيبوه مقارنةً بمصنع في باسير غودانغ أو مركز بيانات يريد طاقة خضراء بنسبة 100%. ولكل فئة من المستهلكين برنامجها الخاص.

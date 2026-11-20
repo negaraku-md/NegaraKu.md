@@ -34,7 +34,7 @@ faq:
     a: "Không. Trong khi Monash, Nottingham, Xiamen và Heriot-Watt tập trung quanh Klang Valley và Putrajaya, EduCity Iskandar tập trung một số cơ sở ở Johor gần Singapore, và Curtin cùng Swinburne hoạt động ở Sarawak."
 
 lang: "vi"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Những khối nhà khuôn viên màu be lớn nối với nhau bằng một cầu nối trên cao lắp kính, với phù hiệu Monash trên một tòa tháp và những cây cọ trong sân trong
+    kind: representative
+    origin: third-party
+    subject: các tòa nhà của phân hiệu Đại học Monash Malaysia nối với nhau bằng cầu nối kính, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Những tòa nhà khuôn viên màu trắng với mái kiểu Trung Hoa đỏ nhiều tầng phía sau một quảng trường lối vào có cổng dưới bầu trời có mây rải rác
+    kind: representative
+    origin: third-party
+    subject: cổng chính mái đỏ và tòa tháp hành chính của Đại học Hạ Môn Malaysia, phân hiệu hải ngoại đầu tiên của một trường đại học Trung Quốc, ở Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 Năm 1998, một sinh viên ở Kuala Lumpur có thể lấy một tấm bằng Monash của Úc mà không cần rời khỏi đất nước — và trả giá Malaysia cho nó. Sự sắp xếp duy nhất đó đã khởi động một mô hình mà đất nước đã xây dựng dựa vào kể từ đó: nhập khẩu đại học, không phải sinh viên.

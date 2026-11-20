@@ -29,7 +29,7 @@ faq:
     a: "通常不能。许多东海岸度假村和船运营运商大约从10月到2月自愿暂停服务，因为东北季候风带来汹涌的海面。"
 
 lang: "zh"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: 浮罗交怡瓜埠跨海客运渡轮码头，长长的鸥翼式顶棚上写着「TERMINAL FERI PENUMPANG KUAH」，下方是碧蓝的海峡——一段海岛渡轮之旅的码头/航站端。有别于主图（船只）和 body-2（小型海岛船只）。
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: 停泊在停泊岛（Perhentian Besar）清澈碧蓝海水中、一座架高海岛栈桥旁的一艘有顶棚的海洋公园小船——以小船完成的最后一段海岛接驳。为海岛交通补充了一个场景，有别于汽车渡轮主图和航站本体图。
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 马来西亚没有单一的全国性渡轮线路。要抵达一座岛屿，就得知道由哪条短程航线、哪个码头、哪家营运商来服务它——而在东海岸，还要知道那个月份海面是否开放通航。

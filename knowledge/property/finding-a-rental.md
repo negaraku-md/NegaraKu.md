@@ -78,6 +78,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: Two large cream-and-maroon residential apartment blocks with rows of balconies and air-conditioner units in suburban George Town, Penang, their lower floors screened by trees
+    kind: representative
+    origin: third-party
+    subject: mid-market residential apartment blocks in suburban George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: A cluster of tall modern condominium towers with tiered balconies in Kuala Lumpur, seen from street level against a pale overcast sky
+    kind: representative
+    origin: third-party
+    subject: modern high-rise condominium towers (Orion Condominium and Sky Residences) in Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 You find a listing you like on a portal, message the number on it, and someone shows up to unlock the unit. Nothing in that exchange tells you whether the person handing you the keys is legally allowed to be doing this for a fee at all — and almost no one asks.

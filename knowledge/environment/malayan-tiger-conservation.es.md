@@ -33,7 +33,7 @@ faq:
     a: "Los principales factores son la caza furtiva y el comercio ilegal de partes de tigre, la degradación forestal y la pérdida de hábitat, los atropellos y el conflicto entre humanos y tigres, y la disminución de las presas."
 
 lang: "es"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: Un tigre malayo tendido sobre la hierba bajo la luz moteada del sol, con su pelaje rayado captando la luz
+    kind: actual
+    origin: third-party
+    subject: tigre malayo (Panthera tigris jacksoni) tendido bajo la luz moteada del sol entre hierba y follaje
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: Retrato de perfil en primer plano de la cabeza de un tigre malayo, que muestra sus características rayas faciales negras y anaranjadas y sus bigotes
+    kind: actual
+    origin: third-party
+    subject: Retrato de perfil de un tigre malayo (Panthera tigris jacksoni) que muestra sus marcas faciales
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 El tigre aparece en el escudo de armas de Malasia, pero el animal en sí es ahora uno de los grandes felinos más raros del mundo. Cuando Malasia completó su primer censo nacional de tigres silvestres, el resultado fue menor de lo que muchos esperaban: menos de 150.

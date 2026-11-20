@@ -34,7 +34,7 @@ faq:
     a: "Không nhất thiết. Cuộc khảo sát phát hiện rằng các quần thể trong các khu rừng được quản lý tốt, khai thác bền vững như Deramakot và Segama vẫn ổn định qua 15 năm, cho thấy đười ươi có thể tồn tại trong rừng sản xuất khi nó được quản lý cẩn thận và giữ được sự kết nối."
 
 lang: "vi"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: Một con đười ươi Borneo cái cùng hai con non đu bám trên các cành cây cao trong tán rừng mưa nhiệt đới
+    kind: actual
+    origin: third-party
+    subject: Đàn đười ươi Borneo hoang dã đu bám và kiếm ăn trên cây rừng mưa nhiệt đới, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: Chân dung cận cảnh gương mặt giàu biểu cảm của một con đười ươi Borneo hoang dã, được viền quanh bởi bộ lông màu đỏ nâu
+    kind: actual
+    origin: third-party
+    subject: Chân dung cận cảnh gương mặt của một con đười ươi Borneo hoang dã trong rừng mưa nhiệt đới, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 Một con đười ươi hoang dã cần rất nhiều rừng, và một khu rừng được kết nối. Ở vùng thấp phía đông Sabah, đó đã trở thành thứ hiếm nhất trong tất cả: những cây cối từng cho phép một con vượn di chuyển hàng cây số mà không chạm đất nay dừng lại ở rìa một đồn điền cọ dầu. Liệu đười ươi Borneo có sống sót trong cảnh quan này hay không, phần lớn, là một câu hỏi về luật pháp, đất đai, và các hành lang.

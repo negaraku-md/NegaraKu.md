@@ -32,7 +32,7 @@ faq:
     a: "ไม่ เขื่อน Baram ซึ่งคาดว่าจะท่วม 412 ตารางกิโลเมตรและย้ายผู้คนราว 20,000 คน ถูกระงับผ่านการพักการดำเนินการในปี 2015 และถูกยกเลิกอย่างเป็นทางการในปี 2016 หลังจากการคัดค้านของชนพื้นเมืองที่ยืดเยื้อ"
 
 lang: "th"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'ภายในอาคารโรงไฟฟ้าเขื่อนมูรุม: แถวเครื่องกำเนิดไฟฟ้าพลังน้ำทรงกระบอกสีน้ำเงินหมายเลข 1 และ 2 ตั้งอยู่บนพื้นขัดเงาใต้โถงสูงที่มีเครนเหนือหัวสีเหลือง'
+    kind: actual
+    origin: third-party
+    subject: ภายในอาคารโรงไฟฟ้าเขื่อนมูรุม แสดงเครื่องกำเนิดไฟฟ้าพลังน้ำ
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: กำแพงคอนกรีตเขื่อนมูรุมและทางระบายน้ำล้นคู่กั้นอ่างเก็บน้ำ มองจากระยะไกลข้ามเนินเขาป่าฝนเขียวขจีของรัฐซาราวัก
+    kind: actual
+    origin: third-party
+    subject: เขื่อนพลังน้ำมูรุมในรัฐซาราวัก มองข้ามเนินเขาที่ปกคลุมด้วยป่า
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 น้ำที่ไหลลงจากเทือกเขาฝนของบอร์เนียวในปัจจุบันหมุนกังหันที่จ่ายไฟให้โรงงานอะลูมิเนียม และนั่นคือแก่นของยุทธศาสตร์พลังงานหมุนเวียนของมาเลเซีย อย่างไรก็ตาม เส้นทางสู่จุดนั้นถูกทำเครื่องหมายด้วยเขื่อนขนาดใหญ่ ทะเลสาบกว้างหลายร้อยตารางกิโลเมตร และครอบครัวพื้นเมืองหลายพันครอบครัวที่ถูกบังคับให้ย้ายถิ่นฐาน

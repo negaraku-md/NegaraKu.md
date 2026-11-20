@@ -34,7 +34,7 @@ faq:
     a: "Le ministère de l'Agriculture et de la Sécurité alimentaire (KPKM), par l'intermédiaire de la Division du développement de l'industrie du riz, avec des organismes d'exécution tels que l'Autorité des organisations d'agriculteurs (LPP), MADA et KADA dans leurs zones rizicoles respectives."
 
 lang: "fr"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-0
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: Un conducteur manœuvrant une moissonneuse-batteuse jaune dans une rizière humide aux chaumes au crépuscule, des palmiers se détachant à l'horizon
+    kind: actual
+    origin: third-party
+    subject: une moissonneuse-batteuse récoltant le riz dans une rizière boueuse au crépuscule à Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: Une femme en foulard coupant des panicules de riz dorées à l'aide d'une petite lame et les rassemblant dans un panier tressé jaune
+    kind: actual
+    origin: third-party
+    subject: une femme dusun récoltant à la main des épis de riz mûrs dans un panier tressé, district de Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 Le sac d'engrais qu'un riziculteur charge sur son épaule vers le champ ce

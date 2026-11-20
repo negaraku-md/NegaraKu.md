@@ -31,7 +31,7 @@ faq:
     a: "JBPM được liệt kê là một cục thuộc Bộ Nhà ở và Chính quyền Địa phương (KPKT). Danh mục các bộ ở Malaysia được sắp xếp lại theo thời gian, nên hãy xác nhận cơ cấu hiện tại tại kpkt.gov.my hoặc bomba.gov.my trước khi dựa vào nó trong các tài liệu chính thức."
 
 lang: "vi"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: Một xe cứu hỏa cứu hộ bốn bánh chủ động màu đỏ của Bomba với thùng sau phủ bạt và phù hiệu của cơ quan trên cửa, đỗ trên sân trước của một trạm cứu hỏa mái đỏ với một cây cọ phía sau
+    kind: actual
+    origin: third-party
+    subject: một xe cứu hộ hạng nặng màu đỏ của Bomba đỗ tại trạm cứu hỏa ở Sandakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: Mặt trước của một trạm cứu hỏa ba tầng sơn màu be và đất nung, hàng cửa cuốn ghép thành chữ BOMBA bằng những chữ đỏ lớn bên dưới biển ghi 'Balai Bomba dan Penyelamat Jalan Kubu', với những dây đèn lồng đỏ giăng ngang mặt tiền
+    kind: actual
+    origin: third-party
+    subject: mặt tiền của trạm cứu hỏa Jalan Kubu (Balai Bomba dan Penyelamat) ở Melaka, với chữ BOMBA viết lớn trên các cửa cuốn khoang xe
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 Khi một ngôi nhà bốc cháy, một chiếc xe mắc kẹt trong lũ, hoặc một công nhân bị kẹt trong không gian kín, cùng một con số trở thành liên kết đầu tiên giữa nạn nhân và sự trợ giúp — và ở đầu dây đó, thường là Bomba. Hiểu chính xác điều gì được luật pháp trao quyền cho cục này làm rõ tại sao Bomba xuất hiện ở rất nhiều loại tình huống khẩn cấp, chứ không chỉ hỏa hoạn.

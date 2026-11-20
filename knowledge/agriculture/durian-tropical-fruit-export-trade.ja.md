@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 
 status: "published"
 aiAssisted: true
@@ -110,6 +110,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: 割られたドリアンのクローズアップ。とげのある殻の中に、柔らかく濃い黄金色の房が収まる
+    kind: actual
+    origin: third-party
+    subject: とげのある殻の中に濃い黄金色のクリーミーな果肉を見せる、割られたムサンキング・ドリアン
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: とげのあるドリアンを並べたトレーの横に、クローン品種コードとリンギット価格を記した手書きの値札、傍らにマンゴスチン
+    kind: actual
+    origin: third-party
+    subject: サバ州コタキナバルの果物市場で、クローン品種コードで等級分けされ、1キロあたりリンギットで値付けされた丸ごとのドリアン
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 10年以上にわたり、マレーシア産ドリアンは冷凍されるか、果肉やペーストに加工されない限り、中国に輸入することができなかった。そして2024年半ば、マレーシアは長年求めてきた市場アクセスを勝ち取った——地球上最大のドリアン市場へ、丸ごと新鮮なドリアンを輸出する権利である。

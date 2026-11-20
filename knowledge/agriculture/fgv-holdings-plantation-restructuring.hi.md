@@ -32,7 +32,7 @@ faq:
     a: "FGV एक एकीकृत कृषि-व्यवसाय है जो बागान (ताड़ तेल, रबड़ और नवीकरणीय ऊर्जा), तेल एवं वसा, चीनी, लॉजिस्टिक्स एवं सहायक सेवाओं, और उपभोक्ता उत्पादों तक फैला है। अपने अनुसार, यह वैश्विक कच्चे ताड़ तेल उत्पादन का लगभग 3% योगदान देती है।"
 
 lang: "hi"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,23 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: ताड़ की पहाड़ियों के बीच एक पाम-ऑयल मिल परिसर (नीले शेड + धुआँ उगलती चिमनियाँ) — व्यवसाय का प्रसंस्करण पहलू। कोई व्यक्ति नहीं
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: मिल द्वार ('Kilang Apas Balung') पर ताज़े फल गुच्छों (FFB) से लदा एक टिपर ट्रक — कटाई/लॉजिस्टिक्स चरण। फ़्रेम के किनारे पर केवल एक छोटा, अपहचान योग्य कर्मचारी
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 2012 में यह बाज़ार की शान थी — एक मेगा-सूचीबद्धता जो थोड़े समय के लिए फ़ेसबुक के पीछे दुनिया में दूसरे स्थान पर रही। तेरह वर्ष बाद वही कंपनी अपने पदार्पण मूल्य के एक अंश पर चुपचाप Bursa Malaysia से निकल गई, जिसे उसी प्राधिकरण ने वापस ख़रीद लिया जिसने उसे सूचीबद्ध किया था।

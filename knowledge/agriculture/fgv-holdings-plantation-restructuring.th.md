@@ -32,7 +32,7 @@ faq:
     a: "FGV เป็นธุรกิจการเกษตรแบบครบวงจร ครอบคลุมสวน (ปาล์มน้ำมัน ยางพารา และพลังงานหมุนเวียน) น้ำมันและไขมัน น้ำตาล โลจิสติกส์และบริการสนับสนุน และผลิตภัณฑ์อุปโภคบริโภค ตามที่บริษัทระบุเอง บริษัทมีส่วนในการผลิตน้ำมันปาล์มดิบประมาณ 3% ของโลก"
 
 lang: "th"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,23 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: โรงงานสกัดน้ำมันปาล์ม (โรงเรือนสีน้ำเงิน + ปล่องควัน) ตั้งอยู่ท่ามกลางเนินเขาสวนปาล์มน้ำมัน — ด้านการแปรรูปของธุรกิจ ไม่มีผู้คน
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: รถบรรทุกเทท้ายบรรทุกทะลายปาล์มสด (FFB) เต็มคันที่ประตูโรงงาน ('Kilang Apas Balung') — ช่วงเก็บเกี่ยว/ลำเลียง มีเพียงคนงานตัวเล็กมากที่ขอบภาพ ระบุตัวตนไม่ได้
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 ในปี 2012 บริษัทนี้คือดาวรุ่งของตลาด — การเข้าจดทะเบียนขนาดยักษ์ที่ครั้งหนึ่งเคยติดอันดับสองของโลกรองจาก Facebook สิบสามปีต่อมา บริษัทเดียวกันนี้ก็หลุดออกจาก Bursa Malaysia อย่างเงียบ ๆ ด้วยราคาเพียงเศษเสี้ยวของราคาเปิดตัว โดยถูกซื้อกลับโดยองค์การเดียวกับที่นำมันเข้าตลาด

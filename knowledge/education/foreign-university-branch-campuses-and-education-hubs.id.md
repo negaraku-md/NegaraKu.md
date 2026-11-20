@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Meskipun Monash, Nottingham, Xiamen, dan Heriot-Watt berkelompok di sekitar Lembah Klang dan Putrajaya, EduCity Iskandar memusatkan beberapa kampus di Johor dekat Singapura, dan Curtin serta Swinburne beroperasi di Sarawak."
 
 lang: "id"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Blok-blok kampus besar berwarna krem yang dihubungkan jembatan layang berkaca, dengan lambang Monash di sebuah menara dan pohon palem di halaman
+    kind: representative
+    origin: third-party
+    subject: gedung-gedung kampus cabang Monash University Malaysia yang dihubungkan jembatan layang kaca, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Gedung-gedung kampus putih dengan atap bertingkat merah bergaya Tionghoa di balik plaza pintu masuk bergerbang di bawah langit berawan sebagian
+    kind: representative
+    origin: third-party
+    subject: gerbang utama beratap merah dan menara administrasi Xiamen University Malaysia, kampus cabang luar negeri pertama universitas Tiongkok, di Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 Pada 1998, seorang mahasiswa di Kuala Lumpur dapat memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Pengaturan tunggal itu meluncurkan satu model yang terus dikembangkan oleh negara sejak itu: mengimpor universitas, bukan mahasiswa.

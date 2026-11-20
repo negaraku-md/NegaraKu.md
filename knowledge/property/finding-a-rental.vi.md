@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang tìm một căn nhà thuê tại Malaysia, dù thuê lần đầu tại địa phương hay thu xếp một hợp đồng thuê từ nước ngoài."
 
 lang: "vi"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: Hai khối chung cư lớn màu kem và nâu đỏ với những hàng ban công và dàn máy lạnh ở vùng ngoại ô George Town, Penang, các tầng dưới được che bởi cây cối
+    kind: representative
+    origin: third-party
+    subject: các khối chung cư phân khúc trung cấp ở vùng ngoại ô George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: Một cụm tháp chung cư cao tầng hiện đại với các ban công bậc thang ở Kuala Lumpur, nhìn từ mặt đường trên nền trời u ám nhạt
+    kind: representative
+    origin: third-party
+    subject: các tháp chung cư cao tầng hiện đại (Orion Condominium và Sky Residences) ở Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 Bạn tìm thấy một tin đăng bạn thích trên một cổng, nhắn tin đến số trên đó, và ai đó xuất hiện để mở khóa căn hộ. Không có gì trong cuộc trao đổi đó cho bạn biết liệu người trao chìa khóa cho bạn có được phép hợp pháp làm việc này vì một khoản phí hay không — và hầu như không ai hỏi.

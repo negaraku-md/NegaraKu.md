@@ -29,7 +29,7 @@ faq:
     a: "บ่อยครั้งไม่ได้ รีสอร์ตฝั่งตะวันออกและผู้ประกอบการเรือหลายรายระงับบริการโดยสมัครใจตั้งแต่ประมาณเดือนตุลาคมถึงกุมภาพันธ์เนื่องจากทะเลปั่นป่วนจากลมมรสุมตะวันออกเฉียงเหนือ"
 
 lang: "th"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: ท่าเทียบเรือเฟอร์รี่โดยสารกัวห์เหนือน้ำที่ลังกาวี หลังคาทรงปีกนกยาวมีข้อความ 'TERMINAL FERI PENUMPANG KUAH' เหนือช่องน้ำสีเทอร์คอยส์ — ปลายทางท่าเทียบเรือ/อาคารผู้โดยสารของการเดินทางด้วยเฟอร์รี่ไปเกาะ
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: เรือเล็กมีหลังคาของอุทยานทางทะเลจอดเทียบข้างท่าเทียบเรือยกพื้นบนเกาะในน้ำใสสีเทอร์คอยส์ที่เปอร์เฮนเตียนเบซาร์ — ช่วงสุดท้ายของการเดินทางสู่เกาะด้วยเรือเล็ก
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 ไม่มีสายเรือข้ามฟากระดับชาติเพียงหนึ่งเดียวในมาเลเซีย การไปถึงเกาะหมายถึงการรู้ว่าเส้นทางข้ามฟากสั้น ๆ ใด ท่าเรือใด และผู้ประกอบการใดที่ให้บริการ — และบนฝั่งตะวันออก ว่าทะเลเปิดในเดือนนั้นหรือไม่ด้วยซ้ำ

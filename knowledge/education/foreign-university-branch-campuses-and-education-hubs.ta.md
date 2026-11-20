@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: கண்ணாடியிட்ட உயரமான இணைப்புப் பாலத்தால் இணைக்கப்பட்ட பெரிய கிரீம் நிற வளாகத் தொகுதிகள், ஒரு கோபுரத்தில் Monash சின்னத்துடனும் முற்றத்தில் பனைமரங்களுடனும்
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், சன்வே சிட்டியில் கண்ணாடி இணைப்புப் பாலத்தால் இணைக்கப்பட்ட Monash University Malaysia கிளை வளாகக் கட்டிடங்கள்
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: ஓரளவு மேகமூட்டமான வானத்தின் கீழ் வாயிலிட்ட நுழைவு முற்றத்திற்குப் பின்னால் படிநிலை சிவப்பு சீனப் பாணி கூரைகளுடன் கூடிய வெள்ளை வளாகக் கட்டிடங்கள்
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், செபாங்கில் ஒரு சீனப் பல்கலைக்கழகத்தின் முதல் வெளிநாட்டுக் கிளை வளாகமான Xiamen University Malaysia இன் சிவப்பு கூரை கொண்ட முதன்மை வாயிலும் நிர்வாகக் கோபுரமும்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998-ஆம் ஆண்டில், கோலாலம்பூரில் இருந்த ஒரு மாணவர் நாட்டைவிட்டு வெளியேறாமலேயே ஆஸ்திரேலிய மொனாஷ் (Monash) பட்டத்தைப் பெற முடிந்தது — அதற்கு மலேசிய விலையையே செலுத்தினார். அந்த ஒரே ஏற்பாடு, நாடு அன்று முதல் கட்டியெழுப்பி வரும் ஒரு மாதிரியைத் தொடங்கி வைத்தது: மாணவரை அல்ல, பல்கலைக்கழகத்தையே இறக்குமதி செய்.

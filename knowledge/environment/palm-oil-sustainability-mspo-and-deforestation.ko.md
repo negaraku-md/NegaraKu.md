@@ -34,7 +34,7 @@ faq:
     a: "EUDR은 2023년 6월 29일 발효되었습니다. 여러 차례 연기를 거쳐, 대규모 사업자와 무역업자에게는 2026년 12월 30일부터, 영세·소규모 기업에게는 2027년 6월 30일부터 의무가 적용됩니다."
 
 lang: "ko"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: 기하학적인 기름야자 구획과 헐벗은 개벌지가 남은 짙은 초록 숲에 맞닿은 항공 경관
+    kind: actual
+    origin: third-party
+    subject: 보르네오 우림을 파고든 기름야자 개벌지를 보여주는 항공 전경으로, 농장 확장에 따른 산림 손실을 나타냄
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: 밝고 파란 하늘 아래 먼 능선까지 뻗은, 어린 기름야자가 심어진 완만한 초록 구릉
+    kind: actual
+    origin: third-party
+    subject: 조호르주 머싱 지역에서 완만한 구릉을 뒤덮은 광활한 기름야자 농장
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 말레이시아는 전 세계 팜유의 약 5분의 1을 생산하며, 이 산업은 삼림파괴와의 연관성을 두고 오랫동안 유럽과 NGO 활동가들의 비판을 받아 왔습니다. 이에 대응하여 말레이시아는 이제 의무적인 국가 지원 인증 제도를 운영하고 있으며, 2025년 9월 5일 유럽연합은 공동 성명에서 그 제도를 인정했습니다. 다음은 MSPO가 어떻게 작동하는지, 무엇을 증명하고 무엇을 증명하지 않는지, 그리고 어려운 문제가 여전히 어디에 남아 있는지입니다.

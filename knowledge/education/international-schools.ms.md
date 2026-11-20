@@ -40,7 +40,7 @@ obligations: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Bangunan sekolah antarabangsa berbilang tingkat dengan fasad kaca dan batu membulat berwarna merah dan kelabu, kereta dan motosikal diletak di hadapan
+    kind: representative
+    origin: third-party
+    subject: bangunan utama moden melengkung HELP International School, sebuah sekolah antarabangsa di Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Kanopi pintu masuk sekolah keluli-kaca moden yang bersih dan pondok pengawal di sisi lintasan, dibingkai pokok di bawah langit cerah
+    kind: representative
+    origin: third-party
+    subject: pintu masuk pandu lalu berbumbung International School of Kuala Lumpur kampus Ampang Hilir
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Sebuah sekolah berkurikulum British dan sebuah sekolah berkurikulum Amerika yang terletak di hujung bertentangan bandar yang sama, di atas kertas, dilesenkan oleh pejabat yang sama tepat di Putrajaya. Kedua-duanya tidak dibenarkan dari segi undang-undang untuk mengenakan "tabung pembinaan" kepada ibu bapa. Kedua-duanya tidak boleh menaikkan yuran melebihi 30% pada satu-satu masa. Dan kedua-duanya tidak diwajibkan menerbitkan satu angka pun yang ditetapkan oleh Kementerian sendiri — kerana daripada semua peraturan yang ditulis oleh Kementerian, harga sebenar bagi satu tempat duduk bukanlah salah satu daripadanya.

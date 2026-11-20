@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: Pandangan dari mata pemandu di Lebuhraya Karak menghampiri Susur Karak, papan tanda gantri hijau menunjuk ke Temerloh, Kuantan dan 'Lebuhraya Pantai Timur', dengan penunggang motosikal dan kereta — menjelajah Malaysia melalui jalan raya. Menambah mod lebuhraya/pemanduan yang berbeza daripada imej keretapi.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: Keretapi antara bandar KTM ETS Kelas 93 berlivery kempen berwarna-warni berhenti di platform bertingkat moden (Sungai Buloh), kabel udara di atas — pandangan stesen/menaiki keretapi antara bandar Malaysia. Konteks berbeza daripada pandangan udara kawasan lapang hero.
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 Tanya sesiapa yang pernah tinggal di Kuala Lumpur dan, katakan, Ipoh

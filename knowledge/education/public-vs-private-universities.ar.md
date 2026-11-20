@@ -23,7 +23,7 @@ verificationNeeded:
   - "لا يذكر هذا المقال أعداد القبول في البرامج، أو نسب الحصص، أو أرقام رسوم محددة لأيّ مؤسسة — فهذه تختلف بحسب البرنامج والحرم الجامعي وتتغيّر كل دفعة؛ تأكّد مباشرة من e-Panduan التابع لـ UPU (للجامعات العامة) أو من المؤسسة المعنية (للجامعات الخاصة) قبل التقديم."
   - "لم يُذكر هنا العدد الحالي الدقيق لمزوّدي IPTS المسجَّلين لأن جداول الإحصاءات المنشورة من MOHE (Statistik Pendidikan Tinggi) لم تُفتح بالكامل لهذا المقال — للحصول على رقم دقيق وحالي ارجع مباشرة إلى منشور Statistik Pendidikan Tinggi الصادر عن MOHE."
 lang: "ar"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: مبنى إدارة جامعية متعدّد الطوابق بزجاج أزرق وبرج مركزي مقوّس على تلّة منسّقة، تصعد إليه درجات مدرّجة تصطفّ عليها الأعلام
+    kind: representative
+    origin: third-party
+    subject: مبنى المستشارية الزجاجي الحديث لـ Universiti Teknologi MARA (UiTM)، إحدى أكبر الجامعات الحكومية في ماليزيا
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: بوّابة مدخل جامعة بأعمدة حجرية تحمل لافتة 'Universiti Sains Malaysia'، تحفّها سواري الأعلام وخضرة كثيفة تحت سماء غائمة
+    kind: representative
+    origin: third-party
+    subject: بوّابة المدخل الرئيسي لـ Universiti Sains Malaysia (USM)، جامعة بحثية حكومية، في نيبونغ تيبال، بينانغ
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 طالبتان بالنتيجة نفسها في امتحان SPM تنتهيان في نظامين مختلفين تماماً. تملأ إحداهما استمارة مركزية واحدة وتنتظر أشهراً لتُخبَر بأيّ جامعة وأيّ تخصّص خُصِّص لها. وتتقدّم الأخرى مباشرة إلى ثلاث جامعات خاصة في الأسبوع نفسه، فتحصل على عرض خلال أيام، وتختار أيّها شاءت. ولا مسار منهما «أفضل» بالإطلاق — لكن الخلط في كيفية عملهما هو أكثر خطأ شائع يرتكبه خرّيجو المدارس عند التخطيط بعد SPM.

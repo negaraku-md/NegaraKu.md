@@ -32,7 +32,7 @@ faq:
     a: "Moratorium là khoảng thời gian bạn bị cấm bán lại nhà mà không có sự cho phép. Residensi Wilayah áp đặt moratorium 10 năm và Rumah Selangorku 5 năm, để tránh đầu cơ và bảo đảm nhà vẫn dành cho nhóm mục tiêu."
 
 lang: "vi"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_L
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: Một dãy dài các tòa chung cư nhà ở công cộng màu kem mái đỏ ở Bukit Jalil, mỗi khối được đánh chữ, với xe đỗ dọc con đường khu dân cư cùng cây xanh và đường chân trời thành phố ở phía xa
+    kind: actual
+    origin: third-party
+    subject: một dãy chung cư cao tầng thuộc Chương trình Nhà ở Nhân dân (PPR) với bãi đỗ xe của cư dân ở Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: Một khối chung cư nhà ở công cộng màu vàng mù tạt và trắng ở Kota Damansara nhìn từ dưới lên trên nền trời u ám, nhiều căn hộ giống hệt nhau lắp lưới cửa sổ và máy lạnh, được khung bởi một cành cây
+    kind: actual
+    origin: third-party
+    subject: một khối nhà ở công cộng PPR (Gugusan Kemuning) ở Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 Lương của bạn RM4,000 mỗi tháng và giá nhà liền kề ở thành phố đã chạm nửa triệu ringgit — bạn nên bắt đầu tìm ở đâu? Câu trả lời không phải một chương trình, mà là một danh mục các chương trình của chính phủ mà mỗi cái nhắm đến một mức thu nhập khác nhau. Chọn sai nghĩa là lãng phí nhiều tháng chờ bốc thăm cho một căn nhà mà bạn vốn không đủ điều kiện.

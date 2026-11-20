@@ -32,7 +32,7 @@ faq:
     a: "விற்பனைத் தடை என்பது அனுமதியின்றி வீட்டை மறுவிற்பனை செய்வது தடைசெய்யப்பட்ட காலப்பகுதி. ஊகவணிகத்தைத் தவிர்க்கவும், வீடு இலக்குப் பிரிவினருக்கே இருப்பதை உறுதிசெய்யவும், Residensi Wilayah 10 ஆண்டு தடையையும் Rumah Selangorku 5 ஆண்டு தடையையும் விதிக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_L
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: புக்கிட் ஜலீலில் ஒவ்வொரு அலகும் எழுத்திட்ட, குடியிருப்புச் சாலையோரம் நிறுத்தப்பட்ட கார்களுடனும் தொலைவில் பசுமையும் நகர அடிவானமும் கொண்ட கிரீம் நிற, சிவப்பு கூரை கொண்ட பொதுக் குடியிருப்பு கோபுர வரிசை
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், புக்கிட் ஜலீலில் குடியிருப்பாளர் கார் நிறுத்துமிடத்துடன் கூடிய மக்கள் வீட்டுத் திட்ட (PPR) உயரமான குடியிருப்பு வரிசை
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: கோட்டா டமன்சாராவில் மேகமூட்டமான வானத்திற்கு எதிராக கீழிருந்து பார்க்கப்படும் ஒற்றை கடுகு-வெள்ளை நிற பொதுக் குடியிருப்புத் தொகுதி, அதன் பல ஒரே மாதிரியான அலகுகள் ஜன்னல் கிரில்களும் குளிரூட்டிகளும் பொருத்தப்பட்டு, ஒரு மரக் கிளையால் சட்டகப்படுத்தப்பட்டு
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், கோட்டா டமன்சாராவில் ஒரு PPR பொதுக் குடியிருப்புத் தொகுதி (Gugusan Kemuning)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 உங்கள் மாத ஊதியம் RM4,000, ஆனால் நகரத்தில் வரிசை வீட்டின் (teres) விலை அரை மில்லியன் ரிங்கிட்டைத் தொட்டுவிட்டது — எங்கிருந்து தேடத் தொடங்க வேண்டும்? பதில் ஏதோ ஒரு திட்டம் அல்ல, மாறாக ஒவ்வொன்றும் வெவ்வேறு வருமான வரம்பை இலக்காகக் கொள்ளும் அரசாங்கத் திட்டங்களின் ஒரு பட்டியல். தவறானதைத் தேர்ந்தெடுப்பது என்பது, நீங்கள் தகுதியே இல்லாத ஒரு வீட்டுக்காக மாதக்கணக்கில் குலுக்கல் காத்திருந்து வீணடிப்பதைக் குறிக்கும்.

@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Seksyen 2 secara nyata mengecualikan hidupan liar yang termasuk di bawah Senarai II Jadual Kesembilan Perlembagaan Persekutuan dan di bawah Akta Perikanan 1985, jadi spesies marin dan kebanyakan spesies perikanan dikawal di tempat lain."
 
 lang: "ms"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: Tapir Malaya hitam-putih berdiri di tengah sarap daun dan anak pokok dalam hutan gelap
+    kind: actual
+    origin: third-party
+    subject: Tapir Malaya mencari makan di dasar hutan pada waktu malam, spesies dilindungi yang terancam oleh kehilangan habitat
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: Burung enggang hitam besar dengan kepala kokak jingga-merah terbalik terang bertenggek di dahan di tengah daun hijau
+    kind: actual
+    origin: third-party
+    subject: Enggang badak liar bertenggek di silara hutan hujan Hutan Simpan Hidupan Liar Tabin, Sabah
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 Simpan kulit harimau Malaya di dalam but kereta anda dan anda bukan sekadar berhadapan dengan denda dan surat amaran yang tegas — anda berhadapan dengan penjara bertahun-tahun dan denda yang diukur dalam ratusan ribu ringgit. Itulah hujung tajam Akta Pemuliharaan Hidupan Liar 2010, undang-undang yang menentukan haiwan mana di Semenanjung Malaysia yang boleh anda sentuh, simpan, jual atau kaji, dan yang mana anda tidak boleh dekati tanpa kebenaran bertulis daripada negeri.

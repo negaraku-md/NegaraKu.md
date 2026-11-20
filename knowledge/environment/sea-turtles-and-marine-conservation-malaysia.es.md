@@ -31,7 +31,7 @@ faq:
     a: "Los parques marinos peninsulares están declarados en la Gaceta bajo la Ley de Pesca de 1985. Esta establece una zona de protección de dos millas náuticas desde la isla donde se prohíben actividades como molestar a las tortugas que anidan y recoger crías."
 
 lang: "es"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: Una tortuga verde deslizándose sobre un arrecife de coral en las aguas azules frente a Sipadan, Malasia
+    kind: actual
+    origin: third-party
+    subject: Tortuga verde (Chelonia mydas) nadando sobre un arrecife de coral en Sipadan, Sabah, Malasia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: Una tortuga verde descansando bajo un saliente rocoso del arrecife rodeada de corales de colores
+    kind: actual
+    origin: third-party
+    subject: Tortuga verde (Chelonia mydas) descansando bajo un saliente del arrecife en Barracuda Point, Sipadan, Sabah, Malasia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 A finales de la década de 1960, unas 2,000 tortugas laúd hembras salían cada año a la orilla en un único tramo de playa de Rantau Abang, Terengganu, y dejaban casi 10,000 nidos de huevos en la arena. Hoy no queda ni una sola. Esa historia de declive es uno de los fracasos de conservación de fauna silvestre más llamativos de la región — y ha moldeado cómo Malasia protege a las tortugas marinas hasta el día de hoy.

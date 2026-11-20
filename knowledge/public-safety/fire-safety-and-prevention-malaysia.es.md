@@ -32,7 +32,7 @@ faq:
     a: "Los problemas relacionados con la electricidad están entre los más frecuentes en los incendios residenciales — instalaciones defectuosas, enchufes sobrecargados y alargadores desgastados. Dejar la cocina sin vigilancia y las fugas de gas LPG también son causas importantes."
 
 lang: "es"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepart
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: El costado de un camión de bomberos rojo «Bomba dan Penyelamat» con sus compartimentos de persiana abiertos que muestran mangueras enrolladas ordenadamente, un carrete de manguera, equipos de respiración, un generador portátil y otro material de rescate
+    kind: actual
+    origin: third-party
+    subject: los compartimentos laterales abiertos de un camión de bomberos Bomba malasio mostrando su equipo de extinción y rescate
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: Una furgoneta de rescate Toyota Hiace de Bomba roja con la decoración «Bomba dan Penyelamat», letras amarillas BOMBA y el escudo del departamento, aparcada sobre la hierba junto a árboles en un entorno de aldea rural
+    kind: actual
+    origin: third-party
+    subject: una furgoneta roja de rescate de emergencias de Bomba desplegada en un kampung rural en Ranau, Sabah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 El fuego no avisa. En cuestión de minutos, una chispa de un enchufe

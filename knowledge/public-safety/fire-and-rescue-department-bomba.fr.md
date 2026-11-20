@@ -31,7 +31,7 @@ faq:
     a: "Le JBPM figure comme un département relevant du ministère du Logement et des Collectivités locales (KPKT). Les portefeuilles ministériels en Malaisie sont réorganisés de temps à autre, aussi confirmez la configuration en vigueur sur kpkt.gov.my ou bomba.gov.my avant de vous y fier dans des documents officiels."
 
 lang: "fr"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: Un camion de secours Bomba rouge à quatre roues motrices, avec une benne arrière bâchée et l'écusson du département sur la portière, garé sur le parvis d'une caserne à toit rouge avec un palmier derrière
+    kind: actual
+    origin: third-party
+    subject: un camion de secours lourd Bomba rouge garé à la caserne de Sandakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: La façade d'une caserne de trois étages peinte en beige et terre cuite, sa rangée de rideaux métalliques épelant BOMBA en grandes lettres rouges sous un panneau indiquant « Balai Bomba dan Penyelamat Jalan Kubu », avec des guirlandes de lanternes rouges tendues sur la façade
+    kind: actual
+    origin: third-party
+    subject: la façade de la caserne de pompiers de Jalan Kubu (Balai Bomba dan Penyelamat) à Melaka, le mot BOMBA inscrit en grand sur les rideaux des remises à véhicules
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 Lorsqu'une maison prend feu, qu'une voiture est prise au piège dans une

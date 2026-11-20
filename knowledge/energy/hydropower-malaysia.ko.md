@@ -32,7 +32,7 @@ faq:
     a: "아닙니다. 412km²를 수몰시키고 약 2만 명을 이주시킬 것으로 예상되던 바람 댐은 2015년 모라토리엄으로 보류되었다가, 오랜 원주민 반대 이후 2016년에 공식 취소되었습니다."
 
 lang: "ko"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: '무룸 댐 발전소 내부: 노란색 천장 크레인이 있는 높은 홀 아래 윤이 나는 바닥 위에 1번과 2번 번호가 매겨진 파란 원통형 수력 발전기들이 줄지어 서 있다'
+    kind: actual
+    origin: third-party
+    subject: 수력 발전기들을 보여주는 무룸 댐 발전소 내부
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: 저수지를 가두는 콘크리트 무룸 댐 벽과 쌍둥이 방수로 활강 수로를, 울창한 초록빛 사라왁 우림 언덕 너머 멀리서 바라본 모습
+    kind: actual
+    origin: third-party
+    subject: 숲으로 덮인 언덕 너머로 바라본 사라왁의 무룸 수력 댐
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 보르네오의 우림 산맥에서 흘러내리는 물이 이제 알루미늄 공장에 전력을 공급하는 터빈을 돌립니다 — 그것이 바로 말레이시아 재생에너지 전략의 핵심입니다. 그러나 그곳에 이르는 길은 초대형 댐, 수백 제곱킬로미터에 이르는 호수, 그리고 어쩔 수 없이 이주해야 했던 수천 원주민 가족으로 얼룩져 있습니다.

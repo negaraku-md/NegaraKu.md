@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Pasal 2 secara tegas mengecualikan satwa liar yang termasuk di bawah Daftar II Lampiran Kesembilan Konstitusi Federal dan di bawah Fisheries Act 1985, sehingga spesies laut dan kebanyakan spesies perikanan diatur di tempat lain."
 
 lang: "id"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: Seekor tapir Malaya hitam-putih berdiri di antara serasah daun dan anakan pohon di hutan yang gelap
+    kind: actual
+    origin: third-party
+    subject: Tapir Malaya mencari makan di lantai hutan pada malam hari, spesies dilindungi yang terancam oleh hilangnya habitat
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: Seekor enggang hitam besar dengan balung merah-oranye melengkung ke atas yang cerah bertengger di dahan di antara dedaunan hijau
+    kind: actual
+    origin: third-party
+    subject: Seekor enggang badak liar bertengger di kanopi hutan hujan Suaka Margasatwa Tabin, Sabah
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 Simpan kulit harimau Malaya di dalam bagasi mobil Anda dan Anda bukan sekadar berhadapan dengan denda dan surat peringatan yang tegas — Anda berhadapan dengan penjara bertahun-tahun dan denda yang diukur dalam ratusan ribu ringgit. Itulah ujung tajam Wildlife Conservation Act 2010, undang-undang yang menentukan hewan mana di Semenanjung Malaysia yang boleh Anda sentuh, simpan, jual, atau kaji, dan yang mana tidak boleh Anda dekati tanpa izin tertulis dari negara bagian.

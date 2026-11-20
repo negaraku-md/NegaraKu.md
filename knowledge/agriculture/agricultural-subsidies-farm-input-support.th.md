@@ -34,7 +34,7 @@ faq:
     a: "กระทรวงเกษตรและความมั่นคงทางอาหาร (KPKM) ผ่านฝ่ายพัฒนาอุตสาหกรรมข้าว โดยมีหน่วยงานดำเนินการอย่างองค์การกลุ่มเกษตรกร (LPP) MADA และ KADA ในพื้นที่นาข้าวหลักของแต่ละแห่ง"
 
 lang: "th"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-0
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: คนขับรถเกี่ยวนวดข้าวสีเหลืองแล่นผ่านนาข้าวที่เพิ่งเกี่ยวเหลือตอซังเปียกชื้นยามพลบค่ำ มีต้นปาล์มเรียงรายที่เส้นขอบฟ้า
+    kind: actual
+    origin: third-party
+    subject: รถเกี่ยวนวดข้าวกำลังเกี่ยวข้าวในนาเปียกโคลนยามพลบค่ำที่ลังกาวี รัฐเกดะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: หญิงคลุมผ้าคลุมศีรษะกำลังตัดรวงข้าวสีทองด้วยมีดเล็กและรวบใส่ตะกร้าสานสีเหลือง
+    kind: actual
+    origin: third-party
+    subject: หญิงชาวดูซุนกำลังเกี่ยวรวงข้าวสุกด้วยมือใส่ตะกร้าสานในอำเภอกูดัต รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 ปุ๋ยกระสอบที่ชาวนาแบกไปยังนาของตนในเช้าวันนั้น ไม่ได้ซื้อด้วยเงินของตนเอง — มันมาโดยไม่ต้องจ่าย เพราะรัฐบาลกลางรับภาระมานานหลายทศวรรษ นี่คือโฉมหน้าที่แท้จริงของเงินอุดหนุนการเกษตรของมาเลเซียสำหรับข้าว ไม่ใช่เช็คหรือเงินเข้าบัญชี แต่เป็นปุ๋ย ยา และแรงจูงใจที่รับภาระต้นทุนส่วนใหญ่ในไร่นา

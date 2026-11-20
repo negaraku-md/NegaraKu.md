@@ -34,7 +34,7 @@ faq:
     a: "Section 10 of the National Parks Act 1980 prohibits mining and prospecting within a national park, unless the State Authority, after consulting the Minister, finds that a mineral deposit exists that is so exceptionally rich."
 
 lang: "en"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: View from the bow of a boat across the still waters of a lake toward forested hills under a blue sky at Royal Belum State Park
+    kind: actual
+    origin: third-party
+    subject: Exploring the forested shores of Royal Belum State Park by boat
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Morning mist rising off forested mountain slopes with a single tall bare tree in the foreground at Kinabalu Park, Sabah
+    kind: actual
+    origin: third-party
+    subject: Low cloud forming over montane rainforest in Kinabalu Park, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 Ask anyone where "Malaysia's national park" is and they will point to one place. In reality, Malaysia does not have a single national park — it has three legal systems that are entirely separate, and one of them does not even cover the place most famous by the name "[Taman Negara](/en/tourism/taman-negara-ecotourism-guide)". Understanding this legal map is the key to planning a visit, conducting research, or simply grasping how Malaysia protects its 130-million-year-old rainforests.

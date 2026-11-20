@@ -32,7 +32,7 @@ faq:
     a: "بدأت Rapid Bus تحويل 19 مساراً منخفض الإقبال — 16 مسار تغذية لـ MRT و3 مسارات عادية، أي نحو 7% من الشبكة — إلى خدمة حافلات صغيرة قابلة للحجز باسم Rapid KL On-Demand."
 
 lang: "ar"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,23 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: حافلة مدينة كهربائية مجانية زرقاء-خضراء من GO KL تتوقّف عند موقف/مأوى على الرصيف ('100% Clean Energy / Perkhidmatan Bas Percuma') — منظر لحافلة عند موقف وطلاء/نمط مميّز. راكبان ضئيلان غير قابلَين للتعرّف عند المأوى.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: منظر جانبي نظيف لحافلة Rapid KL أحادية الطابق (بطلاء أحمر/كريمي/أزرق) عند KL Sentral — يكمّل حافلة البطل المزدوجة الطابق وحافلة GO KL الكهربائية. بلا وجوه.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 يوصلك القطار إلى المحطة، لكنه نادراً ما يوصلك إلى البيت. تلك الفجوة — من رصيف MRT أو LRT إلى عتبة دارك، أو مجمّع مكتبك الصناعي، أو السوق المبلّل على بُعد حيَّين — تملؤها أسطولٌ قلّما يفكّر فيه معظم الركّاب: حافلات Rapid KL.

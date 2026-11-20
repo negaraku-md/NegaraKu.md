@@ -34,7 +34,7 @@ faq:
     a: "नहीं। जहाँ Monash, Nottingham, Xiamen और Heriot-Watt क्लांग घाटी (Klang Valley) और पुत्राजया (Putrajaya) के आसपास एकत्र हैं, वहीं EduCity Iskandar सिंगापुर के पास जोहोर (Johor) में कई परिसरों को केंद्रित करता है, और Curtin तथा Swinburne सारावाक (Sarawak) में संचालित होते हैं।"
 
 lang: "hi"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: एक काँच के ऊँचे स्काईब्रिज से जुड़े बड़े बेज परिसर ब्लॉक, एक टावर पर Monash प्रतीक और आँगन में ताड़ के पेड़
+    kind: representative
+    origin: third-party
+    subject: Sunway City, Selangor में एक काँच के स्काईब्रिज से जुड़ी Monash University Malaysia शाखा परिसर की इमारतें
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: आंशिक रूप से बादल भरे आकाश के नीचे एक द्वार-युक्त प्रवेश चौक के पीछे सीढ़ीदार लाल चीनी-शैली की छतों वाली सफ़ेद परिसर इमारतें
+    kind: representative
+    origin: third-party
+    subject: Sepang, Selangor में Xiamen University Malaysia का लाल-छत वाला मुख्य द्वार और प्रशासन टावर, जो किसी चीनी विश्वविद्यालय का पहला विदेशी शाखा परिसर है
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998 में, कुआलालंपुर (Kuala Lumpur) का एक छात्र देश छोड़े बिना एक ऑस्ट्रेलियाई Monash उपाधि अर्जित कर सकता था — और उसके लिए मलेशियाई कीमतें चुका सकता था। उस एकल व्यवस्था ने एक ऐसा मॉडल शुरू किया जिस पर देश तब से निर्माण करता आया है: छात्र को नहीं, विश्वविद्यालय को आयात करो।

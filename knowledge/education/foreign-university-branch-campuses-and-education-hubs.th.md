@@ -34,7 +34,7 @@ faq:
     a: "ไม่ ขณะที่ Monash, Nottingham, Xiamen และ Heriot-Watt กระจุกตัวอยู่รอบหุบเขากลังและปุตราจายา แต่ EduCity Iskandar รวมวิทยาเขตหลายแห่งไว้ในยะโฮร์ใกล้สิงคโปร์ และ Curtin กับ Swinburne ดำเนินการอยู่ในซาราวัก"
 
 lang: "th"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: อาคารวิทยาเขตสีเบจขนาดใหญ่เชื่อมกันด้วยสกายบริดจ์ยกระดับกระจก มีตราโมแนชบนหอคอยและต้นปาล์มในลานกลาง
+    kind: representative
+    origin: third-party
+    subject: อาคารวิทยาเขตสาขามหาวิทยาลัยโมแนชมาเลเซียเชื่อมกันด้วยสกายบริดจ์กระจก ซันเวย์ซิตี รัฐสลังงอร์
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: อาคารวิทยาเขตสีขาวหลังคาลดหลั่นสไตล์จีนสีแดงอยู่หลังลานทางเข้าที่มีประตูใต้ท้องฟ้ามีเมฆบางส่วน
+    kind: representative
+    origin: third-party
+    subject: ประตูหลักหลังคาแดงและหอบริหารของมหาวิทยาลัยเซี่ยเหมินมาเลเซีย วิทยาเขตสาขาต่างประเทศแห่งแรกของมหาวิทยาลัยจีน ในเซปัง รัฐสลังงอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 ในปี 1998 นักศึกษาในกัวลาลัมเปอร์สามารถได้รับปริญญาจาก Monash ของออสเตรเลียโดยไม่ต้องออกนอกประเทศ — และจ่ายในราคาแบบมาเลเซีย ข้อตกลงเดียวนั้นได้จุดประกายโมเดลที่ประเทศได้พัฒนาต่อยอดมานับแต่นั้น: นำเข้ามหาวิทยาลัย ไม่ใช่นักศึกษา

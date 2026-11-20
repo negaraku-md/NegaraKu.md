@@ -34,7 +34,7 @@ faq:
     a: "دخلت EUDR حيز النفاذ في 29 يونيو 2023. وبعد تأجيلات، تسري الالتزامات اعتبارًا من 30 ديسمبر 2026 بالنسبة إلى المشغّلين والتجار الكبار ومن 30 يونيو 2027 بالنسبة إلى المنشآت المتناهية الصغر والصغيرة."
 
 lang: "ar"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: منظر جوي حيث تضغط قطع نخيل الزيت الهندسية والرقع العارية المُزالة على الغابة الخضراء الداكنة المتبقّية
+    kind: actual
+    origin: third-party
+    subject: منظر جوي لمساحات نخيل الزيت المُزالة المقتطعة من غابة بورنيو المطيرة، يُظهر فقدان الغابة لصالح توسّع المزارع
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: تلال خضراء متموّجة مزروعة بنخيل زيت صغير تمتدّ إلى تلال بعيدة تحت سماء زرقاء ساطعة
+    kind: actual
+    origin: third-party
+    subject: مزرعة نخيل زيت ممتدّة تغطّي تلالًا متموّجة في منطقة ميرسينغ، جوهور
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 تنتج ماليزيا نحو خُمس زيت النخيل في العالم، وطالما تعرّضت الصناعة لانتقاد من ناشطي الحملات الأوروبيين والمنظمات غير الحكومية بسبب صلاتها بإزالة الغابات. واستجابةً لذلك، تدير البلاد الآن مخطط اعتماد إلزاميًا مدعومًا من الدولة، وفي 5 سبتمبر 2025 اعترف الاتحاد الأوروبي بذلك المخطط في بيان مشترك. وهذا هو كيف يعمل MSPO، وما الذي يثبته وما لا يثبته، وأين تظل المشكلات الصعبة قائمة.

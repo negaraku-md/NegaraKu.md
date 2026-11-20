@@ -34,7 +34,7 @@ faq:
     a: "Macaranga அறிக்கையின்படி, Environmental Quality Act 1974க்கு 2023ல் செய்யப்பட்ட திருத்தங்கள், மாசு குற்றங்களுக்கு குறைந்தபட்ச அபராதம் RM5,000 மற்றும் அதிகபட்சம் RM10 மில்லியன் வரை, மேலும் ஐந்து ஆண்டுகளுக்கு மிகாத கட்டாய சிறைத்தண்டனையை நிர்ணயித்தன. Selangorன் ஆற்று இருப்பு மண்டல முறையின் கீழ் (Section 48(1) LUAS Enactment 1999) செய்யப்படும் குற்றங்களுக்கு, தண்டனை RM50,000க்கு மிகாத அபராதம் அல்லது இரண்டு ஆண்டுகளுக்கு மிகாத சிறைத்தண்டனை, அல்லது இரண்டும் ஆகும். 1974 சட்டத் திருத்தங்களின் இந்த எண்ணிக்கைகள் ஒரு இரண்டாம்நிலை அறிக்கையிலிருந்து வந்தவை, அதிகாரப்பூர்வ வர்த்தமானி உரைக்கு எதிராக சரிபார்க்கப்பட வேண்டும்."
 
 lang: "ta"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: உயரமான நகரக் கட்டிடங்களுக்கும் கற்பாகப்படுத்தப்பட்ட ஆற்றங்கரை நடைபாதைக்கும் இடையே அகன்ற காங்கிரீட் கால்வாய் வழியே ஓடும் குறுகலான ஆறு
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் மையத்தில் உயரமான கட்டிடங்களுக்கு இடையே காங்கிரீட் கால்வாயில் அடைபட்ட கிள்ளான் ஆறு, நகர ஆற்று நீர்த் தரத்தின் மீதான அழுத்தத்தைக் காட்டுகிறது
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: மாலைப்பொழுதில் நிழலுருவான காடுகள் சூழ்ந்த மலைகளைப் பின்னணியாகக் கொண்டு தாழ்ந்த சூரியனைப் பிரதிபலிக்கும் அமைதியான, பரந்த ஏரி
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் படாங் ஆய் அணைக்குப் பின்னால் உள்ள நீர்த்தேக்கம், மூலநீரின் முக்கிய கிடங்கும் நீர்மின் மூலமும்
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 திங்கட்கிழமை காலையில் குழாயைத் திறந்தால் அது வறண்டு போயிருப்பதைக் காண்கிறீர்கள் — பீப்பாய் கெட்டதால் அல்ல, மாறாக மேல்முகத்தில் உள்ள ஒரு தொழிற்சாலை உங்கள் நகரத்திற்கு மூல நீரை வழங்கும் துணை ஆற்றில் துர்நாற்றம் வீசும் கழிவை வெளியேற்றியதால். இது கிள்ளான் பள்ளத்தாக்கில் (Klang Valley) மீண்டும் மீண்டும் நிகழும் யதார்த்தமாகும், மேலும் "ஆற்று தரம்" என்பது வெறும் சூழலியல் பிரச்சினை மட்டுமல்ல, மில்லியன் கணக்கான வீடுகளுக்கான நீர் வழங்கல் பாதுகாப்பின் விவகாரம் என்பதையும் இது விளக்குகிறது.

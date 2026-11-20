@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังหาบ้านเช่าในมาเลเซีย ไม่ว่าจะเช่าในประเทศเป็นครั้งแรกหรือจัดการการเช่าจากต่างประเทศ"
 
 lang: "th"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: อาคารอพาร์ตเมนต์ที่พักอาศัยสีครีมและเลือดหมูสองหลังใหญ่มีแถวระเบียงและเครื่องปรับอากาศในย่านชานเมืองจอร์จทาวน์ ปีนัง ชั้นล่างถูกบังด้วยต้นไม้
+    kind: representative
+    origin: third-party
+    subject: อาคารอพาร์ตเมนต์ที่พักอาศัยระดับกลางในย่านชานเมืองจอร์จทาวน์ ปีนัง
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: กลุ่มตึกคอนโดมิเนียมสูงทันสมัยที่มีระเบียงลดหลั่นในกัวลาลัมเปอร์ มองจากระดับถนนตัดกับท้องฟ้ามืดครึ้มสีซีด
+    kind: representative
+    origin: third-party
+    subject: ตึกคอนโดมิเนียมสูงทันสมัย (Orion Condominium และ Sky Residences) ในกัวลาลัมเปอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 คุณพบประกาศที่คุณชอบบนพอร์ทัล ส่งข้อความไปยังเบอร์ที่อยู่บนนั้น และมีคนมาไขกุญแจหน่วยที่อยู่อาศัยให้ ไม่มีอะไรในการแลกเปลี่ยนนั้นบอกคุณว่าคนที่ยื่นกุญแจให้คุณได้รับอนุญาตตามกฎหมายให้ทำสิ่งนี้เพื่อรับค่าธรรมเนียมหรือไม่ และแทบไม่มีใครถาม

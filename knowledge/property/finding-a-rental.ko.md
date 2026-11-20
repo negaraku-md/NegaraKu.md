@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "국내에서 처음 임차하든 해외에서 임차를 마련하든, 말레이시아에서 임차 주택을 찾는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: 페낭 조지타운 교외의 크림색·고동색 주거 아파트 두 동. 발코니와 에어컨 실외기가 줄지어 있고, 낮은 층은 나무에 가려 있다
+    kind: representative
+    origin: third-party
+    subject: 페낭 조지타운 교외의 중급 주거 아파트 동
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: 옅은 흐린 하늘을 배경으로 거리 높이에서 바라본, 층층이 발코니가 있는 쿠알라룸푸르의 높고 현대적인 콘도미니엄 타워 무리
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르의 현대적인 고층 콘도미니엄 타워(오리온 콘도미니엄과 스카이 레지던스)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 포털에서 마음에 드는 매물을 찾아 거기 적힌 번호로 연락하면, 누군가 나타나 그 세대의 문을 열어 줍니다. 그 과정 어디에도, 당신에게 열쇠를 건네는 그 사람이 애초에 수수료를 받고 이 일을 할 법적 자격이 있는지는 나오지 않습니다 — 그리고 거의 아무도 묻지 않습니다.

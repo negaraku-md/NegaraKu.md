@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: 木漏れ日の下、草むらに横たわるマレートラ。縞模様の毛皮に光が差す
+    kind: actual
+    origin: third-party
+    subject: 草と葉の間、木漏れ日の中に横たわるマレートラ(Panthera tigris jacksoni)
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: マレートラの頭部の横顔のクローズアップ。特徴的な黒とオレンジの顔の縞と髭を見せる
+    kind: actual
+    origin: third-party
+    subject: 顔の模様を見せるマレートラ(Panthera tigris jacksoni)の横顔のポートレート
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 トラはマレーシアの国章に描かれているが、この動物自体は今や世界で最も希少な大型ネコ科動物の一つとなっている。マレーシアが初の野生トラ全国調査を完了したとき、その結果は多くの人が予想していたよりも低かった――150頭未満である。

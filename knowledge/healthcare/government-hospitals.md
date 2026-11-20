@@ -78,6 +78,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: Bangunan bersalin merah jambu bergaya modernis di Hospital Kuala Lumpur dilihat melepasi pokok, dengan menara bandar Kuala Lumpur di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Blok bersalin (Hospital Bersalin) di Hospital Kuala Lumpur, dengan garis langit KLCC di belakang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Bangunan jabatan satu tingkat di Hospital Kuala Lumpur dengan papan tanda biru bertulis Jabatan Perubatan Rehabilitasi dan kereta diletak di hadapan
+    kind: actual
+    origin: third-party
+    subject: Bangunan Jabatan Perubatan Rehabilitasi di Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 Tiket giliran di tangan, nombor sudah lebih 80 orang di hadapan, dan papan

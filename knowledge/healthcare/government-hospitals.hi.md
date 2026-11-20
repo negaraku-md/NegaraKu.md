@@ -27,7 +27,7 @@ verificationNeeded:
   - "60 वर्ष और उससे अधिक आयु के नागरिकों के लिए विशिष्ट शुल्क छूट/रियायत — जिसे व्यापक रूप से RM5 विशेषज्ञ क्लिनिक पंजीकरण शुल्क से छूट और श्रेणी 3 शुल्क पर 50% कमी के रूप में बताया जाता है — की आधिकारिक moh.gov.my वेबसाइट पर सीधे पुष्टि नहीं की जा सकी (पहुँच का प्रयास करने पर 403 Forbidden), इसलिए उन आँकड़ों को जानबूझकर पुष्ट तथ्य के रूप में नहीं बताया गया है; केवल तंत्र को सामान्य शब्दों में वर्णित किया गया है।"
   - "प्रतीक्षा-समय के आँकड़े (उदाहरण के लिए किसी विशेषज्ञ अपॉइंटमेंट या वैकल्पिक सर्जरी के लिए औसत दिनों/घंटों की संख्या) नहीं बताए गए हैं, क्योंकि लिखते समय KKM के कोई पुष्टियोग्य आधिकारिक आँकड़े नहीं मिल सके; प्रतीक्षा समय की वास्तविकता को केवल गुणात्मक रूप से वर्णित किया गया है।"
 lang: "hi"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: पेड़ों के पार दिखती Hospital Kuala Lumpur की गुलाबी आधुनिक प्रसूति इमारत, दूर Kuala Lumpur शहर के टावर
+    kind: actual
+    origin: third-party
+    subject: Hospital Kuala Lumpur का प्रसूति खंड (Hospital Bersalin), पीछे KLCC क्षितिज-रेखा
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Hospital Kuala Lumpur में एक एकमंज़िला विभाग इमारत, जिस पर Jabatan Perubatan Rehabilitasi लिखा नीला मलय साइनबोर्ड और सामने खड़ी कारें
+    kind: actual
+    origin: third-party
+    subject: Hospital Kuala Lumpur में पुनर्वास चिकित्सा विभाग (Jabatan Perubatan Rehabilitasi) की इमारत
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 हाथ में कतार की पर्ची, नंबर आपसे पहले ही 80 से अधिक लोगों का, और दीवार पर लगा

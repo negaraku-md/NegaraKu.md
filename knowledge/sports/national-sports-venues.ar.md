@@ -28,7 +28,7 @@ faq:
     a: "لا. استضافت سيبانغ جائزة فورمولا 1 الكبرى حتى عام 2017؛ وتركّز الحلبة الآن على MotoGP وفعاليات رياضة السيارات الأخرى."
 
 lang: "ar"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadiu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: الداخل الشاسع لملعب بوكيت جليل الوطني ليلًا، سقفه الشدّي الأبيض المنحني مضاء فوق جمهور كامل يطوّق الملعب الأخضر ومضمار الجري الأحمر
+    kind: actual
+    origin: third-party
+    subject: الحوض الداخلي والسقف الشدّي لملعب بوكيت جليل الوطني مكتظًّا لمباراة ليلًا
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: الواجهة الفضّية المشرّحة لـ Axiata Arena في بوكيت جليل، تحمل اسم أرينا أكسياتا وشعارها فوق مدخلها الزجاجي المنحني، تحفّها أشجار صغيرة تحت سماء رمادية
+    kind: actual
+    origin: third-party
+    subject: الواجهة الخارجية لـ Axiata Arena، الصالة الداخلية لمجمّع الرياضة الوطني في بوكيت جليل
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 عندما يملأ 85,500 متفرج منحنى الطبقات الثلاث لاستاد TM الوطني في ليلة نهائي كرة قدم، فإنهم يجلسون داخل أكبر رمز للبنية التحتية الرياضية في ماليزيا — ومع ذلك فهو ليس إلا واحداً من عدة ملاعب تحمل الفعاليات الكبرى للبلاد.

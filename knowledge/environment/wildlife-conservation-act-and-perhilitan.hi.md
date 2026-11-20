@@ -36,7 +36,7 @@ faq:
     a: "नहीं। धारा 2 स्पष्ट रूप से संघीय संविधान की नौवीं अनुसूची की सूची II के तहत और मत्स्य पालन अधिनियम 1985 (Fisheries Act 1985) के तहत आने वाले वन्यजीवों को बाहर रखती है, इसलिए समुद्री और अधिकांश मत्स्य प्रजातियाँ अन्यत्र शासित होती हैं।"
 
 lang: "hi"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: अँधेरे जंगल में पत्तियों के बिछौने और छोटे पौधों के बीच खड़ा एक काला-सफ़ेद मलायन टैपिर
+    kind: actual
+    origin: third-party
+    subject: रात में जंगल के फ़र्श पर भोजन खोजता एक मलायन टैपिर, एक संरक्षित प्रजाति जिसे आवास-हानि का ख़तरा है
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: एक बड़ा काला धनेश (हॉर्नबिल) चमकीली लाल-नारंगी ऊपर की ओर मुड़ी चोंच-कलगी के साथ हरी पत्तियों के बीच एक टहनी पर बैठा हुआ
+    kind: actual
+    origin: third-party
+    subject: Tabin Wildlife Reserve, Sabah के वर्षावन की छतरी में बैठा एक जंगली राइनोसेरोस हॉर्नबिल
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 अपनी कार की डिक्की में एक मलायी बाघ की खाल रखिए और आप किसी जुर्माने और एक कड़े पत्र का सामना नहीं कर रहे होंगे — आप वर्षों की जेल और लाखों रिंगिट में मापे जाने वाले जुर्माने का सामना कर रहे होंगे। यही वन्यजीव संरक्षण अधिनियम 2010 का तीखा सिरा है, वह कानून जो तय करता है कि प्रायद्वीपीय मलेशिया में आप किन जानवरों को छू सकते हैं, रख सकते हैं, बेच सकते हैं या उनका अध्ययन कर सकते हैं, और किनके पास राज्य की लिखित अनुमति के बिना आप फटक भी नहीं सकते।

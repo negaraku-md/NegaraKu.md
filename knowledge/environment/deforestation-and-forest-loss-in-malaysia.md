@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Aerial view of an isolated island of dark native rainforest encircled by the regular rows of an oil palm plantation in Sabah, Malaysian Borneo
+    kind: actual
+    origin: third-party
+    subject: A remnant patch of native rainforest surrounded by oil palm plantations in Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: High aerial view of rainforest cut through by a web of pale logging roads and orange cleared patches in Sabah, Malaysian Borneo
+    kind: actual
+    origin: third-party
+    subject: Forest cut by logging roads and clearings for oil palm in Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 Ask three credible sources how much of Malaysia is still forest and you can get three answers that are ten percentage points apart — all defensible, all measuring something slightly different. That gap is not a rounding error; it is the whole argument about Malaysian deforestation in miniature.

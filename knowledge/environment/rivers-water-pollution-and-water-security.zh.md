@@ -34,7 +34,7 @@ faq:
     a: "据Macaranga报道，2023年对1974年《环境质量法令》（Akta Kualiti Alam Sekeliling 1974）的修订规定，污染罪行的最低罚款为5,000令吉，最高可达1,000万令吉，并附加不超过五年的强制监禁。对于雪兰莪州河岸保留地制度下的罪行（1999年LUAS法令第48(1)条），罚则为不超过50,000令吉的罚款或不超过两年的监禁，或两者兼施。这些1974年法令修订的数字来自二手报道，应对照官方宪报（Warta）文本加以核实。"
 
 lang: "zh"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: 一条狭窄的河流穿过高楼与铺装河滨步道之间一道宽阔的混凝土河道
+    kind: actual
+    origin: third-party
+    subject: 被约束在混凝土河道中的巴生河穿过吉隆坡市中心的高楼之间，凸显城市河流水质承受的压力
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: 一片平静开阔的湖面映照着低垂的夕阳，背后是黄昏中森林覆盖丘陵的剪影
+    kind: actual
+    origin: third-party
+    subject: 沙捞越峇当艾（Batang Ai）大坝后方的水库，是重要的原水储存地和水电来源
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 在星期一清晨拧开水龙头，却发现无水可用——不是因为水龙头坏了，而是因为上游的一家工厂将散发恶臭的废料排入了向你所在城镇供应原水的支流。这是巴生谷反复上演的现实，它解释了为何"河流水质"不只是一个生态议题，而是关乎数百万家庭供水安全的问题。

@@ -33,7 +33,7 @@ faq:
     a: "முக்கியக் காரணங்கள்: புலியின் உடல் உறுப்புகளுக்கான வேட்டையாடல் மற்றும் சட்டவிரோத வனவிலங்கு வர்த்தகம், வனச் சீரழிவு மற்றும் வாழிடம் இழப்பு, சாலை விபத்து மரணங்கள் மற்றும் மனித–புலி மோதல், மற்றும் இரை குறைவு."
 
 lang: "ta"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: புள்ளியிட்ட சூரிய ஒளியில் புல்லில் படுத்திருக்கும் மலாயாப் புலி, அதன் கோடிட்ட தோல் ஒளியைப் பிடிக்கிறது
+    kind: actual
+    origin: third-party
+    subject: புல்லுக்கும் இலைகளுக்கும் நடுவே புள்ளியிட்ட சூரிய ஒளியில் படுத்திருக்கும் மலாயாப் புலி (Panthera tigris jacksoni)
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: மலாயாப் புலியின் தலையின் பக்கவாட்டு நெருக்கமான தோற்றம், அதன் தனித்துவமான கருப்பு-ஆரஞ்சு முகக் கோடுகளையும் மீசையையும் காட்டுகிறது
+    kind: actual
+    origin: third-party
+    subject: முகக் குறிகளைக் காட்டும் மலாயாப் புலியின் (Panthera tigris jacksoni) பக்கவாட்டுத் தோற்றம்
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 புலி மலேசியாவின் அரச சின்னத்தில் (coat of arms) இடம்பெறுகிறது; ஆனால் அந்த விலங்கு இன்று உலகிலேயே மிக அரிதான பெரிய பூனை இனங்களில் ஒன்றாகிவிட்டது. மலேசியா தனது முதல் தேசிய காட்டுப் புலி கணக்கெடுப்பை முடித்தபோது, முடிவு பலர் எதிர்பார்த்ததை விடக் குறைவாக இருந்தது: 150-க்கும் குறைவு.

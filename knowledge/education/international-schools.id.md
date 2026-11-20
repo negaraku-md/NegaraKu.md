@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "id"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Gedung sekolah internasional bertingkat dengan fasad kaca-dan-batu melengkung berwarna merah dan abu-abu, mobil dan sepeda motor parkir di depan
+    kind: representative
+    origin: third-party
+    subject: gedung utama modern melengkung HELP International School, sebuah sekolah internasional di Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Kanopi pintu masuk sekolah modern dari baja dan kaca yang bersih serta pos jaga di samping penyeberangan, dibingkai pepohonan di bawah langit cerah
+    kind: representative
+    origin: third-party
+    subject: jalur masuk berpenutup International School of Kuala Lumpur di kampus Ampang Hilir
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Sebuah sekolah berkurikulum Inggris dan sebuah sekolah berkurikulum Amerika yang terletak di ujung berlawanan kota yang sama, di atas kertas, dilisensikan oleh kantor yang sama persis di Putrajaya. Keduanya secara hukum tidak diperbolehkan mengenakan "dana pembangunan" kepada orang tua. Keduanya tidak boleh menaikkan biaya melebihi 30% pada satu waktu. Dan keduanya tidak diwajibkan menerbitkan satu angka pun yang ditetapkan oleh Kementerian sendiri — karena dari semua peraturan yang ditulis oleh Kementerian, harga sebenarnya untuk satu kursi bukanlah salah satunya.

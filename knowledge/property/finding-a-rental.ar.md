@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كلّ من يبحث عن مسكن للإيجار في ماليزيا، سواء كان يستأجر محليًا للمرّة الأولى أو يرتّب عقد إيجار من الخارج."
 
 lang: "ar"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: كتلتا شقق سكنية كبيرتان بلونين كريمي وعنّابي بصفوف من الشرفات ووحدات تكييف في ضواحي جورج تاون، بينانغ، تحجب الأشجار طوابقهما السفلية
+    kind: representative
+    origin: third-party
+    subject: كتل شقق سكنية متوسطة السوق في ضواحي جورج تاون، بينانغ
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: مجموعة من أبراج كوندومينيوم حديثة عالية بشرفات متدرّجة في كوالالمبور، مشاهَدة من مستوى الشارع أمام سماء غائمة باهتة
+    kind: representative
+    origin: third-party
+    subject: أبراج كوندومينيوم حديثة مرتفعة (Orion Condominium وSky Residences) في كوالالمبور
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 تجد قائمة تعجبك على بوّابة ما، فتراسل الرقم المدرج فيها، فيحضر شخص ليفتح لك الوحدة. لا شيء في هذا التبادل يخبرك ما إذا كان الشخص الذي يسلّمك المفاتيح مسموحًا له قانونًا بفعل ذلك مقابل أجر من الأساس — ولا يكاد يسأل أحد.

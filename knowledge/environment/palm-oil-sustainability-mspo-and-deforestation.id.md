@@ -34,7 +34,7 @@ faq:
     a: "EUDR mulai berlaku pada 29 Juni 2023. Setelah penundaan, kewajiban berlaku mulai 30 Desember 2026 untuk operator dan pedagang besar serta 30 Juni 2027 untuk perusahaan mikro dan kecil."
 
 lang: "id"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: Lanskap udara tempat petak-petak geometris kelapa sawit dan lahan gundul yang telah dibuka berdesakan dengan sisa hutan hijau gelap
+    kind: actual
+    origin: third-party
+    subject: Pemandangan udara lahan kelapa sawit yang dibuka di hutan hujan Kalimantan, memperlihatkan hilangnya hutan akibat perluasan perkebunan
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: Perbukitan hijau bergelombang yang ditanami kelapa sawit muda membentang hingga pegunungan di kejauhan di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Perkebunan kelapa sawit yang luas membentang menutupi perbukitan bergelombang di Distrik Mersing, Johor
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 Malaysia menghasilkan sekitar seperlima dari minyak sawit dunia, dan industri ini telah lama menerima kritik dari penggiat kampanye Eropa dan LSM terkait kaitannya dengan deforestasi. Sebagai respons, negara ini kini mengelola skema sertifikasi wajib yang didukung pemerintah, dan pada 5 September 2025 Uni Eropa mengakui skema tersebut dalam satu pernyataan bersama. Inilah cara MSPO berfungsi, apa yang dibuktikannya dan tidak dibuktikannya, serta di mana masalah rumit masih ada.

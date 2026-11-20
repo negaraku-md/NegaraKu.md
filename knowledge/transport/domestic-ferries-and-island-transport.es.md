@@ -29,7 +29,7 @@ faq:
     a: "A menudo no. Muchos resorts y operadores de barco de la costa este suspenden voluntariamente los servicios desde alrededor de octubre a febrero debido a los mares agitados del monzón del noreste."
 
 lang: "es"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: 'La terminal de ferris de pasajeros de Kuah sobre el agua en Langkawi, con su largo techo en ala de gaviota que reza «TERMINAL FERI PENUMPANG KUAH» sobre el canal turquesa: el extremo del embarcadero/terminal de un trayecto en ferry a la isla. Distinta del hero (embarcación) y del body-2 (barca pequeña de isla).'
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: 'Una pequeña barca cubierta del Parque Marino amarrada junto a un embarcadero sobre pilotes en aguas turquesas y cristalinas en Perhentian Besar: el último tramo del salto entre islas en barca pequeña. Añade una segunda escena de transporte insular, distinta del hero (ferry de coches) y del body de la terminal.'
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 No existe una única línea nacional de ferris en Malasia. Llegar a una isla significa saber qué corta travesía, qué embarcadero y qué operador la sirve — y, en la costa este, si el mar siquiera está abierto ese mes.

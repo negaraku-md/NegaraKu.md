@@ -27,7 +27,7 @@ faq:
   - q: "Dari mana datangnya beras impor Malaysia?"
     a: "Sebagian besar impor diperoleh dari Vietnam, Thailand, Pakistan, India dan Myanmar, menurut BERNAS."
 lang: "id"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: Sawah padi yang mulai menguning dengan orang-orangan sawah kain di atas tiang, perbukitan berhutan dan rumah-rumah desa di belakang di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: padi hijau-keemasan yang mulai menguning dengan orang-orangan sawah sederhana, berlatar perbukitan kapur berhutan dan sebuah kampung di Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: Sekelompok kecil orang di jalan setapak berumput di tengah hamparan luas sawah hijau cerah di bawah langit mendung
+    kind: actual
+    origin: third-party
+    subject: pengunjung berjalan di sepanjang pematang melintasi sawah hijau menyala di Sekinchan, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 Beras adalah satu-satunya pangan yang Malaysia enggan biarkan kepada pasar bebas. Negara memusatkan tempat ia ditanam, melindungi petani yang menanamnya, memberi lisensi kepada satu perusahaan untuk mengimpor kekurangan, dan memegang cadangan darurat terhadap guncangan pasokan. Namun setelah berdekade-dekade pengaturan ini, negara masih menanam hanya sekitar separuh dari beras yang dikonsumsinya.

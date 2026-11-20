@@ -23,7 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyatakan jumlah penerimaan program, tingkat kuota, atau angka biaya khusus bagi institusi mana pun — ini berbeda menurut program dan kampus serta berubah pada setiap penerimaan; pastikan langsung dengan e-Panduan UPU (bagi universitas negeri) atau institusi terkait (bagi universitas swasta) sebelum melamar."
   - "Jumlah sebenarnya penyedia IPTS terdaftar terkini tidak dinyatakan di sini karena tabel statistik yang diterbitkan oleh MOHE (Statistik Pendidikan Tinggi) tidak dibuka sepenuhnya untuk artikel ini — untuk angka yang tepat dan terkini, rujuk langsung penerbitan Statistik Pendidikan Tinggi MOHE."
 lang: "id"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Gedung administrasi universitas berlantai banyak berkaca biru dengan menara pusat melengkung di atas bukit bertaman, dicapai lewat tangga berundak berjajar bendera
+    kind: representative
+    origin: third-party
+    subject: gedung Kanselori modern berkaca Universiti Teknologi MARA (UiTM), salah satu universitas negeri terbesar di Malaysia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Gerbang pintu masuk universitas berpilar batu bertuliskan 'Universiti Sains Malaysia', diapit tiang bendera dan hijauan lebat di bawah langit mendung
+    kind: representative
+    origin: third-party
+    subject: gerbang pintu masuk utama Universiti Sains Malaysia (USM), universitas riset negeri, di Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Dua orang pelajar dengan hasil SPM yang sama dapat berakhir dalam dua sistem

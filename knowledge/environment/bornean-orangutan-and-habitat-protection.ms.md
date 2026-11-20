@@ -34,7 +34,7 @@ faq:
     a: "Tidak semestinya. Tinjauan itu mendapati bahawa populasi di hutan yang diuruskan dengan baik dan dibalak secara lestari seperti Deramakot dan Segama kekal stabil selama 15 tahun, menunjukkan bahawa orangutan boleh terus hidup di hutan pengeluaran apabila ia diuruskan dengan berhati-hati dan kekal terhubung."
 
 lang: "ms"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: Orang utan Borneo betina bersama dua anak bergantung pada dahan tinggi di silara hutan hujan
+    kind: actual
+    origin: third-party
+    subject: Kumpulan keluarga orang utan Borneo liar bergantung dan mencari makan di pokok hutan hujan, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: Potret dekat wajah ekspresif orang utan Borneo liar dibingkai bulu kemerahannya
+    kind: actual
+    origin: third-party
+    subject: Potret dekat wajah orang utan Borneo liar di hutan hujan, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 Seekor orangutan liar memerlukan banyak hutan, dan hutan yang terhubung. Di tanah rendah Sabah bahagian timur, itu telah menjadi perkara yang paling jarang ditemui: pokok-pokok yang dahulunya membolehkan seekor kera bergerak sejauh berkilometer tanpa menjejak tanah kini terhenti di pinggir ladang kelapa sawit. Sama ada orangutan Borneo dapat terus hidup dalam landskap ini, sebahagian besarnya, adalah persoalan undang-undang, tanah, dan koridor.

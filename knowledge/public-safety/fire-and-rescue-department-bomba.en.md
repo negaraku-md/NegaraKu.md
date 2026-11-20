@@ -31,7 +31,7 @@ faq:
     a: "JBPM is listed as a department under the Ministry of Housing and Local Government (KPKT). Ministerial portfolios in Malaysia are reorganised from time to time, so confirm the current arrangement at kpkt.gov.my or bomba.gov.my before relying on it in official documents."
 
 lang: "en"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: A red Bomba four-wheel-drive fire-and-rescue truck with a canvas-covered rear bed and the department crest on its door, parked on the forecourt of a red-roofed fire station with a palm tree behind
+    kind: actual
+    origin: third-party
+    subject: a single red Bomba heavy rescue truck parked at the fire station in Sandakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: The front of a three-storey fire station painted beige and terracotta, its row of roller shutters spelling out BOMBA in large red letters beneath a sign reading 'Balai Bomba dan Penyelamat Jalan Kubu', with strings of red lanterns strung across the facade
+    kind: actual
+    origin: third-party
+    subject: the facade of the Jalan Kubu fire station (Balai Bomba dan Penyelamat) in Melaka, with the word BOMBA spelt large across its engine-bay shutters
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 When a house catches fire, a car is trapped in a flood, or a worker is

@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 
 status: "published"
 aiAssisted: true
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_L
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: ブキッ・ジャリルに建つ、クリーム色で赤い屋根の公営住宅高層棟の長い列。各棟に文字が付され、団地の道路沿いに車が駐車、遠くに緑と市街のスカイライン
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール、ブキッ・ジャリルにある、住民用駐車場のある人民住宅計画(PPR)の高層フラットの列
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: コタ・ダマンサラにある、からし色と白の公営住宅1棟を曇り空を背に下から見上げる。同一の多数の住戸に窓格子とエアコンが付き、木の枝に縁取られる
+    kind: actual
+    origin: third-party
+    subject: スランゴール州コタ・ダマンサラにあるPPR公営住宅棟(Gugusan Kemuning)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 あなたの月給はRM4,000、そして都市部のテラスハウスの価格はすでに50万リンギに達している——どこから探し始めればよいのか。答えは一つの制度ではなく、それぞれが異なる所得区分を対象とする政府制度の「メニュー」である。間違ったものを選べば、そもそも資格のない住宅の抽選を何か月も待って無駄にすることになる。

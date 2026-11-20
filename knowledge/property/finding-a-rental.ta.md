@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவில் வாடகை வீடு த�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: பினாங்கு, புறநகர் ஜார்ஜ் டவுனில் பால்கனி வரிசைகளும் குளிரூட்டி அலகுகளும் கொண்ட இரண்டு பெரிய கிரீம்-மெரூன் நிற குடியிருப்பு அடுக்குமாடிகள், அவற்றின் கீழ்த்தளங்கள் மரங்களால் மறைக்கப்பட்டு
+    kind: representative
+    origin: third-party
+    subject: பினாங்கு, புறநகர் ஜார்ஜ் டவுனில் நடுத்தர சந்தை குடியிருப்பு அடுக்குமாடிகள்
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: கோலாலம்பூரில் படிநிலை பால்கனிகள் கொண்ட உயரமான நவீன காண்டோமினியம் கோபுரங்களின் தொகுதி, வெளிர் மேகமூட்டமான வானத்திற்கு எதிராக தெருவிலிருந்து பார்க்கப்பட்டு
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் நவீன உயரமான காண்டோமினியம் கோபுரங்கள் (Orion Condominium மற்றும் Sky Residences)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 ஒரு வலைத்தளத்தில் உங்களுக்குப் பிடித்த ஒரு பட்டியலை (listing) நீங்கள் கண்டுபிடித்து, அதில் உள்ள எண்ணுக்கு செய்தி அனுப்புகிறீர்கள், பின்னர் யாரோ ஒருவர் வந்து அந்த யூனிட்டைத் திறந்து காட்டுகிறார். அந்தப் பரிமாற்றத்தில் எதுவும், உங்கள் கையில் சாவியைக் கொடுக்கும் அந்த நபர் இதற்கு கட்டணம் வாங்கிச் செய்ய சட்டப்படி அனுமதிக்கப்பட்டவரா என்பதை உங்களுக்குச் சொல்லவில்லை — மேலும் யாரும் அதைக் கேட்பதில்லை என்றே சொல்லலாம்.

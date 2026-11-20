@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 
 status: "published"
 aiAssisted: true
@@ -129,6 +129,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: オープニングラップで、セパンのスタート・フィニッシュ直線の広いアスファルトいっぱいに扇状に広がる、チーム塗装のF1マシンの密集した集団。明るい日差しの下、タイヤが路面に黒い跡を残す
+    kind: actual
+    origin: third-party
+    subject: 2015年マレーシアグランプリのスタートで、セパン・サーキットを並んで走るF1の集団
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: 緑の田園に広がるセパン・インターナショナル・サーキットの高空からの撮影。灰色の帯状のコースが中央のグランドスタンドとピット施設の周りを大きく蛇行し、霞んだ遠方の上部にKLIAの滑走路とターミナルが見える
+    kind: actual
+    origin: third-party
+    subject: 特徴的なループ状のコースレイアウトとパドックを示すセパン・インターナショナル・サーキット全景の空撮、奥にクアラルンプール国際空港
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 2026年10月、F1マシンは9年ぶりにセパンを走る——そしてトラックサイドの看板には*バーレーングランプリ*と記される。マレーシアは書類上の開催国ではなく、ライセンス料を支払うこともなく、カレンダーへの復帰を働きかけたわけでもない。ただ、F1が突如として必要とした唯一のもの——空いていて、準備が整った、最高峰のサーキット——を持っていただけである。

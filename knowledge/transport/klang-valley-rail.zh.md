@@ -36,7 +36,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: 整洁现代的地下 MRT 站台（敦拉萨国贸中心 Tun Razak Exchange），装有站台屏蔽门和列车到站显示屏——车站内部视角。无可辨认人脸。
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: 吉隆坡单轨列车在高架轨道上转弯，驶过一座清真寺和城市天际线——补充了第二种铁路方式和巴生谷情境。有别于主图（高架地铁）和 body-1（地下车站）。
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 第一次看巴生谷铁路地图，会觉得它像一堆乱码——MRT、LRT、KTM、ERL、一条粉红色的

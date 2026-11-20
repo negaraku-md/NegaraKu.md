@@ -23,7 +23,7 @@ appliesTo: "マレーシアで賃貸住宅を探しているすべての人。�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: ペナン州ジョージタウン郊外に建つ、クリーム色とえび茶色の大きな住宅用アパート2棟。バルコニーとエアコン室外機が並び、下層階は木々で隠れる
+    kind: representative
+    origin: third-party
+    subject: ペナン州ジョージタウン郊外の中価格帯の住宅用アパート棟
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: クアラルンプールに建つ、段状のバルコニーを持つ近代的な高層コンドミニアムの一群を、淡い曇り空を背に通りの高さから見る
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールの近代的な高層コンドミニアム(オリオン・コンドミニアムとスカイ・レジデンス)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 ポータルサイトで気に入った物件を見つけ、そこに載っている番号にメッセージを送ると、誰かが現れて部屋の鍵を開けてくれる。その一連のやり取りの中には、鍵を手渡してくれるその人が、そもそも報酬を得てこれを行うことを法的に許されているのかどうかを教えてくれるものは何もない——そして、ほとんど誰もそれを尋ねない。

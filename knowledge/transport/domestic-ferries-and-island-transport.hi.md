@@ -29,7 +29,7 @@ faq:
     a: "अक्सर नहीं। पूर्वी-तट के कई रिज़ॉर्ट और नाव संचालक पूर्वोत्तर मानसून से उठने वाले उथल-पुथल भरे समुद्र के कारण लगभग अक्टूबर से फरवरी तक स्वेच्छा से सेवाएँ निलंबित कर देते हैं।"
 
 lang: "hi"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: Langkawi में पानी के ऊपर बना Kuah यात्री फेरी टर्मिनल, फ़िरोज़ी नहर के ऊपर इसकी लंबी गल-विंग छत पर 'TERMINAL FERI PENUMPANG KUAH' लिखा — द्वीप फेरी यात्रा का जेटी/टर्मिनल छोर
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: Perhentian Besar में साफ़ फ़िरोज़ी पानी में एक खंभों पर बनी द्वीप जेटी के पास बँधी एक छोटी ढकी हुई Marine Park नाव — छोटी नाव से द्वीप का अंतिम-चरण सफ़र
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 मलेशिया में कोई एकल राष्ट्रीय फेरी लाइन नहीं है। किसी द्वीप तक पहुँचने का मतलब है यह जानना कि कौन-सा छोटा मार्ग, कौन-सा जेटी और कौन-सा संचालक उसकी सेवा करता है — और, पूर्वी तट पर, यह कि उस महीने समुद्र खुला भी है या नहीं।

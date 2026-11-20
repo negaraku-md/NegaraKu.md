@@ -81,6 +81,23 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: A blue-green GO KL free electric city bus pulling in at a kerbside stop/shelter ('100% Clean Energy / Perkhidmatan Bas Percuma') — a bus-at-a-stop view and a distinct livery/mode. Two tiny, non-identifiable commuters at the shelter.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: A clean side-profile of a single-deck Rapid KL bus (red/cream/blue livery) at KL Sentral — complements the double-decker hero and electric GO KL body. No faces.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 The train gets you to a station. It rarely gets you home. That gap — from the MRT or LRT platform to your doorstep, your office park or the wet market two neighbourhoods over — is filled by a fleet most riders barely think about: the Rapid KL buses.

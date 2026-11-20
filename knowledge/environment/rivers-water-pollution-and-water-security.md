@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: Sungai sempit mengalir melalui saluran konkrit lebar antara bangunan tinggi bandar dan laluan pejalan kaki tepi sungai berturap
+    kind: actual
+    origin: third-party
+    subject: Sungai Klang dikurung dalam saluran konkrit antara bangunan tinggi di tengah Kuala Lumpur, menggambarkan tekanan terhadap kualiti air sungai bandar
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: Tasik luas yang tenang memantulkan matahari rendah, dilatari bukit berhutan berbayang pada waktu senja
+    kind: actual
+    origin: third-party
+    subject: Takungan di belakang Empangan Batang Ai di Sarawak, sumber utama air mentah dan punca kuasa hidro
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 Buka paip pada pagi Isnin dan dapati ia kering — bukan kerana pili rosak, tetapi kerana sebuah kilang di hulu telah melepaskan sisa berbau busuk ke anak sungai yang membekalkan air mentah ke bandar anda. Inilah realiti berulang di Lembah Klang, dan ia menjelaskan mengapa "kualiti sungai" bukan sekadar isu ekologi, tetapi isu keselamatan bekalan air untuk berjuta-juta rumah.

@@ -29,7 +29,7 @@ faq:
     a: "Seringnya tidak. Banyak resort dan operator perahu pantai timur secara sukarela menangguhkan layanan dari sekitar Oktober hingga Februari karena laut yang bergelora akibat monsun timur laut."
 
 lang: "id"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: Terminal feri penumpang Kuah di atas air di Langkawi, atap panjang menyerupai sayap camar bertuliskan 'TERMINAL FERI PENUMPANG KUAH' di atas selat berwarna toska — sisi dermaga/terminal dari perjalanan feri ke pulau. Berbeda dari hero (kapal) dan body-2 (perahu pulau kecil).
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: Perahu Taman Laut kecil beratap bersandar di samping dermaga pulau berpanggung di air toska jernih di Perhentian Besar — tahap akhir penyeberangan ke pulau dengan perahu kecil. Menambahkan adegan transportasi pulau kedua yang berbeda dari hero feri mobil dan body terminal.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 Tiada satu layanan feri nasional tunggal di Malaysia. Untuk sampai ke sebuah pulau, Anda perlu tahu penyeberangan pendek yang mana, dermaga yang mana dan operator yang mana yang melayaninya — dan, di pantai timur, apakah laut itu buka sama sekali pada bulan tersebut.

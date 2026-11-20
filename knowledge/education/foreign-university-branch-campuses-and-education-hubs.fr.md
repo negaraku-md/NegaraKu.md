@@ -34,7 +34,7 @@ faq:
     a: "Non. Bien que Monash, Nottingham, Xiamen et Heriot-Watt se regroupent autour de la vallée de Klang et de Putrajaya, EduCity Iskandar concentre plusieurs campus à Johor, près de Singapour, et Curtin et Swinburne opèrent au Sarawak."
 
 lang: "fr"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: De grands blocs de campus beiges reliés par une passerelle surélevée vitrée, avec l'écusson Monash sur une tour et des palmiers dans la cour
+    kind: representative
+    origin: third-party
+    subject: les bâtiments du campus de l'antenne de Monash University Malaysia reliés par une passerelle vitrée, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Des bâtiments de campus blancs aux toits étagés de style chinois rouge derrière une place d'entrée à portail, sous un ciel partiellement nuageux
+    kind: representative
+    origin: third-party
+    subject: le portail principal à toit rouge et la tour administrative de la Xiamen University Malaysia, le premier campus outre-mer d'une université chinoise, à Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 En 1998, un étudiant à Kuala Lumpur pouvait obtenir un diplôme australien de Monash sans quitter le pays — et le payer aux prix malaisiens. Cet unique arrangement a lancé un modèle sur lequel le pays bâtit depuis : importer l'université, pas l'étudiant.

@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -122,6 +122,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Blok kampus krim besar dihubungkan jejambat bertingkat berkaca, dengan jata Monash pada menara dan pokok palma di laman dalam
+    kind: representative
+    origin: third-party
+    subject: bangunan kampus cawangan Monash University Malaysia dihubungkan jejambat kaca, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Bangunan kampus putih dengan bumbung bertingkat merah bergaya Cina di belakang plaza pintu masuk berpagar di bawah langit separa berawan
+    kind: representative
+    origin: third-party
+    subject: pintu utama berbumbung merah dan menara pentadbiran Xiamen University Malaysia, kampus cawangan luar negara pertama sebuah universiti China, di Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 Pada 1998, seorang pelajar di Kuala Lumpur boleh memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Susunan tunggal itu melancarkan satu model yang terus dibangunkan oleh negara sejak itu: import universiti, bukan pelajar.

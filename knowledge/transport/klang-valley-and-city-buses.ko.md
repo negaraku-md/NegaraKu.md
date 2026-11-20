@@ -32,7 +32,7 @@ faq:
     a: "래피드 버스는 이용객이 적은 19개 노선 — MRT 지선 16개와 일반 노선 3개, 네트워크의 약 7% — 을 예약형 래피드 KL 온디맨드(Rapid KL On-Demand) 밴 서비스로 전환하기 시작했습니다."
 
 lang: "ko"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,23 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: 도롯가 정류장/승차대('100% Clean Energy / Perkhidmatan Bas Percuma')에 들어서는 청록색 GO KL 무료 전기 시내버스 — 정류장에 선 버스의 모습이자 구별되는 도색/방식. 승차대에 신원 식별이 불가능한 아주 작은 통근자 두 명.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: KL 센트럴에 선 단층 Rapid KL 버스(빨강/크림/파랑 도색)의 깔끔한 측면 — 2층 버스 히어로와 전기 GO KL body를 보완함. 얼굴 없음.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 기차는 당신을 역까지 데려다줍니다. 집까지 데려다주는 일은 드뭅니다. 그

@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: Long rows of angled ground-mounted solar panels spread across a cleared field with rainforest on the horizon under a hazy sky
+    kind: actual
+    origin: third-party
+    subject: rows of ground-mounted solar photovoltaic panels at a solar farm near Bukit Merah, Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: A steel-framed canopy roofed with solar panels beside a Malaysian government solar-hybrid project signboard at a rural Sabah school, with parked cars and chickens in the foreground
+    kind: actual
+    origin: third-party
+    subject: a rural solar-hybrid power installation at a school in Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 Solar panels on a home's roof have become a financial decision tightly bound up with government policy in Malaysia. But "going solar" means something very different for a homeowner in Ipoh compared with a factory in Pasir Gudang or a data centre that wants 100% green power. Each group of consumers has its own scheme.

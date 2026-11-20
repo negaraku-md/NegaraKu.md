@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: 一排排倾斜的地面安装太阳能板铺展在一片开垦过的田地上，地平线上是雨林，天空薄雾弥漫
+    kind: actual
+    origin: third-party
+    subject: 马来西亚武吉默拉（Bukit Merah）附近一座太阳能发电场的成排地面光伏板
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: 一座钢架顶棚铺着太阳能板，旁边是马来西亚政府太阳能混合发电项目的告示牌，位于沙巴乡村一所学校，前景有停放的汽车和鸡只
+    kind: actual
+    origin: third-party
+    subject: 马来西亚沙巴一所乡村学校的太阳能混合发电装置
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 屋顶上的太阳能板如今已成为一项被马来西亚政府政策紧密约束的财务决定。但对于怡保的一名屋主、巴西古当的一座工厂，或一座希望实现 100% 绿色能源的数据中心而言，「转向太阳能」意味着截然不同的事情。每一类用户都有各自的计划。

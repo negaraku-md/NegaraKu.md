@@ -32,7 +32,7 @@ faq:
     a: "संशोधन किसी PFR को राजपत्र-विमोचित किए जा सकने से पहले एक सार्वजनिक जाँच को अनिवार्य बनाता है, और जुर्माने को RM20,000 से RM5 मिलियन के बीच साथ ही 7 से 20 वर्ष के बीच कारावास तक बढ़ाता है। यह 1 फरवरी 2025 को संघीय क्षेत्रों में प्रभावी हुआ।"
 
 lang: "hi"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Taman Negara के प्राथमिक वर्षावन के भीतर एक छायादार रास्ते के किनारे धूप में चमकते ताड़ के पत्ते और घनी हरी निचली वनस्पति
+    kind: actual
+    origin: third-party
+    subject: Taman Negara के प्राथमिक वर्षावन के फ़र्श पर ताड़ की निचली वनस्पति और पत्तियों का बिछौना
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: 'Taman Negara के Bukit Terisek से देखा गया दृश्य: घने उष्णकटिबंधीय वर्षावन से ढकी लहरदार पहाड़ियाँ बादल भरे आकाश के नीचे नीली धुंध में विलीन होती हुई'
+    kind: actual
+    origin: third-party
+    subject: Bukit Terisek से दिखतीं Taman Negara की अखंड जंगली पहाड़ियाँ
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 मलेशिया में वनाच्छादित भूमि का एक टुकड़ा केवल इसलिए «संरक्षित» नहीं होता कि वह पेड़ों से भरा है — उसका संरक्षण उस दिन शुरू होता है जिस दिन भूमि का नाम राजपत्र में प्रकट होता है। उस राजपत्रण के बिना, उसी वन को किसी भी समय विकास के लिए लाइसेंस दिया जा सकता है। यही मलेशिया की पूरी स्थायी वन आरक्षित (PFR) प्रणाली की नींव है।

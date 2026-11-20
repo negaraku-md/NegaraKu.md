@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia sắp đối mặt với một lần tư vấn chuyên khoa hoặc nhập viện tại một cơ sở tư nhân — bệnh nhân, người chăm sóc, và người lao động dựa vào thẻ y tế hoặc bảo hiểm do người sử dụng lao động cung cấp."
 
 lang: "vi"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: Tòa nhà hiện đại của Prince Court Medical Centre ở Kuala Lumpur, với dòng chữ vàng trên mặt tiền và một biển báo đường phố ở tiền cảnh
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, một bệnh viện tư ở Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: Các tòa nhà của Sunway Medical Centre lúc hoàng hôn bên cạnh một nhà ga giao thông trên cao có mái che, với biển hiệu SunMed sáng đèn
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre và nhà ga BRT/LRT liền kề ở Bandar Sunway
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 Bạn vào viện cho một thủ thuật và ra về với thứ trông như hai hóa đơn dập ghim lại. Một cái từ bác sĩ phẫu thuật. Một cái từ bệnh viện. Chúng hiếm khi có cùng độ lớn, và hầu như không ai giải thích vì sao ngay từ đầu chúng lại tách biệt.

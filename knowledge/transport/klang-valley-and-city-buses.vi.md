@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus bắt đầu chuyển 19 tuyến có lượng khách thấp — 16 tuyến trung chuyển MRT và 3 tuyến tiêu chuẩn, khoảng 7% mạng lưới — thành một dịch vụ xe van Rapid KL On-Demand đặt trước."
 
 lang: "vi"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,23 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: Một chiếc xe buýt điện miễn phí GO KL màu xanh lục lam đang cập vào một điểm dừng/nhà chờ ven đường ('100% Clean Energy / Perkhidmatan Bas Percuma') — cảnh xe buýt tại điểm dừng. Hai hành khách rất nhỏ, không nhận diện được ở nhà chờ.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: Ảnh chụp nghiêng gọn gàng một chiếc xe buýt một tầng Rapid KL (sơn đỏ/kem/xanh) tại KL Sentral — bổ sung cho ảnh xe buýt hai tầng chủ đạo và xe điện GO KL. Không có khuôn mặt.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 Con tàu đưa bạn đến một nhà ga. Nó hiếm khi đưa bạn về đến nhà. Khoảng trống đó — từ sân ga MRT hoặc LRT đến cửa nhà bạn, khu văn phòng của bạn hay chợ ướt cách hai khu phố — được lấp bởi một đội xe mà phần lớn hành khách hầu như không nghĩ đến: các xe buýt Rapid KL.

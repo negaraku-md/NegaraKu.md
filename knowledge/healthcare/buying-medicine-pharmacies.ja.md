@@ -20,7 +20,7 @@ appliesTo: "マレーシアの官立又は民間の薬局で医薬品を購入�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -61,6 +61,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: 青いFarmasi Sinarの看板を掲げた平屋建ての独立系地域薬局。マレーシアの澄んだ空の下、外に車が駐車
+    kind: actual
+    origin: third-party
+    subject: ジョホール州クルアンにある独立系の地域コミュニティ薬局、Farmasi Sinar
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: マレーシアの公立病院内にある外来薬局の入口。黄色と青のFarmasiの看板と世界薬剤師デーの横断幕、人物は写っていない
+    kind: actual
+    origin: third-party
+    subject: ジョホール州バトゥパハの公立病院、スルタナ・ノラ・イスマイル病院の外来薬局(Farmasi)の入口
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 ある客が薬局のカウンターで咳止め薬を求め、その場ですぐに対応された。別の客は喉の痛みに効く抗生物質を求めたが、まず医師の処方箋を提示するよう求められた。この二つの取引は同じ薬局、同じ日に起きた——違いは薬剤師の裁量ではなく、その医薬品を分類する法律にある。

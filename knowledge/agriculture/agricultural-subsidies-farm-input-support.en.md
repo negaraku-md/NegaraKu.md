@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-0
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: Operator driving a yellow combine harvester through a wet, stubbled paddy field at dusk with palms on the skyline
+    kind: actual
+    origin: third-party
+    subject: a combine harvester cutting rice in a muddy paddy field at dusk on Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: Woman in a headscarf cutting golden rice panicles with a small blade and gathering them into a yellow woven basket
+    kind: actual
+    origin: third-party
+    subject: a Dusun woman harvesting ripe rice ears by hand into a woven basket in Kudat District, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 The sack of fertiliser a paddy farmer shoulders to the field that morning was not bought with his own money — it arrived free of charge, borne by the Federal Government for decades. This is the true face of Malaysia's agricultural subsidy for paddy: not a cheque or money deposited into an account, but fertiliser, pesticides and incentives that cover a large share of the cost at the farm.

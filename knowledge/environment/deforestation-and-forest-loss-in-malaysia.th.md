@@ -34,7 +34,7 @@ faq:
     a: "การสูญเสียพื้นที่เรือนยอดนับการเอาเรือนยอดต้นไม้ออกใด ๆ รวมถึงการเก็บเกี่ยวสวนป่า ความเสียหายจากไฟและพายุ จึงรวมการสูญเสียที่งอกใหม่ในภายหลัง การสูญเสียป่าปฐมภูมินับเฉพาะการถางป่าธรรมชาติที่โตเต็มที่ซึ่งมีความหลากหลายทางชีวภาพและคาร์บอนที่ทดแทนไม่ได้ และเป็นตัวชี้วัดที่ดีกว่าสำหรับการสูญเสียทางระบบนิเวศอย่างถาวร"
 
 lang: "th"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: ภาพมุมสูงของผืนป่าฝนดั้งเดิมสีเข้มที่โดดเดี่ยวราวเกาะ ล้อมรอบด้วยแถวสวนปาล์มน้ำมันที่เรียงเป็นระเบียบในรัฐซาบาห์ บอร์เนียวมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ผืนป่าฝนดั้งเดิมที่หลงเหลือ ล้อมรอบด้วยสวนปาล์มน้ำมันในรัฐซาบาห์
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: ภาพมุมสูงของป่าฝนที่ถูกตัดผ่านด้วยเครือข่ายถนนขนไม้สีจางและพื้นที่โล่งสีส้มในรัฐซาบาห์ บอร์เนียวมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ป่าที่ถูกตัดผ่านด้วยถนนขนไม้และพื้นที่โล่งเพื่อปลูกปาล์มน้ำมันในรัฐซาบาห์
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 ถามแหล่งข้อมูลที่น่าเชื่อถือสามแหล่งว่ามาเลเซียยังเป็นป่ามากเท่าใด แล้วท่านอาจได้คำตอบสามคำตอบที่ห่างกันสิบจุดร้อยละ ทั้งหมดมีเหตุผลรองรับ ทั้งหมดวัดสิ่งที่ต่างกันเล็กน้อย ช่องว่างนั้นไม่ใช่ข้อผิดพลาดจากการปัดเศษ แต่เป็นข้อโต้แย้งทั้งหมดเกี่ยวกับการตัดไม้ทำลายป่าในมาเลเซียในรูปแบบย่อ

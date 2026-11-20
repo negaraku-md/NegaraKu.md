@@ -36,7 +36,7 @@ faq:
     a: "لا. تستثني المادة 2 صراحةً الحياة البرية الواقعة ضمن القائمة الثانية من الجدول التاسع للدستور الاتحادي وضمن قانون مصايد الأسماك لسنة 1985 (Fisheries Act 1985)، ومن ثمّ تُنظَّم الأنواع البحرية ومعظم أنواع المصايد في موضع آخر."
 
 lang: "ar"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: تابير ملايوي أبيض وأسود يقف وسط أوراق متساقطة وشتلات في غابة داكنة
+    kind: actual
+    origin: third-party
+    subject: تابير ملايوي يبحث عن طعام على أرضية الغابة ليلًا، نوع محمي مهدّد بفقدان الموائل
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: طائر بوقير أسود كبير بخوذة مقلوبة لأعلى حمراء-برتقالية زاهية يجثم على غصن بين أوراق خضراء
+    kind: actual
+    origin: third-party
+    subject: طائر بوقير وحيد القرن بري يجثم في مظلّة الغابة المطيرة بمحمية تابين للحياة البرية، صباح
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 احتفظ بجلد نمر مالايّ في صندوق سيارتك ولن تكون أمام غرامة ورسالة تحذير صارمة — بل ستكون أمام سنوات في السجن وغرامة تُقاس بمئات الآلاف من الرينغيت. هذا هو الطرف الحاد من قانون حفظ الحياة البرية لسنة 2010، القانون الذي يقرر أيّ الحيوانات في شبه جزيرة ماليزيا يجوز لك لمسها أو الاحتفاظ بها أو بيعها أو دراستها، وأيّها لا يجوز لك الاقتراب منه دون إذن خطّي من الدولة.

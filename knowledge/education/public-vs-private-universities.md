@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: A multi-storey blue-glass university administration building with a rounded central tower on a landscaped hill, approached by terraced steps lined with flags
+    kind: representative
+    origin: third-party
+    subject: the modern glass Chancellery building of Universiti Teknologi MARA (UiTM), one of Malaysia's largest public universities
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: A stone-pillared university entrance gate carrying the 'Universiti Sains Malaysia' sign, flanked by flagpoles and dense greenery under an overcast sky
+    kind: representative
+    origin: third-party
+    subject: the main entrance gate of Universiti Sains Malaysia (USM), a public research university, in Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Two students with the same SPM results end up in completely different systems.

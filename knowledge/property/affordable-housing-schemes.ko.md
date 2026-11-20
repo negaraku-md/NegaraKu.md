@@ -32,7 +32,7 @@ faq:
     a: "유예기간이란 승인 없이 주택을 재매각하는 것이 금지되는 기간입니다. Residensi Wilayah는 10년, Rumah Selangorku는 5년의 유예기간을 두어 투기를 방지하고 주택이 대상 계층을 위해 유지되도록 합니다."
 
 lang: "ko"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_L
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: 각 세대에 알파벳이 매겨진 크림색 빨간 지붕의 부킷 잘릴 공공주택 고층동이 길게 줄지어 서 있고, 단지 도로를 따라 차들이 주차되어 있으며 멀리 녹지와 도시 스카이라인이 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 부킷 잘릴에서 입주민 주차장이 있는 서민주택 프로그램(PPR) 고층 아파트 한 줄
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: 흐린 하늘을 배경으로 아래에서 올려다본 코타 다만사라의 겨자색·흰색 공공주택 아파트 한 동. 창살과 에어컨이 달린 똑같은 세대가 많고, 나뭇가지가 화면을 두른다
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 코타 다만사라의 PPR 공공주택 동(Gugusan Kemuning)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 월급은 RM4,000인데 도시의 테라스하우스 가격은 이미 50만 링깃에 이르렀다면 — 어디서부터 찾기 시작해야 할까요? 답은 하나의 제도가 아니라, 각각 서로 다른 소득 구간을 대상으로 하는 여러 정부 제도의 목록입니다. 잘못 선택하면 애초에 자격이 없는 주택의 추첨을 기다리며 몇 달을 허비하게 됩니다.

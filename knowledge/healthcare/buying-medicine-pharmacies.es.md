@@ -19,7 +19,7 @@ keyTakeaways:
   - "Las sustancias psicotrópicas bajo la Jadual Ketiga (Tercer Anexo) de la Akta Racun 1952 están sujetas a regulaciones separadas, con penas de hasta RM100,000 o cinco años de prisión por infracciones no autorizadas (Seksyen 30)"
 appliesTo: "Cualquier persona que compre medicamentos en una farmacia pública o privada en Malasia y que quiera entender por qué algunos medicamentos requieren receta mientras que otros no, y el papel del farmacéutico registrado en ese proceso."
 lang: "es"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: Una farmacia comunitaria independiente de una sola planta con el rótulo azul de Farmasi Sinar, coches aparcados fuera bajo un cielo despejado en Malasia
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar, una farmacia comunitaria de barrio independiente en Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: La entrada de la farmacia ambulatoria dentro de un hospital público malasio, con rótulos amarillos y azules de Farmasi y una pancarta del Día Mundial del Farmacéutico, sin personas visibles
+    kind: actual
+    origin: third-party
+    subject: Entrada de la farmacia ambulatoria (Farmasi) en el Hospital Sultanah Nora Ismail, un hospital público en Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 Un cliente pide un jarabe para la tos en el mostrador de la farmacia y es atendido de inmediato. Otro pide antibióticos para un dolor de garganta y se le pide que muestre primero la receta de un médico. Ambas transacciones ocurren en la misma farmacia, el mismo día — la diferencia está en cómo la ley clasifica el medicamento, no en la discreción del farmacéutico.

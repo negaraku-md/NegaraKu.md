@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 민간 시설의 전문의 진료나 병원 입원을 앞둔 모든 사람 — 환자, 보호자, 그리고 고용주가 제공한 메디컬 카드나 보험에 의존하는 직원."
 
 lang: "ko"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: 외벽에 금빛 워드마크가 있고 앞쪽에 도로 표지판이 선, 쿠알라룸푸르 프린스 코트 메디컬 센터의 현대적인 건물
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 민간 병원 프린스 코트 메디컬 센터
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: 지붕 덮인 고가 전철역 옆, 해 질 녘의 선웨이 메디컬 센터 건물들. SunMed 간판에 불이 들어와 있다
+    kind: actual
+    origin: third-party
+    subject: 반다르 선웨이의 선웨이 메디컬 센터와 인접한 BRT/LRT 역
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 한 번의 시술을 받으러 들어갔다가 두 장의 청구서가 함께 스테이플로 묶인 듯한 것을 들고 나옵니다. 하나는 집도의로부터, 하나는 병원으로부터. 둘의 크기는 좀처럼 일치하지 않으며, 애초에 왜 별개인지를 설명해 주는 사람은 거의 없습니다.

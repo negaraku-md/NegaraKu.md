@@ -37,7 +37,7 @@ faq:
     a: "L'ingénieur allemand Hermann Tilke l'a conçu — son premier circuit de Formule 1 construit sur mesure. Le tracé de Grand Prix mesure 5.543 km de long avec 15 virages et une largeur de piste variant de 16 à 20 mètres."
 
 lang: "fr"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,6 +130,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: Un peloton serré de voitures de Formule 1 aux livrées des écuries s'étalant sur le large asphalte de la ligne de départ-arrivée de Sepang au premier tour, leurs pneus laissant des traces sombres sur la piste sous un soleil éclatant
+    kind: actual
+    origin: third-party
+    subject: le peloton de Formule 1 roue contre roue sur le circuit de Sepang au départ du Grand Prix de Malaisie 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: Une vue aérienne en hauteur du Circuit international de Sepang niché dans une campagne verdoyante, son ruban gris de piste serpentant en larges boucles autour de la tribune centrale et du complexe des stands, avec les pistes et terminaux du KLIA visibles dans la brume au loin
+    kind: actual
+    origin: third-party
+    subject: une vue aérienne de l'ensemble du Circuit international de Sepang montrant son tracé en boucles caractéristique et son paddock, avec l'aéroport international de Kuala Lumpur au-delà
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 En octobre 2026, des voitures de Formule 1 rouleront à Sepang pour la première fois en neuf ans — et la signalétique en bord de piste affichera *Grand Prix de Bahreïn*. La Malaisie n'est pas l'hôte sur le papier, ne paiera pas la redevance de licence et n'a pas fait pression pour revenir au calendrier. Elle avait simplement la seule chose dont la Formule 1 avait soudain besoin : un circuit vide, prêt et de premier plan.

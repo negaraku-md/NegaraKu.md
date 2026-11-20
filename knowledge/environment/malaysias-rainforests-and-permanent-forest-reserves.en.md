@@ -32,7 +32,7 @@ faq:
     a: "The amendment makes a public inquiry mandatory before a PFR can be degazetted, and raises fines to between RM20,000 and RM5 million along with imprisonment of between 7 and 20 years. It came into force in the Federal Territories on 1 February 2025."
 
 lang: "en"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Sunlit palm fronds and dense green understorey along a shaded trail inside the primary rainforest of Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Palm understorey and leaf litter on the floor of primary rainforest in Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: Rolling hills blanketed in dense tropical rainforest fading into blue haze under an overcast sky, viewed from Bukit Terisek in Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Unbroken forested hills of Taman Negara seen from Bukit Terisek
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 A parcel of forested land in Malaysia is not "protected" simply because it is full of trees — its protection begins on the day the land's name appears in the Gazette. Without that gazettement, the same forest can be licensed for development at any time. This is the foundation of Malaysia's entire Permanent Forest Reserve (PFR) system.

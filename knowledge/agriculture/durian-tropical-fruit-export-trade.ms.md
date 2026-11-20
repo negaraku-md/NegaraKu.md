@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: Pandangan dekat durian yang dibelah dengan ulas lembut keemasan bersarang dalam kulit berduri
+    kind: actual
+    origin: third-party
+    subject: durian Musang King yang dibuka memperlihatkan isinya yang lemak keemasan dalam kulit berduri
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: Dulang durian berduri bertindan di sisi kad harga tulisan tangan menyenaraikan kod klon dan harga RM, bersama manggis
+    kind: actual
+    origin: third-party
+    subject: durian utuh digred ikut kod klon dan diharga dalam ringgit sekilogram di pasar buah di Kota Kinabalu, Sabah
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 Selama lebih sedekad, durian Malaysia hanya boleh memasuki China jika ia dibekukan atau diproses menjadi isi dan pes. Kemudian, pada pertengahan 2024, Malaysia memperoleh akses yang telah dicari selama bertahun-tahun: hak untuk menghantar durian utuh yang segar ke pasaran durian terbesar di dunia.

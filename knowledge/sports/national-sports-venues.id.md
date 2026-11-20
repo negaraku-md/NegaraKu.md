@@ -28,7 +28,7 @@ faq:
     a: "Tidak. Sepang menjadi tuan rumah Grand Prix Formula 1 hingga 2017; kini sirkuit itu berfokus pada MotoGP dan acara motorsport lain."
 
 lang: "id"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadiu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: Interior luas Stadion Nasional Bukit Jalil pada malam hari, atap tenda putihnya yang melengkung tersinari di atas penonton yang memenuhi tribun mengelilingi lapangan hijau dan lintasan lari merah
+    kind: actual
+    origin: third-party
+    subject: cekungan interior dan atap tenda Stadion Nasional Bukit Jalil yang padat penonton untuk sebuah pertandingan malam hari
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: Fasad berkisi perak Axiata Arena di Bukit Jalil, bertuliskan nama dan logo Axiata arena di atas pintu masuk kaca melengkungnya, diapit pohon-pohon muda di bawah langit kelabu
+    kind: actual
+    origin: third-party
+    subject: eksterior Axiata Arena, arena dalam ruang Kompleks Sukan Negara di Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 Ketika 85,500 penonton memenuhi lengkungan tiga tingkat TM Stadium Nasional pada malam final sepak bola, mereka sedang duduk di dalam simbol terbesar infrastruktur olahraga Malaysia — tetapi ia hanyalah satu dari beberapa gelanggang yang menanggung acara utama negara.

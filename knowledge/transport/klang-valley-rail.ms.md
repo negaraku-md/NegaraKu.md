@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: Platform MRT bawah tanah moden yang bersih (Tun Razak Exchange) dengan pintu pelindung platform dan paparan ketibaan keretapi — pandangan pedalaman stesen. Tiada wajah yang dapat dikenali.
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: Keretapi KL Monorail membelok di laluan pandu bertingkatnya melepasi sebuah masjid dan garis langit bandar — menambah mod keretapi kedua dan konteks Lembah Klang. Berbeza daripada hero (metro bertingkat) dan body-1 (stesen bawah tanah).
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 Lihat peta rel Klang Valley buat kali pertama dan ia kelihatan seperti sup

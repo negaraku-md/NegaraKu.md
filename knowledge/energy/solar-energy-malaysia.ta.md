@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 
 status: "published"
 aiAssisted: true
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: மங்கலான வானத்தின் கீழ் அடிவானத்தில் மழைக்காட்டுடன் வெட்டப்பட்ட வயலெங்கும் பரந்த சாய்வான தரை-நிலைச் சூரிய மின்தகடுகளின் நீண்ட வரிசைகள்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, புக்கிட் மேரா அருகே ஒரு சூரிய மின் பண்ணையில் தரை-நிலைச் சூரிய ஒளிமின் தகடுகளின் வரிசைகள்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: கிராமப்புற சபா பள்ளியில் நிறுத்தப்பட்ட கார்களும் கோழிகளும் முன்புறத்தில் இருக்க, மலேசிய அரசாங்கத்தின் சூரிய-கலப்புத் திட்டப் பலகையருகே சூரிய மின்தகடுகளால் கூரையிடப்பட்ட எஃகுச் சட்டக் கூரை
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபாவில் ஒரு பள்ளியில் கிராமப்புற சூரிய-கலப்பு மின் நிறுவல்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 வீட்டுக் கூரையின் மேல் உள்ள சூரிய பலகைகள் இப்போது மலேசியாவில் அரசாங்கக் கொள்கையுடன் இறுக்கமாகப் பிணைக்கப்பட்ட ஒரு நிதி முடிவாக மாறிவிட்டன. ஆனால் "சூரியத்திற்கு மாறுவது" என்பது Ipoh இல் உள்ள ஒரு வீட்டு உரிமையாளருக்கும், Pasir Gudang இல் உள்ள ஒரு தொழிற்சாலைக்கும் அல்லது 100% பசுமை சக்தியை விரும்பும் ஒரு தரவு மையத்திற்கும் மிகவும் வேறுபட்ட ஒன்றைக் குறிக்கிறது. ஒவ்வொரு பயனர் குழுவுக்கும் அதற்கேயான திட்டம் உள்ளது.

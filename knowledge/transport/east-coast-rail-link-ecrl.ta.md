@@ -37,7 +37,7 @@ faq:
     a: "இரண்டுக்கும். இது ஒரு இரட்டைப் பயன்பாட்டுப் பாதையாக வடிவமைக்கப்பட்டுள்ளது: மணிக்கு 160 கி.மீ வரையிலான பயணிகள் சேவைகளுடன் 80 கி.மீ/மணி வேகத்தில் சரக்கு சேவைகள். ஒரு மைய நோக்கம் போர்ட் கிளாங் மற்றும் குவாந்தான் போன்ற கிழக்கு கடற்கரை துறைமுகங்களுக்கு இடையே தீபகற்பம் முழுவதும் சரக்கை எடுத்துச் செல்லும் தரை பாலமாகச் செயல்படுவதாகும், இது சிங்கப்பூர் மற்றும் மலாக்கா நீரிணையைச் சுற்றிச் செல்லும் கடல் வழிக்கு மாற்றாக இருக்கிறது."
 
 lang: "ta"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,23 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: பச்சை மலைச்சரிவில் துளையிடப்பட்ட 'Terowong 2 Serendah' இரட்டைச் சுரங்க வாயில்கள்; மேலே MRL/ECRL திட்ட பதாகையும், முன்புறத்தில் புதிய கற்பாதையும் — தித்திவாங்சா மலைத்தொடர் வழியே கட்டப்படும் பாதை (2025)
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: சுங்காய் துவாவில் கட்டப்பட்டுவரும் ECRL மேம்பாலம் — வெட்டப்பட்ட மலைச்சரிவில் உயரும் காங்கிரீட் தூண்களும், தள மறைப்புக்குப் பின் வைக்கப்பட்ட பெட்டி-உத்திரப் பகுதியும்
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
 ---
 
 பல பத்தாண்டுகளாக, கோலாலம்பூருக்கும் கிழக்கு கடற்கரை மாநிலங்களுக்கும் இடையிலான வேகமான வழி என்பது மலைகள் மீதாகச் சாலையில் நீண்ட பயணம் செய்வதாக இருந்தது. ஒரே தண்டவாளப் பாதை அதை மாற்றிவிட முடியும் என்பதும், அந்தச் செயல்பாட்டில் நாட்டின் வளர்ச்சி எங்கே நிகழ்கிறது என்பதைச் சமநிலைப்படுத்த முடியும் என்பதும்தான் கிழக்கு கடற்கரை ரயில் இணைப்பின் மீதான மலேசியாவின் பந்தயம்.

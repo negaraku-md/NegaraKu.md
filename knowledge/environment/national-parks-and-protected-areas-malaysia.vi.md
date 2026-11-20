@@ -34,7 +34,7 @@ faq:
     a: "Section 10 của Đạo luật Công viên Quốc gia 1980 cấm khai thác mỏ và thăm dò khoáng sản trong công viên quốc gia, trừ khi Cơ quan Nhà nước của Bang, sau khi tham vấn với Bộ trưởng, nhận thấy có tồn tại một mỏ khoáng sản đặc biệt giàu."
 
 lang: "vi"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: Khung cảnh từ mũi thuyền nhìn qua mặt hồ phẳng lặng về phía những quả đồi rừng dưới bầu trời xanh ở Công viên Bang Royal Belum
+    kind: actual
+    origin: third-party
+    subject: Khám phá những bờ hồ rừng của Công viên Bang Royal Belum bằng thuyền
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Sương sớm bốc lên từ những sườn núi rừng với một thân cây trơ trụi cao vươn ở tiền cảnh tại Công viên Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Mây thấp hình thành trên rừng mưa núi cao ở Công viên Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 Hỏi bất kỳ ai xem "công viên quốc gia của Malaysia" nằm ở đâu và họ sẽ chỉ vào một nơi. Thực tế, Malaysia không có một công viên quốc gia — nó có ba hệ thống pháp lý hoàn toàn riêng biệt, và một trong số đó thậm chí không bao gồm nơi nổi tiếng nhất với cái tên "[Taman Negara](/vi/tourism/taman-negara-ecotourism-guide)". Hiểu tấm bản đồ pháp lý này là chìa khóa để lên kế hoạch cho một chuyến đi, tiến hành nghiên cứu, hoặc đơn giản là hiểu cách Malaysia bảo vệ khu rừng mưa 130 triệu năm tuổi của mình.

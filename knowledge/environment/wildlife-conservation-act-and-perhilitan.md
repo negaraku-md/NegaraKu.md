@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: A black-and-white Malayan tapir standing among leaf litter and saplings in dark forest
+    kind: actual
+    origin: third-party
+    subject: A Malayan tapir foraging on the forest floor at night, a protected species threatened by habitat loss
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: A large black hornbill with a bright red-and-orange upturned casque perched on a branch among green leaves
+    kind: actual
+    origin: third-party
+    subject: A wild rhinoceros hornbill perched in the rainforest canopy of Tabin Wildlife Reserve, Sabah
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 Keep a Malayan tiger's skin in your car boot and you are not looking at a fine and a stern letter — you are looking at years in prison and a fine measured in hundreds of thousands of ringgit. That is the sharp end of the Wildlife Conservation Act 2010, the law that decides which animals in Peninsular Malaysia you may touch, keep, sell or study, and which you may not go near without written permission from the state.

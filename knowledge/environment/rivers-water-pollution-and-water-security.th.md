@@ -34,7 +34,7 @@ faq:
     a: "ตามรายงานของ Macaranga การแก้ไขในปี 2023 ต่อพระราชบัญญัติคุณภาพสิ่งแวดล้อม ปี 1974 กำหนดค่าปรับขั้นต่ำ RM5,000 และสูงสุดถึง RM10 ล้าน ตลอดจนโทษจำคุกภาคบังคับไม่เกินห้าปีสำหรับความผิดเกี่ยวกับมลพิษ สำหรับความผิดภายใต้ระบบเขตสงวนริมแม่น้ำของสลังงอร์ (มาตรา 48(1) แห่งรัฐบัญญัติ LUAS 1999) โทษคือปรับไม่เกิน RM50,000 หรือจำคุกไม่เกินสองปี หรือทั้งสอง ตัวเลขการแก้ไขพระราชบัญญัติ 1974 นี้มาจากรายงานทุติยภูมิและควรได้รับการยืนยันเทียบกับข้อความในราชกิจจานุเบกษาทางการ"
 
 lang: "th"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: แม่น้ำแคบไหลผ่านคลองคอนกรีตกว้างระหว่างอาคารสูงในเมืองและทางเดินเลียบริมแม่น้ำปูพื้น
+    kind: actual
+    origin: third-party
+    subject: แม่น้ำกลังที่ถูกกักอยู่ในคลองคอนกรีตระหว่างอาคารสูงในใจกลางกัวลาลัมเปอร์ แสดงแรงกดดันต่อคุณภาพน้ำในแม่น้ำเมือง
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: ทะเลสาบกว้างสงบนิ่งสะท้อนแสงอาทิตย์อ่อน มีเนินเขาป่าเป็นเงาดำเป็นฉากหลังยามพลบค่ำ
+    kind: actual
+    origin: third-party
+    subject: อ่างเก็บน้ำหลังเขื่อนบาตังไอในรัฐซาราวัก แหล่งกักเก็บน้ำดิบสำคัญและแหล่งพลังน้ำ
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 เปิดก๊อกน้ำในเช้าวันจันทร์แล้วพบว่ามันแห้ง ไม่ใช่เพราะก๊อกเสีย แต่เพราะโรงงานแห่งหนึ่งเหนือน้ำได้ปล่อยของเสียที่มีกลิ่นเหม็นลงลำน้ำสาขาที่ป้อนน้ำดิบให้เมืองของท่าน นี่คือความเป็นจริงที่เกิดซ้ำในหุบเขากลัง และมันอธิบายว่าเหตุใด "คุณภาพแม่น้ำ" จึงไม่ใช่เพียงประเด็นทางระบบนิเวศ แต่เป็นประเด็นความมั่นคงของการจ่ายน้ำสำหรับบ้านหลายล้านหลัง

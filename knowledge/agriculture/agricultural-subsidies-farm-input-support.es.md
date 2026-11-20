@@ -34,7 +34,7 @@ faq:
     a: "El Ministerio de Agricultura y Seguridad Alimentaria (KPKM), a través de la División de Desarrollo de la Industria del Arroz, con organismos ejecutores como la Autoridad de Organizaciones de Agricultores (LPP), MADA y KADA en sus respectivas zonas graneras."
 
 lang: "es"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-0
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: Operario conduciendo una cosechadora amarilla por un arrozal encharcado y segado al atardecer, con palmeras en el horizonte
+    kind: actual
+    origin: third-party
+    subject: una cosechadora segando arroz en un arrozal embarrado al atardecer en Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: Mujer con pañuelo en la cabeza cortando panículas doradas de arroz con una pequeña hoja y recogiéndolas en un cesto de mimbre amarillo
+    kind: actual
+    origin: third-party
+    subject: una mujer dusun cosechando a mano espigas maduras de arroz en un cesto de mimbre en el distrito de Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 El saco de fertilizante que un arrocero carga al hombro hacia el campo aquella

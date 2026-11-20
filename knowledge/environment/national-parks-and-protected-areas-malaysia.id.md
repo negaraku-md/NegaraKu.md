@@ -34,7 +34,7 @@ faq:
     a: "Pasal 10 National Parks Act 1980 melarang pertambangan dan penggalian dalam taman negara, kecuali jika Pihak Berwenang Negeri, setelah berunding dengan Menteri, menemukan adanya deposit mineral yang sangat kaya."
 
 lang: "id"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: Pemandangan dari haluan perahu melintasi air danau yang tenang menuju perbukitan berhutan di bawah langit biru di Taman Negeri Royal Belum
+    kind: actual
+    origin: third-party
+    subject: Menjelajahi tepian berhutan Taman Negeri Royal Belum dengan perahu
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Kabut pagi naik dari lereng gunung berhutan dengan satu pohon tinggi gundul di latar depan di Taman Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Awan rendah terbentuk di atas hutan hujan pegunungan di Taman Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 Tanya siapa pun di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Kenyataannya, Malaysia tidak memiliki satu taman negara — ia memiliki tiga sistem hukum yang sama sekali terpisah, dan salah satunya bahkan tidak mencakup tempat yang paling terkenal dengan nama "[Taman Negara](/id/tourism/taman-negara-ecotourism-guide)". Memahami peta hukum ini adalah kunci untuk merencanakan kunjungan, menjalankan penelitian, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.

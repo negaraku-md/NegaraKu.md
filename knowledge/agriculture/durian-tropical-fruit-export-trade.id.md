@@ -32,7 +32,7 @@ faq:
     a: "Menurut satu jawaban parlemen, Malaysia mengekspor 115,359 ton durian bernilai RM6.37 miliar ke China antara 2018 dan pertengahan 2025. Ekspor durian segar utuh mencapai 773 ton (hampir RM50 juta) dalam paruh pertama 2025 saja."
 
 lang: "id"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: Jarak dekat durian yang terbelah dengan juring daging lembut kuning keemasan yang bersarang di kulit berduri
+    kind: actual
+    origin: third-party
+    subject: durian Musang King yang terbuka memperlihatkan daging lembut kuning keemasan pekat di dalam kulit berduri
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: Nampan berisi durian berduri yang ditumpuk di samping kartu harga tulisan tangan yang mencantumkan kode klon dan harga RM, dengan manggis di sebelahnya
+    kind: actual
+    origin: third-party
+    subject: durian utuh yang digolongkan berdasarkan kode klon dan diberi harga dalam ringgit per kilogram di pasar buah di Kota Kinabalu, Sabah
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 Selama lebih satu dekade, durian Malaysia hanya bisa memasuki China jika ia dibekukan atau diproses menjadi isi dan pasta. Kemudian, pada pertengahan 2024, Malaysia memperoleh akses yang telah dicari selama bertahun-tahun: hak untuk mengirim durian utuh yang segar ke pasar durian terbesar di dunia.

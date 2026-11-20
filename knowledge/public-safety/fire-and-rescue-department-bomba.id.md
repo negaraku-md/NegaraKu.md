@@ -31,7 +31,7 @@ faq:
     a: "JBPM terdaftar sebagai departemen di bawah Kementerian Perumahan dan Kerajaan Tempatan (KPKT). Portofolio kementerian di Malaysia disusun ulang dari waktu ke waktu, jadi konfirmasikan susunan terkini di kpkt.gov.my atau bomba.gov.my sebelum bergantung padanya dalam dokumen resmi."
 
 lang: "id"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: Truk pemadam dan penyelamat Bomba penggerak empat roda berwarna merah dengan bak belakang bertutup kanvas dan lambang departemen di pintunya, terparkir di halaman muka stasiun pemadam beratap merah dengan pohon palem di belakang
+    kind: actual
+    origin: third-party
+    subject: satu truk penyelamat berat Bomba berwarna merah terparkir di stasiun pemadam di Sandakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: Bagian depan stasiun pemadam tiga lantai yang dicat krem dan terakota, deretan pintu rolonya mengeja BOMBA dengan huruf merah besar di bawah papan bertuliskan 'Balai Bomba dan Penyelamat Jalan Kubu', dengan untaian lampion merah terbentang di seberang fasad
+    kind: actual
+    origin: third-party
+    subject: fasad stasiun pemadam Jalan Kubu (Balai Bomba dan Penyelamat) di Melaka, dengan kata BOMBA tereja besar di seberang pintu rolo kandang truknya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 Ketika sebuah rumah terbakar, sebuah mobil terjebak dalam banjir, atau

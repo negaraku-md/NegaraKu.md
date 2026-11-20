@@ -20,7 +20,7 @@ appliesTo: "任何在马来西亚政府或私人药剂行购买药物、并想�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -62,6 +62,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: 一家单层独立社区药房，蓝色招牌写着 Farmasi Sinar，晴空下门外停着汽车，位于马来西亚
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar，柔佛居銮（Kluang）一家独立的社区邻里药房
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: 马来西亚一所政府医院内的门诊药房入口，黄蓝相间的 Farmasi 招牌和一条世界药剂师日横幅，无人可见
+    kind: actual
+    origin: third-party
+    subject: 柔佛峇株巴辖政府医院苏丹娜诺拉伊斯迈医院（Hospital Sultanah Nora Ismail）的门诊药房（Farmasi）入口
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 一位顾客在药剂柜台要买咳嗽药，立刻就获得配药。另一位顾客要买治喉咙痛的抗生素，却被要求先出示医生处方。这两笔交易发生在同一间药剂行、同一天——差别不在于药剂师的个人判断，而在于法律如何为该药物分类。

@@ -29,7 +29,7 @@ faq:
     a: "في الغالب لا. فكثير من منتجعات الساحل الشرقي ومشغّلي القوارب يعلّقون خدماتهم طوعًا من نحو أكتوبر إلى فبراير بسبب البحار المضطربة الناجمة عن الرياح الموسمية الشمالية الشرقية."
 
 lang: "ar"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: محطة عبّارات الركّاب المُقامة فوق الماء في كواه بلنكاوي، يحمل سقفها الطويل على شكل جناح النورس عبارة 'TERMINAL FERI PENUMPANG KUAH' فوق القناة الفيروزية — وهي طرف الرصيف/المحطة من رحلة عبّارة جزيرة. يختلف عن صورة البطل (المركب) والصورة الثانية (قارب الجزيرة الصغير).
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: قارب صغير مُغطّى تابع للحديقة البحرية راسٍ بجانب رصيف جزيرة على ركائز في مياه فيروزية صافية في بيرهينتيان بيسار — وهو تنقّل الميل الأخير إلى الجزيرة بقارب صغير. يضيف مشهدًا ثانيًا للتنقّل بين الجزر يختلف عن عبّارة السيارات (البطل) ومشهد المحطة.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 لا يوجد في ماليزيا خط عبّارات وطني واحد. فالوصول إلى جزيرة يعني معرفة أي معبر قصير، وأي رصيف، وأي مشغّل يخدمها — وعلى الساحل الشرقي، معرفة ما إذا كان البحر مفتوحًا أصلًا في ذلك الشهر.

@@ -32,7 +32,7 @@ faq:
     a: "एक संसदीय उत्तर के अनुसार, मलेशिया ने 2018 से मध्य-2025 के बीच चीन को RM6.37 बिलियन मूल्य का 115,359 टन ड्यूरियन निर्यात किया। अकेले 2025 की पहली छमाही में ताज़ा साबुत-ड्यूरियन निर्यात 773 टन (लगभग RM50 मिलियन) तक पहुँच गया।"
 
 lang: "hi"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: एक फटे हुए ड्यूरियन का क्लोज़-अप, जिसके काँटेदार छिलके में मुलायम गूदे के गहरे सुनहरे-पीले खंड दिख रहे हैं
+    kind: actual
+    origin: third-party
+    subject: एक खुला Musang King ड्यूरियन, जिसके काँटेदार छिलके के भीतर गहरा सुनहरा-पीला मलाईदार गूदा दिखता है
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: काँटेदार ड्यूरियन से भरी एक ट्रे, जिसके पास हाथ से लिखा मूल्य-पत्र क्लोन कोड और RM कीमतें दर्शाता है, साथ में मैंगोस्टीन रखे हैं
+    kind: actual
+    origin: third-party
+    subject: Kota Kinabalu, Sabah के एक फल बाज़ार में क्लोन कोड के अनुसार श्रेणीबद्ध और प्रति किलोग्राम रिंगिट में मूल्यबद्ध साबुत ड्यूरियन
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 एक दशक से अधिक समय तक मलेशियाई ड्यूरियन चीन में तभी प्रवेश कर सकता था जब वह जमा हुआ हो या गूदे और पेस्ट में संसाधित हो। फिर, मध्य-2024 में, मलेशिया ने वह अनुमति हासिल की जिसे वह वर्षों से माँग रहा था: पृथ्वी के सबसे बड़े ड्यूरियन बाज़ार में साबुत, ताज़ा ड्यूरियन भेजने का अधिकार।

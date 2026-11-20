@@ -28,7 +28,7 @@ faq:
     a: "இல்லை. Sepang 2017 வரை Formula 1 கிராண்ட் பிரிக்ஸுக்கு புரவலராக இருந்தது; தற்போது இந்த லிட்டார் MotoGP மற்றும் பிற மோட்டார்ஸ்போர்ட் நிகழ்வுகளில் கவனம் செலுத்துகிறது."
 
 lang: "ta"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadiu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: இரவில் புக்கிட் ஜலீல் தேசிய அரங்கின் பரந்த உட்புறம், அதன் வளைந்த வெள்ளை இழுவிசைக் கூரை, பச்சைப் புல்வெளியையும் சிவப்பு ஓட்டப்பாதையையும் சூழ்ந்த நிறைந்த பார்வையாளர் கூட்டத்திற்கு மேல் ஒளிரும்
+    kind: actual
+    origin: third-party
+    subject: இரவில் ஒரு போட்டிக்காக நிறைந்த புக்கிட் ஜலீல் தேசிய அரங்கின் உட்புற பகுதியும் இழுவிசைக் கூரையும்
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: புக்கிட் ஜலீலில் Axiata Arena இன் வெள்ளி நிற ஜன்னல்-சட்ட முகப்பு, அதன் வளைந்த கண்ணாடி நுழைவாயிலுக்கு மேல் Axiata arena பெயரையும் லோகோவையும் தாங்கி, சாம்பல் வானத்தின் கீழ் இளம் மரங்களால் சூழப்பட்டு
+    kind: actual
+    origin: third-party
+    subject: புக்கிட் ஜலீலில் தேசிய விளையாட்டு வளாகத்தின் உட்புற அரங்கான Axiata Arena இன் வெளிப்புறம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 ஒரு கால்பந்து இறுதிப் போட்டி இரவில் 85,500 பார்வையாளர்கள் TM Stadium Nasional-இன் மூன்று-அடுக்கு வளைவை நிரப்பும்போது, அவர்கள் மலேசியாவின் விளையாட்டு உள்கட்டமைப்பின் மிகப்பெரிய சின்னத்திற்குள் அமர்ந்திருக்கிறார்கள் — ஆயினும் இது நாட்டின் முக்கிய நிகழ்வுகளைத் தாங்கும் பல அரங்குகளில் ஒன்று மட்டுமே.

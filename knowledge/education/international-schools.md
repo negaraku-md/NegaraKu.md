@@ -105,6 +105,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: A multi-storey international-school building with a rounded glass-and-stone facade in red and grey, cars and motorcycles parked in front
+    kind: representative
+    origin: third-party
+    subject: the curved modern main building of HELP International School, an international school in Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: A clean modern steel-and-glass school entrance canopy and guardhouse beside a crossing, framed by trees under a bright sky
+    kind: representative
+    origin: third-party
+    subject: the covered drive-through entrance of the International School of Kuala Lumpur's Ampang Hilir campus
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 A British curriculum school and an American curriculum school on opposite sides of the same town are, on paper, licensed by the exact same office in Putrajaya. Neither one is legally allowed to charge parents a "building fund." Neither one can raise fees by more than 30% at a time. And neither one is required to publish a single figure the Ministry itself sets — because for all the rules the Ministry does write, the actual price of a seat is not one of them.

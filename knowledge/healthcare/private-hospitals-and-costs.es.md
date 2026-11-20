@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia que afronte una consulta con un especialista o un ingreso hospitalario en un establecimiento privado — pacientes, cuidadores y empleados que dependen de tarjetas médicas o seguros proporcionados por el empleador."
 
 lang: "es"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: El edificio moderno del Prince Court Medical Centre en Kuala Lumpur, con su logotipo dorado en la fachada y una señal de tráfico urbana en primer plano
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, un hospital privado en Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: Los edificios del Sunway Medical Centre al atardecer junto a una estación de transporte elevada cubierta, con el rótulo SunMed iluminado
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre y la estación de BRT/LRT contigua en Bandar Sunway
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 Entras por un solo procedimiento y sales con lo que parecen dos facturas grapadas. Una es del cirujano. Otra es del hospital. Rara vez coinciden en tamaño, y casi nadie explica por qué están separadas en primer lugar.

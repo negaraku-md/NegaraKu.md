@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में किराये का घर खोजने वाला कोई भी व्यक्ति, चाहे स्थानीय रूप से पहली बार किराये पर ले रहा हो या विदेश से किरायेदारी की व्यवस्था कर रहा हो।"
 
 lang: "hi"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: उपनगरीय George Town, Penang में बालकनियों और एयर-कंडीशनर इकाइयों की कतारों वाले दो बड़े क्रीम-मैरून आवासीय अपार्टमेंट ब्लॉक, जिनकी निचली मंज़िलें पेड़ों से ढकी हैं
+    kind: representative
+    origin: third-party
+    subject: उपनगरीय George Town, Penang में मध्य-बाज़ार आवासीय अपार्टमेंट ब्लॉक
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: Kuala Lumpur में सीढ़ीदार बालकनियों वाले ऊँचे आधुनिक कॉन्डोमिनियम टावरों का एक समूह, फीके बादल भरे आकाश के सामने सड़क-स्तर से देखा गया
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur में आधुनिक ऊँचे कॉन्डोमिनियम टावर (Orion Condominium और Sky Residences)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 आपको किसी पोर्टल पर कोई लिस्टिंग पसंद आती है, उस पर दिए नंबर पर संदेश

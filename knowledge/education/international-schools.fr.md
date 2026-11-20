@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "fr"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Un bâtiment d'école internationale de plusieurs étages à la façade arrondie en verre et pierre, rouge et gris, avec des voitures et des motos garées devant
+    kind: representative
+    origin: third-party
+    subject: le bâtiment principal moderne et incurvé de la HELP International School, une école internationale à Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Un auvent d'entrée d'école moderne et épuré en acier et verre et une guérite à côté d'un passage piéton, encadrés par des arbres sous un ciel lumineux
+    kind: representative
+    origin: third-party
+    subject: l'entrée couverte en voiture du campus d'Ampang Hilir de l'International School of Kuala Lumpur
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Une école à programme britannique et une école à programme américain situées aux deux extrémités d'une même ville sont, sur le papier, agréées par exactement le même bureau à Putrajaya. Aucune des deux n'est légalement autorisée à facturer aux parents un « fonds de construction ». Aucune des deux ne peut augmenter ses frais de plus de 30% à la fois. Et aucune des deux n'est tenue de publier le moindre chiffre que le ministère fixerait lui-même — car, pour toutes les règles que le ministère rédige bel et bien, le prix réel d'une place n'en fait pas partie.

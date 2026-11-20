@@ -31,7 +31,7 @@ faq:
     a: "JBPM को आवास एवं स्थानीय सरकार मंत्रालय (KPKT) के अधीन एक विभाग के रूप में सूचीबद्ध किया गया है। मलेशिया में मंत्रालयी विभागों को समय-समय पर पुनर्गठित किया जाता है, इसलिए आधिकारिक दस्तावेज़ों में इस पर निर्भर होने से पहले kpkt.gov.my या bomba.gov.my पर वर्तमान व्यवस्था की पुष्टि करें।"
 
 lang: "hi"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: एक लाल Bomba फ़ोर-व्हील-ड्राइव अग्निशमन-बचाव ट्रक, कैनवास से ढका पिछला भाग और उसके दरवाज़े पर विभाग का प्रतीक, पीछे ताड़ के पेड़ वाले लाल छत के अग्निशमन केंद्र के फोरकोर्ट पर खड़ा
+    kind: actual
+    origin: third-party
+    subject: Sandakan, Sabah के अग्निशमन केंद्र पर खड़ा एक अकेला लाल Bomba भारी बचाव ट्रक
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: बेज और टेराकोटा रंग के तिमंज़िला अग्निशमन केंद्र का अग्रभाग, उसके रोलर शटरों की कतार पर बड़े लाल अक्षरों में BOMBA लिखा, नीचे 'Balai Bomba dan Penyelamat Jalan Kubu' का साइन, मुखौटे पर टंगी लाल लालटेनों की लड़ियाँ
+    kind: actual
+    origin: third-party
+    subject: Melaka में Jalan Kubu अग्निशमन केंद्र (Balai Bomba dan Penyelamat) का मुखौटा, जिसके इंजन-बे शटरों पर बड़े अक्षरों में BOMBA शब्द लिखा है
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 जब किसी घर में आग लग जाती है, कोई कार बाढ़ में फँस जाती है, या कोई कर्मचारी किसी तंग जगह में फँस जाता है, तो एक ही नंबर पीड़ित और मदद के बीच पहली कड़ी बन जाता है — और उस लाइन के दूसरे छोर पर, अक्सर, Bomba होता है। यह समझना कि कानून वास्तव में इस विभाग को क्या करने का अधिकार देता है, यह बताता है कि Bomba केवल आग ही नहीं, बल्कि इतने प्रकार की आपात स्थितियों में क्यों पहुँचता है।

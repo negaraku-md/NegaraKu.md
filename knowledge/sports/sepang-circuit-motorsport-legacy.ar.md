@@ -37,7 +37,7 @@ faq:
     a: "صمّمها المهندس الألماني هيرمان تيلكه — وهي أول حلبة فورمولا 1 يبنيها خصيصًا. وتخطيط سباق الجائزة الكبرى بطول 5.543 كم بـ 15 منعطفًا وعرض مضمار يتراوح بين 16 و20 مترًا."
 
 lang: "ar"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,6 +135,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: حشد متراصّ من سيارات الفورمولا 1 بطلاء الفرق ينتشر عبر الإسفلت الواسع لمستقيم الانطلاق والنهاية في سيبانغ في اللفة الأولى، تترك إطاراتها علامات داكنة على المضمار تحت شمس ساطعة
+    kind: actual
+    origin: third-party
+    subject: حقل الفورمولا 1 يتسابق جنبًا إلى جنب على مضمار سيبانغ عند انطلاق جائزة ماليزيا الكبرى 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: لقطة جوية مرتفعة لحلبة سيبانغ الدولية وسط ريف أخضر، شريط مضمارها الرمادي يلتفّ في منعطفات واسعة حول المدرّج المركزي ومجمّع الحظائر، مع مدارج ومحطّات KLIA ظاهرة في البعيد الضبابي أعلاه
+    kind: actual
+    origin: third-party
+    subject: منظر جوي لحلبة سيبانغ الدولية كاملة يُظهر تخطيط مضمارها الملتفّ المميّز والحظيرة، مع مطار كوالالمبور الدولي خلفها
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 في أكتوبر 2026، ستنطلق سيارات الفورمولا 1 في سيبانغ لأول مرة منذ تسع سنوات — وستقرأ اللافتات عند جانب المضمار *سباق جائزة البحرين الكبرى*. ماليزيا ليست المستضيف على الورق، ولن تدفع رسم الترخيص، ولم تمارس ضغوطًا لتعود إلى الروزنامة. فقد كانت تملك الشيء الوحيد الذي احتاجته الفورمولا 1 فجأةً: حلبة من الطراز الأول، خالية وجاهزة.

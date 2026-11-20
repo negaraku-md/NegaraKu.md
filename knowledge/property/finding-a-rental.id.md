@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang sedang mencari rumah sewa di Malaysia, baik menyewa untuk pertama kalinya secara lokal maupun mengurus penyewaan dari luar negeri."
 
 lang: "id"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: Dua blok apartemen hunian besar berwarna krem dan merah marun dengan barisan balkon dan unit AC di pinggiran George Town, Penang, lantai bawahnya tertutup pepohonan
+    kind: representative
+    origin: third-party
+    subject: blok apartemen hunian kelas menengah di pinggiran George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: Gugusan menara kondominium modern yang tinggi dengan balkon bertingkat di Kuala Lumpur, dilihat dari permukaan jalan dengan latar langit mendung pucat
+    kind: representative
+    origin: third-party
+    subject: menara kondominium modern bertingkat tinggi (Orion Condominium dan Sky Residences) di Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 Anda menemukan sebuah listing yang Anda suka di sebuah portal, mengirim pesan ke nomor yang tertera, dan seseorang muncul untuk membuka kunci unit itu. Tidak ada apa pun dalam pertukaran itu yang memberi tahu Anda apakah orang yang menyerahkan kunci kepada Anda diizinkan secara sah untuk melakukan ini demi bayaran langsung — dan hampir tidak ada yang bertanya.

@@ -34,7 +34,7 @@ faq:
     a: "Mất độ che phủ cây tính bất kỳ việc loại bỏ tán cây nào — bao gồm việc thu hoạch các đồn điền, thiệt hại do cháy và bão — nên nó bao gồm các tổn thất sau đó mọc lại. Mất rừng nguyên sinh chỉ tính việc phát quang rừng tự nhiên trưởng thành với đa dạng sinh học và carbon không thể thay thế, và là chỉ báo tốt hơn về tổn thất sinh thái vĩnh viễn."
 
 lang: "vi"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Khung cảnh nhìn từ trên cao về một mảng rừng mưa nhiệt đới bản địa sẫm màu bị cô lập, bao quanh bởi những hàng cọ dầu đều tăm tắp của một đồn điền ở Sabah, Borneo thuộc Malaysia
+    kind: actual
+    origin: third-party
+    subject: Một mảng rừng mưa nhiệt đới bản địa sót lại bị bao quanh bởi các đồn điền cọ dầu ở Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: Khung cảnh trên cao của rừng mưa nhiệt đới bị chia cắt bởi mạng lưới đường khai thác gỗ nhạt màu và những mảng đất bị phát quang màu cam ở Sabah, Borneo thuộc Malaysia
+    kind: actual
+    origin: third-party
+    subject: Rừng bị chia cắt bởi đường khai thác gỗ và các khoảnh đất phát quang để trồng cọ dầu ở Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 Hỏi ba nguồn đáng tin cậy xem bao nhiêu phần Malaysia vẫn còn là rừng và bạn có thể nhận được ba câu trả lời cách nhau mười điểm phần trăm — tất cả đều có thể bảo vệ được, tất cả đều đo một thứ hơi khác nhau. Khoảng cách đó không phải là lỗi làm tròn; nó là toàn bộ cuộc tranh luận về nạn phá rừng ở Malaysia thu nhỏ.

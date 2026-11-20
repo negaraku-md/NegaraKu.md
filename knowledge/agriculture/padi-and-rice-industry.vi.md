@@ -27,7 +27,7 @@ faq:
   - q: "Gạo nhập khẩu của Malaysia đến từ đâu?"
     a: "Phần lớn lượng nhập khẩu được lấy từ Việt Nam, Thái Lan, Pakistan, Ấn Độ và Myanmar, theo BERNAS."
 lang: "vi"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: Ruộng lúa đang chín với một bù nhìn bằng vải trên cọc, phía sau là những quả đồi rừng và nhà làng dưới bầu trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: ruộng lúa vàng xanh đang chín với một bù nhìn đơn sơ, phía sau là những quả đồi đá vôi phủ rừng và một kampung ở Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: Một nhóm nhỏ người trên lối đi cỏ giữa những cánh đồng lúa xanh mướt rộng lớn dưới bầu trời u ám
+    kind: actual
+    origin: third-party
+    subject: du khách đi dọc bờ ruộng qua những cánh đồng lúa xanh mướt ở Sekinchan, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 Gạo là loại thực phẩm duy nhất mà Malaysia từ chối để cho thị trường tự do quyết định. Nhà nước tập trung nơi nó được trồng, đệm cho những nông dân trồng nó, cấp phép cho một công ty duy nhất nhập khẩu phần thiếu hụt, và giữ một kho dự trữ khẩn cấp phòng các cú sốc nguồn cung. Vậy mà sau nhiều thập kỷ với sự sắp xếp này, đất nước vẫn chỉ trồng khoảng một nửa lượng gạo mà mình ăn.

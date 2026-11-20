@@ -37,7 +37,7 @@ faq:
     a: "ทั้งสองอย่าง มันออกแบบเป็นเส้นทางใช้งานคู่: บริการผู้โดยสารสูงสุด 160 กม./ชม. ควบคู่กับบริการขนส่งสินค้าที่ 80 กม./ชม. เป้าหมายหลักคือทำหน้าที่เป็นสะพานบกขนส่งสินค้าตัดข้ามคาบสมุทรระหว่างท่าเรือกลางกับท่าเรือฝั่งตะวันออกเช่นกวนตัน (Kuantan) ซึ่งเป็นทางเลือกแทนเส้นทางทะเลที่ต้องอ้อมสิงคโปร์และผ่านช่องแคบมะละกา"
 
 lang: "th"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,23 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: ปากอุโมงค์คู่ 'Terowong 2 Serendah' เจาะเข้าไปในเนินเขาเขียวขจี มีป้ายโครงการ MRL/ECRL อยู่ด้านบน และรางรถไฟใหม่บนหินโรยทางโผล่ออกมาที่ด้านหน้า — เส้นทางที่กำลังก่อสร้างผ่านเทือกเขาตีติวังซา ภาพสารคดีโครงสร้างพื้นฐาน (2025)
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: สะพานยกระดับ ECRL ที่กำลังก่อสร้างที่ซูไงตัว — เสาคอนกรีตผุดขึ้นบนเนินเขาที่ถางโล่ง มีคานกล่องที่ปล่อยติดตั้งแล้วอยู่หลังรั้วก่อสร้าง แสดงขั้นตอนแนวทางยกระดับของโครงการ
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
 ---
 
 เป็นเวลาหลายทศวรรษที่เส้นทางเร็วที่สุดระหว่างกัวลาลัมเปอร์กับรัฐชายฝั่งตะวันออกคือการขับรถข้ามภูเขาเป็นระยะทางไกล เส้นทางรถไฟเชื่อมชายฝั่งตะวันออกคือการเดิมพันของมาเลเซียว่าทางรถไฟสายเดียวจะเปลี่ยนสิ่งนั้นได้ — และในกระบวนการนั้นจะช่วยปรับสมดุลว่าการเติบโตของประเทศเกิดขึ้นที่ใด

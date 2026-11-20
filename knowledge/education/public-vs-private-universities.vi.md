@@ -23,7 +23,7 @@ verificationNeeded:
   - "Bài viết này không nêu số lượng tuyển sinh của chương trình, tỷ lệ chỉ tiêu, hay con số học phí cụ thể cho bất kỳ cơ sở nào — những điều này thay đổi theo chương trình và cơ sở và thay đổi mỗi đợt tuyển; hãy xác nhận trực tiếp với e-Panduan của UPU (đối với các trường đại học công lập) hoặc từng cơ sở (đối với các trường đại học tư thục) trước khi nộp đơn."
   - "Con số chính xác hiện tại của các cơ sở IPTS đã đăng ký không được nêu ở đây vì các bảng thống kê công bố của MOHE (Statistik Pendidikan Tinggi) chưa được mở đầy đủ cho bài viết này — để có một con số chính xác, hiện hành, hãy tham khảo trực tiếp ấn phẩm Statistik Pendidikan Tinggi của MOHE."
 lang: "vi"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Một tòa nhà hành chính đại học nhiều tầng bằng kính xanh với tháp trung tâm bo tròn trên một ngọn đồi được tạo cảnh, dẫn lên bằng các bậc thềm xếp tầng trưng cờ
+    kind: representative
+    origin: third-party
+    subject: tòa nhà Văn phòng Hiệu trưởng bằng kính hiện đại của Universiti Teknologi MARA (UiTM), một trong những đại học công lập lớn nhất Malaysia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Một cổng vào đại học có trụ đá mang biển 'Universiti Sains Malaysia', hai bên là các cột cờ và cây xanh rậm rạp dưới bầu trời u ám
+    kind: representative
+    origin: third-party
+    subject: cổng chính của Universiti Sains Malaysia (USM), một đại học nghiên cứu công lập, ở Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Hai học sinh có cùng kết quả SPM lại kết thúc trong hai hệ thống hoàn toàn khác nhau.

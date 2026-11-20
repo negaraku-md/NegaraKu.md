@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: நிலத்தோற்றமிட்ட மலைமீது வட்டமான மைய கோபுரத்துடன் கூடிய பல தள நீல-கண்ணாடிப் பல்கலைக்கழக நிர்வாகக் கட்டிடம், கொடிகள் வரிசையிட்ட படிநிலைப் படிகளால் அணுகப்பட்டு
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவின் மிகப்பெரிய அரசுப் பல்கலைக்கழகங்களில் ஒன்றான Universiti Teknologi MARA (UiTM) இன் நவீன கண்ணாடி அதிபர் மாளிகைக் கட்டிடம்
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: மேகமூட்டமான வானத்தின் கீழ் கொடிக்கம்பங்களாலும் அடர்ந்த பசுமையாலும் சூழப்பட்டு, 'Universiti Sains Malaysia' பலகையைத் தாங்கிய கல்-தூண் பல்கலைக்கழக நுழைவு வாயில்
+    kind: representative
+    origin: third-party
+    subject: பினாங்கு, நிபோங் தேபாலில் ஒரு அரசு ஆராய்ச்சிப் பல்கலைக்கழகமான Universiti Sains Malaysia (USM) இன் முதன்மை நுழைவு வாயில்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 ஒரே மாதிரியான SPM முடிவுகளைப் பெற்ற இரு மாணவர்கள் முற்றிலும் வேறுபட்ட

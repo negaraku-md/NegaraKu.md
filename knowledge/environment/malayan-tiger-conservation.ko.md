@@ -33,7 +33,7 @@ faq:
     a: "주요 원인은 호랑이 부위를 노린 밀렵과 불법 야생동물 거래, 산림 황폐화와 서식지 상실, 로드킬과 인간-호랑이 충돌, 그리고 먹이 감소입니다."
 
 lang: "ko"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: 얼룩무늬 털에 빛이 어린 채, 얼룩진 햇살 아래 풀밭에 누운 말레이호랑이
+    kind: actual
+    origin: third-party
+    subject: 풀과 잎사귀 사이 얼룩진 햇살 아래 누운 말레이호랑이(Panthera tigris jacksoni)
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: 특유의 검정과 주황 얼굴 줄무늬와 수염을 보여주는 말레이호랑이 머리의 클로즈업 측면 초상
+    kind: actual
+    origin: third-party
+    subject: 얼굴 무늬를 보여주는 말레이호랑이(Panthera tigris jacksoni)의 측면 초상
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 호랑이는 말레이시아의 국장(國章)에 등장하지만, 정작 그 동물 자체는 이제 세계에서 가장 희귀한 대형 고양잇과 동물에 속합니다. 말레이시아가 야생 호랑이에 대한 최초의 전국 조사를 마쳤을 때, 그 결과는 많은 이가 예상한 것보다 낮았습니다. 150마리 미만이었습니다.

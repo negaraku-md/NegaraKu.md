@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 
 status: "published"
 aiAssisted: true
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 姆鲁（Murum）大坝厂房内部：一排编号为 1、2 的蓝色圆柱形水轮发电机组立在光洁的地面上，高大厂房顶部装有黄色桥式起重机
+    kind: actual
+    origin: third-party
+    subject: 姆鲁大坝厂房内部，展示水力发电机组
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: 从远处越过沙捞越茂密的青翠雨林丘陵望去，混凝土姆鲁大坝坝体和双溢洪道拦蓄着一座水库
+    kind: actual
+    origin: third-party
+    subject: 从森林覆盖的丘陵远眺沙捞越的姆鲁水电大坝
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 从婆罗洲雨林山脉倾泻而下的流水，如今转动着为铝厂供电的涡轮机——而这正是马来西亚可再生能源战略的核心。然而通往这一步的道路，是由巨型水坝、面积达数百平方公里的湖泊，以及被迫迁移的数千个原住民家庭所标记的。

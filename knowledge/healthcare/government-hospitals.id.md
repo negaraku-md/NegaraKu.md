@@ -27,7 +27,7 @@ verificationNeeded:
   - "Pembebasan/diskon biaya khusus untuk warga negara berusia 60 tahun ke atas — dilaporkan secara luas sebagai pembebasan biaya pendaftaran klinik spesialis RM5 dan pengurangan 50% biaya Kelas 3 — tidak dapat diverifikasi secara langsung pada laman resmi moh.gov.my (403 Forbidden saat percobaan akses), maka angka tersebut sengaja tidak dinyatakan sebagai fakta terverifikasi; mekanismenya saja dijelaskan secara umum."
   - "Statistik waktu tunggu (misalnya jumlah hari/jam rata-rata untuk janji temu spesialis atau operasi elektif) tidak dinyatakan karena tidak ada angka resmi KKM yang dapat diverifikasi ditemukan saat penulisan; realitas waktu tunggu dijelaskan secara kualitatif saja."
 lang: "id"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: Gedung bersalin modernis berwarna merah muda Hospital Kuala Lumpur terlihat di balik pepohonan, dengan menara-menara kota Kuala Lumpur di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Blok bersalin (Hospital Bersalin) di Hospital Kuala Lumpur, dengan cakrawala KLCC di belakang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Gedung departemen satu lantai di Hospital Kuala Lumpur dengan papan nama Melayu biru bertuliskan Jabatan Perubatan Rehabilitasi dan mobil-mobil yang parkir di depannya
+    kind: actual
+    origin: third-party
+    subject: Gedung Departemen Kedokteran Rehabilitasi (Jabatan Perubatan Rehabilitasi) di Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 Tiket antrean di tangan, nomor sudah lebih dari 80 orang di depan, dan papan

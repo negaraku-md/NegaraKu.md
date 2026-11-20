@@ -34,7 +34,7 @@ faq:
     a: "국립공원법 1980 제10조는 국립공원 내 채광과 탐사를 금지하되, 주 당국이 장관과 협의한 뒤 매우 풍부한 광물 매장이 존재한다고 판단하는 경우는 예외로 합니다."
 
 lang: "ko"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: 로열 벌룸 주립공원에서 파란 하늘 아래 잔잔한 호수 너머 숲 덮인 구릉을 향해, 배의 뱃머리에서 바라본 전경
+    kind: actual
+    origin: third-party
+    subject: 보트로 로열 벌룸 주립공원의 숲 덮인 호반을 탐방하기
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: 사바주 키나발루 공원에서 앞쪽에 잎 없는 큰 나무 한 그루가 선, 숲 덮인 산비탈에서 피어오르는 아침 안개
+    kind: actual
+    origin: third-party
+    subject: 사바주 키나발루 공원의 산지 우림 위로 형성되는 낮은 구름
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 말레이시아에서 "국립공원"이 어디에 있느냐고 누구에게든 물으면 한 곳을 가리킬 것입니다. 실상 말레이시아에는 하나의 국립공원이 있는 것이 아니라 — 완전히 별개인 세 가지 법 체계가 있고, 그중 하나는 정작 "[타만 네가라](/ko/tourism/taman-negara-ecotourism-guide)"라는 이름으로 가장 유명한 그곳조차 포함하지 않습니다. 이 법적 지형도를 이해하는 것이 방문을 계획하거나, 연구를 수행하거나, 단지 말레이시아가 1억 3천만 년 된 열대우림을 어떻게 보호하는지 이해하는 열쇠입니다.

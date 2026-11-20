@@ -34,7 +34,7 @@ faq:
     a: "El artículo 10 de la Ley de Parques Nacionales de 1980 prohíbe la minería y la prospección dentro de un parque nacional, a menos que la Autoridad Estatal, tras consultar al Ministro, determine que existe un yacimiento mineral tan excepcionalmente rico."
 
 lang: "es"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: Vista desde la proa de una barca sobre las aguas tranquilas de un lago hacia colinas boscosas bajo un cielo azul en el Parque Estatal Royal Belum
+    kind: actual
+    origin: third-party
+    subject: Explorando en barca las orillas boscosas del Parque Estatal Royal Belum
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Niebla matinal elevándose de las laderas montañosas boscosas con un único árbol alto y desnudo en primer plano en el Parque Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Nubes bajas formándose sobre la selva de montaña en el Parque Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 Pregunte a cualquiera dónde está «el parque nacional de Malasia» y señalará un solo lugar. En realidad, Malasia no tiene un único parque nacional — tiene tres sistemas jurídicos completamente separados, y uno de ellos ni siquiera abarca el lugar más famoso con el nombre de «[Taman Negara](/es/tourism/taman-negara-ecotourism-guide)». Entender este mapa jurídico es la clave para planificar una visita, llevar a cabo una investigación o simplemente comprender cómo protege Malasia sus selvas tropicales de 130 millones de años.

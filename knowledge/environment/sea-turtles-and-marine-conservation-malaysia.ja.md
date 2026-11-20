@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 
 status: "published"
 aiAssisted: true
@@ -105,6 +105,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: マレーシア、シパダン沖の青い海で、サンゴ礁の上を滑るように泳ぐアオウミガメ
+    kind: actual
+    origin: third-party
+    subject: マレーシア、サバ州シパダンで、サンゴ礁の上を泳ぐアオウミガメ(Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: 色鮮やかなサンゴに囲まれた岩礁の張り出しの下で休むアオウミガメ
+    kind: actual
+    origin: third-party
+    subject: マレーシア、サバ州シパダンのバラクーダ・ポイントで、礁の張り出しの下で休むアオウミガメ(Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 1960年代末、トレンガヌ州ランタウ・アバンの一本の海岸には、毎年約2,000頭のメスのオサガメが上陸し、砂浜に約10,000個の卵の巣を残していた。今日、その姿はもはや一頭もない。この衰退の物語は、この地域における最も顕著な野生生物保全の失敗の一つであり——それが今日に至るまでマレーシアがウミガメを保護する方法を形づくってきた。

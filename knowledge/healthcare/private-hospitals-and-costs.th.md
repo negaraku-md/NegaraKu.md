@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ผู้ใดก็ตามในมาเลเซียที่กำลังเผชิญการปรึกษาผู้เชี่ยวชาญหรือการเข้ารักษาในโรงพยาบาลที่สถานพยาบาลเอกชน — ผู้ป่วย ผู้ดูแล และลูกจ้างที่พึ่งพาบัตรการแพทย์หรือประกันที่นายจ้างจัดให้"
 
 lang: "th"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: อาคารทันสมัยของ Prince Court Medical Centre ในกัวลาลัมเปอร์ มีตัวอักษรชื่อสีทองบนด้านหน้าอาคารและป้ายถนนในเมืองอยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre โรงพยาบาลเอกชนในกัวลาลัมเปอร์
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: อาคาร Sunway Medical Centre ยามพลบค่ำข้างสถานีขนส่งยกระดับมีหลังคา ป้าย SunMed สว่างไสว
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre และสถานี BRT/LRT ที่อยู่ติดกันในบันดาร์ซันเวย์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 คุณเข้าไปเพื่อหัตถการหนึ่งอย่างและเดินออกมาพร้อมกับสิ่งที่รู้สึกเหมือนใบเรียกเก็บเงินสองใบที่เย็บติดกัน ใบหนึ่งจากศัลยแพทย์ ใบหนึ่งจากโรงพยาบาล ทั้งสองแทบไม่เท่ากันในขนาด และแทบไม่มีใครอธิบายว่าเหตุใดจึงแยกกันตั้งแต่แรก

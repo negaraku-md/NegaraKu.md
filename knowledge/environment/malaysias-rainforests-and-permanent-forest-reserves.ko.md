@@ -32,7 +32,7 @@ faq:
     a: "이 개정은 영구 산림 보호구역의 지정을 해제하기 전에 공청회를 의무화하고, 벌금을 RM20,000에서 RM500만까지, 징역을 7년에서 20년까지로 상향했습니다. 연방 직할지에서는 2025년 2월 1일부터 발효되었습니다."
 
 lang: "ko"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: 타만 네가라의 원시 우림 속, 그늘진 오솔길을 따라 햇살을 받은 야자 잎과 울창한 초록 하층 식생
+    kind: actual
+    origin: third-party
+    subject: 타만 네가라 원시 우림 바닥의 야자 하층 식생과 낙엽
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: 타만 네가라의 부킷 테리섹에서 바라본, 흐린 하늘 아래 푸른 안개 속으로 사라지는 울창한 열대 우림으로 뒤덮인 구릉
+    kind: actual
+    origin: third-party
+    subject: 부킷 테리섹에서 바라본 타만 네가라의 끊김 없는 숲 덮인 구릉
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 말레이시아의 어떤 산림지는 나무로 가득 찼다는 이유만으로 "보호"되는 것이 아닙니다. 그 보호는 해당 토지의 이름이 관보에 게재되는 날 시작됩니다. 그 관보 지정이 없다면, 같은 숲도 언제든 개발 허가를 받을 수 있습니다. 이것이 말레이시아의 영구 산림 보호구역(HSK) 제도 전체의 기반입니다.

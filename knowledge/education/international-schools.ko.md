@@ -37,7 +37,7 @@ faq:
 obligations: []
 
 lang: "ko"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: 빨강과 회색의 둥근 유리·석재 외벽을 지닌 다층 국제학교 건물, 앞에 차들과 오토바이가 주차되어 있다
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 수방 브스타리의 국제학교 HELP 인터내셔널 스쿨의 곡선형 현대 본관
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: 건널목 옆에 자리한 깔끔하고 현대적인 강철·유리 학교 입구 캐노피와 경비실, 밝은 하늘 아래 나무들이 둘러싸고 있다
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 국제학교(ISKL) 암팡 힐리르 캠퍼스의 지붕 덮인 드라이브스루 입구
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 같은 도시의 양쪽 끝에 있는 영국식 교육과정 학교와 미국식 교육과정 학교는 서류상 푸트라자야의 완전히 동일한 부서로부터 인가를 받습니다. 어느 쪽도 학부모에게 「건축 기금」을 청구하는 것이 법적으로 허용되지 않습니다. 어느 쪽도 한 번에 학비를 30% 넘게 올릴 수 없습니다. 그리고 어느 쪽도 교육부가 직접 정하는 단 하나의 금액도 공표할 필요가 없습니다. 교육부가 정하는 온갖 규칙에도 불구하고, 자리 하나의 실제 가격은 그중에 없기 때문입니다.

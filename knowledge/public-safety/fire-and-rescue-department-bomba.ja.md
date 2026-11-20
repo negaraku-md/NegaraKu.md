@@ -31,7 +31,7 @@ faq:
     a: "JBPMは住宅・地方政府省（KPKT）傘下の部門として掲載されている。マレーシアの省庁の所管は随時再編されるため、公式文書で依拠する前に、kpkt.gov.my又はbomba.gov.myで現在の編成を確認すること。"
 
 lang: "ja"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: キャンバスで覆われた荷台とドアに部門の紋章を付けた赤いBomba四輪駆動消防救助車が、赤い屋根の消防署の前庭に駐車、背後にヤシの木
+    kind: actual
+    origin: third-party
+    subject: サバ州サンダカンの消防署に駐車した、赤いBombaの重機救助車1台
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: ベージュとテラコッタに塗られた3階建て消防署の正面。並んだシャッターに大きな赤い文字でBOMBAと綴られ、その下に「Balai Bomba dan Penyelamat Jalan Kubu」の看板、ファサードに赤い提灯の連なり
+    kind: actual
+    origin: third-party
+    subject: マラッカのジャラン・クブ消防署(Balai Bomba dan Penyelamat)のファサード。消防車庫のシャッターに大きくBOMBAの文字
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 一軒の家が燃え、一台の車が洪水に取り残され、あるいは一人の作業員が閉所に

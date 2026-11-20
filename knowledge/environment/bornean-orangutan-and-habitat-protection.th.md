@@ -34,7 +34,7 @@ faq:
     a: "ไม่จำเป็น การสำรวจพบว่าประชากรในป่าที่ทำไม้อย่างยั่งยืนและได้รับการจัดการที่ดี เช่น เดรามาโกตและเซกามา ยังคงมีเสถียรภาพตลอด 15 ปี แสดงให้เห็นว่าอุรังอุตังสามารถดำรงอยู่ในป่าเพื่อการผลิตได้เมื่อมีการจัดการอย่างระมัดระวังและคงความเชื่อมต่อไว้"
 
 lang: "th"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: แม่อุรังอุตังบอร์เนียวพร้อมลูกสองตัวห้อยโหนอยู่บนกิ่งไม้สูงในเรือนยอดป่าฝน
+    kind: actual
+    origin: third-party
+    subject: ครอบครัวอุรังอุตังบอร์เนียวในป่ากำลังห้อยโหนและหากินบนต้นไม้ในป่าฝน เกาะบอร์เนียว
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: ภาพระยะใกล้ใบหน้าอันแสดงอารมณ์ของอุรังอุตังบอร์เนียวในป่า โอบล้อมด้วยขนสีน้ำตาลแดง
+    kind: actual
+    origin: third-party
+    subject: ภาพระยะใกล้ใบหน้าอุรังอุตังบอร์เนียวในป่าฝน เกาะบอร์เนียว
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 อุรังอุตังในป่าต้องการผืนป่าจำนวนมาก และเป็นป่าที่เชื่อมต่อกัน ในที่ราบลุ่มทางตะวันออกของซาบาห์ สิ่งนี้กลับกลายเป็นสิ่งที่หายากที่สุด ต้นไม้ที่เคยทำให้ลิงเดินทางได้เป็นกิโลเมตรโดยไม่ต้องแตะพื้นดินในปัจจุบันสิ้นสุดลงที่ขอบสวนปาล์มน้ำมัน อุรังอุตังบอร์เนียวจะอยู่รอดในภูมิทัศน์นี้หรือไม่ ส่วนใหญ่แล้วเป็นคำถามเรื่องกฎหมาย ที่ดิน และทางเชื่อม

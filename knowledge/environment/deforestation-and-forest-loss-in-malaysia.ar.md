@@ -34,7 +34,7 @@ faq:
     a: "يحتسب فقدان الغطاء الشجري أي إزالة للمظلة الشجرية — بما في ذلك حصاد المزارع والأضرار الناجمة عن الحرائق والعواصف — فيشمل خسائر تعاود النمو لاحقاً. أما فقدان الغابات الأولية فلا يحتسب سوى إزالة الغابات الطبيعية الناضجة ذات التنوع البيولوجي والكربون غير القابلين للتعويض، وهو المؤشر الأفضل على الخسارة الإيكولوجية الدائمة."
 
 lang: "ar"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: منظر جوي لجزيرة معزولة من الغابة المطيرة الأصلية الداكنة تحيط بها صفوف منتظمة من مزرعة نخيل الزيت في صباح، بورنيو الماليزية
+    kind: actual
+    origin: third-party
+    subject: رقعة متبقية من الغابة المطيرة الأصلية تحيط بها مزارع نخيل الزيت في صباح
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: منظر جوي مرتفع لغابة مطيرة تشقّها شبكة من طرق قطع الأشجار الباهتة ورقع برتقالية مُزالة في صباح، بورنيو الماليزية
+    kind: actual
+    origin: third-party
+    subject: غابة تشقّها طرق قطع الأشجار والمساحات المُزالة من أجل نخيل الزيت في صباح
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 اسأل ثلاثة مصادر موثوقة عن مقدار ما لا يزال غابةً في ماليزيا، وقد تحصل على ثلاث إجابات تفصل بينها عشر نقاط مئوية — كلها قابلة للدفاع، وكلها تقيس شيئاً مختلفاً اختلافاً طفيفاً. وهذه الفجوة ليست خطأً في التقريب؛ إنها جوهر الجدل كله حول إزالة الغابات في ماليزيا في صورة مصغّرة.

@@ -29,7 +29,7 @@ faq:
     a: "できないことが多い。多くの東海岸のリゾートや船の運航事業者は、北東モンスーンによる荒れた海のため、10月頃から2月頃まで自主的に運航を休止する。"
 
 lang: "ja"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: ランカウイの海上に建つクアア旅客フェリーターミナル。長いカモメ翼型の屋根に「TERMINAL FERI PENUMPANG KUAH」の文字、その下にターコイズ色の水路が広がる——離島フェリー旅の桟橋・ターミナル側。ヒーロー画像(船)やbody-2(小型離島船)とは区別される
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: ペルヘンティアン・ブサールで、澄んだターコイズ色の水に浮かぶ高床式の離島桟橋のそばに係留された、屋根付きの小さな海洋公園ボート——小型船による離島のラストマイル移動。車載フェリーのヒーロー画像やターミナルのbody画像とは別の、2つ目の離島交通シーン
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 マレーシアには単一の全国的なフェリー路線は存在しない。ある島にたどり着くとは、どの短距離の渡しが、どのフェリーターミナルが、どの運航事業者がその島を担っているのかを知ること——そして東海岸では、その月に海が通航可能なのかどうかを知ること——を意味する。

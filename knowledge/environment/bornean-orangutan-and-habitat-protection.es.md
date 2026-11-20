@@ -34,7 +34,7 @@ faq:
     a: "No necesariamente. El estudio halló que las poblaciones en bosques bien gestionados y explotados de forma sostenible como Deramakot y Segama se mantuvieron estables durante 15 años, lo que demuestra que los orangutanes pueden persistir en bosques de producción cuando se gestionan con cuidado y se mantienen conectados."
 
 lang: "es"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: Una hembra de orangután de Borneo con dos crías colgando de las ramas en lo alto del dosel de la selva
+    kind: actual
+    origin: third-party
+    subject: Grupo familiar de orangutanes de Borneo salvajes colgando y alimentándose en los árboles de la selva, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: Retrato en primer plano del rostro expresivo de un orangután de Borneo salvaje enmarcado por su pelaje rojizo
+    kind: actual
+    origin: third-party
+    subject: Retrato en primer plano del rostro de un orangután de Borneo salvaje en la selva, Borneo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 Un orangután salvaje necesita mucho bosque, y un bosque conectado. En las tierras bajas del este de Sabah, eso se ha convertido en lo más escaso de todo: los árboles que antes permitían a un simio recorrer kilómetros sin tocar el suelo ahora se detienen en el borde de una plantación de palma aceitera. Que el orangután de Borneo sobreviva o no en este paisaje es, en buena medida, una cuestión de ley, tierra y corredores.

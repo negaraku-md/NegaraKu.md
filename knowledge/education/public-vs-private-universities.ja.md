@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: 造園された丘に建つ、丸みを帯びた中央塔を持つ多層階の青いガラス張りの大学管理棟。旗の並ぶ段状の階段から近づく
+    kind: representative
+    origin: third-party
+    subject: マレーシア最大級の公立大学の一つ、マラ工科大学(UiTM)の近代的なガラスの学長棟
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: 「Universiti Sains Malaysia」の看板を掲げた石柱の大学入口門。曇り空の下、旗竿と密な緑に挟まれる
+    kind: representative
+    origin: third-party
+    subject: ペナン州ニボン・テバルにある公立研究大学、マレーシア科学大学(USM)の正門
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 同じSPMの成績を持つ2人の学生が、まったく異なる2つの制度に進むことがある。1人

@@ -32,7 +32,7 @@ faq:
     a: "Sửa đổi bắt buộc điều tra công khai trước khi một HSK bị hủy công báo, và nâng mức phạt lên từ RM20,000 đến RM5 triệu cùng án tù từ 7 đến 20 năm. Nó có hiệu lực ở các Lãnh thổ Liên bang từ ngày 1 tháng 2 năm 2025."
 
 lang: "vi"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Những tàu lá cọ chan hòa nắng và lớp cây bụi xanh rậm dọc một lối mòn rợp bóng trong rừng mưa nguyên sinh của Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Lớp cây bụi cọ và thảm lá rụng trên nền rừng mưa nguyên sinh ở Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: Những quả đồi nhấp nhô phủ kín rừng mưa nhiệt đới rậm rạp mờ dần vào lớp sương lam dưới bầu trời u ám, nhìn từ Bukit Terisek ở Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Những quả đồi rừng liền mạch của Taman Negara nhìn từ Bukit Terisek
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Một mảnh đất có rừng ở Malaysia không được "bảo vệ" chỉ vì nó đầy cây — sự bảo vệ của nó bắt đầu vào ngày tên mảnh đất đó xuất hiện trong Công báo. Không có công báo đó, cùng khu rừng ấy có thể được cấp phép để phát triển vào bất kỳ lúc nào. Đây là nền tảng của toàn bộ hệ thống Rừng Bảo tồn Thường trực (HSK) của Malaysia.

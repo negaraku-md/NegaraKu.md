@@ -29,7 +29,7 @@ faq:
     a: "Selalunya tidak. Banyak resort dan pengendali bot pantai timur secara sukarela menggantung perkhidmatan dari sekitar Oktober hingga Februari kerana laut yang bergelora akibat monsun timur laut."
 
 lang: "ms"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: Terminal feri penumpang Kuah di atas air di Langkawi, bumbung panjang berbentuk sayap camarnya bertulis 'TERMINAL FERI PENUMPANG KUAH' di atas selat biru kehijauan — hujung jeti/terminal perjalanan feri pulau. Berbeza daripada hero (vesel) dan body-2 (bot pulau kecil).
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: Bot Taman Laut kecil berbumbung ditambat di sisi jeti pulau bertiang dalam air biru kehijauan jernih di Perhentian Besar — perjalanan batu terakhir ke pulau dengan bot kecil. Menambah adegan pengangkutan pulau kedua yang berbeza daripada hero feri kereta dan badan terminal.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 Tiada satu perkhidmatan feri kebangsaan tunggal di Malaysia. Untuk sampai ke sesebuah pulau, anda perlu tahu penyeberangan pendek yang mana, jeti yang mana dan pengendali yang mana melayaninya — dan, di pantai timur, sama ada laut itu langsung dibuka pada bulan tersebut.

@@ -31,7 +31,7 @@ faq:
     a: "JBPM은 주택지방정부부(KPKT) 산하 부서로 등재되어 있습니다. 말레이시아의 부처 소관 업무는 수시로 재편되므로, 공식 문서에서 이에 의존하기 전에 kpkt.gov.my 또는 bomba.gov.my에서 현재 체계를 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bo
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: 천막으로 덮은 적재함과 문에 부서 문장을 단 빨간 Bomba 사륜구동 소방구조차 한 대가, 뒤에 야자수가 선 빨간 지붕 소방서 앞마당에 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 산다칸 소방서에 주차된 빨간 Bomba 중(重)구조차 한 대
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: 베이지색과 테라코타색으로 칠한 3층 소방서 전면. 일렬의 롤러 셔터에 큰 빨간 글자로 BOMBA가 적혀 있고, 그 아래 'Balai Bomba dan Penyelamat Jalan Kubu'라는 간판이 있으며 외벽을 가로질러 빨간 등롱 줄이 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 출동 차고 셔터를 가로질러 BOMBA라는 글자가 크게 적힌, 믈라카의 잘란 쿠부 소방서(Balai Bomba dan Penyelamat) 전면
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 집에 불이 나거나 자동차가 홍수에 갇히거나 작업자가 밀폐 공간에 끼였을 때, 피해자와 도움을 잇는 첫 연결고리가 되는 하나의 같은 번호가 있으며, 그 회선의 끝에는 대개 봄바가 있습니다. 이 부서에 법률이 실제로 어떤 권한을 부여했는지 이해하면, 봄바가 왜 화재뿐 아니라 그토록 다양한 긴급 상황에 등장하는지 알 수 있습니다.

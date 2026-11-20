@@ -34,7 +34,7 @@ faq:
     a: "அவசியமில்லை. Deramakot மற்றும் Segama போன்ற நன்கு நிர்வகிக்கப்பட்ட, நிலையான முறையில் மரம் வெட்டப்படும் காடுகளில் உள்ள எண்ணிக்கைகள் 15 ஆண்டுகளாக நிலையாக இருந்ததைக் கணக்கெடுப்பு கண்டறிந்தது — உற்பத்திக் காடு கவனமாக நிர்வகிக்கப்பட்டு இணைந்திருக்கும்போது ஒராங்குட்டான்கள் அங்கே தொடர்ந்து வாழமுடியும் என்பதை இது காட்டுகிறது."
 
 lang: "ta"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: மழைக்காட்டின் உயரமான மரச்சிகரத்தில் கிளைகளில் தொங்கும் இரண்டு குட்டிகளுடன் கூடிய பெண் போர்னியோ ஓராங்குட்டான்
+    kind: actual
+    origin: third-party
+    subject: போர்னியோவில் மழைக்காட்டு மரங்களில் தொங்கி உணவருந்தும் காட்டு போர்னியோ ஓராங்குட்டான் குடும்பம்
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: செம்பழுப்பு ரோமத்தால் சூழப்பட்ட காட்டு போர்னியோ ஓராங்குட்டானின் உணர்வுமிக்க முகத்தின் நெருக்கமான தோற்றம்
+    kind: actual
+    origin: third-party
+    subject: போர்னியோவில் மழைக்காட்டில் காட்டு போர்னியோ ஓராங்குட்டானின் முகத்தின் நெருக்கமான தோற்றம்
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 ஒரு காட்டு ஒராங்குட்டானுக்கு நிறைய காடு தேவை — அதுவும் ஒன்றோடொன்று இணைந்த காடு. கிழக்கு சபாவின் தாழ்நிலங்களில், அதுவே எல்லாவற்றிலும் அரிதான ஒன்றாகிவிட்டது: ஒருகாலத்தில் ஒரு குரங்கை நிலத்தைத் தொடாமல் கிலோமீட்டர்கள் தூரம் பயணிக்க அனுமதித்த மரங்கள், இப்போது ஓர் எண்ணெய்ப் பனைத் தோட்டத்தின் விளிம்பில் நின்றுவிடுகின்றன. இந்த நிலப்பரப்பில் போர்னியோ ஒராங்குட்டான் தப்பிப்பிழைக்குமா என்பது, பெருமளவில், சட்டம், நிலம் மற்றும் வழித்தடங்களைப் பொறுத்த ஒரு கேள்வியாகும்.

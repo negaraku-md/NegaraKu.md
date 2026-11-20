@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "vi"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Một tòa nhà trường quốc tế nhiều tầng với mặt tiền kính và đá bo tròn màu đỏ và xám, ô tô và xe máy đỗ phía trước
+    kind: representative
+    origin: third-party
+    subject: tòa nhà chính hiện đại uốn cong của HELP International School, một trường quốc tế ở Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Một mái che lối vào trường bằng thép và kính hiện đại gọn gàng cùng nhà bảo vệ bên cạnh một lối băng qua đường, được khung bởi cây cối dưới bầu trời sáng
+    kind: representative
+    origin: third-party
+    subject: lối vào có mái che của khuôn viên Ampang Hilir thuộc International School of Kuala Lumpur
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Một trường theo chương trình Anh và một trường theo chương trình Mỹ ở hai phía đối diện của cùng một thị trấn, trên giấy tờ, được cấp phép bởi chính cùng một văn phòng ở Putrajaya. Không trường nào được phép hợp pháp thu của cha mẹ một "quỹ xây dựng." Không trường nào có thể tăng phí quá 30% một lần. Và không trường nào bắt buộc phải công bố một con số duy nhất do chính Bộ đặt ra — vì với tất cả các quy tắc mà Bộ viết ra, giá thực tế của một chỗ ngồi không phải là một trong số đó.

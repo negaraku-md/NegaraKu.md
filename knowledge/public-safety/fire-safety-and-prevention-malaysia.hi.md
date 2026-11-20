@@ -32,7 +32,7 @@ faq:
     a: "आवासीय आगों में विद्युत-संबंधी समस्याएँ सबसे अधिक में से हैं — ख़राब वायरिंग, अधिक भार वाले सॉकेट और घिसे हुए एक्सटेंशन कॉर्ड। बिना निगरानी के छोड़ा गया खाना पकाना और LPG गैस रिसाव भी बड़े योगदानकर्ता हैं।"
 
 lang: "hi"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepart
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: एक लाल 'Bomba dan Penyelamat' अग्निशमन वाहन का पहलू, जिसके रोलर कक्ष खुले हुए हैं और करीने से रखे गोल किए हुए होज़, एक होज़ रील, श्वास उपकरण, एक पोर्टेबल जनरेटर और अन्य बचाव सामग्री दिखा रहे हैं
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई Bomba अग्निशमन वाहन के खुले साइड लॉकर, जो उसकी अग्निशमन और बचाव सामग्री दर्शा रहे हैं
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: '''Bomba dan Penyelamat'' लिवरी में एक लाल Toyota Hiace Bomba बचाव वैन, पीले BOMBA अक्षर और विभाग के प्रतीक के साथ, एक ग्रामीण गाँव के परिवेश में पेड़ों के पास घास पर खड़ी'
+    kind: actual
+    origin: third-party
+    subject: Ranau, Sabah के एक ग्रामीण kampung में तैनात एक लाल Bomba आपातकालीन बचाव वैन
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 आग कोई चेतावनी नहीं देती। कुछ ही मिनटों में, अधिक भार वाले सॉकेट से निकली चिंगारी या छोड़ी गई कड़ाही किसी घर को ज़मींदोज़ कर सकती है — और अकेले 2025 में, [मलेशिया अग्निशमन एवं बचाव विभाग](/government/fire-and-rescue-department-bomba) (JBPM) ने 98 मौतों और RM2.09 बिलियन के अनुमानित संपत्ति नुकसान के साथ 16,111 अग्नि मामले दर्ज किए। अच्छी ख़बर: उनमें से लगभग सभी रोके जा सकते हैं, चाहे आपके बैठक कक्ष में हों या कारख़ाने के फ़र्श पर।

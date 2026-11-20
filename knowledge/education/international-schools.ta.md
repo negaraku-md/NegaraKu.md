@@ -40,7 +40,7 @@ obligations: []
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: சிவப்பு, சாம்பல் நிறத்தில் வட்டமான கண்ணாடி-கல் முகப்புடன் கூடிய பல தள சர்வதேசப் பள்ளிக் கட்டிடம், முன்னால் கார்களும் மோட்டார் சைக்கிள்களும் நிறுத்தப்பட்டு
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், சுபாங் பெஸ்தாரியில் ஒரு சர்வதேசப் பள்ளியான HELP International School இன் வளைந்த நவீன முதன்மைக் கட்டிடம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: ஒரு சாலைக் கடப்பருகே, பிரகாசமான வானத்தின் கீழ் மரங்களால் சட்டகப்படுத்தப்பட்ட தூய நவீன எஃகு-கண்ணாடிப் பள்ளி நுழைவுக் கூரையும் காவல் அறையும்
+    kind: representative
+    origin: third-party
+    subject: International School of Kuala Lumpur இன் Ampang Hilir வளாகத்தின் மூடிய வாகன நுழைவாயில்
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 ஒரே ஊரின் எதிரெதிர் பக்கங்களில் உள்ள ஒரு பிரிட்டிஷ் பாடத்திட்டப் பள்ளியும் ஒரு அமெரிக்க பாடத்திட்டப் பள்ளியும், காகிதத்தில், புத்ராஜெயாவில் உள்ள சரியாக அதே அலுவலகத்தால் உரிமம் பெறுகின்றன. இரண்டில் ஒன்றுகூட பெற்றோரிடம் "கட்டட நிதி" (building fund) வசூலிக்கச் சட்டப்படி அனுமதிக்கப்படவில்லை. இரண்டில் ஒன்றுகூட ஒரு முறையில் கட்டணத்தை 30%-க்கு மேல் உயர்த்த முடியாது. மேலும் இரண்டில் ஒன்றுகூட அமைச்சே நிர்ணயிக்கும் ஒரு தொகையைக்கூட வெளியிடத் தேவையில்லை — ஏனெனில் அமைச்சு எழுதும் அனைத்து விதிகளுக்கும், ஒரு இருக்கையின் உண்மையான விலை அவற்றில் ஒன்று அல்ல.

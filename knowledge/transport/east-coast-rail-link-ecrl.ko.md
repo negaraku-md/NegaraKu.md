@@ -37,7 +37,7 @@ faq:
     a: "둘 다입니다. 겸용 노선으로 설계되어 최고 160km/h 여객 서비스와 80km/h 화물 서비스가 함께 다닙니다. 핵심 목표 하나는 포트클랑과 콴탄 같은 동해안 항구 사이에서 화물을 반도를 가로질러 운반하는 육상 교량 역할을 해, 싱가포르와 말라카해협을 멀리 돌아가는 해상 경로의 대안을 제공하는 것입니다."
 
 lang: "ko"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,23 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: 초록빛 산비탈을 뚫고 들어간 'Terowong 2 Serendah'의 쌍둥이 터널 입구. 위로 MRL/ECRL 사업 현수막이 걸려 있고 앞쪽으로 새로 깔린 자갈 궤도가 드러난다 — 티티왕사 산맥을 관통해 건설 중인 노선. 다큐멘터리식 기반시설 촬영(2025).
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: 숭아이 투아에서 건설 중인 ECRL 고가교 — 개벌된 산비탈 위로 솟은 콘크리트 교각과, 현장 가림막 뒤로 거치된 상자형 거더 경간. 터널 body와 완성된 열차편성 히어로와 구별되는, 사업의 고가 선형 단계를 보여줌.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
 ---
 
 수십 년 동안 쿠알라룸푸르와 동해안 주들 사이를 오가는 가장 빠른 길은 산을 넘는 긴 도로 여행을 뜻했습니다. 동해안철도연결선은 단 하나의 선로가 그것을 바꿀 수 있다는 — 그리고 그 과정에서 이 나라의 성장이 일어나는 곳을 재조정할 수 있다는 — 말레이시아의 베팅입니다.

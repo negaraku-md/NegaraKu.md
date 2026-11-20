@@ -28,7 +28,7 @@ faq:
     a: "ไม่ เซปังเป็นเจ้าภาพกรังด์ปรีซ์ฟอร์มูลาวันจนถึงปี 2017 ปัจจุบันสนามมุ่งเน้น MotoGP และงานมอเตอร์สปอร์ตอื่น ๆ"
 
 lang: "th"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadiu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: ภายในอันกว้างใหญ่ของสนามกีฬาแห่งชาติบูกิตจาลิลยามค่ำคืน หลังคาผ้าใบสีขาวโค้งสว่างไสวเหนือผู้ชมเต็มสนามที่ล้อมรอบสนามหญ้าสีเขียวและลู่วิ่งสีแดง
+    kind: actual
+    origin: third-party
+    subject: โถงภายในและหลังคาผ้าใบของสนามกีฬาแห่งชาติบูกิตจาลิลที่แน่นขนัดด้วยผู้ชมในการแข่งขันยามค่ำคืน
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: ด้านหน้าอาคารเกล็ดบานเกล็ดสีเงินของ Axiata Arena ในบูกิตจาลิล มีชื่อและโลโก้ Axiata arena อยู่เหนือทางเข้ากระจกโค้ง ขนาบด้วยต้นไม้อ่อนใต้ท้องฟ้าสีเทา
+    kind: actual
+    origin: third-party
+    subject: ภายนอกของ Axiata Arena สนามกีฬาในร่มของศูนย์กีฬาแห่งชาติในบูกิตจาลิล
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 เมื่อผู้ชม 85,500 คนเติมเต็มอัฒจันทร์สามชั้นโค้งของสนามกีฬาแห่งชาติ TM ในคืนรอบชิงชนะเลิศฟุตบอล พวกเขากำลังนั่งอยู่ภายในสัญลักษณ์ที่ใหญ่ที่สุดของโครงสร้างพื้นฐานกีฬาของมาเลเซีย แต่มันเป็นเพียงหนึ่งในบรรดาสนามที่รองรับงานหลักของประเทศ

@@ -32,7 +32,7 @@ faq:
     a: "Không. Đập Baram, dự kiến nhấn chìm 412 km vuông và di dời ~20,000 người, bị hoãn qua một lệnh tạm ngừng vào năm 2015 và bị hủy bỏ chính thức vào năm 2016 sau các phản đối kéo dài của người bản địa."
 
 lang: "vi"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'Bên trong nhà máy điện của đập Murum: những dãy tổ máy phát thủy điện hình trụ màu xanh đánh số 1 và 2 đứng trên nền sàn bóng loáng dưới một gian nhà cao có cần cẩu trần màu vàng'
+    kind: actual
+    origin: third-party
+    subject: nội thất nhà máy điện của đập Murum cho thấy các tổ máy phát thủy điện
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: Bức tường bê tông của đập Murum và hai máng xả lũ ngăn giữ một hồ chứa, nhìn từ xa qua những quả đồi rừng mưa nhiệt đới xanh rậm của Sarawak
+    kind: actual
+    origin: third-party
+    subject: đập thủy điện Murum ở Sarawak nhìn qua những quả đồi rừng
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 Nước chảy xuống từ các dãy núi rừng mưa của Borneo nay quay các tuabin cung cấp cho các nhà máy nhôm — và đó là cốt lõi của chiến lược năng lượng tái tạo của Malaysia. Nhưng con đường đến đó được đánh dấu bởi các đập siêu lớn, các hồ rộng hàng trăm kilômét vuông, và hàng nghìn gia đình bản địa buộc phải di dời.

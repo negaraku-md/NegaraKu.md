@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: 高い市街のビルと舗装された川沿い遊歩道の間、幅広いコンクリート水路を流れる細い川
+    kind: actual
+    origin: third-party
+    subject: 都市河川の水質への圧力を示す、クアラルンプール中心部で高層ビルの間のコンクリート水路に閉じ込められたクラン川
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: 夕暮れ時、低い太陽を映す穏やかで広大な湖。背後に森に覆われた丘のシルエット
+    kind: actual
+    origin: third-party
+    subject: サラワク州バタン・アイ・ダムの貯水池。原水の大きな貯蔵源であり水力発電の源
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 月曜の朝、蛇口をひねると水が出ない——それは蛇口の故障ではなく、上流の工場が、あなたの町に原水を供給する支流へ悪臭を放つ廃棄物を排出したからである。これはクランバレーで繰り返される現実であり、「河川の水質」が単なる生態系の問題ではなく、数百万世帯にとっての給水安全保障の問題である理由を物語っている。

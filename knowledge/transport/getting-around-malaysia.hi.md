@@ -33,7 +33,7 @@ verificationNeeded:
   - "RTS Link का 2026-अंत का लक्ष्य-तिथि इस लेखन के समय तक संचालकों का स्वयं घोषित लक्ष्य है और प्रकाशन के समय के करीब इसकी पुनः पुष्टि की जानी चाहिए, क्योंकि सीमा-पार बुनियादी ढाँचे के उद्घाटन आमतौर पर खिसक जाते हैं।"
 
 lang: "hi"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: Karak Interchange के पास पहुँचते Karak Expressway का चालक-दृष्टि दृश्य, हरे गैंट्री साइन Temerloh, Kuantan और 'Lebuhraya Pantai Timur' की ओर इशारा करते हुए, एक मोटरसाइकिल और कारें — सड़क मार्ग से Malaysia में घूमना
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: एक रंगीन अभियान लिवरी में KTM ETS Class 93 इंटरसिटी ट्रेन एक आधुनिक ऊँचे प्लेटफ़ॉर्म (Sungai Buloh) पर खड़ी, ऊपर कैटेनरी तार — मलेशियाई इंटरसिटी रेल का स्टेशन/सवार होने का दृश्य
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 कुआलालंपुर और, मान लीजिए, Ipoh — दोनों में रह चुके किसी व्यक्ति से पूछिए कि वे कैसे आते-जाते

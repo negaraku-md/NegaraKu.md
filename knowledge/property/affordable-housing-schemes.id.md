@@ -32,7 +32,7 @@ faq:
     a: "Moratorium adalah jangka waktu Anda dilarang menjual kembali rumah tanpa izin. Residensi Wilayah mengenakan moratorium 10 tahun dan Rumah Selangorku 5 tahun, untuk mencegah spekulasi dan memastikan rumah tetap untuk golongan sasaran."
 
 lang: "id"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_L
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: Barisan panjang menara perumahan rakyat berwarna krem beratap merah di Bukit Jalil, setiap unit berhuruf, dengan mobil parkir di sepanjang jalan permukiman serta pepohonan dan cakrawala kota di kejauhan
+    kind: actual
+    origin: third-party
+    subject: deretan flat bertingkat Program Perumahan Rakyat (PPR) dengan tempat parkir warga di Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: Satu blok apartemen perumahan rakyat berwarna kuning mustar dan putih di Kota Damansara dilihat dari bawah dengan latar langit mendung, unit-unitnya yang identik dilengkapi teralis jendela dan AC, dibingkai dahan pohon
+    kind: actual
+    origin: third-party
+    subject: blok perumahan rakyat PPR (Gugusan Kemuning) di Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 Gaji Anda RM4,000 sebulan dan harga rumah teres di kota sudah mencapai setengah juta ringgit — di mana sepatutnya Anda mulai mencari? Jawabannya bukan satu skema, melainkan sebuah menu skema pemerintah yang masing-masing menyasar jalur pendapatan berbeda. Memilih yang salah berarti menyia-nyiakan berbulan-bulan menunggu undian untuk rumah yang Anda memang tidak memenuhi syaratnya.

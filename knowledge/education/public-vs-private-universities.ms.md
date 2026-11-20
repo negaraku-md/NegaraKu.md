@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Bangunan pentadbiran universiti berkaca biru berbilang tingkat dengan menara tengah membulat di bukit berlandskap, dihampiri tangga berteres dihiasi bendera
+    kind: representative
+    origin: third-party
+    subject: bangunan Canseleri berkaca moden Universiti Teknologi MARA (UiTM), salah satu universiti awam terbesar Malaysia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Pintu masuk universiti bertiang batu membawa papan tanda 'Universiti Sains Malaysia', diapit tiang bendera dan kehijauan padat di bawah langit mendung
+    kind: representative
+    origin: third-party
+    subject: pintu masuk utama Universiti Sains Malaysia (USM), sebuah universiti penyelidikan awam, di Nibong Tebal, Pulau Pinang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Dua orang pelajar dengan keputusan SPM yang sama boleh berakhir dalam dua sistem

@@ -32,7 +32,7 @@ faq:
     a: "لا. فقد عُلِّق سد بارام، الذي كان يُتوقَّع أن يُغرِق 412 كيلومتراً مربعاً ويهجّر ~20,000 شخص، بموجب وقف مؤقت في 2015 وأُلغي رسمياً في 2016 إثر احتجاجات السكان الأصليين المستمرة."
 
 lang: "ar"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'داخل محطة توليد سدّ موروم: صفوف من وحدات توليد كهرومائية أسطوانية زرقاء مرقّمة 1 و2 تقف على أرضية مصقولة تحت قاعة مرتفعة مع رافعة علوية صفراء'
+    kind: actual
+    origin: third-party
+    subject: المنظر الداخلي لمحطة توليد سدّ موروم يُظهر وحدات التوليد الكهرومائية
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: جدار سدّ موروم الخرساني ومجريا التصريف التوأم يحجزان خزّانًا، مشاهَدَين من بعيد عبر تلال غابة سراوق المطيرة الخضراء الكثيفة
+    kind: actual
+    origin: third-party
+    subject: سدّ موروم الكهرومائي في سراوق مشاهَدًا عبر تلال مكسوّة بالغابات
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 المياه المتدفقة من سلاسل غابات بورنيو المطيرة تدير اليوم توربينات تُشغّل مصاهر الألمنيوم — وهذا هو جوهر استراتيجية الطاقة المتجددة في ماليزيا. لكن الطريق إلى هناك يحمل علامات السدود العملاقة، والبحيرات الممتدة على مئات الكيلومترات المربعة، وآلاف الأسر الأصلية التي اضطُرت إلى الانتقال.

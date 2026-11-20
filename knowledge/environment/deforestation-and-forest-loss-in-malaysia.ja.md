@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: マレーシア領ボルネオ、サバ州で、規則正しく並ぶアブラヤシ農園に囲まれ孤立した濃い在来熱帯雨林の島を上空から見る
+    kind: actual
+    origin: third-party
+    subject: サバ州で、アブラヤシ農園に囲まれ残された在来熱帯雨林のひとかたまり
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: マレーシア領ボルネオ、サバ州で、淡い伐採道路の網とオレンジ色の伐採地に切り裂かれた熱帯雨林を高空から見る
+    kind: actual
+    origin: third-party
+    subject: サバ州で、アブラヤシのための伐採道路と伐採地に切り裂かれた森林
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 信頼できる情報源を三つ選び、マレーシアにまだどれだけの森林が残っているかを尋ねれば、十パーセントポイントも開きのある三つの答えが返ってくることもある――そのどれもが根拠を持ち、どれもがわずかに異なるものを測っている。この差は丸め誤差ではない。マレーシアの森林減少をめぐる議論そのものが、この一点に凝縮されているのである。

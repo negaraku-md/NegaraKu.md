@@ -33,7 +33,7 @@ faq:
     a: "मुख्य कारक हैं बाघ के अंगों के लिए अवैध शिकार और अवैध वन्यजीव व्यापार, वन का क्षरण और आवास की हानि, सड़क पर मृत्यु तथा मानव–बाघ संघर्ष, और घटता शिकार।"
 
 lang: "hi"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: एक मलायन बाघ धूप की छाँव में घास पर लेटा हुआ, उसकी धारीदार खाल पर रोशनी पड़ रही है
+    kind: actual
+    origin: third-party
+    subject: मलायन बाघ (Panthera tigris jacksoni) घास और पत्तियों के बीच छायादार धूप में लेटा हुआ
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: एक मलायन बाघ के सिर का पार्श्व क्लोज़-अप चित्र, जिसमें उसकी विशिष्ट काली-नारंगी चेहरे की धारियाँ और मूँछें दिख रही हैं
+    kind: actual
+    origin: third-party
+    subject: मलायन बाघ (Panthera tigris jacksoni) का पार्श्व चित्र, जिसमें चेहरे के निशान दिख रहे हैं
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 बाघ मलेशिया के राजचिह्न पर दिखाई देता है, पर यह पशु स्वयं अब दुनिया की सबसे दुर्लभ बड़ी बिल्लियों में से एक है। जब मलेशिया ने जंगली बाघों का अपना पहला राष्ट्रीय सर्वेक्षण पूरा किया, तो परिणाम कई लोगों की अपेक्षा से कम निकला: 150 से कम।

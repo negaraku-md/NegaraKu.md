@@ -39,7 +39,7 @@ obligations: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 
 status: "published"
 aiAssisted: true
@@ -105,6 +105,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: 一栋多层的国际学校大楼，带有红灰相间的弧形玻璃与石材立面，门前停着汽车和摩托车
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪梳邦再也（Subang Bestari）的国际学校 HELP 国际学校（HELP International School）弧形现代主楼
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: 一座整洁现代的钢铁与玻璃学校入口顶棚和门卫亭，位于一处人行横道旁，晴空下由树木环绕
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡国际学校（ISKL）安邦希尔（Ampang Hilir）校区的有顶棚车道入口
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 一所英国课程学校与一所美国课程学校，即便分处同一小镇的两端，在纸面上也是由布城同一个部门发牌照。两者在法律上都不得向家长收取「建校基金」。两者一次调涨学费都不得超过30%。而且两者都不必公布任何由教育部本身设定的数字——因为在教育部所订立的所有规则当中，学额的实际价格从来都不在其中。

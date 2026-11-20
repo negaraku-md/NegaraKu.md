@@ -31,7 +31,7 @@ faq:
     a: "에너지위원회(Energy Commission)가 주된 규제 기관입니다. SEDA Malaysia가 NEM을 실행하고, 단일구매자(TNB 산하)가 CGPP, CRESS, CREAM 같은 시장 프로그램을 조정합니다."
 
 lang: "ko"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: 뿌연 하늘 아래, 지평선의 우림을 배경으로 개벌된 들판에 걸쳐 긴 줄로 늘어선 경사진 지상 설치형 태양광 패널
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 부킷 므라 인근 태양광 발전소의 지상 설치형 태양광 패널 열
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: 사바의 시골 학교에서 말레이시아 정부 태양광-하이브리드 사업 안내판 옆에 태양광 패널로 지붕을 얹은 강철 구조 캐노피, 앞쪽에 주차된 차들과 닭들이 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바의 한 학교에 설치된 시골 태양광-하이브리드 발전 설비
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 집 지붕 위의 태양광 패널은 이제 말레이시아에서 정부 정책에 단단히 묶인 하나의 재정적 결정이 되었습니다. 그러나 "태양광으로 가는 것"은 이포의 주택 소유자와, 파시르구당의 공장이나 100% 그린 에너지를 원하는 데이터 센터에게 매우 다른 것을 뜻합니다. 각 사용자 집단에는 저마다의 제도가 있습니다.

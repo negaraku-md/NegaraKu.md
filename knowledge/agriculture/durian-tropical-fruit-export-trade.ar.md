@@ -32,7 +32,7 @@ faq:
     a: "وفق ردّ برلماني، صدّرت ماليزيا 115,359 طنًا من الدوريان بقيمة RM6.37 مليار إلى الصين بين 2018 ومنتصف 2025. وبلغت صادرات الدوريان الطازج الكامل 773 طنًا (نحو RM50 مليون) في النصف الأول من 2025 وحده."
 
 lang: "ar"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: صورة مقرّبة لثمرة دوريان مشقوقة تظهر فصوصها الذهبية الصفراء الغنية من اللبّ الطري داخل القشرة الشوكية
+    kind: actual
+    origin: third-party
+    subject: ثمرة دوريان موسانج كينغ مفتوحة تُظهر لبّها الكريمي الذهبي الصفري الغامق داخل القشرة الشوكية
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: صينية من ثمار الدوريان الشوكية مكدّسة بجانب بطاقة سعر مكتوبة بخط اليد تُدرج رموز السلالات والأسعار بالرينغيت، مع ثمار المنغوستين إلى جانبها
+    kind: actual
+    origin: third-party
+    subject: ثمار دوريان كاملة مصنّفة برمز السلالة ومسعّرة بالرينغيت للكيلوغرام في سوق فاكهة بكوتا كينابالو، صباح
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 على مدى أكثر من عقد، لم يكن الدوريان الماليزي يدخل الصين إلا مجمّدًا أو معالَجًا إلى لبّ ومعجون. ثم، في منتصف 2024، نالت ماليزيا حقًّا سعت إليه سنوات: حق شحن الدوريان الكامل الطازج إلى أكبر سوق للدوريان على وجه الأرض.

@@ -32,7 +32,7 @@ faq:
     a: "Selon une réponse parlementaire, la Malaisie a exporté 115,359 tonnes de durian d'une valeur de RM6.37 milliards vers la Chine entre 2018 et mi-2025. Les exportations de durian entier frais ont atteint 773 tonnes (près de RM50 millions) rien qu'au premier semestre 2025."
 
 lang: "fr"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: Gros plan d'un durian ouvert laissant voir de riches lobes jaune doré de chair tendre nichés dans la coque épineuse
+    kind: actual
+    origin: third-party
+    subject: un durian Musang King ouvert montrant sa chair crémeuse jaune doré intense à l'intérieur de la coque épineuse
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: Plateau de durians épineux empilés à côté d'une pancarte de prix manuscrite indiquant des codes de clones et des prix en RM, avec des mangoustans à côté
+    kind: actual
+    origin: third-party
+    subject: des durians entiers classés par code de clone et vendus au ringgit le kilogramme dans un marché aux fruits de Kota Kinabalu, Sabah
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 Pendant plus d'une décennie, le durian malaisien ne pouvait entrer en Chine que s'il était congelé ou transformé en pulpe et en pâte. Puis, à la mi-2024, la Malaisie a obtenu l'accès qu'elle recherchait depuis des années : le droit d'expédier du durian entier et frais vers le plus grand marché de durian de la planète.

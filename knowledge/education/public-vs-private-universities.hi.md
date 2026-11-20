@@ -23,7 +23,7 @@ verificationNeeded:
   - "यह लेख किसी भी संस्थान के कार्यक्रम दाख़िले की संख्या, कोटा अनुपात, या विशिष्ट शुल्क के आँकड़े नहीं बताता — ये कार्यक्रम और परिसर के अनुसार भिन्न होते हैं और प्रत्येक दाख़िले में बदलते हैं; आवेदन करने से पहले सीधे UPU के e-Panduan (सार्वजनिक विश्वविद्यालयों के लिए) या संबंधित संस्थान (निजी विश्वविद्यालयों के लिए) से पुष्टि करें।"
   - "पंजीकृत IPTS प्रदाताओं की सटीक वर्तमान संख्या यहाँ नहीं बताई गई है क्योंकि इस लेख के लिए MOHE की प्रकाशित सांख्यिकी तालिकाएँ (Statistik Pendidikan Tinggi) पूरी तरह नहीं खोली जा सकीं — सटीक, वर्तमान आँकड़े के लिए सीधे MOHE के Statistik Pendidikan Tinggi प्रकाशन से परामर्श करें।"
 lang: "hi"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: एक भूदृश्य वाली पहाड़ी पर गोलाकार केंद्रीय टावर वाली एक बहुमंज़िला नीली-काँच की विश्वविद्यालय प्रशासन इमारत, झंडों से सजी सीढ़ीदार सीढ़ियों से पहुँची जाती हुई
+    kind: representative
+    origin: third-party
+    subject: Malaysia के सबसे बड़े सार्वजनिक विश्वविद्यालयों में से एक, Universiti Teknologi MARA (UiTM) की आधुनिक काँच की चांसलरी इमारत
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: '''Universiti Sains Malaysia'' साइन वाला एक पत्थर-स्तंभ विश्वविद्यालय प्रवेश द्वार, बादल भरे आकाश के नीचे झंडे-स्तंभों और घनी हरियाली से घिरा'
+    kind: representative
+    origin: third-party
+    subject: Nibong Tebal, Penang में एक सार्वजनिक शोध विश्वविद्यालय, Universiti Sains Malaysia (USM) का मुख्य प्रवेश द्वार
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 एक ही SPM परिणाम वाले दो छात्र पूरी तरह अलग-अलग प्रणालियों में पहुँच जाते हैं। एक एक ही केंद्रीकृत फ़ॉर्म भरती है और महीनों प्रतीक्षा करती है कि उसे बताया जाए कि कौन-सा विश्वविद्यालय और पाठ्यक्रम उसे सौंपा गया है। दूसरी उसी सप्ताह तीन निजी विश्वविद्यालयों में सीधे आवेदन करती है, कुछ ही दिनों में प्रस्ताव पा लेती है, और जो पसंद हो उसे चुन लेती है। दोनों में से कोई भी रास्ता स्वतः «बेहतर» नहीं है — पर यह गड्डमड्ड कर देना कि वे कैसे काम करते हैं, SPM के बाद योजना बनाते समय स्कूल छोड़ने वालों की सबसे आम गलती है।

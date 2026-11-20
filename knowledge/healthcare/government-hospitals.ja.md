@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: 木々の向こうに見える、クアラルンプール病院のピンク色のモダニズム様式の産科棟。遠くにクアラルンプールの高層ビル群
+    kind: actual
+    origin: third-party
+    subject: 背後にKLCCのスカイラインを望む、クアラルンプール病院の産科棟(Hospital Bersalin)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: クアラルンプール病院の平屋建ての部門棟。青いマレー語の看板に「Jabatan Perubatan Rehabilitasi」、前に駐車した車
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール病院のリハビリテーション医学科(Jabatan Perubatan Rehabilitasi)の棟
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 整理券を手に、前には80人以上の番号——それでも壁のデジタル表示板が示す番号は

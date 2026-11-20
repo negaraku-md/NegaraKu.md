@@ -35,7 +35,7 @@ verificationNeeded:
   - "Hãy xác nhận chiều dài/số ga hiện tại của Tuyến MRT Kajang trực tiếp với MRT Corp hoặc Rapid Rail trước khi xuất bản — Bộ Giao thông và trang tuyến của chính Rapid Rail đưa ra các con số hơi khác nhau (51km/31 ga so với 46km/29 ga), mà bài viết này đã tránh lặp lại nguyên văn trong khi chờ đối chiếu."
 
 lang: "vi"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: Sân ga MRT ngầm hiện đại sạch sẽ (Tun Razak Exchange) với cửa chắn sân ga và bảng hiển thị tàu sắp đến — cảnh nội thất nhà ga. Không có khuôn mặt nhận diện được.
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: Tàu KL Monorail uốn cong trên đường ray trên cao đi ngang một nhà thờ Hồi giáo và đường chân trời thành phố — bổ sung phương thức đường sắt thứ hai và bối cảnh Klang Valley
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 Nhìn vào một bản đồ đường sắt Thung lũng Klang lần đầu và nó đọc như món

@@ -32,7 +32,7 @@ faq:
     a: "FGV是一家综合性农业企业，业务涵盖种植园（油棕、橡胶与可再生能源）、油脂、糖、物流与支援服务，以及消费产品。据其自述，它贡献了全球约3%的原棕油产量。"
 
 lang: "zh"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,23 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: 一座棕油厂（蓝色厂房＋冒着蒸汽的烟囱）坐落在油棕丘陵之间——这是业务的加工环节。没有人物。
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: 一辆自卸卡车满载新鲜果串（FFB）停在厂区大门（「Kilang Apas Balung」）——收成/物流环节。画面边缘仅有一个极小、无法辨认的工人。
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 2012年，它是市场的宠儿——一次巨型上市，一度在全球排名第二，仅次于Facebook。十三年后，同一家公司以远低于首日价格的水平悄然离开大马交易所，被当初将其推向市场的那个机构收购了回去。

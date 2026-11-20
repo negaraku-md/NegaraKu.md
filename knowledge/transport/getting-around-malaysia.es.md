@@ -33,7 +33,7 @@ verificationNeeded:
   - "RTS Link's end-2026 target date is the operators' own stated target as of this writing and should be reconfirmed closer to publication, since cross-border infrastructure openings commonly slip."
 
 lang: "es"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: 'Vista desde el asiento del conductor en la autopista de Karak acercándose al enlace de Karak, con carteles verdes en pórticos que señalan a Temerloh, Kuantan y «Lebuhraya Pantai Timur», con un motociclista y coches: moverse por Malasia por carretera. Añade el modo de autopista/conducción, distinto de las imágenes de ferrocarril.'
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: 'Un tren interurbano KTM ETS Clase 93 con una vistosa decoración de campaña detenido en un andén elevado moderno (Sungai Buloh), con catenaria encima: la vista de la estación/embarque del ferrocarril interurbano malasio. Contexto distinto de la toma aérea de campo abierto del hero.'
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 Pregunte a alguien que haya vivido tanto en Kuala Lumpur como, digamos, en

@@ -33,7 +33,7 @@ faq:
     a: "ปัจจัยขับเคลื่อนหลักคือการลักลอบล่าและการค้าสัตว์ป่าผิดกฎหมายสำหรับชิ้นส่วนเสือโคร่ง ความเสื่อมโทรมของป่าและการสูญเสียถิ่นที่อยู่อาศัย การถูกรถชนและความขัดแย้งระหว่างมนุษย์กับเสือโคร่ง และเหยื่อที่ลดลง"
 
 lang: "th"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: เสือโคร่งมลายูนอนอยู่บนหญ้าใต้แสงแดดที่ลอดผ่านใบไม้ ขนลายทางของมันสะท้อนแสง
+    kind: actual
+    origin: third-party
+    subject: เสือโคร่งมลายู (Panthera tigris jacksoni) นอนอยู่ท่ามกลางแสงแดดที่ลอดผ่านใบไม้ บนหญ้าและพุ่มไม้
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: ภาพด้านข้างระยะใกล้ของหัวเสือโคร่งมลายู แสดงลายทางสีดำส้มบนใบหน้าและหนวดอันเป็นเอกลักษณ์
+    kind: actual
+    origin: third-party
+    subject: ภาพด้านข้างของเสือโคร่งมลายู (Panthera tigris jacksoni) แสดงลวดลายบนใบหน้า
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 เสือโคร่งปรากฏบนตราแผ่นดินของมาเลเซีย แต่ตัวสัตว์เองในปัจจุบันอยู่ในกลุ่มแมวใหญ่ที่หายากที่สุดในโลก เมื่อมาเลเซียทำการสำรวจเสือโคร่งในธรรมชาติระดับชาติครั้งแรกเสร็จสิ้น ผลลัพธ์ต่ำกว่าที่หลายคนคาดไว้ คือน้อยกว่า 150 ตัว

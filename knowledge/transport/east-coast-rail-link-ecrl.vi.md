@@ -37,7 +37,7 @@ faq:
     a: "Cả hai. Nó được thiết kế như một tuyến lưỡng dụng: dịch vụ chở khách tới 160 km/h song song với dịch vụ chở hàng ở 80 km/h. Một mục tiêu trung tâm là đóng vai trò cầu đất liền chở hàng băng ngang bán đảo giữa Port Klang và các cảng bờ Đông như Kuantan, mang lại lựa chọn thay thế cho tuyến đường biển vòng quanh Singapore và Eo biển Malacca."
 
 lang: "vi"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,23 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: Hai cửa hầm song song của 'Terowong 2 Serendah' khoan vào sườn đồi xanh, với biểu ngữ dự án MRL/ECRL phía trên và đường ray mới trải đá dăm hiện ra ở tiền cảnh — tuyến đường đang được xây dựng xuyên dãy Titiwangsa
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: Cầu cạn ECRL đang thi công tại Sungai Tua — các trụ bê tông vươn lên trên sườn đồi đã phát quang với một nhịp dầm hộp đã lắp phía sau tấm rào công trường. Cho thấy giai đoạn tuyến trên cao của dự án
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
 ---
 
 Trong nhiều thập niên, cách nhanh nhất để đi lại giữa Kuala Lumpur và các bang bờ Đông là một chặng đường bộ dài băng qua núi. Tuyến đường sắt Bờ Đông là canh bạc của Malaysia rằng một tuyến đường ray duy nhất có thể thay đổi điều đó — và trong quá trình ấy, tái cân bằng nơi tăng trưởng của đất nước diễn ra.

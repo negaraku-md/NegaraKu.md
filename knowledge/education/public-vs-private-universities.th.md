@@ -23,7 +23,7 @@ verificationNeeded:
   - "บทความนี้ไม่ได้ระบุจำนวนการรับเข้าหลักสูตร สัดส่วนโควตา หรือตัวเลขค่าธรรมเนียมเฉพาะของสถาบันใด — สิ่งเหล่านี้แตกต่างกันตามหลักสูตรและวิทยาเขตและเปลี่ยนแปลงในแต่ละรอบรับ; ยืนยันโดยตรงกับ e-Panduan ของ UPU (สำหรับมหาวิทยาลัยของรัฐ) หรือสถาบันแต่ละแห่ง (สำหรับมหาวิทยาลัยเอกชน) ก่อนสมัคร"
   - "จำนวนผู้ให้บริการ IPTS ที่ขึ้นทะเบียนในปัจจุบันที่แน่นอนไม่ได้ระบุไว้ที่นี่เพราะตารางสถิติที่เผยแพร่ของ MOHE (Statistik Pendidikan Tinggi) ไม่ได้ถูกเปิดครบสำหรับบทความนี้ — สำหรับตัวเลขที่แม่นยำและเป็นปัจจุบัน โปรดอ้างอิงสิ่งพิมพ์ Statistik Pendidikan Tinggi ของ MOHE โดยตรง"
 lang: "th"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: อาคารบริหารมหาวิทยาลัยกระจกสีน้ำเงินหลายชั้นมีหอคอยกลางทรงโค้งบนเนินเขาที่จัดภูมิทัศน์ เข้าถึงได้ด้วยบันไดขั้นลดหลั่นที่ประดับด้วยธง
+    kind: representative
+    origin: third-party
+    subject: อาคารสำนักงานอธิการบดีกระจกทันสมัยของ Universiti Teknologi MARA (UiTM) หนึ่งในมหาวิทยาลัยรัฐที่ใหญ่ที่สุดของมาเลเซีย
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: ประตูทางเข้ามหาวิทยาลัยเสาหินที่มีป้าย 'Universiti Sains Malaysia' ขนาบด้วยเสาธงและพื้นที่สีเขียวหนาแน่นใต้ท้องฟ้ามืดครึ้ม
+    kind: representative
+    origin: third-party
+    subject: ประตูทางเข้าหลักของ Universiti Sains Malaysia (USM) มหาวิทยาลัยวิจัยของรัฐ ในนีบงเตอบัล ปีนัง
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 นักเรียนสองคนที่มีผล SPM เท่ากันลงเอยในระบบที่ต่างกันโดยสิ้นเชิง คนหนึ่งกรอกแบบฟอร์มรวมศูนย์เพียงฉบับเดียวและรอหลายเดือนกว่าจะได้รับแจ้งว่าถูกจัดให้เข้ามหาวิทยาลัยและหลักสูตรใด อีกคนสมัครโดยตรงต่อมหาวิทยาลัยเอกชนสามแห่งในสัปดาห์เดียวกัน ได้รับข้อเสนอภายในไม่กี่วัน และเลือกที่ใดก็ได้ที่เธอชอบ ไม่มีเส้นทางใด "ดีกว่า" โดยปริยาย — แต่การสับสนว่าแต่ละเส้นทางทำงานอย่างไรคือข้อผิดพลาดที่พบบ่อยที่สุดที่ผู้จบการศึกษาทำเมื่อวางแผนหลัง SPM

@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: ガラス張りの高架スカイブリッジでつながれた大きなベージュのキャンパス棟。塔にモナッシュの紋章、中庭にヤシの木
+    kind: representative
+    origin: third-party
+    subject: スランゴール州サンウェイ・シティにある、ガラスのスカイブリッジで結ばれたモナッシュ大学マレーシア分校の校舎
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: 一部曇りの空の下、門のある入口広場の奥に建つ、段状の赤い中国様式の屋根を持つ白いキャンパス棟
+    kind: representative
+    origin: third-party
+    subject: スランゴール州セパンにある、中国の大学として初の海外分校であるアモイ大学マレーシア校の、赤い屋根の正門と管理棟
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998年、クアラルンプールの学生は自国を離れることなくオーストラリアのMonash大学の学位を取得できるようになった——しかも費用はマレーシア国内価格で済んだ。この一つの取り決めが、同国がそれ以来築き続けてきたモデルの出発点となった。すなわち、学生ではなく大学そのものを輸入するという発想である。

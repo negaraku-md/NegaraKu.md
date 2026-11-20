@@ -32,7 +32,7 @@ faq:
     a: "المشكلات المتعلقة بالكهرباء من بين الأعلى في الحرائق السكنية — الأسلاك المعيبة، والمقابس المحمّلة فوق طاقتها، وأسلاك التمديد البالية. كما يُعدّ ترك الطهي دون مراقبة وتسرّب غاز LPG من المساهمين الرئيسيين."
 
 lang: "ar"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepart
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: جانب سيارة إطفاء حمراء 'Bomba dan Penyelamat' بأبوابها الدوّارة مفتوحة لتُظهر خراطيم ملفوفة مرتّبة وبكرة خرطوم وأجهزة تنفّس ومولّدًا محمولًا ومعدّات إنقاذ أخرى
+    kind: actual
+    origin: third-party
+    subject: الخزائن الجانبية المفتوحة لسيارة إطفاء Bomba ماليزية تعرض معدّات مكافحة الحرائق والإنقاذ
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: شاحنة إنقاذ حمراء Toyota Hiace من Bomba بطلاء 'Bomba dan Penyelamat' وحروف BOMBA صفراء وشعار الإدارة، متوقّفة على العشب بجانب الأشجار في محيط قروي ريفي
+    kind: actual
+    origin: third-party
+    subject: شاحنة إنقاذ طوارئ حمراء من Bomba منتشرة في كمبونغ ريفي في راناو، صباح
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 لا تمنح النار إنذارًا. ففي غضون دقائق، يمكن لشرارة من مقبس محمّل فوق طاقته أو مقلاة مهجورة أن تسوّي منزلًا بالأرض — وفي عام 2025 وحده، سجّلت [دائرة الإطفاء والإنقاذ الماليزية](/government/fire-and-rescue-department-bomba) (JBPM) ‏16,111 حالة حريق، و98 وفاة، وخسائر ممتلكات تقديرية قدرها RM2.09 مليار. والخبر السار: يمكن منع جميعها تقريبًا، سواء في غرفة معيشتك أو على أرض المصنع.

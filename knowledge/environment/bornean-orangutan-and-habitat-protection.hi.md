@@ -34,7 +34,7 @@ faq:
     a: "ज़रूरी नहीं। सर्वेक्षण में पाया गया कि देरामाकोट और सेगामा जैसे अच्छी तरह प्रबंधित, टिकाऊ ढंग से काटे गए वनों में आबादी 15 वर्षों तक स्थिर रही, जो दर्शाता है कि जब उत्पादन वन को सावधानी से प्रबंधित किया जाए और जुड़ा रखा जाए तो ऑरंगुटान उसमें टिक सकते हैं।"
 
 lang: "hi"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_py
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: एक मादा बोर्नियन ओरंगुटान अपने दो बच्चों के साथ वर्षावन की ऊँची छतरी में टहनियों से लटकी हुई
+    kind: actual
+    origin: third-party
+    subject: Borneo के वर्षावन के पेड़ों में लटकता और भोजन करता जंगली बोर्नियन ओरंगुटान परिवार
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: एक जंगली बोर्नियन ओरंगुटान के भावपूर्ण चेहरे का क्लोज़-अप, उसके लालिमायुक्त रोएँ से घिरा हुआ
+    kind: actual
+    origin: third-party
+    subject: Borneo के वर्षावन में एक जंगली बोर्नियन ओरंगुटान के चेहरे का क्लोज़-अप चित्र
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 एक जंगली ऑरंगुटान को बहुत सारे वन की, और एक जुड़े हुए वन की ज़रूरत होती है। पूर्वी सबाह की तराई में यह सबसे दुर्लभ चीज़ बन गया है: वे पेड़ जो कभी एक वानर को ज़मीन छुए बिना किलोमीटरों सफ़र करने देते थे, अब एक पाम तेल बागान के किनारे पर रुक जाते हैं। इस परिदृश्य में बोर्नियन ऑरंगुटान जीवित रहता है या नहीं, यह काफ़ी हद तक कानून, भूमि और गलियारों का सवाल है।

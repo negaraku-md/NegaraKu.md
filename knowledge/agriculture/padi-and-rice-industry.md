@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: Ripening rice field with a cloth scarecrow on a pole, forested hills and village houses behind under a clear blue sky
+    kind: actual
+    origin: third-party
+    subject: ripening golden-green padi with a simple scarecrow, backed by forested limestone hills and a kampung on Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: Small group of people on a grassy path amid wide bright-green rice fields under an overcast sky
+    kind: actual
+    origin: third-party
+    subject: visitors walking along a bund through vivid green paddy fields at Sekinchan, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 Rice is the one food Malaysia refuses to leave to the free market. The state concentrates where it is grown, cushions the farmers who grow it, licenses a single company to import the shortfall, and holds an emergency stockpile against supply shocks. Yet after decades of this arrangement, the country still grows only about half the rice it eats.

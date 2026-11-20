@@ -34,7 +34,7 @@ faq:
     a: "No. Aunque Monash, Nottingham, Xiamen y Heriot-Watt se agrupan en torno al Valle de Klang y Putrajaya, EduCity Iskandar concentra varias sedes en Johor, cerca de Singapur, y Curtin y Swinburne operan en Sarawak."
 
 lang: "es"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Grandes bloques de campus beige unidos por una pasarela elevada acristalada, con el escudo de Monash en una torre y palmeras en el patio
+    kind: representative
+    origin: third-party
+    subject: los edificios del campus de la Universiti Monash Malaysia enlazados por una pasarela de cristal, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Edificios de campus blancos con tejados escalonados rojos de estilo chino detrás de una plaza de entrada con verja bajo un cielo parcialmente nublado
+    kind: representative
+    origin: third-party
+    subject: la puerta principal de tejado rojo y la torre administrativa de la Universiti Xiamen Malaysia, el primer campus de una universidad china en el extranjero, en Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 En 1998, un estudiante en Kuala Lumpur podía obtener un título australiano de Monash sin salir del país, y pagar por él precios malasios. Ese único acuerdo puso en marcha un modelo sobre el que el país ha estado construyendo desde entonces: importar la universidad, no al estudiante.

@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: 剖开的榴莲特写，金黄饱满的果肉软嫩地嵌在带刺的外壳中
+    kind: actual
+    origin: third-party
+    subject: 一颗剖开的猫山王榴莲，露出带刺外壳中深金黄、绵密的果肉
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: 一盘带刺的榴莲堆放在一张手写价目牌旁，牌上列着品种编号和令吉价格，一旁还有山竹
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇一处水果市场里按品种编号分级、以令吉每公斤标价的整颗榴莲
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 十多年来，马来西亚榴梿只有在冷冻或加工成果肉和果酱后才能进入中国。随后，在2024年年中，马来西亚赢得了它多年来一直争取的准入：将整颗新鲜榴梿运往地球上最大榴梿市场的权利。

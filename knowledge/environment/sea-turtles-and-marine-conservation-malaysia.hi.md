@@ -31,7 +31,7 @@ faq:
     a: "प्रायद्वीपीय समुद्री उद्यान मत्स्य अधिनियम 1985 के तहत राजपत्रित हैं। यह द्वीप से दो समुद्री मील का संरक्षण क्षेत्र स्थापित करता है जहाँ घोंसला बनाते कछुओं को परेशान करना और नवजात बच्चों को इकट्ठा करना जैसी गतिविधियाँ निषिद्ध हैं।"
 
 lang: "hi"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: Sipadan, Malaysia के नीले पानी में एक हरा समुद्री कछुआ एक कोरल रीफ़ के ऊपर तैरता हुआ
+    kind: actual
+    origin: third-party
+    subject: Sipadan, Sabah, Malaysia में एक कोरल रीफ़ के ऊपर तैरता हरा समुद्री कछुआ (Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: रंगीन कोरल से घिरी एक चट्टानी रीफ़ कगार के नीचे आराम करता एक हरा समुद्री कछुआ
+    kind: actual
+    origin: third-party
+    subject: Barracuda Point, Sipadan, Sabah, Malaysia में एक रीफ़ कगार के नीचे आराम करता हरा समुद्री कछुआ (Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 1960 के दशक के अंत में, तेरेंगानू के रांताउ अबांग में रेत के एक ही हिस्से पर हर वर्ष लगभग 2,000 मादा लेदरबैक कछुए किनारे आती थीं, जो रेत में लगभग 10,000 अंडों के घोंसले छोड़ जाती थीं। आज, एक भी नहीं है। इस ह्रास की कहानी इस क्षेत्र की सबसे स्पष्ट वन्यजीव संरक्षण विफलताओं में से एक है — और इसने यह गढ़ा है कि मलेशिया आज तक समुद्री कछुओं की रक्षा कैसे करता है।

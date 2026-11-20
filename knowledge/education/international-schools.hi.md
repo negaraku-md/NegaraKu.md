@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "hi"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: लाल और धूसर रंग में गोलाकार काँच-और-पत्थर के मुखौटे वाली एक बहुमंज़िला अंतरराष्ट्रीय-स्कूल इमारत, सामने खड़ी कारें और मोटरसाइकिलें
+    kind: representative
+    origin: third-party
+    subject: Subang Bestari, Selangor में एक अंतरराष्ट्रीय स्कूल, HELP International School की घुमावदार आधुनिक मुख्य इमारत
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: एक क्रॉसिंग के पास एक साफ़ आधुनिक स्टील-और-काँच का स्कूल प्रवेश कैनोपी और गार्डहाउस, चमकीले आकाश के नीचे पेड़ों से घिरा
+    kind: representative
+    origin: third-party
+    subject: International School of Kuala Lumpur के Ampang Hilir परिसर का ढका हुआ ड्राइव-थ्रू प्रवेश
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 एक ही शहर के आमने-सामने के छोरों पर स्थित एक ब्रिटिश-पाठ्यक्रम स्कूल और एक अमेरिकी-पाठ्यक्रम स्कूल, कागज़ पर, पुत्रजया (Putrajaya) के ठीक उसी कार्यालय द्वारा लाइसेंस-प्राप्त हैं। किसी को भी अभिभावकों से "भवन कोष" वसूलने की कानूनी अनुमति नहीं है। कोई भी एक बार में 30% से अधिक फीस नहीं बढ़ा सकता। और किसी को भी ऐसा कोई एक आँकड़ा प्रकाशित करने की आवश्यकता नहीं है जिसे मंत्रालय स्वयं तय करता हो — क्योंकि मंत्रालय जो सब नियम लिखता है, उनमें एक सीट की वास्तविक कीमत शामिल नहीं है।

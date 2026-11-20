@@ -37,7 +37,7 @@ faq:
     a: "Keduanya. Ia dirancang sebagai jalur guna ganda: layanan penumpang hingga 160 km/j berdampingan dengan layanan barang pada 80 km/j. Tujuan utamanya adalah berfungsi sebagai jembatan darat yang mengangkut kargo melintasi semenanjung antara Port Klang dan pelabuhan pesisir timur seperti Kuantan, menawarkan alternatif terhadap rute laut mengelilingi Singapura dan Selat Malaka."
 
 lang: "id"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,23 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: Dua mulut terowongan 'Terowong 2 Serendah' yang dibor menembus bukit hijau, dengan spanduk proyek MRL/ECRL di atas dan rel berbalas baru muncul di latar depan — jalur yang sedang dibangun melintasi Pegunungan Titiwangsa. Foto infrastruktur dokumenter (2025).
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: Jembatan layang ECRL dalam pembangunan di Sungai Tua — tiang beton menjulang di bukit yang telah dibuka dengan bentang gelagar kotak terpasang di belakang pagar lokasi. Menunjukkan tahap jalur layang proyek, berbeda dari body terowongan dan hero rangkaian kereta yang sudah jadi.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
 ---
 
 Selama beberapa dekade, cara tercepat antara Kuala Lumpur dan negara bagian pesisir timur berarti perjalanan panjang melintasi pegunungan dengan jalan darat. East Coast Rail Link adalah taruhan Malaysia bahwa satu jalur rel dapat mengubah hal itu — dan, dalam prosesnya, menata ulang di mana pertumbuhan negeri ini terjadi.

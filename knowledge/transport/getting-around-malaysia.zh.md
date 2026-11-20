@@ -34,7 +34,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,23 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: 驾驶视角：加叻大道（Karak Expressway）驶近加叻交汇处，绿色门架路牌指向直凉、关丹和「Lebuhraya Pantai Timur」（东海岸大道），还有一名摩托车手和几辆汽车——以公路方式畅游马来西亚。补充了有别于铁路图像的公路/驾驶方式。
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: 一列采用鲜艳宣传涂装的 KTM ETS 93 型城际列车停靠在现代化高架站台（双溪毛糯 Sungai Buloh），上方架着接触网——马来西亚城际铁路的车站/登车视角。与主图开阔乡野的航拍形成不同情境。
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 问问在吉隆坡和，比如说，怡保都生活过的人是怎么出行的，你会得到两个截然不同的答案。一个人会说到在LRT闸门刷卡进站，再叫一辆Grab跑完最后一公里；另一个人会说到该走哪条高速公路、该在哪里停车。两人说的是同一个国家。马来西亚并非只有一套交通系统——它在巴生谷有一套规模小、密度高的系统，而在其余地方则有一套大得多、以汽车为主的系统，靠城际铁路、巴士，以及一旦距离拉长，还有飞机，把两者串联起来。

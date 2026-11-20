@@ -32,7 +32,7 @@ faq:
     a: "يجعل التعديل التحقيق العلني إلزاميًا قبل إلغاء نشر محمية غابات دائمة، ويرفع الغرامات إلى ما بين RM20,000 وRM5 مليون إلى جانب السجن مدةً تتراوح بين 7 و20 سنة. وقد دخل حيز النفاذ في الأقاليم الاتحادية في 1 فبراير 2025."
 
 lang: "ar"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: سعف نخيل تغمره الشمس ونباتات سفلية خضراء كثيفة على طول مسار مظلّل داخل الغابة المطيرة الأولية في تامان نيغارا
+    kind: actual
+    origin: third-party
+    subject: نباتات نخيل سفلية وأوراق متساقطة على أرضية الغابة المطيرة الأولية في تامان نيغارا
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: تلال متموّجة تغطّيها غابة مطيرة استوائية كثيفة تتلاشى في ضباب أزرق تحت سماء غائمة، مشاهَدة من بوكيت تيريسيك في تامان نيغارا
+    kind: actual
+    origin: third-party
+    subject: تلال تامان نيغارا المتصلة المكسوّة بالغابات مشاهَدة من بوكيت تيريسيك
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 قطعة أرض مكسوّة بالغابات في ماليزيا ليست «محمية» لمجرد أنها مليئة بالأشجار — فحمايتها تبدأ يوم يظهر اسم الأرض في الجريدة الرسمية (Warta). وبغير ذلك النشر، يمكن ترخيص الغابة نفسها للتطوير في أي وقت. وهذا هو أساس نظام محميات الغابات الدائمة (PFR) في ماليزيا بأكمله.

@@ -34,7 +34,7 @@ faq:
     a: "아닙니다. 모나시, 노팅엄, 샤먼, 헤리엇와트가 클랑밸리(Klang Valley)와 푸트라자야 주변에 집적해 있지만, 에듀시티 이스칸다르는 싱가포르에 가까운 조호르에 여러 캠퍼스를 집중시키고 있으며, 커틴(Curtin)과 스윈번(Swinburne)은 사라왁에서 운영됩니다."
 
 lang: "ko"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: 유리로 덮인 고가 스카이브리지로 연결된 커다란 베이지색 캠퍼스 건물들. 탑에는 모나시 문장이 있고 안뜰에 야자수가 있다
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 선웨이 시티에서 유리 스카이브리지로 연결된 모나시 대학 말레이시아 분교 건물들
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: 군데군데 구름 낀 하늘 아래, 문이 달린 입구 광장 뒤로 층층이 빨간 중국식 지붕을 얹은 흰색 캠퍼스 건물들
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 세팡 Sepang에 있는, 중국 대학 최초의 해외 분교인 샤먼대학 말레이시아의 빨간 지붕 정문과 행정동
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998년, 쿠알라룸푸르의 한 학생은 나라를 떠나지 않고도 호주 모나시(Monash) 학위를 받을 수 있었고, 그 대가로 말레이시아 가격을 냈습니다. 이 하나의 방식이 이후 말레이시아가 계속 발전시켜 온 모델을 출범시켰습니다. 즉 학생이 아니라 대학교를 들여오는 것입니다.

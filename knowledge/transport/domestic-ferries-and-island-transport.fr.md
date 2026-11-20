@@ -29,7 +29,7 @@ faq:
     a: "Souvent non. De nombreux complexes hôteliers et opérateurs de bateau de la côte est suspendent volontairement leurs services d'environ octobre à février en raison des mers agitées de la mousson du nord-est."
 
 lang: "fr"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,23 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: Le terminal de ferry passagers de Kuah, construit au-dessus de l'eau à Langkawi, son long toit en ailes de mouette affichant « TERMINAL FERI PENUMPANG KUAH » au-dessus du chenal turquoise — le quai/terminal d'une traversée vers l'île. Distinct du visuel principal (navire) et du body-2 (petite embarcation d'île).
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: Une petite embarcation couverte du parc marin amarrée à côté d'un ponton sur pilotis dans une eau turquoise limpide à Perhentian Besar — le dernier tronçon vers l'île en petit bateau. Ajoute une seconde scène de transport insulaire distincte du car-ferry principal et du terminal.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 Il n'existe pas d'unique ligne de ferry nationale en Malaisie. Rejoindre une île signifie savoir quelle courte traversée, quel embarcadère et quel opérateur la dessert — et, sur la côte est, si la mer est seulement ouverte ce mois-là.

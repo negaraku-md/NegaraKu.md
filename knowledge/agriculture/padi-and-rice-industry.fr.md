@@ -27,7 +27,7 @@ faq:
   - q: "D'où provient le riz importé par la Malaisie ?"
     a: "L'essentiel des importations provient du Vietnam, de la Thaïlande, du Pakistan, de l'Inde et du Myanmar, selon BERNAS."
 lang: "fr"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: Rizière arrivant à maturité avec un épouvantail en tissu sur un piquet, des collines boisées et des maisons de village à l'arrière sous un ciel bleu limpide
+    kind: actual
+    origin: third-party
+    subject: padi vert-doré arrivant à maturité avec un simple épouvantail, adossé à des collines calcaires boisées et un kampung à Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: Petit groupe de personnes sur un sentier herbeux au milieu de vastes rizières vert vif sous un ciel couvert
+    kind: actual
+    origin: third-party
+    subject: des visiteurs marchant sur une digue à travers des rizières vert vif à Sekinchan, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 Le riz est le seul aliment que la Malaisie refuse de laisser au libre marché. L'État concentre les lieux de culture, amortit les agriculteurs qui le cultivent, autorise une seule entreprise à importer le déficit et détient une réserve d'urgence contre les chocs d'approvisionnement. Pourtant, après des décennies de ce dispositif, le pays ne cultive toujours qu'environ la moitié du riz qu'il consomme.

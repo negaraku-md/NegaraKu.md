@@ -37,7 +37,7 @@ faq:
     a: "Kỹ sư người Đức Hermann Tilke thiết kế nó — trường đua Formula 1 chuyên biệt đầu tiên của ông. Bố cục Grand Prix dài 5.543 km với 15 khúc cua và chiều rộng đường đua dao động từ 16 đến 20 mét."
 
 lang: "vi"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,6 +130,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: Một đoàn xe Công thức 1 xếp sát nhau trong màu sơn các đội tỏa ra trên mặt đường nhựa rộng ở đoạn xuất phát - về đích của Sepang trong vòng đầu tiên, lốp xe để lại những vệt sẫm trên đường đua dưới ánh nắng chói
+    kind: actual
+    origin: third-party
+    subject: đoàn xe Công thức 1 đua sát nhau trên đường đua Sepang lúc xuất phát Grand Prix Malaysia 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: Một ảnh chụp từ trên cao của Đường đua Quốc tế Sepang nằm giữa vùng quê xanh, dải đường đua màu xám uốn lượn thành những vòng cung quanh khán đài trung tâm và khu pit, với đường băng và nhà ga của KLIA hiện ra mờ ảo ở phía xa trên cao
+    kind: actual
+    origin: third-party
+    subject: khung cảnh từ trên cao của toàn bộ Đường đua Quốc tế Sepang cho thấy bố cục đường đua uốn lượn đặc trưng và khu paddock, với Sân bay Quốc tế Kuala Lumpur phía xa
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 Vào tháng 10 năm 2026, những chiếc xe Formula 1 sẽ lăn bánh tại Sepang lần đầu tiên sau chín năm — và biển hiệu ven đường sẽ ghi *Grand Prix Bahrain*. Malaysia không phải là chủ nhà trên giấy tờ, sẽ không trả phí bản quyền, và không vận động hành lang để quay lại lịch thi đấu. Nó chỉ đơn giản có một thứ mà Formula 1 đột nhiên cần: một trường đua đẳng cấp hàng đầu, trống trải, sẵn sàng.

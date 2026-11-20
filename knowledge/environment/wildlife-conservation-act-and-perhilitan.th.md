@@ -36,7 +36,7 @@ faq:
     a: "ไม่ มาตรา 2 ยกเว้นสัตว์ป่าที่อยู่ภายใต้บัญชี II ของตารางที่เก้าแห่งรัฐธรรมนูญสหพันธ์และภายใต้พระราชบัญญัติประมง ปี 1985 อย่างชัดแจ้ง ดังนั้นสัตว์ทะเลและชนิดประมงส่วนใหญ่จึงถูกกำกับที่อื่น"
 
 lang: "th"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: สมเสร็จมลายูสีดำขาวยืนอยู่ท่ามกลางเศษใบไม้และต้นกล้าในป่ามืด
+    kind: actual
+    origin: third-party
+    subject: สมเสร็จมลายูหากินบนพื้นป่ายามค่ำคืน สัตว์คุ้มครองที่ถูกคุกคามจากการสูญเสียถิ่นอาศัย
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: นกเงือกดำขนาดใหญ่มีโหนกสีแดงส้มเชิดขึ้นเกาะอยู่บนกิ่งไม้ท่ามกลางใบไม้เขียว
+    kind: actual
+    origin: third-party
+    subject: นกเงือกหัวแรดในป่าเกาะอยู่บนเรือนยอดป่าฝนของเขตรักษาพันธุ์สัตว์ป่าตาบิน รัฐซาบาห์
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 เก็บหนังเสือโคร่งมลายูไว้ในท้ายรถของท่าน แล้วท่านไม่ได้กำลังเผชิญค่าปรับและจดหมายเตือน แต่กำลังเผชิญการติดคุกหลายปีและค่าปรับที่วัดเป็นหลายแสนริงกิต นั่นคือด้านที่คมชัดของพระราชบัญญัติการอนุรักษ์สัตว์ป่า ปี 2010 ซึ่งเป็นกฎหมายที่ตัดสินว่าสัตว์ใดในคาบสมุทรมาเลเซียที่ท่านสามารถแตะต้อง เลี้ยง ขาย หรือศึกษาได้ และสัตว์ใดที่ท่านไม่อาจเข้าใกล้ได้โดยไม่มีการอนุญาตเป็นลายลักษณ์อักษรจากรัฐ

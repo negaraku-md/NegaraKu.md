@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: ロイヤル・ブルム州立公園で、青空の下、湖の静かな水面越しに森に覆われた丘へ向かう船の舳先からの眺め
+    kind: actual
+    origin: third-party
+    subject: 船でロイヤル・ブルム州立公園の森に覆われた岸辺を巡る
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: サバ州キナバル公園で、森に覆われた山の斜面から立ち上る朝霧と、手前に1本の高い裸木
+    kind: actual
+    origin: third-party
+    subject: サバ州キナバル公園で、山地熱帯雨林の上に立ちこめる低い雲
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 誰に「マレーシアの国立公園」がどこにあるか尋ねても、皆一つの場所を指し示すだろう。しかし実際には、マレーシアには単一の国立公園というものは存在しない——完全に別個の三つの法体系が存在し、そのうちの一つは「[タマンヌガラ](/ja/tourism/taman-negara-ecotourism-guide)」という名で最もよく知られる場所すら含んでいない。この法的な地図を理解することは、旅行を計画し、調査を行い、あるいはマレーシアが樹齢1億3千万年の熱帯雨林をどのように保護しているかを理解する鍵となる。

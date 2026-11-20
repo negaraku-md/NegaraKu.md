@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: 一栋多层蓝色玻璃大学行政大楼，中央有一座弧形塔楼，位于一处景观化的山坡上，两侧列旗的梯级台阶通往楼前
+    kind: representative
+    origin: third-party
+    subject: 马来西亚规模最大的公立大学之一玛拉工艺大学（UiTM）的现代玻璃校长办公大楼
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: 一座石柱大学入口大门，挂着「Universiti Sains Malaysia」招牌，两侧是旗杆和茂密的绿植，天空阴云密布
+    kind: representative
+    origin: third-party
+    subject: 公立研究型大学马来西亚理科大学（USM）位于槟城高渊（Nibong Tebal）的主入口大门
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 两名SPM成绩相同的学生，最终会进入两个完全不同的系统。一人填写一份统一表格，

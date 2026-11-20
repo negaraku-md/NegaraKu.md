@@ -34,7 +34,7 @@ faq:
     a: "وفقاً لتقرير من Macaranga، فإن تعديلات 2023 على قانون جودة البيئة لسنة 1974 (Environmental Quality Act 1974) حددت غرامة دنيا قدرها RM5,000 وقصوى تصل إلى RM10 مليون، إلى جانب عقوبة سجن إلزامية لا تتجاوز خمس سنوات لمخالفات التلوث. أما المخالفات في إطار نظام محميات الأنهار في سيلانغور (المادة 48(1) من مرسوم LUAS لسنة 1999) فعقوبتها غرامة لا تتجاوز RM50,000 أو سجن لا يتجاوز سنتين أو كلاهما. وأرقام تعديلات قانون 1974 مستمدة من تقرير ثانوي وينبغي التحقق منها مقابل نص الجريدة الرسمية."
 
 lang: "ar"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: نهر ضيّق يجري عبر قناة خرسانية واسعة بين مبانٍ مدينية عالية وممشى مرصوف على ضفّة النهر
+    kind: actual
+    origin: third-party
+    subject: نهر كلانغ محصورًا في قناة خرسانية بين مبانٍ شاهقة في وسط كوالالمبور، يوضّح الضغط على جودة مياه الأنهار الحضرية
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: بحيرة هادئة شاسعة تعكس الشمس المنخفضة، تسندها تلال مكسوّة بالغابات تظهر كظلال عند الغسق
+    kind: actual
+    origin: third-party
+    subject: الخزّان خلف سدّ باتانغ آي في سراوق، مخزون رئيسي للمياه الخام ومصدر للطاقة الكهرومائية
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 افتح الصنبور صباح يوم اثنين فتجده جافاً — لا لأن الصنبور معطّل، بل لأن مصنعاً في أعلى المجرى صرّف نفايات كريهة الرائحة في الرافد الذي يزوّد بلدتك بالمياه الخام. هذا واقع متكرر في وادي كلانغ، وهو يفسّر لماذا لا تُعدّ «جودة النهر» مجرد قضية بيئية، بل مسألة أمن لإمداد المياه لملايين المنازل.

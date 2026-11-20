@@ -19,7 +19,7 @@ keyTakeaways:
   - "Akta Racun 1952-இன் Jadual Ketiga கீழுள்ள மனநிலை மாற்றும் (psychotropic) பொருள்கள் தனி விதிமுறைகளுக்கு உட்பட்டவை; அனுமதியற்ற குற்றங்களுக்கு RM100,000 வரை அபராதம் அல்லது ஐந்து ஆண்டுகள் சிறைத்தண்டனை வரையிலான தண்டனையுடன் (Seksyen 30)"
 appliesTo: "மலேசியாவில் அரசு அல்லது தனியார் மருந்தகத்தில் மருந்து வாங்கும், மேலும் சில மருந்துகளுக்கு ஏன் மருந்துச்சீட்டு தேவைப்படுகிறது மற்றவைக்குத் தேவையில்லை என்பதையும், அந்தச் செயல்பாட்டில் பதிவுசெய்யப்பட்ட மருந்தாளரின் பங்கையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 lang: "ta"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: மலேசியாவில் தெளிந்த வானத்தின் கீழ் வெளியே நிறுத்தப்பட்ட கார்களுடன், நீல Farmasi Sinar பலகையுடன் கூடிய ஒற்றைத்தள தனி சமூக மருந்தகம்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், க்லுவாங்கில் Farmasi Sinar, ஒரு தனி அக்கம்பக்க சமூக மருந்தகம்
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: மஞ்சள், நீல Farmasi பலகைகளுடனும் உலக மருந்தாளர் தின பதாகையுடனும், மலேசிய அரசு மருத்துவமனைக்குள் வெளிநோயாளர் மருந்தக நுழைவாயில், மக்கள் யாரும் தெரியவில்லை
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், பத்து பகாட்டில் ஒரு அரசு மருத்துவமனையான Hospital Sultanah Nora Ismail இல் வெளிநோயாளர் மருந்தக (Farmasi) நுழைவாயில்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 ஒரு வாடிக்கையாளர் மருந்தக கவுண்டரில் இருமல் மருந்து கேட்கிறார், உடனே வழங்கப்படுகிறது. மற்றொருவர் தொண்டை வலிக்கு நுண்ணுயிர்க் கொல்லி (antibiotic) கேட்கிறார், அவரிடம் முதலில் மருத்துவரின் மருந்துச்சீட்டைக் காட்டும்படி கேட்கப்படுகிறது. இந்த இரு பரிவர்த்தனைகளும் ஒரே மருந்தகத்தில், ஒரே நாளில் நடக்கின்றன — வேறுபாடு அந்த மருந்தை சட்டம் எவ்வாறு வகைப்படுத்துகிறது என்பதில் உள்ளது, மருந்தாளரின் விருப்புரிமையில் அல்ல.

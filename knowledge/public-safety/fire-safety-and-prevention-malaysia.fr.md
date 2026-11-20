@@ -32,7 +32,7 @@ faq:
     a: "Les problèmes liés à l'électricité figurent parmi les plus fréquents dans les incendies résidentiels — installations défectueuses, prises surchargées et rallonges usées. Laisser la cuisine sans surveillance et les fuites de gaz GPL sont également des causes importantes."
 
 lang: "fr"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepart
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: Le flanc d'un camion de pompiers rouge « Bomba dan Penyelamat » aux compartiments ouverts révélant des tuyaux enroulés rangés avec soin, un dévidoir, des appareils respiratoires, un groupe électrogène portable et d'autres équipements de secours
+    kind: actual
+    origin: third-party
+    subject: les coffres latéraux ouverts d'un camion de pompiers Bomba malaisien exposant son équipement de lutte contre l'incendie et de secours
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: Un fourgon de secours Bomba rouge Toyota Hiace en livrée « Bomba dan Penyelamat » avec le lettrage jaune BOMBA et l'écusson du département, garé sur l'herbe près d'arbres dans un cadre villageois rural
+    kind: actual
+    origin: third-party
+    subject: un fourgon de secours d'urgence Bomba rouge déployé dans un kampung rural à Ranau, Sabah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 Le feu ne prévient pas. En quelques minutes, une étincelle d'une prise

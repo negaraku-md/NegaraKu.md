@@ -32,7 +32,7 @@ faq:
     a: "与电力相关的问题是住宅火灾中最主要的起因之一——布线损坏、插座超负荷和延长线磨损。无人看管的烹饪活动和LPG（液化石油气）泄漏也是主要因素。"
 
 lang: "zh"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepart
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: 一辆红色「Bomba dan Penyelamat」消防车的侧面，卷帘箱格全部打开，露出整齐收纳的盘卷水带、一个水带卷盘、呼吸器、一台便携发电机和其他救援装备
+    kind: actual
+    origin: third-party
+    subject: 一辆马来西亚 Bomba（消防局）消防车敞开的侧箱格，展示其消防和救援装备
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: 一辆红色丰田海狮 Bomba（消防局）救援厢型车，采用「Bomba dan Penyelamat」涂装，带有黄色 BOMBA 字样和部门徽章，停在乡村甘榜的草地上，旁边是树木
+    kind: actual
+    origin: third-party
+    subject: 一辆红色 Bomba（消防局）紧急救援厢型车部署在沙巴兰瑙（Ranau）的乡村甘榜
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 火不会发出警告。几分钟之内，超负荷插座迸出的一点火花或无人看管的锅具就能夷平一间房子——单是2025年，[马来西亚消防及拯救局](/government/fire-and-rescue-department-bomba)（JBPM）就记录了16,111宗火灾案例，98人死亡，财产损失估计达20.9亿令吉。好消息是：几乎所有火灾都是可以预防的，无论是在您的客厅还是在工厂车间。

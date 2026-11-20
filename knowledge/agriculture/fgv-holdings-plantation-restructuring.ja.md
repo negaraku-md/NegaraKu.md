@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,23 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: アブラヤシの丘に囲まれたパーム油搾油工場の複合施設(青い建屋+蒸気を上げる煙突)——事業の加工側。人物なし
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: 工場ゲート(「Kilang Apas Balung」)で、新鮮な果房(FFB)を山積みにしたダンプトラック——収穫・物流部門。画面端にごく小さく判別不能な作業員がいるのみ
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 2012年、同社は市場の寵児だった——一時は世界第2位の規模となった大型上場である。それから13年後、同じ会社は上場時の価格のごく一部の水準で、静かにBursa Malaysiaから姿を消した。かつて自らを上場させたその同じ当局によって、買い戻されたのである。

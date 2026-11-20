@@ -34,7 +34,7 @@ faq:
     a: "L'EUDR est entré en vigueur le 29 juin 2023. Après des reports, les obligations s'appliquent à partir du 30 décembre 2026 pour les grands opérateurs et négociants, et du 30 juin 2027 pour les micro et petites entreprises."
 
 lang: "fr"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: Paysage aérien où des parcelles géométriques de palmiers à huile et des zones défrichées à nu empiètent sur la forêt vert foncé restante
+    kind: actual
+    origin: third-party
+    subject: Une vue aérienne de défrichements de palmiers à huile taillés dans la forêt tropicale de Bornéo, montrant la perte forestière liée à l'expansion des plantations
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: Collines verdoyantes ondulantes plantées de jeunes palmiers à huile s'étendant jusqu'à des crêtes lointaines sous un ciel bleu éclatant
+    kind: actual
+    origin: third-party
+    subject: Une vaste plantation de palmiers à huile couvrant des collines ondulantes dans le district de Mersing, Johor
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 La Malaisie produit environ un cinquième de l'huile de palme mondiale, et l'industrie suscite depuis longtemps les critiques des militants européens et des ONG en raison de ses liens avec la déforestation. En réponse, le pays gère désormais un dispositif de certification obligatoire et adossé à l'État, et le 5 septembre 2025 l'Union européenne a reconnu ce dispositif dans une déclaration conjointe. Voici comment fonctionne le MSPO, ce qu'il prouve et ce qu'il ne prouve pas, et où résident encore les problèmes difficiles.

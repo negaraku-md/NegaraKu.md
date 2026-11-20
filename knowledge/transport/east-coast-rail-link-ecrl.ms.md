@@ -37,7 +37,7 @@ faq:
     a: "Kedua-duanya. Ia direka sebagai landasan dwifungsi: perkhidmatan penumpang sehingga 160 km/j seiring dengan perkhidmatan barangan pada 80 km/j. Matlamat utamanya ialah bertindak sebagai jambatan darat yang membawa kargo merentasi semenanjung antara Pelabuhan Klang dengan pelabuhan pantai timur seperti Kuantan, menawarkan alternatif kepada laluan laut mengelilingi Singapura dan Selat Melaka."
 
 lang: "ms"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,23 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: Dua mulut terowong kembar 'Terowong 2 Serendah' digerudi menembusi bukit hijau, dengan sepanduk projek MRL/ECRL di atas dan landasan berbalast baharu muncul di latar depan — laluan yang sedang dibina menembusi Banjaran Titiwangsa. Foto infrastruktur dokumentari (2025).
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: Jejambat ECRL dalam pembinaan di Sungai Tua — tiang konkrit menjulang di bukit yang diteres dengan rentang galang kekotak di belakang pagar tapak. Menunjukkan peringkat jajaran bertingkat projek, berbeza daripada badan terowong dan hero set keretapi siap.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
 ---
 
 Selama beberapa dekad, cara terpantas antara Kuala Lumpur dengan negeri pantai timur bermakna perjalanan jauh menyeberangi banjaran gunung melalui jalan raya. Laluan Rel Pantai Timur ialah pertaruhan Malaysia bahawa satu landasan rel boleh mengubah keadaan itu — dan, dalam proses itu, mengimbangi semula tempat pertumbuhan negara berlaku.

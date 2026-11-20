@@ -18,7 +18,7 @@ keyTakeaways:
   - "독약법 제3부칙(Jadual Ketiga)에 따른 향정신성 물질은 별도의 규정을 적용받으며, 무허가 위반 시 최대 RM100,000의 벌금 또는 5년의 징역에 처합니다(제30조)"
 appliesTo: "말레이시아의 정부 또는 민간 약국에서 약을 구입하며, 왜 어떤 약은 처방이 필요하고 어떤 약은 필요하지 않은지, 그리고 그 과정에서 등록 약사의 역할이 무엇인지를 이해하고자 하는 모든 사람."
 lang: "ko"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: 말레이시아의 맑은 하늘 아래 파란 Farmasi Sinar 간판이 걸린 단층 독립 동네 약국, 밖에 차들이 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 조호르주 클루앙의 독립 동네 약국 Farmasi Sinar
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: 말레이시아 정부 병원 안의 외래 약국 입구. 노랑·파랑 Farmasi 간판과 세계 약사의 날 현수막이 있고 사람은 보이지 않는다
+    kind: actual
+    origin: third-party
+    subject: 조호르주 바투파핫의 정부 병원인 술타나 노라 이스마일 병원의 외래 약국(Farmasi) 입구
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 한 손님이 약국 카운터에서 기침약을 요청하고 바로 응대를 받습니다. 또 다른 손님은 인후통에 항생제를 요청하고 먼저 의사 처방전을 보여 달라는 요청을 받습니다. 두 거래는 같은 약국에서, 같은 날 일어납니다 — 차이는 약사의 재량이 아니라 그 약을 분류하는 법에 있습니다.

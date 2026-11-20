@@ -32,7 +32,7 @@ faq:
     a: "FGV ialah agroperniagaan bersepadu yang merangkumi perladangan (kelapa sawit, getah dan tenaga boleh diperbaharui), minyak dan lemak, gula, logistik dan perkhidmatan sokongan, serta produk pengguna. Menurut kenyataannya sendiri, ia menyumbang kira-kira 3% daripada pengeluaran minyak sawit mentah global."
 
 lang: "ms"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,23 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: Kompleks kilang minyak sawit (bangsal biru + cerobong berwap) di tengah bukit kelapa sawit — bahagian pemprosesan perniagaan. Tiada orang.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: Lori tipper penuh tandan buah segar (BTS) di pintu kilang ('Kilang Apas Balung') — bahagian penuaian/logistik. Hanya seorang pekerja kecil yang tidak dapat dikenali di tepi bingkai.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 Pada 2012 ia menjadi buah mulut pasaran — sebuah penyenaraian mega yang seketika menduduki tempat kedua di dunia di belakang Facebook. Tiga belas tahun kemudian syarikat yang sama menyelinap keluar dengan senyap daripada Bursa Malaysia pada sebahagian kecil harga sulungnya, dibeli semula oleh lembaga yang pernah menyenaraikannya.

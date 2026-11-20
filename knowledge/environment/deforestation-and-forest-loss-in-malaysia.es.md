@@ -34,7 +34,7 @@ faq:
     a: "La pérdida de cobertura arbórea cuenta cualquier eliminación del dosel arbóreo — incluidas la cosecha de plantaciones y los daños por incendios y tormentas —, por lo que incluye pérdidas que luego vuelven a crecer. La pérdida de bosque primario cuenta solo la tala de bosque natural maduro, con biodiversidad y carbono irremplazables, y es el mejor indicador de la pérdida ecológica permanente."
 
 lang: "es"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Vista aérea de una isla aislada de selva nativa oscura rodeada por las hileras regulares de una plantación de palma aceitera en Sabah, Borneo malasio
+    kind: actual
+    origin: third-party
+    subject: Un fragmento remanente de selva nativa rodeado de plantaciones de palma aceitera en Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: Vista aérea elevada de la selva atravesada por una red de caminos madereros pálidos y parcelas desbrozadas de color naranja en Sabah, Borneo malasio
+    kind: actual
+    origin: third-party
+    subject: Bosque cortado por caminos madereros y claros para palma aceitera en Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 Pregunte a tres fuentes creíbles cuánto de Malasia sigue siendo bosque y puede obtener tres respuestas separadas por diez puntos porcentuales — todas defendibles, todas midiendo algo ligeramente distinto. Esa brecha no es un error de redondeo; es, en miniatura, todo el debate sobre la deforestación malasia.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "60세 이상 국민에 대한 특정 요금 면제/할인 — 전문 클리닉 등록비 RM5 면제 및 3등급 요금 50% 감면으로 널리 보고됨 — 은 공식 사이트 moh.gov.my에서 직접 확인할 수 없었으므로(접근 시도 시 403 Forbidden), 그 수치는 확인된 사실로 기재하지 않고 메커니즘만 일반적으로 설명합니다."
   - "대기 시간 통계(예: 전문의 예약이나 선택적 수술의 평균 일수/시간)는 집필 시점에 확인 가능한 공식 KKM 수치를 찾을 수 없었으므로 기재하지 않으며, 대기 시간의 현실은 정성적으로만 설명합니다."
 lang: "ko"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: 나무 너머로 보이는 쿠알라룸푸르 병원의 분홍빛 모더니즘 양식 산부인과 건물, 멀리 쿠알라룸푸르 도심 고층 건물들이 있다
+    kind: actual
+    origin: third-party
+    subject: 뒤로 KLCC 스카이라인이 보이는 쿠알라룸푸르 병원의 산부인과 동(Hospital Bersalin)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Jabatan Perubatan Rehabilitasi라고 적힌 파란 말레이어 간판이 걸린 쿠알라룸푸르 병원의 단층 부서 건물, 앞에 차들이 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 병원의 재활의학과(Jabatan Perubatan Rehabilitasi) 건물
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 번호표를 손에 들었는데 앞에 80명이 넘게 남아 있고, 벽의 전광판은 여전히 한참 다른 번호를 표시하고 있습니다 — 많은 사람이 정부 병원에서 이 순간을 겪어 보았습니다. 그러나 그 전광판 옆에는 사람들이 계속 다시 찾는 이유를 보여 주는 요금표도 붙어 있습니다. 민간 클리닉에서는 수십 링깃일 수 있는 진료가 여기서는 RM1에 불과합니다. 문제는 정부 병원이 그럴 만한 가치가 있느냐가 아니라 — 그 보조금 요금이 적용되도록 실제로 어떻게 이용하는가, 그리고 누군가가 얼마나 오래 기다려야 하는지를 무엇이 결정하는가입니다.

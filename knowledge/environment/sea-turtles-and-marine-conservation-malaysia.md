@@ -105,6 +105,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: Penyu agar meluncur di atas terumbu karang dalam air biru di perairan Sipadan, Malaysia
+    kind: actual
+    origin: third-party
+    subject: Penyu agar (Chelonia mydas) berenang di atas terumbu karang di Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: Penyu agar berehat di bawah birai terumbu berbatu dikelilingi karang berwarna-warni
+    kind: actual
+    origin: third-party
+    subject: Penyu agar (Chelonia mydas) berehat di bawah birai terumbu di Barracuda Point, Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 Pada akhir 1960-an, kira-kira 2,000 penyu belimbing betina mendarat setiap tahun di sebatang pantai di Rantau Abang, Terengganu, meninggalkan hampir 10,000 sarang telur di atas pasir. Hari ini, tiada seekor pun. Kisah kemerosotan itu adalah salah satu kegagalan pemuliharaan hidupan liar yang paling ketara di rantau ini — dan ia membentuk cara Malaysia melindungi penyu sehingga kini.

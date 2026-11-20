@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: The pink modernist maternity building of Hospital Kuala Lumpur seen past trees, with Kuala Lumpur city towers in the distance
+    kind: actual
+    origin: third-party
+    subject: Maternity block (Hospital Bersalin) at Hospital Kuala Lumpur, with the KLCC skyline behind
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: A single-storey department building at Hospital Kuala Lumpur with a blue Malay signboard reading Jabatan Perubatan Rehabilitasi and cars parked in front
+    kind: actual
+    origin: third-party
+    subject: Rehabilitation Medicine Department (Jabatan Perubatan Rehabilitasi) building at Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 Queue ticket in hand, the number already more than 80 people ahead, and the

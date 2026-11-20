@@ -23,7 +23,7 @@ verificationNeeded:
   - "Cet article n'indique pas les effectifs d'admission par programme, les proportions de quotas ni des montants de frais précis pour un quelconque établissement — ceux-ci varient selon le programme et le campus et changent à chaque admission ; confirmez directement auprès de l'e-Panduan de l'UPU (pour les universités publiques) ou de l'établissement concerné (pour les universités privées) avant de postuler."
   - "Le nombre exact actuel de prestataires IPTS enregistrés n'est pas indiqué ici car les tableaux statistiques publiés par le MOHE (Statistik Pendidikan Tinggi) n'ont pas été ouverts en totalité pour cet article — pour un chiffre précis et actuel, consultez directement la publication Statistik Pendidikan Tinggi du MOHE."
 lang: "fr"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Un bâtiment administratif universitaire de plusieurs étages en verre bleu avec une tour centrale arrondie sur une colline paysagée, précédé d'escaliers en terrasses bordés de drapeaux
+    kind: representative
+    origin: third-party
+    subject: le bâtiment moderne en verre de la chancellerie de l'Universiti Teknologi MARA (UiTM), l'une des plus grandes universités publiques de Malaisie
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Un portail d'entrée universitaire à piliers de pierre portant l'enseigne « Universiti Sains Malaysia », flanqué de mâts de drapeaux et d'une végétation dense sous un ciel couvert
+    kind: representative
+    origin: third-party
+    subject: le portail d'entrée principal de l'Universiti Sains Malaysia (USM), une université publique de recherche, à Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Deux étudiantes ayant les mêmes résultats au SPM se retrouvent dans des systèmes

@@ -31,7 +31,7 @@ faq:
     a: "Các công viên biển ở Bán đảo được công báo theo Đạo luật Nghề cá 1985. Nó tạo ra một vùng bảo vệ hai hải lý từ đảo nơi các hoạt động như quấy rầy rùa làm tổ và nhặt rùa con bị cấm."
 
 lang: "vi"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: Một con rùa biển xanh lướt trên rạn san hô trong làn nước xanh ngoài khơi Sipadan, Malaysia
+    kind: actual
+    origin: third-party
+    subject: Rùa biển xanh (Chelonia mydas) bơi trên rạn san hô ở Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: Một con rùa biển xanh nghỉ ngơi dưới một gờ đá của rạn san hô, xung quanh là những rạn san hô đầy màu sắc
+    kind: actual
+    origin: third-party
+    subject: Rùa biển xanh (Chelonia mydas) nghỉ ngơi dưới một gờ rạn san hô tại Barracuda Point, Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 Vào cuối những năm 1960, khoảng 2.000 con rùa da cái lên bờ mỗi năm trên một bãi biển ở Rantau Abang, Terengganu, để lại gần 10.000 tổ trứng trên cát. Ngày nay, không còn một con nào. Câu chuyện suy giảm đó là một trong những thất bại về bảo tồn động vật hoang dã rõ rệt nhất trong khu vực — và nó định hình cách Malaysia bảo vệ rùa cho đến nay.

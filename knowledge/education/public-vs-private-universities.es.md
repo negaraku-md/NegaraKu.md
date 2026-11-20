@@ -23,7 +23,7 @@ verificationNeeded:
   - "Este artículo no indica números de admisión por programa, proporciones de cuota ni cifras de cuotas específicas para ninguna institución — estas varían según el programa y el campus y cambian en cada admisión; confirma directamente con el e-Panduan de la UPU (para las universidades públicas) o con la institución concreta (para las universidades privadas) antes de solicitar."
   - "El recuento actual exacto de proveedores IPTS registrados no se indica aquí porque las tablas estadísticas publicadas por el MOHE (Statistik Pendidikan Tinggi) no se abrieron por completo para este artículo — para una cifra precisa y actual, consulta directamente la publicación Statistik Pendidikan Tinggi del MOHE."
 lang: "es"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Ku
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Un edificio administrativo universitario de varias plantas de cristal azul con una torre central redondeada sobre una colina ajardinada, al que se accede por escaleras en terrazas flanqueadas de banderas
+    kind: representative
+    origin: third-party
+    subject: el moderno edificio de cristal del Rectorado de la Universiti Teknologi MARA (UiTM), una de las mayores universidades públicas de Malasia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Una puerta de entrada universitaria con pilares de piedra que lleva el rótulo «Universiti Sains Malaysia», flanqueada por astas de bandera y densa vegetación bajo un cielo nublado
+    kind: representative
+    origin: third-party
+    subject: la puerta principal de entrada de la Universiti Sains Malaysia (USM), una universidad pública de investigación, en Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Dos estudiantes con los mismos resultados del SPM acaban en sistemas por

@@ -27,7 +27,7 @@ verificationNeeded:
   - "The specific charge exemption/discount for citizens aged 60 and above — widely reported as an exemption from the RM5 specialist clinic registration charge and a 50% reduction on the Class 3 charge — could not be confirmed directly on the official moh.gov.my website (403 Forbidden when access was attempted), so those figures are deliberately not stated as confirmed fact; only the mechanism is described in general terms."
   - "Waiting-time statistics (for example, the average number of days/hours for a specialist appointment or elective surgery) are not stated, because no confirmable official KKM figures could be found at the time of writing; the reality of waiting times is described qualitatively only."
 lang: "es"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: El edificio modernista rosa de maternidad del Hospital Kuala Lumpur visto entre los árboles, con las torres de la ciudad de Kuala Lumpur a lo lejos
+    kind: actual
+    origin: third-party
+    subject: Bloque de maternidad (Hospital Bersalin) del Hospital Kuala Lumpur, con el perfil de KLCC de fondo
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Un edificio de departamento de una sola planta en el Hospital Kuala Lumpur con un cartel azul en malayo que reza Jabatan Perubatan Rehabilitasi y coches aparcados delante
+    kind: actual
+    origin: third-party
+    subject: Edificio del Departamento de Medicina de Rehabilitación (Jabatan Perubatan Rehabilitasi) en el Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 Con el tiquet de cola en la mano, el número ya con más de 80 personas por

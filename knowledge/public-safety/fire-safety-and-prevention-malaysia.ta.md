@@ -32,7 +32,7 @@ faq:
     a: "மின்சாரம் தொடர்பான பிரச்சினைகள் குடியிருப்புத் தீ விபத்துகளில் மிக உயர்ந்தவற்றுள் ஒன்று — சேதமடைந்த கம்பி இணைப்பு, அதிக சுமை ஏற்றப்பட்ட சொக்கெட்டுகள் மற்றும் தேய்ந்த நீட்டிப்புக் கம்பிகள். கவனிப்பின்றி விடப்பட்ட சமையல் நடவடிக்கைகள் மற்றும் LPG எரிவாயு கசிவும் முதன்மைக் காரணிகளாகும்."
 
 lang: "ta"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepart
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: நேர்த்தியாக அடுக்கிய சுருள் குழாய்கள், ஒரு குழாய்ச் சுருள், சுவாச உபகரணம், ஒரு கையடக்க ஜெனரேட்டர் மற்றும் பிற மீட்பு உபகரணங்களைக் காட்ட உருளை அறைகள் திறந்த சிவப்பு 'Bomba dan Penyelamat' தீயணைப்பு வண்டியின் பக்கம்
+    kind: actual
+    origin: third-party
+    subject: தனது தீயணைப்பு மற்றும் மீட்பு உபகரணங்களைக் காட்டும் ஒரு மலேசிய Bomba தீயணைப்பு வண்டியின் திறந்த பக்க அறைகள்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: மஞ்சள் BOMBA எழுத்துகளுடனும் துறையின் சின்னத்துடனும் 'Bomba dan Penyelamat' நிறத்தில் அமைந்த சிவப்பு Toyota Hiace Bomba மீட்பு வேன், கிராமப்புற சூழலில் மரங்களருகே புல்லில் நிறுத்தப்பட்டு
+    kind: actual
+    origin: third-party
+    subject: சபா, ரானாவில் ஒரு கிராமப்புற கம்பத்தில் நியமிக்கப்பட்ட ஒரு சிவப்பு Bomba அவசர மீட்பு வேன்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 தீ எச்சரிக்கை தராது. சில நிமிடங்களுக்குள், அதிக சுமை ஏற்றப்பட்ட சொக்கெட்டில் இருந்து வரும் ஒரு தீப்பொறி அல்லது கவனிக்கப்படாமல் விடப்பட்ட ஒரு சட்டி ஒரு வீட்டையே தரைமட்டமாக்கிவிடும் — 2025-ஆம் ஆண்டில் மட்டும், [மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை](/ta/government/fire-and-rescue-department-bomba) (JBPM) 16,111 தீ விபத்துகளையும், 98 இறப்புகளையும், RM2.09 பில்லியன் என மதிப்பிடப்பட்ட சொத்து இழப்பையும் பதிவு செய்தது. நல்ல செய்தி: உங்கள் வரவேற்பறையிலோ தொழிற்சாலைத் தளத்திலோ — ஏறக்குறைய அனைத்தும் தடுக்கக்கூடியவையே.

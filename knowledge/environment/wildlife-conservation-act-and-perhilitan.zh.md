@@ -36,7 +36,7 @@ faq:
     a: "不涵盖。第2条明文排除属于《联邦宪法》第九附表第二列以及《1985年渔业法令》管辖的野生动物，因此海洋及大多数渔业物种由其他法律管理。"
 
 lang: "zh"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: 一只黑白相间的马来貘站在幽暗森林的落叶和幼树之间
+    kind: actual
+    origin: third-party
+    subject: 一只马来貘夜间在森林地面觅食，这是一个受栖息地丧失威胁的受保护物种
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: 一只大型黑色犀鸟，顶着鲜艳的红橙色上翘盔突，栖在绿叶间的枝条上
+    kind: actual
+    origin: third-party
+    subject: 一只野生马来犀鸟栖息在沙巴丹浓谷野生动物保护区（Tabin）雨林树冠中
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 把一张马来亚虎的皮放在你的汽车后备箱里，你面对的绝不是一张罚单和一封措辞严厉的信函——你面对的是数年牢狱，以及以数十万令吉计的罚款。这就是《2010年野生动物保护法令》最锋利的一端；这部法律决定了在马来西亚半岛，哪些动物你可以触碰、饲养、买卖或研究，而哪些动物没有国家的书面许可你连靠近都不行。

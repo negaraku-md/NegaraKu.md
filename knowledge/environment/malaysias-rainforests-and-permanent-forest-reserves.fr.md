@@ -32,7 +32,7 @@ faq:
     a: "La modification rend obligatoire une enquête publique avant qu'une RFP puisse être déclassée, et relève les amendes à une fourchette de RM20,000 à RM5 millions ainsi qu'à un emprisonnement de 7 à 20 ans. Elle est entrée en vigueur dans les Territoires fédéraux le 1er février 2025."
 
 lang: "fr"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Frondes de palmiers ensoleillées et sous-bois vert dense le long d'un sentier ombragé au cœur de la forêt primaire de Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sous-bois de palmiers et litière de feuilles sur le sol de la forêt primaire de Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: Collines ondulantes couvertes d'une forêt tropicale dense s'estompant dans une brume bleutée sous un ciel couvert, vues depuis Bukit Terisek à Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Collines boisées ininterrompues de Taman Negara vues depuis Bukit Terisek
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Une parcelle de terrain boisé en Malaisie n'est pas «protégée» simplement parce qu'elle est pleine d'arbres — sa protection commence le jour où le nom du terrain paraît au Journal officiel. Sans ce classement, la même forêt peut être concédée à tout moment pour un aménagement. C'est le fondement de tout le système des Réserves forestières permanentes (RFP) de la Malaisie.

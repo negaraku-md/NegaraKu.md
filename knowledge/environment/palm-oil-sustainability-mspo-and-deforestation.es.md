@@ -34,7 +34,7 @@ faq:
     a: "El EUDR entró en vigor el 29 de junio de 2023. Tras aplazamientos, las obligaciones se aplican desde el 30 de diciembre de 2026 para los grandes operadores y comerciantes, y el 30 de junio de 2027 para las microempresas y pequeñas empresas."
 
 lang: "es"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: Paisaje aéreo donde las parcelas geométricas de palma aceitera y las zonas desbrozadas desnudas presionan contra el bosque verde oscuro que queda
+    kind: actual
+    origin: third-party
+    subject: Vista aérea de claros de palma aceitera abiertos en la selva de Borneo, que muestra la pérdida de bosque por la expansión de las plantaciones
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: Colinas verdes onduladas plantadas de palmas aceiteras jóvenes que se extienden hasta crestas lejanas bajo un cielo azul brillante
+    kind: actual
+    origin: third-party
+    subject: Una extensa plantación de palma aceitera que cubre colinas onduladas en el distrito de Mersing, Johor
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 Malasia produce aproximadamente una quinta parte del aceite de palma del mundo, y la industria lleva mucho tiempo atrayendo las críticas de activistas europeos y de ONG por sus vínculos con la deforestación. En respuesta, el país ahora gestiona un esquema de certificación obligatorio y respaldado por el estado, y el 5 de septiembre de 2025 la Unión Europea reconoció ese esquema en una declaración conjunta. Así funciona el MSPO, esto es lo que prueba y lo que no, y aquí es donde aún residen los problemas difíciles.

@@ -34,7 +34,7 @@ faq:
     a: "لا. فبينما تتجمع Monash وNottingham وXiamen وHeriot-Watt حول وادي كلانج (Klang Valley) وبوتراجايا (Putrajaya)، تُركّز EduCity Iskandar عدة أحرام في ولاية جوهور (Johor) قرب سنغافورة، وتعمل Curtin وSwinburne في ولاية ساراواك (Sarawak)."
 
 lang: "ar"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: كتل حرم جامعي بيجية كبيرة تربطها جسور علوية زجاجية، مع شعار Monash على برج ونخيل في الفناء
+    kind: representative
+    origin: third-party
+    subject: مباني فرع Monash University Malaysia تربطها جسور علوية زجاجية، مدينة سنواي، سلانغور
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: مباني حرم جامعي بيضاء بأسقف صينية الطراز حمراء متدرّجة خلف ساحة مدخل مسوّرة تحت سماء غائمة جزئيًا
+    kind: representative
+    origin: third-party
+    subject: البوّابة الرئيسية ذات السقف الأحمر وبرج الإدارة لـ Xiamen University Malaysia، أول فرع خارجي لجامعة صينية، في سيبانغ، سلانغور
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 في عام 1998، كان بإمكان طالب في كوالالمبور (Kuala Lumpur) أن ينال شهادة من جامعة Monash الأسترالية دون أن يغادر البلاد — وأن يدفع أسعاراً ماليزية مقابلها. أطلق ذلك الترتيب الواحد نموذجاً ما فتئت البلاد تبني عليه منذ ذلك الحين: استيراد الجامعة، لا الطالب.

@@ -32,7 +32,7 @@ faq:
     a: "Rapid Busは、乗客の少ない19路線——MRTフィーダー16路線と標準3路線、網全体の約7%——を、予約制のRapid KL On-Demandバン便に転換し始めました。"
 
 lang: "ja"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,23 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: 青緑色のGO KL無料電気シティバスが、歩道際の停留所・シェルター(「100% Clean Energy / Perkhidmatan Bas Percuma」)に停車——停留所のバス風景と独自の塗装・交通手段。シェルターにごく小さく判別不能な通勤客2人
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: KLセントラルに停車する単層のRapid KLバス(赤・クリーム・青の塗装)のすっきりした側面図——2階建てのヒーロー画像と電気GO KLのbody画像を補完する。顔なし
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 列車はあなたを駅まで運ぶ。だが、家まで運んでくれることはめったにない。MRTやLRTのホームから、あなたの家、あなたのオフィスパーク、あるいは二つ隣の地域にあるウェットマーケットまで——その隙間を埋めているのは、多くの乗客がほとんど意識することのない車両群である。Rapid KLバスだ。

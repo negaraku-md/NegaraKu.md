@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Ma
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: 数栋米色校园大楼由一座玻璃高架天桥相连，一座塔楼上有莫纳什（Monash）徽章，庭院里种着棕榈树
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪双威城（Sunway City）的莫纳什大学马来西亚分校（Monash University Malaysia）各栋楼由玻璃天桥相连
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: 白色校园建筑配有层叠的红色中式屋顶，坐落在一处带门的入口广场后方，天空多云
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪雪邦（Sepang）的厦门大学马来西亚分校（Xiamen University Malaysia）红顶主门和行政塔楼，这是中国大学的首座海外分校
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998年，吉隆坡的一名学生无需离开本国就能获得澳大利亚莫纳什大学的学位——而且只需支付马来西亚的价格。这一单一安排开启了一种此后不断发展的模式：引进大学，而非输出学生。

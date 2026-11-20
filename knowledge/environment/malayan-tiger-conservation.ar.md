@@ -33,7 +33,7 @@ faq:
     a: "الدوافع الرئيسية هي الصيد الجائر والاتجار غير المشروع بأجزاء النمور، وتدهور الغابات وفقدان الموائل، والدهس على الطرق والصراع بين الإنسان والنمر، وتراجع الفرائس."
 
 lang: "ar"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: نمر ملايوي يرقد في العشب تحت ضوء شمس مبقّع، يلتقط معطفه المخطّط الضوء
+    kind: actual
+    origin: third-party
+    subject: نمر ملايوي (Panthera tigris jacksoni) يرقد في ضوء شمس مبقّع وسط العشب وأوراق الشجر
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: صورة جانبية مقرّبة لرأس نمر ملايوي تُظهر خطوطه الوجهية المميّزة بالأسود والبرتقالي وشواربه
+    kind: actual
+    origin: third-party
+    subject: صورة جانبية لنمر ملايوي (Panthera tigris jacksoni) تُظهر علاماته الوجهية
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 يظهر النمر على شعار ماليزيا، لكن الحيوان نفسه بات اليوم من بين أندر القطط الكبيرة في العالم. وحين أكملت ماليزيا أول مسح وطني لها للنمور البرية، جاءت النتيجة أدنى مما توقّعه كثيرون: أقل من 150.

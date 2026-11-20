@@ -28,7 +28,7 @@ faq:
     a: "No. Sepang hosted the Formula 1 Grand Prix until 2017; the circuit now focuses on MotoGP and other motorsport events."
 
 lang: "en"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadiu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: The vast interior of the Bukit Jalil National Stadium at night, its sweeping white tensile roof lit over a full house of spectators ringing the green pitch and red running track
+    kind: actual
+    origin: third-party
+    subject: the interior bowl and tensile roof of the Bukit Jalil National Stadium packed for a match at night
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: The silver louvred facade of Axiata Arena in Bukit Jalil, carrying the Axiata arena name and logo above its curved glass entrance, flanked by young trees under a grey sky
+    kind: actual
+    origin: third-party
+    subject: the exterior of Axiata Arena, the indoor arena of the National Sports Complex in Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 When 85,500 spectators fill the three-tier curve of the TM National Stadium on a football final night, they are sitting inside the largest symbol of Malaysia's sports infrastructure — yet it is only one of several venues that carry the nation's major events.

@@ -31,7 +31,7 @@ faq:
     a: "คณะกรรมการพลังงาน (Energy Commission) เป็นหน่วยงานกำกับดูแลหลัก SEDA Malaysia ดำเนินการ NEM ขณะที่ Single Buyer (ภายใต้ TNB) ประสานงานโครงการตลาดเช่น CGPP, CRESS และ CREAM"
 
 lang: "th"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: แผงโซลาร์เซลล์ติดตั้งบนพื้นเอียงเรียงแถวยาวกระจายทั่วพื้นที่โล่ง มีป่าฝนที่เส้นขอบฟ้าใต้ท้องฟ้าขมุกขมัว
+    kind: actual
+    origin: third-party
+    subject: แถวแผงโซลาร์เซลล์ที่ติดตั้งบนพื้นที่ฟาร์มพลังงานแสงอาทิตย์ใกล้บูกิตเมราห์ มาเลเซีย
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: หลังคาโครงเหล็กมุงด้วยแผงโซลาร์เซลล์ข้างป้ายโครงการพลังงานแสงอาทิตย์ไฮบริดของรัฐบาลมาเลเซียที่โรงเรียนชนบทในรัฐซาบาห์ มีรถจอดและไก่อยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: ระบบผลิตไฟฟ้าพลังงานแสงอาทิตย์ไฮบริดในชนบทที่โรงเรียนในรัฐซาบาห์ มาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 แผงโซลาร์บนหลังคาบ้านในปัจจุบันกลายเป็นการตัดสินใจทางการเงินที่ถูกผูกไว้อย่างแน่นหนาโดยนโยบายของรัฐบาลในมาเลเซีย แต่ "หันไปใช้โซลาร์" หมายถึงสิ่งที่แตกต่างกันมากสำหรับเจ้าของบ้านในอีโปห์เทียบกับโรงงานใน Pasir Gudang หรือศูนย์ข้อมูลที่ต้องการพลังงานสีเขียว 100% ผู้ใช้แต่ละกลุ่มมีโครงการของตนเอง

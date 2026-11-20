@@ -34,7 +34,7 @@ faq:
     a: "EUDR มีผลบังคับใช้เมื่อ 29 มิถุนายน 2023 หลังจากการเลื่อน ภาระหน้าที่ใช้บังคับตั้งแต่ 30 ธันวาคม 2026 สำหรับผู้ประกอบการและผู้ค้ารายใหญ่ และ 30 มิถุนายน 2027 สำหรับวิสาหกิจขนาดย่อมและขนาดเล็ก"
 
 lang: "th"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: ภูมิทัศน์มุมสูงที่แปลงปาล์มน้ำมันทรงเรขาคณิตและพื้นที่โล่งที่ถางแล้วประชิดกับป่าสีเขียวเข้มที่เหลืออยู่
+    kind: actual
+    origin: third-party
+    subject: ภาพมุมสูงของพื้นที่โล่งปลูกปาล์มน้ำมันที่ตัดเข้าไปในป่าฝนบอร์เนียว แสดงการสูญเสียป่าจากการขยายสวน
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: เนินเขาเขียวขจีลูกคลื่นที่ปลูกปาล์มน้ำมันอ่อนทอดยาวไปยังสันเขาที่ไกลออกไปใต้ท้องฟ้าสีฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: สวนปาล์มน้ำมันกว้างใหญ่ปกคลุมเนินเขาลูกคลื่นในอำเภอเมอร์ซิง รัฐยะโฮร์
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 มาเลเซียปลูกปาล์มน้ำมันราวหนึ่งในห้าของโลก และอุตสาหกรรมนี้ถูกวิพากษ์วิจารณ์จากนักรณรงค์ในยุโรปและองค์กรพัฒนาเอกชนมานานเรื่องความเชื่อมโยงกับการตัดไม้ทำลายป่า เพื่อตอบสนอง ประเทศในปัจจุบันดำเนินระบบการรับรองภาคบังคับที่รัฐหนุนหลัง และเมื่อ 5 กันยายน 2025 สหภาพยุโรปยอมรับระบบนั้นในแถลงการณ์ร่วม นี่คือวิธีที่ MSPO ทำงาน สิ่งที่มันพิสูจน์และไม่พิสูจน์ และปัญหาที่ยากลำบากยังคงอยู่ที่ใด

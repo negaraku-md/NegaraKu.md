@@ -36,7 +36,7 @@ faq:
     a: "Không. Section 2 loại trừ một cách rõ ràng động vật hoang dã thuộc Danh mục II của Phụ lục Thứ chín của Hiến pháp Liên bang và thuộc Đạo luật Nghề cá (Fisheries Act 1985), nên các loài biển và hầu hết các loài thủy sản được điều chỉnh ở nơi khác."
 
 lang: "vi"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: Một con heo vòi Mã Lai đen trắng đứng giữa thảm lá rụng và cây non trong khu rừng tối
+    kind: actual
+    origin: third-party
+    subject: Một con heo vòi Mã Lai kiếm ăn trên nền rừng vào ban đêm, một loài được bảo vệ đang bị đe dọa bởi mất môi trường sống
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: Một con chim hồng hoàng lớn màu đen với mỏ sừng cong lên màu đỏ cam rực đậu trên cành giữa những tán lá xanh
+    kind: actual
+    origin: third-party
+    subject: Một con hồng hoàng mỏ sừng hoang dã đậu trên tán rừng mưa nhiệt đới của Khu Bảo tồn Động vật Hoang dã Tabin, Sabah
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 Giữ da một con hổ Mã Lai trong cốp xe của bạn và bạn không phải đối mặt với một khoản phạt và một lá thư nghiêm khắc — bạn đang đối mặt với nhiều năm tù và một khoản phạt được đo bằng hàng trăm nghìn ringgit. Đó là đầu sắc bén của Đạo luật Bảo tồn Động vật hoang dã 2010, luật quyết định con vật nào ở Bán đảo Malaysia mà bạn có thể chạm, nuôi giữ, bán hay nghiên cứu, và con nào bạn không được đến gần mà không có sự cho phép bằng văn bản từ nhà nước.

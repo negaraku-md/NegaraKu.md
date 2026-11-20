@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 
 status: "published"
 aiAssisted: true
@@ -130,6 +130,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: 一群紧密排布、涂着车队涂装的一级方程式赛车在起跑圈于雪邦赛道（Sepang）宽阔的起终点直道上散开，烈日下轮胎在赛道上留下深色胎痕
+    kind: actual
+    origin: third-party
+    subject: 在 2015 年马来西亚大奖赛起跑时，一级方程式车队在雪邦赛道（Sepang）上并驾齐驱飞驰而下
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: 高空航拍雪邦国际赛道（Sepang），坐落于绿色乡野之中，灰色的赛道如丝带般在中央大看台和维修区周围蜿蜒成环，上方薄雾中可见吉隆坡国际机场的跑道和航站楼
+    kind: actual
+    origin: third-party
+    subject: 雪邦国际赛道（Sepang）全貌航拍，展现其标志性的环绕赛道布局和围场，远处是吉隆坡国际机场
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 2026年10月，一级方程式赛车将时隔九年再度在雪邦奔驰——而赛道旁的标识牌上写着的是*巴林大奖赛*。马来西亚在纸面上并非主办方，无需支付牌照费，也未曾游说争取重返赛历。它只是碰巧拥有一级方程式突然急需的那样东西：一条空置、就绪、顶级的赛道。

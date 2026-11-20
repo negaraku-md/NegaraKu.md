@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus a commencé à convertir 19 lignes à faible fréquentation — 16 lignes de navette du MRT et 3 lignes standard, soit environ 7% du réseau — en un service de fourgonnette réservable Rapid KL On-Demand."
 
 lang: "fr"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,23 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: Un bus urbain électrique gratuit GO KL bleu-vert s'arrêtant à un abribus en bordure de voie (« 100% Clean Energy / Perkhidmatan Bas Percuma ») — une vue bus-à-l'arrêt et une livrée/mode distincts. Deux usagers minuscules et non identifiables à l'abribus.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: Un profil net d'un bus Rapid KL à impériale unique (livrée rouge/crème/bleu) à KL Sentral — complète le bus à deux étages (visuel principal) et le GO KL électrique (body). Aucun visage.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 Le train vous amène à une station. Il vous ramène rarement chez vous. Ce manque — du quai du MRT ou du LRT jusqu'à votre porte, votre parc d'affaires ou le marché humide à deux quartiers de là — est comblé par une flotte à laquelle la plupart des passagers ne pensent guère : les autobus de Rapid KL.

@@ -37,7 +37,7 @@ faq:
     a: "วิศวกรชาวเยอรมัน Hermann Tilke ออกแบบ สนามฟอร์มูลาวันที่สร้างเพื่อการนี้โดยเฉพาะแห่งแรกของเขา ผังกรังด์ปรีซ์ยาว 5.543 กม. มี 15 โค้ง และความกว้างสนามตั้งแต่ 16 ถึง 20 เมตร"
 
 lang: "th"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,6 +130,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: กลุ่มรถฟอร์มูลาวันในลวดลายทีมอัดแน่นกระจายข้ามพื้นแอสฟัลต์กว้างของทางตรงออกสตาร์ต-เส้นชัยเซปังในรอบแรก ยางของรถทิ้งรอยดำบนลู่ภายใต้แสงแดดจ้า
+    kind: actual
+    origin: third-party
+    subject: ขบวนรถฟอร์มูลาวันแข่งเคียงบ่าเคียงไหล่ลงทางตรงสนามเซปังในช่วงออกสตาร์ตของมาเลเซียกรังด์ปรีซ์ปี 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: ภาพมุมสูงของสนามแข่งนานาชาติเซปังที่ตั้งอยู่ในชนบทเขียวขจี ลู่สีเทาคดเคี้ยวเป็นวงรอบอัฒจันทร์กลางและอาคารพิต มีรันเวย์และอาคารผู้โดยสารของ KLIA ปรากฏในระยะไกลขมุกขมัวด้านบน
+    kind: actual
+    origin: third-party
+    subject: ภาพมุมสูงของสนามแข่งนานาชาติเซปังทั้งหมด แสดงผังลู่แข่งที่คดเคี้ยวเป็นเอกลักษณ์และแพดด็อก พร้อมท่าอากาศยานนานาชาติกัวลาลัมเปอร์อยู่ไกลออกไป
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 ในเดือนตุลาคม 2026 รถฟอร์มูลาวันจะวิ่งที่เซปังเป็นครั้งแรกในรอบเก้าปี และป้ายข้างสนามจะเขียนว่า *กรังด์ปรีซ์บาห์เรน* มาเลเซียไม่ใช่เจ้าภาพบนกระดาษ จะไม่จ่ายค่าธรรมเนียมใบอนุญาต และไม่ได้วิ่งเต้นเพื่อกลับเข้าปฏิทิน มันเพียงมีสิ่งเดียวที่ฟอร์มูลาวันต้องการทันที นั่นคือสนามระดับชั้นนำที่ว่างและพร้อม

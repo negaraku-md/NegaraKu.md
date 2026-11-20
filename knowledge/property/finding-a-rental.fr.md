@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne à la recherche d'un logement en location en Malaisie, qu'elle loue pour la première fois sur place ou organise une location depuis l'étranger."
 
 lang: "fr"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: Deux grands immeubles d'habitation crème et bordeaux avec des rangées de balcons et des climatiseurs dans la banlieue de George Town, Penang, leurs étages inférieurs masqués par des arbres
+    kind: representative
+    origin: third-party
+    subject: immeubles résidentiels de milieu de gamme en banlieue de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: Un ensemble de hautes tours de copropriété modernes aux balcons étagés à Kuala Lumpur, vues depuis la rue sous un ciel couvert et pâle
+    kind: representative
+    origin: third-party
+    subject: tours de copropriété modernes (Orion Condominium et Sky Residences) à Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 Vous trouvez une annonce qui vous plaît sur un portail, vous écrivez au numéro qui y figure, et quelqu'un se présente pour ouvrir le logement. Rien dans cet échange ne vous dit si la personne qui vous remet les clés est seulement autorisée, en droit, à le faire contre rémunération — et presque personne ne pose la question.

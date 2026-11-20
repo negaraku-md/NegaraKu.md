@@ -29,7 +29,7 @@ faq:
     a: "共计724亿令吉，包括320亿令吉股息、268亿令吉税款和131亿令吉现金支付，另加向国家信托基金贡献5亿令吉。"
 
 lang: "zh"
-sourceContentHash: "e12c19b490e99672"
+sourceContentHash: "d81a777a6a7ec6c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Petronas Twin Towers rising over the Kuala Lumpur city skyline at dusk'
+images:
+  - role: scene
+    src: /media/energy/petronas/body-1.webp
+    alt: 一座国油（Petronas）加油站，碧绿色的前场顶棚和加油机旁立着高大的价目牌，列着 Primax 97、Primax 95 和 Dynamic Diesel，四周环绕着油棕树
+    kind: actual
+    origin: third-party
+    subject: 马来西亚一座国油（Petronas）品牌加油站，带有前场顶棚和燃油价目牌
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/energy/petronas/body-2.webp
+    alt: 一座红白相间的钢制火炬塔在多云的蓝天下喷出明亮的橙色气焰，位于沙巴油气终端
+    kind: actual
+    origin: third-party
+    subject: 位于金马尼士（Kimanis）的沙巴油气终端，塔顶燃烧的天然气火炬
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
 ---
 
 一家公司托管着马来西亚的石油资源，监管着开采这些资源的上游产业，并将所得收益的相当大一部分回馈给全资拥有它的政府。

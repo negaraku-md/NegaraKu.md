@@ -31,7 +31,7 @@ faq:
     a: "Les parcs marins péninsulaires sont publiés au Journal officiel au titre de la Loi sur la pêche de 1985. Celle-ci établit une zone de protection de deux milles nautiques autour de l'île où des activités telles que déranger les tortues qui nichent et collecter les nouveau-nés sont interdites."
 
 lang: "fr"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: Une tortue verte glissant au-dessus d'un récif corallien dans les eaux bleues au large de Sipadan, en Malaisie
+    kind: actual
+    origin: third-party
+    subject: Tortue verte (Chelonia mydas) nageant au-dessus d'un récif corallien à Sipadan, Sabah, Malaisie
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: Une tortue verte au repos sous une corniche rocheuse du récif, entourée de coraux colorés
+    kind: actual
+    origin: third-party
+    subject: Tortue verte (Chelonia mydas) au repos sous une corniche du récif à Barracuda Point, Sipadan, Sabah, Malaisie
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 À la fin des années 1960, environ 2,000 tortues luth femelles venaient chaque année à terre sur une seule portion de plage de Rantau Abang, Terengganu, laissant près de 10,000 nids d'œufs dans le sable. Aujourd'hui, il n'en reste pas une seule. Cette histoire de déclin est l'un des échecs de conservation de la faune sauvage les plus frappants de la région — et elle a façonné la manière dont la Malaisie protège les tortues marines jusqu'à ce jour.

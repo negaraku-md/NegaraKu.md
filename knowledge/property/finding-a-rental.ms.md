@@ -24,7 +24,7 @@ appliesTo: "Sesiapa sahaja yang sedang mencari rumah sewa di Malaysia, sama ada 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: Dua blok pangsapuri kediaman krim dan merah marun besar dengan barisan balkoni dan unit penghawa dingin di pinggir George Town, Pulau Pinang, tingkat bawahnya dilindungi pokok
+    kind: representative
+    origin: third-party
+    subject: blok pangsapuri kediaman pasaran sederhana di pinggir George Town, Pulau Pinang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: Sekelompok menara kondominium moden tinggi dengan balkoni bertingkat di Kuala Lumpur, dilihat dari aras jalan berlatarkan langit mendung pucat
+    kind: representative
+    origin: third-party
+    subject: menara kondominium tinggi moden (Orion Condominium dan Sky Residences) di Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 Anda menemui satu penyenaraian yang anda suka di sebuah portal, menghantar mesej ke nombor yang tertera, dan seseorang muncul untuk membuka kunci unit itu. Tiada apa-apa dalam pertukaran itu memberitahu anda sama ada orang yang menyerahkan kunci kepada anda dibenarkan secara sah untuk melakukan ini demi bayaran langsung — dan hampir tiada siapa bertanya.

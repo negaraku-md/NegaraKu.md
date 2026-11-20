@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "th"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: อาคารโรงเรียนนานาชาติหลายชั้นมีด้านหน้าโค้งกระจกและหินสีแดงและเทา มีรถยนต์และมอเตอร์ไซค์จอดอยู่ด้านหน้า
+    kind: representative
+    origin: third-party
+    subject: อาคารหลักทันสมัยทรงโค้งของ HELP International School โรงเรียนนานาชาติในซูบังเบสตารี รัฐสลังงอร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: หลังคาทางเข้าโรงเรียนและป้อมยามเหล็กและกระจกทันสมัยสะอาดตาข้างทางข้าม กรอบด้วยต้นไม้ใต้ท้องฟ้าสดใส
+    kind: representative
+    origin: third-party
+    subject: ทางเข้าแบบขับรถผ่านมีหลังคาของ International School of Kuala Lumpur วิทยาเขตอัมปังฮิลีร์
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 โรงเรียนหลักสูตรอังกฤษและโรงเรียนหลักสูตรอเมริกันที่อยู่คนละฝั่งของเมืองเดียวกัน บนกระดาษแล้วได้รับใบอนุญาตจากสำนักงานเดียวกันในปุตราจายา ทั้งสองแห่งไม่ได้รับอนุญาตทางกฎหมายให้เก็บ "กองทุนก่อสร้าง" จากผู้ปกครอง ทั้งสองแห่งไม่อาจขึ้นค่าธรรมเนียมเกิน 30% ในคราวเดียว และทั้งสองแห่งไม่ถูกกำหนดให้เผยแพร่ตัวเลขใด ๆ ที่กระทรวงเป็นผู้กำหนด — เพราะแม้จะมีกฎเกณฑ์มากมายที่กระทรวงเขียนไว้ ราคาที่นั่งจริงกลับไม่ใช่หนึ่งในนั้น

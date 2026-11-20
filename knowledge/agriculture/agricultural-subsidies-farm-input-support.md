@@ -110,6 +110,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-0
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: Operator memandu jentuai kombin kuning merentasi sawah padi berlumpur bertunggul pada waktu senja dengan pokok palma di garis langit
+    kind: actual
+    origin: third-party
+    subject: jentuai kombin menuai padi di sawah berlumpur pada waktu senja di Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: Wanita bertudung memotong tangkai padi keemasan dengan bilah kecil dan mengumpulnya ke dalam bakul anyaman kuning
+    kind: actual
+    origin: third-party
+    subject: wanita Dusun menuai tangkai padi masak dengan tangan ke dalam bakul anyaman di Daerah Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 Seguni baja yang dijunjung pesawah ke sawahnya pagi itu tidak dibeli dengan wangnya sendiri — ia datang tanpa bayaran, ditanggung Kerajaan Persekutuan selama berdekad-dekad. Inilah wajah sebenar subsidi pertanian Malaysia untuk padi: bukan cek atau wang masuk akaun, tetapi baja, racun dan insentif yang menampung sebahagian besar kos di ladang.

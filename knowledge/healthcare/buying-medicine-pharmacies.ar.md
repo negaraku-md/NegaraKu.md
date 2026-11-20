@@ -19,7 +19,7 @@ keyTakeaways:
   - "تخضع المؤثرات العقلية بموجب الجدول الثالث من Poisons Act 1952 للوائح منفصلة، بعقوبات تصل إلى RM100,000 أو السجن خمس سنوات للمخالفات غير المرخَّص بها (المادة 30)"
 appliesTo: "كل من يشتري دواءً في صيدلية حكومية أو خاصة في ماليزيا ويريد أن يفهم لماذا تتطلّب بعض الأدوية وصفة طبية بينما لا تتطلّبها غيرها، ودور الصيدلي المسجَّل في تلك العملية."
 lang: "ar"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_build
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: صيدلية مجتمعية مستقلّة من طابق واحد بلافتة زرقاء Farmasi Sinar، وسيارات متوقّفة بالخارج تحت سماء صافية في ماليزيا
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar، صيدلية مجتمعية حيّ مستقلّة في كلوانغ، جوهور
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: مدخل صيدلية العيادات الخارجية داخل مستشفى حكومي ماليزي، بلافتات Farmasi صفراء وزرقاء ولافتة اليوم العالمي للصيادلة، بلا أشخاص ظاهرين
+    kind: actual
+    origin: third-party
+    subject: مدخل صيدلية العيادات الخارجية (Farmasi) في Hospital Sultanah Nora Ismail، مستشفى حكومي في باتو باهات، جوهور
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 يطلب أحد الزبائن دواءً للسعال عند طاولة الصيدلية فيُخدَم على الفور. ويطلب آخر مضاداً حيوياً لالتهاب الحلق فيُطلب منه أولاً إبراز وصفة طبية من طبيب. تحدث المعاملتان في الصيدلية نفسها وفي اليوم نفسه — والفارق يكمن في كيفية تصنيف القانون للدواء، لا في تقدير الصيدلي.

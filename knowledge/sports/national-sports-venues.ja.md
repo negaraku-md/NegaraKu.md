@@ -28,7 +28,7 @@ faq:
     a: "いいえ。セパンは2017年までフォーミュラ1グランプリを開催していました。現在このサーキットはMotoGPやその他のモータースポーツの催しに重点を置いています。"
 
 lang: "ja"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadiu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: 夜のブキッ・ジャリル国立競技場の広大な内部。緑のピッチと赤い走路を囲む満員の観客の上に、白い張力膜の屋根が照らされて広がる
+    kind: actual
+    origin: third-party
+    subject: 夜の試合で満員になった、ブキッ・ジャリル国立競技場の内部スタンドと張力膜の屋根
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: ブキッ・ジャリルにあるアクシアタ・アリーナの銀色のルーバー状ファサード。湾曲したガラスの入口の上にアクシアタ・アリーナの名称とロゴ、灰色の空の下、若木が両脇に並ぶ
+    kind: actual
+    origin: third-party
+    subject: ブキッ・ジャリルの国立スポーツ複合施設の屋内アリーナ、アクシアタ・アリーナの外観
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 85,500人の観客がサッカー決勝の夜にTMブキ・ジャリル国立競技場の三層構造の湾曲したスタンドを埋め尽くすとき、彼らはマレーシアのスポーツインフラの最も壮大な象徴の中に座っている——だがそれは、国家の主要な催しを支えるいくつかの施設のひとつにすぎない。

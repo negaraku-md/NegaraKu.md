@@ -34,7 +34,7 @@ faq:
     a: "EUDR 29 जून 2023 को प्रभाव में आया। स्थगनों के बाद, दायित्व बड़े संचालकों और व्यापारियों के लिए 30 दिसंबर 2026 से और सूक्ष्म एवं लघु उद्यमों के लिए 30 जून 2027 से लागू होते हैं।"
 
 lang: "hi"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: एक हवाई परिदृश्य जहाँ ज्यामितीय ताड़ के खंड और नंगे साफ़ किए गए हिस्से बचे हुए गहरे हरे जंगल से सटे हुए हैं
+    kind: actual
+    origin: third-party
+    subject: Borneo वर्षावन में कटे ताड़ के साफ़ किए गए हिस्सों का हवाई दृश्य, जो बागान विस्तार से वन हानि दर्शाता है
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: चमकीले नीले आकाश के नीचे दूर की चोटियों तक फैलीं युवा ताड़ से लगी लहरदार हरी पहाड़ियाँ
+    kind: actual
+    origin: third-party
+    subject: Mersing District, Johor में लहरदार पहाड़ियों को ढकता एक विशाल ताड़ का बागान
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 मलेशिया दुनिया के लगभग पाँचवें हिस्से का पाम तेल उगाता है, और इस उद्योग को वनों की कटाई से इसके संबंधों को लेकर यूरोपीय तथा गैर-सरकारी संगठन (NGO) अभियानकर्ताओं की लंबे समय से आलोचना झेलनी पड़ी है। इसके जवाब में, देश अब एक अनिवार्य, राज्य-समर्थित प्रमाणन योजना चलाता है, और 5 सितंबर 2025 को यूरोपीय संघ ने एक संयुक्त वक्तव्य में उस योजना को मान्यता दी। यह बताता है कि MSPO कैसे काम करता है, यह क्या साबित करता है और क्या नहीं, तथा कठिन समस्याएँ अब भी कहाँ हैं।

@@ -39,7 +39,7 @@ obligations: []
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: 赤と灰色の丸みを帯びたガラスと石のファサードを持つ多層階のインターナショナルスクール校舎。前に車とバイクが駐車
+    kind: representative
+    origin: third-party
+    subject: スランゴール州スバン・ベスタリにあるインターナショナルスクール、HELPインターナショナルスクールの湾曲した近代的な本館
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: 横断歩道のそばに建つ、清潔で近代的な鋼とガラスの学校入口キャノピーと守衛所。明るい空の下、木々に縁取られる
+    kind: representative
+    origin: third-party
+    subject: クアラルンプール・インターナショナルスクールのアンパン・ヒリル校の屋根付き車寄せ入口
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 イギリス式カリキュラムの学校とアメリカ式カリキュラムの学校が、同じ町の反対側に位置していたとしても、書類上はプトラジャヤにある同じ部局からライセンスを受けている。どちらの学校も法律上、保護者に「建築基金」を請求することは認められていない。どちらの学校も一度に30%を超える学費の値上げはできない。そして、どちらの学校も教育省自身が設定する数字を公表する義務を負ってはいない——教育省が定める数々の規則の中に、学籍の実際の価格そのものは含まれていないからである。

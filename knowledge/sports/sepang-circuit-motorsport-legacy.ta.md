@@ -37,7 +37,7 @@ faq:
     a: "ஜெர்மன் பொறியாளர் Hermann Tilke இதை வடிவமைத்தார் — அவரது முதல் நோக்கத்திற்காக கட்டப்பட்ட Formula 1 சுற்றுப்பாதை. Grand Prix அமைப்பு 5.543 கிமீ நீளம், 15 திருப்பங்கள், தட அகலம் 16 முதல் 20 மீட்டர் வரை உள்ளது."
 
 lang: "ta"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,6 +130,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: முதல் சுற்றில் செபாங்கின் தொடக்க-முடிவுப் பகுதியின் அகன்ற தார்ச்சாலை முழுவதும் விரிந்து செல்லும் அணி நிறங்களில் அமைந்த ஃபார்முலா ஒன் கார்களின் நெருக்கமான கூட்டம், பிரகாசமான சூரியனின் கீழ் அவற்றின் டயர்கள் பாதையில் கரும் தடங்களை விட்டுச்செல்கின்றன
+    kind: actual
+    origin: third-party
+    subject: 2015 மலேசிய கிராண்ட் பிரிக்ஸின் தொடக்கத்தில் செபாங் சுற்றுப்பாதையில் சக்கரத்துக்குச் சக்கரம் பந்தயமிடும் ஃபார்முலா ஒன் களம்
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: பச்சைக் கிராமப்புறத்தில் அமைந்த செபாங் சர்வதேச சுற்றுப்பாதையின் உயரமான வான்வழித் தோற்றம், அதன் சாம்பல் நிறப் பாதை மைய மேடையையும் பிட் வளாகத்தையும் சுற்றி வளைந்து செல்ல, மேலே மங்கலான தொலைவில் KLIA இன் ஓடுபாதைகளும் முனையங்களும் தெரிய
+    kind: actual
+    origin: third-party
+    subject: KLIA க்கு அப்பால், அதன் தனித்துவமான வளைந்த பாதை அமைப்பையும் பேடாக்கையும் காட்டும் முழு செபாங் சர்வதேச சுற்றுப்பாதையின் வான்வழித் தோற்றம்
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 அக்டோபர் 2026-இல், ஒன்பது ஆண்டுகளுக்குப் பிறகு முதல் முறையாக Formula 1 கார்கள் சேபாங்கில் ஓடும் — மேலும் தடத்தோர விளம்பரப் பலகைகளில் *Bahrain Grand Prix* என்று எழுதப்பட்டிருக்கும். காகிதத்தில் மலேசியா நடத்துநர் அல்ல, உரிமக் கட்டணத்தைச் செலுத்தாது, அட்டவணைக்குத் திரும்ப வர வலியுறுத்தி லாபி செய்யவும் இல்லை. Formula 1-க்கு திடீரென்று தேவைப்பட்ட ஒரே ஒரு விஷயம் மலேசியாவிடம் இருந்தது: காலியான, தயார்நிலையில் உள்ள, உயர்தர சுற்றுப்பாதை.

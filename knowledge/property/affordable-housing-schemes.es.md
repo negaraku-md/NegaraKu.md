@@ -32,7 +32,7 @@ faq:
     a: "Una moratoria es un período durante el cual tienes prohibido revender la vivienda sin aprobación. Residensi Wilayah impone una moratoria de 10 años y Rumah Selangorku una de 5 años, para evitar la especulación y asegurar que las viviendas sigan disponibles para el grupo destinatario."
 
 lang: "es"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_L
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: Una larga hilera de torres de vivienda pública de color crema y tejado rojo en Bukit Jalil, cada unidad con su letra, con coches aparcados a lo largo de la calle de la urbanización y vegetación y un perfil urbano a lo lejos
+    kind: actual
+    origin: third-party
+    subject: una hilera de bloques de pisos del Programa de Vivienda Popular (PPR) con aparcamiento de residentes en Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: Un único bloque de apartamentos de vivienda pública mostaza y blanco en Kota Damansara visto desde abajo contra un cielo nublado, con sus muchas unidades idénticas provistas de rejas en las ventanas y aparatos de aire acondicionado, enmarcado por la rama de un árbol
+    kind: actual
+    origin: third-party
+    subject: un bloque de vivienda pública PPR (Gugusan Kemuning) en Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 Tu salario es de RM4,000 al mes y el precio de una casa adosada en la ciudad ya ha llegado a medio millón de ringgit — ¿por dónde deberías siquiera empezar a buscar? La respuesta no es un único programa, sino un menú de programas gubernamentales, cada uno dirigido a un tramo de ingresos distinto. Elegir el equivocado significa desperdiciar meses esperando un sorteo de una vivienda para la que nunca fuiste elegible desde el principio.

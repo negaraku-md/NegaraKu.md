@@ -36,7 +36,7 @@ faq:
     a: "아닙니다. 제2조는 연방헌법 제9부칙 목록 II와 어업법 1985(Fisheries Act 1985)에 속하는 야생동물을 명시적으로 제외하므로, 해양 및 대부분의 어업 종은 다른 곳에서 규율됩니다."
 
 lang: "ko"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tig
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: 어두운 숲의 낙엽과 어린나무 사이에 서 있는 검정·흰색 말레이맥
+    kind: actual
+    origin: third-party
+    subject: 밤에 숲 바닥에서 먹이를 찾는 말레이맥으로, 서식지 손실로 위협받는 보호종
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: 초록 잎사귀 사이 나뭇가지에 앉은, 선명한 빨강·주황빛 위로 솟은 투구를 지닌 큰 검은 코뿔새
+    kind: actual
+    origin: third-party
+    subject: 사바주 타빈 야생동물 보호구역의 우림 수관부에 앉은 야생 코뿔새(Rhinoceros hornbill)
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 말레이호랑이의 가죽을 차 트렁크에 보관하고 있다면, 벌금과 엄중한 경고 편지 정도를 마주하는 것이 아닙니다 — 수년의 징역과 수십만 링깃 단위의 벌금을 마주하게 됩니다. 그것이 야생동물보전법 2010의 날카로운 끝입니다. 이 법은 반도 말레이시아에서 어떤 동물을 만지고, 기르고, 팔고, 연구할 수 있는지, 그리고 어떤 동물은 국가의 서면 허가 없이는 가까이 가서도 안 되는지를 결정합니다.

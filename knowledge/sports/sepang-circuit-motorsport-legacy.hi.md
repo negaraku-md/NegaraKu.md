@@ -37,7 +37,7 @@ faq:
     a: "जर्मन इंजीनियर हरमन टिल्के ने इसे डिज़ाइन किया — उनका पहला विशेष रूप से निर्मित फॉर्मूला 1 सर्किट। ग्रैंड प्रिक्स लेआउट 5.543 किमी लंबा है जिसमें 15 मोड़ और 16 से 20 मीटर तक की ट्रैक चौड़ाई है।"
 
 lang: "hi"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,6 +135,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circui
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: शुरुआती लैप पर Sepang की चौड़ी स्टार्ट-फ़िनिश स्ट्रेच पर फैलीं टीम लिवरी में फ़ॉर्मूला वन कारों का एक सघन झुंड, चमकीली धूप में उनके टायर ट्रैक पर गहरे निशान छोड़ते हुए
+    kind: actual
+    origin: third-party
+    subject: 2015 Malaysian Grand Prix की शुरुआत में Sepang सर्किट पर कंधे-से-कंधा दौड़ता फ़ॉर्मूला वन क्षेत्र
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: हरे ग्रामीण इलाक़े में बसे Sepang International Circuit का एक ऊँचा हवाई दृश्य, उसका धूसर ट्रैक केंद्रीय ग्रैंडस्टैंड और पिट परिसर के चारों ओर लहरदार लूपों में घूमता हुआ, ऊपर धुंधली दूरी में KLIA के रनवे और टर्मिनल दिखते हुए
+    kind: actual
+    origin: third-party
+    subject: पूरे Sepang International Circuit का एक हवाई दृश्य, जिसमें उसका विशिष्ट लूप-युक्त ट्रैक लेआउट और पैडॉक दिखता है, पीछे Kuala Lumpur International Airport
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 अक्टूबर 2026 में, फॉर्मूला 1 कारें नौ वर्षों में पहली बार सेपांग में दौड़ेंगी — और ट्रैक के किनारे के साइनबोर्ड पर लिखा होगा *बहरीन ग्रैंड प्रिक्स*। मलेशिया काग़ज़ पर मेज़बान नहीं है, लाइसेंस शुल्क नहीं चुकाएगा, और उसने कैलेंडर पर वापस आने के लिए पैरवी नहीं की। उसके पास बस वह एक चीज़ थी जिसकी फॉर्मूला 1 को अचानक ज़रूरत पड़ी: एक खाली, तैयार, शीर्ष-श्रेणी का सर्किट।

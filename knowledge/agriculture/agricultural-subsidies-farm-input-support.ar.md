@@ -34,7 +34,7 @@ faq:
     a: "وزارة الزراعة والأمن الغذائي (KPKM)، عبر قسم تطوير صناعة الأرز، مع وكالات تنفيذية مثل هيئة منظمات المزارعين (LPP) وMADA وKADA في مناطق أهراء كلٍّ منها."
 
 lang: "ar"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-0
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: مشغّل يقود حصّادة دمج صفراء عبر حقل أرز مبلّل تغطيه بقايا السيقان عند الغسق، مع أشجار نخيل على الأفق
+    kind: actual
+    origin: third-party
+    subject: حصّادة دمج تحصد الأرز في حقل أرز موحل عند الغسق في لنكاوي، قدح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: امرأة ترتدي غطاء رأس تقطع سنابل أرز ذهبية بشفرة صغيرة وتجمعها في سلة صفراء مجدولة
+    kind: actual
+    origin: third-party
+    subject: امرأة من شعب الدوسون تحصد سنابل الأرز الناضجة يدويًا في سلة مجدولة بمنطقة كوداط، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 كيس السماد الذي يحمله مزارع الأرز على كتفه إلى الحقل ذلك الصباح لم يُشترَ بماله الخاص — بل جاء مجانًا، تتحمله الحكومة الاتحادية منذ عقود. هذا هو الوجه الحقيقي للدعم الزراعي الماليزي للأرز: ليس شيكًا ولا مالًا يُودَع في حساب، بل أسمدة ومبيدات وحوافز تغطي حصة كبيرة من التكلفة في المزرعة.
