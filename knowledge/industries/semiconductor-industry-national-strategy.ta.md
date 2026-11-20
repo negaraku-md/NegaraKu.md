@@ -91,6 +91,14 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
 ---
 
 பூமியில் உள்ள கிட்டத்தட்ட ஒவ்வொரு தொலைபேசி, மடிக்கணினி மற்றும் காரிலும் மலேசியாவில் தன் வாழ்நாளின் ஒரு பகுதியைக் கழித்த ஒரு சிப் உள்ளது — Penang அல்லது Klang Valley-இல் உள்ள ஒரு தொழிற்சாலையில் பேக்கேஜ் செய்யப்பட்டு, சோதிக்கப்பட்டு, அனுப்பப்பட்டது. ஆயினும் ஐம்பது ஆண்டுகளாக இந்நாடு அந்த வேலையின் மிகக் குறைந்த கவர்ச்சிகரமான, மிகக் குறைந்த லாப வரம்பு கொண்ட பகுதியையே செய்து வந்தது: பின்-முனை (back end). National Semiconductor Strategy என்பது சிப்பின் எந்தப் பகுதியைத் தான் சொந்தமாக்குகிறது என்பதை மாற்றுவதற்கான மலேசியாவின் முயற்சி.

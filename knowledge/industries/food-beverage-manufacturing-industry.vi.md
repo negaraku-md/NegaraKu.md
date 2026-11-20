@@ -99,6 +99,14 @@ keywords:
   - Đạo luật Thực phẩm 1983
   - ưu đãi thực phẩm MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 Gần như mọi người ở Malaysia chạm vào ngành này vài lần mỗi ngày — một cốc Milo bữa sáng, một gói mì ăn liền bữa trưa, một chai nước khoáng buổi chiều, một thanh sô cô la làm từ ca cao nghiền ở Johor. Chế tạo thực phẩm và đồ uống (F&B) là một trong những ngành lớn lặng lẽ nhất của đất nước: kém hào nhoáng hơn bán dẫn, nhưng được dệt sâu vào đời sống hàng ngày, an ninh lương thực quốc gia và một câu chuyện xuất khẩu đang tăng trưởng được dựng quanh một ý tưởng đầy sức mạnh — halal.

@@ -99,6 +99,14 @@ keywords:
   - Food Act 1983
   - MIDA food incentives
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 マレーシアでは、ほとんど誰もが一日に何度もこの産業に触れている――朝食のMiloの一杯、昼食のインスタント麺の一袋、午後のミネラルウォーターの一本、ジョホールで磨砕されたカカオから作られた板チョコ。食品・飲料（F&B）製造は、同国の最も静かな大産業の一つだ。半導体ほど華やかではないが、日常生活、国家の食料安全保障、そして一つの強力な理念――ハラル――を軸に築かれた成長中の輸出物語に、深く織り込まれている。

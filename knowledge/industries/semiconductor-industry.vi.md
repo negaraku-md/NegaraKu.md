@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 Nếu bạn đang đọc bài này trên điện thoại hoặc máy tính xách tay, có khả năng thật sự rằng một trong những con chip của thiết bị đó đã trải qua một phần vòng đời của nó tại Malaysia — không phải được phát minh hay in ra, mà được biến từ một lát silicon trần thành một linh kiện hoàn chỉnh, đã đóng gói, sẵn sàng để hàn lên bảng mạch. Bước đi lặng lẽ, không hào nhoáng đó chính là nơi Malaysia đã xây dựng một trong những vị thế quan trọng nhất trong toàn bộ thế giới điện tử.

@@ -98,6 +98,14 @@ keywords:
   - offshore support vessels
   - National OGSE Blueprint
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 マレーシアの石油・ガスの富を思い浮かべるとき、人々はたいてい、トレンガヌ、サラワク、サバの沖合の海底の下の原油とガス――PETRONASをアジア最大級のエネルギー企業にした埋蔵量――を思う。だが炭化水素は自ら地中から持ち上がってはこない。生産するすべての油田の背後には、小さな請負業者の一軍が控えている。鉄のプラットフォームを溶接するヤード、坑井を掘るリグ、乗員と貨物を沖合へ運ぶ船、施設を設計する技術者、そしてすべてを動かし続ける技術者たちだ。そのエコシステムが**石油・ガスサービス・装置（OGSE）産業**であり、それ自体でマレーシアの主要な産業である。

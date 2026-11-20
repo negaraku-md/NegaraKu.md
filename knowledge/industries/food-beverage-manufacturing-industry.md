@@ -98,6 +98,14 @@ keywords:
   - Food Act 1983
   - MIDA food incentives
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 Almost everyone in Malaysia touches this industry several times a day — a cup of Milo at breakfast, a packet of instant noodles at lunch, a bottle of mineral water in the afternoon, a bar of chocolate made from cocoa ground in Johor. Food & beverage (F&B) manufacturing is one of the country's quietest big industries: less glamorous than semiconductors, but deeply woven into daily life, national food security and a growing export story built around one powerful idea — halal.

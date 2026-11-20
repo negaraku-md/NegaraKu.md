@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 น้อยคนจะตระหนักว่าเมื่อเจ้าของบ้านหรือการไฟฟ้าในอเมริกาติดตั้งแผงโซลาร์ แผงเหล่านั้นอาจผลิตในมาเลเซีย เป็นเวลากว่าทศวรรษที่ประเทศนี้เป็นหนึ่งในผู้ผลิตเซลล์และโมดูลโฟโตโวลตาอิก (PV) สำหรับพลังงานแสงอาทิตย์รายใหญ่ที่สุดของโลกอย่างเงียบ ๆ — ไม่ใช่เพื่อป้อนไฟฟ้าให้โครงข่ายของตนเอง แต่เพื่อการส่งออก นี่คืออุตสาหกรรมของโรงงาน ไม่ใช่ feed-in tariff

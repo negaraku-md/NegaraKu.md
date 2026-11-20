@@ -98,6 +98,14 @@ keywords:
   - kapal pendukung lepas pantai
   - National OGSE Blueprint
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 Ketika orang membayangkan kekayaan minyak dan gas Malaysia, mereka biasanya memikirkan minyak mentah dan gas di bawah dasar laut lepas pantai Terengganu, Sarawak, dan Sabah — cadangan yang menjadikan PETRONAS salah satu perusahaan energi terbesar di Asia. Tetapi hidrokarbon tidak mengangkat dirinya sendiri dari dalam tanah. Di balik setiap ladang produksi berdiri satu pasukan kecil kontraktor: galangan yang mengelas platform baja, rig yang mengebor sumur, kapal yang mengantar kru dan kargo ke lepas pantai, insinyur yang merancang fasilitas, dan teknisi yang menjaga semuanya tetap berjalan. Ekosistem itu adalah **industri jasa dan peralatan minyak & gas (OGSE)**, dan ia adalah industri besar Malaysia dengan sendirinya.

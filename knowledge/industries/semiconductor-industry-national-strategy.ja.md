@@ -90,6 +90,14 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
 ---
 
 地球上のほぼすべてのスマートフォン、ノートパソコン、自動車には、人生の一部をマレーシアで過ごしたチップが搭載されている——ペナンやクランバレーの工場でパッケージングされ、試験を受け、出荷されたチップである。しかし五十年にわたり、この国が担ってきたのはその作業の中で最も地味で利幅の薄い部分、すなわち後工程であった。国家半導体戦略は、マレーシアがチップのどの部分を自らのものにするかを変えようとする試みである。

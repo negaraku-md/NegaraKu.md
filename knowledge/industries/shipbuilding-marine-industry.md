@@ -98,6 +98,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 Malaysia sits on two of the world's busiest sea lanes and earns a large part of its living from the sea — yet its shipbuilding and ship repair (SBSR) industry is one of the quieter corners of the national economy. It is real, long-established and strategically important, but also fragmented, cyclical and dominated by relatively small yards. This guide explains what the industry builds, where, how big it is, and why one naval programme has come to overshadow the whole sector in public debate.

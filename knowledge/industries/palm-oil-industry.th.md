@@ -100,6 +100,14 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
 ---
 
 น้ำมันปาล์มเป็นน้ำมันพืชที่มีการค้าขายมากที่สุดในโลก และมาเลเซียเป็นผู้ผลิตรายใหญ่อันดับสอง — รองจากอินโดนีเซีย — เปลี่ยนทะลายผลไม้สีแดงมีหนามที่ปลูกตั้งแต่ยะโฮร์ (Johor) ไปจนถึงเนินเขาของซาราวัก (Sarawak) เป็นน้ำมันปรุงอาหารกลั่น ส่วนผสมสบู่ และไบโอดีเซลที่ส่งไปยังตลาดทั่วเอเชีย แอฟริกา และยุโรป อุตสาหกรรมสนับสนุนชาวมาเลเซียกว่า 3 ล้านคนทั้งทางตรงและทางอ้อม รวมถึงเกษตรกรรายย่อยเกือบ 500,000 ราย ตามสภาน้ำมันปาล์มมาเลเซีย (Malaysian Palm Oil Council, MPOC) นี่คือวิธีที่เครื่องจักรนั้นถูกสร้างขึ้น จากต้นไม้ถึงเรือบรรทุก

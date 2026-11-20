@@ -101,6 +101,14 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
 ---
 
 L'huile de palme est l'huile végétale la plus échangée au monde, et la Malaisie en est le deuxième plus grand producteur — derrière l'Indonésie —, transformant un régime épineux de fruits rouges cultivé de Johor aux collines de Sarawak en huile de cuisine raffinée, ingrédients pour savon et biodiesel expédiés vers des marchés de toute l'Asie, de l'Afrique et de l'Europe. L'industrie fait vivre plus de 3 millions de Malaisiens de façon directe et indirecte, dont près de 500,000 petits exploitants, selon le Conseil de l'huile de palme de la Malaisie (MPOC). Voici comment cette machine est bâtie, de l'arbre au navire-citerne.

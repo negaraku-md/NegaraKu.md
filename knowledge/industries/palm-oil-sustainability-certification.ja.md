@@ -103,6 +103,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 今や一件のマレーシア産パーム油の出荷は、同時に三つの異なるルールブックに応えなければならない――国内の強制的な国家制度、取締役会における自発的な買い手のクラブ、そして港でそれを締め出しうる欧州の森林減少防止法である。2024年の最初の10か月だけで2,230万トンのパーム油およびパーム基材製品を出荷し、RM893.9億を稼いだこの産業にとって、こうした書類手続きはもはや形式的なものではない。それは市場アクセスそのものである。

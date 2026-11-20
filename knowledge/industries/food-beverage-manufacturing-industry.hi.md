@@ -99,6 +99,14 @@ keywords:
   - Food Act 1983
   - MIDA खाद्य प्रोत्साहन
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 मलेशिया में लगभग हर कोई दिन में कई बार इस उद्योग को छूता है — नाश्ते में Milo का एक कप, दोपहर के भोजन में इंस्टेंट नूडल्स का एक पैकेट, दोपहर में खनिज पानी की एक बोतल, जोहोर में पिसे हुए कोको से बनी चॉकलेट का एक बार। खाद्य एवं पेय (F&B) विनिर्माण देश के सबसे शांत बड़े उद्योगों में से एक है: सेमीकंडक्टर से कम आकर्षक, लेकिन दैनिक जीवन, राष्ट्रीय खाद्य सुरक्षा और एक शक्तिशाली विचार — हलाल — के इर्द-गिर्द बनी एक बढ़ती निर्यात कहानी में गहराई से बुना हुआ।

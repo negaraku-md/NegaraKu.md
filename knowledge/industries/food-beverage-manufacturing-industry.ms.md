@@ -99,6 +99,14 @@ keywords:
   - Akta Makanan 1983
   - insentif makanan MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 Hampir semua orang di Malaysia menyentuh industri ini beberapa kali sehari — secawan Milo waktu sarapan, sebungkus mi segera waktu makan tengah hari, sebotol air mineral pada waktu petang, sebuku coklat yang dibuat daripada koko yang dikisar di Johor. Pembuatan makanan & minuman (F&B) ialah salah satu industri besar Malaysia yang paling senyap: kurang menarik berbanding semikonduktor, tetapi terjalin dalam kehidupan harian, keselamatan makanan negara dan kisah eksport yang berkembang berpaksikan satu idea yang hebat — halal.

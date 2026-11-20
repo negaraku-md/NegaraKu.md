@@ -91,6 +91,14 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
 ---
 
 Casi todos los teléfonos, portátiles y coches de la Tierra llevan un chip que pasó parte de su vida en Malasia — empaquetado, probado y enviado desde una fábrica en Penang o el valle de Klang. Sin embargo, durante cincuenta años el país hizo la porción menos glamurosa y de menor margen de ese trabajo: el back-end. La Estrategia Nacional de Semiconductores es el intento de Malasia de cambiar qué parte del chip posee.

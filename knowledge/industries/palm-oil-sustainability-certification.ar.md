@@ -104,6 +104,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "زيت النخيل المستدام", "sustainable palm oil", "MS 2530:2022", "MPOCC", "العمل القسري", "forced labour", "إزالة الغابات", "deforestation", "اعتماد زيت النخيل", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 صارت شحنة زيت نخيل ماليزية واحدة اليوم مضطرّةً إلى الإجابة أمام ثلاثة كتب قواعد مختلفة في آنٍ واحد: مخطّط وطني إلزامي في الداخل، ونادي مشترين طوعي في قاعة مجلس الإدارة، وقانون أوروبي لإزالة الغابات قادر على منعها عند الميناء. وبالنسبة لصناعة شحنت 22.30 مليون طن من زيت النخيل والمنتجات القائمة على النخيل في الأشهر العشرة الأولى من 2024 وحدها — محقّقةً RM89.39 مليار — لم تعد الأوراق شكليةً. إنها نفاذ إلى السوق.

@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["التصنيع في ماليزيا", "Malaysia manufacturing", "الآلات والمعدات", "machinery and equipment", "plastics", "قفازات المطاط", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 قُل «مصنع ماليزي» وسيتخيّل معظم الناس غرفةً نظيفة لأشباه الموصلات في بينانغ (Penang) أو خطَّ إنتاج لبروتون (Proton) في شاه علم (Shah Alam). وتلك حقيقية، وهي كبيرة — لكنها تجلس فوق قاعدة صناعية أوسع بكثير. ففي 2024 حرّك القطاع كله RM1.9 تريليون من المبيعات وأبقى نحو 2.4 مليون شخص في العمل، وجاء جزء كبير من ذلك من الآلات والبلاستيك والمطاط والأجهزة الطبية والمواد الكيميائية والطعام على رفوف المتاجر الكبرى.

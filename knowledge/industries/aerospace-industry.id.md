@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 Sebuah pesawat mungkin dibangun di Toulouse atau Seattle, tetapi pada suatu titik dalam masa pakainya selama tiga puluh tahun, mesinnya perlu dibuka, strukturnya diperiksa, dan avioniknya diperbarui — dan semakin banyak, Malaysia ingin pekerjaan itu dilakukan di Subang atau Senai. Naluri itu, lebih dari lini perakitan mana pun, menjelaskan bentuk sektor kedirgantaraan negara.

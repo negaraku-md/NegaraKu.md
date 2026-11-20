@@ -99,6 +99,14 @@ keywords:
   - உணவுச் சட்டம் 1983
   - MIDA உணவு ஊக்கத்தொகைகள்
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 மலேசியாவில் கிட்டத்தட்ட அனைவரும் ஒரு நாளைக்குப் பலமுறை இந்தத் தொழிலைத் தொடுகிறார்கள் — காலை உணவில் ஒரு கப் Milo, மதிய உணவில் ஒரு பாக்கெட் உடனடி நூடுல்ஸ், மதியம் ஒரு பாட்டில் கனிம நீர், Johor இல் அரைக்கப்பட்ட கோகோவிலிருந்து தயாரிக்கப்பட்ட ஒரு சாக்லேட் பார். உணவு மற்றும் பானங்கள் (F&B) உற்பத்தி நாட்டின் அமைதியான பெரிய தொழில்களில் ஒன்று: குறைக்கடத்திகளை விட குறைவான கவர்ச்சியானது, ஆனால் அன்றாட வாழ்க்கை, தேசிய உணவுப் பாதுகாப்பு மற்றும் ஒரு சக்திவாய்ந்த யோசனையைச் சுற்றிக் கட்டமைக்கப்பட்ட வளர்ந்து வரும் ஏற்றுமதிக் கதையில் ஆழமாகப் பின்னப்பட்டுள்ளது — ஹலால்.

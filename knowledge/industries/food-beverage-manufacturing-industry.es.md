@@ -99,6 +99,14 @@ keywords:
   - Ley de Alimentos de 1983
   - incentivos alimentarios de MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 Casi todo el mundo en Malasia toca esta industria varias veces al día: una taza de Milo en el desayuno, un paquete de fideos instantáneos en el almuerzo, una botella de agua mineral por la tarde, una tableta de chocolate hecha con cacao molido en Johor. La fabricación de alimentos y bebidas (A&B) es una de las grandes industrias más silenciosas del país: menos glamurosa que los semiconductores, pero profundamente entrelazada con la vida cotidiana, la seguridad alimentaria nacional y una creciente historia de exportación construida en torno a una idea poderosa: el halal.

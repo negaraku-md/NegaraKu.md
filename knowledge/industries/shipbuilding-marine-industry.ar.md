@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 تجلس ماليزيا على اثنين من أكثر الممرّات البحرية ازدحامًا في العالم وتكسب جزءًا كبيرًا من رزقها من البحر — ومع ذلك فإن صناعة بناء السفن وإصلاحها (SBSR) لديها أحد أهدأ أركان الاقتصاد الوطني. وهي حقيقية وراسخة منذ زمن ومهمة استراتيجيًا، لكنها أيضًا مجزّأة ودورية ويهيمن عليها أحواض صغيرة نسبيًا. يشرح هذا الدليل ما تبنيه الصناعة، وأين، وما حجمها، ولماذا جاء برنامج حربي واحد ليُظلّل القطاع بأكمله في النقاش العام.

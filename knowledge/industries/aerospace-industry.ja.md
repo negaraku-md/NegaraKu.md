@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 航空機はトゥールーズやシアトルで製造されるかもしれないが、その三十年にわたる耐用年数のどこかの時点で、エンジンを開け、構造を点検し、アビオニクスを更新する必要が生じる——そしてマレーシアは、その作業をますますスバン（Subang）やスナイ（Senai）で行いたいと考えている。どの組立ラインよりも、この志向こそが、この国の航空宇宙産業の形を説明している。

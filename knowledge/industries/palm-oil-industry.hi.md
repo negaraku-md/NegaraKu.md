@@ -101,6 +101,14 @@ relations:
 related: ["rubber-industry"]
 keywords: ["पाम ऑयल", "palm oil", "क्रूड पाम ऑयल", "crude palm oil", "CPO", "MPOB", "FELDA", "छोटे किसान", "smallholders", "ऑयल पाम", "oil palm", "रिफ़ाइनरियाँ", "refineries", "ओलियोकेमिकल्स", "oleochemicals", "MSPO", "बायोडीज़ल", "biodiesel", "निर्यात", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
 ---
 
 पाम ऑयल दुनिया का सबसे अधिक व्यापार होने वाला वनस्पति तेल है, और मलेशिया — इंडोनेशिया के पीछे — इसका दूसरा सबसे बड़ा उत्पादक है, जो जोहोर से लेकर सारावाक की पहाड़ियों तक उगाए गए एक काँटेदार लाल फल-गुच्छे को परिशोधित खाना-पकाने के तेल, साबुन-सामग्री और बायोडीज़ल में बदलकर एशिया, अफ़्रीका और यूरोप भर के बाज़ारों में भेजता है। मलेशियाई पाम ऑयल परिषद (MPOC) के अनुसार, यह उद्योग प्रत्यक्ष और अप्रत्यक्ष रूप से 30 लाख से अधिक मलेशियाई लोगों को सहारा देता है, जिनमें लगभग 500,000 छोटे किसान शामिल हैं। यह रही वह मशीन कैसे बनी है, पेड़ से टैंकर तक।

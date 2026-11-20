@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 Si estás leyendo esto en un teléfono o una computadora portátil, hay una posibilidad real de que uno de sus chips haya pasado parte de su vida en Malasia: no siendo inventado ni impreso, sino transformado de una simple lámina de silicio en un componente terminado y encapsulado, listo para soldar en una placa de circuito. Ese paso silencioso y poco glamoroso es donde Malasia ha construido una de las posiciones más decisivas de todo el mundo de la electrónica.

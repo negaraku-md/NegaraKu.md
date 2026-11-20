@@ -79,6 +79,14 @@ relations:
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 Say "Malaysian factory" and most people picture a semiconductor cleanroom in Penang or a Proton line in Shah Alam. Those are real, and they are big — but they sit on top of a far broader industrial base. In 2024 the whole sector moved RM1.9 trillion in sales and kept roughly 2.4 million people in work, and a large slice of that came from machinery, plastics, rubber, medical devices, chemicals and the food on supermarket shelves.

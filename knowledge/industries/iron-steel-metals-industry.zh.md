@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 在马来西亚几乎每一栋建筑、每一座桥梁、每一条高速公路的背后，都有一个更安静的产业在制造支撑这一切的金属。钢铁很少像半导体或棕榈油那样登上头条，但它们是根基：混凝土柱里的钢筋、电缆里的钢丝、车门里的钢板。马来西亚自己制造了其中很大一部分——而且在少数几种金属上，它是真正的世界一流。但故事的钢铁那一半，也是这个国家最棘手的制造业领域之一，其特征是产能与市场实际所需之间顽固的失衡。

@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 إذا كنت تقرأ هذا على هاتف أو حاسوب محمول، فهناك احتمال حقيقي بأن إحدى رقائقه قضت جزءًا من حياتها في ماليزيا — لا في اختراعها أو طباعتها، بل في تحويلها من شريحة سيليكون عارية إلى مكوّن مكتمل ومغلّف جاهز للحام على لوحة دوائر. هذه الخطوة الهادئة غير اللامعة هي حيث بنت ماليزيا واحدًا من أهم المواقع في عالم الإلكترونيات بأسره.

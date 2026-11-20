@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["aeroespacial", "MRO", "mantenimiento reparación revisión general", "aerofabricación", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 Un avión puede construirse en Toulouse o en Seattle, pero en algún momento de su vida de treinta años necesitará que le abran los motores, le inspeccionen la estructura y le renueven la aviónica — y, cada vez más, Malasia quiere que ese trabajo se haga en Subang o en Senai. Ese instinto, más que cualquier línea de montaje, explica la forma del sector aeroespacial del país.

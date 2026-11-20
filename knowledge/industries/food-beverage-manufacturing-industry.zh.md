@@ -99,6 +99,14 @@ keywords:
   - 1983 年食品法令
   - MIDA 食品激励
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 几乎每一个马来西亚人每天都要接触这个产业好几次——早餐一杯 Milo、午餐一包方便面、下午一瓶矿泉水、一块用柔佛研磨的可可做成的巧克力。食品与饮料（F&B）制造是该国最安静的大产业之一：不如半导体那般光鲜，却深深织入日常生活、国家粮食安全，以及一个围绕一个强大理念——清真——而生长的出口故事。

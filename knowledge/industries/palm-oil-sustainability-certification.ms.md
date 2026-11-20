@@ -104,6 +104,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 Satu penghantaran minyak sawit Malaysia kini terpaksa mematuhi tiga buku peraturan berbeza pada masa yang sama: skim kebangsaan mandatori di dalam negara, kelab pembeli sukarela di bilik lembaga, dan undang-undang penyahutanan Eropah yang boleh menghalangnya di pelabuhan. Bagi sebuah industri yang menghantar 22.30 juta tan minyak sawit dan produk berasaskan sawit dalam sepuluh bulan pertama 2024 sahaja — memperoleh RM89.39 bilion — kertas kerja bukan lagi satu formaliti. Ia adalah akses pasaran.

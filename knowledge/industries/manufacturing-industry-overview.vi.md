@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 Nói "nhà máy Malaysia" và hầu hết mọi người hình dung một phòng sạch bán dẫn ở Penang hay một dây chuyền Proton ở Shah Alam. Những thứ đó là có thật, và chúng lớn — nhưng chúng nằm trên đỉnh một nền tảng công nghiệp rộng hơn nhiều. Vào năm 2024 toàn bộ khu vực này vận chuyển RM1.9 nghìn tỷ doanh số và giữ khoảng 2.4 triệu người có việc làm, và một lát cắt lớn của con số đó đến từ máy móc, nhựa, cao su, thiết bị y tế, hóa chất và thực phẩm trên kệ siêu thị.

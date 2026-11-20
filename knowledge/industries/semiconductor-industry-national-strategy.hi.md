@@ -91,6 +91,14 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
 ---
 
 पृथ्वी पर लगभग हर फ़ोन, लैपटॉप और कार में एक चिप होती है जिसने अपने जीवन का कुछ हिस्सा मलेशिया में बिताया — पेनांग या क्लांग घाटी की किसी फ़ैक्टरी में पैकेज, परीक्षण और शिप किया गया। फिर भी पचास वर्षों तक देश ने उस काम का सबसे कम चमकीला, सबसे कम-मार्जिन वाला हिस्सा किया: बैक एंड। राष्ट्रीय अर्धचालक रणनीति मलेशिया का यह बदलने का प्रयास है कि वह चिप का कौन-सा हिस्सा अपने पास रखता है।

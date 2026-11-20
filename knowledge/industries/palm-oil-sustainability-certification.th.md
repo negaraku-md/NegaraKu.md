@@ -104,6 +104,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 การขนส่งน้ำมันปาล์มมาเลเซียเพียงครั้งเดียวปัจจุบันต้องตอบกฎสามชุดที่ต่างกันพร้อมกัน: โครงการระดับชาติภาคบังคับที่บ้าน สโมสรผู้ซื้อแบบสมัครใจในห้องประชุม และกฎหมายการตัดไม้ทำลายป่าของยุโรปที่สามารถกักมันที่ท่าเรือได้ สำหรับอุตสาหกรรมที่ส่งน้ำมันปาล์มและผลิตภัณฑ์จากปาล์ม 22.30 ล้านตันในสิบเดือนแรกของปี 2024 เพียงอย่างเดียว — สร้างรายได้ RM89.39 พันล้าน — เอกสารไม่ได้เป็นเพียงพิธีการอีกต่อไป มันคือการเข้าถึงตลาด

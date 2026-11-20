@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 यदि आप इसे किसी फ़ोन या लैपटॉप पर पढ़ रहे हैं, तो इस बात की वास्तविक संभावना है कि इसकी किसी एक चिप ने अपने जीवन का कुछ हिस्सा मलेशिया में बिताया हो — आविष्कार या प्रिंटिंग के रूप में नहीं, बल्कि सिलिकॉन के एक नंगे टुकड़े से एक तैयार, पैकेज की हुई घटक में बदलते हुए, जो किसी सर्किट बोर्ड पर सोल्डर करने के लिए तैयार हो। वह शांत, अनाकर्षक चरण ही वह जगह है जहाँ मलेशिया ने पूरी इलेक्ट्रॉनिक्स दुनिया में सबसे महत्वपूर्ण स्थानों में से एक बनाया है।

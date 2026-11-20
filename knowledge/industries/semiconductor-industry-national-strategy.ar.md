@@ -91,6 +91,14 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["أشباه الموصلات", "الاستراتيجية الوطنية لأشباه الموصلات", "semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "التغليف المتقدم", "advanced packaging", "صناعة الرقائق في ماليزيا", "Penang Silicon Valley", "MIDA", "IC design", "تصميم الدوائر المتكاملة"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
 ---
 
 يحمل كل هاتف وحاسوب محمول وسيارة تقريباً على وجه الأرض رقاقةً قضت جزءاً من حياتها في ماليزيا — جرى تغليفها واختبارها وشحنها من مصنع في بينانغ أو وادي كلانغ. ومع ذلك ظل البلد طوال خمسين عاماً يؤدي الشريحة الأقل بريقاً والأدنى هامشاً من ذلك العمل: الطرف الخلفي. والاستراتيجية الوطنية لأشباه الموصلات هي محاولة ماليزيا لتغيير الجزء الذي تمتلكه من الرقاقة.

@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 Malaysia terletak di dua laluan laut tersibuk dunia dan memperoleh sebahagian besar pendapatannya daripada laut — namun industri pembinaan dan pembaikan kapal (SBSR)-nya ialah salah satu sudut ekonomi nasional yang lebih senyap. Ia nyata, lama bertapak dan penting dari segi strategik, tetapi juga berpecah-pecah, berkitar dan didominasi limbungan yang agak kecil. Panduan ini menerangkan apa yang dibina industri ini, di mana, sebesar mana ia, dan mengapa satu program tentera laut telah membayangi seluruh sektor dalam perdebatan awam.

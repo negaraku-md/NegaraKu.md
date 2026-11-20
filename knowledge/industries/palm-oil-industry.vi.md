@@ -100,6 +100,14 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
 ---
 
 Dầu cọ là loại dầu thực vật được giao dịch nhiều nhất thế giới, và Malaysia là nhà sản xuất lớn thứ hai của nó — sau Indonesia — biến một buồng quả đỏ tua tủa được trồng từ Johor đến các đồi núi Sarawak thành dầu ăn tinh chế, nguyên liệu xà phòng và dầu diesel sinh học được vận chuyển tới các thị trường khắp châu Á, châu Phi và châu Âu. Ngành này hỗ trợ hơn 3 triệu người Malaysia một cách trực tiếp và gián tiếp, bao gồm gần 500,000 tiểu điền chủ, theo Hội đồng Dầu cọ Malaysia (MPOC). Đây là cách bộ máy đó được xây dựng, từ cây đến tàu chở dầu.

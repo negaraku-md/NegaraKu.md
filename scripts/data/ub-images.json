@@ -1291,5 +1291,482 @@
         "alt": "A band of pierced fretwork carving in flame-like foliate shapes running along the timber eaves board beneath the roof of a brown-planked traditional Malay house, framed by green foliage and sky"
       }
     ]
+  },
+  "industries/aerospace-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Airhub_Aviation_hangar_-_SQQ%2C_Siauliai%2C_Lithuania.jpg",
+      "license": "CC BY 4.0",
+      "by": "Airhub Aviation",
+      "page": "https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg",
+      "kind": "representative",
+      "subject": "Commercial aircraft inside an aircraft maintenance (MRO) hangar",
+      "alt": "Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Boeing_Everett_Factory_-_777X_fuselages.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "SounderBruce",
+        "page": "https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg",
+        "kind": "representative",
+        "subject": "Aircraft fuselages on the assembly line inside a large aerospace factory",
+        "alt": "Green primer-coated airliner fuselages lined up with workers inside a vast aircraft assembly factory"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Aircraft_Maintenance%2C_AMN%2C_Teuge_Airport.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Peter F.A. van de Noort",
+        "page": "https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg",
+        "kind": "representative",
+        "subject": "Technicians servicing an aircraft engine and propeller in a maintenance hangar",
+        "alt": "Two aircraft-maintenance technicians working on the engine and four-blade propeller of a small aircraft in a hangar"
+      }
+    ]
+  },
+  "industries/automotive-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Proton_Saga_2019.jpg",
+      "license": "CC0",
+      "by": "Wikimedia Commons (CC0)",
+      "page": "https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg",
+      "kind": "actual",
+      "subject": "A 2019 Proton Saga, Malaysia's national-brand sedan built by Proton",
+      "alt": "A white Proton Saga sedan with the Proton tiger-head badge on its grille, parked outdoors"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Perodua_Myvi_3rd_generation.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Azreey",
+        "page": "https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg",
+        "kind": "actual",
+        "subject": "Third-generation Perodua Myvi hatchbacks, Malaysia's best-selling national car",
+        "alt": "Red and black third-generation Perodua Myvi hatchbacks, bearing the Perodua badge, parked in a row"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice%2C_Poland.jpg",
+        "license": "CC BY 3.0",
+        "by": "Marek Ślusarczyk (Tupungato)",
+        "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+        "kind": "representative",
+        "subject": "Cars moving along an automotive assembly line inside a vehicle plant",
+        "alt": "Partly assembled cars with open doors and boot lids moving along a conveyor on a factory assembly line"
+      }
+    ]
+  },
+  "industries/electrical-electronics-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Printed_Circuit_Board_9990.jpg",
+      "license": "CC BY 4.0",
+      "by": "Ashley Pomeroy",
+      "page": "https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg",
+      "kind": "representative",
+      "subject": "Close-up of a densely populated printed circuit board with capacitors, ICs and resistors",
+      "alt": "Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Soldering_a_0805.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Aisart",
+        "page": "https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg",
+        "kind": "representative",
+        "subject": "A hand uses fine tweezers and an iron to rework a surface-mount component on a circuit board",
+        "alt": "A hand holding a soldering tool and fine tweezers works on a tiny surface-mount component on a green printed circuit board crowded with chips and traces"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/SEG_DVD_430_-_Printed_circuit_board-4276.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Raimond Spekking",
+        "page": "https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg",
+        "kind": "representative",
+        "subject": "Top-down view of a fully assembled consumer-electronics printed circuit board",
+        "alt": "A green printed circuit board photographed from directly above, populated with several labelled black integrated-circuit chips, memory packages and rows of small surface-mount parts"
+      }
+    ]
+  },
+  "industries/food-beverage-manufacturing-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Krostitzer_Brauerei_-_Abfuellung.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "ChristianBier",
+      "page": "https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg",
+      "kind": "representative",
+      "subject": "Thousands of green bottles moving along the winding conveyors of a brewery bottling line",
+      "alt": "Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Francis_Ford_Coppola_Winery_bottling_plant%2C_near_Geyserville%2C_2011.jpg",
+        "license": "CC0",
+        "by": "DimiTalen",
+        "page": "https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg",
+        "kind": "representative",
+        "subject": "Overhead view of conveyors and packaging machinery in a winery bottling plant near Geyserville, California",
+        "alt": "Overhead view of a beverage bottling plant with multiple conveyor lines and packaging machinery"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Adani_Food_Processing_Plant_Bandel.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Babin Mew",
+        "page": "https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg",
+        "kind": "representative",
+        "subject": "Large silos and storage halls of a food-grain processing and logistics plant at Bandel, India",
+        "alt": "Several large cylindrical grain silos and storage buildings of a food processing and logistics plant beside railway tracks"
+      }
+    ]
+  },
+  "industries/iron-steel-metals-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla%2C_Australia.jpg",
+      "license": "CC BY 3.0",
+      "by": "Marek Ślusarczyk (Tupungato)",
+      "page": "https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg",
+      "kind": "representative",
+      "subject": "BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam",
+      "alt": "A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "Gareth James",
+        "page": "https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg",
+        "kind": "representative",
+        "subject": "Blast furnaces at Scunthorpe Steelworks, England",
+        "alt": "Two tall steel blast furnaces with ducting and a chimney venting white steam against a clear blue sky"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "European Coal and Steel Community",
+        "page": "https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg",
+        "kind": "representative",
+        "subject": "Interior of the electric arc furnace meltshop at the ProfilARBED steel mill in Differdange, Luxembourg",
+        "alt": "Inside a steel meltshop, a large electric arc furnace with overhead gantry, pipework and workers on steel walkways"
+      }
+    ]
+  },
+  "industries/manufacturing-industry-overview": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice%2C_Poland.jpg",
+      "license": "CC BY 3.0",
+      "by": "Marek Ślusarczyk (Tupungato)",
+      "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+      "kind": "representative",
+      "subject": "Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland",
+      "alt": "A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg",
+        "license": "Public domain",
+        "by": "KUKA Roboter GmbH, Bachmann",
+        "page": "https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg",
+        "kind": "representative",
+        "subject": "Orange industrial robot arms palletizing packaged food on an automated factory line",
+        "alt": "Several orange robotic arms palletizing yellow crates on an automated production line in a factory"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Semiconductor_clean_room.jpg",
+        "license": "Public domain",
+        "by": "Aileen Devlin/Jefferson Lab",
+        "page": "https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg",
+        "kind": "representative",
+        "subject": "A technician in a white coverall assembling precision equipment inside a high-tech clean room",
+        "alt": "A technician in a white full-body suit, mask and gloves works on precision metal components in a bright tiled clean room"
+      }
+    ]
+  },
+  "industries/oil-gas-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bintulu_LNG_port.jpg",
+      "license": "CC BY 2.0",
+      "by": "Ahmad Afif Isa",
+      "page": "https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg",
+      "kind": "actual",
+      "subject": "the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas",
+      "alt": "Aerial view of the Bintulu LNG export jetty in Sarawak: a concrete platform on steel piles carrying clusters of tall marine loading arms and pipework over turquoise sea, with the port and gas-plant skyline behind"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kimanis_Sabah_SOGT-Kimanis-02.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg",
+        "kind": "actual",
+        "subject": "a gas flare burning atop the flare stack at the Sabah Oil and Gas Terminal (SOGT) in Kimanis, Sabah",
+        "alt": "A tall red-and-white steel flare stack venting a bright orange gas flame against a cloudy sky, with pipe racks and the Crocker Range behind, at the Sabah Oil and Gas Terminal in Kimanis"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Oil_refinery%2C_Port_Dickson.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "AyyanD",
+        "page": "https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg",
+        "kind": "actual",
+        "subject": "an oil refinery east of Port Dickson, Negeri Sembilan, seen across open ground from Federal Route 5",
+        "alt": "The distillation towers, chimneys and storage tanks of an oil refinery on the horizon beyond a grassy field near Port Dickson, under a hazy evening sky"
+      }
+    ]
+  },
+  "industries/oil-gas-services-equipment-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Oil_drill_rigs_in_Brunei_Bay%2C_April_2025_05.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Calistemon",
+      "page": "https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg",
+      "kind": "representative",
+      "subject": "a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan",
+      "alt": "A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Oil_Platform_Crew_Transfer.jpg",
+        "license": "CC0",
+        "by": "GuavaTrain",
+        "page": "https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg",
+        "kind": "representative",
+        "subject": "an offshore supply vessel working alongside a production platform, with the platform crane transferring a load",
+        "alt": "A large offshore oil production platform in golden light with its deck crane lowering a load to an offshore supply vessel holding station on the open blue sea alongside"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Supply_vessel_%22Island_Chieftain%22_in_Sandnessj%C3%B8en.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "JoachimKohler-HB",
+        "page": "https://commons.wikimedia.org/wiki/File:Supply_vessel_\"Island_Chieftain\"_in_Sandnessjøen.jpg",
+        "kind": "representative",
+        "subject": "a platform supply and offshore support vessel moored at a quay, showing its open cargo afterdeck",
+        "alt": "A blue-and-white offshore support vessel named Island Chieftain moored at a quay, its tall forward bridge and long flat open cargo deck visible, with mountains behind"
+      }
+    ]
+  },
+  "industries/palm-oil-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kunak-District_Sabah_Oil-palm-plantation-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg",
+      "kind": "actual",
+      "subject": "Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia",
+      "alt": "Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg",
+        "kind": "actual",
+        "subject": "Truck loaded with fresh fruit bunches at the Apas Balung palm-oil mill, Tawau, Sabah",
+        "alt": "A truck piled with reddish oil-palm fresh fruit bunches parked at the gate of the Apas Balung palm-oil mill in Tawau, Sabah"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg",
+        "kind": "actual",
+        "subject": "IOI Baturong palm-oil mill surrounded by oil-palm plantation, Kunak District, Sabah",
+        "alt": "A palm-oil mill with a steaming chimney set amid a vast sea of oil-palm plantation under cloudy skies in Kunak, Sabah"
+      }
+    ]
+  },
+  "industries/palm-oil-sustainability-certification": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Oil_palm_plantation_in_Mersing_District.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Wee Hong",
+      "page": "https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg",
+      "kind": "actual",
+      "subject": "Well-managed oil-palm estate in Mersing District, Johor, Malaysia",
+      "alt": "A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg",
+        "kind": "actual",
+        "subject": "Estate workers with a harvested fresh fruit bunch on an oil-palm plantation in Kimanis, Sabah",
+        "alt": "Two plantation workers in boots standing beside oil palms, one holding a freshly cut fruit bunch on a harvesting sickle, in Kimanis, Sabah"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg",
+        "kind": "actual",
+        "subject": "Oil-palm seedlings raised in polybags at a commercial nursery in Sungai Mangis, Sabah",
+        "alt": "Orderly rows of young oil-palm seedlings growing in black polybags at a plantation nursery in Sungai Mangis, Sabah"
+      }
+    ]
+  },
+  "industries/petronas-industry-profile": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Twins_SE_Asia_2019_%2849171985716%29.jpg",
+      "license": "CC BY 2.0",
+      "by": "James Kerwin",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
+      "kind": "actual",
+      "subject": "the PETRONAS Twin Towers, the national oil company's headquarters, rising over the Kuala Lumpur skyline at dusk",
+      "alt": "The illuminated PETRONAS Twin Towers standing at the centre of the dense Kuala Lumpur skyline, linked by their skybridge and rising above the Suria KLCC mall, under an orange and blue dusk sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Petronas_Labis_Arah_Segamat.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Wee Hong",
+        "page": "https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg",
+        "kind": "actual",
+        "subject": "a PETRONAS-branded petrol station in Labis, Johor, with its forecourt canopy and fuel price board",
+        "alt": "A PETRONAS petrol station with a turquoise-green forecourt canopy and fuel pumps beside a tall price board showing the green PETRONAS droplet logo and prices for Primax 97, Primax 95 and Dynamic Diesel, fringed by oil-palm trees"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Skybridge_between_Petronas_Towers%2C_Kuala_Lumpur_%284447656063%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "Andy Mitchell",
+        "page": "https://commons.wikimedia.org/wiki/File:Skybridge_between_Petronas_Towers,_Kuala_Lumpur_(4447656063).jpg",
+        "kind": "actual",
+        "subject": "the double-decker skybridge linking the two PETRONAS Twin Towers, seen in close-up against a clear sky",
+        "alt": "Close-up of the glass-and-steel double-decker skybridge spanning the gap between the two ribbed facades of the PETRONAS Twin Towers, braced by angled support struts, under a clear blue sky"
+      }
+    ]
+  },
+  "industries/rubber-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Rubber_tree_and_latex_cup.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Wee Hong",
+      "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg",
+      "kind": "representative",
+      "subject": "Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia",
+      "alt": "A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base"
+    },
+    "body": []
+  },
+  "industries/semiconductor-industry-national-strategy": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/AMD3101E.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Mister rf",
+      "page": "https://commons.wikimedia.org/wiki/File:AMD3101E.jpg",
+      "kind": "representative",
+      "subject": "Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires",
+      "alt": "Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/12-inch_silicon_wafer.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Peellden",
+        "page": "https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg",
+        "kind": "representative",
+        "subject": "A 12-inch (300 mm) silicon wafer patterned with a grid of chip dies",
+        "alt": "A round 300-millimetre silicon wafer seen from above, covered in a regular grid of rectangular chip dies with rainbow diffraction colours across its surface"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Photoresist_spin_coating.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Sei",
+        "page": "https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg",
+        "kind": "representative",
+        "subject": "A silicon wafer being spin-coated with photoresist during chip fabrication",
+        "alt": "A spinning silicon wafer covered in a glossy pool of dark-red photoresist on a spin-coater, with resist flung outward in a fine spray"
+      }
+    ]
+  },
+  "industries/semiconductor-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Radiotrefoil",
+      "page": "https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg",
+      "kind": "representative",
+      "subject": "Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film",
+      "alt": "A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Silicon_wafer_researcher.jpg",
+        "license": "Public domain",
+        "by": "U.S. Department of Energy",
+        "page": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg",
+        "kind": "representative",
+        "subject": "A gowned technician holds a silicon wafer in a yellow-lit photolithography cleanroom",
+        "alt": "A technician in a white bunny-suit, hood and mask holds a round silicon wafer in a gloved hand inside a yellow-lit semiconductor cleanroom"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Semiconductor_clean_room.jpg",
+        "license": "Public domain",
+        "by": "Aileen Devlin/Jefferson Lab",
+        "page": "https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg",
+        "kind": "representative",
+        "subject": "A bunny-suited assembly technician works on precision hardware inside a clean room",
+        "alt": "A technician in a full white cleanroom suit, hood, mask and gloves works on polished metal components at a bench inside a bright clean room"
+      }
+    ]
+  },
+  "industries/shipbuilding-marine-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%281%29.jpg",
+      "license": "CC BY 4.0",
+      "by": "Ibex73",
+      "page": "https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l'Atlantique_shipyard,_2025_(1).jpg",
+      "kind": "representative",
+      "subject": "A shipyard with large gantry cranes and vessels under construction on the waterfront",
+      "alt": "A waterfront shipyard with towering red gantry cranes and large vessels under construction"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Grand_Banks_Yachts_factory%2C_Malaysia.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Thatdudejb",
+        "page": "https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg",
+        "kind": "actual",
+        "subject": "The Grand Banks Yachts boatbuilding factory at Pasir Gudang, Johor, Malaysia",
+        "alt": "Aerial view of a large white boatbuilding factory in Malaysia, with a vessel hull visible at an open bay door"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Aerial_view_of_the_Grand_Banks_Yachts%27_Malaysian_Shipyard.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Thatdudejb",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg",
+        "kind": "actual",
+        "subject": "Overhead view of the Grand Banks Yachts shipyard beside a river in Johor, Malaysia",
+        "alt": "Overhead aerial view of a riverside Malaysian shipyard's large fabrication halls and yard"
+      }
+    ]
+  },
+  "industries/solar-pv-manufacturing-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bluebird_Solar_Manufacturing_Unit.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Bluebird Solar",
+      "page": "https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg",
+      "kind": "representative",
+      "subject": "Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall",
+      "alt": "A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Solar_panel_submodule_packout%2C_Perrysburg%2C_Ohio%2C_August_2017.jpg",
+        "license": "Public domain",
+        "by": "U.S. Department of Energy",
+        "page": "https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg",
+        "kind": "representative",
+        "subject": "Finished PV modules moving along the submodule pack-out line at the First Solar plant, Perrysburg, Ohio",
+        "alt": "Rows of grey solar PV modules on a conveyor production line with two workers inspecting the panels"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ground_mounted_solar_panels.gk.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Grendelkhan",
+        "page": "https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg",
+        "kind": "representative",
+        "subject": "A ground-mounted solar photovoltaic array in a grassy field under a blue sky",
+        "alt": "A long row of dark solar panels mounted on metal frames in a green field beneath a blue sky with scattered clouds"
+      }
+    ]
   }
 }

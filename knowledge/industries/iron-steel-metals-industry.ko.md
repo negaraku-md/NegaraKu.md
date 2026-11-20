@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 말레이시아의 거의 모든 건물·다리·고속도로 뒤에는, 그 모든 것을 떠받치는 금속을 만드는 더 조용한 산업이 있습니다. 철과 철강은 반도체나 팜유처럼 머리기사를 장식하는 일이 드물지만 토대적입니다. 콘크리트 기둥 속의 철근, 케이블 속의 선재, 자동차 문짝의 시트가 그렇습니다. 말레이시아는 이 가운데 상당량을 스스로 만들며 — 몇몇 금속에서는 진정 세계 정상급입니다. 그러나 이야기의 철강 쪽 절반은 이 나라에서 가장 골치 아픈 제조 부문 중 하나이기도 한데, 생산할 수 있는 양과 시장이 실제로 필요로 하는 양 사이의 고질적 불일치로 규정됩니다.

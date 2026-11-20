@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 ஒரு அமெரிக்க வீட்டுச்சொந்தக்காரர் அல்லது பயன்பாட்டு நிறுவனம் ஒரு சூரிய வரிசையை நிறுவும்போது, அந்தப் பலகைகள் மலேசியாவில் செய்யப்பட்டிருக்கலாம் என்பதை சிலர் மட்டுமே உணர்கிறார்கள். ஒரு தசாப்தத்திற்கும் மேலாக அந்நாடு, அமைதியாக உலகின் மிகப்பெரிய சூரிய ஒளிமின் (PV) செல்கள் மற்றும் தொகுதிகளை உற்பத்தி செய்பவர்களில் ஒன்றாக இருந்து வருகிறது — தனது சொந்த மின்சார வலையமைப்பிற்கு அல்ல, ஏற்றுமதிக்காக. இது ஊட்ட-விலைத் தீர்வைகளின் தொழில் அல்ல, தொழிற்சாலைகளின் தொழில்.

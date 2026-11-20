@@ -108,6 +108,14 @@ relations:
 related: []
 keywords: ["Proton", "Perodua", "राष्ट्रीय कार", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "राष्ट्रीय ऑटोमोटिव नीति", "NAP 2020", "इलेक्ट्रिक वाहन मलेशिया", "e.MAS 7", "QV-E"]
 framework: profile
+hero: '/media/industries/automotive-industry/hero.webp'
+heroAlt: 'A white Proton Saga sedan with the Proton tiger-head badge on its grille, parked outdoors'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
 ---
 
 मलेशिया के आकार के बहुत कम देशों ने कभी शून्य से कार बनाने की कोशिश की है। उससे भी कम के पास देश के अधिकांश ड्राइववे में खड़े दो घरेलू-निर्मित ब्रांड हैं। किसी भी मलेशियाई शहर में गाड़ी चलाएँ और यातायात आपको एक जानबूझकर अपनाई गई औद्योगिक नीति की कहानी सुनाता है: सिग्नल पर एक Perodua Myvi, उसके पीछे एक Proton Saga, दोनों 1980 के दशक के उस दाँव की संतान हैं कि एक विकासशील अर्थव्यवस्था अपनी ही गाड़ियाँ बना सकती है।

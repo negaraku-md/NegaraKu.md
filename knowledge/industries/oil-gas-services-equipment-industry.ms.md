@@ -98,6 +98,14 @@ keywords:
   - kapal sokongan luar pesisir
   - Pelan Tindakan OGSE Negara
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 Apabila orang membayangkan kekayaan minyak dan gas Malaysia, mereka biasanya terfikir tentang minyak mentah dan gas di bawah dasar laut luar pantai Terengganu, Sarawak dan Sabah — rizab yang menjadikan PETRONAS salah satu syarikat tenaga terbesar Asia. Tetapi hidrokarbon tidak mengangkat dirinya sendiri keluar dari tanah. Di sebalik setiap medan yang mengeluarkan hasil terletak sepasukan kecil kontraktor: halaman yang mengimpal pelantar keluli, pelantar yang menggerudi telaga, kapal yang mengangkut anak kapal dan kargo ke luar pesisir, jurutera yang mereka bentuk kemudahan, dan juruteknik yang memastikan kesemuanya berjalan. Ekosistem itulah **industri perkhidmatan dan peralatan minyak & gas (OGSE)**, dan ia industri Malaysia yang utama dengan sendirinya.

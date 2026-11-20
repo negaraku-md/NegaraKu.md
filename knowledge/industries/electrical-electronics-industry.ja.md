@@ -97,6 +97,14 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
 ---
 
 この十年間に製造されたノートパソコン、スマートフォン、あるいは自動車のほぼどれを開けてみても、その部品のどこかがマレーシアを通過した可能性は十分にある。中のチップは、ペナンで試験とパッケージングを受けたのかもしれない。電源アダプター、LEDバックライト、あるいは回路基板は、クリム、マラッカ、あるいはクランバレーで組み立てられたのかもしれない。約3,410万人の人口を持つ国（2024年、マレーシア統計局（Department of Statistics Malaysia、DOSM））にとって、マレーシアは世界の電子機器サプライチェーンの中で驚くほど中心的な位置を占めている——そしてそれは、ほぼ丸ごと一つの産業の物語である。

@@ -104,6 +104,14 @@ keywords:
   - "offshore support vessels"
   - "المخطط الوطني لـOGSE"
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 حين يتخيّل الناس ثروة ماليزيا من النفط والغاز، يفكّرون عادةً في الخام والغاز تحت قاع البحر قبالة ترينجانو وساراواك وصباح — الاحتياطيات التي جعلت PETRONAS إحدى أكبر شركات الطاقة في آسيا. لكن الهيدروكربونات لا ترفع نفسها من الأرض. فخلف كل حقل مُنتِج يجلس جيش صغير من المقاولين: الساحات التي تلحم المنصّات الفولاذية، والمنصّات التي تحفر الآبار، والسفن التي تنقل الأطقم والبضائع بحرًا، والمهندسون الذين يصمّمون المرافق، والفنيون الذين يُبقون كل ذلك يعمل. تلك المنظومة هي **صناعة خدمات ومعدات النفط والغاز (OGSE)**، وهي صناعة ماليزية كبرى بذاتها.

@@ -101,6 +101,14 @@ relations:
 related: ["rubber-industry"]
 keywords: ["زيت النخيل", "palm oil", "زيت النخيل الخام", "crude palm oil", "CPO", "MPOB", "FELDA", "صغار الملّاك", "smallholders", "نخيل الزيت", "oil palm", "المصافي", "refineries", "الكيماويات الزيتية", "oleochemicals", "MSPO", "الديزل الحيوي", "biodiesel", "الصادرات", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
 ---
 
 زيت النخيل هو أكثر الزيوت النباتية تداولاً في العالم، وماليزيا ثاني أكبر منتِج له — خلف إندونيسيا — تحوّل عنقوداً أحمر شائكاً من الثمار المزروعة من جوهور إلى تلال ساراواك إلى زيت طهي مكرَّر ومكوّنات صابون وديزل حيوي يُشحَن إلى أسواق عبر آسيا وأفريقيا وأوروبا. وتدعم الصناعة أكثر من 3 ملايين ماليزي بشكل مباشر وغير مباشر، منهم قرابة 500,000 من صغار الملّاك، بحسب مجلس زيت النخيل الماليزي للترويج (MPOC). وهكذا بُنيت تلك الآلة، من الشجرة إلى الناقلة.

@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 மலேசியா உலகின் மிக பரபரப்பான கடல் வழிகளில் இரண்டின் மீது அமர்ந்துள்ளது மற்றும் அதன் வாழ்வாதாரத்தின் பெரும் பகுதியை கடலிலிருந்து ஈட்டுகிறது — இருப்பினும் அதன் கப்பல் கட்டுமானம் மற்றும் கப்பல் பழுதுபார்ப்பு (SBSR) தொழில் தேசியப் பொருளாதாரத்தின் அமைதியான மூலைகளில் ஒன்று. இது உண்மையானது, நீண்டகாலமாக நிறுவப்பட்டது மற்றும் மூலோபாய ரீதியாக முக்கியமானது, ஆனால் துண்டிக்கப்பட்டது, சுழற்சி முறையானது மற்றும் ஒப்பீட்டளவில் சிறிய கப்பல்துறைகளால் ஆதிக்கம் செலுத்தப்படுகிறது. இந்த வழிகாட்டி இத்தொழில் எதைக் கட்டுகிறது, எங்கே, எவ்வளவு பெரியது, மற்றும் ஏன் ஒரு கடற்படைத் திட்டம் பொது விவாதத்தில் முழுத் துறையையும் மறைத்துவிட்டது என்பதை விளக்குகிறது.

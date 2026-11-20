@@ -101,6 +101,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 かつて植民地時代のマラヤを築いたゴムは、もはやプランテーションで稼いでいるのではない——工場の現場で稼いでいるのである。マレーシアは今なお樹木からゴムを採取しているが、その富は今や自国が製造する医療用手袋、タイヤ、ラテックス製品にかかっており、この産業は自国が栽培する量を上回るゴムを扱っている。

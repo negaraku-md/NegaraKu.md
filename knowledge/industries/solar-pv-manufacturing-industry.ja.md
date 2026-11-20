@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 アメリカの住宅所有者や電力会社が太陽光アレイを設置するとき、そのパネルはマレーシア製である可能性が高い — そう気づく人はほとんどいない。10年以上にわたり、マレーシアは静かに世界最大級の太陽光発電（PV）セル・モジュール生産国の一つであり続けてきた。自国の送電網に電力を供給するためではなく、輸出するためにだ。これは工場の産業であって、フィードイン・タリフの産業ではない。

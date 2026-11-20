@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 항공기는 툴루즈나 시애틀에서 제작될 수 있지만, 30년에 이르는 수명 어딘가에서 엔진을 열고, 구조물을 점검하고, 항공전자장비를 갱신해야 합니다 — 그리고 말레이시아는 그 작업이 점점 더 수방(Subang)이나 스나이(Senai)에서 이루어지기를 바랍니다. 어떤 조립 라인보다도 바로 이 본능이 이 나라 항공우주 부문의 모습을 설명해 줍니다.

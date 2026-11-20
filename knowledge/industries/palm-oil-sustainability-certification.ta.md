@@ -104,6 +104,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 ஒரே ஒரு மலேசியப் பாமாயில் சரக்கு இப்போது ஒரே நேரத்தில் மூன்று வெவ்வேறு விதிநூல்களுக்குப் பதிலளிக்க வேண்டியுள்ளது: உள்நாட்டில் ஒரு கட்டாய தேசியத் திட்டம், அறைக்குள் ஒரு தன்னார்வ வாங்குநர்களின் அமைப்பு, மற்றும் துறைமுகத்தில் அதைத் தடுக்கக்கூடிய ஒரு ஐரோப்பியக் காடழிப்புச் சட்டம். 2024-இன் முதல் பத்து மாதங்களில் மட்டுமே 22.30 மில்லியன் டன் பாமாயில் மற்றும் பாமை அடிப்படையிலான தயாரிப்புகளை ஏற்றுமதி செய்து — RM89.39 பில்லியன் ஈட்டிய — ஒரு தொழிற்துறைக்கு, இந்த ஆவணப்பணி இனி ஒரு சம்பிரதாயம் அல்ல. அது சந்தை அணுகல்.

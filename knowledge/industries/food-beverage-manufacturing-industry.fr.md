@@ -99,6 +99,14 @@ keywords:
   - Food Act 1983
   - incitations alimentaires MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 Presque tout le monde en Malaisie touche à cette industrie plusieurs fois par jour — une tasse de Milo au petit-déjeuner, un paquet de nouilles instantanées au déjeuner, une bouteille d'eau minérale l'après-midi, une tablette de chocolat faite de cacao broyé dans le Johor. La fabrication agroalimentaire (F&B) est l'une des grandes industries les plus discrètes du pays : moins glamour que les semi-conducteurs, mais profondément tissée dans la vie quotidienne, la sécurité alimentaire nationale et un récit d'exportation croissant bâti autour d'une idée puissante — le halal.

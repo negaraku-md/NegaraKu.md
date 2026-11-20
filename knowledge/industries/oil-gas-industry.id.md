@@ -91,6 +91,14 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'Aerial view of the Bintulu LNG export jetty in Sarawak: a concrete platform on steel piles carrying clusters of tall marine loading arms and pipework over turquoise sea, with the port and gas-plant skyline behind'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
 ---
 
 Setiap barel minyak dan setiap kaki kubik gas di bawah tanah dan dasar laut Malaysia, menurut undang-undang, adalah milik satu perusahaan saja. Bukan pemerintah secara langsung, bukan penemu lapangan itu, bukan juga perusahaan multinasional yang mengebornya — melainkan PETRONAS, perusahaan minyak nasional yang didirikan untuk memegang petroleum negara secara amanah. Pahami satu fakta itu dan segala-galanya tentang industri minyak dan gas Malaysia — bagaimana ia diregulasi, dibiayai, dipajaki dan dibagi — akan menjadi jelas.

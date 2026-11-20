@@ -98,6 +98,14 @@ keywords:
   - tàu hỗ trợ ngoài khơi
   - Bản thiết kế OGSE Quốc gia
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 Khi người ta hình dung về sự giàu có dầu khí của Malaysia, họ thường nghĩ đến dầu thô và khí dưới đáy biển ngoài khơi Terengganu, Sarawak và Sabah — những trữ lượng đã biến PETRONAS thành một trong những công ty năng lượng lớn nhất Châu Á. Nhưng hydrocarbon không tự nâng mình lên khỏi lòng đất. Đằng sau mỗi mỏ đang khai thác là một đội quân nhỏ các nhà thầu: các bãi hàn các giàn thép, các giàn khoan các giếng, các tàu chở thủy thủ đoàn và hàng hóa ra ngoài khơi, các kỹ sư thiết kế các cơ sở, và các kỹ thuật viên giữ cho tất cả vận hành. Hệ sinh thái đó là **ngành dịch vụ và thiết bị dầu khí (OGSE)**, và nó là một ngành lớn của Malaysia theo đúng nghĩa của nó.

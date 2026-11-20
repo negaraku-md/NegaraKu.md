@@ -100,6 +100,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 The rubber that built colonial Malaya no longer earns its keep in the plantation — it earns it on the factory floor. Malaysia still taps trees, but its rubber fortune now rides on the medical gloves, tyres and latex goods it manufactures, a business that works through more rubber than the country itself grows.

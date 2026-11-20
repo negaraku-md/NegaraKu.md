@@ -98,6 +98,14 @@ keywords:
   - 해양 지원 선박
   - 국가 OGSE 청사진
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 사람들이 말레이시아의 석유·가스 부(富)를 떠올릴 때, 대개 트렝가누·사라왁·사바 앞바다 해저의 원유와 가스 — PETRONAS를 아시아 최대 에너지 기업 중 하나로 만든 매장량 — 를 생각합니다. 그러나 탄화수소는 스스로 땅에서 나오지 않습니다. 생산 중인 모든 유전 뒤에는 작은 계약업체 군단이 있습니다. 강철 플랫폼을 용접하는 야드, 유정을 뚫는 시추 장비, 해상으로 작업자와 화물을 나르는 선박, 설비를 설계하는 엔지니어, 그리고 이 모든 것을 돌아가게 하는 기술자들입니다. 그 생태계가 **석유·가스 서비스·장비(OGSE) 산업**이며, 그 자체로 말레이시아의 주요 산업입니다.

@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 Di sebalik hampir setiap bangunan, jambatan dan lebuh raya di Malaysia terdapat industri yang lebih senyap yang membuat logam yang menyokong semuanya. Besi dan keluli jarang menjadi tajuk utama seperti semikonduktor atau minyak sawit, namun ia asasi: bar tetulang di dalam tiang konkrit, dawai dalam kabel, kepingan dalam pintu kereta. Malaysia membuat banyak daripadanya sendiri — dan, dalam beberapa logam, benar-benar bertaraf dunia. Tetapi belahan keluli dalam kisah ini juga ialah salah satu sektor pembuatan negara yang paling bermasalah, ditakrifkan oleh ketidakpadanan degil antara berapa banyak yang mampu dikeluarkannya dan berapa banyak yang sebenarnya diperlukan pasaran.

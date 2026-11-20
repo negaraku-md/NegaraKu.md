@@ -104,6 +104,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 Un solo envío de aceite de palma malasio tiene ahora que responder a tres reglamentos distintos a la vez: un esquema nacional obligatorio en casa, un club voluntario de compradores en la sala de juntas y una ley europea sobre deforestación que puede bloquearlo en el puerto. Para una industria que embarcó 22.30 millones de toneladas de aceite de palma y productos a base de palma solo en los diez primeros meses de 2024 — generando RM89.39 mil millones — el papeleo ya no es una formalidad. Es acceso al mercado.

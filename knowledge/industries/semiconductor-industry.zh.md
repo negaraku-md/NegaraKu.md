@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 如果你正用手机或笔记本电脑阅读本文，那么其中某一颗芯片很有可能有一段「生命」是在马来西亚度过的——不是在这里被发明或印制，而是从一片光秃秃的硅片，被加工成一个封装完成、可随时焊接到电路板上的成品组件。正是这个安静而不起眼的环节，让马来西亚在整个电子业界建立起最举足轻重的地位之一。

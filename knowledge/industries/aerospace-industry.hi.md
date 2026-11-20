@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["एयरोस्पेस", "aerospace", "MRO", "रखरखाव मरम्मत ओवरहॉल", "एयरो-विनिर्माण", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 एक विमान तूलूज़ या सिएटल में बनाया जा सकता है, पर अपने तीस-वर्षीय जीवन में कहीं न कहीं उसके इंजन खोलने, उसकी संरचना की जाँच करने और उसके एवियॉनिक्स को ताज़ा करने की ज़रूरत पड़ेगी — और बढ़ते हुए, मलेशिया चाहता है कि वह काम सुबांग (Subang) या सिनाई (Senai) में हो। किसी भी असेंबली लाइन से अधिक, यही प्रवृत्ति देश के एयरोस्पेस क्षेत्र की आकृति को समझाती है।

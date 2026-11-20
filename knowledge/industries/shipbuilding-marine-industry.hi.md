@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 मलेशिया दुनिया के दो सबसे व्यस्त समुद्री मार्गों पर बैठा है और अपनी आजीविका का एक बड़ा हिस्सा समुद्र से कमाता है — फिर भी इसका जहाज़-निर्माण एवं जहाज़-मरम्मत (SBSR) उद्योग राष्ट्रीय अर्थव्यवस्था के शांत कोनों में से एक है। यह वास्तविक, दीर्घ-स्थापित और रणनीतिक रूप से महत्वपूर्ण है, लेकिन खंडित, चक्रीय और अपेक्षाकृत छोटे शिपयार्डों के प्रभुत्व वाला भी। यह मार्गदर्शिका बताती है कि उद्योग क्या बनाता है, कहाँ, यह कितना बड़ा है, और क्यों एक नौसैनिक कार्यक्रम सार्वजनिक बहस में पूरे क्षेत्र पर छा गया है।

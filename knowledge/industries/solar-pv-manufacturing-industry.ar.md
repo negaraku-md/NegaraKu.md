@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 قلّة تدرك أنه حين يركّب صاحب منزل أو مرفق أمريكي منظومة شمسية، فقد تكون الألواح صُنعت في ماليزيا. فلأكثر من عقد ظلّت البلاد بهدوء من أكبر منتجي الخلايا والوحدات الكهروضوئية الشمسية (PV) في العالم — لا لتغذية شبكتها، بل للتصدير. إنها صناعة مصانع، لا تعرفات تشجيعية.

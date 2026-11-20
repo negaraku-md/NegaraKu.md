@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 Sedikit orang menyadari bahwa ketika seorang pemilik rumah atau utilitas Amerika memasang susunan panel surya, panel itu boleh jadi dibuat di Malaysia. Selama lebih dari satu dekade negara ini diam-diam menjadi salah satu produsen sel dan modul fotovoltaik (PV) surya terbesar dunia — bukan untuk menggerakkan jaringan listriknya sendiri, melainkan untuk diekspor. Ini adalah industri pabrik, bukan feed-in tariff.

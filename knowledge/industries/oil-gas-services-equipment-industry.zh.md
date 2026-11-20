@@ -98,6 +98,14 @@ keywords:
   - 海上支援船
   - 国家 OGSE 蓝图
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 当人们想象马来西亚的油气财富时，通常会想到登嘉楼、砂拉越与沙巴近海海床之下的原油与天然气——那些让国家石油公司成为亚洲最大能源公司之一的储量。但碳氢化合物不会自己从地下冒出来。在每一个生产油田背后，都坐着一支承包商大军：焊接钢制平台的建造厂、钻探油井的平台、在海上运送船员与货物的船舶、设计设施的工程师，以及让这一切持续运转的技术人员。这个生态系统就是**油气服务与设备（OGSE）产业**，它本身就是马来西亚的一个重要产业。

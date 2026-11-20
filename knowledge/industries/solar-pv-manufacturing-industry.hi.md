@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 बहुत कम लोग समझते हैं कि जब कोई अमेरिकी गृहस्वामी या उपयोगिता सोलर ऐरे स्थापित करती है, तो पैनल अच्छी तरह से मलेशिया में बने हो सकते हैं। एक दशक से अधिक समय से यह देश चुपचाप सोलर फ़ोटोवोल्टिक (PV) सेल और मॉड्यूल के दुनिया के सबसे बड़े उत्पादकों में से एक रहा है — अपने ग्रिड को बिजली देने के लिए नहीं, बल्कि निर्यात के लिए। यह कारखानों का उद्योग है, फ़ीड-इन टैरिफ़ का नहीं।

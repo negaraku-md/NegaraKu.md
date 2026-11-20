@@ -108,6 +108,14 @@ relations:
 related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
 framework: profile
+hero: '/media/industries/automotive-industry/hero.webp'
+heroAlt: 'A white Proton Saga sedan with the Proton tiger-head badge on its grille, parked outdoors'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
 ---
 
 像马来西亚这样规模的国家，鲜有从零打造汽车的先例。拥有两个本土品牌、停满全国大多数车道的更是凤毛麟角。驱车穿过任何一座马来西亚城镇，车流就在诉说一段刻意为之的工业政策：红绿灯前的一辆第二国产车Myvi，后面跟着一辆普腾Saga，两者都源自1980年代的一场豪赌——一个发展中经济体也能制造自己的汽车。

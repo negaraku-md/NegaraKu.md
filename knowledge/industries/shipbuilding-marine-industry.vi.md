@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 Malaysia nằm trên hai trong số những tuyến hàng hải bận rộn nhất thế giới và kiếm sống phần lớn từ biển — thế nhưng ngành đóng tàu và sửa chữa tàu (SBSR) của nó là một trong những góc lặng lẽ hơn của nền kinh tế quốc gia. Nó có thật, lâu đời và quan trọng về chiến lược, nhưng cũng phân mảnh, theo chu kỳ và bị thống trị bởi các xưởng tương đối nhỏ. Hướng dẫn này giải thích ngành đóng gì, ở đâu, lớn đến đâu, và vì sao một chương trình hải quân đã che phủ cả lĩnh vực trong tranh luận công chúng.

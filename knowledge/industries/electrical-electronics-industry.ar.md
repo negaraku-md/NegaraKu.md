@@ -98,6 +98,14 @@ relations:
 related: ["penang", "mida"]
 keywords: ["صناعة E&E", "E&E industry", "الكهرباء والإلكترونيات", "electrical and electronics", "التصنيع في ماليزيا", "Malaysia manufacturing", "إلكترونيات بينانغ", "Penang electronics", "أشباه الموصلات", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
 ---
 
 افتح أي حاسوب محمول أو هاتف ذكي أو سيارة صُنعت في العقد الأخير تقريباً، وثمة احتمال معقول أن جزءاً منها مرّ عبر ماليزيا. فالرقاقة بداخلها ربما اختُبرت وغُلِّفت في بينانغ (Penang)؛ وربما جُمِّع محوّل الطاقة أو الإضاءة الخلفية LED أو لوحة الدوائر في كوليم أو ملقا أو وادي كلانغ. وبالنسبة إلى بلد يبلغ عدد سكانه نحو 34.1 مليون نسمة (2024، DOSM)، تقع ماليزيا عند نقطة مركزية على نحو مفاجئ في سلسلة توريد الإلكترونيات العالمية — وذلك في معظمه قصة صناعة واحدة.

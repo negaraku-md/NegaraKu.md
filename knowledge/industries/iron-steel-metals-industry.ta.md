@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 மலேசியாவில் ஏறக்குறைய ஒவ்வொரு கட்டிடம், பாலம் மற்றும் நெடுஞ்சாலைக்குப் பின்னால், அவை அனைத்தையும் தாங்கி நிற்கும் உலோகத்தைத் தயாரிக்கும் ஒரு அமைதியான தொழில் உள்ளது. அரைக்கடத்திகள் அல்லது பனை எண்ணெய் செய்வது போல இரும்பு மற்றும் எஃகு அரிதாகவே தலைப்புச் செய்தியாகின்றன, இருப்பினும் அவை அடித்தளமானவை: ஒரு கான்கிரீட் தூணுக்குள் உள்ள வலுவூட்டும் கம்பி, ஒரு கேபிளில் உள்ள கம்பி, ஒரு கார் கதவில் உள்ள தாள். மலேசியா இதில் பெரும்பகுதியைத் தானே தயாரிக்கிறது — மேலும், சில உலோகங்களில், உண்மையிலேயே உலகத் தரத்தில் உள்ளது. ஆனால் எஃகு பாதிக் கதை நாட்டின் மிகவும் சிக்கலான உற்பத்தித் துறைகளில் ஒன்றாகும், அது எவ்வளவு உற்பத்தி செய்ய முடியும் மற்றும் சந்தைக்கு உண்மையில் எவ்வளவு தேவை என்பதற்கிடையிலான ஒரு பிடிவாதமான பொருந்தாமையால் வரையறுக்கப்படுகிறது.

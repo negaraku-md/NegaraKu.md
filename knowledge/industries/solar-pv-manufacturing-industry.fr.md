@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 Peu de gens réalisent que lorsqu'un propriétaire ou un service public américain installe un système solaire, les panneaux ont bien pu être fabriqués en Malaisie. Depuis plus d'une décennie, le pays est discrètement l'un des plus grands producteurs mondiaux de cellules et modules solaires photovoltaïques (PV) — non pas pour alimenter son propre réseau, mais pour exporter. C'est une industrie d'usines, pas de tarifs de rachat.

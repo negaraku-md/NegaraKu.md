@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 พูดว่า "โรงงานมาเลเซีย" แล้วคนส่วนใหญ่นึกภาพห้องปลอดฝุ่นเซมิคอนดักเตอร์ในปีนัง (Penang) หรือสายการผลิต Proton ในชาห์อาลัม (Shah Alam) นั่นเป็นเรื่องจริงและใหญ่ — แต่มันตั้งอยู่บนฐานอุตสาหกรรมที่กว้างกว่ามาก ในปี 2024 ทั้งภาคขับเคลื่อนยอดขาย RM1.9 ล้านล้านและรักษาคนราว 2.4 ล้านคนไว้ในการทำงาน และส่วนใหญ่ของนั้นมาจากเครื่องจักร พลาสติก ยาง เครื่องมือแพทย์ เคมีภัณฑ์ และอาหารบนชั้นวางซูเปอร์มาร์เก็ต

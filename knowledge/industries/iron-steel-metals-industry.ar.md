@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 خلف كل مبنى وجسر وطريق سريع في ماليزيا تقريبًا تجلس صناعة أهدأ تصنع المعدن الذي يسند ذلك كلّه. فالحديد والصلب نادرًا ما يتصدّران العناوين كأشباه الموصّلات أو زيت النخيل، ومع ذلك فهما أساسيّان: قضيب التسليح داخل عمود خرساني، والسلك في كابل، والصفيحة في باب سيارة. وتصنع ماليزيا كثيرًا من هذا بنفسها — وفي معادن قليلة هي من الطراز العالمي حقًا. لكن نصف القصة الفولاذي هو أيضًا أحد أكثر قطاعات التصنيع اضطرابًا في البلاد، يحدّده خللٌ عنيد بين قدر ما تستطيع إنتاجه وقدر ما تحتاجه السوق فعلًا.

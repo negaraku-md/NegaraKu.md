@@ -104,6 +104,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
 ---
 
 如今，一批马来西亚棕榈油货物必须同时应对三套不同的规则手册：国内的强制性国家计划、董事会里的自愿性买方俱乐部，以及一部可在港口将其拒之门外的欧洲毁林法。对于一个仅在 2024 年前十个月就出口了 2230 万吨棕榈油及棕榈基产品、赚取 893.9 亿令吉的行业而言，这些文书工作已不再是形式上的例行公事。它就是市场准入。

@@ -91,6 +91,14 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
 ---
 
 Gần như mọi điện thoại, laptop và ô tô trên Trái Đất đều mang một con chip đã trải qua một phần đời của nó ở Malaysia — được đóng gói, kiểm thử và vận chuyển từ một nhà máy ở Penang hay Thung lũng Klang. Tuy nhiên trong năm mươi năm đất nước làm lát cắt kém hào nhoáng nhất, biên lợi nhuận thấp nhất của công việc đó: hậu kỳ. Chiến lược Bán dẫn Quốc gia là nỗ lực của Malaysia nhằm thay đổi phần nào của con chip mà nó sở hữu.

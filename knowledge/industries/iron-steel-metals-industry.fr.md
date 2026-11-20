@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 Derrière presque chaque bâtiment, pont et autoroute de la Malaisie se trouve une industrie plus discrète qui fabrique le métal qui soutient l'ensemble. Le fer et l'acier font rarement la une comme les semi-conducteurs ou l'huile de palme, pourtant ils sont fondamentaux : la barre d'armature à l'intérieur d'un poteau de béton, le fil dans un câble, la tôle dans une portière de voiture. La Malaisie en fabrique une grande partie elle-même — et, pour quelques métaux, elle est véritablement de classe mondiale. Mais la moitié « acier » de l'histoire est aussi l'un des secteurs manufacturiers les plus en difficulté du pays, défini par un décalage tenace entre ce qu'il peut produire et ce dont le marché a réellement besoin.

@@ -101,6 +101,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 Cao su đã dựng nên Malaya thuộc địa không còn kiếm sống trong đồn điền — nó kiếm sống trên sàn nhà máy. Malaysia vẫn cạo mủ cây, nhưng vận may cao su của nó nay dựa vào những chiếc găng tay y tế, lốp xe và hàng mủ cao su mà nó chế tạo, một ngành kinh doanh xử lý nhiều cao su hơn cả những gì đất nước tự trồng.

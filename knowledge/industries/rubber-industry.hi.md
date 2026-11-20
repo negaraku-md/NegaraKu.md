@@ -102,6 +102,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 जिस रबर ने औपनिवेशिक मलाया को खड़ा किया, वह अब वृक्षारोपण में अपनी रोटी नहीं कमाता — वह कारखाने के फर्श पर कमाता है। मलेशिया अब भी पेड़ों का दोहन करता है, लेकिन इसका रबर-भाग्य अब उन चिकित्सा दस्ताने, टायर और लेटेक्स उत्पादों पर सवार है जो यह बनाता है, एक ऐसा कारोबार जो देश द्वारा उगाए जाने वाले रबर से अधिक रबर खपाता है।

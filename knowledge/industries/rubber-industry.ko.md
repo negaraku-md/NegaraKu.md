@@ -101,6 +101,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 식민지 시대 말라야(Malaya)를 세운 고무는 더 이상 농장에서 생계를 벌지 않습니다 — 이제 공장 바닥에서 법니다. 말레이시아는 여전히 나무를 채취하지만, 그 고무의 부(富)는 이제 이 나라가 제조하는 의료용 장갑, 타이어, 라텍스 제품에 올라타 있으며, 이는 이 나라가 스스로 재배하는 것보다 더 많은 고무를 소비하는 사업입니다.

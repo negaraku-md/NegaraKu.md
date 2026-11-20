@@ -102,6 +102,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 Karet yang membangun Tanah Melayu zaman penjajahan tidak lagi memberi hasil di perkebunan — ia memberi hasil di lantai pabrik. Malaysia masih menyadap pohon, tetapi kekayaan karetnya kini bergantung pada sarung tangan medis, ban dan barang lateks yang diproduksinya, satu bisnis yang memproses lebih banyak karet daripada yang ditanam oleh negara itu sendiri.

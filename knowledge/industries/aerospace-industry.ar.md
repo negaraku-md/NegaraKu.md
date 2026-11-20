@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["صناعة الطيران", "aerospace", "MRO", "الصيانة والإصلاح والعُمرة", "تصنيع مكوّنات الطيران", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 قد تُبنى الطائرة في تولوز أو سياتل، لكن في مرحلة ما خلال عمرها الممتد ثلاثين عامًا ستحتاج إلى فتح محركاتها، وفحص هيكلها، وتحديث أجهزة الطيران فيها (avionics) — وتريد ماليزيا، بصورة متزايدة، أن يُنجَز ذلك العمل في سوبانغ (Subang) أو سيناي (Senai). وهذه النزعة، أكثر من أي خط تجميع، تفسّر شكل قطاع الطيران في البلاد.

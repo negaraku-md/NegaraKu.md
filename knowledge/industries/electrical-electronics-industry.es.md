@@ -98,6 +98,14 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
 ---
 
 Abra casi cualquier portátil, teléfono inteligente o automóvil fabricado en la última década y hay una probabilidad razonable de que una pieza de él haya pasado por Malasia. El chip de su interior puede haber sido probado y empaquetado en Penang; el adaptador de corriente, la retroiluminación LED o la placa de circuito pueden haber sido ensamblados en Kulim, Melaka o el Valle de Klang. Para un país de unos 34.1 millones de habitantes (2024, DOSM), Malasia ocupa un lugar sorprendentemente central en la cadena de suministro mundial de electrónica — y eso es, casi por completo, la historia de una sola industria.

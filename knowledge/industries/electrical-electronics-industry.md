@@ -97,6 +97,14 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
 ---
 
 Open almost any laptop, smartphone or car built in the last decade and there is a decent chance a piece of it passed through Malaysia. The chip inside might have been tested and packaged in Penang; the power adapter, the LED backlight or the circuit board could have been assembled in Kulim, Melaka or the Klang Valley. For a country of about 34.1 million people (2024, DOSM), Malaysia sits at a surprisingly central point in the world's electronics supply chain — and that is almost entirely the story of one industry.

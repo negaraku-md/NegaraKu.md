@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 あなたが今これをスマートフォンやノートパソコンで読んでいるなら、そのチップの一つが人生の一部をマレーシアで過ごした可能性は十分にある――発明されたり、刷られたりしたのではなく、むき出しのシリコンの薄片から、回路基板にはんだ付けできる完成したパッケージ済み部品へと変えられたのだ。その静かで、華やかさのない工程こそ、マレーシアがエレクトロニクスの世界全体の中で最も重要な地位の一つを築いてきた場所である。

@@ -102,6 +102,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
 ---
 
 Ít người nhận ra rằng khi một chủ nhà hoặc công ty điện lực Mỹ lắp đặt một dàn pin mặt trời, các tấm pin rất có thể đã được làm ở Malaysia. Trong hơn một thập kỷ, đất nước này đã âm thầm là một trong những nhà sản xuất tế bào và mô-đun quang điện mặt trời (PV) lớn nhất thế giới — không phải để cấp điện cho lưới của chính mình, mà để xuất khẩu. Đây là một ngành của các nhà máy, không phải của giá mua điện.

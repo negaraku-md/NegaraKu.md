@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 マレーシアのほぼすべての建物、橋、幹線道路の背後には、それらすべてを支える金属を作る、より静かな産業がある。鉄鋼は半導体やパーム油のように見出しを飾ることはめったにないが、基盤的な存在だ。コンクリート柱の中の異形棒鋼、ケーブルの中の線材、車のドアの中のシート。マレーシアはその多くを自前で作っており――いくつかの金属では、本当に世界水準である。だが物語の鉄鋼の半分は、同国で最も問題を抱える製造部門の一つでもある。それは、どれだけ生産できるかと、市場が実際にどれだけ必要とするかとの、根深いミスマッチによって特徴づけられている。

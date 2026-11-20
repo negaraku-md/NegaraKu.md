@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 มาเลเซียตั้งอยู่บนเส้นทางเดินเรือที่พลุกพล่านที่สุดสองสายของโลกและหาเลี้ยงชีพส่วนใหญ่จากทะเล — ทว่าอุตสาหกรรมต่อเรือและซ่อมเรือ (SBSR) ของประเทศเป็นหนึ่งในมุมที่เงียบกว่าของเศรษฐกิจของชาติ มันเป็นของจริง ก่อตั้งมานาน และมีความสำคัญเชิงยุทธศาสตร์ แต่ก็กระจัดกระจาย เป็นวัฏจักร และถูกครอบงำด้วยอู่ที่ค่อนข้างเล็ก คู่มือนี้อธิบายว่าอุตสาหกรรมต่ออะไร ที่ไหน มีขนาดใหญ่เพียงใด และเหตุใดโครงการกองทัพเรือหนึ่งจึงบดบังทั้งภาคในการถกเถียงสาธารณะ

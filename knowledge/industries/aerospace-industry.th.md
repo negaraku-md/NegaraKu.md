@@ -82,6 +82,14 @@ relations:
 related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
 ---
 
 อากาศยานลำหนึ่งอาจถูกสร้างขึ้นที่เมืองตูลูส (Toulouse) หรือซีแอตเทิล (Seattle) แต่ในช่วงอายุการใช้งานสามสิบปีของมัน ที่ใดที่หนึ่งย่อมต้องมีการเปิดเครื่องยนต์ ตรวจสอบโครงสร้าง และปรับปรุงระบบการบิน (avionics) ให้ทันสมัย — และมาเลเซียต้องการให้งานนั้นทำที่ซูบัง (Subang) หรือเซไน (Senai) มากขึ้นเรื่อย ๆ สัญชาตญาณนี้เอง มากกว่าสายการประกอบใด ๆ ที่อธิบายรูปร่างของภาคการบินและอวกาศของประเทศ

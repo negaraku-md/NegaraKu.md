@@ -95,6 +95,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 If you are reading this on a phone or laptop, there is a real chance one of its chips spent part of its life in Malaysia — not being invented or printed, but being turned from a bare slice of silicon into a finished, packaged component ready to solder onto a circuit board. That quiet, unglamorous step is where Malaysia has built one of the most consequential positions in the entire electronics world.

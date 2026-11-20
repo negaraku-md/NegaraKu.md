@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 मलेशिया की लगभग हर इमारत, पुल और राजमार्ग के पीछे एक शांत उद्योग है जो उन सबको थामे रखने वाली धातु बनाता है। लौह और इस्पात शायद ही कभी अर्धचालकों या पाम तेल की तरह सुर्खियाँ बनाते हैं, फिर भी वे बुनियादी हैं: एक कंक्रीट स्तंभ के भीतर की रीइन्फोर्सिंग बार, एक केबल में तार, एक कार के दरवाज़े में शीट। मलेशिया इसका एक बड़ा हिस्सा स्वयं बनाता है — और, कुछ धातुओं में, वास्तव में विश्व-स्तरीय है। लेकिन कहानी का इस्पात-वाला आधा हिस्सा देश के सबसे परेशान विनिर्माण क्षेत्रों में से एक भी है, जिसे वह कितना उत्पादन कर सकता है और बाज़ार को वास्तव में कितनी ज़रूरत है, इनके बीच के एक ज़िद्दी बेमेल से परिभाषित किया जाता है।

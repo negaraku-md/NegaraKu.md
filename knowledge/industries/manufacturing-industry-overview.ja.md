@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 「マレーシアの工場」と言われて多くの人が思い浮かべるのは、ペナンの半導体クリーンルームか、シャー・アラムのProtonの生産ラインだろう。どちらも実在し、規模も大きい——しかしそれらは、はるかに広い産業基盤の上に成り立っているにすぎない。2024年、産業全体でRM1.9兆の売上を動かし、およそ240万人の雇用を維持しており、そのかなりの部分は機械、プラスチック、ゴム、医療機器、化学、そしてスーパーの棚に並ぶ食品から生まれている。

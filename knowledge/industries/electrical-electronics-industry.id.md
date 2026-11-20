@@ -98,6 +98,14 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
 ---
 
 Buka hampir laptop, ponsel pintar atau mobil mana pun yang dibuat dalam satu dekade terakhir, dan ada kemungkinan besar sebagian darinya pernah melewati Malaysia. Cip di dalamnya mungkin telah diuji dan dikemas di Pulau Pinang; adaptor dayanya, lampu latar LED atau papan sirkuitnya mungkin telah dirakit di Kulim, Melaka atau Lembah Klang. Bagi sebuah negara berpenduduk sekitar 34,1 juta orang (2024, DOSM), Malaysia berada pada titik yang mengejutkan pentingnya dalam rantai pasok elektronik dunia — dan itu hampir seluruhnya kisah satu industri.

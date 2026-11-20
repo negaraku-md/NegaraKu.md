@@ -98,6 +98,14 @@ keywords:
   - கடல்சார் ஆதரவு கப்பல்கள்
   - தேசிய OGSE வரைபடம்
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 மக்கள் மலேசியாவின் எண்ணெய் மற்றும் வாயு செல்வத்தை கற்பனை செய்யும்போது, அவர்கள் பொதுவாக Terengganu, Sarawak மற்றும் Sabah கடற்கரையில் கடல்தரைக்கு அடியில் உள்ள கச்சா எண்ணெய் மற்றும் வாயு பற்றி நினைக்கிறார்கள் — PETRONAS ஐ ஆசியாவின் மிகப்பெரிய ஆற்றல் நிறுவனங்களில் ஒன்றாக ஆக்கிய இருப்புகள். ஆனால் ஹைட்ரோகார்பன்கள் தாங்களாகவே தரையிலிருந்து தூக்கிக்கொள்வதில்லை. ஒவ்வொரு உற்பத்தி செய்யும் களத்திற்குப் பின்னாலும் ஒப்பந்தக்காரர்களின் ஒரு சிறிய படை அமர்ந்துள்ளது: எஃகு தளங்களை பற்றவைக்கும் முற்றங்கள், கிணறுகளைத் துளையிடும் ரிக்குகள், குழுக்கள் மற்றும் சரக்குகளை கடலுக்கு எடுத்துச் செல்லும் கப்பல்கள், வசதிகளை வடிவமைக்கும் பொறியாளர்கள், மற்றும் அதையெல்லாம் இயங்கவைக்கும் தொழில்நுட்பவியலாளர்கள். அந்தச் சூழல்தொகுதிதான் **எண்ணெய் மற்றும் வாயு சேவைகள் மற்றும் உபகரண (OGSE) தொழில்**, மேலும் இது அதன் சொந்த உரிமையில் ஒரு முக்கிய மலேசியத் தொழிலாகும்.

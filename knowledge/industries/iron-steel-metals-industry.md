@@ -98,6 +98,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
 ---
 
 Behind almost every building, bridge and highway in Malaysia is a quieter industry that makes the metal holding it all up. Iron and steel rarely make headlines the way semiconductors or palm oil do, yet they are foundational: the reinforcing bar inside a concrete column, the wire in a cable, the sheet in a car door. Malaysia makes a great deal of this itself — and, in a few metals, is genuinely world-class. But the steel half of the story is also one of the country's most troubled manufacturing sectors, defined by a stubborn mismatch between how much it can produce and how much the market actually needs.

@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 “மலேசிய தொழிற்சாலை” என்று சொன்னால், பெரும்பாலானோர் Penang-இல் ஒரு குறைக்கடத்தி க்ளீன்ரூமையோ அல்லது Shah Alam-இல் ஒரு Proton உற்பத்தி வரிசையையோ கற்பனை செய்வர். அவை உண்மையானவை, அவை பெரியவையும் கூட — ஆனால் அவை மிகவும் விரிவான ஒரு தொழில்துறை அடித்தளத்தின் மேல் அமர்ந்திருக்கின்றன. 2024 இல் முழுத் துறையும் RM1.9 trillion விற்பனையை நகர்த்தி, சுமார் 24 லட்சம் பேரை வேலையில் வைத்திருந்தது; அதில் பெரும் பங்கு இயந்திரங்கள், பிளாஸ்டிக், ரப்பர், மருத்துவ கருவிகள், இரசாயனங்கள் மற்றும் பல்பொருள் அங்காடி அலமாரிகளில் உள்ள உணவுப் பொருட்களில் இருந்து வந்தது.

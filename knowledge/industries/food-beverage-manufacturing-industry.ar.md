@@ -105,6 +105,14 @@ keywords:
   - "قانون الأغذية 1983"
   - "حوافز الأغذية MIDA"
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 يكاد كل شخص في ماليزيا يلامس هذه الصناعة عدة مرات يوميًا — كوب Milo في الفطور، وكيس نودلز سريعة التحضير في الغداء، وزجاجة ماء معدني بعد الظهر، ولوح شوكولاتة مصنوع من كاكاو طُحن في جوهور. فتصنيع الأغذية والمشروبات (F&B) إحدى صناعات البلاد الكبيرة الهادئة: أقلّ بريقًا من أشباه الموصلات، لكنه متجذّر بعمق في الحياة اليومية والأمن الغذائي الوطني وقصة تصدير متنامية مبنيّة على فكرة واحدة قوية — الحلال.

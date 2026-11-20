@@ -99,6 +99,14 @@ keywords:
   - พระราชบัญญัติอาหาร 1983
   - สิทธิประโยชน์อาหารของ MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
 ---
 
 เกือบทุกคนในมาเลเซียสัมผัสอุตสาหกรรมนี้หลายครั้งต่อวัน — Milo สักแก้วตอนเช้า บะหมี่กึ่งสำเร็จรูปสักซองตอนกลางวัน น้ำแร่สักขวดตอนบ่าย ช็อกโกแลตสักแท่งที่ทำจากโกโก้ที่บดในยะโฮร์ การผลิตอาหารและเครื่องดื่ม (F&B) เป็นหนึ่งในอุตสาหกรรมใหญ่ที่เงียบที่สุดของประเทศ: ดูหวือหวาน้อยกว่าเซมิคอนดักเตอร์ แต่ทอแน่นอยู่ในชีวิตประจำวัน ความมั่นคงทางอาหารของชาติ และเรื่องราวการส่งออกที่เติบโตขึ้นรอบความคิดอันทรงพลังหนึ่งเดียว — ฮาลาล

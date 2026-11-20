@@ -101,6 +101,14 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
 ---
 
 El aceite de palma es el aceite vegetal más comercializado del mundo, y Malasia es su segundo mayor productor —por detrás de Indonesia—, convirtiendo un racimo espinoso de fruta roja cultivado desde Johor hasta las colinas de Sarawak en aceite de cocina refinado, ingredientes para jabón y biodiésel que se envían a mercados de toda Asia, África y Europa. La industria sostiene a más de 3 millones de malasios de forma directa e indirecta, incluidos casi 500,000 pequeños agricultores, según el Consejo del Aceite de Palma de Malasia (MPOC). Así es como está construida esa maquinaria, del árbol al buque cisterna.

@@ -99,6 +99,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
 ---
 
 La Malaisie est située sur deux des voies maritimes les plus fréquentées du monde et tire une grande partie de ses revenus de la mer — pourtant son industrie de construction et de réparation navales (SBSR) est l'un des coins les plus discrets de l'économie nationale. Elle est réelle, ancienne et stratégiquement importante, mais aussi fragmentée, cyclique et dominée par des chantiers relativement petits. Ce guide explique ce que l'industrie construit, où, quelle est sa taille, et pourquoi un seul programme militaire en est venu à éclipser tout le secteur dans le débat public.

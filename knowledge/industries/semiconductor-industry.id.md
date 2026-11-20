@@ -96,6 +96,14 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
 ---
 
 Jika Anda membaca ini di ponsel atau laptop, ada kemungkinan nyata bahwa salah satu chip-nya pernah menghabiskan sebagian masa hidupnya di Malaysia — bukan ditemukan atau dicetak, melainkan diubah dari sekadar irisan silikon menjadi komponen jadi yang terkemas, siap disolder ke papan sirkuit. Langkah yang tenang dan tidak glamor itulah tempat Malaysia membangun salah satu posisi paling berpengaruh di seluruh dunia elektronik.

@@ -98,6 +98,14 @@ keywords:
   - अपतटीय समर्थन जहाज़
   - National OGSE Blueprint
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
 ---
 
 जब लोग मलेशिया की तेल और गैस संपदा की कल्पना करते हैं, तो वे आमतौर पर तेरेंगानु, सरवाक और सबाह के तट पर समुद्र-तल के नीचे के कच्चे तेल और गैस के बारे में सोचते हैं — वे भंडार जिन्होंने PETRONAS को एशिया की सबसे बड़ी ऊर्जा कंपनियों में से एक बनाया। लेकिन हाइड्रोकार्बन खुद को ज़मीन से बाहर नहीं निकालते। हर उत्पादक क्षेत्र के पीछे ठेकेदारों की एक छोटी सेना बैठती है: वे यार्ड जो स्टील प्लेटफ़ॉर्म वेल्ड करते हैं, वे रिग जो कुएँ ड्रिल करते हैं, वे जहाज़ जो चालक दल और माल को अपतटीय ले जाते हैं, वे इंजीनियर जो सुविधाओं को डिज़ाइन करते हैं, और वे तकनीशियन जो यह सब चलाते रखते हैं। वह पारिस्थितिकी-तंत्र है **तेल एवं गैस सेवा और उपकरण (OGSE) उद्योग**, और यह अपने आप में एक प्रमुख मलेशियाई उद्योग है।

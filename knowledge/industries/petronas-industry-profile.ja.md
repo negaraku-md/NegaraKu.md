@@ -70,6 +70,14 @@ relations:
   - { rel: "part-of", to: "oil-and-gas-industry-malaysia" }
 related: ["petroleum-development-act-1974", "oil-gas-industry"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Petroleum Development Act 1974", "national oil company", "Malaysia oil and gas", "federal revenue", "government dividend"]
+hero: '/media/industries/petronas-industry-profile/hero.webp'
+heroAlt: 'The illuminated PETRONAS Twin Towers standing at the centre of the dense Kuala Lumpur skyline, linked by their skybridge and rising above the Suria KLCC mall, under an orange and blue dusk sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the PETRONAS Twin Towers, the national oil company''s headquarters, rising over the Kuala Lumpur skyline at dusk'
 ---
 
 マレーシア国内のどこで生産された石油の一バレルも、天然ガスの一立方フィートも、法律上はすべて一つの会社に帰属する——そしてその会社は、連邦政府が毎年受け取る中でも最大級の一枚の小切手を差し出している。

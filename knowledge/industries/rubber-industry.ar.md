@@ -102,6 +102,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["المطاط", "rubber", "المطاط الطبيعي", "natural rubber", "قفازات المطاط", "rubber gloves", "MARGMA", "مجلس المطاط الماليزي", "Malaysian Rubber Board", "لاتكس", "latex", "الإطارات", "tyres", "صغار الملّاك", "smallholders", "التصنيع في المصبّ", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 المطاط الذي بنى مالايا الاستعمارية لم يعد يكسب قُوته في المزرعة — بل يكسبه على أرضية المصنع. لا تزال ماليزيا تنصّت الأشجار، لكن ثروتها المطاطية تركب الآن على القفازات الطبية والإطارات والسلع اللاتكسية التي تصنعها، وهي أعمال تعالج مطاطاً أكثر مما يزرعه البلد نفسه.

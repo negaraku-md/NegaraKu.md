@@ -80,6 +80,14 @@ relations:
 related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
 ---
 
 Sebut "kilang Malaysia" dan kebanyakan orang membayangkan bilik bersih semikonduktor di Pulau Pinang atau barisan pengeluaran Proton di Shah Alam. Itu memang wujud, dan ia besar — tetapi ia hanya duduk di atas asas perindustrian yang jauh lebih luas. Pada 2024 keseluruhan sektor ini menggerakkan jualan RM1.9 trilion dan mengekalkan kira-kira 2.4 juta orang dalam pekerjaan, dan sebahagian besar daripadanya datang daripada jentera, plastik, getah, peranti perubatan, bahan kimia dan makanan di rak pasar raya.

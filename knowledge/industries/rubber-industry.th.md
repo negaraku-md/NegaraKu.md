@@ -101,6 +101,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
 ---
 
 ยางที่สร้างมาลายายุคอาณานิคมไม่หาเลี้ยงชีพในสวนอีกต่อไป — มันหาเลี้ยงชีพบนพื้นโรงงาน มาเลเซียยังกรีดต้นยาง แต่โชคลาภยางของมันปัจจุบันขี่อยู่บนถุงมือทางการแพทย์ ยางรถยนต์ และสินค้าลาเท็กซ์ที่มันผลิต ธุรกิจที่ใช้ยางมากกว่าที่ประเทศปลูกเอง
