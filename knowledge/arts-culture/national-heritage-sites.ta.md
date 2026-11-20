@@ -73,6 +73,14 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'The full Moorish-style facade of the Sultan Abdul Samad Building in Kuala Lumpur, its long arcade of brick arches running beneath a tall central clock tower and copper onion domes, viewed from the empty paved roadway of Merdeka Square under a pale sky'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
 ---
 
 ஜார்ஜ் டவுனில் (George Town) நூற்றாண்டு பழமையான ஒரு கடைவீடு, ஒரு கிரிஸ் (keris) கத்தி, ஓர் அரண்மனை நடனம், மற்றும் இன்னும் உயிருடன் இருக்கும் ஒரு [சொங்கட்](/ta/arts-culture/songket) (songket) நெய்பவர் — இந்நான்கும் மலேசியாவில் ஒரே சட்டப்பூர்வப் பட்டத்தைச் சுமக்க முடியும்: *தேசிய பாரம்பரியம் (Warisan Kebangsaan)*. இவற்றை இணைப்பது UNESCO பட்டியல் அல்ல, மாறாக அரிதாகவே பெயர் சொல்லப்படும் ஓர் உள்நாட்டுப் பதிவேடு: **தேசிய பாரம்பரியப் பதிவேடு (Daftar Warisan Kebangsaan)**.

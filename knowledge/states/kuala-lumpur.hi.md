@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["कुआलालंपुर", "Kuala Lumpur", "KL संघीय क्षेत्र", "KL federal territory", "बर्सा मलेशिया", "Bursa Malaysia", "पेट्रोनास ट्विन टावर्स", "Petronas Twin Towers", "क्लांग घाटी", "Klang Valley"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
 ---
 
 कुआलालंपुर मलेशिया की राष्ट्रीय राजधानी है, किंतु संवैधानिक रूप से यह कोई राज्य

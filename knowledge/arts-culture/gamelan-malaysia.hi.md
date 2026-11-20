@@ -77,6 +77,14 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "मलय गेमेलान", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "दरबारी संगीत", "राष्ट्रीय विरासत"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'A full Malay gamelan ensemble arranged under warm light, with rows of bronze kettle-gongs (bonang), a metallophone (saron) and large hanging gongs on carved wooden frames'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
 ---
 
 गेमेलान सेट एक दरबार से दूसरे दरबार में किसी बिक्री या ज़ब्ती के कारण नहीं गया — बल्कि विवाह के कारण। जब कोई राजकुमारी अपने पति के महल में जाती, तो वाद्ययंत्र, नर्तक और गीत उसके साथ चले जाते। इसी प्रकार गेमेलान मलय दरबारों की संपत्ति बना।

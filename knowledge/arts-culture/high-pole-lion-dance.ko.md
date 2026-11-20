@@ -74,6 +74,14 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
 ---
 
 북소리가 조여들자, 사자가 공중으로 솟구쳐 앞발이 사발 전만큼 가느다란 강철 장 위에 단단히 내려앉고, 사자 꼬리가 곧바로 뒤따른다——두 명의 연기자가 지면에서 두세 미터 높이, 높낮이가 다른 한 줄의 장 사이를 넘나들며 정지한다. 관객이 숨을 죽인 가운데, '살아난' 듯한 그 사자가 가장 높은 장 하나 위에 단단히 서자, 비로소 박수가 터져 나온다. 이것은 평지에서 펼치는 새해맞이 사자춤이 아니라, 채점이 있고 챔피언이 있으며 세계 랭킹이 있는 경기——고주 사자춤이다.

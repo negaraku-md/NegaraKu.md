@@ -65,6 +65,14 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["जोगेट", "ज़ापिन", "पारंपरिक मलय नृत्य", "जोगेट मलक्का", "ज़ापिन जोहोर", "गाम्बुस", "मरवास", "पुर्तगाली ब्रान्यो", "मलय लोकनृत्य", "Joget", "Zapin", "gambus", "marwas"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: 'Four Malay dancers mid-zapin on a wooden stage: two men in magenta-and-orange baju Melayu with black tengkolok caps gesture with open hands while two women in purple songket and sheer veils strike graceful arm poses under warm light.'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
 ---
 
 दो नर्तक गेंदांग (gendang) की ताल पर तेज़ी से चलते हैं — पैर थिरकते हैं, हाथ कोमलता से नाचते हैं। देखने वाले कई लोग इसे बस "मलय नृत्य" कह देते हैं, बिना यह भेद किए कि कौन-सा जोगेट है और कौन-सा ज़ापिन। पूछिए कि प्रत्येक कहाँ से आया, तो उत्तर हमें दुनिया के दो कोनों तक ले जाता है: एक मलक्का में एक पुर्तगाली व्यापारिक जहाज़ के डेक से, दूसरा हद्रमौत से निकले अरब प्रचारकों के काफ़िले से।

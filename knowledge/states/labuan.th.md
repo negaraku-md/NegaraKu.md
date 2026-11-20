@@ -70,6 +70,14 @@ relations:
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'The modern curved blue-glass and silver towers of the Financial Park Labuan complex rising above palm trees under a bright sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
 ---
 
 บริษัทสองแห่ง เจ้าของเดียวกัน ลูกค้าเดียวกัน แห่งหนึ่งจดทะเบียนในกัวลาลัมเปอร์ (Kuala Lumpur) และเสียภาษีนิติบุคคลภายใต้ Income Tax Act 1967 อีกแห่งจดทะเบียนบนเกาะที่อยู่ห่างจากชายฝั่งซาบาห์ 10 กิโลเมตร และถูกเก็บภาษีในอัตรา 3% ภายใต้พระราชบัญญัติของรัฐสภาที่แตกต่างกันโดยสิ้นเชิง

@@ -73,6 +73,14 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'The full Moorish-style facade of the Sultan Abdul Samad Building in Kuala Lumpur, its long arcade of brick arches running beneath a tall central clock tower and copper onion domes, viewed from the empty paved roadway of Merdeka Square under a pale sky'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
 ---
 
 Một dãy nhà phố trăm tuổi ở George Town, một thanh keris, một điệu múa cung đình, và một người thợ làm [songket](/vi/arts-culture/songket) vẫn còn sống — cả bốn đều có thể mang cùng một danh hiệu pháp lý ở Malaysia: *Di sản Quốc gia*. Cái ràng buộc họ không phải danh sách UNESCO, mà là một danh mục trong nước hiếm khi được gọi tên: **Danh mục Di sản Quốc gia**.

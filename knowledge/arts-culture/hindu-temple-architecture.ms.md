@@ -71,6 +71,14 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'A towering pyramidal South Indian temple gopuram rising to a point, every tier packed with colourful sculpted Hindu gods, horses and figures in reds, greens, blues and gold, photographed looking steeply upward against a blue sky with clouds'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
 ---
 
 Apabila anda menghampiri mana-mana kawasan di bandar Malaysia tempat sesebuah komuniti Tamil berakar umbi, sebuah menara penuh ukiran yang menjulang ke langit akan menarik perhatian dari jauh. Menara gerbang itu, dengan lapisan demi lapisan patung dewa-dewi yang berwarna-warni, bukanlah satu kebetulan — ia ialah kesinambungan sebuah tradisi seni bina berusia seribu tahun; tanda warisan budaya yang dibawa bersama oleh mereka yang berketurunan Tamil India Selatan ke Malaysia.

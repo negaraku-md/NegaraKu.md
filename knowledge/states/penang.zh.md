@@ -75,6 +75,14 @@ relations:
 related: []
 keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
 ---
 
 槟城的分量远超它的体型。它是马来西亚面积最小的州属之一，却也是全国最重要的制造业经济体之一，以及游客最多的旅游目的地之一。

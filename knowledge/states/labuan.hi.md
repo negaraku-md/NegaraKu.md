@@ -70,6 +70,14 @@ relations:
 related: []
 keywords: ["लाबुआन", "Labuan", "लाबुआन अंतरराष्ट्रीय व्यापार एवं वित्तीय केंद्र", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "संघीय क्षेत्र", "federal territory", "लाबुआन कंपनी", "Labuan company", "3% कर", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'The modern curved blue-glass and silver towers of the Financial Park Labuan complex rising above palm trees under a bright sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
 ---
 
 दो कंपनियाँ, वही मालिक, वही ग्राहक। एक कुआलालंपुर में निगमित है और आयकर अधिनियम

@@ -74,6 +74,14 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
 ---
 
 Begitu tabuhan gendang mengetat, singa itu melesat ke udara, kaki depannya mendarat kokoh di atas sebatang tiang baja yang hanya setipis bibir mangkuk, dan ekor singa segera menyusul — dua penari melompat dan berpose di antara sederet tiang dengan ketinggian berbeda, dua tiga meter dari tanah, penonton menahan napas, hingga singa yang seolah telah 'hidup' itu berdiri mantap di atas tiang tertinggi, barulah tepuk tangan membahana. Ini bukan tarian singa perayaan di atas tanah, melainkan olahraga yang memiliki penilaian, juara, dan peringkat dunia — tarian singa tiang tinggi.

@@ -75,6 +75,14 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'A pink Indian-style entrance arch topped with twin white elephant figures marking the lane into Kampung Chetti in Melaka, a small Hindu temple with a cream dome to the right and village houses with a Kampung Chetti sign along the quiet street under a blue sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
 ---
 
 ในหมู่บ้านเก่าแห่งหนึ่งที่ถนนกาจะฮ์เบอรัง (Jalan Gajah Berang) มะละกา มีครอบครัวกลุ่มหนึ่งที่กราบไหว้พระศิวะ แต่งกายอย่างชาวมลายู ปรุงแกงกลิ่นกะทิ และพูดภาษามลายูที่แทรกด้วยคำทมิฬ พวกเขาไม่ใช่อินเดีย ไม่ใช่มลายู ไม่ใช่จีน — พวกเขาคือเชตติมะละกา และจำนวนของพวกเขายิ่งน้อยลง

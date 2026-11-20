@@ -74,6 +74,14 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
 ---
 
 En cuanto el tambor se tensa, el león salta por los aires, sus patas delanteras aterrizan con firmeza sobre un poste de acero no más grueso que el borde de un cuenco, y la cola del león lo sigue de inmediato: dos ejecutantes saltan y posan entre una hilera de postes de distintas alturas, a dos o tres metros del suelo, mientras el público contiene la respiración, hasta que ese león que parece «vivo» se planta con firmeza sobre el poste más alto y entonces estalla el aplauso. No es la danza del león festiva a ras de suelo, sino un deporte con puntuaciones, campeones y clasificación mundial: la danza del león sobre postes altos.

@@ -83,6 +83,14 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["माक योंग", "Mak Yong", "पारंपरिक नृत्य-नाट्य", "अमूर्त सांस्कृतिक विरासत", "यूनेस्को मलेशिया", "UNESCO", "रबाब", "rebab", "केलंतान", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Four Mak Yong performers in gold and maroon traditional Malay costume on a darkened stage, one wearing a tall gilt crown and one in a white clown mask'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
 ---
 
 पहली ध्वनि किसी कलाकार से नहीं आती। वह आती है तीन तारों वाली, नाशपाती के आकार की एक लकड़ी से — एक रबाब — जिसे खुले लकड़ी के मंच के किनारे धीरे-धीरे गज से बजाया जाता है। दर्शक तीन ओर बैठते हैं। छत ताड़ के पत्तों की होती है। और संवाद की एक भी पंक्ति बोले जाने से पहले ही एक राजकुमारी उस वाद्य की ओर झुककर एक ऐसा नृत्य कर चुकी होती है जिसका नाम ही सब कुछ कह देता है: **मेंगादप रबाब (Mengadap Rebab)**।

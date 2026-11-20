@@ -77,6 +77,14 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "الغاملان الملايوي", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "موسيقى البلاط", "التراث الوطني"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'A full Malay gamelan ensemble arranged under warm light, with rows of bronze kettle-gongs (bonang), a metallophone (saron) and large hanging gongs on carved wooden frames'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
 ---
 
 انتقلت مجموعة الغاملان من بلاط إلى آخر لا بسبب بيع أو استيلاء — بل بسبب زواج. فحين كانت أميرة تنتقل إلى قصر زوجها، كانت الآلات والراقصون والأغاني تنتقل معها. وهكذا صار الغاملان ملكاً للبلاطات الملايوية.

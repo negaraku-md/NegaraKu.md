@@ -80,6 +80,14 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
 framework: history-culture
+hero: '/media/arts-culture/silat-melayu/hero.webp'
+heroAlt: 'Two Malay martial artists in black silat attire locked in a dynamic grapple on a mat, one kneeling and gripping the other''s arm while a curved keris blade is raised between them, against a dark backdrop reading Silat Performance and Silat Seni Gayong Club'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
 ---
 
 Một võ sĩ silat giỏi có thể bẻ gãy xương đối thủ — hoặc múa trước cô dâu chú rể mà không chạm vào ai. Cả hai đều là silat. Đó là điều khó hiểu nhất về nghệ thuật này: nó không chỉ là một phương pháp giao đấu, và cũng không chỉ là một điệu múa lễ. Nó là cả hai, trong cùng một thân thể, được vận hành bởi cùng những bước chân.

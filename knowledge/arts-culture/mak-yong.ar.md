@@ -83,6 +83,14 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["ماك يونغ", "Mak Yong", "مسرح الرقص التقليدي", "التراث الثقافي غير المادي", "اليونسكو ماليزيا", "UNESCO", "رباب", "rebab", "كلنتان", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Four Mak Yong performers in gold and maroon traditional Malay costume on a darkened stage, one wearing a tall gilt crown and one in a white clown mask'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
 ---
 
 لا يأتي الصوت الأول من مؤدٍّ، بل من قطعة خشبية على هيئة ثمرة الكمثرى بثلاثة أوتار — رباب — يُعزف ببطء عند حافة مسرح خشبي مكشوف. يجلس الجمهور على ثلاث جهات. والسقف من سعف النخيل. وقبل أن يُنطق سطر واحد من الحوار، تكون أميرة قد انحنت بالفعل نحو الآلة في رقصة يشرح اسمها وحده كل شيء: **مُنغادب رباب (Mengadap Rebab)**.

@@ -71,6 +71,14 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'A towering pyramidal South Indian temple gopuram rising to a point, every tier packed with colourful sculpted Hindu gods, horses and figures in reds, greens, blues and gold, photographed looking steeply upward against a blue sky with clouds'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
 ---
 
 マレーシアのどの町でも、タミル系の共同体が根を下ろした一角に近づくと、天に向かってそびえる彫像だらけの塔が、遠くからでも目に飛び込んできます。色とりどりの神像が幾重にも連なるその門塔は、偶然の産物ではありません——千年の歴史をもつ建築の伝統の継承であり、南インドのタミル系の人々がマレーシアへともに携えてきた文化的遺産の目印なのです。

@@ -62,6 +62,14 @@ relations:
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
 framework: history-culture
+hero: '/media/arts-culture/wayang-kulit/hero.webp'
+heroAlt: 'Intricately cut leather shadow puppets lined up and glowing against a bright lamp-lit screen, in the Kelantan-Patani Malay wayang kulit style'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
 ---
 
 ตะเกียงถูกจุดขึ้นก่อน หลังจอผ้าฝ้ายสีขาวที่ขึงตึงบนกรอบไม้ ชายคนหนึ่งนั่งขัดสมาธิ มีหุ่นหนังแบนวางซ้อนกันอยู่ในระยะที่เอื้อมถึงทั้งสองข้างของเขา วงดนตรีเล็ก ๆ ที่มีกลอง ฆ้อง และเซอรูไน (serunai) ลิ้นคู่เสียงแหลมรออยู่ด้านหลังเขา เขาจะไม่ลุกจากจุดนั้นตลอดทั้งคืน กว่าเงาสุดท้ายจะข้ามจอไปในอีกหลายชั่วโมงข้างหน้า เขาจะได้พากย์เสียงกษัตริย์ อสูร ตัวตลก และเจ้าหญิง บรรยายการเปลี่ยนฉาก และให้จังหวะแก่นักดนตรีทุกคน — เพียงลำพัง

@@ -80,6 +80,14 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "patrimoine culturel immatériel", "UNESCO Malaisie", "art martial", "silat harimau"]
 framework: history-culture
+hero: '/media/arts-culture/silat-melayu/hero.webp'
+heroAlt: 'Two Malay martial artists in black silat attire locked in a dynamic grapple on a mat, one kneeling and gripping the other''s arm while a curved keris blade is raised between them, against a dark backdrop reading Silat Performance and Silat Seni Gayong Club'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
 ---
 
 Un bon pesilat peut briser les os d'un adversaire — ou danser devant une mariée sans toucher personne. Les deux sont du silat. C'est là ce qu'il y a de plus difficile à saisir dans cet art : il n'est ni simplement une méthode de combat, ni simplement une danse cérémonielle. Il est les deux, dans le même corps, mû par les mêmes pas.

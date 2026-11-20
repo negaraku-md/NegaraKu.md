@@ -83,6 +83,14 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Four Mak Yong performers in gold and maroon traditional Malay costume on a darkened stage, one wearing a tall gilt crown and one in a white clown mask'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
 ---
 
 เสียงแรกไม่ได้มาจากนักแสดง มันมาจากไม้รูปทรงลูกแพร์ที่มีสายสามเส้น — เรอบับ (rebab) — ที่ถูกสีอย่างช้า ๆ ที่ริมเวทีไม้เปิดโล่ง ผู้ชมนั่งอยู่สามด้าน หลังคาเป็นใบปาล์ม และก่อนที่บทสนทนาสักคำจะถูกเปล่งออกมา เจ้าหญิงคนหนึ่งได้ค้อมกายเข้าหาเครื่องดนตรีนั้นในการรำที่ชื่อของมันเองอธิบายทุกอย่าง กล่าวคือ **เมิงาดับเรอบับ (Mengadap Rebab, การค้อมเข้าหาเรอบับ)**

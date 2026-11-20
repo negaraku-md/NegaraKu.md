@@ -65,6 +65,14 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'The National Museum of Malaysia, a large pale building crowned with a steep Minangkabau-style gabled roof in deep red, its long facade decorated with colourful mural panels and lined with Malaysian flags, seen from across a road'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
 ---
 
 대부분의 방문객에게 말레이시아에서 가장 오래된 박물관이 무엇인지 물으면, 그들은 쿠알라룸푸르 박물관 거리의 중심에 자리한 궁전 지붕의 건물 국립박물관을 짐작할 것입니다. 80년 차이로 빗나간 것입니다. 그 칭호는 국립박물관의 부지가 아직 그 전신에 의해 쓰이던 때에 지어진, 타이핑의 소박한 갤러리의 것입니다.

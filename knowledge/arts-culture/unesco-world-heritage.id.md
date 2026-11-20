@@ -91,6 +91,14 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
 ---
 
 Tanyakan berapa banyak Situs Warisan Dunia yang dimiliki Malaysia, dan kebanyakan sumber akan memberi tahu Anda empat. Itu benar sampai 2024. Kompleks Gua Niah dimasukkan pada Juli tahun itu, dan Forest Research Institute Malaysia Forest Park Selangor menyusul pada 2025 — menjadikan jumlahnya enam.

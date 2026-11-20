@@ -65,6 +65,14 @@ relations:
 related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
 ---
 
 오래된 시골집을 들어 올려 이음새를 해체하고 새 터에 다시 조립하십시오 — 대부분 고정된 콘크리트 기초 없이 말입니다. 그것이 바로 전통 말레이 건축의 지혜입니다. 에어컨이 있기 전에 이미 열대 기후를 '읽어 낸' 집인 것입니다.

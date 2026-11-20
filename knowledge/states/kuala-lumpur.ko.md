@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
 ---
 
 쿠알라룸푸르(Kuala Lumpur)는 말레이시아의 수도이지만, 헌법상으로는 주(州)가 아닙니다 — 그것은 1974년 슬랑오르에서 떼어 내어져 선출된 주(州) 정부나 주 의회가 아니라 연방 정부가 직접 관할하는 연방 직할구입니다.

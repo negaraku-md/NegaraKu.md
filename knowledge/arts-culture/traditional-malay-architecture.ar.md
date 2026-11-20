@@ -65,6 +65,14 @@ relations:
 related: []
 keywords: ["البيت الملايوي", "rumah Melayu", "البيت على ركائز", "rumah panggung", "العمارة المحلية", "senibina vernakular", "bumbung panjang", "tebar layar", "البيت الطويل", "rumah panjang", "kampung", "التراث", "warisan"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
 ---
 
 ارفع بيت قرية (kampung) قديمًا، وفكّك وصلاته، وأعد تركيبه في موقع جديد — من دون أساس خرساني ثابت في الغالب. تلك هي حكمة العمارة الملايوية التقليدية: بيتٌ «يقرأ» المناخ الاستوائي قبل وجود تكييف الهواء بزمن طويل.

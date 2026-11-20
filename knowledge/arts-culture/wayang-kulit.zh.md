@@ -63,6 +63,14 @@ relations:
 related: ["batik"]
 keywords: ["Wayang Kulit", "皮影戏 马来西亚", "Tok Dalang", "Hikayat Seri Rama", "吉兰丹传统艺术"]
 framework: history-culture
+hero: '/media/arts-culture/wayang-kulit/hero.webp'
+heroAlt: 'Intricately cut leather shadow puppets lined up and glowing against a bright lamp-lit screen, in the Kelantan-Patani Malay wayang kulit style'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
 ---
 
 先点亮油灯。在一块绷紧于木框上的白棉幕布后面，一名男子盘腿而坐，两侧伸手可及处各叠着一摞扁平的皮革偶，身后是一支由鼓、锣以及一支音色尖锐的双簧 serunai 组成的小乐队在等候。整个晚上他都不会离开那个位置。等到几个钟头后最后一道影子掠过幕布时，他已为国王、恶魔、丑角与公主配过音、旁白过场景之间的转换，并为每一位乐师打过拍——独自一人。

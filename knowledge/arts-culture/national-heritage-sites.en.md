@@ -73,6 +73,14 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'The full Moorish-style facade of the Sultan Abdul Samad Building in Kuala Lumpur, its long arcade of brick arches running beneath a tall central clock tower and copper onion domes, viewed from the empty paved roadway of Merdeka Square under a pale sky'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
 ---
 
 A century-old shophouse in George Town, a keris blade, a court dance, and a living [songket](/arts-culture/songket) maker — all four can hold the same legal title in Malaysia: *National Heritage*. What binds them is not a UNESCO list, but a domestic register whose name is rarely mentioned: the **National Heritage Register**.

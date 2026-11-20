@@ -72,6 +72,14 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'A tattooed Orang Ulu musician in a feathered hat and beaded costume plays a large sape lute painted with bold red and black Bornean spiral motifs'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
 ---
 
 同样的声响在马来西亚几乎每一场表演艺术的背后反复回荡：婚礼上众人齐击的羊皮鼓点、皮影戏开场时高亢缠绵的笛音，以及砂拉越长屋里那令人心安的木弦拨奏。奏出这些声响的乐器常常出现在众多艺术文章中——因此本页将它们汇集于一处。

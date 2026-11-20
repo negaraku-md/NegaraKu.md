@@ -79,6 +79,14 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["बाजू मलयू", "baju Melayu", "बाजू कुरुंग", "baju kurung", "कबाया", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "पारंपरिक मलय पोशाक", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'A smiling Malay family of three posing on a house porch at Hari Raya in coordinated pale-yellow outfits, the man in a baju Melayu tunic and trousers flanked by two women wearing baju kurung and headscarves'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
 ---
 
 किसी पुरुष को हरि राया या किसी विवाह के लिए तैयार होते हुए देखिए। ढीली कमीज पहनी जा चुकी है, पतलून खोंस ली गई है — लेकिन वह अभी तैयार नहीं हुआ है। बाकी दो चीज़ें रह गई हैं जो तय करती हैं कि वह पूरी तरह तैयार दिखता है या केवल आधा-अधूरा: कमर पर लपेटा हुआ सम्पिंग कपड़े का एक टुकड़ा, और सिर पर एक सोंगकोक। इन दो चीज़ों के बिना, बाजू मलयू वास्तव में अभी बाजू मलयू नहीं है।

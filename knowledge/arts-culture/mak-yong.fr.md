@@ -83,6 +83,14 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Four Mak Yong performers in gold and maroon traditional Malay costume on a darkened stage, one wearing a tall gilt crown and one in a white clown mask'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
 ---
 
 Le premier son ne vient pas d'un interprète. Il vient d'un morceau de bois en forme de poire muni de trois cordes — un rebab — frotté lentement d'un archet au bord d'une scène de bois ouverte. Le public est assis sur trois côtés. Le toit est en feuilles de palmier tressées. Et avant qu'une seule ligne de dialogue ne soit prononcée, une princesse s'est déjà inclinée vers l'instrument dans une danse dont le nom seul explique tout : **Mengadap Rebab**.

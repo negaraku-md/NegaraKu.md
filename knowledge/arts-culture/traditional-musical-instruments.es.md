@@ -72,6 +72,14 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN", "instrumentos musicales tradicionales"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'A tattooed Orang Ulu musician in a feathered hat and beaded costume plays a large sape lute painted with bold red and black Bornean spiral motifs'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
 ---
 
 Los mismos sonidos reaparecen detrás de casi todas las artes escénicas de Malasia: el golpe de la piel de cabra percutida en grupo en una boda, la flauta aguda y plañidera que abre una escena de teatro de sombras, y el reconfortante punteo de las cuerdas de madera en una casa larga de Sarawak. Los instrumentos que los producen aparecen en muchos artículos sobre las artes, así que esta página los reúne en un solo lugar.

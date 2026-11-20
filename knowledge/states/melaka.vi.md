@@ -100,6 +100,14 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: 'The deep-red Dutch-era Stadthuys building and red brick clock tower of Melaka''s Dutch Square, framing a landscaped flower roundabout'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
 ---
 
 Chín bang tại Malaysia có Vương công. Melaka không phải là một trong số đó —

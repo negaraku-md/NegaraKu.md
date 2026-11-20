@@ -74,6 +74,14 @@ relations:
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
 ---
 
 ペナンは、その大きさに見合わないほどの存在感を持つ。マレーシアのなかで面積が最も小さい州のひとつでありながら、同国で最も重要な製造業経済のひとつであり、最も多くの観光客が訪れる観光地のひとつでもある。

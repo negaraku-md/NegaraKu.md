@@ -80,6 +80,14 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["سيلات", "silat", "سيلات ملايو", "silat melayu", "فن السيلات", "silat pulut", "silat gayung", "PESAKA", "التراث الثقافي غير المادي", "UNESCO Malaysia", "فنون الدفاع عن النفس", "silat harimau"]
 framework: history-culture
+hero: '/media/arts-culture/silat-melayu/hero.webp'
+heroAlt: 'Two Malay martial artists in black silat attire locked in a dynamic grapple on a mat, one kneeling and gripping the other''s arm while a curved keris blade is raised between them, against a dark backdrop reading Silat Performance and Silat Seni Gayong Club'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
 ---
 
 يستطيع ممارس السيلات البارع أن يكسر عظام خصمه — أو أن يرقص أمام عروس من دون أن يلمس أحدًا. كلاهما سيلات. وهذا أصعب ما يُدرَك في هذا الفن: فهو ليس مجرّد أسلوب للقتال، ولا مجرّد رقصة احتفالية. إنه كلاهما، في الجسد نفسه، تحرّكه الخطوات نفسها.

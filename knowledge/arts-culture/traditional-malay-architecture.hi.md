@@ -65,6 +65,14 @@ relations:
 related: []
 keywords: ["मलय घर", "rumah Melayu", "स्तंभ-घर", "rumah panggung", "स्थानीय वास्तुकला", "senibina vernakular", "bumbung panjang", "tebar layar", "लंबा घर", "rumah panjang", "kampung", "धरोहर"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
 ---
 
 एक पुराने कंपुंग (kampung) घर को उठाइए, उसके जोड़ों को अलग कीजिए, और एक नए स्थल पर पुनः जोड़ दीजिए — काफ़ी हद तक बिना किसी स्थिर कंक्रीट नींव के। यही पारंपरिक मलय वास्तुकला की बुद्धिमत्ता है: एक ऐसा घर जो वातानुकूलन के अस्तित्व में आने से बहुत पहले उष्णकटिबंधीय जलवायु को «पढ़ता» है।

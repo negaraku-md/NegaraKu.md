@@ -79,6 +79,14 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'A smiling Malay family of three posing on a house porch at Hari Raya in coordinated pale-yellow outfits, the man in a baju Melayu tunic and trousers flanked by two women wearing baju kurung and headscarves'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
 ---
 
 하리 라야나 결혼식을 위해 채비하는 한 남자를 보십시오. 헐렁한 옷은 이미 입었고 바지도 꿰었지만 — 아직 끝나지 않았습니다. 남은 것은 그가 옷을 온전히 갖춰 입었는지 반만 입었는지를 가르는 두 가지입니다. 허리에 두르는 한 장의 삼핑 천과, 머리에 얹는 송콕입니다. 그 두 가지가 없으면 바주 믈라유는 아직 진정한 바주 믈라유가 아닙니다.

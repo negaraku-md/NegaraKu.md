@@ -82,6 +82,14 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Four Mak Yong performers in gold and maroon traditional Malay costume on a darkened stage, one wearing a tall gilt crown and one in a white clown mask'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
 ---
 
 Bunyi pertama bukan datang daripada pelakon. Ia datang daripada sekeping kayu berbentuk buah pear dengan tiga utas tali — rebab — yang digesek perlahan di tepi pentas kayu terbuka. Penonton duduk di tiga sisi. Bumbungnya daun palma. Dan sebelum sepatah dialog dilafazkan, seorang puteri sudah membongkokkan badan ke arah alat muzik itu dalam satu tarian yang namanya sendiri sudah menjelaskan segalanya: **Mengadap Rebab**.

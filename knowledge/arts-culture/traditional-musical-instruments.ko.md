@@ -72,6 +72,14 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'A tattooed Orang Ulu musician in a feathered hat and beaded costume plays a large sape lute painted with bold red and black Bornean spiral motifs'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
 ---
 
 거의 모든 말레이시아 예술 공연의 이면에는 같은 소리가 되풀이됩니다. 결혼식에서 무리 지어 두드리는 염소 가죽의 박자, 와양 쿨릿의 한 장면을 여는 높고 애절한 피리 소리, 그리고 사라왁 롱하우스에서 마음을 다독이는 나무 현의 뜯는 소리입니다. 이 소리를 내는 악기들은 여러 예술 글에 자주 등장하기에 — 이 페이지가 그것들을 한곳에 모았습니다.

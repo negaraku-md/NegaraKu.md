@@ -91,6 +91,14 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "मलेशिया यूनेस्को विश्व धरोहर", "जॉर्ज टाउन मलक्का अंकन मानदंड", "George Town Melaka inscription criteria", "गुनुंग मुलु विश्व धरोहर", "लेंगगोंग घाटी इंसान बिराक", "नियाह गुफाएँ यूनेस्को 2024", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
 ---
 
 पूछिए कि मलेशिया के कितने विश्व धरोहर स्थल हैं और अधिकांश स्रोत आपको चार बताएँगे। यह 2024 तक सच था। उस जुलाई में नियाह गुफा-परिसर अंकित हुआ, और 2025 में वन अनुसंधान संस्थान मलेशिया वन उद्यान सेलांगोर उसके बाद आया — जिससे कुल संख्या छह हो गई।

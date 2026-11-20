@@ -91,6 +91,14 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
 ---
 
 Hỏi Malaysia có bao nhiêu Di sản Thế giới và phần lớn các nguồn sẽ bảo bạn là bốn. Điều đó đúng cho đến năm 2024. Quần thể Hang động Niah được ghi danh vào tháng 7 năm đó, và Công viên Rừng của Viện Nghiên cứu Lâm nghiệp Malaysia ở Selangor theo sau vào năm 2025 — nâng tổng số lên sáu.

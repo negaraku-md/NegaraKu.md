@@ -77,6 +77,14 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelán Terengganu", "gamelán Pahang", "joget gamelan", "Tengku Ampuan Mariam", "música de corte", "patrimonio nacional"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'A full Malay gamelan ensemble arranged under warm light, with rows of bronze kettle-gongs (bonang), a metallophone (saron) and large hanging gongs on carved wooden frames'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
 ---
 
 El juego de gamelán pasó de una corte a otra no por una venta ni por una confiscación — sino por un matrimonio. Cuando una princesa se trasladaba al palacio de su esposo, los instrumentos, los bailarines y las canciones se trasladaban con ella. Así fue como el gamelán se convirtió en propiedad de las cortes malayas.

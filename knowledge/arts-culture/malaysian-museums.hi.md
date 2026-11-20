@@ -66,6 +66,14 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["मुज़ियम नेगारा", "Muzium Negara", "इस्लामिक आर्ट्स म्यूज़ियम मलेशिया", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "मलेशिया के राज्य संग्रहालय"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'The National Museum of Malaysia, a large pale building crowned with a steep Minangkabau-style gabled roof in deep red, its long facade decorated with colourful mural panels and lined with Malaysian flags, seen from across a road'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
 ---
 
 अधिकांश आगंतुकों से पूछिए कि मलेशिया का सबसे पुराना संग्रहालय कौन-सा है, और वे मुज़ियम नेगारा (Muzium Negara) का अनुमान लगाएँगे — महल-जैसी छत वाली वह इमारत जो कुआलालंपुर की संग्रहालय-पंक्ति को आधार देती है। वे अस्सी वर्ष से चूक जाएँगे। वह लक्ष्य तायपिंग (Taiping) की एक साधारण दीर्घा को प्राप्त है, जो तब बनी थी जब मुज़ियम नेगारा का स्थल अब भी उसके पूर्ववर्ती के कब्ज़े में था।

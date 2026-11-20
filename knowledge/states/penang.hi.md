@@ -75,6 +75,14 @@ relations:
 related: []
 keywords: ["पेनांग मलेशिया", "Penang Malaysia", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "बायान लेपास", "Bayan Lepas", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "पूर्व की सिलिकॉन वैली", "silicon valley of the east"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
 ---
 
 पेनांग अपने आकार से कहीं बढ़कर प्रभाव रखता है। यह भूमि क्षेत्र की दृष्टि से मलेशिया

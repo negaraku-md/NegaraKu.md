@@ -66,6 +66,14 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["المتحف الوطني", "Muzium Negara", "متحف الفنون الإسلامية ماليزيا", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "متاحف ماليزيا الولائية"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'The National Museum of Malaysia, a large pale building crowned with a steep Minangkabau-style gabled roof in deep red, its long facade decorated with colourful mural panels and lined with Malaysian flags, seen from across a road'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
 ---
 
 اسأل معظم الزوار عن أقدم متحف في ماليزيا، وسيخمّنون المتحف الوطني (Muzium Negara) — المبنى ذو السقف القصري الذي يتصدّر صفّ متاحف كوالالمبور. سيخطئون بثمانين عاماً. فذلك اللقب يعود إلى رواق متواضع في تايبينغ (Taiping)، بُني بينما كان موقع المتحف الوطني لا يزال يشغله سلفه.

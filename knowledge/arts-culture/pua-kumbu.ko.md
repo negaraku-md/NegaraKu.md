@@ -79,6 +79,14 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: 'A long strip of red pua kumbu cloth patterned in gold motifs stretched on a wooden backstrap loom inside a Sarawak longhouse, with woven mats and a carved Iban storage box nearby'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
 ---
 
 짜는 이가 '허락' 없이는 감히 만들려 하지 않는 한 장의 천 — 그 무늬는 꿈에서 온다고 하며, 한때는 그것을 만든 사회의 전사 전통과 긴밀히 얽혀 있었습니다. 그것이 바로 푸아 쿰부입니다.

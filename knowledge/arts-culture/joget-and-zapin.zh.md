@@ -65,6 +65,14 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: 'Four Malay dancers mid-zapin on a wooden stage: two men in magenta-and-orange baju Melayu with black tengkolok caps gesture with open hands while two women in purple songket and sheer veils strike graceful arm poses under warm light.'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
 ---
 
 两名舞者随着 gendang 的鼓点快速舞动——脚下踏点铿锵有力，手部则轻柔曼舞。许多人看了之后径直称之为「马来舞蹈」，并不区分哪个是 Joget、哪个是 Zapin。追问两者各自从何而来，答案会把我们带往世界的两端：一端来自马六甲葡萄牙商船的甲板，另一端则来自哈德拉毛阿拉伯传教士的商队。

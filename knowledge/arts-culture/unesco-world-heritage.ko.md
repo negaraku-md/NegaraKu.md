@@ -91,6 +91,14 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
 ---
 
 말레이시아에 세계유산이 몇 개인지 물으면 대부분의 자료는 넷이라고 답할 것입니다. 그것은 2024년까지는 사실이었습니다. 니아 동굴 복합지가 그해 7월에 등재되었고, 말레이시아 산림연구소 산림공원 슬랑오르가 2025년에 뒤따르면서 총계는 여섯이 되었습니다.

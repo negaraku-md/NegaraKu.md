@@ -91,6 +91,14 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
 ---
 
 ถามว่ามาเลเซียมีแหล่งมรดกโลกกี่แห่ง แล้วแหล่งข้อมูลส่วนใหญ่จะบอกคุณว่าสี่ นั่นเป็นจริงจนถึงปี 2024 กลุ่มถ้ำเนียะฮ์ได้รับการขึ้นทะเบียนในเดือนกรกฎาคมปีนั้น และสวนป่าสถาบันวิจัยป่าไม้มาเลเซียสลังงอร์ตามมาในปี 2025 — ทำให้ยอดรวมเป็นหก

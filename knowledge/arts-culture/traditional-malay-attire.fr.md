@@ -79,6 +79,14 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu", "vêtements traditionnels malais"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'A smiling Malay family of three posing on a house porch at Hari Raya in coordinated pale-yellow outfits, the man in a baju Melayu tunic and trousers flanked by two women wearing baju kurung and headscarves'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
 ---
 
 Observez un homme qui se prépare pour le Hari Raya ou pour un mariage. La chemise ample est déjà enfilée, le pantalon est ajusté, mais il n'a pas encore terminé. Il lui reste deux choses qui décident s'il a l'air entièrement habillé ou seulement à moitié : une pièce d'étoffe de samping nouée à la taille et un songkok sur la tête. Sans ces deux éléments, le baju Melayu n'est pas encore véritablement un baju Melayu.

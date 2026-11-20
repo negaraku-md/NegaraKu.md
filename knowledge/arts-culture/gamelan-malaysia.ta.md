@@ -77,6 +77,14 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'A full Malay gamelan ensemble arranged under warm light, with rows of bronze kettle-gongs (bonang), a metallophone (saron) and large hanging gongs on carved wooden frames'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
 ---
 
 கமெலான் தொகுப்பு ஓர் அரண்மனையிலிருந்து மற்றோர் அரண்மனைக்கு நகர்ந்தது விற்பனையாலோ கைப்பற்றுதலாலோ அல்ல — மாறாக திருமணத்தால். ஒரு இளவரசி தன் கணவனின் மாளிகைக்கு நகர்ந்தபோது, இசைக்கருவிகள், நடனக் கலைஞர்கள் மற்றும் பாடல்களும் அவளுடன் நகர்ந்தன. அப்படித்தான் கமெலான் மலாய் அரண்மனைகளின் சொத்தாக மாறியது.

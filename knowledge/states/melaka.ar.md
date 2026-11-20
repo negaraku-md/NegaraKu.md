@@ -100,6 +100,14 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["ملقا", "Melaka", "الحاكم المعيَّن لملقا", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "موقع تراث اليونسكو في ملقا", "ولاية بلا سلطان", "Melaka Tengah Alor Gajah Jasin", "اقتصاد ملقا", "التراث البرتغالي الهولندي البريطاني"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: 'The deep-red Dutch-era Stadthuys building and red brick clock tower of Melaka''s Dutch Square, framing a landscaped flower roundabout'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
 ---
 
 تسع ولايات في ماليزيا لها راجا (Raja). وملقا ليست منها — مع أن اسمها مرتبط بأشهر

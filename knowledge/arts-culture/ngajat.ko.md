@@ -77,6 +77,14 @@ relations:
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
 framework: history-culture
+hero: '/media/arts-culture/ngajat/hero.webp'
+heroAlt: 'A male Iban dancer in a feathered headdress, animal-fur vest and yellow hornbill-motif loincloth lunges mid-pose, brandishing a long sword in one hand and a carved wooden shield in the other, against a painted Sarawak longhouse backdrop under warm stage light.'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
 ---
 
 사라왁의 한 롱하우스 회랑에서, 머리에 무소뿔새 깃털을 단 한 남자가 뛰어오르고 돌며 바닥을 구릅니다 — 한 손에는 칼, 다른 손에는 방패를 들고 말입니다. 그것이 바로 **응아잣**, 예전에 전장에서 돌아오는 전사를 맞이하던 춤입니다.

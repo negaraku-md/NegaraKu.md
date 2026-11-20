@@ -73,6 +73,14 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'The full Moorish-style facade of the Sultan Abdul Samad Building in Kuala Lumpur, its long arcade of brick arches running beneath a tall central clock tower and copper onion domes, viewed from the empty paved roadway of Merdeka Square under a pale sky'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
 ---
 
 ジョージタウンにある築100年の店舗兼住宅（ショップハウス）、1本のクリス（keris）、宮廷舞踊、そして今なお存命の[ソンケット](/arts-culture/songket)（songket）職人——この4つはいずれも、マレーシアにおいて同じ法的呼称を冠しうる：*国家遺産*（Warisan Kebangsaan）。これらを結びつけているのはUNESCOの一覧ではなく、その名がめったに語られることのない国内名録——**国家遺産名録**（Daftar Warisan Kebangsaan）である。

@@ -74,6 +74,14 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
 ---
 
 As the drumbeat tightens, the lion springs into the air, its front paws landing firmly on a steel pole no thicker than the rim of a bowl, the tail following at once — two performers leaping and posing among a row of poles set at varying heights, two or three metres off the ground, the crowd holding its breath, until the lion, now seemingly "alive", steadies itself on the highest pole of all and the applause breaks out. This is not the festive lion dance on the ground, but a sport with scores, champions and world rankings — high pole lion dance.

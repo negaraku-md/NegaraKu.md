@@ -62,6 +62,14 @@ relations:
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
 framework: history-culture
+hero: '/media/arts-culture/wayang-kulit/hero.webp'
+heroAlt: 'Intricately cut leather shadow puppets lined up and glowing against a bright lamp-lit screen, in the Kelantan-Patani Malay wayang kulit style'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
 ---
 
 Ngọn đèn được thắp trước. Đằng sau một tấm màn bông trắng căng chặt trên một khung gỗ, một người đàn ông ngồi xếp bằng, một chồng các con rối da phẳng nằm trong tầm với ở hai bên, một dàn nhạc nhỏ gồm trống, cồng và một cây serunai hai lưỡi gà chói tai chờ sau lưng ông. Ông sẽ không rời chỗ đó trong suốt cả đêm còn lại. Đến lúc chiếc bóng cuối cùng lướt qua màn, nhiều giờ sau đó, ông sẽ đã lồng tiếng cho vua chúa, quỷ dữ, hề và công chúa, dẫn chuyện chuyển cảnh, và ra hiệu cho từng nhạc công — một mình.

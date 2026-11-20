@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
 ---
 
 กัวลาลัมเปอร์เป็นเมืองหลวงของมาเลเซีย แต่ในทางรัฐธรรมนูญแล้วไม่ใช่รัฐ — เป็นดินแดนสหพันธ์ ซึ่งถูกแบ่งออกมาจากสลังงอร์ในปี 1974 และบริหารโดยรัฐบาลสหพันธรัฐโดยตรง ไม่ใช่โดยผู้ปกครองรัฐหรือสภานิติบัญญัติแห่งรัฐที่มาจากการเลือกตั้ง

@@ -79,6 +79,14 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'A dark, framed rectangular wooden panel carved in openwork with symmetrical flowing foliage, curling leaf tendrils and vine scrolls in the Malay awan larat style, mounted on a pale museum wall'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
 ---
 
 옛 말레이 가옥 창문의 나무 판을 자세히 들여다보고, 그 문양이 어디에서 시작하는지 찾아보십시오. 찾지 못할 것입니다. 당신의 눈 탓이 아니라 — 원래 그렇게 만들어진 것입니다.

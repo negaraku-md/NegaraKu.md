@@ -79,6 +79,14 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["باجو ملايو", "baju Melayu", "باجو كورونغ", "baju kurung", "الكِبايا", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "الزي الملايوي التقليدي", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'A smiling Malay family of three posing on a house porch at Hari Raya in coordinated pale-yellow outfits, the man in a baju Melayu tunic and trousers flanked by two women wearing baju kurung and headscarves'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
 ---
 
 راقب رجلًا يتهيّأ لعيد الفطر أو لحفل زفاف. فقد ارتدى القميص الفضفاض، وأدخل السروال — لكنه لم ينتهِ بعد. والمتبقّي أمران يقرّران ما إذا كان يبدو كامل الهندام أم في منتصف الطريق فحسب: قطعة من قماش السامبينغ تُلفّ عند الخصر، وسونغكوك على الرأس. فمن دون هذين الأمرين، لا يكون باجو ملايو باجو ملايو حقًّا بعد.

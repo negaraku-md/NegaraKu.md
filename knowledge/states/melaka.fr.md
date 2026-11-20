@@ -100,6 +100,14 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri de Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Sitio del Patrimonio Mundial de la UNESCO Melaka", "estado sin Sultán", "Melaka Tengah Alor Gajah Jasin", "economía de Melaka", "patrimonio portugués neerlandés británico"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: 'The deep-red Dutch-era Stadthuys building and red brick clock tower of Melaka''s Dutch Square, framing a landscaped flower roundabout'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
 ---
 
 Neuf États de Malaisie ont un Raja. Melaka n'en fait pas partie — même si son nom est lié

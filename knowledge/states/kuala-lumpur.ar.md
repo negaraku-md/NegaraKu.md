@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["كوالالمبور", "Kuala Lumpur", "الإقليم الاتحادي كوالالمبور", "KL federal territory", "بورصة ماليزيا", "Bursa Malaysia", "برجا بتروناس التوأم", "Petronas Twin Towers", "وادي كلانغ", "Klang Valley"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
 ---
 
 كوالالمبور هي العاصمة الوطنية لماليزيا، لكنها دستورياً ليست ولاية — بل إقليم اتحادي،

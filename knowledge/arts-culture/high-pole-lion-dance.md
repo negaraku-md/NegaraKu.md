@@ -73,6 +73,14 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
 ---
 
 鼓声一紧，狮子纵身跃起，前脚稳稳落在一根仅碗口粗的钢桩上，狮尾随即跟上——两名舞者在一排高低错落、离地两三米的桩柱间腾挪、定格，台下屏息，直到那头「活」过来的狮子在最高一根桩上稳稳立定，才爆出掌声。这不是平地上的贺岁舞狮，而是一项有评分、有冠军、有世界排名的竞技——高桩舞狮。

@@ -70,6 +70,14 @@ relations:
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
 ---
 
 クアラルンプールはマレーシアの首都であるが、憲法上は州ではない——連邦直轄区（Wilayah Persekutuan）であり、1974年にセランゴールから分離され、州政府や民選の州議会ではなく連邦政府によって直接統治されている。
