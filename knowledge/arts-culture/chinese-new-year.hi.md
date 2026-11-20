@@ -76,6 +76,14 @@ festivalFacts:
   when: "चंद्र पंचांग के पहले महीने का पहला दिन; इसकी संगत ग्रेगोरियन तिथि हर वर्ष चंद्र पंचांग के अनुसार बदलती है, और आधिकारिक राजपत्र की घोषणा के अनुसार मान्य होती है।"
   holiday: "चंद्र नववर्ष के पहले दो दिन देशव्यापी सार्वजनिक अवकाश हैं, जिसका कानूनी आधार 1951 का अवकाश अधिनियम (Holidays Act 1951, Act 369) तथा विभिन्न राज्यों के राजपत्र हैं।"
   etiquette: "विभिन्न जातीय समुदायों के बीच «खुले द्वार» (rumah terbuka) की प्रथा भिन्न-भिन्न जातीय मित्रों और परिजनों को एक-दूसरे के घर जाकर नववर्ष की बधाई देने देती है; बधाई देने जाने पर साथ ले जाए जाने वाले उपहार और लाल लिफाफे प्रायः शुभ मानी जाने वाली सम संख्या में होते हैं, और «चार» वाली संख्याओं से आमतौर पर बचा जाता है।"
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 नववर्ष की पूर्वसंध्या पर, कई दुकानें जल्दी बंद हो जाती हैं और राजमार्ग अपने गृहनगरों की ओर जाती कारों से भर जाते हैं। शाम तक, परिवार एक मेज़ के इर्द-गिर्द इकट्ठा होता है — उस पर मछली ("हर वर्ष अधिशेष" के लिए), एक साबुत मुर्गा, पुनर्मिलन का प्रतीक मीटबॉल, और एक ठंडा उछाला जाने वाला yee sang व्यंजन जिसे चॉपस्टिक से ऊँचा उठाया जाता है। नववर्ष की पूर्वसंध्या के इस पुनर्मिलन भोज को कई मलेशियाई चीनी परिवार नववर्ष के पहले दिन से भी अधिक महत्वपूर्ण मानते हैं।

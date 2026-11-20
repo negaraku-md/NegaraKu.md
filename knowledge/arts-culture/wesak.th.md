@@ -70,6 +70,14 @@ festivalFacts:
   when: "วันเพ็ญของเดือน Vesakha ตามปฏิทินจันทรคติ — โดยทั่วไปอยู่ในเดือนเมษายนหรือพฤษภาคม เนื่องจากยึดตามปฏิทินจันทรคติ วันที่ตามปฏิทินเกรโกเรียนจึงเปลี่ยนแปลงไปในแต่ละปี"
   holiday: "เป็นวันหยุดราชการระดับชาติในทุกรัฐและดินแดนสหพันธ์ ประกาศเป็นวันหยุดราชการครั้งแรกในปี 1962 ภายใต้ Employment Act 1955 หากตรงกับวันหยุดพัก จะมีวันหยุดโดยได้รับค่าจ้างทดแทน"
   etiquette: "การปฏิบัติมีศูนย์กลางอยู่ที่วัด ผู้ศรัทธาจำนวนมากสวมชุดขาวและถือมังสวิรัติในวันนั้น และกิจกรรมสาธารณะที่เป็นที่รู้จักมากที่สุดคือขบวนแห่รถบุปผชาติเวสากในกัวลาลัมเปอร์ที่เริ่มจากวัดพุทธ Maha Vihara ในย่าน Brickfields ซึ่งมีผู้ศรัทธาและผู้ชมจำนวนมากมารับชม"
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 ถามว่าวันวิสาขบูชาตรงกับวันใด แล้วจะไม่มีคำตอบที่ตายตัว — มันเปลี่ยนไป ในปี 2026 ตกวันที่ 31 พฤษภาคม ในปี 2027 วันที่ 20 พฤษภาคม ในปี 2028 วันที่ 9 พฤษภาคม เหตุผลนั้นเรียบง่าย กล่าวคือ วิสาขบูชากำหนดด้วยดวงจันทร์ ไม่ใช่ด้วยวันที่ในปฏิทิน และปฏิทินจันทรคติกับปฏิทินเกรกอเรียนเลื่อนสวนกันทุกปี

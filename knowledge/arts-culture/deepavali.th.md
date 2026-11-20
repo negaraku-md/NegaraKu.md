@@ -74,6 +74,14 @@ festivalFacts:
   when: "กำหนดโดยปฏิทินฮินดู (ทมิฬ) ตามจันทรคติ โดยปกติอยู่ในเดือนตุลาคมหรือพฤศจิกายน วันที่ประกาศในราชกิจจานุเบกษาขยับไปในแต่ละปีและระบุไว้ว่าอาจเปลี่ยนแปลงได้"
   holiday: "เป็นวันหยุดราชการสหพันธ์ที่ประกาศในราชกิจจานุเบกษา ถือปฏิบัติในทุกรัฐและดินแดนสหพันธ์ ยกเว้น Sarawak ซึ่งใช้ตารางวันหยุดราชการของตนเอง"
   etiquette: "ผู้มาเยือนได้รับการต้อนรับในงานเปิดบ้าน ควรแต่งกายสุภาพ ถอดรองเท้าก่อนเข้าบ้านหรือวัด และของฝากเล็ก ๆ น้อย ๆ เป็นขนมหวานถือเป็นธรรมเนียมที่นิยมปฏิบัติ"
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 เป็นเวลาหนึ่งคืน ตะเกียงคือผู้พูด ตะเกียงดินเผาเล็ก ๆ วางเรียงตามประตูและขอบหน้าต่าง ลวดลายพื้นด้วยข้าวสีหรือผงสีถูกวางไว้ที่ธรณีประตู และบ้านที่มืดเมื่อชั่วโมงก่อนถูกตีเส้นด้วยเปลวไฟ นั่นคือที่มาของชื่อเทศกาล กล่าวคือ *ดีปาวลี (Deepavali)* มาจากภาษาสันสกฤตที่แปลว่า "แถวหรือชุดของแสงไฟ"

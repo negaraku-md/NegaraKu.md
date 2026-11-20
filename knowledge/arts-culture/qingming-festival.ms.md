@@ -86,6 +86,14 @@ festivalFacts:
   when: "Sepadan dengan 「清明」 dalam dua puluh empat tempoh solar (jieqi) kalendar lunar, dengan tarikh Gregorian yang agak tetap, biasanya sekitar 4 atau 5 April; keluarga tempatan kebanyakannya menyebarkan ziarah kubur dalam lingkungan kira-kira sepuluh hari sebelum dan selepas tempoh perayaan."
   holiday: "清明节 bukan cuti umum di Malaysia, dan pada hari itu kebanyakan perniagaan beroperasi seperti biasa."
   etiquette: "Oleh sebab pembakaran wang kertas emas-perak dan persembahan kertas melibatkan api terbuka dan asap, sesetengah tanah perkuburan dan taman peringatan menetapkan kawasan pembakaran atau mengenakan peraturan, dan sejak beberapa tahun kebelakangan ini ada juga yang beralih kepada cara yang lebih mesra alam."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 Pada suatu pagi awal April, keluarga demi keluarga mula kelihatan di laluan tanah perkuburan. Ada yang menjinjing baldi dan sabit, ada yang membawa bakul penuh dengan hidangan masak, buah-buahan dan wang kertas. Setelah menemui kubur keluarga sendiri, yang muda mula membuang rumpai dan menyapu daun gugur manakala yang tua menunjukkan cara menyapu semula, satu demi satu, aksara yang telah pudar pada batu nisan; hanya setelah kubur bersih barulah pemujaan disusun, colok dinyalakan dan penghormatan diberi, dan akhirnya wang kertas dibakar di ruang lapang berdekatan. Dalam asap dan nyala api itu, Qingming setahun sekali pun berlalu begitu sahaja.

@@ -86,6 +86,14 @@ festivalFacts:
   when: "30 dan 31 Mei, dengan perayaan berlangsung sepanjang sebagian besar bulan Mei dari daerah ke daerah sebelum penutup tingkat negeri pada kedua tanggal tersebut."
   holiday: "Hari libur umum di negeri Sabah dan wilayah persekutuan Labuan pada 30 dan 31 Mei; bukan hari libur umum secara nasional."
   etiquette: "Pahami Unduk Ngadau sebagai pawai budaya yang menghormati legenda Huminodun, bukan kontes kecantikan biasa, dan perlakukan kepercayaan Bambaazon serta legenda Huminodun dengan hormat sebagai tradisi milik komunitas itu sendiri, bukan sebagai fakta yang diklaim."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 Pesta ini dinamai berdasarkan satu gagasan tunggal: pemanenan. *Kaamatan* berarti tepat demikian dalam bahasa Kadazandusun, dan segala hal lain dalam perayaan ini — ritual, air tuak beras, kontes ratu kecantikan yang dinobatkan pada malam terakhir — tumbuh dari satu tindakan memungut hasil padi itu.

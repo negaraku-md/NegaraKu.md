@@ -79,6 +79,14 @@ festivalFacts:
   when: "Được xác định theo 24 tiết khí, rơi vào khoảng ngày 21 đến 23 tháng 12 dương lịch hằng năm (khoảng ngày 22 tháng 12), là ngày có ban ngày ngắn nhất trong năm."
   holiday: "Không phải ngày lễ công cộng — Đông Chí tại Malaysia không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào."
   etiquette: "Người Hoa phần lớn đón lễ một cách kín đáo tại nhà, cả nhà quây quần nặn tangyuan, cùng dùng một bữa ăn, chứ không tổ chức các hoạt động công cộng quy mô lớn; một số gia đình trước tiên dùng tangyuan để cúng tổ tiên, cúng thần rồi mới cả nhà cùng ăn, cách làm khác nhau tùy gia đình và nhóm phương ngữ."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 Một buổi chiều cuối tháng 12, trong bếp hương bột nếp quyện với vị ngọt của nước gừng. Cả nhà quây quần bên bàn, nặn từng cục bột nếp nhỏ thành viên — có viên trắng, có viên nhuộm hồng, xanh non. Những viên trong tay lũ trẻ to nhỏ khác nhau, người lớn vừa nặn vừa nói: ăn thang viên xong là lại thêm một tuổi. Ngày này chính là Đông chí.

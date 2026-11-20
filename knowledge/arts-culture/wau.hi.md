@@ -84,6 +84,14 @@ related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "वाउ", "वाउ बुलान", "पारंपरिक पतंग", "layang-layang tradisional", "केलंतान शिल्प", "Adiguru Kraf wau"]
 framework: history-culture
+hero: '/media/arts-culture/wau/hero.webp'
+heroAlt: 'A big ornately decorated wau bulan kite mounted on a pale wall, its broad crescent-shaped body covered in shimmering gold, pink and blue foil floral patterns with a fringed tassel at the top and a label reading WAU BULAN beneath it'
+heroCredit: 'D.W. Fisher-Freberg / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
 ---
 
 वाउ को देखने से पहले आप उसे सुनते हैं। एक ठीक से बना पारंपरिक वाउ पूरे समय गुनगुनाता रहता है जब तक वह हवा में रहता है — हवा की आवाज़ नहीं, बल्कि जानबूझकर उसकी बनावट में गढ़ा गया एक स्वर।

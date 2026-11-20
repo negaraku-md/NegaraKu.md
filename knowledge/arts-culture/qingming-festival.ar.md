@@ -86,6 +86,14 @@ festivalFacts:
   when: "يقابل «Qingming» ضمن المصطلحات الشمسية الأربعة والعشرين في التقويم القمري، وتاريخه الميلادي ثابت نسبيًا، وعادةً ما يكون نحو 4 أو 5 أبريل؛ وتوزّع الأسر المحلية غالبًا زياراتها للقبور على نحو عشرة أيام حول موعد العيد."
   holiday: "عيد Qingming ليس عطلة رسمية في ماليزيا، وتعمل معظم المحالّ التجارية في يومه كالمعتاد."
   etiquette: "لمّا كان إحراق الورق الذهبي والفضي والقرابين الورقية ينطوي على نار مكشوفة ودخان، فإن بعض المقابر والحدائق التذكارية تخصّص مناطق للإحراق أو تضع ضوابط، وفي السنوات الأخيرة تحوّل بعض الناس إلى طرق أكثر مراعاةً للبيئة."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 في صباح باكر من أوائل أبريل، تبدأ العائلات بالظهور على دروب المقبرة، واحدة تلو الأخرى. بعضهم يحمل الدلاء والمناجل، وبعضهم يحمل سلالاً مملوءة بالطعام المطهو والفاكهة والنقود الورقية. وبعد أن يجدوا قبر عائلتهم، يبدأ الصغار بإزالة الأعشاب وكنس الأوراق، بينما يرشد الكبار إلى كيفية إعادة طلاء الحروف الباهتة على شاهدة القبر حرفاً حرفاً؛ ولا توضع القرابين ويُشعل البخور وتُؤدى مراسم التكريم إلا بعد أن يصير القبر نظيفاً، ثم يُحرق في النهاية الورق الذهبي والفضي في مساحة خالية قريبة. وبين الدخان واللهب، يمر تشينغمينغ السنوي على هذا النحو.

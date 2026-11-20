@@ -74,6 +74,14 @@ festivalFacts:
   when: "旧暦の正月初一。対応する西暦の日付は毎年旧暦に伴って変動し、公式の官報での公示に準じる。"
   holiday: "旧正月の最初の2日間は全国的な公休日であり、法的根拠は1951年假期法令(Holidays Act 1951, Act 369)および各州の官報による。"
   etiquette: "民族の枠を越えた「開放門戸」(rumah terbuka)により、異なる民族の親族・友人が互いに訪問して新年の挨拶を交わす。年賀に訪れる際の手土産や紅包は縁起のよい偶数が好まれ、「四」を含む数字は広く避けられる。"
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 大晦日には、多くの店が早めに店じまいし、高速道路は帰省の車で埋め尽くされる。夜になると、一家は食卓を囲む——魚（年年有余、「年々余りあるように」の意）、丸鶏一羽、団欒を意味する肉団子、そして箸で高く掲げて食べる冷菜のイーサンが並ぶ。この大晦日の団欒の夕食を、正月一日そのものより重んじる家庭も少なくない。

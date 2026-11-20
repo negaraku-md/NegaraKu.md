@@ -86,6 +86,14 @@ festivalFacts:
   when: "Corresponde a «Qingming», uno de los veinticuatro términos solares del calendario lunar; su fecha en el calendario gregoriano es bastante fija y suele situarse en torno al 4 o el 5 de abril; las familias locales suelen repartir las visitas a las tumbas a lo largo de unos diez días antes y después de la fecha."
   holiday: "El Festival de Qingming no es fiesta pública en Malasia y ese día la mayoría de los comercios funcionan con normalidad."
   etiquette: "Dado que quemar papel moneda y ofrendas de papel implica fuego abierto y humo, algunos cementerios y parques conmemorativos delimitan zonas de quema o establecen normas, y en los últimos años también hay quienes optan por métodos más respetuosos con el medio ambiente."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 Una madrugada de principios de abril, por los senderos del cementerio empiezan a aparecer familias enteras. Unos llevan cubos y hoces; otros, cestas repletas de comida cocinada, fruta y dinero de papel. Al encontrar la tumba de su familia, los más jóvenes se ponen a quitar las malas hierbas y a barrer las hojas, mientras los mayores indican cómo repintar, trazo a trazo, los caracteres desvaídos de la lápida; solo cuando la tumba está limpia se disponen las ofrendas, se enciende el incienso y se rinden respetos, y por último se quema el dinero de papel en un claro cercano. Entre el humo y las llamas, el Qingming anual transcurre así.

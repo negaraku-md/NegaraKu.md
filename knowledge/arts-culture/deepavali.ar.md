@@ -74,6 +74,14 @@ festivalFacts:
   when: "يُحدَّد بحسب التقويم الهندوسي (التاميلي) القمري، وعادةً في أكتوبر أو نوفمبر؛ ويتغيّر التاريخ المُعلَن في الجريدة الرسمية كل عام ويُشار إليه على أنه عرضة للتغيير."
   holiday: "عطلة رسمية اتحادية مُعلَنة في الجريدة الرسمية ومُطبَّقة في كل ولاية وإقليم اتحادي باستثناء Sarawak، التي تحتفظ بجدول عطلاتها الرسمية الخاص."
   etiquette: "يُرحَّب بالزوّار في الأبواب المفتوحة؛ ارتدِ ملابس محتشمة، واخلع الحذاء قبل دخول منزل أو معبد، وتقديم هدية صغيرة من الحلوى بادرة متعارَف عليها."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 لليلة واحدة، يتكلّم المصباح. تُصفّ مصابيح الطين الصغيرة على طول الأبواب وحوافّ النوافذ، ويُرسَم على العتبة نمطٌ أرضي من الأرزّ أو المسحوق الملوّن، فيتحوّل بيتٌ كان مظلماً قبل ساعة إلى خطوطٍ من اللهب. ومن هنا يستمدّ العيد اسمه: فكلمة *ديبافالي* تأتي من السنسكريتية بمعنى «صفّ أو سلسلة من الأنوار».

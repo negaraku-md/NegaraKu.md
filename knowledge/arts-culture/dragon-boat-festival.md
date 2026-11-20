@@ -79,6 +79,14 @@ festivalFacts:
   when: "固定在农历五月初五，对应公历日期每年随农历变动，通常落在公历六月间。"
   holiday: "并非公共假期——在马来西亚并非全国或任何州属的公共假期，一般照常上班上课。"
   etiquette: "家庭庆祝多集中在节日当天的一餐粽子；龙舟等大型公共活动常安排在周末或邻近日子举行，方便民众参与。部分家庭会在门前悬挂艾草、菖蒲，或在节日正午尝试「立蛋」，但各家做法不尽相同。"
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 农历五月初五快到的时候，华人家庭的厨房里会飘出粽叶与糯米的香气。主妇们把浸泡过的糯米、炒香的馅料一层层填进折成漏斗状的叶子里，再用咸水草扎紧，一串串下锅久煮。与此同时，在槟城岛西北角的直落巴巷水坝，一艘艘细长的龙舟正划开水面，鼓手立于船头擂鼓，几十名桨手随着鼓点整齐挥桨——这是端午节在马来西亚的两张面孔：一边是厨房里的粽香，一边是水面上的竞渡。

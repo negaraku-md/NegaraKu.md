@@ -74,6 +74,14 @@ festivalFacts:
   when: "La fija el calendario lunar hindú (tamil), por lo general en octubre o noviembre; la fecha del boletín oficial cambia cada año y se señala como sujeta a cambios."
   holiday: "Festividad pública federal decretada en el boletín oficial y observada en todos los estados y Territorios Federales salvo Sarawak, que mantiene su propio calendario de festivos públicos."
   etiquette: "Se da la bienvenida a los visitantes en las casas abiertas; vista con recato, descálcese antes de entrar en una casa o un templo y un pequeño obsequio de dulces es un gesto de costumbre."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 Por una noche, es la lámpara la que habla. Se disponen hileras de pequeñas lámparas de arcilla a lo largo de puertas y alféizares, se traza en el umbral un dibujo de suelo hecho con arroz o polvo de colores, y una casa que una hora antes estaba a oscuras queda perfilada por las llamas. De ahí toma el festival su nombre: *Deepavali* viene del sánscrito «una hilera o serie de luces».

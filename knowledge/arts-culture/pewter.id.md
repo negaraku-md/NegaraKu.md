@@ -58,6 +58,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 Sebuah kota yang dibangun atas timah akhirnya menganugerahkan dunia sebuah kriya logam. Kuala Lumpur ada karena para penambang menemukan bijih timah di pertemuan Sungai Klang dan Sungai Gombak. Beberapa dekade kemudian, seorang perajin timah muda yang datang untuk bekerja dalam ekonomi timah yang sama mulai menempa pedupaan untuk altar kelenteng — dan bengkel yang dibukanya kini menjadi produsen pewter terbesar di dunia.

@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 Một tấm vải trắng trơn được đặt lên một khung. Một người thợ nhúng một cây bút đồng nhỏ — một cây canting, đầu vòi không rộng hơn đầu một cây bút chì — vào một nồi sáp lỏng, rồi bắt đầu vẽ trực tiếp lên vải: không phải bằng chất màu, mà bằng sáp sẽ từ chối tiếp nhận màu. Chỉ sau khi sáp nguội và cứng lại thì tấm vải mới được nhúng vào bể thuốc nhuộm. Nơi nào có sáp, thuốc nhuộm không thể chạm tới — và khi sáp về sau được luộc ra, điều còn lại là một họa tiết được vẽ không phải bằng màu, mà bằng sự vắng mặt của nó.

@@ -79,6 +79,14 @@ festivalFacts:
   when: "चौबीस सौर-कालखंडों के अनुसार निश्चित, हर वर्ष ग्रेगोरियन 21 से 23 दिसंबर के आसपास (लगभग 22 दिसंबर) पड़ता है, जो वर्ष का सबसे छोटे दिन वाला दिन होता है।"
   holiday: "यह सार्वजनिक अवकाश नहीं है — मलेशिया में शीत संक्रांति देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है।"
   etiquette: "चीनी लोग अधिकतर घर पर सादगी से मनाते हैं, पूरा परिवार साथ बैठकर tangyuan बनाता है और एक भोजन साझा करता है, न कि कोई बड़ा सार्वजनिक आयोजन करते हैं; कुछ परिवार पहले tangyuan से पूर्वजों और देवताओं की पूजा करते हैं फिर परिवार मिलकर खाता है, रीति परिवार और बोली-समूह के अनुसार भिन्न होती है।"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 दिसंबर के अंत की एक शाम, रसोई में चिपचिपे चावल के आटे की सुगंध अदरक के शोरबे की मिठास से घुल-मिल जाती है। पूरा परिवार मेज़ के चारों ओर बैठा है, चावल के आटे के छोटे-छोटे पिंडों को गोलियों में बदल रहा है — कुछ सफ़ेद, कुछ हल्के गुलाबी और हल्के हरे रंग में रंगी हुई। बच्चों के हाथ की गोलियाँ आकार में अलग-अलग हैं, और बड़े-बूढ़े गोलियाँ बनाते हुए कहते हैं: तांगयुआन खा लिया, तो एक वर्ष और बड़े हो गए। यही दिन शीत संक्रांति है।

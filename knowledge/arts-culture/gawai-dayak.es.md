@@ -84,6 +84,14 @@ festivalFacts:
   when: "Cada año, el 1 y el 2 de junio; la observancia comienza la noche del 31 de mayo, y la temporada más amplia de Gawai se cierra formalmente con el ngiling tikai («enrollar la estera») hacia finales de junio."
   holiday: "Fiesta pública en el estado de Sarawak (publicada en el boletín oficial el 25 de septiembre de 1964)."
   etiquette: "La puerta de la casa comunal se abre de par en par: la hospitalidad hacia familiares, vecinos e invitados que acuden de visita forma parte de la fiesta; un saludo habitual es «Gayu Guru, Gerai Nyamai» (larga vida, salud, prosperidad) o «Selamat Hari Gawai». Es ante todo una celebración familiar y de la casa comunal, no un espectáculo turístico."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 El reloj aún no ha dado la medianoche del último día de mayo, y en una casa comunal en algún punto a lo largo de un río de Sarawak el gong espera. El arroz ya está recogido. La galería ha sido barrida y colgada con esteras nuevas. Una jarra de tuak aguarda lista. Cuando el gong suene por fin, el jefe de la casa comunal alzará una copa, y todos a lo largo del extenso porche comunal brindarán por las mismas tres palabras: larga vida, salud, prosperidad.

@@ -80,6 +80,14 @@ festivalFacts:
   when: "El séptimo mes lunar (desde el primer día, cuando «se abre la puerta de los fantasmas», hasta el final del mes, cuando «se cierra la puerta de los fantasmas»); el día quince (día principal de Zhongyuan) marca el punto culminante de las ofrendas."
   holiday: "No es fiesta pública ni a nivel nacional ni en ningún estado de Malasia; las ofrendas, las ceremonias de Yulan Shenghui y los espectáculos de getai se celebran en su mayoría al atardecer y por la noche, tras la jornada laboral."
   etiquette: "En los espectáculos de getai, la primera fila de asientos se deja deliberadamente vacía, reservada a los invitados invisibles, y el público por lo general no se sienta en ella; la tradición popular también aconseja no pisar las ofrendas colocadas al borde del camino ni recoger objetos de valor que se encuentren en el suelo."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 Cuando llega el séptimo mes lunar, la escena nocturna de muchas esquinas de Penang, Klang y Johor cambia en silencio: al borde de la calle se disponen mesitas con fruta, arroz, té y fajos de papel dorado y plateado, mientras el incienso y las velas titilan en la penumbra del atardecer. En un descampado del barrio se levanta una efigie de papel de un dios de varios metros de alto y rostro severo, y frente a ella se monta un escenario; al caer la noche las luces se encienden con fuerza y resuenan los cantos, pero toda la primera fila de sillas al pie del escenario permanece vacía de principio a fin.

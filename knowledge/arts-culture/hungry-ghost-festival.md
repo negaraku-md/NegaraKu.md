@@ -79,6 +79,14 @@ festivalFacts:
   when: "农历七月（七月初一「鬼门开」至月底「鬼门关」），七月十五（中元正日）为祭祀高峰。"
   holiday: "并非马来西亚全国或各州公共假期；祭祀、盂兰胜会与歌台多在下班后的傍晚与夜间进行。"
   etiquette: "歌台最前排座位刻意空着留给无形宾客，观众一般不坐第一排；民间亦有勿踩踏路边供品、勿乱捡地上财物等说法。"
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 农历七月一到，槟城、巴生与柔佛不少街角的入夜景象会悄悄改变：路边摆起小桌，上面是水果、米饭、茶水与成叠的金银纸，香烛在暮色里明灭。到了社区空地上，一座数米高、面目威严的纸扎神像被搭了起来，对面架起戏台，入夜后灯光大亮、歌声响起——而台下最前排的一整排椅子，却始终空着。

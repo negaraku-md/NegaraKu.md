@@ -70,6 +70,14 @@ festivalFacts:
   when: "Le jour de pleine lune du mois lunaire de Vesakha — généralement en avril ou en mai ; comme il suit le calendrier lunaire, la date grégorienne change chaque année."
   holiday: "Jour férié national dans tous les États et territoires fédéraux, déclaré jour férié pour la première fois en 1962 ; en vertu de l'Employment Act 1955, s'il tombe un jour de repos, un jour férié payé de remplacement s'applique."
   etiquette: "L'observance est centrée sur le temple ; de nombreux fidèles portent du blanc et suivent un régime végétarien pour la journée, et l'événement public le plus connu est la procession de chars du Wesak à Kuala Lumpur, au départ du Buddhist Maha Vihara à Brickfields, suivie par de grandes foules de fidèles et de curieux."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 Demandez quand tombe le jour de Wesak et il n'y a pas de réponse fixe : il se déplace. En 2026, il tombe le 31 mai, en 2027 le 20 mai et en 2028 le 9 mai. La raison en est simple : le Wesak est fixé par la lune, et non par une date du calendrier, et le calendrier lunaire et le calendrier grégorien se décalent l'un par rapport à l'autre chaque année.

@@ -84,6 +84,14 @@ festivalFacts:
   when: "Le 1 Syawal du calendrier lunaire ; sa date avance d'environ 11 jours chaque année dans le calendrier grégorien et est fixée par l'observation du croissant de lune."
   holiday: "Les premier et deuxième jours sont déclarés jours fériés fédéraux dans toute la Malaisie."
   etiquette: "Les invités de toutes origines sont les bienvenus aux maisons ouvertes ; habillez-vous avec sobriété, et il est d'usage de retirer ses chaussures avant d'entrer dans une maison."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 La dernière nuit du Ramadan, le pays tout entier semble se mettre en mouvement d'un seul coup. L'autoroute Nord–Sud est bloquée pendant des heures, les gares routières se remplissent de sacs et de boîtes de biscuits, et des lampes pelita s'allument sur les vérandas, des villes jusqu'aux coins les plus reculés du kampung. Le lendemain, 1er Syawal, un mois de jeûne s'achève — et la Malaisie célèbre le Hari Raya Aidilfitri.

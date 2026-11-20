@@ -78,6 +78,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 Sehelai kain putih polos diletakkan pada bingkai. Seorang tukang mencelup pen tembaga kecil — sebuah canting, muncungnya tidak lebih lebar daripada hujung pensel — ke dalam periuk lilin cair, lalu mula melukis terus pada fabrik: bukan dengan pigmen, tetapi dengan lilin yang akan enggan menerima warna. Hanya setelah lilin menyejuk dan mengeras barulah kain itu dimasukkan ke dalam takungan pencelup. Di mana lilin berada, pencelup tidak dapat sampai — dan apabila lilin kemudiannya direbus keluar, apa yang tinggal ialah corak yang dilukis bukan dengan warna, tetapi dengan ketiadaannya.

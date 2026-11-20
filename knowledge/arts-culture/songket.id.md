@@ -77,6 +77,14 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'A detailed close-up of handwoven songket cloth, deep red silk covered in dense floral and diamond motifs brocaded in glinting gold thread, with a contrasting central panel'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
 ---
 
 Bunyi yang paling banyak terdengar di bengkel songket bukanlah bunyi mesin. Ia bunyi kayu ditekan, benang ditarik, dan sebatang lidi bambu diselipkan masuk lalu ditarik keluar — berulang-ulang, satu baris corak pada satu waktu, sepanjang hari.

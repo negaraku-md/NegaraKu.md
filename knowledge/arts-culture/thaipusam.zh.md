@@ -92,6 +92,14 @@ festivalFacts:
   when: "淡米尔历的 Thai 月——每年约在一月下旬或二月;确切日期依淡米尔历而定。"
   holiday: "仅在将其列入宪报的州属与联邦直辖区(包括 Kuala Lumpur、Putrajaya、Selangor、Penang、Perak、Negeri Sembilan、Johor 及 Kedah)为公共假期——并非全国性联邦假期。"
   etiquette: "欢迎非印度教徒观看游行与登阶;在庙宇附近应衣着端庄,在需要之处脱鞋,拍摄肩扛 kavadi 的信众前应先征询同意。"
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 天未破晓，吉隆坡北缘一座石灰岩山丘便已充满声响——鼓声、诵经声，以及数十万赤足在石阶上摩擦的声音。272级台阶的底部，矗立着一尊比十四层楼建筑物还高的金色神像。攀登开始了，而且几乎要持续一整天才会停下。

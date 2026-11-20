@@ -74,6 +74,14 @@ festivalFacts:
   when: "Ditetapkan oleh kalender Hindu (Tamil) lunar, biasanya Oktober atau November; tanggal yang diwartakan bergeser setiap tahun dan ditandai sebagai dapat berubah."
   holiday: "Hari libur umum persekutuan yang diwartakan dan diamati di setiap negara bagian dan Wilayah Persekutuan kecuali Sarawak, yang mempertahankan jadwal hari libur umumnya sendiri."
   etiquette: "Pengunjung disambut di rumah terbuka; berpakaianlah sopan, lepaskan alas kaki sebelum memasuki rumah atau kuil, dan sedikit buah tangan berupa manisan merupakan isyarat yang lazim."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 Untuk satu malam, pelitalah yang berbicara. Sederetan pelita tanah liat kecil disusun di sepanjang pintu masuk dan bibir jendela, sebuah corak lantai dari beras atau serbuk berwarna dilukis di ambang pintu, dan sebuah rumah yang gelap sejam sebelumnya kini bergaris cahaya api. Di situlah asal nama pesta ini: *Deepavali* berasal dari kata Sanskerta bagi "sederetan atau rangkaian cahaya."

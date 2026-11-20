@@ -83,6 +83,14 @@ festivalFacts:
   when: "சந்திர நாட்காட்டியில் 1 Syawal; அதன் தேதி கிரிகோரியன் நாட்காட்டியில் ஆண்டுதோறும் சுமார் 11 நாட்கள் முன்னதாக நகர்கிறது, மேலும் பிறைப் பார்வை (rukyah) மூலம் தீர்மானிக்கப்படுகிறது."
   holiday: "முதல் மற்றும் இரண்டாம் நாட்கள் மலேசியா முழுவதும் கூட்டரசு பொது விடுமுறைகளாக அரசிதழில் அறிவிக்கப்படுகின்றன."
   etiquette: "பல்வேறு இனத்தைச் சேர்ந்த விருந்தினர்கள் திறந்த இல்லத்திற்கு வரவேற்கப்படுகிறார்கள்; அடக்கமான உடை அணியவும், இல்லத்திற்குள் நுழைவதற்கு முன் வழக்கமாகக் காலணிகளைக் கழற்றவும்."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 ரமலானின் கடைசி இரவில், நாடு முழுவதும் ஒரே நேரத்தில் நகர்வது போலத் தோன்றுகிறது. வடக்கு–தெற்கு நெடுஞ்சாலை (North–South Expressway) மணிக்கணக்கில் நெரிசலில் சிக்குகிறது, பேருந்து நிலையங்கள் பைகளும் குயி (kuih) டப்பாக்களும் நிறைந்திருக்கின்றன, மேலும் நகரங்களிலிருந்து கிராமங்களின் (kampung) தொலைதூர மூலைகள் வரை வீட்டுத் திண்ணைகளில் பெலிட்டா (pelita) விளக்குகள் எரிகின்றன. மறுநாள், 1 ஷவ்வால், ஒரு மாத நோன்பு நிறைவடைகிறது — மேலும் மலேசியா ஹரி ராயா ஐதில்ஃபித்ரியைக் கொண்டாடுகிறது.

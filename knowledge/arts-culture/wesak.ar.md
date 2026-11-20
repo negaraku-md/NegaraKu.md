@@ -70,6 +70,14 @@ festivalFacts:
   when: "يوم اكتمال القمر من الشهر القمري Vesakha — عمومًا في أبريل أو مايو؛ ولأنه يتبع التقويم القمري فإن تاريخه الميلادي يتغيّر كل عام."
   holiday: "عطلة رسمية وطنية في جميع الولايات والأقاليم الاتحادية، أُعلنت عطلةً رسمية لأول مرة في 1962؛ وبموجب Employment Act 1955، إذا وقع في يوم راحة تُطبَّق عطلة بديلة مدفوعة الأجر."
   etiquette: "يتمحور الإحياء حول المعبد؛ ويرتدي كثير من المؤمنين الأبيض ويلتزمون نظامًا نباتيًا طوال اليوم، وأشهر فعالية عامة هي موكب عربات Wesak في Kuala Lumpur انطلاقًا من المعبد البوذي Maha Vihara في Brickfields، وتشاهده حشود كبيرة من المؤمنين والمتفرجين."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 اسأل متى يقع يوم ويساك، فلا جواب ثابت — إنه يتحرّك. ففي 2026 يقع في 31 مايو، وفي 2027 في 20 مايو، وفي 2028 في 9 مايو. والسبب بسيط: ويساك يحدّده القمر لا تاريخ التقويم، والتقويمان القمري والميلادي ينحرف أحدهما عن الآخر كل عام.

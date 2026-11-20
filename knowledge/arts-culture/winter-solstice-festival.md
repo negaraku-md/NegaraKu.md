@@ -78,6 +78,14 @@ festivalFacts:
   when: "依二十四节气而定，落在每年公历十二月廿一至廿三日前后（约十二月廿二日），为一年中白昼最短的一天。"
   holiday: "不是公共假期——冬至在马来西亚并非全国或任何州属的公共假期。"
   etiquette: "华人多在家中低调庆祝，一家人围坐搓汤圆、共进一餐，而非举行大型公共活动；部分家庭会先以汤圆祭祖、拜神再合家共食，做法因家庭与方言群而异。"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 十二月下旬的一个傍晚，厨房里糯米粉的香气混着姜汤的甜味。一家人围在桌边，把一小团一小团的糯米搓成圆子——有白的，也有染成粉红、浅绿的。孩子手里的圆子大小不一，大人边搓边说：吃了汤圆，就又长了一岁。这一天是冬至。

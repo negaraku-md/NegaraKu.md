@@ -86,6 +86,14 @@ festivalFacts:
   when: "மே 30 மற்றும் 31 ஆம் தேதிகள்; அந்த இரு நாட்களில் மாநில அளவிலான இறுதிக் கொண்டாட்டத்திற்கு முன் மே மாதம் பெரும்பகுதி முழுவதும் மாவட்டம் வாரியாகக் கொண்டாட்டங்கள் நடைபெறுகின்றன."
   holiday: "மே 30 மற்றும் 31 ஆம் தேதிகளில் சபா மாநிலம் மற்றும் Labuan கூட்டரசுப் பிரதேசத்தில் ஒரு பொது விடுமுறை; நாடளாவிய பொது விடுமுறை அல்ல."
   etiquette: "Unduk Ngadau-ஐ Huminodun புராணக்கதையைப் போற்றும் ஒரு பண்பாட்டு அணிவகுப்பாகப் புரிந்துகொள்ள வேண்டும், சாதாரண அழகுப் போட்டி அல்ல; மேலும் Bambaazon நம்பிக்கையையும் Huminodun புராணக்கதையையும் உறுதிப்படுத்தப்பட்ட உண்மையாக அன்றி, சமூகத்தின் சொந்த மரபாக மதிப்புடன் அணுக வேண்டும்."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 இத்திருவிழா ஒரே ஒரு கருத்தின் அடிப்படையில் பெயரிடப்பட்டுள்ளது: அறுவடை. Kadazandusun மொழியில் *Kaamatan* என்றால் சரியாக அதுவேதான் பொருள்; கொண்டாட்டத்தின் மற்ற அனைத்தும் — சடங்கு, நெல் மது, இறுதி மாலையில் மணிமுடி சூட்டப்படும் அணிவகுப்பு — நெல்லை அறுவடை செய்யும் அந்த ஒரே செயலிலிருந்து வளர்கின்றன.

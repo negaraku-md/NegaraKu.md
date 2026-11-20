@@ -80,6 +80,14 @@ festivalFacts:
   when: "음력 5월 5일로 고정되어 있으며, 이에 대응하는 양력 날짜는 매년 음력에 따라 달라져 보통 양력 6월 중에 든다."
   holiday: "공휴일이 아니다 — 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니며, 일반적으로 평소대로 출근하고 등교한다."
   etiquette: "가정에서의 기념은 대개 명절 당일 쭝쯔를 먹는 한 끼에 집중된다. 용선 등 대규모 공개 행사는 사람들이 참여하기 편하도록 주말이나 가까운 날짜에 열리는 경우가 많다. 일부 가정은 문 앞에 쑥과 창포를 걸거나 명절 정오에 「달걀 세우기」를 시도하기도 하지만, 집집마다 방식은 다르다."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 음력 5월 5일이 다가올 무렵이면 화인 가정의 부엌에서는 쭝쯔 잎과 찹쌀의 향이 피어오릅니다. 주부들은 물에 불린 찹쌀과 고소하게 볶은 소를 깔때기 모양으로 접은 잎에 한 겹 한 겹 채우고, 골풀 끈으로 단단히 묶어, 한 줄 한 줄 솥에 내려 오래 삶습니다. 같은 때, 페낭섬 북서쪽 끝의 뜰록 바항 댐에서는 가느다란 드래곤보트들이 수면을 가르며 나아가고, 뱃머리에 선 북잡이가 박자를 두드리면 수십 명의 노잡이가 그 박자에 맞춰 일제히 노를 젓습니다 — 이것이 말레이시아 단오절의 두 얼굴입니다. 한쪽은 부엌의 쭝쯔 향기, 다른 한쪽은 수면 위의 경주입니다.

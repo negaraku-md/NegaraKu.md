@@ -86,6 +86,14 @@ festivalFacts:
   when: "30 و31 مايو، مع احتفالات تمتدّ عبر معظم مايو من منطقة إلى أخرى قبل الختام على مستوى الولاية في هذين اليومين."
   holiday: "عطلة رسمية في ولاية Sabah والإقليم الاتحادي Labuan يومي 30 و31 مايو؛ وليست عطلة رسمية على مستوى البلاد."
   etiquette: "يُفهَم Unduk Ngadau بوصفه مهرجانًا ثقافيًا يُكرّم أسطورة Huminodun، لا مسابقة جمال عادية، ويُعامَل اعتقاد Bambaazon وأسطورة Huminodun باحترام بوصفهما تقليد المجتمع نفسه لا حقيقةً مؤكَّدة."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 سُمّي المهرجان على فكرة واحدة: الحصاد. فكلمة *كامتان* (Kaamatan) تعني ذلك بالضبط في لغة الكادازاندوسون، وكل ما عداه في الاحتفال — الطقس، ونبيذ الأرز، والمسابقة التي تُتوَّج في المساء الأخير — ينمو من ذلك الفعل الواحد: جني الأرز.

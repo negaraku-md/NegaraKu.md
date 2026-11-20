@@ -80,6 +80,14 @@ festivalFacts:
   when: "Le septième mois lunaire (du premier jour, « ouverture de la porte des fantômes », à la fin du mois, « fermeture de la porte des fantômes »), le quinzième jour du septième mois (jour principal de Zhongyuan) étant le point culminant des offrandes."
   holiday: "Ce n'est un jour férié ni au niveau national ni dans les États de Malaisie ; les offrandes, les Yulan Shenghui et les spectacles de scène (getai) se déroulent surtout en soirée et la nuit, après le travail."
   etiquette: "Les sièges du premier rang des getai sont laissés volontairement vides pour les invités invisibles, et le public ne s'assoit généralement pas au premier rang ; la tradition populaire recommande aussi de ne pas marcher sur les offrandes déposées au bord des rues et de ne pas ramasser au hasard les objets de valeur trouvés par terre."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 Dès l'arrivée du septième mois lunaire, la scène nocturne de bien des coins de rue à Penang, Klang et Johor change discrètement : au bord de la route apparaissent de petites tables garnies de fruits, de riz, de thé et de liasses de papier doré et argenté, l'encens et les bougies vacillant dans la pénombre du crépuscule. Sur un terrain vague du quartier, on dresse une effigie en papier d'un dieu de plusieurs mètres de haut au visage sévère, face à laquelle on monte une scène ; la nuit venue, les lumières s'allument vivement et les chants retentissent — pourtant, toute la première rangée de chaises au pied de la scène demeure vide d'un bout à l'autre.

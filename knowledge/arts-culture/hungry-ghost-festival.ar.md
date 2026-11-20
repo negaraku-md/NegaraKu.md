@@ -80,6 +80,14 @@ festivalFacts:
   when: "الشهر السابع من التقويم القمري (من اليوم الأول حين «تُفتح بوابة الأشباح» إلى نهاية الشهر حين «تُغلق بوابة الأشباح»)، وتبلغ القرابين ذروتها في اليوم الخامس عشر (يوم Zhongyuan الرئيسي)."
   holiday: "ليس عطلة رسمية على مستوى ماليزيا كلها ولا في أي ولاية؛ وتُقام القرابين ومجامع Yulan وعروض المسرح الغنائي (getai / 歌台) غالبًا في المساء والليل بعد ساعات العمل."
   etiquette: "تُترك الصفوف الأمامية في عروض getai خالية عمدًا للضيوف غير المرئيين، فلا يجلس الجمهور عادةً في الصف الأول؛ ويتداول العامة أيضًا أقوالًا مثل عدم الدوس على القرابين الموضوعة على جوانب الطرق، وعدم التقاط ما يقع أرضًا من مال."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 ما إن يحلّ الشهر السابع القمري حتى يتغير مشهد المساء في كثير من زوايا الشوارع في بينانغ وكلانغ وجوهور تغيرًا هادئًا: تُنصب موائد صغيرة على جانب الطريق، عليها فاكهة وأرز وشاي وأكوام من الورق الذهبي والفضي، والبخور والشموع تتراقص في عتمة الغسق. وفي ساحة فارغة بالحي تُرفع تمثال إله ورقي يبلغ ارتفاعه عدة أمتار بوجه مهيب، ويُنصب أمامه مسرح؛ وما إن يحل الظلام حتى تتوهج الأضواء ويعلو الغناء — ومع ذلك يظل صفٌّ كامل من الكراسي أمام المسرح فارغًا طوال الوقت.

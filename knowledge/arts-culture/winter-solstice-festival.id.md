@@ -79,6 +79,14 @@ festivalFacts:
   when: "Ditetapkan menurut dua puluh empat musim (jieqi), jatuh sekitar tanggal 21 hingga 23 Desember Masehi setiap tahun (sekitar 22 Desember), hari dengan siang terpendek dalam setahun."
   holiday: "Bukan hari libur umum — Dongzhi di Malaysia bukan hari libur umum secara nasional maupun di negeri mana pun."
   etiquette: "Orang Tionghoa kebanyakan merayakan secara sederhana di rumah, dengan sekeluarga duduk melingkar membentuk tangyuan dan menyantap satu kali makan bersama, alih-alih mengadakan acara publik besar; sebagian keluarga terlebih dahulu menggunakan tangyuan untuk bersembahyang kepada leluhur dan dewa sebelum santap bersama, dengan praktik yang berbeda-beda menurut keluarga dan kelompok dialek."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 Pada suatu petang di penghujung Desember, aroma tepung ketan di dapur berbaur dengan manisnya air jahe. Seluruh keluarga berkumpul di sekeliling meja, membentuk segumpal demi segumpal adonan ketan menjadi bola-bola — ada yang putih, ada yang diwarnai merah muda dan hijau muda. Bola-bola di tangan anak-anak beragam ukuran, dan sambil membentuknya orang dewasa berkata: setelah memakan tangyuan, kita bertambah satu tahun usia. Hari ini adalah Dongzhi.

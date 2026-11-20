@@ -82,6 +82,14 @@ festivalFacts:
   when: "旧暦八月十五日に固定されており、この日は月が最も丸く明るく、団円（家族の再会）を象徴する。対応する西暦の日付は毎年旧暦に従って変動し、通常は9月または10月にあたる。"
   holiday: "祝日ではない。中秋節はマレーシアでは全国的にも、いずれの州においても祝日ではなく、商店や政府機関は通常どおり運営される（最初の2日間が祝日となる旧正月とは異なる）。"
   etiquette: "華人会館、廟（クアラルンプールの楽聖嶺天后宮など）や地域組織が催す提灯の夕べ、芸能公演などの公開の祝典は、他の民族の住民が一緒に参加し観覧することを歓迎することが多く、民族を越えて共有される一面を持つ。"
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 旧暦8月15日の夜ともなると、ショッピングモールの吹き抜けには赤々と灯る提灯がずらりと吊るされ、住宅地の公園では子どもたちが二人三人と灯した提灯を持って歩き回ります。家の食卓には、小さく切り分けた月餅の箱と熱いお茶が一壺、そばには皮をむいたザボンが一つ。家族は椅子を外に運び出し、一年で最も丸い月を見上げます——これがマレーシアの華人家庭の典型的な中秋の夜です。

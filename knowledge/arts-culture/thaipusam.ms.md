@@ -92,6 +92,14 @@ festivalFacts:
   when: "Bulan Thai dalam takwim Tamil — sekitar hujung Januari atau Februari setiap tahun; tarikh tepatnya mengikut kalendar Tamil."
   holiday: "Cuti umum hanya di negeri dan wilayah persekutuan yang mewartakannya (termasuk Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor dan Kedah) — bukan cuti persekutuan seluruh negara."
   etiquette: "Golongan bukan Hindu dialu-alukan untuk menyaksikan perarakan dan pendakian; berpakaian sopan berhampiran kuil, tanggalkan kasut di tempat yang memerlukan, dan minta kebenaran sebelum memotret penganut yang mengusung kavadi."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 Sebelum subuh, sebuah bukit batu kapur di pinggir utara Kuala Lumpur dipenuhi bunyi — gendang, nyanyian, hentakan beratus ribu kaki ayam di atas batu. Di kaki tangga bertingkat 272, berdiri sebuah patung emas yang lebih tinggi daripada bangunan empat belas tingkat. Pendakian bermula, dan ia tidak akan berhenti hampir sepanjang hari.

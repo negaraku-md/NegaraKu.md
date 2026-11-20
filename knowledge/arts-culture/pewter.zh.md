@@ -59,6 +59,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 一座建立在锡矿之上的城市，最终为世界带来了一门金属工艺。吉隆坡之所以存在，是因为探矿者在巴生河与鹅麦河（Gombak）交汇处发现了锡矿。数十年后，一名少年锡匠为投身同一锡矿经济而来到此地，开始敲制供庙宇神台使用的香炉——他所开设的作坊，如今已是全球最大的锡镴制造商。

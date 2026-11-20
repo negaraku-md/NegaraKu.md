@@ -85,6 +85,14 @@ festivalFacts:
   when: "对应农历二十四节气中的「清明」，公历日期相当固定，通常在四月四日或五日前后；本地家庭多把祭扫分散在节期前后约十天内进行。"
   holiday: "清明节不是马来西亚的公共假期，当天多数商号照常运作。"
   etiquette: "由于焚烧金银纸、纸扎涉及明火与烟雾，部分墓园与纪念园会划定焚烧区或作出规范，近年也有人改用较环保的方式。"
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 四月初的一个清晨，义山的小路上开始出现一家家的人。有人提着水桶和镰刀，有人拎着装满饭菜、水果和纸钱的篮子。找到自家的墓，年轻的先动手除草、扫落叶，年长的指点着把墓碑上褪色的字一笔一笔重新描过；等墓地清理干净，才摆上供品、点香、叩拜，最后在一旁的空地焚烧金银纸。烟火之间，一年一度的清明就这样过去了。

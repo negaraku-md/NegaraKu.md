@@ -63,6 +63,14 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "jeu traditionnel malais", "patrimoine national", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
 ---
 
 Le son arrive d'abord — du bois lourd frappant du bois lourd, suivi d'acclamations. Sur un terrain de village autour de Kuala Nerus, au Terengganu, deux groupes se font face. Un joueur lance sa toupie à l'aide d'une cordelette ; une autre tourne déjà, en attente au sol. Le gagnant n'est pas le plus rapide — c'est celui dont la toupie tourne encore après la frappe.

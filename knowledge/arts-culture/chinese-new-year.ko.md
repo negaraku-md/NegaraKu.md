@@ -75,6 +75,14 @@ festivalFacts:
   when: "음력 정월 초하루이며, 이에 해당하는 양력 날짜는 매년 음력에 따라 바뀌고 공식 관보 공고를 기준으로 한다."
   holiday: "음력설 첫 이틀은 전국 공공 공휴일이며, 법적 근거는 1951년 휴일법(Holidays Act 1951, Act 369) 및 각 주의 관보이다."
   etiquette: "여러 민족을 아우르는 '개방 가옥'(rumah terbuka)은 민족이 다른 친지들이 서로 집을 방문해 새해 인사를 나누도록 한다. 세배하러 가는 손님의 선물과 홍바오는 흔히 길한 짝수로 하며, '사(四)'가 들어간 숫자는 두루 피한다."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 섣달그믐 그날, 많은 상점이 일찍 문을 닫고 고속도로는 고향으로 향하는 차로 가득 찹니다. 밤이 되면 온 가족이 한 상에 둘러앉습니다 — 상에는 생선(해마다 넉넉함을 뜻함), 통닭 한 마리, 단란함을 상징하는 완자, 그리고 젓가락으로 높이 집어 올리는 위성 무침이 오릅니다. 이 섣달그믐 만찬을 적지 않은 말레이시아 화인 가정이 정월 초하루 자체보다 더 중히 여깁니다.

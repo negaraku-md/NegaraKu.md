@@ -92,6 +92,14 @@ festivalFacts:
   when: "तमिल महीने Thai में — प्रत्येक वर्ष लगभग जनवरी के अंत या फरवरी में; सटीक तिथि तमिल पंचांग के अनुसार होती है।"
   holiday: "यह केवल उन राज्यों और संघीय क्षेत्रों में सार्वजनिक अवकाश है जो इसे राजपत्रित करते हैं (जिनमें Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor और Kedah शामिल हैं) — यह देशव्यापी संघीय अवकाश नहीं है।"
   etiquette: "गैर-हिंदू लोगों का शोभायात्राओं और चढ़ाई को देखने के लिए स्वागत है; मंदिर के पास शालीन वस्त्र पहनें, जहाँ आवश्यक हो वहाँ जूते उतारें, और kavadi उठाने वाले श्रद्धालुओं की तस्वीर लेने से पहले अनुमति लें।"
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 भोर से पहले, कुआलालंपुर के उत्तरी छोर पर एक चूना-पत्थर की पहाड़ी ध्वनियों से भर जाती है — ढोल, मंत्रोच्चार, पत्थर पर लाखों नंगे पैरों की सरसराहट। 272 सीढ़ियों की सीढ़ी के आधार पर चौदह मंज़िला इमारत से भी ऊँची एक स्वर्ण आकृति खड़ी है। चढ़ाई शुरू हो चुकी है, और यह लगभग पूरे दिन नहीं रुकेगी।

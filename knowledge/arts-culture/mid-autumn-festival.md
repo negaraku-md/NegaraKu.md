@@ -81,6 +81,14 @@ festivalFacts:
   when: "固定在农历八月十五，这一天月亮最圆最亮，象征团圆；对应公历日期每年随农历变动，通常落在九月或十月。"
   holiday: "并非公共假期。中秋节在马来西亚不是全国或任何州属的公共假期，商号与政府机关照常运作（与首两天放公共假期的农历新年不同）。"
   etiquette: "华人会馆、庙宇（如吉隆坡乐圣岭天后宫）与社区组织举办的灯笼晚会、文艺表演等公开庆典，往往欢迎其他族裔居民一同参与、观赏，带有跨族群共享的一面。"
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 农历八月十五入夜，商场的中庭挂满红彤彤的灯笼，住宅区的公园里，三三两两的孩子提着点亮的灯笼走来走去。家里的餐桌上，一盒切成小块的月饼配着一壶热茶，旁边摆着一颗剥好的柚子。一家人搬了椅子到屋外，抬头看那一年里最圆的月亮——这就是马来西亚华人家庭里典型的中秋夜。

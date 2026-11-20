@@ -74,6 +74,14 @@ festivalFacts:
   when: "힌두(타밀) 음력으로 정해지며 대개 10월이나 11월이다. 관보에 고시되는 날짜는 매년 바뀌며 변경될 수 있는 것으로 표시된다."
   holiday: "관보에 고시되는 연방 공공 공휴일로, 자체 공휴일 일정을 유지하는 Sarawak을 제외한 모든 주와 연방직할지에서 지켜진다."
   etiquette: "방문객은 개방 가옥에 환영받으며, 단정하게 옷을 입고, 집이나 사원에 들어가기 전에 신발을 벗으며, 단것을 담은 작은 선물은 관습적인 예의 표시이다."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 하룻밤 동안은 등불이 말을 합니다. 작은 흙 등불들이 문간과 창턱을 따라 줄지어 놓이고, 색색의 쌀이나 가루로 그린 바닥 문양이 문지방에 깔리며, 한 시간 전만 해도 어두웠던 집이 불꽃으로 윤곽을 드러냅니다. 바로 여기서 축제의 이름이 나옵니다. *디파발리(Deepavali)*는 '한 줄, 곧 이어진 빛'을 뜻하는 산스크리트어에서 왔습니다.

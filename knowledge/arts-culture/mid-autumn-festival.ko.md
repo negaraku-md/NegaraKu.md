@@ -82,6 +82,14 @@ festivalFacts:
   when: "음력 8월 15일로 고정되어 있으며, 이날 달이 가장 둥글고 밝아 단란함을 상징한다. 이에 대응하는 양력 날짜는 매년 음력에 따라 달라져 보통 9월이나 10월에 든다."
   holiday: "공휴일이 아니다. 중추절은 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니며, 상점과 관공서는 평소대로 운영된다(첫 이틀을 공휴일로 쉬는 음력 설과는 다르다)."
   etiquette: "중국계 회관, 사당(예: 쿠알라룸푸르 러성링 천후궁(樂聖嶺天后宮))과 지역 단체가 여는 등롱 야회, 문예 공연 등 공개 행사에는 흔히 다른 민족 주민도 함께 참여하고 관람하도록 환영하여, 민족 간에 함께 나누는 면모를 지닌다."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 음력 8월 15일 밤이 되면 쇼핑몰의 아트리움에는 붉게 빛나는 등롱이 가득 내걸리고, 주택가 공원에서는 아이들이 두셋씩 불을 밝힌 등롱을 들고 거닙니다. 집 식탁에는 작게 자른 월병 한 상자와 뜨거운 차 한 주전자, 그 옆에 껍질을 벗긴 포멜로 하나가 놓여 있습니다. 가족은 의자를 집 밖으로 옮겨 놓고 한 해 중 가장 둥근 달을 올려다봅니다 — 이것이 말레이시아 화인 가정의 전형적인 중추절 밤입니다.

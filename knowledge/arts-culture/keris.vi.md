@@ -101,6 +101,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 Một lưỡi dao răng cưa như lưỡi lửa, được rèn từ sắt và niken gấp lại hàng trăm lần bởi bàn tay một empu — keris không chỉ là vũ khí, mà là nhịp đập của nền văn minh Mã Lai. Nó được giắt bên hông chiến binh, được nâng cao trong nghi lễ hoàng gia, và được truyền lại đời này qua đời khác như báu vật gia đình. Đến tận ngày nay, keris vẫn là biểu tượng của chủ quyền, lòng dũng cảm và bản sắc dân tộc.

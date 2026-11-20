@@ -70,6 +70,14 @@ festivalFacts:
   when: "Hari bulan purnama bulan lunar Vesakha — biasanya April atau Mei; kerana ia mengikut kalendar lunar, tarikh Gregorian berubah setiap tahun."
   holiday: "Cuti umum kebangsaan di semua negeri dan wilayah persekutuan, yang mula diisytiharkan sebagai cuti umum pada 1962; di bawah Employment Act 1955, jika ia jatuh pada hari rehat, cuti berbayar gantian terpakai."
   etiquette: "Sambutannya berpusat pada tokong; ramai penganut memakai pakaian putih dan berpantang dengan diet vegetarian pada hari itu, dan acara awam yang paling terkenal ialah perarakan kereta berhias Wesak Kuala Lumpur dari Buddhist Maha Vihara di Brickfields, yang disaksikan oleh orang ramai penganut dan penonton yang berpusu-pusu."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 Tanya bila Hari Wesak jatuh dan tiada jawapan tetap — ia berubah-ubah. Pada 2026 ia jatuh pada 31 Mei, pada 2027 pada 20 Mei, pada 2028 pada 9 Mei. Sebabnya mudah: Wesak ditetapkan oleh bulan, bukan oleh tarikh kalendar, dan kalendar candra serta Gregori beransur berbeza antara satu sama lain setiap tahun.

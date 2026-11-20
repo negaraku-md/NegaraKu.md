@@ -76,6 +76,14 @@ festivalFacts:
   when: "Mùng một tháng Giêng âm lịch; ngày dương lịch tương ứng thay đổi theo âm lịch mỗi năm, lấy công bố chính thức trên công báo làm chuẩn."
   holiday: "Hai ngày đầu Tết Nguyên đán là ngày nghỉ lễ công cộng trên toàn quốc, căn cứ pháp lý là Holidays Act 1951 (Act 369) và công báo của các bang."
   etiquette: "Phong tục «mở cửa nhà» (rumah terbuka) liên sắc tộc giúp người thân và bạn bè thuộc các dân tộc khác nhau đến nhà chúc Tết lẫn nhau; quà biếu và bao lì xì khi đến chúc Tết thường chọn số chẵn cho may mắn và phổ biến tránh những con số có chữ «bốn»."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 Vào ngày giao thừa, nhiều cửa hiệu đóng cửa sớm, các đường cao tốc chật kín xe hướng về quê nhà. Đến tối, cả nhà quây quần bên một chiếc bàn — trên bàn có cá (niên niên hữu dư), có nguyên một con gà, có những viên tròn mang ngụ ý đoàn viên, và một món gỏi cá phải dùng đũa hất thật cao. Bữa cơm đoàn viên đêm giao thừa này được không ít gia đình người Hoa Malaysia coi trọng hơn cả bản thân ngày mùng một Tết.

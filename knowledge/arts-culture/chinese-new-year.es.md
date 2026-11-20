@@ -76,6 +76,14 @@ festivalFacts:
   when: "El primer día del primer mes del calendario lunar; la fecha correspondiente del calendario gregoriano varía cada año según el calendario lunar, y se rige por lo publicado en el boletín oficial."
   holiday: "Los dos primeros días del Año Nuevo lunar son festivo público nacional, con fundamento jurídico en la Holidays Act 1951 (Act 369) y en los boletines oficiales de cada estado."
   etiquette: "Las «puertas abiertas» (rumah terbuka) entre comunidades permiten que familiares y amigos de distintas etnias se visiten para felicitarse el año nuevo; los obsequios y los sobres rojos que se llevan a estas visitas suelen ir en cifras pares, de buen augurio, y por lo general se evitan los números que contienen el «cuatro»."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 En la víspera de Año Nuevo, muchas tiendas cierran temprano y las autopistas se llenan de coches que ponen rumbo a los pueblos natales. Al caer la tarde, la familia se reúne en torno a una misma mesa, con pescado encima (por lo de «excedente cada año»), un pollo entero, albóndigas que simbolizan la reunión y un plato frío de yee sang, pensado para levantarlo bien alto con los palillos. Muchas familias chinas de Malasia consideran esta cena de reunión de la víspera más importante que el primer día del nuevo año en sí.

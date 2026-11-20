@@ -70,6 +70,14 @@ festivalFacts:
   when: "चंद्र महीने Vesakha की पूर्णिमा का दिन — आम तौर पर अप्रैल या मई; चूँकि यह चंद्र पंचांग का अनुसरण करता है, इसकी ग्रेगोरियन तारीख हर वर्ष बदलती है।"
   holiday: "सभी राज्यों और संघीय क्षेत्रों में एक राष्ट्रीय सार्वजनिक अवकाश, जिसे पहली बार 1962 में सार्वजनिक अवकाश घोषित किया गया; Employment Act 1955 के अंतर्गत, यदि यह किसी विश्राम दिवस पर पड़े तो एक प्रतिस्थापित सवेतन अवकाश लागू होता है।"
   etiquette: "अनुष्ठान मंदिर पर केंद्रित होता है; कई श्रद्धालु उस दिन श्वेत वस्त्र पहनते हैं और शाकाहारी आहार रखते हैं, और सबसे प्रसिद्ध सार्वजनिक आयोजन कुआलालंपुर की Wesak झाँकी यात्रा है जो Brickfields के बौद्ध Maha Vihara से निकलती है, जिसे श्रद्धालुओं और दर्शकों की बड़ी भीड़ देखती है।"
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 पूछिए कि वेसाक दिवस कब पड़ता है और कोई निश्चित उत्तर नहीं है — यह बदलता रहता है। 2026 में यह 31 मई को पड़ता है, 2027 में 20 मई को, 2028 में 9 मई को। कारण सरल है: वेसाक चंद्रमा द्वारा तय होता है, किसी पंचांग-तिथि से नहीं, और चांद्र तथा ग्रेगोरियन पंचांग हर वर्ष एक-दूसरे के सापेक्ष खिसकते रहते हैं।

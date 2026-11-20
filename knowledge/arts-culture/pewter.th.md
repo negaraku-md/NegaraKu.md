@@ -58,6 +58,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 เมืองที่สร้างขึ้นบนดีบุกกลับมอบงานหัตถกรรมโลหะให้แก่โลก กัวลาลัมเปอร์ (Kuala Lumpur) ดำรงอยู่ได้เพราะนักสำรวจแร่พบสินแร่ดีบุกตรงที่แม่น้ำกลัง (Klang) และกอมบัก (Gombak) บรรจบกัน หลายทศวรรษต่อมา ช่างดีบุกวัยรุ่นที่มาทำงานในเศรษฐกิจดีบุกเดียวกันนั้นได้เริ่มตีกระถางธูปสำหรับแท่นบูชาในศาลเจ้า — และโรงงานที่เขาเปิดขึ้นปัจจุบันเป็นผู้ผลิตพิวเตอร์ที่ใหญ่ที่สุดในโลก

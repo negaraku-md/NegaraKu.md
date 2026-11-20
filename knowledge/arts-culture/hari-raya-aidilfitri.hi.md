@@ -84,6 +84,14 @@ festivalFacts:
   when: "चंद्र पंचांग में 1 Syawal; इसकी तिथि ग्रेगोरियन कैलेंडर पर प्रत्येक वर्ष लगभग 11 दिन पहले खिसकती है और चंद्रमा के दर्शन (rukyah) के माध्यम से निर्धारित की जाती है।"
   holiday: "पहला और दूसरा दिन पूरे मलेशिया में संघीय सार्वजनिक अवकाश के रूप में राजपत्रित है।"
   etiquette: "विभिन्न जातीय समुदायों के अतिथियों का rumah terbuka में स्वागत है; शालीन वस्त्र पहनें, और आमतौर पर घर में प्रवेश करने से पहले जूते उतार दें।"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 रमज़ान की आख़िरी रात, पूरा देश मानो एक साथ हरकत में आ जाता है। उत्तर–दक्षिण एक्सप्रेसवे (North–South Expressway) घंटों जाम रहता है, बस अड्डे थैलों और कुकीज़ के डिब्बों से भरे रहते हैं, और शहरों से लेकर कम्पुंग (kampung) के दूर-दराज़ कोनों तक बरामदों में पेलिता (pelita) दीप जलाए जाते हैं। अगले दिन, 1 शव्वाल, रोज़ों का एक महीना समाप्त होता है — और मलेशिया हरि राया आइदिलफित्री मनाता है।

@@ -84,6 +84,14 @@ festivalFacts:
   when: "每年 6 月 1 日和 2 日；庆祝活动自 5 月 31 日傍晚开始，更广泛的 Gawai 节期在 6 月底以 ngiling tikai（「卷席」）正式结束。"
   holiday: "砂拉越州的公共假期（于 1964 年 9 月 25 日宪报公布）。"
   etiquette: "长屋敞开大门——款待前来探访的家人、邻里与客人是节日的一部分；常见的祝语是「Gayu Guru, Gerai Nyamai」（长寿、健康、繁荣），或「Selamat Hari Gawai」。它首先是家庭与长屋的庆典，而非供游客观赏的表演。"
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 5月的最后一天，时钟尚未敲响午夜，在砂拉越某条河边的一座长屋里，铜锣已在等待。稻米已经收成入仓。长廊已经打扫干净，挂上了新的草席。一坛 tuak（米酒）已备妥待用。当铜锣终于敲响，长屋头人便会举杯，沿着长长的公共走廊，众人齐声为同样的三个字祝酒：长寿、健康、繁荣。

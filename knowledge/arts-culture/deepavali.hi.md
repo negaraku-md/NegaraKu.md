@@ -74,6 +74,14 @@ festivalFacts:
   when: "चंद्र आधारित हिंदू (तमिल) पंचांग के अनुसार निर्धारित, आमतौर पर अक्टूबर या नवंबर में; राजपत्रित तिथि हर वर्ष बदलती है और इसे परिवर्तन के अधीन के रूप में दर्शाया जाता है।"
   holiday: "यह एक राजपत्रित संघीय सार्वजनिक अवकाश है जो Sarawak को छोड़कर हर राज्य और संघीय क्षेत्र में मनाया जाता है, क्योंकि Sarawak अपनी स्वयं की सार्वजनिक-अवकाश अनुसूची रखता है।"
   etiquette: "खुले घरों में आगंतुकों का स्वागत है; शालीन वस्त्र पहनें, घर या मंदिर में प्रवेश करने से पहले जूते उतारें, और मिठाइयों का छोटा-सा उपहार एक प्रथागत भाव है।"
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 एक रात के लिए, बोलने का काम दीया करता है। मिट्टी के छोटे-छोटे दीयों की पंक्तियाँ द्वारों और खिड़कियों की दहलीज़ों पर सजाई जाती हैं, रंगीन चावल या चूर्ण से बनी एक फर्श-आकृति देहरी पर रखी जाती है, और एक घर जो घंटेभर पहले अँधेरे में था, लौ की रेखाओं में उभर आता है। पर्व को इसी से अपना नाम मिलता है: *दीपावली* संस्कृत के «रोशनी की एक पंक्ति या शृंखला» से आता है।

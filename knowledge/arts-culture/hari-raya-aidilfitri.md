@@ -83,6 +83,14 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 Pada malam terakhir Ramadan, seluruh negara seolah-olah bergerak sekali gus. Lebuh raya utara–selatan sesak berjam-jam, stesen bas penuh beg dan bekas kuih, dan lampu pelita menyala di beranda rumah dari bandar hingga ke pelosok kampung. Esoknya, 1 Syawal, sebulan berpuasa berakhir — dan Malaysia menyambut Hari Raya Aidilfitri.

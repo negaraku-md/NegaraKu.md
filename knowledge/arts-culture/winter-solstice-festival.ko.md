@@ -79,6 +79,14 @@ festivalFacts:
   when: "24절기에 따라 정해지며, 매년 양력 12월 21일부터 23일 전후(약 12월 22일)에 들며, 한 해 중 낮이 가장 짧은 날이다."
   holiday: "공휴일이 아니다 — 동지는 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니다."
   etiquette: "중국계는 대개 집에서 조용히 기념하여, 온 가족이 둘러앉아 탕위안을 빚고 한 끼를 함께하지, 대규모 공개 행사를 열지는 않는다. 일부 가정은 먼저 탕위안으로 조상과 신에게 제사를 올린 뒤 온 가족이 함께 먹기도 하며, 방식은 가정과 방언 집단에 따라 다르다."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 12월 하순의 어느 저녁, 부엌에는 찹쌀가루 향이 생강탕의 단내와 어우러진다. 온 가족이 식탁에 둘러앉아 작은 찹쌀 반죽 덩어리를 하나하나 경단으로 빚는다 — 흰 것도 있고 분홍빛, 연초록으로 물들인 것도 있다. 아이들 손의 경단은 크기가 제각각이고, 어른들은 빚으면서 말한다. 탕위안을 먹으면 또 한 살을 더 먹는 거라고. 이날이 바로 동지다.

@@ -86,6 +86,14 @@ festivalFacts:
   when: "Ngày 30 và 31 tháng 5, với các hoạt động mừng lễ diễn ra suốt phần lớn tháng 5 theo từng huyện trước khi có phần cao trào cấp bang vào hai ngày đó."
   holiday: "Là ngày lễ công cộng tại bang Sabah và lãnh thổ liên bang Labuan vào ngày 30 và 31 tháng 5; không phải ngày lễ công cộng trên toàn quốc."
   etiquette: "Hãy hiểu Unduk Ngadau là một cuộc trình diễn văn hóa tôn vinh truyền thuyết Huminodun, chứ không phải một cuộc thi sắc đẹp thông thường, và hãy nhìn nhận tín ngưỡng Bambaazon cùng truyền thuyết Huminodun một cách tôn trọng như truyền thống riêng của cộng đồng, chứ không phải như sự thật được khẳng định."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 Lễ hội được đặt tên theo một ý duy nhất: mùa gặt. *Kaamatan* nghĩa đúng như vậy trong tiếng Kadazandusun, và mọi thứ khác trong lễ mừng — nghi lễ, rượu gạo, cuộc thi được đăng quang vào tối cuối cùng — đều mọc ra từ một hành động ấy là thu hoạch lúa về.

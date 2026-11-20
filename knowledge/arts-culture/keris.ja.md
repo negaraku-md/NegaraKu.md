@@ -100,6 +100,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 炎の舌のようにぎざぎざとした刃――鉄とニッケルを幾百回も折り重ねて打ち延ばした、エンプ（empu、熟練の鍛冶職人）の手による一振り。クリス（keris、短剣）は単なる武器ではなく、マレー文明の脈動そのものである。それは戦士の腰に差され、王室の儀式で高く掲げられ、一族の家宝として代々受け継がれてきた。今日に至るまで、クリスは主権と勇気、そして民族のアイデンティティの象徴であり続けている。

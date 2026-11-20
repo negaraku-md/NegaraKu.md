@@ -77,6 +77,14 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tissage songket", "kek tenun", "fil d'or", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'A detailed close-up of handwoven songket cloth, deep red silk covered in dense floral and diamond motifs brocaded in glinting gold thread, with a contrasting central panel'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
 ---
 
 Le son que l'on entend le plus souvent dans un atelier de songket n'est pas celui d'une machine. C'est celui du bois que l'on presse, du fil que l'on tire et d'une pointe de bambou qui se glisse puis se retire, encore et encore, une rangée de motif à la fois, toute la journée.

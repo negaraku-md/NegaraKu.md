@@ -80,6 +80,14 @@ festivalFacts:
   when: "음력 7월(7월 초하루 「귀문이 열림」부터 월말 「귀문이 닫힘」까지)이며, 7월 15일(중원 정일)이 제사의 절정이다."
   holiday: "말레이시아 전국이나 각 주의 공휴일이 아니며, 제사·우란승회·가대(歌台)는 대개 퇴근 후 저녁과 밤에 진행된다."
   etiquette: "가대의 맨 앞줄 좌석은 보이지 않는 손님을 위해 일부러 비워 두며, 관객은 일반적으로 첫 줄에 앉지 않는다. 민간에서는 길가의 제물을 밟지 말 것, 바닥에 떨어진 재물을 함부로 줍지 말 것 등의 이야기도 있다."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 음력 칠월에 접어들면, 페낭, 클랑, 조호르의 적지 않은 길모퉁이의 밤 풍경이 슬그머니 달라집니다. 길가에 작은 상이 차려지고, 그 위에는 과일, 밥, 찻물과 겹겹이 쌓인 금은지가 놓이며, 향과 촛불이 땅거미 속에서 깜박입니다. 동네 공터에는 높이 수 미터의 위엄 어린 얼굴을 한 종이 신상이 세워지고, 그 맞은편에 무대가 설치됩니다. 밤이 되면 조명이 환히 켜지고 노랫소리가 울려 퍼지지만 — 무대 아래 맨 앞줄 의자는 한 줄 통째로 내내 비어 있습니다.

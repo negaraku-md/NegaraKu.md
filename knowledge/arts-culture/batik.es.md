@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 Una pieza de tela blanca lisa se monta en un bastidor. Un artesano moja una pequeña pluma de cobre — un canting, cuya boquilla no es más ancha que la punta de un lápiz — en un recipiente de cera fundida, y empieza a dibujar directamente sobre el tejido: no con pigmento, sino con cera que se negará a tomar color. Solo después de que la cera se ha enfriado y endurecido pasa la tela a un baño de tinte. Dondequiera que esté la cera, el tinte no puede llegar — y cuando la cera se hierve más tarde para retirarla, lo que queda es un patrón dibujado no con color, sino con su ausencia.

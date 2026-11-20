@@ -70,6 +70,14 @@ festivalFacts:
   when: "Ngày trăng tròn của tháng âm lịch Vesakha — thường vào tháng 4 hoặc tháng 5; vì theo âm lịch nên ngày dương lịch thay đổi mỗi năm."
   holiday: "Là ngày lễ công cộng toàn quốc tại tất cả các bang và lãnh thổ liên bang, lần đầu được tuyên bố là ngày lễ công cộng vào năm 1962; theo Employment Act 1955, nếu rơi vào ngày nghỉ thì áp dụng một ngày nghỉ bù có lương."
   etiquette: "Việc cử hành tập trung tại chùa; nhiều tín đồ mặc áo trắng và ăn chay trong ngày, và sự kiện công cộng nổi tiếng nhất là đoàn rước xe hoa Wesak ở Kuala Lumpur xuất phát từ chùa Phật giáo Maha Vihara ở Brickfields, được đông đảo tín đồ và người xem theo dõi."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 Hỏi Ngày Wesak rơi vào lúc nào và không có câu trả lời cố định — nó dịch chuyển. Năm 2026 nó rơi vào ngày 31 tháng 5, năm 2027 vào ngày 20 tháng 5, năm 2028 vào ngày 9 tháng 5. Lý do đơn giản: Wesak được ấn định theo mặt trăng, chứ không phải theo một ngày trên lịch, và lịch âm cùng lịch dương trôi lệch nhau mỗi năm.

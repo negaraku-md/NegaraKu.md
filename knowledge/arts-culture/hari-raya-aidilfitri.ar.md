@@ -84,6 +84,14 @@ festivalFacts:
   when: "1 Syawal في التقويم القمري؛ ويتقدّم تاريخه نحو 11 يومًا كل عام في التقويم الميلادي، ويُحدَّد عبر رؤية هلال الشهر."
   holiday: "يُعلَن اليومان الأول والثاني عطلة رسمية اتحادية في جميع أنحاء ماليزيا."
   etiquette: "يُرحَّب بالضيوف من مختلف الأعراق في الأبواب المفتوحة؛ ارتدِ ملابس محتشمة، ويُخلَع الحذاء عادةً قبل دخول المنزل."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 في آخر ليلة من رمضان، تبدو البلاد كلّها وكأنها تتحرّك دفعةً واحدة. فالطريق السريع بين الشمال والجنوب (North–South Expressway) مزدحم ساعات، ومحطّات الحافلات تمتلئ بالحقائب وعُلَب الكعك، ومصابيح البيليتا (pelita) تُضاء على الشُّرُفات من المدن إلى أقاصي القرى (kampung). وفي اليوم التالي، 1 شوّال، ينتهي شهر من الصيام — وتحتفل ماليزيا بهاري رايا عيد الفطر (Hari Raya Aidilfitri).

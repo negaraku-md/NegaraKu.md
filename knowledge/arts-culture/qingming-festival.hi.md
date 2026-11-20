@@ -86,6 +86,14 @@ festivalFacts:
   when: "चीनी पंचांग के चौबीस सौर-कालखंडों में से 「क़िंगमिंग」 से मेल खाता है, जिसकी ग्रेगोरियन तारीख काफ़ी निश्चित है, आम तौर पर 4 या 5 अप्रैल के आसपास; स्थानीय परिवार अधिकतर पूजा-सफाई को त्योहार के आगे-पीछे लगभग दस दिनों में फैलाकर करते हैं।"
   holiday: "क़िंगमिंग त्योहार मलेशिया का सार्वजनिक अवकाश नहीं है, उस दिन अधिकांश व्यापारिक प्रतिष्ठान सामान्य रूप से चलते हैं।"
   etiquette: "चूँकि स्वर्ण-रजत कागज़ और कागज़ की भेंटें जलाने में खुली आग और धुआँ शामिल होता है, कुछ कब्रिस्तान और स्मारक उद्यान जलाने के लिए क्षेत्र निर्धारित करते हैं या नियम बनाते हैं, हाल के वर्षों में कुछ लोग अधिक पर्यावरण-अनुकूल तरीके भी अपनाने लगे हैं।"
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 अप्रैल की शुरुआत की एक सुबह, कब्रिस्तान की पगडंडियों पर परिवार-दर-परिवार लोग दिखने लगते हैं। कोई बाल्टी और हँसिया लिए है, कोई पके भोजन, फल और काग़ज़ी धन से भरी टोकरियाँ थामे है। अपने परिवार की कब्र मिलते ही युवा खरपतवार हटाने और पत्ते बुहारने में जुट जाते हैं, जबकि बुज़ुर्ग बताते हैं कि समाधि-शिला पर फीके अक्षरों को एक-एक करके फिर कैसे रँगना है; कब्र साफ़ हो जाने पर ही भेंटें सजाई जाती हैं, धूप जलाकर श्रद्धांजलि दी जाती है, और अंत में पास की खुली ज़मीन पर काग़ज़ी धन जलाया जाता है। धुएँ और लपटों के बीच, साल में एक बार आने वाला चिंगमिंग यों ही बीत जाता है।

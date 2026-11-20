@@ -86,6 +86,14 @@ festivalFacts:
   when: "旧暦の二十四節気のうちの「清明」にあたり、西暦の日付はかなり固定的で、通常は4月4日または5日前後である。現地の家庭は墓参りを節期の前後約十日間に分散して行うことが多い。"
   holiday: "清明節はマレーシアの祝日ではなく、当日は大半の商店が通常どおり営業する。"
   etiquette: "金銀紙や紙扎を焼くことは炎や煙を伴うため、一部の墓園や記念公園は焼却区域を定めたり規定を設けたりしており、近年ではより環境に配慮した方法に切り替える人もいる。"
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 四月初めのある朝、墓地の小道に家族連れの姿が現れはじめる。バケツと鎌を提げる者、料理や果物、紙銭を詰めた籠を手にする者。自家の墓を見つけると、若い者がまず雑草を取り除き落ち葉を掃き、年長者が墓石の色あせた文字を一画ずつ塗り直すよう指図する。墓がきれいになってはじめて供え物を並べ、線香をともして拝み、最後にそばの空き地で金銀紙を焼く。煙と炎のなかで、年に一度の清明はこうして過ぎてゆく。

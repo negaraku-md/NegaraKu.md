@@ -86,6 +86,14 @@ festivalFacts:
   when: "5 月 30 日和 31 日，各县在整个 5 月间陆续庆祝，最后于这两天举行州级的压轴活动。"
   holiday: "沙巴州与纳闽联邦直辖区在 5 月 30 日和 31 日的公共假期；并非全国性的公共假期。"
   etiquette: "应将 Unduk Ngadau 理解为纪念 Huminodun 传说的文化选美盛会，而非一般的选美比赛，并应尊重地将 Bambaazon 信仰与 Huminodun 传说视为该社群自身的传统，而非既定事实。"
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 这个节庆的命名源自一个单一的概念：丰收。*Kaamatan*在卡达山杜顺语中的意思正是如此，而庆典中的一切——仪式、米酒、最后一晚加冕的选美——都是从收割稻米这一个行动中生长出来的。

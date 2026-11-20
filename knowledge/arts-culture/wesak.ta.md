@@ -70,6 +70,14 @@ festivalFacts:
   when: "Vesakha சந்திர மாதத்தின் முழுநிலா நாள் — பொதுவாக ஏப்ரல் அல்லது மே; சந்திர நாட்காட்டியைப் பின்பற்றுவதால், கிரிகோரியன் தேதி ஒவ்வொரு ஆண்டும் மாறுகிறது."
   holiday: "அனைத்து மாநிலங்கள் மற்றும் கூட்டரசுப் பிரதேசங்களிலும் ஒரு தேசியப் பொது விடுமுறை, 1962 இல் முதன்முதலில் பொது விடுமுறையாக அறிவிக்கப்பட்டது; Employment Act 1955 இன் கீழ், இது ஓய்வு நாளில் வந்தால் ஒரு மாற்று ஊதிய விடுமுறை பொருந்தும்."
   etiquette: "இக்கடைப்பிடிப்பு கோயிலை மையமாகக் கொண்டது; பல பக்தர்கள் வெள்ளை உடை அணிந்து அந்நாளில் சைவ உணவைக் கடைப்பிடிக்கின்றனர், மேலும் மிகவும் அறியப்பட்ட பொது நிகழ்வு Brickfields-இல் உள்ள Buddhist Maha Vihara-இலிருந்து புறப்படும் கோலாலம்பூர் Wesak அலங்காரத் தேர் ஊர்வலம் ஆகும், இதை ஏராளமான பக்தர்களும் பார்வையாளர்களும் கண்டு களிக்கின்றனர்."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 வெசாக் தினம் எப்போது விழுகிறது என்று கேட்டால் நிலையான பதில் எதுவும் இல்லை — அது மாறுகிறது. 2026ல் அது 31 மே அன்றும், 2027ல் 20 மே அன்றும், 2028ல் 9 மே அன்றும் விழுகிறது. காரணம் எளிது: வெசாக் நிலவால் நிர்ணயிக்கப்படுகிறது, நாட்காட்டித் தேதியால் அல்ல; சந்திர மற்றும் கிரிகோரியன் நாட்காட்டிகள் ஒவ்வொரு ஆண்டும் ஒன்றுக்கொன்று விலகிச் செல்கின்றன.

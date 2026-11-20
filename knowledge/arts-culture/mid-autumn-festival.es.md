@@ -82,6 +82,14 @@ festivalFacts:
   when: "Fijada en el decimoquinto día del octavo mes lunar, día en que la luna está más llena y brillante, símbolo de la reunión familiar; su fecha en el calendario gregoriano varía cada año según el calendario lunar y suele caer en septiembre u octubre."
   holiday: "No es fiesta pública. El Festival del Medio Otoño no es fiesta pública en Malasia ni a nivel nacional ni en ningún estado, y los comercios y los organismos gubernamentales funcionan con normalidad (a diferencia del Año Nuevo Lunar, cuyos dos primeros días son fiesta pública)."
   etiquette: "Las celebraciones públicas organizadas por las asociaciones chinas, los templos (como el templo Thean Hou de Kuala Lumpur) y las organizaciones comunitarias —veladas de faroles, representaciones artísticas y otras— suelen acoger la participación y la asistencia de residentes de otras etnias, con una dimensión de disfrute interétnico compartido."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 Al caer la noche del decimoquinto día del octavo mes lunar, el atrio del centro comercial se llena de farolillos rojos encendidos, y en el parque de la zona residencial los niños, de dos en dos y de tres en tres, van de aquí para allá con farolillos encendidos. En la mesa de casa, una caja de pasteles de luna cortados en trozos pequeños acompaña una tetera de té caliente, con un pomelo pelado al lado. La familia saca sillas al exterior y alza la vista hacia la luna más redonda del año: esta es una típica noche de Medio Otoño en un hogar chino de Malasia.

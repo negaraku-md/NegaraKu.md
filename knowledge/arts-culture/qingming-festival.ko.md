@@ -86,6 +86,14 @@ festivalFacts:
   when: "음력 24절기 중 「청명」에 해당하며, 양력 날짜가 상당히 고정적이어서 보통 4월 4일이나 5일 전후다. 현지 가정은 대개 성묘를 절기 전후 약 열흘 안에 분산하여 행한다."
   holiday: "청명절은 말레이시아의 공휴일이 아니며, 당일에는 대부분의 상점이 평소대로 운영된다."
   etiquette: "금은지와 종이 공예를 태우는 일은 불꽃과 연기를 수반하므로, 일부 묘지와 추모원은 소각 구역을 지정하거나 규정을 둔다. 근년에는 보다 친환경적인 방식으로 바꾸는 사람도 있다."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 4월 초의 어느 이른 아침, 묘지의 오솔길에 가족들이 하나둘 모습을 드러낸다. 양동이와 낫을 든 이도 있고, 음식과 과일, 지전을 가득 담은 바구니를 든 이도 있다. 자기 집안의 묘를 찾으면 젊은이들이 먼저 잡초를 뽑고 낙엽을 쓸며, 어른들은 묘비의 바랜 글자를 한 획씩 다시 칠하는 법을 일러준다. 묘가 깨끗해진 뒤에야 제물을 차리고 향을 피워 절하며, 마지막으로 옆의 빈터에서 지전을 태운다. 연기와 불길 속에서, 한 해에 한 번 오는 청명이 이렇게 지나간다.

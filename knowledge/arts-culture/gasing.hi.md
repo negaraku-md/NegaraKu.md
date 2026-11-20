@@ -63,6 +63,14 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "गासिंग", "gasing uri", "gasing pangkah", "पारंपरिक मलय खेल", "राष्ट्रीय विरासत", "Kuala Nerus", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
 ---
 
 ध्वनि पहले आती है — भारी लकड़ी भारी लकड़ी से टकराती है, और उसके बाद जयकार। कुआला नेरुस, तेरेंगानु के आसपास एक गाँव के मैदान पर, दो दल आमने-सामने खड़े होते हैं। एक खिलाड़ी अपने लट्टू को एक डोरी के साथ फेंकता है; दूसरा पहले से ही घूम रहा है, ज़मीन पर प्रतीक्षा करता हुआ। विजेता सबसे तेज़ नहीं होता — बल्कि वह होता है जिसका लट्टू प्रहार के बाद भी घूमता रहता है।

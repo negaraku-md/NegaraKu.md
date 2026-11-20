@@ -86,6 +86,14 @@ festivalFacts:
   when: "Elle correspond à « Qingming », l'un des vingt-quatre termes solaires du calendrier lunaire ; la date grégorienne est assez fixe, généralement autour du 4 ou du 5 avril ; les familles locales répartissent souvent les visites aux tombes sur une dizaine de jours autour de cette période."
   holiday: "La fête de Qingming n'est pas un jour férié en Malaisie, et la plupart des commerces fonctionnent normalement ce jour-là."
   etiquette: "Comme le brûlage du papier-monnaie et des offrandes en papier implique flammes et fumée, certains cimetières et parcs commémoratifs délimitent des zones de brûlage ou édictent des règles, et ces dernières années certaines personnes adoptent des méthodes plus respectueuses de l'environnement."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 Un petit matin de début avril, le long des sentiers du cimetière, des familles entières commencent à apparaître. Les uns portent des seaux et des faucilles ; les autres, des paniers remplis de plats cuisinés, de fruits et de monnaie en papier. Une fois la tombe familiale trouvée, les plus jeunes se mettent à arracher les mauvaises herbes et à balayer les feuilles, tandis que les aînés indiquent comment repeindre, trait après trait, les caractères délavés de la stèle ; ce n'est qu'une fois la tombe propre que l'on dispose les offrandes, allume l'encens et rend hommage, avant de brûler enfin la monnaie en papier sur un terrain dégagé voisin. Entre la fumée et les flammes, le Qingming annuel passe ainsi.

@@ -92,6 +92,14 @@ relations:
 related: ["selangor", "penang", "religion-statistics", "article-3-religion"]
 keywords: ["Thaipusam Malaysia", "Batu Caves Thaipusam", "kavadi", "silver chariot procession", "Lord Murugan", "272 steps", "paal kudam", "Waterfall Hilltop Temple Penang", "Thaipusam public holiday"]
 framework: history-culture
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 Before dawn, a limestone hill on the northern edge of Kuala Lumpur fills with sound — drums, chanting, the shuffle of hundreds of thousands of bare feet on stone. At the base of a 272-step staircase stands a golden figure taller than a fourteen-storey building. The climb has begun, and it will not stop for the better part of a day.

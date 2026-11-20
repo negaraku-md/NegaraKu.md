@@ -92,6 +92,14 @@ festivalFacts:
   when: "El mes tamil de Thai, en torno a finales de enero o febrero de cada año; la fecha exacta sigue el calendario tamil."
   holiday: "Es día festivo únicamente en los estados y territorios federales que lo decretan en el boletín oficial (entre ellos Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor y Kedah), no una festividad federal de ámbito nacional."
   etiquette: "Los no hindúes pueden presenciar las procesiones y la subida; vista con recato cerca del templo, descálcese donde se requiera y pida permiso antes de fotografiar a los devotos que portan el kavadi."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 Antes del amanecer, una colina de piedra caliza en el extremo norte de Kuala Lumpur se llena de sonido: tambores, cánticos, el roce de cientos de miles de pies descalzos sobre la piedra. Al pie de una escalinata de 272 escalones se alza una figura dorada más alta que un edificio de catorce plantas. La subida ha comenzado, y no se detendrá durante gran parte del día.

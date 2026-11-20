@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 Une pièce d'étoffe blanche unie est montée sur un cadre. Un artisan trempe un petit stylet de cuivre — un canting, dont le bec n'est pas plus large qu'une pointe de crayon — dans un récipient de cire fondue, et commence à dessiner directement sur le tissu : non pas avec du pigment, mais avec de la cire qui refusera de prendre la couleur. Ce n'est qu'après que la cire a refroidi et durci que l'étoffe passe dans un bain de teinture. Partout où se trouve la cire, la teinture ne peut atteindre — et lorsque la cire est ensuite bouillie pour être retirée, ce qui reste est un motif dessiné non pas avec de la couleur, mais avec son absence.

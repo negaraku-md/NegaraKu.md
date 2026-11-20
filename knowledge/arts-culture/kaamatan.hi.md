@@ -86,6 +86,14 @@ festivalFacts:
   when: "30 और 31 मई, जिसमें उन दो दिनों पर राज्य-स्तरीय समापन से पहले, मई के अधिकांश भाग में ज़िले-दर-ज़िले उत्सव चलते हैं।"
   holiday: "30 और 31 मई को सबाह राज्य और लाबुआन संघीय क्षेत्र में सार्वजनिक अवकाश; यह देशव्यापी सार्वजनिक अवकाश नहीं है।"
   etiquette: "Unduk Ngadau को Huminodun किंवदंती का सम्मान करने वाली सांस्कृतिक प्रतियोगिता के रूप में समझें, न कि एक साधारण सौंदर्य प्रतियोगिता के रूप में, और Bambaazon विश्वास तथा Huminodun किंवदंती को समुदाय की अपनी परंपरा के रूप में सम्मानपूर्वक लें, न कि प्रतिपादित तथ्य के रूप में।"
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 इस उत्सव का नाम एक ही विचार पर रखा गया है: फ़सल। कादाज़ानदुसुन भाषा में *कामातन* (Kaamatan) का अर्थ ठीक यही है, और उत्सव की बाक़ी हर चीज़ — अनुष्ठान, चावल की मदिरा, अंतिम संध्या को ताजपोशी पाई प्रतियोगिता — उसी एक कर्म से, अर्थात् चावल को काटकर लाने से, उपजती है।

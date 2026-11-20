@@ -80,6 +80,14 @@ festivalFacts:
   when: "Fixé au cinquième jour du cinquième mois du calendrier lunaire ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et tombe généralement au cours du mois de juin grégorien."
   holiday: "Ce n'est pas un jour férié — ce n'est un jour férié ni au niveau national ni dans aucun État de Malaisie ; le travail et les cours se déroulent normalement."
   etiquette: "Les célébrations familiales se concentrent surtout sur un repas de zongzi le jour même de la fête ; les grands événements publics comme les courses de bateaux-dragons sont souvent organisés le week-end ou à des dates voisines pour faciliter la participation du public. Certaines familles accrochent de l'armoise et de l'acore à leur porte, ou tentent de « faire tenir un œuf debout » à midi le jour de la fête, mais les pratiques varient d'une famille à l'autre."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 À l'approche du cinquième jour du cinquième mois lunaire, l'arôme des feuilles de bambou et du riz gluant s'élève des cuisines des familles chinoises. Les maîtresses de maison garnissent, couche après couche, des feuilles pliées en entonnoir de riz gluant trempé et de garniture sautée et parfumée, puis les ficellent bien serré avec de la cordelette de jonc et les descendent dans la marmite, chapelet après chapelet, pour une longue cuisson. Au même moment, au barrage de Teluk Bahang, à la pointe nord-ouest de l'île de Penang, de minces bateaux-dragons fendent la surface de l'eau ; un tambour, debout à la proue, bat la mesure, et des dizaines de rameurs rament à l'unisson au rythme du tambour — ce sont là les deux visages de la fête des bateaux-dragons en Malaisie : d'un côté le parfum des zongzi dans la cuisine, de l'autre la course sur l'eau.

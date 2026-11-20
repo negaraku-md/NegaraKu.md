@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 一段素白的布料上了框。工匠把一支小铜笔——canting，笔嘴比铅笔尖还细——蘸进一锅融蜡里，开始直接在布上作画：画的不是颜料，而是拒绝上色的蜡。等蜡冷却变硬之后，布才下染缸。蜡在哪里，染料就到不了哪里——待到后来把蜡煮掉，留下的图案不是以颜色画成的，而是以颜色的缺席画成的。

@@ -58,6 +58,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 टिन पर बसे एक शहर ने अंततः दुनिया को एक धातु-शिल्प दे दिया। Kuala Lumpur इसलिए अस्तित्व में है क्योंकि खोजकर्ताओं को वहाँ टिन का अयस्क मिला जहाँ Klang और Gombak नदियाँ मिलती हैं। दशकों बाद, उसी टिन-अर्थव्यवस्था में काम करने आया एक किशोर टिन-कारीगर मंदिर की वेदियों के लिए धूपदान गढ़ने लगा — और उसने जो कार्यशाला खोली वह अब धरती पर pewter का सबसे बड़ा निर्माता है।

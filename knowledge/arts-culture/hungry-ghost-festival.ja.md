@@ -80,6 +80,14 @@ festivalFacts:
   when: "旧暦七月（七月一日の「鬼門開」から月末の「鬼門関」まで）で、七月十五日（中元の正日）が祭祀のピークとなる。"
   holiday: "マレーシアの全国的にも各州においても祝日ではない。祭祀、盂蘭勝会、そして歌台（ステージ公演）は、仕事を終えた後の夕方や夜間に行われることが多い。"
   etiquette: "歌台の最前列の席は目に見えない客のために意図的に空けられており、観客は一般に最前列には座らない。民間にはまた、路傍の供え物を踏まないこと、地面に落ちている金品をむやみに拾わないことといった言い伝えもある。"
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 旧暦七月に入ると、ペナン、クラン、ジョホールの多くの街角の夜の光景がひそかに変わります。道端に小さな机が並べられ、その上には果物、ご飯、茶、そして積み重ねられた金銀紙が置かれ、線香とろうそくが夕暮れの中で明滅します。地域の空き地には、高さ数メートルの厳めしい顔の紙製神像が立てられ、その向かいに舞台が組まれます。夜になると照明が煌々とつき、歌声が響き渡ります——ところが舞台下の最前列の椅子は一列まるごと、終始空いたままです。

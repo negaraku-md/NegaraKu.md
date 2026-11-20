@@ -79,6 +79,14 @@ festivalFacts:
   when: "يُحدَّد وفق المصطلحات الشمسية الأربعة والعشرين، ويقع نحو 21 إلى 23 ديسمبر من كل عام ميلادي (قرابة 22 ديسمبر)، وهو أقصر أيام السنة نهارًا."
   holiday: "ليس عطلة رسمية — الانقلاب الشتوي في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية."
   etiquette: "يحتفل الصينيون غالبًا في البيوت باحتشام، إذ تجلس الأسرة معًا لصنع tangyuan وتناول وجبة مشتركة، بدلًا من إقامة فعاليات عامة كبيرة؛ وتقدّم بعض الأسر tangyuan للأسلاف والآلهة أولًا قبل أن تأكل الأسرة كلها معًا، وتختلف العادات باختلاف الأسرة والمجموعة اللهجية."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 في أمسية من أواخر ديسمبر، يمتزج في المطبخ عبيرُ دقيق الأرز اللزج بحلاوة حساء الزنجبيل. تجلس العائلة حول المائدة، تُشكّل كُتلًا صغيرة من عجين الأرز اللزج كُريةً كُريةً — منها الأبيض، ومنها المصبوغ بالوردي والأخضر الفاتح. والكُريات في أيدي الأطفال متفاوتة الأحجام، والكبار يقولون وهم يُشكّلون: من أكل التانغيوان فقد كبر سنة أخرى. هذا اليوم هو الانقلاب الشتوي.

@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 A length of plain white cloth goes onto a frame. A craftsperson dips a small copper pen — a canting, its spout no wider than a pencil tip — into a pot of melted wax, and begins drawing directly onto the fabric: not with pigment, but with wax that will refuse to take colour. Only after the wax has cooled and hardened does the cloth go into a dye bath. Wherever the wax sits, the dye can't reach — and when the wax is later boiled off, what's left is a pattern drawn not in colour, but in the absence of it.

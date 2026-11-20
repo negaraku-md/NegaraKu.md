@@ -79,6 +79,14 @@ festivalFacts:
   when: "இருபத்தி நான்கு பருவக் கூறுகளின்படி நிர்ணயிக்கப்படுகிறது, ஒவ்வொரு ஆண்டும் கிரிகோரியன் டிசம்பர் 21 முதல் 23 ஆம் தேதியை ஒட்டி வருகிறது (சுமார் டிசம்பர் 22), இது ஆண்டின் மிகக் குறுகிய பகல்பொழுது கொண்ட நாள்."
   holiday: "பொது விடுமுறை அல்ல — குளிர்கால உச்சநிலை (冬至) மலேசியாவில் நாடளாவிய அளவிலோ எந்த மாநில அளவிலோ பொது விடுமுறை அல்ல."
   etiquette: "சீனர்கள் பெரும்பாலும் வீட்டில் அமைதியாகக் கொண்டாடுகின்றனர் — குடும்பத்தினர் ஒன்றாக அமர்ந்து tangyuan உருட்டி, ஒரு உணவைப் பகிர்ந்து கொள்கின்றனர், பெரிய பொது நிகழ்வுகள் நடத்துவதில்லை; சில குடும்பங்கள் முதலில் tangyuan-ஐ மூதாதையர்களுக்கும் தெய்வங்களுக்கும் படைத்து வழிபட்டு பிறகு குடும்பத்துடன் சேர்ந்து உண்கின்றனர், இந்த வழக்கம் குடும்பம் மற்றும் மொழிக் குழுவுக்கு ஏற்ப வேறுபடும்."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 டிசம்பர் மாத இறுதியில் ஒரு மாலைப்பொழுதில், சமையலறையில் பிசுபிசுப்பு அரிசி மாவின் நறுமணம் இஞ்சிச் சூப்பின் இனிப்போடு கலந்திருக்கிறது. குடும்பம் மேசையைச் சுற்றி அமர்ந்து, சிறு சிறு அரிசி மாவுப் பிண்டங்களை உருண்டைகளாக உருட்டுகிறது — சில வெள்ளை, சில இளஞ்சிவப்பு, இளம்பச்சை நிறத்தில். குழந்தைகளின் கைகளில் உருண்டைகள் பல்வேறு அளவுகளில்; உருட்டிக்கொண்டே பெரியோர் சொல்கின்றனர்: தாங்யுவான் உண்டால் ஒரு வயது கூடிவிட்டது என்று. இந்த நாள்தான் தொங்ஜி.

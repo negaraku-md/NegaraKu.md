@@ -92,6 +92,14 @@ festivalFacts:
   when: "الشهر التاميلي Thai — نحو أواخر يناير أو فبراير من كل عام؛ ويتبع تاريخه الدقيق التقويم التاميلي."
   holiday: "عطلة رسمية فقط في الولايات والأقاليم الاتحادية التي تُعلنها في جريدتها الرسمية (بما في ذلك Kuala Lumpur وPutrajaya وSelangor وPenang وPerak وNegeri Sembilan وJohor وKedah) — وليست عطلة اتحادية على مستوى البلاد."
   etiquette: "يُرحَّب بغير الهندوس لمشاهدة المواكب والصعود؛ ارتدِ ملابس محتشمة قرب المعبد، واخلع الحذاء حيثما يُطلب ذلك، واستأذن قبل تصوير المتعبّدين الحاملين للـkavadi."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 قبيل الفجر، يمتلئ تلٌّ من الحجر الجيري على الطرف الشمالي لكوالالمبور بالأصوات — الطبول، والترانيم، ووقع مئات الآلاف من الأقدام الحافية على الحجر. وعند قاعدة درجٍ من 272 درجة يقف تمثال ذهبي أطول من مبنى من أربعة عشر طابقًا. وقد بدأ الصعود، ولن يتوقف معظم اليوم.

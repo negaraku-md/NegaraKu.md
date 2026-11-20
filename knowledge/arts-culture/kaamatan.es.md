@@ -86,6 +86,14 @@ festivalFacts:
   when: "El 30 y el 31 de mayo, con celebraciones que se extienden durante buena parte de mayo distrito por distrito antes del acto final a nivel estatal en esos dos días."
   holiday: "Fiesta pública en el estado de Sabah y en el territorio federal de Labuan los días 30 y 31 de mayo; no es fiesta pública a nivel nacional."
   etiquette: "Conviene entender el Unduk Ngadau como un certamen cultural que honra la leyenda de Huminodun, y no como un concurso de belleza corriente, y tratar la creencia en Bambaazon y la leyenda de Huminodun con respeto, como tradición propia de la comunidad y no como un hecho afirmado."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 La fiesta toma su nombre de una sola idea: la cosecha. *Kaamatan* significa exactamente eso en la lengua kadazandusun, y todo lo demás de la celebración — el ritual, el vino de arroz, el certamen coronado en la última velada — brota de ese único acto de recoger el arroz.

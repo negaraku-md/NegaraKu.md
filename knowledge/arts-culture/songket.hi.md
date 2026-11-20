@@ -77,6 +77,14 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["सोंगकेत", "songket", "सोंगकेत बुनाई", "केक करघा", "kek tenun", "सोने का धागा", "benang emas", "सोंगकेत तेरेंगानु", "सोंगकेत केलंतन"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'A detailed close-up of handwoven songket cloth, deep red silk covered in dense floral and diamond motifs brocaded in glinting gold thread, with a contrasting central panel'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
 ---
 
 सोंगकेत की कार्यशाला में सबसे अधिक सुनाई देने वाली ध्वनि किसी मशीन की ध्वनि नहीं है। यह लकड़ी के दबाए जाने, धागे के खींचे जाने, और एक बाँस की सलाई के अंदर खिसकाए जाने और बाहर निकाले जाने की ध्वनि है — बार-बार, एक बार में नक्शे की एक पंक्ति, पूरे दिन भर।

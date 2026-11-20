@@ -59,6 +59,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 தகரத்தின் மீது கட்டியெழுப்பப்பட்ட ஒரு நகரம், இறுதியில் உலகிற்கு ஒரு உலோகக் கைவினையை வழங்கியது. கிள்ளான் மற்றும் கோம்பாக் (Gombak) ஆறுகள் சந்திக்கும் இடத்தில் தகர அயிரு இருப்பதை ஆய்வாளர்கள் கண்டறிந்ததாலேயே கோலாலம்பூர் உருவானது. பல தசாப்தங்களுக்குப் பிறகு, அதே தகரப் பொருளாதாரத்தில் வேலை செய்ய வந்த ஒரு இளம் தகரக் கைவினைஞர், கோயில் பீடங்களுக்கான சாம்பிராணிக் கலசங்களை அடித்துச் செய்யத் தொடங்கினார் — அவர் திறந்த பட்டறை இன்று பூமியிலேயே மிகப் பெரிய பியூட்டர் தயாரிப்பாளராக உள்ளது.

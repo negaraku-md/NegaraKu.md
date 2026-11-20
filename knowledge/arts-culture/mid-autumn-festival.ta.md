@@ -82,6 +82,14 @@ festivalFacts:
   when: "சந்திர நாட்காட்டி எட்டாம் மாதம் பதினைந்தாம் நாளில் நிலையாக வருகிறது; அந்த நாளில் நிலவு மிகவும் முழுமையாகவும் ஒளிர்வாகவும் இருப்பது ஒன்றிணைதலைக் குறிக்கிறது; கிரிகோரியன் தேதி ஒவ்வொரு ஆண்டும் சந்திர நாட்காட்டிக்கு ஏற்ப மாறுபடும், பொதுவாக செப்டம்பர் அல்லது அக்டோபரில் வரும்."
   holiday: "பொது விடுமுறை அல்ல. Mid-Autumn பண்டிகை மலேசியாவில் நாடளாவிய அளவிலோ எந்த மாநில அளவிலோ பொது விடுமுறை அல்ல, வணிக நிறுவனங்களும் அரசு அலுவலகங்களும் வழக்கம்போல் இயங்குகின்றன (முதல் இரு நாட்கள் பொது விடுமுறை கிடைக்கும் சீனப் புத்தாண்டு போலன்று)."
   etiquette: "சீன சங்கங்கள், கோயில்கள் (கோலாலம்பூரின் 乐圣岭天后宫 Thean Hou கோயில் போன்றவை) மற்றும் சமூக அமைப்புகள் நடத்தும் விளக்கு இரவு நிகழ்வுகள், கலை நிகழ்ச்சிகள் போன்ற பொதுக் கொண்டாட்டங்கள், பிற இனத்து மக்களையும் ஒன்றாகப் பங்கேற்று, பார்வையிட அடிக்கடி வரவேற்கின்றன — இனங்களைக் கடந்து பகிரப்படும் ஒரு கூறு இதில் உள்ளது."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 சந்திர நாட்காட்டியின் எட்டாம் மாதத்தின் பதினைந்தாம் நாள் இரவு வந்ததும், பேரங்காடியின் நடுமண்டபம் சிவப்பாக ஒளிரும் விளக்குகளால் நிறைந்திருக்கும்; குடியிருப்புப் பகுதியின் பூங்காவில் இரண்டும் மூன்றுமாகக் குழந்தைகள் ஒளிரும் விளக்குகளை ஏந்தி நடந்து திரிவார்கள். வீட்டு உணவு மேசையில், சிறு துண்டுகளாக வெட்டப்பட்ட நிலவுக் கேக் ஒரு பெட்டி, அதனுடன் ஒரு குடம் சூடான தேநீர், பக்கத்தில் தோல் உரிக்கப்பட்ட ஒரு பொமலோ. குடும்பத்தினர் நாற்காலிகளை வெளியே எடுத்துச் சென்று, ஆண்டின் மிகவும் வட்டமான நிலவை நிமிர்ந்து பார்ப்பார்கள் — இதுவே மலேசியச் சீனக் குடும்பத்தின் வழக்கமான நடு இலையுதிர்கால இரவு.

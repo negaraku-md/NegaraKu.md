@@ -86,6 +86,14 @@ festivalFacts:
   when: "Corresponds to 'Qingming' among the twenty-four solar terms of the lunar calendar; the Gregorian date is fairly fixed, usually around 4 or 5 April; local families mostly spread their tomb-sweeping over about ten days around the festival period."
   holiday: "The Qingming Festival is not a public holiday in Malaysia, and most businesses operate as usual on the day."
   etiquette: "Because burning gold and silver paper and paper effigies involves open flames and smoke, some cemeteries and memorial parks designate burning areas or set rules, and in recent years some people have switched to more environmentally friendly methods."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 One early April morning, families begin to appear along the paths of the cemetery. Some carry buckets and sickles; others carry baskets filled with cooked food, fruit and joss paper. Finding their family's grave, the younger ones set to clearing the weeds and sweeping away the leaves while the elders point out how to repaint, stroke by stroke, the faded characters on the headstone; only once the grave is clean are the offerings laid out, incense lit and respects paid, and finally the joss paper burned on a clear patch of ground nearby. Amid the smoke and flame, another year's Qingming passes.

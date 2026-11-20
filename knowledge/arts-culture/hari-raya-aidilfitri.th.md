@@ -83,6 +83,14 @@ festivalFacts:
   when: "วันที่ 1 Syawal ตามปฏิทินจันทรคติ วันที่ขยับเร็วขึ้นราว 11 วันในแต่ละปีตามปฏิทินสุริยคติ และกำหนดโดยการดูดวงจันทร์ (rukyah) ขึ้นใหม่"
   holiday: "วันแรกและวันที่สองได้รับการประกาศในราชกิจจานุเบกษาเป็นวันหยุดราชการสหพันธ์ทั่วทั้งมาเลเซีย"
   etiquette: "แขกต่างเชื้อชาติได้รับการต้อนรับสู่การเปิดบ้าน ควรแต่งกายสุภาพ และโดยปกติถอดรองเท้าก่อนเข้าบ้าน"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 ในคืนสุดท้ายของรอมฎอน ทั้งประเทศเหมือนเคลื่อนไหวพร้อมกัน ทางด่วนเหนือ–ใต้แน่นขนัดหลายชั่วโมง สถานีรถโดยสารเต็มไปด้วยกระเป๋าและกล่องขนม แสงจากโคมไฟเปอลิตาส่องสว่างที่ระเบียงบ้านตั้งแต่ในเมืองจนถึงหมู่บ้านห่างไกล วันรุ่งขึ้น 1 เชาวาล การถือศีลอดหนึ่งเดือนสิ้นสุด — และมาเลเซียเฉลิมฉลองฮารีรายาอีดิลฟิตรี

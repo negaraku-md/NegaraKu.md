@@ -83,6 +83,14 @@ festivalFacts:
   when: "Every year on 1 and 2 June; the observance begins on the evening of 31 May, and the wider Gawai season is formally closed by the ngiling tikai ('rolling up the mat') towards the end of June."
   holiday: "A public holiday in the state of Sarawak (gazetted 25 September 1964)."
   etiquette: "The longhouse door is thrown open — hospitality to visiting family, neighbours and guests is part of the festival; a common greeting is 'Gayu Guru, Gerai Nyamai' (long life, health, prosperity), or 'Selamat Hari Gawai'. It is first a family and longhouse observance, not a tourist show."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 The clock has not yet struck midnight on the last day of May, and in a longhouse somewhere along a Sarawak river the gong is waiting. The rice is in. The gallery has been swept and hung with fresh mats. A jar of tuak sits ready. When the gong finally sounds, the longhouse chief will raise a cup, and everyone down the long communal veranda will drink to the same three words: long life, health, prosperity.

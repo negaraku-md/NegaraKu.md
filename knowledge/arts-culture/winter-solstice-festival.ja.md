@@ -79,6 +79,14 @@ festivalFacts:
   when: "二十四節気によって定まり、毎年西暦12月21日から23日前後（およそ12月22日）にあたり、一年のうちで昼が最も短い日である。"
   holiday: "祝日ではない——冬至はマレーシアでは全国的にも、いずれの州においても祝日ではない。"
   etiquette: "華人の多くは家庭で控えめに祝い、一家が車座になって湯圓を丸め、一緒に食事をするのであって、大規模な公開行事を催すわけではない。一部の家庭では、まず湯圓で祖先を祀り神を拝んでから一家で共に食べるが、やり方は家庭や方言集団によって異なる。"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 12月下旬のある夕方、台所にはもち米粉の香りと生姜湯の甘い匂いが混じり合う。家族がテーブルを囲み、小さなもち米の塊を一つひとつ団子にこねていく——白いもの、淡いピンクや薄緑に色づけしたもの。子どもの手の中の団子は大きさがまちまちで、大人はこねながら言う。湯圓を食べれば、また一つ年をとるのだ、と。この日が冬至である。

@@ -86,6 +86,14 @@ festivalFacts:
   when: "ตรงกับ「ชิงหมิง」(清明) ซึ่งเป็นหนึ่งใน 24 สารทตามปฏิทินจันทรคติ วันที่ตามปฏิทินสุริยคติค่อนข้างคงที่ โดยทั่วไปอยู่ราววันที่ 4 หรือ 5 เมษายน ครอบครัวในท้องถิ่นส่วนใหญ่กระจายการไหว้สุสานในช่วงประมาณสิบวันก่อนและหลังเทศกาล"
   holiday: "เทศกาลเช็งเม้งไม่ใช่วันหยุดราชการของมาเลเซีย ในวันนั้นร้านค้าส่วนใหญ่เปิดทำการตามปกติ"
   etiquette: "เนื่องจากการเผากระดาษเงินกระดาษทองและเครื่องกระดาษเกี่ยวข้องกับเปลวไฟและควัน สุสานและสวนรำลึกบางแห่งจึงกำหนดพื้นที่เผาหรือออกข้อกำหนด และในช่วงไม่กี่ปีมานี้ยังมีผู้หันไปใช้วิธีที่เป็นมิตรต่อสิ่งแวดล้อมมากขึ้น"
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 เช้าตรู่วันหนึ่งในต้นเดือนเมษายน ตามทางเดินในสุสานเริ่มมีผู้คนเป็นครอบครัว ๆ ปรากฏตัว บ้างหิ้วถังน้ำและเคียว บ้างถือตะกร้าที่เต็มไปด้วยอาหารคาว ผลไม้ และเงินกระดาษ เมื่อพบหลุมศพของครอบครัวตน คนหนุ่มสาวจะลงมือถอนวัชพืชและกวาดใบไม้ก่อน ส่วนผู้อาวุโสคอยชี้แนะให้ลงสีอักษรที่ซีดจางบนป้ายหลุมศพทีละตัว เมื่อหลุมศพสะอาดแล้วจึงจัดเครื่องเซ่น จุดธูปแสดงความเคารพ และสุดท้ายเผาเงินกระดาษบนลานว่างข้าง ๆ ท่ามกลางควันและเปลวไฟ เช็งเม้งที่มีปีละครั้งก็ผ่านพ้นไปเช่นนี้

@@ -59,6 +59,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 Une ville bâtie sur l'étain a fini par donner au monde un métier métallurgique. Kuala Lumpur existe parce que des prospecteurs ont trouvé du minerai d'étain là où se rejoignent les rivières Klang et Gombak. Des décennies plus tard, un adolescent ferblantier venu travailler dans cette même économie de l'étain s'est mis à forger des brûle-encens pour les autels des temples, et l'atelier qu'il a ouvert est aujourd'hui le plus grand fabricant d'étain-pewter de la planète.

@@ -82,6 +82,14 @@ festivalFacts:
   when: "Ditetapkan pada hari kelima belas bulan kelapan kalendar lunar; pada hari ini bulan paling bulat dan paling terang, melambangkan perhimpunan keluarga; tarikh dalam kalendar Gregorian berubah setiap tahun mengikut kalendar lunar, biasanya jatuh pada bulan September atau Oktober."
   holiday: "Bukan cuti umum. Perayaan Pertengahan Musim Luruh bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia, dan perniagaan serta jabatan kerajaan beroperasi seperti biasa (berbeza dengan Tahun Baharu Cina yang dua hari pertamanya merupakan cuti umum)."
   etiquette: "Majlis malam tanglung, persembahan seni dan sambutan terbuka lain yang dianjurkan oleh persatuan Cina (会馆), tokong (seperti 吉隆坡乐圣岭天后宫) dan pertubuhan komuniti sering mengalu-alukan penduduk kaum lain untuk turut serta dan menonton, membawa sisi perkongsian merentas kaum."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 Menjelang malam hari kelima belas bulan kelapan kalendar lunar, atrium pusat membeli-belah dihiasi tanglung merah menyala, dan di taman kawasan kediaman, kanak-kanak berdua-dua bertiga berjalan ke sana ke mari membawa tanglung yang dinyalakan. Di meja makan rumah, sekotak kuih bulan yang dipotong kecil-kecil ditemani secerek teh panas, dengan sebiji limau bali yang sudah dikupas di sebelahnya. Satu keluarga membawa kerusi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Luruh yang tipikal dalam keluarga Cina Malaysia.

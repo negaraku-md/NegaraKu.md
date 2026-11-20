@@ -69,6 +69,14 @@ festivalFacts:
   when: "The full-moon day of the lunar month Vesakha — generally April or May; because it follows the lunar calendar, the Gregorian date shifts each year."
   holiday: "A national public holiday in all states and federal territories, first declared a public holiday in 1962; under the Employment Act 1955, if it falls on a rest day a substitute paid holiday applies."
   etiquette: "Observance centres on the temple; many devotees wear white and keep a vegetarian diet for the day, and the best-known public event is the Kuala Lumpur Wesak float procession from the Buddhist Maha Vihara in Brickfields, watched by large crowds of devotees and onlookers."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 Ask when Wesak Day falls and there is no fixed answer — it moves. In 2026 it lands on 31 May, in 2027 on 20 May, in 2028 on 9 May. The reason is simple: Wesak is set by the moon, not by a calendar date, and the lunar and Gregorian calendars drift against each other every year.

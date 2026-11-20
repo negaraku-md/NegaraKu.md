@@ -80,6 +80,14 @@ festivalFacts:
   when: "चीनी पंचांग का सातवाँ महीना (सातवें महीने के पहले दिन 「भूत-द्वार खुलना」 से महीने के अंत में 「भूत-द्वार बंद होना」 तक), सातवें महीने का पंद्रहवाँ दिन (झोंगयुआन का मुख्य दिन) पूजा-अर्चना का चरम होता है।"
   holiday: "यह मलेशिया में देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है; पूजा-अर्चना, Yulan शुभ सभा और गीत-मंच अधिकतर काम के बाद की शाम और रात में होते हैं।"
   etiquette: "गीत-मंच की सबसे आगे की पंक्ति की सीटें जानबूझकर अदृश्य मेहमानों के लिए खाली छोड़ दी जाती हैं, दर्शक आम तौर पर पहली पंक्ति में नहीं बैठते; लोक-मान्यता में सड़क किनारे रखी भेंटों को न रौंदने और ज़मीन पर पड़ी वस्तुओं को न उठाने जैसी बातें भी कही जाती हैं।"
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 चंद्र सातवाँ महीना आते ही पेनांग, क्लांग और जोहोर के अनेक गली-नुक्कड़ों का रात्रि-दृश्य चुपचाप बदल जाता है: सड़क किनारे छोटी मेज़ें लग जाती हैं, जिन पर फल, चावल, चाय और सोने-चाँदी के कागज़ों के ढेर होते हैं, और धूप-बत्तियाँ व मोमबत्तियाँ साँझ के धुँधलके में टिमटिमाती हैं। मुहल्ले के खुले मैदान में कई मीटर ऊँची, कठोर मुखमुद्रा वाली एक कागज़ी देव-प्रतिमा खड़ी कर दी जाती है, जिसके सामने एक मंच बनाया जाता है; अँधेरा होते ही रोशनियाँ जगमगा उठती हैं और गीत गूँजने लगते हैं — फिर भी मंच के नीचे सबसे अगली पंक्ति की सारी कुर्सियाँ आरंभ से अंत तक खाली रहती हैं।

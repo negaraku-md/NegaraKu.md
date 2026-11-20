@@ -101,6 +101,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 Sebilah mata yang bergerigi seperti lidah api, ditempa dari besi dan nikel yang dilipat ratusan kali oleh tangan seorang empu — keris bukan sekadar senjata, tetapi denyut nadi peradaban Melayu. Ia diselipkan di pinggang pahlawan, dijunjung dalam adat istiadat kerajaan, dan diwariskan turun-temurun sebagai pusaka keluarga. Hingga saat ini, keris tetap menjadi lambang kedaulatan, keberanian, dan jati diri bangsa.

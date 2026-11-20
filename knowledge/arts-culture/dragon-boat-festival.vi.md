@@ -80,6 +80,14 @@ festivalFacts:
   when: "Cố định vào ngày mùng 5 tháng 5 âm lịch; ngày dương lịch tương ứng thay đổi mỗi năm theo âm lịch, thường rơi vào khoảng tháng 6 dương lịch."
   holiday: "Không phải ngày lễ công cộng — tại Malaysia đây không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào, thường vẫn làm việc và đi học như bình thường."
   etiquette: "Việc đón lễ trong gia đình phần lớn tập trung vào một bữa ăn bánh ú đúng ngày lễ; các hoạt động công cộng quy mô lớn như đua thuyền rồng thường được tổ chức vào cuối tuần hoặc những ngày lân cận để người dân tiện tham gia. Một số gia đình treo ngải cứu, xương bồ trước cửa, hoặc thử 'dựng trứng đứng' vào đúng trưa ngày lễ, nhưng cách làm mỗi nhà không hoàn toàn giống nhau."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 Khi mùng năm tháng Năm âm lịch gần kề, trong gian bếp của các gia đình người Hoa thoang thoảng mùi lá gói và gạo nếp. Các bà nội trợ xếp từng lớp gạo nếp đã ngâm và nhân xào thơm vào những chiếc lá gấp hình phễu, rồi buộc chặt bằng dây cói, thả từng xâu từng xâu vào nồi luộc thật lâu. Cùng lúc ấy, tại Đập Teluk Bahang ở mũi tây bắc đảo Penang, những chiếc thuyền rồng thon dài rẽ nước lướt đi; người đánh trống đứng ở mũi thuyền gõ nhịp, hàng chục tay chèo khua mái chèo nhịp nhàng theo tiếng trống — đó là hai diện mạo của Tết Đoan Ngọ ở Malaysia: một bên là hương bánh ú trong bếp, một bên là cuộc đua trên mặt nước.

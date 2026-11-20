@@ -101,6 +101,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["केरिस", "एम्पू", "पामोर", "लुक", "मलय धरोहर", "तामिंग सारी", "मलय केरिस", "राष्ट्रीय धरोहर अधिनियम 2005", "नुसंतारा संस्कृति", "keris", "empu", "pamor", "luk", "Taming Sari"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 लपट की जीभ-सा दंतुर एक फलक, लोहे और निकल से एम्पू के हाथों सैकड़ों बार मोड़कर गढ़ा गया — केरिस केवल एक हथियार नहीं, बल्कि मलय सभ्यता की धड़कन है। यह योद्धाओं की कमर में खोंसा जाता था, राजकीय समारोहों में ऊँचा उठाया जाता था, और एक पारिवारिक विरासत के रूप में पीढ़ियों तक सौंपा जाता था। आज तक, केरिस संप्रभुता, साहस और एक जन की पहचान का प्रतीक बना हुआ है।

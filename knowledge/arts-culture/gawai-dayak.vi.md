@@ -84,6 +84,14 @@ festivalFacts:
   when: "Hằng năm vào ngày 1 và 2 tháng 6; việc cử hành bắt đầu vào tối ngày 31 tháng 5, và mùa Gawai rộng hơn chính thức khép lại bằng nghi thức ngiling tikai ('cuốn chiếu') vào cuối tháng 6."
   holiday: "Là ngày lễ công cộng tại bang Sarawak (được công bố ngày 25 tháng 9 năm 1964)."
   etiquette: "Cửa nhà dài rộng mở — lòng hiếu khách đối với người thân, hàng xóm và khách đến thăm là một phần của lễ hội; một lời chào thông dụng là 'Gayu Guru, Gerai Nyamai' (sống lâu, mạnh khỏe, thịnh vượng), hoặc 'Selamat Hari Gawai'. Trước hết đây là một dịp cử hành của gia đình và nhà dài, không phải một màn trình diễn cho du khách."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 Đồng hồ chưa điểm nửa đêm của ngày cuối tháng 5, và trong một ngôi nhà dài đâu đó dọc một con sông ở Sarawak, chiếc cồng đang chờ. Lúa đã về. Hành lang đã được quét dọn và trải những tấm chiếu mới. Một hũ tuak đã sẵn sàng. Khi chiếc cồng cuối cùng vang lên, trưởng nhà dài sẽ nâng một chén rượu, và mọi người dọc theo hiên chung dài ấy sẽ cùng uống mừng ba điều: trường thọ, khỏe mạnh, thịnh vượng.

@@ -69,6 +69,14 @@ festivalFacts:
   when: "阴历卫塞月（Vesakha）的满月之日——通常在四月或五月；由于依循阴历，公历日期每年都会变动。"
   holiday: "全国各州与联邦直辖区的公共假期，于 1962 年首次宣布为公共假期；根据 1955 年雇佣法令（Employment Act 1955），若适逢休息日，则适用替代的带薪假期。"
   etiquette: "庆祝以寺庙为核心；许多信徒当天身穿白衣并茹素，而最为人熟知的公开活动，是从 Brickfields 佛教 Maha Vihara 出发的吉隆坡卫塞节花车游行，吸引大批信徒与围观者观看。"
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
 ---
 
 问卫塞节落在哪一天，答案并不固定——它会变动。2026年落在5月31日，2027年落在5月20日，2028年落在5月9日。原因很简单：卫塞节是依月相而定，不是依固定的日历日期，而阴历与西历每年都会彼此产生偏移。

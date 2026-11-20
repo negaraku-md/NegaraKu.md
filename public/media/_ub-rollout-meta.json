@@ -1,0 +1,668 @@
+{
+  "arts-culture/batik": {
+    "hero": {
+      "file": "/media/arts-culture/batik/hero.webp",
+      "credit": "Shubert Ciencia / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur",
+      "alt": "A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs",
+      "kb": 143
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/batik/body-1.webp",
+        "credit": "Rulwarih / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a close-up of hand-drawn Malaysian batik fabric from Terengganu showing a large red flower outlined by white wax-resist lines",
+        "alt": "A close-up of batik cloth showing a bold crimson flower with fine white wax-resist outlines and dotted detailing set against a deep indigo-blue background",
+        "kb": 171
+      },
+      {
+        "file": "/media/arts-culture/batik/body-2.webp",
+        "credit": "Rulwarih / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "lengths of colourful patterned Malaysian batik fabric displayed on racks at a craft carnival in Terengganu",
+        "alt": "Many lengths of batik fabric hung in rows, in rich reds, purples, pinks, greens and oranges, each printed with different floral, leaf and geometric wax-resist patterns",
+        "kb": 179
+      }
+    ]
+  },
+  "arts-culture/chinese-new-year": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-new-year/hero.webp",
+      "credit": "Dimas H (WMID) / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns",
+      "alt": "Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year",
+      "kb": 187
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-new-year/body-1.webp",
+        "credit": "Marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kek Lok Si Temple in Penang illuminated for Chinese New Year",
+        "alt": "Kek Lok Si Temple in Penang glowing with thousands of coloured fairy lights and red lanterns at night during the Chinese New Year illuminations",
+        "kb": 175
+      },
+      {
+        "file": "/media/arts-culture/chinese-new-year/body-2.webp",
+        "credit": "Andrew Crump / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Lion dance performed on poles in Kuala Lumpur's Chinatown during Chinese New Year",
+        "alt": "A white and silver lion dance costume balanced atop poles performing outside shophouses in Kuala Lumpur's Chinatown during Chinese New Year",
+        "kb": 142
+      }
+    ]
+  },
+  "arts-culture/deepavali": {
+    "hero": {
+      "file": "/media/arts-culture/deepavali/hero.webp",
+      "credit": "John Ragai / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Deepavali kolam ringed by lit oil lamps in Malaysia",
+      "alt": "A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia",
+      "kb": 141
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/deepavali/body-1.webp",
+        "credit": "PulauKakatua19 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Hanging Deepavali lanterns and festive crowds at KL Sentral station",
+        "alt": "Rows of bright yellow decorative Deepavali lanterns hanging above a busy concourse of travellers at KL Sentral station in Kuala Lumpur",
+        "kb": 173
+      },
+      {
+        "file": "/media/arts-culture/deepavali/body-2.webp",
+        "credit": "PulauKakatua19 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Large peacock-themed floor kolam at KL Sentral for Deepavali",
+        "alt": "A giant, vividly coloured peacock kolam laid out in coloured powder across the polished floor of KL Sentral for Deepavali",
+        "kb": 159
+      }
+    ]
+  },
+  "arts-culture/dragon-boat-festival": {
+    "hero": {
+      "file": "/media/arts-culture/dragon-boat-festival/hero.webp",
+      "credit": "Taufik / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah",
+      "alt": "A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah",
+      "kb": 172
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/dragon-boat-festival/body-1.webp",
+        "credit": "Newnujilb / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Teams racing decorated dragon boats, paddles churning the water, during a Dragon Boat Festival regatta",
+        "alt": "Rows of paddlers in red caps and white shirts digging their blades into the water as two canopied dragon boats race along a channel watched by a crowd",
+        "kb": 176
+      },
+      {
+        "file": "/media/arts-culture/dragon-boat-festival/body-2.webp",
+        "credit": "Stevenliuyi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An opened zongzi (bak chang) sticky-rice dumpling showing pork, chestnut and salted egg yolk, beside one still wrapped in bamboo leaves",
+        "alt": "A bamboo-leaf-wrapped glutinous rice dumpling unwrapped to reveal savoury filling of braised pork belly, chestnut and salted egg yolk, next to a tied dumpling",
+        "kb": 152
+      }
+    ]
+  },
+  "arts-culture/gasing": {
+    "hero": {
+      "file": "/media/arts-culture/gasing/hero.webp",
+      "credit": "Rulwarih / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase",
+      "alt": "Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them",
+      "kb": 236
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/gasing/body-1.webp",
+        "credit": "Steven from Dallas, Texas, USA / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gasing.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "two newly wood-turned Malay-style gasing spinning tops with their launching pegs",
+        "alt": "Two pale, freshly turned wooden gasing tops with the classic flat disc body and raised central knob, lying on a bed of wood shavings beside their smooth cylindrical launching handles in warm sunlight",
+        "kb": 125
+      },
+      {
+        "file": "/media/arts-culture/gasing/body-2.webp",
+        "credit": "Muhammad Iqbal / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a young competitor launching a gasing by its cord at a traditional spinning-top contest",
+        "alt": "A boy in an orange tracksuit leans forward as he hurls a spinning top from a long white cord onto a wooden board, a spun top already resting on the plank while a crowd of onlookers watches closely behind him",
+        "kb": 102
+      }
+    ]
+  },
+  "arts-culture/gawai-dayak": {
+    "hero": {
+      "file": "/media/arts-culture/gawai-dayak/hero.webp",
+      "credit": "John Ragai / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "An Iban dancer performing the ngajat warrior dance",
+      "alt": "An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop",
+      "kb": 142
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/gawai-dayak/body-1.webp",
+        "credit": "Zahirulnukman / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Dayak performers in full regalia at the Gawai Dayak parade in Kuching",
+        "alt": "Iban and Orang Ulu performers in elaborate silver headdresses, beadwork and feather crowns during the Gawai Dayak parade in Kuching, Sarawak",
+        "kb": 208
+      },
+      {
+        "file": "/media/arts-culture/gawai-dayak/body-2.webp",
+        "credit": "Gariey Sia / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The communal gallery of an Iban longhouse in Sarawak",
+        "alt": "The long wooden communal gallery (ruai) inside an Iban longhouse in Sarawak, where Gawai Dayak is celebrated",
+        "kb": 121
+      }
+    ]
+  },
+  "arts-culture/hari-raya-aidilfitri": {
+    "hero": {
+      "file": "/media/arts-culture/hari-raya-aidilfitri/hero.webp",
+      "credit": "PeaceSeekers / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak",
+      "alt": "Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak",
+      "kb": 171
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/hari-raya-aidilfitri/body-1.webp",
+        "credit": "Emran Kassim / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ketupat palas with beef rendang, a classic Hari Raya dish",
+        "alt": "Woven palm-leaf ketupat palas rice packets beside a plate of beef rendang, a classic Hari Raya Aidilfitri dish in Malaysia",
+        "kb": 166
+      },
+      {
+        "file": "/media/arts-culture/hari-raya-aidilfitri/body-2.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A lit bamboo pelita oil lamp at night during Hari Raya",
+        "alt": "A bamboo pelita oil lamp burning with a bright flame in a dark garden during Hari Raya Aidilfitri in Malaysia",
+        "kb": 46
+      }
+    ]
+  },
+  "arts-culture/hungry-ghost-festival": {
+    "hero": {
+      "file": "/media/arts-culture/hungry-ghost-festival/hero.webp",
+      "credit": "Ah leong 99. / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance",
+      "alt": "A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai",
+      "kb": 133
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/hungry-ghost-festival/body-1.webp",
+        "credit": "㗝呸烏 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A giant Da Shi Ye (Tai Su Yeah) guardian deity effigy above an offering altar at Tow Boo Keong temple, Alor Setar, Kedah",
+        "alt": "A towering blue-robed paper effigy of the Da Shi Ye deity rising over an altar of burning joss sticks, fruit and an incense urn during the Hungry Ghost Festival in Malaysia",
+        "kb": 76
+      },
+      {
+        "file": "/media/arts-culture/hungry-ghost-festival/body-2.webp",
+        "credit": "ProjectManhattan / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Roadside food offerings with incense sticks laid out for wandering spirits during the seventh-month Hungry Ghost Festival",
+        "alt": "Trays of rice, dishes, fruit and drinks on grass, each pierced with lit red joss sticks, set out as offerings for the Hungry Ghost Festival",
+        "kb": 173
+      }
+    ]
+  },
+  "arts-culture/kaamatan": {
+    "hero": {
+      "file": "/media/arts-culture/kaamatan/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah",
+      "alt": "Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah",
+      "kb": 161
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/kaamatan/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Unduk Ngadau winner and finalists at the Kaamatan festival pageant",
+        "alt": "The Unduk Ngadau winner crowned among six finalists in traditional black-and-gold Kadazan-Dusun costume on stage at the Kaamatan festival in Penampang, Sabah",
+        "kb": 173
+      },
+      {
+        "file": "/media/arts-culture/kaamatan/body-2.webp",
+        "credit": "Ricardo Unto / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kadazan-Dusun youths performing a harvest-festival dance with gongs",
+        "alt": "Young Kadazan-Dusun dancers in black costume with red and silver trim performing a traditional dance with gongs at a Kaamatan harvest celebration in Sabah",
+        "kb": 174
+      }
+    ]
+  },
+  "arts-culture/keris": {
+    "hero": {
+      "file": "/media/arts-culture/keris/hero.webp",
+      "credit": "Zamwan / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath",
+      "alt": "A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it",
+      "kb": 93
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/keris/body-1.webp",
+        "credit": "Qhairy / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a collection of royal Malay keris with ornate silver bird-head hilts associated with the Johor-Riau Sultanate",
+        "alt": "Several antique royal keris stood upright in a dark museum case, their long engraved silver scabbards topped by finely cast bird-head hilts, lit so the metalwork gleams against the shadowed background",
+        "kb": 77
+      },
+      {
+        "file": "/media/arts-culture/keris/body-2.webp",
+        "credit": "Orhanghazi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Keris Alang of Pahang, a ceremonial keris of chiefly authority, laid beside its wooden sheath",
+        "alt": "A straight-bladed ceremonial keris with a dark carved hilt lying beside its long slender wooden scabbard on a pale surface, with a museum caption card reading KERIS ALANG PAHANG below them",
+        "kb": 45
+      }
+    ]
+  },
+  "arts-culture/mid-autumn-festival": {
+    "hero": {
+      "file": "/media/arts-culture/mid-autumn-festival/hero.webp",
+      "credit": "Encik Tekateki / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia",
+      "alt": "A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration",
+      "kb": 114
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/mid-autumn-festival/body-1.webp",
+        "credit": "Fumikas Sagisavas / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "freshly baked jade-rabbit mooncakes, the signature food of the Mid-Autumn Festival",
+        "alt": "Rows of golden-brown baked mooncakes pressed with jade-rabbit and floral motifs laid out to cool on a perforated metal tray, their glossy pastry tops catching the light",
+        "kb": 142
+      },
+      {
+        "file": "/media/arts-culture/mid-autumn-festival/body-2.webp",
+        "credit": "Pauloleong2002 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a traditional red concertina paper lantern of the kind children carry during the Mid-Autumn Festival",
+        "alt": "A round red accordion-folded paper lantern printed with white stars and a rabbit silhouette, hanging in front of green foliage and pink flowers, the classic collapsible paper lantern children carry at Mid-Autumn",
+        "kb": 90
+      }
+    ]
+  },
+  "arts-culture/pewter": {
+    "hero": {
+      "file": "/media/arts-culture/pewter/hero.webp",
+      "credit": "istolethetv / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig",
+      "alt": "A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her",
+      "kb": 161
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/pewter/body-1.webp",
+        "credit": "Frostpolar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Malaysian pewter worker turning a tankard on a lathe, with finished pewter tankards arranged on the bench",
+        "alt": "A pewter craftsman using a tool against a tankard spinning on a lathe, metal shavings curling off, with about nine polished silvery pewter tankard bodies grouped on the wooden workbench",
+        "kb": 110
+      },
+      {
+        "file": "/media/arts-culture/pewter/body-2.webp",
+        "credit": "geni / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a finished, polished pewter tankard with a handle",
+        "alt": "A single polished pewter tankard with a chunky handle and horizontal banding, its mirror-like silvery surface catching the light against a pale background",
+        "kb": 69
+      }
+    ]
+  },
+  "arts-culture/qingming-festival": {
+    "hero": {
+      "file": "/media/arts-culture/qingming-festival/hero.webp",
+      "credit": "Richard Horvath / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia",
+      "alt": "A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees",
+      "kb": 168
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/qingming-festival/body-1.webp",
+        "credit": "Ubs6u!d-pongsakorn / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a spread of food offerings and burning incense laid before a grave during Qingming tomb-sweeping",
+        "alt": "A grave offering table laid with whole steamed chickens, fish, roast pork, bowls of white rice with chopsticks, cups of tea and teapots, with bundles of red incense sticks planted upright in gourds and burning before a stone shrine",
+        "kb": 169
+      },
+      {
+        "file": "/media/arts-culture/qingming-festival/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a gilded guardian-lion grave pillar inscribed with Chinese family names at the Chinese Cemetery (Bukit Cina) in Melaka, Malaysia",
+        "alt": "A gilded stone guardian lion perches on top of a granite grave post carved with gold Chinese characters, set against a grassy burial mound and a spreading tree under an overcast sky at the Bukit Cina Chinese cemetery in Melaka",
+        "kb": 119
+      }
+    ]
+  },
+  "arts-culture/songket": {
+    "hero": {
+      "file": "/media/arts-culture/songket/hero.webp",
+      "credit": "Daderot / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk",
+      "alt": "A detailed close-up of handwoven songket cloth, deep red silk covered in dense floral and diamond motifs brocaded in glinting gold thread, with a contrasting central panel",
+      "kb": 246
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/songket/body-1.webp",
+        "credit": "Daderot / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a full Malaysian songket hip-wrapper (kain) from Terengganu laid flat, showing the gold-brocade field and central head panel",
+        "alt": "A complete rectangular songket cloth displayed flat, two red side panels of gold-thread floral motifs flanking a lighter gold central panel",
+        "kb": 215
+      },
+      {
+        "file": "/media/arts-culture/songket/body-2.webp",
+        "credit": "Yu Chu Chin / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a tanjak, a folded Malay headdress made from gold songket cloth, from Terengganu",
+        "alt": "A folded triangular Malay headdress (tanjak) made of green-gold songket cloth that shimmers with woven metallic thread, displayed on a stand",
+        "kb": 138
+      }
+    ]
+  },
+  "arts-culture/thaipusam": {
+    "hero": {
+      "file": "/media/arts-culture/thaipusam/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam",
+      "alt": "Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam",
+      "kb": 180
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/thaipusam/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Crowds of Thaipusam pilgrims below the golden Lord Murugan statue at Batu Caves",
+        "alt": "A dense crowd of pilgrims filling the walkway at Batu Caves below the towering golden statue of Lord Murugan and the forested limestone hills during Thaipusam",
+        "kb": 161
+      },
+      {
+        "file": "/media/arts-culture/thaipusam/body-2.webp",
+        "credit": "hams Nocete / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A kavadi bearer carrying a milk pot in the Thaipusam procession in Ipoh",
+        "alt": "A Thaipusam devotee seen from behind shouldering a bell-hung kavadi pole and carrying a silver milk pot before a colourful Hindu temple gopuram in Ipoh, Perak",
+        "kb": 174
+      }
+    ]
+  },
+  "arts-culture/wau": {
+    "hero": {
+      "file": "/media/arts-culture/wau/hero.webp",
+      "credit": "D.W. Fisher-Freberg / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum",
+      "alt": "A big ornately decorated wau bulan kite mounted on a pale wall, its broad crescent-shaped body covered in shimmering gold, pink and blue foil floral patterns with a fringed tassel at the top and a label reading WAU BULAN beneath it",
+      "kb": 129
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/wau/body-1.webp",
+        "credit": "Kerina yin / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a close-up of the intricate cut-paper and foil floral decoration on a Kelantan wau",
+        "alt": "Macro view of a wau's surface showing hand-cut floral and leaf motifs in iridescent turquoise and gold foil outlined in black against a dark paper ground, with a magenta blossom at the lower right",
+        "kb": 149
+      },
+      {
+        "file": "/media/arts-culture/wau/body-2.webp",
+        "credit": "Kerina yin / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "finished wau bodies and a bare bamboo wau frame in a kite-maker's workshop",
+        "alt": "Inside a wooden workshop, several completed wau panels patterned in pink, gold and teal foil hang beside a slender bamboo kite frame strung with taut cords, with the maker partly visible at a table in the background",
+        "kb": 165
+      }
+    ]
+  },
+  "arts-culture/wesak": {
+    "hero": {
+      "file": "/media/arts-culture/wesak/hero.webp",
+      "credit": "Marufish / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia",
+      "alt": "A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar",
+      "kb": 151
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/wesak/body-1.webp",
+        "credit": "Marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "rows of colourful devotee blessing lanterns with good-wish slips at a Wesak Day celebration in Alor Setar, Malaysia",
+        "alt": "A long row of small hanging lanterns in turquoise, lime green, pink and white, each holding a lit candle and a pink paper slip of good wishes, strung up under a tent at a Malaysian Wesak Day celebration with visitors walking behind",
+        "kb": 111
+      },
+      {
+        "file": "/media/arts-culture/wesak/body-2.webp",
+        "credit": "Marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a devotional altar with hundreds of lit lotus candle lamps before a Buddha image at Wesak Day in Alor Setar, Malaysia",
+        "alt": "Hundreds of tiny lit lotus-shaped candle lamps laid out in neat rows across pink and yellow cloth-covered tables, leading up to a small Buddha statue flanked by flowers against a painted blue-sky backdrop inside a tent",
+        "kb": 157
+      }
+    ]
+  },
+  "arts-culture/winter-solstice-festival": {
+    "hero": {
+      "file": "/media/arts-culture/winter-solstice-festival/hero.webp",
+      "credit": "Geoffreyrabbit / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice",
+      "alt": "A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it",
+      "kb": 63
+    },
+    "body": [
+      {
+        "file": "/media/arts-culture/winter-solstice-festival/body-1.webp",
+        "credit": "George Tan (GT#4) / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Close-up of translucent crystal-skinned tang yuan in white, purple and green floating in a bowl of syrup",
+        "alt": "A close bowl of glossy, semi-transparent glutinous rice balls in white, lilac and jade green bobbing in clear sweet soup",
+        "kb": 41
+      },
+      {
+        "file": "/media/arts-culture/winter-solstice-festival/body-2.webp",
+        "credit": "Miuki / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tangyuan.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A bowl of purple glutinous rice balls in hot syrup, seen from above with rising steam",
+        "alt": "Top-down view of four plump purple tang yuan glutinous rice balls in clear hot syrup in a blue-rimmed bowl, wisps of steam rising",
+        "kb": 105
+      }
+    ]
+  }
+}

@@ -76,6 +76,14 @@ festivalFacts:
   when: "วันที่หนึ่งของเดือนอ้ายตามปฏิทินจันทรคติ วันที่ตามปฏิทินสุริยคติที่ตรงกันเปลี่ยนแปลงไปในแต่ละปีตามปฏิทินจันทรคติ โดยถือตามที่ประกาศในราชกิจจานุเบกษาอย่างเป็นทางการ"
   holiday: "สองวันแรกของวันตรุษจีนเป็นวันหยุดราชการทั่วประเทศ โดยมีฐานทางกฎหมายคือ Holidays Act 1951 (Act 369) และราชกิจจานุเบกษาของแต่ละรัฐ"
   etiquette: "ธรรมเนียม \"เปิดบ้าน\" (rumah terbuka) ที่ข้ามกลุ่มชาติพันธุ์เปิดโอกาสให้ญาติมิตรต่างเชื้อชาติไปเยี่ยมอวยพรปีใหม่ซึ่งกันและกัน ของฝากและซองแดงที่นำไปอวยพรมักเลือกจำนวนเป็นเลขคู่เพื่อความเป็นมงคล และโดยทั่วไปหลีกเลี่ยงตัวเลขที่มี \"สี่\""
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 ในวันส่งท้ายปีเก่า ร้านค้าจำนวนมากปิดก่อนเวลา ทางด่วนแน่นขนัดด้วยรถที่มุ่งหน้ากลับบ้านเกิด พอถึงกลางคืน ครอบครัวหนึ่งนั่งล้อมโต๊ะ — บนโต๊ะมีปลา (年年有余 เหลือกินเหลือใช้ทุกปี) ไก่ทั้งตัว ลูกชิ้นที่สื่อความหมายถึงการรวมญาติ และยำปลาดิบที่ต้องใช้ตะเกียบคีบขึ้นสูง ๆ อาหารรวมญาติในคืนส่งท้ายปีเก่ามื้อนี้ ครอบครัวชาวจีนมาเลเซียจำนวนไม่น้อยให้ความสำคัญยิ่งกว่าวันชิวอิด (วันที่ 1 เดือนอ้าย) เสียอีก

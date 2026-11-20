@@ -62,6 +62,14 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "الغاسينغ", "gasing uri", "gasing pangkah", "الألعاب التقليدية الملايوية", "التراث الوطني", "Kuala Nerus", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
 ---
 
 الصوت يصل أولاً — خشب ثقيل يضرب خشباً ثقيلاً، تتبعه هتافات. في ساحة قرية حول كوالا نيروس (Kuala Nerus) بترينغانو، تقف مجموعتان متواجهتين. يقذف لاعب نحلته بحبل؛ وأخرى تدور بالفعل، منتظِرةً على الأرض. والفائز ليس الأسرع — بل من تبقى نحلته دائرةً بعد الضربة.

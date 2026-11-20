@@ -80,6 +80,14 @@ festivalFacts:
   when: "The seventh lunar month (from the 'opening of the gates of the underworld' on the first day to their 'closing' at the end of the month), with the fifteenth day (the main day of Zhongyuan) as the peak of the offerings."
   holiday: "Not a nationwide or any state public holiday in Malaysia; the offerings, Yulan assemblies and getai stage shows mostly take place in the evening and at night after work."
   etiquette: "The front-row seats at getai stage shows are deliberately left empty for the unseen guests, and the audience generally does not sit in the first row; folk sayings also advise against stepping on roadside offerings or picking up money or valuables found on the ground."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 Once the seventh lunar month arrives, the nightfall scene at many street corners in Penang, Klang and Johor quietly changes: small tables appear by the roadside, laid with fruit, rice, tea and stacks of gold-and-silver joss paper, incense and candles flickering in the dusk. On open ground in the neighbourhood, a stern-faced paper deity several metres tall has been raised, a stage set up facing it; after dark the lights blaze and singing rings out — yet the whole front row of chairs below the stage stays empty throughout.

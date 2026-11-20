@@ -84,6 +84,14 @@ festivalFacts:
   when: "Setiap tahun pada 1 dan 2 Jun; sambutannya bermula pada petang 31 Mei, dan musim Gawai yang lebih luas ditutup secara rasmi dengan ngiling tikai ('menggulung tikar') menjelang penghujung Jun."
   holiday: "Cuti umum di negeri Sarawak (diwartakan pada 25 September 1964)."
   etiquette: "Pintu rumah panjang dibuka luas — melayan keluarga, jiran dan tetamu yang berkunjung merupakan sebahagian daripada perayaan ini; ucapan yang lazim ialah 'Gayu Guru, Gerai Nyamai' (panjang umur, sihat, makmur), atau 'Selamat Hari Gawai'. Ia pada asasnya satu sambutan keluarga dan rumah panjang, bukan pertunjukan pelancong."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 Jam belum lagi berdentum tengah malam pada hari terakhir bulan Mei, dan di sebuah rumah panjang di suatu tempat di tebing sungai Sarawak, gong sudah menanti. Padi sudah selamat dituai. Ruai sudah disapu bersih dan digantung dengan tikar baharu. Sebuah tempayan tuak sudah tersedia. Apabila gong akhirnya dipalu, ketua rumah panjang akan mengangkat cawan, dan semua orang di sepanjang ruai bersama akan minum untuk tiga perkataan yang sama: umur panjang, kesihatan, kesejahteraan.

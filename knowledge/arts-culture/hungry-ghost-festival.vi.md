@@ -80,6 +80,14 @@ festivalFacts:
   when: "Tháng 7 âm lịch (từ mùng 1 tháng 7 'cửa ngục mở' đến cuối tháng 'cửa ngục đóng'), ngày 15 tháng 7 (chính nhật Trung Nguyên) là cao điểm cúng tế."
   holiday: "Không phải ngày lễ công cộng trên toàn quốc hay của các bang Malaysia; việc cúng tế, Vu Lan thắng hội và các sân khấu ca đài (getai) phần lớn diễn ra vào buổi chiều tối và ban đêm sau giờ làm việc."
   etiquette: "Hàng ghế trước nhất của sân khấu ca đài được cố ý để trống dành cho những vị khách vô hình, khán giả thường không ngồi hàng ghế đầu; dân gian cũng có những lời khuyên như không giẫm lên đồ cúng bên đường, không tùy tiện nhặt tiền tài rơi dưới đất."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 Vừa sang tháng Bảy âm lịch, cảnh đêm ở nhiều góc phố tại Penang, Klang và Johor lặng lẽ đổi thay: bên đường dựng lên những chiếc bàn nhỏ, trên đó là trái cây, cơm, trà nước và từng chồng vàng mã, nhang nến chập chờn trong buổi chạng vạng. Trên khoảng đất trống của khu phố, một pho tượng thần bằng giấy cao vài mét với gương mặt uy nghiêm được dựng lên, đối diện là một sân khấu; khi trời tối, đèn sáng rực và tiếng hát vang lên — thế nhưng cả hàng ghế đầu dưới sân khấu lại luôn để trống.

@@ -58,6 +58,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 주석 위에 세워진 도시가 결국 세계에 금속 공예를 선사했습니다. 쿠알라룸푸르가 존재하는 것은 탐광자들이 클랑강(Klang)과 곰박강(Gombak)이 만나는 곳에서 주석 광석을 발견했기 때문입니다. 수십 년 뒤, 바로 그 주석 경제에서 일하러 온 십 대 주석 세공인이 사원 제단을 위한 향로를 두드려 만들기 시작했는데 — 그가 연 작업장은 이제 지구에서 가장 큰 백랍 제작사입니다.

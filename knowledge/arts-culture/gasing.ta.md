@@ -62,6 +62,14 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
 ---
 
 ஒலிதான் முதலில் வந்து சேர்கிறது — கனமான மரம் கனமான மரத்தை மோதும் சத்தம், அதைத் தொடர்ந்து ஆரவாரம். Terengganu-வில் Kuala Nerus அருகே ஒரு கிராமத்து வெளியில், இரு குழுக்கள் ஒருவரையொருவர் எதிர்நோக்கி நிற்கின்றன. ஒருவர் தன் gasing-ஐ கயிற்றால் வீசுகிறார்; இன்னொரு gasing ஏற்கனவே தரையில் சுழன்று காத்திருக்கிறது. வேகமானவர் வெல்வதில்லை — மோதப்பட்ட பிறகும் யாருடைய gasing இன்னும் சுழல்கிறதோ அவரே வெல்கிறார்.

@@ -76,6 +76,14 @@ festivalFacts:
   when: "اليوم الأول من الشهر الأول في التقويم القمري؛ ويتغيّر التاريخ الميلادي المقابل له كل عام تبعًا للتقويم القمري، ويُعتمد بحسب ما تُعلنه الجريدة الرسمية."
   holiday: "أول يومين من رأس السنة القمرية عطلة رسمية على مستوى البلاد، وأساسها القانوني هو قانون العطلات لعام 1951 (Holidays Act 1951, Act 369) إلى جانب الجرائد الرسمية للولايات."
   etiquette: "تتيح «الأبواب المفتوحة» (rumah terbuka) العابرة للأعراق للأقارب والأصدقاء من مختلف الأعراق تبادل الزيارات للتهنئة بالعيد؛ وغالبًا ما تُختار هدايا الزيارة والمظاريف الحمراء بأعداد زوجية للتيمّن، ويُتجنّب عمومًا الأرقام المتضمّنة الرقم «أربعة»."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 في ليلة رأس السنة، تُغلق متاجر كثيرة أبوابها مبكّراً، وتمتلئ الطرق السريعة بالسيارات المتّجهة نحو مسقط الرأس. ومع حلول المساء، تجتمع العائلة حول مائدة واحدة — عليها سمك (رمزاً لـ«الفائض كل عام»)، ودجاجة كاملة، وكُرات لحم ترمز إلى لمّ الشمل، وطبق yee sang بارد مقلَّب يُرفع عالياً بأعواد الطعام. وهذا العشاء، عشاء لمّ الشمل في ليلة رأس السنة، يَعُدّه كثير من الأُسر الصينية الماليزية أهمّ من اليوم الأول للعام الجديد نفسه.

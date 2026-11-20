@@ -84,6 +84,14 @@ festivalFacts:
   when: "ஒவ்வொரு ஆண்டும் ஜூன் 1 மற்றும் 2 ஆம் தேதிகளில்; இதன் கடைப்பிடிப்பு மே 31 மாலை தொடங்குகிறது, மேலும் பரந்த Gawai பருவம் ஜூன் இறுதியில் ngiling tikai ('பாயைச் சுருட்டுதல்') மூலம் முறையாக நிறைவடைகிறது."
   holiday: "சரவாக் மாநிலத்தில் ஒரு பொது விடுமுறை (25 September 1964 அன்று வர்த்தமானப்படுத்தப்பட்டது)."
   etiquette: "longhouse கதவு திறந்து வைக்கப்படுகிறது — வருகை தரும் குடும்பத்தினர், அண்டை வீட்டார் மற்றும் விருந்தினர்களுக்கு விருந்தோம்பல் இப்பண்டிகையின் ஒரு பகுதி; பொதுவான வாழ்த்து 'Gayu Guru, Gerai Nyamai' (நீண்ட ஆயுள், ஆரோக்கியம், செழிப்பு), அல்லது 'Selamat Hari Gawai'. இது முதன்மையாக ஒரு குடும்ப மற்றும் longhouse கடைப்பிடிப்பு, சுற்றுலா நிகழ்ச்சி அல்ல."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 மே மாதத்தின் கடைசி நாளில் நள்ளிரவு இன்னும் அடிக்கவில்லை; சரவாக் (Sarawak) ஆற்றின் ஓரத்தில் எங்கோ ஒரு நீள்வீட்டில் (longhouse) கோங் காத்திருக்கிறது. நெல் அறுவடையாகிவிட்டது. கூடம் பெருக்கப்பட்டு, புதிய பாய்கள் விரிக்கப்பட்டுள்ளன. ஒரு ஜாடி துவாக் (tuak) தயாராக வைக்கப்பட்டுள்ளது. கோங் இறுதியாக ஒலிக்கும்போது, நீள்வீட்டுத் தலைவர் ஒரு கிண்ணத்தை உயர்த்துவார்; நீண்ட பொதுத் திண்ணையில் இருக்கும் அனைவரும் ஒரே மூன்று சொற்களுக்காக அருந்துவார்கள்: நீண்ட ஆயுள், ஆரோக்கியம், செழிப்பு.

@@ -101,6 +101,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 A blade serrated like a tongue of flame, forged from iron and nickel folded hundreds of times by the hand of an empu — the keris is not merely a weapon, but the pulse of Malay civilisation. It was tucked at the waist of warriors, raised aloft in royal ceremony, and passed down through generations as a family heirloom. To this day, the keris remains a symbol of sovereignty, courage and the identity of a people.

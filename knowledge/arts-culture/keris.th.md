@@ -101,6 +101,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 ใบมีดที่หยักดั่งลิ้นเปลวไฟ ตีขึ้นจากเหล็กและนิกเกิลที่พับหลายร้อยครั้งด้วยมือของเอิมปูคนหนึ่ง — กริชไม่ใช่เพียงอาวุธ แต่คือชีพจรของอารยธรรมมลายู มันถูกเหน็บไว้ที่เอวของนักรบ ถูกชูขึ้นในพระราชพิธี และสืบทอดกันมารุ่นต่อรุ่นในฐานะสมบัติของตระกูล จนถึงทุกวันนี้ กริชยังคงเป็นสัญลักษณ์ของอธิปไตย ความกล้าหาญ และอัตลักษณ์ของชาติพันธุ์

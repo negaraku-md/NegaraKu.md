@@ -82,6 +82,14 @@ festivalFacts:
   when: "Fixé au quinzième jour du huitième mois lunaire, jour où la lune est la plus pleine et la plus brillante, symbole de réunion familiale ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et tombe généralement en septembre ou en octobre."
   holiday: "Ce n'est pas un jour férié. La fête de la mi-automne n'est un jour férié ni au niveau national ni dans aucun État de Malaisie, et les commerces comme les administrations fonctionnent normalement (contrairement au Nouvel An lunaire, dont les deux premiers jours sont fériés)."
   etiquette: "Les célébrations publiques organisées par les associations chinoises (huiguan), les temples (comme le temple Thean Hou de Kuala Lumpur, 乐圣岭天后宫) et les organisations communautaires — soirées de lanternes, spectacles artistiques, etc. — accueillent souvent la participation et l'observation des résidents d'autres groupes ethniques, avec une dimension de partage interethnique."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 À la tombée de la nuit du quinzième jour du huitième mois lunaire, l'atrium du centre commercial se couvre de lanternes rouges rougeoyantes, et dans le parc du quartier résidentiel, les enfants, par deux ou trois, vont et viennent en portant des lanternes allumées. Sur la table de la maison, une boîte de gâteaux de lune découpés en petits morceaux côtoie une théière de thé chaud, un pomélo épluché posé à côté. La famille sort des chaises devant la maison et lève les yeux vers la lune la plus ronde de l'année : voilà une soirée de mi-automne typique dans un foyer chinois de Malaisie.

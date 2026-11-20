@@ -80,6 +80,14 @@ festivalFacts:
   when: "Bulan ketujuh kalendar lunar (dari hari pertama bulan tujuh 「鬼门开」 hingga akhir bulan 「鬼门关」), dengan hari kelima belas bulan tujuh (中元正日, hari utama Zhongyuan) sebagai kemuncak pemujaan."
   holiday: "Bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia; pemujaan, 盂兰胜会 dan persembahan pentas getai (歌台) kebanyakannya diadakan pada waktu petang selepas kerja dan pada waktu malam."
   etiquette: "Barisan tempat duduk paling hadapan di getai sengaja dikosongkan untuk tetamu halimunan, dan penonton umumnya tidak duduk di barisan pertama; terdapat juga pantang larang rakyat seperti jangan memijak sajian di tepi jalan dan jangan sembarangan memungut barang bernilai yang terjatuh di tanah."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 Sebaik bulan ketujuh lunar tiba, pemandangan menjelang malam di banyak simpang jalan di Pulau Pinang, Klang dan Johor berubah secara senyap: meja kecil disusun di tepi jalan, di atasnya buah-buahan, nasi, air teh dan longgokan wang kertas emas-perak, colok dan lilin berkelip-kelip dalam keremangan senja. Di tanah lapang kejiranan, satu patung dewa kertas setinggi beberapa meter dengan wajah bengis telah didirikan, sebuah pentas pula dibina menghadapnya; selepas gelap lampu menyala terang dan suara nyanyian berkumandang — namun satu barisan penuh kerusi di hadapan pentas sentiasa kekal kosong.

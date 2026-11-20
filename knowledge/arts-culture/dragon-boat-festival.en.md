@@ -80,6 +80,14 @@ festivalFacts:
   when: "Fixed on the fifth day of the fifth lunar month; the corresponding Gregorian date shifts each year with the lunar calendar, usually falling within June."
   holiday: "Not a public holiday — it is not a nationwide or any state public holiday in Malaysia, and work and school generally continue as usual."
   etiquette: "Family celebrations mostly centre on a single meal of rice dumplings on the day itself; large public events such as dragon boat races are often scheduled on weekends or nearby dates so that people can take part more easily. Some families hang mugwort (aicao) and calamus (changpu) at the door, or try 'standing an egg' (lidan) at noon on the festival, though practices vary from household to household."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 As the fifth day of the fifth lunar month draws near, the scent of bamboo leaves and glutinous rice drifts from the kitchens of Chinese families. Homemakers pack soaked glutinous rice and fragrant stir-fried fillings layer by layer into leaves folded into a funnel shape, tie them tight with reed string, and lower string after string into the pot for a long boil. Meanwhile, at the Teluk Bahang Dam on the northwestern tip of Penang Island, slender dragon boats slice across the water; a drummer stands at the bow beating out the rhythm, and dozens of paddlers stroke in unison to the beat — these are the two faces of the Dragon Boat Festival in Malaysia: on one side the fragrance of zongzi in the kitchen, on the other the race on the water.

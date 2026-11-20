@@ -76,6 +76,14 @@ festivalFacts:
   when: "Le premier jour du premier mois du calendrier lunaire ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et fait foi telle qu'elle est publiée au journal officiel."
   holiday: "Les deux premiers jours du Nouvel An lunaire sont un jour férié national, dont le fondement juridique est le Holidays Act 1951 (Act 369) et les journaux officiels de chaque État."
   etiquette: "La « maison ouverte » (rumah terbuka) interethnique permet à des parents et amis d'origines diverses de se rendre visite pour présenter leurs vœux ; les cadeaux d'accompagnement et les enveloppes rouges apportés lors de ces visites sont généralement en nombre pair, signe de bon augure, et l'on évite couramment les nombres contenant le « quatre »."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
 ---
 
 Au réveillon du Nouvel An, beaucoup de commerces ferment tôt et les autoroutes se remplissent de voitures qui prennent la route des villages natals. À la tombée du soir, la famille se réunit autour d'une même table, avec du poisson dessus (pour « un surplus chaque année »), un poulet entier, des boulettes qui symbolisent la réunion et un plat froid de yee sang, conçu pour être soulevé bien haut avec les baguettes. Beaucoup de familles chinoises de Malaisie considèrent ce repas de réunion du réveillon comme plus important que le premier jour de la nouvelle année lui-même.

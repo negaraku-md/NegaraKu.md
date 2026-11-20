@@ -82,6 +82,14 @@ festivalFacts:
   when: "يقع ثابتًا في اليوم الخامس عشر من الشهر الثامن في التقويم القمري، وفيه يكون القمر أكثر اكتمالًا وسطوعًا رمزًا للمّ الشمل؛ أما تاريخه الميلادي المقابل فيتغيّر كل عام تبعًا للتقويم القمري، وعادةً ما يقع في سبتمبر أو أكتوبر."
   holiday: "ليس عطلة رسمية. عيد منتصف الخريف في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية، وتعمل المحالّ التجارية والدوائر الحكومية كالمعتاد (بخلاف رأس السنة القمرية الذي يُمنح عطلة رسمية في يوميه الأولين)."
   etiquette: "الاحتفالات العامة التي تنظّمها الجمعيات الصينية والمعابد (مثل معبد Thean Hou في Kuala Lumpur) والمنظمات المجتمعية — كأمسيات الفوانيس والعروض الفنية — كثيرًا ما ترحّب بمشاركة سكان من أعراق أخرى ومشاهدتهم، وفيها جانب من التشارك العابر للأعراق."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 مع حلول ليل اليوم الخامس عشر من الشهر الثامن القمري، تتدلّى في بهو مركز التسوّق فوانيس حمراء متوهّجة، وفي حديقة الحي السكني يتجوّل الأطفال في مجموعات من اثنين وثلاثة حاملين فوانيس مضاءة. وعلى طاولة الطعام في البيت، صندوق كعك قمر مقطّع إلى قطع صغيرة إلى جانب إبريق شاي ساخن، وبجواره ثمرة بوملي مقشّرة. تخرج العائلة بكراسيّها إلى خارج البيت، وترفع أنظارها إلى أكثر أقمار السنة استدارة — هذه هي ليلة منتصف الخريف النموذجية في بيت صيني ماليزي.

@@ -79,6 +79,14 @@ festivalFacts:
   when: "Determined by the twenty-four solar terms, falling around 21 to 23 December in the Gregorian calendar each year (about 22 December), the day with the shortest daylight of the year."
   holiday: "Not a public holiday — the Winter Solstice is not a nationwide or any state public holiday in Malaysia."
   etiquette: "Chinese mostly celebrate quietly at home, the family sitting together to roll tangyuan and share a meal rather than holding large public events; some families first offer tangyuan to ancestors and deities before the whole family eats together, with practices varying by household and dialect group."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 On an evening in late December, the scent of glutinous rice flour mingles with the sweetness of ginger soup in the kitchen. The family gathers round the table, rolling little lumps of glutinous rice dough into balls — some white, some dyed pink or pale green. The balls in the children's hands come in all sizes, and as the adults roll they say: once you have eaten the tangyuan, you have grown a year older. This day is the Winter Solstice.

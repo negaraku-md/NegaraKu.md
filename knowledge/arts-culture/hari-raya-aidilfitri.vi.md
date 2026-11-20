@@ -83,6 +83,14 @@ festivalFacts:
   when: "Ngày 1 Syawal theo lịch âm (qamari); ngày này dịch sớm hơn khoảng 11 ngày mỗi năm trên lịch dương và được ấn định qua việc quan sát trăng lưỡi liềm (rukyah)."
   holiday: "Ngày thứ nhất và thứ hai được công bố là ngày nghỉ lễ công cộng liên bang trên khắp Malaysia."
   etiquette: "Khách thuộc nhiều sắc tộc được chào đón đến nhà mở cửa (rumah terbuka); hãy ăn mặc lịch sự và thường cởi giày trước khi vào nhà."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 Vào đêm cuối cùng của Ramadan, cả nước dường như chuyển động cùng một lúc. Đường cao tốc bắc–nam kẹt hàng giờ, các bến xe buýt chật kín túi xách và hộp bánh, và những ngọn đèn pelita sáng lên trên hiên nhà từ thành phố đến tận vùng quê hẻo lánh. Hôm sau, ngày 1 Syawal, một tháng chay tịnh kết thúc — và Malaysia đón mừng Hari Raya Aidilfitri.

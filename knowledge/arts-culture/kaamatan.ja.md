@@ -85,6 +85,14 @@ festivalFacts:
   when: "5月30日と31日。この2日間の州レベルのフィナーレに先立ち、5月の大半を通じて地区ごとに祝いが行われる。"
   holiday: "5月30日と31日はサバ州および連邦直轄領ラブアンの祝日であり、全国的な祝日ではない。"
   etiquette: "Unduk Ngadau は、通常の美人コンテストではなく、Huminodun の伝説を称える文化パジェントとして理解し、Bambaazon の信仰と Huminodun の伝説は、断定された事実としてではなく、コミュニティ自身の伝統として敬意をもって扱うこと。"
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
 ---
 
 この祭りは、たった一つの概念にちなんで名付けられている——収穫である。*カアマタン*はカダザンドゥスン語でまさにそれを意味しており、儀式、米酒、そして最終日の夜に戴冠される美人コンテストといった祝賀の他のすべての要素は、稲を取り入れるというこの一つの行為から生まれている。

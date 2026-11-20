@@ -92,6 +92,14 @@ festivalFacts:
   when: "தமிழ் மாதமான தை — ஆண்டுதோறும் ஜனவரி பிற்பகுதி அல்லது பிப்ரவரி வாக்கில்; சரியான தேதி தமிழ் நாட்காட்டியைப் பின்பற்றுகிறது."
   holiday: "இதை அரசிதழில் அறிவிக்கும் மாநிலங்கள் மற்றும் கூட்டரசுப் பிரதேசங்களில் மட்டுமே (Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor மற்றும் Kedah உள்ளிட்டவை) பொது விடுமுறை — நாடு முழுவதற்குமான கூட்டரசு விடுமுறை அல்ல."
   etiquette: "இந்துக்கள் அல்லாதவர்கள் ஊர்வலங்களையும் படியேற்றத்தையும் பார்வையிட வரவேற்கப்படுகிறார்கள்; கோயிலுக்கு அருகில் அடக்கமான உடை அணியவும், தேவைப்படும் இடங்களில் காலணிகளைக் கழற்றவும், காவடி சுமக்கும் பக்தர்களைப் புகைப்படம் எடுப்பதற்கு முன் அனுமதி கேட்கவும்."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
 ---
 
 விடியலுக்கு முன்பே, கோலாலம்பூரின் (Kuala Lumpur) வடக்கு விளிம்பில் உள்ள ஒரு சுண்ணாம்புக்கல் மலை ஒலியால் நிறைகிறது — மேளங்கள், மந்திரங்கள், கல்லின் மீது நூறாயிரக்கணக்கான வெறுங்கால்களின் நகர்வு. 272 படிக்கட்டுகள் கொண்ட ஒரு படிக்கட்டின் அடிவாரத்தில் பதினான்கு மாடிக் கட்டிடத்தைவிட உயரமான ஒரு தங்க நிற உருவம் நிற்கிறது. ஏற்றம் தொடங்கிவிட்டது, அது ஒரு நாளின் பெரும்பகுதிக்கு நிற்காது.

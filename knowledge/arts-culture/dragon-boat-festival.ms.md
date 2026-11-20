@@ -80,6 +80,14 @@ festivalFacts:
   when: "Ditetapkan pada hari kelima bulan kelima kalendar lunar; tarikh dalam kalendar Gregorian berubah setiap tahun mengikut kalendar lunar, biasanya jatuh sekitar bulan Jun."
   holiday: "Bukan cuti umum — ia bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia, dan kebiasaannya kerja serta persekolahan berjalan seperti biasa."
   etiquette: "Sambutan keluarga kebanyakannya tertumpu pada satu jamuan zongzi pada hari perayaan; acara awam berskala besar seperti perlumbaan perahu naga sering diadakan pada hujung minggu atau hari berhampiran untuk memudahkan penyertaan orang ramai. Sesetengah keluarga menggantung 艾草 dan 菖蒲 di muka pintu, atau mencuba amalan menegakkan telur (立蛋) pada tengah hari perayaan, tetapi amalannya berbeza-beza antara keluarga."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 Menjelang hari kelima bulan kelima kalendar lunar, bau daun buluh dan pulut mula berlegar di dapur keluarga Cina. Para suri rumah menyusun pulut yang telah direndam serta inti yang digoreng harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, kemudian mengikatnya ketat dengan tali rumput, dan menurunkan rangkaian demi rangkaian ke dalam periuk untuk direbus lama. Sementara itu, di Empangan Teluk Bahang di hujung barat laut Pulau Pinang, perahu naga yang langsing membelah permukaan air; seorang pemukul gendang berdiri di haluan menabuh irama, dan berpuluh pendayung mendayung serentak mengikut rentak — inilah dua wajah Pesta Perahu Naga di Malaysia: di satu pihak keharuman zongzi di dapur, di pihak lain perlumbaan di atas air.

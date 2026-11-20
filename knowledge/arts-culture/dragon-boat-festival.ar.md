@@ -80,6 +80,14 @@ festivalFacts:
   when: "يقع ثابتًا في اليوم الخامس من الشهر الخامس في التقويم القمري، أما تاريخه الميلادي المقابل فيتغيّر كل عام تبعًا للتقويم القمري، وعادةً ما يأتي خلال شهر يونيو الميلادي."
   holiday: "ليس عطلة رسمية — فهو في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية، ويستمرّ العمل والدراسة كالمعتاد."
   etiquette: "يتركّز احتفال الأسر غالبًا في وجبة زونغزي يوم العيد نفسه؛ أما الفعاليات العامة الكبرى مثل قوارب التنين فتُنظَّم عادةً في عطلة نهاية الأسبوع أو في أيام قريبة تيسيرًا لمشاركة الناس. وتعلّق بعض الأسر نبات الشيح (艾草) والقَصَب الحلو (菖蒲) على الأبواب، أو تحاول «نصب البيضة» وقت ظهيرة العيد، غير أن العادات تختلف من أسرة إلى أخرى."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 مع اقتراب اليوم الخامس من الشهر القمري الخامس، تفوح من مطابخ العائلات الصينية رائحة أوراق اللفّ والأرز اللزج. تحشو ربّات البيوت الأرز اللزج المنقوع والحشوة المقلية الزكية طبقةً فوق أخرى داخل أوراقٍ مطويّة على هيئة قمع، ثم يربطنها بإحكام بخيط الحلفاء، ويُنزلنها قلائد قلائد في القدر لتُطهى طويلًا. وفي الوقت نفسه، عند سدّ تيلوك باهانغ في الطرف الشمالي الغربي من جزيرة بينانغ، تشقّ قوارب التنين النحيلة سطح الماء؛ يقف قارع الطبل عند مقدّمة القارب ضاربًا الإيقاع، ويجدّف عشرات المجدّفين في انسجام مع الإيقاع — هذان هما وجها مهرجان قوارب التنين في ماليزيا: من جهة عبق الزونغتزي في المطبخ، ومن جهة أخرى السباق على سطح الماء.

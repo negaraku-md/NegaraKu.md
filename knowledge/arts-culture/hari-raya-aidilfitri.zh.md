@@ -82,6 +82,14 @@ festivalFacts:
   when: "伊斯兰历(太阴历)的 1 Syawal;其日期在公历上每年约提早 11 天,并通过观测新月(rukyah)来确定。"
   holiday: "首日与第二日在全马来西亚被列入宪报,定为联邦公共假期。"
   etiquette: "欢迎各族宾客到开放门户(rumah terbuka)作客;衣着应端庄,并通常在进屋前脱鞋。"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
 ---
 
 在斋戒月（Ramadan）的最后一夜，整个国家仿佛同时行动起来。南北大道塞车数小时，巴士站挤满行囊与饼干盒，从城市到偏远乡村（kampung）的屋前走廊都点起了油灯（pelita）。翌日，开斋月初一（1 Syawal），一个月的斋戒结束——马来西亚迎来开斋节（Hari Raya Aidilfitri）。

@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 ผ้าขาวเรียบผืนหนึ่งถูกขึงไว้บนกรอบ ช่างจุ่มปากกาทองแดงเล็ก ๆ — จันติง (canting) ที่มีปลายกว้างไม่เกินปลายดินสอ — ลงในหม้อขี้ผึ้งเหลว แล้วเริ่มวาดลงบนเนื้อผ้าโดยตรง ไม่ใช่ด้วยเม็ดสี แต่ด้วยขี้ผึ้งที่จะปฏิเสธการรับสี ต่อเมื่อขี้ผึ้งเย็นตัวและแข็งลงแล้วเท่านั้น ผ้าจึงถูกจุ่มลงในอ่างย้อม ที่ใดมีขี้ผึ้ง สีย้อมก็เข้าไม่ถึง และเมื่อขี้ผึ้งถูกต้มออกในภายหลัง สิ่งที่เหลืออยู่คือลวดลายที่วาดขึ้นไม่ใช่ด้วยสี แต่ด้วยการไม่มีสี

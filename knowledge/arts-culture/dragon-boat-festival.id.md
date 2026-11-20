@@ -80,6 +80,14 @@ festivalFacts:
   when: "Ditetapkan pada tanggal 5 bulan kelima penanggalan Imlek; tanggal Masehinya berubah setiap tahun mengikuti penanggalan Imlek, biasanya jatuh pada bulan Juni Masehi."
   holiday: "Bukan hari libur umum — di Malaysia bukan merupakan hari libur umum secara nasional maupun di negeri mana pun, umumnya tetap masuk kerja dan sekolah seperti biasa."
   etiquette: "Perayaan keluarga umumnya terpusat pada satu santap bakcang pada hari perayaan; acara publik besar seperti perahu naga sering diadakan pada akhir pekan atau hari-hari berdekatan agar memudahkan warga ikut serta. Sebagian keluarga menggantungkan daun arumput (艾草) dan jerangau (菖蒲) di depan pintu, atau mencoba 「mendirikan telur」 pada tengah hari saat perayaan, tetapi praktik tiap keluarga tidak selalu sama."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 Menjelang hari kelima bulan kelima kalender lunar, aroma daun pembungkus dan ketan mulai menyebar di dapur keluarga Tionghoa. Para ibu rumah tangga menyusun ketan yang telah direndam dan isian yang ditumis harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, lalu mengikatnya kencang dengan tali rumput, dan menurunkan untaian demi untaian ke dalam panci untuk direbus lama. Pada saat yang sama, di Bendungan Teluk Bahang di ujung barat laut Pulau Penang, perahu-perahu naga yang ramping membelah permukaan air; seorang penabuh gendang berdiri di haluan menabuh irama, dan puluhan pendayung mendayung serentak mengikuti irama — inilah dua wajah Festival Perahu Naga di Malaysia: di satu sisi harumnya bakcang di dapur, di sisi lain lomba di atas air.

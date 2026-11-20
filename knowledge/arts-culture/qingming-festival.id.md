@@ -86,6 +86,14 @@ festivalFacts:
   when: "Bersesuaian dengan 「Qingming」 dalam dua puluh empat musim (jieqi) penanggalan Imlek, dengan tanggal Masehinya cukup tetap, biasanya sekitar tanggal 4 atau 5 April; keluarga setempat kebanyakan menyebar kegiatan ziarah dalam rentang sekitar sepuluh hari sebelum dan sesudah masa perayaan."
   holiday: "Qingming bukan hari libur umum di Malaysia, dan pada hari itu kebanyakan rumah usaha beroperasi seperti biasa."
   etiquette: "Karena membakar kertas emas-perak dan persembahan kertas melibatkan api terbuka dan asap, sebagian pemakaman dan taman peringatan menetapkan zona pembakaran atau membuat aturan, dan dalam beberapa tahun terakhir ada pula orang yang beralih ke cara yang lebih ramah lingkungan."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 Pada suatu pagi awal April, di jalan-jalan setapak pemakaman mulai bermunculan keluarga demi keluarga. Ada yang menjinjing ember dan sabit, ada yang membawa keranjang penuh makanan matang, buah-buahan, dan uang kertas. Setelah menemukan makam keluarga sendiri, yang muda mulai mencabut rumput liar dan menyapu daun, sementara yang tua menunjukkan cara mengecat ulang satu per satu aksara yang memudar di batu nisan; hanya setelah makam bersih barulah sesaji ditata, dupa dinyalakan dan penghormatan diberikan, dan akhirnya uang kertas dibakar di tanah lapang di dekatnya. Di antara asap dan nyala api, Qingming yang datang setahun sekali pun berlalu begitu saja.

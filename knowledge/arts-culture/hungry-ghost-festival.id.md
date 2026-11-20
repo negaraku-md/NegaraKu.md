@@ -80,6 +80,14 @@ festivalFacts:
   when: "Bulan ketujuh penanggalan Imlek (dari tanggal 1 「gerbang hantu terbuka」 hingga akhir bulan 「gerbang hantu tertutup」), dengan tanggal 15 bulan ketujuh (puncak Zhongyuan) sebagai puncak persembahan."
   holiday: "Bukan hari libur umum secara nasional maupun di negeri mana pun di Malaysia; persembahan, Ullambana dan panggung hiburan (getai) umumnya berlangsung pada sore dan malam hari seusai jam kerja."
   etiquette: "Barisan kursi paling depan di panggung hiburan sengaja dikosongkan untuk tamu tak kasat mata, penonton umumnya tidak duduk di baris pertama; di kalangan rakyat juga ada anjuran agar tidak menginjak sesajen di tepi jalan, dan tidak sembarangan memungut barang bernilai di tanah."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 Begitu bulan ketujuh lunar tiba, pemandangan malam di banyak sudut jalan di Penang, Klang, dan Johor perlahan berubah secara diam-diam: di tepi jalan didirikan meja-meja kecil, di atasnya ada buah, nasi, air teh, dan tumpukan kertas emas-perak, dupa dan lilin berkelip dalam keremangan senja. Di lapangan kosong lingkungan, sebuah patung dewa kertas setinggi beberapa meter dengan wajah garang telah didirikan, di hadapannya dibangun sebuah panggung; begitu malam tiba lampu menyala terang dan suara nyanyian berkumandang — namun satu baris penuh kursi di depan panggung justru tetap kosong sepanjang waktu.

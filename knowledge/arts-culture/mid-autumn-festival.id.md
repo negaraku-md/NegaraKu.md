@@ -82,6 +82,14 @@ festivalFacts:
   when: "Ditetapkan pada tanggal 15 bulan kedelapan penanggalan Imlek, hari ketika bulan paling bulat dan paling terang, melambangkan reuni; tanggal Masehinya berubah setiap tahun mengikuti penanggalan Imlek, biasanya jatuh pada bulan September atau Oktober."
   holiday: "Bukan hari libur umum. Festival Pertengahan Musim Gugur di Malaysia bukan hari libur umum secara nasional maupun di negeri mana pun, dan rumah usaha serta instansi pemerintah beroperasi seperti biasa (berbeda dengan Tahun Baru Imlek yang dua hari pertamanya libur umum)."
   etiquette: "Perayaan publik seperti malam lampion dan pertunjukan seni-budaya yang diadakan oleh perhimpunan Tionghoa, kelenteng (seperti Kelenteng Thean Hou di Robson Heights, Kuala Lumpur) dan organisasi komunitas kerap menyambut penduduk dari etnis lain untuk ikut serta dan menonton bersama, membawa sisi berbagi lintas etnis."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 Menjelang malam hari kelima belas bulan kedelapan kalender lunar, atrium pusat perbelanjaan dihiasi lampion merah menyala, dan di taman kawasan permukiman, anak-anak berdua-dua bertiga berjalan ke sana kemari membawa lampion yang menyala. Di meja makan rumah, sekotak kue bulan yang dipotong kecil-kecil ditemani seteko teh panas, dengan sebuah jeruk bali yang sudah dikupas di sampingnya. Satu keluarga membawa kursi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Gugur yang khas di keluarga Tionghoa Malaysia.

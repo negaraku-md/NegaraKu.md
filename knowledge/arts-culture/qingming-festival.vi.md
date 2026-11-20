@@ -86,6 +86,14 @@ festivalFacts:
   when: "Tương ứng với tiết 'Thanh Minh' trong 24 tiết khí âm lịch, ngày dương lịch khá cố định, thường vào khoảng mùng 4 hoặc mùng 5 tháng 4; các gia đình bản địa phần lớn trải việc tảo mộ ra trong khoảng mười ngày trước và sau tiết lễ."
   holiday: "Tết Thanh Minh không phải ngày lễ công cộng ở Malaysia, trong ngày đó phần lớn các cửa hàng vẫn hoạt động bình thường."
   etiquette: "Vì việc đốt vàng mã và đồ mã bằng giấy có liên quan đến lửa trần và khói, một số nghĩa trang và công viên tưởng niệm quy định khu vực đốt riêng hoặc đặt ra quy định, những năm gần đây cũng có người chuyển sang các cách thức thân thiện với môi trường hơn."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
 ---
 
 Một buổi sáng sớm đầu tháng Tư, trên các lối đi trong nghĩa trang bắt đầu xuất hiện từng gia đình. Có người xách xô và liềm, có người xách giỏ đầy đồ ăn nấu chín, trái cây và tiền giấy. Tìm được phần mộ nhà mình, người trẻ bắt tay nhổ cỏ, quét lá, còn người lớn tuổi chỉ dẫn cách tô lại từng nét chữ phai mờ trên bia mộ; chỉ khi phần mộ đã sạch sẽ mới bày đồ cúng, thắp hương vái lạy, và cuối cùng đốt tiền giấy trên khoảng đất trống bên cạnh. Giữa khói và lửa, Thanh Minh một năm một lần cứ thế trôi qua.

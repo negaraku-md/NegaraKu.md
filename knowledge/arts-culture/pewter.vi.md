@@ -59,6 +59,14 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
 ---
 
 Một thành phố dựng nên trên thiếc rốt cuộc lại cho thế giới một nghề thủ công kim loại. Kuala Lumpur tồn tại vì những người thăm dò tìm thấy quặng thiếc nơi sông Klang và sông Gombak gặp nhau. Nhiều thập niên sau, một thợ thiếc tuổi thiếu niên đến làm việc trong chính nền kinh tế thiếc ấy bắt đầu gò những chiếc lư hương cho bàn thờ đền miếu — và xưởng mà anh mở nay là nhà sản xuất pewter lớn nhất hành tinh.

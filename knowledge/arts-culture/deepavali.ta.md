@@ -74,6 +74,14 @@ festivalFacts:
   when: "சந்திர இந்து (தமிழ்) நாட்காட்டியின்படி நிர்ணயிக்கப்படுகிறது, பொதுவாக அக்டோபர் அல்லது நவம்பர்; அரசிதழில் அறிவிக்கப்படும் தேதி ஆண்டுதோறும் மாறுகிறது, மேலும் மாற்றத்துக்கு உட்பட்டது எனக் குறிக்கப்படுகிறது."
   holiday: "Sarawak தவிர ஒவ்வொரு மாநிலத்திலும் கூட்டரசுப் பிரதேசத்திலும் கடைப்பிடிக்கப்படும் அரசிதழ் அறிவிக்கப்பட்ட கூட்டரசு பொது விடுமுறை; Sarawak தனக்கான பொது விடுமுறை அட்டவணையைத் தக்கவைத்துக் கொள்கிறது."
   etiquette: "விருந்தினர்கள் திறந்த இல்லங்களுக்கு வரவேற்கப்படுகிறார்கள்; அடக்கமான உடை அணியவும், இல்லத்திற்குள் அல்லது கோயிலுக்குள் நுழைவதற்கு முன் காலணிகளைக் கழற்றவும், சிறிதளவு இனிப்புப் பரிசு வழங்குவது ஒரு வழக்கமான மரபு."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
 ---
 
 ஒரே இரவுக்கு, பேசுவது விளக்குதான். வரிசை வரிசையாகச் சிறிய களிமண் விளக்குகள் வாசல்களிலும் ஜன்னல் விளிம்புகளிலும் வைக்கப்படுகின்றன, வண்ண அரிசி அல்லது பொடியால் ஒரு தரை வடிவம் வாசற்படியில் இடப்படுகிறது, ஒரு மணிநேரத்திற்கு முன் இருளில் மூழ்கியிருந்த வீடு தீ ஒளியால் வரையறுக்கப்படுகிறது. திருவிழா தனது பெயரைப் பெறுவது இங்குதான்: *தீபாவளி (Deepavali)* என்பது சமஸ்கிருதத்தில் "ஒரு வரிசை அல்லது தொடர் விளக்குகள்" என்பதிலிருந்து வந்தது.

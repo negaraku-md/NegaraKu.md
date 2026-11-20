@@ -79,6 +79,14 @@ festivalFacts:
   when: "กำหนดตาม 24 สารท ตกอยู่ราววันที่ 21 ถึง 23 ธันวาคมตามปฏิทินสุริยคติของทุกปี (ประมาณวันที่ 22 ธันวาคม) เป็นวันที่กลางวันสั้นที่สุดในรอบปี"
   holiday: "ไม่ใช่วันหยุดราชการ — วันเหมายันในมาเลเซียไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ"
   etiquette: "ชาวจีนส่วนใหญ่เฉลิมฉลองกันอย่างเรียบง่ายในบ้าน สมาชิกในครอบครัวนั่งล้อมวงปั้น tangyuan และรับประทานอาหารร่วมกัน แทนที่จะจัดกิจกรรมสาธารณะขนาดใหญ่ บางครอบครัวจะใช้ tangyuan เซ่นไหว้บรรพบุรุษและสักการะเทพเจ้าก่อน แล้วจึงรับประทานร่วมกันทั้งครอบครัว วิธีปฏิบัติแตกต่างกันไปตามแต่ละครอบครัวและกลุ่มภาษาถิ่น"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
 ---
 
 ในเย็นวันหนึ่งปลายเดือนธันวาคม กลิ่นหอมของแป้งข้าวเหนียวในครัวเคล้ากับความหวานของน้ำขิง ทั้งครอบครัวนั่งล้อมโต๊ะ ปั้นก้อนแป้งข้าวเหนียวทีละก้อนเล็ก ๆ ให้เป็นลูกกลม — มีสีขาว มีที่ย้อมเป็นสีชมพูอ่อนและเขียวอ่อน ลูกกลมในมือเด็ก ๆ ขนาดไม่เท่ากัน ผู้ใหญ่ปั้นไปพลางพูดไปว่า กินทังหยวนแล้วก็โตขึ้นอีกหนึ่งปี วันนี้คือวันตงจื้อ

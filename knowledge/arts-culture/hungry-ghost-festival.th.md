@@ -80,6 +80,14 @@ festivalFacts:
   when: "เดือน 7 ตามปฏิทินจันทรคติ (ตั้งแต่วันที่ 1 เดือน 7「ประตูผีเปิด」จนถึงปลายเดือน「ประตูผีปิด」) โดยวันที่ 15 เดือน 7 (วันจงหยวนที่แท้จริง) เป็นช่วงที่การเซ่นไหว้หนาแน่นที่สุด"
   holiday: "ไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ ในมาเลเซีย การเซ่นไหว้ พิธีอวิ๋นหลานเซิ่งฮุ่ย (盂兰胜会) และการแสดงบนเวที (歌台) ส่วนใหญ่จัดขึ้นในช่วงเย็นหลังเลิกงานและเวลากลางคืน"
   etiquette: "ที่นั่งแถวหน้าสุดของเวทีการแสดง (歌台) จงใจเว้นว่างไว้ให้แขกที่มองไม่เห็น ผู้ชมโดยทั่วไปจึงไม่นั่งแถวแรก นอกจากนี้ยังมีคำกล่าวในหมู่ชาวบ้านว่าอย่าเหยียบย่ำเครื่องเซ่นข้างทาง และอย่าเก็บทรัพย์สินที่ตกอยู่บนพื้นโดยพลการ"
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
 ---
 
 พอเดือนเจ็ดตามปฏิทินจันทรคติมาถึง ภาพยามค่ำคืนตามหัวมุมถนนหลายแห่งในปีนัง กลัง และยะโฮร์ ก็ค่อย ๆ เปลี่ยนไปอย่างเงียบ ๆ ริมถนนมีการตั้งโต๊ะเล็ก ๆ บนนั้นมีผลไม้ ข้าว น้ำชา และกระดาษเงินกระดาษทองวางซ้อนเป็นตั้ง ธูปเทียนวูบวาบในแสงสลัวยามโพล้เพล้ บนที่ว่างในละแวกชุมชน มีการตั้งรูปเทพกระดาษสูงหลายเมตรที่มีสีหน้าดุดัน ด้านตรงข้ามตั้งเวทีการแสดง เมื่อค่ำลงไฟก็สว่างจ้าและเสียงเพลงก็ดังขึ้น — ทว่าเก้าอี้แถวหน้าสุดใต้เวทีทั้งแถวกลับว่างเปล่าอยู่ตลอด

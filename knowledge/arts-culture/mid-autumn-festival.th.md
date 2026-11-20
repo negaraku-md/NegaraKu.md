@@ -82,6 +82,14 @@ festivalFacts:
   when: "ตรงกับวันที่ 15 เดือน 8 ตามปฏิทินจันทรคติเป็นประจำ ซึ่งเป็นวันที่ดวงจันทร์กลมและสว่างที่สุด สื่อถึงการอยู่พร้อมหน้าพร้อมตากัน ส่วนวันที่ตามปฏิทินสุริยคติเปลี่ยนแปลงไปในแต่ละปีตามปฏิทินจันทรคติ โดยทั่วไปตกอยู่ในเดือนกันยายนหรือตุลาคม"
   holiday: "ไม่ใช่วันหยุดราชการ เทศกาลไหว้พระจันทร์ในมาเลเซียไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ ร้านค้าและหน่วยงานราชการเปิดทำการตามปกติ (ต่างจากตรุษจีนที่มีวันหยุดราชการสองวันแรก)"
   etiquette: "งานเฉลิมฉลองสาธารณะ เช่น งานราตรีโคมไฟและการแสดงศิลปวัฒนธรรมที่จัดโดยสมาคมชาวจีน วัด (เช่น ศาลเจ้าแม่ทับทิมเล่อเซิ่งหลิ่ง 乐圣岭天后宫 ในกัวลาลัมเปอร์) และองค์กรชุมชน มักเปิดต้อนรับผู้อยู่อาศัยกลุ่มชาติพันธุ์อื่น ๆ ให้มาร่วมและรับชมด้วยกัน มีแง่มุมของการแบ่งปันข้ามกลุ่มชาติพันธุ์"
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
 ---
 
 เมื่อค่ำลงในวันที่สิบห้าของเดือนแปดตามปฏิทินจันทรคติ โถงกลางของห้างสรรพสินค้าประดับด้วยโคมสีแดงสว่างเต็มไปหมด ส่วนในสวนของย่านที่อยู่อาศัย เด็ก ๆ จับกลุ่มสองสามคนถือโคมที่จุดสว่างเดินไปมา บนโต๊ะอาหารในบ้าน ขนมไหว้พระจันทร์หนึ่งกล่องที่หั่นเป็นชิ้นเล็ก ๆ วางคู่กับชาร้อนหนึ่งกา และส้มโอที่ปอกแล้วหนึ่งลูกอยู่ข้าง ๆ ครอบครัวยกเก้าอี้ออกไปนอกบ้าน เงยหน้าชมดวงจันทร์ที่กลมที่สุดในรอบปี — นี่คือค่ำคืนไหว้พระจันทร์แบบฉบับของครอบครัวชาวจีนมาเลเซีย

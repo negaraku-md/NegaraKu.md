@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["الباتيك الماليزي", "Malaysian batik", "batik canting", "باتيك كلنتان ترينغانو", "قميص الباتيك", "نسيج مقاومة الشمع", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 يُوضع طول من القماش الأبيض السادة على إطار. يغمس الحِرَفي قلماً نحاسياً صغيراً — وهو الـ canting، لا يزيد فوهته اتساعاً عن سنّ قلم رصاص — في وعاء من الشمع المذاب، ثم يبدأ الرسم مباشرةً على القماش: لا بالصباغ، بل بالشمع الذي سيأبى أن يأخذ اللون. وبعد أن يبرد الشمع ويتصلّب، يُغمَس القماش في حمّام الصبغة. فحيثما يستقر الشمع، لا تصل الصبغة — وحين يُغلى الشمع لاحقاً ويُزال، يبقى نقشٌ مرسوم لا باللون، بل بغيابه.

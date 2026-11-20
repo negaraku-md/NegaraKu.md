@@ -80,6 +80,14 @@ festivalFacts:
   when: "旧暦五月五日に固定されており、対応する西暦の日付は毎年旧暦に従って変動し、通常は西暦6月中にあたる。"
   holiday: "祝日ではない——マレーシアでは全国的にも、いずれの州においても祝日ではなく、通常どおり出勤・登校する。"
   etiquette: "家庭での祝いは祭日当日の粽の食事一回に集中することが多い。ドラゴンボートなどの大規模な公開行事は、人々が参加しやすいよう週末や近い日に催されることが多い。一部の家庭では門前に艾草（ヨモギ）や菖蒲を掛けたり、祭日の正午に「立蛋」（卵立て）を試みたりするが、各家庭のやり方は一様ではない。"
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
 ---
 
 旧暦五月五日が近づくころ、華人家庭の台所には粽の葉ともち米の香りが漂います。主婦たちは水に浸したもち米と香ばしく炒めた具を、漏斗状に折った葉に一層また一層と詰め、イグサの紐でしっかりと縛り、ひと連なりまたひと連なりと鍋に下ろして長時間煮ます。同じころ、ペナン島北西端のテロッ・バハン・ダムでは、細長いドラゴンボートが水面を切り分けて進み、舳先に立つ太鼓手が拍を打ち、数十人の漕ぎ手がその拍に合わせて一斉に櫂を振るいます——これがマレーシアの端午節の二つの顔です。一方は台所の粽の香り、もう一方は水上の競漕です。

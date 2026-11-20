@@ -84,6 +84,14 @@ festivalFacts:
   when: "في 1 و2 يونيو من كل عام؛ يبدأ الإحياء مساء 31 مايو، ويُختتم موسم Gawai الأوسع رسميًا بـ ngiling tikai («طيّ الحصيرة») قرب نهاية يونيو."
   holiday: "عطلة رسمية في ولاية Sarawak (أُدرِجت في الجريدة الرسمية في 25 سبتمبر 1964)."
   etiquette: "يُفتح باب البيت الطويل على مصراعيه — فاستضافة الأقارب الزائرين والجيران والضيوف جزء من العيد؛ ومن التحيات الشائعة 'Gayu Guru, Gerai Nyamai' (طول العمر والصحة والازدهار) أو 'Selamat Hari Gawai'. وهو في المقام الأول إحياء عائلي وداخل البيت الطويل، لا عرضًا سياحيًا."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
 ---
 
 لم تُعلِن الساعة منتصف الليل بعدُ في آخر أيام مايو، وفي بيت طويل على ضفّة نهر ما في ساراواك، يكون الغونغ منتظِراً. فقد جُمِع الأرزّ. وكُنِس الرواق وعُلِّقت فيه حُصُر جديدة. ويقف جرّة من التواك جاهزاً. وحين يُقرَع الغونغ أخيراً، يرفع رئيس البيت الطويل كأساً، ويشرب كلّ من على امتداد الرواق المشترك الطويل نخب الكلمات الثلاث نفسها: طول العمر، والصحة، والازدهار.

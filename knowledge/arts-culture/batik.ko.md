@@ -79,6 +79,14 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
 ---
 
 한 장의 새하얀 무지 천이 틀에 걸쳐집니다. 한 장인이 작은 구리 펜 — 찬팅(canting)으로, 그 주둥이는 연필심 끝보다 넓지 않습니다 — 을 녹은 밀랍이 담긴 통에 담갔다가, 천 위에 곧바로 그리기 시작합니다. 안료가 아니라, 색을 받아들이기를 거부할 밀랍으로 말입니다. 밀랍이 식어 굳은 뒤에야 비로소 천은 염료 통에 담깁니다. 밀랍이 있는 곳에는 염료가 닿지 못하며, 이후 밀랍을 끓여 없애면 남는 것은 색이 아니라 색의 부재로 그려진 문양입니다.

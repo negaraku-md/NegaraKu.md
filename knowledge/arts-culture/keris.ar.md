@@ -101,6 +101,14 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["الكريس", "الإمبو", "البامور", "اللوك", "التراث الملايوي", "تامينغ ساري", "الكريس الملايوي", "قانون التراث الوطني 2005", "ثقافة نوسانتارا", "keris", "empu", "pamor", "luk", "Taming Sari"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
 ---
 
 نصلٌ مسنَّن كلسان من لهب، مطروقٌ من حديد ونيكل مطويَّين مئات المرات بيد إمبو — الكريس ليس مجرد سلاح، بل نبض حضارة الملايو. كان يُدسّ في خصر المحاربين، ويُرفع عاليًا في المراسم الملكية، ويُورَّث جيلًا بعد جيل بوصفه إرثًا عائليًا. وإلى يومنا هذا، يظل الكريس رمزًا للسيادة والشجاعة وهوية الشعب.
