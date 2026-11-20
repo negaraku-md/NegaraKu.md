@@ -91,6 +91,14 @@ visitFacts:
   permit: '入域に公園の許可証は不要で、BOHの茶園工場見学は無料だが、Orang Asliの村の訪問は信頼できる地元ガイドや業者を通じて行うべきである。'
   watch: '一つの町として捉えず——役割の異なる3つの集落だと考え——茶園は月曜日に休業し、高原の天候は急変するため、1日の予定は変わり得ることに留意すること。'
   next: '現在の開場時間と月曜日の休業は各施設に直接確認し——茶園はBOH Plantationsの公式サイト（bohtea.com）、農園や庭園の見どころはCameron Highlands District Council（MDCH）で確認すること。'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 タナ・ラタ（Tanah Rata）でバスを降りて真っ先に気づくのは、自分の吐く息だ——赤道直下でありながら、セーターを羽織っても場違いに感じないほど空気は涼しい。それこそがキャメロンハイランドの真髄である：熱帯マレーシアの上に積み重なった温帯の丘陵地帯で、茶が尾根に沿って整然とした緑のコーデュロイを描き、イチゴが道端のビニールハウスで実っていく。

@@ -95,6 +95,14 @@ visitFacts:
   permit: 'Sarawak runs its own immigration, so everyone clears a border check on arrival even on a domestic flight from Peninsular Malaysia — foreigners receive a separate Sarawak entry stamp, so carry your passport throughout.'
   watch: 'Orangutan sightings at Semenggoh are never guaranteed, since the semi-wild apes are free to forage in the surrounding forest — treat any sighting as a bonus, not a promise.'
   next: 'Confirm current Sarawak entry requirements and park or festival timings with the Sarawak Tourism Board and the parks'' official operators before you travel.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 You can walk the length of Kuching's riverfront in an evening, pass a colonial fort, a Rajah's palace and a Chinese temple on the way, eat one of Borneo's great bowls of noodles, and pose with a giant cat statue — all without leaving the city. Kuching is the capital and largest city of Sarawak, set on the Sarawak River at the southwestern tip of the state on the island of Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). It is the relaxed, river-city base from which most Sarawak trips begin. This guide covers the city itself — its waterfront, its Brooke-era history, its Chinatown and museums, and its cats — and how it works as a launchpad for the rainforest and wildlife that surround it.

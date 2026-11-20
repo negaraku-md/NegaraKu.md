@@ -107,6 +107,14 @@ visitFacts:
   permit: 'Lặn Sipadan đòi hỏi một giấy phép Sabah Parks, và số lượng cấp mỗi ngày bị giới hạn nghiêm ngặt và chỉ phân bổ qua các nhà điều hành lặn có giấy phép — hãy đặt trước thật sớm.'
   watch: 'Các đảo ở phía đông Sabah nằm trong một vùng an ninh được chỉ định (ESSZONE), giấy phép không bao giờ được bảo đảm, và các giới hạn bảo tồn (bao gồm một đợt đóng cửa thường niên) được áp dụng — hãy đi lại với đầy đủ thông tin và kiểm tra khuyến cáo chính thức hiện tại.'
   next: 'Hãy xác nhận giới hạn giấy phép, phí Sipadan hiện tại và bất kỳ đợt đóng cửa bảo tồn nào với Sabah Parks hoặc nhà điều hành lặn có giấy phép của bạn.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
 ---
 
 Một đỉnh phủ san hô đơn lẻ vươn sáu trăm mét thẳng khỏi đáy Biển Celebes, cuộn xoáy với rùa và những cơn lốc cá nhồng — Sipadan là lý do những thợ lặn nghiêm túc đưa đông Sabah vào danh sách của họ, và là lý do cả một nền kinh tế du lịch đã mọc lên quanh thị trấn nhỏ Semporna. Nhưng nó không phải là một nơi bạn có thể chỉ đến và lặn. Sipadan là một công viên biển được bảo vệ nghiêm ngặt với một giấy phép hằng ngày bị giới hạn, không có chỗ ở trên chính hòn đảo, và một bối cảnh khu an ninh trên bờ biển xung quanh mà người lần đầu cần hiểu một cách bình tĩnh và dựa trên sự thật. Cẩm nang này bao gồm điều gì khiến nghề lặn đẳng cấp thế giới, hệ thống giấy phép và hạn ngạch hằng ngày thực sự vận hành ra sao, bạn lưu trú ở đâu, Sipadan khác với Công viên Biển Tun Sakaran lân cận như thế nào, ai phù hợp với khu vực, và khi nào nên đi.

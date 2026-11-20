@@ -100,6 +100,14 @@ visitFacts:
   permit: 'La ascensión a la cumbre está regulada por permiso: son obligatorios tanto un permiso de escalada del parque como un guía de montaña autorizado de Sabah Parks, las plazas diarias son limitadas y casi todo el mundo debe reservar por adelantado una cama de montaña para pasar la noche a través del concesionario del parque — así que resérvela con mucha antelación.'
   watch: 'Una exigente ascensión de dos días a gran altitud, donde importan el mal de altura y la forma física y donde la montaña crea su propio tiempo; el acceso y la ruta pueden cambiar tras sucesos como un gran terremoto, así que planifique con información actualizada.'
   next: 'Confirme las normas y tarifas vigentes de permisos, guías y alojamiento con Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 Una corona de granito que se alza directamente de la selva de Borneo hasta algo más de 4.000 metros, un parque Patrimonio Mundial con más especies vegetales que algunos continentes, y una ascensión a la cumbre tan racionada que se reserva antes que los vuelos — el Monte Kinabalu es el hito natural más famoso de Malasia y uno de los más estructurados de visitar en la práctica. Se encuentra en Sabah, en la parte malasia de Borneo, y recompensa a dos tipos de viajero muy distintos: el escalador en forma y organizado que persigue un amanecer en el pico más alto entre el Himalaya y Nueva Guinea, y el excursionista de un día que simplemente quiere aire fresco de montaña, extrañas plantas carnívoras y un remojón en una fuente termal. Esta guía cubre ambos, y las cosas que la gente suele equivocar antes de ir.

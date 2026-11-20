@@ -86,6 +86,14 @@ visitFacts:
   getThere: 'कुआलालंपुर से सड़क मार्ग द्वारा, लगभग दो घंटे की ड्राइव — एक आम सप्ताहांत यात्रा।'
   watch: 'सप्ताह के दिन के अनुसार योजना बनाएँ — Jonker Street रात्रि बाज़ार केवल शुक्रवार से रविवार की शामों को चलता है, और सप्ताह के दिनों में यह एक सामान्य शॉपहाउस सड़क होती है — और निःशुल्क ऐतिहासिक A Famosa द्वार को शहर के बाहर अलग A''Famosa Resort थीम पार्क से न मिलाएँ।'
   next: 'यात्रा से पहले वर्तमान खुलने के दिन और समय Baba & Nyonya Heritage Museum की आधिकारिक वेबसाइट से पुष्ट करें, क्योंकि ये बदलते रहते हैं।'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 गोधूलि में डच स्क्वायर में खड़े हों और आप एक ही नज़र में पाँच शताब्दियाँ पढ़ सकते हैं: एक ओर सामन-लाल डच नगर-भवन, ऊपर पहाड़ी पर एक पुर्तगाली-कालीन चर्च के खंडहर, एक पत्थर का द्वार जो कभी उस दुर्ग का आधार था जिसे ब्रिटिशों ने ध्वस्त करने की कोशिश की, और — दो मिनट की पैदल दूरी पर — चीनी-मलय टाउनहाउसों की एक गली जो अब शुक्रवार-रात के बाज़ार के लिए जगमगाती है। मेलाका अपना इतिहास किसी बड़े शहर में नहीं फैलाता। यह इसे लगभग एक वर्ग मील में समेट देता है जिसे आप एक दोपहर में पैदल घूम सकते हैं। यहाँ बताया गया है कि इसे कैसे पढ़ें, और इसके इर्द-गिर्द यात्रा की योजना कैसे बनाएँ।

@@ -98,6 +98,14 @@ visitFacts:
   permit: 'Sarawak mengendalikan imigresennya sendiri, jadi semua orang — termasuk rakyat Malaysia dari Semenanjung — dilepasi dan dikeluarkan pas kemasukan ketika ketibaan (warga asing mendapat cap Sarawak berasingan di samping kemasukan Malaysia mereka, dan kebanyakannya mesti mengisi MDAC dalam talian terlebih dahulu), dan penerbangan Mulu serta lawatan gua berpandu sebaiknya ditempah lebih awal.'
   watch: 'Pesawat kecil Mulu kerap lewat atau dibatalkan akibat cuaca, jadi sediakan hari penimbal dan jangan sekali-kali menempah sambungan seterusnya yang ketat keluar dari taman.'
   next: 'Sahkan keperluan visa dan MDAC semasa untuk kewarganegaraan anda dengan Jabatan Imigresen Malaysia.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kuching dalam masa kurang dua jam, tidak pernah meninggalkan negara anda sendiri, namun masih dicop melalui imigresen di hujung sana. Kejutan di dewan ketibaan itulah perkara paling penting yang perlu difahami tentang Sarawak: ia sebuah negeri Malaysia yang mengendalikan sempadannya sendiri.

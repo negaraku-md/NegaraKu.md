@@ -78,6 +78,14 @@ visitFacts:
   permit: 'ค่าธรรมเนียมอนุรักษ์อุทยานทางทะเลภาคบังคับ ชำระที่เคาน์เตอร์ในอาคารท่าเรือแผ่นดินใหญ่ก่อนขึ้นเรือ และแยกต่างหากจากค่าโดยสารเรือ'
   watch: 'ไม่มีการปิดบังคับแบบเดียวกันทั้งหมด แต่ผู้ประกอบการบนเกาะส่วนใหญ่ปิดโดยสมัครใจในช่วงมรสุมตะวันออกเฉียงเหนือ จึงควรยืนยันการรับส่งด้วยเรือก่อนชำระเงินเมื่อใกล้เดือนเหล่านั้น'
   next: 'ตรวจสอบค่าธรรมเนียมอนุรักษ์และกฎอุทยานทางทะเลปัจจุบันกับกรมประมงมาเลเซีย (Department of Fisheries Malaysia)'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 หากคุณไปถึงรีสอร์ตชายหาดในเรดังเดือนธันวาคม คุณมีแนวโน้มจะพบว่าเรือหายไป ท่าเรือเงียบสงบ และร้านดำน้ำปิดสนิท หมู่เกาะชายฝั่งตะวันออกดำเนินตามปฏิทินที่เขียนขึ้นโดยท้องทะเล ไม่ใช่โบรชัวร์ท่องเที่ยว และดำเนินตามชุดกฎอุทยานทางทะเลที่ผู้มาเยือนครั้งแรกส่วนใหญ่เพิ่งค้นพบที่เคาน์เตอร์จำหน่ายตั๋ว

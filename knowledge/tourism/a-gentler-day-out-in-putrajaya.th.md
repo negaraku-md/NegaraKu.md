@@ -79,6 +79,14 @@ sources:
 entity: "ปุตราจายา (เมืองหลวงฝ่ายบริหารของรัฐบาลกลางมาเลเซีย)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 ปุตราจายาคุ้มค่าแก่การไปเยือน แต่ก็ลงโทษคนที่วางแผนผิด เมืองหลวงฝ่ายบริหารของรัฐบาลกลางมาเลเซียที่สร้างขึ้นมาเพื่อจุดประสงค์นี้โดยเฉพาะ เป็นเมืองของ**ถนนบูเลอวาร์ดกว้าง อาคารอันยิ่งใหญ่ ลานพิธีการ สะพานและทะเลสาบขนาดใหญ่ที่มนุษย์สร้างขึ้น** งดงาม และสร้างมาเพื่อรถยนต์ สถานที่สำคัญกระจายอยู่ในเขตที่มีหมายเลขกำกับ มักห่างกันหนึ่งกิโลเมตรหรือมากกว่า โดยมีร่มเงาน้อยในระหว่างนั้น หากมาถึงด้วยความคาดหวังว่าจะเดินเล่นจากมัสยิดไปสวนไปร้านค้า คุณจะต้องเดินในระยะทางยาวและเปิดโล่งกลางแดดตลอดทั้งวันอันร้อนระอุ แต่หากมาถึงด้วยแผนที่สบายกว่า ปุตราจายาจะกลายเป็นหนึ่งในวันพักผ่อนที่ง่ายที่สุดใกล้กัวลาลัมเปอร์

@@ -96,6 +96,14 @@ visitFacts:
   getThere: 'ไม่มีสนามบินหรือทางรถไฟ คุณขับขึ้นถนนภูเขาคดเคี้ยวจาก Kuala Kubu Bharu สู่ The Gap ที่ซึ่งการไต่ขึ้นช่วงสุดท้ายเริ่มต้น โดยการจราจรขาขึ้นและขาลงปัจจุบันแยกกันสองถนน (เดิมถนนช่องทางเดียวเคยวิ่งแบบทางเดียวตามเวลา)'
   watch: 'ถนนภูเขาที่แคบและคดเคี้ยวนั้นช้าและมักปิดหลังฝนตก ดินถล่ม หรือต้นไม้ล้ม และตัวเขาเองก็มักมีหมอกและเปียกชื้น โดยมีร้านอาหารและเสบียงจำกัด'
   next: 'ตรวจสอบการจัดการเข้าถึงถนนปัจจุบันและการปิดใด ๆ กับหน่วยงานถนน (JKR) ก่อนเดินทาง'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
 ---
 
 สถานีบนเขาส่วนใหญ่ของมาเลเซียขายอะไรบางอย่างให้คุณ คาสิโน ไร่ชา ไร่สตรอว์เบอร์รี สวนสนุก เฟรเซอร์สฮิลล์ขายการไม่มีทั้งหมดนั้น กระจายอยู่บนกลุ่มสันเขาที่ปกคลุมด้วยป่าบน[เทือกเขาติติวังซา](/th/malaysia/titiwangsa-range) มันเป็นสถานียุคอาณานิคมขนาดเล็กที่เงียบ ห่อหุ้มด้วยหมอก ที่ซึ่งสิ่งที่ดังที่สุดที่คุณจะได้ยินคือเสียงนก และที่ซึ่งเสื้อกันหนาวเลิกรู้สึกไร้สาระแม้ที่เส้นศูนย์สูตร สำหรับนักดูนกมันใกล้เป็นพื้นที่ศักดิ์สิทธิ์ สำหรับคนอื่นเป็นทางเลือกที่ช้าและสงบของเพื่อนบ้านบนเขาที่หวือหวากว่า คู่มือนี้ครอบคลุมว่าเฟรเซอร์สฮิลล์คืออะไรจริง ๆ เหตุใดนักดูนกจึงมา มีอะไรให้ชม ถนนคดเคี้ยวขึ้นไปทำงานอย่างไร และที่นี่เหมาะและไม่เหมาะกับใคร

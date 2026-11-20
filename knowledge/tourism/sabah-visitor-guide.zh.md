@@ -100,6 +100,14 @@ visitFacts:
   permit: '沙巴根据《1963年马来西亚协定》自行管理移民事务，故每名抵达者——包括从西马飞来的马来西亚人——都须通过检查站并领取入境准证（visit pass），而京那巴鲁山攀登与 Sipadan 潜水又各自受 Sabah Parks 的限额准证管制。'
   watch: '请及早预订稀缺且须凭准证的热门项目，并围绕 Sipadan 每年 11 月的珊瑚礁恢复封闭期来规划，因为这些项目会售罄且无法在抵达时取得。'
   next: '出发前请向马来西亚移民局（Immigration Department of Malaysia）及 Sabah Parks 确认当前的入境、入境准证与准证规定。'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 你可以从吉隆坡飞到亚庇（Kota Kinabalu）而不必离开国境，落地时却仍要在移民柜台前排队。这个意外令许多初次到访者措手不及——而这正是你在规划沙巴之行前最需要理解的一件事。本指南将带你了解入境门户、招牌景点，以及那些让沙巴感觉像是一个自成一体之地的入境规定，因为从某种非常真实的意义上说，它确实如此。

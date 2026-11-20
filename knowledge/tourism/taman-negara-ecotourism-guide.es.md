@@ -85,6 +85,14 @@ visitFacts:
   permit: 'Cada visitante se registra para obtener un permiso de entrada de PERHILITAN a la llegada en el embarcadero o el mostrador del parque, paga aparte una licencia de cámara y debe usar un guía autorizado para la ascensión al Gunung Tahan.'
   watch: 'El monzón del nordeste puede crecer los ríos y alterar los barcos y los senderos, las pasarelas por las copas han sufrido cierres, y las sanguijuelas y la humedad son constantes — confirme el acceso y reserve los guías con antelación.'
   next: 'Confirme las normas y tarifas vigentes de permisos y entrada con la oficina del Departamento de Fauna y Parques Nacionales (Department of Wildlife and National Parks, PERHILITAN) en Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 De pie en el embarcadero de Kuala Tahan al amanecer, viendo la bruma levantarse de un río más antiguo que el Himalaya, es fácil olvidar que estás a apenas medio día de Kuala Lumpur. Taman Negara no es una atracción fabricada. Es una selva tropical viva que ha permanecido, en gran medida intacta, durante decenas de millones de años — y entrar en ella es más barato y sencillo de lo que casi cualquier viajero espera.

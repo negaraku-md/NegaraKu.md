@@ -99,6 +99,14 @@ visitFacts:
   permit: 'Sabah controls its own immigration under the Malaysia Agreement 1963, so every arrival — including Malaysians flying in from the Peninsula — clears a checkpoint and receives a visit pass, while the Mount Kinabalu climb and Sipadan diving are each gated by capped Sabah Parks permits.'
   watch: 'Book the scarce, permit-gated highlights well ahead and plan around Sipadan''s annual November closure for reef recovery, because these pieces sell out and cannot be secured on arrival.'
   next: 'Confirm current entry and visit-pass and permit rules with the Immigration Department of Malaysia and Sabah Parks before you travel.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 You can fly from Kuala Lumpur to Kota Kinabalu without leaving the country and still queue at an immigration counter when you land. That surprise catches many first-time visitors — and it is the single most important thing to understand before you plan a trip to Sabah. This guide walks through the gateway, the headline attractions, and the entry rules that make Sabah feel like its own place, because in one very real sense, it is.

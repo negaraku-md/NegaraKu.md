@@ -100,6 +100,14 @@ visitFacts:
   permit: 'L''ascension du sommet est soumise à permis : un permis d''ascension du parc et un guide de montagne agréé de Sabah Parks sont tous deux obligatoires, les places quotidiennes sont plafonnées, et presque tous doivent réserver à l''avance une nuit en refuge de montagne auprès du concessionnaire du parc — réservez donc bien à l''avance.'
   watch: 'Une ascension exigeante de deux jours en haute altitude où le mal des montagnes et la condition physique comptent et où la montagne crée sa propre météo ; l''accès et l''itinéraire peuvent changer après des événements comme un fort tremblement de terre, planifiez donc sur la base des informations en vigueur.'
   next: 'Confirmez les règles et tarifs en vigueur de permis, de guide et d''hébergement auprès de Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 Une couronne de granit s'élevant tout droit hors de la forêt tropicale de Bornéo jusqu'à un peu plus de 4,000 mètres, un parc du patrimoine mondial comptant plus d'espèces végétales que certains continents, et une ascension du sommet si étroitement rationnée que vous la réservez avant vos vols — le mont Kinabalu est le repère naturel le plus célèbre de Malaisie, et l'un des plus encadrés à visiter concrètement. Il se dresse à Sabah, dans la partie malaisienne de Bornéo, et récompense deux types très différents de voyageurs : le grimpeur en forme et organisé en quête d'une aurore sur le plus haut sommet entre l'Himalaya et la Nouvelle-Guinée, et le visiteur d'un jour qui veut simplement de l'air frais de montagne, d'étranges plantes carnivores et un bain dans une source chaude. Ce guide couvre les deux, et les choses que les gens se trompent régulièrement avant de partir.

@@ -96,6 +96,14 @@ visitFacts:
   permit: '사라왁은 자체 출입국 관리를 운영하므로 반도 말레이시아발 국내선이라도 모두 도착 시 국경 심사를 거치며 — 외국인은 별도의 사라왁 입국 도장을 받으니 여권을 늘 지참하십시오.'
   watch: '스믕고(Semenggoh)의 오랑우탄은 반(半)야생 상태로 주변 숲에서 자유로이 먹이를 찾으므로 목격은 결코 보장되지 않으니, 어떤 목격이든 약속이 아닌 보너스로 여기십시오.'
   next: '출발 전에 현재의 사라왁 입국 요건과 공원·축제 시기는 사라왁 관광청(Sarawak Tourism Board)과 각 공원의 공식 운영사에 확인하십시오.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 저녁 한나절이면 쿠칭의 강변을 끝까지 걸으며 콜로니얼 요새, 라자의 궁, 중국 사원을 지나고, 보르네오의 위대한 국수 한 그릇을 먹고, 거대한 고양이 조각상과 포즈를 취할 수 있습니다 — 모두 도시를 떠나지 않고. 쿠칭은 사라왁의 주도이자 최대 도시로, 보르네오섬 사라왁 남서쪽 끝의 사라왁강 가에 자리합니다([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). 대부분의 사라왁 여행이 시작되는 느긋한 강 도시 거점입니다. 이 가이드는 도시 자체 — 워터프런트, 브룩 시대 역사, 차이나타운과 박물관, 그리고 고양이 — 와, 이곳이 둘러싼 열대우림과 야생동물을 향한 발판으로 어떻게 작동하는지를 다룹니다.

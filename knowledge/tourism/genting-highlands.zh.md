@@ -94,6 +94,14 @@ visitFacts:
   permit: '赌场仅限非穆斯林进入，并要求达到最低年龄、核查身份并遵守着装规定。'
   watch: '山顶常年云雾缭绕、寒冷潮湿，景观时隐时现，周末与公共假期则人潮汹涌、排队漫长。'
   next: '请向云顶世界（Resorts World Genting）确认当前的主题公园、缆车与赌场入场规定。'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 驾车沿山路驶出吉隆坡的暑热，在过了半程某处，车窗开始起雾、空气转凉。离开首府不到一小时，你就能站在近1,800米高处的云雾之中，面对着一座层叠在山顶上的霓虹度假城市。那种反差——下方是热带低地，上方是凉爽多雾的山顶，一个上午即可抵达——正是云顶高原的全部卖点。本指南涵盖它究竟是什么、如何上山、有什么可做、如何明智地对待赌场，以及让初次到访者措手不及的错误。

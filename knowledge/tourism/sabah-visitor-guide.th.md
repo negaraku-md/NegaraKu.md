@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Sabah ควบคุมการตรวจคนเข้าเมืองของตนเองภายใต้ Malaysia Agreement 1963 ทุกคนที่มาถึง — รวมถึงชาวมาเลเซียที่บินมาจากคาบสมุทร — จึงผ่านด่านตรวจและรับบัตรอนุญาตเยี่ยม ขณะที่การปีน Mount Kinabalu และการดำน้ำ Sipadan แต่ละอย่างถูกควบคุมด้วยใบอนุญาตจำกัดจำนวนของ Sabah Parks'
   watch: 'จองสถานที่พาดหัวที่หายากและควบคุมด้วยใบอนุญาตไว้ล่วงหน้านาน และวางแผนเลี่ยงการปิด Sipadan ประจำปีในเดือนพฤศจิกายนเพื่อฟื้นฟูแนวปะการัง เพราะส่วนเหล่านี้ขายหมดและไม่สามารถจองได้เมื่อมาถึง'
   next: 'ตรวจสอบกฎการเข้าประเทศ บัตรอนุญาตเยี่ยม และใบอนุญาตปัจจุบันกับสำนักงานตรวจคนเข้าเมืองมาเลเซีย (Immigration Department of Malaysia) และ Sabah Parks ก่อนเดินทาง'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปโกตากีนาบาลูได้โดยไม่ต้องออกนอกประเทศ และยังต้องต่อคิวที่เคาน์เตอร์ตรวจคนเข้าเมืองเมื่อลงเครื่อง ความประหลาดใจนั้นทำให้ผู้มาเยือนครั้งแรกหลายคนสะดุด และเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจก่อนคุณวางแผนทริปสู่ซาบาห์ คู่มือนี้เดินผ่านประตู แหล่งท่องเที่ยวพาดหัว และกฎการเข้าที่ทำให้ซาบาห์รู้สึกเหมือนเป็นที่ของตัวเอง เพราะในแง่หนึ่งที่เป็นจริงมาก มันเป็นเช่นนั้น

@@ -107,6 +107,14 @@ visitFacts:
   permit: 'يتطلّب الغوص في Sipadan تصريحاً من Sabah Parks، والعدد الصادر كل يوم محدود بصرامة ومخصّص فقط عبر مشغّلي غوص مرخّصين — احجز مبكراً.'
   watch: 'تقع جزر شرق صباح في منطقة أمنية محدّدة (ESSZONE)، والتصاريح غير مضمونة أبداً، وتنطبق حدود الحفظ (بما فيها إغلاق سنوي) — سافر وأنت مُطّلع وراجع النصائح الرسمية الحالية.'
   next: 'تأكّد من سقف تصاريح Sipadan ورسومه الحالي وأي إغلاق للحفظ مع Sabah Parks أو مشغّل الغوص المرخّص لديك.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
 ---
 
 برج مرجاني مفرد يرتفع ستمئة متر مباشرةً من قاع بحر سيليبس، يدور بالسلاحف وأعاصير الباراكودا — سيبادان هو السبب في أن الغوّاصين الجادّين يضعون شرق صباح على قائمتهم، والسبب في أن اقتصاد سفر بأكمله نما حول بلدة سمبورنا الصغيرة. لكنه ليس مكاناً تحضر إليه وتغوص ببساطة. سيبادان متنزّه بحري محمي بصرامة بتصريح يومي محدود، بلا إقامة على الجزيرة نفسها، وبسياق منطقة أمنية على الساحل المحيط ينبغي أن يفهمه الزوّار لأول مرة بهدوء ووقائعية. يتناول هذا الدليل ما يجعل الغوص من الطراز العالمي، وكيف يعمل التصريح والحدّ اليومي فعلاً، وأين تقيم، وكيف يختلف سيبادان عن متنزّه تون ساكاران البحري القريب، ولمن تناسب المنطقة، ومتى تذهب.

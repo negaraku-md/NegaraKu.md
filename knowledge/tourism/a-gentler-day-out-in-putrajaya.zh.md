@@ -79,6 +79,14 @@ sources:
 entity: "布城（Putrajaya，马来西亚联邦行政首都）"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 布城（Putrajaya）值得一访，但它会惩罚错误的计划。马来西亚这座专门建造的联邦行政首都是一座拥有**宽阔大道、宏伟建筑、庄严广场、桥梁和一座大型人工湖**的城市——既美丽，又为汽车而建。它的各处地标散布在按编号划分的分区（Precinct）之间，彼此往往相隔一公里以上，中间少有遮荫。若你抱着从清真寺散步到花园、再到商店的预期而来，就会在漫长、暴晒的路程上走过炎热的一天。而若你带着更悠闲的计划前来，布城就会成为吉隆坡附近最轻松平静的一日游之一。

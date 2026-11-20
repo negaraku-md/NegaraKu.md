@@ -78,6 +78,14 @@ visitFacts:
   permit: 'Một khoản phí bảo tồn công viên biển bắt buộc, trả tại quầy ở nhà ga bến tàu đất liền trước khi lên thuyền và tách biệt với tiền vé thuyền của bạn.'
   watch: 'Không có một đợt đóng cửa bắt buộc duy nhất, nhưng hầu hết các nhà điều hành trên đảo tự nguyện đóng cửa vào mùa gió mùa đông bắc, nên gần những tháng đó hãy xác nhận các chuyến thuyền trung chuyển trước khi trả tiền.'
   next: 'Hãy xác nhận phí bảo tồn và quy định công viên biển hiện tại với Cục Thủy sản Malaysia (Department of Fisheries).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 Xuất hiện tại một khu nghỉ dưỡng bãi biển Redang vào tháng 12 và bạn sẽ có khả năng thấy các thuyền đã đi, cầu tàu yên tĩnh và cửa hàng lặn đóng cửa. Các đảo bờ đông chạy theo một lịch được viết bởi biển, chứ không phải cuốn cẩm nang du lịch — và bởi một bộ quy tắc công viên biển mà hầu hết những người lần đầu chỉ khám phá ra tại quầy vé.

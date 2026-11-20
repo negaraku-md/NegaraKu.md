@@ -91,6 +91,14 @@ visitFacts:
   permit: 'நுழைய பூங்கா அனுமதிச்சீட்டு தேவையில்லை; BOH தேயிலைத் தோட்டத் தொழிற்சாலை சுற்றுலாக்கள் இலவசம், ஆனால் Orang Asli கிராம வருகைகள் நம்பகமான உள்ளூர் வழிகாட்டி அல்லது இயக்குநர் மூலம் செய்யப்பட வேண்டும்.'
   watch: 'அதை ஒரே நகரமாகக் கருதாதீர்கள் — இவை வெவ்வேறு பங்குகள் கொண்ட மூன்று குடியிருப்புகள் — மேலும் தேயிலைத் தோட்டங்கள் திங்கட்கிழமைகளில் மூடப்பட்டிருக்கும், பீடபூமி வானிலையும் விரைவாக மாறுகிறது, எனவே நாள் திட்டங்கள் மாறலாம்.'
   next: 'தற்போதைய திறக்கும் நேரங்களையும் திங்கள் மூடல்களையும் ஒவ்வொரு இடத்துடனும் நேரடியாக உறுதிப்படுத்துங்கள் — தேயிலைத் தோட்டங்களுக்கு BOH Plantations-இன் அதிகாரப்பூர்வ தளம் (bohtea.com) மற்றும் பண்ணை-மலர்த்தோட்ட ஈர்ப்புகளுக்கு Cameron Highlands District Council (MDCH).'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 தானா ராத்தாவில் பேருந்திலிருந்து இறங்கியவுடன் நீங்கள் முதலில் கவனிப்பது உங்கள் சொந்த மூச்சைத்தான் — பூமத்திய ரேகையிலும்கூட ஒரு ஸ்வெட்டர் அபத்தமாகத் தோன்றாத அளவுக்கு காற்று குளிர்ச்சியாக இருக்கும். அதுதான் கேமரன் ஹைலண்ட்ஸின் முழு நோக்கம்: வெப்பமண்டல மலேசியாவின் மேலே அடுக்கப்பட்ட மிதவெப்பமண்டல மலைப்பகுதியின் ஒரு துண்டு, அங்கே தேயிலை மலைமுகடுகளின் மேல் நேர்த்தியான பச்சை வரிகளாக வளர்கிறது, ஸ்ட்ராபெரிகள் சாலையோர பாலிடன்னல்களில் பழுக்கின்றன.

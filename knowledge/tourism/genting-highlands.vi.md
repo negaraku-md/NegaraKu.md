@@ -94,6 +94,14 @@ visitFacts:
   permit: 'Sòng bạc chỉ nhận người không theo đạo Hồi, và yêu cầu độ tuổi tối thiểu, kiểm tra danh tính và quy định trang phục.'
   watch: 'Đỉnh núi thường bị mây bao phủ, lạnh và ẩm với tầm nhìn lúc có lúc không, và cuối tuần cùng ngày lễ công cộng mang lại đám đông dày đặc và hàng chờ dài.'
   next: 'Hãy xác nhận quy định vào cửa công viên giải trí, cáp treo và sòng bạc hiện tại với Resorts World Genting.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 Lái xe lên đường núi ra khỏi cái nóng của Kuala Lumpur và, đâu đó quá nửa đường, cửa kính bắt đầu mờ sương và không khí trở lạnh. Trong vòng một giờ rời thủ đô, bạn có thể đứng trong mây ở gần 1,800 mét, trước một thành phố nghỉ dưỡng rực đèn neon xếp chồng trên một đỉnh núi. Sự tương phản đó — vùng thấp nhiệt đới bên dưới, đỉnh núi mát mẻ sương mù bên trên, đến được trong một buổi sáng — là toàn bộ đề xuất của Genting Highlands. Cẩm nang này bao gồm nó thực sự là gì, cách lên đó, có gì để làm, cách đối xử với sòng bạc một cách hợp lý, và những sai lầm bắt những người lần đầu.

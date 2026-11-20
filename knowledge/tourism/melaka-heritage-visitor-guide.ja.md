@@ -86,6 +86,14 @@ visitFacts:
   getThere: 'クアラルンプールから道路で、車でおよそ2時間でアクセスでき——週末旅行の定番となっている。'
   watch: '曜日を踏まえて計画すること——Jonker Streetのナイトマーケットは金曜から日曜の夜にしか開かれず、平日はごく普通のショップハウスの通りであり——また、無料の史跡であるA Famosaの門を、郊外にある別のA''Famosa Resortのテーマパークと取り違えないこと。'
   next: 'これらは変わり得るため、訪問前に現在の開場日と開場時間をBaba & Nyonya Heritage Museumの公式サイトで確認すること。'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 夕暮れのオランダ広場に立てば、ただ一瞥のうちに五世紀を読み取ることができる：一方にはサーモンレッドのオランダ市庁舎、その上の丘にはポルトガル時代の教会の遺構、かつて要塞をつなぎとめ、イギリス人が取り壊そうとした石の門、そして——徒歩2分のところに——いまは金曜夜のバザールのために灯りをともした中華・マレーの町屋の小路がある。マラッカはその歴史を大きな都市に広げてはいない。それを、午後のうちに歩き通せるおよそ1平方マイルのなかに積み重ねている。ここでは、その読み解き方と、それを軸にした訪問の計画の立て方を紹介する。

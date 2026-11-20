@@ -97,6 +97,14 @@ visitFacts:
   permit: 'Sarawak runs its own immigration, so everyone — Malaysians from the Peninsula included — is cleared and issued an entry pass on arrival (foreigners get a separate Sarawak stamp on top of their Malaysian entry, and most must file the MDAC online beforehand), and Mulu flights plus guided cave tours should be booked ahead.'
   watch: 'Mulu''s small aircraft are regularly delayed or cancelled by weather, so build in buffer days and never book a tight onward connection out of the park.'
   next: 'Confirm current visa and MDAC requirements for your nationality with the Immigration Department of Malaysia.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 You can fly from Kuala Lumpur to Kuching in under two hours, never leave your own country, and still get stamped through immigration on the other end. That surprise at the arrivals hall is the single most important thing to understand about Sarawak: it is a Malaysian state that runs its own border.

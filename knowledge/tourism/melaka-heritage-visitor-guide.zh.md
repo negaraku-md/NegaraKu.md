@@ -86,6 +86,14 @@ visitFacts:
   getThere: '从吉隆坡沿公路前往，车程约两小时——是常见的周末行程。'
   watch: '请按星期几安排行程——鸡场街（Jonker Street）夜市仅在星期五至星期日傍晚开市，平日则是一条普通的店屋街——且别把免费的历史城门 A Famosa 与城外另一处的 A''Famosa Resort 主题公园混为一谈。'
   next: '参观前请向峇峇娘惹古迹博物馆（Baba & Nyonya Heritage Museum）官方网站确认当前的开放日与开放时间，因为这些会有变动。'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 黄昏时分站在荷兰红屋广场，你可以在一瞥之间读到五个世纪的历史：一侧是三文鱼红的荷兰市政厅，山上是葡萄牙时期教堂的遗迹，一座曾是要塞支点、英国人试图拆除的石门，以及——步行两分钟外——一条如今为周五夜市点亮灯火的华人马来排屋小巷。马六甲不把它的历史铺展在一座大城市里。它把历史层层堆叠进约一平方英里、你一个下午就能走完的范围内。以下是如何解读它，以及如何据此规划一次游览。

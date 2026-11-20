@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Le Sarawak gère sa propre immigration, de sorte que chacun passe un contrôle frontalier à l''arrivée même sur un vol intérieur depuis la Malaisie péninsulaire — les étrangers reçoivent un tampon d''entrée du Sarawak distinct, gardez donc votre passeport sur vous en permanence.'
   watch: 'L''observation des orangs-outans à Semenggoh n''est jamais garantie, puisque les grands singes semi-sauvages sont libres de fourrager dans la forêt environnante — considérez toute observation comme un bonus, non comme une promesse.'
   next: 'Confirmez les conditions d''entrée au Sarawak en vigueur et les horaires des parcs ou festivals auprès du Sarawak Tourism Board et des opérateurs officiels des parcs avant de voyager.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 Vous pouvez parcourir toute la longueur du front de mer de Kuching en une soirée, passer devant un fort colonial, un palais de Rajah et un temple chinois en chemin, manger l'un des grands bols de nouilles de Bornéo, et poser avec une statue de chat géante — le tout sans quitter la ville. Kuching est la capitale et la plus grande ville du Sarawak, située sur la rivière Sarawak à la pointe sud-ouest de l'État sur l'île de Bornéo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching) ; [Wikidata](https://www.wikidata.org/wiki/Q220445)). C'est la base détendue de ville fluviale d'où commencent la plupart des voyages au Sarawak. Ce guide couvre la ville elle-même — son front de mer, son histoire de l'ère Brooke, son quartier chinois et ses musées, et ses chats — et comment elle fonctionne comme tremplin vers la forêt tropicale et la faune qui l'entourent.

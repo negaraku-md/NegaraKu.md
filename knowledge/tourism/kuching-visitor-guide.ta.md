@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Sarawak தனது சொந்த குடிவரவை நடத்துகிறது, எனவே தீபகற்ப மலேசியாவிலிருந்து உள்நாட்டு விமானத்தில் வந்தாலும் கூட அனைவரும் வருகையில் எல்லை சோதனையைக் கடக்கிறார்கள் — வெளிநாட்டவர்கள் தனி Sarawak நுழைவு முத்திரை பெறுகிறார்கள், எனவே உங்கள் கடவுச்சீட்டை எப்போதும் எடுத்துச் செல்லுங்கள்.'
   watch: 'Semenggoh-இல் ஒராங்குட்டான் தரிசனம் ஒருபோதும் உத்தரவாதம் அளிக்கப்படுவதில்லை, ஏனெனில் அரை-காட்டு வானரங்கள் சுற்றியுள்ள காட்டில் தீவனம் தேட சுதந்திரமானவை — எந்தத் தரிசனத்தையும் ஒரு வாக்குறுதியாக அல்லாமல் ஒரு போனஸாகக் கருதுங்கள்.'
   next: 'நீங்கள் பயணிப்பதற்கு முன் தற்போதைய Sarawak நுழைவுத் தேவைகளையும் பூங்கா அல்லது விழா நேரங்களையும் Sarawak Tourism Board மற்றும் பூங்காக்களின் அதிகாரப்பூர்வ இயக்குநர்களுடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 நீங்கள் ஒரு மாலையில் குச்சிங்கின் ஆற்றங்கரையின் நீளத்தை நடந்து, வழியில் ஒரு காலனித்துவ கோட்டை, ஒரு ராஜாவின் அரண்மனை மற்றும் ஒரு சீனக் கோயிலைக் கடந்து, போர்னியோவின் பெரும் நூடுல் கிண்ணங்களில் ஒன்றைச் சாப்பிட்டு, ஒரு ராட்சத பூனை சிலையுடன் போஸ் கொடுக்கலாம் — அனைத்தும் நகரத்தை விட்டு வெளியேறாமல். குச்சிங் சரவாக்கின் தலைநகரமும் மிகப் பெரிய நகரமும், போர்னியோ தீவில் மாநிலத்தின் தென்மேற்கு நுனியில் சரவாக் ஆற்றில் அமைந்துள்ளது ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). இது பெரும்பாலான சரவாக் பயணங்கள் தொடங்கும் நிதானமான, ஆற்று-நகரத் தளம். இந்த வழிகாட்டி நகரத்தையே — அதன் நீர்முகப்பு, அதன் Brooke-கால வரலாறு, அதன் சைனாடவுன் மற்றும் அருங்காட்சியகங்கள், மேலும் அதன் பூனைகள் — மேலும் அதைச் சூழும் மழைக்காடு மற்றும் வனவிலங்குகளுக்கான ஒரு தொடக்கப் புள்ளியாக அது எவ்வாறு இயங்குகிறது என்பதையும் உள்ளடக்குகிறது.

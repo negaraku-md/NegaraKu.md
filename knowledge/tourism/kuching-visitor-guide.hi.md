@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Sarawak अपना स्वयं का आप्रवासन चलाता है, इसलिए हर कोई आगमन पर सीमा-जाँच से गुज़रता है, भले ही प्रायद्वीपीय मलेशिया से घरेलू उड़ान हो — विदेशियों को एक अलग Sarawak प्रवेश-मुहर मिलती है, इसलिए अपना पासपोर्ट हर समय साथ रखें।'
   watch: 'Semenggoh में ओरंगुटान का दिखना कभी निश्चित नहीं होता, क्योंकि अर्ध-जंगली वानर आसपास के जंगल में स्वतंत्र रूप से भोजन खोजते हैं — किसी भी दर्शन को एक बोनस मानें, वादा नहीं।'
   next: 'यात्रा से पहले वर्तमान Sarawak प्रवेश आवश्यकताएँ और पार्क या त्योहार के समय Sarawak Tourism Board तथा पार्कों के आधिकारिक ऑपरेटरों से पुष्ट करें।'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 आप एक शाम में कुचिंग के नदी-तट की पूरी लंबाई चल सकते हैं, रास्ते में एक औपनिवेशिक क़िला, एक Rajah का महल और एक चीनी मंदिर पार कर सकते हैं, बोर्नियो के महान नूडल के कटोरों में से एक खा सकते हैं, और एक विशाल बिल्ली की मूर्ति के साथ पोज़ कर सकते हैं — सब शहर छोड़े बिना। कुचिंग सारावाक की राजधानी और सबसे बड़ा शहर है, जो बोर्नियो द्वीप पर राज्य के दक्षिण-पश्चिमी छोर पर Sarawak River पर बसा है ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445))। यह आरामदेह, नदी-शहर आधार है जहाँ से अधिकांश सारावाक यात्राएँ शुरू होती हैं। यह गाइड शहर को ही शामिल करती है — इसका जलतट, इसका Brooke-युग का इतिहास, इसका Chinatown और संग्रहालय, और इसकी बिल्लियाँ — और यह इसके इर्द-गिर्द के वर्षावन तथा वन्यजीव के लिए एक लॉन्चपैड के रूप में कैसे काम करता है।

@@ -78,6 +78,14 @@ visitFacts:
   permit: 'கட்டாய கடல் பூங்கா பாதுகாப்புக் கட்டணம், படகில் ஏறுவதற்கு முன் நிலப்பகுதித் துறைமுக முனையத்தில் ஒரு கவுண்டரில் செலுத்தப்படுகிறது, உங்கள் படகுக் கட்டணத்திலிருந்து தனியானது.'
   watch: 'ஒரே கட்டாய மூடல் எதுவும் இல்லை, ஆனால் பெரும்பாலான தீவு இயக்குநர்கள் வடகிழக்கு பருவமழைக்கு தன்னார்வமாக மூடுகிறார்கள், எனவே அந்த மாதங்களுக்கு அருகில் பணம் செலுத்துவதற்கு முன் படகுப் பயணங்களை உறுதிப்படுத்துங்கள்.'
   next: 'தற்போதைய பாதுகாப்புக் கட்டணங்களையும் கடல் பூங்கா விதிகளையும் Department of Fisheries Malaysia-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 டிசம்பரில் Redang கடற்கரை ரிசார்ட் ஒன்றுக்குச் சென்றால், படகுகள் மறைந்திருப்பதையும், ஜெட்டி அமைதியாக இருப்பதையும், மூழ்கல் கடை மூடப்பட்டிருப்பதையும் நீங்கள் பெரும்பாலும் காண்பீர்கள். கிழக்குக் கடற்கரைத் தீவுகள் சுற்றுலாத் துண்டுப்பிரசுரத்தால் அல்ல, கடலால் எழுதப்பட்ட ஒரு நாட்காட்டியின்படி இயங்குகின்றன — மேலும் பெரும்பாலான புதியவர்கள் டிக்கெட் கவுன்டரில்தான் கண்டுபிடிக்கும் கடல் பூங்கா விதிகளின் தொகுப்பின்படியும் இயங்குகின்றன.

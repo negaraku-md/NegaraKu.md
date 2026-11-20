@@ -78,6 +78,14 @@ visitFacts:
   permit: '乗船前に本土の桟橋ターミナルの窓口で支払う、ボート料金とは別の義務的な海洋公園保全料。'
   watch: '一律に定められた閉鎖期間はないが、ほとんどの島の業者は北東モンスーンの時期に自主的に休業するため、その時期が近い場合は支払う前にボートの運航を確認すること。'
   next: '現在の保全料と海洋公園の規則は、Department of Fisheries Malaysiaで確認すること。'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 12月にルダンのビーチリゾートに現れると、ボートは姿を消し、桟橋は静まり返り、ダイビングショップはシャッターを下ろしているのに出くわす公算が大きい。東海岸の島々は、旅行パンフレットではなく海が書いたカレンダーに従って動いている——そして、多くの初心者がチケットカウンターで初めて知ることになる一連の海洋公園のルールにも従っている。

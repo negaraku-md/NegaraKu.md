@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Chặng leo lên đỉnh bị khống chế bằng giấy phép: một giấy phép leo núi của công viên và một hướng dẫn viên leo núi Sabah Parks có giấy phép đều bắt buộc, số chỗ hằng ngày bị giới hạn, và gần như mọi người phải đặt trước một giường ngủ qua đêm trên núi qua đơn vị nhượng quyền của công viên — nên hãy giữ chỗ trước nhiều.'
   watch: 'Một chặng leo cao độ hai ngày đòi hỏi nhiều nơi say độ cao và thể lực đều quan trọng và ngọn núi tự tạo thời tiết của riêng nó; lối vào và lộ trình có thể thay đổi sau các sự kiện như một trận động đất lớn, nên hãy lên kế hoạch theo thông tin hiện tại.'
   next: 'Hãy xác nhận quy định và phí giấy phép, hướng dẫn viên cùng chỗ ở hiện tại với Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 Một vương miện đá granite vươn thẳng ra khỏi rừng mưa Borneo lên tới vừa quá 4,000 mét, một vườn Di sản Thế giới với nhiều loài thực vật hơn cả một số châu lục, và một chuyến leo đỉnh được định lượng chặt chẽ đến mức bạn đặt nó trước khi đặt vé máy bay — Núi Kinabalu là địa danh thiên nhiên nổi tiếng nhất ở Malaysia, và là một trong những nơi có cấu trúc nhất để thực sự ghé thăm. Nó nằm ở Sabah, trong phần Borneo thuộc Malaysia, và nó tưởng thưởng cho hai kiểu du khách rất khác nhau: người leo núi khỏe mạnh, có tổ chức theo đuổi một bình minh trên đỉnh cao nhất giữa dãy Himalaya và New Guinea, và người đi trong ngày chỉ đơn giản muốn không khí núi mát lạnh, những loài cây ăn thịt kỳ lạ và một lần ngâm mình trong suối nước nóng. Cẩm nang này bao gồm cả hai, và những điều người ta thường hiểu sai trước khi đi.

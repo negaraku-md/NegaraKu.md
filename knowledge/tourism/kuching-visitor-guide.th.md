@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Sarawak ดำเนินการตรวจคนเข้าเมืองของตนเอง ทุกคนจึงผ่านด่านตรวจเมื่อมาถึงแม้เป็นเที่ยวบินในประเทศจากคาบสมุทรมาเลเซีย — ชาวต่างชาติได้รับตราเข้า Sarawak แยกต่างหาก จึงควรพกหนังสือเดินทางไว้ตลอด'
   watch: 'การพบอุรังอุตังที่ Semenggoh ไม่เคยรับประกัน เพราะลิงกึ่งป่าเหล่านี้หากินอิสระในป่าโดยรอบ จึงควรถือว่าการพบเห็นเป็นโบนัส ไม่ใช่คำสัญญา'
   next: 'ตรวจสอบข้อกำหนดการเข้า Sarawak ปัจจุบันและช่วงเวลาอุทยานหรือเทศกาลกับ Sarawak Tourism Board และผู้ประกอบการทางการของอุทยานก่อนเดินทาง'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 คุณเดินตลอดความยาวริมแม่น้ำของกูชิงได้ในเย็นเดียว ผ่านป้อมอาณานิคม พระราชวังของราชา และวัดจีนระหว่างทาง กินหนึ่งในชามก๋วยเตี๋ยวที่ยอดเยี่ยมของบอร์เนียว และโพสท่ากับรูปปั้นแมวยักษ์ ทั้งหมดโดยไม่ออกจากเมือง กูชิงเป็นเมืองหลวงและเมืองใหญ่ที่สุดของซาราวัก ตั้งอยู่บนแม่น้ำซาราวักที่ปลายตะวันตกเฉียงใต้ของรัฐบนเกาะบอร์เนียว ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)) เป็นฐานเมืองแม่น้ำที่ผ่อนคลายซึ่งทริปซาราวักส่วนใหญ่เริ่มต้น คู่มือนี้ครอบคลุมตัวเมืองเอง ริมน้ำ ประวัติศาสตร์ยุคบรูก ไชนาทาวน์และพิพิธภัณฑ์ และแมว และมันทำงานอย่างไรในฐานะฐานปล่อยตัวสู่ป่าฝนและสัตว์ป่าที่ล้อมรอบ

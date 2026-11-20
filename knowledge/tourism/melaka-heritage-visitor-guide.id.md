@@ -86,6 +86,14 @@ visitFacts:
   getThere: 'Dicapai melalui jalan darat dari Kuala Lumpur, sekitar dua jam berkendara — perjalanan akhir pekan yang umum.'
   watch: 'Rencanakan berdasarkan hari dalam seminggu — pasar malam Jonker Street hanya beroperasi pada sore hari Jumat hingga Minggu, dan pada hari kerja ia adalah jalan rumah toko biasa — dan jangan salah mengira gerbang bersejarah A Famosa yang gratis sebagai taman tema A''Famosa Resort yang terpisah di luar kota.'
   next: 'Konfirmasikan hari dan jam buka terkini dengan situs resmi Baba & Nyonya Heritage Museum sebelum kunjungan Anda, karena hal ini berubah.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 Berdirilah di Dataran Belanda pada waktu senja dan Anda bisa membaca lima abad dalam satu pandangan: sebuah balai kota Belanda berwarna merah salmon di satu sisi, reruntuhan sebuah gereja zaman Portugis di bukit di atas, sebuah pintu gerbang batu yang pernah menjadi inti sebuah benteng yang coba dirobohkan oleh Inggris, dan — dua menit berjalan kaki dari situ — sebuah lorong rumah toko Tionghoa-Melayu yang kini gemerlap untuk bazar malam Jumat. Melaka tidak menyebarkan sejarahnya ke seluruh sebuah kota besar. Ia menyusunnya ke dalam kawasan kurang lebih satu mil persegi yang bisa Anda jelajahi dalam satu sore. Inilah cara membacanya, dan cara merencanakan kunjungan mengelilinginya.

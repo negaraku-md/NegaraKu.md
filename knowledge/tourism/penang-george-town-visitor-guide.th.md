@@ -38,7 +38,7 @@ faq:
 lang: "th"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'บินเข้าสู่สนามบินนานาชาติ Penang ทางใต้ของ George Town หรือเข้าถึงเกาะทางบกผ่านสะพาน Penang Bridge และสะพาน Sultan Abdul Halim Muadzam Shah หรือนั่งเรือ Rapid Ferry จาก Butterworth สู่ริมน้ำ George Town'
   watch: 'ควรมองศิลปะข้างถนนเป็นประตูสู่เรื่องราวมากกว่าเรื่องราวทั้งหมด เพราะบ้านตระกูล วัด และถนนตึกแถวคือสิ่งที่การขึ้นทะเบียน UNESCO คุ้มครองจริง ๆ'
   next: 'ตรวจสอบตารางเวลาและกฎของรถรางไฟฟ้า (funicular) ปัจจุบันกับ Penang Hill Corporation'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 ลงบนเกาะ ก้าวออกจากเครื่องปรับอากาศ และสิ่งแรกที่กระทบคุณคือกลิ่น ควันกระทะ ธูปจากวัดจีน ดอกลั่นทม และไอเค็มของช่องแคบมะละกา จอร์จทาวน์เป็นที่ที่คุณอ่านด้วยเท้า ผังตึกแถวอายุร้อยปีที่กะทัดรัด ที่ซึ่งมัสยิด บ้านตระกูล และโบสถ์อาณานิคมอาจอยู่ในบล็อกเดียวกัน คู่มือนี้ครอบคลุมสิ่งที่ควรชม ที่ที่ควรกิน วิธีไปถึงชายหาดและเนินเขา และควรให้เวลาแค่ไหนกับเมืองที่ให้รางวัลกับความช้า

@@ -89,6 +89,14 @@ visitFacts:
   permit: 'Register at park HQ; the show caves, adventure caving and the Pinnacles all need licensed guides and advance booking — reserve weeks to months ahead.'
   watch: 'Equatorial rainforest with no reliable dry season — the Pinnacles climb and the bat exodus are weather-dependent and called off in heavy rain, so build in buffer days. Small-plane luggage limits apply.'
   next: 'Confirm current flights, rooms, guided-activity rules and fees with the official park site (mulupark.com) and the Sarawak Tourism Board.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 Deep inside Sarawak's rainforest, where limestone mountains rise straight out of the jungle and no road reaches, sits one of the most extraordinary landscapes in Malaysia — and one of the most studied cave regions on the planet. Gunung Mulu National Park is where you find the world's largest cave chamber, a cave passage big enough to fly a jumbo jet through, a nightly river of millions of bats, and a hilltop forest of limestone blades sharp enough to shred a boot. It is also genuinely remote: you arrive on a small plane, you go almost everywhere with a guide, and you book months ahead. This guide covers what Mulu is, what there is to see underground and above it, the two big treks, how access works, and the mistakes first-timers make.

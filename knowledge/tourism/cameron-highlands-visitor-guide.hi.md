@@ -91,6 +91,14 @@ visitFacts:
   permit: 'प्रवेश के लिए कोई पार्क परमिट नहीं; BOH चाय-बागान की फ़ैक्ट्री-टूर निःशुल्क हैं, जबकि Orang Asli गाँव की यात्रा किसी प्रतिष्ठित स्थानीय गाइड या ऑपरेटर के माध्यम से की जानी चाहिए।'
   watch: 'इसे एक ही कस्बा न मानें — ये अलग-अलग भूमिकाओं वाली तीन बस्तियाँ हैं — और ध्यान दें कि चाय-बागान सोमवार को बंद रहते हैं जबकि पठार का मौसम तेज़ी से बदलता है, इसलिए दिन की योजनाएँ बदल सकती हैं।'
   next: 'वर्तमान खुलने के समय और सोमवार की बंदी सीधे प्रत्येक स्थल से पुष्ट करें — चाय-बागानों के लिए BOH Plantations की आधिकारिक साइट (bohtea.com) और फ़ार्म-और-उद्यान आकर्षणों के लिए Cameron Highlands District Council (MDCH)।'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 तानाह राता में बस से उतरिए और पहली चीज़ जो आप महसूस करते हैं वह है आपकी अपनी साँस — हवा इतनी ठंडी है कि भूमध्य रेखा पर भी एक स्वेटर बेतुका नहीं लगता। कैमरन हाइलैंड्स का यही पूरा सार है: उष्णकटिबंधीय मलेशिया के ऊपर टिका समशीतोष्ण पहाड़ी इलाक़े का एक टुकड़ा, जहाँ चाय पहाड़ी कटकों पर साफ़-सुथरी हरी कोरडरॉय की तरह उगती है और सड़क किनारे पॉलीटनलों में स्ट्रॉबेरी पकती हैं।

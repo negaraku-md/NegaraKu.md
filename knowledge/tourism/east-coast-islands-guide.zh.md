@@ -78,6 +78,14 @@ visitFacts:
   permit: '须缴纳强制性的海洋公园保育费，于登船前在本土码头航站楼的柜台缴付，与船费分开计算。'
   watch: '并无统一规定的封闭期，但多数岛屿业者会在东北季候风期间自愿停业，故接近这些月份时请在付款前确认船只接驳。'
   next: '请向马来西亚渔业局（Department of Fisheries Malaysia）确认当前的保育费与海洋公园规定。'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 十二月来到热浪岛的沙滩度假村，你多半会发现船只不见了、码头一片寂静、潜水店也关门大吉。东海岸岛屿依循的是一份由海洋书写的日历，而不是旅游手册——它们也依循一套多数初次到访者要到售票柜台才发现的海洋公园规则。

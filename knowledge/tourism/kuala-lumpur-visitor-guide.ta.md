@@ -104,6 +104,14 @@ visitFacts:
   permit: 'Petronas Twin Towers நுழைவு தினசரி எண்ணிக்கை வரம்பிடப்பட்ட நேரம்-நிர்ணயிக்கப்பட்ட டிக்கெட்டுகளைப் பயன்படுத்துகிறது, எனவே நடந்து வருவதை நம்பாமல் முன்கூட்டியே இணையத்தில் முன்பதிவு செய்யுங்கள்.'
   watch: 'நகர மைய போக்குவரத்து உச்ச நேரங்களில் அதிகமாக இருக்கிறது, எனவே நகர் முழுவதும் பயணங்களுக்கு ரயில்கள் பொதுவாக காரை விட வேகமானவை.'
   next: 'Petronas Twin Towers-க்கான தற்போதைய திறக்கும் நேரங்களையும் டிக்கெட் விவரங்களையும் அதிகாரப்பூர்வ PETRONAS Twin Towers தளத்துடன் (petronastwintowers.com.my) உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 விடியற்காலையில் Kuala Lumpur International Airport-இல் இறங்கினால், ஒரு மணி நேரத்திற்குள், உலகின் வான்கோட்டை ஒருகாலத்தில் ஆண்ட இரண்டு வெள்ளிக் கோபுரங்களின் அடியில் நீங்கள் நிற்க முடியும் — வாடகைக் கார் இல்லை, சிக்கலான திட்டமிடல் இல்லை, வெறும் ஒரு ரயிலும் ஒரு தட்டி-நுழையும் அட்டையும் மட்டுமே. அந்த எளிமையே கோலாலம்பூரின் முழு நோக்கமும் ஆகும்: இது மலேசியாவின் முகப்பு வாயில், முதன்மைக் காட்சிகள் ஒரு குறுகிய ரயில் பயணத்தில் அமர்ந்திருக்கும் ஒரு நெருக்கமான, மலிவான தலைநகரம், மேலும் நாட்டின் கிட்டத்தட்ட ஒவ்வொரு தொடர் பயணமும் தொடங்கும் இடம்.

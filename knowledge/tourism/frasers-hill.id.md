@@ -96,6 +96,14 @@ visitFacts:
   getThere: 'Tidak ada bandara atau jalur kereta api — Anda berkendara naik melalui jalan pegunungan berkelok-kelok dari Kuala Kubu Bharu ke The Gap, tempat tanjakan terakhir dimulai, dengan lalu lintas naik dan turun kini dipisahkan antara dua jalan (jalan asli berjalur tunggal secara historis beroperasi sebagai satu arah terjadwal).'
   watch: 'Jalan pegunungan yang sempit dan berkelok-kelok lambat serta rentan tertutup setelah hujan, tanah longsor, atau pohon tumbang, dan bukit itu sendiri sering berkabut dan basah, dengan pilihan santap serta pasokan yang terbatas.'
   next: 'Konfirmasikan pengaturan akses jalan terkini dan setiap penutupan dengan otoritas jalan (JKR) sebelum Anda bepergian.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
 ---
 
 Sebagian besar stasiun bukit Malaysia menjual Anda sesuatu — kasino, perkebunan teh, ladang stroberi, taman tema. Fraser's Hill menjual Anda ketiadaan semua itu. Terhampar di gugusan punggungan berhutan di [barisan Titiwangsa](/id/malaysia/titiwangsa-range), ia stasiun era kolonial yang kecil, tenang dan berselimut kabut tempat hal paling nyaring yang akan Anda dengar adalah kicau burung, dan tempat sweter berhenti terasa konyol bahkan di khatulistiwa. Bagi pengamat burung ia nyaris tanah suci; bagi semua orang lain ia alternatif yang lambat dan sederhana bagi tetangga dataran tingginya yang lebih mencolok. Panduan ini mencakup apa sebenarnya Fraser's Hill, mengapa pengamat burung datang, apa yang bisa dilihat, bagaimana jalan naik yang berliku bekerja, serta siapa yang cocok dan tidak cocok dengan tempat ini.

@@ -120,6 +120,14 @@ visitFacts:
   permit: 'Los templos en cuevas son lugares de culto en activo, así que vista con modestia (cubra hombros y rodillas) y guarde silencio en su interior.'
   watch: 'A pesar de lo que diga cierta publicidad turística imprecisa, el valle de Kinta es un geoparque nacional, no un Geoparque Mundial de la UNESCO.'
   next: 'Confirme los horarios y las tarifas vigentes de los trenes con KTMB antes de viajar.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 El estaño hizo a Ipoh, y luego casi la deshizo. Una aldea sobre el río Kinta se convirtió en una de las ciudades más ricas de la Malaya británica gracias al mineral enterrado bajo el valle de Kinta, se construyó un grandioso centro colonial, y luego vio escaparse el dinero cuando el precio del estaño se desplomó. Lo que conservó fue la arquitectura, las colinas de piedra caliza acribilladas de templos rupestres, y una cocina inusualmente buena. Hoy Ipoh es la escapada urbana de patrimonio y gastronomía más cómoda de Malasia — lo bastante cerca de Kuala Lumpur para una excursión de un día, lo bastante rica para recompensar un fin de semana. Esta guía cubre el paisaje y la historia que la moldearon, qué hay que ver en la ciudad y sus alrededores, la comida en breve, y lo práctico de cómo llegar.

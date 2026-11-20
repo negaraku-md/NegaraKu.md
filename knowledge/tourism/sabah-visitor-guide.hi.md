@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Sabah Malaysia Agreement 1963 के अंतर्गत अपना स्वयं का आप्रवासन नियंत्रित करता है, इसलिए हर आगमन — प्रायद्वीप से उड़ान भरने वाले मलेशियाई भी — एक जाँच-चौकी से गुज़रता है और एक विज़िट पास पाता है, जबकि Mount Kinabalu की चढ़ाई और Sipadan गोताख़ोरी प्रत्येक सीमित Sabah Parks परमिटों द्वारा नियंत्रित हैं।'
   watch: 'दुर्लभ, परमिट-नियंत्रित प्रमुख आकर्षण काफ़ी पहले बुक करें और Sipadan की रीफ़-पुनर्प्राप्ति के लिए वार्षिक नवंबर बंदी के इर्द-गिर्द योजना बनाएँ, क्योंकि ये हिस्से बिक जाते हैं और आगमन पर सुरक्षित नहीं किए जा सकते।'
   next: 'यात्रा से पहले वर्तमान प्रवेश तथा विज़िट-पास और परमिट नियम Immigration Department of Malaysia और Sabah Parks से पुष्ट करें।'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 आप कुआलालंपुर से कोटा किनाबालू तक देश छोड़े बिना उड़ान भर सकते हैं और फिर भी उतरने पर एक आव्रजन काउंटर पर क़तार में खड़े होते हैं। यह आश्चर्य कई पहली बार आने वाले आगंतुकों को पकड़ता है — और सबाह की यात्रा की योजना बनाने से पहले समझने योग्य यह सबसे महत्वपूर्ण एकल बात है। यह गाइड प्रवेश-द्वार, प्रमुख आकर्षणों, और उन प्रवेश नियमों से होकर गुज़रता है जो सबाह को अपनी ख़ुद की जगह जैसा महसूस कराते हैं, क्योंकि एक बहुत ही वास्तविक अर्थ में, यह है।

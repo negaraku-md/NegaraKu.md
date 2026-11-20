@@ -38,7 +38,7 @@ faq:
 lang: "fr"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'Prenez un vol vers l''aéroport international de Penang au sud de George Town, ou rejoignez l''île par voie terrestre via le pont de Penang et le pont Sultan Abdul Halim Muadzam Shah, ou prenez le Rapid Ferry depuis Butterworth jusqu''au front de mer de George Town.'
   watch: 'Considérez le street art comme une porte d''entrée plutôt que comme toute l''histoire, car ce sont les maisons de clan, les temples et les rues de maisons-boutiques que l''inscription UNESCO protège réellement.'
   next: 'Confirmez les horaires et les règles du funiculaire en vigueur auprès de la Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 Atterrissez sur l'île, sortez de la climatisation, et la première chose qui vous frappe est l'odeur : la fumée du wok, l'encens d'un temple chinois, la fleur de frangipanier et le sel du détroit de Malacca. George Town est un lieu qui se lit avec les pieds : une trame compacte de shophouses centenaires où une mosquée, une maison de clan et une église coloniale peuvent partager un seul pâté de maisons. Ce guide couvre ce qu'il faut voir, où manger, comment rejoindre les plages et la colline, et combien de temps consacrer à une ville qui récompense la lenteur.

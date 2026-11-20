@@ -98,6 +98,14 @@ visitFacts:
   permit: 'サラワクは独自の入国管理を行っており、半島からのマレーシア人を含む全員が到着時に審査を受けて入境パスを発行され（外国人はマレーシア入境に加えて別途サラワクのスタンプを受け、大半は事前にMDACをオンラインで提出しなければならない）、Muluへの便とガイド付きの洞窟ツアーは前もって予約すべきである。'
   watch: 'Muluの小型機は天候により定期的に遅延・欠航するため、予備日を組み込み、公園からの乗り継ぎを決して余裕なく予約しないこと。'
   next: 'あなたの国籍に対する現在のビザとMDACの要件は、Immigration Department of Malaysiaで確認すること。'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 クアラルンプールからクチンまで二時間足らずで飛べて、自分の国を一度も出ないのに、到着した先ではやはり移民審査でスタンプを押される。到着ロビーでのその驚きこそ、サラワク州について理解すべき最も重要な一点である。すなわち、それは独自の国境を運用するマレーシアの州なのだ。

@@ -110,6 +110,14 @@ visitFacts:
   permit: 'Giá miễn thuế của Langkawi chỉ áp dụng trên đảo; hàng hóa mang về đất liền chịu hạn mức du khách quốc gia của Malaysia, vốn đặt ra thời gian lưu trú tối thiểu đủ điều kiện và giới hạn rượu, thuốc lá cùng quà lưu niệm bạn có thể mang về miễn thuế.'
   watch: 'Đừng mua quá nhiều rượu miễn thuế để mang về nhà — giá rẻ là để thưởng thức trên đảo, và chỉ một hạn mức hạn chế mới qua được hải quan trên đất liền.'
   next: 'Hãy xác nhận lịch phà hiện tại với các nhà điều hành phà, và hạn mức miễn thuế với Cục Hải quan Hoàng gia Malaysia (RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
 ---
 
 Chín mươi chín hòn đảo, đá cổ hơn cả cá, whisky rẻ và một cáp treo treo lơ lửng bên sườn một ngọn núi được xây từ đá ước tính hơn 550 triệu năm tuổi — Langkawi gói một lượng khác thường vào một quần đảo ngoài khơi mũi tây bắc của Malaysia. Nó là đảo nghỉ dưỡng bờ tây hàng đầu của đất nước, và nó vận hành theo logic gần như ngược lại với các đảo lặn viền cọ ở phía bên kia của bán đảo. Hướng dẫn này bao gồm những gì thực sự quan trọng trước khi bạn đi: các quy tắc miễn thuế khiến người ta vấp ngã, công viên địa chất UNESCO mang lại câu chuyện nền cho phong cảnh, SkyCab và SkyBridge, các tour thuyền đáng đi, và cách quyết định giữa Langkawi và bờ đông.

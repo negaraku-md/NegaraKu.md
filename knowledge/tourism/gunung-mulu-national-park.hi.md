@@ -90,6 +90,14 @@ visitFacts:
   permit: 'पार्क मुख्यालय पर पंजीकरण कराएँ; दर्शनीय गुफाओं, साहसिक गुफा-खोज और Pinnacles सभी के लिए लाइसेंसी गाइड और अग्रिम बुकिंग आवश्यक है — हफ़्तों से महीनों पहले आरक्षित करें।'
   watch: 'भूमध्यरेखीय वर्षावन जिसमें कोई भरोसेमंद शुष्क मौसम नहीं है — Pinnacles की चढ़ाई और चमगादड़-निर्गमन मौसम पर निर्भर हैं और भारी बारिश में रद्द कर दिए जाते हैं, इसलिए बफ़र दिन रखें। छोटे विमानों की सामान-सीमाएँ लागू होती हैं।'
   next: 'वर्तमान उड़ानें, कमरे, निर्देशित-गतिविधि नियम और शुल्क आधिकारिक पार्क साइट (mulupark.com) और Sarawak Tourism Board से पुष्ट करें।'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 सारावाक के वर्षावन के भीतर गहरे, जहाँ चूना-पत्थर के पर्वत सीधे जंगल से उठते हैं और कोई सड़क नहीं पहुँचती, मलेशिया के सबसे असाधारण भूदृश्यों में से एक — और ग्रह के सबसे अधिक अध्ययन किए गए गुफा क्षेत्रों में से एक — बसा है। गुनुंग मुलु राष्ट्रीय उद्यान वह जगह है जहाँ आप दुनिया का सबसे बड़ा गुफा कक्ष, एक गुफा मार्ग जो इतना बड़ा है कि उसमें एक जंबो जेट उड़ाया जा सके, लाखों चमगादड़ों की एक रात्रिकालीन नदी, और बूट को चीर देने लायक़ तेज़ चूना-पत्थर ब्लेडों का एक पहाड़ी वन पाते हैं। यह सचमुच दूरस्थ भी है: आप एक छोटे विमान पर पहुँचते हैं, आप लगभग हर जगह एक गाइड के साथ जाते हैं, और आप महीनों पहले बुक करते हैं। यह गाइड शामिल करती है कि मुलु क्या है, भूमिगत और उसके ऊपर देखने के लिए क्या है, दो बड़े ट्रेक, पहुँच कैसे काम करती है, और पहली बार आने वाले कौन सी ग़लतियाँ करते हैं।

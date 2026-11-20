@@ -91,6 +91,14 @@ visitFacts:
   permit: '입장에 공원 허가는 필요 없으며, BOH 차 농원 공장 투어는 무료이고 오랑 아슬리 마을 방문은 평판 좋은 현지 가이드나 업체를 통해 하는 것이 좋습니다.'
   watch: '한 도시로 여기지 마십시오 — 서로 역할이 다른 세 정착지이며 — 차 농원은 월요일에 문을 닫고 고원 날씨는 빠르게 바뀌어 하루 계획이 달라질 수 있습니다.'
   next: '현재 개장 시간과 월요일 휴무는 각 장소에 직접 확인하십시오 — 차 농원은 BOH Plantations 공식 사이트(bohtea.com), 농장·정원 명소는 카메론하일랜즈 지방의회(MDCH)에서.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 타나 라타(Tanah Rata)에서 버스에 내리면 가장 먼저 느껴지는 것은 자신의 입김입니다. 적도에 있으면서도 스웨터를 걸치는 것이 우스꽝스럽지 않을 만큼 공기가 서늘합니다. 그것이 바로 카메론 하이랜드의 핵심입니다. 열대 말레이시아 위에 쌓아 올려진 온대 고산 지대로, 능선 위로 차가 가지런한 초록빛 골지 무늬처럼 자라고 도롯가 비닐하우스에서 딸기가 익어갑니다.

@@ -120,6 +120,14 @@ visitFacts:
   permit: 'Kuil gua adalah tempat ibadah yang aktif, jadi berpakaianlah sopan (tutup bahu dan lutut) dan jagalah ketenangan di dalamnya.'
   watch: 'Terlepas dari narasi pariwisata yang longgar, Lembah Kinta adalah geopark nasional, bukan UNESCO Global Geopark.'
   next: 'Konfirmasikan jadwal dan tarif kereta api terkini dengan KTMB sebelum bepergian.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 Timah membentuk Ipoh, lalu nyaris membubarkannya. Sebuah desa di Sungai Kinta berubah menjadi salah satu kota terkaya Malaya Britania berkat bijih yang terkubur di bawah Lembah Kinta, membangun untuk dirinya sebuah pusat kolonial yang megah, lalu menyaksikan uang itu mengalir pergi ketika harga timah runtuh. Yang dipertahankannya adalah arsitektur, bukit batu kapur yang bersarang kuil gua, dan dapur yang luar biasa baik. Kini Ipoh adalah liburan singkat kota warisan dan kuliner yang paling nyaman di Malaysia — cukup dekat ke Kuala Lumpur untuk kunjungan sehari, cukup kaya untuk sepadan diberi akhir pekan. Panduan ini mencakup lanskap dan sejarah yang membentuknya, apa yang bisa dilihat di dalam dan sekitar kota, kuliner secara ringkas, serta hal-hal praktis untuk ke sana.

@@ -78,6 +78,14 @@ visitFacts:
   permit: 'Caj pemuliharaan taman marin yang wajib, dibayar di kaunter dalam terminal jeti tanah besar sebelum menaiki bot dan berasingan daripada tambang bot anda.'
   watch: 'Tiada penutupan wajib tunggal, tetapi kebanyakan pengendali pulau tutup secara sukarela sepanjang monsun timur laut, jadi menghampiri bulan-bulan itu sahkan pemindahan bot sebelum membayar.'
   next: 'Sahkan yuran pemuliharaan dan peraturan taman marin semasa dengan Jabatan Perikanan Malaysia.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 Sampai di sebuah resort pantai Redang pada bulan Disember dan besar kemungkinan anda akan mendapati bot telah tiada, jeti sunyi dan kedai menyelam tertutup. Pulau-pulau pantai timur beroperasi mengikut kalendar yang ditulis oleh laut, bukan oleh risalah pelancongan — dan mengikut satu set peraturan taman laut yang kebanyakan pengunjung kali pertama hanya ketahui di kaunter tiket.

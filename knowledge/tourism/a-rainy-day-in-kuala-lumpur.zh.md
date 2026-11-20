@@ -79,6 +79,14 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["吉隆坡雨天", "KL 室内活动", "吉隆坡公共交通", "KLCC Bukit Bintang 步行道", "Suria KLCC 轨道", "Aquaria KLCC 怎么去", "Petrosains", "Muzium Negara MRT", "吉隆坡商场轨道"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'A tropical downpour streaking over an old tile-roofed shophouse on Jalan Panggong in Kuala Lumpur''s old quarter'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
 ---
 
 吉隆坡的雨来得又快又猛，一个露天的计划可能几分钟内就泡汤。但这不一定要毁掉一整天。

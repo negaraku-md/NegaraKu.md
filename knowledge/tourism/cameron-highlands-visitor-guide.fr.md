@@ -91,6 +91,14 @@ visitFacts:
   permit: 'Aucun permis de parc n''est requis pour entrer ; les visites de l''usine de la plantation de thé BOH sont gratuites, tandis que les visites de village Orang Asli devraient se faire avec un guide ou un opérateur local réputé.'
   watch: 'Ne considérez pas ce lieu comme une seule ville — ce sont trois localités aux rôles différents — et notez que les jardins de thé ferment le lundi tandis que la météo du plateau change rapidement, de sorte que les plans de la journée peuvent évoluer.'
   next: 'Confirmez les horaires d''ouverture et les fermetures du lundi en vigueur directement auprès de chaque site — le site officiel de BOH Plantations (bohtea.com) pour les jardins de thé et le Conseil de district des Cameron Highlands (MDCH) pour les fermes et jardins.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 Descendez du bus à Tanah Rata et la première chose que vous remarquez, c'est votre propre souffle — l'air est assez frais pour qu'un pull cesse de paraître ridicule, même à l'équateur. C'est tout l'intérêt des Cameron Highlands : un bloc de hautes terres tempérées empilé au-dessus de la Malaisie tropicale, où le thé pousse en un propre velours côtelé vert sur les crêtes et où les fraises mûrissent dans des tunnels plastiques en bord de route.

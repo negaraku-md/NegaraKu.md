@@ -119,6 +119,14 @@ visitFacts:
   permit: 'Cada cruce es una frontera internacional, así que lleve un pasaporte válido y pase el control de inmigración en ambos lados.'
   watch: 'La Calzada se congestiona los viernes por la tarde, los fines de semana, las vacaciones escolares de Singapur y las vísperas de festivos, así que cruce temprano, evite las horas punta de regreso y cambie al Second Link cuando esté atascada.'
   next: 'Confirme las disposiciones vigentes de cruce, del RTS Link y de permisos de parques con las autoridades de transporte oficiales de Malasia y Singapur y con la autoridad del parque correspondiente antes de viajar.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
 ---
 
 La mayoría de los visitantes conocen Johor en una cola fronteriza — en coche en el Causeway, en autobús en el Second Link, o en el corto tren lanzadera hacia JB Sentral — y tratan la ciudad como un desvío de compras y comida desde Singapur. Eso la infravalora. Johor Bahru es la capital del estado más meridional de Malasia y la puerta donde la península se encuentra con la república insular al otro lado del agua, con un casco patrimonial transitable a pie, uno de los mayores conglomerados de parques temáticos familiares de Asia a su puerta, y todo un estado detrás: playas en el este, manglares en el extremo sur, y montañas y selva tierra adentro. Esta guía cubre cómo funcionan los cruces, qué hacer en la ciudad, los parques temáticos, la costa y el interior, a quién conviene Johor, y el único error que pilla a casi todo el mundo — equivocar el momento del cruce.

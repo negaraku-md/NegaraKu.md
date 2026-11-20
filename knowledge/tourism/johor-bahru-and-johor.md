@@ -118,6 +118,14 @@ visitFacts:
   permit: 'Every crossing is an international border, so carry a valid passport and clear immigration on both sides.'
   watch: 'The Causeway clogs on Friday evenings, weekends, Singapore school holidays and public-holiday eves, so cross early, avoid peak return times, and switch to the Second Link when it is jammed.'
   next: 'Confirm current crossing, RTS Link and park-permit arrangements with the official Malaysian and Singaporean transport authorities and the relevant park authority before you travel.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
 ---
 
 Most visitors meet Johor at a border queue — in a car on the Causeway, on a bus at the Second Link, or on the short shuttle train into JB Sentral — and treat the city as a shopping-and-food detour from Singapore. That sells it short. Johor Bahru is the capital of Malaysia's southernmost state and the gateway where the peninsula meets the island republic across the water, with a walkable heritage core, one of Asia's biggest family theme-park clusters on its doorstep, and a whole state behind it: beaches on the east, mangroves at the southern tip, and mountains and rainforest inland. This guide covers how the crossings work, what to do in the city, the theme parks, the coast and the interior, who Johor suits, and the one mistake that catches almost everyone — getting the crossing timing wrong.

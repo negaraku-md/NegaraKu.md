@@ -7,6 +7,15 @@ category: "tourism"
 subcategory: ["destinations"]
 summary: "A verified visitor guide to Penang island and its UNESCO-listed capital George Town — the heritage core, street art, hawker food, beaches and Penang Hill, plus how to get there and how many days to plan."
 
+hero: "/media/tourism/penang-george-town-visitor-guide/hero.webp"
+heroAlt: "The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: "Leong San Tong Khoo Kongsi, George Town"
+
 tier: "1"
 mode: "practical"
 contentType: "guide"

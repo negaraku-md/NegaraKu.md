@@ -33,7 +33,7 @@ const ogHash = (a, overdue, tv) =>
     .update(JSON.stringify([
       a.lang, a.title, a.summary, a.category,
       Array.isArray(a.subcategory) ? a.subcategory[0] : null,
-      a.mode, a.sensitivity, a.published, a.reviewed, a.updated, a.reviewDue, overdue, tv,
+      a.mode, a.sensitivity, a.published, a.reviewed, a.updated, a.reviewDue, overdue, a.hero ?? null, tv,
     ]))
     .digest('hex').slice(0, 16);
 
@@ -243,6 +243,45 @@ function articleSvg(a) {
 </svg>`;
 }
 
+// Photo-backed OG overlay: the article's hero photo sits underneath (composited
+// by sharp in the loop); this SVG lays a dark scrim + gold bar + localized
+// breadcrumb + title + wordmark lockup over it. Used when the article has a
+// hero; otherwise articleSvg()'s branded card is the fallback. 吃喝玩乐 and other
+// place/food pages thus preview as a real photo on social, not a text card.
+function photoOverlaySvg(a) {
+  const lang = a.lang;
+  const RTL = lang === 'ar';
+  const EDGE = RTL ? 1130 : 70;
+  const ANCHOR = RTL ? 'end' : 'start';
+  const pillarId = CAT_PILLAR[a.category];
+  const crumb = [
+    pillarId && loc(NAMES[pillarId], lang),
+    loc(NAMES[a.category], lang) || titleCase(a.category),
+  ].filter(Boolean).join('  ·  ');
+  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+  const tfont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + TITLE_FONT;
+  const bfont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + BODY_FONT;
+  const tLines = wrapText(a.title || '', { maxLatin: 30, maxCjk: 15, maxLines: 2 });
+  const tSize = 54, tLh = 62;
+  const baseY = 560 - (tLines.length - 1) * tLh;
+  const tSpans = tLines.map((l, i) => `<text x="${EDGE}" y="${baseY + i * tLh}" text-anchor="${ANCHOR}" font-family="${tfont}" font-size="${tSize}" font-weight="800" fill="#FFFFFF">${esc(l)}</text>`).join('\n  ');
+  const crumbY = baseY - tLines.length * tLh + 2;
+  const RX = RTL ? 110 : 1090;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>${RTL ? AR_FONTS : ''}
+    <linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#05050A" stop-opacity="0"/><stop offset="48%" stop-color="#05050A" stop-opacity="0.18"/><stop offset="100%" stop-color="#05050A" stop-opacity="0.92"/></linearGradient>
+    <linearGradient id="topscrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#05050A" stop-opacity="0.5"/><stop offset="100%" stop-color="#05050A" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="210" fill="url(#topscrim)"/>
+  <rect width="1200" height="630" fill="url(#scrim)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
+  ${badge(RX, 62, 68)}
+  <text x="${RX}" y="138" text-anchor="middle" font-family="${TITLE_FONT}" font-size="24" font-weight="700" fill="#FFFFFF">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
+  <text x="${EDGE}" y="${crumbY}" text-anchor="${ANCHOR}" font-family="${bfont}" font-size="25" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
+  ${tSpans}
+</svg>`;
+}
+
 // The default card (home + other non-article pages), CENTERED and LOCALIZED so a
 // /zh page's preview reads in 中文, /ms in Malay, /en in English — matching the
 // centered profile/cover lockup instead of the old left-aligned English-only card.
@@ -367,9 +406,22 @@ async function main() {
         // so a later run can retry it.
         try {
           await mkdir(path.dirname(file), { recursive: true });
-          const svg = articleSvg(a);
-          if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
-          if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
+          const heroFile = a.hero ? path.join(ROOT, 'public', String(a.hero).replace(/^\/+/, '')) : null;
+          if (heroFile && existsSync(heroFile)) {
+            // Photo-backed card: hero photo (cover) under the brand overlay. The
+            // 640px thumb is derived from the same composited buffer.
+            const overlay = Buffer.from(photoOverlaySvg(a));
+            const png = await sharp(heroFile)
+              .resize(1200, 630, { fit: 'cover', position: 'attention' })
+              .composite([{ input: overlay, top: 0, left: 0 }])
+              .png({ compressionLevel: 9 }).toBuffer();
+            if (!pngOk) await writeFile(file, png);
+            if (!thumbOk || !pngOk) await sharp(png).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(thumb);
+          } else {
+            const svg = articleSvg(a);
+            if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
+            if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
+          }
           next[key] = hash;
           made++;
         } catch (e) {

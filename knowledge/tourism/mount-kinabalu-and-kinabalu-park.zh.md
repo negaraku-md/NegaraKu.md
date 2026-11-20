@@ -100,6 +100,14 @@ visitFacts:
   permit: '登顶须凭准证：公园登山准证与持牌的 Sabah Parks 山岳向导两者皆为强制，每日名额有限，且几乎所有人都须透过公园特许经营方预订一晚山上床位——故请及早预约。'
   watch: '这是一段艰苦的两天高海拔攀登，高山症与体能至关重要，山岳又自成天气；在重大地震等事件后，通行与路线可能改变，故请依当前资讯规划。'
   next: '请向 Sabah Parks 确认当前的准证、向导与住宿规定及收费。'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 一顶花岗岩王冠自婆罗洲的雨林中拔地而起，直抵刚过4,000米的高处；一座植物物种比某些大洲还多的世界遗产公园；以及一条管控到你得在订机票之前就先预订的登顶之路——京那巴鲁山是马来西亚最负盛名的单一自然地标，也是实际游览起来最有章法的地标之一。它坐落于沙巴，位于马来西亚的婆罗洲一侧，并回馈两类截然不同的旅行者：身强体健、安排周密、追逐喜马拉雅山与新几内亚之间最高峰上一轮黎明的登山者，以及只想呼吸凉爽山间空气、看看奇异食虫植物、在温泉里泡个澡的一日游访客。本指南兼顾两者，也涵盖人们出发前惯常搞错的事情。

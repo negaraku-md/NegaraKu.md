@@ -104,6 +104,14 @@ visitFacts:
   permit: 'Masuk ke Menara Kembar Petronas menggunakan tiket berjadwal waktu dengan jumlah harian yang dibatasi, jadi pesanlah daring di muka alih-alih mengandalkan datang langsung.'
   watch: 'Lalu lintas pusat kota padat pada jam sibuk, jadi kereta api biasanya lebih cepat daripada mobil untuk perjalanan melintasi kota.'
   next: 'Konfirmasikan jam buka dan penjualan tiket terkini untuk Menara Kembar Petronas dengan situs resmi PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 Mendarat di Bandara Internasional Kuala Lumpur pada waktu subuh dan, dalam waktu sejam, Anda bisa berdiri di bawah dua menara perak yang pernah menguasai langit dunia — tanpa mobil sewa, tanpa perencanaan rumit, hanya sebuah kereta api dan kartu tap. Kemudahan itulah yang menjadi intisari KL: ia adalah pintu depan Malaysia, sebuah ibu kota yang padat dan murah tempat daya tarik utama terletak berdekatan hanya dengan sekali perjalanan rel, dan tempat hampir setiap perjalanan selanjutnya di negara ini dimulai.

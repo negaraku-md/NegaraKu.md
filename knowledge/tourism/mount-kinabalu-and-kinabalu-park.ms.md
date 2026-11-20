@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Pendakian ke puncak dikawal permit: permit mendaki taman dan pemandu gunung Sabah Parks yang berlesen kedua-duanya diwajibkan, tempat harian terhad, dan hampir setiap orang mesti menempah awal katil gunung bermalam melalui pemegang konsesi taman — jadi tempah jauh lebih awal.'
   watch: 'Pendakian altitud tinggi dua hari yang mencabar di mana penyakit altitud dan kecergasan penting serta gunung mencipta cuacanya sendiri; akses dan laluan boleh berubah selepas kejadian seperti gempa bumi besar, jadi rancang berdasarkan maklumat semasa.'
   next: 'Sahkan peraturan dan yuran permit, pemandu serta penginapan semasa dengan Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 Mahkota granit yang menjulang terus dari hutan hujan Borneo hingga melebihi 4,000 meter, sebuah taman Warisan Dunia dengan lebih banyak spesies tumbuhan daripada sesetengah benua, dan pendakian puncak yang begitu ketat dicatu sehingga anda menempahnya sebelum menempah penerbangan — Gunung Kinabalu ialah mercu tanda semula jadi paling terkenal di Malaysia, dan antara yang paling berstruktur untuk benar-benar dilawati. Ia terletak di Sabah, di bahagian Borneo milik Malaysia, dan ia memberi ganjaran kepada dua jenis pengembara yang sangat berbeza: pendaki yang cergas dan teratur mengejar subuh di puncak tertinggi antara Himalaya dan New Guinea, serta pelawat sehari yang sekadar mahukan udara gunung yang sejuk, tumbuhan karnivor yang pelik dan rendaman di kolam air panas. Panduan ini merangkumi kedua-duanya, dan perkara yang kerap disalah faham orang sebelum pergi.

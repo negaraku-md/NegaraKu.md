@@ -98,6 +98,14 @@ visitFacts:
   permit: 'Sarawak ดำเนินการตรวจคนเข้าเมืองของตนเอง ทุกคน — รวมถึงชาวมาเลเซียจากคาบสมุทร — จึงผ่านด่านและได้รับบัตรเข้าเมื่อมาถึง (ชาวต่างชาติได้ตรา Sarawak แยกเพิ่มจากตราเข้ามาเลเซีย และส่วนใหญ่ต้องยื่น MDAC ออนไลน์ล่วงหน้า) และเที่ยวบิน Mulu กับทัวร์ถ้ำแบบมีมัคคุเทศก์ควรจองล่วงหน้า'
   watch: 'เครื่องบินเล็กของ Mulu มักล่าช้าหรือถูกยกเลิกเพราะสภาพอากาศ จึงควรเผื่อวันสำรองและไม่จองเที่ยวต่อที่กระชั้นออกจากอุทยาน'
   next: 'ตรวจสอบข้อกำหนดวีซ่าและ MDAC ปัจจุบันสำหรับสัญชาติของคุณกับสำนักงานตรวจคนเข้าเมืองมาเลเซีย (Immigration Department of Malaysia)'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปกูจิงได้ในเวลาไม่ถึงสองชั่วโมง ไม่เคยออกนอกประเทศของตัวเอง และยังถูกประทับตราผ่านการตรวจคนเข้าเมืองที่ปลายทาง ความประหลาดใจที่ห้องขาเข้านั้นเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจเกี่ยวกับซาราวัก มันเป็นรัฐมาเลเซียที่ดำเนินพรมแดนของตนเอง

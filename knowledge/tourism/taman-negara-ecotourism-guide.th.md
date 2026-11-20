@@ -85,6 +85,14 @@ visitFacts:
   permit: 'ผู้มาเยือนทุกคนลงทะเบียนขอใบอนุญาตเข้า PERHILITAN เมื่อมาถึงที่ท่าเรือหรือเคาน์เตอร์อุทยาน จ่ายค่าใบอนุญาตกล้องแยกต่างหาก และต้องใช้มัคคุเทศก์ที่ได้รับอนุญาตสำหรับการปีน Gunung Tahan'
   watch: 'มรสุมตะวันออกเฉียงเหนืออาจทำให้แม่น้ำเอ่อและกระทบเรือกับเส้นทาง ทางเดินเรือนยอดไม้เคยเผชิญการปิด และปลิงกับความชื้นมีอยู่ตลอด จึงควรยืนยันการเข้าถึงและจองมัคคุเทศก์ล่วงหน้า'
   next: 'ตรวจสอบกฎและค่าธรรมเนียมใบอนุญาตและการเข้าปัจจุบันกับสำนักงานกรมสัตว์ป่าและอุทยานแห่งชาติ (PERHILITAN) ที่ Taman Negara Pahang'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 ยืนอยู่ที่ท่าเรือกัวลาตาฮันยามรุ่งสาง เฝ้ามองหมอกลอยขึ้นจากแม่น้ำที่แก่กว่าเทือกเขาหิมาลัย เป็นเรื่องง่ายที่จะลืมว่าคุณอยู่ห่างจากกัวลาลัมเปอร์เพียงครึ่งวัน ตามันเนอการาไม่ใช่แหล่งท่องเที่ยวที่สร้างขึ้น หากเป็นป่าฝนเขตร้อนที่มีชีวิตซึ่งยืนหยัดอยู่โดยแทบไม่ถูกรบกวนมาหลายสิบล้านปี และการเข้าไปในนั้นถูกและง่ายกว่าที่นักท่องเที่ยวเกือบทุกคนคาดคิด

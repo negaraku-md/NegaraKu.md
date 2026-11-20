@@ -78,6 +78,14 @@ visitFacts:
   permit: 'एक अनिवार्य समुद्री-पार्क संरक्षण शुल्क, जो चढ़ने से पहले मुख्यभूमि जेटी टर्मिनल के काउंटर पर चुकाया जाता है और आपके नाव-किराए से अलग है।'
   watch: 'कोई एकल अनिवार्य बंदी नहीं, पर अधिकांश द्वीप ऑपरेटर उत्तर-पूर्वी मानसून के लिए स्वेच्छा से बंद कर देते हैं, इसलिए उन महीनों के निकट भुगतान करने से पहले नाव-स्थानांतरण पुष्ट करें।'
   next: 'वर्तमान संरक्षण शुल्क और समुद्री-पार्क नियम Department of Fisheries Malaysia से पुष्ट करें।'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 दिसंबर में रेदांग के किसी समुद्र-तट रिज़ॉर्ट पर पहुँचिए और आप संभवतः नावें ग़ायब, जेटी शांत और गोताख़ोरी-दुकान बंद पाएँगे। पूर्वी-तट के द्वीप एक ऐसे पंचांग पर चलते हैं जिसे समुद्र लिखता है, पर्यटन पुस्तिका नहीं — और समुद्री-उद्यान नियमों के एक समुच्चय पर, जिन्हें अधिकांश पहली-बार आने वाले केवल टिकट काउंटर पर ही जान पाते हैं।

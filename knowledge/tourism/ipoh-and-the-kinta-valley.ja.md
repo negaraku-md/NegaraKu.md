@@ -120,6 +120,14 @@ visitFacts:
   permit: '洞窟寺院は現役の礼拝の場であるため、控えめな服装をし（肩と膝を覆う）、内部では静かにすること。'
   watch: '緩い観光文句とは裏腹に、Kinta Valleyは国立ジオパークであって、UNESCO世界ジオパークではない。'
   next: '出発前に、現在の列車の時刻表と運賃をKTMBで確認すること。'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 錫がイポーを作り、そしてそれが街をほとんど壊しかけました。キンタ川のほとりの村が、キンタ渓谷の地下に埋もれた鉱石を頼りに英領マラヤ屈指の富裕な街へと変わり、壮麗な植民地時代の中心部を築き、そして錫価格が暴落すると富が流れ去るのを見届けました。街が保ったのは、建築、洞窟寺院で穴だらけになった石灰岩の丘、そして並外れて優れた厨房です。今日のイポーは、マレーシアで最も居心地のよい遺産とグルメの都市休暇です——クアラルンプールから日帰りできるほど近く、週末を過ごすに値するほど豊かです。本ガイドは、それを形づくった景観と歴史、街の内外で何が見られるか、食を手短に、そして行き方の実際を扱います。

@@ -98,6 +98,14 @@ visitFacts:
   permit: '砂拉越自行管理移民事务，故每个人——包括从西马来的马来西亚人——抵达时都须通关并获发入境准证（外国人在其马来西亚入境之外另获一枚砂拉越入境章，且多数人须事先在线填报 MDAC），而姆鲁航班及向导带领的洞穴游应提前预订。'
   watch: '姆鲁的小型飞机常因天气延误或取消，故请预留缓冲日，切勿预订离开公园后衔接紧凑的后续航班。'
   next: '请向马来西亚移民局（Immigration Department of Malaysia）确认适用于你国籍的当前签证与 MDAC 要求。'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 你可以在不到两小时内从吉隆坡飞抵古晋，全程不曾离开自己的国家，抵达另一端时却仍要通过移民关卡盖章。在到达大厅里的这份意外，正是理解砂拉越最重要的一点：它是一个自设边境的马来西亚州属。

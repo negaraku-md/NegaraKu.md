@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Sarawak mengendalikan imigresennya sendiri, jadi semua orang melepasi semakan sempadan ketika ketibaan walaupun dengan penerbangan domestik dari Semenanjung Malaysia — warga asing menerima cap kemasukan Sarawak yang berasingan, jadi bawa pasport anda sepanjang masa.'
   watch: 'Penampakan orangutan di Semenggoh tidak pernah dijamin, kerana mawas separa liar itu bebas mencari makanan di hutan sekeliling — anggap sebarang penampakan sebagai bonus, bukan janji.'
   next: 'Sahkan keperluan kemasukan Sarawak serta waktu taman atau perayaan semasa dengan Sarawak Tourism Board dan pengendali rasmi taman sebelum anda mengembara.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 Anda boleh berjalan sepanjang tepi sungai Kuching dalam satu petang, melepasi kubu kolonial, istana Rajah dan tokong Cina dalam perjalanan, memakan salah satu mangkuk mi hebat Borneo, dan bergambar dengan patung kucing gergasi — semuanya tanpa meninggalkan bandar. Kuching ialah ibu negeri dan bandar terbesar Sarawak, terletak di Sungai Sarawak di hujung barat daya negeri di pulau Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Ia pangkalan bandar sungai yang santai tempat kebanyakan perjalanan Sarawak bermula. Panduan ini merangkumi bandar itu sendiri — kawasan tepi sungainya, sejarah era Brookenya, Pekan Cina dan muziumnya, serta kucingnya — dan cara ia berfungsi sebagai landasan pelancar untuk hutan hujan dan hidupan liar yang mengelilinginya.

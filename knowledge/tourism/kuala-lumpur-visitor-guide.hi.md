@@ -104,6 +104,14 @@ visitFacts:
   permit: 'Petronas Twin Towers का प्रवेश समयबद्ध टिकटों पर चलता है जिनकी दैनिक संख्या सीमित है, इसलिए वहीं पहुँचकर प्रवेश पाने के बजाय पहले से ऑनलाइन बुक करें।'
   watch: 'शहर-केंद्र का यातायात व्यस्त घंटों में भारी रहता है, इसलिए शहर भर की यात्राओं के लिए ट्रेनें आमतौर पर कार से तेज़ होती हैं।'
   next: 'Petronas Twin Towers के वर्तमान खुलने के समय और टिकटिंग आधिकारिक PETRONAS Twin Towers साइट (petronastwintowers.com.my) से पुष्ट करें।'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 भोर में कुआलालंपुर अंतरराष्ट्रीय हवाई अड्डे पर उतरिए और, एक घंटे के भीतर, आप दो चाँदी के टावरों के नीचे खड़े हो सकते हैं जो कभी दुनिया के क्षितिज पर राज करते थे — न किराए की कार, न जटिल योजना, बस एक ट्रेन और एक टैप-इन कार्ड। वही आसानी कुआलालंपुर का पूरा सार है: यह मलेशिया का सामने का दरवाज़ा है, एक सघन और सस्ती राजधानी जहाँ मुख्य दर्शनीय स्थल एक छोटी रेल सवारी की दूरी पर हैं, और जहाँ देश की लगभग हर आगे की यात्रा शुरू होती है।

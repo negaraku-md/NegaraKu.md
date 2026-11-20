@@ -104,6 +104,14 @@ visitFacts:
   permit: 'La entrada a las Torres Gemelas Petronas (Petronas Twin Towers) usa entradas con hora asignada y cupos diarios limitados, así que resérvelas en línea con antelación en lugar de confiar en presentarse sin más.'
   watch: 'El tráfico del centro es denso en hora punta, así que los trenes suelen ser más rápidos que el coche para los trayectos por la ciudad.'
   next: 'Confirme los horarios de apertura y la venta de entradas vigentes de las Torres Gemelas Petronas con el sitio oficial de las PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 Aterrice en el Aeropuerto Internacional de Kuala Lumpur al amanecer y, en una hora, puede estar de pie bajo dos torres plateadas que un día dominaron el perfil urbano del mundo — sin coche de alquiler, sin planificación complicada, solo un tren y una tarjeta de paso. Esa facilidad es la esencia de KL: es la puerta de entrada de Malasia, una capital compacta y económica donde los lugares principales están a un corto trayecto en tren unos de otros, y donde comienza casi todo viaje posterior por el país.

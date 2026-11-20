@@ -85,6 +85,14 @@ visitFacts:
   permit: 'हर आगंतुक जेटी या पार्क काउंटर पर आगमन पर एक PERHILITAN प्रवेश-परमिट के लिए पंजीकरण कराता है, एक अलग कैमरा-लाइसेंस चुकाता है, और Gunung Tahan की चढ़ाई के लिए एक लाइसेंसी गाइड का उपयोग करना होता है।'
   watch: 'उत्तर-पूर्वी मानसून नदियों को उफ़ना सकता है और नावों व पगडंडियों को बाधित कर सकता है, कैनोपी वॉकवे बंदी का सामना कर चुके हैं, और जोंक व नमी निरंतर रहती हैं — पहुँच पुष्ट करें और गाइड पहले से बुक करें।'
   next: 'वर्तमान परमिट और प्रवेश नियम व शुल्क Taman Negara Pahang के Department of Wildlife and National Parks (PERHILITAN) कार्यालय से पुष्ट करें।'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 भोर में कुआला ताहान घाट पर खड़े होकर, हिमालय से पुरानी एक नदी से कोहरा उठते देखते हुए, यह भूल जाना आसान है कि आप कुआलालंपुर से बमुश्किल आधे दिन की दूरी पर हैं। तामान नेगारा कोई निर्मित आकर्षण नहीं है। यह एक जीवित उष्णकटिबंधीय वर्षावन है जो मोटे तौर पर अछूता, करोड़ों सालों से खड़ा रहा है — और इसमें प्रवेश करना लगभग किसी भी यात्री की अपेक्षा से सस्ता और सरल है।

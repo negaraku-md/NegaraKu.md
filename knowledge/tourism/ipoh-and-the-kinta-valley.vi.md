@@ -120,6 +120,14 @@ visitFacts:
   permit: 'Các đền hang là nơi thờ phụng đang hoạt động, nên hãy ăn mặc kín đáo (che vai và đầu gối) và giữ yên lặng bên trong.'
   watch: 'Dù tài liệu du lịch mô tả thiếu chính xác, Kinta Valley là một geopark quốc gia, không phải một UNESCO Global Geopark.'
   next: 'Hãy xác nhận thời gian biểu và giá vé tàu hiện tại với KTMB trước khi đi.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 Thiếc tạo nên Ipoh, và rồi nó gần như hủy hoại thành phố. Một làng trên sông Kinta biến thành một trong những thị trấn giàu nhất của Malaya thuộc Anh nhờ sức mạnh của quặng chôn dưới Thung lũng Kinta, tự xây cho mình một trung tâm thuộc địa đồ sộ, rồi chứng kiến tiền của cạn đi khi giá thiếc sụp đổ. Thứ nó giữ lại là kiến trúc, những ngọn đồi đá vôi lỗ chỗ chùa hang, và một gian bếp xuất sắc một cách bất thường. Ngày nay Ipoh là kỳ nghỉ ngắn di sản-và-ẩm thực thoải mái nhất của Malaysia — đủ gần Kuala Lumpur cho một chuyến đi trong ngày, đủ phong phú để tưởng thưởng một kỳ cuối tuần. Cẩm nang này bao gồm cảnh quan và lịch sử đã định hình nó, có gì để xem trong và quanh thị trấn, ẩm thực tóm lược, và những điều thực tế về việc đến đó.

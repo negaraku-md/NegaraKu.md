@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Sarawak gestiona su propia inmigración, así que todo el mundo pasa un control fronterizo a la llegada, incluso en un vuelo nacional desde la Malasia peninsular — los extranjeros reciben un sello de entrada aparte de Sarawak, así que lleve el pasaporte consigo en todo momento.'
   watch: 'El avistamiento de orangutanes en Semenggoh nunca está garantizado, ya que los simios semisalvajes tienen libertad para buscar alimento en el bosque de alrededor — tome cualquier avistamiento como un regalo, no como una promesa.'
   next: 'Confirme los requisitos de entrada vigentes de Sarawak y los horarios de los parques o festivales con la Junta de Turismo de Sarawak (Sarawak Tourism Board) y los operadores oficiales de los parques antes de viajar.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 Puedes recorrer de punta a punta la ribera de Kuching en una tarde, pasar junto a un fuerte colonial, un palacio de un rajá y un templo chino por el camino, comer uno de los grandes tazones de fideos de Borneo, y posar con una estatua gigante de un gato — todo sin salir de la ciudad. Kuching es la capital y mayor ciudad de Sarawak, asentada sobre el río Sarawak en el extremo suroeste del estado, en la isla de Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Es la relajada ciudad fluvial que sirve de base desde la que comienzan la mayoría de los viajes por Sarawak. Esta guía cubre la ciudad en sí — su paseo marítimo, su historia de la era Brooke, su Chinatown y sus museos, y sus gatos — y cómo funciona como trampolín hacia la selva y la fauna que la rodean.

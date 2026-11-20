@@ -91,6 +91,14 @@ visitFacts:
   permit: 'لا تصريح منتزه للدخول؛ وجولات مصنع مزارع الشاي BOH مجانية، بينما ينبغي أن تتم زيارات قرى Orang Asli عبر مرشد أو مشغّل محلي موثوق.'
   watch: 'لا تعاملها كبلدة واحدة — فهي ثلاث مستوطنات ذات أدوار مختلفة — ولاحظ أن حدائق الشاي تُغلق أيام الإثنين بينما يتبدّل طقس الهضبة بسرعة، فقد تتغيّر خطط اليوم.'
   next: 'تأكّد من ساعات الفتح الحالية وإغلاقات الإثنين مباشرةً مع كل موقع — الموقع الرسمي لـ BOH Plantations (bohtea.com) لحدائق الشاي، ومجلس مقاطعة Cameron Highlands (MDCH) لمعالم المزارع والحدائق.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 انزل من الحافلة في تانه راتا وأوّل ما تلاحظه هو أنفاسك ذاتها — فالهواء بارد بما يكفي لأن تصبح السترة الصوفية غير مستغرَبة، حتى عند خط الاستواء. وذلك هو جوهر مرتفعات كاميرون: شريحة من ريف جبلي معتدل تتكوّم فوق ماليزيا المدارية، حيث ينمو الشاي أخضر منتظمًا كأنه قماش مضلّع على التلال وتنضج الفراولة في أنفاق بلاستيكية على جوانب الطرق.

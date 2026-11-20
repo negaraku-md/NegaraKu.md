@@ -95,6 +95,14 @@ visitFacts:
   getThere: 'No airport or railway — you drive up a winding mountain road from Kuala Kubu Bharu to The Gap, where the final climb begins, with uphill and downhill traffic now split between two roads (the original single-lane road historically ran as timed one-way).'
   watch: 'The narrow, winding mountain road is slow and prone to closures after rain, landslides or fallen trees, and the hill itself is often misty and wet, with limited dining and supplies.'
   next: 'Confirm the current road access arrangement and any closures with the roads authority (JKR) before you travel.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
 ---
 
 Most of Malaysia's hill stations sell you something — a casino, a tea estate, a strawberry farm, a theme park. Fraser's Hill sells you the absence of all that. Spread across a cluster of forested ridges on the [Titiwangsa range](/malaysia/titiwangsa-range), it is a small, quiet, mist-wrapped colonial-era station where the loudest thing you will hear is birdsong, and where a jumper stops feeling ridiculous even at the equator. For birdwatchers it is close to sacred ground; for everyone else it is the slow, low-key alternative to its flashier highland neighbours. This guide covers what Fraser's Hill actually is, why the birders come, what there is to see, how the winding road up works, and who the place does and does not suit.

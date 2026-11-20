@@ -110,6 +110,14 @@ visitFacts:
   permit: 'Les prix hors taxes de Langkawi ne s''appliquent que sur l''île ; les marchandises rapportées sur le continent relèvent de la franchise nationale des voyageurs de Malaisie, qui fixe une durée minimale de séjour ouvrant droit et plafonne l''alcool, le tabac et les souvenirs que vous pouvez rapporter en franchise de droits.'
   watch: 'N''achetez pas trop d''alcool hors taxes pour le rapporter chez vous — les prix bas sont faits pour en profiter sur l''île, et seule une franchise limitée passe la douane sur le continent.'
   next: 'Confirmez les horaires des ferries en vigueur auprès des opérateurs de ferry, et les franchises hors taxes auprès du Département royal des douanes de Malaisie (Royal Malaysian Customs Department, RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
 ---
 
 Quatre-vingt-dix-neuf îles, des roches plus anciennes que les poissons, du whisky bon marché et un téléphérique accroché au flanc d'une montagne bâtie de roche estimée à plus de 550 millions d'années — Langkawi concentre une quantité inhabituelle de choses dans un seul archipel au large de la pointe nord-ouest de la Malaisie. C'est l'île de vacances phare de la côte ouest du pays, et elle fonctionne selon une logique presque opposée à celle des îles de plongée bordées de palmiers de l'autre côté de la péninsule. Ce guide couvre ce qui compte réellement avant de partir : les règles de la zone franche qui font trébucher les gens, le géoparc de l'UNESCO qui donne au paysage son histoire, le SkyCab et le SkyBridge, les excursions en bateau qui valent la peine, et comment choisir entre Langkawi et la côte est.

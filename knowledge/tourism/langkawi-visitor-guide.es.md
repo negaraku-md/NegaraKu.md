@@ -110,6 +110,14 @@ visitFacts:
   permit: 'Los precios libres de impuestos de Langkawi solo rigen en la isla; los artículos que se lleven de vuelta al continente quedan sujetos a la franquicia nacional de viajero de Malasia, que fija una estancia mínima para acogerse a ella y limita el alcohol, el tabaco y los recuerdos que puede traer libres de impuestos.'
   watch: 'No compre de más licor libre de impuestos para llevar a casa — los precios baratos son para disfrutarlos en la isla, y solo una franquicia limitada pasa la aduana en el continente.'
   next: 'Confirme los horarios de los ferris vigentes con los operadores de ferri, y las franquicias libres de impuestos con el Departamento de Aduanas de Malasia (Royal Malaysian Customs Department, RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
 ---
 
 Noventa y nueve islas, rocas más antiguas que los peces, whisky barato y un teleférico que cuelga de la ladera de una montaña formada por roca estimada en más de 550 millones de años — Langkawi concentra una cantidad inusual de cosas en un solo archipiélago frente a la punta noroeste de Malasia. Es la isla vacacional emblemática de la costa oeste del país, y funciona con una lógica casi opuesta a la de las islas de buceo bordeadas de palmeras del otro lado de la península. Esta guía cubre lo que de verdad importa antes de ir: las normas de zona franca que hacen tropezar a la gente, el geoparque de la UNESCO que da trasfondo al paisaje, el SkyCab y el SkyBridge, las excursiones en barco que vale la pena hacer, y cómo decidir entre Langkawi y la costa este.

@@ -85,6 +85,14 @@ visitFacts:
   permit: 'ஒவ்வொரு பார்வையாளரும் துறைமுகம் அல்லது பூங்கா கவுண்டரில் வருகையில் PERHILITAN நுழைவு அனுமதிச்சீட்டுக்குப் பதிவு செய்து, தனி கேமரா உரிமம் செலுத்தி, Gunung Tahan ஏற்றத்திற்கு உரிமம் பெற்ற வழிகாட்டியைப் பயன்படுத்த வேண்டும்.'
   watch: 'வடகிழக்கு பருவமழை ஆறுகளைப் பெருக்கி படகுகளையும் பாதைகளையும் சீர்குலைக்கலாம், விதான நடைபாதைகள் மூடல்களை எதிர்கொண்டுள்ளன, மேலும் அட்டைப்பூச்சிகளும் ஈரப்பதமும் நிலையானவை — அணுகலை உறுதிப்படுத்தி வழிகாட்டிகளை முன்பே முன்பதிவு செய்யுங்கள்.'
   next: 'தற்போதைய அனுமதிச்சீட்டு மற்றும் நுழைவு விதிகளையும் கட்டணங்களையும் Taman Negara Pahang-இல் உள்ள Department of Wildlife and National Parks (PERHILITAN) அலுவலகத்துடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 விடியற்காலையில் Kuala Tahan படகுத்துறையில் நின்று, இமயமலையை விடப் பழமையான ஒரு ஆற்றிலிருந்து மூடுபனி எழுவதைப் பார்க்கும்போது, நீங்கள் Kuala Lumpur-இலிருந்து அரை நாள் தூரத்தில்தான் இருக்கிறீர்கள் என்பதை மறந்துவிடுவது எளிது. Taman Negara என்பது செயற்கையாக உருவாக்கப்பட்ட ஈர்ப்பு அல்ல. இது பல கோடி ஆண்டுகளாக பெருமளவில் தொந்தரவின்றி நிலைத்திருக்கும் ஒரு உயிர்ப்புள்ள வெப்பமண்டல மழைக்காடு — அதனுள் நுழைவது கிட்டத்தட்ட எந்தப் பயணியும் எதிர்பார்ப்பதை விட மலிவானதும் எளிதானதும் ஆகும்.

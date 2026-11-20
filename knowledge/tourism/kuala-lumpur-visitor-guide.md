@@ -103,6 +103,14 @@ visitFacts:
   permit: 'Petronas Twin Towers entry uses timed tickets with daily-capped numbers, so book online in advance rather than relying on walking up.'
   watch: 'City-centre traffic is heavy at peak hours, so trains are usually faster than a car for trips across town.'
   next: 'Confirm current opening hours and ticketing for the Petronas Twin Towers with the official PETRONAS Twin Towers site (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 Land at Kuala Lumpur International Airport at dawn and, within an hour, you can be standing beneath two silver towers that once ruled the world's skyline — no rental car, no complicated planning, just a train and a tap-in card. That ease is the whole point of KL: it is Malaysia's front door, a compact and inexpensive capital where the headline sights sit a short rail ride apart, and where nearly every onward journey in the country begins.

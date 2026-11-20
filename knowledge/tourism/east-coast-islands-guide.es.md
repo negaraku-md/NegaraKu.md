@@ -78,6 +78,14 @@ visitFacts:
   permit: 'Una tasa obligatoria de conservación del parque marino, que se paga en un mostrador de la terminal del embarcadero continental antes de embarcar y que es independiente del precio del barco.'
   watch: 'No hay un único cierre obligatorio, pero la mayoría de los operadores de las islas cierran voluntariamente durante el monzón del nordeste, así que cerca de esos meses confirme los traslados en barco antes de pagar.'
   next: 'Confirme las tasas de conservación vigentes y las normas de los parques marinos con el Departamento de Pesca de Malasia (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 Preséntese en un complejo de playa de Redang en diciembre y probablemente encontrará las embarcaciones ausentes, el embarcadero en silencio y la tienda de buceo cerrada. Las islas de la costa este se rigen por un calendario escrito por el mar, no por el folleto turístico, y por un conjunto de normas de parque marino que la mayoría de los recién llegados solo descubren en la taquilla.

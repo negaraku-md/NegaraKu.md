@@ -106,6 +106,14 @@ visitFacts:
   permit: 'Diving Sipadan requires a Sabah Parks permit, and the number issued each day is strictly capped and allocated only through licensed dive operators — book well ahead.'
   watch: 'Eastern Sabah''s islands sit in a designated security zone (ESSZONE), permits are never guaranteed, and conservation limits (including an annual closure) apply — travel informed and check current official advice.'
   next: 'Confirm the current Sipadan permit cap, fees and any conservation closure with Sabah Parks or your licensed dive operator.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
 ---
 
 A single coral-covered pinnacle rising six hundred metres straight off the floor of the Celebes Sea, swirling with turtles and tornadoes of barracuda — Sipadan is the reason serious divers put eastern Sabah on their list, and the reason an entire travel economy has grown up around the little town of Semporna. But it is not a place you can simply turn up and dive. Sipadan is a strictly protected marine park with a capped daily permit, no accommodation on the island itself, and a security-zone context on the surrounding coast that first-timers need to understand calmly and factually. This guide covers what makes the diving world-class, how the permit and the daily cap actually work, where you stay, how Sipadan differs from the nearby Tun Sakaran Marine Park, who the region suits, and when to go.

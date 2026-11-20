@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Sabah kiểm soát việc nhập cảnh riêng của mình theo Hiệp định Malaysia 1963, nên mọi người đến — kể cả người Malaysia bay vào từ Bán đảo — đều qua một trạm kiểm soát và nhận một thẻ thăm (visit pass), trong khi chặng leo Mount Kinabalu và lặn Sipadan mỗi thứ đều bị khống chế bằng các giấy phép Sabah Parks có giới hạn.'
   watch: 'Hãy đặt trước thật sớm các điểm nổi bật khan hiếm, bị khống chế bằng giấy phép và lên kế hoạch quanh đợt đóng cửa thường niên tháng Mười Một của Sipadan để rạn san hô phục hồi, vì những phần này bán hết và không thể giữ chỗ khi đến nơi.'
   next: 'Hãy xác nhận quy định nhập cảnh, thẻ thăm và giấy phép hiện tại với Cục Nhập cảnh Malaysia (Immigration Department) và Sabah Parks trước khi bạn đi.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kota Kinabalu mà không rời khỏi đất nước và vẫn xếp hàng tại một quầy di trú khi hạ cánh. Điều bất ngờ đó khiến nhiều du khách lần đầu bối rối — và đó là điều quan trọng nhất cần hiểu trước khi bạn lên kế hoạch cho chuyến đi đến Sabah. Cẩm nang này đi qua cửa ngõ, các điểm thu hút hàng đầu, và các quy định nhập cảnh khiến Sabah cảm thấy như một nơi riêng của nó, bởi vì theo một nghĩa rất thực, nó đúng là như vậy.

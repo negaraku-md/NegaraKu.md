@@ -100,6 +100,14 @@ visitFacts:
   permit: 'صعود القمة محدّد بتصريح: تصريح تسلّق المنتزه ومرشد جبلي مرخّص من Sabah Parks كلاهما إلزامي، والأماكن اليومية محدودة، وعلى الجميع تقريباً حجز سرير جبلي للمبيت مسبقاً عبر امتياز المنتزه — لذا احجز مبكراً.'
   watch: 'تسلّق شاقّ ليومين على ارتفاع عالٍ حيث يهمّ دوار المرتفعات واللياقة ويصنع الجبل طقسه الخاص؛ وقد يتغيّر الوصول والمسار بعد أحداث مثل زلزال كبير، لذا خطّط بناءً على المعلومات الحالية.'
   next: 'تأكّد من قواعد التصاريح والمرشدين والإقامة ورسومها الحالية مع Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 تاج من الغرانيت يرتفع مباشرةً من غابة بورنيو المطيرة إلى ما يزيد قليلاً على 4,000 متر، ومتنزّه تراث عالمي يضم أنواعاً نباتية أكثر مما في بعض القارات، وتسلّق قمة مُقنَّن بإحكام حتى إنك تحجزه قبل أن تحجز رحلاتك — جبل كينابالو هو أشهر معلم طبيعي مفرد في ماليزيا، وأحد أكثرها تنظيماً لزيارته فعلاً. يقع في صباح، في الجزء الماليزي من بورنيو، ويكافئ نوعين مختلفين جداً من المسافرين: المتسلّق اللائق المنظَّم الساعي إلى فجر على أعلى قمة بين جبال الهيمالايا وغينيا الجديدة، وزائر اليوم الواحد الذي يريد فحسب هواءً جبلياً بارداً، ونباتات آكلة لحوم غريبة، وغطسة في ينبوع ساخن. يتناول هذا الدليل الاثنين معاً، والأمور التي يخطئ فيها الناس روتينياً قبل أن يذهبوا.

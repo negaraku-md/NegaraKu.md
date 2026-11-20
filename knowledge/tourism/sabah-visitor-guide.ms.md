@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Sabah mengawal imigresennya sendiri di bawah Perjanjian Malaysia 1963, jadi setiap ketibaan — termasuk rakyat Malaysia yang terbang masuk dari Semenanjung — melepasi pusat pemeriksaan dan menerima pas lawatan, manakala pendakian Mount Kinabalu dan penyelaman Sipadan masing-masing dikawal oleh permit Sabah Parks yang terhad.'
   watch: 'Tempah tarikan utama yang terhad dan dikawal permit itu jauh lebih awal dan rancang mengikut penutupan tahunan Sipadan pada bulan November untuk pemulihan terumbu, kerana bahagian-bahagian ini habis dijual dan tidak boleh diperoleh ketika ketibaan.'
   next: 'Sahkan peraturan kemasukan, pas lawatan dan permit semasa dengan Jabatan Imigresen Malaysia dan Sabah Parks sebelum anda mengembara.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kota Kinabalu tanpa meninggalkan negara ini dan tetap beratur di kaunter imigresen semasa mendarat. Kejutan itu menimpa ramai pelawat kali pertama — dan ia merupakan perkara paling penting untuk difahami sebelum anda merancang perjalanan ke Sabah. Panduan ini menerangkan pintu masuk, tarikan utama, dan peraturan masuk yang menjadikan Sabah seolah-olah tempat tersendiri, kerana dalam satu erti kata yang sangat nyata, memang begitulah keadaannya.

@@ -98,6 +98,14 @@ visitFacts:
   permit: 'Sarawak अपना स्वयं का आप्रवासन चलाता है, इसलिए हर कोई — प्रायद्वीप से आने वाले मलेशियाई सहित — आगमन पर जाँचा जाता है और एक प्रवेश-पास दिया जाता है (विदेशियों को अपने मलेशियाई प्रवेश के ऊपर एक अलग Sarawak मुहर मिलती है, और अधिकांश को पहले से MDAC ऑनलाइन भरना होता है), और Mulu उड़ानें तथा निर्देशित गुफा-टूर पहले से बुक किए जाने चाहिए।'
   watch: 'Mulu के छोटे विमान मौसम के कारण नियमित रूप से विलंबित या रद्द होते हैं, इसलिए बफ़र दिन रखें और पार्क से बाहर कोई तंग आगे की कनेक्शन कभी बुक न करें।'
   next: 'अपनी राष्ट्रीयता के लिए वर्तमान वीज़ा और MDAC आवश्यकताएँ Immigration Department of Malaysia से पुष्ट करें।'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 आप कुआलालंपुर से कुचिंग तक दो घंटे से कम में उड़ान भर सकते हैं, कभी अपना देश नहीं छोड़ते, और फिर भी दूसरे छोर पर आव्रजन से मुहर लगवाकर गुज़रते हैं। आगमन हॉल में वह आश्चर्य सारावाक के बारे में समझने योग्य सबसे महत्वपूर्ण एकल बात है: यह एक मलेशियाई राज्य है जो अपनी ख़ुद की सीमा चलाता है।

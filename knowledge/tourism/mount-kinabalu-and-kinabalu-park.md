@@ -99,6 +99,14 @@ visitFacts:
   permit: 'The summit climb is permit-gated: a park climbing permit and a licensed Sabah Parks mountain guide are both mandatory, daily places are capped, and nearly everyone must pre-book an overnight mountain bed through the park concessionaire — so reserve well ahead.'
   watch: 'A demanding two-day high-altitude climb where altitude sickness and fitness matter and the mountain makes its own weather; access and route can change after events like a major earthquake, so plan on current information.'
   next: 'Confirm current permit, guide and accommodation rules and fees with Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 A granite crown rising straight out of Borneo's rainforest to just over 4,000 metres, a World Heritage park with more plant species than some continents, and a summit climb so tightly rationed you book it before you book your flights — Mount Kinabalu is the single most famous natural landmark in Malaysia, and one of the most structured to actually visit. It sits in Sabah, in the Malaysian part of Borneo, and it rewards two very different kinds of traveller: the fit, organised climber chasing a dawn on the highest peak between the Himalayas and New Guinea, and the day-tripper who simply wants cool mountain air, strange carnivorous plants and a soak in a hot spring. This guide covers both, and the things people routinely get wrong before they go.

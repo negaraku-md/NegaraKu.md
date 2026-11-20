@@ -107,6 +107,14 @@ visitFacts:
   permit: 'Menyelam di Sipadan memerlukan permit Sabah Parks, dan bilangan yang dikeluarkan setiap hari dihadkan secara ketat dan diperuntukkan hanya melalui pengendali menyelam berlesen — tempah jauh lebih awal.'
   watch: 'Pulau-pulau di timur Sabah terletak dalam zon keselamatan yang ditetapkan (ESSZONE), permit tidak pernah dijamin, dan had pemuliharaan (termasuk penutupan tahunan) terpakai — mengembara dengan maklumat dan semak nasihat rasmi semasa.'
   next: 'Sahkan had permit Sipadan, yuran dan sebarang penutupan pemuliharaan semasa dengan Sabah Parks atau pengendali menyelam berlesen anda.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
 ---
 
 Satu menara tunggal berselimut karang yang menjulang enam ratus meter terus dari dasar Laut Sulawesi, berpusar dengan penyu dan puting beliung barakuda — Sipadan ialah sebab penyelam serius meletakkan timur Sabah dalam senarai mereka, dan sebab seluruh ekonomi pelancongan telah tumbuh di sekeliling pekan kecil Semporna. Tetapi ia bukan tempat yang boleh anda sekadar hadir dan selami. Sipadan ialah taman marin yang dilindungi ketat dengan permit harian yang dihadkan, tiada penginapan di pulau itu sendiri, dan konteks zon keselamatan di pantai sekitar yang perlu difahami oleh pendatang kali pertama dengan tenang dan berfakta. Panduan ini merangkumi apa yang menjadikan penyelaman bertaraf dunia, bagaimana permit dan had harian sebenarnya berfungsi, di mana anda menginap, bagaimana Sipadan berbeza daripada Taman Marin Tun Sakaran berdekatan, untuk siapa rantau ini sesuai, dan bila hendak pergi.

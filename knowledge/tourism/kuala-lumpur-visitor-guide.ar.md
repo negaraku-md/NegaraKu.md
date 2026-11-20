@@ -104,6 +104,14 @@ visitFacts:
   permit: 'يستخدم دخول برجي بتروناس التوأم (Petronas Twin Towers) تذاكر محددة بأوقات بأعداد يومية محدودة، لذا احجز عبر الإنترنت مسبقاً بدلاً من الاعتماد على الحضور في المكان.'
   watch: 'حركة المرور في وسط المدينة كثيفة في ساعات الذروة، لذا تكون القطارات عادةً أسرع من السيارة للتنقلات عبر المدينة.'
   next: 'تأكّد من ساعات الفتح والتذاكر الحالية لبرجي بتروناس التوأم مع الموقع الرسمي لـ PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 تهبط في مطار كوالالمبور الدولي عند الفجر، وفي غضون ساعة يمكنك أن تقف تحت برجين فضيّين حكما يوماً ما أفق العالم — بلا سيارة مستأجَرة، ولا تخطيط معقّد، بل قطار وبطاقة تمرير فحسب. تلك السهولة هي جوهر كوالالمبور كله: فهي الباب الأمامي لماليزيا، عاصمة مدمَجة وزهيدة تتقارب فيها المعالم الرئيسية على مسافة رحلة سكّة قصيرة، ومنها تبدأ كل رحلة تالية في البلاد تقريباً.

@@ -104,6 +104,14 @@ visitFacts:
   permit: 'การเข้าชม Petronas Twin Towers ใช้ตั๋วแบบกำหนดเวลาโดยมีจำนวนจำกัดต่อวัน จึงควรจองออนไลน์ล่วงหน้าแทนการพึ่งการเดินเข้าไปในวันนั้น'
   watch: 'การจราจรในใจกลางเมืองหนาแน่นในชั่วโมงเร่งด่วน รถไฟจึงมักเร็วกว่ารถยนต์สำหรับการเดินทางข้ามเมือง'
   next: 'ตรวจสอบเวลาเปิดทำการและการจำหน่ายตั๋วปัจจุบันของ Petronas Twin Towers กับเว็บไซต์ทางการ PETRONAS Twin Towers (petronastwintowers.com.my)'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 ลงเครื่องที่ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ยามรุ่งสาง และภายในหนึ่งชั่วโมง คุณสามารถยืนอยู่ใต้ตึกสีเงินสองตึกที่ครั้งหนึ่งเคยครองเส้นขอบฟ้าของโลก โดยไม่ต้องเช่ารถ ไม่ต้องวางแผนซับซ้อน เพียงรถไฟและบัตรแตะเข้า ความง่ายนั้นคือประเด็นทั้งหมดของ KL เป็นประตูหน้าของมาเลเซีย เมืองหลวงที่กะทัดรัดและราคาไม่แพงที่สถานที่พาดหัวอยู่ห่างกันเพียงนั่งรถไฟสั้น ๆ และที่ซึ่งเกือบทุกการเดินทางต่อในประเทศเริ่มต้น

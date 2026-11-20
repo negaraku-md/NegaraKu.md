@@ -38,7 +38,7 @@ faq:
 lang: "ko"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: '조지타운 남쪽의 페낭 국제공항으로 들어오거나, 페낭 대교와 술탄 압둘 할림 무아잠 샤 대교로 육로로 섬에 닿거나, 버터워스에서 래피드 페리(Rapid Ferry)로 조지타운 수변까지 갑니다.'
   watch: '거리 예술은 전부가 아닌 입구로 여기십시오. UNESCO 등재가 실제로 보호하는 것은 씨족 사당, 사원, 숍하우스 거리이기 때문입니다.'
   next: '현재의 푸니쿨라 운행 시간과 규정은 페낭 힐 코퍼레이션(Penang Hill Corporation)에 확인하십시오.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 섬에 내려 냉방에서 걸어 나오면, 가장 먼저 덮쳐 오는 것은 냄새입니다 — 웍의 연기, 중국 사원의 향, 프랑기파니, 그리고 믈라카 해협의 소금기. 조지타운은 발로 읽는 곳입니다. 모스크, 클랜 하우스, 식민지 시대 교회가 한 블록을 함께 나눌 수 있는, 백 년 된 숍하우스의 아담한 격자입니다. 이 가이드는 무엇을 볼지, 어디서 먹을지, 해변과 언덕에 어떻게 닿을지, 그리고 느긋함에 보답하는 도시에 얼마나 시간을 줄지를 다룹니다.

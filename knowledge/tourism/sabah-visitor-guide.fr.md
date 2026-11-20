@@ -100,6 +100,14 @@ visitFacts:
   permit: 'Le Sabah contrôle sa propre immigration en vertu de l''Accord de Malaisie de 1963, de sorte que chaque arrivant — y compris les Malaisiens venant de la Péninsule — passe un point de contrôle et reçoit un laissez-passer de visite, tandis que l''ascension du mont Kinabalu et la plongée à Sipadan sont chacune soumises à des permis plafonnés de Sabah Parks.'
   watch: 'Réservez bien à l''avance les sites phares rares et soumis à permis et planifiez en tenant compte de la fermeture annuelle de Sipadan en novembre pour la régénération du récif, car ces éléments affichent complet et ne peuvent pas être obtenus à l''arrivée.'
   next: 'Confirmez les règles en vigueur d''entrée, de laissez-passer de visite et de permis auprès du Département de l''immigration de Malaisie (Immigration Department of Malaysia) et de Sabah Parks avant de voyager.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 Vous pouvez prendre l'avion de Kuala Lumpur à Kota Kinabalu sans quitter le pays et faire malgré tout la queue à un guichet d'immigration à l'atterrissage. Cette surprise prend de court de nombreux primo-visiteurs — et c'est la seule chose la plus importante à comprendre avant de planifier un voyage à Sabah. Ce guide passe en revue la porte d'entrée, les attractions phares et les règles d'entrée qui font que Sabah ressemble à un lieu à part entière, car, dans un sens très réel, c'en est un.

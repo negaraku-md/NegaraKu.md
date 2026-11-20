@@ -98,6 +98,14 @@ visitFacts:
   permit: '사라왁은 자체 출입국 관리를 운영하므로 반도의 말레이시아인을 포함해 모두가 도착 시 심사를 거쳐 입국 패스를 받고(외국인은 말레이시아 입국에 더해 별도의 사라왁 도장을 받으며 대부분 사전에 MDAC를 온라인으로 제출해야 합니다), 멀루 항공편과 가이드 동반 동굴 투어는 미리 예약하는 것이 좋습니다.'
   watch: '멀루의 소형 항공기는 날씨로 자주 지연되거나 결항되므로 여유 일정을 두고, 공원을 나가는 빠듯한 연결편은 절대 예약하지 마십시오.'
   next: '본인 국적에 해당하는 현재의 비자 및 MDAC 요건을 말레이시아 이민청(Immigration Department of Malaysia)에 확인하십시오.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 쿠알라룸푸르에서 쿠칭(Kuching)까지 두 시간 이내에 날아가, 자기 나라를 떠난 적이 없으면서도 반대편에 도착해 출입국 스탬프를 받게 됩니다. 도착장에서의 그 의외의 일이 사라왁에 대해 이해해야 할 가장 중요한 한 가지입니다. 사라왁은 자체 국경을 운영하는 말레이시아 주입니다.

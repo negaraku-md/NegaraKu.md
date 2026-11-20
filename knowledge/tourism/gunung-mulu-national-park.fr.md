@@ -90,6 +90,14 @@ visitFacts:
   permit: 'Inscrivez-vous au QG du parc ; les grottes aménagées, la spéléologie d''aventure et les Pinnacles exigent tous des guides agréés et une réservation anticipée — réservez des semaines, voire des mois à l''avance.'
   watch: 'Forêt tropicale équatoriale sans saison sèche fiable — l''ascension des Pinnacles et la sortie des chauves-souris dépendent de la météo et sont annulées en cas de fortes pluies, prévoyez donc des jours de battement, et les limites de bagages des petits avions s''appliquent.'
   next: 'Confirmez les vols, hébergements, règles d''activités guidées et tarifs en vigueur auprès du site officiel du parc (mulupark.com) et du Sarawak Tourism Board.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 Au cœur de la forêt tropicale du Sarawak, là où des montagnes calcaires s'élèvent tout droit hors de la jungle et où aucune route n'arrive, se trouve l'un des paysages les plus extraordinaires de Malaisie — et l'une des régions de grottes les plus étudiées de la planète. Le parc national du Gunung Mulu est l'endroit où l'on trouve la plus grande chambre de grotte du monde, un passage de grotte assez grand pour y faire voler un gros-porteur, un fleuve nocturne de millions de chauves-souris, et une forêt de sommet de lames calcaires assez acérées pour déchiqueter une chaussure. Il est aussi véritablement reculé : vous arrivez en petit avion, vous allez presque partout avec un guide, et vous réservez des mois à l'avance. Ce guide couvre ce qu'est Mulu, ce qu'il y a à voir sous et sur terre, les deux grands treks, le fonctionnement de l'accès, et les erreurs des débutants.

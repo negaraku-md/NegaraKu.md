@@ -91,6 +91,14 @@ visitFacts:
   permit: 'ไม่ต้องมีใบอนุญาตเข้าอุทยาน ทัวร์โรงงานไร่ชา BOH ไม่มีค่าใช้จ่าย ขณะที่การเยี่ยมหมู่บ้าน Orang Asli ควรทำผ่านมัคคุเทศก์หรือผู้ประกอบการท้องถิ่นที่น่าเชื่อถือ'
   watch: 'อย่ามองว่าเป็นเมืองเดียว เพราะเป็นสามชุมชนที่มีบทบาทต่างกัน และพึงทราบว่าไร่ชาปิดในวันจันทร์ ขณะที่อากาศบนที่ราบสูงเปลี่ยนแปลงรวดเร็ว แผนรายวันจึงอาจเปลี่ยนได้'
   next: 'ตรวจสอบเวลาเปิดทำการปัจจุบันและการปิดวันจันทร์โดยตรงกับแต่ละสถานที่ — เว็บไซต์ทางการของ BOH Plantations (bohtea.com) สำหรับไร่ชา และสภาเขต Cameron Highlands (MDCH) สำหรับแหล่งท่องเที่ยวฟาร์มและสวน'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 ก้าวลงจากรถบัสที่ตานะฮ์ราตา สิ่งแรกที่คุณสังเกตเห็นคือลมหายใจของตัวเอง อากาศเย็นพอที่เสื้อกันหนาวไม่รู้สึกไร้สาระ แม้อยู่ที่เส้นศูนย์สูตร นั่นคือประเด็นทั้งหมดของคาเมรอนไฮแลนด์ส แผ่นดินเนินเขาเขตอบอุ่นที่ซ้อนอยู่เหนือมาเลเซียเขตร้อน ที่ซึ่งชาเติบโตเป็นลายริ้วสีเขียวเรียบร้อยตามสันเขา และสตรอว์เบอร์รีสุกงอมในโรงเรือนพลาสติกริมถนน

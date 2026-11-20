@@ -100,6 +100,14 @@ visitFacts:
   permit: 'サバはMalaysia Agreement 1963のもとで独自の入国管理を行っており、半島から飛来するマレーシア人を含むすべての到着者が審査所を通過して訪問パスを受け、Mount Kinabaluの登山とSipadanのダイビングはそれぞれ上限付きのSabah Parks許可で管理されている。'
   watch: '数が限られ許可で管理される目玉は十分に前もって予約し、リーフ回復のためのSipadanの毎年11月の閉鎖を踏まえて計画すること；これらは売り切れ、到着時には確保できないからである。'
   next: '出発前に、現在の入境・訪問パス・許可の規則を、Immigration Department of MalaysiaおよびSabah Parksで確認すること。'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 クアラルンプールからコタキナバルへは国境を越えることなく飛ぶことができるが、それでも着陸時には入境カウンターで列に並ぶことになる。この意外な事実は、多くの初めての訪問者を戸惑わせる——そしてこれこそが、サバ州への旅を計画する前に理解しておくべき最も重要な一点である。本ガイドでは、玄関口となる都市、目玉となる見どころ、そしてサバ州をあたかも独自の土地であるかのように感じさせる入境規則を順を追って見ていく。というのも、ある非常に現実的な意味において、サバ州はまさにそうだからである。

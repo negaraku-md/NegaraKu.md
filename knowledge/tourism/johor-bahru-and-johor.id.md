@@ -119,6 +119,14 @@ visitFacts:
   permit: 'Setiap penyeberangan adalah perbatasan internasional, jadi bawalah paspor yang sah dan lewati imigrasi di kedua sisi.'
   watch: 'Causeway macet pada Jumat sore, akhir pekan, liburan sekolah Singapura, dan malam menjelang hari libur umum, jadi menyeberanglah lebih awal, hindari waktu pulang puncak, dan beralihlah ke Second Link saat ia macet.'
   next: 'Konfirmasikan pengaturan penyeberangan, RTS Link, dan izin taman terkini dengan otoritas transportasi resmi Malaysia dan Singapura serta otoritas taman terkait sebelum Anda bepergian.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
 ---
 
 Sebagian besar pengunjung berjumpa Johor di antrean perbatasan — dalam mobil di Causeway, dalam bus di Second Link, atau di kereta ulang-alik singkat ke JB Sentral — dan memperlakukan kota sebagai selingan belanja-dan-kuliner dari Singapura. Itu meremehkannya. Johor Bahru adalah ibu kota negara bagian paling selatan Malaysia dan gerbang tempat semenanjung bertemu republik pulau di seberang perairan, dengan inti warisan yang mudah dijalani, salah satu gugusan taman tema keluarga terbesar Asia di ambang pintunya, dan seluruh negara bagian di belakangnya: pantai di timur, bakau di ujung selatan, serta gunung dan hutan hujan di pedalaman. Panduan ini mencakup bagaimana penyeberangan bekerja, apa yang bisa dilakukan di kota, taman tema, pesisir dan pedalaman, siapa yang cocok untuk Johor, serta satu kesalahan yang menjebak hampir semua orang — salah mengatur waktu penyeberangan.

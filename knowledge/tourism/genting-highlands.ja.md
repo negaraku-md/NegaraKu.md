@@ -94,6 +94,14 @@ visitFacts:
   permit: 'カジノは非ムスリムのみ入場でき、最低年齢、本人確認、ドレスコードが求められる。'
   watch: '山頂はしばしば雲に包まれて寒く湿っており、眺望は現れたり消えたりするうえ、週末や祝日には大勢の人出と長い行列が生じる。'
   next: '現在のテーマパーク、ケーブルカー、カジノの入場規則は、Resorts World Gentingで確認すること。'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 クアラルンプールの暑さを抜けて山道を登っていくと、中間点を過ぎたあたりのどこかで、窓が曇り始め、空気が冷たくなります。首都を出て1時間のうちに、山頂に積み上げられたネオンのリゾート都市を前に、ほぼ1,800メートルの雲の中に立つことができます。その対比——下は熱帯の低地、上は涼しく霧がかった頂上、午前中で到達できる——こそがゲンティン・ハイランドのすべての売りです。本ガイドは、それが実際に何であるか、どうやって登るか、何ができるか、カジノとどう賢く向き合うか、そして初めての人を引っかける間違いを扱います。

@@ -79,6 +79,14 @@ sources:
 entity: "プトラジャヤ（Putrajaya、マレーシアの連邦行政首都）"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 プトラジャヤ（プトラジャヤ）は訪れる価値のある街ですが、計画を誤れば手痛い目に遭います。マレーシアが目的を持って建設した連邦行政首都は、**広い大通り、記念碑的な建物、儀礼的な広場、橋、そして大きな人工湖**の街——美しく、そして車のために造られています。その名所は番号で区切られたプリシンクトに散らばり、多くは1キロメートル以上離れ、その間に日陰はほとんどありません。モスクから庭園、ショップへと歩いて回れると思って着けば、暑い一日を、長く日ざらしの距離を歩いて過ごすことになります。より穏やかな計画を持って着けば、プトラジャヤはクアラルンプール近郊でもっとも楽な、落ち着いた一日の行き先の一つになります。

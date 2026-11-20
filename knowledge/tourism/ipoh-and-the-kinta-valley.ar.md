@@ -120,6 +120,14 @@ visitFacts:
   permit: 'معابد الكهوف أماكن عبادة قائمة، لذا البس بتحفّظ (غطِّ الكتفين والركبتين) والتزم الهدوء في الداخل.'
   watch: 'خلافاً للترويج السياحي غير الدقيق، فإن Kinta Valley جيوبارك وطني، وليس جيوبارك عالمياً تابعاً لليونسكو (UNESCO Global Geopark).'
   next: 'تأكّد من جداول القطارات وأسعارها الحالية مع KTMB قبل السفر.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 صنع القصدير إيبوه، ثم كاد يهدمها. تحوّلت قرية على نهر كينتا إلى إحدى أغنى بلدات ملايو البريطانية بفضل الخام المدفون تحت وادي كينتا، وبنت لنفسها مركزاً استعمارياً مهيباً، ثم شاهدت المال ينزف بعيداً حين انهار سعر القصدير. وما أبقته هو العمارة، وتلال الحجر الجيري المثقوبة بمعابد الكهوف، ومطبخ جيّد على نحو غير معتاد. وإيبوه اليوم أكثر مدن ماليزيا راحةً لعطلة تراث وطعام — قريبة بما يكفي من كوالالمبور لرحلة يوم، غنيّة بما يكفي لتكافئ عطلة نهاية أسبوع. يتناول هذا الدليل المشهد والتاريخ الذي صاغه، وما يُرى في البلدة وحولها، والطعام باختصار، وعمليّات الوصول.

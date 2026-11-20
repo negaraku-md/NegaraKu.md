@@ -85,6 +85,14 @@ visitFacts:
   permit: 'يسجّل كل زائر للحصول على تصريح دخول PERHILITAN عند الوصول إلى الرصيف أو منضدة المنتزه، ويدفع رخصة كاميرا منفصلة، وعليه استخدام مرشد مرخّص لتسلّق Gunung Tahan.'
   watch: 'قد تُنمي الرياح الموسمية الشمالية الشرقية الأنهار وتعطّل القوارب والدروب، وواجهت ممرّات المظلّة إغلاقات، والعَلَق والرطوبة دائمان — تأكّد من الوصول واحجز المرشدين مسبقاً.'
   next: 'تأكّد من قواعد التصاريح والدخول ورسومها الحالية مع مكتب دائرة الحياة البرية والمنتزهات الوطنية (PERHILITAN) في Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 وأنت واقف عند رصيف كوالا تاهان عند الفجر، تراقب الضباب يتصاعد عن نهر أقدم من جبال الهيمالايا، يسهل أن تنسى أنك لا تبعد عن كوالالمبور سوى نصف يوم. ليست تامان نيغارا معلماً مصطنعاً. إنها غابة مطيرة استوائية حية ظلّت قائمة، دون أن تُمَس في الجملة، على مدى عشرات الملايين من السنين — والدخول إليها أرخص وأيسر مما يتوقعه كل مسافر تقريباً.

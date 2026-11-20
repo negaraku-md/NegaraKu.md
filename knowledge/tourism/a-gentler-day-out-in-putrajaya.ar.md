@@ -79,6 +79,14 @@ sources:
 entity: "بوتراجايا (العاصمة الإدارية الاتحادية الماليزية)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 تستحقّ بوتراجايا (Putrajaya) الزيارة، لكنها تعاقب التخطيط الخاطئ. فالعاصمة الإدارية الاتحادية المبنية خصّيصًا في ماليزيا هي مدينة من **الجادّات الواسعة والمباني المهيبة والساحات الاحتفالية والجسور وبحيرة اصطناعية كبيرة** — جميلة، ومبنية للسيارات. تتناثر معالمها عبر مناطق (precincts) مرقَّمة، غالبًا على بُعد كيلومتر أو أكثر، بقليل من الظل بينها. اوصل متوقّعًا أن تتنزّه من المسجد إلى الحدائق إلى المتاجر، وستقضي يومًا حارًّا سيرًا على مسافات طويلة مكشوفة. اوصل بخطة أهدأ، وتصبح بوتراجايا من أسهل الأيام الهادئة قرب كوالالمبور.

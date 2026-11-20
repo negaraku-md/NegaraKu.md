@@ -119,6 +119,14 @@ visitFacts:
   permit: 'كل عبور هو حدود دولية، لذا احمل جواز سفر ساري المفعول واجتز إجراءات الهجرة على الجانبين.'
   watch: 'يزدحم Causeway مساء الجمعة وعطلات نهاية الأسبوع وعطلات مدارس سنغافورة وليالي العطلات الرسمية، لذا اعبر مبكراً، وتجنّب أوقات العودة في الذروة، وانتقل إلى Second Link حين يكون مزدحماً.'
   next: 'تأكّد من ترتيبات العبور وRTS Link وتصاريح المنتزهات الحالية مع هيئات النقل الرسمية الماليزية والسنغافورية وهيئة المنتزه المعنية قبل أن تسافر.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
 ---
 
 يلتقي معظم الزوّار جوهر عند طابور حدود — في سيارة على الجسر، أو في حافلة عند الوصلة الثانية، أو على القطار المكوكي القصير إلى JB Sentral — ويعاملون المدينة منعطفَ تسوّق وطعام من سنغافورة. وذلك يبخسها حقّها. فجوهر بهرو عاصمة أقصى ولايات ماليزيا جنوباً والبوّابة حيث تلتقي شبه الجزيرة بالجمهورية الجزيرية عبر الماء، بنواة تراثية سهلة المشي، وأحد أكبر عناقيد الحدائق الترفيهية العائلية في آسيا على عتبتها، وولاية كاملة خلفها: شواطئ شرقاً، ومانغروف عند الطرف الجنوبي، وجبال وغابة مطيرة داخلياً. يتناول هذا الدليل كيف تعمل المعابر، وما يُفعَل في المدينة، والحدائق الترفيهية، والساحل والداخل، ولمن تناسب جوهر، والخطأ الوحيد الذي يباغت الجميع تقريباً — إساءة توقيت المعبر.

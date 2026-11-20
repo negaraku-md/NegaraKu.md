@@ -85,6 +85,14 @@ visitFacts:
   permit: 'Mọi du khách đăng ký một giấy phép vào cửa PERHILITAN khi đến tại bến tàu hoặc quầy công viên, trả một khoản phí giấy phép máy ảnh riêng, và phải dùng một hướng dẫn viên có giấy phép cho chặng leo Gunung Tahan.'
   watch: 'Gió mùa đông bắc có thể làm dâng các con sông và gián đoạn thuyền cùng lối mòn, các cầu đi bộ trên tán cây từng bị đóng, và đỉa cùng độ ẩm là thường trực — hãy xác nhận lối vào và đặt hướng dẫn viên trước.'
   next: 'Hãy xác nhận quy định và phí giấy phép cùng vào cửa hiện tại với văn phòng Cục Động vật Hoang dã và Vườn Quốc gia (PERHILITAN) tại Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 Đứng ở bến Kuala Tahan lúc bình minh, ngắm sương mù bốc lên khỏi một dòng sông già hơn dãy Himalaya, thật dễ quên rằng bạn chỉ cách Kuala Lumpur chưa đầy nửa ngày. Taman Negara không phải là một điểm thu hút được chế tạo. Đó là một khu rừng mưa nhiệt đới sống động đã tồn tại, gần như không bị xáo trộn, trong hàng chục triệu năm — và việc vào đó rẻ hơn và đơn giản hơn hầu như bất kỳ du khách nào tưởng.

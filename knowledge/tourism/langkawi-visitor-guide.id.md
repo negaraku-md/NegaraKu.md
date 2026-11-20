@@ -110,6 +110,14 @@ visitFacts:
   permit: 'Harga bebas bea Langkawi hanya berlaku di pulau; barang yang dibawa kembali ke daratan tunduk pada kuota pelancong nasional Malaysia, yang menetapkan masa tinggal minimum yang memenuhi syarat dan membatasi alkohol, tembakau, dan suvenir yang bisa Anda bawa kembali secara bebas bea.'
   watch: 'Jangan berlebihan membeli minuman keras bebas bea untuk dibawa pulang — harga murah itu untuk dinikmati di pulau, dan hanya kuota terbatas yang lolos bea cukai di daratan.'
   next: 'Konfirmasikan jadwal feri terkini dengan operator feri, dan kuota bebas bea dengan Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department, RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
 ---
 
 Sembilan puluh sembilan pulau, batuan yang lebih tua daripada ikan, wiski murah dan sebuah kereta gantung yang tergantung di sisi gunung yang terbentuk dari batuan yang diperkirakan berusia lebih dari 550 juta tahun — Langkawi memuat jumlah yang luar biasa banyak ke dalam satu kepulauan di ujung barat laut Malaysia. Ia merupakan pulau liburan utama pantai barat negara, dan ia berfungsi menurut logika yang hampir berlawanan dengan pulau-pulau selam berpohon palma di seberang semenanjung. Panduan ini merangkum hal yang benar-benar penting sebelum Anda pergi: aturan bebas pajak yang sering membingungkan orang, geopark UNESCO yang memberi latar belakang pada pemandangannya, SkyCab dan SkyBridge, pelayaran perahu yang sepadan untuk diambil, dan cara memilih antara Langkawi dengan pantai timur.

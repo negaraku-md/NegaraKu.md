@@ -79,6 +79,14 @@ sources:
 entity: "Putrajaya (ibu negara pentadbiran persekutuan Malaysia)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 Putrajaya memberi ganjaran kepada lawatan, tetapi ia menghukum pelan yang salah. Ibu negara pentadbiran persekutuan Malaysia yang dibina khas ini ialah sebuah bandar dengan **lebuh raya lebar, bangunan monumental, dataran istiadat, jambatan dan tasik buatan manusia yang luas** — indah, dan dibina untuk kereta. Mercu tandanya bertaburan merentasi presint bernombor, selalunya sekilometer atau lebih jaraknya, dengan sedikit teduhan di antaranya. Tiba dengan harapan untuk berjalan santai dari masjid ke taman ke kedai, dan anda akan menghabiskan hari yang panas berjalan merentasi jarak yang panjang dan terdedah. Tiba dengan pelan yang lebih santai dan Putrajaya menjadi salah satu hari tenang yang paling mudah di sekitar Kuala Lumpur.

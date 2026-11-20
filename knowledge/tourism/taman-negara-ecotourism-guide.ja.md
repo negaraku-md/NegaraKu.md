@@ -84,6 +84,14 @@ visitFacts:
   permit: 'すべての訪問者は桟橋または公園の窓口に到着した時点でPERHILITANの入域許可を登録し、別途カメラ使用料を支払い、Gunung Tahanの登山には公認ガイドを利用しなければならない。'
   watch: '北東モンスーンは川を増水させてボートや小道を乱すことがあり、キャノピーウォークは閉鎖されたこともあり、ヒルと湿気は常に付きまとう——アクセスを確認し、ガイドを前もって予約すること。'
   next: '現在の許可・入域の規則と料金は、Taman Negara PahangにあるDepartment of Wildlife and National Parks（PERHILITAN）の事務所で確認すること。'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 夜明けのクアラ・タハンの桟橋に立ち、ヒマラヤよりも古い川から霧が立ちのぼるのを眺めていると、自分がクアラルンプールからわずか半日の距離にいることを忘れてしまいそうになる。タマン・ヌガラは人工的に作られた観光地ではない。数千万年にわたってほぼ手つかずのまま存在し続けてきた、生きた熱帯雨林であり——そしてそこに入るのは、ほとんどの旅行者が予想するよりも安く、簡単だ。

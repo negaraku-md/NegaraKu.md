@@ -109,6 +109,14 @@ visitFacts:
   permit: 'Langkawi''s duty-free prices apply only on the island; goods carried back to the mainland fall under Malaysia''s national traveller allowance, which sets a minimum qualifying stay and caps the alcohol, tobacco and souvenirs you can bring back duty-free.'
   watch: 'Don''t over-buy duty-free liquor to take home — the cheap prices are for enjoying on the island, and only a limited allowance clears customs on the mainland.'
   next: 'Confirm current ferry schedules with the ferry operators, and duty-free allowances with the Royal Malaysian Customs Department (RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
 ---
 
 Ninety-nine islands, rocks older than fish, cheap whisky and a cable car that hangs off the side of a mountain built from rock estimated at over 550 million years old — Langkawi packs an unusual amount into one archipelago off Malaysia's northwest tip. It is the country's flagship west-coast holiday island, and it works on almost the opposite logic to the palm-fringed diving islands on the other side of the peninsula. This guide covers what actually matters before you go: the duty-free rules that trip people up, the UNESCO geopark that gives the scenery its backstory, the SkyCab and SkyBridge, the boat tours worth taking, and how to decide between Langkawi and the east coast.

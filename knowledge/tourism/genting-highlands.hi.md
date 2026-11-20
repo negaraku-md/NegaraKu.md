@@ -94,6 +94,14 @@ visitFacts:
   permit: 'कैसीनो केवल ग़ैर-मुस्लिमों को प्रवेश देता है, और एक न्यूनतम आयु, पहचान-जाँच और वस्त्र-संहिता अपेक्षित करता है।'
   watch: 'शिखर अक्सर बादलों से घिरा, ठंडा और गीला रहता है जहाँ दृश्य आते-जाते रहते हैं, और सप्ताहांत व सार्वजनिक अवकाश भारी भीड़ और लंबी क़तारें लाते हैं।'
   next: 'वर्तमान थीम-पार्क, केबल-कार और कैसीनो प्रवेश नियम Resorts World Genting से पुष्ट करें।'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 कुआलालंपुर की गर्मी से बाहर पहाड़ी सड़क पर ऊपर गाड़ी चलाएँ और, आधे रास्ते से कहीं आगे, खिड़कियाँ धुंधलाने लगती हैं और हवा ठंडी हो जाती है। राजधानी छोड़ने के एक घंटे के भीतर आप लगभग 1,800 मीटर पर बादल में खड़े हो सकते हैं, एक पहाड़-शिखर पर जमे एक नियॉन रिज़ॉर्ट शहर के सामने। वह विरोधाभास — नीचे उष्णकटिबंधीय तराई, ऊपर ठंडा धुंधला शिखर, एक सुबह में पहुँच योग्य — गेंटिंग हाइलैंड्स का पूरा प्रस्ताव है। यह गाइड शामिल करती है कि यह वास्तव में क्या है, वहाँ कैसे पहुँचें, करने के लिए क्या है, कैसीनो को समझदारी से कैसे संभालें, और वे ग़लतियाँ जो पहली बार आने वालों को पकड़ती हैं।

@@ -90,6 +90,14 @@ visitFacts:
   permit: 'ลงทะเบียนที่สำนักงานใหญ่ของอุทยาน ถ้ำโชว์ การสำรวจถ้ำแบบผจญภัย และ Pinnacles ล้วนต้องมีมัคคุเทศก์ที่ได้รับใบอนุญาตและจองล่วงหน้า จึงควรจองก่อนหลายสัปดาห์ถึงหลายเดือน'
   watch: 'ป่าฝนเขตศูนย์สูตรไม่มีฤดูแล้งที่แน่นอน การปีน Pinnacles และการบินออกของค้างคาวขึ้นอยู่กับสภาพอากาศและถูกยกเลิกเมื่อฝนตกหนัก จึงควรเผื่อวันสำรอง และมีข้อจำกัดน้ำหนักสัมภาระของเครื่องบินเล็ก'
   next: 'ตรวจสอบเที่ยวบิน ที่พัก กฎกิจกรรมนำเที่ยว และค่าธรรมเนียมปัจจุบันกับเว็บไซต์ทางการของอุทยาน (mulupark.com) และ Sarawak Tourism Board'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 ลึกเข้าไปในป่าฝนของซาราวัก ที่ซึ่งภูเขาหินปูนผุดขึ้นตรงจากป่าและไม่มีถนนไปถึง ตั้งอยู่หนึ่งในภูมิทัศน์ที่พิเศษที่สุดในมาเลเซีย และเป็นหนึ่งในภูมิภาคถ้ำที่มีการศึกษามากที่สุดบนโลก อุทยานแห่งชาติกุนุงมูลูคือที่ที่คุณพบห้องถ้ำที่ใหญ่ที่สุดในโลก ทางเดินถ้ำใหญ่พอให้เครื่องบินจัมโบ้บินผ่าน แม่น้ำค้างคาวนับล้านตัวรายคืน และป่ายอดหินปูนบนยอดเขาที่คมพอจะฉีกรองเท้าบู๊ต มันยังห่างไกลจริง ๆ คุณมาถึงด้วยเครื่องบินเล็ก คุณไปเกือบทุกที่กับไกด์ และคุณจองล่วงหน้าหลายเดือน คู่มือนี้ครอบคลุมว่ามูลูคืออะไร มีอะไรให้ชมใต้ดินและเหนือดิน เส้นทางเทรกใหญ่สองเส้น การเข้าถึงทำงานอย่างไร และข้อผิดพลาดที่ผู้มาครั้งแรกทำ

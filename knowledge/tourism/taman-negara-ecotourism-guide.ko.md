@@ -85,6 +85,14 @@ visitFacts:
   permit: '모든 방문객은 선착장이나 공원 창구 도착 시 PERHILITAN 입장 허가를 등록하고 별도의 카메라 라이선스를 납부하며, 구눙 타한(Gunung Tahan) 등반에는 면허 가이드를 이용해야 합니다.'
   watch: '북동 몬순은 강을 불어나게 해 보트와 트레일을 방해할 수 있고, 캐노피 워크웨이는 폐쇄된 적이 있으며, 거머리와 습기가 상존하니 접근 여부를 확인하고 가이드를 미리 예약하십시오.'
   next: '현재의 허가, 입장 규정, 요금은 타만 느가라 파항(Taman Negara Pahang)의 야생동물국립공원부(PERHILITAN) 사무소에 확인하십시오.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 새벽에 쿠알라 타한(Kuala Tahan) 부두에 서서 히말라야보다 오래된 강 위로 안개가 걷히는 것을 바라보면, 쿠알라룸푸르에서 반나절도 채 떨어져 있지 않다는 사실을 잊기 쉽습니다. 타만 네가라(Taman Negara)는 인위적으로 만든 명소가 아닙니다. 수천만 년 동안 대체로 손대지 않은 채 서 있던 살아 있는 열대우림이며 — 그 안으로 들어가는 것은 거의 모든 여행자가 예상하는 것보다 저렴하고 간단합니다.

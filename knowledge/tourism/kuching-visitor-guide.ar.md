@@ -96,6 +96,14 @@ visitFacts:
   permit: 'تدير ساراواك هجرتها الخاصة، فيجتاز الجميع فحص حدود عند الوصول حتى على رحلة داخلية من شبه جزيرة ماليزيا — ويتلقّى الأجانب ختم دخول منفصلاً لساراواك، لذا احمل جواز سفرك طوال الوقت.'
   watch: 'رؤية إنسان الغاب في Semenggoh غير مضمونة أبداً، إذ إن القردة شبه البرية حرّة في البحث عن الغذاء في الغابة المحيطة — عامل أي مشاهدة كمكافأة لا كوعد.'
   next: 'تأكّد من متطلبات الدخول الحالية إلى ساراواك ومواقيت المنتزهات أو المهرجانات مع هيئة سياحة ساراواك (Sarawak Tourism Board) والمشغّلين الرسميين للمنتزهات قبل أن تسافر.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 يمكنك أن تمشي طول واجهة كوتشينغ النهرية في مساء، تمرّ بقلعة استعمارية وقصر راجا ومعبد صيني في الطريق، وتأكل إحدى أعظم صحون بورنيو من الشعيرية، وتلتقط صورة مع تمثال قطّ عملاق — كل ذلك دون مغادرة المدينة. كوتشينغ عاصمة ساراواك وأكبر مدنها، تقع على نهر ساراواك عند الطرف الجنوبي الغربي للولاية على جزيرة بورنيو ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)؛ [Wikidata](https://www.wikidata.org/wiki/Q220445)). وهي القاعدة النهرية المسترخية التي تبدأ منها معظم رحلات ساراواك. يتناول هذا الدليل المدينة نفسها — واجهتها المائية، وتاريخ بروك فيها، وتشاينتاون ومتاحفها، وقططها — وكيف تعمل منصّةَ انطلاق للغابة المطيرة والحياة البرّية المحيطة بها.

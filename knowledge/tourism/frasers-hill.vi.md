@@ -96,6 +96,14 @@ visitFacts:
   getThere: 'Không có sân bay hay đường sắt — bạn lái lên một con đường núi quanh co từ Kuala Kubu Bharu đến The Gap, nơi chặng leo cuối cùng bắt đầu, với giao thông lên và xuống dốc nay được tách giữa hai con đường (con đường một làn ban đầu trong lịch sử chạy một chiều theo giờ).'
   watch: 'Con đường núi hẹp, quanh co chạy chậm và dễ bị đóng sau mưa, sạt lở hay cây đổ, và bản thân ngọn đồi thường nhiều sương mù và ẩm ướt, với dịch vụ ăn uống và tiếp tế hạn chế.'
   next: 'Hãy xác nhận cách bố trí lối vào đường bộ hiện tại và bất kỳ đợt đóng đường nào với cơ quan quản lý đường bộ (JKR) trước khi bạn đi.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
 ---
 
 Hầu hết các trạm nghỉ đồi của Malaysia bán cho bạn một thứ gì đó — một sòng bạc, một đồn điền trà, một trang trại dâu, một công viên chủ đề. Fraser's Hill bán cho bạn sự vắng mặt của tất cả những điều đó. Trải khắp một cụm các sống núi phủ rừng trên [dãy Titiwangsa](/vi/malaysia/titiwangsa-range), nó là một trạm nghỉ thời thuộc địa nhỏ, yên tĩnh, bọc trong sương mù nơi thứ ồn ào nhất bạn sẽ nghe là tiếng chim hót, và nơi một chiếc áo len thôi cảm thấy lố bịch ngay cả ở xích đạo. Đối với người ngắm chim, nó gần như là đất thiêng; đối với mọi người khác, nó là lựa chọn chậm rãi, kín tiếng thay cho những người hàng xóm vùng cao hào nhoáng hơn. Cẩm nang này bao gồm Fraser's Hill thực sự là gì, vì sao người ngắm chim đến, có gì để xem, con đường quanh co lên hoạt động ra sao, và nơi này phù hợp và không phù hợp với ai.

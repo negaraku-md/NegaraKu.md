@@ -96,6 +96,14 @@ visitFacts:
   permit: 'サラワクは独自の入国管理を行っており、半島マレーシアからの国内線であっても全員が到着時に入境審査を受け——外国人は別途サラワクの入境スタンプを受けるため、常にパスポートを携行すること。'
   watch: 'Semenggohでのオランウータンとの遭遇は決して保証されず、半野生の類人猿は周囲の森で自由に採食しているため、見られれば幸運と考え、約束されたものとは見なさないこと。'
   next: '出発前に、現在のサラワク入境要件や公園・祭りの時期は、Sarawak Tourism Boardおよび各公園の公式運営者で確認すること。'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 クチンの川辺は一晩で端から端まで歩くことができ、その道すがら植民地時代の砦、ラジャの宮殿、華人の廟を通り過ぎ、ボルネオ随一の麺の丼を食べ、巨大な猫の像とポーズをとる——しかもすべて街を離れることなく、です。クチンはサラワク州の州都にして最大の都市で、ボルネオ島のサラワク州南西端のサラワク川のほとりに位置します（[Wikipedia](https://en.wikipedia.org/wiki/Kuching)；[Wikidata](https://www.wikidata.org/wiki/Q220445)）。ほとんどのサラワクの旅が始まる、くつろいだ川の街の拠点です。本ガイドは、街そのもの——そのウォーターフロント、ブルック時代の歴史、チャイナタウンと博物館、そして猫——と、それを取り巻く熱帯雨林と野生生物への発射台としてどう機能するかを扱います。

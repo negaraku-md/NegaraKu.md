@@ -106,6 +106,10 @@ async function main() {
       masterLanguage: data.masterLanguage ?? data.lang ?? 'ms',
       slug: data.slug ?? null,
       summary: data.summary ?? '',
+      // Lead image path (language-neutral) — surfaced so build-og can render a
+      // photo-backed OG card for articles that have a hero, without re-parsing
+      // frontmatter. null when the article ships on the branded fallback.
+      hero: data.hero ?? null,
       status: data.status ?? 'draft',
       // A served no-successor tombstone (archive-article.mjs --tombstone): kept
       // out of the sitemap (astro.config reads this) though its page is built.

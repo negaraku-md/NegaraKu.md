@@ -90,6 +90,14 @@ visitFacts:
   permit: 'No park permit to enter; BOH tea-estate factory tours are free, while Orang Asli village visits should be done through a reputable local guide or operator.'
   watch: 'Don''t treat it as one town — it is three settlements with different roles — and note that tea gardens close on Mondays while plateau weather shifts quickly, so day plans can change.'
   next: 'Confirm current opening hours and Monday closures directly with each site — BOH Plantations'' official site (bohtea.com) for the tea gardens and the Cameron Highlands District Council (MDCH) for farm-and-garden attractions.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 Step off the bus at Tanah Rata and the first thing you notice is your own breath — the air is cool enough that a jumper stops feeling ridiculous, even at the equator. That is the whole point of Cameron Highlands: a slab of temperate hill country stacked above tropical Malaysia, where tea grows in neat green corduroy over the ridges and strawberries ripen in roadside polytunnels.

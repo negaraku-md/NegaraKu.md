@@ -79,6 +79,14 @@ sources:
 entity: "पुत्रजाया (Putrajaya) (मलेशिया की संघीय प्रशासनिक राजधानी)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 पुत्रजाया (Putrajaya) एक यात्रा का इनाम देता है, लेकिन यह गलत योजना को सज़ा देता है। मलेशिया की उद्देश्य-निर्मित संघीय प्रशासनिक राजधानी **चौड़ी सड़कों, स्मारकीय इमारतों, औपचारिक प्लाज़ाओं, पुलों और एक बड़ी मानव-निर्मित झील** का शहर है — सुंदर, और कारों के लिए बना हुआ। इसके दर्शनीय स्थल क्रमांकित प्रीसिंक्टों (precincts) में बिखरे हुए हैं, अक्सर एक किलोमीटर या उससे अधिक दूर, बीच में बहुत कम छाया के साथ। यह उम्मीद करके आएँ कि आप मस्जिद से बगीचों तक और दुकानों तक टहल लेंगे, तो आप एक गर्म दिन लंबी, खुली दूरियाँ पैदल चलते बिताएँगे। एक आरामदेह योजना के साथ आएँ और पुत्रजाया कुआलालंपुर के पास सबसे आसान शांत दिनों में से एक बन जाता है।

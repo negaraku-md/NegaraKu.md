@@ -79,6 +79,14 @@ sources:
 entity: "Putrajaya (capital administrativa federal de Malasia)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 Putrajaya recompensa una visita, pero castiga el plan equivocado. La capital administrativa federal de Malasia, construida expresamente para ese fin, es una ciudad de **amplios bulevares, edificios monumentales, plazas ceremoniales, puentes y un gran lago artificial**: hermosa, y pensada para los coches. Sus monumentos están repartidos por precintos numerados, a menudo a un kilómetro o más de distancia, con poca sombra entre ellos. Llegue esperando pasear de la mezquita a los jardines y a las tiendas y pasará un día caluroso caminando largas distancias expuestas. Llegue con un plan más tranquilo y Putrajaya se convierte en uno de los días de calma más fáciles cerca de Kuala Lumpur.

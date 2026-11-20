@@ -120,6 +120,14 @@ visitFacts:
   permit: 'วัดถ้ำเป็นสถานที่ประกอบศาสนกิจที่ยังใช้งานอยู่ จึงควรแต่งกายสุภาพ (ปกปิดไหล่และเข่า) และรักษาความเงียบภายใน'
   watch: 'แม้คำโฆษณาท่องเที่ยวจะหลวม ๆ แต่ Kinta Valley เป็นอุทยานธรณีระดับชาติ ไม่ใช่ UNESCO Global Geopark'
   next: 'ตรวจสอบตารางเวลาและค่าโดยสารรถไฟปัจจุบันกับ KTMB ก่อนเดินทาง'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 ดีบุกสร้างอิโปห์ขึ้น แล้วก็เกือบทำลายมัน หมู่บ้านบนแม่น้ำกินตากลายเป็นหนึ่งในเมืองที่ร่ำรวยที่สุดของบริติชมาลายาด้วยพลังของแร่ที่ฝังอยู่ใต้หุบเขากินตา สร้างใจกลางยุคอาณานิคมอันโอ่อ่าให้ตัวเอง แล้วก็เฝ้าดูเงินไหลออกไปเมื่อราคาดีบุกร่วง สิ่งที่มันเก็บไว้คือสถาปัตยกรรม เนินหินปูนที่พรุนด้วยวัดถ้ำ และครัวที่ดีเกินธรรมดา ปัจจุบันอิโปห์เป็นเมืองพักสั้นมรดก-และ-อาหารที่สบายที่สุดของมาเลเซีย ใกล้กัวลาลัมเปอร์พอสำหรับทริปวันเดียว รวยพอที่จะคุ้มค่าหนึ่งสุดสัปดาห์ คู่มือนี้ครอบคลุมภูมิทัศน์และประวัติศาสตร์ที่หล่อหลอมมัน มีอะไรให้ชมในและรอบเมือง อาหารโดยย่อ และการจัดการเดินทางไปถึง

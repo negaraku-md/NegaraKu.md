@@ -104,6 +104,14 @@ visitFacts:
   permit: '페트로나스 트윈 타워 입장은 일일 인원이 제한된 시간 지정 티켓을 쓰므로, 현장 방문에 기대지 말고 온라인으로 미리 예약하십시오.'
   watch: '도심 교통은 출퇴근 시간에 혼잡하므로, 시내를 가로지르는 이동에는 대개 열차가 자동차보다 빠릅니다.'
   next: '페트로나스 트윈 타워의 현재 개장 시간과 티켓 정보는 공식 PETRONAS Twin Towers 사이트(petronastwintowers.com.my)에서 확인하십시오.'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 새벽에 쿠알라룸푸르 국제공항에 내리면, 한 시간 안에 한때 세계의 스카이라인을 지배했던 두 개의 은빛 타워 아래에 설 수 있습니다 — 렌터카도, 복잡한 계획도 없이, 그저 기차와 태그 카드 하나로. 그 수월함이 바로 KL의 핵심입니다. 말레이시아의 정문이자, 대표 명소들이 짧은 철도 이동 거리에 자리한 아담하고 저렴한 수도이며, 이 나라의 거의 모든 후속 여정이 시작되는 곳입니다.

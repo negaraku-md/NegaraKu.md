@@ -78,6 +78,14 @@ visitFacts:
   permit: 'رسم حفظ إلزامي للمنتزه البحري، يُدفع عند منضدة في محطة الرصيف على البرّ الرئيسي قبل الصعود ومنفصل عن أجرة القارب.'
   watch: 'لا إغلاق إلزامي واحد، لكن معظم مشغّلي الجزر يغلقون طوعاً خلال الرياح الموسمية الشمالية الشرقية، لذا قرب تلك الأشهر تأكّد من نقل القوارب قبل الدفع.'
   next: 'تأكّد من رسوم الحفظ الحالية وقواعد المنتزه البحري مع دائرة مصائد الأسماك الماليزية (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 اصل إلى منتجع شاطئي في ريدانغ في ديسمبر، وستجد القوارب على الأرجح قد رحلت، والرصيف ساكنًا، ومتجر الغوص مُوصَدًا. فجزر الساحل الشرقي تسير على روزنامة يكتبها البحر، لا نشرة السياحة — وعلى جملة من قواعد الحديقة البحرية لا يكتشفها معظم القادمين لأول مرة إلا عند شبّاك التذاكر.

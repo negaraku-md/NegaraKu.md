@@ -90,6 +90,14 @@ visitFacts:
   permit: 'Regístrese en la sede del parque; las cuevas turísticas, la espeleología de aventura y los Pinnacles exigen guías autorizados y reserva anticipada, así que resérvelos con semanas o meses de antelación.'
   watch: 'Selva ecuatorial sin una estación seca fiable: la ascensión a los Pinnacles y la salida de los murciélagos dependen del tiempo y se cancelan con lluvia fuerte, así que prevea días de margen, y tenga en cuenta los límites de equipaje de las avionetas.'
   next: 'Confirme los vuelos, el alojamiento, las normas de las actividades guiadas y las tarifas vigentes con el sitio oficial del parque (mulupark.com) y la Junta de Turismo de Sarawak (Sarawak Tourism Board).'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 En lo profundo de la selva de Sarawak, donde montañas de piedra caliza se alzan directamente de la jungla y no llega ninguna carretera, se encuentra uno de los paisajes más extraordinarios de Malasia — y una de las regiones de cuevas más estudiadas del planeta. El Parque Nacional de Gunung Mulu es donde se halla la cámara de cueva más grande del mundo, un pasaje de cueva lo bastante grande para atravesarlo con un jumbo, un río nocturno de millones de murciélagos, y un bosque de cumbre de láminas de piedra caliza lo bastante afiladas para destrozar una bota. También es genuinamente remoto: se llega en avioneta, se va a casi todas partes con guía, y se reserva con meses de antelación. Esta guía cubre qué es Mulu, qué hay que ver bajo tierra y sobre ella, los dos grandes treks, cómo funciona el acceso, y los errores que cometen los primerizos.

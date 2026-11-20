@@ -38,7 +38,7 @@ faq:
 lang: "vi"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'Bay vào Penang International Airport ở phía nam George Town, hoặc đến đảo bằng đường bộ qua Penang Bridge và Sultan Abdul Halim Muadzam Shah Bridge, hoặc đi Rapid Ferry từ Butterworth tới bờ sông George Town.'
   watch: 'Hãy coi nghệ thuật đường phố là một cánh cửa dẫn vào thay vì toàn bộ câu chuyện, vì các nhà tông tộc, đền chùa và các con phố nhà phố mới là những gì danh mục UNESCO thực sự bảo vệ.'
   next: 'Hãy xác nhận thời gian biểu và quy định tàu leo núi hiện tại với Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 Đặt chân lên đảo, bước ra khỏi không gian điều hòa, và điều đầu tiên đập vào bạn là mùi hương — khói chảo, hương trầm từ một ngôi đền Hoa, hoa đại, và vị mặn của Eo biển Malacca. George Town là một nơi bạn đọc bằng đôi chân của mình: một mạng lưới nhỏ gọn các nhà phố trăm năm tuổi nơi một nhà thờ Hồi giáo, một hội quán dòng họ và một nhà thờ thời thuộc địa có thể cùng chung một dãy phố. Cẩm nang này giới thiệu những gì để xem, nơi để ăn, cách đến các bãi biển và ngọn đồi, cùng nên dành bao nhiêu thời gian cho một thành phố tưởng thưởng sự chậm rãi.

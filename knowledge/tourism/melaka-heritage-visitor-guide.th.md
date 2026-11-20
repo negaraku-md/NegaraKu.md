@@ -86,6 +86,14 @@ visitFacts:
   getThere: 'เข้าถึงทางถนนจากกัวลาลัมเปอร์ ขับรถราวสองชั่วโมง เป็นทริปสุดสัปดาห์ที่นิยม'
   watch: 'วางแผนตามวันในสัปดาห์ — ตลาดกลางคืน Jonker Street เปิดเฉพาะเย็นวันศุกร์ถึงวันอาทิตย์ และในวันธรรมดาเป็นเพียงถนนตึกแถวธรรมดา — และอย่าสับสนประตูประวัติศาสตร์ A Famosa ที่เข้าชมฟรีกับสวนสนุก A''Famosa Resort ที่แยกต่างหากนอกเมือง'
   next: 'ตรวจสอบวันและเวลาเปิดทำการปัจจุบันกับเว็บไซต์ทางการของ Baba & Nyonya Heritage Museum ก่อนเยี่ยมชม เนื่องจากสิ่งเหล่านี้เปลี่ยนแปลง'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 ยืนอยู่ในจัตุรัสดัตช์ยามพลบค่ำ แล้วคุณจะอ่านห้าศตวรรษได้ในสายตาเดียว ศาลากลางเมืองดัตช์สีแดงแซลมอนด้านหนึ่ง ซากโบสถ์ยุคโปรตุเกสบนเนินเหนือขึ้นไป ประตูหินที่ครั้งหนึ่งเคยยึดโยงป้อมปราการที่อังกฤษพยายามรื้อถอน และในระยะเดินสองนาที ตรอกบ้านทาวน์เฮาส์จีน-มลายูที่ตอนนี้สว่างไสวสำหรับตลาดคืนวันศุกร์ มะละกาไม่ได้กระจายประวัติศาสตร์ไปทั่วเมืองใหญ่ หากอัดมันไว้ในพื้นที่ราวหนึ่งตารางไมล์ที่คุณเดินได้ในบ่ายเดียว ต่อไปนี้คือวิธีอ่านมัน และวิธีวางแผนการมาเยือนรอบ ๆ มัน

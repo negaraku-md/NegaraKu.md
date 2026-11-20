@@ -84,6 +84,14 @@ visitFacts:
   permit: 'Every visitor registers for a PERHILITAN entrance permit on arrival at the jetty or park counter, pays a separate camera licence, and must use a licensed guide for the Gunung Tahan climb.'
   watch: 'The northeast monsoon can swell rivers and disrupt boats and trails, the canopy walkways have faced closures, and leeches and humidity are constant — confirm access and book guides ahead.'
   next: 'Confirm current permit and entry rules and fees with the Department of Wildlife and National Parks (PERHILITAN) office at Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 Standing at the Kuala Tahan jetty at dawn, watching mist lift off a river older than the Himalayas, it is easy to forget you are barely a half-day from Kuala Lumpur. Taman Negara is not a manufactured attraction. It is a living tropical rainforest that has stood, roughly undisturbed, for tens of millions of years — and getting into it is cheaper and simpler than almost any traveller expects.

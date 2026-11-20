@@ -96,6 +96,14 @@ visitFacts:
   getThere: 'कोई हवाई अड्डा या रेलवे नहीं — आप Kuala Kubu Bharu से The Gap तक एक घुमावदार पहाड़ी सड़क पर ऊपर चढ़ते हैं, जहाँ अंतिम चढ़ाई शुरू होती है, और अब चढ़ाई-और-उतराई का यातायात दो सड़कों में बँटा है (मूल एकल-लेन सड़क ऐतिहासिक रूप से समयबद्ध एकतरफ़ा चलती थी)।'
   watch: 'यह संकरी, घुमावदार पहाड़ी सड़क धीमी है और बारिश, भूस्खलन या गिरे पेड़ों के बाद बंदी की आशंका वाली है, और पहाड़ी स्वयं अक्सर कुहासे और नमी से भरी रहती है, सीमित भोजन और आपूर्ति के साथ।'
   next: 'यात्रा से पहले वर्तमान सड़क-पहुँच व्यवस्था और किसी भी बंदी को सड़क प्राधिकरण (JKR) से पुष्ट करें।'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
 ---
 
 मलेशिया के अधिकांश पहाड़ी स्टेशन आपको कुछ बेचते हैं — एक कैसीनो, एक चाय बाग़, एक स्ट्रॉबेरी फ़ार्म, एक थीम पार्क। फ़्रेज़र्स हिल आपको उस सब की अनुपस्थिति बेचता है। [Titiwangsa श्रेणी](/hi/malaysia/titiwangsa-range) पर वनाच्छादित मेड़ों के एक समूह में फैला, यह एक छोटा, शांत, धुंध-लिपटा औपनिवेशिक-युग का स्टेशन है जहाँ सबसे तेज़ चीज़ जो आप सुनेंगे वह पक्षी-गान है, और जहाँ एक स्वेटर भूमध्य रेखा पर भी हास्यास्पद महसूस होना बंद कर देता है। पक्षी-दर्शकों के लिए यह लगभग पवित्र भूमि के क़रीब है; बाक़ी सबके लिए यह इसके अधिक चमकीले पहाड़ी पड़ोसियों का धीमा, कम-कुंजी विकल्प है। यह गाइड शामिल करती है कि फ़्रेज़र्स हिल वास्तव में क्या है, पक्षी-दर्शक क्यों आते हैं, देखने के लिए क्या है, ऊपर की घुमावदार सड़क कैसे काम करती है, और जगह किसके लिए उपयुक्त है और किसके लिए नहीं।

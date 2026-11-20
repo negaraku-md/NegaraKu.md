@@ -78,6 +78,14 @@ visitFacts:
   permit: 'Biaya konservasi taman laut yang wajib, dibayar di loket terminal dermaga daratan sebelum naik perahu dan terpisah dari ongkos perahu Anda.'
   watch: 'Tidak ada penutupan wajib tunggal, tetapi sebagian besar operator pulau tutup secara sukarela selama musim angin timur laut, jadi menjelang bulan-bulan itu konfirmasikan penyeberangan perahu sebelum membayar.'
   next: 'Konfirmasikan biaya konservasi dan aturan taman laut terkini dengan Jabatan Perikanan Malaysia (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 Tiba di sebuah resor pantai Redang pada bulan Desember dan besar kemungkinan Anda akan mendapati perahu sudah tidak ada, jeti sunyi dan toko selam tertutup. Pulau-pulau pantai timur beroperasi menurut kalender yang ditulis oleh laut, bukan oleh brosur wisata — dan menurut satu set aturan taman laut yang baru diketahui sebagian besar pengunjung pertama kali di loket tiket.

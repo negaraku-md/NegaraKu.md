@@ -98,6 +98,14 @@ visitFacts:
   permit: 'Sarawak gestiona su propia inmigración, así que a todo el mundo — malasios de la Península incluidos — se le controla y se le expide un pase de entrada a la llegada (los extranjeros reciben un sello aparte de Sarawak además de su entrada a Malasia, y la mayoría deben presentar la MDAC en línea de antemano), y los vuelos a Mulu y las visitas guiadas a las cuevas deberían reservarse con antelación.'
   watch: 'Las avionetas de Mulu sufren con frecuencia retrasos o cancelaciones por el tiempo, así que prevea días de margen y nunca reserve una conexión de salida ajustada desde el parque.'
   next: 'Confirme los requisitos vigentes de visado y de MDAC para su nacionalidad con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia).'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 Puedes volar de Kuala Lumpur a Kuching en menos de dos horas, no salir nunca de tu propio país y aun así recibir un sello de inmigración al otro extremo. Esa sorpresa en la sala de llegadas es lo más importante que hay que entender sobre Sarawak: es un estado malasio que gestiona su propia frontera.

@@ -100,6 +100,14 @@ visitFacts:
   permit: '山頂への登頂は許可制で、公園の登山許可証と公認のSabah Parks山岳ガイドの双方が必須であり、1日の定員には上限があり、ほぼ全員が公園の運営業者を通じて山中の宿泊ベッドを事前予約しなければならない——よって十分に前もって押さえておくこと。'
   watch: '高度と体力が物を言う、過酷な2日間の高地登山であり、山は独自の天候を生み出す；大地震のような出来事の後にはアクセスやルートが変わり得るため、最新の情報をもとに計画すること。'
   next: '現在の許可、ガイド、宿泊の規則と料金は、Sabah Parksで確認すること。'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 ボルネオの熱帯雨林からまっすぐ4,000メートル余りまでそそり立つ花崗岩の冠、いくつかの大陸よりも多くの植物種を擁する世界遺産の公園、そしてフライトを予約する前に予約しなければならないほど厳しく割り当てられた山頂登山——キナバル山はマレーシアで最も有名な自然のランドマークであり、実際に訪れるのに最も段取りを要する場所の一つです。それはボルネオのマレーシア側、サバ州にあり、まったく異なる二種類の旅行者に報います。ヒマラヤとニューギニアの間の最高峰で夜明けを追う、体力のある段取り上手な登山者と、ただ涼しい山の空気、奇妙な食虫植物、そして温泉での一浴を求める日帰り客です。本ガイドはその両方を、そして人が出発前にきまって間違えることを扱います。

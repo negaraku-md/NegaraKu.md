@@ -107,6 +107,14 @@ visitFacts:
   permit: 'La plongée à Sipadan exige un permis de Sabah Parks, et le nombre délivré chaque jour est strictement plafonné et attribué uniquement par des opérateurs de plongée agréés — réservez bien à l''avance.'
   watch: 'Les îles de l''est du Sabah se situent dans une zone de sécurité désignée (ESSZONE), les permis ne sont jamais garantis, et des limites de conservation (dont une fermeture annuelle) s''appliquent — voyagez informé et consultez les recommandations officielles en vigueur.'
   next: 'Confirmez le plafond de permis, les tarifs et toute fermeture de conservation en vigueur pour Sipadan auprès de Sabah Parks ou de votre opérateur de plongée agréé.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
 ---
 
 Un unique pinacle couvert de corail s'élevant de six cents mètres tout droit depuis le plancher de la mer de Célèbes, grouillant de tortues et de tornades de barracudas — Sipadan est la raison pour laquelle les plongeurs sérieux inscrivent l'est de Sabah sur leur liste, et la raison pour laquelle toute une économie du voyage a grandi autour de la petite ville de Semporna. Mais ce n'est pas un endroit où l'on peut simplement se présenter et plonger. Sipadan est un parc marin strictement protégé avec un permis quotidien plafonné, aucun hébergement sur l'île même, et un contexte de zone de sécurité sur la côte environnante que les débutants doivent comprendre avec calme et sens des faits. Ce guide couvre ce qui rend la plongée de classe mondiale, le fonctionnement réel du permis et du plafond quotidien, où l'on séjourne, en quoi Sipadan diffère du parc marin voisin de Tun Sakaran, à qui la région convient, et quand partir.

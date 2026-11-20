@@ -85,6 +85,14 @@ visitFacts:
   permit: 'Setiap pelawat mendaftar untuk permit masuk PERHILITAN ketika ketibaan di jeti atau kaunter taman, membayar lesen kamera yang berasingan, dan mesti menggunakan pemandu berlesen untuk pendakian Gunung Tahan.'
   watch: 'Monsun timur laut boleh membuak sungai serta mengganggu bot dan denai, laluan kanopi pernah ditutup, dan lintah serta kelembapan sentiasa ada — sahkan akses dan tempah pemandu lebih awal.'
   next: 'Sahkan peraturan dan yuran permit serta kemasukan semasa dengan pejabat Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) di Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, memerhati kabus mengangkat dari sebatang sungai yang lebih tua daripada Banjaran Himalaya, mudah untuk lupa bahawa anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah tarikan buatan. Ia sebuah hutan hujan tropika yang hidup, yang telah berdiri, secara amnya tanpa gangguan, selama berpuluh-puluh juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang dijangkakan oleh hampir mana-mana pengembara.

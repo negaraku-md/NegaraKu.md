@@ -98,6 +98,14 @@ visitFacts:
   permit: 'تدير ساراواك هجرتها الخاصة، فيُفحص الجميع — بمن فيهم الماليزيون من شبه الجزيرة — ويُمنحون تصريح دخول عند الوصول (يحصل الأجانب على ختم ساراواك منفصل فوق دخولهم الماليزي، وعلى معظمهم تقديم MDAC عبر الإنترنت مسبقاً)، وينبغي حجز رحلات Mulu وجولات الكهوف المرشَدة مسبقاً.'
   watch: 'طائرات Mulu الصغيرة تتأخّر أو تُلغى بانتظام بسبب الطقس، لذا اترك أياماً احتياطية ولا تحجز أبداً اتصال سفر ضيّقاً خارج المنتزه.'
   next: 'تأكّد من متطلبات التأشيرة وMDAC الحالية لجنسيتك مع دائرة الهجرة الماليزية (Immigration Department of Malaysia).'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 يمكنك أن تطير من كوالالمبور إلى كوتشينغ في أقل من ساعتين، دون أن تغادر بلدك، ومع ذلك تُختَم عبر الهجرة في الطرف الآخر. تلك المفاجأة في صالة الوصول هي أهم ما ينبغي فهمه عن ساراواك: فهي ولاية ماليزية تدير حدودها الخاصة.

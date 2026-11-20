@@ -79,6 +79,14 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["कुआलालंपुर बरसात का दिन", "KL में इनडोर गतिविधियाँ", "सार्वजनिक परिवहन से KL", "KLCC Bukit Bintang पैदल मार्ग", "Suria KLCC रेल", "Aquaria KLCC कैसे पहुँचें", "Petrosains", "Muzium Negara MRT", "रेल से KL के मॉल"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'A tropical downpour streaking over an old tile-roofed shophouse on Jalan Panggong in Kuala Lumpur''s old quarter'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
 ---
 
 कुआलालंपुर में बारिश तेज़ी से और ज़ोर से आती है, और एक खुले-आसमान वाली योजना

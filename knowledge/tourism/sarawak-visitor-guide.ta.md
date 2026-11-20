@@ -98,6 +98,14 @@ visitFacts:
   permit: 'Sarawak தனது சொந்த குடிவரவை நடத்துகிறது, எனவே அனைவரும் — தீபகற்பத்திலிருந்து வரும் மலேசியர்கள் உட்பட — வருகையில் சோதிக்கப்பட்டு நுழைவுச் சீட்டு வழங்கப்படுகிறார்கள் (வெளிநாட்டவர்கள் தங்கள் மலேசிய நுழைவுக்கு மேல் தனி Sarawak முத்திரை பெறுகிறார்கள், மேலும் பெரும்பாலானோர் முன்பே MDAC-ஐ இணையத்தில் தாக்கல் செய்ய வேண்டும்), மேலும் Mulu விமானங்களும் வழிகாட்டப்பட்ட குகை சுற்றுலாக்களும் முன்பே முன்பதிவு செய்யப்பட வேண்டும்.'
   watch: 'Mulu-இன் சிறிய விமானங்கள் வானிலையால் வழக்கமாகத் தாமதமாகின்றன அல்லது ரத்து செய்யப்படுகின்றன, எனவே கூடுதல் நாட்களை ஒதுக்குங்கள், பூங்காவிலிருந்து வெளியேறும் இறுக்கமான தொடர் இணைப்பை ஒருபோதும் முன்பதிவு செய்யாதீர்கள்.'
   next: 'உங்கள் நாட்டினருக்கான தற்போதைய விசா மற்றும் MDAC தேவைகளை Immigration Department of Malaysia-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
 ---
 
 கோலாலம்பூரிலிருந்து குச்சிங்கிற்கு இரண்டு மணிநேரத்திற்குள் பறக்கலாம், உங்கள் சொந்த நாட்டை ஒருபோதும் விட்டு வெளியேறாமலேயே, இருந்தாலும் மறுமுனையில் குடிவரவின் வழியாக முத்திரையிடப்படுவீர்கள். வருகை மண்டபத்தில் ஏற்படும் அந்த ஆச்சரியம்தான் சரவாக்கைப் புரிந்துகொள்வதில் மிக முக்கியமான ஒற்றை விஷயம்: இது தன் சொந்த எல்லையை நடத்தும் ஒரு மலேசிய மாநிலம்.

@@ -37,7 +37,7 @@ faq:
 
 lang: "ta"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "d3f6eff7dfce43ca"
 
 status: "published"
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'George Town-க்குத் தெற்கே உள்ள Penang International Airport-க்குப் பறந்து செல்லுங்கள், அல்லது Penang Bridge மற்றும் Sultan Abdul Halim Muadzam Shah Bridge வழியாக தரை மூலம் தீவை அடையுங்கள், அல்லது Butterworth இலிருந்து George Town ஆற்றங்கரைக்கு Rapid Ferry எடுத்துக் கொள்ளுங்கள்.'
   watch: 'தெரு ஓவியத்தை முழுக் கதையாக அல்லாமல் ஒரு நுழைவாயிலாகக் கருதுங்கள், ஏனெனில் குல மண்டபங்கள், கோயில்கள் மற்றும் கடைவீட்டுத் தெருக்களே UNESCO பட்டியல் உண்மையில் பாதுகாப்பவை.'
   next: 'தற்போதைய ஃபுனிகுலர் (funicular) அட்டவணைகளையும் விதிகளையும் Penang Hill Corporation-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 தீவில் இறங்கி, குளிரூட்டப்பட்ட அறையிலிருந்து வெளியே காலடி எடுத்து வைத்ததும், முதலில் உங்களைத் தாக்குவது வாசனைதான் — கடாய் புகை, சீனக் கோயிலின் அகில் நறுமணம், அரளி மலர், மற்றும் மலாக்கா நீரிணையின் உப்புக் காற்று. George Town என்பது நீங்கள் உங்கள் கால்களால் படிக்கும் ஒரு இடம்: ஒரு மசூதி, ஒரு குலமன்றம் மற்றும் ஒரு காலனித்துவ தேவாலயம் ஒரே தெருத்தொகுதியைப் பகிர்ந்துகொள்ளக்கூடிய, நூற்றாண்டு பழமையான கடைவீடுகளின் ஒரு நெருக்கமான வலைப்பின்னல். என்ன பார்ப்பது, எங்கே உண்பது, கடற்கரைகளையும் மலையையும் எப்படி அடைவது, மேலும் நிதானத்திற்குப் பரிசளிக்கும் ஒரு நகரத்திற்கு எவ்வளவு நேரம் ஒதுக்குவது என்பதை இந்த வழிகாட்டி உள்ளடக்குகிறது.

@@ -119,6 +119,14 @@ visitFacts:
   permit: 'The cave temples are active places of worship, so dress modestly (cover shoulders and knees) and keep quiet inside.'
   watch: 'Despite loose tourism copy, the Kinta Valley is a national geopark, not a UNESCO Global Geopark.'
   next: 'Confirm current train timetables and fares with KTMB before travelling.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 Tin made Ipoh, and then it almost unmade it. A village on the Kinta River turned into one of British Malaya's wealthiest towns on the strength of the ore buried under the Kinta Valley, built itself a grand colonial centre, and then watched the money drain away when the tin price collapsed. What it kept was the architecture, the limestone hills riddled with cave temples, and an unusually good kitchen. Today Ipoh is Malaysia's most comfortable heritage-and-food city break — close enough to Kuala Lumpur for a day trip, rich enough to reward a weekend. This guide covers the landscape and the history that shaped it, what there is to see in and around town, the food in brief, and the practicalities of getting there.

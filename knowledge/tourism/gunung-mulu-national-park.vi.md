@@ -90,6 +90,14 @@ visitFacts:
   permit: 'Đăng ký tại trụ sở công viên; các hang trưng bày, thám hiểm hang động và tuyến Pinnacles đều cần hướng dẫn viên có giấy phép và đặt chỗ trước — hãy giữ chỗ trước nhiều tuần đến nhiều tháng.'
   watch: 'Rừng mưa xích đạo không có mùa khô ổn định — hành trình leo Pinnacles và màn dơi bay ra phụ thuộc vào thời tiết và bị hủy khi mưa lớn, nên hãy dự trù thêm ngày đệm. Có giới hạn hành lý trên máy bay nhỏ.'
   next: 'Hãy xác nhận các chuyến bay, phòng, quy định hoạt động có hướng dẫn và phí hiện tại với trang chính thức của công viên (mulupark.com) và Sarawak Tourism Board.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 Sâu trong rừng mưa của Sarawak, nơi những ngọn núi đá vôi vươn thẳng ra khỏi rừng già và không có con đường nào vươn tới, là một trong những cảnh quan phi thường nhất Malaysia — và một trong những vùng hang động được nghiên cứu nhiều nhất hành tinh. Vườn Quốc gia Gunung Mulu là nơi bạn tìm thấy khoang hang lớn nhất thế giới, một đường hang đủ lớn để lái một chiếc máy bay phản lực cỡ lớn xuyên qua, một dòng sông hằng đêm gồm hàng triệu con dơi, và một khu rừng trên đồi gồm những lưỡi đá vôi đủ sắc để xé toạc một chiếc giày. Nó cũng thực sự hẻo lánh: bạn đến bằng một máy bay nhỏ, bạn đi gần như mọi nơi với một hướng dẫn viên, và bạn đặt trước nhiều tháng. Cẩm nang này bao gồm Mulu là gì, có gì để xem dưới lòng đất và trên mặt đất, hai chuyến trekking lớn, cách thức tiếp cận hoạt động, và những sai lầm mà người lần đầu mắc phải.

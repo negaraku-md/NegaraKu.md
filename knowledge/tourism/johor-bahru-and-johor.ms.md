@@ -119,6 +119,14 @@ visitFacts:
   permit: 'Setiap lintasan adalah sempadan antarabangsa, jadi bawa pasport yang sah dan lepasi imigresen di kedua-dua belah.'
   watch: 'Tambak sesak pada petang Jumaat, hujung minggu, cuti sekolah Singapura dan malam sebelum cuti umum, jadi lintas awal, elakkan waktu pulang puncak, dan beralih ke Second Link apabila ia sesak.'
   next: 'Sahkan susunan lintasan, RTS Link dan permit taman semasa dengan pihak berkuasa pengangkutan rasmi Malaysia dan Singapura serta pihak berkuasa taman berkaitan sebelum anda mengembara.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
 ---
 
 Kebanyakan pelawat bertemu Johor di barisan sempadan — di dalam kereta di Tambak, di atas bas di Laluan Kedua, atau di kereta api ulang-alik singkat ke JB Sentral — dan memperlakukan bandar sebagai singgahan membeli-belah-dan-makan dari Singapura. Itu memandang rendah kepadanya. Johor Bahru ialah ibu negeri negeri paling selatan Malaysia dan pintu masuk tempat semenanjung bertemu republik pulau di seberang air, dengan teras warisan yang mudah dijalani kaki, salah satu kelompok taman tema keluarga terbesar di Asia di ambang pintunya, dan seluruh negeri di belakangnya: pantai di timur, bakau di hujung selatan, serta gunung dan hutan hujan di pedalaman. Panduan ini merangkumi cara lintasan berfungsi, apa yang hendak dilakukan di bandar, taman tema, pesisir dan pedalaman, untuk siapa Johor sesuai, serta satu kesilapan yang memerangkap hampir semua orang — tersilap mengira masa lintasan.

@@ -79,6 +79,14 @@ sources:
 entity: "Putrajaya (ibu kota administratif federal Malaysia)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
 ---
 
 Putrajaya layak dikunjungi, tetapi ia menghukum rencana yang salah. Ibu kota administratif federal Malaysia yang dibangun khusus ini adalah kota dengan **bulevar lebar, bangunan monumental, plaza seremonial, jembatan, dan danau buatan yang besar** — indah, dan dibangun untuk mobil. Landmark-nya tersebar di seluruh presint bernomor, sering kali berjarak satu kilometer atau lebih, dengan sedikit keteduhan di antaranya. Datanglah dengan harapan bisa berjalan santai dari masjid ke taman lalu ke toko-toko dan Anda akan menghabiskan hari yang panas berjalan menempuh jarak yang jauh dan terbuka. Datanglah dengan rencana yang lebih santai dan Putrajaya menjadi salah satu hari santai termudah di dekat Kuala Lumpur.

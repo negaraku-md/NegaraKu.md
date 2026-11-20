@@ -107,6 +107,14 @@ visitFacts:
   permit: 'การดำน้ำ Sipadan ต้องมีใบอนุญาตของ Sabah Parks และจำนวนที่ออกให้แต่ละวันถูกจำกัดอย่างเข้มงวดและจัดสรรผ่านผู้ประกอบการดำน้ำที่ได้รับอนุญาตเท่านั้น จึงควรจองล่วงหน้านาน'
   watch: 'เกาะทาง Sabah ตะวันออกอยู่ในเขตความมั่นคงที่กำหนด (ESSZONE) ใบอนุญาตไม่เคยรับประกัน และมีข้อจำกัดด้านการอนุรักษ์ (รวมถึงการปิดประจำปี) จึงควรเดินทางอย่างรู้ข้อมูลและตรวจสอบคำแนะนำทางการปัจจุบัน'
   next: 'ตรวจสอบโควตาใบอนุญาต Sipadan ค่าธรรมเนียม และการปิดเพื่อการอนุรักษ์ปัจจุบันกับ Sabah Parks หรือผู้ประกอบการดำน้ำที่ได้รับอนุญาตของคุณ'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
 ---
 
 ยอดปะการังเดียวที่ผุดขึ้นหกร้อยเมตรตรงจากพื้นทะเลเซเลเบส หมุนวนด้วยเต่าและพายุทอร์นาโดของปลาสาก สิปาดันคือเหตุผลที่นักดำน้ำจริงจังใส่ซาบาห์ตะวันออกไว้ในรายการ และเป็นเหตุผลที่เศรษฐกิจการท่องเที่ยวทั้งระบบเติบโตขึ้นรอบเมืองเล็ก ๆ ชื่อเซิมปอร์นา แต่ไม่ใช่ที่ที่คุณเพียงโผล่มาและดำน้ำได้ สิปาดันเป็นอุทยานทางทะเลที่ได้รับการคุ้มครองอย่างเข้มงวดที่มีใบอนุญาตรายวันจำกัดโควตา ไม่มีที่พักบนเกาะเอง และมีบริบทเขตความปลอดภัยบนชายฝั่งโดยรอบที่ผู้มาครั้งแรกต้องเข้าใจอย่างสงบและเป็นข้อเท็จจริง คู่มือนี้ครอบคลุมว่าอะไรทำให้การดำน้ำระดับโลก ใบอนุญาตและเพดานรายวันทำงานจริงอย่างไร คุณพักที่ไหน สิปาดันต่างจากอุทยานทางทะเลตุนซาการันใกล้เคียงอย่างไร ภูมิภาคเหมาะกับใคร และควรไปเมื่อไหร่

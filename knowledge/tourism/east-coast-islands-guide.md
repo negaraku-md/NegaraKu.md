@@ -77,6 +77,14 @@ visitFacts:
   permit: 'A compulsory marine-park conservation charge, paid at a counter in the mainland jetty terminal before boarding and separate from your boat fare.'
   watch: 'No single mandated closure, but most island operators shut voluntarily for the northeast monsoon, so near those months confirm boat transfers before paying.'
   next: 'Confirm current conservation fees and marine-park rules with the Department of Fisheries Malaysia.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 Turn up at a Redang beach resort in December and you will likely find the boats gone, the jetty quiet and the dive shop shuttered. The east-coast islands run on a calendar written by the sea, not the tourist brochure — and by a set of marine-park rules most first-timers only discover at the ticket counter.

@@ -96,6 +96,14 @@ visitFacts:
   getThere: 'لا مطار ولا سكة حديد — تصعد طريقاً جبلياً متعرّجاً من Kuala Kubu Bharu إلى The Gap، حيث يبدأ الصعود الأخير، مع فصل حركة الصعود والنزول الآن بين طريقين (كان الطريق الأصلي ذو المسار الواحد يعمل تاريخياً باتجاه واحد بمواقيت محدّدة).'
   watch: 'الطريق الجبلي الضيّق المتعرّج بطيء وعُرضة للإغلاق بعد الأمطار أو الانهيارات الأرضية أو سقوط الأشجار، والتلة نفسها كثيراً ما تكون ضبابية ورطبة، مع خيارات محدودة للطعام والمؤن.'
   next: 'تأكّد من ترتيب الوصول البرّي الحالي وأي إغلاقات مع هيئة الطرق (JKR) قبل أن تسافر.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
 ---
 
 معظم محطّات تلال ماليزيا تبيعك شيئاً — كازينو، أو ضيعة شاي، أو مزرعة فراولة، أو حديقة ترفيه. تلّة فريزر تبيعك غياب كل ذلك. منتشرةً على عنقود من الحواف المشجّرة على [سلسلة تيتيوانغسا](/ar/malaysia/titiwangsa-range)، هي محطة استعمارية صغيرة هادئة ملفوفة بالضباب حيث أعلى ما ستسمعه تغريد الطيور، وحيث تتوقّف السترة عن الشعور بالسخف حتى عند خطّ الاستواء. ولمراقبي الطيور هي أرض شبه مقدّسة؛ ولسواهم هي البديل البطيء الهادئ لجيرانها التلاليّين الأكثر بهرجة. يتناول هذا الدليل ما هي تلّة فريزر فعلاً، ولماذا يأتي مراقبو الطيور، وما يُرى، وكيف يعمل الطريق المتعرّج صعوداً، ولمن يناسب المكان ولمن لا يناسب.

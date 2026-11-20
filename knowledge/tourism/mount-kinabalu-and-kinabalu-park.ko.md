@@ -100,6 +100,14 @@ visitFacts:
   permit: '정상 등반은 허가제입니다: 공원 등반 허가증과 면허를 가진 Sabah Parks 산악 가이드가 모두 필수이고 일일 인원이 제한되며, 거의 모두 공원 운영사를 통해 산장 1박을 사전 예약해야 하니 넉넉히 앞서 예약하십시오.'
   watch: '고도 증세와 체력이 중요하고 산 스스로 날씨를 만드는 힘든 이틀간의 고산 등반이며, 대지진 같은 사건 후 접근로와 경로가 바뀔 수 있으니 최신 정보로 계획하십시오.'
   next: '현재의 허가, 가이드, 숙박 규정과 요금은 Sabah Parks에 확인하십시오.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
 ---
 
 보르네오의 열대우림에서 곧장 4,000미터를 조금 넘는 높이까지 솟아오른 화강암 왕관, 일부 대륙보다 많은 식물 종을 품은 세계유산 공원, 그리고 항공편보다 먼저 예약해야 할 만큼 빡빡하게 제한된 정상 등반 — 키나발루산은 말레이시아에서 가장 유명한 자연 랜드마크이자, 실제로 방문하기에 가장 체계적인 곳 중 하나입니다. 보르네오의 말레이시아 쪽인 사바에 자리하며, 매우 다른 두 부류의 여행자에게 보답합니다. 히말라야와 뉴기니 사이에서 가장 높은 봉우리의 새벽을 좇는 건강하고 조직적인 등반객, 그리고 그저 서늘한 산 공기와 기이한 식충식물, 온천욕을 원하는 당일 여행객입니다. 이 가이드는 둘 다, 그리고 사람들이 출발 전에 흔히 잘못 아는 것들을 다룹니다.

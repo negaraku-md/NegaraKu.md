@@ -78,6 +78,14 @@ visitFacts:
   permit: '의무 해양공원 보존 요금으로, 보트 요금과 별도로 탑승 전 본토 선착장 터미널 창구에서 납부합니다.'
   watch: '단일하게 강제된 휴장은 없지만 대부분의 섬 업체가 북동 몬순에 자발적으로 문을 닫으므로, 그 시기가 가까우면 요금을 내기 전에 보트 이동편을 확인하십시오.'
   next: '현재의 보존 요금과 해양공원 규정은 말레이시아 수산청(Department of Fisheries Malaysia)에 확인하십시오.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 12월에 르당(Redang) 해변 리조트에 도착하면 보트는 사라지고, 부두는 조용하며, 다이빙숍은 닫혀 있는 광경을 마주할 가능성이 큽니다. 동해안 섬들은 관광 안내책자가 아니라 바다가 쓴 달력에 따라 돌아가며 — 대부분의 초행자가 매표소에서야 비로소 알게 되는 일련의 해양공원 규정에 따라 움직입니다.

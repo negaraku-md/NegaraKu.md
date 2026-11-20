@@ -78,6 +78,14 @@ visitFacts:
   permit: 'Une redevance de conservation du parc marin obligatoire, payée à un guichet du terminal de la jetée continentale avant l''embarquement et distincte du prix de votre traversée en bateau.'
   watch: 'Aucune fermeture unique imposée, mais la plupart des opérateurs insulaires cessent volontairement leur activité pendant la mousson du nord-est, alors à l''approche de ces mois confirmez les transferts en bateau avant de payer.'
   next: 'Confirmez les redevances de conservation et les règles des parcs marins en vigueur auprès du Département des pêches de Malaisie (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
 ---
 
 Présentez-vous dans un complexe balnéaire de Redang en décembre et vous trouverez probablement les embarcations absentes, l'embarcadère silencieux et le centre de plongée fermé. Les îles de la côte est suivent un calendrier écrit par la mer, et non par la brochure touristique, et un ensemble de règles de parc marin que la plupart des nouveaux venus ne découvrent qu'au guichet.

@@ -94,6 +94,14 @@ visitFacts:
   permit: 'คาสิโนรับเฉพาะผู้ที่ไม่ใช่มุสลิม และกำหนดอายุขั้นต่ำ การตรวจสอบตัวตน และกฎการแต่งกาย'
   watch: 'ยอดเขามักถูกเมฆปกคลุม หนาวและเปียก พร้อมทิวทัศน์ที่มาแล้วก็ไป และวันหยุดสุดสัปดาห์กับวันหยุดราชการนำมาซึ่งฝูงชนหนาแน่นและแถวยาว'
   next: 'ตรวจสอบกฎการเข้าสวนสนุก กระเช้า และคาสิโนปัจจุบันกับ Resorts World Genting'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 ขับขึ้นถนนภูเขาออกจากความร้อนของกัวลาลัมเปอร์ และสักที่เลยจุดกึ่งกลาง กระจกเริ่มเป็นฝ้าและอากาศกลายเป็นเย็น ภายในหนึ่งชั่วโมงหลังออกจากเมืองหลวง คุณสามารถยืนอยู่ในเมฆที่เกือบ 1,800 เมตร หน้าเมืองรีสอร์ตไฟนีออนที่ซ้อนอยู่บนยอดเขา ความตัดกันนั้น ที่ราบลุ่มเขตร้อนด้านล่าง ยอดเย็นมีหมอกด้านบน ไปถึงได้ในหนึ่งเช้า คือข้อเสนอทั้งหมดของเกนติงไฮแลนด์ส คู่มือนี้ครอบคลุมว่ามันคืออะไรจริง ๆ ขึ้นไปอย่างไร มีอะไรทำ จัดการคาสิโนอย่างมีเหตุผลอย่างไร และข้อผิดพลาดที่ทำให้ผู้มาครั้งแรกสะดุด

@@ -120,6 +120,14 @@ visitFacts:
   permit: 'गुफा-मंदिर सक्रिय पूजा-स्थल हैं, इसलिए मर्यादित वस्त्र पहनें (कंधे और घुटने ढकें) और भीतर शांत रहें।'
   watch: 'ढीली पर्यटन-सामग्री के बावजूद, Kinta Valley एक राष्ट्रीय जियोपार्क है, UNESCO Global Geopark नहीं।'
   next: 'यात्रा से पहले वर्तमान ट्रेन समय-सारणी और किराए KTMB से पुष्ट करें।'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
 ---
 
 टिन ने इपोह को बनाया, और फिर इसने इसे लगभग बिगाड़ भी दिया। किंता नदी पर एक गाँव किंता घाटी के नीचे दबे अयस्क के बल पर ब्रिटिश मलाया के सबसे धनी शहरों में से एक में बदल गया, अपने लिए एक भव्य औपनिवेशिक केंद्र बनाया, और फिर जब टिन की क़ीमत गिरी तो पैसे को बहते देखा। जो इसने रखा वह था स्थापत्य, गुफा मंदिरों से छलनी चूना-पत्थर पहाड़ियाँ, और एक असामान्य रूप से अच्छी रसोई। आज इपोह मलेशिया का सबसे आरामदायक विरासत-और-भोजन शहर ब्रेक है — कुआलालंपुर से एक दिन-यात्रा के लिए पर्याप्त क़रीब, एक सप्ताहांत को पुरस्कृत करने के लिए पर्याप्त समृद्ध। यह गाइड उस भूदृश्य और इतिहास को शामिल करती है जिसने इसे आकार दिया, शहर में और इर्द-गिर्द देखने के लिए क्या है, संक्षेप में भोजन, और वहाँ पहुँचने की व्यावहारिकताएँ।

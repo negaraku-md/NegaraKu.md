@@ -100,6 +100,14 @@ visitFacts:
   permit: 'تتحكّم صباح بهجرتها الخاصة بموجب اتفاقية ماليزيا 1963 (Malaysia Agreement 1963)، فيجتاز كل قادم — بمن فيهم الماليزيون الطائرون من شبه الجزيرة — نقطة تفتيش ويتلقّى تصريح زيارة، بينما يخضع تسلّق Mount Kinabalu والغوص في Sipadan كلٌّ منهما لتصاريح محدودة من Sabah Parks.'
   watch: 'احجز الأبرز الشحيح المحدّد بتصاريح مبكراً وخطّط حول إغلاق Sipadan السنوي في نوفمبر لتعافي الشعاب، لأن هذه الأجزاء تنفد ولا يمكن تأمينها عند الوصول.'
   next: 'تأكّد من قواعد الدخول وتصريح الزيارة والتصاريح الحالية مع دائرة الهجرة الماليزية (Immigration Department of Malaysia) وSabah Parks قبل أن تسافر.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
 ---
 
 بإمكانك أن تطير من كوالالمبور إلى كوتا كينابالو دون مغادرة البلد ومع ذلك تقف في طابور عند منضدة الهجرة حين تهبط. تلك المفاجأة تباغت كثيرًا من الزوّار لأول مرة — وهي أهمّ أمر مفرد ينبغي فهمه قبل أن تخطّط لرحلة إلى صباح. ويمرّ هذا الدليل بالبوّابة، والمعالم البارزة، وقواعد الدخول التي تجعل صباح تبدو كأنها مكان قائم بذاته، لأنها كذلك بمعنى واقعي جدًّا.

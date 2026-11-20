@@ -86,6 +86,14 @@ visitFacts:
   getThere: '쿠알라룸푸르에서 도로로 약 두 시간 운전 거리로, 흔한 주말 여행지입니다.'
   watch: '요일에 맞춰 계획하십시오 — 존커 거리(Jonker Street) 야시장은 금요일부터 일요일 저녁에만 열리고 평일에는 평범한 숍하우스 거리이며 — 무료 사적인 아 파모사(A Famosa) 성문을 교외의 별개 시설인 아파모사 리조트(A''Famosa Resort) 테마파크와 혼동하지 마십시오.'
   next: '방문 전에 현재의 개장 요일과 시간을 바바 & 뇨냐 유산 박물관(Baba & Nyonya Heritage Museum) 공식 웹사이트에서 확인하십시오. 바뀔 수 있습니다.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 해 질 녘 더치 스퀘어(Dutch Square)에 서면 한눈에 다섯 세기를 읽을 수 있습니다. 한쪽에는 연어빛 붉은 네덜란드 시청, 위쪽 언덕에는 포르투갈 시대 교회의 폐허, 영국이 허물려 했던 요새를 한때 지탱했던 돌문, 그리고 — 2분 거리에 — 금요일 밤 시장을 위해 불을 밝힌 중국-말레이 타운하우스 골목이 있습니다. 믈라카는 역사를 큰 도시에 펼쳐 놓지 않습니다. 오후 한나절이면 걸을 수 있는 약 1제곱마일에 켜켜이 쌓아 둡니다. 이를 어떻게 읽고, 그 주변으로 방문을 어떻게 계획하는지 소개합니다.

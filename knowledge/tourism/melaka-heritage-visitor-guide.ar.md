@@ -86,6 +86,14 @@ visitFacts:
   getThere: 'تُقصد برّاً من كوالالمبور، نحو ساعتين بالسيارة — رحلة شائعة في عطلة نهاية الأسبوع.'
   watch: 'خطّط حول يوم الأسبوع — فسوق Jonker Street الليلي يعمل مساء الجمعة إلى الأحد فقط، وفي أيام الأسبوع يكون شارع متاجر-بيوت عادياً — ولا تخلط بين بوابة A Famosa التاريخية المجانية ومنتجع A''Famosa Resort الترفيهي المنفصل خارج البلدة.'
   next: 'تأكّد من أيام الفتح وساعاته الحالية مع الموقع الرسمي لمتحف Baba & Nyonya Heritage قبل زيارتك، فهي تتغيّر.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 قِفْ في الساحة الهولندية عند الغسق وبإمكانك أن تقرأ خمسة قرون في نظرة واحدة: مبنى بلدية هولندي بلون أحمر سلموني في جانب، وأطلال كنيسة من الحقبة البرتغالية على التلة فوقه، وبوابة حجرية رسّخت يومًا قلعةً حاول البريطانيون هدمها، و — على بُعد دقيقتين سيرًا — زقاق من البيوت المدينية الصينية-الملايوية المضاءة الآن لبازار ليلة الجمعة. لا تنشر ملقا تاريخها عبر مدينة كبيرة، بل تكدّسه في نحو ميل مربع واحد يمكنك جوله في بعد ظهيرة واحدة. وإليك كيف تقرؤه، وكيف تخطّط لزيارة حوله.

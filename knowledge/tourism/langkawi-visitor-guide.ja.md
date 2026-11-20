@@ -110,6 +110,14 @@ visitFacts:
   permit: 'Langkawiの免税価格は島内でのみ適用され、本土へ持ち帰る品物はマレーシアの国の旅行者免税枠の対象となり、これは資格を得る最低滞在期間を定め、免税で持ち帰れる酒類、たばこ、土産物の量に上限を設ける。'
   watch: '持ち帰る免税の酒類を買いすぎないこと——安い価格は島で楽しむためのものであり、本土では限られた免税枠しか税関を通れない。'
   next: '現在のフェリーの時刻はフェリー運航会社に、免税枠はRoyal Malaysian Customs Department（RMCD）に確認すること。'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
 ---
 
 99の島々、魚類よりも古い岩石、安いウイスキー、そして推定5.5億年超の岩石でできた山の斜面から吊り下げられたケーブルカー——ランカウイは、マレーシア北西端の沖にあるこの一つの群島に、並外れて多くのものを詰め込んでいます。それはこの国の旗艦とも言える西海岸の休暇の島であり、半島の反対側にあるヤシに縁取られたダイビングの島々とはほとんど逆の論理で成り立っています。本ガイドは、出かける前に本当に大切なことを扱います：人がつまずく免税ルール、風景に背景の物語を与えるユネスコ・ジオパーク、スカイキャブとスカイブリッジ、行く価値のあるボートツアー、そしてランカウイと東海岸のどちらを選ぶか、です。

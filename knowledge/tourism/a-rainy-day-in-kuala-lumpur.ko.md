@@ -79,6 +79,14 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["비 오는 날 쿠알라룸푸르", "KL 실내 활동", "대중교통으로 KL 여행", "KLCC Bukit Bintang 보행로", "Suria KLCC 철도", "Aquaria KLCC 가는 법", "Petrosains", "Muzium Negara MRT", "철도로 가는 KL 쇼핑몰"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'A tropical downpour streaking over an old tile-roofed shophouse on Jalan Panggong in Kuala Lumpur''s old quarter'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
 ---
 
 쿠알라룸푸르의 비는 빠르고 거세게 쏟아져서, 야외 일정은 몇 분 만에 무너질 수

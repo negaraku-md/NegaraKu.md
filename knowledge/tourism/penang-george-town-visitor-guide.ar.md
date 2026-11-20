@@ -38,7 +38,7 @@ faq:
 lang: "ar"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'طِر إلى مطار Penang الدولي جنوب George Town، أو اصل إلى الجزيرة برّاً عبر جسر Penang وجسر Sultan Abdul Halim Muadzam Shah، أو استقل Rapid Ferry من Butterworth إلى واجهة George Town.'
   watch: 'عامل فنّ الشارع كبوابة لا كالقصة كلها، إذ إن بيوت العشائر والمعابد وشوارع متاجر-البيوت هي ما يحميه إدراج اليونسكو فعلاً.'
   next: 'تأكّد من جداول القطار المائل (funicular) وقواعده الحالية مع Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 اهبِط في الجزيرة، واخرُج من التكييف، وأول ما يصفعك هو الرائحة — دخان الـwok، والبخور من معبد صيني، وزهر الفرنجيباني، وملح مضيق ملقا. جورج تاون مكان تقرؤه بقدمَيك: شبكة متراصّة من البيوت المدينية التي يبلغ عمرها قرنًا، حيث يمكن لمسجد ودار عشيرة وكنيسة استعمارية أن تتشارك مربّعًا واحدًا. ويغطّي هذا الدليل ما تراه، وأين تأكل، وكيف تصل إلى الشواطئ والتلة، وكم من الوقت تمنح مدينةً تكافئ البطء.

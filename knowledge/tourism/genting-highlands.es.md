@@ -94,6 +94,14 @@ visitFacts:
   permit: 'El casino admite solo a no musulmanes y exige una edad mínima, verificación de identidad y un código de vestimenta.'
   watch: 'La cima suele estar envuelta en nubes, fría y húmeda, con vistas que van y vienen, y los fines de semana y festivos traen grandes multitudes y largas colas.'
   next: 'Confirme las normas de entrada vigentes del parque temático, el teleférico y el casino con Resorts World Genting.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 Sube por la carretera de montaña dejando atrás el calor de Kuala Lumpur y, en algún punto pasado el ecuador del trayecto, las ventanillas empiezan a empañarse y el aire se vuelve frío. En menos de una hora desde dejar la capital puedes estar de pie entre nubes a casi 1.800 metros, frente a una ciudad-resort de neón apilada en la cima de una montaña. Ese contraste — tierra baja tropical abajo, cima fresca y brumosa arriba, alcanzable en una mañana — es toda la propuesta de Genting Highlands. Esta guía cubre qué es en realidad, cómo subir, qué hay que hacer, cómo tratar el casino con sensatez, y los errores que pillan a los primerizos.

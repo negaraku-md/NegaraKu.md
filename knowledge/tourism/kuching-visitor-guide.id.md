@@ -96,6 +96,14 @@ visitFacts:
   permit: 'Sarawak menjalankan imigrasinya sendiri, jadi semua orang melewati pemeriksaan perbatasan saat tiba bahkan pada penerbangan domestik dari Semenanjung Malaysia — warga asing menerima cap masuk Sarawak tersendiri, jadi bawalah paspor Anda selama perjalanan.'
   watch: 'Perjumpaan dengan orangutan di Semenggoh tidak pernah dijamin, karena kera setengah liar itu bebas mencari makan di hutan sekitarnya — anggaplah setiap perjumpaan sebagai bonus, bukan janji.'
   next: 'Konfirmasikan persyaratan masuk Sarawak terkini dan jadwal taman atau festival dengan Sarawak Tourism Board dan operator resmi taman sebelum Anda bepergian.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
 ---
 
 Anda bisa menyusuri sepanjang tepi sungai Kuching dalam satu malam, melewati benteng kolonial, istana Rajah dan kuil Tionghoa di jalan, menyantap salah satu semangkuk mi terbaik Borneo, dan berpose dengan patung kucing raksasa — semua tanpa meninggalkan kota. Kuching adalah ibu kota dan kota terbesar Sarawak, terletak di Sungai Sarawak di ujung barat daya negara bagian di pulau Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Ia pangkalan kota sungai yang santai tempat sebagian besar perjalanan Sarawak bermula. Panduan ini mencakup kota itu sendiri — tepi lautnya, sejarah era Brooke-nya, Chinatown dan museumnya, serta kucingnya — dan bagaimana ia berfungsi sebagai titik peluncuran bagi hutan hujan dan satwa liar yang mengelilinginya.

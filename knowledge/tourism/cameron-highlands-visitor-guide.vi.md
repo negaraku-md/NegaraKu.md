@@ -91,6 +91,14 @@ visitFacts:
   permit: 'Không cần giấy phép công viên để vào; các tour tham quan nhà máy đồn điền trà BOH là miễn phí, trong khi các chuyến thăm làng Orang Asli nên thực hiện qua một hướng dẫn viên hoặc nhà điều hành địa phương uy tín.'
   watch: 'Đừng coi nó là một thị trấn duy nhất — nó là ba khu định cư với vai trò khác nhau — và lưu ý rằng các vườn trà đóng cửa vào thứ Hai trong khi thời tiết cao nguyên thay đổi nhanh, nên các kế hoạch trong ngày có thể thay đổi.'
   next: 'Hãy xác nhận giờ mở cửa hiện tại và việc đóng cửa thứ Hai trực tiếp với từng địa điểm — trang chính thức của BOH Plantations (bohtea.com) cho các vườn trà và Hội đồng Quận Cameron Highlands (MDCH) cho các điểm thu hút trang trại-và-vườn.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 Bước xuống xe buýt tại Tanah Rata và điều đầu tiên bạn nhận thấy là hơi thở của chính mình — không khí đủ mát để một chiếc áo len không còn cảm thấy lố bịch, ngay cả ở xích đạo. Đó là toàn bộ mấu chốt của Cameron Highlands: một mảng đồi núi ôn đới xếp chồng lên trên Malaysia nhiệt đới, nơi trà mọc thành những luống xanh gọn gàng trên các dãy núi và dâu tây chín trong các nhà lưới ven đường.

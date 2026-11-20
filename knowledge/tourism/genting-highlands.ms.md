@@ -94,6 +94,14 @@ visitFacts:
   permit: 'Kasino hanya membenarkan bukan Islam masuk, dan memerlukan had umur minimum, semakan identiti serta kod pakaian.'
   watch: 'Puncaknya sering diselubungi awan, sejuk dan lembap dengan pemandangan yang datang dan pergi, dan hujung minggu serta cuti umum membawa orang ramai yang sesak dan beratur panjang.'
   next: 'Sahkan peraturan kemasukan taman tema, kereta kabel dan kasino semasa dengan Resorts World Genting.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 Pandu menaiki jalan gunung keluar dari kepanasan Kuala Lumpur dan, di suatu tempat selepas tanda separuh jalan, tingkap mula berkabus dan udara bertukar sejuk. Dalam masa sejam meninggalkan ibu kota anda boleh berdiri dalam awan pada hampir 1,800 meter, di hadapan bandar peranginan neon yang disusun di atas puncak gunung. Kontras itu — tanah pamah tropika di bawah, puncak sejuk berkabus di atas, boleh dicapai dalam satu pagi — ialah keseluruhan tawaran Genting Highlands. Panduan ini merangkumi apa sebenarnya ia, cara naik ke sana, apa yang ada untuk dilakukan, cara menangani kasino dengan bijak, serta kesilapan yang memerangkap pelawat kali pertama.

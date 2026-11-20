@@ -85,6 +85,14 @@ visitFacts:
   permit: '每位访客抵达时都须在码头或公园柜台办理 PERHILITAN 入园准证登记，另缴一笔相机准证费，攀登大汉山（Gunung Tahan）则须聘用持牌向导。'
   watch: '东北季候风可能使河水上涨、扰乱船只与步道，树冠吊桥曾面临封闭，而蚂蟥与潮湿更是常态——请确认通行情况并提前预订向导。'
   next: '请向国家野生动物与国家公园局（PERHILITAN）设于彭亨国家公园的办事处确认当前的准证与入园规定及收费。'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
 ---
 
 黎明时分站在瓜拉大汉码头，望着薄雾从一条比喜马拉雅山还要古老的河流上升腾，你很容易忘记自己距离吉隆坡不过半日路程。国家公园并非人工打造的景点。它是一片活生生的热带雨林，数千万年来大致未受干扰地屹立至今——而进入它，比几乎任何旅客所预期的都更便宜、更简单。

@@ -38,7 +38,7 @@ faq:
 lang: "id"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'Terbanglah ke Bandara Internasional Penang di selatan George Town, atau capai pulau melalui jalan darat lewat Jembatan Penang dan Jembatan Sultan Abdul Halim Muadzam Shah, atau naik Rapid Ferry dari Butterworth ke tepi laut George Town.'
   watch: 'Perlakukan seni jalanan sebagai gerbang, bukan keseluruhan cerita, karena rumah marga, kuil, dan jalan rumah toko itulah yang sebenarnya dilindungi oleh penetapan UNESCO.'
   next: 'Konfirmasikan jadwal dan aturan funikular terkini dengan Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 Mendarat di pulau, melangkah keluar dari pendingin udara, dan hal pertama yang menerpa Anda adalah bau — asap wajan, wangi dupa dari kelenteng Tionghoa, kamboja, dan garam Selat Melaka. George Town adalah tempat yang Anda baca dengan kaki: satu grid padat rumah toko berusia seabad tempat masjid, rumah kongsi dan gereja kolonial bisa berbagi satu blok yang sama. Panduan ini merangkum apa yang perlu dilihat, di mana makan, cara mencapai pantai dan bukit, dan berapa lama waktu yang perlu diberikan kepada sebuah kota yang menghargai kelambatan.

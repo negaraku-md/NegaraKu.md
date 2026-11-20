@@ -90,6 +90,14 @@ visitFacts:
   permit: 'Daftarkan diri di markas besar taman; gua pertunjukan, penelusuran gua petualangan, dan Pinnacles semuanya memerlukan pemandu berlisensi serta pemesanan di muka — pesanlah berminggu-minggu hingga berbulan-bulan sebelumnya.'
   watch: 'Hutan hujan khatulistiwa tanpa musim kemarau yang dapat diandalkan — pendakian Pinnacles dan eksodus kelelawar bergantung cuaca dan dibatalkan saat hujan lebat, jadi sediakan hari cadangan. Batas bagasi pesawat kecil berlaku.'
   next: 'Konfirmasikan jadwal penerbangan, kamar, aturan aktivitas berpemandu, dan biaya terkini dengan situs resmi taman (mulupark.com) dan Sarawak Tourism Board.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 Jauh di dalam hutan hujan Sarawak, tempat gunung batu kapur menjulang lurus dari belantara dan tidak ada jalan yang mencapainya, terletak salah satu lanskap paling luar biasa di Malaysia — dan salah satu kawasan gua paling banyak dipelajari di planet ini. Taman Nasional Gunung Mulu adalah tempat Anda menemukan ruang gua terbesar di dunia, lorong gua yang cukup besar untuk menerbangkan jumbo jet melewatinya, sungai malam berupa jutaan kelelawar, dan hutan di puncak bukit berupa bilah batu kapur yang cukup tajam untuk merobek sepatu bot. Ia juga benar-benar terpencil: Anda tiba dengan pesawat kecil, pergi ke hampir mana saja dengan pemandu, dan memesan berbulan-bulan lebih awal. Panduan ini mencakup apa itu Mulu, apa yang bisa dilihat di bawah tanah dan di atasnya, dua pendakian besar, bagaimana akses bekerja, serta kesalahan yang dibuat pendatang pertama kali.

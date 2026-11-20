@@ -86,6 +86,14 @@ visitFacts:
   getThere: 'Accessible par la route depuis Kuala Lumpur, à environ deux heures de voiture — une excursion de week-end courante.'
   watch: 'Planifiez en fonction du jour de la semaine — le marché nocturne de Jonker Street ne se tient que du vendredi au dimanche soir, et en semaine c''est une rue de maisons-boutiques ordinaire — et ne confondez pas la porte historique gratuite A Famosa avec le parc à thème distinct A''Famosa Resort en dehors de la ville.'
   next: 'Confirmez les jours et horaires d''ouverture en vigueur auprès du site officiel du Baba & Nyonya Heritage Museum avant votre visite, car ils changent.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
 ---
 
 Tenez-vous sur la Dutch Square au crépuscule et vous pouvez lire cinq siècles d'un seul regard : un hôtel de ville néerlandais rouge saumon d'un côté, les ruines d'une église de l'époque portugaise sur la colline au-dessus, une porte de pierre qui ancrait jadis une forteresse que les Britanniques ont tenté de démolir et — à deux minutes à pied — une ruelle de maisons urbaines sino-malaises désormais illuminées pour un bazar du vendredi soir. Melaka ne répartit pas son histoire sur une grande ville. Elle l'empile sur environ un mile carré que vous pouvez parcourir en une après-midi. Voici comment la lire et comment planifier une visite autour d'elle.

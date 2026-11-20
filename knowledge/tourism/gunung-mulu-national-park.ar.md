@@ -90,6 +90,14 @@ visitFacts:
   permit: 'سجّل في مقرّ المنتزه؛ فالكهوف الاستعراضية واستكشاف الكهوف المغامِر وصعود Pinnacles تحتاج جميعها إلى مرشدين مرخّصين وحجز مسبق — احجز قبل أسابيع إلى أشهر.'
   watch: 'غابة مطيرة استوائية بلا موسم جفاف موثوق — فصعود Pinnacles وخروج الخفافيش يعتمدان على الطقس ويُلغيان في الأمطار الغزيرة، لذا اترك أياماً احتياطية. وتنطبق حدود أمتعة الطائرات الصغيرة.'
   next: 'تأكّد من الرحلات والغرف وقواعد الأنشطة المرشَدة ورسومها الحالية مع الموقع الرسمي للمنتزه (mulupark.com) وهيئة سياحة ساراواك (Sarawak Tourism Board).'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
 ---
 
 عميقاً داخل غابة ساراواك المطيرة، حيث ترتفع جبال الحجر الجيري مباشرةً من الأدغال ولا طريق يبلغها، يقع أحد أكثر المشاهد استثناءً في ماليزيا — وأحد أكثر مناطق الكهوف دراسةً على الكوكب. متنزّه جبل مولو الوطني هو حيث تجد أكبر غرفة كهفية في العالم، وممرّاً كهفياً كبيراً بما يكفي لتطير عبره طائرة ضخمة، ونهراً ليلياً من ملايين الخفافيش، وغابة قمم من شفرات الحجر الجيري على تلّة حادّة بما يكفي لتمزّق حذاءً. وهو أيضاً نائٍ فعلاً: تصل على طائرة صغيرة، وتذهب إلى كل مكان تقريباً مع مرشد، وتحجز قبل أشهر. يتناول هذا الدليل ما هو مولو، وما يُرى تحت الأرض وفوقها، والرحلتين الكبيرتين، وكيف يعمل الوصول، والأخطاء التي يقع فيها الزوّار لأول مرة.

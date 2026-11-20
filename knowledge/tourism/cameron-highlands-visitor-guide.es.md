@@ -91,6 +91,14 @@ visitFacts:
   permit: 'No hace falta permiso para entrar en el parque; las visitas a la fábrica de las plantaciones de té BOH son gratuitas, mientras que las visitas a aldeas Orang Asli deberían hacerse a través de un guía u operador local de buena reputación.'
   watch: 'No lo trate como un solo pueblo — son tres asentamientos con funciones distintas — y tenga en cuenta que las plantaciones de té cierran los lunes y que el tiempo en la meseta cambia rápido, así que los planes del día pueden variar.'
   next: 'Confirme los horarios de apertura vigentes y los cierres de los lunes directamente con cada sitio — el sitio oficial de BOH Plantations (bohtea.com) para las plantaciones de té y el Consejo del Distrito de Cameron Highlands (MDCH) para las atracciones de granjas y jardines.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 Baja del autobús en Tanah Rata y lo primero que notas es tu propio aliento — el aire es lo bastante fresco como para que un suéter deje de parecer ridículo, incluso en el ecuador. Ese es todo el sentido de Cameron Highlands: un bloque de montaña templada apilado sobre la Malasia tropical, donde el té crece en pulcra pana verde sobre las lomas y las fresas maduran en túneles de plástico al borde de la carretera.

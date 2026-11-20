@@ -38,7 +38,7 @@ faq:
 lang: "hi"
 sourceContentHash: "d3f6eff7dfce43ca"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,14 @@ visitFacts:
   getThere: 'George Town के दक्षिण में Penang International Airport तक उड़ान भरें, या Penang Bridge और Sultan Abdul Halim Muadzam Shah Bridge के रास्ते स्थल मार्ग से द्वीप तक पहुँचें, या Butterworth से George Town जलतट तक Rapid Ferry लें।'
   watch: 'स्ट्रीट आर्ट को पूरी कहानी के बजाय एक प्रवेशद्वार मानें, क्योंकि वंश-गृह, मंदिर और शॉपहाउस की गलियाँ ही वे चीज़ें हैं जिन्हें UNESCO सूचीकरण वास्तव में संरक्षित करता है।'
   next: 'वर्तमान फ़्युनिक्युलर समय-सारणियाँ और नियम Penang Hill Corporation से पुष्ट करें।'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
 ---
 
 द्वीप पर उतरें, वातानुकूलन से बाहर क़दम रखें, और पहली चीज़ जो आपको टकराती है वह है गंध — कड़ाही का धुआँ, किसी चीनी मंदिर से उठती धूप की सुगंध, फ्रैंजीपानी, और मलक्का जलडमरूमध्य का नमक। जॉर्ज टाउन एक ऐसी जगह है जिसे आप अपने पैरों से पढ़ते हैं: सदी भर पुराने शॉपहाउसों की एक सघन ग्रिड, जहाँ एक मस्जिद, एक कुल-गृह और एक औपनिवेशिक गिरजाघर एक ही ब्लॉक साझा कर सकते हैं। यह गाइड बताता है कि क्या देखें, कहाँ खाएँ, समुद्र तटों और पहाड़ी तक कैसे पहुँचें, और धीमेपन को पुरस्कृत करने वाले शहर को कितना समय दें।

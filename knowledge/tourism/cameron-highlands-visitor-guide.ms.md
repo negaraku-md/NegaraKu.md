@@ -91,6 +91,14 @@ visitFacts:
   permit: 'Tiada permit taman untuk masuk; lawatan kilang ladang teh BOH adalah percuma, manakala lawatan ke perkampungan Orang Asli sebaiknya dibuat melalui pemandu atau pengendali tempatan yang bereputasi.'
   watch: 'Jangan anggap ia sebagai satu pekan — ia tiga petempatan dengan peranan berbeza — dan ambil perhatian bahawa taman teh tutup pada hari Isnin manakala cuaca tanah tinggi berubah dengan cepat, jadi rancangan harian boleh berubah.'
   next: 'Sahkan waktu buka dan penutupan hari Isnin semasa terus dengan setiap tapak — laman rasmi BOH Plantations (bohtea.com) untuk taman teh dan Majlis Daerah Cameron Highlands (MDCH) untuk tarikan ladang-dan-taman.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
 ---
 
 Turun dari bas di Tanah Rata dan perkara pertama yang anda perasan ialah nafas anda sendiri — udaranya cukup sejuk sehingga sehelai baju sejuk tidak lagi terasa janggal, walaupun di garisan khatulistiwa. Itulah intipati Cameron Highlands: satu bongkah tanah tinggi beriklim sederhana yang bertindih di atas Malaysia tropika, tempat teh tumbuh berbaris hijau bagai kordur di atas banjaran dan strawberi masak dalam terowong plastik di tepi jalan.

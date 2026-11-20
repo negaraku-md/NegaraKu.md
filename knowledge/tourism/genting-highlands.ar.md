@@ -94,6 +94,14 @@ visitFacts:
   permit: 'يسمح الكازينو لغير المسلمين فقط، ويشترط حدّاً أدنى للعمر والتحقق من الهوية وقواعد لباس.'
   watch: 'القمة كثيراً ما تكون ملفوفة بالغيوم باردة ورطبة بإطلالات تأتي وتذهب، وتجلب عطلات نهاية الأسبوع والعطلات الرسمية حشوداً كثيفة وطوابير طويلة.'
   next: 'تأكّد من قواعد دخول مدن الملاهي والتلفريك والكازينو الحالية مع Resorts World Genting.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
 ---
 
 اصعد بالسيارة طريق الجبل خارجاً من حرّ كوالالمبور، وعند مكان ما بعد منتصف الطريق، تبدأ النوافذ تتضبّب ويبرد الهواء. وفي غضون ساعة من مغادرة العاصمة يمكن أن تقف في الغيوم على نحو 1,800 متر، أمام مدينة منتجع نيونيّة مكدّسة على قمّة جبل. ذلك التباين — سهل استوائي منخفض أدناه، وقمّة باردة ضبابية أعلاه، تُبلَغ في صباح واحد — هو كامل عرض مرتفعات غنتينغ. يتناول هذا الدليل ما هي فعلاً، وكيف تصل إلى هناك، وما يُفعَل، وكيف تعامل الكازينو بحكمة، والأخطاء التي تباغت الزوّار لأول مرة.

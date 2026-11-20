@@ -103,6 +103,14 @@ visitFacts:
   permit: 'Petronas Twin Towersの入場は1日ごとの人数上限がある時間指定チケット制のため、当日の飛び込みに頼らず、事前にオンラインで予約すること。'
   watch: '市中心部の交通はピーク時に混雑するため、市内を横断する移動では列車のほうが車より速いのが普通である。'
   next: 'Petronas Twin Towersの現在の開場時間とチケット情報は、PETRONAS Twin Towersの公式サイト（petronastwintowers.com.my）で確認すること。'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
 ---
 
 夜明けにクアラルンプール国際空港に降り立てば、1時間以内に、かつて世界の摩天楼を支配した2本の銀色のタワーの足元に立つことができる——レンタカーも、複雑な計画も要らず、ただ列車1本とタップ式のカード1枚だけでよい。この手軽さこそがクアラルンプールの真骨頂である：ここはマレーシアの玄関口であり、主要な見どころが短い鉄道の乗車で隣り合う、コンパクトで安価な首都であり、そしてこの国のほぼすべての次なる旅がここから始まる。
