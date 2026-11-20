@@ -87,6 +87,14 @@ relations:
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
 ---
 
 你的月薪是 RM4,000，而城市里的排屋价格已经飙到五十万令吉——你该从哪里开始找起？答案不是某一项计划，而是一整套政府计划的“菜单”，每一项都瞄准不同的收入区间。选错了，就意味着白白等上几个月的抽签，去抢一间你根本不合资格的房子。

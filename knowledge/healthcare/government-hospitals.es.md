@@ -71,6 +71,14 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital público Malasia", "cargos hospital público", "sistema de derivación hospitalaria", "cargo sala Clase 3", "cargos no ciudadanos hospital", "Akta Fee 1951", "hospital especializado de derivación", "tiempos de espera hospital público"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
 ---
 
 Con el tiquet de cola en la mano, el número ya con más de 80 personas por

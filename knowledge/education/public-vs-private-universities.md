@@ -82,6 +82,14 @@ stayFacts:
   cost: 'The UPU application itself is free, though you buy a 12-digit Unik ID from Bank Simpanan Nasional (BSN) to log in; private-institution fees are set per programme and change, so confirm current figures with UPU''s e-Panduan or the institution.'
   watch: 'The IPTA/IPTS label does not tell you whether a degree is recognised — that depends on whether the specific programme is MQA-accredited on the MQR, which you should check for your exact intake year. You cannot apply to a private university through UPU.'
   next: 'Decide from the qualification you hold, then verify the exact programme and intake on the Malaysian Qualifications Register before enrolling at either type. See the MQA accreditation explainer and Before paying a college deposit.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 Two students with the same SPM results end up in completely different systems.

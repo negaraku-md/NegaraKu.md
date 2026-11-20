@@ -97,6 +97,14 @@ stayFacts:
   cost: '预期有常年学费，外加一次性费用，例如入学费或分班测试费与注册费，可退还按金上限为 RM5,000；发展费或建筑费则一律不得收取。教育部管制的是结构而非金额，因此收费因校、因课程、因地点而差异极大——请直接向每一所学校核实最新数字，而不要轻信比较文章或论坛中的任何数字。'
   watch: '由于没有任何收费由政府设定，即便是同龄的孩子，各校之间的实际价格也差异悬殊，而学费调涨上限为 30%，且每三年最多只可调涨一次。还要为一项 6% 的服务税做好打算：当孩子的常年学费超过 RM60,000 时，按每名学生、每学年征收——这是叠加在学费之上的税项，并非由学校设定。'
   next: '在编列预算之前，先筛选学校，并直接向每一所学校确认其现行收费表与 RM60,000 的税务门槛。关于相关规划，若要担保子女随外籍雇员一同前来，参见《受养人准证或长期社访签证》；若政府学校也在你的比较清单内，参见《申请就读政府学校》。'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
 ---
 
 一所英国课程学校与一所美国课程学校，即便分处同一小镇的两端，在纸面上也是由布城同一个部门发牌照。两者在法律上都不得向家长收取「建校基金」。两者一次调涨学费都不得超过30%。而且两者都不必公布任何由教育部本身设定的数字——因为在教育部所订立的所有规则当中，学额的实际价格从来都不在其中。

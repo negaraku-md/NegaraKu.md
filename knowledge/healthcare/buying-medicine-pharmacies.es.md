@@ -55,6 +55,14 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["comprar medicamentos Malasia", "farmacias Malasia", "Akta Racun 1952", "medicamentos con receta", "medicamentos de venta libre", "Poisons Act 1952", "farmacéutico registrado", "venenos del Grupo B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
 ---
 
 Un cliente pide un jarabe para la tos en el mostrador de la farmacia y es atendido de inmediato. Otro pide antibióticos para un dolor de garganta y se le pide que muestre primero la receta de un médico. Ambas transacciones ocurren en la misma farmacia, el mismo día — la diferencia está en cómo la ley clasifica el medicamento, no en la discreción del farmacéutico.

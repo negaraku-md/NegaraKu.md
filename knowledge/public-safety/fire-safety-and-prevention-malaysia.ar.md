@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["السلامة من الحرائق", "الوقاية من الحرائق", "شهادة الحريق", "perakuan bomba", "fire certificate", "JBPM", "قانون خدمات الإطفاء 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
 ---
 
 لا تمنح النار إنذارًا. ففي غضون دقائق، يمكن لشرارة من مقبس محمّل فوق طاقته أو مقلاة مهجورة أن تسوّي منزلًا بالأرض — وفي عام 2025 وحده، سجّلت [دائرة الإطفاء والإنقاذ الماليزية](/government/fire-and-rescue-department-bomba) (JBPM) ‏16,111 حالة حريق، و98 وفاة، وخسائر ممتلكات تقديرية قدرها RM2.09 مليار. والخبر السار: يمكن منع جميعها تقريبًا، سواء في غرفة معيشتك أو على أرض المصنع.

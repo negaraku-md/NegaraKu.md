@@ -75,6 +75,14 @@ relations:
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
 ---
 
 当85,500名观众在足球决赛之夜挤满TM国家体育场三层看台的弧形结构时，他们正身处马来西亚体育基础设施最宏大的象征之中——但这只是承载国家重大赛事的几座场馆之一。

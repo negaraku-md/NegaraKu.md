@@ -114,6 +114,14 @@ stayFacts:
   cost: 'Tarikannya ialah kelayakan Barat atau China pada kos pengajian dan sara hidup tempatan, jauh lebih rendah berbanding belajar di kampus induk di luar negara — tetapi yuran berbeza mengikut institusi dan program, jadi sahkan angka semasa dengan setiap kampus.'
   watch: 'Ijazah itu mudah alih tetapi pengalamannya bersifat tempatan — saiz kelas, kemudahan dan kehidupan kampus berbeza-beza antara kampus berdiri sendiri dengan kampus education-city yang dikongsi. Program kampus cawangan tetap memerlukan akreditasi MQA dan muncul dalam MQR.'
   next: 'Senarai pendekkan mengikut pengkhususan dan lokasi, sahkan program tepat dalam MQR, dan sahkan kelulusan pengambilan pelajar antarabangsa dengan kampus berkenaan. Lihat panduan Belajar di Malaysia dan perbandingan Universiti awam vs swasta.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 Pada 1998, seorang pelajar di Kuala Lumpur boleh memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Susunan tunggal itu melancarkan satu model yang terus dibangunkan oleh negara sejak itu: import universiti, bukan pelajar.

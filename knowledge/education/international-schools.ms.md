@@ -98,6 +98,14 @@ stayFacts:
   cost: 'Jangkakan yuran pengajian tahunan serta yuran sekali sahaja seperti yuran kemasukan atau ujian penempatan dan yuran pendaftaran, dengan deposit boleh dikembalikan dihadkan pada RM5,000; yuran pembangunan atau bangunan langsung tidak boleh dikenakan. Kementerian mengawal selia strukturnya tetapi bukan jumlahnya, jadi yuran berbeza-beza dengan amat ketara mengikut sekolah, kurikulum dan lokasi — sahkan angka semasa terus dengan setiap sekolah individu dan bukannya mempercayai mana-mana angka dalam artikel perbandingan atau forum.'
   watch: 'Oleh sebab tiada yuran yang ditetapkan oleh kerajaan, harga sebenar berubah dengan ketara antara sekolah walaupun bagi kumpulan umur yang sama, dan kenaikan yuran dihadkan pada 30% tidak lebih daripada sekali setiap tiga tahun. Rancang juga untuk cukai perkhidmatan 6% yang terpakai, bagi setiap murid setiap tahun akademik, apabila yuran tahunan seorang anak melebihi RM60,000 — satu cukai di atas yuran itu, bukan ditetapkan oleh sekolah.'
   next: 'Tapis senarai sekolah dan sahkan jadual yuran semasa serta ambang cukai RM60,000 terus dengan setiap satu sebelum membuat belanjawan. Untuk perancangan berkaitan, lihat Dependant Pass atau Pas Lawatan Sosial Jangka Panjang untuk menaja anak menemani pekerja asing, dan Mendaftar di Sekolah Kerajaan jika sekolah kerajaan turut ada dalam senarai perbandingan anda.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
 ---
 
 Sebuah sekolah berkurikulum British dan sebuah sekolah berkurikulum Amerika yang terletak di hujung bertentangan bandar yang sama, di atas kertas, dilesenkan oleh pejabat yang sama tepat di Putrajaya. Kedua-duanya tidak dibenarkan dari segi undang-undang untuk mengenakan "tabung pembinaan" kepada ibu bapa. Kedua-duanya tidak boleh menaikkan yuran melebihi 30% pada satu-satu masa. Dan kedua-duanya tidak diwajibkan menerbitkan satu angka pun yang ditetapkan oleh Kementerian sendiri — kerana daripada semua peraturan yang ditulis oleh Kementerian, harga sebenar bagi satu tempat duduk bukanlah salah satu daripadanya.

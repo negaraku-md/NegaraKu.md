@@ -122,6 +122,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 Pada Oktober 2026, mobil Formula 1 akan berlomba di Sepang untuk kali pertama dalam sembilan tahun — dan papan tanda di tepi sirkuit akan tertera *Grand Prix Bahrain*. Malaysia bukan tuan rumah di atas kertas, tidak akan membayar biaya lisensi, dan tidak melobi untuk kembali ke kalender balapan. Ia hanya memiliki satu hal yang tiba-tiba dibutuhkan oleh Formula 1: sebuah sirkuit bertaraf tertinggi yang kosong dan siap digunakan.

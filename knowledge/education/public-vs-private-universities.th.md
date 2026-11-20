@@ -83,6 +83,14 @@ stayFacts:
   cost: 'การสมัคร UPU เองนั้นฟรี แม้คุณต้องซื้อ Unik ID 12 หลักจากธนาคาร Bank Simpanan Nasional (BSN) เพื่อเข้าสู่ระบบ; ค่าธรรมเนียมของสถาบันเอกชนกำหนดเป็นรายหลักสูตรและเปลี่ยนแปลงได้ จึงควรยืนยันตัวเลขปัจจุบันกับ e-Panduan ของ UPU หรือกับสถาบัน'
   watch: 'ป้าย IPTA/IPTS ไม่ได้บอกว่าปริญญาได้รับการยอมรับหรือไม่ — สิ่งนั้นขึ้นอยู่กับว่าหลักสูตรเฉพาะนั้นได้รับการรับรองจาก MQA อยู่ในทะเบียน MQR หรือไม่ ซึ่งคุณควรตรวจสอบสำหรับปีรับเข้าที่คุณจะเข้าเรียนจริง และคุณไม่สามารถสมัครมหาวิทยาลัยเอกชนผ่าน UPU ได้'
   next: 'ตัดสินใจจากคุณวุฒิที่คุณถืออยู่ แล้วตรวจสอบหลักสูตรและปีรับเข้าที่แน่นอนในทะเบียนคุณวุฒิมาเลเซีย (MQR) ก่อนสมัครเรียนที่สถาบันประเภทใดก็ตาม ดูบทอธิบายการรับรองของ MQA และเรื่องก่อนจ่ายเงินมัดจำวิทยาลัย'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 นักเรียนสองคนที่มีผล SPM เท่ากันลงเอยในระบบที่ต่างกันโดยสิ้นเชิง คนหนึ่งกรอกแบบฟอร์มรวมศูนย์เพียงฉบับเดียวและรอหลายเดือนกว่าจะได้รับแจ้งว่าถูกจัดให้เข้ามหาวิทยาลัยและหลักสูตรใด อีกคนสมัครโดยตรงต่อมหาวิทยาลัยเอกชนสามแห่งในสัปดาห์เดียวกัน ได้รับข้อเสนอภายในไม่กี่วัน และเลือกที่ใดก็ได้ที่เธอชอบ ไม่มีเส้นทางใด "ดีกว่า" โดยปริยาย — แต่การสับสนว่าแต่ละเส้นทางทำงานอย่างไรคือข้อผิดพลาดที่พบบ่อยที่สุดที่ผู้จบการศึกษาทำเมื่อวางแผนหลัง SPM

@@ -83,6 +83,14 @@ stayFacts:
   cost: 'Bản thân việc nộp đơn UPU là miễn phí, dù bạn phải mua một Unik ID gồm 12 chữ số từ Bank Simpanan Nasional (BSN) để đăng nhập; học phí của cơ sở tư thục được đặt theo từng chương trình và thay đổi, vì vậy hãy xác nhận con số hiện hành với e-Panduan của UPU hoặc với cơ sở.'
   watch: 'Nhãn IPTA/IPTS không cho bạn biết một tấm bằng có được công nhận hay không — điều đó phụ thuộc vào việc chương trình cụ thể có được MQA kiểm định trên MQR hay không, bạn nên tra cứu đúng năm nhập học của mình. Bạn không thể nộp đơn vào một trường đại học tư thục qua UPU.'
   next: 'Hãy quyết định dựa trên bằng cấp bạn đang có, rồi kiểm chứng đúng chương trình và đợt nhập học trên Malaysian Qualifications Register trước khi ghi danh vào bất kỳ loại trường nào. Xem bài giải thích về kiểm định của MQA và bài Trước khi đóng tiền đặt cọc cho trường.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 Hai học sinh có cùng kết quả SPM lại kết thúc trong hai hệ thống hoàn toàn khác nhau.

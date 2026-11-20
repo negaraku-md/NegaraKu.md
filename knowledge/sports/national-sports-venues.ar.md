@@ -75,6 +75,14 @@ relations:
 related: []
 keywords: ["استاد بوكيت جليل الوطني", "stadium nasional bukit jalil", "الفيلودروم الوطني", "velodrom nasional", "حلبة سيبانغ", "litar sepang", "استاد الهوكي الوطني", "stadium hoki nasional", "الملاعب الرياضية في ماليزيا"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
 ---
 
 عندما يملأ 85,500 متفرج منحنى الطبقات الثلاث لاستاد TM الوطني في ليلة نهائي كرة قدم، فإنهم يجلسون داخل أكبر رمز للبنية التحتية الرياضية في ماليزيا — ومع ذلك فهو ليس إلا واحداً من عدة ملاعب تحمل الفعاليات الكبرى للبلاد.

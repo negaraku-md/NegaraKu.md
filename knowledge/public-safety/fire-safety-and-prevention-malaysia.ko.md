@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
 ---
 
 불은 경고하지 않습니다. 단 몇 분 만에 과부하된 콘센트에서 튄 불꽃이나 방치된 냄비가 집을 잿더미로 만들 수 있으며 — 2025년 한 해에만 [말레이시아 소방구조청](/government/fire-and-rescue-department-bomba)(JBPM)은 98명의 사망과 RM2.09십억으로 추정되는 재산 손실을 동반한 16,111건의 화재 사건을 기록했습니다. 다행인 것은 거의 모두가 예방할 수 있다는 점입니다 — 거실에서든 공장 바닥에서든.

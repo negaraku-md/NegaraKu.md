@@ -71,6 +71,14 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["المستشفى الحكومي الماليزي", "رسوم المستشفى الحكومي", "نظام الإحالة في المستشفى", "رسوم جناح الدرجة الثالثة", "رسوم غير المواطنين في المستشفى", "Akta Fee 1951", "المستشفى التخصصي المرجعي", "وقت الانتظار في المستشفى الحكومي"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
 ---
 
 تذكرة الطابور في اليد، والرقم متقدّم عليك بأكثر من 80 شخصًا، واللوحة الرقمية على الجدار ما زالت تعرض رقمًا بعيدًا خلف رقمك — كثيرون عاشوا هذه اللحظة في مستشفى حكومي. لكن بجوار تلك اللوحة تمامًا تُعلَّق أيضًا قائمة رسوم تُظهر لماذا يظل كثيرون يعودون: زيارة قد تكلّف عشرات الرينغيت في عيادة خاصة ليست هنا سوى RM1. السؤال ليس ما إذا كان المستشفى الحكومي يستحق — بل كيف تستخدمه فعلًا بحيث ينطبق الرسم المدعوم، وما الذي يحدّد كم يجب على المرء أن ينتظر.

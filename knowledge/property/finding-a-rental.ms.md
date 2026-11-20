@@ -71,6 +71,14 @@ relations:
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
 framework: explainer
+hero: '/media/property/finding-a-rental/hero.webp'
+heroAlt: 'A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
 ---
 
 Anda menemui satu penyenaraian yang anda suka di sebuah portal, menghantar mesej ke nombor yang tertera, dan seseorang muncul untuk membuka kunci unit itu. Tiada apa-apa dalam pertukaran itu memberitahu anda sama ada orang yang menyerahkan kunci kepada anda dibenarkan secara sah untuk melakukan ini demi bayaran langsung — dan hampir tiada siapa bertanya.

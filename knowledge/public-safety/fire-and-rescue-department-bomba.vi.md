@@ -91,6 +91,14 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'Several identical bright-red Scania Bomba fire engines in matching ''Bomba dan Penyelamat'' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
 ---
 
 Khi một ngôi nhà bốc cháy, một chiếc xe mắc kẹt trong lũ, hoặc một công nhân bị kẹt trong không gian kín, cùng một con số trở thành liên kết đầu tiên giữa nạn nhân và sự trợ giúp — và ở đầu dây đó, thường là Bomba. Hiểu chính xác điều gì được luật pháp trao quyền cho cục này làm rõ tại sao Bomba xuất hiện ở rất nhiều loại tình huống khẩn cấp, chứ không chỉ hỏa hoạn.

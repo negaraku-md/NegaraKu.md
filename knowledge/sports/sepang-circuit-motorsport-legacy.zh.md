@@ -122,6 +122,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 2026年10月，一级方程式赛车将时隔九年再度在雪邦奔驰——而赛道旁的标识牌上写着的是*巴林大奖赛*。马来西亚在纸面上并非主办方，无需支付牌照费，也未曾游说争取重返赛历。它只是碰巧拥有一级方程式突然急需的那样东西：一条空置、就绪、顶级的赛道。

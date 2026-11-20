@@ -127,6 +127,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 अक्टूबर 2026 में, फॉर्मूला 1 कारें नौ वर्षों में पहली बार सेपांग में दौड़ेंगी — और ट्रैक के किनारे के साइनबोर्ड पर लिखा होगा *बहरीन ग्रैंड प्रिक्स*। मलेशिया काग़ज़ पर मेज़बान नहीं है, लाइसेंस शुल्क नहीं चुकाएगा, और उसने कैलेंडर पर वापस आने के लिए पैरवी नहीं की। उसके पास बस वह एक चीज़ थी जिसकी फॉर्मूला 1 को अचानक ज़रूरत पड़ी: एक खाली, तैयार, शीर्ष-श्रेणी का सर्किट।

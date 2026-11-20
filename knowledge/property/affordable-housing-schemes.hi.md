@@ -87,6 +87,14 @@ relations:
 related: []
 keywords: ["किफ़ायती आवास", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "मलेशिया किफ़ायती आवास"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
 ---
 
 आपका वेतन महीने का RM4,000 है और शहर में एक टैरेस घर की क़ीमत पहले ही आधे मिलियन रिंगिट पर पहुँच चुकी है — तो आपको ढूँढना कहाँ से शुरू करना चाहिए? इसका उत्तर कोई एक योजना नहीं, बल्कि सरकारी योजनाओं की एक सूची है, जिनमें से प्रत्येक एक भिन्न आय-बैंड को लक्ष्य करती है। ग़लत योजना चुनने का मतलब है ऐसे घर की बैलट का महीनों इंतज़ार करके समय बरबाद करना जिसके लिए आप शुरू से पात्र ही नहीं थे।

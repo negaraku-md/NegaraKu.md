@@ -55,6 +55,14 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
 ---
 
 ஒரு வாடிக்கையாளர் மருந்தக கவுண்டரில் இருமல் மருந்து கேட்கிறார், உடனே வழங்கப்படுகிறது. மற்றொருவர் தொண்டை வலிக்கு நுண்ணுயிர்க் கொல்லி (antibiotic) கேட்கிறார், அவரிடம் முதலில் மருத்துவரின் மருந்துச்சீட்டைக் காட்டும்படி கேட்கப்படுகிறது. இந்த இரு பரிவர்த்தனைகளும் ஒரே மருந்தகத்தில், ஒரே நாளில் நடக்கின்றன — வேறுபாடு அந்த மருந்தை சட்டம் எவ்வாறு வகைப்படுத்துகிறது என்பதில் உள்ளது, மருந்தாளரின் விருப்புரிமையில் அல்ல.

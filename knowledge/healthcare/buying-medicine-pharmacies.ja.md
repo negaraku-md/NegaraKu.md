@@ -53,6 +53,14 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
 ---
 
 ある客が薬局のカウンターで咳止め薬を求め、その場ですぐに対応された。別の客は喉の痛みに効く抗生物質を求めたが、まず医師の処方箋を提示するよう求められた。この二つの取引は同じ薬局、同じ日に起きた——違いは薬剤師の裁量ではなく、その医薬品を分類する法律にある。

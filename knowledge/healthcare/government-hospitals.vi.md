@@ -71,6 +71,14 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
 ---
 
 Cầm trên tay tấm phiếu số thứ tự, còn hơn 80 người phía trước, và bảng điện tử trên tường vẫn hiển thị một con số cách xa — nhiều người đã từng trải qua khoảnh khắc này tại bệnh viện công. Nhưng bên cạnh tấm bảng đó cũng dán một biểu phí cho thấy vì sao nhiều người vẫn quay lại: một lần khám ở phòng khám tư có thể tốn hàng chục ringgit, còn ở đây chỉ RM1. Câu hỏi không phải là liệu bệnh viện công có đáng hay không — mà là cách sử dụng nó thực sự thế nào để mức phí trợ giá đó áp dụng, và điều gì quyết định một người phải chờ bao lâu.

@@ -71,6 +71,14 @@ relations:
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["الإيجار في ماليزيا", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "وسيط عقارات مسجّل", "registered estate negotiator", "BOVAEP", "LPPEH", "وكيل عقارات ماليزيا", "عمولة الإيجار ماليزيا", "REN Tag"]
 framework: explainer
+hero: '/media/property/finding-a-rental/hero.webp'
+heroAlt: 'A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
 ---
 
 تجد قائمة تعجبك على بوّابة ما، فتراسل الرقم المدرج فيها، فيحضر شخص ليفتح لك الوحدة. لا شيء في هذا التبادل يخبرك ما إذا كان الشخص الذي يسلّمك المفاتيح مسموحًا له قانونًا بفعل ذلك مقابل أجر من الأساس — ولا يكاد يسأل أحد.

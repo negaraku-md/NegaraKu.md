@@ -55,6 +55,14 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["شراء الأدوية في ماليزيا", "الصيدليات في ماليزيا", "Poisons Act 1952", "Akta Racun 1952", "الأدوية بوصفة طبية", "الأدوية دون وصفة", "صيدلي مسجَّل", "سموم المجموعة B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
 ---
 
 يطلب أحد الزبائن دواءً للسعال عند طاولة الصيدلية فيُخدَم على الفور. ويطلب آخر مضاداً حيوياً لالتهاب الحلق فيُطلب منه أولاً إبراز وصفة طبية من طبيب. تحدث المعاملتان في الصيدلية نفسها وفي اليوم نفسه — والفارق يكمن في كيفية تصنيف القانون للدواء، لا في تقدير الصيدلي.

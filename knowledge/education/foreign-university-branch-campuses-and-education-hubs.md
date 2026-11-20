@@ -112,6 +112,14 @@ stayFacts:
   cost: 'The draw is a Western or Chinese credential at local tuition and living costs, far below studying at the home campus abroad — but fees vary by institution and programme, so confirm current figures with each campus.'
   watch: 'The degree is portable but the experience is local — class size, facilities and campus life differ widely between a standalone campus and a shared education-city one. Branch-campus programmes still need MQA accreditation and appear on the MQR.'
   next: 'Shortlist by specialism and location, verify the exact programme on the MQR, and confirm international-enrolment approval with the campus. See Studying in Malaysia and Public vs private universities.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 In 1998, a student in Kuala Lumpur could earn an Australian Monash degree without leaving the country — and pay Malaysian prices for it. That single arrangement launched a model the country has been building on ever since: import the university, not the student.

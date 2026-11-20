@@ -114,6 +114,14 @@ stayFacts:
   cost: 'आकर्षण यह है कि स्थानीय शिक्षण और रहन-सहन की लागत पर पश्चिमी या चीनी प्रमाणपत्र मिलता है, जो विदेश में गृह परिसर में पढ़ाई से कहीं कम है — पर शुल्क संस्थान और कार्यक्रम के अनुसार भिन्न होता है, इसलिए वर्तमान आँकड़ों की पुष्टि प्रत्येक परिसर से करें।'
   watch: 'डिग्री पोर्टेबल है पर अनुभव स्थानीय — किसी स्वतंत्र परिसर और किसी साझा शिक्षा-नगर परिसर के बीच कक्षा का आकार, सुविधाएँ और परिसर-जीवन काफ़ी भिन्न होते हैं। शाखा-परिसर के कार्यक्रमों को भी MQA प्रत्यायन की ज़रूरत होती है और वे MQR पर दर्ज होते हैं।'
   next: 'विशेषज्ञता और स्थान के आधार पर शॉर्टलिस्ट बनाएँ, MQR पर सटीक कार्यक्रम की पुष्टि करें, और परिसर से अंतरराष्ट्रीय-दाख़िला अनुमोदन की पुष्टि करें। देखें मलेशिया में पढ़ाई और सार्वजनिक बनाम निजी विश्वविद्यालय।'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 1998 में, कुआलालंपुर (Kuala Lumpur) का एक छात्र देश छोड़े बिना एक ऑस्ट्रेलियाई Monash उपाधि अर्जित कर सकता था — और उसके लिए मलेशियाई कीमतें चुका सकता था। उस एकल व्यवस्था ने एक ऐसा मॉडल शुरू किया जिस पर देश तब से निर्माण करता आया है: छात्र को नहीं, विश्वविद्यालय को आयात करो।

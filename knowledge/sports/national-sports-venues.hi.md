@@ -75,6 +75,14 @@ relations:
 related: []
 keywords: ["बुकित जलिल राष्ट्रीय स्टेडियम", "stadium nasional bukit jalil", "राष्ट्रीय वेलोड्रोम", "velodrom nasional", "सेपांग सर्किट", "litar sepang", "राष्ट्रीय हॉकी स्टेडियम", "stadium hoki nasional", "मलेशिया के खेल स्थल"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
 ---
 
 जब किसी फुटबॉल फाइनल की रात TM राष्ट्रीय स्टेडियम के तीन-स्तरीय वक्र में 85,500 दर्शक भर जाते हैं, तो वे मलेशिया की खेल अवसंरचना के सबसे बड़े प्रतीक के भीतर बैठे होते हैं — फिर भी यह उन कई स्थलों में से केवल एक है जो राष्ट्र के प्रमुख आयोजनों को वहन करते हैं।

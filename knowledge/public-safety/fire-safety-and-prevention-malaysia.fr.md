@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["sécurité incendie", "prévention des incendies", "certificat d'incendie", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
 ---
 
 Le feu ne prévient pas. En quelques minutes, une étincelle d'une prise

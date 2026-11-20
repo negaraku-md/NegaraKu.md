@@ -121,6 +121,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 2026年10月、F1マシンは9年ぶりにセパンを走る——そしてトラックサイドの看板には*バーレーングランプリ*と記される。マレーシアは書類上の開催国ではなく、ライセンス料を支払うこともなく、カレンダーへの復帰を働きかけたわけでもない。ただ、F1が突如として必要とした唯一のもの——空いていて、準備が整った、最高峰のサーキット——を持っていただけである。

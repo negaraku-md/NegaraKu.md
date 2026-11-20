@@ -70,6 +70,14 @@ relations:
 related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
 ---
 
 Api tidak memberi amaran. Dalam masa beberapa minit, satu percikan dari soket terlebih beban atau kuali yang ditinggalkan boleh meratakan sebuah rumah — dan pada 2025 sahaja, [Jabatan Bomba dan Penyelamat Malaysia](/government/fire-and-rescue-department-bomba) (JBPM) merekodkan 16,111 kes kebakaran dengan 98 kematian dan kerugian harta benda dianggarkan RM2.09 bilion. Berita baiknya: hampir kesemuanya boleh dicegah, sama ada di ruang tamu anda atau di lantai kilang.

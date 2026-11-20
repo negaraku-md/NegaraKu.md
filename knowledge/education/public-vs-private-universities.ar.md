@@ -83,6 +83,14 @@ stayFacts:
   cost: 'طلب UPU نفسه مجاني، وإن كان عليك شراء معرّف Unik ID من 12 رقماً من بنك سيمبانان الوطني (BSN) لتسجيل الدخول؛ أما رسوم المؤسسات الخاصة فتُحدَّد لكل برنامج وتتغيّر، لذا تأكّد من الأرقام الحالية عبر e-Panduan التابع لـ UPU أو لدى المؤسسة.'
   watch: 'لا يخبرك تصنيف IPTA/IPTS بذاته إن كانت الشهادة معترفاً بها — فذلك يتوقّف على ما إذا كان البرنامج المحدد معتمَداً من MQA ومدرَجاً في السجلّ الماليزي للمؤهّلات (MQR)، وهو ما ينبغي أن تتحقّق منه لسنة التحاقك بالضبط. ولا يمكنك التقديم إلى جامعة خاصة عبر UPU.'
   next: 'قرِّر انطلاقاً من المؤهّل الذي تحمله، ثم تحقّق من البرنامج وسنة الالتحاق بالضبط في السجلّ الماليزي للمؤهّلات قبل التسجيل في أيٍّ من النوعين. راجع شرح اعتماد MQA، ومقال قبل دفع عربون الكلية.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 طالبتان بالنتيجة نفسها في امتحان SPM تنتهيان في نظامين مختلفين تماماً. تملأ إحداهما استمارة مركزية واحدة وتنتظر أشهراً لتُخبَر بأيّ جامعة وأيّ تخصّص خُصِّص لها. وتتقدّم الأخرى مباشرة إلى ثلاث جامعات خاصة في الأسبوع نفسه، فتحصل على عرض خلال أيام، وتختار أيّها شاءت. ولا مسار منهما «أفضل» بالإطلاق — لكن الخلط في كيفية عملهما هو أكثر خطأ شائع يرتكبه خرّيجو المدارس عند التخطيط بعد SPM.

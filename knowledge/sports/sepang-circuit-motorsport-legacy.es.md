@@ -122,6 +122,14 @@ keywords:
   - "cuota de organización F1 Sepang"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 En octubre de 2026, los coches de Fórmula 1 correrán en Sepang por primera vez en nueve años — y la cartelería junto a la pista dirá *Gran Premio de Baréin*. Malasia no es la anfitriona sobre el papel, no pagará la cuota de licencia y no hizo presión para volver al calendario. Simplemente tenía la única cosa que la Fórmula 1 necesitó de repente: un circuito vacío, listo y de primer nivel.

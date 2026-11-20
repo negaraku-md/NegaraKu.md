@@ -83,6 +83,14 @@ stayFacts:
   cost: 'UPU 신청 자체는 무료이지만, 로그인을 위해 국민저축은행(Bank Simpanan Nasional, BSN)에서 12자리 Unik ID를 구매해야 합니다. 사립 교육기관의 학비는 프로그램별로 정해지고 바뀌므로, 현재 수치는 UPU의 e-Panduan이나 해당 기관에 확인하십시오.'
   watch: 'IPTA/IPTS 라벨만으로는 학위가 인정되는지 알 수 없습니다 — 그것은 해당 특정 프로그램이 MQR에서 MQA 인증을 보유하는지에 달려 있으며, 본인이 지원할 정확한 입학 연도에 대해 직접 확인해야 합니다. 사립대학에는 UPU를 통해 지원할 수 없습니다.'
   next: '자신이 보유한 자격을 기준으로 결정한 다음, 두 유형 중 어디에 등록하든 그 전에 말레이시아 자격 등록부에서 정확한 프로그램과 입학 회차를 확인하십시오. MQA 인증 해설 글과 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 같은 SPM 성적을 가진 두 학생이 완전히 다른 시스템에 놓입니다. 한 명은 하나의 중앙 양식을 작성하고 어느 대학교와 과정에 배정되었는지 통보받기까지 몇 달을 기다립니다. 다른 한 명은 같은 주에 세 개의 사립대학에 직접 지원하여 며칠 안에 입학 허가를 받고, 마음에 드는 곳을 고릅니다. 어느 경로도 기본적으로 「더 낫지」 않습니다 — 그러나 그것들이 어떻게 작동하는지를 혼동하는 것이 SPM 이후를 계획할 때 졸업생이 저지르는 가장 흔한 실수입니다.

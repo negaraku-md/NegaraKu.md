@@ -122,6 +122,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 2026년 10월, 포뮬러 1 차량이 9년 만에 처음으로 세팡을 달립니다 — 그리고 트랙 옆 광고판에는 *바레인 그랑프리*라고 적힐 것입니다. 말레이시아는 서류상 개최국이 아니고, 라이선스 비용을 내지 않으며, 로비로 캘린더에 복귀한 것도 아닙니다. 그저 포뮬러 1이 갑작스레 필요로 한 단 하나 — 비어 있고, 준비되어 있으며, 최상급인 서킷 — 를 갖고 있었을 뿐입니다.

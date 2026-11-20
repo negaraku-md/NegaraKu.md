@@ -86,6 +86,14 @@ relations:
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
 ---
 
 Gaji anda RM4,000 sebulan dan harga rumah teres di bandar sudah cecah setengah juta ringgit — di mana sepatutnya anda mula mencari? Jawapannya bukan satu skim, tetapi sebuah menu skim kerajaan yang setiap satunya menyasarkan jalur pendapatan berbeza. Memilih yang salah bererti membazir bulan menunggu undian untuk rumah yang anda memang tidak layak.

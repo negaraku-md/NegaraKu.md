@@ -69,6 +69,14 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["निजी अस्पताल मलेशिया", "निजी अस्पताल बिल", "विशेषज्ञ परामर्श शुल्क", "अस्पताल गारंटी पत्र", "अस्पताल जमा राशि", "मदवार बिल", "Act 586", "National Specialist Register", "निजी स्वास्थ्य देखभाल लागत", "private hospital Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
 ---
 
 आप एक ही प्रक्रिया के लिए जाते हैं और बाहर ऐसा महसूस करते हुए निकलते हैं मानो दो बिल एक साथ नत्थी कर दिए गए हों। एक सर्जन की ओर से। एक अस्पताल की ओर से। वे आकार में शायद ही कभी मेल खाते हैं, और लगभग कोई यह नहीं समझाता कि वे पहले स्थान पर अलग क्यों हैं।

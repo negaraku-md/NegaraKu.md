@@ -114,6 +114,14 @@ stayFacts:
   cost: 'El atractivo es una credencial occidental o china con tasas de matrícula y coste de vida locales, muy por debajo de estudiar en el campus de origen en el extranjero, pero las tasas varían según la institución y el programa, así que confirma las cifras actuales con cada campus.'
   watch: 'El título es portátil, pero la experiencia es local: el tamaño de las clases, las instalaciones y la vida en el campus difieren mucho entre un campus independiente y uno compartido en una ciudad educativa. Los programas de los campus filiales también necesitan la acreditación de la MQA y figuran en el MQR.'
   next: 'Haz una preselección por especialización y ubicación, verifica el programa exacto en el MQR y confirma con el campus la autorización para matricular a estudiantes internacionales. Consulta Estudiar en Malasia y Universidades públicas vs privadas.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 En 1998, un estudiante en Kuala Lumpur podía obtener un título australiano de Monash sin salir del país, y pagar por él precios malasios. Ese único acuerdo puso en marcha un modelo sobre el que el país ha estado construyendo desde entonces: importar la universidad, no al estudiante.

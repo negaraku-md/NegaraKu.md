@@ -98,6 +98,14 @@ stayFacts:
   cost: 'Perkirakan biaya pendidikan tahunan ditambah biaya sekali bayar seperti biaya masuk atau ujian penempatan dan biaya pendaftaran, dengan deposit yang dapat dikembalikan dibatasi pada RM5,000; biaya pembangunan atau bangunan sama sekali tidak boleh dikenakan. Kementerian mengatur strukturnya tetapi tidak jumlahnya, jadi biaya sangat berbeda-beda menurut sekolah, kurikulum, dan lokasi — pastikan angka terkini langsung dengan masing-masing sekolah alih-alih mempercayai angka mana pun dalam artikel perbandingan atau forum.'
   watch: 'Karena tidak ada biaya yang ditetapkan pemerintah, harga sebenarnya berayun luas antarsekolah bahkan untuk kelompok usia yang sama, dan kenaikan biaya dibatasi pada 30% tidak lebih dari sekali setiap tiga tahun. Rencanakan pula untuk pajak jasa 6% yang berlaku, per murid per tahun akademik, apabila biaya tahunan seorang anak melebihi RM60,000 — pajak di atas biaya, bukan ditetapkan oleh sekolah.'
   next: 'Susun daftar pendek sekolah dan pastikan jadwal biaya terkini serta ambang pajak RM60,000 langsung dengan masing-masing sebelum membuat anggaran. Untuk perencanaan terkait, lihat Pas Tanggungan atau Pas Lawatan Sosial Jangka Panjang untuk mensponsori anak menyertai seorang pekerja asing, dan Mendaftar ke Sekolah Pemerintah jika sekolah pemerintah juga ada dalam daftar perbandingan Anda.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
 ---
 
 Sebuah sekolah berkurikulum Inggris dan sebuah sekolah berkurikulum Amerika yang terletak di ujung berlawanan kota yang sama, di atas kertas, dilisensikan oleh kantor yang sama persis di Putrajaya. Keduanya secara hukum tidak diperbolehkan mengenakan "dana pembangunan" kepada orang tua. Keduanya tidak boleh menaikkan biaya melebihi 30% pada satu waktu. Dan keduanya tidak diwajibkan menerbitkan satu angka pun yang ditetapkan oleh Kementerian sendiri — karena dari semua peraturan yang ditulis oleh Kementerian, harga sebenarnya untuk satu kursi bukanlah salah satunya.

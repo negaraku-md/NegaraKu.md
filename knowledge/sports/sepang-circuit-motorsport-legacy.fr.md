@@ -122,6 +122,14 @@ keywords:
   - "redevance d'organisation F1 Sepang"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 En octobre 2026, des voitures de Formule 1 rouleront à Sepang pour la première fois en neuf ans — et la signalétique en bord de piste affichera *Grand Prix de Bahreïn*. La Malaisie n'est pas l'hôte sur le papier, ne paiera pas la redevance de licence et n'a pas fait pression pour revenir au calendrier. Elle avait simplement la seule chose dont la Formule 1 avait soudain besoin : un circuit vide, prêt et de premier plan.

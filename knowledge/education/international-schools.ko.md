@@ -97,6 +97,14 @@ stayFacts:
   cost: '연간 학비에 더해 입학비나 배치고사비, 등록비 같은 일회성 수수료를 예상하고, 환급 가능한 보증금은 RM5,000로 제한됩니다; 개발비나 건축비는 전혀 청구할 수 없습니다. 교육부는 구조를 규제하지만 액수는 규제하지 않으므로, 학비는 학교·교육과정·지역에 따라 엄청나게 다릅니다 — 비교 기사나 포럼의 어떤 숫자를 믿기보다 각 학교에 직접 현행 수치를 확인하십시오.'
   watch: '어떤 학비도 정부가 정하지 않으므로, 같은 연령대라도 실제 가격은 학교마다 크게 요동치며, 학비 인상은 3년에 한 번 이하로 30%로 제한됩니다. 또한 학생당 학년당 자녀의 연간 학비가 RM60,000를 초과하는 경우 적용되는 6% 서비스세도 계획하십시오 — 이는 학교가 정하는 것이 아니라 학비 위에 부과되는 세금입니다.'
   next: '학교를 추려 두고, 예산을 세우기 전에 각 학교에 직접 현행 학비표와 RM60,000 과세 기준을 확인하십시오. 관련 계획으로는, 외국인 직원을 동반하는 자녀를 후원하기 위한 「부양가족 패스」나 「장기 사회 방문 패스」를, 그리고 공립학교도 비교 목록에 있다면 「공립학교 등록」을 참조하십시오.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
 ---
 
 같은 도시의 양쪽 끝에 있는 영국식 교육과정 학교와 미국식 교육과정 학교는 서류상 푸트라자야의 완전히 동일한 부서로부터 인가를 받습니다. 어느 쪽도 학부모에게 「건축 기금」을 청구하는 것이 법적으로 허용되지 않습니다. 어느 쪽도 한 번에 학비를 30% 넘게 올릴 수 없습니다. 그리고 어느 쪽도 교육부가 직접 정하는 단 하나의 금액도 공표할 필요가 없습니다. 교육부가 정하는 온갖 규칙에도 불구하고, 자리 하나의 실제 가격은 그중에 없기 때문입니다.

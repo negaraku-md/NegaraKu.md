@@ -122,6 +122,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 ในเดือนตุลาคม 2026 รถฟอร์มูลาวันจะวิ่งที่เซปังเป็นครั้งแรกในรอบเก้าปี และป้ายข้างสนามจะเขียนว่า *กรังด์ปรีซ์บาห์เรน* มาเลเซียไม่ใช่เจ้าภาพบนกระดาษ จะไม่จ่ายค่าธรรมเนียมใบอนุญาต และไม่ได้วิ่งเต้นเพื่อกลับเข้าปฏิทิน มันเพียงมีสิ่งเดียวที่ฟอร์มูลาวันต้องการทันที นั่นคือสนามระดับชั้นนำที่ว่างและพร้อม

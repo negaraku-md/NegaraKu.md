@@ -83,6 +83,14 @@ stayFacts:
   cost: 'UPU விண்ணப்பம் தானே இலவசம்; ஆயினும் உள்நுழைய Bank Simpanan Nasional (BSN) மூலம் 12-இலக்க Unik ID-ஐ வாங்குகிறீர்கள். தனியார் நிறுவனக் கட்டணங்கள் படிப்புக்கு ஏற்ப நிர்ணயிக்கப்பட்டு மாறுகின்றன; எனவே தற்போதைய எண்களை UPU-இன் e-Panduan-இல் அல்லது நிறுவனத்திடம் உறுதிப்படுத்தவும்.'
   watch: 'IPTA/IPTS என்ற பெயர் ஒரு பட்டம் அங்கீகரிக்கப்பட்டதா என்பதைக் கூறாது — அது அந்தக் குறிப்பிட்ட படிப்பு MQR-இல் MQA-அங்கீகாரம் பெற்றுள்ளதா என்பதைப் பொறுத்தது; உங்கள் சரியான சேர்க்கை ஆண்டுக்காக இதைச் சரிபார்க்க வேண்டும். ஒரு தனியார் பல்கலைக்கழகத்திற்கு UPU மூலம் விண்ணப்பிக்க முடியாது.'
   next: 'நீங்கள் வைத்திருக்கும் தகுதியிலிருந்து முடிவு செய்து, பின்னர் இரு வகை நிறுவனங்களிலும் சேர்வதற்கு முன் சரியான படிப்பையும் சேர்க்கையையும் Malaysian Qualifications Register (மலேசியத் தகுதிப் பதிவேடு)-இல் சரிபார்க்கவும். MQA அங்கீகார விளக்கக் கட்டுரையையும், கல்லூரி வைப்புத்தொகை செலுத்துவதற்கு முன் என்பதையும் பார்க்கவும்.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 ஒரே மாதிரியான SPM முடிவுகளைப் பெற்ற இரு மாணவர்கள் முற்றிலும் வேறுபட்ட

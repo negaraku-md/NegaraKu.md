@@ -127,6 +127,14 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
 ---
 
 في أكتوبر 2026، ستنطلق سيارات الفورمولا 1 في سيبانغ لأول مرة منذ تسع سنوات — وستقرأ اللافتات عند جانب المضمار *سباق جائزة البحرين الكبرى*. ماليزيا ليست المستضيف على الورق، ولن تدفع رسم الترخيص، ولم تمارس ضغوطًا لتعود إلى الروزنامة. فقد كانت تملك الشيء الوحيد الذي احتاجته الفورمولا 1 فجأةً: حلبة من الطراز الأول، خالية وجاهزة.

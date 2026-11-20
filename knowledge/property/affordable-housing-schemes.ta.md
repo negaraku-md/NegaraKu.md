@@ -87,6 +87,14 @@ relations:
 related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
 ---
 
 உங்கள் மாத ஊதியம் RM4,000, ஆனால் நகரத்தில் வரிசை வீட்டின் (teres) விலை அரை மில்லியன் ரிங்கிட்டைத் தொட்டுவிட்டது — எங்கிருந்து தேடத் தொடங்க வேண்டும்? பதில் ஏதோ ஒரு திட்டம் அல்ல, மாறாக ஒவ்வொன்றும் வெவ்வேறு வருமான வரம்பை இலக்காகக் கொள்ளும் அரசாங்கத் திட்டங்களின் ஒரு பட்டியல். தவறானதைத் தேர்ந்தெடுப்பது என்பது, நீங்கள் தகுதியே இல்லாத ஒரு வீட்டுக்காக மாதக்கணக்கில் குலுக்கல் காத்திருந்து வீணடிப்பதைக் குறிக்கும்.

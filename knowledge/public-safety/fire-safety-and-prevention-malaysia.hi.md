@@ -71,6 +71,14 @@ relations:
 related: []
 keywords: ["अग्नि सुरक्षा", "अग्नि रोकथाम", "अग्नि प्रमाणपत्र", "perakuan bomba", "fire certificate", "JBPM", "अग्निशमन सेवा अधिनियम 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
 ---
 
 आग कोई चेतावनी नहीं देती। कुछ ही मिनटों में, अधिक भार वाले सॉकेट से निकली चिंगारी या छोड़ी गई कड़ाही किसी घर को ज़मींदोज़ कर सकती है — और अकेले 2025 में, [मलेशिया अग्निशमन एवं बचाव विभाग](/government/fire-and-rescue-department-bomba) (JBPM) ने 98 मौतों और RM2.09 बिलियन के अनुमानित संपत्ति नुकसान के साथ 16,111 अग्नि मामले दर्ज किए। अच्छी ख़बर: उनमें से लगभग सभी रोके जा सकते हैं, चाहे आपके बैठक कक्ष में हों या कारख़ाने के फ़र्श पर।

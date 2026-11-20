@@ -91,6 +91,14 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "मलेशिया अग्निशमन एवं बचाव विभाग", "Fire and Rescue Department", "अग्निशमन सेवा अधिनियम 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'Several identical bright-red Scania Bomba fire engines in matching ''Bomba dan Penyelamat'' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
 ---
 
 जब किसी घर में आग लग जाती है, कोई कार बाढ़ में फँस जाती है, या कोई कर्मचारी किसी तंग जगह में फँस जाता है, तो एक ही नंबर पीड़ित और मदद के बीच पहली कड़ी बन जाता है — और उस लाइन के दूसरे छोर पर, अक्सर, Bomba होता है। यह समझना कि कानून वास्तव में इस विभाग को क्या करने का अधिकार देता है, यह बताता है कि Bomba केवल आग ही नहीं, बल्कि इतने प्रकार की आपात स्थितियों में क्यों पहुँचता है।

@@ -91,6 +91,14 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "دائرة الإطفاء والإنقاذ الماليزية", "Fire and Rescue Department", "قانون خدمات الإطفاء 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'Several identical bright-red Scania Bomba fire engines in matching ''Bomba dan Penyelamat'' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
 ---
 
 حين يشبّ حريق في منزل، أو تحتجز سيارةٌ في فيضان، أو ينحشر عامل في حيّز

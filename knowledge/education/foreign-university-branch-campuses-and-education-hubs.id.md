@@ -114,6 +114,14 @@ stayFacts:
   cost: 'Daya tariknya adalah kredensial Barat atau Tiongkok dengan biaya kuliah dan biaya hidup lokal, jauh lebih rendah daripada kuliah di kampus asal di luar negeri — tetapi biaya bervariasi menurut institusi dan program, jadi pastikan angka terkini dengan masing-masing kampus.'
   watch: 'Gelarnya portabel, tetapi pengalamannya bersifat lokal — ukuran kelas, fasilitas, dan kehidupan kampus sangat berbeda antara kampus mandiri dan kampus yang berbagi di kota pendidikan. Program kampus cabang tetap memerlukan akreditasi MQA dan muncul di MQR.'
   next: 'Susun daftar pendek berdasarkan bidang keahlian dan lokasi, verifikasi program yang tepat di MQR, dan pastikan persetujuan penerimaan mahasiswa internasional dengan kampus tersebut. Lihat Kuliah di Malaysia dan Universitas negeri vs swasta.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 Pada 1998, seorang mahasiswa di Kuala Lumpur dapat memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Pengaturan tunggal itu meluncurkan satu model yang terus dikembangkan oleh negara sejak itu: mengimpor universitas, bukan mahasiswa.

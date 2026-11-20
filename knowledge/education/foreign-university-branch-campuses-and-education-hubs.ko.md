@@ -113,6 +113,14 @@ stayFacts:
   cost: '매력은 해외 본교에서 공부하는 것보다 훨씬 낮은 현지 학비와 생활비로 서구나 중국의 학위를 얻는다는 점입니다 — 다만 학비는 기관과 프로그램에 따라 다르니 현재 수치는 각 캠퍼스에 확인하십시오.'
   watch: '학위는 어디서나 통용되지만 경험은 현지의 것입니다 — 수업 규모, 시설, 캠퍼스 생활은 독립형 캠퍼스와 공유형 교육도시 캠퍼스 사이에서 크게 다릅니다. 분교 캠퍼스 프로그램도 여전히 MQA 인증이 필요하며 MQR에 올라 있습니다.'
   next: '전공과 위치로 후보를 추린 뒤, MQR에서 정확한 프로그램을 확인하고, 외국인 입학 승인 여부를 캠퍼스에 확인하십시오. 말레이시아 유학과 공립 대 사립 대학교 글을 참고하십시오.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 1998년, 쿠알라룸푸르의 한 학생은 나라를 떠나지 않고도 호주 모나시(Monash) 학위를 받을 수 있었고, 그 대가로 말레이시아 가격을 냈습니다. 이 하나의 방식이 이후 말레이시아가 계속 발전시켜 온 모델을 출범시켰습니다. 즉 학생이 아니라 대학교를 들여오는 것입니다.

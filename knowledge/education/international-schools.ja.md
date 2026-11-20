@@ -96,6 +96,14 @@ stayFacts:
   cost: '年間授業料に加え、入学金やプレースメントテスト料、登録料といった一括の費用を見込むこと。返還可能な預り金の上限はRM5,000であり、開発費や建築費はいっさい徴収できない。教育省は構造を規制するが金額は規制しないため、学費は学校・カリキュラム・立地によって大きく異なる——比較記事やフォーラムの数字を信用するのではなく、各校に直接現行の数値を確認すること。'
   watch: 'いかなる学費も政府が設定するものではないため、同じ年齢層であっても実際の金額は学校間で大きく変動し、値上げは上限30%かつ3年に1度までに制限される。また、子どもの年間学費がRM60,000を超える場合に、生徒1人・1学年あたり課される6%のサービス税も見込むこと——これは学費に上乗せされる税であって、学校が設定するものではない。'
   next: '学校を候補として絞り込み、予算を立てる前に各校に現行の学費表とRM60,000の課税基準額を直接確認すること。関連する計画については、外国人従業員に帯同する子どもをスポンサーするための「帯同パス（Dependant Pass）」または「長期社会訪問パス（Long-Term Social Visit Pass）」を、公立学校も比較対象にある場合は「公立学校への就学」を参照。'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
 ---
 
 イギリス式カリキュラムの学校とアメリカ式カリキュラムの学校が、同じ町の反対側に位置していたとしても、書類上はプトラジャヤにある同じ部局からライセンスを受けている。どちらの学校も法律上、保護者に「建築基金」を請求することは認められていない。どちらの学校も一度に30%を超える学費の値上げはできない。そして、どちらの学校も教育省自身が設定する数字を公表する義務を負ってはいない——教育省が定める数々の規則の中に、学籍の実際の価格そのものは含まれていないからである。

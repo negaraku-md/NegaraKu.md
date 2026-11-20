@@ -55,6 +55,14 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["मलेशिया में दवा खरीदना", "मलेशिया में फार्मेसियाँ", "Poisons Act 1952", "Akta Racun 1952", "नुस्खे वाली दवाएँ", "बिना-पर्ची की दवाएँ", "पंजीकृत फार्मासिस्ट", "समूह B ज़हर", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
 ---
 
 एक ग्राहक फार्मेसी काउंटर पर खाँसी की दवा माँगता है और तुरंत सेवा पा जाता है। दूसरा गले की खराश के लिए एंटीबायोटिक्स माँगता है और उससे पहले डॉक्टर का नुस्खा दिखाने को कहा जाता है। दोनों लेन-देन एक ही फार्मेसी में, एक ही दिन होते हैं — अंतर इस बात में है कि कानून दवा को कैसे वर्गीकृत करता है, न कि फार्मासिस्ट के विवेक में।

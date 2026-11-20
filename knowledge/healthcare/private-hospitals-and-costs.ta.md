@@ -69,6 +69,14 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
 ---
 
 நீங்கள் ஒரு செயல்முறைக்காக உள்ளே செல்கிறீர்கள், ஆனால் ஒன்றாக இணைக்கப்பட்ட இரண்டு பில்கள் போல் தோன்றுவதை எடுத்துக்கொண்டு வெளியே வருகிறீர்கள். ஒன்று அறுவை சிகிச்சை நிபுணரிடமிருந்து. மற்றொன்று மருத்துவமனையிடமிருந்து. அவற்றின் அளவு அரிதாகவே பொருந்துகிறது, மேலும் அவை ஏன் முதலிடத்தில் தனித்தனியாக உள்ளன என்பதை கிட்டத்தட்ட யாரும் விளக்குவதில்லை.

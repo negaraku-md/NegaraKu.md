@@ -83,6 +83,14 @@ stayFacts:
   cost: 'UPU आवेदन स्वयं निःशुल्क है, हालाँकि लॉग-इन के लिए आप बैंक सिम्पनन नेशनल (BSN) से 12-अंकों का Unik ID खरीदते हैं; निजी-संस्थान का शुल्क प्रति कार्यक्रम तय होता है और बदलता रहता है, इसलिए वर्तमान आँकड़ों की पुष्टि UPU के e-Panduan या संस्थान से करें।'
   watch: 'IPTA/IPTS लेबल यह नहीं बताता कि कोई डिग्री मान्यता-प्राप्त है या नहीं — यह इस पर निर्भर करता है कि विशिष्ट कार्यक्रम MQR पर MQA-प्रत्यायित है या नहीं, जिसे आपको अपने सटीक दाख़िला वर्ष के लिए जाँचना चाहिए। आप UPU के ज़रिए किसी निजी विश्वविद्यालय में आवेदन नहीं कर सकते।'
   next: 'अपनी धारित योग्यता के आधार पर निर्णय लें, फिर किसी भी प्रकार के संस्थान में नामांकन से पहले मलेशियाई योग्यता रजिस्टर पर सटीक कार्यक्रम और दाख़िले की पुष्टि करें। देखें MQA प्रत्यायन की व्याख्या और कॉलेज डिपॉज़िट भरने से पहले।'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 एक ही SPM परिणाम वाले दो छात्र पूरी तरह अलग-अलग प्रणालियों में पहुँच जाते हैं। एक एक ही केंद्रीकृत फ़ॉर्म भरती है और महीनों प्रतीक्षा करती है कि उसे बताया जाए कि कौन-सा विश्वविद्यालय और पाठ्यक्रम उसे सौंपा गया है। दूसरी उसी सप्ताह तीन निजी विश्वविद्यालयों में सीधे आवेदन करती है, कुछ ही दिनों में प्रस्ताव पा लेती है, और जो पसंद हो उसे चुन लेती है। दोनों में से कोई भी रास्ता स्वतः «बेहतर» नहीं है — पर यह गड्डमड्ड कर देना कि वे कैसे काम करते हैं, SPM के बाद योजना बनाते समय स्कूल छोड़ने वालों की सबसे आम गलती है।

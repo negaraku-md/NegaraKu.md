@@ -71,6 +71,14 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hôpital public Malaisie", "frais hôpital public", "système d'orientation hospitalière", "frais salle Classe 3", "frais non-citoyens hôpital", "Akta Fee 1951", "hôpital spécialisé d'orientation", "délais d'attente hôpital public"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
 ---
 
 Ticket de file d'attente en main, le numéro déjà à plus de 80 personnes devant

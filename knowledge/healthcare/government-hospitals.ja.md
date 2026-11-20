@@ -69,6 +69,14 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
 ---
 
 整理券を手に、前には80人以上の番号——それでも壁のデジタル表示板が示す番号は

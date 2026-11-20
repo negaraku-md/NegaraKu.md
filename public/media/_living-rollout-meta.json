@@ -817,5 +817,449 @@
         "kb": 160
       }
     ]
+  },
+  "healthcare/government-hospitals": {
+    "hero": {
+      "file": "/media/healthcare/government-hospitals/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital",
+      "alt": "Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade",
+      "kb": 166
+    },
+    "body": [
+      {
+        "file": "/media/healthcare/government-hospitals/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Maternity block (Hospital Bersalin) at Hospital Kuala Lumpur, with the KLCC skyline behind",
+        "alt": "The pink modernist maternity building of Hospital Kuala Lumpur seen past trees, with Kuala Lumpur city towers in the distance",
+        "kb": 172
+      },
+      {
+        "file": "/media/healthcare/government-hospitals/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rehabilitation Medicine Department (Jabatan Perubatan Rehabilitasi) building at Hospital Kuala Lumpur",
+        "alt": "A single-storey department building at Hospital Kuala Lumpur with a blue Malay signboard reading Jabatan Perubatan Rehabilitasi and cars parked in front",
+        "kb": 180
+      }
+    ]
+  },
+  "healthcare/private-hospitals-and-costs": {
+    "hero": {
+      "file": "/media/healthcare/private-hospitals-and-costs/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor",
+      "alt": "The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre",
+      "kb": 113
+    },
+    "body": [
+      {
+        "file": "/media/healthcare/private-hospitals-and-costs/body-1.webp",
+        "credit": "Vano111ru / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Prince Court Medical Centre, a private hospital in Kuala Lumpur",
+        "alt": "The modern building of Prince Court Medical Centre in Kuala Lumpur, with its gold wordmark on the facade and a city road sign in the foreground",
+        "kb": 179
+      },
+      {
+        "file": "/media/healthcare/private-hospitals-and-costs/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sunway Medical Centre and the adjoining BRT/LRT station in Bandar Sunway",
+        "alt": "Sunway Medical Centre buildings at dusk beside a covered elevated transit station, with the SunMed signage lit up",
+        "kb": 130
+      }
+    ]
+  },
+  "healthcare/buying-medicine-pharmacies": {
+    "hero": {
+      "file": "/media/healthcare/buying-medicine-pharmacies/hero.webp",
+      "credit": "Dominic Nelson / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor",
+      "alt": "A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage",
+      "kb": 150
+    },
+    "body": [
+      {
+        "file": "/media/healthcare/buying-medicine-pharmacies/body-1.webp",
+        "credit": "Dominic Nelson / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Farmasi Sinar, an independent neighbourhood community pharmacy in Kluang, Johor",
+        "alt": "A single-storey independent community pharmacy with blue Farmasi Sinar signage, cars parked outside under a clear sky in Malaysia",
+        "kb": 180
+      },
+      {
+        "file": "/media/healthcare/buying-medicine-pharmacies/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Outpatient pharmacy (Farmasi) entrance at Hospital Sultanah Nora Ismail, a government hospital in Batu Pahat, Johor",
+        "alt": "The outpatient pharmacy entrance inside a Malaysian government hospital, with yellow and blue Farmasi signs and a World Pharmacist Day banner, no people visible",
+        "kb": 93
+      }
+    ]
+  },
+  "property/affordable-housing-schemes": {
+    "hero": {
+      "file": "/media/property/affordable-housing-schemes/hero.webp",
+      "credit": "Brownc / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "People's Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur",
+      "alt": "Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky",
+      "kb": 179
+    },
+    "body": [
+      {
+        "file": "/media/property/affordable-housing-schemes/body-1.webp",
+        "credit": "Brownc / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a row of People's Housing Programme (PPR) high-rise flats with a resident car park in Bukit Jalil, Kuala Lumpur",
+        "alt": "A long row of cream, red-roofed public-housing tower blocks in Bukit Jalil, each unit lettered, with cars parked along the estate road and greenery and a city skyline in the distance",
+        "kb": 147
+      },
+      {
+        "file": "/media/property/affordable-housing-schemes/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a PPR public-housing block (Gugusan Kemuning) in Kota Damansara, Selangor",
+        "alt": "A single mustard-and-white public-housing apartment block in Kota Damansara seen from below against an overcast sky, its many identical units fitted with window grilles and air-conditioners, framed by a tree branch",
+        "kb": 168
+      }
+    ]
+  },
+  "property/finding-a-rental": {
+    "hero": {
+      "file": "/media/property/finding-a-rental/hero.webp",
+      "credit": "Pradana Aumars / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "a modern residential condominium tower in North Kiara, Kuala Lumpur",
+      "alt": "A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky",
+      "kb": 157
+    },
+    "body": [
+      {
+        "file": "/media/property/finding-a-rental/body-1.webp",
+        "credit": "philip.mallis / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "mid-market residential apartment blocks in suburban George Town, Penang",
+        "alt": "Two large cream-and-maroon residential apartment blocks with rows of balconies and air-conditioner units in suburban George Town, Penang, their lower floors screened by trees",
+        "kb": 169
+      },
+      {
+        "file": "/media/property/finding-a-rental/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "modern high-rise condominium towers (Orion Condominium and Sky Residences) in Kuala Lumpur",
+        "alt": "A cluster of tall modern condominium towers with tiered balconies in Kuala Lumpur, seen from street level against a pale overcast sky",
+        "kb": 174
+      }
+    ]
+  },
+  "sports/national-sports-venues": {
+    "hero": {
+      "file": "/media/sports/national-sports-venues/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur",
+      "alt": "The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky",
+      "kb": 175
+    },
+    "body": [
+      {
+        "file": "/media/sports/national-sports-venues/body-1.webp",
+        "credit": "Phalinn Ooi / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the interior bowl and tensile roof of the Bukit Jalil National Stadium packed for a match at night",
+        "alt": "The vast interior of the Bukit Jalil National Stadium at night, its sweeping white tensile roof lit over a full house of spectators ringing the green pitch and red running track",
+        "kb": 174
+      },
+      {
+        "file": "/media/sports/national-sports-venues/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the exterior of Axiata Arena, the indoor arena of the National Sports Complex in Bukit Jalil",
+        "alt": "The silver louvred facade of Axiata Arena in Bukit Jalil, carrying the Axiata arena name and logo above its curved glass entrance, flanked by young trees under a grey sky",
+        "kb": 171
+      }
+    ]
+  },
+  "sports/sepang-circuit-motorsport-legacy": {
+    "hero": {
+      "file": "/media/sports/sepang-circuit-motorsport-legacy/hero.webp",
+      "credit": "Morio / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue's signature architecture, seen from trackside",
+      "alt": "The vast pale fan-shaped tensile roof canopy of Sepang International Circuit's main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky",
+      "kb": 121
+    },
+    "body": [
+      {
+        "file": "/media/sports/sepang-circuit-motorsport-legacy/body-1.webp",
+        "credit": "Morio / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Formula One field racing wheel-to-wheel down the Sepang circuit at the start of the 2015 Malaysian Grand Prix",
+        "alt": "A tightly packed pack of Formula One cars in team liveries fanning across the wide asphalt of Sepang's start-finish stretch on the opening lap, their tyres leaving dark marks on the track under bright sun",
+        "kb": 157
+      },
+      {
+        "file": "/media/sports/sepang-circuit-motorsport-legacy/body-2.webp",
+        "credit": "CK Tan / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "an aerial view of the full Sepang International Circuit showing its distinctive looping track layout and paddock, with Kuala Lumpur International Airport beyond",
+        "alt": "A high aerial shot of the Sepang International Circuit set in green countryside, its grey ribbon of track winding in sweeping loops around the central grandstand and pit complex, with the runways and terminals of KLIA visible in the hazy distance above",
+        "kb": 65
+      }
+    ]
+  },
+  "public-safety/fire-and-rescue-department-bomba": {
+    "hero": {
+      "file": "/media/public-safety/fire-and-rescue-department-bomba/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah",
+      "alt": "Several identical bright-red Scania Bomba fire engines in matching 'Bomba dan Penyelamat' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky",
+      "kb": 176
+    },
+    "body": [
+      {
+        "file": "/media/public-safety/fire-and-rescue-department-bomba/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a single red Bomba heavy rescue truck parked at the fire station in Sandakan, Sabah",
+        "alt": "A red Bomba four-wheel-drive fire-and-rescue truck with a canvas-covered rear bed and the department crest on its door, parked on the forecourt of a red-roofed fire station with a palm tree behind",
+        "kb": 141
+      },
+      {
+        "file": "/media/public-safety/fire-and-rescue-department-bomba/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the facade of the Jalan Kubu fire station (Balai Bomba dan Penyelamat) in Melaka, with the word BOMBA spelt large across its engine-bay shutters",
+        "alt": "The front of a three-storey fire station painted beige and terracotta, its row of roller shutters spelling out BOMBA in large red letters beneath a sign reading 'Balai Bomba dan Penyelamat Jalan Kubu', with strings of red lanterns strung across the facade",
+        "kb": 114
+      }
+    ]
+  },
+  "public-safety/fire-safety-and-prevention-malaysia": {
+    "hero": {
+      "file": "/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond",
+      "alt": "A bright-red Mercedes-Benz Atego Bomba fire engine with 'BOMBA' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light",
+      "kb": 168
+    },
+    "body": [
+      {
+        "file": "/media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the open side lockers of a Malaysian Bomba fire engine displaying its firefighting and rescue equipment",
+        "alt": "The side of a red 'Bomba dan Penyelamat' fire engine with its roller compartments open to show neatly stowed coiled hoses, a hose reel, breathing apparatus, a portable generator and other rescue gear",
+        "kb": 171
+      },
+      {
+        "file": "/media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a red Bomba emergency rescue van deployed in a rural kampung in Ranau, Sabah",
+        "alt": "A red Toyota Hiace Bomba rescue van in 'Bomba dan Penyelamat' livery with yellow BOMBA lettering and the department crest, parked on grass beside trees in a rural village setting",
+        "kb": 172
+      }
+    ]
+  },
+  "education/international-schools": {
+    "hero": {
+      "file": "/media/education/international-schools/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor",
+      "alt": "A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky",
+      "kb": 163
+    },
+    "body": [
+      {
+        "file": "/media/education/international-schools/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Help_International_School.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the curved modern main building of HELP International School, an international school in Subang Bestari, Selangor",
+        "alt": "A multi-storey international-school building with a rounded glass-and-stone facade in red and grey, cars and motorcycles parked in front",
+        "kb": 141
+      },
+      {
+        "file": "/media/education/international-schools/body-2.webp",
+        "credit": "Mushamir / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the covered drive-through entrance of the International School of Kuala Lumpur's Ampang Hilir campus",
+        "alt": "A clean modern steel-and-glass school entrance canopy and guardhouse beside a crossing, framed by trees under a bright sky",
+        "kb": 174
+      }
+    ]
+  },
+  "education/foreign-university-branch-campuses-and-education-hubs": {
+    "hero": {
+      "file": "/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp",
+      "credit": "Faizalrahmat85 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor",
+      "alt": "A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky",
+      "kb": 153
+    },
+    "body": [
+      {
+        "file": "/media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp",
+        "credit": "Cmglee / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the Monash University Malaysia branch campus buildings linked by a glass skybridge, Sunway City, Selangor",
+        "alt": "Large beige campus blocks joined by a glazed elevated skybridge, with the Monash crest on a tower and palms in the courtyard",
+        "kb": 126
+      },
+      {
+        "file": "/media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the red-roofed main gate and administration tower of Xiamen University Malaysia, the first overseas branch campus of a Chinese university, in Sepang, Selangor",
+        "alt": "White campus buildings with tiered red Chinese-style roofs behind a gated entrance plaza under a partly cloudy sky",
+        "kb": 136
+      }
+    ]
+  },
+  "education/public-vs-private-universities": {
+    "hero": {
+      "file": "/media/education/public-vs-private-universities/hero.webp",
+      "credit": "Wiki Farazi / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia's oldest public university, in Kuala Lumpur",
+      "alt": "A long raw-concrete modernist hall with blue 'Dewan Tunku Canselor' lettering and an external staircase, fronted by topiary gardens and an empty road",
+      "kb": 109
+    },
+    "body": [
+      {
+        "file": "/media/education/public-vs-private-universities/body-1.webp",
+        "credit": "Hayatiar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the modern glass Chancellery building of Universiti Teknologi MARA (UiTM), one of Malaysia's largest public universities",
+        "alt": "A multi-storey blue-glass university administration building with a rounded central tower on a landscaped hill, approached by terraced steps lined with flags",
+        "kb": 160
+      },
+      {
+        "file": "/media/education/public-vs-private-universities/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the main entrance gate of Universiti Sains Malaysia (USM), a public research university, in Nibong Tebal, Penang",
+        "alt": "A stone-pillared university entrance gate carrying the 'Universiti Sains Malaysia' sign, flanked by flagpoles and dense greenery under an overcast sky",
+        "kb": 64
+      }
+    ]
   }
 }

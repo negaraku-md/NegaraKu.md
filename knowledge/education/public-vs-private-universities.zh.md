@@ -83,6 +83,14 @@ stayFacts:
   cost: 'UPU申请本身免费，但你需向Bank Simpanan Nasional（BSN，国民储蓄银行）购买一组12位数的Unik ID才能登入；私立院校的学费按课程设定且会变动，因此请向UPU的e-Panduan或相关院校核实当前数字。'
   watch: 'IPTA／IPTS这个标签本身并不能说明某个学位是否获得承认——那取决于该特定课程是否已在MQR上获MQA认证，你应按自己确切的入学年份查证。你无法透过UPU申请私立大学。'
   next: '先依你所持有的学历做决定，再于注册任一类院校之前，在大马学术资格鉴定名册上查证确切的课程与入学年份。参阅MQA认证说明，以及《缴付学院订金前》。'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 两名SPM成绩相同的学生，最终会进入两个完全不同的系统。一人填写一份统一表格，

@@ -114,6 +114,14 @@ stayFacts:
   cost: 'الجاذبية هي الحصول على مؤهّل غربي أو صيني برسوم دراسية وتكاليف معيشة محلية أقلّ بكثير من الدراسة في الحرم الأمّ بالخارج — لكن الرسوم تتفاوت بحسب المؤسسة والبرنامج، فتأكّد من الأرقام الحالية لدى كل حرم.'
   watch: 'الشهادة قابلة للنقل لكن التجربة محلية — فحجم الصفّ والمرافق والحياة الجامعية تتفاوت تفاوتاً واسعاً بين حرم قائم بذاته وآخر مشترك في مدينة تعليمية. ولا تزال برامج الأحرام الفرعية بحاجة إلى اعتماد MQA وتظهر في السجلّ الماليزي للمؤهّلات (MQR).'
   next: 'ضع قائمة مختصرة بحسب التخصّص والموقع، وتحقّق من البرنامج بالضبط في السجلّ الماليزي للمؤهّلات، وأكِّد ترخيص تسجيل الطلاب الدوليين مع الحرم. راجع مقال الدراسة في ماليزيا، ومقال الجامعات العامة مقابل الخاصة.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 في عام 1998، كان بإمكان طالب في كوالالمبور (Kuala Lumpur) أن ينال شهادة من جامعة Monash الأسترالية دون أن يغادر البلاد — وأن يدفع أسعاراً ماليزية مقابلها. أطلق ذلك الترتيب الواحد نموذجاً ما فتئت البلاد تبني عليه منذ ذلك الحين: استيراد الجامعة، لا الطالب.

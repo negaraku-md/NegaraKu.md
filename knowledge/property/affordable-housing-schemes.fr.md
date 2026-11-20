@@ -87,6 +87,14 @@ relations:
 related: []
 keywords: ["logement abordable", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "logement abordable Malaisie"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
 ---
 
 Votre salaire est de RM4,000 par mois et le prix d'une maison en rangée en ville a déjà atteint un demi-million de ringgit — par où devriez-vous même commencer à chercher ? La réponse n'est pas un programme unique, mais un éventail de programmes gouvernementaux, chacun visant une tranche de revenu distincte. Choisir le mauvais signifie gaspiller des mois à attendre le tirage au sort d'un logement pour lequel vous n'étiez de toute façon jamais admissible.

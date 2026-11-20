@@ -71,6 +71,14 @@ relations:
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
 framework: explainer
+hero: '/media/property/finding-a-rental/hero.webp'
+heroAlt: 'A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
 ---
 
 Vous trouvez une annonce qui vous plaît sur un portail, vous écrivez au numéro qui y figure, et quelqu'un se présente pour ouvrir le logement. Rien dans cet échange ne vous dit si la personne qui vous remet les clés est seulement autorisée, en droit, à le faire contre rémunération — et presque personne ne pose la question.

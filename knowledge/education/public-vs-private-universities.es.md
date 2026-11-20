@@ -83,6 +83,14 @@ stayFacts:
   cost: 'La solicitud a la UPU en sí es gratuita, aunque debes adquirir un Unik ID de 12 dígitos del Bank Simpanan Nasional (BSN) para iniciar sesión; las tasas de las instituciones privadas se fijan por programa y cambian, así que confirma las cifras actuales con el e-Panduan de la UPU o con la institución.'
   watch: 'La etiqueta IPTA/IPTS no te dice si un título está reconocido: eso depende de que el programa concreto esté acreditado por la MQA en el MQR, algo que debes comprobar para tu año de ingreso exacto. No puedes solicitar plaza en una universidad privada a través de la UPU.'
   next: 'Decide a partir de la titulación que posees y luego verifica el programa y el año de ingreso exactos en el Registro de Cualificaciones de Malasia antes de matricularte en cualquiera de los dos tipos. Consulta la explicación sobre la acreditación de la MQA y Antes de pagar el depósito de un colegio universitario.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 Dos estudiantes con los mismos resultados del SPM acaban en sistemas por

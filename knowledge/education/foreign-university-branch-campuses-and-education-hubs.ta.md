@@ -113,6 +113,14 @@ stayFacts:
   cost: 'வெளிநாட்டுத் தாய் வளாகத்தில் படிப்பதை விடக் குறைவான, உள்நாட்டுக் கல்வி மற்றும் வாழ்க்கைச் செலவில் ஒரு மேற்கத்திய அல்லது சீனத் தகுதியைப் பெறுவதே இதன் கவர்ச்சி — ஆயினும் கட்டணங்கள் நிறுவனம் மற்றும் படிப்பைப் பொறுத்து மாறுபடுகின்றன; எனவே தற்போதைய எண்களை ஒவ்வொரு வளாகத்துடனும் உறுதிப்படுத்தவும்.'
   watch: 'பட்டம் எடுத்துச்செல்லத்தக்கதாக இருந்தாலும் அனுபவம் உள்ளூர்த்தன்மை கொண்டது — வகுப்பின் அளவு, வசதிகள் மற்றும் வளாக வாழ்க்கை, தனித்த வளாகத்திற்கும் பகிரப்பட்ட கல்வி-நகர வளாகத்திற்கும் இடையே பரவலாக வேறுபடுகின்றன. கிளை-வளாகப் படிப்புகளுக்கும் MQA அங்கீகாரம் தேவை, அவை MQR-இல் தோன்றுகின்றன.'
   next: 'சிறப்புத்துறை மற்றும் இடத்தின் அடிப்படையில் குறுகிய பட்டியல் தயாரித்து, சரியான படிப்பை MQR-இல் சரிபார்த்து, சர்வதேச-சேர்க்கை அனுமதியை வளாகத்துடன் உறுதிப்படுத்தவும். மலேசியாவில் படிப்பது, மற்றும் அரசு vs தனியார் பல்கலைக்கழகங்கள் என்பதைப் பார்க்கவும்.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 1998-ஆம் ஆண்டில், கோலாலம்பூரில் இருந்த ஒரு மாணவர் நாட்டைவிட்டு வெளியேறாமலேயே ஆஸ்திரேலிய மொனாஷ் (Monash) பட்டத்தைப் பெற முடிந்தது — அதற்கு மலேசிய விலையையே செலுத்தினார். அந்த ஒரே ஏற்பாடு, நாடு அன்று முதல் கட்டியெழுப்பி வரும் ஒரு மாதிரியைத் தொடங்கி வைத்தது: மாணவரை அல்ல, பல்கலைக்கழகத்தையே இறக்குமதி செய்.

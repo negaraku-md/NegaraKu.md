@@ -87,6 +87,14 @@ relations:
 related: []
 keywords: ["vivienda asequible", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "vivienda asequible Malasia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
 ---
 
 Tu salario es de RM4,000 al mes y el precio de una casa adosada en la ciudad ya ha llegado a medio millón de ringgit — ¿por dónde deberías siquiera empezar a buscar? La respuesta no es un único programa, sino un menú de programas gubernamentales, cada uno dirigido a un tramo de ingresos distinto. Elegir el equivocado significa desperdiciar meses esperando un sorteo de una vivienda para la que nunca fuiste elegible desde el principio.

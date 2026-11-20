@@ -83,6 +83,14 @@ stayFacts:
   cost: 'Permohonan UPU itu sendiri gratis, meskipun Anda membeli Unik ID 12 digit dari Bank Simpanan Nasional (BSN) untuk masuk; biaya institusi swasta ditetapkan per program dan berubah, jadi pastikan angka terkini dengan e-Panduan UPU atau institusi terkait.'
   watch: 'Label IPTA/IPTS tidak memberi tahu apakah suatu gelar diakui — itu tergantung apakah program tertentu tersebut terakreditasi MQA di dalam MQR, yang sebaiknya Anda periksa untuk tahun penerimaan Anda yang tepat. Anda tidak dapat melamar ke universitas swasta melalui UPU.'
   next: 'Putuskan berdasarkan kualifikasi yang Anda pegang, lalu verifikasi program dan tahun penerimaan yang tepat di Malaysian Qualifications Register sebelum mendaftar pada salah satu jenis institusi. Lihat penjelasan akreditasi MQA dan panduan Sebelum membayar deposit kolej.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
 ---
 
 Dua orang pelajar dengan hasil SPM yang sama dapat berakhir dalam dua sistem

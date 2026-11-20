@@ -71,6 +71,14 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
 ---
 
 ตั๋วคิวอยู่ในมือ หมายเลขข้างหน้าคุณมากกว่า 80 คนแล้ว และป้ายดิจิทัลบนผนังยังคงแสดงหมายเลขที่ต่างกันมาก — หลายคนเคยประสบช่วงเวลานี้ที่โรงพยาบาลรัฐ แต่ข้างป้ายนั้นก็ติดรายการค่าบริการที่แสดงว่าเหตุใดหลายคนจึงยังกลับมา คือการมาพบแพทย์ที่คลินิกเอกชนอาจมีราคาหลายสิบริงกิต แต่ที่นี่เพียง RM1 คำถามไม่ใช่ว่าโรงพยาบาลรัฐคุ้มค่าหรือไม่ — แต่คือวิธีการใช้จริง ๆ อย่างไรให้ค่าบริการที่ได้รับการอุดหนุนนั้นมีผลบังคับใช้ และอะไรเป็นตัวกำหนดว่าคน ๆ หนึ่งต้องรอนานเท่าใด

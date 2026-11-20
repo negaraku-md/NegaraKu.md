@@ -114,6 +114,14 @@ stayFacts:
   cost: 'L''attrait est d''obtenir un diplôme occidental ou chinois à des coûts locaux de scolarité et de vie, bien inférieurs à ceux d''études sur le campus d''origine à l''étranger — mais les frais varient selon l''établissement et le programme, confirmez donc les montants actuels auprès de chaque campus.'
   watch: 'Le diplôme est transférable mais l''expérience est locale — la taille des classes, les installations et la vie de campus diffèrent largement entre un campus autonome et un campus partagé au sein d''une cité de l''éducation. Les programmes des campus délocalisés doivent eux aussi être accrédités par la MQA et figurer sur le MQR.'
   next: 'Présélectionnez par spécialité et emplacement, vérifiez le programme exact sur le MQR, et confirmez l''agrément pour l''inscription d''étudiants internationaux auprès du campus. Voir Étudier en Malaisie et Universités publiques vs privées.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
 ---
 
 En 1998, un étudiant à Kuala Lumpur pouvait obtenir un diplôme australien de Monash sans quitter le pays — et le payer aux prix malaisiens. Cet unique arrangement a lancé un modèle sur lequel le pays bâtit depuis : importer l'université, pas l'étudiant.
