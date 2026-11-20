@@ -4,7 +4,7 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Owner tags: **[you]** = user action (accounts, credentials, approvals — Claude can't
 do these), **[me]** = Claude.
 
-_Last updated: 2026-11-15._
+_Last updated: 2026-11-20._
 
 The product is mature: **13 languages live** (~1,380 topics × 13 ≈ 17,750 article
 files), full analytics stack, AI-friendly infra, Facebook auto-posting, a growing
@@ -27,12 +27,25 @@ not core features.
 ---
 
 ## 🟢 Held locally right now (awaiting `push`)
-- _Nothing held._ `2753c8690` (喝 Drink tranche 2) and everything from earlier
-  sessions are **pushed + live**.
+- _Nothing held._ Everything through 2026-11-20 is **pushed + live + render-verified**:
+  玩 visitFacts cards (18 tourism guides ×13), tourism travel cross-links, the +5
+  Guides (library now **29**, verified live on /living + /doing-business), the Facebook
+  poster R2-OG fix, and the stayFacts 想留下 tranches A–D (27 decisions ×13).
 
 ---
 
 ## 🆕 Shipped & live since 2026-11-08
+- **想留下 stayFacts layer** — "At a glance" decision cards on **27** high-intent
+  "can I / how do I stay" articles ×13 langs (visa routes, PR, property, expat tax,
+  Sdn Bhd, schooling, healthcare, marriage/citizenship [reviewer ashton-tan]) + the
+  re-curated 想留下 journey band on `/living`.
+- **玩 (Play) visitFacts** — `{bestFor,getThere,permit,watch,next}` cards on 18 tourism
+  destination guides ×13 langs (234 files); `permit` states the durable rule, no figures.
+- **Guided paths library → 29 guides** — cards on all 3 non-EDP pillar hubs → own
+  `/guide/<id>` page; latest +5 (Healthcare, Staying-safe, Working-in-Malaysia,
+  Company-compliance, Business-structure) render-verified live ×13 langs.
+- **Facebook poster R2 fix** — OG image URL now honors `OG_BASE_URL` (R2); cleared the
+  error-324 outage that had stopped every scheduled backlog run.
 - **吃喝玩乐 (Eat·Drink·Play) entry-layer** — scenario band on `/explore` + compact
   "体验·Experience" rail on food/festival/tourism hubs (`scenarios.ts`, 11 scenes);
   **festival "at a glance" cards** (`festivalFacts`, 16 festivals × 13 langs);
@@ -62,11 +75,29 @@ not core features.
    What's left is mostly **[you]**-gated: LinkedIn (closest), Instagram, reciprocal
    **dofollow** links from 1company.com + syarikat.ai. Runbooks in
    `offpage-prep-pack-2026-10-24.md` + `owned-backlinks.md`.
-2. **China / 想留下 content** — the P1 of the growth synthesis and the best indirect
-   funnel to 1company: the zh public-safety / law / tax / settling-in / business /
-   property / healthcare cluster, as sourced "可查证的事实" fact cards. **[me]**, no blocker.
+2. **China / 想留下 content** — the P1 of the growth synthesis. **Settling-in is now
+   FULLY SATURATED** (stayFacts on 27 high-intent decisions ×13 langs + the 想留下
+   journey band, all live). Extending it means a **new decision-card vertical** (e.g.
+   留学/studying-in-Malaysia per the china-plan Phase 2), which is a fork to choose,
+   not a silent launch — see "Next decision" below.
 3. **Owned backlinks** — the one off-page win with no platform gate (1company.com +
    syarikat.ai link back dofollow). Both codebases are user-side. **[you]**.
+
+### ⟶ Next decision (the fork, 2026-11-20)
+The on-page content moat is **saturated** for the current verticals (settling-in,
+吃喝玩乐, industries, tools, guides all best-in-class and verified live). The binding
+constraint on "let the world know about Malaysia" is now **off-page reach**, and the
+remaining high-value moves split into two tracks — neither is a pure ungated **[me]**
+item, so this is a genuine choice to surface, not a silent launch:
+- **A. Distribution (fixes the binding constraint; mostly [you]-gated).** LinkedIn is
+  closest (needs the OAuth token → repo secret, then **[me]** flips the workflow on);
+  owned dofollow backlinks need only a paste into 1company.com / syarikat.ai; Wikipedia/
+  Wikidata need Chrome + an account (Claude drafts, never posts).
+- **B. New content vertical (deepens the moat; [me] but discretionary).** e.g. 留学 /
+  studying-in-Malaysia decision cards (china-plan Phase 2), or a second embeddable widget
+  (embeds = backlinks). Additive, but pushes on a non-binding constraint until A improves.
+**Recommendation: A** — specifically unblock LinkedIn (closest to done) and the owned
+backlinks (no platform gate). Both convert a small [you] action into live off-page reach.
 
 ---
 
@@ -172,7 +203,8 @@ best-in-class; the gap is **off-page** (third-party citations, backlinks, domain
 ## 🔧 Redesign / minor / parked
 - [ ] **[you direction → me]** **Compliance calendar** redesign flagged (currently a
   deadline calculator + eligibility checker; user-owned direction).
-- [ ] **`/llms-full.txt`** — on-site path is a dead 404 (OPEN: 301 → R2; curated `/llms.txt` is live).
+- [x] **`/llms-full.txt`** — RESOLVED: 301 → R2 (`og.negaraku.md/_llms/llms-full.txt`,
+  18.6 MB full corpus); curated `/llms.txt` also live. Verified 2026-11-20.
 - [ ] **Wikidata item creation** for articles still missing a QID — needs Chrome.
 - [ ] **[you]** Switch ms IG flagship login email to `ig-ms@negaraku.md`.
 - [ ] **PARKED "will consider"** (cloudsmagazine study): per-article lastVerified date,
