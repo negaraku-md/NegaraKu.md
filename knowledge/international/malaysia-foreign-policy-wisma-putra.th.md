@@ -93,6 +93,14 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Palm-lined approach to Wisma Putra showing the Wisma Putra Kementerian Luar Negeri Malaysia signboard and the ministry tower beyond'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
 ---
 
 เมื่อสหรัฐอเมริกาเป็นนักลงทุนต่างชาติรายใหญ่ที่สุดในเศรษฐกิจมาเลเซีย แต่จีนกลับเป็นคู่ค้ารายใหญ่ที่สุด ประเทศเล็กและเปิดกว้างประเทศหนึ่งย่อมไม่สามารถเข้าข้างฝ่ายใดได้ นี่คือเหตุผลที่นโยบายต่างประเทศของมาเลเซียตลอดหลายทศวรรษยึดโยงอยู่กับคำหนึ่งที่พูดง่ายแต่รักษายาก นั่นคือความเป็นกลาง กระทรวงที่ทำหน้าที่รักษาการถ่วงดุลนั้นทุกวันคือ Wisma Putra

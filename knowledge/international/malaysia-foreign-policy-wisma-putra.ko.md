@@ -93,6 +93,14 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Palm-lined approach to Wisma Putra showing the Wisma Putra Kementerian Luar Negeri Malaysia signboard and the ministry tower beyond'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
 ---
 
 미국이 말레이시아 경제에서 가장 큰 외국인 투자자이지만 중국이 최대 교역 상대국일 때, 작고 개방된 국가는 편을 들 수 없습니다. 그것이 바로 말레이시아 외교 정책이 수십 년간 말하기는 쉽지만 지키기는 어려운 한 단어에 매달려 온 이유입니다: 중립. 그 균형을 매일 지키는 임무를 맡은 부처가 위스마 푸트라입니다.

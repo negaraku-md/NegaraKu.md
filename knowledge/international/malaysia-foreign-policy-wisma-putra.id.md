@@ -93,6 +93,14 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Palm-lined approach to Wisma Putra showing the Wisma Putra Kementerian Luar Negeri Malaysia signboard and the ministry tower beyond'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
 ---
 
 Ketika Amerika Serikat adalah investor asing terbesar dalam ekonomi Malaysia, tetapi Tiongkok adalah mitra dagang terbesarnya, sebuah negara kecil dan terbuka tidak mampu memihak. Itulah sebabnya kebijakan luar negeri Malaysia selama berdekade-dekade berpegang pada satu kata yang mudah disebut tetapi sukar dijaga: netral. Kementerian yang bertugas menjaga keseimbangan itu setiap hari adalah Wisma Putra.

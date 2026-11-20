@@ -93,6 +93,14 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Palm-lined approach to Wisma Putra showing the Wisma Putra Kementerian Luar Negeri Malaysia signboard and the ministry tower beyond'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
 ---
 
 Lorsque les États-Unis sont le plus grand investisseur étranger dans l'économie de la Malaisie, mais que la Chine est son plus grand partenaire commercial, un petit pays ouvert ne peut se permettre de prendre parti. C'est pourquoi la politique étrangère de la Malaisie s'accroche depuis des décennies à un mot facile à dire mais difficile à tenir : la neutralité. Le ministère chargé de maintenir cet équilibre jour après jour est Wisma Putra.

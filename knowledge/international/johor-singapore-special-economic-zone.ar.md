@@ -87,6 +87,14 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "منطقة جوهور-سنغافورة الاقتصادية الخاصة", "Johor Singapore Special Economic Zone", "حوافز JS-SEZ", "JS-SEZ incentives", "المناطق الرئيسية JS-SEZ", "JS-SEZ flagship zones", "المنطقة الاقتصادية ماليزيا سنغافورة", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'A large roadside ''Iskandar Puteri'' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
 ---
 
 اتفقت دولتان على تقاسم قانون ضريبي عبر الحدود. تلك هي الطرافة الهادئة لمنطقة جوهور-سنغافورة الاقتصادية الخاصة — لا مجمَّع صناعي جديد، بل صفقة ثنائية تتيح لجنوب جوهور وسنغافورة أن يسوّقا نفسيهما للمستثمرين العالميين بوصفهما عنوان أعمال واحداً.

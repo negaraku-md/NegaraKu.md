@@ -87,6 +87,14 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'A large roadside ''Iskandar Puteri'' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
 ---
 
 두 국가가 국경을 넘어 세제를 공유하기로 합의하였습니다. 그것이 바로 조호르-싱가포르 경제특구의 조용한 참신함입니다 — 새로운 산업단지가 아니라, 조호르 남부와 싱가포르가 세계 투자자들에게 하나의 사업 주소로 스스로를 홍보할 수 있게 하는 양자 간 합의입니다.

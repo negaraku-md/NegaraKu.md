@@ -4629,5 +4629,57 @@
       "kb": 171
     },
     "body": []
+  },
+  "international/johor-singapore-special-economic-zone": {
+    "hero": {
+      "file": "/media/international/johor-singapore-special-economic-zone/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Iskandar Puteri gateway landmark sign with the zone's commercial towers and cranes rising on the skyline behind it",
+      "alt": "A large roadside 'Iskandar Puteri' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind",
+      "kb": 115
+    },
+    "body": [
+      {
+        "file": "/media/international/johor-singapore-special-economic-zone/body-1.webp",
+        "credit": "Jonashtand / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Forest City, the flagship cross-border development in Johor on the Johor Strait, with towers and villa blocks under construction facing the water toward Singapore",
+        "alt": "Aerial view of Forest City in Johor showing waterfront high-rise towers under construction and rows of white villa blocks along a reclaimed beach beside the strait",
+        "kb": 127
+      }
+    ]
+  },
+  "international/malaysia-foreign-policy-wisma-putra": {
+    "hero": {
+      "file": "/media/international/malaysia-foreign-policy-wisma-putra/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Wisma Putra approach with its entrance signboard, Putrajaya",
+      "alt": "Palm-lined approach to Wisma Putra showing the Wisma Putra Kementerian Luar Negeri Malaysia signboard and the ministry tower beyond",
+      "kb": 166
+    },
+    "body": [
+      {
+        "file": "/media/international/malaysia-foreign-policy-wisma-putra/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wider view of the Wisma Putra entrance and gatehouse, Putrajaya",
+        "alt": "Wide view of the Wisma Putra complex entrance with state flags and gatehouse in Putrajaya",
+        "kb": 170
+      }
+    ]
   }
 }
