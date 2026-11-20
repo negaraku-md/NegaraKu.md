@@ -40,7 +40,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: टाइल वाले पहाड़ी-चोटी के प्रांगण में ऊँचे बहु-स्तरीय pagoda के साथ उठे हुए किनारों वाला लाल-सुनहरा चीनी मंदिर मंडप
+    kind: actual
+    origin: third-party
+    subject: Genting Highlands पर Chin Swee Caves Temple का अलंकृत मंडप और बहु-स्तरीय pagoda
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: राष्ट्रीय झंडे लहराते नाटकीय कोणीय भूरे छतरी-प्रवेशद्वार के ऊपर उठता विशाल सफ़ेद रिज़ॉर्ट होटल का अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: Resorts World Genting का पहाड़ी-चोटी वाला कैसीनो-होटल टावर अपने विशिष्ट नुकीले porte-cochere के साथ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 कुआलालंपुर की गर्मी से बाहर पहाड़ी सड़क पर ऊपर गाड़ी चलाएँ और, आधे रास्ते से कहीं आगे, खिड़कियाँ धुंधलाने लगती हैं और हवा ठंडी हो जाती है। राजधानी छोड़ने के एक घंटे के भीतर आप लगभग 1,800 मीटर पर बादल में खड़े हो सकते हैं, एक पहाड़-शिखर पर जमे एक नियॉन रिज़ॉर्ट शहर के सामने। वह विरोधाभास — नीचे उष्णकटिबंधीय तराई, ऊपर ठंडा धुंधला शिखर, एक सुबह में पहुँच योग्य — गेंटिंग हाइलैंड्स का पूरा प्रस्ताव है। यह गाइड शामिल करती है कि यह वास्तव में क्या है, वहाँ कैसे पहुँचें, करने के लिए क्या है, कैसीनो को समझदारी से कैसे संभालें, और वे ग़लतियाँ जो पहली बार आने वालों को पकड़ती हैं।

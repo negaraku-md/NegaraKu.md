@@ -37,7 +37,7 @@ faq:
     a: "La plongée est possible toute l'année, mais les mers les plus calmes et l'eau la plus claire tombent généralement dans la période plus sèche d'environ avril à octobre-décembre, la visibilité la plus claire se situant souvent tôt dans cette fenêtre (dive-the-world ; PADI). Les permis sont les plus difficiles à obtenir pendant les mois les plus chargés, réservez donc bien à l'avance (Malaysia Travel)."
 
 lang: "fr"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: Tortue verte nageant au-dessus de l'observateur dans une eau turquoise ensoleillée, vue d'en bas
+    kind: actual
+    origin: third-party
+    subject: Une tortue verte glissant dans une eau turquoise éclatante, l'un des spectacles emblématiques de la plongée autour de Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Immense banc tourbillonnant de poissons argentés près d'un récif corallien, avec des rayons de soleil filtrant à travers l'eau bleue, lors d'une plongée à Sipadan
+    kind: actual
+    origin: third-party
+    subject: Un banc dense de poissons de récif et des rayons de soleil au-dessus du corail lors d'une plongée à Sipadan, l'un des meilleurs sites de plongée au monde
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 Un unique pinacle couvert de corail s'élevant de six cents mètres tout droit depuis le plancher de la mer de Célèbes, grouillant de tortues et de tornades de barracudas — Sipadan est la raison pour laquelle les plongeurs sérieux inscrivent l'est de Sabah sur leur liste, et la raison pour laquelle toute une économie du voyage a grandi autour de la petite ville de Semporna. Mais ce n'est pas un endroit où l'on peut simplement se présenter et plonger. Sipadan est un parc marin strictement protégé avec un permis quotidien plafonné, aucun hébergement sur l'île même, et un contexte de zone de sécurité sur la côte environnante que les débutants doivent comprendre avec calme et sens des faits. Ce guide couvre ce qui rend la plongée de classe mondiale, le fonctionnement réel du permis et du plafond quotidien, où l'on séjourne, en quoi Sipadan diffère du parc marin voisin de Tun Sakaran, à qui la région convient, et quand partir.

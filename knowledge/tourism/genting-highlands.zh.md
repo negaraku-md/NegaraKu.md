@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: 一座红金相间、翘角飞檐的中式庙宇亭阁，旁边是一座高耸的多层宝塔，立于铺砖的山顶广场上
+    kind: actual
+    origin: third-party
+    subject: 云顶高原清水岩庙的华丽亭阁与多层宝塔
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: 高耸的白色度假酒店立面，下方是造型奇特的棕色尖顶雨棚入口，悬挂着国旗
+    kind: actual
+    origin: third-party
+    subject: 云顶名胜世界山顶赌场酒店高楼及其标志性的尖顶门廊
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 驾车沿山路驶出吉隆坡的暑热，在过了半程某处，车窗开始起雾、空气转凉。离开首府不到一小时，你就能站在近1,800米高处的云雾之中，面对着一座层叠在山顶上的霓虹度假城市。那种反差——下方是热带低地，上方是凉爽多雾的山顶，一个上午即可抵达——正是云顶高原的全部卖点。本指南涵盖它究竟是什么、如何上山、有什么可做、如何明智地对待赌场，以及让初次到访者措手不及的错误。

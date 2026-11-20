@@ -97,6 +97,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Enormous dark cave mouth set in sheer limestone cliffs draped with rainforest at Deer Cave, Gunung Mulu National Park
+    kind: actual
+    origin: third-party
+    subject: The vast entrance of Deer Cave, one of the world's largest cave passages, framed by towering jungle-clad limestone cliffs at Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Softly lit cavern chamber with smooth pale rock walls and a still underground river inside Clearwater Cave, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: The lit interior of Clearwater Cave with its underground river, part of one of the longest cave systems in Southeast Asia at Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 Deep inside Sarawak's rainforest, where limestone mountains rise straight out of the jungle and no road reaches, sits one of the most extraordinary landscapes in Malaysia — and one of the most studied cave regions on the planet. Gunung Mulu National Park is where you find the world's largest cave chamber, a cave passage big enough to fly a jumbo jet through, a nightly river of millions of bats, and a hilltop forest of limestone blades sharp enough to shred a boot. It is also genuinely remote: you arrive on a small plane, you go almost everywhere with a guide, and you book months ahead. This guide covers what Mulu is, what there is to see underground and above it, the two big treks, how access works, and the mistakes first-timers make.

@@ -37,8 +37,8 @@ faq:
 
 lang: "ta"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "d3f6eff7dfce43ca"
+translationStatus: "in-sync"
+sourceContentHash: "27ba8b4ff7b2dafc"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Penang-இன் George Town-இல் வண்ணமயமான பாரம்பரிய கடைகள் மற்றும் கஃபேக்கள் நிறைந்த Armenian Street-க்கு மேலாகக் கட்டப்பட்ட சிவப்பு சீன விளக்குகள்
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Penang-இன் George Town-இல் பாரம்பரியக் கட்டிடங்களுக்கு முன்னால் வரிசையாக நிற்கும் பூக்கள் மற்றும் குடைகளால் பிரகாசமாக அலங்கரிக்கப்பட்ட பயணிகள் முச்சக்கர வண்டிகளின் வரிசை
+    kind: actual
+    origin: third-party
+    subject: George Town முச்சக்கர வண்டிகள்
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 தீவில் இறங்கி, குளிரூட்டப்பட்ட அறையிலிருந்து வெளியே காலடி எடுத்து வைத்ததும், முதலில் உங்களைத் தாக்குவது வாசனைதான் — கடாய் புகை, சீனக் கோயிலின் அகில் நறுமணம், அரளி மலர், மற்றும் மலாக்கா நீரிணையின் உப்புக் காற்று. George Town என்பது நீங்கள் உங்கள் கால்களால் படிக்கும் ஒரு இடம்: ஒரு மசூதி, ஒரு குலமன்றம் மற்றும் ஒரு காலனித்துவ தேவாலயம் ஒரே தெருத்தொகுதியைப் பகிர்ந்துகொள்ளக்கூடிய, நூற்றாண்டு பழமையான கடைவீடுகளின் ஒரு நெருக்கமான வலைப்பின்னல். என்ன பார்ப்பது, எங்கே உண்பது, கடற்கரைகளையும் மலையையும் எப்படி அடைவது, மேலும் நிதானத்திற்குப் பரிசளிக்கும் ஒரு நகரத்திற்கு எவ்வளவு நேரம் ஒதுக்குவது என்பதை இந்த வழிகாட்டி உள்ளடக்குகிறது.

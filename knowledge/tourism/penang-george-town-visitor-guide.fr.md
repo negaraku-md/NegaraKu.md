@@ -36,9 +36,9 @@ faq:
     a: "Penang est une destination accessible toute l'année au climat tropical chaud et humide. Il peut pleuvoir n'importe quel mois, mais les pluies tendent à être les plus fortes autour des périodes inter-moussons (environ avril–mai et septembre–novembre) ; la fenêtre plus sèche et plus fraîche autour de décembre–février est populaire. Les matinées et les fins d'après-midi sont les moments les plus agréables pour marcher."
 
 lang: "fr"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Lanternes chinoises rouges suspendues au-dessus d'Armenian Street, bordée de boutiques traditionnelles colorées et de cafés, à George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Une rangée de pousse-pousse pour passagers vivement décorés de fleurs et de parasols, alignés devant des bâtiments patrimoniaux à George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Pousse-pousse de George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Atterrissez sur l'île, sortez de la climatisation, et la première chose qui vous frappe est l'odeur : la fumée du wok, l'encens d'un temple chinois, la fleur de frangipanier et le sel du détroit de Malacca. George Town est un lieu qui se lit avec les pieds : une trame compacte de shophouses centenaires où une mosquée, une maison de clan et une église coloniale peuvent partager un seul pâté de maisons. Ce guide couvre ce qu'il faut voir, où manger, comment rejoindre les plages et la colline, et combien de temps consacrer à une ville qui récompense la lenteur.

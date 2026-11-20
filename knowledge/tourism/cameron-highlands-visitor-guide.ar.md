@@ -31,7 +31,7 @@ faq:
     a: "هذه زيارات ثقافية مرشَدة إلى قرى السيماي، تتضمّن عادةً عرضًا للنفخ بالسهام وأحاديث عن سُبل العيش في الغابة. اذهب مع مرشد محلي موثوق، واستأذن قبل تصوير الناس، وتعامل معها بوصفها تبادلًا ثقافيًا محترمًا لا مشهدًا للتفرّج."
 
 lang: "ar"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: مسار ضيق يتعرّج بين أشجار ملتوية مكسوّة بالطحالب وجذورها في الغابة الطحلبية الضبابية بـ Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: مسار عبر الأشجار المكسوّة بالطحالب في الغابة الطحلبية بـ Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: أحواض مرتفعة طويلة من نباتات الفراولة تحمل ثماراً حمراء ناضجة داخل بيت زجاجي في مزرعة فراولة بـ Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: صفوف من نباتات الفراولة في بيت زجاجي بمزرعة فراولة في Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 انزل من الحافلة في تانه راتا وأوّل ما تلاحظه هو أنفاسك ذاتها — فالهواء بارد بما يكفي لأن تصبح السترة الصوفية غير مستغرَبة، حتى عند خط الاستواء. وذلك هو جوهر مرتفعات كاميرون: شريحة من ريف جبلي معتدل تتكوّم فوق ماليزيا المدارية، حيث ينمو الشاي أخضر منتظمًا كأنه قماش مضلّع على التلال وتنضج الفراولة في أنفاق بلاستيكية على جوانب الطرق.

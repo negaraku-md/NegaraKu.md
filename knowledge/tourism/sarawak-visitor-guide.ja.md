@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: セメンゴ自然保護区の深い緑の熱帯雨林の中で、ロープの間にぶら下がり手を伸ばす赤毛のオランウータン
+    kind: actual
+    origin: third-party
+    subject: クチン近郊のセメンゴ自然保護区の熱帯雨林で、ロープを伝って移動する野生のオランウータン
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: サラワクの丘の中腹で、熱帯雨林を背に、赤い屋根を持ち高床式に建てられた、長い木造のイバン族のロングハウス
+    kind: actual
+    origin: third-party
+    subject: サラワクの森に覆われた川岸沿いに高床式で建てられた、伝統的なイバン族のロングハウス
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 クアラルンプールからクチンまで二時間足らずで飛べて、自分の国を一度も出ないのに、到着した先ではやはり移民審査でスタンプを押される。到着ロビーでのその驚きこそ、サラワク州について理解すべき最も重要な一点である。すなわち、それは独自の国境を運用するマレーシアの州なのだ。

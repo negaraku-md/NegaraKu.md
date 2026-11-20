@@ -90,6 +90,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: Spiky green soursop fruit in a metal bowl next to a blue basket of bright green limes at a market
+    kind: actual
+    origin: third-party
+    subject: whole soursop fruit beside a basket of fresh limes at a fruit stall
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
 ---
 
 Spiky, green and heavy, the **soursop** looks at first glance like a small durian —

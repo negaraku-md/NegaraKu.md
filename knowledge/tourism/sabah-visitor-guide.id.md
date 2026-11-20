@@ -35,7 +35,7 @@ faq:
     a: "Sipadan ditutup setiap November untuk pemulihan terumbu, jadi rencanakan perjalanan menyelam antara Desember dan Oktober. Di tempat lain, bulan-bulan Monsun Timur Laut yang lebih lembap (kira-kira November hingga Maret) membawa lebih banyak hujan ke Borneo."
 
 lang: "id"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Tampak dekat monyet bekantan berbulu keemasan pucat dan berhidung panjang berlatar hutan hijau buram di Labuk Bay, Sabah
+    kind: actual
+    origin: third-party
+    subject: Seekor bekantan, endemik Borneo, difoto di Labuk Bay, Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Matahari terbenam jingga menyala di atas laut di Kota Kinabalu, dengan siluet perahu nelayan dan sebuah pulau di cakrawala
+    kind: actual
+    origin: third-party
+    subject: Matahari terbenam keemasan di tepi laut Kota Kinabalu dengan siluet perahu nelayan dan pulau-pulau di cakrawala
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 Anda bisa terbang dari Kuala Lumpur ke Kota Kinabalu tanpa meninggalkan negara ini dan tetap mengantre di loket imigrasi saat mendarat. Kejutan itu menimpa banyak pengunjung pertama kali — dan merupakan hal paling penting untuk dipahami sebelum Anda merencanakan perjalanan ke Sabah. Panduan ini menjelaskan pintu masuk, daya tarik utama, dan aturan masuk yang menjadikan Sabah seolah-olah tempat tersendiri, karena dalam satu arti yang sangat nyata, memang begitulah keadaannya.

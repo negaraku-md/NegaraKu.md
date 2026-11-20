@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Wakaf tokong Cina merah-emas dengan bumbung melentik di sebelah pagoda tinggi bertingkat-tingkat di dataran puncak bukit berjubin
+    kind: actual
+    origin: third-party
+    subject: Wakaf berukir dan pagoda bertingkat Tokong Gua Chin Swee di Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Fasad hotel peranginan putih menjulang di atas pintu masuk bumbung coklat bersudut tajam yang mengibarkan bendera negara
+    kind: actual
+    origin: third-party
+    subject: Menara hotel-kasino puncak bukit Resorts World Genting dengan porte-cochere bercerun uniknya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Pandu menaiki jalan gunung keluar dari kepanasan Kuala Lumpur dan, di suatu tempat selepas tanda separuh jalan, tingkap mula berkabus dan udara bertukar sejuk. Dalam masa sejam meninggalkan ibu kota anda boleh berdiri dalam awan pada hampir 1,800 meter, di hadapan bandar peranginan neon yang disusun di atas puncak gunung. Kontras itu — tanah pamah tropika di bawah, puncak sejuk berkabus di atas, boleh dicapai dalam satu pagi — ialah keseluruhan tawaran Genting Highlands. Panduan ini merangkumi apa sebenarnya ia, cara naik ke sana, apa yang ada untuk dilakukan, cara menangani kasino dengan bijak, serta kesilapan yang memerangkap pelawat kali pertama.

@@ -38,7 +38,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -119,6 +119,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: பசுமையான நீருக்கு அருகில் Pantai Cenang-இன் வெண்மணலை சூழும் பனைமரங்கள் மற்றும் இருண்ட பாறைகள், மேலே ஒரு பாராசெயில் பறக்க
+    kind: actual
+    origin: third-party
+    subject: பனைமரங்கள் மற்றும் பசுமையான கடலுடன் Pantai Cenang கடற்கரை
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Langkawi தீவில் படகுத்துறை மற்றும் பசுமையான விரிகுடாக்களைப் பார்க்கும் அடர்த்தியான மழைக்காட்டுக்கு மேலே நழுவும் சிவப்பு SkyCab கொண்டோலாக்கள்
+    kind: actual
+    origin: third-party
+    subject: காடு மற்றும் படகுத்துறைக்கு மேலாக Langkawi SkyCab கேபிள் கார்
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 தொண்ணூற்று ஒன்பது தீவுகள், மீன்களைவிட பழமையான பாறைகள், மலிவான விஸ்கி, மேலும் 550 மில்லியன் ஆண்டுகளுக்கும் மேலானதாக மதிப்பிடப்படும் பாறையிலிருந்து கட்டமைக்கப்பட்ட ஒரு மலையின் ஓரத்தில் தொங்கும் ஒரு கேபிள் கார் — லங்காவி மலேசியாவின் வடமேற்கு நுனியில் உள்ள ஒரே தீவுக்கூட்டத்திற்குள் அசாதாரணமான அளவு பொருட்களை அடைத்து வைத்திருக்கிறது. இது நாட்டின் முதன்மையான மேற்கு கடற்கரை விடுமுறைத் தீவு, மேலும் தீபகற்பத்தின் மறுபுறத்தில் உள்ள பனை மரங்கள் சூழ்ந்த நீர்மூழ்கல் தீவுகளுக்கு கிட்டத்தட்ட எதிர்மாறான தர்க்கத்தில் இயங்குகிறது. நீங்கள் செல்வதற்கு முன் உண்மையில் முக்கியமானவற்றை இந்த வழிகாட்டி உள்ளடக்குகிறது: மக்களை தடுமாற வைக்கும் தீர்வை-இலவச விதிகள், காட்சிக்கு அதன் பின்னணிக் கதையை வழங்கும் யுனெஸ்கோ நிலவியல் பூங்கா, SkyCab மற்றும் SkyBridge, மேற்கொள்ள மதிப்புள்ள படகுச் சுற்றுலாக்கள், மேலும் லங்காவிக்கும் கிழக்கு கடற்கரைக்கும் இடையே எவ்வாறு முடிவெடுப்பது.

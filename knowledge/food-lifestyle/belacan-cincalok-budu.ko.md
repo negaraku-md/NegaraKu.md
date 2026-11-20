@@ -34,7 +34,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: 저민 샬롯과 붉은 고추를 섞은 분홍빛 찐짤록(발효한 작은 새우) 한 접시
+    kind: actual
+    origin: third-party
+    subject: 저민 샬롯과 고추를 곁들여 양념으로 낸 찐짤록
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: 덜 익은 망고 채와 샬롯, 붉은 고추가 들어간 짙은 갈색 부두 멸치 소스 유리 그릇
+    kind: actual
+    origin: third-party
+    subject: 저민 망고와 샬롯, 고추를 곁들인 부두(발효 멸치 소스) 디프
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 말레이시아의 재래시장, 깜뿡(kampung) 부엌, 또는 끄다이 룬찟(kedai runcit)의 병에 담긴 조미료 선반을 지나다 보면 같은 세 가지 이름을 마주하게 된다: **블라찬(belacan)**, **친짤록(cincalok)**, **부두(budu)**. 생김새와 냄새가 마치 한 가족처럼 보인다 — 모두 짜고, 모두 향이 강하며, 모두 작은 바다 생물을 소금에 발효시켜 만든다 — 그래서 메뉴와 조리법에서 이름이 느슨하게 쓰이곤 한다. 하지만 이들은 서로 다른 세 가지로, 다르게 만들어지고, 출발점도 다르며, 쓰임도 다르다. 어느 것이 어느 것인지 알면 생으로 먹어야 할 것을 굽거나, 새우 페이스트가 들어갈 자리에 생선 소스를 붓는 일을 피할 수 있다.

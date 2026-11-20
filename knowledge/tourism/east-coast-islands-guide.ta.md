@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Pulau Redang-இல் பசுமையான நீர் மற்றும் பனைமரங்களுடன், ஒரு சிறிய காடு மூடிய பாறைத் தீவை நோக்கி வளையும் அகலமான வெண்மணல் கடற்கரை
+    kind: actual
+    origin: third-party
+    subject: Pulau Redang-இன் நீண்ட வெண்மணல் கடற்கரை, அதன் கடல்சார் பாறைத் தீவு மற்றும் பசுமையான நீருடன், தெரங்கானு
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Perhentian தீவுகளில் எளிய சலெட் கூரைகள் மற்றும் பனைமரங்களுக்கு மேலாக, சிறிய படகுகள் மற்றும் காடு மூடிய முனை நிறைந்த பிரகாசமான பசுமையான விரிகுடாவைப் பார்க்கும் உயரக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: Perhentian தீவுகளில் ஒரு கடற்கரை கிராமம் மற்றும் படகுகள் நிறைந்த அதன் பசுமையான விரிகுடாவின் உயரக் காட்சி, பிரபலமான ஸ்னார்க்கலிங் தளம்
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 டிசம்பரில் Redang கடற்கரை ரிசார்ட் ஒன்றுக்குச் சென்றால், படகுகள் மறைந்திருப்பதையும், ஜெட்டி அமைதியாக இருப்பதையும், மூழ்கல் கடை மூடப்பட்டிருப்பதையும் நீங்கள் பெரும்பாலும் காண்பீர்கள். கிழக்குக் கடற்கரைத் தீவுகள் சுற்றுலாத் துண்டுப்பிரசுரத்தால் அல்ல, கடலால் எழுதப்பட்ட ஒரு நாட்காட்டியின்படி இயங்குகின்றன — மேலும் பெரும்பாலான புதியவர்கள் டிக்கெட் கவுன்டரில்தான் கண்டுபிடிக்கும் கடல் பூங்கா விதிகளின் தொகுப்பின்படியும் இயங்குகின்றன.

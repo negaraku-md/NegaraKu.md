@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: イポーのケッロクトン寺院で、森に覆われた石灰岩のカルスト崖に抱かれた、池と花の咲く低木のある造園された庭園
+    kind: actual
+    origin: third-party
+    subject: イポー南部の、そびえ立つ石灰岩の崖に囲まれたケッロクトン洞窟寺院の湖畔の庭園
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: 明るい青空を背景にした、ムーア式のアーチを持つ、風化した赤レンガの列柱のケリーズ・キャッスルのファサード
+    kind: actual
+    origin: third-party
+    subject: キンタ渓谷のバトゥ・ガジャにある、未完成のムーア様式の植民地時代の邸宅ケリーズ・キャッスル
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 錫がイポーを作り、そしてそれが街をほとんど壊しかけました。キンタ川のほとりの村が、キンタ渓谷の地下に埋もれた鉱石を頼りに英領マラヤ屈指の富裕な街へと変わり、壮麗な植民地時代の中心部を築き、そして錫価格が暴落すると富が流れ去るのを見届けました。街が保ったのは、建築、洞窟寺院で穴だらけになった石灰岩の丘、そして並外れて優れた厨房です。今日のイポーは、マレーシアで最も居心地のよい遺産とグルメの都市休暇です——クアラルンプールから日帰りできるほど近く、週末を過ごすに値するほど豊かです。本ガイドは、それを形づくった景観と歴史、街の内外で何が見られるか、食を手短に、そして行き方の実際を扱います。

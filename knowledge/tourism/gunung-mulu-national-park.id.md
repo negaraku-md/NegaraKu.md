@@ -37,7 +37,7 @@ faq:
     a: "Hampir semua orang terbang. Tidak ada jalan ke dalam taman, jadi pengunjung menempuh penerbangan singkat dengan pesawat kecil ke Bandara Mulu, paling umum dari Miri di Sarawak, dengan layanan lain yang menghubungkannya ke kawasan sekitar. Saat tiba Anda mendaftar di kantor pusat taman dekat bandara. Karena kursi, kamar dan aktivitas berpemandu terbatas, pesan penerbangan, penginapan dan tur bersama-sama serta jauh di muka (mulupark.com; Wikipedia)."
 
 lang: "id"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Mulut gua gelap yang sangat besar di tebing kapur terjal berhias hutan hujan di Deer Cave, Taman Nasional Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk luas Deer Cave, salah satu lorong gua terbesar di dunia, dibingkai tebing kapur berselimut hutan menjulang di Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Ruang gua yang diterangi lembut dengan dinding batu pucat halus dan sungai bawah tanah yang tenang di dalam Clearwater Cave, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Bagian dalam Clearwater Cave yang diterangi dengan sungai bawah tanahnya, bagian dari salah satu sistem gua terpanjang di Asia Tenggara di Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 Jauh di dalam hutan hujan Sarawak, tempat gunung batu kapur menjulang lurus dari belantara dan tidak ada jalan yang mencapainya, terletak salah satu lanskap paling luar biasa di Malaysia — dan salah satu kawasan gua paling banyak dipelajari di planet ini. Taman Nasional Gunung Mulu adalah tempat Anda menemukan ruang gua terbesar di dunia, lorong gua yang cukup besar untuk menerbangkan jumbo jet melewatinya, sungai malam berupa jutaan kelelawar, dan hutan di puncak bukit berupa bilah batu kapur yang cukup tajam untuk merobek sepatu bot. Ia juga benar-benar terpencil: Anda tiba dengan pesawat kecil, pergi ke hampir mana saja dengan pemandu, dan memesan berbulan-bulan lebih awal. Panduan ini mencakup apa itu Mulu, apa yang bisa dilihat di bawah tanah dan di atasnya, dua pendakian besar, bagaimana akses bekerja, serta kesalahan yang dibuat pendatang pertama kali.

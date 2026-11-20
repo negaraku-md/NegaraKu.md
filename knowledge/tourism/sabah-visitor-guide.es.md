@@ -35,7 +35,7 @@ faq:
     a: "Sipadan cierra cada noviembre para la recuperación del arrecife, así que planifica los viajes de buceo entre diciembre y octubre. En otros lugares, los meses más lluviosos del Monzón del Noreste (aproximadamente de noviembre a marzo) traen más lluvia a Borneo."
 
 lang: "es"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Primer plano de un mono narigudo de pelaje dorado pálido y larga nariz contra una selva verde difuminada en Labuk Bay, Sabah
+    kind: actual
+    origin: third-party
+    subject: Un mono narigudo, endémico de Borneo, fotografiado en Labuk Bay, Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Una ardiente puesta de sol anaranjada sobre el mar en Kota Kinabalu, con barcas de pesca en silueta y una isla en el horizonte
+    kind: actual
+    origin: third-party
+    subject: Puesta de sol dorada sobre el paseo marítimo de Kota Kinabalu con barcas de pesca en silueta y islas en el horizonte
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 Puedes volar de Kuala Lumpur a Kota Kinabalu sin salir del país y aun así hacer cola en un mostrador de inmigración cuando aterrizas. Esa sorpresa pilla desprevenidos a muchos visitantes primerizos, y es lo más importante que hay que entender antes de planificar un viaje a Sabah. Esta guía recorre la puerta de entrada, las atracciones más destacadas y las normas de entrada que hacen que Sabah se sienta como un lugar propio, porque, en un sentido muy real, lo es.

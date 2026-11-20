@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: 구눙 물루 국립공원 디어 동굴의, 열대우림이 드리운 가파른 석회암 절벽에 뚫린 거대하고 어두운 동굴 입구
+    kind: actual
+    origin: third-party
+    subject: 구눙 물루에서 울창한 정글로 뒤덮인 거대한 석회암 절벽에 둘러싸인, 세계 최대 동굴 통로 중 하나인 디어 동굴의 광대한 입구
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: 구눙 물루 클리어워터 동굴 내부, 매끄럽고 연한 바위 벽과 잔잔한 지하 강이 은은하게 조명된 동굴 방
+    kind: actual
+    origin: third-party
+    subject: 구눙 물루에서 동남아시아 최장 동굴계 중 하나에 속하는, 지하 강이 흐르는 조명 밝힌 클리어워터 동굴 내부
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 사라왁의 열대우림 깊숙이, 석회암 산이 정글에서 곧장 솟아오르고 어떤 도로도 닿지 않는 곳에, 말레이시아에서 가장 비범한 경관 중 하나이자 지구상에서 가장 많이 연구된 동굴 지역 중 하나가 자리합니다. 구눙 물루 국립공원은 세계에서 가장 큰 동굴 챔버, 점보제트기가 날아 지날 만큼 큰 동굴 통로, 밤마다 흐르는 수백만 마리 박쥐의 강, 그리고 부츠를 찢을 만큼 날카로운 석회암 칼날의 언덕 숲을 품은 곳입니다. 이곳은 진정으로 외딥니다: 소형 비행기로 도착하고, 거의 모든 곳을 가이드와 함께 가며, 수개월 전에 예약합니다. 이 가이드는 물루가 무엇인지, 지하와 지상에 무엇이 있는지, 두 개의 큰 트레킹, 접근이 어떻게 이루어지는지, 그리고 첫 방문객이 저지르는 실수를 다룹니다.

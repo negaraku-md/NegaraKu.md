@@ -37,7 +37,7 @@ faq:
     a: "Caminar los senderos naturales de jungla (Bishop, Maxwell, Rompin y Kindersley están entre los más conocidos), visitar la zona recreativa de la Cascada de Jeriau, pasear por el pueblo neotudor en torno a la torre del reloj, y simplemente disfrutar del ritmo fresco y lento (Wikipedia). Hay un campo de golf y algo de patrimonio de la época colonial que ver, pero por diseño hay muy poca vida nocturna."
 
 lang: "es"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Hotel de estilo Tudor con entramado de madera en blanco y marrón, ventanas cálidamente iluminadas y hiedra, enmarcado por altos pinos al anochecer
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, un hotel colonial de estilo neo-Tudor en Fraser's Hill iluminado al atardecer
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Jardín ajardinado de montaña con palmeras que desciende hacia una densa selva verde, con cordilleras azules neblinosas al fondo
+    kind: actual
+    origin: third-party
+    subject: Un jardín en ladera aterrazada con vistas al fresco y neblinoso valle selvático y las lejanas cordilleras de Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 La mayoría de las estaciones de montaña de Malasia te venden algo — un casino, una finca de té, una granja de fresas, un parque temático. Fraser's Hill te vende la ausencia de todo eso. Repartida por un conjunto de crestas boscosas en la [cordillera de Titiwangsa](/es/malaysia/titiwangsa-range), es una pequeña, tranquila y envuelta en bruma estación de la época colonial donde lo más ruidoso que oirás es el canto de los pájaros, y donde un jersey deja de parecer ridículo incluso en el ecuador. Para los observadores de aves es casi tierra sagrada; para todos los demás es la alternativa lenta y de bajo perfil a sus vecinas de montaña más llamativas. Esta guía cubre qué es en realidad Fraser's Hill, por qué vienen los observadores de aves, qué hay que ver, cómo funciona la sinuosa carretera de subida, y a quién conviene y a quién no el lugar.

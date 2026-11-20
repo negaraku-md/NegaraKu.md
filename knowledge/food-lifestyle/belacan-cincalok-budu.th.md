@@ -34,7 +34,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: จานจิงจาหลก (cincalok / กุ้งเคยตัวเล็กหมักดอง) สีชมพูผสมหอมแดงซอยและพริกแดง
+    kind: actual
+    origin: third-party
+    subject: จิงจาหลกเสิร์ฟเป็นเครื่องจิ้มกับหอมแดงซอยและพริก
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: ชามแก้วของน้ำบูดู (budu) ซอสปลาหมักสีน้ำตาลเข้ม พร้อมมะม่วงดิบหั่นฝอย หอมแดงและพริกแดง
+    kind: actual
+    origin: third-party
+    subject: น้ำจิ้มบูดู (ซอสปลาแอนโชวีหมัก) กับมะม่วงซอย หอมแดงและพริก
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 เดินผ่านตลาดสดมาเลเซีย ครัวในกัมปง หรือชั้นวางเครื่องปรุงแบบขวดในร้านชำ (kedai runcit) ที่ไหนก็ตาม คุณจะได้พบกับชื่อสามอย่างชุดเดิมนี้: **เบลาจัน (belacan / กะปิมาเลย์)** **จินจาโลก (cincalok)** และ **บูดู (budu / น้ำปลาหมักปลากะตัก)** ทั้งสามหน้าตาและกลิ่นเหมือนอยู่ในตระกูลเดียวกัน — เค็มเหมือนกัน กลิ่นแรงเหมือนกัน ทำโดยการปล่อยให้สัตว์ทะเลตัวเล็กหมักในเกลือเหมือนกัน — และในเมนูกับสูตรอาหารชื่อเหล่านี้ก็มักถูกใช้แบบหลวม ๆ แต่ทั้งสามเป็นคนละสิ่งกันอย่างชัดเจน ทำด้วยกรรมวิธีต่างกัน จากจุดตั้งต้นต่างกัน และใช้ต่างกัน การรู้ว่าอันไหนเป็นอันไหนช่วยให้คุณไม่ต้องคั่วสิ่งที่ควรกินสด หรือเทน้ำปลาลงไปในที่ที่ควรใส่กะปิ

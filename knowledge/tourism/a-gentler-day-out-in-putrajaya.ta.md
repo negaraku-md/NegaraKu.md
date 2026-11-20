@@ -31,7 +31,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: புத்ராஜயாவில் ஏரியைக் கடக்கும் பாய்மர வடிவிலான கேபிள்-நிறுத்தப்பட்ட Seri Wawasan பாலம்
+    kind: actual
+    origin: third-party
+    subject: Seri Wawasan பாலம், புத்ராஜயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: புத்ராஜயாவில் புயல் நிறைந்த வானத்தை பின்னணியாகக் கொண்ட Putra Mosque-இன் நுணுக்கமான வடிவங்களுடனான ரோஜா-இளஞ்சிவப்பு குவிமாடத்தின் நெருங்கிய காட்சி
+    kind: actual
+    origin: third-party
+    subject: Putra Mosque-இன் ரோஜா-இளஞ்சிவப்பு குவிமாடம், புத்ராஜயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 Putrajaya ஒரு வருகைக்குப் பலன் தருகிறது, ஆனால் தவறான திட்டத்தைத் தண்டிக்கிறது. மலேசியாவின் நோக்கத்துடன் கட்டப்பட்ட கூட்டாட்சி நிர்வாகத் தலைநகரம் **அகலமான சாலைகள், பிரம்மாண்ட கட்டிடங்கள், சம்பிரதாயத் திடல்கள், பாலங்கள், ஒரு பெரிய செயற்கை ஏரி** ஆகியவற்றைக் கொண்ட நகரம் — அழகானது, மேலும் கார்களுக்காகக் கட்டப்பட்டது. அதன் முக்கிய இடங்கள் எண் வரிசைப்படுத்தப்பட்ட precinct-களில் சிதறி உள்ளன, பெரும்பாலும் ஒரு கிலோமீட்டர் அல்லது அதற்கும் அதிகமான இடைவெளியில், இடையே குறைவான நிழலுடன். மசூதியிலிருந்து தோட்டங்களுக்கு, பிறகு கடைகளுக்கு நடந்து செல்லலாம் என்று எதிர்பார்த்து வந்தால், நீண்ட, வெளிப்பட்ட தொலைவுகளை நடந்து வெப்பமான ஒரு நாளைக் கழிப்பீர்கள். ஒரு அமைதியான திட்டத்துடன் வந்தால், Putrajaya கோலாலம்பூருக்கு அருகில் உள்ள மிக எளிதான அமைதியான நாட்களில் ஒன்றாகிறது.

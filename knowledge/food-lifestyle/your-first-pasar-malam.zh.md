@@ -34,7 +34,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: 夜市摊位上，一串串淋了酱汁的竹签烤串在黑色铁板上滋滋作响、热气腾腾
+    kind: actual
+    origin: third-party
+    subject: 夜市铁板上热气腾腾的沙爹风味烤串
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 第一次逛 pasar malam 可能会让人晕头转向：两排摊位之间挤满了缓缓流动的人潮、

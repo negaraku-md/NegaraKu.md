@@ -37,7 +37,7 @@ faq:
     a: "Berjalan di jalur alam hutan (Bishop, Maxwell, Rompin dan Kindersley termasuk yang paling dikenal), mengunjungi kawasan rekreasi Air Terjun Jeriau, menjelajah desa mock-Tudor di sekitar menara jam, dan sekadar menikmati laju yang sejuk dan lambat (Wikipedia). Ada lapangan golf dan sejumlah warisan era kolonial untuk dilihat, tetapi sesuai rancangan ada sangat sedikit kehidupan malam."
 
 lang: "id"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Hotel bergaya Tudor berwarna putih-cokelat dengan rangka kayu, jendela bercahaya hangat dan tanaman ivy, dibingkai pohon pinus tinggi saat senja
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, hotel kolonial bergaya mock-Tudor di Fraser's Hill yang bercahaya saat senja
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Taman dataran tinggi tertata dengan pohon palem yang menurun ke hutan hujan hijau lebat dengan punggung gunung biru berkabut di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Taman lereng bukit bertingkat menghadap lembah hutan hujan sejuk berkabut dan jajaran gunung di kejauhan, Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 Sebagian besar stasiun bukit Malaysia menjual Anda sesuatu — kasino, perkebunan teh, ladang stroberi, taman tema. Fraser's Hill menjual Anda ketiadaan semua itu. Terhampar di gugusan punggungan berhutan di [barisan Titiwangsa](/id/malaysia/titiwangsa-range), ia stasiun era kolonial yang kecil, tenang dan berselimut kabut tempat hal paling nyaring yang akan Anda dengar adalah kicau burung, dan tempat sweter berhenti terasa konyol bahkan di khatulistiwa. Bagi pengamat burung ia nyaris tanah suci; bagi semua orang lain ia alternatif yang lambat dan sederhana bagi tetangga dataran tingginya yang lebih mencolok. Panduan ini mencakup apa sebenarnya Fraser's Hill, mengapa pengamat burung datang, apa yang bisa dilihat, bagaimana jalan naik yang berliku bekerja, serta siapa yang cocok dan tidak cocok dengan tempat ini.

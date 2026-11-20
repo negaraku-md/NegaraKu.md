@@ -37,7 +37,7 @@ faq:
     a: "Vuela al Aeropuerto Internacional de Kuching (KCH), la principal puerta aérea del sur de Sarawak, con conexiones desde Kuala Lumpur y otros ejes (Wikipedia). Como Sarawak controla su propia inmigración, se revisa a todo el mundo a la llegada — a los malasios de otros estados se les expide un pase en su MyKad, y a los extranjeros se les sella la entrada en Sarawak por separado, así que lleva tu pasaporte incluso en un vuelo de apariencia doméstica. Consulta la guía de Sarawak para las normas de entrada completas."
 
 lang: "es"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: El Astana, un palacio colonial blanco de arcos góticos con una puerta ornamental, en la orilla norte del río Sarawak en Kuching
+    kind: actual
+    origin: third-party
+    subject: El Astana, el histórico palacio blanco junto al río de los antiguos Rajás Blancos en Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Una ornamentada puerta de arco chino adornada con farolillos rojos que marca una calle del antiguo barrio chino de Kuching
+    kind: actual
+    origin: third-party
+    subject: Puerta de arco ceremonial chino en el antiguo barrio chino de Kuching (zona de Jalan Attap), con farolillos rojos y letreros de tiendas tradicionales
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 Puedes recorrer de punta a punta la ribera de Kuching en una tarde, pasar junto a un fuerte colonial, un palacio de un rajá y un templo chino por el camino, comer uno de los grandes tazones de fideos de Borneo, y posar con una estatua gigante de un gato — todo sin salir de la ciudad. Kuching es la capital y mayor ciudad de Sarawak, asentada sobre el río Sarawak en el extremo suroeste del estado, en la isla de Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Es la relajada ciudad fluvial que sirve de base desde la que comienzan la mayoría de los viajes por Sarawak. Esta guía cubre la ciudad en sí — su paseo marítimo, su historia de la era Brooke, su Chinatown y sus museos, y sus gatos — y cómo funciona como trampolín hacia la selva y la fauna que la rodean.

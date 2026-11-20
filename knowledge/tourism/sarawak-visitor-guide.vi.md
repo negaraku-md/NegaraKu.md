@@ -36,7 +36,7 @@ faq:
     a: "Cả hai đều tồn tại. Những nơi như Annah Rais gần Kuching là các cộng đồng nhà dài Bidayuh còn sinh sống nơi các gia đình vẫn cư trú, trong khi Sarawak Cultural Village gần Santubong là một bảo tàng sống được xây dựng chuyên biệt. Thăm một nhà dài đang sinh hoạt tốt nhất được sắp xếp trước và thường qua một hướng dẫn viên có thể diễn giải chuyến thăm một cách tôn trọng."
 
 lang: "vi"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Một con đười ươi lông đỏ đu và với tay giữa những sợi dây thừng trong rừng mưa xanh rậm rạp tại Khu bảo tồn thiên nhiên Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Một con đười ươi hoang dã di chuyển trên dây thừng trong rừng mưa tại Khu bảo tồn thiên nhiên Semenggoh gần Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Một nhà dài Iban bằng gỗ dài dựng trên cọc với mái đỏ, phía sau là rừng mưa trên một sườn đồi ở Sarawak
+    kind: actual
+    origin: third-party
+    subject: Một nhà dài Iban truyền thống dựng trên cọc dọc bờ sông phủ rừng ở Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kuching trong chưa đầy hai giờ, không hề rời khỏi đất nước của mình, và vẫn được đóng dấu qua di trú ở đầu bên kia. Điều bất ngờ ở sảnh đến đó là điều quan trọng nhất cần hiểu về Sarawak: đó là một bang Malaysia vận hành biên giới riêng của mình.

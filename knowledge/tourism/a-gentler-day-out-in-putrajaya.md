@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: The sail-shaped cable-stayed Seri Wawasan Bridge spanning the lake in Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Seri Wawasan Bridge, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: Close-up of the intricately patterned rose-pink dome of Putra Mosque against a stormy sky in Putrajaya
+    kind: actual
+    origin: third-party
+    subject: The rose-pink dome of Putra Mosque, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 Putrajaya rewards a visit, but it punishes the wrong plan. Malaysia's purpose-built federal administrative capital is a city of **wide boulevards, monumental buildings, ceremonial plazas, bridges and a large man-made lake** — beautiful, and built for cars. Its landmarks are scattered across numbered precincts, often a kilometre or more apart, with little shade in between. Arrive expecting to stroll from the mosque to the gardens to the shops and you will spend a hot day walking long, exposed distances. Arrive with a gentler plan and Putrajaya becomes one of the easiest calm days out near Kuala Lumpur.

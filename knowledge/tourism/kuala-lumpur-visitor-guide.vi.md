@@ -36,7 +36,7 @@ faq:
     a: "Che vai và đầu gối của bạn. Xà rông thường có sẵn để mượn hoặc thuê tại lối vào nếu trang phục của bạn quá hở hang. Giày thoải mái giúp ích cho cầu thang dài lên đền hang chính."
 
 lang: "vi"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Tòa nhà Sultan Abdul Samad và bãi cỏ Quảng trường Merdeka rợp bóng dừa ở trung tâm Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Sultan Abdul Samad và Quảng trường Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Những hàng đèn lồng Trung Hoa đỏ rực treo phía trên chợ Petaling Street ở khu Chinatown của Kuala Lumpur về đêm
+    kind: actual
+    origin: third-party
+    subject: Đèn lồng đỏ ở Chinatown Petaling Street về đêm
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Hạ cánh tại Sân bay Quốc tế Kuala Lumpur lúc bình minh và, trong vòng một giờ, bạn có thể đang đứng bên dưới hai tòa tháp bạc từng thống trị đường chân trời của thế giới — không xe thuê, không lập kế hoạch phức tạp, chỉ một chuyến tàu và một thẻ quẹt-vào. Sự dễ dàng đó là toàn bộ mấu chốt của KL: nó là cửa trước của Malaysia, một thủ đô nhỏ gọn và rẻ nơi các điểm tham quan tiêu đề nằm cách nhau một chuyến đường sắt ngắn, và là nơi gần như mọi hành trình đi tiếp trong nước bắt đầu.

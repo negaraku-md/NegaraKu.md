@@ -35,7 +35,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: جسر Seri Wawasan المعلّق بالكابلات على شكل شراع يمتد فوق البحيرة في Putrajaya
+    kind: actual
+    origin: third-party
+    subject: جسر Seri Wawasan، Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: لقطة قريبة للقبة الوردية ذات الزخارف الدقيقة لمسجد Putra على خلفية سماء عاصفة في Putrajaya
+    kind: actual
+    origin: third-party
+    subject: القبة الوردية لمسجد Putra، Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 تستحقّ بوتراجايا (Putrajaya) الزيارة، لكنها تعاقب التخطيط الخاطئ. فالعاصمة الإدارية الاتحادية المبنية خصّيصًا في ماليزيا هي مدينة من **الجادّات الواسعة والمباني المهيبة والساحات الاحتفالية والجسور وبحيرة اصطناعية كبيرة** — جميلة، ومبنية للسيارات. تتناثر معالمها عبر مناطق (precincts) مرقَّمة، غالبًا على بُعد كيلومتر أو أكثر، بقليل من الظل بينها. اوصل متوقّعًا أن تتنزّه من المسجد إلى الحدائق إلى المتاجر، وستقضي يومًا حارًّا سيرًا على مسافات طويلة مكشوفة. اوصل بخطة أهدأ، وتصبح بوتراجايا من أسهل الأيام الهادئة قرب كوالالمبور.

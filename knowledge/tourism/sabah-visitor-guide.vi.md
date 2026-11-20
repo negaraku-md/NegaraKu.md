@@ -35,7 +35,7 @@ faq:
     a: "Sipadan đóng cửa vào mỗi tháng 11 để rạn san hô phục hồi, nên hãy lên kế hoạch các chuyến lặn từ tháng 12 đến tháng 10. Ở nơi khác, các tháng gió mùa Đông Bắc ẩm ướt hơn (khoảng tháng 11 đến tháng 3) mang nhiều mưa hơn đến Borneo."
 
 lang: "vi"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Cận cảnh một con khỉ vòi với bộ lông vàng nhạt và chiếc mũi dài trên nền rừng xanh mờ tại Vịnh Labuk, Sabah
+    kind: actual
+    origin: third-party
+    subject: Một con khỉ vòi, loài đặc hữu của Borneo, được chụp tại Vịnh Labuk ở Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Hoàng hôn cam rực trên biển ở Kota Kinabalu, với bóng những chiếc thuyền đánh cá và một hòn đảo ở đường chân trời
+    kind: actual
+    origin: third-party
+    subject: Hoàng hôn vàng rực trên bờ biển Kota Kinabalu với bóng thuyền đánh cá trên biển và những hòn đảo ở chân trời
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kota Kinabalu mà không rời khỏi đất nước và vẫn xếp hàng tại một quầy di trú khi hạ cánh. Điều bất ngờ đó khiến nhiều du khách lần đầu bối rối — và đó là điều quan trọng nhất cần hiểu trước khi bạn lên kế hoạch cho chuyến đi đến Sabah. Cẩm nang này đi qua cửa ngõ, các điểm thu hút hàng đầu, và các quy định nhập cảnh khiến Sabah cảm thấy như một nơi riêng của nó, bởi vì theo một nghĩa rất thực, nó đúng là như vậy.

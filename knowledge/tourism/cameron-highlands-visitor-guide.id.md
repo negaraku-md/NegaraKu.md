@@ -31,7 +31,7 @@ faq:
     a: "Ini adalah tur budaya berpemandu ke perkampungan Semai, biasanya dengan demonstrasi sumpit dan penjelasan tentang kehidupan hutan. Pergilah bersama pemandu lokal yang bereputasi baik, minta izin sebelum mengambil gambar orang, dan anggaplah sebagai pertukaran budaya yang penuh hormat dan bukan tontonan."
 
 lang: "id"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Jalur sempit yang berkelok di antara pepohonan bergelombang berlumut dan akar-akar di Mossy Forest yang berkabut di Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Jalur menembus pepohonan berlumut di Mossy Forest, Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Palung panjang berisi tanaman stroberi yang berbuah merah matang di dalam rumah kaca di kebun stroberi Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Deretan tanaman stroberi dalam rumah kaca di kebun stroberi Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Turun dari bus di Tanah Rata dan hal pertama yang Anda sadari adalah napas Anda sendiri — udaranya cukup sejuk sehingga sehelai jaket tidak lagi terasa janggal, meski di garis khatulistiwa. Itulah intisari Cameron Highlands: sebongkah dataran tinggi beriklim sedang yang bertumpuk di atas Malaysia tropis, tempat teh tumbuh berbaris hijau bagai korduroi di atas perbukitan dan stroberi matang dalam terowongan plastik di tepi jalan.

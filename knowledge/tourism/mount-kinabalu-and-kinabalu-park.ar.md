@@ -37,7 +37,7 @@ faq:
     a: "تميل الأشهر الأجفّ، نحو مارس إلى سبتمبر تقريباً، إلى تقديم أكثر أحوال القمة استقراراً، وإن كان كينابالو يصنع غيومه بنفسه والمطر ممكن في أي يوم (Sabah Parks). وتبدأ اندفاعة القمة قبل الفجر لتسبق غيوم منتصف الصباح. ولأن الأماكن محدودة وتنفد قبل وقت طويل في مواسم الذروة والعطل، ثبّت تواريخك باكراً وأضف هامشاً للطقس."
 
 lang: "ar"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: متسلّقون يعبرون هضبة القمة الجرانيتية العارية أسفل ذروة صخرية في Mount Kinabalu تحت سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: ذروة القمة الجرانيتية لـ Mount Kinabalu مع متسلّقين على هضبة الصخر العارية
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: نبات إبريقي كبير أحمر وأخضر من نوع Nepenthes rajah ينمو بين نباتات الجبل في Kinabalu Park
+    kind: actual
+    origin: third-party
+    subject: نبات Nepenthes rajah الإبريقي العملاق في Kinabalu Park
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 تاج من الغرانيت يرتفع مباشرةً من غابة بورنيو المطيرة إلى ما يزيد قليلاً على 4,000 متر، ومتنزّه تراث عالمي يضم أنواعاً نباتية أكثر مما في بعض القارات، وتسلّق قمة مُقنَّن بإحكام حتى إنك تحجزه قبل أن تحجز رحلاتك — جبل كينابالو هو أشهر معلم طبيعي مفرد في ماليزيا، وأحد أكثرها تنظيماً لزيارته فعلاً. يقع في صباح، في الجزء الماليزي من بورنيو، ويكافئ نوعين مختلفين جداً من المسافرين: المتسلّق اللائق المنظَّم الساعي إلى فجر على أعلى قمة بين جبال الهيمالايا وغينيا الجديدة، وزائر اليوم الواحد الذي يريد فحسب هواءً جبلياً بارداً، ونباتات آكلة لحوم غريبة، وغطسة في ينبوع ساخن. يتناول هذا الدليل الاثنين معاً، والأمور التي يخطئ فيها الناس روتينياً قبل أن يذهبوا.

@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: A visitor crossing a narrow rope-and-plank canopy walkway suspended among tall rainforest trees in Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Canopy walkway suspension bridge high in the rainforest treetops at Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Wooden longboats on the Tembeling River beside a forested riverbank with mist over the hills at Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Tembeling River with longboats at the Taman Negara jetty in the morning mist
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Standing at the Kuala Tahan jetty at dawn, watching mist lift off a river older than the Himalayas, it is easy to forget you are barely a half-day from Kuala Lumpur. Taman Negara is not a manufactured attraction. It is a living tropical rainforest that has stood, roughly undisturbed, for tens of millions of years — and getting into it is cheaper and simpler than almost any traveller expects.

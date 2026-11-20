@@ -36,7 +36,7 @@ faq:
     a: "两者都有。古晋附近的Annah Rais等地是仍有人居住的比达友族长屋社区，仍有家庭居住其中；而山都望（Santubong）附近的砂拉越文化村则是专门建造的活态博物馆。造访有人居住的长屋最好事先安排，并常常通过一位能够以尊重的方式为你诠释此行的向导进行。"
 
 lang: "zh"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: 实蒙谷自然保护区茂密的绿色雨林中，一只红毛猩猩攀吊在绳索之间伸手探取
+    kind: actual
+    origin: third-party
+    subject: 古晋附近实蒙谷自然保护区雨林中沿绳索移动的野生红毛猩猩
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: 一座架于高脚桩柱上、红色屋顶的长形伊班长屋，背倚砂拉越山坡上的雨林
+    kind: actual
+    origin: third-party
+    subject: 砂拉越林木河岸边架于高脚桩柱上的传统伊班长屋
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 你可以在不到两小时内从吉隆坡飞抵古晋，全程不曾离开自己的国家，抵达另一端时却仍要通过移民关卡盖章。在到达大厅里的这份意外，正是理解砂拉越最重要的一点：它是一个自设边境的马来西亚州属。

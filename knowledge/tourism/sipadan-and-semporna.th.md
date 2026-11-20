@@ -37,7 +37,7 @@ faq:
     a: "ดำน้ำได้ตลอดปี แต่ทะเลที่สงบที่สุดและน้ำที่ใสที่สุดมักตกช่วงที่แห้งกว่าตั้งแต่ราวเดือนเมษายนถึงราวเดือนตุลาคม–ธันวาคม โดยทัศนวิสัยที่ใสที่สุดมักอยู่ช่วงต้นของกรอบเวลานั้น (dive-the-world; PADI) ใบอนุญาตหายากที่สุดในเดือนที่คึกคักที่สุด จึงจองล่วงหน้ามาก (Malaysia Travel)"
 
 lang: "th"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: เต่าทะเลสีเขียวว่ายอยู่เหนือศีรษะผ่านน้ำสีเทอร์ควอยซ์ที่มีแสงแดดส่อง มองจากด้านล่าง
+    kind: actual
+    origin: third-party
+    subject: เต่าทะเลสีเขียวร่อนผ่านน้ำสีเทอร์ควอยซ์สดใส หนึ่งในภาพอันเป็นเอกลักษณ์ของการดำน้ำรอบซิปาดัน (Sipadan)
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: ฝูงปลาสีเงินขนาดมหึมาหมุนวนข้างแนวปะการัง พร้อมลำแสงแดดส่องผ่านน้ำสีน้ำเงินขณะดำน้ำที่ซิปาดัน
+    kind: actual
+    origin: third-party
+    subject: ฝูงปลาแนวปะการังหนาแน่นและลำแสงแดดเหนือปะการังขณะดำน้ำที่ซิปาดัน หนึ่งในจุดดำน้ำที่ดีที่สุดในโลก
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 ยอดปะการังเดียวที่ผุดขึ้นหกร้อยเมตรตรงจากพื้นทะเลเซเลเบส หมุนวนด้วยเต่าและพายุทอร์นาโดของปลาสาก สิปาดันคือเหตุผลที่นักดำน้ำจริงจังใส่ซาบาห์ตะวันออกไว้ในรายการ และเป็นเหตุผลที่เศรษฐกิจการท่องเที่ยวทั้งระบบเติบโตขึ้นรอบเมืองเล็ก ๆ ชื่อเซิมปอร์นา แต่ไม่ใช่ที่ที่คุณเพียงโผล่มาและดำน้ำได้ สิปาดันเป็นอุทยานทางทะเลที่ได้รับการคุ้มครองอย่างเข้มงวดที่มีใบอนุญาตรายวันจำกัดโควตา ไม่มีที่พักบนเกาะเอง และมีบริบทเขตความปลอดภัยบนชายฝั่งโดยรอบที่ผู้มาครั้งแรกต้องเข้าใจอย่างสงบและเป็นข้อเท็จจริง คู่มือนี้ครอบคลุมว่าอะไรทำให้การดำน้ำระดับโลก ใบอนุญาตและเพดานรายวันทำงานจริงอย่างไร คุณพักที่ไหน สิปาดันต่างจากอุทยานทางทะเลตุนซาการันใกล้เคียงอย่างไร ภูมิภาคเหมาะกับใคร และควรไปเมื่อไหร่

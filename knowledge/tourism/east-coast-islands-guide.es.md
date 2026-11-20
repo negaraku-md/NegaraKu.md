@@ -31,7 +31,7 @@ faq:
     a: "No. La pesca está prohibida dentro de los límites del parque marino, y los visitantes no pueden recoger ninguna parte de un organismo marino —vivo o muerto— incluidos fragmentos de coral y conchas, ni tocar, pisar o dañar de otro modo el coral."
 
 lang: "es"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Amplia playa de arena blanca que se curva hacia un pequeño islote rocoso boscoso, con agua turquesa y palmeras en Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: La larga playa de arena blanca de Pulau Redang con su islote rocoso y agua turquesa, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Vista elevada sobre tejados de chalés rústicos y palmeras hacia una bahía turquesa radiante salpicada de pequeñas barcas y un promontorio boscoso en las Islas Perhentian
+    kind: actual
+    origin: third-party
+    subject: Vista elevada sobre un pueblo playero y su bahía turquesa salpicada de barcas en las Islas Perhentian, base popular para el snorkel
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Preséntese en un complejo de playa de Redang en diciembre y probablemente encontrará las embarcaciones ausentes, el embarcadero en silencio y la tienda de buceo cerrada. Las islas de la costa este se rigen por un calendario escrito por el mar, no por el folleto turístico, y por un conjunto de normas de parque marino que la mayoría de los recién llegados solo descubren en la taquilla.

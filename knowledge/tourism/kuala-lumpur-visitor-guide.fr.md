@@ -36,7 +36,7 @@ faq:
     a: "Couvrez vos épaules et vos genoux. À l'entrée, des sarongs sont généralement disponibles à emprunter ou à louer si votre tenue est trop découverte. Des chaussures confortables aident pour le long escalier qui monte jusqu'à la grotte-temple principale."
 
 lang: "fr"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Le bâtiment Sultan Abdul Samad et la pelouse bordée de palmiers de Merdeka Square au centre de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bâtiment Sultan Abdul Samad et Merdeka Square
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Rangées de lanternes chinoises rouges illuminées suspendues au-dessus du marché de Petaling Street, dans le quartier chinois de Kuala Lumpur, la nuit
+    kind: actual
+    origin: third-party
+    subject: Lanternes rouges de Petaling Street, quartier chinois, la nuit
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Atterrissez à l'aéroport international de Kuala Lumpur à l'aube et, en une heure, vous pouvez vous tenir au pied de deux tours argentées qui ont un jour dominé la ligne d'horizon du monde — sans voiture de location, sans planification compliquée, juste un train et une carte à valider. Cette facilité est l'essence même de KL : c'est la porte d'entrée de la Malaisie, une capitale compacte et bon marché où les sites phares se trouvent à un court trajet en train les uns des autres, et où commence presque chaque voyage ultérieur dans le pays.

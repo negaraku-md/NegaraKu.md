@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Taman berlandskap dengan kolam dan pokok renek berbunga terletak antara tebing karst batu kapur berhutan di Kek Lok Tong, Ipoh
+    kind: actual
+    origin: third-party
+    subject: Taman tepi tasik tokong gua Kek Lok Tong yang dikelilingi tebing batu kapur menjulang di selatan Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: Fasad bertiang bata merah lapuk Kellie's Castle dengan gerbang Moor berlatar langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, banglo kolonial gaya Moor yang tidak siap dibina di Batu Gajah, Lembah Kinta
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Bijih timah membina Ipoh, dan kemudian hampir meruntuhkannya. Sebuah kampung di Sungai Kinta bertukar menjadi salah satu bandar terkaya Tanah Melayu British atas kekuatan bijih yang terkubur di bawah Lembah Kinta, membina sendiri pusat kolonial yang megah, dan kemudian menyaksikan wang itu terkuras apabila harga bijih timah jatuh. Apa yang dikekalkannya ialah seni bina, bukit batu kapur yang berlubang dengan tokong gua, dan dapur yang luar biasa baik. Hari ini Ipoh ialah percutian bandar warisan-dan-makanan paling selesa di Malaysia — cukup dekat dengan Kuala Lumpur untuk lawatan sehari, cukup kaya untuk memberi ganjaran kepada hujung minggu. Panduan ini merangkumi landskap dan sejarah yang membentuknya, apa yang ada untuk dilihat di dalam dan sekitar bandar, makanan secara ringkas, serta hal praktikal untuk sampai ke sana.

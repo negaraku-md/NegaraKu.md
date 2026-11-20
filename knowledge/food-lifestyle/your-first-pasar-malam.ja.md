@@ -34,7 +34,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: ナイトマーケットの屋台で、黒い鉄板の上でジュージューと湯気を立てる、照り焼きになった串焼きの軽食の竹串
+    kind: actual
+    origin: third-party
+    subject: ナイトマーケットで鉄板の上で湯気を立てる、サテ風の串焼きの軽食
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 初めてのパサー・マラム（pasar malam）は戸惑うかもしれません。二列に並んだ

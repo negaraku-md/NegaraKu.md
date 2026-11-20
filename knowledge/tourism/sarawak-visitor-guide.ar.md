@@ -36,7 +36,7 @@ faq:
     a: "كلاهما موجود. فأماكن مثل آناه رايس قرب كوتشينغ هي مجتمعات بيوت طويلة للبيداويه لا تزال مأهولة بأُسَر مقيمة، بينما قرية ساراواك الثقافية (Sarawak Cultural Village) قرب سانتوبونغ متحف حي شُيّد خصيصًا لهذا الغرض. ويُفضَّل ترتيب زيارة بيت طويل مأهول مسبقًا، وغالبًا عبر مرشد يستطيع تفسير الزيارة باحترام."
 
 lang: "ar"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: إنسان غاب أحمر الشعر يتدلّى ويمدّ ذراعه بين الحبال وسط غابة مطيرة خضراء كثيفة في محمية Semenggoh الطبيعية
+    kind: actual
+    origin: third-party
+    subject: إنسان غاب بري يتحرّك على الحبال في الغابة المطيرة بمحمية Semenggoh الطبيعية قرب Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: بيت طويل Iban خشبي ممتد مرفوع على ركائز بسقف أحمر، تحيط به غابة مطيرة على منحدر في Sarawak
+    kind: actual
+    origin: third-party
+    subject: بيت Iban طويل تقليدي مرفوع على ركائز على طول ضفة نهر مكسوّة بالأشجار في Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 يمكنك أن تطير من كوالالمبور إلى كوتشينغ في أقل من ساعتين، دون أن تغادر بلدك، ومع ذلك تُختَم عبر الهجرة في الطرف الآخر. تلك المفاجأة في صالة الوصول هي أهم ما ينبغي فهمه عن ساراواك: فهي ولاية ماليزية تدير حدودها الخاصة.

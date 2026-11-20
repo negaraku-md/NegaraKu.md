@@ -42,7 +42,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 
 status: "published"
 aiAssisted: true
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: பழைய நகரில் பசுமையான Malacca ஆற்றின் வழியே வண்ணமயமான பாரம்பரிய கடைகள் மற்றும் மரங்களைக் கடந்து செல்லும் ஒரு ஆற்றுப் பயணப் படகு
+    kind: actual
+    origin: third-party
+    subject: பழைய-நகரக் கடைகளின் வழியே Malacca ஆற்றுப் பயணம்
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 1908-ஆம் ஆண்டின் Tamil Methodist Church-க்கு அருகில் Melaka-வின் சைனாடவுன் தெருவின் நுழைவாயிலைக் குறிக்கும் Jonker Walk வாயில் வளைவு
+    kind: actual
+    origin: third-party
+    subject: Tamil Methodist Church-க்கு அருகில் Jonker Walk வாயில் வளைவு
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 மாலை நேரத்தில் Dutch Square இல் நின்றால், ஒரே பார்வையில் ஐந்து நூற்றாண்டுகளை நீங்கள் படிக்கலாம்: ஒரு பக்கத்தில் ஒரு சால்மன்-சிவப்பு டச்சு நகர மண்டபம், மேலே உள்ள மலையில் ஒரு போர்த்துகீசிய கால தேவாலயத்தின் இடிபாடுகள், பிரிட்டிஷார் இடிக்க முயன்ற ஒரு கோட்டையை ஒரு காலத்தில் நங்கூரமிட்ட ஒரு கல் வாயில், மற்றும் — இரண்டு நிமிட நடையில் — வெள்ளிக்கிழமை இரவுச் சந்தைக்காக இப்போது ஒளிரும் சீன-மலாய் நகர இல்லங்கள் நிறைந்த ஒரு சந்து. மலாக்கா தனது வரலாற்றை ஒரு பெரிய நகரம் முழுவதும் பரப்புவதில்லை. அதை நீங்கள் ஒரு பிற்பகலில் நடந்து செல்லக்கூடிய ஏறக்குறைய ஒரு சதுர மைல் பரப்பில் அடுக்கிவைக்கிறது. அதை எப்படிப் படிப்பது, அதைச் சுற்றி ஒரு வருகையை எப்படித் திட்டமிடுவது என்பது இங்கே.

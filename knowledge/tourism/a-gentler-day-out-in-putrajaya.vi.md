@@ -35,7 +35,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: Cầu dây văng Seri Wawasan hình cánh buồm bắc qua hồ ở Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Cầu Seri Wawasan, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: Cận cảnh mái vòm màu hồng phấn với hoa văn tinh xảo của Thánh đường Putra trên nền trời giông bão ở Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Mái vòm hồng phấn của Thánh đường Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 Putrajaya tưởng thưởng cho một chuyến thăm, nhưng nó trừng phạt kế hoạch sai. Thủ đô hành chính liên bang được xây dựng có chủ đích của Malaysia là một thành phố của **những đại lộ rộng, công trình hoành tráng, quảng trường nghi lễ, cầu và một hồ nhân tạo lớn** — đẹp đẽ, và được xây cho xe hơi. Các địa danh của nó rải rác qua các khu (precinct) được đánh số, thường cách nhau một cây số hoặc hơn, với ít bóng râm ở giữa. Đến với kỳ vọng dạo bộ từ nhà thờ đến các khu vườn đến các cửa hàng và bạn sẽ dành cả một ngày nóng nực lội bộ những quãng đường dài, phơi nắng. Đến với một kế hoạch thong thả hơn và Putrajaya trở thành một trong những ngày nghỉ nhẹ nhàng dễ nhất gần Kuala Lumpur.

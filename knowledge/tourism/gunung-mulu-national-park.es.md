@@ -37,7 +37,7 @@ faq:
     a: "Casi todo el mundo llega en avión. No hay carretera al parque, así que los visitantes toman un vuelo corto en avioneta hasta el aeropuerto de Mulu, lo más común desde Miri, en Sarawak, con otros servicios que lo enlazan con la región. A la llegada te registras en la sede del parque, cerca del aeropuerto. Como las plazas, las habitaciones y las actividades guiadas son limitadas, reserva vuelos, alojamiento y tours juntos y con mucha antelación (mulupark.com; Wikipedia)."
 
 lang: "es"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Enorme boca oscura de cueva en escarpados acantilados de piedra caliza cubiertos de selva en Deer Cave, Parque Nacional Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: La vasta entrada de Deer Cave, uno de los mayores pasajes de cueva del mundo, enmarcada por imponentes acantilados de piedra caliza cubiertos de selva en Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Cámara de caverna suavemente iluminada con paredes de roca pálida y lisa y un río subterráneo en calma dentro de Clearwater Cave, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: El interior iluminado de Clearwater Cave con su río subterráneo, parte de uno de los sistemas de cuevas más largos del Sudeste Asiático en Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 En lo profundo de la selva de Sarawak, donde montañas de piedra caliza se alzan directamente de la jungla y no llega ninguna carretera, se encuentra uno de los paisajes más extraordinarios de Malasia — y una de las regiones de cuevas más estudiadas del planeta. El Parque Nacional de Gunung Mulu es donde se halla la cámara de cueva más grande del mundo, un pasaje de cueva lo bastante grande para atravesarlo con un jumbo, un río nocturno de millones de murciélagos, y un bosque de cumbre de láminas de piedra caliza lo bastante afiladas para destrozar una bota. También es genuinamente remoto: se llega en avioneta, se va a casi todas partes con guía, y se reserva con meses de antelación. Esta guía cubre qué es Mulu, qué hay que ver bajo tierra y sobre ella, los dos grandes treks, cómo funciona el acceso, y los errores que cometen los primerizos.

@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 
 status: "published"
 aiAssisted: true
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: Penyu agar berenang di atas melalui air biru kehijauan bercahaya matahari, dilihat dari bawah
+    kind: actual
+    origin: third-party
+    subject: Penyu agar meluncur melalui air biru kehijauan cerah, antara tarikan utama menyelam di sekitar Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Kawanan besar ikan keperakan berpusing di sebelah terumbu karang dengan pancaran cahaya matahari menembusi air biru ketika menyelam di Sipadan
+    kind: actual
+    origin: third-party
+    subject: Kawanan padat ikan karang dan pancaran matahari di atas karang ketika menyelam di Sipadan, salah satu lokasi menyelam terbaik dunia
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 Satu menara tunggal berselimut karang yang menjulang enam ratus meter terus dari dasar Laut Sulawesi, berpusar dengan penyu dan puting beliung barakuda — Sipadan ialah sebab penyelam serius meletakkan timur Sabah dalam senarai mereka, dan sebab seluruh ekonomi pelancongan telah tumbuh di sekeliling pekan kecil Semporna. Tetapi ia bukan tempat yang boleh anda sekadar hadir dan selami. Sipadan ialah taman marin yang dilindungi ketat dengan permit harian yang dihadkan, tiada penginapan di pulau itu sendiri, dan konteks zon keselamatan di pantai sekitar yang perlu difahami oleh pendatang kali pertama dengan tenang dan berfakta. Panduan ini merangkumi apa yang menjadikan penyelaman bertaraf dunia, bagaimana permit dan had harian sebenarnya berfungsi, di mana anda menginap, bagaimana Sipadan berbeza daripada Taman Marin Tun Sakaran berdekatan, untuk siapa rantau ini sesuai, dan bila hendak pergi.

@@ -40,7 +40,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: 타일이 깔린 언덕 위 광장에서 추녀가 치켜올라간 붉은색과 금색의 중국식 사원 정자 옆에 높이 솟은 다층 탑
+    kind: actual
+    origin: third-party
+    subject: 겐팅 하이랜드 친 스위 동굴 사원의 화려한 정자와 다층 탑
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: 국기들이 나부끼는 극적인 각진 갈색 차양 입구 위로 우뚝 솟은 흰색 리조트 호텔 정면
+    kind: actual
+    origin: third-party
+    subject: 특징적인 뾰족한 차양 현관을 갖춘 리조트 월드 겐팅의 언덕 위 카지노 호텔 타워
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 쿠알라룸푸르의 더위를 벗어나 산길을 오르다 보면, 중간쯤 어딘가에서 창문이 뿌옇게 흐려지고 공기가 차가워집니다. 수도를 떠난 지 한 시간 안에 거의 1,800미터의 구름 속에, 산꼭대기에 쌓인 네온 리조트 도시 앞에 서 있을 수 있습니다. 그 대비 — 아래의 열대 저지대, 위의 서늘하고 안개 낀 정상, 한나절이면 닿는 — 가 겐팅 하이랜드의 전부입니다. 이 가이드는 그것이 실제로 무엇인지, 어떻게 올라가는지, 무엇을 할 수 있는지, 카지노를 어떻게 분별 있게 대할지, 그리고 첫 방문객이 걸려드는 실수를 다룹니다.

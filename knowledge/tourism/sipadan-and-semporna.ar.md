@@ -37,7 +37,7 @@ faq:
     a: "الغوص ممكن طوال العام، لكن أهدأ البحار وأصفى المياه تقع عموماً في الفترة الأجفّ من نحو أبريل إلى نحو أكتوبر–ديسمبر، مع أوضح رؤية غالباً في أوائل تلك النافذة (dive-the-world؛ PADI). والتصاريح أصعب نيلاً في أكثر الأشهر ازدحاماً، فاحجز قبل وقت طويل (Malaysia Travel)."
 
 lang: "ar"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: سلحفاة بحرية خضراء تسبح في الأعلى عبر مياه فيروزية مضاءة بأشعة الشمس، مرئية من الأسفل
+    kind: actual
+    origin: third-party
+    subject: سلحفاة بحرية خضراء تنزلق عبر مياه فيروزية ساطعة، أحد المشاهد المميزة للغوص حول Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: سرب ضخم دوّار من الأسماك الفضية بجوار شعاب مرجانية مع أشعة الشمس المتسللة عبر المياه الزرقاء أثناء الغوص في Sipadan
+    kind: actual
+    origin: third-party
+    subject: سرب كثيف من أسماك الشعاب وأشعة الشمس فوق المرجان أثناء الغوص في Sipadan، أحد أفضل مواقع الغوص في العالم
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 برج مرجاني مفرد يرتفع ستمئة متر مباشرةً من قاع بحر سيليبس، يدور بالسلاحف وأعاصير الباراكودا — سيبادان هو السبب في أن الغوّاصين الجادّين يضعون شرق صباح على قائمتهم، والسبب في أن اقتصاد سفر بأكمله نما حول بلدة سمبورنا الصغيرة. لكنه ليس مكاناً تحضر إليه وتغوص ببساطة. سيبادان متنزّه بحري محمي بصرامة بتصريح يومي محدود، بلا إقامة على الجزيرة نفسها، وبسياق منطقة أمنية على الساحل المحيط ينبغي أن يفهمه الزوّار لأول مرة بهدوء ووقائعية. يتناول هذا الدليل ما يجعل الغوص من الطراز العالمي، وكيف يعمل التصريح والحدّ اليومي فعلاً، وأين تقيم، وكيف يختلف سيبادان عن متنزّه تون ساكاران البحري القريب، ولمن تناسب المنطقة، ومتى تذهب.

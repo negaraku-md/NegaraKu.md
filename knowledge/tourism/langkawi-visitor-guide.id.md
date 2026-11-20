@@ -36,7 +36,7 @@ faq:
     a: "Periode yang lebih kering dan tenang berlangsung sekitar November hingga Maret, yang paling cocok untuk island hopping, kereta gantung dan waktu di pantai. September dan Oktober cenderung menjadi bulan paling lembap, meski hujan biasanya berupa hujan tropis singkat dan bukan hujan sepanjang hari."
 
 lang: "id"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Pohon palem dan batu gelap membingkai pasir putih Pantai Cenang di samping air biru toska, dengan parasail di udara
+    kind: actual
+    origin: third-party
+    subject: Pantai Cenang dengan pohon palem dan laut biru toska
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Gondola SkyCab merah meluncur di atas hutan hujan lebat menghadap marina dan teluk biru toska di pulau Langkawi
+    kind: actual
+    origin: third-party
+    subject: Kereta gantung SkyCab Langkawi di atas hutan dan marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Sembilan puluh sembilan pulau, batuan yang lebih tua daripada ikan, wiski murah dan sebuah kereta gantung yang tergantung di sisi gunung yang terbentuk dari batuan yang diperkirakan berusia lebih dari 550 juta tahun — Langkawi memuat jumlah yang luar biasa banyak ke dalam satu kepulauan di ujung barat laut Malaysia. Ia merupakan pulau liburan utama pantai barat negara, dan ia berfungsi menurut logika yang hampir berlawanan dengan pulau-pulau selam berpohon palma di seberang semenanjung. Panduan ini merangkum hal yang benar-benar penting sebelum Anda pergi: aturan bebas pajak yang sering membingungkan orang, geopark UNESCO yang memberi latar belakang pada pemandangannya, SkyCab dan SkyBridge, pelayaran perahu yang sepadan untuk diambil, dan cara memilih antara Langkawi dengan pantai timur.

@@ -35,7 +35,7 @@ faq:
     a: "시파단은 산호초 회복을 위해 매년 11월에 폐쇄되므로, 다이빙 여행은 12월부터 10월 사이로 계획하십시오. 그 밖에도 더 비가 많은 북동 몬순(대략 11월부터 3월) 기간에는 보르네오에 비가 더 많습니다."
 
 lang: "ko"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: 사바 라북 베이에서 흐릿한 녹색 숲을 배경으로 한, 옅은 황금빛 털과 긴 코를 지닌 코주부원숭이 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 사바 라북 베이에서 촬영한, 보르네오 고유종 코주부원숭이
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: 코타키나발루의 바다 위로 어선들과 수평선의 섬이 실루엣으로 드러난 불타는 주황빛 노을
+    kind: actual
+    origin: third-party
+    subject: 어선들이 실루엣으로 떠 있고 수평선에 섬들이 보이는 코타키나발루 해안가의 황금빛 노을
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 쿠알라룸푸르에서 코타키나발루(Kota Kinabalu)까지 나라를 떠나지 않고 비행하고도 착륙하면 출입국 창구에 줄을 서게 됩니다. 이 의외의 사실은 많은 첫 방문객을 놀라게 하며 — 사바 여행을 계획하기 전에 이해해야 할 가장 중요한 한 가지입니다. 이 가이드는 관문, 주요 명소, 그리고 사바를 그 자체의 고유한 곳으로 느끼게 하는 입국 규정을 살펴봅니다. 어떤 매우 실질적인 의미에서 사바는 실제로 그러하기 때문입니다.

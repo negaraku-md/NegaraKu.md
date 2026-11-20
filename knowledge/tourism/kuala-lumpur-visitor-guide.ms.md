@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 
 status: "published"
 aiAssisted: true
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Bangunan Sultan Abdul Samad dan laman Dataran Merdeka berbaris pokok palma di tengah Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Abdul Samad dan Dataran Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Deretan tanglung merah Cina bergantungan di atas pasar Jalan Petaling di Chinatown Kuala Lumpur pada waktu malam
+    kind: actual
+    origin: third-party
+    subject: Tanglung merah Chinatown Jalan Petaling pada waktu malam
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Mendarat di Lapangan Terbang Antarabangsa Kuala Lumpur pada waktu subuh dan, dalam masa sejam, anda boleh berdiri di bawah dua menara perak yang pernah menguasai langit dunia — tanpa kereta sewa, tanpa perancangan rumit, hanya sebuah kereta api dan kad mengetip. Kemudahan itulah yang menjadi intipati KL: ia adalah pintu depan Malaysia, sebuah ibu negara yang padat dan murah di mana tarikan-tarikan utama terletak berdekatan dengan sekali perjalanan rel, dan di mana hampir setiap perjalanan seterusnya di negara ini bermula.

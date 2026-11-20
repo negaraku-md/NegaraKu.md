@@ -31,7 +31,7 @@ faq:
     a: "不可以。海洋公园范围内禁止钓鱼，游客不得采集海洋生物的任何部分——无论死活——包括珊瑚碎片和贝壳，也不得触摸、踩踏或以其他方式破坏珊瑚。"
 
 lang: "zh"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: 热浪岛上宽阔的白沙滩向一座林木葱郁的小礁岛弯曲延伸，碧绿海水与棕榈树相映
+    kind: actual
+    origin: third-party
+    subject: 登嘉楼热浪岛绵长的白沙滩，外海礁岛与碧绿海水
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: 从高处俯瞰停泊小船点点的碧绿海湾、质朴的小木屋屋顶与棕榈树，以及林木覆盖的海岬，摄于停泊岛
+    kind: actual
+    origin: third-party
+    subject: 从高处俯瞰停泊岛海滨村落及船只点点的碧绿海湾，热门浮潜据点
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 十二月来到热浪岛的沙滩度假村，你多半会发现船只不见了、码头一片寂静、潜水店也关门大吉。东海岸岛屿依循的是一份由海洋书写的日历，而不是旅游手册——它们也依循一套多数初次到访者要到售票柜台才发现的海洋公园规则。

@@ -31,7 +31,7 @@ faq:
     a: "Se trata de visitas culturales guiadas a aldeas Semai, normalmente con una demostración de cerbatana y charlas sobre los modos de vida del bosque. Ve con un guía local de confianza, pide permiso antes de fotografiar a las personas y trátalo como un intercambio cultural respetuoso y no como un espectáculo."
 
 lang: "es"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Un sendero estrecho que serpentea entre árboles retorcidos y raíces cubiertos de musgo en el neblinoso Mossy Forest de Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Sendero entre los árboles cubiertos de musgo del Mossy Forest en Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Largas bateas elevadas de plantas de fresa con bayas rojas maduras dentro de un invernadero en una granja de fresas de Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Hileras de plantas de fresa en un invernadero de una granja de fresas de Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Baja del autobús en Tanah Rata y lo primero que notas es tu propio aliento — el aire es lo bastante fresco como para que un suéter deje de parecer ridículo, incluso en el ecuador. Ese es todo el sentido de Cameron Highlands: un bloque de montaña templada apilado sobre la Malasia tropical, donde el té crece en pulcra pana verde sobre las lomas y las fresas maduran en túneles de plástico al borde de la carretera.

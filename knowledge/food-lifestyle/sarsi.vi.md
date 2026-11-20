@@ -44,7 +44,7 @@ sources:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: Một ly đầy nước giải khát sarsaparilla (sarsae) có ga màu nâu đỏ sẫm
+    kind: actual
+    origin: third-party
+    subject: ly nước giải khát sarsaparilla Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 Không phải thức uống nào trên bàn ăn Malaysia cũng được pha, kéo hay ép. Có những món đến

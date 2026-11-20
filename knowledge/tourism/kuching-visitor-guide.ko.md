@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: 쿠칭 사라왁 강 북안에 자리한, 장식 대문이 있는 흰색 고딕 아치 식민지 시대 궁전 아스타나
+    kind: actual
+    origin: third-party
+    subject: 쿠칭에서 옛 백인 라자들이 머물던 역사적인 흰색 강변 궁전 아스타나
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: 쿠칭 옛 차이나타운의 한 거리를 표시하는, 빨간 등불이 걸린 화려한 중국식 아치 문
+    kind: actual
+    origin: third-party
+    subject: 빨간 등불과 상점가 간판이 어우러진 쿠칭 옛 차이나타운(잘란 아탑 일대)의 중국식 의례용 아치 문
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 저녁 한나절이면 쿠칭의 강변을 끝까지 걸으며 콜로니얼 요새, 라자의 궁, 중국 사원을 지나고, 보르네오의 위대한 국수 한 그릇을 먹고, 거대한 고양이 조각상과 포즈를 취할 수 있습니다 — 모두 도시를 떠나지 않고. 쿠칭은 사라왁의 주도이자 최대 도시로, 보르네오섬 사라왁 남서쪽 끝의 사라왁강 가에 자리합니다([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). 대부분의 사라왁 여행이 시작되는 느긋한 강 도시 거점입니다. 이 가이드는 도시 자체 — 워터프런트, 브룩 시대 역사, 차이나타운과 박물관, 그리고 고양이 — 와, 이곳이 둘러싼 열대우림과 야생동물을 향한 발판으로 어떻게 작동하는지를 다룹니다.

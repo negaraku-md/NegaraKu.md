@@ -37,7 +37,7 @@ faq:
     a: "Johor ấm và ẩm quanh năm và đáng thăm trong bất kỳ mùa nào, nhưng độ phơi của nó bị chia tách: bờ biển Desaru và hướng đông bị ảnh hưởng bởi gió mùa đông bắc từ khoảng tháng 11 đến tháng 3, khi biển động hơn và một số hoạt động thuyền tạm dừng, trong khi thành phố JB, các công viên chủ đề và bờ tây chạy quanh năm. Khung bãi biển khô nhất, êm nhất ở phía đông nhìn chung là giữa năm. Đối với thành phố và các công viên, các chuyến thăm vào ngày thường né được cả đám đông và các hàng dài vượt biên tệ nhất."
 
 lang: "vi"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: Mặt tiền khách sạn Legoland Malaysia Resort rực rỡ sắc màu ghép từ các viên gạch Lego ở Johor
+    kind: actual
+    origin: third-party
+    subject: Khách sạn Legoland Malaysia Resort, Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: Một bãi biển cát trắng trên bờ biển Johor với làn nước xanh ngọc, một mỏm đá nhô ra có cắm lá cờ đỏ và bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Một bãi biển cát trắng trên bờ biển Johor
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 Hầu hết du khách gặp Johor tại một hàng dài biên giới — trong một chiếc xe trên Causeway, trên một chuyến xe buýt tại Second Link, hoặc trên chuyến tàu con thoi ngắn vào JB Sentral — và coi thành phố như một đoạn rẽ mua-sắm-và-ẩm-thực từ Singapore. Điều đó đánh giá thấp nó. Johor Bahru là thủ phủ của bang cực nam Malaysia và là cửa ngõ nơi bán đảo gặp nước cộng hòa đảo bên kia mặt nước, với một lõi di sản dễ đi bộ, một trong những cụm công viên chủ đề gia đình lớn nhất châu Á ngay trước cửa, và cả một bang phía sau nó: các bãi biển ở phía đông, rừng ngập mặn ở mũi phía nam, và núi non cùng rừng mưa trong nội địa. Cẩm nang này bao gồm cách các cửa khẩu hoạt động, có gì để làm trong thành phố, các công viên chủ đề, bờ biển và nội địa, Johor phù hợp với ai, và một sai lầm bắt gần như tất cả mọi người — tính sai thời điểm vượt biên.

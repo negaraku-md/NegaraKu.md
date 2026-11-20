@@ -38,7 +38,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Semenggoh Nature Reserve-இல் அடர்த்தியான பச்சை மழைக்காட்டுக்கு இடையே கயிறுகளுக்கு இடையே தொங்கி நீளும் ஒரு சிவப்பு-முடி ஒராங்குட்டான்
+    kind: actual
+    origin: third-party
+    subject: Kuching-க்கு அருகில் Semenggoh Nature Reserve-இல் மழைக்காட்டில் கயிறுகளின் வழியே நகரும் ஒரு காட்டு ஒராங்குட்டான்
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Sarawak மலைச்சரிவில் மழைக்காட்டால் பின்னணியாக, சிவப்புக் கூரையுடன் கம்பங்களில் உயர்த்தப்பட்ட ஒரு நீண்ட மரத்தாலான Iban நீள்வீடு
+    kind: actual
+    origin: third-party
+    subject: Sarawak-இல் காடு மூடிய ஆற்றங்கரையோரம் கம்பங்களில் உயர்த்தப்பட்ட ஒரு பாரம்பரிய Iban நீள்வீடு
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 கோலாலம்பூரிலிருந்து குச்சிங்கிற்கு இரண்டு மணிநேரத்திற்குள் பறக்கலாம், உங்கள் சொந்த நாட்டை ஒருபோதும் விட்டு வெளியேறாமலேயே, இருந்தாலும் மறுமுனையில் குடிவரவின் வழியாக முத்திரையிடப்படுவீர்கள். வருகை மண்டபத்தில் ஏற்படும் அந்த ஆச்சரியம்தான் சரவாக்கைப் புரிந்துகொள்வதில் மிக முக்கியமான ஒற்றை விஷயம்: இது தன் சொந்த எல்லையை நடத்தும் ஒரு மலேசிய மாநிலம்.

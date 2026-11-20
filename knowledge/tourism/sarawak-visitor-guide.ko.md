@@ -36,7 +36,7 @@ faq:
     a: "둘 다 존재합니다. 쿠칭 인근의 안나 라이스(Annah Rais) 같은 곳은 여전히 가족이 거주하는 살아 있는 비다유(Bidayuh) 롱하우스 공동체이며, 산투봉(Santubong) 인근의 사라왁 문화 마을(Sarawak Cultural Village)은 목적형으로 지어진 살아 있는 박물관입니다. 실제 운영되는 롱하우스 방문은 미리, 흔히 방문을 존중하는 태도로 해설해 줄 가이드를 통해 준비하는 것이 가장 좋습니다."
 
 lang: "ko"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: 스멩고 자연보호구역에서 울창한 녹색 열대우림 속 밧줄 사이를 매달려 손을 뻗는 붉은 털 오랑우탄
+    kind: actual
+    origin: third-party
+    subject: 쿠칭 인근 스멩고 자연보호구역의 열대우림에서 밧줄을 따라 이동하는 야생 오랑우탄
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: 사라왁의 한 언덕에서 열대우림을 등지고 기둥 위에 올린 붉은 지붕의 긴 목조 이반족 롱하우스
+    kind: actual
+    origin: third-party
+    subject: 사라왁의 숲 덮인 강가를 따라 기둥 위에 지은 전통 이반족 롱하우스
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 쿠알라룸푸르에서 쿠칭(Kuching)까지 두 시간 이내에 날아가, 자기 나라를 떠난 적이 없으면서도 반대편에 도착해 출입국 스탬프를 받게 됩니다. 도착장에서의 그 의외의 일이 사라왁에 대해 이해해야 할 가장 중요한 한 가지입니다. 사라왁은 자체 국경을 운영하는 말레이시아 주입니다.

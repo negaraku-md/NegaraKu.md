@@ -36,7 +36,7 @@ faq:
     a: "ปกปิดไหล่และเข่าของคุณ โดยทั่วไปมีผ้าโสร่งให้ยืมหรือเช่าที่ทางเข้าหากเสื้อผ้าของคุณเปิดเผยเกินไป รองเท้าที่สบายช่วยกับบันไดยาวขึ้นสู่ถ้ำวัดหลัก"
 
 lang: "th"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: อาคารสุลต่านอับดุลซามัด (Sultan Abdul Samad Building) และสนามหญ้าจัตุรัสเมอร์เดกา (Merdeka Square) ที่เรียงรายด้วยต้นปาล์มในใจกลางกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: อาคารสุลต่านอับดุลซามัดและจัตุรัสเมอร์เดกา
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: แถวโคมไฟจีนสีแดงเรืองแสงแขวนเหนือตลาดถนนเปอตาลิง (Petaling Street) ในย่านไชนาทาวน์ของกัวลาลัมเปอร์ยามค่ำคืน
+    kind: actual
+    origin: third-party
+    subject: โคมไฟแดงไชนาทาวน์ถนนเปอตาลิงยามค่ำคืน
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 ลงเครื่องที่ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ยามรุ่งสาง และภายในหนึ่งชั่วโมง คุณสามารถยืนอยู่ใต้ตึกสีเงินสองตึกที่ครั้งหนึ่งเคยครองเส้นขอบฟ้าของโลก โดยไม่ต้องเช่ารถ ไม่ต้องวางแผนซับซ้อน เพียงรถไฟและบัตรแตะเข้า ความง่ายนั้นคือประเด็นทั้งหมดของ KL เป็นประตูหน้าของมาเลเซีย เมืองหลวงที่กะทัดรัดและราคาไม่แพงที่สถานที่พาดหัวอยู่ห่างกันเพียงนั่งรถไฟสั้น ๆ และที่ซึ่งเกือบทุกการเดินทางต่อในประเทศเริ่มต้น

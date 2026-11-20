@@ -36,7 +36,7 @@ faq:
     a: "มีทั้งสอง ที่อย่างอันนะฮ์ไรส์ (Annah Rais) ใกล้กูจิงเป็นชุมชนบ้านยาวบีดายุฮ์ที่มีชีวิตซึ่งครอบครัวยังอาศัยอยู่ ในขณะที่หมู่บ้านวัฒนธรรมซาราวักใกล้ซันตูบง (Santubong) เป็นพิพิธภัณฑ์ที่มีชีวิตที่สร้างขึ้นเพื่อการนี้ การเยือนบ้านยาวที่ทำงานอยู่ควรจัดล่วงหน้าและมักผ่านไกด์ที่ตีความการเยือนได้อย่างเคารพ"
 
 lang: "th"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: ลิงอุรังอุตังขนสีแดงห้อยและเอื้อมระหว่างเชือกท่ามกลางป่าฝนเขียวหนาทึบที่เขตอนุรักษ์ธรรมชาติเซเมงโกะห์ (Semenggoh Nature Reserve)
+    kind: actual
+    origin: third-party
+    subject: ลิงอุรังอุตังป่ากำลังเคลื่อนไปตามเชือกในป่าฝนที่เขตอนุรักษ์ธรรมชาติเซเมงโกะห์ใกล้กูชิง
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: บ้านยาวอิบัน (Iban longhouse) ไม้ยาวยกพื้นสูงบนเสาพร้อมหลังคาสีแดง มีป่าฝนเป็นฉากหลังบนเนินเขาในซาราวัก
+    kind: actual
+    origin: third-party
+    subject: บ้านยาวอิบันดั้งเดิมยกพื้นสูงบนเสาริมฝั่งแม่น้ำที่ปกคลุมด้วยป่าในซาราวัก
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปกูจิงได้ในเวลาไม่ถึงสองชั่วโมง ไม่เคยออกนอกประเทศของตัวเอง และยังถูกประทับตราผ่านการตรวจคนเข้าเมืองที่ปลายทาง ความประหลาดใจที่ห้องขาเข้านั้นเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจเกี่ยวกับซาราวัก มันเป็นรัฐมาเลเซียที่ดำเนินพรมแดนของตนเอง

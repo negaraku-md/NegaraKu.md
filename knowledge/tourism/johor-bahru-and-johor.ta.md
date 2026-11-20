@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: Johor-இல் Legoland Malaysia Resort ஹோட்டலின் பிரகாசமான வண்ண Lego-செங்கல் முகப்பு
+    kind: actual
+    origin: third-party
+    subject: Legoland Malaysia Resort ஹோட்டல், Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: பசுமையான நீர், சிவப்புக் கொடி தாங்கிய பாறை முகடு மற்றும் நீல வானத்துடன் Johor கடற்கரையில் ஒரு வெண்மணல் கடற்கரை
+    kind: actual
+    origin: third-party
+    subject: Johor கடற்கரையில் ஒரு வெண்மணல் கடற்கரை
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 பெரும்பாலான வருகையாளர்கள் ஜொகூரை ஒரு எல்லை வரிசையில் சந்திக்கிறார்கள் — காஸ்வேயில் ஒரு காரில், Second Link-இல் ஒரு பேருந்தில், அல்லது JB Sentral-க்குள் குறுகிய shuttle ரயிலில் — மேலும் நகரத்தை சிங்கப்பூரிலிருந்து ஒரு கடைவீதி-மற்றும்-உணவு திசைமாற்றமாக நடத்துகிறார்கள். அது அதைக் குறைத்து விற்கிறது. ஜொகூர் பாரு மலேசியாவின் தெற்கு மாநிலத்தின் தலைநகரம் மற்றும் தீபகற்பம் நீரின் குறுக்கே தீவு குடியரசைச் சந்திக்கும் நுழைவாயில், ஒரு நடக்கக்கூடிய பாரம்பரிய மையம், அதன் வாசலில் ஆசியாவின் மிகப் பெரிய குடும்ப கருப்பொருள்-பூங்கா கூட்டங்களில் ஒன்று, மேலும் அதன் பின்னால் ஒரு முழு மாநிலம்: கிழக்கில் கடற்கரைகள், தெற்கு நுனியில் சதுப்புநிலங்கள், மேலும் உட்பகுதியில் மலைகளும் மழைக்காடும். இந்த வழிகாட்டி கடப்புகள் எவ்வாறு இயங்குகின்றன, நகரத்தில் என்ன செய்யலாம், கருப்பொருள் பூங்காக்கள், கடற்கரை மற்றும் உட்பகுதி, ஜொகூர் யாருக்குப் பொருந்துகிறது, மேலும் கிட்டத்தட்ட அனைவரையும் பிடிக்கும் ஒரே தவறு — கடப்பு நேரத்தைத் தவறாக்குவது — ஆகியவற்றை உள்ளடக்குகிறது.

@@ -43,7 +43,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "ms"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: Segelas minuman ringan sarsi (sarsae) berkarbonat berwarna coklat kemerahan gelap
+    kind: actual
+    origin: third-party
+    subject: segelas minuman ringan sarsi Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 Tidak setiap minuman di meja Malaysia diseduh, ditarik atau diperah. Ada yang datang dari

@@ -36,7 +36,7 @@ faq:
     a: "Les deux existent. Des lieux comme Annah Rais, près de Kuching, sont des communautés bidayuh de longhouse vivantes où des familles résident encore, tandis que le Sarawak Cultural Village, près de Santubong, est un musée vivant construit à cet effet. Visiter une longhouse habitée s'organise mieux à l'avance et souvent par l'intermédiaire d'un guide capable d'interpréter la visite avec respect."
 
 lang: "fr"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Un orang-outan au pelage roux suspendu et se déplaçant entre des cordes au milieu d'une forêt tropicale dense et verdoyante, à la réserve naturelle de Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Un orang-outan sauvage se déplaçant le long de cordes dans la forêt tropicale de la réserve naturelle de Semenggoh près de Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Une longue maison communautaire iban en bois sur pilotis au toit rouge, adossée à la forêt tropicale sur une colline de Sarawak
+    kind: actual
+    origin: third-party
+    subject: Une maison longue iban traditionnelle sur pilotis le long d'une berge boisée à Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Vous pouvez prendre l'avion de Kuala Lumpur à Kuching en moins de deux heures, ne jamais quitter votre propre pays et recevoir malgré tout un cachet d'immigration à l'autre bout. Cette surprise dans le hall des arrivées est la seule chose la plus importante à comprendre au sujet de Sarawak : c'est un État malaisien qui gère sa propre frontière.

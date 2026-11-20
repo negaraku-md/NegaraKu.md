@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: 布城横跨湖面、形似风帆的斜拉桥斯里瓦瓦桑大桥
+    kind: actual
+    origin: third-party
+    subject: 布城斯里瓦瓦桑大桥
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: 布城布特拉清真寺玫瑰粉色穹顶的精致纹饰特写，背景是阴云密布的天空
+    kind: actual
+    origin: third-party
+    subject: 布城布特拉清真寺的玫瑰粉色穹顶
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 布城（Putrajaya）值得一访，但它会惩罚错误的计划。马来西亚这座专门建造的联邦行政首都是一座拥有**宽阔大道、宏伟建筑、庄严广场、桥梁和一座大型人工湖**的城市——既美丽，又为汽车而建。它的各处地标散布在按编号划分的分区（Precinct）之间，彼此往往相隔一公里以上，中间少有遮荫。若你抱着从清真寺散步到花园、再到商店的预期而来，就会在漫长、暴晒的路程上走过炎热的一天。而若你带着更悠闲的计划前来，布城就会成为吉隆坡附近最轻松平静的一日游之一。

@@ -98,6 +98,25 @@ visitFacts:
   getThere: 'Fly into Penang International Airport south of George Town, or reach the island overland via the Penang Bridge and the Sultan Abdul Halim Muadzam Shah Bridge, or take the Rapid Ferry from Butterworth to the George Town waterfront.'
   watch: 'Treat the street art as a gateway rather than the whole story, since the clan houses, temples and shophouse streets are what the UNESCO listing actually protects.'
   next: 'Confirm current funicular schedules and rules with the Penang Hill Corporation.'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Red Chinese lanterns strung above Armenian Street, lined with colourful heritage shophouses and cafes, in George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: A row of brightly decorated passenger trishaws with flowers and umbrellas lined up in front of heritage buildings in George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: George Town trishaws
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Land on the island, step out of the air-conditioning, and the first thing that hits you is the smell — wok smoke, incense from a Chinese temple, frangipani, and the salt of the Strait of Malacca. George Town is a place you read with your feet: a compact grid of century-old shophouses where a mosque, a clan house and a colonial church can share a single block. This guide covers what to see, where to eat, how to reach the beaches and the hill, and how long to give a city that rewards slowness.

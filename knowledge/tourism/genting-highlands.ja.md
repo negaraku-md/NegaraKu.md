@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: タイル張りの丘の上の広場で、反り上がった軒を持つ赤と金の中国寺院の東屋と、その隣にそびえる段状の塔
+    kind: actual
+    origin: third-party
+    subject: ゲンティンハイランドのチンスイ洞窟寺院の華麗な東屋と多層の塔
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: 国旗がはためく、ドラマチックな角張った茶色の庇の入口の上にそびえる、白くそびえ立つリゾートホテルのファサード
+    kind: actual
+    origin: third-party
+    subject: 特徴的な尖った車寄せを持つ、丘の上のリゾート・ワールド・ゲンティンのカジノホテルタワー
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 クアラルンプールの暑さを抜けて山道を登っていくと、中間点を過ぎたあたりのどこかで、窓が曇り始め、空気が冷たくなります。首都を出て1時間のうちに、山頂に積み上げられたネオンのリゾート都市を前に、ほぼ1,800メートルの雲の中に立つことができます。その対比——下は熱帯の低地、上は涼しく霧がかった頂上、午前中で到達できる——こそがゲンティン・ハイランドのすべての売りです。本ガイドは、それが実際に何であるか、どうやって登るか、何ができるか、カジノとどう賢く向き合うか、そして初めての人を引っかける間違いを扱います。

@@ -34,7 +34,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: कटे हुए shallot और लाल मिर्च के साथ मिले गुलाबी cincalok (किण्वित छोटे झींगे) का एक व्यंजन
+    kind: actual
+    origin: third-party
+    subject: कटे हुए shallot और मिर्च के साथ मसाले के रूप में परोसा गया Cincalok
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: कच्चे आम की कतरनों, shallot और लाल मिर्च के साथ गहरे भूरे budu anchovy सॉस का एक काँच का कटोरा
+    kind: actual
+    origin: third-party
+    subject: कटे हुए आम, shallot और मिर्च के साथ Budu (किण्वित anchovy सॉस) डिप
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 किसी भी मलेशियाई गीले बाज़ार, kampung रसोई या kedai runcit की बोतलबंद मसालों की शेल्फ से गुज़रिए और आपको वही तीन नाम मिलेंगे: **belacan** (झींगे का किण्वित पेस्ट), **cincalok** (cencaluk) और **budu** (किण्वित एंकोवी मछली सॉस)। ये दिखने और महकने में ऐसे लगते हैं जैसे एक ही परिवार के हों — सभी नमकीन, सभी तीखे, सभी छोटे समुद्री जीवों को नमक में किण्वित करके बनाए गए — और मेनू व नुस्खों में इनके नाम ढीले ढंग से इस्तेमाल होते हैं। लेकिन ये तीन अलग चीज़ें हैं, अलग तरीके से बनी, अलग शुरुआती बिंदुओं से, और अलग तरीकों से इस्तेमाल होने वाली। यह जानना कि कौन-सा कौन है, आपको उस चीज़ को भूनने से बचाता है जिसे कच्चा खाना चाहिए, या वहाँ मछली सॉस डालने से जहाँ झींगा पेस्ट जाना चाहिए।

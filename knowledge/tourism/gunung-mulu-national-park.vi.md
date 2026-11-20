@@ -37,7 +37,7 @@ faq:
     a: "Gần như ai cũng bay. Không có đường bộ vào vườn, nên du khách đi một chuyến bay ngắn trên một máy bay nhỏ đến Sân bay Mulu, phổ biến nhất là từ Miri ở Sarawak, với các chuyến khác nối nó với khu vực. Khi đến nơi, bạn đăng ký tại trụ sở vườn gần sân bay. Vì ghế, phòng và các hoạt động có hướng dẫn đều có hạn, hãy đặt vé máy bay, chỗ ở và tour cùng nhau và từ rất sớm (mulupark.com; Wikipedia)."
 
 lang: "vi"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Cửa hang tối khổng lồ nằm trong những vách đá vôi dựng đứng phủ rừng mưa tại Hang Nai, Vườn quốc gia Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Cửa hang rộng lớn của Hang Nai, một trong những lối hang lớn nhất thế giới, bao quanh bởi những vách đá vôi phủ rừng rậm sừng sững tại Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Buồng hang được chiếu sáng dịu với vách đá nhạt màu nhẵn mịn và một dòng sông ngầm tĩnh lặng bên trong Hang Clearwater, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Nội thất được chiếu sáng của Hang Clearwater với dòng sông ngầm, một phần của một trong những hệ thống hang dài nhất Đông Nam Á tại Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 Sâu trong rừng mưa của Sarawak, nơi những ngọn núi đá vôi vươn thẳng ra khỏi rừng già và không có con đường nào vươn tới, là một trong những cảnh quan phi thường nhất Malaysia — và một trong những vùng hang động được nghiên cứu nhiều nhất hành tinh. Vườn Quốc gia Gunung Mulu là nơi bạn tìm thấy khoang hang lớn nhất thế giới, một đường hang đủ lớn để lái một chiếc máy bay phản lực cỡ lớn xuyên qua, một dòng sông hằng đêm gồm hàng triệu con dơi, và một khu rừng trên đồi gồm những lưỡi đá vôi đủ sắc để xé toạc một chiếc giày. Nó cũng thực sự hẻo lánh: bạn đến bằng một máy bay nhỏ, bạn đi gần như mọi nơi với một hướng dẫn viên, và bạn đặt trước nhiều tháng. Cẩm nang này bao gồm Mulu là gì, có gì để xem dưới lòng đất và trên mặt đất, hai chuyến trekking lớn, cách thức tiếp cận hoạt động, và những sai lầm mà người lần đầu mắc phải.

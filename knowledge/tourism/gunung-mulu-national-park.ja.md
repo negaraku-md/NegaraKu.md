@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: グヌン・ムル国立公園のディア洞窟で、熱帯雨林に覆われた切り立った石灰岩の崖にある巨大な暗い洞窟の入口
+    kind: actual
+    origin: third-party
+    subject: 世界最大級の洞窟通路のひとつであるディア洞窟の巨大な入口。グヌン・ムルの、ジャングルに覆われてそびえる石灰岩の崖に囲まれている
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: グヌン・ムルのクリアウォーター洞窟内の、滑らかな淡色の岩壁と静かな地下の川がある、柔らかく照らされた洞窟の空間
+    kind: actual
+    origin: third-party
+    subject: 地下の川を擁するクリアウォーター洞窟の照らされた内部。グヌン・ムルにある東南アジア最長級の洞窟系の一部
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 サラワクの熱帯雨林の奥深く、石灰岩の山々がジャングルからまっすぐそびえ、道路の届かないところに、マレーシアで最も並外れた景観の一つ——そして地球上で最もよく研究された洞窟地域の一つ——があります。グヌン・ムル国立公園は、世界最大の洞窟空間、ジャンボジェットが通り抜けられるほど大きな洞窟通路、夜ごとの数百万匹のコウモリの川、そしてブーツを切り裂くほど鋭い石灰岩の刃の森が、丘の上にある場所です。それはまた本当に辺境です。小型機で到着し、ほとんどどこへもガイドとともに行き、数か月前に予約します。本ガイドは、ムルとは何か、地下と地上に何が見られるか、二つの大きなトレック、アクセスの仕組み、そして初めての人が犯す間違いを扱います。

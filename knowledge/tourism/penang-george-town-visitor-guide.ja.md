@@ -37,8 +37,8 @@ faq:
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "d3f6eff7dfce43ca"
+translationStatus: "in-sync"
+sourceContentHash: "27ba8b4ff7b2dafc"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: ペナンのジョージタウンで、色とりどりの歴史的商店建築やカフェが並ぶアルメニアン通りの上に連なる赤い中国のランタン
+    kind: actual
+    origin: third-party
+    subject: アルメニアン通り、ジョージタウン
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: ペナンのジョージタウンで、歴史的建造物の前に並ぶ、花や傘で華やかに飾られた客用三輪車（トライショー）の列
+    kind: actual
+    origin: third-party
+    subject: ジョージタウンのトライショー
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 島に降り立ち、冷房から一歩外へ出ると、まず押し寄せてくるのは匂いだ——中華鍋の煙、華人寺院の線香、プルメリア、そしてマラッカ海峡の潮の香り。ジョージタウンは足で読む街である。築百年の店屋が密に並ぶ一角では、モスクと宗祠と植民地時代の教会がひとつの街区を分かち合っていることもある。本ガイドは、何を見るか、どこで食べるか、ビーチと丘へどう向かうか、そして、ゆっくり過ごす者に報いるこの街にどれだけの時間を割くべきかを取り上げる。

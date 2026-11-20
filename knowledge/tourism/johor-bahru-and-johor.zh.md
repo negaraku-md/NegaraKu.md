@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: 柔佛乐高乐园度假村酒店色彩斑斓的乐高积木式立面
+    kind: actual
+    origin: third-party
+    subject: 柔佛乐高乐园度假村酒店
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: 柔佛海岸一处白沙滩，碧绿海水、一块插着红旗的礁石与蓝天
+    kind: actual
+    origin: third-party
+    subject: 柔佛海岸的一处白沙滩
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 大多数游客是在一条关卡排队中初见柔佛的——车子在长堤上、巴士在第二通道上，或搭短程接驳列车进入新山中央车站——并把这座城市当作从新加坡出发的购物与美食顺道一游。这小看了它。新山是马来西亚最南端州属的首府，是半岛隔水与岛国相接的门户，拥有可步行的古迹核心、门口就有亚洲最大的家庭主题乐园群之一，背后还有一整个州属：东部的海滩、南端的红树林，以及内陆的群山和雨林。本指南涵盖关卡如何运作、城里有什么可做、各主题乐园、海岸与内陆、柔佛适合谁，以及那个几乎人人都会踩的坑——弄错通关的时机。

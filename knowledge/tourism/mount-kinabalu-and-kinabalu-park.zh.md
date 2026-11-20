@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: 蓝天下，登山者正穿越京那巴鲁山一座岩峰下方光秃的花岗岩山顶台地
+    kind: actual
+    origin: third-party
+    subject: 京那巴鲁山的花岗岩山顶尖峰，登山者行走于光秃的岩石台地上
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: 京那巴鲁公园内，一株硕大的红绿相间的拉贾猪笼草生长在山地植被之间
+    kind: actual
+    origin: third-party
+    subject: 京那巴鲁公园内的巨型拉贾猪笼草
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 一顶花岗岩王冠自婆罗洲的雨林中拔地而起，直抵刚过4,000米的高处；一座植物物种比某些大洲还多的世界遗产公园；以及一条管控到你得在订机票之前就先预订的登顶之路——京那巴鲁山是马来西亚最负盛名的单一自然地标，也是实际游览起来最有章法的地标之一。它坐落于沙巴，位于马来西亚的婆罗洲一侧，并回馈两类截然不同的旅行者：身强体健、安排周密、追逐喜马拉雅山与新几内亚之间最高峰上一轮黎明的登山者，以及只想呼吸凉爽山间空气、看看奇异食虫植物、在温泉里泡个澡的一日游访客。本指南兼顾两者，也涵盖人们出发前惯常搞错的事情。

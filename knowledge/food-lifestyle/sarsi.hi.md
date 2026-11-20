@@ -45,7 +45,7 @@ sources:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: गहरे लाल-भूरे रंग के झागदार sarsaparilla (sarsae) शीतल पेय से भरा एक गिलास
+    kind: actual
+    origin: third-party
+    subject: Asia Sarsae sarsaparilla शीतल पेय का गिलास
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 मलेशियाई मेज़ पर हर पेय बनाया, खींचा या निचोड़ा नहीं जाता। कुछ एक बोतल से आते हैं — और कम

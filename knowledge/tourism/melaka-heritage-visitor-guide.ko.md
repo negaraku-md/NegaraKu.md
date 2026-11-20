@@ -40,7 +40,7 @@ faq:
     a: "잘란 툰 탄 청 록 48 & 50번지에 있는 이 박물관은 화요일에 휴관합니다. 평일(화요일 제외)에는 오전 10시~오후 4시 15분, 주말에는 오전 10시~오후 4시 45분에 개관합니다. 시간과 가격은 바뀔 수 있으므로 방문 전 박물관 공식 사이트에서 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: 구시가지의 청록빛 말라카 강을 따라 알록달록한 유산 상점가와 나무들 옆을 지나는 강 유람선
+    kind: actual
+    origin: third-party
+    subject: 구시가지 상점가 사이를 지나는 말라카 강 유람선
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 1908년 타밀 감리교회 옆, 말라카 차이나타운 거리 입구를 표시하는 존커 워크 관문 아치
+    kind: actual
+    origin: third-party
+    subject: 타밀 감리교회 옆 존커 워크 관문 아치
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 해 질 녘 더치 스퀘어(Dutch Square)에 서면 한눈에 다섯 세기를 읽을 수 있습니다. 한쪽에는 연어빛 붉은 네덜란드 시청, 위쪽 언덕에는 포르투갈 시대 교회의 폐허, 영국이 허물려 했던 요새를 한때 지탱했던 돌문, 그리고 — 2분 거리에 — 금요일 밤 시장을 위해 불을 밝힌 중국-말레이 타운하우스 골목이 있습니다. 믈라카는 역사를 큰 도시에 펼쳐 놓지 않습니다. 오후 한나절이면 걸을 수 있는 약 1제곱마일에 켜켜이 쌓아 둡니다. 이를 어떻게 읽고, 그 주변으로 방문을 어떻게 계획하는지 소개합니다.

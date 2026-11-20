@@ -37,7 +37,7 @@ faq:
     a: "ยะโฮร์อบอุ่นและชื้นตลอดปีและคุ้มค่าการเยือนทุกฤดู แต่การเปิดรับแบ่งออก ชายฝั่งเดซารูและชายฝั่งที่หันตะวันออกได้รับผลจากมรสุมตะวันออกเฉียงเหนือราวเดือนพฤศจิกายนถึงมีนาคม เมื่อทะเลคลื่นแรงกว่าและกิจกรรมเรือบางอย่างหยุด ขณะที่เมือง JB สวนสนุก และชายฝั่งตะวันตกวิ่งตลอดปี ช่วงชายหาดที่แห้งและสงบที่สุดบนฝั่งตะวันออกกว้าง ๆ คือกลางปี สำหรับเมืองและสวนสนุก การเยือนวันธรรมดาหลบทั้งฝูงชนและคิวจุดข้ามที่แย่ที่สุด"
 
 lang: "th"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: ด้านหน้าอาคารสีสันสดใสรูปตัวต่อเลโก้ของโรงแรมเลโกแลนด์มาเลเซียรีสอร์ต (Legoland Malaysia Resort) ในยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: โรงแรมเลโกแลนด์มาเลเซียรีสอร์ต ยะโฮร์
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: หาดทรายขาวบนชายฝั่งยะโฮร์พร้อมน้ำทะเลสีเทอร์ควอยซ์ โขดหินที่มีธงแดงปักอยู่ด้านบน และท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: หาดทรายขาวบนชายฝั่งยะโฮร์
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 ผู้มาเยือนส่วนใหญ่พบยะโฮร์ที่คิวชายแดน ในรถบนคอสเวย์ บนรถบัสที่สะพานเชื่อมที่สอง หรือบนรถไฟรับส่งสั้น ๆ เข้า JB Sentral และปฏิบัติต่อเมืองเป็นทางแวะช้อปปิง-และ-อาหารจากสิงคโปร์ นั่นเป็นการมองข้ามคุณค่าของมัน ยะโฮร์บาห์รูเป็นเมืองหลวงของรัฐที่อยู่ใต้สุดของมาเลเซียและประตูที่คาบสมุทรบรรจบกับสาธารณรัฐเกาะข้ามน้ำ ด้วยแกนมรดกที่เดินได้ หนึ่งในกลุ่มสวนสนุกครอบครัวที่ใหญ่ที่สุดในเอเชียอยู่หน้าประตู และทั้งรัฐอยู่เบื้องหลัง ชายหาดทางตะวันออก ป่าชายเลนที่ปลายใต้ และภูเขาและป่าฝนในแผ่นดิน คู่มือนี้ครอบคลุมว่าจุดข้ามทำงานอย่างไร มีอะไรทำในเมือง สวนสนุก ชายฝั่งและตอนใน ยะโฮร์เหมาะกับใคร และข้อผิดพลาดหนึ่งที่จับได้เกือบทุกคน การกะจังหวะจุดข้ามผิด

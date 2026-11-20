@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: ジョホール州のレゴランド・マレーシア・リゾートのホテルの、色とりどりのレゴブロックのファサード
+    kind: actual
+    origin: third-party
+    subject: レゴランド・マレーシア・リゾートのホテル、ジョホール州
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: ターコイズブルーの海、赤い旗を掲げた岩の露頭、青空のある、ジョホール海岸の白砂のビーチ
+    kind: actual
+    origin: third-party
+    subject: ジョホール海岸の白砂のビーチ
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 ほとんどの訪問者は国境の行列でジョホールと出会い——コーズウェイの車の中で、セカンド・リンクのバスで、あるいはJBセントラルへの短いシャトル列車で——そして街をシンガポールからのショッピングと食の寄り道として扱います。それはこの街を安く見積もっています。ジョホールバルはマレーシア最南端の州の州都で、半島が水を挟んで島国と出会う玄関口であり、歩きやすい遺産の中核、その目の前にアジア有数の家族向けテーマパーク群、そして背後に州まるごと——東にビーチ、南端にマングローブ、内陸に山と熱帯雨林——を持っています。本ガイドは、国境越えの仕組み、街で何ができるか、テーマパーク、海岸と内陸、ジョホール州が誰に向いているか、そしてほぼ全員を引っかける一つの間違い——国境越えのタイミングを誤ること——を扱います。

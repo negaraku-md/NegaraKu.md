@@ -37,7 +37,7 @@ faq:
     a: "เดือนที่แห้งกว่า ราวเดือนมีนาคมถึงกันยายน มักให้สภาพอากาศบนยอดที่เสถียรที่สุด แม้กีนาบาลูสร้างเมฆและฝนของตัวเองและฝนอาจตกได้ทุกวัน (อุทยานซาบาห์) การดันขึ้นสู่ยอดเริ่มก่อนรุ่งสางเพื่อชิงหน้าเมฆที่ก่อตัวในช่วงสาย เนื่องจากที่นั่งถูกจำกัดและขายหมดล่วงหน้ามากในช่วงพีกและวันหยุด ให้ล็อกวันของคุณแต่เนิ่น ๆ และเผื่อเวลาสำรองสำหรับสภาพอากาศ"
 
 lang: "th"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: นักปีนเขากำลังข้ามที่ราบยอดเขาหินแกรนิตเปล่าเปลือยใต้ยอดหินบนภูเขากีนาบาลู (Mount Kinabalu) ใต้ท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: ยอดหินแกรนิตของภูเขากีนาบาลูพร้อมนักปีนเขาบนที่ราบหินเปล่าเปลือย
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: ต้นหม้อข้าวหม้อแกงลิง Nepenthes rajah สีแดงและเขียวขนาดใหญ่เติบโตท่ามกลางพืชพรรณบนภูเขาในอุทยานกีนาบาลู (Kinabalu Park)
+    kind: actual
+    origin: third-party
+    subject: ต้นหม้อข้าวหม้อแกงลิงยักษ์ Nepenthes rajah ในอุทยานกีนาบาลู
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 มงกุฎหินแกรนิตที่ผุดขึ้นตรงจากป่าฝนของบอร์เนียวสู่ความสูงเกิน 4,000 เมตรเล็กน้อย อุทยานมรดกโลกที่มีพืชพรรณมากกว่าบางทวีป และการปีนสู่ยอดที่ถูกปันส่วนอย่างแน่นหนาจนคุณต้องจองมันก่อนจองเที่ยวบิน ยอดเขากีนาบาลูเป็นหมุดหมายทางธรรมชาติที่โด่งดังที่สุดเพียงหนึ่งเดียวในมาเลเซีย และเป็นหนึ่งในที่ที่มีโครงสร้างในการไปเยือนจริงมากที่สุด ตั้งอยู่ในซาบาห์ ในส่วนของบอร์เนียวที่เป็นของมาเลเซีย และให้รางวัลแก่นักเดินทางสองแบบที่ต่างกันมาก คือนักปีนที่ฟิตและมีระเบียบที่ไล่ตามรุ่งอรุณบนยอดที่สูงที่สุดระหว่างเทือกเขาหิมาลัยและนิวกินี กับนักท่องเที่ยววันเดียวที่เพียงต้องการอากาศภูเขาเย็น ๆ พืชกินแมลงแปลก ๆ และการแช่ในบ่อน้ำพุร้อน คู่มือนี้ครอบคลุมทั้งสองแบบ และสิ่งที่ผู้คนมักเข้าใจผิดเป็นประจำก่อนไป

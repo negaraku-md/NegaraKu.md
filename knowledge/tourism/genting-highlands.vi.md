@@ -38,7 +38,7 @@ faq:
     a: "Ba điều: đánh giá thấp thời tiết (đỉnh núi thường bị mây bao phủ, lạnh và ướt, nên hãy mang một lớp áo và đừng mong tầm nhìn quang đãng theo yêu cầu), đi vào cuối tuần hoặc ngày lễ công cộng và bị bất ngờ bởi đám đông và hàng dài tại cáp treo và các điểm thu hút, và đến mà không đặt trước khách sạn, vé vào công viên chủ đề hoặc cáp treo trong các giai đoạn cao điểm. Kiểm tra trò chơi và điểm thu hút cụ thể nào đang mở trước khi đi cũng tránh được sự thất vọng."
 
 lang: "vi"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Đình chùa Trung Hoa màu đỏ-vàng với mái cong vút bên cạnh một ngôi tháp nhiều tầng cao trên quảng trường lát gạch trên đỉnh đồi
+    kind: actual
+    origin: third-party
+    subject: Đình và tháp nhiều tầng tinh xảo của Chùa Động Chin Swee tại Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Mặt tiền khách sạn resort cao màu trắng phía trên lối vào mái vòm nâu góc cạnh ấn tượng treo cờ quốc gia
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp khách sạn-sòng bạc trên đỉnh đồi của Resorts World Genting với mái che cổng nhọn đặc trưng
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Lái xe lên đường núi ra khỏi cái nóng của Kuala Lumpur và, đâu đó quá nửa đường, cửa kính bắt đầu mờ sương và không khí trở lạnh. Trong vòng một giờ rời thủ đô, bạn có thể đứng trong mây ở gần 1,800 mét, trước một thành phố nghỉ dưỡng rực đèn neon xếp chồng trên một đỉnh núi. Sự tương phản đó — vùng thấp nhiệt đới bên dưới, đỉnh núi mát mẻ sương mù bên trên, đến được trong một buổi sáng — là toàn bộ đề xuất của Genting Highlands. Cẩm nang này bao gồm nó thực sự là gì, cách lên đó, có gì để làm, cách đối xử với sòng bạc một cách hợp lý, và những sai lầm bắt những người lần đầu.

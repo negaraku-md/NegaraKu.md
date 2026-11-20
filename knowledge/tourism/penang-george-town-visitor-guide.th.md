@@ -36,9 +36,9 @@ faq:
     a: "ปีนังเป็นจุดหมายตลอดปีที่มีภูมิอากาศเขตร้อนร้อนชื้น ฝนอาจตกได้ทุกเดือนแต่มักตกหนักที่สุดในช่วงระหว่างมรสุม (ราวเดือนเมษายน–พฤษภาคม และกันยายน–พฤศจิกายน) ช่วงที่แห้งและเย็นกว่าราวเดือนธันวาคมถึงกุมภาพันธ์เป็นที่นิยม ยามเช้าและบ่ายแก่ ๆ เป็นเวลาที่สบายที่สุดในการเดิน"
 
 lang: "th"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: โคมไฟจีนสีแดงแขวนเหนือถนนอาร์เมเนียน (Armenian Street) ที่เรียงรายด้วยตึกแถวมรดกและคาเฟ่สีสันสดใสในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: ถนนอาร์เมเนียน จอร์จทาวน์
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: แถวรถสามล้อถีบโดยสารประดับประดาสดใสด้วยดอกไม้และร่ม จอดเรียงรายหน้าอาคารมรดกในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: รถสามล้อถีบจอร์จทาวน์
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 ลงบนเกาะ ก้าวออกจากเครื่องปรับอากาศ และสิ่งแรกที่กระทบคุณคือกลิ่น ควันกระทะ ธูปจากวัดจีน ดอกลั่นทม และไอเค็มของช่องแคบมะละกา จอร์จทาวน์เป็นที่ที่คุณอ่านด้วยเท้า ผังตึกแถวอายุร้อยปีที่กะทัดรัด ที่ซึ่งมัสยิด บ้านตระกูล และโบสถ์อาณานิคมอาจอยู่ในบล็อกเดียวกัน คู่มือนี้ครอบคลุมสิ่งที่ควรชม ที่ที่ควรกิน วิธีไปถึงชายหาดและเนินเขา และควรให้เวลาแค่ไหนกับเมืองที่ให้รางวัลกับความช้า

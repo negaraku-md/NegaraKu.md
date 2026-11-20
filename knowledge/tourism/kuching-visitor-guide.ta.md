@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: Kuching-இல் Sarawak ஆற்றின் வட கரையில், அலங்கார வாயிலுடனான வெள்ளை Gothic-வளைவு காலனிய அரண்மனையான The Astana
+    kind: actual
+    origin: third-party
+    subject: The Astana, Kuching-இல் முன்னாள் White Rajah-க்களின் வரலாற்று வெள்ளை ஆற்றங்கரை அரண்மனை
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Kuching-இன் பழைய சைனாடவுனில் ஒரு தெருவைக் குறிக்கும், சிவப்பு விளக்குகள் தொங்கவிடப்பட்ட அலங்கார சீன வளைவு வாயில்
+    kind: actual
+    origin: third-party
+    subject: Kuching-இன் பழைய சைனாடவுனில் (Jalan Attap பகுதி) சிவப்பு விளக்குகள் மற்றும் கடை அறிவிப்புப் பலகைகளுடனான சீன சம்பிரதாய வளைவு வாயில்
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 நீங்கள் ஒரு மாலையில் குச்சிங்கின் ஆற்றங்கரையின் நீளத்தை நடந்து, வழியில் ஒரு காலனித்துவ கோட்டை, ஒரு ராஜாவின் அரண்மனை மற்றும் ஒரு சீனக் கோயிலைக் கடந்து, போர்னியோவின் பெரும் நூடுல் கிண்ணங்களில் ஒன்றைச் சாப்பிட்டு, ஒரு ராட்சத பூனை சிலையுடன் போஸ் கொடுக்கலாம் — அனைத்தும் நகரத்தை விட்டு வெளியேறாமல். குச்சிங் சரவாக்கின் தலைநகரமும் மிகப் பெரிய நகரமும், போர்னியோ தீவில் மாநிலத்தின் தென்மேற்கு நுனியில் சரவாக் ஆற்றில் அமைந்துள்ளது ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). இது பெரும்பாலான சரவாக் பயணங்கள் தொடங்கும் நிதானமான, ஆற்று-நகரத் தளம். இந்த வழிகாட்டி நகரத்தையே — அதன் நீர்முகப்பு, அதன் Brooke-கால வரலாறு, அதன் சைனாடவுன் மற்றும் அருங்காட்சியகங்கள், மேலும் அதன் பூனைகள் — மேலும் அதைச் சூழும் மழைக்காடு மற்றும் வனவிலங்குகளுக்கான ஒரு தொடக்கப் புள்ளியாக அது எவ்வாறு இயங்குகிறது என்பதையும் உள்ளடக்குகிறது.

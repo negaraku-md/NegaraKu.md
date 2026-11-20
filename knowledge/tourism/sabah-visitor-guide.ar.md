@@ -35,7 +35,7 @@ faq:
     a: "يُغلق سيبادان كل نوفمبر لتعافي الشعاب، فخطّط لرحلات الغوص بين ديسمبر وأكتوبر. وفي أماكن أخرى، تجلب أشهر الرياح الموسمية الشمالية الشرقية الأكثر رطوبةً (نحو نوفمبر إلى مارس) مزيدًا من المطر إلى بورنيو."
 
 lang: "ar"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: لقطة قريبة لقرد الخرطوم ذي الفراء الذهبي الشاحب والأنف الطويل على خلفية غابة خضراء ضبابية في Labuk Bay، Sabah
+    kind: actual
+    origin: third-party
+    subject: قرد الخرطوم، المتوطّن في Borneo، مصوّراً في Labuk Bay بـ Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: غروب برتقالي ناري فوق البحر في Kota Kinabalu، مع صور ظلية لقوارب صيد وجزيرة في الأفق
+    kind: actual
+    origin: third-party
+    subject: غروب ذهبي فوق واجهة Kota Kinabalu البحرية مع صور ظلية لقوارب الصيد على البحر وجزر في الأفق
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 بإمكانك أن تطير من كوالالمبور إلى كوتا كينابالو دون مغادرة البلد ومع ذلك تقف في طابور عند منضدة الهجرة حين تهبط. تلك المفاجأة تباغت كثيرًا من الزوّار لأول مرة — وهي أهمّ أمر مفرد ينبغي فهمه قبل أن تخطّط لرحلة إلى صباح. ويمرّ هذا الدليل بالبوّابة، والمعالم البارزة، وقواعد الدخول التي تجعل صباح تبدو كأنها مكان قائم بذاته، لأنها كذلك بمعنى واقعي جدًّا.

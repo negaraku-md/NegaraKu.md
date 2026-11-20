@@ -117,6 +117,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Palm trees and dark rocks framing the white sand of Pantai Cenang beside turquoise water, a parasail overhead
+    kind: actual
+    origin: third-party
+    subject: Pantai Cenang beach with palms and turquoise sea
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Red SkyCab gondolas gliding above dense rainforest overlooking a marina and turquoise bays on Langkawi island
+    kind: actual
+    origin: third-party
+    subject: Langkawi SkyCab cable car over jungle and marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Ninety-nine islands, rocks older than fish, cheap whisky and a cable car that hangs off the side of a mountain built from rock estimated at over 550 million years old — Langkawi packs an unusual amount into one archipelago off Malaysia's northwest tip. It is the country's flagship west-coast holiday island, and it works on almost the opposite logic to the palm-fringed diving islands on the other side of the peninsula. This guide covers what actually matters before you go: the duty-free rules that trip people up, the UNESCO geopark that gives the scenery its backstory, the SkyCab and SkyBridge, the boat tours worth taking, and how to decide between Langkawi and the east coast.

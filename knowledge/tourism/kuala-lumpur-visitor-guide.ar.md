@@ -36,7 +36,7 @@ faq:
     a: "غطِّ كتفيك وركبتيك. وعادةً ما تتوفر أزرة (سارونغ) للاستعارة أو الاستئجار عند المدخل إذا كان لباسك مكشوفاً أكثر من اللازم. والأحذية المريحة تساعد في الدرج الطويل الصاعد إلى كهف المعبد الرئيسي."
 
 lang: "ar"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: مبنى Sultan Abdul Samad ومرج ساحة Merdeka المحاط بالنخيل في وسط Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: مبنى Sultan Abdul Samad وساحة Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: صفوف من الفوانيس الصينية الحمراء المتوهّجة معلّقة فوق سوق Petaling Street في الحي الصيني بـ Kuala Lumpur ليلاً
+    kind: actual
+    origin: third-party
+    subject: فوانيس حمراء في الحي الصيني Petaling Street ليلاً
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 تهبط في مطار كوالالمبور الدولي عند الفجر، وفي غضون ساعة يمكنك أن تقف تحت برجين فضيّين حكما يوماً ما أفق العالم — بلا سيارة مستأجَرة، ولا تخطيط معقّد، بل قطار وبطاقة تمرير فحسب. تلك السهولة هي جوهر كوالالمبور كله: فهي الباب الأمامي لماليزيا، عاصمة مدمَجة وزهيدة تتقارب فيها المعالم الرئيسية على مسافة رحلة سكّة قصيرة، ومنها تبدأ كل رحلة تالية في البلاد تقريباً.

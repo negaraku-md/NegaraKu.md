@@ -37,7 +37,7 @@ faq:
     a: "Le Johor est chaud et humide toute l'année et vaut la peine d'être visité en toute saison, mais son exposition est partagée : la Desaru et la côte orientée à l'est sont affectées par la mousson du nord-est d'environ novembre à mars, lorsque les mers sont plus agitées et que certaines activités en bateau s'interrompent, tandis que la ville de JB, les parcs à thème et la côte ouest fonctionnent toute l'année. La fenêtre de plage la plus sèche et la plus calme du côté est se situe globalement au milieu de l'année. Pour la ville et les parcs, les visites en semaine évitent à la fois la foule et les pires files aux passages."
 
 lang: "fr"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: La façade colorée en briques Lego de l'hôtel du Legoland Malaysia Resort à Johor
+    kind: actual
+    origin: third-party
+    subject: Hôtel du Legoland Malaysia Resort, Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: Une plage de sable blanc sur la côte de Johor avec une eau turquoise, un affleurement rocheux surmonté d'un drapeau rouge et un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Une plage de sable blanc sur la côte de Johor
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 La plupart des visiteurs rencontrent le Johor dans une file à la frontière — en voiture sur le Causeway, en bus au Second Link, ou dans le court train navette vers JB Sentral — et traitent la ville comme un détour shopping-et-cuisine depuis Singapour. C'est la vendre trop court. Johor Bahru est la capitale de l'État le plus méridional de Malaisie et la porte où la péninsule rencontre la république insulaire de l'autre côté de l'eau, avec un cœur patrimonial piétonnier, l'un des plus grands pôles de parcs à thème familiaux d'Asie à sa porte, et tout un État derrière elle : des plages à l'est, des mangroves à la pointe sud, et des montagnes et de la forêt tropicale à l'intérieur. Ce guide couvre le fonctionnement des passages, que faire en ville, les parcs à thème, la côte et l'intérieur, à qui le Johor convient, et la seule erreur qui piège presque tout le monde — se tromper de moment pour le passage.

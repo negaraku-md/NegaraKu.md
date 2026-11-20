@@ -37,7 +37,7 @@ faq:
     a: "يطير الجميع تقريباً. لا طريق يدخل المتنزّه، فيستقلّ الزوّار رحلة قصيرة على طائرة صغيرة إلى مطار مولو، في الغالب من ميري (Miri) في ساراواك، مع خدمات أخرى تربطه بالمنطقة. وعند الوصول تسجّل في مقرّ المتنزّه قرب المطار. ولأن المقاعد والغرف والأنشطة المرشدة محدودة، احجز الرحلات والإقامة والجولات معاً وقبل وقت طويل (mulupark.com؛ Wikipedia)."
 
 lang: "ar"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: فوهة كهف مظلمة ضخمة في منحدرات حجر جيري عمودية مكسوّة بالغابة المطيرة في Deer Cave بحديقة Gunung Mulu الوطنية
+    kind: actual
+    origin: third-party
+    subject: المدخل الشاسع لـ Deer Cave، أحد أكبر ممرات الكهوف في العالم، تحيط به منحدرات حجر جيري شاهقة مكسوّة بالأدغال في Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: قاعة كهف مضاءة بهدوء بجدران صخرية شاحبة ملساء ونهر جوفي ساكن داخل Clearwater Cave، Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: داخل Clearwater Cave المضاء مع نهره الجوفي، جزء من أحد أطول أنظمة الكهوف في جنوب شرق آسيا في Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 عميقاً داخل غابة ساراواك المطيرة، حيث ترتفع جبال الحجر الجيري مباشرةً من الأدغال ولا طريق يبلغها، يقع أحد أكثر المشاهد استثناءً في ماليزيا — وأحد أكثر مناطق الكهوف دراسةً على الكوكب. متنزّه جبل مولو الوطني هو حيث تجد أكبر غرفة كهفية في العالم، وممرّاً كهفياً كبيراً بما يكفي لتطير عبره طائرة ضخمة، ونهراً ليلياً من ملايين الخفافيش، وغابة قمم من شفرات الحجر الجيري على تلّة حادّة بما يكفي لتمزّق حذاءً. وهو أيضاً نائٍ فعلاً: تصل على طائرة صغيرة، وتذهب إلى كل مكان تقريباً مع مرشد، وتحجز قبل أشهر. يتناول هذا الدليل ما هو مولو، وما يُرى تحت الأرض وفوقها، والرحلتين الكبيرتين، وكيف يعمل الوصول، والأخطاء التي يقع فيها الزوّار لأول مرة.

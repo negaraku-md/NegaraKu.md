@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: タマンヌガラで、背の高い熱帯雨林の木々の間に吊るされた、細いロープと板のキャノピーウォークを渡る訪問者
+    kind: actual
+    origin: third-party
+    subject: タマンヌガラの熱帯雨林の梢の高所に架かるキャノピーウォークの吊り橋
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: タマンヌガラで、丘に霧がかかる森に覆われた川岸のそばの、トゥンベリン川に浮かぶ木造のロングボート
+    kind: actual
+    origin: third-party
+    subject: 朝霧の中、タマンヌガラの船着き場のトゥンベリン川に浮かぶロングボート
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 夜明けのクアラ・タハンの桟橋に立ち、ヒマラヤよりも古い川から霧が立ちのぼるのを眺めていると、自分がクアラルンプールからわずか半日の距離にいることを忘れてしまいそうになる。タマン・ヌガラは人工的に作られた観光地ではない。数千万年にわたってほぼ手つかずのまま存在し続けてきた、生きた熱帯雨林であり——そしてそこに入るのは、ほとんどの旅行者が予想するよりも安く、簡単だ。

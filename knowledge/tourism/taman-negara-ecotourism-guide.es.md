@@ -37,7 +37,7 @@ faq:
     a: "De forma singular, el parque se rige por tres ordenanzas estatales de la época colonial — la Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 y (Terengganu) 1939 — en lugar de la National Parks Act 1980 federal. Esto se debe a que la tierra y la silvicultura son competencias estatales según la Constitución Federal de Malasia, por lo que la ley federal no se aplica a los tres estados."
 
 lang: "es"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Un visitante cruzando una estrecha pasarela de cuerda y tablones suspendida entre altos árboles de la selva en Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Pasarela colgante del dosel entre las copas de los árboles de la selva en Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Barcas largas de madera en el río Tembeling junto a una ribera boscosa con niebla sobre las colinas en Taman Negara
+    kind: actual
+    origin: third-party
+    subject: El río Tembeling con barcas largas en el embarcadero de Taman Negara entre la niebla matinal
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 De pie en el embarcadero de Kuala Tahan al amanecer, viendo la bruma levantarse de un río más antiguo que el Himalaya, es fácil olvidar que estás a apenas medio día de Kuala Lumpur. Taman Negara no es una atracción fabricada. Es una selva tropical viva que ha permanecido, en gran medida intacta, durante decenas de millones de años — y entrar en ella es más barato y sencillo de lo que casi cualquier viajero espera.

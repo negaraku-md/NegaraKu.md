@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Seorang pengunjung merentasi laluan kanopi sempit bertali dan berpapan yang tergantung antara pokok hutan hujan tinggi di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Jambatan gantung laluan kanopi tinggi di puncak pokok hutan hujan di Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Perahu panjang kayu di Sungai Tembeling di sebelah tebing sungai berhutan dengan kabus di atas bukit di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sungai Tembeling dengan perahu panjang di jeti Taman Negara pada kabus pagi
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, memerhati kabus mengangkat dari sebatang sungai yang lebih tua daripada Banjaran Himalaya, mudah untuk lupa bahawa anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah tarikan buatan. Ia sebuah hutan hujan tropika yang hidup, yang telah berdiri, secara amnya tanpa gangguan, selama berpuluh-puluh juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang dijangkakan oleh hampir mana-mana pengembara.

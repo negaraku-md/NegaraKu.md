@@ -33,7 +33,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_Ma
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: '''Central Market Since 1888''이라 적힌 쿠알라룸푸르 센트럴 마켓(파사르 세니)의 연한 파란색 아르데코 정면'
+    kind: actual
+    origin: third-party
+    subject: 센트럴 마켓(파사르 세니)의 아르데코 정면, 쿠알라룸푸르
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: 걸린 각 주의 깃발 아래 공예품과 바틱 노점이 늘어선, 쿠알라룸푸르 센트럴 마켓 내부의 북적이는 2층 지붕 아케이드
+    kind: actual
+    origin: third-party
+    subject: 센트럴 마켓의 지붕 덮인 공예품 아케이드 내부, 쿠알라룸푸르
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 쿠알라룸푸르의 비는 빠르고 거세게 쏟아져서, 야외 일정은 몇 분 만에 무너질 수

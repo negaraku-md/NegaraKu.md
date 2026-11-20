@@ -45,7 +45,7 @@ sources:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: एक बाज़ार में एक धातु के कटोरे में काँटेदार हरा soursop फल, पास में चमकीले हरे नींबुओं की नीली टोकरी
+    kind: actual
+    origin: third-party
+    subject: एक फल की दुकान पर ताज़े नींबुओं की टोकरी के पास साबुत soursop फल
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
 ---
 
 काँटेदार, हरा और भारी, **सॉरसॉप** पहली नज़र में एक छोटे durian जैसा दिखता है — जो ठीक

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: キャメロンハイランドの霧に包まれたモッシー・フォレストで、苔むしたねじれた木々と根の間を縫う細い小道
+    kind: actual
+    origin: third-party
+    subject: キャメロンハイランドのモッシー・フォレストの苔むした木々を抜ける小道
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: キャメロンハイランドのイチゴ農園の温室内で、熟した赤い実をつけたイチゴの苗が並ぶ長い高床式の栽培槽
+    kind: actual
+    origin: third-party
+    subject: キャメロンハイランドのイチゴ農園の温室に並ぶイチゴの苗
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 タナ・ラタ（Tanah Rata）でバスを降りて真っ先に気づくのは、自分の吐く息だ——赤道直下でありながら、セーターを羽織っても場違いに感じないほど空気は涼しい。それこそがキャメロンハイランドの真髄である：熱帯マレーシアの上に積み重なった温帯の丘陵地帯で、茶が尾根に沿って整然とした緑のコーデュロイを描き、イチゴが道端のビニールハウスで実っていく。

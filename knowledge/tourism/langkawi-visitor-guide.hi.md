@@ -36,7 +36,7 @@ faq:
     a: "सूखी, शांत अवधि लगभग नवंबर से मार्च तक चलती है, जो द्वीप-भ्रमण, केबल कार और समुद्र-तट के समय के लिए सबसे अच्छी है। सितंबर और अक्टूबर आमतौर पर सबसे गीले महीने होते हैं, हालाँकि बारिश आमतौर पर पूरे दिन की बौछार के बजाय छोटी उष्णकटिबंधीय बारिश होती है।"
 
 lang: "hi"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: फ़िरोज़ी पानी के पास Pantai Cenang की सफ़ेद रेत को घेरते ताड़ के पेड़ और गहरी चट्टानें, ऊपर एक parasail
+    kind: actual
+    origin: third-party
+    subject: ताड़ के पेड़ों और फ़िरोज़ी समुद्र के साथ Pantai Cenang समुद्र तट
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Langkawi द्वीप पर एक marina और फ़िरोज़ी खाड़ियों को निहारते घने वर्षावन के ऊपर सरकती लाल SkyCab गोंडोले
+    kind: actual
+    origin: third-party
+    subject: जंगल और marina के ऊपर Langkawi SkyCab केबल कार
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 निन्यानबे द्वीप, मछलियों से भी पुरानी चट्टानें, सस्ती व्हिस्की, और एक केबल कार जो 550 मिलियन वर्ष से अधिक आयु अनुमानित चट्टान से बने पहाड़ की ढलान पर लटकी है — लंकावी मलेशिया के उत्तर-पश्चिमी छोर से दूर एक ही द्वीपसमूह में असाधारण मात्रा में चीज़ें समेट लेता है। यह देश का प्रमुख पश्चिमी-तट अवकाश द्वीप है, और यह प्रायद्वीप के दूसरी ओर ताड़ के पेड़ों से घिरे गोताखोरी द्वीपों के लगभग विपरीत तर्क पर काम करता है। यह गाइड उस बात को शामिल करती है जो जाने से पहले वास्तव में मायने रखती है: वे ड्यूटी-फ्री नियम जो लोगों को उलझा देते हैं, वह यूनेस्को जियोपार्क जो दृश्यावली को उसकी पृष्ठकथा देता है, SkyCab और SkyBridge, वे नाव यात्राएँ जो करने योग्य हैं, और लंकावी तथा पूर्वी तट के बीच कैसे निर्णय लें।

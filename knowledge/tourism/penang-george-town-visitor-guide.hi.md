@@ -36,9 +36,9 @@ faq:
     a: "पिनांग एक गर्म, आर्द्र उष्णकटिबंधीय जलवायु वाला साल भर का गंतव्य है। बारिश किसी भी महीने में हो सकती है पर मानसून के बीच की अवधि (मोटे तौर पर अप्रैल–मई और सितंबर–नवंबर) के आसपास सबसे भारी होती है; दिसंबर से फरवरी के आसपास की सूखी, ठंडी खिड़की लोकप्रिय है। सुबह और देर दोपहर पैदल चलने के लिए सबसे आरामदायक समय हैं।"
 
 lang: "hi"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Penang के George Town में रंगीन विरासत shophouse और कैफ़े से घिरी Armenian Street के ऊपर लटकी लाल चीनी लालटेनें
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Penang के George Town में विरासत इमारतों के सामने कतार में खड़ी फूलों और छतरियों से चमकीले ढंग से सजी यात्री ट्राइशॉ की एक पंक्ति
+    kind: actual
+    origin: third-party
+    subject: George Town की ट्राइशॉ
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 द्वीप पर उतरें, वातानुकूलन से बाहर क़दम रखें, और पहली चीज़ जो आपको टकराती है वह है गंध — कड़ाही का धुआँ, किसी चीनी मंदिर से उठती धूप की सुगंध, फ्रैंजीपानी, और मलक्का जलडमरूमध्य का नमक। जॉर्ज टाउन एक ऐसी जगह है जिसे आप अपने पैरों से पढ़ते हैं: सदी भर पुराने शॉपहाउसों की एक सघन ग्रिड, जहाँ एक मस्जिद, एक कुल-गृह और एक औपनिवेशिक गिरजाघर एक ही ब्लॉक साझा कर सकते हैं। यह गाइड बताता है कि क्या देखें, कहाँ खाएँ, समुद्र तटों और पहाड़ी तक कैसे पहुँचें, और धीमेपन को पुरस्कृत करने वाले शहर को कितना समय दें।

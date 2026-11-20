@@ -35,7 +35,7 @@ faq:
     a: "诗巴丹每年11月为让珊瑚礁休养而关闭，因此潜水行程应安排在12月至10月之间。此外，较为多雨的东北季候风月份（大致为11月至3月）会给婆罗洲带来更多降雨。"
 
 lang: "zh"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: 沙巴拉卜湾一只长鼻猴的特写，淡金色毛发与长鼻子，背景是模糊的绿色森林
+    kind: actual
+    origin: third-party
+    subject: 婆罗洲特有的长鼻猴，摄于沙巴拉卜湾
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: 亚庇海上一轮火红的落日，渔船剪影点缀，地平线上有一座岛屿
+    kind: actual
+    origin: third-party
+    subject: 亚庇海滨的金色落日，渔船剪影映于海面，地平线上有岛屿
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 你可以从吉隆坡飞到亚庇（Kota Kinabalu）而不必离开国境，落地时却仍要在移民柜台前排队。这个意外令许多初次到访者措手不及——而这正是你在规划沙巴之行前最需要理解的一件事。本指南将带你了解入境门户、招牌景点，以及那些让沙巴感觉像是一个自成一体之地的入境规定，因为从某种非常真实的意义上说，它确实如此。

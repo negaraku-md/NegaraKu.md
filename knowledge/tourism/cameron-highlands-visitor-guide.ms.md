@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Denai sempit berliku antara pokok berlumut yang bengkang-bengkok dan akar di Hutan Lumut berkabus di Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Denai menyusuri pokok berlumut di Hutan Lumut, Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Palung tinggi memanjang penuh pokok strawberi berbuah merah ranum di dalam rumah hijau sebuah ladang strawberi Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Deretan pokok strawberi di rumah hijau sebuah ladang strawberi Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Turun dari bas di Tanah Rata dan perkara pertama yang anda perasan ialah nafas anda sendiri — udaranya cukup sejuk sehingga sehelai baju sejuk tidak lagi terasa janggal, walaupun di garisan khatulistiwa. Itulah intipati Cameron Highlands: satu bongkah tanah tinggi beriklim sederhana yang bertindih di atas Malaysia tropika, tempat teh tumbuh berbaris hijau bagai kordur di atas banjaran dan strawberi masak dalam terowong plastik di tepi jalan.

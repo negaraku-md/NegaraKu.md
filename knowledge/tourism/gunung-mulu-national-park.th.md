@@ -37,7 +37,7 @@ faq:
     a: "เกือบทุกคนบิน ไม่มีถนนเข้าอุทยาน ผู้มาเยือนจึงบินเที่ยวสั้น ๆ ด้วยเครื่องบินเล็กสู่สนามบินมูลู ส่วนใหญ่จากมิรี (Miri) ในซาราวัก โดยมีบริการอื่นเชื่อมกับภูมิภาค เมื่อมาถึงคุณลงทะเบียนที่สำนักงานใหญ่อุทยานใกล้สนามบิน เนื่องจากที่นั่ง ห้องพัก และกิจกรรมแบบมีไกด์มีจำกัด ให้จองเที่ยวบิน ที่พัก และทัวร์ร่วมกันและล่วงหน้ามาก (mulupark.com; Wikipedia)"
 
 lang: "th"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: ปากถ้ำมืดขนาดมหึมาตั้งอยู่ในหน้าผาหินปูนชันปกคลุมด้วยป่าฝนที่ถ้ำกวาง (Deer Cave) อุทยานแห่งชาติกูนุงมูลู (Gunung Mulu National Park)
+    kind: actual
+    origin: third-party
+    subject: ปากถ้ำกว้างใหญ่ของถ้ำกวาง หนึ่งในโพรงถ้ำที่ใหญ่ที่สุดในโลก โอบล้อมด้วยหน้าผาหินปูนปกคลุมป่าสูงตระหง่านที่กูนุงมูลู
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: โถงถ้ำที่ส่องสว่างนวลตาพร้อมผนังหินสีซีดเรียบและแม่น้ำใต้ดินที่นิ่งสงบภายในถ้ำน้ำใส (Clearwater Cave) กูนุงมูลู
+    kind: actual
+    origin: third-party
+    subject: ภายในที่ส่องสว่างของถ้ำน้ำใสพร้อมแม่น้ำใต้ดิน ส่วนหนึ่งของระบบถ้ำที่ยาวที่สุดแห่งหนึ่งในเอเชียตะวันออกเฉียงใต้ที่กูนุงมูลู
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 ลึกเข้าไปในป่าฝนของซาราวัก ที่ซึ่งภูเขาหินปูนผุดขึ้นตรงจากป่าและไม่มีถนนไปถึง ตั้งอยู่หนึ่งในภูมิทัศน์ที่พิเศษที่สุดในมาเลเซีย และเป็นหนึ่งในภูมิภาคถ้ำที่มีการศึกษามากที่สุดบนโลก อุทยานแห่งชาติกุนุงมูลูคือที่ที่คุณพบห้องถ้ำที่ใหญ่ที่สุดในโลก ทางเดินถ้ำใหญ่พอให้เครื่องบินจัมโบ้บินผ่าน แม่น้ำค้างคาวนับล้านตัวรายคืน และป่ายอดหินปูนบนยอดเขาที่คมพอจะฉีกรองเท้าบู๊ต มันยังห่างไกลจริง ๆ คุณมาถึงด้วยเครื่องบินเล็ก คุณไปเกือบทุกที่กับไกด์ และคุณจองล่วงหน้าหลายเดือน คู่มือนี้ครอบคลุมว่ามูลูคืออะไร มีอะไรให้ชมใต้ดินและเหนือดิน เส้นทางเทรกใหญ่สองเส้น การเข้าถึงทำงานอย่างไร และข้อผิดพลาดที่ผู้มาครั้งแรกทำ

@@ -36,9 +36,9 @@ faq:
     a: "Pulau Pinang adalah destinasi sepanjang tahun dengan iklim tropis yang panas dan lembap. Hujan bisa turun pada bulan mana pun tetapi cenderung paling lebat sekitar periode peralihan monsun (kira-kira April–Mei dan September–November); periode yang lebih kering dan sejuk sekitar Desember hingga Februari populer. Pagi hari dan sore hari adalah waktu paling nyaman untuk berjalan kaki."
 
 lang: "id"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Lampion merah Tionghoa tergantung di atas Armenian Street, dipenuhi ruko warisan dan kafe berwarna-warni, di George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Deretan beca penumpang yang dihias meriah dengan bunga dan payung berjejer di depan bangunan warisan di George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Beca George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Mendarat di pulau, melangkah keluar dari pendingin udara, dan hal pertama yang menerpa Anda adalah bau — asap wajan, wangi dupa dari kelenteng Tionghoa, kamboja, dan garam Selat Melaka. George Town adalah tempat yang Anda baca dengan kaki: satu grid padat rumah toko berusia seabad tempat masjid, rumah kongsi dan gereja kolonial bisa berbagi satu blok yang sama. Panduan ini merangkum apa yang perlu dilihat, di mana makan, cara mencapai pantai dan bukit, dan berapa lama waktu yang perlu diberikan kepada sebuah kota yang menghargai kelambatan.

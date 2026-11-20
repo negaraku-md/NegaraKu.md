@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: 王宫（Astana），一座带哥特式拱门和装饰性大门的白色殖民地宫殿，坐落于古晋砂拉越河北岸
+    kind: actual
+    origin: third-party
+    subject: 王宫（Astana），古晋前白人拉者的历史河畔白宫
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: 古晋老唐人街一条街口悬挂着红灯笼的华丽中式牌楼
+    kind: actual
+    origin: third-party
+    subject: 古晋老唐人街（亚答街一带）的中式牌楼，悬挂红灯笼与店屋招牌
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 你可以在一个傍晚走完古晋滨水区的全长，沿途经过一座殖民城堡、一座拉者的宫殿和一座华人庙宇，吃上婆罗洲最出色的一碗面，再与一尊巨大的猫雕像合影——而这一切都无须离开城市。古晋是砂拉越的首府兼最大城市，坐落于婆罗洲岛上砂拉越州西南端的砂拉越河畔（[Wikipedia](https://en.wikipedia.org/wiki/Kuching)；[Wikidata](https://www.wikidata.org/wiki/Q220445)）。它是大多数砂拉越之旅起步的那座悠闲的河畔城市基地。本指南涵盖城市本身——它的滨水区、它的布鲁克时代历史、它的唐人街和博物馆，以及它的猫——以及它如何作为通往环绕其四周的雨林和野生动物的跳板。

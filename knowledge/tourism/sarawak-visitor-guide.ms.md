@@ -36,7 +36,7 @@ faq:
     a: "Kedua-duanya wujud. Tempat seperti Annah Rais berhampiran Kuching ialah komuniti rumah panjang Bidayuh yang masih didiami keluarga, manakala Kampung Budaya Sarawak berhampiran Santubong ialah muzium hidup yang dibina khas. Melawat rumah panjang yang masih didiami paling baik diatur terlebih dahulu dan selalunya melalui pemandu pelancong yang boleh mentafsir lawatan itu dengan hormat."
 
 lang: "ms"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Orang utan berbulu merah bergayut dan menghulur antara tali di tengah hutan hujan hijau tebal di Pusat Semula Jadi Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Orang utan liar bergerak di atas tali di hutan hujan Pusat Semula Jadi Semenggoh berhampiran Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Rumah panjang Iban kayu memanjang berdiri atas tiang dengan bumbung merah, berlatar hutan hujan di cerun bukit Sarawak
+    kind: actual
+    origin: third-party
+    subject: Rumah panjang Iban tradisional berdiri atas tiang di tebing sungai berhutan di Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kuching dalam masa kurang dua jam, tidak pernah meninggalkan negara anda sendiri, namun masih dicop melalui imigresen di hujung sana. Kejutan di dewan ketibaan itulah perkara paling penting yang perlu difahami tentang Sarawak: ia sebuah negeri Malaysia yang mengendalikan sempadannya sendiri.

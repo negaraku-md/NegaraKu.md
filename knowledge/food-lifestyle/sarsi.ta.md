@@ -43,7 +43,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "ta"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: அடர் சிவப்பு-பழுப்பு நிற நுரையிடும் சர்சாப்பரில்லா (sarsae) குளிர்பான் நிரம்பிய ஒரு கண்ணாடிக் குவளை
+    kind: actual
+    origin: third-party
+    subject: Asia Sarsae சர்சாப்பரில்லா குளிர்பானக் குவளை
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 மலேசிய மேசையிலுள்ள ஒவ்வொரு பானமும் காய்ச்சப்பட்டதோ, இழுக்கப்பட்டதோ அல்லது பிழியப்பட்டதோ அல்ல.

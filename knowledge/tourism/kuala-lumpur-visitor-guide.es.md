@@ -36,7 +36,7 @@ faq:
     a: "Cúbrase los hombros y las rodillas. En la entrada suele haber sarongs disponibles para pedir prestados o alquilar si su ropa es demasiado reveladora. Un calzado cómodo ayuda con la larga escalinata hasta la cueva-templo principal."
 
 lang: "es"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: El Edificio Sultan Abdul Samad y la explanada de la Plaza Merdeka flanqueada de palmeras en el centro de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Edificio Sultan Abdul Samad y Plaza Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Hileras de farolillos chinos rojos encendidos sobre el mercado de Petaling Street, en el barrio chino de Kuala Lumpur, de noche
+    kind: actual
+    origin: third-party
+    subject: Farolillos rojos de Petaling Street, el barrio chino, de noche
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Aterrice en el Aeropuerto Internacional de Kuala Lumpur al amanecer y, en una hora, puede estar de pie bajo dos torres plateadas que un día dominaron el perfil urbano del mundo — sin coche de alquiler, sin planificación complicada, solo un tren y una tarjeta de paso. Esa facilidad es la esencia de KL: es la puerta de entrada de Malasia, una capital compacta y económica donde los lugares principales están a un corto trayecto en tren unos de otros, y donde comienza casi todo viaje posterior por el país.

@@ -34,7 +34,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: Hidangan cincalok (udang halus diperam) kemerahan dicampur hirisan bawang merah dan cili merah
+    kind: actual
+    origin: third-party
+    subject: Cincalok dihidangkan sebagai sambal dengan hirisan bawang merah dan cili
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: Mangkuk kaca berisi budu coklat gelap dengan hirisan mangga muda, bawang merah dan cili merah
+    kind: actual
+    origin: third-party
+    subject: Cecah budu (sos ikan bilis diperam) dengan hirisan mangga, bawang merah dan cili
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 Berjalanlah di mana-mana pasar basah, dapur kampung atau rak kedai runcit yang dipenuhi perencah berbotol di Malaysia dan anda akan bertemu dengan tiga nama yang sama: **belacan**, **cincalok** dan **budu**. Rupa dan baunya seolah-olah tergolong dalam satu keluarga — semuanya masin, semuanya tajam baunya, semuanya dibuat dengan membiarkan hidupan laut kecil terperam dalam garam — dan dalam menu serta resipi nama-nama ini sering digunakan secara longgar. Namun ketiga-tiganya ialah tiga perkara yang berbeza, dibuat dengan cara berlainan, daripada titik permulaan yang berbeza, dan digunakan dengan cara yang berbeza. Mengetahui yang mana satu menyelamatkan anda daripada membakar sesuatu yang sepatutnya dimakan mentah, atau menuang sos ikan di tempat yang sepatutnya diisi pes udang.

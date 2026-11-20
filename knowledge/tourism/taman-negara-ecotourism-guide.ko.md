@@ -37,7 +37,7 @@ faq:
     a: "독특하게도, 이 공원은 연방 국립공원법 1980(National Parks Act 1980)이 아니라 세 개의 식민지 시대 주 조례 — 타만 네가라 조례(파항) 1939, (클란탄) 1938, (트렝가누) 1939 — 가 규율합니다. 이는 말레이시아 연방헌법상 토지와 임업이 주 사항이므로 연방법이 그 세 주에 적용되지 않기 때문입니다."
 
 lang: "ko"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: 타만 네가라에서 키 큰 열대우림 나무들 사이에 매달린 좁은 밧줄과 널빤지 캐노피 산책로를 건너는 방문객
+    kind: actual
+    origin: third-party
+    subject: 타만 네가라의 열대우림 나무 꼭대기 높이 걸린 캐노피 산책로 현수교
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: 타만 네가라에서 언덕 위로 안개가 낀 숲 덮인 강가 옆, 템벨링 강 위의 목조 긴 배들
+    kind: actual
+    origin: third-party
+    subject: 아침 안개 속 타만 네가라 선착장의 긴 배들이 떠 있는 템벨링 강
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 새벽에 쿠알라 타한(Kuala Tahan) 부두에 서서 히말라야보다 오래된 강 위로 안개가 걷히는 것을 바라보면, 쿠알라룸푸르에서 반나절도 채 떨어져 있지 않다는 사실을 잊기 쉽습니다. 타만 네가라(Taman Negara)는 인위적으로 만든 명소가 아닙니다. 수천만 년 동안 대체로 손대지 않은 채 서 있던 살아 있는 열대우림이며 — 그 안으로 들어가는 것은 거의 모든 여행자가 예상하는 것보다 저렴하고 간단합니다.

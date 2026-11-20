@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: नीले आकाश के नीचे Mount Kinabalu पर एक चट्टानी शिखर के नीचे नंगे granite शिखर-पठार को पार करते पर्वतारोही
+    kind: actual
+    origin: third-party
+    subject: Mount Kinabalu का granite शिखर-स्तंभ, नंगे चट्टानी पठार पर पर्वतारोहियों के साथ
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Kinabalu Park में पर्वतीय वनस्पति के बीच उगता एक बड़ा लाल और हरा Nepenthes rajah घटपर्णी पौधा
+    kind: actual
+    origin: third-party
+    subject: Kinabalu Park में Nepenthes rajah विशाल घटपर्णी पौधा
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 बोर्नियो के वर्षावन से सीधे 4,000 मीटर से ज़रा ऊपर उठता एक ग्रेनाइट मुकुट, कुछ महाद्वीपों से भी अधिक पादप प्रजातियों वाला एक विश्व धरोहर पार्क, और इतनी कसकर राशन की गई शिखर चढ़ाई कि आप इसे अपनी उड़ानों से पहले बुक करते हैं — माउंट किनाबालू मलेशिया का सबसे प्रसिद्ध प्राकृतिक स्थल है, और वास्तव में देखने के लिए सबसे अधिक संरचित में से एक। यह बोर्नियो के मलेशियाई हिस्से, सबाह में स्थित है, और यह दो बहुत अलग तरह के यात्रियों को पुरस्कृत करता है: वह फ़िट, संगठित पर्वतारोही जो हिमालय और न्यू गिनी के बीच के सबसे ऊँचे शिखर पर भोर का पीछा करता है, और वह दिन-यात्री जो बस ठंडी पर्वतीय हवा, अजीब माँसाहारी पौधे और एक गर्म झरने में डुबकी चाहता है। यह गाइड दोनों को, और उन बातों को शामिल करती है जो लोग जाने से पहले नियमित रूप से ग़लत कर बैठते हैं।

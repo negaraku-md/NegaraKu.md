@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: 怡保极乐洞一座带水池与花灌木的园林，被林木覆盖的石灰岩喀斯特峭壁环抱
+    kind: actual
+    origin: third-party
+    subject: 怡保以南的极乐洞洞穴庙宇湖畔园林，被高耸石灰岩峭壁环绕
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: 凯利古堡风化的红砖柱廊立面，带有摩尔式拱门，映衬着明亮的蓝天
+    kind: actual
+    origin: third-party
+    subject: 近打谷华都牙也未完工的摩尔式殖民地宅邸凯利古堡
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 锡造就了怡保，继而又几乎毁了它。一座近打河畔的村落，凭借埋藏于近打谷之下的矿石，变成了英属马来亚最富庶的城镇之一，为自己建起了一座恢弘的殖民中心，随后又眼看着钱财在锡价崩跌时流走。它留下来的，是那些建筑、那些布满洞穴庙宇的石灰岩山丘，以及一间格外出色的厨房。如今怡保是马来西亚最惬意的古迹与美食城市短途游——离吉隆坡近得足以一日往返，又丰盈得值得一个周末。本指南涵盖塑造它的地貌与历史、城里城外有什么可看、简要的美食，以及前往的实用事项。

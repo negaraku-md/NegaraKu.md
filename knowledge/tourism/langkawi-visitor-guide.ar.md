@@ -36,7 +36,7 @@ faq:
     a: "تمتد الفترة الأكثر جفافاً وهدوءاً نحو نوفمبر إلى مارس، وهي الأفضل لتنقّل الجزر والتلفريك ووقت الشاطئ. ويميل سبتمبر وأكتوبر إلى أن يكونا أرطب الأشهر، وإن كان المطر عادةً زخات مدارية قصيرة لا طمساً طوال اليوم."
 
 lang: "ar"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: أشجار نخيل وصخور داكنة تؤطّر الرمال البيضاء في Pantai Cenang بجوار مياه فيروزية، ومظلة شراعية تحلّق في الأعلى
+    kind: actual
+    origin: third-party
+    subject: شاطئ Pantai Cenang بالنخيل والبحر الفيروزي
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: عربات تلفريك SkyCab حمراء تنزلق فوق غابة مطيرة كثيفة تطل على مرسى وخلجان فيروزية في جزيرة Langkawi
+    kind: actual
+    origin: third-party
+    subject: تلفريك Langkawi SkyCab فوق الأدغال والمرسى
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 تسع وتسعون جزيرة، وصخور أقدم من الأسماك، وويسكي رخيص، وتلفريك يتدلّى من جانب جبل تكوّن من صخر يُقدَّر عمره بأكثر من 550 مليون سنة — تحشر لنكاوي قدراً غير عادي في أرخبيل واحد قبالة الطرف الشمالي الغربي لماليزيا. فهي جزيرة العطلات الرائدة على الساحل الغربي للبلاد، وتعمل بمنطق يكاد يكون معاكساً لجزر الغوص المحفوفة بالنخيل على الجانب الآخر من شبه الجزيرة. يتناول هذا الدليل ما يهمّ فعلاً قبل أن تذهب: قواعد الإعفاء الجمركي التي تُعثِر الناس، وجيوبارك اليونسكو الذي يمنح المشهد قصّته الخلفية، وتلفريك SkyCab وجسر SkyBridge، وجولات القوارب الجديرة بالخوض، وكيف تقرّر بين لنكاوي والساحل الشرقي.

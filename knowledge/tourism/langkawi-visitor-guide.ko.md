@@ -36,7 +36,7 @@ faq:
     a: "더 건조하고 잔잔한 구간은 대략 11월부터 3월까지로, 섬 호핑, 케이블카, 해변 시간에 가장 좋습니다. 9월과 10월은 대체로 가장 비가 많은 달이지만, 비는 보통 온종일 쏟아지기보다 짧은 열대성 소나기입니다."
 
 lang: "ko"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: 청록빛 바다 옆 판타이 쯔낭의 백사장을 야자수와 검은 바위가 감싸고 머리 위로 패러세일이 떠 있는 풍경
+    kind: actual
+    origin: third-party
+    subject: 야자수와 청록빛 바다가 어우러진 판타이 쯔낭 해변
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: 랑카위 섬에서 울창한 열대우림 위를 미끄러지며 마리나와 청록빛 만을 내려다보는 빨간 스카이캡 곤돌라
+    kind: actual
+    origin: third-party
+    subject: 정글과 마리나 위를 지나는 랑카위 스카이캡 케이블카
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 99개의 섬, 물고기보다 오래된 암석, 저렴한 위스키, 그리고 5억 5천만 년 이상으로 추정되는 암석으로 이루어진 산 옆구리에 매달린 케이블카 — 랑카위는 말레이시아 북서쪽 끝 앞바다의 한 군도에 이례적으로 많은 것을 담고 있습니다. 이곳은 이 나라의 대표적인 서해안 휴양 섬으로, 반도 반대편의 야자수로 둘러싸인 다이빙 섬들과는 거의 정반대의 논리로 움직입니다. 이 가이드는 출발 전에 실제로 중요한 것을 다룹니다. 사람들이 걸려드는 면세 규정, 풍경에 배경 이야기를 주는 유네스코 지질공원, 스카이캡과 스카이브리지, 가볼 만한 보트 투어, 그리고 랑카위와 동해안 사이에서 결정하는 법입니다.

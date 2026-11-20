@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: クチンのサラワク川北岸にある、装飾的な門を備えた白いゴシックアーチの植民地時代の宮殿、アスタナ
+    kind: actual
+    origin: third-party
+    subject: クチンにある、かつてのホワイト・ラジャの歴史ある白い川沿いの宮殿アスタナ
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: 赤いランタンが吊るされ、クチンの旧チャイナタウンの通りを示す、華麗な中国風のアーチ門
+    kind: actual
+    origin: third-party
+    subject: クチンの旧チャイナタウン（ジャラン・アタップ周辺）の、赤いランタンと商店の看板がある中国の儀礼用アーチ門
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 クチンの川辺は一晩で端から端まで歩くことができ、その道すがら植民地時代の砦、ラジャの宮殿、華人の廟を通り過ぎ、ボルネオ随一の麺の丼を食べ、巨大な猫の像とポーズをとる——しかもすべて街を離れることなく、です。クチンはサラワク州の州都にして最大の都市で、ボルネオ島のサラワク州南西端のサラワク川のほとりに位置します（[Wikipedia](https://en.wikipedia.org/wiki/Kuching)；[Wikidata](https://www.wikidata.org/wiki/Q220445)）。ほとんどのサラワクの旅が始まる、くつろいだ川の街の拠点です。本ガイドは、街そのもの——そのウォーターフロント、ブルック時代の歴史、チャイナタウンと博物館、そして猫——と、それを取り巻く熱帯雨林と野生生物への発射台としてどう機能するかを扱います。

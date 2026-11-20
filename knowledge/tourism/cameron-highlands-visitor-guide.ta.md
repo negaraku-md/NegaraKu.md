@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Cameron Highlands-இன் மூடுபனி நிறைந்த Mossy Forest-இல் முடிச்சுப்பட்ட பாசி மூடிய மரங்கள் மற்றும் வேர்களுக்கு இடையே வளைந்து செல்லும் ஒரு குறுகிய பாதை
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands-இன் Mossy Forest-இல் பாசி மூடிய மரங்களுக்கு இடையேயான பாதை
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Cameron Highlands ஸ்ட்ராபெர்ரி பண்ணையில் ஒரு பசுமைக்குடிலினுள் பழுத்த சிவப்புப் பழங்களைத் தாங்கிய ஸ்ட்ராபெர்ரி செடிகளின் நீண்ட உயர்த்தப்பட்ட தொட்டிகள்
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands ஸ்ட்ராபெர்ரி பண்ணையில் ஒரு பசுமைக்குடிலில் ஸ்ட்ராபெர்ரி செடி வரிசைகள்
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 தானா ராத்தாவில் பேருந்திலிருந்து இறங்கியவுடன் நீங்கள் முதலில் கவனிப்பது உங்கள் சொந்த மூச்சைத்தான் — பூமத்திய ரேகையிலும்கூட ஒரு ஸ்வெட்டர் அபத்தமாகத் தோன்றாத அளவுக்கு காற்று குளிர்ச்சியாக இருக்கும். அதுதான் கேமரன் ஹைலண்ட்ஸின் முழு நோக்கம்: வெப்பமண்டல மலேசியாவின் மேலே அடுக்கப்பட்ட மிதவெப்பமண்டல மலைப்பகுதியின் ஒரு துண்டு, அங்கே தேயிலை மலைமுகடுகளின் மேல் நேர்த்தியான பச்சை வரிகளாக வளர்கிறது, ஸ்ட்ராபெரிகள் சாலையோர பாலிடன்னல்களில் பழுக்கின்றன.

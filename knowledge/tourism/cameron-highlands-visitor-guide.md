@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: A narrow trail winding between gnarled moss-covered trees and roots in the misty Mossy Forest of Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Trail through the moss-covered trees of the Mossy Forest in Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Long raised troughs of strawberry plants bearing ripe red berries inside a greenhouse at a Cameron Highlands strawberry farm
+    kind: actual
+    origin: third-party
+    subject: Rows of strawberry plants in a greenhouse at a Cameron Highlands strawberry farm
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Step off the bus at Tanah Rata and the first thing you notice is your own breath — the air is cool enough that a jumper stops feeling ridiculous, even at the equator. That is the whole point of Cameron Highlands: a slab of temperate hill country stacked above tropical Malaysia, where tea grows in neat green corduroy over the ridges and strawberries ripen in roadside polytunnels.

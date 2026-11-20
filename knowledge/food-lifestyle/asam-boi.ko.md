@@ -42,7 +42,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "ko"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snac
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: 소금이 코팅된 쪼글쪼글한 말린 절임 매실 두 개의 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 소금에 절인 말린 매실 두 개(부아이 켐 / 아삼 보이) 클로즈업
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: 소금 결정이 서린 말린 절임 매실이 수북이 담긴 투명한 유리 그릇
+    kind: actual
+    origin: third-party
+    subject: 소금에 절인 말린 매실 한 그릇(부아이 켐 / 아삼 보이)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
 ---
 
 어떤 맛은 잊기 어려운데, **asam boi**가 그 하나다: 작고 쭈글쭈글한, 말린 신 매실로 달고

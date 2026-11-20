@@ -38,7 +38,7 @@ faq:
     a: "أبسط طريقة قطار KTM ETS الكهربائي من KL Sentral، الذي يبلغ إيبوه في نحو ساعتين إلى ساعتين ونصف بحسب الخدمة، مع خيار سريع أُدخل في 2024 (Wikipedia؛ Malay Mail). وقيادة الطريق السريع شمال-جنوب تستغرق وقتاً مشابهاً. تأكّد من الجداول والأسعار الحالية مع KTMB قبل أن تسافر."
 
 lang: "ar"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: حديقة مُنسّقة ببركة وشجيرات مزهرة محتضنة بين منحدرات كارستية من الحجر الجيري مكسوّة بالأشجار في Kek Lok Tong، Ipoh
+    kind: actual
+    origin: third-party
+    subject: حديقة معبد كهف Kek Lok Tong على ضفة البحيرة محاطة بمنحدرات شاهقة من الحجر الجيري جنوب Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: واجهة ذات أعمدة من الطوب الأحمر المتآكل لـ Kellie's Castle بأقواس مغاربية على خلفية سماء زرقاء ساطعة
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle، القصر الاستعماري غير المكتمل بالطراز المغاربي في Batu Gajah بوادي Kinta
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 صنع القصدير إيبوه، ثم كاد يهدمها. تحوّلت قرية على نهر كينتا إلى إحدى أغنى بلدات ملايو البريطانية بفضل الخام المدفون تحت وادي كينتا، وبنت لنفسها مركزاً استعمارياً مهيباً، ثم شاهدت المال ينزف بعيداً حين انهار سعر القصدير. وما أبقته هو العمارة، وتلال الحجر الجيري المثقوبة بمعابد الكهوف، ومطبخ جيّد على نحو غير معتاد. وإيبوه اليوم أكثر مدن ماليزيا راحةً لعطلة تراث وطعام — قريبة بما يكفي من كوالالمبور لرحلة يوم، غنيّة بما يكفي لتكافئ عطلة نهاية أسبوع. يتناول هذا الدليل المشهد والتاريخ الذي صاغه، وما يُرى في البلدة وحولها، والطعام باختصار، وعمليّات الوصول.

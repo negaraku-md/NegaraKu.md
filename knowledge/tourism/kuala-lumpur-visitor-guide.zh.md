@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 
 status: "published"
 aiAssisted: true
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: 吉隆坡市中心的苏丹阿都沙末大厦与棕榈环绕的独立广场草坪
+    kind: actual
+    origin: third-party
+    subject: 苏丹阿都沙末大厦与独立广场
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: 夜晚，一排排亮红的中式灯笼高悬于吉隆坡唐人街茨厂街市集上方
+    kind: actual
+    origin: third-party
+    subject: 夜晚茨厂街唐人街的红灯笼
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 在拂晓时分降落吉隆坡国际机场，一小时之内，你就可以站在两座曾经称霸全球天际线的银色高塔之下——不需要租车，不需要复杂的规划，只需一趟列车和一张刷卡即可。这份从容正是吉隆坡的意义所在：它是马来西亚的大门，一座紧凑而经济实惠的首都，主要景点之间只隔着一小段轨道车程，而这个国家几乎每一段后续旅程都从这里开始。

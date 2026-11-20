@@ -38,7 +38,7 @@ faq:
     a: "Trois choses : sous-estimer la météo (le sommet est souvent enveloppé de nuages, froid et humide, apportez donc une couche et ne vous attendez pas à des vues dégagées sur commande), venir un week-end ou un jour férié et être surpris par la foule et les files d'attente au téléphérique et aux attractions, et se présenter sans avoir réservé à l'avance hôtels, entrée aux parcs à thème ou cabine en haute saison. Vérifier quels manèges et attractions précis sont ouverts avant de partir évite aussi la déception."
 
 lang: "fr"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Pavillon de temple chinois rouge et or aux avant-toits relevés, à côté d'une haute pagode à étages, sur une esplanade carrelée au sommet d'une colline
+    kind: actual
+    origin: third-party
+    subject: Le pavillon richement orné et la pagode à étages du temple des grottes Chin Swee à Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Imposante façade blanche d'un hôtel de villégiature au-dessus d'une spectaculaire entrée en auvent brun anguleux où flottent des drapeaux nationaux
+    kind: actual
+    origin: third-party
+    subject: La tour de l'hôtel-casino au sommet de la colline de Resorts World Genting avec son porte-cochère pointu caractéristique
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Montez la route de montagne hors de la chaleur de Kuala Lumpur et, quelque part après le milieu du parcours, les vitres commencent à s'embuer et l'air se rafraîchit. En moins d'une heure après avoir quitté la capitale, vous pouvez vous tenir dans les nuages à près de 1,800 mètres, devant une ville-station au néon empilée au sommet d'une montagne. Ce contraste — plaine tropicale en bas, sommet frais et brumeux en haut, accessible en une matinée — est toute la proposition de Genting Highlands. Ce guide couvre ce qu'il est réellement, comment y monter, ce qu'il y a à faire, comment aborder le casino avec bon sens, et les erreurs qui piègent les débutants.

@@ -37,7 +37,7 @@ faq:
     a: "Bulan-bulan yang lebih kering, kira-kira dari sekitar Maret hingga September, cenderung menawarkan cuaca puncak yang paling stabil, meski Kinabalu membentuk awan dan hujannya sendiri dan hujan mungkin terjadi kapan saja (Taman-Taman Sabah). Pendakian puncak dimulai sebelum subuh untuk mendahului awan pertengahan pagi. Karena tempat dibatasi dan habis dipesan jauh lebih awal pada periode puncak dan libur, kunci tanggal Anda lebih awal dan sediakan waktu penyangga cuaca."
 
 lang: "id"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: Para pendaki menyeberangi dataran puncak granit gundul di bawah puncak berbatu di Gunung Kinabalu di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Puncak granit Gunung Kinabalu dengan para pendaki di dataran batu gundul
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Kantong semar Nepenthes rajah besar berwarna merah dan hijau tumbuh di antara vegetasi pegunungan di Taman Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Kantong semar raksasa Nepenthes rajah di Taman Kinabalu
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 Mahkota granit yang menjulang lurus dari hutan hujan Borneo hingga sedikit di atas 4,000 meter, taman Warisan Dunia dengan lebih banyak spesies tumbuhan daripada sebagian benua, dan pendakian puncak yang begitu ketat dijatah hingga Anda memesannya sebelum memesan penerbangan — Gunung Kinabalu adalah bentang alam paling terkenal di Malaysia, dan salah satu yang paling terstruktur untuk benar-benar dikunjungi. Ia terletak di Sabah, di bagian Malaysia dari Borneo, dan ia menyenangkan dua jenis pelancong yang sangat berbeda: pendaki yang bugar dan terorganisir yang mengejar fajar di puncak tertinggi antara Himalaya dan New Guinea, dan pengunjung sehari yang sekadar menginginkan udara gunung yang sejuk, tumbuhan karnivora yang aneh dan berendam di sumber air panas. Panduan ini mencakup keduanya, serta hal-hal yang sering salah dipahami orang sebelum pergi.

@@ -34,7 +34,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: Sepiring cincalok (udang kecil fermentasi) berwarna merah muda dicampur dengan irisan bawang merah dan cabai merah
+    kind: actual
+    origin: third-party
+    subject: Cincalok disajikan sebagai kondimen dengan irisan bawang merah dan cabai
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: Mangkuk kaca berisi saus budu ikan teri berwarna cokelat gelap dengan irisan mangga muda, bawang merah dan cabai merah
+    kind: actual
+    origin: third-party
+    subject: Cocolan budu (saus ikan teri fermentasi) dengan irisan mangga, bawang merah dan cabai
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 Jelajahi pasar basah Malaysia mana pun, dapur kampung, atau rak condiment botolan di kedai runcit, dan Anda akan bertemu trio nama yang sama: **belacan**, **cincalok**, dan **budu**. Ketiganya tampak dan beraroma seolah berasal dari satu keluarga — semuanya asin, semuanya menyengat, semuanya dibuat dengan membiarkan makhluk laut kecil berfermentasi dalam garam — dan di menu maupun resep namanya kerap dipakai sembarangan. Padahal ketiganya adalah tiga hal yang berbeda, dibuat dengan cara berbeda, dari titik awal yang berbeda, dan dipakai dengan cara yang berbeda pula. Mengetahui mana yang mana menyelamatkan Anda dari menyangrai sesuatu yang semestinya dimakan mentah, atau menuang saus ikan di tempat yang semestinya pasta udang.

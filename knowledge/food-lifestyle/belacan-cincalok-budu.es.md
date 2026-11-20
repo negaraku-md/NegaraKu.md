@@ -34,7 +34,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: Un plato de cincalok rosado (gambas diminutas fermentadas) mezclado con chalotas en rodajas y guindilla roja
+    kind: actual
+    origin: third-party
+    subject: Cincalok servido como condimento con chalotas en rodajas y guindilla
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: Un cuenco de vidrio con salsa de anchoa budu marrón oscuro con tiras de mango verde, chalotas y guindilla roja
+    kind: actual
+    origin: third-party
+    subject: Salsa budu (salsa de anchoa fermentada) con mango en rodajas, chalotas y guindilla
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 Recorre cualquier mercado húmedo malayo, cualquier cocina de kampung o cualquier estante de condimentos embotellados de un kedai runcit y te toparás con el mismo trío de nombres: **belacan** (pasta de gambas fermentada), **cincalok** (cencaluk) y **budu** (salsa de anchoa fermentada). Se ven y huelen como si pertenecieran a una misma familia —todos salados, todos intensos, todos hechos dejando fermentar pequeñas criaturas marinas en sal— y en los menús y las recetas los nombres se usan con poca precisión. Pero son tres cosas distintas, elaboradas de forma diferente, a partir de puntos de partida diferentes y usadas de maneras diferentes. Saber cuál es cuál te evita tostar algo que debería comerse crudo, o verter una salsa de pescado donde corresponde una pasta de gambas.

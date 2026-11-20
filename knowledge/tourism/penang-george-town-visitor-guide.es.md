@@ -36,9 +36,9 @@ faq:
     a: "Penang es un destino de todo el año con un clima tropical cálido y húmedo. Puede llover en cualquier mes, pero las lluvias tienden a ser más intensas en torno a los periodos intermonzónicos (aproximadamente abril–mayo y septiembre–noviembre); la ventana más seca y fresca en torno a diciembre–febrero es popular. Las mañanas y el final de la tarde son los momentos más cómodos para caminar."
 
 lang: "es"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Farolillos chinos rojos colgados sobre Armenian Street, flanqueada por coloridas tiendas tradicionales históricas y cafés, en George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Una hilera de triciclos de pasajeros vistosamente decorados con flores y sombrillas alineados frente a edificios históricos en George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Triciclos de George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Aterriza en la isla, sal del aire acondicionado y lo primero que te golpea es el olor: humo de wok, incienso de un templo chino, flor de frangipani y la sal del Estrecho de Malaca. George Town es un lugar que se lee con los pies: una trama compacta de shophouses centenarias donde una mezquita, una casa de clan y una iglesia colonial pueden compartir una sola manzana. Esta guía cubre qué ver, dónde comer, cómo llegar a las playas y a la colina, y cuánto tiempo dedicar a una ciudad que recompensa la lentitud.

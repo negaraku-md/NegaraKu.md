@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Sultan Abdul Samad Building and the palm-lined Merdeka Square lawn in central Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Sultan Abdul Samad Building and Merdeka Square
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Rows of glowing red Chinese lanterns strung above Petaling Street market in Kuala Lumpur's Chinatown at night
+    kind: actual
+    origin: third-party
+    subject: Petaling Street Chinatown red lanterns at night
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Land at Kuala Lumpur International Airport at dawn and, within an hour, you can be standing beneath two silver towers that once ruled the world's skyline — no rental car, no complicated planning, just a train and a tap-in card. That ease is the whole point of KL: it is Malaysia's front door, a compact and inexpensive capital where the headline sights sit a short rail ride apart, and where nearly every onward journey in the country begins.

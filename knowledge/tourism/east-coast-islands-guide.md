@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Broad white-sand beach curving toward a small forested rocky islet with turquoise water and palms on Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: The long white-sand beach of Pulau Redang with its offshore rocky islet and turquoise water, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Elevated view over rustic chalet rooftops and palms to a brilliant turquoise bay dotted with small boats and a forested headland on the Perhentian Islands
+    kind: actual
+    origin: third-party
+    subject: Elevated view over a beach village and its turquoise bay dotted with boats on the Perhentian Islands, a popular snorkelling base
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Turn up at a Redang beach resort in December and you will likely find the boats gone, the jetty quiet and the dive shop shuttered. The east-coast islands run on a calendar written by the sea, not the tourist brochure — and by a set of marine-park rules most first-timers only discover at the ticket counter.

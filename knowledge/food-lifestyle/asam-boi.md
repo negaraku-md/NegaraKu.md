@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snac
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: Close-up of two wrinkled, salt-coated dried preserved plums
+    kind: actual
+    origin: third-party
+    subject: close-up of two salted preserved plums (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: A clear glass bowl piled with salt-frosted dried preserved plums
+    kind: actual
+    origin: third-party
+    subject: a bowl of salted dried preserved plums (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
 ---
 
 Some flavours are hard to forget, and **asam boi** is one of them: a small, wrinkled,

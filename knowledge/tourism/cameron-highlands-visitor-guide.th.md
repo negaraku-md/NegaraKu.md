@@ -31,7 +31,7 @@ faq:
     a: "นี่คือการเยือนวัฒนธรรมแบบมีไกด์เข้าสู่หมู่บ้านเซอไม โดยทั่วไปมีการสาธิตกระบอกเป่าลูกดอกและการพูดคุยเรื่องวิถีชีวิตในป่า ให้ไปกับไกด์ท้องถิ่นที่มีชื่อเสียง ขออนุญาตก่อนถ่ายภาพผู้คน และถือเป็นการแลกเปลี่ยนวัฒนธรรมด้วยความเคารพ ไม่ใช่การชมเป็นการแสดง"
 
 lang: "th"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: เส้นทางเดินแคบๆ คดเคี้ยวระหว่างต้นไม้บิดเบี้ยวปกคลุมด้วยมอสและรากไม้ในป่ามอส (Mossy Forest) ที่ปกคลุมด้วยหมอกของคาเมรอนไฮแลนด์
+    kind: actual
+    origin: third-party
+    subject: เส้นทางเดินผ่านต้นไม้ปกคลุมด้วยมอสในป่ามอสที่คาเมรอนไฮแลนด์
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: แปลงปลูกสตรอว์เบอร์รียกสูงเป็นแนวยาวที่ออกผลสีแดงสุกภายในโรงเรือนของฟาร์มสตรอว์เบอร์รีคาเมรอนไฮแลนด์
+    kind: actual
+    origin: third-party
+    subject: แถวต้นสตรอว์เบอร์รีในโรงเรือนของฟาร์มสตรอว์เบอร์รีคาเมรอนไฮแลนด์
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 ก้าวลงจากรถบัสที่ตานะฮ์ราตา สิ่งแรกที่คุณสังเกตเห็นคือลมหายใจของตัวเอง อากาศเย็นพอที่เสื้อกันหนาวไม่รู้สึกไร้สาระ แม้อยู่ที่เส้นศูนย์สูตร นั่นคือประเด็นทั้งหมดของคาเมรอนไฮแลนด์ส แผ่นดินเนินเขาเขตอบอุ่นที่ซ้อนอยู่เหนือมาเลเซียเขตร้อน ที่ซึ่งชาเติบโตเป็นลายริ้วสีเขียวเรียบร้อยตามสันเขา และสตรอว์เบอร์รีสุกงอมในโรงเรือนพลาสติกริมถนน

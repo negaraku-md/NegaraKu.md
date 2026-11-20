@@ -31,7 +31,7 @@ faq:
     a: "ये सेमाई गाँवों में निर्देशित सांस्कृतिक भेंट हैं, जिनमें आमतौर पर एक ब्लोपाइप प्रदर्शन और वन-आधारित जीविका पर बातचीत होती है। किसी प्रतिष्ठित स्थानीय गाइड के साथ जाएँ, लोगों की तस्वीर लेने से पहले अनुमति लें, और इसे तमाशे के बजाय एक सम्मानजनक सांस्कृतिक आदान-प्रदान मानें।"
 
 lang: "hi"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Cameron Highlands के धुंधले Mossy Forest में काई से ढके मुड़े-तुड़े पेड़ों और जड़ों के बीच घूमती एक संकरी पगडंडी
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands के Mossy Forest में काई से ढके पेड़ों के बीच पगडंडी
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Cameron Highlands के एक स्ट्रॉबेरी फ़ार्म के ग्रीनहाउस में पकी लाल स्ट्रॉबेरी से लदे पौधों की ऊँची उठी हुई क्यारियाँ
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands के एक स्ट्रॉबेरी फ़ार्म के ग्रीनहाउस में स्ट्रॉबेरी के पौधों की कतारें
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 तानाह राता में बस से उतरिए और पहली चीज़ जो आप महसूस करते हैं वह है आपकी अपनी साँस — हवा इतनी ठंडी है कि भूमध्य रेखा पर भी एक स्वेटर बेतुका नहीं लगता। कैमरन हाइलैंड्स का यही पूरा सार है: उष्णकटिबंधीय मलेशिया के ऊपर टिका समशीतोष्ण पहाड़ी इलाक़े का एक टुकड़ा, जहाँ चाय पहाड़ी कटकों पर साफ़-सुथरी हरी कोरडरॉय की तरह उगती है और सड़क किनारे पॉलीटनलों में स्ट्रॉबेरी पकती हैं।

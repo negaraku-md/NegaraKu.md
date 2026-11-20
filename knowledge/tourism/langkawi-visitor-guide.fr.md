@@ -36,7 +36,7 @@ faq:
     a: "La période la plus sèche et la plus calme va d'environ novembre à mars, la meilleure pour le saut d'île en île, le téléphérique et le temps de plage. Septembre et octobre sont généralement les mois les plus pluvieux, bien que la pluie prenne souvent la forme de brèves averses tropicales plutôt que de journées entières noyées sous l'eau."
 
 lang: "fr"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Palmiers et rochers sombres encadrant le sable blanc de Pantai Cenang au bord d'une eau turquoise, un parachute ascensionnel dans le ciel
+    kind: actual
+    origin: third-party
+    subject: Plage de Pantai Cenang avec palmiers et mer turquoise
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Nacelles rouges du SkyCab glissant au-dessus d'une forêt tropicale dense, dominant une marina et des baies turquoise sur l'île de Langkawi
+    kind: actual
+    origin: third-party
+    subject: Téléphérique SkyCab de Langkawi au-dessus de la jungle et de la marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Quatre-vingt-dix-neuf îles, des roches plus anciennes que les poissons, du whisky bon marché et un téléphérique accroché au flanc d'une montagne bâtie de roche estimée à plus de 550 millions d'années — Langkawi concentre une quantité inhabituelle de choses dans un seul archipel au large de la pointe nord-ouest de la Malaisie. C'est l'île de vacances phare de la côte ouest du pays, et elle fonctionne selon une logique presque opposée à celle des îles de plongée bordées de palmiers de l'autre côté de la péninsule. Ce guide couvre ce qui compte réellement avant de partir : les règles de la zone franche qui font trébucher les gens, le géoparc de l'UNESCO qui donne au paysage son histoire, le SkyCab et le SkyBridge, les excursions en bateau qui valent la peine, et comment choisir entre Langkawi et la côte est.

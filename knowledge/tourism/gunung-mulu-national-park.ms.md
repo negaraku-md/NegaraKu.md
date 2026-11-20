@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Mulut gua gelap yang sangat besar di tebing batu kapur curam berselimut hutan hujan di Gua Rusa, Taman Negara Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk luas Gua Rusa, salah satu laluan gua terbesar di dunia, dibingkai tebing batu kapur menjulang berhutan di Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Ruang gua yang diterangi lembut dengan dinding batu pucat licin dan sungai bawah tanah yang tenang di dalam Gua Clearwater, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Bahagian dalam Gua Clearwater yang diterangi dengan sungai bawah tanahnya, sebahagian salah satu sistem gua terpanjang di Asia Tenggara di Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 Jauh di dalam hutan hujan Sarawak, tempat gunung batu kapur menjulang terus dari hutan dan tiada jalan sampai, terletak salah satu landskap paling luar biasa di Malaysia — dan salah satu kawasan gua paling banyak dikaji di planet ini. Taman Negara Gunung Mulu ialah tempat anda menemui dewan gua terbesar di dunia, laluan gua cukup besar untuk menerbangkan jet jumbo melaluinya, sungai berjuta-juta kelawar setiap malam, dan hutan bukit berisi bilah batu kapur cukup tajam untuk mengoyak kasut but. Ia juga benar-benar terpencil: anda tiba dengan pesawat kecil, anda pergi hampir ke mana-mana dengan pemandu, dan anda menempah berbulan-bulan lebih awal. Panduan ini merangkumi apa itu Mulu, apa yang ada untuk dilihat di bawah tanah dan di atasnya, dua trek besar, cara akses berfungsi, dan kesilapan yang dilakukan pendaki kali pertama.

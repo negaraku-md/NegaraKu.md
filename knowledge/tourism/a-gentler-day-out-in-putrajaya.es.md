@@ -35,7 +35,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: El puente atirantado Seri Wawasan, con forma de vela, cruzando el lago de Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Puente Seri Wawasan, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: Primer plano de la intrincada cúpula rosada de la Mezquita Putra bajo un cielo tormentoso en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: La cúpula rosada de la Mezquita Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 Putrajaya recompensa una visita, pero castiga el plan equivocado. La capital administrativa federal de Malasia, construida expresamente para ese fin, es una ciudad de **amplios bulevares, edificios monumentales, plazas ceremoniales, puentes y un gran lago artificial**: hermosa, y pensada para los coches. Sus monumentos están repartidos por precintos numerados, a menudo a un kilómetro o más de distancia, con poca sombra entre ellos. Llegue esperando pasear de la mezquita a los jardines y a las tiendas y pasará un día caluroso caminando largas distancias expuestas. Llegue con un plan más tranquilo y Putrajaya se convierte en uno de los días de calma más fáciles cerca de Kuala Lumpur.

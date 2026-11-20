@@ -37,7 +37,7 @@ faq:
     a: "Johor hangat dan lembap sepanjang tahun dan layak dikunjungi pada musim mana pun, tetapi paparannya terbagi: Desaru dan pesisir yang menghadap timur terpengaruh monsun timur laut dari sekitar November hingga Maret, ketika laut lebih kasar dan sebagian aktivitas perahu terhenti, sedangkan kota JB, taman tema dan pantai barat berjalan sepanjang tahun. Jendela pantai paling kering dan tenang di sisi timur secara garis besar adalah pertengahan tahun. Untuk kota dan taman, kunjungan hari kerja mengelakkan baik keramaian maupun antrean penyeberangan terburuk."
 
 lang: "id"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: Fasad hotel Legoland Malaysia Resort yang berwarna-warni dari balok Lego di Johor
+    kind: actual
+    origin: third-party
+    subject: Hotel Legoland Malaysia Resort, Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: Pantai pasir putih di pesisir Johor dengan air biru toska, singkapan batu berhias bendera merah, dan langit biru
+    kind: actual
+    origin: third-party
+    subject: Pantai pasir putih di pesisir Johor
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 Sebagian besar pengunjung berjumpa Johor di antrean perbatasan — dalam mobil di Causeway, dalam bus di Second Link, atau di kereta ulang-alik singkat ke JB Sentral — dan memperlakukan kota sebagai selingan belanja-dan-kuliner dari Singapura. Itu meremehkannya. Johor Bahru adalah ibu kota negara bagian paling selatan Malaysia dan gerbang tempat semenanjung bertemu republik pulau di seberang perairan, dengan inti warisan yang mudah dijalani, salah satu gugusan taman tema keluarga terbesar Asia di ambang pintunya, dan seluruh negara bagian di belakangnya: pantai di timur, bakau di ujung selatan, serta gunung dan hutan hujan di pedalaman. Panduan ini mencakup bagaimana penyeberangan bekerja, apa yang bisa dilakukan di kota, taman tema, pesisir dan pedalaman, siapa yang cocok untuk Johor, serta satu kesalahan yang menjebak hampir semua orang — salah mengatur waktu penyeberangan.

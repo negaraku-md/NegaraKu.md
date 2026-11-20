@@ -33,7 +33,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_Ma
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: Fasad Art Deco biru pucat Pasar Seni (Central Market) di Kuala Lumpur, bertulis 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: Fasad Art Deco Pasar Seni (Central Market), Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: Arked beratap dua tingkat yang sibuk di dalam Pasar Seni Kuala Lumpur, dipenuhi gerai kraftangan dan batik di bawah bendera negeri yang tergantung
+    kind: actual
+    origin: third-party
+    subject: Di dalam arked kraftangan beratap Pasar Seni, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 Hujan di Kuala Lumpur datang dengan pantas dan lebat, dan rancangan di tempat

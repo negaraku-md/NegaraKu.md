@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: ターコイズブルーの海のそばのパンタイ・チェナンの白砂を縁取るヤシの木と黒い岩、上空にはパラセーリング
+    kind: actual
+    origin: third-party
+    subject: ヤシの木とターコイズブルーの海のあるパンタイ・チェナンのビーチ
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: ランカウイ島で、マリーナとターコイズブルーの入り江を見下ろす深い熱帯雨林の上を滑る、赤いスカイキャブのゴンドラ
+    kind: actual
+    origin: third-party
+    subject: ジャングルとマリーナの上を行くランカウイ・スカイキャブのケーブルカー
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 99の島々、魚類よりも古い岩石、安いウイスキー、そして推定5.5億年超の岩石でできた山の斜面から吊り下げられたケーブルカー——ランカウイは、マレーシア北西端の沖にあるこの一つの群島に、並外れて多くのものを詰め込んでいます。それはこの国の旗艦とも言える西海岸の休暇の島であり、半島の反対側にあるヤシに縁取られたダイビングの島々とはほとんど逆の論理で成り立っています。本ガイドは、出かける前に本当に大切なことを扱います：人がつまずく免税ルール、風景に背景の物語を与えるユネスコ・ジオパーク、スカイキャブとスカイブリッジ、行く価値のあるボートツアー、そしてランカウイと東海岸のどちらを選ぶか、です。

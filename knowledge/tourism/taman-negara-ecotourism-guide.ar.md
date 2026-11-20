@@ -37,7 +37,7 @@ faq:
     a: "على نحو فريد، تحكم الحديقة ثلاثة تشريعات ولائية من الحقبة الاستعمارية — تشريع تامان نيغارا (باهانغ) 1939، و(كلنتان) 1938، و(ترينغانو) 1939 — لا قانون الحدائق الوطنية الاتحادي لسنة 1980 (National Parks Act 1980). وسبب ذلك أن الأراضي والحراجة شأن ولائي بموجب الدستور الاتحادي الماليزي، فلا ينطبق القانون الاتحادي على الولايات الثلاث."
 
 lang: "ar"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: زائر يعبر ممراً معلّقاً ضيقاً من الحبال والألواح بين قمم أشجار الغابة المطيرة العالية في Taman Negara
+    kind: actual
+    origin: third-party
+    subject: جسر معلّق على ممر بين قمم أشجار الغابة المطيرة في Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: قوارب خشبية طويلة على نهر Tembeling بجوار ضفة مكسوّة بالأشجار مع ضباب فوق التلال في Taman Negara
+    kind: actual
+    origin: third-party
+    subject: نهر Tembeling بالقوارب الطويلة عند رصيف Taman Negara في ضباب الصباح
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 وأنت واقف عند رصيف كوالا تاهان عند الفجر، تراقب الضباب يتصاعد عن نهر أقدم من جبال الهيمالايا، يسهل أن تنسى أنك لا تبعد عن كوالالمبور سوى نصف يوم. ليست تامان نيغارا معلماً مصطنعاً. إنها غابة مطيرة استوائية حية ظلّت قائمة، دون أن تُمَس في الجملة، على مدى عشرات الملايين من السنين — والدخول إليها أرخص وأيسر مما يتوقعه كل مسافر تقريباً.

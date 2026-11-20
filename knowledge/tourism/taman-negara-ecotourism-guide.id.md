@@ -37,7 +37,7 @@ faq:
     a: "Secara unik, taman ini diatur oleh tiga enakmen negara bagian era kolonial — Enakmen Taman Negara (Pahang) 1939, (Kelantan) 1938 dan (Terengganu) 1939 — dan bukan Akta Taman Negara 1980 federal. Ini karena tanah dan kehutanan adalah urusan negara bagian di bawah Konstitusi Federal Malaysia, jadi Akta federal itu tidak berlaku untuk ketiga negara bagian tersebut."
 
 lang: "id"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Seorang pengunjung menyeberangi jembatan kanopi sempit dari tali dan papan yang tergantung di antara pepohonan hutan hujan tinggi di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Jembatan gantung kanopi tinggi di puncak hutan hujan di Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Perahu panjang kayu di Sungai Tembeling di samping tepi sungai berhutan dengan kabut di atas perbukitan di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sungai Tembeling dengan perahu panjang di dermaga Taman Negara dalam kabut pagi
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, mengamati kabut naik dari sebuah sungai yang lebih tua daripada Pegunungan Himalaya, mudah untuk lupa bahwa Anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah daya tarik buatan. Ia sebuah hutan hujan tropis yang hidup, yang telah berdiri, umumnya tanpa gangguan, selama puluhan juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang diperkirakan hampir semua pelancong.

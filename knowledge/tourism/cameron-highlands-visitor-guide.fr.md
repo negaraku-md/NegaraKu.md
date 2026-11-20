@@ -31,7 +31,7 @@ faq:
     a: "Ce sont des visites culturelles guidées dans des villages Semai, généralement avec une démonstration de sarbacane et des échanges sur les modes de vie de la forêt. Allez-y avec un guide local réputé, demandez la permission avant de photographier les personnes, et traitez cela comme un échange culturel respectueux plutôt que comme un spectacle."
 
 lang: "fr"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Un sentier étroit serpentant entre des arbres noueux couverts de mousse et des racines dans la forêt moussue brumeuse des Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Sentier à travers les arbres couverts de mousse de la Mossy Forest dans les Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: De longs bacs surélevés de fraisiers portant des baies rouges mûres dans une serre d'une fraiseraie des Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Rangées de fraisiers dans une serre d'une fraiseraie des Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Descendez du bus à Tanah Rata et la première chose que vous remarquez, c'est votre propre souffle — l'air est assez frais pour qu'un pull cesse de paraître ridicule, même à l'équateur. C'est tout l'intérêt des Cameron Highlands : un bloc de hautes terres tempérées empilé au-dessus de la Malaisie tropicale, où le thé pousse en un propre velours côtelé vert sur les crêtes et où les fraises mûrissent dans des tunnels plastiques en bord de route.

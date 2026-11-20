@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: 해질 무렵 키 큰 소나무에 둘러싸여 따스하게 불 밝힌 창문과 담쟁이덩굴을 두른 흰색과 갈색의 하프팀버 튜더 양식 호텔
+    kind: actual
+    origin: third-party
+    subject: 해질 녘 불 밝힌 프레이저스 힐의 모조 튜더 양식 식민지 시대 호텔 스모크하우스
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: 야자수가 있는 조경된 고원 정원이 울창한 녹색 열대우림으로 이어지고 그 너머로 안개 낀 푸른 산줄기가 펼쳐진 풍경
+    kind: actual
+    origin: third-party
+    subject: 프레이저스 힐의 서늘하고 안개 낀 열대우림 계곡과 먼 산맥을 내려다보는 계단식 언덕 정원
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 말레이시아 고원 휴양지 대부분은 무언가를 팝니다 — 카지노, 차 농원, 딸기 농장, 테마파크. 프레이저스 힐은 그 모든 것의 부재를 팝니다. [티티왕사 산맥](/ko/malaysia/titiwangsa-range)의 숲으로 덮인 능선 군집에 펼쳐진 이곳은, 가장 큰 소리가 새소리이고 적도에서도 스웨터가 우스꽝스럽게 느껴지지 않는, 작고 조용하고 안개에 싸인 콜로니얼 시대 휴양지입니다. 탐조객에게는 거의 성지에 가깝고; 그 밖의 모두에게는 더 화려한 고원 이웃들의 느리고 수수한 대안입니다. 이 가이드는 프레이저스 힐이 실제로 무엇인지, 왜 탐조객이 오는지, 무엇을 볼 수 있는지, 올라가는 구불구불한 도로가 어떻게 작동하는지, 그리고 이곳이 누구에게 맞고 맞지 않는지를 다룹니다.

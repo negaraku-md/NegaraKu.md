@@ -37,7 +37,7 @@ faq:
     a: "Menyelam mungkin sepanjang tahun, tetapi laut paling tenang dan air paling jernih umumnya jatuh dalam rentang yang lebih kering dari sekitar April hingga sekitar Oktober–Desember, dengan visibilitas paling jernih sering di awal jendela itu (dive-the-world; PADI). Izin paling sulit didapat pada bulan-bulan tersibuk, jadi pesan jauh di muka (Malaysia Travel)."
 
 lang: "id"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: Penyu hijau berenang di atas melalui air biru toska yang disinari matahari, dilihat dari bawah
+    kind: actual
+    origin: third-party
+    subject: Seekor penyu hijau meluncur di air biru toska cerah, salah satu pemandangan khas menyelam di sekitar Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Kawanan ikan keperakan yang besar berputar di samping terumbu karang dengan sinar matahari menembus air biru saat menyelam di Sipadan
+    kind: actual
+    origin: third-party
+    subject: Kawanan padat ikan karang dan sinar matahari di atas karang saat menyelam di Sipadan, salah satu lokasi selam terbaik dunia
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 Satu menara tunggal berselimut karang yang menjulang enam ratus meter lurus dari dasar Laut Sulawesi, berpusar dengan penyu dan tornado barakuda — Sipadan adalah alasan penyelam serius menaruh Sabah timur dalam daftar mereka, dan alasan sebuah ekonomi perjalanan utuh tumbuh di sekitar kota kecil Semporna. Tetapi ia bukan tempat yang bisa Anda datangi dan selami begitu saja. Sipadan adalah taman laut yang dilindungi ketat dengan izin harian berkuota, tanpa penginapan di pulau itu sendiri, dan konteks zona keamanan di pantai sekitarnya yang perlu dipahami pendatang pertama kali secara tenang dan faktual. Panduan ini mencakup apa yang menjadikan penyelaman bertaraf dunia, bagaimana izin dan kuota harian sebenarnya bekerja, di mana Anda menginap, bagaimana Sipadan berbeda dari Taman Laut Tun Sakaran yang berdekatan, siapa yang cocok untuk kawasan ini, dan kapan pergi.

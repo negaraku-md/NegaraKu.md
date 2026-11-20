@@ -37,7 +37,7 @@ faq:
     a: "Les mois les plus secs, environ de mars à septembre, tendent à offrir la météo la plus stable au sommet, bien que le Kinabalu fabrique ses propres nuages et que la pluie soit possible n'importe quel jour (Sabah Parks). La poussée vers le sommet commence avant l'aube pour devancer les nuages de milieu de matinée. Comme les places sont plafonnées et se vendent longtemps à l'avance en haute saison et pendant les vacances, fixez vos dates tôt et prévoyez une marge pour la météo."
 
 lang: "fr"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: Des grimpeurs traversant le plateau sommital de granit nu sous un pic rocheux du mont Kinabalu, sous un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Pinacle sommital de granit du mont Kinabalu avec des grimpeurs sur le plateau de roche nue
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Une grande urne de Nepenthes rajah, rouge et verte, poussant parmi la végétation de montagne dans le parc de Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Plante carnivore géante Nepenthes rajah dans le parc de Kinabalu
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 Une couronne de granit s'élevant tout droit hors de la forêt tropicale de Bornéo jusqu'à un peu plus de 4,000 mètres, un parc du patrimoine mondial comptant plus d'espèces végétales que certains continents, et une ascension du sommet si étroitement rationnée que vous la réservez avant vos vols — le mont Kinabalu est le repère naturel le plus célèbre de Malaisie, et l'un des plus encadrés à visiter concrètement. Il se dresse à Sabah, dans la partie malaisienne de Bornéo, et récompense deux types très différents de voyageurs : le grimpeur en forme et organisé en quête d'une aurore sur le plus haut sommet entre l'Himalaya et la Nouvelle-Guinée, et le visiteur d'un jour qui veut simplement de l'air frais de montagne, d'étranges plantes carnivores et un bain dans une source chaude. Ce guide couvre les deux, et les choses que les gens se trompent régulièrement avant de partir.

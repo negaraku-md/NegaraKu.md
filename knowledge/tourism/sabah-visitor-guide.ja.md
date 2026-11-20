@@ -35,7 +35,7 @@ faq:
     a: "シパダンはサンゴ礁回復のため毎年11月に閉鎖されるので、ダイビング旅行は12月から10月の間に計画してください。それ以外の場所でも、雨の多い北東季節風の時期（おおよそ11月から3月）は、ボルネオにより多くの雨をもたらします。"
 
 lang: "ja"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: サバ州のラブク湾で、ぼやけた緑の森を背景にした、淡い金色の毛と長い鼻を持つテングザルのクローズアップ
+    kind: actual
+    origin: third-party
+    subject: ボルネオ島固有種のテングザル。サバ州のラブク湾で撮影
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: コタキナバルの海に沈む燃えるようなオレンジ色の夕日。漁船がシルエットになり、水平線に島が見える
+    kind: actual
+    origin: third-party
+    subject: コタキナバルの海岸に沈む黄金色の夕日。海に漁船がシルエットになり、水平線に島々が浮かぶ
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 クアラルンプールからコタキナバルへは国境を越えることなく飛ぶことができるが、それでも着陸時には入境カウンターで列に並ぶことになる。この意外な事実は、多くの初めての訪問者を戸惑わせる——そしてこれこそが、サバ州への旅を計画する前に理解しておくべき最も重要な一点である。本ガイドでは、玄関口となる都市、目玉となる見どころ、そしてサバ州をあたかも独自の土地であるかのように感じさせる入境規則を順を追って見ていく。というのも、ある非常に現実的な意味において、サバ州はまさにそうだからである。

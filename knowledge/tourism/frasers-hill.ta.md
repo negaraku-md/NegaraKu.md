@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: அந்தி வேளையில் உயரமான பைன் மரங்களால் சூழப்பட்ட, அரை-மரச்சட்ட வெள்ளை-பழுப்பு Tudor-பாணி ஹோட்டல், வெதுவெதுப்பாக ஒளிரும் ஜன்னல்கள் மற்றும் படர்கொடியுடன்
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, Fraser's Hill-இல் அந்தி வேளையில் ஒளிரும் போலி-Tudor காலனிய ஹோட்டல்
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: அடர்த்தியான பசுமை மழைக்காட்டுக்குள் இறங்கும் பனைமரங்களுடனான நிலவியல் மலைத்தோட்டம், அப்பால் நீலமூடுபனி மலைமுகடுகளுடன்
+    kind: actual
+    origin: third-party
+    subject: Fraser's Hill-இன் குளிர்ந்த மூடுபனி மழைக்காட்டுப் பள்ளத்தாக்கு மற்றும் தொலைதூர மலைத்தொடர்களைப் பார்க்கும் படிக்கட்டு மலைச்சரிவுத் தோட்டம்
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 மலேசியாவின் பெரும்பாலான மலை நிலையங்கள் உங்களுக்கு ஏதாவது விற்கின்றன — ஒரு கேசினோ, ஒரு தேயிலைத் தோட்டம், ஒரு ஸ்ட்ராபெர்ரி பண்ணை, ஒரு கருப்பொருள் பூங்கா. ஃப்ரேசர்ஸ் ஹில் உங்களுக்கு அவை அனைத்தின் இன்மையை விற்கிறது. [திதிவாங்சா மலைத்தொடரில்](/ta/malaysia/titiwangsa-range) காடுகள் நிறைந்த மலைமுகடுகளின் ஒரு கூட்டம் முழுவதும் பரவி, இது ஒரு சிறிய, அமைதியான, மூடுபனி-சூழ்ந்த காலனித்துவ-கால நிலையம், அங்கு நீங்கள் கேட்கும் மிகச் சத்தமானது பறவைப் பாடல், மேலும் ஒரு ஸ்வெட்டர் பூமத்திய ரேகையில் கூட அபத்தமாக உணரத் தொடங்காது. பறவை-கண்காணிப்பாளர்களுக்கு இது கிட்டத்தட்ட புனித நிலம்; மற்ற அனைவருக்கும் இது அதன் பகட்டான மலை அண்டைவீட்டாருக்கு மெதுவான, குறைந்த-விசை மாற்று. இந்த வழிகாட்டி ஃப்ரேசர்ஸ் ஹில் உண்மையில் என்ன, பறவை ஆர்வலர்கள் ஏன் வருகிறார்கள், பார்க்க என்ன உள்ளது, மேலே செல்லும் வளைந்த சாலை எவ்வாறு இயங்குகிறது, மேலும் இந்த இடம் யாருக்குப் பொருந்துகிறது, யாருக்குப் பொருந்தாது என்பதை உள்ளடக்குகிறது.

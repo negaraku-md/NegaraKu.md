@@ -40,7 +40,7 @@ faq:
     a: "المتحف، في 48 و50 Jalan Tun Tan Cheng Lock، مغلق أيام الثلاثاء. ويفتح من 10:00 صباحًا حتى 4:15 مساءً في أيام العمل (عدا الثلاثاء) ومن 10:00 صباحًا حتى 4:45 مساءً في عطلة نهاية الأسبوع. ولأن المواعيد والأسعار قد تتغيّر، تأكّد منها في الموقع الرسمي للمتحف قبل الزيارة."
 
 lang: "ar"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: قارب رحلات نهرية يمر بمتاجر تراثية ملوّنة وأشجار على طول نهر Malacca الفيروزي في البلدة القديمة
+    kind: actual
+    origin: third-party
+    subject: رحلة نهرية في نهر Malacca عبر متاجر البلدة القديمة
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: قوس بوابة Jonker Walk الذي يميّز مدخل شارع الحي الصيني في Melaka بجوار كنيسة Tamil Methodist المبنية عام 1908
+    kind: actual
+    origin: third-party
+    subject: قوس بوابة Jonker Walk بجوار كنيسة Tamil Methodist
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 قِفْ في الساحة الهولندية عند الغسق وبإمكانك أن تقرأ خمسة قرون في نظرة واحدة: مبنى بلدية هولندي بلون أحمر سلموني في جانب، وأطلال كنيسة من الحقبة البرتغالية على التلة فوقه، وبوابة حجرية رسّخت يومًا قلعةً حاول البريطانيون هدمها، و — على بُعد دقيقتين سيرًا — زقاق من البيوت المدينية الصينية-الملايوية المضاءة الآن لبازار ليلة الجمعة. لا تنشر ملقا تاريخها عبر مدينة كبيرة، بل تكدّسه في نحو ميل مربع واحد يمكنك جوله في بعد ظهيرة واحدة. وإليك كيف تقرؤه، وكيف تخطّط لزيارة حوله.

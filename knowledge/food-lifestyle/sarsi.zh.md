@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "zh"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: 一只玻璃杯盛满深红棕色、带气泡的沙示（sarsae）汽水
+    kind: actual
+    origin: third-party
+    subject: 一杯亚洲沙示沙士汽水
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 并非马来西亚餐桌上的每一款饮品都是现冲、现拉或现压的。有些来自瓶子——而其中少有

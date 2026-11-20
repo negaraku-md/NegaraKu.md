@@ -34,7 +34,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: 一碟粉红色的虾米酱（发酵小虾）拌上葱片和红辣椒
+    kind: actual
+    origin: third-party
+    subject: 作为佐料的虾米酱，配葱片与辣椒
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: 一只玻璃碗盛着深棕色的鱼露酱（budu），配上青芒果丝、葱片和红辣椒
+    kind: actual
+    origin: third-party
+    subject: 鱼露酱（发酵江鱼仔酱）蘸料，配芒果片、葱片与辣椒
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 走进任何一个马来西亚的巴刹（湿巴刹）、甘榜厨房，或是杂货店（kedai runcit）摆满瓶装调味料的货架，你都会遇到同一组名字：**belacan（虾膏）**、**cincalok（马来腌虾）** 和 **budu（鱼露）**。它们看起来、闻起来仿佛同属一个家族——都咸、都浓烈、都是让小型海洋生物在盐里发酵而成——在菜单和食谱里这些名字也常被随意混用。但它们是三种截然不同的东西，制法不同，起点不同，用法也不同。弄清楚哪个是哪个，能让你不至于把本该生吃的东西拿去烘烤，或者在该用虾膏的地方倒了鱼露。

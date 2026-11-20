@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: Pendaki merentasi dataran puncak granit gondol di bawah puncak berbatu di Gunung Kinabalu dengan latar langit biru
+    kind: actual
+    origin: third-party
+    subject: Puncak granit Gunung Kinabalu dengan pendaki di dataran batu gondol
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Periuk kera Nepenthes rajah besar berwarna merah dan hijau tumbuh antara tumbuhan gunung di Taman Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Periuk kera gergasi Nepenthes rajah di Taman Kinabalu
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 Mahkota granit yang menjulang terus dari hutan hujan Borneo hingga melebihi 4,000 meter, sebuah taman Warisan Dunia dengan lebih banyak spesies tumbuhan daripada sesetengah benua, dan pendakian puncak yang begitu ketat dicatu sehingga anda menempahnya sebelum menempah penerbangan — Gunung Kinabalu ialah mercu tanda semula jadi paling terkenal di Malaysia, dan antara yang paling berstruktur untuk benar-benar dilawati. Ia terletak di Sabah, di bahagian Borneo milik Malaysia, dan ia memberi ganjaran kepada dua jenis pengembara yang sangat berbeza: pendaki yang cergas dan teratur mengejar subuh di puncak tertinggi antara Himalaya dan New Guinea, serta pelawat sehari yang sekadar mahukan udara gunung yang sejuk, tumbuhan karnivor yang pelik dan rendaman di kolam air panas. Panduan ini merangkumi kedua-duanya, dan perkara yang kerap disalah faham orang sebelum pergi.

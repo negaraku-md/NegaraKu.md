@@ -90,6 +90,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: A glass filled with a dark reddish-brown fizzy sarsaparilla (sarsae) soft drink
+    kind: actual
+    origin: third-party
+    subject: glass of Asia Sarsae sarsaparilla soft drink
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 Not every drink on the Malaysian table is brewed, pulled or pressed. Some come from a

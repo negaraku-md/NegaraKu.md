@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: A dish of pinkish cincalok (fermented tiny shrimp) mixed with sliced shallots and red chilli
+    kind: actual
+    origin: third-party
+    subject: Cincalok served as a condiment with sliced shallots and chilli
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: A glass bowl of dark brown budu anchovy sauce with strips of unripe mango, shallots and red chilli
+    kind: actual
+    origin: third-party
+    subject: Budu (fermented anchovy sauce) dip with sliced mango, shallots and chilli
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 Walk through any Malaysian wet market, kampung kitchen or kedai runcit shelf of bottled condiments and you will meet the same trio of names: **belacan**, **cincalok** and **budu**. They look and smell as though they belong to one family — all salty, all pungent, all made by letting small sea creatures ferment in salt — and in menus and recipes the names get used loosely. But they are three distinct things, made differently, from different starting points, and used in different ways. Knowing which is which saves you from toasting something that should be eaten raw, or pouring a fish sauce where a shrimp paste belongs.

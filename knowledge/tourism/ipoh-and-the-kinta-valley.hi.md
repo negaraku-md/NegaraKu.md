@@ -40,7 +40,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Ipoh के Kek Lok Tong में जंगली चूना-पत्थर की karst चट्टानों के बीच बसा तालाब और फूलदार झाड़ियों वाला सुसज्जित बगीचा
+    kind: actual
+    origin: third-party
+    subject: Ipoh के दक्षिण में ऊँची चूना-पत्थर की चट्टानों से घिरा Kek Lok Tong गुफा मंदिर का झीलतटीय बगीचा
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: चमकीले नीले आकाश के सामने Moorish मेहराबों वाला Kellie's Castle का मौसम-मारा लाल-ईंट का स्तंभयुक्त अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Kinta Valley में Batu Gajah पर अधूरी Moorish-शैली की औपनिवेशिक हवेली
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 टिन ने इपोह को बनाया, और फिर इसने इसे लगभग बिगाड़ भी दिया। किंता नदी पर एक गाँव किंता घाटी के नीचे दबे अयस्क के बल पर ब्रिटिश मलाया के सबसे धनी शहरों में से एक में बदल गया, अपने लिए एक भव्य औपनिवेशिक केंद्र बनाया, और फिर जब टिन की क़ीमत गिरी तो पैसे को बहते देखा। जो इसने रखा वह था स्थापत्य, गुफा मंदिरों से छलनी चूना-पत्थर पहाड़ियाँ, और एक असामान्य रूप से अच्छी रसोई। आज इपोह मलेशिया का सबसे आरामदायक विरासत-और-भोजन शहर ब्रेक है — कुआलालंपुर से एक दिन-यात्रा के लिए पर्याप्त क़रीब, एक सप्ताहांत को पुरस्कृत करने के लिए पर्याप्त समृद्ध। यह गाइड उस भूदृश्य और इतिहास को शामिल करती है जिसने इसे आकार दिया, शहर में और इर्द-गिर्द देखने के लिए क्या है, संक्षेप में भोजन, और वहाँ पहुँचने की व्यावहारिकताएँ।

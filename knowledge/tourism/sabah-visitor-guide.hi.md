@@ -35,7 +35,7 @@ faq:
     a: "सिपादान हर नवंबर रीफ़ पुनर्प्राप्ति के लिए बंद रहता है, इसलिए गोताख़ोरी यात्राओं की योजना दिसंबर और अक्टूबर के बीच बनाएँ। अन्यत्र, अधिक नम उत्तर-पूर्वी मानसून महीने (मोटे तौर पर नवंबर से मार्च) बोर्नियो में अधिक बारिश लाते हैं।"
 
 lang: "hi"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Sabah के Labuk Bay में धुंधले हरे जंगल के सामने हल्के सुनहरे रोएँ और लंबी नाक वाले एक proboscis बंदर का नज़दीकी दृश्य
+    kind: actual
+    origin: third-party
+    subject: एक proboscis बंदर, Borneo का स्थानिक, Sabah के Labuk Bay में खींचा गया
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Kota Kinabalu में समुद्र के ऊपर धधकता नारंगी सूर्यास्त, मछली पकड़ने वाली नावों की छाया और क्षितिज पर एक द्वीप
+    kind: actual
+    origin: third-party
+    subject: Kota Kinabalu तटरेखा के ऊपर सुनहरा सूर्यास्त, समुद्र पर मछली पकड़ने वाली नावों की छाया और क्षितिज पर द्वीप
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 आप कुआलालंपुर से कोटा किनाबालू तक देश छोड़े बिना उड़ान भर सकते हैं और फिर भी उतरने पर एक आव्रजन काउंटर पर क़तार में खड़े होते हैं। यह आश्चर्य कई पहली बार आने वाले आगंतुकों को पकड़ता है — और सबाह की यात्रा की योजना बनाने से पहले समझने योग्य यह सबसे महत्वपूर्ण एकल बात है। यह गाइड प्रवेश-द्वार, प्रमुख आकर्षणों, और उन प्रवेश नियमों से होकर गुज़रता है जो सबाह को अपनी ख़ुद की जगह जैसा महसूस कराते हैं, क्योंकि एक बहुत ही वास्तविक अर्थ में, यह है।

@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: 조호르의 레고랜드 말레이시아 리조트 호텔의 알록달록한 레고 블록 정면
+    kind: actual
+    origin: third-party
+    subject: 레고랜드 말레이시아 리조트 호텔, 조호르
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: 청록빛 바다와 붉은 깃발을 꽂은 바위 돌출부, 푸른 하늘이 어우러진 조호르 해안의 백사장
+    kind: actual
+    origin: third-party
+    subject: 조호르 해안의 백사장
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 대부분의 방문객은 조호르를 국경 대기 줄에서 만납니다 — 코즈웨이의 차 안에서, 세컨드 링크의 버스에서, 또는 JB 센트럴로 들어가는 짧은 셔틀 열차에서 — 그리고 도시를 싱가포르에서의 쇼핑·음식 우회로쯤으로 대합니다. 그것은 이곳을 과소평가하는 것입니다. 조호르바루는 말레이시아 최남단 주의 주도이자 반도가 물 건너 섬나라 공화국과 만나는 관문으로, 걷기 좋은 유산 핵심, 문 앞의 아시아 최대 가족 테마파크 군집 중 하나, 그리고 그 뒤의 주 전체 — 동쪽의 해변, 남쪽 끝의 맹그로브, 내륙의 산과 열대우림 — 를 지녔습니다. 이 가이드는 통로가 어떻게 작동하는지, 도시에서 무엇을 할지, 테마파크, 해안과 내륙, 조호르가 누구에게 맞는지, 그리고 거의 모두가 저지르는 한 가지 실수 — 통로 시간을 잘못 잡는 것 — 를 다룹니다.

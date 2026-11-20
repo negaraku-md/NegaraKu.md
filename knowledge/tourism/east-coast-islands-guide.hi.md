@@ -31,7 +31,7 @@ faq:
     a: "नहीं। समुद्री-उद्यान सीमाओं के भीतर मछली पकड़ना निषिद्ध है, और आगंतुक किसी समुद्री जीव के किसी भी भाग को — जीवित हो या मृत — नहीं इकट्ठा कर सकते, जिसमें मूँगे के टुकड़े और सीपियाँ शामिल हैं, न ही मूँगे को छू, उस पर खड़े हो या अन्यथा क्षति पहुँचा सकते हैं।"
 
 lang: "hi"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Pulau Redang पर फ़िरोज़ी पानी और ताड़ के पेड़ों के साथ एक छोटे जंगली चट्टानी टापू की ओर मुड़ता चौड़ा सफ़ेद-रेत का समुद्र तट
+    kind: actual
+    origin: third-party
+    subject: Pulau Redang का लंबा सफ़ेद-रेत समुद्र तट, तट से दूर चट्टानी टापू और फ़िरोज़ी पानी, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Perhentian Islands पर देहाती शैले की छतों और ताड़ के पेड़ों के ऊपर से छोटी नावों और जंगली भूशीर्ष वाली चमकदार फ़िरोज़ी खाड़ी का ऊँचाई से दृश्य
+    kind: actual
+    origin: third-party
+    subject: Perhentian Islands पर एक समुद्रतटीय गाँव और नावों से भरी उसकी फ़िरोज़ी खाड़ी का ऊँचाई से दृश्य, स्नॉर्कलिंग का लोकप्रिय ठिकाना
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 दिसंबर में रेदांग के किसी समुद्र-तट रिज़ॉर्ट पर पहुँचिए और आप संभवतः नावें ग़ायब, जेटी शांत और गोताख़ोरी-दुकान बंद पाएँगे। पूर्वी-तट के द्वीप एक ऐसे पंचांग पर चलते हैं जिसे समुद्र लिखता है, पर्यटन पुस्तिका नहीं — और समुद्री-उद्यान नियमों के एक समुच्चय पर, जिन्हें अधिकांश पहली-बार आने वाले केवल टिकट काउंटर पर ही जान पाते हैं।

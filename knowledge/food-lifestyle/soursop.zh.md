@@ -42,7 +42,7 @@ sources:
     publisher: "PubMed"
 
 lang: "zh"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: 市场里，一只金属碗中带刺的绿色红毛榴莲（刺果番荔枝），旁边是一篮鲜绿的青柠
+    kind: actual
+    origin: third-party
+    subject: 水果摊上整只红毛榴莲与一篮新鲜青柠
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
 ---
 
 带刺、翠绿而沉甸甸，**红毛榴莲**乍看之下像一颗小榴莲——它的马来名字 **durian belanda**

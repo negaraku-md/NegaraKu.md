@@ -31,7 +31,7 @@ faq:
     a: "Không. Đánh cá bị cấm trong ranh giới công viên biển, và du khách không được thu thập bất kỳ phần nào của một sinh vật biển — sống hay chết — bao gồm các mảnh san hô và vỏ sò, cũng không được chạm, đứng lên hoặc gây hư hại san hô theo cách khác."
 
 lang: "vi"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Bãi biển cát trắng rộng uốn cong về phía một đảo nhỏ nhiều cây và đá với làn nước xanh ngọc và những hàng dừa trên Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: Bãi biển cát trắng dài của Pulau Redang với đảo đá ngoài khơi và làn nước xanh ngọc, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Góc nhìn trên cao qua những mái nhà chòi mộc mạc và hàng dừa hướng ra vịnh nước xanh ngọc rực rỡ điểm xuyết những chiếc thuyền nhỏ và một mũi đất rậm cây trên quần đảo Perhentian
+    kind: actual
+    origin: third-party
+    subject: Góc nhìn trên cao qua một làng ven biển và vịnh nước xanh ngọc điểm xuyết thuyền trên quần đảo Perhentian, một điểm lặn ống thở nổi tiếng
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Xuất hiện tại một khu nghỉ dưỡng bãi biển Redang vào tháng 12 và bạn sẽ có khả năng thấy các thuyền đã đi, cầu tàu yên tĩnh và cửa hàng lặn đóng cửa. Các đảo bờ đông chạy theo một lịch được viết bởi biển, chứ không phải cuốn cẩm nang du lịch — và bởi một bộ quy tắc công viên biển mà hầu hết những người lần đầu chỉ khám phá ra tại quầy vé.

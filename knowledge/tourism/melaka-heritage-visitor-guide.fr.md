@@ -40,7 +40,7 @@ faq:
     a: "Le musée, aux 48 et 50 Jalan Tun Tan Cheng Lock, est fermé le mardi. Il ouvre de 10h00 à 16h15 en semaine (sauf le mardi) et de 10h00 à 16h45 le week-end. Comme les horaires et les tarifs peuvent changer, confirmez-les sur le site officiel du musée avant votre visite."
 
 lang: "fr"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: Un bateau de croisière fluviale passant devant des boutiques traditionnelles colorées et des arbres le long de la rivière Malacca turquoise, dans la vieille ville
+    kind: actual
+    origin: third-party
+    subject: Croisière sur la rivière Malacca à travers les boutiques traditionnelles de la vieille ville
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: L'arche d'entrée de Jonker Walk marquant l'accès à la rue du quartier chinois de Melaka, à côté de l'église méthodiste tamoule de 1908
+    kind: actual
+    origin: third-party
+    subject: Arche d'entrée de Jonker Walk à côté de l'église méthodiste tamoule
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Tenez-vous sur la Dutch Square au crépuscule et vous pouvez lire cinq siècles d'un seul regard : un hôtel de ville néerlandais rouge saumon d'un côté, les ruines d'une église de l'époque portugaise sur la colline au-dessus, une porte de pierre qui ancrait jadis une forteresse que les Britanniques ont tenté de démolir et — à deux minutes à pied — une ruelle de maisons urbaines sino-malaises désormais illuminées pour un bazar du vendredi soir. Melaka ne répartit pas son histoire sur une grande ville. Elle l'empile sur environ un mile carré que vous pouvez parcourir en une après-midi. Voici comment la lire et comment planifier une visite autour d'elle.

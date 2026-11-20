@@ -103,6 +103,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana, a white Gothic-arched colonial palace with ornamental gate, on the north bank of the Sarawak River in Kuching
+    kind: actual
+    origin: third-party
+    subject: The Astana, the historic white riverside palace of the former White Rajahs in Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: An ornate Chinese archway gate hung with red lanterns marking a street in Kuching's old Chinatown
+    kind: actual
+    origin: third-party
+    subject: Chinese ceremonial archway gate in Kuching's old Chinatown (Jalan Attap area), with red lanterns and shophouse signboards
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 You can walk the length of Kuching's riverfront in an evening, pass a colonial fort, a Rajah's palace and a Chinese temple on the way, eat one of Borneo's great bowls of noodles, and pose with a giant cat statue — all without leaving the city. Kuching is the capital and largest city of Sarawak, set on the Sarawak River at the southwestern tip of the state on the island of Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). It is the relaxed, river-city base from which most Sarawak trips begin. This guide covers the city itself — its waterfront, its Brooke-era history, its Chinatown and museums, and its cats — and how it works as a launchpad for the rainforest and wildlife that surround it.

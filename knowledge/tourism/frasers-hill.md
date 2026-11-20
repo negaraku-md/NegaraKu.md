@@ -103,6 +103,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Half-timbered white-and-brown Tudor-style hotel with warmly lit windows and ivy, framed by tall pines at twilight
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, a mock-Tudor colonial hotel at Fraser's Hill lit up at dusk
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Landscaped highland garden with palms descending into dense green rainforest with blue misty mountain ridges beyond
+    kind: actual
+    origin: third-party
+    subject: A terraced hillside garden overlooking the cool misty rainforest valley and distant mountain ranges of Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 Most of Malaysia's hill stations sell you something — a casino, a tea estate, a strawberry farm, a theme park. Fraser's Hill sells you the absence of all that. Spread across a cluster of forested ridges on the [Titiwangsa range](/malaysia/titiwangsa-range), it is a small, quiet, mist-wrapped colonial-era station where the loudest thing you will hear is birdsong, and where a jumper stops feeling ridiculous even at the equator. For birdwatchers it is close to sacred ground; for everyone else it is the slow, low-key alternative to its flashier highland neighbours. This guide covers what Fraser's Hill actually is, why the birders come, what there is to see, how the winding road up works, and who the place does and does not suit.

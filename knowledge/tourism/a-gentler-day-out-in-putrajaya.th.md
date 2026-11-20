@@ -35,7 +35,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: สะพานเสรีวาวาซัน (Seri Wawasan) แบบขึงเคเบิลทรงใบเรือทอดข้ามทะเลสาบในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: สะพานเสรีวาวาซัน ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: ภาพระยะใกล้ของโดมสีชมพูกุหลาบลวดลายประณีตของมัสยิดปุตรา (Putra Mosque) ตัดกับท้องฟ้าครึ้มฝนในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: โดมสีชมพูกุหลาบของมัสยิดปุตรา ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 ปุตราจายาคุ้มค่าแก่การไปเยือน แต่ก็ลงโทษคนที่วางแผนผิด เมืองหลวงฝ่ายบริหารของรัฐบาลกลางมาเลเซียที่สร้างขึ้นมาเพื่อจุดประสงค์นี้โดยเฉพาะ เป็นเมืองของ**ถนนบูเลอวาร์ดกว้าง อาคารอันยิ่งใหญ่ ลานพิธีการ สะพานและทะเลสาบขนาดใหญ่ที่มนุษย์สร้างขึ้น** งดงาม และสร้างมาเพื่อรถยนต์ สถานที่สำคัญกระจายอยู่ในเขตที่มีหมายเลขกำกับ มักห่างกันหนึ่งกิโลเมตรหรือมากกว่า โดยมีร่มเงาน้อยในระหว่างนั้น หากมาถึงด้วยความคาดหวังว่าจะเดินเล่นจากมัสยิดไปสวนไปร้านค้า คุณจะต้องเดินในระยะทางยาวและเปิดโล่งกลางแดดตลอดทั้งวันอันร้อนระอุ แต่หากมาถึงด้วยแผนที่สบายกว่า ปุตราจายาจะกลายเป็นหนึ่งในวันพักผ่อนที่ง่ายที่สุดใกล้กัวลาลัมเปอร์

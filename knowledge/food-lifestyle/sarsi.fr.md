@@ -43,7 +43,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "fr"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: Un verre rempli d'une boisson gazeuse à la salsepareille (sarsae) brun-rouge foncé et pétillante
+    kind: actual
+    origin: third-party
+    subject: verre de boisson gazeuse à la salsepareille Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 Toutes les boissons de la table malaisienne ne sont pas infusées, tirées ou pressées.

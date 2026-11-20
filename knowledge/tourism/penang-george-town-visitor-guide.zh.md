@@ -36,9 +36,9 @@ faq:
     a: "槟城全年皆可游览，气候炎热潮湿，属热带气候。任何月份都可能下雨，但雨量往往在季候风交替期（大致为4月至5月和9月至11月）最大；较干燥凉爽的12月至2月期间较受欢迎。清晨和傍晚是最舒适的步行时段。"
 
 lang: "zh"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: 槟城乔治市亚美尼亚街上方悬挂着红色中式灯笼，两旁是色彩缤纷的传统店屋与咖啡馆
+    kind: actual
+    origin: third-party
+    subject: 乔治市亚美尼亚街
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: 槟城乔治市一排装饰鲜艳、配有鲜花和遮阳伞的载客三轮车，停列在传统建筑前
+    kind: actual
+    origin: third-party
+    subject: 乔治市三轮车
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 登上海岛，走出冷气房，第一件扑面而来的便是气味——镬气、华人庙宇的香火、鸡蛋花，还有马六甲海峡的咸味。乔治市是一座要用双脚去阅读的城市：一片紧凑的百年店屋网格，一座清真寺、一座宗祠和一座殖民时期的教堂可以共享同一街区。本指南将介绍看什么、去哪里吃、如何前往海滩和升旗山，以及该给这座奖赏慢游者的城市留出多少时间。

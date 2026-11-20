@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: Kuching में Sarawak River के उत्तरी तट पर The Astana, अलंकृत द्वार वाला एक सफ़ेद Gothic-मेहराबदार औपनिवेशिक महल
+    kind: actual
+    origin: third-party
+    subject: The Astana, Kuching में पूर्व White Rajahs का ऐतिहासिक सफ़ेद नदीतटीय महल
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Kuching के पुराने Chinatown में एक गली को चिह्नित करता लाल लालटेनों से सजा अलंकृत चीनी मेहराबदार द्वार
+    kind: actual
+    origin: third-party
+    subject: Kuching के पुराने Chinatown (Jalan Attap क्षेत्र) में चीनी अनुष्ठानिक मेहराबदार द्वार, लाल लालटेनों और shophouse के साइनबोर्डों के साथ
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 आप एक शाम में कुचिंग के नदी-तट की पूरी लंबाई चल सकते हैं, रास्ते में एक औपनिवेशिक क़िला, एक Rajah का महल और एक चीनी मंदिर पार कर सकते हैं, बोर्नियो के महान नूडल के कटोरों में से एक खा सकते हैं, और एक विशाल बिल्ली की मूर्ति के साथ पोज़ कर सकते हैं — सब शहर छोड़े बिना। कुचिंग सारावाक की राजधानी और सबसे बड़ा शहर है, जो बोर्नियो द्वीप पर राज्य के दक्षिण-पश्चिमी छोर पर Sarawak River पर बसा है ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445))। यह आरामदेह, नदी-शहर आधार है जहाँ से अधिकांश सारावाक यात्राएँ शुरू होती हैं। यह गाइड शहर को ही शामिल करती है — इसका जलतट, इसका Brooke-युग का इतिहास, इसका Chinatown और संग्रहालय, और इसकी बिल्लियाँ — और यह इसके इर्द-गिर्द के वर्षावन तथा वन्यजीव के लिए एक लॉन्चपैड के रूप में कैसे काम करता है।

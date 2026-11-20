@@ -101,6 +101,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Red-and-gold Chinese temple pavilion with upturned eaves beside a tall tiered pagoda on a tiled hilltop plaza
+    kind: actual
+    origin: third-party
+    subject: The ornate pavilion and multi-tiered pagoda of Chin Swee Caves Temple at Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Towering white resort hotel facade above a dramatic angular brown canopy entrance flying national flags
+    kind: actual
+    origin: third-party
+    subject: The hilltop casino-hotel tower of Resorts World Genting with its distinctive peaked porte-cochere
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Drive up the mountain road out of the Kuala Lumpur heat and, somewhere past the halfway mark, the windows start to fog and the air turns cold. Within an hour of leaving the capital you can be standing in cloud at nearly 1,800 metres, in front of a neon resort city stacked on a mountaintop. That contrast — tropical lowland below, cool misty summit above, reachable in a morning — is the whole proposition of Genting Highlands. This guide covers what it actually is, how to get up there, what there is to do, how to treat the casino sensibly, and the mistakes that catch first-timers out.

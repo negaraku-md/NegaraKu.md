@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: 푸른 하늘 아래 키나발루산의 바위 봉우리 밑, 헐벗은 화강암 정상 대지를 건너는 등반객들
+    kind: actual
+    origin: third-party
+    subject: 헐벗은 바위 대지 위에 등반객들이 있는 키나발루산의 화강암 정상 첨봉
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: 키나발루 공원의 산악 식생 사이에서 자라는 크고 붉고 녹색을 띤 네펜테스 라자 벌레잡이통풀
+    kind: actual
+    origin: third-party
+    subject: 키나발루 공원의 거대한 벌레잡이통풀 네펜테스 라자
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 보르네오의 열대우림에서 곧장 4,000미터를 조금 넘는 높이까지 솟아오른 화강암 왕관, 일부 대륙보다 많은 식물 종을 품은 세계유산 공원, 그리고 항공편보다 먼저 예약해야 할 만큼 빡빡하게 제한된 정상 등반 — 키나발루산은 말레이시아에서 가장 유명한 자연 랜드마크이자, 실제로 방문하기에 가장 체계적인 곳 중 하나입니다. 보르네오의 말레이시아 쪽인 사바에 자리하며, 매우 다른 두 부류의 여행자에게 보답합니다. 히말라야와 뉴기니 사이에서 가장 높은 봉우리의 새벽을 좇는 건강하고 조직적인 등반객, 그리고 그저 서늘한 산 공기와 기이한 식충식물, 온천욕을 원하는 당일 여행객입니다. 이 가이드는 둘 다, 그리고 사람들이 출발 전에 흔히 잘못 아는 것들을 다룹니다.

@@ -37,7 +37,7 @@ faq:
     a: "Một cách độc đáo, vườn được chi phối bởi ba đạo luật bang thời thuộc địa — the Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 và (Terengganu) 1939 — chứ không phải National Parks Act 1980 của liên bang. Điều này là vì đất đai và lâm nghiệp là các vấn đề thuộc bang theo Hiến pháp Liên bang của Malaysia, nên đạo luật liên bang không áp dụng cho ba bang này."
 
 lang: "vi"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Một du khách băng qua cầu đi bộ trên tán rừng hẹp bằng dây và ván treo giữa những cây rừng mưa cao lớn ở Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Cầu treo đi bộ trên tán rừng cao giữa những ngọn cây rừng mưa ở Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Những chiếc thuyền dài bằng gỗ trên sông Tembeling bên bờ sông phủ rừng với sương mờ trên những ngọn đồi ở Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sông Tembeling với những chiếc thuyền dài tại bến tàu Taman Negara trong sương sớm
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Đứng ở bến Kuala Tahan lúc bình minh, ngắm sương mù bốc lên khỏi một dòng sông già hơn dãy Himalaya, thật dễ quên rằng bạn chỉ cách Kuala Lumpur chưa đầy nửa ngày. Taman Negara không phải là một điểm thu hút được chế tạo. Đó là một khu rừng mưa nhiệt đới sống động đã tồn tại, gần như không bị xáo trộn, trong hàng chục triệu năm — và việc vào đó rẻ hơn và đơn giản hơn hầu như bất kỳ du khách nào tưởng.

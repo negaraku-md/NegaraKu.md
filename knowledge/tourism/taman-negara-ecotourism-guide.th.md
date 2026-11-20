@@ -37,7 +37,7 @@ faq:
     a: "ที่เป็นเอกลักษณ์ อุทยานนี้กำกับดูแลโดยกฎบัญญัติของรัฐยุคอาณานิคมสามฉบับ ได้แก่ กฎบัญญัติตามันเนอการา (ปะหัง) 1939 (กลันตัน) 1938 และ (ตรังกานู) 1939 แทนที่จะเป็นพระราชบัญญัติอุทยานแห่งชาติระดับสหพันธรัฐ (National Parks Act 1980) เพราะที่ดินและการป่าไม้เป็นเรื่องของรัฐภายใต้รัฐธรรมนูญแห่งสหพันธรัฐของมาเลเซีย พระราชบัญญัติระดับสหพันธรัฐจึงไม่มีผลกับสามรัฐนี้"
 
 lang: "th"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: นักท่องเที่ยวกำลังข้ามสะพานทางเดินเรือนยอดไม้แบบเชือกและไม้กระดานแคบๆ ที่แขวนอยู่ท่ามกลางต้นไม้ป่าฝนสูงในตามันเนอการา (Taman Negara)
+    kind: actual
+    origin: third-party
+    subject: สะพานแขวนทางเดินเรือนยอดไม้สูงในยอดไม้ป่าฝนที่ตามันเนอการา
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: เรือยาวไม้บนแม่น้ำเติมเบอลิง (Tembeling River) ข้างริมฝั่งที่ปกคลุมด้วยป่า พร้อมหมอกเหนือเนินเขาที่ตามันเนอการา
+    kind: actual
+    origin: third-party
+    subject: แม่น้ำเติมเบอลิงพร้อมเรือยาวที่ท่าเรือตามันเนอการาในหมอกยามเช้า
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 ยืนอยู่ที่ท่าเรือกัวลาตาฮันยามรุ่งสาง เฝ้ามองหมอกลอยขึ้นจากแม่น้ำที่แก่กว่าเทือกเขาหิมาลัย เป็นเรื่องง่ายที่จะลืมว่าคุณอยู่ห่างจากกัวลาลัมเปอร์เพียงครึ่งวัน ตามันเนอการาไม่ใช่แหล่งท่องเที่ยวที่สร้างขึ้น หากเป็นป่าฝนเขตร้อนที่มีชีวิตซึ่งยืนหยัดอยู่โดยแทบไม่ถูกรบกวนมาหลายสิบล้านปี และการเข้าไปในนั้นถูกและง่ายกว่าที่นักท่องเที่ยวเกือบทุกคนคาดคิด

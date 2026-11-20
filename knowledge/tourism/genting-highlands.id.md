@@ -38,7 +38,7 @@ faq:
     a: "Tiga hal: meremehkan cuaca (puncak sering berselimut awan, dingin dan basah, jadi bawa lapisan dan jangan berharap pemandangan cerah sesuai permintaan), pergi pada akhir pekan atau hari libur umum dan terkejut oleh keramaian serta antrean di kereta gantung dan atraksi, serta datang tanpa memesan hotel, masuk taman tema atau gondola lebih awal pada periode puncak. Memeriksa wahana dan atraksi spesifik mana yang buka sebelum Anda pergi juga menghindarkan kekecewaan."
 
 lang: "id"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Paviliun kuil Tionghoa merah-emas dengan atap melengkung di samping pagoda bertingkat tinggi di plaza puncak bukit berubin
+    kind: actual
+    origin: third-party
+    subject: Paviliun ornamen dan pagoda bertingkat Kuil Gua Chin Swee di Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Fasad hotel resor putih menjulang di atas kanopi pintu masuk cokelat bersudut dramatis yang mengibarkan bendera nasional
+    kind: actual
+    origin: third-party
+    subject: Menara kasino-hotel di puncak bukit Resorts World Genting dengan porte-cochere runcing yang khas
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Berkendaralah naik jalan gunung keluar dari panas Kuala Lumpur dan, di suatu titik melewati tanda setengah perjalanan, jendela mulai berembun dan udara menjadi dingin. Dalam sejam setelah meninggalkan ibu kota Anda bisa berdiri di tengah awan pada hampir 1,800 meter, di depan kota resor neon yang bertumpuk di puncak gunung. Kontras itu — dataran rendah tropis di bawah, puncak berkabut yang sejuk di atas, dapat dicapai dalam satu pagi — adalah keseluruhan tawaran Genting Highlands. Panduan ini mencakup apa sebenarnya ia, bagaimana ke sana, apa yang bisa dilakukan, bagaimana menyikapi kasino secara bijak, serta kesalahan yang menjebak pendatang pertama kali.

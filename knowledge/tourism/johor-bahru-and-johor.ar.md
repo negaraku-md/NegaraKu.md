@@ -37,7 +37,7 @@ faq:
     a: "جوهر حارّة ورطبة طوال العام وتستحقّ الزيارة في أي موسم، لكن تعرّضها منقسم: فساحل ديسارو والساحل المواجه للشرق يتأثّران بالرياح الموسمية الشمالية الشرقية من نحو نوفمبر إلى مارس، حين تكون البحار أخشن وتتوقّف بعض أنشطة القوارب، بينما تعمل مدينة JB والحدائق الترفيهية والساحل الغربي طوال العام. وأجفّ نافذة شاطئ وأهدؤها على الجانب الشرقي هي منتصف العام عموماً. وللمدينة والحدائق، زيارات أيام الأسبوع تتفادى الحشود وأسوأ طوابير المعبر معاً."
 
 lang: "ar"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: الواجهة الزاهية الألوان بمكعبات Lego لفندق Legoland Malaysia Resort في Johor
+    kind: actual
+    origin: third-party
+    subject: فندق Legoland Malaysia Resort، Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: شاطئ من الرمال البيضاء على ساحل Johor بمياه فيروزية ونتوء صخري يعلوه علم أحمر وسماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: شاطئ من الرمال البيضاء على ساحل Johor
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 يلتقي معظم الزوّار جوهر عند طابور حدود — في سيارة على الجسر، أو في حافلة عند الوصلة الثانية، أو على القطار المكوكي القصير إلى JB Sentral — ويعاملون المدينة منعطفَ تسوّق وطعام من سنغافورة. وذلك يبخسها حقّها. فجوهر بهرو عاصمة أقصى ولايات ماليزيا جنوباً والبوّابة حيث تلتقي شبه الجزيرة بالجمهورية الجزيرية عبر الماء، بنواة تراثية سهلة المشي، وأحد أكبر عناقيد الحدائق الترفيهية العائلية في آسيا على عتبتها، وولاية كاملة خلفها: شواطئ شرقاً، ومانغروف عند الطرف الجنوبي، وجبال وغابة مطيرة داخلياً. يتناول هذا الدليل كيف تعمل المعابر، وما يُفعَل في المدينة، والحدائق الترفيهية، والساحل والداخل، ولمن تناسب جوهر، والخطأ الوحيد الذي يباغت الجميع تقريباً — إساءة توقيت المعبر.

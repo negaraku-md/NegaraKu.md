@@ -40,7 +40,7 @@ faq:
     a: "Bảo tàng, tại số 48 & 50 Jalan Tun Tan Cheng Lock, đóng cửa vào thứ Ba. Nó mở cửa 10:00 đến 16:15 vào các ngày trong tuần (trừ thứ Ba) và 10:00 đến 16:45 vào cuối tuần. Vì giờ giấc và giá cả có thể thay đổi, hãy xác nhận trên trang chính thức của bảo tàng trước khi thăm."
 
 lang: "vi"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: Một thuyền du ngoạn trên sông đi qua những nhà phố di sản đầy màu sắc và hàng cây dọc dòng sông Malacca xanh ngọc trong khu phố cổ
+    kind: actual
+    origin: third-party
+    subject: Du ngoạn sông Malacca qua những nhà phố khu phố cổ
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: Cổng vòm Jonker Walk đánh dấu lối vào con phố Chinatown của Melaka bên cạnh Nhà thờ Giám Lý Tamil xây năm 1908
+    kind: actual
+    origin: third-party
+    subject: Cổng vòm Jonker Walk bên Nhà thờ Giám Lý Tamil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Đứng ở Quảng trường Hà Lan lúc chạng vạng và bạn có thể đọc năm thế kỷ trong một cái liếc: một tòa thị chính Hà Lan màu đỏ cá hồi ở một phía, các phế tích của một nhà thờ thời Bồ Đào Nha trên ngọn đồi phía trên, một cổng đá từng neo giữ một pháo đài mà người Anh cố phá dỡ, và — cách hai phút đi bộ — một con hẻm các nhà phố Trung-Mã nay được thắp sáng cho một chợ đêm tối thứ Sáu. Melaka không trải lịch sử của mình khắp một thành phố lớn. Nó xếp chúng vào khoảng một dặm vuông mà bạn có thể đi bộ trong một buổi chiều. Đây là cách đọc nó, và cách lên kế hoạch một chuyến thăm quanh nó.

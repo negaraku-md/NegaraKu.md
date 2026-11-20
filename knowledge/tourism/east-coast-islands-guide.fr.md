@@ -31,7 +31,7 @@ faq:
     a: "Non. La pêche est interdite à l'intérieur des limites du parc marin, et les visiteurs ne peuvent ramasser aucune partie d'un organisme marin — vivant ou mort — y compris les fragments de corail et les coquillages, ni toucher, piétiner ou endommager de quelque autre manière le corail."
 
 lang: "fr"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Large plage de sable blanc s'incurvant vers un petit îlot rocheux boisé, avec une eau turquoise et des palmiers, sur Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: La longue plage de sable blanc de Pulau Redang avec son îlot rocheux au large et son eau turquoise, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Vue en hauteur sur les toits de chalets rustiques et les palmiers jusqu'à une baie turquoise éclatante parsemée de petits bateaux, avec un promontoire boisé, aux îles Perhentian
+    kind: actual
+    origin: third-party
+    subject: Vue en hauteur sur un village de plage et sa baie turquoise parsemée de bateaux aux îles Perhentian, un point de départ prisé pour le snorkeling
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Présentez-vous dans un complexe balnéaire de Redang en décembre et vous trouverez probablement les embarcations absentes, l'embarcadère silencieux et le centre de plongée fermé. Les îles de la côte est suivent un calendrier écrit par la mer, et non par la brochure touristique, et un ensemble de règles de parc marin que la plupart des nouveaux venus ne découvrent qu'au guichet.

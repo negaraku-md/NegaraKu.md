@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: Climbers crossing the bare granite summit plateau below a rocky peak on Mount Kinabalu under a blue sky
+    kind: actual
+    origin: third-party
+    subject: Granite summit pinnacle of Mount Kinabalu with climbers on the bare rock plateau
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: A large red and green Nepenthes rajah pitcher plant growing among mountain vegetation in Kinabalu Park
+    kind: actual
+    origin: third-party
+    subject: Nepenthes rajah giant pitcher plant in Kinabalu Park
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 A granite crown rising straight out of Borneo's rainforest to just over 4,000 metres, a World Heritage park with more plant species than some continents, and a summit climb so tightly rationed you book it before you book your flights — Mount Kinabalu is the single most famous natural landmark in Malaysia, and one of the most structured to actually visit. It sits in Sabah, in the Malaysian part of Borneo, and it rewards two very different kinds of traveller: the fit, organised climber chasing a dawn on the highest peak between the Himalayas and New Guinea, and the day-tripper who simply wants cool mountain air, strange carnivorous plants and a soak in a hot spring. This guide covers both, and the things people routinely get wrong before they go.

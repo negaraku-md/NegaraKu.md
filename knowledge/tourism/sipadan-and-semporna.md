@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: Green sea turtle swimming overhead through sunlit turquoise water, viewed from below
+    kind: actual
+    origin: third-party
+    subject: A green sea turtle gliding through bright turquoise water, one of the signature sights of diving around Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Massive swirling school of silvery fish beside a coral reef with sunrays filtering through blue water while diving at Sipadan
+    kind: actual
+    origin: third-party
+    subject: A dense school of reef fish and sunrays over coral on a dive at Sipadan, one of the world's top dive sites
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 A single coral-covered pinnacle rising six hundred metres straight off the floor of the Celebes Sea, swirling with turtles and tornadoes of barracuda — Sipadan is the reason serious divers put eastern Sabah on their list, and the reason an entire travel economy has grown up around the little town of Semporna. But it is not a place you can simply turn up and dive. Sipadan is a strictly protected marine park with a capped daily permit, no accommodation on the island itself, and a security-zone context on the surrounding coast that first-timers need to understand calmly and factually. This guide covers what makes the diving world-class, how the permit and the daily cap actually work, where you stay, how Sipadan differs from the nearby Tun Sakaran Marine Park, who the region suits, and when to go.

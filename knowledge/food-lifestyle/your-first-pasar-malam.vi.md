@@ -34,7 +34,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: Những xiên tre thịt nướng tẩm phủ bóng đang xèo xèo và bốc khói trên một vỉ nướng đen tại một quầy chợ đêm
+    kind: actual
+    origin: third-party
+    subject: những xiên món nướng kiểu satay bốc khói trên vỉ nướng tại một chợ đêm
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 Lần đầu đến một pasar malam có thể khiến bạn mất phương hướng: một dòng người

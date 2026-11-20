@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -119,6 +119,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: 棕榈树与暗色礁石框住珍南海滩的白沙，旁边是碧绿海水，上方有一具滑翔伞
+    kind: actual
+    origin: third-party
+    subject: 珍南海滩，棕榈与碧绿海水
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: 红色的天空缆车吊舱滑行于茂密雨林上空，俯瞰浮罗交怡岛上的码头与碧绿海湾
+    kind: actual
+    origin: third-party
+    subject: 浮罗交怡天空缆车越过丛林与码头
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 99座岛屿、比鱼类还古老的岩石、廉价威士忌，以及一座悬挂在由估计逾5.5亿年历史岩石构成的山侧的缆车——浮罗交怡在马来西亚西北端外海的这一个群岛里，塞进了异乎寻常之多的内容。它是这个国家旗舰级的西海岸度假岛屿，运作逻辑几乎与半岛另一侧那些棕榈环绕的潜水岛屿相反。本指南涵盖出发前真正要紧的事项：让人栽跟头的免税规则、为风景提供背景故事的联合国教科文组织地质公园、天空缆车与天空之桥、值得一去的船游，以及如何在浮罗交怡与东海岸之间抉择。

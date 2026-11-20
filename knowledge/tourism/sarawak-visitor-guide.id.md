@@ -36,7 +36,7 @@ faq:
     a: "Keduanya ada. Tempat seperti Annah Rais dekat Kuching adalah komunitas rumah panjang Bidayuh yang masih dihuni keluarga, sedangkan Kampung Budaya Sarawak dekat Santubong adalah museum hidup yang dibangun khusus. Mengunjungi rumah panjang yang masih dihuni paling baik diatur terlebih dahulu dan sering melalui pemandu wisata yang bisa menafsirkan kunjungan itu dengan hormat."
 
 lang: "id"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Orangutan berbulu merah bergelantungan dan meraih di antara tali di tengah hutan hujan hijau lebat di Cagar Alam Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Seekor orangutan liar bergerak di sepanjang tali di hutan hujan Cagar Alam Semenggoh dekat Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Rumah panjang Iban dari kayu yang panjang berdiri di atas tiang dengan atap merah, berlatar hutan hujan di lereng bukit Sarawak
+    kind: actual
+    origin: third-party
+    subject: Rumah panjang Iban tradisional berdiri di atas tiang di sepanjang tepi sungai berhutan di Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Anda bisa terbang dari Kuala Lumpur ke Kuching dalam waktu kurang dari dua jam, tidak pernah meninggalkan negara Anda sendiri, namun masih dicap melalui imigrasi di ujung sana. Kejutan di aula kedatangan itulah hal paling penting yang perlu dipahami tentang Sarawak: ia sebuah negara bagian Malaysia yang mengoperasikan perbatasannya sendiri.

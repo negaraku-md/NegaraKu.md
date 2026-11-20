@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: 一座半木结构的白棕相间都铎式酒店，暮色中窗户透出温暖灯光并爬满常春藤，四周环绕着高大的松树
+    kind: actual
+    origin: third-party
+    subject: 福隆港的仿都铎式殖民地酒店 The Smokehouse，暮色中灯火通明
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: 一座以棕榈点缀的高原梯台花园向下延伸至茂密的绿色雨林，远处是薄雾笼罩的青蓝山脊
+    kind: actual
+    origin: third-party
+    subject: 福隆港的梯台山坡花园，俯瞰凉爽雾气弥漫的雨林谷地与远山
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 马来西亚大多数的避暑山站都向你兜售着什么——一座赌场、一片茶园、一座草莓农场、一座主题乐园。福隆港向你兜售的是这一切的缺席。它铺展于[蒂迪旺沙山脉](/zh/malaysia/titiwangsa-range)一簇森林覆盖的山脊之上，是一座小而安静、被雾气笼罩的殖民时期山站，你在这里能听到的最响的声音是鸟鸣，而即使在赤道，一件毛衣穿在身上也不再显得可笑。对观鸟者而言，它近乎圣地；对其他所有人而言，它是其更张扬的高原邻居们缓慢、低调的替代。本指南涵盖福隆港究竟是什么、观鸟者为何而来、有什么可看、上山的蜿蜒公路如何运作，以及这个地方适合与不适合谁。

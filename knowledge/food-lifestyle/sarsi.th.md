@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "th"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: แก้วที่เต็มไปด้วยน้ำอัดลมซาร์ซาพาริลลา (ซาร์เซ) สีน้ำตาลแดงเข้ม
+    kind: actual
+    origin: third-party
+    subject: แก้วน้ำอัดลมซาร์ซาพาริลลา Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 ไม่ใช่ทุกเครื่องดื่มบนโต๊ะมาเลเซียที่ชง ชัก หรือคั้น บางอย่างมาจากขวด — และน้อยอย่างที่

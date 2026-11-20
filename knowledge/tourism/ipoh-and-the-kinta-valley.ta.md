@@ -40,7 +40,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Ipoh-இல் Kek Lok Tong-இல் காடு மூடிய சுண்ணாம்புக்கல் பாறைகளுக்கு இடையே அமைந்த குளம் மற்றும் பூக்கும் புதர்களுடனான நிலவியல் தோட்டம்
+    kind: actual
+    origin: third-party
+    subject: Ipoh-இன் தெற்கே உயரமான சுண்ணாம்புக்கல் பாறைகளால் சூழப்பட்ட Kek Lok Tong குகைக் கோயிலின் ஏரிக்கரைத் தோட்டம்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: பிரகாசமான நீல வானத்திற்கு எதிராக Moorish வளைவுகளுடனான Kellie's Castle-இன் வானிலை தேய்ந்த செங்கல் தூண் வரிசை முகப்பு
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Kinta Valley-இல் Batu Gajah-வில் உள்ள முடிக்கப்படாத Moorish-பாணி காலனிய மாளிகை
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 ஈயம் ஈப்போவை உருவாக்கியது, பின்னர் அது கிட்டத்தட்ட அதை அழித்தது. கிந்தா ஆற்றில் ஒரு கிராமம் கிந்தா பள்ளத்தாக்கின் அடியில் புதைந்திருந்த தாதுவின் வலிமையில் பிரிட்டிஷ் மலாயாவின் மிகச் செழுமையான நகரங்களில் ஒன்றாக மாறி, தனக்கு ஒரு பிரம்மாண்டமான காலனித்துவ மையத்தைக் கட்டி, பின்னர் ஈய விலை சரிந்தபோது பணம் வடிந்து செல்வதைப் பார்த்தது. அது வைத்துக்கொண்டது கட்டிடக்கலை, குகைக் கோயில்களால் நிறைந்த சுண்ணாம்பு மலைகள், மேலும் ஒரு அசாதாரணமாக நல்ல சமையலறை. இன்று ஈப்போ மலேசியாவின் மிக வசதியான பாரம்பரிய-மற்றும்-உணவு நகர இடைவேளை — ஒரு நாள் பயணத்திற்குக் கோலாலம்பூருக்கு போதுமான அருகில், ஒரு வார இறுதிக்குப் பலனளிக்கும் அளவுக்கு செழுமையானது. இந்த வழிகாட்டி அதை வடிவமைத்த நிலப்பரப்பையும் வரலாற்றையும், நகரத்திலும் அதைச் சுற்றிலும் பார்க்க என்ன உள்ளது, உணவை சுருக்கமாக, மேலும் அங்கு செல்வதன் நடைமுறைகளை உள்ளடக்குகிறது.

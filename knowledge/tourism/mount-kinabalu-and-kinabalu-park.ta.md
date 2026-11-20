@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: நீல வானத்தின் கீழ் Mount Kinabalu-வில் ஒரு பாறை உச்சிக்குக் கீழே வெறும் கிரானைட் உச்சிச் சமவெளியைக் கடக்கும் மலையேறிகள்
+    kind: actual
+    origin: third-party
+    subject: வெறும் பாறைச் சமவெளியில் மலையேறிகளுடன் Mount Kinabalu-வின் கிரானைட் உச்சிக் கூம்பு
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Kinabalu Park-இல் மலைத் தாவரங்களுக்கு இடையே வளரும் ஒரு பெரிய சிவப்பு மற்றும் பச்சை Nepenthes rajah குடுவைத் தாவரம்
+    kind: actual
+    origin: third-party
+    subject: Kinabalu Park-இல் Nepenthes rajah மாபெரும் குடுவைத் தாவரம்
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 போர்னியோவின் மழைக்காட்டிலிருந்து நேராக 4,000 மீட்டருக்கு சற்று மேல் எழும் ஒரு கிரானைட் கிரீடம், சில கண்டங்களைவிட அதிக தாவர இனங்களைக் கொண்ட ஒரு உலகப் பாரம்பரியப் பூங்கா, மேலும் உங்கள் விமானங்களை முன்பதிவு செய்வதற்கு முன்பே முன்பதிவு செய்யும் அளவுக்கு இறுக்கமாக பங்கிடப்பட்ட ஒரு உச்சி ஏற்றம் — கினபாலு மலை மலேசியாவின் மிகப் புகழ்பெற்ற ஒற்றை இயற்கை அடையாளச் சின்னம், மேலும் உண்மையில் பார்வையிட மிகவும் கட்டமைக்கப்பட்டவற்றில் ஒன்று. இது போர்னியோவின் மலேசியப் பகுதியான சபாவில் அமைந்துள்ளது, மேலும் இரண்டு மிக வேறுபட்ட வகைப் பயணிகளுக்குப் பலனளிக்கிறது: இமயமலைக்கும் நியூ கினியாவுக்கும் இடையிலான மிக உயரமான சிகரத்தில் ஒரு விடியலைத் துரத்தும் தகுதியான, ஒழுங்கமைந்த மலையேறுநர், மேலும் வெறுமனே குளிர்ந்த மலைக் காற்று, விசித்திரமான மாமிச உண்ணும் தாவரங்கள் மற்றும் ஒரு வெந்நீர் ஊற்றில் ஒரு நனைதலை விரும்பும் ஒரு நாள் பயணி. இந்த வழிகாட்டி இரண்டையும், மேலும் செல்வதற்கு முன் மக்கள் வழக்கமாகத் தவறு செய்பவற்றையும் உள்ளடக்குகிறது.

@@ -36,7 +36,7 @@ faq:
     a: "El periodo más seco y tranquilo va aproximadamente de noviembre a marzo, que es el mejor para el salto entre islas, el teleférico y el tiempo de playa. Septiembre y octubre suelen ser los meses más lluviosos, aunque la lluvia suele ser en forma de chaparrones tropicales breves más que días enteros pasados por agua."
 
 lang: "es"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Palmeras y rocas oscuras enmarcando la arena blanca de Pantai Cenang junto a agua turquesa, con un parapente en el cielo
+    kind: actual
+    origin: third-party
+    subject: Playa de Pantai Cenang con palmeras y mar turquesa
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Góndolas rojas del SkyCab deslizándose sobre una densa selva con vistas a un puerto deportivo y bahías turquesas en la isla de Langkawi
+    kind: actual
+    origin: third-party
+    subject: Teleférico SkyCab de Langkawi sobre la selva y el puerto deportivo
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Noventa y nueve islas, rocas más antiguas que los peces, whisky barato y un teleférico que cuelga de la ladera de una montaña formada por roca estimada en más de 550 millones de años — Langkawi concentra una cantidad inusual de cosas en un solo archipiélago frente a la punta noroeste de Malasia. Es la isla vacacional emblemática de la costa oeste del país, y funciona con una lógica casi opuesta a la de las islas de buceo bordeadas de palmeras del otro lado de la península. Esta guía cubre lo que de verdad importa antes de ir: las normas de zona franca que hacen tropezar a la gente, el geoparque de la UNESCO que da trasfondo al paisaje, el SkyCab y el SkyBridge, las excursiones en barco que vale la pena hacer, y cómo decidir entre Langkawi y la costa este.

@@ -31,7 +31,7 @@ faq:
     a: "لا. فصيد الأسماك محظور داخل حدود الحديقة البحرية، ولا يجوز للزوار جمع أي جزء من كائن بحري — حيًّا كان أم ميّتًا — بما في ذلك قطع المرجان والأصداف، ولا لمس المرجان أو الوقوف عليه أو إتلافه بأي شكل."
 
 lang: "ar"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: شاطئ واسع من الرمال البيضاء يتقوّس نحو جزيرة صخرية صغيرة مكسوّة بالأشجار مع مياه فيروزية ونخيل في Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: شاطئ الرمال البيضاء الطويل في Pulau Redang مع جزيرته الصخرية البحرية ومياهه الفيروزية، Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: منظر مرتفع يطل على أسطح أكواخ ريفية ونخيل باتجاه خليج فيروزي ساطع تتناثر فيه قوارب صغيرة ورأس بري مكسوّ بالأشجار في جزر Perhentian
+    kind: actual
+    origin: third-party
+    subject: منظر مرتفع يطل على قرية شاطئية وخليجها الفيروزي المتناثر بالقوارب في جزر Perhentian، قاعدة شهيرة للغطس السطحي
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 اصل إلى منتجع شاطئي في ريدانغ في ديسمبر، وستجد القوارب على الأرجح قد رحلت، والرصيف ساكنًا، ومتجر الغوص مُوصَدًا. فجزر الساحل الشرقي تسير على روزنامة يكتبها البحر، لا نشرة السياحة — وعلى جملة من قواعد الحديقة البحرية لا يكتشفها معظم القادمين لأول مرة إلا عند شبّاك التذاكر.

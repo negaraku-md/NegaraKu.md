@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: ルダン島の、ターコイズブルーの海とヤシの木とともに、小さな森に覆われた岩の小島へと弧を描く広い白砂のビーチ
+    kind: actual
+    origin: third-party
+    subject: 沖合の岩の小島とターコイズブルーの海を望むルダン島の長い白砂ビーチ、トレンガヌ州
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: ルダン島のプルフンティアン諸島で、素朴なシャレーの屋根とヤシの木越しに、小舟が点在する鮮やかなターコイズブルーの入り江と森に覆われた岬を見下ろす高所からの眺め
+    kind: actual
+    origin: third-party
+    subject: プルフンティアン諸島のビーチの集落と、小舟が点在するターコイズブルーの入り江を見下ろす高所からの眺め。人気のシュノーケリング拠点
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 12月にルダンのビーチリゾートに現れると、ボートは姿を消し、桟橋は静まり返り、ダイビングショップはシャッターを下ろしているのに出くわす公算が大きい。東海岸の島々は、旅行パンフレットではなく海が書いたカレンダーに従って動いている——そして、多くの初心者がチケットカウンターで初めて知ることになる一連の海洋公園のルールにも従っている。

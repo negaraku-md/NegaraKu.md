@@ -37,7 +37,7 @@ faq:
     a: "เดินเส้นทางธรรมชาติในป่า (บิชอป แม็กซ์เวลล์ รมปิน และคินเดอร์สลีย์ อยู่ในบรรดาที่รู้จักดีที่สุด) เยือนพื้นที่นันทนาการน้ำตกเจรีอาอู (Jeriau Waterfall) เดินเตร่หมู่บ้านทิวดอร์จำลองรอบหอนาฬิกา และเพลิดเพลินกับจังหวะที่เย็นและช้า (Wikipedia) มีสนามกอล์ฟและมรดกอาณานิคมบางส่วนให้ชม แต่โดยการออกแบบ มีชีวิตกลางคืนน้อยมาก"
 
 lang: "th"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: โรงแรมสไตล์ทิวดอร์ครึ่งไม้สีขาว-น้ำตาล มีหน้าต่างส่องสว่างอบอุ่นและเถาวัลย์ โอบล้อมด้วยต้นสนสูงยามพลบค่ำ
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse โรงแรมอาณานิคมสไตล์ทิวดอร์จำลองที่เฟรเซอร์สฮิลล์ (Fraser's Hill) ส่องสว่างยามค่ำ
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: สวนบนที่สูงจัดภูมิทัศน์พร้อมต้นปาล์มลาดลงสู่ป่าฝนเขียวชอุ่มหนาทึบ พร้อมสันเขาสีน้ำเงินปกคลุมหมอกไกลออกไป
+    kind: actual
+    origin: third-party
+    subject: สวนขั้นบันไดบนเนินเขามองลงไปยังหุบเขาป่าฝนเย็นปกคลุมหมอกและเทือกเขาไกลออกไปของเฟรเซอร์สฮิลล์
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 สถานีบนเขาส่วนใหญ่ของมาเลเซียขายอะไรบางอย่างให้คุณ คาสิโน ไร่ชา ไร่สตรอว์เบอร์รี สวนสนุก เฟรเซอร์สฮิลล์ขายการไม่มีทั้งหมดนั้น กระจายอยู่บนกลุ่มสันเขาที่ปกคลุมด้วยป่าบน[เทือกเขาติติวังซา](/th/malaysia/titiwangsa-range) มันเป็นสถานียุคอาณานิคมขนาดเล็กที่เงียบ ห่อหุ้มด้วยหมอก ที่ซึ่งสิ่งที่ดังที่สุดที่คุณจะได้ยินคือเสียงนก และที่ซึ่งเสื้อกันหนาวเลิกรู้สึกไร้สาระแม้ที่เส้นศูนย์สูตร สำหรับนักดูนกมันใกล้เป็นพื้นที่ศักดิ์สิทธิ์ สำหรับคนอื่นเป็นทางเลือกที่ช้าและสงบของเพื่อนบ้านบนเขาที่หวือหวากว่า คู่มือนี้ครอบคลุมว่าเฟรเซอร์สฮิลล์คืออะไรจริง ๆ เหตุใดนักดูนกจึงมา มีอะไรให้ชม ถนนคดเคี้ยวขึ้นไปทำงานอย่างไร และที่นี่เหมาะและไม่เหมาะกับใคร

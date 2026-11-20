@@ -31,7 +31,7 @@ faq:
     a: "ไม่ได้ การตกปลาต้องห้ามภายในแนวเขตอุทยานทางทะเล และผู้มาเยือนไม่สามารถเก็บส่วนใดของสิ่งมีชีวิตทางทะเล ไม่ว่ามีชีวิตหรือตายแล้ว รวมถึงชิ้นส่วนปะการังและเปลือกหอย ทั้งไม่สามารถแตะต้อง ยืนบน หรือทำลายปะการังด้วยประการอื่นใด"
 
 lang: "th"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysi
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: หาดทรายขาวกว้างโค้งไปสู่เกาะหินเล็กๆ ปกคลุมด้วยป่า พร้อมน้ำทะเลสีเทอร์ควอยซ์และต้นปาล์มบนเกาะเรอดัง (Pulau Redang)
+    kind: actual
+    origin: third-party
+    subject: หาดทรายขาวทอดยาวของเกาะเรอดังกับเกาะหินนอกชายฝั่งและน้ำทะเลสีเทอร์ควอยซ์ รัฐตรังกานู
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: มุมมองจากที่สูงเหนือหลังคากระท่อมแบบชนบทและต้นปาล์ม ลงไปยังอ่าวสีเทอร์ควอยซ์สดใสที่มีเรือเล็กและแหลมป่าไม้บนหมู่เกาะเปอร์เฮนเตียน (Perhentian Islands)
+    kind: actual
+    origin: third-party
+    subject: มุมมองจากที่สูงเหนือหมู่บ้านริมหาดและอ่าวสีเทอร์ควอยซ์ที่มีเรือบนหมู่เกาะเปอร์เฮนเตียน ฐานดำน้ำตื้นยอดนิยม
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 หากคุณไปถึงรีสอร์ตชายหาดในเรดังเดือนธันวาคม คุณมีแนวโน้มจะพบว่าเรือหายไป ท่าเรือเงียบสงบ และร้านดำน้ำปิดสนิท หมู่เกาะชายฝั่งตะวันออกดำเนินตามปฏิทินที่เขียนขึ้นโดยท้องทะเล ไม่ใช่โบรชัวร์ท่องเที่ยว และดำเนินตามชุดกฎอุทยานทางทะเลที่ผู้มาเยือนครั้งแรกส่วนใหญ่เพิ่งค้นพบที่เคาน์เตอร์จำหน่ายตั๋ว

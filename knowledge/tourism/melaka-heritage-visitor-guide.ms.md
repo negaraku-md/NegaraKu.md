@@ -40,7 +40,7 @@ faq:
     a: "Muzium itu, di 48 & 50 Jalan Tun Tan Cheng Lock, ditutup pada hari Selasa. Ia dibuka dari 10:00 pagi hingga 4:15 petang pada hari bekerja (kecuali Selasa) dan 10:00 pagi hingga 4:45 petang pada hujung minggu. Oleh sebab waktu dan harga boleh berubah, sahkan di laman web rasmi muzium sebelum melawat."
 
 lang: "ms"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: Bot pelayaran sungai melintasi rumah kedai warisan berwarna-warni dan pokok di sepanjang Sungai Melaka biru kehijauan di bandar lama
+    kind: actual
+    origin: third-party
+    subject: Pelayaran Sungai Melaka menyusuri rumah kedai bandar lama
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: Gerbang Jonker Walk menandakan pintu masuk ke jalan Chinatown Melaka di sebelah Gereja Methodist Tamil 1908
+    kind: actual
+    origin: third-party
+    subject: Gerbang Jonker Walk di sebelah Gereja Methodist Tamil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Berdirilah di Dataran Belanda pada waktu senja dan anda boleh membaca lima abad dalam satu pandangan: sebuah dewan bandaraya Belanda berwarna merah salmon di satu sisi, runtuhan sebuah gereja zaman Portugis di bukit di atas, sebuah pintu gerbang batu yang pernah menjadi teras sebuah kubu yang cuba dirobohkan oleh British, dan — dua minit berjalan kaki dari situ — sebuah lorong rumah kedai Cina-Melayu yang kini bergemerlapan untuk bazar malam Jumaat. Melaka tidak menyebarkan sejarahnya merentasi sebuah bandar besar. Ia menyusunnya ke dalam kawasan lebih kurang satu batu persegi yang boleh anda jelajahi dalam satu petang. Inilah cara membacanya, dan cara merancang lawatan mengelilinginya.

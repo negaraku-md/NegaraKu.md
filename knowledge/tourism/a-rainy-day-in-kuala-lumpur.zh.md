@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_Ma
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: 吉隆坡中央艺术坊（Pasar Seni）淡蓝色的装饰艺术风格立面，上书「Central Market Since 1888」
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央艺术坊（Pasar Seni）装饰艺术风格立面
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: 吉隆坡中央艺术坊内熙攘的双层有顶拱廊，两旁排列着手工艺与蜡染摊位，上方悬挂着各州旗帜
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央艺术坊有顶手工艺拱廊内部
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 吉隆坡的雨来得又快又猛，一个露天的计划可能几分钟内就泡汤。但这不一定要毁掉一整天。

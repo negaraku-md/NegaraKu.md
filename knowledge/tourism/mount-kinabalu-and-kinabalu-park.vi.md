@@ -37,7 +37,7 @@ faq:
     a: "Các tháng khô hơn, khoảng từ tháng 3 đến tháng 9, thường mang lại thời tiết đỉnh núi ổn định nhất, mặc dù Kinabalu tự tạo mây của riêng nó và mưa có thể xảy ra vào bất kỳ ngày nào (Sabah Parks). Đợt tiến lên đỉnh bắt đầu trước bình minh để vượt qua mây giữa buổi sáng. Vì số chỗ bị giới hạn và bán hết từ rất sớm trong các giai đoạn cao điểm và lễ, hãy cố định ngày của bạn sớm và dự trù một khoảng đệm cho thời tiết."
 
 lang: "vi"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: Những người leo núi băng qua cao nguyên đá granite trơ trụi bên dưới một đỉnh núi đá trên núi Kinabalu dưới bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Đỉnh granite nhọn của núi Kinabalu với những người leo núi trên cao nguyên đá trơ trụi
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Một cây nắp ấm Nepenthes rajah lớn màu đỏ và xanh mọc giữa thảm thực vật núi trong Vườn quốc gia Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Cây nắp ấm khổng lồ Nepenthes rajah trong Vườn quốc gia Kinabalu
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 Một vương miện đá granite vươn thẳng ra khỏi rừng mưa Borneo lên tới vừa quá 4,000 mét, một vườn Di sản Thế giới với nhiều loài thực vật hơn cả một số châu lục, và một chuyến leo đỉnh được định lượng chặt chẽ đến mức bạn đặt nó trước khi đặt vé máy bay — Núi Kinabalu là địa danh thiên nhiên nổi tiếng nhất ở Malaysia, và là một trong những nơi có cấu trúc nhất để thực sự ghé thăm. Nó nằm ở Sabah, trong phần Borneo thuộc Malaysia, và nó tưởng thưởng cho hai kiểu du khách rất khác nhau: người leo núi khỏe mạnh, có tổ chức theo đuổi một bình minh trên đỉnh cao nhất giữa dãy Himalaya và New Guinea, và người đi trong ngày chỉ đơn giản muốn không khí núi mát lạnh, những loài cây ăn thịt kỳ lạ và một lần ngâm mình trong suối nước nóng. Cẩm nang này bao gồm cả hai, và những điều người ta thường hiểu sai trước khi đi.

@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: A river cruise boat passing colourful heritage shophouses and trees along the turquoise Malacca River in the old town
+    kind: actual
+    origin: third-party
+    subject: Malacca River cruise through old-town shophouses
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: The Jonker Walk gateway arch marking the entrance to Melaka's Chinatown street beside the 1908 Tamil Methodist Church
+    kind: actual
+    origin: third-party
+    subject: Jonker Walk gateway arch beside Tamil Methodist Church
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Stand in Dutch Square at dusk and you can read five centuries in a single glance: a salmon-red Dutch town hall on one side, the ruins of a Portuguese-era church on the hill above, a stone gate that once anchored a fortress the British tried to demolish, and — a two-minute walk away — a lane of Chinese-Malay townhouses now lit up for a Friday-night bazaar. Melaka does not spread its history across a large city. It stacks it into roughly one square mile you can walk in an afternoon. Here is how to read it, and how to plan a visit around it.

@@ -34,7 +34,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: أسياخ من الخيزران بوجبات مشوية مزجّجة تتصاعد منها الأبخرة على صفيحة ساخنة سوداء في كشك بسوق ليلي
+    kind: actual
+    origin: third-party
+    subject: أسياخ من الوجبات المشوية بنمط الساتيه يتصاعد منها البخار على صفيحة ساخنة في سوق ليلي
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 قد تكون المرة الأولى في الـ pasar malam مربكة: نهرٌ مكتظّ بطيء الحركة من الناس بين

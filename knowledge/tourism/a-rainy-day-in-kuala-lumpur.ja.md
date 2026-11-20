@@ -33,7 +33,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_Ma
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: 「Central Market Since 1888」と記された、クアラルンプールのセントラルマーケット（パサール・セニ）の淡い青色のアールデコ様式のファサード
+    kind: actual
+    origin: third-party
+    subject: セントラルマーケット（パサール・セニ）のアールデコ様式のファサード、クアラルンプール
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: 吊るされた州旗の下、工芸品やバティックの露店が並ぶ、クアラルンプールのセントラルマーケット内のにぎわう2階建ての屋根付きアーケード
+    kind: actual
+    origin: third-party
+    subject: セントラルマーケットの屋根付き工芸アーケード内部、クアラルンプール
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 クアラルンプールの雨は、速く激しく降り出し、屋外の予定は数分で崩れてしまいます。

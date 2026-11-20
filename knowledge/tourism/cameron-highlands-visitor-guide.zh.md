@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: 金马仑高原雾气弥漫的苔藓森林中，一条狭窄小径在布满苔藓的虬曲树木与树根间蜿蜒
+    kind: actual
+    origin: third-party
+    subject: 金马仑高原苔藓森林中穿行于覆苔树木间的小径
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: 金马仑高原一座草莓园温室内，长排抬高的种植槽里的草莓植株结满了成熟的红色浆果
+    kind: actual
+    origin: third-party
+    subject: 金马仑高原草莓园温室内成排的草莓植株
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 在丹那拉打（Tanah Rata）下了巴士，你首先注意到的是自己呼出的白气——空气凉爽到即便身处赤道，穿件毛衣也不再显得可笑。这正是金马仑高原的精髓所在：一块温带高地叠加在热带马来西亚之上，茶树在山脊上织出整齐的绿色灯芯绒，草莓则在路旁的塑料棚里成熟。

@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Landscaped garden with a pond and flowering shrubs cradled between forested limestone karst cliffs at Kek Lok Tong, Ipoh
+    kind: actual
+    origin: third-party
+    subject: Kek Lok Tong cave temple's lakeside garden enclosed by towering limestone cliffs south of Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: Weathered red-brick colonnaded facade of Kellie's Castle with Moorish arches against a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, the unfinished Moorish-style colonial mansion at Batu Gajah in the Kinta Valley
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Tin made Ipoh, and then it almost unmade it. A village on the Kinta River turned into one of British Malaya's wealthiest towns on the strength of the ore buried under the Kinta Valley, built itself a grand colonial centre, and then watched the money drain away when the tin price collapsed. What it kept was the architecture, the limestone hills riddled with cave temples, and an unusually good kitchen. Today Ipoh is Malaysia's most comfortable heritage-and-food city break — close enough to Kuala Lumpur for a day trip, rich enough to reward a weekend. This guide covers the landscape and the history that shaped it, what there is to see in and around town, the food in brief, and the practicalities of getting there.

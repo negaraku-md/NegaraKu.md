@@ -33,7 +33,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_Ma
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: Kuala Lumpur में Central Market (Pasar Seni) का हल्का-नीला Art Deco अग्रभाग, जिस पर लिखा है 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: Central Market (Pasar Seni) का Art Deco अग्रभाग, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: Kuala Lumpur के Central Market के भीतर व्यस्त दो-मंज़िला ढका हुआ बाज़ार, लटकते राज्य झंडों के नीचे हस्तशिल्प और बाटिक की दुकानें
+    kind: actual
+    origin: third-party
+    subject: Central Market के ढके हुए हस्तशिल्प बाज़ार के भीतर, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 कुआलालंपुर में बारिश तेज़ी से और ज़ोर से आती है, और एक खुले-आसमान वाली योजना

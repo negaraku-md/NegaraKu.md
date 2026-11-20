@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana, istana kolonial putih bergerbang Gothic dengan pintu pagar berhias, di tebing utara Sungai Sarawak di Kuching
+    kind: actual
+    origin: third-party
+    subject: The Astana, istana tepi sungai putih bersejarah bekas Rajah Putih di Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Gerbang pintu gapura Cina berhias digantung tanglung merah menandakan sebatang jalan di Chinatown lama Kuching
+    kind: actual
+    origin: third-party
+    subject: Gerbang gapura istiadat Cina di Chinatown lama Kuching (kawasan Jalan Attap), dengan tanglung merah dan papan tanda rumah kedai
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 Anda boleh berjalan sepanjang tepi sungai Kuching dalam satu petang, melepasi kubu kolonial, istana Rajah dan tokong Cina dalam perjalanan, memakan salah satu mangkuk mi hebat Borneo, dan bergambar dengan patung kucing gergasi — semuanya tanpa meninggalkan bandar. Kuching ialah ibu negeri dan bandar terbesar Sarawak, terletak di Sungai Sarawak di hujung barat daya negeri di pulau Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Ia pangkalan bandar sungai yang santai tempat kebanyakan perjalanan Sarawak bermula. Panduan ini merangkumi bandar itu sendiri — kawasan tepi sungainya, sejarah era Brookenya, Pekan Cina dan muziumnya, serta kucingnya — dan cara ia berfungsi sebagai landasan pelancar untuk hutan hujan dan hidupan liar yang mengelilinginya.

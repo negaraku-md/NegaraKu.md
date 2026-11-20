@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosq
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: Johor में Legoland Malaysia Resort होटल का चमकीले रंग का Lego-ईंट वाला अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: Legoland Malaysia Resort होटल, Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: Johor के तट पर फ़िरोज़ी पानी, लाल झंडे से सजी चट्टानी टीले और नीले आकाश वाला एक सफ़ेद-रेत समुद्र तट
+    kind: actual
+    origin: third-party
+    subject: Johor तट पर एक सफ़ेद-रेत समुद्र तट
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 अधिकांश आगंतुक जोहोर से एक सीमा क़तार पर मिलते हैं — Causeway पर एक कार में, Second Link पर एक बस में, या JB Sentral में छोटी शटल ट्रेन पर — और शहर को सिंगापुर से एक खरीदारी-और-भोजन चक्कर के रूप में मानते हैं। यह इसे कम आँकता है। जोहोर बहरू मलेशिया के सबसे दक्षिणी राज्य की राजधानी है और वह प्रवेश-द्वार जहाँ प्रायद्वीप पानी के पार द्वीप गणराज्य से मिलता है, एक पैदल-चलने योग्य विरासत केंद्र, अपनी दहलीज़ पर एशिया के सबसे बड़े पारिवारिक थीम-पार्क समूहों में से एक, और इसके पीछे एक पूरा राज्य के साथ: पूर्व में समुद्र-तट, दक्षिणी छोर पर मैंग्रोव, और अंदरूनी भाग में पर्वत तथा वर्षावन। यह गाइड शामिल करती है कि क्रॉसिंग कैसे काम करती हैं, शहर में क्या करें, थीम पार्क, तट और अंदरूनी भाग, जोहोर किसके लिए उपयुक्त है, और वह एक ग़लती जो लगभग हर किसी को पकड़ती है — क्रॉसिंग का समय ग़लत करना।

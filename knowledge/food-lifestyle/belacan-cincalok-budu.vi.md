@@ -34,7 +34,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: Một món cincalok (tép nhỏ lên men) màu hồng trộn với hành tím thái lát và ớt đỏ
+    kind: actual
+    origin: third-party
+    subject: Cincalok dùng làm gia vị kèm hành tím thái lát và ớt
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: Một tô thủy tinh đựng nước mắm cá cơm budu màu nâu sẫm với những sợi xoài xanh, hành tím và ớt đỏ
+    kind: actual
+    origin: third-party
+    subject: Budu (nước mắm cá cơm lên men) chấm kèm xoài thái lát, hành tím và ớt
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 Dạo qua bất kỳ khu chợ ướt, gian bếp làng quê (kampung) nào ở Malaysia hay quầy gia vị đóng chai của một kedai runcit (tiệm tạp hóa), bạn sẽ gặp cùng bộ ba cái tên: **belacan**, **cincalok** và **budu**. Chúng trông và ngửi như thể thuộc cùng một gia đình — đều mặn, đều nồng, đều được làm bằng cách để các loài sinh vật biển nhỏ lên men trong muối — và trong thực đơn lẫn công thức, các tên này được dùng lẫn lộn. Nhưng chúng là ba thứ riêng biệt, làm khác nhau, từ những điểm xuất phát khác nhau, và dùng theo những cách khác nhau. Biết cái nào là cái nào giúp bạn khỏi nướng một thứ lẽ ra nên ăn sống, hoặc đổ nước mắm cá vào nơi mà đáng lẽ phải dùng mắm tôm.

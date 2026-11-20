@@ -37,7 +37,7 @@ faq:
     a: "विशिष्ट रूप से, पार्क तीन औपनिवेशिक-युग के राज्य अधिनियमों द्वारा नियंत्रित है — तामान नेगारा अधिनियम (पहांग) 1939, (केलंतान) 1938 और (तेरेंगानु) 1939 — न कि संघीय National Parks Act 1980 द्वारा। इसका कारण यह है कि मलेशिया के संघीय संविधान के तहत भूमि और वानिकी राज्य के मामले हैं, इसलिए संघीय अधिनियम तीनों राज्यों पर लागू नहीं होता।"
 
 lang: "hi"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Taman Negara में ऊँचे वर्षावन के पेड़ों के बीच लटके एक संकरे रस्सी-और-तख़्ते वाले canopy walkway को पार करता एक आगंतुक
+    kind: actual
+    origin: third-party
+    subject: Taman Negara में वर्षावन की चोटी पर ऊँचा canopy walkway झूला-पुल
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Taman Negara में पहाड़ियों पर धुंध के साथ जंगली नदी-तट के किनारे Tembeling River पर लकड़ी की longboat
+    kind: actual
+    origin: third-party
+    subject: सुबह की धुंध में Taman Negara घाट पर longboat के साथ Tembeling River
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 भोर में कुआला ताहान घाट पर खड़े होकर, हिमालय से पुरानी एक नदी से कोहरा उठते देखते हुए, यह भूल जाना आसान है कि आप कुआलालंपुर से बमुश्किल आधे दिन की दूरी पर हैं। तामान नेगारा कोई निर्मित आकर्षण नहीं है। यह एक जीवित उष्णकटिबंधीय वर्षावन है जो मोटे तौर पर अछूता, करोड़ों सालों से खड़ा रहा है — और इसमें प्रवेश करना लगभग किसी भी यात्री की अपेक्षा से सस्ता और सरल है।

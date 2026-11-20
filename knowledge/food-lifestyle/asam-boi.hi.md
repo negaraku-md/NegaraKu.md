@@ -44,7 +44,7 @@ sources:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snac
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: दो झुर्रीदार, नमक-लिपटे सूखे संरक्षित बेरों का नज़दीकी दृश्य
+    kind: actual
+    origin: third-party
+    subject: दो नमकीन संरक्षित बेरों (buay khem / asam boi) का नज़दीकी दृश्य
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: नमक-लिपटे सूखे संरक्षित बेरों से भरा एक साफ़ काँच का कटोरा
+    kind: actual
+    origin: third-party
+    subject: नमकीन सूखे संरक्षित बेरों (buai khem / asam boi) का एक कटोरा
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
 ---
 
 कुछ स्वाद भूलना मुश्किल होता है, और **asam boi** उनमें से एक है: एक छोटा, झुर्रीदार, सूखा

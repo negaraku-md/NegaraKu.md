@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: 国家公园（Taman Negara）内，一名游客正走过悬于高大雨林树木间、狭窄的绳索木板树冠步道
+    kind: actual
+    origin: third-party
+    subject: 国家公园雨林树冠高处的树顶吊桥步道
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: 国家公园（Taman Negara）淡美岭河上的木制长舟停靠在林木河岸旁，群山笼罩着晨雾
+    kind: actual
+    origin: third-party
+    subject: 晨雾中国家公园码头淡美岭河上的长舟
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 黎明时分站在瓜拉大汉码头，望着薄雾从一条比喜马拉雅山还要古老的河流上升腾，你很容易忘记自己距离吉隆坡不过半日路程。国家公园并非人工打造的景点。它是一片活生生的热带雨林，数千万年来大致未受干扰地屹立至今——而进入它，比几乎任何旅客所预期的都更便宜、更简单。

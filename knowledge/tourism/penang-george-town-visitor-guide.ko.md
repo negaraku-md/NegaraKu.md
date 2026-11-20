@@ -36,9 +36,9 @@ faq:
     a: "페낭은 덥고 습한 열대 기후의 연중 목적지입니다. 어느 달에나 비가 내릴 수 있지만 대체로 계절풍 전환기 무렵(대략 4~5월과 9~11월)에 가장 많습니다; 12월부터 2월까지의 더 건조하고 서늘한 구간이 인기입니다. 아침과 늦은 오후가 걷기에 가장 쾌적한 시간입니다."
 
 lang: "ko"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-T
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: 페낭 조지타운에서 알록달록한 유산 상점가와 카페가 늘어선 아르메니안 거리 위로 줄지어 걸린 빨간 중국식 등불
+    kind: actual
+    origin: third-party
+    subject: 아르메니안 거리, 조지타운
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: 페낭 조지타운의 유산 건물들 앞에 꽃과 우산으로 화려하게 꾸민 인력거(트라이쇼)들이 줄지어 선 모습
+    kind: actual
+    origin: third-party
+    subject: 조지타운의 트라이쇼
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 섬에 내려 냉방에서 걸어 나오면, 가장 먼저 덮쳐 오는 것은 냄새입니다 — 웍의 연기, 중국 사원의 향, 프랑기파니, 그리고 믈라카 해협의 소금기. 조지타운은 발로 읽는 곳입니다. 모스크, 클랜 하우스, 식민지 시대 교회가 한 블록을 함께 나눌 수 있는, 백 년 된 숍하우스의 아담한 격자입니다. 이 가이드는 무엇을 볼지, 어디서 먹을지, 해변과 언덕에 어떻게 닿을지, 그리고 느긋함에 보답하는 도시에 얼마나 시간을 줄지를 다룹니다.

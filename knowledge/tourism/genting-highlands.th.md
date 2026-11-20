@@ -38,7 +38,7 @@ faq:
     a: "สามอย่าง ประเมินสภาพอากาศต่ำเกินไป (ยอดมักถูกเมฆห่อ หนาว และเปียก จึงนำเสื้อผ้าเป็นชั้นและอย่าคาดหวังวิวแจ่มใสตามสั่ง) ไปในวันหยุดสุดสัปดาห์หรือวันหยุดราชการแล้วประหลาดใจกับฝูงชนและคิวที่กระเช้าและแหล่งท่องเที่ยว และโผล่มาโดยไม่จองโรงแรม ตั๋วเข้าสวนสนุก หรือกระเช้าล่วงหน้าในช่วงพีก การตรวจสอบว่าเครื่องเล่นและแหล่งท่องเที่ยวเฉพาะใดเปิดก่อนไปก็ช่วยเลี่ยงความผิดหวัง"
 
 lang: "th"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: ศาลาวัดจีนสีแดง-ทองพร้อมชายคางอนโค้ง ข้างเจดีย์หลายชั้นสูงบนลานปูกระเบื้องบนยอดเขา
+    kind: actual
+    origin: third-party
+    subject: ศาลาและเจดีย์หลายชั้นอันวิจิตรของวัดถ้ำชินสวี (Chin Swee Caves Temple) ที่เก็นติงไฮแลนด์ (Genting Highlands)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: ด้านหน้าโรงแรมรีสอร์ตสีขาวสูงตระหง่านเหนือทางเข้าหลังคาสีน้ำตาลเหลี่ยมมุมอันโดดเด่น ที่มีธงชาติโบกสะบัด
+    kind: actual
+    origin: third-party
+    subject: อาคารคาสิโน-โรงแรมบนยอดเขาของรีสอร์ตเวิลด์เก็นติง (Resorts World Genting) พร้อมโถงทางเข้าหลังคาแหลมอันเป็นเอกลักษณ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 ขับขึ้นถนนภูเขาออกจากความร้อนของกัวลาลัมเปอร์ และสักที่เลยจุดกึ่งกลาง กระจกเริ่มเป็นฝ้าและอากาศกลายเป็นเย็น ภายในหนึ่งชั่วโมงหลังออกจากเมืองหลวง คุณสามารถยืนอยู่ในเมฆที่เกือบ 1,800 เมตร หน้าเมืองรีสอร์ตไฟนีออนที่ซ้อนอยู่บนยอดเขา ความตัดกันนั้น ที่ราบลุ่มเขตร้อนด้านล่าง ยอดเย็นมีหมอกด้านบน ไปถึงได้ในหนึ่งเช้า คือข้อเสนอทั้งหมดของเกนติงไฮแลนด์ส คู่มือนี้ครอบคลุมว่ามันคืออะไรจริง ๆ ขึ้นไปอย่างไร มีอะไรทำ จัดการคาสิโนอย่างมีเหตุผลอย่างไร และข้อผิดพลาดที่ทำให้ผู้มาครั้งแรกสะดุด

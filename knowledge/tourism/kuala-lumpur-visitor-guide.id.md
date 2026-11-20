@@ -36,7 +36,7 @@ faq:
     a: "Tutup bahu dan lutut Anda. Kain sarung biasanya tersedia untuk dipinjam atau disewa di pintu masuk jika pakaian Anda terlalu terbuka. Alas kaki yang nyaman membantu untuk tangga panjang naik ke kuil gua utama."
 
 lang: "id"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Bangunan Sultan Abdul Samad dan hamparan rumput Dataran Merdeka yang dikelilingi pohon palem di pusat Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Abdul Samad dan Dataran Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Deretan lampion merah Tionghoa yang menyala tergantung di atas pasar Petaling Street di Chinatown Kuala Lumpur pada malam hari
+    kind: actual
+    origin: third-party
+    subject: Lampion merah Petaling Street Chinatown pada malam hari
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Mendarat di Bandara Internasional Kuala Lumpur pada waktu subuh dan, dalam waktu sejam, Anda bisa berdiri di bawah dua menara perak yang pernah menguasai langit dunia — tanpa mobil sewa, tanpa perencanaan rumit, hanya sebuah kereta api dan kartu tap. Kemudahan itulah yang menjadi intisari KL: ia adalah pintu depan Malaysia, sebuah ibu kota yang padat dan murah tempat daya tarik utama terletak berdekatan hanya dengan sekali perjalanan rel, dan tempat hampir setiap perjalanan selanjutnya di negara ini dimulai.

@@ -37,7 +37,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kina
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Sabah-இன் Labuk Bay-இல் மங்கலான பச்சை காட்டுக்கு எதிராக வெளிர் தங்க நிற உரோமம் மற்றும் நீண்ட மூக்குடன் ஒரு மூக்குக் குரங்கின் நெருங்கிய காட்சி
+    kind: actual
+    origin: third-party
+    subject: Borneo-விற்கே உரிய ஒரு மூக்குக் குரங்கு, Sabah-இல் Labuk Bay-இல் படமெடுக்கப்பட்டது
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Kota Kinabalu-வில் கடலுக்கு மேலாக ஒரு தீப்பிழம்பு ஆரஞ்சு சூரிய அஸ்தமனம், மீன்பிடிப் படகுகள் நிழற்படமாகத் தெரிய மற்றும் அடிவானத்தில் ஒரு தீவுடன்
+    kind: actual
+    origin: third-party
+    subject: Kota Kinabalu கடற்கரையோரத்தில் கடலில் நிழற்படமாகத் தெரியும் மீன்பிடிப் படகுகள் மற்றும் அடிவானத்தில் தீவுகளுடன் தங்க சூரிய அஸ்தமனம்
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 நாட்டை விட்டு வெளியேறாமல் கோலாலம்பூரிலிருந்து கோட்டா கினபாலுவுக்குப் பறக்கலாம், ஆனாலும் நீங்கள் வந்திறங்கும்போது ஒரு குடிநுழைவுக் கவுண்டரில் வரிசையில் நிற்க வேண்டியிருக்கும். அந்த ஆச்சரியம் பல முதல்-முறை வருகையாளர்களைத் திணறடிக்கிறது — சபாவுக்கு ஒரு பயணத்தைத் திட்டமிடுவதற்கு முன் புரிந்துகொள்ள வேண்டிய மிக முக்கியமான ஒரே விஷயம் இதுதான். இந்த வழிகாட்டி, சபாவை அதன் சொந்த இடமாக உணரச் செய்யும் நுழைவாயில், தலைசிறந்த ஈர்ப்புகள் மற்றும் நுழைவு விதிகள் வழியாக உங்களை அழைத்துச் செல்கிறது, ஏனெனில் மிக நிஜமான ஒரு வகையில், அது அப்படித்தான்.

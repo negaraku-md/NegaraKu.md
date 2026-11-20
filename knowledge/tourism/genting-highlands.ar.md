@@ -38,7 +38,7 @@ faq:
     a: "ثلاثة أمور: الاستهانة بالطقس (القمّة كثيراً ما تلفّها الغيوم، باردة ورطبة، فأحضِر طبقة ولا تتوقّع إطلالات صافية عند الطلب)، والذهاب في عطلة نهاية أسبوع أو عطلة رسمية والمفاجأة بالحشود والطوابير عند التلفريك والمعالم، والحضور دون حجز الفنادق أو دخول الحديقة الترفيهية أو التلفريك مسبقاً في فترات الذروة. والتحقّق من الألعاب والمعالم المفتوحة تحديداً قبل أن تذهب يتجنّب الخيبة أيضاً."
 
 lang: "ar"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jp
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: جناح معبد صيني بلونين أحمر وذهبي بأفاريز مرفوعة الأطراف بجوار باغودا عالية متدرجة في ساحة مبلّطة على قمة التل
+    kind: actual
+    origin: third-party
+    subject: الجناح المزخرف والباغودا المتعددة الطوابق لمعبد Chin Swee Caves في Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: واجهة فندق منتجع أبيض شاهق فوق مدخل مظلّة بنية زاوية مميزة ترفرف عليها الأعلام الوطنية
+    kind: actual
+    origin: third-party
+    subject: برج الفندق والكازينو على قمة التل في Resorts World Genting بمظلّة مدخله المدبّبة المميزة
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 اصعد بالسيارة طريق الجبل خارجاً من حرّ كوالالمبور، وعند مكان ما بعد منتصف الطريق، تبدأ النوافذ تتضبّب ويبرد الهواء. وفي غضون ساعة من مغادرة العاصمة يمكن أن تقف في الغيوم على نحو 1,800 متر، أمام مدينة منتجع نيونيّة مكدّسة على قمّة جبل. ذلك التباين — سهل استوائي منخفض أدناه، وقمّة باردة ضبابية أعلاه، تُبلَغ في صباح واحد — هو كامل عرض مرتفعات غنتينغ. يتناول هذا الدليل ما هي فعلاً، وكيف تصل إلى هناك، وما يُفعَل، وكيف تعامل الكازينو بحكمة، والأخطاء التي تباغت الزوّار لأول مرة.

@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Pan
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Taman Negara-வில் உயரமான மழைக்காட்டு மரங்களுக்கு இடையே தொங்கவிடப்பட்ட, கயிறு மற்றும் பலகையாலான குறுகிய விதானப் பாதையைக் கடக்கும் ஒரு பார்வையாளர்
+    kind: actual
+    origin: third-party
+    subject: Taman Negara-வில் மழைக்காட்டு மர உச்சிகளில் உயரே விதானப் பாதை தொங்கு பாலம்
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Taman Negara-வில் மலைகள் மீது மூடுபனியுடன் காடு மூடிய ஆற்றங்கரைக்கு அருகில் Tembeling ஆற்றில் மரத்தாலான நீள்படகுகள்
+    kind: actual
+    origin: third-party
+    subject: காலை மூடுபனியில் Taman Negara படகுத்துறையில் நீள்படகுகளுடன் Tembeling ஆறு
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 விடியற்காலையில் Kuala Tahan படகுத்துறையில் நின்று, இமயமலையை விடப் பழமையான ஒரு ஆற்றிலிருந்து மூடுபனி எழுவதைப் பார்க்கும்போது, நீங்கள் Kuala Lumpur-இலிருந்து அரை நாள் தூரத்தில்தான் இருக்கிறீர்கள் என்பதை மறந்துவிடுவது எளிது. Taman Negara என்பது செயற்கையாக உருவாக்கப்பட்ட ஈர்ப்பு அல்ல. இது பல கோடி ஆண்டுகளாக பெருமளவில் தொந்தரவின்றி நிலைத்திருக்கும் ஒரு உயிர்ப்புள்ள வெப்பமண்டல மழைக்காடு — அதனுள் நுழைவது கிட்டத்தட்ட எந்தப் பயணியும் எதிர்பார்ப்பதை விட மலிவானதும் எளிதானதும் ஆகும்.

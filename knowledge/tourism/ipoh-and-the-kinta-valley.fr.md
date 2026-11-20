@@ -38,7 +38,7 @@ faq:
     a: "Le plus simple est le train électrique KTM ETS depuis KL Sentral, qui atteint Ipoh en environ deux à deux heures et demie selon le service, avec une option express plus rapide introduite en 2024 (Wikipedia ; Malay Mail). Rouler sur l'autoroute Nord-Sud prend un temps similaire. Confirmez les horaires et tarifs en vigueur auprès de KTMB avant de voyager."
 
 lang: "fr"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Jardin paysager avec un bassin et des arbustes en fleurs niché entre des falaises karstiques calcaires boisées, à Kek Lok Tong, Ipoh
+    kind: actual
+    origin: third-party
+    subject: Le jardin au bord de l'eau du temple troglodyte de Kek Lok Tong entouré de hautes falaises calcaires au sud d'Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: Façade à colonnades en briques rouges patinées du château de Kellie, avec des arches mauresques, sur fond de ciel bleu éclatant
+    kind: actual
+    origin: third-party
+    subject: Le château de Kellie, le manoir colonial inachevé de style mauresque à Batu Gajah dans la vallée de Kinta
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 L'étain a fait Ipoh, puis a failli la défaire. Un village sur la rivière Kinta est devenu l'une des villes les plus riches de la Malaisie britannique grâce au minerai enfoui sous la vallée de Kinta, s'est construit un grand centre colonial, puis a vu l'argent s'écouler lorsque le prix de l'étain s'est effondré. Ce qu'elle a conservé, c'est l'architecture, les collines calcaires criblées de temples-grottes, et une cuisine inhabituellement bonne. Aujourd'hui, Ipoh est l'escapade urbaine patrimoine-et-cuisine la plus confortable de Malaisie — assez proche de Kuala Lumpur pour une excursion d'une journée, assez riche pour récompenser un week-end. Ce guide couvre le paysage et l'histoire qui l'ont façonné, ce qu'il y a à voir en ville et aux alentours, la cuisine en bref, et les aspects pratiques pour s'y rendre.

@@ -31,7 +31,7 @@ faq:
     a: "이는 세마이(Semai) 마을로 들어가는 가이드 문화 방문으로, 대개 블로우파이프(취관) 시연과 숲 생계 방식에 대한 설명이 포함됩니다. 평판이 좋은 현지 가이드와 함께 가고, 사람을 촬영하기 전에 먼저 양해를 구하며, 구경거리가 아니라 존중하는 문화 교류로 대하십시오."
 
 lang: "ko"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: 카메론 하이랜드의 안개 자욱한 모시 포레스트에서 이끼로 뒤덮인 울퉁불퉁한 나무와 뿌리 사이로 구불구불 이어지는 좁은 길
+    kind: actual
+    origin: third-party
+    subject: 카메론 하이랜드 모시 포레스트의 이끼 덮인 나무들 사이를 지나는 오솔길
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: 카메론 하이랜드 딸기 농장의 온실 안, 잘 익은 빨간 열매가 달린 딸기 모종이 길게 올라간 재배 고랑
+    kind: actual
+    origin: third-party
+    subject: 카메론 하이랜드 딸기 농장 온실에 줄지어 선 딸기 모종
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 타나 라타(Tanah Rata)에서 버스에 내리면 가장 먼저 느껴지는 것은 자신의 입김입니다. 적도에 있으면서도 스웨터를 걸치는 것이 우스꽝스럽지 않을 만큼 공기가 서늘합니다. 그것이 바로 카메론 하이랜드의 핵심입니다. 열대 말레이시아 위에 쌓아 올려진 온대 고산 지대로, 능선 위로 차가 가지런한 초록빛 골지 무늬처럼 자라고 도롯가 비닐하우스에서 딸기가 익어갑니다.

@@ -856,6 +856,37 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       </section>
 
       {
+        d.images.length > 0 && (
+          <section class="layer art-gallery" data-pagefind-ignore>
+            {d.images.map((im) => {
+              const lbl = imageLabel(im.kind, im.origin, locale);
+              const rep = needsRepresentativeBadge(im.kind);
+              return (
+                <figure class="art-photo art-photo-inline">
+                  <img src={im.src} alt={iso(im.alt)} width="1600" height="900" loading="lazy" decoding="async" />
+                  {rep && <span class="art-photo-badge">{lbl}</span>}
+                  {(lbl || im.subject || im.caption || im.credit || im.sourceUrl || im.license) && (
+                    <figcaption>
+                      {lbl && <span class="prov">{lbl}</span>}
+                      {(im.caption || im.subject) && <span>{lbl ? ' · ' : ''}{iso(im.caption || im.subject)}</span>}
+                      {(im.credit || im.sourceUrl) && (
+                        <span>{(lbl || im.caption || im.subject) ? ' · ' : ''}
+                          {im.sourceUrl ? (
+                            <a href={im.sourceUrl} target="_blank" rel="noopener noreferrer">{im.credit ?? im.sourceUrl}</a>
+                          ) : (im.credit)}
+                        </span>
+                      )}
+                      {im.license && <span class="lic">{(lbl || im.caption || im.subject || im.credit || im.sourceUrl) ? ' · ' : ''}{im.license}</span>}
+                    </figcaption>
+                  )}
+                </figure>
+              );
+            })}
+          </section>
+        )
+      }
+
+      {
         d.faq.length > 0 && (
           <section class="layer">
             <header>

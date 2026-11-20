@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinab
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: 青空の下、キナバル山の岩の頂の下にある、むき出しの花崗岩の山頂台地を横切る登山者たち
+    kind: actual
+    origin: third-party
+    subject: むき出しの岩の台地に登山者がいるキナバル山の花崗岩の頂
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: キナバル公園の山地の植生の間に育つ、大きな赤と緑のネペンテス・ラジャのウツボカズラ
+    kind: actual
+    origin: third-party
+    subject: キナバル公園のネペンテス・ラジャの巨大ウツボカズラ
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
 ---
 
 ボルネオの熱帯雨林からまっすぐ4,000メートル余りまでそそり立つ花崗岩の冠、いくつかの大陸よりも多くの植物種を擁する世界遺産の公園、そしてフライトを予約する前に予約しなければならないほど厳しく割り当てられた山頂登山——キナバル山はマレーシアで最も有名な自然のランドマークであり、実際に訪れるのに最も段取りを要する場所の一つです。それはボルネオのマレーシア側、サバ州にあり、まったく異なる二種類の旅行者に報います。ヒマラヤとニューギニアの間の最高峰で夜明けを追う、体力のある段取り上手な登山者と、ただ涼しい山の空気、奇妙な食虫植物、そして温泉での一浴を求める日帰り客です。本ガイドはその両方を、そして人が出発前にきまって間違えることを扱います。

@@ -31,7 +31,7 @@ faq:
     a: "Đây là các chuyến thăm văn hóa có hướng dẫn vào các làng Semai, thường có một màn trình diễn ống thổi và các buổi nói chuyện về sinh kế rừng. Hãy đi cùng một hướng dẫn viên địa phương uy tín, hỏi trước khi chụp ảnh người dân, và coi đó như một cuộc trao đổi văn hóa tôn trọng chứ không phải một màn trình diễn."
 
 lang: "vi"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_P
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Một lối mòn hẹp uốn lượn giữa những thân cây sần sùi phủ rêu và rễ cây trong Rừng Rêu sương mù ở Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Lối mòn xuyên qua những thân cây phủ rêu của Rừng Rêu ở Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Những luống dâu tây nâng cao dài trĩu quả đỏ chín trong nhà kính tại một trang trại dâu tây ở Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Những hàng cây dâu tây trong nhà kính tại một trang trại dâu tây ở Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Bước xuống xe buýt tại Tanah Rata và điều đầu tiên bạn nhận thấy là hơi thở của chính mình — không khí đủ mát để một chiếc áo len không còn cảm thấy lố bịch, ngay cả ở xích đạo. Đó là toàn bộ mấu chốt của Cameron Highlands: một mảng đồi núi ôn đới xếp chồng lên trên Malaysia nhiệt đới, nơi trà mọc thành những luống xanh gọn gàng trên các dãy núi và dâu tây chín trong các nhà lưới ven đường.

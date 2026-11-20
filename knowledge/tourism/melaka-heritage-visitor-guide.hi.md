@@ -40,7 +40,7 @@ faq:
     a: "संग्रहालय, 48 और 50 जालान तुन तान चेंग लॉक पर, मंगलवार को बंद रहता है। यह कार्यदिवसों (मंगलवार को छोड़कर) में सुबह 10:00 बजे से शाम 4:15 बजे तक और सप्ताहांत में सुबह 10:00 बजे से शाम 4:45 बजे तक खुलता है। चूँकि समय और क़ीमतें बदल सकती हैं, जाने से पहले संग्रहालय की आधिकारिक साइट पर पुष्टि करें।"
 
 lang: "hi"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fo
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: पुराने शहर में फ़िरोज़ी Malacca River के किनारे रंगीन विरासत shophouse और पेड़ों से गुज़रती एक नदी-क्रूज़ नाव
+    kind: actual
+    origin: third-party
+    subject: पुराने-शहर की shophouse के बीच से Malacca River क्रूज़
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 1908 की Tamil Methodist Church के पास Melaka के Chinatown गली के प्रवेश को चिह्नित करता Jonker Walk का मेहराबदार द्वार
+    kind: actual
+    origin: third-party
+    subject: Tamil Methodist Church के पास Jonker Walk का मेहराबदार द्वार
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 गोधूलि में डच स्क्वायर में खड़े हों और आप एक ही नज़र में पाँच शताब्दियाँ पढ़ सकते हैं: एक ओर सामन-लाल डच नगर-भवन, ऊपर पहाड़ी पर एक पुर्तगाली-कालीन चर्च के खंडहर, एक पत्थर का द्वार जो कभी उस दुर्ग का आधार था जिसे ब्रिटिशों ने ध्वस्त करने की कोशिश की, और — दो मिनट की पैदल दूरी पर — चीनी-मलय टाउनहाउसों की एक गली जो अब शुक्रवार-रात के बाज़ार के लिए जगमगाती है। मेलाका अपना इतिहास किसी बड़े शहर में नहीं फैलाता। यह इसे लगभग एक वर्ग मील में समेट देता है जिसे आप एक दोपहर में पैदल घूम सकते हैं। यहाँ बताया गया है कि इसे कैसे पढ़ें, और इसके इर्द-गिर्द यात्रा की योजना कैसे बनाएँ।

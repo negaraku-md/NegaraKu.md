@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(Novemb
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Pokok palma dan batu gelap membingkai pasir putih Pantai Cenang di sebelah air biru kehijauan, sebuah layar terbang di udara
+    kind: actual
+    origin: third-party
+    subject: Pantai Cenang dengan pokok palma dan laut biru kehijauan
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Gondola SkyCab merah meluncur di atas hutan hujan tebal menghadap marina dan teluk biru kehijauan di pulau Langkawi
+    kind: actual
+    origin: third-party
+    subject: Kereta kabel Langkawi SkyCab di atas hutan dan marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Sembilan puluh sembilan pulau, batuan yang lebih tua daripada ikan, wiski murah dan sebuah kereta kabel yang tergantung di sisi gunung yang dibina daripada batuan yang dianggarkan berusia lebih 550 juta tahun — Langkawi memuatkan jumlah yang luar biasa banyak ke dalam satu kepulauan di hujung barat laut Malaysia. Ia merupakan pulau percutian utama pantai barat negara, dan ia berfungsi mengikut logik yang hampir bertentangan dengan pulau-pulau menyelam berpokok palma di seberang semenanjung. Panduan ini merangkumi perkara yang benar-benar penting sebelum anda pergi: peraturan bebas cukai yang sering mengelirukan orang, geopark UNESCO yang memberikan latar belakang kepada pemandangannya, SkyCab dan SkyBridge, pelayaran bot yang berbaloi diambil, dan cara memilih antara Langkawi dengan pantai timur.

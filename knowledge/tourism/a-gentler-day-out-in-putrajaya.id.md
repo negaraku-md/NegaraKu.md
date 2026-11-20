@@ -35,7 +35,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: Jembatan Seri Wawasan berbentuk layar dengan kabel penahan yang membentang di atas danau di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Jembatan Seri Wawasan, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: Tampak dekat kubah merah muda Masjid Putra dengan pola rumit berlatar langit badai di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Kubah merah muda Masjid Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
 ---
 
 Putrajaya layak dikunjungi, tetapi ia menghukum rencana yang salah. Ibu kota administratif federal Malaysia yang dibangun khusus ini adalah kota dengan **bulevar lebar, bangunan monumental, plaza seremonial, jembatan, dan danau buatan yang besar** — indah, dan dibangun untuk mobil. Landmark-nya tersebar di seluruh presint bernomor, sering kali berjarak satu kilometer atau lebih, dengan sedikit keteduhan di antaranya. Datanglah dengan harapan bisa berjalan santai dari masjid ke taman lalu ke toko-toko dan Anda akan menghabiskan hari yang panas berjalan menempuh jarak yang jauh dan terbuka. Datanglah dengan rencana yang lebih santai dan Putrajaya menjadi salah satu hari santai termudah di dekat Kuala Lumpur.

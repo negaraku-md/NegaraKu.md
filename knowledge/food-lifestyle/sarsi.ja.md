@@ -43,7 +43,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "ja"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
 heroKind: 'representative'
 heroOrigin: 'third-party'
 heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: 濃い赤茶色の炭酸のサルサパリラ（サルサエ）の清涼飲料で満たされたグラス
+    kind: actual
+    origin: third-party
+    subject: アジア・サルサエのサルサパリラ清涼飲料のグラス
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 マレーシアの食卓のどの飲み物も淹れたり、引っ張ったり、搾ったりされるわけではない。瓶から来るものも

@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: 姆禄山国家公园鹿洞的巨大幽暗洞口，坐落于陡峭、雨林垂挂的石灰岩峭壁之中
+    kind: actual
+    origin: third-party
+    subject: 姆禄山鹿洞的巨大洞口，世界最大洞穴通道之一，被高耸的丛林覆盖石灰岩峭壁环抱
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: 姆禄山清水洞内光线柔和的洞室，有着光滑淡色的岩壁和一条平静的地下河
+    kind: actual
+    origin: third-party
+    subject: 姆禄山清水洞内有地下河的灯光洞室，属东南亚最长洞穴系统之一
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 在砂拉越雨林深处，石灰岩山峰直接自丛林中拔起、无路可达之处，坐落着马来西亚最非凡的景观之一——也是地球上研究得最透彻的洞穴地区之一。姆鲁山国家公园是你能找到世界最大洞厅、一条大得足以让一架巨型喷气客机穿行的洞道、一条每晚由数以百万计蝙蝠组成的河流，以及一片山顶上锋利得足以划破登山靴的石灰岩刀刃之林的地方。它也确实偏远：你搭乘小型飞机抵达，几乎到哪里都有向导相伴，而且要提前数月预订。本指南涵盖姆鲁是什么、地下与地上有什么可看、两条大型徒步路线、交通如何运作，以及初次到访者会犯的错误。

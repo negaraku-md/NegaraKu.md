@@ -105,6 +105,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: A red-haired orangutan hanging and reaching between ropes amid dense green rainforest at Semenggoh Nature Reserve
+    kind: actual
+    origin: third-party
+    subject: A wild orangutan moving along ropes in the rainforest at Semenggoh Nature Reserve near Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: A long timber Iban longhouse raised on stilts with a red roof, backed by rainforest on a Sarawak hillside
+    kind: actual
+    origin: third-party
+    subject: A traditional Iban longhouse raised on stilts along a forested riverbank in Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 You can fly from Kuala Lumpur to Kuching in under two hours, never leave your own country, and still get stamped through immigration on the other end. That surprise at the arrivals hall is the single most important thing to understand about Sarawak: it is a Malaysian state that runs its own border.

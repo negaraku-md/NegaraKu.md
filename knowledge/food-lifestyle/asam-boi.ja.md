@@ -43,7 +43,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "ja"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snac
 heroKind: 'actual'
 heroOrigin: 'third-party'
 heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: しわが寄り、塩をまぶした干し梅（保存用の梅）2粒のクローズアップ
+    kind: actual
+    origin: third-party
+    subject: 塩漬けの干し梅（ブアイ・ケム／アッサム・ボイ）2粒のクローズアップ
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: 塩の霜が付いた干し梅（保存用の梅）を山盛りにした透明なガラスのボウル
+    kind: actual
+    origin: third-party
+    subject: 塩漬けの干し梅（ブアイ・ケム／アッサム・ボイ）のボウル
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
 ---
 
 忘れがたい味というものがあり、**asam boi** はその一つだ——小さく、しわの寄った
