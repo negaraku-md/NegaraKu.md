@@ -105,6 +105,12 @@ keywords:
   - "MM2H platinum kerja"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: 'Ini untuk pemilik perniagaan, pelabur atau pesara asing yang membandingkan pas jangka panjang — terutamanya sesiapa yang telah diberitahu bahawa MM2H membolehkan mereka menjalankan syarikat Malaysia.'
+  how: 'Padankan pas dengan aktiviti yang anda benar-benar perlukan. Pekerjaan oleh syarikat Malaysia berjalan melalui Employment Pass yang ditaja majikan. Kebanyakan peringkat MM2H menghalang aktiviti perniagaan dan kerjaya manakala peringkat teratas membenarkannya. Laluan pelawat premium membenarkan kerja dan perniagaan yang sah. Pemegang Dependant Pass mesti menukar kepada Employment Pass untuk bekerja, kerana anda hanya boleh memegang satu pas pada satu masa; sebaliknya pasangan asing warganegara Malaysia memperoleh hak bekerja melalui pengesahan (endorsement) pada Long Term Social Visit Pass.'
+  cost: 'Setiap laluan membawa ambang deposit tetap, yuran penyertaan, pendapatan atau gaji tersendiri yang disemak dari semasa ke semasa, jadi sahkan angka semasa pada laman badan pengeluar itu sendiri — MOTAC untuk peringkat MM2H dan PVIP, ESD dan Jabatan Imigresen untuk Employment dan Dependant Pass — dan bukannya sesuatu angka yang dipetik.'
+  watch: '''MM2H membolehkan anda bekerja'' hanya benar untuk peringkat teratas dan salah untuk yang lain. Professional Visit Pass, termasuk DE Rantau, adalah terhad dan tanpa gaji, dengan pemegangnya masih dibayar dari luar negara. Anda hanya boleh memegang satu pas pada satu masa, jadi Dependant Pass adalah penukaran, bukan tambahan.'
+  next: 'Putuskan berdasarkan aktiviti yang anda perlukan — pekerjaan, perniagaan sendiri, persaraan, atau status tanggungan — sahkan bahawa pas itu kini membenarkannya pada laman badan pengeluar, kemudian mohon melalui badan tersebut. Lihat penerangan Employment Pass, MM2H dan PVIP.'
 ---
 
 Persoalan di sebalik setiap satu program ini adalah sama: **bolehkah saya benar-benar

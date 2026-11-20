@@ -70,6 +70,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: 'Ini untuk ekspatriat, pekerja jarak jauh atau pendatang baharu yang menimbang kos sara hidup Malaysia berbanding gaji dan asas perbelanjaan Barat sebelum berpindah.'
+  how: 'Bahagikan perbelanjaan anda kepada dua bakul. Apa yang dikeluarkan atau dijalankan oleh tenaga kerja tempatan — makanan, pengangkutan domestik, perkhidmatan asas, serta penjagaan kesihatan awam atau swasta pasaran pertengahan — jauh lebih murah berbanding asas Barat. Apa yang ditanda aras secara antarabangsa — barangan import dan elektronik, penjagaan hospital swasta terbaik, persekolahan kurikulum antarabangsa, dan hartanah bandar premium — hampir tidak lebih murah. Keterjangkauan peribadi anda ditentukan oleh berapa banyak bakul kedua itu yang sebenarnya diperlukan oleh gaya hidup anda, bukan oleh purata negara.'
+  cost: 'Tiada satu angka tunggal — ia dipacu oleh bakul anda sendiri, dan angka purata pendapatan, perbelanjaan serta inflasi rasmi berubah dari tahun ke tahun, jadi baca keluaran DOSM semasa dan bukannya sesuatu angka yang dipetik. Laluan residensi tinggal lama seperti MM2H mempunyai ambang kewangannya yang tersendiri, iaitu soal berbeza daripada kos hidup harian dari bulan ke bulan.'
+  watch: 'Tajuk utama ''Malaysia murah'' hanya benar untuk bakul yang berharga tempatan; persekolahan antarabangsa, penjagaan swasta terbaik dan hartanah premium di Lembah Klang mengikut harga global dan boleh melenyapkan penjimatan itu. Ambang kewangan visa residensi bukan ukuran kos sara hidup bulanan.'
+  next: 'Harga bakul anda sendiri — persekolahan, peringkat penjagaan kesihatan yang anda mahu, kawasan perumahan — berbanding angka tempatan semasa, kekalkan ambang visa residensi sebagai pengiraan berasingan, kemudian putuskan. Lihat penerangan visa tinggal lama MM2H dan gambaran keseluruhan kos sara hidup.'
 ---
 
 ## Sekilas pandang

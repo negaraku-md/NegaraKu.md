@@ -120,6 +120,12 @@ keywords:
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
 framework: how-to
+stayFacts:
+  who: 'This is for a foreign founder or shareholder-director who intends to run a Malaysian company from inside Malaysia on an Employment Pass.'
+  how: 'Follow the sequence, because the order is the trap. Incorporate with SSM first, register and activate the company with the Expatriate Services Division, and only then can the company — not you — sponsor your Employment Pass. As a shareholder applicant you must hold at least the minimum equity stake and be an SSM-registered director or key-position holder, and the company must clear a paid-up-capital gate that varies by ownership structure and sector.'
+  cost: 'The paid-up-capital gate, the minimum basic-salary category bands, and the equity and qualification thresholds are all set by Immigration and ESD policy and have been revised recently, so confirm the current figures on ESD Online rather than a quoted number. The salary test counts basic salary only — allowances do not count.'
+  watch: 'You cannot Employment-Pass yourself into a company that does not yet meet the capital it needs to sponsor you — that is the sequencing trap. Companies in restricted distributive-trade sectors may not obtain any long-term pass at all, and a renewal falling after the recent policy change is assessed under the new bands and can reclassify you downward.'
+  next: 'Confirm the current capital gate, salary category and equity-and-director requirements for your ownership structure on ESD Online, incorporate and register before applying, and plan any renewal against the revised policy. See the business-visa comparison and the resident-director explainer.'
 ---
 
 The order of operations defeats more foreign founders than any single rule.

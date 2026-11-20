@@ -104,6 +104,12 @@ keywords:
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: 'Dành cho chủ doanh nghiệp, nhà đầu tư hoặc người nghỉ hưu nước ngoài đang so sánh các loại pass dài hạn — đặc biệt là những ai từng được bảo rằng MM2H sẽ cho phép họ điều hành một công ty Malaysia.'
+  how: 'Hãy chọn loại pass khớp với hoạt động bạn thực sự cần. Việc làm công cho một công ty Malaysia đi theo diện Employment Pass do chủ sử dụng lao động bảo trợ. Hầu hết các bậc MM2H cấm hoạt động kinh doanh và nghề nghiệp, trong khi bậc cao nhất cho phép điều đó. Diện thị thực khách cao cấp (PVIP) cho phép làm việc và kinh doanh hợp pháp. Người giữ Dependant Pass phải chuyển sang Employment Pass mới được làm việc, vì bạn chỉ có thể giữ một loại pass tại một thời điểm; trong khi đó, vợ/chồng là người nước ngoài của một công dân Malaysia có được quyền làm việc thông qua phần xác nhận (endorsement) trên long-term social visit pass.'
+  cost: 'Mỗi lộ trình có các ngưỡng riêng về tiền gửi cố định, phí tham gia, thu nhập hoặc lương, và những ngưỡng này được điều chỉnh theo thời gian, nên hãy xác nhận các con số hiện hành trên trang của chính cơ quan cấp phép — MOTAC cho các bậc MM2H và PVIP, ESD và Immigration cho Employment Pass và Dependant Pass — thay vì một con số được trích dẫn.'
+  watch: '''MM2H cho phép bạn làm việc'' chỉ đúng với bậc cao nhất và sai với các bậc còn lại. Một Professional Visit Pass, bao gồm cả DE Rantau, bị giới hạn số lượng và không trả lương tại chỗ, với người giữ pass vẫn được trả lương từ nước ngoài. Bạn chỉ có thể giữ một loại pass tại một thời điểm, nên Dependant Pass là một sự chuyển đổi, chứ không phải thêm vào.'
+  next: 'Hãy quyết định dựa trên hoạt động bạn cần — làm công, doanh nghiệp của chính bạn, nghỉ hưu, hay diện người phụ thuộc — xác nhận rằng loại pass đó hiện cho phép điều đó trên trang của cơ quan cấp phép, rồi nộp hồ sơ qua cơ quan ấy. Xem các bài giải thích về Employment Pass, MM2H và PVIP.'
 ---
 
 Câu hỏi phía sau mỗi chương trình trong số này đều giống nhau: **tôi có thực sự được làm việc, hoặc

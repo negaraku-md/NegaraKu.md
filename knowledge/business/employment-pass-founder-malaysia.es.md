@@ -121,6 +121,12 @@ keywords:
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
 framework: how-to
+stayFacts:
+  who: 'Esto es para un fundador o accionista-director extranjero que pretende dirigir una empresa malasia desde dentro de Malasia con un Employment Pass.'
+  how: 'Sigue la secuencia, porque el orden es la trampa. Constituye primero la empresa con la SSM, regístrala y actívala con la Expatriate Services Division (ESD), y solo entonces la empresa —no tú— podrá patrocinar tu Employment Pass. Como solicitante accionista debes poseer al menos la participación mínima en el capital y ser director o titular de un puesto clave registrado ante la SSM, y la empresa debe superar un umbral de capital desembolsado que varía según la estructura de propiedad y el sector.'
+  cost: 'El umbral de capital desembolsado, las bandas de categoría de salario básico mínimo, y los umbrales de participación y de cualificación los fijan las políticas de Immigration y la ESD y se han revisado recientemente, así que confirma las cifras vigentes en ESD Online en lugar de una cifra citada. La prueba salarial cuenta únicamente el salario básico: las asignaciones no computan.'
+  watch: 'No puedes conseguirte a ti mismo un Employment Pass en una empresa que aún no cumple el capital necesario para patrocinarte: esa es la trampa de la secuencia. Las empresas en sectores de comercio distributivo restringidos pueden no obtener ningún pase de largo plazo, y una renovación posterior al reciente cambio de política se evalúa según las nuevas bandas y puede reclasificarte a la baja.'
+  next: 'Confirma en ESD Online el umbral de capital, la categoría salarial y los requisitos de participación y de director vigentes para tu estructura de propiedad, constituye y registra la empresa antes de solicitarlo, y planifica cualquier renovación teniendo en cuenta la política revisada. Consulta la comparación de visados de negocios y la explicación del director residente.'
 ---
 
 El orden de las operaciones derrota a más fundadores extranjeros que cualquier regla

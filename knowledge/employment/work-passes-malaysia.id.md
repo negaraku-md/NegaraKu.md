@@ -88,6 +88,12 @@ relations:
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["pas kerja malaysia", "professional visit pass malaysia", "de rantau nomad pass", "residence pass talent malaysia", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: 'Ini untuk pemberi kerja yang memilih pas yang tepat, atau warga negara asing yang membandingkan jalur untuk bekerja di Malaysia — tidak ada satu visa kerja Malaysia tunggal.'
+  how: 'Biarkan sponsor dan jenis pekerjaan yang memilih pasnya. Seorang ekspatriat yang disponsori pemberi kerja mengambil Employment Pass melalui ESD; proyek singkat yang dibayar dari luar negeri mengambil Professional Visit Pass; pekerja jarak jauh dengan pemberi kerja asing mengambil DE Rantau Nomad Pass melalui MDEC; ekspatriat yang telah lama berkarya mengambil Residence Pass-Talent yang dapat dibawa-pindah melalui TalentCorp; pekerja kasar mengambil PLKS di bawah rezim kuota tersendiri. Sponsor, bukan jabatan, yang menentukan mana yang berlaku.'
+  cost: 'Setiap pas menetapkan batas bawah gaji, ambang pendapatan atau durasinya sendiri, dan ini direvisi dari waktu ke waktu — pita gaji Employment Pass direvisi baru-baru ini — jadi konfirmasikan angka terkini dengan lembaga penerbit (ESD dan Immigration, MDEC, atau TalentCorp) alih-alih sebuah angka yang dikutip.'
+  watch: 'Dependant Pass tidak membawa hak bekerja — Anda harus beralih ke Employment Pass. Professional Visit Pass, termasuk DE Rantau, dibatasi kuotanya dan membuat Anda tetap dibayar dari luar negeri. Hanya Residence Pass-Talent yang dapat dibawa-pindah antar pemberi kerja; Employment Pass terikat pada sponsornya, dan berganti pemberi kerja memulai ulang penghitungan durasi.'
+  next: 'Identifikasi sponsor Anda dan jenis pekerjaannya, konfirmasikan batas bawah gaji atau pendapatan terkini serta durasi untuk pas tersebut dengan lembaga penerbitnya, lalu ajukan melalui lembaga itu. Lihat penjelasan Employment Pass, DE Rantau dan perbandingan visa bisnis.'
 ---
 
 Tidak ada visa kerja Malaysia yang tunggal. Terdapat delapan atau sembilan instrumen berbeda, dikelola oleh empat badan berbeda, dan yang mana diperlukan ditentukan oleh **siapa yang membayar gaji** — bukan oleh apa nama jabatan itu.

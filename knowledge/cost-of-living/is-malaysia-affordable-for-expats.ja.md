@@ -68,6 +68,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: '移住を検討する前に、欧米の給与水準や支出を基準にマレーシアの生活費を見極めようとしている駐在員、リモートワーカー、新規移住者のための内容です。'
+  how: '支出を2つのバスケットに分けて考えましょう。現地で生産・提供されるもの、つまり食事、国内の交通、基本的なサービス、公的医療や中価格帯の民間医療は、欧米の基準に比べて大きく割安になります。一方、国際的な水準で値付けされるもの、つまり輸入品や電子機器、最高級の民間病院での治療、インターナショナルカリキュラムの学校教育、都市部のプレミアム物件は、ほとんど安くなりません。あなた自身にとって手頃かどうかは、国の平均値ではなく、あなたのライフスタイルが2つ目のバスケットを実際にどれだけ必要とするかで決まります。'
+  cost: '単一の数字は存在しません。あなた自身のバスケットによって左右され、公式の平均所得・支出・インフレの数値も年ごとに変動するため、引用された数字ではなく最新のDOSM（マレーシア統計局）の発表を参照してください。MM2Hのような長期滞在の居住ルートには独自の別個の財務要件があり、これは日々の生活費が毎月いくらかかるかとは別の問題です。'
+  watch: '「マレーシアは安い」という見出しが当てはまるのは、現地価格のバスケットに限られます。インターナショナルスクールの学費、最高級の民間医療、クランバレーのプレミアム物件は世界的な価格に連動し、割安さを打ち消すことがあります。居住ビザの財務基準は、毎月の生活費を測る尺度ではありません。'
+  next: '学校教育、希望する医療のレベル、住む地域など、あなた自身のバスケットを現地の最新の数値に照らして見積もり、居住ビザの要件は別の計算として切り分けたうえで判断してください。MM2H長期滞在ビザの解説記事や生活費の概観をご覧ください。'
 ---
 
 ## 一目でわかる概要

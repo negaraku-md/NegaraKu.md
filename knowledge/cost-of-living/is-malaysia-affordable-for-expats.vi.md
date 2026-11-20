@@ -70,6 +70,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: 'Dành cho người nước ngoài, nhân viên làm việc từ xa hoặc người mới đến đang cân nhắc chi phí sinh hoạt ở Malaysia so với mức lương và mức chi tiêu cơ bản của phương Tây trước khi chuyển đến.'
+  how: 'Hãy chia chi tiêu của bạn thành hai nhóm. Những gì được sản xuất hoặc do nhân lực địa phương đảm nhận — thực phẩm, giao thông trong nước, dịch vụ cơ bản, cùng chăm sóc y tế công hoặc y tế tư nhân tầm trung — rẻ hơn hẳn so với mức cơ bản của phương Tây. Những gì được định giá theo chuẩn quốc tế — hàng nhập khẩu và đồ điện tử, chăm sóc tại bệnh viện tư cao cấp, trường học theo chương trình quốc tế, và bất động sản đô thị hạng sang — gần như không rẻ hơn. Mức độ dễ chi trả đối với riêng bạn được quyết định bởi lối sống của bạn thực sự cần bao nhiêu phần trong nhóm thứ hai đó, chứ không phải bởi mức trung bình toàn quốc.'
+  cost: 'Không có một con số duy nhất — nó phụ thuộc vào nhóm chi tiêu của riêng bạn, và các số liệu chính thức về thu nhập trung bình, chi tiêu và lạm phát thay đổi theo từng năm, nên hãy đọc các bản công bố hiện hành của DOSM thay vì một con số được trích dẫn. Một lộ trình cư trú dài hạn như MM2H có những ngưỡng tài chính riêng biệt của nó, và đó là một câu hỏi khác với chi phí sinh hoạt hằng tháng của đời sống thường ngày.'
+  watch: 'Câu tiêu đề ''Malaysia rẻ'' chỉ đúng với nhóm chi tiêu được định giá theo mức địa phương; trường học quốc tế, chăm sóc tư nhân cao cấp và bất động sản hạng sang ở Thung lũng Klang bám theo giá toàn cầu và có thể xóa sạch phần rẻ hơn đó. Ngưỡng tài chính của một thị thực cư trú không phải là thước đo chi phí sinh hoạt hằng tháng.'
+  next: 'Hãy tính giá cho nhóm chi tiêu của riêng bạn — trường học, mức chăm sóc y tế bạn muốn, khu vực nhà ở — dựa trên các số liệu địa phương hiện hành, giữ các ngưỡng của thị thực cư trú như một phép tính riêng, rồi hãy quyết định. Xem bài giải thích về thị thực dài hạn MM2H và các bài tổng quan về chi phí sinh hoạt.'
 ---
 
 ## Nhìn tổng quan

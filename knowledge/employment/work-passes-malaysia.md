@@ -86,6 +86,12 @@ relations:
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: 'This is for an employer choosing the right pass, or a foreign national comparing routes to work in Malaysia — there is no single Malaysian work visa.'
+  how: 'Let the sponsor and the kind of work pick the pass. An employer-sponsored expatriate takes the Employment Pass through ESD; a short foreign-paid project takes a Professional Visit Pass; a remote worker with a foreign employer takes the DE Rantau Nomad Pass through MDEC; a long-serving expatriate takes the portable Residence Pass-Talent through TalentCorp; a manual worker takes a PLKS under a separate quota regime. The sponsor, not the job title, decides which one applies.'
+  cost: 'Each pass sets its own salary floor, income threshold or duration, and these are revised over time — the Employment Pass salary bands were revised recently — so confirm the current figures with the issuing body (ESD and Immigration, MDEC, or TalentCorp) rather than a quoted number.'
+  watch: 'A Dependant Pass carries no work right — you must convert to an Employment Pass. A Professional Visit Pass, DE Rantau included, is capped and keeps you paid from abroad. Only the Residence Pass-Talent is portable between employers; an Employment Pass is tied to its sponsor, and changing employer restarts the duration clock.'
+  next: 'Identify your sponsor and the kind of work, confirm the current salary or income floor and the duration for that pass with its issuing body, then apply through that body. See the Employment Pass, DE Rantau and business-visa comparison explainers.'
 ---
 
 There is no Malaysian work visa. There are eight or nine different instruments, run by four different bodies, and the one you need is decided by **who is paying the salary** — not by what the job is called.

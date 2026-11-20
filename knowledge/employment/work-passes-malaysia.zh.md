@@ -88,6 +88,12 @@ relations:
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: '本文适合正在为员工选择合适准证的雇主，或正在比较赴马来西亚工作各条途径的外国国民——马来西亚并没有单一的工作签证。'
+  how: '让担保方和工作类型来决定准证。由雇主担保的外籍专业人士走就业准证 Employment Pass，经由 ESD 办理；短期、由境外支付的项目走专业访问准证 Professional Visit Pass；受雇于外国雇主的远程工作者走 DE Rantau Nomad Pass，经由 MDEC 办理；长期服务的外籍专业人士走可携带的居留准证—人才 Residence Pass-Talent，经由 TalentCorp 办理；体力劳工则在单独的配额制度下走 PLKS。决定适用哪一个的是担保方，而不是职位名称。'
+  cost: '每种准证都有各自的薪资下限、收入门槛或期限，而且这些会不时修订——就业准证 Employment Pass 的薪资档位近期已修订——所以请向签发机构（ESD 和移民局 Immigration、MDEC 或 TalentCorp）确认当前数额，而不是引用某个数字。'
+  watch: '家属准证 Dependant Pass 不带任何工作权利——你必须转为就业准证 Employment Pass。专业访问准证 Professional Visit Pass（含 DE Rantau）有名额上限，且让你仍由境外支付薪资。只有居留准证—人才 Residence Pass-Talent 可在雇主之间携带；就业准证 Employment Pass 绑定其担保方，更换雇主会重新开始期限的计时。'
+  next: '确定你的担保方和工作类型，向该准证的签发机构确认当前的薪资或收入下限以及期限，然后通过该机构申请。参见就业准证 Employment Pass、DE Rantau 和商务签证对比说明。'
 ---
 
 马来西亚没有工作签证这回事。有的是八九种不同的法律工具，由四个不同的机构管理，而你需要哪一种，取决于**谁在付这份薪水**——不是取决于这份工作叫什么名字。

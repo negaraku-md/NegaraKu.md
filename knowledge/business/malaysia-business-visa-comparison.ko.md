@@ -104,6 +104,12 @@ keywords:
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: '장기 체류 패스를 비교하는 외국인 사업주, 투자자 또는 은퇴자를 위한 내용입니다 — 특히 MM2H로 말레이시아 회사를 운영할 수 있다는 말을 들은 분이라면 꼭 보세요.'
+  how: '실제로 필요한 활동에 패스를 맞추세요. 말레이시아 회사에 고용되는 경우에는 고용주가 스폰서하는 Employment Pass(취업 패스)를 거칩니다. 대부분의 MM2H 등급은 사업 및 직업 활동을 금지하지만 최상위 등급은 이를 허용합니다. 프리미엄 방문자 경로는 취업과 합법적 사업 활동을 허용합니다. Dependant Pass(부양가족 패스) 소지자가 일하려면 Employment Pass로 전환해야 하는데, 한 번에 하나의 패스만 보유할 수 있기 때문입니다. 말레이시아 시민의 외국인 배우자는 그 대신 장기 사회 방문 패스(Long Term Social Visit Pass)에 배서(endorsement)를 받아 취업 권리를 얻습니다.'
+  cost: '각 경로마다 고정 예치금, 참가비, 소득 또는 급여 기준이 따로 있으며 이는 시간이 지나면서 개정되므로, 인용된 수치보다는 발급 기관의 공식 페이지에서 현재 수치를 확인하세요 — MM2H 등급과 PVIP는 MOTAC, Employment Pass와 Dependant Pass는 ESD와 Immigration입니다.'
+  watch: '''MM2H로 일할 수 있다''는 말은 최상위 등급에만 해당하며 나머지에는 틀린 말입니다. DE Rantau를 포함한 Professional Visit Pass(전문 방문 패스)는 한도가 정해져 있고 급여를 받지 않는 형태로, 소지자는 여전히 해외에서 급여를 받습니다. 한 번에 하나의 패스만 보유할 수 있으므로, Dependant Pass는 추가가 아니라 전환입니다.'
+  next: '필요한 활동 — 취업, 자기 사업, 은퇴, 부양가족 신분 — 을 기준으로 결정하고, 발급 기관 페이지에서 해당 패스가 현재 그것을 허용하는지 확인한 뒤 그 기관을 통해 신청하세요. Employment Pass, MM2H, PVIP 해설을 참고하세요.'
 ---
 
 이 모든 프로그램 뒤에 있는 질문은 동일합니다: **나는 이 패스로 실제로 근로하거나 내 회사를 운영할 수 있는가?**

@@ -122,6 +122,12 @@ keywords:
   - "employment pass kategori I II III"
   - "pas penggajian Malaysia"
 framework: how-to
+stayFacts:
+  who: 'Ini untuk pendiri atau direktur-pemegang saham asing yang berniat menjalankan perusahaan Malaysia dari dalam Malaysia dengan Employment Pass.'
+  how: 'Ikuti urutannya, karena urutan itulah jebakannya. Mendirikan perusahaan dengan SSM lebih dulu, daftarkan dan aktifkan perusahaan dengan Expatriate Services Division (ESD), dan baru setelah itu perusahaan — bukan Anda — dapat mensponsori Employment Pass Anda. Sebagai pemohon pemegang saham, Anda harus memegang setidaknya porsi ekuitas minimum dan menjadi direktur yang terdaftar di SSM atau pemegang posisi kunci, dan perusahaan harus melewati ambang modal disetor (paid-up capital) yang bervariasi menurut struktur kepemilikan dan sektor.'
+  cost: 'Ambang modal disetor, pita kategori gaji pokok minimum, serta ambang ekuitas dan kualifikasi semuanya ditetapkan oleh kebijakan Immigration dan ESD dan telah direvisi baru-baru ini, jadi konfirmasikan angka terkini pada ESD Online alih-alih sebuah angka yang dikutip. Uji gaji hanya menghitung gaji pokok — tunjangan tidak diperhitungkan.'
+  watch: 'Anda tidak dapat memberi diri sendiri Employment Pass ke dalam perusahaan yang belum memenuhi modal yang dibutuhkannya untuk mensponsori Anda — itulah jebakan urutan tersebut. Perusahaan di sektor perdagangan distributif yang dibatasi mungkin tidak dapat memperoleh pas jangka panjang apa pun, dan pembaruan yang jatuh setelah perubahan kebijakan terbaru dinilai berdasarkan pita yang baru dan dapat menurunkan klasifikasi Anda.'
+  next: 'Konfirmasikan ambang modal, kategori gaji serta persyaratan ekuitas-dan-direktur terkini untuk struktur kepemilikan Anda pada ESD Online, dirikan dan daftarkan perusahaan sebelum mengajukan, dan rencanakan pembaruan apa pun terhadap kebijakan yang telah direvisi. Lihat perbandingan visa bisnis dan penjelasan direktur residen.'
 ---
 
 Urutan operasi mengalahkan lebih banyak pendiri asing daripada aturan tunggal mana pun.

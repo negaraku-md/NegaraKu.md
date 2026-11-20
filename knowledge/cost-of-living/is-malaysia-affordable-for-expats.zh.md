@@ -69,6 +69,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: '本文适合正在搬迁前、拿马来西亚的生活成本与西方薪资和消费基准做权衡的外籍人士、远程工作者或新移民。'
+  how: '把你的开支分成两篮子。由本地生产或本地人力提供的部分——食物、本地交通、基础服务，以及公立或中档私立医疗——相对西方基准大幅便宜。而对标国际的部分——进口商品和电子产品、顶级私立医院的治疗、国际课程学校教育，以及城市高端房产——几乎不便宜。你个人负担得起与否，取决于你的生活方式实际需要多少第二篮子里的东西，而不是取决于全国平均水平。'
+  cost: '没有单一数字——它由你自己的篮子决定，而且官方的平均收入、支出和通胀数据逐年变动，所以请查阅 DOSM 的最新发布，而不是引用某个固定数字。像 MM2H 这样的长期居留途径有其自身独立的财务门槛，这与日常生活每月花费多少是两个不同的问题。'
+  watch: '“马来西亚很便宜”这个说法只对本地定价的篮子成立；国际课程学校、顶级私立医疗和巴生谷高端房产都跟随全球价格，可能把这份便宜抵消掉。居留签证的财务门槛并不能衡量每月生活成本。'
+  next: '按当前本地数据为你自己的篮子——学校教育、你想要的医疗层级、居住区域——估算费用，把居留签证门槛作为单独的一笔计算，然后再做决定。参见 MM2H 长期居留签证说明和生活成本概览。'
 ---
 
 ## 一览

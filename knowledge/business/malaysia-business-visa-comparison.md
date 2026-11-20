@@ -103,6 +103,12 @@ keywords:
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: 'This is for a foreign business owner, investor or retiree comparing long-term passes — especially anyone who has been told that MM2H will let them run a Malaysian company.'
+  how: 'Match the pass to the activity you actually need. Employment by a Malaysian company runs through the employer-sponsored Employment Pass. Most MM2H tiers bar business and career activity while the top tier permits it. The premium visitor route permits work and legal business. A Dependant Pass holder must convert to an Employment Pass to work, because you may hold only one pass at a time; a foreign spouse of a Malaysian citizen instead gets the work right by endorsement on a long-term social visit pass.'
+  cost: 'Each route carries its own fixed-deposit, participation-fee, income or salary thresholds that are revised over time, so confirm the current figures on the issuing body''s own page — MOTAC for the MM2H tiers and PVIP, ESD and Immigration for the Employment and Dependant passes — rather than a quoted number.'
+  watch: '''MM2H lets you work'' is true only for the top tier and wrong for the rest. A Professional Visit Pass, DE Rantau included, is capped and non-salaried, with the holder still paid from abroad. You can hold only one pass at a time, so a Dependant Pass is a conversion, not an add-on.'
+  next: 'Decide from the activity you need — employment, your own business, retirement, or dependant status — confirm that the pass currently permits it on the issuing body''s page, then apply through that body. See the Employment Pass, MM2H and PVIP explainers.'
 ---
 
 The question behind every one of these programmes is the same: **may I actually work,

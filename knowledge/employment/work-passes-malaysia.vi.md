@@ -87,6 +87,12 @@ relations:
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: 'Dành cho chủ sử dụng lao động đang chọn đúng loại pass, hoặc người nước ngoài đang so sánh các lộ trình để làm việc tại Malaysia — không có một thị thực lao động Malaysia duy nhất.'
+  how: 'Hãy để người bảo trợ và loại công việc quyết định loại pass. Một chuyên gia nước ngoài được chủ sử dụng lao động bảo trợ dùng Employment Pass qua ESD; một dự án ngắn hạn được trả lương từ nước ngoài dùng Professional Visit Pass; một người làm việc từ xa có chủ sử dụng lao động ở nước ngoài dùng DE Rantau Nomad Pass qua MDEC; một chuyên gia nước ngoài làm việc lâu năm dùng Residence Pass-Talent có thể mang theo (portable) qua TalentCorp; một lao động phổ thông dùng PLKS theo một chế độ hạn ngạch riêng. Người bảo trợ, chứ không phải chức danh công việc, quyết định loại nào áp dụng.'
+  cost: 'Mỗi loại pass đặt ra mức lương sàn, ngưỡng thu nhập hoặc thời hạn riêng, và những điều này được điều chỉnh theo thời gian — các bậc lương của Employment Pass đã được điều chỉnh gần đây — nên hãy xác nhận các con số hiện hành với cơ quan cấp phép (ESD và Immigration, MDEC, hoặc TalentCorp) thay vì một con số được trích dẫn.'
+  watch: 'Một Dependant Pass không đi kèm quyền làm việc — bạn phải chuyển sang Employment Pass. Một Professional Visit Pass, bao gồm cả DE Rantau, bị giới hạn số lượng và giữ cho bạn được trả lương từ nước ngoài. Chỉ có Residence Pass-Talent là có thể mang theo giữa các chủ sử dụng lao động; một Employment Pass gắn với người bảo trợ của nó, và việc đổi chủ sử dụng lao động sẽ khởi động lại đồng hồ tính thời hạn.'
+  next: 'Hãy xác định người bảo trợ và loại công việc, xác nhận mức lương hoặc thu nhập sàn hiện hành và thời hạn cho loại pass đó với cơ quan cấp phép, rồi nộp hồ sơ qua cơ quan ấy. Xem các bài giải thích về Employment Pass, DE Rantau và bài so sánh thị thực kinh doanh.'
 ---
 
 Không có một thị thực lao động Malaysia nào. Có tám hoặc chín văn kiện khác nhau, do bốn cơ quan khác nhau vận hành, và cái bạn cần được quyết định bởi **ai trả lương** — không phải bởi công việc được gọi là gì.

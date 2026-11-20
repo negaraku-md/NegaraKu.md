@@ -105,6 +105,12 @@ keywords:
   - "MM2H platinum travail"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: 'Ceci s''adresse à un chef d''entreprise, un investisseur ou un retraité étranger qui compare les visas de longue durée — et tout particulièrement à quiconque s''est entendu dire que le MM2H lui permettra de diriger une société malaisienne.'
+  how: 'Faites correspondre le visa à l''activité dont vous avez réellement besoin. L''emploi par une société malaisienne passe par l''Employment Pass parrainé par l''employeur. La plupart des paliers du MM2H interdisent l''activité professionnelle et commerciale, tandis que le palier supérieur l''autorise. La filière du visiteur premium (PVIP) permet le travail et l''activité commerciale légale. Le titulaire d''un Dependant Pass doit le convertir en Employment Pass pour travailler, car vous ne pouvez détenir qu''un seul visa à la fois ; le conjoint étranger d''un citoyen malaisien obtient en revanche le droit de travailler par une mention (endorsement) sur un Long Term Social Visit Pass.'
+  cost: 'Chaque filière comporte ses propres seuils de dépôt à terme, de frais de participation, de revenu ou de salaire, qui sont révisés au fil du temps ; vérifiez donc les chiffres actuels sur la page de l''organisme émetteur — MOTAC pour les paliers du MM2H et le PVIP, ESD et Immigration pour les Employment Pass et Dependant Pass — plutôt qu''un chiffre cité.'
+  watch: '« Le MM2H vous permet de travailler » n''est vrai que pour le palier supérieur et faux pour les autres. Un Professional Visit Pass, DE Rantau Nomad Pass compris, est plafonné et non salarié, le titulaire restant payé depuis l''étranger. Vous ne pouvez détenir qu''un seul visa à la fois, de sorte qu''un Dependant Pass est une conversion, et non un ajout.'
+  next: 'Décidez à partir de l''activité dont vous avez besoin — emploi, votre propre entreprise, retraite ou statut de personne à charge — confirmez que le visa l''autorise actuellement sur la page de l''organisme émetteur, puis déposez votre demande auprès de cet organisme. Consultez les explications sur l''Employment Pass, le MM2H et le PVIP.'
 ---
 
 La question derrière chacun de ces programmes est la même : **puis-je réellement travailler, ou

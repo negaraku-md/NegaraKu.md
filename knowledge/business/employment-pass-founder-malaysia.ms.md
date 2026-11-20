@@ -122,6 +122,12 @@ keywords:
   - "employment pass kategori I II III"
   - "pas penggajian Malaysia"
 framework: how-to
+stayFacts:
+  who: 'Ini untuk pengasas atau pengarah-pemegang saham asing yang berhasrat menjalankan syarikat Malaysia dari dalam Malaysia dengan Employment Pass.'
+  how: 'Ikut urutannya, kerana susunan itulah perangkapnya. Perbadankan dengan SSM dahulu, daftar dan aktifkan syarikat dengan Expatriate Services Division (ESD), dan barulah syarikat itu — bukan anda — boleh menaja Employment Pass anda. Sebagai pemohon pemegang saham, anda mesti memegang sekurang-kurangnya pegangan ekuiti minimum dan menjadi pengarah berdaftar SSM atau pemegang jawatan penting, dan syarikat mesti melepasi ambang modal berbayar yang berbeza mengikut struktur pemilikan dan sektor.'
+  cost: 'Ambang modal berbayar, jalur kategori gaji asas minimum, dan ambang ekuiti serta kelayakan semuanya ditetapkan oleh dasar Jabatan Imigresen dan ESD serta telah disemak baru-baru ini, jadi sahkan angka semasa pada ESD Online dan bukannya sesuatu angka yang dipetik. Ujian gaji mengira gaji asas sahaja — elaun tidak dikira.'
+  watch: 'Anda tidak boleh memberi Employment Pass kepada diri sendiri ke dalam syarikat yang belum memenuhi modal yang diperlukannya untuk menaja anda — itulah perangkap urutan. Syarikat dalam sektor perdagangan pengedaran yang terhad mungkin tidak memperoleh sebarang pas jangka panjang langsung, dan pembaharuan yang jatuh selepas perubahan dasar baru-baru ini dinilai di bawah jalur baharu dan boleh mengelaskan semula anda ke bawah.'
+  next: 'Sahkan ambang modal semasa, kategori gaji dan keperluan ekuiti-dan-pengarah untuk struktur pemilikan anda pada ESD Online, perbadankan dan daftar sebelum memohon, dan rancang sebarang pembaharuan berdasarkan dasar yang disemak. Lihat perbandingan visa perniagaan dan penerangan pengarah pemastautin.'
 ---
 
 Susunan operasi mengalahkan lebih ramai pengasas asing berbanding mana-mana satu peraturan tunggal.

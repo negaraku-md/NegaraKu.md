@@ -71,6 +71,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: 'Ini untuk seorang ekspatriat, pekerja jarak jauh atau pendatang baru yang menimbang biaya hidup di Malaysia terhadap patokan gaji dan pengeluaran Barat sebelum pindah.'
+  how: 'Bagi pengeluaran Anda menjadi dua keranjang. Apa yang diproduksi atau ditenagai secara lokal — makanan, transportasi dalam negeri, layanan dasar, serta layanan kesehatan publik atau swasta kelas menengah — memberikan potongan harga yang curam terhadap patokan Barat. Apa yang ditolok ukur secara internasional — barang dan elektronik impor, perawatan rumah sakit swasta papan atas, sekolah berkurikulum internasional, dan properti perkotaan premium — nyaris tidak mendapat potongan. Keterjangkauan pribadi Anda ditentukan oleh seberapa banyak dari keranjang kedua itu yang benar-benar dibutuhkan gaya hidup Anda, bukan oleh rata-rata nasional.'
+  cost: 'Tidak ada satu angka tunggal — besarannya digerakkan oleh keranjang Anda sendiri, dan angka resmi pendapatan rata-rata, pengeluaran serta inflasi berubah dari tahun ke tahun, jadi bacalah rilis DOSM yang terkini alih-alih sebuah angka yang dikutip. Jalur tinggal jangka panjang seperti MM2H memiliki ambang finansialnya sendiri yang terpisah, yang merupakan pertanyaan berbeda dari berapa biaya kehidupan sehari-hari dari bulan ke bulan.'
+  watch: 'Tajuk ''Malaysia itu murah'' hanya berlaku untuk keranjang yang diberi harga secara lokal; sekolah internasional, perawatan swasta papan atas, dan properti premium di Klang Valley mengikuti harga global dan dapat menghapus potongan harga tersebut. Ambang finansial sebuah visa tinggal bukanlah ukuran biaya hidup bulanan.'
+  next: 'Hitung harga keranjang Anda sendiri — sekolah, tingkat layanan kesehatan yang Anda inginkan, kawasan tempat tinggal — terhadap angka lokal terkini, pisahkan ambang visa tinggal sebagai perhitungan tersendiri, lalu putuskan. Lihat penjelasan visa tinggal jangka panjang MM2H dan gambaran umum biaya hidup.'
 ---
 
 ## Sekilas pandang
