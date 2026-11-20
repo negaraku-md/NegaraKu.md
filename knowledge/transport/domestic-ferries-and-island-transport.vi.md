@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'The red-and-white high-speed catamaran ferry ''SANI 1'' berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands. Strong left-side subject, open sky top-right for overlay.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Không có một hãng phà quốc gia duy nhất nào ở Malaysia. Đến một hòn đảo có nghĩa là biết tuyến vượt biển ngắn nào, bến nào và đơn vị vận hành nào phục vụ nó — và, ở bờ đông, liệu biển tháng đó có mở hay không.

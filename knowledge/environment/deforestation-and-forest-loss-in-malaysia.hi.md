@@ -84,6 +84,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch", "मलेशिया वन-कटान", "वन-हानि", "वन-आवरण", "प्राथमिक वन"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
 ---
 
 तीन विश्वसनीय स्रोतों से पूछें कि मलेशिया का कितना हिस्सा अभी भी वन है, और आपको ऐसी तीन उत्तर मिल सकते हैं जो दस प्रतिशत बिंदु अलग हों — सभी बचाव-योग्य, सभी थोड़ी भिन्न चीज़ मापते हुए। वह अंतर कोई राउंडिंग त्रुटि नहीं है; यह लघु रूप में मलेशियाई वन-कटान के बारे में पूरी बहस है।

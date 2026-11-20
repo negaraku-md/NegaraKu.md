@@ -83,6 +83,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 Tanya sesiapa di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Hakikatnya, Malaysia tidak mempunyai satu taman negara — ia mempunyai tiga sistem undang-undang yang berasingan sama sekali, dan salah satunya bahkan tidak merangkumi tempat yang paling terkenal dengan nama "[Taman Negara](/tourism/taman-negara-ecotourism-guide)". Memahami peta perundangan ini adalah kunci untuk merancang lawatan, menjalankan penyelidikan, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.

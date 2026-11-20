@@ -107,6 +107,14 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Aerial view of Bakun Dam''s broad grey embankment marked BAKUN, its long spillway chute and riverside powerhouse, backed by a wide reservoir and forested Sarawak hills'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
 ---
 
 보르네오의 우림 산맥에서 흘러내리는 물이 이제 알루미늄 공장에 전력을 공급하는 터빈을 돌립니다 — 그것이 바로 말레이시아 재생에너지 전략의 핵심입니다. 그러나 그곳에 이르는 길은 초대형 댐, 수백 제곱킬로미터에 이르는 호수, 그리고 어쩔 수 없이 이주해야 했던 수천 원주민 가족으로 얼룩져 있습니다.

@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 “மலேசியாவின் தேசியப் பூங்கா” எங்கே உள்ளது என்று யாரிடமேனும் கேளுங்கள், அவர்கள் ஒரே ஒரு இடத்தைச் சுட்டிக்காட்டுவார்கள். உண்மையில், மலேசியாவில் ஒரே ஒரு தேசியப் பூங்கா இல்லை — அதற்கு முற்றிலும் தனித்தனியான மூன்று சட்ட முறைமைகள் உள்ளன; அவற்றுள் ஒன்று, “[Taman Negara](/ta/tourism/taman-negara-ecotourism-guide)” என்ற பெயரால் மிகவும் புகழ்பெற்ற இடத்தையே உள்ளடக்கவில்லை. இந்தச் சட்ட வரைபடத்தைப் புரிந்துகொள்வதே ஒரு பயணத்தைத் திட்டமிடுவதற்கும், ஆய்வு நடத்துவதற்கும், அல்லது 130 மில்லியன் ஆண்டுகள் பழமையான தனது மழைக்காடுகளை மலேசியா எவ்வாறு பாதுகாக்கிறது என்பதைப் புரிந்துகொள்வதற்கும் திறவுகோலாகும்.

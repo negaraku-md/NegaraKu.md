@@ -103,6 +103,14 @@ relations:
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 Sekarung pupuk yang dipikul petani ke sawahnya pagi itu tidak dibeli dengan uangnya sendiri — ia datang tanpa bayaran, ditanggung Pemerintah Federal selama berpuluh-puluh tahun. Inilah wajah sebenarnya subsidi pertanian Malaysia untuk padi: bukan cek atau uang masuk rekening, melainkan pupuk, pestisida dan insentif yang menutup sebagian besar biaya di ladang.

@@ -103,6 +103,14 @@ relations:
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 அன்று காலை நெல் விவசாயி தன் வயலுக்குச் சுமந்து சென்ற உர மூட்டை அவரது சொந்தப் பணத்தில் வாங்கப்பட்டதல்ல — அது கட்டணமின்றி வந்தது, பல்லாண்டுகளாக கூட்டரசு அரசாங்கத்தால் ஏற்கப்பட்டது. நெல்லுக்கான மலேசியாவின் வேளாண் மானியத்தின் உண்மையான முகம் இதுதான்: காசோலை அல்லது கணக்கில் வரவு வைக்கப்படும் பணம் அல்ல, மாறாக பண்ணையில் செலவின் பெரும் பகுதியை ஏற்கும் உரம், பூச்சிக்கொல்லி மற்றும் பரிசில்கள்.

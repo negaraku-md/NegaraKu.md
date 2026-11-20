@@ -103,6 +103,14 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Pile of whole green thorny durians with one cut open showing bright yellow custard-like flesh at a Penang fruit stall'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
 ---
 
 เป็นเวลากว่าทศวรรษที่ทุเรียนมาเลเซียเข้าสู่จีนได้เฉพาะเมื่อแช่แข็งหรือแปรรูปเป็นเนื้อทุเรียนและทุเรียนกวนเท่านั้น จากนั้นในกลางปี 2024 มาเลเซียก็ได้สิทธิที่แสวงหามาหลายปี นั่นคือ สิทธิในการส่งทุเรียนสดทั้งลูกเข้าสู่ตลาดทุเรียนที่ใหญ่ที่สุดในโลก

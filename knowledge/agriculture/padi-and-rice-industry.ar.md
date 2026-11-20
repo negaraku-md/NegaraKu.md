@@ -101,6 +101,14 @@ relations: []
 related: []
 keywords: ["padi", "الأرز غير المقشور", "rice industry Malaysia", "صناعة الأرز في ماليزيا", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "مزارعو الأرز في ماليزيا"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
 ---
 
 الأرز هو الغذاء الوحيد الذي ترفض ماليزيا تركه للسوق الحرة. فالدولة تركّز مكان

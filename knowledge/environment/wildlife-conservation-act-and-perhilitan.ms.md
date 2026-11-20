@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 Simpan kulit harimau Malaya di dalam but kereta anda dan anda bukan sekadar berhadapan dengan denda dan surat amaran yang tegas — anda berhadapan dengan penjara bertahun-tahun dan denda yang diukur dalam ratusan ribu ringgit. Itulah hujung tajam Akta Pemuliharaan Hidupan Liar 2010, undang-undang yang menentukan haiwan mana di Semenanjung Malaysia yang boleh anda sentuh, simpan, jual atau kaji, dan yang mana anda tidak boleh dekati tanpa kebenaran bertulis daripada negeri.

@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 말레이시아에서 "국립공원"이 어디에 있느냐고 누구에게든 물으면 한 곳을 가리킬 것입니다. 실상 말레이시아에는 하나의 국립공원이 있는 것이 아니라 — 완전히 별개인 세 가지 법 체계가 있고, 그중 하나는 정작 "[타만 네가라](/ko/tourism/taman-negara-ecotourism-guide)"라는 이름으로 가장 유명한 그곳조차 포함하지 않습니다. 이 법적 지형도를 이해하는 것이 방문을 계획하거나, 연구를 수행하거나, 단지 말레이시아가 1억 3천만 년 된 열대우림을 어떻게 보호하는지 이해하는 열쇠입니다.

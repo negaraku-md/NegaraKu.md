@@ -88,6 +88,14 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
 ---
 
 A wild orangutan needs a lot of forest, and a connected forest. In the lowlands of eastern Sabah, that has become the rarest thing of all: the trees that once let an ape travel for kilometres without touching the ground now stop at the edge of an oil palm estate. Whether the Bornean orangutan survives in this landscape is, in large part, a question of law, land, and corridors.

@@ -102,6 +102,14 @@ relations:
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 Seguni baja yang dijunjung pesawah ke sawahnya pagi itu tidak dibeli dengan wangnya sendiri — ia datang tanpa bayaran, ditanggung Kerajaan Persekutuan selama berdekad-dekad. Inilah wajah sebenar subsidi pertanian Malaysia untuk padi: bukan cek atau wang masuk akaun, tetapi baja, racun dan insentif yang menampung sebahagian besar kos di ladang.

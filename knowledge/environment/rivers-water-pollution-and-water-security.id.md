@@ -82,6 +82,14 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
 ---
 
 Membuka keran pada pagi Senin dan mendapati ia kering — bukan karena keran rusak, tetapi karena sebuah pabrik di hulu telah membuang limbah berbau busuk ke anak sungai yang memasok air baku ke kota Anda. Inilah realitas berulang di Lembah Klang, dan hal ini menjelaskan mengapa "kualitas sungai" bukan sekadar isu ekologi, tetapi isu keamanan pasokan air untuk jutaan rumah.

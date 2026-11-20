@@ -84,6 +84,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
 ---
 
 மலேசியாவில் இன்னும் எவ்வளவு நிலம் காடாக உள்ளது என்று மூன்று நம்பகமான ஆதாரங்களிடம் கேளுங்கள் — பத்து சதவீதப் புள்ளிகள் இடைவெளியில் மூன்று வெவ்வேறு பதில்களை நீங்கள் பெறலாம்; ஒவ்வொன்றும் நியாயப்படுத்தத்தக்கது, ஒவ்வொன்றும் சற்று வேறுபட்ட ஒன்றை அளவிடுகிறது. அந்த இடைவெளி என்பது வட்டமிடல் பிழை அல்ல; அது மலேசியக் காடழிப்பு பற்றிய முழு விவாதத்தின் சுருக்கமான வடிவமே.

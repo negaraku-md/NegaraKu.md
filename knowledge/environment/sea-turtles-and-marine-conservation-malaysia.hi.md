@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["समुद्री कछुए", "लेदरबैक कछुआ", "रांताउ अबांग", "समुद्री उद्यान", "मत्स्य अधिनियम 1985", "तेरेंगानू कछुआ अधिनियम", "समुद्री संरक्षण", "कछुआ अंडे", "sea turtles", "marine conservation"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 1960 के दशक के अंत में, तेरेंगानू के रांताउ अबांग में रेत के एक ही हिस्से पर हर वर्ष लगभग 2,000 मादा लेदरबैक कछुए किनारे आती थीं, जो रेत में लगभग 10,000 अंडों के घोंसले छोड़ जाती थीं। आज, एक भी नहीं है। इस ह्रास की कहानी इस क्षेत्र की सबसे स्पष्ट वन्यजीव संरक्षण विफलताओं में से एक है — और इसने यह गढ़ा है कि मलेशिया आज तक समुद्री कछुओं की रक्षा कैसे करता है।

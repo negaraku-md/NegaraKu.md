@@ -73,6 +73,14 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'The dense George Town skyline at dusk, with the lit Komtar tower rising over the Penang city centre'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
 ---
 
 ปีนัง (Penang) เป็นรัฐมาเลเซียหนึ่งเดียวที่ "ค่าครองชีพ" ไม่สามารถตอบด้วยตัวเลขเดียว เพราะปีนังไม่ใช่ที่เดียว มันเป็นเกาะและแถบแผ่นดินใหญ่ เชื่อมด้วยสะพานสองแห่งและเรือข้ามฟาก โดยมีแกนมรดกโลก UNESCO อยู่ด้านหนึ่งและเมืองอุตสาหกรรมท่าเรือคอนเทนเนอร์อยู่อีกด้าน ตัวเลขใด ๆ ที่ปรับ "ปีนัง" ให้เป็นบรรทัดเดียวได้ทิ้งข้อมูลที่มีประโยชน์ที่สุดไปแล้ว

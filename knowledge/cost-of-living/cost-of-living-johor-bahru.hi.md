@@ -75,6 +75,14 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "जोहोर बहरू रहन-सहन की लागत", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "जोहोर बहरू बनाम सिंगापुर वेतन"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: 'The Johor Bahru city skyline at night with a lit tower beside the Johor–Singapore Causeway and traffic light trails'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
 ---
 
 मलेशिया की पूरी राष्ट्रीय न्यूनतम मज़दूरी, RM1,700 प्रति माह, पर काम करने वाला

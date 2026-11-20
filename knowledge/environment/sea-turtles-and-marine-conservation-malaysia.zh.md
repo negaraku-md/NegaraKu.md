@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 在1960年代末，每年约有2,000只雌棱皮龟登上登嘉楼兰道阿邦的一段海滩，在沙上留下近10,000个龟蛋巢。如今，一只也没有了。这段衰落的故事是本区域最触目惊心的野生动物保育失败案例之一——而它塑造了马来西亚至今保护海龟的方式。

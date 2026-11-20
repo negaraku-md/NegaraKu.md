@@ -103,6 +103,14 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["exportación de durián Malasia", "Musang King", "Black Thorn durian", "protocolo durián China", "indicación geográfica durián", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Pile of whole green thorny durians with one cut open showing bright yellow custard-like flesh at a Penang fruit stall'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
 ---
 
 Durante más de una década, el durián malasio solo podía entrar en China si estaba congelado o procesado en pulpa y pasta. Entonces, a mediados de 2024, Malasia obtuvo el acceso que había buscado durante años: el derecho a enviar durián entero y fresco al mayor mercado de durián del planeta.

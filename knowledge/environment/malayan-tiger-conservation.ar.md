@@ -79,6 +79,14 @@ relations:
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "النمر الملايوي", "حفظ النمور", "محمية السلطان عبد الله الملكية للنمور", "التنوع البيولوجي في ماليزيا"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
 ---
 
 يظهر النمر على شعار ماليزيا، لكن الحيوان نفسه بات اليوم من بين أندر القطط الكبيرة في العالم. وحين أكملت ماليزيا أول مسح وطني لها للنمور البرية، جاءت النتيجة أدنى مما توقّعه كثيرون: أقل من 150.

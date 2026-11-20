@@ -84,6 +84,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch", "إزالة الغابات في ماليزيا", "فقدان الغابات", "الغطاء الحرجي", "الغابات الأولية"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
 ---
 
 اسأل ثلاثة مصادر موثوقة عن مقدار ما لا يزال غابةً في ماليزيا، وقد تحصل على ثلاث إجابات تفصل بينها عشر نقاط مئوية — كلها قابلة للدفاع، وكلها تقيس شيئاً مختلفاً اختلافاً طفيفاً. وهذه الفجوة ليست خطأً في التقريب؛ إنها جوهر الجدل كله حول إزالة الغابات في ماليزيا في صورة مصغّرة.

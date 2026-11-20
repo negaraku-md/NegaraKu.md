@@ -92,6 +92,13 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
 framework: journey-hub
+hero: '/media/transport/getting-around-malaysia/hero.webp'
+heroAlt: 'An aerial view of a KTM ETS intercity electric train running along the West Coast main line through green countryside, with housing estates and a playground below — ''moving around Malaysia'' by fast national rail. Clean daylight establishing shot, train crossing the upper third.'
+heroCredit: 'Hiroki.loh.st / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Kuala Lumpur-லும், சொல்லப்போனால் Ipoh-விலும் வாழ்ந்த ஒருவரிடம் அவர் எப்படி

@@ -95,6 +95,13 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["क्लांग वैली रेल", "Rapid KL", "MRT Kajang लाइन", "MRT Putrajaya लाइन", "LRT Kelana Jaya लाइन", "KL मोनोरेल", "KTM Komuter", "Shah Alam लाइन", "LRT3", "KL Sentral", "बिना कार के कुआलालंपुर में घूमना", "Klang Valley rail"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'A sleek red-and-white MRT Putrajaya Line train on an elevated viaduct against a dramatic sky — modern Klang Valley metro, strong sky band for overlay.'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 क्लांग वैली का रेल नक्शा पहली बार देखें तो वह वर्णमाला के सूप जैसा लगता है — MRT, LRT, KTM, ERL, एक गुलाबी मोनोरेल लाइन, और मध्य-2026 से एक बिल्कुल नई Shah Alam लाइन जो इन सबके बीच पिरोई हुई है। सहज प्रवृत्ति यही होती है कि इसे रंगों की एक उलझन-भरी संख्या वाली एक ही ट्रेन प्रणाली मान लिया जाए। लेकिन यह वैसी नहीं है। ये तीन अलग-अलग नेटवर्क हैं, जिन्हें तीन अलग-अलग कंपनियाँ चलाती हैं, और जो मुट्ठी भर साझा स्टेशनों पर एक-दूसरे का रास्ता काटते हैं। एक बार जब आप जान जाते हैं कि कौन-सी कंपनी क्या चलाती है — और पैदल-चलने-योग्य मुफ़्त ट्रांसफ़र असल में कहाँ हैं — तो बिना कार के कुआलालंपुर में घूमना डरावना रहना बंद हो जाता है और रोज़मर्रा की बात बन जाता है।

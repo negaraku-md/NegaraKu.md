@@ -82,6 +82,14 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
 ---
 
 Mở vòi vào sáng thứ Hai và thấy nó khô — không phải vì vòi hỏng, mà vì một nhà máy ở thượng nguồn đã xả chất thải có mùi hôi thối vào con nhánh sông cung cấp nước thô cho thành phố của bạn. Đây là thực tế lặp đi lặp lại ở Thung lũng Klang, và nó giải thích vì sao "chất lượng sông" không chỉ là một vấn đề sinh thái, mà là một vấn đề an ninh cấp nước cho hàng triệu ngôi nhà.

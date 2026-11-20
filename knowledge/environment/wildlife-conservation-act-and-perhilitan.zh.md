@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 把一张马来亚虎的皮放在你的汽车后备箱里，你面对的绝不是一张罚单和一封措辞严厉的信函——你面对的是数年牢狱，以及以数十万令吉计的罚款。这就是《2010年野生动物保护法令》最锋利的一端；这部法律决定了在马来西亚半岛，哪些动物你可以触碰、饲养、买卖或研究，而哪些动物没有国家的书面许可你连靠近都不行。

@@ -101,6 +101,14 @@ relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
 ---
 
 El arroz es el único alimento que Malasia se niega a dejar en manos del libre mercado. El Estado concentra dónde se cultiva, amortigua a los agricultores que lo cultivan, autoriza a una sola empresa a importar el déficit y mantiene una reserva de emergencia frente a las sacudidas del suministro. Sin embargo, tras décadas de este arreglo, el país todavía cultiva solo alrededor de la mitad del arroz que consume.

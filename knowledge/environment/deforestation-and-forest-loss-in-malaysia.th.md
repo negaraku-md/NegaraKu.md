@@ -84,6 +84,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
 ---
 
 ถามแหล่งข้อมูลที่น่าเชื่อถือสามแหล่งว่ามาเลเซียยังเป็นป่ามากเท่าใด แล้วท่านอาจได้คำตอบสามคำตอบที่ห่างกันสิบจุดร้อยละ ทั้งหมดมีเหตุผลรองรับ ทั้งหมดวัดสิ่งที่ต่างกันเล็กน้อย ช่องว่างนั้นไม่ใช่ข้อผิดพลาดจากการปัดเศษ แต่เป็นข้อโต้แย้งทั้งหมดเกี่ยวกับการตัดไม้ทำลายป่าในมาเลเซียในรูปแบบย่อ

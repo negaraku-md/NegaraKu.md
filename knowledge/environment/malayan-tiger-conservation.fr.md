@@ -79,6 +79,14 @@ relations:
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tigre de Malaisie", "conservation du tigre", "Réserve royale du tigre Al-Sultan Abdullah", "biodiversité de la Malaisie"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
 ---
 
 Le tigre figure sur les armoiries de la Malaisie, mais l'animal lui-même compte désormais parmi les grands félins les plus rares du monde. Lorsque la Malaisie a achevé son premier recensement national des tigres sauvages, le résultat a été inférieur à ce que beaucoup attendaient : moins de 150.

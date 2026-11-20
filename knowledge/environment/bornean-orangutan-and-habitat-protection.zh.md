@@ -89,6 +89,14 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
 ---
 
 一只野生猩猩需要大片森林，而且是连通的森林。在沙巴东部的低地，这已成为最稀有的东西：曾经让一只猿类不必落地便能穿行数公里的树木，如今在油棕园的边缘戛然而止。婆罗洲猩猩能否在这片地景中存续，很大程度上是一个关于法律、土地与走廊的问题。

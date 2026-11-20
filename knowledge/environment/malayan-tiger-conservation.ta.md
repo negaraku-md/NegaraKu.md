@@ -79,6 +79,14 @@ relations:
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
 ---
 
 புலி மலேசியாவின் அரச சின்னத்தில் (coat of arms) இடம்பெறுகிறது; ஆனால் அந்த விலங்கு இன்று உலகிலேயே மிக அரிதான பெரிய பூனை இனங்களில் ஒன்றாகிவிட்டது. மலேசியா தனது முதல் தேசிய காட்டுப் புலி கணக்கெடுப்பை முடித்தபோது, முடிவு பலர் எதிர்பார்த்ததை விடக் குறைவாக இருந்தது: 150-க்கும் குறைவு.

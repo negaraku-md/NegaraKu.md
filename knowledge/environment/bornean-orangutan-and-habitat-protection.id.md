@@ -89,6 +89,14 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
 ---
 
 Seekor orangutan liar memerlukan banyak hutan, dan hutan yang terhubung. Di dataran rendah Sabah bagian timur, itu telah menjadi hal yang paling jarang ditemui: pohon-pohon yang dahulu memungkinkan seekor kera bergerak sejauh berkilometer tanpa menginjak tanah kini terhenti di pinggir perkebunan kelapa sawit. Apakah orangutan Borneo dapat terus hidup dalam lanskap ini, sebagian besarnya, adalah persoalan hukum, tanah, dan koridor.

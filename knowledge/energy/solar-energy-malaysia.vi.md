@@ -92,6 +92,14 @@ relations:
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
 ---
 
 Tấm pin mặt trời trên mái nhà giờ đây là một quyết định tài chính được ràng buộc chặt chẽ bởi chính sách của chính phủ Malaysia. Nhưng "chuyển sang điện mặt trời" mang ý nghĩa rất khác nhau đối với một chủ nhà ở Ipoh so với một nhà máy ở Pasir Gudang hay một trung tâm dữ liệu muốn 100% năng lượng xanh. Mỗi nhóm người dùng có chương trình riêng.

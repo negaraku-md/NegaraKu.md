@@ -101,6 +101,14 @@ relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
 ---
 
 쌀은 말레이시아가 자유 시장에 맡기기를 거부하는 유일한 식품입니다. 국가는 어디서 재배할지를 집중시키고, 재배하는 농가를 완충하며, 부족분을 수입할 단일 회사를 허가하고, 공급 충격에 대비해 비상 비축을 보유합니다. 그러나 수십 년간의 이 체제 후에도, 이 나라는 여전히 먹는 쌀의 약 절반만 재배합니다.

@@ -89,6 +89,14 @@ relations:
 related: ["sabah"]
 keywords: ["إنسان الغاب البورنيوي", "Bornean orangutan", "صباح", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "حماية الموائل", "نوع محمي حماية كاملة", "ممر الحياة البرية"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
 ---
 
 يحتاج إنسان الغاب البري إلى كثير من الغابات، وإلى غابات متصلة. وفي الأراضي المنخفضة شرقي صباح، أصبح ذلك أندر ما يكون: فالأشجار التي كانت تتيح يومًا لقرد عظيم أن يسافر كيلومترات دون أن يلمس الأرض تتوقف الآن عند حافة مزرعة زيت نخيل. وبقاء إنسان الغاب البورنيوي في هذا المشهد هو، إلى حد بعيد، مسألة قانون وأرض وممرات.

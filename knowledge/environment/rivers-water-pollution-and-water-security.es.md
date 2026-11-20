@@ -82,6 +82,14 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan", "contaminación de ríos", "índice de calidad del agua", "seguridad hídrica"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
 ---
 
 Abra el grifo un lunes por la mañana y encuéntrelo seco — no porque el grifo esté roto, sino porque una fábrica río arriba ha vertido residuos malolientes en el afluente que suministra agua cruda a su localidad. Esta es una realidad recurrente en el Valle de Klang, y explica por qué la «calidad del río» no es meramente una cuestión ecológica, sino un asunto de seguridad del suministro de agua para millones de hogares.

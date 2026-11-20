@@ -78,6 +78,14 @@ relations:
 related: []
 keywords: ["محمية الغابات الدائمة", "hutan simpanan kekal", "قانون الحراجة الوطني 1984", "akta perhutanan negara 1984", "النشر في الجريدة الرسمية للغابات", "pewartaan hutan", "قائمة الولايات", "الغابات المطيرة في ماليزيا", "hutan hujan malaysia", "إلغاء نشر محمية الغابات", "نظام حراجة صباح", "مرسوم حراجة ساراواك"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
 ---
 
 قطعة أرض مكسوّة بالغابات في ماليزيا ليست «محمية» لمجرد أنها مليئة بالأشجار — فحمايتها تبدأ يوم يظهر اسم الأرض في الجريدة الرسمية (Warta). وبغير ذلك النشر، يمكن ترخيص الغابة نفسها للتطوير في أي وقت. وهذا هو أساس نظام محميات الغابات الدائمة (PFR) في ماليزيا بأكمله.

@@ -93,6 +93,13 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["东海岸铁路衔接线", "ECRL", "Laluan Rel Pantai Timur", "马来西亚铁路衔接", "中交建 马来西亚 铁路", "ECRL 造价 完工", "哥打峇鲁 巴生港 铁路", "东海岸经济特区 铁路"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'The actual ECRL rolling stock: a blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks (a yellow KTM Komuter set beside it). The one ECRL-specific train photo on Commons — unmistakably this new east-coast line. Wide landscape, train filling the right of frame.'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 数十年来，往返吉隆坡与东海岸各州最快的方式，意味着要翻山越岭走一段漫长的公路。东海岸铁路衔接线是马来西亚押下的一注：赌一条铁路能改变这一切——并在此过程中重新平衡这个国家的增长发生在何处。

@@ -75,6 +75,14 @@ relations:
   - { rel: "related-to", to: "national-trust-fund" }
 related: ["petroleum-development-act-1974"]
 keywords: ["petronas", "petroliam nasional berhad", "malaysia oil and gas", "petroleum development act 1974", "national oil company"]
+hero: '/media/energy/petronas/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers standing at the centre of the dense Kuala Lumpur skyline, with the Suria KLCC mall at their base, under an orange and blue dusk sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Petronas Twin Towers rising over the Kuala Lumpur city skyline at dusk'
 ---
 
 A single company holds custody of Malaysia's petroleum resources, oversees the upstream industry that extracts them, and returns a substantial share of the proceeds to the government that wholly owns it.

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["عبّارة بينانغ", "عبّارة لنكاوي", "عبّارة تيومان", "النقل بين جزر ماليزيا", "Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "الرياح الموسمية الشمالية الشرقية", "عبّارة لابوان"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'The red-and-white high-speed catamaran ferry ''SANI 1'' berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands. Strong left-side subject, open sky top-right for overlay.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 لا يوجد في ماليزيا خط عبّارات وطني واحد. فالوصول إلى جزيرة يعني معرفة أي معبر قصير، وأي رصيف، وأي مشغّل يخدمها — وعلى الساحل الشرقي، معرفة ما إذا كان البحر مفتوحًا أصلًا في ذلك الشهر.

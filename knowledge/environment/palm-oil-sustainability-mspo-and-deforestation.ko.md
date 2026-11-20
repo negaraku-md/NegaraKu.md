@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 말레이시아는 전 세계 팜유의 약 5분의 1을 생산하며, 이 산업은 삼림파괴와의 연관성을 두고 오랫동안 유럽과 NGO 활동가들의 비판을 받아 왔습니다. 이에 대응하여 말레이시아는 이제 의무적인 국가 지원 인증 제도를 운영하고 있으며, 2025년 9월 5일 유럽연합은 공동 성명에서 그 제도를 인정했습니다. 다음은 MSPO가 어떻게 작동하는지, 무엇을 증명하고 무엇을 증명하지 않는지, 그리고 어려운 문제가 여전히 어디에 남아 있는지입니다.

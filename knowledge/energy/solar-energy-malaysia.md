@@ -91,6 +91,14 @@ relations:
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
 ---
 
 Panel solar di atas bumbung rumah kini menjadi satu keputusan kewangan yang diikat kemas oleh dasar kerajaan di Malaysia. Tetapi "pergi solar" bermaksud perkara yang sangat berbeza bagi seorang pemilik rumah di Ipoh berbanding sebuah kilang di Pasir Gudang atau sebuah pusat data yang mahu 100% tenaga hijau. Setiap kumpulan pengguna mempunyai skim tersendiri.

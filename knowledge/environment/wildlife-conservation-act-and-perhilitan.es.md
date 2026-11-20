@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["Ley de Conservación de la Vida Silvestre", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "vida silvestre totalmente protegida", "totally protected wildlife", "vida silvestre protegida", "licencia de vida silvestre", "permiso especial", "special permit", "tráfico de vida silvestre", "Departamento de Vida Silvestre y Parques Nacionales"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 Guarde la piel de un tigre malayo en el maletero de su coche y no estará ante una multa y una carta severa — estará ante años de prisión y una multa medida en cientos de miles de ringgit. Ese es el extremo afilado de la Ley de Conservación de la Vida Silvestre de 2010, la ley que decide qué animales de la Malasia peninsular puede tocar, mantener, vender o estudiar, y a cuáles no puede siquiera acercarse sin permiso escrito del Estado.

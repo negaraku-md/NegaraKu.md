@@ -93,6 +93,13 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["ईस्ट कोस्ट रेल लिंक", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC रेलवे मलेशिया", "ECRL लागत पूर्णता", "Kota Bharu Port Klang रेल", "ECER रेल"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'The actual ECRL rolling stock: a blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks (a yellow KTM Komuter set beside it). The one ECRL-specific train photo on Commons — unmistakably this new east-coast line. Wide landscape, train filling the right of frame.'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 दशकों तक कुआलालंपुर और पूर्वी-तट राज्यों के बीच सबसे तेज़ रास्ते का मतलब पहाड़ों के ऊपर से सड़क द्वारा एक लंबी यात्रा था। ईस्ट कोस्ट रेल लिंक मलेशिया का यह दाँव है कि पटरी की एक अकेली लाइन इसे बदल सकती है — और इस प्रक्रिया में, यह भी पुनर्संतुलित कर सकती है कि देश की वृद्धि कहाँ होती है।

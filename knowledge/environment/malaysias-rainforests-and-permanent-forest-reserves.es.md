@@ -78,6 +78,14 @@ relations:
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak", "reservas forestales permanentes", "Ley Forestal Nacional 1984", "bosques tropicales de Malasia"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
 ---
 
 Una parcela de terreno boscoso en Malasia no está «protegida» simplemente porque esté llena de árboles — su protección comienza el día en que el nombre del terreno aparece en la Gaceta. Sin esa gacetación, el mismo bosque puede ser licenciado para desarrollo en cualquier momento. Este es el fundamento de todo el sistema de Reservas Forestales Permanentes (PFR) de Malasia.

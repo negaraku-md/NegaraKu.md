@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 Malaysia trồng khoảng một phần năm dầu cọ của thế giới, và ngành này từ lâu đã hứng chỉ trích từ những người vận động châu Âu và các tổ chức phi chính phủ về các mối liên hệ của nó với nạn phá rừng. Để ứng phó, đất nước nay điều hành một chương trình chứng nhận bắt buộc, được nhà nước hậu thuẫn, và vào ngày 5 tháng 9 năm 2025 Liên minh Châu Âu công nhận chương trình đó trong một tuyên bố chung. Đây là cách MSPO vận hành, những gì nó chứng minh và không chứng minh, và các vấn đề khó khăn vẫn còn nằm ở đâu.

@@ -84,6 +84,13 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Mature oil-palm estate climbing a hillside with an estate road, Kunak District, Sabah — unmistakably oil palm, 16:9, clean sky band for overlay.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada 2012 ia menjadi buah bibir pasar — sebuah pencatatan mega yang sesaat menduduki tempat kedua di dunia di belakang Facebook. Tiga belas tahun kemudian perusahaan yang sama menyelinap keluar dengan diam-diam dari Bursa Malaysia pada sebagian kecil harga perdananya, dibeli kembali oleh lembaga yang pernah mencatatkannya.

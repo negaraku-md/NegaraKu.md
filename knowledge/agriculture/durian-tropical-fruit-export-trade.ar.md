@@ -103,6 +103,14 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["تصدير الدوريان الماليزي", "Musang King", "Black Thorn durian", "بروتوكول الدوريان مع الصين", "المؤشر الجغرافي للدوريان", "myGAP durian", "fresh durian export China", "Malaysia durian export"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Pile of whole green thorny durians with one cut open showing bright yellow custard-like flesh at a Penang fruit stall'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
 ---
 
 على مدى أكثر من عقد، لم يكن الدوريان الماليزي يدخل الصين إلا مجمّدًا أو معالَجًا إلى لبّ ومعجون. ثم، في منتصف 2024، نالت ماليزيا حقًّا سعت إليه سنوات: حق شحن الدوريان الكامل الطازج إلى أكبر سوق للدوريان على وجه الأرض.

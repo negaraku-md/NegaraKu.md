@@ -74,6 +74,14 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'The dense George Town skyline at dusk, with the lit Komtar tower rising over the Penang city centre'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
 ---
 
 Penang là bang Malaysia duy nhất mà "chi phí sinh hoạt" không thể được trả lời bằng một con số duy nhất, bởi vì Penang không phải là một nơi. Đó là một hòn đảo và một dải đất liền, nối với nhau bằng hai cây cầu và một chuyến phà, với một lõi Di sản Thế giới UNESCO ở một bên và các thị trấn công nghiệp cảng container ở bên kia. Bất kỳ con số nào san bằng "Penang" thành một dòng đã vứt bỏ thông tin hữu ích nhất.

@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["Loi sur la conservation de la faune sauvage", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "faune sauvage totalement protégée", "totally protected wildlife", "faune sauvage protégée", "licence de faune sauvage", "permis spécial", "special permit", "trafic de faune sauvage", "Département de la faune sauvage et des parcs nationaux"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 Gardez la peau d'un tigre de Malaisie dans le coffre de votre voiture et vous ne risquez pas une amende et une lettre sévère — vous risquez des années de prison et une amende mesurée en centaines de milliers de ringgit. C'est l'extrémité tranchante de la Loi sur la conservation de la faune sauvage de 2010, la loi qui décide quels animaux de la Malaisie péninsulaire vous pouvez toucher, garder, vendre ou étudier, et desquels vous ne pouvez même pas vous approcher sans autorisation écrite de l'État.

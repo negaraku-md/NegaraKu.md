@@ -101,6 +101,14 @@ relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
 ---
 
 चावल वह एकमात्र खाद्य है जिसे मलेशिया मुक्त बाज़ार के भरोसे छोड़ने से इनकार करता है। राज्य यह केंद्रित करता है कि इसे कहाँ उगाया जाए, इसे उगाने वाले किसानों को सहारा देता है, कमी का आयात करने के लिए एक अकेली कंपनी को लाइसेंस देता है, और आपूर्ति झटकों के विरुद्ध एक आपातकालीन भंडार रखता है। फिर भी इस व्यवस्था के दशकों बाद भी देश जितना चावल खाता है उसका केवल लगभग आधा ही उगाता है।

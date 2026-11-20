@@ -93,6 +93,14 @@ relations:
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
 ---
 
 Les panneaux solaires sur le toit d'une maison sont devenus une décision financière étroitement liée à la politique gouvernementale en Malaisie. Mais « passer au solaire » signifie quelque chose de très différent pour un propriétaire à Ipoh par rapport à une usine à Pasir Gudang ou à un centre de données qui veut une énergie 100 % verte. Chaque groupe de consommateurs a son propre dispositif.

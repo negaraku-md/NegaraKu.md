@@ -103,6 +103,14 @@ relations:
 related: []
 keywords: ["धान उर्वरक सब्सिडी", "SBPKP", "SIPP", "धान उत्पादन प्रोत्साहन", "कृषि सब्सिडी", "किसान इनपुट सहायता"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 उस सुबह धान किसान जो उर्वरक की बोरी कंधे पर खेत तक ले जाता है, वह उसके अपने पैसे से नहीं

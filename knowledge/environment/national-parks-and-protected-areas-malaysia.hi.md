@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO", "तामान नेगारा", "संरक्षित क्षेत्र", "राष्ट्रीय उद्यान अधिनियम 1980", "किनाबालू उद्यान", "समुद्री उद्यान", "यूनेस्को विश्व धरोहर"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 किसी से भी पूछिए कि «मलेशिया का राष्ट्रीय उद्यान» कहाँ है और वह एक ही जगह की ओर इशारा करेगा। वास्तव में, मलेशिया के पास एक भी राष्ट्रीय उद्यान नहीं है — इसके पास तीन कानूनी प्रणालियाँ हैं जो पूरी तरह अलग हैं, और उनमें से एक «[तामान नेगारा](/hi/tourism/taman-negara-ecotourism-guide)» नाम से सबसे प्रसिद्ध जगह को तक कवर नहीं करती। इस कानूनी मानचित्र को समझना किसी यात्रा की योजना बनाने, शोध करने, या बस यह समझने की कुंजी है कि मलेशिया अपने 13 करोड़ वर्ष पुराने वर्षावनों की रक्षा कैसे करता है।

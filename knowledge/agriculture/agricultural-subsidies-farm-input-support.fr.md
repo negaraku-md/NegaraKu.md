@@ -103,6 +103,14 @@ relations:
 related: []
 keywords: ["subvention d'engrais pour le riz", "SBPKP", "SIPP", "incitation à la production de riz", "subventions agricoles", "aide aux intrants pour agriculteurs"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 Le sac d'engrais qu'un riziculteur charge sur son épaule vers le champ ce

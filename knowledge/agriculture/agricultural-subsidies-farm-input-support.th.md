@@ -103,6 +103,14 @@ relations:
 related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 ปุ๋ยกระสอบที่ชาวนาแบกไปยังนาของตนในเช้าวันนั้น ไม่ได้ซื้อด้วยเงินของตนเอง — มันมาโดยไม่ต้องจ่าย เพราะรัฐบาลกลางรับภาระมานานหลายทศวรรษ นี่คือโฉมหน้าที่แท้จริงของเงินอุดหนุนการเกษตรของมาเลเซียสำหรับข้าว ไม่ใช่เช็คหรือเงินเข้าบัญชี แต่เป็นปุ๋ย ยา และแรงจูงใจที่รับภาระต้นทุนส่วนใหญ่ในไร่นา

@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 Pada akhir 1960-an, sekitar 2,000 penyu belimbing betina mendarat setiap tahun di sebuah pantai di Rantau Abang, Terengganu, meninggalkan hampir 10,000 sarang telur di atas pasir. Hari ini, tidak ada seekor pun. Kisah kemerosotan itu adalah salah satu kegagalan konservasi satwa liar yang paling mencolok di kawasan ini — dan ia membentuk cara Malaysia melindungi penyu hingga kini.

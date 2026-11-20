@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 Ask anyone where "Malaysia's national park" is and they will point to one place. In reality, Malaysia does not have a single national park — it has three legal systems that are entirely separate, and one of them does not even cover the place most famous by the name "[Taman Negara](/en/tourism/taman-negara-ecotourism-guide)". Understanding this legal map is the key to planning a visit, conducting research, or simply grasping how Malaysia protects its 130-million-year-old rainforests.

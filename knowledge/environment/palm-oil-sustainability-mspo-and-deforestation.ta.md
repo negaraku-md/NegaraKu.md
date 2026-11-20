@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 மலேசியா உலகின் பாமாயிலில் தோராயமாக ஐந்தில் ஒரு பங்கை உற்பத்தி செய்கிறது, மேலும் இந்தத் தொழில் காடழிப்புடன் (deforestation) அதற்குள்ள தொடர்புகள் தொடர்பாக ஐரோப்பிய மற்றும் NGO பிரச்சாரகர்களின் விமர்சனத்தை நீண்டகாலமாக ஈர்த்து வந்துள்ளது. இதற்குப் பதிலளிக்கும் விதமாக, நாடு இப்போது கட்டாய, அரசு ஆதரவுடன் கூடிய சான்றளிப்பு (certification) திட்டத்தை நடத்துகிறது, மேலும் 5 September 2025 அன்று ஐரோப்பிய ஒன்றியம் (European Union, EU) ஒரு கூட்டு அறிக்கையில் அந்தத் திட்டத்தை ஏற்றுக்கொண்டது. MSPO எவ்வாறு செயல்படுகிறது, அது எதை நிரூபிக்கிறது மற்றும் எதை நிரூபிக்கவில்லை, மேலும் கடினமான பிரச்சினைகள் இன்னும் எங்கே அமர்ந்துள்ளன என்பதை இது விளக்குகிறது.

@@ -93,6 +93,13 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC ferrocarril Malasia", "coste finalizacion ECRL", "tren Kota Bharu Port Klang", "ferrocarril ECER"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'The actual ECRL rolling stock: a blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks (a yellow KTM Komuter set beside it). The one ECRL-specific train photo on Commons — unmistakably this new east-coast line. Wide landscape, train filling the right of frame.'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Durante décadas, la forma más rápida de ir entre Kuala Lumpur y los estados de la costa este pasaba por un largo trayecto por carretera atravesando las montañas. El East Coast Rail Link es la apuesta de Malasia por que una sola línea de vía pueda cambiar eso y, de paso, reequilibrar dónde ocurre el crecimiento del país.

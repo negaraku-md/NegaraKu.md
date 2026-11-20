@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["قانون حفظ الحياة البرية", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "الحياة البرية المحمية بالكامل", "totally protected wildlife", "الحياة البرية المحمية", "رخصة الحياة البرية", "تصريح خاص", "special permit", "الاتجار بالحياة البرية", "دائرة الحياة البرية والمتنزهات الوطنية"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 احتفظ بجلد نمر مالايّ في صندوق سيارتك ولن تكون أمام غرامة ورسالة تحذير صارمة — بل ستكون أمام سنوات في السجن وغرامة تُقاس بمئات الآلاف من الرينغيت. هذا هو الطرف الحاد من قانون حفظ الحياة البرية لسنة 2010، القانون الذي يقرر أيّ الحيوانات في شبه جزيرة ماليزيا يجوز لك لمسها أو الاحتفاظ بها أو بيعها أو دراستها، وأيّها لا يجوز لك الاقتراب منه دون إذن خطّي من الدولة.

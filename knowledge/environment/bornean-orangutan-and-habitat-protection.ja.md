@@ -89,6 +89,14 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
 ---
 
 野生のオランウータンには広大な森林、しかも連結した森林が必要である。サバ東部の低地では、それが最も希少なものとなってしまった。かつて類人猿が地面に触れることなく数キロメートルを移動できた樹木は、今やアブラヤシ農園の縁で途切れている。ボルネオオランウータンがこの景観の中で生き延びられるかどうかは、多くの部分において、法律、土地、そして回廊の問題である。

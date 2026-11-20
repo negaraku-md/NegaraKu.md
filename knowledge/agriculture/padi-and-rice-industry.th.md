@@ -101,6 +101,14 @@ relations: []
 related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
 ---
 
 ข้าวคืออาหารชนิดเดียวที่มาเลเซียปฏิเสธที่จะปล่อยให้เป็นไปตามกลไกตลาดเสรี รัฐกระจุกจุดที่ปลูก หนุนชาวนาที่ปลูก อนุญาตให้บริษัทเดียวนำเข้าส่วนที่ขาด และถือครองข้าวสำรองฉุกเฉินเพื่อรับมือแรงกระแทกด้านอุปทาน แต่หลังจากการจัดการเช่นนี้มาหลายทศวรรษ ประเทศก็ยังคงปลูกข้าวได้เพียงราวครึ่งหนึ่งของที่บริโภค

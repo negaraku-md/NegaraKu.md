@@ -78,6 +78,14 @@ relations:
 related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
 ---
 
 Một mảnh đất có rừng ở Malaysia không được "bảo vệ" chỉ vì nó đầy cây — sự bảo vệ của nó bắt đầu vào ngày tên mảnh đất đó xuất hiện trong Công báo. Không có công báo đó, cùng khu rừng ấy có thể được cấp phép để phát triển vào bất kỳ lúc nào. Đây là nền tảng của toàn bộ hệ thống Rừng Bảo tồn Thường trực (HSK) của Malaysia.

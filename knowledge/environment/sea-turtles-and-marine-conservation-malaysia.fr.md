@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu", "tortues marines", "tortue luth", "conservation marine", "œufs de tortue"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 À la fin des années 1960, environ 2,000 tortues luth femelles venaient chaque année à terre sur une seule portion de plage de Rantau Abang, Terengganu, laissant près de 10,000 nids d'œufs dans le sable. Aujourd'hui, il n'en reste pas une seule. Cette histoire de déclin est l'un des échecs de conservation de la faune sauvage les plus frappants de la région — et elle a façonné la manière dont la Malaisie protège les tortues marines jusqu'à ce jour.

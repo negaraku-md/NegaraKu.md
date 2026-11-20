@@ -79,6 +79,14 @@ relations:
 related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "मलायन बाघ", "बाघ संरक्षण", "अल-सुल्तान अब्दुल्लाह शाही बाघ अभयारण्य", "मलेशिया जैव विविधता"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
 ---
 
 बाघ मलेशिया के राजचिह्न पर दिखाई देता है, पर यह पशु स्वयं अब दुनिया की सबसे दुर्लभ बड़ी बिल्लियों में से एक है। जब मलेशिया ने जंगली बाघों का अपना पहला राष्ट्रीय सर्वेक्षण पूरा किया, तो परिणाम कई लोगों की अपेक्षा से कम निकला: 150 से कम।

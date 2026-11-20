@@ -82,6 +82,14 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["تلوث الأنهار", "مؤشر جودة المياه", "WQI", "أمن المياه", "إمداد المياه", "نهر سيلانغور", "نهر كيم كيم", "محمية النهر", "دائرة البيئة", "منطقة مستجمعات المياه", "water security"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
 ---
 
 افتح الصنبور صباح يوم اثنين فتجده جافاً — لا لأن الصنبور معطّل، بل لأن مصنعاً في أعلى المجرى صرّف نفايات كريهة الرائحة في الرافد الذي يزوّد بلدتك بالمياه الخام. هذا واقع متكرر في وادي كلانغ، وهو يفسّر لماذا لا تُعدّ «جودة النهر» مجرد قضية بيئية، بل مسألة أمن لإمداد المياه لملايين المنازل.

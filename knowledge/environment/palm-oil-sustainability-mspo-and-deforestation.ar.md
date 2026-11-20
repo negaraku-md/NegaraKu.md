@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "استدامة زيت النخيل", "palm oil sustainability", "إزالة الغابات", "deforestation", "EUDR", "RSPO", "الاعتماد", "certification", "صغار المزارعين", "smallholders", "MPOB", "زيت النخيل الماليزي", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 تنتج ماليزيا نحو خُمس زيت النخيل في العالم، وطالما تعرّضت الصناعة لانتقاد من ناشطي الحملات الأوروبيين والمنظمات غير الحكومية بسبب صلاتها بإزالة الغابات. واستجابةً لذلك، تدير البلاد الآن مخطط اعتماد إلزاميًا مدعومًا من الدولة، وفي 5 سبتمبر 2025 اعترف الاتحاد الأوروبي بذلك المخطط في بيان مشترك. وهذا هو كيف يعمل MSPO، وما الذي يثبته وما لا يثبته، وأين تظل المشكلات الصعبة قائمة.

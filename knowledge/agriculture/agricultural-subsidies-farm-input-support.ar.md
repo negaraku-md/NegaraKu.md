@@ -103,6 +103,14 @@ relations:
 related: []
 keywords: ["دعم أسمدة الأرز", "SBPKP", "SIPP", "حافز إنتاج الأرز", "الدعم الزراعي", "مساعدة مُدخلات مزارعي الأرز"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
 ---
 
 كيس السماد الذي يحمله مزارع الأرز على كتفه إلى الحقل ذلك الصباح لم يُشترَ بماله الخاص — بل جاء مجانًا، تتحمله الحكومة الاتحادية منذ عقود. هذا هو الوجه الحقيقي للدعم الزراعي الماليزي للأرز: ليس شيكًا ولا مالًا يُودَع في حساب، بل أسمدة ومبيدات وحوافز تغطي حصة كبيرة من التكلفة في المزرعة.

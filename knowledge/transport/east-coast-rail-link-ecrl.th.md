@@ -93,6 +93,13 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'The actual ECRL rolling stock: a blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks (a yellow KTM Komuter set beside it). The one ECRL-specific train photo on Commons — unmistakably this new east-coast line. Wide landscape, train filling the right of frame.'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เป็นเวลาหลายทศวรรษที่เส้นทางเร็วที่สุดระหว่างกัวลาลัมเปอร์กับรัฐชายฝั่งตะวันออกคือการขับรถข้ามภูเขาเป็นระยะทางไกล เส้นทางรถไฟเชื่อมชายฝั่งตะวันออกคือการเดิมพันของมาเลเซียว่าทางรถไฟสายเดียวจะเปลี่ยนสิ่งนั้นได้ — และในกระบวนการนั้นจะช่วยปรับสมดุลว่าการเติบโตของประเทศเกิดขึ้นที่ใด

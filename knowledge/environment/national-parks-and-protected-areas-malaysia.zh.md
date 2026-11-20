@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 随便问一个人「马来西亚的国家公园」在哪里，他们都会指向同一个地方。事实上，马来西亚并没有一座国家公园——它拥有三套完全独立的法律体系，而其中一套甚至不涵盖那个最以「[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)（国家公园）」之名闻名的地方。理解这张法律地图，是规划行程、开展研究，或仅仅想了解马来西亚如何保护其拥有1亿3千万年历史的雨林的关键。

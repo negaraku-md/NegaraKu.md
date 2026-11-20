@@ -78,6 +78,14 @@ relations:
 related: []
 keywords: ["स्थायी वन आरक्षित", "hutan simpanan kekal", "राष्ट्रीय वानिकी अधिनियम 1984", "akta perhutanan negara 1984", "वन राजपत्रण", "pewartaan hutan", "राज्य सूची", "मलेशिया के वर्षावन", "hutan hujan malaysia", "वन आरक्षित राजपत्र-विमोचन", "सबाह वन अधिनियमन", "सारावाक वन अध्यादेश"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
 ---
 
 मलेशिया में वनाच्छादित भूमि का एक टुकड़ा केवल इसलिए «संरक्षित» नहीं होता कि वह पेड़ों से भरा है — उसका संरक्षण उस दिन शुरू होता है जिस दिन भूमि का नाम राजपत्र में प्रकट होता है। उस राजपत्रण के बिना, उसी वन को किसी भी समय विकास के लिए लाइसेंस दिया जा सकता है। यही मलेशिया की पूरी स्थायी वन आरक्षित (PFR) प्रणाली की नींव है।

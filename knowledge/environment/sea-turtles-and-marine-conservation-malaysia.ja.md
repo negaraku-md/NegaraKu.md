@@ -97,6 +97,14 @@ relations:
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 1960年代末、トレンガヌ州ランタウ・アバンの一本の海岸には、毎年約2,000頭のメスのオサガメが上陸し、砂浜に約10,000個の卵の巣を残していた。今日、その姿はもはや一頭もない。この衰退の物語は、この地域における最も顕著な野生生物保全の失敗の一つであり——それが今日に至るまでマレーシアがウミガメを保護する方法を形づくってきた。

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["पेनांग फेरी", "लंकावी फेरी", "तिओमान फेरी", "मलेशिया में द्वीप परिवहन", "कुआला केदा", "कुआला पर्लिस", "पूर्वोत्तर मानसून", "पैंगकोर फेरी", "लाबुआन फेरी", "Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'The red-and-white high-speed catamaran ferry ''SANI 1'' berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands. Strong left-side subject, open sky top-right for overlay.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में कोई एकल राष्ट्रीय फेरी लाइन नहीं है। किसी द्वीप तक पहुँचने का मतलब है यह जानना कि कौन-सा छोटा मार्ग, कौन-सा जेटी और कौन-सा संचालक उसकी सेवा करता है — और, पूर्वी तट पर, यह कि उस महीने समुद्र खुला भी है या नहीं।

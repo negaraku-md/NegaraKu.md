@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO", "parques nacionales", "áreas protegidas", "Ley de Parques Nacionales 1980", "Parque de Kinabalu", "parques marinos", "Patrimonio Mundial UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 Pregunte a cualquiera dónde está «el parque nacional de Malasia» y señalará un solo lugar. En realidad, Malasia no tiene un único parque nacional — tiene tres sistemas jurídicos completamente separados, y uno de ellos ni siquiera abarca el lugar más famoso con el nombre de «[Taman Negara](/es/tourism/taman-negara-ecotourism-guide)». Entender este mapa jurídico es la clave para planificar una visita, llevar a cabo una investigación o simplemente comprender cómo protege Malasia sus selvas tropicales de 130 millones de años.

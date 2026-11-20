@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "पाम तेल स्थिरता", "palm oil sustainability", "वनों की कटाई", "deforestation", "EUDR", "RSPO", "प्रमाणन", "certification", "छोटे किसान", "smallholders", "MPOB", "मलेशिया पाम तेल", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 मलेशिया दुनिया के लगभग पाँचवें हिस्से का पाम तेल उगाता है, और इस उद्योग को वनों की कटाई से इसके संबंधों को लेकर यूरोपीय तथा गैर-सरकारी संगठन (NGO) अभियानकर्ताओं की लंबे समय से आलोचना झेलनी पड़ी है। इसके जवाब में, देश अब एक अनिवार्य, राज्य-समर्थित प्रमाणन योजना चलाता है, और 5 सितंबर 2025 को यूरोपीय संघ ने एक संयुक्त वक्तव्य में उस योजना को मान्यता दी। यह बताता है कि MSPO कैसे काम करता है, यह क्या साबित करता है और क्या नहीं, तथा कठिन समस्याएँ अब भी कहाँ हैं।

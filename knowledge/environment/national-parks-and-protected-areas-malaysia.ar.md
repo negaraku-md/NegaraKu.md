@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["تامان نيغارا", "taman negara", "المناطق المحمية", "kawasan perlindungan", "قانون الحدائق الوطنية 1980", "Akta Taman Negara 1980", "حديقة كينابالو", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "الحدائق البحرية", "taman laut", "PERHILITAN", "التراث العالمي لليونسكو", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 اسأل أيًّا كان عن موضع «الحديقة الوطنية في ماليزيا» وسيشير إلى مكان واحد. والواقع أن ماليزيا لا تملك حديقة وطنية واحدة — بل تملك ثلاثة أنظمة قانونية منفصلة تمامًا، وأحدها لا يشمل حتى المكان الأشهر بالاسم «[تامان نيغارا](/ar/tourism/taman-negara-ecotourism-guide)». وفهم هذه الخريطة القانونية هو مفتاح التخطيط لزيارة، أو إجراء بحث، أو مجرد إدراك كيف تحمي ماليزيا غاباتها المطيرة التي يبلغ عمرها 130 مليون سنة.

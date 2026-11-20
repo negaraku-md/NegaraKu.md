@@ -72,6 +72,14 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'The dense George Town skyline at dusk, with the lit Komtar tower rising over the Penang city centre'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
 ---
 
 ペナンは、マレーシアの州の中で唯一、「生活費」を単一の数字で答えることができない州である。なぜなら、ペナンは一つの場所ではないからだ。それは島と本土の帯状地域であり、二つの橋と一つの渡し船で結ばれ、一方には世界遺産のコア区域が、もう一方にはコンテナ港湾の工業都市群がある。「ペナン」を一行の数字に平坦化するいかなる数値も、すでに最も有用な情報を捨て去っている。

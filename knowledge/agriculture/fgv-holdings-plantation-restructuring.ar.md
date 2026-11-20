@@ -84,6 +84,13 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "خصخصة FELDA", "FELDA privatisation", "زيت النخيل ماليزيا", "palm oil Malaysia", "بورصة ماليزيا", "Bursa Malaysia", "شركة مزارع", "مستوطنو FELDA", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Mature oil-palm estate climbing a hillside with an estate road, Kunak District, Sabah — unmistakably oil palm, 16:9, clean sky band for overlay.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في عام 2012 كانت حديث السوق — إدراجٌ ضخم احتلّ لفترة وجيزة المرتبة الثانية في العالم خلف فيسبوك. وبعد ثلاثة عشر عامًا انسلّت الشركة نفسها بهدوء خارج بورصة ماليزيا بجزءٍ ضئيل من سعر ظهورها الأول، بعدما اشترتها من جديد الهيئة ذاتها التي طرحتها.

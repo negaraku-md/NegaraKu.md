@@ -92,6 +92,14 @@ relations:
 related: []
 keywords: ["الطاقة الشمسية ماليزيا", "solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "الطاقة المتجددة", "الطاقة الشمسية على الأسطح"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
 ---
 
 أصبحت الألواح الشمسية على سطح المنزل قرارًا ماليًا يرتبط ارتباطًا وثيقًا بالسياسة الحكومية في ماليزيا. لكن «التحول إلى الطاقة الشمسية» يعني شيئًا مختلفًا تمامًا لصاحب منزل في إيبوه مقارنةً بمصنع في باسير غودانغ أو مركز بيانات يريد طاقة خضراء بنسبة 100%. ولكل فئة من المستهلكين برنامجها الخاص.

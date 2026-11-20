@@ -84,6 +84,14 @@ relations:
 related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
 ---
 
 Hỏi bất kỳ ai xem "công viên quốc gia của Malaysia" nằm ở đâu và họ sẽ chỉ vào một nơi. Thực tế, Malaysia không có một công viên quốc gia — nó có ba hệ thống pháp lý hoàn toàn riêng biệt, và một trong số đó thậm chí không bao gồm nơi nổi tiếng nhất với cái tên "[Taman Negara](/vi/tourism/taman-negara-ecotourism-guide)". Hiểu tấm bản đồ pháp lý này là chìa khóa để lên kế hoạch cho một chuyến đi, tiến hành nghiên cứu, hoặc đơn giản là hiểu cách Malaysia bảo vệ khu rừng mưa 130 triệu năm tuổi của mình.

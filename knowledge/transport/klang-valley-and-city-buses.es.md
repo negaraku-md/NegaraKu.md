@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["autobús Rapid KL", "autobús alimentador MRT", "autobús Valle de Klang", "Rapid Bus", "Rapid KL On-Demand", "autobús urbano Kuala Lumpur", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'A bold red/cream/blue Rapid KL double-decker at its bay (route 751, Hab Pasar Seni interchange) with the bay signboard — instantly reads as a KL city bus at an interchange. Subject is the bus; no identifiable faces.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 El tren le lleva a una estación. Rara vez le lleva a casa. Ese hueco — desde el andén del MRT o el LRT hasta su puerta, su parque empresarial o el mercado húmedo a dos barrios de distancia — lo rellena una flota en la que la mayoría de los pasajeros apenas piensan: los autobuses de Rapid KL.

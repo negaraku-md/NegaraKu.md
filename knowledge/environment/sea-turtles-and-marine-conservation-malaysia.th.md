@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 ในช่วงปลายทศวรรษ 1960 เต่ามะเฟืองตัวเมียราว 2,000 ตัวขึ้นฝั่งทุกปีที่ชายหาดแห่งหนึ่งใน Rantau Abang ตรังกานู ทิ้งไข่ไว้เกือบ 10,000 รังบนทราย ในปัจจุบัน ไม่มีแม้แต่ตัวเดียว เรื่องราวการเสื่อมถอยนั้นเป็นหนึ่งในความล้มเหลวด้านการอนุรักษ์สัตว์ป่าที่ชัดเจนที่สุดในภูมิภาค และมันหล่อหลอมวิธีที่มาเลเซียคุ้มครองเต่าจนถึงปัจจุบัน

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["ferri Penang", "ferri Langkawi", "ferri Tioman", "transporte islas Malasia", "Kuala Kedah", "Kuala Perlis", "monzón del noreste", "ferri Pangkor", "ferri Labuan"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'The red-and-white high-speed catamaran ferry ''SANI 1'' berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands. Strong left-side subject, open sky top-right for overlay.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 No existe una única línea nacional de ferris en Malasia. Llegar a una isla significa saber qué corta travesía, qué embarcadero y qué operador la sirve — y, en la costa este, si el mar siquiera está abierto ese mes.

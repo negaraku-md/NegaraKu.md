@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["वन्यजीव संरक्षण अधिनियम", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "पूर्णतः संरक्षित वन्यजीव", "totally protected wildlife", "संरक्षित वन्यजीव", "वन्यजीव लाइसेंस", "विशेष परमिट", "special permit", "वन्यजीव तस्करी", "वन्यजीव एवं राष्ट्रीय उद्यान विभाग"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 अपनी कार की डिक्की में एक मलायी बाघ की खाल रखिए और आप किसी जुर्माने और एक कड़े पत्र का सामना नहीं कर रहे होंगे — आप वर्षों की जेल और लाखों रिंगिट में मापे जाने वाले जुर्माने का सामना कर रहे होंगे। यही वन्यजीव संरक्षण अधिनियम 2010 का तीखा सिरा है, वह कानून जो तय करता है कि प्रायद्वीपीय मलेशिया में आप किन जानवरों को छू सकते हैं, रख सकते हैं, बेच सकते हैं या उनका अध्ययन कर सकते हैं, और किनके पास राज्य की लिखित अनुमति के बिना आप फटक भी नहीं सकते।

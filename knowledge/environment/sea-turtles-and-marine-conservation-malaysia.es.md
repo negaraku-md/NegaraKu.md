@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu", "tortugas marinas", "tortuga laúd", "conservación marina", "huevos de tortuga"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 A finales de la década de 1960, unas 2,000 tortugas laúd hembras salían cada año a la orilla en un único tramo de playa de Rantau Abang, Terengganu, y dejaban casi 10,000 nidos de huevos en la arena. Hoy no queda ni una sola. Esa historia de declive es uno de los fracasos de conservación de fauna silvestre más llamativos de la región — y ha moldeado cómo Malasia protege a las tortugas marinas hasta el día de hoy.

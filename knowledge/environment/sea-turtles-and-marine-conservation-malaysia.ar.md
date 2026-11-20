@@ -98,6 +98,14 @@ relations:
 related: []
 keywords: ["السلاحف البحرية", "السلحفاة الجلدية", "رانتاو أبانغ", "الحديقة البحرية", "قانون مصايد الأسماك 1985", "مرسوم سلاحف ترينغانو", "الحفاظ على البيئة البحرية", "بيض السلاحف", "sea turtles", "marine conservation"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
 ---
 
 في أواخر الستينيات، كانت نحو 2,000 سلحفاة جلدية أنثى تصعد إلى الشاطئ كل عام على امتداد واحد من الرمال في رانتاو أبانغ بولاية ترينغانو، تاركة قرابة 10,000 عشّ من البيض في الرمل. أما اليوم فلا توجد واحدة. وتُعدّ قصة هذا التدهور واحدة من أبرز إخفاقات الحفاظ على الحياة البرية في المنطقة — وقد صاغت الطريقة التي تحمي بها ماليزيا السلاحف البحرية حتى اليوم.

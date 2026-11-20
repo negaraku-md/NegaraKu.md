@@ -84,6 +84,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
 ---
 
 Demandez à trois sources crédibles quelle part de la Malaisie est encore forêt et vous pouvez obtenir trois réponses séparées de dix points de pourcentage — toutes défendables, toutes mesurant quelque chose de légèrement différent. Cet écart n'est pas une erreur d'arrondi ; c'est, en miniature, tout le débat sur la déforestation malaisienne.

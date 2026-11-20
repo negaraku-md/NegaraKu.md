@@ -92,6 +92,14 @@ relations:
 related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
 ---
 
 집 지붕 위의 태양광 패널은 이제 말레이시아에서 정부 정책에 단단히 묶인 하나의 재정적 결정이 되었습니다. 그러나 "태양광으로 가는 것"은 이포의 주택 소유자와, 파시르구당의 공장이나 100% 그린 에너지를 원하는 데이터 센터에게 매우 다른 것을 뜻합니다. 각 사용자 집단에는 저마다의 제도가 있습니다.

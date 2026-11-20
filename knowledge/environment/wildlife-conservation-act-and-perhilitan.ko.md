@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 말레이호랑이의 가죽을 차 트렁크에 보관하고 있다면, 벌금과 엄중한 경고 편지 정도를 마주하는 것이 아닙니다 — 수년의 징역과 수십만 링깃 단위의 벌금을 마주하게 됩니다. 그것이 야생동물보전법 2010의 날카로운 끝입니다. 이 법은 반도 말레이시아에서 어떤 동물을 만지고, 기르고, 팔고, 연구할 수 있는지, 그리고 어떤 동물은 국가의 서면 허가 없이는 가까이 가서도 안 되는지를 결정합니다.

@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 马来西亚生产全球约五分之一的棕榈油，长期以来，该行业因与森林砍伐的关联而饱受欧洲及非政府组织活动人士的批评。作为回应，该国如今推行一项强制性的、由国家支持的认证方案，而欧盟已于 2025 年 9 月 5 日在一份联合声明中认可了这一方案。本文将说明 MSPO 如何运作、它能证明与不能证明什么，以及棘手的难题仍集中在何处。

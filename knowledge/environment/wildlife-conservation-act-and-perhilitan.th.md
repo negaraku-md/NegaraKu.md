@@ -81,6 +81,14 @@ relations:
 related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
 ---
 
 เก็บหนังเสือโคร่งมลายูไว้ในท้ายรถของท่าน แล้วท่านไม่ได้กำลังเผชิญค่าปรับและจดหมายเตือน แต่กำลังเผชิญการติดคุกหลายปีและค่าปรับที่วัดเป็นหลายแสนริงกิต นั่นคือด้านที่คมชัดของพระราชบัญญัติการอนุรักษ์สัตว์ป่า ปี 2010 ซึ่งเป็นกฎหมายที่ตัดสินว่าสัตว์ใดในคาบสมุทรมาเลเซียที่ท่านสามารถแตะต้อง เลี้ยง ขาย หรือศึกษาได้ และสัตว์ใดที่ท่านไม่อาจเข้าใกล้ได้โดยไม่มีการอนุญาตเป็นลายลักษณ์อักษรจากรัฐ

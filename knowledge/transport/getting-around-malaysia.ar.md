@@ -92,6 +92,13 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["التنقّل في ماليزيا", "نظرة عامة على النقل في ماليزيا", "النقل العام في ماليزيا", "كيفية السفر في ماليزيا", "النقل في وادي كلانغ", "الرحلات الجوية الداخلية في ماليزيا", "القيادة في ماليزيا", "getting around Malaysia", "KTM ETS", "express bus Malaysia"]
 framework: journey-hub
+hero: '/media/transport/getting-around-malaysia/hero.webp'
+heroAlt: 'An aerial view of a KTM ETS intercity electric train running along the West Coast main line through green countryside, with housing estates and a playground below — ''moving around Malaysia'' by fast national rail. Clean daylight establishing shot, train crossing the upper third.'
+heroCredit: 'Hiroki.loh.st / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 اسأل مَن عاش في كلٍّ من كوالالمبور و— لنقل — إيبوه عن كيفية تنقّله، تحصل على إجابتين مختلفتين تمامًا. يتحدّث أحدهما عن تمرير بطاقته عند بوابة LRT وطلب سيارة Grab للكيلومتر الأخير. ويتحدّث الآخر عن أي طريق سريع يسلك وأين يركن سيارته. وكلاهما يصف البلد نفسه. فماليزيا ليس لديها نظام نقل واحد — بل لديها نظام صغير كثيف في وادي كلانغ، ونظام أكبر بكثير قائم على السيارة في كل مكان آخر، تربطه قطارات بين المدن وحافلات، وطائرة حين تصبح المسافات جدّية.

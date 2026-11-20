@@ -92,6 +92,14 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "durabilité huile de palme", "palm oil sustainability", "déforestation", "deforestation", "EUDR", "RSPO", "certification", "petits exploitants", "smallholders", "MPOB", "huile de palme Malaisie", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
 ---
 
 La Malaisie produit environ un cinquième de l'huile de palme mondiale, et l'industrie suscite depuis longtemps les critiques des militants européens et des ONG en raison de ses liens avec la déforestation. En réponse, le pays gère désormais un dispositif de certification obligatoire et adossé à l'État, et le 5 septembre 2025 l'Union européenne a reconnu ce dispositif dans une déclaration conjointe. Voici comment fonctionne le MSPO, ce qu'il prouve et ce qu'il ne prouve pas, et où résident encore les problèmes difficiles.

@@ -95,6 +95,13 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["tren Valle de Klang", "Rapid KL", "Línea MRT Kajang", "Línea MRT Putrajaya", "Línea LRT Kelana Jaya", "Monorraíl KL", "KTM Komuter", "Línea Shah Alam", "LRT3", "KL Sentral", "moverse por Kuala Lumpur sin coche", "Klang Valley rail"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'A sleek red-and-white MRT Putrajaya Line train on an elevated viaduct against a dramatic sky — modern Klang Valley metro, strong sky band for overlay.'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mire por primera vez un mapa ferroviario del Valle de Klang y se lee como una
