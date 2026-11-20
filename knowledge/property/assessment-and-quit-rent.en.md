@@ -1,7 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "Assessment Tax and Quit Rent: Two Property Taxes, Two Authorities, Two Payment Dates"
-seoTitle: Assessment Tax and Quit Rent
+seoTitle: "Assessment Tax & Quit Rent in Malaysia"
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]
