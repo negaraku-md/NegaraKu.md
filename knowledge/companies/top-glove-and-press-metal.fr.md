@@ -89,6 +89,14 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "gants en caoutchouc", "rubber gloves", "fonderie d'aluminium", "aluminium smelter", "industrie manufacturière de Malaisie", "travail forcé", "forced labour", "Bursa Malaysia", "exportations", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: 'A close-up of a glove production line where hand-shaped formers coated in wet blue latex hang in a row and drip into a tray of blue liquid below, with freshly dipped white gloves on formers in the background'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
 ---
 
 Deux entreprises malaisiennes dominent leurs domaines à l'échelle mondiale. L'une est le plus grand fabricant de gants jetables au monde ; l'autre est la plus grande fonderie d'aluminium primaire d'Asie du Sud-Est. Ni l'une ni l'autre n'est un nom familier en dehors des milieux de l'investissement, et pourtant Top Glove et Press Metal montrent comment une économie de taille moyenne peut produire des leaders mondiaux mono-sectoriels.

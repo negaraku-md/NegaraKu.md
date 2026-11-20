@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 말레이시아 농장에 뿌려지는 거의 모든 비료 포대, 그리고 이 나라 공장에서 성형되는 플라스틱 수지의 상당 부분은 한 회사로 거슬러 올라갑니다: Petronas Chemicals Group Berhad. 그것은 국영 석유회사의 화학 부문이자 말레이시아 최대의 통합 화학 생산업체이며 — 국가 연계 사업으로는 이례적으로 — 누구나 주식을 살 수 있는 별도 상장 회사입니다.

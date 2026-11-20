@@ -3061,5 +3061,297 @@
         "alt": "Connaught Bridge Power Station in Klang, a long red-brick power house with a tall red-and-white striped chimney stack under a bright blue sky"
       }
     ]
+  },
+  "companies/gamuda-berhad": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gamuda_Gardens_entrance_%28231229%29_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "angys",
+      "page": "https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg",
+      "kind": "actual",
+      "subject": "Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad's flagship township in Rawang, Selangor",
+      "alt": "Large sculptural entrance sign spelling GAMUDA in tall white letters against angled timber slats beside a curving access road into the Gamuda Gardens township"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gamuda_Gardens_entrance_%28231229%29_02.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "angys",
+        "page": "https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg",
+        "kind": "actual",
+        "subject": "GAMUDA GARDENS wordmark and teardrop logo on the township entrance monument, Rawang, Selangor",
+        "alt": "Entrance monument reading GAMUDA GARDENS in large white letters with the green teardrop logo, set against sculptural timber posts and greenery"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kwasa_Damansara_MRT_Station_%28PY01-KG04%29_Exterior_View_from_Track_%28220724%29_1.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg",
+        "kind": "representative",
+        "subject": "Kwasa Damansara MRT station, an elevated station on the Klang Valley MRT lines whose underground works were delivered by MMC-Gamuda (Gamuda Berhad's rail-engineering joint venture)",
+        "alt": "Elevated Mass Rapid Transit railway track leading into Kwasa Damansara MRT station, with grey concrete viaduct piers and a canopied platform under a bright cloudy sky"
+      }
+    ]
+  },
+  "companies/ihh-healthcare": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gleneagles_Hospital%2C_George_Town%2C_Penang.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Vnonymous",
+      "page": "https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg",
+      "kind": "actual",
+      "subject": "Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare's Gleneagles network",
+      "alt": "The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue 'Gleneagles PENANG' name mounted on both the lower wall and the rooftop parapet"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Pantai_Hospital_at_Night.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "PulauKakatua19",
+        "page": "https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg",
+        "kind": "actual",
+        "subject": "Pantai Hospital Kuala Lumpur at night — part of IHH Healthcare's Pantai Hospitals network",
+        "alt": "The curved entrance of Pantai Hospital Kuala Lumpur lit up at night, the illuminated 'PANTAI HOSPITAL KUALA LUMPUR' sign above the porch and a purple-lit fountain in the forecourt"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Prince_Court_Medical_Centre.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Vano111ru",
+        "page": "https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg",
+        "kind": "actual",
+        "subject": "Prince Court Medical Centre, Jalan Kia Peng, Kuala Lumpur — owned by IHH Healthcare",
+        "alt": "The grey modern block of Prince Court Medical Centre in Kuala Lumpur with its gold 'PRINCE COURT' lettering and gold emblem on the upper facade, street greenery and signage below"
+      }
+    ]
+  },
+  "companies/ioi-corporation": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/IOI_City_Mall.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Wee Hong",
+      "page": "https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg",
+      "kind": "actual",
+      "subject": "Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)",
+      "alt": "The curved glass-and-metal main entrance of IOI City Mall with the red 'ioiCITYMALL' signage above the doors, flanked by tall mirrored office towers under a dramatic cloudy sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg",
+        "kind": "actual",
+        "subject": "IOI Edible Oils palm oil refinery complex at Sandakan, Sabah, part of IOI Corporation's resource-based manufacturing",
+        "alt": "A blue industrial palm oil refinery tower marked with a large 'IOI' and the 'IOI EDIBLE OILS' logo board at Sandakan, Sabah, backed by forested hills with palms in front"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/IOI_City_Mall_2_%28Aug_2022%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Azreey",
+        "page": "https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg",
+        "kind": "actual",
+        "subject": "Interior atrium of IOI City Mall 2, the second phase of IOI City Mall, Putrajaya",
+        "alt": "The multi-level interior atrium of IOI City Mall 2, tall pink 'IOi CiTY MALL 2' promotional banners hanging over curved balconies lined with shopfronts"
+      }
+    ]
+  },
+  "companies/misc-berhad": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LNG_carrier_Seri_Ayu.jpg",
+      "license": "CC BY 2.0",
+      "by": "Emran Kassim",
+      "page": "https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg",
+      "kind": "actual",
+      "subject": "MISC Berhad's LNG carrier Seri Ayu at her naming ceremony",
+      "alt": "A large black-hulled LNG carrier with a red lower hull, her bow lettered 'SERI AYU' and the word 'LNG' along the side, moored at a quay dressed with signal flags, with a man in a shirt and tie standing on a red-carpet dais in the foreground"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bintulu_LNG_port.jpg",
+        "license": "CC BY 2.0",
+        "by": "Ahmad Afif Isa",
+        "page": "https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg",
+        "kind": "representative",
+        "subject": "marine loading arms at the LNG export terminal in Bintulu, Sarawak, where carriers like MISC's load Malaysian liquefied natural gas",
+        "alt": "An aerial view of a concrete jetty on turquoise water carrying rows of tall grey marine loading arms and pipework, with mooring dolphins in the foreground and a port with cranes and storage tanks on the far shore"
+      }
+    ]
+  },
+  "companies/petronas-chemicals": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Johor_9_August_2022_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Pangalau",
+      "page": "https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg",
+      "kind": "actual",
+      "subject": "an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS's downstream refining and petrochemicals hub where PETRONAS Chemicals operates",
+      "alt": "Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/ASEAN_Bintulu_Fertiliser_Plant.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Cerevisae",
+        "page": "https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg",
+        "kind": "actual",
+        "subject": "the ASEAN Bintulu Fertiliser plant in Sarawak, a PETRONAS Chemicals-operated ammonia and urea petrochemical facility",
+        "alt": "A large petrochemical fertiliser plant seen across a river, with a long row of cooling-tower cells, blue process piping and a red-and-white chimney, set against green vegetation and a cloudy sky"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Oil_Silo_in_Pengerang.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Encik Tekateki",
+        "page": "https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg",
+        "kind": "actual",
+        "subject": "a PETRONAS-branded storage tank at the Pengerang Integrated Complex in Johor",
+        "alt": "A large white cylindrical storage tank behind a chain-link fence, marked 'PETRONAS 90 MLC' beside the green PETRONAS droplet logo, with piping and plant structures to one side under a blue sky with light cloud"
+      }
+    ]
+  },
+  "companies/plus-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/North_South_Expressway_4.jpg",
+      "license": "CC0",
+      "by": "Wiki Farazi",
+      "page": "https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg",
+      "kind": "actual",
+      "subject": "the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky",
+      "alt": "A clear multi-lane stretch of the North-South Expressway with light traffic and a yellow 'IKUT KIRI Kecuali Memotong' sign on the left shoulder, flanked by green roadside trees and low forested hills under a blue sky with scattered clouds"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Hazwan Amini",
+        "page": "https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg",
+        "kind": "actual",
+        "subject": "the Tangkak toll plaza at Exit 235 on the PLUS-operated North-South Expressway",
+        "alt": "View through a windscreen approaching a toll plaza on the PLUS expressway, with overhead Touch 'n Go and SmartTAG lane signs above the booths, red-and-white lane dividers channelling traffic, under an overcast evening sky"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/North_South_Expressway_6.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg",
+        "kind": "actual",
+        "subject": "an overhead variable-message gantry spanning the North-South Expressway (PLUS)",
+        "alt": "A steel overhead gantry carrying an orange variable-message display spanning the carriageways of the North-South Expressway, with light traffic and roadwork cones ahead and roadside trees under a grey cloudy sky"
+      }
+    ]
+  },
+  "companies/sime-darby-group": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_%28220709%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "*angys*",
+      "page": "https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_(220709).jpg",
+      "kind": "actual",
+      "subject": "Entrance signage of Sime Darby Plantation's Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan",
+      "alt": "A white-and-red Sime Darby Plantation entrance pillar carrying the red Sime Darby logo beside an estate access road, framed by rows of oil palms under a bright blue sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg",
+        "kind": "actual",
+        "subject": "Sime Darby crude palm oil (CPO) storage tanks at Kunak, Sabah",
+        "alt": "Large grey crude palm oil storage tanks bearing the red Sime Darby logo at an industrial complex in Kunak, Sabah, with a coconut palm in the foreground"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg",
+        "kind": "actual",
+        "subject": "Roadside Sime Darby Plantation estate marker on the Sandakan–Lahad Datu road, Sabah",
+        "alt": "A white Sime Darby Plantation marker pillar with the red Sime Darby logo standing in green ground-cover before a wall of oil palms, overhead power lines above"
+      }
+    ]
+  },
+  "companies/sunway-group": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sunway_Pyramid_lion_%28240131%29_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "angys",
+      "page": "https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg",
+      "kind": "actual",
+      "subject": "Sunway Pyramid mall's giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor",
+      "alt": "The giant stone lion-head landmark and pyramid-shaped roof of Sunway Pyramid shopping mall, with high-rise towers marked SUNWAY rising behind under a cloudy sky"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sunway_Pyramid_front.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Cmglee",
+        "page": "https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg",
+        "kind": "actual",
+        "subject": "Front facade of Sunway Pyramid shopping centre showing the pyramid and lion-head sphinx, Bandar Sunway",
+        "alt": "Close view of Sunway Pyramid's Egyptian-themed facade with a large pyramid roof and a seated lion sphinx beside a 'Shopping Mall / Theme Park' entry sign"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandar_Sunway_aerial.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Cmglee",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg",
+        "kind": "actual",
+        "subject": "Aerial view of Sunway Group's integrated Bandar Sunway township with the pyramid mall, resort, lagoon and residential towers, Selangor",
+        "alt": "Aerial view of the Bandar Sunway township showing the Sunway Pyramid mall, resort hotel, lagoon and clustered residential high-rise towers in the Klang Valley"
+      }
+    ]
+  },
+  "companies/top-glove-and-press-metal": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sector_Dipping%2C_Industria_De_Pascale.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Marketingdepascale",
+      "page": "https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg",
+      "kind": "representative",
+      "subject": "a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)",
+      "alt": "A close-up of a glove production line where hand-shaped formers coated in wet blue latex hang in a row and drip into a tray of blue liquid below, with freshly dipped white gloves on formers in the background"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Testing_Medical_Gloves_%288535999199%29.jpg",
+        "license": "Public domain",
+        "by": "The U.S. Food and Drug Administration",
+        "page": "https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg",
+        "kind": "representative",
+        "subject": "quality inspection of disposable medical gloves in a laboratory (illustrative of glove-industry quality testing; not a Top Glove facility)",
+        "alt": "A technician in a white lab coat, safety glasses and blue nitrile gloves holds up a clear water-filled test glove to inspect it for leaks, with rows of gloves hanging on a testing rack behind him in a laboratory"
+      }
+    ]
+  },
+  "companies/ytl-group": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Starhill_Gallery_2017.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "angys",
+      "page": "https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg",
+      "kind": "representative",
+      "subject": "Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame",
+      "alt": "The distinctive faceted dark-and-bronze geometric facade of Starhill Gallery luxury mall on Bukit Bintang, with the JW Marriott hotel tower rising behind it"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jalan_Strachan_%28230421%29_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "angys",
+        "page": "https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg",
+        "kind": "representative",
+        "subject": "Tree-lined boulevard through Sentul Park, the urban-regeneration development by YTL Land (YTL Corporation's property arm), Kuala Lumpur — SENTUL PARK / SENTUL WORKS banners visible; YTL parent name not shown in-frame",
+        "alt": "A quiet palm-lined boulevard running through Sentul Park with tall banner pylons reading SENTUL PARK and SENTUL WORKS along the roadside"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lot_10_Kuala_Lumpur_View.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Brownc",
+        "page": "https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg",
+        "kind": "representative",
+        "subject": "Lot 10 shopping centre on Jalan Bukit Bintang, a YTL Corporation-owned retail landmark (housing Isetan The Japan Store), Kuala Lumpur — confirmed YTL property, YTL parent name not shown in-frame",
+        "alt": "Street-level view of the Lot 10 shopping centre entrance with its green facade, the Isetan The Japan Store signage above and an H&M store at ground level"
+      }
+    ]
   }
 }

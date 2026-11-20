@@ -77,6 +77,14 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'The curved glass-and-metal main entrance of IOI City Mall with the red ''ioiCITYMALL'' signage above the doors, flanked by tall mirrored office towers under a dramatic cloudy sky'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
 ---
 
 தொழில்துறை வாயுக்களை விற்பதன் மூலம் வாழ்க்கையைத் தொடங்கிய ஒரு நிறுவனம், இன்று ஒரு சிறிய மாவட்டத்தின் அளவுக்கு நிலவங்கியை நிரப்பும் அளவுக்கு எண்ணெய்ப் பனையை வளர்க்கிறது — அந்தப் பழத்தை சமையல் எண்ணெய் முதல் உங்கள் சோப்பினுள் இருக்கும் கொழுப்பு அமிலங்கள் வரை அனைத்தாகவும் மாற்றுகிறது.

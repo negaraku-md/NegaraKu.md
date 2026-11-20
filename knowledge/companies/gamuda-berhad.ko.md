@@ -77,6 +77,14 @@ relations:
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
 framework: profile
+hero: '/media/companies/gamuda-berhad/hero.webp'
+heroAlt: 'Large sculptural entrance sign spelling GAMUDA in tall white letters against angled timber slats beside a curving access road into the Gamuda Gardens township'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
 ---
 
 Gamuda는 말레이시아의 한 고속도로에서 시작해 역내 최대의 터널링·철도 시공사 중 하나로 성장했습니다. 오늘날 그 사업의 점점 더 큰 비중이 말레이시아 밖에 있습니다.

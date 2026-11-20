@@ -77,6 +77,14 @@ relations:
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda ऑर्डर बुक", "Gamuda order book", "MRT सुरंग खनन", "MRT tunnelling", "Gamuda Land", "मलेशिया निर्माण", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda ताइवान MRT"]
 framework: profile
+hero: '/media/companies/gamuda-berhad/hero.webp'
+heroAlt: 'Large sculptural entrance sign spelling GAMUDA in tall white letters against angled timber slats beside a curving access road into the Gamuda Gardens township'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
 ---
 
 Gamuda ने एक मलेशियाई एक्सप्रेसवे से शुरुआत की और क्षेत्र के सबसे बड़े सुरंग खनन और रेल ठेकेदारों में से एक बन गई। आज, इसके काम का बढ़ता हुआ हिस्सा मलेशिया के बाहर है।

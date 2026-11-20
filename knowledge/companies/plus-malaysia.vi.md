@@ -77,6 +77,14 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: 'A clear multi-lane stretch of the North-South Expressway with light traffic and a yellow ''IKUT KIRI Kecuali Memotong'' sign on the left shoulder, flanked by green roadside trees and low forested hills under a blue sky with scattered clouds'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
 ---
 
 Mỗi khi bạn lái xe từ Bukit Kayu Hitam ở phía bắc đến Johor Bahru ở phía nam mà không dừng ở đèn giao thông, bạn thực ra đang đi qua tài sản của một công ty: PLUS Malaysia Berhad. Nó không phải là một cơ quan chính phủ, nhưng cũng không phải là một công ty tư nhân thông thường — nó là một đơn vị nắm nhượng quyền vận hành xương sống đường bộ của đất nước theo một thỏa thuận dài hạn với chính phủ.

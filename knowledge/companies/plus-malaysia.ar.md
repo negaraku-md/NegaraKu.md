@@ -77,6 +77,14 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "طريق الشمال-الجنوب السريع", "امتياز الرسوم", "UEM Group", "Khazanah", "KWSP", "طرق سريعة مدفوعة"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: 'A clear multi-lane stretch of the North-South Expressway with light traffic and a yellow ''IKUT KIRI Kecuali Memotong'' sign on the left shoulder, flanked by green roadside trees and low forested hills under a blue sky with scattered clouds'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
 ---
 
 في كل مرة تقود فيها من Bukit Kayu Hitam في الشمال إلى Johor Bahru في الجنوب من دون التوقف عند إشارة مرور، تكون في الواقع تسير على أصول شركة واحدة: PLUS Malaysia Berhad. وهي ليست جهة حكومية، لكنها ليست شركة خاصة عادية أيضًا — بل صاحبة امتياز تشغّل العمود الفقري لطرق الأمة بموجب اتفاق طويل الأمد مع الحكومة.

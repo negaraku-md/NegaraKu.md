@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 Gần như mỗi bao phân bón được rải trên một nông trại Malaysia, và một phần lớn các loại nhựa resin được đúc trong các nhà máy của đất nước, đều truy nguyên về một công ty: Petronas Chemicals Group Berhad. Nó là cánh tay hóa chất của công ty dầu khí quốc gia, nhà sản xuất hóa chất tổng hợp lớn nhất tại Malaysia, và — một điều bất thường đối với một doanh nghiệp liên kết với nhà nước — một công ty được niêm yết riêng mà bất kỳ ai cũng có thể mua cổ phiếu.

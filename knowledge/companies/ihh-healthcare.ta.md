@@ -77,6 +77,14 @@ verificationNeeded:
   - "வருவாய் — FY2024 (2024 டிசம்பர் 31-உடன் முடிந்த ஆண்டு) குழும வருவாய் சுமார் RM24.4 பில்லியன் மற்றும் நிகர லாபம் சுமார் RM2.66 பில்லியன், IHH-இன் முடிவுகள் வெளியீட்டின்படி. ஒவ்வொரு புதிய ஆண்டு/காலாண்டு அறிக்கையுடனும் எண்ணையும் அடிப்படையையும் மீண்டும் உறுதிப்படுத்தவும்."
   - "பங்குவைப்பு — Mitsui & Co தோராயமாக 32–33% வைத்திருப்பதாக மேற்கோள் காட்டப்படுகிறது (MBK Healthcare Management வழியாக) மற்றும் Khazanah Nasional ஒரு கணிசமான சிறுபான்மை. சரியான சதவீதங்கள் இடுகைகள் மற்றும் வாங்குதல்களுடன் மாறுகின்றன; ஒரு எண்ணை மேற்கோள் காட்டுமுன் சமீபத்திய Bursa Malaysia / SGX வெளிப்படுத்தல்களுடன் சரிபார்க்கவும்."
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
 ---
 
 Kuala Lumpur-இல் ஒரு Pantai அல்லது Gleneagles மருத்துவமனைக்குள், சிங்கப்பூரில் ஒரு Mount Elizabeth வார்டுக்குள், இஸ்தான்புல்லில் ஒரு Acibadem மருத்துவமனைக்குள், அல்லது டெல்லியில் ஒரு Fortis மையத்திற்குள் நடந்து சென்றால், நீங்கள் அதே பெருநிறுவனக் குடும்பத்திற்குள் அடியெடுத்து வைக்கிறீர்கள். அந்தக் குடும்பம் IHH Healthcare Berhad — மலேசியாவில் தலைமையகம் கொண்ட ஒரு நிறுவனம், இது உலகின் மிகப்பெரிய தனியார் மருத்துவமனை இயக்குநர்களில் ஒன்றாக வளர்ந்துள்ளது.

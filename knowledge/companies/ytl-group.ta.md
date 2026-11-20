@@ -81,6 +81,14 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: 'The distinctive faceted dark-and-bronze geometric facade of Starhill Gallery luxury mall on Bukit Bintang, with the JW Marriott hotel tower rising behind it'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
 ---
 
 YTL என்பது மலேசியாவின் மிகப்பெரிய பன்முகப்படுத்தப்பட்ட குழுமங்களில் ஒன்று; இதை ஒரு தனி நிறுவனமாக அல்ல, மாறாக உட்கட்டமைப்பை மையமாகக் கொண்டு உருவாக்கப்பட்ட பட்டியலிடப்பட்ட மற்றும் பட்டியலிடப்படாத வணிகங்களின் ஒரு குடும்பமாகப் புரிந்துகொள்வதே சிறந்தது.

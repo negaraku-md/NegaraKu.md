@@ -77,6 +77,14 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "زيت النخيل ماليزيا", "كيماويات زيتية", "RSPO", "شركة مزارع", "palm oil Malaysia", "oleochemicals", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'The curved glass-and-metal main entrance of IOI City Mall with the red ''ioiCITYMALL'' signage above the doors, flanked by tall mirrored office towers under a dramatic cloudy sky'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
 ---
 
 شركة بدأت حياتها ببيع الغازات الصناعية صارت الآن تزرع من نخيل الزيت ما يكفي لملء رصيد أراضٍ بحجم مقاطعة صغيرة — وتحوِّل تلك الثمار إلى كل شيء، من زيت الطهي إلى الأحماض الدهنية داخل صابونك.

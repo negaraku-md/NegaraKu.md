@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 மலேசிய பண்ணை ஒன்றில் தூவப்படும் கிட்டத்தட்ட ஒவ்வொரு உர மூட்டையும், நாட்டின் தொழிற்சாலைகளில் வார்க்கப்படும் பிளாஸ்டிக் பிசின்களின் பெரும்பகுதியும், ஒரே நிறுவனம் வரை செல்கின்றன: Petronas Chemicals Group Berhad. இது தேசிய எண்ணெய் நிறுவனத்தின் வேதிப்பொருள் பிரிவு, மலேசியாவின் மிகப்பெரிய ஒருங்கிணைந்த வேதிப்பொருள் உற்பத்தியாளர், மேலும் — ஒரு அரசு-இணைந்த வணிகத்திற்கு அசாதாரணமாக — யார் வேண்டுமானாலும் பங்குகளை வாங்கக்கூடிய தனியாகப் பட்டியலிடப்பட்ட நிறுவனம்.

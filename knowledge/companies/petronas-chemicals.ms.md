@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 Hampir setiap beg baja yang ditabur di ladang Malaysia, dan sebahagian besar resin plastik yang diacu di kilang-kilang negara ini, berasal daripada satu syarikat: Petronas Chemicals Group Berhad. Ia ialah lengan bahan kimia syarikat minyak negara, pengeluar bahan kimia bersepadu terbesar di Malaysia, dan — luar biasa bagi sebuah perniagaan berkaitan kerajaan — sebuah syarikat yang tersenarai secara berasingan yang sahamnya boleh dibeli oleh sesiapa sahaja.

@@ -89,6 +89,14 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: 'A close-up of a glove production line where hand-shaped formers coated in wet blue latex hang in a row and drip into a tray of blue liquid below, with freshly dipped white gloves on formers in the background'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
 ---
 
 இரு மலேசிய நிறுவனங்கள் தத்தமது துறைகளில் உலகளவில் முன்னணி வகிக்கின்றன. ஒன்று உலகின் மிகப்பெரிய பயன்படுத்தி-எறியும் கையுறை தயாரிப்பாளர்; மற்றொன்று தென்கிழக்கு ஆசியாவின் மிகப்பெரிய முதன்மை அலுமினியம் உருக்காலை. இரண்டும் முதலீட்டு வட்டங்களுக்கு வெளியே பரவலாக அறியப்படாதவை; இருப்பினும் Top Glove மற்றும் Press Metal, ஒரு நடுத்தர அளவிலான பொருளாதாரம் எவ்வாறு தனித்-துறை உலகத் தலைவர்களை உருவாக்க முடியும் என்பதைக் காட்டுகின்றன.

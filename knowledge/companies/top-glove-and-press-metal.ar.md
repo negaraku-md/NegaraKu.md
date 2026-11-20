@@ -89,6 +89,14 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "قفازات مطاطية", "rubber gloves", "مصهر ألمنيوم", "aluminium smelter", "التصنيع في ماليزيا", "العمل القسري", "forced labour", "Bursa Malaysia", "الصادرات", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: 'A close-up of a glove production line where hand-shaped formers coated in wet blue latex hang in a row and drip into a tray of blue liquid below, with freshly dipped white gloves on formers in the background'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
 ---
 
 شركتان ماليزيتان تتصدّران مجاليهما عالمياً. إحداهما أكبر مصنّع للقفازات ذات الاستخدام الواحد في العالم؛ والأخرى أكبر مصهر للألمنيوم الأولي في جنوب شرق آسيا. وليست أيٌّ منهما اسماً مألوفاً خارج أوساط الاستثمار، ومع ذلك تُظهر Top Glove وPress Metal كيف يمكن لاقتصاد متوسط الحجم أن ينتج قادةً عالميين في قطاع واحد.

@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 Hampir setiap karung pupuk yang ditaburkan di ladang Malaysia, dan sebagian besar resin plastik yang dicetak di pabrik-pabrik negara ini, berujung pada satu perusahaan: Petronas Chemicals Group Berhad. Ia adalah lengan kimia dari perusahaan minyak nasional, produsen kimia terintegrasi terbesar di Malaysia, dan — tidak lazim untuk bisnis yang terkait negara — sebuah perusahaan yang tercatat terpisah yang sahamnya dapat dibeli siapa pun.

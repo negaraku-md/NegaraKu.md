@@ -76,6 +76,14 @@ verificationNeeded:
   - "Revenue — FY2024 (year ended 31 December 2024) group revenue of about RM24.4 billion and net profit of about RM2.66 billion, per IHH's results release. Reconfirm the figure and basis against each new annual/quarterly report."
   - "Shareholding — Mitsui & Co is cited as holding roughly 32–33% (via MBK Healthcare Management) and Khazanah Nasional a substantial minority. Exact percentages shift with placements and buy-ins; verify against the latest Bursa Malaysia / SGX disclosures before citing a number."
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
 ---
 
 Walk into a Pantai or Gleneagles hospital in Kuala Lumpur, a Mount Elizabeth ward in Singapore, an Acibadem clinic in Istanbul or a Fortis centre in Delhi, and you are stepping into the same corporate family. That family is IHH Healthcare Berhad — a Malaysia-headquartered company that has grown into one of the largest private hospital operators in the world.

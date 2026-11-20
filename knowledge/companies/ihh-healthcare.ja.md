@@ -77,6 +77,14 @@ verificationNeeded:
   - "収益——2024年度（2024年12月31日に終了した会計年度）のグループ収益約RM244億、純利益約RM26.6億、IHH の決算リリースによる。新たな年次／四半期報告ごとに数字と基準を再確認する。"
   - "株主構成——三井物産は（MBK Healthcare Management を通じて）約32～33%を、Khazanah Nasional が相当規模の少数持分を保有するとされる。正確な比率は売り出しや買い増しとともに変わる；数字を引用する前に最新の Bursa Malaysia／SGX 開示に照らして検証する。"
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
 ---
 
 クアラルンプールの Pantai や Gleneagles の病院、シンガポールの Mount Elizabeth の病棟、イスタンブールの Acibadem のクリニック、あるいはデリーの Fortis のセンターに足を踏み入れると、同じ企業ファミリーに入ることになる。そのファミリーが IHH Healthcare Berhad——マレーシアに本社を置き、世界最大級の民間病院運営会社のひとつへと成長した会社——である。

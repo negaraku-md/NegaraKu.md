@@ -77,6 +77,14 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "ताड़ तेल मलेशिया", "ओलियोकेमिकल्स", "RSPO", "बागान कंपनी", "palm oil Malaysia", "oleochemicals", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'The curved glass-and-metal main entrance of IOI City Mall with the red ''ioiCITYMALL'' signage above the doors, flanked by tall mirrored office towers under a dramatic cloudy sky'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
 ---
 
 एक कंपनी जिसने अपनी शुरुआत औद्योगिक गैसें बेचकर की, अब इतना ताड़ उगाती है कि एक छोटे ज़िले के आकार का भूमि-भंडार भर जाए — और उस फल को खाना पकाने के तेल से लेकर आपके साबुन के अंदर के वसीय अम्लों तक हर चीज़ में बदल देती है।

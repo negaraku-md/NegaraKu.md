@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 मलेशियाई खेत पर फैलाए गए उर्वरक का लगभग हर बोरा, और देश की फ़ैक्ट्रियों में ढाले गए प्लास्टिक रेज़िन का एक बड़ा हिस्सा, एक कंपनी तक जाता है: Petronas Chemicals Group Berhad। यह राष्ट्रीय तेल कंपनी की रसायन शाखा है, मलेशिया की सबसे बड़ी एकीकृत रसायन उत्पादक, और — एक राज्य-जुड़े व्यवसाय के लिए असामान्य रूप से — एक अलग से सूचीबद्ध कंपनी जिसमें कोई भी शेयर खरीद सकता है।

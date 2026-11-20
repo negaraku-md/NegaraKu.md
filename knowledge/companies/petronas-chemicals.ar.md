@@ -82,6 +82,14 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
 ---
 
 تكاد كل كيس أسمدة يُنثر على مزرعة ماليزية، وحصة كبيرة من راتنجات البلاستيك المصبوبة في مصانع البلاد، تعود إلى شركة واحدة: مجموعة بتروناس للكيماويات برهاد (Petronas Chemicals Group Berhad). فهي ذراع الكيماويات لشركة النفط الوطنية، وأكبر منتج متكامل للكيماويات في ماليزيا، و — على نحو غير معتاد لنشاط مرتبط بالدولة — شركة مدرجة على نحو منفصل يمكن لأي أحد شراء أسهمها.

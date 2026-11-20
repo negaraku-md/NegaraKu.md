@@ -68,6 +68,14 @@ relations:
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'The giant stone lion-head landmark and pyramid-shaped roof of Sunway Pyramid shopping mall, with high-rise towers marked SUNWAY rising behind under a cloudy sky'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
 ---
 
 Sunway Group நிலத்தை முழுமையான நகரங்களாக மாற்றுகிறது — ஒரே தலைமைத் திட்டத்தில் வீடுகள், வணிக வளாகங்கள், மருத்துவமனைகள், பல்கலைக்கழகங்கள் மற்றும் கருப்பொருள் பூங்காக்கள் — பின்னர் தான் கட்டியதைத் தொடர்ந்து இயக்குகிறது.
