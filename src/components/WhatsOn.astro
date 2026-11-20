@@ -124,11 +124,12 @@ const moveableLabel = L('Berubah setiap tahun', 'Moves each year', '逐年变动
   .wo-month.is-now .wo-mname { color: var(--gold); }
   .wo-chips { display: flex; flex-wrap: wrap; gap: 0.35rem; }
   .wo-chip {
-    display: inline-block; padding: 0.25rem 0.6rem; border-radius: 999px;
+    display: inline-block; padding: 0.3rem 0.65rem; border-radius: 10px;
     background: var(--surface-2); border: 1px solid var(--line); color: var(--ink);
-    font-size: 0.8rem; text-decoration: none; line-height: 1.3; transition: border-color 0.15s, color 0.15s;
+    font-size: 0.8rem; text-decoration: none; line-height: 1.3;
+    transition: border-color 0.15s, color 0.15s, background-color 0.15s;
   }
-  .wo-chip:hover { border-color: var(--gold); color: var(--gold); }
+  .wo-chip:hover { border-color: var(--gold); color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, var(--surface-2)); }
   .wo-moveable { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-top: 0.2rem; }
   .wo-mv-label { font-size: 0.8rem; font-weight: 700; color: var(--muted); }
   .wo-chip-mv { background: color-mix(in srgb, var(--gold) 7%, var(--surface-2)); }
