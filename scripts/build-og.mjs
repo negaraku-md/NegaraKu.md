@@ -169,7 +169,12 @@ function articleSvg(a) {
   // per-script fonts cover Latin + digits too, so a mixed CJK+Latin summary
   // renders entirely from one font with NO fallback (deterministic). Latin
   // languages keep the Lato stack unchanged.
-  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+  // Chain ALL regional CJK variants: the Debian fonts-noto-cjk OTC sometimes
+  // exposes some regional families to fontconfig/librsvg but not others (the
+  // Korean 'KR' regular was rendering as tofu boxes while the bold title fell
+  // back fine). All four share the full CJK+Hangul+Kana glyph set, so whichever
+  // variant actually resolves renders the text — no more per-script tofu.
+  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Noto Sans CJK KR'", ja: "'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK KR'", ko: "'Noto Sans CJK KR', 'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
   const bodyFont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + BODY_FONT;
   const pillarId = CAT_PILLAR[a.category];
   // Breadcrumb: pillar / category / subcategory — localized from the real taxonomy.
@@ -258,7 +263,7 @@ function photoOverlaySvg(a) {
     pillarId && loc(NAMES[pillarId], lang),
     loc(NAMES[a.category], lang) || titleCase(a.category),
   ].filter(Boolean).join('  ·  ');
-  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Noto Sans CJK KR'", ja: "'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK KR'", ko: "'Noto Sans CJK KR', 'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
   const tfont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + TITLE_FONT;
   const bfont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + BODY_FONT;
   const tLines = wrapText(a.title || '', { maxLatin: 30, maxCjk: 15, maxLines: 2 });
