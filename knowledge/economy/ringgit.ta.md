@@ -67,6 +67,14 @@ faq:
   - q: எனது வங்கி அல்லது பணமாற்றுநர் தரும் விகிதம் ஏன் BNM வெளியிட்ட விகிதத்தைவிட மோசமாக உள்ளது?
     a: ஏனெனில் BNM-இன் KL USD/MYR குறிப்பு விகிதம் என்பது வங்கிகளுக்கிடையேயான சந்தையிலிருந்து கணக்கிடப்படும் சந்தை அளவுகோல், ஒப்பந்தங்களுக்கும் மதிப்பீட்டுக்கும் பயன்படுகிறது — சில்லறை விலை அல்ல. வங்கிகளும் பணமாற்றுநர்களும் தங்கள் சொந்த விலை இடைவெளியை (spread) அதன் மேல் சேர்க்கின்றனர், எனவே நீங்கள் எப்போதும் குறிப்பு விகிதத்தைவிட மோசமான விகிதத்திலேயே பரிவர்த்தனை செய்வீர்கள். 2026 அக்டோபர் 23 நிலவரப்படி குறிப்பு விகிதம் 4.0841 ஆக இருந்தது, ஆனால் அது அளவுகோல், வாடிக்கையாளர் கவுண்டரில் உண்மையில் செலுத்துவது அல்ல.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## ஒரு பார்வையில்

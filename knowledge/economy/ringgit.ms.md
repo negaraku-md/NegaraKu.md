@@ -67,6 +67,14 @@ faq:
   - q: Mengapa kadar yang diberikan oleh bank atau pengurup wang saya lebih buruk daripada kadar yang diterbitkan BNM?
     a: Kerana kadar rujukan USD/MYR KL BNM ialah penanda aras pasaran yang dikira daripada pasaran antara bank, digunakan untuk kontrak dan penilaian — bukan harga runcit. Bank dan pengurup wang menambah spread mereka sendiri di atasnya, jadi anda akan sentiasa berurus niaga pada kadar yang lebih buruk daripada rujukan. Kadar rujukan ialah 4.0841 pada 23 Oktober 2026, tetapi itu penanda aras, bukan apa yang pelanggan sebenarnya bayar di kaunter.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## Sekilas pandang

@@ -67,6 +67,14 @@ faq:
   - q: 왜 내 은행이나 환전상이 주는 환율은 BNM이 공표한 환율보다 나쁜가?
     a: BNM의 KL USD/MYR 기준환율은 은행 간 시장에서 산출되는 시장 벤치마크로, 계약과 평가에 쓰이는 것이지 — 소매 가격이 아니기 때문이다. 은행과 환전상은 그 위에 자체 스프레드를 얹으므로, 당신은 항상 기준환율보다 나쁜 환율로 거래하게 된다. 기준환율은 2026년 10월 23일 기준 4.0841였으나, 그것은 벤치마크이지 고객이 창구에서 실제로 지불하는 금액이 아니다.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## 한눈에 보기

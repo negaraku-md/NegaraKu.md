@@ -92,6 +92,14 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: 'The slender blue-glass Exchange 106 supertall towering above a cluster of Tun Razak Exchange office buildings against a bright blue sky with white clouds'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
 ---
 
 Bước ra khỏi ga MRT Tun Razak Exchange và đường chân trời cho bạn biết rằng nơi này được quy hoạch, chứ không phải mọc lên tự nhiên. Một cụm tháp trên 70 mẫu Anh ở rìa phía đông trung tâm Kuala Lumpur, một trong số đó vượt quá 450 mét, được bố trí quanh một công viên nằm trên mái của một trung tâm thương mại. Đây là nỗ lực của Malaysia nhằm xây dựng một khu tài chính từ con số không.

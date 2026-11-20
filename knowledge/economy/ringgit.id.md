@@ -67,6 +67,14 @@ faq:
   - q: Mengapa kurs yang diberikan bank atau penukar uang saya lebih buruk daripada kurs yang diterbitkan BNM?
     a: Karena kurs rujukan USD/MYR KL dari BNM adalah tolok ukur pasar yang dihitung dari pasar antarbank, digunakan untuk kontrak dan penilaian — bukan harga eceran. Bank dan penukar uang menambahkan spread mereka sendiri di atasnya, sehingga Anda akan selalu bertransaksi pada kurs yang lebih buruk daripada kurs rujukan. Kurs rujukan adalah 4.0841 per 23 Oktober 2026, tetapi itu tolok ukur, bukan yang sebenarnya dibayar pelanggan di konter.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## Sekilas pandang

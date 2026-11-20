@@ -67,6 +67,14 @@ faq:
   - q: لماذا يكون السعر الذي يمنحني إياه مصرفي أو صرّاف العملة أسوأ من السعر الذي ينشره البنك المركزي الماليزي (BNM)؟
     a: لأن سعر BNM المرجعي لـ USD/MYR في كوالالمبور هو مؤشر سوقي يُحسب من سوق ما بين المصارف، ويُستخدم للعقود والتقييم — وليس سعرًا للتجزئة. فتضيف المصارف وصرّافو العملة هامشهم الخاص فوقه، لذا ستتعامل دائمًا بسعر أسوأ من السعر المرجعي. وكان السعر المرجعي 4.0841 كما في 23 أكتوبر 2026، لكن ذلك هو المؤشر، وليس ما يدفعه العميل فعليًا عند الشباك.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## لمحة سريعة

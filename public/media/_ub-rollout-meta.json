@@ -2110,5 +2110,449 @@
         "kb": 146
       }
     ]
+  },
+  "economy/bank-negara-malaysia": {
+    "hero": {
+      "file": "/media/economy/bank-negara-malaysia/hero.webp",
+      "credit": "Wee Hong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-0916).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato' Onn, Kuala Lumpur",
+      "alt": "The main entrance canopy of the Bank Negara Malaysia headquarters bearing the gold BANK NEGARA MALAYSIA lettering and kijang emblem, flanked by a row of Malaysian state flags and tall fan palms",
+      "kb": 174
+    },
+    "body": [
+      {
+        "file": "/media/economy/bank-negara-malaysia/body-1.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The tiered concrete tower of the Bank Negara Malaysia headquarters seen across parkland, central Kuala Lumpur",
+        "alt": "The horizontally banded grey concrete tower of the Bank Negara Malaysia headquarters topped by the blue kijang emblem, rising above green parkland against a mottled blue sky with the Kuala Lumpur skyline behind",
+        "kb": 172
+      },
+      {
+        "file": "/media/economy/bank-negara-malaysia/body-2.webp",
+        "credit": "Vano111ru / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Museum and Art Gallery of Bank Negara Malaysia, part of the Sasana Kijang complex, Kuala Lumpur",
+        "alt": "The angular dark-glass and metal facade of the Bank Negara Malaysia Museum and Art Gallery, its sharp geometric cladding projecting over a landscaped entrance",
+        "kb": 152
+      }
+    ]
+  },
+  "economy/bursa-malaysia": {
+    "hero": {
+      "file": "/media/economy/bursa-malaysia/hero.webp",
+      "credit": "Travelpleb / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light",
+      "alt": "The columned post-modern Exchange Square tower that houses Bursa Malaysia, its tan stone facade and twin pedimented crowns lit warm gold by the setting sun, framed by dark tree foliage",
+      "kb": 171
+    },
+    "body": [
+      {
+        "file": "/media/economy/bursa-malaysia/body-1.webp",
+        "credit": "Philip Nalangan / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Exchange Square building, home of Bursa Malaysia, Kuala Lumpur",
+        "alt": "Upward view of the Exchange Square building's tall fluted stone columns and neo-classical crown rising against a pale sky, with fan palms at its base",
+        "kb": 137
+      },
+      {
+        "file": "/media/economy/bursa-malaysia/body-2.webp",
+        "credit": "StagiaireMGIMO / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Elevated view of the Bursa Malaysia Exchange Square building amid greenery, Bukit Kewangan, Kuala Lumpur",
+        "alt": "The red-roofed, columned Exchange Square building housing Bursa Malaysia seen across tree canopy from above, its approach ramp and forecourt visible below",
+        "kb": 166
+      }
+    ]
+  },
+  "business/doing-business-ipoh-perak": {
+    "hero": {
+      "file": "/media/business/doing-business-ipoh-perak/hero.webp",
+      "credit": "HundenvonPenang / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind",
+      "alt": "Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky",
+      "kb": 172
+    },
+    "body": [
+      {
+        "file": "/media/business/doing-business-ipoh-perak/body-1.webp",
+        "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ipoh railway station, Perak — the colonial-era domed landmark building on its forecourt",
+        "alt": "The white colonial Ipoh railway station building with domes and arched arcades, seen across its paved forecourt under a blue sky",
+        "kb": 170
+      },
+      {
+        "file": "/media/business/doing-business-ipoh-perak/body-2.webp",
+        "credit": "Marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ipoh town commercial core, Perak — dense shophouse and office blocks with a glass office tower and limestone hills behind",
+        "alt": "Elevated view over Ipoh's commercial town core packed with shophouses and office blocks, with a glass office tower and limestone hills in the background",
+        "kb": 121
+      }
+    ]
+  },
+  "business/doing-business-johor-bahru": {
+    "hero": {
+      "file": "/media/business/doing-business-johor-bahru/hero.webp",
+      "credit": "ペウゲオト / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait",
+      "alt": "The Johor Bahru city skyline of office and bank towers seen across the Johor Strait, with the Causeway water pipeline running along the waterfront",
+      "kb": 73
+    },
+    "body": [
+      {
+        "file": "/media/business/doing-business-johor-bahru/body-1.webp",
+        "credit": "ZKang123 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The traffic-packed Johor-Singapore Causeway crossing the strait beside Johor Bahru city, the daily gateway linking JB to Singapore",
+        "alt": "Elevated view of the Johor-Singapore Causeway busy with vehicles crossing the strait, with Johor Bahru city buildings and an 'I love Johor' sign on the Malaysian side",
+        "kb": 177
+      },
+      {
+        "file": "/media/business/doing-business-johor-bahru/body-2.webp",
+        "credit": "Paul Ng from Malaysia / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wide panorama of the Johor Bahru urban core — commercial high-rises and residential towers spread across the city",
+        "alt": "Wide panorama of the Johor Bahru cityscape with clusters of commercial and residential high-rise towers under a cloudy sky",
+        "kb": 152
+      }
+    ]
+  },
+  "business/doing-business-kuala-lumpur": {
+    "hero": {
+      "file": "/media/business/doing-business-kuala-lumpur/hero.webp",
+      "credit": "Wikimedia Commons (CC0)",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Aerial view of Kuala Lumpur's central business district packed with office towers, the Petronas Twin Towers at left",
+      "alt": "Dense cluster of Kuala Lumpur central business district office skyscrapers seen from above, with the Petronas Twin Towers rising at the left edge",
+      "kb": 143
+    },
+    "body": [
+      {
+        "file": "/media/business/doing-business-kuala-lumpur/body-1.webp",
+        "credit": "Suryasuharman / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Mercu UEM, a glass corporate office tower in the KL Sentral business district, with a monorail train passing in front",
+        "alt": "Sleek blue-glass Mercu UEM office tower in Kuala Lumpur with a red monorail train crossing an elevated track in the foreground under a bright sky",
+        "kb": 173
+      },
+      {
+        "file": "/media/business/doing-business-kuala-lumpur/body-2.webp",
+        "credit": "Ombrewan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "KL Sentral transport hub and the surrounding office-tower cluster of Kuala Lumpur's KL Sentral business district",
+        "alt": "The curved roof of KL Sentral station in the foreground ringed by office and hotel towers of the KL Sentral business district under a cloudy sky",
+        "kb": 178
+      }
+    ]
+  },
+  "business/doing-business-penang": {
+    "hero": {
+      "file": "/media/business/doing-business-penang/hero.webp",
+      "credit": "HundenvonPenang / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island's industrial engine",
+      "alt": "Aerial view of the Bayan Lepas Free Industrial Zone in Penang, with large factory and manufacturing buildings lined along a coastal highway beside the sea and hills behind",
+      "kb": 148
+    },
+    "body": [
+      {
+        "file": "/media/business/doing-business-penang/body-1.webp",
+        "credit": "HundenvonPenang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Penang Bridge carrying traffic across the channel between Penang Island and the mainland, the economic artery linking the island to the Seberang Perai industrial hub",
+        "alt": "Elevated view of the Penang Bridge spanning the channel with cars flowing in both directions, the mainland town and hills visible in the distance",
+        "kb": 108
+      },
+      {
+        "file": "/media/business/doing-business-penang/body-2.webp",
+        "credit": "LEE 003 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Komtar tower in George Town, Penang's tallest building and central commercial and government landmark",
+        "alt": "Low-angle view of the tall Komtar tower in George Town, Penang, rising above the commercial district against a bright blue sky",
+        "kb": 71
+      }
+    ]
+  },
+  "business/doing-business-sabah": {
+    "hero": {
+      "file": "/media/business/doing-business-sabah/hero.webp",
+      "credit": "Jason Thien / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay",
+      "alt": "Bright daytime view of downtown Kota Kinabalu with commercial office towers and shopping complexes beside a blue waterfront bay and islands",
+      "kb": 172
+    },
+    "body": [
+      {
+        "file": "/media/business/doing-business-sabah/body-1.webp",
+        "credit": "Negaraku / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kota Kinabalu city centre skyline viewed across the bay from the Sabah State Assembly building, Sabah",
+        "alt": "Malaysian state flags on poles in the foreground with the Kota Kinabalu city skyline rising across the bay under a bright blue sky",
+        "kb": 152
+      },
+      {
+        "file": "/media/business/doing-business-sabah/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sabah Ports headquarters at Sepanggar, Kota Kinabalu — the glass-fronted corporate port building",
+        "alt": "Modern glass-fronted Sabah Ports headquarters building behind palm trees, with a Sabah Ports sign at the gated entrance under a bright sky",
+        "kb": 172
+      }
+    ]
+  },
+  "business/doing-business-selangor": {
+    "hero": {
+      "file": "/media/business/doing-business-selangor/hero.webp",
+      "credit": "Hafiz343 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor's main commercial gateway",
+      "alt": "Rows of tall blue ship-to-shore gantry cranes loading a container vessel at Northport in Port Klang, with stacked shipping containers and a container truck on the wharf road",
+      "kb": 175
+    },
+    "body": [
+      {
+        "file": "/media/business/doing-business-selangor/body-1.webp",
+        "credit": "Countryball mys123 / Wikimedia Commons",
+        "license": "CC BY 1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wisma MBSA office tower and Dataran Shah Alam in the Selangor state capital's commercial and administrative core",
+        "alt": "The tall angular Wisma MBSA office tower beside the blue-domed Dataran Shah Alam building under a bright blue sky in Shah Alam, Selangor",
+        "kb": 177
+      },
+      {
+        "file": "/media/business/doing-business-selangor/body-2.webp",
+        "credit": "PulauKakatua19 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A commercial office block at Mentari Business Park in Bandar Sunway, part of Selangor's dense business-park belt",
+        "alt": "A multi-storey glass-and-white commercial office building with tall arched windows at Mentari Business Park in Selangor, viewed from the roadside",
+        "kb": 114
+      }
+    ]
+  },
+  "business/js-sez-guide": {
+    "hero": {
+      "file": "/media/business/js-sez-guide/hero.webp",
+      "credit": "Ellisdee021 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone",
+      "alt": "A sleek dark-glass corporate office tower in Medini, Iskandar Puteri, rising above a landscaped park walkway under a clear sky",
+      "kb": 154
+    },
+    "body": [
+      {
+        "file": "/media/business/js-sez-guide/body-1.webp",
+        "credit": "Jonashtand / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Forest City, the flagship cross-border development in Johor on the Johor Strait, with towers and villa blocks under construction facing the water toward Singapore",
+        "alt": "Aerial view of Forest City in Johor showing waterfront high-rise towers under construction and rows of white villa blocks along a reclaimed beach beside the strait",
+        "kb": 127
+      },
+      {
+        "file": "/media/business/js-sez-guide/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Iskandar Puteri gateway landmark sign with the zone's commercial towers and cranes rising on the skyline behind it",
+        "alt": "A large roadside 'Iskandar Puteri' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind",
+        "kb": 115
+      }
+    ]
+  },
+  "economy/ringgit": {
+    "hero": {
+      "file": "/media/economy/ringgit/hero.webp",
+      "credit": "Apitheart / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rm100-original.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman",
+      "alt": "The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress",
+      "kb": 176
+    },
+    "body": [
+      {
+        "file": "/media/economy/ringgit/body-1.webp",
+        "credit": "Chatsam / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Malaysian 10 sen coin, the ringgit's fractional coinage",
+        "alt": "Close-up of a silver-coloured Malaysian ten sen coin inscribed BANK NEGARA MALAYSIA with a large numeral 10, the word SEN, the year 2006 and a floral motif, resting on a grey surface",
+        "kb": 134
+      },
+      {
+        "file": "/media/economy/ringgit/body-2.webp",
+        "credit": "Encik Tekateki / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Malaysian ringgit banknote under ultraviolet light, revealing its hidden security design",
+        "alt": "A ringgit note photographed under ultraviolet light so that a glowing green wau (traditional kite) motif and hidden BNM security markings fluoresce against the darkened paper",
+        "kb": 154
+      }
+    ]
+  },
+  "business/sarawak-business-guide": {
+    "hero": {
+      "file": "/media/business/sarawak-business-guide/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind",
+      "alt": "The umbrella-roofed Sarawak State Legislative Assembly building on the bank of the Sarawak River, with a traditional boat on the water and a city office tower to the left",
+      "kb": 154
+    },
+    "body": [
+      {
+        "file": "/media/business/sarawak-business-guide/body-1.webp",
+        "credit": "Marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kuching city commercial street, Sarawak — the ornate Chinatown archway over a shophouse business street",
+        "alt": "Ornate Chinese archway spanning a Kuching city street lined with shophouses and businesses, with cars and a pedestrian beneath a blue sky",
+        "kb": 170
+      },
+      {
+        "file": "/media/business/sarawak-business-guide/body-2.webp",
+        "credit": "Ahmad Afif Isa / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bintulu LNG port, Sarawak — the industrial loading jetty with gas-loading arms and storage tanks on the coast",
+        "alt": "Aerial view of the Bintulu LNG port jetty with tall gas-loading arms, pipelines and mooring platforms over teal water, with storage tanks and cranes on the far shore",
+        "kb": 179
+      }
+    ]
+  },
+  "business/tun-razak-exchange-trx": {
+    "hero": {
+      "file": "/media/business/tun-razak-exchange-trx/hero.webp",
+      "credit": "Wikimedia Commons (CC0)",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur",
+      "alt": "The slender blue-glass Exchange 106 supertall towering above a cluster of Tun Razak Exchange office buildings against a bright blue sky with white clouds",
+      "kb": 164
+    },
+    "body": [
+      {
+        "file": "/media/business/tun-razak-exchange-trx/body-1.webp",
+        "credit": "Wikimedia Commons (CC0)",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Close detail of the completed Exchange 106 tower, the TRX supertall, with the Affin Bank HQ to its right",
+        "alt": "Full-height view of the Exchange 106 supertall tower with its faceted silver crown, flanked by lower TRX office towers including the Affin building under a blue sky",
+        "kb": 178
+      },
+      {
+        "file": "/media/business/tun-razak-exchange-trx/body-2.webp",
+        "credit": "Renek78 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Street-level plaza and public art within the Tun Razak Exchange financial-district precinct, ringed by glass office towers",
+        "alt": "A paved pedestrian plaza in the Tun Razak Exchange precinct with a stainless-steel-and-gold sculpture at left and reflective glass office towers rising behind",
+        "kb": 169
+      }
+    ]
   }
 }

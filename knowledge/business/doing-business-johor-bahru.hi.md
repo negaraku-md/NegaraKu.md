@@ -124,6 +124,14 @@ keywords:
   - "doing business in Johor Bahru"
   - "MBJB business licence"
 framework: profile
+hero: '/media/business/doing-business-johor-bahru/hero.webp'
+heroAlt: 'The Johor Bahru city skyline of office and bank towers seen across the Johor Strait, with the Causeway water pipeline running along the waterfront'
+heroCredit: 'ペウゲオト / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
 ---
 
 जोहोर बहरू एकमात्र मलेशियाई नगर है जिसकी मज़दूरी-तलहटी, कर्मचारी-योजना और वितरण-खिड़की सब

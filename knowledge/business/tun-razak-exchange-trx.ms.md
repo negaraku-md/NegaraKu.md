@@ -92,6 +92,14 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: 'The slender blue-glass Exchange 106 supertall towering above a cluster of Tun Razak Exchange office buildings against a bright blue sky with white clouds'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
 ---
 
 Keluar dari stesen MRT Tun Razak Exchange dan kaki langit memberitahu anda bahawa ini dirancang, bukan tumbuh begitu sahaja. Sekelompok menara di atas 70 ekar di pinggir timur pusat Kuala Lumpur, salah satunya menjulang melepasi 450 meter, disusun mengelilingi sebuah taman yang terletak di bumbung sebuah pusat beli-belah. Inilah percubaan Malaysia untuk membina sebuah daerah kewangan dari awal.

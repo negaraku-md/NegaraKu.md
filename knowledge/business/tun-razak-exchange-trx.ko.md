@@ -92,6 +92,14 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: 'The slender blue-glass Exchange 106 supertall towering above a cluster of Tun Razak Exchange office buildings against a bright blue sky with white clouds'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
 ---
 
 툰 라작 익스체인지 MRT역에서 올라오면 스카이라인이 이곳이 자라난 것이 아니라 계획되었음을 말해 줍니다. 쿠알라룸푸르 중심부 동쪽 가장자리의 70에이커 위에 늘어선 타워 군(群), 그중 하나는 450미터를 넘어서며, 몰의 지붕 위에 놓인 공원을 중심으로 배치되어 있습니다. 이것은 금융지구를 처음부터 세우려는 말레이시아의 시도입니다.

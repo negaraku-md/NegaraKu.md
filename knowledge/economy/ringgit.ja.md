@@ -66,6 +66,14 @@ faq:
   - q: なぜ私の銀行や両替商が提示するレートはBNMが公表するレートより悪いのか？
     a: BNMのKL USD/MYR参照レートは、銀行間市場から算出される市場ベンチマークであり、契約や評価に用いられるもので——小売価格ではないからです。銀行や両替商はその上に独自のスプレッドを上乗せするため、あなたは常に参照レートより悪いレートで取引することになります。参照レートは2026年10月23日時点で4.0841でしたが、それはベンチマークであって、顧客が窓口で実際に支払う金額ではありません。
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## 概要

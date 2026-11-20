@@ -67,6 +67,14 @@ faq:
   - q: 为什么我的银行或货币兑换商给我的汇率比 BNM 公布的汇率差？
     a: 因为 BNM 的吉隆坡 USD/MYR 参考汇率是根据银行同业市场计算出的市场基准，用于合约和估值——而非零售价格。银行和货币兑换商会在其之上加上各自的价差，所以你交易时所得的汇率总会比参考汇率差。截至2026年10月23日，参考汇率为 4.0841，但那是基准，并非客户在柜台实际支付的价格。
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## 一览

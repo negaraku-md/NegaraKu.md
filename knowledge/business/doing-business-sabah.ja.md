@@ -124,6 +124,14 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'Bright daytime view of downtown Kota Kinabalu with commercial office towers and shopping complexes beside a blue waterfront bay and islands'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
 ---
 
 マレーシアでのビジネスに関する全国的なガイドのほぼすべてが、サバについて誤っており、しかも毎回同じ誤り方をしている——SSMがあなたの企業を登録し、1976年地方政府法（Local Government Act 1976）があなたの営業場所に発行し、走廊主管機関が連邦の法定機関であると想定しているのである。南シナ海の東側では、この三つのどれも真実ではない。

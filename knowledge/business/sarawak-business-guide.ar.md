@@ -113,6 +113,14 @@ keywords:
   - "Samalaju Industrial Park"
   - "الأعمال في ساراواك"
 framework: explainer
+hero: '/media/business/sarawak-business-guide/hero.webp'
+heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building on the bank of the Sarawak River, with a traditional boat on the water and a city office tower to the left'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
 ---
 
 ابدأ برقم يخبرك بأي نوع من الأماكن هذا. تدير ساراواك **سلسلتَي ترقيم أبواب متوازيتين**، وكلتاهما نافذتان. فالباب 64 من طبعة 1958 هو مرسوم أسماء الأعمال (Business Names Ordinance). والباب 64 من السلسلة الحالية هو **مرسوم هيئات تنمية الكوريدورات الإقليمية لسنة 2006 (Regional Corridors Development Authorities Ordinance 2006)** — القانون وراء SCORE.

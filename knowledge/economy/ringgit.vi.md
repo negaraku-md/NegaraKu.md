@@ -67,6 +67,14 @@ faq:
   - q: Vì sao tỷ giá mà ngân hàng hay quầy đổi tiền của tôi đưa ra lại tệ hơn tỷ giá BNM công bố?
     a: Bởi vì tỷ giá tham chiếu USD/MYR tại KL của BNM là một chuẩn mực thị trường được tính từ thị trường liên ngân hàng, dùng cho hợp đồng và định giá — không phải giá bán lẻ. Ngân hàng và quầy đổi tiền cộng thêm phần chênh lệch (spread) riêng của họ lên trên, nên bạn luôn giao dịch ở mức tệ hơn tỷ giá tham chiếu. Tỷ giá tham chiếu là 4.0841 tính đến ngày 23 tháng 10 năm 2026, nhưng đó là chuẩn mực, không phải cái mà khách hàng thực sự trả tại quầy.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## Tổng quan nhanh

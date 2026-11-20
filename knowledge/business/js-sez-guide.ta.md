@@ -103,6 +103,14 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'A sleek dark-glass corporate office tower in Medini, Iskandar Puteri, rising above a landscaped park walkway under a clear sky'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
 ---
 
 ஜொகூர்-சிங்கப்பூர் சிறப்புப் பொருளாதார மண்டலம் குறித்த ஒவ்வொரு சுருக்கமும் அதே எண்ணிக்கையுடன் தொடங்குகிறது: 15 ஆண்டுகளுக்கு 5 சதவீதம். இது ஒரு உண்மையான எண். ஆனால் இது தொகுப்பிலேயே மிகக் குறைந்த பயனுள்ள செய்தியும் கூட, ஏனெனில் அதைப் படிக்கும் கிட்டத்தட்ட யாருமே தகுதி பெறமாட்டார்கள்.

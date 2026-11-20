@@ -99,6 +99,14 @@ keywords:
   - "KDNK Perak"
   - "kos berniaga di Ipoh"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
 ---
 
 Halaman ini sengaja dibuat pendek. Rezim hukum Perak sama seperti Selangor, dewan-dewannya menerbitkan sedikit informasi, dan cerita sebenarnya Perak muat dalam delapan ratus kata dibandingkan dua ribu. Apa yang benar-benar lokal adalah struktur biaya — dan berapa biaya itu bagi Anda.

@@ -127,6 +127,14 @@ keywords:
   - "doing business in Sabah"
   - "Trades Licensing Ordinance Sabah Cap 144"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'Bright daytime view of downtown Kota Kinabalu with commercial office towers and shopping complexes beside a blue waterfront bay and islands'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
 ---
 
 मलेशिया में व्यापार करने के लगभग हर राष्ट्रीय गाइड सबाह के बारे में गलत हैं, और हर बार

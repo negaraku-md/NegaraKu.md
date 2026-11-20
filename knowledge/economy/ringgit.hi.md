@@ -67,6 +67,14 @@ faq:
   - q: मेरा बैंक या मुद्रा विनिमयकर्ता मुझे जो दर देता है वह BNM द्वारा प्रकाशित दर से खराब क्यों होती है?
     a: क्योंकि BNM की केएल USD/MYR संदर्भ दर एक बाजार मानक है जो अंतर-बैंक बाजार से गणना की जाती है, और अनुबंधों व मूल्यांकन के लिए उपयोग होती है — यह खुदरा मूल्य नहीं है। बैंक और मुद्रा विनिमयकर्ता उसके ऊपर अपना स्वयं का स्प्रेड जोड़ते हैं, इसलिए आप हमेशा संदर्भ दर से खराब दर पर ही लेनदेन करेंगे। 23 अक्टूबर 2026 तक संदर्भ दर 4.0841 थी, पर वह मानक है, न कि जो ग्राहक वास्तव में काउंटर पर चुकाता है।
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## एक नज़र में

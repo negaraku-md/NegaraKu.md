@@ -109,6 +109,14 @@ keywords:
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
 framework: profile
+hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
+heroAlt: 'Dense cluster of Kuala Lumpur central business district office skyscrapers seen from above, with the Petronas Twin Towers rising at the left edge'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
 ---
 
 쿠알라룸푸르(Kuala Lumpur)는 말레이시아에서 면허 수수료를 연방 관보에서 직접 읽어 낼 수

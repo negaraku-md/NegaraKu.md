@@ -67,6 +67,14 @@ faq:
   - q: ¿Por qué la tasa que me da mi banco o mi casa de cambio es peor que la tasa publicada por el BNM?
     a: Porque la tasa de referencia USD/MYR de KL del BNM es un punto de referencia de mercado calculado a partir del mercado interbancario, usado para contratos y valoración — no es un precio minorista. Los bancos y las casas de cambio añaden su propio diferencial (spread) por encima, de modo que siempre operarás a una tasa peor que la de referencia. La tasa de referencia era 4.0841 al 23 de octubre de 2026, pero eso es el punto de referencia, no lo que un cliente paga realmente en el mostrador.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
 ---
 
 ## De un vistazo

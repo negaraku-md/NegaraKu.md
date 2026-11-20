@@ -103,6 +103,14 @@ keywords:
   - "MIDA JS-SEZ आवेदन"
   - "JS-SEZ tax incentive"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'A sleek dark-glass corporate office tower in Medini, Iskandar Puteri, rising above a landscaped park walkway under a clear sky'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
 ---
 
 जोहोर-सिंगापुर विशेष आर्थिक क्षेत्र का हर सारांश एक ही संख्या से शुरू होता है: 15 वर्षों के लिए 5

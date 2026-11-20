@@ -98,6 +98,14 @@ keywords:
   - "Perak GDP"
   - "Ipoh cost of doing business"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
 ---
 
 นี่เป็นหน้าที่สั้นโดยตั้งใจ ระบบกฎหมายของเปรักเหมือนกับของเซอลาโงร์ สภาท้องถิ่นของมันเผยแพร่น้อย และเรื่องราวเปรักที่ซื่อตรงพอดีในแปดร้อยคำมากกว่าสองพันคำ สิ่งที่เป็นเรื่องท้องถิ่นจริง ๆ คือโครงสร้างต้นทุน — และสิ่งที่มันมีค่าใช้จ่ายแก่คุณ

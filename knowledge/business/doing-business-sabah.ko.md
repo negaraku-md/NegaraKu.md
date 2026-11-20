@@ -125,6 +125,14 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'Bright daytime view of downtown Kota Kinabalu with commercial office towers and shopping complexes beside a blue waterfront bay and islands'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
 ---
 
 말레이시아에서 사업하기에 관한 거의 모든 전국 안내서는 사바에 대해 틀리며, 매번 같은 방식으로 틀립니다: SSM이 당신의 기업을 등록해 주고, 지방정부법 1976(Local Government Act 1976)이 당신의 사업장을 인허가하며, 회랑 당국이 연방 법정 기관이라고 가정하는 것입니다. 남중국해 동쪽에서는 이 셋 중 어느 것도 사실이 아닙니다.
