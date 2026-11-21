@@ -104,6 +104,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 في كل مرة تقود فيها من Bukit Kayu Hitam في الشمال إلى Johor Bahru في الجنوب من دون التوقف عند إشارة مرور، تكون في الواقع تسير على أصول شركة واحدة: PLUS Malaysia Berhad. وهي ليست جهة حكومية، لكنها ليست شركة خاصة عادية أيضًا — بل صاحبة امتياز تشغّل العمود الفقري لطرق الأمة بموجب اتفاق طويل الأمد مع الحكومة.

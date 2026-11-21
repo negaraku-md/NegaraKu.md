@@ -49,6 +49,7 @@ relations:
 related: ["sdn-bhd", "companies-act-2016", "register-sdn-bhd"]
 keywords: ["رأس المال المدفوع ماليزيا", "modal berbayar", "paid-up capital Malaysia", "رأس مال الأسهم Sdn Bhd", "رسملة الشركة"]
 framework: explainer
+wikidata: "Q7124665"
 ---
 
 **Bahasa Malaysia:** Modal Berbayar · **English:** Paid-up Capital · **中文:** 实缴资本

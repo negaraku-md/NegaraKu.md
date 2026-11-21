@@ -126,6 +126,7 @@ images:
     credit: European Coal and Steel Community / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Di sebalik hampir setiap bangunan, jambatan dan lebuh raya di Malaysia terdapat industri yang lebih senyap yang membuat logam yang menyokong semuanya. Besi dan keluli jarang menjadi tajuk utama seperti semikonduktor atau minyak sawit, namun ia asasi: bar tetulang di dalam tiang konkrit, dawai dalam kabel, kepingan dalam pintu kereta. Malaysia membuat banyak daripadanya sendiri — dan, dalam beberapa logam, benar-benar bertaraf dunia. Tetapi belahan keluli dalam kisah ini juga ialah salah satu sektor pembuatan negara yang paling bermasalah, ditakrifkan oleh ketidakpadanan degil antara berapa banyak yang mampu dikeluarkannya dan berapa banyak yang sebenarnya diperlukan pasaran.

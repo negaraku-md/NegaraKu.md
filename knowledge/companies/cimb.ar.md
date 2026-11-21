@@ -109,6 +109,7 @@ images:
     credit: Chongkian / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 سي آي إم بي هو البنك الذي تصادفه في كل مكان تقريبًا في التجارة الماليزية — وعلى نحو متزايد عبر جنوب شرق آسيا. وهو بنك شامل، أي يفعل كل شيء من حساب توفير لعاملٍ براتب إلى إصدارات سندات بمليارات الرينغيت واستحواذات عابرة للحدود، ويفعل ذلك لا في ماليزيا وحدها بل عبر عمليات كبيرة في إندونيسيا وتايلاند وسنغافورة.

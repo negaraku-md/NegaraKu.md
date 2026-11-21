@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 कम ही मलेशियाई कंपनियाँ किसी एक संस्थापक से इतनी निकटता से जुड़ी हैं जितना Public Bank, Tan Sri Teh Hong Piow से। 1966 में मध्य Kuala Lumpur में एक शाखा से आरंभ कर, उन्होंने एक ऐसा ऋणदाता खड़ा किया जो देश के सबसे बड़े बैंकिंग समूहों में से एक बन गया — और जो आकार से कम तथा सावधानी के लिए अधिक प्रसिद्ध है, दशक-दर-दशक बैंकिंग क्षेत्र का सबसे निम्न बुरे-ऋण अनुपात दर्ज करते हुए।

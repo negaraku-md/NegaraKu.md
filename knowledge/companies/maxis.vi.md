@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Gần như mọi người Malaysia có điện thoại đều, vào một thời điểm nào đó, từng là khách hàng của Maxis hay Hotlink. Đằng sau hai thương hiệu quen thuộc đó là một công ty duy nhất — Maxis Berhad — nằm trong số các nhà khai thác viễn thông lớn nhất của đất nước và đã phát triển từ một nhà mạng chỉ cung cấp di động thành một nhà cung cấp hội tụ về di động, băng rộng gia đình và kết nối doanh nghiệp.

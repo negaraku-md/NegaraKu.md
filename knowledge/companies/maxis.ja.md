@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 電話をもつほとんどすべてのマレーシア人は、どこかの時点で Maxis か Hotlink の顧客であったことがある。その二つのよく知られたブランドの背後には一つの会社——Maxis Berhad——があり、同国最大級の通信事業者に数えられ、モバイル専業の通信会社から、モバイル、家庭向けブロードバンド、法人向け接続を提供する統合型プロバイダーへと成長してきた。

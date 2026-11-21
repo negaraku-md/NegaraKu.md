@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 マレーシアのほとんどすべての光ファイバーのブロードバンド回線、企業回線、海底データケーブルは、誰かに届く前にひとつの会社を経由する。Telekom Malaysia Berhad（TM）は国の既存事業者である——同国の固定網の大部分を築き、競合や国際キャリアが依存する基幹をいまなお所有する事業者である。

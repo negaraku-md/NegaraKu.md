@@ -105,6 +105,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 Malaysia's biggest telecoms story is not a single network but a holding company that owns pieces of mobile operators in six countries. Axiata Group Berhad sits in an office tower at Kuala Lumpur Sentral and controls, part-owns or jointly runs the carriers that connect hundreds of millions of people across South and Southeast Asia.

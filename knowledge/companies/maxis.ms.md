@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Hampir setiap rakyat Malaysia yang memiliki telefon pernah, pada satu masa, menjadi pelanggan Maxis atau Hotlink. Di sebalik dua jenama yang biasa itu terletak satu syarikat — Maxis Berhad — yang berada dalam kalangan pengendali telekomunikasi terbesar negara ini dan telah berkembang daripada pembawa mudah alih sahaja menjadi penyedia bersepadu mudah alih, jalur lebar rumah dan ketersambungan perusahaan.

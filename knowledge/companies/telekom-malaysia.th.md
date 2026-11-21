@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 สายบรอดแบนด์ไฟเบอร์ วงจรองค์กร และเคเบิลข้อมูลใต้ทะเลเกือบทุกเส้นในมาเลเซียแตะต้องบริษัทหนึ่งก่อนจะไปถึงใครก็ตาม Telekom Malaysia Berhad (TM) เป็นรายเดิมแห่งชาติ — ผู้ให้บริการที่สร้างเครือข่ายพื้นฐานส่วนใหญ่ของประเทศและยังคงเป็นเจ้าของโครงข่ายหลักที่คู่แข่งและผู้ให้บริการระหว่างประเทศพึ่งพา

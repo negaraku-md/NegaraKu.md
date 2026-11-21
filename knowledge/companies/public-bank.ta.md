@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Public Bank, Tan Sri Teh Hong Piow-உடன் எவ்வளவு நெருக்கமாகப் பிணைக்கப்பட்டுள்ளதோ அவ்வளவு ஒரே நிறுவனருடன் பிணைக்கப்பட்ட மலேசிய நிறுவனங்கள் மிகச் சில. 1966-இல் மத்திய Kuala Lumpur-இல் ஒரே கிளையுடன் தொடங்கி, அவர் நாட்டின் மிகப்பெரிய வங்கிக் குழுமங்களில் ஒன்றாக வளர்ந்த ஒரு கடன்தரரைக் கட்டினார் — அளவுக்காக அல்ல, மாறாகக் கவனத்திற்காக, தசாப்தத்திற்குப் பின் தசாப்தமாக வங்கித் துறையின் மிகக் குறைந்த மோசமான கடன் விகிதங்களைப் பதிவு செய்ததற்காகப் பிரபலமானவர்.

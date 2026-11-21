@@ -126,6 +126,7 @@ images:
     credit: European Coal and Steel Community / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 말레이시아의 거의 모든 건물·다리·고속도로 뒤에는, 그 모든 것을 떠받치는 금속을 만드는 더 조용한 산업이 있습니다. 철과 철강은 반도체나 팜유처럼 머리기사를 장식하는 일이 드물지만 토대적입니다. 콘크리트 기둥 속의 철근, 케이블 속의 선재, 자동차 문짝의 시트가 그렇습니다. 말레이시아는 이 가운데 상당량을 스스로 만들며 — 몇몇 금속에서는 진정 세계 정상급입니다. 그러나 이야기의 철강 쪽 절반은 이 나라에서 가장 골치 아픈 제조 부문 중 하나이기도 한데, 생산할 수 있는 양과 시장이 실제로 필요로 하는 양 사이의 고질적 불일치로 규정됩니다.

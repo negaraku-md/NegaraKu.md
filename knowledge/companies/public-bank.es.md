@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Pocas empresas malasias están tan estrechamente ligadas a un solo fundador como lo está Public Bank a Tan Sri Teh Hong Piow. Empezando con una sucursal en el centro de Kuala Lumpur en 1966, construyó un prestamista que creció hasta convertirse en uno de los mayores grupos bancarios del país — y uno famoso menos por su tamaño que por su prudencia, al registrar los menores ratios de préstamos morosos del sector bancario década tras década.

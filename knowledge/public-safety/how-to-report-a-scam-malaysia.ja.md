@@ -108,6 +108,7 @@ relations:
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal", "national-scam-response-centre-nsrc", "how-to-report-a-crime-malaysia"]
 keywords: ["cara lapor penipuan Malaysia", "talian 997 NSRC", "Pusat Respons Penipuan Kebangsaan", "SemakMule PDRM", "CCID Infoline 013-211 1222", "bekukan akaun penipu", "scam call center Malaysia", "laporan jenayah kewangan"]
 framework: how-to
+wikidata: "Q141851812"
 ---
 
 銀行アプリの残高が突然減っている、あるいはたった今、今となっては明らかに間違いだと感じる送金で「確認」を押してしまった。心臓が高鳴る。その瞬間、結果を本当に左右するのはただ一つ——パニックではなく、どのホットラインに電話すべきかを知っていること、そしてそれに、明日ではなく、いま最も近い数分のうちに電話することである。

@@ -125,6 +125,7 @@ images:
     credit: European Coal and Steel Community / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Behind almost every building, bridge and highway in Malaysia is a quieter industry that makes the metal holding it all up. Iron and steel rarely make headlines the way semiconductors or palm oil do, yet they are foundational: the reinforcing bar inside a concrete column, the wire in a cable, the sheet in a car door. Malaysia makes a great deal of this itself — and, in a few metals, is genuinely world-class. But the steel half of the story is also one of the country's most troubled manufacturing sectors, defined by a stubborn mismatch between how much it can produce and how much the market actually needs.

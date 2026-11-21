@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 มีบริษัทมาเลเซียไม่กี่แห่งที่ผูกพันกับผู้ก่อตั้งคนเดียวแน่นแฟ้นเท่า Public Bank ผูกพันกับ Tan Sri Teh Hong Piow เริ่มต้นด้วยสาขาเดียวในใจกลางกัวลาลัมเปอร์ในปี 1966 เขาสร้างผู้ปล่อยกู้ที่เติบโตเป็นหนึ่งในกลุ่มธนาคารที่ใหญ่ที่สุดของประเทศ — และมีชื่อเสียงไม่ใช่เพราะขนาดมากเท่ากับความระมัดระวัง โดยรายงานอัตราสินเชื่อเสียต่ำที่สุดในภาคธนาคารทศวรรษแล้วทศวรรษเล่า

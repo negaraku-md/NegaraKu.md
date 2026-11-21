@@ -100,6 +100,7 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
 ---
 
 Quand les Malaisiens parlent des « médias », ils entendent généralement l'un de quelques noms familiers : la parabole satellite d'Astro boulonnée au flanc de la maison, le bulletin d'information de TV3, une émission de radio matinale sur le trajet du travail, ou — de plus en plus — ce qui passe sur un téléphone pendant le trajet. Ces points de contact du quotidien appartiennent à une seule industrie tentaculaire : les médias et la radiodiffusion. C'est l'un des secteurs de services les plus visibles du pays, et aussi l'un des plus bousculés.

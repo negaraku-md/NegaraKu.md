@@ -126,6 +126,7 @@ images:
     credit: European Coal and Steel Community / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Di balik hampir setiap bangunan, jembatan, dan jalan raya di Malaysia terdapat industri yang lebih senyap yang membuat logam penopangnya. Besi dan baja jarang menjadi berita utama seperti semikonduktor atau minyak sawit, namun keduanya adalah fondasi: batang tulangan di dalam kolom beton, kawat di dalam kabel, lembaran di dalam pintu mobil. Malaysia membuat sebagian besar dari ini sendiri — dan, pada beberapa logam, benar-benar berkelas dunia. Tetapi paruh baja dari kisah ini juga salah satu sektor manufaktur paling bermasalah di negara ini, didefinisikan oleh ketidaksesuaian yang membandel antara seberapa banyak ia dapat memproduksi dan seberapa banyak yang sebenarnya dibutuhkan pasar.

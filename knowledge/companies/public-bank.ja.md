@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 単一の創業者とこれほど密接に結びついたマレーシア企業は少なく、Public Bank と Tan Sri Teh Hong Piow の関係はまさにそれである。1966年にクアラルンプール中心部の一支店から始め、彼はやがて同国最大級の銀行グループのひとつへと成長する貸し手を築いた——そして規模よりも、何十年にもわたって銀行業界で最も低い不良債権比率を計上し続けた慎重さで知られる銀行である。

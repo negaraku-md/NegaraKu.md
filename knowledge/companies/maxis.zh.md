@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 几乎每个有手机的马来西亚人，都曾在某个时刻成为 Maxis 或 Hotlink 的客户。在这两个耳熟能详的品牌背后，是单一一家公司——Maxis Berhad——它跻身本国最大的电信运营商之列，并已从一家纯移动运营商成长为提供移动、家庭宽带与企业连接的融合服务商。

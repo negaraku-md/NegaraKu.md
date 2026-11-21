@@ -104,6 +104,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 北のブキ・カユ・ヒタム（Bukit Kayu Hitam）から南のジョホールバル（Johor Bahru）まで、信号で一度も止まることなく車を走らせるとき、あなたは実はある一社の資産の上を走っている——それがPLUS Malaysia Berhadである。同社は政府機関ではないが、かといって普通の民間企業でもない。政府との長期契約に基づき、国の道路網の背骨を運営するコンセッション事業者である。

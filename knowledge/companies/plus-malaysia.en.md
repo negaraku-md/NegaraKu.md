@@ -104,6 +104,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 Every time you drive from Bukit Kayu Hitam in the north to Johor Bahru in the south without stopping at a traffic light, you are actually travelling on the assets of a single company: PLUS Malaysia Berhad. It is not a government agency, but neither is it an ordinary private company — it is a concessionaire that operates the nation's road backbone under a long-term agreement with the government.

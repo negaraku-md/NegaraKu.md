@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 Hampir setiap jalur broadband fiber, sirkuit enterprise, dan kabel data bawah laut di Malaysia menyentuh satu perusahaan sebelum sampai ke siapa pun. Telekom Malaysia Berhad (TM) adalah incumbent nasional — operator yang membangun sebagian besar jaringan tetap negara ini dan masih memiliki tulang punggung yang diandalkan para pesaing dan pengangkut internasional.

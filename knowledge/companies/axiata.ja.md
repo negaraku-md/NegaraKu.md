@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 マレーシア最大の通信の物語は、単一のネットワークではなく、六か国のモバイル事業者の一部を所有する一つの持株会社である。Axiata Group Berhad はクアラルンプール・セントラルのオフィスタワーに座し、南アジアと東南アジア全域で何億もの人々をつなぐ通信事業者を、支配し、一部を所有し、あるいは共同で運営している。

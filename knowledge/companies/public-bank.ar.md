@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 قليل من الشركات الماليزية مرتبط بمؤسسٍ واحد كما البنك العام بتان سري تيه هونغ بيو (Teh Hong Piow). فبدءًا بفرعٍ واحد في وسط كوالالمبور عام 1966، بنى مُقرضًا نما إلى إحدى أكبر المجموعات المصرفية في البلاد — ومشهورًا لا بالحجم بل بالحذر، مسجلًا عقدًا بعد عقد أدنى نسب قروض رديئة في القطاع المصرفي.

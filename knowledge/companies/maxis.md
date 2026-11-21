@@ -105,6 +105,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Almost every Malaysian with a phone has, at some point, been a Maxis or Hotlink customer. Behind those two familiar brands sits a single company — Maxis Berhad — that ranks among the country's largest telecommunications operators and has grown from a mobile-only carrier into a converged provider of mobile, home broadband and enterprise connectivity.

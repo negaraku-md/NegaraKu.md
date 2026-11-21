@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 Kisah telekomunikasi terbesar Malaysia bukanlah satu rangkaian tunggal tetapi sebuah syarikat induk yang memiliki bahagian dalam pengendali mudah alih di enam negara. Axiata Group Berhad terletak di sebuah menara pejabat di Kuala Lumpur Sentral dan mengawal, memiliki sebahagian atau mengendalikan secara bersama pembawa yang menyambungkan ratusan juta orang di seluruh Asia Selatan dan Asia Tenggara.

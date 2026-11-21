@@ -74,6 +74,7 @@ relations:
 related: ["legal-profession-act-1976", "companies-act-2016", "maicsa"]
 keywords: ["Bar Council Malaysia", "Malaysian Bar", "Legal Profession Act 1976", "advocates and solicitors Malaysia", "Sabah Law Society", "Advocates Association of Sarawak"]
 framework: profile
+wikidata: "Q6741941"
 ---
 
 马来西亚没有单一的律师团体。它有三个——半岛一个、沙巴一个、砂拉越一个——而大多数人

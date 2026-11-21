@@ -109,6 +109,7 @@ images:
     credit: Chongkian / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 在马来西亚的商业活动中，几乎转身即可遇见 CIMB——而且在东南亚各地也日益如此。它是一家综合银行，意即从受薪者的储蓄账户到数十亿令吉的债券发行与跨境收购，无所不做，而且不仅在马来西亚，也透过在印度尼西亚、泰国与新加坡的庞大业务进行。

@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 Hampir setiap talian jalur lebar fiber, litar perusahaan dan kabel data bawah laut di Malaysia menyentuh satu syarikat sebelum ia sampai kepada sesiapa pun. Telekom Malaysia Berhad (TM) ialah peneraju kebangsaan — pengendali yang membina sebahagian besar rangkaian tetap negara ini dan masih memiliki tulang belakang yang menjadi sandaran pesaing dan pembawa antarabangsa.

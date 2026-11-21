@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Ít có công ty Malaysia nào gắn bó mật thiết với một người sáng lập duy nhất như Public Bank gắn với Tan Sri Teh Hong Piow. Bắt đầu với một chi nhánh ở trung tâm Kuala Lumpur năm 1966, ông đã xây dựng một đơn vị cho vay phát triển thành một trong những tập đoàn ngân hàng lớn nhất của đất nước — và một tập đoàn nổi tiếng ít vì quy mô mà hơn vì sự thận trọng, ghi nhận các tỷ lệ nợ xấu thấp nhất ngành ngân hàng hết thập kỷ này sang thập kỷ khác.

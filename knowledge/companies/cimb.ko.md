@@ -109,6 +109,7 @@ images:
     credit: Chongkian / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB는 말레이시아 상거래에서 거의 어디를 돌아봐도 마주치는 은행이며 — 점점 더 동남아시아 전역에서도 그렇습니다. 그것은 종합은행으로, 월급쟁이의 저축계좌에서부터 수십억 링깃 규모의 채권 발행과 국경을 넘는 인수에 이르기까지 모든 것을 하며, 말레이시아뿐 아니라 인도네시아, 태국, 싱가포르의 대규모 영업을 통해서도 그렇게 합니다.

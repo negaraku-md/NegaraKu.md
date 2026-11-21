@@ -74,6 +74,7 @@ relations:
 related: ["legal-profession-act-1976", "companies-act-2016", "maicsa"]
 keywords: ["Bar Council Malaysia", "Malaysian Bar", "Legal Profession Act 1976", "advocates and solicitors Malaysia", "Sabah Law Society", "Advocates Association of Sarawak"]
 framework: profile
+wikidata: "Q6741941"
 ---
 
 मलेशिया में एक बार नहीं है। इसमें तीन हैं — एक प्रायद्वीप के लिए, एक सबाह के लिए,

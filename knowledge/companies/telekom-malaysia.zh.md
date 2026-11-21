@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 马来西亚几乎每一条光纤宽带线路、每一条企业电路以及每一条海底数据电缆，在抵达任何人之前都会先经过一家公司。马来西亚电信有限公司（Telekom Malaysia Berhad，TM）是国家主导的电信商——它建成了该国大部分的固网，并至今拥有竞争对手与国际电信商都依赖的骨干网。

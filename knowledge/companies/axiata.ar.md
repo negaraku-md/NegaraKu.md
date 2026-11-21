@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 أكبر قصة اتصالات في ماليزيا ليست شبكة واحدة بل شركة قابضة تملك حصصًا من مشغّلي جوال في ست دول. فمجموعة أكسياتا برهاد (Axiata Group Berhad) تقع في برج مكاتب في كوالالمبور سنترال (Kuala Lumpur Sentral) وتسيطر على، أو تشارك في ملكية، أو تدير معًا الحوامل التي تصل مئات الملايين من الناس عبر جنوب وجنوب شرق آسيا.

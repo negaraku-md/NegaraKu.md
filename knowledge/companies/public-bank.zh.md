@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 鲜有马来西亚公司像大众银行与丹斯里郑鸿标那样，与单一创办人如此紧密相连。从1966年吉隆坡市中心的一家分行起步，他建立起一家成长为本国最大银行集团之一的放贷机构——而它成名所凭的，与其说是规模，不如说是审慎，年复一年地录得银行业最低的坏账比率。

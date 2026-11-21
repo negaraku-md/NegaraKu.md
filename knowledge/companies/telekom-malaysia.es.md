@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 Casi cada línea de banda ancha de fibra, circuito empresarial y cable de datos submarino en Malasia toca a una sola empresa antes de llegar a nadie más. Telekom Malaysia Berhad (TM) es el operador histórico nacional: el que construyó la mayor parte de la red fija del país y aún posee la red troncal de la que dependen los rivales y los transportistas internacionales.

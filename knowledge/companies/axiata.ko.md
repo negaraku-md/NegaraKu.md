@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 말레이시아의 가장 큰 통신 이야기는 단일 망이 아니라, 여섯 나라의 모바일 사업자 지분을 소유한 지주회사입니다. Axiata Group Berhad는 쿠알라룸푸르 센트럴(Kuala Lumpur Sentral)의 한 오피스 타워에 자리하며, 남아시아와 동남아시아 전역에서 수억 명을 연결하는 통신사들을 지배하거나, 일부 소유하거나, 공동으로 운영합니다.

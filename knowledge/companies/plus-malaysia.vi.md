@@ -104,6 +104,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 Mỗi khi bạn lái xe từ Bukit Kayu Hitam ở phía bắc đến Johor Bahru ở phía nam mà không dừng ở đèn giao thông, bạn thực ra đang đi qua tài sản của một công ty: PLUS Malaysia Berhad. Nó không phải là một cơ quan chính phủ, nhưng cũng không phải là một công ty tư nhân thông thường — nó là một đơn vị nắm nhượng quyền vận hành xương sống đường bộ của đất nước theo một thỏa thuận dài hạn với chính phủ.

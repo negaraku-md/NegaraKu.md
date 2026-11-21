@@ -108,6 +108,7 @@ relations:
 related: ["staying-safe-scams-and-emergencies", "duitnow-qr-payments", "opening-bank-account", "consumer-rights-and-tribunal", "national-scam-response-centre-nsrc", "how-to-report-a-crime-malaysia"]
 keywords: ["cara lapor penipuan Malaysia", "talian 997 NSRC", "Pusat Respons Penipuan Kebangsaan", "SemakMule PDRM", "CCID Infoline 013-211 1222", "bekukan akaun penipu", "scam call center Malaysia", "laporan jenayah kewangan"]
 framework: how-to
+wikidata: "Q141851812"
 ---
 
 Saldo di aplikasi perbankan Anda tiba-tiba berkurang, atau Anda baru saja

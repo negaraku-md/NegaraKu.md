@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 Câu chuyện viễn thông lớn nhất của Malaysia không phải là một mạng lưới đơn lẻ mà là một công ty mẹ sở hữu các phần của những nhà mạng di động ở sáu quốc gia. Axiata Group Berhad tọa lạc trong một tòa tháp văn phòng tại Kuala Lumpur Sentral và kiểm soát, sở hữu một phần hoặc cùng vận hành các nhà mạng kết nối hàng trăm triệu người trên khắp Nam Á và Đông Nam Á.

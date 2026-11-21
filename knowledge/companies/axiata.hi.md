@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 मलेशिया की सबसे बड़ी दूरसंचार कहानी कोई एकल नेटवर्क नहीं, बल्कि एक होल्डिंग कंपनी है जो छह देशों में मोबाइल ऑपरेटरों के हिस्से रखती है। Axiata Group Berhad Kuala Lumpur Sentral के एक कार्यालय-भवन में बैठती है और उन वाहकों को नियंत्रित करती है, आंशिक रूप से स्वामी है या संयुक्त रूप से चलाती है जो दक्षिण और दक्षिण-पूर्व एशिया भर में करोड़ों लोगों को जोड़ते हैं।

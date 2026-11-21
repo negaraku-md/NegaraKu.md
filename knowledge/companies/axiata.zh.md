@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 马来西亚最大的电信故事，并非单一的网络，而是一家拥有六个国家移动运营商部分股权的控股公司。Axiata Group Berhad 坐落于吉隆坡中环（Kuala Lumpur Sentral）的一座办公大楼内，控制、部分持有或共同经营着连接南亚与东南亚数以亿计人口的运营商。

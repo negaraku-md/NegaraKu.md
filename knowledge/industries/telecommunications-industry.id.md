@@ -99,6 +99,7 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
 ---
 
 Hampir semua orang di Malaysia membawa koneksi seluler, dan sebagian besar rumah memiliki suatu bentuk broadband. Itu menjadikan telekomunikasi salah satu industri terpenting dan paling matang di negara ini — pipa tak kasatmata di bawah ekonomi digital, perbankan daring, e-government, dan kehidupan sehari-hari. Namun di balik nama-nama merek yang akrab, terdapat pasar yang telah berubah dramatis dalam beberapa tahun terakhir: lebih sedikit operator, merger yang lebih besar, dan eksperimen nasional tentang cara membangun 5G.

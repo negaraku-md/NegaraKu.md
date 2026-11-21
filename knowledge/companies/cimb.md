@@ -108,6 +108,7 @@ images:
     credit: Chongkian / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB is the bank you meet almost everywhere you turn in Malaysian commerce — and increasingly across Southeast Asia. It is a universal bank, meaning it does everything from a salaried worker's savings account to multi-billion-ringgit bond issues and cross-border acquisitions, and it does so not only in Malaysia but through large operations in Indonesia, Thailand and Singapore.

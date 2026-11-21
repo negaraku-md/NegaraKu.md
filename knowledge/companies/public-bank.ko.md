@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Public Bank만큼 단 한 명의 창업자와 밀접하게 엮인 말레이시아 회사는 드뭅니다 — 바로 Tan Sri Teh Hong Piow입니다. 1966년 쿠알라룸푸르 도심의 지점 하나로 시작한 그는 이 나라에서 가장 큰 은행 그룹의 하나로 자라난 은행을 일궜으며 — 규모보다는 신중함으로 더 유명하여, 수십 년에 걸쳐 은행 부문에서 가장 낮은 부실채권 비율을 기록했습니다.

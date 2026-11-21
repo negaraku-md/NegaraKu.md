@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Tidak banyak syarikat Malaysia yang sebegitu rapat terikat dengan seorang pengasas sebagaimana Public Bank terikat dengan Tan Sri Teh Hong Piow. Bermula dengan satu cawangan di tengah-tengah Kuala Lumpur pada 1966, beliau membina sebuah pemberi pinjaman yang berkembang menjadi salah satu kumpulan perbankan terbesar negara ini — dan yang terkenal bukan kerana saiz tetapi kerana sikap berhati-hati, mencatatkan nisbah pinjaman lapuk terendah dalam sektor perbankan dekad demi dekad.

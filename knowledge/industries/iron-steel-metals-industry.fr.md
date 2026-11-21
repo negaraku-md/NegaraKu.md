@@ -126,6 +126,7 @@ images:
     credit: European Coal and Steel Community / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Derrière presque chaque bâtiment, pont et autoroute de la Malaisie se trouve une industrie plus discrète qui fabrique le métal qui soutient l'ensemble. Le fer et l'acier font rarement la une comme les semi-conducteurs ou l'huile de palme, pourtant ils sont fondamentaux : la barre d'armature à l'intérieur d'un poteau de béton, le fil dans un câble, la tôle dans une portière de voiture. La Malaisie en fabrique une grande partie elle-même — et, pour quelques métaux, elle est véritablement de classe mondiale. Mais la moitié « acier » de l'histoire est aussi l'un des secteurs manufacturiers les plus en difficulté du pays, défini par un décalage tenace entre ce qu'il peut produire et ce dont le marché a réellement besoin.

@@ -74,6 +74,7 @@ relations:
 related: ["legal-profession-act-1976", "companies-act-2016", "maicsa"]
 keywords: ["Bar Council Malaisie", "Malaysian Bar", "Legal Profession Act 1976", "advocates and solicitors Malaisie", "Sabah Law Society", "Advocates Association of Sarawak"]
 framework: profile
+wikidata: "Q6741941"
 ---
 
 La Malaisie n'a pas un seul barreau. Elle en a trois — un pour la Péninsule, un

@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 كل ماليزي لديه هاتف تقريبًا كان، في مرحلةٍ ما، عميلًا لماكسيس أو هوتلينك. وخلف هاتين العلامتين المألوفتين تقف شركة واحدة — ماكسيس برهاد (Maxis Berhad) — تُعدّ من أكبر مشغّلي الاتصالات في البلاد، ونمت من حاملٍ للجوال فقط إلى مزوّدٍ متقارب للجوال وعريض النطاق المنزلي والاتصال المؤسسي.

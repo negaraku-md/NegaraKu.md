@@ -99,6 +99,7 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
 ---
 
 Hampir semua orang di Malaysia membawa sambungan mudah alih, dan kebanyakan rumah mempunyai sejenis jalur lebar. Itu menjadikan telekomunikasi salah satu industri paling penting dan paling matang negara — paip tersembunyi di bawah ekonomi digital, perbankan dalam talian, e-kerajaan dan kehidupan harian. Namun di sebalik nama jenama yang biasa terletak pasaran yang telah berubah secara dramatik dalam tahun-tahun kebelakangan: pengendali lebih sedikit, penggabungan lebih besar dan satu eksperimen nasional tentang cara membina 5G.

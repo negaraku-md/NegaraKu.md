@@ -104,6 +104,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 Cada vez que conduce desde Bukit Kayu Hitam, en el norte, hasta Johor Bahru, en el sur, sin detenerse en un semáforo, en realidad está viajando sobre los activos de una sola empresa: PLUS Malaysia Berhad. No es una agencia gubernamental, pero tampoco una empresa privada corriente: es una concesionaria que opera la columna vertebral viaria del país en virtud de un acuerdo a largo plazo con el gobierno.

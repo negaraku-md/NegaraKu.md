@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 말레이시아의 거의 모든 광섬유 광대역 회선, 기업 회선, 해저 데이터 케이블은 누군가에게 닿기 전에 한 회사를 거칩니다. Telekom Malaysia Berhad(TM)는 국가 기간 사업자입니다 — 이 나라 유선 네트워크의 대부분을 건설했고 경쟁사와 국제 통신사가 의존하는 백본을 여전히 소유한 사업자입니다.

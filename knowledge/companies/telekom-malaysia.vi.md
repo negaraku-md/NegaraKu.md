@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 Gần như mỗi đường băng thông rộng cáp quang, mỗi mạch doanh nghiệp và mỗi cáp dữ liệu dưới biển ở Malaysia đều chạm vào một công ty trước khi đến với bất kỳ ai khác. Telekom Malaysia Berhad (TM) là nhà mạng chủ đạo quốc gia — nhà mạng đã xây dựng phần lớn mạng cố định của đất nước và vẫn sở hữu trục xương sống mà các đối thủ và các hãng vận tải quốc tế phụ thuộc vào.

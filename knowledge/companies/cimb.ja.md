@@ -109,6 +109,7 @@ images:
     credit: Chongkian / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB は、マレーシアの商取引のどこを向いてもほとんど必ず出会う銀行であり——そしてますます東南アジア全域でもそうなっている。それはユニバーサルバンクであり、給与所得者の貯蓄口座から数十億リンギット規模の債券発行や越境買収まですべてを手がけ、しかもマレーシアだけでなく、インドネシア、タイ、シンガポールの大規模な事業を通じてもそれを行う。

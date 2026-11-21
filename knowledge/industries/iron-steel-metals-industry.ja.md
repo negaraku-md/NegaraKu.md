@@ -126,6 +126,7 @@ images:
     credit: European Coal and Steel Community / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 マレーシアのほぼすべての建物、橋、幹線道路の背後には、それらすべてを支える金属を作る、より静かな産業がある。鉄鋼は半導体やパーム油のように見出しを飾ることはめったにないが、基盤的な存在だ。コンクリート柱の中の異形棒鋼、ケーブルの中の線材、車のドアの中のシート。マレーシアはその多くを自前で作っており――いくつかの金属では、本当に世界水準である。だが物語の鉄鋼の半分は、同国で最も問題を抱える製造部門の一つでもある。それは、どれだけ生産できるかと、市場が実際にどれだけ必要とするかとの、根深いミスマッチによって特徴づけられている。

@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 La mayor historia de las telecomunicaciones de Malasia no es una sola red, sino una sociedad de cartera que posee participaciones en operadoras móviles de seis países. Axiata Group Berhad se sitúa en una torre de oficinas de Kuala Lumpur Sentral y controla, posee en parte o dirige conjuntamente las operadoras que conectan a cientos de millones de personas en todo el Sur y el Sudeste de Asia.

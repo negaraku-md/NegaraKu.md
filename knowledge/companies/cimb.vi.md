@@ -109,6 +109,7 @@ images:
     credit: Chongkian / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB là ngân hàng mà bạn gặp ở gần như mọi nơi bạn quay đầu lại trong thương mại Malaysia — và ngày càng nhiều trên khắp Đông Nam Á. Nó là một ngân hàng tổng hợp, nghĩa là nó làm mọi thứ từ tài khoản tiết kiệm của một người làm công ăn lương cho đến các đợt phát hành trái phiếu trị giá hàng tỷ ringgit và các thương vụ mua lại xuyên biên giới, và nó làm vậy không chỉ ở Malaysia mà qua các hoạt động lớn ở Indonesia, Thái Lan và Singapore.

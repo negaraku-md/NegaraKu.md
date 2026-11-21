@@ -106,6 +106,7 @@ images:
     credit: WIL / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 เรื่องราวโทรคมนาคมที่ใหญ่ที่สุดของมาเลเซียไม่ใช่เครือข่ายเดียว แต่เป็นบริษัทโฮลดิงที่เป็นเจ้าของส่วนหนึ่งของผู้ให้บริการมือถือในหกประเทศ Axiata Group Berhad นั่งอยู่ในอาคารสำนักงานที่ Kuala Lumpur Sentral และควบคุม เป็นเจ้าของบางส่วน หรือดำเนินการร่วมในผู้ให้บริการที่เชื่อมต่อผู้คนหลายร้อยล้านทั่วเอเชียใต้และเอเชียตะวันออกเฉียงใต้

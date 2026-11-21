@@ -108,6 +108,7 @@ images:
     credit: Shesmax / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 تكاد كل خط نطاق عريض بالألياف، ودائرة مؤسسية، وكابل بيانات تحت البحر في ماليزيا يمرّ بشركة واحدة قبل أن يصل إلى أي أحد آخر. تيليكوم ماليزيا برهاد (Telekom Malaysia Berhad، TM) هي الشركة الراسخة الوطنية — المشغّل الذي بنى معظم الشبكة الثابتة في البلاد ولا يزال يملك العمود الفقري الذي يعتمد عليه المنافسون والناقلون الدوليون.

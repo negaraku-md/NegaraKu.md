@@ -104,6 +104,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 ทุกครั้งที่คุณขับรถจาก Bukit Kayu Hitam ทางเหนือไปยังยะโฮร์บาห์รู (Johor Bahru) ทางใต้โดยไม่ต้องหยุดที่สัญญาณไฟจราจร คุณกำลังผ่านสินทรัพย์ของบริษัทหนึ่ง: PLUS Malaysia Berhad มันไม่ใช่หน่วยงานรัฐบาล แต่ก็ไม่ใช่บริษัทเอกชนทั่วไป มันเป็นผู้รับสัมปทานที่ดำเนินการกระดูกสันหลังของถนนของประเทศภายใต้ข้อตกลงระยะยาวกับรัฐบาล

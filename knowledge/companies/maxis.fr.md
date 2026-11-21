@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Presque tout Malaisien possédant un téléphone a, à un moment ou un autre, été client de Maxis ou de Hotlink. Derrière ces deux marques familières se trouve une seule entreprise — Maxis Berhad — qui figure parmi les plus grands opérateurs de télécommunications du pays et qui est passée d'un opérateur purement mobile à un fournisseur convergent de mobile, de haut débit à domicile et de connectivité d'entreprise.

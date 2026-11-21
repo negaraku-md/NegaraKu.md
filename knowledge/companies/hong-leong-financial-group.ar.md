@@ -79,6 +79,7 @@ keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
 framework: profile
+wikidata: "Q139387760"
 ---
 
 يعرف الماليزيون اسم هونغ ليونغ من فرع بنك، أو دراجة نارية، أو سعر سهم — لكن النشاط المصرفي يجلس داخل بنية مدرجة من مستويين كثيرًا ما تربك القرّاء. في الأعلى مجموعة هونغ ليونغ المالية برهاد (Hong Leong Financial Group Berhad، HLFG)، الشركة القابضة المالية؛ وتحتها بنك هونغ ليونغ برهاد (Hong Leong Bank Berhad، HLB)، البنك التجاري الذي يتعامل معه معظم العملاء فعلًا.

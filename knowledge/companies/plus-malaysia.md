@@ -103,6 +103,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 Setiap kali anda memandu dari Bukit Kayu Hitam di utara ke Johor Bahru di selatan tanpa berhenti di lampu isyarat, anda sebenarnya melalui aset sebuah syarikat: PLUS Malaysia Berhad. Ia bukan agensi kerajaan, tetapi juga bukan syarikat swasta biasa — ia sebuah pemegang konsesi yang mengendali tulang belakang jalan raya negara di bawah perjanjian jangka panjang dengan kerajaan.

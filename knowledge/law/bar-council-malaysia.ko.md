@@ -74,6 +74,7 @@ relations:
 related: ["legal-profession-act-1976", "companies-act-2016", "maicsa"]
 keywords: ["Bar Council Malaysia", "Malaysian Bar", "Legal Profession Act 1976", "advocates and solicitors Malaysia", "Sabah Law Society", "Advocates Association of Sarawak"]
 framework: profile
+wikidata: "Q6741941"
 ---
 
 말레이시아에는 하나의 변호사회가 있는 것이 아닙니다. 셋이 있습니다 — 반도에 하나,

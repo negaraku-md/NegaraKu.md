@@ -106,6 +106,7 @@ images:
     credit: Brandon Lim Lik Wei / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 फ़ोन रखने वाला लगभग हर मलेशियाई, किसी न किसी समय, Maxis या Hotlink का ग्राहक रहा है। उन दो परिचित ब्रांडों के पीछे एक ही कंपनी है — Maxis Berhad — जो देश के सबसे बड़े दूरसंचार ऑपरेटरों में शुमार है और एक केवल-मोबाइल वाहक से बढ़कर मोबाइल, घरेलू ब्रॉडबैंड और उद्यम कनेक्टिविटी का एक अभिसरित प्रदाता बन गई है।
