@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>DishPlaces mockup — Nasi Lemak</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root{ --gold:#FFC000; --bg:#000; --s1:#111118; --s2:#18181f; --ink:#f4f4f8; --ink2:#b4b4cc; --line:#2a2a35; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:'Lato',system-ui,sans-serif; line-height:1.6; padding:24px 16px; }
+  .wrap{ max-width:720px; margin:0 auto; }
+  .sample-note{ font-size:12.5px; color:#000; background:var(--gold); border-radius:8px; padding:7px 12px; font-weight:700; margin-bottom:18px; }
+  h2.sec{ font-family:'Montserrat',sans-serif; font-weight:700; font-size:19px; margin:0 0 4px; display:flex; align-items:center; gap:9px; }
+  h2.sec .pin{ color:var(--gold); }
+  .sub{ color:var(--ink2); font-size:13.5px; margin:0 0 16px; }
+  .tabs{ display:flex; gap:8px; margin:0 0 16px; flex-wrap:wrap; }
+  .tab{ font-family:'Montserrat',sans-serif; font-weight:600; font-size:13px; color:var(--ink2); background:var(--s1); border:1px solid var(--line); border-radius:999px; padding:7px 15px; cursor:pointer; display:flex; align-items:center; gap:6px; }
+  .tab[aria-selected="true"]{ color:#000; background:var(--gold); border-color:var(--gold); }
+  .state-h{ font-family:'Montserrat',sans-serif; font-weight:600; font-size:14px; color:var(--gold); margin:18px 0 9px; letter-spacing:.02em; }
+  .view:not(.on){ display:none; }
+  .lb{ display:flex; flex-direction:column; gap:9px; }
+  .row{ display:flex; align-items:center; gap:13px; background:var(--s2); border:1px solid var(--line); border-radius:12px; padding:12px 14px; }
+  .rank{ font-family:'Montserrat',sans-serif; font-weight:700; font-size:16px; color:var(--gold); min-width:26px; text-align:center; }
+  .info{ flex:1; min-width:0; }
+  .name{ font-weight:700; font-size:15px; margin:0 0 2px; }
+  .name .st{ color:var(--ink2); font-weight:400; }
+  .meta{ font-size:12.5px; color:var(--ink2); display:flex; align-items:center; gap:7px; flex-wrap:wrap; }
+  .star{ color:var(--gold); }
+  .award{ font-size:11px; font-weight:700; color:var(--gold); border:1px solid var(--gold); border-radius:6px; padding:1px 6px; }
+  .maps{ font-size:12.5px; color:var(--gold); text-decoration:none; white-space:nowrap; border:1px solid var(--line); border-radius:8px; padding:7px 11px; }
+  .maps:hover{ border-color:var(--gold); }
+  .attrib{ margin:18px 0 0; font-size:11.5px; color:#8a8aa0; display:flex; align-items:center; gap:7px; }
+  .g b:nth-child(1){color:#4285F4} .g b:nth-child(2){color:#EA4335} .g b:nth-child(3){color:#FBBC05} .g b:nth-child(4){color:#4285F4} .g b:nth-child(5){color:#34A853} .g b:nth-child(6){color:#EA4335}
+  .dot{ width:7px;height:7px;border-radius:50%;background:#34A853;display:inline-block; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="sample-note">SAMPLE — illustrative layout only. Live places &amp; ratings come from Google when billing is enabled; the ratings below are placeholders.</div>
+
+  <h2 class="sec"><span class="pin">◆</span> Where to eat the best Nasi Lemak</h2>
+  <p class="sub">Top-rated spots by region, ranked by Google reviews. Updated monthly.</p>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-v="state">📍 By state</button>
+    <button class="tab" role="tab" aria-selected="false" data-v="top">⭐ Top-rated</button>
+    <button class="tab" role="tab" aria-selected="false" data-v="loved">🔥 Most-loved</button>
+  </div>
+
+  <div class="view on" data-view="state">
+    <div class="state-h">Kuala Lumpur</div>
+    <div class="lb">
+      <div class="row"><span class="rank">1</span><div class="info"><p class="name">Village Park Restaurant</p><div class="meta"><span><span class="star">★</span> <b>4.4</b></span><span>· 18,240 reviews</span><span class="award">Local favourite</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">2</span><div class="info"><p class="name">Nasi Lemak Antarabangsa</p><div class="meta"><span><span class="star">★</span> <b>4.2</b></span><span>· 9,510 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">3</span><div class="info"><p class="name">Nasi Lemak Tanglin</p><div class="meta"><span><span class="star">★</span> <b>4.3</b></span><span>· 6,120 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+    </div>
+    <div class="state-h">Penang</div>
+    <div class="lb">
+      <div class="row"><span class="rank">1</span><div class="info"><p class="name">Nasi Lemak Ayam Kampung, Transfer Rd</p><div class="meta"><span><span class="star">★</span> <b>4.5</b></span><span>· 4,330 reviews</span><span class="award">Highest rated</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">2</span><div class="info"><p class="name">Ali Nasi Lemak Daun Pisang</p><div class="meta"><span><span class="star">★</span> <b>4.3</b></span><span>· 3,870 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+    </div>
+    <div class="state-h">Johor</div>
+    <div class="lb">
+      <div class="row"><span class="rank">1</span><div class="info"><p class="name">Nasi Lemak Bawean</p><div class="meta"><span><span class="star">★</span> <b>4.4</b></span><span>· 5,210 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">2</span><div class="info"><p class="name">Nasi Lemak Taman Sri Tebrau</p><div class="meta"><span><span class="star">★</span> <b>4.2</b></span><span>· 2,980 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+    </div>
+  </div>
+
+  <div class="view" data-view="top">
+    <div class="lb">
+      <div class="row"><span class="rank">1</span><div class="info"><p class="name">Nasi Lemak Ayam Kampung, Transfer Rd <span class="st">· Penang</span></p><div class="meta"><span><span class="star">★</span> <b>4.5</b></span><span>· 4,330 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">2</span><div class="info"><p class="name">Village Park Restaurant <span class="st">· Kuala Lumpur</span></p><div class="meta"><span><span class="star">★</span> <b>4.4</b></span><span>· 18,240 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">3</span><div class="info"><p class="name">Nasi Lemak Bawean <span class="st">· Johor</span></p><div class="meta"><span><span class="star">★</span> <b>4.4</b></span><span>· 5,210 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+    </div>
+  </div>
+
+  <div class="view" data-view="loved">
+    <div class="lb">
+      <div class="row"><span class="rank">1</span><div class="info"><p class="name">Village Park Restaurant <span class="st">· Kuala Lumpur</span></p><div class="meta"><span><span class="star">★</span> <b>4.4</b></span><span>· 18,240 reviews</span><span class="award">Most-loved</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">2</span><div class="info"><p class="name">Nasi Lemak Antarabangsa <span class="st">· Kuala Lumpur</span></p><div class="meta"><span><span class="star">★</span> <b>4.2</b></span><span>· 9,510 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+      <div class="row"><span class="rank">3</span><div class="info"><p class="name">Nasi Lemak Tanglin <span class="st">· Kuala Lumpur</span></p><div class="meta"><span><span class="star">★</span> <b>4.3</b></span><span>· 6,120 reviews</span></div></div><a class="maps" href="#" onclick="return false">Maps ↗</a></div>
+    </div>
+  </div>
+
+  <p class="attrib"><span class="dot"></span> Powered by <span class="g"><b>G</b><b>o</b><b>o</b><b>g</b><b>l</b><b>e</b></span> · tap a place for live ratings &amp; directions</p>
+</div>
+<script>
+document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(x=>x.setAttribute('aria-selected', x===t ? 'true':'false'));
+  document.querySelectorAll('.view').forEach(v=>v.classList.toggle('on', v.dataset.view===t.dataset.v));
+}));
+</script>
+</body>
+</html>
