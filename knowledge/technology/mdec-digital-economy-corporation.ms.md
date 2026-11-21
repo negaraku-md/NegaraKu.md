@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Sebuah papan tanda bertulis 'MSC Headquarters, Multimedia Development Corporation' di sebelah kolam berlanskap dan air pancut di Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: Papan tanda bagi MSC Headquarters / Multimedia Development Corporation (pendahulu MDEC) di Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: Sebuah huruf C arca merah besar bertulis 'Cyberjaya Malaysia' dengan corak papan litar, di sebuah taman tepi jalan Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: Papan tanda mercu tanda arca 'Cyberjaya Malaysia' di sebuah taman tepi jalan di Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 Cari "Status Malaysia Digital" dan hampir setiap hasil carian ialah sebuah firma perunding yang menjual perkhidmatan permohonan — dan kebanyakannya mengaburkan tiga perkara berasingan menjadi satu. Ada **agensi** (MDEC), ada **status** yang dianugerahkannya (Status MD), dan ada **insentif cukai** yang merupakan permohonan yang benar-benar berasingan dengan syarat yang jauh lebih ketat. Membezakannya ialah perbezaan antara ambang RM1,000 dan RM50,000. Berikut ialah setiap lapisan, daripada sumber utama.

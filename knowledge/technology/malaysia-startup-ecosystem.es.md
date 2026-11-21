@@ -36,7 +36,7 @@ faq:
     a: "KL20 es el plan de acción del gobierno de 2024, presentado en la Cumbre KL20 en Kuala Lumpur, para fortalecer la competitividad de las startups de Malasia. Expone iniciativas en tres áreas de enfoque críticas — capital, talento y la calidad de las startups — y apunta a convertir a Malasia en uno de los 20 principales centros mundiales de startups con una valoración de startups de RM400 mil millones para 2030. Está alineado con la Hoja de Ruta de Capital Riesgo de Malasia 2024-2030 y con el objetivo de convertir a Malasia en un centro regional de capital riesgo preferido para 2030."
 
 lang: "es"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourn
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: Personas trabajando en portátiles y conversando en largas mesas de madera compartidas en un cálido espacio de coworking de estilo industrial con grandes ventanales y un sofá de cuero
+    kind: representative
+    origin: third-party
+    subject: Personas trabajando en portátiles y conversando en mesas compartidas en un espacio de coworking de estilo industrial
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: Un pequeño grupo de fundadores de startups de pie en círculo en una oficina de coworking, escuchando atentamente mientras uno de ellos expone un punto durante un evento tecnológico
+    kind: representative
+    origin: third-party
+    subject: Un pequeño grupo de fundadores de startups conversando en un evento de una incubadora tecnológica
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
 ---
 
 Pregunte a diez fundadores malasios de dónde viene el dinero gubernamental para

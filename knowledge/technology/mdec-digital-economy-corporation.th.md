@@ -27,7 +27,7 @@ faq:
   - q: "MDEC เหมือนกับ MSC Malaysia หรือไม่?"
     a: "ไม่ MDEC คือหน่วยงาน; MSC Malaysia เป็นโครงการก่อนหน้าของมัน MSC Malaysia ถูกเปลี่ยนแบรนด์เป็น Malaysia Digital และสถานะ MD เป็นผู้สืบทอดต่อจากสถานะ MSC Malaysia เดิม"
 lang: "th"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: ป้ายที่มีข้อความ 'MSC Headquarters, Multimedia Development Corporation' ข้างสระน้ำและน้ำพุที่จัดภูมิทัศน์ในไซเบอร์จายา
+    kind: actual
+    origin: third-party
+    subject: ป้ายของ MSC Headquarters / Multimedia Development Corporation (องค์กรก่อนหน้า MDEC) ในไซเบอร์จายา
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: ตัวอักษร C ประติมากรรมสีแดงขนาดใหญ่ที่มีข้อความ 'Cyberjaya Malaysia' พร้อมลวดลายแผงวงจร ที่สวนริมถนนในไซเบอร์จายา
+    kind: representative
+    origin: third-party
+    subject: ป้ายจุดสังเกตประติมากรรม 'Cyberjaya Malaysia' ที่สวนริมถนนในไซเบอร์จายา
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 ค้นหา "Malaysia Digital Status" แล้วเกือบทุกผลลัพธ์เป็นบริษัทที่ปรึกษาที่ขายบริการยื่นขอ — และส่วนใหญ่ทำให้สามสิ่งที่แยกกันพร่ามัวเป็นหนึ่งเดียว มี **หน่วยงาน** (MDEC), **สถานะ** ที่มันมอบ (สถานะ MD) และ **มาตรการจูงใจทางภาษี** ที่เป็นการยื่นขอที่แยกต่างหากโดยสิ้นเชิงพร้อมข้อกำหนดที่สูงชันกว่ามาก การแยกพวกมันคือความแตกต่างระหว่างเกณฑ์ RM1,000 กับ RM50,000 นี่คือแต่ละชั้น จากแหล่งข้อมูลปฐมภูมิ

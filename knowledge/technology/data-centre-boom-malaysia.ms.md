@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 
 status: "published"
 aiAssisted: true
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: Sebuah lorong sempit yang membentang antara dua dinding kabinet pelayan hitam yang tinggi, dengan barisan menumpu ke arah pintu bercahaya di hujung yang jauh
+    kind: representative
+    origin: third-party
+    subject: Lorong simetri antara kabinet pelayan hitam yang tinggi di sebuah pusat data universiti
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: Pandangan udara sebuah kampus pusat data pada waktu senja, dengan barisan panjang unit penyejukan di atas bumbung dan sebuah bangunan bersebelahan yang masih dalam pembinaan
+    kind: representative
+    origin: third-party
+    subject: Pandangan udara unit penyejukan di atas bumbung di sebuah kampus pusat data besar yang sedang dibina
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 Dalam masa kurang tiga tahun, sebidang tanah di selatan Johor merentangi tambak dari Singapura telah menjadi salah satu tempat paling dicari di dunia untuk memasang pelayan. Gergasi awan, pengendali kolokasi dan syarikat pemula AI telah membanjiri kawasan itu — dan kini Malaysia mendapati bahawa talian kuasa dan paip air di bawah ledakan itu mempunyai had.

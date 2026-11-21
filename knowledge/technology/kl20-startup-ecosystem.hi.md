@@ -36,7 +36,7 @@ faq:
     a: "शुरुआत में अर्थव्यवस्था मंत्रालय ने योजना का नेतृत्व किया, जिसमें विज्ञान, प्रौद्योगिकी और नवाचार मंत्रालय (MOSTI) और डिजिटल मंत्रालय शामिल थे। शिखर सम्मेलन के इर्द-गिर्द नामित कार्यान्वयन एजेंसियों में स्टार्टअप सहायता और एकल खिड़की के लिए Cradle Fund, Innovation Belt के लिए MRANTI, और राष्ट्रीय फ़ंड-ऑफ़-फ़ंड्स के लिए Khazanah Nasional शामिल हैं।"
 
 lang: "hi"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: KL Tower से देखा गया Kuala Lumpur में Exchange 106 टावर और Tun Razak Exchange वित्तीय ज़िला
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur में Exchange 106 टावर और Tun Razak Exchange (TRX) वित्तीय ज़िला
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: नीले आसमान के नीचे KL Tower और ऊँची कार्यालय इमारतों के साथ Kuala Lumpur शहर की क्षितिज रेखा
+    kind: representative
+    origin: third-party
+    subject: KL Tower और गुच्छेदार ऊँची कार्यालय इमारतों के साथ Kuala Lumpur शहर की क्षितिज रेखा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 अप्रैल 2024 में, मलेशिया ने अपने स्टार्टअप्स के बारे में उम्मीद की भाषा में बात करना बंद किया और रैंकिंग की भाषा में बात करना शुरू किया। बात सीधी थी: कुआलालंपुर को 2030 तक दुनिया के शीर्ष 20 स्टार्टअप तंत्रों में पहुँचाओ, या मान लो कि देश यूँ ही चलता रहा है।

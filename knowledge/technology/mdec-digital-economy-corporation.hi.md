@@ -27,7 +27,7 @@ faq:
   - q: "क्या MDEC और MSC Malaysia एक ही हैं?"
     a: "नहीं। MDEC एजेंसी है; MSC Malaysia उसका पुराना कार्यक्रम था। MSC Malaysia का नाम बदलकर Malaysia Digital किया गया है, और MD Status पूर्ववर्ती MSC Malaysia Status का उत्तराधिकारी है।"
 lang: "hi"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Cyberjaya में एक भूदृश्य तालाब और फ़व्वारे के बगल में 'MSC Headquarters, Multimedia Development Corporation' लिखा एक साइनबोर्ड
+    kind: actual
+    origin: third-party
+    subject: Cyberjaya में MSC Headquarters / Multimedia Development Corporation (MDEC के पूर्ववर्ती) का साइनबोर्ड
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: एक Cyberjaya सड़क किनारे पार्क में एक सर्किट-बोर्ड पैटर्न वाला 'Cyberjaya Malaysia' पढ़ा जाने वाला एक बड़ा लाल मूर्तिकला अक्षर C
+    kind: representative
+    origin: third-party
+    subject: Cyberjaya में एक सड़क किनारे पार्क में मूर्तिकला 'Cyberjaya Malaysia' पहचान साइनेज
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 «Malaysia Digital Status» खोजिए और लगभग हर परिणाम एक परामर्श फ़र्म मिलेगी जो आवेदन-सेवा बेच रही है — और उनमें से अधिकांश तीन अलग-अलग चीज़ों को एक में घोल देती हैं। एक **एजेंसी** है (MDEC), एक **स्टेटस** है जो वह प्रदान करती है (MD Status), और एक **कर-प्रोत्साहन** है जो कहीं अधिक कड़ी शर्तों वाला पूरी तरह अलग आवेदन है। इन्हें अलग रखना ही RM1,000 की सीमा और RM50,000 की सीमा के बीच का अंतर है। यहाँ प्रत्येक परत प्रस्तुत है, प्राथमिक स्रोतों से।

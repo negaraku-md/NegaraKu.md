@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourn
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: 人们在一处温馨的工业风共享办公空间里用笔记本电脑工作、交谈，坐在长长的共享木桌旁，空间有大窗户和一张皮沙发
+    kind: representative
+    origin: third-party
+    subject: 人们在工业风共享办公空间的共享桌旁用笔记本电脑工作、交谈
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: 一小群创业者在共享办公室里围成一圈站着，在一场科技活动中专注地听其中一人发言
+    kind: representative
+    origin: third-party
+    subject: 一小群创业者在科技孵化器活动上围在一起交谈
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
 ---
 
 问十位马来西亚创办人政府的创业资金从哪里来，你会得到十个不同的缩写。这套机制真实存在，也相当慷慨，但它分散在各个机构手中，每个机构只掌管其中一块 —— 拨款在这里、实验室空间在那里、创投资金又在别处 —— 而知道该敲哪一扇门，能省下好几个月。

@@ -36,7 +36,7 @@ faq:
     a: "Bộ Kinh tế dẫn dắt kế hoạch khi ra mắt, với sự tham gia của Bộ Khoa học, Công nghệ và Đổi mới (MOSTI) và Bộ Kỹ thuật số. Các cơ quan triển khai được nêu tên quanh hội nghị bao gồm Cradle Fund cho hỗ trợ khởi nghiệp và cửa một cửa, MRANTI cho Vành đai Đổi mới, và Khazanah Nasional cho quỹ của các quỹ cấp quốc gia."
 
 lang: "vi"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: Tháp Exchange 106 và khu tài chính Tun Razak Exchange ở Kuala Lumpur, nhìn từ KL Tower
+    kind: representative
+    origin: third-party
+    subject: Tháp Exchange 106 và khu tài chính Tun Razak Exchange (TRX) ở Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: Đường chân trời thành phố Kuala Lumpur với tháp KL Tower và các tòa nhà văn phòng cao tầng dưới bầu trời xanh
+    kind: representative
+    origin: third-party
+    subject: Đường chân trời thành phố Kuala Lumpur với tháp KL Tower và các tòa nhà văn phòng cao tầng san sát
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 Vào tháng 4 năm 2024, Malaysia ngừng nói về các startup của mình bằng ngôn ngữ của hy vọng và bắt đầu nói bằng ngôn ngữ của thứ hạng. Lời chào mời thẳng thắn: đưa Kuala Lumpur vào top 20 hệ sinh thái khởi nghiệp của thế giới vào năm 2030, hoặc thừa nhận rằng đất nước đã và đang đủng đỉnh.

@@ -36,7 +36,7 @@ faq:
     a: "KL20 adalah rencana aksi pemerintah 2024, yang diperkenalkan di KTT KL20 di Kuala Lumpur, untuk mengukuhkan daya saing startup Malaysia. Ia menggariskan inisiatif lintas tiga bidang fokus kritikal — modal, talenta dan kualitas startup — dan menyasar menjadikan Malaysia sebagai hub startup 20 terbaik global dengan valuasi startup RM400 miliar menjelang 2030. Ia diselaraskan dengan Peta Jalan Modal Ventura Malaysia 2024-2030 dan tujuan menjadikan Malaysia sebagai hub modal ventura regional pilihan menjelang 2030."
 
 lang: "id"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourn
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: Orang-orang bekerja dengan laptop dan berbincang di meja kayu bersama yang panjang di ruang kerja bersama bergaya industrial yang hangat dengan jendela besar dan sofa kulit
+    kind: representative
+    origin: third-party
+    subject: Orang-orang bekerja dengan laptop dan berbincang di meja bersama di ruang kerja bersama bergaya industrial
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: Sekelompok kecil pendiri startup berdiri melingkar di kantor kerja bersama, mendengarkan dengan saksama saat salah satu dari mereka menyampaikan pendapat dalam acara teknologi
+    kind: representative
+    origin: third-party
+    subject: Sekelompok kecil pendiri startup berbincang bersama dalam acara inkubator teknologi
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
 ---
 
 Tanya sepuluh pendiri Malaysia dari mana datangnya uang startup pemerintah dan Anda akan mendapat sepuluh akronim yang berbeda. Mesin itu nyata dan murah hati, tetapi ia tersebar di agensi yang masing-masing memiliki sebagiannya — hibah di sini, ruang laboratorium di sana, modal ventura di tempat lain — dan mengetahui pintu mana untuk diketuk menghemat berbulan-bulan.

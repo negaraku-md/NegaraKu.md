@@ -36,7 +36,7 @@ faq:
     a: "推出时由经济部领导该计划，科学、工艺及革新部（MOSTI）与数字部参与。峰会前后点名的落实机构包括负责初创支持与单一窗口的Cradle Fund、负责「创新带」的MRANTI，以及负责国家母基金的国库控股。"
 
 lang: "zh"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: 从 KL Tower 望向吉隆坡的 Exchange 106 塔楼和 Tun Razak Exchange 金融区
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡的 Exchange 106 塔楼和 Tun Razak Exchange（TRX）金融区
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: 蓝天下的吉隆坡城市天际线，可见 KL Tower 和高层办公楼
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡城市天际线，可见 KL Tower 和密集的高层办公楼
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 2024年4月，马来西亚不再用希望的语言谈论自己的初创企业，而开始用排名的语言。那番宣示很直白：在2030年前把吉隆坡送进全球前20大初创生态系统，否则就得承认这个国家一直在原地打转。

@@ -27,7 +27,7 @@ faq:
   - q: "Apakah MDEC sama dengan MSC Malaysia?"
     a: "Tidak. MDEC adalah agensinya; MSC Malaysia adalah programnya yang terdahulu. MSC Malaysia telah diubah namanya menjadi Malaysia Digital, dan Status MD adalah pengganti Status MSC Malaysia yang terdahulu."
 lang: "id"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Sebuah papan nama bertuliskan 'MSC Headquarters, Multimedia Development Corporation' di samping kolam dan air mancur berlanskap di Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: Papan nama MSC Headquarters / Multimedia Development Corporation (pendahulu MDEC) di Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: Sebuah huruf C pahatan merah besar bertuliskan 'Cyberjaya Malaysia' dengan pola papan sirkuit, di sebuah taman tepi jalan Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: Penanda pahatan 'Cyberjaya Malaysia' di taman tepi jalan di Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 Cari "Status Malaysia Digital" dan hampir setiap hasil pencarian adalah sebuah firma konsultan yang menjual layanan permohonan — dan kebanyakannya mengaburkan tiga hal terpisah menjadi satu. Ada **agensi** (MDEC), ada **status** yang dianugerahkannya (Status MD), dan ada **insentif pajak** yang merupakan permohonan yang benar-benar terpisah dengan syarat yang jauh lebih ketat. Membedakannya adalah perbedaan antara ambang RM1,000 dan RM50,000. Berikut adalah setiap lapisan, dari sumber utama.

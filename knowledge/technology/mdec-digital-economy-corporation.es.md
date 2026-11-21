@@ -27,7 +27,7 @@ faq:
   - q: "¿Es MDEC lo mismo que MSC Malaysia?"
     a: "No. MDEC es la agencia; MSC Malaysia era su programa anterior. MSC Malaysia ha sido renombrada como Malaysia Digital, y el estatus MD es el sucesor del antiguo estatus MSC Malaysia."
 lang: "es"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Un letrero que dice 'MSC Headquarters, Multimedia Development Corporation' junto a un estanque ajardinado y una fuente en Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: Letrero de la MSC Headquarters / Multimedia Development Corporation (predecesora de MDEC) en Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: Una gran letra C escultórica roja que dice 'Cyberjaya Malaysia' con un patrón de placa de circuito, en un parque junto a la carretera en Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: Señalización escultórica emblemática de 'Cyberjaya Malaysia' en un parque junto a la carretera en Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 Busque «Malaysia Digital Status» y casi todos los resultados serán una consultora vendiendo un servicio de solicitud — y la mayoría mezcla tres cosas distintas en una. Está la **agencia** (MDEC), el **estatus** que otorga (estatus MD) y un **incentivo fiscal** que es una solicitud totalmente aparte con requisitos mucho más estrictos. Mantenerlos separados es la diferencia entre un umbral de RM1,000 y uno de RM50,000. Aquí está cada capa, a partir de fuentes primarias.

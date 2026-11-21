@@ -36,7 +36,7 @@ faq:
     a: "डिजिटल मंत्रालय द्वारा 2025 में शुरू की गई एक नीति, जिसका लक्ष्य 2030 तक मलेशिया को विश्व-स्तरीय क्लाउड केंद्र बनाना है, जो डेटा संप्रभुता पर आधारित है — यह सिद्धांत कि मलेशिया में उत्पन्न डेटा मलेशियाई कानून द्वारा शासित होता है — एक नियोजित संप्रभु AI क्लाउड के साथ।"
 
 lang: "hi"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: ऊँचे काले सर्वर कैबिनेट की दो दीवारों के बीच से गुज़रता एक सँकरा गलियारा, जिसकी कतारें दूर छोर पर एक रोशन दरवाज़े की ओर मिलती हैं
+    kind: representative
+    origin: third-party
+    subject: एक विश्वविद्यालय डेटा सेंटर में ऊँचे काले सर्वर कैबिनेट के बीच सममित गलियारा
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: सांझ के समय एक डेटा-सेंटर परिसर का हवाई दृश्य, जिसमें छत पर शीतलन इकाइयों की लंबी कतारें और बगल में एक अभी भी निर्माणाधीन इमारत है
+    kind: representative
+    origin: third-party
+    subject: एक बड़े निर्माणाधीन डेटा-सेंटर परिसर में छत की शीतलन इकाइयों का हवाई दृश्य
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 तीन साल से भी कम समय में, सिंगापुर के सामने काजवे के पार दक्षिणी जोहोर की एक पट्टी सर्वर प्लग-इन करने के लिए पृथ्वी के सबसे अधिक माँगे जाने वाले स्थानों में से एक बन गई है। क्लाउड दिग्गज, कोलोकेशन संचालक और AI स्टार्ट-अप यहाँ उमड़ पड़े हैं — और अब मलेशिया यह खोज रहा है कि इस उछाल के नीचे की बिजली लाइनों और पानी के पाइपों की सीमाएँ हैं।

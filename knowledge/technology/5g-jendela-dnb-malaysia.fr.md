@@ -36,7 +36,7 @@ faq:
     a: "Non. Le 7 mars 2026, CelcomDigi et Maxis ont chacune finalisé l'achat des actions du ministère des Finances dans DNB pour RM327,872,640.28, marquant la sortie du gouvernement de l'activité de gros 5G et faisant de DNB une entité entièrement privée détenue par les opérateurs et YTL."
 
 lang: "fr"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_o
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: Un haut pylône monotube gris de téléphonie mobile coiffé d'antennes de réseau mobile et d'équipements 5G, se dressant sur un ciel bleu limpide au-dessus de toits de banlieue
+    kind: representative
+    origin: third-party
+    subject: Un pylône monotube de téléphonie mobile portant des antennes 5G sur fond de ciel bleu limpide
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: Un mât de télécommunications sur un toit équipé d'antennes panneaux blanches, de paraboles hyperfréquences et d'armoires de station de base, s'élevant au-dessus d'une ville de faible hauteur sous un ciel bleu
+    kind: representative
+    origin: third-party
+    subject: Une antenne-relais 5G sur un toit avec antennes panneaux et paraboles hyperfréquences au-dessus d'une ville
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 Demandez à deux Malaisiens comment sont gérés les réseaux mobiles du pays et vous

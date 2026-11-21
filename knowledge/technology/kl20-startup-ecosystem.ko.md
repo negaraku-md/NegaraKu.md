@@ -36,7 +36,7 @@ faq:
     a: "출범 당시 경제부가 계획을 이끌었고, 과학기술혁신부(MOSTI)와 디지털부가 참여했습니다. 서밋 전후로 지명된 이행 기관에는 스타트업 지원과 단일 창구를 맡는 크레들 펀드, 이노베이션 벨트를 맡는 MRANTI, 국가 재간접 펀드를 맡는 카자나 나시오날이 포함됩니다."
 
 lang: "ko"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: KL Tower에서 본 쿠알라룸푸르의 Exchange 106 타워와 Tun Razak Exchange 금융 지구
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르의 Exchange 106 타워와 Tun Razak Exchange(TRX) 금융 지구
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: 푸른 하늘 아래 KL Tower와 고층 오피스 건물들이 있는 쿠알라룸푸르 도시 스카이라인
+    kind: representative
+    origin: third-party
+    subject: KL Tower와 밀집한 고층 오피스 건물들이 있는 쿠알라룸푸르 도시 스카이라인
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 2024년 4월, 말레이시아는 자국 스타트업을 희망의 언어로 말하기를 그만두고 순위의 언어로 말하기 시작했습니다. 그 제안은 직설적이었습니다. 2030년까지 쿠알라룸푸르를 세계 20대 스타트업 생태계에 진입시키거나, 아니면 나라가 그동안 타성에 젖어 있었음을 인정하라는 것이었습니다.

@@ -27,7 +27,7 @@ faq:
   - q: "هل MDEC هي نفسها MSC Malaysia؟"
     a: "لا. MDEC هي الوكالة؛ وMSC Malaysia كان برنامجها السابق. وقد أُعيدت تسمية MSC Malaysia إلى Malaysia Digital، ومركز MD هو خليفة مركز MSC Malaysia السابق."
 lang: "ar"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: لافتة مكتوب عليها 'MSC Headquarters, Multimedia Development Corporation' بجانب بركة منسّقة ونافورة في Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: لافتة المقر الرئيسي لـ MSC / Multimedia Development Corporation (سَلَف MDEC) في Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: منحوتة كبيرة لحرف C أحمر مكتوب عليها 'Cyberjaya Malaysia' بنمط لوحة دوائر، في حديقة على جانب طريق في Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: لافتة معلم 'Cyberjaya Malaysia' المنحوتة في حديقة على جانب طريق في Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 ابحث عن «Malaysia Digital Status» وتكاد تكون كل نتيجة شركة استشارية تبيع خدمة تقديم طلب — ومعظمها يُضبّب ثلاثة أمور منفصلة في أمر واحد. فهناك **الوكالة** (MDEC)، و**المركز** الذي تمنحه (MD Status)، و**حافز ضريبي** هو طلب منفصل تمامًا باشتراطات أشدّ بكثير. والتمييز بينها هو الفرق بين عتبة RM1,000 وعتبة RM50,000. وفي ما يلي كل طبقة، من المصادر الأولية.

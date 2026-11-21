@@ -36,7 +36,7 @@ faq:
     a: "KL20은 말레이시아의 스타트업 경쟁력을 강화하기 위해 쿠알라룸푸르에서 열린 KL20 정상회의(KL20 Summit)에서 공개된 정부의 2024년 실행 계획입니다. 자본, 인재, 스타트업의 질이라는 세 가지 핵심 영역에 걸친 이니셔티브를 담고 있으며, 2030년까지 말레이시아를 세계 20위권 스타트업 허브로 만들고 스타트업 가치평가 총액 4,000억 링깃을 달성하는 것을 목표로 합니다. 이는 말레이시아 벤처캐피털 로드맵 2024-2030(Malaysia Venture Capital Roadmap 2024-2030) 및 2030년까지 말레이시아를 역내 선호 벤처캐피털 허브로 만든다는 목표와 정렬되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourn
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: 큰 창과 가죽 소파가 있는 따뜻한 인더스트리얼 스타일 코워킹 공간에서 긴 공용 원목 테이블에 앉아 노트북으로 작업하며 대화하는 사람들
+    kind: representative
+    origin: third-party
+    subject: 인더스트리얼 스타일 코워킹 공간의 공용 테이블에서 노트북으로 작업하며 대화하는 사람들
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: 코워킹 사무실에서 소규모 스타트업 창업자들이 원을 이뤄 서서, 한 명이 테크 행사 중 의견을 말할 때 진지하게 경청하고 있다
+    kind: representative
+    origin: third-party
+    subject: 테크 인큐베이터 행사에서 함께 이야기 나누는 소규모 스타트업 창업자들
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
 ---
 
 말레이시아 창업자 열 명에게 정부의 스타트업 자금이 어디에서 나오는지 물어보면 열 개의 서로 다른 약어를 듣게 됩니다. 그 지원 체계는 실재하며 후하지만, 보조금은 여기, 실험실 공간은 저기, 벤처캐피털은 또 다른 곳 — 이런 식으로 각자 한 조각씩 소유한 기관들에 흩어져 있어서, 어느 문을 두드려야 하는지 아는 것만으로 여러 달을 아낄 수 있습니다.

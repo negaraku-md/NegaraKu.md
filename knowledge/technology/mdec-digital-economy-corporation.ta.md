@@ -27,7 +27,7 @@ faq:
   - q: "MDEC ஆனது MSC Malaysia உடன் ஒன்றா?"
     a: "இல்லை. MDEC என்பது ஆணையம்; MSC Malaysia என்பது அதன் முந்தைய திட்டம். MSC Malaysia ஆனது Malaysia Digital என மறுபிராண்டு செய்யப்பட்டுள்ளது, மேலும் MD அந்தஸ்து முந்தைய MSC Malaysia அந்தஸ்துக்குப் பின்வந்த வாரிசு ஆகும்."
 lang: "ta"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Cyberjaya-வில் ஒரு நிலவமைக்கப்பட்ட குளம் மற்றும் நீரூற்றுக்கு அருகில் 'MSC Headquarters, Multimedia Development Corporation' என்று படிக்கும் ஒரு பலகை
+    kind: actual
+    origin: third-party
+    subject: Cyberjaya-வில் MSC Headquarters / Multimedia Development Corporation (MDEC-இன் முன்னோடி) க்கான பலகை
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: ஒரு Cyberjaya சாலையோரப் பூங்காவில், சர்க்யூட்-போர்டு வடிவத்துடன் 'Cyberjaya Malaysia' என்று படிக்கும் ஒரு பெரிய சிவப்பு சிற்ப எழுத்து C
+    kind: representative
+    origin: third-party
+    subject: Cyberjaya-வில் ஒரு சாலையோரப் பூங்காவில் சிற்ப 'Cyberjaya Malaysia' அடையாளப் பலகை
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 “Malaysia Digital Status” எனத் தேடுங்கள், கிட்டத்தட்ட ஒவ்வொரு முடிவும் விண்ணப்பச் சேவையை விற்கும் ஒரு ஆலோசனை நிறுவனமாகவே இருக்கும் — பெரும்பாலானவை மூன்று தனித்த விஷயங்களை ஒன்றாகக் கலந்து குழப்புகின்றன. ஒரு **ஆணையம்** (MDEC), அது வழங்கும் **அந்தஸ்து** (MD அந்தஸ்து), மேலும் மிகவும் கடுமையான தேவைகளைக் கொண்ட முற்றிலும் தனித்த விண்ணப்பமான ஒரு **வரி ஊக்கத்தொகை** ஆகியன உள்ளன. இவற்றைத் தனித்தனியாக வைத்திருப்பதே RM1,000 வரம்புக்கும் RM50,000 வரம்புக்கும் இடையிலான வேறுபாடு. முதன்மை ஆதாரங்களிலிருந்து ஒவ்வொரு அடுக்கும் இதோ.

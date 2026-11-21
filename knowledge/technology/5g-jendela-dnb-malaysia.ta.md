@@ -36,7 +36,7 @@ faq:
     a: "இல்லை. 2026 மார்ச் 7 அன்று, CelcomDigi மற்றும் Maxis ஒவ்வொன்றும் நிதி அமைச்சகத்தின் DNB பங்குகளை RM327,872,640.28-க்கு வாங்கி முடித்தன; இது அரசாங்கம் 5G மொத்த விற்பனை வணிகத்திலிருந்து விலகியதைக் குறிக்கிறது, மேலும் DNB-ஐ தொலைத்தொடர்பு நிறுவனங்கள் மற்றும் YTL ஆல் சொந்தமாக்கப்பட்ட முழுமையான தனியார் நிறுவனமாக மாற்றியது."
 
 lang: "ta"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 status: "published"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_o
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: புறநகர் கூரைகளுக்கு மேலே தெளிவான நீல வானத்தை எதிர்த்து நிற்கும், மொபைல்-நெட்வொர்க் ஆண்டெனாக்கள் மற்றும் 5G உபகரணங்களால் முடிசூட்டப்பட்ட ஒரு உயரமான சாம்பல் மோனோபோல் மொபைல்-தொலைபேசிக் கோபுரம்
+    kind: representative
+    origin: third-party
+    subject: தெளிவான நீல வானத்தை எதிர்த்து 5G ஆண்டெனாக்களைச் சுமக்கும் ஒரு மோனோபோல் மொபைல்-தொலைபேசிக் கோபுரம்
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: நீல வானத்தின் கீழ் ஒரு தாழ்-உயர நகரத்திற்கு மேலே உயரும், வெள்ளை பேனல் ஆண்டெனாக்கள், மைக்ரோவேவ் தட்டுகள் மற்றும் அடிப்படை-நிலைய அலமாரிகளுடன் பொருத்தப்பட்ட ஒரு கூரை தொலைத்தொடர்பு மாஸ்ட்
+    kind: representative
+    origin: third-party
+    subject: ஒரு நகரத்திற்கு மேலே பேனல் ஆண்டெனாக்கள் மற்றும் மைக்ரோவேவ் தட்டுகளுடன் கூடிய ஒரு கூரை 5G செல் கோபுரம்
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 நாட்டின் மொபைல் வலையமைப்புகள் எவ்வாறு நடத்தப்படுகின்றன என்று இரண்டு மலேசியர்களிடம் கேளுங்கள் — நீங்கள் அடிக்கடி இரண்டு வேறுபட்ட, பாதி-சரியான பதில்களைப் பெறுவீர்கள், ஏனெனில் உண்மையில் இரண்டு தனித்தனி கதைகள் ஒன்றாகப் பின்னிப் பிணைந்துள்ளன. ஒன்று, பெரும்பாலான மக்கள் ஒரு அரசாங்க பதாகையில் பார்த்திருக்கும் பெயருடன் கூடிய அகலப்பட்டை பரவல் திட்டம். மற்றொன்று, 5G குழாயை யார் சொந்தமாக்குவது என்பது குறித்து வேகமாக நகரும் போராட்டம். நவீன மலேசிய இணைப்பைப் புரிந்துகொள்வது என்பது இந்த இரண்டு கதைகளையும் தெளிவாக வேறுபடுத்திப் பார்ப்பதாகும்.

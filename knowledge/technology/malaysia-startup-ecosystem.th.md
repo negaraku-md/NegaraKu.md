@@ -36,7 +36,7 @@ faq:
     a: "KL20 คือแผนปฏิบัติการปี 2024 ของรัฐบาล เปิดเผยที่งาน KL20 Summit ในกัวลาลัมเปอร์ (Kuala Lumpur) เพื่อเสริมความสามารถในการแข่งขันของสตาร์ทอัพมาเลเซีย มันวางโครงการทั่วสามด้านสำคัญ — ทุน บุคลากร และคุณภาพของสตาร์ทอัพ — และตั้งเป้าทำให้มาเลเซียเป็นศูนย์กลางสตาร์ทอัพ 20 อันดับแรกของโลกด้วยมูลค่าสตาร์ทอัพ RM400 พันล้านภายในปี 2030 มันสอดคล้องกับ Malaysia Venture Capital Roadmap 2024-2030 และเป้าหมายทำให้มาเลเซียเป็นศูนย์กลางเงินร่วมลงทุนระดับภูมิภาคที่นิยมภายในปี 2030"
 
 lang: "th"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourn
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: ผู้คนทำงานบนแล็ปท็อปและพูดคุยกันที่โต๊ะไม้ส่วนกลางยาวในพื้นที่ทำงานร่วมสไตล์อุตสาหกรรมที่อบอุ่น มีหน้าต่างบานใหญ่และโซฟาหนัง
+    kind: representative
+    origin: third-party
+    subject: ผู้คนทำงานบนแล็ปท็อปและพูดคุยกันที่โต๊ะส่วนกลางในพื้นที่ทำงานร่วมสไตล์อุตสาหกรรม
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: กลุ่มผู้ก่อตั้งสตาร์ทอัพกลุ่มเล็กยืนเป็นวงกลมในสำนักงานพื้นที่ทำงานร่วม ตั้งใจฟังขณะที่คนหนึ่งในกลุ่มกำลังแสดงความคิดเห็นในงานด้านเทคโนโลยี
+    kind: representative
+    origin: third-party
+    subject: กลุ่มผู้ก่อตั้งสตาร์ทอัพกลุ่มเล็กกำลังพูดคุยกันในงานของศูนย์บ่มเพาะด้านเทคโนโลยี
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
 ---
 
 ถามผู้ก่อตั้งชาวมาเลเซียสิบคนว่าเงินสตาร์ทอัพของรัฐบาลมาจากไหน แล้วคุณจะได้ตัวย่อสิบตัวที่ต่างกัน กลไกเป็นจริงและใจดี แต่มันกระจายอยู่ในหน่วยงานที่แต่ละแห่งเป็นเจ้าของส่วนหนึ่ง — เงินอุดหนุนที่นี่ พื้นที่ห้องปฏิบัติการที่นั่น เงินร่วมลงทุนที่อื่นอีก — และการรู้ว่าควรเคาะประตูใดช่วยประหยัดเวลาหลายเดือน

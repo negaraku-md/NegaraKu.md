@@ -36,7 +36,7 @@ faq:
     a: "Una política lanzada por el Ministerio Digital en 2025 para convertir a Malasia en un centro de la nube de clase mundial para 2030, anclada en la soberanía de los datos — el principio de que los datos generados en Malasia se rigen por la ley malasia — junto con una nube de IA soberana planificada."
 
 lang: "es"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: Un pasillo estrecho que discurre entre dos paredes de altos armarios de servidores negros, con las filas convergiendo hacia una puerta iluminada al fondo
+    kind: representative
+    origin: third-party
+    subject: Pasillo simétrico entre altos armarios de servidores negros en el centro de datos de una universidad
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: Vista aérea de un campus de centro de datos al anochecer, con largas hileras de unidades de refrigeración en los tejados y un edificio contiguo aún en construcción
+    kind: representative
+    origin: third-party
+    subject: Vista aérea de unidades de refrigeración en los tejados de un gran campus de centro de datos en construcción
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 En menos de tres años, una franja del sur de Johor al otro lado de la calzada desde

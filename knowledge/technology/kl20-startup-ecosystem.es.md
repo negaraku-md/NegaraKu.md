@@ -36,7 +36,7 @@ faq:
     a: "El Ministerio de Economía lideró el plan en el lanzamiento, con la participación del Ministerio de Ciencia, Tecnología e Innovación (MOSTI) y el Ministerio Digital. Entre las agencias de ejecución nombradas en torno a la cumbre están Cradle Fund para el apoyo a startups y la ventanilla única, MRANTI para el Innovation Belt y Khazanah Nasional para el fondo nacional de fondos."
 
 lang: "es"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: La torre Exchange 106 y el distrito financiero Tun Razak Exchange en Kuala Lumpur, vistos desde la KL Tower
+    kind: representative
+    origin: third-party
+    subject: La torre Exchange 106 y el distrito financiero Tun Razak Exchange (TRX) en Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: Perfil urbano de la ciudad de Kuala Lumpur con la KL Tower y edificios de oficinas de gran altura bajo un cielo azul
+    kind: representative
+    origin: third-party
+    subject: Perfil urbano de la ciudad de Kuala Lumpur con la KL Tower y edificios de oficinas de gran altura agrupados
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 En abril de 2024, Malasia dejó de hablar de sus startups en el lenguaje de la esperanza y empezó a hablar en el lenguaje de los rankings. El planteamiento fue directo: meter a Kuala Lumpur entre los 20 mejores ecosistemas de startups del mundo para 2030, o admitir que el país había ido a la deriva.

@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjay
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Office towers at Shaftsbury Square in Cyberjaya, the corporate district where MCMC is headquartered'
+images:
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-1.webp
+    alt: Bangunan pejabat Penyelidikan dan Pembangunan Telekom Malaysia, sebuah bangunan teknologi moden di Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: Bangunan pejabat Penyelidikan & Pembangunan Telekom Malaysia (TMR&D) di Cyberjaya — sebuah bangunan sektor telekomunikasi dalam koridor yang dikawal selia oleh MCMC
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-2.webp
+    alt: Panorama Cyberjaya dengan bangunan kediaman dan pejabat pencakar langit di atas kawasan taman hijau
+    kind: representative
+    origin: third-party
+    subject: Panorama Cyberjaya, hab komunikasi dan multimedia Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skylines_of_Cyberjaya_(221225)_01.jpg
 ---
 
 Setiap kali telefon anda melompat daripada 4G ke 5G, menyambung Wi-Fi rumah, atau memasang antena satelit, aktiviti itu bergerak dalam rangka undang-undang yang satu badan sahaja mengawal — MCMC. Ia menentukan siapa boleh membina rangkaian, siapa boleh menjual perkhidmatan di atasnya, dan frekuensi radio mana yang boleh digunakan.

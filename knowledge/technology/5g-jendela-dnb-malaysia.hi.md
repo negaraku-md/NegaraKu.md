@@ -36,7 +36,7 @@ faq:
     a: "नहीं। 7 मार्च 2026 को, CelcomDigi और Maxis ने प्रत्येक ने DNB में वित्त मंत्रालय के शेयरों की खरीद RM327,872,640.28 में पूरी की, जिसने 5G थोक व्यवसाय से सरकार के बाहर निकलने को चिह्नित किया और DNB को टेल्को तथा YTL के स्वामित्व वाली पूर्णतः निजी इकाई में बदल दिया।"
 
 lang: "hi"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_o
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: उपनगरीय छतों के ऊपर साफ़ नीले आसमान के सामने खड़ा एक ऊँचा धूसर मोनोपोल मोबाइल-फ़ोन टावर, जिसके शीर्ष पर मोबाइल-नेटवर्क एंटीना और 5G उपकरण लगे हैं
+    kind: representative
+    origin: third-party
+    subject: साफ़ नीले आसमान के सामने 5G एंटीना ले जाता एक मोनोपोल मोबाइल-फ़ोन टावर
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: सफ़ेद पैनल एंटीना, माइक्रोवेव डिश और बेस-स्टेशन कैबिनेट से लैस एक छत पर लगा टेलीकॉम मस्तूल, जो नीले आसमान के नीचे एक निचली इमारतों वाले शहर के ऊपर उठा है
+    kind: representative
+    origin: third-party
+    subject: एक शहर के ऊपर पैनल एंटीना और माइक्रोवेव डिश के साथ एक छत पर लगा 5G सेल टावर
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 दो मलेशियाई लोगों से पूछिए कि देश के मोबाइल नेटवर्क कैसे चलाए जाते हैं और आपको अक्सर दो भिन्न, आधे-सही उत्तर मिलेंगे — क्योंकि वास्तव में दो अलग-अलग कहानियाँ आपस में उलझी हुई हैं। एक है एक ब्रॉडबैंड कवरेज योजना जिसका नाम अधिकांश लोगों ने किसी सरकारी बैनर पर देखा है। दूसरी है इस बात पर तेज़ी से बदलती लड़ाई कि 5G पाइप का स्वामित्व किसे मिले। आधुनिक मलेशियाई संपर्क को समझने का अर्थ है इन दोनों कहानियों को अलग रखना।

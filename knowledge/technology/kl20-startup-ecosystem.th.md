@@ -36,7 +36,7 @@ faq:
     a: "กระทรวงเศรษฐกิจนำแผนในช่วงเปิดตัว โดยมีกระทรวงวิทยาศาสตร์ เทคโนโลยี และนวัตกรรม (MOSTI) และกระทรวงดิจิทัลเข้ามาเกี่ยวข้อง หน่วยงานดำเนินการที่ระบุรอบงานสุดยอดรวมถึง Cradle Fund สำหรับการสนับสนุนสตาร์ทอัพและหน้าต่างเดียว MRANTI สำหรับ Innovation Belt และ Khazanah Nasional สำหรับกองทุนของกองทุนระดับชาติ"
 
 lang: "th"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: อาคาร Exchange 106 และย่านการเงิน Tun Razak Exchange ในกัวลาลัมเปอร์ มองจากหอคอย KL Tower
+    kind: representative
+    origin: third-party
+    subject: อาคาร Exchange 106 และย่านการเงิน Tun Razak Exchange (TRX) ในกัวลาลัมเปอร์
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: เส้นขอบฟ้าของเมืองกัวลาลัมเปอร์พร้อมหอคอย KL Tower และอาคารสำนักงานสูงระฟ้าใต้ท้องฟ้าสีฟ้า
+    kind: representative
+    origin: third-party
+    subject: เส้นขอบฟ้าของเมืองกัวลาลัมเปอร์พร้อมหอคอย KL Tower และกลุ่มอาคารสำนักงานสูงระฟ้า
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 ในเดือนเมษายน 2024 มาเลเซียหยุดพูดถึงสตาร์ทอัพของตนด้วยภาษาแห่งความหวัง และเริ่มพูดด้วยภาษาแห่งอันดับ คำเสนอนั้นตรงไปตรงมา: พากัวลาลัมเปอร์เข้าสู่ 20 ระบบนิเวศสตาร์ทอัพอันดับต้นของโลกภายในปี 2030 หรือยอมรับว่าประเทศได้ไหลเรื่อยมา

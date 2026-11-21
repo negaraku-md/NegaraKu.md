@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: サイバージャヤで、造園された池と噴水の傍らにある「MSC Headquarters, Multimedia Development Corporation」と書かれた看板
+    kind: actual
+    origin: third-party
+    subject: サイバージャヤにあるMSC本部／Multimedia Development Corporation（MDECの前身）の看板
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: サイバージャヤの道路沿いの公園にある、回路基板模様を施した「Cyberjaya Malaysia」と読める大きな赤い彫刻文字C
+    kind: representative
+    origin: third-party
+    subject: サイバージャヤの道路沿いの公園にある彫刻風の「Cyberjaya Malaysia」ランドマーク看板
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 「Malaysia Digital Status」で検索すると、ほとんどの結果は申請サービスを売り込むコンサルティング会社であり——その大半は三つの別々の事柄を一つに混ぜ合わせている。**機構**（MDEC）があり、機構が付与する**ステータス**（MD ステータス）があり、そしてはるかに厳しい要件を伴う、まったく別個の申請である**税制優遇**がある。これらを区別することが、RM1,000 の基準と RM50,000 の基準との違いになる。以下、一次資料に基づいて各層を解説する。

@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_o
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: A tall grey monopole mobile-phone tower topped with mobile-network antennas and 5G equipment, standing against a clear blue sky above suburban rooftops
+    kind: representative
+    origin: third-party
+    subject: A monopole mobile-phone tower carrying 5G antennas against a clear blue sky
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: A rooftop telecom mast fitted with white panel antennas, microwave dishes and base-station cabinets, rising above a low-rise city under a blue sky
+    kind: representative
+    origin: third-party
+    subject: A rooftop 5G cell tower with panel antennas and microwave dishes over a city
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 Ask two Malaysians how the country's mobile networks are run and you will often get two different, half-right answers — because there are actually two separate stories tangled together. One is a broadband coverage plan with a name most people have seen on a government banner. The other is a fast-moving fight over who gets to own the 5G pipe. Understanding modern Malaysian connectivity means keeping these two stories straight.

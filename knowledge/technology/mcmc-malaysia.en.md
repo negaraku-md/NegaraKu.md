@@ -33,7 +33,7 @@ faq:
     a: "Yes. DNB is licensed under the Communications and Multimedia Act 1998 and is subject to MCMC oversight. The single-wholesale-network model has ended: the government decided in 2023 to move to a dual 5G network, and U Mobile was selected as the second network (launched January 2026). MCMC regulates both networks."
 
 lang: "en"
-sourceContentHash: "5e417b42cf91ed1a"
+sourceContentHash: "304ac686ae9ba86c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjay
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Office towers at Shaftsbury Square in Cyberjaya, the corporate district where MCMC is headquartered'
+images:
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-1.webp
+    alt: The Telekom Malaysia Research and Development office building, a modern tech building in Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: The Telekom Malaysia Research & Development (TMR&D) office building in Cyberjaya — a telecoms-sector building in the corridor MCMC regulates
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-2.webp
+    alt: The skyline of Cyberjaya with residential and office high-rises above green parkland
+    kind: representative
+    origin: third-party
+    subject: The skyline of Cyberjaya, Malaysia's communications and multimedia hub
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skylines_of_Cyberjaya_(221225)_01.jpg
 ---
 
 Every time your phone jumps from 4G to 5G, connects to home Wi-Fi, or you install a satellite dish, that activity operates within a legal framework governed by a single body — MCMC. It decides who may build networks, who may sell services over them, and which radio frequencies may be used.

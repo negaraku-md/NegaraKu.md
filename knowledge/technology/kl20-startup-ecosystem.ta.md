@@ -36,7 +36,7 @@ faq:
     a: "பொருளாதார அமைச்சகம் தொடக்கத்தில் திட்டத்தைத் தலைமை தாங்கியது, Ministry of Science, Technology and Innovation (MOSTI) மற்றும் Ministry of Digital ஈடுபட்டன. உச்சிமாநாட்டைச் சுற்றி பெயரிடப்பட்ட வழங்கல் முகமைகளில் ஸ்டார்ட்அப் ஆதரவு மற்றும் ஒரே சாளரத்திற்கு Cradle Fund, Innovation Belt-க்கு MRANTI, மேலும் தேசிய நிதிகளின்-நிதிக்கு Khazanah Nasional ஆகியவை அடங்கும்."
 
 lang: "ta"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: KL Tower-இலிருந்து பார்க்கப்பட்ட, Kuala Lumpur-இல் உள்ள Exchange 106 கோபுரம் மற்றும் Tun Razak Exchange நிதி மாவட்டம்
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur-இல் உள்ள Exchange 106 கோபுரம் மற்றும் Tun Razak Exchange (TRX) நிதி மாவட்டம்
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: நீல வானத்தின் கீழ் KL Tower மற்றும் உயர்-மாடி அலுவலகக் கட்டிடங்களுடன் கூடிய Kuala Lumpur நகர வானளாவிய காட்சி
+    kind: representative
+    origin: third-party
+    subject: KL Tower மற்றும் கொத்தான உயர்-மாடி அலுவலகக் கட்டிடங்களுடன் கூடிய Kuala Lumpur நகர வானளாவிய காட்சி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 2024 ஏப்ரலில், மலேசியா தனது ஸ்டார்ட்அப்களைப் பற்றி நம்பிக்கையின் மொழியில் பேசுவதை நிறுத்தி, தரவரிசைகளின் மொழியில் பேசத் தொடங்கியது. சவால் வெளிப்படையாக இருந்தது: 2030க்குள் கோலாலம்பூரை உலகின் முதல் 20 ஸ்டார்ட்அப் சூழல்தொகுதிகளுக்குள் கொண்டுவாருங்கள், அல்லது நாடு தடுமாறிக்கொண்டிருந்தது என்று ஒப்புக்கொள்ளுங்கள்.

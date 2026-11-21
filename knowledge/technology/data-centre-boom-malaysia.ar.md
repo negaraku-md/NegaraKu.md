@@ -36,7 +36,7 @@ faq:
     a: "سياسة أطلقتها وزارة الرقمنة في 2025 لجعل ماليزيا مركزًا سحابيًا عالمي الطراز بحلول 2030، مرتكزة على السيادة على البيانات — مبدأ أن البيانات المولَّدة في ماليزيا يحكمها القانون الماليزي — إلى جانب سحابة ذكاء اصطناعي سيادية مزمعة."
 
 lang: "ar"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: ممر ضيّق يمتد بين جدارين من خزائن الخوادم السوداء العالية، تتلاقى الصفوف نحو مدخل مضاء في الطرف البعيد
+    kind: representative
+    origin: third-party
+    subject: ممر متماثل بين خزائن خوادم سوداء عالية في مركز بيانات جامعي
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: منظر جوي لحرم مركز بيانات عند الغسق، مع صفوف طويلة من وحدات التبريد على الأسطح ومبنى مجاور لا يزال قيد الإنشاء
+    kind: representative
+    origin: third-party
+    subject: منظر جوي لوحدات التبريد على الأسطح في حرم مركز بيانات كبير قيد الإنشاء
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 في أقل من ثلاث سنوات، تحوّل شريط من جنوب جوهور عبر الجسر المقابل لسنغافورة إلى واحد من أكثر الأماكن طلبًا على وجه الأرض لتوصيل الخوادم. فقد تدفّق عمالقة السحابة، ومشغلو الاستضافة المشتركة (colocation)، والشركات الناشئة في الذكاء الاصطناعي — والآن تكتشف ماليزيا أن خطوط الكهرباء وأنابيب الماء الكامنة تحت الطفرة لها حدود.

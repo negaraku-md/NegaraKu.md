@@ -36,7 +36,7 @@ faq:
     a: "ไม่ เมื่อวันที่ 7 March 2026 CelcomDigi และ Maxis แต่ละรายดำเนินการซื้อหุ้นของกระทรวงการคลังใน DNB เสร็จสิ้นในราคา RM327,872,640.28 เป็นการทำเครื่องหมายการถอนตัวของรัฐบาลจากธุรกิจค้าส่ง 5G และทำให้ DNB เป็นหน่วยงานเอกชนเต็มรูปแบบที่เป็นของบริษัทโทรคมนาคมและ YTL"
 
 lang: "th"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_o
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: เสาสัญญาณโทรศัพท์มือถือแบบเสาเดี่ยวสีเทาสูง มียอดติดตั้งเสาอากาศเครือข่ายมือถือและอุปกรณ์ 5G ตั้งตระหง่านตัดกับท้องฟ้าสีฟ้าใสเหนือหลังคาบ้านชานเมือง
+    kind: representative
+    origin: third-party
+    subject: เสาสัญญาณโทรศัพท์มือถือแบบเสาเดี่ยวที่ติดตั้งเสาอากาศ 5G ตัดกับท้องฟ้าสีฟ้าใส
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: เสาสัญญาณโทรคมนาคมบนดาดฟ้าที่ติดตั้งเสาอากาศแบบแผงสีขาว จานไมโครเวฟ และตู้สถานีฐาน ตั้งตระหง่านเหนือเมืองอาคารเตี้ยใต้ท้องฟ้าสีฟ้า
+    kind: representative
+    origin: third-party
+    subject: เสาสัญญาณ 5G บนดาดฟ้าพร้อมเสาอากาศแบบแผงและจานไมโครเวฟเหนือเมือง
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 ถามชาวมาเลเซียสองคนว่าโครงข่ายมือถือของประเทศดำเนินการอย่างไร แล้วคุณมักจะได้คำตอบสองแบบที่ถูกครึ่งเดียวต่างกัน — เพราะจริง ๆ แล้วมีสองเรื่องราวแยกกันที่พันกันอยู่ เรื่องหนึ่งคือแผนความครอบคลุมบรอดแบนด์ที่มีชื่อซึ่งคนส่วนใหญ่เคยเห็นบนป้ายรัฐบาล อีกเรื่องหนึ่งคือการต่อสู้ที่เคลื่อนไหวรวดเร็วว่าใครจะได้เป็นเจ้าของท่อ 5G การเข้าใจการเชื่อมต่อมาเลเซียสมัยใหม่หมายถึงการแยกสองเรื่องราวนี้ให้ชัด

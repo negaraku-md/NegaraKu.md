@@ -36,7 +36,7 @@ faq:
     a: "Kementerian Ekonomi memimpin rencana ini saat peluncuran, dengan Kementerian Sains, Teknologi dan Inovasi (MOSTI) dan Kementerian Digital terlibat. Lembaga pelaksana yang disebut di sekitar summit meliputi Cradle Fund untuk dukungan startup dan satu jendela, MRANTI untuk Innovation Belt, dan Khazanah Nasional untuk dana-dari-dana nasional."
 
 lang: "id"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: Menara Exchange 106 dan distrik keuangan Tun Razak Exchange di Kuala Lumpur, dilihat dari KL Tower
+    kind: representative
+    origin: third-party
+    subject: Menara Exchange 106 dan distrik keuangan Tun Razak Exchange (TRX) di Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: Cakrawala kota Kuala Lumpur dengan KL Tower dan gedung-gedung perkantoran tinggi di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: Cakrawala kota Kuala Lumpur dengan KL Tower dan gedung-gedung perkantoran tinggi yang berkelompok
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 Pada April 2024, Malaysia berhenti berbicara tentang startup-nya dalam bahasa harapan dan mulai berbicara dalam bahasa peringkat. Ajakannya lugas: bawa Kuala Lumpur ke dalam 20 ekosistem startup teratas dunia pada 2030, atau akui bahwa negara ini telah berjalan santai.

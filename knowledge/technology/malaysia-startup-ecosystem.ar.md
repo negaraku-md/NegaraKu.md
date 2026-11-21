@@ -36,7 +36,7 @@ faq:
     a: "KL20 هي خطة عمل الحكومة لعام 2024، التي كُشف عنها في قمة KL20 في كوالالمبور، لتعزيز قدرة الشركات الناشئة في ماليزيا على المنافسة. وتُحدِّد مبادرات عبر ثلاثة مجالات تركيز حاسمة — رأس المال، والمواهب، وجودة الشركات الناشئة — وتستهدف جعل ماليزيا من أفضل 20 مركزًا عالميًا للشركات الناشئة بتقييم للشركات الناشئة قدره RM400 مليار بحلول 2030. وهي متوائمة مع خارطة طريق رأس المال الجريء الماليزية 2024-2030 وهدف جعل ماليزيا مركزًا إقليميًا مفضَّلًا لرأس المال الجريء بحلول 2030."
 
 lang: "ar"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourn
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: أشخاص يعملون على حواسيب محمولة ويتحدثون على طاولات خشبية مشتركة طويلة في مساحة عمل مشتركة دافئة بطراز صناعي مع نوافذ كبيرة وأريكة جلدية
+    kind: representative
+    origin: third-party
+    subject: أشخاص يعملون على حواسيب محمولة ويتحدثون على طاولات مشتركة في مساحة عمل مشتركة بطراز صناعي
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: مجموعة صغيرة من مؤسّسي الشركات الناشئة يقفون في دائرة في مكتب عمل مشترك، ينصتون باهتمام بينما يطرح أحدهم فكرة خلال فعالية تقنية
+    kind: representative
+    origin: third-party
+    subject: مجموعة صغيرة من مؤسّسي الشركات الناشئة يتحدثون معاً في فعالية حاضنة أعمال تقنية
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
 ---
 
 اسأل عشرة من مؤسِّسي الشركات الماليزيين من أين يأتي مال الشركات الناشئة الحكومي وستحصل على عشرة اختصارات مختلفة. الجهاز حقيقي وسخيّ، لكنه منتشر عبر وكالات يملك كل منها شريحةً — مِنَح هنا، ومساحة مختبر هناك، ورأس مال جريء في مكان آخر مجددًا — ومعرفة أي باب تطرق توفّر شهورًا.

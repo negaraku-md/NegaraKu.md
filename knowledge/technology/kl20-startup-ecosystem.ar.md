@@ -36,7 +36,7 @@ faq:
     a: "قادت وزارة الاقتصاد الخطة عند الإطلاق، بمشاركة وزارة العلوم والتكنولوجيا والابتكار (MOSTI) ووزارة الرقمنة. ومن وكالات التنفيذ المسمّاة حول القمة Cradle Fund لدعم الشركات الناشئة وللنافذة الواحدة، وMRANTI لحزام الابتكار، وKhazanah Nasional لصندوق الصناديق الوطني."
 
 lang: "ar"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: برج Exchange 106 وحي Tun Razak Exchange المالي في كوالالمبور، يُرى من KL Tower
+    kind: representative
+    origin: third-party
+    subject: برج Exchange 106 وحي Tun Razak Exchange (TRX) المالي في كوالالمبور
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: أفق مدينة كوالالمبور مع KL Tower ومباني مكاتب عالية الارتفاع تحت سماء زرقاء
+    kind: representative
+    origin: third-party
+    subject: أفق مدينة كوالالمبور مع KL Tower ومباني مكاتب عالية الارتفاع متجمّعة
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 ---
 
 في أبريل 2024، كفّت ماليزيا عن الحديث عن شركاتها الناشئة بلغة الأمل وبدأت تتحدّث بلغة المراتب. وكان العرض صريحاً: أدخِلوا كوالالمبور إلى أفضل 20 منظومة شركات ناشئة في العالم بحلول 2030، أو اعترفوا بأن البلاد كانت تسير بلا جهد.
