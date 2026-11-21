@@ -343,7 +343,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       (!state.cat || r.catId === state.cat) &&
       (!state.top || r.topId === state.top) &&
       (!state.st || r.st === state.st) &&
-      XK.every((k) => !state.x[k] || String(r[k]) === state.x[k]),
+      XK.every((k) => !state.x[k] || String(r[k]) === state.x[k] || String(r[k] ?? '').split(' ').includes(state.x[k])),
     );
   }
 

@@ -31,6 +31,13 @@ const LOCALE_SUFFIX = /\.(ms|en|zh|ta|ja|ko|th|vi|id|ar|hi|es|fr)\.md$/i;
 // per-restaurant `year` in OVERRIDES when an entry's edition differs.
 const EDITION_YEAR = 2026;
 
+// Historical edition status (2024, 2025) per restaurant, sourced from the official
+// MICHELIN Guide per-year selection articles (see scripts/data/michelin-editions.json
+// _note + the compile commit). The CURRENT edition (EDITION_YEAR) is NOT stored there
+// — it is derived from the heuristic/OVERRIDES above, keeping one source of truth. A
+// year absent for a restaurant means it was NOT in that edition (debuted later).
+const EDITIONS = JSON.parse(readFileSync(join(ROOT, 'scripts', 'data', 'michelin-editions.json'), 'utf8')).restaurants;
+
 // --- editorial overrides (slug -> partial facts) ---------------------------
 // Fill in only where the heuristic below is wrong. Keeps regeneration correct.
 const OVERRIDES = {
@@ -122,6 +129,20 @@ for (const f of files) {
     year: EDITION_YEAR,
     ...(OVERRIDES[slug] || {}),
   };
+  // Edition history: merge the sourced 2024/2025 facts with this (current) edition's
+  // distinction. `editions` is every year the restaurant was in the guide (ascending);
+  // `history` maps year -> distinction that year; `greenStarYears` lists Green Star years.
+  const hist = EDITIONS[slug] || {};
+  const history = {};
+  if (hist['2024']) history['2024'] = hist['2024'];
+  if (hist['2025']) history['2025'] = hist['2025'];
+  history[String(EDITION_YEAR)] = row.distinction;
+  row.history = history;
+  row.editions = Object.keys(history).map(Number).sort((a, b) => a - b);
+  const greenStarYears = [];
+  if (hist.greenStar2025) greenStarYears.push(2025);
+  if (row.greenStar) greenStarYears.push(EDITION_YEAR);
+  if (greenStarYears.length) row.greenStarYears = greenStarYears;
   rows.push(row);
 }
 

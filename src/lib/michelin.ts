@@ -17,6 +17,12 @@ interface Row {
   state: string | null;
   city: string | null;
   year: number;
+  /** Every edition year this restaurant appeared in (ascending). */
+  editions?: number[];
+  /** Year -> distinction held that edition. */
+  history?: Record<string, Dist>;
+  /** Edition years in which it held a Green Star. */
+  greenStarYears?: number[];
 }
 
 export interface MichelinFacet {
@@ -62,7 +68,7 @@ export function michelinListProps(locale: Locale): MichelinListProps {
   const groupsPresent = [...new Set(rows.map((r) => GROUP(r.distinction)))];
   const statesPresent = [...new Set(rows.map((r) => r.state).filter(Boolean))] as string[];
   const pricesPresent = [...new Set(rows.map((r) => r.price).filter(Boolean))].sort((a, b) => (a as string).length - (b as string).length) as string[];
-  const yearsPresent = [...new Set(rows.map((r) => r.year))].sort((a, b) => b - a);
+  const yearsPresent = [...new Set(rows.flatMap((r) => (r.editions?.length ? r.editions : [r.year])))].sort((a, b) => b - a);
 
   const awardOpt = [
     { value: 'stars', label: `★ ${lblStars}` },
@@ -80,7 +86,8 @@ export function michelinListProps(locale: Locale): MichelinListProps {
   const enrich = (a: { data: { slug: string } }): Record<string, string> => {
     const m = mBySlug[a.data.slug];
     if (!m) return {};
-    return { award: GROUP(m.distinction), mstate: m.state ?? '', mprice: m.price ?? '', medition: String(m.year), badge: badgeLabel(m.distinction) };
+    const editions = m.editions?.length ? m.editions : [m.year];
+    return { award: GROUP(m.distinction), mstate: m.state ?? '', mprice: m.price ?? '', medition: editions.join(' '), badge: badgeLabel(m.distinction) };
   };
 
   return { facets, enrich };

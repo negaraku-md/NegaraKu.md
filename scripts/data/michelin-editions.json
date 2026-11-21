@@ -1,0 +1,252 @@
+{
+  "_note": "Per-restaurant MICHELIN Guide Kuala Lumpur & Penang edition history (2024, 2025). 2026 (current) is derived from michelin.json/the build heuristic; only the historical editions are recorded here. Absence of a year = that restaurant was NOT in that edition (not-listed). Sourced Nov 2026 from official guide.michelin.com per-year selection articles + reputable cross-checks; see commit. greenStar2025 flags Dewakan (Malaysia first Green Star, 2025).",
+  "editions": [
+    2024,
+    2025,
+    2026
+  ],
+  "restaurants": {
+    "dewakan": {
+      "2024": "two-star",
+      "2025": "two-star",
+      "greenStar2025": true
+    },
+    "akar": {
+      "2024": "selected",
+      "2025": "selected"
+    },
+    "au-jardin": {
+      "2024": "star",
+      "2025": "star"
+    },
+    "auntie-gaik-leans-old-school-eatery": {
+      "2024": "star",
+      "2025": "star"
+    },
+    "beta": {
+      "2024": "star",
+      "2025": "star"
+    },
+    "chim-by-chef-noom": {
+      "2025": "star"
+    },
+    "dc-by-darren-chin": {
+      "2024": "star",
+      "2025": "star"
+    },
+    "molina": {
+      "2025": "star"
+    },
+    "terra-dining": {
+      "2025": "selected"
+    },
+    "7-chai-ipoh-hor-fun": {},
+    "ah-hei-bak-kut-teh": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "aliyaa": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "anak-baba": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "awesome-char-koay-teow": {},
+    "bee-hwa-cafe": {},
+    "bibiks-kitchen": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "bm-cathay-pancake": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "bm-yam-rice": {
+      "2024": "selected",
+      "2025": "bib-gourmand"
+    },
+    "bridge-street-prawn-noodle": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "coast-by-kayra": {
+      "2025": "bib-gourmand"
+    },
+    "communal-table-by-gen": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "congkak": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "de-wan-1958": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "duck-blood-curry-mee": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "foong-lian": {
+      "2025": "bib-gourmand"
+    },
+    "ghee-lian": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "green-house-prawn-mee-and-loh-mee": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "gulainya": {},
+    "hai-kah-lang": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "hing-kee-bakuteh": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "hor-poh-cuisine": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "hot-bowl-white-curry-mee": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "ivys-nyonya-cuisine": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "jalan-ipoh-claypot-chicken-rice": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "lai-foong-lala-noodles": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "laksalicious": {
+      "2025": "bib-gourmand"
+    },
+    "lama": {},
+    "leens": {
+      "2025": "bib-gourmand"
+    },
+    "lemon-koay-teow-soup": {},
+    "lum-lai-duck-meat-koay-teow-thng": {
+      "2025": "bib-gourmand"
+    },
+    "ming-qin-charcoal-duck-egg-char-koay-teow": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "minji-bak-kut-teh": {},
+    "moh-teng-pheow-nyonya-koay": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "mtr-1924": {
+      "2025": "bib-gourmand"
+    },
+    "my-own-cafe": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "nam-heong-chicken-rice": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "nasi-ayam-hainan-chee-meng": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "neighbourwood": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "nirwana": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "penang-road-famous-jin-kor-char-kuey-teow": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "penang-road-famous-laksa": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "rasa-rasa": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "ravis-famous-apom-manis": {
+      "2025": "bib-gourmand"
+    },
+    "roti-by-dtandoor": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "sao-nam": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "sardaarji": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "sek-yuen": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "serabai-istimewa": {
+      "2025": "bib-gourmand"
+    },
+    "siam-road-char-koay-teow": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "sifu": {},
+    "sin-kiew-yee-shin-kee-beef-noodles": {
+      "2025": "bib-gourmand"
+    },
+    "sister-yaos-char-koay-kak": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "super-star-koay-teow-soup": {
+      "2025": "bib-gourmand"
+    },
+    "taman-bukit-curry-mee": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "teksen": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "thara": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "wan-dao-tou-assam-laksa": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "winns-cafe": {
+      "2025": "bib-gourmand"
+    },
+    "wong-mei-kee": {
+      "2024": "bib-gourmand",
+      "2025": "bib-gourmand"
+    },
+    "potager": {
+      "2025": "selected"
+    }
+  }
+}
