@@ -87,7 +87,28 @@ export function michelinListProps(locale: Locale): MichelinListProps {
     const m = mBySlug[a.data.slug];
     if (!m) return {};
     const editions = m.editions?.length ? m.editions : [m.year];
-    return { award: GROUP(m.distinction), mstate: m.state ?? '', mprice: m.price ?? '', medition: editions.join(' '), badge: badgeLabel(m.distinction) };
+    const hist = m.history ?? { [String(m.year)]: m.distinction };
+    // Tenure: how long the restaurant has CONTINUOUSLY held its current distinction
+    // (walk editions back from the latest while the distinction is unchanged). A
+    // promotion or a debut both surface as "new this edition" — never overstated.
+    const sortedY = [...editions].sort((x, y) => x - y);
+    let since = m.year;
+    for (let i = sortedY.length - 1; i >= 0; i--) {
+      if (hist[String(sortedY[i])] === m.distinction) since = sortedY[i];
+      else break;
+    }
+    const msince =
+      since < m.year
+        ? L(`Sejak ${since}`, `Since ${since}`, `${since}年起入选`, `${since} முதல்`, `${since}年から`, `${since}년부터`, `ตั้งแต่ ${since}`, `Từ ${since}`, `Sejak ${since}`, `منذ ${since}`, `${since} से`, `Desde ${since}`, `Depuis ${since}`)
+        : L('Baharu edisi ini', 'New this edition', '本届新入选', 'இந்தப் பதிப்பில் புதியது', '今回の版で新規', '이번 에디션 신규', 'ใหม่ในฉบับนี้', 'Mới trong ấn bản này', 'Baru di edisi ini', 'جديد في هذا الإصدار', 'इस संस्करण में नया', 'Nuevo en esta edición', 'Nouveau dans cette édition');
+    return {
+      award: GROUP(m.distinction),
+      mstate: m.state ?? '',
+      mprice: m.price ?? '',
+      medition: editions.join(' '),
+      badge: badgeLabel(m.distinction) + (m.greenStar ? ' 🌱' : ''),
+      msince,
+    };
   };
 
   return { facets, enrich };
