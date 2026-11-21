@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 दशकों तक कुआलालंपुर और पूर्वी-तट राज्यों के बीच सबसे तेज़ रास्ते का मतलब पहाड़ों के ऊपर से सड़क द्वारा एक लंबी यात्रा था। ईस्ट कोस्ट रेल लिंक मलेशिया का यह दाँव है कि पटरी की एक अकेली लाइन इसे बदल सकती है — और इस प्रक्रिया में, यह भी पुनर्संतुलित कर सकती है कि देश की वृद्धि कहाँ होती है।

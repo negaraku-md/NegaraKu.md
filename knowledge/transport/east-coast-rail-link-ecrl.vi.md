@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 Trong nhiều thập niên, cách nhanh nhất để đi lại giữa Kuala Lumpur và các bang bờ Đông là một chặng đường bộ dài băng qua núi. Tuyến đường sắt Bờ Đông là canh bạc của Malaysia rằng một tuyến đường ray duy nhất có thể thay đổi điều đó — và trong quá trình ấy, tái cân bằng nơi tăng trưởng của đất nước diễn ra.

@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 Selama beberapa dekad, cara terpantas antara Kuala Lumpur dengan negeri pantai timur bermakna perjalanan jauh menyeberangi banjaran gunung melalui jalan raya. Laluan Rel Pantai Timur ialah pertaruhan Malaysia bahawa satu landasan rel boleh mengubah keadaan itu — dan, dalam proses itu, mengimbangi semula tempat pertumbuhan negara berlaku.

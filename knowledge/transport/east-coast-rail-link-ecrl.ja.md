@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 何十年もの間、クアラルンプールと東海岸の州々との間を最も速く移動する手段は、山越えの長い陸路だった。東海岸鉄道リンクは、ただ一本の線路がそれを変え、その過程でこの国の成長が起きる場所そのものを再配分できる——というマレーシアの賭けである。

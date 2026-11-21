@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 على مدى عقود، كانت أسرع طريقة للتنقل بين كوالالمبور وولايات الساحل الشرقي تعني رحلة برية طويلة عبر الجبال. ومشروع السكة الحديدية للساحل الشرقي هو رهان ماليزيا على أن خطاً واحداً من القضبان قادر على تغيير ذلك — وأن يعيد في الوقت نفسه توزيع المواضع التي يتحقق فيها نمو البلاد.

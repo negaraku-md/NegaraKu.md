@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 수십 년 동안 쿠알라룸푸르와 동해안 주들 사이를 오가는 가장 빠른 길은 산을 넘는 긴 도로 여행을 뜻했습니다. 동해안철도연결선은 단 하나의 선로가 그것을 바꿀 수 있다는 — 그리고 그 과정에서 이 나라의 성장이 일어나는 곳을 재조정할 수 있다는 — 말레이시아의 베팅입니다.

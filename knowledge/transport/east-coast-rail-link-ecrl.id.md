@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 Selama beberapa dekade, cara tercepat antara Kuala Lumpur dan negara bagian pesisir timur berarti perjalanan panjang melintasi pegunungan dengan jalan darat. East Coast Rail Link adalah taruhan Malaysia bahwa satu jalur rel dapat mengubah hal itu — dan, dalam prosesnya, menata ulang di mana pertumbuhan negeri ini terjadi.

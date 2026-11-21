@@ -116,6 +116,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 For decades the fastest way between Kuala Lumpur and the east-coast states meant a long haul over the mountains by road. The East Coast Rail Link is Malaysia's bet that a single line of track can change that — and, in the process, rebalance where the country's growth happens.

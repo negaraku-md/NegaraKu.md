@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 数十年来，往返吉隆坡与东海岸各州最快的方式，意味着要翻山越岭走一段漫长的公路。东海岸铁路衔接线是马来西亚押下的一注：赌一条铁路能改变这一切——并在此过程中重新平衡这个国家的增长发生在何处。

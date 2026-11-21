@@ -117,6 +117,7 @@ images:
     credit: Wiki Farazi / Wikimedia Commons
     license: CC0
     sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 Pendant des décennies, le moyen le plus rapide de relier Kuala Lumpur aux États de la côte est imposait un long trajet routier à travers les montagnes. L'East Coast Rail Link est le pari de la Malaisie qu'une seule ligne de chemin de fer peut changer cela — et, au passage, rééquilibrer les lieux où se produit la croissance du pays.
