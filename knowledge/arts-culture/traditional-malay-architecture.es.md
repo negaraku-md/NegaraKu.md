@@ -27,7 +27,7 @@ faq:
     a: "Una casa malaya alberga por lo general a una sola familia, mientras que una casa larga (rumah panjang) alberga a muchas familias dentro de una única estructura alargada: cada familia posee su propia habitación (bilek), compartida con una galería comunal llamada ruai."
 
 lang: "es"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: Una casa de pueblo (kampung) de madera marrón oscura elevada sobre pilotes, con un empinado tejado a dos aguas, aleros festoneados tallados, paredes de madera con paneles y una escalera exterior que sube a una veranda, enmarcada por follaje verde
+    kind: actual
+    origin: third-party
+    subject: una tradicional casa malaya de madera sobre pilotes (rumah Melayu) con empinado tejado a dos aguas, tablas de fascia talladas y una veranda elevada a la que se accede por escalones de madera
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: Un largo palacio malayo de madera elevado con tejados de estilo Minangkabau curvados hacia arriba que se curvan hasta puntas afiladas, paredes de madera oscura con paneles y ventanas de celosía, en pie sobre postes tallados junto a un cartel que reza Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: el palacio de madera de Negeri Sembilan Istana Ampang Tinggi, con sus tejados a dos aguas de estilo Minangkabau curvados hacia arriba en forma de cuernos de búfalo
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Levanta una vieja casa de kampung, desmonta sus ensambles y vuelve a montarla en un emplazamiento nuevo, en buena medida sin ningún cimiento fijo de hormigón. Esa es la sabiduría de la arquitectura malaya tradicional: una casa que «lee» el clima tropical mucho antes de que existiera el aire acondicionado.

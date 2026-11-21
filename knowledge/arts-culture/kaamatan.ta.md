@@ -33,7 +33,7 @@ faq:
     a: "Magavau என்பது அறுவடைக்குப் பிறகு நெல் ஆவியான Bambaazon-ஐப் போற்றி “வீட்டிற்கு அழைக்கும்” நன்றி செலுத்தும் சடங்கு ஆகும். இது பாரம்பரியமாக சடங்குப் பாடல்களை ஓதும் பூசாரிப் பெண்ணான bobohizan (bobolian எனவும் எழுதப்படும்) ஒருவரால் நடத்தப்படுகிறது. இது Kaamatan-இன் பழமையான சடங்கு கூறுகளில் ஒன்றாகும்."
 
 lang: "ta"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: சபா, பெனம்பாங்கில் நடைபெற்ற காமாத்தன் விழாவில் மேடையில் பாரம்பரிய கறுப்பு-தங்க கடசான்-டுசுன் உடையில் ஆறு இறுதிப் போட்டியாளர்களுக்கு நடுவே மகுடம் சூட்டப்பட்ட உண்டுக் நகாவ் வெற்றியாளர்
+    kind: actual
+    origin: third-party
+    subject: காமாத்தன் விழா அழகிப் போட்டியில் உண்டுக் நகாவ் வெற்றியாளரும் இறுதிப் போட்டியாளர்களும்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: சபாவில் நடைபெற்ற காமாத்தன் அறுவடைக் கொண்டாட்டத்தில் சிவப்பு-வெள்ளி ஓரத்துடன் கறுப்பு உடை அணிந்து, கெங்களுடன் பாரம்பரிய நடனம் நிகழ்த்தும் இளம் கடசான்-டுசுன் நடனக் கலைஞர்கள்
+    kind: actual
+    origin: third-party
+    subject: கெங்களுடன் அறுவடை விழா நடனம் நிகழ்த்தும் கடசான்-டுசுன் இளைஞர்கள்
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 இத்திருவிழா ஒரே ஒரு கருத்தின் அடிப்படையில் பெயரிடப்பட்டுள்ளது: அறுவடை. Kadazandusun மொழியில் *Kaamatan* என்றால் சரியாக அதுவேதான் பொருள்; கொண்டாட்டத்தின் மற்ற அனைத்தும் — சடங்கு, நெல் மது, இறுதி மாலையில் மணிமுடி சூட்டப்படும் அணிவகுப்பு — நெல்லை அறுவடை செய்யும் அந்த ஒரே செயலிலிருந்து வளர்கின்றன.

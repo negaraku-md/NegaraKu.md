@@ -32,7 +32,7 @@ faq:
     a: "캄무스 데완 프르다나(Kamus Dewan Perdana)는 DBP의 공식 디지털 참조 사전으로, 종합적인 말레이어 참조 플랫폼을 마련하려는 디지털 전환 의제의 일부이며 kamus.dbp.gov.my에서 무료로 이용할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: 드완 바하사 단 푸스타카 건물 정면에 말레이시아의 삶을 묘사한 크고 색색의 입체파 양식 모자이크 벽화가 있고, 뒤로 사무용 타워가 솟은 모습
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 DBP 저층부에 있는 'Bahasa Bangsa Negara' 현수막과 뒤쪽 타워가 보이는 대형 모자이크 벽화
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: 넓은 계단 위로 정교하게 조각한 말레이 문양 패널을 붙인, 드완 바하사 단 푸스타카 건물의 웅장한 경사지붕 현관 포치
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 DBP 정문으로, 말레이 문양 조각 패널과 웅장한 계단이 있는 모습
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 말레이어 낱말의 철자를 확인할 때마다, 새로운 과학 용어를 마주할 때마다, 또는 어느 국가문학인의 칭호를 읽을 때마다, 그 무대 뒤에는 한 기관이 있습니다. 데완 바하사 단 푸스타카입니다.

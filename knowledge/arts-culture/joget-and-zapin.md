@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: Sekumpulan penari Melayu berkostum sarung merah jambu, hijau dan emas yang terang mengangkat tangan dan memulas pergelangan tangan dalam tarian joget yang rancak, kaum lelaki berbaju sepadan dan kaum wanita berbunga di rambut, pada acara terbuka di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Sekumpulan penari rakyat Melayu membuat persembahan tarian bergaya joget yang rancak di Kuala Lumpur, Malaysia
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: Berpuluh-puluh penari Melayu berbaju kurung, bersarung dan bersongkok mengangkat kedua-dua tangan ke atas kepala secara serentak ketika tarian zapin beramai-ramai di tempat terbuka, memenuhi sebuah jalan di hadapan wakaf kayu pada hari mendung.
+    kind: representative
+    origin: third-party
+    subject: Tarian zapin (jepin) beramai-ramai oleh penari Melayu berpakaian tradisional pada sebuah festival bandar di Pontianak, Indonesia
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 Dua penari bergerak pantas mengikut rentak gendang — kaki menghentak, tangan menari lembut. Ramai yang menontonnya terus menyebutnya "tarian Melayu" tanpa membezakan yang mana Joget dan yang mana Zapin. Tanya dari mana masing-masing datang, dan jawapannya membawa kita ke dua penjuru dunia: satu daripada geladak kapal dagang Portugis di Melaka, satu lagi daripada kafilah pendakwah Arab dari Hadhramaut.

@@ -33,7 +33,7 @@ faq:
     a: "Magavau là một nghi lễ tạ ơn để tôn vinh và 'gọi về nhà' thần lúa, Bambaazon, sau vụ gặt. Nó theo truyền thống do một bobohizan (còn viết là bobolian) chủ trì, một nữ tư tế đọc các bài tụng nghi lễ. Đó là một trong những thành tố nghi lễ lâu đời hơn của Kaamatan."
 
 lang: "vi"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: Người đoạt vương miện Unduk Ngadau cùng sáu thí sinh chung kết trong trang phục Kadazan-Dusun truyền thống màu đen và vàng trên sân khấu tại lễ hội Kaamatan ở Penampang, Sabah
+    kind: actual
+    origin: third-party
+    subject: Người thắng cuộc Unduk Ngadau và các thí sinh chung kết tại cuộc thi sắc đẹp của lễ hội Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: Các vũ công trẻ người Kadazan-Dusun trong trang phục đen viền đỏ và bạc biểu diễn một điệu múa truyền thống cùng cồng chiêng tại lễ hội mừng mùa Kaamatan ở Sabah
+    kind: actual
+    origin: third-party
+    subject: Thanh thiếu niên Kadazan-Dusun biểu diễn điệu múa mừng mùa với cồng chiêng
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 Lễ hội được đặt tên theo một ý duy nhất: mùa gặt. *Kaamatan* nghĩa đúng như vậy trong tiếng Kadazandusun, và mọi thứ khác trong lễ mừng — nghi lễ, rượu gạo, cuộc thi được đăng quang vào tối cuối cùng — đều mọc ra từ một hành động ấy là thu hoạch lúa về.

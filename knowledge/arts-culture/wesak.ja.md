@@ -20,7 +20,7 @@ appliesTo: "マレーシアにおいて、仏教徒であるか否かを問わ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: マレーシアのウェサック・デーの祝いの席で、テントの下に吊るされた、ターコイズ・ライムグリーン・ピンク・白の小さな提灯の長い列。それぞれに火のついたろうそくと願い事を書いたピンクの紙片が入っており、背後を来場者が歩いている
+    kind: actual
+    origin: third-party
+    subject: マレーシアのアロースターのウェサック・デーの祝いで、願い事の紙片を添えた色とりどりの信者の祈願提灯の列
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: テント内で、ピンクと黄色の布をかけたテーブルに整然と並べられた何百もの小さな蓮の形をしたろうそくの灯明が、花に囲まれた小さな仏像へと続き、背景には青空を描いた背景幕が広がっている様子
+    kind: actual
+    origin: third-party
+    subject: マレーシアのアロースターのウェサック・デーで、仏像の前に何百もの蓮のろうそくの灯明を灯した祈りの祭壇
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 ウェサック・デー（Wesak Day、Vesakとも表記）がいつなのかを尋ねても、決まった答えはない——毎年変わるのだ。2026年は5月31日、2027年は5月20日、2028年は5月9日にあたる。理由は単純である。ウェサックは暦の特定の日付ではなく月の満ち欠けによって定まり、陰暦と西暦は毎年互いにずれていくからである。

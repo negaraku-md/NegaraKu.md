@@ -29,7 +29,7 @@ faq:
     a: "Serunai được chơi bằng kỹ thuật hô hấp vòng (circular breathing) cho phép âm thanh của nó kéo dài không ngắt quãng, khiến nó trở thành nhạc cụ chính giữ giai điệu trong Nobat."
 
 lang: "vi"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: Một hàng trống lớn rebana ubi trên những giá gỗ màu xanh, thân và khung trống được sơn những họa tiết hoa rực rỡ màu đỏ, xanh lá, vàng và hồng
+    kind: actual
+    origin: third-party
+    subject: Một hàng trống khung lớn rebana ubi từ Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: Một người đàn ông lớn tuổi mặc áo cam thổi một ống kèn hai lưỡi gà serunai, với những hàng trống khung Mã Lai xếp trên sàn phía sau ông
+    kind: actual
+    origin: third-party
+    subject: Nhạc công lớn tuổi thổi kèn hai lưỡi gà serunai tại nhà ở Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 Cùng một âm thanh lặp lại đằng sau gần như mọi buổi diễn nghệ thuật của Malaysia: nhịp da dê được vỗ theo nhóm ở đám cưới, cây sáo âm cao ngân nga mở màn wayang kulit, và tiếng gảy dây gỗ êm dịu ở nhà dài Sarawak. Các nhạc cụ tạo ra chúng thường xuất hiện trong nhiều bài viết về nghệ thuật — nên trang này gom chúng lại một chỗ.

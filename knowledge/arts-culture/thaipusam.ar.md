@@ -35,7 +35,7 @@ faq:
     a: "فقط في الولايات والأقاليم الاتحادية التي تُعلنها. فهو يُحتفى به عطلةً رسمية في أماكن منها كوالالمبور وبوتراجايا وسلانجور وبينانغ وبيراك ونيغري سمبيلان وجوهور وقدح، وليس مُعلَنًا عطلةً اتحادية على مستوى البلاد. ولأنه يُحدَّد ولايةً ولايةً، فقد تختلف القائمة الدقيقة من سنة إلى أخرى — تحقّق دائمًا من الإشعار الرسمي بالعطلات للولاية المعنية."
 
 lang: "ar"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Rea
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: حشد كثيف من الحجاج يملأ الممشى في كهوف باتو تحت تمثال اللورد موروغان الذهبي الشاهق وتلال الحجر الجيري المكسوة بالغابات خلال ثايبوسام
+    kind: actual
+    origin: third-party
+    subject: حشود من حجاج ثايبوسام تحت تمثال اللورد موروغان الذهبي في كهوف باتو
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: أحد المتعبّدين في ثايبوسام يُرى من الخلف حاملاً على كتفه عمود كاڤادي معلّقة به أجراس ويحمل إناء حليب فضياً أمام غوبورام معبد هندوسي ملوّن في إيبوه، بيراك
+    kind: actual
+    origin: third-party
+    subject: حامل كاڤادي يحمل إناء حليب في موكب ثايبوسام في إيبوه
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 قبيل الفجر، يمتلئ تلٌّ من الحجر الجيري على الطرف الشمالي لكوالالمبور بالأصوات — الطبول، والترانيم، ووقع مئات الآلاف من الأقدام الحافية على الحجر. وعند قاعدة درجٍ من 272 درجة يقف تمثال ذهبي أطول من مبنى من أربعة عشر طابقًا. وقد بدأ الصعود، ولن يتوقف معظم اليوم.

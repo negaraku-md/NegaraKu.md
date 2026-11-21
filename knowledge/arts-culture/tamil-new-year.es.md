@@ -32,7 +32,7 @@ faq:
   - q: "¿Qué tiene de especial el pachadi de mango y flor de nim?"
     a: "Es el plato emblemático del Año Nuevo tamil. Se elabora combinando mango verde (ácido), panela de palma (dulce), flor de nim (amarga), tamarindo y similares. La mezcla de lo dulce, lo amargo y lo ácido en un solo plato se considera un recordatorio para aceptar que el año que viene traerá una mezcla de alegría y de tristeza."
 lang: "es"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: Una olla de plata coronada con un coco, hojas de mango y flores amarillas, flanqueada por lámparas de aceite de latón encendidas, dispuesta como un altar propicio del Año Nuevo Tamil
+    kind: representative
+    origin: third-party
+    subject: Kalasam tradicional del Año Nuevo Tamil, una olla de plata coronada con un coco, hojas de mango y flores junto a lámparas de aceite de latón
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: Las altas torres gopuram intrincadamente talladas y vivamente pintadas del templo Meenakshi Amman en Madurai alzándose sobre los corredores con pilares y el estanque del templo
+    kind: representative
+    origin: third-party
+    subject: Imponentes gopurams tallados del templo Meenakshi Amman en Madurai, sede del festival Chithirai
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 El primer amanecer del mes de Chithirai. En muchos hogares tamiles ya la noche

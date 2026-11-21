@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் உள்ள எவரும் — பௌத்தராயினும் இல்லாவிட்டாலும் — வெசாக் தினம் என்றால் என்ன, அது எப்போது விழுகிறது, மற்றும் அது எவ்வாறு அனுசரிக்கப்படுகிறது என்பது குறித்த தெளிவான, துல்லியமான குறிப்பை விரும்புவோர்; பொது விடுமுறைத் தேதியைச் சரிபார்க்கும் முதலாளிகள் மற்றும் ஊழியர்கள் உட்பட."
 
 lang: "ta"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: நீலப்பச்சை, இளம்பச்சை, இளஞ்சிவப்பு மற்றும் வெள்ளை நிறங்களில் தொங்கும் சிறிய லாந்தர்களின் நீண்ட வரிசை, ஒவ்வொன்றிலும் எரியும் மெழுகுவர்த்தியும் நல்வாழ்த்து எழுதப்பட்ட இளஞ்சிவப்பு காகிதச் சீட்டும் உள்ளன; மலேசிய வெசாக் தின கொண்டாட்டத்தில் கூடாரத்தின் கீழ் கட்டப்பட்டுள்ளன, பின்னால் பார்வையாளர்கள் நடந்து செல்கின்றனர்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, அலோர் ஸ்டாரில் நடந்த வெசாக் தின கொண்டாட்டத்தில் நல்வாழ்த்துச் சீட்டுகளுடன் வண்ணமயமான பக்தர் ஆசீர்வாத லாந்தர் வரிசைகள்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: இளஞ்சிவப்பு மற்றும் மஞ்சள் துணி விரிக்கப்பட்ட மேசைகளில் நேர்த்தியான வரிசைகளில் அடுக்கப்பட்ட நூற்றுக்கணக்கான எரியும் தாமரை வடிவ மெழுகுவர்த்தி விளக்குகள், ஒரு கூடாரத்தின் உள்ளே வரையப்பட்ட நீல வானப் பின்னணிக்கு எதிராக மலர்கள் சூழ்ந்த சிறிய புத்தர் சிலையை நோக்கிச் செல்கின்றன
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, அலோர் ஸ்டாரில் வெசாக் தினத்தன்று புத்தர் உருவத்திற்கு முன் நூற்றுக்கணக்கான எரியும் தாமரை மெழுகுவர்த்தி விளக்குகளுடன் ஒரு பக்தி பலிபீடம்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 வெசாக் தினம் எப்போது விழுகிறது என்று கேட்டால் நிலையான பதில் எதுவும் இல்லை — அது மாறுகிறது. 2026ல் அது 31 மே அன்றும், 2027ல் 20 மே அன்றும், 2028ல் 9 மே அன்றும் விழுகிறது. காரணம் எளிது: வெசாக் நிலவால் நிர்ணயிக்கப்படுகிறது, நாட்காட்டித் தேதியால் அல்ல; சந்திர மற்றும் கிரிகோரியன் நாட்காட்டிகள் ஒவ்வொரு ஆண்டும் ஒன்றுக்கொன்று விலகிச் செல்கின்றன.

@@ -33,7 +33,7 @@ faq:
     a: "Các gia đình Kitô giáo cử hành ngày này theo nghi lễ tôn giáo qua các buổi lễ nhà thờ. Ngoài ra, Giáng sinh được đánh dấu rộng rãi hơn trong đời sống công cộng — các trung tâm thương mại và khách sạn trang trí và mở đợt giảm giá theo mùa, còn tục mở cửa nhà đón khách thuộc mọi xuất thân đến dùng chung một bữa ăn là điều phổ biến. Việc tham gia vào khía cạnh xã hội, rộng hơn của mùa lễ không chỉ giới hạn ở Kitô hữu."
 
 lang: "vi"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: Một màn trang trí Giáng Sinh xứ sở kẹo ngọt cầu kỳ tại một trung tâm mua sắm ở Kuala Lumpur, với một sân khấu xoáy kẹo bạc hà đỏ trắng, những ngôi nhà bánh gừng và những hàng cây thông Noel treo đèn nhấp nháy phía trên đám đông
+    kind: actual
+    origin: third-party
+    subject: Màn trang trí Giáng Sinh chủ đề xứ sở kẹo ngọt với nhà bánh gừng và cây thông thắp sáng tại một trung tâm mua sắm ở Kuala Lumpur
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: Nhà thờ Chính tòa Anh giáo St Mary tường trắng mái ngói đỏ ở trung tâm Kuala Lumpur, với một cây thánh giá trên đầu hồi và một lá cờ Malaysia phía trước, những tòa tháp văn phòng hiện đại vươn lên phía sau
+    kind: actual
+    origin: third-party
+    subject: Nhà thờ Chính tòa Anh giáo St Mary, một nhà thờ trắng lịch sử ở trung tâm Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 Vào tối ngày 24 tháng 12, một nhà thờ ở Kota Kinabalu hay Kuching chật kín người dự buổi lễ khuya, trong khi cách đó vài trăm cây số trên bán đảo thì cùng ngày ấy lại là một thứ Năm làm việc bình thường. Sáng hôm sau, 25 tháng 12, cả nước được nghỉ. Sự phân đôi ấy — một ngày, hai địa vị rất khác nhau — là cách gọn gàng nhất để hiểu Giáng sinh đứng ở đâu tại Malaysia: một lễ hội tôn giáo với một cộng đồng, một ngày nghỉ lễ công cộng cho mọi người, và một mùa của những cánh cửa mở mà nhiều người cùng tham gia bất kể tín ngưỡng.

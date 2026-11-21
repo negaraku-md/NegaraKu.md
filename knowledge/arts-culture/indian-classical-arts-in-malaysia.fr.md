@@ -32,7 +32,7 @@ faq:
     a: "Non. Le bharatanatyam est une forme de danse classique ; le nadaswaram est une tradition de musique instrumentale jouée dans les temples et lors d'occasions de bon augure. Tous deux appartiennent au patrimoine artistique de la communauté tamoule, mais ils sont distincts ; le nadaswaram/la musique de temple est décrit ici à part, tandis que cet article se concentre sur les arts classiques de la scène."
 
 lang: "fr"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: Danseuse d'odissi en costume bleu vif et bijoux de temple argentés tenant une pose stylisée et gracieuse sur un décor de scène noir
+    kind: representative
+    origin: third-party
+    subject: Danseuse classique d'odissi en pleine pose, en costume bleu et bijoux argentés
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: Femme en sari de soie jaune et violet jouant d'un violon tenu dans la position carnatique assise, se penchant vers un microphone sur scène
+    kind: representative
+    origin: third-party
+    subject: Violoniste carnatique se produisant en sari de soie lors d'un concert de musique classique
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 Dans n'importe quelle grande ville de Malaisie, un soir de Deepavali ou un jour de fête dans un temple, on peut voir un artiste de bharatanatyam monter sur scène, les grelots de chevilles tintant, se mouvant au rythme du mridangam. Ces pas et ces gestes ne sont pas fortuits : ils racontent une tradition artistique de l'Inde du Sud vieille de plus de mille ans, et la manière dont la communauté tamoule de Malaisie l'a portée pendant plus d'un siècle et demi.

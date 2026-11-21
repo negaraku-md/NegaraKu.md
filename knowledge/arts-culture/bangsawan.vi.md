@@ -34,7 +34,7 @@ faq:
     a: "Nó suy tàn vào giữa thế kỷ 20 do sự cạnh tranh từ radio, điện ảnh và truyền hình. Đến cuối những năm 1930 nhiều rạp bangsawan được chuyển thành rạp chiếu bóng, và sau chiến tranh ngành này mất nguồn tài trợ."
 
 lang: "vi"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: Mặt ngoài của nhà hát Panggung Bangsawan ở Melaka, một mặt tiền hiện đại màu kem và nâu với biển hiệu đỏ 'Panggung Bangsawan Melaka' dưới bầu trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: Panggung Bangsawan, nhà hát dành riêng cho bangsawan ở thành phố Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: Góc nhìn từ góc phố của nhà hát Panggung Bangsawan ở Melaka với tấm biển dọc màu đỏ cao đề 'Panggung', những cây cọ và các tòa nhà thành phố phía sau dưới bầu trời u ám
+    kind: actual
+    origin: third-party
+    subject: Cảnh phố của Panggung Bangsawan, nhà hát bangsawan chuyên biệt của Melaka
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 Trước khi có phim ảnh, đã có sân khấu thắp đèn, tấm màn vẽ tay, và một dàn nhạc có thể chuyển từ những khúc du dương của cung đình Mã Lai sang nhịp điệu Trung Đông trong cùng một đêm diễn. Đó là bangsawan — opera sân khấu từng là hình thức giải trí đô thị sôi động nhất ở Bán đảo, và về sau đã trao các diễn viên cùng ca sĩ của mình cho ngành điện ảnh Mã Lai vừa mới ra đời.

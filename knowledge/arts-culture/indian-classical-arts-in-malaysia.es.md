@@ -32,7 +32,7 @@ faq:
     a: "No. El Bharatanatyam es una forma de danza clásica; el nadaswaram es una tradición de música instrumental que se interpreta en los templos y en ocasiones auspiciosas. Ambos pertenecen al patrimonio artístico de la comunidad tamil, pero son distintos; el nadaswaram/la música de templo se describe aquí por separado, mientras que este artículo se centra en las artes escénicas clásicas."
 
 lang: "es"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: Bailarina de Odissi con un traje azul brillante y joyas de templo plateadas sosteniendo una pose estilizada y grácil ante un telón de fondo de escenario negro
+    kind: representative
+    origin: third-party
+    subject: Bailarina clásica de Odissi a media pose con traje azul y joyas plateadas
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: Mujer con un sari de seda amarillo y morado tocando un violín sostenido al estilo carnático sentado, inclinándose hacia un micrófono en el escenario
+    kind: representative
+    origin: third-party
+    subject: Violinista carnática actuando con un sari de seda en un concierto de música clásica
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 En cualquier gran ciudad de Malasia, en una tarde de Deepavali o un día de fiesta en un templo, se puede ver a un artista de Bharatanatyam subir al escenario, con los cascabeles de los tobillos sonando, moviéndose al ritmo del mridangam. Esos pasos y gestos no son fruto del azar: hablan de una tradición artística del sur de la India de más de mil años, y del modo en que la comunidad tamil malasia la ha sostenido durante más de un siglo y medio.

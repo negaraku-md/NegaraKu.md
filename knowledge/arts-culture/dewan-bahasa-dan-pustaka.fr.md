@@ -32,7 +32,7 @@ faq:
     a: "Le Kamus Dewan Perdana est le dictionnaire de référence numérique officiel de la DBP, partie intégrante du programme de transformation numérique visant à offrir une plateforme de référence complète de la langue malaise, librement accessible sur kamus.dbp.gov.my."
 
 lang: "fr"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: Une grande fresque en mosaïque de style cubiste aux couleurs vives représentant la vie malaisienne sur la façade du bâtiment Dewan Bahasa dan Pustaka, avec la tour de bureaux s'élevant derrière
+    kind: actual
+    origin: third-party
+    subject: La grande fresque en mosaïque sur le socle du DBP avec la bannière « Bahasa Bangsa Negara » et la tour derrière, Kuala Lumpur
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: Le grand portique d'entrée à toit en pente du bâtiment Dewan Bahasa dan Pustaka, revêtu de panneaux finement sculptés de motifs malais au-dessus d'un large escalier
+    kind: actual
+    origin: third-party
+    subject: L'entrée principale du DBP avec ses panneaux sculptés de motifs malais et son grand escalier, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 Chaque fois que vous vérifiez l'orthographe d'un mot malais, que vous rencontrez un nouveau terme scientifique ou que vous lisez le titre d'un Lauréat national, une institution œuvre en coulisses : Dewan Bahasa dan Pustaka.

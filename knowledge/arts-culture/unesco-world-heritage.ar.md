@@ -30,7 +30,7 @@ faq:
     a: "نعم. يسجّل مركز التراث العالمي ثلاثة مواقع على القائمة المؤقتة لماليزيا: الحديقة الوطنية (Taman Negara) لشبه جزيرة ماليزيا، وسلسلة كوارتز غومباك سلانغور (Gombak Selangor Quartz Ridge)، ومُستعمرة سونغاي بولوه للمجذومين (Sungai Buloh Leprosarium). والإدراج المؤقت إعلان نيّة الترشيح، لا إدراج فعلي."
 
 lang: "ar"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: شارع تراثي ضيق في جورج تاون، بينانغ، تصطفّ على جانبيه متاجر تقليدية قديمة من طابقين معلّق عليها فوانيس حمراء ولافتة متحف الرسم بالباتيك، ولافتة شارع زرقاء كُتب عليها Lebuh Armenian على اليمين، وطريق هادئ به ممر مشاة أصفر
+    kind: actual
+    origin: third-party
+    subject: ليبوه أرمينيان (شارع أرمينيا) في حيّ جورج تاون التراثي ببينانغ، جزء من موقع التراث العالمي لليونسكو
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: الكتلة الغرانيتية الرمادية لجبل كينابالو في صباح، سلسلة قممه المسنّنة ترتفع فوق السفوح المكسوّة بالغابات، مع أشجار خضراء مورقة ومنحدر عشبي في المقدمة تحت سماء زرقاء صافية
+    kind: actual
+    origin: third-party
+    subject: جبل كينابالو يرتفع فوق منتزه كينابالو في صباح، موقع تراث عالمي لليونسكو
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 اسأل كم عدد مواقع التراث العالمي التي تملكها ماليزيا، وسيجيبك معظم المصادر بأربعة. كان ذلك صحيحاً حتى عام 2024. فقد أُدرج مجمّع كهوف نياه (Niah Caves Complex) في يوليو من تلك السنة، وتبعته حديقة غابة معهد بحوث الغابات الماليزي في سلانغور (Forest Research Institute Malaysia Forest Park Selangor) عام 2025 — ليصل المجموع إلى ستة.

@@ -35,7 +35,7 @@ faq:
     a: "이를 관보에 고시한 주와 연방 직할구에서만 그렇습니다. 쿠알라룸푸르, 푸트라자야, 슬랑오르, 페낭, 페락, 느그리 슴빌란, 조호르, 크다를 비롯한 곳에서 공휴일로 지켜지며, 전국 연방 공휴일로는 고시되어 있지 않습니다. 관할마다 개별적으로 정하기 때문에 정확한 목록은 해마다 다를 수 있으므로 — 해당 주의 공식 공휴일 공고를 늘 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Rea
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: 타이푸삼 기간, 우뚝 솟은 황금빛 무루간 신상과 숲으로 뒤덮인 석회암 언덕 아래 바투 동굴의 통로를 가득 메운 순례자들의 빽빽한 인파
+    kind: actual
+    origin: third-party
+    subject: 바투 동굴의 황금빛 무루간 신상 아래 모인 타이푸삼 순례자 인파
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: 페락주 이포의 화려한 힌두 사원 고푸람 앞에서, 종을 매단 카바디 봉을 어깨에 메고 은빛 우유 단지를 든 타이푸삼 신자를 뒤에서 본 모습
+    kind: actual
+    origin: third-party
+    subject: 이포의 타이푸삼 행렬에서 우유 단지를 들고 카바디를 멘 신자
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 동트기 전, 쿠알라룸푸르 북쪽 가장자리의 한 석회암 언덕이 소리로 가득 찹니다 — 북소리, 찬가, 그리고 수십만 개의 맨발이 돌 위를 스치는 소리. 272개 계단의 밑에 14층 건물보다 높은 황금 상이 서 있습니다. 오르기가 시작되었고, 하루의 상당 시간 동안 멈추지 않을 것입니다.

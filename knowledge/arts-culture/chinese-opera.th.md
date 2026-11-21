@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจประเภทของงิ้วจีนดั้งเดิมในมาเลเซีย และบทบาทของ「งิ้วบูชาเทพเจ้า」ในงานศาลเจ้าและเทศกาลต่าง ๆ"
 
 lang: "th"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: นักแสดงงิ้วแต้จิ๋วสองคนบนเวทีเทศกาลยามค่ำคืน ชายบัณฑิตในชุดคลุมสีน้ำเงินและตัวละครหญิงในชุดสีชมพูสด ตัดกับฉากหลัง 'Penang Dialect Theater' ที่เต็มไปด้วยอักษรจีน
+    kind: actual
+    origin: third-party
+    subject: งิ้วแต้จิ๋วริมถนนในช่วงเทศกาลตรุษจีน ย่านจอร์จทาวน์ ปีนัง ปี 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: นักแสดงงิ้วริมถนนจีนในชุดคลุมสีขาวและหมวกสีดำประดับลูกปัด แต่งหน้าแบบเวทีและสวมแว่นตา โน้มตัวเข้าหาตะเกียงดวงเล็กเพื่ออ่านบทหลังเวทีในแสงนวลอ่อน
+    kind: actual
+    origin: third-party
+    subject: นักแสดงงิ้วริมถนนจีนในเครื่องแต่งกายอ่านบทหลังเวที ประเทศมาเลเซีย
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 เสียงกลองฆ้องดังขึ้น บนเวทีแขนเสื้อน้ำ (水袖) สะบัดพลิ้ว แต่ที่นั่งผู้ชมด้านล่างกลับมักมีคนนั่งอยู่เพียงไม่กี่คน — บางครั้งไม่มีสักคนเลยด้วยซ้ำ นี่ไม่ใช่การแสดงที่ล้มเหลว เพราะแต่เดิมการแสดงนี้ไม่ได้แสดงให้คนดู

@@ -34,7 +34,7 @@ faq:
     a: "यह 20वीं शताब्दी के मध्य में रेडियो, फ़िल्म और टेलीविज़न की प्रतिस्पर्धा के कारण गिर गया। 1930 के दशक के अंत तक कई बंगसावान हॉल सिनेमाघरों में बदल दिए गए, और युद्ध के बाद इस उद्योग ने अपना वित्तपोषण स्रोत खो दिया।"
 
 lang: "hi"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: मलक्का में पंग्गुंग बंगसावान थिएटर का बाहरी भाग, एक साफ़ नीले आकाश के नीचे लाल 'Panggung Bangsawan Melaka' साइनेज के साथ एक क्रीम-और-भूरा आधुनिक अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: पंग्गुंग बंगसावान, मलक्का सिटी में बंगसावान को समर्पित थिएटर
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: मलक्का में पंग्गुंग बंगसावान थिएटर का एक सड़क-कोने से दृश्य, जिसमें इसका ऊँचा खड़ा लाल 'Panggung' चिह्न, ताड़ के पेड़ और पीछे शहर की इमारतें एक मेघाच्छादित आकाश के नीचे हैं
+    kind: actual
+    origin: third-party
+    subject: पंग्गुंग बंगसावान का सड़क-दृश्य, मलक्का का बंगसावान को समर्पित थिएटर
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 चलचित्रों के आने से पहले, प्रकाशित मंच थे, हाथ से चित्रित परदे थे, और एक ऐसी ऑर्केस्ट्रा थी जो उसी रात के प्रदर्शन में किसी मलय दरबार की प्रवाहमान धुनों से मध्य-पूर्व की किसी लय तक बदल सकती थी। वह था बंगसावान — वह मंच ओपेरा जो कभी प्रायद्वीप में शहरी मनोरंजन का सबसे जीवंत रूप था, और जिसने बाद में अपने अभिनेताओं और गायकों को नवजात मलय फ़िल्म उद्योग को सौंप दिया।

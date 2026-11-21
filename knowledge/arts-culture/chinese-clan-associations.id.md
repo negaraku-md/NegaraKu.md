@@ -33,7 +33,7 @@ faq:
     a: "Peran gotong royong perkumpulan masa kini telah banyak berubah. Banyak perkumpulan menitikberatkan pemberian beasiswa dan pinjaman pendidikan, pelestarian dialek dan budaya tradisional, penyelenggaraan perayaan dan silaturahmi, serta kesejahteraan komunitas; sejumlah kelenteng marga lama dan Jembatan Marga menjadi pusat pariwisata budaya dan pelestarian arsitektur setelah George Town ditetapkan sebagai Situs Warisan Dunia. Tingkat keaktifan dan penekanan setiap perkumpulan berbeda-beda."
 
 lang: "id"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: Rumah marga Khoo Kongsi yang diterangi cahaya saat senja untuk Tahun Baru Imlek, digantungi lampion merah dan bingkai lampu yang berpendar sementara kerumunan orang berkumpul di halaman depan
+    kind: actual
+    origin: third-party
+    subject: Rumah marga Khoo Kongsi yang diterangi cahaya dan dihias lampion merah untuk Tahun Baru Imlek 2024, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: Tampilan ke atas langit-langit rumah marga Khoo Kongsi, memperlihatkan kasau beratap genteng terakota, balok yang dicat dan braket ukiran yang bersepuh emas mewah
+    kind: actual
+    origin: third-party
+    subject: Langit-langit kayu yang dicat dan bersepuh emas pada rumah marga Khoo Kongsi, George Town, Penang
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 Melangkah masuk ke kawasan sekitar Benteng Cornwallis di George Town, Penang, di antara deretan rumah toko tiba-tiba muncul sebuah kelenteng marga dengan atap melengkung berukir halus dan balok berwarna — itulah Leong San Tong Khoo Kongsi. Berjalan lebih jauh ke arah laut, terdapat deretan rumah kayu berpanggung yang menjorok ke atas air, setiap perkampungan dinamai menurut satu marga: Jembatan Chew, Jembatan Lim, Jembatan Tan. Bangunan-bangunan ini bukan kelenteng, bukan pula sekadar tempat tinggal, melainkan peninggalan fisik salah satu bentuk organisasi tertua dalam masyarakat pendatang Tionghoa — perkumpulan marga dan kampung halaman.

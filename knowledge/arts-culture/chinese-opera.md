@@ -69,6 +69,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: 夜晚节庆舞台上两名潮州戏演员，一名身穿蓝袍的男书生和一名身着鲜粉色的女角色，站在写满汉字的「Penang Dialect Theater」背景布前
+    kind: actual
+    origin: third-party
+    subject: 2024年槟城乔治市农历新年期间的潮州街戏
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: 一名华人街戏演员身穿白袍、戴串珠黑帽，画着舞台妆、戴着眼镜，在后台暖黄的微光中凑近一盏小灯读剧本
+    kind: actual
+    origin: third-party
+    subject: 马来西亚一名穿戏服的华人街戏演员在后台研读剧本
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 锣鼓响起，戏台上水袖翻飞，台下的观众席却常常只坐着寥寥几人——有时甚至一个人也没有。这不是演出失败，因为这场戏原本就不是演给人看的。

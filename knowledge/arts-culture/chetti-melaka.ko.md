@@ -30,7 +30,7 @@ faq:
     a: "이 공동체의 수는 급격히 줄었습니다 — 싱가포르 국가유산위원회(Roots)에 따르면 1980년대 약 400가구에서 오늘날 50가구 미만으로 줄었으며, 프리 말레이시아 투데이(Free Malaysia Today) 보도는 약 20~30가구만이 여전히 캄풍 체티에 산다고 추산합니다. 연구자들은 이 쇠퇴를 통혼, 역외 이주, 그리고 체티 뿌리와의 연결을 점점 잃어 가는 젊은 세대와 연관 짓습니다."
 
 lang: "ko"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: 말라카의 체티 박물관으로 쓰이는 전통적인 2층 짙은 목재 말레이식 가옥으로, 현관 위에 'Muzium Chetti The Chetti Museum'이라 적힌 파란 간판이 있고, 낮은 울타리 뒤로 화분 식물이 줄지어 있으며 옆에는 말레이시아 국기와 말라카 주기가 걸려 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 체티 믈라카 공동체를 기록하는, 말라카 캄퐁 체티의 체티 박물관(Muzium Chetti)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: 말라카 하모니 거리에 있는 스리 포이야타 비나야가르 무르티 사원의 노란 정면으로, 타일을 깐 현관 지붕 위로 신상 벽감이 있는 소박한 층단식 탑이 솟아 있고 청록색 문이 있으며, 깊은 파란 하늘을 배경으로 낮은 아침 햇살을 받는 모습
+    kind: actual
+    origin: third-party
+    subject: 1781년 체티 공동체가 세운 역사적인 힌두 사원, 말라카의 스리 포이야타 비나야가르 무르티 사원
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 믈라카 잘란 가자 브랑의 한 오래된 마을에는 시바 신에게 기도하고, 말레이인처럼 옷을 입고, 코코넛 향이 나는 카레를 끓이며, 타밀어 낱말이 촘촘히 박힌 말레이어로 말하는 한 무리의 가족이 있습니다. 그들은 인도인도, 말레이인도, 중국인도 아닙니다 — 그들은 체티 믈라카이며, 그 수는 점점 적어지고 있습니다.

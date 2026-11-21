@@ -29,7 +29,7 @@ faq:
     a: "El serunai se toca con la técnica de la respiración circular, que permite que su sonido continúe sin interrupción, lo que lo convierte en el principal portador de la melodía en el Nobat."
 
 lang: "es"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: Una fila de grandes tambores rebana ubi sobre soportes de madera azules, con los cuerpos y los marcos pintados con vivos motivos florales en rojo, verde, amarillo y rosa
+    kind: actual
+    origin: third-party
+    subject: Fila de grandes tambores de marco rebana ubi de Kelantan, Malasia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: Un hombre mayor con camisa naranja toca una flauta de viento de doble lengüeta serunai, con filas de tambores de marco malayos alineados en el suelo tras él
+    kind: actual
+    origin: third-party
+    subject: Músico de edad avanzada tocando la flauta de doble lengüeta serunai en su hogar en Kelantan, Malasia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 Los mismos sonidos reaparecen detrás de casi todas las artes escénicas de Malasia: el golpe de la piel de cabra percutida en grupo en una boda, la flauta aguda y plañidera que abre una escena de teatro de sombras, y el reconfortante punteo de las cuerdas de madera en una casa larga de Sarawak. Los instrumentos que los producen aparecen en muchos artículos sobre las artes, así que esta página los reúne en un solo lugar.

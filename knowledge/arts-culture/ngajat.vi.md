@@ -30,7 +30,7 @@ faq:
     a: "Trong số các loại được JKKN ghi nhận có Ngajat Lesong (do nam giới múa trong khi cắn cối gỗ), Ngajat Indu (do nữ giới múa với động tác dệt pua kumbu), Ngajat Pua Kumbu (dùng tấm pua kumbu) và Ngajat Ngiling Tikai đánh dấu sự kết thúc của lễ mừng Gawai Dayak."
 
 lang: "vi"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: Một phụ nữ Iban trẻ đội mũ bạc sugu tinggi cao chót vót và mặc áo nịt đen đính đồng xu, giữ hai tay trong một tư thế mudra tinh tế gần cằm, được bao quanh bởi vòng cổ hạt cườm có núm tua màu cam trên nền sân khấu màu xanh đậm.
+    kind: actual
+    origin: third-party
+    subject: Vũ công nữ Iban trong trang phục nghi lễ đầy đủ tại Làng Văn hóa Sarawak, Borneo, Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: Một hàng vũ công nữ Iban đội mũ vương miện bạc, mặc áo đính hạt cườm đỏ và váy có tua đồng xu di chuyển đồng loạt trên một sân khấu lễ hội sáng rực, mỗi người cầm một mảnh vải đỏ nhỏ, với những khán giả in bóng ở tiền cảnh.
+    kind: actual
+    origin: third-party
+    subject: Đoàn vũ công nữ Iban biểu diễn điệu sayau ngajat trên một sân khấu lễ hội, Malaysia
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 Trong hành lang của một nhà dài ở Sarawak, một người đàn ông cắm lông chim mỏ sừng trên đầu nhảy lên, xoay người và giậm sàn — một tay cầm kiếm, tay kia cầm khiên. Đó là **Ngajat**, điệu múa xưa kia đón chiến binh trở về từ chiến trường.

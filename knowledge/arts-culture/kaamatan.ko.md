@@ -33,7 +33,7 @@ faq:
     a: "마가바우는 수확 뒤에 벼 정령 밤바아존을 기리고 「집으로 불러들이는」 감사 의식입니다. 전통적으로 의례 주문을 외우는 여사제인 보보히잔(bobohizan, 보볼리안bobolian이라고도 씀)이 이끕니다. 이는 카아마탄의 더 오래된 의례 요소 가운데 하나입니다."
 
 lang: "ko"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: 사바주 프남팡의 카아마탄 축제 무대 위에서 전통 흑금색 카다잔두순 의상을 입고 여섯 명의 결선 진출자 사이에서 왕관을 쓴 운둑 응아다우 우승자
+    kind: actual
+    origin: third-party
+    subject: 카아마탄 축제 미인 대회의 운둑 응아다우 우승자와 결선 진출자들
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: 사바의 카아마탄 추수 축제에서 붉은색과 은색 장식이 달린 검은 의상을 입고 징과 함께 전통 춤을 추는 젊은 카다잔두순 무용수들
+    kind: actual
+    origin: third-party
+    subject: 징과 함께 추수 축제 춤을 추는 카다잔두순 젊은이들
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 이 축제는 하나의 관념 — 추수 — 에서 이름을 따왔습니다. *카아마탄(Kaamatan)*은 카다잔두순 말로 바로 그것을 뜻하며, 축하의 나머지 모든 것 — 의례, 쌀술, 마지막 저녁에 관을 씌우는 대회 — 은 벼를 거두어들이는 그 하나의 행위에서 자라납니다.

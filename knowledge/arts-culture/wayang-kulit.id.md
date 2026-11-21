@@ -30,7 +30,7 @@ faq:
     a: "Kebanyakan di festival kebudayaan, program museum dan warisan, serta pertunjukan pariwisata, bukan sebagai hiburan kampung. Departemen Kebudayaan dan Kesenian Negara dan badan kebudayaan negeri adalah titik awal yang praktis untuk mencari pertunjukan yang dijadwalkan."
 
 lang: "id"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: Tampilan dekat sebuah wayang kulit dari kulit yang diukir rumit dan dicat cerah dengan warna oranye, hijau dan ungu, dipasang pada sebatang tangkai bambu tipis
+    kind: actual
+    origin: third-party
+    subject: Tampilan dekat sebuah wayang kulit Kelantan dari kulit yang dicat mencolok pada tangkai kendalinya, Muzium Negeri Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: Dua wayang kulit berwarna-warni berdiri di depan gendang tradisional dan papan informasi di dalam pajangan pondok beranyaman bambu
+    kind: actual
+    origin: third-party
+    subject: Wayang kulit Kelantan dan gendang gamelan yang dipajang dalam tatanan pondok beratap jerami dengan panel penjelasan, Muzium Negeri Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 Pelita dinyalakan dahulu. Di balik layar kapas putih yang terentang ketat pada rangka kayu, seorang laki-laki duduk bersila, setumpuk boneka kulit pipih dalam jangkauan di kiri dan kanannya, sebuah orkestra kecil terdiri atas gendang, gong, dan serunai berlidah dua yang nyaring menanti di belakangnya. Ia tidak akan meninggalkan tempat itu sepanjang malam. Menjelang bayang terakhir melintasi layar, beberapa jam dari sekarang, ia telah menyuarakan raja, raksasa, pelawak, dan putri, menceritakan peralihan antarbabak, dan memberi isyarat kepada setiap pemusik — sendirian.

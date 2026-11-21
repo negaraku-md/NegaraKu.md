@@ -30,7 +30,7 @@ faq:
     a: "Las lámparas — pequeñas lámparas de arcilla o metal a menudo llamadas diyas — son el corazón visual de un «festival de las luces». Se encienden hileras de ellas en puertas y ventanas, haciendo eco del significado del nombre del festival, «una hilera de luces»."
 
 lang: "es"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: Hileras de farolillos decorativos de Deepavali de un amarillo vivo colgados sobre un concurrido vestíbulo de viajeros en la estación de KL Sentral, en Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Farolillos de Deepavali colgantes y multitud festiva en la estación de KL Sentral
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: Un enorme kolam de pavo real de colores vivos trazado con polvos de colores sobre el suelo pulido de KL Sentral con motivo de Deepavali
+    kind: actual
+    origin: third-party
+    subject: Gran kolam de suelo con motivo de pavo real en KL Sentral para Deepavali
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 Por una noche, es la lámpara la que habla. Se disponen hileras de pequeñas lámparas de arcilla a lo largo de puertas y alféizares, se traza en el umbral un dibujo de suelo hecho con arroz o polvo de colores, y una casa que una hora antes estaba a oscuras queda perfilada por las llamas. De ahí toma el festival su nombre: *Deepavali* viene del sánscrito «una hilera o serie de luces».

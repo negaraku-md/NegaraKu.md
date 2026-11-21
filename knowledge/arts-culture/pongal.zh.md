@@ -32,7 +32,7 @@ faq:
   - q: "丰收节的四天分别是哪四天？"
     a: "Bhogi（除旧、打扫房屋）、Thai Pongal 或 Surya Pongal（向太阳致谢并献上 pongal）、Mattu Pongal（礼敬帮忙耕作的牛只）、Kaanum Pongal（探访亲友、外出游玩）——这就是那四天。"
 lang: "zh"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_we
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: 一户人家门前地上用彩色粉末绘出的一幅大型缤纷庞格尔（Pongal）地绘（kolam），画着甘蔗茎、鲜花和一只满溢的节庆陶罐
+    kind: representative
+    origin: third-party
+    subject: 街边一幅缤纷的庞格尔地绘（kolam），以甘蔗、花卉和满溢陶罐为图案
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: 两只红边圆形陶罐，手绘白底彩色锯齿和圆点图案，为丰收节烹煮庞格尔（Pongal）而准备
+    kind: representative
+    origin: third-party
+    subject: 两只为丰收节装饰的手绘庞格尔陶罐
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 「泰」月初临的清晨，马来西亚泰米尔家庭的庭院与门前一片忙碌。在一幅新画好的

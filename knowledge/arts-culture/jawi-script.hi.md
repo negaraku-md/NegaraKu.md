@@ -34,7 +34,7 @@ seoTitle: "जावी लिपि: इतिहास, प्रणाली 
 socialTitle: "वह अरबी वर्णमाला जिसने सात सदियों तक मलय लिखी है — जावी लिपि की कहानी"
 
 lang: "hi"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_M
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: अलंकृत सुनहरी, नीली और लाल पुष्प अलंकरण से घिरे जावी पाठ के दो आमने-सामने पांडुलिपि-पृष्ठ
+    kind: actual
+    origin: third-party
+    subject: मलय साहित्यिक कृति ताज अल-सलातिन के अलंकृत प्रारंभिक पृष्ठ, जावी में हस्तलिखित
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: एक प्रदर्शन-केस में एक पुरानी खुली पांडुलिपि-पुस्तक, जिसके आमने-सामने के पृष्ठ बहती हस्तलिखित जावी लिपि से ढँके हैं
+    kind: actual
+    origin: third-party
+    subject: जावी में लिखित हुकुम कानुन मेलाका (मलक्का विधि-संग्रह) की खुली पांडुलिपि, संग्रहालय प्रदर्शन में
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 तेरेंगानु (Terengganu) में मिले एक शिलालेख पर, मलय शब्द उकेरे गए हैं — उन अक्षरों में नहीं जिन्हें हम आज इस्तेमाल करते हैं, बल्कि मलय ध्वनियों के लिए अनुकूलित एक अरबी लिपि में। यह शिलालेख, तेरेंगानु शिलालेख (Batu Bersurat Terengganu), 702 हिजरी की तिथि धारण करता है, जिसे आमतौर पर 1303 ईस्वी के बराबर माना जाता है।

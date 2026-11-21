@@ -32,7 +32,7 @@ faq:
   - q: "งานแต่งต้องใช้สีแดงและฤกษ์ดีหรือไม่ มีข้อห้ามอะไรบ้าง?"
     a: "สีแดงและอักษร 'ซี' (囍, สองความสุข) เป็นสีและสัญลักษณ์มงคลที่เป็นตัวแทนงานแต่งงานจีนมากที่สุด พบได้บนบัตรเชิญ ของหมั้น เตียงหอ และการตกแต่ง; งานแต่งมักเลือก 'ฤกษ์ดี' ด้วย ข้อพึงระวังที่พบบ่อยได้แก่ การนิยมจำนวนคู่สำหรับเงินและของขวัญ การเลี่ยงตัวเลขที่พ้องเสียงไม่เป็นมงคล และหญิงมีครรภ์หรือผู้ที่อยู่ในช่วงไว้ทุกข์เลี่ยงบางขั้นตอน อย่างไรก็ตาม จะถือเคร่งครัดเพียงใดแตกต่างกันตามความเชื่อของครอบครัวและกลุ่มภาษาถิ่น หลายครอบครัวคงไว้เพียงบางส่วนและทำส่วนที่เหลือแบบเรียบง่าย"
 lang: "th"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: ชุดน้ำชางานแต่งงานจีนสีแดงเป็นมันบนถาดสีแดง กาน้ำชาประดับอักษรซังฮี่ (ซ้อนสุข) สีทองและถ้วยชาสีแดงเล็กห้าใบจัดวางรอบ ๆ ใช้โดยคู่บ่าวสาวเพื่อเสิร์ฟน้ำชาแก่ผู้ใหญ่
+    kind: representative
+    origin: third-party
+    subject: กาน้ำชาและถ้วยสีแดงทองลายซังฮี่ที่ใช้ในพิธียกน้ำชางานแต่งงานจีน
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: ตะกร้าของขวัญงานแต่งงานบากุลเซียะห์ไม้แล็กเกอร์สีดำทรงสูงเป็นชั้น ตกแต่งอย่างวิจิตรด้วยรูปคนทอง ดอกไม้ นก และปลาในแต่ละชั้น ใช้ใส่ของหมั้นเชิงสัญลักษณ์ระหว่างสองครอบครัว จัดแสดงในตู้กระจกพิพิธภัณฑ์
+    kind: representative
+    origin: third-party
+    subject: บากุลเซียะห์ ตะกร้าแล็กเกอร์เป็นชั้นที่ใช้ใส่ของหมั้นระหว่างครอบครัวในงานแต่งงานชาวจีนช่องแคบ
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 ก่อนฟ้าสางเต็มที่ ขบวนรถแถวหนึ่งจอดอยู่หน้าบ้านเจ้าสาวแล้ว เจ้าบ่าวประคองช่อดอกไม้ มีเพื่อน "พี่น้องชาย" หลายคนตามหลัง แต่กลับถูก "พี่น้องหญิง" หลายคนที่ชะโงกออกมาจากประตูขวางไว้: ก่อนอื่นต้องตอบคำถาม แล้วร้องเพลงสักท่อน กินมะนาวที่หั่นบางเฉียบสองสามชิ้น และสุดท้ายสอดอั่งเปาสองสามซองผ่านช่องประตู — เมื่อผ่านด่าน "ฝ่าประตู" (ฉวงเหมิน) นี้ได้ ประตูจึงเปิด เจ้าบ่าวจึงได้พบเจ้าสาวในชุดแดงฉาน เช้าที่เต็มไปด้วยการหยอกล้อและความครึกครื้นเช่นนี้คือการเปิดฉากของวันแต่งงานจีนหลายงานในมาเลเซีย

@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie — bouddhiste ou non — qui souhaite un compte rendu simple et exact de ce qu'est le jour de Wesak, de la date à laquelle il tombe et de la manière dont il est célébré, y compris les employeurs et les travailleurs qui vérifient la date du jour férié."
 
 lang: "fr"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: Une longue rangée de petites lanternes suspendues turquoise, vert citron, roses et blanches, chacune abritant une bougie allumée et un billet de papier rose portant un vœu, accrochées sous une tente lors d'une célébration malaisienne du jour de Wesak, des visiteurs passant derrière
+    kind: actual
+    origin: third-party
+    subject: des rangées de lanternes de bénédiction colorées des fidèles, portant des vœux, lors d'une célébration du jour de Wesak à Alor Setar, en Malaisie
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: Des centaines de minuscules lampes à bougie allumées en forme de lotus disposées en rangées régulières sur des tables recouvertes de tissu rose et jaune, menant à une petite statue de Bouddha flanquée de fleurs sur un décor de ciel bleu peint à l'intérieur d'une tente
+    kind: actual
+    origin: third-party
+    subject: un autel dévotionnel avec des centaines de lampes à bougie lotus allumées devant une image du Bouddha lors du jour de Wesak à Alor Setar, en Malaisie
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 Demandez quand tombe le jour de Wesak et il n'y a pas de réponse fixe : il se déplace. En 2026, il tombe le 31 mai, en 2027 le 20 mai et en 2028 le 9 mai. La raison en est simple : le Wesak est fixé par la lune, et non par une date du calendrier, et le calendrier lunaire et le calendrier grégorien se décalent l'un par rapport à l'autre chaque année.

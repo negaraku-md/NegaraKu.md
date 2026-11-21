@@ -35,7 +35,7 @@ verificationNeeded:
   - "Majlis Pelayang Malaysia-வுடன் அடிக்கடி தொடர்புபடுத்தப்படும் ‘தேசிய wau’ பட்டியல் (wau bulan, wau kucing, wau jala budi) — எந்த அதிகாரப்பூர்வ வெளியீடும் காணப்படவில்லை."
 
 lang: "ta"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: ஒரு வாவ்வின் மேற்பரப்பின் அண்மைக் காட்சி; இருண்ட காகிதத் தளத்திற்கு எதிராக கறுப்பு கோடிட்டு, மினுமினுக்கும் நீலப்பச்சை மற்றும் தங்க நிற படலத்தில் கையால் வெட்டப்பட்ட மலர் மற்றும் இலை வடிவங்கள், கீழ் வலதுபுறத்தில் ஒரு மெஜந்தா நிற மலருடன்
+    kind: actual
+    origin: third-party
+    subject: ஒரு கெலந்தான் வாவ்வின் மீதுள்ள நுணுக்கமான வெட்டுக்-காகித மற்றும் படல மலர் அலங்காரத்தின் அண்மைக் காட்சி
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: ஒரு மரப் பட்டறையின் உள்ளே, இளஞ்சிவப்பு, தங்கம் மற்றும் நீலப்பச்சை படலத்தில் வடிவமைக்கப்பட்ட பல முடிக்கப்பட்ட வாவ் பலகைகள், இறுக்கமான கயிறுகள் கட்டப்பட்ட மெல்லிய மூங்கில் பட்டச் சட்டத்தின் அருகே தொங்குகின்றன; பின்னணியில் மேசையில் தயாரிப்பாளர் ஓரளவு தெரிகிறார்
+    kind: actual
+    origin: third-party
+    subject: ஒரு பட்டம் தயாரிப்பாளரின் பட்டறையில் முடிக்கப்பட்ட வாவ் உடல்களும் வெறும் மூங்கில் வாவ் சட்டமும்
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 நீங்கள் wau-ஐப் பார்ப்பதற்கு முன், அதை நீங்கள் கேட்கிறீர்கள். சரியாகச் செய்யப்பட்ட ஒரு பாரம்பரிய wau, காற்றில் இருக்கும் நேரம் முழுவதும் ஒலித்துக்கொண்டே இருக்கும் — காற்றின் சத்தம் அல்ல, மாறாக அதன் அமைப்பிற்குள் வேண்டுமென்றே வடிவமைக்கப்பட்ட ஒரு நாதம்.

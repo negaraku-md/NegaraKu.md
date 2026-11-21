@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: Pandangan dekat patung wayang kulit daripada kulit yang berukir halus dan dicat terang berwarna oren, hijau dan ungu, dipasang pada rod buluh yang nipis
+    kind: actual
+    origin: third-party
+    subject: Pandangan dekat patung kulit Wayang Kulit Kelantan yang dicat terang pada rod kawalannya, Muzium Negeri Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: Dua patung bayang-bayang kulit yang berwarna-warni berdiri di hadapan gendang tradisional dan papan maklumat di dalam pameran pondok buluh anyaman
+    kind: actual
+    origin: third-party
+    subject: Patung Wayang Kulit Kelantan dan gendang gamelan dipamerkan dalam suasana pondok beratap rumbia dengan panel penerangan, Muzium Negeri Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 Pelita dinyalakan dahulu. Di sebalik skrin kapas putih yang direntang ketat pada rangka kayu, seorang lelaki duduk bersila, setimbun patung kulit leper dalam capaian di kiri dan kanannya, sebuah orkestra kecil terdiri daripada gendang, gong dan serunai berlidah dua yang nyaring menanti di belakangnya. Dia tidak akan meninggalkan tempat itu sepanjang malam. Menjelang bayang terakhir merentasi skrin, beberapa jam dari sekarang, dia telah pun menyuarakan raja, raksasa, pelawak dan puteri, menceritakan peralihan antara babak, dan memberi isyarat kepada setiap pemuzik — seorang diri.

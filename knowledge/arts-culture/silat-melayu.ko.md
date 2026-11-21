@@ -37,7 +37,7 @@ faq:
     a: "유네스코는 실랏 하리마우(Silat Harimau)를 공격과 방어의 기예에서 호랑이의 미적 움직임을 흉내 내는 유파의 예로 듭니다. 이는 동물이나 자연의 요소를 따라 이름 붙은 많은 유파 가운데 하나입니다."
 
 lang: "ko"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: 검은 실랏 복장과 검은 머리띠를 한 맨발의 말레이 무술인 두 명이 청록색 건물 벽을 배경으로 회색 포석 위에서 낮은 자세로 맞서는 모습, 한 명은 단검을 든 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아에서 실랏 가용을 연습하며 검은 실랏 복장으로 맞선 두 프실랏
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: 검은 실랏 복장의 말레이 무술인이 높이 뛰어오르며 발차기를 하고 웅크린 상대가 이를 막는 모습, 둘 다 청록색 벽을 배경으로 회색 포석 위에서 맨발로 실랏 대련 중 동작을 포착한 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아에서 실랏 가용을 연습하며 대련 상대에게 뛰어 발차기를 하는 프실랏
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 훌륭한 프실랏(pesilat, 실랏 수련자)은 상대의 뼈를 부러뜨릴 수도, 누구도 건드리지 않고 신랑 신부 앞에서 춤출 수도 있습니다. 둘 다 실랏입니다. 그것이 이 예술에서 가장 이해하기 어려운 점입니다. 그것은 단지 싸우는 방법도, 단지 잔치의 춤도 아닙니다. 그것은 같은 몸 안에서, 같은 스텝으로 움직이는 둘 다입니다.

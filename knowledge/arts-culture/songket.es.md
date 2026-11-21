@@ -33,7 +33,7 @@ faq:
     a: "Tradicionalmente, las mujeres. La UNESCO registra que el tejido del songket siempre ha estado en manos de mujeres, mientras que los hombres participan en la práctica fabricando los útiles de tejido. El saber se transmite dentro de las familias y las aldeas, y algunas instituciones ofrecen también programas de formación."
 
 lang: "es"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: Una tela de songket rectangular completa expuesta en plano, con dos paneles laterales rojos de motivos florales en hilo dorado que flanquean un panel central dorado más claro
+    kind: actual
+    origin: third-party
+    subject: un sarong de songket malayo (kain) de Terengganu completo, extendido en plano, que muestra el campo de brocado dorado y el panel central
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: Un tocado malayo triangular doblado (tanjak) hecho de tela de songket verde y dorada que brilla con el hilo metálico tejido, expuesto sobre un soporte
+    kind: actual
+    origin: third-party
+    subject: un tanjak, tocado malayo doblado hecho de tela de songket dorada, de Terengganu
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 El sonido que más se oye en un taller de songket no es el de una máquina. Es el de la madera que se presiona, el del hilo que se tira y el de una púa de bambú que se desliza hacia dentro y se saca, una y otra vez, una fila de dibujo cada vez, todo el día.

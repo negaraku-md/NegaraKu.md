@@ -35,7 +35,7 @@ faq:
     a: "Seulement dans les États et territoires fédéraux qui le publient au journal officiel. Il est observé comme jour férié dans des lieux comme Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor et Kedah, et il n'est pas publié au journal officiel comme jour férié fédéral à l'échelle nationale. Comme il est fixé juridiction par juridiction, la liste exacte peut varier d'une année à l'autre ; consultez toujours l'avis officiel des jours fériés de l'État concerné."
 
 lang: "fr"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Rea
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: Une foule dense de pèlerins emplissant la passerelle des grottes de Batu sous l'imposante statue dorée de Lord Murugan et les collines calcaires boisées pendant le Thaipusam
+    kind: actual
+    origin: third-party
+    subject: Des foules de pèlerins du Thaipusam sous la statue dorée de Lord Murugan aux grottes de Batu
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: Un dévot du Thaipusam vu de dos portant sur l'épaule un kavadi garni de clochettes et transportant un pot de lait en argent devant le gopuram coloré d'un temple hindou à Ipoh, dans le Perak
+    kind: actual
+    origin: third-party
+    subject: Un porteur de kavadi transportant un pot de lait lors de la procession du Thaipusam à Ipoh
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 Avant l'aube, une colline de calcaire à l'extrémité nord de Kuala Lumpur se remplit de sons : tambours, chants, le frottement de centaines de milliers de pieds nus sur la pierre. Au pied d'un escalier de 272 marches se dresse une figure dorée plus haute qu'un immeuble de quatorze étages. L'ascension a commencé, et elle ne s'arrêtera pas pendant une grande partie de la journée.

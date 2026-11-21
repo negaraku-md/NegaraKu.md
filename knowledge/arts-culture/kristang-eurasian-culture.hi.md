@@ -32,7 +32,7 @@ faq:
     a: "इंत्रुदु (Intrudu) मलक्का के पुर्तगाली समुदाय का एक वार्षिक जल-त्योहार है जो ऐश वेडनेसडे (लेंट ऋतु की शुरुआत) से पहले वाले रविवार को मनाया जाता है। निवासी और आगंतुक पूरी पुर्तगाली बस्ती में एक-दूसरे पर पानी छिड़कते हैं, और इस उत्सव के साथ ब्रान्यो नृत्य होता है।"
 
 lang: "hi"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Mela
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: मलक्का में पुर्तगाली बस्ती के मेदान पुर्तगिस या पुर्तगाली चौक का सफ़ेद औपनिवेशिक-शैली का प्रवेश-मेहराब, दोनों ओर गुलाबी और साइनबोर्ड वाले क्रिस्तांग रेस्तराँ, एक साफ़ नीले आकाश के नीचे और पृष्ठभूमि में एक आधुनिक ऊँची इमारत
+    kind: actual
+    origin: third-party
+    subject: मलक्का में पुर्तगाली बस्ती पर मेदान पुर्तगिस (पुर्तगाली चौक) का प्रवेश-द्वार
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: मलक्का में पुर्तगाली बस्ती में सेंट पीटर के पर्व के लिए सजी एक नमूना मछली-पकड़ने वाली नाव, जिसके ऊँचे सफ़ेद पाल धार्मिक दृश्यों और सेंट पीटर की छवि से चित्रित हैं, तट के किनारे मछली-जालों से ढँकी, पीछे ताड़ के पेड़ और दर्शकों के साथ
+    kind: actual
+    origin: third-party
+    subject: मलक्का में पुर्तगाली बस्ती में सेंट पीटर (सान पेड्रो) के पर्व के लिए बनाई गई एक सजी हुई मछली-पकड़ने वाली नाव
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 उजोंग पासिर (Ujong Pasir), मलक्का में, एक समुद्र-तटीय बस्ती है जहाँ लोग एक-दूसरे का अभिवादन एक ऐसी भाषा में करते हैं जो न मलय है, न अंग्रेज़ी, न ही आधुनिक पुर्तगाली — बल्कि पाँच सदी पहले आए विजेताओं की ज़बान का जीवित अवशेष है। यह क्रिस्तांग समुदाय की दुनिया है।

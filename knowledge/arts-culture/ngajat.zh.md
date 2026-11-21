@@ -30,7 +30,7 @@ faq:
     a: "JKKN 记录的种类包括 Ngajat Lesong（由男子用牙齿咬住木臼表演）、Ngajat Indu（由女子表演，动作模仿编织 pua kumbu 布）、Ngajat Pua Kumbu（使用 pua kumbu 布）以及标志着 Gawai Dayak 庆典结束的 Ngajat Ngiling Tikai。"
 
 lang: "zh"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: 一名年轻的伊班族女子头戴高耸的银制头冠（sugu tinggi）、身穿钉满银币的黑色紧身胸衣，双手在下巴附近结成优雅手印（mudra），橙色绒球串珠领围绕颈前，衬着深蓝色舞台
+    kind: actual
+    origin: third-party
+    subject: 马来西亚婆罗洲砂拉越文化村，一名身着全套礼仪盛装的伊班族女舞者
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: 一排伊班族女舞者头戴银冠、身穿红色串珠上衣和缀银币流苏的裙子，在灯火通明的节庆舞台上整齐移动，每人手持一方小红布，前景是剪影般的观众
+    kind: actual
+    origin: third-party
+    subject: 马来西亚一群伊班族女舞者在节庆舞台上表演沙尧恩加舞（sayau ngajat）
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 在砂拉越一座长屋的走廊上，一名头戴犀鸟羽毛的男子跳跃、旋转、跺脚——一手持剑，一手持盾。这就是 **Ngajat**，一支昔日用来迎接战士从战场归来的舞蹈。

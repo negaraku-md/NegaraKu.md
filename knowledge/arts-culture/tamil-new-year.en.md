@@ -32,7 +32,7 @@ faq:
   - q: "What is special about mango-and-neem-flower pachadi?"
     a: "It is the signature dish of Tamil New Year. It is made by combining raw mango (sour), jaggery (sweet), neem flower (bitter), tamarind and the like. The mixing of sweet, bitter and sour in one dish is regarded as a reminder to accept that the coming year will hold a blend of joy and sorrow."
 lang: "en"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: A silver pot crowned with a coconut, mango leaves and yellow flowers, flanked by lit brass oil lamps, arranged as an auspicious Tamil New Year altar
+    kind: representative
+    origin: third-party
+    subject: Traditional Tamil New Year kalasam of a silver pot topped with a coconut, mango leaves and flowers beside brass oil lamps
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: The tall, intricately carved and brightly painted gopuram towers of the Meenakshi Amman Temple in Madurai rising above the temple's pillared corridors and tank
+    kind: representative
+    origin: third-party
+    subject: Towering carved gopurams of the Meenakshi Amman Temple in Madurai, home of the Chithirai festival
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 The first dawn of the month of Chithirai. In many Tamil homes a tray was

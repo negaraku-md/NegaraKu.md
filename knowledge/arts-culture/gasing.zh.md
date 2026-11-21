@@ -21,7 +21,7 @@ appliesTo: "适合任何想了解陀螺玩法、gasing pangkah 与 gasing uri �
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malay
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: 两枚刚车削成形、颜色浅淡的木制陀螺，呈典型的扁盘身加中央凸钮造型，连同光滑的圆柱形发射握柄一起躺在暖阳下的刨花堆上
+    kind: actual
+    origin: third-party
+    subject: 两枚新车削的马来式陀螺（gasing）及其发射握柄
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: 一名身穿橙色运动服的男孩俯身向前，用一条长长的白绳将陀螺甩向木板，木板上已有一枚旋转的陀螺，身后一群观众正紧盯着他
+    kind: representative
+    origin: third-party
+    subject: 传统陀螺比赛中，一名少年选手用绳子发射陀螺
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 声音总是先到——沉重木块撞击沉重木块的响声，紧接而来的是欢呼。在登嘉楼 Kuala Nerus 一带村庄的空地上，两队人马面对面站立。一人用绳索把陀螺甩出；另一颗陀螺早已在地上旋转等候。获胜的不是最快的那一方——而是被撞击之后，陀螺仍在旋转的那一方。

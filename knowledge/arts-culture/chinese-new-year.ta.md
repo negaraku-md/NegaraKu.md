@@ -32,7 +32,7 @@ faq:
     a: "லோ ஹேய் (yee sang, 捞鱼生) மலேசியா, சிங்கப்பூர் போன்ற நன்யாங் பகுதிகளில் பிரபலமான புத்தாண்டு வழக்கம்; பெரும்பாலும் ஒன்றுகூடல் விருந்தின்போதோ புத்தாண்டு கூட்டங்களின்போதோ செய்யப்படுகிறது: அனைவரும் மேசையைச் சுற்றி அமர்ந்து, குச்சிகளால் நறுக்கிய காய்கறி-பழங்கள், பச்சை மீன் துண்டுகள், பல்வேறு பொருட்களை ஒன்றாக உயரே தூக்கி, “காற்றும் நீரும் போல் செல்வம் பெருகட்டும்”, “தூக்கத் தூக்கச் செழிப்பு பெருகட்டும்” போன்ற நல்வாழ்த்து மொழிகளைக் கூறுகின்றனர். இது உள்ளூரில் பரவலாகப் பிரபலமானது, ஆனால் பொதுவாக நன்யாங் சீன சமூகத்தால் உருவாக்கப்பட்ட வழக்கமாகவே கருதப்படுகிறது, பண்டைய சீனாவிலிருந்து வந்த மரபு அல்ல."
 
 lang: "ta"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: சீனப் புத்தாண்டு ஒளிவிழாவின் போது இரவில் ஆயிரக்கணக்கான வண்ண மினுமினுப்பு விளக்குகளாலும் சிவப்பு லாந்தர்களாலும் ஒளிர்ந்து மிளிரும் பினாங்கின் கேக் லோக் சி கோயில்
+    kind: actual
+    origin: third-party
+    subject: சீனப் புத்தாண்டுக்காக ஒளியூட்டப்பட்ட பினாங்கின் கேக் லோக் சி கோயில்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: சீனப் புத்தாண்டின் போது கோலாலம்பூர் சீனத்தெருவில் கடை வீடுகளுக்கு வெளியே கம்பங்களின் மேல் சமநிலைப்படுத்தி நிகழ்த்தப்படும் வெள்ளை-வெள்ளி நிற சிங்க நடன உடை
+    kind: actual
+    origin: third-party
+    subject: சீனப் புத்தாண்டின் போது கோலாலம்பூர் சீனத்தெருவில் கம்பங்களின் மேல் நிகழ்த்தப்படும் சிங்க நடனம்
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 புத்தாண்டு முன்னிரவு அன்று, பல கடைகள் முன்கூட்டியே அடைக்கப்படுகின்றன, நெடுஞ்சாலைகள் சொந்த ஊரை நோக்கிச் செல்லும் வாகனங்களால் நிரம்பி வழிகின்றன. மாலையானதும், குடும்பம் ஒரே மேசையைச் சுற்றிக் கூடுகிறது — மேசையில் மீன் (“ஆண்டுதோறும் உபரி” என்பதைக் குறிக்கும் 年年有余), ஒரு முழு கோழி, ஒன்றுகூடலைக் குறிக்கும் உருண்டைகள், மேலும் குச்சிகளால் (chopsticks) உயரே தூக்கிவிடப்பட வேண்டிய ஒரு குளிர்ந்த யீ சாங் (yee sang) கலவை ஆகியவை உள்ளன. இந்தப் புத்தாண்டு முன்னிரவு ஒன்றுகூடல் விருந்தை, பல மலேசிய சீன குடும்பங்கள் புத்தாண்டின் முதல் நாளையே விடவும் முக்கியமானதாகக் கருதுகின்றன.

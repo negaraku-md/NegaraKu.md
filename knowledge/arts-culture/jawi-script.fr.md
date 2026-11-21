@@ -34,7 +34,7 @@ seoTitle: "L'écriture jawi : histoire, système et situation actuelle"
 socialTitle: "L'alphabet arabe qui écrit le malais depuis sept siècles — l'histoire de l'écriture jawi"
 
 lang: "fr"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_M
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: Deux pages de manuscrit en regard portant un texte en jawi encadré d'une enluminure florale ornée dorée, bleue et rouge
+    kind: actual
+    origin: third-party
+    subject: Pages d'ouverture enluminées de l'œuvre littéraire malaise Taj al-Salatin, manuscrite en jawi
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: Un vieux livre manuscrit ouvert dans une vitrine, ses pages en regard couvertes d'une écriture jawi manuscrite fluide
+    kind: actual
+    origin: third-party
+    subject: Manuscrit ouvert du Hukum Kanun Melaka (recueil de lois de Malacca) écrit en jawi, exposé au musée
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Sur une inscription gravée dans la pierre, retrouvée à Terengganu, des mots malais sont gravés — non pas dans les lettres que nous employons aujourd'hui, mais dans une écriture arabe adaptée aux sons du malais. L'inscription, la Pierre inscrite de Terengganu (Batu Bersurat Terengganu), porte la date de 702 de l'hégire, communément assimilée à l'an 1303 de notre ère.

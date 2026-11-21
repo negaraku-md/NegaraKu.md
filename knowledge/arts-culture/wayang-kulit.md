@@ -69,6 +69,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: Close-up of an ornately carved and brightly painted leather wayang kulit puppet in orange, green and purple, mounted on a thin bamboo rod
+    kind: actual
+    origin: third-party
+    subject: Close-up of a vividly painted Kelantan Wayang Kulit leather puppet on its control rod, Kelantan State Museum, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: Two colourful leather shadow puppets standing in front of traditional drums and an information board inside a woven-bamboo hut display
+    kind: actual
+    origin: third-party
+    subject: Kelantan Wayang Kulit puppets and gamelan drums displayed in a thatched hut setting with an explanatory panel, Kelantan State Museum, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 The lamp is lit first. Behind a white cotton screen stretched tight on a wooden frame, one man sits cross-legged, a stack of flat leather puppets within reach on either side of him, a small orchestra of drums, gongs and a piercing double-reed serunai waiting behind him. He will not leave that spot for the rest of the night. By the time the last shadow crosses the screen, hours from now, he will have voiced kings, demons, clowns and princesses, narrated the transitions between scenes, and cued every musician — alone.

@@ -32,7 +32,7 @@ faq:
     a: "Tidak. Bharatanatyam ialah bentuk tarian klasik; nadaswaram pula ialah tradisi muzik beralat yang dimainkan di kuil dan majlis bertuah. Kedua-duanya tergolong dalam warisan seni komuniti Tamil tetapi berbeza; nadaswaram/muzik kuil diterangkan secara berasingan di sini, manakala rencana ini memberi tumpuan kepada seni persembahan klasik pentas."
 
 lang: "ms"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: Penari Odissi wanita berkostum biru terang dan barang kemas kuil perak memegang pose bergaya yang anggun dengan latar pentas hitam
+    kind: representative
+    origin: third-party
+    subject: Penari klasik Odissi di tengah pose berkostum biru dan barang kemas perak
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: Seorang wanita bersari sutera kuning dan ungu memainkan biola yang dipegang dalam gaya Carnatic sambil duduk, mencondongkan badan ke arah mikrofon di atas pentas
+    kind: representative
+    origin: third-party
+    subject: Pemain biola Carnatic membuat persembahan bersari sutera pada sebuah konsert muzik klasik
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 Pada petang Deepavali atau hari perayaan kuil di mana-mana bandar besar Malaysia, kita boleh menyaksikan seorang penari Bharatanatyam naik ke pentas, gelang kaki berbunyi, bergerak mengikut rentak mridangam. Langkah dan isyarat tangan itu bukan sesuatu yang berlaku secara kebetulan — ia menuturkan sebuah tradisi seni India Selatan yang berusia lebih seribu tahun, dan cara komuniti Tamil Malaysia memikulnya selama lebih satu setengah abad.

@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: Macro view of a wau's surface showing hand-cut floral and leaf motifs in iridescent turquoise and gold foil outlined in black against a dark paper ground, with a magenta blossom at the lower right
+    kind: actual
+    origin: third-party
+    subject: a close-up of the intricate cut-paper and foil floral decoration on a Kelantan wau
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: Inside a wooden workshop, several completed wau panels patterned in pink, gold and teal foil hang beside a slender bamboo kite frame strung with taut cords, with the maker partly visible at a table in the background
+    kind: actual
+    origin: third-party
+    subject: finished wau bodies and a bare bamboo wau frame in a kite-maker's workshop
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 Before you see a wau, you hear it. A properly made traditional wau hums the whole time it is in the air — not the sound of the wind, but a note deliberately built into its construction.

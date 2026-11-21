@@ -31,7 +31,7 @@ faq:
     a: "मालिक संपत्ति का स्वामित्व बनाए रख सकता है (Section 69), लेकिन राष्ट्रीय धरोहर के स्वामित्व में परिवर्तन केवल उत्तराधिकार के माध्यम से या आयुक्त की पूर्व स्वीकृति से बिक्री द्वारा ही हो सकता है, और आयुक्त को इसे खरीदने की पहली प्राथमिकता दी जानी चाहिए (Section 70)।"
 
 lang: "hi"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: मलक्का में ए फ़ामोसा किले के पोर्टा डे सैंटियागो द्वार का मौसम-मारा लैटेराइट-ईंट खंडहर, जिसका जर्जर मेहराब एक उकेरी हुई उभरी-नक़्क़ाशी से सजा है, सामने एक ईंट के चबूतरे पर रखी एक पुरानी काँसे की तोप और एक नीले आकाश के सामने उष्णकटिबंधीय पेड़
+    kind: actual
+    origin: third-party
+    subject: मलक्का में ए फ़ामोसा पुर्तगाली किले का पोर्टा डे सैंटियागो द्वार, एक राजपत्रित राष्ट्रीय विरासत स्मारक
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: पेराक के बाटू गाजा में केली के महल का गुलाबी-ईंट अग्रभाग, एक ईंट-पत्थरबंद आँगन में खुलते दो मंज़िलों पर मेहराबदार स्तंभ-पंक्तियाँ और पतले स्तंभ, आंशिक रूप से खंडहर दीवारों और उष्णकटिबंधीय हरियाली के साथ एक चमकीले बादलों वाले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: केली का महल, पेराक के बाटू गाजा में 20वीं सदी के शुरुआती अधूरे हवेली, एक संरक्षित विरासत स्थल
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 जॉर्ज टाउन की एक सदी पुरानी दुकान-घर (shophouse), एक keris की धार, एक दरबारी नृत्य, और एक जीवित [songket](/arts-culture/songket) बुनकर — मलेशिया में ये चारों एक ही कानूनी उपाधि धारण कर सकते हैं: *राष्ट्रीय धरोहर*। इन्हें जो बाँधता है, वह कोई UNESCO सूची नहीं, बल्कि एक घरेलू रजिस्टर है जिसका नाम शायद ही कभी लिया जाता है: **राष्ट्रीय धरोहर रजिस्टर**।

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu cách chơi trò gasing, sự khác biệt giữa gasing pangkah và gasing uri, cùng mối liên hệ của nó với di sản Bờ Đông."
 
 lang: "vi"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malay
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: Hai con quay gỗ gasing mới tiện còn nhạt màu với thân đĩa dẹt cổ điển và núm nhô lên ở giữa, nằm trên lớp dăm bào bên cạnh những chiếc cán phóng hình trụ nhẵn dưới ánh nắng ấm áp
+    kind: actual
+    origin: third-party
+    subject: hai con quay gasing kiểu Mã Lai mới tiện gỗ cùng cán phóng của chúng
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: Một cậu bé mặc bộ đồ thể thao màu cam chồm người tới trước khi phóng một con quay bằng sợi dây trắng dài xuống một tấm ván gỗ, một con quay khác đã quay sẵn trên ván, trong khi đám đông chăm chú theo dõi phía sau
+    kind: representative
+    origin: third-party
+    subject: một đấu thủ nhỏ tuổi phóng con quay gasing bằng dây trong một cuộc thi quay truyền thống
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 Âm thanh đến trước — tiếng va nặng của gỗ đập vào gỗ, nối theo là tiếng reo hò. Trên một sân làng quanh Kuala Nerus, Terengganu, hai nhóm đứng đối mặt nhau. Một người ném con quay của mình bằng dây; một con quay khác đã quay sẵn chờ trên mặt đất. Người thắng không phải người nhanh nhất — mà là người có con quay vẫn còn quay sau khi bị va.

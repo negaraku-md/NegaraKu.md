@@ -35,7 +35,7 @@ faq:
     a: "テーマを共有する、別個の祭りである。ガワイ・ダヤックはサラワク州のダヤックの収穫祭で、6月1日と2日に行われる。カアマタンはサバ州のカダザンドゥスンの収穫祭で、5月30日と31日に行われる。どちらも稲の収穫に感謝するものだが、祝うコミュニティ、儀礼、日付は異なる。"
 
 lang: "ja"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrio
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: サラワク州クチンのガワイ・ダヤック・パレードで、精巧な銀の頭飾り、ビーズ細工、羽根の冠を身につけたイバン族とオラン・ウル族の踊り手たち
+    kind: actual
+    origin: third-party
+    subject: クチンのガワイ・ダヤック・パレードで正装をまとったダヤック族の踊り手たち
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: ガワイ・ダヤックが祝われるサラワク州のイバン族のロングハウス内にある、細長い木造の共同廊下（ルアイ）
+    kind: actual
+    origin: third-party
+    subject: サラワク州のイバン族のロングハウスの共同廊下
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 5月最後の日、時計はまだ真夜中を告げていない。サラワク州のある川沿いのロングハウスでは、銅鑼が出番を待っている。稲はすでに収穫され、倉に納められた。回廊は掃き清められ、新しい敷物が掛けられた。一瓶のトゥアックが用意され、その時を待っている。銅鑼がついに鳴り響くと、ロングハウスの頭人が杯を掲げ、長い共同の回廊に並ぶ人々はみな、同じ三つの言葉に杯を捧げる——長寿、健康、繁栄。

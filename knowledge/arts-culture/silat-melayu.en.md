@@ -37,7 +37,7 @@ faq:
     a: "UNESCO cites Silat Harimau as an example of a style that imitates the aesthetic movements of the tiger in the art of attack and self-defence. It is one of many styles named after an animal or an element of nature."
 
 lang: "en"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: Two barefoot Malay martial artists in black silat attire and black headgear squaring off in low fighting stances on grey paving, one holding a short blade, against a teal-green building wall
+    kind: actual
+    origin: third-party
+    subject: two pesilat in black silat attire facing off in fighting stances during Silat Gayong practice in Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: A Malay martial artist in black silat attire leaping into a high kick that his crouching partner blocks, both barefoot on grey paving against a teal-green wall, mid-action during a silat sparring session
+    kind: actual
+    origin: third-party
+    subject: a pesilat delivering a leaping kick to a sparring partner during Silat Gayong practice in Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 A good pesilat can break an opponent's bones — or dance before a bride without touching anyone. Both are silat. That is what is hardest to grasp about this art: it is not merely a method of fighting, and not merely a ceremonial dance. It is both, in the same body, moved by the same steps.

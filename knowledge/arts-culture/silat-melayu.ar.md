@@ -37,7 +37,7 @@ faq:
     a: "تذكر اليونسكو سيلات هاريماو مثالًا على أسلوب يحاكي حركات النمر الجمالية في فن الهجوم والدفاع عن النفس. وهو واحد من أساليب كثيرة مسمّاة على حيوان أو عنصر من الطبيعة."
 
 lang: "ar"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: مقاتلان ملايويان حافيا القدمين بزيّ سيلات أسود وغطاء رأس أسود يتواجهان في وضعيتي قتال منخفضتين على رصيف رمادي، أحدهما يحمل نصلاً قصيراً، أمام جدار مبنى أخضر مزرقّ
+    kind: actual
+    origin: third-party
+    subject: مقاتلا سيلات (بيسيلات) بزيّ سيلات أسود يتواجهان في وضعيتي قتال خلال تدريب سيلات غايونغ في ماليزيا
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: مقاتل ملايوي بزيّ سيلات أسود يقفز في ركلة عالية يصدّها شريكه المنحني، كلاهما حافي القدمين على رصيف رمادي أمام جدار أخضر مزرقّ، في منتصف الحركة خلال جلسة تدريب سيلات
+    kind: actual
+    origin: third-party
+    subject: مقاتل سيلات (بيسيلات) يوجّه ركلة قفزية إلى شريك تدريب خلال تدريب سيلات غايونغ في ماليزيا
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 يستطيع ممارس السيلات البارع أن يكسر عظام خصمه — أو أن يرقص أمام عروس من دون أن يلمس أحدًا. كلاهما سيلات. وهذا أصعب ما يُدرَك في هذا الفن: فهو ليس مجرّد أسلوب للقتال، ولا مجرّد رقصة احتفالية. إنه كلاهما، في الجسد نفسه، تحرّكه الخطوات نفسها.

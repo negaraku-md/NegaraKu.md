@@ -33,7 +33,7 @@ faq:
     a: "سباق قوارب التنين الدولي في بينانغ هو الأعرق تاريخًا، ويُقام منذ سنوات طويلة عند سدّ تيلوك باهانغ، مستقطبًا فرقًا من دول ومناطق عديدة؛ كما استضافت بوتراجايا وملقا وأماكن أخرى فعاليات كبرى لقوارب التنين. وتحظى هذه السباقات في الغالب بدعم حكومات الولايات أو الجهات المعنية، وتجمع بين الطابع الرياضي التنافسي والترويج السياحي. وتختلف التواريخ والأماكن الدقيقة كل عام، وتخضع لإعلانات الجهة المنظِّمة."
 
 lang: "ar"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: صفوف من المجدفين بالقبعات الحمراء والقمصان البيضاء يغرسون مجاديفهم في الماء بينما يتسابق قاربا تنين مظللان على طول قناة يشاهدهما حشد من الناس
+    kind: representative
+    origin: third-party
+    subject: فرق تتسابق بقوارب التنين المزخرفة والمجاديف تمخر الماء خلال سباق مهرجان قوارب التنين
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: كرة أرز لزج ملفوفة بأوراق الخيزران مفتوحة لتكشف حشوة مالحة من بطن الخنزير المطهو والكستناء وصفار البيض المملح، إلى جانب كرة أخرى لا تزال مربوطة
+    kind: representative
+    origin: third-party
+    subject: كرة زونغزي (باك تشانغ) من الأرز اللزج مفتوحة تظهر لحم الخنزير والكستناء وصفار البيض المملح، بجانب أخرى لا تزال ملفوفة بأوراق الخيزران
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 مع اقتراب اليوم الخامس من الشهر القمري الخامس، تفوح من مطابخ العائلات الصينية رائحة أوراق اللفّ والأرز اللزج. تحشو ربّات البيوت الأرز اللزج المنقوع والحشوة المقلية الزكية طبقةً فوق أخرى داخل أوراقٍ مطويّة على هيئة قمع، ثم يربطنها بإحكام بخيط الحلفاء، ويُنزلنها قلائد قلائد في القدر لتُطهى طويلًا. وفي الوقت نفسه، عند سدّ تيلوك باهانغ في الطرف الشمالي الغربي من جزيرة بينانغ، تشقّ قوارب التنين النحيلة سطح الماء؛ يقف قارع الطبل عند مقدّمة القارب ضاربًا الإيقاع، ويجدّف عشرات المجدّفين في انسجام مع الإيقاع — هذان هما وجها مهرجان قوارب التنين في ماليزيا: من جهة عبق الزونغتزي في المطبخ، ومن جهة أخرى السباق على سطح الماء.

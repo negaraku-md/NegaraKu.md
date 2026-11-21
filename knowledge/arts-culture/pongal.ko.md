@@ -32,7 +32,7 @@ faq:
   - q: "타이 퐁갈의 나흘은 무엇인가요?"
     a: "Bhogi(묵은 것을 치우고 집을 청소함), Thai Pongal 또는 Surya Pongal(태양에 감사하고 퐁갈을 바침), Mattu Pongal(밭갈이를 돕는 소를 기림), Kaanum Pongal(친지를 방문하고 나들이함) — 이것이 그 나흘입니다."
 lang: "ko"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_we
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: 집 대문 밖 바닥에 색색의 가루로 그린 크고 화려한 퐁갈 콜람으로, 사탕수수 줄기, 선명한 꽃, 넘쳐흐르는 축제 단지를 묘사한 모습
+    kind: representative
+    origin: third-party
+    subject: 거리에 사탕수수, 꽃, 넘쳐흐르는 단지 무늬로 그린 화려한 퐁갈 콜람
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: 붉은 테두리에 흰색으로 색색의 지그재그와 점 무늬를 손으로 그린 둥근 점토 단지 두 개로, 추수 축제 때 퐁갈을 끓이기 위해 준비한 모습
+    kind: representative
+    origin: third-party
+    subject: 추수 축제를 위해 장식한, 손으로 그린 점토 퐁갈 단지 두 개
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 타이 월이 밝아오는 이른 새벽, 말레이시아 타밀 가정의 뜰과 문 앞은 분주함으로

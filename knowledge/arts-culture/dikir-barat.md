@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: Sebaris penari dikir barat yang duduk berkostum hijau dan emas serta hiasan kepala tinggi bertepuk tangan secara serentak dan tersenyum semasa persembahan malam, dengan rebana di atas lantai di hadapan mereka
+    kind: representative
+    origin: third-party
+    subject: Deretan penari dikir barat yang duduk (awok-awok) bertepuk tangan secara serentak (tradisi Melayu bersama, Chingay, Singapura)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: Seorang penyanyi utama wanita menyanyi ke dalam mikrofon sementara sebaris penari pelajar yang duduk berpakaian hitam dengan ikat kepala merah bertepuk tangan secara serentak, dengan sebuah rebana dan gong, di dalam dewan sekolah di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Kumpulan dikir barat sekolah dengan seorang penyanyi utama, korus awok-awok yang bertepuk tangan dan alat perkusi, Malaysia
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 Dua kumpulan duduk bersila bertentangan di atas pentas. Tiada skrip. Apabila kumpulan pertama selesai berbalas [pantun](/arts-culture/pantun) sindiran tentang harga barang naik, kumpulan kedua ada beberapa saat sahaja untuk mengarang balasan — dan ia mesti berima, mesti kena masa, dan kalau boleh, mesti lebih tajam daripada pantun asal.

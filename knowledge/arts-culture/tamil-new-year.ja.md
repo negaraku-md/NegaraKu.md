@@ -32,7 +32,7 @@ faq:
   - q: "マンゴーとニームの花のパチャディ（pachadi）の特別なところは何ですか。"
     a: "これはタミル新年を象徴する料理です。青いマンゴー（酸っぱさ）、パームシュガー（甘さ）、ニームの花（苦さ）、タマリンドなどを合わせて作ります。甘さ・苦さ・酸っぱさを一つの料理に混ぜ合わせることは、来る年には喜びと悲しみが入り混じることを受け入れるための戒めとされています。"
 lang: "ja"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: ココナッツ、マンゴーの葉、黄色い花を頂いた銀の壺が、火のついた真鍮の油灯に挟まれ、縁起の良いタミル新年の祭壇として配された様子
+    kind: representative
+    origin: third-party
+    subject: 真鍮の油灯の傍らに、ココナッツ・マンゴーの葉・花を頂いた銀の壺を置いた伝統的なタミル新年のカラサム
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: 寺院の柱廊と水槽の上にそびえる、マドゥライのミーナクシ・アンマン寺院の背が高く精巧に彫刻され鮮やかに彩色されたゴープラムの塔
+    kind: representative
+    origin: third-party
+    subject: チッティライ祭の本拠地である、マドゥライのミーナクシ・アンマン寺院のそびえ立つ彫刻を施したゴープラム
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 チッティライ月の最初の夜明け。多くのタミル系の家庭では、前夜のうちに盆が一つ用意されている——マンゴー、バナナ、キンマの葉、少しの金の装身具、そして一枚の鏡。朝、目を覚ましたら、ほかの何を見るよりも前に、まずこの盆を見なければならない。これが**カンニ（kanni）**である——新年の日に最初に見る光景がその一年の調子を定める、という信仰の表れである。

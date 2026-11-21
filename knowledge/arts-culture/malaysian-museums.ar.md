@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "الزوار الذين يخططون لمسار زيارة متاحف، والطلاب والباحثون الراغبون في التاريخ المؤسسي وراء مجموعات ماليزيا الكبرى، وكل من افترض أن المتحف الوطني هو أقدم متاحف البلاد."
 
 lang: "ar"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: قبة مستديرة مكسوّة ببلاط فيروزي مزجّج مغطّى بزخارف أرابيسك زهرية بيضاء وخضراء وذهبية، تعلوها قمة ذهبية صغيرة، ترتفع أمام سماء زرقاء شاحبة
+    kind: actual
+    origin: third-party
+    subject: قبة فيروزية مكسوّة بالبلاط لمتحف الفنون الإسلامية في ماليزيا بكوالالمبور، مزخرفة بزخارف أرابيسك زهرية دقيقة
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: مبنى متحف استعماري تاريخي من طابقين مطليّ بلون كريمي بزوايا حجرية رمادية وإطارات نوافذ، بأسقف جملونية حادة وقمم زخرفية، تحيط به أشجار نخيل عالية تحت سماء زرقاء ساطعة
+    kind: actual
+    origin: third-party
+    subject: مبنى متحف ساراواك التاريخي من الحقبة الاستعمارية في كوتشينغ، بناء كريمي من طابقين بزوايا حجرية رمادية وأسقف جملونية
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 اسأل معظم الزوار عن أقدم متحف في ماليزيا، وسيخمّنون المتحف الوطني (Muzium Negara) — المبنى ذو السقف القصري الذي يتصدّر صفّ متاحف كوالالمبور. سيخطئون بثمانين عاماً. فذلك اللقب يعود إلى رواق متواضع في تايبينغ (Taiping)، بُني بينما كان موقع المتحف الوطني لا يزال يشغله سلفه.

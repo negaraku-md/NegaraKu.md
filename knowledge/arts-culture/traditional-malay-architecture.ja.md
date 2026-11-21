@@ -27,7 +27,7 @@ faq:
     a: "マレー家屋は通常一世帯のための住まいであるのに対し、長屋（rumah panjang）は一つの細長い建物に多数の世帯を収容する——各世帯は自分の部屋（bilek）を持ち、ruaiと呼ばれる共同の回廊を共有する。"
 
 lang: "ja"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: 木の杭の上に高く建てられた濃い茶色の木造カンポンの家。急勾配の切妻屋根、彫刻の施された帆立貝状の軒、羽目板の木壁を備え、ベランダへと続く外階段があり、緑の葉に縁取られている
+    kind: actual
+    origin: third-party
+    subject: 急勾配の切妻屋根、彫刻の施された破風板、木の階段で上がる高床のベランダを備えた、伝統的な木造マレーの高床式家屋（ルマ・ムラユ）
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: 鋭い先端へと湾曲したミナンカバウ式の反り上がった屋根を持つ、高床の細長い木造マレー宮殿。羽目板の濃い色の木壁に格子窓を備え、彫刻の施された柱の上に立ち、傍らには「Rumah Negeri Sembilan」と書かれた看板がある
+    kind: actual
+    origin: third-party
+    subject: 反り上がったミナンカバウの水牛の角の切妻屋根を持つ、ヌグリ・スンビランの木造宮殿イスタナ・アンパン・ティンギ
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 古いカンポン（kampung、村落）の家屋を持ち上げ、その接合部を解体し、新しい敷地で組み立て直す——その大半は固定されたコンクリート基礎を必要としない。それこそが伝統的マレー建築の知恵である。エアコンが登場する以前から熱帯気候を「読み解いて」いた家屋なのだ。

@@ -33,7 +33,7 @@ faq:
     a: "The original gamelan set was returned to Pahang in 1973 and is displayed at the Pahang Museum in Pekan."
 
 lang: "en"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: A complete Malay gamelan set laid out on a patterned carpet, with bronze kettle-gongs, metallophones, a hanging gong and a drum on carved wooden stands
+    kind: actual
+    origin: third-party
+    subject: Complete Gamelan Melayu set arranged in a Malaysian arts-and-heritage centre
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: A musician in an orange tunic kneeling before a red-and-gold saron metallophone, striking its bronze bars with a wooden mallet
+    kind: representative
+    origin: third-party
+    subject: Musician striking a saron metallophone (Indonesian gamelan, same instrument family as Gamelan Melayu)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 The gamelan set moved from one court to another not because of a sale or a seizure — but because of marriage. When a princess moved to her husband's palace, the instruments, dancers and songs moved with her. That is how gamelan became the property of the Malay courts.

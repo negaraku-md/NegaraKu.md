@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "말레이시아 화인 전통 희곡의 종류, 그리고 「수신극(酬神戲)」이 사원 축제와 명절에서 하는 역할을 알고자 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: 밤 축제 무대 위 두 명의 조주 전통극 공연자로, 파란 도포를 입은 남성 선비와 선명한 분홍 의상의 여성 배역이 한자로 뒤덮인 'Penang Dialect Theater' 배경막 앞에 선 모습
+    kind: actual
+    origin: third-party
+    subject: 2024년 페낭 조지타운에서 음력설에 펼쳐진 조주 거리 전통극
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: 흰 도포와 구슬 장식 검은 모자를 쓴 중국 거리 전통극 공연자가 무대 분장을 하고 안경을 쓴 채, 따뜻하고 낮은 조명 속에서 무대 뒤 작은 등 쪽으로 몸을 기울여 대본을 읽는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아에서 무대 뒤 분장을 한 채 대본을 살피는 중국 거리 전통극 공연자
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 징과 북이 울리고 무대 위에서는 수수(水袖, 긴 소맷자락)가 나부끼지만, 무대 아래 객석에는 흔히 몇 사람만이 앉아 있을 뿐 — 때로는 한 사람도 없습니다. 이는 공연의 실패가 아닙니다. 이 연극은 본래 사람에게 보이기 위한 것이 아니었기 때문입니다.

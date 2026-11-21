@@ -35,7 +35,7 @@ faq:
     a: "Kedua-duanya perayaan berasingan dengan tema yang sama. Gawai Dayak ialah perayaan menuai kaum Dayak di Sarawak, disambut pada 1 dan 2 Jun. Kaamatan pula ialah perayaan menuai kaum Kadazandusun di Sabah, disambut pada 30 dan 31 Mei. Kedua-duanya bersyukur atas hasil tuaian padi, tetapi kaum, ritual dan tarikhnya berbeza."
 
 lang: "ms"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrio
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Penari Iban dan Orang Ulu dengan hiasan kepala perak yang rumit, manik-manik dan mahkota bulu ketika perarakan Gawai Dayak di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Penari Dayak berpakaian lengkap pada perarakan Gawai Dayak di Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: Ruang galeri komunal kayu yang panjang (ruai) di dalam rumah panjang Iban di Sarawak, tempat Gawai Dayak disambut
+    kind: actual
+    origin: third-party
+    subject: Ruang galeri komunal rumah panjang Iban di Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 Jam belum lagi berdentum tengah malam pada hari terakhir bulan Mei, dan di sebuah rumah panjang di suatu tempat di tebing sungai Sarawak, gong sudah menanti. Padi sudah selamat dituai. Ruai sudah disapu bersih dan digantung dengan tikar baharu. Sebuah tempayan tuak sudah tersedia. Apabila gong akhirnya dipalu, ketua rumah panjang akan mengangkat cawan, dan semua orang di sepanjang ruai bersama akan minum untuk tiga perkataan yang sama: umur panjang, kesihatan, kesejahteraan.

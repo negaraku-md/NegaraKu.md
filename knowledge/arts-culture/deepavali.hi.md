@@ -30,7 +30,7 @@ faq:
     a: "ये दीये — मिट्टी या धातु के छोटे दीये जिन्हें अकसर «दिया» (diyas) कहा जाता है — «रोशनी के पर्व» का दृश्य केंद्र हैं। इनकी पंक्तियाँ द्वारों और खिड़कियों पर जलाई जाती हैं, जो पर्व के नाम «रोशनी की एक पंक्ति» के अर्थ की प्रतिध्वनि हैं।"
 
 lang: "hi"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: कुआलालंपुर के केएल सेंट्रल स्टेशन पर यात्रियों से भरे व्यस्त मुख्य हॉल के ऊपर लटकी हुई चमकीली पीली सजावटी दीपावली लालटेनों की कतारें
+    kind: actual
+    origin: third-party
+    subject: केएल सेंट्रल स्टेशन पर लटकी दीपावली लालटेनें और उत्सवी भीड़
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: दीपावली के लिए केएल सेंट्रल के चमकते फ़र्श पर रंगीन पाउडर से बनाया गया एक विशाल, अत्यंत रंगीन मोर-आकृति का कोलम
+    kind: actual
+    origin: third-party
+    subject: दीपावली के लिए केएल सेंट्रल पर मोर-थीम वाला विशाल फ़र्श कोलम
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 एक रात के लिए, बोलने का काम दीया करता है। मिट्टी के छोटे-छोटे दीयों की पंक्तियाँ द्वारों और खिड़कियों की दहलीज़ों पर सजाई जाती हैं, रंगीन चावल या चूर्ण से बनी एक फर्श-आकृति देहरी पर रखी जाती है, और एक घर जो घंटेभर पहले अँधेरे में था, लौ की रेखाओं में उभर आता है। पर्व को इसी से अपना नाम मिलता है: *दीपावली* संस्कृत के «रोशनी की एक पंक्ति या शृंखला» से आता है।

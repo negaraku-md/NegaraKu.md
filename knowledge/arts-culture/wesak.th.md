@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "ผู้คนในมาเลเซีย — ไม่ว่าจะเป็นชาวพุทธหรือไม่ — ที่ต้องการคำอธิบายที่กระจ่างและถูกต้องว่าวันวิสาขบูชาคืออะไร ตรงกับวันใด และถือปฏิบัติอย่างไร รวมถึงนายจ้างและลูกจ้างที่ตรวจสอบวันหยุดราชการ"
 
 lang: "th"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: โคมไฟแขวนดวงเล็กแถวยาวสีเทอร์ควอยซ์ เขียวมะนาว ชมพู และขาว แต่ละดวงบรรจุเทียนที่จุดไว้และกระดาษคำอวยพรสีชมพู แขวนอยู่ใต้เต็นท์ในงานฉลองวันวิสาขบูชาในมาเลเซีย โดยมีผู้มาเยือนเดินอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: โคมไฟอวยพรของผู้ศรัทธาหลากสีพร้อมกระดาษคำอวยพรแถวยาวในงานฉลองวันวิสาขบูชาที่เมืองอาโลร์เซอตาร์ ประเทศมาเลเซีย
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: ตะเกียงเทียนรูปดอกบัวเล็ก ๆ ที่จุดไว้นับร้อยดวงจัดวางเป็นแถวเรียบร้อยบนโต๊ะคลุมผ้าสีชมพูและเหลือง นำไปสู่พระพุทธรูปองค์เล็กที่ขนาบด้วยดอกไม้ตัดกับฉากหลังวาดภาพท้องฟ้าสีฟ้าภายในเต็นท์
+    kind: actual
+    origin: third-party
+    subject: แท่นบูชาพร้อมตะเกียงเทียนรูปดอกบัวที่จุดไว้นับร้อยดวงหน้าพระพุทธรูปในวันวิสาขบูชาที่เมืองอาโลร์เซอตาร์ ประเทศมาเลเซีย
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 ถามว่าวันวิสาขบูชาตรงกับวันใด แล้วจะไม่มีคำตอบที่ตายตัว — มันเปลี่ยนไป ในปี 2026 ตกวันที่ 31 พฤษภาคม ในปี 2027 วันที่ 20 พฤษภาคม ในปี 2028 วันที่ 9 พฤษภาคม เหตุผลนั้นเรียบง่าย กล่าวคือ วิสาขบูชากำหนดด้วยดวงจันทร์ ไม่ใช่ด้วยวันที่ในปฏิทิน และปฏิทินจันทรคติกับปฏิทินเกรกอเรียนเลื่อนสวนกันทุกปี

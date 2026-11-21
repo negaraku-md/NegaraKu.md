@@ -33,7 +33,7 @@ faq:
     a: "यह मध्य-शरद की सबसे व्यापक रूप से प्रचलित चंद्र-कथाओं में से एक है: कहा जाता है कि होउ यी को अमरता का अमृत प्राप्त हुआ, और उसकी पत्नी चाँग'अ ने विशेष परिस्थितियों में वह अमृत पी लिया, जिससे उसका शरीर हल्का होकर ऊपर उठ गया और वह चंद्रमा पर जा बसी, तब से मानव-लोक से अलग हो गई। इस कथा के कई संस्करण और भिन्न-भिन्न विवरण हैं, और इसे आमतौर पर 'मध्य-शरद में चंद्रमा निहारना तथा चंद्रमा पर किसी के रहने' को समझाने वाली लोक-कथा माना जाता है, न कि ऐतिहासिक तथ्य; यह लेख इसे केवल संक्षेप में प्रस्तुत करता है।"
 
 lang: "hi"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: जेड-खरगोश और पुष्प आकृतियों से दबी हुई सुनहरी-भूरी पकी हुई मूनकेक की कतारें एक छिद्रित धातु की थाली पर ठंडा होने के लिए रखी हैं, उनकी चमकदार पेस्ट्री की सतहें रोशनी में चमक रही हैं
+    kind: representative
+    origin: third-party
+    subject: ताज़ा बेक की गई जेड-खरगोश मूनकेक, मध्य-शरद महोत्सव का प्रतीक भोजन
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: सफ़ेद तारों और एक खरगोश की आकृति से छपी एक गोल लाल अकॉर्डियन-मोड़ वाली काग़ज़ की लालटेन, हरी पत्तियों और गुलाबी फूलों के सामने लटकी हुई, जो बच्चे मध्य-शरद में ले जाते हैं वह पारंपरिक मोड़ने योग्य काग़ज़ी लालटेन
+    kind: representative
+    origin: third-party
+    subject: मध्य-शरद महोत्सव के दौरान बच्चे जिस तरह की लालटेन ले जाते हैं उस तरह की एक पारंपरिक लाल कॉन्सर्टिना काग़ज़ी लालटेन
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 चंद्र पंचांग के आठवें महीने की पंद्रहवीं तिथि की रात होते ही, मॉल के केंद्रीय प्रांगण में लाल-लाल जगमगाते लालटेन टँगे होते हैं, और रिहायशी इलाके के पार्क में दो-तीन के समूह में बच्चे जले हुए लालटेन लेकर इधर-उधर घूमते हैं। घर की भोजन-मेज़ पर छोटे-छोटे टुकड़ों में कटे मूनकेक का एक डिब्बा गर्म चाय की एक केतली के साथ रखा है, और उसके बगल में एक छिला हुआ पॉमेलो। परिवार कुर्सियाँ उठाकर घर के बाहर ले जाता है और साल के सबसे गोल चंद्रमा को ऊपर देखता है — यही मलेशियाई चीनी परिवार की विशिष्ट मध्य-शरद रात है।

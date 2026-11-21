@@ -34,7 +34,7 @@ faq:
     a: "它在20世纪中叶因广播、电影和电视的竞争而衰落。到1930年代末，许多班沙湾剧院被改造成电影院，战后这一行业更失去了资金来源。"
 
 lang: "zh"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: 马六甲班沙湾剧院（Panggung Bangsawan）外观，米色与褐色相间的现代立面上，有红色的「Panggung Bangsawan Melaka」字样招牌，衬着晴朗的蓝天
+    kind: actual
+    origin: third-party
+    subject: 班沙湾剧院（Panggung Bangsawan），马六甲市专门上演班沙湾戏剧的剧院
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: 从街角望去的马六甲班沙湾剧院，立着高高的红色竖式「Panggung」招牌，背后是棕榈树和城市建筑，天色阴沉
+    kind: actual
+    origin: third-party
+    subject: 马六甲专门上演班沙湾的剧院——班沙湾剧院（Panggung Bangsawan）街景
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 在电影出现之前，就有了灯火通明的舞台、手绘的幕布，以及一支能够在同一晚的演出中，从舒缓的马来宫廷曲调切换到中东节奏的乐队。那就是班沙湾——曾是马来半岛城市里最热闹的娱乐形式，后来又把自己的演员和歌手交给了新生的马来电影业。

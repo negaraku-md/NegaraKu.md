@@ -33,7 +33,7 @@ faq:
     a: "परंपरागत रूप से, महिलाएँ। यूनेस्को दर्ज करता है कि सोंगकेत की बुनाई हमेशा महिलाओं के हाथ में रही है, जबकि पुरुष बुनाई के उपकरण बनाकर इस प्रथा में भाग लेते हैं। ज्ञान परिवारों और गाँवों के भीतर हस्तांतरित होता है, और कुछ संस्थान प्रशिक्षण कार्यक्रम भी प्रदान करते हैं।"
 
 lang: "hi"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: एक पूरा आयताकार सोंगकेट कपड़ा सपाट प्रदर्शित, जिसमें सुनहरे-धागे की पुष्प आकृतियों वाले दो लाल किनारे एक हल्के सुनहरे केंद्रीय पैनल के दोनों ओर हैं
+    kind: actual
+    origin: third-party
+    subject: तेरेंगानू का एक पूरा मलेशियाई सोंगकेट कमर-लपेट (कैन) सपाट रखा हुआ, जिसमें सुनहरा-ब्रोकेड क्षेत्र और केंद्रीय मुख्य पैनल दिख रहा है
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: हरे-सुनहरे सोंगकेट कपड़े से बना एक मुड़ा हुआ त्रिकोणीय मलय शिरोभूषण (तानजाक) जो बुने हुए धात्विक धागे से झिलमिलाता है, एक स्टैंड पर प्रदर्शित
+    kind: actual
+    origin: third-party
+    subject: एक तानजाक, तेरेंगानू का सुनहरे सोंगकेट कपड़े से बना एक मुड़ा हुआ मलय शिरोभूषण
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 सोंगकेत की कार्यशाला में सबसे अधिक सुनाई देने वाली ध्वनि किसी मशीन की ध्वनि नहीं है। यह लकड़ी के दबाए जाने, धागे के खींचे जाने, और एक बाँस की सलाई के अंदर खिसकाए जाने और बाहर निकाले जाने की ध्वनि है — बार-बार, एक बार में नक्शे की एक पंक्ति, पूरे दिन भर।

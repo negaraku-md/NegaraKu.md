@@ -33,7 +33,7 @@ faq:
     a: "Not necessarily. Some families first offer tangyuan to their ancestors or deities before the family eats together; many others treat the Winter Solstice simply as a day to eat tangyuan and reunite, without any worship. Practices such as ancestor worship and prayer vary with each family's beliefs and customs. This article only describes the customs themselves and does not pass judgment on any religious belief."
 
 lang: "en"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_y
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: A close bowl of glossy, semi-transparent glutinous rice balls in white, lilac and jade green bobbing in clear sweet soup
+    kind: representative
+    origin: third-party
+    subject: Close-up of translucent crystal-skinned tang yuan in white, purple and green floating in a bowl of syrup
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: Top-down view of four plump purple tang yuan glutinous rice balls in clear hot syrup in a blue-rimmed bowl, wisps of steam rising
+    kind: representative
+    origin: third-party
+    subject: A bowl of purple glutinous rice balls in hot syrup, seen from above with rising steam
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 On an evening in late December, the scent of glutinous rice flour mingles with the sweetness of ginger soup in the kitchen. The family gathers round the table, rolling little lumps of glutinous rice dough into balls — some white, some dyed pink or pale green. The balls in the children's hands come in all sizes, and as the adults roll they say: once you have eaten the tangyuan, you have grown a year older. This day is the Winter Solstice.

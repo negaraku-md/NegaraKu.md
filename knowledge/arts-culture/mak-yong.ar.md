@@ -33,7 +33,7 @@ faq:
     a: "العروض العامة في كلنتان مقيَّدة بموجب مرسوم ولائي لمراقبة الترفيه صدر عام 1998. وفي 25 سبتمبر 2019، أعلن نائب رئيس وزراء ولاية كلنتان داتوك محمد أمار نيك عبد الله (Datuk Mohd Amar Nik Abdullah) أن العروض مسموح بها رهناً بشروط متوافقة مع الشريعة تضعها حكومة الولاية، منها خلوّها من عناصر العبادة ووجوب ستر العورة، مع مراقبة مستمرة من حكومة الولاية والسلطات الدينية الولائية."
 
 lang: "ar"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: زيّان من أزياء ماك يونغ على مجسّمين خلف زجاج، سترة ذهبية بتاج مرصّع وسترة عنابية بغطاء رأس داكن، في متحف ولاية كلنتان
+    kind: actual
+    origin: third-party
+    subject: أزياء ماك يونغ بتيجان مزخرفة معروضة في متحف ولاية كلنتان، ماليزيا
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: صورة تاريخية بلون سيبيا لراقصة ماك يونغ متوّجة تقف بين موسيقيين ذكور جالسين يحملون طبول غيندانغ ورباب
+    kind: representative
+    origin: third-party
+    subject: صورة تاريخية لأداء رئيسي متوّج في ماك يونغ تحيط به موسيقيون جالسون بالطبول والرباب
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 لا يأتي الصوت الأول من مؤدٍّ، بل من قطعة خشبية على هيئة ثمرة الكمثرى بثلاثة أوتار — رباب — يُعزف ببطء عند حافة مسرح خشبي مكشوف. يجلس الجمهور على ثلاث جهات. والسقف من سعف النخيل. وقبل أن يُنطق سطر واحد من الحوار، تكون أميرة قد انحنت بالفعل نحو الآلة في رقصة يشرح اسمها وحده كل شيء: **مُنغادب رباب (Mengadap Rebab)**.

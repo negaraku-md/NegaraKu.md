@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: 风筝表面的微距特写，可见手工剪出的花叶图案，用虹彩般的青绿与金色箔纸勾以黑边，衬在深色纸底上，右下角有一朵洋红色花
+    kind: actual
+    origin: third-party
+    subject: 吉兰丹风筝（wau）上精致的剪纸与箔纸花卉装饰特写
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: 一间木工坊内，几片已完成、以粉红、金色和青绿箔纸拼饰的风筝面，挂在一副纤细、拉满绷线的竹制风筝骨架旁，背景的工作台边隐约可见制作者
+    kind: actual
+    origin: third-party
+    subject: 风筝工匠的工坊里完成的风筝面与一副光骨的竹制风筝骨架
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 在你看见wau之前，你会先听见它。一个做得恰到好处的传统wau，在空中飞行的整段时间里都会持续发出嗡嗡声——那不是风声，而是刻意设计进其构造里的音调。

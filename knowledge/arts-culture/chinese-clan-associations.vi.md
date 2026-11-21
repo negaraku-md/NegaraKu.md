@@ -33,7 +33,7 @@ faq:
     a: "Vai trò tương trợ của hội quán đương đại đã thay đổi nhiều. Nhiều hội quán đặt trọng tâm vào việc cấp học bổng và cho vay học tập, bảo tồn phương ngữ và văn hóa truyền thống, tổ chức lễ hội và giao lưu, cùng phúc lợi cộng đồng; một số từ đường tông tộc lâu đời và các Cầu Dòng họ trở thành trọng điểm của du lịch văn hóa và bảo tồn kiến trúc sau khi George Town được ghi danh Di sản Thế giới. Mức độ hoạt động và trọng tâm của mỗi hội quán khác nhau."
 
 lang: "vi"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: Nhà hội quán dòng họ Khoo Kongsi thắp sáng lúc hoàng hôn mừng Tết Nguyên Đán, treo đèn lồng đỏ và những khung đèn rực sáng trong khi đám đông tụ tập ở sân trước
+    kind: actual
+    origin: third-party
+    subject: Nhà hội quán dòng họ Khoo Kongsi thắp sáng và trang trí đèn lồng đỏ mừng Tết Nguyên Đán 2024, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: Góc nhìn ngước lên trần nhà hội quán dòng họ Khoo Kongsi, cho thấy xà mái lợp ngói đất nung, những thanh xà sơn màu và các con sơn chạm khắc mạ vàng rực rỡ
+    kind: actual
+    origin: third-party
+    subject: Trần gỗ sơn màu và mạ vàng của nhà hội quán dòng họ Khoo Kongsi, George Town, Penang
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 Bước vào khu vực quanh Pháo đài Cornwallis ở George Town, Penang, giữa những dãy nhà phố bỗng hiện ra một từ đường tông tộc với mái cong chạm trổ tinh xảo và xà nhà sơn vẽ — đó là Long Sơn Đường Khâu Công Ty (Khoo Kongsi). Đi tiếp ra phía biển, có những dãy nhà sàn gỗ vươn ra mặt nước, mỗi xóm làng mang tên một dòng họ: Cầu họ Chu (Chew), Cầu họ Lâm (Lim), Cầu họ Trần (Tan). Những công trình này không phải đền miếu, cũng không chỉ là nhà ở, mà là di tích vật chất của một trong những hình thức tổ chức lâu đời nhất của xã hội di dân người Hoa — hội quán và hội tông thân.

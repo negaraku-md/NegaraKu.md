@@ -34,7 +34,7 @@ seoTitle: "자위 문자: 역사, 체계, 그리고 오늘날의 지위"
 socialTitle: "일곱 세기 동안 말레이어를 적어 온 아랍 문자 — 자위 문자 이야기"
 
 lang: "ko"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_M
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: 정교한 금색, 파란색, 붉은색 꽃무늬 채식(彩飾)으로 테를 두른, 자위 글자가 적힌 마주 보는 사본 두 쪽
+    kind: actual
+    origin: third-party
+    subject: 자위로 손으로 쓴 말레이 문학 작품 '타지 알살라틴'의 채식된 첫 쪽
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: 진열장 안의 오래된 펼친 사본으로, 마주 보는 쪽이 흐르는 듯한 손글씨 자위 글자로 가득 찬 모습
+    kind: actual
+    origin: third-party
+    subject: 박물관에 전시된, 자위로 쓴 '후쿰 카눈 믈라카'(말라카 법전)의 펼친 사본
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 트렝가누(Terengganu)에서 발견된 한 돌 비문에는 말레이어 낱말들이 새겨져 있습니다 — 오늘날 우리가 쓰는 글자가 아니라, 말레이어 음에 맞게 조정된 아랍 문자로 말입니다. 그 비문인 트렝가누 비문(Batu Bersurat Terengganu)은 702 히즈라, 흔히 서기 1303년에 대응하는 연대를 담고 있습니다.

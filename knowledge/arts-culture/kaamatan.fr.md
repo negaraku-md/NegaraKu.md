@@ -33,7 +33,7 @@ faq:
     a: "Le Magavau est un rituel d'action de grâce visant à honorer et à «rappeler à la maison» l'esprit du riz, Bambaazon, après la récolte. Il est traditionnellement conduit par une bobohizan (aussi orthographié bobolian), une prêtresse qui récite des incantations rituelles. C'est l'un des éléments cérémoniels les plus anciens du Kaamatan."
 
 lang: "fr"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: La gagnante de l'Unduk Ngadau couronnée parmi six finalistes en costume traditionnel kadazan-dusun noir et or sur scène lors de la fête Kaamatan à Penampang, dans le Sabah
+    kind: actual
+    origin: third-party
+    subject: La gagnante de l'Unduk Ngadau et les finalistes au concours de la fête Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: De jeunes danseurs kadazan-dusun en costume noir aux parements rouges et argentés exécutant une danse traditionnelle avec des gongs lors d'une fête des moissons Kaamatan dans le Sabah
+    kind: actual
+    origin: third-party
+    subject: De jeunes Kadazan-Dusun exécutant une danse de la fête des moissons avec des gongs
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 La fête tire son nom d'une seule idée : la moisson. *Kaamatan* signifie exactement cela dans la langue kadazandusun, et tout le reste de la célébration — le rituel, le vin de riz, le concours couronné lors de la dernière soirée — découle de ce seul geste : rentrer le riz.

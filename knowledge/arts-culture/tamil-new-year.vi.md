@@ -32,7 +32,7 @@ faq:
   - q: "Món pachadi xoài và hoa neem có gì đặc biệt?"
     a: "Đây là món ăn đặc trưng của Tết Tamil. Nó được làm bằng cách kết hợp xoài xanh (chua), đường thốt nốt (ngọt), hoa neem (đắng), me và những thứ tương tự. Việc pha trộn vị ngọt, đắng và chua trong một món ăn được xem như một lời nhắc nhở hãy chấp nhận rằng năm sắp tới sẽ có cả niềm vui lẫn nỗi buồn đan xen."
 lang: "vi"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: Một chiếc bình bạc trên đỉnh có một quả dừa, lá xoài và hoa vàng, hai bên là những ngọn đèn dầu đồng đang cháy, bày làm một bàn thờ Tết Tamil cát tường
+    kind: representative
+    origin: third-party
+    subject: Chiếc kalasam Tết Tamil truyền thống gồm một bình bạc trên đỉnh có quả dừa, lá xoài và hoa bên cạnh những ngọn đèn dầu đồng
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: Những tháp gopuram cao, chạm khắc cầu kỳ và sơn màu rực rỡ của đền Meenakshi Amman ở Madurai vươn lên trên những hành lang có cột và hồ nước của ngôi đền
+    kind: representative
+    origin: third-party
+    subject: Những tháp gopuram chạm khắc cao sừng sững của đền Meenakshi Amman ở Madurai, nơi diễn ra lễ hội Chithirai
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 Buổi rạng đông đầu tiên của tháng Chithirai. Trong nhiều gia đình Tamil, một

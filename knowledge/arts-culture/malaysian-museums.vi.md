@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Khách tham quan lên kế hoạch lịch trình bảo tàng, học sinh và nhà nghiên cứu muốn biết lịch sử định chế đằng sau các bộ sưu tập lớn của Malaysia, và bất kỳ ai từng cho rằng Muzium Negara là bảo tàng lâu đời nhất của đất nước."
 
 lang: "vi"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: Một mái vòm tròn ốp gạch men màu xanh ngọc lam phủ kín những họa tiết arabesque hoa lá màu trắng, xanh lá và vàng, trên đỉnh là một chóp nhọn nhỏ mạ vàng, vươn lên trên nền trời xanh nhạt
+    kind: actual
+    origin: third-party
+    subject: mái vòm ốp gạch màu xanh ngọc lam của Bảo tàng Nghệ thuật Hồi giáo Malaysia ở Kuala Lumpur, trang trí họa tiết arabesque hoa lá tinh xảo
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: Một tòa nhà bảo tàng thời thuộc địa hai tầng lịch sử sơn màu kem với đá góc xám và khung cửa sổ, mái dốc đầu hồi và những chóp trang trí, hai bên là những cây cọ cao dưới bầu trời xanh tươi
+    kind: actual
+    origin: third-party
+    subject: tòa nhà Bảo tàng Sarawak thời thuộc địa lịch sử ở Kuching, một công trình hai tầng màu kem với đá góc xám và mái đầu hồi
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 Hỏi phần lớn khách tham quan xem bảo tàng nào là lâu đời nhất Malaysia, và họ sẽ đoán Muzium Negara — tòa nhà mái kiểu cung điện làm điểm neo cho dãy bảo tàng của Kuala Lumpur. Họ sẽ lệch mất tám mươi năm. Danh hiệu ấy thuộc về một phòng trưng bày khiêm tốn ở Taiping, được xây khi khu đất của Muzium Negara vẫn còn bị người tiền nhiệm của nó chiếm giữ.

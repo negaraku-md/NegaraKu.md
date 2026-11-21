@@ -34,7 +34,7 @@ faq:
     a: "It is used in life's rites of passage from birth to death, in sacred ceremonies and healing rituals, and is traditionally bound to the Iban warrior tradition. Its motifs are also woven into women's sarongs, men's loincloths and shaman's robes."
 
 lang: "en"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: A life-size figure of a long-haired Iban weaver leaning back against a backstrap loom, working a rust-red and cream ikat pua kumbu whose warp threads fan out towards the viewer
+    kind: actual
+    origin: third-party
+    subject: a museum display of an Iban woman weaving a rust-coloured pua kumbu on a backstrap loom, Kuching Textile Museum, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 A cloth whose weaver dares not create it without a "blessing" — its patterns are said to come in dreams, and it was once bound tightly to the warrior tradition of the people who made it. That is pua kumbu.

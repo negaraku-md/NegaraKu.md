@@ -33,7 +33,7 @@ faq:
     a: "கட்டாயம் இல்லை. சில குடும்பங்கள் முதலில் தாங்யுவானை முன்னோருக்கோ தெய்வங்களுக்கோ படைத்து, பின்னர் குடும்பம் ஒன்றாக உண்ணும்; பல குடும்பங்கள் தொங்ஜியை வெறுமனே தாங்யுவான் உண்டு ஒன்றுகூடும் நாளாக மட்டுமே கருதி, எவ்வித வழிபாடும் செய்வதில்லை. முன்னோர் வழிபாடு, தெய்வ வழிபாடு போன்ற வழக்கங்கள் ஒவ்வொரு குடும்பத்தின் நம்பிக்கைக்கும் பழக்கத்திற்கும் ஏற்ப வேறுபடும். இந்தக் கட்டுரை வழக்கங்களையே விவரிக்கிறது, எந்த மதநம்பிக்கையையும் மதிப்பிடவில்லை."
 
 lang: "ta"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_y
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: தெளிவான இனிப்பு சூப்பில் மிதக்கும், வெள்ளை, மெல்லிய ஊதா மற்றும் பச்சை நிறங்களில் உள்ள மினுமினுக்கும், அரைகுறை வெளிப்படையான பிசுபிசுப்பான அரிசி உருண்டைகள் நிறைந்த கிண்ணத்தின் அண்மைக் காட்சி
+    kind: representative
+    origin: third-party
+    subject: சிரப்புக் கிண்ணத்தில் மிதக்கும் வெள்ளை, ஊதா மற்றும் பச்சை நிற வெளிப்படையான படிகத் தோல் தாங் யுவானின் அண்மைக் காட்சி
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: நீல விளிம்பு கிண்ணத்தில் தெளிவான சூடான சிரப்பில் உள்ள நான்கு பருத்த ஊதா நிற தாங் யுவான் பிசுபிசுப்பான அரிசி உருண்டைகளின் மேலிருந்து பார்க்கும் காட்சி, ஆவி மேலெழுகிறது
+    kind: representative
+    origin: third-party
+    subject: சூடான சிரப்பில் உள்ள ஊதா நிற பிசுபிசுப்பான அரிசி உருண்டைகளின் கிண்ணம், ஆவி மேலெழ மேலிருந்து பார்த்த காட்சி
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 டிசம்பர் மாத இறுதியில் ஒரு மாலைப்பொழுதில், சமையலறையில் பிசுபிசுப்பு அரிசி மாவின் நறுமணம் இஞ்சிச் சூப்பின் இனிப்போடு கலந்திருக்கிறது. குடும்பம் மேசையைச் சுற்றி அமர்ந்து, சிறு சிறு அரிசி மாவுப் பிண்டங்களை உருண்டைகளாக உருட்டுகிறது — சில வெள்ளை, சில இளஞ்சிவப்பு, இளம்பச்சை நிறத்தில். குழந்தைகளின் கைகளில் உருண்டைகள் பல்வேறு அளவுகளில்; உருட்டிக்கொண்டே பெரியோர் சொல்கின்றனர்: தாங்யுவான் உண்டால் ஒரு வயது கூடிவிட்டது என்று. இந்த நாள்தான் தொங்ஜி.

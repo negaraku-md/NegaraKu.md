@@ -35,7 +35,7 @@ verificationNeeded:
   - "The list of 'national wau' often associated with the Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — no official publication found."
 
 lang: "es"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: Vista macro de la superficie de un wau que muestra motivos florales y de hojas cortados a mano en lámina iridiscente turquesa y dorada perfilados en negro sobre un fondo de papel oscuro, con una flor magenta en la parte inferior derecha
+    kind: actual
+    origin: third-party
+    subject: un primer plano de la intrincada decoración floral de papel recortado y lámina de un wau de Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: Dentro de un taller de madera, varios paneles de wau terminados con motivos en lámina rosa, dorada y azul verdoso cuelgan junto a una esbelta armazón de cometa de bambú tensada con cuerdas, con el artesano parcialmente visible en una mesa al fondo
+    kind: actual
+    origin: third-party
+    subject: cuerpos de wau terminados y una armazón de wau de bambú desnuda en el taller de un fabricante de cometas
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 Antes de ver un wau, lo oyes. Un wau tradicional bien hecho zumba todo el tiempo que está en el aire: no es el sonido del viento, sino una nota deliberadamente incorporada a su construcción.

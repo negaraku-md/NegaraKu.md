@@ -29,7 +29,7 @@ faq:
     a: "يُعزف السيروناي بتقنية التنفس الدائري (circular breathing)، التي تتيح لصوته أن يستمر دون انقطاع، بما يجعله الحاملَ الرئيسي للّحن في النوبات (Nobat)."
 
 lang: "ar"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: صف من طبول ربانة أوبي الكبيرة على حوامل خشبية زرقاء، أجسامها وإطاراتها مطليّة بزخارف زهرية زاهية بالأحمر والأخضر والأصفر والوردي
+    kind: actual
+    origin: third-party
+    subject: صف من طبول ربانة أوبي الإطارية الكبيرة من كلنتان، ماليزيا
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: رجل مسنّ بقميص برتقالي يعزف على آلة نفخ سيروناي ذات لسانين، مع صفوف من الطبول الإطارية الملايوية مصطفّة على الأرض خلفه
+    kind: actual
+    origin: third-party
+    subject: موسيقي مسنّ يعزف على آلة سيروناي ذات اللسانين في منزله بكلنتان، ماليزيا
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 تتكرر الأصوات نفسها خلف كل فنّ أداء ماليزي تقريبًا: وقع جلد الماعز المقروع جماعةً في عرس، والناي العالي الحزين الذي يفتتح مشهد خيال الظل، والنقر المهدِّئ على الأوتار الخشبية في بيت طويل بساراواك. والآلات التي تُصدرها تظهر عبر كثير من مقالات الفنون — ولذا تجمعها هذه الصفحة في مكان واحد.

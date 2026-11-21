@@ -32,7 +32,7 @@ faq:
     a: "いいえ。バラタナティヤムは古典舞踊の一形式であり、ナーダスワラムは寺院や吉事の場で演奏される器楽音楽の伝統です。どちらもタミル社会の芸術的遺産に属しますが、別のものです。ナーダスワラム／寺院音楽はここでは別稿で解説しており、本稿は舞台の古典芸術に焦点を当てます。"
 
 lang: "ja"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: 鮮やかな青い衣装と銀の寺院の装身具を身につけた女性のオディッシの踊り手が、黒い舞台の背景を背に優雅に様式化されたポーズをとっている様子
+    kind: representative
+    origin: third-party
+    subject: 青い衣装と銀の装身具でポーズの途中にあるオディッシの古典舞踊の踊り手
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: 黄色と紫の絹のサリーを着た女性が、座ったカルナータカ式でヴァイオリンを構えて演奏し、舞台上でマイクに身を寄せている様子
+    kind: representative
+    origin: third-party
+    subject: 古典音楽のコンサートで絹のサリーを着て演奏するカルナータカ音楽のヴァイオリニスト
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 マレーシアのどの大都市でも、ディーパバリの夕べや寺院の祭礼の日には、足鈴を鳴らし、ムリダンガムの拍子に合わせて舞台に上がるバラタナティヤムの舞踊家を見ることができます。その足さばきと手ぶりは偶然のものではありません——千年を超える南インドの芸術の伝統と、マレーシアのタミル社会が一世紀半以上にわたってそれを担ってきたありようを、それらは物語っているのです。

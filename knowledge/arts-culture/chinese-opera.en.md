@@ -22,7 +22,7 @@ appliesTo: "Anyone who wants to understand the types of traditional Chinese oper
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: Two Teochew opera performers on a festival stage at night, a male scholar in blue robes and a female character in bright pink, before a 'Penang Dialect Theater' backdrop covered in Chinese characters
+    kind: actual
+    origin: third-party
+    subject: Teochew street opera during Chinese New Year, George Town, Penang, 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: A Chinese street-opera performer in white robes and a beaded black cap, wearing stage makeup and glasses, leaning toward a small lamp to read a script backstage in warm low light
+    kind: actual
+    origin: third-party
+    subject: Chinese street-opera performer in costume studying a script backstage, Malaysia
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 The gongs and drums strike up, water sleeves (水袖) flutter on stage — and the audience seats below often hold only a handful of people, sometimes not even one. This isn't a failed show, because the performance was never meant for human eyes in the first place.

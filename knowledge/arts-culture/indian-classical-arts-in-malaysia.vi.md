@@ -32,7 +32,7 @@ faq:
     a: "Không. Bharatanatyam là một hình thức vũ điệu cổ điển; nadaswaram là một truyền thống âm nhạc khí nhạc được tấu tại các đền thờ và trong các dịp cát tường. Cả hai đều thuộc di sản nghệ thuật của cộng đồng Tamil nhưng là hai thứ khác nhau; nadaswaram/âm nhạc đền thờ được trình bày riêng tại đây, còn bài viết này tập trung vào các nghệ thuật cổ điển sân khấu."
 
 lang: "vi"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: Nữ vũ công Odissi trong trang phục màu xanh dương tươi và trang sức bạc kiểu đền chùa giữ một tư thế cách điệu duyên dáng trên nền phông sân khấu đen
+    kind: representative
+    origin: third-party
+    subject: Vũ công cổ điển Odissi giữa tư thế trong trang phục xanh và trang sức bạc
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: Người phụ nữ trong bộ sari lụa vàng và tím chơi vĩ cầm giữ theo kiểu Carnatic ngồi, nghiêng người về phía một chiếc micro trên sân khấu
+    kind: representative
+    origin: third-party
+    subject: Nghệ sĩ vĩ cầm Carnatic biểu diễn trong bộ sari lụa tại một buổi hòa nhạc cổ điển
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 Vào một buổi tối Deepavali hay một ngày lễ hội đền tại bất kỳ thành phố lớn nào của Malaysia, bạn có thể thấy một nghệ sĩ Bharatanatyam bước lên sân khấu, tiếng lục lạc chân reo vang, chuyển động theo nhịp mridangam. Những bước chân và cử chỉ tay ấy không hề ngẫu nhiên — chúng kể lại một truyền thống nghệ thuật Nam Ấn hơn một ngàn năm tuổi, và cách cộng đồng Tamil Malaysia đã gánh vác nó suốt hơn một thế kỷ rưỡi.

@@ -32,7 +32,7 @@ faq:
   - q: Comment cette musique se perpétue-t-elle en Malaisie ?
     a: "Les musiciens de temple, les ensembles de nadaswaram–thavil et de nombreux groupes d'urumi melam font vivre cette tradition. Les jeunes commencent à apprendre dès leur plus jeune âge ; beaucoup de groupes consacrent leurs revenus aux uniformes, aux instruments et aux repas du groupe, et fonctionnent comme un service à but non lucratif. Aujourd'hui, cette tradition résonne aussi hors des temples, lors de fêtes et de réceptions."
 lang: "fr"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: Dans un temple hindou, un homme assis joue d'un long tuyau à vent nadaswaram tandis qu'un second joue d'un tambour-tonneau horizontal thavil
+    kind: representative
+    origin: third-party
+    subject: Joueurs de nadaswaram et de thavil se produisant au temple hindou Sri Mariamman, à Singapour
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: Un jeune homme tenant un instrument à vent nadaswaram au pavillon évasé à côté d'un autre homme berçant un tambour-tonneau rond thavil lacé de cordes jaunes
+    kind: representative
+    origin: third-party
+    subject: Joueur de nadaswaram associé à un joueur de tambour-tonneau thavil, le duo type de la musique de temple de l'Inde du Sud
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 En tête d'une procession de Thaipusam, à l'instant où un char de temple s'ébranle, ou à l'entrée d'une salle de mariage — lors de toute cérémonie hindoue tamoule de Malaisie, ce qui emplit d'abord l'air est toujours un son bien précis : la longue mélodie du nadaswaram et le grondement du thavil. Ce son n'a rien de fortuit : c'est la marque de la tradition du **mangala vadyam** (instruments de bon augure), qui accompagne cette communauté depuis plus d'un siècle.

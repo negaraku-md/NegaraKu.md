@@ -31,7 +31,7 @@ faq:
     a: "يجوز للمالك الاستمرار في تملّك العقار (المادة 69)، لكن انتقال ملكية التراث الوطني لا يتم إلا بالميراث أو بالبيع بموافقة مسبقة من المفوّض، ويجب منح المفوّض أولوية الشراء (المادة 70)."
 
 lang: "ar"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: أطلال بوابة بورتا دي سانتياغو من الطوب اللاتيريتي المتآكل في حصن آ فاموسا بملاكا، قوسها المتهالك تعلوه نقوش بارزة، وأمامها مدفع برونزي قديم مثبّت على قاعدة من الطوب، مع أشجار استوائية أمام سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: بوابة بورتا دي سانتياغو لحصن آ فاموسا البرتغالي في ملاكا، معلَم مُسجَّل ضمن التراث الوطني
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: الواجهة الوردية من الطوب لقلعة كيلي في باتو جاجاه، بيراك، صفّ من الأروقة المقوّسة والأعمدة الرفيعة على طابقين يطلّ على فناء مبلّط بالطوب، مع جدران متهدّمة جزئياً وخضرة استوائية تحت سماء ساطعة غائمة
+    kind: actual
+    origin: third-party
+    subject: قلعة كيلي، القصر غير المكتمل من أوائل القرن العشرين في باتو جاجاه، بيراك، موقع تراثي محمي
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 مبنى تجاري (شوب هاوس) عمره قرن في جورج تاون، ونصل خنجر «كريس»، ورقصة بلاطية، وصانع [سونغكيت](/arts-culture/songket) على قيد الحياة — يمكن للأربعة جميعًا أن يحملوا الصفة القانونية نفسها في ماليزيا: *التراث الوطني*. والذي يربط بينها ليس قائمة اليونسكو، بل سجل محلي نادرًا ما يُذكر اسمه: **سجل التراث الوطني**.

@@ -29,7 +29,7 @@ faq:
     a: "செருனாய் சுழற்சி மூச்சு நுட்பத்துடன் (circular breathing) வாசிக்கப்படுகிறது, இது அதன் ஒலியை இடைவெளியின்றித் தொடர அனுமதிக்கிறது, இதனால் இது நோபாத்தில் மெட்டின் முதன்மைச் சுமப்பானாக ஆகிறது."
 
 lang: "ta"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: நீல மரத் தாங்கிகளில் பெரிய ரெபானா உபி மேளங்களின் வரிசை, அவற்றின் உடல்களும் சட்டகங்களும் சிவப்பு, பச்சை, மஞ்சள் மற்றும் இளஞ்சிவப்பு நிறங்களில் கண்கவர் மலர் வடிவங்களால் வர்ணம் பூசப்பட்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கெலந்தானிலிருந்து பெரிய ரெபானா உபி சட்டக மேளங்களின் வரிசை
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: ஆரஞ்சு நிற சட்டை அணிந்த ஒரு முதியவர் செருனாய் இரட்டை-நாக்கு காற்றுக் குழலை வாசிக்கிறார், அவருக்குப் பின்னால் தரையில் மலாய் சட்டக மேளங்களின் வரிசைகள் அடுக்கப்பட்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கெலந்தானில் தனது வீட்டில் செருனாய் இரட்டை-நாக்கு குழலை வாசிக்கும் முதிய இசைக்கலைஞர்
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 மலேசியாவின் ஏறக்குறைய ஒவ்வொரு கலை நிகழ்ச்சிக்குப் பின்னரும் அதே ஒலிகள் மீண்டும் மீண்டும் கேட்கின்றன: திருமண விழாவில் கூட்டமாக அடிக்கப்படும் ஆட்டுத்தோலின் தாளம், நிழல் பொம்மலாட்டக் (wayang kulit) காட்சியைத் தொடங்கும் உயர்ந்த, சோகமான புல்லாங்குழல் ஒலி, மற்றும் சரவாக் நீள்வீட்டில் (rumah panjang) அமைதி தரும் மரக் கம்பிகளின் மீட்டல். இவற்றை உருவாக்கும் கருவிகள் பல கலை கட்டுரைகளில் மீண்டும் மீண்டும் தோன்றுகின்றன — எனவே இந்தப் பக்கம் அவற்றை ஒரே இடத்தில் ஒன்றிணைக்கிறது.

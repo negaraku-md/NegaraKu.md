@@ -30,7 +30,7 @@ faq:
     a: "Chủ yếu tại các lễ hội văn hóa, các chương trình của bảo tàng và di sản, và các buổi diễn phục vụ du lịch chứ không phải như một hình thức giải trí của làng quê. Cục Văn hóa và Nghệ thuật Quốc gia cùng các cơ quan văn hóa của bang là điểm khởi đầu thực tế để tìm các buổi diễn đã lên lịch."
 
 lang: "vi"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: Cận cảnh một con rối da wayang kulit chạm khắc cầu kỳ và sơn rực rỡ màu cam, xanh lá và tím, gắn trên một cây que tre mảnh
+    kind: actual
+    origin: third-party
+    subject: Cận cảnh một con rối da Wayang Kulit Kelantan sơn màu rực rỡ trên que điều khiển, Bảo tàng Bang Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: Hai con rối bóng bằng da đầy màu sắc đứng trước những chiếc trống truyền thống và một bảng thông tin bên trong một gian trưng bày chòi tre
+    kind: actual
+    origin: third-party
+    subject: Những con rối Wayang Kulit Kelantan và trống gamelan trưng bày trong một gian chòi lợp tranh kèm bảng giải thích, Bảo tàng Bang Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 Ngọn đèn được thắp trước. Đằng sau một tấm màn bông trắng căng chặt trên một khung gỗ, một người đàn ông ngồi xếp bằng, một chồng các con rối da phẳng nằm trong tầm với ở hai bên, một dàn nhạc nhỏ gồm trống, cồng và một cây serunai hai lưỡi gà chói tai chờ sau lưng ông. Ông sẽ không rời chỗ đó trong suốt cả đêm còn lại. Đến lúc chiếc bóng cuối cùng lướt qua màn, nhiều giờ sau đó, ông sẽ đã lồng tiếng cho vua chúa, quỷ dữ, hề và công chúa, dẫn chuyện chuyển cảnh, và ra hiệu cho từng nhạc công — một mình.

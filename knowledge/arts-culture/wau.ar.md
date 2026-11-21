@@ -35,7 +35,7 @@ verificationNeeded:
   - "قائمة «الواو الوطني» التي كثيراً ما تُنسب إلى مجلس بيلايانغ ماليزيا (Majlis Pelayang Malaysia) (واو بولان، واو كوتشينغ، واو جالا بودي) — لم يُعثر على منشور رسمي بشأنها."
 
 lang: "ar"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: منظر مكبّر لسطح طائرة واو يُظهر زخارف أزهار وأوراق مقصوصة يدوياً برقائق فيروزية وذهبية متلألئة محدّدة بالأسود على أرضية ورقية داكنة، مع زهرة أرجوانية في الزاوية السفلية اليمنى
+    kind: actual
+    origin: third-party
+    subject: لقطة مقرّبة للزخرفة الزهرية الدقيقة من الورق المقصوص والرقائق على طائرة واو من كلنتان
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: داخل ورشة خشبية، تتدلى عدة ألواح واو مكتملة مزخرفة برقائق وردية وذهبية وزرقاء مخضرّة بجانب هيكل طائرة ورقية رفيع من الخيزران مشدود بحبال متوترة، ويظهر الصانع جزئياً عند طاولة في الخلفية
+    kind: actual
+    origin: third-party
+    subject: أجسام واو مكتملة وهيكل واو خيزران عارٍ في ورشة صانع طائرات ورقية
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 قبل أن ترى الواو، تسمعه. فالواو التقليدي المصنوع على نحوٍ سليم يدندن طوال وجوده في الهواء — وليست دندنته صوت الريح، بل نغمةً مبنيّةً عمداً في صناعته.

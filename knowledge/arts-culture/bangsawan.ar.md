@@ -34,7 +34,7 @@ faq:
     a: "تراجع في منتصف القرن العشرين بسبب منافسة الراديو والفيلم والتلفزيون. وبحلول أواخر ثلاثينيات القرن العشرين حُوِّل كثير من قاعات البانجساوان إلى دور سينما، وبعد الحرب فقدت الصناعة مصدر تمويلها."
 
 lang: "ar"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: الواجهة الخارجية لمسرح بانغونغ بانغساوان في ملاكا، واجهة حديثة كريمية وبنية بلافتة حمراء كُتب عليها Panggung Bangsawan Melaka تحت سماء زرقاء صافية
+    kind: actual
+    origin: third-party
+    subject: بانغونغ بانغساوان، المسرح المخصّص للبانغساوان في مدينة ملاكا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: منظر من زاوية الشارع لمسرح بانغونغ بانغساوان في ملاكا بلافتته الحمراء العمودية العالية Panggung، وأشجار نخيل ومبانٍ مدينية خلفه تحت سماء غائمة
+    kind: actual
+    origin: third-party
+    subject: منظر شارعي لبانغونغ بانغساوان، مسرح بانغساوان المخصّص في ملاكا
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 قبل أن تكون هناك صور متحركة، كانت هناك مسارح مضاءة وستائر مرسومة يدوياً وأوركسترا قادرة على الانتقال من الألحان المنسابة لبلاط ملايوي إلى إيقاع من الشرق الأوسط في عرض الليلة نفسها. ذلك كان البانجساوان — أوبرا المسرح التي كانت ذات يوم أكثر وسائل الترفيه الحضري حيويةً في شبه الجزيرة، والتي سلّمت لاحقاً ممثليها ومغنّيها إلى صناعة الفيلم الملايوي الوليدة.

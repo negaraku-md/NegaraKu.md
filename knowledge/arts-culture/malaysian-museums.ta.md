@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "அருங்காட்சியக பயணத் திட்டம் வகுக்கும் பார்வையாளர்கள், மலேசியாவின் முக்கிய சேகரிப்புகளுக்குப் பின்னால் உள்ள நிறுவன வரலாற்றை அறிய விரும்பும் மாணவர்கள் மற்றும் ஆய்வாளர்கள், மேலும் Muzium Negara-தான் நாட்டின் மிகப் பழமையான அருங்காட்சியகம் என்று கருதிய எவரும்."
 
 lang: "ta"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: வெள்ளை, பச்சை மற்றும் தங்க நிற மலர் அராபெஸ்க் வடிவங்களால் மூடப்பட்ட, மெருகூட்டப்பட்ட நீலப்பச்சை ஓடுகளால் வேயப்பட்ட, சிறிய தங்க நுனியால் உச்சி அலங்கரிக்கப்பட்ட, வெளிர் நீல வானத்திற்கு எதிராக உயரும் வட்டக் கோபுரம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் உள்ள மலேசிய இஸ்லாமியக் கலை அருங்காட்சியகத்தின் நீலப்பச்சை ஓட்டுக் கோபுரம், நுணுக்கமான மலர் அராபெஸ்க் வடிவங்களால் அலங்கரிக்கப்பட்டுள்ளது
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: பிரகாசமான நீல வானத்தின் கீழ், சாம்பல் கல் மூலைக் கற்களும் ஜன்னல் சுற்றுப்பட்டிகளும், செங்குத்தான முக்கோணக் கூரைகளும், அலங்கார நுனிகளும், உயரமான பனை மரங்களால் சூழப்பட்ட, கிரீம் நிறத்தில் வர்ணம் பூசப்பட்ட வரலாற்றுச் சிறப்புமிக்க இரு மாடி காலனித்துவ அருங்காட்சியக கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: கூச்சிங்கில் உள்ள வரலாற்று காலனித்துவ காலத்து சரவாக் அருங்காட்சியக கட்டிடம், சாம்பல் கல் மூலைக் கற்களும் முக்கோணக் கூரைகளும் கொண்ட கிரீம் நிற இரு மாடி கட்டமைப்பு
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 மலேசியாவின் மிகப் பழமையான அருங்காட்சியகம் எது என்று பெரும்பாலான பார்வையாளர்களிடம் கேளுங்கள்; அவர்கள் Muzium Negara என்று ஊகிப்பார்கள் — Kuala Lumpur-இன் அருங்காட்சியக வரிசையின் மையமாக அமைந்துள்ள, அரண்மனைக் கூரையுடன் கூடிய கட்டிடம். அவர்கள் எண்பது ஆண்டுகள் தவறாக இருப்பார்கள். அந்தப் பெருமை Taiping-இல் உள்ள ஒரு எளிமையான காட்சியகத்திற்கு உரியது; Muzium Negara-வின் இடத்தை அதன் முன்னோடி இன்னும் ஆக்கிரமித்திருந்த காலத்திலேயே அது கட்டப்பட்டது.

@@ -32,7 +32,7 @@ faq:
   - q: "Apa keistimewaan pachadi mangga dan bunga nimba?"
     a: "Ia adalah hidangan khas Tahun Baru Tamil. Dibuat dengan memadukan mangga mentah (asam), gula aren (manis), bunga nimba (pahit), asam jawa, dan sejenisnya. Pemaduan rasa manis, pahit, dan asam dalam satu hidangan dianggap sebagai pengingat untuk menerima bahwa tahun yang akan datang akan bercampur antara suka dan duka."
 lang: "id"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: Sebuah periuk perak dimahkotai kelapa, daun mangga dan bunga kuning, diapit lampu minyak kuningan yang menyala, ditata sebagai altar Tahun Baru Tamil yang membawa keberuntungan
+    kind: representative
+    origin: third-party
+    subject: Kalasam Tahun Baru Tamil tradisional berupa periuk perak dimahkotai kelapa, daun mangga dan bunga di samping lampu minyak kuningan
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: Menara gopuram Kuil Meenakshi Amman di Madurai yang tinggi, diukir rumit dan dicat cerah, menjulang di atas koridor bertiang dan kolam kuil
+    kind: representative
+    origin: third-party
+    subject: Gopuram berukir menjulang Kuil Meenakshi Amman di Madurai, tempat festival Chithirai
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 Fajar pertama bulan Chithirai. Di banyak rumah Tamil, sebuah nampan sudah

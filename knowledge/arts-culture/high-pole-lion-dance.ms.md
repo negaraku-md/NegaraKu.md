@@ -33,7 +33,7 @@ faq:
     a: "Tarian singa tiang tinggi berasal daripada amalan singa bangun tradisional masyarakat Cina, dan sesetengah kumpulan singa ditubuhkan di tokong atau dinamakan sempena tokong, serta mungkin ada upacara tradisional seperti mencelik mata sebelum membuka tiang. Namun sebagai sukan dan persembahan, ia kini lebih banyak dilihat sebagai aktiviti budaya dan sukan, dan sebahagian kumpulan singa moden juga memperlahankan unsur keagamaan dalam latihan mereka. Rencana ini hanya menerangkan amalan dan sukan itu sendiri, tanpa menilai sebarang kepercayaan."
 
 lang: "ms"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_h
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: Singa tarian singa putih bertenggek di atas tiang merah yang tinggi di atas orang ramai di jalan di Kuala Lumpur, dengan papan tanda kedai Cina di belakang
+    kind: actual
+    origin: third-party
+    subject: Tarian singa tiang tinggi dipersembahkan di atas tiang jong di sebuah jalan di Kuala Lumpur di hadapan orang ramai, Malaysia
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: Kepala dan badan tarian singa putih yang dihias terang mengimbang di atas beberapa batang tiang tinggi, menghadap ke hadapan di bawah lampu pentas
+    kind: representative
+    origin: third-party
+    subject: Singa pertandingan putih mendekam dan mengimbang di atas beberapa tiang jong tinggi, kepala singa menghadap kamera
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 Sebaik bunyi gendang mengetat, singa itu melonjak ke udara, kaki depannya mendarat kukuh di atas sebatang tiang keluli yang hanya sebesar bibir mangkuk, dan ekor singa segera menyusul — dua penari melompat dan berdiri tegak di celah sebaris tiang yang berbeza-beza ketinggian, dua tiga meter dari tanah, sementara penonton menahan nafas, sehinggalah singa yang seolah-olah "hidup" itu berdiri mantap di atas tiang tertinggi, barulah meletus tepukan gemuruh. Ini bukan tarian singa perayaan di atas tanah, tetapi satu sukan yang mempunyai pemarkahan, juara dan kedudukan dunia — tarian singa tiang tinggi.

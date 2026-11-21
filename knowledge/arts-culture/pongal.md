@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_we
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: ஒரு வீட்டு வாயிலுக்கு வெளியே தரையில் வண்ணப் பொடியால் வரையப்பட்ட பெரிய வண்ணமயமான பொங்கல் கோலம், கரும்புத் தண்டுகள், பிரகாசமான மலர்கள் மற்றும் வழிந்தோடும் விழாப் பானையைக் காட்டுகிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு தெருவில் கரும்பு, மலர்கள் மற்றும் வழிந்தோடும்-பானை வடிவத்துடன் வண்ணமயமான பொங்கல் கோலம்
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: அறுவடை விழாவின் போது பொங்கல் சமைக்கத் தயாரிக்கப்பட்ட, சிவப்பு விளிம்பு கொண்ட இரண்டு வட்டக் களிமண் பானைகள், வண்ணமயமான கோணல்-கோடு மற்றும் புள்ளி வடிவங்களால் வெள்ளையில் கையால் வர்ணம் பூசப்பட்டுள்ளன
+    kind: representative
+    origin: third-party
+    subject: அறுவடை விழாவுக்காக அலங்கரிக்கப்பட்ட கையால் வர்ணம் பூசப்பட்ட இரண்டு களிமண் பொங்கல் பானைகள்
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 தை மாதம் பிறக்கும் அதிகாலையில், மலேசியாவின் தமிழ்க் குடும்பங்களின் முற்றங்களிலும்

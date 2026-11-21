@@ -33,7 +33,7 @@ faq:
     a: "अवान लारात का शास्त्रीय डिज़ाइन सिद्धांत वास्तव में मनुष्यों या जानवरों को प्राथमिक पैटर्न तत्व के रूप में चित्रित करने से बचता है। तथापि, मलय काष्ठ नक्काशी की अपनी एक अलग पशु अलंकरण श्रेणी भी है — जैसे मुर्गी, गैंडा और बतख की आकृतियाँ — जो दोहराव वाले अवान लारात पैटर्न से अलग प्रयोग की जाती है।"
 
 lang: "hi"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: एक अलंकृत लकड़ी का मस्जिद मिम्बर जिसकी एक ऊँची सुनहरी छतरी सुनहरी पत्तियों से उकेरी और छिदी है और एक शिखायुक्त शिखा है, एक हरे प्रार्थना-कालीन पर एक लाल-और-सुनहरी उकेरी सीढ़ी के ऊपर उठती हुई
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के मलक्का में तेंगकेरा (ट्रांक्वेरा) मस्जिद का सुनहरा, जटिल उकेरा हुआ लकड़ी का मिम्बर (मंच)
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: एक भूरे-तख़्ते वाले पारंपरिक मलय घर की छत के नीचे लकड़ी के छज्जे-बोर्ड के साथ चलती ज्वाला-जैसी पत्ती-आकृतियों में छिदी हुई जालीदार नक़्क़ाशी की एक पट्टी, हरी हरियाली और आकाश से घिरी हुई
+    kind: actual
+    origin: third-party
+    subject: सेलांगोर के हुलु लंगात में एक पारंपरिक मलय लकड़ी के घर की छत-रेखा को सजाता एक उकेरा हुआ जालीदार छज्जा-बोर्ड (पापन केरावांग)
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 किसी पुराने मलय घर की खिड़की के काठ-फलक को ध्यान से देखिए, और यह ढूँढने की कोशिश कीजिए कि पैटर्न कहाँ से शुरू होता है। आप इसे नहीं पाएँगे। यह आपकी आँखों का दोष नहीं है — इसे इसी तरह डिज़ाइन किया गया है।

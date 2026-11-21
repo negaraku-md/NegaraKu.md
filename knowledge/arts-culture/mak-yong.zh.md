@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: 吉兰丹州立博物馆玻璃柜后两具模特身上展示的玛蓉舞（Mak Yong）戏服，一件镶珠宝冠的金色上衣，一件配深色头饰的栗红色上衣
+    kind: actual
+    origin: third-party
+    subject: 马来西亚吉兰丹州立博物馆展出的玛蓉舞（Mak Yong）戏服与华丽头冠
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: 一张泛黄的历史照片，一名头戴王冠的玛蓉舞舞者站在一排坐着的男乐手之间，乐手手持手鼓（gendang）和拉巴卜琴（rebab）
+    kind: representative
+    origin: third-party
+    subject: 一张历史照片，头戴王冠的玛蓉舞主角与两旁持鼓和拉巴卜琴的坐姿乐手
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 第一个声音并非来自演员。它来自一块梨形、张着三根弦的木头——rebab——在一座露天木造舞台边缘被缓缓拉奏。观众坐在三面。屋顶是棕榈叶搭成的。而在第一句台词说出之前，一位公主已经朝着这件乐器俯身，跳起一支光凭名字就足以说明一切的舞蹈：**Mengadap Rebab**。

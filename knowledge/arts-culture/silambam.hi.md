@@ -29,7 +29,7 @@ faq:
   - q: "क्या मलेशिया में सिलम्बम को एक खेल के रूप में मान्यता प्राप्त है?"
     a: "मलेशिया में सिलम्बम को युद्धकला और प्रतिस्पर्धी खेल, दोनों रूपों में संचालित किया जाता है; राष्ट्रीय प्रतियोगिताएँ, अंतरराष्ट्रीय चैंपियनशिप, तथा कुछ वर्षों में मलेशिया खेलों (SUKMA) में भागीदारी — ये सभी हो चुकी हैं। किंतु संघों तथा इस खेल की प्रशासनिक स्थिति समय-समय पर बदल सकती है; वर्तमान स्थिति की पुष्टि आधिकारिक स्रोतों से करें।"
 lang: "hi"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: एक लाल साड़ी में एक महिला एक नीची लड़ाई-मुद्रा में झुकी हुई, एक हाथ में एक घुमावदार तलवार और दूसरे में एक गोल धातु की ढाल पकड़े हुए
+    kind: representative
+    origin: third-party
+    subject: सिलम्बम तलवार-और-ढाल (वाल और केडैयम) रूप, तमिल मार्शल कला का एक हथियार-रूपांतर
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: सिलम्बम के हथियारों से सजा एक दीवार पर लगा प्रदर्शन-बोर्ड, जिसमें लंबे डंडे, घुमावदार तलवारें, गोल ढालें और खंजर शामिल हैं
+    kind: representative
+    origin: third-party
+    subject: सिलम्बम हथियारों का प्रदर्शन-बोर्ड, जिसमें डंडे, तलवारें, ढालें और खंजर शामिल हैं
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
 ---
 
 मलेशिया के किसी मंदिर उत्सव या [तमिल नववर्ष](/hi/arts-culture/tamil-new-year) के आयोजन में आप देख सकते हैं कि एक युवक ढोल की ताल पर, बिजली-सी तेज़ी से एक लंबी बाँस की छड़ी को अपने सिर के ऊपर और शरीर के चारों ओर घुमा रहा है। वह घुमाव केवल सुंदरता के लिए नहीं है — वह सिलम्बम का प्रतीक है, एक ऐसी तमिल युद्धकला जो डेढ़ हज़ार वर्षों से भी अधिक पुरानी है।

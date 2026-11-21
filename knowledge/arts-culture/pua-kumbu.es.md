@@ -34,7 +34,7 @@ faq:
     a: "Se usa en los ritos de paso de la vida, del nacimiento a la muerte, en ceremonias sagradas y rituales de sanación, y está tradicionalmente ligado a la tradición guerrera iban. Sus motivos también se tejen en los sarongs de las mujeres, los taparrabos de los hombres y las túnicas de los chamanes."
 
 lang: "es"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: Una figura a tamaño real de una tejedora iban de cabello largo reclinada contra un telar de cintura, trabajando un pua kumbu de ikat rojo óxido y crema cuyos hilos de urdimbre se abren en abanico hacia el espectador
+    kind: actual
+    origin: third-party
+    subject: una exposición museística de una mujer iban tejiendo un pua kumbu de color óxido en un telar de cintura, Museo Textil de Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 Una tela cuya tejedora no se atreve a crearla sin una «bendición»: se dice que sus motivos llegan en sueños, y en otro tiempo estuvo estrechamente ligada a la tradición guerrera del pueblo que la hacía. Eso es el pua kumbu.

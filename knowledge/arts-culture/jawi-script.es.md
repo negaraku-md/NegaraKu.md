@@ -34,7 +34,7 @@ seoTitle: "La escritura jawi: historia, sistema y su situación actual"
 socialTitle: "El alfabeto árabe que ha escrito el malayo durante siete siglos — la historia de la escritura jawi"
 
 lang: "es"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_M
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: Dos páginas enfrentadas de un manuscrito de texto jawi enmarcadas por una ornamentada iluminación floral dorada, azul y roja
+    kind: actual
+    origin: third-party
+    subject: Páginas iniciales iluminadas de la obra literaria malaya Taj al-Salatin, escrita a mano en jawi
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: Un envejecido libro manuscrito abierto en una vitrina, con sus páginas enfrentadas cubiertas de fluida escritura jawi hecha a mano
+    kind: actual
+    origin: third-party
+    subject: Manuscrito abierto del Hukum Kanun Melaka (compendio legal de Malaca) escrito en jawi, en exhibición museística
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 En una inscripción en piedra hallada en Terengganu, hay palabras malayas grabadas — no en las letras que usamos hoy, sino en una escritura árabe adaptada a los sonidos del malayo. La inscripción, la Piedra Inscrita de Terengganu (Batu Bersurat Terengganu), lleva la fecha de 702 de la Hégira, comúnmente equiparada con el año 1303 d. C.

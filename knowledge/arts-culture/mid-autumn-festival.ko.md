@@ -33,7 +33,7 @@ faq:
     a: "이는 중추절에서 가장 널리 전해지는 달 전설 중 하나입니다. 활의 명수 후예가 불로불사의 영약을 얻었는데, 그의 아내 항아가 특정한 상황에서 그 영약을 삼키자 몸이 가벼워져 떠올라 달에 살게 되었고, 그 뒤로 인간 세상과 떨어지게 되었다고 전해집니다. 이야기는 여러 판본과 서로 다른 세부가 있으며, 일반적으로 '중추에 달을 감상하고, 달에 사람이 산다'는 것을 설명하는 민간 전설로 여겨질 뿐 사실(史實)은 아닙니다. 이 글은 이를 간략히 소개하는 데 그칩니다."
 
 lang: "ko"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: 옥토끼와 꽃 무늬를 눌러 찍어 황금빛으로 구워낸 월병들이 구멍 뚫린 금속 쟁반 위에 식도록 줄지어 놓여 있고, 반들거리는 반죽 윗면이 빛을 받는 모습
+    kind: representative
+    origin: third-party
+    subject: 중추절의 대표 음식인, 갓 구운 옥토끼 월병
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: 흰 별과 토끼 실루엣이 인쇄된 둥근 붉은색 주름(아코디언식) 종이등이 초록 잎과 분홍 꽃 앞에 걸려 있는, 중추절에 아이들이 들고 다니는 전형적인 접이식 종이등
+    kind: representative
+    origin: third-party
+    subject: 중추절에 아이들이 들고 다니는 전통적인 붉은 주름식 종이등
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 음력 8월 15일 밤이 되면 쇼핑몰의 아트리움에는 붉게 빛나는 등롱이 가득 내걸리고, 주택가 공원에서는 아이들이 두셋씩 불을 밝힌 등롱을 들고 거닙니다. 집 식탁에는 작게 자른 월병 한 상자와 뜨거운 차 한 주전자, 그 옆에 껍질을 벗긴 포멜로 하나가 놓여 있습니다. 가족은 의자를 집 밖으로 옮겨 놓고 한 해 중 가장 둥근 달을 올려다봅니다 — 이것이 말레이시아 화인 가정의 전형적인 중추절 밤입니다.

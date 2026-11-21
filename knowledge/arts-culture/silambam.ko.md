@@ -29,7 +29,7 @@ faq:
   - q: "실람밤은 말레이시아에서 스포츠로 인정받고 있습니까?"
     a: "실람밤은 말레이시아에서 무술로서도, 경기 스포츠로서도 행해지며, 국내 대회, 국제 선수권, 일부 연도의 말레이시아 체전(SUKMA) 참가가 모두 이루어져 왔습니다. 다만 협회와 이 종목의 행정상 지위는 때에 따라 바뀔 수 있으니, 현재 상황은 공식 자료로 확인하시기 바랍니다."
 lang: "ko"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: 붉은 사리를 입은 여성이 한 손에 휜 검을, 다른 손에 둥근 금속 방패를 들고 낮은 싸움 자세로 내딛는 모습
+    kind: representative
+    origin: third-party
+    subject: 타밀 무술의 무기 변형인, 실람밤의 검과 방패(발과 크다이얌) 형
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: 긴 봉, 휜 검, 둥근 방패, 단검 등 실람밤의 무기를 배열해 벽에 건 전시판
+    kind: representative
+    origin: third-party
+    subject: 봉, 검, 방패, 단검 등을 포함한 실람밤 무기 전시판
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
 ---
 
 말레이시아의 사원 축제나 [타밀 설날](/ko/arts-culture/tamil-new-year) 행사에서, 한 젊은이가 북 장단에 맞추어 긴 대나무 봉을 머리 위와 몸 둘레로 번개처럼 빠르게 돌리는 모습을 볼 수 있다. 그 회전은 단지 보기 좋으라고 하는 것이 아니다 — 그것은 천오백 년이 넘는 역사를 지닌 타밀 무술, 실람밤의 상징이다.

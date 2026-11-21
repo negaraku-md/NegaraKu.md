@@ -30,7 +30,7 @@ faq:
     a: "பெரும்பாலும் கிராமப்புற பொழுதுபோக்காக அல்லாமல், பண்பாட்டு விழாக்கள், அருங்காட்சியக மற்றும் மரபுரிமை நிகழ்ச்சிகள், மற்றும் சுற்றுலா நிகழ்ச்சிகளில். திட்டமிடப்பட்ட நிகழ்ச்சிகளைக் கண்டறிய தேசிய பண்பாடு மற்றும் கலைத் துறை (National Department for Culture and Arts, JKKN) மற்றும் மாநில பண்பாட்டு அமைப்புகள் நடைமுறை தொடக்கப் புள்ளியாகும்."
 
 lang: "ta"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: மெல்லிய மூங்கில் கம்பியில் பொருத்தப்பட்ட, ஆரஞ்சு, பச்சை மற்றும் ஊதா நிறங்களில் அலங்காரமாகச் செதுக்கப்பட்டு பிரகாசமாக வர்ணம் பூசப்பட்ட தோல் வயாங் குளித் பொம்மையின் அண்மைக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கெலந்தான் மாநில அருங்காட்சியகத்தில், கட்டுப்பாட்டுக் கம்பியில் உள்ள கண்கவர் வண்ண கெலந்தான் வயாங் குளித் தோல் பொம்மையின் அண்மைக் காட்சி
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: பின்னப்பட்ட மூங்கில் குடிசைக் காட்சியமைப்புக்குள், பாரம்பரிய மேளங்களுக்கும் தகவல் பலகைக்கும் முன்னால் நிற்கும் இரண்டு வண்ணமயமான தோல் நிழல் பொம்மைகள்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கெலந்தான் மாநில அருங்காட்சியகத்தில், விளக்கப் பலகையுடன் கூடிய வைக்கோல் குடிசை அமைப்பில் காட்சிப்படுத்தப்பட்ட கெலந்தான் வயாங் குளித் பொம்மைகளும் கமலன் மேளங்களும்
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 முதலில் விளக்கு ஏற்றப்படுகிறது. மரச் சட்டத்தில் இறுக்கமாக இழுத்துக் கட்டப்பட்ட ஒரு வெள்ளைப் பருத்தித் திரைக்குப் பின்னால், ஒரு மனிதர் சம்மணமிட்டு அமர்ந்திருக்கிறார்; அவருக்கு இருபுறமும் கை எட்டும் தூரத்தில் தட்டையான தோல் பொம்மைகளின் அடுக்கு, அவருக்குப் பின்னால் மேளங்கள், கொங்குகள் (gong) மற்றும் கூர்மையான ஒலி கொண்ட ஓர் இரட்டை நாணல் serunai கொண்ட ஒரு சிறிய இசைக்குழு காத்திருக்கிறது. இரவு முழுவதும் அவர் அந்த இடத்தை விட்டு அகல மாட்டார். இன்னும் சில மணிநேரங்களில், கடைசி நிழல் திரையைக் கடக்கும் நேரத்திற்குள், அவர் அரசர்கள், அரக்கர்கள், கோமாளிகள் மற்றும் இளவரசிகளுக்குக் குரல் கொடுத்திருப்பார், காட்சிகளுக்கு இடையிலான மாற்றங்களைக் கதையாகச் சொல்லியிருப்பார், மேலும் ஒவ்வொரு இசைக்கலைஞருக்கும் அறிகுறி கொடுத்திருப்பார் — தனியாக.

@@ -31,7 +31,7 @@ faq:
     a: "Pemilik dapat terus memiliki harta itu (Seksyen 69), tetapi peralihan kepemilikan Warisan Kebangsaan hanya dapat terjadi melalui pewarisan atau penjualan dengan persetujuan awal Komisaris, dan Komisaris harus diberi prioritas untuk membeli (Seksyen 70)."
 
 lang: "id"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: Reruntuhan bata laterit yang lapuk dari gerbang Porta de Santiago benteng A Famosa di Melaka, lengkungannya yang rapuh dimahkotai sebuah relief ukiran, dengan meriam perunggu tua terpasang di atas alas bata di depannya dan pepohonan tropis dengan latar langit biru
+    kind: actual
+    origin: third-party
+    subject: gerbang Porta de Santiago benteng Portugis A Famosa di Melaka, sebuah monumen Warisan Kebangsaan yang telah diwartakan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: Fasad bata kemerahan Kellie's Castle di Batu Gajah, Perak, sederet koloni berlengkung dan tiang-tiang ramping di dua lantai yang membuka ke halaman berlantai bata, dengan dinding yang sebagian runtuh dan tanaman tropis di bawah langit berawan cerah
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, mansion awal abad ke-20 yang belum selesai di Batu Gajah, Perak, sebuah situs warisan yang dilindungi
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Sebuah ruko berusia seabad di George Town, sebilah keris, sebuah tarian istana, dan seorang pembuat [songket](/id/arts-culture/songket) yang masih hidup — keempatnya dapat menyandang gelar hukum yang sama di Malaysia: *Warisan Kebangsaan*. Yang mengikat mereka bukan daftar UNESCO, melainkan sebuah daftar domestik yang jarang disebut namanya: **Daftar Warisan Kebangsaan**.

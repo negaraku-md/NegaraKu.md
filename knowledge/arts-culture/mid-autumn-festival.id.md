@@ -33,7 +33,7 @@ faq:
     a: "Ini adalah salah satu legenda bulan Pertengahan Musim Gugur yang paling luas tersebar: konon Hou Yi memperoleh ramuan hidup abadi, dan istrinya, Chang'e, dalam keadaan tertentu menelan ramuan sakti itu lalu tubuhnya menjadi ringan dan melayang naik untuk menetap di bulan, terpisah dari dunia manusia sejak saat itu. Cerita ini memiliki banyak versi dengan detail yang berbeda-beda, dan umumnya dipandang sebagai legenda rakyat yang menjelaskan 'menatap bulan saat Pertengahan Musim Gugur dan adanya penghuni di bulan', bukan fakta sejarah; artikel ini hanya menuturkannya secara ringkas."
 
 lang: "id"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Deretan kue bulan panggang berwarna cokelat keemasan bermotif kelinci giok dan bunga, diletakkan untuk mendingin di atas nampan logam berlubang, permukaan kulitnya yang mengilap memantulkan cahaya
+    kind: representative
+    origin: third-party
+    subject: kue bulan motif kelinci giok yang baru dipanggang, hidangan khas Festival Pertengahan Musim Gugur
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: Lampion kertas lipat berbentuk akordion berwarna merah bulat bermotif bintang putih dan siluet kelinci, tergantung di depan dedaunan hijau dan bunga merah muda, lampion kertas lipat klasik yang dibawa anak-anak sewaktu Pertengahan Musim Gugur
+    kind: representative
+    origin: third-party
+    subject: lampion kertas lipat merah tradisional sejenis yang dibawa anak-anak sewaktu Festival Pertengahan Musim Gugur
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 Menjelang malam hari kelima belas bulan kedelapan kalender lunar, atrium pusat perbelanjaan dihiasi lampion merah menyala, dan di taman kawasan permukiman, anak-anak berdua-dua bertiga berjalan ke sana kemari membawa lampion yang menyala. Di meja makan rumah, sekotak kue bulan yang dipotong kecil-kecil ditemani seteko teh panas, dengan sebuah jeruk bali yang sudah dikupas di sampingnya. Satu keluarga membawa kursi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Gugur yang khas di keluarga Tionghoa Malaysia.

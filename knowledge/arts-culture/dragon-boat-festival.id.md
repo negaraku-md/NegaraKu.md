@@ -33,7 +33,7 @@ faq:
     a: "Lomba perahu naga internasional Penang memiliki sejarah paling panjang, diadakan bertahun-tahun di Bendungan Teluk Bahang, menarik tim dari banyak negara dan kawasan; Putrajaya, Malaka, dan tempat lain juga pernah menggelar acara perahu naga besar. Lomba semacam ini sebagian besar didukung oleh pemerintah negara bagian atau lembaga terkait, berperan sekaligus sebagai olahraga kompetitif dan promosi pariwisata. Tanggal dan lokasi pastinya berbeda setiap tahun dan tunduk pada pengumuman penyelenggara."
 
 lang: "id"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: Deretan pendayung bertopi merah dan berbaju putih menancapkan dayung mereka ke air saat dua perahu naga berkanopi berlomba di sepanjang kanal yang disaksikan kerumunan orang
+    kind: representative
+    origin: third-party
+    subject: Tim-tim berlomba dengan perahu naga berhias, dayung mengaduk air, sewaktu regata Festival Perahu Naga
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: Bakcang dari beras ketan yang dibungkus daun bambu, dibuka untuk memperlihatkan isian gurih berupa perut babi masak kecap, kastanya dan kuning telur asin, di samping sebuah bakcang yang masih terikat
+    kind: representative
+    origin: third-party
+    subject: Bakcang (zongzi) dari beras ketan yang terbuka memperlihatkan daging babi, kastanya dan kuning telur asin, di samping satu yang masih terbungkus daun bambu
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 Menjelang hari kelima bulan kelima kalender lunar, aroma daun pembungkus dan ketan mulai menyebar di dapur keluarga Tionghoa. Para ibu rumah tangga menyusun ketan yang telah direndam dan isian yang ditumis harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, lalu mengikatnya kencang dengan tali rumput, dan menurunkan untaian demi untaian ke dalam panci untuk direbus lama. Pada saat yang sama, di Bendungan Teluk Bahang di ujung barat laut Pulau Penang, perahu-perahu naga yang ramping membelah permukaan air; seorang penabuh gendang berdiri di haluan menabuh irama, dan puluhan pendayung mendayung serentak mengikuti irama — inilah dua wajah Festival Perahu Naga di Malaysia: di satu sisi harumnya bakcang di dapur, di sisi lain lomba di atas air.

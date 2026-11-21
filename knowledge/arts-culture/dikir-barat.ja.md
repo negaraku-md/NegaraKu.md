@@ -20,7 +20,7 @@ appliesTo: "ディキール・バラットの演出形式、トゥカン・カ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: 緑と金の衣装と背の高い頭飾りを身につけたディキル・バラットの演者の列が座り、夜の公演で一斉に手を打ち鳴らして微笑む様子。前の地面にはルバナの手太鼓が置かれている
+    kind: representative
+    origin: third-party
+    subject: 一斉に手を打ち鳴らして座るディキル・バラットの演者の列（アウォッアウォッ）（マレーの共有の伝統、シンガポールのチンゲイ）
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: 女性のリード歌手がマイクに向かって歌い、赤いヘッドバンドをつけた黒い衣装の生徒の演者の列が座って一斉に手を打ち鳴らす様子。ルバナの太鼓とゴングがあり、マレーシアの学校の講堂で演じられている
+    kind: actual
+    origin: third-party
+    subject: マレーシアの、リード歌手、手拍子のアウォッアウォッの合唱団、打楽器を備えた学校のディキル・バラットのグループ
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 二つのグループが舞台の上で向かい合い、あぐらをかいて座る。台本はない。最初のグループが物価上昇を皮肉った[パントゥン](/ja/arts-culture/pantun)を歌い終えると、二番目のグループには返歌を作る時間がほんの数秒しか与えられない――しかも韻を踏み、拍に合わせ、できれば元の句よりも鋭くなければならない。

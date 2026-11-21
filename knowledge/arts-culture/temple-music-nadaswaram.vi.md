@@ -32,7 +32,7 @@ faq:
   - q: Âm nhạc này được duy trì ở Malaysia như thế nào?
     a: "Các nhạc công đền thờ, các ban nadaswaram–thavil, và vô số ban urumi melam tiếp nối truyền thống này. Người trẻ bắt đầu học từ khi còn nhỏ; nhiều ban dùng thu nhập cho đồng phục, nhạc cụ và bữa ăn của cả nhóm, hoạt động như một dịch vụ phi lợi nhuận. Ngày nay truyền thống này còn vang lên bên ngoài đền thờ, tại các lễ hội và tiệc đón tiếp."
 lang: "vi"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: Tại một ngôi đền Hindu, một người đàn ông ngồi thổi một ống kèn hơi nadaswaram dài trong khi người thứ hai đánh một chiếc trống thùng thavil nằm ngang
+    kind: representative
+    origin: third-party
+    subject: Các nhạc công nadaswaram và thavil biểu diễn tại đền Hindu Sri Mariamman, Singapore
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: Một thanh niên cầm một nhạc cụ hơi nadaswaram với loa kèn loe ra bên cạnh một người đàn ông khác ôm một chiếc trống thùng thavil tròn buộc dây vàng
+    kind: representative
+    origin: third-party
+    subject: Nhạc công nadaswaram đi cùng nhạc công trống thùng thavil, bộ đôi nhạc đền chùa Nam Ấn tiêu chuẩn
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 Ở hàng đầu của một đoàn rước Thaipusam, vào khoảnh khắc một chiếc xe kiệu đền thờ bắt đầu lăn bánh, hay ngay cửa vào một sảnh cưới — trong bất kỳ dịp lễ Hindu Tamil nào ở Malaysia, điều đầu tiên hòa vào không khí luôn là một âm thanh nhất định: giai điệu dài của nadaswaram và tiếng rền của thavil. Âm thanh đó không phải ngẫu nhiên — nó là dấu ấn của truyền thống **mangala vadyam** (nhạc cụ cát tường) đã đồng hành cùng cộng đồng này suốt hơn một thế kỷ.

@@ -33,7 +33,7 @@ faq:
     a: "必ずしもそうではありません。まず湯圓を祖先や神に供えてから家族そろって食べる家庭もあれば、冬至を単に湯圓を食べて団らんする日としてとらえ、祭祀を行わない家庭も多くあります。祖先祭祀や神へのお参りといった習わしは、各家庭の信仰や習慣によって異なります。本記事は習わしそのものを描写するものであり、いかなる宗教的信念についても評価を下すものではありません。"
 
 lang: "ja"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_y
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: 澄んだ甘いスープの中に浮かぶ、白・藤色・翡翠色の艶やかで半透明のもち米団子が入った椀をクローズアップで捉えた様子
+    kind: representative
+    origin: third-party
+    subject: シロップの椀に浮かぶ、白・紫・緑の透明な水晶皮の湯円のクローズアップ
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: 青い縁の椀に入った澄んだ熱いシロップの中に、ふっくらとした紫色の湯円のもち米団子が4つ入った様子を真上から見た画像。湯気が立ち上っている
+    kind: representative
+    origin: third-party
+    subject: 熱いシロップに入った紫色のもち米団子の椀を真上から見た様子。湯気が立ち上っている
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 12月下旬のある夕方、台所にはもち米粉の香りと生姜湯の甘い匂いが混じり合う。家族がテーブルを囲み、小さなもち米の塊を一つひとつ団子にこねていく——白いもの、淡いピンクや薄緑に色づけしたもの。子どもの手の中の団子は大きさがまちまちで、大人はこねながら言う。湯圓を食べれば、また一つ年をとるのだ、と。この日が冬至である。

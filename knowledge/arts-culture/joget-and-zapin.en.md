@@ -22,7 +22,7 @@ appliesTo: "Anyone who wants to understand the differences in origin, music and 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: A cluster of Malay dancers in vivid pink, green and gold sarong costumes raise their arms and twist their wrists in a lively joget, the men in matching tops and the women with flowers in their hair, at an open-air event in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Group of Malay folk dancers performing a lively joget-style dance in Kuala Lumpur, Malaysia
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: Dozens of Malay dancers in baju kurung, sarong and songkok caps raise both hands overhead in unison during an open-air mass zapin, filling a street in front of a wooden pavilion on an overcast day.
+    kind: representative
+    origin: third-party
+    subject: Mass zapin (jepin) dance by Malay performers in traditional dress at a city festival in Pontianak, Indonesia
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 Two dancers move quickly to the beat of the gendang — feet stamping, hands dancing gently. Many who watch simply call it "Malay dance" without distinguishing which is Joget and which is Zapin. Ask where each one comes from, and the answer takes us to two corners of the world: one from the deck of a Portuguese trading ship in Melaka, the other from a caravan of Arab preachers out of Hadhramaut.

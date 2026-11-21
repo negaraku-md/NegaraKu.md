@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrio
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Iban and Orang Ulu performers in elaborate silver headdresses, beadwork and feather crowns during the Gawai Dayak parade in Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Dayak performers in full regalia at the Gawai Dayak parade in Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: The long wooden communal gallery (ruai) inside an Iban longhouse in Sarawak, where Gawai Dayak is celebrated
+    kind: actual
+    origin: third-party
+    subject: The communal gallery of an Iban longhouse in Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 The clock has not yet struck midnight on the last day of May, and in a longhouse somewhere along a Sarawak river the gong is waiting. The rice is in. The gallery has been swept and hung with fresh mats. A jar of tuak sits ready. When the gong finally sounds, the longhouse chief will raise a cup, and everyone down the long communal veranda will drink to the same three words: long life, health, prosperity.

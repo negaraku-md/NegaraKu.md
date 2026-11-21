@@ -35,7 +35,7 @@ faq:
     a: "Keduanya perayaan terpisah dengan tema yang sama. Gawai Dayak adalah perayaan panen suku Dayak di Sarawak, dirayakan pada 1 dan 2 Juni. Kaamatan adalah perayaan panen suku Kadazandusun di Sabah, dirayakan pada 30 dan 31 Mei. Keduanya bersyukur atas hasil panen padi, tetapi suku, ritual, dan tanggalnya berbeda."
 
 lang: "id"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrio
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Para penari Iban dan Orang Ulu mengenakan hiasan kepala perak yang rumit, manik-manik dan mahkota bulu sewaktu pawai Gawai Dayak di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Para penari Dayak berpakaian lengkap pada pawai Gawai Dayak di Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: Galeri bersama (ruai) dari kayu yang panjang di dalam rumah panjang Iban di Sarawak, tempat Gawai Dayak dirayakan
+    kind: actual
+    origin: third-party
+    subject: Galeri bersama pada rumah panjang Iban di Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 Jam belum berdentang tengah malam pada hari terakhir bulan Mei, dan di sebuah rumah panjang di suatu tempat di tepi sungai Sarawak, gong sudah menanti. Padi sudah aman dipanen. Ruai sudah disapu bersih dan digantungi tikar baru. Sebuah tempayan tuak sudah tersedia. Ketika gong akhirnya dipukul, ketua rumah panjang akan mengangkat cangkir, dan semua orang di sepanjang ruai bersama-sama akan minum untuk tiga kata yang sama: umur panjang, kesehatan, kesejahteraan.

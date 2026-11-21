@@ -34,7 +34,7 @@ faq:
     a: "방사완은 라디오, 영화, 텔레비전과의 경쟁으로 20세기 중반에 쇠퇴했습니다. 1930년대 말에 이르러 많은 방사완 극장이 영화관으로 바뀌었고, 전쟁 이후 이 산업은 자금원을 잃었습니다."
 
 lang: "ko"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: 말라카의 팡궁 방사완 극장 외관으로, 맑은 파란 하늘 아래 'Panggung Bangsawan Melaka'라는 붉은 간판이 달린 크림색과 갈색의 현대식 정면
+    kind: actual
+    origin: third-party
+    subject: 말라카시의 방사완 전용 극장 팡궁 방사완
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: 흐린 하늘 아래 높은 세로형 붉은 'Panggung' 간판, 야자수, 뒤쪽 도시 건물들이 보이는 말라카 팡궁 방사완 극장의 길모퉁이 전경
+    kind: actual
+    origin: third-party
+    subject: 말라카의 방사완 전용 극장 팡궁 방사완의 거리 전경
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 영화가 있기 전에, 조명을 밝힌 무대와 손으로 그린 막, 그리고 같은 하룻밤 공연에서 말레이 궁정의 유려한 노래로부터 중동의 박자로 넘나들 수 있는 관현악이 있었습니다. 그것이 방사완입니다 — 한때 반도에서 가장 흥성했던 도시 오락이었던 무대 오페라이자, 이후 그 배우와 가수를 갓 태어난 말레이 영화 산업에 넘겨준 것입니다.

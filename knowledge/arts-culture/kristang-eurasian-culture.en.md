@@ -32,7 +32,7 @@ faq:
     a: "Intrudu is an annual water festival of the Portuguese community of Melaka held on the Sunday before Ash Wednesday (the start of the Lenten season). Residents and visitors splash water on one another throughout the Portuguese Settlement, and the celebration is accompanied by the branyo dance."
 
 lang: "en"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Mela
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: The white colonial-style entrance archway of Medan Portugis or Portuguese Square at the Portuguese Settlement in Melaka, flanked by pink and signboarded Kristang restaurants, under a clear blue sky with a modern high-rise in the background
+    kind: actual
+    origin: third-party
+    subject: the Medan Portugis (Portuguese Square) entrance at the Portuguese Settlement in Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: A model fishing boat decorated for the Feast of Saint Peter in the Portuguese Settlement in Melaka, its tall white sails painted with religious scenes and an image of Saint Peter, draped with fishing nets beside the waterfront, with palm trees and onlookers behind
+    kind: actual
+    origin: third-party
+    subject: a decorated fishing boat built for the Feast of Saint Peter (San Pedro) in the Portuguese Settlement, Melaka
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 In Ujong Pasir, Melaka, there is a seaside settlement where people greet one another in a language that is neither Malay, nor English, nor even modern Portuguese — but rather the living remnant of the tongue of the conquerors who arrived five centuries ago. This is the world of the Kristang community.

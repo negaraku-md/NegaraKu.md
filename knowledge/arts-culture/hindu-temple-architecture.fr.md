@@ -32,7 +32,7 @@ faq:
   - q: "Tous les temples hindous de Malaisie sont-ils des temples de Murugan ou de Mariamman ?"
     a: "Bien que la majorité des temples soient dédiés à Shiva, à Murugan (shivaïsme) ou à Amman/Mariamman (culte de Shakti), ce ne sont pas les seuls. Il existe aussi en Malaisie des temples vishnouites dédiés à Vishnou, des temples des traditions malayali et du nord de l'Inde, et des gurdwaras sikhs. Les détails architecturaux diffèrent aussi quelque peu selon la tradition de culte."
 lang: "fr"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: La façade colorée d'un temple hindou de l'Inde du Sud avec une tour sculptée au-dessus de l'entrée, flanquée de grandes statues peintes de Ganesh et d'une divinité sous des baldaquins dorés, ornée de guirlandes de fanions triangulaires de fête sur un ciel bleu dégagé
+    kind: actual
+    origin: third-party
+    subject: la façade du temple Sri Mahamariamman à George Town, Penang, avec son gopuram sculpté et son entrée flanquée de grandes statues de Ganesh et de Murugan
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: Un sanctuaire de temple hindou orné et coloré surmonté de divinités sculptées, dressé à l'intérieur d'une vaste caverne calcaire, ses parois rocheuses abruptes garnies de plantes vertes retombantes et éclairées par la lumière du jour venant d'en haut
+    kind: actual
+    origin: third-party
+    subject: une tour-sanctuaire hindoue ornée et colorée à l'intérieur du temple des grottes calcaires de Batu, près de Kuala Lumpur, sur fond des hautes parois de la grotte tapissées de verdure
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 Lorsqu'on s'approche de n'importe quel quartier d'une ville malaisienne où une communauté tamoule a pris racine, une tour couverte de sculptures s'élançant vers le ciel attire l'œil de loin. Cette tour-porche, avec ses étages de figures de divinités colorées, n'est pas le fruit du hasard — c'est la continuation d'une tradition architecturale millénaire ; la marque d'un héritage culturel que les personnes d'ascendance tamoule du sud de l'Inde ont apporté avec elles en Malaisie.

@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: 邱公司（Khoo Kongsi）宗祠在黄昏时为农历新年亮灯，挂满红灯笼、亮起发光灯框，前庭聚集着人群
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市邱公司（Khoo Kongsi）宗祠为2024年农历新年亮灯、挂满红灯笼
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: 仰视邱公司宗祠的天花板，可见赤陶瓦椽、彩绘横梁和贴满金箔的雕花斗拱
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市邱公司宗祠彩绘贴金的木造天花板
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 走进槟城乔治市的康华丽堡一带，在一片店屋之间会突然出现一座飞檐翘角、雕梁画栋的宗祠——那是龙山堂邱公司。再往海边走，木桩撑起一排排伸入水面的木屋村落，各以一个姓氏命名：姓周桥、姓林桥、姓陈桥。这些建筑不是庙，也不只是住宅，而是华人移民社会最古老的一种组织留下的实体——会馆与宗亲会。

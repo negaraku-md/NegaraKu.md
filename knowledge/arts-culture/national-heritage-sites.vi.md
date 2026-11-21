@@ -31,7 +31,7 @@ faq:
     a: "Chủ sở hữu có thể tiếp tục sở hữu tài sản đó (điều 69), nhưng việc chuyển quyền sở hữu Di sản Quốc gia chỉ có thể diễn ra qua thừa kế hoặc bán với sự chấp thuận trước của Ủy viên, và Ủy viên phải được ưu tiên mua (điều 70)."
 
 lang: "vi"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: Tàn tích gạch đá ong phong hóa của cổng Porta de Santiago thuộc pháo đài A Famosa ở Melaka, vòm cổng đổ nát trên đỉnh có một phù điêu chạm khắc, với một khẩu đại bác đồng cũ đặt trên bệ gạch phía trước và cây nhiệt đới trên nền trời xanh
+    kind: actual
+    origin: third-party
+    subject: cổng Porta de Santiago của pháo đài Bồ Đào Nha A Famosa ở Melaka, một công trình Di sản Quốc gia được xếp hạng
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: Mặt tiền gạch hồng của Lâu đài Kellie ở Batu Gajah, Perak, một dãy hành lang cột vòm và những cột mảnh trên hai tầng mở ra một sân lát gạch, với những bức tường đổ nát một phần và cây xanh nhiệt đới dưới bầu trời sáng nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Lâu đài Kellie, dinh thự dang dở đầu thế kỷ 20 ở Batu Gajah, Perak, một di sản được bảo vệ
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Một dãy nhà phố trăm tuổi ở George Town, một thanh keris, một điệu múa cung đình, và một người thợ làm [songket](/vi/arts-culture/songket) vẫn còn sống — cả bốn đều có thể mang cùng một danh hiệu pháp lý ở Malaysia: *Di sản Quốc gia*. Cái ràng buộc họ không phải danh sách UNESCO, mà là một danh mục trong nước hiếm khi được gọi tên: **Danh mục Di sản Quốc gia**.

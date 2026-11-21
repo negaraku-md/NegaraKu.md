@@ -22,7 +22,7 @@ appliesTo: "ジョゲットとザピンを、それぞれ独立した二つの�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -72,6 +72,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: クアラルンプールの野外イベントで、鮮やかなピンク・緑・金のサロン衣装を着たマレーの踊り手の一団が、活気あるジョゲットで腕を上げ手首をひねる様子。男性は揃いの上衣を着て、女性は髪に花を飾っている。
+    kind: actual
+    origin: third-party
+    subject: マレーシア、クアラルンプールで活気あるジョゲット調の踊りを披露するマレーの民俗舞踊団
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: 曇りの日に、バジュ・クロン、サロン、ソンコッ帽を身につけた数十人のマレーの踊り手が、木造のあずまやの前の通りを埋め尽くしながら、野外の集団ザピンで一斉に両手を頭上に上げる様子。
+    kind: representative
+    origin: third-party
+    subject: インドネシア、ポンティアナックの市の祭りで伝統衣装を着たマレーの踊り手による集団ザピン（ジェピン）
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 二人の踊り手が gendang の拍子に合わせて素早く動く——足は力強く踏み鳴らし、手はやわらかく舞う。これを見る多くの人は、ジョゲット（Joget）とザピン（Zapin）を区別せず、ただ「マレー舞踊」と呼ぶ。それぞれがどこから来たのかを尋ねれば、答えは世界の二つの隅へと私たちを導く——一方はマラッカのポルトガル貿易船の甲板から、もう一方はハドラマウトから来たアラブ人布教師の隊商から。

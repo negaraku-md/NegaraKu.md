@@ -33,7 +33,7 @@ faq:
     a: "Membakar kertas emas-perak (wang kertas) dan patung kertas ialah cara lazim memuja leluhur, melambangkan 'penghantaran' wang dan barangan harian kepada nenek moyang untuk digunakan di dunia lain; selain wang kertas dan pakaian kertas, patung kertas moden juga termasuk rumah kertas dan kereta kertas. Kerana ia melibatkan api terbuka dan asap, sesetengah tanah perkuburan dan taman peringatan menetapkan kawasan pembakaran atau menggariskan peraturan, dan sejak kebelakangan ini sesetengah orang beralih kepada cara yang lebih mesra alam."
 
 lang: "ms"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: Meja persembahan di kubur yang dipenuhi ayam kukus utuh, ikan, daging babi panggang, mangkuk nasi putih dengan penyepit, cawan teh dan teko, dengan ikatan colok merah dicacak tegak dalam labu dan menyala di hadapan sebuah tempat pemujaan batu
+    kind: representative
+    origin: third-party
+    subject: hidangan persembahan makanan dan colok yang menyala disusun di hadapan kubur ketika hari mengemas kubur Qingming
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: Patung singa penjaga batu bersalut emas bertenggek di atas tiang kubur granit yang berukir aksara Cina berwarna emas, dengan latar busut kubur berumput dan sebatang pokok yang merimbun di bawah langit mendung di tanah perkuburan Cina Bukit Cina, Melaka
+    kind: actual
+    origin: third-party
+    subject: tiang kubur singa penjaga bersalut emas yang terukir nama keluarga Cina di Tanah Perkuburan Cina (Bukit Cina) di Melaka, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 Pada suatu pagi awal April, keluarga demi keluarga mula kelihatan di laluan tanah perkuburan. Ada yang menjinjing baldi dan sabit, ada yang membawa bakul penuh dengan hidangan masak, buah-buahan dan wang kertas. Setelah menemui kubur keluarga sendiri, yang muda mula membuang rumpai dan menyapu daun gugur manakala yang tua menunjukkan cara menyapu semula, satu demi satu, aksara yang telah pudar pada batu nisan; hanya setelah kubur bersih barulah pemujaan disusun, colok dinyalakan dan penghormatan diberi, dan akhirnya wang kertas dibakar di ruang lapang berdekatan. Dalam asap dan nyala api itu, Qingming setahun sekali pun berlalu begitu sahaja.

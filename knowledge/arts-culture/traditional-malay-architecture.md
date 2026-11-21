@@ -72,6 +72,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: Sebuah rumah kampung kayu berwarna perang gelap yang dibina di atas tiang kayu, dengan bumbung berkabung curam, cucur atap berukir berlekuk, dinding kayu berpanel dan tangga luar yang menuju ke anjung, dibingkai dedaunan hijau
+    kind: actual
+    origin: third-party
+    subject: sebuah rumah Melayu kayu tradisional bertiang dengan bumbung berkabung curam, papan cucur atap berukir dan anjung tinggi yang dicapai melalui tangga kayu
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: Sebuah istana Melayu kayu yang panjang dan tinggi dengan bumbung bergaya Minangkabau yang melentik tajam ke atas, dinding kayu gelap berpanel dengan tingkap berkisi, berdiri di atas tiang berukir di sebelah papan tanda bertulis Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: istana kayu Negeri Sembilan Istana Ampang Tinggi dengan bumbung berkabung tanduk kerbau Minangkabau yang melentik ke atas
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Angkat sebuah rumah kampung tua, leraikan sambungannya, dan pasang semula di tapak baharu — sebahagian besar tanpa asas konkrit yang tetap. Itulah kebijaksanaan seni bina Melayu tradisional: sebuah rumah yang "membaca" iklim tropika sebelum wujudnya penghawa dingin.

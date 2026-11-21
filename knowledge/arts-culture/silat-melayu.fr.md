@@ -37,7 +37,7 @@ faq:
     a: "L'UNESCO cite le Silat Harimau comme exemple d'un style qui imite les mouvements esthétiques du tigre dans l'art de l'attaque et de la défense personnelle. C'est l'un des nombreux styles nommés d'après un animal ou un élément de la nature."
 
 lang: "fr"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: Deux artistes martiaux malais pieds nus en tenue de silat noire et coiffure noire se faisant face dans des postures de combat basses sur un dallage gris, l'un tenant une lame courte, devant un mur de bâtiment vert sarcelle
+    kind: actual
+    origin: third-party
+    subject: deux pesilat en tenue de silat noire se faisant face en postures de combat lors d'un entraînement de Silat Gayong en Malaisie
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: Un artiste martial malais en tenue de silat noire bondissant dans un coup de pied haut que son partenaire accroupi bloque, tous deux pieds nus sur un dallage gris devant un mur vert sarcelle, en pleine action lors d'un assaut de silat
+    kind: actual
+    origin: third-party
+    subject: un pesilat portant un coup de pied sauté à un partenaire d'entraînement lors d'une séance de Silat Gayong en Malaisie
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 Un bon pesilat peut briser les os d'un adversaire — ou danser devant une mariée sans toucher personne. Les deux sont du silat. C'est là ce qu'il y a de plus difficile à saisir dans cet art : il n'est ni simplement une méthode de combat, ni simplement une danse cérémonielle. Il est les deux, dans le même corps, mû par les mêmes pas.

@@ -33,7 +33,7 @@ faq:
     a: "Đốt vàng mã (tiền giấy) và hình nhân giấy là cách cúng tổ tiên thường gặp, biểu trưng cho việc 'gửi' tiền bạc và vật dụng hằng ngày cho ông bà dùng ở thế giới bên kia; ngoài tiền giấy và áo giấy, hình nhân giấy hiện đại còn có nhà giấy và xe giấy. Vì có lửa và khói, một số nghĩa trang và hoa viên nghĩa trang quy định khu vực đốt hoặc đặt ra quy tắc, và những năm gần đây có người chuyển sang các cách thân thiện với môi trường hơn."
 
 lang: "vi"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: Một bàn cúng trước mộ bày gà hấp nguyên con, cá, thịt heo quay, những bát cơm trắng có cắm đũa, chén trà và ấm trà, cùng những bó nhang đỏ cắm thẳng đứng trong các quả bầu và cháy trước một ngôi miếu đá
+    kind: representative
+    origin: third-party
+    subject: mâm đồ cúng và nhang đang cháy bày trước một ngôi mộ trong dịp tảo mộ Thanh Minh
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: Một con sư tử đá mạ vàng canh giữ đặt trên đỉnh một trụ mộ đá granit khắc chữ Hán nhũ vàng, nổi bật trên nền một gò mộ phủ cỏ và một tán cây xòe rộng dưới bầu trời u ám tại nghĩa trang người Hoa Bukit Cina ở Melaka
+    kind: actual
+    origin: third-party
+    subject: một trụ mộ hình sư tử canh giữ mạ vàng khắc họ tên gia tộc người Hoa tại Nghĩa trang người Hoa (Bukit Cina) ở Melaka, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 Một buổi sáng sớm đầu tháng Tư, trên các lối đi trong nghĩa trang bắt đầu xuất hiện từng gia đình. Có người xách xô và liềm, có người xách giỏ đầy đồ ăn nấu chín, trái cây và tiền giấy. Tìm được phần mộ nhà mình, người trẻ bắt tay nhổ cỏ, quét lá, còn người lớn tuổi chỉ dẫn cách tô lại từng nét chữ phai mờ trên bia mộ; chỉ khi phần mộ đã sạch sẽ mới bày đồ cúng, thắp hương vái lạy, và cuối cùng đốt tiền giấy trên khoảng đất trống bên cạnh. Giữa khói và lửa, Thanh Minh một năm một lần cứ thế trôi qua.

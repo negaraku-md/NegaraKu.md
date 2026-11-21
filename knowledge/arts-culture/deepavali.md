@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: Rows of bright yellow decorative Deepavali lanterns hanging above a busy concourse of travellers at KL Sentral station in Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Hanging Deepavali lanterns and festive crowds at KL Sentral station
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: A giant, vividly coloured peacock kolam laid out in coloured powder across the polished floor of KL Sentral for Deepavali
+    kind: actual
+    origin: third-party
+    subject: Large peacock-themed floor kolam at KL Sentral for Deepavali
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 For one night, the lamp does the talking. Rows of small clay lamps are set out along doorways and window ledges, a floor pattern in coloured rice or powder is laid at the threshold, and a house that was dark an hour ago is outlined in flame. That is where the festival gets its name: *Deepavali* comes from the Sanskrit for "a row or series of lights."

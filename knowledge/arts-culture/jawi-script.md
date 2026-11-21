@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_M
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: Dua helaian manuskrip yang bertentangan berteks Jawi dibingkai iluminasi bunga emas, biru dan merah yang berhias
+    kind: actual
+    origin: third-party
+    subject: Helaian pembuka beriluminasi karya kesusasteraan Melayu Taj al-Salatin, ditulis tangan dalam Jawi
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: Sebuah buku manuskrip lama yang terbuka di dalam almari pameran, helaian bertentangannya dipenuhi tulisan tangan Jawi yang mengalir
+    kind: actual
+    origin: third-party
+    subject: Manuskrip terbuka Hukum Kanun Melaka yang ditulis dalam Jawi, dipamerkan di muzium
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Pada sebuah prasasti batu yang ditemukan di Terengganu, terpahat perkataan-perkataan Melayu — bukan dalam huruf yang kita gunakan hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi bahasa Melayu. Prasasti itu, Batu Bersurat Terengganu, membawa tarikh 702 Hijrah, yang lazimnya dipadankan dengan tahun 1303 Masihi.

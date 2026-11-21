@@ -32,7 +32,7 @@ faq:
   - q: "Hôn lễ có nhất thiết dùng sắc đỏ và ngày lành không? Có những điều kiêng kỵ nào?"
     a: "Sắc đỏ và chữ 'song hỷ' (囍) là màu sắc và biểu tượng vui mừng tiêu biểu nhất của hôn lễ người Hoa, thường thấy trên thiệp mời, lễ vật, giường cưới và trang trí; hôn lễ cũng thường chọn 'ngày lành'. Những điều thường để ý gồm ưa số chẵn cho tiền mừng và lễ vật, tránh những con số đồng âm không may, và phụ nữ mang thai hoặc người đang để tang đôi khi tránh một số giai đoạn. Tuy nhiên, giữ nghiêm hay lỏng đến đâu khác nhau tùy tín ngưỡng gia đình và nhóm phương ngữ, nhiều gia đình chỉ giữ một phần và làm giản tiện phần còn lại."
 lang: "vi"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: Một bộ ấm trà cưới người Hoa màu đỏ bóng trên một chiếc khay đỏ, một chiếc ấm trang trí chữ Hỷ song hỉ mạ vàng và năm chiếc chén trà đỏ nhỏ đồng bộ xếp xung quanh, dùng để cặp đôi dâng trà cho các bậc trưởng bối
+    kind: representative
+    origin: third-party
+    subject: một bộ ấm chén chữ Hỷ song hỉ màu đỏ pha vàng dùng trong lễ dâng trà đám cưới người Hoa
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: Một chiếc giỏ quà cưới bakul siah sơn mài đen cao nhiều tầng trang trí cầu kỳ với những hình người, hoa, chim và cá mạ vàng trên mỗi tầng, dùng để mang lễ vật ăn hỏi mang tính biểu tượng giữa hai gia đình, trưng bày trong một tủ kính bảo tàng
+    kind: representative
+    origin: third-party
+    subject: một chiếc bakul siah, giỏ sơn mài nhiều tầng dùng để mang lễ vật ăn hỏi giữa hai gia đình trong một đám cưới của người Hoa eo biển (Straits-Chinese)
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 Trời còn chưa sáng hẳn, một đoàn xe đã đỗ trước cửa nhà cô dâu. Chú rể ôm bó hoa, phía sau là mấy người "anh em", nhưng bị mấy cô "chị em" ló ra từ sau cánh cửa chặn lại: trước hết hãy trả lời câu hỏi, rồi hát một đoạn, ăn vài lát chanh thái mỏng dính, cuối cùng nhét vài bao lì xì qua khe cửa — vượt qua được ải "vượt cửa" (xung môn) này thì cửa mới mở, chú rể mới được gặp cô dâu trong bộ đồ đỏ rực. Một buổi sáng đầy trêu đùa và náo nhiệt như thế chính là khúc mở màn ngày cưới của nhiều hôn lễ người Hoa tại Malaysia.

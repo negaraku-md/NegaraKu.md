@@ -33,7 +33,7 @@ faq:
     a: "Các buổi trình diễn công cộng ở Kelantan bị hạn chế theo sắc lệnh kiểm soát giải trí của bang được thông qua năm 1998. Vào ngày 25 tháng 9 năm 2019, Phó Bộ trưởng Chấp chính (Timbalan Menteri Besar) Kelantan Datuk Mohd Amar Nik Abdullah tuyên bố rằng các buổi trình diễn được phép tùy thuộc vào các điều kiện tuân thủ sharia do chính quyền bang đặt ra, bao gồm không có yếu tố thờ cúng và bắt buộc che aurat, với sự giám sát liên tục của chính quyền bang và cơ quan tôn giáo của bang."
 
 lang: "vi"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: Hai bộ trang phục Mak Yong trên ma-nơ-canh sau lớp kính, một chiếc áo dài vàng với vương miện nạm ngọc và một chiếc áo dài màu nâu đỏ với khăn đội đầu sẫm màu, tại Bảo tàng Bang Kelantan
+    kind: actual
+    origin: third-party
+    subject: Trang phục Mak Yong với những chiếc vương miện cầu kỳ trưng bày tại Bảo tàng Bang Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: Bức ảnh lịch sử tông nâu đỏ chụp một vũ công Mak Yong đội vương miện đứng giữa những nhạc công nam ngồi cầm trống gendang và một chiếc đàn nhị rebab
+    kind: representative
+    origin: third-party
+    subject: Bức ảnh lịch sử chụp một diễn viên chính Mak Yong đội vương miện giữa những nhạc công ngồi với trống và đàn rebab
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 Âm thanh đầu tiên không đến từ diễn viên. Nó đến từ một mảnh gỗ hình quả lê với ba sợi dây — rebab — được kéo nhẹ bên rìa sân khấu gỗ mở. Khán giả ngồi ba phía. Mái là lá cọ. Và trước khi một câu thoại nào được cất lên, một công chúa đã cúi mình về phía nhạc cụ ấy trong một điệu múa mà chính cái tên đã nói lên tất cả: **Mengadap Rebab** (cúi chào cây rebab).

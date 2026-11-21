@@ -32,7 +32,7 @@ faq:
   - q: "क्या विवाह में लाल रंग और शुभ दिन का प्रयोग अनिवार्य है? कौन-सी वर्जनाएँ हैं?"
     a: "लाल रंग और 'दोहरी प्रसन्नता' (囍) अक्षर चीनी विवाह के सबसे प्रतिनिधि मंगल रंग और प्रतीक हैं, जो निमंत्रण-पत्र, उपहार, विवाह-शय्या और सजावट पर दिखते हैं; विवाह के लिए प्रायः 'शुभ दिन' भी चुना जाता है। जिन बातों का सामान्यतः ध्यान रखा जाता है उनमें नकदी और उपहारों के लिए सम संख्याओं को वरीयता देना, अशुभ ध्वनि वाली संख्याओं से बचना, तथा गर्भवती स्त्रियों या शोक-ग्रस्त व्यक्तियों का कुछ चरणों से दूर रहना शामिल है। किंतु इन्हें कितनी कठोरता से माना जाता है, यह परिवार की आस्था और बोली-समूह के अनुसार भिन्न होता है, और अनेक परिवार इनमें से कुछ ही रखते हैं और शेष को सरल कर देते हैं।"
 lang: "hi"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: एक लाल थाली पर एक चमकदार लाल चीनी विवाह चाय-सेट, एक चायदानी जो सुनहरे दोहरे-खुशी अक्षर से सजी है और उसके चारों ओर पाँच छोटे मेल खाते लाल चाय-प्याले, जिनका उपयोग दंपति अपने बड़ों को चाय पिलाने के लिए करते हैं
+    kind: representative
+    origin: third-party
+    subject: चीनी विवाह चाय-समारोह में उपयोग की जाने वाली एक लाल-और-सुनहरी दोहरी-खुशी चायदानी और प्याले
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: एक ऊँची स्तरीय काली लाख वाली बाकुल सियाह विवाह उपहार-टोकरी, जो हर स्तर पर सुनहरी आकृतियों, फूलों, पक्षियों और मछलियों से जटिल रूप से सजी है, जिसका उपयोग दोनों परिवारों के बीच प्रतीकात्मक सगाई-उपहार ले जाने के लिए किया जाता है, एक काँच के संग्रहालय-केस में प्रदर्शित
+    kind: representative
+    origin: third-party
+    subject: एक बाकुल सियाह, एक स्ट्रेट्स-चीनी विवाह में परिवारों के बीच सगाई-उपहार ले जाने के लिए उपयोग की जाने वाली स्तरीय लाख वाली टोकरी
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 पौ अभी पूरी तरह फटी भी नहीं कि गाड़ियों की एक कतार वधू के घर के सामने आ खड़ी होती है। वर हाथ में फूलों का गुच्छा थामे, पीछे कुछ 'भाई-बंधु' लिए खड़ा है, पर द्वार से झाँकती कुछ 'बहनें' उसे रोक लेती हैं: पहले प्रश्नों के उत्तर दो, फिर एक कड़ी गाओ, बहुत पतले कटे नींबू के कुछ टुकड़े खाओ, और अंत में द्वार की दरार से कुछ अंगपाव सरकाओ — इस 'द्वार-भेदन' (छ्वांग मन) की बाधा पार होने पर ही द्वार खुलता है, और वर लाल वस्त्रों में सजी वधू को देख पाता है। हँसी-ठिठोली और उल्लास से भरी ऐसी ही एक सुबह मलेशिया के अनेक चीनी विवाहों के उस दिन का आरंभ होती है।

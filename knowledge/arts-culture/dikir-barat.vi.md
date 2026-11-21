@@ -18,7 +18,7 @@ keyTakeaways:
   - "Loại hình nghệ thuật này gắn với truyền thống dikir từ miền nam Thái Lan, được điều chỉnh ở Kelantan với việc bổ sung thơ pantun và phương ngữ Kelantan"
 appliesTo: "Bất kỳ ai muốn hiểu hình thức trình diễn Dikir Barat, vai trò của Tukang Karut và Tok Juara, cùng cấu trúc của một nhóm."
 lang: "vi"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: Một hàng những người biểu diễn dikir barat ngồi trong trang phục màu xanh pha vàng và những chiếc mũ đội đầu cao vỗ tay đồng loạt và mỉm cười trong một buổi biểu diễn ban đêm, với những chiếc trống tay rebana đặt trên mặt đất trước mặt họ
+    kind: representative
+    origin: third-party
+    subject: Một hàng người biểu diễn dikir barat ngồi (awok-awok) vỗ tay đồng loạt (truyền thống Mã Lai chung, Chingay, Singapore)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: Một nữ ca sĩ chính hát vào micro trong khi một hàng học sinh biểu diễn mặc đồ đen đeo băng đầu đỏ ngồi vỗ tay đồng loạt, với một chiếc trống rebana và một chiếc cồng, trong một hội trường trường học Malaysia
+    kind: actual
+    origin: third-party
+    subject: Nhóm dikir barat trường học với một ca sĩ chính, dàn đồng ca vỗ tay awok-awok và bộ gõ, Malaysia
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 Hai nhóm ngồi xếp bằng đối diện nhau trên sân khấu. Không có kịch bản. Khi nhóm thứ nhất vừa đối đáp xong câu [pantun](/vi/arts-culture/pantun) châm biếm về chuyện giá cả leo thang, nhóm thứ hai chỉ có vài giây để soạn câu đáp — và câu ấy phải có vần, phải đúng nhịp, và nếu có thể, phải sắc bén hơn câu pantun gốc.

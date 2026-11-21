@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: 马来西亚中元节期间，一尊身披蓝袍的高大大士爷纸扎像耸立在供桌之上，桌上摆着燃烧的香、水果和香炉
+    kind: actual
+    origin: third-party
+    subject: 吉打亚罗士打斗母宫一尊高大的大士爷护法神像，矗立在供桌之上
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: 草地上摆着一盘盘米饭、菜肴、水果和饮料，每一份都插着点燃的红香，作为中元节的供品
+    kind: representative
+    origin: third-party
+    subject: 七月中元节期间，路边摆出的饭菜供品，插着香，供游魂享用
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 农历七月一到，槟城、巴生与柔佛不少街角的入夜景象会悄悄改变：路边摆起小桌，上面是水果、米饭、茶水与成叠的金银纸，香烛在暮色里明灭。到了社区空地上，一座数米高、面目威严的纸扎神像被搭了起来，对面架起戏台，入夜后灯光大亮、歌声响起——而台下最前排的一整排椅子，却始终空着。

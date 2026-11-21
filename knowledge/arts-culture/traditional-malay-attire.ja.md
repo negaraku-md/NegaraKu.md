@@ -37,7 +37,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Har
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: 座った多数のマレーの男性がコーランを読む大きな集まり。それぞれが異なる色のバジュ・ムラユと黒いベルベットのソンコッ帽を身につけ、赤い絨毯のモスクの広間を埋め尽くしている
+    kind: actual
+    origin: third-party
+    subject: マレーシア、スランゴールの王室の婚礼の祈りの集まりで、色とりどりのバジュ・ムラユと黒いソンコッを身につけたマレーの男性の列
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: 白い背景を背に立つ男性が、マンダリンカラーのロイヤルブルーのバジュ・ムラユ、黒いベルベットのソンコッ、ズボンの上に折り重ねた艶のある青い花柄のソンケットの巻き布（サンピン）を身につけている様子
+    kind: actual
+    origin: third-party
+    subject: 白いスタジオ背景で、黒いソンコッとソンケットのサンピンとともに着る完全な男性用バジュ・ムラユの装い（ロイヤルブルーのチュニック）を着こなす男性
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 ハリラヤや結婚式の準備をしている男性を思い浮かべてほしい。ゆったりとした上衣はすでに着て、ズボンもすでに履いた——しかしまだ終わっていない。残っているのは、身支度が完全に整って見えるか、それとも中途半端に見えるかを左右する二つのもの、すなわち腰に巻くsampingの布と、頭にかぶるsongkokである。この二つがなければ、baju Melayuはまだ本当のbaju Melayuとは言えない。

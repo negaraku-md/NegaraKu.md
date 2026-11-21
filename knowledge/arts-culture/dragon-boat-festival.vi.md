@@ -33,7 +33,7 @@ faq:
     a: "Giải đua thuyền rồng quốc tế Penang có lịch sử lâu đời nhất, được tổ chức nhiều năm tại Đập Teluk Bahang, thu hút các đội từ nhiều quốc gia và vùng lãnh thổ; Putrajaya, Malacca và một số nơi khác cũng từng tổ chức các sự kiện đua thuyền rồng lớn. Các giải đua như vậy phần lớn được chính quyền bang hoặc các cơ quan liên quan hỗ trợ, vừa mang tính thể thao thi đấu vừa mang tính quảng bá du lịch. Ngày và địa điểm cụ thể khác nhau mỗi năm và tùy theo thông báo của ban tổ chức."
 
 lang: "vi"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: Những hàng tay chèo đội mũ đỏ áo trắng cắm mái chèo xuống nước khi hai chiếc thuyền rồng có mái che đua dọc theo một dòng kênh trước sự chứng kiến của đám đông
+    kind: representative
+    origin: third-party
+    subject: Các đội đua thuyền rồng trang trí rực rỡ, mái chèo khuấy tung mặt nước, trong một giải đua thuyền Tết Đoan Ngọ
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: Một chiếc bánh ú nếp gói lá tre được mở ra để lộ phần nhân mặn gồm thịt ba chỉ kho, hạt dẻ và lòng đỏ trứng muối, bên cạnh một chiếc bánh còn buộc chặt
+    kind: representative
+    origin: third-party
+    subject: Một chiếc bánh ú (bak chang) nếp đã mở ra để lộ thịt heo, hạt dẻ và lòng đỏ trứng muối, bên cạnh một chiếc còn gói trong lá tre
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 Khi mùng năm tháng Năm âm lịch gần kề, trong gian bếp của các gia đình người Hoa thoang thoảng mùi lá gói và gạo nếp. Các bà nội trợ xếp từng lớp gạo nếp đã ngâm và nhân xào thơm vào những chiếc lá gấp hình phễu, rồi buộc chặt bằng dây cói, thả từng xâu từng xâu vào nồi luộc thật lâu. Cùng lúc ấy, tại Đập Teluk Bahang ở mũi tây bắc đảo Penang, những chiếc thuyền rồng thon dài rẽ nước lướt đi; người đánh trống đứng ở mũi thuyền gõ nhịp, hàng chục tay chèo khua mái chèo nhịp nhàng theo tiếng trống — đó là hai diện mạo của Tết Đoan Ngọ ở Malaysia: một bên là hương bánh ú trong bếp, một bên là cuộc đua trên mặt nước.

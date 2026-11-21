@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu sự khác biệt về nguồn gốc, âm nhạc và động tác giữa Joget và Zapin với tư cách hai điệu múa dân gian Mã Lai riêng biệt."
 
 lang: "vi"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: Một nhóm vũ công Mã Lai trong trang phục sarong màu hồng, xanh lá và vàng rực rỡ giơ cao tay và xoay cổ tay trong một điệu joget sôi động, nam mặc áo đồng bộ và nữ cài hoa trên tóc, tại một sự kiện ngoài trời ở Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Nhóm vũ công dân gian Mã Lai biểu diễn một điệu múa kiểu joget sôi động ở Kuala Lumpur, Malaysia
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: Hàng chục vũ công Mã Lai trong baju kurung, sarong và mũ songkok giơ cả hai tay lên đầu đồng loạt trong một màn zapin tập thể ngoài trời, lấp đầy một con phố trước một nhà sàn gỗ vào một ngày u ám.
+    kind: representative
+    origin: third-party
+    subject: Màn múa zapin (jepin) tập thể của các nghệ nhân Mã Lai trong trang phục truyền thống tại một lễ hội thành phố ở Pontianak, Indonesia
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 Hai vũ công di chuyển nhanh theo nhịp trống — chân giậm, tay múa mềm mại. Nhiều người xem cứ thế gọi luôn là «điệu múa Mã Lai» mà không phân biệt đâu là Joget và đâu là Zapin. Hỏi mỗi điệu từ đâu tới, câu trả lời sẽ đưa ta đến hai góc trời: một từ boong tàu buôn Bồ Đào Nha ở Malacca, một từ đoàn lữ hành truyền giáo Ả Rập từ Hadhramaut.

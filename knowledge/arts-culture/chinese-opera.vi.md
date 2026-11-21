@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu các loại hí kịch truyền thống của người Hoa Malaysia, cũng như vai trò của «hí tạ thần» trong hội đền miếu và lễ hội."
 
 lang: "vi"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: Hai diễn viên hí kịch Triều Châu trên sân khấu lễ hội vào ban đêm, một kép thư sinh nam trong áo choàng xanh và một đào nữ trong trang phục màu hồng tươi, trước một phông nền 'Penang Dialect Theater' phủ kín chữ Hán
+    kind: actual
+    origin: third-party
+    subject: Hí kịch đường phố Triều Châu trong dịp Tết Nguyên Đán, George Town, Penang, 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: Một diễn viên hí kịch đường phố người Hoa trong áo choàng trắng và mũ đen đính hạt cườm, trang điểm sân khấu và đeo kính, cúi người về phía một ngọn đèn nhỏ để đọc kịch bản sau cánh gà dưới ánh sáng ấm mờ
+    kind: actual
+    origin: third-party
+    subject: Diễn viên hí kịch đường phố người Hoa trong trang phục đang xem kịch bản sau cánh gà, Malaysia
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 Chiêng trống vang lên, trên sân khấu tay áo nước bay lượn, nhưng hàng ghế khán giả bên dưới lại thường chỉ lác đác vài người — có khi thậm chí không một bóng người. Đây không phải là buổi diễn thất bại, bởi vở này vốn dĩ không phải diễn cho người xem.

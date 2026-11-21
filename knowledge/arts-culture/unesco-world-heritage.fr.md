@@ -30,7 +30,7 @@ faq:
     a: "Oui. Le Centre du patrimoine mondial enregistre trois biens sur la Liste indicative de la Malaisie : le parc national (Taman Negara) de la Malaisie péninsulaire, la crête de quartz de Gombak à Selangor et la léproserie de Sungai Buloh. Une inscription indicative est une déclaration d'intention de présenter une candidature, et non une inscription."
 
 lang: "fr"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: Une rue patrimoniale étroite de George Town, à Penang, bordée de vieilles maisons-boutiques à deux étages ornées de lanternes rouges et d'un panneau du musée de la peinture batik, un panneau de rue bleu « Lebuh Armenian » à droite et une route tranquille avec un passage piéton jaune
+    kind: actual
+    origin: third-party
+    subject: Lebuh Armenian (rue arménienne) dans le quartier patrimonial de George Town à Penang, inscrit au patrimoine mondial de l'UNESCO
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: Le massif de granit gris du mont Kinabalu dans le Sabah, sa ligne de crête déchiquetée s'élevant au-dessus de contreforts boisés, avec des arbres verts feuillus et une pente herbeuse au premier plan sous un ciel bleu dégagé
+    kind: actual
+    origin: third-party
+    subject: Le mont Kinabalu s'élevant au-dessus du parc du Kinabalu dans le Sabah, un site du patrimoine mondial de l'UNESCO
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 Demandez combien de sites du patrimoine mondial compte la Malaisie et la plupart des sources vous diront quatre. C'était vrai jusqu'en 2024. Le complexe de grottes de Niah a été inscrit en juillet de cette année-là, et le parc forestier de l'Institut de recherche forestière de Malaisie à Selangor a suivi en 2025, portant le total à six.

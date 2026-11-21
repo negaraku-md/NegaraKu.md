@@ -32,7 +32,7 @@ faq:
   - q: "Phải chăng tất cả đền thờ Hindu giáo ở Malaysia đều là đền Murugan hoặc Mariamman?"
     a: "Dù phần lớn đền được dâng cho Shiva, Murugan (phái Shaiva) hoặc Amman/Mariamman (thờ Shakti), đó không phải là loại duy nhất. Ở Malaysia còn có đền phái Vaishnava dâng cho Vishnu, đền theo truyền thống Malayali và Bắc Ấn, cùng các gurdwara của đạo Sikh. Chi tiết kiến trúc cũng khác nhau đôi chút tùy theo truyền thống thờ cúng."
 lang: "vi"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: Mặt tiền đầy màu sắc của một ngôi đền Hindu Nam Ấn với một tháp điêu khắc trên lối vào, hai bên là những pho tượng lớn sơn màu của thần Ganesha và một vị thần dưới những mái vòm mạ vàng, treo những dây cờ hình tam giác lễ hội trên nền trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: mặt tiền của đền Sri Mahamariamman ở George Town, Penang, với tháp cổng gopuram chạm khắc và lối vào hai bên có những pho tượng lớn của thần Ganesha và Murugan
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: Một ngôi điện thờ Hindu đầy màu sắc cầu kỳ với đỉnh là những pho tượng thần điêu khắc đứng bên trong một hang động đá vôi rộng lớn, những bức vách đá dựng đứng treo những dây leo xanh và được chiếu sáng bởi ánh sáng ban ngày từ trên cao
+    kind: actual
+    origin: third-party
+    subject: một tháp điện thờ Hindu đầy màu sắc cầu kỳ bên trong đền hang động đá vôi Batu Caves gần Kuala Lumpur, nổi bật trên nền những vách hang cao sừng sững phủ cây xanh
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 Khi bạn đến gần bất kỳ khu phố nào ở một đô thị Malaysia nơi một cộng đồng Tamil đã bén rễ, một ngọn tháp phủ đầy tượng vươn lên trời đập vào mắt từ xa. Ngọn tháp cổng ấy, với những tầng tượng thần đầy màu sắc xếp chồng lên nhau, không phải là ngẫu nhiên — đó là sự tiếp nối của một truyền thống kiến trúc nghìn năm tuổi; dấu ấn của một di sản văn hóa mà những người gốc Tamil Nam Ấn đã mang theo đến Malaysia.

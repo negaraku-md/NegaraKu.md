@@ -32,7 +32,7 @@ faq:
   - q: How is this music sustained in Malaysia?
     a: "Temple musicians, nadaswaram–thavil ensembles and numerous urumi melam groups carry this tradition forward. Young people begin learning at an early age; many groups spend their earnings on uniforms, instruments and group meals, operating as a non-profit service. Today this tradition sounds beyond temples at festivals and receptions too."
 lang: "en"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: At a Hindu temple, one seated man plays a long nadaswaram wind pipe while a second plays a horizontal thavil barrel drum
+    kind: representative
+    origin: third-party
+    subject: Nadaswaram and thavil players performing at the Sri Mariamman Hindu temple, Singapore
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: A young man holding a nadaswaram wind instrument with a flared bell beside another man cradling a round thavil barrel drum laced with yellow cords
+    kind: representative
+    origin: third-party
+    subject: Nadaswaram player paired with a thavil barrel-drum player, the standard South Indian temple-music duo
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 At the front of a Thaipusam procession, at the moment a temple chariot sets out,

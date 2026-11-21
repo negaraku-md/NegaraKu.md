@@ -22,7 +22,7 @@ appliesTo: "适合任何想了解 Joget 与 Zapin 作为两种各自独立的马
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: 一群马来舞者身着鲜艳的粉红、绿色和金色纱笼服装，举起双臂、转动手腕跳着欢快的庄甲舞（joget），男舞者穿着成套上衣，女舞者发间插花，在吉隆坡一场露天活动上表演
+    kind: actual
+    origin: third-party
+    subject: 一群马来民间舞者在马来西亚吉隆坡表演欢快的庄甲舞（joget）
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: 数十名马来舞者身穿马来上衣（baju kurung）、纱笼和宋谷帽（songkok），在一场露天群体扎宾舞（zapin）中齐举双手过头，布满一条街道，前方是一座木亭，天色阴沉
+    kind: representative
+    origin: third-party
+    subject: 印尼坤甸（Pontianak）一场城市节庆上，身着传统服饰的马来表演者群跳扎宾舞（jepin）
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 两名舞者随着 gendang 的鼓点快速舞动——脚下踏点铿锵有力，手部则轻柔曼舞。许多人看了之后径直称之为「马来舞蹈」，并不区分哪个是 Joget、哪个是 Zapin。追问两者各自从何而来，答案会把我们带往世界的两端：一端来自马六甲葡萄牙商船的甲板，另一端则来自哈德拉毛阿拉伯传教士的商队。

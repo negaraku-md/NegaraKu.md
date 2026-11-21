@@ -33,7 +33,7 @@ faq:
     a: "Las familias cristianas observan el día religiosamente a través de los oficios religiosos. Más allá de eso, la Navidad se celebra de manera más amplia en la vida pública: los centros comerciales y los hoteles ponen decoraciones y organizan rebajas de temporada, y es habitual la tradición de la casa abierta de recibir a invitados de cualquier origen para una comida compartida. La participación en la vertiente social, más amplia, de la temporada no se limita a los cristianos."
 
 lang: "es"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: Una elaborada decoración navideña de país de las golosinas en un centro comercial de Kuala Lumpur, con un escenario rojo y blanco en espiral de menta, casitas de pan de jengibre e hileras de árboles de Navidad con luces sobre la multitud
+    kind: actual
+    origin: third-party
+    subject: Decoración navideña temática de país de las golosinas con casitas de pan de jengibre y árboles iluminados en un centro comercial de Kuala Lumpur
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: La catedral anglicana de St Mary de muros blancos y tejas rojas en el centro de Kuala Lumpur, con una cruz en su hastial y una bandera de Malasia delante, con modernas torres de oficinas alzándose detrás
+    kind: actual
+    origin: third-party
+    subject: La catedral anglicana de St Mary, una histórica iglesia blanca en el centro de Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 La tarde del 24 de diciembre, una iglesia de Kota Kinabalu o de Kuching se llena para un oficio nocturno, mientras que a unos cientos de kilómetros, en la península, esa misma fecha es un jueves laborable corriente. A la mañana siguiente, el 25 de diciembre, todo el país libra. Esa división —una fecha, dos condiciones muy distintas— es la forma más nítida de entender el lugar que ocupa la Navidad en Malasia: una fiesta religiosa para una comunidad, un festivo público para todos y una temporada de puertas abiertas en la que muchos participan al margen de su fe.

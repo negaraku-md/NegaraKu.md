@@ -32,7 +32,7 @@ faq:
   - q: "क्या ये नृत्य धार्मिक स्वरूप के हैं?"
     a: "कुछ रूप (करगाट्टम, कावड़ी आट्टम, मयिलाट्टम) मंदिर-पूजा परंपराओं में निहित हैं; फिर भी, आज इनमें से अनेक सामाजिक-सांस्कृतिक आयोजनों में एक मंच कला के रूप में भी प्रस्तुत किए जाते हैं। यह लेख केवल नृत्य रूपों का वर्णन करता है; यह किसी भी प्रकार की पूजा की व्याख्या या मूल्यांकन नहीं करता।"
 lang: "hi"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: असली मोर-पंखों की फैली हुई पूँछ और एक चोंचदार शिरोभूषण के साथ एक अलंकृत मोर-पोशाक पहने एक नर्तक, एक गहरी पृष्ठभूमि के सामने प्रकाशित
+    kind: representative
+    origin: third-party
+    subject: एक पंखदार मोर-पोशाक में मयिलाट्टम (मोर नृत्य) कलाकार
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: पीली पोशाक और शिरोभूषण में एक पुरुष लोक-नर्तक अपनी कमर के चारों ओर एक चमकीली चित्रित नक़ली-घोड़े के ढाँचे को पहने हुए, एक हरे बाहरी परिवेश में
+    kind: representative
+    origin: third-party
+    subject: पोइक्काल कुदिरै आट्टम, तमिल नक़ली-घोड़ा लोक-नृत्य
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 मंदिर उत्सव के दिन, जब तविल की गूँज और नादस्वरम की ध्वनि गली को भर देती है, तब सिर पर फूलों

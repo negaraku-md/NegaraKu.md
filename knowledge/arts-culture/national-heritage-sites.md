@@ -80,6 +80,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: Runtuhan bata laterit yang lapuk pada pintu gerbang Porta de Santiago kota A Famosa di Melaka, gerbangnya yang runtuh dipuncaki ukiran timbul, dengan sepucuk meriam gangsa lama terpasang di atas alas bata di hadapannya dan pokok tropika dengan latar langit biru
+    kind: actual
+    origin: third-party
+    subject: pintu gerbang Porta de Santiago kubu Portugis A Famosa di Melaka, sebuah monumen Warisan Kebangsaan yang diwartakan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: Fasad bata kemerahan Kellie's Castle di Batu Gajah, Perak, sederet tiang beranjung melengkung dan tiang langsing di dua tingkat yang menghadap laman berturap bata, dengan dinding yang separa runtuh dan tumbuhan hijau tropika di bawah langit mendung yang cerah
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, banglo awal abad ke-20 yang tidak siap di Batu Gajah, Perak, sebuah tapak warisan yang dilindungi
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Sebuah rumah kedai berusia seabad di George Town, sebilah keris, sebuah tarian istana, dan seorang pembuat [songket](/arts-culture/songket) yang masih hidup — keempat-empatnya boleh menyandang gelaran undang-undang yang sama di Malaysia: *Warisan Kebangsaan*. Yang mengikat mereka bukan senarai UNESCO, tetapi sebuah daftar domestik yang jarang disebut namanya: **Daftar Warisan Kebangsaan**.

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender los tipos de ópera china tradicional de Malasia y el papel que la «ópera de agradecimiento a los dioses» (酬神戏) desempeña en las ferias de templo y las fiestas."
 
 lang: "es"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: Dos intérpretes de ópera teochew en un escenario festivo de noche, un erudito varón con túnica azul y un personaje femenino en rosa vivo, ante un telón de fondo de 'Penang Dialect Theater' cubierto de caracteres chinos
+    kind: actual
+    origin: third-party
+    subject: Ópera teochew de calle durante el Año Nuevo Chino, George Town, Penang, 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: Un intérprete de ópera china de calle con túnica blanca y un gorro negro con abalorios, con maquillaje de escenario y gafas, inclinado hacia una pequeña lámpara para leer un guion entre bastidores bajo una cálida luz tenue
+    kind: actual
+    origin: third-party
+    subject: Intérprete de ópera china de calle con vestuario estudiando un guion entre bastidores, Malasia
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 Los gongs y los tambores arrancan, las mangas de agua (水袖) ondean en el escenario, y los asientos del público, abajo, suelen contener solo un puñado de personas, a veces ni una sola. No es una función fracasada, porque la representación nunca estuvo pensada, de entrada, para ojos humanos.

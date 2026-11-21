@@ -33,7 +33,7 @@ faq:
     a: "أُعيدت مجموعة الغاملان الأصلية إلى باهانغ عام 1973، وتُعرَض في متحف باهانغ في بيكان."
 
 lang: "ar"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: طقم غاملان ملايوي كامل مُرتّب على سجادة مزخرفة، مع أجراس القدور البرونزية والميتالوفونات وغونغ معلّق وطبل على حوامل خشبية منقوشة
+    kind: actual
+    origin: third-party
+    subject: طقم غاملان ملايو كامل مُرتّب في مركز للفنون والتراث في ماليزيا
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: موسيقي بسترة برتقالية يجثو أمام ميتالوفون سارون أحمر وذهبي، يقرع قضبانه البرونزية بمطرقة خشبية
+    kind: representative
+    origin: third-party
+    subject: موسيقي يقرع ميتالوفون سارون (غاملان إندونيسي، من نفس عائلة آلات غاملان ملايو)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 انتقلت مجموعة الغاملان من بلاط إلى آخر لا بسبب بيع أو استيلاء — بل بسبب زواج. فحين كانت أميرة تنتقل إلى قصر زوجها، كانت الآلات والراقصون والأغاني تنتقل معها. وهكذا صار الغاملان ملكاً للبلاطات الملايوية.

@@ -35,7 +35,7 @@ faq:
     a: "केवल उन राज्यों और संघीय क्षेत्रों में जो इसे राजपत्रित करते हैं। यह कुआलालंपुर, पुत्राजया, सेलांगोर, पेनांग, पेराक, नेगरी सेम्बिलान, जोहोर और केदाह सहित स्थानों में सार्वजनिक अवकाश के रूप में मनाया जाता है, और इसे देश-व्यापी संघीय अवकाश के रूप में राजपत्रित नहीं किया गया है। चूँकि यह क्षेत्राधिकार-दर-क्षेत्राधिकार निर्धारित होता है, इसलिए सटीक सूची वर्ष-दर-वर्ष भिन्न हो सकती है — संबंधित राज्य के लिए हमेशा आधिकारिक अवकाश सूचना की जाँच करें।"
 
 lang: "hi"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Rea
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: थाईपुसम के दौरान बाटू गुफाओं में भगवान मुरुगन की ऊँची सुनहरी प्रतिमा और वनाच्छादित चूना-पत्थर की पहाड़ियों के नीचे मार्ग भरते तीर्थयात्रियों की घनी भीड़
+    kind: actual
+    origin: third-party
+    subject: बाटू गुफाओं में भगवान मुरुगन की सुनहरी प्रतिमा के नीचे थाईपुसम तीर्थयात्रियों की भीड़
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: पेराक के इपोह में एक रंगीन हिंदू मंदिर के गोपुरम के सामने घंटियाँ लटके कावड़ी दंड को कंधे पर उठाए और एक चाँदी का दूध-पात्र ले जाते एक थाईपुसम भक्त का पीछे से दृश्य
+    kind: actual
+    origin: third-party
+    subject: इपोह में थाईपुसम जुलूस में दूध-पात्र ले जाता एक कावड़ी-वाहक
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 भोर से पहले, कुआलालंपुर के उत्तरी छोर पर एक चूना-पत्थर की पहाड़ी ध्वनियों से भर जाती है — ढोल, मंत्रोच्चार, पत्थर पर लाखों नंगे पैरों की सरसराहट। 272 सीढ़ियों की सीढ़ी के आधार पर चौदह मंज़िला इमारत से भी ऊँची एक स्वर्ण आकृति खड़ी है। चढ़ाई शुरू हो चुकी है, और यह लगभग पूरे दिन नहीं रुकेगी।

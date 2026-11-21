@@ -34,7 +34,7 @@ faq:
     a: "ருமா தெர்புகா என்பது, ஷவ்வால் காலம் முழுவதும் உறவினர்கள், அண்டை வீட்டார் மற்றும் நண்பர்களை — பிற இனத்தவர் மற்றும் பிற மதத்தவர் உட்பட — வருகை தந்து விருந்து அருந்த அழைக்கும் பழக்கம். இது மலேசியாவில் பரவலான ஒரு சமூக அம்சமாக மாறியுள்ளது, மேலும் இது தனியார் வீடுகளில் மட்டுமல்லாமல், அரசு நிறுவனங்கள் மற்றும் நிறுவனங்களாலும் அடிக்கடி நடத்தப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: மலேசியாவின் வழக்கமான ஹரி ராயா ஐதில்ஃபித்ரி உணவான மாட்டிறைச்சி ரெண்டாங் தட்டின் அருகே, பனை ஓலையால் பின்னப்பட்ட கெதுப்பட் பாலாஸ் அரிசி மூட்டைகள்
+    kind: actual
+    origin: third-party
+    subject: வழக்கமான ஹரி ராயா உணவான கெதுப்பட் பாலாஸும் மாட்டிறைச்சி ரெண்டாங்கும்
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: மலேசியாவில் ஹரி ராயா ஐதில்ஃபித்ரியின் போது இருண்ட தோட்டத்தில் பிரகாசமான சுடருடன் எரியும் மூங்கில் பெலிட்டா எண்ணெய் விளக்கு
+    kind: actual
+    origin: third-party
+    subject: ஹரி ராயாவின் போது இரவில் எரியும் மூங்கில் பெலிட்டா எண்ணெய் விளக்கு
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 ரமலானின் கடைசி இரவில், நாடு முழுவதும் ஒரே நேரத்தில் நகர்வது போலத் தோன்றுகிறது. வடக்கு–தெற்கு நெடுஞ்சாலை (North–South Expressway) மணிக்கணக்கில் நெரிசலில் சிக்குகிறது, பேருந்து நிலையங்கள் பைகளும் குயி (kuih) டப்பாக்களும் நிறைந்திருக்கின்றன, மேலும் நகரங்களிலிருந்து கிராமங்களின் (kampung) தொலைதூர மூலைகள் வரை வீட்டுத் திண்ணைகளில் பெலிட்டா (pelita) விளக்குகள் எரிகின்றன. மறுநாள், 1 ஷவ்வால், ஒரு மாத நோன்பு நிறைவடைகிறது — மேலும் மலேசியா ஹரி ராயா ஐதில்ஃபித்ரியைக் கொண்டாடுகிறது.

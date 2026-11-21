@@ -32,7 +32,7 @@ faq:
   - q: 这种音乐在马来西亚如何得以延续？
     a: "庙宇乐手、纳达斯瓦兰姆–塔维尔乐队，以及为数众多的乌鲁米乐队共同传承着这一传统。年轻人从小便开始习艺；许多乐队把收入花在队服、乐器与团队餐食上，以不牟利的方式作为一种服务运作。如今这一传统也在庙宇与节庆之外的迎宾场合等场合奏响。"
 lang: "zh"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: 在一座印度庙里，一名坐着的男子吹奏长长的那达斯瓦兰（nadaswaram）管乐器，另一人敲击横置的塔维尔（thavil）桶形鼓
+    kind: representative
+    origin: third-party
+    subject: 新加坡斯里玛里安曼印度庙（Sri Mariamman）的那达斯瓦兰与塔维尔乐手表演
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: 一名年轻男子手持一支带喇叭口的那达斯瓦兰管乐器，旁边另一名男子怀抱一只用黄色绳索绑扎的圆形塔维尔桶形鼓
+    kind: representative
+    origin: third-party
+    subject: 那达斯瓦兰乐手与塔维尔桶形鼓乐手搭配，这是南印度庙宇音乐的标准二人组合
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 在大宝森节游行的最前列、一座庙宇神辇启程的那一刻，或是婚礼大堂的门口——在马来西亚的任何一场泰米尔印度教活动中，最先在空气中响起的，总是一种特定的声音：纳达斯瓦兰姆（nadaswaram）绵长的旋律，以及塔维尔鼓（thavil）的轰鸣。那声音并非偶然——它是一个多世纪以来始终伴随这个社群的 **mangala vadyam**（吉祥乐器）传统的标志。

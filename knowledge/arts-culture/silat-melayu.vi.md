@@ -37,7 +37,7 @@ faq:
     a: "UNESCO nhắc đến Silat Harimau như một ví dụ về phái mô phỏng dáng vẻ thẩm mỹ của con hổ trong nghệ thuật tấn công và tự vệ. Nó là một trong nhiều phái được đặt tên theo động vật hoặc các yếu tố của tự nhiên."
 
 lang: "vi"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: Hai võ sĩ Mã Lai đi chân trần trong trang phục silat đen và mũ bịt đầu đen đối mặt nhau trong các tư thế chiến đấu thấp trên nền gạch xám, một người cầm một lưỡi dao ngắn, trước một bức tường nhà màu xanh ngọc
+    kind: actual
+    origin: third-party
+    subject: hai pesilat trong trang phục silat đen đối mặt nhau trong tư thế chiến đấu khi luyện tập Silat Gayong ở Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: Một võ sĩ Mã Lai trong trang phục silat đen nhảy lên tung một cú đá cao mà người bạn tập đang khom mình đỡ, cả hai đi chân trần trên nền gạch xám trước một bức tường màu xanh ngọc, giữa động tác trong một buổi đối luyện silat
+    kind: actual
+    origin: third-party
+    subject: một pesilat tung một cú đá bay vào người bạn tập trong khi luyện tập Silat Gayong ở Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 Một võ sĩ silat giỏi có thể bẻ gãy xương đối thủ — hoặc múa trước cô dâu chú rể mà không chạm vào ai. Cả hai đều là silat. Đó là điều khó hiểu nhất về nghệ thuật này: nó không chỉ là một phương pháp giao đấu, và cũng không chỉ là một điệu múa lễ. Nó là cả hai, trong cùng một thân thể, được vận hành bởi cùng những bước chân.

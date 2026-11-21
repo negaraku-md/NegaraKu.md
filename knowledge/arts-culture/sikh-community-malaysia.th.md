@@ -34,7 +34,7 @@ faq:
     a: "ภาษาปัญจาบียังมีชีวิตอยู่แต่กำลังเผชิญการเปลี่ยนภาษา กล่าวคือ งานศึกษาทางวิชาการเกี่ยวกับชุมชนซิกข์ในโกตากินาบาลูพบว่าครอบครัวส่วนใหญ่ปัจจุบันใช้ภาษาอังกฤษที่บ้าน เพื่อรักษาภาษานั้น คุรุทวาราดำเนินชั้นเรียนปัญจาบี — เช่น ศูนย์การศึกษาปัญจาบีที่คุรุทวาราสาหิพเซอเริมบัน — ที่สอนอักษรคุรมุขีแก่เด็ก ๆ"
 
 lang: "th"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: ด้านหน้าหลังคาจั่วสีเหลืองสดและสีขาวของกุรุทวาราคุรุนานักดาร์บาร์ตัตต์คัลซาดิวันเซอลาโงร์ มีสัญลักษณ์คันดาของซิกข์อยู่เหนือทางเข้า ธงนิชานซาฮิบสีส้มบนหลังคาและโดมทองทางขวา มองข้ามลานปูกระเบื้องลายตาราง
+    kind: actual
+    origin: third-party
+    subject: กุรุทวาราคุรุนานักดาร์บาร์ตัตต์คัลซาดิวันเซอลาโงร์ วัดซิกข์ในชาห์อาลัม รัฐเซอลาโงร์ ประเทศมาเลเซีย
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: ด้านหน้าหลายหอสีขาวสูงของกุรุทวาราซาฮิบกูชิงพร้อมโดมยอดทองและหอมุม สัญลักษณ์คันดาของซิกข์ขนาบป้ายสีเหลืองที่เขียนว่า Gurdwara Sahib Kuching ธงมาเลเซียและซาราวักโบกสะบัดจากเสากลาง ใต้ท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: กุรุทวาราซาฮิบกูชิง กุรุทวาราของสมาคมวัดซิกข์ซาราวักในเมืองกูชิง รัฐซาราวัก ประเทศมาเลเซีย
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 ในแถวตำรวจและป้อมของอังกฤษในมลายาช่วงศตวรรษที่ 19 เจ้าหน้าที่ที่โพกผ้าและไว้เคราหนาจำนวนมากไม่ใช่คนท้องถิ่น — พวกเขาคือชาวซิกข์ที่ถูกนำมาหลายพันไมล์จากปัญจาบทางตะวันตกเฉียงเหนือของอินเดีย จากหน้าที่รักษาความปลอดภัยนั้นเองที่หนึ่งในชุมชนชนกลุ่มน้อยที่เล็กที่สุดแต่จดจำได้ง่ายที่สุดของมาเลเซียเติบโตขึ้น

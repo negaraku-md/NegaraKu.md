@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: 在沙巴本南邦（Penampang）举行的丰收节（Kaamatan）舞台上，身穿黑金两色卡达山－杜顺族（Kadazan-Dusun）传统服装的丰收节小姐（Unduk Ngadau）冠军在六位入围佳丽中戴冠
+    kind: actual
+    origin: third-party
+    subject: 丰收节选美赛上的丰收节小姐（Unduk Ngadau）冠军与入围佳丽
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: 在沙巴的丰收节庆典上，身穿黑色配红银镶边服装的卡达山－杜顺族年轻舞者，和着铜锣表演传统舞蹈
+    kind: actual
+    origin: third-party
+    subject: 卡达山－杜顺族青年和着铜锣表演丰收节舞蹈
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 这个节庆的命名源自一个单一的概念：丰收。*Kaamatan*在卡达山杜顺语中的意思正是如此，而庆典中的一切——仪式、米酒、最后一晚加冕的选美——都是从收割稻米这一个行动中生长出来的。

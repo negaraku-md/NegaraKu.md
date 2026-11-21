@@ -33,7 +33,7 @@ faq:
     a: "현대 회관의 상호부조 역할은 크게 달라졌습니다. 많은 회관이 장학금·학자금 대출 지급, 방언과 전통문화의 보존, 명절과 친목 행사 개최, 지역 복지 증진에 중점을 둡니다. 역사가 오랜 일부 종사(宗祠)와 성씨교는 조지타운이 세계유산으로 등재된 뒤 문화 관광과 건축 보존의 중심이 되었습니다. 회관마다 활동의 정도와 중점은 서로 다릅니다."
 
 lang: "ko"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: 음력설을 맞아 해질녘 불을 밝힌 쿠 콩시 종사(宗祠)로, 붉은 등과 빛나는 조명 틀을 걸었고 앞마당에 사람들이 모여 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 2024년 음력설을 맞아 조명을 밝히고 붉은 등으로 장식한 페낭 조지타운의 쿠 콩시 종사
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: 쿠 콩시 종사 천장을 올려다본 모습으로, 테라코타 타일 서까래, 채색한 들보, 풍성하게 금박을 입혀 조각한 받침이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 쿠 콩시 종사의 채색하고 금박을 입힌 목조 천장
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 페낭 조지타운의 콘월리스 요새 일대로 들어서면, 줄지어 선 상점가옥(숍하우스) 사이에서 처마가 치솟고 섬세한 조각과 채색을 입힌 종사(宗祠)가 불쑥 나타납니다——바로 룽산탕 추 공사입니다. 바닷가 쪽으로 더 나아가면, 나무 기둥이 떠받친 채 수면 위로 뻗어 나간 목조 가옥의 마을들이 줄지어 있고, 저마다 하나의 성씨를 내걸고 있습니다——성주교(姓周橋), 성림교(姓林橋), 성진교(姓陳橋). 이 건물들은 사당도 아니고 단순한 주거도 아니며, 화인 이민 사회에서 가장 오래된 조직 형태의 하나가 남긴 실체——회관과 종친회입니다.

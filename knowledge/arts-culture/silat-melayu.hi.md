@@ -37,7 +37,7 @@ faq:
     a: "यूनेस्को सिलात हरिमाउ को ऐसी शैली के उदाहरण के रूप में उद्धृत करता है जो आक्रमण और आत्मरक्षा की कला में बाघ की सौंदर्यपूर्ण गतियों का अनुकरण करती है। यह किसी जानवर या प्रकृति के तत्व के नाम पर रखी गई अनेक शैलियों में से एक है।"
 
 lang: "hi"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: काली सिलात पोशाक और काले शिरोवस्त्र में दो नंगे पाँव मलय मार्शल कलाकार एक टील-हरी इमारत की दीवार के सामने ग्रे फ़र्श पर नीची लड़ाई-मुद्राओं में आमने-सामने, एक छोटी तलवार पकड़े हुए
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में सिलात गायोंग अभ्यास के दौरान काली सिलात पोशाक में लड़ाई-मुद्राओं में आमने-सामने दो पेसिलात
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: काली सिलात पोशाक में एक मलय मार्शल कलाकार एक ऊँची लात मारते हुए छलाँग लगा रहा है जिसे उसका झुका हुआ साथी रोकता है, दोनों एक टील-हरी दीवार के सामने ग्रे फ़र्श पर नंगे पाँव, एक सिलात स्पैरिंग सत्र के दौरान बीच-कार्रवाई में
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में सिलात गायोंग अभ्यास के दौरान एक स्पैरिंग साथी को छलाँग लगाकर लात मारता एक पेसिलात
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 एक कुशल पेसिलात प्रतिद्वंद्वी की हड्डियाँ तोड़ सकता है — या किसी को छुए बिना दुल्हन के सामने नृत्य कर सकता है। दोनों सिलात हैं। इस कला के बारे में सबसे कठिन बात यही समझना है: यह केवल लड़ाई की एक विधि नहीं है, और केवल एक औपचारिक नृत्य भी नहीं। यह दोनों है, एक ही शरीर में, एक ही कदमों से संचालित।

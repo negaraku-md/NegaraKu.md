@@ -32,7 +32,7 @@ faq:
   - q: "马来西亚的印度教寺庙都是穆鲁甘庙或玛丽安曼庙吗？"
     a: "虽然大多数寺庙供奉湿婆、穆鲁甘（湿婆派）或 Amman/玛丽安曼（沙克提崇拜），但并不止这些。马来西亚也有供奉毗湿奴的毗湿奴派寺庙、马拉雅利与北印度传统的寺庙，以及锡克教谒师所。建筑细节也会随崇拜传统而略有不同。"
 lang: "zh"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: 一座南印度风格印度庙色彩缤纷的正面，入口上方立着雕塑塔门，两侧是象头神（Ganesha）和另一位神祇的大型彩绘神像，立在镀金华盖下，庙前悬挂着节庆三角彩旗，衬着晴朗的蓝天
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市斯里玛哈玛里安曼庙（Sri Mahamariamman Temple）的正面，雕花塔门（gopuram）和入口两侧立着象头神与穆鲁干神大型神像
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: 一座华丽缤纷、顶部立着雕塑神像的印度庙神龛，矗立在一个巨大的石灰岩洞穴内，陡峭的岩壁垂挂着蔓生的绿色植物，顶部透进的天光照亮洞内
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡近郊黑风洞（Batu Caves）石灰岩洞穴内一座华丽缤纷的印度庙神龛塔，衬着垂挂绿植的高耸洞壁
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 当你走近马来西亚任何一座泰米尔社群扎根的城镇街区，一座朝天耸立、布满雕像的塔楼远远便映入眼帘。那座层层叠叠、缀满彩色神像的门楼并非偶然——它是一门有千年历史的建筑传统的延续；是南印度泰米尔裔随身带到马来西亚的文化传承的标志。

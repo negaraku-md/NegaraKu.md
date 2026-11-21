@@ -33,7 +33,7 @@ faq:
     a: "ペナンの国際ドラゴンボートレースは最も歴史が長く、長年テロッ・バハン・ダムで開催され、多くの国や地域のチームを集めています。プトラジャヤやマラッカなどでも大規模なドラゴンボートの催しが開かれたことがあります。こうしたレースの多くは州政府や関連機関の支援を受け、競技としてだけでなく観光振興の性格も併せ持ちます。具体的な日程や場所は毎年異なり、主催者の発表によります。"
 
 lang: "ja"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: 赤い帽子と白いシャツを着た漕ぎ手の列が水にパドルを突き入れ、観衆に見守られながら屋根付きの2艘のドラゴンボートが水路を競い合う様子
+    kind: representative
+    origin: third-party
+    subject: 端午節のレガッタで、パドルで水をかき分けながら飾られたドラゴンボートを競わせるチーム
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: 笹の葉で包まれたもち米のちまきを開き、煮込んだ豚バラ肉・栗・塩漬け卵黄の塩味の具が現れた様子と、その隣に包まれたままのちまき
+    kind: representative
+    origin: third-party
+    subject: 豚肉・栗・塩漬け卵黄が見える開いたちまき（肉粽）と、笹の葉に包まれたままのもう一つ
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 旧暦五月五日が近づくころ、華人家庭の台所には粽の葉ともち米の香りが漂います。主婦たちは水に浸したもち米と香ばしく炒めた具を、漏斗状に折った葉に一層また一層と詰め、イグサの紐でしっかりと縛り、ひと連なりまたひと連なりと鍋に下ろして長時間煮ます。同じころ、ペナン島北西端のテロッ・バハン・ダムでは、細長いドラゴンボートが水面を切り分けて進み、舳先に立つ太鼓手が拍を打ち、数十人の漕ぎ手がその拍に合わせて一斉に櫂を振るいます——これがマレーシアの端午節の二つの顔です。一方は台所の粽の香り、もう一方は水上の競漕です。

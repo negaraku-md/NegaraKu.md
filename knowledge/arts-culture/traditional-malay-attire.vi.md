@@ -35,7 +35,7 @@ faq:
     a: "Không. Baju kurung là áo dài rộng và che dáng người, mặc với kain. Còn kebaya là áo xẻ trước ôm dáng người hơn, cài bằng kerongsang (trâm) hoặc cúc, và mặc kèm sarong. Kebaya thường ôm sát hơn baju kurung."
 
 lang: "vi"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Har
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: Một đám đông nam giới Mã Lai ngồi đọc kinh Qur'an, mỗi người mặc một bộ baju Melayu màu khác nhau và đội mũ songkok nhung đen, lấp đầy một sảnh nhà thờ Hồi giáo trải thảm đỏ
+    kind: actual
+    origin: third-party
+    subject: những hàng nam giới Mã Lai trong baju Melayu nhiều màu và songkok đen tại một buổi cầu nguyện trong đám cưới hoàng gia ở Selangor, Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: Một người đàn ông đứng trên nền trắng mặc một bộ baju Melayu màu xanh hoàng gia với cổ áo kiểu mandarin, một chiếc mũ songkok nhung đen và một tấm khố quấn songket hoa màu xanh bóng (samping) gấp qua quần
+    kind: actual
+    origin: third-party
+    subject: một người đàn ông trình diễn một bộ baju Melayu nam hoàn chỉnh, áo dài màu xanh hoàng gia mặc cùng mũ songkok đen và tấm samping songket, trên nền studio trắng
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 Hãy quan sát một người đàn ông chuẩn bị cho ngày lễ hoặc đám cưới. Áo rộng đã mặc, quần đã xỏ vào — nhưng anh chưa xong. Còn lại là hai thứ quyết định anh trông đã ăn vận đầy đủ hay mới nửa chừng: một tấm kain samping quấn ở eo, và một chiếc songkok trên đầu. Thiếu hai thứ đó, baju Melayu vẫn chưa thực sự là baju Melayu.

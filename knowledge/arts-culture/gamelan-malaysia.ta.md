@@ -33,7 +33,7 @@ faq:
     a: "மூல கமெலான் தொகுப்பு 1973-ல் பகாங்கிற்கு (Pahang) திருப்பியனுப்பப்பட்டு, பேக்கானில் (Pekan) உள்ள பகாங் அருங்காட்சியகத்தில் (Muzium Pahang) காட்சிக்கு வைக்கப்பட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: வடிவமைக்கப்பட்ட கம்பளத்தில் விரிக்கப்பட்ட முழு மலாய் கமலன் தொகுப்பு, செதுக்கப்பட்ட மரத் தாங்கிகளில் வெண்கல கெட்டில்-கெங்குகள், உலோகமணி இசைக்கருவிகள், தொங்கும் கெங் மற்றும் ஒரு மேளத்துடன்
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய கலை-பாரம்பரிய மையத்தில் அமைக்கப்பட்ட முழு கமலன் மலாயு தொகுப்பு
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: ஆரஞ்சு நிற அங்கி அணிந்த ஒரு இசைக்கலைஞர் சிவப்பு-தங்க நிற சரோன் உலோகமணி இசைக்கருவிக்கு முன் முழந்தாளிட்டு, அதன் வெண்கல பட்டைகளை மரத் தட்டியால் தட்டுகிறார்
+    kind: representative
+    origin: third-party
+    subject: சரோன் உலோகமணி இசைக்கருவியைத் தட்டும் இசைக்கலைஞர் (இந்தோனேசிய கமலன், கமலன் மலாயுவின் அதே இசைக்கருவி குடும்பம்)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 கமெலான் தொகுப்பு ஓர் அரண்மனையிலிருந்து மற்றோர் அரண்மனைக்கு நகர்ந்தது விற்பனையாலோ கைப்பற்றுதலாலோ அல்ல — மாறாக திருமணத்தால். ஒரு இளவரசி தன் கணவனின் மாளிகைக்கு நகர்ந்தபோது, இசைக்கருவிகள், நடனக் கலைஞர்கள் மற்றும் பாடல்களும் அவளுடன் நகர்ந்தன. அப்படித்தான் கமெலான் மலாய் அரண்மனைகளின் சொத்தாக மாறியது.

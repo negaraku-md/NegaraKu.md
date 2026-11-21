@@ -33,7 +33,7 @@ faq:
     a: "Ini ialah salah satu legenda bulan Pertengahan Musim Luruh yang paling meluas tersebar: dikatakan bahawa Hou Yi memperoleh ubat awet muda abadi, dan isterinya Chang'e dalam keadaan tertentu menelan ubat sakti itu lalu tubuhnya menjadi ringan dan naik melayang untuk menetap di bulan, terpisah daripada dunia manusia sejak itu. Cerita ini mempunyai banyak versi dengan butiran yang berbeza-beza, dan umumnya dianggap sebagai legenda rakyat yang menjelaskan 'menatap bulan ketika Pertengahan Musim Luruh dan adanya penghuni di bulan', bukan fakta sejarah; rencana ini hanya menceritakannya secara ringkas."
 
 lang: "ms"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Deretan kuih bulan bakar berwarna perang keemasan yang dicetak dengan motif arnab jed dan bunga disusun untuk disejukkan di atas dulang logam berlubang, permukaan pastrinya yang berkilat memantulkan cahaya
+    kind: representative
+    origin: third-party
+    subject: kuih bulan arnab jed yang baru dibakar, makanan istimewa Perayaan Kuih Bulan
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: Tanglung kertas bulat merah berlipat akordion yang bercetak bintang putih dan siluet arnab, tergantung di hadapan dedaunan hijau dan bunga merah jambu, tanglung kertas boleh lipat klasik yang dibawa kanak-kanak ketika Perayaan Kuih Bulan
+    kind: representative
+    origin: third-party
+    subject: sebuah tanglung kertas merah berlipat tradisional jenis yang dibawa kanak-kanak ketika Perayaan Kuih Bulan
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 Menjelang malam hari kelima belas bulan kelapan kalendar lunar, atrium pusat membeli-belah dihiasi tanglung merah menyala, dan di taman kawasan kediaman, kanak-kanak berdua-dua bertiga berjalan ke sana ke mari membawa tanglung yang dinyalakan. Di meja makan rumah, sekotak kuih bulan yang dipotong kecil-kecil ditemani secerek teh panas, dengan sebiji limau bali yang sudah dikupas di sebelahnya. Satu keluarga membawa kerusi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Luruh yang tipikal dalam keluarga Cina Malaysia.

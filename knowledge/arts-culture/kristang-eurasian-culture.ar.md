@@ -32,7 +32,7 @@ faq:
     a: "الإنترودو (Intrudu) مهرجان مائي سنوي لمجتمع البرتغاليين في ملقا يُقام يوم الأحد الذي يسبق أربعاء الرماد (بداية موسم الصوم الكبير). ويرشّ السكان والزوار الماء بعضهم على بعض في أنحاء المستوطنة البرتغالية، ويصاحب الاحتفالَ رقصةُ البرانيو."
 
 lang: "ar"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Mela
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: قوس المدخل الأبيض على الطراز الاستعماري لميدان بورتوغيس أو الساحة البرتغالية في المستوطنة البرتغالية بملاكا، يحيط به مطاعم كريستانغ وردية بلافتات، تحت سماء زرقاء صافية مع برج حديث شاهق في الخلفية
+    kind: actual
+    origin: third-party
+    subject: مدخل ميدان بورتوغيس (الساحة البرتغالية) في المستوطنة البرتغالية بملاكا
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: قارب صيد نموذجي مزيّن لعيد القديس بطرس في المستوطنة البرتغالية بملاكا، أشرعته البيضاء العالية مرسوم عليها مشاهد دينية وصورة للقديس بطرس، مكسوّ بشباك الصيد بجانب الواجهة المائية، مع أشجار نخيل ومتفرجين في الخلفية
+    kind: actual
+    origin: third-party
+    subject: قارب صيد مزيّن مصنوع لعيد القديس بطرس (سان بيدرو) في المستوطنة البرتغالية، ملاكا
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 في أوجونغ باسير (Ujong Pasir) بملقا، توجد مستوطنة ساحلية يتبادل أهلها التحية بلغة ليست ملايوية، ولا إنجليزية، ولا حتى برتغالية حديثة — بل بقية حيّة من لسان الفاتحين الذين وصلوا قبل خمسة قرون. هذا هو عالم مجتمع الكريستانغ.

@@ -33,7 +33,7 @@ faq:
     a: "El papel de apoyo mutuo de las asociaciones contemporáneas ha cambiado mucho. Muchas ponen el énfasis en la concesión de becas y préstamos educativos, la preservación de los dialectos y la cultura tradicional, la organización de festividades y encuentros sociales y el bienestar comunitario; algunos templos de clan antiguos y los Embarcaderos de los Clanes se convirtieron en focos de turismo cultural y conservación arquitectónica tras la inscripción de George Town como Patrimonio Mundial. El grado de actividad y el énfasis de cada asociación difieren."
 
 lang: "es"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: La casa del clan Khoo Kongsi iluminada al atardecer para el Año Nuevo Chino, engalanada con farolillos rojos y marcos de luz resplandecientes mientras una multitud se reúne en el patio delantero
+    kind: actual
+    origin: third-party
+    subject: La casa del clan Khoo Kongsi iluminada y decorada con farolillos rojos para el Año Nuevo Chino de 2024, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: Vista hacia arriba del techo de la casa del clan Khoo Kongsi, que muestra vigas de teja de terracota, vigas pintadas y ménsulas talladas ricamente doradas
+    kind: actual
+    origin: third-party
+    subject: El techo de madera pintado y dorado de la casa del clan Khoo Kongsi, George Town, Penang
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 Al entrar en la zona que rodea el Fuerte Cornwallis, en George Town (Penang), entre las hileras de casas-tienda surge de pronto un templo de clan de aleros curvos, finamente tallados, y vigas pintadas: es el Leong San Tong Khoo Kongsi. Si uno sigue hacia el mar, encuentra hileras de casas de madera sobre pilotes que se adentran en el agua, cada aldea bautizada con un único apellido: el Embarcadero Chew, el Embarcadero Lim, el Embarcadero Tan. Estas construcciones no son templos ni meras viviendas, sino los restos materiales de una de las formas de organización más antiguas de la sociedad inmigrante china: las asociaciones de clan y de paisanaje.

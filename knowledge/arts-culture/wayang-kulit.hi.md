@@ -30,7 +30,7 @@ faq:
     a: "ज़्यादातर सांस्कृतिक उत्सवों, संग्रहालय एवं धरोहर कार्यक्रमों, और पर्यटन प्रदर्शनों में, न कि गाँव के मनोरंजन के रूप में। निर्धारित प्रदर्शनों को खोजने के लिए राष्ट्रीय संस्कृति एवं कला विभाग और राज्य सांस्कृतिक निकाय व्यावहारिक आरंभ-बिंदु हैं।"
 
 lang: "hi"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: नारंगी, हरे और बैंगनी रंग में एक अलंकृत उकेरी और चमकीली रँगी चमड़े की वायंग कुलित कठपुतली का निकट दृश्य, एक पतली बाँस की छड़ पर लगी हुई
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के केलंतान राज्य संग्रहालय में अपनी नियंत्रण-छड़ पर एक चमकीली रँगी केलंतान वायंग कुलित चमड़े की कठपुतली का निकट दृश्य
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: एक बुने-बाँस की झोपड़ी के प्रदर्शन के अंदर पारंपरिक ढोलों और एक सूचना-बोर्ड के सामने खड़ी दो रंगीन चमड़े की छाया-कठपुतलियाँ
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के केलंतान राज्य संग्रहालय में एक छप्पर वाली झोपड़ी के परिवेश में एक व्याख्यात्मक पैनल के साथ प्रदर्शित केलंतान वायंग कुलित कठपुतलियाँ और गमेलान ढोल
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 दीपक पहले जलाया जाता है। लकड़ी के ढाँचे पर कसकर तानी गई सफेद सूती परदे के पीछे, एक व्यक्ति पालथी मारकर बैठता है, उसके दोनों ओर पहुँच के भीतर चपटी चमड़े की कठपुतलियों का एक ढेर, उसके पीछे ढोल, गोंग और एक भेदक द्विजिह्वी सेरुनाई का एक छोटा वाद्यवृंद प्रतीक्षा में। वह रात भर उस स्थान से नहीं हटेगा। जब अब से कई घंटों बाद अंतिम छाया परदे को पार करेगी, तब तक वह राजाओं, राक्षसों, विदूषकों और राजकुमारियों को स्वर दे चुका होगा, दृश्यों के बीच के संक्रमणों का वर्णन कर चुका होगा, और हर वादक को संकेत दे चुका होगा — अकेले।

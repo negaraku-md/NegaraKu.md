@@ -32,7 +32,7 @@ faq:
   - q: "Are all Malaysian Hindu temples Murugan or Mariamman temples?"
     a: "Although the majority of temples are dedicated to Shiva, Murugan (Shaivism) or Amman/Mariamman (Shakti worship), they are not the only kind. There are also Vaishnava temples dedicated to Vishnu, temples of the Malayali and North Indian traditions, and Sikh gurdwaras in Malaysia. Architectural details also differ somewhat according to the tradition of worship."
 lang: "en"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: The colourful front of a South Indian Hindu temple with a sculpted tower over the entrance, flanked by large painted statues of Ganesha and a deity under gilded canopies, strung with festive triangular flag bunting against a clear blue sky
+    kind: actual
+    origin: third-party
+    subject: the front facade of the Sri Mahamariamman Temple in George Town, Penang, with its carved gopuram and entrance flanked by large statues of Ganesha and Murugan
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: An ornate colourful Hindu temple shrine topped with sculpted deities standing inside a vast limestone cavern, its sheer rock walls hung with trailing green plants and lit by daylight from above
+    kind: actual
+    origin: third-party
+    subject: an ornate colourful Hindu shrine tower inside the limestone Batu Caves temple near Kuala Lumpur, set against the towering cave walls draped in greenery
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 As you approach any part of a Malaysian town where a Tamil community has put down roots, a sculpture-covered tower reaching toward the sky catches the eye from a distance. That gateway tower, with its tiers of colourful deity figures, is no accident — it is the continuation of an architectural tradition a thousand years old; the mark of a cultural heritage that people of South Indian Tamil descent carried with them to Malaysia.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "ศิลปะรูปแบบนี้เชื่อมโยงกับประเพณีดิกีร์จากภาคใต้ของไทยที่ถูกปรับในกลันตันด้วยการเพิ่มปันตุนและภาษาถิ่นกลันตัน"
 appliesTo: "ผู้ที่ต้องการเข้าใจรูปแบบการแสดงดิกีร์บารัต บทบาทของตูกังการุตและตกจูอารา ตลอดจนโครงสร้างของคณะ"
 lang: "th"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: แถวนักแสดงดิกีร์บารัตที่นั่งอยู่ในชุดสีเขียวทองและเครื่องประดับศีรษะทรงสูงปรบมือพร้อมกันและยิ้มระหว่างการแสดงยามค่ำคืน โดยมีกลองมือเรอบานาวางอยู่บนพื้นเบื้องหน้า
+    kind: representative
+    origin: third-party
+    subject: แถวนักแสดงดิกีร์บารัตที่นั่ง (อาโวะ-อาโวะ) ปรบมือพร้อมกัน (ประเพณีมลายูร่วม เทศกาลชิงาย สิงคโปร์)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: นักร้องนำหญิงร้องเพลงผ่านไมโครโฟนขณะแถวนักแสดงนักเรียนที่นั่งในชุดสีดำพร้อมที่คาดศีรษะสีแดงปรบมือพร้อมกัน พร้อมกลองเรอบานาและฆ้อง ในห้องโถงโรงเรียนของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: กลุ่มดิกีร์บารัตโรงเรียนพร้อมนักร้องนำ คอรัสอาโวะ-อาโวะที่ปรบมือและเครื่องเพอร์คัชชัน ประเทศมาเลเซีย
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 สองคณะนั่งขัดสมาธิหันหน้าเข้าหากันบนเวที ไม่มีบท เมื่อคณะแรกโต้[ปันตุ](/th/arts-culture/pantun)นเสียดสีเรื่องราคาสินค้าขึ้นเสร็จ คณะที่สองมีเวลาเพียงไม่กี่วินาทีในการแต่งคำตอบ — และมันต้องมีสัมผัส ต้องได้จังหวะ และถ้าเป็นไปได้ ต้องคมกว่าปันตุนต้นฉบับ

@@ -34,7 +34,7 @@ faq:
     a: "பஞ்சாபி இன்னும் உயிர்ப்புடன் உள்ளது, ஆனால் மொழி மாற்றத்திற்கு (language shift) உட்பட்டுள்ளது: Kota Kinabalu-இல் உள்ள சீக்கிய சமூகம் குறித்த கல்வியியல் ஆய்வு, பெரும்பான்மையான குடும்பங்கள் இப்போது வீட்டில் ஆங்கிலத்தைப் பயன்படுத்துகின்றன என்பதைக் கண்டறிந்தது. மொழியைப் பாதுகாக்க, குருத்வாராக்கள் பஞ்சாபி வகுப்புகளை நடத்துகின்றன — எடுத்துக்காட்டாக Gurdwara Sahib Seremban-இல் உள்ள பஞ்சாபிக் கல்வி மையம் (Punjabi Education Centre) — இவை குழந்தைகளுக்கு Gurmukhi எழுத்தைக் கற்பிக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: குர்த்வாரா குரு நானக் தர்பார் தட் கல்சா திவான் சிலாங்கூரின் பிரகாசமான மஞ்சள்-வெள்ளை முக்கோண முகப்பு, நுழைவாயிலுக்கு மேலே சீக்கிய கண்டா சின்னம், கூரையில் காவி நிற நிஷான் சாஹிப் கொடிகள் மற்றும் வலதுபுறத்தில் ஒரு தங்க வெங்காய குவிமாடம், ஒரு சதுரங்க ஓட்டு முற்றம் வழியே காணப்படுகிறது
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சிலாங்கூர், ஷா ஆலத்தில் உள்ள சீக்கியக் கோயிலான குர்த்வாரா குரு நானக் தர்பார் தட் கல்சா திவான் சிலாங்கூர்
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: குர்த்வாரா சாஹிப் கூச்சிங்கின் உயரமான வெள்ளை பல-கோபுர முகப்பு, தங்க நுனி குவிமாடங்களும் மூலை மினாராக்களும், 'Gurdwara Sahib Kuching' என்று எழுதப்பட்ட மஞ்சள் பலகையை இருபுறமும் சூழும் சீக்கிய கண்டா சின்னங்கள், ஒரு மைய கம்பத்தில் பறக்கும் மலேசியா மற்றும் சரவாக் கொடிகள், நீல வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சரவாக், கூச்சிங்கில் உள்ள சரவாக் சீக்கியக் கோயில் சங்கத்தின் குர்த்வாராவான குர்த்வாரா சாஹிப் கூச்சிங்
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 19-ஆம் நூற்றாண்டு Tanah Melayu-இன் காவல் அணிகளிலும் பிரிட்டிஷ் கோட்டைகளிலும், தலைப்பாகை அணிந்து அடர்ந்த தாடி வைத்திருந்த அந்த அதிகாரிகளில் பலர் உள்ளூர்வாசிகள் அல்ல — அவர்கள் வடமேற்கு இந்தியாவின் Punjab-இலிருந்து ஆயிரக்கணக்கான மைல்கள் தொலைவிலிருந்து அழைத்துவரப்பட்ட சீக்கியர்கள். அந்தப் பாதுகாப்புக் கடமையிலிருந்துதான் மலேசியாவின் மிகச் சிறிய, ஆனால் உடனடியாக அடையாளம் காணக்கூடிய சிறுபான்மைச் சமூகங்களில் ஒன்று வளர்ந்தது.

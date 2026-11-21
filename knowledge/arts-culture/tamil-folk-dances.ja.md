@@ -32,7 +32,7 @@ faq:
   - q: "これらの舞踊は宗教的なものですか。"
     a: "いくつかの形式（カラガッタム、カヴァディ・アッタム、マイラッタム）は寺院の信仰の伝統に根ざしています。しかし今日では、その多くが社会的・文化的な催しで舞台芸術の形式としても演じられています。本稿は舞踊の形式を記述するのみであり、いかなる信仰の形も説明したり評価したりするものではありません。"
 lang: "ja"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: 本物の孔雀の羽根を扇状に広げた尾とくちばしの頭飾りを備えた華やかな孔雀の衣装を着た踊り手が、暗い背景を背に照らされている様子
+    kind: representative
+    origin: third-party
+    subject: 羽根の孔雀の衣装を着たマイラッタム（孔雀の踊り）の演者
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: 黄色い衣装と頭飾りを身につけた男性の民俗舞踊の踊り手が、腰の周りに鮮やかに彩色された張りぼての馬の枠をつけ、緑の野外の設定の中にいる様子
+    kind: representative
+    origin: third-party
+    subject: タミルの張りぼての馬の民俗舞踊、ポイッカル・クディライ・アッタム
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 寺院の祭りの日、タヴィルの打ち鳴らしとナーダスワラムの音色が通りを満たすなか、頭上に

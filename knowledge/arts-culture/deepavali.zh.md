@@ -30,7 +30,7 @@ faq:
     a: "这些灯——常被称为 diya 的小型陶土或金属灯——是「光明节」的视觉核心。一排排的灯在门口与窗边点亮，呼应了节日名称「一排灯火」的含义。"
 
 lang: "zh"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: 吉隆坡中央车站（KL Sentral）人来人往的大厅上方，悬挂着一排排鲜黄色的屠妖节装饰灯笼
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央车站悬挂的屠妖节灯笼与节庆人潮
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: 吉隆坡中央车站光洁的地面上，用彩色粉末铺出一幅巨大、色彩绚丽的孔雀图案康甘花地绘（kolam），迎接屠妖节
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央车站为屠妖节铺设的大型孔雀主题地绘（kolam）
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 这一晚，说话的是灯火。一排排小陶灯沿着门口与窗台摆放，门槛上铺着彩色米粒或粉末拼成的地板图案，一个小时前还漆黑一片的房子，如今被火光勾勒出轮廓。这正是这个节日名称的由来：*屠妖节（Deepavali）*一词源自梵文「一排或一系列灯火」。

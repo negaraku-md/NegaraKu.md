@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: பிரகாசமான நீல நிற உடையும் வெள்ளி கோயில் நகைகளும் அணிந்த ஒரு பெண் ஒடிசி நடனக் கலைஞர், கறுப்பு மேடைப் பின்னணிக்கு எதிராக அழகான பாணி நிலையை ஏந்தியுள்ளார்
+    kind: representative
+    origin: third-party
+    subject: நீல உடையிலும் வெள்ளி நகைகளிலும் அசைவின் நடுவே ஒரு ஒடிசி செம்மொழி நடனக் கலைஞர்
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: மஞ்சள் மற்றும் ஊதா நிற பட்டுப் புடவை அணிந்த ஒரு பெண், கர்நாடக பாணியில் அமர்ந்து வயலின் வாசித்து, மேடையில் ஒரு ஒலிவாங்கியை நோக்கிச் சாய்கிறார்
+    kind: representative
+    origin: third-party
+    subject: ஒரு செம்மொழி இசை நிகழ்ச்சியில் பட்டுப் புடவையில் வயலின் வாசிக்கும் கர்நாடக இசைக் கலைஞர்
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 மலேசியாவின் எந்தப் பெருநகரிலும் ஒரு தீபாவளி மாலையிலோ, கோயில் விழா நாளிலோ,

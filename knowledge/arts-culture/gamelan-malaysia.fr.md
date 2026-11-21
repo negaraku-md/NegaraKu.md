@@ -33,7 +33,7 @@ faq:
     a: "Le jeu de gamelan d'origine a été rendu au Pahang en 1973 et est exposé au Musée du Pahang, à Pekan."
 
 lang: "fr"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: Un ensemble complet de gamelan malais disposé sur un tapis à motifs, avec des gongs-bouilloires en bronze, des métallophones, un gong suspendu et un tambour sur des supports en bois sculpté
+    kind: actual
+    origin: third-party
+    subject: Ensemble complet de Gamelan Melayu disposé dans un centre malaisien des arts et du patrimoine
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: Un musicien en tunique orange agenouillé devant un métallophone saron rouge et or, frappant ses barres de bronze avec un maillet en bois
+    kind: representative
+    origin: third-party
+    subject: Musicien frappant un métallophone saron (gamelan indonésien, même famille d'instruments que le Gamelan Melayu)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 Le jeu de gamelan est passé d'une cour à l'autre non pas à la suite d'une vente ou d'une saisie — mais à la faveur d'un mariage. Lorsqu'une princesse rejoignait le palais de son époux, les instruments, les danseurs et les chants s'y rendaient avec elle. C'est ainsi que le gamelan est devenu la propriété des cours malaises.

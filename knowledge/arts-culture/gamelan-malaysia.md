@@ -84,6 +84,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: Satu set gamelan Melayu yang lengkap disusun di atas permaidani bercorak, dengan gong cerek gangsa, metalofon, gong gantung dan gendang di atas kaki kayu berukir
+    kind: actual
+    origin: third-party
+    subject: Set Gamelan Melayu lengkap disusun di sebuah pusat seni dan warisan Malaysia
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: Seorang pemuzik berbaju oren melutut di hadapan metalofon saron merah dan emas, memukul bilah gangsanya dengan pengetuk kayu
+    kind: representative
+    origin: third-party
+    subject: Pemuzik memukul metalofon saron (gamelan Indonesia, keluarga alat yang sama dengan Gamelan Melayu)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 Set gamelan itu berpindah dari satu istana ke satu istana yang lain bukan kerana jualan atau rampasan — tetapi kerana perkahwinan. Apabila seorang puteri berpindah ke mahligai suaminya, alat muzik, penari dan lagu-lagu turut berpindah bersamanya. Itulah cara gamelan menjadi milik istana Melayu.

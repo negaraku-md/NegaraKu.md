@@ -35,7 +35,7 @@ faq:
     a: "Non. Le baju kurung est une longue tunique ample qui dissimule la forme du corps, portée avec une étoffe nouée. La kebaya, en revanche, est un chemisier à ouverture frontale qui suit de plus près la forme du corps, fermé par un kerongsang (broche) ou des boutons, et associé à un sarong. La kebaya est généralement plus ajustée que le baju kurung."
 
 lang: "fr"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Har
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: Un grand rassemblement d'hommes malais assis lisant le Coran, chacun portant un baju Melayu d'une couleur différente et une calotte songkok en velours noir, emplissant la salle d'une mosquée au tapis rouge
+    kind: actual
+    origin: third-party
+    subject: des rangées d'hommes malais en baju Melayu colorés et songkok noir lors d'un rassemblement de prière pour un mariage royal dans le Selangor, en Malaisie
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: Un homme debout sur fond blanc portant un baju Melayu bleu roi à col mao, une calotte songkok en velours noir et un drapé de songket floral bleu brillant (samping) replié sur le pantalon
+    kind: actual
+    origin: third-party
+    subject: un homme présentant une tenue masculine complète de baju Melayu, une tunique bleu roi portée avec un songkok noir et un samping de songket, sur un fond de studio blanc
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 Observez un homme qui se prépare pour le Hari Raya ou pour un mariage. La chemise ample est déjà enfilée, le pantalon est ajusté, mais il n'a pas encore terminé. Il lui reste deux choses qui décident s'il a l'air entièrement habillé ou seulement à moitié : une pièce d'étoffe de samping nouée à la taille et un songkok sur la tête. Sans ces deux éléments, le baju Melayu n'est pas encore véritablement un baju Melayu.

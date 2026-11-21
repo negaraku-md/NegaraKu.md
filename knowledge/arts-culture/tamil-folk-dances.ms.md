@@ -32,7 +32,7 @@ faq:
   - q: "Adakah tarian ini berunsur agama?"
     a: "Sesetengah bentuk (Karagattam, Kavadi Aattam, Mayilattam) berakar umbi dalam tradisi pemujaan kuil; namun begitu, hari ini banyak daripadanya turut dipersembahkan sebagai satu bentuk seni pentas di acara sosio-budaya. Rencana ini hanya memerihalkan bentuk tarian; ia tidak menerangkan atau menilai sebarang bentuk pemujaan."
 lang: "ms"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: Penari memakai kostum burung merak yang berhias dengan ekor terkembang daripada bulu merak sebenar dan hiasan kepala berparuh, disinari dengan latar belakang gelap
+    kind: representative
+    origin: third-party
+    subject: Penari Mayilattam (tarian burung merak) berkostum merak berbulu
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: Penari rakyat lelaki berkostum kuning dan hiasan kepala memakai rangka kuda tiruan yang dicat terang di sekeliling pinggangnya, dalam suasana luar yang menghijau
+    kind: representative
+    origin: third-party
+    subject: Poikkal Kudirai Attam, tarian rakyat kuda tiruan Tamil
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 Pada hari festival kuil, ketika dentuman thavil dan bunyi nadaswaram memenuhi jalan,

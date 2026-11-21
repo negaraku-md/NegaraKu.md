@@ -32,7 +32,7 @@ faq:
     a: "Intrudu adalah pesta air tahunan masyarakat Portugis Melaka pada Minggu sebelum Rabu Abu (awal musim Prapaskah). Penduduk dan pengunjung saling menyiram air di sepanjang Perkampungan Portugis, dan perayaan itu diiringi tarian branyo."
 
 lang: "id"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Mela
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: Gerbang lengkung masuk bergaya kolonial putih Medan Portugis atau Portuguese Square di Perkampungan Portugis di Melaka, diapit restoran Kristang berwarna merah muda dan berpapan nama, di bawah langit biru cerah dengan gedung pencakar langit modern di latar belakang
+    kind: actual
+    origin: third-party
+    subject: pintu masuk Medan Portugis (Portuguese Square) di Perkampungan Portugis di Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: Perahu nelayan tiruan yang dihias untuk Perayaan Santo Petrus di Perkampungan Portugis di Melaka, layar putihnya yang tinggi dilukisi adegan keagamaan dan gambar Santo Petrus, diselubungi jala nelayan di tepi perairan, dengan pohon palem dan penonton di belakang
+    kind: actual
+    origin: third-party
+    subject: perahu nelayan berhias yang dibuat untuk Perayaan Santo Petrus (San Pedro) di Perkampungan Portugis, Melaka
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 Di Ujong Pasir, Melaka, ada sebuah perkampungan tepi laut tempat orang saling bertegur sapa dalam sebuah bahasa yang bukan Melayu, bukan Inggris, dan bukan pula Portugis modern — melainkan sisa hidup lidah para penakluk yang tiba lima abad lalu. Inilah dunia masyarakat Kristang.

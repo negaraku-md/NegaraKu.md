@@ -33,7 +33,7 @@ faq:
     a: "ครอบครัวคริสต์ถือปฏิบัติวันนี้ในเชิงศาสนาผ่านพิธีในโบสถ์ นอกเหนือจากนั้น คริสต์มาสมีการฉลองในวงกว้างขึ้นในชีวิตสาธารณะ — ห้างสรรพสินค้าและโรงแรมประดับตกแต่งและจัดลดราคาตามฤดูกาล และประเพณีเปิดบ้านของการต้อนรับแขกไม่ว่าจะภูมิหลังใดเพื่อรับประทานอาหารร่วมกันเป็นเรื่องปกติ การเข้าร่วมในด้านสังคมที่กว้างขึ้นของฤดูกาลนี้ไม่ได้จำกัดเฉพาะชาวคริสต์"
 
 lang: "th"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: การจัดแสดงคริสต์มาสธีมแคนดี้แลนด์อันวิจิตรที่ห้างสรรพสินค้าในกัวลาลัมเปอร์ พร้อมเวทีลายเกลียวลูกกวาดเปปเปอร์มินต์สีแดงขาว บ้านขนมปังขิง และแถวต้นคริสต์มาสประดับไฟเหนือฝูงชน
+    kind: actual
+    origin: third-party
+    subject: การจัดแสดงคริสต์มาสธีมแคนดี้แลนด์พร้อมบ้านขนมปังขิงและต้นไม้ประดับไฟที่ห้างในกัวลาลัมเปอร์
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: อาสนวิหารแองกลิกันเซนต์แมรี่ผนังสีขาวหลังคากระเบื้องสีแดงใจกลางกัวลาลัมเปอร์ พร้อมไม้กางเขนบนหน้าจั่วและธงมาเลเซียด้านหน้า มีตึกสำนักงานสมัยใหม่ตั้งตระหง่านอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: อาสนวิหารแองกลิกันเซนต์แมรี่ โบสถ์สีขาวประวัติศาสตร์ใจกลางกัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 ในเย็นวันที่ 24 ธันวาคม โบสถ์แห่งหนึ่งในโกตากินาบาลู (Kota Kinabalu) หรือกูจิง (Kuching) เต็มไปด้วยผู้คนสำหรับพิธีค่ำ ขณะที่ห่างออกไปไม่กี่ร้อยกิโลเมตรบนคาบสมุทร วันเดียวกันนั้นเป็นวันพฤหัสบดีทำงานปกติ เช้าวันรุ่งขึ้น 25 ธันวาคม ทั้งประเทศหยุดงาน การแยกกันนั้น — วันเดียวกัน สองสถานะที่ต่างกันมาก — เป็นวิธีที่ชัดเจนที่สุดในการเข้าใจว่าคริสต์มาสมีที่ทางอย่างไรในมาเลเซีย กล่าวคือ เทศกาลทางศาสนาสำหรับชุมชนหนึ่ง วันหยุดราชการสำหรับทุกคน และฤดูกาลของการเปิดประตูต้อนรับที่หลายคนเข้าร่วมโดยไม่คำนึงถึงศาสนา

@@ -33,7 +33,7 @@ faq:
     a: "金銀紙（紙銭）や紙細工の供物を焼くことは、先祖を供養する一般的なやり方で、あの世で使ってもらうために、お金や日用品を先祖に「送る」ことを意味します。紙銭や紙の衣服のほか、現代の紙細工には紙の家や紙の車もあります。火と煙を伴うため、一部の墓地や霊園は焼却区域を定めたり規則を設けたりしており、近年ではより環境に配慮したやり方に切り替える人もいます。"
 
 lang: "ja"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: 蒸した鶏の丸ごと・魚・焼き豚・箸を添えた白米の椀・茶の杯と急須が並べられた墓前の供物台と、瓢箪に立てられて石の祠の前で燃える赤い線香の束
+    kind: representative
+    origin: third-party
+    subject: 清明節の墓掃除の際に墓前に供えられた食べ物と燃える線香
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: 曇り空の下、マラッカのブキッ・チナの中国人墓地で、草の生えた墓塚と広がる木を背景に、金色の漢字が刻まれた花崗岩の墓柱の上に座る金箔を施した石の守護獅子
+    kind: actual
+    origin: third-party
+    subject: マレーシア、マラッカの中国人墓地（ブキッ・チナ）にある、中国の姓が刻まれた金箔の守護獅子の墓柱
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 四月初めのある朝、墓地の小道に家族連れの姿が現れはじめる。バケツと鎌を提げる者、料理や果物、紙銭を詰めた籠を手にする者。自家の墓を見つけると、若い者がまず雑草を取り除き落ち葉を掃き、年長者が墓石の色あせた文字を一画ずつ塗り直すよう指図する。墓がきれいになってはじめて供え物を並べ、線香をともして拝み、最後にそばの空き地で金銀紙を焼く。煙と炎のなかで、年に一度の清明はこうして過ぎてゆく。

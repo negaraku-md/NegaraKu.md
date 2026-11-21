@@ -34,7 +34,7 @@ faq:
     a: "يُستخدم في طقوس العبور في الحياة من الولادة إلى الموت، وفي المراسم المقدّسة وطقوس الشفاء، ويرتبط تقليديًا بتقليد المحاربين لدى الإيبان. كما تُحاك زخارفه في أُزُر النساء وخصار الرجال وأردية الشامان (العرّاف)."
 
 lang: "ar"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: مجسّم بالحجم الطبيعي لنسّاجة إيبانية طويلة الشعر تتكئ إلى الخلف على نول الظهر، تنسج قطعة بوا كومبو بنمط الإيكات بلونين صدئي-أحمر وكريمي تتفرّع خيوط السداة فيها نحو المشاهد
+    kind: actual
+    origin: third-party
+    subject: عرض متحفي لامرأة إيبانية تنسج بوا كومبو صدئي اللون على نول الظهر، متحف النسيج بكوتشينغ، ساراواك
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 قماش لا تجرؤ حائكته على إبداعه من دون «بركة» — يُقال إن نقوشه تأتي في الأحلام، وكان في زمن مضى موثوقًا وثيقًا بتقليد المحاربين لدى الشعب الذي صنعه. ذلك هو بوا كومبو.

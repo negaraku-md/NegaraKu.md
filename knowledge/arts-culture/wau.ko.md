@@ -35,7 +35,7 @@ verificationNeeded:
   - "말레이시아 연 협의회(Majlis Pelayang Malaysia)와 흔히 연결되는 「국가 와우」 목록(와우 불란, 와우 쿠칭, 와우 잘라 부디) — 공식 간행물을 찾지 못했습니다."
 
 lang: "ko"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: 와우 표면을 접사로 본 모습으로, 어두운 종이 바탕 위에 검게 윤곽을 두른 영롱한 청록색과 금박의 꽃과 잎 무늬를 손으로 오려 붙였고, 오른쪽 아래에는 자홍색 꽃이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 클란탄 와우의 정교한 오린 종이와 금박 꽃 장식 접사
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: 나무 작업장 안에서 분홍, 금, 청록 금박 무늬가 든 완성된 와우 몸체 여러 점이 팽팽한 줄을 맨 가느다란 대나무 연 골격 옆에 걸려 있고, 뒤쪽 탁자에는 제작자가 일부 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 연 장인의 작업장에 걸린 완성된 와우 몸체와 맨 대나무 와우 골격
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 와우를 보기 전에, 먼저 그 소리를 듣습니다. 제대로 만든 전통 와우는 공중에 떠 있는 내내 웅웅거리는데 — 바람 소리가 아니라, 그 구조 안에 일부러 심어 넣은 음(音)입니다.

@@ -20,7 +20,7 @@ appliesTo: "适用于马来西亚境内任何人——无论是否佛教徒—�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: 马来西亚卫塞节庆典上，一长排小灯笼挂在帐篷下，有青绿、青柠绿、粉红和白色，每盏都点着蜡烛、夹着一张写有祝福的粉色纸条，后方有访客走过
+    kind: actual
+    origin: third-party
+    subject: 马来西亚亚罗士打卫塞节庆典上，一排排信徒祈福许愿的彩色灯笼
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: 数以百计点亮的莲花形小烛灯整齐排列在铺着粉色和黄色布的桌上，一路延伸至一尊两侧摆花的小佛像前，帐篷内衬以蓝天彩绘背景
+    kind: actual
+    origin: third-party
+    subject: 马来西亚亚罗士打卫塞节上，一座供奉佛像、前方点亮数百盏莲花烛灯的礼佛供台
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 问卫塞节落在哪一天，答案并不固定——它会变动。2026年落在5月31日，2027年落在5月20日，2028年落在5月9日。原因很简单：卫塞节是依月相而定，不是依固定的日历日期，而阴历与西历每年都会彼此产生偏移。

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: 旧正月のイルミネーション期間中、夜に数千もの色とりどりの電飾と赤い提灯で輝くペナンの極楽寺
+    kind: actual
+    origin: third-party
+    subject: 旧正月のためにライトアップされたペナンの極楽寺
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: 旧正月の期間中、クアラルンプールのチャイナタウンの店舗兼住宅の前で、柱の上でバランスを取りながら演じられる白と銀の獅子舞の衣装
+    kind: actual
+    origin: third-party
+    subject: 旧正月にクアラルンプールのチャイナタウンで柱の上で演じられる獅子舞
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 大晦日には、多くの店が早めに店じまいし、高速道路は帰省の車で埋め尽くされる。夜になると、一家は食卓を囲む——魚（年年有余、「年々余りあるように」の意）、丸鶏一羽、団欒を意味する肉団子、そして箸で高く掲げて食べる冷菜のイーサンが並ぶ。この大晦日の団欒の夕食を、正月一日そのものより重んじる家庭も少なくない。

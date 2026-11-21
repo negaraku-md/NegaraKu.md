@@ -32,7 +32,7 @@ faq:
   - q: "Le mariage doit-il recourir à la couleur rouge et à un jour faste ? Quels sont les interdits ?"
     a: "La couleur rouge et le caractère de la « double félicité » (囍) sont la couleur et le symbole festifs les plus représentatifs du mariage chinois, présents sur les faire-part, les présents, le lit nuptial et la décoration ; pour le mariage, on choisit aussi d'ordinaire un « jour faste ». Parmi les usages courants : préférer les nombres pairs pour l'argent et les présents, éviter les chiffres dont la prononciation est néfaste, et le fait que les femmes enceintes ou les personnes en deuil se tiennent parfois à l'écart de certaines étapes. La rigueur avec laquelle ces interdits sont observés varie toutefois selon la croyance de la famille et le groupe dialectal, et de nombreuses familles n'en conservent qu'une partie et simplifient le reste."
 lang: "fr"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: Un service à thé de mariage chinois rouge brillant sur un plateau rouge, une théière décorée d'un caractère doré de double bonheur et cinq petites tasses à thé rouges assorties disposées autour, utilisés par les mariés pour servir le thé à leurs aînés
+    kind: representative
+    origin: third-party
+    subject: une théière et des tasses rouge et or au double bonheur utilisées lors de la cérémonie du thé du mariage chinois
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: Un haut panier à cadeaux de mariage à étages en laque noire bakul siah finement décoré de personnages, de fleurs, d'oiseaux et de poissons dorés à chaque niveau, utilisé pour porter les cadeaux symboliques de fiançailles entre les deux familles, présenté dans une vitrine de musée
+    kind: representative
+    origin: third-party
+    subject: un bakul siah, le panier à étages en laque utilisé pour porter les cadeaux de fiançailles entre familles lors d'un mariage sino-détroitien
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 Le jour n'est pas encore tout à fait levé qu'une file de voitures s'est déjà arrêtée devant la maison de la mariée. Le marié porte un bouquet, suivi de quelques « frères », mais quelques « sœurs » qui passent la tête par la porte lui barrent le chemin : réponds d'abord aux questions, puis chante un couplet, mange quelques tranches de citron vert coupées très fines et, pour finir, glisse quelques enveloppes rouges par l'entrebâillement de la porte — ce n'est qu'une fois franchie cette épreuve du « forçage de la porte » (chuang men) que la porte s'ouvre et que le marié peut voir la mariée, tout de rouge vêtue. Une matinée de la sorte, pleine de taquineries et d'animation, c'est l'ouverture de la journée pour bien des mariages chinois en Malaisie.

@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: ワウの表面をマクロ撮影した画像。暗い紙地に黒で縁取られた、玉虫色のターコイズと金箔で手切りされた花と葉の模様が施され、右下にはマゼンタの花が描かれている
+    kind: actual
+    origin: third-party
+    subject: クランタンのワウに施された精巧な切り紙と金箔の花飾りのクローズアップ
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: 木造の工房の中で、ピンク・金・ティールの箔模様が施された完成したワウのパネルがいくつか、ぴんと張った紐を通した細い竹の凧の骨組みの隣に吊るされ、背景のテーブルには作り手が部分的に見えている様子
+    kind: actual
+    origin: third-party
+    subject: 凧職人の工房にある完成したワウの本体と、竹だけのワウの骨組み
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 ワウ（wau）を目にする前に、まずその音が聞こえてくる。正しく作られた伝統的なワウは、空中にある間ずっと唸り続ける——それは風の音ではなく、意図的にその構造に組み込まれた音である。

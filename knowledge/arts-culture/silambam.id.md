@@ -29,7 +29,7 @@ faq:
   - q: "Apakah silambam diakui sebagai olahraga di Malaysia?"
     a: "Silambam diselenggarakan di Malaysia baik sebagai seni bela diri maupun sebagai olahraga kompetisi; kompetisi nasional, kejuaraan internasional, serta keikutsertaan dalam Sukan Malaysia (SUKMA) pada tahun-tahun tertentu semuanya pernah berlangsung. Namun, perkumpulan-perkumpulan dan status administrasi olahraga ini dapat berubah dari waktu ke waktu; pastikan kedudukan terkini dengan sumber resmi."
 lang: "id"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: Wanita bersari merah merendahkan badan dalam kuda-kuda bertarung rendah, memegang pedang melengkung di satu tangan dan perisai logam bulat di tangan lainnya
+    kind: representative
+    origin: third-party
+    subject: Jurus pedang-dan-perisai Silambam (vaal dan kedaiyam), variasi bersenjata dari seni bela diri Tamil
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: Papan pajangan yang dipasang di dinding ditata dengan senjata-senjata Silambam, termasuk tongkat panjang, pedang melengkung, perisai bulat dan belati
+    kind: representative
+    origin: third-party
+    subject: Papan pajangan senjata Silambam, termasuk tongkat, pedang, perisai dan belati
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
 ---
 
 Di sebuah perayaan kuil atau acara [Tahun Baru Tamil](/id/arts-culture/tamil-new-year) di Malaysia, Anda mungkin melihat seorang pemuda memutar tongkat bambu panjang di atas kepala dan mengelilingi tubuhnya secepat kilat, mengikuti irama gendang. Putaran itu bukan sekadar untuk tontonan — ia adalah lambang silambam, seni bela diri Tamil yang berusia lebih dari seribu lima ratus tahun.

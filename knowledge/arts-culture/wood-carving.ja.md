@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: 金の葉模様を彫り抜いて透かし彫りにした背の高い金箔の天蓋を備えた華やかな木造モスクのミンバルが、緑の礼拝用絨毯の上の赤と金の彫刻を施した階段の上にそびえている様子
+    kind: actual
+    origin: third-party
+    subject: マレーシア、マラッカのトゥンケラ（トランケラ）モスクの、金箔を施した精巧に彫刻された木造のミンバル（説教壇）
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: 茶色の板張りの伝統的なマレーの家屋の屋根の下、木造の軒板に沿って走る炎のような葉模様の透かし彫りの帯。緑の葉と空に縁取られている
+    kind: actual
+    origin: third-party
+    subject: スランゴール州フル・ランガットの伝統的なマレーの木造家屋の屋根線を飾る、彫刻の施された透かし彫りの軒板（パパン・クラワン）
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 古いマレー家屋の窓にある木製パネルをよく見て、文様がどこから始まっているのか探してみてほしい。見つからないはずだ。それはあなたの目のせいではない——もとよりそう設計されているのである。

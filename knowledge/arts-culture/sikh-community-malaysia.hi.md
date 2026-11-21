@@ -34,7 +34,7 @@ faq:
     a: "पंजाबी अब भी जीवित है लेकिन भाषा-परिवर्तन से गुज़र रही है: कोटा किनाबालु में सिख समुदाय पर किए गए अकादमिक शोध में पाया गया कि अब अधिकांश परिवार घर में अंग्रेज़ी का उपयोग करते हैं। भाषा को संरक्षित करने के लिए, गुरुद्वारे पंजाबी कक्षाएँ चलाते हैं — उदाहरण के लिए गुरुद्वारा साहिब सेरेम्बान का पंजाबी शिक्षा केंद्र — जो बच्चों को गुरमुखी लिपि सिखाती हैं।"
 
 lang: "hi"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: गुरुद्वारा गुरु नानक दरबार तत्त खालसा दीवान सेलांगोर का चमकीला पीला और सफ़ेद गैबल अग्रभाग, प्रवेश-द्वार के ऊपर सिख खंडा प्रतीक, छत पर केसरिया निशान साहिब झंडे और दाईं ओर एक सुनहरा प्याज़-गुंबद, एक चेकदार टाइल वाले आँगन के पार देखा गया
+    kind: actual
+    origin: third-party
+    subject: गुरुद्वारा गुरु नानक दरबार तत्त खालसा दीवान सेलांगोर, मलेशिया के सेलांगोर के शाह आलम में एक सिख मंदिर
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: गुरुद्वारा साहिब कुचिंग का ऊँचा सफ़ेद बहु-मीनार अग्रभाग जिसमें सुनहरी-शिखर वाले गुंबद और कोने की मीनारें हैं, Gurdwara Sahib Kuching लिखे एक पीले साइनबोर्ड के दोनों ओर सिख खंडा प्रतीक, एक केंद्रीय खंभे से फहराते मलेशियाई और सरवाक झंडे, एक नीले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: गुरुद्वारा साहिब कुचिंग, मलेशिया के सरवाक के कुचिंग में सरवाक सिख टेंपल एसोसिएशन का गुरुद्वारा
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 उन्नीसवीं सदी के मलाया की पुलिस की पंक्तियों और ब्रिटिश किलों में, पगड़ी और घनी दाढ़ी वाले उन अधिकारियों में से कई स्थानीय नहीं थे — वे सिख थे जिन्हें उत्तर-पश्चिमी भारत के पंजाब से हज़ारों मील दूर लाया गया था। सुरक्षा बनाए रखने के उस कर्तव्य से मलेशिया के सबसे छोटे किंतु सबसे तुरंत पहचाने जाने वाले अल्पसंख्यक समुदायों में से एक का उदय हुआ।

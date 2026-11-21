@@ -34,7 +34,7 @@ faq:
     a: "Kain ini digunakan dalam ritus peralihan hidup dari kelahiran hingga kematian, dalam upacara keramat dan ritual penyembuhan, serta secara tradisi terkait dengan tradisi kepahlawanan Iban. Motifnya juga ditenun menjadi kain sarung perempuan, cawat laki-laki, dan jubah pawang."
 
 lang: "id"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: Patung seukuran manusia seorang penenun Iban berambut panjang bersandar pada alat tenun gendong, mengerjakan pua kumbu ikat berwarna merah karat dan krem yang benang lungsinya mengembang ke arah penonton
+    kind: actual
+    origin: third-party
+    subject: pajangan museum seorang wanita Iban menenun pua kumbu berwarna merah karat di atas alat tenun gendong, Muzium Tekstil Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 Sehelai kain yang penenunnya tidak berani menciptakannya tanpa "restu" — coraknya konon datang dalam mimpi, dan pada suatu masa dahulu ia terikat erat dengan tradisi kepahlawanan masyarakat yang menghasilkannya. Itulah pua kumbu.

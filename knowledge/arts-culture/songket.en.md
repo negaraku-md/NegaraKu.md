@@ -33,7 +33,7 @@ faq:
     a: "Traditionally, women. UNESCO records that songket weaving has always been in the hands of women, while men take part in the practice by making the weaving equipment. The knowledge is passed down within families and villages, and some institutions also offer training programmes."
 
 lang: "en"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: A complete rectangular songket cloth displayed flat, two red side panels of gold-thread floral motifs flanking a lighter gold central panel
+    kind: actual
+    origin: third-party
+    subject: a full Malaysian songket hip-wrapper (kain) from Terengganu laid flat, showing the gold-brocade field and central head panel
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: A folded triangular Malay headdress (tanjak) made of green-gold songket cloth that shimmers with woven metallic thread, displayed on a stand
+    kind: actual
+    origin: third-party
+    subject: a tanjak, a folded Malay headdress made from gold songket cloth, from Terengganu
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 The sound most often heard in a songket workshop is not the sound of a machine. It is wood being pressed, thread being pulled, and a bamboo pick being slid in and drawn out — over and over, one row of pattern at a time, all day long.

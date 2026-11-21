@@ -32,7 +32,7 @@ faq:
   - q: "Ces danses ont-elles un caractère religieux ?"
     a: "Certaines formes (Karagattam, Kavadi Aattam, Mayilattam) plongent leurs racines dans les traditions de culte de temple ; cependant, beaucoup sont aussi exécutées aujourd'hui comme une forme d'art scénique lors d'événements socioculturels. Cet article ne fait que décrire les formes de danse ; il n'explique ni n'évalue aucune forme de culte."
 lang: "fr"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: Danseur portant un costume de paon orné avec une queue déployée de vraies plumes de paon et une coiffe à bec, éclairé sur un fond sombre
+    kind: representative
+    origin: third-party
+    subject: Interprète de mayilattam (danse du paon) en costume de paon à plumes
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: Danseur folklorique masculin en costume et coiffe jaunes portant autour de la taille une armature de cheval factice aux couleurs vives, dans un décor extérieur verdoyant
+    kind: representative
+    origin: third-party
+    subject: Poikkal Kudirai Attam, la danse folklorique tamoule du cheval factice
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 Un jour de fête de temple, lorsque le martèlement du thavil et le son du nadaswaram

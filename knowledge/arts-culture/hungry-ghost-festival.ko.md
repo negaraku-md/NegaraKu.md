@@ -33,7 +33,7 @@ faq:
     a: "'함표'(복물 입찰)는 우란승회 회식 후 흔히 볼 수 있는 순서입니다. 주최 측은 제단에 놓인 상서로운 제물 — 과일, 쌀, 음료, 그리고 '오금(烏金)'이라 불리는 숯 등 '복물' — 을 하나씩 공개로 경매에 부치고, 가장 높은 값을 부른 이가 각 품목을 '낙찰'받습니다. 수익은 대개 행사 비용에 충당되고 중국어 학교 등 공익에 기부되므로, 말레이시아의 중원절은 공동체의 상호부조와 자선의 색채도 짙게 띱니다."
 
 lang: "ko"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: 말레이시아의 중원절(굶주린 귀신 축제) 기간, 타오르는 향, 과일, 향로가 놓인 제단 위로 솟아오른 푸른 도포를 걸친 거대한 대사야 신 종이 조형물
+    kind: actual
+    origin: third-party
+    subject: 케다주 알로르스타르의 도무궁 사원에서 제물 제단 위에 세워진 거대한 대사야(Tai Su Yeah) 수호신 조형물
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: 중원절을 맞아 제물로 차려 놓은, 불붙은 붉은 향이 하나씩 꽂힌 밥, 요리, 과일, 음료가 담긴 쟁반들이 풀밭 위에 놓인 모습
+    kind: representative
+    origin: third-party
+    subject: 음력 7월 중원절에 떠도는 영혼들을 위해 향을 꽂아 길가에 차려 놓은 음식 제물
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 음력 칠월에 접어들면, 페낭, 클랑, 조호르의 적지 않은 길모퉁이의 밤 풍경이 슬그머니 달라집니다. 길가에 작은 상이 차려지고, 그 위에는 과일, 밥, 찻물과 겹겹이 쌓인 금은지가 놓이며, 향과 촛불이 땅거미 속에서 깜박입니다. 동네 공터에는 높이 수 미터의 위엄 어린 얼굴을 한 종이 신상이 세워지고, 그 맞은편에 무대가 설치됩니다. 밤이 되면 조명이 환히 켜지고 노랫소리가 울려 퍼지지만 — 무대 아래 맨 앞줄 의자는 한 줄 통째로 내내 비어 있습니다.

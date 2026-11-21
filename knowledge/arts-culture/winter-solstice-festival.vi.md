@@ -33,7 +33,7 @@ faq:
     a: "Không nhất thiết. Một số gia đình trước tiên dâng thang viên cúng tổ tiên hoặc thần linh rồi cả nhà mới cùng ăn; cũng có nhiều gia đình chỉ coi Đông chí là ngày ăn thang viên và sum họp, không cúng bái gì. Những phong tục như cúng tổ tiên, cúng thần khác nhau tùy theo tín ngưỡng và thói quen của mỗi gia đình. Bài viết này chỉ mô tả bản thân các phong tục, và không đưa ra phán xét về bất kỳ tín ngưỡng tôn giáo nào."
 
 lang: "vi"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_y
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: Cận cảnh một bát những viên bánh trôi nếp bóng loáng, trong mờ màu trắng, tím nhạt và xanh ngọc lục bập bềnh trong nước đường trong ngọt
+    kind: representative
+    origin: third-party
+    subject: Cận cảnh những viên bánh trôi (tang yuan) vỏ trong như pha lê màu trắng, tím và xanh lục nổi trong một bát nước đường
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: Nhìn từ trên xuống bốn viên bánh trôi nếp màu tím căng tròn trong nước đường nóng trong một chiếc bát viền xanh, hơi nước bốc lên
+    kind: representative
+    origin: third-party
+    subject: Một bát bánh trôi nếp màu tím trong nước đường nóng, nhìn từ trên xuống với hơi nước bốc lên
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 Một buổi chiều cuối tháng 12, trong bếp hương bột nếp quyện với vị ngọt của nước gừng. Cả nhà quây quần bên bàn, nặn từng cục bột nếp nhỏ thành viên — có viên trắng, có viên nhuộm hồng, xanh non. Những viên trong tay lũ trẻ to nhỏ khác nhau, người lớn vừa nặn vừa nói: ăn thang viên xong là lại thêm một tuổi. Ngày này chính là Đông chí.

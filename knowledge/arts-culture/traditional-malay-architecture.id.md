@@ -27,7 +27,7 @@ faq:
     a: "Rumah Melayu lazimnya menampung satu keluarga, sedangkan rumah panjang (rumah panjang) menampung banyak keluarga dalam satu bangunan memanjang — setiap keluarga memiliki bilik (bilek) sendiri, berbagi galeri komunal bernama ruai."
 
 lang: "id"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: Rumah kampung dari kayu berwarna cokelat tua yang berdiri di atas tiang-tiang kayu, dengan atap pelana curam, cucuran atap bergigi berukir, dinding kayu berpanel dan tangga luar menuju ke beranda, dibingkai dedaunan hijau
+    kind: actual
+    origin: third-party
+    subject: rumah panggung Melayu tradisional dari kayu (rumah Melayu) dengan atap pelana curam, papan cucuran berukir dan beranda tinggi yang dicapai dengan tangga kayu
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: Istana Melayu panjang dari kayu yang berdiri tinggi dengan atap bergaya Minangkabau yang melengkung ke atas hingga runcing, dinding kayu gelap berpanel dengan jendela berkisi, berdiri di atas tiang-tiang berukir di samping papan nama bertuliskan Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: istana kayu Negeri Sembilan Istana Ampang Tinggi dengan atap pelana bergaya tanduk kerbau Minangkabau yang melengkung ke atas
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Angkat sebuah rumah kampung tua, bongkar sambungannya, dan pasang kembali di lokasi baru — sebagian besar tanpa fondasi beton yang tetap. Itulah kebijaksanaan arsitektur Melayu tradisional: sebuah rumah yang "membaca" iklim tropis sebelum adanya pendingin udara.

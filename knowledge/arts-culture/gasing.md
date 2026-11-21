@@ -69,6 +69,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malay
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: Dua biji gasing kayu yang baru dilarik berwarna pucat dengan badan cakera leper klasik dan tombol tengah yang menonjol, terletak di atas lapik tatal kayu di sebelah pemegang pelancar silindernya yang licin dalam cahaya matahari hangat
+    kind: actual
+    origin: third-party
+    subject: dua biji gasing bergaya Melayu yang baru dilarik bersama pasak pelancarnya
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: Seorang budak lelaki berpakaian sukan oren mencondongkan badan ke hadapan sambil melontar gasing daripada tali putih yang panjang ke atas papan kayu, sebiji gasing yang telah dipusing sudah berada di atas papan sementara sekumpulan penonton memerhati rapat di belakangnya
+    kind: representative
+    origin: third-party
+    subject: seorang peserta muda melancarkan gasing dengan talinya pada pertandingan gasing tradisional
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 Bunyinya dahulu yang sampai — hentakan kayu berat melanggar kayu berat, disusuli sorakan. Di sebuah padang kampung sekitar Kuala Nerus, Terengganu, dua kumpulan berdiri bersemuka. Seorang melemparkan gasingnya dengan tali; sebiji lagi sudah berpusing menunggu di tanah. Yang menang bukan yang terpantas — tetapi yang gasingnya masih berpusing selepas dilanggar.

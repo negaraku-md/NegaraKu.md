@@ -32,7 +32,7 @@ faq:
   - q: Bagaimanakah muzik ini dikekalkan di Malaysia?
     a: "Pemuzik kuil, kumpulan nadaswaram–thavil, dan banyak kumpulan urumi melam meneruskan tradisi ini. Golongan muda mula belajar sejak kecil; banyak kumpulan membelanjakan pendapatan mereka untuk pakaian seragam, alat muzik dan jamuan kumpulan, beroperasi sebagai perkhidmatan tanpa untung. Hari ini tradisi ini turut berkumandang di luar kuil pada majlis perayaan dan majlis sambutan."
 lang: "ms"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: Di sebuah kuil Hindu, seorang lelaki yang duduk memainkan nadaswaram iaitu seruling tiup yang panjang manakala seorang lagi memainkan thavil iaitu gendang tong mendatar
+    kind: representative
+    origin: third-party
+    subject: Pemain nadaswaram dan thavil membuat persembahan di Kuil Hindu Sri Mariamman, Singapura
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: Seorang lelaki muda memegang alat tiup nadaswaram dengan corong mengembang di sebelah seorang lagi lelaki yang mendukung gendang tong thavil bulat yang bertali kuning
+    kind: representative
+    origin: third-party
+    subject: Pemain nadaswaram berpasangan dengan pemain gendang tong thavil, duo muzik kuil India Selatan yang lazim
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 Di barisan hadapan perarakan Thaipusam, pada saat sebuah rata kuil mula bergerak,

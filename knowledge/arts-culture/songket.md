@@ -84,6 +84,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: Sehelai kain songket segi empat tepat yang lengkap dipamerkan secara mendatar, dua panel sisi merah bermotif bunga benang emas mengapit panel tengah berwarna emas yang lebih cerah
+    kind: actual
+    origin: third-party
+    subject: sehelai kain songket lengkap dari Terengganu dibentang mendatar, menunjukkan bidang brokat emas dan panel kepala kain di tengah
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: Tanjak, iaitu hiasan kepala Melayu berbentuk segi tiga yang dilipat, diperbuat daripada kain songket hijau keemasan yang bergemerlapan dengan benang logam tenunan, dipamerkan di atas pelapik
+    kind: actual
+    origin: third-party
+    subject: sebuah tanjak, hiasan kepala Melayu yang dilipat diperbuat daripada kain songket emas, dari Terengganu
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 Bunyi yang paling banyak didengar di bengkel songket bukanlah bunyi mesin. Ia bunyi kayu ditekan, benang ditarik, dan sebatang lidi buluh diselit masuk lalu ditarik keluar — berulang-ulang, satu baris corak pada satu masa, sepanjang hari.

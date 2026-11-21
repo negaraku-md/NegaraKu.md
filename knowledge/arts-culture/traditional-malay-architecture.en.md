@@ -27,7 +27,7 @@ faq:
     a: "A Malay house typically houses a single family, whereas a longhouse (rumah panjang) houses many families within one elongated structure — each family owning its own room (bilek), shared with a communal gallery called the ruai."
 
 lang: "en"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: A dark-brown timber kampung house raised on wooden stilts, with a steep gable roof, carved scalloped eaves, panelled wooden walls and an external staircase leading up to a verandah, framed by green foliage
+    kind: actual
+    origin: third-party
+    subject: a traditional timber Malay stilt house (rumah Melayu) with a steep gable roof, carved fascia boards and a raised verandah reached by wooden steps
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: A long raised timber Malay palace with sweeping upswept Minangkabau-style roofs curving to sharp points, panelled dark-wood walls with latticed windows, standing on carved posts beside a signboard reading Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: the Negeri Sembilan timber palace Istana Ampang Tinggi with sweeping upswept Minangkabau buffalo-horn gable roofs
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Lift up an old kampung house, take apart its joints, and reassemble it on a new site — largely without any fixed concrete foundation. That is the wisdom of traditional Malay architecture: a house that "reads" the tropical climate long before air conditioning existed.

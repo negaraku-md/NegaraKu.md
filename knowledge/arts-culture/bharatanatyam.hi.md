@@ -32,7 +32,7 @@ seoTitle: "मलेशिया में भरतनाट्यम: शा�
 socialTitle: "दक्षिण भारत के शास्त्रीय नृत्य ने मलेशिया में कैसे जड़ें जमाईं"
 
 lang: "hi"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_fo
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: गुलाबी-और-सुनहरी रेशमी पोशाक, पायल और मंदिर के आभूषण पहने एक युवा भरतनाट्यम नर्तकी एक पैर पर संतुलन बनाए हुए है, दोनों हाथ अपने सिर के पास कैंची-जैसी मुद्राओं में उठाए हुए, एक सादे गहरे मंच के सामने मुस्कुराती हुई।
+    kind: representative
+    origin: third-party
+    subject: एक पैर पर खड़ी और दोनों हाथ अपने सिर के पास मुद्रा में किए एक युवा भरतनाट्यम नर्तकी
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: काले ब्लाउज़ और लाल-और-सुनहरे रेशमी परिधान में एक भरतनाट्यम नर्तकी एक कदम के बीच घूमती है, एक बाँह सिर के ऊपर ऊँची घुमाई हुई और दूसरी अपने शरीर के आर-पार इशारा करती हुई, उसकी चुन्नटदार स्कर्ट एक काली पृष्ठभूमि के सामने फैली हुई।
+    kind: representative
+    origin: third-party
+    subject: एक हाथ उठाए और स्कर्ट घूमती हुई, घुमाव के बीच पकड़ी गई भरतनाट्यम नर्तकी
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 एक नर्तकी के पैर एक तीव्र, सटीक पैटर्न में फ़र्श पर प्रहार करते हैं। घंटियाँ mridangam ढोल की थाप के साथ ताल में बजती हैं। उसके हाथ एक आकार बनाते हैं — एक हिरण, एक कमल, एक प्रश्न — और उसकी आँखें उसका अनुसरण करती हैं, इससे पहले कि उसका चेहरा एक ऐसे भाव से उत्तर दे जिसे दर्शक केवल देखें नहीं, बल्कि महसूस करें। फिर लय का समाधान होता है, वह एक मूर्तिवत मुद्रा धारण करती है, और संगीत मौन में गिर जाता है।

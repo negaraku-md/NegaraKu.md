@@ -30,7 +30,7 @@ faq:
     a: "JKKN பதிவு செய்த வகைகளில் Ngajat Lesong (ஆண்கள் மரத்தாலான உரலை (lesung kayu) பல்லால் கவ்விக்கொண்டு ஆடுவது), Ngajat Indu (பெண்கள் pua kumbu நெசவு அசைவுகளுடன் ஆடுவது), Ngajat Pua Kumbu (pua kumbu துணியைப் பயன்படுத்துவது) மற்றும் Gawai Dayak கொண்டாட்டத்தின் முடிவைக் குறிக்கும் Ngajat Ngiling Tikai ஆகியவை அடங்கும்."
 
 lang: "ta"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: உயரமான வெள்ளி சூகு திங்கி தலைக்கவசமும், நாணயங்கள் பதித்த கறுப்பு இடுப்புக் கச்சையும் அணிந்த ஒரு இளம் இபான் பெண், இருண்ட நீல மேடைக்கு எதிராக ஆரஞ்சு குஞ்சம் கொண்ட மணி கழுத்தணியால் சூழப்பட்டு, இரு கைகளையும் கன்னத்திற்கு அருகே நுட்பமான முத்திரையில் வைத்திருக்கிறார்.
+    kind: actual
+    origin: third-party
+    subject: போர்னியோ, மலேசியா, சரவாக் கலாசார கிராமத்தில் முழு சம்பிரதாய அலங்காரத்தில் ஒரு இபான் பெண் நடனக் கலைஞர்
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: வெள்ளி மகுடத் தலைக்கவசங்கள், சிவப்பு மணி மேற்சட்டைகள் மற்றும் நாணயக் குஞ்சம் கொண்ட பாவாடைகள் அணிந்த இபான் பெண் நடனக் கலைஞர்களின் வரிசை, ஒவ்வொருவரும் ஒரு சிறிய சிவப்புத் துணியை ஏந்தி, பிரகாசமாக ஒளிரும் விழா மேடையில் ஒருங்கிணைந்து அசைகின்றனர்; முன்புறத்தில் நிழலாகப் பார்வையாளர்கள்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, ஒரு விழா மேடையில் சாயாவ் ஙாஜாத் நடனம் நிகழ்த்தும் இபான் பெண் நடனக் கலைஞர்கள் குழு
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 சரவாக்கில் (Sarawak) ஒரு நீள்வீட்டின் (rumah panjang) கூடத்தில், தலையில் இணுங்கு (enggang) இறகுகளை அணிந்த ஒருவன் தாவி, சுழன்று, தரையை மிதிக்கிறான் — ஒரு கையில் வாள், மற்றொரு கையில் கேடயம். இதுவே **Ngajat** — முன்பு போர்க்களத்திலிருந்து திரும்பும் போர்வீரர்களை வரவேற்ற நடனம்.

@@ -33,7 +33,7 @@ faq:
     a: "समकालीन संघों की पारस्परिक सहायता की भूमिका बहुत बदल गई है। कई संघ छात्रवृत्ति व शिक्षा-ऋण देने, बोलियों और पारंपरिक संस्कृति के संरक्षण, त्योहार व मेल-मिलाप के आयोजन, तथा सामुदायिक कल्याण पर बल देते हैं; कुछ पुराने कुल-मंदिर और कुल-घाट जॉर्ज टाउन के विश्व धरोहर स्थल बनने के बाद सांस्कृतिक पर्यटन और स्थापत्य संरक्षण का केंद्र बन गए। प्रत्येक संघ की सक्रियता का स्तर और बल अलग-अलग होता है।"
 
 lang: "hi"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: चीनी नववर्ष के लिए सांझ के समय जगमगाता खू कोंग्सी कुलघर, लाल लालटेनों और चमकते प्रकाश-ढाँचों से सजा हुआ जबकि आँगन में एक भीड़ जमा होती है
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में चीनी नववर्ष 2024 के लिए रोशन और लाल लालटेनों से सजा खू कोंग्सी कुलघर
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: खू कोंग्सी कुलघर की छत का ऊपर की ओर दृश्य, जिसमें टेराकोटा टाइल वाले कड़ियाँ, चित्रित धरनें और समृद्ध सुनहरी उकेरी कोष्ठक दिख रहे हैं
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में खू कोंग्सी कुलघर की चित्रित और सुनहरी लकड़ी की छत
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 पीनांग के जॉर्ज टाउन में फोर्ट कॉर्नवॉलिस के इर्द-गिर्द के इलाके में घुसते ही, दुकान-मकानों (शॉपहाउस) की कतारों के बीच अचानक एक कुल-मंदिर दिखाई देता है, जिसकी छज्जे ऊपर को मुड़े हैं और उन पर बारीक नक्काशी तथा रंगीन चित्रकारी है — यही लिओंग सान तोंग खू कोंगसी है। समुद्र की ओर और आगे बढ़ने पर, लकड़ी के खंभों पर टिके, पानी के ऊपर फैले लकड़ी के मकानों की बस्तियाँ कतार में मिलती हैं, हर बस्ती एक ही कुलनाम पर रखी गई है: चेव घाट, लिम घाट, टैन घाट। ये इमारतें न तो मंदिर हैं और न केवल आवास, बल्कि चीनी प्रवासी समाज के सबसे पुराने संगठन-रूपों में से एक के भौतिक अवशेष हैं — कुल एवं पैतृक-नगर संघ।

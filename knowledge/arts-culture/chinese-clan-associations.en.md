@@ -33,7 +33,7 @@ faq:
     a: "The mutual-aid role of contemporary associations has changed greatly. Many associations put their emphasis on awarding scholarships and study loans, preserving dialects and traditional culture, holding festivals and social gatherings, and promoting community welfare; some long-established clan temples and the Clan Jetties became focal points of cultural tourism and architectural conservation after George Town was inscribed as a World Heritage Site. The level of activity and emphasis of each association differs."
 
 lang: "en"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: The Khoo Kongsi clan house lit up at dusk for Chinese New Year, hung with red lanterns and glowing light frames while a crowd gathers in the forecourt
+    kind: actual
+    origin: third-party
+    subject: Khoo Kongsi clan house illuminated and decorated with red lanterns for Chinese New Year 2024, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: Upward view of the Khoo Kongsi clan house ceiling, showing terracotta tiled rafters, painted beams and richly gilded carved brackets
+    kind: actual
+    origin: third-party
+    subject: The painted and gilded timber ceiling of the Khoo Kongsi clan house, George Town, Penang
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 Walk into the area around Fort Cornwallis in George Town, Penang, and amid the rows of shophouses a clan temple with soaring, ornately carved eaves and painted beams suddenly appears — that is the Leong San Tong Khoo Kongsi. Head further toward the sea and you find rows of wooden stilt houses extending out over the water, each village named after a single surname: the Chew Jetty, the Lim Jetty, the Tan Jetty. These buildings are neither temples nor merely dwellings, but the physical remains of one of the oldest forms of organisation in Chinese immigrant society — the clan and hometown associations.

@@ -35,7 +35,7 @@ verificationNeeded:
   - "Danh sách 'wau quốc gia' thường được gắn với Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — không tìm thấy ấn phẩm chính thức nào."
 
 lang: "vi"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: Cận cảnh bề mặt của một chiếc wau cho thấy các họa tiết hoa lá cắt tay bằng giấy nhũ màu ngọc lam và vàng óng ánh viền đen trên nền giấy sẫm màu, với một bông hoa màu hồng cánh sen ở góc dưới bên phải
+    kind: actual
+    origin: third-party
+    subject: cận cảnh phần trang trí hoa bằng giấy cắt và nhũ tinh xảo trên một chiếc wau Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: Bên trong một xưởng gỗ, vài tấm thân wau hoàn chỉnh với họa tiết nhũ hồng, vàng và xanh ngọc treo cạnh một khung diều tre mảnh được căng bằng những sợi dây, với người thợ hiện ra một phần tại bàn làm việc phía sau
+    kind: actual
+    origin: third-party
+    subject: những thân wau đã hoàn thành và một khung wau tre trần trong xưởng của một người làm diều
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 Trước khi bạn nhìn thấy cánh wau ấy, bạn nghe nó trước. Một cánh wau truyền thống làm đúng cách sẽ vo ve suốt thời gian nó ở trên không — không phải tiếng gió, mà là những nốt được cố ý thiết kế đưa vào cấu tạo của nó.

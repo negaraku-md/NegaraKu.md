@@ -32,7 +32,7 @@ faq:
   - q: 이 음악은 말레이시아에서 어떻게 이어지고 있나요?
     a: "사원 연주자, 나다스와람–타빌 악단, 그리고 수많은 우루미 멜람 악단이 이 전통을 이어 갑니다. 젊은이들은 어릴 때부터 배우기 시작합니다. 많은 악단이 수입을 단복, 악기, 단체 식사에 쓰며 영리를 목적으로 하지 않는 봉사로 활동합니다. 오늘날 이 전통은 사원 밖에서도 축제와 환영 행사에서 울려 퍼집니다."
 lang: "ko"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: 힌두 사원에서 한 사람은 앉아서 긴 나다스와람 관악기를 연주하고, 다른 한 사람은 가로로 놓인 타빌 통 북을 연주하는 모습
+    kind: representative
+    origin: third-party
+    subject: 싱가포르의 스리 마리암만 힌두 사원에서 공연하는 나다스와람과 타빌 연주자
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: 나팔 모양 벨이 달린 나다스와람 관악기를 든 젊은 남성이, 노란 끈으로 묶인 둥근 타빌 통 북을 안은 다른 남성 옆에 선 모습
+    kind: representative
+    origin: third-party
+    subject: 표준적인 남인도 사원 음악 2인조인, 타빌 통 북 연주자와 짝을 이룬 나다스와람 연주자
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 타이푸삼 행렬의 맨 앞에서, 사원의 수레가 출발하는 그 순간에, 또는 결혼식장 입구에서 — 말레이시아의 어떤 타밀 힌두 행사에서든, 공기를 가장 먼저 채우는 것은 어떤 특정한 소리이다. 나다스와람(nadaswaram)의 긴 선율과 타빌(thavil)의 울림이다. 그 소리는 우연이 아니다 — 그것은 한 세기가 넘도록 이 공동체와 함께 걸어온 **mangala vadyam**(길상 악기) 전통의 표지이다.

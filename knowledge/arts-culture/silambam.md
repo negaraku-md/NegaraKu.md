@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: சிவப்புப் புடவை அணிந்த ஒரு பெண், ஒரு கையில் வளைந்த வாளையும் மற்றொரு கையில் வட்ட உலோக கேடயத்தையும் ஏந்தி, ஒரு தாழ்ந்த சண்டை நிலையில் முன்னோக்கிக் குனிகிறார்
+    kind: representative
+    origin: third-party
+    subject: சிலம்பத்தின் வாள்-கேடய (வாள் மற்றும் கேடயம்) முறை, தமிழ் தற்காப்புக் கலையின் ஓர் ஆயுத வகை
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: நீண்ட கம்புகள், வளைந்த வாள்கள், வட்ட கேடயங்கள் மற்றும் கத்திகள் உள்ளிட்ட சிலம்ப ஆயுதங்களுடன் அமைக்கப்பட்ட சுவரில் பொருத்தப்பட்ட காட்சிப் பலகை
+    kind: representative
+    origin: third-party
+    subject: கம்புகள், வாள்கள், கேடயங்கள் மற்றும் கத்திகள் உள்ளிட்ட சிலம்ப ஆயுதங்களின் காட்சிப் பலகை
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
 ---
 
 மலேசியாவின் ஒரு கோயில் விழாவிலோ, [தமிழ்ப் புத்தாண்டு](/arts-culture/tamil-new-year) நிகழ்ச்சியிலோ, மேளத்தின்

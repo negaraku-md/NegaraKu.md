@@ -30,7 +30,7 @@ faq:
     a: "Pelita-pelita itu — pelita kecil daripada tanah liat atau logam yang sering dipanggil diya — adalah inti visual sesebuah 'pesta cahaya'. Sederetan pelita dinyalakan di pintu masuk dan tingkap, mencerminkan makna nama pesta ini, 'sederetan cahaya'."
 
 lang: "ms"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: Deretan tanglung hiasan Deepavali berwarna kuning terang tergantung di atas dewan legar yang sibuk dengan pengembara di stesen KL Sentral, Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Tanglung Deepavali tergantung dan orang ramai meriah di stesen KL Sentral
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: Kolam burung merak gergasi yang berwarna-warni terang disusun daripada serbuk berwarna di atas lantai berkilat KL Sentral untuk Deepavali
+    kind: actual
+    origin: third-party
+    subject: Kolam lantai bertemakan burung merak yang besar di KL Sentral untuk Deepavali
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 Untuk satu malam, pelitalah yang berbicara. Sederetan pelita tanah liat kecil disusun di sepanjang pintu masuk dan bibir tingkap, satu corak lantai daripada beras atau serbuk berwarna dilukis di ambang pintu, dan sebuah rumah yang gelap sejam sebelumnya kini bergaris cahaya api. Di situlah asal nama pesta ini: *Deepavali* berasal daripada perkataan Sanskrit bagi "sederetan atau rangkaian cahaya."

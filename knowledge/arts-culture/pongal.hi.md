@@ -32,7 +32,7 @@ faq:
   - q: "थाई पोंगल के चार दिन कौन-से हैं?"
     a: "Bhogi (पुराने को हटाना और घर की सफाई), Thai Pongal या Surya Pongal (सूर्य को धन्यवाद देना और पोंगल अर्पित करना), Mattu Pongal (जुताई में सहायक मवेशियों का सम्मान), और Kaanum Pongal (रिश्तेदारों से मिलना और सैर पर जाना) — ये ही वे चार दिन हैं।"
 lang: "hi"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_we
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: ज़मीन पर रंगीन पाउडर से बनाया गया एक बड़ा रंगीन पोंगल कोलम, जिसमें गन्ने के डंठल, चमकीले फूल और एक उफनता उत्सव-पात्र दिख रहा है, एक घर के फाटक के बाहर
+    kind: representative
+    origin: third-party
+    subject: एक सड़क पर गन्ने, फूलों और उफनते-पात्र की आकृति वाला रंगीन पोंगल कोलम
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: लाल किनारों वाले दो गोल मिट्टी के पात्र, सफ़ेद में रंगीन टेढ़ी-मेढ़ी और बिंदी आकृतियों से हाथ से चित्रित, फ़सल-उत्सव के दौरान पोंगल पकाने के लिए तैयार
+    kind: representative
+    origin: third-party
+    subject: फ़सल-उत्सव के लिए सजाए गए दो हाथ से चित्रित मिट्टी के पोंगल पात्र
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 थाई माह के उदय की भोर में, मलेशिया भर के तमिल परिवारों के आँगन और द्वार पर भारी

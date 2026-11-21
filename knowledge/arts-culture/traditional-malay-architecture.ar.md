@@ -27,7 +27,7 @@ faq:
     a: "يؤوي البيت الملايوي عادةً عائلة واحدة، في حين يؤوي البيت الطويل (rumah panjang) عائلات كثيرة ضمن بنية ممتدة واحدة — تملك كل عائلة غرفتها الخاصة (bilek)، وتتشارك في رواق جماعي يُسمى ruai."
 
 lang: "ar"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: منزل قروي خشبي بنيّ داكن مرفوع على ركائز خشبية، بسقف جملوني حاد وأفاريز محزّزة منحوتة وجدران خشبية مقسّمة ودرج خارجي يؤدّي إلى شرفة، يحيط به أوراق خضراء
+    kind: actual
+    origin: third-party
+    subject: منزل ملايوي تقليدي خشبي على ركائز (رومه ملايو) بسقف جملوني حاد وألواح واجهة منحوتة وشرفة مرفوعة تُبلغ بدرجات خشبية
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: قصر ملايوي خشبي طويل مرفوع بأسقف على طراز مينانغكاباو المرفوعة تنحني إلى أطراف حادة، جدران من الخشب الداكن المقسّم بنوافذ شبكية، يقف على أعمدة منحوتة بجانب لافتة كُتب عليها Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: القصر الخشبي في نيجري سمبيلان إستانا أمبانغ تينغي بأسقفه الجملونية المرفوعة على طراز قرون الجاموس المينانغكابوية
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 ارفع بيت قرية (kampung) قديمًا، وفكّك وصلاته، وأعد تركيبه في موقع جديد — من دون أساس خرساني ثابت في الغالب. تلك هي حكمة العمارة الملايوية التقليدية: بيتٌ «يقرأ» المناخ الاستوائي قبل وجود تكييف الهواء بزمن طويل.

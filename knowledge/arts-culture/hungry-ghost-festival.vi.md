@@ -33,7 +33,7 @@ faq:
     a: "'Hô giá' (đấu giá phúc vật) là phần thường thấy sau bữa tiệc của Hội Vu Lan: ban tổ chức đem các đồ cúng cát tường trên bàn — trái cây, gạo, đồ uống, cùng những thanh than được gọi là 'ô kim' (than đen), tức 'phúc vật' — ra đấu giá công khai từng món, ai trả cao nhất thì 'trúng' món đó. Tiền thu được phần lớn dùng để trang trải chi phí sự kiện và quyên góp cho các việc công ích như trường Hoa văn, vì thế Tết Trung Nguyên ở Malaysia còn mang đậm màu sắc tương trợ cộng đồng và từ thiện."
 
 lang: "vi"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: Một hình nộm giấy Đại Sĩ Gia khoác áo choàng xanh cao sừng sững vươn lên trên bàn thờ đầy nhang đang cháy, trái cây và một lư hương trong dịp lễ Vu Lan (Trung Nguyên) ở Malaysia
+    kind: actual
+    origin: third-party
+    subject: Một hình nộm thần hộ mệnh Đại Sĩ Gia (Tai Su Yeah) khổng lồ trên bàn thờ cúng tại chùa Tow Boo Keong, Alor Setar, Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Những mâm cơm, món ăn, trái cây và đồ uống đặt trên cỏ, mỗi mâm cắm những nén nhang đỏ đang cháy, bày làm đồ cúng cho lễ Vu Lan
+    kind: representative
+    origin: third-party
+    subject: Đồ cúng ven đường kèm nhang bày ra cho các vong hồn lang thang trong lễ Vu Lan tháng Bảy
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Vừa sang tháng Bảy âm lịch, cảnh đêm ở nhiều góc phố tại Penang, Klang và Johor lặng lẽ đổi thay: bên đường dựng lên những chiếc bàn nhỏ, trên đó là trái cây, cơm, trà nước và từng chồng vàng mã, nhang nến chập chờn trong buổi chạng vạng. Trên khoảng đất trống của khu phố, một pho tượng thần bằng giấy cao vài mét với gương mặt uy nghiêm được dựng lên, đối diện là một sân khấu; khi trời tối, đèn sáng rực và tiếng hát vang lên — thế nhưng cả hàng ghế đầu dưới sân khấu lại luôn để trống.

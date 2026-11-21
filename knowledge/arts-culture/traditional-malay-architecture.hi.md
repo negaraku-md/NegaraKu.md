@@ -27,7 +27,7 @@ faq:
     a: "एक मलय घर आमतौर पर एक ही परिवार को रखता है, जबकि एक लंबा घर (rumah panjang) एक ही लंबी संरचना के भीतर कई परिवारों को रखता है — प्रत्येक परिवार का अपना कमरा (bilek) होता है, जो ruai नामक एक साझा दीर्घा के साथ साझा किया जाता है।"
 
 lang: "hi"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: लकड़ी के खंभों पर खड़ा एक गहरे-भूरे लकड़ी का कम्पुंग घर, जिसमें एक खड़ी गैबल छत, उकेरे हुए स्कैलप किए हुए छज्जे, पैनलदार लकड़ी की दीवारें और एक बरामदे तक जाती एक बाहरी सीढ़ी है, हरी हरियाली से घिरा हुआ
+    kind: actual
+    origin: third-party
+    subject: एक पारंपरिक लकड़ी का मलय खंभा-घर (रुमाह मेलायु) जिसमें एक खड़ी गैबल छत, उकेरे फ़ासिया बोर्ड और लकड़ी की सीढ़ियों से पहुँचा जाने वाला एक उठा हुआ बरामदा है
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: एक लंबा उठा हुआ लकड़ी का मलय महल जिसमें तेज़ नोकों तक घुमावदार झुकती मिनांगकाबाउ-शैली की ऊपर-उठी छतें हैं, जालीदार खिड़कियों वाली पैनलदार गहरी-लकड़ी की दीवारें, उकेरे हुए खंभों पर खड़ा, Rumah Negeri Sembilan लिखे एक साइनबोर्ड के बगल में
+    kind: actual
+    origin: third-party
+    subject: नेगेरी सेम्बिलान का लकड़ी का महल इस्ताना अम्पांग तिंग्गी, जिसमें मिनांगकाबाउ भैंस-सींग गैबल की ऊपर-उठी छतें हैं
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 एक पुराने कंपुंग (kampung) घर को उठाइए, उसके जोड़ों को अलग कीजिए, और एक नए स्थल पर पुनः जोड़ दीजिए — काफ़ी हद तक बिना किसी स्थिर कंक्रीट नींव के। यही पारंपरिक मलय वास्तुकला की बुद्धिमत्ता है: एक ऐसा घर जो वातानुकूलन के अस्तित्व में आने से बहुत पहले उष्णकटिबंधीय जलवायु को «पढ़ता» है।

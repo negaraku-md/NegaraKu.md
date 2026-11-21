@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم أنواع الأوبرا الصينية التقليدية في ماليزيا، والدور الذي تؤدّيه «أوبرا شكر الآلهة» (酬神戏) في موالد المعابد والأعياد."
 
 lang: "ar"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Pera
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: أدّاءان من أوبرا التيوتشو على مسرح مهرجان ليلاً، رجل عالم بثياب زرقاء وشخصية أنثوية بثياب وردية زاهية، أمام خلفية كُتب عليها Penang Dialect Theater مغطّاة بأحرف صينية
+    kind: actual
+    origin: third-party
+    subject: أوبرا شارع التيوتشو خلال رأس السنة الصينية، جورج تاون، بينانغ، 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: أدّاء في أوبرا شارع صينية بثياب بيضاء وقبعة سوداء مزيّنة بالخرز، يضع مكياج المسرح ونظارة، ينحني نحو مصباح صغير ليقرأ نصاً خلف الكواليس في ضوء خافت دافئ
+    kind: actual
+    origin: third-party
+    subject: أدّاء أوبرا شارع صينية بالزيّ يدرس نصاً خلف الكواليس، ماليزيا
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 تُقرَع الصنوج والطبول، وترفرف الأكمام المائية (水袖) على المنصّة — بينما لا تحمل مقاعد الجمهور في الأسفل غالباً سوى حفنة من الناس، وأحياناً لا أحد البتّة. وهذا ليس عرضاً فاشلاً، لأن العرض لم يكن أصلاً موجّهاً إلى أعين البشر.

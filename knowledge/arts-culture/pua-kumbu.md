@@ -86,6 +86,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: Patung saiz sebenar seorang penenun Iban berambut panjang bersandar pada kek tenun galas, menenun pua kumbu ikat berwarna merah karat dan krim yang benang loseninya mengembang ke arah penonton
+    kind: actual
+    origin: third-party
+    subject: pameran muzium seorang wanita Iban menenun pua kumbu berwarna merah karat pada kek tenun galas, Muzium Tekstil Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 Sehelai kain yang penenunnya tidak berani menciptanya tanpa "restu" — coraknya dikatakan datang dalam mimpi, dan pada satu ketika dahulu ia terikat rapat dengan tradisi pahlawan masyarakat yang menghasilkannya. Itulah pua kumbu.

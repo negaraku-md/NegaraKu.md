@@ -33,7 +33,7 @@ faq:
     a: "これは中秋で最も広く語られる月の伝説の一つです。弓の名手である后羿が不老不死の霊薬を手に入れ、その妻の嫦娥がある状況下でその霊薬を飲むと、体が軽くなって昇り、月に住むようになって、以来人間界と隔てられた、と伝えられます。物語には多くの異なる版と細部があり、一般に「中秋に月を眺め、月に人が住む」ことを説明する民間伝承とみなされ、史実ではありません。本稿はこれを簡潔に紹介するにとどめます。"
 
 lang: "ja"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: 玉兎や花の模様が押された黄金色に焼けた月餅が、穴の開いた金属のトレイの上に並べられて冷まされ、艶のある生地の表面が光を受けている様子
+    kind: representative
+    origin: third-party
+    subject: 中秋節を象徴する食べ物である、焼きたての玉兎模様の月餅
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: 白い星とウサギのシルエットが印刷された、丸い赤いアコーディオン折りの紙提灯が、緑の葉とピンクの花を背景に吊るされている様子。中秋節に子どもたちが持ち歩く折りたたみ式の紙提灯の定番
+    kind: representative
+    origin: third-party
+    subject: 中秋節に子どもたちが持ち歩く、伝統的な赤い蛇腹式の紙提灯
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 旧暦8月15日の夜ともなると、ショッピングモールの吹き抜けには赤々と灯る提灯がずらりと吊るされ、住宅地の公園では子どもたちが二人三人と灯した提灯を持って歩き回ります。家の食卓には、小さく切り分けた月餅の箱と熱いお茶が一壺、そばには皮をむいたザボンが一つ。家族は椅子を外に運び出し、一年で最も丸い月を見上げます——これがマレーシアの華人家庭の典型的な中秋の夜です。

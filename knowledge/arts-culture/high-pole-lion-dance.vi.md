@@ -33,7 +33,7 @@ faq:
     a: "Múa lân trên cột cao bắt nguồn từ tục lân tỉnh truyền thống của cộng đồng người Hoa, một số đoàn lân đặt tại miếu hoặc lấy tên theo miếu, và trước khi lên cọc có thể có các nghi thức truyền thống như điểm nhãn. Nhưng với tư cách là môn thi đấu và biểu diễn, ngày nay nó được xem nhiều hơn như một hoạt động văn hóa và một môn thể thao, và một số đoàn lân hiện đại cũng làm nhạt đi màu sắc tôn giáo trong tập luyện. Bài viết chỉ mô tả bản thân tục lệ và môn thể thao, không phán xét bất kỳ tín ngưỡng nào."
 
 lang: "vi"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_h
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: Một con lân múa màu trắng đậu trên những chiếc cột đỏ cao phía trên đám đông trên phố ở Kuala Lumpur, với biển hiệu cửa hàng chữ Hán phía sau
+    kind: actual
+    origin: third-party
+    subject: Múa lân trên cao biểu diễn trên những chiếc cột jong trên một con phố Kuala Lumpur trước đám đông, Malaysia
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: Một đầu và thân lân múa màu trắng trang trí rực rỡ giữ thăng bằng vắt ngang trên đỉnh của vài chiếc cột cao, hướng về phía trước dưới ánh đèn sân khấu
+    kind: representative
+    origin: third-party
+    subject: Con lân thi đấu màu trắng khom mình giữ thăng bằng vắt ngang qua vài chiếc cột jong cao, đầu lân hướng về phía máy ảnh
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 Khi tiếng trống dồn gấp lại, con lân tung mình lên không, hai chân trước đáp vững vàng trên một cọc thép chỉ nhỏ bằng miệng bát, đuôi lân lập tức theo sau — hai nghệ nhân nhảy nhót và tạo dáng giữa một dãy cọc cao thấp khác nhau, cách mặt đất hai ba mét, khán giả nín thở, cho đến khi con lân như đã 'sống dậy' ấy đứng vững trên cọc cao nhất, tiếng vỗ tay mới vỡ òa. Đây không phải màn múa lân chúc Tết dưới mặt đất, mà là một môn thi đấu có chấm điểm, có nhà vô địch, có thứ hạng thế giới — múa lân trên cột cao.

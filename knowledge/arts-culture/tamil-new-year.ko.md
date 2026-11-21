@@ -32,7 +32,7 @@ faq:
   - q: "망고와 님꽃 파차디(pachadi)의 특별한 점은 무엇입니까?"
     a: "이는 타밀 설날을 상징하는 음식입니다. 풋망고(신맛), 야자즙 조당(단맛), 님꽃(쓴맛), 타마린드 등을 섞어 만듭니다. 단맛·쓴맛·신맛을 한 음식에 뒤섞는 것은, 다가오는 해에 기쁨과 슬픔이 뒤섞일 것임을 받아들이라는 되새김으로 여겨집니다."
 lang: "ko"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: 코코넛, 망고 잎, 노란 꽃을 꼭대기에 얹은 은빛 단지가 불을 밝힌 놋쇠 기름등 사이에 놓여 상서로운 타밀 새해 제단으로 차려진 모습
+    kind: representative
+    origin: third-party
+    subject: 코코넛, 망고 잎, 꽃을 얹은 은빛 단지가 놋쇠 기름등 옆에 놓인 전통 타밀 새해 칼라삼
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: 기둥 복도와 성지(聖池) 위로 솟은, 마두라이 미낙시 암만 사원의 높고 정교하게 조각하고 선명하게 칠한 고푸람 탑들
+    kind: representative
+    origin: third-party
+    subject: 치티라이 축제가 열리는 곳인, 마두라이 미낙시 암만 사원의 우뚝 솟은 조각 고푸람
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 치티라이 월의 첫 새벽. 많은 타밀 가정에서는 전날 밤에 이미 쟁반 하나가 차려져 있다 — 망고, 바나나, 베텔 잎, 약간의 금 장신구, 그리고 거울 하나. 아침에 눈을 뜨면, 다른 무엇을 보기에 앞서 이 쟁반을 가장 먼저 보아야 한다. 이것이 바로 **칸니(kanni)** — 설날에 가장 먼저 본 광경이 한 해 전체의 분위기를 정한다는 믿음의 표현이다.

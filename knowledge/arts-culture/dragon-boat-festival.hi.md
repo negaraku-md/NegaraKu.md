@@ -33,7 +33,7 @@ faq:
     a: "पिनांग की अंतरराष्ट्रीय ड्रैगन बोट दौड़ का इतिहास सबसे लंबा है, जो कई वर्षों से तेलुक बाहांग बाँध पर आयोजित होती है और अनेक देशों व क्षेत्रों की टीमों को आकर्षित करती है; पुत्राजया, मलक्का तथा अन्य स्थानों पर भी बड़े ड्रैगन बोट आयोजन हो चुके हैं। ऐसी दौड़ें अधिकतर राज्य सरकारों या संबंधित निकायों द्वारा समर्थित होती हैं, जो प्रतिस्पर्धी खेल और पर्यटन प्रोत्साहन दोनों का रूप रखती हैं। सटीक तिथियाँ व स्थान हर वर्ष भिन्न होते हैं और आयोजकों की घोषणा पर निर्भर करते हैं।"
 
 lang: "hi"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: लाल टोपियों और सफ़ेद कमीज़ों में नाविकों की कतारें अपने चप्पू पानी में डालते हुए, जबकि दो छतरीदार ड्रैगन नौकाएँ एक जलमार्ग पर दौड़ रही हैं और भीड़ देख रही है
+    kind: representative
+    origin: third-party
+    subject: ड्रैगन बोट महोत्सव की एक नौका-दौड़ के दौरान सजी हुई ड्रैगन नौकाओं में प्रतिस्पर्धा करती टीमें, पानी मथते चप्पू
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: बाँस के पत्ते में लिपटा एक चिपचिपे चावल का पकौड़ा खोलकर दिखाया गया है, जिसमें दम किए सूअर के पेट, शाहबलूत और नमकीन अंडे की जर्दी का नमकीन भराव है, जिसके बगल में एक बँधा हुआ पकौड़ा रखा है
+    kind: representative
+    origin: third-party
+    subject: एक खुला हुआ ज़ोंगज़ी (बाक चांग) चिपचिपे चावल का पकौड़ा जिसमें सूअर का मांस, शाहबलूत और नमकीन अंडे की जर्दी दिख रही है, और बगल में बाँस के पत्तों में अभी भी लिपटा एक पकौड़ा
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 जब चंद्र कैलेंडर के पाँचवें महीने का पाँचवाँ दिन निकट आता है, तो चीनी परिवारों के रसोईघरों से बाँस के पत्तों और चिपचिपे चावल की महक उठने लगती है। गृहणियाँ भिगोए हुए चिपचिपे चावल और सुगंधित भुनी भरावन को कीप के आकार में मोड़े गए पत्तों में परत-दर-परत भरती हैं, फिर घास की रस्सी से कसकर बाँधती हैं, और लड़ी-दर-लड़ी इन्हें देर तक उबलने के लिए पतीले में उतारती हैं। उसी समय, पिनांग द्वीप के उत्तर-पश्चिमी छोर पर स्थित तेलुक बाहांग बाँध में, पतली-दुबली ड्रैगन नावें पानी को चीरती हुई बढ़ती हैं; नाव की नोक पर खड़ा ढोलवादक ताल देता है, और दर्जनों खेवैये ताल के साथ एक सुर में चप्पू चलाते हैं — यही हैं मलेशिया में ड्रैगन बोट फेस्टिवल के दो चेहरे: एक ओर रसोई में ज़ोंगज़ी की सुगंध, दूसरी ओर पानी पर दौड़।

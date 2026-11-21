@@ -18,7 +18,7 @@ keyTakeaways:
 appliesTo: "말레이시아에 있는 누구든 — 불교도이든 아니든 — 웨삭절이 무엇이며 언제 들고 어떻게 지켜지는지 평이하고 정확하게 알고 싶은 모든 사람, 공휴일 날짜를 확인하는 고용주와 근로자를 포함하여."
 
 lang: "ko"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: 말레이시아의 웨삭 데이 행사에서, 불을 밝힌 초와 좋은 소원을 적은 분홍 종이가 든 청록, 연두, 분홍, 흰색의 작은 등이 천막 아래 길게 줄지어 걸려 있고, 뒤로 방문객들이 지나가는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 알로르스타르의 웨삭 데이 행사에서 소원 종이가 달린 색색의 신자 축복 등이 줄지어 걸린 모습
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: 분홍과 노랑 천을 덮은 탁자 위에 수백 개의 작은 연꽃 모양 촛불 등을 가지런히 줄지어 놓아, 천막 안의 그려진 파란 하늘 배경 앞 꽃으로 둘러싸인 작은 불상으로 이어지는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 알로르스타르의 웨삭 데이에서 불상 앞에 수백 개의 연꽃 촛불 등을 밝힌 신앙 제단
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 웨삭절이 언제냐고 물으면 정해진 답이 없습니다 — 그것은 움직입니다. 2026년에는 5월 31일, 2027년에는 5월 20일, 2028년에는 5월 9일에 듭니다. 이유는 간단합니다. 웨삭은 달력의 날짜가 아니라 달로 정해지며, 음력과 그레고리력은 해마다 서로 어긋납니다.

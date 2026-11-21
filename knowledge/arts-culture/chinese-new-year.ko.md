@@ -31,7 +31,7 @@ faq:
     a: "「위성(撈生, 위성魚生·라오위성撈魚生)」은 말레이시아, 싱가포르 등 남양(南洋) 일대에서 유행하는 명절 관습으로, 주로 온 가족 만찬이나 새해 모임 때 행합니다. 여럿이 상에 둘러앉아 젓가락으로 채 썬 채소와 과일, 생선회, 각종 고명을 함께 높이 집어 올리며 「풍생수기(風生水起)」, 「위라오위왕(越撈越旺)」 같은 덕담을 외칩니다. 이는 현지에서 널리 사랑받지만, 일반적으로 고대 중국에서 유래한 전통이 아니라 남양 화인 사회가 발전시킨 관습으로 여겨집니다."
 
 lang: "ko"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: 음력설 조명 기간 밤에 수천 개의 색색 꼬마전구와 홍등으로 환하게 빛나는 페낭의 켁록시 사원
+    kind: actual
+    origin: third-party
+    subject: 음력설을 맞아 조명으로 밝힌 페낭의 켁록시 사원
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: 음력설에 쿠알라룸푸르 차이나타운의 상점가(숍하우스) 앞에서 기둥 위에 균형을 잡고 공연하는 흰색과 은색의 사자춤 의상
+    kind: actual
+    origin: third-party
+    subject: 음력설에 쿠알라룸푸르 차이나타운에서 기둥 위에서 펼쳐지는 사자춤
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 섣달그믐 그날, 많은 상점이 일찍 문을 닫고 고속도로는 고향으로 향하는 차로 가득 찹니다. 밤이 되면 온 가족이 한 상에 둘러앉습니다 — 상에는 생선(해마다 넉넉함을 뜻함), 통닭 한 마리, 단란함을 상징하는 완자, 그리고 젓가락으로 높이 집어 올리는 위성 무침이 오릅니다. 이 섣달그믐 만찬을 적지 않은 말레이시아 화인 가정이 정월 초하루 자체보다 더 중히 여깁니다.

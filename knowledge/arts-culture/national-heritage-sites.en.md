@@ -31,7 +31,7 @@ faq:
     a: "The owner may continue to own the property (section 69), but a change in ownership of National Heritage may only take place through inheritance or by sale with the prior approval of the Commissioner, and the Commissioner must be given first priority to purchase it (section 70)."
 
 lang: "en"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: The weathered laterite-brick ruin of the Porta de Santiago gateway of A Famosa fort in Melaka, its crumbling arch topped by a carved relief, with an old bronze cannon mounted on a brick plinth in front and tropical trees against a blue sky
+    kind: actual
+    origin: third-party
+    subject: the Porta de Santiago gateway of the A Famosa Portuguese fortress in Melaka, a gazetted National Heritage monument
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: The pinkish brick facade of Kellie's Castle at Batu Gajah, Perak, a row of arched colonnades and slender columns on two storeys opening onto a brick-paved courtyard, with partly ruined walls and tropical greenery under a bright cloudy sky
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, the unfinished early-20th-century mansion at Batu Gajah, Perak, a protected heritage site
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 A century-old shophouse in George Town, a keris blade, a court dance, and a living [songket](/arts-culture/songket) maker — all four can hold the same legal title in Malaysia: *National Heritage*. What binds them is not a UNESCO list, but a domestic register whose name is rarely mentioned: the **National Heritage Register**.

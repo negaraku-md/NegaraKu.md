@@ -30,7 +30,7 @@ faq:
     a: "في المهرجانات الثقافية وبرامج المتاحف والتراث والعروض السياحية في الغالب، لا بوصفه ترفيهاً قروياً. والإدارة الوطنية للثقافة والفنون والهيئات الثقافية الولائية هي نقطة البداية العملية للعثور على عروض مجدوَلة."
 
 lang: "ar"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: لقطة مقرّبة لدمية وايانغ كوليت جلدية منحوتة بزخرفة ومطليّة بألوان زاهية بالبرتقالي والأخضر والأرجواني، مثبّتة على قضيب خيزران رفيع
+    kind: actual
+    origin: third-party
+    subject: لقطة مقرّبة لدمية وايانغ كوليت جلدية من كلنتان مطليّة بزهاء على قضيب التحكّم، متحف ولاية كلنتان، ماليزيا
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: دميتا ظلّ جلديتان ملوّنتان تقفان أمام طبول تقليدية ولوحة معلومات داخل عرض في كوخ من الخيزران المنسوج
+    kind: actual
+    origin: third-party
+    subject: دمى وايانغ كوليت من كلنتان وطبول غاملان معروضة في كوخ مسقوف بالقشّ مع لوحة توضيحية، متحف ولاية كلنتان، ماليزيا
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 يُضاء المصباح أولاً. فخلف شاشة قطن بيضاء مشدودة على إطار خشبي، يجلس رجل واحد متربّعاً، وإلى جانبيه كومة من الدُّمى الجلدية المسطّحة في متناول يده، وخلفه تنتظر فرقة صغيرة من الطبول والغونغات وآلة سرونّاي (serunai) مزدوجة القصبة حادّة الصوت. ولن يبرح مكانه ذاك بقية الليل. وحين يعبر آخر ظلٍّ الشاشةَ، بعد ساعات من الآن، يكون قد أنطق ملوكاً ومَرَدةً ومهرّجين وأميرات، وسرد الانتقالات بين المشاهد، وقاد كل موسيقيّ — وحده.

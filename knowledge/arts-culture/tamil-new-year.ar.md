@@ -32,7 +32,7 @@ faq:
   - q: "ما المميّز في طبق البَتشادي من المانجو وزهر النيم (pachadi)؟"
     a: "هو الطبق المميّز لرأس السنة التاميلية. ويُصنع بمزج المانجو الفجّة (الحامض) والسكر النخلي (الحلو) وزهر النيم (المرّ) والتمر الهندي وما شابه. ويُنظر إلى مزج الحلو والمرّ والحامض في طبق واحد بوصفه تذكيرًا بتقبّل أنّ العام القادم سيحمل مزيجًا من الفرح والحزن."
 lang: "ar"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: قدر فضي تعلوه جوزة هند وأوراق مانجو وأزهار صفراء، يحيط به مصباحا زيت نحاسيان مشتعلان، مرتّب كمذبح ميمون لرأس السنة التاميلية
+    kind: representative
+    origin: third-party
+    subject: كالاسام تقليدي لرأس السنة التاميلية من قدر فضي تعلوه جوزة هند وأوراق مانجو وأزهار بجانب مصباحي زيت نحاسيين
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: أبراج غوبورام العالية المنحوتة بدقة والمطليّة بألوان زاهية لمعبد ميناكشي أمان في مادوراي ترتفع فوق أروقة المعبد المعمّدة والخزّان
+    kind: representative
+    origin: third-party
+    subject: أبراج الغوبورام المنحوتة الشاهقة لمعبد ميناكشي أمان في مادوراي، موطن مهرجان تشيتيراي
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 أول فجر من شهر تشيتيراي. في كثير من البيوت التاميلية تكون صينية قد أُعدّت منذ الليلة السابقة — مانجو وموز وورق تنبول وقليل من الحلي الذهبية ومرآة. وحين يستيقظ المرء صباحًا، وقبل أن ينظر إلى أي شيء آخر، ينبغي أن تكون هذه الصينية أول ما يراه. هذا هو **الكانّي (kanni)** — تعبيرٌ عن الاعتقاد بأنّ أول مشهد يُرى يوم رأس السنة يرسم مزاج العام كله.

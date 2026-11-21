@@ -32,7 +32,7 @@ faq:
     a: "नहीं। भरतनाट्यम एक शास्त्रीय नृत्य रूप है; नादस्वरम मंदिरों और शुभ अवसरों पर बजाया जाने वाला एक वाद्य संगीत परंपरा है। दोनों ही तमिल समुदाय की कला-विरासत के अंग हैं, पर अलग-अलग हैं; नादस्वरम/मंदिर संगीत का वर्णन यहाँ अलग से किया गया है, जबकि यह लेख मंचीय शास्त्रीय कलाओं पर केंद्रित है।"
 
 lang: "hi"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: एक काले मंच-पृष्ठभूमि के सामने एक सुंदर शैलीबद्ध मुद्रा धारण किए एक चमकीले नीले परिधान और चाँदी के मंदिर-आभूषणों में एक महिला ओडिसी नर्तकी
+    kind: representative
+    origin: third-party
+    subject: नीले परिधान और चाँदी के आभूषणों में मुद्रा के बीच एक ओडिसी शास्त्रीय नर्तकी
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: एक पीली और बैंगनी रेशमी साड़ी में एक महिला बैठी कर्नाटक शैली में थामा हुआ वायलिन बजाती है, मंच पर एक माइक्रोफ़ोन की ओर झुकती हुई
+    kind: representative
+    origin: third-party
+    subject: एक शास्त्रीय संगीत-समारोह में एक रेशमी साड़ी में प्रस्तुति देती एक कर्नाटक वायलिन-वादिका
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 मलेशिया के किसी भी बड़े नगर में, दीपावली की किसी शाम या किसी मंदिर उत्सव के दिन, पायल की झंकार के साथ, मृदंगम की ताल पर थिरकते हुए किसी भरतनाट्यम कलाकार को मंच पर चढ़ते देखा जा सकता है। वे पदचाप और मुद्राएँ संयोगवश नहीं हैं — वे एक हज़ार वर्ष से भी पुरानी दक्षिण भारतीय कला-परंपरा की, और उस तरीक़े की कहानी कहती हैं जिससे मलेशियाई तमिल समुदाय ने उसे डेढ़ शताब्दी से अधिक समय तक सँजोए रखा है।

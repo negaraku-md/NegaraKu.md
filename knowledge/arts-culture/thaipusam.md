@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Rea
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: A dense crowd of pilgrims filling the walkway at Batu Caves below the towering golden statue of Lord Murugan and the forested limestone hills during Thaipusam
+    kind: actual
+    origin: third-party
+    subject: Crowds of Thaipusam pilgrims below the golden Lord Murugan statue at Batu Caves
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: A Thaipusam devotee seen from behind shouldering a bell-hung kavadi pole and carrying a silver milk pot before a colourful Hindu temple gopuram in Ipoh, Perak
+    kind: actual
+    origin: third-party
+    subject: A kavadi bearer carrying a milk pot in the Thaipusam procession in Ipoh
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 Before dawn, a limestone hill on the northern edge of Kuala Lumpur fills with sound — drums, chanting, the shuffle of hundreds of thousands of bare feet on stone. At the base of a 272-step staircase stands a golden figure taller than a fourteen-storey building. The climb has begun, and it will not stop for the better part of a day.

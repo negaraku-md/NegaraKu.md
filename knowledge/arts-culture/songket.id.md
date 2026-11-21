@@ -33,7 +33,7 @@ faq:
     a: "Secara tradisi, perempuan. UNESCO mencatat bahwa tenunan songket selalu berada di tangan perempuan, sedangkan laki-laki turut serta dalam praktik itu dengan membuat perlengkapan menenun. Pengetahuannya diwariskan dalam keluarga dan kampung, dan sebagian institusi juga menawarkan program pelatihan."
 
 lang: "id"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: Sehelai kain songket utuh berbentuk persegi panjang yang digelar rata, dua panel merah di sisi bermotif bunga benang emas mengapit panel tengah berwarna emas yang lebih terang
+    kind: actual
+    origin: third-party
+    subject: sehelai kain songket Malaysia lengkap dari Terengganu yang digelar rata, memperlihatkan bidang brokat emas dan panel kepala di tengah
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: Tanjak Melayu berbentuk segitiga yang dilipat, terbuat dari kain songket hijau-emas yang berkilau dengan benang logam tenunan, dipajang di atas penyangga
+    kind: actual
+    origin: third-party
+    subject: sebuah tanjak, penutup kepala Melayu yang dilipat dari kain songket emas, dari Terengganu
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 Bunyi yang paling banyak terdengar di bengkel songket bukanlah bunyi mesin. Ia bunyi kayu ditekan, benang ditarik, dan sebatang lidi bambu diselipkan masuk lalu ditarik keluar — berulang-ulang, satu baris corak pada satu waktu, sepanjang hari.

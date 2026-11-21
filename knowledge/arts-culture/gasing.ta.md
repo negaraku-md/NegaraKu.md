@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "gasing விளையாட்டு எப்படி விளையாடப்படுகிறது, gasing pangkah மற்றும் gasing uri இடையேயான வேறுபாடு, மேலும் கிழக்குக் கடற்கரை மரபுரிமையுடன் அதன் தொடர்பு ஆகியவற்றைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malay
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: செதுக்கப்பட்ட மரத் தூள் படுக்கையில், தங்கள் மென்மையான உருளை வடிவ ஏவு கைப்பிடிகளுக்கு அருகே, வெதுவெதுப்பான சூரிய ஒளியில் கிடக்கும், வழக்கமான தட்டையான வட்டு உடலும் உயர்ந்த மைய முனையும் கொண்ட புதிதாக இழைக்கப்பட்ட இரண்டு வெளிர் மரக் கசிங் (பம்பரம்)
+    kind: actual
+    origin: third-party
+    subject: ஏவு முனைகளுடன் புதிதாக மரத்தில் இழைக்கப்பட்ட இரண்டு மலாய் பாணி கசிங் (பம்பரம்)
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: ஆரஞ்சு நிற உடற்பயிற்சி உடை அணிந்த சிறுவன் முன்னோக்கி சாய்ந்து, நீண்ட வெள்ளைக் கயிற்றிலிருந்து சுழலும் பம்பரத்தை மரப் பலகையின் மேல் வீசுகிறான்; ஏற்கெனவே சுழலும் ஒரு பம்பரம் பலகையில் இருக்க, அவனுக்குப் பின்னால் பார்வையாளர் கூட்டம் கவனமாகப் பார்க்கிறது
+    kind: representative
+    origin: third-party
+    subject: பாரம்பரிய பம்பரப் போட்டியில் கயிற்றின் மூலம் கசிங்கை ஏவும் இளம் போட்டியாளர்
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 ஒலிதான் முதலில் வந்து சேர்கிறது — கனமான மரம் கனமான மரத்தை மோதும் சத்தம், அதைத் தொடர்ந்து ஆரவாரம். Terengganu-வில் Kuala Nerus அருகே ஒரு கிராமத்து வெளியில், இரு குழுக்கள் ஒருவரையொருவர் எதிர்நோக்கி நிற்கின்றன. ஒருவர் தன் gasing-ஐ கயிற்றால் வீசுகிறார்; இன்னொரு gasing ஏற்கனவே தரையில் சுழன்று காத்திருக்கிறது. வேகமானவர் வெல்வதில்லை — மோதப்பட்ட பிறகும் யாருடைய gasing இன்னும் சுழல்கிறதோ அவரே வெல்கிறார்.

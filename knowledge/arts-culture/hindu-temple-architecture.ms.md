@@ -32,7 +32,7 @@ faq:
   - q: "Adakah semua kuil Hindu di Malaysia kuil Murugan atau Mariamman?"
     a: "Walaupun majoriti kuil didedikasikan kepada Shiva, Murugan (Shaivisme) atau Amman/Mariamman (penyembahan Shakti), itu bukan satu-satunya jenisnya. Terdapat juga kuil Vaishnava yang didedikasikan kepada Vishnu, kuil tradisi Malayali dan India Utara, serta gurdwara Sikh di Malaysia. Butiran seni bina juga berbeza sedikit mengikut tradisi penyembahan."
 lang: "ms"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: Bahagian hadapan kuil Hindu India Selatan yang berwarna-warni dengan menara berukir di atas pintu masuk, diapit patung besar Ganesha dan seorang dewa yang dicat di bawah kanopi bersalut emas, digantung hiasan bendera segi tiga meriah dengan latar langit biru yang cerah
+    kind: actual
+    origin: third-party
+    subject: fasad hadapan Kuil Sri Mahamariamman di George Town, Pulau Pinang, dengan gopuram berukir dan pintu masuk yang diapit patung besar Ganesha dan Murugan
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: Tempat pemujaan kuil Hindu yang berhias dan berwarna-warni dengan patung dewa berukir di atasnya berdiri di dalam gua batu kapur yang luas, dinding batunya yang curam dilitupi tumbuhan hijau yang menjalar dan disinari cahaya siang dari atas
+    kind: actual
+    origin: third-party
+    subject: menara pemujaan Hindu yang berhias dan berwarna-warni di dalam kuil batu kapur Batu Caves berhampiran Kuala Lumpur, dengan latar dinding gua yang menjulang dilitupi tumbuhan hijau
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 Apabila anda menghampiri mana-mana kawasan di bandar Malaysia tempat sesebuah komuniti Tamil berakar umbi, sebuah menara penuh ukiran yang menjulang ke langit akan menarik perhatian dari jauh. Menara gerbang itu, dengan lapisan demi lapisan patung dewa-dewi yang berwarna-warni, bukanlah satu kebetulan — ia ialah kesinambungan sebuah tradisi seni bina berusia seribu tahun; tanda warisan budaya yang dibawa bersama oleh mereka yang berketurunan Tamil India Selatan ke Malaysia.

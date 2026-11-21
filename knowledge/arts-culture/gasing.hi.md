@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो समझना चाहता है कि गासिंग कैसे खेला जाता है, गासिंग पांगकाह और गासिंग उरी में क्या अंतर है, और पूर्वी तट की विरासत से इसका क्या संबंध है।"
 
 lang: "hi"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malay
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: पारंपरिक सपाट चकती वाले शरीर और उभरे हुए केंद्रीय घुंडी वाले दो पीले, ताज़ा खराद पर बने लकड़ी के गासिंग लट्टू, गर्म धूप में लकड़ी के बुरादे की परत पर अपने चिकने बेलनाकार प्रक्षेपण-हत्थों के पास पड़े हैं
+    kind: actual
+    origin: third-party
+    subject: अपने प्रक्षेपण-खूँटों के साथ दो नवनिर्मित खराद पर बने मलय-शैली के गासिंग लट्टू
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: नारंगी ट्रैकसूट पहने एक लड़का आगे झुककर एक लंबी सफ़ेद डोरी से एक घूमते लट्टू को लकड़ी के तख़्ते पर फेंक रहा है, एक घूमता लट्टू पहले से ही तख़्ते पर रखा है जबकि दर्शकों की भीड़ उसके पीछे से ध्यान से देख रही है
+    kind: representative
+    origin: third-party
+    subject: एक पारंपरिक लट्टू-प्रतियोगिता में डोरी से गासिंग फेंकता एक युवा प्रतियोगी
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 ध्वनि पहले आती है — भारी लकड़ी भारी लकड़ी से टकराती है, और उसके बाद जयकार। कुआला नेरुस, तेरेंगानु के आसपास एक गाँव के मैदान पर, दो दल आमने-सामने खड़े होते हैं। एक खिलाड़ी अपने लट्टू को एक डोरी के साथ फेंकता है; दूसरा पहले से ही घूम रहा है, ज़मीन पर प्रतीक्षा करता हुआ। विजेता सबसे तेज़ नहीं होता — बल्कि वह होता है जिसका लट्टू प्रहार के बाद भी घूमता रहता है।

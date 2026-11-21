@@ -32,7 +32,7 @@ faq:
     a: "「หลอเซิง」(鱼生, ยำปลาดิบ) เป็นธรรมเนียมปีใหม่ที่นิยมในแถบหนานหยางอย่างมาเลเซียและสิงคโปร์ มักทำในอาหารรวมญาติหรืองานรวมตัวปีใหม่ กล่าวคือ ทุกคนล้อมโต๊ะ ใช้ตะเกียบคีบผักผลไม้หั่นฝอย ปลาดิบ และเครื่องเคียงต่าง ๆ ขึ้นสูง ๆ พร้อมกัน พลางคีบพลางเปล่งคำมงคลอย่าง「风生水起」「越捞越旺」มันได้รับความนิยมอย่างกว้างขวางในท้องถิ่น แต่โดยทั่วไปถือว่าเป็นธรรมเนียมที่ชุมชนชาวจีนแถบหนานหยางพัฒนาขึ้น ไม่ใช่ประเพณีที่มาจากจีนโบราณ"
 
 lang: "th"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: วัดเก็กลกซีในปีนังส่องสว่างด้วยไฟประดับหลากสีนับพันดวงและโคมไฟสีแดงในยามค่ำคืนระหว่างการประดับไฟเทศกาลตรุษจีน
+    kind: actual
+    origin: third-party
+    subject: วัดเก็กลกซีในปีนังประดับไฟเนื่องในเทศกาลตรุษจีน
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: ชุดเชิดสิงโตสีขาวเงินทรงตัวอยู่บนเสาสูงกำลังแสดงอยู่หน้าตึกแถวในย่านไชนาทาวน์ของกัวลาลัมเปอร์ในช่วงเทศกาลตรุษจีน
+    kind: actual
+    origin: third-party
+    subject: การเชิดสิงโตบนเสาในย่านไชนาทาวน์ของกัวลาลัมเปอร์ในช่วงเทศกาลตรุษจีน
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 ในวันส่งท้ายปีเก่า ร้านค้าจำนวนมากปิดก่อนเวลา ทางด่วนแน่นขนัดด้วยรถที่มุ่งหน้ากลับบ้านเกิด พอถึงกลางคืน ครอบครัวหนึ่งนั่งล้อมโต๊ะ — บนโต๊ะมีปลา (年年有余 เหลือกินเหลือใช้ทุกปี) ไก่ทั้งตัว ลูกชิ้นที่สื่อความหมายถึงการรวมญาติ และยำปลาดิบที่ต้องใช้ตะเกียบคีบขึ้นสูง ๆ อาหารรวมญาติในคืนส่งท้ายปีเก่ามื้อนี้ ครอบครัวชาวจีนมาเลเซียจำนวนไม่น้อยให้ความสำคัญยิ่งกว่าวันชิวอิด (วันที่ 1 เดือนอ้าย) เสียอีก

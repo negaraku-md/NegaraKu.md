@@ -35,7 +35,7 @@ faq:
     a: "아닙니다. 바주 쿠룽은 몸의 선을 가리는, 헐렁하고 긴 옷으로 천과 함께 입습니다. 크바야는 앞이 트인, 몸의 선을 더 따르는 옷으로 크롱상(kerongsang, 브로치)이나 단추로 여미며 사롱과 짝을 이룹니다. 크바야는 보통 바주 쿠룽보다 몸에 더 맞습니다."
 
 lang: "ko"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Har
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: 저마다 다른 색의 바주 믈라유와 검은 벨벳 송콕 모자를 착용한 말레이 남성들이 붉은 카펫이 깔린 모스크 홀을 가득 메운 채 앉아 쿠란을 읽는 큰 모임
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 슬랑오르의 왕실 혼례 기도 모임에서 색색의 바주 믈라유와 검은 송콕을 착용하고 줄지어 앉은 말레이 남성들
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: 흰 배경 앞에 선 한 남성이 만다린 칼라의 로열블루 바주 믈라유, 검은 벨벳 송콕, 그리고 바지 위에 접어 두른 광택 있는 파란 꽃무늬 송켓 천(삼핑)을 착용한 모습
+    kind: actual
+    origin: third-party
+    subject: 흰 스튜디오 배경에서, 검은 송콕과 송켓 삼핑을 곁들인 로열블루 튜닉의 완전한 남성 바주 믈라유 차림을 선보이는 남성
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 하리 라야나 결혼식을 위해 채비하는 한 남자를 보십시오. 헐렁한 옷은 이미 입었고 바지도 꿰었지만 — 아직 끝나지 않았습니다. 남은 것은 그가 옷을 온전히 갖춰 입었는지 반만 입었는지를 가르는 두 가지입니다. 허리에 두르는 한 장의 삼핑 천과, 머리에 얹는 송콕입니다. 그 두 가지가 없으면 바주 믈라유는 아직 진정한 바주 믈라유가 아닙니다.

@@ -32,7 +32,7 @@ faq:
   - q: "ปัจจาดีมะม่วงกับดอกสะเดา (pachadi) พิเศษอย่างไร?"
     a: "เป็นอาหารเอกลักษณ์ของปีใหม่ทมิฬ ทำโดยผสมมะม่วงดิบ (เปรี้ยว) น้ำตาลโตนด (หวาน) ดอกสะเดา (ขม) มะขาม และอื่น ๆ เข้าด้วยกัน การผสมรสหวาน ขม และเปรี้ยวไว้ในอาหารจานเดียว ถือเป็นเครื่องเตือนใจให้ยอมรับว่าปีที่กำลังมาถึงจะมีทั้งสุขและทุกข์ปะปนกัน"
 lang: "th"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: หม้อเงินที่มียอดเป็นมะพร้าว ใบมะม่วง และดอกไม้สีเหลือง ขนาบด้วยตะเกียงน้ำมันทองเหลืองที่จุดไว้ จัดเป็นแท่นบูชามงคลวันปีใหม่ทมิฬ
+    kind: representative
+    origin: third-party
+    subject: กลศัมวันปีใหม่ทมิฬแบบดั้งเดิม หม้อเงินที่มียอดเป็นมะพร้าว ใบมะม่วง และดอกไม้ ข้างตะเกียงน้ำมันทองเหลือง
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: หอโคปุรัมที่สลักอย่างวิจิตรและทาสีสดใสทรงสูงของวัดมีนากษีอัมมันในเมืองมทุไรตั้งตระหง่านเหนือระเบียงเสาและสระน้ำของวัด
+    kind: representative
+    origin: third-party
+    subject: หอโคปุรัมสลักทรงสูงของวัดมีนากษีอัมมันในเมืองมทุไร ที่ตั้งของเทศกาลจิตติไร
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 รุ่งอรุณแรกของเดือนจิตติไร ในบ้านชาวทมิฬหลายหลัง ถาดใบหนึ่งถูกจัดเตรียมไว้ตั้งแต่คืนก่อน — มะม่วง กล้วย ใบพลู เครื่องประดับทองเล็กน้อย และกระจกบานหนึ่ง เมื่อลืมตาตื่นในตอนเช้า ก่อนจะมองสิ่งอื่นใด ต้องมองถาดใบนี้เป็นอย่างแรก นี่คือ **กันนิ (kanni)** — การแสดงออกถึงความเชื่อที่ว่า สิ่งแรกที่มองเห็นในวันปีใหม่จะกำหนดโทนของทั้งปี

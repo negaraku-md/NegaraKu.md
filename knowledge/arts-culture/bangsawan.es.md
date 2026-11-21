@@ -34,7 +34,7 @@ faq:
     a: "Declinó a mediados del siglo XX debido a la competencia de la radio, el cine y la televisión. A finales de la década de 1930, muchas salas de bangsawan se convirtieron en cines, y tras la guerra la industria perdió su fuente de financiación."
 
 lang: "es"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: Exterior del teatro Panggung Bangsawan en Melaka, una fachada moderna de color crema y marrón con el rótulo rojo 'Panggung Bangsawan Melaka' bajo un cielo azul despejado
+    kind: actual
+    origin: third-party
+    subject: Panggung Bangsawan, el teatro dedicado al bangsawan en la ciudad de Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: Vista desde la esquina del teatro Panggung Bangsawan en Melaka con su alto rótulo vertical rojo 'Panggung', palmeras y edificios de la ciudad detrás bajo un cielo nublado
+    kind: actual
+    origin: third-party
+    subject: Vista callejera del Panggung Bangsawan, el teatro de bangsawan dedicado de Melaka
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 Antes de que existieran las películas, había escenarios iluminados, telones pintados a mano y una orquesta capaz de pasar de las melodías fluidas de una corte malaya a un ritmo de Oriente Medio dentro de la misma función nocturna. Eso era el bangsawan — la ópera escénica que fue en su día el entretenimiento urbano más animado de la Península, y que más tarde entregó sus actores y cantantes a la recién nacida industria del cine malayo.

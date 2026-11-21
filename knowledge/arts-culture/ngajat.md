@@ -84,6 +84,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: Seorang wanita Iban muda dengan hiasan kepala perak sugu tinggi yang menjulang dan korset hitam bersalut syiling memegang kedua-dua tangan dalam mudra yang halus berhampiran dagunya, dibingkai kolar manik berpompom oren dengan latar pentas biru gelap.
+    kind: actual
+    origin: third-party
+    subject: Penari wanita Iban berpakaian istiadat lengkap di Kampung Budaya Sarawak, Borneo, Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: Sederet penari wanita Iban dengan hiasan kepala mahkota perak, baju manik merah dan skirt berjumbai syiling bergerak secara serentak merentasi pentas festival yang terang, setiap seorang memegang sehelai kain merah kecil, dengan siluet penonton di latar hadapan.
+    kind: actual
+    origin: third-party
+    subject: Sekumpulan penari wanita Iban membuat persembahan sayau ngajat di pentas festival, Malaysia
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 Di galeri sebuah rumah panjang di Sarawak, seorang lelaki berbulu enggang di kepalanya melompat, berpusing dan menghentak lantai — pedang di satu tangan, perisai di tangan yang lain. Itulah **Ngajat**, tarian yang dahulu menyambut pahlawan pulang dari medan perang.

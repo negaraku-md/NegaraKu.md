@@ -32,7 +32,7 @@ faq:
     a: "인트루두(Intrudu)는 재의 수요일(사순절의 시작) 전 일요일에 믈라카 포르투갈 공동체가 여는 연례 물놀이 축제입니다. 주민과 방문객이 포르투갈인 마을 곳곳에서 서로에게 물을 끼얹으며, 이 축제는 브라뇨 춤을 곁들입니다."
 
 lang: "ko"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Mela
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: 말라카 포르투갈인 정착촌의 메단 포르투기스(포르투갈 광장) 흰색 식민지풍 입구 아치로, 분홍색 건물과 간판을 단 크리스탕 식당이 양옆에 있고 맑은 파란 하늘 아래 뒤로 현대식 고층 빌딩이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 말라카 포르투갈인 정착촌의 메단 포르투기스(포르투갈 광장) 입구
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: 말라카 포르투갈인 정착촌에서 성 베드로 축일을 위해 장식한 모형 고깃배로, 높은 흰 돛에 종교적 장면과 성 베드로의 모습이 그려져 있고 물가 옆에 어망이 걸려 있으며, 뒤로 야자수와 구경꾼들이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 말라카 포르투갈인 정착촌에서 성 베드로 축일(산 페드로)을 위해 만든 장식된 고깃배
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 믈라카 우종 파시르에는 사람들이 말레이어도, 영어도, 현대 포르투갈어도 아닌 언어로 인사를 주고받는 바닷가 마을이 있습니다 — 그것은 다섯 세기 전에 도래한 정복자들의 언어가 살아남은 자취입니다. 이곳이 크리스탕 공동체의 세계입니다.

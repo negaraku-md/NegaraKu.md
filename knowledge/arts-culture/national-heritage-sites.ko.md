@@ -31,7 +31,7 @@ faq:
     a: "소유자는 그 재산을 계속 소유할 수 있으나(제69조), 국가문화유산의 소유권 이전은 상속이나 판무관의 사전 승인을 받은 매각을 통해서만 가능하며, 판무관에게 우선 매수권이 주어져야 합니다(제70조)."
 
 lang: "ko"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: 말라카 아 파모사 요새의 포르타 데 산티아고 성문이 풍화된 라테라이트 벽돌 폐허로 남아, 무너져 가는 아치 위에 조각 부조가 얹혀 있고 앞쪽 벽돌 받침대에 오래된 청동 대포가 놓였으며, 파란 하늘을 배경으로 열대 나무가 서 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 국가유산 기념물로 지정된, 말라카의 포르투갈 요새 아 파모사의 포르타 데 산티아고 성문
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: 페락주 바투 가자의 켈리 성의 분홍빛 벽돌 정면으로, 2층에 걸쳐 아치 회랑과 가느다란 기둥이 늘어서 벽돌을 깐 안뜰로 이어지고, 밝지만 구름 낀 하늘 아래 일부 무너진 벽과 열대 식물이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 보호 유산지로 지정된, 페락주 바투 가자의 20세기 초 미완성 저택 켈리 성
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 조지타운의 백 년 된 상점 주택 한 채, 크리스(keris, 단검) 한 자루, 궁정 춤 하나, 그리고 생존해 있는 [송켓](/arts-culture/songket) 장인 한 사람 — 이 넷 모두 말레이시아에서 같은 법적 칭호를 지닐 수 있습니다. *국가문화유산*입니다. 이들을 묶는 것은 유네스코 목록이 아니라, 이름이 좀처럼 언급되지 않는 국내 등록부인 **국가문화유산 등록부**입니다.

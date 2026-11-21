@@ -32,7 +32,7 @@ faq:
     a: "«लो हेई» (yee sang, या 捞鱼生) मलेशिया, सिंगापुर और व्यापक नानयांग क्षेत्र में लोकप्रिय एक नववर्ष रिवाज़ है, जो आम तौर पर पुनर्मिलन भोज या नववर्ष सभा के दौरान किया जाता है: सभी मेज़ के इर्द-गिर्द इकट्ठा होते हैं और चॉपस्टिक से कटी हुई सब्ज़ियाँ और फल, कच्ची मछली की फाँकें तथा विविध सामग्री मिलकर ऊँचा उछालते हैं, और साथ ही «आपका भाग्य हवा और पानी की तरह ऊपर उठे» और «जितना ऊँचा उछालेंगे, उतने अधिक समृद्ध होंगे» जैसे शुभ वाक्यांश बोलते हैं। यह स्थानीय रूप से व्यापक रूप से लोकप्रिय है, पर इसे आम तौर पर नानयांग क्षेत्र के चीनी समुदाय द्वारा विकसित एक प्रथा माना जाता है, न कि प्राचीन चीन में उत्पन्न हुई कोई परंपरा।"
 
 lang: "hi"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: चीनी नववर्ष की रोशनी के दौरान रात में हज़ारों रंगीन झालरों और लाल लालटेनों से जगमगाता पेनांग का केक लोक सी मंदिर
+    kind: actual
+    origin: third-party
+    subject: चीनी नववर्ष के लिए रोशन पेनांग का केक लोक सी मंदिर
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: चीनी नववर्ष के दौरान कुआलालंपुर के चाइनाटाउन में दुकान-घरों के बाहर खंभों पर संतुलन बनाकर प्रस्तुत की जा रही सफ़ेद और चाँदी रंग की शेर-नृत्य पोशाक
+    kind: actual
+    origin: third-party
+    subject: चीनी नववर्ष के दौरान कुआलालंपुर के चाइनाटाउन में खंभों पर प्रस्तुत शेर-नृत्य
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 नववर्ष की पूर्वसंध्या पर, कई दुकानें जल्दी बंद हो जाती हैं और राजमार्ग अपने गृहनगरों की ओर जाती कारों से भर जाते हैं। शाम तक, परिवार एक मेज़ के इर्द-गिर्द इकट्ठा होता है — उस पर मछली ("हर वर्ष अधिशेष" के लिए), एक साबुत मुर्गा, पुनर्मिलन का प्रतीक मीटबॉल, और एक ठंडा उछाला जाने वाला yee sang व्यंजन जिसे चॉपस्टिक से ऊँचा उठाया जाता है। नववर्ष की पूर्वसंध्या के इस पुनर्मिलन भोज को कई मलेशियाई चीनी परिवार नववर्ष के पहले दिन से भी अधिक महत्वपूर्ण मानते हैं।

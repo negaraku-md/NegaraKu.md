@@ -30,7 +30,7 @@ faq:
     a: "ประเภทที่ JKKN บันทึกไว้ ได้แก่ งาจัตเลอซง (Ngajat Lesong, รำโดยชายพร้อมคาบครกไม้) งาจัตอินดู (Ngajat Indu, รำโดยหญิงด้วยท่าทอปัวกุมบู) งาจัตปัวกุมบู (Ngajat Pua Kumbu, ใช้ผ้าปัวกุมบู) และงาจัตงีลิงติกาย (Ngajat Ngiling Tikai) ที่เป็นสัญญาณสิ้นสุดงานฉลองกาไวดายัก"
 
 lang: "th"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: หญิงสาวชาวอีบันในเครื่องประดับศีรษะเงินซูกูติงกีทรงสูงและเสื้อรัดตัวสีดำประดับเหรียญเงินทำมุทราด้วยมือทั้งสองอย่างนุ่มนวลใกล้คาง ล้อมกรอบด้วยปลอกคอลูกปัดพู่สีส้มตัดกับเวทีสีน้ำเงินเข้ม
+    kind: actual
+    origin: third-party
+    subject: นักเต้นหญิงชาวอีบันในชุดพิธีเต็มยศที่หมู่บ้านวัฒนธรรมซาราวัก เกาะบอร์เนียว ประเทศมาเลเซีย
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: แถวนักเต้นหญิงชาวอีบันในเครื่องประดับศีรษะมงกุฎเงิน เสื้อลูกปัดสีแดง และกระโปรงพู่เหรียญเคลื่อนไหวพร้อมกันบนเวทีเทศกาลที่สว่างไสว แต่ละคนถือผ้าสีแดงผืนเล็ก โดยมีเงาผู้ชมอยู่เบื้องหน้า
+    kind: actual
+    origin: third-party
+    subject: คณะนักเต้นหญิงชาวอีบันแสดงซายาวงาจัตบนเวทีเทศกาล ประเทศมาเลเซีย
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 ที่ระเบียงของบ้านยาวแห่งหนึ่งในซาราวัก ชายคนหนึ่งที่ประดับขนนกเงือกบนศีรษะกระโดด หมุนตัว และกระทืบพื้น — ดาบในมือหนึ่ง โล่ในอีกมือหนึ่ง นั่นคือ **งาจัต** การรำที่แต่ก่อนต้อนรับนักรบที่กลับจากสนามรบ

@@ -30,7 +30,7 @@ faq:
     a: "JKKN이 기록한 종류로는 응아잣 레송(Ngajat Lesong, 남성이 나무 절구를 물고 추는 춤), 응아잣 인두(Ngajat Indu, 여성이 푸아 쿰부를 짜는 동작으로 추는 춤), 응아잣 푸아 쿰부(Ngajat Pua Kumbu, 푸아 쿰부 천을 사용), 그리고 가와이 다약 기념의 끝을 알리는 응아잣 응일링 티카이(Ngajat Ngiling Tikai)가 있습니다."
 
 lang: "ko"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: 우뚝한 은빛 수구 팅기 머리장식과 동전을 덧댄 검은 코르셋을 착용한 젊은 이반족 여성이 두 손을 턱 근처에서 섬세한 무드라로 모은 모습, 주황색 방울 구슬 깃이 어두운 파란 무대를 배경으로 감싸는 모습
+    kind: actual
+    origin: third-party
+    subject: 보르네오 말레이시아 사라왁 문화촌에서 완전한 의례 복장을 갖춘 이반족 여성 무용수
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: 은빛 관 머리장식, 붉은 구슬 상의, 동전 술이 달린 치마를 입은 이반족 여성 무용수들이 밝게 조명된 축제 무대를 가로질러 일제히 움직이며 각자 작은 붉은 천을 들고, 앞쪽에는 실루엣의 구경꾼들이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아의 축제 무대에서 사야우 응아잣을 추는 이반족 여성 무용수단
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 사라왁의 한 롱하우스 회랑에서, 머리에 무소뿔새 깃털을 단 한 남자가 뛰어오르고 돌며 바닥을 구릅니다 — 한 손에는 칼, 다른 손에는 방패를 들고 말입니다. 그것이 바로 **응아잣**, 예전에 전장에서 돌아오는 전사를 맞이하던 춤입니다.

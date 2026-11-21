@@ -33,7 +33,7 @@ faq:
     a: "Set gamelan asli dikembalikan ke Pahang pada 1973 dan dipamerkan di Muzium Pahang di Pekan."
 
 lang: "id"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: Seperangkat gamelan Melayu lengkap yang digelar di atas karpet bermotif, dengan gong ketel perunggu, metalofon, gong gantung dan gendang di atas penyangga kayu berukir
+    kind: actual
+    origin: third-party
+    subject: Seperangkat Gamelan Melayu lengkap yang ditata di sebuah pusat seni dan warisan Malaysia
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: Seorang pemusik berbaju oranye berlutut di depan saron metalofon merah-emas, memukul bilah-bilah perunggunya dengan pemukul kayu
+    kind: representative
+    origin: third-party
+    subject: Pemusik memukul saron metalofon (gamelan Indonesia, keluarga alat musik yang sama dengan Gamelan Melayu)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 Set gamelan itu berpindah dari satu istana ke istana lain bukan karena penjualan atau rampasan — melainkan karena pernikahan. Ketika seorang putri berpindah ke istana suaminya, alat musik, penari, dan lagu-lagu turut berpindah bersamanya. Itulah cara gamelan menjadi milik istana Melayu.

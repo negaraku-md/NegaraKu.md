@@ -33,7 +33,7 @@ faq:
     a: "La 'puja' (puja por los objetos de la bendición) es una parte habitual de la cena posterior a la asamblea Ullambana: los organizadores sacan a subasta pública, una por una, las auspiciosas ofrendas de las mesas —fruta, arroz, bebidas y las barras de carbón llamadas 'oro negro', todos ellos 'objetos de la bendición'—, y quien ofrece el precio más alto se 'adjudica' cada una. Los ingresos se destinan en su mayoría a cubrir el costo del evento y a apoyar obras benéficas como las escuelas chinas, por lo que en Malasia el Festival de los Fantasmas Hambrientos tiene también un fuerte matiz de ayuda mutua comunitaria y beneficencia."
 
 lang: "es"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: Una imponente efigie de papel de la deidad Da Shi Ye, con túnica azul, alzándose sobre un altar de varillas de incienso ardiendo, fruta y una urna de incienso durante el Festival de los Fantasmas Hambrientos en Malasia
+    kind: actual
+    origin: third-party
+    subject: Una gigantesca efigie de la deidad guardiana Da Shi Ye (Tai Su Yeah) sobre un altar de ofrendas en el templo Tow Boo Keong, Alor Setar, Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Bandejas de arroz, platos, fruta y bebidas sobre la hierba, cada una atravesada por varillas de incienso rojas encendidas, dispuestas como ofrendas para el Festival de los Fantasmas Hambrientos
+    kind: representative
+    origin: third-party
+    subject: Ofrendas de comida al borde del camino con varillas de incienso dispuestas para los espíritus errantes durante el Festival del Séptimo Mes de los Fantasmas Hambrientos
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Cuando llega el séptimo mes lunar, la escena nocturna de muchas esquinas de Penang, Klang y Johor cambia en silencio: al borde de la calle se disponen mesitas con fruta, arroz, té y fajos de papel dorado y plateado, mientras el incienso y las velas titilan en la penumbra del atardecer. En un descampado del barrio se levanta una efigie de papel de un dios de varios metros de alto y rostro severo, y frente a ella se monta un escenario; al caer la noche las luces se encienden con fuerza y resuenan los cantos, pero toda la primera fila de sillas al pie del escenario permanece vacía de principio a fin.

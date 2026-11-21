@@ -32,7 +32,7 @@ faq:
   - q: "这些舞蹈带有宗教色彩吗？"
     a: "部分形式（卡拉甘顶壶舞、卡瓦迪舞、孔雀舞）根植于庙宇祭祀传统；然而如今许多也在社会文化活动中作为一种舞台艺术形式呈献。本文仅介绍舞蹈形式；它不阐述或评判任何形式的祭祀。"
 lang: "zh"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: 一名舞者身着华丽的孔雀造型服装，配一条用真孔雀羽毛展开的尾羽和带喙的头饰，在黑色背景前受光
+    kind: representative
+    origin: third-party
+    subject: 身着羽毛孔雀服装的孔雀舞（Mayilattam）表演者
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: 一名男性民间舞者身穿黄色服装和头饰，腰间套着一副彩绘鲜艳的假马架，在绿色的户外场景中
+    kind: representative
+    origin: third-party
+    subject: 假马舞（Poikkal Kudirai Attam），泰米尔的假马民间舞
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 在庙会那一天，当塔维尔鼓的擂动与纳达斯瓦兰的乐声充满街道时，一个人头顶着以鲜花

@@ -34,7 +34,7 @@ faq:
     a: "इसे जन्म से मृत्यु तक जीवन के संस्कार-अवसरों में, पवित्र अनुष्ठानों एवं रोग-मुक्ति अनुष्ठानों में प्रयोग किया जाता है, और यह पारंपरिक रूप से Iban योद्धा-परंपरा से बँधा है। इसकी आकृतियाँ महिलाओं के सारोंग, पुरुषों की लँगोटी और ओझा (shaman) के वस्त्रों में भी बुनी जाती हैं।"
 
 lang: "hi"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: एक बैकस्ट्रैप करघे के सहारे पीछे झुकी एक लंबे बालों वाली इबान बुनकर की जीवंत-आकार की आकृति, एक जंग-लाल और क्रीम इकत पुआ कुम्बु बुनते हुए जिसके ताने के धागे दर्शक की ओर फैले हैं
+    kind: actual
+    origin: third-party
+    subject: सरवाक के कुचिंग टेक्सटाइल म्यूज़ियम में एक बैकस्ट्रैप करघे पर एक जंग-रंग का पुआ कुम्बु बुनती इबान महिला का एक संग्रहालय प्रदर्शन
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 एक ऐसा वस्त्र जिसे इसकी बुनकर किसी "आशीर्वाद" के बिना रचने का साहस नहीं करती — कहा जाता है कि इसकी आकृतियाँ स्वप्नों में आती हैं, और यह कभी इसे बनाने वाले लोगों की योद्धा-परंपरा से कसकर बँधा था। वही है pua kumbu।

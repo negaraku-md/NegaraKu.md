@@ -32,7 +32,7 @@ faq:
   - q: "이 춤들은 종교적인 것인가요?"
     a: "일부 형식(카라갓탐, 카바디 앗탐, 마일랏탐)은 사원 숭배 전통에 뿌리를 두고 있습니다. 그러나 오늘날에는 많은 것이 사회·문화 행사에서 무대 예술의 형식으로도 공연됩니다. 이 글은 무용의 형식을 기술할 뿐이며, 어떠한 숭배의 형태도 설명하거나 평가하지 않습니다."
 lang: "ko"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: 진짜 공작 깃털로 부채처럼 펼친 꼬리와 부리 달린 머리장식을 갖춘 화려한 공작 의상을 입은 무용수가 어두운 배경에 조명을 받은 모습
+    kind: representative
+    origin: third-party
+    subject: 깃털 공작 의상을 입은 마일라땀(공작춤) 공연자
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: 노란 의상과 머리장식을 한 남성 민속 무용수가 허리에 화려하게 칠한 모형 말 틀을 두르고 초록 야외 배경에 선 모습
+    kind: representative
+    origin: third-party
+    subject: 타밀 모형 말 민속춤인 포이칼 쿠디라이 아땀
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 사원 축제 날, 타빌의 울림과 나다스와람의 소리가 거리를 가득 채울 때, 머리 위에 꽃으로 장식한

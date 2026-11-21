@@ -32,7 +32,7 @@ faq:
   - q: ¿Cómo se mantiene viva esta música en Malasia?
     a: "Los músicos de templo, los conjuntos de nadaswaram–thavil y numerosos grupos de urumi melam llevan adelante esta tradición. Los jóvenes empiezan a aprender a una edad temprana; muchos grupos gastan sus ingresos en uniformes, instrumentos y comidas del grupo, y funcionan como un servicio sin ánimo de lucro. Hoy esta tradición suena también fuera de los templos, en festivales y recepciones."
 lang: "es"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: En un templo hindú, un hombre sentado toca una larga flauta de viento nadaswaram mientras otro toca un tambor de barril horizontal thavil
+    kind: representative
+    origin: third-party
+    subject: Músicos de nadaswaram y thavil actuando en el templo hindú Sri Mariamman, Singapur
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: Un joven sostiene un instrumento de viento nadaswaram con pabellón acampanado junto a otro hombre que acuna un tambor de barril redondo thavil atado con cuerdas amarillas
+    kind: representative
+    origin: third-party
+    subject: Intérprete de nadaswaram junto a un intérprete de tambor de barril thavil, el dúo habitual de la música de templo del sur de la India
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 Al frente de una procesión de Thaipusam, en el momento en que una carroza del templo se pone en marcha, o a la entrada de un salón de bodas — en cualquier celebración hindú tamil de Malasia, lo primero que llena el aire es siempre un sonido concreto: la larga melodía del nadaswaram y el retumbar del thavil. Ese sonido no es casual: es la marca de la tradición del **mangala vadyam** (instrumentos auspiciosos), que ha acompañado a esta comunidad durante más de un siglo.

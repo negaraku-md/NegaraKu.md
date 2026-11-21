@@ -33,7 +33,7 @@ faq:
     a: "'Teriak bidaan' (membida barangan bertuah) ialah bahagian lazim dalam jamuan selepas Majlis Ulambana: penganjur membawa bahan persembahan bertuah dari meja — buah-buahan, beras, minuman, serta batang arang yang digelar 'emas hitam', semuanya dikira 'barangan bertuah' — untuk dibida secara terbuka satu demi satu, dan pembida tertinggi 'memenangi' setiap satu. Hasilnya kebanyakannya digunakan untuk menampung kos majlis dan menyokong kebajikan seperti sekolah Cina, sebab itu Perayaan Hantu Lapar di Malaysia turut membawa nuansa kuat bantu-membantu komuniti dan kebajikan."
 
 lang: "ms"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: Patung kertas Da Shi Ye berjubah biru yang menjulang tinggi di atas altar colok yang menyala, buah-buahan dan sebuah bekas colok ketika Perayaan Hantu Lapar di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Patung dewa penjaga Da Shi Ye (Tai Su Yeah) gergasi di atas altar persembahan di tokong Tow Boo Keong, Alor Setar, Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Dulang nasi, lauk-pauk, buah-buahan dan minuman di atas rumput, setiap satu dicucuk dengan colok merah yang menyala, disusun sebagai persembahan untuk Perayaan Hantu Lapar
+    kind: representative
+    origin: third-party
+    subject: Persembahan makanan tepi jalan dengan colok disusun untuk roh yang mengembara ketika Perayaan Hantu Lapar bulan ketujuh
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Sebaik bulan ketujuh lunar tiba, pemandangan menjelang malam di banyak simpang jalan di Pulau Pinang, Klang dan Johor berubah secara senyap: meja kecil disusun di tepi jalan, di atasnya buah-buahan, nasi, air teh dan longgokan wang kertas emas-perak, colok dan lilin berkelip-kelip dalam keremangan senja. Di tanah lapang kejiranan, satu patung dewa kertas setinggi beberapa meter dengan wajah bengis telah didirikan, sebuah pentas pula dibina menghadapnya; selepas gelap lampu menyala terang dan suara nyanyian berkumandang — namun satu barisan penuh kerusi di hadapan pentas sentiasa kekal kosong.

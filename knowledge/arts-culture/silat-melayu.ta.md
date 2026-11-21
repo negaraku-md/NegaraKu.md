@@ -37,7 +37,7 @@ faq:
     a: "தாக்குதல் மற்றும் சுய தற்காப்புக் கலையில் புலியின் அழகியல் அசைவுகளைப் பின்பற்றும் ஒரு பாணிக்கு உதாரணமாக UNESCO Silat Harimau-வைக் குறிப்பிடுகிறது. விலங்கு அல்லது இயற்கையின் கூறு ஒன்றின் பெயரால் அழைக்கப்படும் பல பாணிகளில் இதுவும் ஒன்று."
 
 lang: "ta"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: நீலப்பச்சை நிற கட்டிடச் சுவருக்கு எதிராக, சாம்பல் தரைக்கற்களின் மேல் தாழ்ந்த சண்டை நிலைகளில் எதிரெதிராக நிற்கும், கறுப்பு சிலாட் உடையும் கறுப்பு தலைக்கவசமும் அணிந்த வெறுங்காலி இரண்டு மலாய் தற்காப்புக் கலைஞர்கள், ஒருவர் குட்டை வாளை ஏந்தியுள்ளார்
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவில் சிலாட் காயோங் பயிற்சியின் போது கறுப்பு சிலாட் உடையில் சண்டை நிலைகளில் எதிரெதிராக நிற்கும் இரண்டு பெசிலாட் (சிலாட் வீரர்கள்)
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: நீலப்பச்சை நிற சுவருக்கு எதிராக, சாம்பல் தரைக்கற்களின் மேல் இருவரும் வெறுங்காலுடன், கறுப்பு சிலாட் உடை அணிந்த ஒரு மலாய் தற்காப்புக் கலைஞர் உயர்ந்து உதைக்கும் அசைவில் குதிக்க, குனிந்திருக்கும் அவரது கூட்டாளி அதைத் தடுக்கும் சிலாட் பயிற்சி காட்சி
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவில் சிலாட் காயோங் பயிற்சியின் போது பயிற்சிக் கூட்டாளிக்கு குதித்து உதை தரும் ஒரு பெசிலாட் (சிலாட் வீரர்)
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 ஒரு திறமையான சிலாட் வீரர் (pesilat) எதிரியின் எலும்பை முறிக்க முடியும் — அல்லது யாரையும் தொடாமல் மணமகள் முன் நடனமாடவும் முடியும். இரண்டுமே சிலாட்தான். இக்கலையைப் பற்றிப் புரிந்துகொள்ள மிகக் கடினமானது இதுவே: இது வெறும் சண்டையிடும் முறையும் அல்ல, வெறும் விழா நடனமும் அல்ல. இது ஒரே உடலில், ஒரே அடிச்சுவடுகளால் இயக்கப்படும், இரண்டுமே ஆகும்.

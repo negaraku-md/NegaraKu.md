@@ -29,7 +29,7 @@ faq:
   - q: "Is silambam recognised as a sport in Malaysia?"
     a: "Silambam is practised in Malaysia both as a martial art and as a competitive sport; national competitions, international championships and participation in the Malaysia Games (SUKMA) in some years have all taken place. However, the associations and the sport's administrative status may change from time to time; verify the current position against official sources."
 lang: "en"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: Woman in a red sari lunging in a low fighting stance, holding a curved sword in one hand and a round metal shield in the other
+    kind: representative
+    origin: third-party
+    subject: Silambam sword-and-shield (vaal and kedaiyam) form, a weapon variation of the Tamil martial art
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: Wall-mounted display board arranged with the weapons of Silambam, including long staves, curved swords, round shields and daggers
+    kind: representative
+    origin: third-party
+    subject: Display board of Silambam weapons, including staves, swords, shields and daggers
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
 ---
 
 At a temple festival or a [Tamil New Year](/en/arts-culture/tamil-new-year) event in Malaysia, you may see a young man twirling a long bamboo staff above his head and around his body at lightning speed, in time with the beat of the drums. That spinning is not merely for show — it is the hallmark of silambam, a Tamil martial art more than one and a half thousand years old.

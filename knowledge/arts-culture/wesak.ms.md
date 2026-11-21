@@ -21,7 +21,7 @@ appliesTo: "Sesiapa sahaja di Malaysia — sama ada Buddha atau tidak — yang i
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: Deretan panjang tanglung kecil tergantung berwarna biru kehijauan, hijau limau, merah jambu dan putih, setiap satu memegang lilin yang menyala dan sekeping kertas merah jambu berisi harapan baik, digantung di bawah khemah pada sambutan Hari Wesak di Malaysia dengan pengunjung berjalan di belakang
+    kind: actual
+    origin: third-party
+    subject: deretan tanglung restu penganut yang berwarna-warni dengan kepingan harapan baik pada sambutan Hari Wesak di Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: Beratus-ratus pelita lilin kecil berbentuk teratai yang menyala disusun dalam baris yang kemas di atas meja bertudung kain merah jambu dan kuning, menuju ke arah patung Buddha kecil yang diapit bunga dengan latar langit biru yang dilukis di dalam sebuah khemah
+    kind: actual
+    origin: third-party
+    subject: altar pemujaan dengan beratus-ratus pelita lilin teratai yang menyala di hadapan arca Buddha pada Hari Wesak di Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 Tanya bila Hari Wesak jatuh dan tiada jawapan tetap — ia berubah-ubah. Pada 2026 ia jatuh pada 31 Mei, pada 2027 pada 20 Mei, pada 2028 pada 9 Mei. Sebabnya mudah: Wesak ditetapkan oleh bulan, bukan oleh tarikh kalendar, dan kalendar candra serta Gregori beransur berbeza antara satu sama lain setiap tahun.

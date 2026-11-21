@@ -33,7 +33,7 @@ faq:
     a: "นี่เป็นหนึ่งในตำนานพระจันทร์ของเทศกาลไหว้พระจันทร์ที่แพร่หลายที่สุด เล่าว่าโฮ่วอี้ได้ยาอายุวัฒนะมา และฉางเอ๋อผู้เป็นภรรยาได้กลืนยาวิเศษนั้นในสถานการณ์หนึ่ง ร่างกายจึงเบาและลอยขึ้นไปอาศัยอยู่บนดวงจันทร์ แยกจากโลกมนุษย์นับแต่นั้น เรื่องนี้มีหลายสำนวนและรายละเอียดต่างกันไป โดยทั่วไปถือเป็นตำนานพื้นบ้านที่อธิบาย 'การชมจันทร์ในเทศกาลไหว้พระจันทร์และการมีผู้อาศัยอยู่บนดวงจันทร์' ไม่ใช่ข้อเท็จจริงทางประวัติศาสตร์ บทความนี้เพียงเล่าโดยสังเขปเท่านั้น"
 
 lang: "th"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: ขนมไหว้พระจันทร์อบสีน้ำตาลทองเรียงเป็นแถว ประทับลายกระต่ายหยกและลายดอกไม้ วางพักให้เย็นบนถาดโลหะเจาะรู ผิวแป้งเป็นมันเงาสะท้อนแสง
+    kind: representative
+    origin: third-party
+    subject: ขนมไหว้พระจันทร์ลายกระต่ายหยกอบสดใหม่ ซึ่งเป็นอาหารสัญลักษณ์ของเทศกาลไหว้พระจันทร์
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: โคมกระดาษพับจีบทรงกลมสีแดงพิมพ์ลายดาวสีขาวและเงากระต่าย แขวนอยู่หน้าใบไม้สีเขียวและดอกไม้สีชมพู เป็นโคมกระดาษพับได้แบบคลาสสิกที่เด็ก ๆ ถือในเทศกาลไหว้พระจันทร์
+    kind: representative
+    origin: third-party
+    subject: โคมกระดาษพับจีบสีแดงแบบดั้งเดิมชนิดที่เด็ก ๆ ถือในช่วงเทศกาลไหว้พระจันทร์
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 เมื่อค่ำลงในวันที่สิบห้าของเดือนแปดตามปฏิทินจันทรคติ โถงกลางของห้างสรรพสินค้าประดับด้วยโคมสีแดงสว่างเต็มไปหมด ส่วนในสวนของย่านที่อยู่อาศัย เด็ก ๆ จับกลุ่มสองสามคนถือโคมที่จุดสว่างเดินไปมา บนโต๊ะอาหารในบ้าน ขนมไหว้พระจันทร์หนึ่งกล่องที่หั่นเป็นชิ้นเล็ก ๆ วางคู่กับชาร้อนหนึ่งกา และส้มโอที่ปอกแล้วหนึ่งลูกอยู่ข้าง ๆ ครอบครัวยกเก้าอี้ออกไปนอกบ้าน เงยหน้าชมดวงจันทร์ที่กลมที่สุดในรอบปี — นี่คือค่ำคืนไหว้พระจันทร์แบบฉบับของครอบครัวชาวจีนมาเลเซีย

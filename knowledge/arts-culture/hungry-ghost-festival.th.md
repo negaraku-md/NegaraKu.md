@@ -33,7 +33,7 @@ faq:
     a: "'การประมูล' (ประมูลของมงคล) เป็นช่วงที่พบบ่อยหลังงานเลี้ยงของงานอูหลัน ผู้จัดจะนำเครื่องเซ่นมงคลบนโต๊ะ — ผลไม้ ข้าวสาร เครื่องดื่ม และแท่งถ่านที่เรียกว่า 'ทองดำ' อันเป็น 'ของมงคล' — มาเปิดประมูลต่อสาธารณะทีละชิ้น ผู้ให้ราคาสูงสุดจะ 'ประมูลได้' แต่ละชิ้น รายได้ส่วนใหญ่ใช้เป็นค่าใช้จ่ายของงานและบริจาคแก่การกุศล เช่น โรงเรียนจีน ด้วยเหตุนี้เทศกาลสารทจีนในมาเลเซียจึงมีสีสันของการช่วยเหลือเกื้อกูลในชุมชนและการกุศลอย่างเข้มข้นด้วย"
 
 lang: "th"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: หุ่นกระดาษเทพเจ้าตั่วสีเอี๊ยองค์สูงตระหง่านในชุดสีน้ำเงินตั้งอยู่เหนือแท่นบูชาที่มีธูปจุดอยู่ ผลไม้ และกระถางธูป ในช่วงเทศกาลสารทจีนในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: หุ่นเทพเจ้าผู้พิทักษ์ตั่วสีเอี๊ย (ไต้ซื่อเอี๊ย) ขนาดยักษ์เหนือแท่นบูชาเครื่องเซ่นที่วัดเตาโบ้เก้ง เมืองอาโลร์เซอตาร์ รัฐเกอดะฮ์
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: ถาดข้าว กับข้าว ผลไม้ และเครื่องดื่มวางอยู่บนพื้นหญ้า แต่ละถาดปักด้วยธูปสีแดงที่จุดไว้ จัดเป็นเครื่องเซ่นสำหรับเทศกาลสารทจีน
+    kind: representative
+    origin: third-party
+    subject: เครื่องเซ่นอาหารริมถนนพร้อมธูปที่วางไว้สำหรับวิญญาณเร่ร่อนในช่วงเทศกาลสารทจีนเดือนเจ็ด
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 พอเดือนเจ็ดตามปฏิทินจันทรคติมาถึง ภาพยามค่ำคืนตามหัวมุมถนนหลายแห่งในปีนัง กลัง และยะโฮร์ ก็ค่อย ๆ เปลี่ยนไปอย่างเงียบ ๆ ริมถนนมีการตั้งโต๊ะเล็ก ๆ บนนั้นมีผลไม้ ข้าว น้ำชา และกระดาษเงินกระดาษทองวางซ้อนเป็นตั้ง ธูปเทียนวูบวาบในแสงสลัวยามโพล้เพล้ บนที่ว่างในละแวกชุมชน มีการตั้งรูปเทพกระดาษสูงหลายเมตรที่มีสีหน้าดุดัน ด้านตรงข้ามตั้งเวทีการแสดง เมื่อค่ำลงไฟก็สว่างจ้าและเสียงเพลงก็ดังขึ้น — ทว่าเก้าอี้แถวหน้าสุดใต้เวทีทั้งแถวกลับว่างเปล่าอยู่ตลอด

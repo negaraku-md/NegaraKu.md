@@ -33,7 +33,7 @@ faq:
     a: "Penang's international dragon boat race has the longest history, held for years at the Teluk Bahang Dam, drawing teams from many countries and regions; Putrajaya, Malacca and other places have also hosted large dragon boat events. Such races are mostly supported by state governments or related bodies, serving both as competitive sport and tourism promotion. The exact dates and venues differ each year and are subject to the organisers' announcements."
 
 lang: "en"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: Rows of paddlers in red caps and white shirts digging their blades into the water as two canopied dragon boats race along a channel watched by a crowd
+    kind: representative
+    origin: third-party
+    subject: Teams racing decorated dragon boats, paddles churning the water, during a Dragon Boat Festival regatta
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: A bamboo-leaf-wrapped glutinous rice dumpling unwrapped to reveal savoury filling of braised pork belly, chestnut and salted egg yolk, next to a tied dumpling
+    kind: representative
+    origin: third-party
+    subject: An opened zongzi (bak chang) sticky-rice dumpling showing pork, chestnut and salted egg yolk, beside one still wrapped in bamboo leaves
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 As the fifth day of the fifth lunar month draws near, the scent of bamboo leaves and glutinous rice drifts from the kitchens of Chinese families. Homemakers pack soaked glutinous rice and fragrant stir-fried fillings layer by layer into leaves folded into a funnel shape, tie them tight with reed string, and lower string after string into the pot for a long boil. Meanwhile, at the Teluk Bahang Dam on the northwestern tip of Penang Island, slender dragon boats slice across the water; a drummer stands at the bow beating out the rhythm, and dozens of paddlers stroke in unison to the beat — these are the two faces of the Dragon Boat Festival in Malaysia: on one side the fragrance of zongzi in the kitchen, on the other the race on the water.

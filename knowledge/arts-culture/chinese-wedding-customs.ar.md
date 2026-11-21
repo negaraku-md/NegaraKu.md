@@ -32,7 +32,7 @@ faq:
   - q: "هل يجب أن يُستخدم في الزفاف اللون الأحمر واليوم الميمون؟ وما المحظورات؟"
     a: "اللون الأحمر وحرف 'السعادة المزدوجة' (囍) هما أبرز لون ورمز احتفاليَّين يمثّلان الزفاف الصيني، ويظهران على بطاقات الدعوة والهدايا وفراش العروسين والزينة؛ وغالبًا ما يُختار للزفاف 'يوم ميمون'. ومن الأمور الشائعة التي يُعتنى بها تفضيلُ الأعداد الزوجية في النقود والهدايا، وتجنّبُ الأرقام التي يتشاءم من لفظها، وابتعادُ الحوامل أو أهل الحداد أحيانًا عن بعض المراحل. غير أنّ مدى التمسّك بهذه المحظورات يختلف بحسب معتقد العائلة والمجموعة اللهجية، وكثير من العائلات تُبقي بعضها فقط وتبسّط الباقي."
 lang: "ar"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: طقم شاي زفاف صيني أحمر لامع على صينية حمراء، إبريق شاي مزيّن بحرف السعادة المضاعفة الذهبي وخمسة أكواب شاي حمراء صغيرة متناسقة مرتّبة حوله، يستخدمه العروسان لتقديم الشاي لكبار العائلة
+    kind: representative
+    origin: third-party
+    subject: إبريق وأكواب شاي حمراء وذهبية بحرف السعادة المضاعفة تُستخدم في مراسم شاي الزفاف الصيني
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: سلة هدايا زفاف باكول سياه عالية متدرّجة من الخشب المطليّ الأسود مزخرفة بدقة بأشكال وأزهار وطيور وأسماك ذهبية في كل طبقة، تُستخدم لحمل هدايا الخطبة الرمزية بين العائلتين، معروضة في صندوق زجاجي بمتحف
+    kind: representative
+    origin: third-party
+    subject: باكول سياه، السلة المتدرّجة المطليّة المستخدمة لحمل هدايا الخطبة بين العائلتين في زفاف صيني مضيقي
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 قبل أن ينبلج الفجر تمامًا، يكون صفٌّ من السيارات قد توقّف أمام بيت العروس. يحمل العريس باقة زهور، ومن خلفه بضعة من "الإخوة"، لكنّ بضعًا من "الأخوات" يطللن من الباب فيعترضنه: أجِبْ أولًا عن الأسئلة، ثم غنِّ مقطعًا، وكُلْ شرائح ليمون رُقِّقت تقطيعًا، وأخيرًا مرِّرْ بضعة أظرف حمراء من شقّ الباب — وما إن تُجتاز عقبة "اقتحام الباب" (تشوانغ مِن) هذه حتى يُفتح الباب، فيرى العريس العروس في ثوبها الأحمر كاملًا. مثل هذا الصباح المفعم بالمداعبة والبهجة هو مطلع يوم الزفاف في كثير من حفلات الزفاف الصينية في ماليزيا.

@@ -29,7 +29,7 @@ faq:
     a: "Le serunai se joue avec la technique de la respiration circulaire, qui permet à son son de se poursuivre sans interruption, ce qui en fait le principal porteur de la mélodie dans le Nobat."
 
 lang: "fr"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: Une rangée de grands tambours rebana ubi sur des supports en bois bleus, leurs corps et cadres peints de motifs floraux éclatants rouges, verts, jaunes et roses
+    kind: actual
+    origin: third-party
+    subject: Rangée de grands tambours sur cadre rebana ubi du Kelantan, en Malaisie
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: Un homme âgé en chemise orange joue d'un tuyau à vent à anche double serunai, avec des rangées de tambours sur cadre malais alignés au sol derrière lui
+    kind: actual
+    origin: third-party
+    subject: Musicien âgé jouant du serunai, tuyau à anche double, chez lui dans le Kelantan, en Malaisie
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 Les mêmes sonorités reviennent derrière presque tous les arts du spectacle malaisiens : le battement de la peau de chèvre frappée en groupe lors d'un mariage, la flûte aiguë et plaintive qui ouvre une scène de théâtre d'ombres, et le pincement apaisant des cordes de bois dans une maison longue du Sarawak. Les instruments qui les produisent apparaissent dans de nombreux articles sur les arts, c'est pourquoi cette page les rassemble en un seul endroit.

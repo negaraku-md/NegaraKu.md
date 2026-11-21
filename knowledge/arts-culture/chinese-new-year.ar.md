@@ -32,7 +32,7 @@ faq:
     a: "«لو هي» (yee sang، أو 捞鱼生) عادة شائعة في العام الجديد في ماليزيا وسنغافورة ومنطقة نانيانغ الأوسع، تُؤدّى عادةً أثناء عشاء لمّ الشمل أو تجمّع العام الجديد: يجتمع الجميع حول المائدة ويستخدمون أعواد الطعام لرفع الخضراوات والفواكه المقطّعة شرائح، وشرائح السمك النيّئة، ومكوّنات متنوّعة عالياً معاً، مع ترديد عبارات ميمونة مثل «لتعلُ ثرواتكم كالريح والماء» و«كلّما رفعتَ أكثر ازددتَ ازدهاراً». وهي شائعة محلياً على نطاق واسع، لكنها تُعدّ عموماً ممارسةً طوّرتها الجالية الصينية في منطقة نانيانغ، لا ممارسةً نشأت في الصين القديمة."
 
 lang: "ar"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: معبد كيك لوك سي في بينانغ يتوهج بآلاف أضواء الزينة الملونة والفوانيس الحمراء ليلاً خلال إضاءات رأس السنة الصينية
+    kind: actual
+    origin: third-party
+    subject: معبد كيك لوك سي في بينانغ مضاءً بمناسبة رأس السنة الصينية
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: زيّ رقصة الأسد بالأبيض والفضي متوازن فوق أعمدة أثناء أداء أمام المتاجر التقليدية في الحي الصيني بكوالالمبور خلال رأس السنة الصينية
+    kind: actual
+    origin: third-party
+    subject: رقصة الأسد تُؤدَّى على الأعمدة في الحي الصيني بكوالالمبور خلال رأس السنة الصينية
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 في ليلة رأس السنة، تُغلق متاجر كثيرة أبوابها مبكّراً، وتمتلئ الطرق السريعة بالسيارات المتّجهة نحو مسقط الرأس. ومع حلول المساء، تجتمع العائلة حول مائدة واحدة — عليها سمك (رمزاً لـ«الفائض كل عام»)، ودجاجة كاملة، وكُرات لحم ترمز إلى لمّ الشمل، وطبق yee sang بارد مقلَّب يُرفع عالياً بأعواد الطعام. وهذا العشاء، عشاء لمّ الشمل في ليلة رأس السنة، يَعُدّه كثير من الأُسر الصينية الماليزية أهمّ من اليوم الأول للعام الجديد نفسه.

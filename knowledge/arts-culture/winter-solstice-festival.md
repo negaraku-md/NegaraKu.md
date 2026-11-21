@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_y
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: 一碗近景的汤圆，晶莹半透明，有白色、淡紫和翠绿三色，在清甜的糖水中浮动
+    kind: representative
+    origin: third-party
+    subject: 白、紫、绿三色晶皮汤圆浮在糖水碗中的特写
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: 俯视镜头，四颗饱满的紫色汤圆浸在蓝边碗里清澈滚烫的糖水中，热气袅袅升起
+    kind: representative
+    origin: third-party
+    subject: 俯视一碗浸在滚烫糖水中、冒着热气的紫色汤圆
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 十二月下旬的一个傍晚，厨房里糯米粉的香气混着姜汤的甜味。一家人围在桌边，把一小团一小团的糯米搓成圆子——有白的，也有染成粉红、浅绿的。孩子手里的圆子大小不一，大人边搓边说：吃了汤圆，就又长了一岁。这一天是冬至。

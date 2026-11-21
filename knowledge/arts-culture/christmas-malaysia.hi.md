@@ -34,7 +34,7 @@ faq:
     a: "ईसाई परिवार इस दिन को चर्च-सेवाओं के माध्यम से धार्मिक रूप से मनाते हैं। उससे परे, क्रिसमस को सार्वजनिक जीवन में अधिक व्यापक रूप से चिह्नित किया जाता है — मॉल और होटल सजावट करते हैं और मौसमी बिक्री चलाते हैं, और किसी भी पृष्ठभूमि के अतिथियों को साझा भोजन के लिए आमंत्रित करने की खुले-द्वार परंपरा आम है। मौसम के व्यापक, सामाजिक पक्ष में भागीदारी ईसाइयों तक सीमित नहीं है।"
 
 lang: "hi"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: कुआलालंपुर के एक शॉपिंग मॉल में एक विस्तृत कैंडीलैंड क्रिसमस प्रदर्शन, जिसमें एक लाल और सफ़ेद पेपरमिंट-भँवर मंच, जिंजरब्रेड घर और भीड़ के ऊपर झालरों से सजे क्रिसमस पेड़ों की कतारें हैं
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर के एक मॉल में जिंजरब्रेड घरों और रोशन पेड़ों के साथ कैंडीलैंड-थीम वाला क्रिसमस प्रदर्शन
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: मध्य कुआलालंपुर में सफ़ेद-दीवार वाला, लाल-टाइल वाला सेंट मैरीज़ एंग्लिकन कैथेड्रल, जिसके गैबल पर एक क्रॉस और सामने एक मलेशियाई झंडा है, पीछे आधुनिक कार्यालय मीनारें उठती हुईं
+    kind: actual
+    origin: third-party
+    subject: सेंट मैरीज़ एंग्लिकन कैथेड्रल, मध्य कुआलालंपुर में एक ऐतिहासिक सफ़ेद चर्च
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 24 दिसंबर की शाम, कोटा किनाबालू या कुचिंग का एक चर्च एक देर की सेवा के लिए भर जाता है, जबकि कुछ सौ किलोमीटर दूर प्रायद्वीप में वही तारीख एक साधारण कामकाजी गुरुवार होती है। अगली सुबह, 25 दिसंबर, पूरा देश काम से छुट्टी पर होता है। यह विभाजन — एक तारीख, दो बिल्कुल भिन्न स्थितियाँ — यह समझने का सबसे स्पष्ट तरीका है कि क्रिसमस मलेशिया में कहाँ बैठता है: एक समुदाय के लिए एक धार्मिक उत्सव, सबके लिए एक सार्वजनिक अवकाश, और खुले द्वारों का एक मौसम जिसमें कई लोग आस्था की परवाह किए बिना भाग लेते हैं।

@@ -35,7 +35,7 @@ faq:
     a: "ไม่ บาจูกูรุงคือเสื้อยาวที่หลวมและปกปิดรูปร่าง สวมกับผ้า ส่วนเกอบายาคือเสื้อผ่าหน้าที่เข้ารูปมากกว่า กลัดด้วยเกอโรงซัง (kerongsang, เข็มกลัด) หรือกระดุม และเข้าคู่กับโสร่ง เกอบายาโดยทั่วไปเข้ารูปกว่าบาจูกูรุง"
 
 lang: "th"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Har
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: การชุมนุมของชายมลายูที่นั่งอ่านอัลกุรอานจำนวนมาก แต่ละคนสวมบาจูเมอลายูสีต่าง ๆ และหมวกซงก๊กกำมะหยี่สีดำ เต็มห้องโถงมัสยิดที่ปูพรมสีแดง
+    kind: actual
+    origin: third-party
+    subject: แถวชายมลายูในบาจูเมอลายูหลากสีและซงก๊กสีดำในการชุมนุมละหมาดงานอภิเษกสมรสหลวงในรัฐเซอลาโงร์ ประเทศมาเลเซีย
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: ชายยืนตัดกับฉากหลังสีขาวสวมบาจูเมอลายูสีน้ำเงินสดพร้อมปกตั้ง หมวกซงก๊กกำมะหยี่สีดำ และผ้าซงเก็ตลายดอกไม้สีน้ำเงินเป็นมัน (ซัมปิง) พับทับกางเกง
+    kind: actual
+    origin: third-party
+    subject: ชายสวมชุดบาจูเมอลายูครบชุดของผู้ชาย เสื้อคลุมสีน้ำเงินสดสวมคู่กับซงก๊กสีดำและซัมปิงซงเก็ต บนฉากหลังสตูดิโอสีขาว
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 สังเกตชายคนหนึ่งเตรียมตัวสำหรับวันฮารีรายาหรืองานแต่งงาน เสื้อหลวมสวมแล้ว กางเกงใส่แล้ว — แต่เขายังไม่เสร็จ ที่เหลือคือสองสิ่งที่กำหนดว่าเขาดูแต่งกายครบชุดหรือครึ่ง ๆ กลาง ๆ กล่าวคือ ผ้าซัมปิงหนึ่งผืนที่คาดที่เอว และซงก๊กหนึ่งใบบนศีรษะ หากปราศจากสองสิ่งนี้ บาจูมลายูก็ยังไม่ใช่บาจูมลายูจริง ๆ

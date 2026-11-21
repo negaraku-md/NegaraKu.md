@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana, DBP का आधिकारिक डिजिटल संदर्भ शब्दकोश है, जो एक व्यापक मलय-भाषा संदर्भ मंच प्रदान करने की डिजिटल रूपांतरण योजना का भाग है और kamus.dbp.gov.my पर निःशुल्क सुलभ है।"
 
 lang: "hi"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: देवान बहासा दान पुस्ताका भवन के अग्रभाग पर मलेशियाई जीवन को दर्शाता एक बड़ा रंगीन घनवादी-शैली का मोज़ेक भित्तिचित्र, जिसके पीछे कार्यालय मीनार उठती है
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में डीबीपी पोडियम ब्लॉक पर 'Bahasa Bangsa Negara' बैनर और पीछे मीनार के साथ बड़ा मोज़ेक भित्तिचित्र
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: देवान बहासा दान पुस्ताका भवन का भव्य ढलवाँ-छत वाला प्रवेश बरामदा, एक चौड़ी सीढ़ी के ऊपर जटिल उकेरे हुए मलय-आकृति पैनलों से मढ़ा हुआ
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में डीबीपी का मुख्य प्रवेश-द्वार, अपने मलय-आकृति उकेरे पैनलों और भव्य सीढ़ी के साथ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 हर बार जब आप किसी मलय शब्द की वर्तनी जाँचते हैं, किसी नए वैज्ञानिक शब्द से सामना होता है, या किसी राष्ट्रीय साहित्यकार की उपाधि पढ़ते हैं, तो परदे के पीछे एक संस्था होती है: Dewan Bahasa dan Pustaka।

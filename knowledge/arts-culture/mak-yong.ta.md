@@ -33,7 +33,7 @@ faq:
     a: "Kelantan-இல் பொது நிகழ்ச்சிகள் 1998-இல் நிறைவேற்றப்பட்ட மாநில பொழுதுபோக்குக் கட்டுப்பாட்டு சட்டவிதியின் கீழ் கட்டுப்படுத்தப்பட்டுள்ளன. 25 செப்டம்பர் 2019 அன்று, Kelantan-இன் துணை மந்திரி பெசார் Datuk Mohd Amar Nik Abdullah, மாநில அரசு நிர்ணயித்த ஷரியாவுக்கு இணங்கும் நிபந்தனைகளுக்கு உட்பட்டு நிகழ்ச்சிகள் அனுமதிக்கப்படுவதாக அறிவித்தார்; இதில் வழிபாட்டுக் கூறுகள் இல்லாதிருத்தல் மற்றும் அவுரத்தை மறைக்கும் கடமை உள்ளடங்கும், மேலும் மாநில அரசு மற்றும் மாநில சமய அதிகார நிறுவனத்தால் தொடர்ச்சியான கண்காணிப்பும் இருக்கும்."
 
 lang: "ta"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: கெலந்தான் மாநில அருங்காட்சியகத்தில், கண்ணாடிக்குப் பின்னால் உருவப் பொம்மைகளின் மேல் இரண்டு மாக் யோங் உடைகள் — நகை பதித்த மகுடத்துடன் கூடிய தங்க நிற அங்கி, இருண்ட தலைக்கவசத்துடன் கூடிய மெரூன் நிற அங்கி
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கெலந்தான் மாநில அருங்காட்சியகத்தில் காட்சிப்படுத்தப்பட்ட அலங்கார மகுடங்களுடன் கூடிய மாக் யோங் உடைகள்
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: கெண்டாங் மேளங்களையும் ரெபாப் வயலினையும் ஏந்தி அமர்ந்திருக்கும் ஆண் இசைக்கலைஞர்களுக்கிடையே நிற்கும், மகுடம் அணிந்த மாக் யோங் நடனக் கலைஞரின் செபியா வரலாற்றுப் புகைப்படம்
+    kind: representative
+    origin: third-party
+    subject: மேளங்களுடனும் ரெபாப்புடனும் அமர்ந்திருக்கும் இசைக்கலைஞர்களால் சூழப்பட்ட, மகுடம் அணிந்த மாக் யோங் முதன்மைக் கலைஞரின் வரலாற்றுப் புகைப்படம்
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 முதல் ஒலி ஒரு நடிகரிடமிருந்து வருவதில்லை. அது மூன்று கம்பிகளைக் கொண்ட, பேரிக்காய் வடிவிலான ஒரு மரத்துண்டிலிருந்து — rebab — திறந்தவெளி மரமேடையின் ஓரத்தில் மெதுவாக வில்லால் இழுத்து வாசிக்கப்படும்போது வருகிறது. பார்வையாளர்கள் மூன்று பக்கங்களிலும் அமர்ந்திருக்கிறார்கள். கூரை பனையோலையால் ஆனது. ஒரு வரி உரையாடல் கூட பேசப்படுவதற்கு முன்பே, ஒரு இளவரசி அந்த இசைக்கருவியை நோக்கி ஏற்கனவே தன் உடலைக் குனிந்து, தன் பெயரே எல்லாவற்றையும் விளக்கிவிடும் ஒரு நடனத்தில் ஈடுபட்டுவிட்டாள்: **Mengadap Rebab**.

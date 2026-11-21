@@ -33,7 +33,7 @@ faq:
     a: "تحتفل الأُسر المسيحية باليوم دينياً عبر القدّاسات الكنسية. وإلى جانب ذلك، يُحتفى بعيد الميلاد على نطاق أوسع في الحياة العامة — إذ تضع المجمّعات التجارية والفنادق الزينة وتقيم تخفيضات موسمية، ويشيع تقليد البيت المفتوح في استضافة ضيوف من أي خلفية لتناول وجبة مشتركة. والمشاركة في الجانب الاجتماعي الأوسع من الموسم لا تقتصر على المسيحيين."
 
 lang: "ar"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: عرض عيد ميلاد مجيد فخم بطابع أرض الحلوى في أحد مراكز التسوق بكوالالمبور، بمسرح أحمر وأبيض بنمط حلوى النعناع وبيوت خبز الزنجبيل وصفوف من أشجار عيد الميلاد المضاءة بأضواء الزينة فوق الحشود
+    kind: actual
+    origin: third-party
+    subject: عرض عيد ميلاد بطابع أرض الحلوى مع بيوت خبز الزنجبيل وأشجار مضاءة في أحد مراكز التسوق بكوالالمبور
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: كاتدرائية القديسة مريم الأنجليكانية ذات الجدران البيضاء والسقف القرميدي الأحمر في وسط كوالالمبور، بصليب على جملونها وعلم ماليزي أمامها، وأبراج مكاتب حديثة ترتفع خلفها
+    kind: actual
+    origin: third-party
+    subject: كاتدرائية القديسة مريم الأنجليكانية، كنيسة بيضاء تاريخية في وسط كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 في مساء 24 ديسمبر، تمتلئ كنيسة في كوتا كينابالو أو كوتشينغ بروّاد قدّاسٍ متأخّر، بينما يكون التاريخ نفسه على بُعد بضع مئات من الكيلومترات في شبه الجزيرة يومَ خميسٍ عاديّ للعمل. وفي صباح اليوم التالي، 25 ديسمبر، تتوقّف البلاد كلها عن العمل. وهذا الانقسام — تاريخ واحد، وحالتان مختلفتان تماماً — هو أوضح طريقة لفهم موقع عيد الميلاد في ماليزيا: عيد ديني لجالية واحدة، وعطلة رسمية للجميع، وموسم أبوابٍ مفتوحة يشارك فيه كثيرون بصرف النظر عن المعتقد.

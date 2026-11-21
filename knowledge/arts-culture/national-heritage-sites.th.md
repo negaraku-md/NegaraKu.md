@@ -31,7 +31,7 @@ faq:
     a: "เจ้าของสามารถครอบครองทรัพย์สินนั้นต่อไปได้ (มาตรา 69) แต่การเปลี่ยนแปลงการครอบครองมรดกแห่งชาติทำได้เฉพาะผ่านการรับมรดกหรือการขายโดยได้รับอนุมัติล่วงหน้าจากข้าหลวง และต้องให้ข้าหลวงมีสิทธิ์ก่อนในการซื้อ (มาตรา 70)"
 
 lang: "th"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: ซากปรักหักพังของประตูปอร์ตาเดซานติอาโกของป้อมอาฟาโมซาในเมืองมะละกาที่สร้างจากอิฐลาเตอไรต์ผุกร่อน ซุ้มโค้งที่ทรุดโทรมมีรูปสลักนูนอยู่ด้านบน พร้อมปืนใหญ่สำริดเก่าตั้งอยู่บนฐานอิฐด้านหน้า และต้นไม้เขตร้อนตัดกับท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: ประตูปอร์ตาเดซานติอาโกของป้อมโปรตุเกสอาฟาโมซาในเมืองมะละกา อนุสรณ์สถานมรดกแห่งชาติที่ขึ้นทะเบียน
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: ด้านหน้าอิฐสีชมพูของปราสาทเคลลีที่บาตูกาจะฮ์ รัฐเประ แถวเสาระเบียงโค้งและเสาเรียวสองชั้นเปิดสู่ลานปูอิฐ พร้อมกำแพงที่พังทลายบางส่วนและพรรณไม้เขตร้อนใต้ท้องฟ้าสดใสที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: ปราสาทเคลลี คฤหาสน์ต้นศตวรรษที่ 20 ที่สร้างไม่เสร็จที่บาตูกาจะฮ์ รัฐเประ แหล่งมรดกที่ได้รับการคุ้มครอง
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 เรือนแถวอายุร้อยปีในจอร์จทาวน์ กริชหนึ่งเล่ม การรำราชสำนักหนึ่งชุด และช่างทำ [ซงเกต](/arts-culture/songket) ที่ยังมีชีวิตคนหนึ่ง — ทั้งสี่สามารถได้รับตำแหน่งทางกฎหมายเดียวกันในมาเลเซีย นั่นคือ *มรดกแห่งชาติ (Warisan Kebangsaan)* สิ่งที่ผูกโยงพวกเขาไว้ไม่ใช่บัญชีของ UNESCO แต่เป็นทะเบียนภายในประเทศที่ไม่ค่อยมีใครเอ่ยชื่อ กล่าวคือ **ทะเบียนมรดกแห่งชาติ (Daftar Warisan Kebangsaan)**

@@ -33,7 +33,7 @@ faq:
     a: "Prinsip desain awan larat klasik memang menghindari gambaran manusia atau hewan sebagai elemen utama corak. Namun ukiran kayu Melayu juga memiliki kategori motif fauna tersendiri — seperti bentuk ayam, badak, dan itik — yang digunakan terpisah dari corak awan larat berulang."
 
 lang: "id"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: Mimbar masjid dari kayu yang berhias dengan kanopi tinggi bersepuh emas yang diukir dan ditembus motif dedaunan emas serta pucuk berjambul, menjulang di atas tangga berukir merah-emas di atas karpet salat hijau
+    kind: actual
+    origin: third-party
+    subject: mimbar kayu Masjid Tengkera (Tranquerah) di Melaka yang bersepuh emas dan diukir rumit, Malaysia
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: Jalur ukiran kerawang tembus bermotif dedaunan menyerupai lidah api yang membentang di sepanjang papan cucuran atap kayu di bawah atap rumah Melayu tradisional berpapan cokelat, dibingkai dedaunan hijau dan langit
+    kind: actual
+    origin: third-party
+    subject: papan cucuran atap berukir kerawang (papan kerawang) yang menghias garis atap rumah kayu Melayu tradisional di Hulu Langat, Selangor
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 Lihat baik-baik pada panel kayu di jendela sebuah rumah Melayu lama, dan coba cari di mana coraknya bermula. Anda tidak akan menemukannya. Itu bukan kesalahan mata Anda — ia memang dirancang demikian.

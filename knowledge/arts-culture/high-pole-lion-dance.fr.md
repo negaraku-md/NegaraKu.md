@@ -33,7 +33,7 @@ faq:
     a: "La danse du lion sur hauts poteaux a pour origine la coutume traditionnelle du lion éveillé de la communauté chinoise, et certaines troupes ont leur siège dans des temples ou en portent le nom, et avant de monter sur les poteaux il peut y avoir des rites traditionnels comme le fait de peindre les yeux. Mais, en tant que sport et spectacle, elle est aujourd'hui plus souvent considérée comme une activité culturelle et un sport, et certaines troupes modernes atténuent par ailleurs la dimension religieuse dans leur entraînement. Cet article décrit seulement la coutume et le sport eux-mêmes, et ne porte pas de jugement sur quelque croyance que ce soit."
 
 lang: "fr"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_h
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: Un lion de danse du lion blanc perché sur de hautes perches rouges au-dessus d'une foule dans une rue de Kuala Lumpur, avec des enseignes de boutiques chinoises à l'arrière-plan
+    kind: actual
+    origin: third-party
+    subject: Danse du lion sur hautes perches exécutée sur des poteaux jong dans une rue de Kuala Lumpur devant une foule, en Malaisie
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: Une tête et un corps de lion de danse du lion blanc richement décorés, en équilibre au sommet de plusieurs hautes perches, faisant face à l'avant sous les éclairages de scène
+    kind: representative
+    origin: third-party
+    subject: Lion de compétition blanc accroupi et en équilibre sur plusieurs hautes perches jong, la tête du lion face à l'objectif
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 Dès que le tambour se resserre, le lion bondit dans les airs, ses pattes avant se posent fermement sur un poteau d'acier à peine plus gros que le bord d'un bol, et la queue du lion suit aussitôt — deux exécutants sautent et posent entre une rangée de poteaux de hauteurs variées, à deux ou trois mètres du sol, tandis que le public retient son souffle, jusqu'à ce que ce lion devenu comme « vivant » se tienne fermement sur le plus haut poteau et que les applaudissements éclatent enfin. Ce n'est pas la danse du lion festive au sol, mais un sport doté de notations, de champions et d'un classement mondial : la danse du lion sur hauts poteaux.

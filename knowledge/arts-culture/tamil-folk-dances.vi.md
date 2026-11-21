@@ -32,7 +32,7 @@ faq:
   - q: "Các điệu múa này có mang tính tôn giáo không?"
     a: "Một số hình thức (Karagattam, Kavadi Aattam, Mayilattam) bắt rễ trong các truyền thống thờ cúng tại đền; tuy nhiên, ngày nay nhiều điệu cũng được biểu diễn như một hình thức nghệ thuật sân khấu tại các sự kiện xã hội-văn hóa. Bài viết này chỉ mô tả các hình thức múa; nó không giải thích hay đánh giá bất kỳ hình thức thờ cúng nào."
 lang: "vi"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: Vũ công mặc một bộ trang phục công cầu kỳ với chiếc đuôi xòe bằng lông công thật và một chiếc mũ đội đầu hình mỏ chim, được chiếu sáng trên nền tối
+    kind: representative
+    origin: third-party
+    subject: Người biểu diễn Mayilattam (điệu múa công) trong bộ trang phục công lông vũ
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: Vũ công dân gian nam trong trang phục và mũ đội đầu màu vàng đeo một khung ngựa giả sơn màu rực rỡ quanh thắt lưng, trong một khung cảnh ngoài trời xanh mướt
+    kind: representative
+    origin: third-party
+    subject: Poikkal Kudirai Attam, điệu múa dân gian ngựa giả của người Tamil
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 Vào một ngày lễ hội đền thờ, khi tiếng trống thavil dồn dập và tiếng kèn nadaswaram

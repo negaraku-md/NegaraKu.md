@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_hol
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: 一排排金黄烤制的月饼压印着玉兔和花卉图案，摊放在有孔的金属烤盘上冷却，油亮的饼面在光线下泛着光泽
+    kind: representative
+    origin: third-party
+    subject: 刚出炉、压印玉兔图案的月饼，中秋节的招牌美食
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: 一盏红色折叠纸灯笼，上面印着白色星星和兔子剪影，挂在绿叶和粉花之前，是中秋节孩子们常提的那种可折叠纸灯笼
+    kind: representative
+    origin: third-party
+    subject: 一盏传统红色折叠纸灯笼，正是中秋节孩子们常提的那种
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 农历八月十五入夜，商场的中庭挂满红彤彤的灯笼，住宅区的公园里，三三两两的孩子提着点亮的灯笼走来走去。家里的餐桌上，一盒切成小块的月饼配着一壶热茶，旁边摆着一颗剥好的柚子。一家人搬了椅子到屋外，抬头看那一年里最圆的月亮——这就是马来西亚华人家庭里典型的中秋夜。

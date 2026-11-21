@@ -35,7 +35,7 @@ faq:
     a: "两者是主题相近但各自独立的节日。达雅节是砂拉越达雅族的丰收节，于6月1日及2日举行。丰收节（Kaamatan）则是沙巴卡达山—杜顺族（Kadazandusun）的丰收节，于5月30日及31日举行。两者都感谢稻米丰收，但庆祝的族群、仪式与日期各不相同。"
 
 lang: "zh"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrio
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: 伊班族（Iban）和乌鲁族（Orang Ulu）表演者戴着精致的银饰头冠、串珠和羽毛王冠，参加砂拉越古晋的丰收节（Gawai Dayak）游行
+    kind: actual
+    origin: third-party
+    subject: 古晋丰收节游行上身着全套盛装的达雅族表演者
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: 砂拉越一座伊班族长屋内长长的木制公共廊道（ruai），丰收节（Gawai Dayak）便在此举行庆祝
+    kind: actual
+    origin: third-party
+    subject: 砂拉越伊班族长屋的公共廊道
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 5月的最后一天，时钟尚未敲响午夜，在砂拉越某条河边的一座长屋里，铜锣已在等待。稻米已经收成入仓。长廊已经打扫干净，挂上了新的草席。一坛 tuak（米酒）已备妥待用。当铜锣终于敲响，长屋头人便会举杯，沿着长长的公共走廊，众人齐声为同样的三个字祝酒：长寿、健康、繁荣。

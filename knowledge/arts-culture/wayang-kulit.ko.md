@@ -30,7 +30,7 @@ faq:
     a: "마을 오락으로서가 아니라 대개 문화 축제, 박물관과 유산 프로그램, 관광 공연에서 볼 수 있습니다. 예정된 공연을 찾으려면 국립문화예술부(National Department for Culture and Arts)와 주 문화 기관이 현실적인 출발점입니다."
 
 lang: "ko"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: 가는 대나무 막대에 꽂힌, 주황, 초록, 보라로 화려하게 칠하고 정교하게 조각한 가죽 와양 쿨릿 인형의 접사
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 클란탄 주립박물관의, 조종 막대에 꽂힌 화려하게 칠한 클란탄 와양 쿨릿 가죽 인형 접사
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: 엮은 대나무 오두막 전시 안에서 전통 북과 안내판 앞에 서 있는 색색의 가죽 그림자 인형 두 점
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 클란탄 주립박물관의, 초가 오두막 세트에 설명판과 함께 전시된 클란탄 와양 쿨릿 인형과 가믈란 북
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 먼저 등불이 켜집니다. 나무 틀에 팽팽하게 걸린 흰 무명천 뒤에 한 남자가 책상다리로 앉아 있고, 그의 양옆 손 닿는 곳에는 납작한 가죽 인형이 쌓여 있으며, 등 뒤에서는 북과 공(gong), 그리고 날카로운 겹서(reed) 악기인 스루나이(serunai)로 이루어진 작은 악단이 기다립니다. 그는 남은 밤 내내 그 자리를 떠나지 않습니다. 여러 시간 뒤 마지막 그림자가 막을 가로지를 무렵이면, 그는 왕과 악마, 어릿광대와 공주의 목소리를 연기하고, 장면 사이의 전환을 서술하며, 모든 악사에게 신호를 주었을 것입니다 — 홀로.

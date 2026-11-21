@@ -34,7 +34,7 @@ faq:
     a: "펀자브어는 여전히 살아 있으나 언어 전이를 겪고 있습니다. 코타키나발루 시크 공동체를 대상으로 한 학술 연구는 이제 대다수 가정이 집에서 영어를 쓴다는 것을 발견했습니다. 이 언어를 지키기 위해 구르드와라는 펀자브어 수업 — 예컨대 구르드와라 사히브 스름반(Gurdwara Sahib Seremban)의 펀자브어 교육 센터 — 을 운영해 아이들에게 구르무키(Gurmukhi) 문자를 가르칩니다."
 
 lang: "ko"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: 구르드와라 구루 나낙 다르바르 타트 칼사 디완 슬랑오르의 밝은 노랑과 흰색 박공 정면으로, 입구 위에 시크 칸다 문장이 있고 지붕에 사프란색 니샨 사히브 깃발이, 오른쪽에 금빛 양파 모양 돔이 있으며, 체크무늬 타일 앞마당 너머로 본 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 슬랑오르주 샤알람의 시크 사원, 구르드와라 구루 나낙 다르바르 타트 칼사 디완 슬랑오르
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: 구르드와라 사히브 쿠칭의 높은 흰색 다탑 정면으로, 금빛 꼭대기 돔과 모퉁이 첨탑이 있고, 'Gurdwara Sahib Kuching'이라 적힌 노란 간판 양옆에 시크 칸다 문장이 있으며, 파란 하늘 아래 중앙 깃대에 말레이시아 국기와 사라왁 주기가 걸린 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사라왁 쿠칭의 사라왁 시크 사원 협회 구르드와라, 구르드와라 사히브 쿠칭
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 19세기 말라야의 영국 경찰 대열과 요새에서, 터번을 두르고 수염을 텁수룩하게 기른 그 관리들 다수는 현지인이 아니었습니다 — 그들은 인도 북서부 펀자브에서 수천 마일 떨어진 곳에서 데려온 시크교도였습니다. 바로 그 치안 임무에서 말레이시아에서 가장 작지만 가장 알아보기 쉬운 소수 공동체 가운데 하나가 자라났습니다.

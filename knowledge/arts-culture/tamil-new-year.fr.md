@@ -32,7 +32,7 @@ faq:
   - q: "Qu'a de particulier le pachadi à la mangue et à la fleur de neem ?"
     a: "C'est le plat emblématique du Nouvel An tamoul. Il se prépare en mêlant de la mangue verte (acide), du sucre de palme (sucré), de la fleur de neem (amère), du tamarin et d'autres ingrédients. Le mélange du sucré, de l'amer et de l'acide dans un même plat est considéré comme un rappel : accepter que l'année à venir portera un mélange de joie et de peine."
 lang: "fr"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: Un pot en argent surmonté d'une noix de coco, de feuilles de manguier et de fleurs jaunes, flanqué de lampes à huile en laiton allumées, disposé en autel propitiatoire du Nouvel An tamoul
+    kind: representative
+    origin: third-party
+    subject: Kalasam traditionnel du Nouvel An tamoul, un pot en argent surmonté d'une noix de coco, de feuilles de manguier et de fleurs à côté de lampes à huile en laiton
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: Les hautes tours gopuram finement sculptées et peintes de couleurs vives du temple de Meenakshi Amman à Madurai s'élevant au-dessus des corridors à piliers et du bassin du temple
+    kind: representative
+    origin: third-party
+    subject: Les imposants gopurams sculptés du temple de Meenakshi Amman à Madurai, foyer de la fête de Chithirai
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 La première aube du mois de Chithirai. Dans bien des foyers tamouls, un plateau a

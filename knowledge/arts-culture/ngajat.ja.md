@@ -30,7 +30,7 @@ faq:
     a: "JKKNが記録している種類には、木臼を歯で咥えて男性が踊るンガジャット・ルソン、pua kumbuを織る動きを模して女性が踊るンガジャット・インドゥ、pua kumbuの布を用いるンガジャット・プア・クンブ、そしてガワイ・ダヤックの祝賀の終わりを告げるンガジャット・ンギリン・ティカイがある。"
 
 lang: "ja"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: そびえ立つ銀のスグ・ティンギの頭飾りとコインを貼り付けた黒いコルセットを身につけた若いイバン族の女性が、両手を顎の近くで繊細なムドラーにし、暗い青の舞台を背にオレンジのポンポンのビーズの襟に縁取られている様子。
+    kind: actual
+    origin: third-party
+    subject: ボルネオ、マレーシアのサラワク文化村で正装の正装をまとった女性のイバン族の踊り手
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: 銀の冠の頭飾り、赤いビーズの上衣、コインの房飾りのスカートを身につけた女性のイバン族の踊り手の列が、それぞれ小さな赤い布を手に、明るく照らされた祭りの舞台を一斉に横切って進み、手前にはシルエットの観客がいる様子。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの祭りの舞台でサヤウ・ンガジャを披露する女性のイバン族の踊り手の一団
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 サラワク州のあるロングハウスの回廊で、頭にサイチョウの羽根を飾った男が跳び、旋回し、床を踏み鳴らす——片手に剣、もう片方の手に盾を持って。それが**ンガジャット**、かつて戦場から帰る戦士を迎えた踊りである。

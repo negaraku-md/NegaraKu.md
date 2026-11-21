@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_fo
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: A young Bharatanatyam dancer in a pink-and-gold silk costume, ankle bells and temple jewellery balances on one leg, both hands raised in scissor-like mudras near her head, smiling against a plain dark stage.
+    kind: representative
+    origin: third-party
+    subject: Young Bharatanatyam dancer standing on one leg with both hands in mudra beside her head
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: A Bharatanatyam dancer in a black blouse and red-and-gold silk drape spins mid-step, one arm curved high overhead and the other pointing across her body, her pleated skirt flaring against a black background.
+    kind: representative
+    origin: third-party
+    subject: Bharatanatyam dancer caught mid-turn with one arm raised and skirt swirling
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 A dancer's feet strike the floor in a rapid, precise pattern. Bells ring in time with the beat of a mridangam drum. Her hands form a shape — a deer, a lotus, a question — and her eyes follow it before her face answers with an emotion the audience is meant to feel, not just watch. Then the rhythm resolves, she holds a sculptural pose, and the music drops to silence.

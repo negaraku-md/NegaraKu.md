@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "가싱 놀이를 어떻게 하는지, 가싱 팡카와 가싱 우리의 차이, 그리고 그것이 동해안 유산과 지니는 관련을 이해하고자 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malay
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: 전형적인 납작한 원반 모양 몸체와 가운데가 솟은 꼭지를 가진, 갓 깎아낸 창백한 색의 나무 가싱 팽이 두 개가 매끈한 원통형 던지기 손잡이와 함께 따뜻한 햇살 속 대팻밥 위에 놓여 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 던지기 자루가 딸린, 갓 깎아낸 말레이식 가싱 팽이 두 개
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: 주황색 운동복을 입은 소년이 몸을 앞으로 숙이며 긴 흰 끈으로 팽이를 나무판 위에 던지고, 이미 판 위에서 돌고 있는 팽이 하나가 보이며, 뒤에서는 구경꾼들이 가까이서 지켜보는 모습
+    kind: representative
+    origin: third-party
+    subject: 전통 팽이 대회에서 끈으로 가싱을 던지는 어린 참가자
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 먼저 소리가 다다릅니다 — 무거운 나무가 무거운 나무를 때리는 타격음, 뒤이어 터지는 함성. 트렝가누(Terengganu) 쿠알라느루스(Kuala Nerus) 인근의 한 마을 공터에서 두 무리가 마주 섭니다. 한 사람이 끈으로 자신의 가싱을 던지고, 또 다른 가싱은 이미 땅에서 돌며 기다리고 있습니다. 이기는 쪽은 가장 빠른 쪽이 아니라, 부딪힌 뒤에도 가싱이 여전히 돌고 있는 쪽입니다.

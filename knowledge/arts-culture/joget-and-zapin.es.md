@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que desee entender las diferencias de origen, música y movimiento entre el Joget y el Zapin como dos danzas folclóricas malayas distintas."
 
 lang: "es"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: Un grupo de bailarines malayos con vivos trajes de sarong rosa, verde y dorado alzan los brazos y giran las muñecas en un animado joget, los hombres con tops a juego y las mujeres con flores en el cabello, en un evento al aire libre en Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Grupo de bailarines folclóricos malayos interpretando una animada danza de estilo joget en Kuala Lumpur, Malasia
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: Decenas de bailarines malayos con baju kurung, sarong y gorros songkok alzan ambas manos al unísono durante un zapin masivo al aire libre, llenando una calle frente a un pabellón de madera en un día nublado.
+    kind: representative
+    origin: third-party
+    subject: Danza zapin (jepin) masiva de bailarines malayos con vestimenta tradicional en un festival urbano en Pontianak, Indonesia
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 Dos bailarines se mueven con rapidez al ritmo del gendang — los pies golpean, las manos danzan con suavidad. Muchos de los que observan lo llaman sin más «danza malaya», sin distinguir cuál es Joget y cuál Zapin. Pregunta de dónde viene cada una, y la respuesta nos lleva a dos rincones del mundo: una desde la cubierta de un barco mercante portugués en Melaka, la otra desde una caravana de predicadores árabes procedentes de Hadramaut.

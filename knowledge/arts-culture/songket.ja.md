@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: 平らに広げて展示された完成した長方形のソンケットの布。金糸の花模様が施された2枚の赤いサイドパネルが、明るい金色の中央パネルを挟んでいる
+    kind: actual
+    origin: third-party
+    subject: 金のブロケードの地と中央のヘッドパネルを見せる、トレンガヌ産のマレーシアのソンケットの腰布（カイン）を平らに広げたもの
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: 織り込まれた金属糸できらめく緑金色のソンケット布で作られた、折りたたまれた三角形のマレーの頭飾り（タンジャ）がスタンドに展示されている様子
+    kind: actual
+    origin: third-party
+    subject: トレンガヌ産の金のソンケット布で作られた、折りたたみ式のマレーの頭飾りタンジャ
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 ソンケット（songket、手織りの金襴）の工房でもっともよく聞こえるのは、機械の音ではない。木が押される音、糸が引かれる音、そして一本の竹ひごが差し込まれては引き抜かれる音——それが何度も何度も、一日中、一行ずつ模様を進めながら繰り返される。

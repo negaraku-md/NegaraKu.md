@@ -32,7 +32,7 @@ faq:
   - q: "هل هذه الرقصات ذات طابع ديني؟"
     a: "بعض الأشكال (كاراغاتّام، وكافادي أاتّام، ومايِلاتّام) ضاربة الجذور في تقاليد العبادة في المعابد؛ غير أنّ كثيرًا منها يُؤدَّى اليوم أيضًا بوصفه شكلًا من الفن المسرحي في الفعاليات الاجتماعية-الثقافية. ويقتصر هذا المقال على وصف أشكال الرقص؛ فهو لا يشرح أيّ شكل من أشكال العبادة ولا يقوّمه."
 lang: "ar"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: راقص يرتدي زيّ طاووس مزخرفاً بذيل مروحي من ريش طاووس حقيقي وغطاء رأس بمنقار، مضاءً أمام خلفية داكنة
+    kind: representative
+    origin: third-party
+    subject: أدّاء رقصة مايلاتام (رقصة الطاووس) بزيّ طاووس بالريش
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: راقص فلكلوري ذكر بزيّ أصفر وغطاء رأس يرتدي هيكل حصان وهمي مطليّ بألوان زاهية حول خصره، في محيط خارجي أخضر
+    kind: representative
+    origin: third-party
+    subject: بويكّال كوديراي أتّام، رقصة الحصان الوهمي الفلكلورية التاميلية
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 في يوم مهرجان المعبد، حين يملأ قرعُ التافيل وصوتُ الناداسوارام الشارعَ، يُقبِل شخصٌ راقصًا

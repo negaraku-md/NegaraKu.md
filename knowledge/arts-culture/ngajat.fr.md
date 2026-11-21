@@ -30,7 +30,7 @@ faq:
     a: "Parmi les types recensés par le JKKN figurent le Ngajat Lesong (exécuté par les hommes tout en tenant un mortier en bois avec les dents), le Ngajat Indu (exécuté par les femmes avec des mouvements qui imitent le tissage du pua kumbu), le Ngajat Pua Kumbu (qui utilise l'étoffe pua kumbu) et le Ngajat Ngiling Tikai, qui marque la fin de la célébration du Gawai Dayak."
 
 lang: "fr"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: Une jeune femme iban coiffée d'une haute coiffe argentée sugu tinggi et portant un corset noir plaqué de pièces tient les deux mains dans un mudra délicat près de son menton, encadrée par un collier de perles à pompons orange sur une scène bleu foncé.
+    kind: actual
+    origin: third-party
+    subject: Danseuse iban en costume cérémoniel complet au village culturel du Sarawak, à Bornéo, en Malaisie
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: Une rangée de danseuses iban en coiffes-couronnes argentées, hauts perlés rouges et jupes à franges de pièces se meuvent à l'unisson sur une scène de festival vivement éclairée, chacune tenant un petit tissu rouge, avec des spectateurs en ombre chinoise au premier plan.
+    kind: actual
+    origin: third-party
+    subject: Troupe de danseuses iban exécutant le sayau ngajat sur une scène de festival, en Malaisie
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 Dans la galerie d'une maison longue (longhouse) de Sarawak, un homme coiffé de plumes de calao bondit, tournoie et frappe le sol du pied : une épée dans une main, un bouclier dans l'autre. C'est le **ngajat**, la danse qui accueillait autrefois le retour des guerriers du champ de bataille.

@@ -33,7 +33,7 @@ faq:
     a: "มากาเวาคือพิธีขอบคุณเพื่อยกย่องและ 'เรียกกลับ' วิญญาณข้าวบัมบาอาซนหลังการเก็บเกี่ยว ตามธรรมเนียมนำโดยโบโบฮีซัน (bobohizan หรือสะกดว่า bobolian) หญิงผู้ทำพิธีที่สวดบทพิธีกรรม เป็นหนึ่งในองค์ประกอบพิธีกรรมที่เก่าแก่ของกามาตัน"
 
 lang: "th"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: ผู้ชนะอุนดุกงาเดาท่ามกลางผู้เข้ารอบสุดท้ายหกคนในชุดกาดาซัน-ดูซุนแบบดั้งเดิมสีดำทองบนเวทีในเทศกาลกามาตันที่เปอนัมปัง รัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: ผู้ชนะและผู้เข้ารอบสุดท้ายอุนดุกงาเดาในการประกวดเทศกาลกามาตัน
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: นักเต้นชาวกาดาซัน-ดูซุนรุ่นเยาว์ในชุดสีดำแต่งขอบสีแดงและเงินแสดงการเต้นรำแบบดั้งเดิมพร้อมฆ้องในงานฉลองเทศกาลเก็บเกี่ยวกามาตันในรัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: เยาวชนชาวกาดาซัน-ดูซุนแสดงการเต้นรำเทศกาลเก็บเกี่ยวพร้อมฆ้อง
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 เทศกาลนี้ตั้งชื่อตามแนวคิดเดียว กล่าวคือ การเก็บเกี่ยว *กามาตัน (Kaamatan)* หมายความเช่นนั้นพอดีในภาษากาดาซันดูซุน และทุกสิ่งอื่นในการฉลอง — พิธีกรรม สุราข้าว การประกวดที่สวมมงกุฎในค่ำสุดท้าย — ล้วนงอกออกมาจากการกระทำหนึ่งนั้นคือการนำข้าวเข้าฉาง

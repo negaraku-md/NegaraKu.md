@@ -34,7 +34,7 @@ faq:
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chi
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: Kek Lok Si Temple in Penang glowing with thousands of coloured fairy lights and red lanterns at night during the Chinese New Year illuminations
+    kind: actual
+    origin: third-party
+    subject: Kek Lok Si Temple in Penang illuminated for Chinese New Year
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: A white and silver lion dance costume balanced atop poles performing outside shophouses in Kuala Lumpur's Chinatown during Chinese New Year
+    kind: actual
+    origin: third-party
+    subject: Lion dance performed on poles in Kuala Lumpur's Chinatown during Chinese New Year
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 On New Year's Eve, many shops close early and the highways fill with cars heading toward hometowns. By evening, the family gathers around one table — fish on it (for "surplus every year"), a whole chicken, meatballs symbolising reunion, and a cold tossed yee sang dish meant to be lifted high with chopsticks. This New Year's Eve reunion dinner is regarded by many Malaysian Chinese families as more important than the first day of the new year itself.

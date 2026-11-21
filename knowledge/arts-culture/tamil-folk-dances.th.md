@@ -32,7 +32,7 @@ faq:
   - q: "การรำเหล่านี้เกี่ยวข้องกับศาสนาหรือไม่?"
     a: "บางรูปแบบ (กรกัตตัม, กาวดีอัตตัม, มยิลัตตัม) หยั่งรากในจารีตการบูชาที่วัด อย่างไรก็ตาม ปัจจุบันหลายรูปแบบก็แสดงในฐานะศิลปะบนเวทีในงานทางสังคม-วัฒนธรรมด้วย บทความนี้บรรยายเพียงรูปแบบของการรำเท่านั้น ไม่ได้อธิบายหรือประเมินการบูชาในรูปแบบใด"
 lang: "th"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: นักเต้นสวมชุดนกยูงอันวิจิตรพร้อมหางที่กางออกทำจากขนนกยูงจริงและเครื่องสวมศีรษะรูปจะงอยปาก ส่องสว่างตัดกับฉากหลังสีเข้ม
+    kind: representative
+    origin: third-party
+    subject: นักแสดงมยิลาฏฏัม (การเต้นนกยูง) ในชุดนกยูงประดับขนนก
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: นักเต้นพื้นบ้านชายในชุดและเครื่องสวมศีรษะสีเหลืองสวมโครงม้าหุ่นที่ทาสีสดใสรอบเอว ในฉากกลางแจ้งสีเขียว
+    kind: representative
+    origin: third-party
+    subject: ปอยกกัลกุฑิไรอาฏฏัม การเต้นม้าหุ่นพื้นบ้านทมิฬ
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 ในวันงานเทศกาลวัด เมื่อเสียงกระหน่ำของทวิลและเสียงนาทสวรัมดังก้องไปทั่วถนน ชายผู้หนึ่งทูนหม้อ

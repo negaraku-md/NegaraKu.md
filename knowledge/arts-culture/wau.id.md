@@ -35,7 +35,7 @@ verificationNeeded:
   - "Daftar 'wau kebangsaan' yang kerap dikaitkan dengan Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — tidak ada publikasi resmi yang ditemukan."
 
 lang: "id"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: Tampilan makro permukaan sebuah wau yang memperlihatkan motif bunga dan daun yang dipotong dengan tangan dari kertas foil biru kehijauan dan emas berkilau bergaris hitam dengan latar kertas gelap, dengan sekuntum bunga magenta di sudut kanan bawah
+    kind: actual
+    origin: third-party
+    subject: tampilan dekat hiasan bunga potongan kertas dan foil yang rumit pada sebuah wau Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: Di dalam bengkel kayu, beberapa panel wau yang sudah jadi bermotif foil merah muda, emas dan biru kehijauan tergantung di samping rangka layang-layang bambu ramping yang direntangi tali kencang, dengan pembuatnya tampak sebagian di sebuah meja di latar belakang
+    kind: actual
+    origin: third-party
+    subject: badan wau yang sudah jadi dan rangka wau bambu polos di bengkel seorang pembuat layang-layang
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 Sebelum Anda melihat wau itu, Anda mendengarnya dahulu. Sebuah wau tradisional yang dibuat dengan benar akan berdengung selama ia di udara — bukan bunyi angin, melainkan nada yang sengaja dirancang masuk ke dalam pembuatannya.

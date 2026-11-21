@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: தேங்காய், மாவிலைகள் மற்றும் மஞ்சள் மலர்களால் மேலே அலங்கரிக்கப்பட்ட ஒரு வெள்ளிப் பானை, எரியும் பித்தளை எண்ணெய் விளக்குகளால் இருபுறமும் சூழப்பட்டு, ஒரு மங்கலகரமான தமிழ்ப் புத்தாண்டு பலிபீடமாக அமைக்கப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: தேங்காய், மாவிலைகள் மற்றும் மலர்களால் மேலே அலங்கரிக்கப்பட்ட வெள்ளிப் பானையும் பித்தளை எண்ணெய் விளக்குகளும் கொண்ட பாரம்பரிய தமிழ்ப் புத்தாண்டு கலசம்
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: மதுரையில் உள்ள மீனாட்சி அம்மன் கோயிலின் உயரமான, நுணுக்கமாகச் செதுக்கப்பட்டு பிரகாசமாக வர்ணம் பூசப்பட்ட கோபுரங்கள், கோயிலின் தூண் வரிசை நடைகூடங்களுக்கும் குளத்துக்கும் மேலே உயர்கின்றன
+    kind: representative
+    origin: third-party
+    subject: சித்திரை திருவிழாவின் இருப்பிடமான, மதுரையில் உள்ள மீனாட்சி அம்மன் கோயிலின் உயரமான செதுக்கப்பட்ட கோபுரங்கள்
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 சித்திரை மாதத்தின் முதல் விடியல். பல தமிழ் வீடுகளில் நேற்றிரவே ஒரு தட்டு

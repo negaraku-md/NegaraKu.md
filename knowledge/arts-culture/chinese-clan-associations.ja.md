@@ -33,7 +33,7 @@ faq:
     a: "現代の会館の相互扶助の役割は大きく変化しました。多くの会館は、奨学金・就学ローンの給付、方言と伝統文化の保存、祭事や親睦の開催、地域福祉の推進に重点を置いています。歴史の長い一部の宗祠や姓氏橋は、ジョージタウンが世界遺産に登録された後、文化観光と建築保存の重点となりました。会館ごとに活動の度合いや重点は異なります。"
 
 lang: "ja"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: 旧正月のために夕暮れにライトアップされた邱公司の宗祠。赤い提灯と光る光の枠が吊るされ、前庭に群衆が集まっている様子
+    kind: actual
+    origin: third-party
+    subject: ペナン、ジョージタウンの2024年の旧正月のためにライトアップされ赤い提灯で飾られた邱公司の宗祠
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: 邱公司の宗祠の天井を見上げた眺め。テラコッタのタイルを張った垂木、彩色された梁、豊かに金箔を施した彫刻の持ち送りが見える
+    kind: actual
+    origin: third-party
+    subject: ペナン、ジョージタウンの邱公司の宗祠の彩色され金箔を施した木造の天井
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 ペナン・ジョージタウンのコーンウォリス要塞あたりに足を踏み入れると、連なる店屋（ショップハウス）の間に、反りあがった軒と精緻な彫刻・彩色を施した宗祠が突如として現れます——龍山堂邱公司です。さらに海辺へ向かうと、木杭に支えられて水面へ張り出した木造家屋の村落が並び、それぞれ一つの姓を冠しています——姓周橋、姓林橋、姓陳橋。これらの建物は廟でもなければ、ただの住居でもなく、華人移民社会で最も古い組織形態の一つが残した実体——会館と宗親会です。

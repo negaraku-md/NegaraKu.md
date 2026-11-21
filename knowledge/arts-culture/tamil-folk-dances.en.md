@@ -32,7 +32,7 @@ faq:
   - q: "Are these dances religious?"
     a: "Some forms (Karagattam, Kavadi Aattam, Mayilattam) are rooted in temple-worship traditions; however, today many are also performed as a stage art form at social-cultural events. This article only describes the dance forms; it does not explain or evaluate any form of worship."
 lang: "en"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: Dancer wearing an ornate peacock costume with a fanned tail of real peacock feathers and a beaked headdress, lit against a dark background
+    kind: representative
+    origin: third-party
+    subject: Mayilattam (peacock dance) performer in a feathered peacock costume
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: Male folk dancer in yellow costume and headdress wearing a brightly painted dummy-horse frame around his waist, in a green outdoor setting
+    kind: representative
+    origin: third-party
+    subject: Poikkal Kudirai Attam, the Tamil dummy-horse folk dance
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 On a temple festival day, as the beat of the thavil and the sound of the nadaswaram

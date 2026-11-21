@@ -19,7 +19,7 @@ keyTakeaways:
   - "La forma artística está vinculada a una tradición de dikir del sur de Tailandia que fue adaptada en Kelantan con la incorporación del pantun y el dialecto de Kelantan"
 appliesTo: "Cualquiera que quiera entender la forma escénica del Dikir Barat, los papeles del Tukang Karut y del Tok Juara, y la estructura de una compañía."
 lang: "es"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: Una fila de intérpretes de dikir barat sentados con trajes verdes y dorados y altos tocados aplauden al unísono y sonríen durante una actuación nocturna, con tambores de mano rebana en el suelo ante ellos
+    kind: representative
+    origin: third-party
+    subject: Fila de intérpretes de dikir barat sentados (awok-awok) aplaudiendo al unísono (tradición malaya compartida, Chingay, Singapur)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: Una cantante solista canta ante un micrófono mientras una fila sentada de estudiantes intérpretes de negro con cintas rojas en la cabeza aplaude al unísono, con un tambor rebana y un gong, en el salón de una escuela de Malasia
+    kind: actual
+    origin: third-party
+    subject: Grupo escolar de dikir barat con una cantante solista, coro de awok-awok aplaudiendo y percusión, Malasia
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 Dos grupos se sientan con las piernas cruzadas, frente a frente en el escenario. No hay guion. Cuando el primer grupo termina una ronda de [pantun](/es/arts-culture/pantun) satírico sobre la subida de precios, el segundo grupo tiene apenas unos segundos para componer una réplica — y debe rimar, debe caer en el compás e, idealmente, debe ser más afilada que el verso original.

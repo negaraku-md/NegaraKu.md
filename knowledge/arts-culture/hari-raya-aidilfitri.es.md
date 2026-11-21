@@ -35,7 +35,7 @@ faq:
     a: "El rumah terbuka es la práctica de invitar a parientes, vecinos y amigos — incluidos los de otras razas y religiones — a visitar y disfrutar de la comida durante todo el periodo de Syawal. Se ha convertido en un rasgo social muy extendido en Malasia, y a menudo lo organizan también las agencias gubernamentales y las empresas, no solo en los hogares privados."
 
 lang: "es"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: Paquetes de arroz ketupat palas trenzados con hoja de palma junto a un plato de rendang de ternera, un plato clásico de Hari Raya Aidilfitri en Malasia
+    kind: actual
+    origin: third-party
+    subject: Ketupat palas con rendang de ternera, un plato clásico de Hari Raya
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: Una lámpara de aceite de bambú (pelita) ardiendo con una llama brillante en un jardín oscuro durante Hari Raya Aidilfitri en Malasia
+    kind: actual
+    origin: third-party
+    subject: Una lámpara de aceite de bambú (pelita) encendida de noche durante Hari Raya
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 En la última noche del Ramadán, todo el país parece ponerse en movimiento a la vez. La autopista Norte–Sur queda atascada durante horas, las estaciones de autobuses se llenan de bolsas y latas de galletas, y se encienden lámparas pelita en los porches, desde las ciudades hasta los rincones más remotos del kampung. Al día siguiente, 1 de Syawal, termina un mes de ayuno — y Malasia celebra el Hari Raya Aidilfitri.

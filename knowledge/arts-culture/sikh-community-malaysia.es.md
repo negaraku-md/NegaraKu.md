@@ -34,7 +34,7 @@ faq:
     a: "El punjabí sigue vivo, pero atraviesa un cambio lingüístico: una investigación académica sobre la comunidad sij de Kota Kinabalu halló que la mayoría de las familias usa ahora el inglés en casa. Para preservar la lengua, los gurdwaras imparten clases de punjabí —por ejemplo, el Centro de Educación Punjabí del Gurdwara Sahib Seremban— que enseñan la escritura gurmukhi a los niños."
 
 lang: "es"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: La fachada a dos aguas de un amarillo y blanco vivos del Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, con el emblema sij del Khanda sobre la entrada, banderas Nishan Sahib de color azafrán en el tejado y una cúpula bulbosa dorada a la derecha, vista a través de un patio de losas ajedrezadas
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, un templo sij en Shah Alam, Selangor, Malasia
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: La alta fachada blanca de múltiples torres del Gurdwara Sahib Kuching con cúpulas rematadas en dorado y minaretes en las esquinas, emblemas sij del Khanda flanqueando un cartel amarillo que reza Gurdwara Sahib Kuching, con banderas de Malasia y de Sarawak ondeando desde un mástil central, bajo un cielo azul
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, el gurdwara de la Asociación del Templo Sij de Sarawak en Kuching, Sarawak, Malasia
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 En las filas de la policía y en los fuertes británicos de la Malaya del siglo XIX, muchos de aquellos oficiales de turbante y barba poblada no eran locales: eran sijes traídos desde miles de kilómetros de distancia, desde el Punjab, en el noroeste de la India. De aquel deber de mantener la seguridad surgió una de las comunidades minoritarias más pequeñas y, a la vez, más reconocibles al instante de Malasia.

@@ -33,7 +33,7 @@ faq:
     a: "La danza del león sobre postes altos tiene su origen en la tradición del león despierto de la comunidad china, y algunas agrupaciones tienen su sede en templos o llevan su nombre, y antes de subir a los postes puede haber ritos tradicionales como el de pintar los ojos. Pero, como deporte y espectáculo, hoy se considera más bien una actividad cultural y un deporte, y algunas agrupaciones modernas atenúan además el componente religioso en su entrenamiento. Este artículo solo describe la costumbre y el deporte en sí, y no emite juicio sobre ninguna creencia."
 
 lang: "es"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_h
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: Un león blanco de la danza del león posado sobre altos postes rojos por encima de una multitud en una calle de Kuala Lumpur, con rótulos de tiendas en chino al fondo
+    kind: actual
+    origin: third-party
+    subject: Danza del león sobre postes altos (jong) en una calle de Kuala Lumpur ante una multitud, Malasia
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: Una cabeza y un cuerpo de león blanco de la danza del león, vivamente decorados, sostenidos en equilibrio sobre la cima de varios postes altos, mirando al frente bajo la iluminación del escenario
+    kind: representative
+    origin: third-party
+    subject: León de competición blanco agazapado y en equilibrio sobre varios postes jong altos, con la cabeza del león mirando a la cámara
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 En cuanto el tambor se tensa, el león salta por los aires, sus patas delanteras aterrizan con firmeza sobre un poste de acero no más grueso que el borde de un cuenco, y la cola del león lo sigue de inmediato: dos ejecutantes saltan y posan entre una hilera de postes de distintas alturas, a dos o tres metros del suelo, mientras el público contiene la respiración, hasta que ese león que parece «vivo» se planta con firmeza sobre el poste más alto y entonces estalla el aplauso. No es la danza del león festiva a ras de suelo, sino un deporte con puntuaciones, campeones y clasificación mundial: la danza del león sobre postes altos.

@@ -30,7 +30,7 @@ faq:
     a: "ஆம். உலக பாரம்பரிய மையம் மலேசியாவின் தற்காலிகப் பட்டியலில் (Tentative List) மூன்று தளங்களைப் பதிவு செய்துள்ளது: தீபகற்ப மலேசியாவின் தேசியப் பூங்கா (Taman Negara), Gombak Selangor Quartz Ridge, மற்றும் Sungai Buloh Leprosarium. ஒரு தற்காலிகப் பட்டியலிடல் என்பது பரிந்துரைக்கும் நோக்கத்தின் அறிவிப்பே தவிர, பட்டியலில் சேர்த்தல் அல்ல."
 
 lang: ta
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: en
 translationStatus: "in-sync"
 status: "published"
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: பினாங்கு, ஜார்ஜ் டவுனில் உள்ள ஒரு குறுகிய பாரம்பரியத் தெரு; சிவப்பு லாந்தர்கள் தொங்கும் பழைய இரு மாடி கடை வீடுகளும், ஒரு பட்டிக் ஓவிய அருங்காட்சியக பலகையும், வலதுபுறத்தில் நீல லெபுஹ் ஆர்மேனியன் தெருப் பலகையும், மஞ்சள் கால்நடை கடவையுடன் ஒரு அமைதியான சாலையும் உள்ளன
+    kind: actual
+    origin: third-party
+    subject: யுனெஸ்கோ உலகப் பாரம்பரியத் தலத்தின் பகுதியான, பினாங்கின் ஜார்ஜ் டவுன் பாரம்பரிய மாவட்டத்தில் உள்ள லெபுஹ் ஆர்மேனியன் (ஆர்மேனியன் தெரு)
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: சபாவில் உள்ள கினபாலு மலையின் சாம்பல் கிரானைட் பாறைத்திரள், அதன் கூர்மையான மலைமுகடு காடடர்ந்த அடிவாரங்களுக்கு மேலே உயர்கிறது; முன்புறத்தில் பசுமையான பச்சை மரங்களும் புல் சரிவும், தெளிந்த நீல வானத்தின் கீழ் உள்ளன
+    kind: actual
+    origin: third-party
+    subject: யுனெஸ்கோ உலகப் பாரம்பரியத் தலமான, சபாவில் உள்ள கினபாலு பூங்காவுக்கு மேலே உயரும் கினபாலு மலை
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 மலேசியாவில் எத்தனை உலக பாரம்பரியத் தளங்கள் உள்ளன எனக் கேளுங்கள், பெரும்பாலான ஆதாரங்கள் நான்கு எனச் சொல்லும். அது 2024 வரை உண்மையாக இருந்தது. Niah குகைத் தொகுதி அந்த ஆண்டு ஜூலையில் சேர்க்கப்பட்டது, மேலும் Forest Research Institute Malaysia Forest Park Selangor 2025-ல் அதைத் தொடர்ந்தது — இதனால் மொத்தம் ஆறாக உயர்ந்தது.

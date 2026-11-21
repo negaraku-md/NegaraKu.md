@@ -33,7 +33,7 @@ faq:
     a: "Le rôle d'entraide des associations contemporaines a beaucoup changé. Beaucoup mettent l'accent sur l'octroi de bourses et de prêts d'études, la préservation des dialectes et de la culture traditionnelle, l'organisation de fêtes et de rencontres, et l'action sociale ; certains temples de clan anciens et les Débarcadères des clans sont devenus des pôles du tourisme culturel et de la conservation architecturale après l'inscription de George Town au patrimoine mondial. Le degré d'activité et les accents de chaque association diffèrent."
 
 lang: "fr"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: La maison de clan Khoo Kongsi illuminée au crépuscule pour le Nouvel An chinois, ornée de lanternes rouges et de cadres lumineux rayonnants tandis qu'une foule se rassemble dans l'avant-cour
+    kind: actual
+    origin: third-party
+    subject: Maison de clan Khoo Kongsi illuminée et décorée de lanternes rouges pour le Nouvel An chinois 2024, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: Vue en contre-plongée du plafond de la maison de clan Khoo Kongsi, montrant des chevrons aux tuiles de terre cuite, des poutres peintes et des consoles sculptées richement dorées
+    kind: actual
+    origin: third-party
+    subject: Le plafond en bois peint et doré de la maison de clan Khoo Kongsi, George Town, Penang
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 En pénétrant dans le quartier qui entoure le fort Cornwallis, à George Town (Penang), au milieu des rangées de maisons-boutiques surgit soudain un temple de clan aux avant-toits recourbés, finement sculptés, et aux poutres peintes : c'est le Leong San Tong Khoo Kongsi. En poursuivant vers la mer, on découvre des rangées de maisons de bois sur pilotis qui s'avancent au-dessus de l'eau, chaque village portant le nom d'un seul patronyme : le Débarcadère Chew, le Débarcadère Lim, le Débarcadère Tan. Ces constructions ne sont ni des temples ni de simples habitations, mais les vestiges matériels de l'une des plus anciennes formes d'organisation de la société immigrée chinoise : les associations de clan et de pays.

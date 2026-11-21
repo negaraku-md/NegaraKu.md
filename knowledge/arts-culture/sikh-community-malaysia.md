@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: Fasad berkabung kuning terang dan putih Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, lambang Khanda Sikh di atas pintu masuk, bendera Nishan Sahib berwarna kunyit di bumbung dan sebuah kubah bawang emas di sebelah kanan, dilihat merentasi laman hadapan berjubin corak dam
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, sebuah kuil Sikh di Shah Alam, Selangor, Malaysia
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: Fasad putih bermenara banyak yang tinggi pada Gurdwara Sahib Kuching dengan kubah berpuncak emas dan menara di penjuru, lambang Khanda Sikh mengapit papan tanda kuning bertulis Gurdwara Sahib Kuching, bendera Malaysia dan Sarawak berkibar dari tiang tengah, di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, gurdwara Persatuan Kuil Sikh Sarawak di Kuching, Sarawak, Malaysia
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 Di barisan polis dan kubu-kubu British di Tanah Melayu abad ke-19, ramai pegawai yang berserban dan berjanggut lebat itu bukan orang tempatan — mereka orang Sikh yang dibawa ribuan batu dari Punjab di barat laut India. Daripada tugas menjaga keselamatan itulah tumbuhnya salah satu komuniti minoriti Malaysia yang paling kecil tetapi paling mudah dikenali.

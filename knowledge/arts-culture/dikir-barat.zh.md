@@ -20,7 +20,7 @@ appliesTo: "任何想了解 Dikir Barat 的演出形式、Tukang Karut 与 Tok J
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: 一排席地而坐的迪基巴拉（dikir barat）表演者身穿绿金两色服装、戴高头饰，在夜间表演中齐声拍手微笑，面前地上放着瑞巴那（rebana）手鼓
+    kind: representative
+    origin: third-party
+    subject: 一排席地而坐的迪基巴拉表演者（awok-awok）齐声拍手（马来族群共有的传统，摄于新加坡妆艺游行 Chingay）
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: 一名女主唱对着麦克风演唱，一排坐着的学生表演者身穿黑衣、系红头带齐声拍手，配有一只瑞巴那鼓和一面锣，在马来西亚一所学校礼堂里
+    kind: actual
+    origin: third-party
+    subject: 马来西亚一支学校迪基巴拉队伍，有主唱、拍手的 awok-awok 合唱队和打击乐
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 两支队伍在台上盘腿相对而坐。没有剧本。当第一队唱完一轮讽刺物价上涨的 [pantun](/zh/arts-culture/pantun)（马来即兴四行诗），第二队只有短短几秒钟构思回应——而且必须押韵、必须踩准节拍，若可能的话，还得比原句更犀利。

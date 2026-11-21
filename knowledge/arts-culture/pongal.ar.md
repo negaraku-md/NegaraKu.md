@@ -32,7 +32,7 @@ faq:
   - q: "ما هي أيام تاي بونغال الأربعة؟"
     a: "Bhogi (التخلّص من القديم وتنظيف البيت)، وThai Pongal أو Surya Pongal (شكر الشمس وتقديم البونغال)، وMattu Pongal (تكريم الماشية التي تعين على الحرث)، وKaanum Pongal (زيارة الأقارب والخروج للنزهة) — هذه هي الأيام الأربعة."
 lang: "ar"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_we
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: لوحة كولام بونغال كبيرة ملوّنة مرسومة بالمساحيق الملونة على الأرض، تُظهر سيقان قصب السكر وأزهاراً زاهية وقدراً احتفالياً فائضاً، خارج بوابة منزل
+    kind: representative
+    origin: third-party
+    subject: لوحة كولام بونغال ملوّنة بقصب السكر والأزهار وزخرفة القدر الفائض على أحد الشوارع
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: قدران طينيان مستديران بحافات حمراء، مطليّان يدوياً بالأبيض بزخارف متعرّجة ونقاط ملوّنة، معدّان لطهي البونغال خلال مهرجان الحصاد
+    kind: representative
+    origin: third-party
+    subject: قدرا بونغال طينيان مطليّان يدوياً مزيّنان لمهرجان الحصاد
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 في فجر اليوم الذي يُطلّ فيه شهر تاي، تعجّ باحات بيوت العائلات التاميلية في أنحاء

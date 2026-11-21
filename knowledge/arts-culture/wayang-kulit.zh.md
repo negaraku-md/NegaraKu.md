@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -71,6 +71,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: 一具雕刻精致、彩绘鲜艳的皮影戏（wayang kulit）皮偶特写，以橙、绿、紫三色绘成，安装在一根细竹杆上
+    kind: actual
+    origin: third-party
+    subject: 马来西亚吉兰丹州立博物馆内一具彩绘鲜艳的吉兰丹皮影戏（Wayang Kulit）皮偶及其操纵杆特写
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: 两具色彩缤纷的皮影戏皮偶立在传统鼓和一块说明牌前，置于一座编竹小屋的展示场景中
+    kind: actual
+    origin: third-party
+    subject: 马来西亚吉兰丹州立博物馆内，吉兰丹皮影戏（Wayang Kulit）皮偶与甘美兰鼓陈列在茅草屋场景中，配有说明牌
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 先点亮油灯。在一块绷紧于木框上的白棉幕布后面，一名男子盘腿而坐，两侧伸手可及处各叠着一摞扁平的皮革偶，身后是一支由鼓、锣以及一支音色尖锐的双簧 serunai 组成的小乐队在等候。整个晚上他都不会离开那个位置。等到几个钟头后最后一道影子掠过幕布时，他已为国王、恶魔、丑角与公主配过音、旁白过场景之间的转换，并为每一位乐师打过拍——独自一人。

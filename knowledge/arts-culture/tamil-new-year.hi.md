@@ -32,7 +32,7 @@ faq:
   - q: "आम और नीम-फूल की पचड़ी (pachadi) में क्या विशेष है?"
     a: "यह तमिल नववर्ष का प्रतीक व्यंजन है। इसे कच्चे आम (खट्टा), गुड़ (मीठा), नीम-फूल (कड़वा), इमली आदि को मिलाकर बनाया जाता है। एक ही व्यंजन में मीठा, कड़वा और खट्टा मिलाना इस बात की याद दिलाने वाला माना जाता है कि आने वाला वर्ष सुख और दुख के मिश्रण से भरा होगा, इसे स्वीकार किया जाए।"
 lang: "hi"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Wome
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: एक नारियल, आम के पत्तों और पीले फूलों से सुसज्जित एक चाँदी का पात्र, जिसके दोनों ओर जलते पीतल के तेल-दीपक हैं, एक शुभ तमिल नववर्ष वेदी के रूप में व्यवस्थित
+    kind: representative
+    origin: third-party
+    subject: एक चाँदी के पात्र का पारंपरिक तमिल नववर्ष कलशम जिसके ऊपर एक नारियल, आम के पत्ते और फूल हैं, पीतल के तेल-दीपकों के बगल में
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: मदुरै में मीनाक्षी अम्मन मंदिर की ऊँची, जटिल उकेरी और चमकीली रँगी गोपुरम मीनारें मंदिर के स्तंभित गलियारों और तालाब के ऊपर उठती हुईं
+    kind: representative
+    origin: third-party
+    subject: मदुरै में मीनाक्षी अम्मन मंदिर की ऊँची उकेरी गोपुरम मीनारें, चित्तिरै उत्सव का घर
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
 ---
 
 चित्तिरै मास की पहली भोर। बहुत-से तमिल घरों में एक रात पहले ही एक थाली तैयार हो चुकी होती है — आम, केला, पान का पत्ता, थोड़ा-सा सोने का आभूषण, एक दर्पण। सुबह आँख खुलते ही, किसी और वस्तु को देखने से पहले, सबसे पहले इसी थाली को देखना होता है। यही है **कण्णि (kanni)** — इस विश्वास की अभिव्यक्ति कि नववर्ष के दिन सबसे पहले जो दृश्य देखा जाता है वह पूरे वर्ष का स्वर तय करता है।

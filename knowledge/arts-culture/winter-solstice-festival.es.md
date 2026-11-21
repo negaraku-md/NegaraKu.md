@@ -33,7 +33,7 @@ faq:
     a: "No necesariamente. Algunas familias ofrecen primero el tangyuan a los antepasados o las deidades antes de que la familia coma junta; muchas otras consideran el Solsticio de Invierno simplemente como un día para comer tangyuan y reunirse, sin culto alguno. Prácticas como el culto a los antepasados y la oración varían según las creencias y costumbres de cada familia. Este artículo solo describe las costumbres en sí y no emite juicio sobre ninguna creencia religiosa."
 
 lang: "es"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_y
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: Un cuenco en primer plano con brillantes bolas de arroz glutinoso semitransparentes en blanco, lila y verde jade flotando en un caldo dulce y claro
+    kind: representative
+    origin: third-party
+    subject: Primer plano de tang yuan translúcidos de piel cristalina en blanco, morado y verde flotando en un cuenco de almíbar
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: Vista cenital de cuatro rollizas bolas de arroz glutinoso (tang yuan) moradas en almíbar caliente y claro dentro de un cuenco de borde azul, con briznas de vapor elevándose
+    kind: representative
+    origin: third-party
+    subject: Un cuenco de bolas de arroz glutinoso moradas en almíbar caliente, visto desde arriba con vapor elevándose
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 Una tarde de finales de diciembre, en la cocina el aroma de la harina de arroz glutinoso se mezcla con el dulzor del caldo de jengibre. La familia se reúne alrededor de la mesa y amasa, uno a uno, pequeños trozos de masa de arroz hasta convertirlos en bolitas: algunas blancas, otras teñidas de rosa y verde claro. Las bolitas en manos de los niños son de todos los tamaños, y los adultos, mientras amasan, dicen: en cuanto comes el tangyuan, ya has cumplido un año más. Este día es el Solsticio de Invierno.

@@ -77,6 +77,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Na
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: உண்மையான மயில் இறகுகளின் விரிந்த தோகையும் அலகு வடிவ தலைக்கவசமும் கொண்ட அலங்கார மயில் உடை அணிந்த நடனக் கலைஞர், இருண்ட பின்னணிக்கு எதிராக ஒளியூட்டப்பட்டுள்ளார்
+    kind: representative
+    origin: third-party
+    subject: இறகு மயில் உடையில் மயிலாட்டம் (மயில் நடனம்) நிகழ்த்தும் கலைஞர்
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: மஞ்சள் உடையும் தலைக்கவசமும் அணிந்த ஒரு ஆண் நாட்டுப்புற நடனக் கலைஞர், இடுப்பைச் சுற்றி பிரகாசமாக வர்ணம் பூசப்பட்ட போலி-குதிரை சட்டகத்தை அணிந்து, பச்சை வெளிப்புறச் சூழலில் நிற்கிறார்
+    kind: representative
+    origin: third-party
+    subject: தமிழ் போலி-குதிரை நாட்டுப்புற நடனமான பொய்க்கால் குதிரை ஆட்டம்
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 ஒரு கோயில் திருவிழா நாளில், தவிலின் முழக்கமும் நாதசுவர ஒலியும் தெருவை நிறைக்கும்

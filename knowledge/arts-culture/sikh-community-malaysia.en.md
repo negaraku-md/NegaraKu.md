@@ -34,7 +34,7 @@ faq:
     a: "Punjabi is still alive but undergoing language shift: academic research on the Sikh community in Kota Kinabalu found that the majority of families now use English at home. To preserve the language, gurdwaras run Punjabi classes — for example the Punjabi Education Centre at Gurdwara Sahib Seremban — which teach the Gurmukhi script to children."
 
 lang: "en"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: The bright yellow and white gabled facade of Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, the Sikh Khanda emblem above the entrance, saffron Nishan Sahib flags on the roof and a gold onion dome to the right, seen across a chequered tiled forecourt
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, a Sikh temple in Shah Alam, Selangor, Malaysia
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: The tall white multi-towered facade of Gurdwara Sahib Kuching with gold-topped domes and corner minarets, Sikh Khanda emblems flanking a yellow signboard reading Gurdwara Sahib Kuching, Malaysian and Sarawak flags flying from a central pole, under a blue sky
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, the Sarawak Sikh Temple Association gurdwara in Kuching, Sarawak, Malaysia
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 In the ranks of the police and the British forts of 19th-century Malaya, many of those officers with turbans and thick beards were not locals — they were Sikhs brought thousands of miles from Punjab in northwestern India. Out of that duty of maintaining security grew one of Malaysia's smallest yet most instantly recognisable minority communities.

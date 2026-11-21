@@ -35,7 +35,7 @@ faq:
     a: "Ce sont des fêtes distinctes au thème commun. Le Gawai Dayak est la fête des moissons dayak du Sarawak, tenue les 1er et 2 juin. Le Kaamatan est la fête des moissons kadazandusun de Sabah, tenue les 30 et 31 mai. Toutes deux rendent grâce pour la récolte du riz, mais les communautés, les rituels et les dates diffèrent."
 
 lang: "fr"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrio
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Des danseurs iban et orang ulu portant d'élaborées coiffes argentées, des parures de perles et des couronnes de plumes lors du défilé du Gawai Dayak à Kuching, dans le Sarawak
+    kind: actual
+    origin: third-party
+    subject: Des danseurs dayak en costume complet lors du défilé du Gawai Dayak à Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: La longue galerie commune en bois (ruai) à l'intérieur d'une maison longue iban dans le Sarawak, où l'on célèbre le Gawai Dayak
+    kind: actual
+    origin: third-party
+    subject: La galerie commune d'une maison longue iban dans le Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 L'horloge n'a pas encore sonné minuit en ce dernier jour de mai, et dans une maison longue quelque part le long d'une rivière du Sarawak, le gong attend. Le riz est rentré. La galerie a été balayée et tendue de nattes neuves. Une jarre de tuak est prête. Lorsque le gong retentira enfin, le chef de la maison longue lèvera une coupe, et tous le long de la grande véranda communautaire boiront aux trois mêmes mots : longue vie, santé, prospérité.

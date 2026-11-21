@@ -29,7 +29,7 @@ faq:
     a: "Serunai dimainkan dengan teknik pernapasan sirkular (circular breathing) yang memungkinkan bunyinya berlanjut tanpa terputus, menjadikannya pembawa utama melodi dalam Nobat."
 
 lang: "id"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: Sederet gendang rebana ubi besar di atas penyangga kayu biru, badan dan rangkanya dicat motif bunga mencolok berwarna merah, hijau, kuning dan merah muda
+    kind: actual
+    origin: third-party
+    subject: Deretan gendang rebana ubi besar dari Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: Seorang pria tua berbaju oranye memainkan pipa tiup berlidah ganda serunai, dengan deretan gendang rebana Melayu berjajar di lantai di belakangnya
+    kind: actual
+    origin: third-party
+    subject: Pemusik tua memainkan serunai berlidah ganda di rumahnya di Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 Bunyi yang sama berulang di balik hampir setiap pertunjukan seni Malaysia: irama kulit kambing yang ditabuh beramai-ramai di acara pernikahan, seruling tinggi yang mendayu membuka babak wayang kulit, dan petikan dawai kayu yang menenangkan di rumah panjang Sarawak. Alat yang menghasilkannya sering muncul dalam banyak artikel seni — jadi halaman ini mengumpulkannya di satu tempat.

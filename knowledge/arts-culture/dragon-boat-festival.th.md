@@ -33,7 +33,7 @@ faq:
     a: "การแข่งเรือมังกรนานาชาติที่ปีนังมีประวัติยาวนานที่สุด จัดมาหลายปีที่เขื่อนเตลุก บาฮัง ดึงดูดทีมจากหลายประเทศและภูมิภาค ปุตราจายา มะละกา และที่อื่น ๆ ก็เคยจัดงานแข่งเรือมังกรขนาดใหญ่ การแข่งขันเช่นนี้ส่วนใหญ่ได้รับการสนับสนุนจากรัฐบาลรัฐหรือหน่วยงานที่เกี่ยวข้อง มีลักษณะเป็นทั้งกีฬาแข่งขันและการส่งเสริมการท่องเที่ยว วันและสถานที่ที่แน่นอนต่างกันในแต่ละปีและขึ้นอยู่กับประกาศของผู้จัด"
 
 lang: "th"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandaka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: แถวฝีพายสวมหมวกสีแดงและเสื้อสีขาวจ้วงพายลงน้ำขณะเรือมังกรสองลำที่มีหลังคาคลุมแข่งกันไปตามร่องน้ำโดยมีฝูงชนเฝ้าชม
+    kind: representative
+    origin: third-party
+    subject: ทีมแข่งเรือมังกรที่ตกแต่งสวยงาม ฝีพายจ้วงน้ำ ในการแข่งขันเทศกาลไหว้บ๊ะจ่าง
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: บ๊ะจ่างห่อด้วยใบไผ่ถูกแกะออกเผยให้เห็นไส้คาวของหมูสามชั้นตุ๋น เกาลัด และไข่แดงเค็ม วางอยู่ข้างบ๊ะจ่างที่ยังห่ออยู่
+    kind: representative
+    origin: third-party
+    subject: บ๊ะจ่าง (บะจั่ง) ข้าวเหนียวที่แกะออกเผยให้เห็นหมู เกาลัด และไข่แดงเค็ม วางข้างลูกที่ยังห่อด้วยใบไผ่
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 เมื่อวันที่ห้าเดือนห้าตามปฏิทินจันทรคติใกล้เข้ามา ครัวของครอบครัวชาวจีนจะอบอวลด้วยกลิ่นใบไผ่และข้าวเหนียว แม่บ้านนำข้าวเหนียวที่แช่ไว้และไส้ที่ผัดจนหอมมาบรรจุทีละชั้นลงในใบไม้ที่พับเป็นรูปกรวย แล้วมัดให้แน่นด้วยเชือกหญ้า หย่อนลงหม้อเป็นพวง ๆ เพื่อต้มนาน ๆ ในเวลาเดียวกัน ที่เขื่อนเตลุก บาฮัง ตรงปลายด้านตะวันตกเฉียงเหนือของเกาะปีนัง เรือมังกรลำเพรียวแล่นแหวกผิวน้ำ มือกลองยืนที่หัวเรือตีจังหวะ ขณะที่ฝีพายหลายสิบคนพายพร้อมกันตามจังหวะ — นี่คือสองโฉมหน้าของเทศกาลเรือมังกรในมาเลเซีย ด้านหนึ่งคือกลิ่นหอมของบ๊ะจ่างในครัว อีกด้านหนึ่งคือการแข่งขันบนผิวน้ำ

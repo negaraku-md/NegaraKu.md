@@ -32,7 +32,7 @@ faq:
     a: "不是。婆罗多舞是一种古典舞蹈形式；纳达斯瓦兰则是在庙宇与吉庆场合演奏的器乐音乐传统。两者都属于淡米尔社群的艺术传统，但彼此不同；纳达斯瓦兰／庙宇音乐在此另有专文介绍，而本文则聚焦于舞台古典艺术。"
 
 lang: "zh"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: 一名女性奥迪西（Odissi）舞者身穿鲜蓝色服装、佩戴银制庙宇首饰，在黑色舞台背景前摆出优雅的程式化舞姿
+    kind: representative
+    origin: third-party
+    subject: 奥迪西古典舞舞者身着蓝衣、佩银饰，摆出舞姿一瞬
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: 一名身穿黄紫两色丝质纱丽的女子以坐姿卡纳提克（Carnatic）风格拉奏小提琴，在舞台上凑近麦克风
+    kind: representative
+    origin: third-party
+    subject: 一名卡纳提克小提琴手身着丝质纱丽，在古典音乐会上演奏
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 在马来西亚任何一座大城市里，无论是屠妖节的黄昏，还是庙会之日，都能看见一位婆罗多舞者伴着脚铃声、随着姆里丹加鼓的节奏登上舞台。那些舞步与手势绝非偶然——它们述说的是一项逾千年的南印度艺术传统，以及马来西亚淡米尔社群逾一个半世纪以来承载它的方式。

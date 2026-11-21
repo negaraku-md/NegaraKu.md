@@ -35,7 +35,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: Two Mak Yong costumes on mannequins behind glass, a gold tunic with jewelled crown and a maroon tunic with dark headdress, at the Kelantan State Museum
+    kind: actual
+    origin: third-party
+    subject: Mak Yong costumes with ornate crowns on display at the Kelantan State Museum, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: Sepia historical photo of a crowned Mak Yong dancer standing among seated male musicians holding gendang drums and a rebab fiddle
+    kind: representative
+    origin: third-party
+    subject: Historic photograph of a crowned Mak Yong lead performer flanked by seated musicians with drums and rebab
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 The first sound doesn't come from a performer. It comes from a pear-shaped piece of wood with three strings — a rebab — bowed slowly at the edge of an open wooden stage. The audience sits on three sides. The roof is palm thatch. And before a single line of dialogue is spoken, a princess has already bowed toward the instrument in a dance whose name alone explains everything: **Mengadap Rebab**.

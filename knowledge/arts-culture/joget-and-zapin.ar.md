@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم الفروق في الأصل والموسيقى والحركة بين الجوغيت والزابين بوصفهما رقصتين شعبيتين ملايويتين منفصلتين."
 
 lang: "ar"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: مجموعة من الراقصين الملايويين بأزياء سارونغ زاهية وردية وخضراء وذهبية يرفعون أذرعهم ويلوون معاصمهم في رقصة جوغيت حيوية، الرجال بقمصان متناسقة والنساء بأزهار في شعرهنّ، في فعالية مفتوحة في كوالالمبور
+    kind: actual
+    origin: third-party
+    subject: مجموعة من راقصي الفلكلور الملايوي يؤدّون رقصة بأسلوب جوغيت حيوية في كوالالمبور، ماليزيا
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: عشرات من الراقصين الملايويين بباجو كورونغ وسارونغ وقبعات سونغكوك يرفعون كلتا أيديهم فوق رؤوسهم في انسجام خلال رقصة زابين جماعية مفتوحة، يملؤون شارعاً أمام جناح خشبي في يوم غائم
+    kind: representative
+    origin: third-party
+    subject: رقصة زابين (جيبين) جماعية يؤدّيها أدّاء ملايويون بالزيّ التقليدي في مهرجان مدينة بونتياناك، إندونيسيا
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 يتحرك راقصان بسرعة على وقع الغيندانغ (gendang) — تدقّ الأقدام، وتراقص الأيدي في رفق. وكثير ممن يشاهدون يسمّونه ببساطة «الرقص الملايوي» دون تمييز أيّهما جوغيت وأيّهما زابين. واسأل من أين جاءت كلٌّ منهما، فيأخذنا الجواب إلى ركنين من العالم: أحدهما من ظهر سفينة تجارية برتغالية في ملقا، والآخر من قافلة دعاة عرب خارجين من حضرموت.

@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: Bahagian luar Panggung Bangsawan di Melaka, sebuah fasad moden berwarna krim dan perang dengan papan tanda merah 'Panggung Bangsawan Melaka' di bawah langit biru yang cerah
+    kind: actual
+    origin: third-party
+    subject: Panggung Bangsawan, teater khusus untuk bangsawan di Bandar Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: Pandangan dari penjuru jalan Panggung Bangsawan di Melaka dengan papan tanda 'Panggung' merah menegak yang tinggi, pokok palma dan bangunan bandar di belakang di bawah langit mendung
+    kind: actual
+    origin: third-party
+    subject: Pandangan jalan Panggung Bangsawan, teater khusus bangsawan di Melaka
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 Sebelum ada wayang gambar, ada pentas berlampu, tirai bercat tangan, dan sebuah orkestra yang mampu bertukar daripada lagu beralun istana Melayu kepada rentak dari Timur Tengah dalam satu malam persembahan yang sama. Itulah bangsawan — opera pentas yang pernah menjadi hiburan bandar paling meriah di Semenanjung, dan yang kemudiannya menyerahkan pelakon serta penyanyinya kepada industri filem Melayu yang baru lahir.

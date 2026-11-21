@@ -32,7 +32,7 @@ faq:
   - q: "¿Son todos los templos hindúes de Malasia templos de Murugan o de Mariamman?"
     a: "Aunque la mayoría de los templos están dedicados a Shiva, a Murugan (shivaísmo) o a Amman/Mariamman (culto a Shakti), no son el único tipo. También hay en Malasia templos vaisnavas dedicados a Vishnu, templos de las tradiciones malayali y del norte de la India, y gurdwaras sijs. Los detalles arquitectónicos también difieren algo según la tradición de culto."
 lang: "es"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: El colorido frente de un templo hindú del sur de la India con una torre esculpida sobre la entrada, flanqueada por grandes estatuas pintadas de Ganesha y una deidad bajo doseles dorados, engalanado con banderines triangulares festivos contra un cielo azul despejado
+    kind: actual
+    origin: third-party
+    subject: la fachada principal del templo Sri Mahamariamman en George Town, Penang, con su gopuram tallado y la entrada flanqueada por grandes estatuas de Ganesha y Murugan
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: Una ornamentada y colorida torre-santuario de templo hindú coronada por deidades esculpidas, en pie dentro de una vasta caverna de piedra caliza, con sus paredes de roca escarpadas cubiertas de plantas colgantes y iluminadas por la luz del día que entra desde arriba
+    kind: actual
+    origin: third-party
+    subject: una ornamentada y colorida torre-santuario hindú dentro del templo de las Cuevas de Batu, de piedra caliza, cerca de Kuala Lumpur, ante las imponentes paredes de la cueva cubiertas de vegetación
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 Cuando uno se acerca a cualquier barrio de una ciudad malasia donde una comunidad tamil ha echado raíces, una torre cubierta de esculturas que se eleva hacia el cielo salta a la vista desde lejos. Esa torre-pórtico, con sus pisos de coloridas figuras de deidades, no es casualidad — es la continuación de una tradición arquitectónica milenaria; la marca de un legado cultural que las personas de ascendencia tamil del sur de la India trajeron consigo a Malasia.

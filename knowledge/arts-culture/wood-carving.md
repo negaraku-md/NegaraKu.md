@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: Mimbar masjid kayu yang berhias dengan kanopi tinggi bersalut emas yang diukir dan ditebuk dengan dedaunan emas serta puncak berjambul, menjulang di atas tangga berukir merah dan emas di atas permaidani solat hijau
+    kind: actual
+    origin: third-party
+    subject: mimbar kayu Masjid Tengkera di Melaka, Malaysia yang berukir halus dan bersalut emas
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: Sejalur ukiran kerawang tebuk berbentuk dedaunan seperti nyala api yang menyusur papan cucur atap kayu di bawah bumbung sebuah rumah Melayu tradisional berpapan perang, dibingkai dedaunan hijau dan langit
+    kind: actual
+    origin: third-party
+    subject: papan cucur atap kerawang berukir (papan kerawang) yang menghiasi garis bumbung sebuah rumah Melayu kayu tradisional di Hulu Langat, Selangor
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 Lihat betul-betul pada panel kayu di tingkap sebuah rumah Melayu lama, dan cuba cari di mana coraknya bermula. Anda tidak akan jumpa. Itu bukan salah mata anda — ia memang direka begitu.

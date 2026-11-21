@@ -30,7 +30,7 @@ faq:
     a: "L'effectif de la communauté a fortement chuté — d'environ 400 familles dans les années 1980 à moins de 50 familles aujourd'hui, selon le Conseil national du patrimoine de Singapour (Roots) —, tandis qu'un reportage de Free Malaysia Today estime qu'il ne reste qu'environ 20 à 30 familles vivant à Kampung Chetti. Les chercheurs relient ce déclin aux mariages mixtes, à l'émigration et au fait que les jeunes générations perdent de plus en plus le contact avec leurs racines chetti."
 
 lang: "fr"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: Une maison traditionnelle de style malais à deux étages en bois sombre servant de musée Chetti à Melaka, un panneau bleu indiquant « Muzium Chetti The Chetti Museum » au-dessus du porche, une rangée de plantes en pot derrière une barrière basse et les drapeaux de la Malaisie et de Melaka flottant à côté
+    kind: actual
+    origin: third-party
+    subject: le musée Chetti (Muzium Chetti) à Kampung Chetti, Melaka, qui documente la communauté chetti de Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: La façade jaune du temple Sri Poyyatha Vinayagar Moorthi sur la rue de l'Harmonie à Melaka, une modeste tour à étages aux niches de divinités s'élevant au-dessus d'un toit de porche carrelé et de portes turquoise, éclairée par le soleil bas du matin sur un ciel bleu profond
+    kind: actual
+    origin: third-party
+    subject: Le temple Sri Poyyatha Vinayagar Moorthi à Melaka, l'historique temple hindou fondé par la communauté chetti en 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 Dans un vieux village de la rue Jalan Gajah Berang, à Melaka, vit un ensemble de familles qui prient le dieu Shiva, s'habillent comme des Malais, cuisinent des currys parfumés au lait de coco et parlent un malais émaillé de mots tamouls. Ils ne sont ni Indiens, ni Malais, ni Chinois : ce sont les Chetti Melaka, et leur nombre ne cesse de diminuer.

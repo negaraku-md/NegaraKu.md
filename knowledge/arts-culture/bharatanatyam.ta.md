@@ -32,7 +32,7 @@ seoTitle: "மலேசியாவில் பரதநாட்டியம�
 socialTitle: "தென்னிந்தியப் பாரம்பரிய நடனம் மலேசியாவில் எப்படி வேரூன்றியது"
 
 lang: "ta"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_fo
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: இளஞ்சிவப்பு-தங்க நிற பட்டு உடை, கொலுசு மணிகள் மற்றும் கோயில் நகைகள் அணிந்த ஒரு இளம் பரதநாட்டியக் கலைஞர், எளிய இருண்ட மேடைக்கு எதிராக புன்னகைத்தபடி, ஒரு காலில் சமநிலைப்படுத்தி, இரு கைகளையும் தலைக்கு அருகே கத்தரி போன்ற முத்திரைகளில் உயர்த்தியிருக்கிறார்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு காலில் நின்று, இரு கைகளையும் தலைக்கு அருகே முத்திரையில் வைத்திருக்கும் இளம் பரதநாட்டியக் கலைஞர்
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: கறுப்புச் சட்டையும் சிவப்பு-தங்க நிற பட்டுத் துணியும் அணிந்த ஒரு பரதநாட்டியக் கலைஞர், கறுப்புப் பின்னணிக்கு எதிராக தனது மடிப்புப் பாவாடை விரிய, ஒரு கையை மேலே வளைத்தும் மற்றொன்றை உடலைக் குறுக்காகச் சுட்டியும், அசைவின் நடுவே சுழல்கிறார்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு கையை உயர்த்தி பாவாடை சுழல, திருப்பத்தின் நடுவே பிடிக்கப்பட்ட பரதநாட்டியக் கலைஞர்
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 ஒரு நடனக் கலைஞரின் பாதங்கள் விரைவான, துல்லியமான வடிவத்தில் தரையைத் தட்டுகின்றன. மிருதங்க மேளத்தின் தாளத்திற்கு ஏற்ப மணிகள் ஒலிக்கின்றன. அவரது கைகள் ஒரு வடிவத்தை உருவாக்குகின்றன — ஒரு மான், ஒரு தாமரை, ஒரு கேள்வி — அவரது கண்கள் அதைத் தொடர்கின்றன; பின்னர் பார்வையாளர்கள் வெறுமனே பார்ப்பதற்கு அல்ல, உணர்வதற்கே உரிய ஒரு உணர்ச்சியுடன் அவரது முகம் பதிலளிக்கிறது. பின்னர் தாளம் நிறைவடைகிறது, அவர் ஒரு சிற்பம் போன்ற தோற்றத்தில் நிலைபெறுகிறார், இசை மௌனத்தில் அடங்குகிறது.

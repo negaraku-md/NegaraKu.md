@@ -32,7 +32,7 @@ faq:
     a: "لا. البهاراتاناتيام شكل من أشكال الرقص الكلاسيكي؛ أما النادسفارام فهو تقليد موسيقي آلي يُعزف في المعابد والمناسبات الميمونة. وكلاهما ينتمي إلى التراث الفني لمجتمع التاميل لكنهما مختلفان؛ وتُتناول موسيقى النادسفارام/المعابد هنا على حدة، في حين يركّز هذا المقال على فنون المسرح الكلاسيكية."
 
 lang: "ar"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_C
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: راقصة أوديسي بزيّ أزرق زاهٍ ومجوهرات معبدية فضية تتّخذ وضعية أنيقة منمّقة أمام خلفية مسرح سوداء
+    kind: representative
+    origin: third-party
+    subject: راقصة أوديسي كلاسيكية في منتصف الوضعية بزيّ أزرق ومجوهرات فضية
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: امرأة بساري حريري أصفر وأرجواني تعزف على كمان ممسوك بأسلوب الكارناتيك الجلوسي، منحنيةً نحو ميكروفون على المسرح
+    kind: representative
+    origin: third-party
+    subject: عازفة كمان كارناتيكية تؤدّي بساري حريري في حفل موسيقى كلاسيكية
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 في أيّ مدينة كبرى من مدن ماليزيا، في مساء ديبافالي أو في يوم احتفال بأحد المعابد، يمكنك أن ترى فنان بهاراتاناتيام يصعد إلى المسرح، وأجراس كاحليه ترنّ، وهو يتحرّك على إيقاع المريدانغام. وتلك الخطوات والإيماءات ليست وليدة الصدفة — إنها تحكي عن تقليد فنّي هندي جنوبي يتجاوز عمره ألف عام، وعن الطريقة التي حمله بها مجتمع التاميل الماليزي طوال أكثر من قرن ونصف.

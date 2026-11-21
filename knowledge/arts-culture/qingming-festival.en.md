@@ -33,7 +33,7 @@ faq:
     a: "Burning joss paper (paper money) and paper effigies is a common way of honouring ancestors, symbolising the 'sending' of money and everyday goods to forebears for use in the other world; besides paper money and paper clothes, modern paper effigies also include paper houses and paper cars. Because it involves open flames and smoke, some cemeteries and memorial parks designate burning areas or set rules, and in recent years some people have switched to more environmentally friendly approaches."
 
 lang: "en"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: A grave offering table laid with whole steamed chickens, fish, roast pork, bowls of white rice with chopsticks, cups of tea and teapots, with bundles of red incense sticks planted upright in gourds and burning before a stone shrine
+    kind: representative
+    origin: third-party
+    subject: a spread of food offerings and burning incense laid before a grave during Qingming tomb-sweeping
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: A gilded stone guardian lion perches on top of a granite grave post carved with gold Chinese characters, set against a grassy burial mound and a spreading tree under an overcast sky at the Bukit Cina Chinese cemetery in Melaka
+    kind: actual
+    origin: third-party
+    subject: a gilded guardian-lion grave pillar inscribed with Chinese family names at the Chinese Cemetery (Bukit Cina) in Melaka, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 One early April morning, families begin to appear along the paths of the cemetery. Some carry buckets and sickles; others carry baskets filled with cooked food, fruit and joss paper. Finding their family's grave, the younger ones set to clearing the weeds and sweeping away the leaves while the elders point out how to repaint, stroke by stroke, the faded characters on the headstone; only once the grave is clean are the offerings laid out, incense lit and respects paid, and finally the joss paper burned on a clear patch of ground nearby. Amid the smoke and flame, another year's Qingming passes.

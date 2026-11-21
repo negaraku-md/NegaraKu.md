@@ -33,7 +33,7 @@ faq:
     a: "这套原装甘美兰乐器于1973年归还彭亨，并在北根的彭亨博物馆（Muzium Pahang）展出。"
 
 lang: "zh"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: 一整套马来甘美兰（gamelan）乐器摆在带花纹的地毯上，有青铜釜锣、金属排琴、一面悬挂的大锣和一只放在雕花木架上的鼓
+    kind: actual
+    origin: third-party
+    subject: 一整套马来甘美兰（Gamelan Melayu）陈列在马来西亚一处艺术与文化遗产中心
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: 一名身穿橙色上衣的乐手跪在一架红金两色的萨龙（saron）金属排琴前，用木槌敲击琴上的青铜音板
+    kind: representative
+    origin: third-party
+    subject: 乐手敲击萨龙（saron）金属排琴（印尼甘美兰，与马来甘美兰同属一类乐器）
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 这套甘美兰乐器从一座宫廷迁往另一座宫廷，靠的不是买卖，也不是掠夺——而是婚姻。当一位公主迁入夫君的宫邸时，乐器、舞者与乐曲也随她一同迁移。马来宫廷就是这样拥有了甘美兰。

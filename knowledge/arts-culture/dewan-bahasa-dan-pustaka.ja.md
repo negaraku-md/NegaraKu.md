@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: デワン・バハサ・ダン・プスタカの建物の正面に描かれた、マレーシアの暮らしを表現した色鮮やかなキュビズム風の大きなモザイク壁画と、背後にそびえるオフィスタワー
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールの、「Bahasa Bangsa Negara」の垂れ幕と背後のタワーを備えたDBPの低層棟の大きなモザイク壁画
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: デワン・バハサ・ダン・プスタカの建物の、堂々とした勾配屋根の玄関ポルティコ。広い階段の上に精巧に彫刻されたマレー模様のパネルが張られている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールの、マレー模様の彫刻パネルと堂々とした階段を備えたDBPの正面玄関
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 マレー語の単語の綴りを確認するとき、新しい科学用語に出会うとき、あるいは国家文学家（Sasterawan Negara）の称号を目にするとき——その背後には常にひとつの機関が存在する。国語・文学局（Dewan Bahasa dan Pustaka）である。

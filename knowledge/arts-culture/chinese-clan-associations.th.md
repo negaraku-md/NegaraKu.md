@@ -33,7 +33,7 @@ faq:
     a: "บทบาทการช่วยเหลือกันของสมาคมร่วมสมัยเปลี่ยนไปมาก สมาคมหลายแห่งเน้นการให้ทุนการศึกษาและเงินกู้ยืมเพื่อการศึกษา การอนุรักษ์ภาษาถิ่นและวัฒนธรรมดั้งเดิม การจัดงานเทศกาลและการพบปะสังสรรค์ ตลอดจนสวัสดิการชุมชน ศาลบรรพชนเก่าแก่บางแห่งและสะพานแซ่กลายเป็นจุดสำคัญของการท่องเที่ยวเชิงวัฒนธรรมและการอนุรักษ์สถาปัตยกรรมหลังจากจอร์จทาวน์ได้รับการขึ้นทะเบียนเป็นมรดกโลก ระดับความเคลื่อนไหวและจุดเน้นของแต่ละสมาคมแตกต่างกันไป"
 
 lang: "th"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: เรือนตระกูลคูกงสีสว่างไสวยามโพล้เพล้ในเทศกาลตรุษจีน แขวนด้วยโคมไฟสีแดงและกรอบไฟเรืองแสง ขณะฝูงชนรวมตัวกันอยู่ที่ลานหน้า
+    kind: actual
+    origin: third-party
+    subject: เรือนตระกูลคูกงสีประดับไฟและตกแต่งด้วยโคมไฟสีแดงในเทศกาลตรุษจีน 2024 ย่านจอร์จทาวน์ ปีนัง
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: มุมมองจากด้านล่างของเพดานเรือนตระกูลคูกงสี แสดงให้เห็นโครงหลังคากระเบื้องดินเผา คานทาสี และคานยึดสลักปิดทองอย่างวิจิตร
+    kind: actual
+    origin: third-party
+    subject: เพดานไม้ทาสีและปิดทองของเรือนตระกูลคูกงสี ย่านจอร์จทาวน์ ปีนัง
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 เมื่อก้าวเข้าสู่ย่านป้อมคอร์นวอลลิสในจอร์จทาวน์ ปีนัง ท่ามกลางแถวตึกแถว (ช็อปเฮาส์) จู่ ๆ ก็ปรากฏศาลบรรพชนที่มีชายคาโค้งเชิดพร้อมงานแกะสลักและลวดลายสีอันวิจิตร นั่นคือหลงซานถังขู่กงสี เดินต่อไปทางทะเลจะพบหมู่บ้านเรือนไม้ที่มีเสาค้ำยื่นออกไปเหนือผืนน้ำเป็นแถว ๆ แต่ละหมู่บ้านตั้งชื่อตามแซ่หนึ่ง ได้แก่ สะพานแซ่โจว สะพานแซ่ลิม สะพานแซ่ตัน อาคารเหล่านี้ไม่ใช่ศาลเจ้า และไม่ได้เป็นเพียงที่อยู่อาศัย แต่เป็นสิ่งที่หลงเหลือทางกายภาพของรูปแบบองค์กรที่เก่าแก่ที่สุดรูปแบบหนึ่งในสังคมผู้อพยพชาวจีน นั่นคือสมาคมภูมิลำเนาและสมาคมตระกูล

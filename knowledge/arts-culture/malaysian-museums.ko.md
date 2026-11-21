@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "박물관 일정을 계획하는 방문객, 말레이시아 주요 소장품 뒤의 기관 역사를 알고자 하는 학생과 연구자, 그리고 국립박물관(Muzium Negara)이 이 나라에서 가장 오래된 박물관이라고 여겼던 모든 사람."
 
 lang: "ko"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: 흰색, 초록, 금색의 꽃무늬 아라베스크로 덮인 유약 청록색 타일을 씌운 둥근 돔이 작은 금빛 첨탑을 머리에 얹고 옅은 파란 하늘을 배경으로 솟아 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 정교한 꽃무늬 아라베스크로 장식된, 쿠알라룸푸르 말레이시아 이슬람 미술관의 청록색 타일 돔
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: 크림색으로 칠하고 회색 돌로 모서리와 창틀을 두른, 가파른 박공지붕과 장식 첨탑이 있는 역사적인 2층 식민지풍 박물관 건물로, 밝은 파란 하늘 아래 키 큰 야자수가 양옆에 선 모습
+    kind: actual
+    origin: third-party
+    subject: 회색 돌 모서리와 박공지붕을 갖춘 크림색 2층 건물인, 쿠칭의 역사적인 식민지 시대 사라왁 박물관
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 대부분의 방문객에게 말레이시아에서 가장 오래된 박물관이 무엇인지 물으면, 그들은 쿠알라룸푸르 박물관 거리의 중심에 자리한 궁전 지붕의 건물 국립박물관을 짐작할 것입니다. 80년 차이로 빗나간 것입니다. 그 칭호는 국립박물관의 부지가 아직 그 전신에 의해 쓰이던 때에 지어진, 타이핑의 소박한 갤러리의 것입니다.

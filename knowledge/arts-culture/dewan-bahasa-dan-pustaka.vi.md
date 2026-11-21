@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana là từ điển tham chiếu số chính thức của DBP, một phần trong chương trình chuyển đổi số nhằm cung cấp một nền tảng tham chiếu tiếng Mã Lai toàn diện và có thể truy cập miễn phí tại kamus.dbp.gov.my."
 
 lang: "vi"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: Một bức tranh ghép mảnh (mosaic) lớn đầy màu sắc theo phong cách lập thể khắc họa đời sống Malaysia trên mặt tiền tòa nhà Dewan Bahasa dan Pustaka, với tòa tháp văn phòng vươn lên phía sau
+    kind: actual
+    origin: third-party
+    subject: Bức tranh ghép mảnh lớn trên khối bệ của DBP với biểu ngữ 'Bahasa Bangsa Negara' và tòa tháp phía sau, Kuala Lumpur
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: Hành lang mái nhọn lối vào bề thế của tòa nhà Dewan Bahasa dan Pustaka, ốp những tấm panel chạm khắc họa tiết Mã Lai tinh xảo phía trên một cầu thang rộng
+    kind: actual
+    origin: third-party
+    subject: Lối vào chính của DBP với các tấm panel chạm khắc họa tiết Mã Lai và cầu thang bề thế, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 Mỗi lần bạn tra chính tả của một từ tiếng Mã Lai, bắt gặp một thuật ngữ khoa học mới, hay đọc danh hiệu của một Văn hào Quốc gia, đều có một định chế đứng sau hậu trường: Dewan Bahasa dan Pustaka.

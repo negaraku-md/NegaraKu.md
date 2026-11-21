@@ -33,7 +33,7 @@ faq:
     a: "Magavau adalah ritual syukur untuk menghormati dan 'memanggil pulang' semangat padi, Bambaazon, setelah panen. Ia secara tradisional dipimpin oleh seorang bobohizan (turut dieja bobolian), yaitu pendeta perempuan yang melafalkan jampi ritual. Ia merupakan salah satu unsur upacara Kaamatan yang lebih tua."
 
 lang: "id"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Ce
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: Pemenang Unduk Ngadau dinobatkan di antara enam finalis berpakaian adat Kadazan-Dusun hitam-emas di atas panggung pada festival Kaamatan di Penampang, Sabah
+    kind: actual
+    origin: third-party
+    subject: Pemenang dan para finalis Unduk Ngadau pada kontes festival Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: Para penari muda Kadazan-Dusun berkostum hitam dengan hiasan merah dan perak membawakan tarian tradisional dengan gong pada perayaan panen Kaamatan di Sabah
+    kind: actual
+    origin: third-party
+    subject: Para pemuda Kadazan-Dusun membawakan tarian festival panen dengan gong
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 Pesta ini dinamai berdasarkan satu gagasan tunggal: pemanenan. *Kaamatan* berarti tepat demikian dalam bahasa Kadazandusun, dan segala hal lain dalam perayaan ini — ritual, air tuak beras, kontes ratu kecantikan yang dinobatkan pada malam terakhir — tumbuh dari satu tindakan memungut hasil padi itu.

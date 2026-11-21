@@ -32,7 +32,7 @@ seoTitle: "马来西亚的婆罗多舞：这一古典舞蹈形式解析"
 socialTitle: "南印度古典舞如何在马来西亚扎根"
 
 lang: "zh"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_fo
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: 一名年轻的婆罗多舞（Bharatanatyam）舞者身着粉金两色丝质服装，系着脚铃、戴着庙宇风格首饰，单腿站立，双手在头部附近结成剪刀状手印（mudra），在素净的深色舞台前微笑
+    kind: representative
+    origin: third-party
+    subject: 年轻的婆罗多舞舞者单腿站立，双手在头侧结成手印
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: 一名婆罗多舞舞者身着黑色上衣、红金两色丝质披布，在舞步中旋转，一臂高高弯举过头，另一臂横指身前，百褶裙在黑色背景前飞扬
+    kind: representative
+    origin: third-party
+    subject: 婆罗多舞舞者旋身一瞬，一臂高举、裙裾飞旋
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 舞者的双脚以急促而精准的节奏踏击地面。铃铛随着 mridangam 鼓的鼓点齐鸣。她的双手比出一个形状——一头鹿、一朵莲花、一个问号——她的目光追随着手势，随后她的面容以一种观众应当去感受、而不只是去观看的情感作出回应。接着节奏收束，她定格于一个如雕塑般的姿态，音乐归于寂静。

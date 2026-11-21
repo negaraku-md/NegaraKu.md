@@ -32,7 +32,7 @@ seoTitle: "البهاراتاناتيام في ماليزيا: شرح شكل ا�
 socialTitle: "كيف تجذّرت رقصة جنوب الهند الكلاسيكية في ماليزيا"
 
 lang: "ar"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_fo
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: راقصة بهاراتاناتيام شابة بزيّ حريري وردي وذهبي وأجراس كاحل ومجوهرات معبدية تتوازن على ساق واحدة، رافعةً كلتا يديها في إيماءات مُدرا تشبه المقص قرب رأسها، مبتسمةً أمام مسرح داكن سادة
+    kind: representative
+    origin: third-party
+    subject: راقصة بهاراتاناتيام شابة تقف على ساق واحدة وكلتا يديها في وضعية المُدرا بجانب رأسها
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: راقصة بهاراتاناتيام ببلوزة سوداء ودثار حريري أحمر وذهبي تدور في منتصف خطوة، ذراع منحنية عالياً فوق الرأس والأخرى تشير عبر جسدها، وتنورتها المطوية تتموّج أمام خلفية سوداء
+    kind: representative
+    origin: third-party
+    subject: راقصة بهاراتاناتيام في منتصف الدوران بذراع مرفوعة وتنورة متموّجة
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 تضرب قدما الراقصة الأرض في نمط سريع دقيق. ترنّ الأجراس على وقع طبل الـ mridangam. تشكّل يداها هيئةً — غزالاً أو زهرة لوتس أو سؤالاً — وتتبعها عيناها قبل أن يجيب وجهها بعاطفةٍ يُفترَض بالجمهور أن يشعر بها لا أن يراها فحسب. ثم يتحلّل الإيقاع، فتثبت على وضعية أشبه بالتمثال، وتهبط الموسيقى إلى صمت.

@@ -37,7 +37,7 @@ faq:
     a: "UNESCO กล่าวถึงซีลัตฮารีเมา (Silat Harimau) เป็นตัวอย่างของกระบวนท่าที่เลียนแบบการเคลื่อนไหวเชิงสุนทรียะของเสือในศิลปะการโจมตีและป้องกันตัว มันเป็นหนึ่งในกระบวนท่าจำนวนมากที่ตั้งชื่อตามสัตว์หรือองค์ประกอบของธรรมชาติ"
 
 lang: "th"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: นักศิลปะการต่อสู้มลายูสองคนเท้าเปล่าในชุดสิลัตสีดำและเครื่องสวมศีรษะสีดำประจันหน้ากันในท่าต่อสู้ย่อตัวต่ำบนพื้นปูสีเทา คนหนึ่งถือมีดสั้น ตัดกับผนังอาคารสีเขียวอมน้ำเงิน
+    kind: actual
+    origin: third-party
+    subject: เปอซีลัตสองคนในชุดสิลัตสีดำประจันหน้ากันในท่าต่อสู้ระหว่างการฝึกสิลัตกายงในมาเลเซีย
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: นักศิลปะการต่อสู้มลายูในชุดสิลัตสีดำกระโดดเตะสูงที่คู่ฝึกย่อตัวบล็อกไว้ ทั้งคู่เท้าเปล่าบนพื้นปูสีเทาตัดกับผนังสีเขียวอมน้ำเงิน ขณะแอ็กชันระหว่างการประลองสิลัต
+    kind: actual
+    origin: third-party
+    subject: เปอซีลัตเตะกระโดดใส่คู่ประลองระหว่างการฝึกสิลัตกายงในมาเลเซีย
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 ผู้เล่นซีลัตที่ดีสามารถหักกระดูกของคู่ต่อสู้ได้ — หรือรำอยู่หน้าคู่บ่าวสาวโดยไม่แตะต้องใครเลย ทั้งสองคือซีลัต นั่นคือสิ่งที่เข้าใจยากที่สุดเกี่ยวกับศิลปะนี้ กล่าวคือ มันไม่ใช่เพียงวิธีการต่อสู้ และไม่ใช่เพียงการรำในงานพิธี มันเป็นทั้งสองอย่าง ในร่างกายเดียวกัน ขับเคลื่อนด้วยลีลาก้าวเท้าเดียวกัน

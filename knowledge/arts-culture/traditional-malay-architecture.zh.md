@@ -27,7 +27,7 @@ faq:
     a: "马来屋通常只供一户家庭居住，而长屋（rumah panjang）则在一栋纵向延伸的建筑中容纳多户家庭——每户拥有自己的房间（bilek），并共享一条名为 ruai 的公共长廊。"
 
 lang: "zh"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: 一栋深褐色木造甘榜房屋架在木桩上，有陡峭的山墙屋顶、雕花扇贝状屋檐、镶板木墙和一道通往走廊的外梯，四周环绕绿叶
+    kind: actual
+    origin: third-party
+    subject: 一栋传统木造马来高脚屋（rumah Melayu），有陡峭的山墙屋顶、雕花封檐板和一道由木梯通上的走廊
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: 一座狭长的高架木造马来宫殿，米南加保风格的屋顶向上扬起、弯成尖角，深色木镶板墙配格栅窗，立在雕花柱上，旁边有一块写着「Rumah Negeri Sembilan」的招牌
+    kind: actual
+    origin: third-party
+    subject: 森美兰木造宫殿安邦丁宜宫（Istana Ampang Tinggi），有向上扬起的米南加保水牛角山墙屋顶
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 抬起一栋古老的甘榜（kampung，村落）老屋，拆开它的接合，再在新址上重新组装——大部分过程都无需固定的混凝土地基。这正是传统马来建筑的智慧：一栋在空调出现之前就已"读懂"热带气候的屋子。

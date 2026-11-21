@@ -34,7 +34,7 @@ faq:
     a: "Il est employé dans les rites de passage de la vie, de la naissance à la mort, dans les cérémonies sacrées et les rituels de guérison, et il est traditionnellement lié à la tradition guerrière iban. Ses motifs sont aussi tissés dans les sarongs des femmes, les pagnes des hommes et les robes des chamans."
 
 lang: "fr"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: Une figure grandeur nature d'une tisserande iban aux longs cheveux appuyée contre un métier à tisser à sangle dorsale, travaillant un pua kumbu en ikat rouge rouille et crème dont les fils de chaîne s'évasent vers le spectateur
+    kind: actual
+    origin: third-party
+    subject: une exposition de musée d'une femme iban tissant un pua kumbu de couleur rouille sur un métier à sangle dorsale, musée du Textile de Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 Une étoffe que sa tisseuse n'ose pas créer sans une «bénédiction» : on dit que ses motifs arrivent en rêve, et elle fut autrefois étroitement liée à la tradition guerrière du peuple qui la fabriquait. Voilà le pua kumbu.

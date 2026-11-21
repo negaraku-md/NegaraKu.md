@@ -33,7 +33,7 @@ faq:
     a: "Pertunjukan publik di Kelantan dibatasi di bawah enakmen kawalan hiburan negeri yang disahkan pada 1998. Pada 25 September 2019, Timbalan Menteri Besar Kelantan Datuk Mohd Amar Nik Abdullah mengumumkan bahwa pertunjukan diizinkan dengan tunduk pada syarat patuh syariah yang ditetapkan pemerintah negeri, termasuk ketiadaan unsur pemujaan dan kewajiban menutup aurat, dengan pemantauan berkelanjutan oleh pemerintah negeri dan otoritas agama negeri."
 
 lang: "id"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: Dua kostum Mak Yong pada manekin di balik kaca, sebuah tunik emas dengan mahkota bertatahkan permata dan sebuah tunik merah marun dengan hiasan kepala gelap, di Muzium Negeri Kelantan
+    kind: actual
+    origin: third-party
+    subject: Kostum Mak Yong dengan mahkota berhias yang dipajang di Muzium Negeri Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: Foto bersejarah bernuansa sepia seorang penari Mak Yong bermahkota berdiri di antara para pemusik pria yang duduk memegang gendang dan rebab
+    kind: representative
+    origin: third-party
+    subject: Foto bersejarah pemeran utama Mak Yong bermahkota diapit para pemusik yang duduk dengan gendang dan rebab
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 Bunyi pertama bukan datang dari pemeran. Ia datang dari sekeping kayu berbentuk buah pir dengan tiga utas tali — rebab — yang digesek perlahan di tepi panggung kayu terbuka. Penonton duduk di tiga sisi. Atapnya daun palma. Dan sebelum sepatah dialog dilafalkan, seorang putri sudah membungkukkan badan ke arah alat musik itu dalam sebuah tarian yang namanya sendiri sudah menjelaskan segalanya: **Mengadap Rebab**.

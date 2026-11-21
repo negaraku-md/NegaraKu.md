@@ -34,7 +34,7 @@ faq:
     a: "20世紀半ば、ラジオ・映画・テレビとの競争により衰退した。1930年代末までに多くのバンサワン劇場が映画館に改装され、戦後この産業は資金源を失った。"
 
 lang: "ja"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: マラッカのパングン・バンサワン劇場の外観。澄んだ青空の下、赤い「Panggung Bangsawan Melaka」の看板を掲げたクリーム色と茶色の近代的な正面
+    kind: actual
+    origin: third-party
+    subject: マラッカ市のバンサワン専用の劇場、パングン・バンサワン
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: 曇り空の下、背の高い縦型の赤い「Panggung」の看板、ヤシの木、背後の市街の建物とともに見える、マラッカのパングン・バンサワン劇場の街角の眺め
+    kind: actual
+    origin: third-party
+    subject: マラッカのバンサワン専用劇場、パングン・バンサワンの街路からの眺め
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 映画が登場する前には、明かりの灯る舞台と手描きの緞帳、そして同じ一晩の公演の中でマレーの宮廷風の調べから中東のリズムへと切り替わることのできるオーケストラがあった。それがバンサワンである——かつて半島の都市部で最も活気のある娯楽であり、やがて自らの俳優と歌手を新興のマレー映画産業へと送り出すことになった舞台オペラだ。

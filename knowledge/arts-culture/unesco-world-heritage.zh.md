@@ -30,7 +30,7 @@ faq:
     a: "是的。世界遗产中心记录马来西亚预备名单上有三处遗产：西马国家公园（Taman Negara）、雪兰莪冈仔石英岭（Gombak Selangor Quartz Ridge），以及双溪毛糯麻风病院（Sungai Buloh Leprosarium）。预备名单上的列名只是提名意向的声明，并非正式列入。"
 
 lang: "zh"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: 槟城乔治市一条狭窄的遗产街道，两旁是两层楼的老店屋，挂着红灯笼，立着一块蜡染绘画博物馆（Batik Painting Museum）招牌，右侧是蓝色的「Lebuh Armenian」街牌，安静的路面上有一道黄色人行横道
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市遗产区的亚美尼亚街（Lebuh Armenian），属于联合国教科文组织世界遗产地的一部分
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: 沙巴京那巴鲁山（Mount Kinabalu）灰色花岗岩山体，嶙峋的山脊耸立在林木覆盖的山麓之上，前景是葱郁的绿树和长草斜坡，衬着晴朗的蓝天
+    kind: actual
+    origin: third-party
+    subject: 京那巴鲁山耸立在沙巴京那巴鲁公园（Kinabalu Park）之上，联合国教科文组织世界遗产地
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 问马来西亚有多少处世界遗产，多数人会回答「四处」。这在2024年之前确实如此。Niah洞穴群于当年7月列入名录，Forest Research Institute Malaysia Forest Park Selangor又于2025年跟进列入——总数因此升至六处。

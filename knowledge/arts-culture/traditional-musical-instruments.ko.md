@@ -29,7 +29,7 @@ faq:
     a: "스루나이는 소리가 끊기지 않고 이어지게 하는 순환 호흡(circular breathing) 기법으로 연주되며, 이로써 노밧에서 선율을 이끄는 주된 악기가 됩니다."
 
 lang: "ko"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: 파란 나무 받침대 위에 놓인 큰 르바나 우비 북들이 줄지어 있고, 몸체와 테두리가 빨강, 초록, 노랑, 분홍의 선명한 꽃무늬로 칠해진 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 클란탄의 큰 르바나 우비 틀 북 줄
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: 주황색 셔츠를 입은 나이 든 남성이 스루나이 겹서 관악기를 연주하고, 뒤로는 말레이 틀 북들이 바닥에 줄지어 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 클란탄의 자택에서 스루나이 겹서 피리를 연주하는 나이 든 연주자
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 거의 모든 말레이시아 예술 공연의 이면에는 같은 소리가 되풀이됩니다. 결혼식에서 무리 지어 두드리는 염소 가죽의 박자, 와양 쿨릿의 한 장면을 여는 높고 애절한 피리 소리, 그리고 사라왁 롱하우스에서 마음을 다독이는 나무 현의 뜯는 소리입니다. 이 소리를 내는 악기들은 여러 예술 글에 자주 등장하기에 — 이 페이지가 그것들을 한곳에 모았습니다.

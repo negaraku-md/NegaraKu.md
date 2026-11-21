@@ -27,7 +27,7 @@ faq:
     a: "Nhà Mã Lai thường chứa một gia đình, còn nhà dài (rumah panjang) chứa nhiều gia đình trong một công trình kéo dài — mỗi gia đình có phòng (bilek) riêng, chia sẻ với một hành lang chung gọi là ruai."
 
 lang: "vi"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: Một ngôi nhà làng gỗ màu nâu sẫm dựng trên những cột gỗ, với mái đầu hồi dốc, diềm mái chạm khắc hình vỏ sò, vách gỗ ốp panel và một cầu thang bên ngoài dẫn lên hiên nhà, được bao quanh bởi tán lá xanh
+    kind: actual
+    origin: third-party
+    subject: một ngôi nhà sàn gỗ Mã Lai truyền thống (rumah Melayu) với mái đầu hồi dốc, diềm mái chạm khắc và hiên nhà nâng cao có bậc thang gỗ dẫn lên
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: Một cung điện gỗ Mã Lai dài nâng cao với những mái cong vút kiểu Minangkabau uốn cong lên những đầu nhọn, vách gỗ sẫm ốp panel với cửa sổ chấn song, đứng trên những cột chạm khắc bên cạnh một tấm biển đề Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: cung điện gỗ Negeri Sembilan Istana Ampang Tinggi với những mái đầu hồi cong vút kiểu sừng trâu Minangkabau
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Nhấc một ngôi nhà làng cũ lên, tháo rời các mối ghép của nó, và lắp lại ở một địa điểm mới — phần lớn không cần nền bê tông cố định. Đó là sự khôn ngoan của kiến trúc Mã Lai truyền thống: một ngôi nhà «đọc» khí hậu nhiệt đới trước khi có điều hòa không khí.

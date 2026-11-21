@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: Dua pesilat Melayu berkaki ayam berpakaian silat hitam dan penutup kepala hitam berhadapan dalam kuda-kuda rendah di atas turapan kelabu, seorang memegang bilah pendek, dengan latar dinding bangunan berwarna hijau biru
+    kind: actual
+    origin: third-party
+    subject: dua pesilat berpakaian silat hitam berhadapan dalam kuda-kuda semasa latihan Silat Gayong di Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: Seorang pesilat Melayu berpakaian silat hitam melompat melakukan tendangan tinggi yang disekat oleh pasangannya yang mendekam, kedua-duanya berkaki ayam di atas turapan kelabu dengan latar dinding hijau biru, di tengah aksi semasa sesi latih tanding silat
+    kind: actual
+    origin: third-party
+    subject: seorang pesilat melakukan tendangan lompat kepada pasangan latih tanding semasa latihan Silat Gayong di Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 Seorang pesilat yang baik boleh mematahkan tulang lawan — atau menari di hadapan pengantin tanpa menyentuh sesiapa. Kedua-duanya silat. Itulah yang paling sukar difahami tentang seni ini: ia bukan sekadar kaedah bertarung, dan bukan sekadar tarian majlis. Ia kedua-duanya, dalam badan yang sama, digerakkan oleh langkah yang sama.

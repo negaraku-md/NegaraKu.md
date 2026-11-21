@@ -34,7 +34,7 @@ faq:
     a: "Rumah terbuka là tập tục mời họ hàng, hàng xóm và bạn bè — kể cả từ các cộng đồng và tôn giáo khác — đến thăm và thưởng thức món ăn suốt tháng Syawal. Nó trở thành một nét xã hội lan rộng ở Malaysia, và cũng thường được các cơ quan chính phủ và công ty tổ chức, chứ không chỉ ở nhà riêng."
 
 lang: "vi"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: Những gói cơm ketupat palas đan bằng lá cọ bên cạnh một đĩa thịt bò rendang, một món ăn kinh điển của lễ Hari Raya Aidilfitri ở Malaysia
+    kind: actual
+    origin: third-party
+    subject: Ketupat palas với thịt bò rendang, một món ăn kinh điển của lễ Hari Raya
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: Một chiếc đèn dầu tre pelita cháy với ngọn lửa sáng rực trong khu vườn tối trong dịp Hari Raya Aidilfitri ở Malaysia
+    kind: actual
+    origin: third-party
+    subject: Một chiếc đèn dầu tre pelita thắp sáng trong đêm dịp Hari Raya
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 Vào đêm cuối cùng của Ramadan, cả nước dường như chuyển động cùng một lúc. Đường cao tốc bắc–nam kẹt hàng giờ, các bến xe buýt chật kín túi xách và hộp bánh, và những ngọn đèn pelita sáng lên trên hiên nhà từ thành phố đến tận vùng quê hẻo lánh. Hôm sau, ngày 1 Syawal, một tháng chay tịnh kết thúc — và Malaysia đón mừng Hari Raya Aidilfitri.

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो जोगेट और ज़ापिन के बीच दो अलग मलय लोकनृत्यों के रूप में उद्गम, संगीत और गति के अंतर को समझना चाहता है।"
 
 lang: "hi"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singap
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: चमकीले गुलाबी, हरे और सुनहरे सारोंग पोशाकों में मलय नर्तकों का एक समूह कुआलालंपुर के एक खुले-आकाश आयोजन में एक जीवंत जोगेट में अपनी बाँहें उठाता और कलाइयाँ मोड़ता है, पुरुष मेल खाती पोशाकों में और महिलाएँ बालों में फूल लगाए हुए।
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के कुआलालंपुर में एक जीवंत जोगेट-शैली का नृत्य प्रस्तुत करते मलय लोक-नर्तकों का समूह
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: बाजु कुरुंग, सारोंग और सोंगकोक टोपियों में दर्जनों मलय नर्तक एक मेघाच्छादित दिन पर एक लकड़ी के मंडप के सामने एक सड़क भरते हुए एक खुले-आकाश सामूहिक ज़ापिन के दौरान एक साथ दोनों हाथ सिर के ऊपर उठाते हैं।
+    kind: representative
+    origin: third-party
+    subject: इंडोनेशिया के पोंटियानाक में एक शहर-उत्सव में पारंपरिक पोशाक में मलय कलाकारों द्वारा सामूहिक ज़ापिन (जेपिन) नृत्य
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 दो नर्तक गेंदांग (gendang) की ताल पर तेज़ी से चलते हैं — पैर थिरकते हैं, हाथ कोमलता से नाचते हैं। देखने वाले कई लोग इसे बस "मलय नृत्य" कह देते हैं, बिना यह भेद किए कि कौन-सा जोगेट है और कौन-सा ज़ापिन। पूछिए कि प्रत्येक कहाँ से आया, तो उत्तर हमें दुनिया के दो कोनों तक ले जाता है: एक मलक्का में एक पुर्तगाली व्यापारिक जहाज़ के डेक से, दूसरा हद्रमौत से निकले अरब प्रचारकों के काफ़िले से।

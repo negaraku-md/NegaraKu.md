@@ -35,7 +35,7 @@ verificationNeeded:
   - "The list of 'national wau' often associated with the Majlis Pelayang Malaysia (wau bulan, wau kucing, wau jala budi) — no official publication found."
 
 lang: "fr"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: Vue macro de la surface d'un wau montrant des motifs floraux et de feuilles découpés à la main dans une feuille métallique turquoise et or iridescente, cernés de noir sur un fond de papier sombre, avec une fleur magenta en bas à droite
+    kind: actual
+    origin: third-party
+    subject: un gros plan de la décoration florale complexe en papier découpé et feuille métallique d'un wau du Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: À l'intérieur d'un atelier en bois, plusieurs panneaux de wau achevés aux motifs en feuille métallique rose, or et sarcelle sont suspendus à côté d'une fine armature de cerf-volant en bambou tendue de cordes, le fabricant partiellement visible à une table en arrière-plan
+    kind: actual
+    origin: third-party
+    subject: des corps de wau achevés et une armature nue de wau en bambou dans l'atelier d'un fabricant de cerfs-volants
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 Avant de voir un wau, on l'entend. Un wau traditionnel bien fait bourdonne tout le temps qu'il est dans les airs : ce n'est pas le bruit du vent, mais une note délibérément intégrée à sa construction.

@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_h
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: 一头白色舞狮高踞在吉隆坡街头一排高耸的红色桩柱上，下方是围观人群，背后是中文店铺招牌
+    kind: actual
+    origin: third-party
+    subject: 马来西亚吉隆坡街头，一群观众前表演的高桩舞狮
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: 一头装饰鲜艳的白色舞狮，狮头狮身横跨架在数根高桩顶端，在舞台灯光下正面朝前
+    kind: representative
+    origin: third-party
+    subject: 白色竞技狮蹲伏横跨数根高桩，狮头正对镜头
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 鼓声一紧，狮子纵身跃起，前脚稳稳落在一根仅碗口粗的钢桩上，狮尾随即跟上——两名舞者在一排高低错落、离地两三米的桩柱间腾挪、定格，台下屏息，直到那头「活」过来的狮子在最高一根桩上稳稳立定，才爆出掌声。这不是平地上的贺岁舞狮，而是一项有评分、有冠军、有世界排名的竞技——高桩舞狮。

@@ -35,7 +35,7 @@ faq:
     a: "नहीं। बाजू कुरुंग एक लंबा, ढीला चोगा है जो शरीर के आकार को छिपाता है, जिसे लपेटे हुए कपड़े के साथ पहना जाता है। इसके विपरीत, कबाया सामने से खुलने वाली एक ब्लाउज़ है जो शरीर के आकार का अधिक निकटता से अनुसरण करती है, जिसे केरोंगसांग (kerongsang, एक ब्रूच) या बटनों से बंद किया जाता है, और सारोंग के साथ पहना जाता है। कबाया आमतौर पर बाजू कुरुंग की तुलना में अधिक कसी हुई होती है।"
 
 lang: "hi"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Har
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: बैठे मलय पुरुषों का एक बड़ा जमावड़ा क़ुरान पढ़ते हुए, हर एक अलग रंग में एक बाजु मेलायु और एक काली मखमली सोंगकोक टोपी पहने, एक लाल कालीन वाले मस्जिद हॉल को भरते हुए
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के सेलांगोर में एक शाही विवाह प्रार्थना-सभा में रंगीन बाजु मेलायु और काले सोंगकोक में मलय पुरुषों की कतारें
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: एक सफ़ेद पृष्ठभूमि के सामने खड़ा एक व्यक्ति एक मैंडरिन कॉलर वाला शाही-नीला बाजु मेलायु, एक काली मखमली सोंगकोक और पतलून के ऊपर मोड़ा हुआ एक चमकदार नीला पुष्प सोंगकेट लपेट (सम्पिंग) पहने हुए
+    kind: actual
+    origin: third-party
+    subject: एक सफ़ेद स्टूडियो पृष्ठभूमि पर एक पूरा पुरुष बाजु मेलायु परिधान पहने एक व्यक्ति, एक शाही-नीला कुरता जो एक काले सोंगकोक और एक सोंगकेट सम्पिंग के साथ पहना गया है
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 किसी पुरुष को हरि राया या किसी विवाह के लिए तैयार होते हुए देखिए। ढीली कमीज पहनी जा चुकी है, पतलून खोंस ली गई है — लेकिन वह अभी तैयार नहीं हुआ है। बाकी दो चीज़ें रह गई हैं जो तय करती हैं कि वह पूरी तरह तैयार दिखता है या केवल आधा-अधूरा: कमर पर लपेटा हुआ सम्पिंग कपड़े का एक टुकड़ा, और सिर पर एक सोंगकोक। इन दो चीज़ों के बिना, बाजू मलयू वास्तव में अभी बाजू मलयू नहीं है।

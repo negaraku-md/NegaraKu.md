@@ -34,7 +34,7 @@ faq:
     a: "لا تزال البنجابية حيّة لكنها تمرّ بتحوّل لغوي: وجد بحث أكاديمي عن جالية السيخ في كوتا كينابالو أن غالبية الأُسر تستخدم الإنجليزية في المنزل الآن. وللحفاظ على اللغة، تُدير الغوردوارات دروسًا للبنجابية — مثل مركز تعليم البنجابية في غوردوارا صاحب سيرمبان — تُعلّم خطّ الغورموخي للأطفال."
 
 lang: "ar"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: الواجهة الجملونية الصفراء والبيضاء الزاهية لغوردوارا غورو ناناك داربار تات خالسا ديوان سلانجور، شعار الخاندا السيخي فوق المدخل، وأعلام نيشان صاحب الزعفرانية على السقف وقبّة بصلية ذهبية على اليمين، تُرى عبر فناء مبلّط بنقش رقعة الشطرنج
+    kind: actual
+    origin: third-party
+    subject: غوردوارا غورو ناناك داربار تات خالسا ديوان سلانجور، معبد سيخي في شاه علم، سلانجور، ماليزيا
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: الواجهة البيضاء العالية متعددة الأبراج لغوردوارا صاحب كوتشينغ بقباب ذهبية القمم ومآذن ركنية، شعارات الخاندا السيخية تحيط بلافتة صفراء كُتب عليها Gurdwara Sahib Kuching، وعلما ماليزيا وساراواك يرفرفان من عمود مركزي، تحت سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: غوردوارا صاحب كوتشينغ، غوردوارا جمعية المعبد السيخي بساراواك في كوتشينغ، ساراواك، ماليزيا
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 في صفوف الشرطة والحصون البريطانية في مالايا خلال القرن التاسع عشر، لم يكن كثير من أولئك الضباط ذوي العمائم واللحى الكثيفة من أهل البلاد — بل كانوا سيخًا جُلبوا آلاف الأميال من البنجاب في شمال غرب الهند. ومن واجب حفظ الأمن ذاك نمت واحدة من أصغر جاليات الأقليات في ماليزيا، وإن كانت من أكثرها تميّزًا للنظرة الأولى.

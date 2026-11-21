@@ -32,7 +32,7 @@ seoTitle: "Bharatanatyam di Malaysia: Penjelasan Bentuk Tarian Klasik Ini"
 socialTitle: "Bagaimana tarian klasik India Selatan bertapak di Malaysia"
 
 lang: "ms"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_fo
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: Seorang penari Bharatanatyam muda berkostum sutera merah jambu dan emas, loceng buku lali dan barang kemas kuil mengimbang dengan sebelah kaki, kedua-dua tangan diangkat dalam mudra seperti gunting berhampiran kepalanya, tersenyum dengan latar pentas gelap yang polos.
+    kind: representative
+    origin: third-party
+    subject: Penari Bharatanatyam muda berdiri dengan sebelah kaki dengan kedua-dua tangan dalam mudra di sisi kepalanya
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: Seorang penari Bharatanatyam berblaus hitam dan sampin sutera merah dan emas berpusing di tengah langkah, satu lengan melengkung tinggi di atas kepala dan satu lagi menunjuk melintang badannya, skirt berlipatnya mengembang dengan latar belakang hitam.
+    kind: representative
+    origin: third-party
+    subject: Penari Bharatanatyam dirakam di tengah pusingan dengan satu lengan diangkat dan skirt berpusar
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 Kaki seorang penari menghentak lantai dalam corak yang pantas dan tepat. Loceng berbunyi seiring dengan rentak gendang mridangam. Tangannya membentuk sesuatu — seekor rusa, sekuntum teratai, satu persoalan — dan matanya mengikutinya sebelum wajahnya membalas dengan emosi yang seharusnya dirasai oleh penonton, bukan sekadar ditonton. Kemudian rentaknya selesai, dia memegang satu postur seperti arca, dan muziknya senyap sepenuhnya.

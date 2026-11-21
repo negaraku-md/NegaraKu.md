@@ -33,7 +33,7 @@ faq:
     a: "حرق الورق الذهبي والفضي (النقود الورقية) والدمى الورقية طريقة شائعة لتكريم الأسلاف، ترمز إلى إرسال المال والأغراض اليومية إلى الأجداد لاستخدامها في العالم الآخر؛ وإلى جانب النقود الورقية والملابس الورقية، تشمل الدمى الورقية الحديثة أيضاً البيوت الورقية والسيارات الورقية. ولأن الأمر ينطوي على نار مكشوفة ودخان، تخصص بعض المقابر والحدائق التذكارية مناطق للحرق أو تضع قواعد، وفي السنوات الأخيرة تحوّل بعض الناس إلى طرق أكثر مراعاة للبيئة."
 
 lang: "ar"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: طاولة قرابين عند قبر عليها دجاج كامل مطهو على البخار وسمك ولحم خنزير مشوي وأوعية أرز أبيض مع عيدان طعام وأكواب شاي وأباريق، مع حزم من أعواد البخور الحمراء المغروسة قائمةً في القرع ومشتعلة أمام ضريح حجري
+    kind: representative
+    origin: third-party
+    subject: مائدة من قرابين الطعام والبخور المشتعل أمام قبر خلال كنس القبور في تشينغمينغ
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: أسد حجري حارس مذهّب يعتلي عمود قبر من الغرانيت منقوشاً بأحرف صينية ذهبية، أمام تلة دفن عشبية وشجرة منتشرة تحت سماء غائمة في مقبرة بوكيت تشينا الصينية بملاكا
+    kind: actual
+    origin: third-party
+    subject: عمود قبر بشكل أسد حارس مذهّب منقوش بأسماء عائلات صينية في المقبرة الصينية (بوكيت تشينا) بملاكا، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 في صباح باكر من أوائل أبريل، تبدأ العائلات بالظهور على دروب المقبرة، واحدة تلو الأخرى. بعضهم يحمل الدلاء والمناجل، وبعضهم يحمل سلالاً مملوءة بالطعام المطهو والفاكهة والنقود الورقية. وبعد أن يجدوا قبر عائلتهم، يبدأ الصغار بإزالة الأعشاب وكنس الأوراق، بينما يرشد الكبار إلى كيفية إعادة طلاء الحروف الباهتة على شاهدة القبر حرفاً حرفاً؛ ولا توضع القرابين ويُشعل البخور وتُؤدى مراسم التكريم إلا بعد أن يصير القبر نظيفاً، ثم يُحرق في النهاية الورق الذهبي والفضي في مساحة خالية قريبة. وبين الدخان واللهب، يمر تشينغمينغ السنوي على هذا النحو.

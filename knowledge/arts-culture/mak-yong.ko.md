@@ -33,7 +33,7 @@ faq:
     a: "클란탄의 공개 공연은 1998년에 통과된 주 오락 통제 조례 아래 제한됩니다. 2019년 9월 25일 클란탄 부주지사 다툭 모드 아마르 닉 압둘라(Datuk Mohd Amar Nik Abdullah)는 주 정부가 정한 샤리아 준수 조건 — 숭배 요소의 배제와 아우라트(aurat)를 가릴 의무 등 — 에 따라, 주 정부와 주 종교 당국의 지속적 감시 아래 공연이 허용된다고 발표했습니다."
 
 lang: "ko"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: 클란탄 주립박물관의 유리 뒤 마네킹에 입혀진 두 벌의 막용 의상으로, 보석 왕관이 딸린 금색 튜닉과 짙은 머리장식이 딸린 적갈색 튜닉
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 클란탄 주립박물관에 전시된, 화려한 왕관이 딸린 막용 의상
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: 근당 북과 르밥(현악기)을 든 남성 연주자들이 앉아 있는 가운데 왕관을 쓴 막용 무용수가 서 있는 세피아 톤의 역사 사진
+    kind: representative
+    origin: third-party
+    subject: 북과 르밥을 든 연주자들이 앉아 둘러싼 가운데 왕관을 쓴 막용 주연 공연자의 옛 사진
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 첫 소리는 배우에게서 나오지 않습니다. 그것은 세 줄이 달린 배(梨) 모양의 나무 한 조각 — 르밥 — 에서 나오는데, 열린 목조 무대 가장자리에서 천천히 켜집니다. 관객은 세 면에 둘러앉습니다. 지붕은 야자 잎입니다. 그리고 대사 한 마디가 나오기도 전에, 한 공주가 이미 그 악기를 향해 몸을 숙이는데, 그 춤의 이름 자체가 모든 것을 말해 줍니다. **믕아답 르밥(Mengadap Rebab, 르밥을 향해 절함)**입니다.

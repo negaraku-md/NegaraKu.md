@@ -35,7 +35,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: An ornate timber mosque minbar with a tall gilded canopy carved and pierced with gold foliage and a crested finial, rising above a red-and-gold carved staircase on a green prayer carpet
+    kind: actual
+    origin: third-party
+    subject: the gilded, intricately carved timber minbar (pulpit) of the Tengkera (Tranquerah) Mosque in Melaka, Malaysia
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: A band of pierced fretwork carving in flame-like foliate shapes running along the timber eaves board beneath the roof of a brown-planked traditional Malay house, framed by green foliage and sky
+    kind: actual
+    origin: third-party
+    subject: a carved fretwork eaves board (papan kerawang) trimming the roofline of a traditional Malay timber house in Hulu Langat, Selangor
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 Look closely at the wood panel in the window of an old Malay house, and try to find where the pattern begins. You won't find it. That is not your eyes' fault — it was designed that way.

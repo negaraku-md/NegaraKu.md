@@ -34,7 +34,7 @@ faq:
     a: "Bahasa Punjabi masih hidup tetapi mengalami pergeseran bahasa: kajian akademik terhadap komunitas Sikh di Kota Kinabalu menemukan bahwa mayoritas keluarga kini menggunakan bahasa Inggris di rumah. Untuk mempertahankan bahasa itu, gurdwara menyelenggarakan kelas Punjabi — misalnya Pusat Pendidikan Punjabi di Gurdwara Sahib Seremban — yang mengajarkan aksara Gurmukhi kepada anak-anak."
 
 lang: "id"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahr
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: Fasad beratap pelana kuning dan putih cerah dari Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, lambang Khanda Sikh di atas pintu masuk, bendera Nishan Sahib warna safron di atap dan kubah bawang emas di sebelah kanan, dilihat dari halaman depan berubin kotak-kotak
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, sebuah kuil Sikh di Shah Alam, Selangor, Malaysia
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: Fasad putih tinggi bermenara banyak dari Gurdwara Sahib Kuching dengan kubah berpuncak emas dan menara sudut, lambang Khanda Sikh mengapit papan nama kuning bertuliskan Gurdwara Sahib Kuching, bendera Malaysia dan Sarawak berkibar dari tiang tengah, di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, gurdwara Sarawak Sikh Temple Association di Kuching, Sarawak, Malaysia
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 Di barisan polisi dan benteng-benteng Inggris di Tanah Melayu abad ke-19, banyak petugas bersorban dan berjanggut lebat itu bukan orang setempat — mereka orang Sikh yang didatangkan ribuan mil dari Punjab di barat laut India. Dari tugas menjaga keamanan itulah tumbuh salah satu komunitas minoritas Malaysia yang paling kecil tetapi paling mudah dikenali.

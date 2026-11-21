@@ -35,7 +35,7 @@ faq:
     a: "البيت المفتوح ممارسة تقوم على دعوة الأقارب والجيران والأصدقاء — بمن فيهم من أعراق وأديان أخرى — للزيارة والاستمتاع بالطعام طوال فترة شوّال. وقد صار سمةً اجتماعية واسعة في ماليزيا، وكثيراً ما تقيمه أيضاً الجهات الحكومية والشركات، لا البيوت الخاصة وحدها."
 
 lang: "ar"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: أكياس أرز كتوبات بالاس المنسوجة من سعف النخيل بجانب طبق من رندانغ اللحم، وهو طبق كلاسيكي لعيد الفطر في ماليزيا
+    kind: actual
+    origin: third-party
+    subject: كتوبات بالاس مع رندانغ اللحم، طبق كلاسيكي لعيد الفطر
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: مصباح زيت بيليتا من الخيزران يشتعل بلهب ساطع في حديقة مظلمة خلال عيد الفطر في ماليزيا
+    kind: actual
+    origin: third-party
+    subject: مصباح زيت بيليتا من الخيزران مُشعَل ليلاً خلال عيد الفطر
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 في آخر ليلة من رمضان، تبدو البلاد كلّها وكأنها تتحرّك دفعةً واحدة. فالطريق السريع بين الشمال والجنوب (North–South Expressway) مزدحم ساعات، ومحطّات الحافلات تمتلئ بالحقائب وعُلَب الكعك، ومصابيح البيليتا (pelita) تُضاء على الشُّرُفات من المدن إلى أقاصي القرى (kampung). وفي اليوم التالي، 1 شوّال، ينتهي شهر من الصيام — وتحتفل ماليزيا بهاري رايا عيد الفطر (Hari Raya Aidilfitri).
