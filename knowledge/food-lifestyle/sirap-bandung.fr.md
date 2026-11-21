@@ -105,6 +105,7 @@ heroAlt: "Deux grands verres de lait rose glacé au sirop de rose (sirap bandung
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 De toutes les boissons d'un tableau de café malaisien, le sirap bandung est celle que l'on

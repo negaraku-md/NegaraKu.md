@@ -101,6 +101,7 @@ dishFacts:
   halal: "Hidangan Melayu yang disantap terutama sebagai sarapan dan makanan pasar pantai timur, serta disajikan di meja perayaan khususnya sekitar Hari Raya Aidilfitri — sehingga ia berada tepat dalam meja Muslim-Melayu."
   eat: "Biasanya disantap untuk sarapan, sering diserahkan sebagai bungkusan kecil daun pisang berisi nasi di samping kari tuna yang gelap dan berminyak serta taburan acar. Piringnya disusun, bukan ditumpuk: nasi santan yang lembut, gulai ikan tongkol yang kaya, acar yang tajam, dan kadang sesendok sambal cabai, disantap bersama dalam tiap suapan."
   where: "Di pantai timur Malaysia sebagai hidangan sarapan dan pasar, sangat dikenali dengan Terengganu dan Kelantan, meski kini dijual jauh melampaui negeri-negeri itu."
+wikidata: "Q3234514"
 ---
 
 Pesan sarapan di pesisir timur Malaysia, dan Anda mungkin diberi sebungkus kecil daun pisang

@@ -106,6 +106,7 @@ dishFacts:
   halal: "Theo truyền thống wonton mee là một món thịt heo — xá xíu là thịt heo quay và hoành thánh nhân thịt heo và tôm — nên tô cổ điển không halal. Nhiều quầy do người Hồi giáo điều hành khắp Malaysia bán các phiên bản halal thay thịt heo bằng 'xá xíu' gà và dùng hoành thánh gà hoặc tôm; cũng có các phiên bản chay dùng mì căn hoặc nấm. Vì cách làm khác nhau theo từng quán, nên hỏi từng tiệm nếu điều này quan trọng với bạn."
   eat: "Theo kiểu khô (kon lou), mì được dọn ra đã trộn và bóng loáng với xá xíu đặt lên trên, trong khi hoành thánh nằm riêng trong một bát súp nhỏ bên cạnh — bạn ăn mì, rồi húp nước dùng và ăn hoành thánh xen kẽ. Ớt xanh ngâm, thái lát và ngâm giấm, là món kèm gần như phổ biến, vị cay-chua sắc của nó cắt bớt độ béo; một chút tương ớt hoặc sambal cũng thường được mời thêm."
   where: "Wonton mee là món cố định của các quầy hàng rong Malaysia cùng bàn ăn sáng ở kopitiam và quán mamak, đặc biệt là kiểu khô gắn với Kuala Lumpur và phần lớn bán đảo. Nó thay đổi từ thị trấn này sang thị trấn khác, với các phiên bản vùng đáng chú ý ở Penang, Ipoh và Sarawak."
+wikidata: "Q3269812"
 ---
 
 Gọi một tô wonton mee ở Kuala Lumpur, bạn sẽ nhận được một nhúm nhỏ mì trứng bóng

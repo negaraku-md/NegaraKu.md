@@ -91,6 +91,7 @@ heroAlt: "Lassi de yogur helado, cremoso y blanco, en una taza estampada con una
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Siéntate ante un plato ardiente de arroz en hoja de plátano o un rico curry del norte

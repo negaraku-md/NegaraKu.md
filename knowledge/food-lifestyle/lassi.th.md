@@ -91,6 +91,7 @@ heroAlt: "ลัสซีโยเกิร์ตเย็นสีขาวค�
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 นั่งลงกินข้าวใบตองจานร้อนแรงหรือแกงอินเดียเหนือเข้มข้น และเครื่องดื่มที่มักมาถึงเพื่อดับไฟคือแก้วสูงมีฟอง

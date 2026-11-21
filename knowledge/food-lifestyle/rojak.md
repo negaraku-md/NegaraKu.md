@@ -99,6 +99,7 @@ dishFacts:
   halal: "The article distinguishes two branches: fruit (Chinese) rojak carries a sauce built on fermented prawn (shrimp) paste — a seafood paste, not pork — while the mamak or pasembur version is the Indian-Muslim fritter rojak made by mamak cooks and sold at mamak stalls across the country."
   eat: "Everything is cut into bite-sized pieces, tossed in the dressing to coat, and finished with crushed roasted peanuts; fruit rojak is eaten cool as a snack or sharing plate, prized for the way each ingredient stays distinct even when slicked in sauce, while the mamak version is a hot, substantial plate ladled with gravy."
   where: "Rojak is woven into Malaysia's street-food and night-market culture, where several of its forms are sold side by side — fruit rojak most associated with Chinese hawkers, and the mamak/pasembur version a fixture of the mamak stalls found across the country, with Penang celebrated for its own tart, toffee-dark local take."
+wikidata: "Q720230"
 ---
 
 Ask for "rojak" at one stall and you get a cold tumble of fruit and dough

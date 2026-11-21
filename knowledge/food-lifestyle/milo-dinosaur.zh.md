@@ -107,6 +107,7 @@ heroAlt: "一杯美禄冰（Milo）上面堆着厚厚一层未溶化的美禄粉
 heroCredit: "Pauloleong2002 / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 在马来西亚的 mamak 点一杯 Milo，你会得到一杯冰凉、香甜、带巧克力味的饮品。点一杯

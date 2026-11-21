@@ -91,6 +91,7 @@ heroAlt: "빨대가 꽂힌 무늬 있는 잔에 담긴, 크리미한 흰색 아�
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 매운 banana-leaf rice 한 접시나 진한 북인도 카레 앞에 앉으면, 그 불을 끄려 가장 자주

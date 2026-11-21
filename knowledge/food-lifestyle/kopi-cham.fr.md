@@ -91,6 +91,7 @@ heroAlt: "Un mélange mousseux de café et de thé (kopi cham) dans une tasse et
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 Pour quiconque s'attable dans un café malaisien et n'arrive pas à choisir entre café et thé, le

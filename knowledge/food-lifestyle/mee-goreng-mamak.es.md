@@ -96,6 +96,7 @@ dishFacts:
   origin: "La versión indomusulmana (mamak, a menudo tamil-musulmana) de los fideos fritos; se considera ampliamente un plato de fusión local —fideos amarillos al estilo chino sazonados a la manera malayo-india— del que se dice que no existe en la India en esta forma. Su origen exacto es objeto de debate, con relatos que apuntan a los inmigrantes tamiles musulmanes y a un comercio ambulante de carretillas de principios del siglo XX."
   eat: "Se cocina al momento en minutos en un wok a fuego vivo; se sirve en un plato con un gajo de lima calamansi que se exprime en la mesa, y se come como almuerzo rápido, cena económica o tentempié de madrugada."
   where: "Puestos mamak, cafeterías y locales abiertos 24 horas por toda Malasia, desde carritos de carretera hasta cadenas con aire acondicionado; las versiones de Penang son más caldosas y con una salsa más intensa."
+wikidata: "Q106256810"
 ---
 
 Acércate a casi cualquier puesto mamak de Malasia al caer la noche y lo oirás

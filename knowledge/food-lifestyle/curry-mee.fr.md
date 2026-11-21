@@ -98,6 +98,7 @@ dishFacts:
   halal: "Les versions traditionnelles de style chinois ne sont pas halal : des cubes de sang de porc coagulé et du saindoux frit sont des ajouts classiques, et le bol de Penang inclut souvent le sang de porc coagulé qui enrichit et fonce le bouillon. De nombreuses versions halal, tenues par des musulmans, en omettent le porc. Comme les recettes varient de stand en stand, il vaut mieux se renseigner à chaque stand."
   eat: "Le piquant arrive généralement à part — une cuillerée de pâte de piment (ou de sambal) est incorporée ou servie à côté pour que chacun l'ajuste. Dans le style curry laksa de Kuala Lumpur et du centre, la pâte de piment est souvent incorporée directement dans la soupe, tandis que le curry mee de Penang est généralement servi avec la pâte de piment à côté et fini d'un brin de menthe fraîche."
   where: "Le curry mee se vend à l'échelle nationale dans les kopitiam (cafés), les hawker centres et les stands de rue, comme un incontournable du petit-déjeuner et de toute la journée. George Town, à Penang, est le terrain de chasse le plus connu, avec des stands de longue date bâtissant des réputations sur des générations, tandis que la vallée de Klang et d'autres villes de la péninsule servent la version curry laksa avec la même abondance."
+wikidata: "Q391082"
 ---
 
 Commandez un « curry mee » à George Town et l'on vous servira un bol doux et

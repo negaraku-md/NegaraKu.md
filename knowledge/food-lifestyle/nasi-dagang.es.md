@@ -101,6 +101,7 @@ dishFacts:
   halal: "Un plato malayo comido ante todo como desayuno y comida de mercado de la costa este, y servido en mesas festivas sobre todo en torno a Hari Raya Aidilfitri, de modo que se sitúa de pleno dentro de la mesa malayo-musulmana."
   eat: "Suele comerse en el desayuno, a menudo entregado como un pequeño paquete de arroz en hoja de plátano junto al curry de atún oscuro y aceitoso y un puñado de encurtidos. El plato se ensambla, no se amontona: arroz cremoso al coco, rico gulai ikan tongkol, acar ácido y a veces una cucharada de sambal de chile, comidos juntos en cada bocado."
   where: "En la costa este de Malasia como plato de desayuno y de mercado, fuertemente identificado con Terengganu y Kelantan, aunque ahora se vende mucho más allá de esos estados."
+wikidata: "Q3234514"
 ---
 
 Pide el desayuno en la costa este de Malasia y es posible que te entreguen un pequeño paquete de

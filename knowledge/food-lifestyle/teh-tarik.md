@@ -105,6 +105,7 @@ heroAlt: "A clear glass mug of frothy brown pulled milk tea (teh tarik) on a mar
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 The scene is a fixture of Malaysian life: a man at a mamak stall holding a battered

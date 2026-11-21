@@ -91,6 +91,7 @@ heroAlt: "콩이 옆에 놓인, 연한 색 두유가 담긴 키 큰 잔"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 수많은 말레이시아 커피숍에서 한 노점은 오직 콩만 다룬다: 한쪽에는 따뜻하고 신선한

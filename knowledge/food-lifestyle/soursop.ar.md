@@ -101,6 +101,7 @@ images:
     credit: Nubelbariloe / Wikimedia Commons
     license: CC BY 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 شائكة وخضراء وثقيلة، تبدو الـ**soursop** للوهلة الأولى كدوريان صغير — وهكذا بالضبط

@@ -94,6 +94,7 @@ heroAlt: "كوب طويل من شاي الحليب (bubble tea) مع طبقة س
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 امشِ في أيّ مركز تسوّق ماليزي وستمرّ بها خلال دقائق: منضدات صغيرة ساطعة بطوابير أمامها، وموظّفون يرجّون أكوابًا فولاذية، وجدار من الخيارات للسكر والثلج والإضافات. **Bubble tea** — *boba*، pearl milk tea — هو هوس المشروبات الحديث الكبير في البلاد، والمُدخَل الوحيد على لوحة مشروبات ماليزيا الذي هو بفخر وصراحة *ليس* ماليزيّ الأصل.

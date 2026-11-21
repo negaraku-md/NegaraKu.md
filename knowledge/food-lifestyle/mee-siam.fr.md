@@ -95,6 +95,7 @@ dishFacts:
   halal: "Le mee siam est un pilier de la cuisine malaise, et le mee siam goreng sec en particulier est, selon un récit, 'plus souvent vendu par la communauté malaise' et surtout associé aux stands malais."
   eat: "Fini d'un ensemble familier de garnitures — œuf dur (coupé en deux), crevettes, beignets de tofu (tau pok), ciboule (kucai), germes de soja croquants et un quartier de calamansi (limau kasturi) ou de citron vert pressé juste avant de manger, avec une cuillerée de sambal à côté pour relever la chaleur à sa guise. Les garnitures exactes varient d'un stand à l'autre."
   where: "Cuisiné dans plus d'une tradition — un pilier des stands malais, où la version goreng sèche se trouve surtout, et un plat adoré de la cuisine nyonya (peranakan). Sur le plan régional, le style sauté à sec est associé au Johor et une version humide est un favori de Melaka."
+wikidata: "Q1886310"
 ---
 
 Commandez un « mee siam » et le résultat dépend de l'étal. Dans l'un, vous obtenez

@@ -94,6 +94,7 @@ dishFacts:
   halal: "Cả hai phiên bản truyền thống thường dùng thịt heo và không halal. Hokkien mee kiểu KL dùng thịt heo và được hoàn thiện với tóp mỡ heo giòn (zhu you zha); Hokkien mee Penang được hầm từ đầu, vỏ tôm và sườn heo, với mỡ heo theo truyền thống được thêm vào súp (dù nay ít phổ biến hơn). Không có đề cập đến các biến tấu halal, nên nên hỏi từng quán."
   eat: "Hokkien mee kiểu KL là món 'khô', không phải súp — xì dầu sậm màu áo lên sợi mì to chứ không nhấn chìm chúng, nấu ngon nhất trên ngọn lửa than hừng hực để có vị khói nhẹ, và thường ăn vào bữa tối hoặc khuya. Hokkien mee Penang được dọn như một món súp, kết hợp bún gạo với mì trứng vàng sợi to hơn trong nước dùng tôm cay, phủ tôm thái lát, thịt heo, trứng luộc, kangkung (rau muống), giá đỗ và hành phi, với sambal ớt khuấy vào cho cay; cũng có một phiên bản 'khô' không nước."
   where: "Hokkien mee kiểu KL có tại các quầy ven đường và kopitiam khắp Kuala Lumpur và Thung lũng Klang. Hokkien mee Penang là món chủ lực của cảnh hàng rong trên đảo, phục vụ tại các chợ đêm và quầy ẩm thực đường phố. Ngoài Penang, hãy gọi món súp tôm là 'prawn mee' hoặc 'hae mee', vì ở đó cụm 'Hokkien mee' đã có nghĩa là mì xào sậm màu."
+wikidata: "Q1624233"
 ---
 
 Gọi "Hokkien mee" ở Kuala Lumpur và bạn nhận được một đĩa mì vàng dày bóng sẫm nước

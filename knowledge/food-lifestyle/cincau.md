@@ -91,6 +91,7 @@ heroAlt: "A chilled grass-jelly (cincau) drink with dark jelly settled at the ba
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 On a hot afternoon at a Malaysian coffee shop, one of the cheapest ways to cool

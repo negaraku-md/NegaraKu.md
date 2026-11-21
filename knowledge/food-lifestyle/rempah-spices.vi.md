@@ -93,6 +93,7 @@ verificationNeeded:
   - "Loại thơm nào được tính là 'cốt lõi' không thể giản lược của một rempah so với các thành phần thêm vào theo vùng miền hoặc theo món — các nguồn ẩm thực uy tín mô tả ớt, tỏi, hành tím và gừng là nền tảng, với riềng, nghệ, hạt đèn cầy, sả và belacan là những thành phần thêm phổ biến nhưng thay đổi. Hãy xác nhận với một thẩm quyền ẩm thực Malaysia."
   - "Mối liên hệ nhân quả giữa hoạt động buôn bán gia vị lịch sử qua Eo biển Melaka và sự phát triển của lối nấu rempah/sốt gia vị Malaysia là một suy luận hợp lý rút ra từ lịch sử thương mại và ẩm thực, chứ không phải một phát biểu có tài liệu ghi chép đơn lẻ — hãy xác nhận với một nguồn lịch sử ẩm thực chuyên biệt."
 framework: explainer
+wikidata: "Q697230"
 ---
 
 Mở nắp gần như bất kỳ nồi cà ri, *gulai* hay *sambal* nào của Malaysia, bạn sẽ thấy

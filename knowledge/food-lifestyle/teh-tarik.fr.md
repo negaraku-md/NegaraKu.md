@@ -106,6 +106,7 @@ heroAlt: "Une chope en verre transparent de thé au lait mousseux (teh tarik) su
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 La scène est un classique de la vie malaisienne : un homme à un stand mamak tenant une

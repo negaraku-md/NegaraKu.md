@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Nước lúa mạch có nguồn gốc thực vật và không cồn — lúa mạch, nước và đường — nên bản thân đồ uống là halal (không nên nhầm với lúa mạch (barley) dùng để nấu bia). Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quán."
   served: "Phục vụ nóng hoặc với đá. Phiên bản thường chỉ ngọt nhẹ; gọi 'barley limau' để có một chút chanh, hoặc tìm món lúa mạch với bí đao (winter melon) tẩm đường cho vị ngọt tròn đầy hơn. Thường được giữ ấm trong một bình lớn tại quầy và rót theo yêu cầu."
   where: "Tìm thấy tại các quán cà phê người Hoa, khu ẩm thực, trung tâm hàng rong và pasar malam khắp cả nước, và được bán làm sẵn dưới dạng lon (chẳng hạn Yeo's) ở mọi siêu thị và cửa hàng tạp hóa."
+wikidata: "Q397762"
 ---
 
 Giữa những thức uống nhạt màu, khiêm nhường được bày thành hàng ở một quán cà phê

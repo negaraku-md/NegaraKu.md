@@ -95,6 +95,7 @@ dishFacts:
   halal: "Mee siam adalah hidangan pokok masakan Melayu, dan mee siam goreng yang kering khususnya, menurut satu catatan, 'lebih sering dijual oleh masyarakat Melayu' dan terutama diasosiasikan dengan gerai Melayu."
   eat: "Diselesaikan dengan seperangkat topping yang akrab — telur rebus (dibelah dua), udang, tahu goreng (tau pok), kucai, tauge renyah, dan sepotong kalamansi (limau kasturi) atau jeruk nipis diperas tepat sebelum disantap, dengan sesendok sambal di sisi untuk menaikkan tingkat kepedasan sesuai selera. Topping yang pasti berbeda-beda dari satu gerai ke gerai lain."
   where: "Dimasak melintasi lebih dari satu tradisi — hidangan pokok gerai Melayu, tempat versi goreng kering terutama ditemukan, dan hidangan kesayangan dapur Nyonya (Peranakan). Secara daerah, gaya goreng kering diasosiasikan dengan Johor dan versi basah menjadi favorit di Melaka."
+wikidata: "Q1886310"
 ---
 
 Pesan "mee siam" dan hasilnya bergantung pada gerai. Di satu gerai Anda mendapat

@@ -89,6 +89,7 @@ heroAlt: "Glass mugs of brown ginger milk tea (teh halia) on a wooden table"
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Take the country's most famous drink, add a warm kick of ginger, and you have **teh

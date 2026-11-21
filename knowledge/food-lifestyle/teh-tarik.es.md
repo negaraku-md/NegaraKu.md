@@ -106,6 +106,7 @@ heroAlt: "Una taza de vidrio transparente con té con leche espumoso (teh tarik)
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 La escena es un elemento fijo de la vida malasia: un hombre en un puesto mamak sosteniendo

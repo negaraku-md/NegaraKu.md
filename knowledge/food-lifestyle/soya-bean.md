@@ -90,6 +90,7 @@ heroAlt: "A tall glass of pale soybean milk with soybeans beside it"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 At countless Malaysian coffee shops a single stall does nothing but soy: a vat of

@@ -92,6 +92,7 @@ heroAlt: "Minuman cincau sejuk dengan cincau gelap mendap di dasar gelas"
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 Pada petang yang panas di sebuah kedai kopi Malaysia, salah satu cara paling murah

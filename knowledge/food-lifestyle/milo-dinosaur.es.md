@@ -107,6 +107,7 @@ heroAlt: "Un vaso de Milo helado coronado con un grueso montículo de Milo en po
 heroCredit: "Pauloleong2002 / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 Pide un Milo en un mamak malasio y te dan una bebida fría, dulce y achocolatada. Pide un

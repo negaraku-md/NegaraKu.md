@@ -101,6 +101,7 @@ dishFacts:
   halal: "As Indian-Muslim (mamak) and nasi kandar food, murtabak is halal. Its usual fillings are minced beef, chicken or mutton (goat) seasoned with curry spices — never pork — making it a staple for breaking the fast at Ramadan bazaars."
   eat: "It is cut into blocks or squares and eaten hot, with the accompaniments served alongside rather than mixed in. Diners spoon or pour over a small dish of curry gravy or dhal and add a scatter of sliced, lightly pickled onions whose acidity cuts the richness."
   where: "Murtabak is a staple of Indian-Muslim (mamak) stalls and nasi kandar shops — in Penang, long a stronghold, it is a fixture of the nasi kandar restaurants. Available year-round, it comes into its own at the Ramadan bazaars that spring up across the country during the fasting month, where it is one of the signature draws, made to order and sold by the piece."
+wikidata: "Q1587123"
 ---
 
 Watch a murtabak being made at a Ramadan bazaar and the theatre is half the

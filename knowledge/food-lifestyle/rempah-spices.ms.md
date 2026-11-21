@@ -93,6 +93,7 @@ verificationNeeded:
   - "Aromatik mana yang dikira sebagai 'teras' rempah yang tidak boleh dikurangkan berbanding tambahan mengikut wilayah atau hidangan tertentu — sumber makanan bereputasi memerihalkan cili, bawang putih, bawang merah dan halia sebagai asas, dengan lengkuas, kunyit, buah keras, serai dan belacan sebagai tambahan yang lazim tetapi berubah-ubah. Sahkan terhadap pihak berautoriti kulinari Malaysia."
   - "Pautan sebab antara perdagangan rempah Selat Melaka bersejarah dengan perkembangan masakan rempah/pes rempah Malaysia ialah satu inferens munasabah yang diambil daripada sejarah perdagangan dan kulinari, bukannya satu pernyataan terdokumentasi tunggal — sahkan dengan sumber sejarah makanan yang khusus."
 framework: explainer
+wikidata: "Q697230"
 ---
 
 Angkat penutup hampir mana-mana periuk kari Malaysia, *gulai* atau *sambal*, dan

@@ -110,6 +110,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 어떤 맛은 잊기 어려운데, **asam boi**가 그 하나다: 작고 쭈글쭈글한, 말린 신 매실로 달고

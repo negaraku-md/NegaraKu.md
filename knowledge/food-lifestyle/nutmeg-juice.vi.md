@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Nước nhục đậu khấu có nguồn gốc thực vật và không cồn — quả nhục đậu khấu, đường, nước và thường có một quả xí muội — nên bản thân đồ uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quán hay nhà làm."
   served: "Phục vụ lạnh buốt để chống lại cái nóng của Penang. Hai kiểu phổ biến: một loại nước 'trắng' tươi từ quả sống, và một phiên bản đun sôi sẫm màu, ngọt hơn. Hỏi xin 'asam' (xí muội chua) để làm sắc nét sự cân bằng; nước cốt cũng được bán để pha tại nhà."
   where: "Tìm thấy tại các quầy nước ép trái cây và đồ uống, chợ và khu ẩm thực ở Penang — gắn với George Town và vùng trồng nhục đậu khấu Balik Pulau nhiều nhất — và được bán dưới dạng nước cốt đóng chai từ những nhà làm nhục đậu khấu Penang."
+wikidata: "Q83165"
 ---
 
 Hầu hết mọi người gặp nhục đậu khấu dưới dạng một hạt nâu cứng được bào lên một món kem

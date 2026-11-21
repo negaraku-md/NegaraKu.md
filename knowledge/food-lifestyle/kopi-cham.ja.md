@@ -91,6 +91,7 @@ heroAlt: "花柄のコピティアムのカップと受け皿に入った、泡�
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 マレーシアのコーヒーショップに腰を下ろし、コーヒーと茶のどちらにも決められない人のために、カウンターは

@@ -92,6 +92,7 @@ heroAlt: "Una bebida fría de gelatina de hierbas (cincau) con la gelatina oscur
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 En una tarde calurosa en una cafetería malasia, una de las formas más baratas de

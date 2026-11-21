@@ -102,6 +102,7 @@ dishFacts:
   origin: "Dikesan kepada masyarakat Minangkabau di Sumatera Barat; dibawa ke Semenanjung Tanah Melayu melalui penghijrahan merantau Minangkabau dan perdagangan merentasi Selat Melaka, menjadi warisan bersama dunia Melayu."
   eat: "Juadah istimewa yang menjadi tumpuan terutamanya pada Hari Raya Aidilfitri bersama ketupat dan lemang, dan sekali lagi pada Hari Raya Aidiladha, majlis perkahwinan serta kenduri."
   where: "Di meja perayaan dan rumah terbuka Malaysia; amat dikaitkan dengan masyarakat keturunan Minangkabau di Negeri Sembilan dan gaya rendangnya yang gelap."
+wikidata: "Q1520293"
 ---
 
 Berjalan melepasi dapur orang Melayu pada hari-hari menjelang [Hari Raya](/arts-culture/hari-raya-aidilfitri) dan

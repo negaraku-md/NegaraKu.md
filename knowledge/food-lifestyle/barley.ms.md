@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Air barli berasaskan tumbuhan dan tidak beralkohol — barley, air dan gula — jadi minuman itu sendiri halal (tidak boleh dikelirukan dengan barli yang digunakan untuk membuat bir). Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidang panas atau beais. Versi biasa manis ringan; pesan 'barley limau' untuk perahan limau, atau cari barley dengan winter melon bergula untuk kemanisan yang lebih bulat. Selalunya dibiarkan panas dalam bekas besar di gerai dan dituang bila diminta."
   where: "Terdapat di kedai kopi Cina, medan selera, pusat penjaja dan pasar malam di seluruh negara, dan dijual siap sedia dalam tin (seperti Yeo's) di setiap pasar raya dan kedai runcit."
+wikidata: "Q397762"
 ---
 
 Antara minuman pucat dan sederhana yang berbaris di kedai kopi Cina — susu soya, agar

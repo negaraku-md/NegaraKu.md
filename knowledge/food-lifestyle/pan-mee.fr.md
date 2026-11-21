@@ -96,6 +96,7 @@ dishFacts:
   halal: "Le bol traditionnel n'est pas halal : il est garni de porc haché frit et le bouillon est souvent approfondi en faisant mijoter les anchois avec des os de porc. Le chilli pan mee peut utiliser du poulet haché à la place du porc, aussi vaut-il mieux se renseigner à chaque stand."
   eat: "Il se présente de deux façons. La version soupe sert les nouilles et le bouillon d'anchois ensemble dans un seul bol, chaud et doux ; la version sèche garde le bouillon à part et mélange les nouilles à un assaisonnement comme la sauce soja foncée, la sauce XO ou le sambal. Pour le chilli pan mee, l'œuf poché est généralement incorporé pour que le jaune enrobe les nouilles, puis les convives ajoutent à leur goût des flocons de piment séché pilé pris dans un bocal."
   where: "On le trouve dans les cafés du centre et du sud de la Malaisie péninsulaire, dont Kuala Lumpur, Seremban et Ipoh, où un stand façonne la pâte à la main. Le chilli pan mee est souvent attribué dans la presse culinaire au Restoran Kin Kin de Kuala Lumpur en particulier, même si cette attribution précise n'est pas fermement documentée."
+wikidata: "Q4856836"
 ---
 
 Entrez dans un café de Kuala Lumpur, Seremban ou Ipoh et vous trouverez un étal qui

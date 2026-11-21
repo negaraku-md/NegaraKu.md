@@ -92,6 +92,7 @@ heroAlt: "مشروب هلام العشب (cincau) المبرّد مع هلام �
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 في عصر يوم حارّ بمقهى ماليزي، من أرخص سبل التبرّد كوبٌ طويل من شيء داكن وزلِق:

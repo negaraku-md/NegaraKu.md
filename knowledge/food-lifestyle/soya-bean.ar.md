@@ -91,6 +91,7 @@ heroAlt: "كوب طويل من حليب الصويا الفاتح مع حبوب 
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 في مقاهٍ ماليزية لا تُحصى، يكتفي كشك واحد بالصويا وحدها: برميل من حليب الصويا الطازج

@@ -99,6 +99,7 @@ dishFacts:
   halal: "La plupart des thosai malaisiens gardent une pâte simple — riz, urad dal, eau et sel, parfois un peu de fenugrec —, ce qui rend la crêpe nature végétarienne. C'est un incontournable aussi bien des restaurants sud-indiens végétariens à feuille de bananier que des stands mamak, les établissements indo-musulmans où elle partage la plaque avec le roti canai."
   eat: "Un thosai se mange rarement seul ; il se plie — en deux, en triangle, ou se roule — puis se déchire à la main et se trempe dans le chutney de coco ou un creux de dhal. Un thosai kosong nature s'en remet entièrement à ses accompagnements de chutney de coco, de sambar et de dhal pour la saveur, et beaucoup de restaurants disposent des chutneys supplémentaires — à la menthe, à la tomate ou à l'oignon. C'est un pilier du petit-déjeuner, servi du petit matin jusque tard le soir."
   where: "On le trouve dans deux cadres qui se recoupent : les restaurants sud-indiens végétariens et à feuille de bananier, où il est un incontournable du matin et du goûter aux côtés de l'idli et du vadai, et les stands mamak, les établissements indo-musulmans où il partage la plaque avec le roti canai. La page du JKKN relève que le tosai est souvent servi au petit-déjeuner, surtout dans les restaurants indiens de Malaisie appelés restaurants mamak."
+wikidata: "Q920940"
 ---
 
 Entrez dans un stand mamak à l'aube, ou dans un restaurant à feuille de bananier à midi, et quelque

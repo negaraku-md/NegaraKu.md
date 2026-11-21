@@ -99,6 +99,7 @@ dishFacts:
   halal: "Là món của người Hồi giáo gốc Ấn (mamak) và của nasi kandar, murtabak là halal. Nhân thường gặp của nó là thịt bò, gà hoặc cừu (dê) băm nêm gia vị cà ri — không bao giờ có thịt heo — khiến nó thành một món chủ lực để xả chay tại các chợ Ramadan."
   eat: "Nó được cắt thành khối hoặc vuông và ăn nóng, với đồ ăn kèm dọn bên cạnh chứ không trộn vào. Thực khách múc hoặc chan lên một đĩa nhỏ nước cà ri hoặc dhal và thêm một ít hành thái lát, ngâm chua nhẹ mà vị chua của nó cắt bớt độ béo."
   where: "Murtabak là một món chủ lực của các quầy Hồi giáo gốc Ấn (mamak) và các tiệm nasi kandar — ở Penang, từ lâu là một thành trì, nó là món cố định của các nhà hàng nasi kandar. Có quanh năm, nó phát huy hết mình tại các chợ Ramadan mọc lên khắp cả nước trong tháng ăn chay, nơi nó là một trong những món hút khách tiêu biểu, làm theo yêu cầu và bán theo miếng."
+wikidata: "Q1587123"
 ---
 
 Hãy xem một chiếc murtabak được làm ở chợ Ramadan và một nửa sức hấp dẫn nằm ở màn trình diễn: một

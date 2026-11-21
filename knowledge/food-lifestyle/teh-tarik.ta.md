@@ -106,6 +106,7 @@ heroAlt: "பளிங்கு மேசையில் தெளிவான �
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 காட்சி மலேசிய வாழ்க்கையின் ஒரு நிலையான பகுதி: ஒரு மாமாக் கடையில் ஒரு மனிதன் ஒரு

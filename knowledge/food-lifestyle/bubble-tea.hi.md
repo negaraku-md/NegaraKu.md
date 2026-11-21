@@ -94,6 +94,7 @@ heroAlt: "तले में काले टैपिओका मोतिय
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 किसी भी मलेशियाई मॉल से गुज़रें और आप मिनटों में इनसे टकरा जाएँगे: चमकीले छोटे काउंटर जिनके आगे

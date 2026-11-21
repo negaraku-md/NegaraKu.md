@@ -91,6 +91,7 @@ heroAlt: "Lassi sữa chua đá màu trắng kem trong cốc hoa văn cắm ốn
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Ngồi xuống trước một đĩa banana-leaf rice bốc lửa hay một món cà ri Bắc Ấn đậm đà, và

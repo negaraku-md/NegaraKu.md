@@ -110,6 +110,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Sesetengah perisa sukar dilupakan, dan **asam boi** salah satunya: plum masam kering yang

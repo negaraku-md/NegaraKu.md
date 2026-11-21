@@ -99,6 +99,7 @@ dishFacts:
   halal: "Phần lớn thosai ở Malaysia giữ bột đơn giản — gạo, urad dal, nước và muối, đôi khi một chút cỏ cà ri — khiến bánh kếp trơn là món chay. Nó là một món quen thuộc của cả các nhà hàng cơm lá chuối chay Nam Ấn lẫn các quán mamak, những tiệm ăn Hồi giáo gốc Ấn nơi nó chia chung chiếc vỉ với roti canai."
   eat: "Một chiếc thosai hiếm khi được ăn một mình; nó được gập — làm đôi, thành hình tam giác, hoặc cuộn lại — rồi xé bằng tay và kéo qua chutney dừa hoặc một vũng dhal. Một thosai kosong trơn dựa hoàn toàn vào các món ăn kèm là chutney dừa, sambar và dhal để có vị, và nhiều nhà hàng bày thêm các loại chutney khác — bạc hà, cà chua hoặc hành. Nó là một món điểm tâm chủ lực, dọn từ sáng sớm đến tận đêm khuya."
   where: "Bạn tìm thấy nó ở hai bối cảnh gối lên nhau: các nhà hàng chay và cơm lá chuối Nam Ấn, nơi nó là một món quen thuộc buổi sáng và giờ trà bên cạnh idli và vadai, và các quán mamak, những tiệm ăn Hồi giáo gốc Ấn nơi nó chia chung chiếc vỉ với roti canai. Trang JKKN lưu ý rằng tosai thường được dọn như một món điểm tâm, đặc biệt ở các nhà hàng Ấn tại Malaysia được gọi là nhà hàng mamak."
+wikidata: "Q920940"
 ---
 
 Bước vào một quầy mamak lúc tờ mờ sáng, hay một nhà hàng lá chuối vào giờ trưa, và ở đâu đó

@@ -102,6 +102,7 @@ images:
     credit: Nubelbariloe / Wikimedia Commons
     license: CC BY 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 काँटेदार, हरा और भारी, **सॉरसॉप** पहली नज़र में एक छोटे durian जैसा दिखता है — जो ठीक

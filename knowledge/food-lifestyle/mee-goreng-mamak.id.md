@@ -96,6 +96,7 @@ dishFacts:
   origin: "Versi Muslim-India (mamak, sering Tamil-Muslim) dari mi goreng; secara luas dianggap sebagai hidangan fusi lokal — mi kuning gaya Tionghoa yang dibumbui dengan cara Melayu-India — yang katanya tidak ada di India dalam bentuk ini. Asal-usul persisnya diperdebatkan, dengan sejumlah catatan menunjuk pada imigran Tamil-Muslim dan perdagangan gerobak dorong awal abad ke-20."
   eat: "Dimasak dadakan dalam hitungan menit di atas wajan panas membara; disajikan di piring dengan potongan jeruk kalamansi yang diperas di meja, disantap sebagai makan siang cepat, makan malam murah, atau santapan larut malam."
   where: "Gerai mamak, kedai kopi, dan tempat makan 24 jam di seluruh Malaysia, dari gerobak pinggir jalan hingga gerai berpendingin; versi Penang cenderung lebih berkuah dan lebih kuat sausnya."
+wikidata: "Q106256810"
 ---
 
 Hampirilah hampir gerai mamak mana pun di Malaysia setelah gelap, dan Anda akan

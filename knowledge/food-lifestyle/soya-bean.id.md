@@ -91,6 +91,7 @@ heroAlt: "Gelas tinggi susu kedelai pucat dengan kedelai di sampingnya"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 Di tak terhitung banyaknya kedai kopi Malaysia, satu gerai mengerjakan tak lain selain

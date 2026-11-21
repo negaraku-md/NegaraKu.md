@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Jus buah pala berbahan nabati dan bebas alkohol — buah pala, gula, air, dan sering plum yang diawetkan — jadi minuman itu sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai atau pembuatnya."
   served: "Disajikan dingin es melawan panas Penang. Dua gaya umum: jus 'putih' segar dari buah mentah, dan versi rebusan yang lebih gelap serta lebih manis. Minta 'asam' (plum asin yang diawetkan) untuk mempertajam keseimbangan; konsentrat juga dijual untuk dicampur di rumah."
   where: "Ditemukan di gerai jus buah dan minuman, pasar, serta food court Penang — paling diasosiasikan dengan George Town dan kawasan kebun buah pala Balik Pulau — dan dijual sebagai konsentrat botolan dari pembuat buah pala Penang."
+wikidata: "Q83165"
 ---
 
 Kebanyakan orang mengenal pala sebagai biji cokelat keras yang diparut di atas puding

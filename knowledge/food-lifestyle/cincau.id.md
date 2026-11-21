@@ -92,6 +92,7 @@ heroAlt: "Minuman cincau dingin dengan jeli hitam mengendap di dasarnya"
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 Pada sore yang panas di sebuah kedai kopi Malaysia, salah satu cara termurah untuk

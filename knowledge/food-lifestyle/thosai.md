@@ -101,6 +101,7 @@ dishFacts:
   halal: "Most Malaysian thosai keeps the batter simple — rice, urad dal, water and salt, sometimes a little fenugreek — making the plain crepe vegetarian. It is a fixture of both South Indian vegetarian banana-leaf restaurants and mamak stalls, the Indian-Muslim eateries where it shares the griddle with roti canai."
   eat: "A thosai is rarely eaten alone; it is folded — in half, into a triangle, or rolled — then torn by hand and dragged through coconut chutney or a pool of dhal. A plain thosai kosong leans entirely on its accompaniments of coconut chutney, sambar and dhal for flavour, and many restaurants set out additional chutneys — mint, tomato or onion. It is a breakfast staple, served from early morning until late at night."
   where: "You find it in two overlapping settings: South Indian vegetarian and banana-leaf restaurants, where it is a morning and tea-time fixture alongside idli and vadai, and mamak stalls, the Indian-Muslim eateries where it shares the griddle with roti canai. The JKKN page notes that tosai is often served as breakfast, especially in Indian restaurants in Malaysia known as mamak restaurants."
+wikidata: "Q920940"
 ---
 
 Walk into a mamak stall at dawn, or a banana-leaf restaurant at lunch, and

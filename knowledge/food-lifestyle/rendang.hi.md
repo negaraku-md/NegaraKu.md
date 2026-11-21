@@ -102,6 +102,7 @@ dishFacts:
   origin: "इसकी जड़ें पश्चिम सुमात्रा के Minangkabau लोगों तक जाती हैं; Minangkabau के merantau प्रवास और मलक्का जलडमरूमध्य के पार व्यापार द्वारा इसे मलय प्रायद्वीप में लाया गया, और यह मलय जगत की साझा विरासत बन गया।"
   eat: "एक उत्सवी केंद्र-व्यंजन, जो विशेष रूप से Hari Raya Aidilfitri पर ketupat और lemang के साथ परोसा जाता है, और फिर Hari Raya Aidiladha, विवाहों और kenduri भोजों पर।"
   where: "मलेशियाई उत्सवी और open-house की मेज़ पर; Negeri Sembilan के Minangkabau-वंशी समुदाय और उसकी गहरे rendang शैलियों से घनिष्ठ रूप से जुड़ा हुआ।"
+wikidata: "Q1520293"
 ---
 
 [हरि राया](/hi/arts-culture/hari-raya-aidilfitri) से पहले के दिनों में किसी मलय रसोई के पास से गुज़रिए तो आप रेंदांग को

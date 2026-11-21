@@ -91,6 +91,7 @@ heroAlt: "Una mezcla espumosa de café y té (kopi cham) en una taza y platillo 
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 Para cualquiera que se siente en una cafetería malasia y no pueda decidirse entre el

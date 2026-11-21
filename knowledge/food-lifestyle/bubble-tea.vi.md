@@ -94,6 +94,7 @@ heroAlt: "Ly cao trà sữa với lớp trân châu đen dày dưới đáy"
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Đi bộ qua bất kỳ trung tâm thương mại nào ở Malaysia và bạn sẽ đi ngang chúng trong

@@ -106,6 +106,7 @@ dishFacts:
   halal: "Secara tradisi wonton mee ialah hidangan babi — char siu ialah babi panggang dan wonton diisi babi dan udang — jadi mangkuk klasiknya tidak halal. Banyak gerai yang dikendalikan Muslim di seluruh Malaysia menjual versi halal yang menggantikan babi dengan 'char siu' ayam serta menggunakan wonton ayam atau udang; versi vegetarian menggunakan gluten gandum atau cendawan juga wujud. Kerana amalan berbeza mengikut gerai, semak kedai masing-masing jika ini penting bagi anda."
   eat: "Dalam gaya kering (kon lou) mi tiba digaul dan bergilap dengan char siu di atas, manakala wonton duduk berasingan dalam mangkuk kecil sup di tepi — anda makan minya, kemudian menyenduk kuah dan ladu di sela-sela. Cili hijau jeruk, dihiris dan direndam dalam cuka, ialah pelengkap yang hampir universal, gigitannya yang tajam dan masam-pedas mengimbangi kekayaannya; secebis sos cili atau sambal juga sering ditawarkan."
   where: "Wonton mee ialah kebiasaan gerai penjaja Malaysia serta meja sarapan kopitiam dan mamak, terutamanya gaya kering yang dikaitkan dengan Kuala Lumpur dan kebanyakan semenanjung. Ia berubah dari bandar ke bandar, dengan versi serantau yang terkenal di Pulau Pinang, Ipoh dan Sarawak."
+wikidata: "Q3269812"
 ---
 
 Pesanlah wonton mee di Kuala Lumpur dan anda akan menerima segumpal kecil mi

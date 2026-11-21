@@ -107,6 +107,7 @@ heroAlt: "녹지 않은 밀로 가루가 두툼하게 쌓인, 아이스 밀로(M
 heroCredit: "Pauloleong2002 / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 말레이시아 mamak에서 Milo를 주문하면 차갑고 달콤하며 초콜릿 맛 나는 음료가 나온다.

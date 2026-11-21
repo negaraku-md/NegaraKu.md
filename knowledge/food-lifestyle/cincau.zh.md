@@ -92,6 +92,7 @@ heroAlt: "一杯冰凉的仙草（cincau）饮料，深色凉粉沉在杯底"
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 在马来西亚咖啡店的炎热午后，最廉价的消暑方式之一，是一大杯深色而滑溜的东西：

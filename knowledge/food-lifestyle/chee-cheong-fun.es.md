@@ -98,6 +98,7 @@ dishFacts:
   halal: "El nombre 猪肠粉 ('fideo de intestino de cerdo') describe la forma enrollada, no el contenido: el fideo simple no lleva cerdo y es vegetariano en sí mismo. Pero los aderezos traen la advertencia: el de Penang usa pasta de gambas hae ko (marisco), y el estilo dim sum envuelve char siu (cerdo a la barbacoa). Conviene preguntar en cada puesto por sus salsas."
   eat: "Se sirve templado como desayuno o tentempié de hawker. En Penang los rollitos cortados llegan aderezados con salsa dulce, hae ko, chile y un espolvoreado de sésamo tostado y aceite, sin relleno ni salsa. En Kuala Lumpur e Ipoh se comen junto al yong tau foo o bañados en un curry caldoso o una salsa de champiñones; el rollito dim sum se remata con salsa de soja ligera y endulzada."
   where: "Un clásico de los puestos de hawker malasios, se encuentra en estilos regionales marcadamente distintos: el plato con pasta de gambas en Penang y el norte, la combinación con yong tau foo en el Valle de Klang de Kuala Lumpur, y las versiones de curry 'seco' o 'húmedo' en Ipoh, Perak. El rollito dim sum relleno aparece en los carritos de dim sum y en los restaurantes cantoneses."
+wikidata: "Q3275558"
 ---
 
 Pide "chee cheong fun" en George Town y obtendrás rollos frescos y sedosos de fideo

@@ -94,6 +94,7 @@ heroAlt: "ヤシの実の山の横で、ナタで新鮮な緑の若いヤシの�
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 マレーシアの路傍で、「熱帯の暑さ」をこれ以上に平明に物語るものは少ない。売り手が緑の

@@ -106,6 +106,7 @@ heroAlt: "Cốc thủy tinh trong đựng teh tarik, trà sữa nâu kéo nổi 
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 Khung cảnh này là một phần cố định của đời sống Malaysia: một người đàn ông tại quầy

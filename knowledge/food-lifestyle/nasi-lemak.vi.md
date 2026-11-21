@@ -103,6 +103,7 @@ dishFacts:
   origin: "Được xem rộng rãi là một món ăn Mã Lai có gốc rễ sâu xa trong khẩu phần nông thôn của người Mã Lai, nơi việc nấu cơm với kem dừa biến thứ tinh bột đơn sơ thành món bổ dưỡng; cái tên là tiếng Mã Lai, 'lemak' nghĩa là béo ngậy. Từng là bữa sáng của người Mã Lai, nay nó là món ăn chủ lực mọi lúc, cho mọi cộng đồng, được xem là món ăn quốc gia của Malaysia và được công nhận là một phần của 'Văn hóa bữa sáng ở Malaysia', ghi danh vào Danh sách Đại diện Di sản Văn hóa Phi vật thể của UNESCO năm 2024."
   eat: "Ở dạng cổ xưa nhất, nó là nasi lemak bungkus, gói xoắn trong lá chuối để ăn sáng mang đi; khi bày trên đĩa, cơm được vun giữa với sambal và đồ ăn kèm xung quanh, trộn lên khi ăn. Thường được nâng cấp với rendang, gà chiên (ayam goreng), sambal sotong (mực) hoặc sò huyết."
   where: "Bán từ xe đẩy, chợ sáng, quầy ven đường và căng tin trường học, phục vụ ở các quán mamak quá nửa đêm và tại buffet khách sạn; các kiểu địa phương khác nhau (cơm nhuốm vàng quanh Alor Setar, cá ngừ ở Terengganu)."
+wikidata: "Q1420553"
 ---
 
 Trước khi mặt trời ló dạng hẳn, mùi hương đã đến phố trước tiên: cơm đậm nước cốt dừa,

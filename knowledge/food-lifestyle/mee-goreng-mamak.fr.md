@@ -96,6 +96,7 @@ dishFacts:
   origin: "La version indo-musulmane (mamak, souvent tamoule-musulmane) des nouilles sautées ; largement considérée comme un plat de fusion local — des nouilles jaunes de style chinois assaisonnées à la manière malaise-indienne — dont on dit qu'il n'existe pas sous cette forme en Inde. Ses origines exactes sont débattues, certains récits pointant vers les immigrants tamouls-musulmans et un commerce ambulant en charrette du début du XXe siècle."
   eat: "Préparé à la commande en quelques minutes dans un wok à feu vif ; servi en assiette avec un quartier de citron calamansi pressé à table, mangé comme un déjeuner rapide, un dîner bon marché ou un repas de fin de soirée."
   where: "Stands mamak, cafés et établissements ouverts 24 heures sur 24 à travers la Malaisie, des charrettes de rue aux chaînes climatisées ; les versions de Penang sont plus liquides et plus intensément assaisonnées."
+wikidata: "Q106256810"
 ---
 
 Approchez-vous de presque n'importe quel stand mamak de Malaisie à la nuit tombée

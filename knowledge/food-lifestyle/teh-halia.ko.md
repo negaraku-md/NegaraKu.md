@@ -90,6 +90,7 @@ heroAlt: "나무 테이블 위에 놓인, 갈색 생강 밀크티(teh halia) 유
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 이 나라에서 가장 유명한 음료를 가져다 따뜻한 생강 한 방을 더하면 **teh halia**가 된다 —

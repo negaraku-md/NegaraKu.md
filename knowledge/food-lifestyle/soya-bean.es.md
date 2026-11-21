@@ -91,6 +91,7 @@ heroAlt: "Un vaso alto de leche de soja pálida con granos de soja al lado"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 En incontables cafeterías malasias un solo puesto no hace más que soja: una tina

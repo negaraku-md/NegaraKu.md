@@ -106,6 +106,7 @@ dishFacts:
   halal: "As a pork dish, bak kut teh is not halal: it is built around pork ribs and bones, so Muslims do not eat it, and it is cooked and sold in Chinese coffeeshops rather than halal-certified premises. For those who do not eat pork but want the herbal-soup experience, some cooks prepare a chicken version occasionally nicknamed 'chik kut teh' — a separate dish rather than a halal-certified bak kut teh."
   eat: "It is a shared, sit-down meal, usually eaten for breakfast or lunch. The broth and meat arrive in a claypot or bowl with plain white rice, and torn pieces of you char kway (fried dough fritters) are dipped into the soup. A saucer of dark soy sauce with chilli padi and garlic is used for dipping the meat, while a pot of Chinese tea, often a roasted oolong, is poured throughout to cut the richness."
   where: "Klang in Selangor is its Malaysian heartland, but you find it cooked and sold in Chinese coffeeshops and restaurants rather than at halal venues like Ramadan bazaars. In February 2024 it was gazetted a Malaysian national heritage food under the National Heritage Act 2005 (Act 645)."
+wikidata: "Q983160"
 ---
 
 Few dishes announce themselves quite like bak kut teh. Before you see it, you smell

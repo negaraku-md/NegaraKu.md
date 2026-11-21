@@ -91,6 +91,7 @@ heroAlt: "กาแฟผสมชา (kopi cham) เป็นฟอง ใน�
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 สำหรับใครก็ตามที่นั่งลงที่ร้านกาแฟมาเลเซียแล้วตัดสินใจไม่ได้ระหว่างกาแฟกับชา เคาน์เตอร์มีคำตอบที่

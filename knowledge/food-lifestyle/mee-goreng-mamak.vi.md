@@ -96,6 +96,7 @@ dishFacts:
   origin: "Phiên bản mì xào của người Hồi giáo gốc Ấn (mamak, thường là Tamil theo Hồi giáo); được xem rộng rãi là một món lai địa phương — mì vàng kiểu Hoa nêm nếm theo lối Mã Lai-Ấn — được cho là không tồn tại ở Ấn Độ dưới dạng này. Nguồn gốc chính xác còn gây tranh cãi, với các thuyết chỉ về người Tamil Hồi giáo nhập cư và nghề bán hàng rong xe đẩy đầu thế kỷ 20."
   eat: "Nấu theo yêu cầu trong vài phút trên chảo lửa lớn; dọn ra đĩa với một miếng chanh calamansi vắt lên ngay tại bàn, ăn như bữa trưa nhanh, bữa tối rẻ hoặc món khuya."
   where: "Các quán mamak, quán cà phê và tiệm ăn 24 giờ trên khắp Malaysia, từ xe đẩy ven đường đến chuỗi cửa hàng máy lạnh; phiên bản ở Penang ướt hơn và đậm sốt hơn."
+wikidata: "Q106256810"
 ---
 
 Bước đến gần như bất kỳ quầy mamak nào ở Malaysia sau khi trời tối, bạn sẽ nghe

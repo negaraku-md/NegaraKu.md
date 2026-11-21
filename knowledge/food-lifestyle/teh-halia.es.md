@@ -90,6 +90,7 @@ heroAlt: "Tazas de vidrio con té con leche y jengibre (teh halia) sobre una mes
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Toma la bebida más famosa del país, añade un toque cálido de jengibre y tienes el **teh

@@ -107,6 +107,7 @@ heroAlt: "Un verre de Milo glacé surmonté d'un épais monticule de poudre de M
 heroCredit: "Pauloleong2002 / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 Commandez un Milo dans un mamak malaisien et vous obtenez une boisson froide, sucrée et

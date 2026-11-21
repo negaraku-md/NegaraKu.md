@@ -94,6 +94,7 @@ heroAlt: "ชานมแก้วทรงสูง (bubble tea) มีไข�
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 เดินผ่านห้างสรรพสินค้าใด ๆ ในมาเลเซียแล้วคุณจะพบพวกมันภายในไม่กี่นาที: เคาน์เตอร์เล็ก ๆ สว่างสดใส

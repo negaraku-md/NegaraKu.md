@@ -91,6 +91,7 @@ heroAlt: "பூ வடிவ கோப்பித்தியம் கோப�
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 ஒரு மலேசிய காபிக்கடையில் உட்கார்ந்து காபிக்கும் தேநீருக்கும் இடையே தீர்மானிக்க

@@ -100,6 +100,7 @@ dishFacts:
   origin: "Rencana meletakkan sambal di Asia Tenggara maritim dan menjejak perkataannya ke akar Jawa, tetapi menyatakan kemunculan tepatnya tidak pasti — rujukan yang berwibawa melabelnya, bergantung pada sumber, sebagai 'Indonesia' atau 'Malaysia'. Berbanding satu tempat lahir tunggal, ia paling baik dilihat sebagai idea serantau bersama yang telah dijadikan milik sendiri oleh setiap dapur dan rumah tangga."
   eat: "Sambal membekalkan kepedasan, kemasinan dan kedalaman savuri yang diperlukan oleh sepinggan nasi dan masakan yang lebih tawar — dihidang mentah sebagai cecah berapi (untuk ulam, ikan goreng, telur rebus atau di sebelah nasi), digoreng sebagai sambal tumis ikan bilis yang mentakrifkan nasi lemak, atau digunakan sebagai asas masakan yang dikacau sebati ke dalam nasi goreng, mi dan hidangan seperti ayam masak merah."
   where: "Sambal mengalir merentasi masakan Melayu, Nyonya (Peranakan) serta India Malaysia dan mamak sama rata, dan 'hampir tiada dua tukang masak membuatnya dengan cara yang benar-benar sama'. Wilayah turut membentuknya — masyarakat pesisir bersandar pada belacan dan makanan laut kering manakala pedalaman Pahang menghasilkan sambal berasaskan tempoyak dan sambal hitam — dan setiap negeri, pekan dan keluarga menyimpan kadaran kepedasan, kemasinan dan kemanisannya sendiri."
+wikidata: "Q1056554"
 ---
 
 Tanya seorang rakyat Malaysia apa yang membuatkan sesuatu hidangan terasa

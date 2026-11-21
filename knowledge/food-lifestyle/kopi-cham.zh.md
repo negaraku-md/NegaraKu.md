@@ -91,6 +91,7 @@ heroAlt: "花纹咖啡店杯碟中一杯奶泡丰富的咖啡奶茶（kopi cham�
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 对于任何坐进马来西亚咖啡店、却在咖啡与茶之间拿不定主意的人，柜台有一个利落的答案：

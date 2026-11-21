@@ -94,6 +94,7 @@ heroAlt: "அடிப்பகுதியில் தடிமனான க�
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 எந்த மலேசிய வணிக வளாகத்தின் வழியாக நடந்தாலும் நீங்கள் நிமிடங்களுக்குள் அவற்றைக்

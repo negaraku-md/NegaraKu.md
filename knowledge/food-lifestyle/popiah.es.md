@@ -100,6 +100,7 @@ dishFacts:
   halal: "El popiah no es uniformemente halal: las recetas varían mucho según la comunidad, y en algunos entornos de hawker no halal se añade manteca de cerdo frita, mientras que los rollitos más ricos pueden incluir salchicha china. Como regla duradera, conviene preguntar en cada puesto: existen versiones a base de verdura y de gamba junto a las que contienen cerdo."
   eat: "Un popiah se ensambla tanto como se cocina: la piel se veta con salsa dulce y chile, se dispone en capas con lechuga, sengkuang templado, huevo, brotes, cacahuetes y chalotas, y luego se enrolla en un cilindro relleno y se corta en trozos del tamaño de un bocado. A menudo es un acto compartido: una 'fiesta de popiah' comunitaria donde se disponen los rellenos y cada persona enrolla un rollito a su gusto."
   where: "El popiah forma parte del mundo de la comida callejera de los hawker y los pasar malam de Malasia, pero es igual de propio de un plato casero. En Penang lo venden ampliamente los hawker chinos como 'poh piah'; en Melaka, desde hace mucho un corazón peranakan, el rollito fresco está fuertemente ligado a la cocina nyonya, con algunos puestos tan conocidos que los clientes habituales reservan sus rollitos por adelantado."
+wikidata: "Q3092677"
 ---
 
 Pide un rollito de primavera en Malasia y puede que te den una de dos cosas muy distintas.

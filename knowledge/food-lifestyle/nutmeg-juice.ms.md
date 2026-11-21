@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Jus buah pala berasaskan tumbuhan dan tidak beralkohol — buah pala, gula, air dan selalunya buah plum awet — jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai atau pembuat."
   served: "Dihidang sejuk-beku untuk melawan kepanasan Pulau Pinang. Dua gaya lazim: jus 'putih' segar daripada buah mentah, dan versi direbus yang lebih gelap dan lebih manis. Minta 'asam' (buah plum masam awet) untuk menajamkan imbangan; konsentrat juga dijual untuk dicampur di rumah."
   where: "Terdapat di gerai jus-buah dan minuman, pasar dan medan selera Pulau Pinang — paling dikaitkan dengan George Town dan kawasan tanaman buah pala Balik Pulau — dan dijual sebagai konsentrat berbotol daripada pembuat buah pala Pulau Pinang."
+wikidata: "Q83165"
 ---
 
 Kebanyakan orang mengenali buah pala sebagai biji perang keras yang diparut ke atas kastard

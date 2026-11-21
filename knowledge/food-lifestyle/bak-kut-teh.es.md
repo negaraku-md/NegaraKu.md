@@ -104,6 +104,7 @@ dishFacts:
   halal: "Como plato de cerdo, el bak kut teh no es halal: se construye en torno a costillas y huesos de cerdo, de modo que los musulmanes no lo comen, y se cocina y vende en cafeterías chinas más que en locales con certificación halal. Para quienes no comen cerdo pero quieren la experiencia de la sopa herbal, algunos cocineros preparan de vez en cuando una versión de pollo apodada 'chik kut teh' —un plato aparte más que un bak kut teh con certificación halal—."
   eat: "Es una comida compartida, para sentarse a la mesa, que suele tomarse en el desayuno o el almuerzo. El caldo y la carne llegan en una olla de barro o en un cuenco con arroz blanco, y se mojan en la sopa trozos arrancados de you char kway (churros fritos de masa). Se usa un platito de salsa de soja oscura con chile padi y ajo para mojar la carne, mientras que se sirve una tetera de té chino, a menudo un oolong tostado, durante toda la comida para cortar la untuosidad."
   where: "Klang, en Selangor, es su corazón malasio, pero se cocina y vende en cafeterías y restaurantes chinos más que en lugares halal como los bazares de Ramadán. En febrero de 2024 fue declarado comida del patrimonio nacional de Malasia en virtud de la Ley del Patrimonio Nacional de 2005 (Ley 645)."
+wikidata: "Q983160"
 ---
 
 Pocos platos se anuncian como el bak kut teh. Antes de verlo, lo hueles: una nube oscura y

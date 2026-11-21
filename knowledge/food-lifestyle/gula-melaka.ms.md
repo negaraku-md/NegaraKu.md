@@ -91,6 +91,7 @@ verificationNeeded:
   - "Kekuatan kaitan nama itu dengan negeri Melaka (yang kerap diulang dalam media makanan tetapi tidak didokumentasikan dengan kukuh) dan sama ada Negeri Sembilan dan negeri lain merupakan kawasan pengeluaran yang penting — sahkan dengan sumber warisan, pertanian atau negeri Malaysia."
   - "Penghurai perisa tertentu seperti nota 'butterscotch' dan tempoh menoreh/mendidih yang terperinci — ini datang daripada media makanan dan mungkin subjektif; sahkan butiran pengeluaran dengan pengeluar atau sumber pertanian."
 framework: explainer
+wikidata: "Q1549017"
 ---
 
 Hiris sebuku gula melaka yang gelap dan padat, maka dapur pun dipenuhi bau yang

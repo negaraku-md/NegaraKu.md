@@ -94,6 +94,7 @@ heroAlt: "Un vaso alto de té con leche con una gruesa capa de perlas de tapioca
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Pasea por cualquier centro comercial malasio y pasarás junto a ellos en cuestión de

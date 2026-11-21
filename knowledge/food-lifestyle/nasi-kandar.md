@@ -104,6 +104,7 @@ dishFacts:
   halal: "As Indian-Muslim (mamak) food, nasi kandar is halal — it comes from Penang's Indian-Muslim community, the traders whose descendants are known today as mamak."
   eat: "Ordering is a point-and-pick ritual: you approach the counter, point at what you want — fried chicken, squid, okra, egg — and the server builds the plate in front of you, then floods the rice with a mix of several curry gravies unless you ask otherwise. Traditionally rice and sides share one plate; many outlets now serve sides in small bowls but still flood the rice itself."
   where: "Penang is its home, especially George Town, where famous houses include Hameediyah on Lebuh Campbell (traced to 1907 and recognised as the island's oldest nasi kandar restaurant) and Line Clear off Penang Road, long known as a 24-hour eatery. The round-the-clock mamak counter is central to its appeal, and the dish has since spread nationwide through chains and 24-hour outlets."
+wikidata: "Q3520299"
 ---
 
 Ask anyone in Penang where to eat late, and the answer often comes back in two

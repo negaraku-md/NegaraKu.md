@@ -103,6 +103,7 @@ dishFacts:
   origin: "Se considera ampliamente un plato malayo con raíces profundas en la dieta rural malaya, donde cocer el arroz en crema de coco convertía un almidón sencillo en algo nutritivo; el nombre es malayo, y 'lemak' significa rico o cremoso. En su día un desayuno malayo, hoy es un plato básico de todas las comunidades a cualquier hora, considerado el plato nacional de Malasia y reconocido como parte de la 'Cultura del desayuno en Malasia', inscrita en la Lista Representativa del Patrimonio Cultural Inmaterial de la UNESCO en 2024."
   eat: "En su forma más antigua es el nasi lemak bungkus, envuelto en un paquete de hoja de plátano para desayunar sobre la marcha; en el plato, el arroz se amontona en el centro con el sambal y los condimentos alrededor, y se mezcla a medida que se come. Suele enriquecerse con rendang, pollo frito (ayam goreng), sambal sotong (sepia) o berberechos."
   where: "Se vende en carritos ambulantes, mercados matutinos, puestos de carretera y cantinas escolares, se sirve en puestos mamak pasada la medianoche y en bufés de hotel; los estilos regionales varían (arroz con tono amarillo en torno a Alor Setar, atún en Terengganu)."
+wikidata: "Q1420553"
 ---
 
 Antes de que el sol haya salido del todo, el olor llega primero a la calle: arroz

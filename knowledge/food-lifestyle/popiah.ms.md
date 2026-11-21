@@ -100,6 +100,7 @@ dishFacts:
   halal: "Popia tidak seragam halal: resipi berbeza luas mengikut masyarakat, dan dalam sesetengah suasana penjaja tidak halal, minyak babi goreng ditambah, manakala gulungan yang lebih kaya mungkin mengandungi sosej Cina. Sebagai peraturan yang kekal, semak gerai masing-masing — versi berasaskan sayur dan udang wujud bersama versi yang mengandungi daging babi."
   eat: "Popia disusun sebanyak ia dimasak: kulitnya disapu sos manis dan cili, dilapik daun salad, sengkuang suam, telur, taugeh, kacang tanah dan bawang goreng, kemudian digulung menjadi silinder montel dan dihiris mengikut cebisan sesuapan. Ia selalunya satu acara bersama — 'pesta popia' beramai-ramai di mana inti dihidang dan setiap orang membalut gulungan mengikut selera sendiri."
   where: "Popia sebahagian dunia makanan jalanan penjaja dan pasar malam Malaysia, namun sama banyaknya hidangan rumah. Di Pulau Pinang ia dijual luas oleh penjaja Cina sebagai 'poh piah'; di Melaka, tanah air Peranakan sejak lama, gulungan segar ini terikat kukuh dengan masakan Nyonya, dengan sesetengah gerai cukup terkenal sehingga pelanggan tetap menempah gulungan mereka terlebih dahulu."
+wikidata: "Q3092677"
 ---
 
 Minta spring roll di Malaysia dan anda mungkin mendapat salah satu daripada dua

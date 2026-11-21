@@ -97,6 +97,7 @@ dishFacts:
   halal: "Một món quen thuộc của các quán Malay và của các quán mamak (Hồi giáo gốc Ấn), nơi nó được nấu và ăn xuyên các ranh giới cộng đồng, khiến nó thành một món quán halal hằng ngày."
   eat: "Dọn như một đĩa, không phải tô canh: các loại rau nêm được thêm vào và một miếng tắc được vắt lên nước sốt trước khi ăn, để mì mềm, nước sốt đậm đà và các loại topping sắc, giòn tạo nên sự cân bằng ngọt-mặn-chua đặc trưng của nó. Nó thường là một món điểm tâm hoặc ăn trưa nhẹ, thường được gọi cùng satay hay otak-otak."
   where: "Bán từ các quán Malay và mamak buổi sáng, quán cà phê và food court, nơi nó chia chung bàn giữ nóng với các món như mee goreng mamak. Các phong cách vùng miền khác nhau: Johor Bahru, từng được gọi là 'thủ phủ mee rebus của cả nước', có nước sốt nâu sệt, dính, trong khi Penang được biết đến nhiều hơn với món mee Jawa gần gũi, thường được mô tả là ngọt hơn và phớt vị cà chua."
+wikidata: "Q5257848"
 ---
 
 Gọi một phần mee rebus ở Malaysia, bạn sẽ nhận được một đĩa, không phải một tô súp: mì vàng nằm trong lớp nước xốt sánh, bóng, màu như cà phê loãng, rắc thêm trứng, đậu phụ và một lát ớt xanh rực rỡ. Thìa đầu tiên hơi ngọt, rồi đậm đà, rồi cay nhẹ — và một chút nước limau kasturi vắt lên cắt ngang độ béo ngậy. Đây là món hàng quán rẻ, no bụng, và gần như mọi căn bếp người Mã Lai và mamak đều có phiên bản riêng.

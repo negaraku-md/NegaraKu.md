@@ -106,6 +106,7 @@ heroAlt: "대리석 테이블 위에 놓인, 거품이 인 갈색 풀드 밀크�
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 말레이시아 삶의 한 고정된 풍경이 있다: mamak 노점의 한 남자가 찌그러진 금속 머그잔을

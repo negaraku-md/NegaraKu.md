@@ -105,6 +105,7 @@ heroAlt: "ஸ்ட்ராவுடன் இரண்டு உயரமா�
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 ஒரு மலேசிய கோபிக்கடை பலகையில் உள்ள அனைத்துப் பானங்களிலும், நீங்கள் முதலில் கவனிப்பது

@@ -91,6 +91,7 @@ heroAlt: "पास में सोयाबीन रखे, हल्के �
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 अनगिनत मलेशियाई कॉफ़ी शॉपों पर एक अकेला ठेला सोया के सिवा कुछ नहीं करता: एक ओर गर्म, ताज़ा

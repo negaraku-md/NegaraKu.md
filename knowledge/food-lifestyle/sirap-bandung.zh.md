@@ -105,6 +105,7 @@ heroAlt: "两高杯插着吸管的粉红色玫瑰糖浆冰奶（sirap bandung）
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 在马来西亚咖啡店饮品板上的所有饮品当中，sirap bandung 是你最先注意到的那一款。它

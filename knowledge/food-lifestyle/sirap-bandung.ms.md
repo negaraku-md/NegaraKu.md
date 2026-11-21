@@ -105,6 +105,7 @@ heroAlt: "Dua gelas tinggi sirap bandung merah jambu berais dengan straw"
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Daripada segala minuman di papan kedai kopi Malaysia, sirap bandunglah yang anda perasan

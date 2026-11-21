@@ -91,6 +91,7 @@ heroAlt: "大豆を添えた、淡い色の豆乳の背の高いグラス"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 数えきれないマレーシアのコーヒー店で、ある一つの屋台が大豆だけを商っている。片側には

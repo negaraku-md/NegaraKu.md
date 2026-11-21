@@ -90,6 +90,7 @@ heroAlt: "Creamy white iced yogurt lassi in a patterned cup with a straw"
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Sit down to a fiery plate of banana-leaf rice or a rich North Indian curry, and the

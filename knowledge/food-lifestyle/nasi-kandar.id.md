@@ -102,6 +102,7 @@ dishFacts:
   halal: "Sebagai makanan Muslim-India (mamak), nasi kandar halal — ia berasal dari masyarakat Muslim-India Penang, para pedagang yang keturunannya kini dikenal sebagai mamak."
   eat: "Memesan adalah ritual tunjuk-dan-pilih: Anda mendekati konter, menunjuk apa yang Anda mau — ayam goreng, sotong, okra, telur — dan pelayan menyusun piring di depan Anda, lalu membanjiri nasi dengan campuran beberapa kuah kari kecuali Anda minta sebaliknya. Secara tradisional nasi dan lauk berbagi satu piring; banyak gerai kini menyajikan lauk dalam mangkuk kecil tetapi tetap membanjiri nasinya."
   where: "Penang adalah rumahnya, terutama George Town, tempat rumah makan terkenal meliputi Hameediyah di Lebuh Campbell (ditelusuri hingga 1907 dan diakui sebagai restoran nasi kandar tertua di pulau itu) dan Line Clear di dekat Penang Road, lama dikenal sebagai tempat makan 24 jam. Konter mamak buka sepanjang waktu adalah inti daya tariknya, dan hidangan ini sejak itu menyebar ke seluruh negeri melalui jaringan dan gerai 24 jam."
+wikidata: "Q3520299"
 ---
 
 Tanyakan kepada siapa pun di Penang di mana tempat makan larut malam, dan jawabannya

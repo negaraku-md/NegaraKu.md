@@ -94,6 +94,7 @@ dishFacts:
   halal: "Kedua-dua versi tradisional lazimnya berasaskan babi dan tidak halal. Hokkien mee KL menggunakan babi dan disudahi dengan rempahan lemak babi yang rangup (zhu you zha); Hokkien mee Pulau Pinang direneh daripada kepala dan kulit udang serta rusuk babi, dengan lemak babi secara tradisinya ditambah ke dalam sup (walaupun ini kurang lazim sekarang). Tiada sebutan tentang adaptasi halal, jadi semak gerai masing-masing."
   eat: "Hokkien mee KL ialah hidangan 'kering', bukan sup — sos soya gelap menyaluti mi tebal dan bukan menenggelamkannya, paling baik dimasak di atas api arang yang kuat untuk char berasap samar, dan biasanya dimakan untuk makan malam atau juadah lewat malam. Hokkien mee Pulau Pinang dihidangkan sebagai sup, menggabungkan bihun dengan mi kuning telur yang lebih tebal dalam kuah udang pedas, ditaburi hirisan udang, babi, telur rebus, kangkung, taugeh dan bawang goreng, dengan sambal cili dikacau untuk kepedasan; versi 'kering' tanpa kuah juga wujud."
   where: "Hokkien mee gaya KL dijumpai di gerai tepi jalan dan kopitiam di seluruh Kuala Lumpur dan Lembah Klang. Hokkien mee Pulau Pinang ialah ruji dunia penjaja pulau itu, dihidangkan di pasar malam dan gerai makanan jalanannya. Di luar Pulau Pinang, minta sup udang itu sebagai 'prawn mee' atau 'hae mee', kerana perkataan 'Hokkien mee' di sana sudah bermaksud mi goreng gelap."
+wikidata: "Q1624233"
 ---
 
 Minta "Hokkien mee" di Kuala Lumpur dan anda akan mendapat sepinggan mee kuning

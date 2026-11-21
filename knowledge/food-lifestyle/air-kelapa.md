@@ -93,6 +93,7 @@ heroAlt: "A street vendor opening a fresh green young coconut with a cleaver, be
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 On a Malaysian roadside, few things say "tropical heat" more plainly than a

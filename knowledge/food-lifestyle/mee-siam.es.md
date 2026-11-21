@@ -95,6 +95,7 @@ dishFacts:
   halal: "El mee siam es un pilar de la cocina malaya, y el mee siam goreng seco en particular es, según un relato, 'más a menudo vendido por la comunidad malaya' y especialmente asociado a los puestos malayos."
   eat: "Se remata con un conjunto familiar de guarniciones: huevo duro (partido por la mitad), gambas, bolsitas de tofu frito (tau pok), cebollino (kucai), brotes de soja crujientes y un gajo de calamansi (limau kasturi) o lima exprimido justo antes de comer, con una cucharada de sambal al lado para subir el picante al gusto. Las guarniciones exactas varían de un puesto a otro."
   where: "Se cocina en más de una tradición: un pilar de los puestos malayos, donde se encuentra sobre todo la versión goreng seca, y un plato muy querido de la cocina nyonya (peranakan). Regionalmente, el estilo salteado y seco se asocia con Johor y una versión húmeda es una favorita en Melaka."
+wikidata: "Q1886310"
 ---
 
 Pide "mee siam" y el resultado depende del puesto. En uno te dan un plato de

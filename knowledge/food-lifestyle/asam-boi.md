@@ -109,6 +109,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Some flavours are hard to forget, and **asam boi** is one of them: a small, wrinkled,

@@ -90,6 +90,7 @@ heroAlt: "A frothy coffee-and-tea mix (kopi cham) in a floral kopitiam cup and s
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 For anyone who sits down at a Malaysian coffee shop and cannot decide between coffee

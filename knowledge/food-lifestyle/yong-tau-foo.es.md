@@ -96,6 +96,7 @@ dishFacts:
   halal: "El relleno tradicional es cerdo picado, y la pasta de pescado de los puestos malasios a veces se mezcla con cerdo, mientras que la salsa de Ampang es una salsa de soja fermentada, de modo que las piezas de un puesto dado pueden o no convenir a una dieta halal. Conviene preguntar en cada puesto."
   eat: "Suele pedirse 'elige tú mismo': las piezas rellenas y los elementos sueltos están en un expositor, y los comensales escogen lo que quieren antes de que se cocine al momento. Se come en una sopa clara, o seco con dips de salsa dulce de soja y chile —el estilo Ampang fríe las piezas y las sirve empapadas en una espesa salsa dulce de soja fermentada—, y a menudo se completa como comida con arroz o fideos como bihun o fideos amarillos."
   where: "Es un clásico de los hawker centres y los patios de comidas, donde un solo puesto puede servir decenas de combinaciones desde la misma bandeja y olla. La versión malasia más conocida toma su nombre de la zona de Ampang, en las afueras de Kuala Lumpur, un distrito de hondas raíces hakka."
+wikidata: "Q713892"
 ---
 
 Al acercarse a un puesto de yong tau foo, a uno no le entregan tanto un menú como una bandeja. Cuadrados de tofu,

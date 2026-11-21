@@ -110,6 +110,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 บางรสชาติยากจะลืม และ **asam boi** คือหนึ่งในนั้น: บ๊วยเปรี้ยวแห้งลูกเล็กย่นที่หวาน เค็ม และ

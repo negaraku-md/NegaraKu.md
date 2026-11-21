@@ -99,6 +99,7 @@ dishFacts:
   halal: "Sebagian besar thosai Malaysia menjaga adonannya tetap sederhana — beras, urad dal, air, dan garam, kadang sedikit fenugreek — menjadikan crêpe polosnya vegetarian. Ia merupakan hidangan andalan baik restoran nasi daun pisang vegetarian India Selatan maupun gerai mamak, rumah makan India-Muslim tempat ia berbagi wajan dengan roti canai."
   eat: "Thosai jarang disantap sendirian; ia dilipat — menjadi dua, menjadi segitiga, atau digulung — lalu disobek dengan tangan dan dicelupkan ke chutney kelapa atau genangan dhal. Thosai kosong yang polos sepenuhnya mengandalkan pendampingnya berupa chutney kelapa, sambar, dan dhal untuk rasa, dan banyak restoran menyediakan chutney tambahan — mint, tomat, atau bawang. Ia merupakan hidangan pokok sarapan, disajikan dari pagi buta hingga larut malam."
   where: "Anda menemukannya di dua tempat yang bertumpang tindih: restoran vegetarian India Selatan dan nasi daun pisang, tempat ia menjadi andalan pagi dan sore hari bersama idli dan vadai, serta gerai mamak, rumah makan India-Muslim tempat ia berbagi wajan dengan roti canai. Halaman JKKN mencatat bahwa tosai sering disajikan sebagai sarapan, khususnya di restoran India di Malaysia yang dikenal sebagai restoran mamak."
+wikidata: "Q920940"
 ---
 
 Masuklah ke gerai mamak saat subuh, atau ke restoran daun pisang saat makan siang, dan di suatu

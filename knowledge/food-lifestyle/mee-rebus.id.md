@@ -97,6 +97,7 @@ dishFacts:
   halal: "Hidangan andalan gerai Melayu dan gerai mamak (India-Muslim), tempat ia dimasak dan disantap melintasi batas komunitas, menjadikannya hidangan halal gerai sehari-hari."
   eat: "Disajikan sebagai sepiring, bukan semangkuk sup: garnisnya ditambahkan dan sepotong jeruk kalamansi diperas di atas kuah sebelum disantap, sehingga mi yang lembut, kuah yang kaya, serta topping yang tajam dan renyah memberi keseimbangan manis-gurih-asam khasnya. Hidangan ini umumnya untuk sarapan atau brunch, sering dipesan bersama sate atau otak-otak."
   where: "Dijual dari gerai Melayu dan mamak pagi hari, kedai kopi, dan food court, tempat ia berbagi meja uap dengan hidangan seperti mi goreng mamak. Gaya daerahnya berbeda: Johor Bahru, yang pernah disebut 'ibu kota mee rebus negeri ini', memiliki kuah cokelat yang kental dan lengket, sementara Pulau Pinang lebih dikenal dengan mee Jawa yang berkerabat dekat, biasanya digambarkan lebih manis dan bersemu tomat."
+wikidata: "Q5257848"
 ---
 
 Pesan mee rebus di Malaysia, Anda akan mendapat sepiring, bukan semangkuk sup: mi kuning yang terendam dalam kuah kental mengilap berwarna seperti kopi encer, ditaburi telur, tahu, dan sepotong cabai hijau yang cerah. Suapan pertama terasa agak manis, lalu gurih, lalu sedikit pedas — dan perasan limau kasturi memotong kekayaan rasanya. Ini makanan gerai yang murah dan mengenyangkan, dan hampir setiap dapur Melayu dan mamak membuat versinya sendiri.

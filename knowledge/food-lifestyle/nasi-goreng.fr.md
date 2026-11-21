@@ -98,6 +98,7 @@ dishFacts:
   halal: "Les versions diffèrent selon la cuisine : les styles mamak (indo-musulman) et malais reposent sur la pâte de piment, la poudre de curry ou le belacan, tandis que le style yong chow des cafés chinois est parsemé de char siu ou de lap cheong (porc). En règle durable, les bols mamak et de stand malais évitent le porc et certaines versions de style chinois en utilisent — renseignez-vous au stand."
   eat: "L'assiette standard est finie d'un œuf (brouillé dans le riz ou au plat posé dessus) et d'une pincée de concombre frais ou de piment tranché. Le pattaya arrive enveloppé dans une fine omelette avec un filet de sauce chili ou tomate ; c'est une nourriture quotidienne que l'on mange à toute heure, y compris en fin de soirée."
   where: "C'est avant tout une nourriture quotidienne — un pilier du stand mamak ouvert 24 heures sur 24 et du kopitiam de quartier, un recours fiable au marché nocturne et au stand de cuisine de rue, et l'un des premiers plats qu'un cuisinier amateur apprend à improviser. L'endroit où on le mange façonne la version : kampung, ikan masin et belacan dans les cuisines domestiques et les stands malais ; pattaya, USA et le style mamak dans les stands mamak ; cina, hailam et yong chow dans les cafés chinois."
+wikidata: "Q510666"
 ---
 
 Commandez un nasi goreng à une échoppe mamak à une heure du matin et vous ne

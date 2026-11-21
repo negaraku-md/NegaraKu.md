@@ -110,6 +110,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 कुछ स्वाद भूलना मुश्किल होता है, और **asam boi** उनमें से एक है: एक छोटा, झुर्रीदार, सूखा

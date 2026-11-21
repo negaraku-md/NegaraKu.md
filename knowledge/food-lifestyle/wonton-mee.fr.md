@@ -106,6 +106,7 @@ dishFacts:
   halal: "Par tradition, le wonton mee est un plat de porc — le char siu est du porc barbecue et les wontons sont farcis de porc et de crevette — de sorte que le bol classique n'est pas halal. De nombreux stands tenus par des musulmans à travers la Malaisie vendent des versions halal qui remplacent le porc par du 'char siu' de poulet et utilisent des wontons au poulet ou à la crevette ; des versions végétariennes au gluten de blé ou aux champignons existent aussi. Comme les pratiques varient d'un stand à l'autre, il vaut mieux se renseigner à chaque boutique si cela compte pour vous."
   eat: "Dans le style sec (kon lou), les nouilles arrivent enrobées et luisantes avec le char siu dessus, tandis que les wontons reposent à part dans un petit bol de soupe à côté — on mange les nouilles, puis on cuillère le bouillon et les raviolis entre deux. Les piments verts marinés, tranchés et macérés dans le vinaigre, sont le condiment quasi universel, leur mordant acidulé et piquant tranchant la richesse ; une noix de sauce chili ou de sambal est souvent proposée aussi."
   where: "Le wonton mee est un incontournable des stands de hawker malaisiens et de la table du petit-déjeuner des kopitiam et des mamak, surtout le style sec associé à Kuala Lumpur et à une grande partie de la péninsule. Il change de ville en ville, avec des versions régionales notables à Penang, Ipoh et au Sarawak."
+wikidata: "Q3269812"
 ---
 
 Commandez un wonton mee à Kuala Lumpur et vous recevez un petit monticule de

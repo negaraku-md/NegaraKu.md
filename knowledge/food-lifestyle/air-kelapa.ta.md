@@ -94,6 +94,7 @@ heroAlt: "தெரு வியாபாரி கத்தியால் ஒ�
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 ஒரு மலேசிய சாலையோரத்தில், ஒரு விற்பனையாளர் ஒரு குவியல் பச்சைத் தேங்காய்களில் ஒரு *parang*-ஐ

@@ -93,6 +93,7 @@ verificationNeeded:
   - "Quels aromates comptent comme le « noyau » irréductible d'un rempah par rapport aux ajouts régionaux ou propres à un plat — des sources gastronomiques réputées décrivent le piment, l'ail, l'échalote et le gingembre comme la base, avec le galanga, le curcuma, la noix de bancoul, la citronnelle et le belacan comme ajouts courants mais variables. Confirmer auprès d'une autorité culinaire malaisienne."
   - "Le lien de cause à effet entre le commerce historique des épices du détroit de Melaka et le développement de la cuisine malaisienne fondée sur le rempah / la pâte d'épices est une inférence raisonnable tirée des histoires commerciale et culinaire, plutôt qu'une unique affirmation documentée — à confirmer auprès d'une source spécialisée en histoire de l'alimentation."
 framework: explainer
+wikidata: "Q697230"
 ---
 
 Soulevez le couvercle de presque n'importe quelle marmite de curry, de *gulai* ou de

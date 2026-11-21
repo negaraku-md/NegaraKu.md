@@ -106,6 +106,7 @@ heroAlt: "แก้วมัคแก้วใสใส่ชานมชัก�
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 ภาพนี้เป็นสิ่งที่พบเห็นประจำในชีวิตของชาวมาเลเซีย: ชายคนหนึ่งที่แผงมะมักถือเหยือกโลหะบุบ ๆ

@@ -105,6 +105,7 @@ heroAlt: "Hai ly cao sữa siro hoa hồng màu hồng đá (sirap bandung) cắ
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Trong tất cả các thức uống trên bảng của một quán cà phê Malaysia, sirap bandung là món

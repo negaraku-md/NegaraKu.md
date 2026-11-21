@@ -91,6 +91,7 @@ heroAlt: "स्ट्रॉ के साथ नक़्शीदार प्
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 एक दहकती banana-leaf rice की थाली या एक समृद्ध उत्तर-भारतीय करी के सामने बैठें, और जो पेय

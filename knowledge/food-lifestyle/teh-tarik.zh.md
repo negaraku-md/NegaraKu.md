@@ -106,6 +106,7 @@ heroAlt: "大理石桌上一杯清澈玻璃杯装的褐色拉茶（teh tarik）�
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 这是马来西亚生活中的一个固定场景：一名男子在 mamak 摊档前，一手把一只凹凸不平的

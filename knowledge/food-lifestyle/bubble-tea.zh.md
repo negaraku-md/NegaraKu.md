@@ -94,6 +94,7 @@ heroAlt: "一高杯奶茶（bubble tea），杯底沉着厚厚一层黑色珍珠
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 走过任何一家马来西亚商场，几分钟内你就会经过它们：明亮的小柜台，门前排着队，店员

@@ -104,6 +104,7 @@ dishFacts:
   origin: "Traced to the Minangkabau people of West Sumatra; carried into the Malay Peninsula by Minangkabau merantau migration and trade across the Strait of Malacca, becoming a shared heritage of the Malay world."
   eat: "A festive centrepiece served especially at Hari Raya Aidilfitri alongside ketupat and lemang, and again at Hari Raya Aidiladha, weddings and kenduri feasts."
   where: "On the Malaysian festive and open-house table; closely associated with Negeri Sembilan's Minangkabau-descended community and its dark rendang styles."
+wikidata: "Q1520293"
 ---
 
 Walk past a Malay kitchen in the days before [Hari Raya](/arts-culture/hari-raya-aidilfitri) and you will often hear

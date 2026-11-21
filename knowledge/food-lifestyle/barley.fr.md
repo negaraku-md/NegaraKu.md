@@ -85,6 +85,7 @@ drinkFacts:
   halal: "L'eau d'orge est d'origine végétale et sans alcool — orge, eau et sucre — donc la boisson elle-même est halal (à ne pas confondre avec l'orge utilisé pour brasser la bière). La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Servie chaude ou sur glace. La version nature est légèrement sucrée ; commandez « barley limau » pour un trait de citron vert, ou cherchez l'orge à la courge d'hiver confite pour une douceur plus ronde. Souvent gardée au chaud dans une urne au stand et versée à la demande."
   where: "On la trouve dans les cafés chinois, les aires de restauration, les centres de hawkers et les pasar malam de tout le pays, et vendue prête à boire en canette (comme Yeo's) dans tous les supermarchés et épiceries."
+wikidata: "Q397762"
 ---
 
 Parmi les boissons pâles et modestes alignées dans un café chinois — lait de soja, gelée

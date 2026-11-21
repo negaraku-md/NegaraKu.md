@@ -107,6 +107,7 @@ heroAlt: "كوب من Milo المثلّج يعلوه كومة سميكة من م
 heroCredit: "Pauloleong2002 / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 اطلب Milo في مطعم مامك ماليزي فتحصل على مشروب بارد حلو شوكولاتي. اطلب **Milo Dinosaur** فيصل شيء أكثر مسرحية: الـMilo المثلَّج نفسه، لكن نصف مدفون تحت ملعقة مكوَّمة من مسحوق Milo الجافّ غير المذاب، مكوَّمة فوقه كثيبٍ صغير داكن. تحرّكه وأنت تشرب، أو تأكله من على السطح بملعقة فيما يغوص ببطء في المشروب. وهو أحد أكثر الطلبات تمييزًا على لوحة المقهى، و — مثل كثير من أفضل مشروبات الشوارع في المنطقة — فكرة بسيطة قرّر أحدهم أن يجعلها مُفرِطة بهاءً. ولمعرفة موقعه في عالم مشروبات البلاد الأوسع، انظر [مركز المشروبات الماليزية](/ar/food-lifestyle/malaysian-drinks).

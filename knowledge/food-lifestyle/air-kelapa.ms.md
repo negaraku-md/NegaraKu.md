@@ -94,6 +94,7 @@ heroAlt: "Penjaja membuka air kelapa muda hijau dengan parang, di sebelah longgo
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 Di tepi jalan Malaysia, sedikit benda yang mengatakan "kepanasan tropika" dengan lebih jelas

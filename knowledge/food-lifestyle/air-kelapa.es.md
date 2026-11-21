@@ -94,6 +94,7 @@ heroAlt: "Un vendedor ambulante abriendo un coco joven y verde con un machete, j
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 En una carretera malasia, pocas cosas dicen «calor tropical» más llanamente que un

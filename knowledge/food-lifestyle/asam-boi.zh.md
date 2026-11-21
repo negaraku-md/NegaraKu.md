@@ -111,6 +111,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 有些味道难以忘怀，而 **asam boi** 正是其中之一：一颗小巧、起皱、晒干的酸梅，又甜、

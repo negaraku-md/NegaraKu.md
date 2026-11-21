@@ -105,6 +105,7 @@ heroAlt: "น้ำนมไซรัปกุหลาบเย็นสีช�
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 ในบรรดาเครื่องดื่มทั้งหมดบนกระดานร้านกาแฟของมาเลเซีย สิรัปบันดุงคือแก้วที่คุณสังเกตเห็นก่อน มันมาถึง

@@ -104,6 +104,7 @@ dishFacts:
   halal: "Versi tradisionalnya tidak halal: ia secara klasik digoreng dengan lemak babi, selalunya dengan rempahan lemak babi, dan mengandungi kerang darah. Tukang masak Muslim di Malaysia dan Singapura menyediakan versi halal yang meninggalkan babi dan lemaknya serta mungkin menggunakan ayam atau daging lembu; semak gerai masing-masing."
   eat: "Dimakan segar terus dari kuali dengan air sejuk, selalunya dihidangkan di atas daun pisang; digoreng dalam kuantiti kecil, dengan gred 'special' (lebih banyak udang, kerang atau telur) dan 'gourmet' (ketam atau udang lipan)."
   where: "Makanan jalanan gerai penjaja dan kopitiam; Pulau Pinang lazimnya dianggap tempat asalnya, dengan gaya yang lebih ringan dan kurang manis, manakala versi Singapura lebih condong kepada gaya Hokkien."
+wikidata: "Q5073693"
 ---
 
 Tidak banyak hidangan yang menggambarkan makanan jalanan Malaysia selengkap char

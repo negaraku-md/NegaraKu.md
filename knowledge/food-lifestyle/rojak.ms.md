@@ -97,6 +97,7 @@ dishFacts:
   halal: "Artikel ini membezakan dua cabang: rojak buah (Cina) membawa sos yang dibina atas belacan — pes makanan laut, bukan babi — manakala versi mamak atau pasembur ialah rojak cucur India-Muslim yang dibuat oleh tukang masak mamak dan dijual di gerai mamak di seluruh negara."
   eat: "Semuanya dipotong bersaiz sesuap, digaul dalam sos supaya bersalut, dan disudahi dengan kacang tanah panggang yang ditumbuk; rojak buah dimakan sejuk sebagai snek atau pinggan untuk dikongsi, dihargai kerana cara setiap bahan kekal berbeza walaupun bersalut sos, manakala versi mamak ialah sepinggan panas dan mengenyangkan yang disenduk dengan kuah."
   where: "Rojak terjalin dalam budaya makanan jalanan dan pasar malam Malaysia, tempat beberapa bentuknya dijual bersebelahan — rojak buah paling dikaitkan dengan penjaja Cina, dan versi mamak/pasembur menjadi kebiasaan di gerai mamak yang dijumpai di seluruh negara, dengan Pulau Pinang terkenal dengan versi tempatannya sendiri yang masam dan gelap bak toffee."
+wikidata: "Q720230"
 ---
 
 Minta "rojak" di satu gerai, anda akan dapat timbunan sejuk buah dan cucur

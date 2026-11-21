@@ -94,6 +94,7 @@ heroAlt: "街边小贩用砍刀劈开一颗青嫩椰子（air kelapa），旁边
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 在马来西亚的路边，很少有什么比一个小贩对着一堆绿椰挥动 parang（巴冷刀）、削去一颗的

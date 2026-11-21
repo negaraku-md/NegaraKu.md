@@ -94,6 +94,7 @@ heroAlt: "Un vendeur de rue ouvrant une jeune noix de coco verte au couperet, à
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 Au bord d'une route malaisienne, peu de choses disent « chaleur tropicale » plus

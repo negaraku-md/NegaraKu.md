@@ -101,6 +101,7 @@ images:
     credit: Nubelbariloe / Wikimedia Commons
     license: CC BY 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 带刺、翠绿而沉甸甸，**红毛榴莲**乍看之下像一颗小榴莲——它的马来名字 **durian belanda**

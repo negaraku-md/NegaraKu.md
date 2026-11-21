@@ -92,6 +92,7 @@ heroAlt: "底に黒いゼリーが沈んだ、冷たいグラスゼリー飲料�
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 マレーシアのコーヒー店の暑い午後、涼をとるもっとも安上がりな方法の一つが、背の高い

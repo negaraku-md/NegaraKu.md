@@ -91,6 +91,7 @@ heroAlt: "Ly cao sữa đậu nành nhạt màu với hạt đậu nành bên c�
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 Tại vô số quán cà phê Malaysia, một quầy duy nhất chẳng làm gì ngoài đậu nành: một

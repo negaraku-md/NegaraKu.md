@@ -93,6 +93,7 @@ heroAlt: "A tall glass of milk tea with a thick layer of black tapioca pearls at
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Walk through any Malaysian mall and you will pass them within minutes: bright little

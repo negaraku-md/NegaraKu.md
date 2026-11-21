@@ -100,6 +100,7 @@ dishFacts:
   halal: "Popiah tidak seragam halal: resepnya sangat beragam menurut komunitas, dan di sebagian tempat hawker yang tidak halal ditambahkan lemak babi goreng, sementara gulungan yang lebih kaya mungkin menyertakan sosis Tionghoa. Sebagai aturan yang tahan lama, tanyakan ke tiap gerai — versi berbahan dasar sayuran dan udang ada berdampingan dengan versi yang mengandung babi."
   eat: "Popiah lebih banyak disusun ketimbang dimasak: kulitnya diolesi saus manis dan cabai, dilapisi selada, sengkuang hangat, telur, tauge, kacang, dan bawang goreng, lalu digulung menjadi silinder gempal dan diiris menjadi potongan sekali suap. Ia sering menjadi acara bersama — 'pesta popiah' komunal tempat isiannya ditata dan tiap orang menggulung lumpianya sesuai selera masing-masing."
   where: "Popiah adalah bagian dunia makanan jalanan hawker dan pasar malam Malaysia, namun sama banyaknya sebagai hidangan rumahan. Di Pulau Pinang ia dijual luas oleh pedagang hawker Tionghoa sebagai 'poh piah'; di Melaka, yang lama menjadi jantung Peranakan, lumpia segar ini terikat erat dengan masakan Nyonya, dengan sebagian gerai cukup terkenal sehingga pelanggan tetap memesan lumpianya di muka."
+wikidata: "Q3092677"
 ---
 
 Minta sebuah spring roll di Malaysia dan Anda mungkin mendapat salah satu dari dua hal yang

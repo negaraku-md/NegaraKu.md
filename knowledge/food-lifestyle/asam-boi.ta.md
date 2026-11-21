@@ -110,6 +110,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 சில சுவைகளை மறப்பது கடினம், மேலும் **asam boi** அவற்றுள் ஒன்று: ஒரே நேரத்தில் இனிப்பு,

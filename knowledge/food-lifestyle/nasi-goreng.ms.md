@@ -98,6 +98,7 @@ dishFacts:
   halal: "Versinya berbeza mengikut dapur: gaya mamak (India-Muslim) dan Melayu dibina atas pes cili, serbuk kari atau belacan, manakala gaya yong chow kedai kopi Cina dihiasi char siu atau lap cheong (babi). Sebagai peraturan yang kekal, mangkuk mamak dan gerai Melayu mengelakkan babi dan sesetengah gaya Cina menggunakannya — semak gerai berkenaan."
   eat: "Pinggan standard disudahi dengan telur (dibancuh ke dalam nasi atau digoreng dan diletak di atas) dan taburan timun segar atau hirisan cili. Pattaya tiba dibalut dalam telur dadar nipis dengan corengan sos cili atau tomato; ia makanan harian yang dimakan pada bila-bila masa, termasuk sebagai juadah lewat malam."
   where: "Teristimewa ia makanan harian — kebiasaan di gerai mamak 24 jam dan kopitiam kejiranan, pilihan selamat di pasar malam dan gerai makanan jalanan, serta salah satu hidangan pertama yang tukang masak rumah belajar reka sendiri. Tempat anda memakannya membentuk versinya: kampung, ikan masin dan belacan di dapur rumah dan gerai Melayu; pattaya, USA dan gaya mamak di gerai mamak; cina, hailam dan yong chow di kedai kopi Cina."
+wikidata: "Q510666"
 ---
 
 Pesan nasi goreng di gerai mamak pada pukul satu pagi dan anda bukan sekadar

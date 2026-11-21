@@ -92,6 +92,7 @@ verificationNeeded:
   - "La durée de fermentation typique et les conditions optimales (souvent citées autour de quatre à sept jours à environ 27°C, mais les chiffres varient selon la variété de durian et l'étude)——à confirmer avec une référence de science alimentaire."
   - "Le récit des origines du tempoyak comme méthode de conservation du durian et l'histoire de sa diffusion par les marins de Sumatra——à confirmer avec une source d'histoire de l'alimentation, car cela est répété dans les médias gastronomiques plutôt que documenté comme histoire primaire."
 framework: explainer
+wikidata: "Q4748563"
 ---
 
 Peu d'aliments divisent une pièce aussi nettement que le durian, et le tempoyak prend

@@ -98,6 +98,7 @@ dishFacts:
   halal: "Las versiones tradicionales de estilo chino no son halal: los cubos de sangre de cerdo cuajada y la manteca frita son añadidos clásicos, y el cuenco de Penang incluye a menudo la sangre de cerdo coagulada que enriquece y oscurece el caldo. Muchas versiones halal, de gestión musulmana, dejan el cerdo fuera. Como las recetas varían de puesto en puesto, conviene preguntar en cada puesto."
   eat: "El picante suele llegar aparte: una cucharada de pasta de chile (o sambal) se incorpora o se sirve al lado para que cada comensal lo ajuste. En el estilo curry laksa de Kuala Lumpur y el centro, la pasta de chile se incorpora a menudo directamente a la sopa, mientras que el curry mee de Penang se sirve normalmente con la pasta de chile al lado y se remata con una ramita de menta fresca."
   where: "El curry mee se vende por todo el país en kopitiam (cafeterías), centros de hawker y puestos callejeros, como un plato básico de desayuno y de todo el día. George Town, en Penang, es el coto más conocido, con puestos de larga trayectoria que se labran una reputación a lo largo de generaciones, mientras que el Valle de Klang y otras ciudades de la península sirven la versión curry laksa en igual abundancia."
+wikidata: "Q391082"
 ---
 
 Pida "curry mee" en George Town y le servirán un cuenco suave y fragante de

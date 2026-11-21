@@ -98,6 +98,7 @@ dishFacts:
   origin: "Il est souvent décrit comme un mélange de cuisine malaise et peranakan, les cuisines des Chinois des Détroits mariant des techniques chinoises à des pâtes d'épices malaises. La Malaisie compte deux grands styles : la version méridionale fine, plate et plus sèche, grillée au charbon de bois, célèbre à Muar, au Johor, et partagée entre le Johor et Melaka, et le style nyonya (peranakan) de Penang, épais, moelleux et crémeux comme un flan, souvent parfumé à la feuille de bétel sauvage (daun kaduk). C'est un plat partagé du détroit de Malacca, dont les racines les plus anciennes sont couramment rattachées à Palembang, au sud de Sumatra."
   eat: "Il se mange en en-cas et en accompagnement, déballé de son paquet de feuille calcinée. Les versions malaisienne et singapourienne sont généralement rouge-orangé sous l'effet du piment et des épices, tandis que les versions indonésiennes tendent à être plus pâles et sont servies avec des sauces à tremper comme le cuko ou la sauce aux cacahuètes."
   where: "En Malaisie, Muar, au Johor, est le nom le plus associé à l'otak-otak — le 'Muar otak-otak' fonctionne presque comme une marque et attire des visiteurs des États voisins et de Singapour. Penang et Melaka sont les foyers du style nyonya plus moelleux. À l'échelle de la région, on le trouve aussi en Indonésie et à Singapour, où il est connu sous le nom d'otah."
+wikidata: "Q3234931"
 ---
 
 Déballez une papillote d'otak-otak et la première chose que vous rencontrez,

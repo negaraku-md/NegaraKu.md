@@ -97,6 +97,7 @@ dishFacts:
   halal: "Satay tradisional ialah makanan Melayu dan Jawa — ayam, daging lembu atau kambing yang diperap dan dibakar di atas arang — dan pada dasarnya halal, sebab itu ia menjadi hidangan di majlis perkahwinan dan bazar Ramadan. Satay celup Melaka dan satay lok-lok Pulau Pinang ialah adaptasi Cina Malaysia yang selalunya tidak halal, jadi semak gerai masing-masing sebelum memesan."
   eat: "Pesanan satay jarang tiba dengan cucuk sahaja: ia datang bersama sos kacang yang suam untuk dicecah, nasi mampat (ketupat yang dikukus dalam sarung daun palma yang dianyam, atau nasi impit yang dipotong dadu), serta hirisan timun dan bawang mentah yang sejuk bagi mengimbangi kekayaannya. Jeruk acar kadangkala turut dihidangkan, dan satay kambing di sesetengah tempat dihidangkan dengan kicap manis; ia makanan sosial, dimakan beramai-ramai berdozen."
   where: "Satay dijumpai di gerai tepi jalan, pasar malam, bazar Ramadan dan meja perayaan di seluruh negara. Kajang di Selangor ialah bandar satay paling terkenal di Malaysia — 'Satay Kajang' ialah gaya yang dijual di seluruh negara, diwartakan sebagai makanan warisan negeri Selangor pada 2025 — manakala Melaka terkenal dengan satay celup secara berkumpulan, Johor dengan gerai pasar malam di seluruh selatan, dan Kuala Lumpur dengan gerai gaya Kajang di serata bandar."
+wikidata: "Q209253"
 ---
 
 Bunyinya datang dahulu: sebuah kipas tangan mengebas di atas parit bara arang yang

@@ -91,6 +91,7 @@ heroAlt: "Un grand verre de lait de soja pâle avec des graines de soja à côt�
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 Dans d'innombrables cafés malaisiens, un seul stand ne fait que du soja : une cuve de

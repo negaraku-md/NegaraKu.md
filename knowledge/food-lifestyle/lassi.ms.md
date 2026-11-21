@@ -91,6 +91,7 @@ heroAlt: "Lassi yogurt putih berais dalam cawan bercorak dengan straw"
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Duduklah untuk sepinggan nasi daun pisang yang berapi-api atau kari India Utara yang kaya, dan

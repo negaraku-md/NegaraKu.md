@@ -90,6 +90,7 @@ heroAlt: "लकड़ी की मेज़ पर भूरी अदरक �
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 देश के सबसे प्रसिद्ध पेय को लें, अदरक का एक गर्म तीखापन जोड़ें, और आपके पास **teh halia**

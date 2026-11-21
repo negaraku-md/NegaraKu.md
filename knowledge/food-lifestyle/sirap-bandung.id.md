@@ -105,6 +105,7 @@ heroAlt: "Dua gelas tinggi susu sirup mawar merah muda dingin (sirap bandung) de
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Dari semua minuman di papan kedai kopi Malaysia, sirap bandunglah yang pertama Anda perhatikan.

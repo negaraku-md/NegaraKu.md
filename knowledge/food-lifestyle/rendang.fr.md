@@ -102,6 +102,7 @@ dishFacts:
   origin: "Attribué au peuple Minangkabau de l'ouest de Sumatra ; apporté dans la péninsule malaise par la migration merantau des Minangkabau et le commerce à travers le détroit de Malacca, devenant un patrimoine partagé du monde malais."
   eat: "Une pièce maîtresse festive servie surtout lors du Hari Raya Aidilfitri aux côtés du ketupat et du lemang, et de nouveau lors du Hari Raya Aidiladha, des mariages et des festins kenduri."
   where: "Sur la table festive et des portes ouvertes de Malaisie ; étroitement associé à la communauté d'ascendance minangkabau de Negeri Sembilan et à ses styles de rendang foncé."
+wikidata: "Q1520293"
 ---
 
 Passez près d'une cuisine malaise dans les jours qui précèdent le [Hari Raya](/fr/arts-culture/hari-raya-aidilfitri) et

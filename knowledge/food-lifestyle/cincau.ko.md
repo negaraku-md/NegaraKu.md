@@ -92,6 +92,7 @@ heroAlt: "바닥에 검은 젤리가 가라앉은, 시원한 풀젤리 음료(ci
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 말레이시아 커피숍의 더운 오후, 더위를 식히는 가장 싼 방법 하나는 어둡고 미끄러운

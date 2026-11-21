@@ -105,6 +105,7 @@ heroAlt: "Dos vasos altos de leche rosada con sirope de rosa helada (sirap bandu
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 De todas las bebidas del mostrador de una cafetería malasia, el sirap bandung es la que se

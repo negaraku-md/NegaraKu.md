@@ -107,6 +107,7 @@ heroAlt: "கரையாத மைலோ தூள் தடிமனான க
 heroCredit: "Pauloleong2002 / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 ஒரு மலேசிய மாமாக்கில் ஒரு மைலோ ஆர்டர் செய்தால் உங்களுக்கு ஒரு குளிர்ந்த, இனிப்பான,

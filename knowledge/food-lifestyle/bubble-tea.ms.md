@@ -94,6 +94,7 @@ heroAlt: "Segelas tinggi teh susu dengan lapisan tebal mutiara tapioka hitam di 
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Berjalanlah melalui mana-mana pusat beli-belah Malaysia dan anda akan melaluinya dalam masa

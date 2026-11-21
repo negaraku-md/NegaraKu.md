@@ -111,6 +111,7 @@ images:
     credit: Takeaway / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Certaines saveurs sont difficiles à oublier, et l'**asam boi** en fait partie : une

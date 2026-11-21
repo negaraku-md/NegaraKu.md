@@ -94,6 +94,7 @@ heroAlt: "بائع متجول يفتح جوز هند أخضر طازجاً بس�
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 على جانب طريق ماليزيّ، قليل من الأشياء يقول "الحرّ المداريّ" أوضح من بائع يلوّح

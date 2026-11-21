@@ -91,6 +91,7 @@ heroAlt: "Lassi yogurt dingin putih lembut dalam cangkir bermotif dengan sedotan
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Duduklah menghadapi sepiring nasi daun pisang yang membara atau kari India Utara yang

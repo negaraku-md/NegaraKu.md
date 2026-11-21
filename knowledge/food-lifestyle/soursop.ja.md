@@ -102,6 +102,7 @@ images:
     credit: Nubelbariloe / Wikimedia Commons
     license: CC BY 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 トゲがあり、緑色で、ずっしりとした **サワーソップ** は、一見すると小さなドリアンのように見える——

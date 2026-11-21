@@ -91,6 +91,7 @@ heroAlt: "Segelas tinggi air soya pucat dengan kacang soya di sebelahnya"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 Di beribu-ribu kedai kopi Malaysia, sebuah gerai tunggal hanya mengerjakan soya: sebuah

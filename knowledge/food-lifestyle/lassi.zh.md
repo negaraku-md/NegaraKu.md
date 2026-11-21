@@ -91,6 +91,7 @@ heroAlt: "花纹杯中一杯奶白色冰酸奶拉西（lassi），插着吸管"
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 坐下来面对一盘火辣的 banana-leaf-rice，或一碗浓郁的北印度咖喱，最常用来灭火的那杯

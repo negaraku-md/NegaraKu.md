@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Le jus de muscade est d'origine végétale et sans alcool — fruit de muscade, sucre, eau et souvent une prune confite — donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand ou fabricant."
   served: "Servi glacé contre la chaleur de Penang. Deux styles courants : un jus « blanc » frais à partir du fruit cru, et une version bouillie plus foncée et plus sucrée. Demandez de l'« asam » (prune aigre confite) pour aiguiser l'équilibre ; un concentré est aussi vendu pour le préparer chez soi."
   where: "On le trouve dans les stands de jus de fruits et de boissons, les marchés et les aires de restauration de Penang — surtout associé à George Town et à la région de culture de la muscade de Balik Pulau — et vendu en concentré en bouteille par les fabricants de muscade de Penang."
+wikidata: "Q83165"
 ---
 
 La plupart des gens rencontrent la muscade sous la forme d'une graine brune et dure râpée sur

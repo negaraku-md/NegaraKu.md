@@ -91,6 +91,7 @@ heroAlt: "வடிவமுள்ள கோப்பையில் ஸ்ட�
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 ஒரு காரமான banana-leaf rice தட்டுக்கோ ஒரு செழுமையான வட இந்திய curry-க்கோ உட்கார்ந்தால்,

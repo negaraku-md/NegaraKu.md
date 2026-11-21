@@ -101,6 +101,7 @@ images:
     credit: Nubelbariloe / Wikimedia Commons
     license: CC BY 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 가시 돋치고 초록빛에 묵직한 **soursop**은 첫눈에 작은 durian처럼 보인다 — 바로 그래서

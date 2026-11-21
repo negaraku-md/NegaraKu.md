@@ -92,6 +92,7 @@ verificationNeeded:
   - "Thời gian lên men điển hình và điều kiện tối ưu (thường dẫn là khoảng bốn đến bảy ngày ở khoảng 27°C, nhưng con số thay đổi theo giống sầu riêng và nghiên cứu)——xác nhận với một tài liệu khoa học thực phẩm."
   - "Câu chuyện nguồn gốc của tempoyak như một phương pháp bảo quản sầu riêng và lời kể về sự lan truyền của nó bởi các thủy thủ Sumatra——xác nhận với một nguồn lịch sử ẩm thực, vì điều này được lặp lại trong truyền thông ẩm thực hơn là lịch sử gốc được ghi chép."
 framework: explainer
+wikidata: "Q4748563"
 ---
 
 Ít món ăn nào chia rẽ một căn phòng gay gắt như sầu riêng, và tempoyak lấy loại

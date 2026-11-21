@@ -104,6 +104,7 @@ dishFacts:
   halal: "Sebagai hidangan babi, bak kut teh tidak halal: ia dibangun di sekitar iga dan tulang babi, sehingga Muslim tidak menyantapnya, dan ia dimasak serta dijual di kedai kopi Tionghoa, bukan di tempat bersertifikat halal. Bagi yang tidak makan babi tetapi ingin pengalaman sup herbal, sebagian juru masak sesekali menyiapkan versi ayam yang kadang dijuluki 'chik kut teh' — hidangan terpisah, bukan bak kut teh bersertifikat halal."
   eat: "Ini adalah santapan bersama yang disantap duduk, biasanya untuk sarapan atau makan siang. Kuah dan dagingnya datang dalam claypot atau mangkuk bersama nasi putih, dan sobekan you char kway (cakwe goreng) dicocol ke dalam sup. Cawan kecil berisi kecap gelap dengan cabai padi dan bawang putih dipakai untuk mencocol daging, sementara pot teh Tionghoa, sering oolong sangrai, dituang sepanjang santapan untuk memotong rasa gurih."
   where: "Klang di Selangor adalah jantungnya di Malaysia, tetapi Anda menemukannya dimasak dan dijual di kedai kopi serta restoran Tionghoa, bukan di tempat halal seperti bazar Ramadan. Pada Februari 2024 ia diwartakan sebagai makanan warisan nasional Malaysia di bawah Akta Warisan Kebangsaan 2005 (Akta 645)."
+wikidata: "Q983160"
 ---
 
 Sedikit hidangan yang mengumumkan kehadirannya seperti bak kut teh. Sebelum Anda

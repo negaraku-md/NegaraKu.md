@@ -94,6 +94,7 @@ verificationNeeded:
   - "Peringkat pusat-pusat produksi belacan (Penang/Balik Pulau, Perlis, Pangkor, dan Melaka semuanya dikutip) dan apakah Pangkor secara historis merupakan pusat terkemuka — konfirmasikan dengan sumber perikanan, negara bagian, atau warisan."
   - "Durasi fermentasi dan pengeringan yang lazim, yang oleh sumber-sumber disebut mulai dari dua hingga tiga minggu sampai tiga hingga empat bulan dan bervariasi menurut produsen dan cuaca — konfirmasikan rentang yang representatif."
 framework: explainer
+wikidata: "Q1127705"
 ---
 
 Sedikit bahan yang mengumumkan kehadirannya selantang belacan. Buka bungkus sebongkah dan aromanya memenuhi dapur; jatuhkan sepotong kecil ke wajan panas dan seolah seluruh jalan jadi tahu. Namun bata kecil berwarna gelap dari udang fermentasi ini adalah salah satu fondasi diam-diam masakan Malaysia — hal yang memberi sambal kedalaman gurihnya, saus rojak bau fermentasinya yang khas, dan semangkuk asam laksa tulang punggungnya.

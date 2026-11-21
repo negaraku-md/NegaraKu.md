@@ -96,6 +96,7 @@ dishFacts:
   halal: "Nhân truyền thống là thịt heo băm, và chả cá ở các quán Malaysia đôi khi được trộn với thịt heo, trong khi sốt Ampang là một loại sốt đậu lên men — nên các miếng của một quán cụ thể có thể hợp hoặc không hợp với một chế độ ăn halal. Nên hỏi từng quán."
   eat: "Nó thường được gọi theo kiểu 'tự chọn': các miếng nhồi và các món rời bày trên một quầy, và thực khách chọn thứ mình muốn trước khi được nấu theo yêu cầu. Nó được ăn trong một loại canh trong, hoặc khô với các loại chấm sốt đậu ngọt và ớt — phong cách Ampang chiên các miếng và dọn chúng chan đẫm sốt đậu lên men ngọt sệt — và thường được làm tròn thành một bữa đầy đủ với cơm hoặc mì như bihun hay mì vàng."
   where: "Nó là một món chủ lực của khu ẩm thực hàng rong và food court, nơi một quầy có thể phục vụ hàng chục tổ hợp từ cùng một khay và nồi. Phiên bản Malaysia nổi tiếng nhất lấy tên từ khu Ampang ở rìa Kuala Lumpur, một khu có gốc rễ Hẹ sâu đậm."
+wikidata: "Q713892"
 ---
 
 Bước đến một quầy yong tau foo, thứ được trao cho bạn không hẳn là thực đơn mà là một cái khay. Những khối đậu phụ,

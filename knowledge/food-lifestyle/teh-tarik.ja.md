@@ -106,6 +106,7 @@ heroAlt: "マーブルのテーブルに置かれた、泡立つ茶色の引き�
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 その光景はマレーシアの暮らしに欠かせない定番だ。ママック（mamak）の屋台で、男が使い込んだ

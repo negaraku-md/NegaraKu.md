@@ -92,6 +92,7 @@ heroAlt: "Ly thạch sương sâm (cincau) ướp lạnh với thạch đen lắ
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 Vào một buổi chiều nóng bức tại một quán cà phê Malaysia, một trong những cách rẻ

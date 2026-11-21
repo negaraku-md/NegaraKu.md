@@ -94,6 +94,7 @@ heroAlt: "नारियल के ढेर के पास, एक फेर
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 एक मलेशियाई सड़क किनारे, कुछ चीज़ें "उष्णकटिबंधीय गर्मी" को एक विक्रेता के हरे नारियलों के ढेर

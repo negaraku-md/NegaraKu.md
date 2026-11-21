@@ -99,6 +99,7 @@ dishFacts:
   halal: "A fixture of Malay stalls and of mamak (Indian-Muslim) stalls, where it is cooked and eaten across community lines, making it an everyday halal-stall dish."
   eat: "Served as a plate, not a soup bowl: the garnishes are added and a wedge of calamansi lime is squeezed over the gravy before eating, so the soft noodles, rich gravy and sharp, crunchy toppings give its characteristic sweet-savoury-sour balance. It is typically a breakfast or brunch dish, often ordered alongside satay or otak-otak."
   where: "Sold from morning Malay and mamak stalls, coffee shops and food courts, where it shares a steam table with dishes like mee goreng mamak. Regional styles diverge: Johor Bahru, once called 'the mee rebus capital of the nation', has a thick, sticky brown gravy, while Penang is better known for the closely related mee Jawa, usually described as sweeter and tomato-tinged."
+wikidata: "Q5257848"
 ---
 
 Ask for mee rebus in Malaysia and you get a plate, not a soup bowl: yellow

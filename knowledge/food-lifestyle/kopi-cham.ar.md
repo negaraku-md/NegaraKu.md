@@ -91,6 +91,7 @@ heroAlt: "مزيج قهوة وشاي مُرغي (kopi cham) في فنجان وص
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 لمن يجلس في مقهى ماليزي ولا يقدر على الاختيار بين القهوة والشاي، للمنضدة جواب أنيق: خذهما معًا، في الكوب نفسه. **Kopi cham** — قهوة وشاي ممزوجان معًا، محلّيان بالحليب المكثَّف — أحد لمسات العبقرية الصغيرة في الكوبيتيام، ودرس أنيق في لغة طلب المقهى.

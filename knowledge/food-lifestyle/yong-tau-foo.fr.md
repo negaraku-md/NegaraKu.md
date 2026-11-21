@@ -96,6 +96,7 @@ dishFacts:
   halal: "La farce traditionnelle est le porc haché, et la pâte de poisson des stands malaisiens est parfois mélangée à du porc, tandis que la sauce d'Ampang est une sauce de haricots fermentés — de sorte que les pièces d'un stand donné peuvent ou non convenir à un régime halal. Mieux vaut se renseigner à chaque stand."
   eat: "Il se commande généralement en 'servez-vous' : les pièces farcies et les éléments en vrac sont présentés sur un étal, et les convives choisissent ce qu'ils veulent avant que ce ne soit cuit à la commande. Il se mange dans un bouillon clair, ou sec avec des trempettes de sauce de haricots sucrée et de piment — le style d'Ampang fait frire les pièces et les sert nappées d'une épaisse sauce de haricots fermentés sucrée — et se complète souvent en repas complet avec du riz ou des nouilles comme le bihun ou les nouilles jaunes."
   where: "C'est un pilier des centres de hawkers et des aires de restauration, où un seul stand peut servir des dizaines de combinaisons à partir du même plateau et de la même marmite. La version malaisienne la plus connue tire son nom du quartier d'Ampang, à la lisière de Kuala Lumpur, un district aux profondes racines hakka."
+wikidata: "Q713892"
 ---
 
 En s'approchant d'un stand de yong tau foo, on vous tend moins un menu qu'un plateau. Des carrés de tofu, des triangles

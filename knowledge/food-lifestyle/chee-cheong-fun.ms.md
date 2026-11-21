@@ -98,6 +98,7 @@ dishFacts:
   halal: "Nama 猪肠粉 ('mi usus babi') menggambarkan bentuk gulungannya, bukan kandungannya — mi biasa itu tiada daging babi dan vegetarian pada dirinya sendiri. Tetapi balutannya membawa amaran: versi Pulau Pinang menggunakan hae ko iaitu pes udang (makanan laut), dan gaya dim sum membalut char siu (daging babi bakar). Semak gerai masing-masing dan sosnya."
   eat: "Dihidang suam sebagai sarapan atau jajan penjaja. Di Pulau Pinang gulungan yang dihiris datang bersalut sos manis, hae ko, cili dan taburan bijan bakar serta minyak, tanpa inti atau kuah. Di Kuala Lumpur dan Ipoh ia dimakan bersama yong tau foo atau disiram kuah kari atau cendawan yang berkuah; gulungan dim sum disiap dengan kicap ringan yang dimaniskan."
   where: "Kelaziman gerai penjaja Malaysia, ditemui dalam gaya serantau yang sangat berbeza: pinggan pes udang di Pulau Pinang dan utara, pasangan yong tau foo di Lembah Klang Kuala Lumpur, serta versi kari 'kering' atau 'basah' di Ipoh, Perak. Gulungan dim sum berinti muncul di troli dim sum dan di restoran Kantonis."
+wikidata: "Q3275558"
 ---
 
 Pesan "chee cheong fun" di George Town dan anda akan mendapat gulungan mi beras

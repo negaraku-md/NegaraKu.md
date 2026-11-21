@@ -95,6 +95,7 @@ verificationNeeded:
   - "Which aromatics count as the irreducible 'core' of a rempah versus regional or dish-specific additions — reputable food sources describe chilli, garlic, shallot and ginger as the base, with galangal, turmeric, candlenut, lemongrass and belacan as common but variable additions. Confirm against a Malaysian culinary authority."
   - "The causal link between the historic Melaka Straits spice trade and the development of Malaysian rempah/spice-paste cooking is a reasonable inference drawn from trade and culinary histories rather than a single documented statement — confirm with a dedicated food-history source."
 framework: explainer
+wikidata: "Q697230"
 ---
 
 Lift the lid on almost any pot of Malaysian curry, *gulai* or *sambal* and the

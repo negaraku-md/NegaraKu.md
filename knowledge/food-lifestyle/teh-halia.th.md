@@ -90,6 +90,7 @@ heroAlt: "แก้วมัคแก้วใส่ชานมขิง (teh h
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 เอาเครื่องดื่มที่โด่งดังที่สุดของประเทศ เติมความอบอุ่นของขิง แล้วคุณจะได้ **เตห์ฮาเลีย** — ชานมขิง

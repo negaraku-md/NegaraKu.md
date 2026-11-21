@@ -103,6 +103,7 @@ dishFacts:
   halal: "The traditional version is not halal: it is classically fried in pork lard, often with pork-fat croutons, and includes blood cockles. Muslim cooks in Malaysia and Singapore prepare halal versions that omit pork and lard and may use chicken or beef; check the individual stall."
   eat: "Eaten fresh off the wok with a cold drink, often served on a banana leaf; fried in small batches, with 'special' (extra prawns, cockles or egg) and 'gourmet' (crab or mantis prawns) grades."
   where: "A hawker-stall and coffee-shop (kopitiam) street food; Penang is widely regarded as its spiritual home, with a lighter, less sweet style, while Singapore's version leans Hokkien."
+wikidata: "Q5073693"
 ---
 
 Few plates capture Malaysian street food as completely as char kway teow: a

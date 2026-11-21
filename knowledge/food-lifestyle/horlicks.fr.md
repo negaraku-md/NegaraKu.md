@@ -84,6 +84,7 @@ drinkFacts:
   halal: "Une boisson à base de lait, non alcoolisée ; le Horlicks emballé en Malaisie est généralement produit pour porter une certification halal. La vérification fiable est la marque halal sur l'emballage, ou la certification de l'établissement pour une boisson préparée au stand — cherchez-la plutôt que de présumer."
   served: "Servi chaud par défaut, ou « ais Horlicks » sur glace. Généralement sucré de lait concentré ou évaporé à la manière kopitiam ; demandez moins sucré si vous préférez. Côtoie le Milo, le kopi et le teh sur le tableau des cafés."
   where: "On le trouve dans les kopitiam et les enseignes mamak à travers le pays, et vendu en poudre dans les boutiques et supermarchés pour des tasses faites maison."
+wikidata: "Q2719710"
 ---
 
 À côté de la boîte de Milo sur chaque étagère de café malaisien se trouve une autre

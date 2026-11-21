@@ -94,6 +94,7 @@ heroAlt: "Gelas tinggi teh susu dengan lapisan tebal mutiara tapioka hitam di da
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Berjalanlah melintasi mal Malaysia mana pun dan Anda akan melewatinya dalam hitungan

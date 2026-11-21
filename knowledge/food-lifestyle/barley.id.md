@@ -85,6 +85,7 @@ drinkFacts:
   halal: "Barley water berbahan nabati dan bebas alkohol — barli, air, dan gula — jadi minuman itu sendiri halal (jangan dikelirukan dengan barli yang dipakai untuk membuat bir). Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan panas atau di atas es. Versi polosnya sedikit manis; pesan 'barley limau' untuk perasan jeruk nipis, atau cari barley dengan winter melon manisan untuk kemanisan yang lebih bulat. Sering dijaga tetap hangat dalam bejana di gerai dan dituang ketika diminta."
   where: "Ditemukan di kedai kopi Tionghoa, food court, pusat penjaja, dan pasar malam di seluruh negeri, serta dijual siap saji dalam kaleng (seperti Yeo's) di setiap pasar swalayan dan kedai runcit."
+wikidata: "Q397762"
 ---
 
 Di antara minuman pucat nan sederhana yang berjajar di kedai kopi Tionghoa — susu

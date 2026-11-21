@@ -105,6 +105,7 @@ heroAlt: "빨대가 꽂힌, 분홍빛 아이스 장미시럽 우유(sirap bandun
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 말레이시아 커피숍 음료 판의 모든 음료 중에서, sirap bandung는 가장 먼저 눈에 띄는

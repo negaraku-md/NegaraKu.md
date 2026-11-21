@@ -92,6 +92,7 @@ heroAlt: "Une boisson fraîche de gelée d'herbe (cincau) avec de la gelée fonc
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 Par un après-midi de chaleur dans un café malaisien, l'une des façons les moins

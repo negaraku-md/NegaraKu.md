@@ -92,6 +92,7 @@ verificationNeeded:
   - "Tempoh fermentasi biasa dan keadaan optimum (lazimnya disebut sebagai lebih kurang empat hingga tujuh hari pada sekitar 27°C, tetapi angkanya berbeza mengikut jenis durian dan kajian) — sahkan dengan rujukan sains makanan."
   - "Kisah asal usul tempoyak sebagai kaedah mengawet durian dan catatan penyebarannya oleh pelaut Sumatera — sahkan dengan sumber sejarah makanan, kerana ini diulang-ulang dalam media makanan dan bukannya sejarah primer yang terdokumentasi."
 framework: explainer
+wikidata: "Q4748563"
 ---
 
 Sedikit sahaja makanan yang memecah-belahkan sesebuah ruang setajam durian, dan

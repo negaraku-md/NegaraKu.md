@@ -96,6 +96,7 @@ dishFacts:
   origin: "Versi India-Muslim (mamak, selalunya Tamil-Muslim) bagi mi goreng; lazimnya dianggap hidangan fusion tempatan — mi kuning bergaya Cina yang diperisa secara Melayu-India — dikatakan tidak wujud di India dalam bentuk ini. Asal-usul tepatnya diperdebatkan, dengan catatan menunjuk kepada pendatang Tamil-Muslim dan perdagangan gerai sorong pada awal abad ke-20."
   eat: "Dimasak atas pesanan dalam beberapa minit di atas kuali berapi tinggi; dihidangkan di atas pinggan dengan sepotong limau kasturi untuk diperah di meja, dimakan sebagai makan tengah hari ringkas, makan malam murah atau juadah lewat malam."
   where: "Gerai mamak, kedai kopi dan kedai makan 24 jam di seluruh Malaysia, daripada gerai sorong tepi jalan hingga ke rangkaian berhawa dingin; versi Pulau Pinang lebih berkuah dan lebih kuat sosnya."
+wikidata: "Q106256810"
 ---
 
 Datang sahaja ke hampir mana-mana gerai mamak di Malaysia selepas gelap dan anda

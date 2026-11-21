@@ -91,6 +91,7 @@ heroAlt: "Campuran kopi dan teh berbusa (kopi cham) dalam cangkir dan tatakan ko
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 Bagi siapa pun yang duduk di kedai kopi Malaysia dan tak bisa memutuskan antara kopi dan

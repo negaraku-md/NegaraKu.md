@@ -101,6 +101,7 @@ dishFacts:
   halal: "Un plat malais consommé avant tout comme petit-déjeuner et mets de marché de la côte est, et servi aux tables de fête surtout autour de Hari Raya Aidilfitri — il s'inscrit donc pleinement dans la table malaise-musulmane."
   eat: "On le mange généralement au petit-déjeuner, souvent remis en petit paquet de feuille de bananier contenant le riz, à côté du curry de thon sombre et huileux et d'une touche de pickles. L'assiette est assemblée, non amoncelée : riz crémeux au coco, riche gulai ikan tongkol, acar vif et parfois une cuillerée de sambal au piment, mangés ensemble à chaque bouchée."
   where: "Sur la côte est de la Malaisie comme mets de petit-déjeuner et de marché, fortement identifié au Terengganu et au Kelantan, même s'il se vend désormais bien au-delà de ces États."
+wikidata: "Q3234514"
 ---
 
 Commandez le petit-déjeuner sur la côte est de la Malaisie, et l'on pourra vous tendre un petit

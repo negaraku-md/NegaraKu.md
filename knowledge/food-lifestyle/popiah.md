@@ -102,6 +102,7 @@ dishFacts:
   halal: "Popiah is not uniformly halal: recipes vary widely by community, and in some non-halal hawker settings fried pork lard is added, while richer rolls may include Chinese sausage. As a durable rule, check the stall — vegetable-based and prawn versions exist alongside pork-containing ones."
   eat: "A popiah is assembled as much as cooked: the skin is streaked with sweet sauce and chilli, layered with lettuce, warm sengkuang, egg, sprouts, peanuts and shallots, then rolled into a plump cylinder and sliced into bite-sized pieces. It is often a shared event — a communal 'popiah party' where the fillings are set out and each person wraps a roll to their own taste."
   where: "Popiah is part of Malaysia's hawker and pasar malam street-food world, yet just as much a home dish. In Penang it is widely sold by Chinese hawkers as 'poh piah'; in Melaka, long a Peranakan heartland, the fresh roll is strongly tied to Nyonya cooking, with some stalls well enough known that regulars book their rolls in advance."
+wikidata: "Q3092677"
 ---
 
 Ask for a spring roll in Malaysia and you may get one of two very different things.

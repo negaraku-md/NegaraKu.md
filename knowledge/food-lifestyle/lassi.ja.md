@@ -91,6 +91,7 @@ heroAlt: "ストロー付きの模様入りカップに入った、クリーミ�
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 辛い banana-leaf rice（バナナの葉の定食）の一皿や、こくのある北インドのカレーに向き合うと、その火を

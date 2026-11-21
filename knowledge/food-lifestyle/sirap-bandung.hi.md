@@ -105,6 +105,7 @@ heroAlt: "स्ट्रॉ के साथ गुलाबी बर्फ़
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 मलेशियाई कॉफ़ी-शॉप के पटल पर सभी पेयों में, सिरप बंदुंग वह है जिसे आप पहले देखते हैं। यह एक जीवंत,

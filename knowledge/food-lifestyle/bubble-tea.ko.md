@@ -94,6 +94,7 @@ heroAlt: "바닥에 검은 타피오카 펄이 두껍게 깔린, 키 큰 잔의 
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 말레이시아의 어느 쇼핑몰이든 걸어 보면 몇 분 안에 그 앞을 지나게 된다: 앞에 줄이 늘어선

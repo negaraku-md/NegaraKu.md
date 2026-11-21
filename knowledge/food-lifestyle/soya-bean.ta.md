@@ -91,6 +91,7 @@ heroAlt: "அருகில் சோயா பீன்ஸுடன் ஒர�
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 எண்ணற்ற மலேசியக் காபிக்கடைகளில் ஒரே ஒரு கடை சோயாவைத் தவிர வேறெதையும் செய்வதில்லை:

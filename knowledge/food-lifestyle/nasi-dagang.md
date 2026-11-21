@@ -103,6 +103,7 @@ dishFacts:
   halal: "A Malay dish eaten above all as an east-coast breakfast and market food, and served at festive tables especially around Hari Raya Aidilfitri — so it sits squarely within the Muslim-Malay table."
   eat: "Usually eaten for breakfast, often handed over as a small banana-leaf parcel of rice beside the dark, oily tuna curry and a scatter of pickles. The plate is assembled, not mounded: creamy coconut rice, rich gulai ikan tongkol, sharp acar and sometimes a spoonful of chilli sambal, eaten together in each mouthful."
   where: "On Malaysia's east coast as a breakfast and market dish, strongly identified with Terengganu and Kelantan, though it is now sold far beyond those states."
+wikidata: "Q3234514"
 ---
 
 Order breakfast on Malaysia's east coast and you may be handed a small banana-leaf

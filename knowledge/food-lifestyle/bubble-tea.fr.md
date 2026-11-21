@@ -94,6 +94,7 @@ heroAlt: "Un grand verre de thé au lait avec une épaisse couche de perles de t
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Traversez n'importe quel centre commercial malaisien et vous les croiserez en quelques minutes :

@@ -94,6 +94,7 @@ heroAlt: "Penjual kaki lima membuka kelapa muda hijau segar dengan parang, di sa
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 Di tepi jalan Malaysia, sedikit hal yang menyuarakan "panas tropis" selugas seorang

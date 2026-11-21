@@ -91,6 +91,7 @@ heroAlt: "Hỗn hợp cà phê pha trà nổi bọt (kopi cham) trong tách và 
 heroCredit: "Avlxyz / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 Với bất kỳ ai ngồi xuống tại một quán cà phê Malaysia mà không thể quyết định giữa cà

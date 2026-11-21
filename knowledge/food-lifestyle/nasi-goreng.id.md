@@ -98,6 +98,7 @@ dishFacts:
   halal: "Versinya berbeda menurut dapur: gaya mamak (Muslim-India) dan Melayu dibangun di atas pasta cabai, bubuk kari, atau belacan, sedangkan gaya yong chow kedai kopi Tionghoa dihias char siu atau lap cheong (babi). Sebagai aturan yang langgeng, mangkuk gerai mamak dan Melayu menghindari babi dan beberapa gaya Tionghoa memakainya — tanyakan ke gerainya."
   eat: "Piring standarnya diakhiri dengan telur (diorak-arik dalam nasi atau diceplok dan diletakkan di atas) serta taburan mentimun segar atau irisan cabai. Pattaya datang dibungkus dalam dadar tipis dengan coretan saus cabai atau tomat; ini makanan sehari-hari yang disantap kapan saja, termasuk sebagai santapan larut malam."
   where: "Ia terutama makanan sehari-hari — ikon gerai mamak 24 jam dan kopitiam lingkungan, andalan di pasar malam dan gerai jajanan jalanan, serta salah satu hidangan pertama yang dipelajari juru masak rumahan untuk diimprovisasi. Tempat Anda menyantapnya membentuk versinya: kampung, ikan masin, dan belacan di dapur rumah dan gerai Melayu; pattaya, USA, dan gaya mamak di gerai mamak; cina, hailam, dan yong chow di kedai kopi Tionghoa."
+wikidata: "Q510666"
 ---
 
 Pesan nasi goreng di gerai mamak pada pukul satu pagi, dan Anda bukan sekadar

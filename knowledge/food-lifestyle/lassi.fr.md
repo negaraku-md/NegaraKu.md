@@ -91,6 +91,7 @@ heroAlt: "Un lassi au yaourt glacé, crémeux et blanc, dans une tasse à motifs
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Attablez-vous devant une assiette ardente de riz sur feuille de bananier ou un riche curry du

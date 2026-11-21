@@ -90,6 +90,7 @@ heroAlt: "மர மேசையில் கண்ணாடி மக்கு�
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 நாட்டின் மிகவும் பிரபலமான பானத்தை எடுத்து, ஒரு வெதுவெதுப்பான இஞ்சி உந்துதலைச் சேருங்கள்,

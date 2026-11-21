@@ -100,6 +100,7 @@ dishFacts:
   origin: "It is often described as a blend of Malay and Peranakan cooking, with Straits-born Chinese kitchens marrying Chinese techniques to Malay spice pastes. Malaysia has two broad styles: the thin, flat, drier charcoal-grilled southern version famous in Muar, Johor and shared across Johor and Melaka, and the thick, soft, custardy steamed Nyonya (Peranakan) style of Penang, often scented with wild betel leaf (daun kaduk). It is a shared Straits of Malacca dish, with earliest roots commonly traced to Palembang in South Sumatra."
   eat: "It is eaten as a snack and a side dish, unwrapped from its charred leaf parcel. Malaysian and Singaporean versions are usually reddish-orange from chilli and spice, while Indonesian versions tend to be paler and are served with dipping sauces such as cuko or peanut sauce."
   where: "Within Malaysia, Muar in Johor is the name most associated with otak-otak — 'Muar otak-otak' functions almost as a brand and draws visitors from neighbouring states and from Singapore. Penang and Melaka are the homes of the softer Nyonya style. Across the region it is also found in Indonesia and in Singapore, where it is known as otah."
+wikidata: "Q3234931"
 ---
 
 Unwrap a parcel of otak-otak and the first thing you meet is the smell: charred

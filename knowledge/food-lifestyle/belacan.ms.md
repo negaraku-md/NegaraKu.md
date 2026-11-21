@@ -94,6 +94,7 @@ verificationNeeded:
   - "Kedudukan pusat pengeluaran belacan (Pulau Pinang/Balik Pulau, Perlis, Pangkor dan Melaka kesemuanya dipetik) dan sama ada Pangkor dari segi sejarah merupakan pusat utama — sahkan dengan sumber perikanan, negeri atau warisan."
   - "Tempoh penapaian dan pengeringan biasa, yang diberikan oleh sumber sebagai antara dua hingga tiga minggu sehingga tiga hingga empat bulan dan yang berbeza mengikut pengeluar dan cuaca — sahkan julat yang mewakili."
 framework: explainer
+wikidata: "Q1127705"
 ---
 
 Sedikit sahaja bahan yang mengumumkan kehadirannya sekuat belacan. Buka

@@ -100,6 +100,7 @@ dishFacts:
   halal: "Gaya yang dijelaskan artikel ini dibangun di atas ikan, udang, dan ayam alih-alih babi, dan beberapa — seperti laksa Johor berakar Melayu yang dikaitkan dengan dapur Sultan Abu Bakar — berada tepat di arus utama halal. Tetapi karena warisan Tionghoa Peranakan mengalir di sebagian besar keluarga ini, penyiapannya bervariasi menurut juru masak, jadi tanyakan ke tiap gerai."
   eat: "Setiap mangkuk disajikan di atas mi — mi beras tebal untuk asam laksa, mi telur kuning atau bihun untuk curry laksa, bihun halus untuk laksa Sarawak, spageti untuk laksa Johor, dan lembaran tepung beras pipih gulung untuk laksam — dan dimahkotai hiasannya sendiri berupa herba, tauge, makanan laut, atau ayam suwir, dengan cabai, sambal belacan, atau jeruk yang disesuaikan dengan selera. Laksa Johor sering disantap dengan tangan."
   where: "Laksa ditemukan di seluruh Malaysia, dengan tiap negeri mengandalkan dapurnya sendiri: Penang di utara untuk asam laksa yang asam (dan 'curry mee' bersantan), Lembah Klang dan Melaka untuk curry laksa / laksa lemak, Kuching di Sarawak untuk laksa Sarawak sambal-belacan, Johor di selatan untuk laksa Johor berbasis spageti, dan Kelantan serta Terengganu di pesisir timur untuk laksam gulung."
+wikidata: "Q934095"
 ---
 
 Pesan "laksa" di Penang dan Anda akan disuguhi kuah ikan yang tajam dan asam

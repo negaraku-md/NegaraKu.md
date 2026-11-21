@@ -91,6 +91,7 @@ heroAlt: "Des chopes en verre de thé au lait au gingembre (teh halia) sur une t
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Prenez la boisson la plus célèbre du pays, ajoutez-y un coup de chaleur de gingembre, et

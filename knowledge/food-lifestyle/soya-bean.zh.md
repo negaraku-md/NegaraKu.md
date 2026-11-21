@@ -91,6 +91,7 @@ heroAlt: "一高杯淡色豆奶（soya bean），旁边放着黄豆"
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 在无数马来西亚咖啡店里，总有一个档口只做豆：一边是一大桶温热的新鲜豆浆，另一边是

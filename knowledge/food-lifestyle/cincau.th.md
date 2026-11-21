@@ -92,6 +92,7 @@ heroAlt: "เครื่องดื่มเฉาก๊วย (cincau) เย
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 ในบ่ายวันที่อากาศร้อนที่ร้านกาแฟของมาเลเซีย หนึ่งในวิธีคลายร้อนที่ถูกที่สุดคือเครื่องดื่มแก้วสูงที่มีบางอย่าง

@@ -98,6 +98,7 @@ dishFacts:
   origin: "The Indian-Muslim (mamak, often Tamil-Muslim) version of fried noodles; widely regarded as a local fusion dish — Chinese-style yellow noodles seasoned the Malay-Indian way — said not to exist in India in this form. Exact origins are contested, with accounts pointing to Tamil-Muslim immigrants and an early-20th-century push-cart trade."
   eat: "Cooked to order in minutes over a high-heat wok; served on a plate with a wedge of calamansi lime squeezed over at the table, eaten as a quick lunch, cheap dinner or late-night supper."
   where: "Mamak stalls, coffee shops and 24-hour eateries across Malaysia, from roadside carts to air-conditioned chains; Penang versions run wetter and more intensely sauced."
+wikidata: "Q106256810"
 ---
 
 Walk up to almost any mamak stall in Malaysia after dark and you will hear it

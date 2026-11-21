@@ -102,6 +102,7 @@ images:
     credit: Nubelbariloe / Wikimedia Commons
     license: CC BY 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 முள்ளானது, பச்சையானது, கனமானது, **சவர்சாப்** முதல் பார்வையில் ஒரு சிறிய துரியான் போல்

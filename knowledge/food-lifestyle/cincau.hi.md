@@ -92,6 +92,7 @@ heroAlt: "तले में जमी गहरी जेली वाला �
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 एक गर्म दोपहर को किसी मलेशियाई कॉफ़ी शॉप पर, ठंडा होने के सबसे सस्ते तरीकों में से एक है

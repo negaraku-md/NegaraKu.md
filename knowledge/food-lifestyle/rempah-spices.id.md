@@ -93,6 +93,7 @@ verificationNeeded:
   - "Aromatik mana yang terhitung sebagai 'inti' rempah yang tak tergantikan dibandingkan tambahan menurut daerah atau hidangan tertentu — sumber makanan bereputasi menggambarkan cabai, bawang putih, bawang merah, dan jahe sebagai dasar, dengan lengkuas, kunyit, buah keras, serai, dan belacan sebagai tambahan yang umum tetapi berubah-ubah. Pastikan terhadap otoritas kuliner Malaysia."
   - "Keterkaitan sebab antara perdagangan rempah Selat Melaka bersejarah dengan perkembangan masakan rempah/pasta bumbu Malaysia adalah inferensi yang masuk akal yang ditarik dari sejarah perdagangan dan kuliner, bukan satu pernyataan terdokumentasi tunggal — pastikan dengan sumber sejarah makanan yang khusus."
 framework: explainer
+wikidata: "Q697230"
 ---
 
 Angkat tutup hampir semua panci kari Malaysia, *gulai*, atau *sambal*, dan hal

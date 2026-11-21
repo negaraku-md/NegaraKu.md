@@ -91,6 +91,7 @@ heroAlt: "นมถั่วเหลืองสีอ่อนแก้วท�
 heroCredit: "LinasD / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 ที่ร้านกาแฟของมาเลเซียนับไม่ถ้วน มีแผงหนึ่งที่ทำแต่ถั่วเหลืองอย่างเดียว: ถังนมถั่วเหลืองสดอุ่น ๆ อยู่ด้านหนึ่ง

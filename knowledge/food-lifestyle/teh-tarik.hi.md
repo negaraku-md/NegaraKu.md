@@ -106,6 +106,7 @@ heroAlt: "संगमरमर की मेज़ पर झागदार �
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 यह दृश्य मलेशियाई जीवन का एक स्थायी अंग है: एक mamak ठेले पर एक आदमी एक पिटी हुई धातु की मग

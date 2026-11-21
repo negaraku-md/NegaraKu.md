@@ -94,6 +94,7 @@ heroAlt: "พ่อค้าแผงลอยใช้มีดอีโต้�
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 ริมถนนในมาเลเซีย ไม่มีอะไรบ่งบอก "ความร้อนเขตร้อน" ได้ชัดเจนไปกว่าผู้ขายที่เหวี่ยงมีดพร้า (parang) ลงบน

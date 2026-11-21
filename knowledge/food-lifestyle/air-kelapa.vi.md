@@ -94,6 +94,7 @@ heroAlt: "Người bán hàng rong bổ một quả dừa non xanh tươi bằng
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 Trên một con đường Malaysia, hiếm có thứ gì nói lên "cái nóng nhiệt đới" rõ ràng

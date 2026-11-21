@@ -90,6 +90,7 @@ heroAlt: "Gelas-gelas kaca teh jahe susu cokelat (teh halia) di atas meja kayu"
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Ambil minuman paling terkenal di negeri ini, tambahkan sentakan jahe yang hangat, dan Anda

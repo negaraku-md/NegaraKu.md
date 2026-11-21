@@ -94,6 +94,7 @@ heroAlt: "底に黒いタピオカパールが厚く溜まった、背の高い�
 heroCredit: "Battlesnake1 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 マレーシアのどのモールを歩いても、数分のうちにそれらの前を通り過ぎる。前に行列のできた明るい小さな

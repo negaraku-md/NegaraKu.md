@@ -92,6 +92,7 @@ heroAlt: "அடிப்பகுதியில் கரும் ஜெல�
 heroCredit: "Supardisahabu / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 ஒரு மலேசியக் காபிக்கடையில் ஒரு வெப்பமான பிற்பகலில், குளிர்ந்துகொள்வதற்கான மலிவான

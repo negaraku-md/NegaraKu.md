@@ -90,6 +90,7 @@ heroAlt: "Mug kaca berisi teh halia berwarna perang di atas meja kayu"
 heroCredit: "Schahryar / Wikimedia Commons"
 heroLicense: "CC BY-SA 3.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Ambil minuman paling terkenal negara, tambah kick halia yang hangat, dan anda dapat **teh

@@ -97,6 +97,7 @@ dishFacts:
   halal: "El artículo distingue dos ramas: el rojak de fruta (chino) lleva una salsa construida sobre pasta de gambas fermentada —una pasta de marisco, no de cerdo—, mientras que la versión mamak o pasembur es el rojak de buñuelos indomusulmán hecho por cocineros mamak y vendido en puestos mamak por todo el país."
   eat: "Todo se corta en trozos del tamaño de un bocado, se mezcla con el aliño para que quede cubierto y se remata con cacahuetes tostados y picados; el rojak de fruta se come fresco como tentempié o plato para compartir, apreciado por cómo cada ingrediente se mantiene distinto aun bañado en salsa, mientras que la versión mamak es un plato caliente y contundente servido con salsa."
   where: "El rojak está entretejido en la cultura de la comida callejera y el mercado nocturno de Malasia, donde se venden varias de sus formas unas junto a otras —el rojak de fruta más asociado a los hawkers chinos, y la versión mamak/pasembur un fijo de los puestos mamak que se encuentran por todo el país—, con Penang celebrada por su propia versión local, ácida y de un oscuro atoffado."
+wikidata: "Q720230"
 ---
 
 Pide «rojak» en un puesto y te darán un revoltijo frío de fruta y buñuelos de masa untados

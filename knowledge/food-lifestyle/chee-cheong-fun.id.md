@@ -98,6 +98,7 @@ dishFacts:
   halal: "Nama 猪肠粉 ('mi usus babi') menggambarkan bentuk gulungannya, bukan isinya — mi polosnya tidak mengandung babi dan vegetarian pada dirinya sendiri. Namun bumbu penyiramnya membawa peringatan: versi Pulau Pinang memakai pasta udang hae ko (makanan laut), dan gaya dim sum membungkus char siu (daging babi bakar). Tanyakan ke tiap gerai dan sausnya."
   eat: "Disajikan hangat sebagai sarapan atau camilan hawker. Di Pulau Pinang, gulungan yang telah diiris disajikan dengan siraman saus manis, hae ko, cabai, dan taburan wijen sangrai serta minyak, tanpa isian atau kuah. Di Kuala Lumpur dan Ipoh gulungan ini disantap bersama yong tau foo atau disiram kuah kari atau jamur; gulungan dim sumnya diakhiri dengan kecap manis yang ringan."
   where: "Hidangan andalan gerai hawker Malaysia, ditemukan dalam gaya daerah yang sangat berbeda: piring pasta udang di Pulau Pinang dan utara, perpaduan yong tau foo di Lembah Klang Kuala Lumpur, serta versi kari 'kering' atau 'basah' di Ipoh, Perak. Gulungan dim sum berisi muncul di troli dim sum dan di restoran Kanton."
+wikidata: "Q3275558"
 ---
 
 Pesan "chee cheong fun" di George Town dan Anda akan mendapat gulungan mi beras yang

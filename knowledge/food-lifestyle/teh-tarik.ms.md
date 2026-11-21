@@ -106,6 +106,7 @@ heroAlt: "Mug kaca jernih berisi teh tarik berbuih berwarna perang di atas meja 
 heroCredit: "Wiki Asmah / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 Pemandangannya ialah satu lazim kehidupan Malaysia: seorang lelaki di gerai mamak

@@ -102,6 +102,7 @@ dishFacts:
   origin: "Truy về người Minangkabau ở Tây Sumatra; được đưa vào Bán đảo Mã Lai qua cuộc di cư merantau của người Minangkabau và giao thương qua Eo biển Malacca, trở thành di sản chung của thế giới Mã Lai."
   eat: "Một món trung tâm của lễ hội, đặc biệt được dọn vào dịp Hari Raya Aidilfitri cùng với ketupat và lemang, và lại xuất hiện trong Hari Raya Aidiladha, đám cưới và các tiệc kenduri."
   where: "Trên bàn tiệc lễ hội và open-house của Malaysia; gắn liền chặt chẽ với cộng đồng gốc Minangkabau ở Negeri Sembilan và các kiểu rendang sậm màu của họ."
+wikidata: "Q1520293"
 ---
 
 Đi ngang một gian bếp Mã Lai vào những ngày trước [Hari Raya](/vi/arts-culture/hari-raya-aidilfitri), bạn thường sẽ nghe

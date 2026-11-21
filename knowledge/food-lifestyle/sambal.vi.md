@@ -100,6 +100,7 @@ dishFacts:
   origin: "Bài viết đặt sambal ở Đông Nam Á hàng hải và truy từ này về gốc rễ Java, nhưng lưu ý rằng thời điểm xuất hiện chính xác còn chưa chắc chắn — các công trình tham khảo uy tín gán nhãn cho nó, tùy nguồn, là 'Indonesia' hoặc 'Malaysia'. Thay vì một nơi sinh duy nhất, tốt nhất nên xem nó như một ý tưởng vùng miền chung mà mỗi bếp và mỗi gia đình đã làm thành của riêng mình."
   eat: "Sambal cung cấp độ cay, vị mặn và chiều sâu đậm đà mà một đĩa cơm và các món nấu đơn giản hơn cần — dọn sống như một món chấm cay (cho ulam, cá chiên, trứng luộc hay ăn kèm cơm), chiên thành sambal tumis ikan bilis vốn định hình nasi lemak, hoặc dùng như một nền nấu trộn vào cơm chiên, mì và các món như ayam masak merah."
   where: "Sambal chạy xuyên ẩm thực Malay, Nyonya (Peranakan) cùng Ấn Độ-Malaysia và mamak như nhau, và 'gần như không có hai đầu bếp nào làm nó giống hệt nhau'. Vùng miền cũng định hình nó — các cộng đồng ven biển thiên về belacan và hải sản khô trong khi Pahang nội địa cho ra các loại sambal nền tempoyak và sambal hitam — và mỗi bang, thị trấn và gia đình giữ tỷ lệ cay, mặn và ngọt riêng của mình."
+wikidata: "Q1056554"
 ---
 
 Hỏi một người Malaysia điều gì khiến một bữa ăn có vị như ở nhà, câu trả lời

@@ -91,6 +91,7 @@ heroAlt: "لاسي (lassi) الزبادي المثلّج الأبيض الكري
 heroCredit: "Rajeeb / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 اجلس إلى طبق ناريّ من banana-leaf rice أو كاري شمال هنديّ غنيّ، فالمشروب الذي يأتي غالبًا ليطفئ النار كوبٌ طويل مُرغٍ من شيء بارد كريميّ حامض قليلًا. هذا هو **lassi** — مشروب الزبادي من شبه القارة الهندية — وهو في ماليزيا الرفيق الطبيعيّ للوجبة الحارّة.

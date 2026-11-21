@@ -94,6 +94,7 @@ heroAlt: "코코넛 더미 옆에서 신선한 초록색 어린 코코넛(air ke
 heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
 heroLicense: "CC BY 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 말레이시아의 길가에서, 초록 코코넛 더미에 parang을 휘둘러 하나의 윗부분을 쳐 내고,

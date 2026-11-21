@@ -104,6 +104,7 @@ heroAlt: "Two tall glasses of pink iced rose-syrup milk (sirap bandung) with str
 heroCredit: "Kyle Lam / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Of all the drinks on a Malaysian coffee-shop board, sirap bandung is the one you

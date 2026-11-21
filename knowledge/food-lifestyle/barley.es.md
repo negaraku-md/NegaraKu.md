@@ -85,6 +85,7 @@ drinkFacts:
   halal: "El agua de cebada es de origen vegetal y sin alcohol —cebada, agua y azúcar—, así que la bebida en sí es halal (no debe confundirse con la cebada que se usa para elaborar cerveza). La garantía halal corresponde al establecimiento, así que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve caliente o con hielo. La versión sencilla es ligeramente dulce; pide «barley limau» para un chorro de lima, o busca la cebada con calabaza de invierno confitada para un dulzor más redondo. Suele mantenerse caliente en un termo en el puesto y se sirve a petición."
   where: "Se encuentra en cafeterías chinas, patios de comidas, centros de puestos ambulantes y pasar malam por todo el país, y se vende lista para tomar en lata (como la de Yeo's) en todos los supermercados y tiendas de barrio."
+wikidata: "Q397762"
 ---
 
 Entre las bebidas pálidas y modestas alineadas en una cafetería china —leche de
