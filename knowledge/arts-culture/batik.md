@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: Pandangan dekat kain batik memaparkan bunga merah kirmizi yang menyerlah dengan garisan luar putih tahanan lilin yang halus serta perincian bertitik, berlatarkan warna biru nila yang pekat
+    kind: actual
+    origin: third-party
+    subject: pandangan dekat kain batik Malaysia tulis dari Terengganu yang memaparkan bunga merah besar bergaris luar putih tahanan lilin
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: Berhelai-helai kain batik digantung berbaris, dalam warna merah, ungu, merah jambu, hijau dan jingga yang pekat, setiap satu bercorak bunga, daun dan geometri tahanan lilin yang berbeza
+    kind: actual
+    origin: third-party
+    subject: helaian kain batik Malaysia bercorak warna-warni dipamerkan pada rak di sebuah karnival kraf di Terengganu
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 Sehelai kain putih polos diletakkan pada bingkai. Seorang tukang mencelup pen tembaga kecil — sebuah canting, muncungnya tidak lebih lebar daripada hujung pensel — ke dalam periuk lilin cair, lalu mula melukis terus pada fabrik: bukan dengan pigmen, tetapi dengan lilin yang akan enggan menerima warna. Hanya setelah lilin menyejuk dan mengeras barulah kain itu dimasukkan ke dalam takungan pencelup. Di mana lilin berada, pencelup tidak dapat sampai — dan apabila lilin kemudiannya direbus keluar, apa yang tinggal ialah corak yang dilukis bukan dengan warna, tetapi dengan ketiadaannya.

@@ -17,7 +17,7 @@ keyTakeaways:
   - "Công ty chỉ lấy tên hiện nay vào năm 1992, sau một chứng chỉ hoàng gia năm 1979 của Sultan của Selangor."
 appliesTo: "Bất kỳ ai tò mò về các truyền thống thủ công của Malaysia, lịch sử khai thác thiếc, hoặc Royal Selangor"
 lang: "vi"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: Một người thợ thiếc pha dùng dụng cụ tì vào chiếc cốc vại đang quay trên máy tiện, những dải kim loại xoăn lại bắn ra, cùng khoảng chín thân cốc vại bằng thiếc pha đã đánh bóng ánh bạc xếp thành nhóm trên bàn gỗ
+    kind: actual
+    origin: third-party
+    subject: một người thợ thiếc pha Malaysia đang tiện một chiếc cốc vại trên máy tiện, với những chiếc cốc vại thiếc pha đã hoàn thiện xếp trên bàn
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: Một chiếc cốc vại bằng thiếc pha đã đánh bóng với quai cầm to bản và các đường gờ ngang, bề mặt ánh bạc như gương phản chiếu ánh sáng trên nền sáng màu
+    kind: actual
+    origin: third-party
+    subject: một chiếc cốc vại bằng thiếc pha đã hoàn thiện và đánh bóng, có quai cầm
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 Một thành phố dựng nên trên thiếc rốt cuộc lại cho thế giới một nghề thủ công kim loại. Kuala Lumpur tồn tại vì những người thăm dò tìm thấy quặng thiếc nơi sông Klang và sông Gombak gặp nhau. Nhiều thập niên sau, một thợ thiếc tuổi thiếu niên đến làm việc trong chính nền kinh tế thiếc ấy bắt đầu gò những chiếc lư hương cho bàn thờ đền miếu — và xưởng mà anh mở nay là nhà sản xuất pewter lớn nhất hành tinh.

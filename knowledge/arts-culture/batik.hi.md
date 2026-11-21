@@ -33,7 +33,7 @@ faq:
     a: "कपड़े को पलटिए। असली मोम-अवरोधक बाटिक — चाहे हाथ से बनाया canting हो या ठप्पा किया ब्लॉक — कपड़े को भिगोकर रंगा जाता है, इसलिए नमूना और रंग दोनों तरफ़ रिसकर पार हो जाते हैं और पीछे की ओर भी लगभग उतनी ही स्पष्टता से दिखते हैं। स्क्रीन-प्रिंट या डिजिटल-प्रिंट कपड़ा रूपांकन को केवल एक सतह पर धारण करता है और उल्टी ओर फीका दिखता है। रेखाएँ भी एक संकेत हैं: canting असमान रेखाएँ छोड़ता है जो कभी पूर्णतः दोहराई नहीं जातीं, ब्लॉक धुँधले जोड़ों के साथ एक सुथरी पुनरावृत्ति देता है, जबकि मशीन छपाई मोम के किसी निशान के बिना परिशुद्धता से दोहराती है।"
 
 lang: "hi"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: बाटिक कपड़े का एक क्लोज़-अप, जिसमें गहरे नील-नीले पृष्ठभूमि पर एक चटख लाल रंग का फूल दिखाया गया है, जिसकी बारीक सफेद वैक्स-रेज़िस्ट रूपरेखा और बिंदुदार विवरण हैं
+    kind: actual
+    origin: third-party
+    subject: तेरेंगानू के हाथ से बनाए गए मलेशियाई बाटिक कपड़े का एक क्लोज़-अप, जिसमें सफेद वैक्स-रेज़िस्ट रेखाओं से घिरा एक बड़ा लाल फूल दिखाया गया है
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: बाटिक कपड़े के कई टुकड़े पंक्तियों में लटके हुए, गहरे लाल, बैंगनी, गुलाबी, हरे और नारंगी रंगों में, प्रत्येक पर अलग-अलग फूल, पत्ती और ज्यामितीय वैक्स-रेज़िस्ट पैटर्न छपे हुए
+    kind: actual
+    origin: third-party
+    subject: तेरेंगानू में एक शिल्प कार्निवल में रैक पर प्रदर्शित रंगीन पैटर्न वाले मलेशियाई बाटिक कपड़े के टुकड़े
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 सादे सफ़ेद कपड़े का एक टुकड़ा एक फ्रेम पर चढ़ता है। एक शिल्पकार एक छोटी तांबे की कलम — एक canting, जिसकी टोंटी पेंसिल की नोक से अधिक चौड़ी नहीं — को पिघले मोम के एक बर्तन में डुबोता है, और सीधे कपड़े पर चित्र बनाना शुरू करता है: रंगद्रव्य से नहीं, बल्कि उस मोम से जो रंग लेने से इनकार कर देगा। मोम के ठंडा होकर कठोर हो जाने के बाद ही कपड़ा एक रंगाई-स्नान में जाता है। जहाँ कहीं मोम बैठा होता है, रंग वहाँ नहीं पहुँच पाता — और जब मोम को बाद में उबालकर हटा दिया जाता है, तो जो बचता है वह रंग से नहीं, बल्कि उसकी अनुपस्थिति से बना एक नमूना होता है।

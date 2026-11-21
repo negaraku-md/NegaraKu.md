@@ -41,7 +41,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 
 status: "published"
 aiAssisted: true
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: Several antique royal keris stood upright in a dark museum case, their long engraved silver scabbards topped by finely cast bird-head hilts, lit so the metalwork gleams against the shadowed background
+    kind: actual
+    origin: third-party
+    subject: a collection of royal Malay keris with ornate silver bird-head hilts associated with the Johor-Riau Sultanate
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: A straight-bladed ceremonial keris with a dark carved hilt lying beside its long slender wooden scabbard on a pale surface, with a museum caption card reading KERIS ALANG PAHANG below them
+    kind: actual
+    origin: third-party
+    subject: the Keris Alang of Pahang, a ceremonial keris of chiefly authority, laid beside its wooden sheath
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 A blade serrated like a tongue of flame, forged from iron and nickel folded hundreds of times by the hand of an empu — the keris is not merely a weapon, but the pulse of Malay civilisation. It was tucked at the waist of warriors, raised aloft in royal ceremony, and passed down through generations as a family heirloom. To this day, the keris remains a symbol of sovereignty, courage and the identity of a people.

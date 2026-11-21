@@ -39,7 +39,7 @@ faq:
     a: "Sí, pero el número de empu cualificados está disminuyendo drásticamente, lo que dificulta la transmisión del conocimiento. La UNESCO enumera este declive como un reto clave para la sostenibilidad del keris."
 
 lang: "es"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: Varios keris reales antiguos colocados en posición vertical en una vitrina oscura de museo, con sus largas vainas de plata grabadas rematadas por empuñaduras de fina fundición en forma de cabeza de ave, iluminados de modo que el trabajo del metal reluce contra el fondo en penumbra
+    kind: actual
+    origin: third-party
+    subject: una colección de keris reales malayos con ornamentadas empuñaduras de plata en forma de cabeza de ave asociadas al Sultanato de Johor-Riau
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: Un keris ceremonial de hoja recta con una empuñadura oscura tallada, tendido junto a su larga y esbelta vaina de madera sobre una superficie clara, con una cartela de museo que dice KERIS ALANG PAHANG debajo
+    kind: actual
+    origin: third-party
+    subject: el Keris Alang de Pahang, un keris ceremonial de autoridad de jefatura, dispuesto junto a su vaina de madera
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Una hoja dentada como una lengua de fuego, forjada con hierro y níquel plegados cientos de veces por la mano de un empu — el keris no es un simple arma, sino el pulso de la civilización malaya. Se llevaba al cinto de los guerreros, se alzaba en las ceremonias reales y se transmitía de generación en generación como reliquia familiar. Hasta el día de hoy, el keris sigue siendo un símbolo de soberanía, valentía e identidad de un pueblo.

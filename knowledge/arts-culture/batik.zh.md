@@ -36,7 +36,7 @@ lang: "zh"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: 蜡染布料的特写，深靛蓝色背景上衬托出一朵醒目的大红色花朵，花朵以白色蜡防线条勾勒轮廓，并饰以点状细节
+    kind: actual
+    origin: third-party
+    subject: 来自登嘉楼的马来西亚手绘蜡染布料特写，展示一朵以白色蜡防线条勾勒的大红花
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: 多匹蜡染布料成排悬挂，色彩浓丽，有红色、紫色、粉色、绿色和橙色，每匹都以蜡防工艺印有不同的花卉、叶片和几何图案
+    kind: actual
+    origin: third-party
+    subject: 在登嘉楼的手工艺嘉年华上，陈列于货架上的色彩缤纷、图案各异的马来西亚蜡染布料
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 一段素白的布料上了框。工匠把一支小铜笔——canting，笔嘴比铅笔尖还细——蘸进一锅融蜡里，开始直接在布上作画：画的不是颜料，而是拒绝上色的蜡。等蜡冷却变硬之后，布才下染缸。蜡在哪里，染料就到不了哪里——待到后来把蜡煮掉，留下的图案不是以颜色画成的，而是以颜色的缺席画成的。

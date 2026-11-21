@@ -39,7 +39,7 @@ faq:
     a: "ใช่ แต่จำนวนเอิมปูที่ชำนาญลดลงอย่างรวดเร็ว ทำให้การส่งต่อความรู้ยากขึ้น UNESCO ระบุการลดลงนี้ว่าเป็นความท้าทายหลักของความยั่งยืนของกริช"
 
 lang: "th"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: กริชหลวงโบราณหลายเล่มตั้งตรงอยู่ในตู้พิพิธภัณฑ์สีเข้ม ฝักเงินยาวสลักลวดลายมีด้ามจับรูปหัวนกที่หล่อขึ้นอย่างประณีตอยู่ด้านบน จัดแสงให้งานโลหะส่องประกายตัดกับพื้นหลังที่อยู่ในเงามืด
+    kind: actual
+    origin: third-party
+    subject: ชุดกริชหลวงของชาวมลายู ด้ามจับเงินรูปหัวนกอันวิจิตร เชื่อมโยงกับราชวงศ์สุลต่านยะโฮร์-เรียว
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: กริชพิธีกรรมใบตรงพร้อมด้ามจับไม้แกะสลักสีเข้ม วางอยู่ข้างฝักไม้ทรงยาวเรียว บนพื้นผิวสีอ่อน โดยมีป้ายคำบรรยายของพิพิธภัณฑ์เขียนว่า KERIS ALANG PAHANG อยู่ด้านล่าง
+    kind: actual
+    origin: third-party
+    subject: กริชอาลังแห่งปะหัง กริชพิธีกรรมสัญลักษณ์อำนาจของหัวหน้า วางอยู่ข้างฝักไม้
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 ใบมีดที่หยักดั่งลิ้นเปลวไฟ ตีขึ้นจากเหล็กและนิกเกิลที่พับหลายร้อยครั้งด้วยมือของเอิมปูคนหนึ่ง — กริชไม่ใช่เพียงอาวุธ แต่คือชีพจรของอารยธรรมมลายู มันถูกเหน็บไว้ที่เอวของนักรบ ถูกชูขึ้นในพระราชพิธี และสืบทอดกันมารุ่นต่อรุ่นในฐานะสมบัติของตระกูล จนถึงทุกวันนี้ กริชยังคงเป็นสัญลักษณ์ของอธิปไตย ความกล้าหาญ และอัตลักษณ์ของชาติพันธุ์

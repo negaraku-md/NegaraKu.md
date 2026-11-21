@@ -33,7 +33,7 @@ faq:
     a: "Déle la vuelta a la tela. El batik auténtico de reserva con cera — ya sea canting dibujado a mano o blok estampado — se tiñe sumergiendo la tela, de modo que el patrón y el color penetran por ambas caras y se ven casi con la misma claridad por el reverso. La tela serigrafiada o impresa digitalmente lleva el motivo en una sola cara y se ve descolorida por el reverso. Las líneas también son una pista: el canting deja líneas irregulares que nunca se repiten a la perfección, el blok da una repetición pulcra con juntas tenues, mientras que la impresión a máquina se repite con precisión sin rastro de cera."
 
 lang: "es"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: Un primer plano de tela de batik que muestra una llamativa flor carmesí con finos contornos blancos hechos con reserva de cera y detalles punteados sobre un fondo azul índigo profundo
+    kind: actual
+    origin: third-party
+    subject: un primer plano de tela de batik malayo dibujado a mano de Terengganu que muestra una gran flor roja perfilada con líneas blancas de reserva de cera
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: Numerosas piezas de tela de batik colgadas en hileras, en intensos tonos rojos, morados, rosas, verdes y naranjas, cada una estampada con distintos motivos florales, de hojas y geométricos hechos con reserva de cera
+    kind: actual
+    origin: third-party
+    subject: piezas de colorida tela de batik malayo estampado expuestas en percheros en una feria artesanal en Terengganu
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 Una pieza de tela blanca lisa se monta en un bastidor. Un artesano moja una pequeña pluma de cobre — un canting, cuya boquilla no es más ancha que la punta de un lápiz — en un recipiente de cera fundida, y empieza a dibujar directamente sobre el tejido: no con pigmento, sino con cera que se negará a tomar color. Solo después de que la cera se ha enfriado y endurecido pasa la tela a un baño de tinte. Dondequiera que esté la cera, el tinte no puede llegar — y cuando la cera se hierve más tarde para retirarla, lo que queda es un patrón dibujado no con color, sino con su ausencia.

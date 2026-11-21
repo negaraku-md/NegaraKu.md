@@ -39,7 +39,7 @@ faq:
     a: "Oui, mais le nombre d'empu qualifiés diminue fortement, ce qui rend la transmission du savoir difficile. L'UNESCO cite ce déclin comme un défi majeur pour la pérennité du keris."
 
 lang: "fr"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: Plusieurs krisses royaux anciens dressés à la verticale dans une vitrine de musée sombre, leurs longs fourreaux d'argent gravés surmontés de poignées finement ciselées en forme de tête d'oiseau, éclairés de sorte que le travail du métal brille sur le fond ombré
+    kind: actual
+    origin: third-party
+    subject: une collection de krisses malais royaux aux poignées ornées en argent en forme de tête d'oiseau, associés au sultanat de Johor-Riau
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: Un kriss cérémoniel à lame droite, à la poignée sombre sculptée, posé à côté de son long et fin fourreau en bois sur une surface claire, avec en dessous un cartel de musée portant l'inscription KERIS ALANG PAHANG
+    kind: actual
+    origin: third-party
+    subject: le Keris Alang du Pahang, un kriss cérémoniel symbole d'autorité seigneuriale, posé à côté de son fourreau en bois
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Une lame dentelée comme une langue de feu, forgée dans du fer et du nickel repliés des centaines de fois par la main d'un empu — le keris n'est pas une simple arme, mais le pouls de la civilisation malaise. On le portait à la ceinture des guerriers, on le brandissait lors des cérémonies royales et on le transmettait de génération en génération comme relique familiale. Jusqu'à aujourd'hui, le keris demeure un symbole de souveraineté, de bravoure et de l'identité d'un peuple.

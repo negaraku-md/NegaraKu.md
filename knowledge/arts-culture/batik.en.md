@@ -36,7 +36,7 @@ lang: "en"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -87,6 +87,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: A close-up of batik cloth showing a bold crimson flower with fine white wax-resist outlines and dotted detailing set against a deep indigo-blue background
+    kind: actual
+    origin: third-party
+    subject: a close-up of hand-drawn Malaysian batik fabric from Terengganu showing a large red flower outlined by white wax-resist lines
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: Many lengths of batik fabric hung in rows, in rich reds, purples, pinks, greens and oranges, each printed with different floral, leaf and geometric wax-resist patterns
+    kind: actual
+    origin: third-party
+    subject: lengths of colourful patterned Malaysian batik fabric displayed on racks at a craft carnival in Terengganu
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 A length of plain white cloth goes onto a frame. A craftsperson dips a small copper pen — a canting, its spout no wider than a pencil tip — into a pot of melted wax, and begins drawing directly onto the fabric: not with pigment, but with wax that will refuse to take colour. Only after the wax has cooled and hardened does the cloth go into a dye bath. Wherever the wax sits, the dye can't reach — and when the wax is later boiled off, what's left is a pattern drawn not in colour, but in the absence of it.

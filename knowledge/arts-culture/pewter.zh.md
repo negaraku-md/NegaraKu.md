@@ -33,7 +33,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: "2026-07-24"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 sources:
   - title: "关于锡镴 (About Pewter)"
     url: "https://www.royalselangor.com/intl/about-pewter"
@@ -67,6 +67,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: 一名锡镴工匠手持工具加工在车床上旋转的大啤酒杯，金属屑卷曲而下，木制工作台上另聚放着约九个抛光后银亮的锡镴啤酒杯杯身
+    kind: actual
+    origin: third-party
+    subject: 一名马来西亚锡镴工匠在车床上车制啤酒杯，工作台上摆放着完成的锡镴啤酒杯
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: 一个抛光后的锡镴啤酒杯，配有粗厚的把手和横向环纹，镜面般银亮的表面在浅色背景前映着光
+    kind: actual
+    origin: third-party
+    subject: 一个完工抛光、带把手的锡镴啤酒杯
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 一座建立在锡矿之上的城市，最终为世界带来了一门金属工艺。吉隆坡之所以存在，是因为探矿者在巴生河与鹅麦河（Gombak）交汇处发现了锡矿。数十年后，一名少年锡匠为投身同一锡矿经济而来到此地，开始敲制供庙宇神台使用的香炉——他所开设的作坊，如今已是全球最大的锡镴制造商。

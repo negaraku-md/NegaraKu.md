@@ -16,7 +16,7 @@ keyTakeaways:
   - "لم تتّخذ الشركة اسمها الحالي إلا عام 1992، بعد مرسوم ملكي صدر عام 1979 من سلطان سلانغور."
 appliesTo: "كل مهتمّ بتقاليد الحِرَف الماليزية، أو تاريخ تعدين القصدير، أو شركة Royal Selangor"
 lang: "ar"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: حرفيّ بيوتر يستخدم أداة على كأس دوّار على مخرطة، ونُشارة المعدن تتلوّى منه، مع نحو تسعة أجسام كؤوس بيوتر فضية مصقولة مجمّعة على طاولة العمل الخشبية
+    kind: actual
+    origin: third-party
+    subject: عامل بيوتر ماليزي يُدير كأسًا على مخرطة، مع كؤوس بيوتر جاهزة مرتّبة على الطاولة
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: كأس بيوتر مصقول واحد بمقبض ضخم وتخطيطات أفقية، سطحه الفضي المرآتي يعكس الضوء أمام خلفية فاتحة
+    kind: actual
+    origin: third-party
+    subject: كأس بيوتر جاهز ومصقول بمقبض
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 مدينة قامت على القصدير انتهى بها الأمر إلى أن تُهدي العالمَ حرفةً معدنية. توجد كوالالمبور لأن المنقّبين عثروا على خام القصدير حيث يلتقي نهرا كلانغ (Klang) وغومباك (Gombak). وبعد عقود، بدأ صانع قصدير مراهق جاء للعمل في اقتصاد القصدير نفسه يطرق مباخرَ لمذابح المعابد — والورشة التي افتتحها هي اليوم أكبر صانع بيوتر على وجه الأرض.

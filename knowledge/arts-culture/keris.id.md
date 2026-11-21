@@ -39,7 +39,7 @@ faq:
     a: "Ya, tetapi jumlah empu mahir menurun drastis, menyulitkan pewarisan ilmu. UNESCO mendaftarkan penurunan ini sebagai tantangan utama kelestarian keris."
 
 lang: "id"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: Beberapa keris kerajaan antik berdiri tegak di dalam lemari pajang museum yang gelap, sarung peraknya yang panjang dan berukir dihiasi hulu berbentuk kepala burung yang ditempa halus, dengan pencahayaan yang membuat logamnya berkilau di tengah latar belakang yang teduh
+    kind: actual
+    origin: third-party
+    subject: koleksi keris Melayu kerajaan dengan hulu perak berbentuk kepala burung yang rumit, yang dikaitkan dengan Kesultanan Johor-Riau
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: Sebilah keris upacara berbilah lurus dengan hulu berukir gelap tergeletak di samping sarung kayunya yang panjang dan ramping di atas permukaan pucat, dengan kartu keterangan museum bertuliskan KERIS ALANG PAHANG di bawahnya
+    kind: actual
+    origin: third-party
+    subject: Keris Alang dari Pahang, sebilah keris upacara penanda kewibawaan pembesar, diletakkan di samping sarung kayunya
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Sebilah mata yang bergerigi seperti lidah api, ditempa dari besi dan nikel yang dilipat ratusan kali oleh tangan seorang empu — keris bukan sekadar senjata, tetapi denyut nadi peradaban Melayu. Ia diselipkan di pinggang pahlawan, dijunjung dalam adat istiadat kerajaan, dan diwariskan turun-temurun sebagai pusaka keluarga. Hingga saat ini, keris tetap menjadi lambang kedaulatan, keberanian, dan jati diri bangsa.
