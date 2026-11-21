@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_O
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: KLIAターミナル1の内部通路。湾曲した木製ルーバーのヴォールト天井、青いゲート案内標示、動く歩道があり、磨かれた床を一人の旅行者が歩いている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール国際空港、KLIAターミナル1の内部コンコース
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: KLIAターミナル1のコンコース。高いガラス壁を背に、森の空港を象徴する白く末広がりの鉄骨屋根の柱が立ち、通路沿いに青いMalaysia Airportsの改修工事用囲いが続く
+    kind: actual
+    origin: third-party
+    subject: Malaysia Airports（MAHB）のブランド表示があるKLIAターミナル1のコンコース
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 旅行者がマレーシアに降り立つとき、ほとんどいつも、彼らはひとつの会社が運営する空港に到着する。Malaysia Airports Holdings Berhad（MAHB）は、クアラルンプール国際空港——現在は KLIA ターミナル1・2としてブランドづけられる——と、同社自身の数え方によれば国内の39の空港、さらにイスタンブールのひとつの海外ゲートウェイを運営する。2025年には、国の空港運営者としては異例のものにもなった：もはや上場会社ではない、ということである。

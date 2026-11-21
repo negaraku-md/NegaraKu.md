@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: Pintu masuk melengkung Pantai Hospital Kuala Lumpur bercahaya pada waktu malam, papan tanda bercahaya 'PANTAI HOSPITAL KUALA LUMPUR' di atas anjung dan air pancut bercahaya ungu di laman hadapan
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur pada waktu malam — sebahagian daripada rangkaian Pantai Hospitals milik IHH Healthcare
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: Blok moden kelabu Prince Court Medical Centre di Kuala Lumpur dengan tulisan emas 'PRINCE COURT' dan lambang emas pada fasad atasnya, tumbuhan hijau jalan dan papan tanda di bawah
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Jalan Kia Peng, Kuala Lumpur — dimiliki oleh IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 Melangkah masuk ke hospital Pantai atau Gleneagles di Kuala Lumpur, sebuah wad Mount Elizabeth di Singapura, sebuah klinik Acibadem di Istanbul atau sebuah pusat Fortis di Delhi, dan anda sedang melangkah masuk ke dalam keluarga korporat yang sama. Keluarga itu ialah IHH Healthcare Berhad — sebuah syarikat yang beribu pejabat di Malaysia yang telah berkembang menjadi salah satu pengendali hospital swasta terbesar di dunia.

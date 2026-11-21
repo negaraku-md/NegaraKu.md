@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: A large petrochemical fertiliser plant seen across a river, with a long row of cooling-tower cells, blue process piping and a red-and-white chimney, set against green vegetation and a cloudy sky
+    kind: actual
+    origin: third-party
+    subject: the ASEAN Bintulu Fertiliser plant in Sarawak, a PETRONAS Chemicals-operated ammonia and urea petrochemical facility
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: A large white cylindrical storage tank behind a chain-link fence, marked 'PETRONAS 90 MLC' beside the green PETRONAS droplet logo, with piping and plant structures to one side under a blue sky with light cloud
+    kind: actual
+    origin: third-party
+    subject: a PETRONAS-branded storage tank at the Pengerang Integrated Complex in Johor
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 Almost every bag of fertiliser spread on a Malaysian farm, and a large share of the plastic resins moulded in the country's factories, trace back to one company: Petronas Chemicals Group Berhad. It is the chemicals arm of the national oil company, the biggest integrated chemicals producer in Malaysia, and — unusually for a state-linked business — a separately listed company that anyone can buy shares in.

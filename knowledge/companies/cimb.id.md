@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Menara modern berlapis kaca yang menampilkan logo CIMB merah dekat puncaknya berdiri di samping gedung Q Sentral di KL Sentral, dibingkai dedaunan pohon yang gelap
+    kind: actual
+    origin: third-party
+    subject: Menara CIMB modern di Kuala Lumpur Sentral, dilihat dari Taman Botani Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Bangunan warisan dua lantai era kolonial berwarna putih yang menampung sebuah cabang CIMB Bank, dengan papan nama CIMB BANK merah di atas pintu masuk lantai dasar
+    kind: actual
+    origin: third-party
+    subject: Cabang CIMB Bank di sebuah bangunan warisan di Jalan Bendahara, Kota Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB adalah bank yang hampir selalu Anda temui ke mana pun Anda melangkah dalam perniagaan Malaysia — dan semakin banyak di seluruh Asia Tenggara. Ia adalah bank universal, artinya ia melakukan segala hal mulai dari rekening tabungan pekerja bergaji hingga penerbitan obligasi bernilai miliaran ringgit dan akuisisi lintas batas, dan ia melakukannya tidak hanya di Malaysia tetapi juga melalui operasi besar di Indonesia, Thailand, dan Singapura.

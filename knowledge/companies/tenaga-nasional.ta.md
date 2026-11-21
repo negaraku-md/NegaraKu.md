@@ -30,7 +30,7 @@ faq:
     a: "தேசிய ஆற்றல் மாற்ற வரைபடத்தின் (NETR) இலக்குகளுக்கு இணங்க, புதுப்பிக்கத்தக்க ஆற்றலை உள்வாங்க மேம்படுத்தப்பட வேண்டிய தேசியக் கட்ட வலையமைப்பை TNB சொந்தமாக்கிச் செயல்படுத்துகிறது."
 
 lang: "ta"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: கோலாலம்பூர், Bangsar-இல் உள்ள Tenaga Nasional Berhad தலைமையகம்; அதன் மேற்கூரையில் சிவப்பு நிற TNB சின்னமும், நகர வானளாவிக் காட்சிக்கு மேலே ஒளிரும் 'TENAGA NASIONAL' பலகையும் கொண்ட உயரமான சாம்பல் நிற அலுவலகக் கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், Bangsar-இல் உள்ள Tenaga Nasional Berhad தலைமையகக் கட்டிடம்
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: கிள்ளானில் உள்ள Connaught Bridge மின் நிலையம்; பிரகாசமான நீல வானத்தின் கீழ் உயரமான சிவப்பு-வெள்ளை கோடுபோட்ட புகைபோக்கியுடன் கூடிய நீளமான செங்கல் மின் நிலையம்
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர் மாநிலம் கிள்ளானில் உள்ள TNB-இன் Connaught Bridge மின் நிலையம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 தீபகற்ப மலேசியாவில் உங்கள் வீட்டு விளக்குகள் ஒளிரும் ஒவ்வொரு முறையும், அந்த மின்சாரம் ஒரே ஒரு நிறுவனத்துக்குச் சொந்தமான கம்பிகள் வழியே பாய்ந்து வருவதற்கு நல்ல வாய்ப்பு உள்ளது: Tenaga Nasional Berhad. இது நாட்டின் மிகப்பெரிய மின்சார பயன்பாட்டு நிறுவனம் ஆகும்; 2025 செப்டம்பர் 30 நிலவரப்படி, தீபகற்ப மலேசியா, Sabah மற்றும் Labuan ஆகியவற்றில் 11 மில்லியனுக்கும் மேற்பட்ட வாடிக்கையாளர்களைக் கொண்டுள்ளது.

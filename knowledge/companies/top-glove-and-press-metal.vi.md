@@ -32,7 +32,7 @@ faq:
     a: "Đúng. Cả hai đều giao dịch trên Thị trường Chính của Bursa Malaysia. Top Glove còn niêm yết thêm trên Bảng Chính của Singapore Exchange."
 
 lang: "vi"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: Một kỹ thuật viên mặc áo blouse trắng, đeo kính bảo hộ và găng tay nitrile màu xanh giơ lên một chiếc găng tay thử chứa đầy nước trong suốt để kiểm tra rò rỉ, với các hàng găng tay treo trên giá kiểm tra phía sau trong một phòng thí nghiệm
+    kind: representative
+    origin: third-party
+    subject: kiểm tra chất lượng găng tay y tế dùng một lần trong phòng thí nghiệm (minh họa cho việc kiểm tra chất lượng của ngành găng tay; không phải cơ sở của Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 Hai công ty Malaysia dẫn đầu lĩnh vực của mình trên toàn cầu. Một là nhà sản xuất găng tay dùng một lần lớn nhất thế giới; công ty kia là nhà luyện nhôm nguyên sinh lớn nhất Đông Nam Á. Cả hai đều không phải là những cái tên quen thuộc với công chúng bên ngoài giới đầu tư, nhưng Top Glove và Press Metal cho thấy một nền kinh tế cỡ trung có thể tạo ra các đơn vị dẫn đầu toàn cầu trong một lĩnh vực đơn lẻ như thế nào.

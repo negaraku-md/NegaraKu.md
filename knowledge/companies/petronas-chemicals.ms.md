@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: Sebuah loji baja petrokimia besar dilihat merentasi sungai, dengan barisan panjang sel menara penyejuk, paip proses biru dan cerobong merah dan putih, berlatarkan tumbuhan hijau dan langit berawan
+    kind: actual
+    origin: third-party
+    subject: Loji ASEAN Bintulu Fertiliser di Sarawak, sebuah kemudahan petrokimia ammonia dan urea yang dikendalikan PETRONAS Chemicals
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: Sebuah tangki simpanan silinder putih besar di belakang pagar rantai, bertanda 'PETRONAS 90 MLC' bersebelahan logo titisan PETRONAS hijau, dengan paip dan struktur loji di sisinya di bawah langit biru berawan tipis
+    kind: actual
+    origin: third-party
+    subject: Sebuah tangki simpanan berjenama PETRONAS di Pengerang Integrated Complex di Johor
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 Hampir setiap beg baja yang ditabur di ladang Malaysia, dan sebahagian besar resin plastik yang diacu di kilang-kilang negara ini, berasal daripada satu syarikat: Petronas Chemicals Group Berhad. Ia ialah lengan bahan kimia syarikat minyak negara, pengeluar bahan kimia bersepadu terbesar di Malaysia, dan — luar biasa bagi sebuah perniagaan berkaitan kerajaan — sebuah syarikat yang tersenarai secara berasingan yang sahamnya boleh dibeli oleh sesiapa sahaja.

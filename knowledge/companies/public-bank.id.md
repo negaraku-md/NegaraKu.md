@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: Menara Public Bank putih yang ramping dengan latar langit biru, logo Public Bank segi delapan berwarna merah dekat puncaknya dan papan nama PUBLIC BANK merah di atas pintu masuk cabang lantai dasar
+    kind: actual
+    origin: third-party
+    subject: Public Bank Tower di Johor Bahru, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: Menara Public Bank berlapis batu cokelat muda dan bertingkat di bawah langit pucat, logo Public Bank segi delapan merah terpampang pada panel dekat mahkotanya yang berbentuk piramida
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank, menara kantor pusat berlapis batu setinggi 170 m, Jalan Ampang, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
 ---
 
 Sedikit perusahaan Malaysia yang begitu erat terkait dengan satu pendiri seperti Public Bank dengan Tan Sri Teh Hong Piow. Berawal dari satu cabang di pusat Kuala Lumpur pada 1966, ia membangun pemberi pinjaman yang tumbuh menjadi salah satu grup perbankan terbesar di negara ini — dan termasyhur bukan karena ukuran melainkan karena kehati-hatian, membukukan rasio kredit macet terendah di sektor perbankan dekade demi dekade.

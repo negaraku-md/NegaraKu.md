@@ -30,7 +30,7 @@ faq:
     a: "YTL Power, Kulai, Johor में एक बड़ा डेटा-सेंटर पार्क बना रही है, और उसने एक पहली Nvidia-संचालित AI सुविधा पूरी की जिसके अक्टूबर 2025 के अंत में परिचालन में आने की घोषणा हुई।"
 
 lang: "hi"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: Sentul Park से गुज़रता एक शांत ताड़-से-घिरा बुलेवार्ड जिसके सड़क किनारे SENTUL PARK और SENTUL WORKS पढ़े जाने वाले ऊँचे बैनर खंभे हैं
+    kind: representative
+    origin: third-party
+    subject: Sentul Park से गुज़रता पेड़ों से घिरा बुलेवार्ड, YTL Land (YTL Corporation की संपत्ति शाखा) द्वारा शहरी-पुनरुद्धार विकास, कुआलालंपुर — SENTUL PARK / SENTUL WORKS बैनर दिखाई दे रहे हैं; YTL मूल नाम फ़्रेम में नहीं दिखता
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Lot 10 शॉपिंग केंद्र के प्रवेश का सड़क-स्तरीय दृश्य, उसके हरे मुखौटे, ऊपर Isetan The Japan Store साइनबोर्ड और भूतल पर एक H&M स्टोर के साथ
+    kind: representative
+    origin: third-party
+    subject: Jalan Bukit Bintang पर Lot 10 शॉपिंग केंद्र, एक YTL Corporation-स्वामित्व वाला खुदरा स्थल (जिसमें Isetan The Japan Store है), कुआलालंपुर — पुष्ट YTL संपत्ति, YTL मूल नाम फ़्रेम में नहीं दिखता
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL मलेशिया के सबसे बड़े विविधीकृत समूहों में से एक है, जिसे किसी एकल कंपनी के रूप में नहीं, बल्कि बुनियादी ढाँचे के इर्द-गिर्द बने सूचीबद्ध और असूचीबद्ध व्यवसायों के एक परिवार के रूप में सबसे बेहतर समझा जाता है।

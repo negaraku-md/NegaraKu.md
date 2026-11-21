@@ -29,7 +29,7 @@ faq:
     a: "กองทุนการลงทุนของรัฐมาเลเซีย Permodalan Nasional Berhad (PNB) เป็นผู้ถือหุ้นรายใหญ่ในบริษัท Sime Darby และ PNB เป็นผู้ขายส่วนได้เสีย UMW ที่ Sime Darby Berhad เข้าซื้อ เปอร์เซ็นต์การถือหุ้นที่แน่นอนเปลี่ยนแปลงไปตามเวลาและควรตรวจสอบกับเอกสารยื่นต่อ Bursa Malaysia ล่าสุดของแต่ละบริษัท"
 
 lang: "th"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: ถังเก็บน้ำมันปาล์มดิบสีเทาขนาดใหญ่ที่มีโลโก้ Sime Darby สีแดง ที่คอมเพล็กซ์อุตสาหกรรมในกูนัก รัฐซาบาห์ มีต้นมะพร้าวอยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: ถังเก็บน้ำมันปาล์มดิบ (CPO) ของ Sime Darby ที่กูนัก รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: เสาหลักเขตสีขาวของ Sime Darby Plantation ที่มีโลโก้ Sime Darby สีแดง ตั้งอยู่ในพื้นคลุมดินสีเขียวหน้ากำแพงต้นปาล์มน้ำมัน มีสายไฟเหนือศีรษะ
+    kind: actual
+    origin: third-party
+    subject: เสาหลักเขตสวน Sime Darby Plantation ริมถนนสายซันดากัน–ลาฮัดดาตู รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 หนึ่งในชื่อองค์กรที่เก่าแก่ที่สุดของมาเลเซียปัจจุบันเป็นสามบริษัท ไม่ใช่หนึ่ง

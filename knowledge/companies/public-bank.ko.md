@@ -31,7 +31,7 @@ faq:
     a: "네. Public Islamic Bank Berhad는 완전 소유의 본격적인 이슬람 금융 자회사로, 샤리아(Shariah) 준수 예금, 금융, 기타 상품을 제공하며 그룹의 전통 금융 사업과 나란히 운영됩니다."
 
 lang: "ko"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: 푸른 하늘을 배경으로 한 가느다란 흰색 Public Bank 타워, 상부 근처에 빨간 팔각형 Public Bank 로고가 있고 1층 지점 입구 위에 빨간 PUBLIC BANK 간판이 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 조호르주 조호바루의 Public Bank Tower
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: 옅은 하늘 아래 황갈색 석재로 마감된 계단식 Menara Public Bank 타워, 피라미드형 꼭대기 근처 패널에 빨간 팔각형 Public Bank 로고가 표시되어 있다
+    kind: actual
+    origin: third-party
+    subject: 높이 170m의 석재 마감 본사 타워 Menara Public Bank, 쿠알라룸푸르 Jalan Ampang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
 ---
 
 Public Bank만큼 단 한 명의 창업자와 밀접하게 엮인 말레이시아 회사는 드뭅니다 — 바로 Tan Sri Teh Hong Piow입니다. 1966년 쿠알라룸푸르 도심의 지점 하나로 시작한 그는 이 나라에서 가장 큰 은행 그룹의 하나로 자라난 은행을 일궜으며 — 규모보다는 신중함으로 더 유명하여, 수십 년에 걸쳐 은행 부문에서 가장 낮은 부실채권 비율을 기록했습니다.

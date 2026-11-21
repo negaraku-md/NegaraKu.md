@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: Pabrik pupuk petrokimia besar dilihat dari seberang sungai, dengan deretan panjang sel menara pendingin, pipa proses berwarna biru dan cerobong merah-putih, berlatar vegetasi hijau dan langit berawan
+    kind: actual
+    origin: third-party
+    subject: pabrik ASEAN Bintulu Fertiliser di Sarawak, fasilitas petrokimia amonia dan urea yang dioperasikan PETRONAS Chemicals
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: Tangki penyimpanan silinder putih besar di balik pagar kawat, bertanda 'PETRONAS 90 MLC' di samping logo tetesan PETRONAS hijau, dengan pipa-pipa dan struktur pabrik di satu sisi di bawah langit biru berawan tipis
+    kind: actual
+    origin: third-party
+    subject: tangki penyimpanan bermerek PETRONAS di Pengerang Integrated Complex di Johor
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 Hampir setiap karung pupuk yang ditaburkan di ladang Malaysia, dan sebagian besar resin plastik yang dicetak di pabrik-pabrik negara ini, berujung pada satu perusahaan: Petronas Chemicals Group Berhad. Ia adalah lengan kimia dari perusahaan minyak nasional, produsen kimia terintegrasi terbesar di Malaysia, dan — tidak lazim untuk bisnis yang terkait negara — sebuah perusahaan yang tercatat terpisah yang sahamnya dapat dibeli siapa pun.

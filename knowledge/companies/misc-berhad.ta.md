@@ -29,7 +29,7 @@ faq:
     a: "MISC குழுமம் FY2024-ல் RM13,237.5 million வருவாயைப் புகாரளித்தது; இது FY2023-ன் RM14,271.7 million-ஐ விட 7.2% சரிவாகும்; வரிக்குப் பிந்தைய லாபம் RM1,233.2 million."
 
 lang: "ta"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: நீலப்பச்சை நீரில் அமைந்த கான்கிரீட் துறைமுகத்தின் வான்வழிக் காட்சி; உயரமான சாம்பல் நிற கடல்சார் ஏற்றுமதி கைகள் மற்றும் குழாய்கள் வரிசைகளைச் சுமந்து, முன்புறத்தில் நங்கூர தூண்கள், தொலைவில் கிரேன்கள் மற்றும் சேமிப்புத் தொட்டிகளுடன் கூடிய துறைமுகம்
+    kind: representative
+    origin: third-party
+    subject: சரவாக் மாநிலம் Bintulu-இல் உள்ள LNG ஏற்றுமதி முனையத்தில் கடல்சார் ஏற்றுமதி கைகள்; இங்கு MISC போன்றவற்றின் கப்பல்கள் மலேசிய திரவ இயற்கை எரிவாயுவை ஏற்றுகின்றன
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad என்பது மலேசியாவின் எரிசக்திப் பொருளாதாரத்தின் கடல்சார் பிரிவாகும் — நாட்டின் எரிவாயு மற்றும் எண்ணெயை உலகக் கடல்கள் முழுவதும் கொண்டு செல்லும் குழுமம்.

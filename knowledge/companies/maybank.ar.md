@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: الارتفاع الكامل لبرج Menara Maybank الأبيض أمام سماء زرقاء، مع لافتة Maybank صفراء وشعار رأس النمر مثبّتين عند تاجه فوق أسطح المدينة
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank كما يُرى من ملعب Chin Woo أمام سماء زرقاء، كوالالمبور
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: سلّمان كهربائيان متوأمان تحت مظلة مقبّبة يؤديان صعودًا إلى Menara Maybank، مع شعار Maybank أصفر على لوحة ترحيب تسمّي الفرع الرئيسي في كوالالمبور عند أسفل الدرج
+    kind: actual
+    origin: third-party
+    subject: مدخل السلّم الكهربائي إلى Menara Maybank مع لافتة ترحيب من Maybank، كوالالمبور
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 افتح حسابًا جاريًا في أي مكان في ماليزيا تقريبًا، وثمة احتمال كبير أن يحمل شعار رأس النمر الخاص بماي بنك. فـMalayan Banking Berhad أكبر بنك في البلاد — بالأصول في ميزانيته العمومية وبما تقول السوق إنه يساويه — وإحدى أكبر المجموعات المصرفية في جنوب شرق آسيا. يبيّن هذا الملف ما تفعله المجموعة، وأين تعمل، ومن يملكها.

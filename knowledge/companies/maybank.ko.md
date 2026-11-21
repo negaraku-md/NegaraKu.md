@@ -31,7 +31,7 @@ faq:
     a: "Maybank2u는 말레이시아 개인 고객을 위한 Maybank의 온라인·모바일 뱅킹 브랜드로, 계좌 조회, 이체, 공과금 납부 등 일상적 은행 업무를 아우릅니다. 이 나라에서 가장 널리 쓰이는 디지털 뱅킹 서비스의 하나입니다."
 
 lang: "ko"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: 푸른 하늘을 배경으로 한 흰색 Menara Maybank 타워의 전체 높이, 도시 지붕 위로 꼭대기에 노란색 Maybank 간판과 호랑이 머리 로고가 달려 있다
+    kind: actual
+    origin: third-party
+    subject: 푸른 하늘을 배경으로 Chin Woo 경기장에서 바라본 Menara Maybank, 쿠알라룸푸르
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: 돔형 지붕 아래 Menara Maybank로 이어지는 쌍둥이 에스컬레이터, 계단 아래 환영 안내판에 노란 Maybank 로고와 KL 본점 안내가 보인다
+    kind: actual
+    origin: third-party
+    subject: Maybank 환영 간판이 있는 Menara Maybank의 에스컬레이터 입구, 쿠알라룸푸르
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 말레이시아 거의 어디에서든 당좌계좌를 열면, 그 계좌에 Maybank의 호랑이 머리 로고가 찍혀 있을 가능성이 높습니다. Malayan Banking Berhad는 이 나라 최대 은행이며 — 대차대조표상의 자산으로 보나 주식시장이 매기는 가치로 보나 — 동남아시아에서 가장 큰 은행 그룹의 하나입니다. 이 프로필은 이 그룹이 무엇을 하고, 어디에서 영업하며, 누가 소유하는지를 정리합니다.

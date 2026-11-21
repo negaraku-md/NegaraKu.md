@@ -31,7 +31,7 @@ faq:
     a: "예. RHB는 자회사 RHB Islamic Bank Berhad를 통해 샤리아(Shariah) 준수 금융을 제공합니다. 이슬람 금융은 그룹 국내 대출의 상당한 비중을 차지했으며 — RHB는 FY2025에 이슬람 금융이 국내 총대출의 46.4%라고 보고했습니다."
 
 lang: "ko"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: 벽돌 포장 교차로 건너편에서 바라본 흰색 2층 모퉁이 RHB 은행 지점, 빨간 다이아몬드 로고와 함께 RHB Islamic 및 RHB Bank라고 쓰인 파란 간판 띠가 있고, 맑고 푸른 하늘 아래 앞마당에 시장 천막이 설치되어 있다
+    kind: actual
+    origin: third-party
+    subject: 밝고 푸른 하늘 아래 RHB Bank와 RHB Islamic 간판이 달린 느그리슴빌란주 Seremban 2의 RHB 은행 지점
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB는 대부분의 말레이시아인이 거리의 은행 지점, ATM 카드, 또는 주택담보대출 안내 책자에서 알아보는 이름의 하나입니다 — 그러나 그 뒤의 그룹은 소매 금융을 훨씬 넘어 이슬람 금융, 투자은행, 보험, 그리고 동남아시아 전역의 시장으로 뻗어 있습니다. 이 페이지는 RHB Banking Group이 무엇이고, 어떻게 구성되어 있으며, 누가 소유하고, 왜 중요한지에 대한 중립적·사실적 개관입니다.

@@ -31,7 +31,7 @@ faq:
     a: "TM Global เป็นแขนงขายส่งของ TM (ในอดีตเรียกว่า TM Wholesale ด้วย) มันดำเนินการโครงข่ายหลักไฟเบอร์แห่งชาติและจุดขึ้นบกเคเบิลใต้น้ำของมาเลเซีย โดยขายความจุให้ผู้ให้บริการรายอื่นและผู้ให้บริการระหว่างประเทศ เนื่องจากเครือข่ายคู่แข่งมักวิ่งอยู่บนโครงสร้างพื้นฐานนี้ TM Global จึงทำให้ TM เป็นผู้ให้บริการโครงข่ายหลักสำหรับการเชื่อมต่อส่วนใหญ่ของประเทศ ไม่ใช่เพียง ISP รายย่อย"
 
 lang: "th"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: อาคาร Menara TM ทรงโค้งเอียงอันเป็นเอกลักษณ์ มีโลโก้ TM บนสันด้านบนและชั้นชมวิวทรงจานบิน ตั้งตระหง่านทางขวาตัดกับท้องฟ้าสีฟ้าข้างอาคารสำนักงานทรงแปดเหลี่ยม มีสะพานรถไฟยกระดับพาดผ่านด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: Menara TM มองข้างอาคารใกล้เคียงข้ามทางด่วนยกระดับ เห็นโลโก้ TM บนยอด Lembah Pantai กัวลาลัมเปอร์
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: ภาพเต็มของหน้าอาคารโค้งสีเงินของ Menara TM และยอดแหลมทรงใบมีดที่มีชั้นชมวิวทรงจานกลม ตัดกับท้องฟ้าครึ้มสีเทาเหนืออาคารเมืองที่ต่ำกว่า
+    kind: actual
+    origin: third-party
+    subject: ภาพเต็มความสูงของ Menara TM และชั้นชมวิวทรงจานบินใต้ท้องฟ้าสีเทาครึ้ม กัวลาลัมเปอร์
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
 ---
 
 สายบรอดแบนด์ไฟเบอร์ วงจรองค์กร และเคเบิลข้อมูลใต้ทะเลเกือบทุกเส้นในมาเลเซียแตะต้องบริษัทหนึ่งก่อนจะไปถึงใครก็ตาม Telekom Malaysia Berhad (TM) เป็นรายเดิมแห่งชาติ — ผู้ให้บริการที่สร้างเครือข่ายพื้นฐานส่วนใหญ่ของประเทศและยังคงเป็นเจ้าของโครงข่ายหลักที่คู่แข่งและผู้ให้บริการระหว่างประเทศพึ่งพา

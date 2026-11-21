@@ -29,7 +29,7 @@ faq:
     a: "Oui. Sunway Healthcare Holdings a été admise à la cote du Marché principal de Bursa Malaysia sous le nom de SUNMED le 18 mars 2026. Le fonds GIC de Singapour avait auparavant accepté, en juin 2021, d'investir RM750 millions pour une participation de 16 % dans l'activité santé."
 
 lang: "fr"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Vue rapprochée de la façade de thème égyptien de Sunway Pyramid avec un grand toit en pyramide et un sphinx-lion assis à côté d'un panneau d'entrée « Shopping Mall / Theme Park »
+    kind: actual
+    origin: third-party
+    subject: Façade avant du centre commercial Sunway Pyramid montrant la pyramide et le sphinx à tête de lion, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Vue aérienne de la ville nouvelle de Bandar Sunway montrant le centre commercial Sunway Pyramid, l'hôtel de villégiature, le lagon et les tours résidentielles de grande hauteur regroupées dans la vallée de Klang
+    kind: actual
+    origin: third-party
+    subject: Vue aérienne de la ville nouvelle intégrée Bandar Sunway de Sunway Group avec le centre commercial pyramide, le complexe de villégiature, le lagon et les tours résidentielles, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Le groupe Sunway transforme des terrains en municipalités (townships) complètes — logements, centres commerciaux, hôpitaux, universités et parcs à thème sur un seul plan directeur — puis continue d'exploiter ce qu'il construit.

@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: Tòa tháp Menara TM đặc trưng nghiêng và cong với biểu tượng TM trên sống lưng phía trên và một sân thượng ngắm cảnh hình đĩa bay, vươn lên bên phải trên nền trời xanh cạnh một tòa tháp văn phòng hình bát giác, một cầu cạn đường sắt trên cao cắt ngang tiền cảnh
+    kind: actual
+    origin: third-party
+    subject: Menara TM nhìn bên cạnh một tòa tháp lân cận qua một đường cao tốc trên cao, biểu tượng TM hiện rõ trên chóp tháp, Lembah Pantai, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: Toàn bộ đường cong của mặt tiền bạc cong của Menara TM và chóp nhọn hình lưỡi dao trên đỉnh có sân thượng ngắm cảnh hình đĩa, in trên nền trời xám u ám nặng nề phía trên các tòa nhà thành phố thấp hơn
+    kind: actual
+    origin: third-party
+    subject: Cảnh nhìn toàn chiều cao của Menara TM và sân thượng ngắm cảnh hình đĩa bay dưới bầu trời xám trầm, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
 ---
 
 Gần như mỗi đường băng thông rộng cáp quang, mỗi mạch doanh nghiệp và mỗi cáp dữ liệu dưới biển ở Malaysia đều chạm vào một công ty trước khi đến với bất kỳ ai khác. Telekom Malaysia Berhad (TM) là nhà mạng chủ đạo quốc gia — nhà mạng đã xây dựng phần lớn mạng cố định của đất nước và vẫn sở hữu trục xương sống mà các đối thủ và các hãng vận tải quốc tế phụ thuộc vào.

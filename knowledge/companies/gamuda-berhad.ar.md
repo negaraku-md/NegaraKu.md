@@ -32,7 +32,7 @@ faq:
     a: "أسواقها الخارجية الرئيسية هي أستراليا وتايوان للبناء، وفيتنام والمملكة المتحدة وسنغافورة وأستراليا للعقارات."
 
 lang: "ar"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: نصب مدخل مكتوب عليه GAMUDA GARDENS بأحرف بيضاء كبيرة مع شعار قطرة الماء الخضراء، أمام أعمدة خشبية نحتية ومساحات خضراء
+    kind: actual
+    origin: third-party
+    subject: علامة GAMUDA GARDENS وشعار قطرة الماء على نصب مدخل المدينة المصغّرة، راوانغ، سلانغور
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: سكة حديد نقل سريع جماعي مرتفعة تؤدي إلى محطة Kwasa Damansara MRT، مع دعامات خرسانية رمادية للجسر ورصيف مظلّل تحت سماء مشرقة غائمة
+    kind: representative
+    origin: third-party
+    subject: محطة Kwasa Damansara MRT، محطة مرتفعة على خطوط MRT في وادي كلانغ نُفّذت أعمالها تحت الأرض على يد MMC-Gamuda (مشروع السكك الحديدية المشترك لـ Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 بدأت Gamuda بطريق سريع ماليزي ونمت لتصبح من أكبر مقاولي حفر الأنفاق والسكك الحديدية في المنطقة. واليوم، تقع حصة متنامية من أعمالها خارج ماليزيا.

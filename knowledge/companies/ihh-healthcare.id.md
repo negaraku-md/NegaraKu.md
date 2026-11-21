@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: Pintu masuk melengkung Pantai Hospital Kuala Lumpur yang bercahaya pada malam hari, papan nama 'PANTAI HOSPITAL KUALA LUMPUR' yang menyala di atas serambi dan air mancur bercahaya ungu di pelataran
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur pada malam hari — bagian dari jaringan Pantai Hospitals milik IHH Healthcare
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: Blok modern berwarna kelabu Prince Court Medical Centre di Kuala Lumpur dengan tulisan 'PRINCE COURT' emas dan lambang emas pada fasad bagian atas, tanaman hijau tepi jalan dan papan nama di bawahnya
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Jalan Kia Peng, Kuala Lumpur — dimiliki oleh IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 Masuklah ke rumah sakit Pantai atau Gleneagles di Kuala Lumpur, bangsal Mount Elizabeth di Singapura, klinik Acibadem di Istanbul, atau pusat Fortis di Delhi, dan Anda sedang melangkah ke dalam keluarga korporat yang sama. Keluarga itu adalah IHH Healthcare Berhad — perusahaan yang berkantor pusat di Malaysia yang telah tumbuh menjadi salah satu operator rumah sakit swasta terbesar di dunia.

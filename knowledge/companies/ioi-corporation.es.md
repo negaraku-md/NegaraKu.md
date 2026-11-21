@@ -30,7 +30,7 @@ faq:
     a: "En Malasia (incluidos Johor, Malaca, Negeri Sembilan, Pahang, Sabah y Sarawak) y en Indonesia (Kalimantan Occidental y Central)."
 
 lang: "es"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: Una torre azul de refinería industrial de aceite de palma marcada con un gran 'IOI' y el cartel del logotipo 'IOI EDIBLE OILS' en Sandakan, Sabah, respaldada por colinas boscosas con palmeras al frente
+    kind: actual
+    origin: third-party
+    subject: El complejo de refinería de aceite de palma IOI Edible Oils en Sandakan, Sabah, parte de la fabricación basada en recursos de IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: El atrio interior de varios niveles de IOI City Mall 2, con altas pancartas promocionales rosas 'IOi CiTY MALL 2' colgando sobre balcones curvados bordeados de tiendas
+    kind: actual
+    origin: third-party
+    subject: Atrio interior de IOI City Mall 2, la segunda fase de IOI City Mall, Putrajaya
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 Una empresa que empezó su vida vendiendo gases industriales cultiva ahora suficiente palma aceitera para llenar una reserva de tierras del tamaño de un pequeño distrito, y convierte esa fruta en todo, desde aceite de cocina hasta los ácidos grasos del interior de su jabón.

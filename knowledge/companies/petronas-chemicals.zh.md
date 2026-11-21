@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: 隔河望去的一座大型石化化肥厂，一长排冷却塔单元、蓝色工艺管道和一根红白相间的烟囱，映衬绿色植被和多云的天空
+    kind: actual
+    origin: third-party
+    subject: 位于砂拉越的 ASEAN Bintulu Fertiliser 工厂，一座由 PETRONAS Chemicals 运营的氨和尿素石化设施
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: 一座大型白色圆柱形储罐位于铁丝网后方，标有 'PETRONAS 90 MLC' 字样和绿色 PETRONAS 水滴形徽标，一侧有管道和厂区结构，映衬蓝天和薄云
+    kind: actual
+    origin: third-party
+    subject: 位于柔佛 Pengerang Integrated Complex 的一座 PETRONAS 品牌储罐
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 几乎每一袋撒在马来西亚农田上的肥料，以及该国工厂里塑模成型的很大一部分塑料树脂，都可追溯到一家公司：国家石油化学集团有限公司（Petronas Chemicals Group Berhad）。它是国家石油公司的化学品臂膀、马来西亚最大的综合化学品生产商，而且——对一家与国家挂钩的企业来说颇不寻常地——是一家任何人都可以买入股份的独立上市公司。

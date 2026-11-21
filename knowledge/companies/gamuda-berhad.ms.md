@@ -32,7 +32,7 @@ faq:
     a: "Pasaran luar negara utamanya ialah Australia dan Taiwan untuk pembinaan, serta Vietnam, United Kingdom, Singapura dan Australia untuk hartanah."
 
 lang: "ms"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: Tugu pintu masuk bertulis GAMUDA GARDENS dalam huruf putih besar dengan logo titisan hijau, berlatarkan tiang kayu berukir dan tumbuhan hijau
+    kind: actual
+    origin: third-party
+    subject: Logo perkataan GAMUDA GARDENS dan logo titisan pada tugu pintu masuk bandar, Rawang, Selangor
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Landasan rel Transit Aliran Massa bertingkat menuju ke stesen MRT Kwasa Damansara, dengan tiang jejambat konkrit kelabu dan platform berkanopi di bawah langit cerah berawan
+    kind: representative
+    origin: third-party
+    subject: Stesen MRT Kwasa Damansara, stesen bertingkat pada laluan MRT Lembah Klang yang kerja bawah tanahnya disiapkan oleh MMC-Gamuda (usaha sama kejuruteraan rel Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda bermula dengan sebuah lebuh raya Malaysia dan berkembang menjadi salah satu kontraktor penerowongan dan rel terbesar di rantau ini. Hari ini, bahagian kerjanya yang semakin besar terletak di luar Malaysia.

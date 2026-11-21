@@ -28,7 +28,7 @@ faq:
     a: "Di bawah keputusan 2020, tarif tol dikurangi 18% mulai 1 Februari 2020 dan tidak ada kenaikan tol yang dijadwalkan sepanjang periode konsesi perpanjangan hingga 2058."
 
 lang: "id"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: Pemandangan melalui kaca depan mobil saat mendekati gerbang tol di jalan tol PLUS, dengan rambu jalur Touch 'n Go dan SmartTAG di atas gardu, pembatas jalur merah-putih mengarahkan lalu lintas, di bawah langit senja mendung
+    kind: actual
+    origin: third-party
+    subject: gerbang tol Tangkak di Exit 235 pada North-South Expressway yang dioperasikan PLUS
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: Gawang baja di atas jalan yang memasang papan pesan variabel oranye membentang di atas lajur-lajur North-South Expressway, dengan lalu lintas lengang dan kerucut pekerjaan jalan di depan serta pepohonan tepi jalan di bawah langit kelabu berawan
+    kind: actual
+    origin: third-party
+    subject: gawang papan pesan variabel di atas jalan yang membentang di North-South Expressway (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 Setiap kali Anda berkendara dari Bukit Kayu Hitam di utara ke Johor Bahru di selatan tanpa berhenti di lampu lalu lintas, Anda sebenarnya melintasi aset sebuah perusahaan: PLUS Malaysia Berhad. Ia bukan lembaga pemerintah, tetapi juga bukan perusahaan swasta biasa — ia sebuah pemegang konsesi yang menjalankan tulang punggung jalan raya negara di bawah perjanjian jangka panjang dengan pemerintah.

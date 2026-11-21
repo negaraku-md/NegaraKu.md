@@ -31,7 +31,7 @@ faq:
     a: "Maxis ส่งมอบ 5G ให้ลูกค้าผ่านข้อตกลงการเข้าถึงกับ Digital Nasional Berhad (DNB) ผู้ให้บริการเครือข่าย 5G ขายส่งที่เชื่อมโยงกับรัฐบาล ซึ่งลงนามในปี 2023 ในเดือนพฤศจิกายน 2024 ผู้กำกับดูแลเลือก U Mobile ไม่ใช่ Maxis ให้สร้างเครือข่าย 5G เครือข่ายที่สองที่วางแผนไว้ของประเทศ"
 
 lang: "th"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: อาคาร Menara Maxis หินสีแทนและกระจกสีเขียวโค้งขึ้นสู่ยอดทรงโค้งตัดกับท้องฟ้าที่มีเมฆ มองเห็นโลโก้ maxis และนาฬิกาดิจิทัลบนหน้าอาคารสูง พร้อมโลโก้ Suria KLCC บนฐานอาคารด้านล่าง
+    kind: actual
+    origin: third-party
+    subject: ภาพกลางวันของ Menara Maxis ตั้งตระหง่านเหนือห้างสรรพสินค้า Suria KLCC กัวลาลัมเปอร์ พร้อมโลโก้ maxis และนาฬิกาใกล้ยอด
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: ภาพมุมเงยยามค่ำคืนของหน้าอาคาร Menara Maxis ที่สว่างและสอบเรียว พร้อมป้ายโฆษณาส่องสว่างสูงที่มีโลโก้ maxis แขวนพาดชั้นล่างตัดกับท้องฟ้าสีดำ
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis ยามค่ำคืนมองจากฐานอาคาร พร้อมป้ายโฆษณาตราสินค้า maxis ขนาดใหญ่บนหน้าอาคารชั้นล่าง KLCC กัวลาลัมเปอร์
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
 ---
 
 เกือบทุกคนในมาเลเซียที่มีโทรศัพท์ เคยเป็นลูกค้า Maxis หรือ Hotlink มา ณ จุดใดจุดหนึ่ง เบื้องหลังสองแบรนด์ที่คุ้นเคยนั้นคือบริษัทเดียว — Maxis Berhad — ที่อยู่ในกลุ่มผู้ให้บริการโทรคมนาคมที่ใหญ่ที่สุดของประเทศ และเติบโตจากผู้ให้บริการมือถือเพียงอย่างเดียวสู่ผู้ให้บริการแบบหลอมรวมที่มีทั้งมือถือ บรอดแบนด์สำหรับบ้าน และการเชื่อมต่อสำหรับองค์กร

@@ -32,7 +32,7 @@ faq:
     a: "在建筑方面，其主要海外市场是澳大利亚和台湾；在房地产方面，则包括越南、英国、新加坡和澳大利亚。"
 
 lang: "zh"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: 入口纪念碑上用白色大字写着 GAMUDA GARDENS 并配有绿色水滴形徽标，映衬雕塑感的木桩和绿植
+    kind: actual
+    origin: third-party
+    subject: 城镇入口纪念碑上的 GAMUDA GARDENS 字样和水滴形徽标，雪兰莪万挠
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: 高架捷运轨道通往 Kwasa Damansara 捷运站，灰色混凝土高架桥墩和带雨棚的站台，映衬明亮多云的天空
+    kind: representative
+    origin: third-party
+    subject: Kwasa Damansara 捷运站，巴生谷捷运线上的一座高架车站，其地下工程由 MMC-Gamuda（Gamuda Berhad 的铁路工程合资企业）承建
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 金务大以一条马来西亚高速公路起家，成长为区域内最大的隧道与铁路承建商之一。如今，其业务中来自马来西亚以外的份额不断上升。

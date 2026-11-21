@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_f
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: Mọi người tụ tập bên ngoài lối vào chính của Axiata Arena bên dưới biển hiệu khổng lồ màu xanh-cánh sen 'axiata arena' trong một sự kiện thể thao
+    kind: actual
+    origin: third-party
+    subject: Đám đông ở lối vào chính của Axiata Arena, Bukit Jalil, trong một sự kiện
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: Bên trong chật kín của Axiata Arena trong một trận cầu lông tại SEA Games 2017, khán giả ngồi kín các khán đài màu xanh xếp tầng quanh sân
+    kind: actual
+    origin: third-party
+    subject: Bên trong Axiata Arena trong sự kiện cầu lông tại SEA Games 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
 ---
 
 Câu chuyện viễn thông lớn nhất của Malaysia không phải là một mạng lưới đơn lẻ mà là một công ty mẹ sở hữu các phần của những nhà mạng di động ở sáu quốc gia. Axiata Group Berhad tọa lạc trong một tòa tháp văn phòng tại Kuala Lumpur Sentral và kiểm soát, sở hữu một phần hoặc cùng vận hành các nhà mạng kết nối hàng trăm triệu người trên khắp Nam Á và Đông Nam Á.

@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_O
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: Pasillo interior de la Terminal 1 de KLIA con su techo abovedado de listones de madera curvados, señales azules de dirección a las puertas de embarque y una cinta transportadora, con un único viajero caminando por el suelo pulido
+    kind: actual
+    origin: third-party
+    subject: Explanada interior de la Terminal 1 de KLIA, Aeropuerto Internacional de Kuala Lumpur
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: Explanada de la Terminal 1 de KLIA que muestra las columnas blancas y abiertas de acero del techo del aeropuerto-bosque contra altos muros de cristal, con una valla publicitaria azul de mejoras de Malaysia Airports a lo largo del pasillo
+    kind: actual
+    origin: third-party
+    subject: Explanada de la Terminal 1 de KLIA con la marca de Malaysia Airports (MAHB)
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 Casi cada vez que un viajero aterriza en Malasia, llega a un aeropuerto gestionado por una sola empresa. Malaysia Airports Holdings Berhad (MAHB) opera el Aeropuerto Internacional de Kuala Lumpur —ahora con la marca KLIA Terminal 1 y Terminal 2— y, según su propio cómputo, 39 aeropuertos en todo el país, más una puerta de entrada en el extranjero en Estambul. En 2025 también se convirtió en algo inusual para un operador aeroportuario nacional: dejó de ser una sociedad cotizada.

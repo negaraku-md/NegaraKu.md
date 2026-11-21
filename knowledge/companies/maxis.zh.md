@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: 褐色石材与绿色玻璃的 Menara Maxis 大楼向上弯曲成拱形顶冠，映衬多云天空，立面高处可见 maxis 徽标和一个数字时钟，下方裙楼有 Suria KLCC 徽标
+    kind: actual
+    origin: third-party
+    subject: 白天拍摄的 Menara Maxis，耸立在吉隆坡 Suria KLCC 商场上方，顶冠附近可见 maxis 徽标和时钟
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: 从底部陡峭向上仰视的 Menara Maxis 夜间灯光立面，较低楼层横挂着一幅带有 maxis 徽标的高大灯光广告横幅，映衬黑色天空
+    kind: actual
+    origin: third-party
+    subject: 从底部仰视的夜间 Menara Maxis，较低立面挂有大幅 maxis 品牌广告横幅，吉隆坡 KLCC
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
 ---
 
 几乎每个有手机的马来西亚人，都曾在某个时刻成为 Maxis 或 Hotlink 的客户。在这两个耳熟能详的品牌背后，是单一一家公司——Maxis Berhad——它跻身本国最大的电信运营商之列，并已从一家纯移动运营商成长为提供移动、家庭宽带与企业连接的融合服务商。

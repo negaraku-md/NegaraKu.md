@@ -30,7 +30,7 @@ faq:
     a: "TNB posee y opera la red eléctrica nacional, que debe modernizarse para absorber la energía renovable, en consonancia con los objetivos de la Hoja de Ruta Nacional de Transición Energética (NETR)."
 
 lang: "es"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: La sede de Tenaga Nasional Berhad en Bangsar, Kuala Lumpur, un alto bloque de oficinas gris cuya azotea lleva el logotipo rojo de TNB y el letrero iluminado 'TENAGA NASIONAL' sobre el perfil urbano de la ciudad
+    kind: actual
+    origin: third-party
+    subject: Edificio de la sede de Tenaga Nasional Berhad en Bangsar, Kuala Lumpur
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: La central eléctrica de Connaught Bridge en Klang, una larga nave de generación de ladrillo rojo con una alta chimenea a rayas rojas y blancas bajo un cielo azul brillante
+    kind: actual
+    origin: third-party
+    subject: La central eléctrica Connaught Bridge de TNB en Klang, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 Cada vez que se encienden las luces en su hogar en la Península, hay muchas probabilidades de que la electricidad fluya por cables propiedad de una única empresa: Tenaga Nasional Berhad. Es la mayor empresa eléctrica del país, con más de 11 millones de clientes en Malasia Peninsular, Sabah y Labuan a fecha de 30 de septiembre de 2025.

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: 特徴的な傾いた湾曲形のMenara TMタワー。背骨上部にTMのロゴ、円盤型のスカイテラスを持ち、青空を背に右側の八角形オフィスタワーの隣にそびえる。手前を高架鉄道の高架橋が横切る
+    kind: actual
+    origin: third-party
+    subject: 高架道路越しに隣のタワーと並んで見えるMenara TM。尖塔にTMのロゴが見える、クアラルンプールのLembah Pantai
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: Menara TMの湾曲した銀色のファサードと、円盤型のスカイテラスを頂いた刃状の尖塔の全景。低層の街の建物の上に、重く垂れこめた灰色の曇り空を背にそびえる
+    kind: actual
+    origin: third-party
+    subject: どんよりとした灰色の空の下、円盤型のスカイテラスを備えたMenara TMの全高を望む、クアラルンプール
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
 ---
 
 マレーシアのほとんどすべての光ファイバーのブロードバンド回線、企業回線、海底データケーブルは、誰かに届く前にひとつの会社を経由する。Telekom Malaysia Berhad（TM）は国の既存事業者である——同国の固定網の大部分を築き、競合や国際キャリアが依存する基幹をいまなお所有する事業者である。

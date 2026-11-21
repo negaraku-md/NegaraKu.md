@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_f
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: Gente reunida frente a la entrada principal del Axiata Arena bajo la gigantesca señalización azul y magenta 'axiata arena' durante un evento deportivo
+    kind: actual
+    origin: third-party
+    subject: Multitudes en la entrada principal del Axiata Arena, Bukit Jalil, durante un evento
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: Interior abarrotado del Axiata Arena durante un partido de bádminton en los Juegos del Sudeste Asiático de 2017, con espectadores llenando las gradas azules escalonadas alrededor de la cancha
+    kind: actual
+    origin: third-party
+    subject: Interior del Axiata Arena durante el evento de bádminton de los Juegos del Sudeste Asiático de 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
 ---
 
 La mayor historia de las telecomunicaciones de Malasia no es una sola red, sino una sociedad de cartera que posee participaciones en operadoras móviles de seis países. Axiata Group Berhad se sitúa en una torre de oficinas de Kuala Lumpur Sentral y controla, posee en parte o dirige conjuntamente las operadoras que conectan a cientos de millones de personas en todo el Sur y el Sudeste de Asia.

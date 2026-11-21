@@ -32,7 +32,7 @@ faq:
     a: "Ses principaux marchés à l'étranger sont l'Australie et Taïwan pour la construction, et le Vietnam, le Royaume-Uni, Singapour et l'Australie pour l'immobilier."
 
 lang: "fr"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: Monument d'entrée portant l'inscription GAMUDA GARDENS en grandes lettres blanches avec le logo vert en forme de goutte, se détachant sur des poteaux de bois sculpturaux et de la verdure
+    kind: actual
+    origin: third-party
+    subject: Le logotype GAMUDA GARDENS et le logo en forme de goutte sur le monument d'entrée de la ville nouvelle, Rawang, Selangor
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Voie ferrée surélevée de transport rapide de masse menant à la station de métro Kwasa Damansara, avec des piles de viaduc en béton gris et un quai couvert sous un ciel lumineux et nuageux
+    kind: representative
+    origin: third-party
+    subject: La station de métro Kwasa Damansara, une station surélevée des lignes de métro de la vallée de Klang dont les travaux souterrains ont été réalisés par MMC-Gamuda (la coentreprise d'ingénierie ferroviaire de Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda a commencé avec une autoroute malaisienne et est devenue l'un des plus grands entrepreneurs de tunnels et de ferroviaire de la région. Aujourd'hui, une part croissante de son activité se situe hors de Malaisie.

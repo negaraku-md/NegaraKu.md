@@ -32,7 +32,7 @@ faq:
     a: "Sus principales mercados en el exterior son Australia y Taiwán para la construcción, y Vietnam, el Reino Unido, Singapur y Australia para la propiedad."
 
 lang: "es"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: Monumento de entrada que dice GAMUDA GARDENS en grandes letras blancas con el logotipo verde en forma de gota, dispuesto contra postes escultóricos de madera y vegetación
+    kind: actual
+    origin: third-party
+    subject: El logotipo GAMUDA GARDENS y el emblema en forma de gota en el monumento de entrada del municipio, Rawang, Selangor
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Vía elevada de tren de tránsito rápido masivo que conduce a la estación de MRT Kwasa Damansara, con pilares de viaducto de hormigón gris y un andén cubierto bajo un cielo brillante y nublado
+    kind: representative
+    origin: third-party
+    subject: La estación de MRT Kwasa Damansara, una estación elevada de las líneas de MRT del Valle de Klang cuyas obras subterráneas ejecutó MMC-Gamuda (la empresa conjunta de ingeniería ferroviaria de Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda empezó con una autopista malasia y creció hasta convertirse en uno de los mayores contratistas de túneles y ferrocarril de la región. Hoy, una parte creciente de su trabajo se sitúa fuera de Malasia.

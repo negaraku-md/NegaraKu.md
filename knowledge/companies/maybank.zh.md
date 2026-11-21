@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: 白色 Menara Maybank 大楼的全貌映衬蓝天，顶冠处安装有黄色 Maybank 标识和虎头徽标，高于城市屋顶
+    kind: actual
+    origin: third-party
+    subject: 从精武体育馆望向 Menara Maybank，映衬蓝天，吉隆坡
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: 穹顶雨棚下的双扶梯通向 Menara Maybank，台阶脚下的欢迎牌上有黄色 Maybank 徽标，标注着 KL Main Branch
+    kind: actual
+    origin: third-party
+    subject: 通往 Menara Maybank 的扶梯入口，带有 Maybank 欢迎标识，吉隆坡
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 在马来西亚几乎任何地方开一个往来账户，都很有可能会见到马来亚银行那个虎头标志。Malayan Banking Berhad 是本国最大的银行——无论按其资产负债表上的资产，还是按股市对它的估值——也是东南亚最大的银行集团之一。本篇概览说明这个集团做什么、在哪里经营，以及由谁拥有。

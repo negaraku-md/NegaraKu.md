@@ -31,7 +31,7 @@ faq:
     a: "ทั้งสอง CIMB มีสำนักงานใหญ่และจดทะเบียนในมาเลเซียแต่ดำเนินงานทั่วอาเซียน อินโดนีเซีย (ผ่าน CIMB Niaga) ไทย (CIMB Thai) และสิงคโปร์เป็นตลาดหลัก และกลุ่มนี้อธิบายว่าการดำเนินงานครอบคลุมราว 15 ตลาด"
 
 lang: "th"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: อาคารทันสมัยหุ้มกระจกที่มีโลโก้ CIMB สีแดงใกล้ยอด ตั้งอยู่ข้างอาคาร Q Sentral ที่ KL Sentral ล้อมด้วยใบไม้สีเข้ม
+    kind: actual
+    origin: third-party
+    subject: อาคาร CIMB ทันสมัยที่กัวลาลัมเปอร์เซ็นทรัล มองจากสวนพฤกษศาสตร์ Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: อาคารมรดกสองชั้นสีขาวยุคอาณานิคมที่เป็นสาขาธนาคาร CIMB มีป้าย CIMB BANK สีแดงเหนือทางเข้าชั้นล่าง
+    kind: actual
+    origin: third-party
+    subject: สาขาธนาคาร CIMB ในอาคารมรดกบนถนน Bendahara เมืองมะละกา
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB คือธนาคารที่คุณพบเจอแทบทุกหนทุกแห่งในการพาณิชย์ของมาเลเซีย — และมากขึ้นเรื่อย ๆ ทั่วเอเชียตะวันออกเฉียงใต้ มันเป็นธนาคารครบวงจร หมายความว่ามันทำทุกอย่างตั้งแต่บัญชีออมทรัพย์ของมนุษย์เงินเดือนไปจนถึงการออกพันธบัตรมูลค่าหลายพันล้านริงกิตและการเข้าซื้อกิจการข้ามพรมแดน และมันทำเช่นนั้นไม่เพียงในมาเลเซียแต่ผ่านการดำเนินงานขนาดใหญ่ในอินโดนีเซีย ไทย และสิงคโปร์

@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Una moderna torre revestida de cristal con un logotipo rojo de CIMB cerca de su parte superior, junto al edificio Q Sentral en KL Sentral, enmarcada por follaje oscuro de árboles
+    kind: actual
+    origin: third-party
+    subject: La moderna torre de CIMB en Kuala Lumpur Sentral, vista desde el Jardín Botánico Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Un edificio patrimonial blanco de dos pisos de la época colonial que alberga una sucursal de CIMB Bank, con un letrero rojo CIMB BANK sobre la entrada de la planta baja
+    kind: actual
+    origin: third-party
+    subject: La sucursal de CIMB Bank en un edificio patrimonial de la calle Bendahara, ciudad de Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB es el banco con el que te topas casi en cada esquina del comercio malasio — y cada vez más en todo el Sudeste Asiático. Es un banco universal, lo que significa que hace de todo, desde la cuenta de ahorro de un trabajador asalariado hasta emisiones de bonos por miles de millones de ringgit y adquisiciones transfronterizas, y lo hace no solo en Malasia, sino también a través de grandes operaciones en Indonesia, Tailandia y Singapur.

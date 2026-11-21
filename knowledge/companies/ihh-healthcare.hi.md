@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: रात में प्रकाशित Pantai Hospital Kuala Lumpur का घुमावदार प्रवेश, बरामदे के ऊपर प्रकाशित 'PANTAI HOSPITAL KUALA LUMPUR' साइन और प्रांगण में एक बैंगनी-प्रकाशित फ़व्वारा
+    kind: actual
+    origin: third-party
+    subject: रात में Pantai Hospital Kuala Lumpur — IHH Healthcare के Pantai Hospitals नेटवर्क का हिस्सा
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: कुआलालंपुर में Prince Court Medical Centre का धूसर आधुनिक ब्लॉक, ऊपरी मुखौटे पर उसके सुनहरे 'PRINCE COURT' अक्षर और सुनहरे प्रतीक के साथ, नीचे सड़क की हरियाली और साइनबोर्ड
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Jalan Kia Peng, कुआलालंपुर — IHH Healthcare के स्वामित्व में
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 कुआलालंपुर में किसी Pantai या Gleneagles अस्पताल, सिंगापुर में Mount Elizabeth वार्ड, इस्तांबुल में Acibadem क्लिनिक या दिल्ली में Fortis केंद्र में जाएँ, और आप एक ही कॉर्पोरेट परिवार में क़दम रख रहे हैं। वह परिवार IHH Healthcare Berhad है — एक मलेशिया-मुख्यालय वाली कंपनी जो दुनिया के सबसे बड़े निजी अस्पताल ऑपरेटरों में से एक के रूप में विकसित हुई है।

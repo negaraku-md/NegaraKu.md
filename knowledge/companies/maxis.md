@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: The tan stone and green-glass Menara Maxis tower curving up to an arched crown against a cloudy sky, the maxis logo and a digital clock visible high on its facade, the Suria KLCC logo on the podium below
+    kind: actual
+    origin: third-party
+    subject: Daytime view of Menara Maxis rising above the Suria KLCC mall, Kuala Lumpur, with the maxis logo and clock near its crown
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: A steep upward night view of Menara Maxis's tapering lit facade, with a tall illuminated advertising banner carrying the maxis logo hung across its lower floors against a black sky
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis at night viewed from the base, with a large maxis-branded advertising banner on its lower facade, KLCC, Kuala Lumpur
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
 ---
 
 Almost every Malaysian with a phone has, at some point, been a Maxis or Hotlink customer. Behind those two familiar brands sits a single company — Maxis Berhad — that ranks among the country's largest telecommunications operators and has grown from a mobile-only carrier into a converged provider of mobile, home broadband and enterprise connectivity.

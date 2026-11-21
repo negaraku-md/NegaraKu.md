@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: 頂部近くに赤いCIMBのロゴを掲げたガラス張りの近代的なタワーが、KL SentralのQ Sentralビルと並んで立ち、濃い木々の葉が縁取る
+    kind: actual
+    origin: third-party
+    subject: ペルダナ植物園から望む、クアラルンプール・セントラルの近代的なCIMBタワー
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: CIMB Bankの支店が入る白い植民地時代の2階建ての歴史的建造物。1階の入口の上に赤いCIMB BANKの標示がある
+    kind: actual
+    origin: third-party
+    subject: マラッカ市のBendahara通りにある歴史的建造物内のCIMB Bank支店
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB は、マレーシアの商取引のどこを向いてもほとんど必ず出会う銀行であり——そしてますます東南アジア全域でもそうなっている。それはユニバーサルバンクであり、給与所得者の貯蓄口座から数十億リンギット規模の債券発行や越境買収まですべてを手がけ、しかもマレーシアだけでなく、インドネシア、タイ、シンガポールの大規模な事業を通じてもそれを行う。

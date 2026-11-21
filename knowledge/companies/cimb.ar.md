@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: برج حديث مكسوّ بالزجاج يحمل شعار CIMB الأحمر قرب قمته واقفًا بجوار مبنى Q Sentral في KL Sentral، تؤطّره أوراق شجر داكنة
+    kind: actual
+    origin: third-party
+    subject: برج CIMB الحديث في Kuala Lumpur Sentral، كما يُرى من حديقة Perdana النباتية
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: مبنى تراثي أبيض من طابقين يعود إلى الحقبة الاستعمارية يضم فرعًا لبنك CIMB، مع لافتة CIMB BANK حمراء فوق مدخل الطابق الأرضي
+    kind: actual
+    origin: third-party
+    subject: فرع بنك CIMB في مبنى تراثي بشارع Bendahara، مدينة ملقا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 سي آي إم بي هو البنك الذي تصادفه في كل مكان تقريبًا في التجارة الماليزية — وعلى نحو متزايد عبر جنوب شرق آسيا. وهو بنك شامل، أي يفعل كل شيء من حساب توفير لعاملٍ براتب إلى إصدارات سندات بمليارات الرينغيت واستحواذات عابرة للحدود، ويفعل ذلك لا في ماليزيا وحدها بل عبر عمليات كبيرة في إندونيسيا وتايلاند وسنغافورة.

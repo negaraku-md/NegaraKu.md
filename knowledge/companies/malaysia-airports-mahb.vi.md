@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_O
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: Hành lang bên trong Nhà ga 1 của KLIA với trần vòm ốp nan gỗ cong, biển chỉ hướng cổng màu xanh và một băng chuyền đi bộ, một hành khách đơn độc đi dọc sàn nhà bóng loáng
+    kind: actual
+    origin: third-party
+    subject: Sảnh bên trong Nhà ga 1 của KLIA, Sân bay Quốc tế Kuala Lumpur
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: Sảnh Nhà ga 1 của KLIA cho thấy các cột thép mái trắng xòe của sân bay rừng in trên những bức tường kính cao, với một tấm quây xanh thông báo nâng cấp của Malaysia Airports chạy dọc hành lang
+    kind: actual
+    origin: third-party
+    subject: Sảnh Nhà ga 1 của KLIA với thương hiệu Malaysia Airports (MAHB)
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 Gần như mỗi lần một hành khách hạ cánh xuống Malaysia, họ đến một sân bay do một công ty vận hành. Malaysia Airports Holdings Berhad (MAHB) vận hành Sân bay Quốc tế Kuala Lumpur — nay được gắn thương hiệu KLIA Nhà ga 1 và Nhà ga 2 — và, theo cách đếm của chính mình, 39 sân bay trên khắp cả nước, cùng một cửa ngõ ở nước ngoài tại Istanbul. Vào năm 2025, nó cũng trở thành một điều bất thường đối với một đơn vị vận hành sân bay quốc gia: không còn là một công ty đại chúng.

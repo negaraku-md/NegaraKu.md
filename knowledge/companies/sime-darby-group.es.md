@@ -29,7 +29,7 @@ faq:
     a: "El fondo de inversión estatal malasio Permodalan Nasional Berhad (PNB) es un accionista importante en las empresas de Sime Darby, y PNB fue el vendedor de la participación en UMW que adquirió Sime Darby Berhad. Los porcentajes exactos de participación cambian con el tiempo y deben verificarse con las últimas presentaciones de cada empresa ante Bursa Malaysia."
 
 lang: "es"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: Grandes tanques grises de almacenamiento de aceite de palma crudo que llevan el logotipo rojo de Sime Darby en un complejo industrial en Kunak, Sabah, con un cocotero en primer plano
+    kind: actual
+    origin: third-party
+    subject: Tanques de almacenamiento de aceite de palma crudo (CPO) de Sime Darby en Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: Un pilar marcador blanco de Sime Darby Plantation con el logotipo rojo de Sime Darby alzándose entre una cubierta vegetal verde ante un muro de palmas de aceite, con líneas eléctricas aéreas por encima
+    kind: actual
+    origin: third-party
+    subject: Marcador al borde de la carretera de una finca de Sime Darby Plantation en la carretera Sandakan–Lahad Datu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 Uno de los nombres corporativos más antiguos de Malasia es ahora tres empresas, no una.

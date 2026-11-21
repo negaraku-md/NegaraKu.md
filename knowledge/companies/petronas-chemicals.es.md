@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: Una gran planta petroquímica de fertilizantes vista al otro lado de un río, con una larga fila de celdas de torres de refrigeración, tuberías de proceso azules y una chimenea roja y blanca, enmarcada por vegetación verde y un cielo nublado
+    kind: actual
+    origin: third-party
+    subject: la planta ASEAN Bintulu Fertiliser en Sarawak, una instalación petroquímica de amoníaco y urea operada por PETRONAS Chemicals
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: Un gran tanque de almacenamiento cilíndrico blanco detrás de una valla de malla metálica, marcado con 'PETRONAS 90 MLC' junto al logotipo verde de la gota de PETRONAS, con tuberías y estructuras de planta a un lado bajo un cielo azul con nubes ligeras
+    kind: actual
+    origin: third-party
+    subject: un tanque de almacenamiento con la marca de PETRONAS en el Pengerang Integrated Complex en Johor
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 Casi todos los sacos de fertilizante esparcidos en una granja malasia, y una gran parte de las resinas plásticas moldeadas en las fábricas del país, se remontan a una sola empresa: Petronas Chemicals Group Berhad. Es el brazo de químicos de la petrolera nacional, el mayor productor integrado de químicos de Malasia y —algo inusual para un negocio vinculado al Estado— una sociedad cotizada por separado en la que cualquiera puede comprar acciones.

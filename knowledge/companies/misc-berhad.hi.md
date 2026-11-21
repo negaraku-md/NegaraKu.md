@@ -29,7 +29,7 @@ faq:
     a: "MISC समूह ने वित्तीय वर्ष 2024 का राजस्व RM13,237.5 मिलियन बताया, जो वित्तीय वर्ष 2023 के RM14,271.7 मिलियन से 7.2% की गिरावट है, और कर-पश्चात लाभ RM1,233.2 मिलियन रहा।"
 
 lang: "hi"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: फ़िरोज़ी पानी पर एक कंक्रीट जेटी का हवाई दृश्य जिस पर ऊँची धूसर समुद्री लोडिंग भुजाओं और पाइपवर्क की कतारें हैं, अग्रभूमि में मूरिंग डॉल्फ़िन और दूर किनारे पर क्रेन तथा भंडारण टैंकों वाला एक बंदरगाह
+    kind: representative
+    origin: third-party
+    subject: Bintulu, सारावाक में LNG निर्यात टर्मिनल पर समुद्री लोडिंग भुजाएँ, जहाँ MISC जैसे वाहक मलेशियाई तरलीकृत प्राकृतिक गैस लादते हैं
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad मलेशिया की ऊर्जा अर्थव्यवस्था की समुद्री शाखा है — वह समूह जो देश की गैस और तेल को दुनिया के महासागरों के पार ले जाता है।

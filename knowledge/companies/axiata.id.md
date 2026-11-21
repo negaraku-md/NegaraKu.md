@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_f
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: Orang-orang berkumpul di luar pintu masuk utama Axiata Arena di bawah papan nama raksasa 'axiata arena' berwarna biru-magenta saat sebuah acara olahraga
+    kind: actual
+    origin: third-party
+    subject: Kerumunan di pintu masuk utama Axiata Arena, Bukit Jalil, saat sebuah acara
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: Interior Axiata Arena yang penuh sesak saat pertandingan bulu tangkis pada SEA Games 2017, penonton memenuhi tribun biru bertingkat di sekeliling lapangan
+    kind: actual
+    origin: third-party
+    subject: Interior Axiata Arena saat ajang bulu tangkis SEA Games 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
 ---
 
 Kisah telekomunikasi terbesar Malaysia bukanlah satu jaringan melainkan sebuah perusahaan induk yang memiliki bagian operator seluler di enam negara. Axiata Group Berhad bermarkas di sebuah gedung perkantoran di Kuala Lumpur Sentral dan mengendalikan, memiliki sebagian, atau menjalankan bersama operator-operator yang menghubungkan ratusan juta orang di seluruh Asia Selatan dan Tenggara.

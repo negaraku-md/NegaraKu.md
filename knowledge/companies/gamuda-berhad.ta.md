@@ -32,7 +32,7 @@ faq:
     a: "கட்டுமானத்திற்கு அதன் முதன்மை வெளிநாட்டுச் சந்தைகள் ஆஸ்திரேலியா மற்றும் தைவான்; சொத்துக்கு வியட்நாம் (Vietnam), UK, Singapore மற்றும் ஆஸ்திரேலியா ஆகும்."
 
 lang: "ta"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: பச்சை நிற கண்ணீர்த்துளி சின்னத்துடன் பெரிய வெள்ளை எழுத்துகளில் GAMUDA GARDENS என எழுதப்பட்ட நுழைவாயில் நினைவுத்தூண்; சிற்ப மரக் கம்பங்கள் மற்றும் பசுமைக்கு எதிராக அமைந்துள்ளது
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர் மாநிலம் Rawang-இல் உள்ள குடியிருப்பு நுழைவாயில் நினைவுத்தூணில் GAMUDA GARDENS சொல்-அடையாளமும் கண்ணீர்த்துளி சின்னமும்
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Kwasa Damansara MRT நிலையத்திற்குள் செல்லும் உயர்த்தப்பட்ட விரைவு போக்குவரத்து ரயில் பாதை; சாம்பல் நிற கான்கிரீட் பாலத் தூண்கள் மற்றும் மேற்கூரையிட்ட தளத்துடன், பிரகாசமான மேகமூட்டமான வானத்தின் கீழ்
+    kind: representative
+    origin: third-party
+    subject: கிள்ளான் பள்ளத்தாக்கு MRT பாதைகளில் உள்ள உயர்த்தப்பட்ட நிலையமான Kwasa Damansara MRT நிலையம்; இதன் நிலத்தடிப் பணிகள் MMC-Gamuda (Gamuda Berhad-இன் ரயில்-பொறியியல் கூட்டு முயற்சி) ஆல் வழங்கப்பட்டன
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda ஒரு மலேசிய நெடுஞ்சாலையுடன் தொடங்கி, பிராந்தியத்தின் மிகப்பெரிய சுரங்கம் தோண்டுதல் மற்றும் ரயில் ஒப்பந்ததாரர்களில் ஒன்றாக வளர்ந்தது. இன்று, அதன் பணியின் வளர்ந்துவரும் பங்கு மலேசியாவுக்கு வெளியே அமைந்துள்ளது.

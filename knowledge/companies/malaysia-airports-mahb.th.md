@@ -31,7 +31,7 @@ faq:
     a: "กลุ่ม Gateway Development Alliance: Khazanah Nasional และกองทุนสำรองเลี้ยงชีพลูกจ้าง (EPF) ในฐานะผู้ถือหุ้นหลักของมาเลเซีย ร่วมกับ Global Infrastructure Partners และ Abu Dhabi Investment Authority ตัวเลขที่รายงานระบุว่า Khazanah ถือหุ้นมากที่สุด EPF รองลงมา แล้วจึงเป็น GIP และ ADIA; รัฐบาลยังคงถือหุ้นพิเศษด้วย ตรวจสอบสัดส่วนที่แน่นอนกับการเปิดเผยข้อมูลอย่างเป็นทางการ"
 
 lang: "th"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_O
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: ทางเดินภายในของ KLIA Terminal 1 ที่มีเพดานโค้งระแนงไม้ ป้ายบอกทางประตูขึ้นเครื่องสีน้ำเงินและทางเลื่อน มีผู้โดยสารคนหนึ่งเดินอยู่บนพื้นขัดเงา
+    kind: actual
+    origin: third-party
+    subject: โถงภายในของ KLIA Terminal 1 ท่าอากาศยานนานาชาติกัวลาลัมเปอร์
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: โถง KLIA Terminal 1 แสดงเสาหลังคาเหล็กสีขาวแผ่กางแบบสนามบินในป่า ตัดกับผนังกระจกสูง พร้อมแผงกั้นสีน้ำเงินของการปรับปรุง Malaysia Airports เรียงตามทางเดิน
+    kind: actual
+    origin: third-party
+    subject: โถง KLIA Terminal 1 พร้อมตราสินค้า Malaysia Airports (MAHB)
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 เกือบทุกครั้งที่นักเดินทางลงจอดในมาเลเซีย พวกเขามาถึงท่าอากาศยานที่ดำเนินการโดยบริษัทหนึ่ง Malaysia Airports Holdings Berhad (MAHB) ดำเนินการท่าอากาศยานนานาชาติกัวลาลัมเปอร์ — ปัจจุบันใช้แบรนด์ KLIA อาคารผู้โดยสาร 1 และอาคารผู้โดยสาร 2 — และตามการนับของมันเอง ท่าอากาศยาน 39 แห่งทั่วประเทศ บวกกับประตูสู่ต่างประเทศหนึ่งแห่งในอิสตันบูล ในปี 2025 มันยังกลายเป็นสิ่งที่ผิดปกติสำหรับผู้ดำเนินการท่าอากาศยานแห่งชาติ: ไม่ใช่บริษัทมหาชนอีกต่อไป

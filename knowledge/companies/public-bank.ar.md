@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: برج Public Bank أبيض نحيل أمام سماء زرقاء، مع شعار Public Bank الأحمر الثماني الأضلاع قرب قمته ولافتة PUBLIC BANK حمراء فوق مدخل فرع الطابق الأرضي
+    kind: actual
+    origin: third-party
+    subject: برج Public Bank في جوهور بهرو، جوهور
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: برج Menara Public Bank المتدرّج المكسو بالحجر البيج تحت سماء شاحبة، مع شعار Public Bank الأحمر الثماني الأضلاع معروضًا على لوحة قرب تاجه الهرمي
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank، برج المقر الرئيسي المكسو بالحجر بارتفاع 170 مترًا، شارع Jalan Ampang، كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
 ---
 
 قليل من الشركات الماليزية مرتبط بمؤسسٍ واحد كما البنك العام بتان سري تيه هونغ بيو (Teh Hong Piow). فبدءًا بفرعٍ واحد في وسط كوالالمبور عام 1966، بنى مُقرضًا نما إلى إحدى أكبر المجموعات المصرفية في البلاد — ومشهورًا لا بالحجم بل بالحذر، مسجلًا عقدًا بعد عقد أدنى نسب قروض رديئة في القطاع المصرفي.

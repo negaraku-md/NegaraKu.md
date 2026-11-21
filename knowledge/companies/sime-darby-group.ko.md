@@ -29,7 +29,7 @@ faq:
     a: "말레이시아 국가 투자 기금 국가투자공사(PNB)가 Sime Darby 회사들 전반에 걸쳐 주요 주주이며, Sime Darby Berhad가 인수한 UMW 지분의 매도자가 PNB였습니다. 정확한 지분율은 시간에 따라 변하므로 각 회사의 최신 Bursa Malaysia 공시와 대조하여 확인해야 합니다."
 
 lang: "ko"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: 전경에 코코야자 한 그루가 있는, 사바주 Kunak의 산업 복합시설에서 빨간 Sime Darby 로고를 단 커다란 회색 조원유 팜유 저장 탱크들
+    kind: actual
+    origin: third-party
+    subject: 사바주 Kunak의 Sime Darby 조원유 팜유(CPO) 저장 탱크
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: 기름야자 벽 앞 녹색 지피식물 위에 선 빨간 Sime Darby 로고의 흰색 Sime Darby Plantation 표식 기둥, 머리 위로 송전선이 지나간다
+    kind: actual
+    origin: third-party
+    subject: 사바주 Sandakan–Lahad Datu 도로변의 Sime Darby Plantation 농장 표식
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 말레이시아에서 가장 오래된 기업 이름 중 하나는 이제 하나가 아니라 세 회사입니다.

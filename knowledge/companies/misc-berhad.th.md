@@ -29,7 +29,7 @@ faq:
     a: "MISC Group รายงานรายได้ปีงบประมาณ 2024 ที่ RM13,237.5 ล้าน ลดลง 7.2% จาก RM14,271.7 ล้านในปีงบประมาณ 2023 ด้วยกำไรหลังภาษี RM1,233.2 ล้าน"
 
 lang: "th"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: ภาพมุมสูงของท่าเทียบเรือคอนกรีตบนน้ำสีเทอร์ควอยซ์ มีแขนขนถ่ายทางทะเลสีเทาสูงเรียงเป็นแถวและท่อ พร้อมหลักผูกเรือด้านหน้า และท่าเรือที่มีเครนและถังเก็บอยู่ฝั่งตรงข้าม
+    kind: representative
+    origin: third-party
+    subject: แขนขนถ่ายทางทะเลที่ท่าส่งออก LNG ในบินตูลู รัฐซาราวัก ที่เรือบรรทุกอย่างของ MISC เข้ารับก๊าซธรรมชาติเหลวของมาเลเซีย
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad เป็นหน่วยงานทางทะเลของเศรษฐกิจพลังงานมาเลเซีย กลุ่มที่ขนส่งก๊าซและน้ำมันของประเทศข้ามมหาสมุทรทั่วโลก

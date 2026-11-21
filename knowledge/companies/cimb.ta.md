@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: KL Sentral-இல் Q Sentral கட்டிடத்திற்கு அருகில் நிற்கும் கண்ணாடி-மூடிய நவீன கோபுரம்; அதன் உச்சிக்கு அருகில் சிவப்பு நிற CIMB சின்னத்துடன், அடர்ந்த மரப் பசுமையால் சூழப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: Perdana Botanical Garden-இலிருந்து பார்த்த, கோலாலம்பூர் Sentral-இல் உள்ள நவீன CIMB கோபுரம்
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: CIMB Bank கிளையைக் கொண்ட வெள்ளை நிற காலனித்துவ காலத்து இரு-மாடி பாரம்பரியக் கட்டிடம்; தரைத்தள நுழைவாயிலுக்கு மேலே சிவப்பு நிற CIMB BANK பலகையுடன்
+    kind: actual
+    origin: third-party
+    subject: மலாக்கா நகரத்தின் Bendahara தெருவில் உள்ள பாரம்பரியக் கட்டிடத்தில் அமைந்த CIMB Bank கிளை
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 மலேசிய வணிகத்தில் நீங்கள் எங்கு திரும்பினாலும் கிட்டத்தட்ட சந்திக்கும் வங்கி CIMB — மேலும் தென்கிழக்கு ஆசியா முழுவதும் அதிகரித்துவருகிறது. இது ஒரு பல்துறை வங்கி; அதாவது சம்பளம் பெறும் தொழிலாளியின் சேமிப்புக் கணக்கு முதல் பல பில்லியன் ரிங்கிட் பத்திர வெளியீடுகள் மற்றும் எல்லைகளைக் கடந்த கையகப்படுத்தல்கள் வரை அனைத்தையும் செய்கிறது; அதை மலேசியாவில் மட்டுமல்ல, இந்தோனேசியா, தாய்லாந்து மற்றும் சிங்கப்பூரில் உள்ள பெரிய செயல்பாடுகள் வழியாகவும் செய்கிறது.

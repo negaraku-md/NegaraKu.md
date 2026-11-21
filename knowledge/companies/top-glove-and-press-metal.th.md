@@ -32,7 +32,7 @@ faq:
     a: "ใช่ ทั้งสองซื้อขายบนตลาดหลักของ Bursa Malaysia Top Glove จดทะเบียนเพิ่มเติมบนกระดานหลักของ Singapore Exchange"
 
 lang: "th"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: ช่างเทคนิคในเสื้อกาวน์แล็บสีขาว แว่นนิรภัย และถุงมือไนไตรล์สีน้ำเงิน ชูถุงมือทดสอบใสที่บรรจุน้ำขึ้นมาตรวจหารอยรั่ว พร้อมแถวถุงมือแขวนบนชั้นทดสอบด้านหลังในห้องปฏิบัติการ
+    kind: representative
+    origin: third-party
+    subject: การตรวจสอบคุณภาพถุงมือทางการแพทย์แบบใช้แล้วทิ้งในห้องปฏิบัติการ (เป็นภาพประกอบการทดสอบคุณภาพในอุตสาหกรรมถุงมือ ไม่ใช่โรงงานของ Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 สองบริษัทมาเลเซียนำหน้าในสาขาของตนทั่วโลก หนึ่งคือผู้ผลิตถุงมือแบบใช้แล้วทิ้งที่ใหญ่ที่สุดในโลก; อีกหนึ่งคือโรงถลุงอะลูมิเนียมปฐมภูมิที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ ทั้งสองไม่ใช่ชื่อที่คุ้นหูนอกวงการลงทุน แต่ Top Glove และ Press Metal แสดงให้เห็นว่าเศรษฐกิจขนาดกลางสามารถผลิตผู้นำระดับโลกภาคเดียวได้อย่างไร

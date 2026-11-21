@@ -29,7 +29,7 @@ faq:
     a: "Ya. Sunway Healthcare Holdings dicatatkan di Pasar Utama Bursa Malaysia sebagai SUNMED pada 18 Maret 2026. GIC dari Singapura sebelumnya telah menyetujui, pada Juni 2021, untuk menginvestasikan RM750 juta bagi kepemilikan 16% dalam bisnis pelayanan kesehatan itu."
 
 lang: "id"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Pandangan dekat fasad bertema Mesir Sunway Pyramid dengan atap piramida besar dan patung singa sphinx yang duduk di samping papan masuk 'Shopping Mall / Theme Park'
+    kind: actual
+    origin: third-party
+    subject: Fasad depan pusat perbelanjaan Sunway Pyramid yang memperlihatkan piramida dan sphinx berkepala singa, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Pemandangan udara kota mandiri Bandar Sunway yang memperlihatkan mal Sunway Pyramid, hotel resor, laguna, dan kelompok menara hunian bertingkat tinggi di Lembah Klang
+    kind: actual
+    origin: third-party
+    subject: Pemandangan udara kota mandiri terpadu Bandar Sunway milik Sunway Group dengan mal piramida, resor, laguna, dan menara-menara hunian, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway Group mengubah tanah menjadi kota yang lengkap — hunian, pusat perbelanjaan, rumah sakit, universitas, dan taman tema dalam satu rencana induk — kemudian terus menjalankan apa yang dibangunnya.

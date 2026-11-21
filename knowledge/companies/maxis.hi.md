@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: भूरे पत्थर और हरे-काँच की Menara Maxis मीनार बादल भरे आसमान के विरुद्ध एक मेहराबदार शिखर तक घुमावदार उठती हुई, उसके मुखौटे पर ऊँचाई पर maxis लोगो और एक डिजिटल घड़ी दिख रही है, नीचे चबूतरे पर Suria KLCC लोगो
+    kind: actual
+    origin: third-party
+    subject: Suria KLCC मॉल के ऊपर उठती Menara Maxis का दिन का दृश्य, कुआलालंपुर, जिसके शिखर के पास maxis लोगो और घड़ी है
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Menara Maxis के पतले प्रकाशित मुखौटे का आधार से तीव्र ऊपर की ओर रात का दृश्य, जिसकी निचली मंज़िलों पर काले आसमान के विरुद्ध maxis लोगो वाला एक ऊँचा प्रकाशित विज्ञापन बैनर लटका है
+    kind: actual
+    origin: third-party
+    subject: आधार से देखी गई रात में Menara Maxis, जिसके निचले मुखौटे पर एक बड़ा maxis-ब्रांडेड विज्ञापन बैनर है, KLCC, कुआलालंपुर
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
 ---
 
 फ़ोन रखने वाला लगभग हर मलेशियाई, किसी न किसी समय, Maxis या Hotlink का ग्राहक रहा है। उन दो परिचित ब्रांडों के पीछे एक ही कंपनी है — Maxis Berhad — जो देश के सबसे बड़े दूरसंचार ऑपरेटरों में शुमार है और एक केवल-मोबाइल वाहक से बढ़कर मोबाइल, घरेलू ब्रॉडबैंड और उद्यम कनेक्टिविटी का एक अभिसरित प्रदाता बन गई है।

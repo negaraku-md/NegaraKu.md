@@ -84,6 +84,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: A blue industrial palm oil refinery tower marked with a large 'IOI' and the 'IOI EDIBLE OILS' logo board at Sandakan, Sabah, backed by forested hills with palms in front
+    kind: actual
+    origin: third-party
+    subject: IOI Edible Oils palm oil refinery complex at Sandakan, Sabah, part of IOI Corporation's resource-based manufacturing
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: The multi-level interior atrium of IOI City Mall 2, tall pink 'IOi CiTY MALL 2' promotional banners hanging over curved balconies lined with shopfronts
+    kind: actual
+    origin: third-party
+    subject: Interior atrium of IOI City Mall 2, the second phase of IOI City Mall, Putrajaya
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 A company that started life selling industrial gases now grows enough oil palm to fill a landbank the size of a small district — and turns that fruit into everything from cooking oil to the fatty acids inside your soap.

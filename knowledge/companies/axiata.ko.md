@@ -31,7 +31,7 @@ faq:
     a: "1992년 Telekom Malaysia의 국제·모바일 부문인 TM International Berhad로 설립되었습니다. Bursa Malaysia에 따로 상장된 뒤, 2009년 4월 2일 Axiata Group Berhad로 재브랜딩되었습니다."
 
 lang: "ko"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_f
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: 스포츠 행사 중 거대한 파랑과 자홍색 'axiata arena' 간판 아래 Axiata Arena 정문 밖에 모인 사람들
+    kind: actual
+    origin: third-party
+    subject: 행사 중 부킷잘릴 Axiata Arena 정문에 모인 관중
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017년 SEA 게임 배드민턴 경기 중 가득 찬 Axiata Arena 내부, 관중이 코트를 둘러싼 단층형 파란 관람석을 가득 메우고 있다
+    kind: actual
+    origin: third-party
+    subject: 2017년 SEA 게임 배드민턴 종목 중 Axiata Arena 내부
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
 ---
 
 말레이시아의 가장 큰 통신 이야기는 단일 망이 아니라, 여섯 나라의 모바일 사업자 지분을 소유한 지주회사입니다. Axiata Group Berhad는 쿠알라룸푸르 센트럴(Kuala Lumpur Sentral)의 한 오피스 타워에 자리하며, 남아시아와 동남아시아 전역에서 수억 명을 연결하는 통신사들을 지배하거나, 일부 소유하거나, 공동으로 운영합니다.

@@ -32,7 +32,7 @@ faq:
     a: "Ya. Keduanya diperdagangkan di Pasar Utama Bursa Malaysia. Top Glove juga tercatat di Papan Utama Bursa Singapura (Singapore Exchange)."
 
 lang: "id"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: Seorang teknisi berjas lab putih, berkacamata pengaman, dan bersarung tangan nitril biru mengangkat sarung tangan uji bening berisi air untuk memeriksa kebocoran, dengan deretan sarung tangan tergantung pada rak pengujian di belakangnya di sebuah laboratorium
+    kind: representative
+    origin: third-party
+    subject: inspeksi mutu sarung tangan medis sekali pakai di sebuah laboratorium (ilustrasi pengujian mutu industri sarung tangan; bukan fasilitas Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 Dua perusahaan Malaysia memimpin bidang mereka di tingkat global. Satu adalah produsen sarung tangan sekali pakai terbesar di dunia; satu lagi adalah peleburan aluminium primer terbesar di Asia Tenggara. Keduanya bukan nama yang dikenal umum di luar kalangan investasi, namun Top Glove dan Press Metal menunjukkan bagaimana sebuah ekonomi berukuran sedang dapat melahirkan pemimpin global sektor tunggal.

@@ -30,7 +30,7 @@ faq:
     a: "TNB possède et exploite le réseau électrique national, qui doit être modernisé pour absorber l'énergie renouvelable, conformément aux objectifs de la Feuille de route nationale de transition énergétique (NETR)."
 
 lang: "fr"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: Le siège de Tenaga Nasional Berhad à Bangsar, Kuala Lumpur, un haut immeuble de bureaux gris dont le toit porte le logo rouge TNB et l'enseigne illuminée « TENAGA NASIONAL » au-dessus de la ligne d'horizon de la ville
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment du siège de Tenaga Nasional Berhad à Bangsar, Kuala Lumpur
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: La centrale électrique de Connaught Bridge à Klang, une longue salle des machines en briques rouges avec une haute cheminée à rayures rouges et blanches sous un ciel bleu éclatant
+    kind: actual
+    origin: third-party
+    subject: La centrale électrique de Connaught Bridge de TNB à Klang, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 Chaque fois que les lumières s'allument dans votre maison dans la Péninsule, il y a de fortes chances que l'électricité circule par des câbles appartenant à une seule entreprise : Tenaga Nasional Berhad. C'est la plus grande compagnie d'électricité du pays, avec plus de 11 millions de clients en Malaisie péninsulaire, à Sabah et à Labuan au 30 septembre 2025.

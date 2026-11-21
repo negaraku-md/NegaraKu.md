@@ -32,7 +32,7 @@ faq:
     a: "Sí. Ambas cotizan en el Mercado Principal de Bursa Malaysia. Top Glove cotiza además en el Mainboard de la Bolsa de Singapur (Singapore Exchange)."
 
 lang: "es"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: Un técnico con bata blanca de laboratorio, gafas de seguridad y guantes azules de nitrilo sostiene un guante transparente lleno de agua para inspeccionarlo en busca de fugas, con filas de guantes colgando de un estante de pruebas detrás de él en un laboratorio
+    kind: representative
+    origin: third-party
+    subject: inspección de calidad de guantes médicos desechables en un laboratorio (ilustrativa de las pruebas de calidad de la industria del guante; no es una instalación de Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 Dos empresas malasias lideran sus campos a nivel mundial. Una es el mayor fabricante de guantes desechables del mundo; la otra es la mayor fundición de aluminio primario del Sudeste Asiático. Ninguna es un nombre conocido fuera de los círculos de inversión, y sin embargo Top Glove y Press Metal muestran cómo una economía de tamaño medio puede producir líderes globales de un solo sector.

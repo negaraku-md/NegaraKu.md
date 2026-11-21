@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: அதன் மேல் முதுகெலும்பில் TM சின்னமும் தட்டு-வடிவ வான்வெளி மொட்டைமாடியும் கொண்ட தனித்துவமான சாய்ந்த, வளைந்த Menara TM கோபுரம்; நீல வானத்திற்கு எதிராக எண்கோண அலுவலக கோபுரத்தின் அருகில் வலப்புறம் உயர்ந்து நிற்கிறது, முன்புறத்தில் உயர்த்தப்பட்ட ரயில் பாலம் குறுக்கே செல்கிறது
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், Lembah Pantai-இல் உயர்த்தப்பட்ட நெடுஞ்சாலையின் குறுக்கே அருகிலுள்ள கோபுரத்திற்கு அருகில் பார்த்த Menara TM; அதன் உச்சிமுடியில் TM சின்னம் தெரிகிறது
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: கீழ் நகரக் கட்டிடங்களுக்கு மேலே அடர்ந்த சாம்பல் மேகமூட்டமான வானத்திற்கு எதிராக அமைந்த, தட்டு-வடிவ வான்வெளி மொட்டைமாடியால் முடிசூடப்பட்ட Menara TM-இன் வளைந்த வெள்ளி முகப்பும் கத்தி-வடிவ உச்சிமுடியும்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் இருண்ட சாம்பல் வானத்தின் கீழ் Menara TM மற்றும் அதன் பறக்கும்-தட்டு வான்வெளி மொட்டைமாடியின் முழு-உயரக் காட்சி
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
 ---
 
 மலேசியாவில் கிட்டத்தட்ட ஒவ்வொரு ஃபைபர் அகலப்பட்டை வரி, நிறுவனச் சுற்று மற்றும் கடலடி தரவுக் கேபிள், யாரையும் அடைவதற்கு முன் ஒரே நிறுவனத்தைத் தொடுகிறது. Telekom Malaysia Berhad (TM) என்பது தேசிய நிறுவன நிறுவனம் — நாட்டின் நிலையான வலையமைப்பின் பெரும்பகுதியைக் கட்டிய இயக்குநர், போட்டியாளர்களும் சர்வதேசக் கேரியர்களும் சார்ந்திருக்கும் முதுகெலும்பை இன்னும் சொந்தமாக்கியவர்.

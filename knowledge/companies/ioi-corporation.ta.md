@@ -30,7 +30,7 @@ faq:
     a: "மலேசியாவில் (Johor, Malacca, Negeri Sembilan, Pahang, Sabah மற்றும் Sarawak உட்பட) மற்றும் Indonesia-வில் (West மற்றும் Central Kalimantan)."
 
 lang: "ta"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: சபா மாநிலம் சண்டாக்கானில் பெரிய 'IOI' மற்றும் 'IOI EDIBLE OILS' சின்னப் பலகையுடன் குறிக்கப்பட்ட நீல நிற தொழில்துறை பனையெண்ணெய் சுத்திகரிப்பு கோபுரம்; காடுகள் நிறைந்த மலைகளால் பின்புறத்தில் சூழப்பட்டு, முன்புறத்தில் பனைகளுடன்
+    kind: actual
+    origin: third-party
+    subject: IOI Corporation-இன் வளத்தை அடிப்படையாகக் கொண்ட உற்பத்தியின் ஒரு பகுதியான, சபா மாநிலம் சண்டாக்கானில் உள்ள IOI Edible Oils பனையெண்ணெய் சுத்திகரிப்பு வளாகம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: IOI City Mall 2-இன் பல-தள உள்புற முற்றம்; வளைந்த மேல்தளங்களுக்கு மேலே 'IOi CiTY MALL 2' என்ற உயரமான இளஞ்சிவப்பு விளம்பர பதாகைகள் தொங்குகின்றன, இரு பக்கமும் கடைகள் வரிசையாக உள்ளன
+    kind: actual
+    origin: third-party
+    subject: புத்ராஜெயாவில் உள்ள IOI City Mall-இன் இரண்டாம் கட்டமான IOI City Mall 2-இன் உள்புற முற்றம்
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 தொழில்துறை வாயுக்களை விற்பதன் மூலம் வாழ்க்கையைத் தொடங்கிய ஒரு நிறுவனம், இன்று ஒரு சிறிய மாவட்டத்தின் அளவுக்கு நிலவங்கியை நிரப்பும் அளவுக்கு எண்ணெய்ப் பனையை வளர்க்கிறது — அந்தப் பழத்தை சமையல் எண்ணெய் முதல் உங்கள் சோப்பினுள் இருக்கும் கொழுப்பு அமிலங்கள் வரை அனைத்தாகவும் மாற்றுகிறது.

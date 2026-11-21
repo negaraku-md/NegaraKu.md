@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 
 status: "published"
 aiAssisted: true
@@ -96,6 +96,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: 白い実験用白衣、保護眼鏡、青いニトリル手袋を着けた技術者が、水を満たした透明な試験用手袋を掲げて漏れを検査している。背後の実験室には検査ラックに手袋が吊るされている
+    kind: representative
+    origin: third-party
+    subject: 実験室での使い捨て医療用手袋の品質検査（手袋産業の品質試験の例示であり、Top Gloveの施設ではない）
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 2つのマレーシア企業が、それぞれの分野で世界をリードしている。一方は使い捨て手袋の世界最大手メーカーであり、もう一方は東南アジア最大の原アルミニウム製錬会社である。どちらも投資業界の外ではあまり知られた名前ではないが、Top GloveとPress Metalは、中規模経済がいかにして単一業界における世界的リーダーを生み出しうるかを示している。

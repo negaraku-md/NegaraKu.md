@@ -29,7 +29,7 @@ faq:
     a: "Sí. Sunway Healthcare Holdings fue admitida a cotización en el Mercado Principal de Bursa Malaysia como SUNMED el 18 de marzo de 2026. El fondo GIC de Singapur había acordado antes, en junio de 2021, invertir RM750 millones por una participación del 16% en el negocio de salud."
 
 lang: "es"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Vista cercana de la fachada de temática egipcia de Sunway Pyramid con un gran techo piramidal y una esfinge con cuerpo de león sentada junto a un letrero de entrada 'Shopping Mall / Theme Park'
+    kind: actual
+    origin: third-party
+    subject: Fachada frontal del centro comercial Sunway Pyramid que muestra la pirámide y la esfinge con cabeza de león, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Vista aérea del municipio de Bandar Sunway que muestra el centro comercial Sunway Pyramid, el hotel resort, la laguna y las agrupadas torres residenciales de gran altura en el Valle de Klang
+    kind: actual
+    origin: third-party
+    subject: Vista aérea del municipio integrado Bandar Sunway de Sunway Group con el centro comercial piramidal, el resort, la laguna y las torres residenciales, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 El Grupo Sunway convierte el suelo en municipios (townships) completos —viviendas, centros comerciales, hospitales, universidades y parques temáticos sobre un único plan maestro— y luego sigue operando lo que construye.

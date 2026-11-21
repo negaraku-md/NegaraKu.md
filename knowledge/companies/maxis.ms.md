@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: Menara Maxis berbatu coklat muda dan berkaca hijau melengkung naik ke mahkota bergerbang berlatarkan langit berawan, logo maxis dan sebuah jam digital kelihatan tinggi pada fasadnya, logo Suria KLCC pada podium di bawah
+    kind: actual
+    origin: third-party
+    subject: Pandangan siang Menara Maxis menjulang di atas pusat beli-belah Suria KLCC, Kuala Lumpur, dengan logo maxis dan jam berhampiran mahkotanya
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Pandangan menegak tajam ke atas fasad bercahaya meruncing Menara Maxis pada waktu malam, dengan sepanduk iklan bercahaya tinggi membawa logo maxis tergantung merentasi tingkat bawahnya berlatarkan langit hitam
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis pada waktu malam dilihat dari tapak, dengan sepanduk iklan berjenama maxis besar pada fasad bawahnya, KLCC, Kuala Lumpur
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
 ---
 
 Hampir setiap rakyat Malaysia yang memiliki telefon pernah, pada satu masa, menjadi pelanggan Maxis atau Hotlink. Di sebalik dua jenama yang biasa itu terletak satu syarikat — Maxis Berhad — yang berada dalam kalangan pengendali telekomunikasi terbesar negara ini dan telah berkembang daripada pembawa mudah alih sahaja menjadi penyedia bersepadu mudah alih, jalur lebar rumah dan ketersambungan perusahaan.

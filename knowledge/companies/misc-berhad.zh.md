@@ -29,7 +29,7 @@ faq:
     a: "MISC集团报告的2024财年营收为132.375亿令吉，较2023财年的142.717亿令吉下降7.2%，税后利润为12.332亿令吉。"
 
 lang: "zh"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: 鸟瞰碧绿水面上的一座混凝土栈桥，桥上有成排高大的灰色海洋装卸臂和管道，前景有系泊墩，远岸是带有起重机和储罐的港口
+    kind: representative
+    origin: third-party
+    subject: 砂拉越民都鲁液化天然气出口码头的海洋装卸臂，像 MISC 这样的运输船在此装载马来西亚液化天然气
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 国际航运公司（MISC Berhad）是马来西亚能源经济的海事支柱——这家集团将国家的天然气和石油运往世界各地的海洋。

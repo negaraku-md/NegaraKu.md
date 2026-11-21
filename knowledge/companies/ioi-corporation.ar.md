@@ -30,7 +30,7 @@ faq:
     a: "في ماليزيا (بما فيها جوهور وملقا ونغري سمبيلان وباهانغ وصباح وساراواك) وفي إندونيسيا (كاليمانتان الغربية والوسطى)."
 
 lang: "ar"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: برج مصفاة زيت نخيل صناعي أزرق يحمل كتابة 'IOI' كبيرة ولوحة شعار 'IOI EDIBLE OILS' في Sandakan، صباح، تسنده تلال مكسوّة بالغابات مع نخيل في المقدمة
+    kind: actual
+    origin: third-party
+    subject: مجمّع مصفاة زيت النخيل IOI Edible Oils في Sandakan، صباح، جزء من التصنيع القائم على الموارد لدى IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: الردهة الداخلية متعددة الطوابق لـ IOI City Mall 2، مع لافتات ترويجية وردية طويلة مكتوب عليها 'IOi CiTY MALL 2' معلّقة فوق شرفات منحنية تصطف عليها المتاجر
+    kind: actual
+    origin: third-party
+    subject: الردهة الداخلية لـ IOI City Mall 2، المرحلة الثانية من IOI City Mall، بوتراجايا
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 شركة بدأت حياتها ببيع الغازات الصناعية صارت الآن تزرع من نخيل الزيت ما يكفي لملء رصيد أراضٍ بحجم مقاطعة صغيرة — وتحوِّل تلك الثمار إلى كل شيء، من زيت الطهي إلى الأحماض الدهنية داخل صابونك.

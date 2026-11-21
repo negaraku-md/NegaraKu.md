@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: नीले आसमान के विरुद्ध सफ़ेद Menara Maybank मीनार की पूरी ऊँचाई, शहर की छतों के ऊपर उसके शिखर पर लगा एक पीला Maybank साइन और बाघ-सिर लोगो
+    kind: actual
+    origin: third-party
+    subject: Chin Woo Stadium से नीले आसमान के विरुद्ध देखी गई Menara Maybank, कुआलालंपुर
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: एक गुंबददार छतरी के नीचे जुड़वाँ एस्केलेटर Menara Maybank की ओर ऊपर जाते हुए, सीढ़ियों के पाद पर एक स्वागत बोर्ड पर KL Main Branch नाम वाला एक पीला Maybank लोगो
+    kind: actual
+    origin: third-party
+    subject: Maybank स्वागत साइन के साथ Menara Maybank का एस्केलेटर प्रवेश, कुआलालंपुर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 मलेशिया में लगभग कहीं भी एक चालू खाता खोलिए और अच्छी संभावना है कि उस पर Maybank का बाघ-सिर वाला लोगो हो। Malayan Banking Berhad देश का सबसे बड़ा बैंक है — अपने तुलन-पत्र की परिसंपत्तियों की दृष्टि से और शेयर बाज़ार के अनुसार उसके मूल्य की दृष्टि से — और दक्षिण-पूर्व एशिया के सबसे बड़े बैंकिंग समूहों में से एक। यह प्रोफ़ाइल बताती है कि यह समूह क्या करता है, कहाँ संचालित होता है और इसका स्वामी कौन है।

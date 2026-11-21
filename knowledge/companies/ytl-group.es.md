@@ -30,7 +30,7 @@ faq:
     a: "YTL Power está construyendo un gran parque de centros de datos en Kulai, Johor, y completó una primera instalación de IA impulsada por Nvidia cuya entrada en operación se anunció a finales de octubre de 2025."
 
 lang: "es"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: Un tranquilo bulevar bordeado de palmeras que atraviesa Sentul Park con altos postes de pancartas que dicen SENTUL PARK y SENTUL WORKS al borde de la carretera
+    kind: representative
+    origin: third-party
+    subject: Bulevar arbolado a través de Sentul Park, el proyecto de regeneración urbana de YTL Land (el brazo inmobiliario de YTL Corporation), Kuala Lumpur — pancartas SENTUL PARK / SENTUL WORKS visibles; el nombre de la matriz YTL no aparece en el encuadre
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Vista a nivel de calle de la entrada del centro comercial Lot 10 con su fachada verde, la señalización de Isetan The Japan Store arriba y una tienda H&M a nivel de calle
+    kind: representative
+    origin: third-party
+    subject: Centro comercial Lot 10 en Jalan Bukit Bintang, un emblema comercial propiedad de YTL Corporation (que alberga Isetan The Japan Store), Kuala Lumpur — propiedad confirmada de YTL, el nombre de la matriz YTL no aparece en el encuadre
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL es uno de los grupos diversificados más grandes de Malasia, que se entiende mejor no como una sola empresa sino como una familia de negocios cotizados y no cotizados construidos en torno a la infraestructura.

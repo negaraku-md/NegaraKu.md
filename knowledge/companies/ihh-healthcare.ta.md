@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: இரவில் ஒளிரும் Pantai Hospital Kuala Lumpur-இன் வளைவு நுழைவாயில்; முகப்புக்கு மேலே ஒளிரும் 'PANTAI HOSPITAL KUALA LUMPUR' பலகையும், முன்முற்றத்தில் ஊதா-ஒளியேற்றப்பட்ட நீரூற்றும்
+    kind: actual
+    origin: third-party
+    subject: இரவில் Pantai Hospital Kuala Lumpur — IHH Healthcare-இன் Pantai Hospitals வலையமைப்பின் ஒரு பகுதி
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: கோலாலம்பூரில் உள்ள Prince Court Medical Centre-இன் சாம்பல் நிற நவீன கட்டிடம்; அதன் மேல் முகப்பில் தங்க நிற 'PRINCE COURT' எழுத்துகளும் தங்க சின்னமும், கீழே தெரு பசுமையும் பலகையும்
+    kind: actual
+    origin: third-party
+    subject: IHH Healthcare-க்கு சொந்தமான, கோலாலம்பூர் Jalan Kia Peng-இல் உள்ள Prince Court Medical Centre
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 Kuala Lumpur-இல் ஒரு Pantai அல்லது Gleneagles மருத்துவமனைக்குள், சிங்கப்பூரில் ஒரு Mount Elizabeth வார்டுக்குள், இஸ்தான்புல்லில் ஒரு Acibadem மருத்துவமனைக்குள், அல்லது டெல்லியில் ஒரு Fortis மையத்திற்குள் நடந்து சென்றால், நீங்கள் அதே பெருநிறுவனக் குடும்பத்திற்குள் அடியெடுத்து வைக்கிறீர்கள். அந்தக் குடும்பம் IHH Healthcare Berhad — மலேசியாவில் தலைமையகம் கொண்ட ஒரு நிறுவனம், இது உலகின் மிகப்பெரிய தனியார் மருத்துவமனை இயக்குநர்களில் ஒன்றாக வளர்ந்துள்ளது.

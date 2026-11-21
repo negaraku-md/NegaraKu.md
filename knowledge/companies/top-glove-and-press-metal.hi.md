@@ -32,7 +32,7 @@ faq:
     a: "हाँ। दोनों Bursa Malaysia के मुख्य बाज़ार में कारोबार करती हैं। Top Glove इसके अतिरिक्त Singapore Exchange के मेनबोर्ड पर भी सूचीबद्ध है।"
 
 lang: "hi"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: एक सफ़ेद लैब कोट, सुरक्षा चश्मे और नीले नाइट्राइल दस्ताने पहने एक तकनीशियन लीक की जाँच के लिए एक पारदर्शी पानी से भरे परीक्षण दस्ताने को ऊपर उठाकर जाँच रहा है, उसके पीछे एक प्रयोगशाला में एक परीक्षण रैक पर दस्तानों की कतारें लटकी हुई हैं
+    kind: representative
+    origin: third-party
+    subject: एक प्रयोगशाला में डिस्पोज़ेबल चिकित्सा दस्तानों का गुणवत्ता निरीक्षण (दस्ताना-उद्योग गुणवत्ता परीक्षण का उदाहरण; यह कोई Top Glove सुविधा नहीं है)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 दो मलेशियाई कंपनियाँ अपने-अपने क्षेत्रों में विश्व स्तर पर अग्रणी हैं। एक दुनिया की सबसे बड़ी एकल-उपयोग दस्ताना निर्माता है; दूसरी दक्षिण-पूर्व एशिया की सबसे बड़ी प्राथमिक एल्युमिनियम स्मेल्टर है। निवेश के दायरों के बाहर इनमें से कोई भी जाना-पहचाना नाम नहीं है, फिर भी Top Glove और Press Metal दिखाती हैं कि कैसे एक मध्यम-आकार की अर्थव्यवस्था एकल-क्षेत्रीय वैश्विक अग्रणी पैदा कर सकती है।

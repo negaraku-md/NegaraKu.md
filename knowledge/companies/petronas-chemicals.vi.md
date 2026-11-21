@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: Một nhà máy phân bón hóa dầu lớn nhìn qua một con sông, với một dãy dài các ô tháp giải nhiệt, đường ống công nghệ màu xanh và một ống khói đỏ-trắng, trên nền thảm thực vật xanh và bầu trời nhiều mây
+    kind: actual
+    origin: third-party
+    subject: nhà máy ASEAN Bintulu Fertiliser ở Sarawak, một cơ sở hóa dầu sản xuất amoniac và urê do PETRONAS Chemicals vận hành
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: Một bồn chứa hình trụ lớn màu trắng phía sau hàng rào mắt cáo, mang chữ 'PETRONAS 90 MLC' bên cạnh biểu tượng giọt nước PETRONAS màu xanh lá, với đường ống và các cấu trúc nhà máy ở một bên dưới bầu trời xanh điểm mây nhẹ
+    kind: actual
+    origin: third-party
+    subject: một bồn chứa mang thương hiệu PETRONAS tại Khu phức hợp Tích hợp Pengerang ở Johor
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 Gần như mỗi bao phân bón được rải trên một nông trại Malaysia, và một phần lớn các loại nhựa resin được đúc trong các nhà máy của đất nước, đều truy nguyên về một công ty: Petronas Chemicals Group Berhad. Nó là cánh tay hóa chất của công ty dầu khí quốc gia, nhà sản xuất hóa chất tổng hợp lớn nhất tại Malaysia, và — một điều bất thường đối với một doanh nghiệp liên kết với nhà nước — một công ty được niêm yết riêng mà bất kỳ ai cũng có thể mua cổ phiếu.

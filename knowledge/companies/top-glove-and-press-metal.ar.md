@@ -32,7 +32,7 @@ faq:
     a: "نعم. كلتاهما تتداول في السوق الرئيسية لبورصة ماليزيا (Bursa Malaysia). وTop Glove مدرجة إضافةً إلى ذلك في السوق الرئيسية لبورصة سنغافورة (Singapore Exchange)."
 
 lang: "ar"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_D
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: فنّي يرتدي معطف مختبر أبيض ونظارات واقية وقفازات نتريل زرقاء يرفع قفازًا شفافًا مملوءًا بالماء لفحصه بحثًا عن تسربات، مع صفوف من القفازات المعلّقة على رف فحص خلفه في مختبر
+    kind: representative
+    origin: third-party
+    subject: فحص جودة للقفازات الطبية ذات الاستخدام الواحد في مختبر (توضيحي لفحص جودة صناعة القفازات؛ ليست منشأة تابعة لـ Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 شركتان ماليزيتان تتصدّران مجاليهما عالمياً. إحداهما أكبر مصنّع للقفازات ذات الاستخدام الواحد في العالم؛ والأخرى أكبر مصهر للألمنيوم الأولي في جنوب شرق آسيا. وليست أيٌّ منهما اسماً مألوفاً خارج أوساط الاستثمار، ومع ذلك تُظهر Top Glove وPress Metal كيف يمكن لاقتصاد متوسط الحجم أن ينتج قادةً عالميين في قطاع واحد.

@@ -29,7 +29,7 @@ faq:
     a: "はい。Sunway Healthcare Holdingsは2026年3月18日、Bursa Malaysiaのメインマーケットに銘柄SUNMEDとして上場した。これに先立ち、シンガポールのGICは2021年6月、同ヘルスケア事業の16%株式取得のためRM75,000万を投資することで合意していた。"
 
 lang: "ja"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Sunway Pyramidのエジプト風ファサードの接写。大きなピラミッド型の屋根と、'Shopping Mall / Theme Park'の入口標示の傍らに座るライオンのスフィンクスが見える
+    kind: actual
+    origin: third-party
+    subject: ピラミッドとライオンの頭のスフィンクスが見えるSunway Pyramidショッピングセンターの正面ファサード、Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Bandar Sunwayタウンシップを上空から見た眺め。クランバレーに、Sunway Pyramidモール、リゾートホテル、ラグーン、密集した住宅高層タワー群が広がる
+    kind: actual
+    origin: third-party
+    subject: ピラミッド型モール、リゾート、ラグーン、住宅タワーを備えたSunway Groupの統合型Bandar Sunwayタウンシップを上空から望む、セランゴール州
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway Groupは、土地をまるごとタウンシップへと変える——ひとつのマスタープランのもとに住宅、モール、病院、大学、テーマパークを築き——そして自らが建てたものを運営し続ける。

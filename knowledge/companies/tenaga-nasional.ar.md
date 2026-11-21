@@ -30,7 +30,7 @@ faq:
     a: "يملك TNB شبكة الكهرباء الوطنية ويشغّلها، وهي شبكة يجب تطويرها لاستيعاب الطاقة المتجددة، بما يتسق مع أهداف خارطة طريق التحول الطاقي الوطني (National Energy Transition Roadmap، NETR)."
 
 lang: "ar"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: مقر Tenaga Nasional Berhad في بنغسار، كوالالمبور، وهو مبنى مكاتب رمادي مرتفع يحمل سطحه شعار TNB الأحمر ولافتة 'TENAGA NASIONAL' المضاءة فوق أفق المدينة
+    kind: actual
+    origin: third-party
+    subject: مبنى مقر Tenaga Nasional Berhad في بنغسار، كوالالمبور
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: محطة طاقة Connaught Bridge في كلانغ، وهي محطة طويلة من الطوب الأحمر بمدخنة عالية مخططة بالأحمر والأبيض تحت سماء زرقاء زاهية
+    kind: actual
+    origin: third-party
+    subject: محطة طاقة Connaught Bridge التابعة لـ TNB في كلانغ، سلانغور
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 في كل مرة تُضاء فيها الأنوار في منزلك في شبه الجزيرة، ثمة احتمال كبير أن الكهرباء تتدفّق عبر أسلاك تملكها شركة واحدة: Tenaga Nasional Berhad. وهي أكبر مرفق كهرباء في البلاد، بأكثر من 11 مليون مشترك عبر شبه جزيرة ماليزيا وصباح ولابوان حتى 30 سبتمبر 2025.

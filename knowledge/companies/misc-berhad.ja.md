@@ -29,7 +29,7 @@ faq:
     a: "MISCグループは2024財年の売上高としてRM1,323,750万を報告し、2023財年のRM1,427,170万から7.2%減少した。税引後利益はRM123,320万であった。"
 
 lang: "ja"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: ターコイズの海に突き出したコンクリート桟橋を上空から見た眺め。灰色の高いマリンローディングアームとパイプが並び、手前に係留用ドルフィン、対岸にはクレーンと貯蔵タンクのある港が見える
+    kind: representative
+    origin: third-party
+    subject: サラワク州ビンツルのLNG輸出ターミナルにあるマリンローディングアーム。MISCなどのタンカーがここでマレーシア産液化天然ガスを積み込む
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhadはマレーシアのエネルギー経済における海事部門であり、同国の天然ガスと石油を世界の海洋を越えて輸送するグループである。

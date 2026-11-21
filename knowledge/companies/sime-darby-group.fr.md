@@ -29,7 +29,7 @@ faq:
     a: "Le fonds d'investissement public malaisien Permodalan Nasional Berhad (PNB) est un actionnaire important des sociétés Sime Darby, et PNB a été le vendeur de la participation dans UMW acquise par Sime Darby Berhad. Les pourcentages exacts de participation évoluent dans le temps et doivent être vérifiés auprès des derniers documents déposés par chaque société auprès de Bursa Malaysia."
 
 lang: "fr"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: De grands réservoirs de stockage gris d'huile de palme brute portant le logo rouge Sime Darby dans un complexe industriel à Kunak, Sabah, avec un cocotier au premier plan
+    kind: actual
+    origin: third-party
+    subject: Réservoirs de stockage d'huile de palme brute (CPO) de Sime Darby à Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: Une borne-repère blanche Sime Darby Plantation avec le logo rouge Sime Darby, dressée dans un couvre-sol vert devant un mur de palmiers à huile, des lignes électriques aériennes au-dessus
+    kind: actual
+    origin: third-party
+    subject: Borne-repère de plantation Sime Darby en bord de route sur la route Sandakan–Lahad Datu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 L'un des plus anciens noms d'entreprise de Malaisie représente aujourd'hui trois sociétés, et non plus une seule.

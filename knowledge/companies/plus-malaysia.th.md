@@ -28,7 +28,7 @@ faq:
     a: "ภายใต้การตัดสินใจปี 2020 อัตราค่าผ่านทางลดลง 18% ตั้งแต่วันที่ 1 กุมภาพันธ์ 2020 และไม่มีการขึ้นค่าผ่านทางตามกำหนดตลอดระยะเวลาสัมปทานที่ขยายจนถึงปี 2058"
 
 lang: "th"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: มองผ่านกระจกหน้ารถขณะเข้าใกล้ด่านเก็บค่าผ่านทางบนทางด่วน PLUS มีป้ายช่อง Touch 'n Go และ SmartTAG เหนือตู้เก็บเงิน แผงกั้นช่องทางสีแดง-ขาวจัดการจราจร ใต้ท้องฟ้ายามเย็นที่ครึ้ม
+    kind: actual
+    origin: third-party
+    subject: ด่านเก็บค่าผ่านทาง Tangkak ที่ทางออก 235 บนทางด่วนสายเหนือ-ใต้ที่ดำเนินการโดย PLUS
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: โครงเหล็กเหนือถนนที่มีป้ายข้อความแปรผันสีส้มพาดข้ามช่องทางของทางด่วนสายเหนือ-ใต้ มีการจราจรเบาบางและกรวยงานซ่อมอยู่ด้านหน้า พร้อมต้นไม้ริมถนนใต้ท้องฟ้าสีเทาที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: โครงป้ายข้อความแปรผันเหนือถนนพาดข้ามทางด่วนสายเหนือ-ใต้ (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 ทุกครั้งที่คุณขับรถจาก Bukit Kayu Hitam ทางเหนือไปยังยะโฮร์บาห์รู (Johor Bahru) ทางใต้โดยไม่ต้องหยุดที่สัญญาณไฟจราจร คุณกำลังผ่านสินทรัพย์ของบริษัทหนึ่ง: PLUS Malaysia Berhad มันไม่ใช่หน่วยงานรัฐบาล แต่ก็ไม่ใช่บริษัทเอกชนทั่วไป มันเป็นผู้รับสัมปทานที่ดำเนินการกระดูกสันหลังของถนนของประเทศภายใต้ข้อตกลงระยะยาวกับรัฐบาล

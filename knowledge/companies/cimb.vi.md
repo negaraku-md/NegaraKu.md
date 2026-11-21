@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Một tòa tháp hiện đại ốp kính mang biểu tượng CIMB màu đỏ gần đỉnh đứng cạnh tòa nhà Q Sentral tại KL Sentral, được viền bởi tán cây sẫm màu
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp CIMB hiện đại tại Kuala Lumpur Sentral, nhìn từ Vườn Bách thảo Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Một tòa nhà di sản hai tầng màu trắng thời thuộc địa là nơi đặt chi nhánh CIMB Bank, với biển CIMB BANK màu đỏ phía trên lối vào tầng trệt
+    kind: actual
+    origin: third-party
+    subject: Chi nhánh CIMB Bank trong một tòa nhà di sản trên phố Bendahara, thành phố Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB là ngân hàng mà bạn gặp ở gần như mọi nơi bạn quay đầu lại trong thương mại Malaysia — và ngày càng nhiều trên khắp Đông Nam Á. Nó là một ngân hàng tổng hợp, nghĩa là nó làm mọi thứ từ tài khoản tiết kiệm của một người làm công ăn lương cho đến các đợt phát hành trái phiếu trị giá hàng tỷ ringgit và các thương vụ mua lại xuyên biên giới, và nó làm vậy không chỉ ở Malaysia mà qua các hoạt động lớn ở Indonesia, Thái Lan và Singapore.

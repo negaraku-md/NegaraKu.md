@@ -28,7 +28,7 @@ faq:
     a: "بموجب قرار 2020، خُفِّضت معدلات الرسوم بنسبة 18% اعتبارًا من 1 فبراير 2020، ولا توجد زيادات في الرسوم مجدولة طوال مدة الامتياز الممدَّدة حتى 2058."
 
 lang: "ar"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: منظر عبر زجاج أمامي عند الاقتراب من ساحة رسوم على طريق PLUS السريع، مع لافتات ممرات Touch 'n Go و SmartTAG العلوية فوق الأكشاك، وفواصل ممرات حمراء وبيضاء توجّه حركة المرور، تحت سماء مسائية ملبّدة بالغيوم
+    kind: actual
+    origin: third-party
+    subject: ساحة رسوم Tangkak عند المخرج 235 على الطريق السريع الشمالي الجنوبي الذي تشغّله PLUS
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: بوابة علوية فولاذية تحمل لوحة رسائل متغيّرة برتقالية تمتد عبر مسارات الطريق السريع الشمالي الجنوبي، مع حركة مرور خفيفة وأقماع أعمال طرق أمامًا وأشجار على جانب الطريق تحت سماء رمادية غائمة
+    kind: actual
+    origin: third-party
+    subject: بوابة علوية للوحة رسائل متغيّرة تمتد عبر الطريق السريع الشمالي الجنوبي (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 في كل مرة تقود فيها من Bukit Kayu Hitam في الشمال إلى Johor Bahru في الجنوب من دون التوقف عند إشارة مرور، تكون في الواقع تسير على أصول شركة واحدة: PLUS Malaysia Berhad. وهي ليست جهة حكومية، لكنها ليست شركة خاصة عادية أيضًا — بل صاحبة امتياز تشغّل العمود الفقري لطرق الأمة بموجب اتفاق طويل الأمد مع الحكومة.

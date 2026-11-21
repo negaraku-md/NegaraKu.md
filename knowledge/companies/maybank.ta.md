@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: நீல வானத்திற்கு எதிராக வெள்ளை நிற Menara Maybank கோபுரத்தின் முழு உயரம்; நகர மேற்கூரைகளுக்கு மேலே அதன் உச்சிமுடியில் மஞ்சள் நிற Maybank பலகையும் புலி-தலை சின்னமும் பொருத்தப்பட்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் நீல வானத்திற்கு எதிராக Chin Woo Stadium-இலிருந்து பார்த்த Menara Maybank
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: குவிமாட மேற்கூரையின் கீழ் Menara Maybank-க்கு மேல்நோக்கி செல்லும் இரட்டை மின்படிக்கட்டுகள்; படிகளின் அடியில் KL பிரதான கிளையைக் குறிக்கும் வரவேற்பு பலகையில் மஞ்சள் நிற Maybank சின்னத்துடன்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் Maybank வரவேற்புப் பலகையுடன் கூடிய Menara Maybank-இன் மின்படிக்கட்டு நுழைவாயில்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 மலேசியாவில் கிட்டத்தட்ட எங்கு வேண்டுமானாலும் நடப்புக் கணக்கு ஒன்றைத் திறந்தால், அதில் Maybank-இன் புலித் தலை சின்னம் இருக்க நல்ல வாய்ப்பு உண்டு. Malayan Banking Berhad என்பது நாட்டின் மிகப்பெரிய வங்கி — அதன் இருப்புநிலைக் குறிப்பிலுள்ள சொத்துகளின்படியும், பங்குச் சந்தை அதன் மதிப்பு எவ்வளவு என்று சொல்வதின்படியும் — மேலும் தென்கிழக்கு ஆசியாவின் மிகப்பெரிய வங்கிக் குழுமங்களில் ஒன்று. இந்தச் சுயவிவரம் குழுமம் என்ன செய்கிறது, எங்கு செயல்படுகிறது, யார் சொந்தமாக வைத்திருக்கிறார்கள் என்பதை விளக்குகிறது.

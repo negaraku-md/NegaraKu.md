@@ -30,7 +30,7 @@ faq:
     a: "YTL Power đang xây dựng một công viên trung tâm dữ liệu lớn tại Kulai, Johor, và hoàn thành một cơ sở AI chạy bằng Nvidia đầu tiên được công bố đi vào hoạt động vào cuối tháng 10 năm 2025."
 
 lang: "vi"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: Một đại lộ yên tĩnh hai bên trồng cọ chạy qua Sentul Park với các trụ biểu ngữ cao đề SENTUL PARK và SENTUL WORKS dọc ven đường
+    kind: representative
+    origin: third-party
+    subject: Đại lộ hai bên trồng cây qua Sentul Park, dự án tái phát triển đô thị của YTL Land (bộ phận bất động sản của YTL Corporation), Kuala Lumpur — có thể thấy biểu ngữ SENTUL PARK / SENTUL WORKS; tên công ty mẹ YTL không hiện trong khung hình
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Cảnh nhìn ngang tầm đường phố của lối vào trung tâm mua sắm Lot 10 với mặt tiền màu xanh lá, biển hiệu Isetan The Japan Store phía trên và một cửa hàng H&M ở tầng trệt
+    kind: representative
+    origin: third-party
+    subject: Trung tâm mua sắm Lot 10 trên Jalan Bukit Bintang, một điểm mốc bán lẻ thuộc sở hữu của YTL Corporation (có Isetan The Japan Store), Kuala Lumpur — bất động sản YTL đã xác nhận, tên công ty mẹ YTL không hiện trong khung hình
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL là một trong những tập đoàn đa dạng hóa lớn nhất của Malaysia, được hiểu rõ nhất không phải như một công ty duy nhất mà như một họ các hoạt động kinh doanh niêm yết và chưa niêm yết được xây dựng quanh hạ tầng.

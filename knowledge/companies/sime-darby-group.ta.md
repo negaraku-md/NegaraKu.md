@@ -29,7 +29,7 @@ faq:
     a: "மலேசிய அரச முதலீட்டு நிதியான Permodalan Nasional Berhad (PNB) Sime Darby நிறுவனங்கள் அனைத்திலும் ஒரு முக்கிய பங்குதாரராக உள்ளது, மேலும் Sime Darby Berhad கையகப்படுத்திய UMW பங்கை விற்றவரும் PNB-தான். சரியான பங்கு வைத்திருப்பு சதவீதங்கள் காலப்போக்கில் மாறுகின்றன, அவற்றை ஒவ்வொரு நிறுவனத்தின் சமீபத்திய Bursa Malaysia பதிவுகளுக்கு எதிராகச் சரிபார்க்க வேண்டும்."
 
 lang: "ta"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: சபா மாநிலம் Kunak-இல் உள்ள தொழில்துறை வளாகத்தில் சிவப்பு நிற Sime Darby சின்னத்தைச் சுமக்கும் பெரிய சாம்பல் நிற கச்சா பனையெண்ணெய் சேமிப்புத் தொட்டிகள், முன்புறத்தில் தென்னை மரத்துடன்
+    kind: actual
+    origin: third-party
+    subject: சபா மாநிலம் Kunak-இல் உள்ள Sime Darby கச்சா பனையெண்ணெய் (CPO) சேமிப்புத் தொட்டிகள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: பனை மரச் சுவருக்கு முன் பச்சை நிலப்பரப்பில் நிற்கும் சிவப்பு நிற Sime Darby சின்னத்துடன் கூடிய வெள்ளை நிற Sime Darby Plantation குறியீட்டுத் தூண்; மேலே மின்சாரக் கம்பிகளுடன்
+    kind: actual
+    origin: third-party
+    subject: சபா மாநிலம், சண்டாக்கான்–Lahad Datu சாலையில் உள்ள சாலையோர Sime Darby Plantation தோட்டக் குறியீடு
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 மலேசியாவின் மிகப் பழமையான கார்ப்பரேட் பெயர்களில் ஒன்று இப்போது ஒரு நிறுவனம் அல்ல, மூன்று நிறுவனங்கள்.

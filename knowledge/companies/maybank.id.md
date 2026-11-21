@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: Menara Maybank putih dalam ketinggian penuh dengan latar langit biru, papan nama Maybank kuning dan logo kepala harimau terpasang di mahkotanya di atas atap-atap kota
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank dilihat dari Stadion Chin Woo dengan latar langit biru, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: Eskalator kembar di bawah kanopi berkubah menuju Menara Maybank, dengan logo Maybank kuning pada papan selamat datang yang menyebut KL Main Branch di kaki tangga
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk eskalator menuju Menara Maybank dengan papan selamat datang Maybank, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 Bukalah rekening giro hampir di mana saja di Malaysia dan ada peluang besar rekening itu membawa logo kepala harimau Maybank. Malayan Banking Berhad adalah bank terbesar di negara ini — menurut aset di neracanya dan menurut nilai yang ditetapkan pasar saham — serta salah satu grup perbankan terbesar di Asia Tenggara. Profil ini memaparkan apa yang dilakukan grup ini, di mana ia beroperasi, dan siapa pemiliknya.

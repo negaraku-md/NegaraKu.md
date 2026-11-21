@@ -95,6 +95,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: Large grey crude palm oil storage tanks bearing the red Sime Darby logo at an industrial complex in Kunak, Sabah, with a coconut palm in the foreground
+    kind: actual
+    origin: third-party
+    subject: Sime Darby crude palm oil (CPO) storage tanks at Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: A white Sime Darby Plantation marker pillar with the red Sime Darby logo standing in green ground-cover before a wall of oil palms, overhead power lines above
+    kind: actual
+    origin: third-party
+    subject: Roadside Sime Darby Plantation estate marker on the Sandakan–Lahad Datu road, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 One of Malaysia's oldest corporate names is now three companies, not one.

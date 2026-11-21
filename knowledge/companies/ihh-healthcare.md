@@ -84,6 +84,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: The curved entrance of Pantai Hospital Kuala Lumpur lit up at night, the illuminated 'PANTAI HOSPITAL KUALA LUMPUR' sign above the porch and a purple-lit fountain in the forecourt
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur at night — part of IHH Healthcare's Pantai Hospitals network
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: The grey modern block of Prince Court Medical Centre in Kuala Lumpur with its gold 'PRINCE COURT' lettering and gold emblem on the upper facade, street greenery and signage below
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Jalan Kia Peng, Kuala Lumpur — owned by IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 Walk into a Pantai or Gleneagles hospital in Kuala Lumpur, a Mount Elizabeth ward in Singapore, an Acibadem clinic in Istanbul or a Fortis centre in Delhi, and you are stepping into the same corporate family. That family is IHH Healthcare Berhad — a Malaysia-headquartered company that has grown into one of the largest private hospital operators in the world.

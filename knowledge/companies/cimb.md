@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: A glass-clad modern tower bearing a red CIMB logo near its top standing beside the Q Sentral building at KL Sentral, framed by dark tree foliage
+    kind: actual
+    origin: third-party
+    subject: The modern CIMB tower at Kuala Lumpur Sentral, seen from Perdana Botanical Garden
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: A white colonial-era two-storey heritage building housing a CIMB Bank branch, with a red CIMB BANK sign over the ground-floor entrance
+    kind: actual
+    origin: third-party
+    subject: The CIMB Bank branch in a heritage building on Bendahara Street, Melaka City
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB is the bank you meet almost everywhere you turn in Malaysian commerce — and increasingly across Southeast Asia. It is a universal bank, meaning it does everything from a salaried worker's savings account to multi-billion-ringgit bond issues and cross-border acquisitions, and it does so not only in Malaysia but through large operations in Indonesia, Thailand and Singapore.

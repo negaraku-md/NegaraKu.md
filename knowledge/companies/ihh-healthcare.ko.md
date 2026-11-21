@@ -31,7 +31,7 @@ faq:
     a: "양대 주주는 2018년 단일 최대 보유자가 된 일본의 Mitsui & Co와 말레이시아의 국부펀드 Khazanah Nasional입니다. 상장 회사로서 나머지 주식은 기관 및 일반 투자자가 보유합니다. 정확한 현행 비율은 IHH의 최신 연차보고서 또는 Bursa Malaysia와 SGX 공시를 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: 현관 위의 빛나는 'PANTAI HOSPITAL KUALA LUMPUR' 간판과 앞마당의 보랏빛 조명 분수가 있는, 밤에 불을 밝힌 Pantai Hospital Kuala Lumpur의 곡선형 입구
+    kind: actual
+    origin: third-party
+    subject: IHH Healthcare의 Pantai Hospitals 네트워크에 속한 Pantai Hospital Kuala Lumpur의 야경
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: 상부 정면에 금색 'PRINCE COURT' 글자와 금색 상징을 단 쿠알라룸푸르 Prince Court Medical Centre의 회색 현대식 건물, 아래에 거리 녹지와 간판이 보인다
+    kind: actual
+    origin: third-party
+    subject: IHH Healthcare가 소유한 쿠알라룸푸르 Jalan Kia Peng의 Prince Court Medical Centre
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 쿠알라룸푸르의 Pantai 또는 Gleneagles 병원, 싱가포르의 Mount Elizabeth 병동, 이스탄불의 Acibadem 클리닉, 또는 델리의 Fortis 센터에 들어서면, 당신은 같은 기업 가족에 발을 들이는 것입니다. 그 가족이 IHH Healthcare Berhad — 세계 최대의 민간 병원 운영사 가운데 하나로 성장한, 말레이시아에 본사를 둔 회사 — 입니다.

@@ -88,6 +88,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: The distinctive leaning, curved Menara TM tower with the TM logo on its upper spine and a saucer-shaped sky terrace, rising on the right against blue sky beside an octagonal office tower, an elevated rail viaduct crossing the foreground
+    kind: actual
+    origin: third-party
+    subject: Menara TM seen beside a neighbouring tower across an elevated highway, the TM logo visible on its spire, Lembah Pantai, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: The full sweep of Menara TM's curved silver facade and bladed spire topped by a disc-shaped sky terrace, set against a heavy grey overcast sky above lower city buildings
+    kind: actual
+    origin: third-party
+    subject: Full-height view of Menara TM and its flying-saucer sky terrace under a moody grey sky, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
 ---
 
 Almost every fibre broadband line, enterprise circuit and undersea data cable in Malaysia touches one company before it reaches anyone else. Telekom Malaysia Berhad (TM) is the national incumbent — the operator that built most of the country's fixed network and still owns the backbone that rivals and international carriers depend on.

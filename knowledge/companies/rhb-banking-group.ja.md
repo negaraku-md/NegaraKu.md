@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: レンガ敷きの交差点越しに見える白い2階建ての角地にあるRHB Bank支店。青い看板帯には赤いダイヤ型のロゴとともにRHB IslamicおよびRHB Bankと記され、晴れた青空の下、前庭には市場の天幕が設置されている
+    kind: actual
+    origin: third-party
+    subject: ヌグリスンビラン州Seremban 2にあるRHB Bank支店。明るい青空の下、RHB BankとRHB Islamicの標示が見える
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB は、街角の銀行支店、ATM カード、住宅ローンのパンフレットの上で、ほとんどのマレーシア人が見覚えのある名のひとつである——しかしその背後にあるグループの手は、リテール銀行業務をはるかに超えて、イスラム金融、投資銀行業務、保険、そして東南アジア各地の市場へと及んでいる。本ページは、RHB Banking Group とは何か、どのように構成され、誰が所有し、なぜ重要なのかについての、中立で事実に基づく概観である。

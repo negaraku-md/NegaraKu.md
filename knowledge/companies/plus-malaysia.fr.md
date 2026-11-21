@@ -28,7 +28,7 @@ faq:
     a: "En vertu de la décision de 2020, les tarifs de péage ont été réduits de 18% à compter du 1er février 2020, et aucune hausse de péage n'est prévue pendant toute la période de concession prolongée jusqu'en 2058."
 
 lang: "fr"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: Vue à travers un pare-brise à l'approche d'une gare de péage sur l'autoroute PLUS, avec des panneaux de voies Touch 'n Go et SmartTAG au-dessus des cabines, des séparateurs de voies rouges et blancs canalisant la circulation, sous un ciel de soirée couvert
+    kind: actual
+    origin: third-party
+    subject: la gare de péage de Tangkak à la sortie 235 de l'autoroute Nord-Sud exploitée par PLUS
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: Un portique en acier au-dessus de la route portant un panneau à message variable orange enjambant les voies de l'autoroute Nord-Sud, avec une circulation légère et des cônes de travaux devant, et des arbres en bord de route sous un ciel gris nuageux
+    kind: actual
+    origin: third-party
+    subject: un portique à message variable au-dessus de l'autoroute Nord-Sud (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 Chaque fois que vous roulez de Bukit Kayu Hitam, au nord, jusqu'à Johor Bahru, au sud, sans vous arrêter à un feu de circulation, vous voyagez en réalité sur les actifs d'une seule entreprise : PLUS Malaysia Berhad. Ce n'est pas une agence gouvernementale, mais ce n'est pas non plus une entreprise privée ordinaire : c'est un concessionnaire qui exploite l'épine dorsale routière du pays en vertu d'un accord à long terme avec le gouvernement.

@@ -29,7 +29,7 @@ faq:
     a: "Quỹ đầu tư nhà nước Malaysia Permodalan Nasional Berhad (PNB) là một cổ đông lớn trên khắp các công ty Sime Darby, và PNB là bên bán cổ phần UMW mà Sime Darby Berhad đã mua lại. Tỷ lệ sở hữu chính xác thay đổi theo thời gian và cần được kiểm tra so với các hồ sơ nộp Bursa Malaysia mới nhất của mỗi công ty."
 
 lang: "vi"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: Các bồn chứa dầu cọ thô màu xám lớn mang biểu tượng Sime Darby màu đỏ tại một khu phức hợp công nghiệp ở Kunak, Sabah, với một cây dừa ở tiền cảnh
+    kind: actual
+    origin: third-party
+    subject: Các bồn chứa dầu cọ thô (CPO) của Sime Darby tại Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: Một trụ bia màu trắng của Sime Darby Plantation với biểu tượng Sime Darby màu đỏ đứng giữa thảm cây xanh phủ mặt đất trước một bức tường cây cọ dầu, với đường dây điện phía trên
+    kind: actual
+    origin: third-party
+    subject: Trụ bia đồn điền Sime Darby Plantation ven đường trên tuyến Sandakan–Lahad Datu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 Một trong những cái tên doanh nghiệp lâu đời nhất của Malaysia nay là ba công ty, không phải một.

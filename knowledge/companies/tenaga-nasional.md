@@ -93,6 +93,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: Ibu pejabat Tenaga Nasional Berhad di Bangsar, Kuala Lumpur, sebuah blok pejabat kelabu tinggi yang bumbungnya membawa logo TNB merah dan papan tanda bercahaya 'TENAGA NASIONAL' di atas kaki langit bandar
+    kind: actual
+    origin: third-party
+    subject: Bangunan ibu pejabat Tenaga Nasional Berhad di Bangsar, Kuala Lumpur
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: Stesen Janakuasa Connaught Bridge di Klang, sebuah rumah janakuasa berbata merah yang panjang dengan cerobong berjalur merah dan putih yang tinggi di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Stesen Janakuasa Connaught Bridge milik TNB di Klang, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 Setiap kali lampu di rumah anda menyala di Semenanjung, ada kemungkinan besar elektrik itu mengalir melalui wayar milik satu syarikat sahaja: Tenaga Nasional Berhad. Ia utiliti elektrik terbesar negara, dengan lebih 11 juta pelanggan di Semenanjung Malaysia, Sabah dan Labuan sehingga 30 September 2025.

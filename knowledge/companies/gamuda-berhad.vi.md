@@ -32,7 +32,7 @@ faq:
     a: "Các thị trường nước ngoài chính của tập đoàn là Úc và Đài Loan trong lĩnh vực xây dựng, và Việt Nam, Anh, Singapore và Úc trong lĩnh vực bất động sản."
 
 lang: "vi"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: Tấm bia lối vào đề GAMUDA GARDENS bằng những chữ trắng lớn với biểu tượng giọt nước màu xanh lá, nổi bật trên nền các cột gỗ điêu khắc và cây xanh
+    kind: actual
+    origin: third-party
+    subject: Biểu tượng chữ GAMUDA GARDENS và logo giọt nước trên tấm bia lối vào khu đô thị, Rawang, Selangor
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Đường ray giao thông đường sắt đô thị trên cao dẫn vào ga MRT Kwasa Damansara, với các trụ cầu cạn bê tông xám và một sân ga có mái che dưới bầu trời sáng nhiều mây
+    kind: representative
+    origin: third-party
+    subject: Ga MRT Kwasa Damansara, một ga trên cao trên các tuyến MRT Thung lũng Klang mà phần công trình ngầm được thực hiện bởi MMC-Gamuda (liên doanh kỹ thuật đường sắt của Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda khởi đầu với một đường cao tốc của Malaysia và phát triển thành một trong những nhà thầu đào hầm và đường sắt lớn nhất khu vực. Ngày nay, một tỷ trọng ngày càng tăng trong công việc của họ nằm ngoài Malaysia.

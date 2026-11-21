@@ -30,7 +30,7 @@ faq:
     a: "Di Malaysia (termasuk Johor, Melaka, Negeri Sembilan, Pahang, Sabah, dan Sarawak) dan di Indonesia (Kalimantan Barat dan Tengah)."
 
 lang: "id"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: Menara kilang penyulingan minyak sawit industri berwarna biru bertanda 'IOI' besar dan papan logo 'IOI EDIBLE OILS' di Sandakan, Sabah, berlatar perbukitan berhutan dengan pohon sawit di depannya
+    kind: actual
+    origin: third-party
+    subject: Kompleks kilang penyulingan minyak sawit IOI Edible Oils di Sandakan, Sabah, bagian dari manufaktur berbasis sumber daya milik IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: Atrium interior bertingkat IOI City Mall 2, spanduk promosi merah muda tinggi bertuliskan 'IOi CiTY MALL 2' tergantung di atas balkon-balkon melengkung yang dipenuhi etalase toko
+    kind: actual
+    origin: third-party
+    subject: Atrium interior IOI City Mall 2, fase kedua IOI City Mall, Putrajaya
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 Sebuah perusahaan yang bermula dengan menjual gas industri kini menanam kelapa sawit yang cukup untuk mengisi bank tanah sebesar sebuah kabupaten kecil — dan mengubah buah itu menjadi berbagai produk dari minyak goreng hingga asam lemak di dalam sabun Anda.

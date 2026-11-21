@@ -28,7 +28,7 @@ faq:
     a: "Theo quyết định 2020, mức phí được giảm 18% từ ngày 1 tháng 2 năm 2020 và không có đợt tăng phí nào được lên lịch suốt thời hạn nhượng quyền gia hạn đến năm 2058."
 
 lang: "vi"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: Cảnh nhìn qua kính chắn gió khi tiến đến một trạm thu phí trên đường cao tốc PLUS, với các biển làn Touch 'n Go và SmartTAG phía trên các cabin, dải phân cách làn đỏ-trắng điều hướng dòng xe, dưới bầu trời chiều u ám
+    kind: actual
+    origin: third-party
+    subject: trạm thu phí Tangkak tại Lối ra 235 trên đường cao tốc Bắc-Nam do PLUS vận hành
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: Một giàn thép trên cao mang một bảng điện tử hiển thị thông điệp thay đổi màu cam bắc ngang các làn xe của đường cao tốc Bắc-Nam, với lưu lượng xe thưa và cọc tiêu công trình phía trước cùng cây ven đường dưới bầu trời xám nhiều mây
+    kind: actual
+    origin: third-party
+    subject: một giàn hiển thị thông điệp thay đổi trên cao bắc ngang đường cao tốc Bắc-Nam (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 Mỗi khi bạn lái xe từ Bukit Kayu Hitam ở phía bắc đến Johor Bahru ở phía nam mà không dừng ở đèn giao thông, bạn thực ra đang đi qua tài sản của một công ty: PLUS Malaysia Berhad. Nó không phải là một cơ quan chính phủ, nhưng cũng không phải là một công ty tư nhân thông thường — nó là một đơn vị nắm nhượng quyền vận hành xương sống đường bộ của đất nước theo một thỏa thuận dài hạn với chính phủ.

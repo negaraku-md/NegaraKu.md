@@ -29,7 +29,7 @@ faq:
     a: "أبلغت مجموعة MISC عن إيرادات للسنة المالية 2024 بلغت RM13,237.5 مليون، بانخفاض 7.2% عن RM14,271.7 مليون في السنة المالية 2023، مع ربح بعد الضريبة قدره RM1,233.2 مليون."
 
 lang: "ar"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: منظر جوي لرصيف خرساني على مياه فيروزية يحمل صفوفًا من أذرع التحميل البحرية الرمادية الطويلة والأنابيب، مع دعامات إرساء في المقدمة وميناء به رافعات وصهاريج تخزين على الشاطئ البعيد
+    kind: representative
+    origin: third-party
+    subject: أذرع التحميل البحرية في محطة تصدير الغاز الطبيعي المسال في Bintulu، ساراواك، حيث تُحمّل ناقلات مثل ناقلات MISC الغاز الطبيعي المسال الماليزي
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad هي الذراع البحرية لاقتصاد الطاقة في ماليزيا — المجموعة التي تنقل غاز الأمة ونفطها عبر محيطات العالم.

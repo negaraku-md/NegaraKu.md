@@ -30,7 +30,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: PLUS高速道路の料金所に近づくフロントガラス越しの眺め。料金ブースの上にTouch 'n GoとSmartTAGのレーン標示が掲げられ、赤白のレーン分離帯が車を誘導し、曇った夕方の空が広がる
+    kind: actual
+    origin: third-party
+    subject: PLUSが運営する南北高速道路のExit 235にあるTangkak料金所
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: 南北高速道路の車道をまたぐ鉄骨の跨道橋ゲート。オレンジ色の可変情報表示を掲げ、前方には少ない交通量と工事用コーン、灰色の曇り空の下に沿道の木々がある
+    kind: actual
+    origin: third-party
+    subject: 南北高速道路（PLUS）をまたぐ可変情報表示の跨道橋ゲート
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 北のブキ・カユ・ヒタム（Bukit Kayu Hitam）から南のジョホールバル（Johor Bahru）まで、信号で一度も止まることなく車を走らせるとき、あなたは実はある一社の資産の上を走っている——それがPLUS Malaysia Berhadである。同社は政府機関ではないが、かといって普通の民間企業でもない。政府との長期契約に基づき、国の道路網の背骨を運営するコンセッション事業者である。

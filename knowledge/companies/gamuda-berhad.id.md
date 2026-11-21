@@ -32,7 +32,7 @@ faq:
     a: "Pasar luar negeri utamanya adalah Australia dan Taiwan untuk konstruksi, serta Vietnam, Britania Raya, Singapura, dan Australia untuk properti."
 
 lang: "id"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: Monumen pintu masuk bertuliskan GAMUDA GARDENS dengan huruf putih besar dan logo tetesan air hijau, berlatar tiang-tiang kayu berukir dan tanaman hijau
+    kind: actual
+    origin: third-party
+    subject: Logo tulisan GAMUDA GARDENS dan logo tetesan air pada monumen pintu masuk kota mandiri, Rawang, Selangor
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Jalur rel Mass Rapid Transit layang yang mengarah ke stasiun MRT Kwasa Damansara, dengan tiang-tiang jembatan beton kelabu dan peron beratap di bawah langit cerah berawan
+    kind: representative
+    origin: third-party
+    subject: Stasiun MRT Kwasa Damansara, stasiun layang pada jalur MRT Lembah Klang yang pekerjaan bawah tanahnya dikerjakan oleh MMC-Gamuda (usaha patungan rekayasa perkeretaapian milik Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda bermula dengan sebuah jalan tol Malaysia dan berkembang menjadi salah satu kontraktor pembuatan terowong dan rel terbesar di kawasan ini. Hari ini, porsi pekerjaannya yang semakin besar terletak di luar Malaysia.

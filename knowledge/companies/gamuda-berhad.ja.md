@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(23
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: 大きな白い文字でGAMUDA GARDENSと記され緑のしずく型ロゴを添えた入口モニュメント。彫刻的な木の柱と緑地を背にしている
+    kind: actual
+    origin: third-party
+    subject: セランゴール州Rawangのタウンシップ入口モニュメントに掲げられたGAMUDA GARDENSのワードマークとしずく型ロゴ
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Kwasa Damansara MRT駅へ続く高架の大量高速輸送鉄道の軌道。明るい曇り空の下、灰色のコンクリート高架橋の橋脚と天蓋付きのプラットフォームが見える
+    kind: representative
+    origin: third-party
+    subject: クランバレーMRT路線の高架駅、Kwasa Damansara MRT駅。地下工区はMMC-Gamuda（Gamuda Berhadの鉄道エンジニアリング合弁事業）が施工した
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamudaは、マレーシアの高速道路事業から出発し、成長を遂げて域内最大級のトンネル工事・鉄道請負業者の一つとなった。今日では、その業務のうちマレーシア国外が占める割合が高まっている。

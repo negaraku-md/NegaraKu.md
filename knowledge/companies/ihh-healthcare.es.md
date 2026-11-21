@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: La entrada curvada del Pantai Hospital Kuala Lumpur iluminada de noche, con el letrero iluminado 'PANTAI HOSPITAL KUALA LUMPUR' sobre el pórtico y una fuente iluminada de color púrpura en la explanada
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur de noche — parte de la red Pantai Hospitals de IHH Healthcare
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: El moderno bloque gris del Prince Court Medical Centre en Kuala Lumpur con sus letras doradas 'PRINCE COURT' y su emblema dorado en la fachada superior, con vegetación y señalización de la calle abajo
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Jalan Kia Peng, Kuala Lumpur — propiedad de IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 Entre en un hospital Pantai o Gleneagles en Kuala Lumpur, en una planta de Mount Elizabeth en Singapur, en una clínica Acibadem en Estambul o en un centro Fortis en Delhi, y estará entrando en la misma familia corporativa. Esa familia es IHH Healthcare Berhad, una empresa con sede en Malasia que ha crecido hasta convertirse en uno de los mayores operadores hospitalarios privados del mundo.

@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: Một chi nhánh góc phố hai tầng màu trắng của RHB Bank nhìn qua một ngã tư lát gạch, dải biển hiệu màu xanh ghi RHB Islamic và RHB Bank với biểu tượng hình thoi đỏ, các mái che chợ dựng trên sân trước dưới bầu trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: Một chi nhánh RHB Bank tại Seremban 2, Negeri Sembilan, với biển hiệu RHB Bank và RHB Islamic dưới bầu trời xanh tươi
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB là một trong những cái tên mà hầu hết người Malaysia nhận ra trên một chi nhánh ngân hàng ngoài phố, một thẻ ATM hay một tờ rơi vay mua nhà — thế nhưng tập đoàn đứng sau nó vươn xa hơn nhiều so với ngân hàng bán lẻ, sang tài chính Hồi giáo, ngân hàng đầu tư, bảo hiểm và các thị trường trên khắp Đông Nam Á. Trang này là một cái nhìn tổng quan trung lập, dựa trên sự thật về Tập đoàn Ngân hàng RHB là gì, nó được cấu trúc ra sao, ai sở hữu nó và vì sao nó quan trọng.

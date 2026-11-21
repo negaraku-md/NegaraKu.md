@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: 青空を背にそびえる白いMenara Maybankタワーの全高。頂冠には街の屋根の上に、黄色いMaybankの標示と虎の頭のロゴが取り付けられている
+    kind: actual
+    origin: third-party
+    subject: 青空を背にChin Woo Stadiumから望むMenara Maybank、クアラルンプール
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: ドーム型の天蓋の下、Menara Maybankへと上る二連のエスカレーター。階段の下には黄色いMaybankのロゴを掲げ、KL本店を示す案内板がある
+    kind: actual
+    origin: third-party
+    subject: Maybankの歓迎標示があるMenara Maybankのエスカレーター入口、クアラルンプール
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 マレーシアのほとんどどこでも当座預金口座を開けば、それが Maybank の虎の頭のロゴを帯びている可能性は高い。Malayan Banking Berhad は国内最大の銀行であり——貸借対照表上の資産でも、株式市場が示すその価値でも——東南アジアでも最大級の銀行グループのひとつである。本プロフィールは、同グループが何を行い、どこで事業を展開し、誰が所有しているかを示す。

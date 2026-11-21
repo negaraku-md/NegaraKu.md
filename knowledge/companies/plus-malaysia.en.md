@@ -28,7 +28,7 @@ faq:
     a: "Under the 2020 decision, toll rates were reduced by 18% from 1 February 2020, and no toll increases are scheduled throughout the extended concession period to 2058."
 
 lang: "en"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: View through a windscreen approaching a toll plaza on the PLUS expressway, with overhead Touch 'n Go and SmartTAG lane signs above the booths, red-and-white lane dividers channelling traffic, under an overcast evening sky
+    kind: actual
+    origin: third-party
+    subject: the Tangkak toll plaza at Exit 235 on the PLUS-operated North-South Expressway
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: A steel overhead gantry carrying an orange variable-message display spanning the carriageways of the North-South Expressway, with light traffic and roadwork cones ahead and roadside trees under a grey cloudy sky
+    kind: actual
+    origin: third-party
+    subject: an overhead variable-message gantry spanning the North-South Expressway (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 Every time you drive from Bukit Kayu Hitam in the north to Johor Bahru in the south without stopping at a traffic light, you are actually travelling on the assets of a single company: PLUS Malaysia Berhad. It is not a government agency, but neither is it an ordinary private company — it is a concessionaire that operates the nation's road backbone under a long-term agreement with the government.

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: 青空を背にそびえる細身の白いPublic Bankタワー。頂部近くに赤い八角形のPublic Bankのロゴがあり、1階の支店入口の上に赤いPUBLIC BANKの標示がある
+    kind: actual
+    origin: third-party
+    subject: ジョホール州ジョホールバルのPublic Bank Tower
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: 淡い空を背に、淡褐色の石で覆われた段状のMenara Public Bankタワー。ピラミッド型の頂冠近くのパネルに赤い八角形のPublic Bankのロゴが掲げられている
+    kind: actual
+    origin: third-party
+    subject: 高さ170メートルの石張りの本社タワーMenara Public Bank、クアラルンプールのJalan Ampang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
 ---
 
 単一の創業者とこれほど密接に結びついたマレーシア企業は少なく、Public Bank と Tan Sri Teh Hong Piow の関係はまさにそれである。1966年にクアラルンプール中心部の一支店から始め、彼はやがて同国最大級の銀行グループのひとつへと成長する貸し手を築いた——そして規模よりも、何十年にもわたって銀行業界で最も低い不良債権比率を計上し続けた慎重さで知られる銀行である。

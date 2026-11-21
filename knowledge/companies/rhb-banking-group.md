@@ -84,6 +84,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: A white two-storey corner branch of RHB Bank seen across a brick-paved junction, its blue signage band reading RHB Islamic and RHB Bank with the red-diamond logo, market canopies set up on the forecourt under a clear blue sky
+    kind: actual
+    origin: third-party
+    subject: An RHB Bank branch at Seremban 2, Negeri Sembilan, with RHB Bank and RHB Islamic signage below a bright blue sky
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB is one of the names most Malaysians recognise on a high-street bank branch, an ATM card or a home-loan brochure — yet the group behind it reaches well beyond retail banking, into Islamic finance, investment banking, insurance and markets across Southeast Asia. This page is a neutral, factual overview of what RHB Banking Group is, how it is structured, who owns it and why it matters.

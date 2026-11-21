@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: Menara Public Bank putih yang ramping berlatarkan langit biru, logo Public Bank bersegi lapan merah berhampiran puncaknya dan papan tanda PUBLIC BANK merah di atas pintu masuk cawangan aras bawah
+    kind: actual
+    origin: third-party
+    subject: Public Bank Tower di Johor Bahru, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: Menara Public Bank bersalut batu berperingkat berwarna coklat muda di bawah langit pucat, dengan logo Public Bank bersegi lapan merah dipaparkan pada panel berhampiran mahkota piramidnya
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank, menara ibu pejabat bersalut batu setinggi 170 m, Jalan Ampang, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
 ---
 
 Tidak banyak syarikat Malaysia yang sebegitu rapat terikat dengan seorang pengasas sebagaimana Public Bank terikat dengan Tan Sri Teh Hong Piow. Bermula dengan satu cawangan di tengah-tengah Kuala Lumpur pada 1966, beliau membina sebuah pemberi pinjaman yang berkembang menjadi salah satu kumpulan perbankan terbesar negara ini — dan yang terkenal bukan kerana saiz tetapi kerana sikap berhati-hati, mencatatkan nisbah pinjaman lapuk terendah dalam sektor perbankan dekad demi dekad.

@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_O
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: ممر داخلي في مبنى الركاب KLIA Terminal 1 بسقفه المقبّب المنحني المكسو بألواح خشبية، ولافتات بوابات زرقاء للاتجاهات وسير متحرك، ومسافر وحيد يسير على الأرضية المصقولة
+    kind: actual
+    origin: third-party
+    subject: الصالة الداخلية لـ KLIA Terminal 1، مطار كوالالمبور الدولي
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: صالة KLIA Terminal 1 تُظهر أعمدة السقف الفولاذية البيضاء المتشعّبة لمطار الغابة أمام جدران زجاجية عالية، مع سياج إعلاني أزرق لأعمال تطوير Malaysia Airports يمتد على طول الممر
+    kind: actual
+    origin: third-party
+    subject: صالة KLIA Terminal 1 مع علامة Malaysia Airports (MAHB)
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 تكاد كل مرة يهبط فيها مسافر في ماليزيا يصل إلى مطار تديره شركة واحدة. فمطارات ماليزيا القابضة برهاد (Malaysia Airports Holdings Berhad، MAHB) تشغّل مطار كوالالمبور الدولي — الموسوم الآن KLIA Terminal 1 وTerminal 2 — و، بحسب عدّها الخاص، 39 مطارًا عبر البلاد، إضافةً إلى بوابة واحدة في الخارج بإسطنبول. وفي عام 2025 صارت أيضًا شيئًا غير معتاد لمشغّل مطارات وطني: لم تعد شركة عامة.

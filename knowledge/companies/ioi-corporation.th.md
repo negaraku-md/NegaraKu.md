@@ -30,7 +30,7 @@ faq:
     a: "ในมาเลเซีย (รวมยะโฮร์ มะละกา เนกรีเซมบีลัน ปาหัง ซาบาห์ และซาราวัก) และในอินโดนีเซีย (กาลิมันตันตะวันตกและกลาง)"
 
 lang: "th"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: หอโรงกลั่นน้ำมันปาล์มอุตสาหกรรมสีน้ำเงินที่มีตัวอักษร 'IOI' ขนาดใหญ่และป้ายโลโก้ 'IOI EDIBLE OILS' ที่ซันดากัน รัฐซาบาห์ มีเนินเขาที่ปกคลุมด้วยป่าอยู่ด้านหลังและต้นปาล์มอยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: คอมเพล็กซ์โรงกลั่นน้ำมันปาล์ม IOI Edible Oils ที่ซันดากัน รัฐซาบาห์ ส่วนหนึ่งของธุรกิจการผลิตจากทรัพยากรของ IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: โถงกลางหลายชั้นภายใน IOI City Mall 2 มีป้ายโปรโมชันสีชมพู 'IOi CiTY MALL 2' สูงแขวนเหนือระเบียงโค้งที่เรียงด้วยหน้าร้าน
+    kind: actual
+    origin: third-party
+    subject: โถงกลางภายใน IOI City Mall 2 ส่วนขยายระยะที่สองของ IOI City Mall ปุตราจายา
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 บริษัทที่เริ่มต้นชีวิตด้วยการขายก๊าซอุตสาหกรรม ปัจจุบันปลูกปาล์มน้ำมันมากพอที่จะเติมเต็มที่ดินสำรองขนาดเท่าอำเภอเล็ก ๆ และแปรรูปผลปาล์มนั้นเป็นทุกอย่างตั้งแต่น้ำมันปรุงอาหารไปจนถึงกรดไขมันในสบู่ของคุณ

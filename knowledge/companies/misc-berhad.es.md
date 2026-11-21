@@ -29,7 +29,7 @@ faq:
     a: "El Grupo MISC reportó unos ingresos de RM13.237,5 millones en el EF2024, un descenso del 7,2% respecto a los RM14.271,7 millones del EF2023, con un beneficio después de impuestos de RM1.233,2 millones."
 
 lang: "es"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: Una vista aérea de un embarcadero de hormigón sobre agua turquesa que lleva filas de altos brazos grises de carga marina y tuberías, con duques de alba de amarre en primer plano y un puerto con grúas y tanques de almacenamiento en la orilla opuesta
+    kind: representative
+    origin: third-party
+    subject: brazos de carga marina en la terminal de exportación de GNL en Bintulu, Sarawak, donde cargan buques como los de MISC el gas natural licuado malasio
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad es el brazo marítimo de la economía energética de Malasia: el grupo que transporta el gas y el petróleo del país por los océanos del mundo.

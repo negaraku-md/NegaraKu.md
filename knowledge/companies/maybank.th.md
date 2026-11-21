@@ -31,7 +31,7 @@ faq:
     a: "Maybank2u คือแบรนด์ธนาคารออนไลน์และมือถือของเมย์แบงก์สำหรับลูกค้ารายย่อยในมาเลเซีย ครอบคลุมการเข้าถึงบัญชี การโอนเงิน การชำระบิล และธุรกรรมธนาคารประจำวันอื่น ๆ มันเป็นหนึ่งในบริการธนาคารดิจิทัลที่ใช้กันแพร่หลายที่สุดในประเทศ"
 
 lang: "th"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_s
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: อาคาร Menara Maybank สีขาวเต็มความสูงตัดกับท้องฟ้าสีฟ้า มีป้าย Maybank สีเหลืองและโลโก้หัวเสือติดตั้งที่ยอดเหนือหลังคาเมือง
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank มองจากสนามกีฬาชินวูตัดกับท้องฟ้าสีฟ้า กัวลาลัมเปอร์
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: บันไดเลื่อนคู่ใต้หลังคาโดมนำขึ้นสู่ Menara Maybank พร้อมโลโก้ Maybank สีเหลืองบนป้ายต้อนรับที่ระบุชื่อ KL Main Branch ที่เชิงบันได
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าบันไดเลื่อนสู่ Menara Maybank พร้อมป้ายต้อนรับ Maybank กัวลาลัมเปอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 เปิดบัญชีกระแสรายวันที่ไหนก็ได้แทบทุกแห่งในมาเลเซีย และมีโอกาสสูงที่มันจะมีโลโก้หัวเสือของเมย์แบงก์ Malayan Banking Berhad เป็นธนาคารที่ใหญ่ที่สุดของประเทศ — ทั้งโดยสินทรัพย์ในงบดุลและโดยมูลค่าที่ตลาดหุ้นกำหนด — และเป็นหนึ่งในกลุ่มธนาคารที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ ข้อมูลหน่วยงานนี้ชี้แจงว่ากลุ่มนี้ทำอะไร ดำเนินงานที่ไหน และใครเป็นเจ้าของ

@@ -29,7 +29,7 @@ faq:
     a: "मलेशियाई राज्य निवेश कोष Permodalan Nasional Berhad (PNB) सायम डार्बी की कंपनियों में एक प्रमुख शेयरधारक है, और Sime Darby Berhad द्वारा अधिग्रहीत UMW हिस्सेदारी का विक्रेता PNB ही था। शेयरधारिता के सटीक प्रतिशत समय के साथ बदलते हैं और इन्हें प्रत्येक कंपनी की नवीनतम Bursa Malaysia फाइलिंग के विरुद्ध जाँचा जाना चाहिए।"
 
 lang: "hi"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Lada
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: Kunak, सबा में एक औद्योगिक परिसर में लाल Sime Darby लोगो वाले बड़े धूसर कच्चे पाम तेल भंडारण टैंक, अग्रभूमि में एक नारियल का ताड़
+    kind: actual
+    origin: third-party
+    subject: Kunak, सबा में Sime Darby कच्चा पाम तेल (CPO) भंडारण टैंक
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: एक सफ़ेद Sime Darby Plantation चिह्न स्तंभ जिस पर लाल Sime Darby लोगो है, ऑयल पाम की एक दीवार के सामने हरी भू-आच्छादन में खड़ा, ऊपर बिजली की लाइनें
+    kind: actual
+    origin: third-party
+    subject: Sandakan–Lahad Datu सड़क, सबा पर सड़क किनारे Sime Darby Plantation एस्टेट चिह्न
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 मलेशिया के सबसे पुराने कॉर्पोरेट नामों में से एक अब एक नहीं, बल्कि तीन कंपनियाँ है।

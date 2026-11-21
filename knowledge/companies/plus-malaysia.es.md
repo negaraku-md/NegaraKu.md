@@ -28,7 +28,7 @@ faq:
     a: "En virtud de la decisión de 2020, las tarifas de peaje se redujeron un 18% desde el 1 de febrero de 2020, y no hay previstas subidas de peaje durante todo el periodo de concesión prorrogado hasta 2058."
 
 lang: "es"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: Vista a través del parabrisas al acercarse a una plaza de peaje en la autopista PLUS, con señales elevadas de carriles Touch 'n Go y SmartTAG sobre las casetas, separadores de carril rojos y blancos canalizando el tráfico, bajo un cielo encapotado al atardecer
+    kind: actual
+    origin: third-party
+    subject: la plaza de peaje de Tangkak en la Salida 235 de la autopista Norte-Sur operada por PLUS
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: Un pórtico elevado de acero que lleva un panel naranja de mensajes variables que abarca las calzadas de la autopista Norte-Sur, con tráfico ligero y conos de obras por delante y árboles al borde de la carretera bajo un cielo gris nublado
+    kind: actual
+    origin: third-party
+    subject: un pórtico elevado con panel de mensajes variables que abarca la autopista Norte-Sur (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
 ---
 
 Cada vez que conduce desde Bukit Kayu Hitam, en el norte, hasta Johor Bahru, en el sur, sin detenerse en un semáforo, en realidad está viajando sobre los activos de una sola empresa: PLUS Malaysia Berhad. No es una agencia gubernamental, pero tampoco una empresa privada corriente: es una concesionaria que opera la columna vertebral viaria del país en virtud de un acuerdo a largo plazo con el gobierno.

@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jp
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: A slender white Public Bank tower against a blue sky, the red octagonal Public Bank logo near its top and a red PUBLIC BANK sign above the ground-floor branch entrance
+    kind: actual
+    origin: third-party
+    subject: Public Bank Tower in Johor Bahru, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: The tan stone-clad, stepped Menara Public Bank tower under a pale sky, the red octagonal Public Bank logo displayed on a panel near its pyramidal crown
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank, the 170 m stone-clad HQ tower, Jalan Ampang, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
 ---
 
 Few Malaysian companies are as closely tied to a single founder as Public Bank is to Tan Sri Teh Hong Piow. Starting with one branch in central Kuala Lumpur in 1966, he built a lender that grew into one of the country's largest banking groups — and one famous less for size than for caution, posting the banking sector's lowest bad-loan ratios decade after decade.

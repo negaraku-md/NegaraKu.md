@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: مصنع أسمدة بتروكيماوي كبير يُرى عبر نهر، مع صف طويل من خلايا أبراج التبريد وأنابيب عمليات زرقاء ومدخنة بالأحمر والأبيض، أمام نباتات خضراء وسماء غائمة
+    kind: actual
+    origin: third-party
+    subject: مصنع ASEAN Bintulu Fertiliser في ساراواك، منشأة بتروكيماوية للأمونيا واليوريا تشغّلها PETRONAS Chemicals
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: صهريج تخزين أسطواني أبيض كبير خلف سياج شبكي، مكتوب عليه 'PETRONAS 90 MLC' بجوار شعار قطرة PETRONAS الخضراء، مع أنابيب وهياكل مصنع على أحد الجانبين تحت سماء زرقاء بغيوم خفيفة
+    kind: actual
+    origin: third-party
+    subject: صهريج تخزين يحمل علامة PETRONAS في مجمّع Pengerang المتكامل في جوهور
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 تكاد كل كيس أسمدة يُنثر على مزرعة ماليزية، وحصة كبيرة من راتنجات البلاستيك المصبوبة في مصانع البلاد، تعود إلى شركة واحدة: مجموعة بتروناس للكيماويات برهاد (Petronas Chemicals Group Berhad). فهي ذراع الكيماويات لشركة النفط الوطنية، وأكبر منتج متكامل للكيماويات في ماليزيا، و — على نحو غير معتاد لنشاط مرتبط بالدولة — شركة مدرجة على نحو منفصل يمكن لأي أحد شراء أسهمها.

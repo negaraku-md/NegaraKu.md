@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_O
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: KLIA Terminal 1 का भीतरी गलियारा जिसमें घुमावदार लकड़ी-की-पट्टियों वाली तहदार छत, नीले गेट दिशा-सूचक साइन और एक ट्रैवलेटर है, एक अकेला यात्री चमकीले फ़र्श पर चलता हुआ
+    kind: actual
+    origin: third-party
+    subject: KLIA Terminal 1, Kuala Lumpur International Airport का भीतरी कॉनकोर्स
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: KLIA Terminal 1 कॉनकोर्स जिसमें ऊँची काँच की दीवारों के विरुद्ध वन-हवाई-अड्डे के सफ़ेद फैले हुए इस्पात छत स्तंभ दिख रहे हैं, गलियारे के साथ एक नीला Malaysia Airports उन्नयन बाड़ा लगा हुआ
+    kind: actual
+    origin: third-party
+    subject: Malaysia Airports (MAHB) ब्रांडिंग के साथ KLIA Terminal 1 कॉनकोर्स
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 लगभग हर बार जब कोई यात्री मलेशिया में उतरता है, तो वह एक कंपनी द्वारा संचालित हवाई अड्डे पर पहुँचता है। Malaysia Airports Holdings Berhad (MAHB) Kuala Lumpur International Airport — अब KLIA Terminal 1 और Terminal 2 के रूप में ब्रांडेड — और, अपनी गणना के अनुसार, देश भर में 39 हवाई अड्डों का परिचालन करती है, साथ ही इस्तांबुल में एक विदेशी द्वार का भी। 2025 में यह एक राष्ट्रीय हवाई अड्डा संचालक के लिए कुछ असामान्य भी बन गई: अब एक सार्वजनिक कंपनी नहीं।

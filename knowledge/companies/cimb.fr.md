@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Forme
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Une tour moderne habillée de verre portant un logo CIMB rouge près de son sommet, dressée à côté du bâtiment Q Sentral à KL Sentral, encadrée par le feuillage sombre des arbres
+    kind: actual
+    origin: third-party
+    subject: La tour moderne CIMB à Kuala Lumpur Sentral, vue depuis le jardin botanique Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Un bâtiment patrimonial de deux étages de l'époque coloniale, blanc, abritant une agence de CIMB Bank, avec une enseigne rouge CIMB BANK au-dessus de l'entrée du rez-de-chaussée
+    kind: actual
+    origin: third-party
+    subject: L'agence CIMB Bank dans un bâtiment patrimonial de la rue Bendahara, ville de Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
 ---
 
 CIMB est la banque que l'on croise presque partout où l'on se tourne dans le commerce malaisien — et de plus en plus dans toute l'Asie du Sud-Est. C'est une banque universelle, ce qui signifie qu'elle fait tout, du compte d'épargne d'un salarié aux émissions obligataires de plusieurs milliards de ringgit et aux acquisitions transfrontalières, et elle le fait non seulement en Malaisie mais à travers de grandes opérations en Indonésie, en Thaïlande et à Singapour.

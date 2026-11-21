@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_f
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: விளையாட்டு நிகழ்வு ஒன்றின் போது 'axiata arena' என்ற பிரம்மாண்டமான நீல-மெஜந்தா நிற பலகையின் கீழ், Axiata Arena-வின் முதன்மை நுழைவாயிலுக்கு வெளியே கூடியிருக்கும் மக்கள்
+    kind: actual
+    origin: third-party
+    subject: ஒரு நிகழ்வின் போது புக்கிட் ஜாலில்லில் உள்ள Axiata Arena-வின் முதன்மை நுழைவாயிலில் கூட்டம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017 SEA Games-இல் பூப்பந்து போட்டியின் போது நிரம்பிய Axiata Arena-வின் உட்புறம்; மைதானத்தைச் சுற்றியுள்ள படிநிலை நீல நிற இருக்கைகளில் பார்வையாளர்கள் நிறைந்துள்ளனர்
+    kind: actual
+    origin: third-party
+    subject: 2017 SEA Games பூப்பந்து நிகழ்வின் போது Axiata Arena-வின் உட்புறம்
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
 ---
 
 மலேசியாவின் மிகப்பெரிய தொலைத்தொடர்புக் கதை ஒரே வலையமைப்பு அல்ல, மாறாக ஆறு நாடுகளில் மொபைல் இயக்குநர்களின் பங்குகளைச் சொந்தமாக்கும் ஒரு ஹோல்டிங் நிறுவனம். Axiata Group Berhad, Kuala Lumpur Sentral-இல் ஒரு அலுவலகக் கோபுரத்தில் அமர்ந்து, தெற்கு மற்றும் தென்கிழக்கு ஆசியா முழுவதும் நூற்றுக்கணக்கான மில்லியன் மக்களை இணைக்கும் கேரியர்களைக் கட்டுப்படுத்துகிறது, பகுதி உரிமையாக்குகிறது அல்லது கூட்டாக நடத்துகிறது.
