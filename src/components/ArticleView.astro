@@ -8,6 +8,7 @@ import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
 import { getFramework } from '@/lib/frameworks';
+import { michelinTrajectory } from '@/lib/michelin';
 import { imageLabel, needsRepresentativeBadge, reviewSourceLabel } from '@/lib/imageProvenance';
 import { isolateRanges } from '@/lib/bidi';
 import TrustBadge from './TrustBadge.astro';
@@ -63,6 +64,10 @@ const heroRepBadge = d.hero && needsRepresentativeBadge(d.heroKind);
 // Attributed taste commentary — PLACE food articles only; an award alone is not a
 // review, so this renders only when a real food observation was authored.
 const reviews = (d.foodType === 'place' && Array.isArray(d.review)) ? d.review.filter((r) => (r.flavor?.length ?? 0) > 0) : [];
+// MICHELIN edition trajectory (restaurant's own page) — only for a michelin-guide
+// restaurant that appears in ≥2 editions, so there is a real record to show.
+const isMichelin = d.category === 'food-lifestyle' && (Array.isArray(d.subcategory) ? d.subcategory.includes('michelin-guide') : d.subcategory === 'michelin-guide');
+const mTrajectory = isMichelin ? michelinTrajectory(d.slug, locale) : null;
 const sourceById = new Map((d.sources ?? []).filter((s) => s.id).map((s) => [s.id as string, s]));
 const heroAltText = d.hero
   ? (d.heroAlt ?? '')
@@ -508,6 +513,20 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               <span class="sec-h"><span class="ico" set:html={ICON.place} />{L('Lokasi & penilaian', 'Where to find & ratings', '地点与评价', 'இடம் & மதிப்பீடுகள்', '場所と評価', '위치 및 평점', 'สถานที่และคะแนน', 'Địa điểm & đánh giá', 'Lokasi & penilaian', 'الموقع والتقييمات', 'स्थान और रेटिंग', 'Dónde encontrarlo y valoraciones', "Où le trouver et avis")}</span>
             </header>
             <div class="lb place">
+              {mTrajectory && (
+                <div class="mich-track">
+                  <span class="mich-track-h">{mTrajectory.heading}</span>
+                  <ol class="mich-steps">
+                    {mTrajectory.steps.map((s) => (
+                      <li class={s.current ? 'mich-step is-now' : 'mich-step'}>
+                        <span class="mich-yr">{s.year}</span>
+                        <span class="mich-dist">{s.dist}{s.greenStar ? ' 🌱' : ''}</span>
+                      </li>
+                    ))}
+                  </ol>
+                  <span class="mich-track-note">{mTrajectory.note}</span>
+                </div>
+              )}
               {d.place.nativeName && <p class="place-native">{d.place.nativeName}</p>}
               {d.place.address && (
                 <p class="place-row"><span class="place-ico" set:html={ICON.place} /><span>{d.place.address}{d.place.priceRange ? ` · ${d.place.priceRange}` : ''}</span></p>
@@ -1459,6 +1478,33 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .place-links a:hover { border-bottom-color: var(--gold); }
   .place-emoji { flex: 0 0 auto; width: 1.15em; margin-top: 0.05em; text-align: center; }
   .place-lbl { color: var(--ink); }
+  .mich-track {
+    display: flex; flex-direction: column; gap: 0.4rem;
+    padding: 0.7rem 0.85rem; border-radius: 9px;
+    background: color-mix(in srgb, var(--gold) 7%, var(--surface-2));
+    border: 1px solid color-mix(in srgb, var(--gold) 28%, var(--line));
+  }
+  .mich-track-h {
+    font-family: var(--font-title); font-weight: 700; font-size: 0.74rem;
+    text-transform: uppercase; letter-spacing: 0.07em; color: var(--gold);
+  }
+  .mich-steps {
+    list-style: none; margin: 0; padding: 0;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.55rem;
+  }
+  .mich-step {
+    display: inline-flex; align-items: baseline; gap: 0.35rem;
+    font-size: 0.9rem; color: var(--ink-soft); white-space: nowrap;
+  }
+  .mich-step + .mich-step::before {
+    content: "→"; margin-inline-end: 0.2rem; color: var(--ink-faint, var(--ink-soft)); opacity: 0.7;
+  }
+  :global([dir="rtl"]) .mich-step + .mich-step::before { content: "←"; }
+  .mich-yr { font-variant-numeric: tabular-nums; color: var(--ink-faint, var(--ink-soft)); font-size: 0.82rem; }
+  .mich-dist { color: var(--ink); font-weight: 600; }
+  .mich-step.is-now .mich-yr { color: var(--gold); font-weight: 700; }
+  .mich-step.is-now .mich-dist { color: var(--gold); }
+  .mich-track-note { font-size: 0.76rem; color: var(--ink-faint, var(--ink-soft)); opacity: 0.85; line-height: 1.45; }
   .halal-badge { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.2rem 0.65rem; border-radius: 999px; font-size: 0.84rem; font-weight: 700; line-height: 1.5; }
   .halal-ok { color: #8ff0b8; background: color-mix(in srgb, #10b981 16%, transparent); border: 1px solid color-mix(in srgb, #10b981 45%, transparent); }
   .halal-no { color: #ffb4b4; background: color-mix(in srgb, #f43f5e 15%, transparent); border: 1px solid color-mix(in srgb, #f43f5e 45%, transparent); }

@@ -114,6 +114,70 @@ export function michelinListProps(locale: Locale): MichelinListProps {
   return { facets, enrich };
 }
 
+// Per-restaurant edition trajectory for the restaurant's OWN article page (the
+// card only shows a one-line tenure; this shows the full year-by-year record).
+// Returns null unless the restaurant appears in ≥2 editions — a single-edition
+// debut has no "track record" to tell. Reads the same build-side michelin.json,
+// so it is freshness-neutral (touches no frontmatter / translation hash).
+export interface MichelinStep {
+  year: number;
+  dist: string;
+  greenStar: boolean;
+  current: boolean;
+}
+export interface MichelinTrajectory {
+  heading: string;
+  steps: MichelinStep[];
+  note: string;
+}
+
+export function michelinTrajectory(slug: string, locale: Locale): MichelinTrajectory | null {
+  // prettier-ignore
+  const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? en) : locale === 'es' ? (es ?? en) : locale === 'hi' ? (hi ?? en) : locale === 'ar' ? (ar ?? en) : locale === 'id' ? (id ?? en) : locale === 'vi' ? (vi ?? en) : locale === 'th' ? (th ?? en) : locale === 'ko' ? (ko ?? en) : locale === 'ja' ? (ja ?? en) : locale === 'ta' ? (ta ?? en) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+  const rows = michelin.restaurants as Row[];
+  const m = rows.find((r) => r.slug === slug);
+  if (!m) return null;
+  const editions = m.editions?.length ? m.editions : [m.year];
+  if (editions.length < 2) return null; // a debut has no track record to show
+  const hist = m.history ?? { [String(m.year)]: m.distinction };
+  const gsy = new Set(m.greenStarYears ?? []);
+  const lblSelected = L('Terpilih', 'Selected', '推荐', 'தேர்ந்தெடுக்கப்பட்டது', 'セレクテッド', '셀렉티드', 'คัดสรร', 'Selected', 'Terpilih', 'مختارات', 'चयनित', 'Seleccionado', 'Sélectionné');
+  const distShort = (d: Dist): string => {
+    if (d === 'three-star') return '★★★';
+    if (d === 'two-star') return '★★';
+    if (d === 'star') return '★';
+    if (d === 'bib-gourmand') return 'Bib Gourmand';
+    return lblSelected;
+  };
+  const steps: MichelinStep[] = [...editions]
+    .sort((a, b) => a - b)
+    .map((y) => ({
+      year: y,
+      dist: distShort(hist[String(y)] ?? m.distinction),
+      greenStar: gsy.has(y),
+      current: y === m.year,
+    }));
+  return {
+    heading: L('Rekod MICHELIN', 'MICHELIN track record', '米其林历年入选', 'MICHELIN பதிவு', 'ミシュラン受賞歴', '미쉐린 선정 이력', 'ประวัติมิชลิน', 'Thành tích MICHELIN', 'Rekam jejak MICHELIN', 'سجل ميشلان', 'मिशेलिन रिकॉर्ड', 'Trayectoria MICHELIN', 'Palmarès MICHELIN'),
+    steps,
+    note: L(
+      'Status setiap edisi; sahkan yang terkini di Panduan MICHELIN rasmi.',
+      'Status per edition; confirm the current one on the official MICHELIN Guide.',
+      '各版本状态；最新状态请以米其林官方指南为准。',
+      'ஒவ்வொரு பதிப்பின் நிலை; தற்போதையதை அதிகாரப்பூர்வ MICHELIN வழிகாட்டியில் உறுதிப்படுத்தவும்.',
+      '各版の状況です。最新は公式ミシュランガイドでご確認ください。',
+      '에디션별 상태입니다. 최신 상태는 공식 미쉐린 가이드에서 확인하세요.',
+      'สถานะแต่ละฉบับ โปรดยืนยันล่าสุดในมิชลินไกด์ทางการ',
+      'Trạng thái từng ấn bản; hãy xác nhận bản mới nhất trên Cẩm nang MICHELIN chính thức.',
+      'Status per edisi; konfirmasikan yang terkini di Panduan MICHELIN resmi.',
+      'الحالة لكل إصدار؛ تأكد من الأحدث في دليل ميشلان الرسمي.',
+      'प्रत्येक संस्करण की स्थिति; नवीनतम की पुष्टि आधिकारिक मिशेलिन गाइड पर करें।',
+      'Estado por edición; confirma el actual en la Guía MICHELIN oficial.',
+      'Statut par édition ; vérifiez l’actuel sur le Guide MICHELIN officiel.',
+    ),
+  };
+}
+
 // Annual-revision caveat + the "what is the MICHELIN Guide?" explainer link, shown
 // on the michelin-guide topic page (an accuracy safeguard — the selection changes
 // yearly, so readers must confirm current status before visiting).
