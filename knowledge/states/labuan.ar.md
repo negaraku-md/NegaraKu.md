@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "المؤسِّسون والمستشارون الضريبيون وفرق التمويل الذين يقيّمون هيكلاً في لابوان، والقرّاء الراغبون في فهم سبب معاملة لابوان معاملةً مختلفة عن بقية ماليزيا."
 
 lang: "ar"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-P
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: برج المدخنة (The Chimney) العالي من الطوب الأحمر في Labuan واقفاً أمام سماء زرقاء داكنة مع أشجار نارجيل ومرج أخضر حول قاعدته
+    kind: actual
+    origin: third-party
+    subject: The Chimney، معلم Labuan العالي من الطوب الأحمر من الحقبة الاستعمارية، يقف على مرج بجانب أشجار نارجيل
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: رصيف الميناء ومباني الواجهة البحرية لبلدة Labuan من الميناء، مع قوارب وأفق الجزيرة تحت سماء زرقاء غائمة
+    kind: actual
+    origin: third-party
+    subject: رصيف محطة عبّارات Labuan وبلدة الواجهة البحرية يُرى عبر الميناء من البحر
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 شركتان، المالكون أنفسهم، والعملاء أنفسهم. إحداهما مؤسَّسة في كوالالمبور وتدفع ضريبة

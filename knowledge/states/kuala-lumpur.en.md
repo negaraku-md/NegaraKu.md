@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Wide view of the Kuala Lumpur skyline with the needle-topped KL Tower and clustered high-rises beneath large white clouds and green parkland in the foreground
+    kind: actual
+    origin: third-party
+    subject: Panoramic Kuala Lumpur city skyline with the KL Tower under a bright cloudy sky
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: The Moorish-style Sultan Abdul Samad Building with its tall clock tower and shining copper dome in central Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: The colonial-era Sultan Abdul Samad Building with its copper-domed clock tower, central Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 Kuala Lumpur is Malaysia's national capital, but constitutionally it is not a state —

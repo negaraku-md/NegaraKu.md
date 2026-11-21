@@ -39,7 +39,7 @@ verificationNeeded:
   - "Confirmer le nombre de précincts (20) et le chiffre de superficie de 4,931 hectares par rapport à la plus récente publication officielle de Perbadanan Putrajaya — le rapport annuel de 2017 a jadis consigné un chiffre de superficie différent."
 
 lang: "fr"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: La mosquée Putra rose et son minaret rougeoyant à l'heure dorée, parfaitement reflétés dans la surface calme du lac de Putrajaya
+    kind: actual
+    origin: third-party
+    subject: La mosquée Putra reflétée dans les eaux immobiles du lac de Putrajaya à l'heure dorée
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: Le pont moderne et blanc Seri Wawasan avec son pylône incliné en forme de voile et ses câbles en éventail traversant le lac à Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Le pont Seri Wawasan en forme de voile enjambant le lac à Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 En 1999, le Bureau du Premier ministre quitta Kuala Lumpur. La

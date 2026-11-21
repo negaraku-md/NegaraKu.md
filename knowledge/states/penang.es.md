@@ -33,7 +33,7 @@ verificationNeeded:
   - "Confirm Penang's current population against the latest DOSM state population release before publication."
 
 lang: "es"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: Una hilera iluminada por el sol de tiendas-vivienda patrimoniales de dos plantas con ventanas de contraventanas de madera y pasillos columnados de cinco pies a lo largo de una calle en George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Una hilera de históricas casas adosadas patrimoniales de dos plantas a lo largo de una calle de George Town, Penang
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: Barcas de pesca de madera desgastadas amarradas junto a una casa sobre pilotes frente al mar en el embarcadero del clan Chew, mirando hacia la terminal de ferris de Weld Quay en George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Barcas de madera y casas sobre pilotes en el embarcadero del clan Chew en el frente marítimo de George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 Penang rinde muy por encima de su tamaño. Es uno de los estados más pequeños de Malasia por

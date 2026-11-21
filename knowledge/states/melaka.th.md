@@ -37,7 +37,7 @@ verificationNeeded:
   - "ยืนยันพื้นที่ของเขตแกนและเขตกันชนเฉพาะส่วนของมะละกา (เทียบกับทรัพย์สินเป็นชุดทั้งหมด) เทียบกับเอกสารการเสนอชื่อ 1223bis"
 
 lang: "th"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: โบสถ์ Christ Church Melaka สีแดงข้างหอศิลป์ Melaka Art Gallery พร้อมแถวรถสามล้อถีบที่ประดับด้วยดอกไม้หลากสีจอดอยู่ในลาน
+    kind: actual
+    origin: third-party
+    subject: โบสถ์ Christ Church Melaka ทาสีแดงและหอศิลป์ Melaka Art Gallery พร้อมรถสามล้อถีบที่ประดับดอกไม้สดใสจอดอยู่ด้านหน้า
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: ซากหินศิลาแลงที่ผุกร่อนของป้อม A Famosa ในมะละกา (Melaka) พร้อมปืนใหญ่โบราณบนสนามหญ้าใต้ท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: กำแพงหินที่ยังหลงเหลือของประตูป้อมปราการโปรตุเกส A Famosa (Porta de Santiago) ในมะละกา พร้อมปืนใหญ่เก่าอยู่ด้านหน้า
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 เก้ารัฐในมาเลเซียมีผู้ปกครอง มะละกาไม่ใช่หนึ่งในนั้น — แม้ชื่อของมันจะผูกติดกับรัฐสุลต่านมลายูที่มีชื่อเสียงที่สุดในประวัติศาสตร์ของภูมิภาคนี้

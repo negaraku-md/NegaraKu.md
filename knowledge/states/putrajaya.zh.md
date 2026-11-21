@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: 粉色的 Putra Mosque 及其宣礼塔在黄金时刻泛着光辉，完美地倒映在 Putrajaya Lake 平静的水面上
+    kind: actual
+    origin: third-party
+    subject: 黄金时刻倒映在 Putrajaya Lake 静水中的 Putra Mosque
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: 现代白色的 Seri Wawasan Bridge 带有倾斜的帆状桥塔和扇形拉索，横跨 Putrajaya 的湖面
+    kind: actual
+    origin: third-party
+    subject: 横跨 Putrajaya 湖面的帆形 Seri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 1999年，首相署迁出吉隆坡。首都并没有改变——改变的是它的行政机器。

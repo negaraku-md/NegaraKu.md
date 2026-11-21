@@ -37,7 +37,7 @@ verificationNeeded:
   - "Pastikan luas zona inti dan zona penyangga khusus bagian Melaka (dibandingkan keseluruhan properti serial) terhadap dokumen pencalonan 1223bis."
 
 lang: "id"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: Gereja Christ Church Melaka yang merah di samping Galeri Seni Melaka, dengan sebaris beca warna-warni berhias bunga yang terparkir di alun-alun
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka bercat merah dan Galeri Seni Melaka dengan beca berhias bunga warna-warni yang terparkir di depan
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: Sisa-sisa benteng A Famosa di Melaka dari batu laterit lapuk dengan meriam antik di atas rumput di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Dinding batu yang tersisa dari gerbang benteng Portugis A Famosa (Porta de Santiago) di Melaka, dengan meriam tua di depannya
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 Sembilan negeri di Malaysia memiliki Raja. Melaka bukan salah satunya —

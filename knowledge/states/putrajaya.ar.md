@@ -38,7 +38,7 @@ verificationNeeded:
   - "التأكد من عدد المناطق (20) ورقم المساحة البالغ 4,931 هكتارًا مقابل أحدث منشور رسمي لمؤسسة بوتراجايا — إذ سجّل التقرير السنوي لعام 2017 ذات مرة رقم مساحة مختلفًا."
 
 lang: "ar"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: مسجد Putra الوردي ومئذنته متوهّجَين في الساعة الذهبية، منعكسَين بشكل تام على سطح بحيرة Putrajaya الهادئ
+    kind: actual
+    origin: third-party
+    subject: مسجد Putra منعكساً في مياه بحيرة Putrajaya الساكنة في الساعة الذهبية
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: جسر Seri Wawasan الأبيض الحديث ببرجه المائل الشبيه بالشراع وكابلاته المروحية يعبر البحيرة في Putrajaya
+    kind: actual
+    origin: third-party
+    subject: جسر Seri Wawasan ذو الشكل الشِّراعي يمتد عبر البحيرة في Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 في عام 1999، انتقل مكتب رئيس الوزراء خارج كوالالمبور. لم تتغيّر العاصمة — ما

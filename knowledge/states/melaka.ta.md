@@ -37,7 +37,7 @@ verificationNeeded:
   - "மலாக்கா பகுதிக்கே உரிய மைய மண்டலம் மற்றும் இடையக மண்டலப் பரப்பளவை (முழுத் தொடர் சொத்துக்கு மாறாக) 1223bis பரிந்துரை ஆவணத்துடன் உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: Melaka கலைக்கூடத்திற்கு அருகில் உள்ள சிவப்பு Christ Church Melaka, சதுக்கத்தில் நிறுத்தப்பட்ட வண்ணமயமான மலர்-அலங்கரிக்கப்பட்ட முச்சக்கர வண்டிகளின் வரிசையுடன்
+    kind: actual
+    origin: third-party
+    subject: சிவப்பு வண்ணம் பூசப்பட்ட Christ Church Melaka மற்றும் Melaka கலைக்கூடம், முன்னால் நிறுத்தப்பட்ட பிரகாசமாக அலங்கரிக்கப்பட்ட மலர்-மூடிய முச்சக்கர வண்டிகளுடன்
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: நீல வானத்தின் கீழ் புல்லில் பழங்கால பீரங்கிகளுடன் Melaka-வில் உள்ள A Famosa கோட்டையின் கடினமான லேட்டரைட் கல் எச்சங்கள்
+    kind: actual
+    origin: third-party
+    subject: Melaka-வில் A Famosa (Porta de Santiago) போர்த்துகீசிய கோட்டை வாயிலின் எஞ்சியிருக்கும் கல் சுவர், முன்னால் பழைய பீரங்கிகளுடன்
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 மலேசியாவின் ஒன்பது மாநிலங்களுக்கு Raja உண்டு. மலாக்கா அவற்றில் ஒன்று அல்ல —

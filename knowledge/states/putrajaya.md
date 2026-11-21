@@ -103,6 +103,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: Masjid Putra berwarna merah jambu dan menaranya yang bercahaya pada waktu keemasan, terpantul sempurna pada permukaan tenang Tasik Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Masjid Putra terpantul di air tenang Tasik Putrajaya pada waktu keemasan
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: Jambatan Seri Wawasan putih moden dengan pilonnya yang bersudut seperti layar dan kabel berkipas merentasi tasik di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Jambatan Seri Wawasan berbentuk layar yang merentangi tasik di Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 Pada 1999, Pejabat Perdana Menteri berpindah keluar dari Kuala Lumpur. Ibu negara tidak

@@ -39,7 +39,7 @@ verificationNeeded:
   - "Xác nhận số lượng khu (20) và con số diện tích 4,931 hecta so với ấn phẩm chính thức mới nhất của Tổng công ty Putrajaya — báo cáo thường niên 2017 từng ghi một con số diện tích khác."
 
 lang: "vi"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: Nhà thờ Hồi giáo Putra màu hồng và tháp giáo đường của nó rực sáng vào giờ hoàng kim, phản chiếu hoàn hảo trên mặt nước tĩnh lặng của Hồ Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Nhà thờ Hồi giáo Putra phản chiếu trên mặt nước tĩnh lặng của Hồ Putrajaya vào giờ hoàng kim
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: Cây cầu Seri Wawasan trắng hiện đại với trụ tháp nghiêng hình cánh buồm và các dây cáp xòe quạt bắc qua hồ ở Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Cầu Seri Wawasan hình cánh buồm bắc qua hồ ở Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 Vào năm 1999, Văn phòng Thủ tướng chuyển ra khỏi Kuala Lumpur. Thủ đô không

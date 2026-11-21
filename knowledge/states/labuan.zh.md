@@ -23,7 +23,7 @@ appliesTo: "适合正在评估纳闽架构的创办人、税务顾问与财务�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-P
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: 纳闽那座高耸的红砖烟囱塔矗立在深蓝色天空下，塔基四周环绕着椰子树和绿色草坪
+    kind: actual
+    origin: third-party
+    subject: The Chimney，纳闽高耸的红砖殖民时期地标，矗立在椰子树旁的草坪上
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: 从港口望向纳闽镇的码头和海滨建筑，多云的蓝天下可见船只和岛屿天际线
+    kind: actual
+    origin: third-party
+    subject: 从海上越过港口望向纳闽的渡轮码头和海滨市镇
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 两家公司，股东相同，客户相同。一家在吉隆坡注册，依据 Income Tax Act 1967

@@ -33,7 +33,7 @@ verificationNeeded:
   - "التحقق من أرقام سكان كوالالمبور وكوالالمبور الكبرى (Greater Kuala Lumpur)، وترتيب نصيب الفرد من الناتج المحلي الإجمالي، مقابل أحدث إصدارات DOSM قبل النشر."
 
 lang: "ar"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: منظر واسع لأفق كوالالمبور مع برج KL Tower المتوّج بإبرة والأبراج العالية المتجمّعة تحت غيوم بيضاء كبيرة وحدائق خضراء في المقدمة
+    kind: actual
+    origin: third-party
+    subject: منظر بانورامي لأفق مدينة كوالالمبور مع KL Tower تحت سماء غائمة ساطعة
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: مبنى Sultan Abdul Samad على الطراز المغاربي بساعته العالية وقبّته النحاسية اللامعة في وسط كوالالمبور
+    kind: actual
+    origin: third-party
+    subject: مبنى Sultan Abdul Samad من الحقبة الاستعمارية ببرج ساعته ذي القبة النحاسية، وسط كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 كوالالمبور هي العاصمة الوطنية لماليزيا، لكنها دستورياً ليست ولاية — بل إقليم اتحادي،

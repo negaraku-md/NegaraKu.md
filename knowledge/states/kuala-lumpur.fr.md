@@ -33,7 +33,7 @@ verificationNeeded:
   - "Confirmer les chiffres de population de Kuala Lumpur et du Grand Kuala Lumpur, ainsi que le classement du PIB par habitant, par rapport aux dernières publications du DOSM avant publication."
 
 lang: "fr"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Vue large de la ligne d'horizon de Kuala Lumpur avec la Tour KL coiffée de son aiguille et des gratte-ciel groupés sous de grands nuages blancs, avec un parc verdoyant au premier plan
+    kind: actual
+    origin: third-party
+    subject: Panorama de la ligne d'horizon de Kuala Lumpur avec la Tour KL sous un ciel lumineux et nuageux
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: Le bâtiment Sultan Abdul Samad de style mauresque avec sa haute tour de l'horloge et son dôme de cuivre étincelant dans le centre de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment Sultan Abdul Samad d'époque coloniale avec sa tour de l'horloge à dôme de cuivre, dans le centre de Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 Kuala Lumpur est la capitale nationale de la Malaisie, mais sur le plan constitutionnel ce

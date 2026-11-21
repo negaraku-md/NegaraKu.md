@@ -33,7 +33,7 @@ verificationNeeded:
   - "प्रकाशन से पहले कुआलालंपुर और ग्रेटर कुआलालंपुर (Greater Kuala Lumpur) के जनसंख्या आँकड़ों तथा प्रति-व्यक्ति GDP रैंकिंग की पुष्टि नवीनतम DOSM विज्ञप्तियों के विरुद्ध करें।"
 
 lang: "hi"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Kuala Lumpur की क्षितिज रेखा का चौड़ा दृश्य, जिसमें सुई-शीर्ष वाला KL Tower और गुच्छेदार ऊँची इमारतें बड़े सफ़ेद बादलों के नीचे हैं और अग्रभूमि में हरी पार्कभूमि है
+    kind: actual
+    origin: third-party
+    subject: चमकीले बादल भरे आसमान के नीचे KL Tower के साथ Kuala Lumpur शहर की विहंगम क्षितिज रेखा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: मध्य Kuala Lumpur में अपने ऊँचे घड़ी-मीनार और चमकते तांबे के गुंबद के साथ मूरिश-शैली का Sultan Abdul Samad भवन
+    kind: actual
+    origin: third-party
+    subject: अपने तांबे-गुंबद वाले घड़ी-मीनार के साथ औपनिवेशिक-युग का Sultan Abdul Samad भवन, मध्य Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 कुआलालंपुर मलेशिया की राष्ट्रीय राजधानी है, किंतु संवैधानिक रूप से यह कोई राज्य

@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: The red Christ Church Melaka beside the Melaka Art Gallery, with a row of colourful flower-decorated trishaws parked in the square
+    kind: actual
+    origin: third-party
+    subject: Red-painted Christ Church Melaka and the Melaka Art Gallery with brightly decorated flower-covered trishaws parked out front
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: The weathered laterite stone remains of the A Famosa fortress in Melaka with antique cannons on the grass under a blue sky
+    kind: actual
+    origin: third-party
+    subject: The surviving stone wall of the A Famosa (Porta de Santiago) Portuguese fortress gate in Melaka, with old cannons in front
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 Nine states in Malaysia have a Raja. Melaka is not one of them — even though its

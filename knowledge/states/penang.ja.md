@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: ペナン、ジョージタウンの通り沿いにある、木製よろい戸の窓と円柱のあるファイブフットウェイを備えた2階建ての歴史的ショップハウスが日差しを浴びて並ぶ様子
+    kind: actual
+    origin: third-party
+    subject: ペナン、ジョージタウンの通り沿いに並ぶ2階建ての歴史的なテラスハウスの列
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: ペナン、ジョージタウンのChew一族の桟橋で、高床式の海沿いの家の傍らに係留された風化した木造漁船と、Weld Quayのフェリーターミナルを望む様子
+    kind: actual
+    origin: third-party
+    subject: ペナン、ジョージタウンの海沿いにあるChew一族の桟橋の木造船と高床式の家
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 ペナンは、その大きさに見合わないほどの存在感を持つ。マレーシアのなかで面積が最も小さい州のひとつでありながら、同国で最も重要な製造業経済のひとつであり、最も多くの観光客が訪れる観光地のひとつでもある。

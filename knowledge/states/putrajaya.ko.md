@@ -38,7 +38,7 @@ verificationNeeded:
   - "프레신트 수(20)와 면적 수치 4,931헥타르를 최신 푸트라자야공사 공식 발간물에 대조하여 확인 — 2017년 연차 보고서는 다른 면적 수치를 기록한 바 있음."
 
 lang: "ko"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: 황금빛 시간에 빛나는 분홍색 Putra 모스크와 그 미나렛이 잔잔한 Putrajaya 호수 수면에 완벽하게 반사된 모습
+    kind: actual
+    origin: third-party
+    subject: 황금빛 시간에 Putrajaya 호수의 잔잔한 물에 반사된 Putra 모스크
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: 비스듬한 돛 모양 교탑과 부챗살처럼 펼쳐진 케이블로 Putrajaya의 호수를 가로지르는 현대적인 흰색 Seri Wawasan 다리
+    kind: actual
+    origin: third-party
+    subject: Putrajaya의 호수를 가로지르는 돛 모양의 Seri Wawasan 다리
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 1999년, 총리실이 쿠알라룸푸르 밖으로 옮겨 갔습니다. 수도는 바뀌지 않았습니다 — 옮겨 간 것은 그 행정 기구였습니다.

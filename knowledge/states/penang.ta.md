@@ -33,7 +33,7 @@ verificationNeeded:
   - "வெளியீட்டிற்கு முன், சமீபத்திய DOSM மாநில மக்கள்தொகை வெளியீட்டிற்கு எதிராக பினாங்கின் தற்போதைய மக்கள்தொகையை உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: Penang-இல் George Town-இன் ஒரு தெருவில் மரத்தாலான ஜன்னல் கதவுகள் மற்றும் தூண்களுடன் கூடிய ஐந்தடி நடைபாதைகளுடன், சூரிய ஒளி படும் இரு-மாடி பாரம்பரிய கடை-வீடுகளின் வரிசை
+    kind: actual
+    origin: third-party
+    subject: Penang-இல் ஒரு George Town தெருவில் வரலாற்றுச் சிறப்புமிக்க இரு-மாடி பாரம்பரிய வரிசை வீடுகளின் வரிசை
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: Penang-இல் George Town-இல் Chew குலப் படகுத்துறையில் ஒரு தூண்களில் கட்டப்பட்ட கடற்கரையோர வீட்டிற்கு அருகில் நங்கூரமிடப்பட்ட பழைய மரப் படகுகள், Weld Quay படகுத் துறை முனையத்தைப் பார்க்கிறது
+    kind: actual
+    origin: third-party
+    subject: Penang-இல் George Town கடற்கரையில் Chew குலப் படகுத்துறையில் மரப் படகுகள் மற்றும் தூண் வீடுகள்
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 பினாங்கு அதன் அளவைக் காட்டிலும் மிக அதிக செல்வாக்குடையது. நிலப்பரப்பின் அடிப்படையில்

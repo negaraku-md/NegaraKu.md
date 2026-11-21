@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: 红色的 Christ Church Melaka 紧邻 Melaka Art Gallery，广场上停着一排装饰着鲜花、色彩缤纷的三轮车
+    kind: actual
+    origin: third-party
+    subject: 红色的 Christ Church Melaka 和 Melaka Art Gallery，门前停着装饰鲜艳、满布鲜花的三轮车
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: 马六甲 A Famosa 城堡风化的红土石遗迹，蓝天下的草地上陈列着古董大炮
+    kind: actual
+    origin: third-party
+    subject: 马六甲 A Famosa（Porta de Santiago）葡萄牙城堡门幸存的石墙，前方陈列着旧式大炮
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 马来西亚有九个州属拥有统治者（Raja）。马六甲并非其中之一——尽管它的名字，仍系着

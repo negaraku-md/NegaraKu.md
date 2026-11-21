@@ -39,7 +39,7 @@ verificationNeeded:
   - "Verifikasi jumlah presint (20) dan angka luas 4,931 hektar terhadap terbitan resmi Perbadanan Putrajaya yang terkini — laporan tahunan 2017 pernah mencatat angka luas yang berbeda."
 
 lang: "id"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Pu
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: Masjid Putra merah muda dan menaranya bersinar di saat golden hour, terpantul sempurna di permukaan tenang Tasik Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Masjid Putra terpantul di air tenang Tasik Putrajaya saat golden hour
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: Jembatan Seri Wawasan putih modern dengan tiang menyerupai layar yang miring dan kabel mengipas melintasi tasik di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Jembatan Seri Wawasan berbentuk layar yang membentang di atas tasik di Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 Pada 1999, Kantor Perdana Menteri berpindah keluar dari Kuala Lumpur. Ibu kota negara tidak

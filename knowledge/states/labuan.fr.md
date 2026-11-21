@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Fondateurs, conseillers fiscaux et équipes financières évaluant une structure à Labuan, et lecteurs souhaitant comprendre pourquoi Labuan est traitée différemment du reste de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-P
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: La haute tour de la Cheminée de Labuan en brique rouge se dressant sur un ciel bleu profond, entourée de cocotiers et d'une pelouse verte à sa base
+    kind: actual
+    origin: third-party
+    subject: La Cheminée, haut monument d'époque coloniale de Labuan en brique rouge, dressée sur une pelouse à côté de cocotiers
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: La jetée et les bâtiments du front de mer de la ville de Labuan vus depuis le port, avec des bateaux et la ligne d'horizon de l'île sous un ciel bleu nuageux
+    kind: actual
+    origin: third-party
+    subject: La jetée du terminal de ferry et la ville du front de mer de Labuan vues depuis la mer, de l'autre côté du port
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 Deux entreprises, les mêmes propriétaires, les mêmes clients. L'une est constituée à Kuala

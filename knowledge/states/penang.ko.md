@@ -33,7 +33,7 @@ verificationNeeded:
   - "발행 전에 페낭의 현재 인구를 최신 DOSM 주(州) 인구 발표에 대조하여 확인."
 
 lang: "ko"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: 페낭 조지타운의 거리를 따라 늘어선, 목재 덧문 창과 기둥이 있는 5푸트 통로를 갖춘 햇살 비치는 2층 유산 상점가옥 한 줄
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 거리를 따라 늘어선 역사적 2층 유산 연립가옥 한 줄
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: 페낭 조지타운에서 Chew 씨족 선착장의 수상 가옥 옆에 정박한 풍화된 목조 어선들로, 건너편 Weld Quay 페리 터미널이 보인다
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 해안가 Chew 씨족 선착장의 목조 어선들과 수상 가옥
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 페낭(Pulau Pinang)은 그 크기보다 훨씬 큰 영향력을 지닙니다. 토지 면적으로는 말레이시아에서 가장 작은 주(州)에 속하지만, 동시에 이 나라에서 가장 중요한 제조 경제 가운데 하나이자 가장 많이 방문되는 관광지 가운데 하나입니다.

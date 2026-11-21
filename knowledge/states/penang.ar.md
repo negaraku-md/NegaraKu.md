@@ -33,7 +33,7 @@ verificationNeeded:
   - "تأكّد من العدد الحالي لسكان بينانغ مقابل أحدث إصدار لدائرة الإحصاء الماليزية (DOSM) بشأن سكان الولايات قبل النشر."
 
 lang: "ar"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: صف مشمس من المحلات التراثية (shophouses) المكوّنة من طابقين بنوافذ خشبية ذات مصاريع وممرات أعمدة بعرض خمسة أقدام على طول شارع في George Town، بينانغ
+    kind: actual
+    origin: third-party
+    subject: صف من البيوت التراثية المتلاصقة التاريخية المكوّنة من طابقين على طول شارع في George Town، بينانغ
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: قوارب صيد خشبية متآكلة راسية بجانب بيت على ركائز على الواجهة البحرية في رصيف عشيرة Chew، مطلّة على محطة عبّارات Weld Quay في George Town، بينانغ
+    kind: actual
+    origin: third-party
+    subject: قوارب خشبية وبيوت على ركائز عند رصيف عشيرة Chew على واجهة George Town البحرية، بينانغ
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 تتجاوز بينانغ حجمها بكثير في تأثيرها. فهي إحدى أصغر ولايات ماليزيا من حيث مساحة

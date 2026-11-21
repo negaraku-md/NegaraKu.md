@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: Christ Church Melaka berwarna merah di sebelah Galeri Seni Melaka, dengan sebaris beca berhias bunga berwarna-warni diparkir di dataran
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka bercat merah dan Galeri Seni Melaka dengan beca berhias bunga yang terang diparkir di hadapan
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: Tinggalan batu laterit lusuh kubu A Famosa di Melaka dengan meriam antik di atas rumput di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Dinding batu yang masih utuh pintu kubu Portugis A Famosa (Porta de Santiago) di Melaka, dengan meriam lama di hadapan
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 Sembilan negeri di Malaysia mempunyai Raja. Melaka bukan salah satu daripadanya —

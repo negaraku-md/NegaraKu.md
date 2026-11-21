@@ -33,7 +33,7 @@ verificationNeeded:
   - "Konfirmasikan populasi Penang saat ini terhadap rilis populasi negara bagian DOSM terbaru sebelum penerbitan."
 
 lang: "id"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: Sebaris rumah toko warisan dua lantai yang disinari matahari dengan jendela berdaun kayu dan kaki lima bertiang di sepanjang jalan di George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Sebaris rumah teres warisan bersejarah dua lantai di sepanjang jalan George Town, Penang
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: Perahu nelayan kayu lapuk bertambat di samping rumah tepi laut berpanggung di jeti marga Chew, menghadap ke terminal feri Weld Quay di George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Perahu kayu dan rumah panggung di jeti marga Chew di tepi laut George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 Pulau Pinang jauh lebih berpengaruh dibandingkan ukurannya. Ia merupakan salah satu

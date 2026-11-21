@@ -33,7 +33,7 @@ verificationNeeded:
   - "Xác nhận dân số hiện tại của Penang so với ấn phẩm dân số bang mới nhất của DOSM trước khi công bố."
 
 lang: "vi"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: Một dãy nhà phố cổ hai tầng rực nắng với cửa sổ chớp gỗ và hành lang có cột rộng năm foot dọc một con phố ở George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Một dãy nhà phố cổ di sản hai tầng dọc một con phố George Town, Penang
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: Những chiếc thuyền đánh cá gỗ phong hóa neo bên cạnh một ngôi nhà ven biển trên cọc tại cầu tàu dòng họ Chew, nhìn sang bến phà Weld Quay ở George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Thuyền gỗ và nhà sàn trên cọc tại cầu tàu dòng họ Chew ở bờ biển George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 Penang có tầm ảnh hưởng lớn hơn nhiều so với kích thước của nó. Nó là một trong những

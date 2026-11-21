@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "लाबुआन संरचना का मूल्यांकन कर रहे संस्थापक, कर सलाहकार और वित्त दल, तथा वे पाठक जो समझना चाहते हैं कि लाबुआन को शेष मलेशिया से अलग क्यों माना जाता है।"
 
 lang: "hi"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-P
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: गहरे-नीले आसमान के सामने खड़ी Labuan की ऊँची लाल-ईंट वाली Chimney मीनार, जिसके आधार के चारों ओर नारियल के ताड़ और हरा लॉन है
+    kind: actual
+    origin: third-party
+    subject: The Chimney, Labuan की ऊँची लाल-ईंट वाली औपनिवेशिक-युग की पहचान, नारियल के ताड़ों के पास एक लॉन पर खड़ी
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: बंदरगाह से देखा गया Labuan शहर का घाट और तटवर्ती इमारतें, नावों और बादल भरे नीले आसमान के नीचे द्वीप की क्षितिज रेखा के साथ
+    kind: actual
+    origin: third-party
+    subject: समुद्र से बंदरगाह के पार देखा गया Labuan का फ़ेरी टर्मिनल घाट और तटवर्ती शहर
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 दो कंपनियाँ, वही मालिक, वही ग्राहक। एक कुआलालंपुर में निगमित है और आयकर अधिनियम
