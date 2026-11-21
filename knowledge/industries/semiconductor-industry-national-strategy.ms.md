@@ -119,6 +119,7 @@ images:
     credit: Sei / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Hampir setiap telefon, komputer riba dan kereta di Bumi membawa cip yang menghabiskan sebahagian hayatnya di Malaysia — dibungkus, diuji dan dihantar dari sebuah kilang di Pulau Pinang atau Lembah Klang. Namun selama lima puluh tahun negara ini melakukan bahagian kerja yang paling kurang menarik dan bermargin paling rendah dalam kerja itu: bahagian belakang. Strategi Semikonduktor Kebangsaan ialah usaha Malaysia untuk mengubah bahagian mana cip yang dimilikinya.

@@ -78,6 +78,7 @@ faq:
   - q: Adakah undang-undang Inggeris mentadbir pemilikan tanah di Malaysia?
     a: Tidak. Seksyen 6 Akta Undang-Undang Sivil 1956 menyatakan bahawa tiada apa-apa dalam Akta ini memperkenalkan undang-undang Inggeris berkaitan pegangan, pindah hak, jaminan atau pewarisan harta tak alih. Undang-undang tanah Inggeris sengaja dikecualikan sejak hari pertama. Sebaliknya, tanah Malaysia berjalan atas sistem Torrens yang berasal dari Australia, dikodifikasikan bagi Semenanjung Malaysia dalam Kanun Tanah Negara 1965 (Akta 56), di mana pendaftaran itu sendiri mewujudkan dan membuktikan hakmilik.
 framework: explainer
+wikidata: "Q142235975"
 ---
 
 Seorang hakim Malaysia yang memutuskan pertikaian kontrak hari ini masih boleh

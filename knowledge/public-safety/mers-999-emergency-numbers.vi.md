@@ -68,6 +68,7 @@ relations:
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
 framework: profile
+wikidata: "Q142236010"
 ---
 
 Một số duy nhất — **999** — kết nối bạn với năm cơ quan khẩn cấp của Malaysia, dù bạn cần cảnh sát, xe cứu thương, cứu hỏa, phòng vệ dân sự hay trợ giúp trên biển. Bạn không cần nhớ số khác nhau cho từng cơ quan; hệ thống phía sau sẽ chuyển cuộc gọi đó thay bạn.

@@ -133,6 +133,7 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
 ---
 
 Selama berdekade, setiap orang di Malaysia — jutawan maupun penoreh karet — membayar harga bensin yang sama di pompa. Pada 30 September 2025, tatanan itu berakhir. Kini satu liter RON95 bisa berharga RM1.99 untuk Anda tetapi hampir dua kali lipat untuk tetangga Anda, dan yang menentukannya bukan harga minyak dunia, melainkan kartu identitas yang Anda selipkan ke terminal.

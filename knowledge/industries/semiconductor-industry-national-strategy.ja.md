@@ -118,6 +118,7 @@ images:
     credit: Sei / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 地球上のほぼすべてのスマートフォン、ノートパソコン、自動車には、人生の一部をマレーシアで過ごしたチップが搭載されている——ペナンやクランバレーの工場でパッケージングされ、試験を受け、出荷されたチップである。しかし五十年にわたり、この国が担ってきたのはその作業の中で最も地味で利幅の薄い部分、すなわち後工程であった。国家半導体戦略は、マレーシアがチップのどの部分を自らのものにするかを変えようとする試みである。

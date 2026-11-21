@@ -119,6 +119,7 @@ images:
     credit: Sei / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Gần như mọi điện thoại, laptop và ô tô trên Trái Đất đều mang một con chip đã trải qua một phần đời của nó ở Malaysia — được đóng gói, kiểm thử và vận chuyển từ một nhà máy ở Penang hay Thung lũng Klang. Tuy nhiên trong năm mươi năm đất nước làm lát cắt kém hào nhoáng nhất, biên lợi nhuận thấp nhất của công việc đó: hậu kỳ. Chiến lược Bán dẫn Quốc gia là nỗ lực của Malaysia nhằm thay đổi phần nào của con chip mà nó sở hữu.

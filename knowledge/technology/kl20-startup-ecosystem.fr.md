@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 En avril 2024, la Malaisie a cessé de parler de ses startups dans le langage de l'espoir pour commencer à en parler dans celui des classements. L'annonce était directe : faire entrer Kuala Lumpur dans les 20 premiers écosystèmes de startups au monde d'ici 2030, ou admettre que le pays avait tourné au ralenti.

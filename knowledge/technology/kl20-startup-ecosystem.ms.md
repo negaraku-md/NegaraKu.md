@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 Pada April 2024, Malaysia berhenti bercakap tentang startupnya dalam bahasa harapan dan mula bercakap dalam bahasa kedudukan. Pitchnya terus terang: bawa Kuala Lumpur ke dalam 20 ekosistem startup teratas dunia menjelang 2030, atau mengaku negara telah hanya meluncur tanpa usaha.

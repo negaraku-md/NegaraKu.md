@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 2024年4月，马来西亚不再用希望的语言谈论自己的初创企业，而开始用排名的语言。那番宣示很直白：在2030年前把吉隆坡送进全球前20大初创生态系统，否则就得承认这个国家一直在原地打转。

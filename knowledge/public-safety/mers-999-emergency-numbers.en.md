@@ -68,6 +68,7 @@ relations:
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
 framework: profile
+wikidata: "Q142236010"
 ---
 
 A single number — **999** — connects you to Malaysia's five emergency agencies, whether you need the police, an ambulance, the fire brigade, civil defence or help at sea. You do not need to remember a different number for each agency; the system behind it routes the call for you.

@@ -90,6 +90,7 @@ relations:
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
 framework: rules
+wikidata: "Q142235988"
 ---
 
 நீங்கள் முஸ்லிம் அல்லாதவராக மலேசியாவில் திருமணம் செய்தால், அந்தத் திருமணம் செல்லுபடியாகுமா, அதை எவ்வாறு முடிவுக்குக் கொண்டுவரலாம், அது முடியும்போது யாருக்கு என்ன கிடைக்கும் என்பதை ஒரே ஒரு சட்டம்தான் தீர்மானிக்கிறது — சட்டச் சீர்திருத்த (திருமணம் மற்றும் விவாகரத்து) சட்டம் 1976, பொதுவாக Akta 164 என அறியப்படுகிறது.

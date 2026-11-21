@@ -104,6 +104,7 @@ relations:
 related: []
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 靴一足を3か月の分割払いで買う、あるいは10%の頭金で新車を持ち帰る——どちらもマレーシア人にとってありふれた信用取引だが、つい最近まで、まったく異なる法律の世界に支配されていた。今、両者はほぼ同時に組み直されつつある。

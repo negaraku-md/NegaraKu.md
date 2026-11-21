@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 Vào tháng 4 năm 2024, Malaysia ngừng nói về các startup của mình bằng ngôn ngữ của hy vọng và bắt đầu nói bằng ngôn ngữ của thứ hạng. Lời chào mời thẳng thắn: đưa Kuala Lumpur vào top 20 hệ sinh thái khởi nghiệp của thế giới vào năm 2030, hoặc thừa nhận rằng đất nước đã và đang đủng đỉnh.

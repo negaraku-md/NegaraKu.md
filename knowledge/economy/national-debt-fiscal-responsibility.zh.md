@@ -82,6 +82,7 @@ relations:
 related: ["federal-budget", "gdp-overview", "sovereign-credit-rating-malaysia", "subsidy-rationalisation-padu"]
 keywords: ["hutang persekutuan", "Akta 850", "Akta Tanggungjawab Fiskal", "hutang berkanun", "60% KDNK", "defisit fiskal", "MGS", "JRFL"]
 framework: explainer
+wikidata: "Q142235994"
 ---
 
 马来西亚联邦政府债务在2025年突破RM1.3万亿令吉——然而经常被引用的「64.7% GDP」数字与经常被提及的「60%上限」，实际上衡量的是两件不同的事。理解这一区别，是准确解读国家财政健康状况的关键。

@@ -133,6 +133,7 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
 ---
 
 Pendant des décennies, tout le monde en Malaisie — millionnaire ou saigneur d'hévéas — payait le même prix pour l'essence à la pompe. Le 30 septembre 2025, cet arrangement a pris fin. Un litre de RON95 peut désormais vous coûter RM1.99 mais presque le double à votre voisin, et ce qui en décide n'est pas le prix mondial du pétrole mais la carte d'identité que vous insérez dans le terminal.

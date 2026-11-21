@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 في أبريل 2024، كفّت ماليزيا عن الحديث عن شركاتها الناشئة بلغة الأمل وبدأت تتحدّث بلغة المراتب. وكان العرض صريحاً: أدخِلوا كوالالمبور إلى أفضل 20 منظومة شركات ناشئة في العالم بحلول 2030، أو اعترفوا بأن البلاد كانت تسير بلا جهد.

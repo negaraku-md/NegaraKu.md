@@ -119,6 +119,7 @@ images:
     credit: Sei / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 地球上几乎每一部手机、每一台笔记本电脑、每一辆汽车，都搭载着一枚曾在马来西亚度过部分「生命」的芯片——在槟城或巴生谷的工厂里完成封装、测试并出货。然而，五十年来，这个国家承担的却是这项工作中最不光鲜、利润最薄的环节：后端。国家半导体战略正是马来西亚试图改变自己在芯片链条上所占环节的努力。

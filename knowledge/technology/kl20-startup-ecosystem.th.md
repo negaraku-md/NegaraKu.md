@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 ในเดือนเมษายน 2024 มาเลเซียหยุดพูดถึงสตาร์ทอัพของตนด้วยภาษาแห่งความหวัง และเริ่มพูดด้วยภาษาแห่งอันดับ คำเสนอนั้นตรงไปตรงมา: พากัวลาลัมเปอร์เข้าสู่ 20 ระบบนิเวศสตาร์ทอัพอันดับต้นของโลกภายในปี 2030 หรือยอมรับว่าประเทศได้ไหลเรื่อยมา

@@ -119,6 +119,7 @@ images:
     credit: Sei / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Presque tous les téléphones, ordinateurs portables et voitures de la Terre renferment une puce qui a passé une partie de sa vie en Malaisie — conditionnée, testée et expédiée depuis une usine de Penang ou de la vallée de Klang. Pourtant, pendant cinquante ans, le pays a réalisé la part la moins prestigieuse et la moins marginale de ce travail : l'aval. La Stratégie nationale des semi-conducteurs est la tentative de la Malaisie de changer quelle partie de la puce elle possède.

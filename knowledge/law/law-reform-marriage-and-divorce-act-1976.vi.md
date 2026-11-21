@@ -90,6 +90,7 @@ relations:
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
 framework: rules
+wikidata: "Q142235988"
 ---
 
 Nếu bạn không theo Hồi giáo và kết hôn tại Malaysia, chỉ một đạo luật quyết định liệu cuộc hôn nhân đó có hợp lệ hay không, nó có thể được chấm dứt như thế nào, và ai được gì khi nó kết thúc — Luật Cải cách Pháp luật (Hôn nhân và Ly hôn) 1976, hay được biết đến nhiều hơn là Act 164.

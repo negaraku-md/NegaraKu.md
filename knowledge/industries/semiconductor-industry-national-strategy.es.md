@@ -119,6 +119,7 @@ images:
     credit: Sei / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Casi todos los teléfonos, portátiles y coches de la Tierra llevan un chip que pasó parte de su vida en Malasia — empaquetado, probado y enviado desde una fábrica en Penang o el valle de Klang. Sin embargo, durante cincuenta años el país hizo la porción menos glamurosa y de menor margen de ese trabajo: el back-end. La Estrategia Nacional de Semiconductores es el intento de Malasia de cambiar qué parte del chip posee.

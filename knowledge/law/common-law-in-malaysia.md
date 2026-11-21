@@ -77,6 +77,7 @@ faq:
   - q: Does English law govern land ownership in Malaysia?
     a: No. Section 6 of the Civil Law Act 1956 states that nothing in the Act introduces English law relating to the tenure, conveyance, assurance of or succession to immovable property. English land law was deliberately kept out from day one. Malaysian land instead runs on the Australian-derived Torrens system, codified for Peninsular Malaysia in the National Land Code 1965 (Act 56), where registration itself creates and proves title.
 framework: explainer
+wikidata: "Q142235975"
 ---
 
 A Malaysian judge deciding a contract dispute today can still reach for an English

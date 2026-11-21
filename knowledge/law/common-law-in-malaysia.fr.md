@@ -78,6 +78,7 @@ faq:
   - q: Le droit anglais régit-il la propriété foncière en Malaisie ?
     a: Non. L'article 6 (Section 6) de la Loi sur le droit civil de 1956 dispose que rien dans la Loi n'introduit de droit anglais relatif à la détention, au transfert, à la garantie ou à la succession de biens immobiliers. Le droit foncier anglais a été délibérément écarté dès le premier jour. La terre en Malaisie fonctionne plutôt selon le système Torrens d'origine australienne, codifié pour la Malaisie péninsulaire dans le Code national foncier de 1965 (National Land Code 1965, Act 56), où l'inscription elle-même crée et prouve le titre.
 framework: explainer
+wikidata: "Q142235975"
 ---
 
 Un juge malaisien qui tranche aujourd'hui un litige contractuel peut encore recourir à une affaire anglaise jugée avant même que la Fédération de Malaya n'existe. Non pas parce que les tribunaux anglais ont la moindre autorité ici — ils n'en ont aucune — mais parce qu'un unique texte de loi malaisien a ordonné aux tribunaux locaux, en 1956, de traiter la common law anglaise comme la leur.

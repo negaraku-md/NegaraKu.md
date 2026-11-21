@@ -41,26 +41,31 @@ translation-sync 0 stale / 0 orphaned.
 MY-LIV-0119 (generic "Tuition center" concept), MY-LAW-0090 (bare-stub small-claims
 item, no P31/P17).
 
-## ITEMS TO CREATE — 13 (QuickStatements batch: `wikidata-create-batch-2026-11-21.qs`)
-Account: **`Ai.negaraku.md`** (user chose to keep project edits under the project
-identity). All verified absent (no WD item, no en/ms Wikipedia article). P17=Q833.
-Link back each new QID to its topicId after creation (freshness-neutral).
+## ITEMS CREATED — 13 ✅ (via QuickStatements, account **Ashton Tan**, 2026-11-21 15:09–15:13)
+Account note: Wikidata REJECTS the `Ai.negaraku.md` username (domain-like), so all
+NegaraKu WD edits use the personal **Ashton Tan** account (same as the Oct-25 batch).
+All verified absent before creation. Each item: en+Malay label, aliases, description,
+P31, P17=Q833, P571 (acts). QS batch: `wikidata-create-batch-2026-11-21.qs`. All 13
+QIDs linked back to their articles (freshness-neutral), 169 files.
 
-| topicId | label | P31 |
-|--|--|--|
-| MY-LAW-0001 | Companies Act 2016 | Q105300221 |
-| MY-LAW-0032 | Civil Law Act 1956 | Q105300221 (+ Smswiki sitelink to orphan ms.wp article) |
-| MY-LAW-0066 | Consumer Credit Act 2025 | Q105300221 |
-| MY-LAW-0073 | Housing Development (Control and Licensing) Act 1966 | Q105300221 |
-| MY-LAW-0080 | Law Reform (Marriage and Divorce) Act 1976 | Q105300221 |
-| MY-LAW-0093 | Whistleblower Protection Act 2010 | Q105300221 |
-| MY-ECO-0031 | Public Finance and Fiscal Responsibility Act 2023 | Q105300221 |
-| MY-ENE-0003 | Energy Efficiency and Conservation Act 2024 | Q105300221 |
-| MY-ENE-0006 | BUDI MADANI | Q22222786 |
-| MY-IND-0013 | New Industrial Master Plan 2030 | Q22222786 |
-| MY-IND-0019 | National Semiconductor Strategy | Q22222786 |
-| MY-PS-0010 | MERS 999 | Q22222786 |
-| MY-TEC-0015 | KL20 Action Plan | Q22222786 |
+| topicId | label | P31 | QID (created) |
+|--|--|--|--|
+| MY-LAW-0001 | Companies Act 2016 | Q105300221 | Q142235973 |
+| MY-LAW-0032 | Civil Law Act 1956 (+ ms.wp sitelink) | Q105300221 | Q142235975 |
+| MY-LAW-0066 | Consumer Credit Act 2025 | Q105300221 | Q142235980 |
+| MY-LAW-0073 | Housing Development (Control and Licensing) Act 1966 | Q105300221 | Q142235984 |
+| MY-LAW-0080 | Law Reform (Marriage and Divorce) Act 1976 | Q105300221 | Q142235988 |
+| MY-LAW-0093 | Whistleblower Protection Act 2010 | Q105300221 | Q142235992 |
+| MY-ECO-0031 | Public Finance and Fiscal Responsibility Act 2023 | Q105300221 | Q142235994 |
+| MY-ENE-0003 | Energy Efficiency and Conservation Act 2024 | Q105300221 | Q142235995 |
+| MY-ENE-0006 | BUDI MADANI | Q22222786 | Q142236000 |
+| MY-IND-0013 | New Industrial Master Plan 2030 | Q22222786 | Q142236003 |
+| MY-IND-0019 | National Semiconductor Strategy | Q22222786 | Q142236007 |
+| MY-PS-0010 | MERS 999 | Q22222786 | Q142236010 |
+| MY-TEC-0015 | KL20 Action Plan | Q22222786 | Q142236014 |
 
 P31 classes: Q105300221 = Act of the Parliament of Malaysia; Q22222786 = government
-programme. Acts also carry P571 (inception year) + Malay label.
+programme. Batch done 13/13, 0 errors; revert/discuss link available on the QS batch page.
+
+**TOTAL YIELD: 29 articles newly entity-linked** (16 to existing items + 13 to newly
+created items), each × 13 langs.

@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 अप्रैल 2024 में, मलेशिया ने अपने स्टार्टअप्स के बारे में उम्मीद की भाषा में बात करना बंद किया और रैंकिंग की भाषा में बात करना शुरू किया। बात सीधी थी: कुआलालंपुर को 2030 तक दुनिया के शीर्ष 20 स्टार्टअप तंत्रों में पहुँचाओ, या मान लो कि देश यूँ ही चलता रहा है।

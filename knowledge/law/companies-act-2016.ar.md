@@ -86,6 +86,7 @@ relations:
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["قانون الشركات 2016", "Companies Act 2016", "Act 777", "Act A1701", "قانون الشركات الماليزي", "الإطار القانوني SSM"]
 framework: data-reference
+wikidata: "Q142235973"
 ---
 
 هذه الصفحة هي السجلّ النظامي لـ Act 777 — هويته وإدارته وسلسلة تعديلاته. أما الإجراءات التي ينشئها فهي موثَّقة مقالًا بمقال في مجموعتَي أمين الشركة والأعمال؛ ولا تكرّرها هذه الصفحة.

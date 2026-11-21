@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 En abril de 2024, Malasia dejó de hablar de sus startups en el lenguaje de la esperanza y empezó a hablar en el lenguaje de los rankings. El planteamiento fue directo: meter a Kuala Lumpur entre los 20 mejores ecosistemas de startups del mundo para 2030, o admitir que el país había ido a la deriva.

@@ -90,6 +90,7 @@ relations:
 related: []
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
 framework: rules
+wikidata: "Q142235988"
 ---
 
 If you are non-Muslim and marry in Malaysia, a single law determines whether the marriage is valid, how it can be ended, and who gets what when it ends — the Law Reform (Marriage and Divorce) Act 1976, better known as Act 164.

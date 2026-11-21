@@ -120,6 +120,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
 ---
 
 2024年4月、マレーシアは自国のスタートアップを希望の言葉で語ることをやめ、ランキングの言葉で語り始めた。その売り口上は率直だった：2030年までにクアラルンプールを世界のトップ20スタートアップ・エコシステムに入れる、さもなければ国が惰性で過ごしてきたと認めよ、と。

@@ -85,6 +85,7 @@ relations:
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Companies Act 2016", "Act 777", "Act A1701", "Malaysia corporate law", "SSM legal framework"]
 framework: data-reference
+wikidata: "Q142235973"
 ---
 
 이 페이지는 Act 777의 법령 기록으로, 그 정체성, 관장 기관 및 개정
