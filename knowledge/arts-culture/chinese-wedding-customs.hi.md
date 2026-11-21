@@ -72,7 +72,7 @@ related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
 hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
-heroAlt: 'A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple''s names in pink characters on either side'
+heroAlt: 'लाल रंग से सजा एक पारंपरिक मलेशियाई चीनी विवाह मंच, ऊपर टँगा बड़ा लाल डबल-हैप्पीनेस कटा-कागज़ बैनर, पूर्वज-वेदी पर रखे अनानास, संतरे, सेब और ड्रैगन मोमबत्तियाँ, चाय समारोह के लिए आगे रखी दो नक्काशीदार गहरे रंग की लकड़ी की कुर्सियाँ, दोनों ओर गुलाबी अक्षरों में जोड़े के नाम'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'

@@ -4,7 +4,7 @@ title: "Plats nationaux de la Malaisie : nasi lemak, roti canai, char kuey teow 
 seoTitle: "Plats nationaux de la Malaisie — nasi lemak, roti canai, laksa"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'Un nasi lemak servi sur feuille de bananier avec sambal, anchois frits, cacahuètes grillées, concombre et un œuf dur'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

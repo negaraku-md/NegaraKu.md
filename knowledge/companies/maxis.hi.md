@@ -80,7 +80,7 @@ verificationNeeded:
   - "मलेशिया के दूसरे 5G नेटवर्क की स्थिति और उसमें Maxis की भूमिका (नवंबर 2024 में U Mobile को चुना गया) — MCMC के साथ मौजूदा 5G नीति और व्यवस्था को सत्यापित करें।"
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: 'रात में मेनारा मैक्सिस का प्रकाशित घुमावदार शिखर, काली आसमान के सामने चमकती उसकी स्तरित छतें, शीर्ष के पास लगा नीला-हरा maxis लोगो साइन और 7:57 दिखाती एक लाल डिजिटल घड़ी'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

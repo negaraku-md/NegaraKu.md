@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "கிறிஸ்மஸ் தினம், டிசம்பர் 25, அனைத்து மாநிலங்கள் மற்றும் கூட்டரசுப் பிரதேசங்கள் முழுவதும் நாடளாவிய பொது விடுமுறை (தீபகற்பத்தில் Holidays Act 1951 (Act 369) இன் First Schedule; சபா மற்றும் சரவாக்கில் மாநில ஆணைகள்). சபா கூடுதலாக கிறிஸ்மஸ் ஈவ், டிசம்பர் 24-ஐ, Sabah Holidays Ordinance (Cap. 56) இன் கீழ் மாநிலப் பொது விடுமுறையாக வர்த்தமானப்படுத்துகிறது."
   etiquette: "எந்தப் பின்னணியைச் சேர்ந்த விருந்தினர்களையும் ஒரு பகிர்வு உணவுக்காக வரவேற்கும் திறந்த வீடு (open house) மரபு, மற்ற பண்டிகைகளைப் போலவே கிறிஸ்மஸுக்கும் பொருந்துகிறது; விருந்தோம்பும் கிறிஸ்தவக் குடும்பங்கள் பொதுவாக பிற மதங்களைச் சேர்ந்த விருந்தினர்களையும் வரவேற்கின்றன, பண்டிகை நாட்காட்டி முழுவதும் இந்த வருகை இருதிசையிலும் நடைபெறுகிறது."
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'Pavilion Kuala Lumpur-ன் உட்கூடம் வழியே உயர்ந்தெழும் அலங்கரிக்கப்பட்ட கிறிஸ்துமஸ் மரம்; சுற்றிலும் தொங்கும் தங்க விளக்குகள், ஒரு சுழல்தட்டு, சிவப்புக் கம்பளத்தில் கடைக்காரர்களின் கூட்டம்'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

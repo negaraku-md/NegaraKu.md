@@ -85,7 +85,7 @@ related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
 hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
-heroAlt: 'Mature oil-palm estate climbing a hillside with an estate road, Kunak District, Sabah — unmistakably oil palm, 16:9, clean sky band for overlay.'
+heroAlt: '사바주 쿠낙 지구, 농장 도로를 따라 언덕을 오르는 성숙한 기름야자 농장'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'

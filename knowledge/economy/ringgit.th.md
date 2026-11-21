@@ -68,7 +68,7 @@ faq:
     a: เพราะอัตราอ้างอิง USD/MYR กัวลาลัมเปอร์ของ BNM เป็นเกณฑ์มาตรฐานของตลาดที่คำนวณจากตลาดระหว่างธนาคาร ใช้สำหรับสัญญาและการประเมินมูลค่า — ไม่ใช่ราคาขายปลีก ธนาคารและร้านแลกเงินจะบวกส่วนต่าง (สเปรด) ของตนเองเพิ่มเข้าไป ดังนั้นคุณจะทำธุรกรรมในอัตราที่แย่กว่าอัตราอ้างอิงเสมอ อัตราอ้างอิงอยู่ที่ 4.0841 ณ วันที่ 23 ตุลาคม 2026 แต่นั่นเป็นเกณฑ์มาตรฐาน ไม่ใช่สิ่งที่ลูกค้าจ่ายจริงที่เคาน์เตอร์
 framework: explainer
 hero: '/media/economy/ringgit/hero.webp'
-heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroAlt: 'ด้านหน้าของธนบัตรหนึ่งร้อยริงกิตมาเลเซียที่เขียนว่า BANK NEGARA MALAYSIA และ SERATUS RINGGIT พร้อมเลข 100 สีม่วงขนาดใหญ่ สกุล RM และภาพพระราชาธิบดี (Yang di-Pertuan Agong) องค์แรกในเครื่องทรงราชวงศ์'
 heroCredit: 'Apitheart / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'

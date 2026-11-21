@@ -78,7 +78,7 @@ related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "الغاملان الملايوي", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "موسيقى البلاط", "التراث الوطني"]
 framework: history-culture
 hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
-heroAlt: 'A full Malay gamelan ensemble arranged under warm light, with rows of bronze kettle-gongs (bonang), a metallophone (saron) and large hanging gongs on carved wooden frames'
+heroAlt: 'فرقة غاملان ملايوية كاملة مرتّبة تحت ضوء دافئ، بصفوف من أجراس القدور البرونزية (bonang) وآلة معدنية (saron) وأجراس كبيرة معلّقة على أطر خشبية منحوتة'
 heroCredit: 'The Bangsawan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'

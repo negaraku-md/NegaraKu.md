@@ -79,7 +79,7 @@ verificationNeeded:
   - "संचालन वाले देशों की संख्या (सभी दस ASEAN राज्य तथा वैश्विक वित्तीय केंद्र) — बदल सकती है।"
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: 'कुआलालंपुर की क्षितिज-रेखा के ऊपर उठती सफ़ेद जुड़वाँ-बेलन वाली मेनारा मेबैंक मीनार, उसके शिखर के पास एक पैनल पर नीला मेबैंक लोगो और शब्दचिह्न'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

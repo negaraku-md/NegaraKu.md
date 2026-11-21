@@ -108,7 +108,7 @@ visitFacts:
   watch: 'Pulau-pulau di Sabah timur berada dalam zona keamanan yang ditetapkan (ESSZONE), izin tidak pernah dijamin, dan batasan konservasi (termasuk penutupan tahunan) berlaku — bepergianlah dengan informasi dan periksa nasihat resmi terkini.'
   next: 'Konfirmasikan kuota izin, biaya, dan penutupan konservasi Sipadan terkini dengan Sabah Parks atau operator selam berlisensi Anda.'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'Pemandangan udara laguna terumbu toska semarak yang dikelilingi pulau-pulau hijau di bawah langit cerah bertitik awan di Taman Laut Tun Sakaran dekat Semporna, Sabah'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

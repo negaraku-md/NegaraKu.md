@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "말레이시아에서 연방 차원으로도 어떤 주 차원으로도 관보에 공고된 공휴일이 아니다. (디파발리만이 연방 공휴일이며 — 사라왁은 제외 — 타이푸삼은 일부 주에서만 공휴일이다.)"
   etiquette: "주로 수확과 관련된 문화 축제로 종교와 무관하다(2020년 말레이시아 장관이 명확히 밝혔다). 사회 단체와 사원도 여러 항아리에 함께 퐁갈을 끓이고 문예 공연과 함께 공개 기념행사를 연다."
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: '타이 퐁갈 동안 힌두 사원 야외에서, 보라와 금빛 사리를 입고 미소 짓는 여성이 금잔화 화환을 두른 토기에서 김이 나는 퐁갈 쌀을 젓는 모습'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

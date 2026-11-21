@@ -101,7 +101,7 @@ visitFacts:
   watch: 'உயரமும் உடற்தகுதியும் முக்கியமான, மலை தனது சொந்த வானிலையை உருவாக்கும் ஒரு கடினமான இரண்டு-நாள் உயர்-உயர ஏற்றம்; ஒரு பெரிய நிலநடுக்கம் போன்ற நிகழ்வுகளுக்குப் பிறகு அணுகலும் பாதையும் மாறலாம், எனவே தற்போதைய தகவலின் அடிப்படையில் திட்டமிடுங்கள்.'
   next: 'தற்போதைய அனுமதிச்சீட்டு, வழிகாட்டி மற்றும் தங்குமிட விதிகளையும் கட்டணங்களையும் Sabah Parks-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'Sabah-வில் காலையில், மேகத்திற்கும் பச்சை அடிவாரங்களுக்கும் மேல் உயரும் Mount Kinabalu-வின் கூரான கிரானைட் சிகரம்'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

@@ -79,7 +79,7 @@ verificationNeeded:
   - "Bilangan negara operasi (kesemua sepuluh negara ASEAN serta pusat kewangan global) — mungkin berubah."
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: 'Menara Maybank silinder kembar putih menjulang di atas kaki langit Kuala Lumpur, dengan logo dan tanda kata Maybank biru pada panel berhampiran puncaknya'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

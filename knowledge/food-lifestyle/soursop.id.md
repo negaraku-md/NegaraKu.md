@@ -84,7 +84,7 @@ drinkFacts:
   served: "Disajikan dingin, diblender segar sesuai pesanan — lebih ringan dengan air, lebih kaya dengan susu sebagai smoothie. Minuman buah yang menyegarkan; nikmatilah sebagaimana adanya, dan perhatikan bahwa klaim kesehatan serta 'anti-kanker' yang melekat pada sirsak tidak terbukti pada manusia dan bukan pengganti perawatan medis."
   where: "Ditemukan di kedai jus, gerai kaki lima, dan gerai buah di seluruh negeri, di mana pun jus buah tropis segar diblender."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'Tumpukan buah sirsak hijau berduri segar di gerai pasar, dengan pepaya dan pisang di latar belakang'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

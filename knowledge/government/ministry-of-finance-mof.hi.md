@@ -72,7 +72,7 @@ relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "मलेशिया वित्त मंत्रालय", "menteri kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "संघीय खज़ाना मलेशिया", "मलेशिया संघीय बजट", "Belanjawan", "MOF registration", "MOF पंजीकरण", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
 hero: '/media/government/ministry-of-finance-mof/hero.webp'
-heroAlt: 'The curved concave facade of Malaysia''s Ministry of Finance building in Putrajaya, seen across a cascading water feature'
+heroAlt: 'पुत्रजया में मलेशिया के वित्त मंत्रालय भवन का घुमावदार अवतल अग्रभाग, एक झरनेदार जल-विशेषता के पार देखा गया'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'

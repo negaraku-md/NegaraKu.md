@@ -78,7 +78,7 @@ related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["أول pasar malam", "كيف pasar malam", "دليل pasar malam ماليزيا", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam حلال", "كيف تطلب في السوق الليلي ماليزيا", "جلوس pasar malam", "سلامة الطعام pasar malam"]
 framework: how-to
 hero: '/media/food/your-first-pasar-malam/hero.webp'
-heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroAlt: 'بائع يقدّم لزبون في كشك السوق الليلي (pasar malam) المضاء بسطوع، صناديق زجاجية مليئة بالوجبات الخفيفة المقلية والتوفو مع لافتات أسعار مكتوبة باليد'
 heroCredit: 'Iybtk / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'

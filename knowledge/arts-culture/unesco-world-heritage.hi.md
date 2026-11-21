@@ -92,7 +92,7 @@ related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "मलेशिया यूनेस्को विश्व धरोहर", "जॉर्ज टाउन मलक्का अंकन मानदंड", "George Town Melaka inscription criteria", "गुनुंग मुलु विश्व धरोहर", "लेंगगोंग घाटी इंसान बिराक", "नियाह गुफाएँ यूनेस्को 2024", "Niah Caves UNESCO 2024"]
 framework: data-reference
 hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
-heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroAlt: 'मेलाका की गहरी गेरुआ-लाल डच स्टैडथौस इमारत और उसकी वर्गाकार घड़ी-मीनार, लाल-हरे पौधों वाले एक गोल चक्कर से घिरी, आगे दिशा-सूचक चिह्न और चमकीली बादल भरी आसमान के नीचे'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'

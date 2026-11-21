@@ -84,7 +84,7 @@ drinkFacts:
   served: "يُقدَّم مبرَّدًا من القارورة أو العلبة. وتنويعة محلية محبوبة هي «Sarsi susu» — Sarsi مع حليب مبخَّر أو مكثَّف أو طازج يُسكَب لصنع عائم كريميّ. حلو وفوّار؛ حلوى مشروب غازيّ، لا مشروب كوبيتيام مخمَّرًا."
   where: "يوجد في الدكاكين والأسواق الكبرى والكوبيتيام وفي التجمّعات العائلية في عموم البلاد — ركيزة حنينية من الرفّ المبرَّد."
 hero: '/media/food/sarsi/hero.webp'
-heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroAlt: 'كأس زجاجي طويل مموّج من صودا السرسبريلا الداكنة الفوّارة (sarsi) برغوة في الأعلى، تحت أشعة الشمس'
 heroCredit: 'Markmark28 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'

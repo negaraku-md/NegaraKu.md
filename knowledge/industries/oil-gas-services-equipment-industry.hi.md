@@ -99,7 +99,7 @@ keywords:
   - National OGSE Blueprint
 framework: profile
 hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
-heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroAlt: 'समुद्र में सामने से देखा एक अर्ध-जलमग्न अपतटीय ड्रिलिंग रिग, इसका डिब्बानुमा डेक और ऊँची केंद्रीय डेरिक दो जलमग्न पोंटूनों पर टिकी, पानी तक जाती एंकर रस्सियाँ और क्षितिज पर दूर आपूर्ति जहाज़'
 heroCredit: 'Calistemon / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'

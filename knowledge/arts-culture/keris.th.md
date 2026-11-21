@@ -102,7 +102,7 @@ related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
 hero: '/media/arts-culture/keris/hero.webp'
-heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroAlt: 'กริชมลายูพิธีกรรมวางบนพื้นผิวสีเข้ม ใบมีดเหล็กคดและฐานหุ้มด้วยลวดลายดอกไม้ชุบทองแบบคอฟต์การีใต้ด้ามจับสีงาช้างแกะสลัก พร้อมฝักไม้ดุนเงินที่เข้าคู่กันวางอยู่ด้านล่าง'
 heroCredit: 'Zamwan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'

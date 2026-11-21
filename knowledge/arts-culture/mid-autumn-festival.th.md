@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "ไม่ใช่วันหยุดราชการ เทศกาลไหว้พระจันทร์ในมาเลเซียไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ ร้านค้าและหน่วยงานราชการเปิดทำการตามปกติ (ต่างจากตรุษจีนที่มีวันหยุดราชการสองวันแรก)"
   etiquette: "งานเฉลิมฉลองสาธารณะ เช่น งานราตรีโคมไฟและการแสดงศิลปวัฒนธรรมที่จัดโดยสมาคมชาวจีน วัด (เช่น ศาลเจ้าแม่ทับทิมเล่อเซิ่งหลิ่ง 乐圣岭天后宫 ในกัวลาลัมเปอร์) และองค์กรชุมชน มักเปิดต้อนรับผู้อยู่อาศัยกลุ่มชาติพันธุ์อื่น ๆ ให้มาร่วมและรับชมด้วยกัน มีแง่มุมของการแบ่งปันข้ามกลุ่มชาติพันธุ์"
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'ประติมากรรมโคมผ้าไหมเรืองแสงขนาดใหญ่เป็นรูปชายยิ้มในเสื้อสีม่วงและกางเกงสีแดงกำลังชูโคมลูกโลกสีน้ำเงินปนเหลืองในยามค่ำคืน พร้อมแถวโคมแขวนสีแดงปนทองเปล่งแสงตามทางเดินด้านหลังเขาในงานเทศกาลไหว้พระจันทร์ของมาเลเซีย'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

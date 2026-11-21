@@ -84,7 +84,7 @@ drinkFacts:
   served: "أكثره كلاسيكيةً هو limau asam boi — ليمون الكالامانسي مع شراب البرقوق الحامض، فوق الثلج، مع بضع قطع من البرقوق وأحيانًا رشّة ملح. ويُضاف أيضًا إلى المشروبات الغازية (Sprite asam boi) وإلى Ribena. ويُؤكَل وحده وجبةً خفيفة كذلك."
   where: "يوجد في أكشاك مشروبات المامك والكوبيتيام وأكشاك الباعة ومتاجر السلع المجفَّفة في عموم البلاد؛ وasam boi المعبّأ يُباع في الأسواق والمتاجر العامة."
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'طبق من البرقوق المجفّف المحفوظ البني المتجعّد المغطّى بطبقة ملح، المعروف بأسم بوي (asam boi)'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

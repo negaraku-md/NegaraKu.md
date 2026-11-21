@@ -76,7 +76,7 @@ related: ["population-composition", "religion-statistics", "languages-spoken", "
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: '农历新年期间，数百盏红金灯笼呈辐射状悬挂于吉隆坡乐圣岭天后宫华丽屋檐下，映衬着澄澈蓝天'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

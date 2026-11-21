@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "清明節はマレーシアの祝日ではなく、当日は大半の商店が通常どおり営業する。"
   etiquette: "金銀紙や紙扎を焼くことは炎や煙を伴うため、一部の墓園や記念公園は焼却区域を定めたり規定を設けたりしており、近年ではより環境に配慮した方法に切り替える人もいる。"
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'ムラカの三宝山(ブキッ・チナ)の草に覆われた丘の頂に立つ、湾曲したオメガ型の囲いと赤瓦の祭祀の庭をもつ大きな灰色の石の中国式の墓。近くに別のドーム型の土地神の祠があり、木々の間を通行人が歩く'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

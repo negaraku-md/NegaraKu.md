@@ -91,7 +91,7 @@ visitFacts:
   watch: 'Hutan hujan khatulistiwa tanpa musim kemarau yang dapat diandalkan — pendakian Pinnacles dan eksodus kelelawar bergantung cuaca dan dibatalkan saat hujan lebat, jadi sediakan hari cadangan. Batas bagasi pesawat kecil berlaku.'
   next: 'Konfirmasikan jadwal penerbangan, kamar, aturan aktivitas berpemandu, dan biaya terkini dengan situs resmi taman (mulupark.com) dan Sarawak Tourism Board.'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Hamparan pinakel batu kapur abu-abu bergerigi menembus hutan hujan hijau di lereng gunung berkabut di Taman Negara Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

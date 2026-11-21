@@ -76,7 +76,7 @@ related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-in
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
 hero: '/media/government/lhdn/hero.webp'
-heroAlt: 'A modern office building with a sweeping curved cantilevered roof and blue signage reading WISMA HASIL beside the triangular Hasil logo, set against a bright blue sky in Sandakan, Sabah'
+heroAlt: 'อาคารสำนักงานทันสมัยพร้อมหลังคายื่นโค้งกวาดและป้ายสีน้ำเงินเขียนว่า WISMA HASIL ข้างโลโก้ Hasil ทรงสามเหลี่ยม ตัดกับท้องฟ้าสีครามสดใสในซันดากัน รัฐซาบาห์'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'

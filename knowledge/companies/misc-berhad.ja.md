@@ -67,7 +67,7 @@ related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
 framework: profile
 hero: '/media/companies/misc-berhad/hero.webp'
-heroAlt: 'A large black-hulled LNG carrier with a red lower hull, her bow lettered ''SERI AYU'' and the word ''LNG'' along the side, moored at a quay dressed with signal flags, with a man in a shirt and tie standing on a red-carpet dais in the foreground'
+heroAlt: '赤い船底をもつ黒い船体の大きなLNG運搬船。舳先に「SERI AYU」、側面に「LNG」の文字。信号旗で飾られた岸壁に係留され、手前の赤いカーペットの壇上にシャツとネクタイ姿の男性が立つ'
 heroCredit: 'Emran Kassim / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'

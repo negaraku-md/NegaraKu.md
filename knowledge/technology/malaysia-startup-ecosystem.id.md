@@ -104,7 +104,7 @@ related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
 hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
-heroAlt: 'A bright multi-storey coworking office seen from above, with glass balustrades, open staircases and people working at desks across several levels under a glass roof'
+heroAlt: 'Kantor coworking bertingkat terang dilihat dari atas, dengan pagar kaca, tangga terbuka, dan orang-orang bekerja di meja di beberapa lantai di bawah atap kaca'
 heroCredit: 'Jasmanna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'

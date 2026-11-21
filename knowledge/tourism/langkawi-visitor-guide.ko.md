@@ -111,7 +111,7 @@ visitFacts:
   watch: '집으로 가져갈 면세 주류를 과하게 사지 마십시오 — 저렴한 가격은 섬에서 즐기라는 것이고, 본토에서는 제한된 한도만 통관됩니다.'
   next: '현재의 페리 시간표는 페리 운영사에, 면세 한도는 말레이시아 관세청(RMCD)에 확인하십시오.'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: '안다만해 위 정글로 덮인 산봉우리들 사이에 높이 매달린 곡선형 랑카위 스카이 브리지'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

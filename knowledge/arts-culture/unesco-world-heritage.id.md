@@ -92,7 +92,7 @@ related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
 hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
-heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroAlt: 'Bangunan Stadthuys Belanda berwarna merah terakota tua dan menara jam persegi di Melaka, dikelilingi bundaran tanaman berdaun merah dan hijau, dengan papan penunjuk arah di latar depan di bawah langit mendung terang'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'

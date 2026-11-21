@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "Là ngày lễ công cộng toàn quốc tại tất cả các bang và lãnh thổ liên bang, lần đầu được tuyên bố là ngày lễ công cộng vào năm 1962; theo Employment Act 1955, nếu rơi vào ngày nghỉ thì áp dụng một ngày nghỉ bù có lương."
   etiquette: "Việc cử hành tập trung tại chùa; nhiều tín đồ mặc áo trắng và ăn chay trong ngày, và sự kiện công cộng nổi tiếng nhất là đoàn rước xe hoa Wesak ở Kuala Lumpur xuất phát từ chùa Phật giáo Maha Vihara ở Brickfields, được đông đảo tín đồ và người xem theo dõi."
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'Một tượng Phật ngồi bằng vàng khoác vòng hoa cúc vạn thọ vàng đặt trước một vầng hào quang màu cam, xanh dương và vàng rực rỡ trên một chiếc xe hoa, bao quanh bởi những dải hoa cúc trắng, vàng và hồng dưới một mái che trong dịp Lễ Wesak ở Alor Setar'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

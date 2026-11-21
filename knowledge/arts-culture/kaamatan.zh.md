@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "沙巴州与纳闽联邦直辖区在 5 月 30 日和 31 日的公共假期；并非全国性的公共假期。"
   etiquette: "应将 Unduk Ngadau 理解为纪念 Huminodun 传说的文化选美盛会，而非一般的选美比赛，并应尊重地将 Bambaazon 信仰与 Huminodun 传说视为该社群自身的传统，而非既定事实。"
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: '沙巴Penampang，卡达山—杜顺族的bobohizan男女祭司身着黑金传统服装，在星光璀璨的舞台上举行丰收节（Kaamatan）仪式'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

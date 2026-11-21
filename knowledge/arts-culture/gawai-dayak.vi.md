@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "Là ngày lễ công cộng tại bang Sarawak (được công bố ngày 25 tháng 9 năm 1964)."
   etiquette: "Cửa nhà dài rộng mở — lòng hiếu khách đối với người thân, hàng xóm và khách đến thăm là một phần của lễ hội; một lời chào thông dụng là 'Gayu Guru, Gerai Nyamai' (sống lâu, mạnh khỏe, thịnh vượng), hoặc 'Selamat Hari Gawai'. Trước hết đây là một dịp cử hành của gia đình và nhà dài, không phải một màn trình diễn cho du khách."
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: 'Một vũ công chiến binh Iban đội mũ lông chim mỏ sừng và mặc áo ghi-lê lông thú biểu diễn điệu múa ngajat trên sân khấu với phông bích họa Dayak truyền thống'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

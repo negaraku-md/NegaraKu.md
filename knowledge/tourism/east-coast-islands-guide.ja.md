@@ -79,7 +79,7 @@ visitFacts:
   watch: '一律に定められた閉鎖期間はないが、ほとんどの島の業者は北東モンスーンの時期に自主的に休業するため、その時期が近い場合は支払う前にボートの運航を確認すること。'
   next: '現在の保全料と海洋公園の規則は、Department of Fisheries Malaysiaで確認すること。'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'ペルヘンティアン島の、積雲のある青空の下、風化した花崗岩の巨石、一本の木、ターコイズの浅瀬のある人のいない白砂のビーチ'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

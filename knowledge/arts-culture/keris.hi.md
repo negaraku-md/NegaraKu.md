@@ -102,7 +102,7 @@ related: ["batik", "songket", "wau"]
 keywords: ["केरिस", "एम्पू", "पामोर", "लुक", "मलय धरोहर", "तामिंग सारी", "मलय केरिस", "राष्ट्रीय धरोहर अधिनियम 2005", "नुसंतारा संस्कृति", "keris", "empu", "pamor", "luk", "Taming Sari"]
 framework: history-culture
 hero: '/media/arts-culture/keris/hero.webp'
-heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroAlt: 'एक गहरे तल पर रखा एक औपचारिक मलय केरिस, जिसकी लहरदार इस्पात की धार और आधार नक्काशीदार हाथीदाँत रंग की मूठ के नीचे सुनहरे फूलदार कोफ़्तगारी काम से मढ़े हैं, नीचे रखी मेल खाती चाँदी-उभरी लकड़ी की म्यान'
 heroCredit: 'Zamwan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'

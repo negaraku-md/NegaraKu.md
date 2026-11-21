@@ -76,7 +76,7 @@ related: []
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 framework: explainer
 hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
-heroAlt: 'A bold red/cream/blue Rapid KL double-decker at its bay (route 751, Hab Pasar Seni interchange) with the bay signboard — instantly reads as a KL city bus at an interchange. Subject is the bus; no identifiable faces.'
+heroAlt: '승강장(751번 노선, Hab Pasar Seni 환승 허브)에 정차한 선명한 빨강·크림·파랑의 Rapid KL 이층 버스와 승강장 안내판'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'

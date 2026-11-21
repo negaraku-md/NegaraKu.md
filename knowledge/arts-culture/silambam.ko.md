@@ -69,7 +69,7 @@ related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam",
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
 hero: '/media/arts-culture/silambam/hero.webp'
-heroAlt: 'Children and an instructor in orange Silambam Asia T-shirts practising stick-fighting stances with long bamboo staves at an outdoor demonstration'
+heroAlt: '야외 시연에서 주황색 ''Silambam Asia'' 티셔츠를 입은 아이들과 지도자가 긴 대나무 봉으로 막대 격투 자세를 연습하는 모습'
 heroCredit: 'Tara-sumitra / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'

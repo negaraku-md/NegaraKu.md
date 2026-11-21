@@ -78,7 +78,7 @@ related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["pasar malam ครั้งแรก", "วิธีเที่ยว pasar malam", "คู่มือ pasar malam มาเลเซีย", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam ฮาลาล", "ตลาดนัดกลางคืนมาเลเซีย วิธีสั่งอาหาร", "ที่นั่ง pasar malam", "ความปลอดภัยอาหาร pasar malam"]
 framework: how-to
 hero: '/media/food/your-first-pasar-malam/hero.webp'
-heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroAlt: 'พ่อค้าเสิร์ฟลูกค้าที่แผงตลาดกลางคืน (pasar malam) ที่ส่องไฟสว่าง ตู้กระจกเต็มไปด้วยของทอดและเต้าหู้พร้อมป้ายราคาเขียนมือ'
 heroCredit: 'Iybtk / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'

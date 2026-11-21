@@ -108,7 +108,7 @@ visitFacts:
   watch: '동부 사바의 섬들은 지정 보안 구역(ESSZONE) 안에 있고, 허가는 결코 보장되지 않으며, 보존 제한(연례 휴장 포함)이 적용되니 정보를 갖추고 여행하며 현재의 공식 권고를 확인하십시오.'
   next: '현재의 시파단 허가 상한, 요금, 보존 휴장 여부는 Sabah Parks나 본인의 면허 다이빙 업체에 확인하십시오.'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: '사바 셈포르나 인근 툰 사카란 해양공원에서, 밝고 구름 점점이 떠 있는 하늘 아래 초록 섬들로 둘러싸인 선명한 터키석빛 산호초 석호의 항공 전경'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

@@ -78,7 +78,7 @@ related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
 framework: history-culture
 hero: '/media/arts-culture/ngajat/hero.webp'
-heroAlt: 'A male Iban dancer in a feathered headdress, animal-fur vest and yellow hornbill-motif loincloth lunges mid-pose, brandishing a long sword in one hand and a carved wooden shield in the other, against a painted Sarawak longhouse backdrop under warm stage light.'
+heroAlt: 'இறகு தலையணி, விலங்கு உரோம மேலங்கி, இறால்கொத்தி வடிவ மஞ்சள் இடைத்துணி அணிந்த Iban ஆண் நடனக் கலைஞர், ஒரு கையில் நீண்ட வாளையும் மறு கையில் செதுக்கிய மரக் கேடயத்தையும் ஏந்தி, இளஞ்சூடான மேடை ஒளியில் Sarawak நீள்வீட்டுப் பின்னணிக்கு எதிரே பாய்ந்து நிற்கிறார்'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior_Dance.jpg'

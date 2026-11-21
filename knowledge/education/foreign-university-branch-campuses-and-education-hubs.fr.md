@@ -115,7 +115,7 @@ stayFacts:
   watch: 'Le diplôme est transférable mais l''expérience est locale — la taille des classes, les installations et la vie de campus diffèrent largement entre un campus autonome et un campus partagé au sein d''une cité de l''éducation. Les programmes des campus délocalisés doivent eux aussi être accrédités par la MQA et figurer sur le MQR.'
   next: 'Présélectionnez par spécialité et emplacement, vérifiez le programme exact sur le MQR, et confirmez l''agrément pour l''inscription d''étudiants internationaux auprès du campus. Voir Étudier en Malaisie et Universités publiques vs privées.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'Un bâtiment universitaire moderniste blanc à tour-horloge s''élevant au-delà d''un lac vert lisse comme un miroir bordé de verdure retombante et d''arbres sous un ciel spectaculaire'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

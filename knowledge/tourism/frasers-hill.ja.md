@@ -97,7 +97,7 @@ visitFacts:
   watch: '狭く曲がりくねった山道は進みが遅く、雨、地滑り、倒木の後に通行止めになりやすいうえ、丘自体もしばしば霧がかかって湿っており、飲食店や物資も限られている。'
   next: '出発前に、現在の道路アクセスの取り決めや通行止めの有無を道路当局（JKR）に確認すること。'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'フレーザーズヒルの、灰色の霧と背の高い松の下、ハーフティンバーのチューダー様式の建物のそばにマレーシア国旗を吊るした石の時計塔'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

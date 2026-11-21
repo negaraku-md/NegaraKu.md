@@ -86,7 +86,7 @@ visitFacts:
   watch: 'उत्तर-पूर्वी मानसून नदियों को उफ़ना सकता है और नावों व पगडंडियों को बाधित कर सकता है, कैनोपी वॉकवे बंदी का सामना कर चुके हैं, और जोंक व नमी निरंतर रहती हैं — पहुँच पुष्ट करें और गाइड पहले से बुक करें।'
   next: 'वर्तमान परमिट और प्रवेश नियम व शुल्क Taman Negara Pahang के Department of Wildlife and National Parks (PERHILITAN) कार्यालय से पुष्ट करें।'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'तामन नेगारा में नीली आसमान के नीचे क्षितिज तक फैले घने उष्णकटिबंधीय वर्षावन की लहरदार पहाड़ियाँ'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

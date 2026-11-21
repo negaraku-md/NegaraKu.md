@@ -121,7 +121,7 @@ visitFacts:
   watch: '느슨한 관광 홍보 문구와 달리 킨타 밸리(Kinta Valley)는 국가 지질공원이지 UNESCO 세계지질공원이 아닙니다.'
   next: '출발 전에 현재의 열차 시간표와 요금을 KTMB에 확인하십시오.'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: '흐릿한 파란 하늘 아래 뒤로 들쭉날쭉한 석회암 언덕이 솟은, 이포의 초록 파당과 유산 도심을 내려다본 전경'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

@@ -102,7 +102,7 @@ related: ["batik", "songket", "wau"]
 keywords: ["الكريس", "الإمبو", "البامور", "اللوك", "التراث الملايوي", "تامينغ ساري", "الكريس الملايوي", "قانون التراث الوطني 2005", "ثقافة نوسانتارا", "keris", "empu", "pamor", "luk", "Taming Sari"]
 framework: history-culture
 hero: '/media/arts-culture/keris/hero.webp'
-heroAlt: 'A ceremonial Malay keris lying on a dark surface, its undulating steel blade and base sheathed in gilded floral koftgari work beneath a carved ivory-coloured hilt, with the matching silver-embossed wooden scabbard resting below it'
+heroAlt: 'كريس ملايوي احتفالي على سطح داكن، نصله الفولاذي المتموّج وقاعدته مغلّفان بزخرفة زهرية مذهّبة (koftgari) أسفل مقبض عاجي اللون منحوت، مع الغمد الخشبي الفضّي المنقوش المطابق أسفله'
 heroCredit: 'Zamwan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'

@@ -111,7 +111,7 @@ visitFacts:
   watch: 'Jangan membeli arak bebas cukai berlebihan untuk dibawa pulang — harga murah itu untuk dinikmati di pulau, dan hanya elaun yang terhad melepasi kastam di tanah besar.'
   next: 'Sahkan jadual feri semasa dengan pengendali feri, dan elaun bebas cukai dengan Jabatan Kastam Diraja Malaysia (RMCD).'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'Jambatan Langkawi Sky Bridge yang melengkung tergantung tinggi antara puncak gunung berhutan di atas Laut Andaman'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

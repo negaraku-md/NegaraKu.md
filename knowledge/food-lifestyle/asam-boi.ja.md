@@ -85,7 +85,7 @@ drinkFacts:
   served: "もっとも定番なのは limau asam boi——calamansi のライムにサワープラムのシロップを合わせ、梅の実を数個と、ときに塩をひとつまみ加えて氷入りで。炭酸飲料（Sprite asam boi）や Ribena にも加えられる。単独でスナックとしても食べられる。"
   where: "全国のママックやコピティアムの飲み物カウンター、屋台、乾物店で見かける。包装された asam boi はスーパーや雑貨店で売られている。"
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'アサム・ボイとして知られる、しわの寄った塩をまぶした茶色の干し漬け梅の一皿'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

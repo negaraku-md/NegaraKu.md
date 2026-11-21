@@ -82,7 +82,7 @@ festivalFacts:
   holiday: "并非公共假期。中秋节在马来西亚不是全国或任何州属的公共假期，商号与政府机关照常运作（与首两天放公共假期的农历新年不同）。"
   etiquette: "华人会馆、庙宇（如吉隆坡乐圣岭天后宫）与社区组织举办的灯笼晚会、文艺表演等公开庆典，往往欢迎其他族裔居民一同参与、观赏，带有跨族群共享的一面。"
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: '马来西亚中秋庆典之夜，一座发光的大型绢制灯雕，塑成一位身着紫色上衣、红色裤子的微笑男子高举蓝黄色球形灯笼，身后步道沿途点亮成排的红金灯笼'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

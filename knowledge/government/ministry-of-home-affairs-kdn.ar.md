@@ -77,7 +77,7 @@ related: []
 keywords: ["KDN", "Kementerian Dalam Negeri", "وزارة الداخلية الماليزية", "Ministry of Home Affairs Malaysia", "MOHA", "وكالات KDN", "أقسام KDN", "وزير الداخلية الماليزي", "وظائف KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "مجلس الرقابة على الأفلام"]
 framework: profile
 hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
-heroAlt: 'Frontal view of the red-brick Ministry of Home Affairs (KDN) building in Putrajaya, its central tower flanked by arched windows above a grand arched entrance, palm trees lining the plaza under a blue sky'
+heroAlt: 'منظر أمامي لمبنى وزارة الداخلية (KDN) من الطوب الأحمر في بوتراجايا، برجه المركزي تحفّه نوافذ مقوّسة فوق مدخل مقوّس ضخم، ونخيل يصطفّ على الساحة تحت سماء زرقاء'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'

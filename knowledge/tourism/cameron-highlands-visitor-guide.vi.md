@@ -92,7 +92,7 @@ visitFacts:
   watch: 'Đừng coi nó là một thị trấn duy nhất — nó là ba khu định cư với vai trò khác nhau — và lưu ý rằng các vườn trà đóng cửa vào thứ Hai trong khi thời tiết cao nguyên thay đổi nhanh, nên các kế hoạch trong ngày có thể thay đổi.'
   next: 'Hãy xác nhận giờ mở cửa hiện tại và việc đóng cửa thứ Hai trực tiếp với từng địa điểm — trang chính thức của BOH Plantations (bohtea.com) cho các vườn trà và Hội đồng Quận Cameron Highlands (MDCH) cho các điểm thu hút trang trại-và-vườn.'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'Những bậc thang đồn điền chè xanh mướt thoai thoải phủ kín các ngọn đồi của Cameron Highlands dưới bầu trời xanh có mây'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

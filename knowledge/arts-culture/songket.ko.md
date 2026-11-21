@@ -78,7 +78,7 @@ related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
 hero: '/media/arts-culture/songket/hero.webp'
-heroAlt: 'A detailed close-up of handwoven songket cloth, deep red silk covered in dense floral and diamond motifs brocaded in glinting gold thread, with a contrasting central panel'
+heroAlt: '손으로 짠 송켓 천의 세밀한 근접 촬영, 짙은 붉은 실크에 반짝이는 금실로 촘촘한 꽃과 다이아몬드 문양을 짜 넣고 대비되는 중앙 패널이 있는 모습'
 heroCredit: 'Daderot / Wikimedia Commons'
 heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'

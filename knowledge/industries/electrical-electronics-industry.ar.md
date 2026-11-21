@@ -99,7 +99,7 @@ related: ["penang", "mida"]
 keywords: ["صناعة E&E", "E&E industry", "الكهرباء والإلكترونيات", "electrical and electronics", "التصنيع في ماليزيا", "Malaysia manufacturing", "إلكترونيات بينانغ", "Penang electronics", "أشباه الموصلات", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
 hero: '/media/industries/electrical-electronics-industry/hero.webp'
-heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroAlt: 'لقطة مقرّبة للوحة دارات مطبوعة خضراء مكتظّة بمكثّفات برتقالية زاهية ومكثّفات إلكتروليتية أسطوانية ورقائق دارات متكاملة سوداء ومقاومات ذات أشرطة ملوّنة'
 heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'

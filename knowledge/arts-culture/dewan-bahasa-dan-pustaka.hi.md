@@ -78,7 +78,7 @@ related: ["bahasa-melayu", "jawi-script"]
 keywords: ["भाषा एवं साहित्य परिषद", "DBP", "मलय भाषा", "कामुस देवान", "राष्ट्रीय साहित्यकार", "वैधानिक निकाय", "dewan bahasa dan pustaka", "bahasa melayu", "sasterawan negara"]
 framework: profile
 hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
-heroAlt: 'The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur at golden hour, its name and emblem on the crown of the building above a tree-lined field'
+heroAlt: 'सुनहरी रोशनी में कुआलालंपुर की ऊँची देवान बहासा दान पुस्तका मीनार, पेड़ों से घिरे मैदान के ऊपर इमारत के शिखर पर उसका नाम और प्रतीक'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'

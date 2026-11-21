@@ -79,7 +79,7 @@ visitFacts:
   watch: 'لا إغلاق إلزامي واحد، لكن معظم مشغّلي الجزر يغلقون طوعاً خلال الرياح الموسمية الشمالية الشرقية، لذا قرب تلك الأشهر تأكّد من نقل القوارب قبل الدفع.'
   next: 'تأكّد من رسوم الحفظ الحالية وقواعد المنتزه البحري مع دائرة مصائد الأسماك الماليزية (Department of Fisheries Malaysia).'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'شاطئ رمل أبيض خالٍ بصخور غرانيتية بالية وشجرة وحيدة وضحضاح فيروزي تحت سماء زرقاء بغيوم ركامية في جزر بيرهينتيان'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

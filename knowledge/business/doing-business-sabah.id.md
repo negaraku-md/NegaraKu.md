@@ -126,7 +126,7 @@ keywords:
   - "Sabah state sales tax"
 framework: profile
 hero: '/media/business/doing-business-sabah/hero.webp'
-heroAlt: 'Bright daytime view of downtown Kota Kinabalu with commercial office towers and shopping complexes beside a blue waterfront bay and islands'
+heroAlt: 'Pemandangan siang hari yang terang pusat kota Kota Kinabalu dengan menara perkantoran komersial dan kompleks perbelanjaan di tepi teluk biru dan pulau-pulau'
 heroCredit: 'Jason Thien / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'

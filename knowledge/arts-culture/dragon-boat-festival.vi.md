@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "Không phải ngày lễ công cộng — tại Malaysia đây không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào, thường vẫn làm việc và đi học như bình thường."
   etiquette: "Việc đón lễ trong gia đình phần lớn tập trung vào một bữa ăn bánh ú đúng ngày lễ; các hoạt động công cộng quy mô lớn như đua thuyền rồng thường được tổ chức vào cuối tuần hoặc những ngày lân cận để người dân tiện tham gia. Một số gia đình treo ngải cứu, xương bồ trước cửa, hoặc thử 'dựng trứng đứng' vào đúng trưa ngày lễ, nhưng cách làm mỗi nhà không hoàn toàn giống nhau."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'Một chiếc thuyền rồng dài màu vàng-cam với đầu rồng chạm khắc ở mũi và đuôi hình ngọn lửa, xếp đầy các tay chèo mặc áo phao dọc theo một bến tàu bên cạnh một mũi đất rừng rậm ở Sabah'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

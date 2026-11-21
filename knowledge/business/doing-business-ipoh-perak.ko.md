@@ -99,7 +99,7 @@ keywords:
   - "Ipoh cost of doing business"
 framework: profile
 hero: '/media/business/doing-business-ipoh-perak/hero.webp'
-heroAlt: 'Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky'
+heroAlt: '현대식 상업 사무용 타워와 초록 들판이 있는 이포 도심의 낮 풍경, 뒤로 부분적으로 구름 낀 하늘 아래 석회암 언덕이 있는 모습'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "并非马来西亚全国或各州公共假期；祭祀、盂兰胜会与歌台多在下班后的傍晚与夜间进行。"
   etiquette: "歌台最前排座位刻意空着留给无形宾客，观众一般不坐第一排；民间亦有勿踩踏路边供品、勿乱捡地上财物等说法。"
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: '七月歌台之夜，大帐篷下一座节庆舞台闪烁着红色霓虹弧光、星形灯板和滚动的中文LED字幕'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

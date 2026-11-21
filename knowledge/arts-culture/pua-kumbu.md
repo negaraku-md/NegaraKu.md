@@ -79,7 +79,7 @@ related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
 hero: '/media/arts-culture/pua-kumbu/hero.webp'
-heroAlt: 'A long strip of red pua kumbu cloth patterned in gold motifs stretched on a wooden backstrap loom inside a Sarawak longhouse, with woven mats and a carved Iban storage box nearby'
+heroAlt: 'Sejalur panjang kain pua kumbu merah bermotif emas direntang pada kek tenun galang belakang di dalam rumah panjang Sarawak, dengan tikar anyaman dan sebuah peti simpanan Iban berukir berdekatan'
 heroCredit: 'BarbicanMan / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'

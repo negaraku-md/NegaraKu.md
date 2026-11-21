@@ -91,7 +91,7 @@ visitFacts:
   watch: 'भूमध्यरेखीय वर्षावन जिसमें कोई भरोसेमंद शुष्क मौसम नहीं है — Pinnacles की चढ़ाई और चमगादड़-निर्गमन मौसम पर निर्भर हैं और भारी बारिश में रद्द कर दिए जाते हैं, इसलिए बफ़र दिन रखें। छोटे विमानों की सामान-सीमाएँ लागू होती हैं।'
   next: 'वर्तमान उड़ानें, कमरे, निर्देशित-गतिविधि नियम और शुल्क आधिकारिक पार्क साइट (mulupark.com) और Sarawak Tourism Board से पुष्ट करें।'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'सारावाक के गुनुंग मुलु राष्ट्रीय उद्यान में एक धुंधली पर्वत-ढलान पर हरे वर्षावन को भेदते नुकीले धूसर चूना-पत्थर के शिखरों का मैदान'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

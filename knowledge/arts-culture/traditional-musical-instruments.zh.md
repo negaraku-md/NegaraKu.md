@@ -73,7 +73,7 @@ related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
 hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
-heroAlt: 'A tattooed Orang Ulu musician in a feathered hat and beaded costume plays a large sape lute painted with bold red and black Bornean spiral motifs'
+heroAlt: '一位身有纹身的乌鲁人（Orang Ulu）乐师头戴羽毛帽、身着串珠服装，弹奏一把绘有醒目红黑婆罗洲螺旋纹样的大型sape琵琶'
 heroCredit: 'AjarnRichard / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'

@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "Chỉ là ngày nghỉ lễ công cộng ở những bang và lãnh thổ liên bang có công bố (gồm Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor và Kedah) — không phải ngày nghỉ lễ liên bang trên toàn quốc."
   etiquette: "Người không theo Ấn Độ giáo được chào đón đến xem các đoàn rước và cuộc leo bậc thang; hãy ăn mặc kín đáo khi ở gần đền, cởi giày nơi được yêu cầu, và xin phép trước khi chụp ảnh những tín đồ mang kavadi."
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'Các tín đồ leo lên bậc thang sơn bảy sắc cầu vồng của Batu Caves hướng về ngôi đền trong hang động cầu kỳ bên dưới những vách đá vôi cao sừng sững trong dịp Thaipusam'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

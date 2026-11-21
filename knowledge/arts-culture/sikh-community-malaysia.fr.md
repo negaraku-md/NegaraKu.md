@@ -84,7 +84,7 @@ related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "de
 keywords: ["communauté sikhe Malaisie", "Sikh Malaysia", "Pendjabis Malaisie", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "langue pendjabie"]
 framework: history-culture
 hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
-heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroAlt: 'Vue en contre-plongée de la façade blanche crénelée du temple sikh Gurdwara Sahib à Johor Bahru, l''emblème khanda sikh doré et les lettres gurmukhi sur son devant, un drapeau malaisien flottant au balcon et un gratte-ciel urbain s''élevant derrière contre un ciel bleu'
 heroCredit: 'Zahirulnukman / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'

@@ -80,7 +80,7 @@ related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
 hero: '/media/government/suhakam-human-rights-commission/hero.webp'
-heroAlt: 'Menara TH Perdana, a curved high-rise office tower in Kuala Lumpur with prominent ''MENARA TH PERDANA'' signage and a glass-canopied entrance, which houses SUHAKAM''s headquarters'
+heroAlt: 'SUHAKAM 본부가 입주한, 두드러진 ''MENARA TH PERDANA'' 간판과 유리 차양 입구를 갖춘 쿠알라룸푸르의 곡선 고층 사무 타워 므나라 TH 퍼르다나'
 heroCredit: 'Rulwarih / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'

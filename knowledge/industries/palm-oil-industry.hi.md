@@ -102,7 +102,7 @@ related: ["rubber-industry"]
 keywords: ["पाम ऑयल", "palm oil", "क्रूड पाम ऑयल", "crude palm oil", "CPO", "MPOB", "FELDA", "छोटे किसान", "smallholders", "ऑयल पाम", "oil palm", "रिफ़ाइनरियाँ", "refineries", "ओलियोकेमिकल्स", "oleochemicals", "MSPO", "बायोडीज़ल", "biodiesel", "निर्यात", "exports"]
 framework: profile
 hero: '/media/industries/palm-oil-industry/hero.webp'
-heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroAlt: 'सबा के कुनाक में एक बागान सड़क के किनारे पहाड़ियों को ढकते परिपक्व ताड़-तेल के पेड़ों की कतारें'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'

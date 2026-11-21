@@ -83,7 +83,7 @@ related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
 hero: '/media/arts-culture/mak-yong/hero.webp'
-heroAlt: 'Four Mak Yong performers in gold and maroon traditional Malay costume on a darkened stage, one wearing a tall gilt crown and one in a white clown mask'
+heroAlt: '暗い舞台上の、金と栗色の伝統的なマレー衣装をまとった4人のマ・ヨンの演者。1人は背の高い金の冠をかぶり、1人は白い道化の仮面をつける'
 heroCredit: 'Amriyadibahar / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'

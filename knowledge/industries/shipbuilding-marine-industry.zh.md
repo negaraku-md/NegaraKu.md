@@ -100,7 +100,7 @@ revisions:
     reviewer: null
 framework: profile
 hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
-heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroAlt: '一座滨水造船厂，高耸的红色门式起重机和正在建造的大型船只'
 heroCredit: 'Ibex73 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'

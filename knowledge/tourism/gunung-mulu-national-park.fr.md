@@ -91,7 +91,7 @@ visitFacts:
   watch: 'Forêt tropicale équatoriale sans saison sèche fiable — l''ascension des Pinnacles et la sortie des chauves-souris dépendent de la météo et sont annulées en cas de fortes pluies, prévoyez donc des jours de battement, et les limites de bagages des petits avions s''appliquent.'
   next: 'Confirmez les vols, hébergements, règles d''activités guidées et tarifs en vigueur auprès du site officiel du parc (mulupark.com) et du Sarawak Tourism Board.'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Un champ de pinacles de calcaire gris déchiquetés perçant la forêt tropicale verte sur un flanc de montagne brumeux au parc national de Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

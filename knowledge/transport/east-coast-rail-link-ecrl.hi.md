@@ -94,7 +94,7 @@ related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-comp
 keywords: ["ईस्ट कोस्ट रेल लिंक", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC रेलवे मलेशिया", "ECRL लागत पूर्णता", "Kota Bharu Port Klang रेल", "ECER रेल"]
 framework: profile
 hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
-heroAlt: 'The actual ECRL rolling stock: a blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks (a yellow KTM Komuter set beside it). The one ECRL-specific train photo on Commons — unmistakably this new east-coast line. Wide landscape, train filling the right of frame.'
+heroAlt: 'नाक पर ECRL फूल-लोगो वाली एक नीली-चाँदी CR200J विद्युत रेलगाड़ी, डिपो पटरियों पर खड़ी, बगल में एक पीली KTM Komuter गाड़ी'
 heroCredit: 'Oblivionis / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'

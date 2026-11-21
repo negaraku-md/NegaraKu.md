@@ -80,7 +80,7 @@ entity: "푸트라자야(Putrajaya, 말레이시아 연방 행정 수도)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
 hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
-heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroAlt: '극적인 구름 아래 푸트라자야 호수에 비친, 첨탑과 퍼르다나 푸트라 정부 단지 옆에 선 분홍 돔의 푸트라 모스크'
 heroCredit: 'Stefan Fussan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'

@@ -108,7 +108,7 @@ visitFacts:
   watch: 'เกาะทาง Sabah ตะวันออกอยู่ในเขตความมั่นคงที่กำหนด (ESSZONE) ใบอนุญาตไม่เคยรับประกัน และมีข้อจำกัดด้านการอนุรักษ์ (รวมถึงการปิดประจำปี) จึงควรเดินทางอย่างรู้ข้อมูลและตรวจสอบคำแนะนำทางการปัจจุบัน'
   next: 'ตรวจสอบโควตาใบอนุญาต Sipadan ค่าธรรมเนียม และการปิดเพื่อการอนุรักษ์ปัจจุบันกับ Sabah Parks หรือผู้ประกอบการดำน้ำที่ได้รับอนุญาตของคุณ'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'มุมมองทางอากาศเหนือทะเลสาบแนวปะการังสีเทอร์คอยส์สดใสล้อมด้วยเกาะสีเขียวใต้ท้องฟ้าสดใสมีเมฆประปรายที่อุทยานทางทะเลตุนซาการันใกล้เซมปอร์นา รัฐซาบาห์'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

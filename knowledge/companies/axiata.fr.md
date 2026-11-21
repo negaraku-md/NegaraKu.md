@@ -80,7 +80,7 @@ verificationNeeded:
   - "«Bien plus de 150 millions de clients» repose sur un chiffre de la société de 2019 plus la croissance ultérieure du marché ; à vérifier le total actuel de clients du groupe par rapport au dernier rapport annuel."
 framework: profile
 hero: '/media/companies/axiata/hero.webp'
-heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroAlt: 'L''entrée principale de l''Axiata Arena à Kuala Lumpur, sa façade argentée perforée portant en grand le nom « axiata arena » bleu et magenta et le logo triangulaire'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'

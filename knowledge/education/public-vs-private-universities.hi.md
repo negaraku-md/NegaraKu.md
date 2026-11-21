@@ -84,7 +84,7 @@ stayFacts:
   watch: 'IPTA/IPTS लेबल यह नहीं बताता कि कोई डिग्री मान्यता-प्राप्त है या नहीं — यह इस पर निर्भर करता है कि विशिष्ट कार्यक्रम MQR पर MQA-प्रत्यायित है या नहीं, जिसे आपको अपने सटीक दाख़िला वर्ष के लिए जाँचना चाहिए। आप UPU के ज़रिए किसी निजी विश्वविद्यालय में आवेदन नहीं कर सकते।'
   next: 'अपनी धारित योग्यता के आधार पर निर्णय लें, फिर किसी भी प्रकार के संस्थान में नामांकन से पहले मलेशियाई योग्यता रजिस्टर पर सटीक कार्यक्रम और दाख़िले की पुष्टि करें। देखें MQA प्रत्यायन की व्याख्या और कॉलेज डिपॉज़िट भरने से पहले।'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'नीली ''Dewan Tunku Canselor'' अक्षरों और एक बाहरी सीढ़ी वाला एक लंबा कच्चे-कंक्रीट का आधुनिकतावादी हॉल, सामने तराशे बगीचे और एक खाली सड़क'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

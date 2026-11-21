@@ -79,7 +79,7 @@ related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "بانجساوان", "الأوبرا الملايوية", "مسرح بارسي", "Wayang Parsi", "Pushi Indera Bangsawan", "المسرح الانتقالي", "الفيلم الملايوي"]
 framework: history-culture
 hero: '/media/arts-culture/bangsawan/hero.webp'
-heroAlt: 'Sepia 1890s photograph of a bangsawan Malay opera troupe in royal costume on a painted-backdrop stage, performers in crowns and ornate dress seated and standing on a throne platform while a crowd watches from below'
+heroAlt: 'صورة بنية اللون من تسعينيات القرن التاسع عشر لفرقة أوبرا ملايوية (bangsawan) بأزياء ملكية على مسرح بخلفية مرسومة، المؤدون بالتيجان والأزياء المزخرفة جلوس ووقوف على منصة عرش بينما يشاهدهم جمهور من الأسفل'
 heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
 heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'

@@ -97,7 +97,7 @@ stayFacts:
   watch: 'いかなる学費も政府が設定するものではないため、同じ年齢層であっても実際の金額は学校間で大きく変動し、値上げは上限30%かつ3年に1度までに制限される。また、子どもの年間学費がRM60,000を超える場合に、生徒1人・1学年あたり課される6%のサービス税も見込むこと——これは学費に上乗せされる税であって、学校が設定するものではない。'
   next: '学校を候補として絞り込み、予算を立てる前に各校に現行の学費表とRM60,000の課税基準額を直接確認すること。関連する計画については、外国人従業員に帯同する子どもをスポンサーするための「帯同パス（Dependant Pass）」または「長期社会訪問パス（Long-Term Social Visit Pass）」を、公立学校も比較対象にある場合は「公立学校への就学」を参照。'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: '曇り空の下、天蓋付きの守衛所、刈り込んだ生垣、葉の茂った木々をもつ近代的なインターナショナルスクールの入口門。背後に低い校舎'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

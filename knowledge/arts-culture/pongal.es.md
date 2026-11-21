@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "No es fiesta pública publicada en el boletín oficial ni a nivel federal ni en ningún estado de Malasia. (Solo Deepavali es fiesta pública federal —salvo en Sarawak—; Thaipusam es fiesta solo en algunos estados.)"
   etiquette: "Es principalmente una fiesta cultural ligada a la cosecha, de carácter laico (así lo aclaró un ministro malasio en 2020); las organizaciones comunitarias y los templos cocinan pongal de forma conjunta en numerosas ollas y celebran actos públicos con representaciones artísticas."
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'Una mujer sonriente con un sari púrpura y dorado remueve arroz Pongal humeante en una olla de barro rodeada de una guirnalda de caléndulas, cocinando al aire libre en un templo hindú durante el Thai Pongal'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

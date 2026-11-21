@@ -91,7 +91,7 @@ visitFacts:
   watch: 'ป่าฝนเขตศูนย์สูตรไม่มีฤดูแล้งที่แน่นอน การปีน Pinnacles และการบินออกของค้างคาวขึ้นอยู่กับสภาพอากาศและถูกยกเลิกเมื่อฝนตกหนัก จึงควรเผื่อวันสำรอง และมีข้อจำกัดน้ำหนักสัมภาระของเครื่องบินเล็ก'
   next: 'ตรวจสอบเที่ยวบิน ที่พัก กฎกิจกรรมนำเที่ยว และค่าธรรมเนียมปัจจุบันกับเว็บไซต์ทางการของอุทยาน (mulupark.com) และ Sarawak Tourism Board'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'ทุ่งยอดหินปูนสีเทาแหลมคมทิ่มแทงป่าฝนสีเขียวบนไหล่เขาในหมอกที่อุทยานแห่งชาติกูนุงมูลู รัฐซาราวัก'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

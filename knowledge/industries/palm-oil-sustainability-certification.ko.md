@@ -105,7 +105,7 @@ related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
 hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
-heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroAlt: '조호르 머르싱 지구의 밝은 하늘 아래 완만한 초록 땅을 가로질러 뻗은, 정돈되고 잘 관리된 기름야자 농장'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'

@@ -111,7 +111,7 @@ visitFacts:
   watch: 'घर ले जाने के लिए ड्यूटी-फ़्री शराब अधिक न ख़रीदें — सस्ती क़ीमतें द्वीप पर आनंद लेने के लिए हैं, और मुख्यभूमि पर केवल एक सीमित भत्ता ही सीमा-शुल्क से पार होता है।'
   next: 'वर्तमान फ़ेरी समय-सारणियाँ फ़ेरी ऑपरेटरों से, और ड्यूटी-फ़्री भत्ते Royal Malaysian Customs Department (RMCD) से पुष्ट करें।'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'अंडमान सागर के ऊपर जंगल-ढके पर्वत-शिखरों के बीच ऊँचाई पर लटका घुमावदार लंकावी स्काई ब्रिज'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

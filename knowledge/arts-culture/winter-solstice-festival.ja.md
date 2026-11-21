@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "祝日ではない——冬至はマレーシアでは全国的にも、いずれの州においても祝日ではない。"
   etiquette: "華人の多くは家庭で控えめに祝い、一家が車座になって湯圓を丸め、一緒に食事をするのであって、大規模な公開行事を催すわけではない。一部の家庭では、まず湯圓で祖先を祀り神を拝んでから一家で共に食べるが、やり方は家庭や方言集団によって異なる。"
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: '澄んだ甘いシロップに浮かぶ、淡いピンク・紫・黄のもち米団子の白い椀に、青い縁の陶器のスプーンが添えられている'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

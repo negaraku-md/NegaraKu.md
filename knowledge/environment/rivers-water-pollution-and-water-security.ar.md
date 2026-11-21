@@ -83,7 +83,7 @@ related: ["environmental-quality-act-1974"]
 keywords: ["تلوث الأنهار", "مؤشر جودة المياه", "WQI", "أمن المياه", "إمداد المياه", "نهر سيلانغور", "نهر كيم كيم", "محمية النهر", "دائرة البيئة", "منطقة مستجمعات المياه", "water security"]
 framework: explainer
 hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
-heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroAlt: 'نهر بنيّ عريض يمتد نحو أفق غابي مسطّح تحت سماء شاحبة متموّجة بالغيوم'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'

@@ -101,7 +101,7 @@ visitFacts:
   watch: '请及早预订稀缺且须凭准证的热门项目，并围绕 Sipadan 每年 11 月的珊瑚礁恢复封闭期来规划，因为这些项目会售罄且无法在抵达时取得。'
   next: '出发前请向马来西亚移民局（Immigration Department of Malaysia）及 Sabah Parks 确认当前的入境、入境准证与准证规定。'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: '黎明时分，神山（Mount Kinabalu）圣约翰峰的花岗岩峰顶在云海之上泛着粉光'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

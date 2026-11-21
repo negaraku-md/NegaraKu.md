@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "Les deux premiers jours du Nouvel An lunaire sont un jour férié national, dont le fondement juridique est le Holidays Act 1951 (Act 369) et les journaux officiels de chaque État."
   etiquette: "La « maison ouverte » (rumah terbuka) interethnique permet à des parents et amis d'origines diverses de se rendre visite pour présenter leurs vœux ; les cadeaux d'accompagnement et les enveloppes rouges apportés lors de ces visites sont généralement en nombre pair, signe de bon augure, et l'on évite couramment les nombres contenant le « quatre »."
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'Des centaines de lanternes rouges et or suspendues en lignes rayonnantes sous les toits ornés du temple Thean Hou à Kuala Lumpur contre un ciel bleu limpide pendant le Nouvel An chinois'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

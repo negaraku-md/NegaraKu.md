@@ -121,7 +121,7 @@ visitFacts:
   watch: 'Dù tài liệu du lịch mô tả thiếu chính xác, Kinta Valley là một geopark quốc gia, không phải một UNESCO Global Geopark.'
   next: 'Hãy xác nhận thời gian biểu và giá vé tàu hiện tại với KTMB trước khi đi.'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'Tầm nhìn qua Padang xanh của Ipoh và trung tâm thành phố di sản với những ngọn đồi đá vôi lởm chởm vươn lên phía sau dưới bầu trời xanh mờ sương'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

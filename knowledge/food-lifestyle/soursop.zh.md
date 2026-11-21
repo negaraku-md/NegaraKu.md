@@ -84,7 +84,7 @@ drinkFacts:
   served: "冰镇供应，现点现打——加水较清爽，加牛奶做成奶昔较浓郁。是一款清爽的果汁；请就这样享用它，并请注意，附着于红毛榴莲的那些健康与「抗癌」声称在人体上未经证实，绝不能替代医疗护理。"
   where: "遍布全国、凡是现打新鲜热带果汁的地方——果汁档、小贩摊位与水果摊——都能找到。"
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: '市场摊位上一堆新鲜的青皮带刺红毛榴莲（soursop），背景有木瓜和香蕉'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

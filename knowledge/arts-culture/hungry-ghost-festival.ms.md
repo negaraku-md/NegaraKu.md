@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "Bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia; pemujaan, 盂兰胜会 dan persembahan pentas getai (歌台) kebanyakannya diadakan pada waktu petang selepas kerja dan pada waktu malam."
   etiquette: "Barisan tempat duduk paling hadapan di getai sengaja dikosongkan untuk tetamu halimunan, dan penonton umumnya tidak duduk di barisan pertama; terdapat juga pantang larang rakyat seperti jangan memijak sajian di tepi jalan dan jangan sembarangan memungut barang bernilai yang terjatuh di tanah."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'Sebuah pentas perayaan di bawah khemah yang bersinar dengan lengkungan neon merah, panel berbentuk bintang dan papan tanda LED aksara Cina bergerak pada waktu malam semasa getai bulan ketujuh'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

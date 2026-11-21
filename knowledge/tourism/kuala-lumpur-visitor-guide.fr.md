@@ -105,7 +105,7 @@ visitFacts:
   watch: 'Le trafic du centre-ville est dense aux heures de pointe, les trains sont donc généralement plus rapides qu''une voiture pour les trajets à travers la ville.'
   next: 'Confirmez les horaires d''ouverture et la billetterie en vigueur pour les tours jumelles Petronas auprès du site officiel des PETRONAS Twin Towers (petronastwintowers.com.my).'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: 'Les tours jumelles Petronas illuminées s''élevant au-dessus du centre de Kuala Lumpur sous un ciel de coucher de soleil doré'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

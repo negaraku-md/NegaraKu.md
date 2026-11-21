@@ -92,7 +92,7 @@ visitFacts:
   watch: 'Jangan anggap ia sebagai satu pekan — ia tiga petempatan dengan peranan berbeza — dan ambil perhatian bahawa taman teh tutup pada hari Isnin manakala cuaca tanah tinggi berubah dengan cepat, jadi rancangan harian boleh berubah.'
   next: 'Sahkan waktu buka dan penutupan hari Isnin semasa terus dengan setiap tapak — laman rasmi BOH Plantations (bohtea.com) untuk taman teh dan Majlis Daerah Cameron Highlands (MDCH) untuk tarikan ladang-dan-taman.'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'Teres ladang teh hijau menghijau berbukit menyelimuti bukit Cameron Highlands di bawah langit biru berawan'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

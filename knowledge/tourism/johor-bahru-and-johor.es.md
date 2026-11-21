@@ -120,7 +120,7 @@ visitFacts:
   watch: 'La Calzada se congestiona los viernes por la tarde, los fines de semana, las vacaciones escolares de Singapur y las vísperas de festivos, así que cruce temprano, evite las horas punta de regreso y cambie al Second Link cuando esté atascada.'
   next: 'Confirme las disposiciones vigentes de cruce, del RTS Link y de permisos de parques con las autoridades de transporte oficiales de Malasia y Singapur y con la autoridad del parque correspondiente antes de viajar.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'La Mezquita Estatal Sultan Abu Bakar de estilo victoriano-morisco blanca en Johor Bahru, con sus altas torres-minarete y cúpulas negras bajo un cielo nublado'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

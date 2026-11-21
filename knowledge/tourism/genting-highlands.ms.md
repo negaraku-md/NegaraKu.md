@@ -95,7 +95,7 @@ visitFacts:
   watch: 'Puncaknya sering diselubungi awan, sejuk dan lembap dengan pemandangan yang datang dan pergi, dan hujung minggu serta cuti umum membawa orang ramai yang sesak dan beratur panjang.'
   next: 'Sahkan peraturan kemasukan taman tema, kereta kabel dan kasino semasa dengan Resorts World Genting.'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'Pemandangan luas dari bumbung tokong Cina ke atas gunung hutan hujan berselimut awan dengan resort Genting di kejauhan'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

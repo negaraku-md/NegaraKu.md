@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "यह केवल उन राज्यों और संघीय क्षेत्रों में सार्वजनिक अवकाश है जो इसे राजपत्रित करते हैं (जिनमें Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor और Kedah शामिल हैं) — यह देशव्यापी संघीय अवकाश नहीं है।"
   etiquette: "गैर-हिंदू लोगों का शोभायात्राओं और चढ़ाई को देखने के लिए स्वागत है; मंदिर के पास शालीन वस्त्र पहनें, जहाँ आवश्यक हो वहाँ जूते उतारें, और kavadi उठाने वाले श्रद्धालुओं की तस्वीर लेने से पहले अनुमति लें।"
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'थाईपुसम के दौरान ऊँची चूना-पत्थर की चट्टानों के नीचे सजावटी गुफा-मंदिर की ओर बटु गुफाओं की इंद्रधनुषी रंगी सीढ़ी चढ़ते श्रद्धालु'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

@@ -79,7 +79,7 @@ visitFacts:
   watch: '단일하게 강제된 휴장은 없지만 대부분의 섬 업체가 북동 몬순에 자발적으로 문을 닫으므로, 그 시기가 가까우면 요금을 내기 전에 보트 이동편을 확인하십시오.'
   next: '현재의 보존 요금과 해양공원 규정은 말레이시아 수산청(Department of Fisheries Malaysia)에 확인하십시오.'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: '페르헨티안 섬의 파란 하늘과 적운 아래, 풍화된 화강암 바위와 외로운 나무, 터키석빛 얕은 물이 있는 텅 빈 백사장'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

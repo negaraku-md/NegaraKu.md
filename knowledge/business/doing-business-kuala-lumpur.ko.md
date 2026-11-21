@@ -110,7 +110,7 @@ keywords:
   - "TRX Marquee status incentives"
 framework: profile
 hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
-heroAlt: 'Dense cluster of Kuala Lumpur central business district office skyscrapers seen from above, with the Petronas Twin Towers rising at the left edge'
+heroAlt: '위에서 본 쿠알라룸푸르 중심업무지구 사무용 마천루의 빽빽한 군집, 왼쪽 가장자리에 페트로나스 트윈타워가 솟은 모습'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'

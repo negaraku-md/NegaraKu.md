@@ -90,7 +90,7 @@ related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
 hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
-heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroAlt: '一只野生婆罗洲猩猩母亲与幼崽在热带雨林树冠的枝条间休憩'
 heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'

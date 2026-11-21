@@ -78,7 +78,7 @@ social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
 hero: '/media/companies/rhb-banking-group/hero.webp'
-heroAlt: 'A three-storey corner bank building whose ground floor is wrapped in a bright blue fascia reading RHB Bank, RHB Islamic and RHB Bank, each with the red-diamond RHB logo, a red car parked out front under a pale sky'
+heroAlt: 'Một tòa nhà ngân hàng góc phố ba tầng, tầng trệt bọc một dải mặt xanh sáng ghi RHB Bank, RHB Islamic và RHB Bank, mỗi dòng kèm logo RHB hình thoi đỏ, một chiếc ô tô đỏ đậu phía trước dưới bầu trời nhạt'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'

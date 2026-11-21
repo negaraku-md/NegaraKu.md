@@ -85,7 +85,7 @@ related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["viaje interurbano Malasia", "KTM ETS", "KTM Intercity", "autobús expreso Malasia", "Terminal Bersepadu Selatan", "TBS", "vuelos nacionales Malasia", "AirBorneo", "MASwings", "Rural Air Service", "vuelos Sabah Sarawak", "intercity travel Malaysia"]
 framework: explainer
 hero: '/media/transport/intercity-travel/hero.webp'
-heroAlt: 'A yellow-and-blue KTM ETS Class 93 intercity electric train at a station platform with passengers waiting'
+heroAlt: 'Un tren eléctrico interurbano KTM ETS Clase 93 amarillo y azul en el andén de una estación con pasajeros esperando'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'

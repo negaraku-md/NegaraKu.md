@@ -78,7 +78,7 @@ festivalFacts:
   holiday: "No es fiesta pública federal; ningún estado suele declararla fiesta (a diferencia de Deepavali y Thaipusam)."
   etiquette: "Es costumbre intercambiar el saludo «Puthandu Vazhthukkal» (felicitación de Año Nuevo); el día de Chithirai se aprecia un ambiente festivo en la Little India de Kuala Lumpur, en los templos y en los actos comunitarios."
 hero: '/media/arts-culture/tamil-new-year/hero.webp'
-heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroAlt: 'Una joven india malaya con un sari verde y granate junta las palmas en un saludo namaste en una celebración al aire libre del Tamil Puthandu en Brickfields, Kuala Lumpur, con carpas de festival y el horizonte de la ciudad detrás'
 heroCredit: 'Nimaaland / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'

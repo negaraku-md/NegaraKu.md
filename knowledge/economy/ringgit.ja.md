@@ -67,7 +67,7 @@ faq:
     a: BNMのKL USD/MYR参照レートは、銀行間市場から算出される市場ベンチマークであり、契約や評価に用いられるもので——小売価格ではないからです。銀行や両替商はその上に独自のスプレッドを上乗せするため、あなたは常に参照レートより悪いレートで取引することになります。参照レートは2026年10月23日時点で4.0841でしたが、それはベンチマークであって、顧客が窓口で実際に支払う金額ではありません。
 framework: explainer
 hero: '/media/economy/ringgit/hero.webp'
-heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroAlt: 'BANK NEGARA MALAYSIAとSERATUS RINGGITと記されたマレーシアの100リンギット紙幣の表面。大きな紫の100、RMの額面表示、王室の頭飾りをつけた初代ヤン・ディ・プルトゥアン・アゴンの肖像'
 heroCredit: 'Apitheart / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'

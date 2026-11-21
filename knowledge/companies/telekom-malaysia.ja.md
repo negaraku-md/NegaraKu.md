@@ -82,7 +82,7 @@ social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
 hero: '/media/companies/telekom-malaysia/hero.webp'
-heroAlt: 'The tapering curved Menara TM skyscraper rising against blue sky and cumulus cloud, its vertical blade-like spine carrying the red-and-blue TM logo and a disc-shaped sky terrace jutting from the upper floors'
+heroAlt: '青空と積雲を背にそびえる、先細りの曲線的なムナラTM超高層ビル。刃のような垂直の背骨に赤と青のTMロゴを掲げ、上層階から円盤状の空中テラスが突き出す'
 heroCredit: 'Shesmax / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'

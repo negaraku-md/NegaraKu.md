@@ -87,7 +87,7 @@ visitFacts:
   watch: '请按星期几安排行程——鸡场街（Jonker Street）夜市仅在星期五至星期日傍晚开市，平日则是一条普通的店屋街——且别把免费的历史城门 A Famosa 与城外另一处的 A''Famosa Resort 主题公园混为一谈。'
   next: '参观前请向峇峇娘惹古迹博物馆（Baba & Nyonya Heritage Museum）官方网站确认当前的开放日与开放时间，因为这些会有变动。'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: '马六甲荷兰广场，赭红色的荷兰红屋（Stadthuys）立于维多利亚喷泉和市集摊位之后'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

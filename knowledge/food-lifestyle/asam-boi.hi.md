@@ -84,7 +84,7 @@ drinkFacts:
   served: "सबसे शास्त्रीय रूप से limau asam boi के रूप में — खट्टे-आलूबुखारे की चाशनी के साथ calamansi नींबू, बर्फ़ पर, आलूबुखारे के कुछ टुकड़ों और कभी-कभी एक चुटकी नमक के साथ। शीतल पेयों (Sprite asam boi) और Ribena में भी मिलाया जाता है। अकेले नाश्ते के रूप में भी खाया जाता है।"
   where: "देश भर के mamak और kopitiam पेय-काउंटरों, हॉकर ठेलों और सूखे-सामान की दुकानों पर मिलता है; पैक किया हुआ asam boi सुपरमार्केट और किराना दुकानों में बिकता है।"
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'असम बोई के नाम से जाने जाने वाले झुर्रीदार, नमक-लिपटे भूरे सूखे परिरक्षित आलूबुखारों की एक डिश'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

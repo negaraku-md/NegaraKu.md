@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Causeway शुक्रवार की शाम, सप्ताहांत, सिंगापुर के स्कूल अवकाश और सार्वजनिक-अवकाश की पूर्वसंध्याओं पर जाम हो जाता है, इसलिए जल्दी पार करें, चरम वापसी समय से बचें, और जब यह जाम हो तो Second Link पर जाएँ।'
   next: 'यात्रा से पहले वर्तमान पारगमन, RTS Link और पार्क-परमिट व्यवस्थाएँ आधिकारिक मलेशियाई और सिंगापुरी परिवहन प्राधिकरणों तथा संबंधित पार्क प्राधिकरण से पुष्ट करें।'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'जोहोर बारू में सफ़ेद विक्टोरियन-मूरिश सुल्तान अबू बकर राज्य मस्जिद, बादल भरी आसमान के नीचे अपनी ऊँची मीनार-मीनारों और काले गुंबदों के साथ'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

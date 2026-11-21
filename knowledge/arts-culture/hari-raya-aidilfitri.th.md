@@ -84,7 +84,7 @@ festivalFacts:
   holiday: "วันแรกและวันที่สองได้รับการประกาศในราชกิจจานุเบกษาเป็นวันหยุดราชการสหพันธ์ทั่วทั้งมาเลเซีย"
   etiquette: "แขกต่างเชื้อชาติได้รับการต้อนรับสู่การเปิดบ้าน ควรแต่งกายสุภาพ และโดยปกติถอดรองเท้าก่อนเข้าบ้าน"
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'ฝูงชนในชุดบาจูมลายูในเทศกาลกำลังออกจากมัสยิดหมู่บ้านหอคอยคู่หลังละหมาดเช้าฮารีรายอที่อาโลร์ปงซู รัฐเประ'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

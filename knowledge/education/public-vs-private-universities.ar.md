@@ -84,7 +84,7 @@ stayFacts:
   watch: 'لا يخبرك تصنيف IPTA/IPTS بذاته إن كانت الشهادة معترفاً بها — فذلك يتوقّف على ما إذا كان البرنامج المحدد معتمَداً من MQA ومدرَجاً في السجلّ الماليزي للمؤهّلات (MQR)، وهو ما ينبغي أن تتحقّق منه لسنة التحاقك بالضبط. ولا يمكنك التقديم إلى جامعة خاصة عبر UPU.'
   next: 'قرِّر انطلاقاً من المؤهّل الذي تحمله، ثم تحقّق من البرنامج وسنة الالتحاق بالضبط في السجلّ الماليزي للمؤهّلات قبل التسجيل في أيٍّ من النوعين. راجع شرح اعتماد MQA، ومقال قبل دفع عربون الكلية.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'قاعة حداثية طويلة من الخرسانة الخام مع حروف ''Dewan Tunku Canselor'' زرقاء ودرج خارجي، أمامها حدائق تشذيب وطريق خالٍ'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

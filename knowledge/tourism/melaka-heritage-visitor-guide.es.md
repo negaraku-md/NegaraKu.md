@@ -87,7 +87,7 @@ visitFacts:
   watch: 'Planifique según el día de la semana — el mercado nocturno de Jonker Street funciona solo las tardes de viernes a domingo, y entre semana es una calle de tiendas-vivienda corriente — y no confunda la puerta histórica gratuita de A Famosa con el parque temático A''Famosa Resort, aparte y fuera de la ciudad.'
   next: 'Confirme los días y horarios de apertura vigentes con el sitio oficial del Museo del Patrimonio Baba & Nyonya (Baba & Nyonya Heritage Museum) antes de su visita, ya que cambian.'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'El edificio Stadthuys holandés de color terracota detrás de la Fuente Victoria y los puestos de mercado en la Plaza Holandesa de Melaka'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

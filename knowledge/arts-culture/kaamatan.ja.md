@@ -86,7 +86,7 @@ festivalFacts:
   holiday: "5月30日と31日はサバ州および連邦直轄領ラブアンの祝日であり、全国的な祝日ではない。"
   etiquette: "Unduk Ngadau は、通常の美人コンテストではなく、Huminodun の伝説を称える文化パジェントとして理解し、Bambaazon の信仰と Huminodun の伝説は、断定された事実としてではなく、コミュニティ自身の伝統として敬意をもって扱うこと。"
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: 'サバ州プナンパンの星空の舞台で、黒と金の伝統衣装をまとったカダザン・ドゥスンのボボヒザン(司祭)たちがカアマタンの儀式を執り行う'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

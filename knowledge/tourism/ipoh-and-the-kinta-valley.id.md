@@ -121,7 +121,7 @@ visitFacts:
   watch: 'Terlepas dari narasi pariwisata yang longgar, Lembah Kinta adalah geopark nasional, bukan UNESCO Global Geopark.'
   next: 'Konfirmasikan jadwal dan tarif kereta api terkini dengan KTMB sebelum bepergian.'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'Pemandangan Padang hijau Ipoh dan pusat kota bersejarah dengan bukit kapur bergerigi menjulang di belakang di bawah langit biru berkabut'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

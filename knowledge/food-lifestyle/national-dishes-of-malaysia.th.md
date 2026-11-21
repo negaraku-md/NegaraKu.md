@@ -4,7 +4,7 @@ title: "อาหารประจำชาติของมาเลเซี
 seoTitle: "อาหารประจำชาติของมาเลเซีย — นาซีเลอมัก โรตีจาไน ลักซา"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'นาซิเลอมักบนใบตองเสิร์ฟพร้อมซัมบัล ปลากะตักทอด ถั่วลิสงคั่ว แตงกวาและไข่ต้ม'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

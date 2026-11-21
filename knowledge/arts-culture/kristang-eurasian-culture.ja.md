@@ -88,7 +88,7 @@ related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
 hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
-heroAlt: 'A line of Kristang performers in traditional Portuguese-Eurasian costume, the women in red headscarves, white blouses and embroidered skirts and the men in black hats and waistcoats, singing and dancing on a stage under a Festa San Pedro 2026 banner in the Portuguese Settlement in Melaka'
+heroAlt: 'ムラカのポルトガル人居住区で、2026年フェスタ・サン・ペドロの横断幕の下、伝統的なポルトガル系ユーラシアンの衣装をまとったクリスタンの演者たちが舞台で歌い踊る。女性は赤い頭巾、白いブラウス、刺繍のスカート、男性は黒い帽子とベスト'
 heroCredit: 'Song GK / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'

@@ -99,7 +99,7 @@ stayFacts:
   watch: 'Karena tidak ada biaya yang ditetapkan pemerintah, harga sebenarnya berayun luas antarsekolah bahkan untuk kelompok usia yang sama, dan kenaikan biaya dibatasi pada 30% tidak lebih dari sekali setiap tiga tahun. Rencanakan pula untuk pajak jasa 6% yang berlaku, per murid per tahun akademik, apabila biaya tahunan seorang anak melebihi RM60,000 — pajak di atas biaya, bukan ditetapkan oleh sekolah.'
   next: 'Susun daftar pendek sekolah dan pastikan jadwal biaya terkini serta ambang pajak RM60,000 langsung dengan masing-masing sebelum membuat anggaran. Untuk perencanaan terkait, lihat Pas Tanggungan atau Pas Lawatan Sosial Jangka Panjang untuk mensponsori anak menyertai seorang pekerja asing, dan Mendaftar ke Sekolah Pemerintah jika sekolah pemerintah juga ada dalam daftar perbandingan Anda.'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: 'Gerbang masuk sekolah internasional modern dengan pos jaga berkanopi, pagar tanaman terpangkas, dan pepohonan rindang, dengan bangunan kampus rendah di belakangnya di bawah langit mendung'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

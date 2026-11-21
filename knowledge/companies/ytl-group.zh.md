@@ -82,7 +82,7 @@ related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
 hero: '/media/companies/ytl-group/hero.webp'
-heroAlt: 'The distinctive faceted dark-and-bronze geometric facade of Starhill Gallery luxury mall on Bukit Bintang, with the JW Marriott hotel tower rising behind it'
+heroAlt: '武吉免登Starhill Gallery奢华商场独特的深色与古铜色几何切面立面，身后耸立着JW万豪酒店塔楼'
 heroCredit: 'angys / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'

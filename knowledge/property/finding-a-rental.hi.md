@@ -72,7 +72,7 @@ related: ["employment-pass", "opening-bank-account"]
 keywords: ["मलेशिया किराया", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "पंजीकृत संपत्ति निगोशिएटर", "registered estate negotiator", "BOVAEP", "LPPEH", "मलेशिया संपत्ति एजेंट", "मलेशिया किराया कमीशन", "REN Tag"]
 framework: explainer
 hero: '/media/property/finding-a-rental/hero.webp'
-heroAlt: 'A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky'
+heroAlt: 'कुआलालंपुर के उत्तरी कियारा में बादल भरी नीली आसमान के नीचे पहाड़ियों और फैले उपनगरीय आवास के ऊपर उठती एक ऊँची, सफ़ेद आधुनिक कॉन्डोमिनियम मीनार'
 heroCredit: 'Pradana Aumars / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'

@@ -85,7 +85,7 @@ related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
 hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
-heroAlt: 'Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo'
+heroAlt: '婆罗洲神山公园（Kinabalu Park）茂密未经扰动的热带雨林中，雾气在高大的树木和树蕨间飘荡'
 heroCredit: 'Dukeabruzzi / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'

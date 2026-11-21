@@ -108,7 +108,7 @@ visitFacts:
   watch: 'Các đảo ở phía đông Sabah nằm trong một vùng an ninh được chỉ định (ESSZONE), giấy phép không bao giờ được bảo đảm, và các giới hạn bảo tồn (bao gồm một đợt đóng cửa thường niên) được áp dụng — hãy đi lại với đầy đủ thông tin và kiểm tra khuyến cáo chính thức hiện tại.'
   next: 'Hãy xác nhận giới hạn giấy phép, phí Sipadan hiện tại và bất kỳ đợt đóng cửa bảo tồn nào với Sabah Parks hoặc nhà điều hành lặn có giấy phép của bạn.'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'Cảnh nhìn từ trên không một đầm rạn san hô xanh ngọc rực rỡ bao quanh bởi những hòn đảo xanh dưới bầu trời rực rỡ lốm đốm mây ở Công viên Hải dương Tun Sakaran gần Semporna, Sabah'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

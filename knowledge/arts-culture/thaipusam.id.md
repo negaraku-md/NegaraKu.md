@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "Hari libur umum hanya di negara bagian dan wilayah persekutuan yang menetapkannya dalam warta (termasuk Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor dan Kedah) — bukan hari libur persekutuan secara nasional."
   etiquette: "Non-Hindu dipersilakan menyaksikan arak-arakan dan pendakian; berpakaianlah sopan di dekat kuil, lepaskan alas kaki di tempat yang mengharuskannya, dan mintalah izin sebelum memotret umat yang membawa kavadi."
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'Para pemuja menaiki tangga berwarna pelangi di Batu Caves menuju kuil gua yang berhias di bawah tebing kapur yang menjulang saat Thaipusam'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

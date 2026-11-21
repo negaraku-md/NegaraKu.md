@@ -80,7 +80,7 @@ verificationNeeded:
   - "経営陣：常務取締役兼CEOの Tay Ah Lek、および現任の会長——現在の取締役会の役職を確認する。"
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: '夕暮れの空を背に暖かな金色に輝く段状のムナラ・パブリックバンク。頂部に赤と黄のパブリックバンクのロゴが灯り、入口の上にPUBLIC BANKのワードマークが照らされる'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

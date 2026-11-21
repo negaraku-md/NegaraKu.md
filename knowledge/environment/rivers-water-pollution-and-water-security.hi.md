@@ -83,7 +83,7 @@ related: ["environmental-quality-act-1974"]
 keywords: ["नदी प्रदूषण", "जल गुणवत्ता सूचकांक", "WQI", "जल सुरक्षा", "जल आपूर्ति", "सुंगाई सेलांगोर", "सुंगाई किम किम", "नदी संरक्षित क्षेत्र", "पर्यावरण विभाग", "जल-ग्रहण क्षेत्र", "water security"]
 framework: explainer
 hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
-heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroAlt: 'हल्की, बादल-धारी आसमान के नीचे एक सपाट जंगली क्षितिज तक फैली एक चौड़ी भूरी नदी'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'

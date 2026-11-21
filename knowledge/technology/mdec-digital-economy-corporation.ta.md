@@ -69,7 +69,7 @@ related: []
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
 hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
-heroAlt: 'Aerial panorama of Cyberjaya, Malaysia''s tech corridor, showing office buildings, highways and green landscaping'
+heroAlt: 'மலேசியாவின் தொழில்நுட்ப நடைபாதையான Cyberjaya-வின் வான்வழி பனோரமா; அலுவலகக் கட்டிடங்கள், நெடுஞ்சாலைகள், பச்சை அழகுபடுத்தல்'
 heroCredit: 'Vimobe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'

@@ -99,7 +99,7 @@ visitFacts:
   watch: 'طائرات Mulu الصغيرة تتأخّر أو تُلغى بانتظام بسبب الطقس، لذا اترك أياماً احتياطية ولا تحجز أبداً اتصال سفر ضيّقاً خارج المنتزه.'
   next: 'تأكّد من متطلبات التأشيرة وMDAC الحالية لجنسيتك مع دائرة الهجرة الماليزية (Immigration Department of Malaysia).'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: 'غابة من قمم جيرية رمادية مسنّنة تخترق غابة مطيرة خضراء وضبابًا في حديقة غونونغ مولو الوطنية، ساراواك'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

@@ -79,7 +79,7 @@ visitFacts:
   watch: 'ஒரே கட்டாய மூடல் எதுவும் இல்லை, ஆனால் பெரும்பாலான தீவு இயக்குநர்கள் வடகிழக்கு பருவமழைக்கு தன்னார்வமாக மூடுகிறார்கள், எனவே அந்த மாதங்களுக்கு அருகில் பணம் செலுத்துவதற்கு முன் படகுப் பயணங்களை உறுதிப்படுத்துங்கள்.'
   next: 'தற்போதைய பாதுகாப்புக் கட்டணங்களையும் கடல் பூங்கா விதிகளையும் Department of Fisheries Malaysia-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'Perhentian தீவுகளில், மேகங்களுடன் நீல வானத்திற்குக் கீழே, காலநிலைத் தேய்ந்த கிரானைட் பாறைகள், ஒரு தனி மரம், துருக்கிநீல ஆழமற்ற நீருடன் வெறிச்சோடிய வெள்ளை மணல் கடற்கரை'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

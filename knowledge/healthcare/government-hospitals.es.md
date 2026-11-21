@@ -72,7 +72,7 @@ related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-healt
 keywords: ["hospital público Malasia", "cargos hospital público", "sistema de derivación hospitalaria", "cargo sala Clase 3", "cargos no ciudadanos hospital", "Akta Fee 1951", "hospital especializado de derivación", "tiempos de espera hospital público"]
 framework: explainer
 hero: '/media/healthcare/government-hospitals/hero.webp'
-heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroAlt: 'Exterior del bloque de especialidades y hospital de día del Hospital Kuala Lumpur, un hospital público malayo, con un emblema de media luna roja en la fachada blanca'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'

@@ -80,7 +80,7 @@ verificationNeeded:
   - "Kepemimpinan: Tay Ah Lek sebagai direktur pelaksana dan CEO, serta ketua yang menjabat — konfirmasi posisi dewan saat ini."
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'Menara Public Bank bertingkat memancarkan cahaya emas hangat dengan latar langit senja, logo Public Bank merah dan kuning menyala di puncaknya dan wordmark PUBLIC BANK bercahaya di atas pintu masuk'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

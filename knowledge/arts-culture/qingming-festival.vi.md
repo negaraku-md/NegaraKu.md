@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "Tết Thanh Minh không phải ngày lễ công cộng ở Malaysia, trong ngày đó phần lớn các cửa hàng vẫn hoạt động bình thường."
   etiquette: "Vì việc đốt vàng mã và đồ mã bằng giấy có liên quan đến lửa trần và khói, một số nghĩa trang và công viên tưởng niệm quy định khu vực đốt riêng hoặc đặt ra quy định, những năm gần đây cũng có người chuyển sang các cách thức thân thiện với môi trường hơn."
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'Một ngôi mộ Trung Hoa bằng đá xám lớn với bờ bao hình chữ omega cong và một sân cúng lát ngói đỏ nằm trên một đỉnh đồi cỏ ở Bukit Cina, Melaka, với một ngôi miếu thổ địa riêng có mái vòm gần đó và một người qua đường đi giữa những hàng cây'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

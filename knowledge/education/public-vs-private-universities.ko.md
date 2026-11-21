@@ -84,7 +84,7 @@ stayFacts:
   watch: 'IPTA/IPTS 라벨만으로는 학위가 인정되는지 알 수 없습니다 — 그것은 해당 특정 프로그램이 MQR에서 MQA 인증을 보유하는지에 달려 있으며, 본인이 지원할 정확한 입학 연도에 대해 직접 확인해야 합니다. 사립대학에는 UPU를 통해 지원할 수 없습니다.'
   next: '자신이 보유한 자격을 기준으로 결정한 다음, 두 유형 중 어디에 등록하든 그 전에 말레이시아 자격 등록부에서 정확한 프로그램과 입학 회차를 확인하십시오. MQA 인증 해설 글과 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: '파란 ''Dewan Tunku Canselor'' 글자와 외부 계단이 있는 길고 노출 콘크리트의 모더니즘 양식 홀, 앞에 토피어리 정원과 텅 빈 도로가 있는 모습'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

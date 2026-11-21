@@ -101,7 +101,7 @@ related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["मेलाका", "Melaka", "मेलाका के Yang di-Pertua Negeri", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "मेलाका यूनेस्को धरोहर स्थल", "सुल्तान रहित राज्य", "Melaka Tengah Alor Gajah Jasin", "मेलाका की अर्थव्यवस्था", "पुर्तगाली डच ब्रिटिश धरोहर"]
 framework: profile
 hero: '/media/states/melaka/hero.webp'
-heroAlt: 'The deep-red Dutch-era Stadthuys building and red brick clock tower of Melaka''s Dutch Square, framing a landscaped flower roundabout'
+heroAlt: 'मेलाका के डच स्क्वायर की गहरी-लाल डच-युगीन स्टैडथौस इमारत और लाल ईंट की घड़ी-मीनार, एक भूदृश्य फूल गोल चक्कर को घेरती हुई'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'

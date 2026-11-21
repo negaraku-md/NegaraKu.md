@@ -78,7 +78,7 @@ verificationNeeded:
   - "Accionariado — se cita a Mitsui & Co con alrededor del 32-33% (a través de MBK Healthcare Management) y a Khazanah Nasional con una minoría sustancial. Los porcentajes exactos cambian con las colocaciones y las compras; verificar frente a las divulgaciones más recientes de Bursa Malaysia / la SGX antes de citar una cifra."
 framework: profile
 hero: '/media/companies/ihh-healthcare/hero.webp'
-heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroAlt: 'La alta fachada crema, roja y azul del Gleneagles Hospital Penang contra un cielo azul, con el nombre azul ''Gleneagles PENANG'' montado tanto en el muro inferior como en el parapeto del tejado'
 heroCredit: 'Vnonymous / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'

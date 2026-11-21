@@ -82,7 +82,7 @@ related: []
 keywords: ["वन्यजीव संरक्षण अधिनियम", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "पूर्णतः संरक्षित वन्यजीव", "totally protected wildlife", "संरक्षित वन्यजीव", "वन्यजीव लाइसेंस", "विशेष परमिट", "special permit", "वन्यजीव तस्करी", "वन्यजीव एवं राष्ट्रीय उद्यान विभाग"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
-heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroAlt: 'कोमल हरी पत्तियों के सामने एक मलायन बाघ के धारीदार नारंगी-काले चेहरे और कंधे का नज़दीकी बगल का दृश्य'
 heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'

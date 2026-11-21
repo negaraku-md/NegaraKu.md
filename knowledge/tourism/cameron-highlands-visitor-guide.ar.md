@@ -92,7 +92,7 @@ visitFacts:
   watch: 'لا تعاملها كبلدة واحدة — فهي ثلاث مستوطنات ذات أدوار مختلفة — ولاحظ أن حدائق الشاي تُغلق أيام الإثنين بينما يتبدّل طقس الهضبة بسرعة، فقد تتغيّر خطط اليوم.'
   next: 'تأكّد من ساعات الفتح الحالية وإغلاقات الإثنين مباشرةً مع كل موقع — الموقع الرسمي لـ BOH Plantations (bohtea.com) لحدائق الشاي، ومجلس مقاطعة Cameron Highlands (MDCH) لمعالم المزارع والحدائق.'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'مدرّجات مزارع شاي خضراء زاهية متموّجة تغطّي تلال مرتفعات كاميرون تحت سماء زرقاء بغيوم'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

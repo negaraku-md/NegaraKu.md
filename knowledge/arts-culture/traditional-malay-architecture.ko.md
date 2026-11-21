@@ -66,7 +66,7 @@ related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
 hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
-heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroAlt: '가파른 다층 널빤지 지붕을 인 팔각형 목조 말레이 궁전, 검정·흰색·금빛 마름모 무늬로 짠 대나무 벽과 격자창, 도금된 조각 프리즈를 갖추고 흐린 하늘 아래 잔디밭에 자리한 모습'
 heroCredit: 'Akml5599 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'

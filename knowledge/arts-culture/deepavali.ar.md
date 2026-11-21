@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "عطلة رسمية اتحادية مُعلَنة في الجريدة الرسمية ومُطبَّقة في كل ولاية وإقليم اتحادي باستثناء Sarawak، التي تحتفظ بجدول عطلاتها الرسمية الخاص."
   etiquette: "يُرحَّب بالزوّار في الأبواب المفتوحة؛ ارتدِ ملابس محتشمة، واخلع الحذاء قبل دخول منزل أو معبد، وتقديم هدية صغيرة من الحلوى بادرة متعارَف عليها."
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'كولام طاووس ملوّن مصنوع من المسحوق الملوّن، محاط بحدود بيضاء ومصابيح زيتية طينية صغيرة مضاءة، احتفالاً بديوالي في ماليزيا'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

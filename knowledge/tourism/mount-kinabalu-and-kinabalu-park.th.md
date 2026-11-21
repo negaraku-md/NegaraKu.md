@@ -101,7 +101,7 @@ visitFacts:
   watch: 'เป็นการปีนสองวันบนที่สูงที่ต้องใช้ความทรหด ที่ซึ่งอาการแพ้ความสูงและความฟิตมีผล และภูเขาสร้างสภาพอากาศของตนเอง การเข้าถึงและเส้นทางอาจเปลี่ยนได้หลังเหตุการณ์เช่นแผ่นดินไหวครั้งใหญ่ จึงควรวางแผนตามข้อมูลปัจจุบัน'
   next: 'ตรวจสอบกฎและค่าธรรมเนียมใบอนุญาต มัคคุเทศก์ และที่พักปัจจุบันกับ Sabah Parks'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'ยอดหินแกรนิตแหลมคมของภูเขาคินาบาลูตั้งตระหง่านเหนือเมฆและเชิงเขาสีเขียวในรัฐซาบาห์ยามเช้า'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

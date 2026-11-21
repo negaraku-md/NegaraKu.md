@@ -89,7 +89,7 @@ related: []
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
 hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
-heroAlt: 'The red-and-white high-speed catamaran ferry ''SANI 1'' berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands. Strong left-side subject, open sky top-right for overlay.'
+heroAlt: 'Phà cao tốc hai thân màu đỏ-trắng ''SANI 1'' cập bến dọc một lối lên có mái che tại một bến tàu Langkawi, với những ngọn đồi đá vôi xanh phía sau — chuyến phà chở khách Malaysia cổ điển ra các đảo'
 heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'

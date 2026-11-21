@@ -92,7 +92,7 @@ visitFacts:
   watch: '한 도시로 여기지 마십시오 — 서로 역할이 다른 세 정착지이며 — 차 농원은 월요일에 문을 닫고 고원 날씨는 빠르게 바뀌어 하루 계획이 달라질 수 있습니다.'
   next: '현재 개장 시간과 월요일 휴무는 각 장소에 직접 확인하십시오 — 차 농원은 BOH Plantations 공식 사이트(bohtea.com), 농장·정원 명소는 카메론하일랜즈 지방의회(MDCH)에서.'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: '구름 낀 파란 하늘 아래 카메론 하일랜즈의 언덕을 뒤덮은 선명한 초록 차밭 계단'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

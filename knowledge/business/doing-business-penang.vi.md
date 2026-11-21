@@ -121,7 +121,7 @@ keywords:
   - "Bayan Lepas free industrial zone"
 framework: profile
 hero: '/media/business/doing-business-penang/hero.webp'
-heroAlt: 'Aerial view of the Bayan Lepas Free Industrial Zone in Penang, with large factory and manufacturing buildings lined along a coastal highway beside the sea and hills behind'
+heroAlt: 'Cảnh nhìn từ trên không Khu Công nghiệp Tự do Bayan Lepas ở Penang, với những tòa nhà máy và sản xuất lớn xếp dọc một đường cao tốc ven biển bên cạnh biển và những ngọn đồi phía sau'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'

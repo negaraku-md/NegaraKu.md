@@ -80,7 +80,7 @@ verificationNeeded:
   - "Tình trạng của mạng 5G thứ hai của Malaysia và vai trò của Maxis trong đó (U Mobile được chọn vào tháng 11 năm 2024) — xác minh chính sách và các dàn xếp 5G hiện hành với MCMC."
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: 'Đỉnh uốn cong rọi đèn của Menara Maxis vào ban đêm, các tầng sân thượng phát sáng trắng trên nền trời đen, với biển logo maxis xanh-lục và một đồng hồ kỹ thuật số đỏ hiển thị 7:57 gắn gần đỉnh'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

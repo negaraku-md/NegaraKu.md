@@ -97,7 +97,7 @@ visitFacts:
   watch: 'ถนนภูเขาที่แคบและคดเคี้ยวนั้นช้าและมักปิดหลังฝนตก ดินถล่ม หรือต้นไม้ล้ม และตัวเขาเองก็มักมีหมอกและเปียกชื้น โดยมีร้านอาหารและเสบียงจำกัด'
   next: 'ตรวจสอบการจัดการเข้าถึงถนนปัจจุบันและการปิดใด ๆ กับหน่วยงานถนน (JKR) ก่อนเดินทาง'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'หอนาฬิกาหินแขวนธงมาเลเซียข้างอาคารสไตล์ทิวดอร์ครึ่งไม้ซุงใต้หมอกสีเทาและต้นสนสูงที่เฟรเซอร์สฮิลล์'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

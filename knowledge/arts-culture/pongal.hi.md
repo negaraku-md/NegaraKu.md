@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "मलेशिया में संघीय स्तर पर या किसी भी राज्य स्तर पर यह राजपत्रित सार्वजनिक अवकाश नहीं है। (केवल दीपावली संघीय सार्वजनिक अवकाश है — सरवाक को छोड़कर; Thaipusam कुछ ही राज्यों में अवकाश है।)"
   etiquette: "यह मुख्यतः फसल आधारित एक सांस्कृतिक त्योहार है, धर्मनिरपेक्ष है (2020 में एक मलेशियाई मंत्री ने स्पष्ट किया); सामाजिक संगठन और मंदिर कई बर्तनों में एक साथ पोंगल पकाकर, कला प्रदर्शनों के साथ सार्वजनिक उत्सव आयोजित करते हैं।"
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'थाई पोंगल के दौरान गेंदे की माला से घिरे मिट्टी के बर्तन में भाप उठती पोंगल चावल को हिलाती बैंगनी-सुनहरी साड़ी में एक मुस्कुराती महिला, एक हिंदू मंदिर में खुले में पकाती हुई'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

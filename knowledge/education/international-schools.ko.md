@@ -98,7 +98,7 @@ stayFacts:
   watch: '어떤 학비도 정부가 정하지 않으므로, 같은 연령대라도 실제 가격은 학교마다 크게 요동치며, 학비 인상은 3년에 한 번 이하로 30%로 제한됩니다. 또한 학생당 학년당 자녀의 연간 학비가 RM60,000를 초과하는 경우 적용되는 6% 서비스세도 계획하십시오 — 이는 학교가 정하는 것이 아니라 학비 위에 부과되는 세금입니다.'
   next: '학교를 추려 두고, 예산을 세우기 전에 각 학교에 직접 현행 학비표와 RM60,000 과세 기준을 확인하십시오. 관련 계획으로는, 외국인 직원을 동반하는 자녀를 후원하기 위한 「부양가족 패스」나 「장기 사회 방문 패스」를, 그리고 공립학교도 비교 목록에 있다면 「공립학교 등록」을 참조하십시오.'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: '차양을 인 경비실이 있는 현대식 국제학교 입구 대문, 손질된 울타리와 잎 무성한 나무가 있고 뒤로 흐린 하늘 아래 낮은 캠퍼스 건물들이 있는 모습'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

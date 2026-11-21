@@ -114,7 +114,7 @@ stayFacts:
   watch: '학위는 어디서나 통용되지만 경험은 현지의 것입니다 — 수업 규모, 시설, 캠퍼스 생활은 독립형 캠퍼스와 공유형 교육도시 캠퍼스 사이에서 크게 다릅니다. 분교 캠퍼스 프로그램도 여전히 MQA 인증이 필요하며 MQR에 올라 있습니다.'
   next: '전공과 위치로 후보를 추린 뒤, MQR에서 정확한 프로그램을 확인하고, 외국인 입학 승인 여부를 캠퍼스에 확인하십시오. 말레이시아 유학과 공립 대 사립 대학교 글을 참고하십시오.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: '극적인 하늘 아래, 늘어진 초목과 나무로 가장자리를 두른 거울처럼 잔잔한 초록 호수 너머로 시계탑이 솟은 흰 모더니즘 양식의 대학 건물'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

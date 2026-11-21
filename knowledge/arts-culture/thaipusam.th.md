@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "เป็นวันหยุดราชการเฉพาะในรัฐและดินแดนสหพันธ์ที่ประกาศในราชกิจจานุเบกษา (รวมถึง Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor และ Kedah) เท่านั้น — ไม่ใช่วันหยุดสหพันธ์ทั่วประเทศ"
   etiquette: "ผู้ที่ไม่ใช่ชาวฮินดูยินดีต้อนรับให้มาชมขบวนแห่และการปีนบันได ควรแต่งกายสุภาพเมื่ออยู่ใกล้วัด ถอดรองเท้าในที่ที่กำหนด และขออนุญาตก่อนถ่ายภาพผู้ศรัทธาที่แบกกาวาดี (kavadi)"
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'ผู้ศรัทธากำลังปีนบันไดสีรุ้งของถ้ำบาตูขึ้นไปยังศาลเจ้าถ้ำที่วิจิตรใต้หน้าผาหินปูนสูงตระหง่านในช่วงไทปูซัม'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

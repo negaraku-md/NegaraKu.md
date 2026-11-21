@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "仅在将其列入宪报的州属与联邦直辖区(包括 Kuala Lumpur、Putrajaya、Selangor、Penang、Perak、Negeri Sembilan、Johor 及 Kedah)为公共假期——并非全国性联邦假期。"
   etiquette: "欢迎非印度教徒观看游行与登阶;在庙宇附近应衣着端庄,在需要之处脱鞋,拍摄肩扛 kavadi 的信众前应先征询同意。"
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: '大宝森节期间，信徒们沿黑风洞（Batu Caves）彩虹色台阶向巍峨石灰岩崖下华丽的洞窟神庙攀登'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

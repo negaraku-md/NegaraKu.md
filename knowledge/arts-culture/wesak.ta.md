@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "அனைத்து மாநிலங்கள் மற்றும் கூட்டரசுப் பிரதேசங்களிலும் ஒரு தேசியப் பொது விடுமுறை, 1962 இல் முதன்முதலில் பொது விடுமுறையாக அறிவிக்கப்பட்டது; Employment Act 1955 இன் கீழ், இது ஓய்வு நாளில் வந்தால் ஒரு மாற்று ஊதிய விடுமுறை பொருந்தும்."
   etiquette: "இக்கடைப்பிடிப்பு கோயிலை மையமாகக் கொண்டது; பல பக்தர்கள் வெள்ளை உடை அணிந்து அந்நாளில் சைவ உணவைக் கடைப்பிடிக்கின்றனர், மேலும் மிகவும் அறியப்பட்ட பொது நிகழ்வு Brickfields-இல் உள்ள Buddhist Maha Vihara-இலிருந்து புறப்படும் கோலாலம்பூர் Wesak அலங்காரத் தேர் ஊர்வலம் ஆகும், இதை ஏராளமான பக்தர்களும் பார்வையாளர்களும் கண்டு களிக்கின்றனர்."
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'Alor Setar-ல் Wesak தினத்தின்போது, ஒரு ஊர்வல ரதத்தில் பிரகாசமான ஆரஞ்சு, நீலம், தங்க ஒளிவட்டத்திற்கு முன் அமர்ந்து, மஞ்சள் சாமந்தி மாலை அணிந்த தங்க புத்தர் சிலை; சுற்றிலும் வெள்ளை, மஞ்சள், இளஞ்சிவப்பு சாமந்திப் பூக் குவியல்கள், ஒரு மேற்கூரைக்குக் கீழே'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

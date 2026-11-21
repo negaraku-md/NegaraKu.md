@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "Un jour férié uniquement dans les États et territoires fédéraux qui le publient au journal officiel (notamment Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor et Kedah) — ce n'est pas un jour férié fédéral à l'échelle nationale."
   etiquette: "Les non-hindous sont les bienvenus pour assister aux processions et à l'ascension ; habillez-vous avec sobriété à proximité du temple, retirez vos chaussures là où cela est requis, et demandez avant de photographier les dévots portant le kavadi."
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'Des fidèles gravissant l''escalier peint aux couleurs de l''arc-en-ciel de Batu Caves vers le sanctuaire du temple-grotte orné sous d''imposantes falaises de calcaire pendant Thaipusam'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

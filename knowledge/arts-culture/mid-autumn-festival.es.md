@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "No es fiesta pública. El Festival del Medio Otoño no es fiesta pública en Malasia ni a nivel nacional ni en ningún estado, y los comercios y los organismos gubernamentales funcionan con normalidad (a diferencia del Año Nuevo Lunar, cuyos dos primeros días son fiesta pública)."
   etiquette: "Las celebraciones públicas organizadas por las asociaciones chinas, los templos (como el templo Thean Hou de Kuala Lumpur) y las organizaciones comunitarias —veladas de faroles, representaciones artísticas y otras— suelen acoger la participación y la asistencia de residentes de otras etnias, con una dimensión de disfrute interétnico compartido."
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'Una gran escultura luminosa de linterna de seda de un hombre sonriente con chaqueta púrpura y pantalones rojos que sostiene una linterna de globo azul y amarillo por la noche, con filas de linternas rojas y doradas colgantes encendidas a lo largo de un paseo detrás de él durante una celebración malaya del Festival de Medio Otoño'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

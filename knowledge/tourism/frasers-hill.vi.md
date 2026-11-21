@@ -97,7 +97,7 @@ visitFacts:
   watch: 'Con đường núi hẹp, quanh co chạy chậm và dễ bị đóng sau mưa, sạt lở hay cây đổ, và bản thân ngọn đồi thường nhiều sương mù và ẩm ướt, với dịch vụ ăn uống và tiếp tế hạn chế.'
   next: 'Hãy xác nhận cách bố trí lối vào đường bộ hiện tại và bất kỳ đợt đóng đường nào với cơ quan quản lý đường bộ (JKR) trước khi bạn đi.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'Tháp đồng hồ bằng đá treo cờ Malaysia bên cạnh một tòa nhà kiểu Tudor nửa gỗ dưới sương mù xám và những cây thông cao ở Fraser''s Hill'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

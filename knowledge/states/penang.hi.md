@@ -76,7 +76,7 @@ related: []
 keywords: ["पेनांग मलेशिया", "Penang Malaysia", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "बायान लेपास", "Bayan Lepas", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "पूर्व की सिलिकॉन वैली", "silicon valley of the east"]
 framework: profile
 hero: '/media/states/penang/hero.webp'
-heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroAlt: 'पेनांग के जॉर्ज टाउन में मेहराबदार खिड़कियों और झिलमिली अग्रभाग वाली एक औपनिवेशिक-युगीन कोने की धरोहर इमारत, क्रीम रंग की 1923 की जॉर्ज टाउन डिस्पेंसरी'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'

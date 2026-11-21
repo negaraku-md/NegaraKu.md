@@ -79,7 +79,7 @@ related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
 hero: '/media/arts-culture/bangsawan/hero.webp'
-heroAlt: 'Sepia 1890s photograph of a bangsawan Malay opera troupe in royal costume on a painted-backdrop stage, performers in crowns and ornate dress seated and standing on a throne platform while a crowd watches from below'
+heroAlt: 'அரச உடையணிந்த bangsawan மலாய் நாடகக் குழுவின் 1890களைச் சேர்ந்த செபியா நிறப் புகைப்படம்; கிரீடங்களும் அலங்கார உடைகளும் அணிந்த கலைஞர்கள் அரியணை மேடையில் அமர்ந்தும் நின்றும் இருக்க, கீழே கூட்டம் பார்க்கிறது'
 heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
 heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'

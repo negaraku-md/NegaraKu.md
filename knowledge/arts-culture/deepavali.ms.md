@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "Cuti umum persekutuan yang diwartakan dan disambut di setiap negeri dan Wilayah Persekutuan kecuali Sarawak, yang mengekalkan jadual cuti umumnya sendiri."
   etiquette: "Pelawat dialu-alukan ke rumah terbuka; berpakaian sopan, tanggalkan kasut sebelum masuk ke rumah atau kuil, dan hadiah kecil berupa manisan merupakan satu adat kebiasaan."
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'Kolam berbentuk burung merak berwarna-warni diperbuat daripada serbuk warna, dibingkai sempadan putih dan dikelilingi pelita tanah liat kecil yang menyala, untuk Deepavali di Malaysia'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

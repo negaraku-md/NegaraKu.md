@@ -91,7 +91,7 @@ visitFacts:
   watch: '믿을 만한 건기가 없는 적도 우림이어서 피너클스 등반과 박쥐 떼 출현은 날씨에 좌우되고 폭우 시 취소되므로 여유 일정을 두고, 소형 비행기 수하물 제한도 적용됩니다.'
   next: '현재의 항공편, 객실, 가이드 활동 규정과 요금은 공원 공식 사이트(mulupark.com)와 사라왁 관광청(Sarawak Tourism Board)에서 확인하십시오.'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: '사라왁 구눙 물루 국립공원의 안개 낀 산비탈에서 초록 우림을 뚫고 솟은 들쭉날쭉한 회색 석회암 피너클 들판'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

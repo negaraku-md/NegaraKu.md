@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Causeway macet pada Jumat sore, akhir pekan, liburan sekolah Singapura, dan malam menjelang hari libur umum, jadi menyeberanglah lebih awal, hindari waktu pulang puncak, dan beralihlah ke Second Link saat ia macet.'
   next: 'Konfirmasikan pengaturan penyeberangan, RTS Link, dan izin taman terkini dengan otoritas transportasi resmi Malaysia dan Singapura serta otoritas taman terkait sebelum Anda bepergian.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'Masjid Negeri Sultan Abu Bakar bergaya Victoria-Moor putih di Johor Bahru, dengan menara-menaranya yang tinggi dan kubah hitam di bawah langit berawan'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

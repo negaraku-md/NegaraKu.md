@@ -74,7 +74,7 @@ festivalFacts:
   holiday: "官報に公示される連邦の公休日で、独自の公休日制度を保つサラワク(Sarawak)を除くすべての州および連邦直轄領で祝われる。"
   etiquette: "来客は開放門戸(オープンハウス)に歓迎される。控えめな服装をし、家や寺院に入る前には靴を脱ぎ、菓子の小さな贈り物が慣例的な心遣いとされる。"
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'マレーシアのディーパバリのために、色粉で作られた色鮮やかな孔雀のコーラム。白い縁取りで囲まれ、火を灯した小さな素焼きの油灯に取り巻かれている'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

@@ -60,7 +60,7 @@ related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
 hero: '/media/arts-culture/pewter/hero.webp'
-heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroAlt: 'Una artesana con pañuelo púrpura en la cabeza y delantal se inclina sobre un banco de trabajo, golpeando con un pequeño martillo una jarra de peltre montada en una plantilla de acero, con filas de tazas de peltre detrás de ella'
 heroCredit: 'istolethetv / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'

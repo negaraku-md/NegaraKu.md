@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "في ماليزيا ليس عطلة رسمية مُدرَجة في الجريدة الرسمية على المستوى الاتحادي ولا في أي ولاية. (Deepavali وحده عطلة رسمية اتحادية — باستثناء Sarawak؛ أما Thaipusam فعطلة في بعض الولايات فقط.)"
   etiquette: "عيد ثقافي قائم أساسًا على الحصاد، غير ديني (أوضح ذلك وزير ماليزي في 2020)؛ وتطبخ المنظمات المجتمعية والمعابد البونغل معًا في أوعية عديدة، وتقيم احتفالًا عامًا مصحوبًا بعروض فنية."
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'امرأة مبتسمة بساري أرجواني وذهبي تحرّك أرزّ البونغال المتصاعد بخارُه في إناء فخاري محاط بإكليل من أزهار القطيفة، تطبخ في العراء في معبد هندوسي خلال تاي بونغال'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

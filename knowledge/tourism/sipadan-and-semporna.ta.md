@@ -108,7 +108,7 @@ visitFacts:
   watch: 'கிழக்கு Sabah-இன் தீவுகள் நியமிக்கப்பட்ட பாதுகாப்பு மண்டலத்தில் (ESSZONE) அமைந்துள்ளன, அனுமதிச்சீட்டுகள் ஒருபோதும் உத்தரவாதம் அளிக்கப்படுவதில்லை, மேலும் பாதுகாப்பு வரம்புகள் (வருடாந்திர மூடல் உட்பட) பொருந்தும் — தகவல் பெற்றுப் பயணியுங்கள், தற்போதைய அதிகாரப்பூர்வ ஆலோசனையைச் சரிபார்க்கவும்.'
   next: 'தற்போதைய Sipadan அனுமதிச்சீட்டு வரம்பு, கட்டணங்கள் மற்றும் ஏதேனும் பாதுகாப்பு மூடலை Sabah Parks அல்லது உங்கள் உரிமம் பெற்ற டைவ் இயக்குநருடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'Sabah Semporna அருகே Tun Sakaran Marine Park-ல், மேகம் புள்ளியிட்ட பிரகாசமான வானத்திற்குக் கீழே பச்சை தீவுகளால் சூழப்பட்ட துடிப்பான துருக்கிநீல பவளப்பாறை நீர்நிலையின் வான்வழிக் காட்சி'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

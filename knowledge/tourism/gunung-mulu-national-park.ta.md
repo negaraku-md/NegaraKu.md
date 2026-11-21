@@ -91,7 +91,7 @@ visitFacts:
   watch: 'நம்பகமான வறண்ட பருவம் இல்லாத பூமத்திய ரேகை மழைக்காடு — Pinnacles ஏற்றமும் வௌவால் வெளியேற்றமும் வானிலையைச் சார்ந்தவை, கனமழையில் ரத்து செய்யப்படுகின்றன, எனவே கூடுதல் நாட்களை ஒதுக்குங்கள். சிறிய விமானச் சாமான் வரம்புகள் பொருந்தும்.'
   next: 'தற்போதைய விமானங்கள், அறைகள், வழிகாட்டப்பட்ட செயல்பாட்டு விதிகள் மற்றும் கட்டணங்களை அதிகாரப்பூர்வ பூங்கா தளம் (mulupark.com) மற்றும் Sarawak Tourism Board-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Sarawak Gunung Mulu National Park-ல், மூடுபனி சூழ்ந்த மலைச்சரிவில் பச்சை மழைக்காட்டைத் துளைக்கும் கூரான சாம்பல் சுண்ணாம்புக்கல் சிகரங்களின் தொகுதி'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

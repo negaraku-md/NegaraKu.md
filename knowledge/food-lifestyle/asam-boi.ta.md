@@ -84,7 +84,7 @@ drinkFacts:
   served: "மிகவும் செந்நெறியாக limau asam boi ஆக — calamansi எலுமிச்சை புளிப்பு-பிளம் கரைசலுடன், ஐஸ் மேல், சில பிளம் துண்டுகளுடனும் சில நேரங்களில் ஒரு சிட்டிகை உப்புடனும். குளிர்பானங்களிலும் (Sprite asam boi) Ribena-விலும் சேர்க்கப்படுகிறது. தனியாக ஒரு சிற்றுண்டியாகவும் உண்ணப்படுகிறது."
   where: "நாடு முழுவதுமுள்ள மாமாக் மற்றும் கோபிதியாம் பானக் கவுண்டர்கள், ஹாக்கர் கடைகள் மற்றும் உலர்-பொருட்கள் கடைகளில் காணப்படுகிறது; பேக்கேஜ் செய்யப்பட்ட asam boi பேரங்காடிகளிலும் சில்லறைக் கடைகளிலும் விற்கப்படுகிறது."
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'asam boi எனப்படும் சுருக்கம் விழுந்த, உப்பு படிந்த பழுப்பு உலர் ஊறுகாய் பிளம் பழங்களின் உணவு'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

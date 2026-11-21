@@ -79,7 +79,7 @@ verificationNeeded:
   - "事業展開国数（ASEAN 十か国すべてに加えグローバル金融センター）——変わる可能性がある。"
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: 'クアラルンプールのスカイラインの上にそびえる、白い双円筒のムナラ・メイバンク。頂部近くのパネルに青いメイバンクのロゴとワードマーク'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

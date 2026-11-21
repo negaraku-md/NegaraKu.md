@@ -80,7 +80,7 @@ entity: "布城（Putrajaya，马来西亚联邦行政首都）"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
 hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
-heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroAlt: '壮观的云层下，粉色圆顶的布特拉清真寺（Putra Mosque）紧邻其宣礼塔和布特拉大厦政府建筑群，倒映在布城湖面'
 heroCredit: 'Stefan Fussan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'

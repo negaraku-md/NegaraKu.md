@@ -78,7 +78,7 @@ related: ["khazanah"]
 keywords: ["PLUS Malaysia", "طريق الشمال-الجنوب السريع", "امتياز الرسوم", "UEM Group", "Khazanah", "KWSP", "طرق سريعة مدفوعة"]
 framework: profile
 hero: '/media/companies/plus-malaysia/hero.webp'
-heroAlt: 'A clear multi-lane stretch of the North-South Expressway with light traffic and a yellow ''IKUT KIRI Kecuali Memotong'' sign on the left shoulder, flanked by green roadside trees and low forested hills under a blue sky with scattered clouds'
+heroAlt: 'امتداد صافٍ متعدد الحارات من الطريق السريع الشمالي-الجنوبي بحركة مرور خفيفة ولافتة صفراء ''IKUT KIRI Kecuali Memotong'' على الكتف الأيسر، تحفّه أشجار خضراء على جانب الطريق وتلال غابية منخفضة تحت سماء زرقاء بغيوم متفرّقة'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'

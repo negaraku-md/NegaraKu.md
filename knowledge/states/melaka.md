@@ -100,7 +100,7 @@ related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
 framework: profile
 hero: '/media/states/melaka/hero.webp'
-heroAlt: 'The deep-red Dutch-era Stadthuys building and red brick clock tower of Melaka''s Dutch Square, framing a landscaped flower roundabout'
+heroAlt: 'Bangunan Stadthuys era Belanda berwarna merah tua dan menara jam bata merah di Dutch Square Melaka, membingkai bulatan bunga berlandskap'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'

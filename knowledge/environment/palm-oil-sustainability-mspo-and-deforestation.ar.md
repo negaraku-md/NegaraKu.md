@@ -93,7 +93,7 @@ related: ["palm-oil-industry"]
 keywords: ["MSPO", "استدامة زيت النخيل", "palm oil sustainability", "إزالة الغابات", "deforestation", "EUDR", "RSPO", "الاعتماد", "certification", "صغار المزارعين", "smallholders", "MPOB", "زيت النخيل الماليزي", "Malaysia palm oil"]
 framework: explainer
 hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
-heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroAlt: 'صفوف من أشجار نخيل الزيت الوارفة تغطّي سفح تلة بجانب طريق ترابي تحت جبال خضراء ضبابية'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'

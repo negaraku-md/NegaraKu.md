@@ -74,7 +74,7 @@ related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
 hero: '/media/arts-culture/national-heritage-sites/hero.webp'
-heroAlt: 'The full Moorish-style facade of the Sultan Abdul Samad Building in Kuala Lumpur, its long arcade of brick arches running beneath a tall central clock tower and copper onion domes, viewed from the empty paved roadway of Merdeka Square under a pale sky'
+heroAlt: '从独立广场空旷的铺砌路面望去的吉隆坡苏丹阿都沙末大厦摩尔式完整立面，长长的砖拱连廊延伸于高耸的中央钟楼与铜制洋葱顶之下，天空泛白'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'

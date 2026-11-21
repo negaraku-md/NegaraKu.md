@@ -120,7 +120,7 @@ related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "a
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
 hero: '/media/government/rmcd-kastam/hero.webp'
-heroAlt: 'A bright sky-blue government building under a clear blue sky, its gabled front carrying the Royal Malaysian Customs crest above gold lettering reading Kastam Diraja Malaysia, set among green trees in Lahad Datu, Sabah'
+heroAlt: '맑은 파란 하늘 아래 밝은 하늘색 정부 건물, 박공 전면에 말레이시아 왕립관세청 문장과 금빛 ''Kastam Diraja Malaysia'' 글자가 있고 사바주 라핫다투의 초록 나무들 사이에 자리한 모습'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'

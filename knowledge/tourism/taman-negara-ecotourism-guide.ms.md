@@ -86,7 +86,7 @@ visitFacts:
   watch: 'Monsun timur laut boleh membuak sungai serta mengganggu bot dan denai, laluan kanopi pernah ditutup, dan lintah serta kelembapan sentiasa ada — sahkan akses dan tempah pemandu lebih awal.'
   next: 'Sahkan peraturan dan yuran permit serta kemasukan semasa dengan pejabat Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) di Taman Negara Pahang.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'Bukit berhutan hujan tropika padat terbentang ke ufuk di bawah langit biru di Taman Negara'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

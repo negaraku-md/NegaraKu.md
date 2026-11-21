@@ -82,7 +82,7 @@ related: []
 keywords: ["Ley de Conservación de la Vida Silvestre", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "vida silvestre totalmente protegida", "totally protected wildlife", "vida silvestre protegida", "licencia de vida silvestre", "permiso especial", "special permit", "tráfico de vida silvestre", "Departamento de Vida Silvestre y Parques Nacionales"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
-heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroAlt: 'Perfil lateral en primer plano del rostro y hombro rayados en naranja y negro de un tigre malayo contra un suave follaje verde'
 heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'

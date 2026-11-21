@@ -67,7 +67,7 @@ relations: []
 related: []
 keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]
 hero: '/media/government/ministry-of-investment-trade-industry-miti/hero.webp'
-heroAlt: 'Low-angle view of Menara MITI, a tall curved blue-glass office tower with a tapered crown, rising against a lightly clouded sky in Kuala Lumpur'
+heroAlt: 'クアラルンプールの軽く雲のかかった空を背にそびえる、先細りの頂部をもつ背の高い曲線的な青いガラスのオフィスタワー、ムナラMITIを見上げる'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_MITI,_Segambut_20230304_115907.jpg'

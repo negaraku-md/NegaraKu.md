@@ -97,7 +97,7 @@ related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "centre administratif du gouvernement fédéral", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
 hero: '/media/states/putrajaya/hero.webp'
-heroAlt: 'The rose-pink domed Putra Mosque and its minaret beside the green-domed Perdana Putra government building, reflected in the lake at Putrajaya'
+heroAlt: 'La mosquée Putra à dôme rose vieux et son minaret à côté du bâtiment gouvernemental Perdana Putra à dôme vert, reflétés dans le lac à Putrajaya'
 heroCredit: 'Mimihitam / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'

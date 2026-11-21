@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "மே 30 மற்றும் 31 ஆம் தேதிகளில் சபா மாநிலம் மற்றும் Labuan கூட்டரசுப் பிரதேசத்தில் ஒரு பொது விடுமுறை; நாடளாவிய பொது விடுமுறை அல்ல."
   etiquette: "Unduk Ngadau-ஐ Huminodun புராணக்கதையைப் போற்றும் ஒரு பண்பாட்டு அணிவகுப்பாகப் புரிந்துகொள்ள வேண்டும், சாதாரண அழகுப் போட்டி அல்ல; மேலும் Bambaazon நம்பிக்கையையும் Huminodun புராணக்கதையையும் உறுதிப்படுத்தப்பட்ட உண்மையாக அன்றி, சமூகத்தின் சொந்த மரபாக மதிப்புடன் அணுக வேண்டும்."
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: 'Sabah மாநிலம் Penampang-ல், நட்சத்திர ஒளி மேடையில் Kaamatan சடங்கு செய்யும், கருப்பு-தங்க பாரம்பரிய உடையணிந்த Kadazan-Dusun bobohizan பூசாரிகளும் பூசாரிணிகளும்'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

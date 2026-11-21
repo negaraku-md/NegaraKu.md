@@ -85,7 +85,7 @@ drinkFacts:
   served: "பாட்டில் அல்லது டின்னிலிருந்து குளிர்ச்சியாகப் பரிமாறப்படுகிறது. ஒரு விரும்பப்படும் உள்ளூர் மாறுபாடு 'Sarsi susu' — கருமையான சோடாவை ஒரு கிரீமி ஃப்ளோட் ஆக்க ஆவியாக்கப்பட்ட, செறிவூட்டப்பட்ட அல்லது புதிய பால் ஊற்றப்படுகிறது. இனிப்பும் வாயுவும்; ஒரு குளிர்பான விருந்து, காய்ச்சப்பட்ட கோபிதியாம் பானமல்ல."
   where: "நாடு முழுவதுமுள்ள மளிகைக் கடைகள், பல்பொருள் அங்காடிகள், கோபிதியாம் மற்றும் குடும்பக் கூட்டங்களில் காணப்படுகிறது — குளிர்ச்சியான அலமாரியின் ஒரு நினைவுகூரும் நிலையான பானம்."
 hero: '/media/food/sarsi/hero.webp'
-heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroAlt: 'சூரிய ஒளியில், நுரைத்த மேற்பகுதியுடன், இருண்ட நுரைக்கும் sarsaparilla குளிர்பானம் (sarsi) நிறைந்த உயரமான பள்ளம்விழுந்த கண்ணாடிக் கோப்பை'
 heroCredit: 'Markmark28 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'

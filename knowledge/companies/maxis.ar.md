@@ -80,7 +80,7 @@ verificationNeeded:
   - "حالة شبكة الجيل الخامس الثانية في ماليزيا ودور ماكسيس فيها (اختيرت يو موبايل في نوفمبر 2024) — يُتحقق من سياسة الجيل الخامس الحالية والترتيبات مع MCMC."
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: 'التاج المنحني المضاء لبرج ميناره ماكسيس ليلاً، شرفاته المتدرّجة تتوهّج بالأبيض أمام سماء سوداء، مع لافتة شعار maxis الأزرق والأخضر وساعة رقمية حمراء تقرأ 7:57 مثبّتة قرب القمة'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

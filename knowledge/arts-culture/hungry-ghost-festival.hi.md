@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "यह मलेशिया में देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है; पूजा-अर्चना, Yulan शुभ सभा और गीत-मंच अधिकतर काम के बाद की शाम और रात में होते हैं।"
   etiquette: "गीत-मंच की सबसे आगे की पंक्ति की सीटें जानबूझकर अदृश्य मेहमानों के लिए खाली छोड़ दी जाती हैं, दर्शक आम तौर पर पहली पंक्ति में नहीं बैठते; लोक-मान्यता में सड़क किनारे रखी भेंटों को न रौंदने और ज़मीन पर पड़ी वस्तुओं को न उठाने जैसी बातें भी कही जाती हैं।"
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'रात में सातवें महीने के गेताई के दौरान लाल नियोन मेहराबों, तारे के आकार के पैनलों और चलते चीनी अक्षरों के एलईडी साइन से चमकता एक शामियाने के नीचे का उत्सव मंच'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

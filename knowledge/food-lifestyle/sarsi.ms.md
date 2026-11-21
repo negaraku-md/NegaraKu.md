@@ -85,7 +85,7 @@ drinkFacts:
   served: "Dihidang sejuk daripada botol atau tin. Variasi tempatan yang digemari ialah 'Sarsi susu' — Sarsi dengan susu sejat, pekat atau segar yang dituang untuk menjadikan float yang berkrim. Manis dan bergas; hidangan minuman ringan, bukan minuman seduhan kopitiam."
   where: "Terdapat di kedai runcit, pasar raya, kopitiam dan perhimpunan keluarga di seluruh negara — makanan ruji nostalgia rak sejuk."
 hero: '/media/food/sarsi/hero.webp'
-heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroAlt: 'Semug kaca berlekuk tinggi berisi soda sarsaparila (sarsi) gelap dan berbuih dengan buih di atas, di bawah cahaya matahari'
 heroCredit: 'Markmark28 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'

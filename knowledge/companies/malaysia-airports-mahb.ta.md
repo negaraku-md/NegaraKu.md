@@ -79,7 +79,7 @@ social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
 hero: '/media/companies/malaysia-airports-mahb/hero.webp'
-heroAlt: 'The tall white cylindrical KLIA air traffic control tower rising against a dramatic evening sky, with a terminal roadway curving past at right'
+heroAlt: 'நாடகீய மாலை வானத்திற்கு எதிரே உயரும் உயர்ந்த வெள்ளை உருளை வடிவ KLIA வான்போக்குவரத்துக் கட்டுப்பாட்டுக் கோபுரம்; வலப்புறம் வளைந்து செல்லும் முனைய சாலை'
 heroCredit: 'Morio / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'

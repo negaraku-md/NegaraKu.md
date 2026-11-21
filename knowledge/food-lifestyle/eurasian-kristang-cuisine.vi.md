@@ -88,7 +88,7 @@ verificationNeeded:
   - "Năm thành lập Portuguese Settlement (thường ghi là 1933) và nhận định rằng nhiều món ăn gia đình như pang susi và các món nội tạng đang trở nên hiếm — hãy xác minh với nguồn sơ cấp hoặc di sản."
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: 'Một lát bánh sugee (bột semolina) ẩm với lớp vỏ vàng óng trên một chiếc đĩa trắng kèm một chiếc nĩa'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

@@ -75,7 +75,7 @@ related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
 framework: profile
 hero: '/media/states/penang/hero.webp'
-heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroAlt: 'George Town Dispensary 1923 berwarna krim, sebuah bangunan warisan sudut era kolonial dengan tingkap melengkung dan fasad berbidai, di George Town, Pulau Pinang'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'

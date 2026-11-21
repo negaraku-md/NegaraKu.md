@@ -102,7 +102,7 @@ related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
 hero: '/media/industries/palm-oil-industry/hero.webp'
-heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroAlt: '沙巴Kunak，一条种植园道路旁，成排的成熟油棕覆盖着山坡'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'

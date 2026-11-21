@@ -84,7 +84,7 @@ festivalFacts:
   holiday: "サラワク州の祝日（1964年9月25日に官報告示）。"
   etiquette: "ロングハウスの戸は開け放たれ——訪れる家族、隣人、客をもてなすことが祭りの一部である。一般的な挨拶は「Gayu Guru, Gerai Nyamai」（長寿、健康、繁栄）、または「Selamat Hari Gawai」。これはまず家族とロングハウスの行事であり、観光客向けのショーではない。"
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: '伝統的なダヤックの壁画を背景にした舞台で、サイチョウの羽の頭飾りと毛皮のベストを着てンガジャットの踊りを舞うイバンの戦士の踊り手'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

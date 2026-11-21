@@ -92,7 +92,7 @@ related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
 hero: '/media/industries/oil-gas-industry/hero.webp'
-heroAlt: 'Aerial view of the Bintulu LNG export jetty in Sarawak: a concrete platform on steel piles carrying clusters of tall marine loading arms and pipework over turquoise sea, with the port and gas-plant skyline behind'
+heroAlt: 'Vista aérea del embarcadero de exportación de GNL de Bintulu en Sarawak: una plataforma de hormigón sobre pilotes de acero que sostiene grupos de altos brazos de carga marinos y tuberías sobre un mar turquesa, con el puerto y el horizonte de la planta de gas al fondo'
 heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'

@@ -79,7 +79,7 @@ related: []
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "आवास एवं स्थानीय सरकार मंत्रालय मलेशिया", "Ministry of Housing and Local Government Malaysia", "KPKT कार्य", "KPKT एजेंसियाँ", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "आवास एवं स्ट्रेटा प्रबंधन अधिकरण", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "किफ़ायती आवास मलेशिया B40 M40"]
 framework: profile
 hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
-heroAlt: 'A tall curved grey-and-glass government tower in Putrajaya rising above a black signage monument reading Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministry of Urban Wellbeing, Housing and Local Government) with the KPKT house logo'
+heroAlt: 'पुत्रजया में एक काले साइन स्मारक के ऊपर उठती एक ऊँची घुमावदार धूसर-काँच की सरकारी मीनार, जिस पर KPKT घर-लोगो के साथ Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (शहरी कल्याण, आवास और स्थानीय सरकार मंत्रालय) लिखा है'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'

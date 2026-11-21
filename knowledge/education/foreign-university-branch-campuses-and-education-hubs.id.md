@@ -115,7 +115,7 @@ stayFacts:
   watch: 'Gelarnya portabel, tetapi pengalamannya bersifat lokal — ukuran kelas, fasilitas, dan kehidupan kampus sangat berbeda antara kampus mandiri dan kampus yang berbagi di kota pendidikan. Program kampus cabang tetap memerlukan akreditasi MQA dan muncul di MQR.'
   next: 'Susun daftar pendek berdasarkan bidang keahlian dan lokasi, verifikasi program yang tepat di MQR, dan pastikan persetujuan penerimaan mahasiswa internasional dengan kampus tersebut. Lihat Kuliah di Malaysia dan Universitas negeri vs swasta.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'Bangunan universitas modernis putih dengan menara jam menjulang di seberang danau hijau yang tenang seperti cermin, bertepikan tanaman hijau menjuntai dan pepohonan di bawah langit yang dramatis'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

@@ -66,7 +66,7 @@ related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
 hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
-heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroAlt: 'Istana Melayu kayu bersegi delapan yang berhias dengan atap sirap bertingkat curam, dinding anyaman bambu bermotif belah ketupat hitam, putih, dan emas, jendela berkisi, dan dekorasi ukiran bersepuh emas, berdiri di atas halaman rumput di bawah langit mendung'
 heroCredit: 'Akml5599 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'

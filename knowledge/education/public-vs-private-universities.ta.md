@@ -84,7 +84,7 @@ stayFacts:
   watch: 'IPTA/IPTS என்ற பெயர் ஒரு பட்டம் அங்கீகரிக்கப்பட்டதா என்பதைக் கூறாது — அது அந்தக் குறிப்பிட்ட படிப்பு MQR-இல் MQA-அங்கீகாரம் பெற்றுள்ளதா என்பதைப் பொறுத்தது; உங்கள் சரியான சேர்க்கை ஆண்டுக்காக இதைச் சரிபார்க்க வேண்டும். ஒரு தனியார் பல்கலைக்கழகத்திற்கு UPU மூலம் விண்ணப்பிக்க முடியாது.'
   next: 'நீங்கள் வைத்திருக்கும் தகுதியிலிருந்து முடிவு செய்து, பின்னர் இரு வகை நிறுவனங்களிலும் சேர்வதற்கு முன் சரியான படிப்பையும் சேர்க்கையையும் Malaysian Qualifications Register (மலேசியத் தகுதிப் பதிவேடு)-இல் சரிபார்க்கவும். MQA அங்கீகார விளக்கக் கட்டுரையையும், கல்லூரி வைப்புத்தொகை செலுத்துவதற்கு முன் என்பதையும் பார்க்கவும்.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'நீல ''Dewan Tunku Canselor'' எழுத்துக்களும் வெளிப்புறப் படிக்கட்டும் கொண்ட நீண்ட பதப்படுத்தப்படாத காங்கிரீட் நவீனத்துவ மண்டபம்; முன்னால் topiary தோட்டங்களும் வெறிச்சோடிய சாலையும்'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

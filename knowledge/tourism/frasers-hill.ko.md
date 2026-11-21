@@ -97,7 +97,7 @@ visitFacts:
   watch: '좁고 구불구불한 산길은 느리고 비, 산사태, 쓰러진 나무 이후 폐쇄되기 쉬우며, 언덕 자체도 자주 안개가 끼고 비가 오는 데다 식사와 물자도 제한적입니다.'
   next: '출발 전에 현재의 도로 접근 방식과 폐쇄 여부를 도로 당국(JKR)에 확인하십시오.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: '프레이저스 힐의 회색 안개와 높은 소나무 아래, 말레이시아 국기를 건 돌 시계탑 옆에 선 반목조 튜더 양식 건물'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

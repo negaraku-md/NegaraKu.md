@@ -101,7 +101,7 @@ visitFacts:
   watch: 'Pendakian altitud tinggi dua hari yang mencabar di mana penyakit altitud dan kecergasan penting serta gunung mencipta cuacanya sendiri; akses dan laluan boleh berubah selepas kejadian seperti gempa bumi besar, jadi rancang berdasarkan maklumat semasa.'
   next: 'Sahkan peraturan dan yuran permit, pemandu serta penginapan semasa dengan Sabah Parks.'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'Puncak granit bergerigi Gunung Kinabalu menjulang di atas awan dan kaki bukit hijau di Sabah pada waktu pagi'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

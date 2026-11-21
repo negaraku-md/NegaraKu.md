@@ -84,7 +84,7 @@ drinkFacts:
   served: "차갑게, 주문 즉시 갓 갈아서 낸다 — 물로 하면 더 가볍고, 우유로 하면 더 진한 스무디다. 상쾌한 과일 음료이니 그렇게 즐기되, soursop에 붙은 건강·'항암' 주장은 사람에게서 입증되지 않았으며 의료의 대체물이 아님을 유념하라."
   where: "전국의 주스 바, 노점, 과일 가게에서, 신선한 열대 과일 주스를 가는 곳이라면 어디서든 찾을 수 있다."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: '시장 가판대에 쌓인 신선한 초록 가시 과일 사워솝, 뒤로 파파야와 바나나가 있는 모습'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

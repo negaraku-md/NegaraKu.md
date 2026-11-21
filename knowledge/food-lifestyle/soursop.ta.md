@@ -85,7 +85,7 @@ drinkFacts:
   served: "குளிர்ச்சியாக, ஆர்டருக்குப் புதிதாக அரைத்துப் பரிமாறப்படுகிறது — நீருடன் இலகுவாக, பாலுடன் ஒரு ஸ்மூத்தியாகச் செழுமையாக. ஒரு புத்துணர்ச்சியூட்டும் பழப் பானம்; அப்படியே அனுபவியுங்கள், மேலும் சவர்சாபுடன் இணைக்கப்பட்ட உடல்நல மற்றும் 'புற்றுநோய்-எதிர்ப்பு' கூற்றுகள் மனிதர்களில் நிரூபிக்கப்படவில்லை, மருத்துவச் சிகிச்சைக்குப் பதிலானவை அல்ல என்பதைக் கவனியுங்கள்."
   where: "புதிய வெப்பமண்டல-பழச் சாறுகள் அரைக்கப்படும் எந்த இடத்திலும் — நாடு முழுவதுமுள்ள சாறுக் கடைகள், தெருவோரக் கடைகள் மற்றும் பழக் கடைகளில் காணப்படுகிறது."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'சந்தைக் கடையில் புதிய பச்சை முள் soursop பழங்களின் குவியல்; பின்னணியில் பப்பாளியும் வாழைப்பழங்களும்'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

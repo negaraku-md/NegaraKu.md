@@ -82,7 +82,7 @@ verificationNeeded:
   - "Número de clientes (las cifras citadas en perfiles de terceros varían ampliamente, p. ej. ~13,5 millones minoristas frente a ~25 millones totales) — verificar frente a la propia información actual de CIMB antes de publicar una cifra."
 framework: profile
 hero: '/media/companies/cimb/hero.webp'
-heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroAlt: 'Una torre de oficinas de cristal bronce coronada por un gran letrero rojo de CIMB BANK, con un estandarte rojo de CIMB BANK y CIMB ISLAMIC descendiendo por su costado, elevándose sobre la calle de Kuala Lumpur'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'

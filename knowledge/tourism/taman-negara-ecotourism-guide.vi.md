@@ -86,7 +86,7 @@ visitFacts:
   watch: 'Gió mùa đông bắc có thể làm dâng các con sông và gián đoạn thuyền cùng lối mòn, các cầu đi bộ trên tán cây từng bị đóng, và đỉa cùng độ ẩm là thường trực — hãy xác nhận lối vào và đặt hướng dẫn viên trước.'
   next: 'Hãy xác nhận quy định và phí giấy phép cùng vào cửa hiện tại với văn phòng Cục Động vật Hoang dã và Vườn Quốc gia (PERHILITAN) tại Taman Negara Pahang.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'Những ngọn đồi rừng mưa nhiệt đới rậm rạp thoai thoải trải dài tới chân trời dưới bầu trời xanh ở Taman Negara'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

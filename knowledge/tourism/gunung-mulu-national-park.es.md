@@ -91,7 +91,7 @@ visitFacts:
   watch: 'Selva ecuatorial sin una estación seca fiable: la ascensión a los Pinnacles y la salida de los murciélagos dependen del tiempo y se cancelan con lluvia fuerte, así que prevea días de margen, y tenga en cuenta los límites de equipaje de las avionetas.'
   next: 'Confirme los vuelos, el alojamiento, las normas de las actividades guiadas y las tarifas vigentes con el sitio oficial del parque (mulupark.com) y la Junta de Turismo de Sarawak (Sarawak Tourism Board).'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Campo de agujas de piedra caliza gris dentadas perforando la selva tropical verde en una ladera brumosa en el Parque Nacional de Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

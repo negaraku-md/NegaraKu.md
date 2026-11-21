@@ -80,7 +80,7 @@ verificationNeeded:
   - "'150 மில்லியனுக்கும் அதிகமான வாடிக்கையாளர்கள்' என்பது 2019 நிறுவன எண்ணையும் அடுத்தடுத்த சந்தை வளர்ச்சியையும் அடிப்படையாகக் கொண்டது; தற்போதைய குழும வாடிக்கையாளர் மொத்தத்தை சமீபத்திய ஆண்டறிக்கையுடன் சரிபார்க்கவும்."
 framework: profile
 hero: '/media/companies/axiata/hero.webp'
-heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroAlt: 'Kuala Lumpur-ல் உள்ள Axiata Arena-வின் முன் நுழைவாயில்; அதன் துளையிட்ட வெள்ளி முகப்பில் பெரிய நீல-மெஜந்தா ''axiata arena'' பெயரும் முக்கோண சின்னமும்'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'

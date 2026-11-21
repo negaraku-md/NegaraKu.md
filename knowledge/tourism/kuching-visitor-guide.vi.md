@@ -97,7 +97,7 @@ visitFacts:
   watch: 'Việc gặp đười ươi tại Semenggoh không bao giờ được bảo đảm, vì những con vượn bán hoang dã được tự do kiếm ăn trong rừng xung quanh — hãy coi mọi lần gặp là một phần thưởng, không phải một lời hứa.'
   next: 'Hãy xác nhận yêu cầu nhập cảnh Sarawak hiện tại và thời điểm diễn ra công viên hoặc lễ hội với Sarawak Tourism Board cùng các nhà điều hành chính thức của các công viên trước khi bạn đi.'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: 'Tòa nhà Hội đồng Lập pháp Bang Sarawak mái hình chiếc ô vươn lên qua sông Sarawak nhìn từ bờ sông Kuching lúc chạng vạng'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

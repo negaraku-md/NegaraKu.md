@@ -72,7 +72,7 @@ related: []
 keywords: ["السلامة من الحرائق", "الوقاية من الحرائق", "شهادة الحريق", "perakuan bomba", "fire certificate", "JBPM", "قانون خدمات الإطفاء 1988"]
 framework: explainer
 hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
-heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroAlt: 'شاحنة إطفاء مرسيدس-بنز أتيغو حمراء زاهية بحروف ''BOMBA'' على مقدمتها وخزائن معدّات على جانبها وشريط ضوء أزرق، تخرج من تحت باب مركز إطفاء مفتوح في ضوء بعد الظهر الدافئ'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'

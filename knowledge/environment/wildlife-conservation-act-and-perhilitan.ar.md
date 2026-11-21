@@ -82,7 +82,7 @@ related: []
 keywords: ["قانون حفظ الحياة البرية", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "الحياة البرية المحمية بالكامل", "totally protected wildlife", "الحياة البرية المحمية", "رخصة الحياة البرية", "تصريح خاص", "special permit", "الاتجار بالحياة البرية", "دائرة الحياة البرية والمتنزهات الوطنية"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
-heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroAlt: 'صورة جانبية قريبة لوجه وكتف نمر ملايوي المخطّطين بالبرتقالي والأسود أمام أوراق خضراء ناعمة'
 heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'

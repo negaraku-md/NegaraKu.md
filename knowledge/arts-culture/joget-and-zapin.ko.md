@@ -66,7 +66,7 @@ related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
 hero: '/media/arts-culture/joget-and-zapin/hero.webp'
-heroAlt: 'Four Malay dancers mid-zapin on a wooden stage: two men in magenta-and-orange baju Melayu with black tengkolok caps gesture with open hands while two women in purple songket and sheer veils strike graceful arm poses under warm light.'
+heroAlt: '나무 무대 위에서 자핀을 추는 네 명의 말레이 무용수: 자홍과 주황빛 바주 믈라유에 검은 틍콜록 모자를 쓴 두 남성이 손을 펼쳐 동작하고, 보라빛 송켓과 얇은 베일을 두른 두 여성이 따뜻한 조명 아래 우아한 팔 자세를 취한 모습'
 heroCredit: 'ScribblingGeek / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'

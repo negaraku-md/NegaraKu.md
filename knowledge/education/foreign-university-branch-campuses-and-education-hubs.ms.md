@@ -115,7 +115,7 @@ stayFacts:
   watch: 'Ijazah itu mudah alih tetapi pengalamannya bersifat tempatan — saiz kelas, kemudahan dan kehidupan kampus berbeza-beza antara kampus berdiri sendiri dengan kampus education-city yang dikongsi. Program kampus cawangan tetap memerlukan akreditasi MQA dan muncul dalam MQR.'
   next: 'Senarai pendekkan mengikut pengkhususan dan lokasi, sahkan program tepat dalam MQR, dan sahkan kelulusan pengambilan pelajar antarabangsa dengan kampus berkenaan. Lihat panduan Belajar di Malaysia dan perbandingan Universiti awam vs swasta.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'Sebuah bangunan universiti modenis putih dengan menara jam menjulang di seberang tasik hijau tenang bercermin berpagar hijauan menjuntai dan pepohon di bawah langit dramatik'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

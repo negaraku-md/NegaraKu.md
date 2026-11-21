@@ -108,7 +108,7 @@ related: ["tenaga-nasional"]
 keywords: ["الطاقة الكهرومائية", "سد باكون", "موروم", "باليه", "كينيير", "تيمنغور", "Sarawak Energy", "الطاقة المتجددة", "hydropower Malaysia"]
 framework: explainer
 hero: '/media/energy/hydropower-malaysia/hero.webp'
-heroAlt: 'Aerial view of Bakun Dam''s broad grey embankment marked BAKUN, its long spillway chute and riverside powerhouse, backed by a wide reservoir and forested Sarawak hills'
+heroAlt: 'منظر جوي لسدّ باكون الركامي الرمادي العريض المكتوب عليه BAKUN، مع قناة تصريفه الطويلة ومحطة الطاقة على ضفة النهر، تحفّها خزّان واسع وتلال غابية في ساراواك'
 heroCredit: 'TheHolySnail / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'

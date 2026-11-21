@@ -70,7 +70,7 @@ festivalFacts:
   holiday: "全国各州与联邦直辖区的公共假期，于 1962 年首次宣布为公共假期；根据 1955 年雇佣法令（Employment Act 1955），若适逢休息日，则适用替代的带薪假期。"
   etiquette: "庆祝以寺庙为核心；许多信徒当天身穿白衣并茹素，而最为人熟知的公开活动，是从 Brickfields 佛教 Maha Vihara 出发的吉隆坡卫塞节花车游行，吸引大批信徒与围观者观看。"
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: '亚罗士打卫塞节期间，一尊金色坐佛披着黄色万寿菊花环，立于节庆花车上一轮橙蓝金色的华丽光环前，雨篷下四周堆满白、黄、粉色的菊花'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "عطلة رسمية وطنية في جميع الولايات والأقاليم الاتحادية، أُعلنت عطلةً رسمية لأول مرة في 1962؛ وبموجب Employment Act 1955، إذا وقع في يوم راحة تُطبَّق عطلة بديلة مدفوعة الأجر."
   etiquette: "يتمحور الإحياء حول المعبد؛ ويرتدي كثير من المؤمنين الأبيض ويلتزمون نظامًا نباتيًا طوال اليوم، وأشهر فعالية عامة هي موكب عربات Wesak في Kuala Lumpur انطلاقًا من المعبد البوذي Maha Vihara في Brickfields، وتشاهده حشود كبيرة من المؤمنين والمتفرجين."
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'تمثال بوذا ذهبي جالس مزيّن بأكاليل أزهار القطيفة الصفراء أمام هالة برتقالية وزرقاء وذهبية زاهية على عربة احتفالية، محاط بأكوام من أزهار الأقحوان البيضاء والصفراء والوردية تحت مظلّة خلال يوم ويساك في ألور ستار'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

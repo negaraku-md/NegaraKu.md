@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "วันคริสต์มาส วันที่ 25 ธันวาคม เป็นวันหยุดราชการทั่วประเทศในทุกรัฐและดินแดนสหพันธ์ (First Schedule of the Holidays Act 1951 (Act 369) ในคาบสมุทร; กฎหมายของรัฐในซาบาห์และซาราวัก) นอกจากนี้ซาบาห์ยังประกาศให้วันคริสต์มาสอีฟ วันที่ 24 ธันวาคม เป็นวันหยุดราชการของรัฐภายใต้ Sabah Holidays Ordinance (Cap. 56)"
   etiquette: "ประเพณีเปิดบ้านต้อนรับ (open house) ที่ต้อนรับแขกจากทุกภูมิหลังมาร่วมรับประทานอาหารด้วยกันนั้นใช้กับคริสต์มาสเช่นเดียวกับเทศกาลอื่น ๆ ครอบครัวชาวคริสต์ที่เป็นเจ้าภาพมักต้อนรับแขกต่างศาสนา และการไปมาหาสู่กันก็เป็นไปทั้งสองทางตลอดปฏิทินเทศกาล"
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'ต้นคริสต์มาสประดับสูงตระหง่านขึ้นไปในโถงกลางของ Pavilion Kuala Lumpur รายล้อมด้วยโคมทองที่ห้อยอยู่ ม้าหมุน และฝูงนักช็อปบนพรมแดง'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

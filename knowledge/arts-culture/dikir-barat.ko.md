@@ -68,7 +68,7 @@ related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
 framework: history-culture
 hero: '/media/arts-culture/dikir-barat/hero.webp'
-heroAlt: 'Two dikir barat performers in green-and-gold costume and tall curved headdresses sit on the ground doing synchronized arm gestures and smiling, rebana hand-drums on the floor in front of them and pink flowers behind'
+heroAlt: '초록과 금빛 의상에 높이 휘어진 머리장식을 쓴 두 명의 디키르 바랏 공연자가 땅에 앉아 맞춰 팔 동작을 하며 웃고 있고, 앞 바닥에 르바나 손북이 놓이고 뒤에는 분홍 꽃이 있는 모습'
 heroCredit: 'Stsanto / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'

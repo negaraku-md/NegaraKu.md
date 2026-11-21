@@ -72,7 +72,7 @@ related: ["employment-pass", "opening-bank-account"]
 keywords: ["الإيجار في ماليزيا", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "وسيط عقارات مسجّل", "registered estate negotiator", "BOVAEP", "LPPEH", "وكيل عقارات ماليزيا", "عمولة الإيجار ماليزيا", "REN Tag"]
 framework: explainer
 hero: '/media/property/finding-a-rental/hero.webp'
-heroAlt: 'A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky'
+heroAlt: 'برج شقق سكنية حديث أبيض طويل يرتفع فوق تلال وامتداد من المساكن الضاحوية المنخفضة في نورث كيارا، كوالالمبور، تحت سماء زرقاء غائمة'
 heroCredit: 'Pradana Aumars / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'

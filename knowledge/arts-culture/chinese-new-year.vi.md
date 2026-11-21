@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "Hai ngày đầu Tết Nguyên đán là ngày nghỉ lễ công cộng trên toàn quốc, căn cứ pháp lý là Holidays Act 1951 (Act 369) và công báo của các bang."
   etiquette: "Phong tục «mở cửa nhà» (rumah terbuka) liên sắc tộc giúp người thân và bạn bè thuộc các dân tộc khác nhau đến nhà chúc Tết lẫn nhau; quà biếu và bao lì xì khi đến chúc Tết thường chọn số chẵn cho may mắn và phổ biến tránh những con số có chữ «bốn»."
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'Hàng trăm chiếc đèn lồng đỏ-vàng treo thành những hàng tỏa ra bên dưới mái chùa Thean Hou chạm trổ ở Kuala Lumpur trên nền trời xanh trong vào dịp Tết Nguyên Đán'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

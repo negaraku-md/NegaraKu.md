@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "Ce n'est pas un jour férié. La fête de la mi-automne n'est un jour férié ni au niveau national ni dans aucun État de Malaisie, et les commerces comme les administrations fonctionnent normalement (contrairement au Nouvel An lunaire, dont les deux premiers jours sont fériés)."
   etiquette: "Les célébrations publiques organisées par les associations chinoises (huiguan), les temples (comme le temple Thean Hou de Kuala Lumpur, 乐圣岭天后宫) et les organisations communautaires — soirées de lanternes, spectacles artistiques, etc. — accueillent souvent la participation et l'observation des résidents d'autres groupes ethniques, avec une dimension de partage interethnique."
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'Une grande sculpture de lanterne en soie lumineuse représentant un homme souriant en veste violette et pantalon rouge brandissant une lanterne-globe bleue et jaune, la nuit, avec des rangées de lanternes rouges et or allumées le long d''une allée derrière lui lors d''une célébration malaisienne de la mi-automne'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

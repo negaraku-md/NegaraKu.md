@@ -97,7 +97,7 @@ visitFacts:
   watch: 'Semenggohでのオランウータンとの遭遇は決して保証されず、半野生の類人猿は周囲の森で自由に採食しているため、見られれば幸運と考え、約束されたものとは見なさないこと。'
   next: '出発前に、現在のサラワク入境要件や公園・祭りの時期は、Sarawak Tourism Boardおよび各公園の公式運営者で確認すること。'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: '夕暮れ、クチンの水際からサラワク川の対岸にそびえる傘型屋根のサラワク州議会議事堂'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

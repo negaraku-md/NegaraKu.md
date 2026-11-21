@@ -79,7 +79,7 @@ related: []
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
 hero: '/media/government/social-welfare-department-jkm/hero.webp'
-heroAlt: 'JKM Social Welfare Department district office in Pontian, Johor, fronted by a large yellow signboard reading ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' with the JKM logo and a jkm.gov.my email, beside a Malaysian flag'
+heroAlt: 'Pejabat daerah Jabatan Kebajikan Masyarakat JKM di Pontian, Johor, di hadapannya papan tanda kuning besar tertulis ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' dengan logo JKM dan e-mel jkm.gov.my, di sebelah bendera Malaysia'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'

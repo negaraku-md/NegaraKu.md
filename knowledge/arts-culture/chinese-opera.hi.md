@@ -64,7 +64,7 @@ related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["चीनी ऑपेरा", "देव-कृतज्ञता ऑपेरा", "मलेशिया में कैंटोनीज़ ऑपेरा", "तियोचिउ ऑपेरा", "होक्कियन ऑपेरा", "चीनी कठपुतली रंगमंच", "पेनांग भूखे प्रेतों का उत्सव", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
 hero: '/media/arts-culture/chinese-opera/hero.webp'
-heroAlt: 'Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre'
+heroAlt: 'सुनहरे ड्रैगन पृष्ठभूमि के सामने मंच पर रंगे चेहरों, सजावटी मुकुटों और कढ़ाईदार पोशाकों में छह चीनी ओपेरा कलाकार; बीच में लंबे तीतर पंखों वाला काले-सुनहरे कवच पहने एक सेनापति खड़ा है'
 heroCredit: 'hams Nocete / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'

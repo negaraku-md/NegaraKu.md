@@ -95,7 +95,7 @@ visitFacts:
   watch: '山頂はしばしば雲に包まれて寒く湿っており、眺望は現れたり消えたりするうえ、週末や祝日には大勢の人出と長い行列が生じる。'
   next: '現在のテーマパーク、ケーブルカー、カジノの入場規則は、Resorts World Gentingで確認すること。'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: '中国寺院の屋根から、雲のかかった熱帯雨林の山々と遠くのゲンティンのリゾートを見渡す広がりのある眺め'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "เทศกาลเช็งเม้งไม่ใช่วันหยุดราชการของมาเลเซีย ในวันนั้นร้านค้าส่วนใหญ่เปิดทำการตามปกติ"
   etiquette: "เนื่องจากการเผากระดาษเงินกระดาษทองและเครื่องกระดาษเกี่ยวข้องกับเปลวไฟและควัน สุสานและสวนรำลึกบางแห่งจึงกำหนดพื้นที่เผาหรือออกข้อกำหนด และในช่วงไม่กี่ปีมานี้ยังมีผู้หันไปใช้วิธีที่เป็นมิตรต่อสิ่งแวดล้อมมากขึ้น"
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'หลุมฝังศพจีนหินสีเทาขนาดใหญ่พร้อมแนวโค้งทรงตัวโอเมกาและลานบูชากระเบื้องแดง ตั้งอยู่บนยอดเนินหญ้าที่บูกิตจีนาในมะละกา พร้อมหลุมเทพเจ้าดินยอดโดมแยกอยู่ใกล้ๆ และคนเดินผ่านท่ามกลางต้นไม้'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

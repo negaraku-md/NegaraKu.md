@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "ليس عطلة رسمية على مستوى ماليزيا كلها ولا في أي ولاية؛ وتُقام القرابين ومجامع Yulan وعروض المسرح الغنائي (getai / 歌台) غالبًا في المساء والليل بعد ساعات العمل."
   etiquette: "تُترك الصفوف الأمامية في عروض getai خالية عمدًا للضيوف غير المرئيين، فلا يجلس الجمهور عادةً في الصف الأول؛ ويتداول العامة أيضًا أقوالًا مثل عدم الدوس على القرابين الموضوعة على جوانب الطرق، وعدم التقاط ما يقع أرضًا من مال."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'مسرح احتفالي تحت خيمة يتوهّج بأقواس نيون حمراء وألواح نجمية ولوحة LED متحركة بأحرف صينية ليلاً خلال getai الشهر السابع'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

@@ -87,7 +87,7 @@ visitFacts:
   watch: 'வாரத்தின் நாளைச் சுற்றித் திட்டமிடுங்கள் — Jonker Street இரவுச் சந்தை வெள்ளி முதல் ஞாயிறு மாலைகளில் மட்டுமே இயங்குகிறது, வார நாட்களில் அது ஒரு சாதாரண கடைவீட்டுத் தெரு — மேலும் இலவச வரலாற்று A Famosa வாயிலை நகருக்கு வெளியே உள்ள தனி A''Famosa Resort தீம் பூங்காவுடன் தவறாகக் கருதாதீர்கள்.'
   next: 'உங்கள் வருகைக்கு முன் தற்போதைய திறக்கும் நாட்களையும் நேரங்களையும் Baba & Nyonya Heritage Museum-இன் அதிகாரப்பூர்வ இணையதளத்துடன் உறுதிப்படுத்துங்கள், ஏனெனில் இவை மாறுகின்றன.'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'Melaka Dutch Square-ல் Victoria நீரூற்றுக்கும் சந்தைக் கடைகளுக்கும் பின்னால் செங்கல்-சிவப்பு டச்சு Stadthuys கட்டிடம்'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

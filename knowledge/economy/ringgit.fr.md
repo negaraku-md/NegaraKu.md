@@ -68,7 +68,7 @@ faq:
     a: Parce que le taux de référence USD/MYR de KL de la BNM est un indice de marché calculé à partir du marché interbancaire, utilisé pour les contrats et la valorisation — ce n'est pas un prix de détail. Les banques et les bureaux de change ajoutent leur propre écart (spread) par-dessus, de sorte que vous traiterez toujours à un taux moins favorable que le taux de référence. Le taux de référence était de 4.0841 au 23 octobre 2026, mais c'est l'indice, et non ce qu'un client paie réellement au guichet.
 framework: explainer
 hero: '/media/economy/ringgit/hero.webp'
-heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroAlt: 'Le recto d''un billet malaisien de cent ringgit portant BANK NEGARA MALAYSIA et SERATUS RINGGIT, avec un grand 100 violet, la dénomination RM et un portrait du premier Yang di-Pertuan Agong en coiffe royale'
 heroCredit: 'Apitheart / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'

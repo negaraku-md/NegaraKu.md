@@ -88,7 +88,7 @@ verificationNeeded:
   - "Portuguese Settlement நிறுவப்பட்ட ஆண்டு (பொதுவாக 1933 எனக் கூறப்படுகிறது) மற்றும் pang susi மற்றும் சவுக்கறி உணவுகள் போன்ற பல வீட்டு உணவுகள் அரிதாகி வருகின்றன என்ற கூற்று — ஒரு முதன்மை அல்லது பாரம்பரிய மூலத்துடன் உறுதிப்படுத்தவும்."
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: 'வெள்ளைத் தட்டில் முட்கரண்டியுடன், தங்கமான மேற்பகுதி கொண்ட ஈரமான sugee (ரவை) கேக்கின் ஒரு துண்டு'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

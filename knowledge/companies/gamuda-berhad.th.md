@@ -78,7 +78,7 @@ related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
 framework: profile
 hero: '/media/companies/gamuda-berhad/hero.webp'
-heroAlt: 'Large sculptural entrance sign spelling GAMUDA in tall white letters against angled timber slats beside a curving access road into the Gamuda Gardens township'
+heroAlt: 'ป้ายทางเข้าประติมากรรมขนาดใหญ่สะกดคำว่า GAMUDA ด้วยตัวอักษรสีขาวสูงตัดกับไม้ระแนงเฉียง ข้างถนนทางเข้าโค้งสู่เมือง Gamuda Gardens'
 heroCredit: 'angys / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'

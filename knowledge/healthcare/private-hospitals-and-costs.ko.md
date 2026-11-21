@@ -69,7 +69,7 @@ related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
 hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
-heroAlt: 'The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre'
+heroAlt: '''Sunway Medical Centre'' 간판이 있는 현대식 말레이시아 민간 병원 건물 선웨이 메디컬 센터 C동의 빨강·흰색 전면'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'

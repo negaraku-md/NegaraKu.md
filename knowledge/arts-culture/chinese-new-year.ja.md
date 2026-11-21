@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "旧正月の最初の2日間は全国的な公休日であり、法的根拠は1951年假期法令(Holidays Act 1951, Act 369)および各州の官報による。"
   etiquette: "民族の枠を越えた「開放門戸」(rumah terbuka)により、異なる民族の親族・友人が互いに訪問して新年の挨拶を交わす。年賀に訪れる際の手土産や紅包は縁起のよい偶数が好まれ、「四」を含む数字は広く避けられる。"
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: '旧正月の晴れた青空を背に、クアラルンプールの天后宮の精巧な屋根の下に放射状に張り渡された数百もの赤と金の提灯'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

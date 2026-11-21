@@ -93,7 +93,7 @@ related: []
 keywords: ["الطاقة الشمسية ماليزيا", "solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "الطاقة المتجددة", "الطاقة الشمسية على الأسطح"]
 framework: explainer
 hero: '/media/energy/solar-energy-malaysia/hero.webp'
-heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroAlt: 'تركيب شمسي عائم طويل من ألواح كهروضوئية زرقاء على ممشى مغطّى يمتد عبر بحيرة حرم جامعي هادئة، مع مبانٍ وخُضرة خلفه'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'

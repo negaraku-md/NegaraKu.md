@@ -104,7 +104,7 @@ related: []
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
 hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
-heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroAlt: '明亮日光下，农夫俯身劳作于灌满水的稻田泥埂上，溅起泥浆'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'

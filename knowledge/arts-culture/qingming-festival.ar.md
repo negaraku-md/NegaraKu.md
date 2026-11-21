@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "عيد Qingming ليس عطلة رسمية في ماليزيا، وتعمل معظم المحالّ التجارية في يومه كالمعتاد."
   etiquette: "لمّا كان إحراق الورق الذهبي والفضي والقرابين الورقية ينطوي على نار مكشوفة ودخان، فإن بعض المقابر والحدائق التذكارية تخصّص مناطق للإحراق أو تضع ضوابط، وفي السنوات الأخيرة تحوّل بعض الناس إلى طرق أكثر مراعاةً للبيئة."
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'قبر صيني كبير من الحجر الرمادي بمحيط منحنٍ على شكل أوميغا وساحة عبادة مبلّطة بالأحمر على قمة تلة عشبية في بوكيت تشينا بملقا، مع ضريح إله الأرض ذي القبة قربه ومارّ يسير بين الأشجار'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

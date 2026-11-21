@@ -99,7 +99,7 @@ visitFacts:
   watch: '姆鲁的小型飞机常因天气延误或取消，故请预留缓冲日，切勿预订离开公园后衔接紧凑的后续航班。'
   next: '请向马来西亚移民局（Immigration Department of Malaysia）确认适用于你国籍的当前签证与 MDAC 要求。'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: '砂拉越姆鲁山国家公园，一片锯齿状的灰色石灰岩尖峰刺破绿色雨林和雾气'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

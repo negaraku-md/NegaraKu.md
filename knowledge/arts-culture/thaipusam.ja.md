@@ -92,7 +92,7 @@ festivalFacts:
   holiday: "これを官報で公示する州および連邦直轄領(クアラルンプール(Kuala Lumpur)、プトラジャヤ(Putrajaya)、セランゴール(Selangor)、ペナン(Penang)、ペラ(Perak)、ヌグリ・スンビラン(Negeri Sembilan)、ジョホール(Johor)、ケダ(Kedah)を含む)でのみ公休日となり、全国的な連邦の祝日ではない。"
   etiquette: "ヒンドゥー教徒でない人も行列や登拝を見学することができる。寺院の近くでは控えめな服装をし、必要な場所では靴を脱ぎ、カバディ(kavadi)を担ぐ参拝者を撮影する前には許可を求めること。"
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'タイプーサムの時、そびえ立つ石灰岩の崖の下、精巧な洞窟寺院の祠に向かってバトゥ洞窟の虹色に塗られた階段を登る信者たち'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

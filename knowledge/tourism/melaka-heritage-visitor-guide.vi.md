@@ -87,7 +87,7 @@ visitFacts:
   watch: 'Hãy lên kế hoạch theo ngày trong tuần — chợ đêm Jonker Street chỉ diễn ra vào các tối thứ Sáu đến Chủ nhật, và vào ngày thường nó là một con phố nhà phố bình thường — và đừng nhầm cổng lịch sử A Famosa miễn phí với công viên giải trí A''Famosa Resort riêng biệt bên ngoài thị trấn.'
   next: 'Hãy xác nhận ngày và giờ mở cửa hiện tại với trang chính thức của Bảo tàng Di sản Baba & Nyonya trước chuyến thăm của bạn, vì những điều này thay đổi.'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'Tòa nhà Stadthuys thời Hà Lan màu đỏ đất nung phía sau Đài phun nước Victoria và những sạp chợ trên Quảng trường Hà Lan ở Melaka'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

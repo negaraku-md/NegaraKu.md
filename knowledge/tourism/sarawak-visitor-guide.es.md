@@ -99,7 +99,7 @@ visitFacts:
   watch: 'Las avionetas de Mulu sufren con frecuencia retrasos o cancelaciones por el tiempo, así que prevea días de margen y nunca reserve una conexión de salida ajustada desde el parque.'
   next: 'Confirme los requisitos vigentes de visado y de MDAC para su nacionalidad con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia).'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Un bosque de agujas de piedra caliza gris dentadas perforando la selva tropical verde y la niebla en el Parque Nacional de Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

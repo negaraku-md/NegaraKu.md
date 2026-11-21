@@ -86,7 +86,7 @@ related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-ove
 keywords: ["Bursa Malaysia", "exigences de cotation du Main Market", "ACE Market", "LEAP Market", "FBM KLCI", "30 composantes du KLCI", "introduction en bourse Malaisie", "compartiments de Bursa Malaysia"]
 framework: profile
 hero: '/media/economy/bursa-malaysia/hero.webp'
-heroAlt: 'The columned post-modern Exchange Square tower that houses Bursa Malaysia, its tan stone facade and twin pedimented crowns lit warm gold by the setting sun, framed by dark tree foliage'
+heroAlt: 'La tour post-moderne à colonnes Exchange Square qui abrite Bursa Malaysia, sa façade en pierre fauve et ses deux couronnes à fronton éclairées d''un or chaud par le soleil couchant, encadrées de feuillages d''arbres sombres'
 heroCredit: 'Travelpleb / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'

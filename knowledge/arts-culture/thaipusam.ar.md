@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "عطلة رسمية فقط في الولايات والأقاليم الاتحادية التي تُعلنها في جريدتها الرسمية (بما في ذلك Kuala Lumpur وPutrajaya وSelangor وPenang وPerak وNegeri Sembilan وJohor وKedah) — وليست عطلة اتحادية على مستوى البلاد."
   etiquette: "يُرحَّب بغير الهندوس لمشاهدة المواكب والصعود؛ ارتدِ ملابس محتشمة قرب المعبد، واخلع الحذاء حيثما يُطلب ذلك، واستأذن قبل تصوير المتعبّدين الحاملين للـkavadi."
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'عابدون يصعدون الدرج المطليّ بألوان قوس قزح في كهوف باتو نحو ضريح الكهف-المعبد المزخرف أسفل منحدرات جيرية شاهقة خلال ثايبوسام'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

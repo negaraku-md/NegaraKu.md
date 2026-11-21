@@ -75,7 +75,7 @@ related: ["penang", "minimum-wage-and-median-income", "household-spending-breakd
 keywords: ["पेनांग रहन-सहन की लागत", "cost of living Penang", "पेनांग बनाम क्लांग घाटी रहन-सहन की लागत", "Penang vs Klang Valley cost of living", "जॉर्ज टाउन किराया", "सेबेरांग पेराई", "पेनांग द्वीप बनाम मुख्य भूमि", "पेनांग घरेलू आय"]
 framework: data-reference
 hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
-heroAlt: 'The dense George Town skyline at dusk, with the lit Komtar tower rising over the Penang city centre'
+heroAlt: 'सूर्यास्त के समय जॉर्ज टाउन की घनी क्षितिज-रेखा, पेनांग शहर केंद्र के ऊपर उठती प्रकाशित कोमतार मीनार के साथ'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'

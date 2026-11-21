@@ -102,7 +102,7 @@ related: ["rubber-industry"]
 keywords: ["زيت النخيل", "palm oil", "زيت النخيل الخام", "crude palm oil", "CPO", "MPOB", "FELDA", "صغار الملّاك", "smallholders", "نخيل الزيت", "oil palm", "المصافي", "refineries", "الكيماويات الزيتية", "oleochemicals", "MSPO", "الديزل الحيوي", "biodiesel", "الصادرات", "exports"]
 framework: profile
 hero: '/media/industries/palm-oil-industry/hero.webp'
-heroAlt: 'Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah'
+heroAlt: 'صفوف من نخيل الزيت الناضج تغطّي سفوح التلال بجانب طريق مزرعة في كوناك، صباح'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'

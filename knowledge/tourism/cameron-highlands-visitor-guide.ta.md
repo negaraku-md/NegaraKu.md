@@ -92,7 +92,7 @@ visitFacts:
   watch: 'அதை ஒரே நகரமாகக் கருதாதீர்கள் — இவை வெவ்வேறு பங்குகள் கொண்ட மூன்று குடியிருப்புகள் — மேலும் தேயிலைத் தோட்டங்கள் திங்கட்கிழமைகளில் மூடப்பட்டிருக்கும், பீடபூமி வானிலையும் விரைவாக மாறுகிறது, எனவே நாள் திட்டங்கள் மாறலாம்.'
   next: 'தற்போதைய திறக்கும் நேரங்களையும் திங்கள் மூடல்களையும் ஒவ்வொரு இடத்துடனும் நேரடியாக உறுதிப்படுத்துங்கள் — தேயிலைத் தோட்டங்களுக்கு BOH Plantations-இன் அதிகாரப்பூர்வ தளம் (bohtea.com) மற்றும் பண்ணை-மலர்த்தோட்ட ஈர்ப்புகளுக்கு Cameron Highlands District Council (MDCH).'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'மேகங்களுடன் நீல வானத்திற்குக் கீழே Cameron Highlands மலைகளை மூடும் துடிப்பான பச்சை உருளும் தேயிலைத் தோட்ட படிநிலைகள்'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

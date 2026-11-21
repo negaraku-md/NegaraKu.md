@@ -91,7 +91,7 @@ visitFacts:
   watch: 'غابة مطيرة استوائية بلا موسم جفاف موثوق — فصعود Pinnacles وخروج الخفافيش يعتمدان على الطقس ويُلغيان في الأمطار الغزيرة، لذا اترك أياماً احتياطية. وتنطبق حدود أمتعة الطائرات الصغيرة.'
   next: 'تأكّد من الرحلات والغرف وقواعد الأنشطة المرشَدة ورسومها الحالية مع الموقع الرسمي للمنتزه (mulupark.com) وهيئة سياحة ساراواك (Sarawak Tourism Board).'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'حقل من قمم جيرية رمادية مسنّنة تخترق غابة مطيرة خضراء على سفح جبل ضبابي في حديقة غونونغ مولو الوطنية، ساراواك'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

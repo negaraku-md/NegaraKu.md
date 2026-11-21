@@ -83,7 +83,7 @@ social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
 hero: '/media/companies/petronas-chemicals/hero.webp'
-heroAlt: 'Aerial view of a vast coastal petrochemical and refinery complex at Pengerang, Johor, with grids of white storage tanks, process units, pipe racks and jetties stretching to the sea under a hazy sky'
+heroAlt: 'Pemandangan udara kompleks petrokimia dan kilang pesisir yang luas di Pengerang, Johor, dengan kisi-kisi tangki penyimpanan putih, unit proses, rak pipa, dan dermaga membentang hingga ke laut di bawah langit berkabut'
 heroCredit: 'Pangalau / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'

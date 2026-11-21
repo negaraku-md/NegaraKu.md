@@ -78,7 +78,7 @@ festivalFacts:
   holiday: "ليس عطلة رسمية اتحادية؛ ولا تعلنه أي ولاية عطلةً في العادة (بخلاف Deepavali وThaipusam)."
   etiquette: "من المعتاد تبادل عبارة «Puthandu Vazhthukkal» (تهاني العام الجديد)؛ وفي يوم Chithirai يظهر مشهد احتفالي في Little India بـ Kuala Lumpur وفي المعابد والفعاليات المجتمعية."
 hero: '/media/arts-culture/tamil-new-year/hero.webp'
-heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroAlt: 'شابة هندية ماليزية بساري أخضر وعنّابي تضمّ كفّيها في تحية namaste في احتفال تاميلي بوثاندو في الهواء الطلق في بريكفيلدز، كوالالمبور، مع خيام احتفالية وأفق المدينة خلفها'
 heroCredit: 'Nimaaland / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'

@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "சந்திரப் புத்தாண்டின் முதல் இரண்டு நாட்கள் நாடு முழுவதற்குமான பொது விடுமுறைகள்; சட்ட அடிப்படை 1951 ஆம் ஆண்டு விடுமுறைச் சட்டம் (Holidays Act 1951, Act 369) மற்றும் ஒவ்வொரு மாநிலத்தின் அரசிதழ்."
   etiquette: "இனங்களுக்கு இடையிலான \"திறந்த இல்லம்\" (rumah terbuka) முறை வெவ்வேறு இனத்தைச் சேர்ந்த உறவினர்களும் நண்பர்களும் ஒருவர் இல்லத்திற்கு ஒருவர் சென்று புத்தாண்டு வாழ்த்து கூற வழிவகுக்கிறது; வாழ்த்துக்காக இல்லம் செல்லும்போது கொண்டு செல்லும் பரிசுப் பொருட்களும் சிவப்பு உறைகளும் பெரும்பாலும் நற்சகுனமான இரட்டை எண்களில் இருக்கும், மேலும் \"நான்கு\" அடங்கிய எண்களைப் பொதுவாகத் தவிர்ப்பர்."
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'சீனப் புத்தாண்டின்போது தெளிந்த நீல வானத்திற்கு எதிரே, Kuala Lumpur-ல் உள்ள Thean Hou கோயிலின் அலங்கார கூரைகளுக்குக் கீழே கதிர் வடிவில் கட்டப்பட்ட நூற்றுக்கணக்கான சிவப்பு-தங்க விளக்குகள்'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

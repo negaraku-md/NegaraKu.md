@@ -86,7 +86,7 @@ festivalFacts:
   holiday: "清明节不是马来西亚的公共假期，当天多数商号照常运作。"
   etiquette: "由于焚烧金银纸、纸扎涉及明火与烟雾，部分墓园与纪念园会划定焚烧区或作出规范，近年也有人改用较环保的方式。"
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: '马六甲三宝山（Bukit Cina）草木葱茏的山顶上，一座灰色大石华人坟墓带着欧米伽形的弧形墓围和红瓦祭台，旁边另有一座圆顶的土地公祠，一位路人在林间走过'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

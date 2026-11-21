@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "ليس عطلة رسمية — فهو في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية، ويستمرّ العمل والدراسة كالمعتاد."
   etiquette: "يتركّز احتفال الأسر غالبًا في وجبة زونغزي يوم العيد نفسه؛ أما الفعاليات العامة الكبرى مثل قوارب التنين فتُنظَّم عادةً في عطلة نهاية الأسبوع أو في أيام قريبة تيسيرًا لمشاركة الناس. وتعلّق بعض الأسر نبات الشيح (艾草) والقَصَب الحلو (菖蒲) على الأبواب، أو تحاول «نصب البيضة» وقت ظهيرة العيد، غير أن العادات تختلف من أسرة إلى أخرى."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'قارب تنين طويل بالأصفر والبرتقالي برأس تنين منحوت في مقدمته وذيل بشكل اللهب، مصطفّ به مجدّفون بسترات نجاة على طول رصيف بجانب رأس أرضي مُشجّر في صباح'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

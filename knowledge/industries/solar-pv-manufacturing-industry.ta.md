@@ -103,7 +103,7 @@ revisions:
     reviewer: null
 framework: profile
 hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
-heroAlt: 'A bright solar panel factory floor with module-assembly machines and workers in hairnets and masks along the production line'
+heroAlt: 'module-பொருத்தல் இயந்திரங்களுடன், உற்பத்தி வரிசையோரம் தலைவலை மற்றும் முகமூடி அணிந்த தொழிலாளர்களுடன் கூடிய பிரகாசமான சூரிய மின்தகடு தொழிற்சாலைத் தளம்'
 heroCredit: 'Bluebird Solar / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'

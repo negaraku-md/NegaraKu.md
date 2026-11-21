@@ -68,7 +68,7 @@ faq:
     a: क्योंकि BNM की केएल USD/MYR संदर्भ दर एक बाजार मानक है जो अंतर-बैंक बाजार से गणना की जाती है, और अनुबंधों व मूल्यांकन के लिए उपयोग होती है — यह खुदरा मूल्य नहीं है। बैंक और मुद्रा विनिमयकर्ता उसके ऊपर अपना स्वयं का स्प्रेड जोड़ते हैं, इसलिए आप हमेशा संदर्भ दर से खराब दर पर ही लेनदेन करेंगे। 23 अक्टूबर 2026 तक संदर्भ दर 4.0841 थी, पर वह मानक है, न कि जो ग्राहक वास्तव में काउंटर पर चुकाता है।
 framework: explainer
 hero: '/media/economy/ringgit/hero.webp'
-heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroAlt: 'एक मलेशियाई सौ रिंगिट नोट का अग्रभाग जिस पर BANK NEGARA MALAYSIA और SERATUS RINGGIT लिखा है, एक बड़ा बैंगनी 100, RM मूल्यवर्ग और शाही शिरोभूषण में पहले यांग दी-पर्तुआन अगोंग का चित्र'
 heroCredit: 'Apitheart / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'

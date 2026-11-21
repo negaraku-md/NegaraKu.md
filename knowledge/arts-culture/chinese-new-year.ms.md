@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "Dua hari pertama Tahun Baharu Cina merupakan cuti umum di seluruh negara, dengan asas perundangannya ialah Akta Cuti 1951 (Holidays Act 1951, Act 369) serta warta setiap negeri."
   etiquette: "\"Rumah terbuka\" yang merentas kaum membolehkan saudara-mara dan rakan daripada pelbagai etnik saling berkunjung untuk mengucapkan selamat tahun baharu; hadiah tangan dan sampul merah yang dibawa ketika berkunjung lazimnya dalam jumlah genap sebagai lambang tuah, dan umumnya mengelakkan nombor yang mengandungi angka \"empat\"."
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'Beratus-ratus tanglung merah dan emas digantung dalam barisan memancar di bawah bumbung berhias Tokong Thean Hou di Kuala Lumpur bertentangan langit biru cerah semasa Tahun Baru Cina'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

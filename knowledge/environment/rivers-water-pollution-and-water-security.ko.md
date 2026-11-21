@@ -83,7 +83,7 @@ related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
 hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
-heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroAlt: '옅고 구름 줄무늬 진 하늘 아래, 평평한 숲 지평선까지 뻗은 넓은 갈색 강'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'

@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "并非公共假期——在马来西亚并非全国或任何州属的公共假期，一般照常上班上课。"
   etiquette: "家庭庆祝多集中在节日当天的一餐粽子；龙舟等大型公共活动常安排在周末或邻近日子举行，方便民众参与。部分家庭会在门前悬挂艾草、菖蒲，或在节日正午尝试「立蛋」，但各家做法不尽相同。"
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: '沙巴一处林木岬角旁的码头边，一艘黄橙相间的长龙舟，船首雕有龙头、尾作火焰状，身着救生衣的桨手沿船排列'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

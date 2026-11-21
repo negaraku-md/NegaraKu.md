@@ -85,7 +85,7 @@ drinkFacts:
   served: "Le plus classiquement en limau asam boi — citron vert calamansi avec sirop de prune aigre, sur glace, avec quelques morceaux de prune et parfois une pincée de sel. Ajouté aussi aux sodas (Sprite asam boi) et au Ribena. Mangé seul comme en-cas également."
   where: "On le trouve aux comptoirs de boissons mamak et kopitiam, aux étals de hawker et dans les boutiques de produits secs à travers le pays ; l'asam boi emballé se vend dans les supermarchés et les épiceries."
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'Un plat de prunes séchées et confites brunes, ridées et givrées de sel, appelées asam boi'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "Bukan cuti umum — ia bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia, dan kebiasaannya kerja serta persekolahan berjalan seperti biasa."
   etiquette: "Sambutan keluarga kebanyakannya tertumpu pada satu jamuan zongzi pada hari perayaan; acara awam berskala besar seperti perlumbaan perahu naga sering diadakan pada hujung minggu atau hari berhampiran untuk memudahkan penyertaan orang ramai. Sesetengah keluarga menggantung 艾草 dan 菖蒲 di muka pintu, atau mencuba amalan menegakkan telur (立蛋) pada tengah hari perayaan, tetapi amalannya berbeza-beza antara keluarga."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'Sebuah perahu naga panjang kuning dan jingga dengan kepala naga berukir di haluan dan ekor berbentuk nyalaan, dipenuhi pendayung berjaket keselamatan di sepanjang jeti di tepi tanjung berhutan di Sabah'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

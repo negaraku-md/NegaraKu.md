@@ -83,7 +83,7 @@ related: []
 keywords: ["صناعة الطيران", "aerospace", "MRO", "الصيانة والإصلاح والعُمرة", "تصنيع مكوّنات الطيران", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
 hero: '/media/industries/aerospace-industry/hero.webp'
-heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroAlt: 'عدة طائرات ركّاب نفّاثة تجارية متوقّفة داخل حظيرة صيانة طائرات ساطعة عالية السقف'
 heroCredit: 'Airhub Aviation / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'

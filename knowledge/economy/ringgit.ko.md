@@ -68,7 +68,7 @@ faq:
     a: BNM의 KL USD/MYR 기준환율은 은행 간 시장에서 산출되는 시장 벤치마크로, 계약과 평가에 쓰이는 것이지 — 소매 가격이 아니기 때문이다. 은행과 환전상은 그 위에 자체 스프레드를 얹으므로, 당신은 항상 기준환율보다 나쁜 환율로 거래하게 된다. 기준환율은 2026년 10월 23일 기준 4.0841였으나, 그것은 벤치마크이지 고객이 창구에서 실제로 지불하는 금액이 아니다.
 framework: explainer
 hero: '/media/economy/ringgit/hero.webp'
-heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroAlt: '말레이시아 100링깃 지폐 앞면, ''BANK NEGARA MALAYSIA''와 ''SERATUS RINGGIT''이 적히고 큰 보라색 100과 RM 단위, 왕실 머리장식을 쓴 초대 양 디페르투안 아공의 초상이 있는 모습'
 heroCredit: 'Apitheart / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'

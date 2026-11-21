@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "공휴일이 아니다 — 동지는 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니다."
   etiquette: "중국계는 대개 집에서 조용히 기념하여, 온 가족이 둘러앉아 탕위안을 빚고 한 끼를 함께하지, 대규모 공개 행사를 열지는 않는다. 일부 가정은 먼저 탕위안으로 조상과 신에게 제사를 올린 뒤 온 가족이 함께 먹기도 하며, 방식은 가정과 방언 집단에 따라 다르다."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: '맑고 달콤한 시럽에 떠 있는 파스텔 분홍·보라·노란 찹쌀 경단이 담긴 흰 그릇, 파란 테두리 도자기 숟가락이 놓인 모습'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

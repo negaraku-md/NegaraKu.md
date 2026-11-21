@@ -69,7 +69,7 @@ related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "تكتل ماليزي", "مدينة متكاملة", "integrated township", "Jeffrey Cheah"]
 framework: profile
 hero: '/media/companies/sunway-group/hero.webp'
-heroAlt: 'The giant stone lion-head landmark and pyramid-shaped roof of Sunway Pyramid shopping mall, with high-rise towers marked SUNWAY rising behind under a cloudy sky'
+heroAlt: 'معلم رأس الأسد الحجري العملاق والسقف الهرمي لمركز صنواي بيراميد التجاري، مع أبراج شاهقة تحمل اسم SUNWAY ترتفع خلفه تحت سماء غائمة'
 heroCredit: 'angys / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'

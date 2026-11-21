@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "사라왁 주의 공휴일이다(1964년 9월 25일 관보 공고)."
   etiquette: "롱하우스의 문이 활짝 열린다 — 찾아오는 가족, 이웃, 손님에 대한 환대가 축제의 일부다. 흔한 인사말은 'Gayu Guru, Gerai Nyamai'(장수, 건강, 번영) 또는 'Selamat Hari Gawai'이다. 이는 무엇보다 가족과 롱하우스의 준수이지, 관광용 쇼가 아니다."
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: '코뿔새 깃털 머리장식과 모피 조끼를 입은 이반족 전사 무용수가 전통 다약 벽화 배경의 무대에서 응아잣 춤을 추는 모습'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

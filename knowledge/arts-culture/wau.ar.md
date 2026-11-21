@@ -85,7 +85,7 @@ entity: "Wau"
 keywords: ["wau", "wau bulan", "الواو", "واو بولان", "الطائرة الورقية التقليدية", "layang-layang tradisional", "حرف كلنتان", "Adiguru Kraf wau"]
 framework: history-culture
 hero: '/media/arts-culture/wau/hero.webp'
-heroAlt: 'A big ornately decorated wau bulan kite mounted on a pale wall, its broad crescent-shaped body covered in shimmering gold, pink and blue foil floral patterns with a fringed tassel at the top and a label reading WAU BULAN beneath it'
+heroAlt: 'طائرة ورقية واو بولان كبيرة مزخرفة بإتقان مثبّتة على جدار شاحب، جسمها العريض الهلالي مغطّى بزخارف زهرية من رقائق ذهبية ووردية وزرقاء لامعة مع شرابة مهدّبة في الأعلى ولافتة WAU BULAN أسفله'
 heroCredit: 'D.W. Fisher-Freberg / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'

@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "El día de Navidad, 25 de diciembre, es fiesta pública en todo el país, en todos los estados y territorios federales (Primera Lista de la Holidays Act 1951 (Act 369) en la Península; ordenanzas estatales en Sabah y Sarawak). Sabah, además, declara en el boletín oficial la Nochebuena, 24 de diciembre, como fiesta pública estatal en virtud de la Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "La tradición de la casa abierta, que consiste en recibir a invitados de cualquier origen para una comida compartida, se aplica a la Navidad igual que a otras fiestas; las familias cristianas anfitrionas suelen dar la bienvenida a invitados de otras religiones, y las visitas se producen en ambos sentidos a lo largo del calendario festivo."
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'Un imponente árbol de Navidad decorado se eleva a través del atrio del Pavilion Kuala Lumpur, rodeado de linternas doradas colgantes, un carrusel y multitudes de compradores sobre una alfombra roja'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

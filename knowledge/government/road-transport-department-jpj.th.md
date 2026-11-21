@@ -77,7 +77,7 @@ social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
 hero: '/media/government/road-transport-department-jpj/hero.webp'
-heroAlt: 'Service counters of a JPJ Road Transport Department branch office, with the JPJ crest and ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' signage above the glass-walled counter hall'
+heroAlt: 'เคาน์เตอร์บริการของสำนักงานสาขากรมการขนส่งทางบก JPJ พร้อมตรา JPJ และป้าย ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' เหนือห้องเคาน์เตอร์ผนังกระจก'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'

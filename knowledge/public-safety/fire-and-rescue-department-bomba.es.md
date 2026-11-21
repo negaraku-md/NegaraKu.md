@@ -92,7 +92,7 @@ related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Departamento de Bomberos y Rescate", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
 hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
-heroAlt: 'Several identical bright-red Scania Bomba fire engines in matching ''Bomba dan Penyelamat'' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky'
+heroAlt: 'Varios camiones de bomberos Scania Bomba de un rojo brillante idénticos con la misma librea ''Bomba dan Penyelamat'' estacionados en fila, uno tras otro, en un terreno abierto junto a un edificio de estación, bajo un cielo azul despejado'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'

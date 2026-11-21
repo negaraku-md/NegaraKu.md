@@ -87,7 +87,7 @@ visitFacts:
   watch: '曜日を踏まえて計画すること——Jonker Streetのナイトマーケットは金曜から日曜の夜にしか開かれず、平日はごく普通のショップハウスの通りであり——また、無料の史跡であるA Famosaの門を、郊外にある別のA''Famosa Resortのテーマパークと取り違えないこと。'
   next: 'これらは変わり得るため、訪問前に現在の開場日と開場時間をBaba & Nyonya Heritage Museumの公式サイトで確認すること。'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'ムラカのオランダ広場の、ビクトリア噴水と市場の屋台の背後に立つテラコッタ色のオランダのスタダイスの建物'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

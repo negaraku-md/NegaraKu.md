@@ -100,7 +100,7 @@ revisions:
     reviewer: null
 framework: profile
 hero: '/media/industries/iron-steel-metals-industry/hero.webp'
-heroAlt: 'A large integrated steelworks with blast furnaces, tall chimneys and plumes of white steam, with forested hills and houses beyond'
+heroAlt: '一座大型联合钢铁厂，有高炉、高耸的烟囱和升腾的白色蒸汽，远处是林木山丘和房屋'
 heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
 heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'

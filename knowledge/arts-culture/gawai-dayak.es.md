@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "Fiesta pública en el estado de Sarawak (publicada en el boletín oficial el 25 de septiembre de 1964)."
   etiquette: "La puerta de la casa comunal se abre de par en par: la hospitalidad hacia familiares, vecinos e invitados que acuden de visita forma parte de la fiesta; un saludo habitual es «Gayu Guru, Gerai Nyamai» (larga vida, salud, prosperidad) o «Selamat Hari Gawai». Es ante todo una celebración familiar y de la casa comunal, no un espectáculo turístico."
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: 'Un bailarín guerrero iban con tocado de plumas de cálao y chaleco de piel ejecutando la danza ngajat en un escenario con un fondo de mural tradicional dayak'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

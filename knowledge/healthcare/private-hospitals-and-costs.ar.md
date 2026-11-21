@@ -70,7 +70,7 @@ related: ["sst-expansion-2025"]
 keywords: ["المستشفيات الخاصة ماليزيا", "فاتورة المستشفى الخاص", "أتعاب استشارة الاختصاصي", "خطاب الضمان للمستشفى", "إيداع المستشفى", "الفاتورة المفصَّلة", "Act 586", "National Specialist Register", "تكاليف الرعاية الصحية الخاصة", "private hospital Malaysia"]
 framework: explainer
 hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
-heroAlt: 'The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre'
+heroAlt: 'الواجهة الحمراء والبيضاء لبرج C في مركز صنواي الطبي، مبنى مستشفى خاص ماليزي حديث، بلافتة تقرأ Sunway Medical Centre'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'

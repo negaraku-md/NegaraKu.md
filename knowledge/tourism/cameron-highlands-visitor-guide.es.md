@@ -92,7 +92,7 @@ visitFacts:
   watch: 'No lo trate como un solo pueblo — son tres asentamientos con funciones distintas — y tenga en cuenta que las plantaciones de té cierran los lunes y que el tiempo en la meseta cambia rápido, así que los planes del día pueden variar.'
   next: 'Confirme los horarios de apertura vigentes y los cierres de los lunes directamente con cada sitio — el sitio oficial de BOH Plantations (bohtea.com) para las plantaciones de té y el Consejo del Distrito de Cameron Highlands (MDCH) para las atracciones de granjas y jardines.'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'Vívidas terrazas verdes y onduladas de plantaciones de té cubriendo las colinas de Cameron Highlands bajo un cielo azul con nubes'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

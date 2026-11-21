@@ -95,7 +95,7 @@ visitFacts:
   watch: 'القمة كثيراً ما تكون ملفوفة بالغيوم باردة ورطبة بإطلالات تأتي وتذهب، وتجلب عطلات نهاية الأسبوع والعطلات الرسمية حشوداً كثيفة وطوابير طويلة.'
   next: 'تأكّد من قواعد دخول مدن الملاهي والتلفريك والكازينو الحالية مع Resorts World Genting.'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'منظر واسع من سطح معبد صيني فوق جبال غابة مطيرة ملفّعة بالغيوم مع منتجع غينتينغ في البعيد'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

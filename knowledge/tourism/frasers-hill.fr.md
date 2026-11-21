@@ -97,7 +97,7 @@ visitFacts:
   watch: 'La route de montagne étroite et sinueuse est lente et sujette à des fermetures après la pluie, des glissements de terrain ou des chutes d''arbres, et la colline elle-même est souvent brumeuse et humide, avec une restauration et des provisions limitées.'
   next: 'Confirmez les modalités d''accès routier en vigueur et toute fermeture auprès de l''autorité des routes (JKR) avant de voyager.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'Une tour-horloge en pierre ornée de drapeaux malaisiens à côté d''un bâtiment à colombages de style Tudor sous la brume grise et de grands pins à Fraser''s Hill'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

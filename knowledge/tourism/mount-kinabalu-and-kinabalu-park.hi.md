@@ -101,7 +101,7 @@ visitFacts:
   watch: 'एक कठिन दो-दिवसीय उच्च-ऊँचाई की चढ़ाई जहाँ ऊँचाई की बीमारी और फ़िटनेस मायने रखती हैं और पर्वत अपना मौसम स्वयं बनाता है; किसी बड़े भूकंप जैसी घटनाओं के बाद पहुँच और मार्ग बदल सकते हैं, इसलिए वर्तमान जानकारी पर योजना बनाएँ।'
   next: 'वर्तमान परमिट, गाइड और आवास नियम व शुल्क Sabah Parks से पुष्ट करें।'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'सबा में सुबह बादल और हरी तलहटी के ऊपर उठता माउंट किनाबालू का नुकीला ग्रेनाइट शिखर'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

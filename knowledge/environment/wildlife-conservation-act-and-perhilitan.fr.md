@@ -82,7 +82,7 @@ related: []
 keywords: ["Loi sur la conservation de la faune sauvage", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "faune sauvage totalement protégée", "totally protected wildlife", "faune sauvage protégée", "licence de faune sauvage", "permis spécial", "special permit", "trafic de faune sauvage", "Département de la faune sauvage et des parcs nationaux"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
-heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroAlt: 'Profil rapproché du visage et de l''épaule rayés orange et noir d''un tigre de Malaisie sur fond de feuillage vert doux'
 heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'

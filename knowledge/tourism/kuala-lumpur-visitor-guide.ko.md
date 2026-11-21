@@ -105,7 +105,7 @@ visitFacts:
   watch: '도심 교통은 출퇴근 시간에 혼잡하므로, 시내를 가로지르는 이동에는 대개 열차가 자동차보다 빠릅니다.'
   next: '페트로나스 트윈 타워의 현재 개장 시간과 티켓 정보는 공식 PETRONAS Twin Towers 사이트(petronastwintowers.com.my)에서 확인하십시오.'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: '황금빛 일몰 하늘 아래 쿠알라룸푸르 도심 위로 솟은 조명 받은 페트로나스 트윈타워'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

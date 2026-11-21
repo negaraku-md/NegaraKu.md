@@ -84,7 +84,7 @@ stayFacts:
   watch: 'ป้าย IPTA/IPTS ไม่ได้บอกว่าปริญญาได้รับการยอมรับหรือไม่ — สิ่งนั้นขึ้นอยู่กับว่าหลักสูตรเฉพาะนั้นได้รับการรับรองจาก MQA อยู่ในทะเบียน MQR หรือไม่ ซึ่งคุณควรตรวจสอบสำหรับปีรับเข้าที่คุณจะเข้าเรียนจริง และคุณไม่สามารถสมัครมหาวิทยาลัยเอกชนผ่าน UPU ได้'
   next: 'ตัดสินใจจากคุณวุฒิที่คุณถืออยู่ แล้วตรวจสอบหลักสูตรและปีรับเข้าที่แน่นอนในทะเบียนคุณวุฒิมาเลเซีย (MQR) ก่อนสมัครเรียนที่สถาบันประเภทใดก็ตาม ดูบทอธิบายการรับรองของ MQA และเรื่องก่อนจ่ายเงินมัดจำวิทยาลัย'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'หอประชุมโมเดิร์นนิสต์คอนกรีตดิบยาวพร้อมตัวอักษร ''Dewan Tunku Canselor'' สีน้ำเงินและบันไดภายนอก ด้านหน้าเป็นสวนไม้ตัดแต่งและถนนว่างเปล่า'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

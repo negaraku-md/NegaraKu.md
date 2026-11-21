@@ -55,7 +55,7 @@ related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
 hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
-heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroAlt: '이중언어 ''Farmasi'' 간판이 있는, 말레이시아 클루앙의 BIG 파머시(Farmasi) 매장이 입점한 밝은 붉은색 1955년 모퉁이 숍하우스'
 heroCredit: 'Dominic Nelson / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'

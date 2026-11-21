@@ -91,7 +91,7 @@ visitFacts:
   watch: 'Rừng mưa xích đạo không có mùa khô ổn định — hành trình leo Pinnacles và màn dơi bay ra phụ thuộc vào thời tiết và bị hủy khi mưa lớn, nên hãy dự trù thêm ngày đệm. Có giới hạn hành lý trên máy bay nhỏ.'
   next: 'Hãy xác nhận các chuyến bay, phòng, quy định hoạt động có hướng dẫn và phí hiện tại với trang chính thức của công viên (mulupark.com) và Sarawak Tourism Board.'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Cánh đồng những chóp đá vôi xám lởm chởm xuyên qua rừng mưa xanh trên một sườn núi mờ sương ở Vườn quốc gia Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

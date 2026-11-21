@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "No es fiesta pública: en Malasia no es fiesta pública ni a nivel nacional ni en ningún estado, y generalmente se trabaja y se asiste a clase con normalidad."
   etiquette: "La celebración familiar se concentra sobre todo en una comida de zongzi el día de la fiesta; los grandes eventos públicos, como las regatas de barcos dragón, suelen programarse en fin de semana o en fechas cercanas para facilitar la participación del público. Algunas familias cuelgan artemisa y cálamo en la puerta, o intentan «poner un huevo de pie» al mediodía de la fiesta, aunque las costumbres varían de una familia a otra."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'Un largo bote dragón amarillo y naranja con una cabeza de dragón tallada en la proa y una cola en forma de llama, alineado con remeros con chalecos salvavidas a lo largo de un embarcadero junto a un promontorio boscoso en Sabah'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

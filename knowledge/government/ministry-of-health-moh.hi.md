@@ -83,7 +83,7 @@ related: []
 keywords: ["Ministry of Health Malaysia", "मलेशिया स्वास्थ्य मंत्रालय", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "मलेशिया स्वास्थ्य मंत्री", "Director-General of Health", "स्वास्थ्य महानिदेशक", "klinik kesihatan", "moh.gov.my", "मलेशिया सार्वजनिक स्वास्थ्य देखभाल", "Dzulkefly Ahmad", "RM1 क्लिनिक शुल्क"]
 framework: profile
 hero: '/media/government/ministry-of-health-moh/hero.webp'
-heroAlt: 'A tall sandstone-and-green-glass government tower topped by an open square crown, with the words KEMENTERIAN KESIHATAN MALAYSIA and the national crest over its entrance canopy against a cloudy sky'
+heroAlt: 'एक खुले वर्गाकार शीर्ष वाली एक ऊँची बलुआ-पत्थर और हरे-काँच की सरकारी मीनार, जिसके प्रवेश-छत्र के ऊपर KEMENTERIAN KESIHATAN MALAYSIA शब्द और राष्ट्रीय प्रतीक, बादल भरी आसमान के सामने'
 heroCredit: 'Benjy8769 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'

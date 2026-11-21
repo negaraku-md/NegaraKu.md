@@ -105,7 +105,7 @@ visitFacts:
   watch: 'حركة المرور في وسط المدينة كثيفة في ساعات الذروة، لذا تكون القطارات عادةً أسرع من السيارة للتنقلات عبر المدينة.'
   next: 'تأكّد من ساعات الفتح والتذاكر الحالية لبرجي بتروناس التوأم مع الموقع الرسمي لـ PETRONAS Twin Towers (petronastwintowers.com.my).'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: 'برجا بتروناس التوأمان المضاءان يرتفعان فوق وسط مدينة كوالالمبور تحت سماء غروب ذهبية'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

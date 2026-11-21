@@ -76,7 +76,7 @@ related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-vill
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
 hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
-heroAlt: 'The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky'
+heroAlt: 'Penang மாநிலத்தில், வண்ணமயமான பீங்கான் டிராகன்களும் உருவங்களும் நிறைந்த சாய்ந்த ஓட்டு கூரையுடன், முற்றத்திலிருந்து நீல வானத்திற்குக் கீழே காணப்படும் நுட்பமாகச் செதுக்கப்பட்ட Leong San Tong Khoo Kongsi குல மாளிகை'
 heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'

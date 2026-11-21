@@ -105,7 +105,7 @@ visitFacts:
   watch: 'Giao thông ở trung tâm thành phố nặng vào giờ cao điểm, nên tàu thường nhanh hơn xe cho các chuyến đi khắp phố.'
   next: 'Hãy xác nhận giờ mở cửa và bán vé hiện tại cho Tháp Đôi Petronas với trang chính thức của PETRONAS Twin Towers (petronastwintowers.com.my).'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: 'Tháp đôi Petronas rọi đèn vươn lên trên trung tâm Kuala Lumpur dưới bầu trời hoàng hôn vàng'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

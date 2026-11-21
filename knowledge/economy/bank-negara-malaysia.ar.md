@@ -107,7 +107,7 @@ related: ["opr-monetary-policy", "ringgit", "foreign-exchange-policy-malaysia", 
 keywords: ["Bank Negara Malaysia", "BNM", "بنك نيغارا ماليزيا", "البنك المركزي الماليزي", "Central Bank of Malaysia Act 2009", "لجنة السياسة النقدية"]
 framework: profile
 hero: '/media/economy/bank-negara-malaysia/hero.webp'
-heroAlt: 'The main entrance canopy of the Bank Negara Malaysia headquarters bearing the gold BANK NEGARA MALAYSIA lettering and kijang emblem, flanked by a row of Malaysian state flags and tall fan palms'
+heroAlt: 'مظلّة المدخل الرئيسي لمقرّ بنك نيغارا ماليزيا تحمل حروف BANK NEGARA MALAYSIA الذهبية وشعار الكِيجانغ، تحفّها صفّ من أعلام ولايات ماليزيا ونخيل مروحي طويل'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-0916).jpg'

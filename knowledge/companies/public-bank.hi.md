@@ -80,7 +80,7 @@ verificationNeeded:
   - "नेतृत्व: Tay Ah Lek प्रबंध निदेशक और CEO के रूप में, तथा कार्यरत अध्यक्ष — मौजूदा बोर्ड पदों की पुष्टि करें।"
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'शाम की आसमान के सामने गर्म सुनहरे रंग में चमकती सीढ़ीदार मेनारा पब्लिक बैंक मीनार, शिखर पर जलता लाल-पीला पब्लिक बैंक लोगो और प्रवेश के ऊपर प्रकाशित PUBLIC BANK शब्दचिह्न'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

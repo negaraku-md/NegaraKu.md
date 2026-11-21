@@ -80,7 +80,7 @@ verificationNeeded:
   - "Statut du deuxième réseau 5G de Malaisie et rôle de Maxis dans celui-ci (U Mobile a été sélectionné en novembre 2024) — à vérifier avec la politique 5G et les arrangements actuels auprès de la MCMC."
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: 'La couronne incurvée illuminée de la Menara Maxis la nuit, ses terrasses étagées rayonnant de blanc contre un ciel noir, avec l''enseigne du logo maxis bleu et vert et une horloge numérique rouge indiquant 7h57 montée près du sommet'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

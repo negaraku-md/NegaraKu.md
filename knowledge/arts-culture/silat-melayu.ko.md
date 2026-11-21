@@ -81,7 +81,7 @@ related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
 framework: history-culture
 hero: '/media/arts-culture/silat-melayu/hero.webp'
-heroAlt: 'Two Malay martial artists in black silat attire locked in a dynamic grapple on a mat, one kneeling and gripping the other''s arm while a curved keris blade is raised between them, against a dark backdrop reading Silat Performance and Silat Seni Gayong Club'
+heroAlt: '검은 실랏 복장을 입은 두 말레이 무술가가 매트 위에서 역동적으로 맞붙은 모습, 한 명이 무릎을 꿇고 상대의 팔을 잡고 그 사이로 휜 크리스 날이 세워졌으며, ''Silat Performance''와 ''Silat Seni Gayong Club''이라 적힌 어두운 배경'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'

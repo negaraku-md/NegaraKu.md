@@ -64,7 +64,7 @@ related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["الأوبرا الصينية", "أوبرا شكر الآلهة", "الأوبرا الكانتونية في ماليزيا", "أوبرا التيوتشو", "أوبرا الهوكين", "مسرح العرائس الصيني", "عيد الأشباح الجائعة بينانغ", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
 hero: '/media/arts-culture/chinese-opera/hero.webp'
-heroAlt: 'Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre'
+heroAlt: 'ستة من مؤدي الأوبرا الصينية بأزياء مطرزة مزخرفة ووجوه مطلية وأغطية رأس مزركشة على المسرح أمام خلفية تنين ذهبي؛ قائد بدرع أسود وذهبي مع ريش طاووس طويل يقف في الوسط'
 heroCredit: 'hams Nocete / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'

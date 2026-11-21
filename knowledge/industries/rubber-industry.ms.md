@@ -103,7 +103,7 @@ related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
 hero: '/media/industries/rubber-industry/hero.webp'
-heroAlt: 'A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base'
+heroAlt: 'Sebatang pokok getah dengan torehan baru menyerong, susu getah putih menitis ke bawah batang ke dalam cawan hitam yang diikat di pangkalnya'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'

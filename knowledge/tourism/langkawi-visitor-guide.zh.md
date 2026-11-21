@@ -112,7 +112,7 @@ visitFacts:
   watch: '别为带回家而过量购买免税烈酒——低廉价格是供你在岛上享用的，带回本土时只有有限的免税额能通关。'
   next: '请向渡轮营运方确认当前的渡轮班次，并向马来西亚皇家关税局（RMCD）确认免税额。'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: '兰卡威天空之桥（Sky Bridge）弯曲地高悬于安达曼海上方丛林覆盖的山峰之间'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

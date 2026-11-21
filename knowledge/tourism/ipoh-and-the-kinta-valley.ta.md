@@ -121,7 +121,7 @@ visitFacts:
   watch: 'தளர்வான சுற்றுலா எழுத்து இருந்தபோதிலும், Kinta Valley ஒரு தேசிய புவிப்பூங்கா, UNESCO உலகளாவிய புவிப்பூங்கா அல்ல.'
   next: 'பயணிப்பதற்கு முன் தற்போதைய ரயில் கால அட்டவணைகளையும் கட்டணங்களையும் KTMB-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'மங்கலான நீல வானத்திற்குக் கீழே, பின்னால் கூரான சுண்ணாம்புக்கல் மலைகள் உயர, Ipoh-வின் பச்சை Padang-ம் பாரம்பரிய நகர மையமும் தெரியும் காட்சி'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

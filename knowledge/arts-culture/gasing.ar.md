@@ -63,7 +63,7 @@ related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "الغاسينغ", "gasing uri", "gasing pangkah", "الألعاب التقليدية الملايوية", "التراث الوطني", "Kuala Nerus", "gasing Terengganu"]
 framework: history-culture
 hero: '/media/arts-culture/gasing/hero.webp'
-heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroAlt: 'نَوّارتا غاسينغ ملايويتان قرصيّتا الشكل من الخشب المطلي بالأحمر، كل منهما ملفوفة بإحكام بحبل إطلاق أبيض، على صندوق أسود منحوت وقماش باتيك بنفسجي وذهبي زاهٍ، مع غاسينغ أثقل عادية بجانبهما'
 heroCredit: 'Rulwarih / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'

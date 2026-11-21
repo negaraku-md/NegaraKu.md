@@ -120,7 +120,7 @@ visitFacts:
   watch: 'La Causeway s''engorge le vendredi soir, le week-end, pendant les vacances scolaires de Singapour et les veilles de jours fériés, alors traversez tôt, évitez les heures de pointe du retour et basculez sur le Second Link lorsqu''elle est bloquée.'
   next: 'Confirmez les modalités en vigueur de passage frontalier, de RTS Link et de permis de parc auprès des autorités de transport officielles malaisienne et singapourienne et de l''autorité du parc concernée avant de voyager.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'La mosquée d''État Sultan Abu Bakar blanche de style victorien-mauresque à Johor Bahru, avec ses hauts minarets-tours et ses dômes noirs sous un ciel nuageux'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

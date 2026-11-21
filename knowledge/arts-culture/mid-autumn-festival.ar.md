@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "ليس عطلة رسمية. عيد منتصف الخريف في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية، وتعمل المحالّ التجارية والدوائر الحكومية كالمعتاد (بخلاف رأس السنة القمرية الذي يُمنح عطلة رسمية في يوميه الأولين)."
   etiquette: "الاحتفالات العامة التي تنظّمها الجمعيات الصينية والمعابد (مثل معبد Thean Hou في Kuala Lumpur) والمنظمات المجتمعية — كأمسيات الفوانيس والعروض الفنية — كثيرًا ما ترحّب بمشاركة سكان من أعراق أخرى ومشاهدتهم، وفيها جانب من التشارك العابر للأعراق."
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'منحوتة فانوس حريري كبيرة متوهّجة لرجل مبتسم بسترة بنفسجية وسروال أحمر يرفع فانوسًا كرويًا أزرق وأصفر ليلاً، مع صفوف من الفوانيس الحمراء والذهبية المعلّقة المضاءة على طول ممشى خلفه خلال احتفال منتصف الخريف الماليزي'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

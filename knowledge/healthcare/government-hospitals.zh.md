@@ -71,7 +71,7 @@ related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-healt
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
 hero: '/media/healthcare/government-hospitals/hero.webp'
-heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroAlt: '吉隆坡中央医院（马来西亚政府医院）专科及日间病房楼外观，白色立面上有红新月徽章'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'

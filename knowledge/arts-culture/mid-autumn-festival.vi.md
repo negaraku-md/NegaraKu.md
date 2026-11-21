@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "Không phải ngày lễ công cộng. Tết Trung Thu tại Malaysia không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào, các cửa hàng và cơ quan nhà nước vẫn hoạt động bình thường (khác với Tết Nguyên Đán vốn được nghỉ lễ công cộng hai ngày đầu)."
   etiquette: "Các lễ mừng công khai do hội quán người Hoa, đền chùa (như Thiên Hậu Cung ở Lạc Thánh Lĩnh, Kuala Lumpur) và các tổ chức cộng đồng tổ chức — như dạ hội lồng đèn, biểu diễn văn nghệ — thường chào đón cư dân thuộc các sắc tộc khác cùng tham gia, thưởng lãm, mang một khía cạnh chia sẻ liên sắc tộc."
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'Một tác phẩm đèn lồng lụa lớn phát sáng hình một người đàn ông tươi cười mặc áo khoác tím và quần đỏ nâng một chiếc đèn lồng hình quả cầu xanh-vàng vào ban đêm, với những hàng đèn lồng đỏ và vàng thắp sáng dọc lối đi phía sau trong một lễ Trung thu ở Malaysia'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

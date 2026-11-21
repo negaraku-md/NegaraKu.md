@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "أول يومين من رأس السنة القمرية عطلة رسمية على مستوى البلاد، وأساسها القانوني هو قانون العطلات لعام 1951 (Holidays Act 1951, Act 369) إلى جانب الجرائد الرسمية للولايات."
   etiquette: "تتيح «الأبواب المفتوحة» (rumah terbuka) العابرة للأعراق للأقارب والأصدقاء من مختلف الأعراق تبادل الزيارات للتهنئة بالعيد؛ وغالبًا ما تُختار هدايا الزيارة والمظاريف الحمراء بأعداد زوجية للتيمّن، ويُتجنّب عمومًا الأرقام المتضمّنة الرقم «أربعة»."
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'مئات الفوانيس الحمراء والذهبية معلّقة في خطوط متشعّبة تحت أسطح معبد ثيان هو المزخرفة في كوالالمبور أمام سماء زرقاء صافية خلال رأس السنة الصينية'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

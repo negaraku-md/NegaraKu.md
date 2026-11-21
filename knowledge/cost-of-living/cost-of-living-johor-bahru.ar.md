@@ -76,7 +76,7 @@ related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "تكاليف المعيشة في جوهور بهرو", "Johor Bahru Singapore exchange rate", "RTS Link Johor Bahru Singapore", "الحد الأدنى للأجور في ماليزيا RM1700", "سعر صرف الرينغيت والدولار السنغافوري", "Johor Bahru salary vs Singapore"]
 framework: data-reference
 hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
-heroAlt: 'The Johor Bahru city skyline at night with a lit tower beside the Johor–Singapore Causeway and traffic light trails'
+heroAlt: 'أفق مدينة جوهور بهرو ليلاً مع برج مضاء بجانب جسر جوهور-سنغافورة (Causeway) وخطوط ضوء حركة المرور'
 heroCredit: 'Lionel Lim / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'

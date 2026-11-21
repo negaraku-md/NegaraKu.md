@@ -86,7 +86,7 @@ related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["जावी लिपि", "अरबी मलय वर्णमाला", "तेरेंगानु शिलालेख", "जावी लिपि का इतिहास", "ख़त कला", "जावी वर्तनी", "राष्ट्रीय भाषा अधिनियम की धारा 9", "Jawi", "Batu Bersurat Terengganu", "National Language Act"]
 framework: history-culture
 hero: '/media/arts-culture/jawi-script/hero.webp'
-heroAlt: 'Dark navy signboard with the Terengganu royal crest and the words ''Istana Maziah'' spelled in gold Jawi (Arabic-derived Malay) script'
+heroAlt: 'तेरेंगानु के शाही प्रतीक और सुनहरी जावी (अरबी-व्युत्पन्न मलय) लिपि में लिखे ''Istana Maziah'' शब्दों वाला गहरे नीले रंग का साइनबोर्ड'
 heroCredit: 'Dominic Nelson / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'

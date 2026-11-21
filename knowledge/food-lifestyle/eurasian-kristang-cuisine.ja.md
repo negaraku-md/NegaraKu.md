@@ -88,7 +88,7 @@ verificationNeeded:
   - "Portuguese Settlement の設立年（一般に1933年とされる）と、pang susi や臓物料理などいくつかの家庭料理が珍しくなりつつあるという主張——一次資料または遺産資料で確認すること。"
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: '白い皿にフォークを添えた、黄金色の皮のしっとりしたスージー(セモリナ)ケーキの一切れ'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

@@ -104,7 +104,7 @@ related: []
 keywords: ["دعم أسمدة الأرز", "SBPKP", "SIPP", "حافز إنتاج الأرز", "الدعم الزراعي", "مساعدة مُدخلات مزارعي الأرز"]
 framework: explainer
 hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
-heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroAlt: 'مزارع ينحني للعمل في ساتر طيني لحقل أرز مغمور بالماء، ينثر الطين تحت ضوء النهار الساطع'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'

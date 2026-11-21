@@ -78,7 +78,7 @@ verificationNeeded:
   - "المساهمة — يُستشهد بميتسوي وشركاه (Mitsui & Co) بوصفه يملك نحو 32–33% (عبر إم بي كيه لإدارة الرعاية الصحية MBK Healthcare Management) وبخزانة ناسيونال (Khazanah Nasional) بوصفها أقلية كبيرة. وتتبدّل النسب الدقيقة مع عمليات الطرح والشراء؛ تحقق منها مقابل أحدث إفصاحات بورصة ماليزيا / بورصة سنغافورة قبل الاستشهاد برقم."
 framework: profile
 hero: '/media/companies/ihh-healthcare/hero.webp'
-heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroAlt: 'الواجهة الطويلة الكريمية والحمراء والزرقاء لمستشفى غلينيغلز بينانغ أمام سماء زرقاء، واسم ''Gleneagles PENANG'' الأزرق مثبّت على الجدار السفلي وعلى حاجز السطح'
 heroCredit: 'Vnonymous / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'

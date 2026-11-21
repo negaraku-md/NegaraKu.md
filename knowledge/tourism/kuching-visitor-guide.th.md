@@ -97,7 +97,7 @@ visitFacts:
   watch: 'การพบอุรังอุตังที่ Semenggoh ไม่เคยรับประกัน เพราะลิงกึ่งป่าเหล่านี้หากินอิสระในป่าโดยรอบ จึงควรถือว่าการพบเห็นเป็นโบนัส ไม่ใช่คำสัญญา'
   next: 'ตรวจสอบข้อกำหนดการเข้า Sarawak ปัจจุบันและช่วงเวลาอุทยานหรือเทศกาลกับ Sarawak Tourism Board และผู้ประกอบการทางการของอุทยานก่อนเดินทาง'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: 'อาคารสภานิติบัญญัติรัฐซาราวักหลังคาทรงร่มตั้งตระหง่านข้ามแม่น้ำซาราวักจากริมน้ำกูชิงยามพลบค่ำ'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

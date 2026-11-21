@@ -86,7 +86,7 @@ visitFacts:
   watch: 'La mousson du nord-est peut faire gonfler les rivières et perturber les bateaux et les sentiers, les passerelles de la canopée ont déjà connu des fermetures, et les sangsues et l''humidité sont constantes — confirmez l''accès et réservez les guides à l''avance.'
   next: 'Confirmez les règles et tarifs en vigueur de permis et d''entrée auprès du bureau du Département de la faune et des parcs nationaux (PERHILITAN) à Taman Negara Pahang.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'Des collines vallonnées de dense forêt tropicale s''étendant jusqu''à l''horizon sous un ciel bleu à Taman Negara'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

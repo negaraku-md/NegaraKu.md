@@ -92,7 +92,7 @@ related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "मलेशिया अग्निशमन एवं बचाव विभाग", "Fire and Rescue Department", "अग्निशमन सेवा अधिनियम 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
 hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
-heroAlt: 'Several identical bright-red Scania Bomba fire engines in matching ''Bomba dan Penyelamat'' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky'
+heroAlt: 'साफ़ नीली आसमान के नीचे एक केंद्र इमारत के बगल खुले मैदान पर एक सुथरी कतार में नाक-से-पूँछ खड़े कई एक जैसे चमकीले-लाल स्कैनिया बोम्बा अग्निशमन वाहन, मेल खाती ''Bomba dan Penyelamat'' रंगसज्जा में'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'

@@ -121,7 +121,7 @@ visitFacts:
   watch: '尽管旅游文案措辞含糊，Kinta Valley 其实是一座国家地质公园，而非 UNESCO 世界地质公园。'
   next: '出发前请向 KTMB 确认当前的火车时刻表与票价。'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: '朦胧蓝天下，俯瞰怡保绿色的padang草场和文物市中心，身后是嶙峋的石灰岩山丘'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

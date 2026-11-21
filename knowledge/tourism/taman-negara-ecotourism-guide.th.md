@@ -86,7 +86,7 @@ visitFacts:
   watch: 'มรสุมตะวันออกเฉียงเหนืออาจทำให้แม่น้ำเอ่อและกระทบเรือกับเส้นทาง ทางเดินเรือนยอดไม้เคยเผชิญการปิด และปลิงกับความชื้นมีอยู่ตลอด จึงควรยืนยันการเข้าถึงและจองมัคคุเทศก์ล่วงหน้า'
   next: 'ตรวจสอบกฎและค่าธรรมเนียมใบอนุญาตและการเข้าปัจจุบันกับสำนักงานกรมสัตว์ป่าและอุทยานแห่งชาติ (PERHILITAN) ที่ Taman Negara Pahang'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'เนินเขาลูกคลื่นของป่าฝนเขตร้อนหนาแน่นทอดสู่เส้นขอบฟ้าใต้ท้องฟ้าสีครามในตามันเนการา'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

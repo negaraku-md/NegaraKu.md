@@ -78,7 +78,7 @@ related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["முதல் பசார் மாலம்", "பசார் மாலம் எப்படி", "பசார் மாலம் மலேசியா வழிகாட்டி", "tapau பசார் மாலம்", "DuitNow QR பசார் மாலம்", "பசார் மாலம் halal", "இரவுச் சந்தை மலேசியா ஆர்டர் எப்படி", "பசார் மாலம் இருக்கை", "பசார் மாலம் உணவுப் பாதுகாப்பு"]
 framework: how-to
 hero: '/media/food/your-first-pasar-malam/hero.webp'
-heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroAlt: 'பிரகாசமாக ஒளிரும் pasar malam கடையில் ஒரு வாடிக்கையாளருக்குப் பரிமாறும் விற்பனையாளர்; கையால் எழுதிய விலைப் பலகைகளுடன் பொரித்த சிற்றுண்டிகளும் தோஃபுவும் நிறைந்த கண்ணாடிப் பெட்டிகள்'
 heroCredit: 'Iybtk / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'

@@ -86,7 +86,7 @@ related: []
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
 hero: '/media/government/ministry-of-education-moe/hero.webp'
-heroAlt: 'A grand symmetrical tan government tower in Moorish-Islamic style with finialed turrets and a soaring arched central bay, the words KEMENTERIAN PENDIDIKAN MALAYSIA over its entrance, flanked by lower wings under a cloud-filled sky'
+heroAlt: '첨탑 장식의 포탑과 솟아오른 아치형 중앙부를 갖춘 무어-이슬람 양식의 웅장한 대칭형 황갈색 정부 타워, 입구 위에 ''KEMENTERIAN PENDIDIKAN MALAYSIA'' 글자가 있고 구름 가득한 하늘 아래 양옆으로 낮은 부속동이 선 모습'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'

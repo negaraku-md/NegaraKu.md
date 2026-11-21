@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "Jour férié national dans tous les États et territoires fédéraux, déclaré jour férié pour la première fois en 1962 ; en vertu de l'Employment Act 1955, s'il tombe un jour de repos, un jour férié payé de remplacement s'applique."
   etiquette: "L'observance est centrée sur le temple ; de nombreux fidèles portent du blanc et suivent un régime végétarien pour la journée, et l'événement public le plus connu est la procession de chars du Wesak à Kuala Lumpur, au départ du Buddhist Maha Vihara à Brickfields, suivie par de grandes foules de fidèles et de curieux."
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'Une statue de Bouddha assis dorée drapée de guirlandes de soucis jaunes devant une auréole orange, bleu et or aux couleurs vives sur un char de festival, entourée de massifs de chrysanthèmes blancs, jaunes et roses sous un auvent pendant le jour du Wesak à Alor Setar'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

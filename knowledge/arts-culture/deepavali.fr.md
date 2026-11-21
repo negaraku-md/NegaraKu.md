@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "Un jour férié fédéral publié au journal officiel et observé dans chaque État et territoire fédéral, à l'exception du Sarawak, qui conserve son propre calendrier de jours fériés."
   etiquette: "Les visiteurs sont les bienvenus aux maisons ouvertes ; habillez-vous avec sobriété, retirez vos chaussures avant d'entrer dans une maison ou un temple, et un petit cadeau de sucreries est un geste de coutume."
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'Un kolam coloré en forme de paon fait de poudres colorées, encadré d''une bordure blanche et entouré de petites lampes à huile en terre cuite allumées, pour Deepavali en Malaisie'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

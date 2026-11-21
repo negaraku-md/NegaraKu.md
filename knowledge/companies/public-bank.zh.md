@@ -80,7 +80,7 @@ verificationNeeded:
   - "领导层：Tay Ah Lek 任董事经理兼首席执行员，以及现任主席——确认当前董事会职位。"
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: '暮色天空下，阶梯状的Menara Public Bank大厦泛着暖金色光芒，楼冠亮起红黄色大众银行标志，入口上方照亮着PUBLIC BANK字样'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

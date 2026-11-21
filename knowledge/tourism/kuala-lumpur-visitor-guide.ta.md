@@ -105,7 +105,7 @@ visitFacts:
   watch: 'நகர மைய போக்குவரத்து உச்ச நேரங்களில் அதிகமாக இருக்கிறது, எனவே நகர் முழுவதும் பயணங்களுக்கு ரயில்கள் பொதுவாக காரை விட வேகமானவை.'
   next: 'Petronas Twin Towers-க்கான தற்போதைய திறக்கும் நேரங்களையும் டிக்கெட் விவரங்களையும் அதிகாரப்பூர்வ PETRONAS Twin Towers தளத்துடன் (petronastwintowers.com.my) உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: 'பொன் சூரிய அஸ்தமன வானத்திற்குக் கீழே, Kuala Lumpur நகர மையத்திற்கு மேல் உயரும் ஒளிரும் Petronas Twin Towers'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

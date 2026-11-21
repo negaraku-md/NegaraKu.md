@@ -76,7 +76,7 @@ related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
 hero: '/media/sports/national-sports-venues/hero.webp'
-heroAlt: 'The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky'
+heroAlt: 'L''imposant arc d''entrée gris et blanc du stade national de Bukit Jalil, surmonté de l''inscription STADIUM BUKIT JALIL, ses arches mauresques à écrans ajourés encadrant l''enceinte du stade derrière sous un ciel couvert'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'

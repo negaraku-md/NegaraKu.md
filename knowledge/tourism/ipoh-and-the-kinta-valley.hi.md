@@ -121,7 +121,7 @@ visitFacts:
   watch: 'ढीली पर्यटन-सामग्री के बावजूद, Kinta Valley एक राष्ट्रीय जियोपार्क है, UNESCO Global Geopark नहीं।'
   next: 'यात्रा से पहले वर्तमान ट्रेन समय-सारणी और किराए KTMB से पुष्ट करें।'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'धुंधली नीली आसमान के नीचे पीछे उठती नुकीली चूना-पत्थर की पहाड़ियों के साथ इपोह के हरे पडांग और धरोहर शहर केंद्र का दृश्य'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

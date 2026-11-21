@@ -85,7 +85,7 @@ related: []
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
 hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
-heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroAlt: '엔다우-롬핀 국립공원에서 양쪽 둑의 울창한 초록 우림을 비추는 잔잔한 정글 강, 뒤로 숲 능선이 솟은 모습'
 heroCredit: 'Ondřej Žváček / Wikimedia Commons'
 heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'

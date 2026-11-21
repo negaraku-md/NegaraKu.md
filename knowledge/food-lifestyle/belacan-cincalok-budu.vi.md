@@ -81,7 +81,7 @@ relations:
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
 hero: '/media/food/belacan-cincalok-budu/hero.webp'
-heroAlt: 'Bright red sambal belacan freshly pounded on a pestle in a granite mortar, with green limes and red chillies beside it'
+heroAlt: 'Sambal belacan đỏ tươi vừa giã trên một chiếc chày trong cối đá granit, với chanh xanh và ớt đỏ bên cạnh'
 heroCredit: 'Mdsheth1986 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'

@@ -79,7 +79,7 @@ visitFacts:
   watch: 'Không có một đợt đóng cửa bắt buộc duy nhất, nhưng hầu hết các nhà điều hành trên đảo tự nguyện đóng cửa vào mùa gió mùa đông bắc, nên gần những tháng đó hãy xác nhận các chuyến thuyền trung chuyển trước khi trả tiền.'
   next: 'Hãy xác nhận phí bảo tồn và quy định công viên biển hiện tại với Cục Thủy sản Malaysia (Department of Fisheries).'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'Bãi biển cát trắng vắng vẻ với những tảng đá granit phong hóa, một cái cây đơn độc và vùng nước nông màu xanh ngọc dưới bầu trời xanh có mây tích trên quần đảo Perhentian'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

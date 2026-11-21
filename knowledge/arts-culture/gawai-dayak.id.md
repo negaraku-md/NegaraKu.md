@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "Hari libur umum di negeri Sarawak (diwartakan 25 September 1964)."
   etiquette: "Pintu rumah panjang dibuka lebar — keramahan terhadap keluarga, tetangga dan tamu yang berkunjung merupakan bagian dari perayaan; salam yang umum adalah 'Gayu Guru, Gerai Nyamai' (umur panjang, sehat, sejahtera), atau 'Selamat Hari Gawai'. Ini pertama-tama adalah perayaan keluarga dan rumah panjang, bukan pertunjukan wisata."
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: 'Penari pejuang Iban berhiasan kepala bulu enggang dan rompi bulu menampilkan tarian ngajat di panggung berlatar mural Dayak tradisional'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

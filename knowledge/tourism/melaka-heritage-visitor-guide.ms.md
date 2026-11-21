@@ -87,7 +87,7 @@ visitFacts:
   watch: 'Rancang mengikut hari dalam minggu — pasar malam Jonker Street beroperasi hanya pada petang Jumaat hingga Ahad, dan pada hari biasa ia hanyalah jalan kedai rumah biasa — dan jangan tersilap antara pintu gerbang bersejarah A Famosa yang percuma dengan taman tema A''Famosa Resort yang berasingan di luar bandar.'
   next: 'Sahkan hari dan waktu buka semasa dengan laman web rasmi Baba & Nyonya Heritage Museum sebelum lawatan anda, kerana ini berubah.'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'Bangunan Stadthuys Belanda berwarna merah tua di belakang Air Pancut Victoria dan gerai pasar di Dutch Square Melaka'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

@@ -90,7 +90,7 @@ related: ["sabah"]
 keywords: ["बोर्नियन ऑरंगुटान", "Bornean orangutan", "सबाह", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "आवास संरक्षण", "पूर्णतः संरक्षित प्रजाति", "वन्यजीव गलियारा"]
 framework: explainer
 hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
-heroAlt: 'A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy'
+heroAlt: 'एक उष्णकटिबंधीय वर्षावन की वितान की शाखाओं के बीच आराम करती एक जंगली बोर्नियन ओरंगुटान माँ और उसका शिशु'
 heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'

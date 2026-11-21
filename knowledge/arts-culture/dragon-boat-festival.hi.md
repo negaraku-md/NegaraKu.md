@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "यह सार्वजनिक अवकाश नहीं है — मलेशिया में यह देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है, आम तौर पर काम और पढ़ाई सामान्य रूप से चलते हैं।"
   etiquette: "पारिवारिक उत्सव अधिकतर त्योहार के दिन जोंगज़ी के एक भोजन पर केंद्रित होते हैं; ड्रैगन बोट जैसे बड़े सार्वजनिक आयोजन अक्सर सप्ताहांत या आस-पास के दिनों में रखे जाते हैं ताकि लोग आसानी से भाग ले सकें। कुछ परिवार द्वार पर मगवर्ट (आई) और स्वीट फ्लैग (चांगपू) लटकाते हैं, या त्योहार की दोपहर को 「अंडा खड़ा करने」 का प्रयास करते हैं, पर हर परिवार की रीति भिन्न होती है।"
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'सबा में एक जंगली अंतरीप के पास घाट पर लाइफ़ जैकेट पहने नाविकों से भरी, धनुष पर नक्काशीदार ड्रैगन-सिर और लौ के आकार की पूँछ वाली एक लंबी पीली-नारंगी ड्रैगन नाव'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

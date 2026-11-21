@@ -99,7 +99,7 @@ keywords:
   - Plan Nacional de la OGSE
 framework: profile
 hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
-heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroAlt: 'Una plataforma de perforación marina semisumergible vista de frente en el mar, con su cubierta rectangular y su alta torre de perforación central sostenidas sobre dos pontones sumergidos, con líneas de anclaje descendiendo al agua y buques de suministro lejanos en el horizonte'
 heroCredit: 'Calistemon / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'

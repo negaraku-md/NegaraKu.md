@@ -103,7 +103,7 @@ related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "centro de datos Malasia", "Johor data centre", "centro de datos Johor", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "soberanía de los datos", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
 hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
-heroAlt: 'A wall of server racks in a data centre, each row lit by rows of bright blue indicator lights receding into the dark'
+heroAlt: 'Un muro de racks de servidores en un centro de datos, cada fila iluminada por hileras de luces indicadoras de un azul brillante que se pierden en la oscuridad'
 heroCredit: 'BalticServers.com / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'

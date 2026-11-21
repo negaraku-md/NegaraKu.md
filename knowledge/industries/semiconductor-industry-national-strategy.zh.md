@@ -92,7 +92,7 @@ related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
 hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
-heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroAlt: '一块集成电路芯片裸片的极致特写，展现错综复杂的银紫色片上电路，纤细的金色键合线扇形散向金色封装引脚'
 heroCredit: 'Mister rf / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'

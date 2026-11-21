@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "관보에 고시되는 연방 공공 공휴일로, 자체 공휴일 일정을 유지하는 Sarawak을 제외한 모든 주와 연방직할지에서 지켜진다."
   etiquette: "방문객은 개방 가옥에 환영받으며, 단정하게 옷을 입고, 집이나 사원에 들어가기 전에 신발을 벗으며, 단것을 담은 작은 선물은 관습적인 예의 표시이다."
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: '말레이시아 디파발리를 위해 색색의 가루로 만든 공작 콜람, 흰 테두리로 둘러싸이고 작은 점토 기름등잔들이 켜져 둘러싼 모습'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

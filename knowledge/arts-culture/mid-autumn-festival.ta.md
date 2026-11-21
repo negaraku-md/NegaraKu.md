@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "பொது விடுமுறை அல்ல. Mid-Autumn பண்டிகை மலேசியாவில் நாடளாவிய அளவிலோ எந்த மாநில அளவிலோ பொது விடுமுறை அல்ல, வணிக நிறுவனங்களும் அரசு அலுவலகங்களும் வழக்கம்போல் இயங்குகின்றன (முதல் இரு நாட்கள் பொது விடுமுறை கிடைக்கும் சீனப் புத்தாண்டு போலன்று)."
   etiquette: "சீன சங்கங்கள், கோயில்கள் (கோலாலம்பூரின் 乐圣岭天后宫 Thean Hou கோயில் போன்றவை) மற்றும் சமூக அமைப்புகள் நடத்தும் விளக்கு இரவு நிகழ்வுகள், கலை நிகழ்ச்சிகள் போன்ற பொதுக் கொண்டாட்டங்கள், பிற இனத்து மக்களையும் ஒன்றாகப் பங்கேற்று, பார்வையிட அடிக்கடி வரவேற்கின்றன — இனங்களைக் கடந்து பகிரப்படும் ஒரு கூறு இதில் உள்ளது."
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'மலேசிய Mid-Autumn கொண்டாட்டத்தின்போது இரவில், ஊதா ஜாக்கெட்டும் சிவப்பு கால்சட்டையும் அணிந்து நீல-மஞ்சள் உருண்டை விளக்கை உயர்த்திப் பிடிக்கும் சிரிக்கும் மனிதனின் பெரிய ஒளிரும் பட்டு விளக்குச் சிற்பம்; அவருக்குப் பின்னால் நடைபாதை வழியே சிவப்பு-தங்க தொங்கும் விளக்குகள் வரிசைகள்'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

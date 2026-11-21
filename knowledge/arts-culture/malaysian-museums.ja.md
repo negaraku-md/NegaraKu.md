@@ -65,7 +65,7 @@ related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
 hero: '/media/arts-culture/malaysian-museums/hero.webp'
-heroAlt: 'The National Museum of Malaysia, a large pale building crowned with a steep Minangkabau-style gabled roof in deep red, its long facade decorated with colourful mural panels and lined with Malaysian flags, seen from across a road'
+heroAlt: 'マレーシア国立博物館。深紅の急勾配なミナンカバウ様式の切妻屋根を頂く大きな淡色の建物で、長い正面に色鮮やかな壁画パネルが飾られマレーシア国旗が並び、道路の向こうから見る'
 heroCredit: 'Bahnfrend / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'

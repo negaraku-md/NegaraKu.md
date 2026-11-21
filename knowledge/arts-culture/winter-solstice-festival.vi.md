@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "Không phải ngày lễ công cộng — Đông Chí tại Malaysia không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào."
   etiquette: "Người Hoa phần lớn đón lễ một cách kín đáo tại nhà, cả nhà quây quần nặn tangyuan, cùng dùng một bữa ăn, chứ không tổ chức các hoạt động công cộng quy mô lớn; một số gia đình trước tiên dùng tangyuan để cúng tổ tiên, cúng thần rồi mới cả nhà cùng ăn, cách làm khác nhau tùy gia đình và nhóm phương ngữ."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'Một bát trắng đựng những viên chè trôi nước bằng gạo nếp màu hồng, tím và vàng phấn nổi trong nước đường ngọt trong, với một chiếc thìa sứ viền xanh đặt trong đó'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

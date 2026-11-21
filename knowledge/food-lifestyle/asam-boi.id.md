@@ -84,7 +84,7 @@ drinkFacts:
   served: "Paling klasik sebagai limau asam boi — jeruk calamansi dengan sirup plum asam, di atas es, dengan beberapa potong plum dan kadang sejumput garam. Juga ditambahkan ke minuman ringan (Sprite asam boi) dan ke Ribena. Dimakan sendiri sebagai camilan juga."
   where: "Ditemukan di konter minuman mamak dan kopitiam, gerai kaki lima, dan toko barang kering di seluruh negeri; asam boi kemasan dijual di supermarket dan toko kelontong."
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'Sajian asam boi, buah plum yang diawetkan dan dikeringkan berwarna cokelat keriput berselimut kristal garam'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

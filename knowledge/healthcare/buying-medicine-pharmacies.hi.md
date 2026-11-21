@@ -56,7 +56,7 @@ related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["मलेशिया में दवा खरीदना", "मलेशिया में फार्मेसियाँ", "Poisons Act 1952", "Akta Racun 1952", "नुस्खे वाली दवाएँ", "बिना-पर्ची की दवाएँ", "पंजीकृत फार्मासिस्ट", "समूह B ज़हर", "Quest3+", "NPRA"]
 framework: explainer
 hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
-heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroAlt: 'मलेशिया के क्लुआंग में एक BIG Pharmacy (Farmasi) आउटलेट को समाहित करता एक चमकीला लाल 1955 का कोने का शॉपहाउस, द्विभाषी Farmasi साइन के साथ'
 heroCredit: 'Dominic Nelson / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'

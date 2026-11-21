@@ -76,7 +76,7 @@ related: []
 keywords: ["बुकित जलिल राष्ट्रीय स्टेडियम", "stadium nasional bukit jalil", "राष्ट्रीय वेलोड्रोम", "velodrom nasional", "सेपांग सर्किट", "litar sepang", "राष्ट्रीय हॉकी स्टेडियम", "stadium hoki nasional", "मलेशिया के खेल स्थल"]
 framework: profile
 hero: '/media/sports/national-sports-venues/hero.webp'
-heroAlt: 'The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky'
+heroAlt: 'बुकित जालिल राष्ट्रीय स्टेडियम का भव्य धूसर-सफ़ेद प्रवेश-मेहराब, शीर्ष पर STADIUM BUKIT JALIL अक्षरों के साथ, बादल भरी आसमान के नीचे पीछे स्टेडियम कटोरे को घेरती इसकी मूरिश-शैली की छिद्रित-जालीदार मेहराबें'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'

@@ -108,7 +108,7 @@ visitFacts:
   watch: '沙巴东部的岛屿位于划定的保安区（ESSZONE）内，准证永无保证，且有保育限制（包括每年的封闭期），故请在知情的情况下出行并查阅当前官方建议。'
   next: '请向 Sabah Parks 或你的持牌潜水业者确认当前的 Sipadan 准证限额、收费及任何保育封闭期。'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: '明亮点缀着云朵的天空下，鸟瞰沙巴仙本那附近敦沙卡兰海洋公园（Tun Sakaran Marine Park）一片鲜艳的碧绿珊瑚礁潟湖，周围环绕着绿色岛屿'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

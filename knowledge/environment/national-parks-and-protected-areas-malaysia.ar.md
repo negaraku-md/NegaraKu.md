@@ -85,7 +85,7 @@ related: []
 keywords: ["تامان نيغارا", "taman negara", "المناطق المحمية", "kawasan perlindungan", "قانون الحدائق الوطنية 1980", "Akta Taman Negara 1980", "حديقة كينابالو", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "الحدائق البحرية", "taman laut", "PERHILITAN", "التراث العالمي لليونسكو", "Warisan Dunia UNESCO"]
 framework: explainer
 hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
-heroAlt: 'A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park'
+heroAlt: 'نهر غابي هادئ يعكس غابة مطيرة خضراء كثيفة على كلتا الضفتين مع حافة غابية ترتفع خلفه في حديقة إنداو-رومبين الوطنية'
 heroCredit: 'Ondřej Žváček / Wikimedia Commons'
 heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'

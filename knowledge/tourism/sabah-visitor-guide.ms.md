@@ -101,7 +101,7 @@ visitFacts:
   watch: 'Tempah tarikan utama yang terhad dan dikawal permit itu jauh lebih awal dan rancang mengikut penutupan tahunan Sipadan pada bulan November untuk pemulihan terumbu, kerana bahagian-bahagian ini habis dijual dan tidak boleh diperoleh ketika ketibaan.'
   next: 'Sahkan peraturan kemasukan, pas lawatan dan permit semasa dengan Jabatan Imigresen Malaysia dan Sabah Parks sebelum anda mengembara.'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: 'Puncak granit St. John''s Peak di Gunung Kinabalu bercahaya merah jambu pada waktu subuh di atas lautan awan'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

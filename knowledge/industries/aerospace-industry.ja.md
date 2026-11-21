@@ -83,7 +83,7 @@ related: []
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
 hero: '/media/industries/aerospace-industry/hero.webp'
-heroAlt: 'Several commercial jet airliners parked inside a bright, high-roofed aircraft maintenance hangar'
+heroAlt: '明るく天井の高い航空機整備格納庫の中に駐機する、数機の商用ジェット旅客機'
 heroCredit: 'Airhub Aviation / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'

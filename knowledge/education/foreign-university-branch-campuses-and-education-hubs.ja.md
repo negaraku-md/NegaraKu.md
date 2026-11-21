@@ -114,7 +114,7 @@ stayFacts:
   watch: '学位は国境を越えて通用するが、学びの体験は現地のものである——クラスの規模、施設、キャンパスライフは、独立したキャンパスと、共用のエデュケーションシティ型キャンパスとでは大きく異なる。分校キャンパスの課程であっても、MQAの認証は必要であり、MQRに掲載される。'
   next: '専門分野と立地で候補を絞り込み、MQRで正確な課程を確認し、外国人学生の受け入れが承認されているかをキャンパスに確認すること。詳しくは「マレーシアで学ぶ」および「国立大学と私立大学」を参照のこと。'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'ドラマチックな空の下、垂れ下がる緑と木々に縁取られた鏡のように静かな緑の湖の向こうにそびえる、時計塔のある白いモダニズム様式の大学の建物'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

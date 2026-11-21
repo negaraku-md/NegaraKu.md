@@ -103,7 +103,7 @@ keywords:
   - "Perak GDP"
 framework: profile
 hero: '/media/business/doing-business-ipoh-perak/hero.webp'
-heroAlt: 'Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky'
+heroAlt: 'आंशिक रूप से बादल भरी आसमान के नीचे चूना-पत्थर की पहाड़ियों के पीछे आधुनिक व्यावसायिक कार्यालय मीनारों और एक हरे मैदान के साथ इपोह शहर केंद्र का दिन का दृश्य'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

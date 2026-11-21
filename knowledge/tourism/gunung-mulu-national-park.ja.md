@@ -91,7 +91,7 @@ visitFacts:
   watch: '確実な乾季のない赤道直下の熱帯雨林で、Pinnaclesの登攀とコウモリの飛び立ちは天候次第であり、豪雨の際は中止されるため、予備日を組み込んでおくこと。小型機には手荷物の重量制限が適用される。'
   next: '現在のフライト、宿泊、ガイド付きアクティビティの規則と料金は、公園の公式サイト（mulupark.com）およびSarawak Tourism Boardで確認すること。'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: 'サラワク州のグヌン・ムル国立公園の、霧のかかった山腹で緑の熱帯雨林を貫く、ギザギザの灰色の石灰岩のピナクル(尖峰)の原'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

@@ -84,7 +84,7 @@ related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-stat
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'Orang ramai berbaju Melayu beraya meninggalkan sebuah masjid kampung bermenara kembar selepas solat pagi Aidilfitri di Alor Pongsu, Perak'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

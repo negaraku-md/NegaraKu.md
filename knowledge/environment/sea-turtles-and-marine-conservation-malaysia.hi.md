@@ -99,7 +99,7 @@ related: []
 keywords: ["समुद्री कछुए", "लेदरबैक कछुआ", "रांताउ अबांग", "समुद्री उद्यान", "मत्स्य अधिनियम 1985", "तेरेंगानू कछुआ अधिनियम", "समुद्री संरक्षण", "कछुआ अंडे", "sea turtles", "marine conservation"]
 framework: explainer
 hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
-heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroAlt: 'साफ़ नीले पानी में एक जीवंत प्रवाल भित्ति पर आराम करता एक हरा समुद्री कछुआ, ऊपर तैरती भित्ति-मछलियाँ'
 heroCredit: 'Avoini / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'

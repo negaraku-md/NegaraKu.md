@@ -82,7 +82,7 @@ verificationNeeded:
   - "ग्राहक संख्या (तृतीय-पक्ष प्रोफ़ाइलों में उद्धृत आँकड़े व्यापक रूप से भिन्न हैं, उदाहरण के लिए ~13.5 million खुदरा बनाम ~25 million कुल) — कोई संख्या प्रकाशित करने से पहले CIMB की अपनी मौजूदा रिपोर्टिंग के विरुद्ध सत्यापित करें।"
 framework: profile
 hero: '/media/companies/cimb/hero.webp'
-heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroAlt: 'एक काँसे-काँच की कार्यालय मीनार जिसके शीर्ष पर बड़ा लाल CIMB BANK साइन है, उसकी बगल में नीचे लटकता लाल CIMB BANK और CIMB ISLAMIC बैनर, कुआलालंपुर की सड़क के ऊपर उठती हुई'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'

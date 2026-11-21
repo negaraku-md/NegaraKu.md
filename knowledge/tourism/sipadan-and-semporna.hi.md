@@ -108,7 +108,7 @@ visitFacts:
   watch: 'पूर्वी Sabah के द्वीप एक निर्दिष्ट सुरक्षा क्षेत्र (ESSZONE) में स्थित हैं, परमिट कभी निश्चित नहीं होते, और संरक्षण-सीमाएँ (एक वार्षिक बंदी सहित) लागू होती हैं — जानकारी लेकर यात्रा करें और वर्तमान आधिकारिक सलाह जाँचें।'
   next: 'वर्तमान Sipadan परमिट-सीमा, शुल्क और किसी भी संरक्षण-बंदी को Sabah Parks या अपने लाइसेंसी गोता-ऑपरेटर से पुष्ट करें।'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'सबा के सेम्पोरना के पास तुन साकारन समुद्री उद्यान में चमकीली बादल-बिखरी आसमान के नीचे हरे द्वीपों से घिरी एक चटख फ़िरोज़ी भित्ति-लैगून का हवाई दृश्य'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

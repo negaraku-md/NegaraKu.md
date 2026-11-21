@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "يوم عيد الميلاد، 25 ديسمبر، عطلة رسمية على مستوى البلاد في جميع الولايات والأقاليم الاتحادية (الجدول الأول من Holidays Act 1951 (Act 369) في شبه الجزيرة؛ ومراسيم الولايات في Sabah وSarawak). كما تُدرِج Sabah ليلة عيد الميلاد، 24 ديسمبر، عطلةً رسمية للولاية بموجب Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "يُطبَّق تقليد البيت المفتوح (open house) في استضافة الضيوف من أي خلفية لتناول وجبة مشتركة على عيد الميلاد كما على سائر الأعياد؛ والعائلات المسيحية المضيفة ترحّب عادةً بضيوف من أديان أخرى، وتجري الزيارات في الاتجاهين عبر رزنامة الأعياد."
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'شجرة عيد ميلاد مزيّنة شاهقة ترتفع عبر بهو مركز بافيليون كوالالمبور، محاطة بفوانيس ذهبية معلّقة ودوّامة خيل وحشود من المتسوقين على سجادة حمراء'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

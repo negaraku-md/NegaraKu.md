@@ -119,7 +119,7 @@ related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "a
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "douanes Malaisie", "droit de douane Malaisie", "SST Customs", "droits d'accise Malaisie"]
 framework: profile
 hero: '/media/government/rmcd-kastam/hero.webp'
-heroAlt: 'A bright sky-blue government building under a clear blue sky, its gabled front carrying the Royal Malaysian Customs crest above gold lettering reading Kastam Diraja Malaysia, set among green trees in Lahad Datu, Sabah'
+heroAlt: 'Un bâtiment gouvernemental bleu ciel vif sous un ciel bleu limpide, son pignon portant les armoiries des Douanes royales de Malaisie au-dessus des lettres dorées indiquant Kastam Diraja Malaysia, parmi des arbres verts à Lahad Datu, Sabah'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'

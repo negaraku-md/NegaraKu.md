@@ -76,7 +76,7 @@ related: []
 keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
 framework: profile
 hero: '/media/states/penang/hero.webp'
-heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroAlt: '槟城乔治市，奶油色的1923年乔治市药房（George Town Dispensary），一座殖民时代的转角文物转角建筑，带有拱形窗和百叶立面'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'

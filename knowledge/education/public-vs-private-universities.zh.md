@@ -84,7 +84,7 @@ stayFacts:
   watch: 'IPTA／IPTS这个标签本身并不能说明某个学位是否获得承认——那取决于该特定课程是否已在MQR上获MQA认证，你应按自己确切的入学年份查证。你无法透过UPU申请私立大学。'
   next: '先依你所持有的学历做决定，再于注册任一类院校之前，在大马学术资格鉴定名册上查证确切的课程与入学年份。参阅MQA认证说明，以及《缴付学院订金前》。'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: '一座长长的清水混凝土现代主义礼堂，标有蓝色''Dewan Tunku Canselor''字样和一道外部楼梯，前方是修剪的园林和一条空旷的道路'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

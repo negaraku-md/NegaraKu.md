@@ -70,7 +70,7 @@ related: ["sst-expansion-2025"]
 keywords: ["निजी अस्पताल मलेशिया", "निजी अस्पताल बिल", "विशेषज्ञ परामर्श शुल्क", "अस्पताल गारंटी पत्र", "अस्पताल जमा राशि", "मदवार बिल", "Act 586", "National Specialist Register", "निजी स्वास्थ्य देखभाल लागत", "private hospital Malaysia"]
 framework: explainer
 hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
-heroAlt: 'The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre'
+heroAlt: 'सनवे मेडिकल सेंटर टावर C, एक आधुनिक मलेशियाई निजी अस्पताल इमारत, का लाल-सफ़ेद अग्रभाग, Sunway Medical Centre पढ़ती साइन के साथ'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'

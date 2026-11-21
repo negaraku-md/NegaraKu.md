@@ -92,7 +92,7 @@ related: ["electrical-electronics-industry"]
 keywords: ["أشباه الموصلات", "الاستراتيجية الوطنية لأشباه الموصلات", "semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "التغليف المتقدم", "advanced packaging", "صناعة الرقائق في ماليزيا", "Penang Silicon Valley", "MIDA", "IC design", "تصميم الدوائر المتكاملة"]
 framework: profile
 hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
-heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroAlt: 'لقطة شديدة القرب لرقاقة دارة متكاملة تُظهر دارات دقيقة فضية وأرجوانية على الرقاقة، مع أسلاك ربط ذهبية رفيعة تتفرّع إلى أطراف العلبة الذهبية'
 heroCredit: 'Mister rf / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'

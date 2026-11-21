@@ -84,7 +84,7 @@ drinkFacts:
   served: "เสิร์ฟเย็น ปั่นสดตามสั่ง — เบากว่าด้วยน้ำเปล่า เข้มข้นกว่าด้วยนมในแบบสมูทตี้ เป็นเครื่องดื่มผลไม้ที่สดชื่น; ดื่มเพลิน ๆ ในฐานะนั้น และพึงทราบว่าการอ้างด้านสุขภาพและ 'ต้านมะเร็ง' ที่ผูกกับทุเรียนเทศยังไม่ได้รับการพิสูจน์ในมนุษย์และไม่ใช่สิ่งทดแทนการรักษาพยาบาล"
   where: "พบได้ตามร้านน้ำผลไม้ แผงหาบเร่ และแผงผลไม้ทั่วประเทศ ที่ใดก็ตามที่มีการปั่นน้ำผลไม้เขตร้อนสด ๆ"
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'กองทุเรียนเทศสีเขียวมีหนามสดบนแผงตลาด พร้อมมะละกอและกล้วยอยู่ด้านหลัง'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

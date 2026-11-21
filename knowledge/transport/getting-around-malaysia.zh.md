@@ -92,7 +92,7 @@ related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
 framework: journey-hub
 hero: '/media/transport/getting-around-malaysia/hero.webp'
-heroAlt: 'An aerial view of a KTM ETS intercity electric train running along the West Coast main line through green countryside, with housing estates and a playground below — ''moving around Malaysia'' by fast national rail. Clean daylight establishing shot, train crossing the upper third.'
+heroAlt: '鸟瞰一列 KTM ETS 城际电动火车沿西海岸干线穿行于绿色乡野之间，下方是住宅区和一座游乐场'
 heroCredit: 'Hiroki.loh.st / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'

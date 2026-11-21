@@ -105,7 +105,7 @@ visitFacts:
   watch: 'Lalu lintas pusat bandar sesak pada waktu puncak, jadi kereta api biasanya lebih pantas daripada kereta untuk perjalanan merentasi bandar.'
   next: 'Sahkan waktu buka dan penjualan tiket semasa untuk Menara Berkembar Petronas dengan laman rasmi PETRONAS Twin Towers (petronastwintowers.com.my).'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: 'Menara Berkembar Petronas yang menyala menjulang di atas pusat bandar Kuala Lumpur di bawah langit senja keemasan'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

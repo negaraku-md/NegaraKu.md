@@ -88,7 +88,7 @@ related: []
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
 hero: '/media/property/affordable-housing-schemes/hero.webp'
-heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroAlt: '蓝天下，吉隆坡武吉加里尔两栋高层马来西亚公共组屋，一栋米色、一栋粉色配红顶，阳台晾着衣物并装着卫星天线，耸立于一排绿树之上'
 heroCredit: 'Brownc / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'

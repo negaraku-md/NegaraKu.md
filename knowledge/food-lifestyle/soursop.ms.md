@@ -85,7 +85,7 @@ drinkFacts:
   served: "Dihidang sejuk, diadun segar bila dipesan — lebih ringan dengan air, lebih pekat dengan susu sebagai smoothie. Minuman buah yang menyegarkan; nikmatinya sebagai itu, dan perhatikan bahawa dakwaan kesihatan dan 'anti-kanser' yang dikaitkan dengan soursop tidak terbukti pada manusia dan bukan pengganti rawatan perubatan."
   where: "Terdapat di bar jus, gerai jaja dan gerai buah di seluruh negara, di mana sahaja jus buah tropika segar diadun."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'Longgokan buah durian belanda hijau berduri segar di sebuah gerai pasar, dengan betik dan pisang di latar belakang'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

@@ -85,7 +85,7 @@ drinkFacts:
   served: "Servi frais à la bouteille ou à la canette. Une variation locale très appréciée est le « Sarsi susu » — du Sarsi avec du lait évaporé, concentré ou frais versé pour faire un flotteur crémeux. Sucré et pétillant ; une gourmandise soda, non une boisson infusée de kopitiam."
   where: "On le trouve dans les épiceries, les supermarchés, les kopitiam et aux rassemblements familiaux de tout le pays — un incontournable nostalgique de l'étagère réfrigérée."
 hero: '/media/food/sarsi/hero.webp'
-heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroAlt: 'Une grande chope en verre à alvéoles remplie de soda de salsepareille sombre et pétillant (sarsi) à la mousse abondante, au soleil'
 heroCredit: 'Markmark28 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'

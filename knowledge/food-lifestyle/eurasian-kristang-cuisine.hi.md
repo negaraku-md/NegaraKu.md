@@ -88,7 +88,7 @@ verificationNeeded:
   - "Portuguese Settlement का स्थापना-वर्ष (आमतौर पर 1933 बताया जाता है) और यह दावा कि pang susi तथा अंतड़ी वाले व्यंजन जैसे कई घरेलू व्यंजन दुर्लभ होते जा रहे हैं — किसी प्राथमिक या विरासत स्रोत से पुष्टि करें।"
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: 'एक सफ़ेद प्लेट पर काँटे के साथ सुनहरी परत वाला नम सूजी केक का एक टुकड़ा'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

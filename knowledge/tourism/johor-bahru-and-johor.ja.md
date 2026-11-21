@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Causewayは金曜の夕方、週末、シンガポールの学校休暇、祝日の前夜に混雑するため、早めに渡り、ピークの帰宅時間帯を避け、渋滞しているときはSecond Linkに切り替えること。'
   next: '出発前に、現在の渡航、RTS Link、公園許可の取り決めを、マレーシアとシンガポールの公式な交通当局および該当する公園当局で確認すること。'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: '曇り空の下、背の高いミナレット塔と黒いドームをもつ、ジョホールバルの白いビクトリアン・ムーア様式のスルタン・アブ・バカル州立モスク'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

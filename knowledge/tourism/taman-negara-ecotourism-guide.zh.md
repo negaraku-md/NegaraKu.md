@@ -86,7 +86,7 @@ visitFacts:
   watch: '东北季候风可能使河水上涨、扰乱船只与步道，树冠吊桥曾面临封闭，而蚂蟥与潮湿更是常态——请确认通行情况并提前预订向导。'
   next: '请向国家野生动物与国家公园局（PERHILITAN）设于彭亨国家公园的办事处确认当前的准证与入园规定及收费。'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: '蓝天下，大汉山国家公园（Taman Negara）起伏的茂密热带雨林山丘伸向地平线'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

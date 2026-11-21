@@ -99,7 +99,7 @@ related: []
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
 hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
-heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroAlt: '一只绿海龟在清澈蓝水中栖息于生机盎然的珊瑚礁上，上方有礁鱼游弋'
 heroCredit: 'Avoini / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'

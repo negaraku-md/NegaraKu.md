@@ -80,7 +80,7 @@ verificationNeeded:
   - "Status rangkaian 5G kedua Malaysia dan peranan Maxis di dalamnya (U Mobile dipilih pada November 2024) — sahkan dasar dan pengaturan 5G semasa dengan SKMM."
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: 'Mahkota melengkung Menara Maxis yang bercahaya pada waktu malam, teres bertingkatnya bersinar putih bertentangan langit hitam, dengan papan tanda logo maxis biru dan hijau serta jam digital merah menunjukkan 7:57 dipasang berhampiran puncak'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

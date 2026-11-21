@@ -88,7 +88,7 @@ related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
 hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
-heroAlt: 'A large roadside ''Iskandar Puteri'' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind'
+heroAlt: 'அழகுபடுத்தப்பட்ட வட்டச்சுற்றில் பெரிய சாலையோர ''Iskandar Puteri'' அடையாளப் பலகை; பின்னணி வானோரத்தில் அலுவலக மற்றும் வணிக கோபுரங்களும் கட்டுமானக் கிரேன்களும்'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'

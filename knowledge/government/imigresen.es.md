@@ -83,7 +83,7 @@ related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-
 keywords: ["Departamento de Inmigración de Malasia", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasaporte malasio", "visado Malasia", "pase de visita social", "Permiso de Entrada", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
 hero: '/media/government/imigresen/hero.webp'
-heroAlt: 'The stone facade of the Immigration Department of Malaysia headquarters in Putrajaya, its tiered Islamic-patterned tower rising behind an entrance canopy that bears the words Jabatan Imigresen Malaysia and the department crest'
+heroAlt: 'La fachada de piedra de la sede del Departamento de Inmigración de Malasia en Putrajaya, con su torre escalonada de motivos islámicos elevándose detrás de una marquesina de entrada que luce las palabras Jabatan Imigresen Malaysia y el escudo del departamento'
 heroCredit: 'AcMY01 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'

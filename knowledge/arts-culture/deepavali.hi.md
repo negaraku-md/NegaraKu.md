@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "यह एक राजपत्रित संघीय सार्वजनिक अवकाश है जो Sarawak को छोड़कर हर राज्य और संघीय क्षेत्र में मनाया जाता है, क्योंकि Sarawak अपनी स्वयं की सार्वजनिक-अवकाश अनुसूची रखता है।"
   etiquette: "खुले घरों में आगंतुकों का स्वागत है; शालीन वस्त्र पहनें, घर या मंदिर में प्रवेश करने से पहले जूते उतारें, और मिठाइयों का छोटा-सा उपहार एक प्रथागत भाव है।"
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'मलेशिया में दीपावली के लिए रंगीन चूर्ण से बना एक सुंदर मोर कोलम, सफ़ेद किनारे से घिरा और चारों ओर जलते छोटे मिट्टी के दीयों से सजा'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

@@ -93,7 +93,7 @@ related: []
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
 hero: '/media/energy/solar-energy-malaysia/hero.webp'
-heroAlt: 'A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind'
+heroAlt: '穏やかなキャンパスの湖を横切って伸びる屋根付き遊歩道の上の、青い太陽光パネルの長い浮体式太陽光設備。背後に建物と緑'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'

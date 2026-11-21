@@ -62,7 +62,7 @@ related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
 hero: '/media/arts-culture/chinese-opera/hero.webp'
-heroAlt: 'Six Chinese opera performers in elaborate embroidered costumes with painted faces and ornate headdresses on stage before a gold dragon backdrop; a general in black-and-gold armour with tall pheasant plumes stands at centre'
+heroAlt: '六位中国戏曲演员身着华丽绣袍、画着戏妆、戴着精致头饰立于金龙背景前；一位身披黑金铠甲、头插高高雉翎的将军立于中央'
 heroCredit: 'hams Nocete / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'

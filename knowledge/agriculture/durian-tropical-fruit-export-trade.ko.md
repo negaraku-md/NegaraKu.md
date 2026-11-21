@@ -104,7 +104,7 @@ related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
 hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
-heroAlt: 'Pile of whole green thorny durians with one cut open showing bright yellow custard-like flesh at a Penang fruit stall'
+heroAlt: '페낭의 과일 가판대에 쌓인 초록빛 가시 두리안들, 그중 하나는 쪼개져 밝은 노란색 커스터드 같은 과육이 드러나 있음'
 heroCredit: 'The Wandering Angel / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'

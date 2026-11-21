@@ -78,7 +78,7 @@ festivalFacts:
   holiday: "連邦の祝日ではなく、いずれの州も通常これを祝日として宣言することはない（ディーパバリ（Deepavali）やタイプーサム（Thaipusam）とは異なる）。"
   etiquette: "「Puthandu Vazhthukkal（新年おめでとう）」と挨拶を交わすのが慣習である。Chithirai の日には、クアラルンプールのリトル・インディア、寺院、地域行事で祝祭の光景が見られる。"
 hero: '/media/arts-culture/tamil-new-year/hero.webp'
-heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroAlt: 'クアラルンプールのブリックフィールズの野外のタミル・プッタンドゥの祝祭で、祭りのテントと都市のスカイラインを背に、緑と栗色のサリーを着た若いマレーシア系インド人女性が手を合わせてナマステの挨拶をする'
 heroCredit: 'Nimaaland / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'

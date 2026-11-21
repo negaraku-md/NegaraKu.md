@@ -83,7 +83,7 @@ related: []
 keywords: ["Ministry of Health Malaysia", "وزارة الصحة الماليزية", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "وزير الصحة الماليزي", "Director-General of Health", "المدير العام للصحة", "klinik kesihatan", "moh.gov.my", "الرعاية الصحية العامة ماليزيا", "Dzulkefly Ahmad", "رسم العيادة RM1"]
 framework: profile
 hero: '/media/government/ministry-of-health-moh/hero.webp'
-heroAlt: 'A tall sandstone-and-green-glass government tower topped by an open square crown, with the words KEMENTERIAN KESIHATAN MALAYSIA and the national crest over its entrance canopy against a cloudy sky'
+heroAlt: 'برج حكومي طويل من الحجر الرملي والزجاج الأخضر يعلوه تاج مربّع مفتوح، مع عبارة KEMENTERIAN KESIHATAN MALAYSIA والشعار الوطني فوق مظلّة مدخله أمام سماء غائمة'
 heroCredit: 'Benjy8769 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'

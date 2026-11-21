@@ -97,7 +97,7 @@ visitFacts:
   watch: '스믕고(Semenggoh)의 오랑우탄은 반(半)야생 상태로 주변 숲에서 자유로이 먹이를 찾으므로 목격은 결코 보장되지 않으니, 어떤 목격이든 약속이 아닌 보너스로 여기십시오.'
   next: '출발 전에 현재의 사라왁 입국 요건과 공원·축제 시기는 사라왁 관광청(Sarawak Tourism Board)과 각 공원의 공식 운영사에 확인하십시오.'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: '황혼의 쿠칭 워터프런트에서 사라왁강 건너로 솟은 우산 모양 지붕의 사라왁 주의회 건물'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

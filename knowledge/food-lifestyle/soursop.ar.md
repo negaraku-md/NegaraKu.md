@@ -84,7 +84,7 @@ drinkFacts:
   served: "يُقدَّم باردًا، مخفوقًا طازجًا عند الطلب — أخفّ بالماء، أغنى بالحليب سموذي. مشروب فاكهة منعش؛ استمتع به بوصفه كذلك، ولاحظ أنّ الادّعاءات الصحّية و«المضادة للسرطان» المرتبطة بالـsoursop غير مُثبَتة في البشر ولا بديل عن الرعاية الطبية."
   where: "يوجد في بارات العصائر وأكشاك الباعة وأكشاك الفاكهة في عموم البلاد، حيثما تُخفَق عصائر الفاكهة المدارية الطازجة."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'كومة من فاكهة القشطة الشائكة الخضراء الطازجة على منصّة سوق، مع بابايا وموز في الخلفية'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

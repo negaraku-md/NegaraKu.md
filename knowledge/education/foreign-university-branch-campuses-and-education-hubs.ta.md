@@ -114,7 +114,7 @@ stayFacts:
   watch: 'பட்டம் எடுத்துச்செல்லத்தக்கதாக இருந்தாலும் அனுபவம் உள்ளூர்த்தன்மை கொண்டது — வகுப்பின் அளவு, வசதிகள் மற்றும் வளாக வாழ்க்கை, தனித்த வளாகத்திற்கும் பகிரப்பட்ட கல்வி-நகர வளாகத்திற்கும் இடையே பரவலாக வேறுபடுகின்றன. கிளை-வளாகப் படிப்புகளுக்கும் MQA அங்கீகாரம் தேவை, அவை MQR-இல் தோன்றுகின்றன.'
   next: 'சிறப்புத்துறை மற்றும் இடத்தின் அடிப்படையில் குறுகிய பட்டியல் தயாரித்து, சரியான படிப்பை MQR-இல் சரிபார்த்து, சர்வதேச-சேர்க்கை அனுமதியை வளாகத்துடன் உறுதிப்படுத்தவும். மலேசியாவில் படிப்பது, மற்றும் அரசு vs தனியார் பல்கலைக்கழகங்கள் என்பதைப் பார்க்கவும்.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'நாடகீய வானத்திற்குக் கீழே, தொங்கும் பசுமையும் மரங்களும் சூழ்ந்த கண்ணாடி-அமைதி பச்சை ஏரிக்கு அப்பால் உயரும் கடிகார கோபுரத்துடன் கூடிய வெள்ளை நவீனத்துவ பல்கலைக்கழகக் கட்டிடம்'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

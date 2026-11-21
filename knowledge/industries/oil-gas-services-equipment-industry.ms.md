@@ -99,7 +99,7 @@ keywords:
   - Pelan Tindakan OGSE Negara
 framework: profile
 hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
-heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroAlt: 'Sebuah pelantar penggerudian luar pesisir separa tenggelam dilihat dari hadapan di laut, dek berkotaknya dan menara penggerudian tengah yang tinggi disokong dua apung tenggelam, dengan tali sauh menjulur ke air dan kapal bekalan jauh di ufuk'
 heroCredit: 'Calistemon / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'

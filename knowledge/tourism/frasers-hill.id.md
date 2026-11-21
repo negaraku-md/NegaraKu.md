@@ -97,7 +97,7 @@ visitFacts:
   watch: 'Jalan pegunungan yang sempit dan berkelok-kelok lambat serta rentan tertutup setelah hujan, tanah longsor, atau pohon tumbang, dan bukit itu sendiri sering berkabut dan basah, dengan pilihan santap serta pasokan yang terbatas.'
   next: 'Konfirmasikan pengaturan akses jalan terkini dan setiap penutupan dengan otoritas jalan (JKR) sebelum Anda bepergian.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'Menara jam batu yang digantungi bendera Malaysia di samping bangunan bergaya Tudor setengah kayu di bawah kabut kelabu dan pohon pinus tinggi di Fraser''s Hill'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

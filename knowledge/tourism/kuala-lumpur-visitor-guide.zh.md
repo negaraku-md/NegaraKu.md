@@ -105,7 +105,7 @@ visitFacts:
   watch: '市中心高峰时段交通繁忙，故跨城出行时列车通常比汽车更快。'
   next: '请向国油双峰塔官方网站（petronastwintowers.com.my）确认当前的开放时间与购票安排。'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: '金色落日天空下，亮灯的国油双峰塔耸立于吉隆坡市中心之上'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

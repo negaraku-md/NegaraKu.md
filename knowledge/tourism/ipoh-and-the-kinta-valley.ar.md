@@ -121,7 +121,7 @@ visitFacts:
   watch: 'خلافاً للترويج السياحي غير الدقيق، فإن Kinta Valley جيوبارك وطني، وليس جيوبارك عالمياً تابعاً لليونسكو (UNESCO Global Geopark).'
   next: 'تأكّد من جداول القطارات وأسعارها الحالية مع KTMB قبل السفر.'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'منظر فوق بادانغ إيبوه الأخضر ومركز المدينة التراثي مع تلال جيرية مسنّنة ترتفع خلفها تحت سماء زرقاء ضبابية'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

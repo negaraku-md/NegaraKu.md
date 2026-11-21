@@ -101,7 +101,7 @@ visitFacts:
   watch: 'Reserve con mucha antelación los puntos estrella, escasos y regulados por permiso, y planifique en torno al cierre anual de Sipadan en noviembre para la recuperación del arrecife, porque estas piezas se agotan y no pueden asegurarse a la llegada.'
   next: 'Confirme las normas vigentes de entrada, de pase de visita y de permisos con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia) y Sabah Parks antes de viajar.'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: 'La cima de granito del St. John''s Peak en el Monte Kinabalu resplandeciendo de rosa al amanecer sobre un mar de nubes'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

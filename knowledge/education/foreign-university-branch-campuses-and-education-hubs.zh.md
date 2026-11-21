@@ -114,7 +114,7 @@ stayFacts:
   watch: '学位可携带，但就读体验是本地的——独立校区与共享型教育城校区之间，班级规模、设施与校园生活差异很大。分校课程同样需获MQA认证，并列入MQR。'
   next: '先按专业与地点圈定候选名单，在MQR上查证确切课程，并向校区确认其招收国际学生的批准。参阅《留学大马》与《公立与私立大学》。'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: '一座带钟楼的白色现代主义大学建筑矗立在一片平静如镜的绿色湖泊之后，湖畔垂挂着绿植和树木，天空壮观'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

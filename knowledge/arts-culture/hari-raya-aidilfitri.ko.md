@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "첫째 날과 둘째 날은 말레이시아 전역에서 연방 공공 공휴일로 관보에 고시된다."
   etiquette: "여러 민족의 손님을 개방 가옥에 환영하며, 단정하게 옷을 입고, 대개 집에 들어가기 전에 신발을 벗는다."
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: '페락주 알로르 퐁수에서 하리라야 아이딜피트리 아침 예배를 마치고 축제용 바주 믈라유를 입고 쌍첨탑 마을 모스크를 나서는 인파'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

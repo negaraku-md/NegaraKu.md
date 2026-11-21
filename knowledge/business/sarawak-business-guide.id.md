@@ -114,7 +114,7 @@ keywords:
   - "perniagaan di Sarawak"
 framework: explainer
 hero: '/media/business/sarawak-business-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building on the bank of the Sarawak River, with a traditional boat on the water and a city office tower to the left'
+heroAlt: 'Gedung Dewan Undangan Negeri Sarawak beratap payung di tepi Sungai Sarawak, dengan perahu tradisional di air dan menara perkantoran kota di sebelah kiri'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'

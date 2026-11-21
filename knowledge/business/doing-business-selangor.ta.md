@@ -117,7 +117,7 @@ keywords:
   - "Port Klang TEU"
 framework: profile
 hero: '/media/business/doing-business-selangor/hero.webp'
-heroAlt: 'Rows of tall blue ship-to-shore gantry cranes loading a container vessel at Northport in Port Klang, with stacked shipping containers and a container truck on the wharf road'
+heroAlt: 'Port Klang-ல் உள்ள Northport-ல் ஒரு கன்டெய்னர் கப்பலை ஏற்றும் உயர்ந்த நீல கப்பல்-கரை gantry கிரேன்களின் வரிசைகள்; துறைமுகச் சாலையில் அடுக்கிய கன்டெய்னர்களும் ஒரு கன்டெய்னர் லாரியும்'
 heroCredit: 'Hafiz343 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'

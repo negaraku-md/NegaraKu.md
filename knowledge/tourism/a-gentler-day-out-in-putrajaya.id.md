@@ -80,7 +80,7 @@ entity: "Putrajaya (ibu kota administratif federal Malaysia)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
 hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
-heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroAlt: 'Masjid Putra berkubah merah muda di samping menaranya dan kompleks pemerintah Perdana Putra, terpantul di Tasik Putrajaya di bawah awan yang dramatis'
 heroCredit: 'Stefan Fussan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'

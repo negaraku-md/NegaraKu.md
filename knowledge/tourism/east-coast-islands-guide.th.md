@@ -79,7 +79,7 @@ visitFacts:
   watch: 'ไม่มีการปิดบังคับแบบเดียวกันทั้งหมด แต่ผู้ประกอบการบนเกาะส่วนใหญ่ปิดโดยสมัครใจในช่วงมรสุมตะวันออกเฉียงเหนือ จึงควรยืนยันการรับส่งด้วยเรือก่อนชำระเงินเมื่อใกล้เดือนเหล่านั้น'
   next: 'ตรวจสอบค่าธรรมเนียมอนุรักษ์และกฎอุทยานทางทะเลปัจจุบันกับกรมประมงมาเลเซีย (Department of Fisheries Malaysia)'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'ชายหาดทรายขาวว่างเปล่าพร้อมก้อนหินแกรนิตสึกกร่อน ต้นไม้โดดเดี่ยวและน้ำตื้นสีเทอร์คอยส์ใต้ท้องฟ้าสีครามมีเมฆคิวมูลัสที่หมู่เกาะเปอร์เฮนเตียน'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

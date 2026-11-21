@@ -75,7 +75,7 @@ related: ["penang", "minimum-wage-and-median-income", "household-spending-breakd
 keywords: ["تكلفة المعيشة بينانغ", "cost of living Penang", "بينانغ مقابل وادي كلانغ", "Penang vs Klang Valley cost of living", "إيجار جورج تاون", "سيبيرانغ بيراي", "جزيرة بينانغ مقابل البرّ الرئيسي", "دخل الأسرة بينانغ"]
 framework: data-reference
 hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
-heroAlt: 'The dense George Town skyline at dusk, with the lit Komtar tower rising over the Penang city centre'
+heroAlt: 'أفق جورج تاون الكثيف عند الغسق، مع برج كومتار المضاء يرتفع فوق مركز مدينة بينانغ'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'

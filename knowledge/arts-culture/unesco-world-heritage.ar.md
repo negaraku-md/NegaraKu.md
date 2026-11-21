@@ -92,7 +92,7 @@ related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "التراث العالمي اليونسكو ماليزيا", "معايير إدراج جورج تاون ملقا", "George Town Melaka inscription criteria", "غونونغ مولو التراث العالمي", "وادي لنغونغ إنسان بيراك", "كهوف نياه اليونسكو 2024", "Niah Caves UNESCO 2024"]
 framework: data-reference
 hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
-heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroAlt: 'مبنى ستادثويس الهولندي بلونه الطوبي الأحمر الغامق وبرج ساعته المربّع في ملقا، محاطَين بدوّار مزروع بأوراق حمراء وخضراء، مع لافتات إرشادية في المقدمة تحت سماء غائمة ساطعة'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'

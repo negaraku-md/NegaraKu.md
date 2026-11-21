@@ -72,7 +72,7 @@ related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
 hero: '/media/states/kuala-lumpur/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroAlt: '쿠알라룸푸르의 황금빛 황혼 하늘을 배경으로 KLCC 지구 스카이라인 위로 솟은 조명 받은 페트로나스 트윈타워'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

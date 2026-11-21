@@ -94,7 +94,7 @@ related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["मलेशिया विदेश नीति", "Wisma Putra", "विदेश मंत्रालय", "ZOPFAN", "तटस्थता नीति", "मलेशिया कूटनीति", "ASEAN", "सामरिक योजना 2026-2030", "non-alignment"]
 framework: explainer
 hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
-heroAlt: 'Palm-lined approach to Wisma Putra showing the Wisma Putra Kementerian Luar Negeri Malaysia signboard and the ministry tower beyond'
+heroAlt: 'विस्मा पुत्रा का ताड़-पंक्तिबद्ध प्रवेश-मार्ग, जिसमें Wisma Putra Kementerian Luar Negeri Malaysia साइनबोर्ड और पीछे मंत्रालय मीनार दिख रही है'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'

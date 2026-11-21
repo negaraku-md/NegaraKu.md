@@ -72,7 +72,7 @@ related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-musi
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
 hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
-heroAlt: 'A towering pyramidal South Indian temple gopuram rising to a point, every tier packed with colourful sculpted Hindu gods, horses and figures in reds, greens, blues and gold, photographed looking steeply upward against a blue sky with clouds'
+heroAlt: 'Gopuram kuil India Selatan berbentuk piramida menjulang ke puncak, setiap tingkat dipadati patung dewa Hindu, kuda, dan sosok warna-warni berwarna merah, hijau, biru, dan emas, difoto dengan sudut mendongak tajam ke langit biru berawan'
 heroCredit: 'Jorge Láscar / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'

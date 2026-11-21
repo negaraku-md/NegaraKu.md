@@ -97,7 +97,7 @@ visitFacts:
   watch: 'Semenggoh-இல் ஒராங்குட்டான் தரிசனம் ஒருபோதும் உத்தரவாதம் அளிக்கப்படுவதில்லை, ஏனெனில் அரை-காட்டு வானரங்கள் சுற்றியுள்ள காட்டில் தீவனம் தேட சுதந்திரமானவை — எந்தத் தரிசனத்தையும் ஒரு வாக்குறுதியாக அல்லாமல் ஒரு போனஸாகக் கருதுங்கள்.'
   next: 'நீங்கள் பயணிப்பதற்கு முன் தற்போதைய Sarawak நுழைவுத் தேவைகளையும் பூங்கா அல்லது விழா நேரங்களையும் Sarawak Tourism Board மற்றும் பூங்காக்களின் அதிகாரப்பூர்வ இயக்குநர்களுடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: 'அந்திப்பொழுதில் Kuching நீர்க்கரையிலிருந்து Sarawak ஆற்றின் அக்கரையில் உயரும் குடை-கூரை Sarawak மாநில சட்டமன்றக் கட்டிடம்'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

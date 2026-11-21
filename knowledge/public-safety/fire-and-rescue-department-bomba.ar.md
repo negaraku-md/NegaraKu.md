@@ -92,7 +92,7 @@ related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "دائرة الإطفاء والإنقاذ الماليزية", "Fire and Rescue Department", "قانون خدمات الإطفاء 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
 hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
-heroAlt: 'Several identical bright-red Scania Bomba fire engines in matching ''Bomba dan Penyelamat'' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky'
+heroAlt: 'عدة شاحنات إطفاء سكانيا حمراء زاهية متطابقة بطلاء ''Bomba dan Penyelamat'' متوقّفة متلاصقة في صفّ مرتّب على أرض مفتوحة بجانب مبنى المركز، تحت سماء زرقاء صافية'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'

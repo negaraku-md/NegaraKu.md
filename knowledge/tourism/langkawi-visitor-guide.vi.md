@@ -111,7 +111,7 @@ visitFacts:
   watch: 'Đừng mua quá nhiều rượu miễn thuế để mang về nhà — giá rẻ là để thưởng thức trên đảo, và chỉ một hạn mức hạn chế mới qua được hải quan trên đất liền.'
   next: 'Hãy xác nhận lịch phà hiện tại với các nhà điều hành phà, và hạn mức miễn thuế với Cục Hải quan Hoàng gia Malaysia (RMCD).'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'Cầu trời Langkawi Sky Bridge uốn cong treo lơ lửng cao giữa những đỉnh núi phủ rừng trên biển Andaman'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

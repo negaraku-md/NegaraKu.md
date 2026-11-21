@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "이를 관보에 고시하는 주 및 연방직할지(쿠알라룸푸르, 푸트라자야, 셀랑고르, 페낭, 페락, 느그리슴빌란, 조호르, 케다 포함)에서만 공휴일이며, 전국적인 연방 공휴일은 아니다."
   etiquette: "비힌두교도도 행렬과 등반을 참관할 수 있으며, 사원 근처에서는 단정하게 옷을 입고 요구되는 곳에서는 신발을 벗으며, 카바디(kavadi)를 짊어진 신자를 촬영하기 전에는 먼저 양해를 구한다."
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: '타이푸삼 동안, 우뚝 솟은 석회암 절벽 아래 화려한 동굴 사원 성소를 향해 무지개빛으로 칠해진 바투 동굴의 계단을 오르는 신자들'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

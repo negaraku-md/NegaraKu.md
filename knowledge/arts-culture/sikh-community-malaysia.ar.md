@@ -84,7 +84,7 @@ related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "de
 keywords: ["السيخ في ماليزيا", "Sikh Malaysia", "البنجاب في ماليزيا", "Punjabi Malaysia", "غوردوارا", "gurdwara", "فايساخي", "Vaisakhi", "الخالصة", "Khalsa", "لانغار", "langar", "Tatt Khalsa Diwan", "اللغة البنجابية"]
 framework: history-culture
 hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
-heroAlt: 'A low-angle view of the white castellated facade of the Gurdwara Sahib Sikh temple in Johor Bahru, the gold Sikh Khanda emblem and Gurmukhi lettering on its front, a Malaysian flag flying from the balcony and a city high-rise rising behind it against a blue sky'
+heroAlt: 'منظر من زاوية منخفضة للواجهة البيضاء ذات الشرفات لمعبد غوردوارا صاحب السيخي في جوهور بهرو، شعار الخاندا السيخي الذهبي وحروف الغورموخي على مقدمته، وعلم ماليزي يرفرف من الشرفة وبرج مدينة شاهق خلفه أمام سماء زرقاء'
 heroCredit: 'Zahirulnukman / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'

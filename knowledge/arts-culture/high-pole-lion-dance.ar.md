@@ -75,7 +75,7 @@ related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
 hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
-heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroAlt: 'زيّ رقصة أسد أبيض وذهبي بداخله مؤدّيان ملتقَط في منتصف قفزة في الهواء فوق صفّ من الأعمدة المعدنية الطويلة في مسابقة'
 heroCredit: 'KQuhen / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'

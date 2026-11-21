@@ -109,7 +109,7 @@ related: []
 keywords: ["Proton", "Perodua", "national car", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "National Automotive Policy", "NAP 2020", "electric vehicles Malaysia", "e.MAS 7", "QV-E"]
 framework: profile
 hero: '/media/industries/automotive-industry/hero.webp'
-heroAlt: 'A white Proton Saga sedan with the Proton tiger-head badge on its grille, parked outdoors'
+heroAlt: '그릴에 프로톤 호랑이 머리 엠블럼이 달린 흰 프로톤 사가 세단이 야외에 주차된 모습'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'

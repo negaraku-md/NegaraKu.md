@@ -84,7 +84,7 @@ drinkFacts:
   served: "从瓶中或罐中冰镇饮用。一种广受喜爱的本地变化是「Sarsi susu」——Sarsi 倒入淡奶、炼乳或鲜奶，做成一杯绵密的漂浮。香甜而带气；一款汽水美味，而非现冲的 kopitiam 饮品。"
   where: "遍布全国的杂货店、超市、kopitiam 与家庭聚会中都有——冷藏货架上的怀旧常备品。"
 hero: '/media/food/sarsi/hero.webp'
-heroAlt: 'A tall dimpled glass mug of dark, fizzy sarsaparilla soda (sarsi) with a foamy head, in sunlight'
+heroAlt: '阳光下一只高高的带凹纹玻璃杯，盛着深色起泡的沙示汽水（sarsi），顶着一层泡沫'
 heroCredit: 'Markmark28 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'

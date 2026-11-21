@@ -84,7 +84,7 @@ festivalFacts:
   holiday: "முதல் மற்றும் இரண்டாம் நாட்கள் மலேசியா முழுவதும் கூட்டரசு பொது விடுமுறைகளாக அரசிதழில் அறிவிக்கப்படுகின்றன."
   etiquette: "பல்வேறு இனத்தைச் சேர்ந்த விருந்தினர்கள் திறந்த இல்லத்திற்கு வரவேற்கப்படுகிறார்கள்; அடக்கமான உடை அணியவும், இல்லத்திற்குள் நுழைவதற்கு முன் வழக்கமாகக் காலணிகளைக் கழற்றவும்."
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'Perak மாநிலம் Alor Pongsu-வில், ஐதில்பித்ரி காலைத் தொழுகைக்குப் பிறகு, இரட்டை மினாரெட் கொண்ட கிராம பள்ளிவாசலிலிருந்து திருவிழா baju Melayu அணிந்து வெளியேறும் கூட்டம்'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "首日与第二日在全马来西亚被列入宪报,定为联邦公共假期。"
   etiquette: "欢迎各族宾客到开放门户(rumah terbuka)作客;衣着应端庄,并通常在进屋前脱鞋。"
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: '霹雳州Alor Pongsu，开斋节晨祷后，身着节日巴迪马来服的人群走出一座双宣礼塔的乡村清真寺'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

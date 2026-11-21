@@ -79,7 +79,7 @@ visitFacts:
   watch: 'No hay un único cierre obligatorio, pero la mayoría de los operadores de las islas cierran voluntariamente durante el monzón del nordeste, así que cerca de esos meses confirme los traslados en barco antes de pagar.'
   next: 'Confirme las tasas de conservación vigentes y las normas de los parques marinos con el Departamento de Pesca de Malasia (Department of Fisheries Malaysia).'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'Playa vacía de arena blanca con cantos rodados de granito erosionados, un árbol solitario y aguas someras turquesas bajo un cielo azul con nubes cúmulo en las Islas Perhentian'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

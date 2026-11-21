@@ -80,7 +80,7 @@ related: ["kuala-lumpur-visitor-guide"]
 keywords: ["jour de pluie Kuala Lumpur", "activités d'intérieur KL", "KL en transports publics", "passerelle KLCC Bukit Bintang", "Suria KLCC train", "comment aller à Aquaria KLCC", "Petrosains", "Muzium Negara MRT", "centres commerciaux KL en train"]
 framework: how-to
 hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
-heroAlt: 'A tropical downpour streaking over an old tile-roofed shophouse on Jalan Panggong in Kuala Lumpur''s old quarter'
+heroAlt: 'Une averse tropicale striant un ancien shophouse au toit de tuiles sur Jalan Panggong dans le vieux quartier de Kuala Lumpur'
 heroCredit: 'Alexey Komarov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'

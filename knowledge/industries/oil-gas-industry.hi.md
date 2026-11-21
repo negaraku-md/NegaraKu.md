@@ -92,7 +92,7 @@ related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["मलेशिया तेल और गैस", "oil and gas Malaysia", "PETRONAS", "उत्पादन-साझेदारी अनुबंध", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "अपस्ट्रीम", "upstream", "डाउनस्ट्रीम", "downstream", "LNG", "पेट्रोलियम आय कर", "petroleum income tax"]
 framework: profile
 hero: '/media/industries/oil-gas-industry/hero.webp'
-heroAlt: 'Aerial view of the Bintulu LNG export jetty in Sarawak: a concrete platform on steel piles carrying clusters of tall marine loading arms and pipework over turquoise sea, with the port and gas-plant skyline behind'
+heroAlt: 'सारावाक में बिंतुलु LNG निर्यात घाट का हवाई दृश्य: फ़िरोज़ी समुद्र के ऊपर ऊँची समुद्री लोडिंग भुजाओं और पाइपवर्क के समूहों को धारण करता इस्पात के खंभों पर एक कंक्रीट मंच, पीछे बंदरगाह और गैस-संयंत्र की क्षितिज-रेखा'
 heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'

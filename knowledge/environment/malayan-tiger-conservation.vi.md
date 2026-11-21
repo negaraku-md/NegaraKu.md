@@ -80,7 +80,7 @@ related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
 hero: '/media/environment/malayan-tiger-conservation/hero.webp'
-heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroAlt: 'Một con hổ Mã Lai nằm nghỉ trên nền tán lá nhiệt đới xanh, nhìn vào ống kính'
 heroCredit: 'Tu7uh / Wikimedia Commons'
 heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'

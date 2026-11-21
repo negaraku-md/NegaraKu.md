@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Causeway ติดขัดในเย็นวันศุกร์ วันหยุดสุดสัปดาห์ ช่วงปิดเทอมของสิงคโปร์ และวันก่อนวันหยุดราชการ จึงควรข้ามแต่เช้า เลี่ยงเวลากลับช่วงพีก และเปลี่ยนไปใช้ Second Link เมื่อรถติด'
   next: 'ตรวจสอบการจัดการข้ามแดน RTS Link และใบอนุญาตอุทยานปัจจุบันกับหน่วยงานขนส่งทางการของมาเลเซียและสิงคโปร์ และหน่วยงานอุทยานที่เกี่ยวข้องก่อนเดินทาง'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'มัสยิดรัฐสุลต่านอาบูบาการ์สไตล์วิกตอเรียน-มัวร์สีขาวในยะโฮร์บาห์รู พร้อมหอสุเหร่าสูงและโดมสีดำใต้ท้องฟ้าครึ้ม'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

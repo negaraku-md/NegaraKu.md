@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "Bukan hari libur umum secara nasional maupun di negeri mana pun di Malaysia; persembahan, Ullambana dan panggung hiburan (getai) umumnya berlangsung pada sore dan malam hari seusai jam kerja."
   etiquette: "Barisan kursi paling depan di panggung hiburan sengaja dikosongkan untuk tamu tak kasat mata, penonton umumnya tidak duduk di baris pertama; di kalangan rakyat juga ada anjuran agar tidak menginjak sesajen di tepi jalan, dan tidak sembarangan memungut barang bernilai di tanah."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'Panggung festival di bawah tenda bercahaya lengkung neon merah, panel berbentuk bintang, dan papan LED beraksara Tionghoa yang bergulir pada malam getai bulan ketujuh'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

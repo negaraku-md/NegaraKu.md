@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Causeway வெள்ளிக்கிழமை மாலைகள், வார இறுதிகள், சிங்கப்பூர் பள்ளி விடுமுறைகள் மற்றும் பொது-விடுமுறை முன்தினங்களில் நெரிசலாகிறது, எனவே சீக்கிரம் கடந்து செல்லுங்கள், உச்ச திரும்பு நேரங்களைத் தவிர்க்கவும், நெரிசலாகும்போது Second Link-க்கு மாறுங்கள்.'
   next: 'நீங்கள் பயணிப்பதற்கு முன் தற்போதைய கடப்பு, RTS Link மற்றும் பூங்கா-அனுமதிச்சீட்டு ஏற்பாடுகளை அதிகாரப்பூர்வ மலேசிய மற்றும் சிங்கப்பூர் போக்குவரத்து அதிகாரிகளுடனும் தொடர்புடைய பூங்கா அதிகாரத்துடனும் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'மேகமூட்ட வானத்திற்குக் கீழே, உயர்ந்த மினாரெட்-கோபுரங்களும் கருப்பு குவிமாடங்களும் கொண்ட Johor Bahru-வில் உள்ள வெள்ளை விக்டோரிய-மூரிஷ் Sultan Abu Bakar மாநில பள்ளிவாசல்'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

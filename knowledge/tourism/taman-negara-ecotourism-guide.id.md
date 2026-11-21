@@ -86,7 +86,7 @@ visitFacts:
   watch: 'Musim angin timur laut dapat membuat sungai meluap serta mengganggu perahu dan jalur, jembatan kanopi pernah ditutup, dan lintah serta kelembapan konstan — konfirmasikan akses dan pesan pemandu di muka.'
   next: 'Konfirmasikan aturan dan biaya izin serta masuk terkini dengan kantor Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) di Taman Negara Pahang.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'Perbukitan bergelombang hutan hujan tropis lebat membentang hingga ke cakrawala di bawah langit biru di Taman Negara'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

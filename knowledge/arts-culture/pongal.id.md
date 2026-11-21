@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "Bukan hari libur umum yang diwartakan baik di tingkat persekutuan maupun di tingkat negeri mana pun di Malaysia. (Hanya Deepavali yang merupakan hari libur umum persekutuan — kecuali Sarawak; Thaipusam hanya libur di sebagian negeri.)"
   etiquette: "Terutama merupakan perayaan budaya terkait panen, bersifat sekuler (diklarifikasi oleh seorang menteri Malaysia pada 2020); organisasi komunitas dan kuil mengadakan perayaan publik dengan memasak pongal bersama dalam banyak periuk sekaligus, disertai pertunjukan seni."
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'Seorang wanita tersenyum bersari ungu dan emas mengaduk nasi Pongal yang mengepul dalam pot tanah liat yang dikelilingi untaian bunga marigold, memasak di tempat terbuka di sebuah kuil Hindu saat Thai Pongal'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

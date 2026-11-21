@@ -99,7 +99,7 @@ keywords:
   - National OGSE Blueprint
 framework: profile
 hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
-heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroAlt: 'Une plateforme de forage offshore semi-submersible vue de face en mer, son pont trapu et son grand derrick central soutenus par deux pontons immergés, avec des lignes d''ancrage descendant vers l''eau et des navires ravitailleurs lointains à l''horizon'
 heroCredit: 'Calistemon / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'

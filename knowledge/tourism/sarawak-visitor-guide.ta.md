@@ -99,7 +99,7 @@ visitFacts:
   watch: 'Mulu-இன் சிறிய விமானங்கள் வானிலையால் வழக்கமாகத் தாமதமாகின்றன அல்லது ரத்து செய்யப்படுகின்றன, எனவே கூடுதல் நாட்களை ஒதுக்குங்கள், பூங்காவிலிருந்து வெளியேறும் இறுக்கமான தொடர் இணைப்பை ஒருபோதும் முன்பதிவு செய்யாதீர்கள்.'
   next: 'உங்கள் நாட்டினருக்கான தற்போதைய விசா மற்றும் MDAC தேவைகளை Immigration Department of Malaysia-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Sarawak Gunung Mulu National Park-ல் பச்சை மழைக்காட்டையும் மூடுபனியையும் துளைக்கும் கூரான சாம்பல் சுண்ணாம்புக்கல் சிகரங்களின் காடு'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

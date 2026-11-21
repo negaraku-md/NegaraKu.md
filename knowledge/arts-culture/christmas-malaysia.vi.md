@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "Lễ Giáng sinh, ngày 25 tháng 12, là ngày lễ công cộng trên toàn quốc tại tất cả các bang và lãnh thổ liên bang (First Schedule của Holidays Act 1951 (Act 369) ở Bán đảo; các pháp lệnh bang tại Sabah và Sarawak). Sabah còn công bố đêm Giáng sinh, ngày 24 tháng 12, là ngày lễ công cộng cấp bang theo Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "Truyền thống open house — tiếp đón khách thuộc mọi nền tảng cho một bữa ăn chung — được áp dụng cho Giáng sinh như với các lễ hội khác; các gia đình Kitô hữu đứng ra tiếp đón thường chào đón khách thuộc các tín ngưỡng khác, và việc thăm viếng diễn ra theo cả hai chiều xuyên suốt lịch lễ hội."
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'Một cây thông Giáng sinh trang trí lộng lẫy vươn cao qua giếng trời của trung tâm thương mại Pavilion Kuala Lumpur, xung quanh là những chiếc đèn lồng vàng treo, một vòng ngựa quay và đám đông người mua sắm trên thảm đỏ'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

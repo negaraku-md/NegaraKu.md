@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "Là ngày lễ công cộng tại bang Sabah và lãnh thổ liên bang Labuan vào ngày 30 và 31 tháng 5; không phải ngày lễ công cộng trên toàn quốc."
   etiquette: "Hãy hiểu Unduk Ngadau là một cuộc trình diễn văn hóa tôn vinh truyền thuyết Huminodun, chứ không phải một cuộc thi sắc đẹp thông thường, và hãy nhìn nhận tín ngưỡng Bambaazon cùng truyền thuyết Huminodun một cách tôn trọng như truyền thống riêng của cộng đồng, chứ không phải như sự thật được khẳng định."
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: 'Các thầy cúng bobohizan nam nữ người Kadazan-Dusun trong trang phục truyền thống đen và vàng thực hiện nghi lễ Kaamatan trên một sân khấu lung linh ánh sao ở Penampang, Sabah'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

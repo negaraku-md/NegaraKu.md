@@ -97,7 +97,7 @@ visitFacts:
   watch: '在实蒙谷（Semenggoh）目击红毛猩猩永无保证，因为这些半野生猿类可在周边森林自由觅食——请把任何目击都当作意外之喜，而非承诺。'
   next: '出发前请向砂拉越旅游局（Sarawak Tourism Board）及各公园的官方营运方确认当前的砂拉越入境要求与公园或节庆的时间安排。'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: '暮色中，从古晋滨水区隔着砂拉越河望去伞状屋顶的砂拉越州立法议会大厦'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

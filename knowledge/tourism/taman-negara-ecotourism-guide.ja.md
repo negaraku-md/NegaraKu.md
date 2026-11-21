@@ -85,7 +85,7 @@ visitFacts:
   watch: '北東モンスーンは川を増水させてボートや小道を乱すことがあり、キャノピーウォークは閉鎖されたこともあり、ヒルと湿気は常に付きまとう——アクセスを確認し、ガイドを前もって予約すること。'
   next: '現在の許可・入域の規則と料金は、Taman Negara PahangにあるDepartment of Wildlife and National Parks（PERHILITAN）の事務所で確認すること。'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'タマン・ネガラの青空の下、地平線まで広がる密な熱帯雨林の起伏する丘'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

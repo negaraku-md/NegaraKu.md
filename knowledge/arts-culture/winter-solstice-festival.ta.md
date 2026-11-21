@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "பொது விடுமுறை அல்ல — குளிர்கால உச்சநிலை (冬至) மலேசியாவில் நாடளாவிய அளவிலோ எந்த மாநில அளவிலோ பொது விடுமுறை அல்ல."
   etiquette: "சீனர்கள் பெரும்பாலும் வீட்டில் அமைதியாகக் கொண்டாடுகின்றனர் — குடும்பத்தினர் ஒன்றாக அமர்ந்து tangyuan உருட்டி, ஒரு உணவைப் பகிர்ந்து கொள்கின்றனர், பெரிய பொது நிகழ்வுகள் நடத்துவதில்லை; சில குடும்பங்கள் முதலில் tangyuan-ஐ மூதாதையர்களுக்கும் தெய்வங்களுக்கும் படைத்து வழிபட்டு பிறகு குடும்பத்துடன் சேர்ந்து உண்கின்றனர், இந்த வழக்கம் குடும்பம் மற்றும் மொழிக் குழுவுக்கு ஏற்ப வேறுபடும்."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'நீல விளிம்பு கொண்ட பீங்கான் கரண்டி வைக்கப்பட்ட, தெளிந்த இனிப்பு பாகில் மிதக்கும் வெளிர் இளஞ்சிவப்பு, ஊதா, மஞ்சள் பசை அரிசி உருண்டைகளின் வெள்ளைக் கிண்ணம்'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

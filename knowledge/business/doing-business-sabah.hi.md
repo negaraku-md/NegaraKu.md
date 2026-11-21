@@ -128,7 +128,7 @@ keywords:
   - "Trades Licensing Ordinance Sabah Cap 144"
 framework: profile
 hero: '/media/business/doing-business-sabah/hero.webp'
-heroAlt: 'Bright daytime view of downtown Kota Kinabalu with commercial office towers and shopping complexes beside a blue waterfront bay and islands'
+heroAlt: 'नीली तटीय खाड़ी और द्वीपों के किनारे व्यावसायिक कार्यालय मीनारों और शॉपिंग परिसरों के साथ कोटा किनाबालू के मध्यभाग का उजला दिन का दृश्य'
 heroCredit: 'Jason Thien / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'

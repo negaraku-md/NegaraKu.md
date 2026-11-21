@@ -120,7 +120,7 @@ visitFacts:
   watch: 'يزدحم Causeway مساء الجمعة وعطلات نهاية الأسبوع وعطلات مدارس سنغافورة وليالي العطلات الرسمية، لذا اعبر مبكراً، وتجنّب أوقات العودة في الذروة، وانتقل إلى Second Link حين يكون مزدحماً.'
   next: 'تأكّد من ترتيبات العبور وRTS Link وتصاريح المنتزهات الحالية مع هيئات النقل الرسمية الماليزية والسنغافورية وهيئة المنتزه المعنية قبل أن تسافر.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'مسجد السلطان أبو بكر الولائي الأبيض بطراز فيكتوري-موري في جوهور بهرو، بأبراج مآذنه الطويلة وقبابه السوداء تحت سماء غائمة'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

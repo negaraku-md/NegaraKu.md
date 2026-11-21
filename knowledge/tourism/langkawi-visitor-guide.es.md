@@ -111,7 +111,7 @@ visitFacts:
   watch: 'No compre de más licor libre de impuestos para llevar a casa — los precios baratos son para disfrutarlos en la isla, y solo una franquicia limitada pasa la aduana en el continente.'
   next: 'Confirme los horarios de los ferris vigentes con los operadores de ferri, y las franquicias libres de impuestos con el Departamento de Aduanas de Malasia (Royal Malaysian Customs Department, RMCD).'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'El curvo Langkawi Sky Bridge suspendido a gran altura entre picos montañosos cubiertos de jungla sobre el mar de Andamán'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

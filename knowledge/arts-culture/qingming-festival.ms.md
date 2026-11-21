@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "清明节 bukan cuti umum di Malaysia, dan pada hari itu kebanyakan perniagaan beroperasi seperti biasa."
   etiquette: "Oleh sebab pembakaran wang kertas emas-perak dan persembahan kertas melibatkan api terbuka dan asap, sesetengah tanah perkuburan dan taman peringatan menetapkan kawasan pembakaran atau mengenakan peraturan, dan sejak beberapa tahun kebelakangan ini ada juga yang beralih kepada cara yang lebih mesra alam."
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'Sebuah kubur Cina batu kelabu besar dengan kepungan berbentuk omega melengkung dan laman penyembahan berjubin merah terletak di atas bukit berumput di Bukit Cina di Melaka, dengan sebuah makam dewa bumi berkubah berasingan berdekatan dan seorang lalu-lalang berjalan di antara pepohon'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

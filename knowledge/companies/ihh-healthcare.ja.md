@@ -78,7 +78,7 @@ verificationNeeded:
   - "株主構成——三井物産は（MBK Healthcare Management を通じて）約32～33%を、Khazanah Nasional が相当規模の少数持分を保有するとされる。正確な比率は売り出しや買い増しとともに変わる；数字を引用する前に最新の Bursa Malaysia／SGX 開示に照らして検証する。"
 framework: profile
 hero: '/media/companies/ihh-healthcare/hero.webp'
-heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroAlt: '青空を背にしたグレンイーグルス病院ペナンの高いクリーム・赤・青のファサード。青い「Gleneagles PENANG」の名称が下の壁と屋上のパラペットの両方に掲げられる'
 heroCredit: 'Vnonymous / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'

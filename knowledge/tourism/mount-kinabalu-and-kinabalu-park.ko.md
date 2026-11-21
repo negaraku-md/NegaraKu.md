@@ -101,7 +101,7 @@ visitFacts:
   watch: '고도 증세와 체력이 중요하고 산 스스로 날씨를 만드는 힘든 이틀간의 고산 등반이며, 대지진 같은 사건 후 접근로와 경로가 바뀔 수 있으니 최신 정보로 계획하십시오.'
   next: '현재의 허가, 가이드, 숙박 규정과 요금은 Sabah Parks에 확인하십시오.'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: '아침, 사바에서 구름과 초록 산기슭 위로 솟은 키나발루산의 들쭉날쭉한 화강암 정상'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

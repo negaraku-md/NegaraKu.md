@@ -85,7 +85,7 @@ drinkFacts:
   served: "Servi froid, mixé frais à la commande — plus léger avec de l'eau, plus riche avec du lait en smoothie. Une boisson de fruit rafraîchissante ; savourez-la comme telle, et notez que les allégations de santé et « anticancer » attachées au corossol ne sont pas prouvées chez l'humain et ne remplacent pas un soin médical."
   where: "On le trouve dans les bars à jus, les stands de rue et les étals de fruits de tout le pays, partout où l'on mixe des jus de fruits tropicaux frais."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'Un tas de corossols frais, verts et épineux sur un étal de marché, avec des papayes et des bananes à l''arrière-plan'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

@@ -111,7 +111,7 @@ visitFacts:
   watch: 'N''achetez pas trop d''alcool hors taxes pour le rapporter chez vous — les prix bas sont faits pour en profiter sur l''île, et seule une franchise limitée passe la douane sur le continent.'
   next: 'Confirmez les horaires des ferries en vigueur auprès des opérateurs de ferry, et les franchises hors taxes auprès du Département royal des douanes de Malaisie (Royal Malaysian Customs Department, RMCD).'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'Le Langkawi Sky Bridge incurvé suspendu haut entre des pics montagneux couverts de jungle au-dessus de la mer d''Andaman'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

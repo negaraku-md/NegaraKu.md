@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "Ce n'est pas un jour férié — le solstice d'hiver n'est un jour férié ni au niveau national ni dans aucun État de Malaisie."
   etiquette: "Les Chinois célèbrent surtout de manière discrète à la maison, la famille s'asseyant ensemble pour façonner des tangyuan et partager un repas, plutôt que d'organiser de grands événements publics ; certaines familles offrent d'abord des tangyuan aux ancêtres et aux divinités avant de les manger en famille, les pratiques variant selon les familles et les groupes dialectaux."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'Un bol blanc de boulettes de riz gluant rose pastel, violettes et jaunes flottant dans un sirop doux et clair avec une cuillère en céramique à bord bleu posée dedans'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

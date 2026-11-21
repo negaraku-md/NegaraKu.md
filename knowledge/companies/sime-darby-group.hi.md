@@ -89,7 +89,7 @@ related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "सायम डार्बी विभाजन", "Permodalan Nasional Berhad", "UMW Holdings", "Bursa Malaysia समूह", "Bursa Malaysia conglomerate"]
 framework: profile
 hero: '/media/companies/sime-darby-group/hero.webp'
-heroAlt: 'A white-and-red Sime Darby Plantation entrance pillar carrying the red Sime Darby logo beside an estate access road, framed by rows of oil palms under a bright blue sky'
+heroAlt: 'एक एस्टेट सड़क के किनारे लाल सिम डार्बी लोगो वाला एक सफ़ेद-लाल सिम डार्बी प्लांटेशन प्रवेश स्तंभ, चमकीली नीली आसमान के नीचे ताड़ के पेड़ों की कतारों से घिरा'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_(220709).jpg'

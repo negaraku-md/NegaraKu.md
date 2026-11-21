@@ -115,7 +115,7 @@ stayFacts:
   watch: 'डिग्री पोर्टेबल है पर अनुभव स्थानीय — किसी स्वतंत्र परिसर और किसी साझा शिक्षा-नगर परिसर के बीच कक्षा का आकार, सुविधाएँ और परिसर-जीवन काफ़ी भिन्न होते हैं। शाखा-परिसर के कार्यक्रमों को भी MQA प्रत्यायन की ज़रूरत होती है और वे MQR पर दर्ज होते हैं।'
   next: 'विशेषज्ञता और स्थान के आधार पर शॉर्टलिस्ट बनाएँ, MQR पर सटीक कार्यक्रम की पुष्टि करें, और परिसर से अंतरराष्ट्रीय-दाख़िला अनुमोदन की पुष्टि करें। देखें मलेशिया में पढ़ाई और सार्वजनिक बनाम निजी विश्वविद्यालय।'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'नाटकीय आसमान के नीचे लटकती हरियाली और पेड़ों से घिरी एक दर्पण-सी शांत हरी झील के पार उठती घड़ी-मीनार वाली एक सफ़ेद आधुनिकतावादी विश्वविद्यालय इमारत'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

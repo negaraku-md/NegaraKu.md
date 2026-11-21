@@ -93,7 +93,7 @@ festivalFacts:
   holiday: "இதை அரசிதழில் அறிவிக்கும் மாநிலங்கள் மற்றும் கூட்டரசுப் பிரதேசங்களில் மட்டுமே (Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor மற்றும் Kedah உள்ளிட்டவை) பொது விடுமுறை — நாடு முழுவதற்குமான கூட்டரசு விடுமுறை அல்ல."
   etiquette: "இந்துக்கள் அல்லாதவர்கள் ஊர்வலங்களையும் படியேற்றத்தையும் பார்வையிட வரவேற்கப்படுகிறார்கள்; கோயிலுக்கு அருகில் அடக்கமான உடை அணியவும், தேவைப்படும் இடங்களில் காலணிகளைக் கழற்றவும், காவடி சுமக்கும் பக்தர்களைப் புகைப்படம் எடுப்பதற்கு முன் அனுமதி கேட்கவும்."
 hero: '/media/arts-culture/thaipusam/hero.webp'
-heroAlt: 'Devotees climbing the rainbow-painted stairway of Batu Caves toward the ornate cave-temple shrine beneath towering limestone cliffs during Thaipusam'
+heroAlt: 'தைப்பூசத்தின்போது, உயர்ந்த சுண்ணாம்புக்கல் பாறைகளுக்குக் கீழே அலங்கார குகைக் கோயில் சன்னதி நோக்கி, Batu Caves-ன் வானவில் வர்ணம் தீட்டிய படிக்கட்டுகளில் ஏறும் பக்தர்கள்'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'

@@ -80,7 +80,7 @@ related: []
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "मलायन बाघ", "बाघ संरक्षण", "अल-सुल्तान अब्दुल्लाह शाही बाघ अभयारण्य", "मलेशिया जैव विविधता"]
 framework: explainer
 hero: '/media/environment/malayan-tiger-conservation/hero.webp'
-heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroAlt: 'हरी उष्णकटिबंधीय पत्तियों की पृष्ठभूमि के सामने आराम करता एक मलायन बाघ, कैमरे की ओर ताकता हुआ'
 heroCredit: 'Tu7uh / Wikimedia Commons'
 heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'

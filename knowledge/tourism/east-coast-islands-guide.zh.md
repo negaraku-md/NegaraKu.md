@@ -79,7 +79,7 @@ visitFacts:
   watch: '并无统一规定的封闭期，但多数岛屿业者会在东北季候风期间自愿停业，故接近这些月份时请在付款前确认船只接驳。'
   next: '请向马来西亚渔业局（Department of Fisheries Malaysia）确认当前的保育费与海洋公园规定。'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: '蓝天白云下，停泊岛（Perhentian Islands）一片空旷的白沙滩，有饱经风蚀的花岗岩巨石、一棵孤树和碧绿的浅水'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

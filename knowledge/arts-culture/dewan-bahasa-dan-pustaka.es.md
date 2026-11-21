@@ -78,7 +78,7 @@ related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "lengua malaya", "kamus dewan", "sasterawan negara", "organismo estatutario"]
 framework: profile
 hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
-heroAlt: 'The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur at golden hour, its name and emblem on the crown of the building above a tree-lined field'
+heroAlt: 'La alta torre del Dewan Bahasa dan Pustaka en Kuala Lumpur a la hora dorada, con su nombre y emblema en la cima del edificio sobre un campo bordeado de árboles'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'

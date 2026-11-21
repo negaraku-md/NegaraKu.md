@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "เป็นวันหยุดราชการระดับชาติในทุกรัฐและดินแดนสหพันธ์ ประกาศเป็นวันหยุดราชการครั้งแรกในปี 1962 ภายใต้ Employment Act 1955 หากตรงกับวันหยุดพัก จะมีวันหยุดโดยได้รับค่าจ้างทดแทน"
   etiquette: "การปฏิบัติมีศูนย์กลางอยู่ที่วัด ผู้ศรัทธาจำนวนมากสวมชุดขาวและถือมังสวิรัติในวันนั้น และกิจกรรมสาธารณะที่เป็นที่รู้จักมากที่สุดคือขบวนแห่รถบุปผชาติเวสากในกัวลาลัมเปอร์ที่เริ่มจากวัดพุทธ Maha Vihara ในย่าน Brickfields ซึ่งมีผู้ศรัทธาและผู้ชมจำนวนมากมารับชม"
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'พระพุทธรูปทองคำประทับนั่งคลุมด้วยพวงมาลัยดาวเรืองสีเหลือง ตั้งอยู่หน้ารัศมีสีส้ม น้ำเงินและทองสดใสบนรถแห่ รายล้อมด้วยดอกเบญจมาศสีขาว เหลืองและชมพูใต้ปะรำในวันวิสาขบูชาที่อาโลร์เซอตาร์'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

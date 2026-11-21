@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "สองวันแรกของวันตรุษจีนเป็นวันหยุดราชการทั่วประเทศ โดยมีฐานทางกฎหมายคือ Holidays Act 1951 (Act 369) และราชกิจจานุเบกษาของแต่ละรัฐ"
   etiquette: "ธรรมเนียม \"เปิดบ้าน\" (rumah terbuka) ที่ข้ามกลุ่มชาติพันธุ์เปิดโอกาสให้ญาติมิตรต่างเชื้อชาติไปเยี่ยมอวยพรปีใหม่ซึ่งกันและกัน ของฝากและซองแดงที่นำไปอวยพรมักเลือกจำนวนเป็นเลขคู่เพื่อความเป็นมงคล และโดยทั่วไปหลีกเลี่ยงตัวเลขที่มี \"สี่\""
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'โคมไฟสีแดงปนทองหลายร้อยดวงร้อยเป็นแนวแผ่รัศมีใต้หลังคาวิจิตรของวัดเทียนโหวในกัวลาลัมเปอร์ ตัดกับท้องฟ้าสีครามใสในช่วงตรุษจีน'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

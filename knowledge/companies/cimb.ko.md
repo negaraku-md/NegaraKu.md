@@ -82,7 +82,7 @@ verificationNeeded:
   - "고객 수(제3자 프로필 인용치가 크게 다름, 예: 소매 ~1,350만 vs. 총 ~2,500만) — 숫자를 게재하기 전 CIMB 자신의 현행 보고와 대조하여 확인."
 framework: profile
 hero: '/media/companies/cimb/hero.webp'
-heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroAlt: '청동빛 유리 사무 타워, 꼭대기에 큰 붉은 ''CIMB BANK'' 간판이 있고 측면에 붉은 ''CIMB BANK''와 ''CIMB ISLAMIC'' 현수막이 내려오며 쿠알라룸푸르 거리 위로 솟은 모습'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'

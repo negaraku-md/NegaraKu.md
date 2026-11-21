@@ -113,7 +113,7 @@ keywords:
   - "DBKL business licence"
 framework: profile
 hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
-heroAlt: 'Dense cluster of Kuala Lumpur central business district office skyscrapers seen from above, with the Petronas Twin Towers rising at the left edge'
+heroAlt: 'ऊपर से देखे कुआलालंपुर केंद्रीय व्यावसायिक ज़िले के घने कार्यालय गगनचुंबी इमारतों का समूह, बाईं ओर उठती पेट्रोनास ट्विन टावर्स के साथ'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'

@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "يُعلَن اليومان الأول والثاني عطلة رسمية اتحادية في جميع أنحاء ماليزيا."
   etiquette: "يُرحَّب بالضيوف من مختلف الأعراق في الأبواب المفتوحة؛ ارتدِ ملابس محتشمة، ويُخلَع الحذاء عادةً قبل دخول المنزل."
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'حشود بزي باجو ملايو الاحتفالي تغادر مسجدًا قرويًا بمئذنتين بعد صلاة صباح عيد الفطر في ألور بونغسو، بيراك'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "Hari libur umum nasional di semua negeri dan wilayah persekutuan, pertama kali ditetapkan sebagai hari libur umum pada 1962; menurut Employment Act 1955, jika jatuh pada hari istirahat maka berlaku hari libur berbayar pengganti."
   etiquette: "Peringatannya berpusat di vihara; banyak umat mengenakan pakaian putih dan menjalani pola makan vegetaris pada hari itu, dan acara publik yang paling dikenal adalah pawai kereta hias Wesak Kuala Lumpur dari Buddhist Maha Vihara di Brickfields, yang disaksikan oleh kerumunan besar umat dan penonton."
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'Patung Buddha duduk berwarna emas berselimut untaian bunga marigold kuning berada di depan lingkaran cahaya oranye, biru, dan emas yang cerah pada sebuah kendaraan hias festival, dikelilingi tumpukan bunga krisan putih, kuning, dan merah muda di bawah tenda saat Hari Wesak di Alor Setar'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

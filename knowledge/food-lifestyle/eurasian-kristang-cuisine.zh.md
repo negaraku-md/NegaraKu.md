@@ -88,7 +88,7 @@ verificationNeeded:
   - "Portuguese Settlement 的设立年份（普遍记为1933年）以及好几道家常菜如 pang susi 和杂碎菜肴正日渐稀少的说法——请以一手或文化遗产来源核实。"
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: '白盘上一块金黄酥壳、湿润的粗粒小麦粉蛋糕（sugee cake），配一把叉子'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

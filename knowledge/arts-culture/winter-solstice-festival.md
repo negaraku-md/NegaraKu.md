@@ -79,7 +79,7 @@ festivalFacts:
   holiday: "不是公共假期——冬至在马来西亚并非全国或任何州属的公共假期。"
   etiquette: "华人多在家中低调庆祝，一家人围坐搓汤圆、共进一餐，而非举行大型公共活动；部分家庭会先以汤圆祭祖、拜神再合家共食，做法因家庭与方言群而异。"
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: '一只白碗盛着漂浮在清甜糖水中的粉、紫、黄色糯米汤圆，碗内搁着一把蓝边瓷勺'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

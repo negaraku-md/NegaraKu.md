@@ -87,7 +87,7 @@ visitFacts:
   watch: 'सप्ताह के दिन के अनुसार योजना बनाएँ — Jonker Street रात्रि बाज़ार केवल शुक्रवार से रविवार की शामों को चलता है, और सप्ताह के दिनों में यह एक सामान्य शॉपहाउस सड़क होती है — और निःशुल्क ऐतिहासिक A Famosa द्वार को शहर के बाहर अलग A''Famosa Resort थीम पार्क से न मिलाएँ।'
   next: 'यात्रा से पहले वर्तमान खुलने के दिन और समय Baba & Nyonya Heritage Museum की आधिकारिक वेबसाइट से पुष्ट करें, क्योंकि ये बदलते रहते हैं।'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'मेलाका के डच स्क्वायर पर विक्टोरिया फव्वारे और बाज़ार स्टॉलों के पीछे गेरुआ-लाल डच स्टैडथौस इमारत'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

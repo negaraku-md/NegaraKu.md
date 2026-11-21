@@ -97,7 +97,7 @@ visitFacts:
   watch: 'El avistamiento de orangutanes en Semenggoh nunca está garantizado, ya que los simios semisalvajes tienen libertad para buscar alimento en el bosque de alrededor — tome cualquier avistamiento como un regalo, no como una promesa.'
   next: 'Confirme los requisitos de entrada vigentes de Sarawak y los horarios de los parques o festivales con la Junta de Turismo de Sarawak (Sarawak Tourism Board) y los operadores oficiales de los parques antes de viajar.'
 hero: '/media/tourism/kuching-visitor-guide/hero.webp'
-heroAlt: 'The umbrella-roofed Sarawak State Legislative Assembly building rising across the Sarawak River from the Kuching waterfront at dusk'
+heroAlt: 'El edificio de la Asamblea Legislativa del Estado de Sarawak, con su tejado en forma de paraguas, elevándose al otro lado del río Sarawak desde la ribera de Kuching al anochecer'
 heroCredit: 'diego_cue / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'

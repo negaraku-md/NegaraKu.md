@@ -78,7 +78,7 @@ related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
 hero: '/media/companies/plus-malaysia/hero.webp'
-heroAlt: 'A clear multi-lane stretch of the North-South Expressway with light traffic and a yellow ''IKUT KIRI Kecuali Memotong'' sign on the left shoulder, flanked by green roadside trees and low forested hills under a blue sky with scattered clouds'
+heroAlt: 'Một đoạn thẳng nhiều làn thông thoáng của đường cao tốc Bắc-Nam với lưu lượng xe thưa thớt và một biển ''IKUT KIRI Kecuali Memotong'' màu vàng ở lề trái, hai bên là cây xanh ven đường và những ngọn đồi rừng thấp dưới bầu trời xanh có mây rải rác'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'

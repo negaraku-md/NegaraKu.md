@@ -80,7 +80,7 @@ verificationNeeded:
   - "தலைமை: Tay Ah Lek நிர்வாக இயக்குநர் மற்றும் CEO ஆக, மற்றும் தற்போதைய தலைவர் — தற்போதைய வாரியப் பதவிகளை உறுதிப்படுத்தவும்."
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'அந்தி வானத்திற்கு எதிரே இளஞ்சூடான தங்க நிறத்தில் ஒளிரும் படிநிலை Menara Public Bank கோபுரம்; உச்சியில் சிவப்பு-மஞ்சள் Public Bank சின்னமும், நுழைவாயிலுக்கு மேல் ஒளிரும் PUBLIC BANK சொற்குறியும்'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

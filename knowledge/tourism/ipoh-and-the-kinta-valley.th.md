@@ -121,7 +121,7 @@ visitFacts:
   watch: 'แม้คำโฆษณาท่องเที่ยวจะหลวม ๆ แต่ Kinta Valley เป็นอุทยานธรณีระดับชาติ ไม่ใช่ UNESCO Global Geopark'
   next: 'ตรวจสอบตารางเวลาและค่าโดยสารรถไฟปัจจุบันกับ KTMB ก่อนเดินทาง'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'มุมมองเหนือสนาม Padang สีเขียวของอิโปห์และใจกลางเมืองมรดกพร้อมเขาหินปูนแหลมคมตั้งตระหง่านด้านหลังใต้ท้องฟ้าสีครามหมอกควัน'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

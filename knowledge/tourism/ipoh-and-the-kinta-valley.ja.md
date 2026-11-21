@@ -121,7 +121,7 @@ visitFacts:
   watch: '緩い観光文句とは裏腹に、Kinta Valleyは国立ジオパークであって、UNESCO世界ジオパークではない。'
   next: '出発前に、現在の列車の時刻表と運賃をKTMBで確認すること。'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'かすんだ青空の下、イポーの緑のパダンと歴史的な市街中心部を見渡す眺め。背後にギザギザの石灰岩の丘がそびえる'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

@@ -95,7 +95,7 @@ visitFacts:
   watch: '정상은 자주 구름에 싸이고 춥고 비가 와 전망이 나타났다 사라지며, 주말과 공휴일에는 인파가 몰려 긴 줄이 생깁니다.'
   next: '현재의 테마파크, 케이블카, 카지노 입장 규정은 Resorts World Genting에 확인하십시오.'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: '중국 사원 지붕에서 바라본, 구름에 덮인 우림 산들과 멀리 겐팅 리조트가 있는 광활한 전경'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

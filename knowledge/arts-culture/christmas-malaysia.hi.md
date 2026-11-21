@@ -88,7 +88,7 @@ festivalFacts:
   holiday: "क्रिसमस दिवस, 25 दिसंबर, सभी राज्यों और संघीय क्षेत्रों में देशव्यापी सार्वजनिक अवकाश है (प्रायद्वीप पर Holidays Act 1951 (Act 369) की First Schedule के अंतर्गत; सबाह और सरवाक में राज्य अध्यादेशों के अंतर्गत)। सबाह इसके अतिरिक्त Sabah Holidays Ordinance (Cap. 56) के अंतर्गत क्रिसमस की पूर्व संध्या, 24 दिसंबर, को राज्य सार्वजनिक अवकाश के रूप में राजपत्रित करता है।"
   etiquette: "किसी भी पृष्ठभूमि के मेहमानों को साझा भोजन के लिए आतिथ्य देने की ओपन-हाउस परंपरा क्रिसमस पर भी अन्य त्योहारों की तरह लागू होती है; मेज़बानी करने वाले ईसाई परिवार आम तौर पर अन्य धर्मों के मेहमानों का स्वागत करते हैं, और त्योहार के पंचांग भर में आना-जाना दोनों दिशाओं में चलता है।"
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'पैविलियन कुआलालंपुर के बीचोबीच आँगन से ऊपर उठता एक सजा हुआ विशाल क्रिसमस वृक्ष, जिसके चारों ओर टँगे सुनहरे लालटेन, एक चकरी झूला और लाल कालीन पर खरीदारों की भीड़'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

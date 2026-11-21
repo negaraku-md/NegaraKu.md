@@ -95,7 +95,7 @@ visitFacts:
   watch: 'Le sommet est souvent enveloppé de nuages, froid et humide, avec des vues qui vont et viennent, et les week-ends et jours fériés amènent une forte affluence et de longues files d''attente.'
   next: 'Confirmez les règles d''entrée en vigueur pour les parcs à thème, la télécabine et le casino auprès de Resorts World Genting.'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'Vue panoramique depuis le toit d''un temple chinois sur des montagnes de forêt tropicale drapées de nuages avec le complexe de Genting au loin'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

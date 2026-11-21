@@ -79,7 +79,7 @@ verificationNeeded:
   - "Nombre de pays d'exploitation (les dix États de l'ASEAN plus les centres financiers mondiaux) — peut changer."
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: 'La tour Menara Maybank à double cylindre blanc s''élevant au-dessus de la silhouette de Kuala Lumpur, avec le logo et le logotype bleus de Maybank sur un panneau près de son sommet'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

@@ -96,7 +96,7 @@ related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["पुत्राजया", "Putrajaya", "संघीय क्षेत्र पुत्राजया", "Wilayah Persekutuan Putrajaya", "संघीय सरकार प्रशासनिक केंद्र", "पर्बादानन पुत्राजया", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
 hero: '/media/states/putrajaya/hero.webp'
-heroAlt: 'The rose-pink domed Putra Mosque and its minaret beside the green-domed Perdana Putra government building, reflected in the lake at Putrajaya'
+heroAlt: 'पुत्रजया में झील में प्रतिबिंबित हरे-गुंबद वाली पर्दाना पुत्रा सरकारी इमारत के बगल गुलाबी-गुंबद वाली पुत्रा मस्जिद और उसकी मीनार'
 heroCredit: 'Mimihitam / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'

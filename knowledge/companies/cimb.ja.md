@@ -82,7 +82,7 @@ verificationNeeded:
   - "顧客数（第三者プロフィールで引用される数字は、個人約1,350万から総計約2,500万まで大きく幅がある）——数字を公表する前に CIMB 自身の現在の報告に照らして確認する。"
 framework: profile
 hero: '/media/companies/cimb/hero.webp'
-heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroAlt: 'クアラルンプールの通りにそびえる、大きな赤いCIMB BANKの看板を頂くブロンズガラスのオフィスタワー。側面に赤いCIMB BANKとCIMB ISLAMICの帯'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'

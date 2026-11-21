@@ -123,7 +123,7 @@ keywords:
   - "MBPP business licence"
 framework: profile
 hero: '/media/business/doing-business-penang/hero.webp'
-heroAlt: 'Aerial view of the Bayan Lepas Free Industrial Zone in Penang, with large factory and manufacturing buildings lined along a coastal highway beside the sea and hills behind'
+heroAlt: 'पेनांग के बायन लेपस फ़्री औद्योगिक क्षेत्र का हवाई दृश्य, समुद्र के किनारे एक तटीय राजमार्ग के साथ पंक्तिबद्ध बड़े कारखाने और विनिर्माण भवन, पीछे पहाड़ियाँ'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'

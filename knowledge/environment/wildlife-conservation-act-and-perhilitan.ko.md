@@ -82,7 +82,7 @@ related: []
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
-heroAlt: 'Close side profile of a Malayan tiger''s striped orange-and-black face and shoulder against soft green foliage'
+heroAlt: '부드러운 초록 수풀을 배경으로 한 말라야호랑이의 주황·검정 줄무늬 얼굴과 어깨의 측면 근접 촬영'
 heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'

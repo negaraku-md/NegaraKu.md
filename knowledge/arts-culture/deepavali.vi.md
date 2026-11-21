@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "Là ngày nghỉ lễ công cộng liên bang được công bố, áp dụng ở mọi bang và Lãnh thổ Liên bang trừ Sarawak, nơi giữ lịch nghỉ lễ công cộng riêng của mình."
   etiquette: "Khách được chào đón tại các nhà mở cửa; hãy ăn mặc kín đáo, cởi giày trước khi vào nhà hoặc đền, và một món quà nhỏ là bánh kẹo ngọt là cử chỉ theo thông lệ."
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'Một hình kolam con công đầy màu sắc làm từ bột màu, viền trắng bao quanh và điểm xuyết những ngọn đèn dầu đất nung nhỏ thắp sáng, dịp Deepavali ở Malaysia'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

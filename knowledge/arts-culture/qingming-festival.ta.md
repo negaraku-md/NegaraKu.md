@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "清明节 மலேசியாவின் பொது விடுமுறை அல்ல, அந்நாளில் பெரும்பாலான வணிக நிறுவனங்கள் வழக்கம்போல் இயங்குகின்றன."
   etiquette: "தங்க-வெள்ளித் தாள் மற்றும் காகிதக் காணிக்கைகளை எரிப்பது வெளிப்படையான நெருப்பு மற்றும் புகையை உள்ளடக்கியதால், சில கல்லறைகளும் நினைவுப் பூங்காக்களும் எரிப்பதற்கான பகுதிகளை ஒதுக்குகின்றன அல்லது விதிமுறைகளை வகுக்கின்றன; சமீப ஆண்டுகளில் சிலர் சுற்றுச்சூழலுக்கு ஏற்ற முறைகளுக்கு மாறியுள்ளனர்."
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'Melaka Bukit Cina-வில் புல்வெளி மேட்டில், வளைந்த ஓமேகா வடிவ சுற்றுச்சுவரும் சிவப்பு ஓட்டுப் பூஜை முற்றமும் கொண்ட பெரிய சாம்பல் கல் சீனக் கல்லறை; அருகே தனியான குவிமாடம் கொண்ட பூமிதேவன் கல்லறை, மரங்களுக்கிடையே நடந்துசெல்லும் வழிப்போக்கர்'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

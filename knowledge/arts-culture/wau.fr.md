@@ -86,7 +86,7 @@ entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau", "cerf-volant traditionnel"]
 framework: history-culture
 hero: '/media/arts-culture/wau/hero.webp'
-heroAlt: 'A big ornately decorated wau bulan kite mounted on a pale wall, its broad crescent-shaped body covered in shimmering gold, pink and blue foil floral patterns with a fringed tassel at the top and a label reading WAU BULAN beneath it'
+heroAlt: 'Un grand cerf-volant wau bulan richement décoré monté sur un mur pâle, son large corps en croissant couvert de motifs floraux en papier doré, rose et bleu scintillant, un pompon frangé au sommet et une étiquette indiquant WAU BULAN en dessous'
 heroCredit: 'D.W. Fisher-Freberg / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'

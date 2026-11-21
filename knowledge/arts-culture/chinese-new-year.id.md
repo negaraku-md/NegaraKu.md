@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "Dua hari pertama Tahun Baru Imlek adalah hari libur umum nasional, dengan dasar hukum Holidays Act 1951 (Act 369) serta warta masing-masing negara bagian."
   etiquette: "\"Rumah terbuka\" (rumah terbuka) lintas etnis memungkinkan kerabat dan teman dari berbagai etnis saling berkunjung untuk mengucapkan selamat tahun baru; buah tangan dan angpau untuk kunjungan biasanya dalam jumlah genap yang dianggap membawa keberuntungan, dan umumnya menghindari angka yang mengandung \"empat\"."
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'Ratusan lampion merah dan emas dibentangkan dalam garis-garis memancar di bawah atap berhias Kuil Thean Hou di Kuala Lumpur dengan langit biru cerah saat Tahun Baru Imlek'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

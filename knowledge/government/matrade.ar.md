@@ -78,7 +78,7 @@ related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "مؤسسة تنمية التجارة الخارجية الماليزية", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "ترويج الصادرات في ماليزيا", "وكالة ترويج التجارة الماليزية", "منحة تنمية السوق", "Market Development Grant Malaysia", "مكاتب MATRADE في الخارج"]
 framework: profile
 hero: '/media/government/matrade/hero.webp'
-heroAlt: 'The towering dark facade of Menara MATRADE in Kuala Lumpur, pierced by an enormous pointed-arch opening and topped by a ribbed dome'
+heroAlt: 'الواجهة الداكنة الشاهقة لميناره ماتريد في كوالالمبور، مخترقة بفتحة قوسية مدبّبة هائلة وتعلوها قبة مضلّعة'
 heroCredit: 'Renek78 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'

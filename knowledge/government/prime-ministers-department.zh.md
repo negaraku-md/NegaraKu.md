@@ -68,7 +68,7 @@ related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-elect
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
 hero: '/media/government/prime-ministers-department/hero.webp'
-heroAlt: 'The domed Perdana Putra building, seat of Malaysia''s Prime Minister''s Department, under a dramatic cloudy sky in Putrajaya'
+heroAlt: '布城，壮观的多云天空下，圆顶的布特拉大厦（Perdana Putra）——马来西亚首相署所在地'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'

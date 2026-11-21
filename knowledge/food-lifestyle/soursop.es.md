@@ -84,7 +84,7 @@ drinkFacts:
   served: "Se sirve frío, batido fresco al momento —más ligero con agua, más rico con leche como batido. Una bebida de fruta refrescante; disfrútala como tal, y ten en cuenta que las afirmaciones de salud y «anticáncer» atribuidas a la guanábana no están probadas en humanos y no sustituyen la atención médica."
   where: "Se encuentra en zumerías, puestos de hawker y puestos de fruta por todo el país, dondequiera que se baten zumos frescos de fruta tropical."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'Un montón de guanábanas verdes y espinosas frescas en un puesto de mercado, con papaya y plátanos al fondo'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

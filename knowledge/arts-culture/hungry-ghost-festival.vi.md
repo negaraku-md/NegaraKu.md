@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "Không phải ngày lễ công cộng trên toàn quốc hay của các bang Malaysia; việc cúng tế, Vu Lan thắng hội và các sân khấu ca đài (getai) phần lớn diễn ra vào buổi chiều tối và ban đêm sau giờ làm việc."
   etiquette: "Hàng ghế trước nhất của sân khấu ca đài được cố ý để trống dành cho những vị khách vô hình, khán giả thường không ngồi hàng ghế đầu; dân gian cũng có những lời khuyên như không giẫm lên đồ cúng bên đường, không tùy tiện nhặt tiền tài rơi dưới đất."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'Một sân khấu lễ hội dưới mái bạt rực sáng với những vòng cung đèn neon đỏ, các tấm hình ngôi sao và một biển LED chạy chữ Hán vào ban đêm trong dịp getai tháng Bảy'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

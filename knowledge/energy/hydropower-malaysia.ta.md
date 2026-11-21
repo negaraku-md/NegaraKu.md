@@ -108,7 +108,7 @@ related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
 hero: '/media/energy/hydropower-malaysia/hero.webp'
-heroAlt: 'Aerial view of Bakun Dam''s broad grey embankment marked BAKUN, its long spillway chute and riverside powerhouse, backed by a wide reservoir and forested Sarawak hills'
+heroAlt: 'Bakun Dam-ன் அகலமான சாம்பல் கரையின் வான்வழிக் காட்சி; BAKUN எனக் குறிக்கப்பட்டு, அதன் நீண்ட வெள்ளப்பாய்ச்சல் வழியும் ஆற்றோர மின்னுற்பத்தி நிலையமும், பின்னால் அகலமான நீர்த்தேக்கமும் காட்டடர்ந்த Sarawak மலைகளும்'
 heroCredit: 'TheHolySnail / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'

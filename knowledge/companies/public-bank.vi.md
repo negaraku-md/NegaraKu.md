@@ -80,7 +80,7 @@ verificationNeeded:
   - "Ban lãnh đạo: Tay Ah Lek làm giám đốc điều hành và Tổng Giám đốc, cùng chủ tịch đương nhiệm — xác nhận các vị trí hiện hành trong hội đồng quản trị."
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'Tòa tháp Menara Public Bank hình bậc thang phát sáng vàng ấm trên nền trời hoàng hôn, logo Public Bank đỏ-vàng thắp sáng ở đỉnh và chữ PUBLIC BANK rọi sáng phía trên lối vào'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

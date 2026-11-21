@@ -93,7 +93,7 @@ related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-ec
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
 hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
-heroAlt: 'The Petronas Twin Towers rising above the Kuala Lumpur skyline in soft morning mist'
+heroAlt: '柔らかな朝靄の中、クアラルンプールのスカイラインの上にそびえるペトロナス・ツインタワー'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'

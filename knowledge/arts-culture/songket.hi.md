@@ -78,7 +78,7 @@ related: ["batik", "wayang-kulit"]
 keywords: ["सोंगकेत", "songket", "सोंगकेत बुनाई", "केक करघा", "kek tenun", "सोने का धागा", "benang emas", "सोंगकेत तेरेंगानु", "सोंगकेत केलंतन"]
 framework: history-culture
 hero: '/media/arts-culture/songket/hero.webp'
-heroAlt: 'A detailed close-up of handwoven songket cloth, deep red silk covered in dense floral and diamond motifs brocaded in glinting gold thread, with a contrasting central panel'
+heroAlt: 'हाथ से बुने सोंगकेट कपड़े का विस्तृत नज़दीकी दृश्य, गहरे लाल रेशम पर चमकते सुनहरे धागे से बुने घने फूलदार और हीरे-नक़्श, एक विपरीत केंद्रीय पैनल के साथ'
 heroCredit: 'Daderot / Wikimedia Commons'
 heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'

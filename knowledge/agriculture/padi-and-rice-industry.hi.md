@@ -102,7 +102,7 @@ related: []
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
 hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
-heroAlt: 'Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon'
+heroAlt: 'एक संकरी पानी भरी सिंचाई नाली के दोनों ओर धुंधले क्षितिज तक सीधे फैले चमकीले हरे धान के खेत'
 heroCredit: 'Hashvina / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'

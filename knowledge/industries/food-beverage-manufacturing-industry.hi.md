@@ -100,7 +100,7 @@ keywords:
   - MIDA खाद्य प्रोत्साहन
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: 'एक शराब-निर्माणी बॉटलिंग लाइन पर घुमावदार स्टेनलेस-स्टील कन्वेयर के साथ चलती हज़ारों हरी काँच की बोतलें'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

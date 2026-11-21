@@ -97,7 +97,7 @@ revisions:
     reviewer: null
 framework: profile
 hero: '/media/industries/semiconductor-industry/hero.webp'
-heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroAlt: 'رقاقة سيليكون مربّعة على طاولة مختبر، سطحها يتلألأ بألوان أرجوانية ووردية وذهبية قزحية من طبقة رقيقة'
 heroCredit: 'Radiotrefoil / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'

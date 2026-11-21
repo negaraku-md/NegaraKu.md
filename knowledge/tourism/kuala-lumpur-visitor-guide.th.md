@@ -105,7 +105,7 @@ visitFacts:
   watch: 'การจราจรในใจกลางเมืองหนาแน่นในชั่วโมงเร่งด่วน รถไฟจึงมักเร็วกว่ารถยนต์สำหรับการเดินทางข้ามเมือง'
   next: 'ตรวจสอบเวลาเปิดทำการและการจำหน่ายตั๋วปัจจุบันของ Petronas Twin Towers กับเว็บไซต์ทางการ PETRONAS Twin Towers (petronastwintowers.com.my)'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: 'ตึกแฝดเปโตรนาสที่ส่องไฟตั้งตระหง่านเหนือใจกลางกัวลาลัมเปอร์ใต้ท้องฟ้ายามพระอาทิตย์ตกสีทอง'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

@@ -108,7 +108,7 @@ visitFacts:
   watch: 'Les îles de l''est du Sabah se situent dans une zone de sécurité désignée (ESSZONE), les permis ne sont jamais garantis, et des limites de conservation (dont une fermeture annuelle) s''appliquent — voyagez informé et consultez les recommandations officielles en vigueur.'
   next: 'Confirmez le plafond de permis, les tarifs et toute fermeture de conservation en vigueur pour Sipadan auprès de Sabah Parks ou de votre opérateur de plongée agréé.'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'Vue aérienne d''un lagon récifal turquoise vif entouré d''îles vertes sous un ciel vif parsemé de nuages au parc marin de Tun Sakaran près de Semporna, Sabah'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

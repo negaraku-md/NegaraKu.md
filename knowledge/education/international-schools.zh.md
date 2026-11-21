@@ -98,7 +98,7 @@ stayFacts:
   watch: '由于没有任何收费由政府设定，即便是同龄的孩子，各校之间的实际价格也差异悬殊，而学费调涨上限为 30%，且每三年最多只可调涨一次。还要为一项 6% 的服务税做好打算：当孩子的常年学费超过 RM60,000 时，按每名学生、每学年征收——这是叠加在学费之上的税项，并非由学校设定。'
   next: '在编列预算之前，先筛选学校，并直接向每一所学校确认其现行收费表与 RM60,000 的税务门槛。关于相关规划，若要担保子女随外籍雇员一同前来，参见《受养人准证或长期社访签证》；若政府学校也在你的比较清单内，参见《申请就读政府学校》。'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: '一座现代国际学校入口大门，设有带雨篷的门卫岗亭、修剪整齐的树篱和繁茂的树木，身后是低矮的校园建筑，天空多云'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

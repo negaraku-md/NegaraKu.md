@@ -101,7 +101,7 @@ visitFacts:
   watch: '高度と体力が物を言う、過酷な2日間の高地登山であり、山は独自の天候を生み出す；大地震のような出来事の後にはアクセスやルートが変わり得るため、最新の情報をもとに計画すること。'
   next: '現在の許可、ガイド、宿泊の規則と料金は、Sabah Parksで確認すること。'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: '朝、サバ州の雲と緑の麓の上にそびえる、キナバル山のギザギザの花崗岩の頂'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

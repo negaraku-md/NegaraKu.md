@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Tambak sesak pada petang Jumaat, hujung minggu, cuti sekolah Singapura dan malam sebelum cuti umum, jadi lintas awal, elakkan waktu pulang puncak, dan beralih ke Second Link apabila ia sesak.'
   next: 'Sahkan susunan lintasan, RTS Link dan permit taman semasa dengan pihak berkuasa pengangkutan rasmi Malaysia dan Singapura serta pihak berkuasa taman berkaitan sebelum anda mengembara.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'Masjid Negeri Sultan Abu Bakar berwarna putih bergaya Victoria-Moor di Johor Bahru, dengan menara-menaranya yang tinggi dan kubah hitam di bawah langit berawan'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

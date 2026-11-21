@@ -112,7 +112,7 @@ visitFacts:
   watch: 'வீட்டுக்கு எடுத்துச் செல்ல அதிகமாக வரி-இல்லா மதுவை வாங்காதீர்கள் — மலிவான விலைகள் தீவில் அனுபவிப்பதற்கானவை, நிலப்பகுதியில் ஒரு வரம்பிட்ட கொடுப்பனவு மட்டுமே சுங்கத்தைக் கடக்கிறது.'
   next: 'தற்போதைய படகு அட்டவணைகளை படகு இயக்குநர்களுடனும், வரி-இல்லா கொடுப்பனவுகளை Royal Malaysian Customs Department (RMCD)-உடனும் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'Andaman கடலுக்கு மேல், காடு மூடிய மலைச் சிகரங்களுக்கிடையே உயரமாகத் தொங்கும் வளைந்த Langkawi Sky Bridge'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

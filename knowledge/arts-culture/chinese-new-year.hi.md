@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "चंद्र नववर्ष के पहले दो दिन देशव्यापी सार्वजनिक अवकाश हैं, जिसका कानूनी आधार 1951 का अवकाश अधिनियम (Holidays Act 1951, Act 369) तथा विभिन्न राज्यों के राजपत्र हैं।"
   etiquette: "विभिन्न जातीय समुदायों के बीच «खुले द्वार» (rumah terbuka) की प्रथा भिन्न-भिन्न जातीय मित्रों और परिजनों को एक-दूसरे के घर जाकर नववर्ष की बधाई देने देती है; बधाई देने जाने पर साथ ले जाए जाने वाले उपहार और लाल लिफाफे प्रायः शुभ मानी जाने वाली सम संख्या में होते हैं, और «चार» वाली संख्याओं से आमतौर पर बचा जाता है।"
 hero: '/media/arts-culture/chinese-new-year/hero.webp'
-heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroAlt: 'चीनी नववर्ष पर साफ़ नीली आसमान के सामने कुआलालंपुर के थियन हो मंदिर की सजावटी छतों के नीचे पंक्तियों में टँगे सैकड़ों लाल-सुनहरे लालटेन'
 heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'

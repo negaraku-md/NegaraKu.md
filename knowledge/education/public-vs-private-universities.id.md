@@ -84,7 +84,7 @@ stayFacts:
   watch: 'Label IPTA/IPTS tidak memberi tahu apakah suatu gelar diakui — itu tergantung apakah program tertentu tersebut terakreditasi MQA di dalam MQR, yang sebaiknya Anda periksa untuk tahun penerimaan Anda yang tepat. Anda tidak dapat melamar ke universitas swasta melalui UPU.'
   next: 'Putuskan berdasarkan kualifikasi yang Anda pegang, lalu verifikasi program dan tahun penerimaan yang tepat di Malaysian Qualifications Register sebelum mendaftar pada salah satu jenis institusi. Lihat penjelasan akreditasi MQA dan panduan Sebelum membayar deposit kolej.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'Aula modernis beton ekspos panjang bertuliskan ''Dewan Tunku Canselor'' biru dan tangga luar, berlatar taman topiari dan jalan yang lengang'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

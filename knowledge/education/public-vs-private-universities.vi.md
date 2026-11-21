@@ -84,7 +84,7 @@ stayFacts:
   watch: 'Nhãn IPTA/IPTS không cho bạn biết một tấm bằng có được công nhận hay không — điều đó phụ thuộc vào việc chương trình cụ thể có được MQA kiểm định trên MQR hay không, bạn nên tra cứu đúng năm nhập học của mình. Bạn không thể nộp đơn vào một trường đại học tư thục qua UPU.'
   next: 'Hãy quyết định dựa trên bằng cấp bạn đang có, rồi kiểm chứng đúng chương trình và đợt nhập học trên Malaysian Qualifications Register trước khi ghi danh vào bất kỳ loại trường nào. Xem bài giải thích về kiểm định của MQA và bài Trước khi đóng tiền đặt cọc cho trường.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'Một sảnh dài theo trường phái hiện đại bằng bê tông thô với dòng chữ ''Dewan Tunku Canselor'' màu xanh và một cầu thang bên ngoài, phía trước là những vườn cây cắt tỉa và một con đường vắng'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

@@ -93,7 +93,7 @@ related: ["palm-oil-industry"]
 keywords: ["MSPO", "पाम तेल स्थिरता", "palm oil sustainability", "वनों की कटाई", "deforestation", "EUDR", "RSPO", "प्रमाणन", "certification", "छोटे किसान", "smallholders", "MPOB", "मलेशिया पाम तेल", "Malaysia palm oil"]
 framework: explainer
 hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
-heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroAlt: 'धुंधले हरे पहाड़ों के नीचे एक कच्ची सड़क के किनारे एक पहाड़ी ढलान को ढकते पत्तेदार ताड़-तेल के पेड़ों की कतारें'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'

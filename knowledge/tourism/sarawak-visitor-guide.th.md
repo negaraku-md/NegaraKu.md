@@ -99,7 +99,7 @@ visitFacts:
   watch: 'เครื่องบินเล็กของ Mulu มักล่าช้าหรือถูกยกเลิกเพราะสภาพอากาศ จึงควรเผื่อวันสำรองและไม่จองเที่ยวต่อที่กระชั้นออกจากอุทยาน'
   next: 'ตรวจสอบข้อกำหนดวีซ่าและ MDAC ปัจจุบันสำหรับสัญชาติของคุณกับสำนักงานตรวจคนเข้าเมืองมาเลเซีย (Immigration Department of Malaysia)'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: 'ป่ายอดหินปูนสีเทาแหลมคมทิ่มแทงป่าฝนสีเขียวและหมอกที่อุทยานแห่งชาติกูนุงมูลู รัฐซาราวัก'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

@@ -72,7 +72,7 @@ related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-healt
 keywords: ["المستشفى الحكومي الماليزي", "رسوم المستشفى الحكومي", "نظام الإحالة في المستشفى", "رسوم جناح الدرجة الثالثة", "رسوم غير المواطنين في المستشفى", "Akta Fee 1951", "المستشفى التخصصي المرجعي", "وقت الانتظار في المستشفى الحكومي"]
 framework: explainer
 hero: '/media/healthcare/government-hospitals/hero.webp'
-heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroAlt: 'واجهة مبنى الاختصاصات والرعاية النهارية في مستشفى كوالالمبور، مستشفى حكومي ماليزي، مع شعار الهلال الأحمر على الواجهة البيضاء'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'

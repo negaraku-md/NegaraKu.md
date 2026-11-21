@@ -100,7 +100,7 @@ keywords:
   - สิทธิประโยชน์อาหารของ MIDA
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: 'ขวดแก้วสีเขียวหลายพันขวดเคลื่อนไปตามสายพานสเตนเลสคดเคี้ยวบนสายการบรรจุขวดของโรงเบียร์'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

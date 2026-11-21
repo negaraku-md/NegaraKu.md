@@ -76,7 +76,7 @@ related: []
 keywords: ["بينانغ", "Penang Malaysia", "جورج تاون اليونسكو", "George Town UNESCO", "بايان ليباس", "Bayan Lepas", "إلكترونيات بينانغ", "Penang electronics", "وادي السيليكون الشرقي", "silicon valley of the east"]
 framework: profile
 hero: '/media/states/penang/hero.webp'
-heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroAlt: 'مستوصف جورج تاون الكريمي اللون من عام 1923، مبنى تراثي زاوي من الحقبة الاستعمارية بنوافذ مقوّسة وواجهات بمصاريع، في جورج تاون، بينانغ'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'

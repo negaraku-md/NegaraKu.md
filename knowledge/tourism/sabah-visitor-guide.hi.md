@@ -101,7 +101,7 @@ visitFacts:
   watch: 'दुर्लभ, परमिट-नियंत्रित प्रमुख आकर्षण काफ़ी पहले बुक करें और Sipadan की रीफ़-पुनर्प्राप्ति के लिए वार्षिक नवंबर बंदी के इर्द-गिर्द योजना बनाएँ, क्योंकि ये हिस्से बिक जाते हैं और आगमन पर सुरक्षित नहीं किए जा सकते।'
   next: 'यात्रा से पहले वर्तमान प्रवेश तथा विज़िट-पास और परमिट नियम Immigration Department of Malaysia और Sabah Parks से पुष्ट करें।'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: 'भोर में बादलों के सागर के ऊपर गुलाबी चमकता माउंट किनाबालू पर सेंट जॉन्स पीक का ग्रेनाइट शिखर'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

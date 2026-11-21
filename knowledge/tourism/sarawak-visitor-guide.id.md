@@ -99,7 +99,7 @@ visitFacts:
   watch: 'Pesawat kecil Mulu secara rutin tertunda atau dibatalkan oleh cuaca, jadi sediakan hari cadangan dan jangan pernah memesan koneksi lanjutan yang mepet keluar dari taman.'
   next: 'Konfirmasikan persyaratan visa dan MDAC terkini untuk kewarganegaraan Anda dengan Jabatan Imigresen Malaysia (Immigration Department of Malaysia).'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Hutan pinakel batu kapur abu-abu bergerigi menembus hutan hujan hijau dan kabut di Taman Negara Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

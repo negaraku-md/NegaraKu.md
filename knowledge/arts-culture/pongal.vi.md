@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "Không phải ngày lễ công cộng được công bố ở cấp liên bang hay ở bất kỳ bang nào tại Malaysia. (Chỉ có Deepavali là ngày lễ công cộng cấp liên bang — ngoại trừ Sarawak; Thaipusam chỉ là ngày nghỉ lễ ở một số bang.)"
   etiquette: "Chủ yếu là một lễ hội văn hóa gắn với mùa gặt, mang tính thế tục/không tôn giáo (một bộ trưởng Malaysia đã làm rõ điều này vào năm 2020); các tổ chức cộng đồng và đền chùa cùng nấu Pongal trong nhiều nồi và tổ chức lễ mừng công khai cùng với các tiết mục văn nghệ."
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'Một người phụ nữ tươi cười trong bộ sari tím và vàng khuấy cơm Pongal đang bốc hơi trong một chiếc nồi đất quấn vòng hoa cúc vạn thọ, nấu ngoài trời tại một ngôi đền Hindu trong dịp Thai Pongal'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

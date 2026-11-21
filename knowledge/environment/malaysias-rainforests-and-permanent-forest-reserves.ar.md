@@ -79,7 +79,7 @@ related: []
 keywords: ["محمية الغابات الدائمة", "hutan simpanan kekal", "قانون الحراجة الوطني 1984", "akta perhutanan negara 1984", "النشر في الجريدة الرسمية للغابات", "pewartaan hutan", "قائمة الولايات", "الغابات المطيرة في ماليزيا", "hutan hujan malaysia", "إلغاء نشر محمية الغابات", "نظام حراجة صباح", "مرسوم حراجة ساراواك"]
 framework: explainer
 hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
-heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroAlt: 'غيوم منخفضة وضباب يتدحرجان فوق تلال خضراء كثيفة مغطّاة بالغابات المطيرة فوق بحيرة ساكنة في رويال بيلوم، بيراك'
 heroCredit: 'Ckpixel / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'

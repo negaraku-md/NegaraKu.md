@@ -81,7 +81,7 @@ related: []
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
 hero: '/media/industries/manufacturing-industry-overview/hero.webp'
-heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroAlt: '一条现代汽车装配线，几具车身在明亮的工厂灯光和头顶传送带下排成一列'
 heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
 heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'

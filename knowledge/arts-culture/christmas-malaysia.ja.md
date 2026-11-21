@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "12月25日のクリスマスは、すべての州および連邦直轄領にわたる全国的な祝日である（半島部ではHolidays Act 1951 (Act 369)の第一附則；サバ州・サラワク州では州の条例による）。サバ州はさらに、12月24日のクリスマスイブをSabah Holidays Ordinance (Cap. 56)に基づく州の祝日として官報告示している。"
   etiquette: "どんな背景の客も食事に招くオープンハウスの伝統は、他の祭日と同様にクリスマスにも適用される。もてなす側のキリスト教徒の家庭は他宗教の客を迎え入れることが多く、訪問は祭日のカレンダーを通じて双方向に行われる。"
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: 'パビリオン・クアラルンプールの吹き抜けを貫いてそびえる、飾り付けられた巨大なクリスマスツリー。吊るされた金の提灯、メリーゴーランド、赤いカーペット上の買い物客の群れに囲まれている'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

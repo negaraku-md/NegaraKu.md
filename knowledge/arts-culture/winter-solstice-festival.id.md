@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "Bukan hari libur umum — Dongzhi di Malaysia bukan hari libur umum secara nasional maupun di negeri mana pun."
   etiquette: "Orang Tionghoa kebanyakan merayakan secara sederhana di rumah, dengan sekeluarga duduk melingkar membentuk tangyuan dan menyantap satu kali makan bersama, alih-alih mengadakan acara publik besar; sebagian keluarga terlebih dahulu menggunakan tangyuan untuk bersembahyang kepada leluhur dan dewa sebelum santap bersama, dengan praktik yang berbeda-beda menurut keluarga dan kelompok dialek."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'Semangkuk putih bola-bola ketan merah muda pastel, ungu, dan kuning mengambang dalam kuah manis bening dengan sendok keramik bertepi biru di dalamnya'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

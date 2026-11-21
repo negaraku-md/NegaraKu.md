@@ -87,7 +87,7 @@ visitFacts:
   watch: '요일에 맞춰 계획하십시오 — 존커 거리(Jonker Street) 야시장은 금요일부터 일요일 저녁에만 열리고 평일에는 평범한 숍하우스 거리이며 — 무료 사적인 아 파모사(A Famosa) 성문을 교외의 별개 시설인 아파모사 리조트(A''Famosa Resort) 테마파크와 혼동하지 마십시오.'
   next: '방문 전에 현재의 개장 요일과 시간을 바바 & 뇨냐 유산 박물관(Baba & Nyonya Heritage Museum) 공식 웹사이트에서 확인하십시오. 바뀔 수 있습니다.'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: '멜라카 더치 스퀘어의 빅토리아 분수와 시장 가판대 뒤편에 선 테라코타색 네덜란드 스타다위스 건물'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

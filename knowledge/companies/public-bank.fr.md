@@ -80,7 +80,7 @@ verificationNeeded:
   - "Direction : Tay Ah Lek comme directeur général et PDG, et le président en exercice — à confirmer avec les postes actuels du conseil."
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'La tour en gradins Menara Public Bank rayonnant d''un or chaud contre un ciel crépusculaire, le logo rouge et jaune de Public Bank illuminé à son sommet et le logotype PUBLIC BANK éclairé au-dessus de l''entrée'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

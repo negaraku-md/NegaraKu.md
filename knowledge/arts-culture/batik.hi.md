@@ -80,7 +80,7 @@ related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
 hero: '/media/arts-culture/batik/hero.webp'
-heroAlt: 'A batik artisan leaning over a length of white cloth stretched on a frame, using a fine brush to hand-paint vivid red hibiscus-style flowers with green leaves and gold outlines, in a workshop hung with photographs'
+heroAlt: 'फ़्रेम पर खिंचे सफ़ेद कपड़े पर झुका एक बाटिक कारीगर, तस्वीरों से सजी कार्यशाला में बारीक ब्रश से चटख लाल गुड़हल जैसे फूल, हरी पत्तियाँ और सुनहरी रेखाएँ हाथ से चित्रित करता हुआ'
 heroCredit: 'Shubert Ciencia / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'

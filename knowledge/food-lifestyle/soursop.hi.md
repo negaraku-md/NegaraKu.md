@@ -85,7 +85,7 @@ drinkFacts:
   served: "ठंडा परोसा जाता है, ऑर्डर पर ताज़ा मिलाया जाता है — पानी के साथ हल्का, दूध के साथ एक स्मूदी के रूप में अधिक भरपूर। एक तरोताज़ा फल-पेय; इसका आनंद उसी रूप में लें, और ध्यान दें कि सॉरसॉप से जुड़े स्वास्थ्य और 'कैंसर-रोधी' दावे मनुष्यों में असिद्ध हैं और चिकित्सीय देखभाल का कोई विकल्प नहीं।"
   where: "देश भर के जूस बार, hawker ठेलों और फल-ठेलों पर मिलता है, जहाँ भी ताज़े उष्णकटिबंधीय-फल जूस मिलाए जाते हैं।"
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'एक बाज़ार स्टैंड पर ताज़े हरे काँटेदार सोरसोप फलों का ढेर, पीछे पपीता और केले'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

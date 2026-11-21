@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "El primer y el segundo día están decretados como festivo público federal en toda Malasia."
   etiquette: "Se da la bienvenida a invitados de todas las etnias a las casas abiertas (rumah terbuka); vista con recato y, por costumbre, descálcese antes de entrar en la casa."
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'Multitudes con festivos baju Melayu saliendo de una mezquita de pueblo de dos minaretes tras las oraciones matutinas del Aidilfitri en Alor Pongsu, Perak'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

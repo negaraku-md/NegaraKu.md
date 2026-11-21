@@ -92,7 +92,7 @@ visitFacts:
   watch: 'इसे एक ही कस्बा न मानें — ये अलग-अलग भूमिकाओं वाली तीन बस्तियाँ हैं — और ध्यान दें कि चाय-बागान सोमवार को बंद रहते हैं जबकि पठार का मौसम तेज़ी से बदलता है, इसलिए दिन की योजनाएँ बदल सकती हैं।'
   next: 'वर्तमान खुलने के समय और सोमवार की बंदी सीधे प्रत्येक स्थल से पुष्ट करें — चाय-बागानों के लिए BOH Plantations की आधिकारिक साइट (bohtea.com) और फ़ार्म-और-उद्यान आकर्षणों के लिए Cameron Highlands District Council (MDCH)।'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'बादलों वाली नीली आसमान के नीचे कैमरून हाइलैंड्स की पहाड़ियों को ढकती चटख हरी लहरदार चाय-बागान की सीढ़ियाँ'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

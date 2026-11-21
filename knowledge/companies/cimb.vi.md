@@ -82,7 +82,7 @@ verificationNeeded:
   - "Số lượng khách hàng (các con số được nêu trong các hồ sơ của bên thứ ba dao động rộng, ví dụ ~13,5 triệu khách hàng bán lẻ so với ~25 triệu tổng cộng) — cần xác minh đối chiếu với báo cáo hiện hành của chính CIMB trước khi công bố một con số."
 framework: profile
 hero: '/media/companies/cimb/hero.webp'
-heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroAlt: 'Một tòa cao ốc văn phòng kính màu đồng trên đỉnh có biển CIMB BANK đỏ lớn, với biểu ngữ CIMB BANK và CIMB ISLAMIC màu đỏ dọc bên hông, vươn lên trên đường phố Kuala Lumpur'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'

@@ -111,7 +111,7 @@ visitFacts:
   watch: '持ち帰る免税の酒類を買いすぎないこと——安い価格は島で楽しむためのものであり、本土では限られた免税枠しか税関を通れない。'
   next: '現在のフェリーの時刻はフェリー運航会社に、免税枠はRoyal Malaysian Customs Department（RMCD）に確認すること。'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'アンダマン海の上、ジャングルに覆われた山頂の間に高く吊り下げられた、湾曲したランカウイ・スカイブリッジ'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

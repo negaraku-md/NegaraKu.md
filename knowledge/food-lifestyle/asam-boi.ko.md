@@ -84,7 +84,7 @@ drinkFacts:
   served: "가장 고전적으로는 limau asam boi로 — calamansi 라임에 신 매실 시럽을 더해, 매실 몇 조각과 때로 소금 한 꼬집을 넣어 얼음 위에 낸다. 탄산음료(Sprite asam boi)와 Ribena에도 넣는다. 그 자체로 간식으로도 먹는다."
   where: "전국의 mamak과 kopitiam 음료 카운터, 노점, 건어물 상점에서 찾을 수 있으며; 포장 asam boi는 슈퍼마켓과 잡화점에서 팔린다."
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: '아삼 보이로 알려진, 쪼글쪼글하고 소금이 서린 갈색 말린 절임 매실 한 접시'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

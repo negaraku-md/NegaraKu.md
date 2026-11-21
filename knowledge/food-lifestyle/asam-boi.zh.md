@@ -85,7 +85,7 @@ drinkFacts:
   served: "最经典的是 limau asam boi——酸柑青柠配酸梅糖浆，盛在冰块上，放几颗酸梅，有时再加一撮盐。也会加进汽水（Sprite asam boi）和 Ribena。它也可以单独当零食吃。"
   where: "遍布全国的 mamak 与 kopitiam 饮料柜台、小贩摊档和干货店有售；包装的 asam boi 在超市和杂货店出售。"
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: '一碟表面结着盐霜、皱缩的褐色话梅（asam boi）'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

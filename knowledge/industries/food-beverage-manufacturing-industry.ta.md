@@ -100,7 +100,7 @@ keywords:
   - MIDA உணவு ஊக்கத்தொகைகள்
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: 'ஒரு மதுபான பாட்டில் தயாரிப்பு வரிசையில், வளைந்த துருப்பிடியா எஃகு கடத்திகளில் செல்லும் ஆயிரக்கணக்கான பச்சை கண்ணாடிப் பாட்டில்கள்'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

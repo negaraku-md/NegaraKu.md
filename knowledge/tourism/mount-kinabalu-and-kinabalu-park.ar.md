@@ -101,7 +101,7 @@ visitFacts:
   watch: 'تسلّق شاقّ ليومين على ارتفاع عالٍ حيث يهمّ دوار المرتفعات واللياقة ويصنع الجبل طقسه الخاص؛ وقد يتغيّر الوصول والمسار بعد أحداث مثل زلزال كبير، لذا خطّط بناءً على المعلومات الحالية.'
   next: 'تأكّد من قواعد التصاريح والمرشدين والإقامة ورسومها الحالية مع Sabah Parks.'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'قمة جبل كينابالو الغرانيتية المسنّنة ترتفع فوق الغيوم وسفوح خضراء في صباح، في صباح'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

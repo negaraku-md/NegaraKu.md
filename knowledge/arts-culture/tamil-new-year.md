@@ -77,7 +77,7 @@ festivalFacts:
   holiday: "கூட்டரசுப் பொது விடுமுறை அல்ல; எந்த மாநிலமும் வழக்கமாக விடுமுறையாக அறிவிப்பதில்லை (தீபாவளி, தைப்பூசம் போலன்று)."
   etiquette: "\"புத்தாண்டு வாழ்த்துகள்\" எனப் பரிமாறிக் கொள்வது வழக்கம்; சித்திரை நாளில் கோலாலம்பூர் சிறிய இந்தியா, கோயில்கள், சமூக நிகழ்வுகளில் விழாத் தோற்றம் காணப்படுகிறது."
 hero: '/media/arts-culture/tamil-new-year/hero.webp'
-heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroAlt: 'Kuala Lumpur Brickfields-ல் திறந்தவெளி தமிழ்ப் புத்தாண்டு கொண்டாட்டத்தில், பச்சை-மெரூன் சேலையணிந்த இளம் மலேசிய இந்தியப் பெண் கைகூப்பி வணக்கம் செய்கிறார்; பின்னால் திருவிழா கூடாரங்களும் நகர வானோரமும்'
 heroCredit: 'Nimaaland / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'

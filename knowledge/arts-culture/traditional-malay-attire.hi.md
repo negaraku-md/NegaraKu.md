@@ -80,7 +80,7 @@ related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["बाजू मलयू", "baju Melayu", "बाजू कुरुंग", "baju kurung", "कबाया", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "पारंपरिक मलय पोशाक", "pakaian tradisional Melayu"]
 framework: history-culture
 hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
-heroAlt: 'A smiling Malay family of three posing on a house porch at Hari Raya in coordinated pale-yellow outfits, the man in a baju Melayu tunic and trousers flanked by two women wearing baju kurung and headscarves'
+heroAlt: 'हरी राया पर एक घर के बरामदे में हल्के पीले रंग की मेल खाती पोशाकों में तस्वीर खिंचवाता एक मुस्कुराता तीन सदस्यों का मलय परिवार, बाजू मलायू अंगरखा और पतलून में पुरुष, दोनों ओर बाजू कुरुंग और सिरबंद पहने दो महिलाएँ'
 heroCredit: 'Sham Hardy / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'

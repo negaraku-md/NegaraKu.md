@@ -121,7 +121,7 @@ visitFacts:
   watch: 'A pesar de lo que diga cierta publicidad turística imprecisa, el valle de Kinta es un geoparque nacional, no un Geoparque Mundial de la UNESCO.'
   next: 'Confirme los horarios y las tarifas vigentes de los trenes con KTMB antes de viajar.'
 hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
-heroAlt: 'View over Ipoh''s green Padang and heritage city centre with jagged limestone hills rising behind under a hazy blue sky'
+heroAlt: 'Vista sobre el verde Padang de Ipoh y el centro histórico de la ciudad con colinas dentadas de piedra caliza elevándose detrás bajo un cielo azul brumoso'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

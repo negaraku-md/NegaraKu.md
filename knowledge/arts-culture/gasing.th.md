@@ -63,7 +63,7 @@ related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
 hero: '/media/arts-culture/gasing/hero.webp'
-heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroAlt: 'ลูกข่างกาซิงมลายูทรงจานสองลูกทำจากไม้เคลือบแลคเกอร์สีแดง แต่ละลูกพันแน่นด้วยเชือกเหวี่ยงสีขาว วางบนกล่องสีดำแกะสลักและผ้าบาติกสีม่วงปนทองสดใส พร้อมลูกข่างกาซิงเรียบที่หนักกว่าวางข้างๆ'
 heroCredit: 'Rulwarih / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'

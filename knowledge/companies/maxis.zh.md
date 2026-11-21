@@ -80,7 +80,7 @@ verificationNeeded:
   - "马来西亚第二个5G网络的状态及 Maxis 在其中的角色（U Mobile 于2024年11月获选）——对照 MCMC 核实当前的5G政策与安排。"
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: '夜晚被泛光照亮的Menara Maxis弧形楼冠，层层露台在黑色夜空下泛白发光，顶部附近装有蓝绿色maxis标志牌和一只显示7:57的红色数字钟'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

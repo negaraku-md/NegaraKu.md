@@ -76,7 +76,7 @@ related: []
 keywords: ["استاد بوكيت جليل الوطني", "stadium nasional bukit jalil", "الفيلودروم الوطني", "velodrom nasional", "حلبة سيبانغ", "litar sepang", "استاد الهوكي الوطني", "stadium hoki nasional", "الملاعب الرياضية في ماليزيا"]
 framework: profile
 hero: '/media/sports/national-sports-venues/hero.webp'
-heroAlt: 'The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky'
+heroAlt: 'قوس مدخل ملعب بوكيت جليل الوطني الكبير بالرمادي والأبيض، يعلوه حروف STADIUM BUKIT JALIL، وأقواسه المشبّكة بالطراز الموري تؤطّر مدرّج الملعب خلفه تحت سماء غائمة'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'

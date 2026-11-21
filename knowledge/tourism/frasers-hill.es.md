@@ -97,7 +97,7 @@ visitFacts:
   watch: 'La carretera de montaña, estrecha y sinuosa, es lenta y propensa a cierres tras las lluvias, los desprendimientos o la caída de árboles, y la propia montaña suele estar brumosa y húmeda, con opciones limitadas de comida y suministros.'
   next: 'Confirme la disposición de acceso vigente por carretera y cualquier cierre con la autoridad de carreteras (JKR) antes de viajar.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'Torre de reloj de piedra engalanada con banderas malayas junto a un edificio de estilo Tudor de entramado de madera bajo una niebla gris y altos pinos en Fraser''s Hill'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

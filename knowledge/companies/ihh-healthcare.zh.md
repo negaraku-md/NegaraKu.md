@@ -78,7 +78,7 @@ verificationNeeded:
   - "持股——三井物产（Mitsui & Co）被引述持有约32%至33%（透过 MBK Healthcare Management），国库控股（Khazanah Nasional）持有相当比例的少数股权。确切百分比会随配售与增持而变动；在引用数字之前对照最新的 Bursa Malaysia／SGX 披露核实。"
 framework: profile
 hero: '/media/companies/ihh-healthcare/hero.webp'
-heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroAlt: '蓝天下，槟城鹰阁医院米色、红色与蓝色相间的高大立面，蓝色''Gleneagles PENANG''字样装在底层外墙和楼顶女儿墙上'
 heroCredit: 'Vnonymous / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'

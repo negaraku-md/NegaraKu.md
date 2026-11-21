@@ -101,7 +101,7 @@ visitFacts:
   watch: 'Hãy đặt trước thật sớm các điểm nổi bật khan hiếm, bị khống chế bằng giấy phép và lên kế hoạch quanh đợt đóng cửa thường niên tháng Mười Một của Sipadan để rạn san hô phục hồi, vì những phần này bán hết và không thể giữ chỗ khi đến nơi.'
   next: 'Hãy xác nhận quy định nhập cảnh, thẻ thăm và giấy phép hiện tại với Cục Nhập cảnh Malaysia (Immigration Department) và Sabah Parks trước khi bạn đi.'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: 'Đỉnh granit của St. John''s Peak trên núi Kinabalu rực hồng lúc rạng đông trên một biển mây'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

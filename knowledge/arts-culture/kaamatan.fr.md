@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "Jour férié dans l'État du Sabah et le territoire fédéral de Labuan les 30 et 31 mai ; ce n'est pas un jour férié à l'échelle nationale."
   etiquette: "Il convient de comprendre l'Unduk Ngadau comme un concours culturel honorant la légende de Huminodun, et non comme un concours de beauté ordinaire, et de traiter la croyance en Bambaazon et la légende de Huminodun avec respect, comme la tradition propre à la communauté plutôt que comme un fait avéré."
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: 'Des prêtres et prêtresses bobohizan kadazan-dusun en costume traditionnel noir et or exécutant un rituel du Kaamatan sur une scène étoilée à Penampang, Sabah'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

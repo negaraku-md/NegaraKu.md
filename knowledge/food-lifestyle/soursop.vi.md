@@ -84,7 +84,7 @@ drinkFacts:
   served: "Phục vụ lạnh, xay tươi theo yêu cầu — loãng hơn với nước, đậm hơn với sữa dạng sinh tố. Một thức uống trái cây tươi mát; hãy thưởng thức như vậy, và lưu ý rằng những khẳng định về sức khỏe và 'chống ung thư' gắn với mãng cầu Xiêm là chưa được chứng minh ở người và không thay thế cho chăm sóc y tế."
   where: "Tìm thấy tại các quầy nước ép, quầy hàng rong và quầy trái cây khắp cả nước, bất cứ đâu có xay nước ép trái cây nhiệt đới tươi."
 hero: '/media/food/soursop/hero.webp'
-heroAlt: 'A pile of fresh green spiny soursop fruit on a market stand, with papaya and bananas in the background'
+heroAlt: 'Một đống quả mãng cầu xiêm xanh đầy gai tươi trên một quầy chợ, với đu đủ và chuối ở hậu cảnh'
 heroCredit: 'Iwai-Dialax / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'

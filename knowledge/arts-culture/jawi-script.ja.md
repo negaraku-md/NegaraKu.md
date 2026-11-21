@@ -85,7 +85,7 @@ related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
 hero: '/media/arts-culture/jawi-script/hero.webp'
-heroAlt: 'Dark navy signboard with the Terengganu royal crest and the words ''Istana Maziah'' spelled in gold Jawi (Arabic-derived Malay) script'
+heroAlt: 'トレンガヌの王室紋章と「Istana Maziah」の文字を金色のジャウィ(アラビア文字由来のマレー文字)で記した濃紺の看板'
 heroCredit: 'Dominic Nelson / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'

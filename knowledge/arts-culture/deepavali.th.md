@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "เป็นวันหยุดราชการสหพันธ์ที่ประกาศในราชกิจจานุเบกษา ถือปฏิบัติในทุกรัฐและดินแดนสหพันธ์ ยกเว้น Sarawak ซึ่งใช้ตารางวันหยุดราชการของตนเอง"
   etiquette: "ผู้มาเยือนได้รับการต้อนรับในงานเปิดบ้าน ควรแต่งกายสุภาพ ถอดรองเท้าก่อนเข้าบ้านหรือวัด และของฝากเล็ก ๆ น้อย ๆ เป็นขนมหวานถือเป็นธรรมเนียมที่นิยมปฏิบัติ"
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'โกลัมรูปนกยูงหลากสีทำจากผงสี มีขอบสีขาวล้อมรอบ และรายล้อมด้วยตะเกียงดินเผาจุดไฟเล็กๆ สำหรับเทศกาลดีปาวลีในมาเลเซีย'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

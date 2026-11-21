@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "Ce n'est pas un jour férié inscrit au journal officiel, ni au niveau fédéral ni dans aucun État de Malaisie. (Seul Deepavali est un jour férié fédéral — à l'exception du Sarawak ; Thaipusam n'est férié que dans certains États.)"
   etiquette: "Il s'agit avant tout d'une fête culturelle liée aux récoltes, de nature non religieuse (un ministre malaisien l'a précisé en 2020) ; les organisations communautaires et les temples préparent ensemble le pongal dans de nombreux pots et organisent des célébrations publiques accompagnées de spectacles artistiques."
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'Une femme souriante en sari violet et or remue du riz Pongal fumant dans un pot en terre cuite ceint d''une guirlande de soucis, cuisinant en plein air dans un temple hindou pendant le Thai Pongal'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

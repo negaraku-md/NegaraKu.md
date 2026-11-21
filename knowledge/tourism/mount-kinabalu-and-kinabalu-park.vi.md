@@ -101,7 +101,7 @@ visitFacts:
   watch: 'Một chặng leo cao độ hai ngày đòi hỏi nhiều nơi say độ cao và thể lực đều quan trọng và ngọn núi tự tạo thời tiết của riêng nó; lối vào và lộ trình có thể thay đổi sau các sự kiện như một trận động đất lớn, nên hãy lên kế hoạch theo thông tin hiện tại.'
   next: 'Hãy xác nhận quy định và phí giấy phép, hướng dẫn viên cùng chỗ ở hiện tại với Sabah Parks.'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'Đỉnh granit lởm chởm của núi Kinabalu vươn lên trên mây và những đồi chân núi xanh ở Sabah vào buổi sáng'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

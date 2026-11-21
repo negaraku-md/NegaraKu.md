@@ -87,7 +87,7 @@ related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
 hero: '/media/government/macc-sprm/hero.webp'
-heroAlt: 'A long red-brick government building rising above a screen of green trees, its upper facade bearing the gold SPRM (MACC) lettering and emblem above rows of arched windows hung with small Malaysian flags'
+heroAlt: '초록 나무 가림막 위로 솟은 길고 붉은 벽돌의 정부 건물, 상층 전면에 금빛 SPRM(MACC) 글자와 엠블럼이 있고 작은 말레이시아 국기를 건 아치형 창이 늘어선 모습'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'

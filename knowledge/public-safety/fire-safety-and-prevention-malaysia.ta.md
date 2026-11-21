@@ -72,7 +72,7 @@ related: []
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
 hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
-heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroAlt: 'முன்பக்கத்தில் ''BOMBA'' எழுத்துக்கள், பக்கவாட்டில் உபகரணப் பெட்டிகள், நீல விளக்குப் பட்டை கொண்ட பிரகாசமான-சிவப்பு Mercedes-Benz Atego Bomba தீயணைப்பு வாகனம்; இளஞ்சூடான பிற்பகல் ஒளியில் தீயணைப்பு நிலையத்தின் திறந்த மறைப்புக்கு அடியிலிருந்து வெளியேறுகிறது'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'

@@ -68,7 +68,7 @@ faq:
     a: لأن سعر BNM المرجعي لـ USD/MYR في كوالالمبور هو مؤشر سوقي يُحسب من سوق ما بين المصارف، ويُستخدم للعقود والتقييم — وليس سعرًا للتجزئة. فتضيف المصارف وصرّافو العملة هامشهم الخاص فوقه، لذا ستتعامل دائمًا بسعر أسوأ من السعر المرجعي. وكان السعر المرجعي 4.0841 كما في 23 أكتوبر 2026، لكن ذلك هو المؤشر، وليس ما يدفعه العميل فعليًا عند الشباك.
 framework: explainer
 hero: '/media/economy/ringgit/hero.webp'
-heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroAlt: 'واجهة ورقة نقدية ماليزية من مئة رينغيت مكتوب عليها BANK NEGARA MALAYSIA وSERATUS RINGGIT، مع رقم 100 أرجواني كبير وفئة RM وصورة أول يانغ دي-بيرتوان أغونغ بغطاء رأس ملكي'
 heroCredit: 'Apitheart / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'

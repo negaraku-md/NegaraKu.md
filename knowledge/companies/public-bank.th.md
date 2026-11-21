@@ -80,7 +80,7 @@ verificationNeeded:
   - "ผู้นำ: Tay Ah Lek ในฐานะกรรมการผู้จัดการและซีอีโอ และประธานที่ดำรงตำแหน่งอยู่ — ยืนยันตำแหน่งในคณะกรรมการปัจจุบัน"
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'อาคาร Menara Public Bank ทรงลดหลั่นเปล่งแสงสีทองอบอุ่นตัดกับท้องฟ้ายามพลบค่ำ โลโก้ Public Bank สีแดงปนเหลืองส่องไฟที่ยอดและตราคำ PUBLIC BANK ส่องสว่างเหนือทางเข้า'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

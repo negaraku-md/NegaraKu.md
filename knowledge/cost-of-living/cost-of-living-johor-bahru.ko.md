@@ -75,7 +75,7 @@ related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
 hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
-heroAlt: 'The Johor Bahru city skyline at night with a lit tower beside the Johor–Singapore Causeway and traffic light trails'
+heroAlt: '밤의 조호르바루 도시 스카이라인, 조호르-싱가포르 코즈웨이 옆에 조명을 받은 타워와 차량 불빛 궤적이 있는 모습'
 heroCredit: 'Lionel Lim / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'

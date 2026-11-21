@@ -86,7 +86,7 @@ festivalFacts:
   holiday: "圣诞节（12 月 25 日）是全国各州与联邦直辖区的公共假期（半岛依据 1951 年假期法令（Act 369）第一附表；沙巴与砂拉越则依州法令）。沙巴另依《沙巴假期条例》（Cap. 56）将平安夜（12 月 24 日）宪报公布为州公共假期。"
   etiquette: "招待任何背景客人共进一餐的开放门户（open house）传统，如同其他节日一样也适用于圣诞节；设宴的基督徒家庭通常欢迎其他信仰的客人，而在整个节庆历中，互访是双向进行的。"
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: '一棵高耸的圣诞树装饰华丽，矗立于吉隆坡Pavilion商场中庭，四周环绕悬挂的金色灯笼、旋转木马和红毯上熙攘的购物人群'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

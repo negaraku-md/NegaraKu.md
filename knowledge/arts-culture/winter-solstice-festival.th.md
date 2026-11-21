@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "ไม่ใช่วันหยุดราชการ — วันเหมายันในมาเลเซียไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ"
   etiquette: "ชาวจีนส่วนใหญ่เฉลิมฉลองกันอย่างเรียบง่ายในบ้าน สมาชิกในครอบครัวนั่งล้อมวงปั้น tangyuan และรับประทานอาหารร่วมกัน แทนที่จะจัดกิจกรรมสาธารณะขนาดใหญ่ บางครอบครัวจะใช้ tangyuan เซ่นไหว้บรรพบุรุษและสักการะเทพเจ้าก่อน แล้วจึงรับประทานร่วมกันทั้งครอบครัว วิธีปฏิบัติแตกต่างกันไปตามแต่ละครอบครัวและกลุ่มภาษาถิ่น"
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'ชามสีขาวใส่ลูกบัวลอยข้าวเหนียวสีชมพู ม่วงและเหลืองพาสเทลลอยในน้ำเชื่อมใสหวาน พร้อมช้อนเซรามิกขอบสีน้ำเงินวางอยู่ในชาม'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

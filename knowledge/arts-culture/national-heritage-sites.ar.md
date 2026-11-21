@@ -74,7 +74,7 @@ related: ["unesco-world-heritage"]
 keywords: ["التراث الوطني", "warisan kebangsaan", "قانون التراث الوطني 2005", "Akta Warisan Kebangsaan 2005", "القانون 645", "Akta 645", "دائرة التراث الوطني", "Jabatan Warisan Negara", "سجل التراث الوطني", "WAKOH", "موقع تراثي"]
 framework: explainer
 hero: '/media/arts-culture/national-heritage-sites/hero.webp'
-heroAlt: 'The full Moorish-style facade of the Sultan Abdul Samad Building in Kuala Lumpur, its long arcade of brick arches running beneath a tall central clock tower and copper onion domes, viewed from the empty paved roadway of Merdeka Square under a pale sky'
+heroAlt: 'الواجهة الكاملة بطراز موري لمبنى السلطان عبد الصمد في كوالالمبور، رواقه الطويل من الأقواس الآجرية يمتد أسفل برج ساعة مركزي شاهق وقباب نحاسية بصليّة، مرئي من الطريق المرصوف الخالي في ساحة مرديكا تحت سماء شاحبة'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'

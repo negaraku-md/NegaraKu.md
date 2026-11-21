@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "祝日ではない。中秋節はマレーシアでは全国的にも、いずれの州においても祝日ではなく、商店や政府機関は通常どおり運営される（最初の2日間が祝日となる旧正月とは異なる）。"
   etiquette: "華人会館、廟（クアラルンプールの楽聖嶺天后宮など）や地域組織が催す提灯の夕べ、芸能公演などの公開の祝典は、他の民族の住民が一緒に参加し観覧することを歓迎することが多く、民族を越えて共有される一面を持つ。"
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'マレーシアの中秋節の夜。紫の上着と赤いズボンを着た笑顔の男が青と黄の球形提灯を掲げる、大きく輝く絹の提灯像。背後の遊歩道沿いに赤と金の提灯の列が灯る'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

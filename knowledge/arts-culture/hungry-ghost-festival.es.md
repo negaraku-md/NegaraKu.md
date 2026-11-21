@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "No es fiesta pública ni a nivel nacional ni en ningún estado de Malasia; las ofrendas, las ceremonias de Yulan Shenghui y los espectáculos de getai se celebran en su mayoría al atardecer y por la noche, tras la jornada laboral."
   etiquette: "En los espectáculos de getai, la primera fila de asientos se deja deliberadamente vacía, reservada a los invitados invisibles, y el público por lo general no se sienta en ella; la tradición popular también aconseja no pisar las ofrendas colocadas al borde del camino ni recoger objetos de valor que se encuentren en el suelo."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'Un escenario de festival bajo una carpa iluminado con arcos de neón rojo, paneles en forma de estrella y un letrero LED con caracteres chinos en movimiento por la noche durante el getai del séptimo mes'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

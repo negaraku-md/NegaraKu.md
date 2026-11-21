@@ -115,7 +115,7 @@ stayFacts:
   watch: 'الشهادة قابلة للنقل لكن التجربة محلية — فحجم الصفّ والمرافق والحياة الجامعية تتفاوت تفاوتاً واسعاً بين حرم قائم بذاته وآخر مشترك في مدينة تعليمية. ولا تزال برامج الأحرام الفرعية بحاجة إلى اعتماد MQA وتظهر في السجلّ الماليزي للمؤهّلات (MQR).'
   next: 'ضع قائمة مختصرة بحسب التخصّص والموقع، وتحقّق من البرنامج بالضبط في السجلّ الماليزي للمؤهّلات، وأكِّد ترخيص تسجيل الطلاب الدوليين مع الحرم. راجع مقال الدراسة في ماليزيا، ومقال الجامعات العامة مقابل الخاصة.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'مبنى جامعة حداثي أبيض ببرج ساعة يرتفع خلف بحيرة خضراء ساكنة كالمرآة تحفّها خُضرة متدلّية وأشجار تحت سماء درامية'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

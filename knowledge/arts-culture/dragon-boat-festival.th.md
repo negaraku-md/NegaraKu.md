@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "ไม่ใช่วันหยุดราชการ — ในมาเลเซียไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ โดยทั่วไปยังคงทำงานและเรียนตามปกติ"
   etiquette: "การเฉลิมฉลองในครอบครัวส่วนใหญ่กระจุกตัวอยู่ที่มื้ออาหารบะจ่างในวันเทศกาล ส่วนกิจกรรมสาธารณะขนาดใหญ่อย่างการแข่งเรือมังกรมักจัดในวันสุดสัปดาห์หรือวันที่ใกล้เคียง เพื่อความสะดวกในการเข้าร่วมของประชาชน บางครอบครัวจะแขวนต้นโกฐจุฬาลัมพาและต้นว่านน้ำไว้หน้าประตูบ้าน หรือลอง「ตั้งไข่」ในเวลาเที่ยงวันของเทศกาล แต่วิธีปฏิบัติของแต่ละครอบครัวแตกต่างกันไป"
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'เรือมังกรยาวสีเหลืองปนส้มพร้อมหัวมังกรแกะสลักที่หัวเรือและหางทรงเปลวไฟ เรียงรายด้วยฝีพายสวมเสื้อชูชีพตามท่าเทียบเรือข้างแหลมที่ปกคลุมด้วยป่าในรัฐซาบาห์'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

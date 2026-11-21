@@ -90,7 +90,7 @@ related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "guantes de goma", "rubber gloves", "fundición de aluminio", "aluminium smelter", "manufactura de Malasia", "trabajo forzoso", "forced labour", "Bursa Malaysia", "exportaciones", "Sarawak", "ESG"]
 framework: profile
 hero: '/media/companies/top-glove-and-press-metal/hero.webp'
-heroAlt: 'A close-up of a glove production line where hand-shaped formers coated in wet blue latex hang in a row and drip into a tray of blue liquid below, with freshly dipped white gloves on formers in the background'
+heroAlt: 'Primer plano de una línea de producción de guantes donde moldes con forma de mano recubiertos de látex azul húmedo cuelgan en fila y gotean en una bandeja de líquido azul debajo, con guantes blancos recién sumergidos en los moldes al fondo'
 heroCredit: 'Marketingdepascale / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'

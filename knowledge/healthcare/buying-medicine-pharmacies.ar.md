@@ -56,7 +56,7 @@ related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["شراء الأدوية في ماليزيا", "الصيدليات في ماليزيا", "Poisons Act 1952", "Akta Racun 1952", "الأدوية بوصفة طبية", "الأدوية دون وصفة", "صيدلي مسجَّل", "سموم المجموعة B", "Quest3+", "NPRA"]
 framework: explainer
 hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
-heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroAlt: 'مبنى متجر زاوية أحمر زاهٍ من عام 1955 يضمّ فرع صيدلية BIG Pharmacy (Farmasi) في كلوانغ، ماليزيا، بلافتة Farmasi ثنائية اللغة'
 heroCredit: 'Dominic Nelson / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'

@@ -71,7 +71,7 @@ relations:
 related: ["petroleum-development-act-1974", "oil-gas-industry"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Petroleum Development Act 1974", "national oil company", "Malaysia oil and gas", "federal revenue", "government dividend"]
 hero: '/media/industries/petronas-industry-profile/hero.webp'
-heroAlt: 'The illuminated PETRONAS Twin Towers standing at the centre of the dense Kuala Lumpur skyline, linked by their skybridge and rising above the Suria KLCC mall, under an orange and blue dusk sky'
+heroAlt: '橙蓝色暮空下，亮灯的国油双峰塔矗立于密集的吉隆坡天际线中央，由空中天桥相连，高耸于Suria KLCC商场之上'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

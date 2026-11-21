@@ -111,7 +111,7 @@ visitFacts:
   watch: 'لا تُفرط في شراء الخمور المعفاة من الرسوم لأخذها معك — فالأسعار الزهيدة للاستمتاع بها على الجزيرة، ولا يمرّ عبر الجمارك على البرّ الرئيسي سوى بدل محدود.'
   next: 'تأكّد من جداول العبّارات الحالية مع مشغّلي العبّارات، ومن بدلات الإعفاء من الرسوم مع دائرة الجمارك الملكية الماليزية (RMCD).'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'جسر لنكاوي السماوي المنحني معلّق عاليًا بين قمم جبلية مغطّاة بالغابات فوق بحر أندامان'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

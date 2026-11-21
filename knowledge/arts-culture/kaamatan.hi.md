@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "30 और 31 मई को सबाह राज्य और लाबुआन संघीय क्षेत्र में सार्वजनिक अवकाश; यह देशव्यापी सार्वजनिक अवकाश नहीं है।"
   etiquette: "Unduk Ngadau को Huminodun किंवदंती का सम्मान करने वाली सांस्कृतिक प्रतियोगिता के रूप में समझें, न कि एक साधारण सौंदर्य प्रतियोगिता के रूप में, और Bambaazon विश्वास तथा Huminodun किंवदंती को समुदाय की अपनी परंपरा के रूप में सम्मानपूर्वक लें, न कि प्रतिपादित तथ्य के रूप में।"
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: 'सबा के पेनामपांग में तारों भरे मंच पर कामातान अनुष्ठान करते काली-सुनहरी पारंपरिक पोशाक में कादाज़ान-दुसुन बोबोहिज़ान पुजारी और पुजारिनें'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

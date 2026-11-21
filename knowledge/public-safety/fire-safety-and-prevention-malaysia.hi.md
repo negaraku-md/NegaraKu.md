@@ -72,7 +72,7 @@ related: []
 keywords: ["अग्नि सुरक्षा", "अग्नि रोकथाम", "अग्नि प्रमाणपत्र", "perakuan bomba", "fire certificate", "JBPM", "अग्निशमन सेवा अधिनियम 1988"]
 framework: explainer
 hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
-heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroAlt: 'सामने ''BOMBA'' अक्षरों, किनारे उपकरण लॉकरों और एक नीली लाइट-बार वाला एक चमकीला-लाल मर्सिडीज़-बेंज़ एटेगो बोम्बा अग्निशमन वाहन, गर्म दोपहर की रोशनी में एक अग्निशमन केंद्र के खुले शटर से बाहर निकलता हुआ'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'

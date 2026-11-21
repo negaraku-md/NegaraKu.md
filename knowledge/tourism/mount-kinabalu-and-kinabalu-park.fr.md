@@ -101,7 +101,7 @@ visitFacts:
   watch: 'Une ascension exigeante de deux jours en haute altitude où le mal des montagnes et la condition physique comptent et où la montagne crée sa propre météo ; l''accès et l''itinéraire peuvent changer après des événements comme un fort tremblement de terre, planifiez donc sur la base des informations en vigueur.'
   next: 'Confirmez les règles et tarifs en vigueur de permis, de guide et d''hébergement auprès de Sabah Parks.'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: 'Le sommet de granit déchiqueté du mont Kinabalu s''élevant au-dessus des nuages et des contreforts verts à Sabah le matin'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

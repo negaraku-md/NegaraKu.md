@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "यह सार्वजनिक अवकाश नहीं है — मलेशिया में शीत संक्रांति देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है।"
   etiquette: "चीनी लोग अधिकतर घर पर सादगी से मनाते हैं, पूरा परिवार साथ बैठकर tangyuan बनाता है और एक भोजन साझा करता है, न कि कोई बड़ा सार्वजनिक आयोजन करते हैं; कुछ परिवार पहले tangyuan से पूर्वजों और देवताओं की पूजा करते हैं फिर परिवार मिलकर खाता है, रीति परिवार और बोली-समूह के अनुसार भिन्न होती है।"
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'साफ़ मीठी चाशनी में तैरते हल्के गुलाबी, बैंगनी और पीले चिपचिपे चावल के गोलों का एक सफ़ेद कटोरा, जिसमें एक नीले किनारे वाला चीनी मिट्टी का चम्मच रखा है'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

@@ -88,7 +88,7 @@ verificationNeeded:
   - "El año de fundación del Portuguese Settlement (indicado habitualmente como 1933) y la afirmación de que varios platos caseros como el pang susi y los de vísceras se están volviendo raros — confírmese con una fuente primaria o patrimonial."
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: 'Una porción de pastel de sémola (sugee) húmedo con corteza dorada en un plato blanco con un tenedor'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

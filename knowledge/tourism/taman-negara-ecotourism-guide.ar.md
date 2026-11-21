@@ -86,7 +86,7 @@ visitFacts:
   watch: 'قد تُنمي الرياح الموسمية الشمالية الشرقية الأنهار وتعطّل القوارب والدروب، وواجهت ممرّات المظلّة إغلاقات، والعَلَق والرطوبة دائمان — تأكّد من الوصول واحجز المرشدين مسبقاً.'
   next: 'تأكّد من قواعد التصاريح والدخول ورسومها الحالية مع مكتب دائرة الحياة البرية والمنتزهات الوطنية (PERHILITAN) في Taman Negara Pahang.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'تلال متموّجة من غابة مطيرة استوائية كثيفة تمتد إلى الأفق تحت سماء زرقاء في تامان نيغارا'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

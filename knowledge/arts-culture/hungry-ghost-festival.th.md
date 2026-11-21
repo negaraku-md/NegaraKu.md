@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "ไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ ในมาเลเซีย การเซ่นไหว้ พิธีอวิ๋นหลานเซิ่งฮุ่ย (盂兰胜会) และการแสดงบนเวที (歌台) ส่วนใหญ่จัดขึ้นในช่วงเย็นหลังเลิกงานและเวลากลางคืน"
   etiquette: "ที่นั่งแถวหน้าสุดของเวทีการแสดง (歌台) จงใจเว้นว่างไว้ให้แขกที่มองไม่เห็น ผู้ชมโดยทั่วไปจึงไม่นั่งแถวแรก นอกจากนี้ยังมีคำกล่าวในหมู่ชาวบ้านว่าอย่าเหยียบย่ำเครื่องเซ่นข้างทาง และอย่าเก็บทรัพย์สินที่ตกอยู่บนพื้นโดยพลการ"
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'เวทีงานเทศกาลใต้ปะรำเรืองแสงด้วยส่วนโค้งนีออนสีแดง แผงรูปดาว และป้าย LED อักษรจีนวิ่งในยามค่ำคืนช่วงเกไทเดือนเจ็ด'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

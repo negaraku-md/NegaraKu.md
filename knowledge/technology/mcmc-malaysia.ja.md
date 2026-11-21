@@ -86,7 +86,7 @@ relations:
 related: ["online-safety-act-malaysia"]
 keywords: ["MCMC", "SKMM", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen kelas", "spektrum", "JENDELA", "Digital Nasional Berhad", "5G"]
 hero: '/media/technology/mcmc-malaysia/hero.webp'
-heroAlt: 'Modern glass office towers and commercial buildings at Shaftsbury Square in Cyberjaya, Malaysia'
+heroAlt: 'マレーシアのサイバージャヤのシャフツベリー・スクエアの近代的なガラスのオフィスタワーと商業建物'
 heroCredit: 'Vimobe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjaya.jpg'

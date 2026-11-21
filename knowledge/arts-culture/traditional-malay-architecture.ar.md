@@ -66,7 +66,7 @@ related: []
 keywords: ["البيت الملايوي", "rumah Melayu", "البيت على ركائز", "rumah panggung", "العمارة المحلية", "senibina vernakular", "bumbung panjang", "tebar layar", "البيت الطويل", "rumah panjang", "kampung", "التراث", "warisan"]
 framework: history-culture
 hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
-heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroAlt: 'قصر ملايوي خشبي مثمّن الأضلاع مزخرف بأسطح شينغل حادة متدرجة، جدران من الخيزران المنسوج بنمط معيّن بالأسود والأبيض والذهبي، ونوافذ مشبّكة وإفريز منحوت مذهّب، قائم على مرج تحت سماء غائمة'
 heroCredit: 'Akml5599 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'

@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "सरवाक राज्य में सार्वजनिक अवकाश (25 सितंबर 1964 को राजपत्रित)।"
   etiquette: "लॉन्गहाउस का द्वार खुला रखा जाता है — आने वाले परिवार, पड़ोसियों और मेहमानों का आतिथ्य त्योहार का हिस्सा है; एक आम अभिवादन है 'Gayu Guru, Gerai Nyamai' (दीर्घायु, स्वास्थ्य, समृद्धि), या 'Selamat Hari Gawai'। यह सबसे पहले एक पारिवारिक और लॉन्गहाउस अनुष्ठान है, कोई पर्यटक तमाशा नहीं।"
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: 'पारंपरिक दयाक भित्तिचित्र पृष्ठभूमि वाले मंच पर हॉर्नबिल-पंख वाले शिरोभूषण और फ़र बनियान पहने एक इबान योद्धा नर्तक नगाजात नृत्य करता हुआ'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

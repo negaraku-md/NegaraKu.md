@@ -79,7 +79,7 @@ verificationNeeded:
   - "செயல்படும் நாடுகளின் எண்ணிக்கை (பத்து ASEAN நாடுகள் அனைத்தும், மேலும் உலகளாவிய நிதி மையங்கள்) — மாறலாம்."
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: 'Kuala Lumpur வானோரத்திற்கு மேல் உயரும் வெள்ளை இரட்டை-உருளை Menara Maybank கோபுரம்; உச்சிக்கு அருகே ஒரு பலகையில் நீல Maybank சின்னமும் சொற்குறியும்'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

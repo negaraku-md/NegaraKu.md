@@ -71,7 +71,7 @@ related: ["indian-classical-arts-in-malaysia", "temple-music-nadaswaram", "tamil
 keywords: ["தமிழர் நாட்டுப்புற நடனங்கள்", "கரகாட்டம்", "ஒயிலாட்டம்", "மயிலாட்டம்", "பொய்க்கால் குதிரை ஆட்டம்", "காவடியாட்டம்", "மலேசியத் தமிழ் நடனம்", "Tamil folk dances Malaysia", "Karagattam", "Oyilattam"]
 framework: history-culture
 hero: '/media/arts-culture/tamil-folk-dances/hero.webp'
-heroAlt: 'Rows of women in matching orange saris dancing in formation outdoors, each balancing a tall red decorated pot on her head'
+heroAlt: '屋外で隊形を組んで踊る、揃いのオレンジのサリーを着た女性たちの列。それぞれが頭に背の高い赤い装飾された壺を乗せて支える'
 heroCredit: 'தகவலுழவன் (Thakavaluzhavan) / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Nadu357.jpeg'

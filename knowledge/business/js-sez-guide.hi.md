@@ -104,7 +104,7 @@ keywords:
   - "JS-SEZ tax incentive"
 framework: rules
 hero: '/media/business/js-sez-guide/hero.webp'
-heroAlt: 'A sleek dark-glass corporate office tower in Medini, Iskandar Puteri, rising above a landscaped park walkway under a clear sky'
+heroAlt: 'इस्कंदर पुतेरी के मेदिनी में साफ़ आसमान के नीचे एक भूदृश्य उद्यान पथ के ऊपर उठती एक चिकनी गहरे काँच की कॉर्पोरेट कार्यालय मीनार'
 heroCredit: 'Ellisdee021 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'

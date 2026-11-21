@@ -104,7 +104,7 @@ related: []
 keywords: ["धान उर्वरक सब्सिडी", "SBPKP", "SIPP", "धान उत्पादन प्रोत्साहन", "कृषि सब्सिडी", "किसान इनपुट सहायता"]
 framework: explainer
 hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
-heroAlt: 'Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight'
+heroAlt: 'तेज़ धूप में पानी भरे धान के खेत की कीचड़ भरी मेड़ पर झुककर काम करता और कीचड़ उछालता किसान'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'

@@ -80,7 +80,7 @@ verificationNeeded:
   - "말레이시아 두 번째 5G 망의 현황과 그 안에서 Maxis의 역할(2024년 11월 U Mobile 선정) — MCMC와의 현행 5G 정책 및 합의를 확인."
 framework: profile
 hero: '/media/companies/maxis/hero.webp'
-heroAlt: 'The floodlit curved crown of Menara Maxis at night, its tiered terraces glowing white against a black sky, with the blue-and-green maxis logo sign and a red digital clock reading 7:57 mounted near the top'
+heroAlt: '밤에 조명을 받은 므나라 막시스의 곡선 꼭대기, 검은 하늘을 배경으로 다층 테라스가 하얗게 빛나고 꼭대기 가까이에 파랑·초록 maxis 로고 간판과 7:57을 표시하는 붉은 디지털 시계가 붙은 모습'
 heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'

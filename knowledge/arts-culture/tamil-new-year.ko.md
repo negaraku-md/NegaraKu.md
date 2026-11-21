@@ -78,7 +78,7 @@ festivalFacts:
   holiday: "연방 공휴일이 아니며, 어떤 주도 통상적으로 공휴일로 선포하지 않는다(디파발리나 타이푸삼과는 다르다)."
   etiquette: "\"새해 복 많이 받으세요(புத்தாண்டு வாழ்த்துகள்)\"라고 주고받는 것이 관례다. 치타라이 날에는 쿠알라룸푸르의 리틀 인디아, 사원, 공동체 행사에서 축제 분위기가 나타난다."
 hero: '/media/arts-culture/tamil-new-year/hero.webp'
-heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroAlt: '쿠알라룸푸르 브릭필즈의 야외 타밀 푸탄두 축제에서 초록과 적갈색 사리를 입은 젊은 말레이시아 인도계 여성이 두 손을 모아 나마스테 인사를 하며, 뒤로 축제 천막과 도시 스카이라인이 보이는 모습'
 heroCredit: 'Nimaaland / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'

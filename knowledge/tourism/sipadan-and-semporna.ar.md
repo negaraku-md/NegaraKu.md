@@ -108,7 +108,7 @@ visitFacts:
   watch: 'تقع جزر شرق صباح في منطقة أمنية محدّدة (ESSZONE)، والتصاريح غير مضمونة أبداً، وتنطبق حدود الحفظ (بما فيها إغلاق سنوي) — سافر وأنت مُطّلع وراجع النصائح الرسمية الحالية.'
   next: 'تأكّد من سقف تصاريح Sipadan ورسومه الحالي وأي إغلاق للحفظ مع Sabah Parks أو مشغّل الغوص المرخّص لديك.'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'منظر جوي فوق بحيرة شعاب فيروزية زاهية تحيط بها جزر خضراء تحت سماء ساطعة منقّطة بالغيوم في حديقة تون ساكاران البحرية قرب سمبورنا، صباح'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

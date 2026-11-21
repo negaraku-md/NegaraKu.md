@@ -71,7 +71,7 @@ related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
 hero: '/media/states/labuan/hero.webp'
-heroAlt: 'The modern curved blue-glass and silver towers of the Financial Park Labuan complex rising above palm trees under a bright sky'
+heroAlt: 'Những tòa tháp kính xanh uốn cong hiện đại và bạc của khu phức hợp Financial Park Labuan vươn lên trên những cây cọ dưới bầu trời rực rỡ'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'

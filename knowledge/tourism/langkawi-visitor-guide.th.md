@@ -111,7 +111,7 @@ visitFacts:
   watch: 'อย่าซื้อเหล้าปลอดภาษีมากเกินไปเพื่อนำกลับบ้าน เพราะราคาถูกนั้นไว้สำหรับเพลิดเพลินบนเกาะ และมีเพียงสิทธิ์จำกัดที่ผ่านศุลกากรบนแผ่นดินใหญ่ได้'
   next: 'ตรวจสอบตารางเรือเฟอร์รีปัจจุบันกับผู้ประกอบการเรือ และสิทธิ์ปลอดอากรกับกรมศุลกากรมาเลเซีย (Royal Malaysian Customs Department, RMCD)'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'สะพานลอยฟ้าลังกาวีทรงโค้งแขวนอยู่สูงระหว่างยอดเขาที่ปกคลุมด้วยป่าเหนือทะเลอันดามัน'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

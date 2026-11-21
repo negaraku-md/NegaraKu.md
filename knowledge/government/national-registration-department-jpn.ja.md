@@ -83,7 +83,7 @@ relations: []
 related: []
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
 hero: '/media/government/national-registration-department-jpn/hero.webp'
-heroAlt: 'The tiered pale-stone tower of the National Registration Department (JPN) headquarters in Putrajaya against a blue sky, with ''JPN'' logos near the top of the tower'
+heroAlt: '青空を背にした、プトラジャヤの国家登録局(JPN)本部の段状の淡色の石の塔。塔の上部近くに「JPN」のロゴ'
 heroCredit: 'Farishhamka / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_Jabatan_Pendaftaran_Negara_(JPN)_%E2%80%93_WP_Putrajaya,_Malaysia.jpg'

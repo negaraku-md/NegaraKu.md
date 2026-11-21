@@ -101,7 +101,7 @@ visitFacts:
   watch: '数が限られ許可で管理される目玉は十分に前もって予約し、リーフ回復のためのSipadanの毎年11月の閉鎖を踏まえて計画すること；これらは売り切れ、到着時には確保できないからである。'
   next: '出発前に、現在の入境・訪問パス・許可の規則を、Immigration Department of MalaysiaおよびSabah Parksで確認すること。'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: '夜明け、雲海の上でバラ色に輝く、キナバル山のセント・ジョンズ・ピークの花崗岩の頂'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

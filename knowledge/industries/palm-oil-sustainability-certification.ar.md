@@ -105,7 +105,7 @@ related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "زيت النخيل المستدام", "sustainable palm oil", "MS 2530:2022", "MPOCC", "العمل القسري", "forced labour", "إزالة الغابات", "deforestation", "اعتماد زيت النخيل", "palm oil certification"]
 framework: explainer
 hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
-heroAlt: 'A tidy, well-managed oil-palm estate stretching across rolling green land under a bright sky in Mersing District, Johor'
+heroAlt: 'مزرعة نخيل زيت مرتّبة حسنة الإدارة تمتد عبر أرض خضراء متموّجة تحت سماء ساطعة في منطقة ميرسينغ، جوهور'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'

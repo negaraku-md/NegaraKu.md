@@ -93,7 +93,7 @@ related: []
 keywords: ["KPDN", "KPDN是什么部门", "国内贸易及生活成本部", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
 hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
-heroAlt: 'Wide frontal view of the long sandstone KPDN ministry building in Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' lettering above the central entrance and a taller office block bearing the diamond K logo at the right end'
+heroAlt: '布城KPDN部门长长的砂岩大楼正面全景，中央入口上方书有''Kementerian Perdagangan Dalam Negeri''字样，右端一座更高的办公楼带着菱形K标志'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'

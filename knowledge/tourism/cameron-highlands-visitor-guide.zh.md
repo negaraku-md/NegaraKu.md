@@ -92,7 +92,7 @@ visitFacts:
   watch: '别把它当作一座城镇——它是三处各有分工的聚落——且茶园逢星期一休息，高原天气变化又快，故每日行程可能临时调整。'
   next: '请直接向各景点确认当前的开放时间与星期一休息情况——茶园请查 BOH Plantations 官方网站（bohtea.com），农场与花园景点请查金马伦高原县议会（MDCH）。'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: '蓝天白云下，鲜绿色起伏的茶园梯田覆盖着金马仑高原的群山'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

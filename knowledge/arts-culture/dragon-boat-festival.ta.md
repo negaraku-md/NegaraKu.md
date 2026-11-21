@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "பொது விடுமுறை அல்ல — மலேசியாவில் நாடளாவிய அளவிலோ எந்த மாநில அளவிலோ பொது விடுமுறை அல்ல, பொதுவாக வழக்கம் போல் வேலையும் வகுப்புகளும் நடைபெறும்."
   etiquette: "குடும்பக் கொண்டாட்டம் பெரும்பாலும் பண்டிகை நாளில் 粽 உணவு ஒன்றை மையமாகக் கொண்டது; டிராகன் படகு போன்ற பெரிய பொது நிகழ்வுகள் மக்கள் பங்கேற்க வசதியாக வார இறுதியிலோ அண்மைய நாட்களிலோ அடிக்கடி நடத்தப்படுகின்றன. சில குடும்பங்கள் வீட்டு வாசலில் மூலிகை (艾草) மற்றும் 菖蒲 (calamus) தொங்கவிடுகின்றன, அல்லது பண்டிகை நண்பகலில் 「முட்டையை நிறுத்தி வைக்கும்」 (立蛋) முயற்சியை மேற்கொள்கின்றன, ஆனால் ஒவ்வொரு குடும்பத்தின் வழக்கமும் வேறுபடும்."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'Sabah மாநிலத்தில், காட்டடர்ந்த முனைப்பகுதிக்கு அருகே ஒரு கப்பல்துறையில், முன்பகுதியில் செதுக்கிய டிராகன் தலையும் தீ வடிவ வாலும் கொண்ட நீளமான மஞ்சள்-ஆரஞ்சு டிராகன் படகு; படகுத் துடுப்பாளர்கள் உயிர்காக்கும் ஜாக்கெட்டுகளுடன் வரிசையாக'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

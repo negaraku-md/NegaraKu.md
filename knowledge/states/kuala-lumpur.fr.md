@@ -72,7 +72,7 @@ related: []
 keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
 framework: profile
 hero: '/media/states/kuala-lumpur/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above the KLCC district skyline against a golden dusk sky in Kuala Lumpur'
+heroAlt: 'Les tours jumelles Petronas illuminées s''élevant au-dessus de la silhouette du quartier KLCC contre un ciel crépusculaire doré à Kuala Lumpur'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

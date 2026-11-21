@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "청명절은 말레이시아의 공휴일이 아니며, 당일에는 대부분의 상점이 평소대로 운영된다."
   etiquette: "금은지와 종이 공예를 태우는 일은 불꽃과 연기를 수반하므로, 일부 묘지와 추모원은 소각 구역을 지정하거나 규정을 둔다. 근년에는 보다 친환경적인 방식으로 바꾸는 사람도 있다."
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: '멜라카 부킷 치나의 풀 덮인 언덕 위에 놓인 큰 회색 돌 중국식 무덤, 오메가 모양 곡선 둘레와 붉은 기와 제사 마당이 있고, 근처에 돔을 인 별도의 토지신 무덤과 나무 사이를 지나가는 행인이 있는 모습'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

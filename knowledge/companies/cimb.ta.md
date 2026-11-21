@@ -82,7 +82,7 @@ verificationNeeded:
   - "வாடிக்கையாளர் எண்ணிக்கை (மூன்றாம் தரப்புச் சுயவிவரங்களில் குறிப்பிடப்பட்ட எண்கள் பரவலாக மாறுபடுகின்றன, எ.கா. ~13.5 மில்லியன் சில்லறை எதிர் ~25 மில்லியன் மொத்தம்) — ஒரு எண்ணை வெளியிடுமுன் CIMB-இன் சொந்த தற்போதைய அறிக்கையுடன் சரிபார்க்கவும்."
 framework: profile
 hero: '/media/companies/cimb/hero.webp'
-heroAlt: 'A bronze-glass office tower crowned by a large red CIMB BANK sign, with a red CIMB BANK and CIMB ISLAMIC banner down its side, rising above the Kuala Lumpur street'
+heroAlt: 'Kuala Lumpur தெருவுக்கு மேல் உயரும், பெரிய சிவப்பு CIMB BANK பலகையால் சூடப்பட்ட வெண்கல-கண்ணாடி அலுவலக கோபுரம்; பக்கவாட்டில் சிவப்பு CIMB BANK மற்றும் CIMB ISLAMIC பதாகை'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'

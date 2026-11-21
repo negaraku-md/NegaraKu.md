@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "ليس عطلة رسمية — الانقلاب الشتوي في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية."
   etiquette: "يحتفل الصينيون غالبًا في البيوت باحتشام، إذ تجلس الأسرة معًا لصنع tangyuan وتناول وجبة مشتركة، بدلًا من إقامة فعاليات عامة كبيرة؛ وتقدّم بعض الأسر tangyuan للأسلاف والآلهة أولًا قبل أن تأكل الأسرة كلها معًا، وتختلف العادات باختلاف الأسرة والمجموعة اللهجية."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'وعاء أبيض من كريات الأرز اللزج بألوان وردية وبنفسجية وصفراء باهتة تطفو في شراب حلو صافٍ مع ملعقة خزفية بحافة زرقاء مستقرّة فيه'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

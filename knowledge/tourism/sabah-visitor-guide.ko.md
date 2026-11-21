@@ -101,7 +101,7 @@ visitFacts:
   watch: '허가제로 희소한 대표 명소는 넉넉히 앞서 예약하고, 산호초 회복을 위한 시파단의 연례 11월 휴장에 맞춰 계획하십시오. 이 자리들은 매진되고 도착해서는 확보할 수 없기 때문입니다.'
   next: '출발 전에 현재의 입국·방문 패스 및 허가 규정을 말레이시아 이민청(Immigration Department of Malaysia)과 Sabah Parks에 확인하십시오.'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: '새벽, 구름바다 위에서 분홍빛으로 빛나는 키나발루산 세인트존스 봉의 화강암 정상'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

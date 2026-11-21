@@ -99,7 +99,7 @@ stayFacts:
   watch: 'Comme aucun frais n''est fixé par le gouvernement, le prix réel varie fortement d''une école à l''autre, même pour la même tranche d''âge, et les hausses de frais sont plafonnées à 30% au plus une fois tous les trois ans. Prévoyez aussi une taxe sur les services de 6% qui s''applique, par élève et par année académique, lorsque les frais annuels d''un enfant dépassent RM60,000 — une taxe qui s''ajoute aux frais, non fixée par l''école.'
   next: 'Présélectionnez des écoles et confirmez leurs grilles de frais en vigueur et le seuil fiscal de RM60,000 directement auprès de chacune avant d''établir un budget. Pour la planification associée, voyez le Pass de personne à charge ou le pass de visite sociale de longue durée pour parrainer les enfants qui accompagnent un employé étranger, et S''inscrire dans une école publique si une école publique figure aussi sur votre liste de comparaison.'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: 'Un portail d''entrée d''école internationale moderne avec une guérite couverte, des haies taillées et des arbres feuillus, avec des bâtiments de campus bas derrière sous un ciel nuageux'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

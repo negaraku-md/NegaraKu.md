@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "क़िंगमिंग त्योहार मलेशिया का सार्वजनिक अवकाश नहीं है, उस दिन अधिकांश व्यापारिक प्रतिष्ठान सामान्य रूप से चलते हैं।"
   etiquette: "चूँकि स्वर्ण-रजत कागज़ और कागज़ की भेंटें जलाने में खुली आग और धुआँ शामिल होता है, कुछ कब्रिस्तान और स्मारक उद्यान जलाने के लिए क्षेत्र निर्धारित करते हैं या नियम बनाते हैं, हाल के वर्षों में कुछ लोग अधिक पर्यावरण-अनुकूल तरीके भी अपनाने लगे हैं।"
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'मेलाका के बुकित चीना में एक घास वाली पहाड़ी पर स्थित एक बड़ी धूसर पत्थर की चीनी कब्र जिसके चारों ओर घुमावदार ओमेगा-आकार का घेरा और लाल खपरैल का पूजा-प्रांगण है, पास में एक अलग गुंबदनुमा भूमि-देवता की कब्र और पेड़ों के बीच से गुज़रता एक राहगीर'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

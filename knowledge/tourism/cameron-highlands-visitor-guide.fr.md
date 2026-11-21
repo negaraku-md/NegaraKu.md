@@ -92,7 +92,7 @@ visitFacts:
   watch: 'Ne considérez pas ce lieu comme une seule ville — ce sont trois localités aux rôles différents — et notez que les jardins de thé ferment le lundi tandis que la météo du plateau change rapidement, de sorte que les plans de la journée peuvent évoluer.'
   next: 'Confirmez les horaires d''ouverture et les fermetures du lundi en vigueur directement auprès de chaque site — le site officiel de BOH Plantations (bohtea.com) pour les jardins de thé et le Conseil de district des Cameron Highlands (MDCH) pour les fermes et jardins.'
 hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
-heroAlt: 'Vivid green rolling tea plantation terraces covering the hills of Cameron Highlands beneath a blue sky with clouds'
+heroAlt: 'De vives terrasses de plantation de thé vertes et vallonnées couvrant les collines des Cameron Highlands sous un ciel bleu nuageux'
 heroCredit: 'Tinu711 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'

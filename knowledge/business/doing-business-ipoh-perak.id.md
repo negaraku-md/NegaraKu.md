@@ -100,7 +100,7 @@ keywords:
   - "kos berniaga di Ipoh"
 framework: profile
 hero: '/media/business/doing-business-ipoh-perak/hero.webp'
-heroAlt: 'Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky'
+heroAlt: 'Pemandangan siang hari pusat kota Ipoh dengan menara perkantoran komersial modern dan lapangan hijau, berlatar bukit kapur di bawah langit berawan sebagian'
 heroCredit: 'HundenvonPenang / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'

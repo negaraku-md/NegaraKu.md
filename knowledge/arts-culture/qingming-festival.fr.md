@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "La fête de Qingming n'est pas un jour férié en Malaisie, et la plupart des commerces fonctionnent normalement ce jour-là."
   etiquette: "Comme le brûlage du papier-monnaie et des offrandes en papier implique flammes et fumée, certains cimetières et parcs commémoratifs délimitent des zones de brûlage ou édictent des règles, et ces dernières années certaines personnes adoptent des méthodes plus respectueuses de l'environnement."
 hero: '/media/arts-culture/qingming-festival/hero.webp'
-heroAlt: 'A large grey stone Chinese grave with a curved omega-shaped surround and a red-tiled worshipping court sits on a grassy hilltop at Bukit Cina in Melaka, with a separate dome-topped earth-god tomb nearby and a passer-by walking among the trees'
+heroAlt: 'Une grande tombe chinoise en pierre grise à enceinte incurvée en forme d''oméga et cour de recueillement en tuiles rouges sur une colline herbeuse à Bukit Cina à Melaka, avec une tombe du dieu de la terre à dôme séparée à proximité et un passant marchant entre les arbres'
 heroCredit: 'Richard Horvath / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'

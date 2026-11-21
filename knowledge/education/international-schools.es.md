@@ -99,7 +99,7 @@ stayFacts:
   watch: 'Dado que ninguna cuota la fija el gobierno, el precio real oscila mucho entre escuelas incluso para el mismo grupo de edad, y los aumentos de cuotas tienen un tope del 30% no más de una vez cada tres años. Planifica también un impuesto sobre servicios del 6% que se aplica, por alumno y por año académico, cuando las cuotas anuales de un niño superan los RM60,000 — un impuesto que se suma a la cuota, no fijado por la escuela.'
   next: 'Preselecciona escuelas y confirma sus tablas de cuotas vigentes y el umbral fiscal de RM60,000 directamente con cada una antes de presupuestar. Para la planificación relacionada, consulta el Pase de Dependiente o el Pase de Visita Social de Larga Duración para patrocinar a los hijos que acompañan a un empleado extranjero, y Matricularse en una Escuela Pública si una escuela pública también está en tu lista de comparación.'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: 'La moderna puerta de entrada de una escuela internacional con una caseta de vigilancia con marquesina, setos recortados y árboles frondosos, con bajos edificios del campus detrás bajo un cielo nublado'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

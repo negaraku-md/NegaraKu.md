@@ -120,7 +120,7 @@ visitFacts:
   watch: '长堤在星期五傍晚、周末、新加坡学校假期及公共假期前夕会严重堵塞，故请及早过境、避开返程高峰，并在拥堵时改走第二通道。'
   next: '出发前请向马来西亚与新加坡的官方交通主管部门及相关公园主管部门确认当前的过境、RTS Link 与公园准证安排。'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: '多云天空下，新山白色的维多利亚—摩尔式苏丹阿布峇卡州立清真寺，有高耸的宣礼塔楼和黑色穹顶'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

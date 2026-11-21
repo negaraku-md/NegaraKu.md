@@ -120,7 +120,7 @@ visitFacts:
   watch: '코즈웨이는 금요일 저녁, 주말, 싱가포르 학교 방학, 공휴일 전날에 막히므로 일찍 건너고 혼잡한 귀환 시간대를 피하며, 막힐 때는 세컨드 링크로 바꾸십시오.'
   next: '출발 전에 현재의 국경 통행, RTS Link, 공원 허가 사항을 말레이시아와 싱가포르의 공식 교통 당국 및 해당 공원 당국에 확인하십시오.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: '흐린 하늘 아래, 높은 첨탑 타워와 검은 돔을 갖춘 조호르바루의 흰 빅토리아-무어 양식 술탄 아부 바카르 주 모스크'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

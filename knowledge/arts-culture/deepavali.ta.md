@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "Sarawak தவிர ஒவ்வொரு மாநிலத்திலும் கூட்டரசுப் பிரதேசத்திலும் கடைப்பிடிக்கப்படும் அரசிதழ் அறிவிக்கப்பட்ட கூட்டரசு பொது விடுமுறை; Sarawak தனக்கான பொது விடுமுறை அட்டவணையைத் தக்கவைத்துக் கொள்கிறது."
   etiquette: "விருந்தினர்கள் திறந்த இல்லங்களுக்கு வரவேற்கப்படுகிறார்கள்; அடக்கமான உடை அணியவும், இல்லத்திற்குள் அல்லது கோயிலுக்குள் நுழைவதற்கு முன் காலணிகளைக் கழற்றவும், சிறிதளவு இனிப்புப் பரிசு வழங்குவது ஒரு வழக்கமான மரபு."
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: 'மலேசியாவில் தீபாவளிக்காக, வெள்ளை விளிம்பால் சூழப்பட்டு, எரியும் சிறிய மண் அகல் விளக்குகளால் சுற்றப்பட்ட வண்ணப் பொடியால் செய்த வண்ணமயமான மயில் கோலம்'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

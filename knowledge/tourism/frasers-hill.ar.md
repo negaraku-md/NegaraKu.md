@@ -97,7 +97,7 @@ visitFacts:
   watch: 'الطريق الجبلي الضيّق المتعرّج بطيء وعُرضة للإغلاق بعد الأمطار أو الانهيارات الأرضية أو سقوط الأشجار، والتلة نفسها كثيراً ما تكون ضبابية ورطبة، مع خيارات محدودة للطعام والمؤن.'
   next: 'تأكّد من ترتيب الوصول البرّي الحالي وأي إغلاقات مع هيئة الطرق (JKR) قبل أن تسافر.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'برج ساعة حجري معلّق به أعلام ماليزية بجانب مبنى بطراز تيودور نصف خشبي تحت ضباب رمادي وأشجار صنوبر طويلة في مرتفعات فريزر'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

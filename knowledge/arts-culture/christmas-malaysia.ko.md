@@ -86,7 +86,7 @@ festivalFacts:
   holiday: "크리스마스인 12월 25일은 모든 주와 연방직할구에서 전국적인 공휴일이다(반도에서는 1951년 공휴일법(제369호)의 제1부칙(First Schedule of the Holidays Act 1951 (Act 369)); 사바와 사라왁에서는 주 조례). 사바는 추가로 사바 공휴일 조례(Sabah Holidays Ordinance, Cap. 56)에 따라 12월 24일 크리스마스 이브를 주 공휴일로 관보에 공고한다."
   etiquette: "배경을 가리지 않고 손님을 초대해 함께 식사하는 오픈 하우스 전통은 다른 축제와 마찬가지로 크리스마스에도 적용되며, 손님을 맞이하는 기독교 가정은 흔히 다른 신앙의 손님을 환영하고, 방문은 축제 달력 전반에 걸쳐 양방향으로 이루어진다."
 hero: '/media/arts-culture/christmas-malaysia/hero.webp'
-heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroAlt: '쿠알라룸푸르 파빌리온의 아트리움을 관통해 솟은 화려하게 장식된 거대한 크리스마스트리, 매달린 금빛 등롱과 회전목마, 붉은 카펫 위의 쇼핑객 무리에 둘러싸인 모습'
 heroCredit: '*angys* / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'

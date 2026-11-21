@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "祝日ではない——マレーシアでは全国的にも、いずれの州においても祝日ではなく、通常どおり出勤・登校する。"
   etiquette: "家庭での祝いは祭日当日の粽の食事一回に集中することが多い。ドラゴンボートなどの大規模な公開行事は、人々が参加しやすいよう週末や近い日に催されることが多い。一部の家庭では門前に艾草（ヨモギ）や菖蒲を掛けたり、祭日の正午に「立蛋」（卵立て）を試みたりするが、各家庭のやり方は一様ではない。"
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'サバ州、森に覆われた岬のそばの桟橋沿いに、舳先に彫刻の龍頭、炎の形の尾をもつ黄とオレンジの長いドラゴンボートが並び、ライフジャケットを着た漕ぎ手が乗る'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

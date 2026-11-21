@@ -111,7 +111,7 @@ visitFacts:
   watch: 'Jangan berlebihan membeli minuman keras bebas bea untuk dibawa pulang — harga murah itu untuk dinikmati di pulau, dan hanya kuota terbatas yang lolos bea cukai di daratan.'
   next: 'Konfirmasikan jadwal feri terkini dengan operator feri, dan kuota bebas bea dengan Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department, RMCD).'
 hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
-heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroAlt: 'Langkawi Sky Bridge melengkung tergantung tinggi di antara puncak gunung berhutan di atas Laut Andaman'
 heroCredit: 'Engin Akyurt / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'

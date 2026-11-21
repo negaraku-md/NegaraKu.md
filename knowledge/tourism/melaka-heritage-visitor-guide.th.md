@@ -87,7 +87,7 @@ visitFacts:
   watch: 'วางแผนตามวันในสัปดาห์ — ตลาดกลางคืน Jonker Street เปิดเฉพาะเย็นวันศุกร์ถึงวันอาทิตย์ และในวันธรรมดาเป็นเพียงถนนตึกแถวธรรมดา — และอย่าสับสนประตูประวัติศาสตร์ A Famosa ที่เข้าชมฟรีกับสวนสนุก A''Famosa Resort ที่แยกต่างหากนอกเมือง'
   next: 'ตรวจสอบวันและเวลาเปิดทำการปัจจุบันกับเว็บไซต์ทางการของ Baba & Nyonya Heritage Museum ก่อนเยี่ยมชม เนื่องจากสิ่งเหล่านี้เปลี่ยนแปลง'
 hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
-heroAlt: 'The terracotta-red Dutch Stadthuys building behind the Victoria Fountain and market stalls on Melaka''s Dutch Square'
+heroAlt: 'อาคารสตัดเธยส์สมัยดัตช์สีแดงเข้มด้านหลังน้ำพุวิกตอเรียและแผงตลาดบนจัตุรัสดัตช์ของมะละกา'
 heroCredit: 'Orderinchaos / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'

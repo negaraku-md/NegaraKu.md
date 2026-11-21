@@ -88,7 +88,7 @@ verificationNeeded:
   - "L'année de fondation du Portuguese Settlement (communément donnée comme 1933) et l'affirmation selon laquelle plusieurs plats familiaux comme le pang susi et les plats d'abats se raréfient — à confirmer auprès d'une source primaire ou patrimoniale."
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: 'Une part de gâteau sugee (semoule) moelleux à la croûte dorée sur une assiette blanche avec une fourchette'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

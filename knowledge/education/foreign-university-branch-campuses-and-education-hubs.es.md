@@ -115,7 +115,7 @@ stayFacts:
   watch: 'El título es portátil, pero la experiencia es local: el tamaño de las clases, las instalaciones y la vida en el campus difieren mucho entre un campus independiente y uno compartido en una ciudad educativa. Los programas de los campus filiales también necesitan la acreditación de la MQA y figuran en el MQR.'
   next: 'Haz una preselección por especialización y ubicación, verifica el programa exacto en el MQR y confirma con el campus la autorización para matricular a estudiantes internacionales. Consulta Estudiar en Malasia y Universidades públicas vs privadas.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'Un edificio universitario modernista y blanco con una torre de reloj elevándose más allá de un lago verde liso como un espejo, bordeado de vegetación colgante y árboles bajo un cielo dramático'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

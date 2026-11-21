@@ -79,7 +79,7 @@ related: []
 keywords: ["स्थायी वन आरक्षित", "hutan simpanan kekal", "राष्ट्रीय वानिकी अधिनियम 1984", "akta perhutanan negara 1984", "वन राजपत्रण", "pewartaan hutan", "राज्य सूची", "मलेशिया के वर्षावन", "hutan hujan malaysia", "वन आरक्षित राजपत्र-विमोचन", "सबाह वन अधिनियमन", "सारावाक वन अध्यादेश"]
 framework: explainer
 hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
-heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroAlt: 'पेराक के रॉयल बेलुम में एक शांत झील के ऊपर घनी हरी वर्षावन-ढकी पहाड़ियों पर उमड़ते नीचे के बादल और धुंध'
 heroCredit: 'Ckpixel / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'

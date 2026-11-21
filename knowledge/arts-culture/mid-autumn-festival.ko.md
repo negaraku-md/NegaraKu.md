@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "공휴일이 아니다. 중추절은 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니며, 상점과 관공서는 평소대로 운영된다(첫 이틀을 공휴일로 쉬는 음력 설과는 다르다)."
   etiquette: "중국계 회관, 사당(예: 쿠알라룸푸르 러성링 천후궁(樂聖嶺天后宮))과 지역 단체가 여는 등롱 야회, 문예 공연 등 공개 행사에는 흔히 다른 민족 주민도 함께 참여하고 관람하도록 환영하여, 민족 간에 함께 나누는 면모를 지닌다."
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: '말레이시아 중추절 축제, 밤에 보라 재킷과 붉은 바지를 입고 미소 짓는 남자가 파랑·노랑 지구본 등롱을 들어올린 커다란 빛나는 비단 등롱 조형물, 뒤로 산책로를 따라 붉고 금빛 등롱들이 켜진 모습'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

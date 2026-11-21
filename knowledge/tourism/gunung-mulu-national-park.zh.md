@@ -91,7 +91,7 @@ visitFacts:
   watch: '赤道雨林没有稳定的旱季——Pinnacles 攀登与蝙蝠出洞均视天气而定，遇大雨会取消，故请预留缓冲日；小型飞机另有行李限额。'
   next: '请向公园官方网站（mulupark.com）及砂拉越旅游局（Sarawak Tourism Board）确认当前的航班、住宿、向导活动规定与收费。'
 hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
-heroAlt: 'Field of jagged grey limestone pinnacles piercing green rainforest on a misty mountainside at Gunung Mulu National Park, Sarawak'
+heroAlt: '砂拉越姆鲁山国家公园雾气弥漫的山坡上，一片锯齿状的灰色石灰岩尖峰刺破绿色雨林'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

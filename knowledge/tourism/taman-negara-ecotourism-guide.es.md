@@ -86,7 +86,7 @@ visitFacts:
   watch: 'El monzón del nordeste puede crecer los ríos y alterar los barcos y los senderos, las pasarelas por las copas han sufrido cierres, y las sanguijuelas y la humedad son constantes — confirme el acceso y reserve los guías con antelación.'
   next: 'Confirme las normas y tarifas vigentes de permisos y entrada con la oficina del Departamento de Fauna y Parques Nacionales (Department of Wildlife and National Parks, PERHILITAN) en Taman Negara Pahang.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'Colinas onduladas de densa selva tropical que se extienden hasta el horizonte bajo un cielo azul en Taman Negara'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

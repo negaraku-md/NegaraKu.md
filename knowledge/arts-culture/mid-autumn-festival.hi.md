@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "यह सार्वजनिक अवकाश नहीं है। मलेशिया में मध्य-शरद त्योहार देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है, व्यापारिक प्रतिष्ठान और सरकारी संस्थाएँ सामान्य रूप से चलती हैं (चीनी नववर्ष के विपरीत, जिसके पहले दो दिन सार्वजनिक अवकाश होते हैं)।"
   etiquette: "चीनी संघों, मंदिरों (जैसे कुआलालंपुर के Thean Hou मंदिर) और सामुदायिक संगठनों द्वारा आयोजित लालटेन संध्याएँ, कला प्रदर्शन आदि सार्वजनिक उत्सवों में अक्सर अन्य जातीय समूहों के निवासियों का भी साथ मिलकर भाग लेने और निहारने का स्वागत होता है, जिसमें अंतर-जातीय साझेदारी का एक पहलू है।"
 hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
-heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroAlt: 'एक मलेशियाई मध्य-शरद उत्सव के दौरान रात में बैंगनी जैकेट और लाल पतलून पहने एक मुस्कुराते व्यक्ति की विशाल चमकती रेशमी लालटेन मूर्ति, जो नीले-पीले गोल लालटेन को ऊपर उठाए है, पीछे रास्ते पर जगमगाते लाल-सुनहरे टँगे लालटेन की कतारें'
 heroCredit: 'Encik Tekateki / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'

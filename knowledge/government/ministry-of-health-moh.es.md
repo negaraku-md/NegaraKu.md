@@ -83,7 +83,7 @@ related: []
 keywords: ["Ministry of Health Malaysia", "Ministerio de Salud de Malasia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "sanidad pública Malasia", "Dzulkefly Ahmad", "tarifa clínica RM1"]
 framework: profile
 hero: '/media/government/ministry-of-health-moh/hero.webp'
-heroAlt: 'A tall sandstone-and-green-glass government tower topped by an open square crown, with the words KEMENTERIAN KESIHATAN MALAYSIA and the national crest over its entrance canopy against a cloudy sky'
+heroAlt: 'Una alta torre gubernamental de arenisca y cristal verde rematada por una corona cuadrada abierta, con las palabras KEMENTERIAN KESIHATAN MALAYSIA y el escudo nacional sobre su marquesina de entrada contra un cielo nublado'
 heroCredit: 'Benjy8769 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'

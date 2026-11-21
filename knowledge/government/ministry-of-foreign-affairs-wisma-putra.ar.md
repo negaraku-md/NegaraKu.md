@@ -94,7 +94,7 @@ related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "ويسما بوترا", "وزارة الخارجية الماليزية", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "السفارات الماليزية", "المساعدة القنصلية ماليزيا", "المفوضيات العليا الماليزية", "السياسة الخارجية الماليزية"]
 framework: profile
 hero: '/media/government/ministry-of-foreign-affairs-wisma-putra/hero.webp'
-heroAlt: 'The entrance of Wisma Putra, Malaysia''s Ministry of Foreign Affairs, with its green Malay-style roofs, flags and the Wisma Putra Kementerian Luar Negeri signage'
+heroAlt: 'مدخل ويسما بوترا، وزارة الخارجية الماليزية، بأسطحه الخضراء بالطراز الملايوي وأعلامه ولافتة Wisma Putra Kementerian Luar Negeri'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-03.jpg'

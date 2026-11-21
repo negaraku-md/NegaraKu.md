@@ -71,7 +71,7 @@ festivalFacts:
   holiday: "सभी राज्यों और संघीय क्षेत्रों में एक राष्ट्रीय सार्वजनिक अवकाश, जिसे पहली बार 1962 में सार्वजनिक अवकाश घोषित किया गया; Employment Act 1955 के अंतर्गत, यदि यह किसी विश्राम दिवस पर पड़े तो एक प्रतिस्थापित सवेतन अवकाश लागू होता है।"
   etiquette: "अनुष्ठान मंदिर पर केंद्रित होता है; कई श्रद्धालु उस दिन श्वेत वस्त्र पहनते हैं और शाकाहारी आहार रखते हैं, और सबसे प्रसिद्ध सार्वजनिक आयोजन कुआलालंपुर की Wesak झाँकी यात्रा है जो Brickfields के बौद्ध Maha Vihara से निकलती है, जिसे श्रद्धालुओं और दर्शकों की बड़ी भीड़ देखती है।"
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: 'आलोर सेतार में वेसाक दिवस के दौरान एक छत के नीचे एक उत्सव रथ पर चटख नारंगी, नीले और सुनहरे आभामंडल के सामने पीली गेंदे की मालाओं से लिपटी एक सुनहरी बैठी बुद्ध प्रतिमा, सफ़ेद, पीले और गुलाबी गुलदाउदी के ढेरों से घिरी'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

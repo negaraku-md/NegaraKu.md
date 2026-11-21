@@ -72,7 +72,7 @@ related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-healt
 keywords: ["hôpital public Malaisie", "frais hôpital public", "système d'orientation hospitalière", "frais salle Classe 3", "frais non-citoyens hôpital", "Akta Fee 1951", "hôpital spécialisé d'orientation", "délais d'attente hôpital public"]
 framework: explainer
 hero: '/media/healthcare/government-hospitals/hero.webp'
-heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroAlt: 'L''extérieur du bloc des spécialistes et de l''hôpital de jour du Hospital Kuala Lumpur, un hôpital public malaisien, avec un emblème du croissant rouge sur la façade blanche'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'

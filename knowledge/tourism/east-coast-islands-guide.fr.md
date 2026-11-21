@@ -79,7 +79,7 @@ visitFacts:
   watch: 'Aucune fermeture unique imposée, mais la plupart des opérateurs insulaires cessent volontairement leur activité pendant la mousson du nord-est, alors à l''approche de ces mois confirmez les transferts en bateau avant de payer.'
   next: 'Confirmez les redevances de conservation et les règles des parcs marins en vigueur auprès du Département des pêches de Malaisie (Department of Fisheries Malaysia).'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'Une plage de sable blanc déserte avec des rochers de granit érodés, un arbre solitaire et des hauts-fonds turquoise sous un ciel bleu aux cumulus sur les îles Perhentian'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

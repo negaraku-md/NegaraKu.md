@@ -95,7 +95,7 @@ visitFacts:
   watch: 'ยอดเขามักถูกเมฆปกคลุม หนาวและเปียก พร้อมทิวทัศน์ที่มาแล้วก็ไป และวันหยุดสุดสัปดาห์กับวันหยุดราชการนำมาซึ่งฝูงชนหนาแน่นและแถวยาว'
   next: 'ตรวจสอบกฎการเข้าสวนสนุก กระเช้า และคาสิโนปัจจุบันกับ Resorts World Genting'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'มุมมองกว้างจากหลังคาวัดจีนเหนือภูเขาป่าฝนที่ปกคลุมด้วยเมฆ พร้อมรีสอร์ทเก็นติงอยู่ไกลออกไป'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

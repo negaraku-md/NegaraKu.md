@@ -88,7 +88,7 @@ verificationNeeded:
   - "Tahun penubuhan Portuguese Settlement (lazim diberikan sebagai 1933) dan dakwaan bahawa beberapa hidangan rumah seperti pang susi dan hidangan jeroan semakin jarang — sahkan dengan sumber utama atau sumber warisan."
 framework: history-culture
 hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
-heroAlt: 'A golden-crusted slice of moist sugee (semolina) cake on a white plate with a fork'
+heroAlt: 'Sepotong kek suji (semolina) lembap berkerak keemasan di atas pinggan putih dengan garpu'
 heroCredit: 'Jacklee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'

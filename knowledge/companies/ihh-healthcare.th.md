@@ -78,7 +78,7 @@ verificationNeeded:
   - "การถือหุ้น — Mitsui & Co ถูกอ้างว่าถือราว 32–33% (ผ่าน MBK Healthcare Management) และ Khazanah Nasional เป็นส่วนน้อยที่มีนัยสำคัญ สัดส่วนที่แน่นอนเปลี่ยนไปตามการจัดสรรและการซื้อเพิ่ม; ตรวจสอบกับการเปิดเผยข้อมูล Bursa Malaysia / SGX ล่าสุดก่อนอ้างตัวเลข"
 framework: profile
 hero: '/media/companies/ihh-healthcare/hero.webp'
-heroAlt: 'The tall cream, red and blue facade of Gleneagles Hospital Penang against a blue sky, the blue ''Gleneagles PENANG'' name mounted on both the lower wall and the rooftop parapet'
+heroAlt: 'ด้านหน้าสีครีม แดงและน้ำเงินสูงของโรงพยาบาลเกลนีเกิลส์ปีนังตัดกับท้องฟ้าสีคราม ชื่อ ''Gleneagles PENANG'' สีน้ำเงินติดทั้งที่ผนังล่างและขอบหลังคา'
 heroCredit: 'Vnonymous / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'

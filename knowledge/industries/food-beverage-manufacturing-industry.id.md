@@ -100,7 +100,7 @@ keywords:
   - insentif makanan MIDA
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: 'Ribuan botol kaca hijau bergerak di sepanjang konveyor baja antikarat berliku pada lini pembotolan pabrik bir'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

@@ -86,7 +86,7 @@ visitFacts:
   watch: '북동 몬순은 강을 불어나게 해 보트와 트레일을 방해할 수 있고, 캐노피 워크웨이는 폐쇄된 적이 있으며, 거머리와 습기가 상존하니 접근 여부를 확인하고 가이드를 미리 예약하십시오.'
   next: '현재의 허가, 입장 규정, 요금은 타만 느가라 파항(Taman Negara Pahang)의 야생동물국립공원부(PERHILITAN) 사무소에 확인하십시오.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: '타만 네가라의 파란 하늘 아래 지평선까지 뻗은 울창한 열대우림의 완만한 언덕들'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

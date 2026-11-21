@@ -82,7 +82,7 @@ related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
 hero: '/media/arts-culture/bharatanatyam/hero.webp'
-heroAlt: 'A Bharatanatyam dancer in an orange-and-gold silk costume with temple jewellery and jasmine flowers sinks into a low seated pose, one arm thrust forward with the palm raised in a mudra, her expressive gaze following her hand against a dark backdrop.'
+heroAlt: 'Seorang penari Bharatanatyam berkostum sutera jingga dan emas dengan barang kemas kuil serta bunga melur menurunkan tubuh ke posisi duduk rendah, satu lengan dihulur ke hadapan dengan tapak tangan terangkat dalam mudra, pandangan ekspresifnya mengikut tangannya di latar gelap.'
 heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'

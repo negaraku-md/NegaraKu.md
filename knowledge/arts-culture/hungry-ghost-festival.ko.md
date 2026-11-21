@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "말레이시아 전국이나 각 주의 공휴일이 아니며, 제사·우란승회·가대(歌台)는 대개 퇴근 후 저녁과 밤에 진행된다."
   etiquette: "가대의 맨 앞줄 좌석은 보이지 않는 손님을 위해 일부러 비워 두며, 관객은 일반적으로 첫 줄에 앉지 않는다. 민간에서는 길가의 제물을 밟지 말 것, 바닥에 떨어진 재물을 함부로 줍지 말 것 등의 이야기도 있다."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: '밤중 칠월 거타이(getai) 기간, 붉은 네온 아치와 별 모양 패널, 흘러가는 한자 LED 간판으로 빛나는 천막 아래 축제 무대'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

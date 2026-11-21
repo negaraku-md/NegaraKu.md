@@ -72,7 +72,7 @@ related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-healt
 keywords: ["मलेशिया सरकारी अस्पताल", "सरकारी अस्पताल शुल्क", "अस्पताल रेफरल प्रणाली", "श्रेणी 3 वार्ड शुल्क", "अस्पताल में गैर-नागरिक शुल्क", "Akta Fee 1951", "विशेषज्ञ रेफरल अस्पताल", "सरकारी अस्पताल प्रतीक्षा समय"]
 framework: explainer
 hero: '/media/healthcare/government-hospitals/hero.webp'
-heroAlt: 'Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade'
+heroAlt: 'अस्पताल कुआलालंपुर, एक मलेशियाई सरकारी अस्पताल, के विशेषज्ञ और डेकेयर खंड का बाहरी दृश्य, सफ़ेद अग्रभाग पर एक लाल अर्धचंद्र प्रतीक के साथ'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'

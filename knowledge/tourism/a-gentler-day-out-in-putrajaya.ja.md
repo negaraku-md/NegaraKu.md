@@ -80,7 +80,7 @@ entity: "プトラジャヤ（Putrajaya、マレーシアの連邦行政首都�
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
 hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
-heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroAlt: 'ドラマチックな雲の下、プトラジャヤ湖越しに映る、ミナレットのそばのピンクのドームのプトラ・モスクとプルダナ・プトラ政府複合施設'
 heroCredit: 'Stefan Fussan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'

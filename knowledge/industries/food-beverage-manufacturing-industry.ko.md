@@ -100,7 +100,7 @@ keywords:
   - MIDA 식품 인센티브
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: '양조장 병입 라인의 구불구불한 스테인리스 컨베이어를 따라 이동하는 수천 개의 초록 유리병'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

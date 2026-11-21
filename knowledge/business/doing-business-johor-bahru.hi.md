@@ -125,7 +125,7 @@ keywords:
   - "MBJB business licence"
 framework: profile
 hero: '/media/business/doing-business-johor-bahru/hero.webp'
-heroAlt: 'The Johor Bahru city skyline of office and bank towers seen across the Johor Strait, with the Causeway water pipeline running along the waterfront'
+heroAlt: 'जोहोर जलडमरूमध्य के पार दिखती जोहोर बारू की कार्यालय और बैंक मीनारों की क्षितिज-रेखा, तटरेखा के साथ चलती कॉज़वे जल-पाइपलाइन के साथ'
 heroCredit: 'ペウゲオト / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'

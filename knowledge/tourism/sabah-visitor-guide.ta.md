@@ -101,7 +101,7 @@ visitFacts:
   watch: 'அரிதான, அனுமதிச்சீட்டு-கட்டுப்படுத்தப்பட்ட சிறப்பம்சங்களை நன்கு முன்பே முன்பதிவு செய்து, பவளப்பாறை மீட்பிற்காக Sipadan-இன் வருடாந்திர நவம்பர் மூடலைச் சுற்றித் திட்டமிடுங்கள், ஏனெனில் இந்தப் பகுதிகள் விற்றுத் தீர்ந்துவிடும், வருகையில் உறுதிப்படுத்த முடியாது.'
   next: 'நீங்கள் பயணிப்பதற்கு முன் தற்போதைய நுழைவு, வருகைச்-சீட்டு மற்றும் அனுமதிச்சீட்டு விதிகளை Immigration Department of Malaysia மற்றும் Sabah Parks-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: 'விடியலில் மேக்கடலுக்கு மேல் இளஞ்சிவப்பாக ஒளிரும் Mount Kinabalu-வின் St. John''s Peak-ன் கிரானைட் சிகரம்'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

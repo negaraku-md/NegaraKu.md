@@ -78,7 +78,7 @@ related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["첫 파사르 말람", "파사르 말람 가는 법", "파사르 말람 말레이시아 가이드", "파사르 말람 tapau", "DuitNow QR 파사르 말람", "파사르 말람 할랄", "말레이시아 야시장 주문법", "파사르 말람 자리", "파사르 말람 식품 안전"]
 framework: how-to
 hero: '/media/food/your-first-pasar-malam/hero.webp'
-heroAlt: 'A vendor serving a customer at a brightly lit pasar malam stall, glass cases full of fried snacks and tofu with handwritten price signs'
+heroAlt: '손글씨 가격표가 붙은 튀긴 간식과 두부가 가득한 유리 진열장이 있는, 밝게 밝힌 야시장 가판대에서 손님을 응대하는 상인'
 heroCredit: 'Iybtk / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'

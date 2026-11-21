@@ -99,7 +99,7 @@ stayFacts:
   watch: 'Vì không có khoản phí nào do chính phủ đặt ra, giá thực tế dao động rộng giữa các trường ngay cả với cùng một nhóm tuổi, và các đợt tăng phí bị giới hạn ở 30% không quá ba năm một lần. Hãy dự trù cả một khoản thuế dịch vụ 6% áp dụng, theo từng học sinh theo từng năm học, khi học phí hằng năm của một trẻ vượt quá RM60,000 — một khoản thuế trên phí, không do trường đặt ra.'
   next: 'Hãy lập danh sách rút gọn các trường và xác nhận biểu phí hiện hành của họ cùng ngưỡng thuế RM60,000 trực tiếp với từng trường trước khi lập ngân sách. Để lên kế hoạch liên quan, hãy xem Thẻ Người phụ thuộc hoặc Thẻ Thăm Xã hội Dài hạn để bảo lãnh con em đi cùng một nhân viên nước ngoài, và Đăng ký vào một Trường Công lập nếu một trường công lập cũng nằm trong danh sách so sánh của bạn.'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: 'Một cổng lối vào trường quốc tế hiện đại với một chòi gác có mái che, hàng rào cây được cắt tỉa và những tán cây xanh, với những tòa nhà khuôn viên thấp phía sau dưới bầu trời nhiều mây'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

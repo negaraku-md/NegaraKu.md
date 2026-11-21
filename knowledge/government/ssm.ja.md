@@ -78,7 +78,7 @@ related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysi
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
 hero: '/media/government/ssm/hero.webp'
-heroAlt: 'The KL Sentral skyline in Kuala Lumpur, with the distinctive green-louvered Menara SSM@Sentral — the SSM headquarters bearing a red SSM logo — in the foreground among towers such as Le Meridien, Q Sentral and St Regis'
+heroAlt: 'クアラルンプールのKLセントラルのスカイライン。ル・メリディアン、Qセントラル、セントレジスなどのタワーの間、手前に赤いSSMロゴを掲げた特徴的な緑のルーバーのムナラSSM@Sentral(SSM本部)'
 heroCredit: 'Renek78 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_top_floor_2.jpg'

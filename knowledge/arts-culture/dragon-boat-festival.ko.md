@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "공휴일이 아니다 — 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니며, 일반적으로 평소대로 출근하고 등교한다."
   etiquette: "가정에서의 기념은 대개 명절 당일 쭝쯔를 먹는 한 끼에 집중된다. 용선 등 대규모 공개 행사는 사람들이 참여하기 편하도록 주말이나 가까운 날짜에 열리는 경우가 많다. 일부 가정은 문 앞에 쑥과 창포를 걸거나 명절 정오에 「달걀 세우기」를 시도하기도 하지만, 집집마다 방식은 다르다."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: '뱃머리에 조각된 용 머리와 불꽃 모양 꼬리를 단 길고 노랗고 주황빛 드래곤보트, 사바의 숲으로 덮인 곶 옆 선착장을 따라 구명조끼를 입은 노잡이들이 늘어선 모습'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

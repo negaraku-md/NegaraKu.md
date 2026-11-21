@@ -114,7 +114,7 @@ stayFacts:
   watch: 'Tấm bằng thì mang theo được nhưng trải nghiệm lại mang tính địa phương — sĩ số lớp, cơ sở vật chất và đời sống học đường khác nhau rất nhiều giữa một cơ sở độc lập và một cơ sở trong khu đô thị giáo dục dùng chung. Các chương trình của phân hiệu vẫn cần được MQA kiểm định và xuất hiện trên MQR.'
   next: 'Hãy lập danh sách rút gọn theo chuyên ngành và vị trí, kiểm chứng đúng chương trình trên MQR, và xác nhận việc được phép tuyển sinh quốc tế với cơ sở. Xem bài Du học tại Malaysia và bài Đại học công lập so với tư thục.'
 hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
-heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroAlt: 'Một tòa nhà đại học theo trường phái hiện đại màu trắng với một tháp đồng hồ vươn lên phía xa một hồ nước xanh tĩnh lặng như gương viền cây cối rủ xanh dưới một bầu trời ấn tượng'
 heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'

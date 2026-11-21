@@ -77,7 +77,7 @@ relations:
 related: ["petroleum-development-act-1974"]
 keywords: ["petronas", "petroliam nasional berhad", "malaysia oil and gas", "petroleum development act 1974", "national oil company"]
 hero: '/media/energy/petronas/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers standing at the centre of the dense Kuala Lumpur skyline, with the Suria KLCC mall at their base, under an orange and blue dusk sky'
+heroAlt: 'Menara Berkembar Petronas yang menyala berdiri di tengah kaki langit Kuala Lumpur yang padat, dengan pusat membeli-belah Suria KLCC di kakinya, di bawah langit senja jingga dan biru'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

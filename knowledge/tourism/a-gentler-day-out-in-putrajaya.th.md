@@ -80,7 +80,7 @@ entity: "ปุตราจายา (เมืองหลวงฝ่ายบ
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
 hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
-heroAlt: 'The pink-domed Putra Mosque beside its minaret and the Perdana Putra government complex, reflected across Putrajaya Lake under dramatic clouds'
+heroAlt: 'มัสยิดปุตราทรงโดมสีชมพูข้างหอสุเหร่าและคอมเพล็กซ์ราชการ Perdana Putra สะท้อนข้ามทะเลสาบปุตราจายาใต้เมฆดราม่า'
 heroCredit: 'Stefan Fussan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'

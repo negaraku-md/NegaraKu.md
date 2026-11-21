@@ -128,7 +128,7 @@ keywords:
   - "Litar Antarabangsa Sepang"
 framework: profile
 hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
-heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroAlt: 'सेपांग अंतरराष्ट्रीय सर्किट के मुख्य ग्रैंडस्टैंड मीनार की विशाल हल्की पंखे-आकार की तनावपूर्ण छत-छत्र एक गोलाकार दर्शक-डेक के ऊपर लहराती हुई, नीली आसमान के नीचे दोनों ओर मुड़ती खाली रेसट्रैक और दर्शक-स्टैंडों के साथ'
 heroCredit: 'Morio / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'

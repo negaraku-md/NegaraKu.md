@@ -104,7 +104,7 @@ keywords:
   - "zon ekonomi khas Johor Singapura"
 framework: rules
 hero: '/media/business/js-sez-guide/hero.webp'
-heroAlt: 'A sleek dark-glass corporate office tower in Medini, Iskandar Puteri, rising above a landscaped park walkway under a clear sky'
+heroAlt: '依斯干达公主城Medini一座深色玻璃幕墙的时尚企业办公塔楼，在晴空下高耸于一条园景步道之上'
 heroCredit: 'Ellisdee021 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'

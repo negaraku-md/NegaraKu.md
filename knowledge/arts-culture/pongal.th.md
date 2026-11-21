@@ -83,7 +83,7 @@ festivalFacts:
   holiday: "ไม่ใช่วันหยุดราชการที่ประกาศในราชกิจจานุเบกษาทั้งในระดับสหพันธ์หรือระดับรัฐใด ๆ ในมาเลเซีย (มีเพียง Deepavali เท่านั้นที่เป็นวันหยุดราชการระดับสหพันธ์ — ยกเว้นซาราวัก ส่วน Thaipusam เป็นวันหยุดเฉพาะในบางรัฐเท่านั้น)"
   etiquette: "เป็นเทศกาลเชิงวัฒนธรรมที่เกี่ยวกับการเก็บเกี่ยวเป็นหลัก ไม่อิงศาสนา (รัฐมนตรีมาเลเซียชี้แจงไว้ในปี 2020) องค์กรชุมชนและวัดต่างหุง Pongal พร้อมกันในหม้อหลายใบ และจัดการเฉลิมฉลองสาธารณะพร้อมการแสดงศิลปวัฒนธรรม"
 hero: '/media/arts-culture/pongal/hero.webp'
-heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroAlt: 'หญิงยิ้มในส่าหรีสีม่วงปนทองกำลังคนข้าวปงกัลที่กำลังเดือดในหม้อดินที่ล้อมด้วยพวงมาลัยดาวเรือง ปรุงกลางแจ้งที่เทวสถานฮินดูในช่วงไทปงกัล'
 heroCredit: 'Nithi Anand / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'

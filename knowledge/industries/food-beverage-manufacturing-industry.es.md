@@ -100,7 +100,7 @@ keywords:
   - incentivos alimentarios de MIDA
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: 'Miles de botellas de vidrio verde desplazándose por sinuosos transportadores de acero inoxidable en una línea de embotellado de una fábrica de cerveza'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

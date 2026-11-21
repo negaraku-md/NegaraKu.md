@@ -84,7 +84,7 @@ drinkFacts:
   served: "Kinh điển nhất là limau asam boi — chanh calamansi với siro xí muội, với đá, cùng vài miếng mơ và đôi khi một nhúm muối. Cũng được thêm vào nước ngọt (Sprite asam boi) và vào Ribena. Cũng được ăn trực tiếp như một món ăn vặt."
   where: "Tìm thấy tại các quầy đồ uống mamak và kopitiam, quầy hàng rong và cửa hàng đồ khô khắp cả nước; asam boi đóng gói được bán ở siêu thị và các cửa hàng tạp hóa."
 hero: '/media/food/asam-boi/hero.webp'
-heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroAlt: 'Một đĩa những quả xí muội khô màu nâu nhăn nheo phủ muối trắng được gọi là asam boi'
 heroCredit: 'Alancrh / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'

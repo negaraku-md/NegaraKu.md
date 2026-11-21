@@ -97,7 +97,7 @@ visitFacts:
   watch: 'यह संकरी, घुमावदार पहाड़ी सड़क धीमी है और बारिश, भूस्खलन या गिरे पेड़ों के बाद बंदी की आशंका वाली है, और पहाड़ी स्वयं अक्सर कुहासे और नमी से भरी रहती है, सीमित भोजन और आपूर्ति के साथ।'
   next: 'यात्रा से पहले वर्तमान सड़क-पहुँच व्यवस्था और किसी भी बंदी को सड़क प्राधिकरण (JKR) से पुष्ट करें।'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'फ़्रेज़र हिल में धूसर धुंध और ऊँचे चीड़ों के नीचे एक अर्ध-लकड़ी ट्यूडर-शैली इमारत के बगल मलेशियाई झंडों से टँगी पत्थर की घड़ी-मीनार'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

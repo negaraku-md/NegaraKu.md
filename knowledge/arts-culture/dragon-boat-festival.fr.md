@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "Ce n'est pas un jour férié — ce n'est un jour férié ni au niveau national ni dans aucun État de Malaisie ; le travail et les cours se déroulent normalement."
   etiquette: "Les célébrations familiales se concentrent surtout sur un repas de zongzi le jour même de la fête ; les grands événements publics comme les courses de bateaux-dragons sont souvent organisés le week-end ou à des dates voisines pour faciliter la participation du public. Certaines familles accrochent de l'armoise et de l'acore à leur porte, ou tentent de « faire tenir un œuf debout » à midi le jour de la fête, mais les pratiques varient d'une famille à l'autre."
 hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
-heroAlt: 'A long yellow-and-orange dragon boat with a carved dragon head at the bow and flame-shaped tail, lined with paddlers in life jackets along a jetty beside a forested headland in Sabah'
+heroAlt: 'Un long bateau-dragon jaune et orange à tête de dragon sculptée à la proue et queue en forme de flamme, aligné de pagayeurs en gilets de sauvetage le long d''une jetée près d''un promontoire boisé à Sabah'
 heroCredit: 'Taufik / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'

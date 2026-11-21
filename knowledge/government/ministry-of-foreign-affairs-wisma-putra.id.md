@@ -94,7 +94,7 @@ related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
 framework: profile
 hero: '/media/government/ministry-of-foreign-affairs-wisma-putra/hero.webp'
-heroAlt: 'The entrance of Wisma Putra, Malaysia''s Ministry of Foreign Affairs, with its green Malay-style roofs, flags and the Wisma Putra Kementerian Luar Negeri signage'
+heroAlt: 'Pintu masuk Wisma Putra, Kementerian Luar Negeri Malaysia, dengan atap bergaya Melayu hijaunya, bendera-bendera, dan papan nama Wisma Putra Kementerian Luar Negeri'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-03.jpg'

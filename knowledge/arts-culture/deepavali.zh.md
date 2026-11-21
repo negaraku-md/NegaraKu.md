@@ -75,7 +75,7 @@ festivalFacts:
   holiday: "列入宪报的联邦公共假期,在除 Sarawak 以外的每个州属与联邦直辖区均予庆祝,Sarawak 则有自己的公共假期安排。"
   etiquette: "欢迎访客到开放门户作客;衣着应端庄,进入住家或庙宇前脱鞋,并习惯以一份甜点小礼作为礼节性的馈赠。"
 hero: '/media/arts-culture/deepavali/hero.webp'
-heroAlt: 'A colourful peacock kolam made of coloured powder, framed by a white border and surrounded by small lit clay oil lamps, for Deepavali in Malaysia'
+heroAlt: '马来西亚屠妖节的一幅彩色孔雀kolam，以彩粉绘成，白边围框，周围环绕点亮的小陶土油灯'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'

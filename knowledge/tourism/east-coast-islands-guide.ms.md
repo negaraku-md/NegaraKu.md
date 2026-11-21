@@ -79,7 +79,7 @@ visitFacts:
   watch: 'Tiada penutupan wajib tunggal, tetapi kebanyakan pengendali pulau tutup secara sukarela sepanjang monsun timur laut, jadi menghampiri bulan-bulan itu sahkan pemindahan bot sebelum membayar.'
   next: 'Sahkan yuran pemuliharaan dan peraturan taman marin semasa dengan Jabatan Perikanan Malaysia.'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'Pantai pasir putih yang lengang dengan batu granit lusuh, sepohon pokok dan air cetek biru kehijauan di bawah langit biru berawan kumulus di Pulau Perhentian'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

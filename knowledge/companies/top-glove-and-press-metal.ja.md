@@ -89,7 +89,7 @@ related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
 framework: profile
 hero: '/media/companies/top-glove-and-press-metal/hero.webp'
-heroAlt: 'A close-up of a glove production line where hand-shaped formers coated in wet blue latex hang in a row and drip into a tray of blue liquid below, with freshly dipped white gloves on formers in the background'
+heroAlt: '手袋製造ラインのクローズアップ。濡れた青いラテックスで覆われた手の形の型が並んで吊るされ下の青い液体の受け皿に滴り、背後に型についた浸漬したての白い手袋'
 heroCredit: 'Marketingdepascale / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'

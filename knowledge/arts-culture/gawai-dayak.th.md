@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "เป็นวันหยุดราชการในรัฐซาราวัก (ประกาศในราชกิจจานุเบกษาเมื่อวันที่ 25 กันยายน 1964)"
   etiquette: "ประตูบ้านยาวถูกเปิดกว้าง — การต้อนรับครอบครัว เพื่อนบ้าน และแขกที่มาเยือนเป็นส่วนหนึ่งของเทศกาล คำทักทายที่ใช้กันทั่วไปคือ 'Gayu Guru, Gerai Nyamai' (อายุยืน สุขภาพดี รุ่งเรือง) หรือ 'Selamat Hari Gawai' นี่เป็นการปฏิบัติของครอบครัวและบ้านยาวเป็นอันดับแรก ไม่ใช่การแสดงเพื่อนักท่องเที่ยว"
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: 'นักเต้นนักรบอิบันในเครื่องประดับศีรษะขนนกเงือกและเสื้อกั๊กขนสัตว์ กำลังรำงาจัตบนเวทีที่มีฉากหลังจิตรกรรมฝาผนังดายัคแบบดั้งเดิม'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

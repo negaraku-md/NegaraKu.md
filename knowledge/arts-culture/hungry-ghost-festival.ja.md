@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "マレーシアの全国的にも各州においても祝日ではない。祭祀、盂蘭勝会、そして歌台（ステージ公演）は、仕事を終えた後の夕方や夜間に行われることが多い。"
   etiquette: "歌台の最前列の席は目に見えない客のために意図的に空けられており、観客は一般に最前列には座らない。民間にはまた、路傍の供え物を踏まないこと、地面に落ちている金品をむやみに拾わないことといった言い伝えもある。"
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: '夜の中元節の歌台。赤いネオンの弧、星型のパネル、スクロールする中国語のLED看板で輝く、天幕下の祭りの舞台'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

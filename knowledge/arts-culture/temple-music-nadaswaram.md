@@ -74,7 +74,7 @@ related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysi
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
 framework: history-culture
 hero: '/media/arts-culture/temple-music-nadaswaram/hero.webp'
-heroAlt: 'Two seated musicians in white dhotis playing long black nadaswaram wind instruments with flared wooden bells, on a bright patterned mat'
+heroAlt: 'பிரகாசமான வடிவமைப்பு பாயின் மீது அமர்ந்து, அகன்ற மர மணிகள் கொண்ட நீண்ட கருப்பு நாதஸ்வரக் காற்றுக்கருவிகளை வாசிக்கும், வெள்ளை வேட்டியணிந்த இரு இசைக்கலைஞர்கள்'
 heroCredit: 'PJeganathan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_in_South_Indian_Marriage_JEG6722.JPG'

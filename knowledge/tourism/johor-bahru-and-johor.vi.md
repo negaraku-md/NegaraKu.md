@@ -120,7 +120,7 @@ visitFacts:
   watch: 'Causeway tắc nghẽn vào tối thứ Sáu, cuối tuần, kỳ nghỉ học của Singapore và các đêm trước ngày lễ công cộng, nên hãy qua sớm, tránh các giờ quay về cao điểm, và chuyển sang Second Link khi nó bị kẹt.'
   next: 'Hãy xác nhận cách bố trí qua lại biên giới, RTS Link và giấy phép công viên hiện tại với các cơ quan giao thông chính thức của Malaysia và Singapore cùng cơ quan quản lý công viên liên quan trước khi bạn đi.'
 hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
-heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroAlt: 'Thánh đường Bang Sultan Abu Bakar màu trắng kiểu Victoria-Moorish ở Johor Bahru, với những ngọn tháp cao và mái vòm đen dưới bầu trời nhiều mây'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'

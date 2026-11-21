@@ -101,7 +101,7 @@ visitFacts:
   watch: 'จองสถานที่พาดหัวที่หายากและควบคุมด้วยใบอนุญาตไว้ล่วงหน้านาน และวางแผนเลี่ยงการปิด Sipadan ประจำปีในเดือนพฤศจิกายนเพื่อฟื้นฟูแนวปะการัง เพราะส่วนเหล่านี้ขายหมดและไม่สามารถจองได้เมื่อมาถึง'
   next: 'ตรวจสอบกฎการเข้าประเทศ บัตรอนุญาตเยี่ยม และใบอนุญาตปัจจุบันกับสำนักงานตรวจคนเข้าเมืองมาเลเซีย (Immigration Department of Malaysia) และ Sabah Parks ก่อนเดินทาง'
 hero: '/media/tourism/sabah-visitor-guide/hero.webp'
-heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroAlt: 'ยอดหินแกรนิตของยอด St. John''s Peak บนภูเขาคินาบาลูเปล่งแสงสีชมพูยามรุ่งอรุณเหนือทะเลเมฆ'
 heroCredit: 'kallerna / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'

@@ -102,7 +102,7 @@ stayFacts:
   watch: 'لأن أي رسم ليس محدَّدًا حكوميًا، يتأرجح السعر الفعلي بين المدارس تأرجحًا واسعًا حتى للفئة العمرية نفسها، وزيادات الرسوم محدودة بسقف 30% ولا تتجاوز مرة كل ثلاث سنوات. وخطّط أيضًا لضريبة خدمات بنسبة 6% تُطبَّق، لكل تلميذ في السنة الأكاديمية، حيثما تتجاوز رسوم الطفل السنوية RM60,000 — وهي ضريبة فوق الرسم، لا تحددها المدرسة.'
   next: 'ضع قائمة مختصرة بالمدارس وتحقق من جداول رسومها الحالية ومن حد الضريبة البالغ RM60,000 مباشرةً مع كل منها قبل وضع الميزانية. وللتخطيط ذي الصلة، انظر «تصريح المُعال (Dependant Pass)» أو «تصريح الزيارة الاجتماعية طويل الأمد» لكفالة الأبناء لمرافقة موظف أجنبي، و«الالتحاق بمدرسة حكومية» إن كانت المدرسة الحكومية مدرجة أيضًا في مقارنتك.'
 hero: '/media/education/international-schools/hero.webp'
-heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroAlt: 'بوابة مدخل مدرسة دولية حديثة مع كشك حراسة مظلّل وأسيجة مشذّبة وأشجار وارفة، مع مبانٍ منخفضة للحرم خلفها تحت سماء غائمة'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'

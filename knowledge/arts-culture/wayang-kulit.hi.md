@@ -64,7 +64,7 @@ related: ["batik"]
 keywords: ["Wayang Kulit", "छाया कठपुतली मलेशिया", "Tok Dalang", "Hikayat Seri Rama", "केलंतान पारंपरिक कलाएँ"]
 framework: history-culture
 hero: '/media/arts-culture/wayang-kulit/hero.webp'
-heroAlt: 'Intricately cut leather shadow puppets lined up and glowing against a bright lamp-lit screen, in the Kelantan-Patani Malay wayang kulit style'
+heroAlt: 'केलंतान-पातानी मलय वायंग कुलित शैली में एक चमकीले दीप-प्रकाशित परदे के सामने पंक्तिबद्ध और चमकते बारीक कटे चमड़े के छाया-पुतले'
 heroCredit: 'The Bangsawan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'

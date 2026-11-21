@@ -93,7 +93,7 @@ related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-compa
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
 hero: '/media/business/tun-razak-exchange-trx/hero.webp'
-heroAlt: 'The slender blue-glass Exchange 106 supertall towering above a cluster of Tun Razak Exchange office buildings against a bright blue sky with white clouds'
+heroAlt: 'வெள்ளை மேகங்களுடன் பிரகாசமான நீல வானத்திற்கு எதிரே, Tun Razak Exchange அலுவலகக் கட்டிடங்களின் தொகுப்புக்கு மேல் உயரும் மெல்லிய நீல-கண்ணாடி மீயுயர் Exchange 106 கோபுரம்'
 heroCredit: 'Wikimedia Commons (CC0)'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'

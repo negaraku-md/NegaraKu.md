@@ -99,7 +99,7 @@ keywords:
   - Bản thiết kế OGSE Quốc gia
 framework: profile
 hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
-heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroAlt: 'Một giàn khoan ngoài khơi bán chìm nhìn chính diện trên biển, boong hình hộp và tháp khoan trung tâm cao được chống đỡ trên hai phao ngầm, với dây neo chạy xuống nước và những tàu tiếp tế xa xa ở chân trời'
 heroCredit: 'Calistemon / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'

@@ -101,7 +101,7 @@ visitFacts:
   watch: '这是一段艰苦的两天高海拔攀登，高山症与体能至关重要，山岳又自成天气；在重大地震等事件后，通行与路线可能改变，故请依当前资讯规划。'
   next: '请向 Sabah Parks 确认当前的准证、向导与住宿规定及收费。'
 hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
-heroAlt: 'The jagged granite summit of Mount Kinabalu rising above cloud and green foothills in Sabah at morning'
+heroAlt: '清晨，沙巴神山（Mount Kinabalu）嶙峋的花岗岩峰顶耸立于云层和绿色山麓之上'
 heroCredit: 'Anton Zelenov / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'

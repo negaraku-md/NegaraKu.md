@@ -97,7 +97,7 @@ visitFacts:
   watch: 'குறுகிய, வளைந்த மலைச் சாலை மெதுவானது, மழை, நிலச்சரிவுகள் அல்லது விழுந்த மரங்களுக்குப் பிறகு மூடப்படும் வாய்ப்புள்ளது, மேலும் மலை பெரும்பாலும் மூடுபனியும் ஈரமும் கொண்டது, குறைந்த உணவகங்கள் மற்றும் பொருட்கள் மட்டுமே உள்ளன.'
   next: 'நீங்கள் பயணிப்பதற்கு முன் தற்போதைய சாலை அணுகல் ஏற்பாட்டையும் ஏதேனும் மூடல்களையும் சாலைகள் ஆணையத்துடன் (JKR) உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: 'Fraser''s Hill-ல், சாம்பல் மூடுபனிக்கும் உயர்ந்த பைன் மரங்களுக்கும் கீழே, மலேசியக் கொடிகள் தொங்கும் கல் கடிகார கோபுரத்திற்கு அருகே அரை-மரச்சட்ட Tudor பாணி கட்டிடம்'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

@@ -104,7 +104,7 @@ visitFacts:
   watch: '市中心部の交通はピーク時に混雑するため、市内を横断する移動では列車のほうが車より速いのが普通である。'
   next: 'Petronas Twin Towersの現在の開場時間とチケット情報は、PETRONAS Twin Towersの公式サイト（petronastwintowers.com.my）で確認すること。'
 hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
-heroAlt: 'The illuminated Petronas Twin Towers rising above downtown Kuala Lumpur beneath a golden sunset sky'
+heroAlt: '黄金色の夕焼け空の下、クアラルンプール中心部の上にそびえるライトアップされたペトロナス・ツインタワー'
 heroCredit: 'James Kerwin / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'

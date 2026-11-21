@@ -97,7 +97,7 @@ visitFacts:
   watch: '这条狭窄蜿蜒的山路车速缓慢，雨后、山泥倾泻或倒树后易封闭，而山上本身常年多雾潮湿，餐饮与补给有限。'
   next: '出发前请向公路主管部门（JKR）确认当前的道路通行安排与任何封路情况。'
 hero: '/media/tourism/frasers-hill/hero.webp'
-heroAlt: 'Stone clock tower hung with Malaysian flags beside a half-timbered Tudor-style building under grey mist and tall pines at Fraser''s Hill'
+heroAlt: '福隆港（Fraser''s Hill），灰雾与高大松树下，一座挂满马来西亚国旗的石钟楼，旁边是一座半木结构的都铎式建筑'
 heroCredit: 'Slleong / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'

@@ -80,7 +80,7 @@ verificationNeeded:
   - "القيادة: تاي آه ليك (Tay Ah Lek) عضوًا منتدبًا ورئيسًا تنفيذيًّا، والرئيس الحالي — يُتحقق من مناصب المجلس الحالية."
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'برج ميناره بابليك بنك المتدرّج يتوهّج بالذهبي الدافئ أمام سماء الغسق، شعار Public Bank الأحمر والأصفر مضاء في تاجه واسم PUBLIC BANK مضاء فوق المدخل'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

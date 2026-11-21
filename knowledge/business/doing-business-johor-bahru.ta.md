@@ -122,7 +122,7 @@ keywords:
   - "foreign property purchase Johor"
 framework: profile
 hero: '/media/business/doing-business-johor-bahru/hero.webp'
-heroAlt: 'The Johor Bahru city skyline of office and bank towers seen across the Johor Strait, with the Causeway water pipeline running along the waterfront'
+heroAlt: 'Johor நீரிணையின் அக்கரையிலிருந்து காணப்படும் அலுவலக மற்றும் வங்கி கோபுரங்களின் Johor Bahru நகர வானோரம்; நீர்க்கரையோரம் செல்லும் Causeway நீர்க்குழாய்'
 heroCredit: 'ペウゲオト / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'

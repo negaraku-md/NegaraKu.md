@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "砂拉越州的公共假期（于 1964 年 9 月 25 日宪报公布）。"
   etiquette: "长屋敞开大门——款待前来探访的家人、邻里与客人是节日的一部分；常见的祝语是「Gayu Guru, Gerai Nyamai」（长寿、健康、繁荣），或「Selamat Hari Gawai」。它首先是家庭与长屋的庆典，而非供游客观赏的表演。"
 hero: '/media/arts-culture/gawai-dayak/hero.webp'
-heroAlt: 'An Iban warrior dancer in a hornbill-feather headdress and fur vest performing the ngajat dance on a stage with a traditional Dayak mural backdrop'
+heroAlt: '一位伊班武士舞者头戴犀鸟羽毛头饰、身着毛皮背心，在绘有达雅族传统壁画的舞台上表演ngajat舞'
 heroCredit: 'John Ragai / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'

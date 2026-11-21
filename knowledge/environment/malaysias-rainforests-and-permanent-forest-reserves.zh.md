@@ -79,7 +79,7 @@ related: []
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
 hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
-heroAlt: 'Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak'
+heroAlt: '霹雳皇家柏隆（Royal Belum），低云薄雾漫过平静湖泊上方茂密的绿色雨林山丘'
 heroCredit: 'Ckpixel / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'

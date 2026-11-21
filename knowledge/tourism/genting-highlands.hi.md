@@ -95,7 +95,7 @@ visitFacts:
   watch: 'शिखर अक्सर बादलों से घिरा, ठंडा और गीला रहता है जहाँ दृश्य आते-जाते रहते हैं, और सप्ताहांत व सार्वजनिक अवकाश भारी भीड़ और लंबी क़तारें लाते हैं।'
   next: 'वर्तमान थीम-पार्क, केबल-कार और कैसीनो प्रवेश नियम Resorts World Genting से पुष्ट करें।'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'एक चीनी मंदिर की छत से बादल-ढके वर्षावन पहाड़ों पर दूरी में गेंटिंग रिसॉर्ट का विस्तृत दृश्य'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

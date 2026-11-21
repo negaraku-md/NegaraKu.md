@@ -4,7 +4,7 @@ title: "மலேசியாவின் தேசிய உணவுகள்:
 seoTitle: "மலேசியாவின் தேசிய உணவுகள் — நசி லெமாக், ரொட்டி சானாய், லக்சா"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'sambal, பொரித்த நெத்திலி, வறுத்த நிலக்கடலை, வெள்ளரிக்காய், வேகவைத்த முட்டையுடன் வாழை இலையில் பரிமாறப்பட்ட nasi lemak'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

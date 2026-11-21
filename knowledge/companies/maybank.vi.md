@@ -79,7 +79,7 @@ verificationNeeded:
   - "Số quốc gia hoạt động (cả mười quốc gia ASEAN cộng với các trung tâm tài chính toàn cầu) — có thể thay đổi."
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: 'Tòa tháp đôi hình trụ trắng Menara Maybank vươn lên trên đường chân trời Kuala Lumpur, với logo và chữ Maybank màu xanh trên một tấm bảng gần đỉnh'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

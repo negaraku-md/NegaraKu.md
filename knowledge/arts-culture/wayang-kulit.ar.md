@@ -64,7 +64,7 @@ related: ["batik"]
 keywords: ["Wayang Kulit", "واينغ كوليت", "خيال الظل ماليزيا", "shadow puppet Malaysia", "Tok Dalang", "توك دالانغ", "Hikayat Seri Rama", "الفنون التقليدية كلنتان"]
 framework: history-culture
 hero: '/media/arts-culture/wayang-kulit/hero.webp'
-heroAlt: 'Intricately cut leather shadow puppets lined up and glowing against a bright lamp-lit screen, in the Kelantan-Patani Malay wayang kulit style'
+heroAlt: 'دمى ظل جلدية مقطوعة بدقة مصطفّة ومتوهّجة أمام شاشة مضاءة بمصباح ساطع، بأسلوب وايانغ كوليت الملايوي الكلنتاني-الفطاني'
 heroCredit: 'The Bangsawan / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'

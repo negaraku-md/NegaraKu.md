@@ -77,7 +77,7 @@ related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["चेट्टी मेलाका", "Chetti Melaka", "Chitty Melaka", "पेरानाकन भारतीय", "Peranakan India", "Kampung Chetti", "Gajah Berang", "शैव हिंदू", "मेलाका विरासत"]
 framework: history-culture
 hero: '/media/arts-culture/chetti-melaka/hero.webp'
-heroAlt: 'A pink Indian-style entrance arch topped with twin white elephant figures marking the lane into Kampung Chetti in Melaka, a small Hindu temple with a cream dome to the right and village houses with a Kampung Chetti sign along the quiet street under a blue sky'
+heroAlt: 'मेलाका के कंपुंग चेट्टी की गली के प्रवेश पर गुलाबी भारतीय-शैली का मेहराब जिसके शीर्ष पर दो सफ़ेद हाथी की आकृतियाँ हैं; दाईं ओर क्रीम रंग के गुंबद वाला एक छोटा हिंदू मंदिर और नीली आसमान के नीचे शांत गली में कंपुंग चेट्टी का साइन लगे गाँव के घर'
 heroCredit: 'Chongkian / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'

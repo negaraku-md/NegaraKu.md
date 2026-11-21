@@ -95,7 +95,7 @@ visitFacts:
   watch: 'Đỉnh núi thường bị mây bao phủ, lạnh và ẩm với tầm nhìn lúc có lúc không, và cuối tuần cùng ngày lễ công cộng mang lại đám đông dày đặc và hàng chờ dài.'
   next: 'Hãy xác nhận quy định vào cửa công viên giải trí, cáp treo và sòng bạc hiện tại với Resorts World Genting.'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'Tầm nhìn bao quát từ mái một ngôi chùa Trung Hoa qua những ngọn núi rừng mưa phủ mây với khu nghỉ dưỡng Genting ở phía xa'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

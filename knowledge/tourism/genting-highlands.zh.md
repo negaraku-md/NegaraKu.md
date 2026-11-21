@@ -95,7 +95,7 @@ visitFacts:
   watch: '山顶常年云雾缭绕、寒冷潮湿，景观时隐时现，周末与公共假期则人潮汹涌、排队漫长。'
   next: '请向云顶世界（Resorts World Genting）确认当前的主题公园、缆车与赌场入场规定。'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: '从一座中式庙宇屋顶望去，云雾缭绕的雨林群山之上，云顶度假村坐落于远方'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

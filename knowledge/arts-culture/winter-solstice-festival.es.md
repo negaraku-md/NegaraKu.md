@@ -80,7 +80,7 @@ festivalFacts:
   holiday: "No es fiesta pública: el solsticio de invierno no es fiesta pública en Malasia ni a nivel nacional ni en ningún estado."
   etiquette: "Los chinos suelen celebrarlo de forma discreta en casa, reunida la familia para amasar tangyuan y compartir una comida, en lugar de organizar grandes actos públicos; algunas familias ofrecen primero los tangyuan a los antepasados y a las deidades antes de comerlos todos juntos, y las costumbres varían según la familia y el grupo dialectal."
 hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
-heroAlt: 'A white bowl of pastel pink, purple and yellow glutinous rice balls floating in clear sweet syrup with a blue-rimmed ceramic spoon resting in it'
+heroAlt: 'Un cuenco blanco de bolas de arroz glutinoso en tonos rosa, púrpura y amarillo pastel flotando en un jarabe dulce y transparente, con una cuchara de cerámica de borde azul apoyada en él'
 heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'

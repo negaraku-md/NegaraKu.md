@@ -87,7 +87,7 @@ festivalFacts:
   holiday: "사바 주와 라부안 연방직할구에서 5월 30일과 31일 공휴일이며, 전국 공휴일은 아니다."
   etiquette: "Unduk Ngadau는 Huminodun 전설을 기리는 문화 행사로 이해해야 하며 일반적인 미인 대회가 아니다. 또한 Bambaazon 신앙과 Huminodun 전설은 단정된 사실이 아니라 공동체 고유의 전통으로서 존중하며 대해야 한다."
 hero: '/media/arts-culture/kaamatan/hero.webp'
-heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroAlt: '사바주 프남팡의 별빛 무대에서 검정과 금빛 전통 의상을 입은 카다잔두순 보보히잔 사제들이 카아마탄 의식을 거행하는 모습'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'

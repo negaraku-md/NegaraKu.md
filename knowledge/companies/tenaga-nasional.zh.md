@@ -87,7 +87,7 @@ related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
 hero: '/media/companies/tenaga-nasional/hero.webp'
-heroAlt: 'Aerial view of Kenyir Dam''s grey rockfill embankment marked with the giant white word KENYIR, the hydroelectric power station and transmission lines at its base and Kenyir Lake stretching behind'
+heroAlt: '鸟瞰肯逸水坝灰色堆石坝体，坝面上标有巨大的白色KENYIR字样，坝脚是水电站和输电线，身后是绵延的肯逸湖'
 heroCredit: 'TheHolySnail / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'

@@ -99,7 +99,7 @@ visitFacts:
   watch: 'Máy bay nhỏ của Mulu thường xuyên bị trì hoãn hoặc hủy do thời tiết, nên hãy dự trù thêm ngày đệm và đừng bao giờ đặt một chuyến nối chuyến sát nút rời khỏi công viên.'
   next: 'Hãy xác nhận yêu cầu visa và MDAC hiện tại cho quốc tịch của bạn với Cục Nhập cảnh Malaysia (Immigration Department).'
 hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
-heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroAlt: 'Một rừng chóp đá vôi xám lởm chởm xuyên qua rừng mưa xanh và sương mù ở Vườn quốc gia Gunung Mulu, Sarawak'
 heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'

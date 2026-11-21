@@ -79,7 +79,7 @@ visitFacts:
   watch: 'कोई एकल अनिवार्य बंदी नहीं, पर अधिकांश द्वीप ऑपरेटर उत्तर-पूर्वी मानसून के लिए स्वेच्छा से बंद कर देते हैं, इसलिए उन महीनों के निकट भुगतान करने से पहले नाव-स्थानांतरण पुष्ट करें।'
   next: 'वर्तमान संरक्षण शुल्क और समुद्री-पार्क नियम Department of Fisheries Malaysia से पुष्ट करें।'
 hero: '/media/tourism/east-coast-islands-guide/hero.webp'
-heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroAlt: 'पर्हेन्तियन द्वीप पर कपासी बादलों वाली नीली आसमान के नीचे अपक्षयित ग्रेनाइट शिलाखंडों, एक अकेले पेड़ और फ़िरोज़ी उथले पानी के साथ खाली सफ़ेद-रेत का समुद्रतट'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'

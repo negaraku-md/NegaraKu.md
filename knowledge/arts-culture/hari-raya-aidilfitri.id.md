@@ -84,7 +84,7 @@ festivalFacts:
   holiday: "Hari pertama dan kedua diwartakan sebagai hari libur umum persekutuan di seluruh Malaysia."
   etiquette: "Tamu dari berbagai etnis disambut di rumah terbuka; berpakaianlah sopan, dan lazimnya melepas alas kaki sebelum masuk ke rumah."
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'Kerumunan berbusana baju Melayu meriah meninggalkan masjid desa bermenara kembar seusai salat Idulfitri pagi di Alor Pongsu, Perak'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

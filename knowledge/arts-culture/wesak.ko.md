@@ -70,7 +70,7 @@ festivalFacts:
   holiday: "모든 주와 연방직할구의 전국 공휴일로, 1962년에 처음 공휴일로 선포되었다. 1955년 고용법(Employment Act 1955)에 따라 휴식일과 겹치면 대체 유급 휴일이 적용된다."
   etiquette: "준수는 사원을 중심으로 이루어지며, 많은 신도가 그날 흰옷을 입고 채식을 지킨다. 가장 잘 알려진 공개 행사는 브릭필즈(Brickfields)의 불교 Maha Vihara에서 출발하는 쿠알라룸푸르 웨삭 꽃수레 행렬로, 수많은 신도와 구경꾼이 지켜본다."
 hero: '/media/arts-culture/wesak/hero.webp'
-heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroAlt: '알로르스타르 웨삭 데이 동안 차양 아래 축제 가마 위, 노란 금잔화 화환을 두른 금빛 좌불이 주황·파랑·금빛의 화려한 후광 앞에 앉아 흰색·노란색·분홍색 국화 더미에 둘러싸인 모습'
 heroCredit: 'Marufish / Wikimedia Commons'
 heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'

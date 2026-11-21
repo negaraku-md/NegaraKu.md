@@ -84,7 +84,7 @@ stayFacts:
   watch: 'La etiqueta IPTA/IPTS no te dice si un título está reconocido: eso depende de que el programa concreto esté acreditado por la MQA en el MQR, algo que debes comprobar para tu año de ingreso exacto. No puedes solicitar plaza en una universidad privada a través de la UPU.'
   next: 'Decide a partir de la titulación que posees y luego verifica el programa y el año de ingreso exactos en el Registro de Cualificaciones de Malasia antes de matricularte en cualquiera de los dos tipos. Consulta la explicación sobre la acreditación de la MQA y Antes de pagar el depósito de un colegio universitario.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'Un largo vestíbulo modernista de hormigón visto con las letras azules ''Dewan Tunku Canselor'' y una escalera exterior, con jardines de topiaria y una carretera vacía delante'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'

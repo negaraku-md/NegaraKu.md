@@ -86,7 +86,7 @@ visitFacts:
   watch: 'வடகிழக்கு பருவமழை ஆறுகளைப் பெருக்கி படகுகளையும் பாதைகளையும் சீர்குலைக்கலாம், விதான நடைபாதைகள் மூடல்களை எதிர்கொண்டுள்ளன, மேலும் அட்டைப்பூச்சிகளும் ஈரப்பதமும் நிலையானவை — அணுகலை உறுதிப்படுத்தி வழிகாட்டிகளை முன்பே முன்பதிவு செய்யுங்கள்.'
   next: 'தற்போதைய அனுமதிச்சீட்டு மற்றும் நுழைவு விதிகளையும் கட்டணங்களையும் Taman Negara Pahang-இல் உள்ள Department of Wildlife and National Parks (PERHILITAN) அலுவலகத்துடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
-heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroAlt: 'Taman Negara-வில் நீல வானத்திற்குக் கீழே அடிவானம் வரை நீளும் அடர்த்தியான வெப்பமண்டல மழைக்காட்டின் உருளும் மலைகள்'
 heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'

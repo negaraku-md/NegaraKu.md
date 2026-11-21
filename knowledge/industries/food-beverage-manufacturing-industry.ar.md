@@ -106,7 +106,7 @@ keywords:
   - "حوافز الأغذية MIDA"
 framework: profile
 hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
-heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroAlt: 'آلاف الزجاجات الزجاجية الخضراء تتحرّك على ناقلات فولاذية ملتوية على خط تعبئة مصنع جعة'
 heroCredit: 'ChristianBier / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'

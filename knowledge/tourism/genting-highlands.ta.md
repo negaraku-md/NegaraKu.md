@@ -95,7 +95,7 @@ visitFacts:
   watch: 'உச்சி பெரும்பாலும் மேகத்தால் சூழப்பட்டு, குளிர்ந்தும் ஈரமாகவும் இருக்கும், காட்சிகள் வந்து போகும், மேலும் வார இறுதிகளும் பொது விடுமுறைகளும் அதிக கூட்டத்தையும் நீண்ட வரிசைகளையும் கொண்டுவருகின்றன.'
   next: 'தற்போதைய தீம்-பூங்கா, கேபிள்-கார் மற்றும் கேசினோ நுழைவு விதிகளை Resorts World Genting-உடன் உறுதிப்படுத்துங்கள்.'
 hero: '/media/tourism/genting-highlands/hero.webp'
-heroAlt: 'Sweeping view from a Chinese temple roof over cloud-draped rainforest mountains with the Genting resort in the distance'
+heroAlt: 'ஒரு சீனக் கோயில் கூரையிலிருந்து, மேகம் சூழ்ந்த மழைக்காட்டு மலைகளுக்கு மேல் தொலைவில் Genting ரிசார்ட்டுடன் கூடிய பரந்த காட்சி'
 heroCredit: 'Gryffindor / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'

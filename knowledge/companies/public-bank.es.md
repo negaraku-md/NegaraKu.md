@@ -80,7 +80,7 @@ verificationNeeded:
   - "Liderazgo: Tay Ah Lek como director gerente y consejero delegado, y el presidente en ejercicio — confirmar los cargos actuales del consejo."
 framework: profile
 hero: '/media/companies/public-bank/hero.webp'
-heroAlt: 'The stepped Menara Public Bank tower glowing warm gold against a dusk sky, the red-and-yellow Public Bank logo lit at its crown and the PUBLIC BANK wordmark illuminated over the entrance'
+heroAlt: 'La torre escalonada Menara Public Bank resplandeciendo con un cálido tono dorado contra un cielo crepuscular, con el logotipo rojo y amarillo de Public Bank iluminado en su cima y el nombre PUBLIC BANK iluminado sobre la entrada'
 heroCredit: 'Philip Nalangan / Wikimedia Commons'
 heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'

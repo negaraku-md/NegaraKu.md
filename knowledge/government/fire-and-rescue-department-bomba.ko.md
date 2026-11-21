@@ -75,7 +75,7 @@ social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
 hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
-heroAlt: 'The front of a Malaysian fire station with the giant red word BOMBA spelt across its five roller-shutter doors and a yellow sign reading Balai Bomba dan Penyelamat Jalan Kubu above them, strung with red lanterns'
+heroAlt: '말레이시아 소방서 정면, 다섯 개 롤러셔터 문에 걸쳐 거대한 붉은 글자 ''BOMBA''가 적히고 그 위에 ''Balai Bomba dan Penyelamat Jalan Kubu''라는 노란 간판이 있으며 붉은 등롱이 걸린 모습'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'

@@ -101,7 +101,7 @@ related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz", "شبكة 5G في ماليزيا", "خطة النطاق العريض الوطنية", "نموذج الشبكتين"]
 framework: explainer
 hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
-heroAlt: 'Two lattice telecommunications towers at Bukit Nyabau in Bintulu, Malaysia, silhouetted against an orange and blue sunset sky'
+heroAlt: 'برجا اتصالات شبكيان في بوكيت نيابو في بينتولو، ماليزيا، بشكل ظلّي أمام سماء غروب برتقالية وزرقاء'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'

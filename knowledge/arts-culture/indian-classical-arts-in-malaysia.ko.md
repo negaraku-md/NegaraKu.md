@@ -76,7 +76,7 @@ related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia"
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
 hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
-heroAlt: 'Young Indian classical dancer in a blue and gold Bharatanatyam costume striking a pose on a plaza, with a red tiered Chinese temple rising behind her'
+heroAlt: '광장에서 파랑과 금빛 바라타나티암 의상을 입고 포즈를 취한 어린 인도 고전무용수, 뒤로 붉은 다층 중국 사원이 솟아 있는 모습'
 heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'

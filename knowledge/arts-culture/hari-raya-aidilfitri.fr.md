@@ -85,7 +85,7 @@ festivalFacts:
   holiday: "Les premier et deuxième jours sont déclarés jours fériés fédéraux dans toute la Malaisie."
   etiquette: "Les invités de toutes origines sont les bienvenus aux maisons ouvertes ; habillez-vous avec sobriété, et il est d'usage de retirer ses chaussures avant d'entrer dans une maison."
 hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
-heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroAlt: 'Des foules en baju Melayu de fête quittant une mosquée villageoise à deux minarets après la prière du matin de l''Aidilfitri à Alor Pongsu, Perak'
 heroCredit: 'PeaceSeekers / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'

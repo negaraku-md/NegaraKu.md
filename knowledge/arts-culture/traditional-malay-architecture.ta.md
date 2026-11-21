@@ -66,7 +66,7 @@ related: []
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
 hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
-heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroAlt: 'செங்குத்தான அடுக்கு ஓட்டுக் கூரைகள், கருப்பு-வெள்ளை-தங்க வைர வடிவில் நெய்த மூங்கில் சுவர்கள், கிராதி ஜன்னல்கள், பொன் செதுக்கிய விளிம்பு கொண்ட அலங்கார எண்கோண மர மலாய் அரண்மனை; மேகமூட்டமான வானத்திற்குக் கீழே புல்வெளியில் அமைக்கப்பட்டது'
 heroCredit: 'Akml5599 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'

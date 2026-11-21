@@ -78,7 +78,7 @@ related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
 hero: '/media/companies/ioi-corporation/hero.webp'
-heroAlt: 'The curved glass-and-metal main entrance of IOI City Mall with the red ''ioiCITYMALL'' signage above the doors, flanked by tall mirrored office towers under a dramatic cloudy sky'
+heroAlt: 'Lối vào chính kính-kim loại uốn cong của trung tâm thương mại IOI City Mall với biển hiệu ''ioiCITYMALL'' đỏ phía trên cửa, hai bên là những tòa cao ốc văn phòng kính gương cao dưới bầu trời nhiều mây ấn tượng'
 heroCredit: 'Wee Hong / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'

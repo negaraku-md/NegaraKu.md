@@ -79,7 +79,7 @@ verificationNeeded:
   - "经营国家的数目（全部十个东盟国家加上全球金融中心）——可能变动。"
 framework: profile
 hero: '/media/companies/maybank/hero.webp'
-heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroAlt: '白色双圆柱形的Menara Maybank大厦高耸于吉隆坡天际线之上，顶部附近的嵌板上有蓝色Maybank标志和字样'
 heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'

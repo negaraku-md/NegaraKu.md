@@ -108,7 +108,7 @@ visitFacts:
   watch: 'サバ東部の島々は指定の安全区域（ESSZONE）内にあり、許可は決して保証されず、保全上の制限（毎年の閉鎖を含む）が適用されるため、情報を踏まえて旅し、最新の公式勧告を確認すること。'
   next: '現在のSipadanの許可の上限、料金、保全のための閉鎖の有無は、Sabah Parksまたは公認のダイビング業者で確認すること。'
 hero: '/media/tourism/sipadan-and-semporna/hero.webp'
-heroAlt: 'Aerial view over a vivid turquoise reef lagoon ringed by green islands under a bright cloud-dotted sky at Tun Sakaran Marine Park near Semporna, Sabah'
+heroAlt: 'サバ州スンポルナ近くのトゥン・サカラン海洋公園で、明るく雲の点在する空の下、緑の島々に囲まれた鮮やかなターコイズのサンゴ礁のラグーンの空撮'
 heroCredit: 'Amri HMS / Wikimedia Commons'
 heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'

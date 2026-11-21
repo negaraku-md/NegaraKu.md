@@ -85,7 +85,7 @@ entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
 framework: history-culture
 hero: '/media/arts-culture/wau/hero.webp'
-heroAlt: 'A big ornately decorated wau bulan kite mounted on a pale wall, its broad crescent-shaped body covered in shimmering gold, pink and blue foil floral patterns with a fringed tassel at the top and a label reading WAU BULAN beneath it'
+heroAlt: 'ว่าวบูลันขนาดใหญ่ประดับวิจิตรติดตั้งบนผนังสีซีด ลำตัวทรงพระจันทร์เสี้ยวกว้างปกคลุมด้วยลวดลายดอกไม้ฟอยล์สีทอง ชมพูและน้ำเงินเป็นประกาย พร้อมพู่ห้อยด้านบนและป้ายเขียนว่า WAU BULAN อยู่ด้านล่าง'
 heroCredit: 'D.W. Fisher-Freberg / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'

@@ -81,7 +81,7 @@ festivalFacts:
   holiday: "மலேசியாவில் நாடளாவிய அளவிலோ எந்த மாநில அளவிலோ பொது விடுமுறை அல்ல; வழிபாடு, 盂兰胜会 மற்றும் 歌台 (மேடை நிகழ்ச்சிகள்) பெரும்பாலும் வேலை முடிந்த பிற்பகல் மற்றும் இரவில் நடைபெறுகின்றன."
   etiquette: "歌台 (மேடை நிகழ்ச்சி) நிகழ்வுகளில் முதல் வரிசை இருக்கைகள் உருவமற்ற விருந்தினர்களுக்காக வேண்டுமென்றே காலியாக விடப்படுகின்றன, பார்வையாளர்கள் பொதுவாக முதல் வரிசையில் அமர்வதில்லை; சாலையோரக் காணிக்கைகளை மிதிக்கக் கூடாது, தரையில் கிடக்கும் பொருட்களைக் குறிப்பின்றி எடுக்கக் கூடாது போன்ற நாட்டுப்புற நம்பிக்கைகளும் உள்ளன."
 hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
-heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroAlt: 'இரவில் ஏழாம் மாத getai-ன்போது, சிவப்பு நியான் வளைவுகள், நட்சத்திர வடிவப் பலகைகள், நகரும் சீன எழுத்து LED பலகை ஆகியவற்றுடன் ஒளிரும் கூடார மேடை'
 heroCredit: 'Ah leong 99. / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'

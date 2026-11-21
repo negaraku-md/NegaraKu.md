@@ -84,7 +84,7 @@ stayFacts:
   watch: 'L''étiquette IPTA/IPTS ne vous dit pas si un diplôme est reconnu — cela dépend de savoir si le programme précis est accrédité par la MQA sur le MQR, ce que vous devriez vérifier pour votre année d''admission exacte. Vous ne pouvez pas postuler à une université privée via l''UPU.'
   next: 'Décidez à partir du titre que vous détenez, puis vérifiez le programme et l''année d''admission exacts sur le Registre des qualifications de Malaisie avant de vous inscrire dans l''un ou l''autre type d''établissement. Voir l''explication de l''accréditation MQA et Avant de payer un acompte à un collège.'
 hero: '/media/education/public-vs-private-universities/hero.webp'
-heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroAlt: 'Un long hall moderniste en béton brut avec l''inscription bleue « Dewan Tunku Canselor » et un escalier extérieur, précédé de jardins topiaires et d''une route déserte'
 heroCredit: 'Wiki Farazi / Wikimedia Commons'
 heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
