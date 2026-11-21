@@ -37,7 +37,7 @@ faq:
     a: "ASEAN adalah pilar atau dasar kebijakan luar negeri Malaysia. Malaysia adalah salah satu negara pendiri ASEAN dan selalu mengutamakan keutuhan serta kedudukan sentral (centrality) ASEAN, sambil aktif dalam forum lain seperti Perserikatan Bangsa-Bangsa (PBB), Organisasi Kerja Sama Islam (OKI) dan Gerakan Non-Blok (NAM)."
 
 lang: "id"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Pandangan luas pintu masuk kompleks Wisma Putra dengan bendera negara dan pos jaga di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Pandangan lebih luas pintu masuk dan pos jaga Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Ketika Amerika Serikat adalah investor asing terbesar dalam ekonomi Malaysia, tetapi Tiongkok adalah mitra dagang terbesarnya, sebuah negara kecil dan terbuka tidak mampu memihak. Itulah sebabnya kebijakan luar negeri Malaysia selama berdekade-dekade berpegang pada satu kata yang mudah disebut tetapi sukar dijaga: netral. Kementerian yang bertugas menjaga keseimbangan itu setiap hari adalah Wisma Putra.

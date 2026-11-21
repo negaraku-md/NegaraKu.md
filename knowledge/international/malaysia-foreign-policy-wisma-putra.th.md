@@ -37,7 +37,7 @@ faq:
     a: "อาเซียนเป็นเสาหลักหรือรากฐานของนโยบายต่างประเทศมาเลเซีย มาเลเซียเป็นหนึ่งในประเทศผู้ก่อตั้งอาเซียนและให้ความสำคัญกับความแข็งแกร่งและความเป็นศูนย์กลาง (centrality) ของอาเซียนเสมอ ควบคู่ไปกับความแข็งขันในเวทีอื่น เช่น สหประชาชาติ (UN) องค์การความร่วมมืออิสลาม (OIC) และขบวนการไม่ฝักใฝ่ฝ่ายใด (NAM)"
 
 lang: "th"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: มุมมองกว้างของทางเข้าอาคาร Wisma Putra พร้อมธงประจำรัฐและป้อมยามในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: มุมมองกว้างขึ้นของทางเข้าและป้อมยาม Wisma Putra ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 เมื่อสหรัฐอเมริกาเป็นนักลงทุนต่างชาติรายใหญ่ที่สุดในเศรษฐกิจมาเลเซีย แต่จีนกลับเป็นคู่ค้ารายใหญ่ที่สุด ประเทศเล็กและเปิดกว้างประเทศหนึ่งย่อมไม่สามารถเข้าข้างฝ่ายใดได้ นี่คือเหตุผลที่นโยบายต่างประเทศของมาเลเซียตลอดหลายทศวรรษยึดโยงอยู่กับคำหนึ่งที่พูดง่ายแต่รักษายาก นั่นคือความเป็นกลาง กระทรวงที่ทำหน้าที่รักษาการถ่วงดุลนั้นทุกวันคือ Wisma Putra

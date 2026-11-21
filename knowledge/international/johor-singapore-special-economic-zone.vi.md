@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia là một hành lang phát triển của Malaysia được khởi động vào những năm 2000 và nằm bên trong phạm vi JS-SEZ. JS-SEZ rộng hơn và mang tính song phương: nó thêm Singapore làm bên đồng ký kết, mở rộng khu vực đến Pengerang, và phủ thêm một khung ưu đãi và hỗ trợ chung lên trên."
 
 lang: "vi"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: Góc nhìn từ trên cao của Forest City ở Johor cho thấy các tòa tháp cao tầng ven biển đang xây dựng và những dãy khu biệt thự màu trắng dọc một bãi biển bồi đắp bên cạnh eo biển
+    kind: actual
+    origin: third-party
+    subject: Forest City, dự án phát triển xuyên biên giới chủ lực ở Johor trên eo biển Johor, với các tòa tháp và khu biệt thự đang xây dựng hướng ra mặt nước về phía Singapore
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 Hai quốc gia đã đồng ý chia sẻ một bộ luật thuế xuyên qua một đường biên giới. Đó là sự mới mẻ lặng lẽ của Đặc khu Kinh tế Johor-Singapore — không phải một khu công nghiệp mới, mà là một thỏa thuận song phương cho phép miền nam Johor và Singapore tự tiếp thị mình với các nhà đầu tư toàn cầu như một địa chỉ kinh doanh duy nhất.

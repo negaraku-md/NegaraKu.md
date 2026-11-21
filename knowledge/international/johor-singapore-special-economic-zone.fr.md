@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia est un corridor de développement malaisien lancé dans les années 2000 et se situe à l'intérieur du périmètre de la JS-SEZ. La JS-SEZ est plus large et bilatérale : elle ajoute Singapour comme cosignataire, étend la zone jusqu'à Pengerang et superpose un cadre partagé d'incitations et de facilitation."
 
 lang: "fr"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: Vue aérienne de Forest City à Johor montrant des tours de grande hauteur en bord de mer en construction et des rangées de blocs de villas blanches le long d'une plage artificielle au bord du détroit
+    kind: actual
+    origin: third-party
+    subject: Forest City, le projet transfrontalier phare de Johor sur le détroit de Johor, avec des tours et des blocs de villas en construction faisant face à l'eau en direction de Singapour
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 Deux pays ont convenu de partager un code fiscal de part et d'autre d'une frontière. Telle est la discrète nouveauté de la Zone économique spéciale Johor-Singapour — non pas un nouveau parc industriel, mais un pacte bilatéral qui permet au sud de Johor et à Singapour de se présenter aux investisseurs mondiaux comme une seule adresse d'affaires.

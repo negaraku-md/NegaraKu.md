@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia ممر تنمية ماليزي أُطلق في العقد الأول من الألفية الثالثة ويقع داخل نطاق JS-SEZ. أما JS-SEZ فأوسع وثنائية: فهي تضيف سنغافورة طرفاً موقِّعاً، وتمدّ المنطقة إلى Pengerang، وتضع فوق ذلك طبقة من إطار حوافز وتيسير مشترك."
 
 lang: "ar"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: منظر جوي لـ Forest City في جوهور يُظهر أبراجاً عالية على الواجهة البحرية قيد الإنشاء وصفوفاً من مجمّعات الفلل البيضاء على شاطئ مستصلح بجانب المضيق
+    kind: actual
+    origin: third-party
+    subject: Forest City، المشروع العابر للحدود الرائد في جوهور على مضيق جوهور، بأبراج ومجمّعات فلل قيد الإنشاء مطلّة على المياه باتجاه سنغافورة
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 اتفقت دولتان على تقاسم قانون ضريبي عبر الحدود. تلك هي الطرافة الهادئة لمنطقة جوهور-سنغافورة الاقتصادية الخاصة — لا مجمَّع صناعي جديد، بل صفقة ثنائية تتيح لجنوب جوهور وسنغافورة أن يسوّقا نفسيهما للمستثمرين العالميين بوصفهما عنوان أعمال واحداً.

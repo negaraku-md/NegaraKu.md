@@ -37,7 +37,7 @@ faq:
     a: "آسيان هي حجر الزاوية أو أساس السياسة الخارجية لماليزيا. وماليزيا إحدى الدول المؤسِّسة لآسيان وتعطي الأولوية باستمرار لوحدة آسيان ومركزيتها، مع البقاء نشطة في محافل أخرى مثل الأمم المتحدة (UN) ومنظمة التعاون الإسلامي (OIC) وحركة عدم الانحياز (NAM)."
 
 lang: "ar"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: منظر واسع لمدخل مجمّع Wisma Putra مع أعلام الدول وبيت البوابة في Putrajaya
+    kind: actual
+    origin: third-party
+    subject: منظر أوسع لمدخل Wisma Putra وبيت البوابة، Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 عندما تكون الولايات المتحدة أكبر مستثمر أجنبي في اقتصاد ماليزيا، لكن الصين أكبر شريك تجاري لها، لا يسع بلدًا صغيرًا ومنفتحًا أن ينحاز. ولهذا ظلّت السياسة الخارجية لماليزيا، لعقود، متشبّثة بكلمة واحدة يسهل قولها ويصعب الحفاظ عليها: الحياد. والوزارة المكلّفة بصون ذلك التوازن يومًا بعد يوم هي Wisma Putra.

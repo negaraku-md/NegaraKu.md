@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia adalah koridor pembangunan Malaysia yang diluncurkan pada tahun 2000-an dan terletak di dalam kawasan JS-SEZ. JS-SEZ lebih luas dan bersifat bilateral: ia menambah Singapura sebagai penanda tangan bersama, memperpanjang zona ke Pengerang, dan menyusun lapisan kerangka insentif dan fasilitasi bersama di atasnya."
 
 lang: "id"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: Tampak udara Forest City di Johor memperlihatkan menara tepi laut yang sedang dibangun dan barisan blok vila putih di sepanjang pantai reklamasi di tepi selat
+    kind: actual
+    origin: third-party
+    subject: Forest City, pengembangan lintas batas unggulan di Johor di Selat Johor, dengan menara dan blok vila yang sedang dibangun menghadap ke air ke arah Singapura
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 Dua negara setuju berbagi satu kode pajak lintas perbatasan.

@@ -37,7 +37,7 @@ faq:
     a: "L'ASEAN est la pierre angulaire ou le socle de la politique étrangère de la Malaisie. La Malaisie est l'un des pays fondateurs de l'ASEAN et donne systématiquement la priorité à l'intégrité et à la centralité de l'ASEAN, tout en restant active dans d'autres forums comme les Nations unies (ONU), l'Organisation de la coopération islamique (OCI) et le Mouvement des pays non alignés (MNA)."
 
 lang: "fr"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Vue large de l'entrée du complexe Wisma Putra avec les drapeaux des États et le poste de garde à Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Vue élargie de l'entrée et du poste de garde de Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Lorsque les États-Unis sont le plus grand investisseur étranger dans l'économie de la Malaisie, mais que la Chine est son plus grand partenaire commercial, un petit pays ouvert ne peut se permettre de prendre parti. C'est pourquoi la politique étrangère de la Malaisie s'accroche depuis des décennies à un mot facile à dire mais difficile à tenir : la neutralité. Le ministère chargé de maintenir cet équilibre jour après jour est Wisma Putra.

@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia एक मलेशियाई विकास गलियारा है जो 2000 के दशक में शुरू हुआ और JS-SEZ के दायरे के भीतर स्थित है। JS-SEZ व्यापक और द्विपक्षीय है: यह सिंगापुर को सह-हस्ताक्षरकर्ता के रूप में जोड़ता है, क्षेत्र को Pengerang तक विस्तारित करता है, और ऊपर एक साझा प्रोत्साहन और सुविधा ढाँचा जोड़ता है।"
 
 lang: "hi"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: जोहोर में Forest City का हवाई दृश्य, जिसमें निर्माणाधीन तटवर्ती ऊँची मीनारें और जलडमरूमध्य के किनारे एक पुनर्ग्रहीत समुद्र तट के साथ सफ़ेद विला ब्लॉकों की कतारें दिख रही हैं
+    kind: actual
+    origin: third-party
+    subject: Forest City, Johor Strait पर जोहोर में प्रमुख सीमा-पार विकास, जिसमें Singapore की ओर पानी का सामना करती निर्माणाधीन मीनारें और विला ब्लॉक हैं
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 दो देश सीमा-पार एक कर-संहिता साझा करने पर सहमत हुए। यही जोहोर-सिंगापुर विशेष आर्थिक क्षेत्र की शांत नवीनता है — कोई नया औद्योगिक पार्क नहीं, बल्कि एक द्विपक्षीय सौदा जो दक्षिणी जोहोर और सिंगापुर को वैश्विक निवेशकों के सामने एक ही व्यावसायिक पते के रूप में खुद को प्रस्तुत करने देता है।

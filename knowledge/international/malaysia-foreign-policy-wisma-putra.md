@@ -100,6 +100,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Pandangan luas pintu masuk kompleks Wisma Putra dengan bendera negeri dan pondok pengawal di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Pandangan lebih luas pintu masuk dan pondok pengawal Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Apabila Amerika Syarikat ialah pelabur asing terbesar dalam ekonomi Malaysia, tetapi China pula rakan dagang terbesarnya, sebuah negara kecil dan terbuka tidak mampu memihak. Itulah sebabnya dasar luar Malaysia sejak berdekad-dekad berpaut pada satu perkataan yang mudah disebut tetapi sukar dijaga: berkecuali. Kementerian yang bertugas menjaga imbangan itu setiap hari ialah Wisma Putra.

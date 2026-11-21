@@ -32,7 +32,7 @@ faq:
     a: "伊斯干达马来西亚是2000年代启动的马来西亚发展走廊，位于JS-SEZ范围之内。JS-SEZ则更为广阔且属于双边性质：它将新加坡纳入为共同签署方，将特区延伸至边佳兰（Pengerang），并在其上叠加了共享的优惠与便利化框架。"
 
 lang: "zh"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: 俯瞰柔佛的 Forest City，可见海滨在建的高层塔楼，以及沿海峡填海海滩排列的一栋栋白色别墅楼
+    kind: actual
+    origin: third-party
+    subject: Forest City，柔佛海峡上柔佛境内的旗舰跨境开发项目，塔楼和别墅楼在建中，面向水面朝向新加坡
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 两个国家同意跨越一道边界共享一套税制。这正是柔佛-新加坡经济特区
