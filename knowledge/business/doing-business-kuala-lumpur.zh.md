@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: 吉隆坡光洁的蓝色玻璃 Mercu UEM 办公大楼，前景中一列红色单轨列车在高架轨道上驶过，映衬明亮天空
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM，KL Sentral 商业区的一座玻璃企业办公大楼，前方有一列单轨列车驶过
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: 前景是 KL Sentral 车站的弧形屋顶，被 KL Sentral 商业区的办公楼和酒店塔楼环绕，映衬多云天空
+    kind: actual
+    origin: third-party
+    subject: KL Sentral 交通枢纽及吉隆坡 KL Sentral 商业区周围的办公楼群
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 吉隆坡是马来西亚唯一一个你能从联邦宪报直接读到自己执照费用的地方。不是市议会通告，也不是柜台查询——而是你行业的实际年费率，印在一份任何人都能下载的 P.U.(A) 中。

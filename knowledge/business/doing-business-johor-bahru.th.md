@@ -44,7 +44,7 @@ verificationNeeded:
   - "โครงสร้างค่าโดยสาร RTS Link และวันแรกของบริการผู้โดยสารที่ยืนยันแล้ว — MRT Corp เผยแพร่เป้าหมายการก่อสร้างโครงสร้างพื้นฐานเสร็จปลายปี 2026 และการเริ่มบริการเดือนมกราคม 2027 ขณะที่ Singapore LTA ระบุว่าบริการภายในเดือนธันวาคม 2026"
 
 lang: "th"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,6 +129,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: ภาพมุมสูงของทางเชื่อมยะโฮร์-สิงคโปร์ที่คับคั่งด้วยยานพาหนะข้ามช่องแคบ พร้อมอาคารเมืองยะโฮร์บาห์รูและป้าย 'I love Johor' ฝั่งมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ทางเชื่อมยะโฮร์-สิงคโปร์ที่แน่นด้วยการจราจรข้ามช่องแคบข้างเมืองยะโฮร์บาห์รู ประตูสู่สิงคโปร์ที่ใช้ทุกวัน
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: ภาพพาโนรามากว้างของทิวทัศน์เมืองยะโฮร์บาห์รูที่มีกลุ่มอาคารพาณิชย์และที่พักอาศัยสูงใต้ท้องฟ้าที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: ภาพพาโนรามากว้างของใจกลางเมืองยะโฮร์บาห์รู — อาคารพาณิชย์สูงและอาคารที่พักอาศัยกระจายทั่วเมือง
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 ยะโฮร์บาห์รูเป็นเมืองมาเลเซียเพียงแห่งเดียวที่เพดานค่าจ้าง แผนการจัดพนักงาน และกรอบเวลาการส่งมอบ ล้วนถูกกำหนดโดยประเทศที่คุณไม่ได้ดำเนินการอยู่

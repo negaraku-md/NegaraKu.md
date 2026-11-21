@@ -37,7 +37,7 @@ faq:
     a: "TRX có ga đường sắt riêng, ga MRT Tun Razak Exchange, đã hoạt động từ năm 2017 và được phục vụ bởi hai tuyến MRT. Việc tiếp cận bằng đường bộ được cung cấp bởi mạng lưới trung tâm Kuala Lumpur xung quanh."
 
 lang: "vi"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: Cảnh nhìn toàn chiều cao của tòa tháp siêu cao Exchange 106 với đỉnh bạc nhiều mặt, hai bên là các tòa tháp văn phòng TRX thấp hơn gồm cả tòa nhà Affin dưới bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Cận cảnh tòa tháp Exchange 106 đã hoàn thành, tòa siêu cao của TRX, với trụ sở chính Affin Bank ở bên phải
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Một quảng trường đi bộ lát gạch trong khu Tun Razak Exchange với một tác phẩm điêu khắc bằng thép không gỉ và vàng ở bên trái và các tòa tháp văn phòng kính phản chiếu vươn lên phía sau
+    kind: actual
+    origin: third-party
+    subject: Quảng trường ngang tầm đường phố và nghệ thuật công cộng bên trong khu tài chính Tun Razak Exchange, được bao quanh bởi các tòa tháp văn phòng kính
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 Bước ra khỏi ga MRT Tun Razak Exchange và đường chân trời cho bạn biết rằng nơi này được quy hoạch, chứ không phải mọc lên tự nhiên. Một cụm tháp trên 70 mẫu Anh ở rìa phía đông trung tâm Kuala Lumpur, một trong số đó vượt quá 450 mét, được bố trí quanh một công viên nằm trên mái của một trung tâm thương mại. Đây là nỗ lực của Malaysia nhằm xây dựng một khu tài chính từ con số không.

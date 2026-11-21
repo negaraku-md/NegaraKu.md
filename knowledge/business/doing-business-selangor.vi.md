@@ -43,7 +43,7 @@ verificationNeeded:
   - "Các mức giấy phép cơ sở thường niên của MBPJ — tệp PDF nội quy được MBPJ công bố là một hình ảnh quét không có lớp văn bản, nên không mức ringgit nào có thể đọc được bằng máy"
 
 lang: "vi"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,6 +124,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: Tòa tháp văn phòng Wisma MBSA cao và góc cạnh bên cạnh tòa nhà Dataran Shah Alam mái vòm xanh dưới bầu trời xanh sáng ở Shah Alam, Selangor
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp văn phòng Wisma MBSA và Dataran Shah Alam trong khu thương mại và hành chính trung tâm của thủ phủ bang Selangor
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: Một tòa nhà văn phòng thương mại nhiều tầng bằng kính và màu trắng với các cửa sổ vòm cao tại Mentari Business Park ở Selangor, nhìn từ ven đường
+    kind: actual
+    origin: third-party
+    subject: Một khối văn phòng thương mại tại Mentari Business Park ở Bandar Sunway, một phần của vành đai công viên doanh nghiệp dày đặc của Selangor
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur có một cơ quan cấp phép. Selangor, vốn bao quanh nó, có mười hai — và một nhà máy ở

@@ -44,7 +44,7 @@ verificationNeeded:
   - "Hitungan penyewa terkini dan investasi yang dikomitmenkan di POIC Lahad Datu dan SOGIP Sipitang — halaman operator membawa angka bertanggal 2020 hingga 2022 dan jumlah aspirasi"
 
 lang: "id"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,6 +133,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kot
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: Bendera-bendera negeri Malaysia di tiang pada latar depan dengan cakrawala kota Kota Kinabalu menjulang di seberang teluk di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Cakrawala pusat kota Kota Kinabalu dilihat dari seberang teluk dari gedung Dewan Undangan Negeri Sabah, Sabah
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: Gedung kantor pusat Sabah Ports modern berfasad kaca di balik pepohonan palem, dengan papan nama Sabah Ports di pintu masuk bergerbang di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Kantor pusat Sabah Ports di Sepanggar, Kota Kinabalu — gedung pelabuhan korporat berfasad kaca
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 Hampir setiap panduan nasional untuk menjalankan bisnis di Malaysia keliru

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 
 status: "published"
 aiAssisted: true
@@ -117,6 +117,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: クアラルンプールの洗練された青ガラス張りのMercu UEMオフィスタワー。手前では明るい空の下、赤いモノレール列車が高架軌道を横切る
+    kind: actual
+    origin: third-party
+    subject: KL Sentralビジネス地区にあるガラス張りの企業オフィスタワーMercu UEM。手前をモノレール列車が通過する
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: 手前にKL Sentral駅の湾曲した屋根があり、曇り空の下、KL Sentralビジネス地区のオフィスとホテルのタワー群に囲まれている
+    kind: actual
+    origin: third-party
+    subject: KL Sentral交通拠点と、それを取り囲むクアラルンプールのKL Sentralビジネス地区のオフィスタワー群
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 クアラルンプールは、マレーシアで唯一、自分の免許料を連邦官報から直接読み取れる場所

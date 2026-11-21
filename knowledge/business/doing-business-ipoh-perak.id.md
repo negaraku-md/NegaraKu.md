@@ -41,7 +41,7 @@ verificationNeeded:
   - "Investasi yang disetujui untuk Perak sepanjang tahun penuh 2024 dan 2025 serta peringkatnya — MIDA hanya menyebutkan lima negara bagian teratas"
 
 lang: "id"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: Gedung stasiun kereta api Ipoh kolonial berwarna putih dengan kubah dan arkade berlengkung, dilihat dari seberang pelataran berpavingnya di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Stasiun kereta api Ipoh, Perak — bangunan landmark berkubah era kolonial pada pelatarannya
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Pemandangan dari ketinggian atas inti kota komersial Ipoh yang dipenuhi rumah toko dan blok perkantoran, dengan menara perkantoran kaca dan perbukitan batu kapur di latar belakang
+    kind: actual
+    origin: third-party
+    subject: Inti kota komersial Ipoh, Perak — rumah toko dan blok perkantoran yang padat dengan menara perkantoran kaca dan perbukitan batu kapur di belakang
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 Halaman ini sengaja dibuat pendek. Rezim hukum Perak sama seperti Selangor, dewan-dewannya menerbitkan sedikit informasi, dan cerita sebenarnya Perak muat dalam delapan ratus kata dibandingkan dua ribu. Apa yang benar-benar lokal adalah struktur biaya — dan berapa biaya itu bagi Anda.

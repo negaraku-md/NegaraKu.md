@@ -43,7 +43,7 @@ verificationNeeded:
   - "MBPJ annual premise licence rates — the by-law PDF published by MBPJ is a scanned image with no text layer, so no ringgit rate is machine-readable"
 
 lang: "fr"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,6 +124,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: La haute tour de bureaux angulaire Wisma MBSA à côté du bâtiment Dataran Shah Alam au dôme bleu sous un ciel bleu éclatant à Shah Alam, Selangor
+    kind: actual
+    origin: third-party
+    subject: La tour de bureaux Wisma MBSA et Dataran Shah Alam dans le cœur commercial et administratif de la capitale de l'État de Selangor
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: Un immeuble de bureaux commercial de plusieurs étages en verre et blanc avec de hautes fenêtres en arche au Mentari Business Park à Selangor, vu depuis le bord de la route
+    kind: actual
+    origin: third-party
+    subject: Un bloc de bureaux commercial au Mentari Business Park à Bandar Sunway, partie de la dense ceinture de parcs d'affaires de Selangor
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur a une autorité de licences. Selangor, qui l'entoure, en a douze — et une usine à

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 
 status: "published"
 aiAssisted: true
@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: 俯瞰横跨海峡的槟城大桥的高视角，车辆双向通行，远处可见大陆市镇和山丘
+    kind: actual
+    origin: third-party
+    subject: 槟城大桥承载车流横跨槟岛与大陆之间的海峡，是连接槟岛与威省工业中心的经济动脉
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: 仰角拍摄的槟城乔治市高耸的光大大厦，耸立在商业区上方，映衬明亮蓝天
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市的光大（Komtar）大厦，槟城最高建筑及中心商业和政府地标
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 关于在槟城经商的第一个问题不是要注册什么,而是你身处海峡的哪一侧。

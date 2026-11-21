@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: Sleek blue-glass Mercu UEM office tower in Kuala Lumpur with a red monorail train crossing an elevated track in the foreground under a bright sky
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, a glass corporate office tower in the KL Sentral business district, with a monorail train passing in front
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: The curved roof of KL Sentral station in the foreground ringed by office and hotel towers of the KL Sentral business district under a cloudy sky
+    kind: actual
+    origin: third-party
+    subject: KL Sentral transport hub and the surrounding office-tower cluster of Kuala Lumpur's KL Sentral business district
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 Kuala Lumpur is the one place in Malaysia where you can read your licence fee off the

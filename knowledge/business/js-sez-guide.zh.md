@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investmen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: 柔佛 Forest City 的鸟瞰图，可见正在建设的滨水高层塔楼和沿填海海滩排列的成排白色别墅楼，紧邻海峡
+    kind: actual
+    origin: third-party
+    subject: Forest City，柔佛位于柔佛海峡的旗舰跨境开发项目，塔楼和别墅楼正在建设中，面朝新加坡方向的水域
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: 一个绿化环岛上的大型路边 'Iskandar Puteri' 地标标识，背景天际线是办公和商业塔楼及建筑起重机
+    kind: actual
+    origin: third-party
+    subject: Iskandar Puteri 门户地标标识，背景天际线是该区崛起的商业塔楼和起重机
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 关于柔佛-新加坡经济特区的每一份摘要，开头都用同一个数字：15 年 5%。这是个真实的数字。但它也是整个配套中最没用的一个事实，因为几乎没有读到它的人能够符合资格。

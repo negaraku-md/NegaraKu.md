@@ -46,7 +46,7 @@ verificationNeeded:
   - "النص الموحَّد على LawNet لمرسوم عمل ساراواك الباب 76 (Sarawak Labour Ordinance Cap. 76) محدَّث فقط حتى 31 يوليو 2006 ويجب قراءته مع القانون A1754 لا بدلًا منه."
 
 lang: "ar"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -121,6 +121,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: قوس صيني مزخرف يمتد عبر شارع في مدينة كوتشينغ تصطف على جانبيه المتاجر التراثية والأعمال، مع سيارات وأحد المارة تحت سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: شارع تجاري في مدينة كوتشينغ، ساراواك — قوس الحي الصيني المزخرف فوق شارع متاجر تجارية
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: منظر جوي لرصيف ميناء الغاز الطبيعي المسال في Bintulu مع أذرع تحميل غاز طويلة وأنابيب ومنصات إرساء فوق مياه خضراء مزرقّة، مع صهاريج تخزين ورافعات على الشاطئ البعيد
+    kind: actual
+    origin: third-party
+    subject: ميناء الغاز الطبيعي المسال في Bintulu، ساراواك — رصيف التحميل الصناعي بأذرع تحميل الغاز وصهاريج التخزين على الساحل
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 ابدأ برقم يخبرك بأي نوع من الأماكن هذا. تدير ساراواك **سلسلتَي ترقيم أبواب متوازيتين**، وكلتاهما نافذتان. فالباب 64 من طبعة 1958 هو مرسوم أسماء الأعمال (Business Names Ordinance). والباب 64 من السلسلة الحالية هو **مرسوم هيئات تنمية الكوريدورات الإقليمية لسنة 2006 (Regional Corridors Development Authorities Ordinance 2006)** — القانون وراء SCORE.

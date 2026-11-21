@@ -37,7 +37,7 @@ faq:
     a: "TRX-க்கு அதன் சொந்த ரயில் நிலையம், Tun Razak Exchange MRT நிலையம் உள்ளது, இது 2017 முதல் செயல்பட்டு வருகிறது, இரண்டு MRT வழித்தடங்களால் சேவை செய்யப்படுகிறது. சுற்றியுள்ள மத்திய கோலாலம்பூர் வலையமைப்பால் சாலை அணுகல் வழங்கப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: நீல வானத்தின் கீழ், Affin கட்டிடம் உள்ளிட்ட கீழ்த்தட்டு TRX அலுவலக கோபுரங்களால் சூழப்பட்ட, பட்டை வெள்ளி உச்சிமுடியுடன் கூடிய Exchange 106 மீயுயர கோபுரத்தின் முழு-உயரக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: TRX மீயுயர கட்டிடமான, முடிக்கப்பட்ட Exchange 106 கோபுரத்தின் அருகிலான விவரக் காட்சி; அதன் வலப்புறம் Affin Bank தலைமையகத்துடன்
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Tun Razak Exchange பகுதியில் உள்ள கல்-பதித்த பாதசாரி வெளி; இடப்புறம் துருப்பிடிக்காத-எஃகு-மற்றும்-தங்க சிற்பமும், பின்னால் உயர்ந்து நிற்கும் பிரதிபலிக்கும் கண்ணாடி அலுவலக கோபுரங்களுடன்
+    kind: actual
+    origin: third-party
+    subject: கண்ணாடி அலுவலக கோபுரங்களால் சூழப்பட்ட Tun Razak Exchange நிதி-மாவட்டப் பகுதிக்குள் உள்ள தெரு-மட்ட வெளியும் பொதுக் கலையும்
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 Tun Razak Exchange MRT நிலையத்திலிருந்து வெளியே வந்தால், வானளாவிய காட்சி இது வளர்ந்ததல்ல, திட்டமிடப்பட்டது என்று உங்களுக்குச் சொல்கிறது. கோலாலம்பூர் மையத்தின் கிழக்கு விளிம்பில் 70 ஏக்கரில் ஒரு கூட்டம் கோபுரங்கள், அவற்றில் ஒன்று 450 மீட்டரைத் தாண்டி, ஒரு மால்-இன் கூரையில் அமர்ந்துள்ள ஒரு பூங்காவைச் சுற்றி அமைக்கப்பட்டுள்ளது. இது புதிதாக ஒரு நிதி மாவட்டத்தைக் கட்டியெழுப்பும் மலேசியாவின் முயற்சி.

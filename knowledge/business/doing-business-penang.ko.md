@@ -41,7 +41,7 @@ verificationNeeded:
   - "자유지역법 1990(Free Zones Act 1990)에 따른 바얀 르파스 및 프라이 자유산업지역 선포가 개정되었는지 여부와 현행 관보 게재 지역 경계"
 
 lang: "ko"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: 양방향으로 차량이 흐르는 해협을 가로지르는 페낭 대교를 내려다본 전경, 멀리 본토 도시와 언덕이 보인다
+    kind: actual
+    origin: third-party
+    subject: 페낭섬과 본토 사이 해협을 가로질러 차량을 실어 나르는 페낭 대교, 섬과 Seberang Perai 산업 허브를 잇는 경제 동맥
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: 밝고 푸른 하늘을 배경으로 상업 지구 위로 솟은 페낭 조지타운의 높은 Komtar 타워를 아래에서 올려다본 전경
+    kind: actual
+    origin: third-party
+    subject: 페낭에서 가장 높은 건물이자 중심 상업 및 행정 명소인 조지타운의 Komtar 타워
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 페낭(Penang)에서 사업을 하는 데 관한 첫 번째 질문은 무엇을 등록하느냐가 아닙니다. 그것은

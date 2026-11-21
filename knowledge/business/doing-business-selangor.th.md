@@ -43,7 +43,7 @@ verificationNeeded:
   - "อัตราใบอนุญาตสถานประกอบการรายปีของ MBPJ — PDF ข้อบัญญัติที่ MBPJ เผยแพร่เป็นภาพสแกนที่ไม่มีชั้นข้อความ ดังนั้นไม่มีอัตราริงกิตใดที่เครื่องอ่านได้"
 
 lang: "th"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,6 +124,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: อาคารสำนักงาน Wisma MBSA ทรงเหลี่ยมมุมสูงข้างอาคาร Dataran Shah Alam ที่มีโดมสีน้ำเงินใต้ท้องฟ้าสีฟ้าสดใสในชาห์อาลัม รัฐสลังงอร์
+    kind: actual
+    origin: third-party
+    subject: อาคารสำนักงาน Wisma MBSA และ Dataran Shah Alam ในย่านการค้าและราชการใจกลางเมืองหลวงของรัฐสลังงอร์
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: อาคารสำนักงานพาณิชย์กระจกและสีขาวหลายชั้นที่มีหน้าต่างทรงโค้งสูงที่ Mentari Business Park ในรัฐสลังงอร์ มองจากริมถนน
+    kind: actual
+    origin: third-party
+    subject: อาคารสำนักงานพาณิชย์ที่ Mentari Business Park ในบันดาร์ซันเวย์ ส่วนหนึ่งของเขตสวนธุรกิจที่หนาแน่นของรัฐสลังงอร์
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 กัวลาลัมเปอร์มีหน่วยงานออกใบอนุญาตเดียว เซอลาโงร์ ซึ่งล้อมรอบมัน มีสิบสองแห่ง — และโรงงานในชาห์อาลัม ร้านในเปอตาลิงจายา และสำนักงานในอัมปังจายา ถูกกำกับโดยตราสารสามฉบับที่แตกต่างกันซึ่งหมดอายุในสามวันที่แตกต่างกัน

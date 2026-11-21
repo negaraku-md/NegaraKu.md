@@ -46,7 +46,7 @@ verificationNeeded:
   - "Teks konsolidasi LawNet bagi Sarawak Labour Ordinance Cap. 76 hanya mutakhir hingga 31 Juli 2006 dan harus dibaca bersama Act A1754 dan bukan menggantikannya."
 
 lang: "id"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -121,6 +121,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: Gerbang gapura Tionghoa yang berornamen membentang di atas jalan kota Kuching yang berjajar rumah toko dan usaha, dengan mobil dan seorang pejalan kaki di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Jalan komersial kota Kuching, Sarawak — gapura Pecinan berornamen di atas jalan usaha rumah toko
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Pemandangan udara dermaga pelabuhan LNG Bintulu dengan lengan pemuatan gas yang tinggi, jaringan pipa, dan platform penambat di atas air berwarna hijau toska, dengan tangki penyimpanan dan derek di pantai seberang
+    kind: actual
+    origin: third-party
+    subject: Pelabuhan LNG Bintulu, Sarawak — dermaga pemuatan industri dengan lengan pemuatan gas dan tangki penyimpanan di pesisir
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 Mulailah dengan satu angka yang memberi tahu Anda jenis tempat apa ini. Sarawak menjalankan **dua

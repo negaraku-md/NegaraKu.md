@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 
 status: "published"
 aiAssisted: true
@@ -133,6 +133,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kot
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: முன்புறத்தில் கம்பங்களில் மலேசிய மாநிலக் கொடிகளுடன், பிரகாசமான நீல வானத்தின் கீழ் விரிகுடாவின் குறுக்கே உயர்ந்து நிற்கும் கோட்டா கினபாலு நகர வானளாவிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: சபா மாநில சட்டமன்றக் கட்டிடத்திலிருந்து விரிகுடாவின் குறுக்கே பார்த்த சபா, கோட்டா கினபாலு நகர மைய வானளாவிக் காட்சி
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: பனை மரங்களுக்குப் பின்னால் நவீன கண்ணாடி-முகப்பு Sabah Ports தலைமையகக் கட்டிடம்; பிரகாசமான வானத்தின் கீழ் வாயிலிட்ட நுழைவாயிலில் Sabah Ports பலகையுடன்
+    kind: actual
+    origin: third-party
+    subject: கோட்டா கினபாலு, Sepanggar-இல் உள்ள Sabah Ports தலைமையகம் — கண்ணாடி-முகப்பு பெருநிறுவன துறைமுகக் கட்டிடம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 மலேசியாவில் வணிகம் செய்வது குறித்த கிட்டத்தட்ட ஒவ்வொரு தேசிய வழிகாட்டியும் சபாவைப் பற்றி

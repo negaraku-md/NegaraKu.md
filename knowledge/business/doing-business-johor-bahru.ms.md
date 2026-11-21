@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 
 status: "published"
 aiAssisted: true
@@ -130,6 +130,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: Pandangan tinggi Tambak Johor-Singapura yang sibuk dengan kenderaan merentasi selat, dengan bangunan bandar Johor Bahru dan papan tanda 'I love Johor' di sebelah Malaysia
+    kind: actual
+    origin: third-party
+    subject: Tambak Johor-Singapura yang penuh sesak lalu lintas merentasi selat di sebelah bandar Johor Bahru, pintu masuk harian yang menghubungkan JB ke Singapura
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Panorama luas lanskap bandar Johor Bahru dengan kelompok menara tinggi komersial dan kediaman di bawah langit berawan
+    kind: actual
+    origin: third-party
+    subject: Panorama luas teras bandar Johor Bahru — bangunan tinggi komersial dan menara kediaman tersebar di seluruh bandar
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru ialah satu-satunya bandar Malaysia yang paras gaji minimum, pelan

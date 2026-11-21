@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 
 status: "published"
 aiAssisted: true
@@ -125,6 +125,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: 高大棱角分明的 Wisma MBSA 办公大楼，旁边是蓝色穹顶的 Dataran Shah Alam 建筑，映衬雪兰莪莎阿南明亮的蓝天
+    kind: actual
+    origin: third-party
+    subject: Wisma MBSA 办公大楼和 Dataran Shah Alam，位于雪兰莪州首府的商业和行政核心区
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: 雪兰莪 Mentari Business Park 一座带有高大拱形窗户的多层玻璃与白色相间的商业办公楼，从路边拍摄
+    kind: actual
+    origin: third-party
+    subject: 位于 Bandar Sunway 的 Mentari Business Park 一座商业办公楼，属于雪兰莪密集的商业园区带的一部分
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 吉隆坡只有一个发牌机构。环绕着它的雪兰莪却有十二个——莎阿南的一座工厂、八打灵再也的一间店铺、以及安邦再也的一间办公室，受三份不同的法规管辖，各自在三个不同的日期到期。

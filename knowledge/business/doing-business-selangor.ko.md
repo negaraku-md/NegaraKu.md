@@ -43,7 +43,7 @@ verificationNeeded:
   - "MBPJ 연간 사업장 인허가 요율 — MBPJ가 공표한 조례 PDF는 텍스트 레이어가 없는 스캔 이미지이므로 어떠한 링깃 요율도 기계 판독이 불가능합니다"
 
 lang: "ko"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,6 +124,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: 슬랑오르주 Shah Alam에서 밝고 푸른 하늘 아래 파란 돔형 Dataran Shah Alam 건물 옆에 선 높고 각진 Wisma MBSA 오피스 타워
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르 주도의 상업·행정 중심지에 있는 Wisma MBSA 오피스 타워와 Dataran Shah Alam
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: 길가에서 바라본, 높은 아치형 창이 있는 슬랑오르 Mentari Business Park의 다층 유리·흰색 상업 오피스 건물
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르의 밀집된 비즈니스 파크 지대의 일부인 Bandar Sunway Mentari Business Park의 상업 오피스 건물
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 쿠알라룸푸르에는 하나의 인허가 당국이 있습니다. 그것을 둘러싼 슬랑오르에는 열둘이 있으며 —

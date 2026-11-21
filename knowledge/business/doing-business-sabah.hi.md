@@ -44,7 +44,7 @@ verificationNeeded:
   - "POIC Lahad Datu और SOGIP Sipitang पर वर्तमान किरायेदार संख्या और प्रतिबद्ध निवेश — प्रचालक साइटों पर आँकड़े 2020 से 2022 के बीच के और आकांक्षात्मक कुल हैं"
 
 lang: "hi"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -135,6 +135,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kot
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: अग्रभूमि में खंभों पर मलेशियाई राज्य ध्वज, पीछे चमकीले नीले आसमान के नीचे खाड़ी के पार उठती Kota Kinabalu शहर की क्षितिज-रेखा
+    kind: actual
+    origin: third-party
+    subject: Sabah State Assembly इमारत से खाड़ी के पार देखी गई Kota Kinabalu शहर केंद्र की क्षितिज-रेखा, सबा
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: ताड़ के पेड़ों के पीछे आधुनिक काँच-मुख वाली Sabah Ports मुख्यालय इमारत, चमकीले आसमान के नीचे गेट वाले प्रवेश पर एक Sabah Ports साइन के साथ
+    kind: actual
+    origin: third-party
+    subject: Sepanggar, Kota Kinabalu में Sabah Ports मुख्यालय — काँच-मुख वाली कॉर्पोरेट बंदरगाह इमारत
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 मलेशिया में व्यापार करने के लगभग हर राष्ट्रीय गाइड सबाह के बारे में गलत हैं, और हर बार

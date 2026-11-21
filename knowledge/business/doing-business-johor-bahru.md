@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: Elevated view of the Johor-Singapore Causeway busy with vehicles crossing the strait, with Johor Bahru city buildings and an 'I love Johor' sign on the Malaysian side
+    kind: actual
+    origin: third-party
+    subject: The traffic-packed Johor-Singapore Causeway crossing the strait beside Johor Bahru city, the daily gateway linking JB to Singapore
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Wide panorama of the Johor Bahru cityscape with clusters of commercial and residential high-rise towers under a cloudy sky
+    kind: actual
+    origin: third-party
+    subject: Wide panorama of the Johor Bahru urban core — commercial high-rises and residential towers spread across the city
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru is the only Malaysian city whose wage floor, staffing plan and delivery

@@ -41,7 +41,7 @@ verificationNeeded:
   - "Part de Kuala Lumpur dans le PIB national en pourcentage publié — le DOSM publie la valeur en ringgit et le classement mais pas directement la part de KL"
 
 lang: "fr"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: L'élégante tour de bureaux Mercu UEM en verre bleu à Kuala Lumpur avec un train de monorail rouge traversant une voie surélevée au premier plan sous un ciel lumineux
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, une tour de bureaux d'entreprise en verre dans le quartier d'affaires de KL Sentral, avec un train de monorail passant devant
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: Le toit incurvé de la gare de KL Sentral au premier plan, encerclé par les tours de bureaux et d'hôtels du quartier d'affaires de KL Sentral sous un ciel nuageux
+    kind: actual
+    origin: third-party
+    subject: La gare d'échange de KL Sentral et la grappe de tours de bureaux environnante du quartier d'affaires de KL Sentral à Kuala Lumpur
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 Kuala Lumpur est le seul endroit de Malaisie où vous pouvez lire votre droit de licence dans le

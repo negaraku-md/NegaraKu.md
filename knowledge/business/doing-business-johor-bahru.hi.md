@@ -44,7 +44,7 @@ verificationNeeded:
   - "RTS Link की किराया-संरचना और यात्री-सेवा का पुष्ट पहला दिन — MRT Corp 2026 के अंत तक बुनियादी-ढांचा-पूर्णता लक्ष्य और January 2027 सेवा-आरंभ प्रकाशित करती है, जबकि Singapore LTA इसे December 2026 तक सेवा के रूप में व्यक्त करता है"
 
 lang: "hi"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,6 +132,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: जलडमरूमध्य पार करते वाहनों से व्यस्त Johor-Singapore Causeway का ऊँचा दृश्य, मलेशियाई ओर Johor Bahru शहर की इमारतें और एक 'I love Johor' साइन के साथ
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru शहर के बगल में जलडमरूमध्य पार करता यातायात-भरा Johor-Singapore Causeway, JB को सिंगापुर से जोड़ने वाला दैनिक प्रवेशद्वार
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Johor Bahru नगर-दृश्य का चौड़ा पैनोरमा जिसमें बादल भरे आसमान के नीचे वाणिज्यिक और आवासीय ऊँची मीनारों के गुच्छे हैं
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru शहरी केंद्र का चौड़ा पैनोरमा — शहर भर में फैले वाणिज्यिक ऊँचे भवन और आवासीय मीनारें
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 जोहोर बहरू एकमात्र मलेशियाई नगर है जिसकी मज़दूरी-तलहटी, कर्मचारी-योजना और वितरण-खिड़की सब

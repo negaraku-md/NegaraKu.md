@@ -41,7 +41,7 @@ verificationNeeded:
   - "ว่าการประกาศเขตอุตสาหกรรมเสรีบายันเลปัสและเปอไรภายใต้ Free Zones Act 1990 ได้รับการแก้ไขหรือไม่ และขอบเขตเขตที่ประกาศในราชกิจจานุเบกษาปัจจุบัน"
 
 lang: "th"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: ภาพมุมสูงของสะพานปีนังทอดข้ามช่องแคบพร้อมรถวิ่งสวนกันทั้งสองทิศทาง มองเห็นเมืองแผ่นดินใหญ่และเนินเขาอยู่ไกลออกไป
+    kind: actual
+    origin: third-party
+    subject: สะพานปีนังรองรับการจราจรข้ามช่องแคบระหว่างเกาะปีนังกับแผ่นดินใหญ่ เส้นเลือดเศรษฐกิจที่เชื่อมเกาะกับย่านอุตสาหกรรม Seberang Perai
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: ภาพมุมต่ำของอาคาร Komtar สูงในจอร์จทาวน์ รัฐปีนัง ตั้งตระหง่านเหนือย่านการค้าตัดกับท้องฟ้าสีฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: อาคาร Komtar ในจอร์จทาวน์ อาคารที่สูงที่สุดในปีนังและเป็นแลนด์มาร์กศูนย์กลางการค้าและราชการ
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 คำถามแรกเกี่ยวกับการทำธุรกิจในปีนังไม่ใช่จะจดทะเบียนอะไร มันคือคุณอยู่ฝั่งใดของช่องแคบ

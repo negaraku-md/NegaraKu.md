@@ -41,7 +41,7 @@ verificationNeeded:
   - "การลงทุนที่ได้รับอนุมัติของเปรักตลอดปี 2024 และ 2025 และอันดับของมัน — MIDA ระบุเฉพาะห้ารัฐอันดับต้น"
 
 lang: "th"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: อาคารสถานีรถไฟอีโปห์ยุคอาณานิคมสีขาวที่มีโดมและซุ้มโค้งแบบอาร์เขด มองข้ามลานปูด้านหน้าใต้ท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: สถานีรถไฟอีโปห์ รัฐเประ — อาคารแลนด์มาร์กทรงโดมยุคอาณานิคมบนลานด้านหน้า
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: ภาพมุมสูงเหนือย่านการค้าใจกลางเมืองอีโปห์ที่แน่นด้วยตึกแถวและอาคารสำนักงาน พร้อมอาคารสำนักงานกระจกและเขาหินปูนอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: ย่านการค้าใจกลางเมืองอีโปห์ รัฐเประ — ตึกแถวและอาคารสำนักงานหนาแน่นพร้อมอาคารสำนักงานกระจกและเขาหินปูนอยู่ด้านหลัง
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 นี่เป็นหน้าที่สั้นโดยตั้งใจ ระบบกฎหมายของเปรักเหมือนกับของเซอลาโงร์ สภาท้องถิ่นของมันเผยแพร่น้อย และเรื่องราวเปรักที่ซื่อตรงพอดีในแปดร้อยคำมากกว่าสองพันคำ สิ่งที่เป็นเรื่องท้องถิ่นจริง ๆ คือโครงสร้างต้นทุน — และสิ่งที่มันมีค่าใช้จ่ายแก่คุณ

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 
 status: "published"
 aiAssisted: true
@@ -127,6 +127,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: 水路をまたぐペナン大橋を上空から見た眺め。両方向に車が流れ、遠くに本土の街と丘が見える
+    kind: actual
+    origin: third-party
+    subject: ペナン島と本土の間の水路を渡って交通を担うペナン大橋。島をSeberang Peraiの工業拠点と結ぶ経済の大動脈
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: ペナン州ジョージタウンの高いKomtarタワーを見上げた眺め。明るい青空を背に商業地区の上にそびえる
+    kind: actual
+    origin: third-party
+    subject: ジョージタウンのKomtarタワー。ペナン州で最も高い建物であり、商業と行政の中心的ランドマーク
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 ペナンでのビジネスについて最初に問うべきは、何を登記するかではない。海峡のどちら側にいるかである。

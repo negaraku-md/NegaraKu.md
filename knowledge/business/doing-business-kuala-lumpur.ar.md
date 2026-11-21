@@ -41,7 +41,7 @@ verificationNeeded:
   - "حصة كوالالمبور من الناتج المحلي الإجمالي الوطني كنسبة مئوية منشورة — تنشر DOSM القيمة بالرينغيت والترتيب لكن لا تنشر حصة كوالالمبور مباشرةً"
 
 lang: "ar"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,6 +120,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: برج مكاتب Mercu UEM الأنيق ذو الزجاج الأزرق في كوالالمبور مع قطار مونوريل أحمر يعبر مسارًا مرتفعًا في المقدمة تحت سماء زاهية
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM، برج مكاتب شركات زجاجي في منطقة أعمال KL Sentral، مع قطار مونوريل يمر أمامه
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: السقف المنحني لمحطة KL Sentral في المقدمة محاطًا بأبراج المكاتب والفنادق في منطقة أعمال KL Sentral تحت سماء غائمة
+    kind: actual
+    origin: third-party
+    subject: محور النقل KL Sentral وتجمّع أبراج المكاتب المحيط به في منطقة أعمال KL Sentral بكوالالمبور
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 كوالالمبور هي المكان الوحيد في ماليزيا الذي يمكنك فيه قراءة رسم رخصتك من الجريدة

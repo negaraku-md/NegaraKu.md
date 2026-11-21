@@ -41,7 +41,7 @@ verificationNeeded:
   - "क्या Free Zones Act 1990 के तहत बायन लेपस और पेराई मुक्त औद्योगिक क्षेत्र घोषणाओं में संशोधन हुआ है, और वर्तमान गजटित क्षेत्र सीमाएँ"
 
 lang: "hi"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,6 +130,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: दोनों दिशाओं में बहते वाहनों के साथ चैनल पर फैले Penang Bridge का ऊँचा दृश्य, दूर मुख्यभूमि नगर और पहाड़ियाँ दिखाई दे रही हैं
+    kind: actual
+    origin: third-party
+    subject: Penang Island और मुख्यभूमि के बीच चैनल के पार यातायात ले जाता Penang Bridge, द्वीप को Seberang Perai औद्योगिक केंद्र से जोड़ने वाली आर्थिक धमनी
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: George Town, पेनांग में ऊँची Komtar मीनार का नीचे से दृश्य, जो चमकीले नीले आसमान के विरुद्ध वाणिज्यिक क्षेत्र के ऊपर उठती है
+    kind: actual
+    origin: third-party
+    subject: George Town में Komtar मीनार, पेनांग की सबसे ऊँची इमारत और केंद्रीय वाणिज्यिक तथा सरकारी स्थल
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 पेनांग में व्यापार करने के बारे में पहला सवाल यह नहीं है कि क्या पंजीकृत करें। यह है कि

@@ -41,7 +41,7 @@ verificationNeeded:
   - "Apakah deklarasi zona perindustrian bebas Bayan Lepas dan Perai di bawah Free Zones Act 1990 telah diamandemen, dan batas zona yang diwartakan terkini"
 
 lang: "id"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: Pemandangan dari ketinggian Penang Bridge yang membentang di selat dengan mobil mengalir ke dua arah, kota daratan utama dan perbukitan tampak di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Penang Bridge yang mengangkut lalu lintas menyeberangi selat antara Pulau Penang dan daratan utama, nadi ekonomi yang menghubungkan pulau dengan pusat industri Seberang Perai
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: Pemandangan dari sudut rendah menara Komtar yang tinggi di George Town, Penang, menjulang di atas kawasan komersial dengan latar langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Menara Komtar di George Town, bangunan tertinggi Penang sekaligus landmark komersial dan pemerintahan utama
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 Pertanyaan pertama tentang menjalankan bisnis di Pulau Pinang bukanlah apa yang perlu

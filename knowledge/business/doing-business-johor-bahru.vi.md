@@ -44,7 +44,7 @@ verificationNeeded:
   - "Cơ cấu giá vé RTS Link và ngày đầu tiên được xác nhận của dịch vụ hành khách — MRT Corp công bố một mục tiêu hoàn tất hạ tầng cuối năm 2026 và một sự khởi động dịch vụ tháng 1 năm 2027, trong khi Singapore LTA diễn đạt nó là dịch vụ vào tháng 12 năm 2026"
 
 lang: "vi"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,6 +129,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: Cảnh nhìn trên cao của Cầu đường bộ Johor-Singapore tấp nập xe cộ qua eo biển, với các tòa nhà thành phố Johor Bahru và một biển 'I love Johor' ở phía Malaysia
+    kind: actual
+    origin: third-party
+    subject: Cầu đường bộ Johor-Singapore chật kín xe cộ bắc qua eo biển bên cạnh thành phố Johor Bahru, cửa ngõ hằng ngày nối JB với Singapore
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Cảnh toàn cảnh rộng của phong cảnh thành phố Johor Bahru với các cụm tháp cao tầng thương mại và dân cư dưới bầu trời nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Cảnh toàn cảnh rộng của trung tâm đô thị Johor Bahru — các tòa cao tầng thương mại và tháp dân cư trải khắp thành phố
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru là thành phố Malaysia duy nhất mà sàn lương, kế hoạch nhân sự và cửa sổ giao hàng

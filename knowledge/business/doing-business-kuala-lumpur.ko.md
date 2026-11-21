@@ -41,7 +41,7 @@ verificationNeeded:
   - "공표된 백분율로서 쿠알라룸푸르가 전국 GDP에서 차지하는 비중 — DOSM은 링깃 가액과 순위는 공표하나 KL 비중은 직접 공표하지 않습니다"
 
 lang: "ko"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: 밝은 하늘 아래 전경에서 빨간 모노레일 열차가 고가 선로를 건너는, 쿠알라룸푸르의 매끈한 파란 유리 Mercu UEM 오피스 타워
+    kind: actual
+    origin: third-party
+    subject: 앞으로 모노레일 열차가 지나가는, KL Sentral 비즈니스 지구의 유리 기업 오피스 타워 Mercu UEM
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: 흐린 하늘 아래 전경에 KL Sentral 역의 곡선형 지붕이 있고 KL Sentral 비즈니스 지구의 오피스 및 호텔 타워들에 둘러싸인 전경
+    kind: actual
+    origin: third-party
+    subject: KL Sentral 교통 허브와 쿠알라룸푸르 KL Sentral 비즈니스 지구를 둘러싼 오피스 타워 군
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 쿠알라룸푸르(Kuala Lumpur)는 말레이시아에서 면허 수수료를 연방 관보에서 직접 읽어 낼 수

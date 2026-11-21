@@ -41,7 +41,7 @@ verificationNeeded:
   - "Perak approved investment for full-year 2024 and 2025 and its rank — MIDA names only the top five states"
 
 lang: "es"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: El edificio blanco de la estación de ferrocarril colonial de Ipoh con cúpulas y arcadas abovedadas, visto al otro lado de su explanada pavimentada bajo un cielo azul
+    kind: actual
+    origin: third-party
+    subject: Estación de ferrocarril de Ipoh, Perak — el emblemático edificio de cúpulas de la época colonial sobre su explanada
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Vista elevada sobre el núcleo comercial del centro de Ipoh repleto de tiendas-vivienda y bloques de oficinas, con una torre de oficinas de cristal y colinas de piedra caliza al fondo
+    kind: actual
+    origin: third-party
+    subject: Núcleo comercial del centro de Ipoh, Perak — densos bloques de tiendas-vivienda y oficinas con una torre de oficinas de cristal y colinas de piedra caliza detrás
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 Esta es una página corta a propósito. El régimen jurídico de Perak es el mismo que el de

@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: 一座华丽的中式牌楼横跨古晋市一条两旁林立店屋和商铺的街道，蓝天下有汽车和一名行人从下方经过
+    kind: actual
+    origin: third-party
+    subject: 砂拉越古晋市商业街——横跨店屋商业街的华丽唐人街牌楼
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: 民都鲁液化天然气港口栈桥的鸟瞰图，青绿色水面上有高大的气体装卸臂、管道和系泊平台，远岸有储罐和起重机
+    kind: actual
+    origin: third-party
+    subject: 砂拉越民都鲁液化天然气港口——沿海岸带有气体装卸臂和储罐的工业装卸栈桥
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 先从一个能说明这是个什么地方的数字讲起。砂拉越同时运行着**两套并行的章次编号系列**，而且两套都在生效。1958 年版的第 64 章是《商业名称条例》。现行系列的第 64 章则是 **2006 年《区域走廊发展局条例》**——即 SCORE 背后的法规。

@@ -37,7 +37,7 @@ faq:
     a: "TRX에는 자체 철도역인 툰 라작 익스체인지 MRT역이 있으며, 2017년부터 운행되고 2개 MRT 노선이 운행합니다. 도로 접근은 주변 쿠알라룸푸르 중심부 도로망으로 제공됩니다."
 
 lang: "ko"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: 다면체 은색 꼭대기를 가진 초고층 Exchange 106 타워의 전체 높이 전경, 푸른 하늘 아래 Affin 건물을 포함한 저층 TRX 오피스 타워들이 양옆에 늘어서 있다
+    kind: actual
+    origin: third-party
+    subject: 완공된 Exchange 106 타워(TRX 초고층)의 근접 상세, 오른쪽에 Affin Bank 본사가 있다
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Tun Razak Exchange 일대의 포장된 보행자 광장, 왼쪽에 스테인리스강과 금색 조각 작품이 있고 뒤로 반사 유리 오피스 타워들이 솟아 있다
+    kind: actual
+    origin: third-party
+    subject: 유리 오피스 타워로 둘러싸인 Tun Razak Exchange 금융 지구 내의 거리 높이 광장과 공공 예술
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 툰 라작 익스체인지 MRT역에서 올라오면 스카이라인이 이곳이 자라난 것이 아니라 계획되었음을 말해 줍니다. 쿠알라룸푸르 중심부 동쪽 가장자리의 70에이커 위에 늘어선 타워 군(群), 그중 하나는 450미터를 넘어서며, 몰의 지붕 위에 놓인 공원을 중심으로 배치되어 있습니다. 이것은 금융지구를 처음부터 세우려는 말레이시아의 시도입니다.

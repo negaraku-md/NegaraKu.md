@@ -46,7 +46,7 @@ verificationNeeded:
   - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
 
 lang: "hi"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,6 +124,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: शॉपहाउसों और व्यवसायों से पंक्तिबद्ध एक कुचिंग शहर की सड़क पर फैला एक अलंकृत चीनी तोरण-द्वार, नीले आसमान के नीचे कारों और एक पैदल यात्री के साथ
+    kind: actual
+    origin: third-party
+    subject: कुचिंग शहर वाणिज्यिक सड़क, सारावाक — एक शॉपहाउस व्यापार सड़क पर अलंकृत Chinatown तोरण-द्वार
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: ऊँची गैस-लोडिंग भुजाओं, पाइपलाइनों और मूरिंग प्लेटफ़ॉर्मों वाली Bintulu LNG बंदरगाह जेटी का हवाई दृश्य टील-रंग के पानी के ऊपर, दूर किनारे पर भंडारण टैंक और क्रेन के साथ
+    kind: actual
+    origin: third-party
+    subject: Bintulu LNG बंदरगाह, सारावाक — तट पर गैस-लोडिंग भुजाओं और भंडारण टैंकों वाली औद्योगिक लोडिंग जेटी
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 एक ऐसे अंक से शुरू करें जो आपको बताता है कि यह किस तरह की जगह है। सारावाक **अध्याय-क्रमांकन की दो समानांतर श्रृंखलाएँ** चलाता है, और दोनों सक्रिय हैं। 1958 संस्करण का Cap. 64 व्यवसाय-नाम अध्यादेश (Business Names Ordinance) है। वर्तमान श्रृंखला का Cap. 64 है **Regional Corridors Development Authorities Ordinance 2006** — SCORE के पीछे का क़ानून।

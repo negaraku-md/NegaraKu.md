@@ -43,7 +43,7 @@ verificationNeeded:
   - "أسعار رخصة المبنى السنوية في MBPJ — ملف PDF للائحة الفرعية الذي نشرته MBPJ هو صورة ممسوحة ضوئيًا دون طبقة نصية، فلا يوجد سعر بالرينغيت قابل للقراءة آليًا"
 
 lang: "ar"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: برج مكاتب Wisma MBSA المرتفع ذو الزوايا الحادة بجوار مبنى Dataran Shah Alam ذي القبة الزرقاء تحت سماء زرقاء زاهية في Shah Alam، سلانغور
+    kind: actual
+    origin: third-party
+    subject: برج مكاتب Wisma MBSA و Dataran Shah Alam في القلب التجاري والإداري لعاصمة ولاية سلانغور
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: مبنى مكاتب تجاري زجاجي وأبيض متعدد الطوابق بنوافذ مقوّسة عالية في Mentari Business Park في سلانغور، كما يُرى من جانب الطريق
+    kind: actual
+    origin: third-party
+    subject: كتلة مكاتب تجارية في Mentari Business Park في Bandar Sunway، جزء من حزام مجمّعات الأعمال الكثيف في سلانغور
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 لدى كوالالمبور سلطة ترخيص واحدة. أما سيلانغور، التي تحيط بها، فلديها اثنتا عشرة —

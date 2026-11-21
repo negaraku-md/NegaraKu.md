@@ -37,7 +37,7 @@ faq:
     a: "TRX mempunyai stesen keretapinya sendiri, stesen MRT Tun Razak Exchange, yang telah beroperasi sejak 2017 dan dikhidmati oleh dua laluan MRT. Akses jalan raya disediakan oleh rangkaian tengah Kuala Lumpur di sekelilingnya."
 
 lang: "ms"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: Pandangan ketinggian penuh menara supertinggi Exchange 106 dengan mahkota perak bersegi, diapit menara pejabat TRX yang lebih rendah termasuk bangunan Affin di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Perincian dekat menara Exchange 106 yang telah siap, menara supertinggi TRX, dengan ibu pejabat Affin Bank di sebelah kanannya
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Sebuah dataran pejalan kaki berturap di kawasan Tun Razak Exchange dengan sebuah arca keluli tahan karat dan emas di sebelah kiri dan menara pejabat kaca memantul menjulang di belakang
+    kind: actual
+    origin: third-party
+    subject: Dataran aras jalan dan seni awam dalam kawasan daerah kewangan Tun Razak Exchange, dikelilingi menara pejabat kaca
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 Keluar dari stesen MRT Tun Razak Exchange dan kaki langit memberitahu anda bahawa ini dirancang, bukan tumbuh begitu sahaja. Sekelompok menara di atas 70 ekar di pinggir timur pusat Kuala Lumpur, salah satunya menjulang melepasi 450 meter, disusun mengelilingi sebuah taman yang terletak di bumbung sebuah pusat beli-belah. Inilah percubaan Malaysia untuk membina sebuah daerah kewangan dari awal.

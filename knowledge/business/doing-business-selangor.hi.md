@@ -43,7 +43,7 @@ verificationNeeded:
   - "MBPJ की वार्षिक परिसर लाइसेंस दरें — MBPJ द्वारा प्रकाशित उप-विधि PDF बिना टेक्स्ट-परत वाली स्कैन छवि है, इसलिए कोई रिंगिट दर मशीन-पठनीय नहीं है"
 
 lang: "hi"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: Shah Alam, सेलांगोर में चमकीले नीले आसमान के नीचे नीले-गुंबद वाली Dataran Shah Alam इमारत के बगल में ऊँची कोणीय Wisma MBSA कार्यालय मीनार
+    kind: actual
+    origin: third-party
+    subject: सेलांगोर राज्य राजधानी के वाणिज्यिक और प्रशासनिक केंद्र में Wisma MBSA कार्यालय मीनार और Dataran Shah Alam
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: सेलांगोर में Mentari Business Park में ऊँची मेहराबदार खिड़कियों वाली एक बहुमंज़िला काँच-और-सफ़ेद वाणिज्यिक कार्यालय इमारत, सड़क किनारे से देखी गई
+    kind: actual
+    origin: third-party
+    subject: Bandar Sunway में Mentari Business Park में एक वाणिज्यिक कार्यालय ब्लॉक, सेलांगोर की घनी बिज़नेस-पार्क पट्टी का हिस्सा
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 कुआलालंपुर में एक लाइसेंसिंग प्राधिकरण है। सेलांगोर, जो उसे घेरता है, में बारह हैं — और

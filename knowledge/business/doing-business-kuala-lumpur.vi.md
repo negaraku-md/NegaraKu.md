@@ -41,7 +41,7 @@ verificationNeeded:
   - "Tỷ trọng của Kuala Lumpur trong GDP quốc gia dưới dạng một tỷ lệ phần trăm được công bố — DOSM công bố giá trị ringgit và thứ hạng nhưng không phải tỷ trọng của KL một cách trực tiếp"
 
 lang: "vi"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: Tòa tháp văn phòng kính xanh bóng bẩy Mercu UEM ở Kuala Lumpur với một đoàn tàu monorail màu đỏ băng qua đường ray trên cao ở tiền cảnh dưới bầu trời sáng
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, một tòa tháp văn phòng doanh nghiệp bằng kính trong khu thương mại KL Sentral, với một đoàn tàu monorail chạy qua phía trước
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: Mái cong của ga KL Sentral ở tiền cảnh được bao quanh bởi các tòa tháp văn phòng và khách sạn của khu thương mại KL Sentral dưới bầu trời nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Đầu mối giao thông KL Sentral và cụm tháp văn phòng xung quanh của khu thương mại KL Sentral tại Kuala Lumpur
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 Kuala Lumpur là nơi duy nhất ở Malaysia mà bạn có thể đọc phí giấy phép của mình từ công báo

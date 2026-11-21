@@ -41,7 +41,7 @@ verificationNeeded:
   - "Whether the Bayan Lepas and Perai free industrial zone declarations under the Free Zones Act 1990 have been amended, and the current gazetted zone boundaries"
 
 lang: "es"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: Vista elevada del Puente de Penang cruzando el canal con coches circulando en ambas direcciones, con la ciudad del continente y las colinas visibles a lo lejos
+    kind: actual
+    origin: third-party
+    subject: El Puente de Penang llevando el tráfico a través del canal entre la isla de Penang y el continente, la arteria económica que conecta la isla con el centro industrial de Seberang Perai
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: Vista en contrapicado de la alta torre Komtar en George Town, Penang, elevándose sobre el distrito comercial contra un cielo azul brillante
+    kind: actual
+    origin: third-party
+    subject: La torre Komtar en George Town, el edificio más alto de Penang y emblema comercial y gubernamental central
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 La primera pregunta sobre hacer negocios en Penang no es qué registrar. Es de qué

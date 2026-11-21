@@ -41,7 +41,7 @@ verificationNeeded:
   - "Liệu các tuyên bố khu công nghiệp tự do Bayan Lepas và Perai theo Free Zones Act 1990 đã được sửa đổi hay chưa, và các ranh giới khu đã đăng công báo hiện hành"
 
 lang: "vi"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -128,6 +128,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: Cảnh nhìn trên cao của Cầu Penang bắc qua eo biển với xe cộ lưu thông theo cả hai hướng, thị trấn đất liền và các ngọn đồi hiện ra ở phía xa
+    kind: actual
+    origin: third-party
+    subject: Cầu Penang chở xe cộ qua eo biển giữa đảo Penang và đất liền, huyết mạch kinh tế nối đảo với trung tâm công nghiệp Seberang Perai
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: Cảnh nhìn từ góc thấp của tòa tháp Komtar cao ở George Town, Penang, vươn lên trên khu thương mại trên nền trời xanh sáng
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp Komtar ở George Town, tòa nhà cao nhất Penang và là điểm mốc thương mại và chính quyền trung tâm
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 Câu hỏi đầu tiên về việc kinh doanh ở Penang không phải là đăng ký cái gì. Nó là bạn đang ở bên

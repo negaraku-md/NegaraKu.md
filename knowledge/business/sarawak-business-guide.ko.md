@@ -46,7 +46,7 @@ verificationNeeded:
   - "사라왁 노동조례(Sarawak Labour Ordinance Cap. 76)의 LawNet 통합 본문은 2006년 7월 31일까지만 최신이며 Act A1754 대신이 아니라 그와 함께 읽어야 합니다."
 
 lang: "ko"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -121,6 +121,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: 숍하우스와 상점이 늘어선 쿠칭 시내 거리를 가로지르는 화려한 중국식 아치문, 푸른 하늘 아래 차량과 보행자가 그 아래 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠칭 시 상업 거리, 사라왁 — 숍하우스 상업 거리 위의 화려한 차이나타운 아치문
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: 청록색 물 위로 높은 가스 선적 암, 파이프라인, 계류 플랫폼이 있는 빈툴루 LNG 항만 선창을 공중에서 내려다본 전경, 건너편 기슭에 저장 탱크와 크레인이 보인다
+    kind: actual
+    origin: third-party
+    subject: 빈툴루 LNG 항만, 사라왁 — 해안에 가스 선적 암과 저장 탱크가 있는 산업용 선적 선창
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 이곳이 어떤 곳인지를 말해 주는 숫자 하나로 시작하겠습니다. 사라왁(Sarawak)은 **두 개의

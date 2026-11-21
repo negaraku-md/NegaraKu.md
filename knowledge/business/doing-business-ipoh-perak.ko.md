@@ -41,7 +41,7 @@ verificationNeeded:
   - "2024년 및 2025년 연간 페락 승인 투자액과 그 순위 — MIDA는 상위 5개 주만 명시합니다"
 
 lang: "ko"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: 푸른 하늘 아래 포장된 앞마당 건너편에서 바라본, 돔과 아치형 아케이드가 있는 흰색 식민지풍 이포 기차역 건물
+    kind: actual
+    origin: third-party
+    subject: 페락주 이포 기차역 — 앞마당에 선 식민지 시대 돔형 명소 건물
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: 숍하우스와 오피스 건물로 빽빽한 이포의 상업 중심지를 내려다본 높은 전경, 뒤로 유리 오피스 타워와 석회암 언덕이 보인다
+    kind: actual
+    origin: third-party
+    subject: 페락주 이포 시내 상업 중심지 — 유리 오피스 타워와 석회암 언덕을 배경으로 한 밀집된 숍하우스와 오피스 건물
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 이 페이지는 의도적으로 짧습니다. 페락(Perak)의 법제는 슬랑오르(Selangor)와 동일하고, 그

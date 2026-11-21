@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 
 status: "published"
 aiAssisted: true
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: 白色殖民风格的 Ipoh 火车站建筑，带有穹顶和拱形廊道，隔着铺砖前庭在蓝天下拍摄
+    kind: actual
+    origin: third-party
+    subject: 霹雳 Ipoh 火车站——矗立在前庭上的殖民时期穹顶地标建筑
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: 俯瞰 Ipoh 商业市中心核心区的高视角，密布店屋和办公楼，背景是一座玻璃办公大楼和石灰岩山丘
+    kind: actual
+    origin: third-party
+    subject: 霹雳 Ipoh 市商业核心区——密集的店屋和办公楼，背景是一座玻璃办公大楼和石灰岩山丘
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 这一页是刻意写短的。霹雳的法律制度与雪兰莪相同，它的地方政府公布的资料很少，而诚实

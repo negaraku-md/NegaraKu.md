@@ -42,7 +42,7 @@ verificationNeeded:
   - "Cơ quan quản lý và tuyến nộp hồ sơ cho ưu đãi lao động tri thức (knowledge worker) của JS-SEZ không được nêu trong hướng dẫn của MIDA — Appendix B của bản tóm lược liệt kê nó trong mục các ưu đãi khác mà không nêu tên tuyến nộp. Hãy xác nhận với MIDA hoặc IRDA trước khi tư vấn."
 
 lang: "vi"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investmen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: Cảnh nhìn từ trên không của Forest City ở Johor cho thấy các tòa tháp cao tầng ven sông đang xây dựng và các dãy khối biệt thự trắng dọc theo một bãi biển lấn biển bên cạnh eo biển
+    kind: actual
+    origin: third-party
+    subject: Forest City, dự án phát triển xuyên biên giới chủ lực ở Johor trên eo biển Johor, với các tòa tháp và khối biệt thự đang xây dựng hướng ra mặt nước về phía Singapore
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: Một biển mốc 'Iskandar Puteri' lớn ven đường trên một bùng binh được tạo cảnh quan, với các tòa tháp văn phòng và thương mại cùng cần cẩu xây dựng trên đường chân trời phía sau
+    kind: actual
+    origin: third-party
+    subject: Biển mốc cửa ngõ Iskandar Puteri với các tòa tháp thương mại và cần cẩu của khu vực vươn lên trên đường chân trời phía sau
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 Mọi bản tóm tắt về Đặc khu Kinh tế Johor-Singapore đều dẫn dắt bằng cùng một con số: 5 phần trăm trong 15 năm. Đó là một con số thật. Nó cũng là dữ kiện ít hữu ích nhất trong gói, vì gần như không ai đọc nó sẽ đủ điều kiện.

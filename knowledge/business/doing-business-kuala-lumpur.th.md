@@ -41,7 +41,7 @@ verificationNeeded:
   - "สัดส่วนของกัวลาลัมเปอร์ใน GDP ระดับชาติเป็นเปอร์เซ็นต์ที่เผยแพร่ — DOSM เผยแพร่มูลค่าเงินริงกิตและอันดับแต่ไม่ใช่สัดส่วนของกัวลาลัมเปอร์โดยตรง"
 
 lang: "th"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: อาคารสำนักงาน Mercu UEM กระจกสีน้ำเงินเพรียวในกัวลาลัมเปอร์ พร้อมรถไฟโมโนเรลสีแดงวิ่งข้ามรางยกระดับด้านหน้าใต้ท้องฟ้าสว่าง
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM อาคารสำนักงานองค์กรกระจกในย่านธุรกิจ KL Sentral พร้อมรถไฟโมโนเรลวิ่งผ่านด้านหน้า
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: หลังคาโค้งของสถานี KL Sentral อยู่ด้านหน้าล้อมด้วยอาคารสำนักงานและโรงแรมของย่านธุรกิจ KL Sentral ใต้ท้องฟ้าที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: ศูนย์กลางการขนส่ง KL Sentral และกลุ่มอาคารสำนักงานโดยรอบของย่านธุรกิจ KL Sentral กัวลาลัมเปอร์
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 กัวลาลัมเปอร์เป็นที่เดียวในมาเลเซียที่คุณอ่านค่าธรรมเนียมใบอนุญาตของคุณจากราชกิจจานุเบกษาระดับสหพันธรัฐได้ ไม่ใช่หนังสือเวียนของสภา ไม่ใช่การสอบถามที่เคาน์เตอร์ — อัตรารายปีจริงสำหรับกิจกรรมของคุณ พิมพ์อยู่ใน P.U.(A) ที่ใครก็ดาวน์โหลดได้

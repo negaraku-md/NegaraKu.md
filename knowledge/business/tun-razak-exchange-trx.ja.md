@@ -37,7 +37,7 @@ faq:
     a: "TRXには独自の鉄道駅、トゥン・ラザク・エクスチェンジMRT駅があり、2017年から運行し、2つのMRT路線が乗り入れている。道路アクセスは周囲のクアラルンプール中心部の道路網によって提供される。"
 
 lang: "ja"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: 面取りされた銀色の頂冠を持つExchange 106超高層タワーの全高を望む。青空の下、Affinビルを含む低層のTRXオフィスタワー群が両脇を固める
+    kind: actual
+    origin: third-party
+    subject: 完成したExchange 106タワー（TRXの超高層ビル）の細部を近くで捉えた眺め。右にAffin Bank本社がある
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Tun Razak Exchange地区の舗装された歩行者広場。左にステンレスと金色の彫刻があり、背後に反射するガラス張りのオフィスタワー群がそびえる
+    kind: actual
+    origin: third-party
+    subject: Tun Razak Exchange金融地区内の通りの高さの広場とパブリックアート。ガラス張りのオフィスタワー群に囲まれている
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 トゥン・ラザク・エクスチェンジMRT駅から地上に出ると、そのスカイラインは、これが自然に育ったのではなく計画されたものだと物語っている。クアラルンプール中心部の東端、70エーカーに立ち並ぶタワー群、そのうちの一つは450メートルを超え、モールの屋上に乗る公園を囲むように配置されている。これは、マレーシアがゼロから金融街を築こうとする試みである。

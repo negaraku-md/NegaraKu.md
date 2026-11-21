@@ -120,6 +120,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: Ornate Chinese archway spanning a Kuching city street lined with shophouses and businesses, with cars and a pedestrian beneath a blue sky
+    kind: actual
+    origin: third-party
+    subject: Kuching city commercial street, Sarawak — the ornate Chinatown archway over a shophouse business street
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Aerial view of the Bintulu LNG port jetty with tall gas-loading arms, pipelines and mooring platforms over teal water, with storage tanks and cranes on the far shore
+    kind: actual
+    origin: third-party
+    subject: Bintulu LNG port, Sarawak — the industrial loading jetty with gas-loading arms and storage tanks on the coast
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 Start with a number that tells you what kind of place this is. Sarawak runs **two parallel

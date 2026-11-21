@@ -37,7 +37,7 @@ faq:
     a: "TRX memiliki stasiun kereta sendiri, stasiun MRT Tun Razak Exchange, yang beroperasi sejak 2017 dan dilayani dua jalur MRT. Akses jalan disediakan oleh jaringan pusat Kuala Lumpur di sekitarnya."
 
 lang: "id"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: Pemandangan ketinggian penuh menara supertinggi Exchange 106 dengan mahkota peraknya yang bersegi, diapit menara-menara perkantoran TRX yang lebih rendah termasuk gedung Affin di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Detail dekat menara Exchange 106 yang telah rampung, gedung supertinggi TRX, dengan kantor pusat Affin Bank di sebelah kanannya
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Plaza pejalan kaki berpaving di kawasan Tun Razak Exchange dengan patung berbahan baja nirkarat dan emas di sebelah kiri dan menara-menara perkantoran kaca reflektif menjulang di belakang
+    kind: actual
+    origin: third-party
+    subject: Plaza setinggi jalan dan seni publik di dalam kawasan distrik keuangan Tun Razak Exchange, dikelilingi menara perkantoran kaca
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 Naik dari stasiun MRT Tun Razak Exchange dan cakrawala memberi tahu Anda bahwa ini direncanakan, bukan tumbuh begitu saja. Gugusan menara di atas 70 acre di tepi timur pusat Kuala Lumpur, salah satunya menembus lebih dari 450 meter, ditata mengelilingi taman yang berada di atap sebuah pusat perbelanjaan. Inilah upaya Malaysia membangun distrik keuangan dari nol.

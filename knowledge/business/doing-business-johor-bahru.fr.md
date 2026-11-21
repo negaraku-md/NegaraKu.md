@@ -44,7 +44,7 @@ verificationNeeded:
   - "Structure tarifaire du RTS Link et premier jour confirmé du service voyageurs — MRT Corp publie un objectif d'achèvement de l'infrastructure fin 2026 et un démarrage du service en janvier 2027, tandis que la LTA de Singapour le formule comme un service d'ici décembre 2026"
 
 lang: "fr"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -130,6 +130,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: Vue en hauteur de la Chaussée Johor-Singapour animée de véhicules traversant le détroit, avec les bâtiments de la ville de Johor Bahru et un panneau « I love Johor » du côté malaisien
+    kind: actual
+    origin: third-party
+    subject: La Chaussée Johor-Singapour engorgée de circulation traversant le détroit à côté de la ville de Johor Bahru, la porte d'entrée quotidienne reliant JB à Singapour
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Large panorama du paysage urbain de Johor Bahru avec des grappes de tours commerciales et résidentielles de grande hauteur sous un ciel nuageux
+    kind: actual
+    origin: third-party
+    subject: Large panorama du cœur urbain de Johor Bahru — tours commerciales et résidentielles de grande hauteur réparties à travers la ville
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru est la seule ville malaisienne dont le plancher salarial, le plan de personnel et la

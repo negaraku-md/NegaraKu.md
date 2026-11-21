@@ -46,7 +46,7 @@ verificationNeeded:
   - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
 
 lang: "fr"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -124,6 +124,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: Arche chinoise ornée enjambant une rue de la ville de Kuching bordée de boutiques traditionnelles et de commerces, avec des voitures et un piéton en dessous sous un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Rue commerçante de la ville de Kuching, Sarawak — l'arche ornée du quartier chinois au-dessus d'une rue commerçante de boutiques traditionnelles
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Vue aérienne de la jetée portuaire de GNL de Bintulu avec de hauts bras de chargement de gaz, des pipelines et des plateformes d'amarrage au-dessus d'une eau turquoise, avec des réservoirs de stockage et des grues sur la rive opposée
+    kind: actual
+    origin: third-party
+    subject: Le port de GNL de Bintulu, Sarawak — la jetée industrielle de chargement avec des bras de chargement de gaz et des réservoirs de stockage sur la côte
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 Commencez par un chiffre qui vous dit quel genre d'endroit c'est. Le Sarawak porte **deux séries

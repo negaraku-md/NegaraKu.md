@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undan
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: Gerbang Cina berukir merentasi jalan bandar Kuching yang dibarisi rumah kedai dan perniagaan, dengan kereta dan seorang pejalan kaki di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Jalan komersial bandar Kuching, Sarawak — gerbang Pecinan berukir di atas jalan perniagaan rumah kedai
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Pandangan udara jeti pelabuhan LNG Bintulu dengan lengan muat gas tinggi, saluran paip dan platform tambatan di atas air biru kehijauan, dengan tangki simpanan dan kren di pantai seberang
+    kind: actual
+    origin: third-party
+    subject: Pelabuhan LNG Bintulu, Sarawak — jeti muat perindustrian dengan lengan muat gas dan tangki simpanan di pantai
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 Mulakan dengan satu nombor yang memberitahu anda jenis tempat apa ini. Sarawak menjalankan **dua

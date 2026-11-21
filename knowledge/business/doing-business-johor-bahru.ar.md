@@ -44,7 +44,7 @@ verificationNeeded:
   - "هيكل أجرة RTS Link وأول يوم مؤكد لخدمة الركاب — تنشر MRT Corp هدف إنجاز البنية التحتية بنهاية 2026 وبدء الخدمة في يناير 2027، في حين تصوغها هيئة النقل البري السنغافورية (LTA) على أنها خدمة بحلول ديسمبر 2026"
 
 lang: "ar"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -132,6 +132,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: منظر مرتفع لمعبر Johor-Singapore Causeway المزدحم بالمركبات العابرة للمضيق، مع مباني مدينة جوهور بهرو ولافتة 'I love Johor' على الجانب الماليزي
+    kind: actual
+    origin: third-party
+    subject: معبر Johor-Singapore Causeway المكتظ بالحركة عابرًا المضيق بجوار مدينة جوهور بهرو، البوابة اليومية التي تربط JB بسنغافورة
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: بانوراما واسعة لمشهد مدينة جوهور بهرو مع تجمّعات من الأبراج التجارية والسكنية العالية تحت سماء غائمة
+    kind: actual
+    origin: third-party
+    subject: بانوراما واسعة لقلب مدينة جوهور بهرو الحضري — أبراج تجارية عالية وأبراج سكنية منتشرة عبر المدينة
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 جوهور بهرو هي المدينة الماليزية الوحيدة التي يحدّد كلًّا من حدّ أجورها وخطة توظيفها

@@ -132,6 +132,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kot
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: Malaysian state flags on poles in the foreground with the Kota Kinabalu city skyline rising across the bay under a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: Kota Kinabalu city centre skyline viewed across the bay from the Sabah State Assembly building, Sabah
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: Modern glass-fronted Sabah Ports headquarters building behind palm trees, with a Sabah Ports sign at the gated entrance under a bright sky
+    kind: actual
+    origin: third-party
+    subject: Sabah Ports headquarters at Sepanggar, Kota Kinabalu — the glass-fronted corporate port building
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 Almost every national guide to doing business in Malaysia is wrong about Sabah, and wrong

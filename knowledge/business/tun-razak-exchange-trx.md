@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: Full-height view of the Exchange 106 supertall tower with its faceted silver crown, flanked by lower TRX office towers including the Affin building under a blue sky
+    kind: actual
+    origin: third-party
+    subject: Close detail of the completed Exchange 106 tower, the TRX supertall, with the Affin Bank HQ to its right
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: A paved pedestrian plaza in the Tun Razak Exchange precinct with a stainless-steel-and-gold sculpture at left and reflective glass office towers rising behind
+    kind: actual
+    origin: third-party
+    subject: Street-level plaza and public art within the Tun Razak Exchange financial-district precinct, ringed by glass office towers
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 Rise out of the Tun Razak Exchange MRT station and the skyline tells you this was planned, not grown. A cluster of towers on 70 acres at the eastern edge of Kuala Lumpur's centre, one of them punching past 450 metres, laid out around a park that sits on the roof of a mall. This is Malaysia's attempt to build a financial district from scratch.

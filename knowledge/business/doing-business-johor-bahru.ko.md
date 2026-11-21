@@ -44,7 +44,7 @@ verificationNeeded:
   - "RTS 링크(RTS Link)의 요금 체계와 확정된 여객 운행 첫날 — MRT Corp은 2026년 말 인프라 완공 목표와 2027년 1월 서비스 개시를 공표하는 반면, 싱가포르 LTA는 2026년 12월까지의 서비스로 표현합니다"
 
 lang: "ko"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -129,6 +129,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: 해협을 건너는 차량으로 붐비는 조호르-싱가포르 코즈웨이를 내려다본 전경, 조호바루 시 건물들과 말레이시아 쪽의 'I love Johor' 간판이 보인다
+    kind: actual
+    origin: third-party
+    subject: 조호바루 시 옆 해협을 가로지르며 차량으로 가득 찬 조호르-싱가포르 코즈웨이, JB와 싱가포르를 잇는 일상적 관문
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: 흐린 하늘 아래 상업 및 주거 고층 타워 군이 모인 조호바루 도시 경관의 넓은 파노라마
+    kind: actual
+    origin: third-party
+    subject: 조호바루 도심의 넓은 파노라마 — 도시 곳곳에 펼쳐진 상업 고층 빌딩과 주거 타워
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 조호르바루(Johor Bahru)는 그 임금 하한, 인력 계획, 납품 기한이 모두 귀하가 사업을 하지

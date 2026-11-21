@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investmen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: Pandangan udara Forest City di Johor menunjukkan menara tinggi tepi air dalam pembinaan dan barisan blok vila putih di sepanjang pantai tambak di tepi selat
+    kind: actual
+    origin: third-party
+    subject: Forest City, pembangunan rentas sempadan utama di Johor di Selat Johor, dengan menara dan blok vila dalam pembinaan menghadap air ke arah Singapura
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: Sebuah papan tanda mercu tanda 'Iskandar Puteri' besar di tepi jalan pada bulatan berlanskap, dengan menara pejabat dan komersial serta kren pembinaan di kaki langit di belakang
+    kind: actual
+    origin: third-party
+    subject: Papan tanda mercu tanda pintu masuk Iskandar Puteri dengan menara komersial dan kren zon menjulang di kaki langit di belakangnya
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 Setiap ringkasan tentang Zon Ekonomi Khas Johor-Singapura dimulakan dengan nombor yang sama: 5

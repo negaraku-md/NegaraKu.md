@@ -44,7 +44,7 @@ verificationNeeded:
   - "Số lượng người thuê hiện hành và đầu tư đã cam kết tại POIC Lahad Datu và SOGIP Sipitang — các trang của nhà điều hành mang các con số đề ngày 2020 đến 2022 và các tổng số kỳ vọng"
 
 lang: "vi"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -133,6 +133,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kot
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: Các lá cờ bang Malaysia trên cột ở tiền cảnh với đường chân trời trung tâm thành phố Kota Kinabalu vươn lên qua vịnh dưới bầu trời xanh sáng
+    kind: actual
+    origin: third-party
+    subject: Đường chân trời trung tâm thành phố Kota Kinabalu nhìn qua vịnh từ tòa nhà Nghị viện bang Sabah, Sabah
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: Tòa nhà trụ sở chính Sabah Ports hiện đại mặt kính phía sau những cây cọ, với một biển Sabah Ports ở lối vào có cổng dưới bầu trời sáng
+    kind: actual
+    origin: third-party
+    subject: Trụ sở chính Sabah Ports tại Sepanggar, Kota Kinabalu — tòa nhà cảng doanh nghiệp mặt kính
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 Gần như mọi hướng dẫn quốc gia về việc kinh doanh ở Malaysia đều sai về Sabah, và sai theo cùng

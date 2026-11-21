@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 
 status: "published"
 aiAssisted: true
@@ -129,6 +129,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: நீரிணையைக் கடக்கும் வாகனங்களால் பரபரப்பான ஜொகூர்-சிங்கப்பூர் Causeway-வின் மேல்நோக்கு காட்சி; மலேசியப் பக்கத்தில் ஜொகூர் பாரு நகரக் கட்டிடங்களும் 'I love Johor' பலகையும்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாரு நகரத்திற்கு அருகில் நீரிணையைக் கடக்கும் போக்குவரத்து-நிறைந்த ஜொகூர்-சிங்கப்பூர் Causeway, JB-ஐ சிங்கப்பூருடன் இணைக்கும் அன்றாட நுழைவாயில்
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: மேகமூட்டமான வானத்தின் கீழ் வணிக மற்றும் குடியிருப்பு உயர்-கோபுரக் கொத்துகளுடன் கூடிய ஜொகூர் பாரு நகரக்காட்சியின் அகன்ற பனோரமா
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாரு நகர மையத்தின் அகன்ற பனோரமா — நகரெங்கும் பரவியுள்ள வணிக உயர்-கட்டிடங்களும் குடியிருப்பு கோபுரங்களும்
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru என்பது மலேசியாவில் அதன் ஊதிய அடித்தளம், பணியாளர் திட்டம் மற்றும் வழங்கல்
