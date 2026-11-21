@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Kereta hatchback Perodua Myvi generasi ketiga berwarna merah dan hitam, berlogo Perodua, diparkir dalam satu barisan
+    kind: actual
+    origin: third-party
+    subject: Kereta hatchback Perodua Myvi generasi ketiga, kereta nasional paling laris di Malaysia
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: Kereta yang separa dipasang dengan pintu dan penutup but terbuka bergerak di atas penghantar pada barisan pemasangan kilang
+    kind: representative
+    origin: third-party
+    subject: Kereta bergerak di sepanjang barisan pemasangan automotif di dalam sebuah loji kenderaan
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 Sedikit sekali negara sebesar Malaysia yang pernah cuba membina kereta dari awal. Lebih sedikit lagi yang mempunyai dua jenama buatan sendiri terparkir di kebanyakan laman rumah negara. Pandu melalui mana-mana pekan di Malaysia dan lalu lintasnya menceritakan kisah dasar perindustrian yang sengaja dirancang: sebuah Perodua Myvi di lampu isyarat, sebuah Proton Saga di belakangnya, kedua-duanya berketurunan daripada pertaruhan 1980-an bahawa sebuah ekonomi membangun mampu mengeluarkan automobilnya sendiri.

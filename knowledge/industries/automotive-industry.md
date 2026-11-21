@@ -115,6 +115,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Red and black third-generation Perodua Myvi hatchbacks, bearing the Perodua badge, parked in a row
+    kind: actual
+    origin: third-party
+    subject: Third-generation Perodua Myvi hatchbacks, Malaysia's best-selling national car
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: Partly assembled cars with open doors and boot lids moving along a conveyor on a factory assembly line
+    kind: representative
+    origin: third-party
+    subject: Cars moving along an automotive assembly line inside a vehicle plant
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 Few countries the size of Malaysia have ever tried to build a car from scratch. Fewer still have two homegrown brands parked in most of the nation's driveways. Drive through any Malaysian town and the traffic tells a story of deliberate industrial policy: a Perodua Myvi at the lights, a Proton Saga behind it, both descended from a 1980s bet that a developing economy could manufacture its own automobiles.

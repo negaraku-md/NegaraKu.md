@@ -31,7 +31,7 @@ faq:
   - q: National OGSE Industry Blueprint क्या है?
     a: अप्रैल 2021 में शुरू और 2024 में मध्यावधि समीक्षा की गई, यह इस क्षेत्र को अधिक प्रतिस्पर्धी, लचीला और टिकाऊ बनाने के लिए सरकार की 10-वर्षीय योजना (2021–2030) है। इसके लक्ष्यों में निर्यात राजस्व को दोगुना करना, लगभग RM50 बिलियन का GDP योगदान बनाए रखना और फर्मों को कार्बन कैप्चर, हाइड्रोजन तथा नवीकरणीय जैसी ऊर्जा-संक्रमण सेवाओं में धकेलना शामिल है।
 lang: hi
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Ba
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: सुनहरी रोशनी में एक बड़ा अपतटीय तेल उत्पादन प्लेटफ़ॉर्म, जिसका डेक क्रेन खुले नीले समुद्र में उसके साथ ठहरे एक अपतटीय आपूर्ति पोत पर भार उतार रहा है
+    kind: representative
+    origin: third-party
+    subject: एक उत्पादन प्लेटफ़ॉर्म के साथ काम करता अपतटीय आपूर्ति पोत, जिसका प्लेटफ़ॉर्म क्रेन भार स्थानांतरित कर रहा है
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: एक घाट पर बँधा Island Chieftain नामक नीला-सफ़ेद अपतटीय सहायता पोत, जिसका ऊँचा आगे का पुल और लंबा सपाट खुला कार्गो डेक दिख रहा है, पीछे पहाड़ हैं
+    kind: representative
+    origin: third-party
+    subject: एक घाट पर बँधा एक प्लेटफ़ॉर्म आपूर्ति और अपतटीय सहायता पोत, जिसका खुला कार्गो पिछला डेक दिख रहा है
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 जब लोग मलेशिया की तेल और गैस संपदा की कल्पना करते हैं, तो वे आमतौर पर तेरेंगानु, सरवाक और सबाह के तट पर समुद्र-तल के नीचे के कच्चे तेल और गैस के बारे में सोचते हैं — वे भंडार जिन्होंने PETRONAS को एशिया की सबसे बड़ी ऊर्जा कंपनियों में से एक बनाया। लेकिन हाइड्रोकार्बन खुद को ज़मीन से बाहर नहीं निकालते। हर उत्पादक क्षेत्र के पीछे ठेकेदारों की एक छोटी सेना बैठती है: वे यार्ड जो स्टील प्लेटफ़ॉर्म वेल्ड करते हैं, वे रिग जो कुएँ ड्रिल करते हैं, वे जहाज़ जो चालक दल और माल को अपतटीय ले जाते हैं, वे इंजीनियर जो सुविधाओं को डिज़ाइन करते हैं, और वे तकनीशियन जो यह सब चलाते रखते हैं। वह पारिस्थितिकी-तंत्र है **तेल एवं गैस सेवा और उपकरण (OGSE) उद्योग**, और यह अपने आप में एक प्रमुख मलेशियाई उद्योग है।

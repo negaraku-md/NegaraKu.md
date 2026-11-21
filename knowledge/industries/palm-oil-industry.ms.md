@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 
 status: "published"
 aiAssisted: true
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: Sebuah lori yang dipenuhi tandan buah segar kelapa sawit kemerahan diparkir di pintu kilang kelapa sawit Apas Balung di Tawau, Sabah
+    kind: actual
+    origin: third-party
+    subject: Lori sarat dengan tandan buah segar di kilang kelapa sawit Apas Balung, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: Sebuah kilang kelapa sawit dengan cerobong berasap di tengah-tengah lautan ladang kelapa sawit yang luas di bawah langit berawan di Kunak, Sabah
+    kind: actual
+    origin: third-party
+    subject: Kilang kelapa sawit IOI Baturong yang dikelilingi ladang kelapa sawit, Daerah Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 Minyak sawit ialah minyak sayuran paling banyak diniagakan di dunia, dan Malaysia merupakan pengeluar kedua terbesarnya — di belakang Indonesia — menukar tandan buah merah berduri yang ditanam dari Johor hingga ke bukit-bukau Sarawak menjadi minyak masak yang ditapis, ramuan sabun dan biodiesel yang dihantar ke pasaran di seluruh Asia, Afrika dan Eropah. Industri ini menyokong lebih 3 juta rakyat Malaysia secara langsung dan tidak langsung, termasuk hampir 500,000 pekebun kecil, menurut Majlis Minyak Sawit Malaysia (MPOC). Inilah cara mesin itu dibina, daripada pokok hingga ke kapal tangki.

@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -104,6 +104,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wa
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: 白いバニースーツ、フード、マスクを着用した技術者が、黄色い照明の半導体クリーンルーム内で手袋をはめた手に円形のシリコンウェハーを持っている様子
+    kind: representative
+    origin: third-party
+    subject: 黄色い照明のフォトリソグラフィ・クリーンルームでシリコンウェハーを持つ防塵服姿の技術者
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: 白い全身クリーンルームスーツ、フード、マスク、手袋を着用した技術者が、明るいクリーンルーム内の作業台で研磨された金属部品を作業する様子
+    kind: representative
+    origin: third-party
+    subject: バニースーツ姿の組立技術者がクリーンルーム内で精密ハードウェアを作業する様子
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 あなたが今これをスマートフォンやノートパソコンで読んでいるなら、そのチップの一つが人生の一部をマレーシアで過ごした可能性は十分にある――発明されたり、刷られたりしたのではなく、むき出しのシリコンの薄片から、回路基板にはんだ付けできる完成したパッケージ済み部品へと変えられたのだ。その静かで、華やかさのない工程こそ、マレーシアがエレクトロニクスの世界全体の中で最も重要な地位の一つを築いてきた場所である。

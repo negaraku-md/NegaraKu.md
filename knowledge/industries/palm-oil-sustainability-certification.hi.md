@@ -31,7 +31,7 @@ faq:
     a: "दो विलंबों के बाद, यह 30 दिसंबर 2026 से बड़े और मध्यम संचालकों पर, और 30 जून 2027 से सूक्ष्म व छोटे उद्यमों पर लागू होता है। वनों-कटाई कट-ऑफ़ तिथि 31 दिसंबर 2020 है।"
 
 lang: "hi"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mers
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Kimanis, सबा में बूट पहने दो बागान कर्मचारी ताड़ के पेड़ों के पास खड़े हैं, जिनमें से एक हार्वेस्टिंग हँसिये पर ताज़ा कटा फल गुच्छा पकड़े हुए है
+    kind: actual
+    origin: third-party
+    subject: Kimanis, सबा में एक ताड़-तेल बागान पर कटे ताज़े फल गुच्छे के साथ एस्टेट कर्मचारी
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Sungai Mangis, सबा में एक बागान नर्सरी में काले पॉलीबैग में उगते ताड़ के पौधों की सुव्यवस्थित कतारें
+    kind: actual
+    origin: third-party
+    subject: Sungai Mangis, सबा में एक वाणिज्यिक नर्सरी में पॉलीबैग में उगाए गए ताड़ के पौधे
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 एक अकेली मलेशियाई पाम ऑयल खेप को अब एक साथ तीन अलग नियम-पुस्तिकाओं के सामने जवाब देना पड़ता है: घर पर एक अनिवार्य राष्ट्रीय योजना, बोर्डरूम में एक स्वैच्छिक ख़रीदार-क्लब, और एक यूरोपीय वनों-कटाई क़ानून जो उसे बंदरगाह पर रोक सकता है। एक ऐसे उद्योग के लिए जिसने अकेले 2024 के पहले दस महीनों में 22.30 मिलियन टन पाम ऑयल और पाम-आधारित उत्पाद भेजे — RM89.39 बिलियन कमाते हुए — काग़ज़ी काम अब औपचारिकता नहीं रहा। वह बाज़ार-पहुँच है।

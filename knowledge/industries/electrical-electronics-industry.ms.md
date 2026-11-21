@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: Sebuah tangan yang memegang alat pematerian dan penyepit halus sedang mengerjakan komponen lekap permukaan yang amat kecil pada papan litar bercetak hijau yang penuh dengan cip dan jejak litar
+    kind: representative
+    origin: third-party
+    subject: Sebuah tangan menggunakan penyepit halus dan alat pematerian untuk membaik pulih komponen lekap permukaan pada papan litar
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: Papan litar bercetak hijau yang difoto dari atas secara tegak, dipenuhi beberapa cip litar bersepadu hitam berlabel, pakej memori dan barisan komponen lekap permukaan yang kecil
+    kind: representative
+    origin: third-party
+    subject: Pandangan dari atas sebuah papan litar bercetak elektronik pengguna yang telah dipasang sepenuhnya
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 Buka hampir mana-mana komputer riba, telefon pintar atau kereta yang dibina dalam sedekad kebelakangan ini, dan ada kemungkinan besar sebahagian daripadanya pernah melalui Malaysia. Cip di dalamnya mungkin telah diuji dan dibungkus di Pulau Pinang; penyesuai kuasa, lampu latar LED atau papan litarnya mungkin telah dipasang di Kulim, Melaka atau Lembah Klang. Bagi sebuah negara berpenduduk kira-kira 34.1 juta orang (2024, DOSM), Malaysia berada pada titik yang mengejutkan pentingnya dalam rantaian bekalan elektronik dunia — dan itu hampir keseluruhannya kisah satu industri.

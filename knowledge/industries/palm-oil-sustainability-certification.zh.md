@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 
 status: "published"
 aiAssisted: true
@@ -112,6 +112,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mers
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: 在沙巴 Kimanis，两名穿着雨靴的种植园工人站在油棕树旁，其中一人用收割镰刀托着一串刚割下的果串
+    kind: actual
+    origin: third-party
+    subject: 沙巴 Kimanis 油棕种植园的园工托着一串收割下来的鲜果串
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: 在沙巴 Sungai Mangis 一处种植园苗圃里，一排排整齐的油棕幼苗生长在黑色育苗袋中
+    kind: actual
+    origin: third-party
+    subject: 沙巴 Sungai Mangis 一家商业苗圃用育苗袋培育的油棕幼苗
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 如今，一批马来西亚棕榈油货物必须同时应对三套不同的规则手册：国内的强制性国家计划、董事会里的自愿性买方俱乐部，以及一部可在港口将其拒之门外的欧洲毁林法。对于一个仅在 2024 年前十个月就出口了 2230 万吨棕榈油及棕榈基产品、赚取 893.9 亿令吉的行业而言，这些文书工作已不再是形式上的例行公事。它就是市场准入。

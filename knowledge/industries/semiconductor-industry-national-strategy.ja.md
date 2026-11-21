@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: 真上から見た円形の300ミリシリコンウェハーで、表面全体に虹色の回折色が見える、長方形のチップダイが規則的な格子状に並んでいる様子
+    kind: representative
+    origin: third-party
+    subject: チップダイの格子状パターンが形成された12インチ（300mm）シリコンウェハー
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: スピンコーターの上で、濃い赤色のフォトレジストの光沢ある液だまりに覆われて回転するシリコンウェハーと、外側へ細かい霧状に飛散するレジスト
+    kind: representative
+    origin: third-party
+    subject: チップ製造中にフォトレジストでスピンコーティングされるシリコンウェハー
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
 ---
 
 地球上のほぼすべてのスマートフォン、ノートパソコン、自動車には、人生の一部をマレーシアで過ごしたチップが搭載されている——ペナンやクランバレーの工場でパッケージングされ、試験を受け、出荷されたチップである。しかし五十年にわたり、この国が担ってきたのはその作業の中で最も地味で利幅の薄い部分、すなわち後工程であった。国家半導体戦略は、マレーシアがチップのどの部分を自らのものにするかを変えようとする試みである。

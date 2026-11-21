@@ -37,7 +37,7 @@ faq:
     a: "L'Office malaisien de l'huile de palme (MPOB), un organisme statutaire relevant du ministère des Plantations et des Matières premières, délivre les licences et supervise chaque étape, de la plantation à l'exportation, et dirige la recherche et le développement de l'industrie."
 
 lang: "fr"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: Un camion chargé de régimes de fruits frais rougeâtres de palmier à huile stationné à l'entrée de l'huilerie de palme d'Apas Balung à Tawau, Sabah
+    kind: actual
+    origin: third-party
+    subject: Camion chargé de régimes de fruits frais à l'huilerie de palme d'Apas Balung, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: Une huilerie de palme à la cheminée fumante au milieu d'une vaste étendue de plantation de palmiers à huile sous un ciel nuageux à Kunak, Sabah
+    kind: actual
+    origin: third-party
+    subject: Huilerie de palme IOI Baturong entourée d'une plantation de palmiers à huile, district de Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 L'huile de palme est l'huile végétale la plus échangée au monde, et la Malaisie en est le deuxième plus grand producteur — derrière l'Indonésie —, transformant un régime épineux de fruits rouges cultivé de Johor aux collines de Sarawak en huile de cuisine raffinée, ingrédients pour savon et biodiesel expédiés vers des marchés de toute l'Asie, de l'Afrique et de l'Europe. L'industrie fait vivre plus de 3 millions de Malaisiens de façon directe et indirecte, dont près de 500,000 petits exploitants, selon le Conseil de l'huile de palme de la Malaisie (MPOC). Voici comment cette machine est bâtie, de l'arbre au navire-citerne.

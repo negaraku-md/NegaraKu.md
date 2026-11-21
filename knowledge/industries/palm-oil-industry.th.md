@@ -37,7 +37,7 @@ faq:
     a: "คณะกรรมการน้ำมันปาล์มมาเลเซีย (MPOB) หน่วยงานตามกฎหมายภายใต้กระทรวงสวนและสินค้าโภคภัณฑ์ ออกใบอนุญาตและกำกับทุกขั้นตอนตั้งแต่การปลูกจนถึงการส่งออก และดำเนินการวิจัยและพัฒนาของอุตสาหกรรม"
 
 lang: "th"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: รถบรรทุกที่บรรทุกทะลายปาล์มน้ำมันสดสีออกแดงจอดอยู่ที่ประตูโรงงานสกัดน้ำมันปาล์ม Apas Balung ในเมือง Tawau รัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: รถบรรทุกที่บรรทุกทะลายปาล์มสดที่โรงงานสกัดน้ำมันปาล์ม Apas Balung เมือง Tawau รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: โรงงานสกัดน้ำมันปาล์มที่มีปล่องควันพ่นไอ ตั้งอยู่ท่ามกลางผืนสวนปาล์มน้ำมันกว้างใหญ่ภายใต้ท้องฟ้าที่มีเมฆในเมือง Kunak รัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: โรงงานสกัดน้ำมันปาล์ม IOI Baturong รายล้อมด้วยสวนปาล์มน้ำมัน อำเภอ Kunak รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 น้ำมันปาล์มเป็นน้ำมันพืชที่มีการค้าขายมากที่สุดในโลก และมาเลเซียเป็นผู้ผลิตรายใหญ่อันดับสอง — รองจากอินโดนีเซีย — เปลี่ยนทะลายผลไม้สีแดงมีหนามที่ปลูกตั้งแต่ยะโฮร์ (Johor) ไปจนถึงเนินเขาของซาราวัก (Sarawak) เป็นน้ำมันปรุงอาหารกลั่น ส่วนผสมสบู่ และไบโอดีเซลที่ส่งไปยังตลาดทั่วเอเชีย แอฟริกา และยุโรป อุตสาหกรรมสนับสนุนชาวมาเลเซียกว่า 3 ล้านคนทั้งทางตรงและทางอ้อม รวมถึงเกษตรกรรายย่อยเกือบ 500,000 ราย ตามสภาน้ำมันปาล์มมาเลเซีย (Malaysian Palm Oil Council, MPOC) นี่คือวิธีที่เครื่องจักรนั้นถูกสร้างขึ้น จากต้นไม้ถึงเรือบรรทุก

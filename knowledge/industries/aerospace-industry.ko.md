@@ -34,7 +34,7 @@ faq:
     a: "둘 다 하지만, 무게중심은 서비스에 있습니다. MRO와 부품 제조가 우세합니다. 말레이시아는 구조물, 복합재, 엔진 부품을 만들고 항공기를 정비하지만, 항공기 수준의 설계 및 개발 역량은 상대적으로 약합니다."
 
 lang: "ko"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: 녹색 프라이머가 도포된 여객기 동체들이 거대한 항공기 조립 공장 안에서 작업자들과 함께 줄지어 늘어서 있다
+    kind: representative
+    origin: third-party
+    subject: 대형 항공우주 공장 내부 조립 라인 위의 항공기 동체
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: 격납고 안에서 두 명의 항공기 정비 기술자가 소형 항공기의 엔진과 4엽 프로펠러를 작업하고 있다
+    kind: representative
+    origin: third-party
+    subject: 정비 격납고에서 항공기 엔진과 프로펠러를 점검하는 기술자들
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 항공기는 툴루즈나 시애틀에서 제작될 수 있지만, 30년에 이르는 수명 어딘가에서 엔진을 열고, 구조물을 점검하고, 항공전자장비를 갱신해야 합니다 — 그리고 말레이시아는 그 작업이 점점 더 수방(Subang)이나 스나이(Senai)에서 이루어지기를 바랍니다. 어떤 조립 라인보다도 바로 이 본능이 이 나라 항공우주 부문의 모습을 설명해 줍니다.

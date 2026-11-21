@@ -38,7 +38,7 @@ faq:
     a: "Pada 2024, PETRONAS menyumbang RM72.4 bilion dalam bentuk dividen, cukai, bayaran tunai dan komitmen lain, termasuk dividen RM32.0 bilion. Ini di samping cukai yang dibayar oleh kontraktor dan syarikat perkhidmatan lain dalam sektor tersebut."
 
 lang: "ms"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Menara suar keluli merah-putih tinggi yang membebaskan nyalaan gas oren terang berlatarkan langit berawan, dengan rak paip dan Banjaran Crocker di belakang, di Sabah Oil and Gas Terminal di Kimanis
+    kind: actual
+    origin: third-party
+    subject: suar gas menyala di puncak menara suar di Sabah Oil and Gas Terminal (SOGT) di Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: Menara penyulingan, cerobong dan tangki simpanan sebuah kilang penapisan minyak di kaki langit di sebalik padang berumput berhampiran Port Dickson, di bawah langit petang yang berjerebu
+    kind: actual
+    origin: third-party
+    subject: sebuah kilang penapisan minyak di timur Port Dickson, Negeri Sembilan, dilihat merentasi kawasan lapang dari Laluan Persekutuan 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 Setiap tong minyak dan setiap kaki padu gas di bawah tanah dan dasar laut Malaysia, menurut undang-undang, adalah milik satu syarikat sahaja. Bukan kerajaan secara langsung, bukan penemu medan itu, bukan juga syarikat multinasional yang menggerudinya — tetapi PETRONAS, syarikat minyak nasional yang ditubuhkan untuk memegang petroleum negara secara amanah. Fahami satu fakta itu dan segala-galanya tentang industri minyak dan gas Malaysia — bagaimana ia dikawal selia, dibiayai, dicukai dan dikongsi — akan menjadi jelas.

@@ -31,7 +31,7 @@ faq:
   - q: "Pourquoi la construction navale est-elle si liée au pétrole et au gaz en Malaisie ?"
     a: "Une grande partie de la flotte commerciale que les chantiers malaisiens construisent et réparent — navires de soutien offshore, navires de manutention d'ancres et bateaux de travail — existe pour desservir les plateformes pétrolières et gazières offshore dans les eaux malaisiennes. Quand les dépenses énergétiques sont fortes, les commandes augmentent ; quand le prix du pétrole chute, les chantiers font face à une surcapacité. Voir le guide connexe sur l'industrie des services et équipements pétroliers et gaziers."
 lang: fr
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: Vue aérienne d'une grande usine blanche de construction navale en Malaisie, avec une coque de navire visible à une porte de baie ouverte
+    kind: actual
+    origin: third-party
+    subject: L'usine de construction navale Grand Banks Yachts à Pasir Gudang, Johor, Malaisie
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: Vue aérienne de dessus des grands halls de fabrication et du chantier d'un chantier naval malaisien en bord de rivière
+    kind: actual
+    origin: third-party
+    subject: Vue de dessus du chantier naval Grand Banks Yachts au bord d'une rivière à Johor, Malaisie
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 La Malaisie est située sur deux des voies maritimes les plus fréquentées du monde et tire une grande partie de ses revenus de la mer — pourtant son industrie de construction et de réparation navales (SBSR) est l'un des coins les plus discrets de l'économie nationale. Elle est réelle, ancienne et stratégiquement importante, mais aussi fragmentée, cyclique et dominée par des chantiers relativement petits. Ce guide explique ce que l'industrie construit, où, quelle est sa taille, et pourquoi un seul programme militaire en est venu à éclipser tout le secteur dans le débat public.

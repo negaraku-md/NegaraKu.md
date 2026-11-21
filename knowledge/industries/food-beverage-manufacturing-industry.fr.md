@@ -31,7 +31,7 @@ faq:
   - q: "Comment la fabrication alimentaire est-elle réglementée en Malaisie ?"
     a: "La sécurité et l'étiquetage des aliments sont régis par le Food Act 1983 et ses règles subsidiaires (telles que les Food Regulations 1985 et les Food Hygiene Regulations 2009), administrés par le ministère de la Santé. Les allégations halal sont contrôlées séparément par le Department of Islamic Development Malaysia (JAKIM), qui délivre la certification halal officielle."
 lang: fr
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfue
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: Vue de dessus d'une usine d'embouteillage de boissons avec plusieurs lignes de convoyeurs et des machines de conditionnement
+    kind: representative
+    origin: third-party
+    subject: Vue de dessus des convoyeurs et des machines de conditionnement d'une usine d'embouteillage de vin près de Geyserville, en Californie
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: Plusieurs grands silos cylindriques à grains et bâtiments de stockage d'une usine de transformation alimentaire et de logistique le long de voies ferrées
+    kind: representative
+    origin: third-party
+    subject: Grands silos et halls de stockage d'une usine de transformation et de logistique de céréales alimentaires à Bandel, en Inde
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 Presque tout le monde en Malaisie touche à cette industrie plusieurs fois par jour — une tasse de Milo au petit-déjeuner, un paquet de nouilles instantanées au déjeuner, une bouteille d'eau minérale l'après-midi, une tablette de chocolat faite de cacao broyé dans le Johor. La fabrication agroalimentaire (F&B) est l'une des grandes industries les plus discrètes du pays : moins glamour que les semi-conducteurs, mais profondément tissée dans la vie quotidienne, la sécurité alimentaire nationale et un récit d'exportation croissant bâti autour d'une idée puissante — le halal.

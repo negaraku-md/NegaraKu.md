@@ -36,7 +36,7 @@ faq:
     a: "Có. Proton ra mắt e.MAS 7 vào tháng 12 năm 2024, xe điện đầu tiên của nó, giá từ RM109,800. Perodua ra mắt QV-E — được mô tả là xe điện nội địa đầu tiên của Malaysia — vào tháng 12 năm 2025 ở mức RM80,000 chưa gồm pin, được phát triển với chi phí RM800 triệu."
 
 lang: "vi"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Những chiếc Perodua Myvi hatchback thế hệ thứ ba màu đỏ và đen, mang phù hiệu Perodua, đỗ thành một hàng
+    kind: actual
+    origin: third-party
+    subject: Perodua Myvi hatchback thế hệ thứ ba, mẫu xe quốc gia bán chạy nhất Malaysia
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: Những chiếc xe lắp ráp dở dang với cửa và nắp cốp mở đang di chuyển trên băng chuyền của dây chuyền lắp ráp nhà máy
+    kind: representative
+    origin: third-party
+    subject: Xe di chuyển trên dây chuyền lắp ráp ô tô bên trong một nhà máy sản xuất xe
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 Ít quốc gia có quy mô như Malaysia từng thử chế tạo một chiếc xe từ con số không. Còn ít hơn nữa có hai thương hiệu nội địa đậu trong hầu hết các lối lái xe của cả nước. Lái qua bất kỳ thị trấn Malaysia nào và dòng xe cộ kể một câu chuyện về chính sách công nghiệp có chủ ý: một chiếc Perodua Myvi ở đèn giao thông, một chiếc Proton Saga phía sau nó, cả hai đều bắt nguồn từ một canh bạc thập niên 1980 rằng một nền kinh tế đang phát triển có thể chế tạo ô tô của riêng mình.

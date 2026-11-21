@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 
 status: "published"
 aiAssisted: true
@@ -105,6 +105,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: はんだごてと精密ピンセットを手に持ち、チップと配線が密集したグリーンのプリント基板上の微小な表面実装部品を作業する手
+    kind: representative
+    origin: third-party
+    subject: 精密ピンセットとはんだごてを使い、プリント基板上の表面実装部品を手直しする手
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: 真上から撮影されたグリーンのプリント基板で、ラベル付きの黒い集積回路チップ数個、メモリパッケージ、そして小さな表面実装部品の列が実装されている様子
+    kind: representative
+    origin: third-party
+    subject: 完全に実装された民生用電子機器のプリント基板を真上から見た様子
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 この十年間に製造されたノートパソコン、スマートフォン、あるいは自動車のほぼどれを開けてみても、その部品のどこかがマレーシアを通過した可能性は十分にある。中のチップは、ペナンで試験とパッケージングを受けたのかもしれない。電源アダプター、LEDバックライト、あるいは回路基板は、クリム、マラッカ、あるいはクランバレーで組み立てられたのかもしれない。約3,410万人の人口を持つ国（2024年、マレーシア統計局（Department of Statistics Malaysia、DOSM））にとって、マレーシアは世界の電子機器サプライチェーンの中で驚くほど中心的な位置を占めている——そしてそれは、ほぼ丸ごと一つの産業の物語である。

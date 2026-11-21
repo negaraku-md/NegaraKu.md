@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: 一排涂有绿色底漆的客机机身，工人在宽敞的飞机组装厂房内作业
+    kind: representative
+    origin: third-party
+    subject: 大型航空工厂组装线上的飞机机身
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: 两名飞机维修技师在机库内检修一架小型飞机的发动机和四叶螺旋桨
+    kind: representative
+    origin: third-party
+    subject: 技师在维修机库内检修飞机发动机和螺旋桨
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 一架飞机可以在图卢兹或西雅图制造出来，但在它三十年的服役生涯中，总有某个时刻需要打开发动机、检查结构、更新航电——而马来西亚越来越希望，这些工作能在梳邦（Subang）或士乃（Senai）完成。比起任何一条组装线，正是这种取向，解释了这个国家航空航天业的整体形态。

@@ -77,6 +77,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the PETRONAS Twin Towers, the national oil company''s headquarters, rising over the Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-1.webp
+    alt: A PETRONAS petrol station with a turquoise-green forecourt canopy and fuel pumps beside a tall price board showing the green PETRONAS droplet logo and prices for Primax 97, Primax 95 and Dynamic Diesel, fringed by oil-palm trees
+    kind: actual
+    origin: third-party
+    subject: a PETRONAS-branded petrol station in Labis, Johor, with its forecourt canopy and fuel price board
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-2.webp
+    alt: Close-up of the glass-and-steel double-decker skybridge spanning the gap between the two ribbed facades of the PETRONAS Twin Towers, braced by angled support struts, under a clear blue sky
+    kind: actual
+    origin: third-party
+    subject: the double-decker skybridge linking the two PETRONAS Twin Towers, seen in close-up against a clear sky
+    credit: Andy Mitchell / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skybridge_between_Petronas_Towers,_Kuala_Lumpur_(4447656063).jpg
 ---
 
 Every barrel of oil and cubic foot of gas produced anywhere in Malaysia belongs, by law, to a single company — and that company hands one of the largest single cheques the federal government receives each year.

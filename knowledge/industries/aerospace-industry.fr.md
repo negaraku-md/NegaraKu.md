@@ -34,7 +34,7 @@ faq:
     a: "Les deux, mais son centre de gravité, ce sont les services. La MRO et la fabrication de composants dominent ; la Malaisie construit des structures, des matériaux composites et des pièces de moteur et entretient des avions, mais elle a une capacité plus faible de conception et de développement au niveau de l'aéronef."
 
 lang: "fr"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: Fuselages d'avions de ligne recouverts d'apprêt vert alignés avec des ouvriers à l'intérieur d'une vaste usine d'assemblage aéronautique
+    kind: representative
+    origin: third-party
+    subject: Fuselages d'avions sur la chaîne d'assemblage à l'intérieur d'une grande usine aérospatiale
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: Deux techniciens de maintenance aéronautique travaillant sur le moteur et l'hélice à quatre pales d'un petit avion dans un hangar
+    kind: representative
+    origin: third-party
+    subject: Techniciens entretenant un moteur et une hélice d'avion dans un hangar de maintenance
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 Un avion peut être construit à Toulouse ou à Seattle, mais à un moment de sa vie de trente ans, il faudra lui ouvrir les moteurs, inspecter sa structure et renouveler son avionique — et, de plus en plus, la Malaisie veut que ce travail se fasse à Subang ou à Senai. Cet instinct, plus que toute chaîne de montage, explique la forme du secteur aérospatial du pays.

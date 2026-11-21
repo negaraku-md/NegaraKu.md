@@ -31,7 +31,7 @@ faq:
   - q: Bản thiết kế Ngành OGSE Quốc gia là gì?
     a: Ra mắt tháng 4/2021 và rà soát giữa kỳ năm 2024, đây là kế hoạch 10 năm (2021–2030) của chính phủ nhằm làm cho lĩnh vực này cạnh tranh, kiên cường và bền vững hơn. Các mục tiêu của nó bao gồm tăng gấp đôi doanh thu xuất khẩu, duy trì đóng góp GDP khoảng RM50 tỷ và đẩy các hãng vào các dịch vụ chuyển đổi năng lượng như thu giữ carbon, hydro và năng lượng tái tạo.
 lang: vi
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Ba
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: Một giàn khai thác dầu ngoài khơi lớn trong ánh sáng vàng với cần trục trên boong đang hạ một kiện hàng xuống một tàu tiếp vận ngoài khơi đang neo giữ vị trí trên biển xanh mênh mông bên cạnh
+    kind: representative
+    origin: third-party
+    subject: một tàu tiếp vận ngoài khơi đang làm việc bên cạnh một giàn khai thác, với cần trục của giàn đang chuyển một kiện hàng
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Một tàu hỗ trợ ngoài khơi màu xanh trắng tên Island Chieftain neo tại bến, với đài chỉ huy cao phía trước và boong hàng dài phẳng mở, phía sau là núi non
+    kind: representative
+    origin: third-party
+    subject: một tàu tiếp vận giàn khoan và hỗ trợ ngoài khơi neo tại bến, cho thấy boong hàng phía sau mở của tàu
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 Khi người ta hình dung về sự giàu có dầu khí của Malaysia, họ thường nghĩ đến dầu thô và khí dưới đáy biển ngoài khơi Terengganu, Sarawak và Sabah — những trữ lượng đã biến PETRONAS thành một trong những công ty năng lượng lớn nhất Châu Á. Nhưng hydrocarbon không tự nâng mình lên khỏi lòng đất. Đằng sau mỗi mỏ đang khai thác là một đội quân nhỏ các nhà thầu: các bãi hàn các giàn thép, các giàn khoan các giếng, các tàu chở thủy thủ đoàn và hàng hóa ra ngoài khơi, các kỹ sư thiết kế các cơ sở, và các kỹ thuật viên giữ cho tất cả vận hành. Hệ sinh thái đó là **ngành dịch vụ và thiết bị dầu khí (OGSE)**, và nó là một ngành lớn của Malaysia theo đúng nghĩa của nó.

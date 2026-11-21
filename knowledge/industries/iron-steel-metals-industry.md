@@ -106,6 +106,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: Two tall steel blast furnaces with ducting and a chimney venting white steam against a clear blue sky
+    kind: representative
+    origin: third-party
+    subject: Blast furnaces at Scunthorpe Steelworks, England
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: Inside a steel meltshop, a large electric arc furnace with overhead gantry, pipework and workers on steel walkways
+    kind: representative
+    origin: third-party
+    subject: Interior of the electric arc furnace meltshop at the ProfilARBED steel mill in Differdange, Luxembourg
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
 ---
 
 Behind almost every building, bridge and highway in Malaysia is a quieter industry that makes the metal holding it all up. Iron and steel rarely make headlines the way semiconductors or palm oil do, yet they are foundational: the reinforcing bar inside a concrete column, the wire in a cable, the sheet in a car door. Malaysia makes a great deal of this itself — and, in a few metals, is genuinely world-class. But the steel half of the story is also one of the country's most troubled manufacturing sectors, defined by a stubborn mismatch between how much it can produce and how much the market actually needs.

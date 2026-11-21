@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: A truck piled with reddish oil-palm fresh fruit bunches parked at the gate of the Apas Balung palm-oil mill in Tawau, Sabah
+    kind: actual
+    origin: third-party
+    subject: Truck loaded with fresh fruit bunches at the Apas Balung palm-oil mill, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: A palm-oil mill with a steaming chimney set amid a vast sea of oil-palm plantation under cloudy skies in Kunak, Sabah
+    kind: actual
+    origin: third-party
+    subject: IOI Baturong palm-oil mill surrounded by oil-palm plantation, Kunak District, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 Palm oil is the world's most-traded vegetable oil, and Malaysia is its second-largest producer — behind Indonesia — turning a spiky red bunch of fruit grown from Johor to the hills of Sarawak into refined cooking oil, soap ingredients and biodiesel shipped to markets across Asia, Africa and Europe. The industry supports over 3 million Malaysians directly and indirectly, including nearly 500,000 smallholders, according to the Malaysian Palm Oil Council (MPOC). This is how that machine is built, from the tree to the tanker.

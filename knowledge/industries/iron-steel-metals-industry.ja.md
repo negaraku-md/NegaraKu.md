@@ -31,7 +31,7 @@ faq:
   - q: マレーシアは鉄鋼以外の金属に強いですか。
     a: はい。非鉄金属ではマレーシアは世界的に競争力があります。サラワク州を拠点とするPress Metalは東南アジア最大の統合アルミニウム生産者であり、Malaysia Smelting Corporationは、同国の長いスズ採掘の歴史を受け継ぐ、世界有数の精錬スズ生産者です。
 lang: ja
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: ダクトと煙突を備え、澄んだ青空を背景に白い蒸気を噴き出す2基の高い鋼鉄製高炉
+    kind: representative
+    origin: third-party
+    subject: イングランド、スカンソープ製鉄所の高炉
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: 製鋼工場の内部で、頭上のガントリーと配管を備えた大型の電気炉と、鋼鉄製の歩廊上の作業員
+    kind: representative
+    origin: third-party
+    subject: ルクセンブルク、ディフェルダンジュのProfilARBED製鉄所にある電気炉製鋼工場の内部
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
 ---
 
 マレーシアのほぼすべての建物、橋、幹線道路の背後には、それらすべてを支える金属を作る、より静かな産業がある。鉄鋼は半導体やパーム油のように見出しを飾ることはめったにないが、基盤的な存在だ。コンクリート柱の中の異形棒鋼、ケーブルの中の線材、車のドアの中のシート。マレーシアはその多くを自前で作っており――いくつかの金属では、本当に世界水準である。だが物語の鉄鋼の半分は、同国で最も問題を抱える製造部門の一つでもある。それは、どれだけ生産できるかと、市場が実際にどれだけ必要とするかとの、根深いミスマッチによって特徴づけられている。

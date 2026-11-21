@@ -34,7 +34,7 @@ faq:
     a: "ทั้งสองอย่าง แต่ศูนย์ถ่วงอยู่ที่ภาคบริการ MRO และการผลิตชิ้นส่วนครองสัดส่วนหลัก มาเลเซียผลิตโครงสร้าง วัสดุคอมโพสิต และชิ้นส่วนเครื่องยนต์ และบำรุงรักษาอากาศยาน แต่มีขีดความสามารถด้านการออกแบบและพัฒนาระดับอากาศยานที่อ่อนแอกว่า"
 
 lang: "th"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: ลำตัวเครื่องบินโดยสารเคลือบสีรองพื้นสีเขียวเรียงเป็นแถวพร้อมคนงานอยู่ภายในโรงงานประกอบอากาศยานขนาดใหญ่
+    kind: representative
+    origin: third-party
+    subject: ลำตัวเครื่องบินบนสายการประกอบภายในโรงงานอากาศยานขนาดใหญ่
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: ช่างซ่อมบำรุงอากาศยานสองคนกำลังทำงานกับเครื่องยนต์และใบพัดสี่แฉกของเครื่องบินขนาดเล็กในโรงเก็บเครื่องบิน
+    kind: representative
+    origin: third-party
+    subject: ช่างกำลังบำรุงรักษาเครื่องยนต์และใบพัดเครื่องบินในโรงเก็บเครื่องบินซ่อมบำรุง
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 อากาศยานลำหนึ่งอาจถูกสร้างขึ้นที่เมืองตูลูส (Toulouse) หรือซีแอตเทิล (Seattle) แต่ในช่วงอายุการใช้งานสามสิบปีของมัน ที่ใดที่หนึ่งย่อมต้องมีการเปิดเครื่องยนต์ ตรวจสอบโครงสร้าง และปรับปรุงระบบการบิน (avionics) ให้ทันสมัย — และมาเลเซียต้องการให้งานนั้นทำที่ซูบัง (Subang) หรือเซไน (Senai) มากขึ้นเรื่อย ๆ สัญชาตญาณนี้เอง มากกว่าสายการประกอบใด ๆ ที่อธิบายรูปร่างของภาคการบินและอวกาศของประเทศ

@@ -89,6 +89,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: Green primer-coated airliner fuselages lined up with workers inside a vast aircraft assembly factory
+    kind: representative
+    origin: third-party
+    subject: Aircraft fuselages on the assembly line inside a large aerospace factory
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: Two aircraft-maintenance technicians working on the engine and four-blade propeller of a small aircraft in a hangar
+    kind: representative
+    origin: third-party
+    subject: Technicians servicing an aircraft engine and propeller in a maintenance hangar
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 An aircraft can be built in Toulouse or Seattle, but somewhere over its thirty-year life it will need its engines opened, its structure inspected and its avionics refreshed — and increasingly, Malaysia wants that work done in Subang or Senai. That instinct, more than any assembly line, explains the shape of the country's aerospace sector.

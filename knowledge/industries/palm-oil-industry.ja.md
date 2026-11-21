@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 
 status: "published"
 aiAssisted: true
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: サバ州タワウのApas Balungパーム油搾油工場のゲートに停車した、赤みを帯びたオイルパームの新鮮果房を山積みにしたトラック
+    kind: actual
+    origin: third-party
+    subject: サバ州タワウのApas Balungパーム油搾油工場で新鮮果房を積んだトラック
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: サバ州クナクで、曇り空の下、広大なオイルパーム農園の海の中に立つ、煙突から蒸気を上げるパーム油搾油工場
+    kind: actual
+    origin: third-party
+    subject: サバ州クナク郡で、オイルパーム農園に囲まれたIOI Baturongパーム油搾油工場
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 パーム油は世界で最も取引量の多い植物油であり、マレーシアはインドネシアに次ぐ第2位の生産国である——ジョホールからサラワクの丘陵地帯まで栽培される、とげのある赤い果房の房を、精製食用油、石鹸原料、バイオディーゼルへと加工し、アジア、アフリカ、欧州各地の市場へ出荷している。マレーシアパーム油理事会（MPOC）によれば、同産業は直接・間接に300万人を超えるマレーシア人を支えており、うち小規模農家は500,000人近くに達する。以下は、その機械が木からタンカーに至るまで、どのように構築されているかである。

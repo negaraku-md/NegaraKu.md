@@ -31,7 +31,7 @@ faq:
     a: "இரண்டு தாமதங்களுக்குப் பிறகு, இது 30 December 2026 முதல் பெரிய மற்றும் நடுத்தர அளவிலான செயல்பாட்டாளர்களுக்கும், 30 June 2027 முதல் நுண் மற்றும் சிறு நிறுவனங்களுக்கும் பொருந்தும். காடழிப்பின் இறுதித் தேதி 31 December 2020 ஆகும்."
 
 lang: "ta"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mers
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: சபாவின் Kimanis-இல் எண்ணெய்ப் பனைகளுக்கு அருகில் பூட்ஸ் அணிந்து நிற்கும் இரண்டு தோட்டத் தொழிலாளர்கள், ஒருவர் அறுவடை அரிவாளில் புதிதாக வெட்டப்பட்ட பழக் குலையைப் பிடித்துள்ளார்
+    kind: actual
+    origin: third-party
+    subject: சபாவின் Kimanis-இல் ஒரு எண்ணெய்ப் பனைத் தோட்டத்தில் அறுவடை செய்யப்பட்ட புதிய பழக் குலையுடன் தோட்டத் தொழிலாளர்கள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: சபாவின் Sungai Mangis-இல் உள்ள ஒரு தோட்ட நாற்றங்காலில் கருப்பு பாலிபேக்குகளில் வளரும் இளம் எண்ணெய்ப் பனை நாற்றுகளின் ஒழுங்கான வரிசைகள்
+    kind: actual
+    origin: third-party
+    subject: சபாவின் Sungai Mangis-இல் ஒரு வணிக நாற்றங்காலில் பாலிபேக்குகளில் வளர்க்கப்பட்ட எண்ணெய்ப் பனை நாற்றுகள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 ஒரே ஒரு மலேசியப் பாமாயில் சரக்கு இப்போது ஒரே நேரத்தில் மூன்று வெவ்வேறு விதிநூல்களுக்குப் பதிலளிக்க வேண்டியுள்ளது: உள்நாட்டில் ஒரு கட்டாய தேசியத் திட்டம், அறைக்குள் ஒரு தன்னார்வ வாங்குநர்களின் அமைப்பு, மற்றும் துறைமுகத்தில் அதைத் தடுக்கக்கூடிய ஒரு ஐரோப்பியக் காடழிப்புச் சட்டம். 2024-இன் முதல் பத்து மாதங்களில் மட்டுமே 22.30 மில்லியன் டன் பாமாயில் மற்றும் பாமை அடிப்படையிலான தயாரிப்புகளை ஏற்றுமதி செய்து — RM89.39 பில்லியன் ஈட்டிய — ஒரு தொழிற்துறைக்கு, இந்த ஆவணப்பணி இனி ஒரு சம்பிரதாயம் அல்ல. அது சந்தை அணுகல்.

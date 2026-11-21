@@ -31,7 +31,7 @@ faq:
   - q: Apa itu National OGSE Industry Blueprint?
     a: Diluncurkan pada April 2021 dan ditinjau paruh waktu pada 2024, ini adalah rencana 10 tahun pemerintah (2021-2030) untuk membuat sektor ini lebih kompetitif, tangguh, dan berkelanjutan. Targetnya mencakup menggandakan pendapatan ekspor, mempertahankan kontribusi PDB sekitar RM50 miliar, dan mendorong perusahaan ke jasa transisi energi seperti penangkapan karbon, hidrogen, dan energi terbarukan.
 lang: id
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Ba
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: Sebuah anjungan produksi minyak lepas pantai yang besar dalam cahaya keemasan dengan derek deknya menurunkan beban ke kapal pasokan lepas pantai yang menjaga posisi di laut biru terbuka di sampingnya
+    kind: representative
+    origin: third-party
+    subject: sebuah kapal pasokan lepas pantai bekerja di samping anjungan produksi, dengan derek anjungan memindahkan beban
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Sebuah kapal pendukung lepas pantai biru-putih bernama Island Chieftain bertambat di dermaga, dengan anjungan haluan tinggi dan dek kargo terbuka yang panjang dan datar terlihat, dengan pegunungan di belakang
+    kind: representative
+    origin: third-party
+    subject: sebuah kapal pasokan anjungan dan pendukung lepas pantai bertambat di dermaga, memperlihatkan dek kargo belakang terbukanya
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 Ketika orang membayangkan kekayaan minyak dan gas Malaysia, mereka biasanya memikirkan minyak mentah dan gas di bawah dasar laut lepas pantai Terengganu, Sarawak, dan Sabah — cadangan yang menjadikan PETRONAS salah satu perusahaan energi terbesar di Asia. Tetapi hidrokarbon tidak mengangkat dirinya sendiri dari dalam tanah. Di balik setiap ladang produksi berdiri satu pasukan kecil kontraktor: galangan yang mengelas platform baja, rig yang mengebor sumur, kapal yang mengantar kru dan kargo ke lepas pantai, insinyur yang merancang fasilitas, dan teknisi yang menjaga semuanya tetap berjalan. Ekosistem itu adalah **industri jasa dan peralatan minyak & gas (OGSE)**, dan ia adalah industri besar Malaysia dengan sendirinya.

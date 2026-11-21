@@ -31,7 +31,7 @@ faq:
   - q: "La Malaisie est-elle forte dans d'autres métaux que l'acier ?"
     a: "Oui. Dans les métaux non ferreux, la Malaisie est compétitive à l'échelle mondiale. Press Metal, basée au Sarawak, est le plus grand producteur intégré d'aluminium d'Asie du Sud-Est, et Malaysia Smelting Corporation figure parmi les premiers producteurs mondiaux d'étain raffiné, un héritage de la longue histoire minière de l'étain du pays."
 lang: fr
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: Deux hauts fourneaux en acier avec gaines et cheminée rejetant une vapeur blanche sur fond de ciel bleu limpide
+    kind: representative
+    origin: third-party
+    subject: Hauts fourneaux de l'aciérie de Scunthorpe, en Angleterre
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: À l'intérieur d'une aciérie, un grand four électrique à arc avec portique aérien, tuyauterie et ouvriers sur des passerelles en acier
+    kind: representative
+    origin: third-party
+    subject: Intérieur du four électrique à arc de l'aciérie ProfilARBED à Differdange, au Luxembourg
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
 ---
 
 Derrière presque chaque bâtiment, pont et autoroute de la Malaisie se trouve une industrie plus discrète qui fabrique le métal qui soutient l'ensemble. Le fer et l'acier font rarement la une comme les semi-conducteurs ou l'huile de palme, pourtant ils sont fondamentaux : la barre d'armature à l'intérieur d'un poteau de béton, le fil dans un câble, la tôle dans une portière de voiture. La Malaisie en fabrique une grande partie elle-même — et, pour quelques métaux, elle est véritablement de classe mondiale. Mais la moitié « acier » de l'histoire est aussi l'un des secteurs manufacturiers les plus en difficulté du pays, défini par un décalage tenace entre ce qu'il peut produire et ce dont le marché a réellement besoin.

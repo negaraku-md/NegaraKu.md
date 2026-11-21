@@ -36,7 +36,7 @@ faq:
     a: "ஆம். Proton தனது முதல் EV-ஆன e.MAS 7-ஐ டிசம்பர் 2024-ல், RM109,800 முதல் விலையில் அறிமுகப்படுத்தியது. Perodua, மலேசியாவின் முதல் உள்நாட்டில் உருவாக்கப்பட்ட EV என விவரிக்கப்பட்ட QV-E-ஐ டிசம்பர் 2025-ல், பேட்டரியைத் தவிர்த்து RM80,000-க்கு அறிமுகப்படுத்தியது; இது RM800 மில்லியன் செலவில் உருவாக்கப்பட்டது."
 
 lang: "ta"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Perodua சின்னத்தைச் சுமந்த சிவப்பு மற்றும் கருப்பு நிற மூன்றாம் தலைமுறை Perodua Myvi ஹேட்ச்பேக்குகள் வரிசையாக நிறுத்தப்பட்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவின் அதிகம் விற்பனையாகும் தேசிய கார் — மூன்றாம் தலைமுறை Perodua Myvi ஹேட்ச்பேக்குகள்
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: திறந்த கதவுகள் மற்றும் பூட் மூடிகளுடன் பகுதியளவு கூட்டமைக்கப்பட்ட கார்கள் ஒரு தொழிற்சாலை கூட்டமைப்பு வரிசையில் கன்வேயரில் நகர்கின்றன
+    kind: representative
+    origin: third-party
+    subject: ஒரு வாகனத் தொழிற்சாலைக்குள் வாகன கூட்டமைப்பு வரிசையில் நகரும் கார்கள்
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 மலேசியாவின் அளவிலான சில நாடுகள் மட்டுமே ஒரு காரை முதலிலிருந்து உருவாக்க முயன்றிருக்கின்றன. அதைவிட குறைவான நாடுகளே தேசத்தின் பெரும்பாலான வீட்டு முற்றங்களில் நிறுத்தப்பட்டிருக்கும் இரண்டு உள்நாட்டுப் பிராண்டுகளைக் கொண்டுள்ளன. எந்த மலேசிய நகரத்தின் வழியாகச் சென்றாலும், போக்குவரத்து ஒரு நோக்கமிக்க தொழில்துறைக் கொள்கையின் கதையைச் சொல்கிறது: சிக்னலில் ஒரு Perodua Myvi, அதற்குப் பின்னால் ஒரு Proton Saga — இரண்டும் ஒரு வளரும் பொருளாதாரம் தனது சொந்த வாகனங்களை உற்பத்தி செய்ய முடியும் என்ற 1980களின் ஒரு பந்தயத்திலிருந்து வந்தவை.

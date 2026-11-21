@@ -37,7 +37,7 @@ faq:
     a: "Lembaga Minyak Sawit Malaysia (MPOB), sebuah badan berstatuta di bawah Kementerian Perladangan dan Komoditi, melisensikan dan mengawasi setiap tahap dari penanaman hingga ekspor, dan menjalankan penelitian dan pengembangan industri."
 
 lang: "id"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: Sebuah truk bermuatan tandan buah segar kelapa sawit berwarna kemerahan terparkir di gerbang pabrik kelapa sawit Apas Balung di Tawau, Sabah
+    kind: actual
+    origin: third-party
+    subject: Truk bermuatan tandan buah segar di pabrik kelapa sawit Apas Balung, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: Sebuah pabrik kelapa sawit dengan cerobong berasap di tengah hamparan luas perkebunan kelapa sawit di bawah langit berawan di Kunak, Sabah
+    kind: actual
+    origin: third-party
+    subject: Pabrik kelapa sawit IOI Baturong dikelilingi perkebunan kelapa sawit, Distrik Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 Minyak sawit adalah minyak nabati yang paling banyak diperdagangkan di dunia, dan Malaysia merupakan produsen kedua terbesarnya — di belakang Indonesia — mengubah tandan buah merah berduri yang ditanam dari Johor hingga ke perbukitan Sarawak menjadi minyak goreng yang disuling, bahan sabun dan biodiesel yang dikirim ke pasar di seluruh Asia, Afrika dan Eropa. Industri ini menyokong lebih dari 3 juta rakyat Malaysia secara langsung dan tidak langsung, termasuk hampir 500,000 petani kecil, menurut Majlis Minyak Sawit Malaysia (MPOC). Inilah cara mesin itu dibangun, dari pohon hingga ke kapal tanker.

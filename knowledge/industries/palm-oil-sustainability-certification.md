@@ -111,6 +111,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mers
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Two plantation workers in boots standing beside oil palms, one holding a freshly cut fruit bunch on a harvesting sickle, in Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Estate workers with a harvested fresh fruit bunch on an oil-palm plantation in Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Orderly rows of young oil-palm seedlings growing in black polybags at a plantation nursery in Sungai Mangis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Oil-palm seedlings raised in polybags at a commercial nursery in Sungai Mangis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 A single Malaysian palm oil shipment now has to answer to three different rulebooks at once: a mandatory national scheme at home, a voluntary buyers' club in the boardroom, and a European deforestation law that can bar it at the port. For an industry that shipped 22.30 million tonnes of palm oil and palm-based products in the first ten months of 2024 alone — earning RM89.39 billion — the paperwork is no longer a formality. It is market access.

@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 
 status: "published"
 aiAssisted: true
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: Beberapa lengan robotik oren memaletkan peti kuning pada barisan pengeluaran automatik di sebuah kilang
+    kind: representative
+    origin: third-party
+    subject: Lengan robot industri oren memaletkan makanan terbungkus pada barisan kilang automatik
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: Seorang juruteknik berpakaian sut seluruh badan putih, pelitup muka dan sarung tangan sedang mengerjakan komponen logam jitu di dalam bilik bersih berjubin yang terang
+    kind: representative
+    origin: third-party
+    subject: Seorang juruteknik berpakaian sut putih memasang peralatan jitu di dalam bilik bersih berteknologi tinggi
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Sebut "kilang Malaysia" dan kebanyakan orang membayangkan bilik bersih semikonduktor di Pulau Pinang atau barisan pengeluaran Proton di Shah Alam. Itu memang wujud, dan ia besar — tetapi ia hanya duduk di atas asas perindustrian yang jauh lebih luas. Pada 2024 keseluruhan sektor ini menggerakkan jualan RM1.9 trilion dan mengekalkan kira-kira 2.4 juta orang dalam pekerjaan, dan sebahagian besar daripadanya datang daripada jentera, plastik, getah, peranti perubatan, bahan kimia dan makanan di rak pasar raya.

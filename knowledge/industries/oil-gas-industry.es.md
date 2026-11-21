@@ -38,7 +38,7 @@ faq:
     a: "En 2024, PETRONAS aportó RM72.4 mil millones en dividendos, impuestos, pagos en efectivo y otros compromisos, incluido un dividendo de RM32.0 mil millones. Esto se suma a los impuestos pagados por otros contratistas y empresas de servicios del sector."
 
 lang: "es"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Una alta antorcha de acero roja y blanca que expulsa una llama de gas naranja brillante contra un cielo nublado, con bastidores de tuberías y la cordillera de Crocker detrás, en la Terminal de Petróleo y Gas de Sabah en Kimanis
+    kind: actual
+    origin: third-party
+    subject: una antorcha de gas ardiendo en lo alto de la torre de venteo en la Sabah Oil and Gas Terminal (SOGT) en Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: Las torres de destilación, chimeneas y tanques de almacenamiento de una refinería de petróleo en el horizonte, más allá de un campo cubierto de hierba cerca de Port Dickson, bajo un cielo brumoso al atardecer
+    kind: actual
+    origin: third-party
+    subject: una refinería de petróleo al este de Port Dickson, Negeri Sembilan, vista a través de un terreno despejado desde la Federal Route 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 Cada barril de petróleo y cada pie cúbico de gas bajo el suelo y el lecho marino malasios pertenecen, por ley, a una sola empresa. No al Estado directamente, no a quienes descubrieron los campos, no a las multinacionales que los perforan, sino a PETRONAS, la petrolera nacional creada para custodiar el petróleo de la nación en fideicomiso. Comprende ese único hecho y el resto de la industria del petróleo y el gas de Malasia —cómo se regula, financia, grava y reparte— encaja en su sitio.

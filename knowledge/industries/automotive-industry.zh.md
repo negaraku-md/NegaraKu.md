@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: 一排红色和黑色的第三代 Perodua Myvi 掀背车，车身带有 Perodua 标志，并排停放
+    kind: actual
+    origin: third-party
+    subject: 第三代 Perodua Myvi 掀背车，马来西亚最畅销的国产车
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: 车门和后备箱盖敞开的半组装汽车沿着工厂组装线上的传送带移动
+    kind: representative
+    origin: third-party
+    subject: 汽车沿着车厂内的汽车组装线移动
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 像马来西亚这样规模的国家，鲜有从零打造汽车的先例。拥有两个本土品牌、停满全国大多数车道的更是凤毛麟角。驱车穿过任何一座马来西亚城镇，车流就在诉说一段刻意为之的工业政策：红绿灯前的一辆第二国产车Myvi，后面跟着一辆普腾Saga，两者都源自1980年代的一场豪赌——一个发展中经济体也能制造自己的汽车。

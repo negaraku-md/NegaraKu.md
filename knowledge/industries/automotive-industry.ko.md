@@ -36,7 +36,7 @@ faq:
     a: "네. 프로톤은 2024년 12월 첫 전기차 e.MAS 7을 RM109,800부터 출시했습니다. 페로두아는 2025년 12월 '말레이시아 최초의 자체 개발 전기차'로 불리는 QV-E를 배터리 제외 RM80,000에 출시했으며, RM8억 링깃의 비용을 들여 개발했습니다."
 
 lang: "ko"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Perodua 엠블럼을 단 빨간색과 검은색의 3세대 Perodua Myvi 해치백들이 한 줄로 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아에서 가장 많이 팔린 국민차인 3세대 Perodua Myvi 해치백
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: 문과 트렁크 리드가 열린 채 부분 조립된 자동차들이 공장 조립 라인의 컨베이어를 따라 이동하고 있다
+    kind: representative
+    origin: third-party
+    subject: 자동차 공장 내부 조립 라인을 따라 이동하는 차량들
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 말레이시아만 한 규모의 나라 중 자동차를 맨바닥에서 만들려 시도한 곳은 거의 없습니다. 자국에서 키운 두 브랜드가 나라의 대부분 진입로에 주차되어 있는 곳은 더더욱 드뭅니다. 말레이시아의 어느 도시를 지나든 교통은 의도적인 산업 정책의 이야기를 들려줍니다. 신호등 앞의 페로두아 미비(Myvi), 그 뒤의 프로톤 사가(Saga) — 둘 다 개발도상 경제가 자국 자동차를 제조할 수 있다는 1980년대의 도박에서 나온 후손입니다.

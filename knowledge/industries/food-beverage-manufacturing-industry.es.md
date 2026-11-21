@@ -31,7 +31,7 @@ faq:
   - q: ¿Cómo se regula la fabricación de alimentos en Malasia?
     a: La seguridad y el etiquetado de los alimentos se rigen por la Ley de Alimentos de 1983 y sus reglas subsidiarias (como el Reglamento de Alimentos de 1985 y el Reglamento de Higiene de los Alimentos de 2009), administrados por el Ministerio de Salud. Las declaraciones halal las controla por separado el Departamento de Desarrollo Islámico de Malasia (JAKIM), que emite la certificación halal oficial.
 lang: es
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfue
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: Vista aérea de una planta de embotellado de bebidas con múltiples líneas transportadoras y maquinaria de envasado
+    kind: representative
+    origin: third-party
+    subject: Vista aérea de cintas transportadoras y maquinaria de envasado en una planta de embotellado de una bodega cerca de Geyserville, California
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: Varios grandes silos cilíndricos de grano y edificios de almacenamiento de una planta de procesamiento y logística de alimentos junto a las vías del ferrocarril
+    kind: representative
+    origin: third-party
+    subject: Grandes silos y naves de almacenamiento de una planta de procesamiento y logística de cereales en Bandel, India
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 Casi todo el mundo en Malasia toca esta industria varias veces al día: una taza de Milo en el desayuno, un paquete de fideos instantáneos en el almuerzo, una botella de agua mineral por la tarde, una tableta de chocolate hecha con cacao molido en Johor. La fabricación de alimentos y bebidas (A&B) es una de las grandes industrias más silenciosas del país: menos glamurosa que los semiconductores, pero profundamente entrelazada con la vida cotidiana, la seguridad alimentaria nacional y una creciente historia de exportación construida en torno a una idea poderosa: el halal.

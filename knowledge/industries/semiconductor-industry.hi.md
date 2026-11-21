@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -104,6 +104,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wa
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: एक पीली रोशनी वाले सेमीकंडक्टर क्लीनरूम के भीतर सफ़ेद बनी-सूट, हुड और मास्क में एक तकनीशियन दस्ताने पहने हाथ में एक गोल सिलिकॉन वेफ़र पकड़े हुए है
+    kind: representative
+    origin: third-party
+    subject: एक पीली रोशनी वाले फ़ोटोलिथोग्राफ़ी क्लीनरूम में एक गाउन पहने तकनीशियन सिलिकॉन वेफ़र पकड़े हुए
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: पूरे सफ़ेद क्लीनरूम सूट, हुड, मास्क और दस्तानों में एक तकनीशियन एक चमकीले क्लीन रूम के भीतर एक बेंच पर पॉलिश की गई धातु के पुर्ज़ों पर काम कर रहा है
+    kind: representative
+    origin: third-party
+    subject: बनी-सूट पहने एक असेंबली तकनीशियन एक क्लीन रूम के भीतर सटीक हार्डवेयर पर काम कर रहा है
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 यदि आप इसे किसी फ़ोन या लैपटॉप पर पढ़ रहे हैं, तो इस बात की वास्तविक संभावना है कि इसकी किसी एक चिप ने अपने जीवन का कुछ हिस्सा मलेशिया में बिताया हो — आविष्कार या प्रिंटिंग के रूप में नहीं, बल्कि सिलिकॉन के एक नंगे टुकड़े से एक तैयार, पैकेज की हुई घटक में बदलते हुए, जो किसी सर्किट बोर्ड पर सोल्डर करने के लिए तैयार हो। वह शांत, अनाकर्षक चरण ही वह जगह है जहाँ मलेशिया ने पूरी इलेक्ट्रॉनिक्स दुनिया में सबसे महत्वपूर्ण स्थानों में से एक बनाया है।

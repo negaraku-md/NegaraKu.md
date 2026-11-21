@@ -31,7 +31,7 @@ faq:
   - q: இத்தொழிலை யார் ஒழுங்குபடுத்தி ஊக்குவிக்கிறார்கள்?
     a: முதலீடு, வர்த்தகம் மற்றும் தொழில் அமைச்சகத்தின் (MITI) கீழுள்ள மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA), உற்பத்தி முதலீட்டை ஊக்குவித்து அங்கீகரித்து, முக்கிய வரி ஊக்கத்தொகைகளை நிர்வகிக்கிறது; MATRADE ஏற்றுமதி செயல்திறனைக் கண்காணிக்கிறது.
 lang: ta
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: ஒரு கன்வேயர் உற்பத்தி வரிசையில் சாம்பல் நிற சூரிய PV தொகுதிகளின் வரிசைகள், இரண்டு தொழிலாளர்கள் பேனல்களைப் பரிசோதிக்கிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: ஓஹியோவின் Perrysburg-இல் உள்ள First Solar ஆலையில் சப்மாட்யூல் பேக்-அவுட் வரிசையில் நகரும் முடிக்கப்பட்ட PV தொகுதிகள்
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: சிதறிய மேகங்களுடன் கூடிய நீல வானத்தின் கீழ் ஒரு பச்சை வயலில் உலோக சட்டகங்களில் பொருத்தப்பட்ட அடர் சூரிய பேனல்களின் நீண்ட வரிசை
+    kind: representative
+    origin: third-party
+    subject: நீல வானத்தின் கீழ் ஒரு புல்வெளியில் தரை-பொருத்தப்பட்ட சூரிய ஒளிமின்னழுத்த வரிசை
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 ஒரு அமெரிக்க வீட்டுச்சொந்தக்காரர் அல்லது பயன்பாட்டு நிறுவனம் ஒரு சூரிய வரிசையை நிறுவும்போது, அந்தப் பலகைகள் மலேசியாவில் செய்யப்பட்டிருக்கலாம் என்பதை சிலர் மட்டுமே உணர்கிறார்கள். ஒரு தசாப்தத்திற்கும் மேலாக அந்நாடு, அமைதியாக உலகின் மிகப்பெரிய சூரிய ஒளிமின் (PV) செல்கள் மற்றும் தொகுதிகளை உற்பத்தி செய்பவர்களில் ஒன்றாக இருந்து வருகிறது — தனது சொந்த மின்சார வலையமைப்பிற்கு அல்ல, ஏற்றுமதிக்காக. இது ஊட்ட-விலைத் தீர்வைகளின் தொழில் அல்ல, தொழிற்சாலைகளின் தொழில்.

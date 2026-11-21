@@ -31,7 +31,7 @@ faq:
   - q: Siapakah yang mengawal selia dan mempromosi industri ini?
     a: Lembaga Pembangunan Pelaburan Malaysia (MIDA), di bawah Kementerian Pelaburan, Perdagangan dan Industri (MITI), mempromosi dan meluluskan pelaburan pembuatan serta mentadbir insentif cukai utama; MATRADE menjejaki prestasi eksport.
 lang: ms
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: Barisan modul PV solar kelabu di atas barisan pengeluaran penghantar dengan dua pekerja memeriksa panel tersebut
+    kind: representative
+    origin: third-party
+    subject: Modul PV siap bergerak di sepanjang barisan pembungkusan submodul di loji First Solar, Perrysburg, Ohio
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: Satu barisan panjang panel solar gelap yang dipasang pada rangka logam di sebuah padang hijau di bawah langit biru dengan awan berselerak
+    kind: representative
+    origin: third-party
+    subject: Suatu susunan fotovoltan solar pasang-bumi di sebuah padang berumput di bawah langit biru
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 Sedikit orang menyedari bahawa apabila seorang pemilik rumah atau utiliti Amerika memasang susunan solar, panel itu mungkin sebenarnya dibuat di Malaysia. Selama lebih sedekad, negara ini secara senyap menjadi salah satu pengeluar terbesar dunia bagi sel dan modul fotovoltan (PV) solar — bukan untuk menggerakkan grid sendiri, tetapi untuk eksport. Ini ialah industri kilang, bukan tarif suap-masuk.

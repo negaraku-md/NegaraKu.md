@@ -34,7 +34,7 @@ faq:
     a: "ชื่อระดับโลกเช่น Intel, AMD, Broadcom, Bosch และ OSRAM ดำเนินงานที่นี่ เคียงข้างผู้รับจ้างผลิต (EMS) เช่น Jabil, Flex, Plexus, Sanmina และ Benchmark และบริษัทที่เติบโตในประเทศรวมถึง Inari Amertron"
 
 lang: "th"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: มือหนึ่งถือหัวแร้งบัดกรีและแหนบปลายละเอียดกำลังทำงานกับชิ้นส่วนแบบติดผิวหน้าชิ้นเล็กจิ๋วบนแผงวงจรพิมพ์สีเขียวที่เต็มไปด้วยชิปและลายวงจร
+    kind: representative
+    origin: third-party
+    subject: มือใช้แหนบปลายละเอียดและหัวแร้งซ่อมชิ้นส่วนแบบติดผิวหน้าบนแผงวงจร
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: แผงวงจรพิมพ์สีเขียวถ่ายจากด้านบนตรง ติดตั้งชิปวงจรรวมสีดำที่มีป้ายกำกับหลายตัว แพ็กเกจหน่วยความจำ และแถวของชิ้นส่วนแบบติดผิวหน้าขนาดเล็ก
+    kind: representative
+    origin: third-party
+    subject: มุมมองจากด้านบนของแผงวงจรพิมพ์อิเล็กทรอนิกส์สำหรับผู้บริโภคที่ประกอบเสร็จสมบูรณ์
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 เปิดแล็ปท็อป สมาร์ตโฟน หรือรถยนต์เกือบทุกคันที่สร้างในทศวรรษที่ผ่านมา และมีโอกาสไม่น้อยที่ชิ้นส่วนหนึ่งของมันผ่านมาเลเซีย ชิปภายในอาจถูกทดสอบและบรรจุในปีนัง (Penang); อะแดปเตอร์ไฟ ไฟแบ็คไลท์ LED หรือแผงวงจรอาจถูกประกอบในกูลิม (Kulim) มะละกา (Melaka) หรือหุบเขากลัง (Klang Valley) สำหรับประเทศที่มีประชากรราว 34.1 ล้านคน (2024, DOSM) มาเลเซียตั้งอยู่ ณ จุดที่เป็นศูนย์กลางอย่างน่าประหลาดใจในห่วงโซ่อุปทานอิเล็กทรอนิกส์ของโลก — และนั่นเกือบทั้งหมดคือเรื่องราวของอุตสาหกรรมเดียว

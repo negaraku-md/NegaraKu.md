@@ -37,7 +37,7 @@ faq:
     a: "مجلس زيت النخيل الماليزي (MPOB)، وهو هيئة نظامية تابعة لوزارة المزارع والسلع، يرخّص ويشرف على كل مرحلة من الزراعة إلى التصدير، ويدير بحث الصناعة وتطويرها."
 
 lang: "ar"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: شاحنة محمّلة بعناقيد ثمار نخيل الزيت الطازجة المحمرّة متوقفة عند بوابة مصنع زيت النخيل Apas Balung في Tawau، صباح
+    kind: actual
+    origin: third-party
+    subject: شاحنة محمّلة بعناقيد الثمار الطازجة عند مصنع زيت النخيل Apas Balung، Tawau، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: مصنع زيت نخيل بمدخنة تنفث بخاراً وسط بحر شاسع من مزارع نخيل الزيت تحت سماء غائمة في Kunak، صباح
+    kind: actual
+    origin: third-party
+    subject: مصنع زيت النخيل IOI Baturong محاط بمزرعة نخيل الزيت، مقاطعة Kunak، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 زيت النخيل هو أكثر الزيوت النباتية تداولاً في العالم، وماليزيا ثاني أكبر منتِج له — خلف إندونيسيا — تحوّل عنقوداً أحمر شائكاً من الثمار المزروعة من جوهور إلى تلال ساراواك إلى زيت طهي مكرَّر ومكوّنات صابون وديزل حيوي يُشحَن إلى أسواق عبر آسيا وأفريقيا وأوروبا. وتدعم الصناعة أكثر من 3 ملايين ماليزي بشكل مباشر وغير مباشر، منهم قرابة 500,000 من صغار الملّاك، بحسب مجلس زيت النخيل الماليزي للترويج (MPOC). وهكذا بُنيت تلك الآلة، من الشجرة إلى الناقلة.

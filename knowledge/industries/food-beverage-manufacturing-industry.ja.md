@@ -31,7 +31,7 @@ faq:
   - q: マレーシアで食品製造はどのように規制されていますか。
     a: 食品の安全性と表示は、1983年食品法（Food Act 1983）とその下位規則（1985年食品規則、2009年食品衛生規則など）が規律し、保健省が運用します。ハラルの表示は別途、マレーシア・イスラム開発局（JAKIM）が管理し、公式のハラル認証を発行します。
 lang: ja
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfue
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: 複数のコンベヤーラインと包装機械を備えた飲料ボトリング工場を上から見た様子
+    kind: representative
+    origin: third-party
+    subject: カリフォルニア州ガイザービル近郊のワイナリーのボトリング工場で、コンベヤーと包装機械を上から見た様子
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: 鉄道の線路沿いにある食品加工・物流工場の、大きな円筒形の穀物サイロ数基と貯蔵建屋
+    kind: representative
+    origin: third-party
+    subject: インド、バンデルの穀物加工・物流工場にある大きなサイロと貯蔵施設
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 マレーシアでは、ほとんど誰もが一日に何度もこの産業に触れている――朝食のMiloの一杯、昼食のインスタント麺の一袋、午後のミネラルウォーターの一本、ジョホールで磨砕されたカカオから作られた板チョコ。食品・飲料（F&B）製造は、同国の最も静かな大産業の一つだ。半導体ほど華やかではないが、日常生活、国家の食料安全保障、そして一つの強力な理念――ハラル――を軸に築かれた成長中の輸出物語に、深く織り込まれている。

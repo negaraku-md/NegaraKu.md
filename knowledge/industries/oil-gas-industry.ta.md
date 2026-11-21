@@ -38,7 +38,7 @@ faq:
     a: "2024-இல், PETRONAS RM32.0 பில்லியன் ஈவுத்தொகை உள்ளிட்ட RM72.4 பில்லியனை ஈவுத்தொகைகள், வரிகள், பண கொடுப்பனவுகள் மற்றும் பிற உறுதிமொழிகளாகப் பங்களித்தது. இது துறையில் உள்ள மற்ற ஒப்பந்ததாரர்களும் சேவை நிறுவனங்களும் செலுத்தும் வரிகளுக்கு மேலதிகமானது."
 
 lang: "ta"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Kimanis-இல் உள்ள Sabah Oil and Gas Terminal-இல், மேகமூட்டமான வானத்தை எதிர்த்து பிரகாசமான ஆரஞ்சு வாயு சுடரை வெளியேற்றும் உயரமான சிவப்பு-வெள்ளை எஃகு சுடர் கோபுரம், பின்னணியில் குழாய் அடுக்குகள் மற்றும் Crocker Range மலைத்தொடருடன்
+    kind: actual
+    origin: third-party
+    subject: சபாவின் Kimanis-இல் உள்ள Sabah Oil and Gas Terminal (SOGT)-இன் சுடர் கோபுர உச்சியில் எரியும் வாயு சுடர்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: Port Dickson அருகே ஒரு புல்வெளிக்கு அப்பால் அடிவானத்தில், மங்கலான மாலைநேர வானத்தின் கீழ் ஒரு எண்ணெய் சுத்திகரிப்பு நிலையத்தின் வடிகட்டும் கோபுரங்கள், புகைபோக்கிகள் மற்றும் சேமிப்புத் தொட்டிகள்
+    kind: actual
+    origin: third-party
+    subject: Federal Route 5-இலிருந்து திறந்தவெளி நிலத்திற்கு அப்பால் தெரியும், Negeri Sembilan-இல் Port Dickson-இன் கிழக்கே உள்ள ஒரு எண்ணெய் சுத்திகரிப்பு நிலையம்
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 மலேசிய மண்ணுக்கும் கடல் அடித்தளத்துக்கும் கீழே உள்ள ஒவ்வொரு பீப்பாய் எண்ணெயும், ஒவ்வொரு கன அடி எரிவாயுவும், சட்டப்படி, ஒரே ஒரு நிறுவனத்திற்குச் சொந்தம். நேரடியாக அரசுக்கு அல்ல, வயல்களைக் கண்டுபிடித்தவர்களுக்கு அல்ல, அவற்றைத் துளையிடும் பன்னாட்டு நிறுவனங்களுக்கும் அல்ல — மாறாக, தேசத்தின் பெட்ரோலியத்தை நம்பிக்கைப் பொறுப்பாக வைத்திருக்க உருவாக்கப்பட்ட தேசிய எண்ணெய் நிறுவனமான PETRONAS-க்கு. அந்த ஒரு உண்மையைப் புரிந்துகொண்டால், மலேசியாவின் எண்ணெய் மற்றும் எரிவாயுத் தொழிலின் மற்ற அனைத்தும் — அது எவ்வாறு ஒழுங்குபடுத்தப்படுகிறது, நிதியளிக்கப்படுகிறது, வரி விதிக்கப்படுகிறது, பங்கிடப்படுகிறது — தானாகவே தெளிவாகிவிடும்.

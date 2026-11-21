@@ -34,7 +34,7 @@ faq:
     a: "Cục Thống kê Malaysia (DOSM) công bố thống kê chế tạo hằng tháng và hằng năm cùng dữ liệu GDP. Cục Phát triển Đầu tư Malaysia (MIDA) xúc tiến và phê duyệt đầu tư chế tạo, trong khi Bộ Đầu tư, Thương mại và Công nghiệp (MITI) làm chủ NIMP 2030."
 
 lang: "vi"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: Nhiều cánh tay robot màu cam đang xếp các thùng nhựa màu vàng lên pallet trên một dây chuyền sản xuất tự động trong nhà máy
+    kind: representative
+    origin: third-party
+    subject: Các cánh tay robot công nghiệp màu cam xếp thực phẩm đóng gói lên pallet trên dây chuyền nhà máy tự động
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: Một kỹ thuật viên mặc bộ đồ bảo hộ trắng toàn thân, khẩu trang và găng tay đang làm việc trên các linh kiện kim loại chính xác trong một phòng sạch sáng lát gạch
+    kind: representative
+    origin: third-party
+    subject: Một kỹ thuật viên mặc đồ bảo hộ trắng đang lắp ráp thiết bị chính xác bên trong một phòng sạch công nghệ cao
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Nói "nhà máy Malaysia" và hầu hết mọi người hình dung một phòng sạch bán dẫn ở Penang hay một dây chuyền Proton ở Shah Alam. Những thứ đó là có thật, và chúng lớn — nhưng chúng nằm trên đỉnh một nền tảng công nghiệp rộng hơn nhiều. Vào năm 2024 toàn bộ khu vực này vận chuyển RM1.9 nghìn tỷ doanh số và giữ khoảng 2.4 triệu người có việc làm, và một lát cắt lớn của con số đó đến từ máy móc, nhựa, cao su, thiết bị y tế, hóa chất và thực phẩm trên kệ siêu thị.

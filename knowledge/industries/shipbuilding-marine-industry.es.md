@@ -31,7 +31,7 @@ faq:
   - q: ¿Por qué está la construcción naval tan ligada al petróleo y el gas en Malasia?
     a: Buena parte de la flota comercial que los astilleros malasios construyen y reparan —buques de apoyo en alta mar, buques de manipulación de anclas y embarcaciones de trabajo— existe para dar servicio a las plataformas de petróleo y gas en alta mar en aguas malasias. Cuando el gasto energético es fuerte, los pedidos aumentan; cuando el precio del petróleo cae, los astilleros afrontan un exceso de capacidad. Véase la guía relacionada sobre la industria de servicios y equipos de petróleo y gas.
 lang: es
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: Vista aérea de una gran fábrica blanca de construcción de embarcaciones en Malasia, con el casco de un buque visible en una puerta de bahía abierta
+    kind: actual
+    origin: third-party
+    subject: La fábrica de construcción de embarcaciones Grand Banks Yachts en Pasir Gudang, Johor, Malasia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: Vista aérea cenital de las grandes naves de fabricación y el astillero junto al río de un astillero malasio
+    kind: actual
+    origin: third-party
+    subject: Vista aérea del astillero Grand Banks Yachts junto a un río en Johor, Malasia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 Malasia se asienta sobre dos de las rutas marítimas más transitadas del mundo y gana buena parte de su sustento del mar; y, sin embargo, su industria de construcción y reparación naval (SBSR) es uno de los rincones más silenciosos de la economía nacional. Es real, está consolidada y es estratégicamente importante, pero también fragmentada, cíclica y dominada por astilleros relativamente pequeños. Esta guía explica qué construye la industria, dónde, qué tamaño tiene y por qué un programa naval ha pasado a eclipsar a todo el sector en el debate público.

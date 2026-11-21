@@ -31,7 +31,7 @@ faq:
   - q: การผลิตอาหารในมาเลเซียถูกกำกับดูแลอย่างไร?
     a: ความปลอดภัยและการติดฉลากอาหารกำกับดูแลโดยพระราชบัญญัติอาหาร ค.ศ. 1983 และกฎลูก (เช่น ระเบียบอาหาร ค.ศ. 1985 และระเบียบสุขอนามัยอาหาร ค.ศ. 2009) บริหารโดยกระทรวงสาธารณสุข ส่วนการกล่าวอ้างฮาลาลควบคุมแยกต่างหากโดยกรมพัฒนาอิสลามแห่งมาเลเซีย (JAKIM) ซึ่งออกใบรับรองฮาลาลอย่างเป็นทางการ
 lang: th
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfue
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: มุมมองจากด้านบนของโรงงานบรรจุเครื่องดื่มขวดที่มีสายพานลำเลียงหลายสายและเครื่องจักรบรรจุหีบห่อ
+    kind: representative
+    origin: third-party
+    subject: มุมมองจากด้านบนของสายพานลำเลียงและเครื่องจักรบรรจุหีบห่อในโรงงานบรรจุขวดไวน์ใกล้เมือง Geyserville รัฐแคลิฟอร์เนีย
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: ไซโลเก็บธัญพืชทรงกระบอกขนาดใหญ่หลายอันและอาคารจัดเก็บของโรงงานแปรรูปอาหารและโลจิสติกส์ข้างรางรถไฟ
+    kind: representative
+    origin: third-party
+    subject: ไซโลขนาดใหญ่และโกดังจัดเก็บของโรงงานแปรรูปและโลจิสติกส์ธัญพืชอาหารที่เมือง Bandel ประเทศอินเดีย
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 เกือบทุกคนในมาเลเซียสัมผัสอุตสาหกรรมนี้หลายครั้งต่อวัน — Milo สักแก้วตอนเช้า บะหมี่กึ่งสำเร็จรูปสักซองตอนกลางวัน น้ำแร่สักขวดตอนบ่าย ช็อกโกแลตสักแท่งที่ทำจากโกโก้ที่บดในยะโฮร์ การผลิตอาหารและเครื่องดื่ม (F&B) เป็นหนึ่งในอุตสาหกรรมใหญ่ที่เงียบที่สุดของประเทศ: ดูหวือหวาน้อยกว่าเซมิคอนดักเตอร์ แต่ทอแน่นอยู่ในชีวิตประจำวัน ความมั่นคงทางอาหารของชาติ และเรื่องราวการส่งออกที่เติบโตขึ้นรอบความคิดอันทรงพลังหนึ่งเดียว — ฮาลาล

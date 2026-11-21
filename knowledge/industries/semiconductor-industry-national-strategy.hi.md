@@ -36,7 +36,7 @@ faq:
     a: "NSS 60,000 उच्च-कुशल मलेशियाई इंजीनियरों को प्रशिक्षित और कौशल-उन्नत करना लक्षित करती है — लगभग 30,000 शिक्षा मंत्रालय के माध्यम से विकसित और लगभग 30,000 तकनीकी एवं व्यावसायिक (TVET) प्रतिभाएँ अन्य मंत्रालयों से।"
 
 lang: "hi"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: ऊपर से देखा गया एक गोल 300-मिलीमीटर सिलिकॉन वेफ़र, जिसकी सतह पर इंद्रधनुषी विवर्तन रंगों के साथ आयताकार चिप डाई का नियमित ग्रिड फैला हुआ है
+    kind: representative
+    origin: third-party
+    subject: चिप डाई के ग्रिड से पैटर्न किया गया 12-इंच (300 मिमी) सिलिकॉन वेफ़र
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: एक स्पिन-कोटर पर घूमता एक सिलिकॉन वेफ़र जो गहरे-लाल फ़ोटोरेसिस्ट के चमकदार पोखर से ढका है, जिसमें से रेसिस्ट महीन फुहार में बाहर छिटक रहा है
+    kind: representative
+    origin: third-party
+    subject: चिप निर्माण के दौरान फ़ोटोरेसिस्ट से स्पिन-कोट किया जा रहा एक सिलिकॉन वेफ़र
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
 ---
 
 पृथ्वी पर लगभग हर फ़ोन, लैपटॉप और कार में एक चिप होती है जिसने अपने जीवन का कुछ हिस्सा मलेशिया में बिताया — पेनांग या क्लांग घाटी की किसी फ़ैक्टरी में पैकेज, परीक्षण और शिप किया गया। फिर भी पचास वर्षों तक देश ने उस काम का सबसे कम चमकीला, सबसे कम-मार्जिन वाला हिस्सा किया: बैक एंड। राष्ट्रीय अर्धचालक रणनीति मलेशिया का यह बदलने का प्रयास है कि वह चिप का कौन-सा हिस्सा अपने पास रखता है।

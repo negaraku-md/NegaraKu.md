@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c50114eafce2228c"
+sourceContentHash: "dc1cda0b30f573db"
 
 status: "archived"
 aiAssisted: true
@@ -78,6 +78,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(491
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the PETRONAS Twin Towers, the national oil company''s headquarters, rising over the Kuala Lumpur skyline at dusk'
+
+images:
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-1.webp
+    alt: ターコイズグリーンの前庭キャノピーと給油機を備えたPETRONASのガソリンスタンドと、その傍らにグリーンのPETRONASの雫型ロゴとPrimax 97、Primax 95、Dynamic Dieselの価格を表示した高い料金ボード。周囲はオイルパームの木々
+    kind: actual
+    origin: third-party
+    subject: ジョホール州ラビスにあるPETRONASブランドのガソリンスタンドで、前庭キャノピーと燃料価格ボードが見える様子
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-2.webp
+    alt: 澄んだ青空の下、PETRONAS Twin Towersの2つのリブ状ファサードの間の隙間に架かる、ガラスと鋼鉄製の二層式スカイブリッジを、斜めの支柱で支えられた様子を接写したもの
+    kind: actual
+    origin: third-party
+    subject: 澄んだ空を背景に接写した、2棟のPETRONAS Twin Towersを結ぶ二層式スカイブリッジ
+    credit: Andy Mitchell / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skybridge_between_Petronas_Towers,_Kuala_Lumpur_(4447656063).jpg
 ---
 
 マレーシア国内のどこで生産された石油の一バレルも、天然ガスの一立方フィートも、法律上はすべて一つの会社に帰属する——そしてその会社は、連邦政府が毎年受け取る中でも最大級の一枚の小切手を差し出している。

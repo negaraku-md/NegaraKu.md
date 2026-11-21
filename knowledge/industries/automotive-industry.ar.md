@@ -36,7 +36,7 @@ faq:
     a: "نعم. أطلقت Proton سيارتها e.MAS 7 في ديسمبر 2024، أولى سياراتها الكهربائية، بسعر يبدأ من RM109,800. وأطلقت Perodua سيارتها QV-E — الموصوفة بأنها أولى سيارات ماليزيا الكهربائية محلية الصنع — في ديسمبر 2025 بسعر RM80,000 دون احتساب البطارية، طُوّرت بتكلفة RM800 مليون."
 
 lang: "ar"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: سيارات Perodua Myvi هاتشباك من الجيل الثالث بالأحمر والأسود، تحمل شعار Perodua، مصطفّة في صف
+    kind: actual
+    origin: third-party
+    subject: سيارات Perodua Myvi هاتشباك من الجيل الثالث، السيارة الوطنية الأكثر مبيعاً في ماليزيا
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: سيارات مجمّعة جزئياً بأبواب وأغطية صناديق مفتوحة تتحرك على ناقل في خط تجميع بمصنع
+    kind: representative
+    origin: third-party
+    subject: سيارات تتحرك على خط تجميع للسيارات داخل مصنع مركبات
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 قليلة هي البلدان بحجم ماليزيا التي حاولت يومًا بناء سيارة من الصفر. وأقل منها عددًا من يملك علامتين محليتي الصنع متوقفتين في معظم مرائب البلاد. قُد سيارتك عبر أي مدينة ماليزية، وستروي لك حركة المرور قصة سياسة صناعية مقصودة: سيارة Perodua Myvi عند الإشارة، وخلفها Proton Saga، كلتاهما من سلالة رهان ثمانينيات القرن الماضي بأن اقتصادًا ناميًا قادر على تصنيع سياراته بنفسه.

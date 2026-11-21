@@ -31,7 +31,7 @@ faq:
   - q: "هل ماليزيا قوية في معادن غير الصلب؟"
     a: "نعم. ففي المعادن غير الحديدية، ماليزيا تنافسية عالميًا. فـPress Metal، ومقرّها ساراواك، أكبر منتج ألمنيوم متكامل في جنوب شرق آسيا، وMalaysia Smelting Corporation من كبار منتجي القصدير المكرَّر في العالم، إرثًا من تاريخ تعدين القصدير الطويل في البلاد."
 lang: ar
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: فرنا صهر عاليان للصلب مع مجارٍ هوائية ومدخنة تنفث بخاراً أبيض أمام سماء زرقاء صافية
+    kind: representative
+    origin: third-party
+    subject: أفران الصهر في مصانع Scunthorpe Steelworks، إنجلترا
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: داخل مسبك صلب، فرن قوس كهربائي كبير مع رافعة جسرية علوية وشبكة أنابيب وعمّال على ممرات فولاذية
+    kind: representative
+    origin: third-party
+    subject: داخل مسبك فرن القوس الكهربائي في مصنع ProfilARBED للصلب في Differdange، لوكسمبورغ
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
 ---
 
 خلف كل مبنى وجسر وطريق سريع في ماليزيا تقريبًا تجلس صناعة أهدأ تصنع المعدن الذي يسند ذلك كلّه. فالحديد والصلب نادرًا ما يتصدّران العناوين كأشباه الموصّلات أو زيت النخيل، ومع ذلك فهما أساسيّان: قضيب التسليح داخل عمود خرساني، والسلك في كابل، والصفيحة في باب سيارة. وتصنع ماليزيا كثيرًا من هذا بنفسها — وفي معادن قليلة هي من الطراز العالمي حقًا. لكن نصف القصة الفولاذي هو أيضًا أحد أكثر قطاعات التصنيع اضطرابًا في البلاد، يحدّده خللٌ عنيد بين قدر ما تستطيع إنتاجه وقدر ما تحتاجه السوق فعلًا.

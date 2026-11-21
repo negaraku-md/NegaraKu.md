@@ -36,7 +36,7 @@ faq:
     a: "NSS 60,000 உயர்-திறன் மலேசிய பொறியாளர்களைப் பயிற்றுவித்து திறன் மேம்படுத்துவதை இலக்காகக் கொண்டுள்ளது — சுமார் 30,000 பேர் கல்வி அமைச்சு (Ministry of Education) வழியாக வளர்க்கப்படுகிறார்கள், மற்றும் சுமார் 30,000 தொழில்நுட்ப மற்றும் தொழிற்கல்வி (TVET) திறமைகள் மற்ற அமைச்சுகளிலிருந்து வருகின்றன."
 
 lang: "ta"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: மேலிருந்து பார்க்கப்பட்ட ஒரு வட்ட 300-மில்லிமீட்டர் சிலிக்கான் வேஃபர், அதன் மேற்பரப்பு முழுவதும் வானவில் ஒளிவிளைவு நிறங்களுடன் செவ்வக சில்லு டைகளின் ஒழுங்கான கட்டத்தால் மூடப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: சில்லு டைகளின் கட்டத்துடன் வடிவமைக்கப்பட்ட ஒரு 12-அங்குல (300 மிமீ) சிலிக்கான் வேஃபர்
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: ஒரு ஸ்பின்-கோட்டரில் சுழலும் சிலிக்கான் வேஃபர், அடர் சிவப்பு ஃபோட்டோரெசிஸ்ட்டின் பளபளப்பான குளத்தால் மூடப்பட்டு, நுண் தெளிப்பாக ரெசிஸ்ட் வெளியே வீசப்படுகிறது
+    kind: representative
+    origin: third-party
+    subject: சில்லு உற்பத்தியின்போது ஃபோட்டோரெசிஸ்ட்டால் ஸ்பின்-பூசப்படும் ஒரு சிலிக்கான் வேஃபர்
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
 ---
 
 பூமியில் உள்ள கிட்டத்தட்ட ஒவ்வொரு தொலைபேசி, மடிக்கணினி மற்றும் காரிலும் மலேசியாவில் தன் வாழ்நாளின் ஒரு பகுதியைக் கழித்த ஒரு சிப் உள்ளது — Penang அல்லது Klang Valley-இல் உள்ள ஒரு தொழிற்சாலையில் பேக்கேஜ் செய்யப்பட்டு, சோதிக்கப்பட்டு, அனுப்பப்பட்டது. ஆயினும் ஐம்பது ஆண்டுகளாக இந்நாடு அந்த வேலையின் மிகக் குறைந்த கவர்ச்சிகரமான, மிகக் குறைந்த லாப வரம்பு கொண்ட பகுதியையே செய்து வந்தது: பின்-முனை (back end). National Semiconductor Strategy என்பது சிப்பின் எந்தப் பகுதியைத் தான் சொந்தமாக்குகிறது என்பதை மாற்றுவதற்கான மலேசியாவின் முயற்சி.

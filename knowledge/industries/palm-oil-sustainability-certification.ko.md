@@ -31,7 +31,7 @@ faq:
     a: "두 차례 연기 후, 대·중 사업자에게는 2026년 12월 30일부터, 미소·소기업에게는 2027년 6월 30일부터 적용됩니다. 삼림 파괴 기준일은 2020년 12월 31일입니다."
 
 lang: "ko"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mers
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: 사바주 키마니스에서 장화를 신은 두 농장 작업자가 기름야자 옆에 서 있고, 한 명은 수확용 낫에 갓 자른 과방을 들고 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 키마니스의 기름야자 농장에서 수확한 생과방을 든 농장 작업자들
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: 사바주 숭아이망기스의 농장 묘포에서 검은 폴리백에 심겨 가지런히 줄지어 자라는 어린 기름야자 묘목들
+    kind: actual
+    origin: third-party
+    subject: 사바주 숭아이망기스의 상업용 묘포에서 폴리백에 기른 기름야자 묘목
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 이제 말레이시아 팜유 선적 한 건은 한꺼번에 세 개의 서로 다른 규칙집에 답해야 합니다. 즉 자국의 의무적 국가 제도, 이사회의 자발적 구매자 클럽, 그리고 항구에서 그것을 막을 수 있는 유럽의 삼림 파괴 법입니다. 2024년 첫 10개월만으로 팜유와 팜 기반 제품 2,230만 톤을 실어 보내며 RM893.9억 링깃을 번 산업에게, 서류는 더 이상 형식이 아닙니다. 그것은 시장 접근입니다.

@@ -37,7 +37,7 @@ faq:
     a: "La Junta de Aceite de Palma de Malasia (MPOB), un organismo estatutario dependiente del Ministerio de Plantaciones y Materias Primas, concede licencias y supervisa cada etapa, desde la siembra hasta la exportación, y dirige la investigación y el desarrollo de la industria."
 
 lang: "es"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: Un camión cargado con racimos de fruta fresca rojiza de palma aceitera estacionado en la entrada de la planta de aceite de palma Apas Balung en Tawau, Sabah
+    kind: actual
+    origin: third-party
+    subject: Camión cargado con racimos de fruta fresca en la planta de aceite de palma Apas Balung, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: Una planta de aceite de palma con una chimenea humeante en medio de un vasto mar de plantación de palma aceitera bajo un cielo nublado en Kunak, Sabah
+    kind: actual
+    origin: third-party
+    subject: Planta de aceite de palma IOI Baturong rodeada de plantación de palma aceitera, distrito de Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 El aceite de palma es el aceite vegetal más comercializado del mundo, y Malasia es su segundo mayor productor —por detrás de Indonesia—, convirtiendo un racimo espinoso de fruta roja cultivado desde Johor hasta las colinas de Sarawak en aceite de cocina refinado, ingredientes para jabón y biodiésel que se envían a mercados de toda Asia, África y Europa. La industria sostiene a más de 3 millones de malasios de forma directa e indirecta, incluidos casi 500,000 pequeños agricultores, según el Consejo del Aceite de Palma de Malasia (MPOC). Así es como está construida esa maquinaria, del árbol al buque cisterna.

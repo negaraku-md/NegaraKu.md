@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 
 status: "published"
 aiAssisted: true
@@ -115,6 +115,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Peroduaのバッジを付けた赤と黒の第3世代Perodua Myviハッチバックが一列に駐車されている様子
+    kind: actual
+    origin: third-party
+    subject: マレーシアで最も売れている国民車、第3世代Perodua Myviハッチバック
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: ドアとトランクリッドを開けた組立途中の車が、工場の組立ラインのコンベヤーに沿って流れている様子
+    kind: representative
+    origin: third-party
+    subject: 車両工場内の自動車組立ラインに沿って流れる車
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 マレーシアほどの規模の国で、ゼロから自動車を作ろうと試みた例はほとんどない。まして、国内のほとんどの家庭の車道に自前ブランドの車が2台停まっている国となると、さらに数少ない。マレーシアのどの町を車で走っても、交通の様子は意図的な産業政策の物語を語っている——信号待ちのPerodua Myvi、その後ろに続くProton Saga。両者はいずれも、発展途上経済が自国で自動車を製造できるという1980年代の賭けに端を発している。

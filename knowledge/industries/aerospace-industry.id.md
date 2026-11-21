@@ -34,7 +34,7 @@ faq:
     a: "Keduanya, tetapi pusat gravitasi aktivitasnya adalah layanan. MRO dan manufaktur komponen mendominasi; Malaysia membangun struktur, komposit, dan bagian mesin serta memelihara pesawat, tetapi memiliki kemampuan desain dan pengembangan pada tingkat pesawat yang lebih lemah."
 
 lang: "id"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: Badan pesawat berlapis cat dasar hijau berjajar dengan para pekerja di dalam pabrik perakitan pesawat yang sangat luas
+    kind: representative
+    origin: third-party
+    subject: Badan pesawat di jalur perakitan dalam sebuah pabrik dirgantara besar
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: Dua teknisi perawatan pesawat mengerjakan mesin dan baling-baling empat bilah sebuah pesawat kecil di dalam hanggar
+    kind: representative
+    origin: third-party
+    subject: Teknisi menyervis mesin dan baling-baling pesawat di hanggar perawatan
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 Sebuah pesawat mungkin dibangun di Toulouse atau Seattle, tetapi pada suatu titik dalam masa pakainya selama tiga puluh tahun, mesinnya perlu dibuka, strukturnya diperiksa, dan avioniknya diperbarui — dan semakin banyak, Malaysia ingin pekerjaan itu dilakukan di Subang atau Senai. Naluri itu, lebih dari lini perakitan mana pun, menjelaskan bentuk sektor kedirgantaraan negara.

@@ -34,7 +34,7 @@ faq:
     a: "El Departamento de Estadística de Malasia (DOSM) publica las estadísticas manufactureras mensuales y anuales y los datos del PIB. La Autoridad de Desarrollo de Inversiones de Malasia (MIDA) promueve y aprueba la inversión manufacturera, mientras que el Ministerio de Inversión, Comercio e Industria (MITI) es el titular del NIMP 2030."
 
 lang: "es"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: Varios brazos robóticos naranjas paletizando cajas amarillas en una línea de producción automatizada en una fábrica
+    kind: representative
+    origin: third-party
+    subject: Brazos de robots industriales naranjas paletizando alimentos envasados en una línea de fábrica automatizada
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: Un técnico con traje integral blanco, mascarilla y guantes trabaja en componentes metálicos de precisión en una sala limpia luminosa y alicatada
+    kind: representative
+    origin: third-party
+    subject: Un técnico con mono blanco ensamblando equipos de precisión dentro de una sala limpia de alta tecnología
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Di «fábrica malasia» y la mayoría de la gente imagina una sala limpia de semiconductores en Penang o una línea de Proton en Shah Alam. Son reales y son grandes, pero se asientan sobre una base industrial mucho más amplia. En 2024 el conjunto del sector movió RM1.9 billones en ventas y mantuvo empleadas a unos 2.4 millones de personas, y una buena porción de ello provino de la maquinaria, los plásticos, el caucho, los dispositivos médicos, los productos químicos y los alimentos en los estantes de los supermercados.

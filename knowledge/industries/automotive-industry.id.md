@@ -36,7 +36,7 @@ faq:
     a: "Ya. Proton meluncurkan e.MAS 7 pada Desember 2024, EV pertamanya, dihargai dari RM109,800. Perodua meluncurkan QV-E — digambarkan sebagai EV buatan lokal pertama Malaysia — pada Desember 2025 pada harga RM80,000 tidak termasuk baterai, dikembangkan dengan biaya RM800 juta."
 
 lang: "id"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Mobil hatchback Perodua Myvi generasi ketiga berwarna merah dan hitam, berlogo Perodua, terparkir dalam satu barisan
+    kind: actual
+    origin: third-party
+    subject: Hatchback Perodua Myvi generasi ketiga, mobil nasional terlaris Malaysia
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: Mobil yang dirakit sebagian dengan pintu dan tutup bagasi terbuka bergerak di sepanjang konveyor pada jalur perakitan pabrik
+    kind: representative
+    origin: third-party
+    subject: Mobil bergerak di sepanjang jalur perakitan otomotif di dalam pabrik kendaraan
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 Sedikit sekali negara sebesar Malaysia yang pernah mencoba membangun mobil dari awal. Lebih sedikit lagi yang memiliki dua merek buatan sendiri terparkir di kebanyakan halaman rumah negara. Berkendara melalui kota mana pun di Malaysia dan lalu lintasnya menceritakan kisah kebijakan industri yang sengaja dirancang: sebuah Perodua Myvi di lampu lalu lintas, sebuah Proton Saga di belakangnya, keduanya berketurunan dari taruhan 1980-an bahwa sebuah ekonomi berkembang mampu memproduksi otomobilnya sendiri.

@@ -34,7 +34,7 @@ faq:
     a: "กรมสถิติมาเลเซีย (DOSM) เผยแพร่สถิติการผลิตรายเดือนและรายปีและข้อมูล GDP สำนักงานพัฒนาการลงทุนมาเลเซีย (MIDA) ส่งเสริมและอนุมัติการลงทุนการผลิต ขณะที่กระทรวงการลงทุน การค้า และอุตสาหกรรม (MITI) เป็นเจ้าของ NIMP 2030"
 
 lang: "th"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: แขนหุ่นยนต์สีส้มหลายตัวกำลังจัดเรียงลังสีเหลืองบนพาเลทบนสายการผลิตอัตโนมัติในโรงงาน
+    kind: representative
+    origin: third-party
+    subject: แขนหุ่นยนต์อุตสาหกรรมสีส้มจัดเรียงอาหารบรรจุหีบห่อบนพาเลทบนสายการผลิตอัตโนมัติในโรงงาน
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: ช่างสวมชุดคลุมเต็มตัว หน้ากาก และถุงมือสีขาว กำลังทำงานกับชิ้นส่วนโลหะที่มีความแม่นยำสูงในห้องสะอาดปูกระเบื้องที่สว่าง
+    kind: representative
+    origin: third-party
+    subject: ช่างสวมชุดคลุมเต็มตัวสีขาวประกอบอุปกรณ์ที่มีความแม่นยำสูงภายในห้องสะอาดไฮเทค
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 พูดว่า "โรงงานมาเลเซีย" แล้วคนส่วนใหญ่นึกภาพห้องปลอดฝุ่นเซมิคอนดักเตอร์ในปีนัง (Penang) หรือสายการผลิต Proton ในชาห์อาลัม (Shah Alam) นั่นเป็นเรื่องจริงและใหญ่ — แต่มันตั้งอยู่บนฐานอุตสาหกรรมที่กว้างกว่ามาก ในปี 2024 ทั้งภาคขับเคลื่อนยอดขาย RM1.9 ล้านล้านและรักษาคนราว 2.4 ล้านคนไว้ในการทำงาน และส่วนใหญ่ของนั้นมาจากเครื่องจักร พลาสติก ยาง เครื่องมือแพทย์ เคมีภัณฑ์ และอาหารบนชั้นวางซูเปอร์มาร์เก็ต

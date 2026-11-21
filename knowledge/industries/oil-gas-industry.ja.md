@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: キマニスのSabah Oil and Gas Terminalで、曇り空を背景に鮮やかなオレンジ色のガス炎を噴き出す赤白の鋼鉄製フレアスタックと、その奥に広がるパイプラックとCrockerRange（クロッカー山脈）
+    kind: actual
+    origin: third-party
+    subject: サバ州キマニスのSabah Oil and Gas Terminal（SOGT）のフレアスタック頂部で燃えるガスフレア
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: かすんだ夕暮れの空の下、ポートディクソン近郊の草地の向こうの地平線に見える製油所の蒸留塔、煙突、貯蔵タンク
+    kind: actual
+    origin: third-party
+    subject: ヌグリ・スンビラン州ポートディクソン東方の製油所を、連邦道5号線沿いの空き地越しに見た様子
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 マレーシアの土地と海底の下に眠る石油の一滴、天然ガスの一立方フィートに至るまで、法律上はすべて一つの会社に帰属する。国家が直接ではなく、油田の発見者でもなく、それを掘削する多国籍企業でもない——国家の石油を信託として保管するために設立された国営石油会社、Petronasである。この一点を理解すれば、マレーシアの石油・ガス産業の残りの部分——それがどのように規制され、資金調達され、課税され、分配されるか——は自然と腑に落ちる。

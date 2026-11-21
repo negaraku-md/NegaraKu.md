@@ -36,7 +36,7 @@ faq:
     a: "ใช่ Proton เปิดตัว e.MAS 7 ในเดือน December 2024 ซึ่งเป็น EV คันแรก ราคาเริ่มต้น RM109,800 Perodua เปิดตัว QV-E — ที่ระบุว่าเป็น EV ที่พัฒนาในประเทศคันแรกของมาเลเซีย — ในเดือน December 2025 ราคา RM80,000 ไม่รวมแบตเตอรี่ พัฒนาด้วยต้นทุน RM800 ล้าน"
 
 lang: "th"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: รถ Perodua Myvi รุ่นที่สามแบบแฮตช์แบ็กสีแดงและสีดำ ติดตราสัญลักษณ์ Perodua จอดเรียงเป็นแถว
+    kind: actual
+    origin: third-party
+    subject: รถ Perodua Myvi รุ่นที่สามแบบแฮตช์แบ็ก รถยนต์แห่งชาติที่ขายดีที่สุดของมาเลเซีย
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: รถยนต์ที่ประกอบเสร็จบางส่วน เปิดประตูและฝากระโปรงท้าย เคลื่อนไปตามสายพานลำเลียงบนสายการประกอบในโรงงาน
+    kind: representative
+    origin: third-party
+    subject: รถยนต์เคลื่อนไปตามสายการประกอบยานยนต์ภายในโรงงานผลิตรถยนต์
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 มีไม่กี่ประเทศที่มีขนาดเท่ามาเลเซียเคยพยายามสร้างรถยนต์ขึ้นมาจากศูนย์ และยิ่งน้อยกว่านั้นที่มีแบรนด์ที่เติบโตในประเทศสองแบรนด์จอดอยู่ในลานจอดรถส่วนใหญ่ของชาติ ขับผ่านเมืองใด ๆ ในมาเลเซีย การจราจรบอกเล่าเรื่องราวของนโยบายอุตสาหกรรมที่จงใจ: Perodua Myvi ที่ไฟจราจร Proton Saga อยู่ข้างหลัง ทั้งคู่สืบเชื้อสายมาจากการพนันในทศวรรษ 1980 ว่าเศรษฐกิจกำลังพัฒนาสามารถผลิตรถยนต์ของตนเองได้

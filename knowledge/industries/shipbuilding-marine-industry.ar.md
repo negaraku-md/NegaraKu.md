@@ -31,7 +31,7 @@ faq:
   - q: "لماذا يرتبط بناء السفن ارتباطًا وثيقًا بالنفط والغاز في ماليزيا؟"
     a: "كثير من الأسطول التجاري الذي تبنيه الأحواض الماليزية وتصلحه — سفن الدعم البحري وسفن الإرساء وقوارب العمل — موجودٌ لخدمة منصّات النفط والغاز البحرية في المياه الماليزية. فحين يقوى الإنفاق على الطاقة، ترتفع الطلبات؛ وحين يهبط سعر النفط، تواجه الأحواض فائض طاقة. راجع الدليل ذا الصلة عن صناعة خدمات ومعدّات النفط والغاز."
 lang: ar
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: منظر جوي لمصنع كبير أبيض لبناء القوارب في ماليزيا، مع ظهور هيكل سفينة عند باب خليج مفتوح
+    kind: actual
+    origin: third-party
+    subject: مصنع Grand Banks Yachts لبناء القوارب في Pasir Gudang، جوهور، ماليزيا
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: منظر جوي علوي لقاعات التصنيع الكبيرة وساحة حوض بناء سفن ماليزي على ضفة نهر
+    kind: actual
+    origin: third-party
+    subject: منظر علوي لحوض بناء السفن Grand Banks Yachts بجانب نهر في جوهور، ماليزيا
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 تجلس ماليزيا على اثنين من أكثر الممرّات البحرية ازدحامًا في العالم وتكسب جزءًا كبيرًا من رزقها من البحر — ومع ذلك فإن صناعة بناء السفن وإصلاحها (SBSR) لديها أحد أهدأ أركان الاقتصاد الوطني. وهي حقيقية وراسخة منذ زمن ومهمة استراتيجيًا، لكنها أيضًا مجزّأة ودورية ويهيمن عليها أحواض صغيرة نسبيًا. يشرح هذا الدليل ما تبنيه الصناعة، وأين، وما حجمها، ولماذا جاء برنامج حربي واحد ليُظلّل القطاع بأكمله في النقاش العام.

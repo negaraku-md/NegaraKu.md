@@ -34,7 +34,7 @@ faq:
     a: "मलेशिया सांख्यिकी विभाग (DOSM) मासिक और वार्षिक विनिर्माण सांख्यिकी और GDP डेटा प्रकाशित करता है। मलेशियाई निवेश विकास प्राधिकरण (MIDA) विनिर्माण निवेश को बढ़ावा देता और मंज़ूरी देता है, जबकि निवेश, व्यापार और उद्योग मंत्रालय (MITI) NIMP 2030 का स्वामी है।"
 
 lang: "hi"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: एक फैक्ट्री में स्वचालित उत्पादन लाइन पर पीले क्रेट को पैलेटाइज़ करती कई नारंगी रोबोटिक भुजाएँ
+    kind: representative
+    origin: third-party
+    subject: एक स्वचालित फैक्ट्री लाइन पर पैक किए गए खाद्य पदार्थ को पैलेटाइज़ करती नारंगी औद्योगिक रोबोट भुजाएँ
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: सफ़ेद पूरे शरीर वाले सूट, मास्क और दस्तानों में एक तकनीशियन एक चमकीले टाइल वाले क्लीन रूम में सटीक धातु के पुर्ज़ों पर काम कर रहा है
+    kind: representative
+    origin: third-party
+    subject: सफ़ेद कवरऑल में एक तकनीशियन एक हाई-टेक क्लीन रूम के भीतर सटीक उपकरण असेंबल कर रहा है
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 "मलेशियाई कारख़ाना" कहिए और अधिकांश लोग Penang में एक सेमीकंडक्टर क्लीनरूम या Shah Alam में एक Proton लाइन की कल्पना करते हैं। वे वास्तविक हैं, और बड़े हैं — पर वे एक कहीं व्यापक औद्योगिक आधार के ऊपर बैठते हैं। 2024 में पूरे क्षेत्र ने RM1.9 ट्रिलियन की बिक्री आगे बढ़ाई और लगभग 2.4 मिलियन लोगों को काम में रखा, और उसका एक बड़ा हिस्सा मशीनरी, प्लास्टिक, रबर, चिकित्सा उपकरण, रसायन और सुपरमार्केट की अलमारियों पर मौजूद खाद्य से आया।

@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया में खाद्य विनिर्माण को कैसे विनियमित किया जाता है?
     a: खाद्य सुरक्षा और लेबलिंग Food Act 1983 और इसके सहायक नियमों (जैसे Food Regulations 1985 और Food Hygiene Regulations 2009) द्वारा शासित हैं, जो स्वास्थ्य मंत्रालय द्वारा प्रशासित हैं। हलाल दावे अलग से Department of Islamic Development Malaysia (JAKIM) द्वारा नियंत्रित हैं, जो आधिकारिक हलाल प्रमाणन जारी करता है।
 lang: hi
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfue
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: एक पेय-बोतलबंदी संयंत्र का ऊपर से दृश्य, जिसमें कई कन्वेयर लाइनें और पैकेजिंग मशीनरी हैं
+    kind: representative
+    origin: third-party
+    subject: Geyserville, कैलिफ़ोर्निया के पास एक वाइनरी बॉटलिंग संयंत्र में कन्वेयर और पैकेजिंग मशीनरी का ऊपर से दृश्य
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: रेलवे पटरियों के किनारे एक खाद्य प्रसंस्करण और लॉजिस्टिक्स संयंत्र के कई बड़े बेलनाकार अनाज साइलो और भंडारण भवन
+    kind: representative
+    origin: third-party
+    subject: Bandel, भारत में एक खाद्यान्न प्रसंस्करण और लॉजिस्टिक्स संयंत्र के बड़े साइलो और भंडारण हॉल
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 मलेशिया में लगभग हर कोई दिन में कई बार इस उद्योग को छूता है — नाश्ते में Milo का एक कप, दोपहर के भोजन में इंस्टेंट नूडल्स का एक पैकेट, दोपहर में खनिज पानी की एक बोतल, जोहोर में पिसे हुए कोको से बनी चॉकलेट का एक बार। खाद्य एवं पेय (F&B) विनिर्माण देश के सबसे शांत बड़े उद्योगों में से एक है: सेमीकंडक्टर से कम आकर्षक, लेकिन दैनिक जीवन, राष्ट्रीय खाद्य सुरक्षा और एक शक्तिशाली विचार — हलाल — के इर्द-गिर्द बनी एक बढ़ती निर्यात कहानी में गहराई से बुना हुआ।

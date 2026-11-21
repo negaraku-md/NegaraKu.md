@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -104,6 +104,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wa
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: 흰색 방진복, 두건, 마스크를 착용한 기술자가 노란 조명이 켜진 반도체 클린룸 안에서 장갑 낀 손으로 둥근 실리콘 웨이퍼를 들고 있다
+    kind: representative
+    origin: third-party
+    subject: 노란 조명의 포토리소그래피 클린룸에서 방진복을 입고 실리콘 웨이퍼를 든 기술자
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: 흰색 전신 방진복, 두건, 마스크, 장갑을 완전히 착용한 기술자가 밝은 클린룸 안의 작업대에서 연마된 금속 부품을 작업하고 있다
+    kind: representative
+    origin: third-party
+    subject: 클린룸 내부에서 방진복을 입고 정밀 부품을 작업하는 조립 기술자
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 지금 이 글을 휴대폰이나 노트북으로 읽고 있다면, 그 기기의 칩 중 하나가 생애의 일부를 말레이시아에서 보냈을 가능성이 충분히 있습니다 — 발명되거나 인쇄된 것이 아니라, 맨 실리콘 조각에서 회로 기판에 납땜할 수 있는 완성된 패키지 부품으로 바뀐 곳으로서 말입니다. 그 조용하고 화려하지 않은 단계가 바로 말레이시아가 전체 전자 세계에서 가장 중대한 위치 중 하나를 구축한 지점입니다.

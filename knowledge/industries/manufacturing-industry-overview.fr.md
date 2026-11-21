@@ -34,7 +34,7 @@ faq:
     a: "Le Département des statistiques de la Malaisie (DOSM) publie les statistiques manufacturières mensuelles et annuelles et les données du PIB. L'Autorité malaisienne de développement des investissements (MIDA) promeut et approuve l'investissement manufacturier, tandis que le ministère de l'Investissement, du Commerce et de l'Industrie (MITI) est le dépositaire du NIMP 2030."
 
 lang: "fr"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: Plusieurs bras robotisés orange palettisant des caisses jaunes sur une ligne de production automatisée dans une usine
+    kind: representative
+    origin: third-party
+    subject: Bras robotisés industriels orange palettisant des produits alimentaires conditionnés sur une ligne d'usine automatisée
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: Un technicien en combinaison intégrale blanche, masque et gants travaille sur des composants métalliques de précision dans une salle blanche carrelée et lumineuse
+    kind: representative
+    origin: third-party
+    subject: Un technicien en combinaison blanche assemblant un équipement de précision dans une salle blanche de haute technologie
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Dites « usine malaisienne » et la plupart des gens imaginent une salle blanche de semi-conducteurs à Penang ou une ligne Proton à Shah Alam. Elles sont réelles, et elles sont grandes — mais elles reposent sur une base industrielle bien plus large. En 2024, l'ensemble du secteur a réalisé RM1.9 billion de ventes et a maintenu environ 2.4 millions de personnes au travail, et une bonne part de cela provenait des machines, des plastiques, du caoutchouc, des dispositifs médicaux, des produits chimiques et des aliments sur les rayons des supermarchés.

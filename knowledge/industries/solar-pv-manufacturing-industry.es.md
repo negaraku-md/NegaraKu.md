@@ -31,7 +31,7 @@ faq:
   - q: ¿Quién regula y promueve la industria?
     a: "La Autoridad de Desarrollo de Inversiones de Malasia (MIDA), dependiente del Ministerio de Inversión, Comercio e Industria (MITI), promueve y aprueba la inversión en manufactura y administra los principales incentivos fiscales; MATRADE hace seguimiento del desempeño exportador."
 lang: es
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: Hileras de módulos fotovoltaicos grises sobre una línea de producción transportadora con dos trabajadores inspeccionando los paneles
+    kind: representative
+    origin: third-party
+    subject: Módulos fotovoltaicos terminados avanzando por la línea de empaque de submódulos en la planta de First Solar, Perrysburg, Ohio
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: Una larga hilera de paneles solares oscuros montados sobre estructuras metálicas en un campo verde bajo un cielo azul con nubes dispersas
+    kind: representative
+    origin: third-party
+    subject: Un conjunto solar fotovoltaico montado en el suelo en un campo cubierto de hierba bajo un cielo azul
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 Pocos se dan cuenta de que cuando un propietario de vivienda o una empresa de servicios públicos estadounidense instala un conjunto solar, los paneles bien pueden haber sido fabricados en Malasia. Durante más de una década, el país ha sido discretamente uno de los mayores productores del mundo de células y módulos solares fotovoltaicos (FV), no para alimentar su propia red, sino para exportar. Esta es una industria de fábricas, no de tarifas de alimentación.

@@ -34,7 +34,7 @@ faq:
     a: "말레이시아 통계청(DOSM)은 월간 및 연간 제조업 통계와 GDP 데이터를 발표합니다. 말레이시아 투자개발청(MIDA)은 제조업 투자를 진흥하고 승인하며, 투자통상산업부(MITI)는 NIMP 2030을 소유합니다."
 
 lang: "ko"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: 공장의 자동화 생산 라인에서 여러 대의 주황색 로봇 팔이 노란색 상자들을 팔레타이징하고 있다
+    kind: representative
+    origin: third-party
+    subject: 자동화 공장 라인에서 포장된 식품을 팔레타이징하는 주황색 산업용 로봇 팔
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: 흰색 전신 작업복, 마스크, 장갑을 착용한 기술자가 밝고 타일이 깔린 클린룸에서 정밀 금속 부품을 작업하고 있다
+    kind: representative
+    origin: third-party
+    subject: 첨단 클린룸 내부에서 흰색 전신 작업복을 입고 정밀 장비를 조립하는 기술자
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 "말레이시아 공장"이라고 말하면 대부분의 사람들은 페낭(Penang)의 반도체 클린룸이나 샤알람(Shah Alam)의 프로톤(Proton) 생산 라인을 떠올립니다. 그것들은 실재하고 규모도 큽니다 — 그러나 훨씬 더 넓은 산업 기반 위에 얹혀 있습니다. 2024년 이 부문 전체는 RM1조 9,000억 링깃의 매출을 움직였고 약 240만 명을 일자리에 두었으며, 그중 큰 몫이 기계, 플라스틱, 고무, 의료기기, 화학, 그리고 슈퍼마켓 진열대 위의 식품에서 나왔습니다.

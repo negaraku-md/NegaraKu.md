@@ -34,7 +34,7 @@ faq:
     a: "كلاهما، لكن مركز ثقل نشاطها هو الخدمات. فـMRO وتصنيع المكوّنات يهيمنان؛ وتبني ماليزيا الهياكل والمواد المركّبة وأجزاء المحركات وتصون الطائرات، لكن قدرتها في التصميم والتطوير على مستوى الطائرة الكاملة أضعف."
 
 lang: "ar"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQ
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: أجسام طائرات ركاب مطلية بطبقة أساس خضراء مصطفة في صف مع عمّال بداخلها في مصنع ضخم لتجميع الطائرات
+    kind: representative
+    origin: third-party
+    subject: أجسام طائرات على خط التجميع داخل مصنع كبير لصناعة الطيران
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: فنيّا صيانة طائرات يعملان على المحرك والمروحة رباعية الشفرات لطائرة صغيرة داخل حظيرة طائرات
+    kind: representative
+    origin: third-party
+    subject: فنيّون يصونون محرك طائرة ومروحتها داخل حظيرة صيانة
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 قد تُبنى الطائرة في تولوز أو سياتل، لكن في مرحلة ما خلال عمرها الممتد ثلاثين عامًا ستحتاج إلى فتح محركاتها، وفحص هيكلها، وتحديث أجهزة الطيران فيها (avionics) — وتريد ماليزيا، بصورة متزايدة، أن يُنجَز ذلك العمل في سوبانغ (Subang) أو سيناي (Senai). وهذه النزعة، أكثر من أي خط تجميع، تفسّر شكل قطاع الطيران في البلاد.

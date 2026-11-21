@@ -31,7 +31,7 @@ faq:
   - q: من ينظّم الصناعة ويروّج لها؟
     a: تروّج هيئة تنمية الاستثمار الماليزية (MIDA)، التابعة لوزارة الاستثمار والتجارة والصناعة (MITI)، للاستثمار الصناعي وتوافق عليه وتدير الحوافز الضريبية الرئيسية؛ بينما تتابع MATRADE أداء الصادرات.
 lang: ar
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: صفوف من وحدات الطاقة الشمسية الكهروضوئية الرمادية على خط إنتاج ناقل مع عاملين يفحصان الألواح
+    kind: representative
+    origin: third-party
+    subject: وحدات كهروضوئية جاهزة تتحرك على خط تعبئة الوحدات الفرعية في مصنع First Solar، Perrysburg، أوهايو
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: صف طويل من الألواح الشمسية الداكنة المثبتة على إطارات معدنية في حقل أخضر تحت سماء زرقاء بغيوم متناثرة
+    kind: representative
+    origin: third-party
+    subject: منظومة شمسية كهروضوئية مثبّتة على الأرض في حقل عشبي تحت سماء زرقاء
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 قلّة تدرك أنه حين يركّب صاحب منزل أو مرفق أمريكي منظومة شمسية، فقد تكون الألواح صُنعت في ماليزيا. فلأكثر من عقد ظلّت البلاد بهدوء من أكبر منتجي الخلايا والوحدات الكهروضوئية الشمسية (PV) في العالم — لا لتغذية شبكتها، بل للتصدير. إنها صناعة مصانع، لا تعرفات تشجيعية.

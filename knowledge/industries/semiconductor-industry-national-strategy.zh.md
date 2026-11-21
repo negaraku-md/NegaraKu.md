@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: 从上方俯视一片圆形的 300 毫米硅晶圆，表面布满规则排列的矩形芯片管芯，并泛着彩虹般的衍射色彩
+    kind: representative
+    origin: third-party
+    subject: 一片布满芯片管芯网格的 12 英寸（300 毫米）硅晶圆
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: 一片旋转的硅晶圆在旋涂机上覆盖着一层光亮的深红色光刻胶，光刻胶被甩出形成细密的喷雾
+    kind: representative
+    origin: third-party
+    subject: 芯片制造过程中正在旋涂光刻胶的硅晶圆
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
 ---
 
 地球上几乎每一部手机、每一台笔记本电脑、每一辆汽车，都搭载着一枚曾在马来西亚度过部分「生命」的芯片——在槟城或巴生谷的工厂里完成封装、测试并出货。然而，五十年来，这个国家承担的却是这项工作中最不光鲜、利润最薄的环节：后端。国家半导体战略正是马来西亚试图改变自己在芯片链条上所占环节的努力。

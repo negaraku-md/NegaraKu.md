@@ -109,6 +109,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: Rows of grey solar PV modules on a conveyor production line with two workers inspecting the panels
+    kind: representative
+    origin: third-party
+    subject: Finished PV modules moving along the submodule pack-out line at the First Solar plant, Perrysburg, Ohio
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: A long row of dark solar panels mounted on metal frames in a green field beneath a blue sky with scattered clouds
+    kind: representative
+    origin: third-party
+    subject: A ground-mounted solar photovoltaic array in a grassy field under a blue sky
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 Few people realise that when an American homeowner or utility installs a solar array, the panels may well have been made in Malaysia. For more than a decade the country has quietly been one of the world's largest producers of solar photovoltaic (PV) cells and modules — not to power its own grid, but to export. This is an industry of factories, not feed-in tariffs.

@@ -31,7 +31,7 @@ faq:
   - q: "ما هو المخطط الوطني لصناعة OGSE؟"
     a: "أُطلق في أبريل 2021 وروجِع منتصف المدة في 2024، وهو خطة الحكومة لعشر سنوات (2021–2030) لجعل القطاع أكثر تنافسيةً ومرونةً واستدامةً. وتشمل أهدافه مضاعفة إيرادات التصدير، والحفاظ على مساهمة نحو RM50 مليار في الناتج المحلي الإجمالي، ودفع الشركات نحو خدمات تحوّل الطاقة مثل احتجاز الكربون والهيدروجين والطاقات المتجددة."
 lang: ar
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -112,6 +112,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Ba
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: منصة إنتاج نفط بحرية كبيرة في ضوء ذهبي ورافعة سطحها تنزل حمولة إلى سفينة إمداد بحرية ثابتة في موقعها على البحر الأزرق المفتوح بجانبها
+    kind: representative
+    origin: third-party
+    subject: سفينة إمداد بحرية تعمل بجانب منصة إنتاج، ورافعة المنصة تنقل حمولة
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: سفينة دعم بحرية زرقاء وبيضاء تُدعى Island Chieftain راسية على رصيف، بجسرها الأمامي العالي وسطح شحنها المفتوح المسطح الطويل، مع جبال خلفها
+    kind: representative
+    origin: third-party
+    subject: سفينة إمداد منصات ودعم بحري راسية على رصيف، تُظهر سطح شحنها الخلفي المفتوح
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 حين يتخيّل الناس ثروة ماليزيا من النفط والغاز، يفكّرون عادةً في الخام والغاز تحت قاع البحر قبالة ترينجانو وساراواك وصباح — الاحتياطيات التي جعلت PETRONAS إحدى أكبر شركات الطاقة في آسيا. لكن الهيدروكربونات لا ترفع نفسها من الأرض. فخلف كل حقل مُنتِج يجلس جيش صغير من المقاولين: الساحات التي تلحم المنصّات الفولاذية، والمنصّات التي تحفر الآبار، والسفن التي تنقل الأطقم والبضائع بحرًا، والمهندسون الذين يصمّمون المرافق، والفنيون الذين يُبقون كل ذلك يعمل. تلك المنظومة هي **صناعة خدمات ومعدات النفط والغاز (OGSE)**، وهي صناعة ماليزية كبرى بذاتها.

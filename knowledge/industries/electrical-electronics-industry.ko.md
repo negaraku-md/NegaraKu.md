@@ -34,7 +34,7 @@ faq:
     a: "인텔, AMD, 브로드컴, 보쉬, OSRAM 같은 글로벌 기업이 이곳에서 운영하며, 자빌(Jabil), 플렉스(Flex), 플렉서스(Plexus), 산미나(Sanmina), 벤치마크(Benchmark) 같은 위탁 제조사(EMS)와 이나리 아메르트론(Inari Amertron)을 포함한 토종 기업도 함께합니다."
 
 lang: "ko"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: 한 손이 납땜 인두와 가느다란 핀셋을 들고, 칩과 배선으로 빽빽한 녹색 인쇄 회로 기판 위의 작은 표면실장 부품을 작업하고 있다
+    kind: representative
+    origin: third-party
+    subject: 가느다란 핀셋과 인두로 회로 기판의 표면실장 부품을 재작업하는 손
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: 라벨이 붙은 여러 개의 검은색 집적 회로 칩, 메모리 패키지, 작은 표면실장 부품들이 늘어선 녹색 인쇄 회로 기판을 바로 위에서 촬영한 모습
+    kind: representative
+    origin: third-party
+    subject: 완전히 조립된 가전용 인쇄 회로 기판을 위에서 내려다본 모습
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 지난 10년간 만들어진 노트북, 스마트폰, 자동차를 거의 아무거나 열어 보면, 그 일부가 말레이시아를 거쳐 갔을 가능성이 상당합니다. 내부의 칩은 페낭에서 검사·패키징되었을 수 있고, 전원 어댑터, LED 백라이트, 회로 기판은 쿨림(Kulim), 믈라카(Melaka) 또는 클랑 밸리(Klang Valley)에서 조립되었을 수 있습니다. 약 3,410만 명(2024년, DOSM)의 나라치고, 말레이시아는 세계 전자 공급망에서 놀랄 만큼 중심적인 지점에 자리하고 있으며 — 그것은 거의 전적으로 한 산업의 이야기입니다.

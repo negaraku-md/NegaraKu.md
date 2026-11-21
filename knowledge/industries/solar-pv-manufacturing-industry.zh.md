@@ -31,7 +31,7 @@ faq:
   - q: 谁监管和推广该行业？
     a: 投资、贸易及工业部 (MITI) 属下的马来西亚投资发展局 (MIDA) 推广并批准制造业投资，并管理主要的税务激励措施；MATRADE则追踪出口表现。
 lang: zh
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: 一排排灰色太阳能光伏组件在传送带生产线上移动，两名工人正在检查面板
+    kind: representative
+    origin: third-party
+    subject: 成品光伏组件沿着美国俄亥俄州 Perrysburg 的 First Solar 工厂子组件出料线移动
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: 一长排深色太阳能板安装在金属支架上，位于蓝天白云下的绿色田野中
+    kind: representative
+    origin: third-party
+    subject: 蓝天下坐落于草地中的地面安装式太阳能光伏阵列
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 很少有人意识到，当美国的业主或公用事业公司安装太阳能阵列时，那些电池板很可能是在马来西亚制造的。十多年来，这个国家一直悄然成为全球最大的太阳能光伏 (PV) 电池和组件生产国之一——不是为了给自己的电网供电，而是为了出口。这是一个关于工厂的产业，而非上网电价。

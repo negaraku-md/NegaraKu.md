@@ -31,7 +31,7 @@ faq:
   - q: 同産業を規制・振興しているのは誰ですか。
     a: 投資・貿易・産業省（MITI）傘下のマレーシア投資開発庁（MIDA）が製造投資を振興・承認し、主要な税制インセンティブを運用しています。MATRADEが輸出実績を追跡しています。
 lang: ja
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: コンベヤーの生産ラインに並ぶ灰色の太陽光PVモジュールの列と、パネルを検査する2人の作業員
+    kind: representative
+    origin: third-party
+    subject: オハイオ州ペリスバーグのFirst Solar工場で、サブモジュール梱包ラインに沿って流れる完成したPVモジュール
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: 青空と点在する雲の下、緑の野原に金属フレームで設置された暗色の太陽光パネルの長い列
+    kind: representative
+    origin: third-party
+    subject: 青空の下、草地に地上設置された太陽光発電アレイ
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 アメリカの住宅所有者や電力会社が太陽光アレイを設置するとき、そのパネルはマレーシア製である可能性が高い — そう気づく人はほとんどいない。10年以上にわたり、マレーシアは静かに世界最大級の太陽光発電（PV）セル・モジュール生産国の一つであり続けてきた。自国の送電網に電力を供給するためではなく、輸出するためにだ。これは工場の産業であって、フィードイン・タリフの産業ではない。

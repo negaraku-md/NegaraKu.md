@@ -37,7 +37,7 @@ faq:
     a: "농원·원자재부 산하의 법정 기관인 말레이시아 팜유위원회(MPOB)가 재배부터 수출까지 모든 단계를 면허하고 감독하며, 산업의 연구개발을 운영합니다."
 
 lang: "ko"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-pa
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: 불그스름한 기름야자 생과방을 가득 실은 트럭이 사바주 타와우의 Apas Balung 팜유 공장 정문에 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 타와우 Apas Balung 팜유 공장에서 생과방을 가득 실은 트럭
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: 사바주 쿠낙에서 흐린 하늘 아래 드넓은 기름야자 농장 바다 한가운데 자리한, 굴뚝에서 증기를 내뿜는 팜유 공장
+    kind: actual
+    origin: third-party
+    subject: 사바주 쿠낙 지구에서 기름야자 농장에 둘러싸인 IOI Baturong 팜유 공장
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 팜유는 세계에서 가장 많이 거래되는 식물성 기름이며, 말레이시아는 인도네시아에 이은 2위 생산국입니다 — 조호르부터 사라왁의 언덕까지 재배되는 가시 돋친 붉은 과일송이를, 아시아·아프리카·유럽 시장으로 실려 나가는 정제 식용유, 비누 원료, 바이오디젤로 바꿉니다. 말레이시아 팜유협의회(MPOC)에 따르면, 이 산업은 소농 약 500,000명을 포함해 300만 명이 넘는 말레이시아인을 직간접적으로 지탱합니다. 나무에서 유조선까지, 그 기계가 어떻게 세워져 있는지를 다음에서 살펴봅니다.

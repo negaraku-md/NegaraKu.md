@@ -31,7 +31,7 @@ faq:
   - q: उद्योग को कौन विनियमित और प्रोत्साहित करता है?
     a: मलेशियाई निवेश विकास प्राधिकरण (Malaysian Investment Development Authority, MIDA), निवेश, व्यापार एवं उद्योग मंत्रालय (Ministry of Investment, Trade and Industry, MITI) के अधीन, विनिर्माण निवेश को प्रोत्साहित और अनुमोदित करता है तथा मुख्य कर प्रोत्साहनों का प्रशासन करता है; MATRADE निर्यात प्रदर्शन पर नज़र रखता है।
 lang: hi
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: एक कन्वेयर उत्पादन लाइन पर धूसर सौर PV मॉड्यूल की कतारें, जिनका दो कर्मचारी निरीक्षण कर रहे हैं
+    kind: representative
+    origin: third-party
+    subject: First Solar संयंत्र, Perrysburg, ओहायो में सबमॉड्यूल पैक-आउट लाइन पर आगे बढ़ते तैयार PV मॉड्यूल
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: बिखरे बादलों वाले नीले आसमान के नीचे एक हरे मैदान में धातु के फ़्रेम पर लगे गहरे सौर पैनलों की एक लंबी कतार
+    kind: representative
+    origin: third-party
+    subject: नीले आसमान के नीचे एक घास के मैदान में ज़मीन पर लगी एक सौर फ़ोटोवोल्टिक सरणी
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 बहुत कम लोग समझते हैं कि जब कोई अमेरिकी गृहस्वामी या उपयोगिता सोलर ऐरे स्थापित करती है, तो पैनल अच्छी तरह से मलेशिया में बने हो सकते हैं। एक दशक से अधिक समय से यह देश चुपचाप सोलर फ़ोटोवोल्टिक (PV) सेल और मॉड्यूल के दुनिया के सबसे बड़े उत्पादकों में से एक रहा है — अपने ग्रिड को बिजली देने के लिए नहीं, बल्कि निर्यात के लिए। यह कारखानों का उद्योग है, फ़ीड-इन टैरिफ़ का नहीं।

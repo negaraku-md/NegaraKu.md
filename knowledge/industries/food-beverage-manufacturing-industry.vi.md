@@ -31,7 +31,7 @@ faq:
   - q: Chế tạo thực phẩm được điều tiết như thế nào ở Malaysia?
     a: An toàn và ghi nhãn thực phẩm được điều chỉnh bởi Đạo luật Thực phẩm 1983 và các quy định phụ (như Quy định Thực phẩm 1985 và Quy định Vệ sinh Thực phẩm 2009), do Bộ Y tế quản lý. Các tuyên bố halal được kiểm soát riêng bởi Cục Phát triển Hồi giáo Malaysia (JAKIM), cơ quan cấp chứng nhận halal chính thức.
 lang: vi
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfue
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: Góc nhìn từ trên cao của một nhà máy đóng chai đồ uống với nhiều dây chuyền băng chuyền và máy móc đóng gói
+    kind: representative
+    origin: third-party
+    subject: Góc nhìn từ trên cao của các băng chuyền và máy móc đóng gói trong nhà máy đóng chai rượu vang gần Geyserville, California
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: Nhiều silo chứa ngũ cốc hình trụ lớn và các tòa nhà lưu trữ của một nhà máy chế biến và hậu cần thực phẩm bên cạnh đường ray xe lửa
+    kind: representative
+    origin: third-party
+    subject: Các silo lớn và nhà kho lưu trữ của một nhà máy chế biến và hậu cần ngũ cốc thực phẩm tại Bandel, Ấn Độ
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 Gần như mọi người ở Malaysia chạm vào ngành này vài lần mỗi ngày — một cốc Milo bữa sáng, một gói mì ăn liền bữa trưa, một chai nước khoáng buổi chiều, một thanh sô cô la làm từ ca cao nghiền ở Johor. Chế tạo thực phẩm và đồ uống (F&B) là một trong những ngành lớn lặng lẽ nhất của đất nước: kém hào nhoáng hơn bán dẫn, nhưng được dệt sâu vào đời sống hàng ngày, an ninh lương thực quốc gia và một câu chuyện xuất khẩu đang tăng trưởng được dựng quanh một ý tưởng đầy sức mạnh — halal.

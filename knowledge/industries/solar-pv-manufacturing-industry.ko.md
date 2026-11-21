@@ -31,7 +31,7 @@ faq:
   - q: 누가 산업을 규제하고 진흥하는가?
     a: 투자통상산업부(MITI) 산하 말레이시아 투자개발청(MIDA)이 제조 투자를 진흥·승인하고 주요 세제 인센티브를 운영하며; MATRADE가 수출 실적을 추적한다.
 lang: ko
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturin
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: 컨베이어 생산 라인 위의 회색 태양광 PV 모듈들을 두 작업자가 검사하고 있다
+    kind: representative
+    origin: third-party
+    subject: 미국 오하이오주 페리스버그 First Solar 공장의 서브모듈 패킹 라인을 따라 이동하는 완성된 PV 모듈
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: 구름이 흩어진 푸른 하늘 아래 녹색 들판에 금속 프레임으로 설치된 짙은 태양광 패널이 길게 한 줄로 늘어서 있다
+    kind: representative
+    origin: third-party
+    subject: 푸른 하늘 아래 풀밭에 지상 설치된 태양광 발전 어레이
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 미국의 주택 소유주나 전력회사가 태양광 어레이를 설치할 때 그 패널이 말레이시아에서 만들어졌을 가능성이 높다는 사실을 아는 사람은 드물다. 10년 넘게 이 나라는 조용히 세계 최대 규모의 태양광 광전지(PV) 셀·모듈 생산국 중 하나였다 - 자국 전력망에 쓰기 위해서가 아니라 수출하기 위해서. 이것은 발전차액지원이 아니라 공장의 산업이다.

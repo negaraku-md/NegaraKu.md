@@ -34,7 +34,7 @@ faq:
     a: "மலேசிய புள்ளியியல் திணைக்களம் (DOSM) மாதாந்திர மற்றும் ஆண்டு உற்பத்தி புள்ளிவிவரங்கள் மற்றும் GDP தரவை வெளியிடுகிறது. மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA) உற்பத்தி முதலீட்டை ஊக்குவித்து அங்கீகரிக்கிறது, அதே வேளையில் முதலீடு, வர்த்தகம் மற்றும் தொழில் அமைச்சு (Ministry of Investment, Trade and Industry, MITI) NIMP 2030-க்கு உரிமையாளராக உள்ளது."
 
 lang: "ta"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_li
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: ஒரு தொழிற்சாலையில் தானியங்கி உற்பத்தி வரிசையில் மஞ்சள் பெட்டிகளை அடுக்கிவைக்கும் பல ஆரஞ்சு நிற ரோபோ கரங்கள்
+    kind: representative
+    origin: third-party
+    subject: தானியங்கி தொழிற்சாலை வரிசையில் பேக்கேஜ் செய்யப்பட்ட உணவை அடுக்கிவைக்கும் ஆரஞ்சு நிற தொழில்துறை ரோபோ கரங்கள்
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: வெள்ளை முழு-உடல் உடை, முகமூடி மற்றும் கையுறைகள் அணிந்த ஒரு தொழில்நுட்பர், பிரகாசமான ஓடு பதித்த சுத்த அறையில் துல்லியமான உலோக கூறுகளில் பணியாற்றுகிறார்
+    kind: representative
+    origin: third-party
+    subject: ஒரு உயர்-தொழில்நுட்ப சுத்த அறைக்குள் வெள்ளை முழு-உடை அணிந்து துல்லிய உபகரணத்தைக் கூட்டமைக்கும் ஒரு தொழில்நுட்பர்
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 “மலேசிய தொழிற்சாலை” என்று சொன்னால், பெரும்பாலானோர் Penang-இல் ஒரு குறைக்கடத்தி க்ளீன்ரூமையோ அல்லது Shah Alam-இல் ஒரு Proton உற்பத்தி வரிசையையோ கற்பனை செய்வர். அவை உண்மையானவை, அவை பெரியவையும் கூட — ஆனால் அவை மிகவும் விரிவான ஒரு தொழில்துறை அடித்தளத்தின் மேல் அமர்ந்திருக்கின்றன. 2024 இல் முழுத் துறையும் RM1.9 trillion விற்பனையை நகர்த்தி, சுமார் 24 லட்சம் பேரை வேலையில் வைத்திருந்தது; அதில் பெரும் பங்கு இயந்திரங்கள், பிளாஸ்டிக், ரப்பர், மருத்துவ கருவிகள், இரசாயனங்கள் மற்றும் பல்பொருள் அங்காடி அலமாரிகளில் உள்ள உணவுப் பொருட்களில் இருந்து வந்தது.

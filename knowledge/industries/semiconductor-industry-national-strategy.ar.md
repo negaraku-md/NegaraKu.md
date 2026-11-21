@@ -36,7 +36,7 @@ faq:
     a: "تستهدف الاستراتيجية تدريب ورفع مهارات 60,000 مهندس ماليزي عالي المهارة — نحو 30,000 يُنمَّون عبر وزارة التعليم ونحو 30,000 من المواهب التقنية والمهنية (TVET) من وزارات أخرى."
 
 lang: "ar"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: رقاقة سيليكون مستديرة قطرها 300 ملليمتر تُرى من الأعلى، مغطاة بشبكة منتظمة من قوالب الرقائق المستطيلة بألوان حيود قوس قزح على سطحها
+    kind: representative
+    origin: third-party
+    subject: رقاقة سيليكون بقطر 12 بوصة (300 ملم) منقوشة بشبكة من قوالب الرقائق
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: رقاقة سيليكون دوّارة مغطاة ببركة لامعة من مادة حساسة للضوء حمراء داكنة على جهاز طلاء بالدوران، مع تناثر المادة إلى الخارج في رذاذ ناعم
+    kind: representative
+    origin: third-party
+    subject: رقاقة سيليكون أثناء طلائها بالدوران بمادة حساسة للضوء خلال تصنيع الرقائق
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
 ---
 
 يحمل كل هاتف وحاسوب محمول وسيارة تقريباً على وجه الأرض رقاقةً قضت جزءاً من حياتها في ماليزيا — جرى تغليفها واختبارها وشحنها من مصنع في بينانغ أو وادي كلانغ. ومع ذلك ظل البلد طوال خمسين عاماً يؤدي الشريحة الأقل بريقاً والأدنى هامشاً من ذلك العمل: الطرف الخلفي. والاستراتيجية الوطنية لأشباه الموصلات هي محاولة ماليزيا لتغيير الجزء الذي تمتلكه من الرقاقة.

@@ -31,7 +31,7 @@ faq:
   - q: Adakah Malaysia kukuh dalam logam selain keluli?
     a: Ya. Dalam logam bukan ferus Malaysia kompetitif di peringkat global. Press Metal, berpangkalan di Sarawak, ialah pengeluar aluminium bersepadu terbesar di Asia Tenggara, dan Malaysia Smelting Corporation ialah antara pengeluar timah ditapis terkemuka dunia, warisan sejarah perlombongan timah negara yang panjang.
 lang: ms
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: Dua relau bagas keluli tinggi dengan saluran dan cerobong yang membebaskan wap putih berlatarkan langit biru yang cerah
+    kind: representative
+    origin: third-party
+    subject: Relau bagas di Scunthorpe Steelworks, England
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: Di dalam sebuah kilang peleburan keluli, sebuah relau arka elektrik besar dengan gantri atas, sistem paip dan pekerja di atas laluan keluli
+    kind: representative
+    origin: third-party
+    subject: Bahagian dalam kilang peleburan relau arka elektrik di kilang keluli ProfilARBED di Differdange, Luxembourg
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
 ---
 
 Di sebalik hampir setiap bangunan, jambatan dan lebuh raya di Malaysia terdapat industri yang lebih senyap yang membuat logam yang menyokong semuanya. Besi dan keluli jarang menjadi tajuk utama seperti semikonduktor atau minyak sawit, namun ia asasi: bar tetulang di dalam tiang konkrit, dawai dalam kabel, kepingan dalam pintu kereta. Malaysia membuat banyak daripadanya sendiri — dan, dalam beberapa logam, benar-benar bertaraf dunia. Tetapi belahan keluli dalam kisah ini juga ialah salah satu sektor pembuatan negara yang paling bermasalah, ditakrifkan oleh ketidakpadanan degil antara berapa banyak yang mampu dikeluarkannya dan berapa banyak yang sebenarnya diperlukan pasaran.

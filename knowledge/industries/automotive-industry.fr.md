@@ -36,7 +36,7 @@ faq:
     a: "Oui. Proton a lancé l'e.MAS 7 en décembre 2024, son premier VE, à partir de RM109,800. Perodua a lancé le QV-E — décrit comme le premier VE local de la Malaisie — en décembre 2025 à RM80,000 hors batterie, développé pour un coût de RM800 millions."
 
 lang: "fr"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Berlines compactes Perodua Myvi de troisième génération, rouges et noires, portant le logo Perodua, garées en rangée
+    kind: actual
+    origin: third-party
+    subject: Berlines compactes Perodua Myvi de troisième génération, la voiture nationale la plus vendue de Malaisie
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: Voitures partiellement assemblées, portes et hayons ouverts, avançant sur un convoyeur le long d'une chaîne d'assemblage en usine
+    kind: representative
+    origin: third-party
+    subject: Voitures avançant sur une chaîne d'assemblage automobile à l'intérieur d'une usine de véhicules
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 Peu de pays de la taille de la Malaisie ont un jour tenté de construire une voiture à partir de rien. Moins encore ont deux marques locales garées dans la plupart des allées du pays. Roulez dans n'importe quelle ville malaisienne et le trafic raconte une histoire de politique industrielle délibérée : une Perodua Myvi au feu rouge, une Proton Saga derrière, toutes deux issues d'un pari des années 1980 selon lequel une économie en développement pouvait fabriquer ses propres automobiles.

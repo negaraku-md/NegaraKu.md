@@ -34,7 +34,7 @@ faq:
     a: "Nama global seperti Intel, AMD, Broadcom, Bosch dan OSRAM beroperasi di sini, bersama produsen kontrak (EMS) seperti Jabil, Flex, Plexus, Sanmina dan Benchmark, serta firma lokal termasuk Inari Amertron."
 
 lang: "id"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: Sebuah tangan memegang alat solder dan pinset halus mengerjakan komponen surface-mount mungil pada papan sirkuit cetak hijau yang penuh dengan chip dan jalur
+    kind: representative
+    origin: third-party
+    subject: Sebuah tangan menggunakan pinset halus dan solder untuk mengerjakan ulang komponen surface-mount pada papan sirkuit
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: Papan sirkuit cetak hijau difoto dari tepat di atas, terpasang dengan beberapa chip sirkuit terpadu hitam berlabel, paket memori, dan deretan komponen surface-mount kecil
+    kind: representative
+    origin: third-party
+    subject: Tampak atas papan sirkuit cetak elektronik konsumen yang telah dirakit lengkap
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 Buka hampir laptop, ponsel pintar atau mobil mana pun yang dibuat dalam satu dekade terakhir, dan ada kemungkinan besar sebagian darinya pernah melewati Malaysia. Cip di dalamnya mungkin telah diuji dan dikemas di Pulau Pinang; adaptor dayanya, lampu latar LED atau papan sirkuitnya mungkin telah dirakit di Kulim, Melaka atau Lembah Klang. Bagi sebuah negara berpenduduk sekitar 34,1 juta orang (2024, DOSM), Malaysia berada pada titik yang mengejutkan pentingnya dalam rantai pasok elektronik dunia — dan itu hampir seluruhnya kisah satu industri.

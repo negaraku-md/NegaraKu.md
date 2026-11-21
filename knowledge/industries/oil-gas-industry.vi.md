@@ -38,7 +38,7 @@ faq:
     a: "Vào năm 2024, PETRONAS đóng góp RM72.4 tỷ dưới dạng cổ tức, thuế, các khoản thanh toán tiền mặt và các cam kết khác, bao gồm một khoản cổ tức RM32.0 tỷ. Điều này nằm trên các khoản thuế do các nhà thầu và công ty dịch vụ khác trong khu vực này trả."
 
 lang: "vi"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Một tháp đuốc bằng thép cao sơn đỏ trắng đang phun ngọn lửa khí màu cam sáng trên nền trời nhiều mây, với các giá đỡ ống và dãy núi Crocker phía sau, tại Nhà ga Dầu khí Sabah ở Kimanis
+    kind: actual
+    origin: third-party
+    subject: một ngọn lửa khí cháy trên đỉnh tháp đuốc tại Nhà ga Dầu khí Sabah (SOGT) ở Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: Các tháp chưng cất, ống khói và bồn chứa của một nhà máy lọc dầu ở đường chân trời phía sau một cánh đồng cỏ gần Port Dickson, dưới bầu trời chiều mờ sương
+    kind: actual
+    origin: third-party
+    subject: một nhà máy lọc dầu ở phía đông Port Dickson, Negeri Sembilan, nhìn qua khoảng đất trống từ Đường Liên bang 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 Mỗi thùng dầu và mỗi feet khối khí bên dưới đất và đáy biển Malaysia đều thuộc về, theo luật, một công ty duy nhất. Không phải nhà nước trực tiếp, không phải những người phát hiện ra các mỏ, không phải các tập đoàn đa quốc gia khoan chúng — mà là PETRONAS, công ty dầu khí quốc gia được thành lập để nắm giữ dầu khí của quốc gia trong sự ủy thác. Hiểu một dữ kiện đó và phần còn lại của ngành dầu khí Malaysia — cách nó được điều tiết, tài trợ, đánh thuế và chia sẻ — sẽ vào đúng chỗ.
