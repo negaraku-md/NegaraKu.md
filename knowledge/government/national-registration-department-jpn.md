@@ -90,6 +90,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Headquarters of the National Registration Department (Jabatan Pendaftaran Negara, JPN) in Putrajaya, with ''JPN'' logos on the tower'
+images:
+  - role: scene
+    src: /media/government/national-registration-department-jpn/body-1.webp
+    alt: Full frontal view of the National Registration Department (JPN) headquarters in Putrajaya, a stepped art-deco style stone building with 'JPN' logos on the tower and 'Jabatan Pendaftaran Negara' signage above the entrance
+    kind: actual
+    origin: third-party
+    subject: Frontal view of the National Registration Department (JPN) headquarters building in Putrajaya, showing the 'JPN' tower logos and 'Jabatan Pendaftaran Negara' signage at the base
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_JPN_Putrajaya-30_Disember_2022.jpg
 ---
 
 Most guides to the **National Registration Department** answer one counter question — how to replace a lost IC, or what to bring when a child turns 12. But JPN is bigger than any single transaction: it is the agency that records a Malaysian's entire legal life. The **National Registration Department** (*Jabatan Pendaftaran Negara*, or **JPN**) is a department under the **Ministry of Home Affairs** (*Kementerian Dalam Negeri*, KDN). It registers the important events in every individual's life — births, deaths, adoptions, marriages and divorces — determines citizenship status, and issues identity documents to eligible individuals.

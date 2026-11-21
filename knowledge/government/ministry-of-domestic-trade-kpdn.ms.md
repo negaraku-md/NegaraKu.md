@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Pandangan tiga suku bangunan kementerian KPDN berbatu pasir di Putrajaya, dengan tulisan emas 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' pada tapak granit gelap dan sebuah bas berlivri kementerian diletakkan di pintu masuk
+    kind: actual
+    origin: third-party
+    subject: Pandangan serong pintu masuk bangunan KPDN dengan papan tanda kementerian dan sebuah bas kementerian, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Pandangan sudut rendah menara batu pasir bergaya art-deco berperingkat kementerian KPDN di Putrajaya, dimahkotai lambang kementerian berbentuk berlian K biru dan emas berlatarkan langit separa berawan
+    kind: actual
+    origin: third-party
+    subject: Menara berperingkat bangunan kementerian KPDN yang membawa logo berlian K, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 Apabila seorang peniaga mengenakan bayaran berlebihan untuk minyak masak, menjual barangan terkawal melebihi harga silingnya, atau enggan menunaikan tanggungjawab terhadap produk yang rosak, badan persekutuan yang bertugas bertindak bagi pihak anda ialah **KPDN** — **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup**. Ia membangunkan perdagangan dalam negeri, mengawal harga barangan keperluan harian, dan melindungi pengguna, disokong oleh statut yang sebenar, saluran aduan yang aktif, dan sebuah tribunal tuntutan kecil yang dibina untuk pembeli biasa.

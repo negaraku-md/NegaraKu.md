@@ -29,7 +29,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: Một xe cứu hỏa Scania màu đỏ tươi mang chữ BOMBA với thang nâng gấp gọn trên nóc, đậu trên một đại lộ hai bên trồng cọ trong lễ diễu hành Ngày Quốc khánh Malaysia
+    kind: actual
+    origin: third-party
+    subject: Một xe cứu hỏa thang nâng Scania màu đỏ của lực lượng Bomba Malaysia tại lễ diễu hành Ngày Quốc khánh 2023 ở Kuantan, Pahang
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: Một nhóm lính cứu hỏa Malaysia mặc áo thun màu xanh navy và quần rằn ri cam đang đứng và ngồi xổm trước hai xe cứu hỏa màu đỏ mang chữ BOMBA bên trong các khoang của trạm cứu hỏa
+    kind: actual
+    origin: third-party
+    subject: Lính cứu hỏa Malaysia tại Balai Bomba Sandakan, Sabah, chụp ảnh trước những xe cứu hỏa BOMBA màu đỏ của họ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 Hỏi bất kỳ ai ở Malaysia nên gọi ai khi một tòa nhà đang cháy hoặc có người bị mắc kẹt, và câu trả lời đều là cùng một từ duy nhất: **Bomba**. **Cục Phòng cháy và Cứu hộ Malaysia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), được gần như tất cả mọi người gọi đơn giản là **BOMBA** — là cơ quan liên bang chịu trách nhiệm chữa cháy, cứu hộ, ứng phó vật liệu nguy hiểm và thực thi an toàn phòng cháy trên khắp đất nước. Nó là một cơ quan trực thuộc [**Bộ Nhà ở và Chính quyền Địa phương**](/vi/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), và trong trường hợp khẩn cấp nó được liên hệ bằng cách gọi số **999**.

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يحتاج إلى تحديد الجهة التي تصدر وثيقة هجرة ماليزية معينة — جواز سفر أو تأشيرة أو تصريح أو إذن — وأي مقال يشرح كل عملية."
 
 lang: "ar"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: منظر قريب لمدخل مقر إدارة الهجرة الماليزية Jabatan Imigresen Malaysia يُظهر الكتابة وشعار الإدارة الذهبي والأخضر مع إكليله وشريطه المكتوب عليه Imigresen Malaysia
+    kind: actual
+    origin: third-party
+    subject: لافتة المدخل وشعار مقر إدارة الهجرة الماليزية Jabatan Imigresen Malaysia، بوتراجايا
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: مجمّع حدودي للهجرة الماليزية يضم مبنى أصفر مكتوب عليه Kompleks Imigresen، وممرات تفتيش للمركبات معلّمة برموز السيارات والدراجات النارية والحافلات، تحت سماء مشرقة غائمة
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang، نقطة التفتيش الحدودية للهجرة الماليزية في رنتاو بنجانغ، كلنتن
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 كل من يعبر حدود ماليزيا — مواطن يجدّد جواز سفره، وسائح يصل، ومغترب يأتي للعمل — يمرّ عبر دائرة واحدة بعينها. لكن الوثائق التي تصدرها كثيرًا ما يُخلط بينها، وذلك الخلط هو سبب معظم مشكلات الهجرة.

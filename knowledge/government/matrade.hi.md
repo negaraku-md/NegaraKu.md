@@ -27,7 +27,7 @@ verificationNeeded:
   - "The 47-overseas-office figure is corroborated by two independently dated 2026 news reports citing MATRADE's own chairman and chief executive, but was not cross-checked against a MATRADE-hosted office directory page, which this article's fetch attempts could not retrieve in full"
 
 lang: "hi"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Conv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: मेहराबदार Menara MATRADE मीनार, उसके साथ ऊँची काँच की Menara MITI और एक चाँदी-रंग का प्रदर्शनी-हॉल गुंबद, मैजेंटा फूलों की कतार के पार धूसर आसमान के नीचे देखा गया
+    kind: actual
+    origin: third-party
+    subject: MATRADE परिसर का सड़क दृश्य जिसमें Menara MATRADE की मेहराब मीनार, काँच की Menara MITI और MITEC गुंबद, कुआलालंपुर
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: कुआलालंपुर के ऊपर हवाई दृश्य जिसमें गहरे मेहराब-द्वार वाली Menara MATRADE मीनार और उसके बगल में बड़ा चाँदी-रंग का शंख-आकार का MITEC प्रदर्शनी हॉल दिख रहा है
+    kind: actual
+    origin: third-party
+    subject: KL Metropolis क्षेत्र, कुआलालंपुर में Menara MATRADE और शंख-आकार के MITEC प्रदर्शनी केंद्र का हवाई दृश्य
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 किसी पहली-बार निर्यात करने वाले से पूछें कि कौन-सी सरकारी एजेंसी उनके व्यापार

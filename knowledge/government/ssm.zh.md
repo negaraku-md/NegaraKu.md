@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: KL Sentral 的办公楼和酒店群天际线，耸立在吉隆坡 Perdana 植物园绿色湖泊的后方
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur Sentral (KL Sentral) 交通枢纽区，SSM 总部 Menara SSM@Sentral 所在地，从 Perdana 植物园湖对面望去
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## 一览

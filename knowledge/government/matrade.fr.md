@@ -27,7 +27,7 @@ verificationNeeded:
   - "The 47-overseas-office figure is corroborated by two independently dated 2026 news reports citing MATRADE's own chairman and chief executive, but was not cross-checked against a MATRADE-hosted office directory page, which this article's fetch attempts could not retrieve in full"
 
 lang: "fr"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Conv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: La tour en arche Menara MATRADE à côté de la haute tour de verre Menara MITI et d'un dôme argenté de hall d'exposition, vues derrière un massif de fleurs magenta sous un ciel gris
+    kind: actual
+    origin: third-party
+    subject: Vue de la rue du complexe MATRADE avec la tour en arche Menara MATRADE, la tour de verre Menara MITI et le dôme MITEC, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: Vue aérienne de Kuala Lumpur montrant la tour à portail en arche sombre Menara MATRADE et le grand hall d'exposition MITEC argenté en forme de coquillage à côté
+    kind: actual
+    origin: third-party
+    subject: Vue aérienne de la Menara MATRADE et du centre d'exposition MITEC en forme de coquillage dans le quartier de KL Metropolis, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 Demandez à un exportateur débutant quelle agence gouvernementale s'occupe de son

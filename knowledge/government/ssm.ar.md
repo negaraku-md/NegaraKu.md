@@ -30,7 +30,7 @@ faq:
     a: "تتبع SSM وزارة التجارة الداخلية وتكاليف المعيشة (Ministry of Domestic Trade and Cost of Living). وتُعاد هيكلة الحقائب الوزارية في ماليزيا دوريًا، لذا تحقَّق من الوزارة الأم الحالية على ssm.com.my قبل الاعتماد عليها في وثيقة رسمية."
 
 lang: "ar"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: أفق KL Sentral بأبراج المكاتب والفنادق يرتفع خلف البحيرة الخضراء لحدائق Perdana النباتية في كوالالمبور
+    kind: representative
+    origin: third-party
+    subject: منطقة محور النقل Kuala Lumpur Sentral (KL Sentral) حيث يقع مقر SSM، برج Menara SSM@Sentral، كما يُرى عبر بحيرة حدائق Perdana النباتية
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## لمحة عامة

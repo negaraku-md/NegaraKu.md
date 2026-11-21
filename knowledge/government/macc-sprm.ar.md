@@ -33,7 +33,7 @@ faq:
     a: "نعم. تجعل المادة 17A، التي أُدخلت بتعديل 2018 (Act A1567) ودخلت حيز النفاذ من 1 يونيو 2020، المنظمةَ التجارية مسؤولة متى قدّم شخص مرتبط بها أو عرض إكرامية على نحو فاسد لكسب عمل أو الاحتفاظ به. وبصورة منفصلة، فإن تعريف «الهيئة العامة» في المادة 3 من القانون يمتد ليشمل الشركات والشركات التابعة التي تملك فيها هيئة عامة صلاحية أو مصلحة مسيطرة."
 
 lang: "ar"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Cor
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: برج منحنٍ على هيئة مقدمة سفينة من زجاج داكن متدرّج، يرتفع على أعمدة بيضاء عالية، تؤطّره نخيل ملكية تحت سماء زرقاء زاهية مع غيوم متفرقة في بوتراجايا
+    kind: actual
+    origin: third-party
+    subject: البرج المنحني ذو الزجاج الداكن لمقر لجنة مكافحة الفساد الماليزية (MACC)، بوتراجايا (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 تكتفي معظم أوصاف MACC بعبارة «وكالة ماليزيا لمكافحة الفساد». بيد أن السؤال الأجدى أضيق من ذلك: ما الذي يتيحه القانون فعلًا لموظفيها، ومن يحق له قانونًا أن يراقب عملهم عن كثب؟

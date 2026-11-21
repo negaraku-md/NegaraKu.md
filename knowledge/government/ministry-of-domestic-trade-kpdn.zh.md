@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -100,6 +100,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: 布城砂岩色 KPDN 部大楼的四分之三视角，深色花岗岩基座上有金色 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' 字样，入口处停着一辆该部涂装的巴士
+    kind: actual
+    origin: third-party
+    subject: KPDN 大楼入口的斜角视角，可见该部标识和一辆部门巴士，布城
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: 仰角拍摄的布城 KPDN 部层叠式装饰艺术风格砂岩塔楼，顶部是蓝金相间的菱形 K 字部门徽标，映衬着局部多云的天空
+    kind: actual
+    origin: third-party
+    subject: KPDN 部大楼的阶梯式塔楼，顶部带有菱形 K 字徽标，布城
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 当商家在食油上向你多收费、以高于顶价的价格出售受管制商品，或拒绝为有缺陷的产品负责时，负责代你采取行动的联邦机构就是 **KPDN**——**国内贸易及生活成本部**（*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*）。它发展国内贸易、管控日常必需品的价格、保护消费者，并以实实在在的法令、可用的投诉管道，以及一个为普通消费者而设的小额索偿仲裁庭作为后盾。

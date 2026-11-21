@@ -27,7 +27,7 @@ faq:
   - q: "Comment le KPKT s'appelait-il auparavant, et quand le nom a-t-il changé ?"
     a: "C'était le ministère du Développement des collectivités locales ; le Cabinet a décidé de le renommer ministère du Logement et des Collectivités locales le 13 décembre 2023, ce qui a été annoncé le 26 décembre 2023."
 lang: "fr"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: Gros plan d'un monument de signalisation en pierre noire portant les armoiries de la Malaisie, les mots Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, l'adresse web kpkt.gov.my et le logo coloré en forme de maison du KPKT
+    kind: actual
+    origin: third-party
+    subject: Monument de signalisation du KPKT à l'entrée du bâtiment du ministère, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: Vue frontale de la tour gouvernementale KPKT à Putrajaya, sa façade centrale ornée de longs drapeaux nationaux verticaux Jalur Gemilang, encadrée de palmiers éventail sur un ciel nuageux
+    kind: actual
+    origin: third-party
+    subject: La tour KPKT à Putrajaya parée de drapeaux malaisiens verticaux
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 Quand vos ordures ne sont pas ramassées, quand un certificat de sécurité incendie arrive à échéance et quand un promoteur vous livre votre appartement avec deux ans de retard — le même ministère fédéral se trouve derrière ces trois cas. Le **ministère du Logement et des Collectivités locales**, *Kementerian Perumahan dan Kerajaan Tempatan*, universellement connu sous le nom de **KPKT**, est le ministère fédéral malaisien chargé du logement abordable, des collectivités locales, de l'urbanisme, de la lutte contre les incendies et du secours, des déchets solides, de l'aménagement paysager et du crédit communautaire. Son siège se trouve au No. 51, Persiaran Perdana, Precinct 4, Centre administratif du gouvernement fédéral, 62100 Putrajaya. Le ministre est **Nga Kor Ming** et la vice-ministre est **Datuk Hajah Aiman Athirah binti Sabu**.

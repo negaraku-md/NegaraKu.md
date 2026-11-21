@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "वे सभी जो यह समझने का प्रयास कर रहे हैं कि प्रधानमंत्री विभाग वास्तव में क्या है, इतनी सारी प्रतीत में असंबद्ध संघीय एजेंसियाँ इसके अधीन क्यों आती हैं, और यह एक सामान्य मंत्रालय से कैसे भिन्न है।"
 
 lang: "hi"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: Perdana Putra का सममित सामने का दृश्य, जहाँ पहुँच-बुलेवार्ड के किनारे मलेशियाई ध्वज कतारबद्ध हैं
+    kind: actual
+    origin: third-party
+    subject: औपचारिक बुलेवार्ड से Perdana Putra का सामने का मुखौटा, पुत्रजया
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: पुत्रजया में पेड़ों से घिरे एक औपचारिक बुलेवार्ड के ऊपर उठता हुआ Perdana Putra का हरा गुंबद
+    kind: actual
+    origin: third-party
+    subject: भूदृश्य वाले पहुँच-मार्ग से देखा गया Perdana Putra, पुत्रजया
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 मलेशिया में कोई एक ऐसा मंत्रालय नहीं है जो देश की रोज़मर्रा की नीति-मशीन चलाता हो। उसके

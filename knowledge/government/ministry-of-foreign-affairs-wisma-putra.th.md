@@ -35,7 +35,7 @@ faq:
     a: "ณ ปี 2026 รัฐมนตรีว่าการกระทรวงการต่างประเทศคือ Dato' Seri Utama Mohamad Hasan ขอบเขตงานของคณะรัฐมนตรีเปลี่ยนไปตามการปรับคณะรัฐมนตรี ดังนั้นให้ยืนยันผู้ดำรงตำแหน่งปัจจุบันที่ kln.gov.my"
 
 lang: "th"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: ทางเข้า Wisma Putra ที่มีต้นปาล์มเรียงราย แสดงป้าย Wisma Putra Kementerian Luar Negeri Malaysia และอาคารกระทรวงอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: ทางเข้า Wisma Putra พร้อมป้ายทางเข้า ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: ภาพกว้างของทางเข้าคอมเพล็กซ์ Wisma Putra พร้อมธงประจำรัฐและป้อมยามในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: ภาพกว้างขึ้นของทางเข้าและป้อมยาม Wisma Putra ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 เมื่อชาวมาเลเซียตกค้างในต่างประเทศ เมื่อมาเลเซียลงคะแนนที่สหประชาชาติ หรือเมื่อเอกอัครราชทูตคนใหม่ยื่นสาส์นตราตั้งในเมืองหลวงต่างประเทศ สถาบันเดียวกันยืนอยู่เบื้องหลังทั้งสามเหตุการณ์ — Wisma Putra

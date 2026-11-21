@@ -30,7 +30,7 @@ faq:
     a: "Anggap ia sebagai terjemahan, bukan sumber. Laman bahasa Inggris LHDN diterjemahkan secara mesin dan mengandung kesalahan yang terkonfirmasi yang membalikkan makna. Untuk apa pun yang penting, baca laman asli bahasa Malaysia dan kutip darinya."
 
 lang: "id"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: Menara perkantoran kaca berwarna biru-hijau yang tinggi dengan podium merah marun bertuliskan HASIL dan Lembaga Hasil Dalam Negeri di atas pintu masuk, dilihat dari jalan di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Menara Lembaga Hasil Dalam Negeri (LHDN) di Kuching, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: Gedung perkantoran bertingkat tinggi berbahan kaca putih dan toska yang menampilkan logo HASIL berwarna biru dekat garis atapnya, menjulang di atas jalan berjajar pohon di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil, gedung Lembaga Hasil Dalam Negeri Malaysia (LHDN) di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## Sekilas pandang

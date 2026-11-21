@@ -27,7 +27,7 @@ faq:
   - q: "재무부는 누가 이끕니까?"
     a: "2026년 8월 현재 재무부 장관은 Dato' Seri Anwar bin Ibrahim이며, 제2재무부 장관은 Datuk Seri Amir Hamzah bin Azizan, 재무부 사무총장은 Datuk Johan Mahmood bin Merican입니다. 재직자는 내각 개편에 따라 바뀌므로 mof.gov.my에서 현재 이름을 확인하십시오."
 lang: "ko"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Perbendaharaan Malaysia Federal Treasury 간판과 MOF 로고가 보이는 재무부 건물의 비스듬한 전경
+    kind: actual
+    origin: third-party
+    subject: '''Perbendaharaan Malaysia / Federal Treasury'' 간판이 있는 재무부 건물, 푸트라자야'
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: 푸트라자야에 있는 말레이시아 재무부 건물의 완만하게 휘어진 아치형 정면 전경
+    kind: actual
+    origin: third-party
+    subject: 재무부 건물과 앞마당 정면, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 연방정부가 걷고 쓰는 모든 링깃(RM)은 하나의 기관을 거칩니다. 바로 재무부입니다. 이는 정부 지출과 세입 조달을 모두 담당하는 말레이시아 정부의 부처입니다 — 경제 정책을 수립하고, 말레이시아 연방 예산을 편성하며, 금융 법령과 규제를 감독합니다. 말레이어로는 Kementerian Kewangan이며, 그 핵심 기구는 재무성(Federal Treasury), 즉 Perbendaharaan입니다. 이 페이지는 그 기관을 설명한 다음, 사람들이 "MOF 등록"을 검색할 때 뜻하는 별개의 것과 구별합니다.

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการระบุหน่วยงานที่ออกเอกสารตรวจคนเข้าเมืองของมาเลเซีย — หนังสือเดินทาง วีซ่า พาส หรือเพอร์มิต — และบทความใดที่อธิบายแต่ละกระบวนการ"
 
 lang: "th"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: ภาพระยะใกล้ของทางเข้าสำนักงานใหญ่กรมตรวจคนเข้าเมืองมาเลเซีย แสดงตัวอักษร Jabatan Imigresen Malaysia และตราประจำกรมสีทอง-เขียวพร้อมช่อใบไม้และแถบข้อความ Imigresen Malaysia
+    kind: actual
+    origin: third-party
+    subject: ป้ายทางเข้าและตราประจำกรมของสำนักงานใหญ่กรมตรวจคนเข้าเมืองมาเลเซีย ปุตราจายา
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: ด่านพรมแดนตรวจคนเข้าเมืองของมาเลเซีย มีอาคารสีเหลืองติดป้าย Kompleks Imigresen ช่องตรวจแบบขับผ่านที่มีสัญลักษณ์รถยนต์ มอเตอร์ไซค์ และรถบัส ภายใต้ท้องฟ้าสว่างที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang ด่านพรมแดนตรวจคนเข้าเมืองของมาเลเซียที่รันตาวปันจัง รัฐกลันตัน
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 ทุกคนที่ข้ามพรมแดนของมาเลเซีย — ประชาชนที่ต่ออายุหนังสือเดินทาง นักท่องเที่ยวที่เดินทางมาถึง ชาวต่างชาติที่ทำงาน — ล้วนผ่านหน่วยงานเดียวกัน แต่เอกสารที่หน่วยงานนี้ออกมักถูกสับสนระหว่างกัน และความสับสนนั้นเองคือต้นตอของปัญหาตรวจคนเข้าเมืองส่วนใหญ่

@@ -35,7 +35,7 @@ faq:
     a: "2026년 현재 외교부 장관은 Dato' Seri Utama Mohamad Hasan입니다. 내각의 소관은 개편에 따라 바뀌므로 kln.gov.my에서 현재 재직자를 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Wisma Putra Kementerian Luar Negeri Malaysia 안내판과 그 너머 부처 타워가 보이는, 야자수가 늘어선 Wisma Putra 진입로
+    kind: actual
+    origin: third-party
+    subject: 입구 안내판이 있는 Wisma Putra 진입로, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: 주기들과 경비 초소가 있는 푸트라자야 Wisma Putra 복합단지 입구의 넓은 전경
+    kind: actual
+    origin: third-party
+    subject: Wisma Putra 입구와 경비 초소의 더 넓은 전경, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 말레이시아인이 해외에서 발이 묶일 때, 말레이시아가 유엔에서 표를 던질 때, 또는 새 대사가 외국 수도에서 신임장을 제정할 때 — 그 셋 모두의 뒤에 같은 기관이 서 있습니다. 바로 위스마 푸트라(Wisma Putra)입니다.

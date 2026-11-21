@@ -29,7 +29,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9b4ba9b9f0826cbb"
+sourceContentHash: "d2a76d73479e19c2"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: Panneau routier malaisien vert indiquant « Stesen Penguatkuasa Jabatan Pengangkutan Jalan » en lettres jaunes avec un symbole de camion bleu « Timbang » de pont-bascule, indiquant la station d'application du JPJ
+    kind: actual
+    origin: third-party
+    subject: Panneau routier directionnel de la station d'application du JPJ indiquant « Stesen Penguatkuasa Jabatan Pengangkutan Jalan » avec un symbole de camion-pont-bascule
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 La plupart des gens rencontrent le **Département des transports routiers** à un seul moment — en renouvelant la taxe routière, en passant un examen de conduite ou en transférant une voiture d'occasion. Mais le JPJ est le département qui se tient derrière chacune de ces opérations. Le **Département des transports routiers** (*Jabatan Pengangkutan Jalan*, ou **JPJ**) est une agence relevant du **ministère des Transports (MOT)** de Malaisie. Il immatricule les véhicules à moteur et les conducteurs, délivre les permis de conduire, la taxe routière et les plaques d'immatriculation, autorise les véhicules commerciaux et applique les lois qui régissent la manière dont les véhicules et les conducteurs utilisent les routes publiques.

@@ -27,7 +27,7 @@ faq:
   - q: "운전면허나 도로세를 온라인으로 어떻게 갱신합니까?"
     a: "JPJ는 공공 포털(mySIKAP)과 MyJPJ 앱을 통해 온라인 갱신을 제공하며, 이는 운전면허와 도로세의 디지털 사본(e-LKM)도 제공합니다. 갱신은 JPJ 창구와 지정 협력사를 통해서도 가능합니다. 현행 옵션과 수수료는 JPJ 포털(jpj.gov.my)에서 확인하십시오."
 lang: "ko"
-sourceContentHash: "9b4ba9b9f0826cbb"
+sourceContentHash: "d2a76d73479e19c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: 파란색 화물차 'Timbang' 계량대 기호와 함께 노란 글자로 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan'이라고 쓰여 JPJ 단속소를 가리키는 녹색 말레이시아 도로 표지판
+    kind: actual
+    origin: third-party
+    subject: 화물차 계량대 기호와 함께 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan'이라고 쓰인 JPJ 단속소 방향 도로 표지판
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 대부분의 사람은 단 한 순간에 **육상교통청**을 마주합니다 — 도로세를 갱신하거나, 운전면허 시험을 보거나, 중고차를 이전할 때. 그러나 JPJ는 그 모든 거래의 뒤에 서 있는 기관입니다. **육상교통청**(*Jabatan Pengangkutan Jalan*, 즉 **JPJ**)은 말레이시아 **교통부(MOT)** 산하 기관입니다. 자동차와 운전자를 등록하고, 운전면허, 도로세, 번호판을 발급하며, 상용 차량을 허가하고, 차량과 운전자가 공공 도로를 사용하는 방식을 규율하는 법을 집행합니다.

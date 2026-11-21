@@ -37,7 +37,7 @@ verificationNeeded:
   - "MySST와 ezHS 외의 포털 목록(MyTTx, MyDLV, 세금 인지 제도, MNTR)은 인용된 RMCD 페이지와 대조하여 확인되지 않았다. 관세율 명령(Customs Duties Order)의 현행판과 ezHS 내 특혜 FTA 부칙의 수도 마찬가지로 확인되지 않아 정성적으로 서술하였다"
 
 lang: "ko"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Ka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: 길가 나무들 사이로 거리에서 바라본, 상부 정면에 Jabatan Kastam Diraja Malaysia라고 쓰인 푸트라자야 크림색 다층 말레이시아 관세청 본부 건물
+    kind: actual
+    origin: third-party
+    subject: 연방 행정 중심지 푸트라자야에 있는 말레이시아 관세청 본부
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: 따뜻한 빛 속에서 Wisma Kastam Sabah와 Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department 간판을 단, 파란색 기념비 간판과 지붕 덮인 진입로가 있는 코타키나발루의 복숭아빛 크림색 2층 관세 건물
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루에 있는 말레이시아 관세청 주 건물 Wisma Kastam Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 두 기관, 하나의 부처, 그리고 첫 시도에 거의 아무도 제대로 긋지 못하는 경계선. 세금이 **국경을 넘는 물건, 공장을 나가는 상품, 또는 공급되는 서비스**에 붙으면 그것은 관세청(Kastam)입니다. 세금이 **소득, 양도차익, 또는 문서**에 붙으면 그것은 LHDN입니다.

@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: Close view of the arched entrance porch of the Ministry of Education building, the blue KEMENTERIAN PENDIDIKAN MALAYSIA lettering and gold national crest above the doorway, with Malaysian and state flags flying on poles
+    kind: actual
+    origin: third-party
+    subject: The main entrance of the Ministry of Education Malaysia headquarters, Putrajaya, with the KEMENTERIAN PENDIDIKAN MALAYSIA sign and national crest
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: The full tiered facade of the Ministry of Education Malaysia headquarters seen from the approach road, its ornate central tower and symmetrical wings lined with Malaysian flags above a car park under a bright cloudy sky
+    kind: actual
+    origin: third-party
+    subject: Wide frontal view of the Ministry of Education Malaysia headquarters complex from the approach road, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 If it concerns a Malaysian schoolchild — the curriculum they study, the textbook on their desk, the national exam they sit, or the public-school teacher at the front of the class — it sits with the Ministry of Education. Known in Malay as **Kementerian Pendidikan Malaysia** and almost always shortened to **KPM**, it is the federal ministry that runs the country's pre-tertiary education system. What it does *not* run is the universities — a boundary that trips up a great many people.

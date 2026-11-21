@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아 이민 관련 문서 — 여권, 비자, 패스 또는 허가 — 를 발급하는 당국이 어디인지, 그리고 각 절차를 설명하는 문서가 무엇인지를 확인할 필요가 있는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: Jabatan Imigresen Malaysia라는 글자와 화환 및 Imigresen Malaysia 리본이 들어간 금녹색 부서 문장이 보이는 말레이시아 이민국 본부 출입구 근접 장면
+    kind: actual
+    origin: third-party
+    subject: 푸트라자야에 있는 말레이시아 이민국 본부의 출입구 표식과 문장
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: 밝은 흐린 하늘 아래, Kompleks Imigresen이라는 간판이 달린 노란색 건물과 승용차·오토바이·버스 기호로 표시된 드라이브스루 검사 차로가 있는 말레이시아 이민 국경 복합시설
+    kind: actual
+    origin: third-party
+    subject: 클란탄주 란타우 판장의 말레이시아 이민 국경 검문소인 Kompleks Imigresen Rantau Panjang
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 말레이시아 국경을 넘는 모든 사람 — 여권을 갱신하는 국민, 도착하는 관광객, 일하는 주재원 — 은 동일한 하나의 부처를 거칩니다. 그러나 그 부처가 발급하는 문서들은 서로 자주 혼동되며, 바로 그 혼동이 대부분의 이민 문제의 근원입니다.

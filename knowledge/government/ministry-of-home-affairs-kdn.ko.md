@@ -27,7 +27,7 @@ faq:
   - q: "내무부 장관은 누구입니까?"
     a: "2026년 현재 내무부 장관은 Datuk Seri Panglima Saifuddin Nasution bin Ismail로, 2022년 12월 3일부터 재임 중입니다. 내각의 소관은 개편에 따라 바뀌므로 moha.gov.my에서 현재 재직자를 확인하십시오."
 lang: "ko"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: 지붕선 근처에 부처 문장과 커다란 흰색 'KDN' 글자를 단, 푸트라자야 적벽돌 내무부 타워 상부의 근접 전경
+    kind: actual
+    origin: third-party
+    subject: 정면에 'KDN' 문장과 글자가 보이는 KDN 건물 상층부, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: 흐린 푸른 하늘 아래 계단식 중앙 물 폭포와 야자수가 늘어선 대칭형 계단 광장 건너편에서 바라본 푸트라자야 적벽돌 내무부 건물
+    kind: actual
+    origin: third-party
+    subject: 계단식 물 폭포 광장을 따라 바라본 KDN 건물, Block D1, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 말레이시아인이 여권을 갱신할 때, 경찰이 체포를 할 때, 외국인 근로자의 허가가 확인될 때, 또는 영화가 개봉을 위해 등급을 받을 때 — 그 넷 모두의 뒤에 같은 부처가 서 있습니다. 그 부처가 바로 **내무부**로, 말레이어로는 **Kementerian Dalam Negeri(KDN)**, 영어로는 **MOHA**라 불립니다.

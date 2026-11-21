@@ -28,7 +28,7 @@ faq:
   - q: "शिक्षा मंत्रालय का बजट कितना बड़ा है?"
     a: "बजट 2026 के तहत, KPM को RM66.2 बिलियन मिला — किसी भी संघीय मंत्रालय में सबसे बड़ा आवंटन — जो 2025 के RM64.2 बिलियन से अधिक है। इस आवंटन में 520 से अधिक जर्जर स्कूलों को उन्नत करने और 38 नए स्कूल बनाने के लिए लगभग RM2 बिलियन शामिल है।"
 lang: "hi"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: Ministry of Education इमारत के मेहराबदार प्रवेश बरामदे, दरवाज़े के ऊपर नीले KEMENTERIAN PENDIDIKAN MALAYSIA अक्षर और सुनहरे राष्ट्रीय प्रतीक का निकट दृश्य, जहाँ खंभों पर मलेशियाई और राज्य ध्वज फहरा रहे हैं
+    kind: actual
+    origin: third-party
+    subject: Ministry of Education Malaysia मुख्यालय, पुत्रजया का मुख्य प्रवेश, KEMENTERIAN PENDIDIKAN MALAYSIA साइन और राष्ट्रीय प्रतीक के साथ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: पहुँच-मार्ग से देखा गया Ministry of Education Malaysia मुख्यालय का पूरा स्तरित मुखौटा, उसकी अलंकृत केंद्रीय मीनार और सममित पंख जो एक पार्किंग स्थल के ऊपर मलेशियाई ध्वजों से सजे हैं, चमकीले बादल भरे आसमान के नीचे
+    kind: actual
+    origin: third-party
+    subject: पहुँच-मार्ग से Ministry of Education Malaysia मुख्यालय परिसर का चौड़ा सामने का दृश्य, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 अगर मामला किसी मलेशियाई स्कूली बच्चे से जुड़ा है — वह जो पाठ्यक्रम पढ़ता है, उसकी मेज़ पर रखी पाठ्यपुस्तक, वह राष्ट्रीय परीक्षा जो वह देता है, या कक्षा के सामने खड़ा सरकारी स्कूल का शिक्षक — तो वह शिक्षा मंत्रालय के अधीन आता है। मलय में **Kementerian Pendidikan Malaysia** के नाम से जाना जाने वाला और लगभग हमेशा **KPM** तक संक्षिप्त किया जाने वाला यह वह संघीय मंत्रालय है जो देश की पूर्व-विश्वविद्यालयी शिक्षा प्रणाली चलाता है। जो यह *नहीं* चलाता वह है विश्वविद्यालय — एक ऐसी सीमा जो बहुत से लोगों को भ्रमित करती है।

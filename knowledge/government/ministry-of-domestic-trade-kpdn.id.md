@@ -27,7 +27,7 @@ faq:
   - q: "Undang-undang apa yang digunakan KPDN untuk mengendalikan harga?"
     a: "Ia bergantung terutama pada Akta Kawalan Bekalan 1961 dan Akta Kawalan Harga dan Anti-Pencatutan 2011, yang memungkinkannya menetapkan batas harga, mewajibkan pemajangan harga, dan bertindak terhadap keuntungan yang tidak wajar tinggi."
 lang: "id"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Pandangan tiga perempat gedung kementerian KPDN berbahan batu pasir di Putrajaya, tulisan emas 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' pada dasar granit gelap dan sebuah bus berlivery kementerian terparkir di pintu masuk
+    kind: actual
+    origin: third-party
+    subject: Pandangan menyudut pintu masuk gedung KPDN dengan papan nama kementerian dan sebuah bus kementerian, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Pandangan dari sudut rendah menara batu pasir bergaya art-deco bertingkat milik kementerian KPDN di Putrajaya, dipuncaki lambang kementerian berupa huruf K dalam belah ketupat biru-emas dengan latar langit berawan sebagian
+    kind: actual
+    origin: third-party
+    subject: Menara bertingkat gedung kementerian KPDN yang menampilkan logo K belah ketupat, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 Ketika seorang pedagang mengenakan bayaran berlebihan untuk minyak goreng, menjual barang terkendali melebihi harga batasnya, atau enggan menunaikan tanggung jawab terhadap produk yang rusak, badan federal yang bertugas bertindak atas nama Anda adalah **KPDN** — **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup**. Ia mengembangkan perdagangan dalam negeri, mengendalikan harga barang kebutuhan harian, dan melindungi konsumen, didukung oleh statut yang nyata, saluran aduan yang aktif, dan sebuah tribunal tuntutan kecil yang dibangun untuk pembeli biasa.

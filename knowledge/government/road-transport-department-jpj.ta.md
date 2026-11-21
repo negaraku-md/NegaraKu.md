@@ -29,7 +29,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9b4ba9b9f0826cbb"
+sourceContentHash: "d2a76d73479e19c2"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: நீல நிற லாரி 'Timbang' எடை-பாலம் சின்னத்துடன், மஞ்சள் எழுத்துகளில் 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' என எழுதப்பட்ட பச்சை நிற மலேசிய சாலைப் பலகை, JPJ அமலாக்க நிலையத்தை நோக்கி சுட்டிக்காட்டுகிறது
+    kind: actual
+    origin: third-party
+    subject: லாரி-எடைபாலம் சின்னத்துடன் 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' என எழுதப்பட்ட JPJ அமலாக்க-நிலைய திசை சாலைப் பலகை
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 பெரும்பாலானோர் **சாலைப் போக்குவரத்துத் துறையை** ஒரே தருணத்தில் சந்திக்கின்றனர் — சாலை வரியைப் புதுப்பிக்கும்போது, ஓட்டுநர் தேர்வு எழுதும்போது, அல்லது பயன்படுத்திய காரை மாற்றும்போது. ஆனால் அந்த ஒவ்வொரு பரிவர்த்தனைக்கும் பின்னால் நிற்கும் துறை JPJ. **சாலைப் போக்குவரத்துத் துறை** (*Jabatan Pengangkutan Jalan*, அல்லது **JPJ**) என்பது மலேசியாவின் **போக்குவரத்து அமைச்சின் (MOT)** கீழுள்ள நிறுவனம். இது மோட்டார் வாகனங்களையும் ஓட்டுநர்களையும் பதிவு செய்து, ஓட்டுநர் உரிமங்கள், சாலை வரி மற்றும் பதிவு எண் பலகைகளை வழங்கி, வணிக வாகனங்களுக்கு உரிமம் வழங்கி, வாகனங்களும் ஓட்டுநர்களும் பொதுச் சாலைகளைப் பயன்படுத்தும் விதத்தை ஆளும் சட்டங்களை அமல்படுத்துகிறது.

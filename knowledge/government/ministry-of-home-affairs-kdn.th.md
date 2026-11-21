@@ -27,7 +27,7 @@ faq:
   - q: "รัฐมนตรีว่าการกระทรวงมหาดไทยคือใคร?"
     a: "ณ ปี 2026 รัฐมนตรีว่าการกระทรวงมหาดไทยคือ Datuk Seri Panglima Saifuddin Nasution bin Ismail ดำรงตำแหน่งตั้งแต่ 3 ธันวาคม 2022 ขอบเขตงานของคณะรัฐมนตรีเปลี่ยนไปตามการปรับคณะรัฐมนตรี ดังนั้นให้ยืนยันผู้ดำรงตำแหน่งปัจจุบันที่ moha.gov.my"
 lang: "th"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: ภาพระยะใกล้ของส่วนยอดหอคอยกระทรวงมหาดไทยอิฐแดงในปุตราจายา มีตราประจำกระทรวงและตัวอักษรสีขาวขนาดใหญ่ 'KDN' ติดตั้งใกล้แนวหลังคา
+    kind: actual
+    origin: third-party
+    subject: ชั้นบนของอาคาร KDN แสดงตราและตัวอักษร 'KDN' บนหน้าอาคาร ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: อาคารกระทรวงมหาดไทยอิฐแดงในปุตราจายา มองจากลานขั้นบันไดสมมาตรที่มีน้ำตกไหลเป็นชั้นตรงกลางและแถวต้นปาล์มใต้ท้องฟ้าสีฟ้าที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: อาคาร KDN มองจากลานน้ำตกขั้นบันได บล็อก D1 ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 เมื่อชาวมาเลเซียต่ออายุหนังสือเดินทาง เมื่อตำรวจจับกุม เมื่อใบอนุญาตของแรงงานต่างชาติถูกตรวจสอบ หรือเมื่อภาพยนตร์ถูกจัดเรตเพื่อฉาย — กระทรวงเดียวกันยืนอยู่เบื้องหลังทั้งสี่เหตุการณ์ กระทรวงนั้นคือ **กระทรวงมหาดไทย** ที่รู้จักในภาษามลายูว่า **Kementerian Dalam Negeri (KDN)** และในภาษาอังกฤษว่า **MOHA**

@@ -30,7 +30,7 @@ faq:
     a: "उन्हें एक अनुवाद मानें, स्रोत नहीं। LHDN के अंग्रेज़ी पृष्ठ मशीन-अनूदित हैं और उनमें ऐसी पुष्ट त्रुटियाँ हैं जो अर्थ को उलट देती हैं। किसी भी भारवाही बात के लिए, मलय मूल पृष्ठ पढ़ें और उसी से उद्धृत करें।"
 
 lang: "hi"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: एक ऊँची नीली-हरी काँच की कार्यालय मीनार जिसके मैरून चबूतरे पर प्रवेश के ऊपर HASIL और Lembaga Hasil Dalam Negeri के साइन लगे हैं, कुचिंग, सारावाक की सड़क से देखा गया
+    kind: actual
+    origin: third-party
+    subject: कुचिंग, सारावाक में Inland Revenue Board (LHDN / Lembaga Hasil Dalam Negeri) मीनार
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: एक सफ़ेद और फ़िरोज़ी-काँच की ऊँची कार्यालय इमारत जिसकी छत के पास नीला HASIL वर्डमार्क दिख रहा है, कोटा किनाबालु, सबा में पेड़ों से घिरी एक सड़क के ऊपर उठती हुई
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil, कोटा किनाबालु, सबा में Inland Revenue Board of Malaysia (LHDN) इमारत
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## एक नज़र में

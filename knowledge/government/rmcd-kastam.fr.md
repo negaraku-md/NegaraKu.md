@@ -36,7 +36,7 @@ verificationNeeded:
   - "L'inventaire des portails au-delà de MySST et ezHS (MyTTx, MyDLV, le système de timbres fiscaux, MNTR) n'a pas été confirmé par rapport à une page citée du RMCD ; l'édition actuelle de l'arrêté relatif aux droits de douane et le nombre de listes préférentielles d'ALE dans ezHS sont de même non confirmés et sont décrits de manière qualitative"
 
 lang: "fr"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,6 +126,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Ka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: Le bâtiment de couleur crème de plusieurs étages du siège du Département royal des douanes de Malaisie à Putrajaya, sa façade supérieure portant l'inscription Jabatan Kastam Diraja Malaysia, vu depuis la rue à travers un écran d'arbres de bord de route
+    kind: actual
+    origin: third-party
+    subject: Le siège du Département royal des douanes de Malaisie dans le centre administratif fédéral, Putrajaya
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: Un bâtiment des douanes de deux étages pêche et crème sous une lumière chaude portant les enseignes Wisma Kastam Sabah et Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department, avec un monument bleu et une allée couverte à Kota Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, le bâtiment d'État du Département royal des douanes de Malaisie à Kota Kinabalu, Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 Deux organismes, un ministère, et une ligne que presque personne ne trace correctement du

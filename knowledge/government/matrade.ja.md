@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Conv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: アーチ型のMenara MATRADEタワーが、ガラス張りの高層Menara MITIと銀色の展示ホールのドームと並んで立ち、灰色の空の下、手前の濃いピンクの花壇越しに見える
+    kind: actual
+    origin: third-party
+    subject: Menara MATRADEのアーチ型タワー、ガラス張りのMenara MITI、MITECのドームを含むMATRADE複合施設を通りから望む、クアラルンプール
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: クアラルンプール上空からの眺め。濃い色のアーチ門型のMenara MATRADEタワーと、その隣に立つ大きな銀色の貝殻型MITEC展示ホールが見える
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのKL Metropolis地区にあるMenara MATRADEと貝殻型のMITEC展示センターを上空から望む
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 初めて輸出を手がける事業者に、貿易見本市のブースを担当する政府機関はどこかと

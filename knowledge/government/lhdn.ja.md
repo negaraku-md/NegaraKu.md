@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: 青緑のガラス張りの高層オフィスタワー。入口の上の臙脂色の基壇にHASILとLembaga Hasil Dalam Negeriの標示を掲げ、サラワク州クチンの通りから見える
+    kind: actual
+    origin: third-party
+    subject: サラワク州クチンにある内国歳入庁（LHDN／Lembaga Hasil Dalam Negeri）のタワー
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: 白とターコイズのガラス張りの高層オフィスビル。屋根近くに青いHASILのワードマークを掲げ、サバ州コタキナバルの並木道の上にそびえる
+    kind: actual
+    origin: third-party
+    subject: サバ州コタキナバルにあるマレーシア内国歳入庁（LHDN）のビル、Wisma Hasil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## 概要

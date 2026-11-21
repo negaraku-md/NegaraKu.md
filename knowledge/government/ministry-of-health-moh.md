@@ -89,6 +89,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: A bold green-glass government building with sharply angled faceted wings and a cantilevered roof, a long vertical Malaysian flag draped down its right face above a tiled plaza
+    kind: actual
+    origin: third-party
+    subject: The Ministry of Health Malaysia Training Management Division building in the KKM complex, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 When you walk into a Malaysian government clinic, hand over a RM1 note, and walk out with your consultation and your medicine covered, you are using one of the most heavily subsidised health systems in the world. Running it is the **Ministry of Health Malaysia** — *Kementerian Kesihatan Malaysia* (**KKM**), or **MOH** in English — the federal ministry responsible for public health, medical care, medical research, health promotion, pharmaceutical and medical-device regulation, dental care and patient safety. It is headquartered at Complex E (Blocks E1, E3, E6, E7 and E10) in the Federal Government Administrative Centre, 62590 Putrajaya.

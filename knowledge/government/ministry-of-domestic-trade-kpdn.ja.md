@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: プトラジャヤにある砂岩造りのKPDN省庁ビルを斜めから見た眺め。濃い花崗岩の基壇に金色のKementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaanの文字があり、入口には省庁の塗装を施したバスが停まっている
+    kind: actual
+    origin: third-party
+    subject: 省庁の標示と省庁バスのある、KPDNビル入口を斜めから見た眺め、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: プトラジャヤにあるKPDN省庁の、段状になったアールデコ調の砂岩タワーを見上げた眺め。頂部には青と金のダイヤ型のK字の省庁エンブレムが、やや曇った空を背に掲げられている
+    kind: actual
+    origin: third-party
+    subject: ダイヤ型のKロゴを掲げたKPDN省庁ビルの段状のタワー、プトラジャヤ
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 商人があなたに食用油の代金を多く請求したり、統制品目を上限価格を超えて販売したり、欠陥のある商品への対応を拒んだりしたとき、あなたに代わって動く連邦機関が**KPDN**——**国内取引・生活費省**（*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*）である。同省は国内取引を発展させ、日常必需品の価格を抑え、消費者を保護しており、その裏付けとなるのは実在の法令、稼働中の苦情申立て窓口、そして一般消費者のために設けられた少額裁決所である。

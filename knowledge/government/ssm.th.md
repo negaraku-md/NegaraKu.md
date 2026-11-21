@@ -30,7 +30,7 @@ faq:
     a: "SSM รายงานต่อกระทรวงการค้าภายในประเทศและค่าครองชีพ ขอบเขตงานของกระทรวงในมาเลเซียถูกจัดใหม่เป็นระยะ ดังนั้นให้ยืนยันกระทรวงต้นสังกัดปัจจุบันที่ ssm.com.my ก่อนใช้อ้างอิงในเอกสารทางการ"
 
 lang: "th"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: เส้นขอบฟ้า KL Sentral ของอาคารสำนักงานและโรงแรม ตั้งตระหง่านอยู่หลังทะเลสาบสีเขียวของสวนพฤกษศาสตร์ Perdana กัวลาลัมเปอร์
+    kind: representative
+    origin: third-party
+    subject: ย่านศูนย์กลางการขนส่งกัวลาลัมเปอร์เซ็นทรัล (KL Sentral) ที่ตั้งสำนักงานใหญ่ของ SSM คือ Menara SSM@Sentral มองข้ามทะเลสาบสวนพฤกษศาสตร์ Perdana
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## โดยสังเขป

@@ -29,7 +29,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: شاحنة إطفاء Scania حمراء زاهية تحمل علامة BOMBA وعلى سطحها سلّم جوي مطوي، متوقفة في جادة تصطف على جانبيها أشجار النخيل خلال عرض يوم الاستقلال الماليزي
+    kind: actual
+    origin: third-party
+    subject: شاحنة إطفاء Scania حمراء بسلّم جوي تابعة لهيئة Bomba الماليزية في عرض يوم الاستقلال لعام 2023 في كوانتان، بهانغ
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: مجموعة من رجال الإطفاء الماليزيين يرتدون قمصانًا كحلية وسراويل مموّهة برتقالية، يقفون ويجثون أمام شاحنتي إطفاء حمراوين تحملان علامة BOMBA داخل حظائر محطة الإطفاء
+    kind: actual
+    origin: third-party
+    subject: رجال إطفاء ماليزيون في Balai Bomba Sandakan، صباح، يقفون أمام شاحنات إطفاء BOMBA الحمراء
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 اسأل أي أحد في ماليزيا من يتصل به حين يحترق مبنى أو يعلق أحد، والجواب هو الكلمة نفسها: **بومبا (Bomba)**. فـ**دائرة الإطفاء والإنقاذ الماليزية** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**)، المعروفة لدى الجميع تقريبًا ببساطة باسم **BOMBA** — هي الجهاز الاتحادي المسؤول عن الإطفاء والإنقاذ والاستجابة للمواد الخطرة وإنفاذ السلامة من الحرائق في عموم البلاد. وهي جهاز تابع لـ[**وزارة الإسكان والحكم المحلي**](/ar/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*، KPKT)، ويُتصل بها في الطوارئ بالاتصال على **999**.

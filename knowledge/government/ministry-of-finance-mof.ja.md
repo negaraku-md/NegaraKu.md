@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 status: "archived"
 aiAssisted: true
 reviewer: null
@@ -78,6 +78,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: 財務省ビルを斜めから見た眺め。Perbendaharaan Malaysia Federal Treasuryの標示とMOFのロゴが見える
+    kind: actual
+    origin: third-party
+    subject: '''Perbendaharaan Malaysia / Federal Treasury''の標示を掲げた財務省ビル、プトラジャヤ'
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: プトラジャヤにあるマレーシア財務省ビルの、大きく湾曲したアーチ型ファサードを正面から見た眺め
+    kind: actual
+    origin: third-party
+    subject: 財務省ビルの正面と前庭、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 マレーシア連邦政府が徴収し支出するすべてのリンギットは、一つの機関を通過する——財務省である。これはマレーシア政府において、政府支出と歳入徴収の双方を所管する省庁であり——経済政策を策定し、マレーシア連邦予算案を編成し、金融関連の立法と規制を監督する。マレー語ではKementerian Kewanganと呼ばれ、その中核機構は連邦国庫（Federal Treasury）、すなわちPerbendaharaanである。本ページでは、まずこの機関について説明し、次に人々が「MOF登録」を検索するときに指している別の事柄との違いを整理する。

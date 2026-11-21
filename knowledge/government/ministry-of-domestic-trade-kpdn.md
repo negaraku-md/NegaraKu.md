@@ -97,6 +97,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Three-quarter view of the sandstone KPDN ministry building in Putrajaya, gold 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' lettering on the dark granite base and a ministry-liveried bus parked at the entrance
+    kind: actual
+    origin: third-party
+    subject: Angled view of the KPDN building entrance with ministry signage and a ministry bus, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Low-angle view of the tiered, art-deco-styled sandstone tower of the KPDN ministry in Putrajaya, topped by the blue-and-gold diamond K ministry emblem against a partly cloudy sky
+    kind: actual
+    origin: third-party
+    subject: The stepped tower of the KPDN ministry building bearing the diamond K logo, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 When a trader overcharges you for cooking oil, sells a controlled item above its ceiling price, or refuses to honour a faulty product, the federal body whose job is to act on your behalf is **KPDN** — the **Ministry of Domestic Trade and Cost of Living** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). It develops domestic trade, keeps a lid on the prices of everyday essentials, and protects consumers, backed by real statutes, live complaint channels, and a small-claims tribunal built for ordinary shoppers.

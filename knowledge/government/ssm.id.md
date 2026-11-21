@@ -30,7 +30,7 @@ faq:
     a: "SSM melapor kepada Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup. Portofolio kementerian di Malaysia disusun ulang dari waktu ke waktu, jadi verifikasi kementerian induk terkini di ssm.com.my sebelum bergantung padanya dalam dokumen resmi."
 
 lang: "id"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: Cakrawala KL Sentral berupa menara-menara perkantoran dan hotel yang menjulang di belakang danau hijau Taman Botani Perdana Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Kawasan pusat transportasi Kuala Lumpur Sentral (KL Sentral), tempat kantor pusat SSM, Menara SSM@Sentral, berada, dilihat dari seberang danau Taman Botani Perdana
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## Sekilas pandang

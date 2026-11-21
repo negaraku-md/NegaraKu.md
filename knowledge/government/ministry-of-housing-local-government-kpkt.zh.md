@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: 近距离拍摄的黑色石质标识纪念碑，上有马来西亚国徽、Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government 字样、网址 kpkt.gov.my 以及彩色的 KPKT 房屋徽标
+    kind: actual
+    origin: third-party
+    subject: 部大楼入口处的 KPKT 标识纪念碑，布城
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: 正面拍摄的布城 KPKT 政府塔楼，中央立面悬挂着竖长的 Jalur Gemilang 国旗，两侧是蒲葵，映衬着多云的天空
+    kind: actual
+    origin: third-party
+    subject: 布城 KPKT 塔楼，装饰着竖挂的马来西亚国旗
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 当你的垃圾无人收取、消防安全证书到期，以及发展商延迟两年才交付你的公寓时——背后都是同一个联邦部门。**房屋及地方政府部**，*Kementerian Perumahan dan Kerajaan Tempatan*，普遍简称 **KPKT**，是马来西亚负责可负担房屋、地方政府、城市规划、消防与拯救、固体废料、园林绿化以及社区信贷的联邦部门。其总部位于 No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya。部长为 **倪可敏（Nga Kor Ming）**，副部长为 **拿督哈嘉·艾曼·阿蒂拉·沙布（Datuk Hajah Aiman Athirah binti Sabu）**。

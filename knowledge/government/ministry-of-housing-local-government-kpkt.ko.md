@@ -27,7 +27,7 @@ faq:
   - q: "KPKT는 이전에 무엇으로 불렸으며, 명칭은 언제 바뀌었습니까?"
     a: "지방정부개발부(Ministry of Local Government Development)였습니다. 내각은 2023년 12월 13일에 이를 주택지방정부부(Ministry of Housing and Local Government)로 개칭하기로 결정하였고, 2023년 12월 26일에 발표하였습니다."
 lang: "ko"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: 말레이시아 국장, Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government 문구, 웹 주소 kpkt.gov.my, 그리고 알록달록한 KPKT 집 로고가 새겨진 검은색 석재 표식 기념비 근접 장면
+    kind: actual
+    origin: third-party
+    subject: 부처 건물 입구의 KPKT 표식 기념비, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: 흐린 하늘을 배경으로 부채야자에 둘러싸인 채, 중앙 정면에 긴 세로형 Jalur Gemilang 국기가 걸린 푸트라자야 KPKT 정부 타워의 정면 전경
+    kind: actual
+    origin: third-party
+    subject: 세로형 말레이시아 국기로 장식된 푸트라자야 KPKT 타워
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 여러분의 쓰레기가 수거되지 않을 때, 소방 안전 증명서를 갱신할 때가 되었을 때, 그리고 개발업자가 여러분의 아파트를 2년 늦게 인도할 때 — 그 셋 모두의 뒤에 같은 연방 부처가 서 있습니다. **주택지방정부부**, *Kementerian Perumahan dan Kerajaan Tempatan*, 널리 **KPKT**로 알려진 이 부처는 저렴주택, 지방정부, 도시 계획, 소방·구조, 고형폐기물, 조경, 지역사회 신용을 담당하는 말레이시아 연방 부처입니다. 본부는 연방정부 행정중심지 62100 Putrajaya의 No. 51, Persiaran Perdana, Precinct 4에 있습니다. 장관은 **Nga Kor Ming**, 부장관은 **Datuk Hajah Aiman Athirah binti Sabu**입니다.

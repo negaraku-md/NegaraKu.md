@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: マレーシアの国章、Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Governmentの文字、ウェブアドレスkpkt.gov.my、そして色鮮やかなKPKTの家のロゴを掲げた、黒い石の看板モニュメントの接写
+    kind: actual
+    origin: third-party
+    subject: 省庁ビル入口にあるKPKTの看板モニュメント、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: プトラジャヤにあるKPKT政府タワーを正面から見た眺め。中央のファサードには縦長のJalur Gemilang国旗が掛けられ、曇り空を背にオウギヤシが縁取る
+    kind: actual
+    origin: third-party
+    subject: 縦長のマレーシア国旗で飾られたプトラジャヤのKPKTタワー
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 あなたのごみが収集されないとき、消防安全証明書の更新期限が迫っているとき、そしてデベロッパーがあなたのフラットを2年遅れで引き渡すとき——そのすべての背後に同じ一つの連邦省が存在する。**住宅・地方政府省**、*Kementerian Perumahan dan Kerajaan Tempatan*、通称**KPKT**は、手頃な価格の住宅、地方自治、都市・農村計画、消防・救助、固形廃棄物、造園、そして地域信用を所管するマレーシアの連邦省である。本部はNo. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajayaにある。大臣は**Nga Kor Ming**、副大臣は**Datuk Hajah Aiman Athirah binti Sabu**である。

@@ -30,7 +30,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: 近距离拍摄的 Ministry of Education 大楼拱形门廊入口，门口上方有蓝色 KEMENTERIAN PENDIDIKAN MALAYSIA 字样和金色国徽，旗杆上飘扬着马来西亚国旗和州旗
+    kind: actual
+    origin: third-party
+    subject: 马来西亚教育部总部正门，布城，可见 KEMENTERIAN PENDIDIKAN MALAYSIA 标识和国徽
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: 从引道望去的马来西亚教育部总部完整层叠式立面，华丽的中央塔楼和对称的两翼沿线飘扬着马来西亚国旗，停车场上方天空明亮多云
+    kind: actual
+    origin: third-party
+    subject: 从引道拍摄的马来西亚教育部总部建筑群正面宽景，布城
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 凡是与马来西亚学童相关的事务——他们所学的课程、桌上的教科书、参加的全国考试，或站在讲台前的公立学校教师——都归教育部管辖。它在马来文中称为 **Kementerian Pendidikan Malaysia**，几乎总是简称为 **KPM**，是负责运作全国高等教育前教育体系的联邦部门。它*不*负责的是大学——这是一个让许多人混淆的界线。

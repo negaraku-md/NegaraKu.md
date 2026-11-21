@@ -27,7 +27,7 @@ faq:
   - q: "KPDN ใช้กฎหมายใดในการควบคุมราคา?"
     a: "พึ่งพาพระราชบัญญัติควบคุมสินค้า 1961 และพระราชบัญญัติควบคุมราคาและต่อต้านการค้ากำไรเกินควร 2011 เป็นหลัก ซึ่งให้อำนาจในการกำหนดเพดานราคา กำหนดให้แสดงราคา และดำเนินการต่อกำไรที่สูงเกินสมควร"
 lang: "th"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: ภาพสามส่วนสี่ของอาคารกระทรวง KPDN หินทรายในปุตราจายา มีตัวอักษรสีทอง 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' บนฐานหินแกรนิตสีเข้ม และรถบัสของกระทรวงจอดอยู่ที่ทางเข้า
+    kind: actual
+    origin: third-party
+    subject: ภาพมุมเฉียงของทางเข้าอาคาร KPDN พร้อมป้ายกระทรวงและรถบัสของกระทรวง ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: ภาพมุมต่ำของหอคอยหินทรายสไตล์อาร์ตเดโคแบบเป็นชั้นของกระทรวง KPDN ในปุตราจายา ยอดเป็นตราสัญลักษณ์กระทรวงรูปตัว K ทรงเพชรสีน้ำเงิน-ทอง ตัดกับท้องฟ้าที่มีเมฆบางส่วน
+    kind: actual
+    origin: third-party
+    subject: หอคอยแบบเป็นชั้นของอาคารกระทรวง KPDN ที่มีโลโก้ตัว K ทรงเพชร ปุตราจายา
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 เมื่อพ่อค้าเรียกเก็บเงินค่าน้ำมันปรุงอาหารจากคุณเกินราคา ขายสินค้าควบคุมเกินเพดานราคา หรือปฏิเสธที่จะรับผิดชอบสินค้าที่ชำรุด หน่วยงานระดับสหพันธ์ที่มีหน้าที่ดำเนินการแทนคุณคือ **KPDN** — **กระทรวงการค้าภายในประเทศและค่าครองชีพ** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*) กระทรวงนี้พัฒนาการค้าภายในประเทศ ควบคุมราคาสินค้าจำเป็นในชีวิตประจำวัน และคุ้มครองผู้บริโภค โดยมีกฎหมายจริง ช่องทางร้องเรียนที่ใช้งานได้ และศาลเรียกร้องขนาดเล็กที่สร้างขึ้นสำหรับผู้ซื้อทั่วไปเป็นตัวหนุน

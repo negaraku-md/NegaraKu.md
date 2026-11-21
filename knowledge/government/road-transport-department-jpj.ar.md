@@ -29,7 +29,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9b4ba9b9f0826cbb"
+sourceContentHash: "d2a76d73479e19c2"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: لافتة طريق ماليزية خضراء مكتوب عليها 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' بأحرف صفراء مع رمز أزرق لشاحنة 'Timbang' للوزن، تشير إلى محطة إنفاذ JPJ
+    kind: actual
+    origin: third-party
+    subject: لافتة طريق إرشادية لمحطة إنفاذ JPJ مكتوب عليها 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' مع رمز شاحنة ومحطة وزن
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 يلتقي معظم الناس **دائرة النقل البري** في لحظةٍ واحدة — عند تجديد ضريبة الطريق، أو أداء اختبار القيادة، أو نقل ملكية سيارة مستعملة. لكن JPJ هي الدائرة التي تقف خلف كل واحدة من تلك المعاملات. فـ**دائرة النقل البري** (*Jabatan Pengangkutan Jalan*، أو **JPJ**) جهاز تابع لـ**وزارة النقل (MOT)** الماليزية. تسجّل المركبات الآلية والسائقين، وتصدر رخص القيادة وضريبة الطريق ولوحات الأرقام، وترخّص المركبات التجارية، وتنفّذ القوانين التي تحكم كيفية استعمال المركبات والسائقين للطرق العامة.

@@ -27,7 +27,7 @@ faq:
   - q: "விலைகளைக் கட்டுப்படுத்த KPDN எந்தச் சட்டங்களைப் பயன்படுத்துகிறது?"
     a: "இது முக்கியமாக Control of Supplies Act 1961 மற்றும் Price Control and Anti-Profiteering Act 2011 ஆகியவற்றை நம்பியுள்ளது; இவை விலை உச்சவரம்புகளை நிர்ணயிக்கவும், விலைக் காட்சிப்படுத்தலைக் கோரவும், நியாயமற்ற உயர்லாபங்களுக்கு எதிராகச் செயல்படவும் அனுமதிக்கின்றன."
 lang: "ta"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: புத்ராஜெயாவில் உள்ள மணற்கல் நிற KPDN அமைச்சகக் கட்டிடத்தின் முக்கால்-பகுதிக் காட்சி; அடர் கிரானைட் அடித்தளத்தில் தங்க நிற 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' எழுத்துகளுடன், நுழைவாயிலில் அமைச்சக-வண்ண பேருந்து நிறுத்தப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: அமைச்சக பலகை மற்றும் அமைச்சக பேருந்துடன் கூடிய KPDN கட்டிட நுழைவாயிலின் சாய்வுக் காட்சி, புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: புத்ராஜெயாவில் உள்ள KPDN அமைச்சகத்தின் படிநிலை, ஆர்ட்-டெகோ பாணி மணற்கல் கோபுரத்தின் கீழ்-கோணக் காட்சி; ஓரளவு மேகமூட்டமான வானத்திற்கு எதிராக அதன் மேலே நீல-தங்க வைர K அமைச்சக சின்னம்
+    kind: actual
+    origin: third-party
+    subject: வைர K சின்னத்தைச் சுமக்கும் KPDN அமைச்சகக் கட்டிடத்தின் படிநிலைக் கோபுரம், புத்ராஜெயா
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 சமையல் எண்ணெய்க்கு ஒரு வியாபாரி உங்களிடம் அதிக விலை வசூலிக்கும்போது, கட்டுப்பாட்டுப் பொருள் ஒன்றை அதன் உச்சவரம்பு விலைக்கு மேல் விற்கும்போது, அல்லது குறைபாடுள்ள ஒரு பொருளை மதிக்க மறுக்கும்போது — உங்கள் சார்பாகச் செயல்படுவதைப் பணியாகக் கொண்ட மத்திய அமைப்பு **KPDN** — அதாவது **உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). இது உள்நாட்டு வர்த்தகத்தை வளர்க்கிறது, அன்றாட அத்தியாவசியப் பொருட்களின் விலைகளைக் கட்டுக்குள் வைக்கிறது, மேலும் நுகர்வோரைப் பாதுகாக்கிறது — உண்மையான சட்டங்கள், நேரடிப் புகார் வழிகள், மற்றும் சாதாரண வாங்குவோருக்காக உருவாக்கப்பட்ட ஒரு சிறு-உரிமைகோரல் தீர்ப்பாயம் ஆகியவற்றால் ஆதரிக்கப்படுகிறது.

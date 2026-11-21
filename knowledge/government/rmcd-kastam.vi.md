@@ -36,7 +36,7 @@ verificationNeeded:
   - "Danh mục cổng thông tin ngoài MySST và ezHS (MyTTx, MyDLV, hệ thống tem thuế, MNTR) không được xác nhận với một trang RMCD được dẫn; ấn bản hiện tại của Lệnh Thuế Hải quan và số lượng biểu ưu đãi FTA trong ezHS cũng không được xác nhận và được mô tả một cách định tính"
 
 lang: "vi"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,6 +126,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Ka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: Tòa nhà trụ sở chính nhiều tầng màu kem của Cục Hải quan Hoàng gia Malaysia tại Putrajaya, mặt tiền phía trên mang dòng chữ Jabatan Kastam Diraja Malaysia, nhìn từ đường phố qua một hàng cây ven đường
+    kind: actual
+    origin: third-party
+    subject: Trụ sở chính của Cục Hải quan Hoàng gia Malaysia ở trung tâm hành chính liên bang, Putrajaya
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: Một tòa nhà hải quan hai tầng màu đào và kem trong ánh sáng ấm mang các biển Wisma Kastam Sabah và Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department, với một tấm bia biển hiệu màu xanh và lối xe có mái che ở Kota Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, tòa nhà bang của Cục Hải quan Hoàng gia Malaysia tại Kota Kinabalu, Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 Hai cơ quan, một bộ, và một ranh giới mà hầu như không ai vẽ đúng ngay lần đầu. Nếu thuế

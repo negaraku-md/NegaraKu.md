@@ -35,7 +35,7 @@ faq:
     a: "Setakat tahun 2026, Menteri Luar Negeri ialah Dato' Seri Utama Mohamad Hasan. Portfolio Kabinet berubah dengan rombakan, jadi sahkan pemegang jawatan semasa di kln.gov.my."
 
 lang: "ms"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Jalan masuk berbaris pokok palma ke Wisma Putra menunjukkan papan tanda Wisma Putra Kementerian Luar Negeri Malaysia dan menara kementerian di sebaliknya
+    kind: actual
+    origin: third-party
+    subject: Jalan masuk Wisma Putra dengan papan tanda pintu masuknya, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: Pandangan luas pintu masuk kompleks Wisma Putra dengan bendera negeri dan pondok pengawal di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Pandangan lebih luas pintu masuk dan pondok pengawal Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Apabila seorang rakyat Malaysia terkandas di luar negara, apabila Malaysia

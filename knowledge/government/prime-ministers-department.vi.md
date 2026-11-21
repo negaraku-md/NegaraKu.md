@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu Văn phòng Thủ tướng thực sự là gì, vì sao rất nhiều cơ quan liên bang có vẻ không liên quan lại trực thuộc nó, và nó khác với một bộ thông thường như thế nào."
 
 lang: "vi"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: Cảnh nhìn từ phía trước đối xứng của Perdana Putra với cờ Malaysia xếp dọc theo đại lộ dẫn vào
+    kind: actual
+    origin: third-party
+    subject: Mặt tiền của Perdana Putra nhìn từ đại lộ nghi lễ, Putrajaya
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: Mái vòm xanh của Perdana Putra vươn lên trên một đại lộ nghi lễ hai bên trồng cây ở Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra nhìn dọc theo đường dẫn vào được tạo cảnh quan, Putrajaya
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 Malaysia không có một bộ duy nhất vận hành cỗ máy chính sách hằng ngày của đất nước. Nó có

@@ -94,6 +94,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Cor
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: A sweeping ship-prow shaped tower of dark banded glass raised on tall white columns, framed by royal palms under a bright blue sky with scattered cloud in Putrajaya
+    kind: actual
+    origin: third-party
+    subject: The curved dark-glass tower of the Malaysian Anti-Corruption Commission (MACC) headquarters, Putrajaya (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 Most descriptions of MACC stop at "Malaysia's anti-corruption agency". The more useful

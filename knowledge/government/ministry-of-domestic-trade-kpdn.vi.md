@@ -27,7 +27,7 @@ faq:
   - q: "KPDN dùng những luật nào để kiểm soát giá?"
     a: "Nó chủ yếu dựa vào Luật Kiểm soát Nguồn cung (Control of Supplies Act 1961) và Luật Kiểm soát Giá và Chống Trục lợi (Price Control and Anti-Profiteering Act 2011), cho phép nó đặt mức trần giá, yêu cầu niêm yết giá, và hành động chống lại lợi nhuận cao một cách bất hợp lý."
 lang: "vi"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Cảnh nhìn ba phần tư của tòa nhà bộ KPDN bằng đá sa thạch tại Putrajaya, dòng chữ vàng 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' trên phần đế đá granit sẫm màu và một chiếc xe buýt mang màu của bộ đậu ở lối vào
+    kind: actual
+    origin: third-party
+    subject: Cảnh nhìn chéo của lối vào tòa nhà KPDN với biển hiệu của bộ và một xe buýt của bộ, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Cảnh nhìn từ góc thấp của tòa tháp đá sa thạch phân tầng theo phong cách art-deco của bộ KPDN tại Putrajaya, trên đỉnh là biểu tượng chữ K hình kim cương màu xanh-vàng của bộ in trên nền trời nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp phân tầng của tòa nhà bộ KPDN mang biểu tượng chữ K hình kim cương, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 Khi một thương nhân tính giá dầu ăn quá cao cho bạn, bán một mặt hàng được kiểm soát trên mức giá trần của nó, hoặc từ chối bảo hành một sản phẩm bị lỗi, cơ quan liên bang có nhiệm vụ hành động thay bạn là **KPDN** — **Bộ Thương mại Nội địa và Chi phí Sinh hoạt** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). Nó phát triển thương mại nội địa, kìm giữ giá các mặt hàng thiết yếu hằng ngày, và bảo vệ người tiêu dùng, được hậu thuẫn bởi các đạo luật thực sự, các kênh khiếu nại trực tuyến, và một tòa trọng tài khiếu nại nhỏ được xây dựng cho người mua hàng bình thường.

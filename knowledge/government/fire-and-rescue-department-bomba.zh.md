@@ -28,7 +28,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -81,6 +81,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: 一辆鲜红色的 Scania 消防车，车身标有 BOMBA 字样，车顶折叠着云梯，停在一条棕榈树夹道的大道上，正值马来西亚国庆游行
+    kind: actual
+    origin: third-party
+    subject: 马来西亚 Bomba 的一辆红色 Scania 云梯消防车，摄于2023年彭亨州关丹的国庆游行
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: 一群马来西亚消防员身穿深蓝色T恤和橙色迷彩长裤，站立和蹲坐在两辆标有 BOMBA 字样的红色消防车前，背景是消防局的车库
+    kind: actual
+    origin: third-party
+    subject: 马来西亚消防员在沙巴山打根的 Balai Bomba Sandakan 消防局，在他们的红色 BOMBA 消防车前合影
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 在马来西亚问任何人，当建筑物起火或有人被困时该找谁，答案都是同一个词：**Bomba**。**马来西亚消防与拯救局**——*Jabatan Bomba dan Penyelamat Malaysia*（**JBPM**），几乎人人都只简称 **BOMBA**——是负责全国灭火、拯救、危险物品应对与消防安全执法的联邦机构。它是[**房屋及地方政府部**](/zh/government/ministry-of-housing-local-government-kpkt)（*Kementerian Perumahan dan Kerajaan Tempatan*，KPKT）辖下的机构，紧急时可拨**999**求助。

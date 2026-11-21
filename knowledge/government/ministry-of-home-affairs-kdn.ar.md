@@ -27,7 +27,7 @@ faq:
   - q: "من وزير الداخلية؟"
     a: "اعتبارًا من 2026، وزير الداخلية هو داتو سري بانجليما سيف الدين ناسوتيون بن إسماعيل، في المنصب منذ 3 ديسمبر 2022. وتتغير الحقائب الوزارية مع التعديلات الحكومية، لذا تحقّق من شاغل المنصب الحالي على moha.gov.my."
 lang: "ar"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: منظر قريب لأعلى برج وزارة الداخلية ذي الطوب الأحمر في بوتراجايا، مع شعار الوزارة وكتابة 'KDN' الكبيرة البيضاء المثبّتة قرب حافة السطح
+    kind: actual
+    origin: third-party
+    subject: الطوابق العليا لمبنى KDN تُظهر شعار 'KDN' والكتابة على الواجهة، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: مبنى وزارة الداخلية ذو الطوب الأحمر في بوتراجايا كما يُرى عبر ساحة مدرّجة متناظرة بشلال مائي مركزي متدرّج وصفوف من أشجار النخيل تحت سماء زرقاء غائمة
+    kind: actual
+    origin: third-party
+    subject: مبنى KDN كما يُرى من ساحة الشلال المائي المدرّجة، المبنى D1، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 حين يجدّد ماليزي جواز سفر، وحين تنفّذ الشرطة اعتقالًا، وحين يُدقَّق تصريح عامل

@@ -37,7 +37,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Wisma Putra Kementerian Luar Negeri Malaysia பலகையையும், அதற்கு அப்பால் உள்ள அமைச்சக கோபுரத்தையும் காட்டும், பனை மரங்கள் வரிசையாக நிற்கும் Wisma Putra நுழைவுப் பாதை
+    kind: actual
+    origin: third-party
+    subject: அதன் நுழைவாயில் பலகையுடன் கூடிய Wisma Putra நுழைவுப் பாதை, புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: புத்ராஜெயாவில் மாநிலக் கொடிகளும் வாயில்-குடிசையும் கொண்ட Wisma Putra வளாக நுழைவாயிலின் அகன்ற காட்சி
+    kind: actual
+    origin: third-party
+    subject: Wisma Putra நுழைவாயில் மற்றும் வாயில்-குடிசையின் அகன்ற காட்சி, புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 ஒரு மலேசியர் வெளிநாட்டில் சிக்கிக்கொள்ளும்போது, மலேசியா ஐக்கிய நாடுகள் சபையில்

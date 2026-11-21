@@ -28,7 +28,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "facadf452f025faf"
+sourceContentHash: "525c926fd5a341fa"
 status: "archived"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_MITI,_Segambut_20230
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MITI, the Ministry of Investment, Trade and Industry tower at KL Metropolis, Segambut, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/government/ministry-of-investment-trade-industry-miti/body-1.webp
+    alt: 吉隆坡 KL Metropolis 贸易区的街道视角：右侧是高耸的蓝色玻璃 Menara MITI 大楼，旁边是一座带有巨大拱形开口的深色展览建筑，天空阴沉
+    kind: actual
+    origin: third-party
+    subject: Menara MITI（右）旁边是拱形的 MITEC / MATRADE 展览综合体，位于吉隆坡 KL Metropolis
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
 ---
 
 仔细看这四个字母，你会发现其中的玄机：**MITI** 从前代表的是「国际」（*International*）贸易及工业部。自 2023 年 4 月起，它代表的是**投资**（Investment）、贸易及工业部（马来文：*Kementerian Pelaburan, Perdagangan dan Industri*）——相同的缩写，改了一个词，职权也略有变化。这是马来西亚负责投资、国际贸易及工业政策的联邦部门，本页将说明它的职责、由谁掌管，以及它与自身下属机构有何区别。

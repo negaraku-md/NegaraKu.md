@@ -30,7 +30,7 @@ faq:
     a: "SSM은 국내통상생활비부(Ministry of Domestic Trade and Cost of Living)에 보고합니다. 말레이시아의 부처 소관은 주기적으로 재편되므로, 공식 문서에서 의존하기 전에 ssm.com.my에서 현재 주무 부처를 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: 쿠알라룸푸르 Perdana 식물원의 녹색 호수 뒤로 솟은 KL Sentral의 오피스 및 호텔 타워 스카이라인
+    kind: representative
+    origin: third-party
+    subject: SSM 본부인 Menara SSM@Sentral이 위치한 쿠알라룸푸르 센트랄(KL Sentral) 교통 허브 일대를 Perdana 식물원 호수 건너편에서 바라본 전경
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## 한눈에 보기

@@ -30,7 +30,7 @@ faq:
     a: "عامِلها بوصفها ترجمة، لا مصدرًا. فصفحات LHDN باللغة الإنجليزية مترجمة آليًا وتتضمّن أخطاءً مؤكّدة تقلب المعنى. ولأيّ أمر جوهري، اقرأ الصفحة الملايوية الأصلية واقتبس منها."
 
 lang: "ar"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: برج مكاتب زجاجي مرتفع بلون أزرق مخضر مع قاعدة بلون عنابي تحمل لافتتَي HASIL و Lembaga Hasil Dalam Negeri فوق المدخل، يُرى من الشارع في كوتشينغ، ساراواك
+    kind: actual
+    origin: third-party
+    subject: برج مجلس الإيرادات الداخلية (LHDN / Lembaga Hasil Dalam Negeri) في كوتشينغ، ساراواك
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: مبنى مكاتب شاهق أبيض اللون بزجاج فيروزي يعرض شعار HASIL الأزرق قرب حافة سطحه، يرتفع فوق طريق تصطف على جانبيه الأشجار في كوتا كينابالو، صباح
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil، مبنى مجلس الإيرادات الداخلية الماليزي (LHDN) في كوتا كينابالو، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## لمحة سريعة

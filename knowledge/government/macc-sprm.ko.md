@@ -32,7 +32,7 @@ faq:
     a: "그렇습니다. 2018년 개정(Act A1567)으로 도입되어 2020년 6월 1일부터 시행된 제17A조는, 상업 조직과 결부된 자가 사업을 얻거나 유지하기 위하여 부패하게 대가를 주거나 제공하는 경우 그 상업 조직에 책임을 지웁니다. 이와 별도로, 제3조의 「공공기관(public body)」 정의는 공공기관이 지배력이나 지분을 가진 회사와 자회사에까지 미칩니다."
 
 lang: "ko"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Cor
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: 푸트라자야에서 흩어진 구름이 있는 밝고 푸른 하늘을 배경으로, 높은 흰색 기둥 위에 올라선 짙은 띠무늬 유리의 배 뱃머리 모양으로 휘어진 타워가 왕야자수에 둘러싸여 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 반부패위원회(MACC) 본부의 곡선형 짙은 유리 타워, 푸트라자야 (2022년)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 MACC에 대한 대부분의 설명은 "말레이시아의 반부패 기관"에서 멈춥니다. 더 유용한 질문은 더 좁습니다. 즉, 이 법이 실제로 그 관료에게 무엇을 허용하는지, 그리고 누가 법적으로 그들을 감시할 권한이 있는지입니다.

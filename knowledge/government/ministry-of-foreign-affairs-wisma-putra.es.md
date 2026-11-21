@@ -35,7 +35,7 @@ faq:
     a: "A 2026, el Ministro de Asuntos Exteriores es Dato' Seri Utama Mohamad Hasan. Las carteras del gabinete cambian con las remodelaciones, así que confirma el titular actual en kln.gov.my."
 
 lang: "es"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Acceso bordeado de palmeras a Wisma Putra que muestra el letrero Wisma Putra Kementerian Luar Negeri Malaysia y la torre del ministerio al fondo
+    kind: actual
+    origin: third-party
+    subject: Acceso a Wisma Putra con su letrero de entrada, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: Vista amplia de la entrada del complejo Wisma Putra con banderas estatales y caseta de vigilancia en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Vista más amplia de la entrada y la caseta de vigilancia de Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Cuando un malasio queda varado en el extranjero, cuando Malasia emite un voto en las Naciones Unidas, o cuando un nuevo embajador presenta sus credenciales en una capital extranjera, la misma institución respalda las tres cosas — Wisma Putra.

@@ -27,7 +27,7 @@ faq:
   - q: "ماذا كان اسم KPKT من قبل، ومتى تغيّر الاسم؟"
     a: "كانت وزارة تطوير الحكومة المحلية؛ وقرّر مجلس الوزراء إعادة تسميتها وزارة الإسكان والحكومة المحلية في 13 ديسمبر 2023، وأُعلن ذلك في 26 ديسمبر 2023."
 lang: "ar"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: لقطة قريبة لنصب لافتة حجري أسود يحمل شعار النبالة الماليزي، وعبارة Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government، وعنوان الموقع kpkt.gov.my وشعار KPKT الملوّن على هيئة منزل
+    kind: actual
+    origin: third-party
+    subject: نصب لافتة KPKT عند مدخل مبنى الوزارة، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: منظر أمامي لبرج KPKT الحكومي في بوتراجايا، وواجهته المركزية مزدانة بأعلام Jalur Gemilang الوطنية العمودية الطويلة، تؤطّرها نخيل مروحية أمام سماء غائمة
+    kind: actual
+    origin: third-party
+    subject: برج KPKT في بوتراجايا مزيّنًا بالأعلام الماليزية العمودية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 حين لا تُجمَع نفاياتك، وحين تحين شهادة السلامة من الحرائق، وحين يسلّمك مطوّر شقتك

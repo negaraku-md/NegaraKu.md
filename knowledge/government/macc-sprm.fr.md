@@ -33,7 +33,7 @@ faq:
     a: "Oui. La section 17A, introduite par l'amendement de 2018 (Act A1567) et en vigueur depuis le 1er juin 2020, rend une organisation commerciale responsable lorsqu'une personne qui lui est associée donne ou offre de manière corrompue une gratification pour obtenir ou conserver des affaires. Par ailleurs, la définition d'« organisme public » (public body) de la section 3 de la Loi s'étend aux entreprises et filiales dans lesquelles un organisme public détient un pouvoir ou une participation de contrôle."
 
 lang: "fr"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Cor
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: Une tour élancée en forme de proue de navire, en verre à bandes sombres, surélevée sur de hautes colonnes blanches, encadrée de palmiers royaux sous un ciel bleu lumineux parsemé de nuages à Putrajaya
+    kind: actual
+    origin: third-party
+    subject: La tour incurvée en verre sombre du siège de la Commission malaisienne de lutte contre la corruption (MACC), Putrajaya (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 La plupart des descriptions de la MACC s'arrêtent à « l'agence anticorruption de la Malaisie ». La question la plus utile est plus étroite : que permet réellement la Loi à ses agents de faire, et qui a le droit légal de les surveiller ?

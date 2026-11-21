@@ -27,7 +27,7 @@ verificationNeeded:
   - "يؤكّد رقم الـ47 مكتبًا في الخارج تقريران إخباريان من 2026 مؤرّخان بشكل مستقل ويستشهدان برئيس MATRADE ورئيسها التنفيذي ذاتهما، لكنه لم يُراجَع تقاطعيًا مع صفحة دليل مكاتب مستضافة لدى MATRADE، التي لم تتمكّن محاولات الوصول في هذا المقال من استرجاعها بالكامل"
 
 lang: "ar"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Conv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: برج Menara MATRADE المقوّس بجوار برج Menara MITI الزجاجي المرتفع وقبة قاعة معارض فضية، يُرى من خلف صف من الأزهار الأرجوانية تحت سماء رمادية
+    kind: actual
+    origin: third-party
+    subject: منظر من الشارع لمجمّع MATRADE مع برج Menara MATRADE المقوّس وبرج Menara MITI الزجاجي وقبة MITEC، كوالالمبور
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: منظر جوي فوق كوالالمبور يُظهر برج Menara MATRADE الداكن ذا البوابة المقوّسة وقاعة معارض MITEC الفضية الكبيرة على هيئة صدفة بجواره
+    kind: actual
+    origin: third-party
+    subject: منظر جوي لبرج Menara MATRADE ومركز معارض MITEC على هيئة صدفة في منطقة KL Metropolis، كوالالمبور
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 اسأل مصدّرًا جديدًا أي وكالة حكومية تتولّى جناحه في المعرض التجاري، وسيجيب نحو

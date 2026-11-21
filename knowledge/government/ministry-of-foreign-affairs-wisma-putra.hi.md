@@ -35,7 +35,7 @@ faq:
     a: "2026 तक विदेश मंत्री Dato' Seri Utama Mohamad Hasan हैं। मंत्रिमंडल के विभाग फेरबदल के साथ बदलते हैं, इसलिए वर्तमान पदधारी की पुष्टि kln.gov.my पर करें।"
 
 lang: "hi"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Wisma Putra की ताड़ के पेड़ों से घिरी पहुँच, जिसमें Wisma Putra Kementerian Luar Negeri Malaysia साइनबोर्ड और उसके पीछे मंत्रालय मीनार दिख रही है
+    kind: actual
+    origin: third-party
+    subject: अपने प्रवेश साइनबोर्ड के साथ Wisma Putra की पहुँच, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: पुत्रजया में राज्य ध्वजों और द्वार-गृह के साथ Wisma Putra परिसर के प्रवेश का चौड़ा दृश्य
+    kind: actual
+    origin: third-party
+    subject: Wisma Putra प्रवेश और द्वार-गृह का व्यापक दृश्य, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 जब कोई मलेशियाई विदेश में फँस जाता है, जब मलेशिया संयुक्त राष्ट्र में मतदान करता है, या जब कोई नया राजदूत किसी विदेशी राजधानी में अपना परिचय-पत्र प्रस्तुत करता है, तो इन तीनों के पीछे एक ही संस्था खड़ी होती है — Wisma Putra।

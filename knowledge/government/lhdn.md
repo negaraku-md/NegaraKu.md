@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: A tall blue-green glass office tower with a maroon podium carrying the signs HASIL and Lembaga Hasil Dalam Negeri above the entrance, seen from the street in Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: The Inland Revenue Board (LHDN / Lembaga Hasil Dalam Negeri) tower in Kuching, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: A white and turquoise-glass high-rise office building displaying the blue HASIL wordmark near its roofline, rising above a tree-lined road in Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN) building in Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## At a glance

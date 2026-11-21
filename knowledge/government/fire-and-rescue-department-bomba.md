@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: A bright red Scania fire engine marked BOMBA with a folded aerial ladder on its roof, parked on a palm-lined boulevard during a Malaysian National Day parade
+    kind: actual
+    origin: third-party
+    subject: A red Scania aerial-ladder fire engine of Malaysia's Bomba at the 2023 National Day parade in Kuantan, Pahang
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: A group of Malaysian firefighters in navy T-shirts and orange-camouflage trousers standing and crouching in front of two red fire engines marked BOMBA inside their fire station bays
+    kind: actual
+    origin: third-party
+    subject: Malaysian firefighters at Balai Bomba Sandakan, Sabah, posed in front of their red BOMBA fire engines
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 Ask anyone in Malaysia who to call when a building is burning or someone is trapped, and the answer is the same single word: **Bomba**. The **Fire and Rescue Department of Malaysia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), known to almost everyone simply as **BOMBA** — is the federal agency responsible for firefighting, rescue, hazardous-material response and fire-safety enforcement across the country. It is an agency under the [**Ministry of Housing and Local Government**](/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), and in an emergency it is reached by dialling **999**.

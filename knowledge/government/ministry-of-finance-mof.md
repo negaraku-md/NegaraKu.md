@@ -78,6 +78,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Oblique view of the Ministry of Finance building showing the Perbendaharaan Malaysia Federal Treasury signage and MOF logo
+    kind: actual
+    origin: third-party
+    subject: Ministry of Finance building with 'Perbendaharaan Malaysia / Federal Treasury' signage, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: Frontal view of the sweeping arched facade of Malaysia's Ministry of Finance building in Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Front of the Ministry of Finance building and forecourt, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 Every ringgit the federal government collects and spends passes through one institution: the Ministry of Finance. It is the ministry of the Government of Malaysia charged with responsibility for both government expenditure and revenue raising — it develops economic policy, prepares the Malaysian federal Budget, and oversees financial legislation and regulation. In Malay it is the Kementerian Kewangan, and its core machinery is the Federal Treasury, or Perbendaharaan. This page explains the institution and then untangles it from the separate thing people mean when they search "MOF registration".

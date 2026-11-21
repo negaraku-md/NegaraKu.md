@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "67bfea3efd0d9496"
+sourceContentHash: "919f05faaa650f3e"
 status: "archived"
 aiAssisted: true
 reviewer: null
@@ -91,6 +91,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_J
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Headquarters of the National Registration Department (Jabatan Pendaftaran Negara, JPN) in Putrajaya, with ''JPN'' logos on the tower'
+images:
+  - role: scene
+    src: /media/government/national-registration-department-jpn/body-1.webp
+    alt: Pandangan hadapan penuh ibu pejabat Jabatan Pendaftaran Negara (JPN) di Putrajaya, sebuah bangunan batu bergaya art-deco berperingkat dengan logo 'JPN' pada menara dan papan tanda 'Jabatan Pendaftaran Negara' di atas pintu masuk
+    kind: actual
+    origin: third-party
+    subject: Pandangan hadapan bangunan ibu pejabat Jabatan Pendaftaran Negara (JPN) di Putrajaya, menunjukkan logo 'JPN' pada menara dan papan tanda 'Jabatan Pendaftaran Negara' di tapaknya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_JPN_Putrajaya-30_Disember_2022.jpg
 ---
 
 Kebanyakan panduan tentang **Jabatan Pendaftaran Negara** menjawab satu soalan kaunter — bagaimana menggantikan IC yang hilang, atau apa yang perlu dibawa apabila seorang anak mencapai umur 12 tahun. Namun JPN lebih besar daripada mana-mana transaksi tunggal: ia ialah jabatan yang merekodkan seluruh kehidupan sah seorang rakyat Malaysia. **Jabatan Pendaftaran Negara** (atau **JPN**) ialah sebuah jabatan di bawah **Kementerian Dalam Negeri** (KDN). Ia mendaftarkan peristiwa penting dalam kehidupan setiap individu — kelahiran, kematian, pengangkatan, perkahwinan dan perceraian — menentukan status kewarganegaraan, dan mengeluarkan dokumen pengenalan kepada individu yang layak.

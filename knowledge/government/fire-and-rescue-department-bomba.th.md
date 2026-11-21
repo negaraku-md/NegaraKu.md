@@ -27,7 +27,7 @@ faq:
   - q: "อาคารของฉันต้องมีใบรับรองอัคคีภัยจาก BOMBA หรือไม่?"
     a: "อาคารที่กำหนดว่ามีความเสี่ยงสูงต้องได้รับและรักษาใบรับรองอัคคีภัย (Perakuan Bomba) ที่ออกโดย BOMBA ภายใต้พระราชบัญญัติบริการดับเพลิง 1988 หลังการตรวจสอบความปลอดภัยจากอัคคีภัย ว่าอาคารหนึ่ง ๆ เป็น 'อาคารที่กำหนด' หรือไม่ ตลอดจนแบบฟอร์มและค่าธรรมเนียมปัจจุบัน ควรยืนยันกับ BOMBA หรือสถานีดับเพลิงในท้องถิ่น"
 lang: "th"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: รถดับเพลิง Scania สีแดงสดที่มีตัวอักษร BOMBA พร้อมบันไดกระเช้าพับเก็บอยู่บนหลังคา จอดอยู่บนถนนใหญ่ที่มีต้นปาล์มเรียงราย ระหว่างขบวนพาเหรดวันชาติของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: รถดับเพลิงบันไดกระเช้า Scania สีแดงของ Bomba มาเลเซีย ในขบวนพาเหรดวันชาติปี 2023 ที่กวนตัน รัฐปะหัง
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: กลุ่มนักดับเพลิงมาเลเซียในเสื้อยืดสีกรมท่าและกางเกงลายพรางสีส้ม ยืนและย่อตัวอยู่หน้ารถดับเพลิงสีแดงสองคันที่มีตัวอักษร BOMBA ภายในช่องจอดรถของสถานีดับเพลิง
+    kind: actual
+    origin: third-party
+    subject: นักดับเพลิงมาเลเซียที่ Balai Bomba Sandakan รัฐซาบาห์ ถ่ายภาพหน้ารถดับเพลิง BOMBA สีแดง
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 ถามใครก็ได้ในมาเลเซียว่าควรโทรหาใครเมื่ออาคารกำลังไหม้หรือมีคนติดอยู่ คำตอบก็เหมือนกันคือคำเดียว: **Bomba** **กรมดับเพลิงและกู้ภัยมาเลเซีย** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**) ซึ่งเกือบทุกคนรู้จักเพียงในชื่อ **BOMBA** — เป็นหน่วยงานระดับสหพันธ์ที่รับผิดชอบการดับเพลิง การกู้ภัย การรับมือวัตถุอันตราย และการบังคับใช้ความปลอดภัยจากอัคคีภัยทั่วประเทศ มันเป็นหน่วยงานภายใต้ [**กระทรวงการเคหะและการปกครองท้องถิ่น**](/th/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) และในกรณีฉุกเฉินติดต่อได้โดยกดหมายเลข **999**

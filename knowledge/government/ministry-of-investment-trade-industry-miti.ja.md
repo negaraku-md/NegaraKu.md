@@ -28,7 +28,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "facadf452f025faf"
+sourceContentHash: "525c926fd5a341fa"
 
 status: "archived"
 aiAssisted: true
@@ -74,6 +74,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_MITI,_Segambut_20230
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MITI, the Ministry of Investment, Trade and Industry tower at KL Metropolis, Segambut, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-investment-trade-industry-miti/body-1.webp
+    alt: KL Metropolis商業地区を通りの高さから見た眺め。右側に青いガラス張りの高層Menara MITIタワーが立ち、その隣に壮大なアーチ型の開口部を持つ大きな濃い色の展示ビルがあり、曇り空が広がる
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのKL Metropolisにあるアーチ型のMITEC／MATRADE展示複合施設の隣に立つMenara MITI（右）
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
 ---
 
 四文字をよく見ると、そこに仕掛けがあることに気づくだろう。**MITI**は、かつて「*国際*（International）」貿易産業省の略称だった。2023年4月以降は、**投資**（Investment）、貿易産業省（マレー語：*Kementerian Pelaburan, Perdagangan dan Industri*）の略称になっている——同じ略称、変わったのは一語だけ、そして職務もわずかに変わった。これはマレーシアの投資、国際貿易及び産業政策を担う連邦省であり、本稿ではその職務内容、運営者、そして自らの傘下機関との違いを説明する。

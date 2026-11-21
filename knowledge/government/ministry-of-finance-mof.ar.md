@@ -27,7 +27,7 @@ faq:
   - q: "من يقود وزارة المالية؟"
     a: "اعتبارًا من أغسطس 2026، وزير المالية هو Dato' Seri Anwar bin Ibrahim، مع Datuk Seri Amir Hamzah bin Azizan وزيرًا للمالية الثاني، وDatuk Johan Mahmood bin Merican أمينًا عامًّا للخزانة. ويتغير شاغلو المناصب مع التعديلات الوزارية، لذا تأكد من الأسماء الحالية على mof.gov.my."
 lang: "ar"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: منظر مائل لمبنى وزارة المالية يُظهر لافتة Perbendaharaan Malaysia / Federal Treasury وشعار MOF
+    kind: actual
+    origin: third-party
+    subject: مبنى وزارة المالية مع لافتة 'Perbendaharaan Malaysia / Federal Treasury'، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: منظر أمامي للواجهة المقوّسة المنسابة لمبنى وزارة المالية الماليزية في بوتراجايا
+    kind: actual
+    origin: third-party
+    subject: واجهة مبنى وزارة المالية وساحته الأمامية، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 كل رينغيت تجبيه الحكومة الاتحادية وتُنفقه يمرّ عبر مؤسسة واحدة: وزارة المالية. وهي وزارة حكومة ماليزيا المُكلَّفة بمسؤولية الإنفاق الحكومي وتحصيل الإيرادات معًا — فتُطوّر السياسة الاقتصادية، وتُعدّ الميزانية الاتحادية الماليزية، وتُشرف على التشريعات والتنظيمات المالية. وبالملايوية هي Kementerian Kewangan، ومحرّكها الأساسي هو الخزانة الاتحادية، أو Perbendaharaan. تشرح هذه الصفحة المؤسسة ثم تفكّها عن الأمر المنفصل الذي يقصده الناس حين يبحثون عن «تسجيل MOF».

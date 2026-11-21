@@ -27,7 +27,7 @@ faq:
   - q: "¿Qué leyes usa KPDN para controlar los precios?"
     a: "Se apoya principalmente en la Ley de Control de Suministros de 1961 (Control of Supplies Act 1961) y la Ley de Control de Precios y Antiespeculación de 2011 (Price Control and Anti-Profiteering Act 2011), que le permiten fijar topes de precios, exigir la exhibición de precios y actuar contra beneficios irrazonablemente altos."
 lang: "es"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Vista en tres cuartos del edificio del ministerio KPDN de piedra arenisca en Putrajaya, con las letras doradas 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' sobre la base de granito oscuro y un autobús con la librea del ministerio estacionado en la entrada
+    kind: actual
+    origin: third-party
+    subject: Vista en ángulo de la entrada del edificio del KPDN con la señalización del ministerio y un autobús del ministerio, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Vista en contrapicado de la torre escalonada de estilo art déco en piedra arenisca del ministerio KPDN en Putrajaya, coronada por el emblema del ministerio, una K en forma de diamante azul y dorado, contra un cielo parcialmente nublado
+    kind: actual
+    origin: third-party
+    subject: La torre escalonada del edificio del ministerio KPDN con el logotipo de la K en forma de diamante, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 Cuando un comerciante te cobra de más por el aceite de cocina, vende un artículo controlado por encima de su precio máximo o se niega a responder por un producto defectuoso, el organismo federal cuyo trabajo es actuar en tu favor es **KPDN** — el **Ministerio de Comercio Interior y Coste de Vida** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). Desarrolla el comercio interior, mantiene a raya los precios de los esenciales cotidianos y protege a los consumidores, respaldado por leyes reales, canales de reclamación activos y un tribunal de pequeñas reclamaciones concebido para los compradores comunes.

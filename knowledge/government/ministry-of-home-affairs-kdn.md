@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: Close view of the top of the red-brick Ministry of Home Affairs tower in Putrajaya, with the ministry crest and large white 'KDN' lettering mounted near the roofline
+    kind: actual
+    origin: third-party
+    subject: Upper floors of the KDN building showing the 'KDN' crest and lettering on the facade, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: The red-brick Ministry of Home Affairs building in Putrajaya seen from across a symmetrical terraced plaza with a stepped central water cascade and rows of palm trees under a cloudy blue sky
+    kind: actual
+    origin: third-party
+    subject: KDN building viewed down the terraced water-cascade plaza, Block D1, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 When a Malaysian renews a passport, when the police make an arrest, when a

@@ -27,7 +27,7 @@ faq:
   - q: "ใครนำกระทรวงการคลัง?"
     a: "ณ เดือนสิงหาคม 2026 รัฐมนตรีว่าการกระทรวงการคลังคือ Dato' Seri Anwar bin Ibrahim โดยมี Datuk Seri Amir Hamzah bin Azizan เป็นรัฐมนตรีว่าการกระทรวงการคลังคนที่สอง และ Datuk Johan Mahmood bin Merican เป็นเลขาธิการกระทรวงพระคลัง ผู้ดำรงตำแหน่งเปลี่ยนไปตามการปรับคณะรัฐมนตรี ดังนั้นให้ตรวจสอบชื่อปัจจุบันที่ mof.gov.my"
 lang: "th"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: ภาพมุมเฉียงของอาคารกระทรวงการคลัง แสดงป้าย Perbendaharaan Malaysia Federal Treasury และโลโก้ MOF
+    kind: actual
+    origin: third-party
+    subject: อาคารกระทรวงการคลังพร้อมป้าย 'Perbendaharaan Malaysia / Federal Treasury' ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: ภาพด้านหน้าของหน้าอาคารทรงโค้งกวาดของอาคารกระทรวงการคลังมาเลเซียในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าของอาคารกระทรวงการคลังและลานด้านหน้า ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 ทุกริงกิตที่รัฐบาลสหพันธ์จัดเก็บและใช้จ่ายผ่านสถาบันเดียว คือกระทรวงการคลัง เป็นกระทรวงของรัฐบาลมาเลเซียที่มีหน้าที่รับผิดชอบทั้งรายจ่ายของรัฐบาลและการระดมรายได้ — พัฒนานโยบายเศรษฐกิจ จัดทำงบประมาณสหพันธ์ของมาเลเซีย และกำกับดูแลกฎหมายและการกำกับดูแลด้านการเงิน ในภาษามลายูคือ Kementerian Kewangan และกลไกหลักคือกระทรวงพระคลังสหพันธ์ หรือ Perbendaharaan หน้านี้อธิบายสถาบันดังกล่าวและจากนั้นแยกมันออกจากสิ่งที่แยกต่างหากซึ่งผู้คนหมายถึงเมื่อค้นหา "การลงทะเบียน MOF"

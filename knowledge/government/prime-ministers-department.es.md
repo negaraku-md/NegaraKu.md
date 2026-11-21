@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que intente entender qué es realmente el Departamento del Primer Ministro, por qué tantos organismos federales aparentemente inconexos dependen de él, y en qué se diferencia de un ministerio ordinario."
 
 lang: "es"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: Vista frontal simétrica de Perdana Putra con banderas de Malasia bordeando el bulevar de acceso
+    kind: actual
+    origin: third-party
+    subject: Fachada principal de Perdana Putra desde el bulevar ceremonial, Putrajaya
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: La cúpula verde de Perdana Putra elevándose sobre un bulevar ceremonial bordeado de árboles en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra visto a lo largo del acceso ajardinado, Putrajaya
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 Malasia no cuenta con un único ministerio que gestione la maquinaria cotidiana de políticas

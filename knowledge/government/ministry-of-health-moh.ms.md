@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -90,6 +90,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: Sebuah bangunan kerajaan berkaca hijau yang mencolok dengan sayap bersegi tajam dan bumbung terjulur, sehelai bendera Malaysia menegak panjang tergantung di sisi kanannya di atas sebuah dataran berjubin
+    kind: actual
+    origin: third-party
+    subject: Bangunan Bahagian Pengurusan Latihan Kementerian Kesihatan Malaysia di kompleks KKM, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 Apabila anda melangkah masuk ke sebuah klinik kerajaan Malaysia, menghulurkan sekeping wang RM1, dan keluar dengan konsultasi serta ubat anda ditanggung, anda sebenarnya menggunakan salah satu sistem kesihatan yang paling banyak disubsidi di dunia. Yang mengendalikannya ialah **Kementerian Kesihatan Malaysia** (**KKM**), atau **MOH** dalam bahasa Inggeris — kementerian persekutuan yang bertanggungjawab terhadap kesihatan awam, penjagaan perubatan, penyelidikan perubatan, promosi kesihatan, pengawalseliaan farmaseutikal dan peranti perubatan, penjagaan pergigian dan keselamatan pesakit. Ibu pejabatnya terletak di Kompleks E (Blok E1, E3, E6, E7 dan E10) di Pusat Pentadbiran Kerajaan Persekutuan, 62590 Putrajaya.

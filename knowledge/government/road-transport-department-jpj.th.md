@@ -27,7 +27,7 @@ faq:
   - q: "ฉันจะต่อใบขับขี่หรือภาษีถนนออนไลน์ได้อย่างไร?"
     a: "JPJ เสนอการต่ออายุออนไลน์ผ่านพอร์ทัลสาธารณะ (mySIKAP) และแอป MyJPJ ซึ่งยังให้สำเนาดิจิทัลของใบขับขี่และภาษีถนน (e-LKM) ด้วย การต่ออายุยังสามารถทำได้ที่เคาน์เตอร์ JPJ และผ่านพันธมิตรที่ได้รับการแต่งตั้ง ตรวจสอบตัวเลือกและค่าธรรมเนียมปัจจุบันบนพอร์ทัล JPJ (jpj.gov.my)"
 lang: "th"
-sourceContentHash: "9b4ba9b9f0826cbb"
+sourceContentHash: "d2a76d73479e19c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,16 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: ป้ายถนนมาเลเซียสีเขียวข้อความ 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' ตัวอักษรสีเหลือง พร้อมสัญลักษณ์รถบรรทุกสีน้ำเงิน 'Timbang' สะพานชั่งน้ำหนัก ชี้ไปยังสถานีบังคับใช้กฎหมายของ JPJ
+    kind: actual
+    origin: third-party
+    subject: ป้ายบอกทางสถานีบังคับใช้กฎหมายของ JPJ ข้อความ 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' พร้อมสัญลักษณ์รถบรรทุก-สะพานชั่งน้ำหนัก
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 คนส่วนใหญ่พบ **กรมการขนส่งทางถนน** ในช่วงเวลาเดียว — ตอนต่อภาษีถนน สอบใบขับขี่ หรือโอนรถมือสอง แต่ JPJ คือกรมที่อยู่เบื้องหลังทุกธุรกรรมเหล่านั้น **กรมการขนส่งทางถนน** (*Jabatan Pengangkutan Jalan* หรือ **JPJ**) เป็นหน่วยงานภายใต้ **กระทรวงคมนาคม (MOT)** ของมาเลเซีย มันจดทะเบียนยานยนต์และผู้ขับขี่ ออกใบขับขี่ ภาษีถนน และป้ายทะเบียน ออกใบอนุญาตยานพาหนะเชิงพาณิชย์ และบังคับใช้กฎหมายที่กำกับว่ายานพาหนะและผู้ขับขี่ใช้ถนนสาธารณะอย่างไร

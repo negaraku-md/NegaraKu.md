@@ -30,7 +30,7 @@ faq:
     a: "Traitez-les comme une traduction, et non comme une source. Les pages en anglais de LHDN sont traduites automatiquement et contiennent des erreurs confirmées qui inversent le sens. Pour tout ce qui compte, lisez la page originale en malais et citez-la."
 
 lang: "fr"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: Une haute tour de bureaux en verre bleu-vert avec un socle grenat portant les enseignes HASIL et Lembaga Hasil Dalam Negeri au-dessus de l'entrée, vue depuis la rue à Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: La tour du Conseil des recettes intérieures (LHDN / Lembaga Hasil Dalam Negeri) à Kuching, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: Un immeuble de bureaux de grande hauteur en verre blanc et turquoise affichant le logotype bleu HASIL près de sa corniche, s'élevant au-dessus d'une route bordée d'arbres à Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil, le bâtiment du Conseil des recettes intérieures de Malaisie (LHDN) à Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## En un coup d'œil

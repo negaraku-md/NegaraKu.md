@@ -27,7 +27,7 @@ faq:
   - q: "Qui dirige le ministère des Finances ?"
     a: "En août 2026, le ministre des Finances est Dato' Seri Anwar bin Ibrahim, avec Datuk Seri Amir Hamzah bin Azizan comme ministre des Finances II et Datuk Johan Mahmood bin Merican comme secrétaire général du Trésor. Les titulaires changent au gré des remaniements ministériels, alors vérifiez les noms actuels sur mof.gov.my."
 lang: "fr"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Vue oblique du bâtiment du ministère des Finances montrant l'enseigne Perbendaharaan Malaysia Federal Treasury et le logo du MOF
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment du ministère des Finances avec l'enseigne « Perbendaharaan Malaysia / Federal Treasury », Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: Vue frontale de la façade incurvée en arche du bâtiment du ministère des Finances de Malaisie à Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Façade du bâtiment du ministère des Finances et de son parvis, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 Chaque ringgit que le gouvernement fédéral lève et dépense passe par une seule institution : le ministère des Finances. C'est le ministère du gouvernement de la Malaisie auquel a été confiée la responsabilité à la fois des dépenses publiques et de la levée des recettes — il élabore la politique économique, prépare le Budget fédéral malaisien et supervise la législation et la réglementation financières. En malais, c'est le Kementerian Kewangan, et sa machinerie centrale est le Trésor fédéral, ou Perbendaharaan. Cette page explique l'institution, puis la démêle de la chose distincte que les gens veulent dire lorsqu'ils recherchent « enregistrement MOF ».

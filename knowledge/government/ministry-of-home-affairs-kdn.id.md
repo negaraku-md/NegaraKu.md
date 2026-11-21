@@ -27,7 +27,7 @@ faq:
   - q: "Siapakah Menteri Dalam Negeri?"
     a: "Hingga 2026, Menteri Dalam Negeri adalah Datuk Seri Panglima Saifuddin Nasution bin Ismail, memegang jabatan sejak 3 Desember 2022. Portofolio Kabinet berubah seiring perombakan, jadi konfirmasikan pemegang jabatan saat ini di moha.gov.my."
 lang: "id"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: Pandangan dekat bagian atas menara bata merah Kementerian Dalam Negeri di Putrajaya, dengan lambang kementerian dan tulisan 'KDN' putih besar terpasang dekat garis atap
+    kind: actual
+    origin: third-party
+    subject: Lantai-lantai atas gedung KDN yang memperlihatkan lambang dan tulisan 'KDN' pada fasad, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: Gedung bata merah Kementerian Dalam Negeri di Putrajaya dilihat dari seberang plaza berteras simetris dengan air terjun bertingkat di tengah dan deretan pohon palem di bawah langit biru berawan
+    kind: actual
+    origin: third-party
+    subject: Gedung KDN dilihat menyusuri plaza air terjun berteras, Blok D1, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 Ketika seorang warga negara Malaysia memperbarui paspor, ketika polisi melakukan

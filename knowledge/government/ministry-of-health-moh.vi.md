@@ -27,7 +27,7 @@ faq:
   - q: "KKM có vận hành các bệnh viện tư nhân không?"
     a: "Không. KKM vận hành các bệnh viện và phòng khám công và điều chỉnh riêng y tế tư nhân theo Luật Cơ sở và Dịch vụ Y tế Tư nhân (Private Healthcare Facilities and Services Act 1998, Act 586), đạo luật đặt ra các chuẩn tối thiểu về chất lượng và an toàn và giới hạn mức phí mà bác sĩ có thể tính cho các thủ thuật."
 lang: "vi"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: Một tòa nhà chính phủ bằng kính xanh lá nổi bật với các cánh có góc cạnh sắc nét và mái đua, một lá cờ Malaysia dọc dài rủ xuống mặt phải phía trên một quảng trường lát gạch
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Bộ phận Quản lý Đào tạo của Bộ Y tế Malaysia trong khu phức hợp KKM, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 Khi bạn bước vào một phòng khám của chính phủ Malaysia, đưa ra một tờ RM1, và bước ra với buổi khám và thuốc của mình đã được lo, bạn đang sử dụng một trong những hệ thống y tế được trợ cấp nhiều nhất trên thế giới. Vận hành nó là **Bộ Y tế Malaysia** — *Kementerian Kesihatan Malaysia* (**KKM**), hay **MOH** trong tiếng Anh — bộ liên bang chịu trách nhiệm về y tế công cộng, chăm sóc y tế, nghiên cứu y học, nâng cao sức khỏe, điều chỉnh dược phẩm và thiết bị y tế, chăm sóc nha khoa và an toàn người bệnh. Nó có trụ sở tại Complex E (các Block E1, E3, E6, E7 và E10) trong Trung tâm Hành chính Chính phủ Liên bang, 62590 Putrajaya.

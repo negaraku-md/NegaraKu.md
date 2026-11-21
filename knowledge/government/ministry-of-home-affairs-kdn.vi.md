@@ -27,7 +27,7 @@ faq:
   - q: "Ai là Bộ trưởng Nội vụ?"
     a: "Tính đến năm 2026, Bộ trưởng Nội vụ là Datuk Seri Panglima Saifuddin Nasution bin Ismail, nhậm chức từ ngày 3 tháng 12 năm 2022. Các danh mục nội các thay đổi theo mỗi lần cải tổ, vì vậy hãy xác nhận người đương nhiệm hiện tại trên moha.gov.my."
 lang: "vi"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: Cận cảnh phần đỉnh của tòa tháp gạch đỏ Bộ Nội vụ tại Putrajaya, với huy hiệu của bộ và dòng chữ trắng lớn 'KDN' gắn gần mái
+    kind: actual
+    origin: third-party
+    subject: Các tầng trên của tòa nhà KDN cho thấy huy hiệu và dòng chữ 'KDN' trên mặt tiền, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: Tòa nhà Bộ Nội vụ bằng gạch đỏ tại Putrajaya nhìn từ bên kia một quảng trường bậc thang đối xứng với thác nước trung tâm theo bậc và các hàng cọ dưới bầu trời xanh nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà KDN nhìn dọc theo quảng trường thác nước bậc thang, Khối D1, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 Khi một người Malaysia gia hạn hộ chiếu, khi cảnh sát tiến hành bắt giữ, khi

@@ -36,7 +36,7 @@ verificationNeeded:
   - "The portal inventory beyond MySST and ezHS (MyTTx, MyDLV, the tax stamp system, MNTR) was not confirmed against a cited RMCD page; the current edition of the Customs Duties Order and the number of preferential FTA schedules in ezHS are likewise unconfirmed and are described qualitatively"
 
 lang: "hi"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,6 +126,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Ka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: पुत्रजया में क्रीम-रंग की बहुमंज़िला Royal Malaysian Customs Department मुख्यालय इमारत, जिसके ऊपरी मुखौटे पर Jabatan Kastam Diraja Malaysia अंकित है, सड़क के किनारे पेड़ों की ओट से देखी गई
+    kind: actual
+    origin: third-party
+    subject: संघीय प्रशासनिक केंद्र, पुत्रजया में Royal Malaysian Customs Department मुख्यालय
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: गर्म रोशनी में एक आड़ू-और-क्रीम रंग की दो-मंज़िला सीमा-शुल्क इमारत जिस पर Wisma Kastam Sabah और Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department के साइन हैं, कोटा किनाबालु में एक नीले स्मारक साइन और ढके हुए ड्राइववे के साथ
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, कोटा किनाबालु, सबा में Royal Malaysian Customs Department की राज्य इमारत
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 दो एजेंसियाँ, एक मंत्रालय, और एक ऐसी रेखा जिसे पहली बार में लगभग कोई भी सही ढंग से नहीं

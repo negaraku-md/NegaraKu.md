@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: 近距离拍摄的布城红砖 Ministry of Home Affairs 塔楼顶部，屋顶线附近装有该部徽章和白色大字 'KDN'
+    kind: actual
+    origin: third-party
+    subject: KDN 大楼上层，立面上显示 'KDN' 徽章和字样，布城
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: 从一个对称的梯级广场对面望去的布城红砖 Ministry of Home Affairs 大楼，广场中央有阶梯式跌水和成排的棕榈树，天空多云泛蓝
+    kind: actual
+    origin: third-party
+    subject: 沿梯级跌水广场望向 KDN 大楼，布城 D1 座
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 当马来西亚人更新护照、当警察逮捕嫌犯、当外籍工人的准证被查验，或当一部电影在上映前被分级——这四种情形背后都是同一个部门。这个部门就是**内政部**，马来文称为 **Kementerian Dalam Negeri（KDN）**，英文称为 **MOHA**。

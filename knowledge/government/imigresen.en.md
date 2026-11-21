@@ -24,7 +24,7 @@ appliesTo: "Anyone who needs to identify which authority issues a particular Mal
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: Close view of the Immigration Department of Malaysia headquarters entrance showing the lettering Jabatan Imigresen Malaysia and the gold-and-green department crest with its wreath and Imigresen Malaysia ribbon
+    kind: actual
+    origin: third-party
+    subject: Entrance signage and crest of the Immigration Department of Malaysia headquarters, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: A Malaysian immigration border complex with a yellow building signed Kompleks Imigresen, drive-through inspection lanes marked with car, motorcycle and bus symbols, under a bright cloudy sky
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang, the Malaysian immigration border checkpoint at Rantau Panjang, Kelantan
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 Everyone who crosses Malaysia's border — a citizen renewing a passport, a

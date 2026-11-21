@@ -27,7 +27,7 @@ verificationNeeded:
   - "Angka 47 kantor luar negeri didukung oleh dua laporan berita 2026 yang bertanggal secara independen dan mengutip ketua serta ketua pegawai eksekutif MATRADE sendiri, tetapi tidak diperiksa silang dengan halaman direktori kantor yang dihosting oleh MATRADE, yang tidak dapat diperoleh sepenuhnya oleh upaya akses artikel ini"
 
 lang: "id"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Conv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: Menara MATRADE yang berbentuk lengkungan di samping Menara MITI kaca yang menjulang tinggi dan kubah balai pameran berwarna perak, dilihat melewati hamparan bunga magenta di bawah langit kelabu
+    kind: actual
+    origin: third-party
+    subject: Pemandangan jalan kompleks MATRADE dengan menara lengkung Menara MATRADE, Menara MITI berbahan kaca, dan kubah MITEC, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: Pemandangan udara Kuala Lumpur yang memperlihatkan Menara MATRADE dengan portal lengkung gelap dan balai pameran MITEC besar berbentuk cangkang perak di sampingnya
+    kind: actual
+    origin: third-party
+    subject: Pemandangan udara Menara MATRADE dan pusat pameran MITEC berbentuk cangkang di kawasan KL Metropolis, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 Tanya seorang pengekspor baru agensi pemerintah mana yang mengelola

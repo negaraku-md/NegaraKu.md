@@ -25,7 +25,7 @@ appliesTo: "首相府が実際には何であるか、なぜこれほど多く�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: マレーシア国旗が並ぶ進入大通りを望む、Perdana Putraの左右対称の正面
+    kind: actual
+    origin: third-party
+    subject: 儀礼用大通りから望むPerdana Putraの正面ファサード、プトラジャヤ
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: プトラジャヤの並木が続く儀礼用大通りの上にそびえる、Perdana Putraの緑のドーム
+    kind: actual
+    origin: third-party
+    subject: 整えられた進入路の先に望むPerdana Putra、プトラジャヤ
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 マレーシアには、国の日々の政策運営を担う単一の省は存在しない。存在するのは

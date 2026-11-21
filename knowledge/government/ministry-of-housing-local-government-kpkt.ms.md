@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -86,6 +86,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: Pandangan dekat sebuah tugu papan tanda batu hitam yang membawa jata negara Malaysia, perkataan Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, alamat web kpkt.gov.my dan logo rumah KPKT yang berwarna-warni
+    kind: actual
+    origin: third-party
+    subject: Tugu papan tanda KPKT di pintu masuk bangunan kementerian, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: Pandangan hadapan menara kerajaan KPKT di Putrajaya, dengan fasad tengahnya digantung bendera Jalur Gemilang menegak panjang, dibingkai pokok palma kipas berlatarkan langit berawan
+    kind: actual
+    origin: third-party
+    subject: Menara KPKT di Putrajaya dihiasi bendera Malaysia menegak
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 Apabila sampah anda tidak dikutip, apabila sijil keselamatan kebakaran perlu diperbaharui, dan apabila pemaju menyerahkan pangsapuri anda dua tahun lewat — kementerian persekutuan yang sama berada di sebalik ketiga-tiganya. **Kementerian Perumahan dan Kerajaan Tempatan**, yang dikenali umum sebagai **KPKT**, ialah kementerian persekutuan Malaysia bagi perumahan mampu milik, kerajaan tempatan, perancangan bandar, bomba dan penyelamat, sisa pepejal, landskap, serta kredit komuniti. Ibu pejabatnya berada di No. 51, Persiaran Perdana, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62100 Putrajaya. Menterinya ialah **Nga Kor Ming** dan Timbalan Menterinya ialah **Datuk Hajah Aiman Athirah binti Sabu**.

@@ -27,7 +27,7 @@ faq:
   - q: "உள்துறை அமைச்சர் யார்?"
     a: "2026 நிலவரப்படி உள்துறை அமைச்சர் Datuk Seri Panglima Saifuddin Nasution bin Ismail, 3 டிசம்பர் 2022 முதல் பதவியில் உள்ளார். அமைச்சரவைப் பொறுப்புகள் மறுசீரமைப்புகளுடன் மாறுகின்றன, எனவே தற்போதைய பதவியில் இருப்பவரை moha.gov.my-இல் உறுதிப்படுத்தவும்."
 lang: "ta"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: புத்ராஜெயாவில் உள்ள செங்கல்-சிவப்பு நிற உள்துறை அமைச்சக கோபுரத்தின் உச்சியின் அருகிலான காட்சி; கூரை விளிம்பிற்கு அருகில் பொருத்தப்பட்ட அமைச்சகச் சின்னம் மற்றும் பெரிய வெள்ளை நிற 'KDN' எழுத்துகளுடன்
+    kind: actual
+    origin: third-party
+    subject: முகப்பில் 'KDN' சின்னம் மற்றும் எழுத்துகளைக் காட்டும் KDN கட்டிடத்தின் மேல் தளங்கள், புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: புத்ராஜெயாவில் உள்ள செங்கல்-சிவப்பு நிற உள்துறை அமைச்சகக் கட்டிடம், மேகமூட்டமான நீல வானத்தின் கீழ், படிநிலை மைய நீர் அருவி மற்றும் பனை மரங்கள் வரிசைகளுடன் கூடிய சமச்சீரான படிநிலை வெளியின் குறுக்கே பார்த்த காட்சி
+    kind: actual
+    origin: third-party
+    subject: படிநிலை நீர்-அருவி வெளி வழியே பார்த்த KDN கட்டிடம், Block D1, புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 ஒரு மலேசியர் கடவுச்சீட்டைப் புதுப்பிக்கும்போது, காவல்துறை ஒருவரைக் கைது

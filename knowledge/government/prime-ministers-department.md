@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: Symmetrical front view of Perdana Putra with Malaysian flags lining the approach boulevard
+    kind: actual
+    origin: third-party
+    subject: Front facade of Perdana Putra from the ceremonial boulevard, Putrajaya
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: Perdana Putra's green dome rising above a tree-lined ceremonial boulevard in Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra viewed down the landscaped approach, Putrajaya
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 Malaysia does not have a single ministry that runs the country's day-to-day

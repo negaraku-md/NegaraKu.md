@@ -30,7 +30,7 @@ faq:
     a: "SSM घरेलू व्यापार और जीवन-यापन लागत मंत्रालय (Ministry of Domestic Trade and Cost of Living) को रिपोर्ट करता है। मलेशिया में मंत्रालयी दायित्व समय-समय पर पुनर्गठित होते हैं, इसलिए किसी औपचारिक दस्तावेज़ में इस पर निर्भर होने से पहले वर्तमान मूल मंत्रालय की पुष्टि ssm.com.my पर कर लें।"
 
 lang: "hi"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: कुआलालंपुर के Perdana Botanical Gardens की हरी झील के पीछे उठती हुई कार्यालय और होटल मीनारों की KL Sentral क्षितिज-रेखा
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur Sentral (KL Sentral) परिवहन-केंद्र क्षेत्र जहाँ SSM का मुख्यालय, Menara SSM@Sentral, स्थित है, Perdana Botanical Gardens झील के पार देखा गया
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## एक नज़र में

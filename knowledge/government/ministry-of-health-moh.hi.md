@@ -27,7 +27,7 @@ faq:
   - q: "क्या KKM निजी अस्पताल चलाता है?"
     a: "नहीं। KKM सार्वजनिक अस्पतालों और क्लिनिकों का संचालन करता है और निजी स्वास्थ्य देखभाल को अलग से निजी स्वास्थ्य देखभाल सुविधा एवं सेवा अधिनियम 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586)) के तहत विनियमित करता है, जो न्यूनतम गुणवत्ता एवं सुरक्षा मानक निर्धारित करता है और प्रक्रियाओं के लिए डॉक्टरों द्वारा वसूले जा सकने वाले शुल्कों पर सीमा लगाता है।"
 lang: "hi"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: एक गहरी हरी-काँच की सरकारी इमारत जिसके तीखे कोणीय पहलूदार पंख और एक निकला हुआ छज्जा है, उसके दाहिने फलक पर एक टाइल वाले चौक के ऊपर एक लंबा खड़ा मलेशियाई ध्वज लटका हुआ
+    kind: actual
+    origin: third-party
+    subject: KKM परिसर, पुत्रजया में Ministry of Health Malaysia Training Management Division इमारत
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 जब आप किसी मलेशियाई सरकारी क्लिनिक में जाते हैं, एक RM1 का नोट थमाते हैं, और अपनी सलाह-मशविरा तथा अपनी दवा कवर किए हुए बाहर निकलते हैं, तो आप दुनिया की सबसे अधिक सब्सिडी वाली स्वास्थ्य प्रणालियों में से एक का उपयोग कर रहे होते हैं। इसे चलाने वाला है **मलेशिया का स्वास्थ्य मंत्रालय** — *Kementerian Kesihatan Malaysia* (**KKM**), या अंग्रेज़ी में **MOH** — वह संघीय मंत्रालय जो सार्वजनिक स्वास्थ्य, चिकित्सा देखभाल, चिकित्सा अनुसंधान, स्वास्थ्य संवर्धन, औषधीय एवं चिकित्सा-उपकरण विनियमन, दंत चिकित्सा और रोगी सुरक्षा के लिए ज़िम्मेदार है। इसका मुख्यालय संघीय सरकार प्रशासनिक केंद्र, 62590 पुत्राजया में Complex E (ब्लॉक E1, E3, E6, E7 और E10) में है।

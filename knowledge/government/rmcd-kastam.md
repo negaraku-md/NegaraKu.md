@@ -125,6 +125,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Ka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: The cream-coloured multi-storey Royal Malaysian Customs Department headquarters building in Putrajaya, its upper facade lettered Jabatan Kastam Diraja Malaysia, seen from the street through a screen of roadside trees
+    kind: actual
+    origin: third-party
+    subject: The Royal Malaysian Customs Department headquarters in the federal administrative centre, Putrajaya
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: A peach-and-cream two-storey customs building in warm light bearing the signs Wisma Kastam Sabah and Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department, with a blue monument sign and covered driveway in Kota Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, the Royal Malaysian Customs Department state building in Kota Kinabalu, Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 Two agencies, one ministry, and a line that almost nobody draws correctly on the

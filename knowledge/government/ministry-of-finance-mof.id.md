@@ -27,7 +27,7 @@ faq:
   - q: "Siapa yang mengetuai Kementerian Kewangan?"
     a: "Per Agustus 2026, Menteri Kewangan adalah Dato' Seri Anwar bin Ibrahim, dengan Datuk Seri Amir Hamzah bin Azizan sebagai Menteri Kewangan II dan Datuk Johan Mahmood bin Merican sebagai Ketua Setiausaha Perbendaharaan. Pemegang jabatan berubah dengan perombakan Kabinet, jadi pastikan nama terkini di mof.gov.my."
 lang: "id"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -79,6 +79,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putraja
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Pandangan menyerong gedung Kementerian Keuangan yang memperlihatkan papan nama Perbendaharaan Malaysia Federal Treasury dan logo MOF
+    kind: actual
+    origin: third-party
+    subject: Gedung Kementerian Keuangan dengan papan nama 'Perbendaharaan Malaysia / Federal Treasury', Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: Pemandangan depan fasad melengkung yang luas gedung Kementerian Keuangan Malaysia di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Bagian depan gedung Kementerian Keuangan dan pelatarannya, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 Setiap ringgit yang dipungut dan dibelanjakan oleh pemerintah federal melalui satu institusi: Kementerian Kewangan. Ia adalah kementerian Pemerintah Malaysia yang dipertanggungjawabkan atas belanja pemerintah maupun penghasilan pendapatan — ia mengembangkan kebijakan ekonomi, menyusun Belanjawan persekutuan Malaysia, serta menyelia perundangan dan regulasi keuangan. Dalam bahasa Melayu ia dikenal sebagai Kementerian Kewangan, dan mesin intinya adalah Perbendaharaan Persekutuan, atau Perbendaharaan. Halaman ini menjelaskan institusi tersebut dan selanjutnya memisahkannya dari hal terpisah yang dimaksudkan orang ketika mereka mencari "pendaftaran MOF".

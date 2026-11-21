@@ -27,7 +27,7 @@ faq:
   - q: "मूल्यों को नियंत्रित करने के लिए KPDN किन कानूनों का उपयोग करता है?"
     a: "यह मुख्यतः आपूर्ति नियंत्रण अधिनियम 1961 (Control of Supplies Act 1961) और मूल्य नियंत्रण एवं अति-लाभ-विरोधी अधिनियम 2011 (Price Control and Anti-Profiteering Act 2011) पर निर्भर करता है, जो इसे मूल्य-सीमाएँ निर्धारित करने, मूल्य प्रदर्शन अनिवार्य करने, और अनुचित रूप से उच्च लाभों के विरुद्ध कार्रवाई करने देते हैं।"
 lang: "hi"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: पुत्रजया में बलुआ-पत्थर की KPDN मंत्रालय इमारत का तीन-चौथाई दृश्य, गहरे ग्रेनाइट आधार पर सुनहरे 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' अक्षर और प्रवेश पर खड़ी एक मंत्रालय-रंगरोगन वाली बस
+    kind: actual
+    origin: third-party
+    subject: मंत्रालय साइनबोर्ड और एक मंत्रालय बस के साथ KPDN इमारत प्रवेश का कोणीय दृश्य, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: पुत्रजया में KPDN मंत्रालय की स्तरित, आर्ट-डेको शैली की बलुआ-पत्थर मीनार का नीचे से दृश्य, जिसके शीर्ष पर आंशिक बादल भरे आसमान के विरुद्ध नीला-और-सुनहरा हीरे के आकार का K मंत्रालय प्रतीक है
+    kind: actual
+    origin: third-party
+    subject: हीरे के आकार का K लोगो धारण करती KPDN मंत्रालय इमारत की सीढ़ीनुमा मीनार, पुत्रजया
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 जब कोई व्यापारी आपसे खाद्य तेल के लिए अधिक शुल्क लेता है, किसी नियंत्रित वस्तु को उसकी अधिकतम मूल्य-सीमा से ऊपर बेचता है, या किसी दोषपूर्ण उत्पाद का सम्मान करने से इनकार करता है, तो वह संघीय निकाय जिसका काम आपकी ओर से कार्रवाई करना है, **KPDN** है — **घरेलू व्यापार एवं जीवन-यापन लागत मंत्रालय** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*)। यह घरेलू व्यापार विकसित करता है, रोज़मर्रा की आवश्यक वस्तुओं के मूल्यों पर अंकुश रखता है, और उपभोक्ताओं की रक्षा करता है, जिसे वास्तविक संविधियों, सक्रिय शिकायत चैनलों, और सामान्य खरीदारों के लिए बनाए गए एक लघु-दावा अधिकरण का समर्थन प्राप्त है।

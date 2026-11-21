@@ -28,7 +28,7 @@ faq:
   - q: "교육부의 예산 규모는 얼마입니까?"
     a: "2026년 예산에서 KPM은 RM662억 — 모든 연방 부처 가운데 가장 큰 배정 — 을 받았으며, 이는 2025년의 RM642억에서 증가한 것입니다. 이 배정에는 520개가 넘는 노후 학교를 개선하고 38개의 신설 학교를 짓기 위한 약 RM20억이 포함됩니다."
 lang: "ko"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: 교육부 건물의 아치형 입구 현관, 출입구 위의 파란색 KEMENTERIAN PENDIDIKAN MALAYSIA 글자와 금색 국가 문장, 그리고 깃대에 걸린 말레이시아 국기와 주기들의 근접 장면
+    kind: actual
+    origin: third-party
+    subject: KEMENTERIAN PENDIDIKAN MALAYSIA 간판과 국가 문장이 있는 푸트라자야 말레이시아 교육부 본부 정문
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: 진입로에서 바라본 말레이시아 교육부 본부의 단층 구조 전체 정면, 밝은 흐린 하늘 아래 주차장 위로 말레이시아 국기가 늘어선 화려한 중앙 타워와 대칭형 양 날개
+    kind: actual
+    origin: third-party
+    subject: 진입로에서 바라본 푸트라자야 말레이시아 교육부 본부 복합단지의 넓은 정면 전경
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 말레이시아 학생과 관련된 일이라면 — 그들이 배우는 교육과정, 책상 위의 교과서, 치르는 전국 시험, 또는 교실 앞의 공립학교 교사 — 그것은 교육부의 소관입니다. 말레이어로 **Kementerian Pendidikan Malaysia**로 알려져 있고 거의 언제나 **KPM**으로 줄여 부르는 이 부처는 국가의 대학 이전 교육 체계를 운영하는 연방 부처입니다. 그것이 운영하지 *않는* 것이 대학인데 — 이 경계가 많은 사람을 헷갈리게 합니다.

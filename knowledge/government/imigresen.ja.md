@@ -23,7 +23,7 @@ appliesTo: "マレーシアの移民関連文書——パスポート、ビザ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 
 status: "published"
 aiAssisted: true
@@ -88,6 +88,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: マレーシア入国管理局（Jabatan Imigresen Malaysia）本部入口の接写。Jabatan Imigresen Malaysiaの文字と、月桂冠とImigresen Malaysiaのリボンをあしらった金と緑の局章が見える
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤにあるマレーシア入国管理局本部の入口看板と局章
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: マレーシアの入国管理国境施設。Kompleks Imigresenと記された黄色い建物と、乗用車・オートバイ・バスの記号で示された通り抜け型の検査レーンが、明るい曇り空の下に広がる
+    kind: actual
+    origin: third-party
+    subject: クランタン州ランタウパンジャンにあるマレーシアの入国管理国境検問所、Kompleks Imigresen Rantau Panjang
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 マレーシアの国境を越えるすべての人——パスポートを更新する国民、到着する旅行者、働く駐在員——は、同じ一つの部門を通る。しかし、そこが発給する文書は互いに混同されがちであり、その混同こそが移民に関する問題の大半の原因である。

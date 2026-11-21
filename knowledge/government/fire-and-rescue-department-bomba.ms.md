@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-S
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: Jentera bomba Scania merah menyala bertanda BOMBA dengan tangga udara terlipat di bumbungnya, diletakkan di sebuah lebuh berbaris pokok palma semasa perarakan Hari Kebangsaan Malaysia
+    kind: actual
+    origin: third-party
+    subject: Sebuah jentera bomba tangga udara Scania merah milik Bomba Malaysia pada perarakan Hari Kebangsaan 2023 di Kuantan, Pahang
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: Sekumpulan anggota bomba Malaysia berbaju-T biru nila dan berseluar corak samar jingga berdiri dan mencangkung di hadapan dua jentera bomba merah bertanda BOMBA di dalam ruang letak balai bomba mereka
+    kind: actual
+    origin: third-party
+    subject: Anggota bomba Malaysia di Balai Bomba Sandakan, Sabah, berpos di hadapan jentera bomba merah BOMBA mereka
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 Tanya sesiapa sahaja di Malaysia siapa yang perlu dihubungi apabila sebuah bangunan terbakar atau seseorang terperangkap, dan jawapannya adalah sepatah perkataan yang sama: **Bomba**. **Jabatan Bomba dan Penyelamat Malaysia** (**JBPM**), dikenali oleh hampir semua orang secara mudah sebagai **BOMBA** — ialah agensi persekutuan yang bertanggungjawab ke atas pemadaman kebakaran, menyelamat, tindak balas bahan berbahaya dan penguatkuasaan keselamatan kebakaran di seluruh negara. Ia merupakan agensi di bawah [**Kementerian Perumahan dan Kerajaan Tempatan**](/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), dan dalam kecemasan ia dihubungi dengan mendail **999**.

@@ -36,7 +36,7 @@ verificationNeeded:
   - "The portal inventory beyond MySST and ezHS (MyTTx, MyDLV, the tax stamp system, MNTR) was not confirmed against a cited RMCD page; the current edition of the Customs Duties Order and the number of preferential FTA schedules in ezHS are likewise unconfirmed and are described qualitatively"
 
 lang: "es"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,6 +126,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Ka
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: El edificio de varios pisos de color crema de la sede del Departamento Real de Aduanas de Malasia en Putrajaya, con su fachada superior rotulada Jabatan Kastam Diraja Malaysia, visto desde la calle a través de una pantalla de árboles al borde de la carretera
+    kind: actual
+    origin: third-party
+    subject: La sede del Departamento Real de Aduanas de Malasia en el centro administrativo federal, Putrajaya
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: Un edificio de aduanas de dos pisos en tonos melocotón y crema bajo una luz cálida, con los letreros Wisma Kastam Sabah y Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department, con un monumento de señalización azul y una entrada cubierta en Kota Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, el edificio estatal del Departamento Real de Aduanas de Malasia en Kota Kinabalu, Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 Dos agencias, un ministerio, y una línea que casi nadie traza correctamente a la

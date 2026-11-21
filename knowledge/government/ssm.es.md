@@ -31,7 +31,7 @@ faq:
     a: "La SSM depende del Ministerio de Comercio Interior y Coste de la Vida. Las carteras ministeriales en Malasia se reorganizan periódicamente, así que confirme el ministerio del que depende actualmente en ssm.com.my antes de basarse en ello en un documento formal."
 
 lang: "es"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: El perfil urbano de KL Sentral, con torres de oficinas y hoteles elevándose detrás del lago verde de los Jardines Botánicos Perdana de Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: El recinto del centro de transporte de Kuala Lumpur Sentral (KL Sentral), donde se ubica la sede de la SSM, Menara SSM@Sentral, visto a través del lago de los Jardines Botánicos Perdana
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## De un vistazo

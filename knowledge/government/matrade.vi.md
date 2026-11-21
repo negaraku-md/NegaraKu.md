@@ -27,7 +27,7 @@ verificationNeeded:
   - "Con số 47 văn phòng ở nước ngoài được củng cố bởi hai bản tin năm 2026 có ngày độc lập trích dẫn chính chủ tịch và giám đốc điều hành của MATRADE, nhưng chưa được đối chiếu với một trang danh bạ văn phòng do MATRADE lưu trữ, mà các lần thử truy xuất của bài viết này không thể lấy được đầy đủ"
 
 lang: "vi"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Conv
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: Tòa tháp Menara MATRADE hình vòm bên cạnh tòa tháp kính cao Menara MITI và một mái vòm bạc của hội trường triển lãm, nhìn qua một hàng hoa màu hồng cánh sen dưới bầu trời xám
+    kind: actual
+    origin: third-party
+    subject: Cảnh phố của khu phức hợp MATRADE với tháp vòm Menara MATRADE, tòa tháp kính Menara MITI và mái vòm MITEC, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: Cảnh nhìn từ trên không qua Kuala Lumpur cho thấy tòa tháp Menara MATRADE hình cổng vòm sẫm màu và hội trường triển lãm MITEC lớn hình vỏ sò màu bạc bên cạnh
+    kind: actual
+    origin: third-party
+    subject: Cảnh nhìn từ trên không của Menara MATRADE và trung tâm triển lãm MITEC hình vỏ sò ở khu KL Metropolis, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 Hỏi một nhà xuất khẩu lần đầu xem cơ quan chính phủ nào phụ trách gian hàng hội chợ thương mại của họ, và khoảng một nửa sẽ nói MIDA. MIDA không làm việc đó. Đó là việc của MATRADE — và hai cơ quan làm việc ở hai đầu đối lập của cùng một quan hệ thương mại.

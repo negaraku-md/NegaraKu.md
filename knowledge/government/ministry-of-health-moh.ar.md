@@ -27,7 +27,7 @@ faq:
   - q: "هل تدير KKM المستشفيات الخاصة؟"
     a: "لا. تشغّل KKM المستشفيات والعيادات العامة، وتنظّم على نحو منفصل الرعاية الصحية الخاصة بموجب قانون مرافق وخدمات الرعاية الصحية الخاصة لسنة 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586))، الذي يضع حدًا أدنى لمعايير الجودة والسلامة، ويحدّد سقفًا للرسوم التي يجوز للأطباء تقاضيها عن الإجراءات."
 lang: "ar"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,17 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: مبنى حكومي جريء بزجاج أخضر ذو أجنحة مشطوفة بزوايا حادة وسقف ناتئ، وعلم ماليزي عمودي طويل منسدل على واجهته اليمنى فوق ساحة مبلّطة
+    kind: actual
+    origin: third-party
+    subject: مبنى شعبة إدارة التدريب التابع لوزارة الصحة الماليزية في مجمّع KKM، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 حين تدخل عيادة حكومية ماليزية، وتسلّم ورقة من فئة RM1، وتخرج وقد غُطّيت استشارتك

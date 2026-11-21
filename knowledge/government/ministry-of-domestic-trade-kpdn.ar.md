@@ -27,7 +27,7 @@ faq:
   - q: "ما القوانين التي تستخدمها KPDN لضبط الأسعار؟"
     a: "تعتمد أساسًا على قانون ضبط الإمدادات لسنة 1961 (Control of Supplies Act 1961) وقانون ضبط الأسعار ومكافحة الاستغلال لسنة 2011 (Price Control and Anti-Profiteering Act 2011)، اللذين يتيحان لها فرض سقوف للأسعار، وإلزام عرض الأسعار، واتخاذ إجراءات ضد الأرباح المرتفعة بصورة غير معقولة."
 lang: "ar"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: منظر بزاوية ثلاثة أرباع لمبنى وزارة KPDN الحجري الرملي في بوتراجايا، مع كتابة 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' الذهبية على القاعدة الغرانيتية الداكنة وحافلة بألوان الوزارة متوقفة عند المدخل
+    kind: actual
+    origin: third-party
+    subject: منظر مائل لمدخل مبنى KPDN مع لافتة الوزارة وحافلة الوزارة، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: منظر من زاوية منخفضة للبرج الحجري الرملي المتدرّج بطراز الآرت ديكو لوزارة KPDN في بوتراجايا، تعلوه شعار الوزارة على هيئة حرف K ماسي أزرق وذهبي أمام سماء غائمة جزئيًا
+    kind: actual
+    origin: third-party
+    subject: البرج المتدرّج لمبنى وزارة KPDN الذي يحمل شعار حرف K الماسي، بوتراجايا
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 عندما يُغالي أحد التجار في سعر زيت الطهي الذي يبيعه لك، أو يبيع سلعة خاضعة للرقابة فوق سقف سعرها، أو يرفض الوفاء بمسؤوليته تجاه منتج معيب، فإن الجهة الاتحادية التي مهمتها أن تتصرف نيابةً عنك هي **KPDN** — **وزارة التجارة الداخلية وتكلفة المعيشة** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). تُطوّر الوزارة التجارة الداخلية، وتضبط أسعار السلع الأساسية اليومية، وتحمي المستهلكين، مدعومةً بتشريعات فعلية وقنوات شكاوى نشطة ومحكمة مطالبات صغيرة مُصمّمة للمتسوقين العاديين.

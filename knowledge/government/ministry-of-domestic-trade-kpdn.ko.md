@@ -27,7 +27,7 @@ faq:
   - q: "KPDN은 어떤 법으로 가격을 통제합니까?"
     a: "주로 물자통제법(Control of Supplies Act 1961)과 가격통제·폭리방지법(Price Control and Anti-Profiteering Act 2011)에 의존하며, 이 법들은 가격 상한 설정, 가격 표시 의무화, 부당하게 높은 이윤에 대한 조치를 가능하게 합니다."
 lang: "ko"
-sourceContentHash: "eafe5ca3a7bd0d06"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: 짙은 화강암 기단에 금색 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' 글자가 새겨지고 입구에 부처 도색 버스가 주차된, 푸트라자야 사암 KPDN 부처 건물의 3/4 전경
+    kind: actual
+    origin: third-party
+    subject: 부처 간판과 부처 버스가 있는 KPDN 건물 입구의 비스듬한 전경, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: 군데군데 구름이 낀 하늘을 배경으로, 파랑과 금색 다이아몬드형 K 부처 상징을 꼭대기에 얹은 푸트라자야 KPDN 부처의 단층식 아르데코풍 사암 타워를 아래에서 올려다본 전경
+    kind: actual
+    origin: third-party
+    subject: 다이아몬드형 K 로고를 단 KPDN 부처 건물의 계단식 타워, 푸트라자야
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 상인이 식용유 값을 바가지 씌우거나, 통제 품목을 상한가 이상으로 팔거나, 결함 있는 제품을 처리해 주기를 거부할 때, 여러분을 대신해 나서는 일을 맡은 연방 기구가 바로 **KPDN** — **국내무역생계비부**(*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*)입니다. 이 부처는 국내 무역을 발전시키고, 일상 필수품의 가격을 억제하며, 소비자를 보호하는데, 실제 법령과 살아 있는 진정 창구, 그리고 일반 소비자를 위해 만들어진 소액청구 심판소가 이를 뒷받침합니다.
