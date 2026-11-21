@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Upward view of the Exchange Square building's tall fluted stone columns and neo-classical crown rising against a pale sky, with fan palms at its base
+    kind: actual
+    origin: third-party
+    subject: The Exchange Square building, home of Bursa Malaysia, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: The red-roofed, columned Exchange Square building housing Bursa Malaysia seen across tree canopy from above, its approach ramp and forecourt visible below
+    kind: actual
+    origin: third-party
+    subject: Elevated view of the Bursa Malaysia Exchange Square building amid greenery, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## At a glance

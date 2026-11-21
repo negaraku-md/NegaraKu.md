@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "IPO-வை நிறுத்தி நிதானிக்கும் நிறுவனர்களும் CFO-க்களும், ஆலோசகர்களும் sponsor-களும், மேலும் ஒரு பலகைப் பட்டியலீடு உண்மையில் எதைச் சுட்டுகிறது என்பதைப் புரிந்துகொள்ள முயலும் முதலீட்டாளர்கள்."
 
 lang: "ta"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Exchange Square கட்டிடத்தின் உயரமான பள்ளம் பதித்த கல் தூண்கள் மற்றும் நியோ-கிளாசிக்கல் முடி வெளிறிய வானத்தை எதிர்த்து உயர்வதை மேல்நோக்கிப் பார்க்கும் காட்சி, அதன் அடிவாரத்தில் விசிறி பனைகள்
+    kind: actual
+    origin: third-party
+    subject: Kuala Lumpur-இல் Bursa Malaysia அமைந்துள்ள Exchange Square கட்டிடம்
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Bursa Malaysia-வை இருப்பிடமாகக் கொண்ட சிவப்பு கூரை, தூண்களுடன் கூடிய Exchange Square கட்டிடம் மேலிருந்து மரக் கிளைகளுக்கு அப்பால் தெரிகிறது, கீழே அதன் அணுகுச் சரிவு மற்றும் முற்றம் தெரிகிறது
+    kind: actual
+    origin: third-party
+    subject: Kuala Lumpur-இல் Bukit Kewangan-இல் பசுமைக்கு நடுவே Bursa Malaysia Exchange Square கட்டிடத்தின் உயர்த்தப்பட்ட காட்சி
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## ஒரு பார்வையில்

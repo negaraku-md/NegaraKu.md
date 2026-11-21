@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Fondateurs et directeurs financiers qui envisagent une introduction en bourse, conseillers et parrains, et investisseurs cherchant à décoder ce qu'une cotation sur un compartiment signale réellement."
 
 lang: "fr"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Vue en contre-plongée des hautes colonnes de pierre cannelées et du couronnement néoclassique du bâtiment Exchange Square s'élevant sur un ciel pâle, avec des palmiers éventail à sa base
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment Exchange Square, siège de Bursa Malaysia, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Le bâtiment Exchange Square à toit rouge et colonnes abritant Bursa Malaysia, vu d'en haut à travers la canopée des arbres, sa rampe d'accès et son parvis visibles en contrebas
+    kind: actual
+    origin: third-party
+    subject: Vue en hauteur du bâtiment Exchange Square de Bursa Malaysia au milieu de la verdure, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## En un coup d'œil

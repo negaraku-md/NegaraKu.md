@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "மாற்று விகிதத்தால் பாதிக்கப்படும் எவரும் — இறக்குமதியாளர்கள், ஏற்றுமதியாளர்கள், பயணிகள், வெளிநாட்டில் படிக்கும் மாணவர்கள் மற்றும் முதலீட்டாளர்கள்."
 
 lang: "ta"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: BANK NEGARA MALAYSIA என்று பொறிக்கப்பட்ட ஒரு வெள்ளி நிற மலேசிய பத்து சென் நாணயத்தின் நெருங்கிய காட்சி, பெரிய எண் 10, SEN என்ற சொல், 2006 ஆம் ஆண்டு மற்றும் ஒரு மலர் வடிவத்துடன், ஒரு சாம்பல் மேற்பரப்பில் வைக்கப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: ரிங்கிட்டின் பின்னப் பகுதி நாணயமான ஒரு மலேசிய 10 சென் நாணயம்
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: புற ஊதா ஒளியின் கீழ் படம் பிடிக்கப்பட்ட ஒரு ரிங்கிட் நோட்டு, இருண்ட காகிதத்தை எதிர்த்து ஒளிரும் பச்சை வாவு (பாரம்பரிய பட்டம்) வடிவம் மற்றும் மறைந்த BNM பாதுகாப்பு குறிப்புகள் ஒளிர்கின்றன
+    kind: actual
+    origin: third-party
+    subject: புற ஊதா ஒளியின் கீழ் ஒரு மலேசிய ரிங்கிட் நாணயத்தாள், அதன் மறைந்த பாதுகாப்பு வடிவமைப்பை வெளிப்படுத்துகிறது
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## ஒரு பார்வையில்

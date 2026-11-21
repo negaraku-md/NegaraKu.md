@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "th"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: อาคารหอคอยคอนกรีตสีเทาที่มีแถบแนวนอนของสำนักงานใหญ่ Bank Negara Malaysia ประดับด้วยตราสัญลักษณ์กีจัง (kijang) สีน้ำเงินบนยอด ตั้งตระหง่านเหนือสวนสาธารณะสีเขียวตัดกับท้องฟ้าสีฟ้าลายด่าง โดยมีเส้นขอบฟ้าของกัวลาลัมเปอร์อยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: หอคอยคอนกรีตแบบเป็นชั้นของสำนักงานใหญ่ Bank Negara Malaysia มองข้ามสวนสาธารณะ ใจกลางกัวลาลัมเปอร์
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: ผนังด้านหน้าแบบเหลี่ยมมุมของกระจกสีเข้มและโลหะของพิพิธภัณฑ์และหอศิลป์ Bank Negara Malaysia โดยมีผนังหุ้มเรขาคณิตคมชัดยื่นออกเหนือทางเข้าที่จัดภูมิทัศน์
+    kind: actual
+    origin: third-party
+    subject: พิพิธภัณฑ์และหอศิลป์ Bank Negara Malaysia ส่วนหนึ่งของอาคาร Sasana Kijang กัวลาลัมเปอร์
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## ภาพรวมโดยสังเขป

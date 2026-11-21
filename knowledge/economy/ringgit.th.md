@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่เปราะบางต่ออัตราแลกเปลี่ยน ทั้งผู้นำเข้า ผู้ส่งออก นักเดินทาง นักศึกษาในต่างประเทศ และนักลงทุน"
 
 lang: "th"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: ภาพระยะใกล้ของเหรียญสิบเซ็นมาเลเซียสีเงิน สลักข้อความ BANK NEGARA MALAYSIA พร้อมเลข 10 ขนาดใหญ่ คำว่า SEN ปี 2006 และลวดลายดอกไม้ วางอยู่บนพื้นผิวสีเทา
+    kind: actual
+    origin: third-party
+    subject: เหรียญ 10 เซ็นมาเลเซีย เหรียญย่อยของเงินริงกิต
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: ธนบัตรริงกิตถ่ายภายใต้แสงอัลตราไวโอเลต ทำให้ลวดลายว่าว (wau) แบบดั้งเดิมสีเขียวเรืองแสงและเครื่องหมายความปลอดภัย BNM ที่ซ่อนอยู่เรืองแสงตัดกับกระดาษที่มืดลง
+    kind: actual
+    origin: third-party
+    subject: ธนบัตรริงกิตมาเลเซียภายใต้แสงอัลตราไวโอเลต เผยให้เห็นการออกแบบความปลอดภัยที่ซ่อนอยู่
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## ภาพรวมโดยสังเขป

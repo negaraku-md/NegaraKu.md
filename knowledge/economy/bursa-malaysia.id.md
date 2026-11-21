@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pendiri dan CFO yang sedang mempertimbangkan IPO, penasihat dan penaja, serta investor yang mencoba memahami apa sebenarnya ditunjukkan oleh pencatatan di suatu papan."
 
 lang: "id"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Pandangan ke atas tiang batu beralur tinggi dan mahkota neo-klasik gedung Exchange Square yang menjulang dengan latar langit pucat, dengan pohon palem kipas di dasarnya
+    kind: actual
+    origin: third-party
+    subject: Gedung Exchange Square, tempat Bursa Malaysia, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Gedung Exchange Square beratap merah dan bertiang yang menampung Bursa Malaysia terlihat melintasi tajuk pepohonan dari atas, dengan jalan pendekat dan halaman depannya terlihat di bawah
+    kind: actual
+    origin: third-party
+    subject: Pandangan dari ketinggian gedung Exchange Square Bursa Malaysia di tengah pepohonan hijau, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## Sekilas pandang

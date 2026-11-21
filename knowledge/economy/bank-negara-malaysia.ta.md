@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 
 status: "published"
 aiAssisted: true
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: நீல கிஜாங் சின்னத்தால் முடிசூட்டப்பட்ட, கிடைமட்டமாகப் பட்டையிடப்பட்ட சாம்பல் நிற கான்கிரீட் கோபுரமாக Bank Negara Malaysia தலைமையகம், பின்னணியில் Kuala Lumpur வானளாவிய காட்சியுடன், புள்ளி புள்ளியான நீல வானத்தை எதிர்த்து பச்சை பூங்காவுக்கு மேலே உயர்கிறது
+    kind: actual
+    origin: third-party
+    subject: மத்திய Kuala Lumpur-இல் பூங்காவுக்கு அப்பால் தெரியும் Bank Negara Malaysia தலைமையகத்தின் அடுக்கான கான்கிரீட் கோபுரம்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Bank Negara Malaysia அருங்காட்சியகம் மற்றும் கலைக்கூடத்தின் கோணமான அடர்-கண்ணாடி மற்றும் உலோக முகப்பு, அதன் கூர்மையான வடிவியல் உறை நிலவமைக்கப்பட்ட நுழைவாயிலுக்கு மேல் நீட்டுகிறது
+    kind: actual
+    origin: third-party
+    subject: Kuala Lumpur-இல் Sasana Kijang வளாகத்தின் ஒரு பகுதியான Bank Negara Malaysia-வின் அருங்காட்சியகம் மற்றும் கலைக்கூடம்
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## சுருக்கமாக

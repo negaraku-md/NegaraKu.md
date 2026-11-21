@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ja"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: 青いkijang（鹿）の紋章を頂いた、水平の縞模様の灰色コンクリート製のBank Negara Malaysia本部タワーが、緑の公園の上にそびえ、背後にクアラルンプールのスカイラインが広がる、まだらな青空を背景にした様子
+    kind: actual
+    origin: third-party
+    subject: 公園越しに見るBank Negara Malaysia本部の段状コンクリートタワー、クアラルンプール中心部
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Bank Negara Malaysia博物館・美術館の、角張った濃色ガラスと金属のファサードで、鋭い幾何学的な外装が造園された入口の上に張り出している様子
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのSasana Kijang複合施設の一部である、Bank Negara Malaysiaの博物館・美術館
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## 概要

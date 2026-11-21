@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai phơi nhiễm với tỷ giá hối đoái — nhà nhập khẩu, nhà xuất khẩu, người đi du lịch, du học sinh và nhà đầu tư."
 
 lang: "vi"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Cận cảnh một đồng xu mười sen Malaysia màu bạc khắc chữ BANK NEGARA MALAYSIA với số 10 lớn, chữ SEN, năm 2006 và một họa tiết hoa, đặt trên một bề mặt màu xám
+    kind: actual
+    origin: third-party
+    subject: Một đồng xu 10 sen Malaysia, đơn vị tiền lẻ của đồng ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Một tờ tiền ringgit chụp dưới ánh sáng tử ngoại khiến một họa tiết wau (diều truyền thống) màu xanh lá phát sáng và các dấu bảo an ẩn của BNM huỳnh quang trên nền giấy tối
+    kind: actual
+    origin: third-party
+    subject: Một tờ tiền ringgit Malaysia dưới ánh sáng tử ngoại, để lộ thiết kế bảo an ẩn của nó
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## Tổng quan nhanh

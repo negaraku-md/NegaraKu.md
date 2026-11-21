@@ -117,6 +117,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: The horizontally banded grey concrete tower of the Bank Negara Malaysia headquarters topped by the blue kijang emblem, rising above green parkland against a mottled blue sky with the Kuala Lumpur skyline behind
+    kind: actual
+    origin: third-party
+    subject: The tiered concrete tower of the Bank Negara Malaysia headquarters seen across parkland, central Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: The angular dark-glass and metal facade of the Bank Negara Malaysia Museum and Art Gallery, its sharp geometric cladding projecting over a landscaped entrance
+    kind: actual
+    origin: third-party
+    subject: The Museum and Art Gallery of Bank Negara Malaysia, part of the Sasana Kijang complex, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## At a glance

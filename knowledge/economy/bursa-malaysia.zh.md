@@ -23,7 +23,7 @@ appliesTo: "正在权衡 IPO 的创办人与首席财务官、顾问与保荐人
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: 仰视 Exchange Square 大楼高耸的凹槽石柱和新古典主义冠顶，背景是淡色天空，楼基处种着蒲葵
+    kind: actual
+    origin: third-party
+    subject: Bursa Malaysia 所在地 Exchange Square 大楼，吉隆坡
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: 从高处越过树冠望向容纳 Bursa Malaysia 的红顶柱廊式 Exchange Square 大楼，楼下可见其引道和前庭
+    kind: actual
+    origin: third-party
+    subject: 绿意环绕中的 Bursa Malaysia Exchange Square 大楼高空视角，吉隆坡 Bukit Kewangan
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## 一览

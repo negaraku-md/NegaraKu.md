@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: 수평 띠 무늬의 회색 콘크리트 타워인 Bank Negara Malaysia 본부가 꼭대기에 파란색 kijang 엠블럼을 얹고, 뒤편 쿠알라룸푸르 스카이라인과 얼룩진 푸른 하늘을 배경으로 녹지 위로 솟아 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 중심부 녹지 너머로 보이는 Bank Negara Malaysia 본부의 계단식 콘크리트 타워
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: 조경된 입구 위로 날카로운 기하학적 외장이 돌출된, 각진 짙은 유리·금속 외벽의 Bank Negara Malaysia 박물관·미술관
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 Sasana Kijang 단지에 속한 Bank Negara Malaysia 박물관·미술관
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## 한눈에 보기

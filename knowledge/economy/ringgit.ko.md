@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "환율에 노출된 모든 사람 — 수입업체, 수출업체, 여행자, 해외 유학생, 투자자."
 
 lang: "ko"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: BANK NEGARA MALAYSIA라는 글자와 큰 숫자 10, SEN이라는 단어, 2006년 연도, 꽃무늬가 새겨진 은색 말레이시아 10센 동전의 근접 촬영으로, 회색 표면 위에 놓여 있다
+    kind: actual
+    origin: third-party
+    subject: 링깃의 보조 화폐인 말레이시아 10센 동전
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: 자외선 아래에서 촬영한 링깃 지폐로, 빛나는 녹색 wau(전통 연) 무늬와 숨겨진 BNM 보안 표식이 어두워진 종이를 배경으로 형광을 발하고 있다
+    kind: actual
+    origin: third-party
+    subject: 숨겨진 보안 디자인이 드러나는, 자외선 아래의 말레이시아 링깃 지폐
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## 한눈에 보기

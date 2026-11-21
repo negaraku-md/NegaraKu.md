@@ -24,7 +24,7 @@ appliesTo: "Pengasas dan CFO yang sedang menimbangkan IPO, penasihat dan penaja,
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Pandangan ke atas tiang batu beralur tinggi dan mahkota neo-klasik bangunan Exchange Square yang menjulang berlatarkan langit pucat, dengan pokok palma kipas di tapaknya
+    kind: actual
+    origin: third-party
+    subject: Bangunan Exchange Square, tempat letaknya Bursa Malaysia, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Bangunan Exchange Square beratap merah bertiang yang menempatkan Bursa Malaysia dilihat merentasi kanopi pokok dari atas, dengan tanjakan laluan masuk dan laman hadapannya kelihatan di bawah
+    kind: actual
+    origin: third-party
+    subject: Pandangan tinggi bangunan Exchange Square Bursa Malaysia di tengah kehijauan, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## Sekilas pandang

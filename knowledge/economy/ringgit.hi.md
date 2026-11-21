@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "विनिमय दर के संपर्क में आने वाला हर व्यक्ति — आयातक, निर्यातक, यात्री, विदेश में छात्र और निवेशक।"
 
 lang: "hi"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: एक धूसर सतह पर रखे चाँदी रंग के मलेशियाई दस सेन सिक्के का क्लोज़-अप, जिस पर BANK NEGARA MALAYSIA अंकित है, एक बड़ा अंक 10, शब्द SEN, वर्ष 2006 और एक पुष्प आकृति है
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई 10 सेन सिक्का, रिंगिट का भिन्नात्मक सिक्का
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: पराबैंगनी प्रकाश में खींचा गया एक रिंगिट नोट, जिससे एक चमकता हरा wau (पारंपरिक पतंग) रूपांकन और छिपे BNM सुरक्षा चिह्न अँधेरे कागज़ के सामने प्रतिदीप्त होते हैं
+    kind: actual
+    origin: third-party
+    subject: पराबैंगनी प्रकाश में एक मलेशियाई रिंगिट बैंकनोट, जो अपनी छिपी सुरक्षा रचना प्रकट कर रहा है
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## एक नज़र में

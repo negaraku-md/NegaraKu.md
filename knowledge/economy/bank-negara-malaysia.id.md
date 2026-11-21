@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "id"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: Menara beton berpita horizontal abu-abu kantor pusat Bank Negara Malaysia yang dimahkotai lambang kijang biru, menjulang di atas taman hijau dengan latar langit biru berbintik dan cakrawala Kuala Lumpur di belakang
+    kind: actual
+    origin: third-party
+    subject: Menara beton bertingkat kantor pusat Bank Negara Malaysia terlihat melintasi taman, pusat Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Fasad bersudut dari kaca gelap dan logam Muzium dan Galeri Seni Bank Negara Malaysia, dengan pelapis geometris tajamnya menjorok ke atas pintu masuk berlanskap
+    kind: actual
+    origin: third-party
+    subject: Muzium dan Galeri Seni Bank Negara Malaysia, bagian dari kompleks Sasana Kijang, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## Sekilas pandang

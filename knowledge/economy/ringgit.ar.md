@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "كل من يتأثر بسعر الصرف — المستوردون والمصدّرون والمسافرون والطلاب في الخارج والمستثمرون."
 
 lang: "ar"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: لقطة مقربة لعملة ماليزية فضية اللون فئة عشرة سِن منقوش عليها BANK NEGARA MALAYSIA مع رقم 10 كبير وكلمة SEN وسنة 2006 وزخرفة نباتية، موضوعة على سطح رمادي
+    kind: actual
+    origin: third-party
+    subject: عملة ماليزية فئة 10 سِن، العملة المعدنية الكسرية للرينغيت
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: ورقة رينغيت مصوّرة تحت الضوء فوق البنفسجي بحيث يتوهّج نقش طائرة ورقية تقليدية (wau) أخضر وعلامات أمان BNM الخفية أمام الورق المعتم
+    kind: actual
+    origin: third-party
+    subject: ورقة رينغيت ماليزية تحت الضوء فوق البنفسجي تكشف تصميمها الأمني الخفي
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## لمحة سريعة

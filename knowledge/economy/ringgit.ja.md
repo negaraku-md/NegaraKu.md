@@ -22,7 +22,7 @@ appliesTo: "為替レートの影響を受けるすべての人——輸入業�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: BANK NEGARA MALAYSIAと刻印され、大きな数字の10、SENの文字、2006年の年号、花のモチーフが入った銀色のマレーシア10セン硬貨を接写したもので、灰色の面の上に置かれている
+    kind: actual
+    origin: third-party
+    subject: リンギットの補助硬貨であるマレーシアの10セン硬貨
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: 紫外線のもとで撮影されたリンギット紙幣で、光る緑色のwau（伝統的な凧）のモチーフと隠されたBNMのセキュリティマークが、暗くなった紙面に浮かび上がっている様子
+    kind: actual
+    origin: third-party
+    subject: 紫外線のもとで隠されたセキュリティデザインが現れるマレーシアのリンギット紙幣
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## 概要

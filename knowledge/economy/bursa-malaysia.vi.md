@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Nhà sáng lập và giám đốc tài chính cân nhắc IPO, các cố vấn và nhà bảo trợ, và nhà đầu tư đang cố đọc xem việc niêm yết ở một bảng thực sự báo hiệu điều gì."
 
 lang: "vi"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Góc nhìn hướng lên các cột đá có rãnh cao và mái vòm tân cổ điển của tòa nhà Exchange Square vươn lên trên nền trời nhạt, với những cây cọ quạt ở chân tòa nhà
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Exchange Square, nơi đặt trụ sở Bursa Malaysia, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Tòa nhà Exchange Square có mái đỏ và cột trụ nơi đặt Bursa Malaysia nhìn qua tán cây từ trên cao, với đường dốc tiếp cận và sân phía trước lộ ra bên dưới
+    kind: actual
+    origin: third-party
+    subject: Góc nhìn trên cao của tòa nhà Bursa Malaysia Exchange Square giữa cây xanh, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## Tổng quan nhanh

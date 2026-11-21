@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang terpapar nilai tukar — pengimpor, pengekspor, wisatawan, pelajar di luar negeri, dan investor."
 
 lang: "id"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Tampak dekat sebuah koin sepuluh sen Malaysia berwarna perak bertuliskan BANK NEGARA MALAYSIA dengan angka besar 10, kata SEN, tahun 2006, dan motif bunga, terletak di permukaan abu-abu
+    kind: actual
+    origin: third-party
+    subject: Sebuah koin 10 sen Malaysia, uang logam pecahan ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Sebuah uang kertas ringgit difoto di bawah sinar ultraviolet sehingga motif wau (layang-layang tradisional) hijau yang bersinar dan tanda pengaman BNM tersembunyi berpendar di atas kertas yang gelap
+    kind: actual
+    origin: third-party
+    subject: Sebuah uang kertas ringgit Malaysia di bawah sinar ultraviolet, memperlihatkan desain pengamannya yang tersembunyi
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## Sekilas pandang

@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: La torre de hormigón gris con bandas horizontales de la sede de Bank Negara Malaysia, rematada por el emblema azul del kijang, que se eleva sobre un parque verde contra un cielo azul moteado, con el perfil urbano de Kuala Lumpur detrás
+    kind: actual
+    origin: third-party
+    subject: La torre escalonada de hormigón de la sede de Bank Negara Malaysia vista a través del parque, en el centro de Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: La fachada angular de cristal oscuro y metal del Museo y Galería de Arte de Bank Negara Malaysia, con su revestimiento geométrico afilado que sobresale sobre una entrada ajardinada
+    kind: actual
+    origin: third-party
+    subject: El Museo y Galería de Arte de Bank Negara Malaysia, parte del complejo Sasana Kijang, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## De un vistazo

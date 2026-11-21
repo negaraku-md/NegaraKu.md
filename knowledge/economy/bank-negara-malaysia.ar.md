@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: برج Bank Negara Malaysia الرئيسي الخرساني الرمادي ذو الأشرطة الأفقية المتوّج بشعار الكيجانغ الأزرق، يرتفع فوق حدائق خضراء أمام سماء زرقاء مرقّطة مع أفق كوالالمبور خلفه
+    kind: actual
+    origin: third-party
+    subject: البرج الخرساني المدرّج للمقر الرئيسي لـ Bank Negara Malaysia يُرى عبر الحدائق، وسط كوالالمبور
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: الواجهة الزاوية ذات الزجاج الداكن والمعدن لمتحف ومعرض فنون Bank Negara Malaysia، بكسائها الهندسي الحاد البارز فوق مدخل منسّق
+    kind: actual
+    origin: third-party
+    subject: متحف ومعرض فنون Bank Negara Malaysia، جزء من مجمع Sasana Kijang، كوالالمبور
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## لمحة سريعة

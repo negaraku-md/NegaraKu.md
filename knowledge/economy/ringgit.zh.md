@@ -22,7 +22,7 @@ appliesTo: "任何受汇率影响的人——进口商、出口商、旅客、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: 特写一枚银色的马来西亚十仙硬币，上面刻有 BANK NEGARA MALAYSIA 字样、大大的数字 10、SEN 字样、2006 年份以及花卉图案，放在灰色表面上
+    kind: actual
+    origin: third-party
+    subject: 一枚马来西亚 10 仙硬币，令吉的辅币
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: 一张令吉纸币在紫外线下拍摄，纸币上发光的绿色 wau（传统风筝）图案和隐藏的 BNM 防伪标记在暗色纸面上发出荧光
+    kind: actual
+    origin: third-party
+    subject: 紫外线下的马来西亚令吉纸币，显现出其隐藏的防伪设计
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## 一览

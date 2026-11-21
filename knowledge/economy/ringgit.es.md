@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona expuesta al tipo de cambio: importadores, exportadores, viajeros, estudiantes en el extranjero e inversores."
 
 lang: "es"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Primer plano de una moneda malasia de diez sen de color plateado con la inscripción BANK NEGARA MALAYSIA, un gran numeral 10, la palabra SEN, el año 2006 y un motivo floral, apoyada sobre una superficie gris
+    kind: actual
+    origin: third-party
+    subject: Una moneda malasia de 10 sen, la moneda fraccionaria del ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Un billete de ringgit fotografiado bajo luz ultravioleta, de modo que un motivo brillante verde de wau (cometa tradicional) y las marcas de seguridad ocultas del BNM se vuelven fluorescentes contra el papel oscurecido
+    kind: actual
+    origin: third-party
+    subject: Un billete malasio de ringgit bajo luz ultravioleta, que revela su diseño de seguridad oculto
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## De un vistazo

@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang terdedah kepada kadar pertukaran — pengimport, pengek
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Pandangan dekat syiling sepuluh sen Malaysia berwarna perak yang terukir BANK NEGARA MALAYSIA dengan angka besar 10, perkataan SEN, tahun 2006 dan motif bunga, terletak di atas permukaan kelabu
+    kind: actual
+    origin: third-party
+    subject: Syiling 10 sen Malaysia, duit pecahan ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Sekeping wang kertas ringgit yang difoto di bawah cahaya ultralembayung sehingga motif wau (layang-layang tradisional) hijau bercahaya dan tanda keselamatan BNM tersembunyi berpendarfluor pada kertas yang gelap
+    kind: actual
+    origin: third-party
+    subject: Sekeping wang kertas ringgit Malaysia di bawah cahaya ultralembayung, mendedahkan reka bentuk keselamatannya yang tersembunyi
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## Sekilas pandang

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "IPO를 저울질하는 창업자와 CFO, 자문사와 스폰서, 그리고 보드 상장이 실제로 무엇을 신호하는지 읽으려는 투자자."
 
 lang: "ko"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Exchange Square 건물의 키 큰 홈이 파인 석조 기둥과 신고전주의 상단부를 밑동의 부채꼴 야자수와 함께 옅은 하늘을 배경으로 올려다본 모습
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르에 있는 Bursa Malaysia의 본거지 Exchange Square 건물
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Bursa Malaysia가 입주한 붉은 지붕의 기둥 건물 Exchange Square를 위에서 나무 우듬지 너머로 본 모습으로, 아래쪽 진입 램프와 앞마당이 보인다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 Bukit Kewangan의 녹지 속 Bursa Malaysia Exchange Square 건물을 높은 곳에서 본 모습
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## 한눈에 보기

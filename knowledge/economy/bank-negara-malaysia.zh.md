@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "zh"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(23071
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: Bank Negara Malaysia 总部那座带水平横纹的灰色混凝土塔楼顶部矗立着蓝色的麒麟徽标，塔楼高耸于绿色园林之上，背景是斑驳的蓝天和吉隆坡天际线
+    kind: actual
+    origin: third-party
+    subject: 越过园林望去的 Bank Negara Malaysia 总部层叠式混凝土塔楼，吉隆坡市中心
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Bank Negara Malaysia 博物馆暨美术馆棱角分明的深色玻璃与金属立面，其尖锐的几何外墙向绿化入口上方伸出
+    kind: actual
+    origin: third-party
+    subject: Bank Negara Malaysia 博物馆暨美术馆，Sasana Kijang 建筑群的一部分，吉隆坡
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## 一览
