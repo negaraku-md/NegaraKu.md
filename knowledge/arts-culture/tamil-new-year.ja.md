@@ -105,6 +105,7 @@ images:
     credit: BOMBMAN / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 チッティライ月の最初の夜明け。多くのタミル系の家庭では、前夜のうちに盆が一つ用意されている——マンゴー、バナナ、キンマの葉、少しの金の装身具、そして一枚の鏡。朝、目を覚ましたら、ほかの何を見るよりも前に、まずこの盆を見なければならない。これが**カンニ（kanni）**である——新年の日に最初に見る光景がその一年の調子を定める、という信仰の表れである。

@@ -127,6 +127,7 @@ images:
     credit: JeremiahsCPs / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 Une couronne de granit s'élevant tout droit hors de la forêt tropicale de Bornéo jusqu'à un peu plus de 4,000 mètres, un parc du patrimoine mondial comptant plus d'espèces végétales que certains continents, et une ascension du sommet si étroitement rationnée que vous la réservez avant vos vols — le mont Kinabalu est le repère naturel le plus célèbre de Malaisie, et l'un des plus encadrés à visiter concrètement. Il se dresse à Sabah, dans la partie malaisienne de Bornéo, et récompense deux types très différents de voyageurs : le grimpeur en forme et organisé en quête d'une aurore sur le plus haut sommet entre l'Himalaya et la Nouvelle-Guinée, et le visiteur d'un jour qui veut simplement de l'air frais de montagne, d'étranges plantes carnivores et un bain dans une source chaude. Ce guide couvre les deux, et les choses que les gens se trompent régulièrement avant de partir.

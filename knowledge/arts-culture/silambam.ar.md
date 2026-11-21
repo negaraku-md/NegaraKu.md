@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 في احتفال بمعبد أو في مناسبة [رأس السنة التاميلية](/ar/arts-culture/tamil-new-year) بماليزيا، قد ترى شابًّا يدوّر عصا خيزران طويلة فوق رأسه وحول جسده بسرعة البرق، على إيقاع الطبول. وهذا التدوير ليس للزينة فحسب — بل هو رمز السيلامبام، فنّ القتال التاميلي الذي يزيد عمره على ألف وخمسمئة عام.

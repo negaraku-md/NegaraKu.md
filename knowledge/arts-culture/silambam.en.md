@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 At a temple festival or a [Tamil New Year](/en/arts-culture/tamil-new-year) event in Malaysia, you may see a young man twirling a long bamboo staff above his head and around his body at lightning speed, in time with the beat of the drums. That spinning is not merely for show — it is the hallmark of silambam, a Tamil martial art more than one and a half thousand years old.

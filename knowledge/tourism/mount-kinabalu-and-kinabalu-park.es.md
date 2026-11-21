@@ -127,6 +127,7 @@ images:
     credit: JeremiahsCPs / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 Una corona de granito que se alza directamente de la selva de Borneo hasta algo más de 4.000 metros, un parque Patrimonio Mundial con más especies vegetales que algunos continentes, y una ascensión a la cumbre tan racionada que se reserva antes que los vuelos — el Monte Kinabalu es el hito natural más famoso de Malasia y uno de los más estructurados de visitar en la práctica. Se encuentra en Sabah, en la parte malasia de Borneo, y recompensa a dos tipos de viajero muy distintos: el escalador en forma y organizado que persigue un amanecer en el pico más alto entre el Himalaya y Nueva Guinea, y el excursionista de un día que simplemente quiere aire fresco de montaña, extrañas plantas carnívoras y un remojón en una fuente termal. Esta guía cubre ambos, y las cosas que la gente suele equivocar antes de ir.

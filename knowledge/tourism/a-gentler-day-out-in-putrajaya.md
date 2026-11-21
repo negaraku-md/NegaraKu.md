@@ -105,6 +105,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 Putrajaya rewards a visit, but it punishes the wrong plan. Malaysia's purpose-built federal administrative capital is a city of **wide boulevards, monumental buildings, ceremonial plazas, bridges and a large man-made lake** — beautiful, and built for cars. Its landmarks are scattered across numbered precincts, often a kilometre or more apart, with little shade in between. Arrive expecting to stroll from the mosque to the gardens to the shops and you will spend a hot day walking long, exposed distances. Arrive with a gentler plan and Putrajaya becomes one of the easiest calm days out near Kuala Lumpur.

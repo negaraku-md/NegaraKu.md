@@ -105,6 +105,7 @@ images:
     credit: BOMBMAN / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 齐特莱月的第一个破晓。在许多泰米尔人家中，前一夜就已备好一个托盘——芒果、香蕉、槟榔叶、一点金饰、一面镜子。清晨睁眼时，在看任何其他东西之前，要先看到这个托盘。这就是**卡尼（kanni）**——相信新年当天第一眼看到的景象会为一整年定下基调的一种体现。

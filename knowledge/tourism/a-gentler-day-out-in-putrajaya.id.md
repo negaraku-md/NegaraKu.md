@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 Putrajaya layak dikunjungi, tetapi ia menghukum rencana yang salah. Ibu kota administratif federal Malaysia yang dibangun khusus ini adalah kota dengan **bulevar lebar, bangunan monumental, plaza seremonial, jembatan, dan danau buatan yang besar** — indah, dan dibangun untuk mobil. Landmark-nya tersebar di seluruh presint bernomor, sering kali berjarak satu kilometer atau lebih, dengan sedikit keteduhan di antaranya. Datanglah dengan harapan bisa berjalan santai dari masjid ke taman lalu ke toko-toko dan Anda akan menghabiskan hari yang panas berjalan menempuh jarak yang jauh dan terbuka. Datanglah dengan rencana yang lebih santai dan Putrajaya menjadi salah satu hari santai termudah di dekat Kuala Lumpur.

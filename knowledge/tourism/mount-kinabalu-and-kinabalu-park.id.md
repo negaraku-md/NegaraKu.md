@@ -127,6 +127,7 @@ images:
     credit: JeremiahsCPs / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 Mahkota granit yang menjulang lurus dari hutan hujan Borneo hingga sedikit di atas 4,000 meter, taman Warisan Dunia dengan lebih banyak spesies tumbuhan daripada sebagian benua, dan pendakian puncak yang begitu ketat dijatah hingga Anda memesannya sebelum memesan penerbangan — Gunung Kinabalu adalah bentang alam paling terkenal di Malaysia, dan salah satu yang paling terstruktur untuk benar-benar dikunjungi. Ia terletak di Sabah, di bagian Malaysia dari Borneo, dan ia menyenangkan dua jenis pelancong yang sangat berbeda: pendaki yang bugar dan terorganisir yang mengejar fajar di puncak tertinggi antara Himalaya dan New Guinea, dan pengunjung sehari yang sekadar menginginkan udara gunung yang sejuk, tumbuhan karnivora yang aneh dan berendam di sumber air panas. Panduan ini mencakup keduanya, serta hal-hal yang sering salah dipahami orang sebelum pergi.

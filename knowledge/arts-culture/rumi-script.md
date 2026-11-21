@@ -77,6 +77,7 @@ verificationNeeded:
   - "Nama rasmi sistem ejaan 1972 di Malaysia: sumber berbeza menyebut 'Ejaan Rumi Baharu' dan 'Ejaan Rumi Bersama' — perlu disahkan terhadap pedoman rasmi DBP"
   - "Tahun sistem ejaan Za'ba: sebahagian sumber menyebut diperkenalkan 1924 dan sebahagian lain menyebut disusun secara lengkap pada 1933 — perlu disahkan terhadap sumber primer"
 framework: history-culture
+wikidata: "Q2673515"
 ---
 
 Apabila kita membaca perkataan Melayu hari ini — pada papan tanda jalan, dalam akhbar, pada skrin telefon — kita membacanya dalam huruf yang sama dengan abjad Inggeris: a, b, c, d dan seterusnya. Tulisan itu dipanggil tulisan Rumi. Ia begitu biasa sehingga ramai yang tidak sedar bahawa Rumi bukanlah tulisan asli bahasa Melayu, dan bahawa bentuknya yang kemas dan seragam hari ini ialah hasil usaha penyeragaman yang memakan masa lebih seratus tahun.

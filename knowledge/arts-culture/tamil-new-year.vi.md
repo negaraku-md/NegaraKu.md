@@ -105,6 +105,7 @@ images:
     credit: BOMBMAN / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 Buổi rạng đông đầu tiên của tháng Chithirai. Trong nhiều gia đình Tamil, một

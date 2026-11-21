@@ -105,6 +105,7 @@ images:
     credit: BOMBMAN / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 Fajar pertama bulan Chithirai. Di banyak rumah Tamil, sebuah nampan sudah

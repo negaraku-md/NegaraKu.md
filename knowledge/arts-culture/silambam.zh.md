@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 在马来西亚的庙会或[泰米尔新年](/zh/arts-culture/tamil-new-year)活动上，你或许会看到一名青年随着鼓乐的节拍，以迅雷般的速度将一根长竹棍在头顶上方与身体四周旋转。那旋转并非徒为美观——它是锡拉邦的标志，一门已有一千五百余年历史的泰米尔武术。

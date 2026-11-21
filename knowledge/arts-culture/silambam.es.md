@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 En una festividad de un templo o en una celebración del [Año Nuevo tamil](/es/arts-culture/tamil-new-year) en Malasia, puede que vea a un joven hacer girar un largo bastón de bambú por encima de la cabeza y alrededor del cuerpo a una velocidad de vértigo, al compás de los tambores. Ese giro no es solo por vistosidad — es el emblema del silambam, un arte marcial tamil con más de mil quinientos años de antigüedad.

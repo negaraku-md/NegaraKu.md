@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 Di sebuah perayaan kuil atau acara [Tahun Baru Tamil](/id/arts-culture/tamil-new-year) di Malaysia, Anda mungkin melihat seorang pemuda memutar tongkat bambu panjang di atas kepala dan mengelilingi tubuhnya secepat kilat, mengikuti irama gendang. Putaran itu bukan sekadar untuk tontonan — ia adalah lambang silambam, seni bela diri Tamil yang berusia lebih dari seribu lima ratus tahun.

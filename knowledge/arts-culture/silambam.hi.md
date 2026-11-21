@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 मलेशिया के किसी मंदिर उत्सव या [तमिल नववर्ष](/hi/arts-culture/tamil-new-year) के आयोजन में आप देख सकते हैं कि एक युवक ढोल की ताल पर, बिजली-सी तेज़ी से एक लंबी बाँस की छड़ी को अपने सिर के ऊपर और शरीर के चारों ओर घुमा रहा है। वह घुमाव केवल सुंदरता के लिए नहीं है — वह सिलम्बम का प्रतीक है, एक ऐसी तमिल युद्धकला जो डेढ़ हज़ार वर्षों से भी अधिक पुरानी है।

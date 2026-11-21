@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 Putrajaya tưởng thưởng cho một chuyến thăm, nhưng nó trừng phạt kế hoạch sai. Thủ đô hành chính liên bang được xây dựng có chủ đích của Malaysia là một thành phố của **những đại lộ rộng, công trình hoành tráng, quảng trường nghi lễ, cầu và một hồ nhân tạo lớn** — đẹp đẽ, và được xây cho xe hơi. Các địa danh của nó rải rác qua các khu (precinct) được đánh số, thường cách nhau một cây số hoặc hơn, với ít bóng râm ở giữa. Đến với kỳ vọng dạo bộ từ nhà thờ đến các khu vườn đến các cửa hàng và bạn sẽ dành cả một ngày nóng nực lội bộ những quãng đường dài, phơi nắng. Đến với một kế hoạch thong thả hơn và Putrajaya trở thành một trong những ngày nghỉ nhẹ nhàng dễ nhất gần Kuala Lumpur.

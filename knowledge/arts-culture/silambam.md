@@ -95,6 +95,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 மலேசியாவின் ஒரு கோயில் விழாவிலோ, [தமிழ்ப் புத்தாண்டு](/arts-culture/tamil-new-year) நிகழ்ச்சியிலோ, மேளத்தின்

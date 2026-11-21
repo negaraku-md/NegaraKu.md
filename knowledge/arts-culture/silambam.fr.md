@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 Lors d'une fête de temple ou d'une célébration du [Nouvel An tamoul](/fr/arts-culture/tamil-new-year) en Malaisie, vous pourrez voir un jeune homme faire tournoyer un long bâton de bambou au-dessus de sa tête et autour de son corps à une vitesse fulgurante, au rythme des tambours. Ce tournoiement n'est pas qu'une affaire d'esthétique — c'est l'emblème du silambam, un art martial tamoul vieux de plus de mille cinq cents ans.

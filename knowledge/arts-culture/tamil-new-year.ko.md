@@ -105,6 +105,7 @@ images:
     credit: BOMBMAN / Wikimedia Commons
     license: CC BY 2.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 치티라이 월의 첫 새벽. 많은 타밀 가정에서는 전날 밤에 이미 쟁반 하나가 차려져 있다 — 망고, 바나나, 베텔 잎, 약간의 금 장신구, 그리고 거울 하나. 아침에 눈을 뜨면, 다른 무엇을 보기에 앞서 이 쟁반을 가장 먼저 보아야 한다. 이것이 바로 **칸니(kanni)** — 설날에 가장 먼저 본 광경이 한 해 전체의 분위기를 정한다는 믿음의 표현이다.

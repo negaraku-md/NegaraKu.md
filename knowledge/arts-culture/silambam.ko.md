@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 말레이시아의 사원 축제나 [타밀 설날](/ko/arts-culture/tamil-new-year) 행사에서, 한 젊은이가 북 장단에 맞추어 긴 대나무 봉을 머리 위와 몸 둘레로 번개처럼 빠르게 돌리는 모습을 볼 수 있다. 그 회전은 단지 보기 좋으라고 하는 것이 아니다 — 그것은 천오백 년이 넘는 역사를 지닌 타밀 무술, 실람밤의 상징이다.

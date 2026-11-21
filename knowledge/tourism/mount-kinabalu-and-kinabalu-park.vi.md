@@ -127,6 +127,7 @@ images:
     credit: JeremiahsCPs / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 Một vương miện đá granite vươn thẳng ra khỏi rừng mưa Borneo lên tới vừa quá 4,000 mét, một vườn Di sản Thế giới với nhiều loài thực vật hơn cả một số châu lục, và một chuyến leo đỉnh được định lượng chặt chẽ đến mức bạn đặt nó trước khi đặt vé máy bay — Núi Kinabalu là địa danh thiên nhiên nổi tiếng nhất ở Malaysia, và là một trong những nơi có cấu trúc nhất để thực sự ghé thăm. Nó nằm ở Sabah, trong phần Borneo thuộc Malaysia, và nó tưởng thưởng cho hai kiểu du khách rất khác nhau: người leo núi khỏe mạnh, có tổ chức theo đuổi một bình minh trên đỉnh cao nhất giữa dãy Himalaya và New Guinea, và người đi trong ngày chỉ đơn giản muốn không khí núi mát lạnh, những loài cây ăn thịt kỳ lạ và một lần ngâm mình trong suối nước nóng. Cẩm nang này bao gồm cả hai, và những điều người ta thường hiểu sai trước khi đi.

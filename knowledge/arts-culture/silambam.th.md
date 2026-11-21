@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 ในงานเทศกาลของวัดหรืองาน[ปีใหม่ทมิฬ](/th/arts-culture/tamil-new-year)ในมาเลเซีย คุณอาจได้เห็นชายหนุ่มคนหนึ่งหมุนไม้พลองไผ่ยาวเหนือศีรษะและรอบลำตัวด้วยความเร็วปานสายฟ้า ตามจังหวะกลอง การหมุนนั้นมิใช่เพียงเพื่อความสวยงาม — หากแต่เป็นสัญลักษณ์ของศิลัมบัม ศิลปะการต่อสู้ของชาวทมิฬที่มีอายุกว่าหนึ่งพันห้าร้อยปี

@@ -106,6 +106,7 @@ images:
     credit: CEphoto, Uwe Aranas / Wikimedia Commons
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 Putrajaya récompense la visite, mais elle punit le mauvais plan. La capitale administrative fédérale de la Malaisie, bâtie sur mesure, est une ville de **larges boulevards, de bâtiments monumentaux, d'esplanades cérémonielles, de ponts et d'un grand lac artificiel** — magnifique, et conçue pour les voitures. Ses sites emblématiques sont dispersés dans des précincts (Precinct) numérotés, souvent à un kilomètre ou plus les uns des autres, avec peu d'ombre entre deux. Arrivez en pensant flâner de la mosquée aux jardins puis aux boutiques et vous passerez une journée chaude à marcher de longues distances exposées. Arrivez avec un plan plus doux et Putrajaya devient l'une des journées calmes les plus faciles à passer près de Kuala Lumpur.

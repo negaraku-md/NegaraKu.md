@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 Tại một lễ hội đền hay một dịp [Tết Tamil](/vi/arts-culture/tamil-new-year) ở Malaysia, bạn có thể thấy một chàng trai xoay cây côn tre dài trên đầu và quanh thân mình với tốc độ nhanh như chớp, theo nhịp trống. Vòng xoay ấy không chỉ để phô diễn — đó là biểu tượng của silambam, một môn võ Tamil đã hơn một nghìn năm trăm năm tuổi.

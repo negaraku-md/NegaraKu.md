@@ -96,6 +96,7 @@ images:
     credit: Arunachalam Mani / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 マレーシアの寺院の祭礼や[タミル正月](/ja/arts-culture/tamil-new-year)の催しで、太鼓の拍子に合わせ、一人の若者が長い竹の棒を頭上や体のまわりに稲妻のような速さで回すさまを目にすることがある。その回転はただ見栄えのためではない——それは、一千五百年を超える歴史をもつタミル武術、シランバムの象徴である。
