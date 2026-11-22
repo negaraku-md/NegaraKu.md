@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "keropok lekor에 표준이거나 가장 선호되는 생선이 무엇인지, 그리고 ikan tamban, selayang, kerisi에 비해 ikan parang이 얼마나 흔히 쓰이는지 — 자료마다 다른 생선을 들며 어느 것이 가장 좋은 결과를 내는지 견해가 갈린다. 어떤 단일 표준을 말하기 전에 Terengganu의 요리 또는 수산 자료와 대조해 확인할 것."
   - "lekor라는 말의 뜻과 유래 — 설명은 그것을 반죽의 말기/마는 것, 그 둘레, 또는 막대의 긴 모양을 가리키는 것으로 다양하게 풀이한다. 그 어원을 Terengganu 말레이어 자료와 대조해 검증할 것."

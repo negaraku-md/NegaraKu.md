@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sahkan panjang gabungan dan setiap negeri - sumber memberikan bahagian Sarawak sebagai kira-kira 1,060 km, 1,077 km atau 1,090 km, Fasa 1 Sabah sebagai kira-kira 706 km, dan keseluruhan lebuhraya secara pelbagai sebagai kira-kira 1,663 km atau lebih daripada 2,000 km; semak angka JKR atau Ministry of Works terkini."
   - "Sahkan angka kos setiap negeri dan fasa - bahagian Sarawak dilaporkan sekitar RM16 billion, manakala Fasa 1 Sabah telah dipetik pada RM12.86 billion (anggaran awal), kira-kira RM17.91 hingga RM18.96 billion (Auditor-General), dan RM24.89 billion (Ministry of Works, Julai 2026); angka ini mencerminkan skop, tarikh dan model kontrak yang berbeza dan tidak boleh dibandingkan secara langsung."

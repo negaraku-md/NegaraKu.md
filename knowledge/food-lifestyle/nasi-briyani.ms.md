@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "Pengaitan beriani gam khususnya dengan daerah Muar dan Batu Pahat di Johor, serta penamaan 'gam'/'dam', bersandar terutamanya pada rekod warisan JKKN; sahkan sama ada gaya dan istilah ini eksklusif kepada Johor atau lebih meluas dikongsi."
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

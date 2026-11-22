@@ -34,15 +34,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Whether 'apom' is specifically the established Malaysian / Tamil-Malaysian name for the Indian appam (as opposed to apom balik) — the naming is widely used in food writing but rests on secondary and review sources; confirm with a local culinary or heritage authority."
   - "The concrete details of the Malaysian Indian appam — the crisp lacy edge with soft centre, egg appam (appam telur), the sweeter coconut-milk version, and toppings such as peanuts, coconut sambol, egg and black pepper — are drawn from a single Malay Mail stall review that could not be re-fetched directly (HTTP 403); confirm against the original article or another Malaysian source, and do not state any price without re-verifying it."

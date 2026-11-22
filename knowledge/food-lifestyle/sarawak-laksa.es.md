@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "La historia de origen según la cual el Sarawak laksa fue vendido por primera vez hacia 1945 por Goh Lik Teck en Carpenter Street, en Kuching, se apoya en relatos de medios gastronómicos secundarios; las fuentes señalan que los verdaderos comienzos son inciertos. Verificar con una fuente culinaria o patrimonial de Sarawak antes de afirmar fecha o fundador alguno."

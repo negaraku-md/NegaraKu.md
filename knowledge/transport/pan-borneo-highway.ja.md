@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "合計および州ごとの長さを確認すること——情報源は Sarawak 区間を約 1,060 km、1,077 km、または 1,090 km、Sabah の Phase 1 を約 706 km、ハイウェイ全体を約 1,663 km または 2,000 km 超とまちまちに示している。最新の JKR または Ministry of Works の数字を確認すること。"
   - "州およびフェーズごとの費用の数字を確認すること——Sarawak 区間は約 RM16 billion と報じられ、Sabah の Phase 1 は RM12.86 billion（初期見積もり）、約 RM17.91〜RM18.96 billion（Auditor-General）、RM24.89 billion（Ministry of Works、2026年7月）と引用されている。これらは異なる範囲、日付、契約モデルを反映しており、直接比較できない。"

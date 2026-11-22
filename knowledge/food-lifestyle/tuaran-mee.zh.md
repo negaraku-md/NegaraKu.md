@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "鬥亞蘭面的发明年代与早期脉络记载不一——一种说法把一家家族面食供应生意定在 1968 年，另一种把这道菜追溯到 1970 年代，第三种则说 Sabah 的炒面在 1980 年代中期之前在客家话里只被称为 'chao men'。没有任何确切的发明年代得到充分支持；在陈述之前须加以确认。"
   - "与 Kota Kinabalu 的确切距离在各家资料中不一（Wikipedia 把该镇定为以北 34 公里；旅游文章说 30 公里、约 45 分钟车程，或 50 公里车程）。任何单一数字都应视为约数。"

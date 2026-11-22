@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Gula berwarna oren yang kadangkala dihidang bersama putu mayam dan istilah Melayu 'gula hangus' baginya tidak dapat disahkan dalam sumber yang berwibawa; kebanyakan sumber hanya menerangkan kelapa parut dengan gula perang atau gula melaka. Sahkan istilah itu dan penggunaannya sebelum menyatakannya."
   - "Dakwaan tentang kepurbaan idiyappam (dikaitkan dengan tafsiran K. T. Achaya terhadap kesusasteraan Sangam, yang dikatakan menggambarkan hidangan ini di Tamilakam sekitar abad pertama Masihi) bersandar pada sumber sekunder; sahkan terhadap kajian primer sebelum memetik sebarang tarikh."

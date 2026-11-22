@@ -34,14 +34,16 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Origin of asam pedas is contested across sources — Malaysian cultural pages associate it with Melaka, while other sources trace it to Minangkabau West Sumatra. Treat it as a shared Malay-Minangkabau dish of unclear single origin; confirm against an academic culinary-history source before stating any firm claim."
   - "The specific fish most commonly used in Malaysian asam pedas (ikan pari/stingray, ikan kembung/mackerel, siakap/barramundi) is drawn from general Malaysian practice; English Wikipedia's ingredient list names mackerel, snapper and others but not stingray or siakap by name. Confirm the canonical fish list against a Malaysian culinary source."

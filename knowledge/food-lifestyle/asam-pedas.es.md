@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "El origen del asam pedas es objeto de debate entre las fuentes — las páginas culturales malasias lo asocian a Melaka, mientras que otras fuentes lo remontan a los Minangkabau de Sumatra Occidental. Trátalo como un plato malayo-Minangkabau compartido de origen único incierto; verifica con una fuente académica de historia culinaria antes de afirmar algo con rotundidad."
   - "El pescado más usado en el asam pedas malasio (ikan pari/raya, ikan kembung/caballa, siakap/barramundi) procede de la práctica general malasia; la lista de ingredientes de la Wikipedia en inglés nombra la caballa, el pargo y otros, pero no la raya ni el siakap por su nombre. Verifica la lista canónica de pescados con una fuente culinaria malasia."

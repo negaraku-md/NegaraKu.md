@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirmar la longitud final de la línea: las fuentes van desde unos 29,5 km (ampliamente informado) hasta 29,67 km (medición del viaducto de MRT Corp); usar la cifra oficial más reciente."
   - "Confirmar el recuento exacto de estaciones: la prensa cita alrededor de 21, mientras que el material de proyecto de MRT Corp enumera 20 estaciones más dos provisionales (PSR-A y Jalan Bagan Luar); la cifra aún se está perfilando."

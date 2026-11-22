@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "تأكّد من توزيع حصص الملكية في شركة RTS Operations Pte Ltd (RTSO) - المشغّل مشروع مشترك بين Prasarana وSMRT، لكن توزيع الحصص الدقيق (المذكور عادةً بنحو 60:40 لصالح Prasarana:SMRT) لم يُؤكَّد في مقابل مصدر رسمي؛ تأكّد منه في مقابل اتفاقية المشروع المشترك أو إيداعات الشركة."
   - "تأكّد من إجمالي تكلفة المشروع وتوزيع تقاسم التكلفة - تذكر التقارير تقاسماً لتكلفة البنية التحتية بين سنغافورة وماليزيا بنحو 61:39 وإجمالياً في حدود S$3.2 billion، إلى جانب خفض حصة ماليزيا في 2019 بنسبة 36% من RM4.93 billion إلى RM3.16 billion؛ طابِق هذه مع آخر الأرقام الرسمية."

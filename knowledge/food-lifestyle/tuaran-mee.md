@@ -35,14 +35,16 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "The invention date and early timeline of Tuaran mee are reported inconsistently — one account dates a family noodle-supply business to 1968, another traces the dish to the 1970s, and a third says fried noodles in Sabah were simply called 'chao men' in Hakka until the mid-1980s. No firm invention date is well supported; confirm before stating one."
   - "The exact distance from Kota Kinabalu varies across sources (Wikipedia gives the town as 34 km north; travel pieces say 30 km, roughly a 45-minute drive, or a 50 km drive). Treat any single figure as approximate."

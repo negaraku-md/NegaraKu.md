@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "'apom' 是否确为马来西亚／马来西亚泰米尔人对印度 appam（相对于 apom balik）既定的称呼——此命名在饮食写作中广泛使用，但依据的是二手和评论性资料；须向本地饮食或文化遗产权威求证。"
   - "马来西亚印度 appam 的具体细节——薄脆的蕾丝边缘配柔软中心、appam telur、更甜的椰浆版本，以及花生、coconut sambol、蛋和黑胡椒等配料——取自一篇无法直接重新抓取的 Malay Mail 摊档评论（HTTP 403）；须对照原文或另一马来西亚资料核实，且在未重新核实前不要陈述任何价格。"

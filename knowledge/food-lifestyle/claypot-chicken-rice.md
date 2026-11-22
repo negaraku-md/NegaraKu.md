@@ -35,15 +35,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Whether a distinctly Malaysian version of claypot chicken rice emerged at an identifiable time. Sources trace the dish to Cantonese cooking in Guangdong and Hong Kong (bo zai fan) but document no Malaysia-specific origin date; the Malaysian dish is best described as an adaptation, not an independent origin."
   - "The Cantonese name for the crisp bottom crust (commonly romanised 'fan jiu', 飯焦). Dialect romanisations vary and the term is also applied to scorched rice generally; confirm the spelling and usage against a culinary-language source before presenting it as standard."

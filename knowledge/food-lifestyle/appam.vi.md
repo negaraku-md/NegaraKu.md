@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Liệu 'apom' có cụ thể là tên gọi đã được xác lập của người Malaysia / người Tamil-Malaysia dành cho appam Ấn (trái với apom balik) hay không — cách gọi này được dùng rộng rãi trong các bài viết ẩm thực nhưng dựa trên nguồn thứ cấp và đánh giá; hãy xác nhận với một thẩm quyền về ẩm thực hoặc di sản địa phương."
   - "Các chi tiết cụ thể về appam Ấn kiểu Malaysia — viền ren giòn với phần giữa mềm, appam telur, phiên bản nước cốt dừa ngọt hơn, và các món phủ như đậu phộng, coconut sambol, trứng và tiêu đen — được lấy từ một bài đánh giá quầy của Malay Mail không thể truy xuất lại trực tiếp (HTTP 403); hãy xác minh với bài gốc hoặc một nguồn Malaysia khác, và đừng nêu bất kỳ mức giá nào mà không xác minh lại."

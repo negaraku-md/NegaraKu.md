@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La historia del origen del idli es genuinamente discutida: diversas teorías lo remontan a preparaciones de arroz al vapor del archipiélago indonesio, a pasteles al vapor llevados por tejedores saurashtra a Tamil Nadu hacia el siglo X, y al mundo árabe. Ningún relato está asentado — no afirmar un origen firme sin una fuente dedicada de historia alimentaria."
   - "La historia migratoria — que el idli llegó a Malaya específicamente con los migrantes surindios (en su mayoría tamiles) durante la era colonial británica — es razonable y paralela a la del thosai, pero el periodo y la ruta exactos no están firmemente documentados para el idli; verificar con una fuente dedicada de historia alimentaria o migratoria."

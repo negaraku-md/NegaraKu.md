@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Asam pedas 的起源在各家资料中有争议——马来西亚的文化网页将它与 Melaka 联系在一起，而其他资料则将它追溯到西苏门答腊的 Minangkabau。应把它视为一道马来—Minangkabau 共享、单一起源不明的菜肴；在陈述任何确切说法之前，须对照学术性的饮食史资料核实。"
   - "马来西亚 asam pedas 最常用的鱼（ikan pari／魔鬼鱼、ikan kembung／马鲛、siakap／barramundi）取自马来西亚的普遍做法；英文维基百科的食材清单列出马鲛、红鲷等，但未具名 ikan pari 或 siakap。须对照马来西亚的饮食资料核实规范的用鱼清单。"

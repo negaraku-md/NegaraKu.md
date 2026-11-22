@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Le sucre de couleur orange parfois servi avec le putu mayam et le terme malais 'gula hangus' qui le désigne n'ont pu être confirmés dans une source fiable ; la plupart des sources ne décrivent que de la noix de coco râpée avec du sucre roux ou de palme (gula melaka). Confirmer le terme et son usage avant de l'affirmer."
   - "L'ancienneté attribuée à l'idiyappam (imputée à la lecture par K. T. Achaya de la littérature sangam, censée décrire le plat au Tamilakam vers le Ier siècle apr. J.-C.) repose sur une source secondaire ; vérifier auprès des travaux primaires avant de citer une quelconque date."

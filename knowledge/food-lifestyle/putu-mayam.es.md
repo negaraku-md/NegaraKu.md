@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "El azúcar de color naranja que a veces se sirve con el putu mayam y el término malayo 'gula hangus' para él no pudieron confirmarse en una fuente fiable; la mayoría de las fuentes describen solo coco rallado con azúcar moreno o de palma (gula melaka). Confirmar el término y su uso antes de afirmarlo."
   - "La antigüedad atribuida al idiyappam (achacada a la lectura de K. T. Achaya de la literatura sangam, que supuestamente describe el plato en Tamilakam hacia el siglo I d. C.) se apoya en una fuente secundaria; verificar con la erudición primaria antes de citar fecha alguna."

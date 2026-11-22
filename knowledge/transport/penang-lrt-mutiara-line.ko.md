@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "최종 노선 길이를 확인할 것 — 출처는 약 29.5km(널리 보도됨)에서 29.67km(MRT Corp 고가교 측정치)까지 범위가 있음; 최신 공식 수치를 사용할 것."
   - "정확한 역 수를 확인할 것 — 보도는 약 21개를 인용하나, MRT Corp 사업 자료는 역 20개에 잠정역 2개(PSR-A와 Jalan Bagan Luar)를 더해 제시함; 수치가 아직 확정 중임."

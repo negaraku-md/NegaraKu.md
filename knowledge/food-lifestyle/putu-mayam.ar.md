@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "السكّر البرتقالي اللون الذي يُقدَّم أحياناً مع putu mayam والمصطلح الملايوي 'gula hangus' له لم يُمكن تأكيدهما في مصدر موثوق؛ ومعظم المصادر تصف فقط جوز الهند المبشور مع سكّر بنّي أو سكّر النخيل (gula melaka). تأكّد من المصطلح واستخدامه قبل ذكره."
   - "الادّعاء بقِدَم idiyappam (المنسوب إلى قراءة K. T. Achaya لأدب السانغام، ويُقال إنّه يصف الطبق في تاميلاكام نحو القرن الأوّل الميلادي) يستند إلى مصدر ثانوي؛ تحقّق من البحث الأوّلي قبل الاستشهاد بأي تاريخ."

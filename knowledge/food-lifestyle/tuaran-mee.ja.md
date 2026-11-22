@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tuaran mee の発明の年代と初期の経緯は一貫せずに伝えられている——ある説は家族経営の製麺供給業を1968年とし、別の説は料理を1970年代にさかのぼらせ、三つ目は Sabah の焼き麺が1980年代半ばまで客家語で単に『chao men』と呼ばれていたとする。確たる発明年代を裏づけるものは乏しい。述べる前に確認すること。"
   - "Kota Kinabalu からの正確な距離は資料によって異なる（Wikipedia は町を北へ34キロとし、旅行記事は30キロ、車でおよそ45分、あるいは50キロの道のりとする）。単一の数字はいずれも概数として扱うこと。"

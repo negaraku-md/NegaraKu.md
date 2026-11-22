@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "Kerangka lazim yang menggambarkan ayam percik sebagai gaya putih dan lemak Kelantan berbanding gaya lebih merah Terengganu tidak disokong dengan jelas: sumber yang berwibawa menggambarkan varian kuah putih (putih) dan merah (merah) terutamanya dalam konteks Kelantan, dan penisbahan khusus kepada Terengganu bersandar pada satu sumber yang kurang mapan. Sahkan pemetaan gaya mengikut negeri yang tepat terhadap sumber masakan Pantai Timur primer sebelum menyatakannya."
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Ayam percik yang aromatik dan bersahaja (Aromatic, rustic ayam percik)"

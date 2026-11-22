@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "사업 총비용을 확인할 것 — 추정치는 건설비 약 RM310억에서 토지 포함 약 RM394억까지, 표제 수치로는 약 RM502억까지 인용됨; 2023년 예산은 지출을 RM450억 미만으로 유지하는 목표를 설정함. 확정된 단일 전액 공식 수치는 정해지지 않음; 최신 MRT Corp 또는 재무부 발표를 확인할 것."
   - "건설 개시와 개통 날짜를 확인할 것 — 더 최근 자료는 2027년 착공과 2032년경 개통을 제시하고, 이전 계획은 2028년부터 단계적 개통과 2030년까지 전면 완공이었음; MRT Corp에 확인할 것."

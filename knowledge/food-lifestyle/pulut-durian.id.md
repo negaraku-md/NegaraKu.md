@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Kaitan kedaerahan yang spesifik (negeri bagian Pantai Timur seperti Pahang, Terengganu, dan Kelantan, serta asal-usul kampung) disarankan oleh situs makanan berotoritas rendah tetapi tidak dikonfirmasi oleh sumber kuliner Malaysia yang primer atau berotoritas; verifikasi sebelum menyatakan asal-usul kedaerahan yang pasti."
   - "Waktu musim durian yang persis (sering disebut kira-kira pertengahan tahun) berbeda menurut wilayah dan tahun; konfirmasikan dengan panduan budaya durian atau sumber pertanian alih-alih memastikan bulan tertentu di sini."

@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Loại cá nào là chuẩn mực hoặc được ưa chuộng nhất cho keropok lekor, và ikan parang được dùng phổ biến ra sao so với ikan tamban, selayang hay kerisi: các nguồn nêu những loại cá khác nhau và bất đồng về loại nào cho kết quả ngon nhất. Hãy xác minh với một nguồn ẩm thực hoặc thủy sản của Terengganu trước khi nêu bất kỳ chuẩn mực đơn lẻ nào."
   - "Nghĩa và nguồn gốc của từ lekor: các cách giải thích khác nhau diễn giải nó là chỉ việc cuộn/sự cuộn bột, chu vi của nó, hoặc hình dạng dài của các thanh. Hãy xác minh từ nguyên với một nguồn tiếng Mã Lai của Terengganu."

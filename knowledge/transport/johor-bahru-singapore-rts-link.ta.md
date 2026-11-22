@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "RTS Operations Pte Ltd (RTSO)-இல் பங்குதாரர் பங்கீட்டை உறுதிப்படுத்தவும் - இயக்குநர் Prasarana-SMRT கூட்டு முயற்சி, ஆனால் துல்லியமான பங்கு விகிதம் (பொதுவாக சுமார் 60:40 Prasarana:SMRT என அறிக்கையிடப்படுகிறது) அதிகாரப்பூர்வ ஆதாரத்துடன் உறுதிப்படுத்தப்படவில்லை; கூட்டு முயற்சி ஒப்பந்தம் அல்லது நிறுவனப் பதிவுகளுடன் உறுதிப்படுத்தவும்."
   - "மொத்த திட்டச் செலவு மற்றும் செலவுப் பகிர்வு விகிதத்தை உறுதிப்படுத்தவும் - அறிக்கைகள் சிங்கப்பூர்:மலேசியா உள்கட்டமைப்புச் செலவுப் பகிர்வை சுமார் 61:39 எனவும், மொத்தம் சுமார் S$3.2 billion எனவும் குறிப்பிடுகின்றன, 2019-இல் மலேசியாவின் பங்கு RM4.93 billion-இலிருந்து RM3.16 billion-ஆக 36% குறைக்கப்பட்டதுடன்; இவற்றை சமீபத்திய அதிகாரப்பூர்வ எண்களுடன் சரிசெய்யவும்."

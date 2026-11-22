@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "الإطار الشائع الذي يصوّر ayam percik بوصفه أسلوبًا أبيض كريميًّا في Kelantan مقابل أسلوب أكثر احمرارًا في Terengganu ليس مدعومًا بوضوح: فالمصادر الموثوقة تصف متغيّرَي الصلصة الأبيض (putih) والأحمر (merah) أساسًا في سياق Kelantan، أمّا النسبة الخاصة إلى Terengganu فتستند إلى مصدر واحد أقلّ رسوخًا. تحقّق من خريطة الأساليب الدقيقة بحسب الولاية مقابل مصدر أوّلي في مطبخ الساحل الشرقي قبل ذكرها."
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "ayam percik عطري وريفي (Aromatic, rustic ayam percik)"

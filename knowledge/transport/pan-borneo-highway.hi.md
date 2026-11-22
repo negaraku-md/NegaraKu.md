@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "मिलाकर और प्रति-राज्य लंबाई की पुष्टि करें - स्रोत Sarawak खंड को लगभग 1,060 km, 1,077 km या 1,090 km, Sabah Phase 1 को लगभग 706 km, और पूरे हाईवे को विविध रूप से लगभग 1,663 km या 2,000 km से अधिक बताते हैं; नवीनतम JKR या Ministry of Works आँकड़े जाँचें।"
   - "प्रति-राज्य और प्रति-चरण लागत आँकड़ों की पुष्टि करें - Sarawak खंड लगभग RM16 billion बताया गया, जबकि Sabah Phase 1 को RM12.86 billion (आरंभिक अनुमान), लगभग RM17.91 से RM18.96 billion (Auditor-General), और RM24.89 billion (Ministry of Works, जुलाई 2026) पर उद्धृत किया गया; ये अलग-अलग दायरों, तिथियों और अनुबंध मॉडलों को दर्शाते हैं और सीधे तुलनीय नहीं हैं।"

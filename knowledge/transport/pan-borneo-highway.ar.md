@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "تأكّد من الأطوال المجتمعة ولكل ولاية - تعطي المصادر قطاع Sarawak بنحو 1,060 km أو 1,077 km أو 1,090 km، وSabah Phase 1 بنحو 706 km، والطريق كله بصور متباينة نحو 1,663 km أو أكثر من 2,000 km؛ راجع أحدث أرقام JKR أو Ministry of Works."
   - "تأكّد من أرقام التكلفة لكل ولاية ومرحلة - أُبلغ عن قطاع Sarawak بنحو RM16 billion، بينما ذُكِر Sabah Phase 1 عند RM12.86 billion (تقدير مبكر)، ونحو RM17.91 إلى RM18.96 billion (Auditor-General)، وRM24.89 billion (Ministry of Works، يوليو 2026)؛ وتعكس هذه الأرقام نطاقات وتواريخ ونماذج عقود مختلفة وهي غير قابلة للمقارنة المباشرة."

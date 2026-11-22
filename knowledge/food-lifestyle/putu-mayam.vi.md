@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Loại đường màu cam đôi khi được dọn kèm putu mayam và từ tiếng Mã Lai 'gula hangus' chỉ nó không thể xác nhận trong một nguồn uy tín; hầu hết các nguồn chỉ mô tả dừa nạo với đường nâu hoặc đường thốt nốt (gula melaka). Hãy xác nhận thuật ngữ và cách dùng của nó trước khi nêu."
   - "Tuyên bố về sự cổ xưa của idiyappam (quy cho cách K. T. Achaya đọc văn học Sangam, được cho là mô tả món này ở Tamilakam khoảng thế kỷ 1 CN) dựa trên một nguồn thứ cấp; hãy xác minh với học thuật sơ cấp trước khi trích dẫn bất kỳ niên đại nào."

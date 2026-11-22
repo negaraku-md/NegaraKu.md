@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "تأكّد من الطول النهائي للخط — تتراوح المصادر بين نحو 29.5 كم (المذكور على نطاق واسع) و29.67 كم (قياس الجسر العلوي لدى MRT Corp)؛ استخدم أحدث رقم رسمي."
   - "تأكّد من العدد الدقيق للمحطات — تذكر التقارير نحو 21، بينما تُدرِج مواد المشروع لدى MRT Corp 20 محطة إضافةً إلى محطتين مؤقتتين (PSR-A وJalan Bagan Luar)؛ والرقم لا يزال قيد التثبيت."

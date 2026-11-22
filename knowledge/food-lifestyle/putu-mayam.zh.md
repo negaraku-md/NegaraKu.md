@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "有时与 putu mayam 一同供应的橙色糖，以及它的马来语称呼 'gula hangus'，无法在可靠来源中证实；多数来源只描述椰丝配红糖或棕榈糖（gula melaka）。在陈述该词之前，请先确认它及其用法。"
   - "关于 idiyappam 古老渊源的说法（归于 K. T. Achaya 对桑伽姆文献的解读，据称描述了约公元1世纪泰米拉卡姆地区的这道菜）仅凭二手来源；在引用任何年代之前，须对照一手学术研究核实。"

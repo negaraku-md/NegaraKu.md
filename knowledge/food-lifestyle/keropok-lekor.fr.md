@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Quel poisson est la norme ou le plus prisé pour le keropok lekor, et à quel point l'ikan parang est utilisé par rapport à l'ikan tamban, au selayang ou au kerisi : les sources nomment des poissons différents et ne s'accordent pas sur celui qui donne le meilleur résultat. Vérifier auprès d'une source culinaire ou halieutique de Terengganu avant d'avancer une norme unique."
   - "Le sens et l'origine du mot lekor : les récits le glosent diversement comme renvoyant au roulage/à l'enroulement de la pâte, à sa circonférence, ou à la forme allongée des bâtonnets. Vérifier l'étymologie auprès d'une source en langue malaise de Terengganu."

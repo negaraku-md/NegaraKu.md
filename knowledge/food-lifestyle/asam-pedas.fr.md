@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "L'origine de l'asam pedas fait débat entre les sources — les pages culturelles malaisiennes l'associent à Melaka, tandis que d'autres sources le font remonter aux Minangkabau de Sumatra occidental. Traitez-le comme un plat malais-Minangkabau partagé à l'origine unique incertaine ; vérifiez auprès d'une source universitaire d'histoire culinaire avant d'avancer une quelconque affirmation ferme."
   - "Le poisson le plus utilisé dans l'asam pedas malaisien (ikan pari/raie, ikan kembung/maquereau, siakap/barramundi) provient de la pratique malaisienne générale ; la liste d'ingrédients de la Wikipédia anglophone nomme le maquereau, le vivaneau et d'autres, mais pas la raie ni le siakap par leur nom. Vérifiez la liste canonique des poissons auprès d'une source culinaire malaisienne."

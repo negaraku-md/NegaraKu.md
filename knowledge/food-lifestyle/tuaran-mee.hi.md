@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tuaran mee की आविष्कार तिथि और आरंभिक कालक्रम असंगत रूप से दर्ज हैं — एक विवरण एक पारिवारिक नूडल-आपूर्ति व्यवसाय को 1968 में रखता है, दूसरा इस व्यंजन को 1970 के दशक तक ले जाता है, और तीसरा कहता है कि Sabah में तली हुई नूडल्स को हक्का में केवल 'chao men' कहा जाता था, 1980 के दशक के मध्य तक। कोई निश्चित आविष्कार तिथि अच्छी तरह समर्थित नहीं है; बताने से पहले पुष्टि करें।"
   - "Kota Kinabalu से सटीक दूरी स्रोतों में भिन्न है (Wikipedia कस्बे को 34 किमी उत्तर बताता है; यात्रा लेख 30 किमी, लगभग 45 मिनट की ड्राइव, या 50 किमी की ड्राइव कहते हैं)। किसी भी एकल आँकड़े को अनुमानित मानें।"

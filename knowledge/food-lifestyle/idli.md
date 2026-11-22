@@ -35,14 +35,16 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "The origin history of idli is genuinely contested: theories variously trace it to steamed rice preparations from the Indonesian archipelago, to steamed cakes brought by Saurashtra weavers to Tamil Nadu around the 10th century, and to the Arab world. No single account is settled — do not assert a firm origin without a dedicated food-history source."
   - "The migration history — that idli reached Malaya specifically with South Indian (largely Tamil) migrants during the British colonial era — is reasonable and parallels thosai, but the precise period and route are not firmly documented for idli; confirm against a dedicated food-history or migration source."

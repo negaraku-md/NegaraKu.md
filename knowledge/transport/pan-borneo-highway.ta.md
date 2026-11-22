@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "மொத்த மற்றும் மாநில-வாரி நீளங்களை உறுதிப்படுத்தவும் - ஆதாரங்கள் Sarawak பகுதியை சுமார் 1,060 km, 1,077 km அல்லது 1,090 km என்றும், Sabah Phase 1-ஐ சுமார் 706 km என்றும், முழு நெடுஞ்சாலையை சுமார் 1,663 km அல்லது 2,000 km-க்கும் மேல் என்றும் பல்வேறாகக் கூறுகின்றன; சமீபத்திய JKR அல்லது Ministry of Works எண்களைச் சரிபார்க்கவும்."
   - "மாநிலம் மற்றும் கட்டம் வாரியான செலவு எண்களை உறுதிப்படுத்தவும் - Sarawak பகுதி சுமார் RM16 billion என அறிவிக்கப்பட்டது, அதேசமயம் Sabah Phase 1, RM12.86 billion (ஆரம்ப மதிப்பீடு), சுமார் RM17.91 முதல் RM18.96 billion (Auditor-General) மற்றும் RM24.89 billion (Ministry of Works, ஜூலை 2026) என மேற்கோள் காட்டப்பட்டுள்ளது; இவை வெவ்வேறு நோக்கம், தேதி மற்றும் ஒப்பந்த மாதிரிகளைப் பிரதிபலிக்கின்றன, நேரடியாக ஒப்பிடத்தக்கவை அல்ல."

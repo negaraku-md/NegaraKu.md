@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sama ada 'apom' khususnya nama Malaysia / Tamil-Malaysia yang mantap untuk appam India (berbanding apom balik) — penamaan ini digunakan secara meluas dalam penulisan makanan tetapi bersandar pada sumber sekunder dan ulasan; sahkan dengan pihak berkuasa masakan atau warisan tempatan."
   - "Butiran konkrit appam India Malaysia — tepi renda yang rangup dengan tengah yang lembut, appam telur, versi santan yang lebih manis, dan hiasan seperti kacang tanah, coconut sambol, telur dan lada hitam — diambil daripada satu ulasan gerai Malay Mail yang tidak dapat dimuat semula secara langsung (HTTP 403); sahkan terhadap artikel asal atau sumber Malaysia lain, dan jangan nyatakan sebarang harga tanpa mengesahkannya semula."

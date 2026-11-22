@@ -40,16 +40,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirm the total project cost - estimates range from about RM31 billion for construction to roughly RM39.4 billion including land, with headline figures quoted as high as around RM50.2 billion; the 2023 Budget set a target to keep spending below RM45 billion. No single official all-in figure is settled; check the latest MRT Corp or Ministry of Finance statement."
   - "Confirm the construction start and opening dates - more recent references give work from 2027 and opening around 2032, while earlier plans had a phased opening from 2028 and full completion by 2030; verify with MRT Corp."

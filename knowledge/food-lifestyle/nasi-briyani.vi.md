@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "Việc quy beriani gam riêng cho các huyện Muar và Batu Pahat của Johor, và cách gọi tên 'gam'/'dam', chủ yếu dựa trên hồ sơ di sản của JKKN; hãy xác minh xem phong cách và thuật ngữ này chỉ riêng của Johor hay được chia sẻ rộng hơn."
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

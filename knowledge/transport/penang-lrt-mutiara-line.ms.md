@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sahkan panjang landasan akhir - sumber berjulat daripada kira-kira 29.5 km (lazim dilaporkan) kepada 29.67 km (ukuran jejambat MRT Corp); gunakan angka rasmi terkini."
   - "Sahkan bilangan stesen yang tepat - laporan memetik sekitar 21, manakala bahan projek MRT Corp menyenaraikan 20 stesen tambah dua stesen tentatif (PSR-A dan Jalan Bagan Luar); angka ini masih sedang dimuktamadkan."

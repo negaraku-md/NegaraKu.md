@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "குறிப்பிட்ட பிராந்தியத் தொடர்பு (பகாங், திரெங்கானு மற்றும் கிளந்தான் போன்ற கிழக்குக் கடற்கரை மாநிலங்கள், மற்றும் ஒரு kampung தோற்றம்) குறைந்த அதிகாரமுள்ள உணவு தளங்களால் பரிந்துரைக்கப்படுகிறது, ஆனால் முதன்மையான அல்லது அதிகாரபூர்வமான மலேசிய சமையல் ஆதாரத்தால் உறுதிப்படுத்தப்படவில்லை; ஒரு உறுதியான பிராந்திய தோற்றத்தைக் கூறுவதற்கு முன் சரிபார்க்கவும்."
   - "துல்லியமான துரியன்-பருவ நேரம் (அடிக்கடி சுமார் ஆண்டின் நடுப்பகுதி எனக் குறிப்பிடப்படுகிறது) பகுதிக்கும் ஆண்டுக்கும் மாறுபடுகிறது; இங்கே குறிப்பிட்ட மாதங்களை நிர்ணயிப்பதற்குப் பதிலாக, துரியன்-கலாச்சார வழிகாட்டி அல்லது ஒரு விவசாய ஆதாரத்துடன் உறுதிப்படுத்தவும்."

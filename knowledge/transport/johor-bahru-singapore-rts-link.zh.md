@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "确认 RTS Operations Pte Ltd（RTSO）的股权划分——运营方是 Prasarana-SMRT 合资企业，但确切的股权比例（通常报道为约 60:40，Prasarana:SMRT）尚未对照官方来源核实；请对照合资协议或公司备案核实。"
   - "确认项目总造价与成本分摊比例——报道援引新加坡:马来西亚的基础设施成本分摊约为 61:39，总额约 S$3.2 billion，另有 2019 年马来西亚份额削减 36%、从 RM4.93 billion 降至 RM3.16 billion；请将这些与最新官方数字相对照。"

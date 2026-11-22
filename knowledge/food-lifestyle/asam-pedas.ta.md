@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Asam pedas-வின் தோற்றம் ஆதாரங்களுக்கிடையே சர்ச்சைக்குரியது — மலேசியக் கலாச்சாரப் பக்கங்கள் அதை Melaka-வுடன் தொடர்புபடுத்துகின்றன, அதேசமயம் பிற ஆதாரங்கள் அதை மேற்கு சுமத்ராவின் Minangkabau-வுக்குக் கண்டறிகின்றன. அதை ஒற்றைத் தோற்றம் தெளிவில்லாத, பகிரப்பட்ட மலாய்-Minangkabau உணவாகக் கருதவும்; உறுதியான எந்தக் கூற்றையும் தெரிவிப்பதற்கு முன் கல்வித்துறை சமையல்-வரலாற்று ஆதாரத்துடன் சரிபார்க்கவும்."
   - "மலேசிய asam pedas-வில் மிகப் பொதுவாகப் பயன்படும் குறிப்பிட்ட மீன் (ikan pari/திருக்கை, ikan kembung/அயிலை, siakap/barramundi) பொது மலேசிய நடைமுறையிலிருந்து எடுக்கப்பட்டது; ஆங்கில விக்கிபீடியாவின் பொருட்கள் பட்டியல் அயிலை, snapper போன்றவற்றைப் பெயரிடுகிறது, ஆனால் ikan pari அல்லது siakap-ஐப் பெயரால் குறிப்பிடவில்லை. நியமமான மீன் பட்டியலை மலேசிய சமையல் ஆதாரத்துடன் சரிபார்க்கவும்."

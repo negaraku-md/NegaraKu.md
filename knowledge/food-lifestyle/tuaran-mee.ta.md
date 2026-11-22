@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tuaran mee-வின் கண்டுபிடிப்புத் தேதியும் ஆரம்பக் காலவரிசையும் முரண்பாடாகப் பதிவுசெய்யப்பட்டுள்ளன — ஒரு கணக்கு ஒரு குடும்ப நூடுல்-வழங்கல் வணிகத்தை 1968-ல் வைக்கிறது, மற்றொன்று இந்த உணவை 1970-களுக்குக் கொண்டுசெல்கிறது, மூன்றாவது Sabah-வில் வறுத்த நூடுல்ஸ் 1980-களின் நடுப்பகுதி வரை Hakka-வில் வெறுமனே 'chao men' என்று அழைக்கப்பட்டது என்கிறது. எந்த உறுதியான கண்டுபிடிப்புத் தேதியும் நன்கு ஆதரிக்கப்படவில்லை; ஒன்றைக் கூறுவதற்கு முன் உறுதிப்படுத்தவும்."
   - "Kota Kinabalu-விலிருந்து துல்லியமான தூரம் ஆதாரங்களுக்கிடையே மாறுபடுகிறது (Wikipedia நகரத்தை வடக்கே 34 கி.மீ என்கிறது; பயணக் கட்டுரைகள் 30 கி.மீ, சுமார் 45 நிமிட ஓட்டம், அல்லது 50 கி.மீ ஓட்டம் என்கின்றன). எந்த ஒற்றை எண்ணையும் தோராயமாகக் கருதவும்."

@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Senarai semasa negara yang warganegaranya boleh menggunakan autogate (63 negara seperti disahkan pada Disember 2024) dan sama ada ia telah berubah sejak itu — sahkan dengan Jabatan Imigresen Malaysia."
   - "Sama ada pengembara asing kali pertama masih perlu mendaftar di kaunter manual sebelum menggunakan autogate — laporan tidak konsisten, dengan sesetengah pengembara mengatakan pendaftaran ketibaan tidak lagi diperlukan; sahkan prosedur semasa dengan Imigresen."

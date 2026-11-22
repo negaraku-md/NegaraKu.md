@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Nguồn gốc của asam pedas còn tranh cãi giữa các nguồn — các trang văn hóa Malaysia gắn nó với Melaka, trong khi các nguồn khác truy nguyên nó về người Minangkabau ở Tây Sumatra. Hãy xem nó như một món ăn Mã Lai-Minangkabau chung với nguồn gốc đơn lẻ không rõ ràng; xác minh với một nguồn lịch sử ẩm thực học thuật trước khi nêu bất kỳ khẳng định chắc chắn nào."
   - "Loại cá thường dùng nhất trong asam pedas của Malaysia (ikan pari/cá đuối, ikan kembung/cá bạc má, siakap/cá chẽm) lấy từ thực hành phổ biến ở Malaysia; danh sách nguyên liệu trên Wikipedia tiếng Anh nêu cá bạc má, cá hồng và các loại khác nhưng không nêu đích danh ikan pari hay siakap. Hãy xác minh danh sách cá chuẩn với một nguồn ẩm thực Malaysia."

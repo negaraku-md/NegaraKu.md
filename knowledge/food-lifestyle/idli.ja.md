@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "idli の起源史は実際に論争がある。諸説は、インドネシア諸島の蒸し米料理、10世紀頃にサウラーシュトラの機織り職人がタミル・ナードゥにもたらした蒸しケーキ、そしてアラブ世界へとさまざまに遡らせる。定まった単一の説はない——専門の食物史資料なしに確たる起源を断言しないこと。"
   - "移住史——idli が英国植民地時代に南インド（主にタミル）移民とともに特にマラヤへ到来したというもの——は妥当で thosai と並行するが、idli についての正確な時期と経路は確かには記録されていない。専門の食物史または移住史資料と照合して確認すること。"

@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "அரச-தோற்றப் புராணக்கதை — Johor-ன் Sultan Abu Bakar 19-ஆம் நூற்றாண்டின் பிற்பகுதியில் (சுமார் 1885) ஐரோப்பா/இத்தாலிக்குப் பயணம் செய்த பிறகு laksa-வுக்கு spaghetti-யை ஏற்றுக்கொண்டார் என்பது — உணவு ஊடகங்களில் பரவலாக மீண்டும் சொல்லப்படுகிறது, ஆனால் உறுதியாக ஆவணப்படுத்தப்படவில்லை; அதை உண்மையாகக் கூறுவதற்கு முன் ஒரு முதன்மை வரலாற்று அல்லது அரண்மனை ஆதாரத்துடன் உறுதிப்படுத்தவும், மேலும் சுல்தானின் ஆட்சிக் காலங்களை சரிபார்க்கவும் (ஆதாரங்கள் 1862–1895 மற்றும் 1886–1895 ஆகிய இரண்டையும் தருகின்றன)."
   - "laksa Johor தேசிய தொட்டுணரமுடியாத பாரம்பரியமாக அங்கீகரிக்கப்பட்ட ஆண்டு — ஆதாரங்கள் 2009, 2013 மற்றும் 2023 என்று பலவாறு குறிப்பிடுகின்றன; சரியான வர்த்தமானி ஆண்டு மற்றும் அமைப்பை Jabatan Warisan Negara / JKKN உடன் உறுதிப்படுத்தவும்."

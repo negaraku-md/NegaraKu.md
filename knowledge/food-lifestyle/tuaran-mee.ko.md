@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tuaran mee의 발명 시기와 초기 연표는 일관되지 않게 전해진다 — 한 설명은 가족이 운영한 제면 공급 사업을 1968년으로 보고, 다른 설명은 이 요리를 1970년대로 거슬러 올리며, 세 번째는 Sabah의 볶음면이 1980년대 중반까지 하카어로 그저 'chao men'이라 불렸다고 한다. 확실한 발명 시기를 뒷받침하는 근거는 빈약하다. 언급하기 전에 확인할 것."
   - "Kota Kinabalu에서의 정확한 거리는 자료마다 다르다(Wikipedia는 이 마을을 북쪽 34km로, 여행 기사는 30km, 차로 약 45분, 또는 50km 거리로 적는다). 어떤 단일 수치도 대략의 값으로 볼 것."

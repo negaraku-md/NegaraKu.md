@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "น้ำตาลสีส้มที่บางครั้งเสิร์ฟกับ putu mayam และคำภาษามลายู 'gula hangus' สำหรับมัน ไม่สามารถยืนยันได้ในแหล่งข้อมูลที่น่าเชื่อถือ แหล่งข้อมูลส่วนใหญ่อธิบายเพียงมะพร้าวขูดกับน้ำตาลทรายแดงหรือน้ำตาลโตนด (gula melaka) ควรยืนยันคำนี้และการใช้งานก่อนระบุ"
   - "ข้ออ้างเรื่องความเก่าแก่ของ idiyappam (ยกให้การตีความวรรณกรรมสังคัมของ K. T. Achaya ซึ่งว่ากันว่าอธิบายอาหารนี้ในทมิฬากัมราวคริสต์ศตวรรษที่ 1) อาศัยแหล่งข้อมูลทุติยภูมิ ควรตรวจสอบกับงานวิชาการชั้นปฐมภูมิก่อนอ้างอิงวันที่ใด ๆ"

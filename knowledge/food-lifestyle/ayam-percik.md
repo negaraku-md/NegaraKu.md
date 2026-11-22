@@ -35,9 +35,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "The common framing of ayam percik as a Kelantan white-and-creamy style versus a Terengganu redder style is not clearly supported: reputable sources describe the white (putih) and red (merah) sauce variants chiefly within a Kelantan context, and the specific Terengganu attribution rests on a single, less-established source. Confirm the exact state-by-state style mapping against a primary East Coast culinary source before stating it."
@@ -46,10 +48,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Aromatic, rustic ayam percik"

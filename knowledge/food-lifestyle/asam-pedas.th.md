@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ต้นกำเนิดของ asam pedas เป็นที่ถกเถียงกันในหลายแหล่ง — หน้าเว็บวัฒนธรรมของมาเลเซียเชื่อมโยงมันกับ Melaka ขณะที่แหล่งอื่นสืบย้อนไปถึง Minangkabau แห่งสุมาตราตะวันตก ควรถือว่ามันเป็นอาหารมลายู-Minangkabau ที่ใช้ร่วมกันซึ่งต้นกำเนิดเดี่ยวไม่ชัดเจน และตรวจสอบกับแหล่งประวัติศาสตร์การทำอาหารเชิงวิชาการก่อนระบุข้ออ้างที่แน่นอนใด ๆ"
   - "ปลาที่ใช้มากที่สุดใน asam pedas ของมาเลเซีย (ikan pari/ปลากระเบน, ikan kembung/ปลาทู, siakap/ปลากะพง) มาจากแนวปฏิบัติทั่วไปของมาเลเซีย; รายการส่วนผสมในวิกิพีเดียภาษาอังกฤษระบุปลาทู ปลากะพงแดง และอื่น ๆ แต่ไม่ได้ระบุชื่อ ikan pari หรือ siakap ควรตรวจสอบรายการปลามาตรฐานกับแหล่งข้อมูลการทำอาหารของมาเลเซีย"

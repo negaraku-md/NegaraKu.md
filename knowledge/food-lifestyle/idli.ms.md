@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sejarah asal usul idli benar-benar diperdebatkan: pelbagai teori menjejakinya kepada olahan beras kukus dari kepulauan Indonesia, kepada kek kukus yang dibawa oleh penenun Saurashtra ke Tamil Nadu sekitar abad ke-10, dan kepada dunia Arab. Tiada satu pun catatan yang muktamad — jangan menegaskan asal usul yang pasti tanpa sumber sejarah makanan yang khusus."
   - "Sejarah migrasi — bahawa idli tiba di Tanah Melayu secara khusus bersama pendatang India Selatan (kebanyakannya Tamil) semasa era kolonial British — adalah munasabah dan selari dengan thosai, tetapi tempoh dan laluan tepatnya tidak didokumentasikan dengan kukuh untuk idli; sahkan terhadap sumber sejarah makanan atau migrasi yang khusus."

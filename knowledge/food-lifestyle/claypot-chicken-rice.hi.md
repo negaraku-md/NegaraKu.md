@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "क्या claypot chicken rice का कोई स्पष्ट रूप से मलेशियाई संस्करण किसी पहचानी जा सकने वाली तिथि पर उभरा। स्रोत इस व्यंजन को ग्वांगडोंग और हांगकांग के कैंटोनी खानपान (bo zai fan) तक ले जाते हैं, पर कोई मलेशिया-विशिष्ट उत्पत्ति तिथि दर्ज नहीं करते; मलेशियाई व्यंजन को एक स्वतंत्र उत्पत्ति के बजाय एक अनुकूलन के रूप में बताना सबसे उचित है।"
   - "तली की कुरकुरी पपड़ी का कैंटोनी नाम (आमतौर पर रोमन में 'fan jiu', 飯焦)। बोली के रोमन लिप्यंतरण भिन्न होते हैं और यह शब्द सामान्य रूप से झुलसे चावल पर भी लागू होता है; इसे मानक के रूप में प्रस्तुत करने से पहले किसी पाक-भाषा स्रोत से वर्तनी और प्रयोग की पुष्टि करें।"

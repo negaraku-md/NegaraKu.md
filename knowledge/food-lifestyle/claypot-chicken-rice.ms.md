@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sama ada versi claypot chicken rice yang khusus Malaysia muncul pada suatu masa yang dapat dikenal pasti. Sumber menjejaki hidangan ini kepada masakan Kantonis di Guangdong dan Hong Kong (bo zai fan) tetapi tidak mendokumentasikan sebarang tarikh asal usul khusus Malaysia; hidangan Malaysia ini paling tepat digambarkan sebagai adaptasi, bukan asal usul tersendiri."
   - "Nama Kantonis untuk kerak rangup di dasar (lazimnya diromikan 'fan jiu', 飯焦). Romanisasi dialek berbeza-beza dan istilah ini juga digunakan untuk nasi hangus secara umum; sahkan ejaan dan penggunaannya terhadap sumber bahasa masakan sebelum mengemukakannya sebagai standard."

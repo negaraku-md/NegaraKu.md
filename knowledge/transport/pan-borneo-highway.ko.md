@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "합계 및 주별 길이를 확인할 것 — 출처는 Sarawak 구간을 약 1,060 km, 1,077 km 또는 1,090 km로, Sabah Phase 1을 약 706 km로, 고속도로 전체를 약 1,663 km 또는 2,000 km 이상으로 제각각 제시함; 최신 JKR나 Ministry of Works 수치를 확인할 것."
   - "주 및 단계별 비용 수치를 확인할 것 — Sarawak 구간은 약 RM16 billion으로 보고되었고, Sabah Phase 1은 RM12.86 billion(초기 추정), 약 RM17.91~RM18.96 billion(Auditor-General), RM24.89 billion(Ministry of Works, 2026년 7월)으로 인용됨; 이들은 서로 다른 범위, 날짜, 계약 모델을 반영하며 직접 비교할 수 없음."

@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "تاريخ نشأة idli متنازَع عليه فعلاً: فثمّة نظريات تردّها تنوّعاً إلى أطعمة أرز مطهوّة بالبخار من الأرخبيل الإندونيسي، وإلى كعكات بخارية جلبها نسّاجو ساوراشترا إلى تاميل نادو نحو القرن العاشر، وإلى العالم العربي. ولا رواية واحدة محسومة — فلا تجزم بأصل مؤكّد من دون مصدر مختصّ في تاريخ الطعام."
   - "تاريخ الهجرة — أنّ idli وصلت إلى مالايا تحديداً مع المهاجرين الهنود الجنوبيين (التاميل في معظمهم) في الحقبة الاستعمارية البريطانية — معقول ويوازي thosai، لكنّ الفترة والمسار الدقيقين لـ idli ليسا موثّقين بإحكام؛ تحقّق من مصدر مختصّ في تاريخ الطعام أو الهجرة."

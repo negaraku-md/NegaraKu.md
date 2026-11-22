@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "ayam percik को Kelantan की सफ़ेद और मलाईदार शैली बनाम Terengganu की अधिक लाल शैली के रूप में ढाँचा देने का सामान्य खाका स्पष्ट रूप से समर्थित नहीं है: प्रतिष्ठित स्रोत सफ़ेद (putih) और लाल (merah) सॉस भिन्नताओं का वर्णन मुख्यतः Kelantan के संदर्भ में करते हैं, और Terengganu को विशिष्ट रूप से जोड़ना एक कम स्थापित स्रोत पर टिका है। किसी राज्य-दर-राज्य शैली मानचित्रण को कहने से पहले किसी प्राथमिक पूर्वी तट पाक स्रोत से सत्यापित करें।"
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "सुगंधित, सादा ayam percik (Aromatic, rustic ayam percik)"

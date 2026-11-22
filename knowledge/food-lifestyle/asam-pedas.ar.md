@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "أصل asam pedas متنازَع عليه بين المصادر — تربطه الصفحات الثقافية الماليزية بـ Melaka، بينما تَرُدّه مصادر أخرى إلى Minangkabau في سومطرة الغربية. عامِله بوصفه طبقاً ملايوياً-Minangkabau مشتركاً غير واضح الأصل الواحد؛ وتحقّق من مصدر أكاديمي في تاريخ الطهي قبل ذكر أي ادّعاء جازم."
   - "السمك الأكثر استعمالاً في asam pedas الماليزي (ikan pari/الراي اللاسع، ikan kembung/الماكريل، siakap/البراموندي) مأخوذ من الممارسة الماليزية العامّة؛ وقائمة المكوّنات في ويكيبيديا الإنجليزية تذكر الماكريل والسنابر وغيرهما لكنها لا تسمّي ikan pari أو siakap بالاسم. تحقّق من قائمة الأسماك المعتمدة مع مصدر طهوي ماليزي."

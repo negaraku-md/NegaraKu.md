@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "राजसी उत्पत्ति की किंवदंती — कि Johor के Sultan Abu Bakar ने 19वीं सदी के अंत (लगभग 1885) में यूरोप/इटली की यात्रा के बाद laksa के लिए spaghetti अपनाया — भोजन मीडिया में व्यापक रूप से दोहराई जाती है पर मज़बूती से प्रलेखित नहीं है; इसे तथ्य के रूप में बताने से पहले किसी प्राथमिक ऐतिहासिक या दरबारी स्रोत से पुष्टि करें, और सुलतान के शासनकाल के वर्ष सत्यापित करें (स्रोत 1862–1895 और 1886–1895 दोनों देते हैं)।"
   - "वह वर्ष जब laksa Johor को राष्ट्रीय अमूर्त धरोहर के रूप में मान्यता मिली — स्रोत अलग-अलग 2009, 2013 और 2023 उद्धृत करते हैं; सही राजपत्र-प्रकाशन वर्ष और निकाय की पुष्टि Jabatan Warisan Negara / JKKN से करें।"

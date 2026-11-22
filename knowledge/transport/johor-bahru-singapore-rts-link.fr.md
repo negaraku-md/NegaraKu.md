@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirmer la répartition de l'actionnariat de RTS Operations Pte Ltd (RTSO) - l'exploitant est une coentreprise Prasarana-SMRT, mais la répartition exacte du capital (couramment annoncée autour de 60:40 Prasarana:SMRT) n'a pas été confirmée face à une source officielle ; vérifier face à l'accord de coentreprise ou aux documents de la société."
   - "Confirmer le coût total du projet et la répartition des coûts - la presse évoque une répartition du coût d'infrastructure Singapour:Malaisie d'environ 61:39 et un total de l'ordre de S$3.2 billion, ainsi qu'une réduction de la part de la Malaisie en 2019 de 36 %, de RM4.93 billion à RM3.16 billion ; recouper ces chiffres avec les données officielles les plus récentes."

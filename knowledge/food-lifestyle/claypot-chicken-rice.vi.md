@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Liệu một phiên bản mang đậm tính Malaysia của claypot chicken rice có xuất hiện vào một thời điểm xác định được hay không. Các nguồn truy nguyên món này về lối nấu Quảng Đông ở Quảng Đông và Hồng Kông (bo zai fan) nhưng không ghi lại niên đại nguồn gốc riêng của Malaysia; món Malaysia được mô tả đúng nhất là một sự phỏng theo, không phải một nguồn gốc độc lập."
   - "Tên Quảng Đông của lớp cơm cháy dưới đáy (thường phiên âm La-tinh 'fan jiu', 飯焦). Cách phiên âm La-tinh theo phương ngữ khác nhau và từ này cũng dùng cho cơm cháy nói chung; hãy xác nhận cách viết và cách dùng với một nguồn ngôn ngữ ẩm thực trước khi trình bày nó như chuẩn mực."

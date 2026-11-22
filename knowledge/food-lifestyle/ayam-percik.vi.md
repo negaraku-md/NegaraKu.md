@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "Khung thường gặp đặt ayam percik là phong cách trắng và béo của Kelantan đối lập với phong cách đỏ hơn của Terengganu không được ủng hộ rõ ràng: các nguồn uy tín mô tả các biến thể sốt trắng (putih) và đỏ (merah) chủ yếu trong bối cảnh Kelantan, còn việc quy riêng cho Terengganu dựa vào một nguồn ít vững chắc hơn. Hãy xác minh bản đồ phong cách theo bang chính xác với một nguồn ẩm thực Bờ Đông sơ cấp trước khi nêu."
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Ayam percik thơm nồng, mộc mạc (Aromatic, rustic ayam percik)"

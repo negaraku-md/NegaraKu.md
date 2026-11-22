@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirmar el coste total del proyecto: las estimaciones van desde unos 31.000 millones de ringgit para la construcción hasta unos 39.400 millones incluyendo terrenos, con cifras de titular citadas tan altas como unos 50.200 millones; el Presupuesto de 2023 fijó el objetivo de mantener el gasto por debajo de 45.000 millones. No hay una única cifra total oficial asentada; comprueba el comunicado más reciente de MRT Corp o del Ministerio de Finanzas."
   - "Confirmar las fechas de inicio de la construcción y de apertura: las referencias más recientes dan obras desde 2027 y apertura hacia 2032, mientras que los planes anteriores tenían una apertura por fases desde 2028 y la finalización completa para 2030; verifica con MRT Corp."

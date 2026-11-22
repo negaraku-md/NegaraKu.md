@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "哪种鱼才是做 keropok lekor 的标准或最受青睐的鱼，以及 ikan parang 相较于 ikan tamban、selayang 或 kerisi 的使用有多普遍：各家资料提到不同的鱼，并对哪种效果最好意见不一。在陈述任何单一标准之前，须对照 Terengganu 的饮食或渔业资料核实。"
   - "lekor 一词的含义与由来：各种说法分别将其解释为指面团的卷/搓卷、其周长，或长条的形状。须对照 Terengganu 马来语资料核实其词源。"

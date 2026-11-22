@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "keropok lekor के लिए कौन-सी मछली मानक या सबसे पसंदीदा है, और ikan tamban, selayang या kerisi की तुलना में ikan parang कितनी आम तौर पर इस्तेमाल होती है: स्रोत अलग-अलग मछलियों का नाम लेते हैं और इस पर असहमत हैं कि कौन-सी सबसे अच्छा परिणाम देती है। कोई भी एकल मानक बताने से पहले किसी Terengganu के पाक या मत्स्य स्रोत से पुष्टि करें।"
   - "lekor शब्द का अर्थ और उद्गम: विवरण इसे अलग-अलग तरह से आटे के बेलन/बेलने, इसकी परिधि, या छड़ों के लंबे आकार को संदर्भित करने वाला बताते हैं। इसकी व्युत्पत्ति किसी Terengganu मलय भाषा स्रोत से सत्यापित करें।"

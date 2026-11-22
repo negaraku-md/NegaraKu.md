@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Xác nhận tổng chi phí dự án - các ước tính dao động từ khoảng RM31 tỷ cho xây dựng đến khoảng RM39.4 tỷ bao gồm đất, với các con số giật tít được trích dẫn cao tới khoảng RM50.2 tỷ; Ngân sách 2023 đặt mục tiêu giữ chi tiêu dưới RM45 tỷ. Chưa có một con số toàn phần chính thức duy nhất nào được chốt; kiểm tra tuyên bố mới nhất của MRT Corp hoặc Bộ Tài chính."
   - "Xác nhận các mốc khởi công và khai trương - các tài liệu gần đây hơn cho khởi công từ 2027 và khai trương khoảng 2032, trong khi các kế hoạch trước có khai trương theo giai đoạn từ 2028 và hoàn thành toàn bộ vào 2030; xác nhận với MRT Corp."

@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Asal usul asam pedas dipertikaikan merentas sumber — laman budaya Malaysia mengaitkannya dengan Melaka, manakala sumber lain menjejakinya ke Minangkabau Sumatera Barat. Anggapnya sebagai hidangan Melayu-Minangkabau yang dikongsi dengan asal usul tunggal yang tidak jelas; sahkan terhadap sumber sejarah masakan akademik sebelum menyatakan sebarang dakwaan muktamad."
   - "Ikan yang paling lazim digunakan dalam asam pedas Malaysia (ikan pari, ikan kembung, siakap/barramundi) diambil daripada amalan umum Malaysia; senarai bahan Wikipedia Inggeris menamakan ikan kembung, snapper dan lain-lain tetapi bukan ikan pari atau siakap secara khusus. Sahkan senarai ikan kanonik terhadap sumber masakan Malaysia."

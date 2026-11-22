@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Konfirmasikan panjang final jalur - sumber berkisar dari sekitar 29.5 km (banyak dilaporkan) hingga 29.67 km (pengukuran viaduk MRT Corp); gunakan angka resmi terbaru."
   - "Konfirmasikan jumlah stasiun yang tepat - laporan menyebut sekitar 21, sementara materi proyek MRT Corp mencantumkan 20 stasiun ditambah dua stasiun sementara (PSR-A dan Jalan Bagan Luar); angkanya masih dalam pemantapan."

@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "ayam percik를 Kelantan의 희고 크리미한 방식 대 Terengganu의 더 붉은 방식으로 틀 짓는 일반적 구도는 분명히 뒷받침되지 않는다: 믿을 만한 자료들은 흰색(putih)과 붉은색(merah) 소스 변형을 주로 Kelantan 맥락에서 묘사하며, Terengganu로의 구체적 귀속은 확립도가 낮은 단일 자료에 기댄다. 정확한 주별 방식 대응을 밝히기 전에 일차 동해안 요리 자료와 대조해 확인할 것."
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "향기롭고 소박한 ayam percik(Aromatic, rustic ayam percik)"

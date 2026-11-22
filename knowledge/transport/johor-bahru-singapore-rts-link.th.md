@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ยืนยันการแบ่งสัดส่วนการถือหุ้นใน RTS Operations Pte Ltd (RTSO) - ผู้ดำเนินการเป็นกิจการร่วมค้า Prasarana-SMRT แต่สัดส่วนหุ้นที่แน่นอน (มักรายงานว่าราว 60:40 Prasarana:SMRT) ยังไม่ได้ยืนยันกับแหล่งข้อมูลทางการ ให้ยืนยันกับข้อตกลงกิจการร่วมค้าหรือเอกสารการจดทะเบียนบริษัท"
   - "ยืนยันต้นทุนโครงการรวมและการแบ่งสัดส่วนค่าใช้จ่าย - รายงานอ้างการแบ่งต้นทุนโครงสร้างพื้นฐานสิงคโปร์:มาเลเซียราว 61:39 และยอดรวมในระดับ S$3.2 billion ควบคู่กับการลดสัดส่วนของมาเลเซียในปี 2019 ลง 36% จาก RM4.93 billion เหลือ RM3.16 billion ให้ปรับให้ตรงกับตัวเลขทางการล่าสุด"

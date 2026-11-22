@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "L'association régionale précise (les États de la côte est comme Pahang, Terengganu et Kelantan, et une origine kampung) est suggérée par des sites culinaires de faible autorité mais n'est pas confirmée par une source culinaire malaisienne primaire ou faisant autorité ; vérifier avant d'affirmer une origine régionale définie."
   - "Le moment exact de la saison du durian (souvent cité comme se situant à peu près au milieu de l'année) varie selon la région et l'année ; confirmer auprès du guide de la culture du durian ou d'une source agricole plutôt que de fixer des mois précis ici."

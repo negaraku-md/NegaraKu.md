@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "确认线路的最终长度——各来源介于约 29.5 公里（广泛报道）至 29.67 公里（MRT Corp 的高架桥量测值）之间；请采用最新的官方数字。"
   - "确认确切的车站数目——报道引用约 21 个，而 MRT Corp 项目资料列出 20 个车站外加两个预留车站（PSR-A 与 Jalan Bagan Luar）；数目仍在敲定中。"

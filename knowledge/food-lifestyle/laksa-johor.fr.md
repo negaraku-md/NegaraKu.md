@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La légende d'origine royale — selon laquelle le Sultan Abu Bakar de Johor aurait adopté les spaghetti pour le laksa après un voyage en Europe/Italie à la fin du XIXe siècle (vers 1885) — est largement répétée dans les médias culinaires mais n'est pas solidement documentée ; vérifier auprès d'une source historique primaire ou de cour avant de l'énoncer comme un fait, et vérifier les dates de règne du sultan (les sources donnent à la fois 1862–1895 et 1886–1895)."
   - "L'année où le laksa Johor a été reconnu comme patrimoine immatériel national — les sources citent diversement 2009, 2013 et 2023 ; confirmer l'année de publication officielle et l'organisme corrects auprès de Jabatan Warisan Negara / JKKN."

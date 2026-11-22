@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Konfirmasikan panjang gabungan dan per negara bagian - sumber memberikan bagian Sarawak sekitar 1,060 km, 1,077 km atau 1,090 km, Sabah Phase 1 sekitar 706 km, dan keseluruhan jalan raya secara beragam sekitar 1,663 km atau lebih dari 2,000 km; periksa angka JKR atau Ministry of Works terbaru."
   - "Konfirmasikan angka biaya per negara bagian dan fase - bagian Sarawak dilaporkan sekitar RM16 billion, sementara Sabah Phase 1 dikutip pada RM12.86 billion (perkiraan awal), sekitar RM17.91 hingga RM18.96 billion (Auditor-General), dan RM24.89 billion (Ministry of Works, Juli 2026); angka-angka ini mencerminkan cakupan, tanggal dan model kontrak yang berbeda dan tidak dapat dibandingkan langsung."

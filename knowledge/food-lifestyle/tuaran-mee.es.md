@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La fecha de invención y la cronología temprana del Tuaran mee se registran de forma inconsistente — un relato data un negocio familiar de suministro de fideos en 1968, otro remonta el plato a la década de 1970, y un tercero dice que los fideos fritos en Sabah simplemente se llamaban 'chao men' en hakka hasta mediados de la década de 1980. Ninguna fecha de invención firme está bien respaldada; confirmar antes de afirmar alguna."
   - "La distancia exacta desde Kota Kinabalu varía entre las fuentes (Wikipedia sitúa el pueblo a 34 km al norte; los artículos de viajes dicen 30 km, unos 45 minutos en coche, o un trayecto de 50 km). Tratar cualquier cifra única como aproximada."

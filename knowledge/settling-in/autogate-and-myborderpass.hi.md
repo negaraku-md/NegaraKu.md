@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "वर्तमान में उन देशों की सूची जिनके नागरिक Autogate का उपयोग कर सकते हैं (दिसंबर 2024 में पुष्ट 63 देश) और क्या यह तब से बदली है — मलेशिया आप्रवासन विभाग से पुष्टि करें।"
   - "क्या पहली बार आने वाले विदेशी यात्रियों को Autogate का उपयोग करने से पहले अब भी मैनुअल काउंटर पर पंजीकरण करना पड़ता है — रिपोर्टें असंगत हैं, कुछ यात्री कहते हैं कि आगमन पर पंजीकरण अब आवश्यक नहीं; वर्तमान प्रक्रिया की आप्रवासन से पुष्टि करें।"

@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ยืนยันความยาวเส้นทางสุดท้าย - แหล่งข้อมูลอยู่ระหว่างประมาณ 29.5 กม. (รายงานกันแพร่หลาย) ถึง 29.67 กม. (การวัดแนวสะพานยกระดับของ MRT Corp) ใช้ตัวเลขทางการที่ใหม่ที่สุด"
   - "ยืนยันจำนวนสถานีที่แน่นอน - การรายงานอ้างถึงราว 21 แห่ง ขณะที่เอกสารโครงการของ MRT Corp ระบุ 20 สถานีบวกอีกสองสถานีสำรอง (PSR-A และ Jalan Bagan Luar) ตัวเลขยังอยู่ระหว่างการสรุป"

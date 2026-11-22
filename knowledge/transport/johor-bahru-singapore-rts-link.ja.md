@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "RTS Operations Pte Ltd（RTSO）の持株比率を確認すること——運営者はPrasaranaとSMRTの合弁だが、正確な出資比率（一般にPrasarana:SMRTで約60:40と報じられる）は公式情報源と照合して確認されていない。合弁契約書や企業の届出と照合すること。"
   - "総事業費と費用分担の比率を確認すること——報道はシンガポール:マレーシアのインフラ費用分担を約61:39、総額をS$3.2 billion程度とし、あわせて2019年にマレーシアの負担分がRM4.93 billionからRM3.16 billionへ36%減らされたとしている。これらを最新の公式数値と突き合わせること。"

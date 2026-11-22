@@ -40,16 +40,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirm the shareholding split in RTS Operations Pte Ltd (RTSO) - the operator is a Prasarana-SMRT joint venture, but the exact equity split (commonly reported as around 60:40 Prasarana:SMRT) was not confirmed against an official source; verify against the joint-venture agreement or company filings."
   - "Confirm the total project cost and the cost-sharing split - reporting cites a Singapore:Malaysia infrastructure cost split of about 61:39 and a total in the order of S$3.2 billion, alongside a 2019 reduction of Malaysia's share by 36% from RM4.93 billion to RM3.16 billion; reconcile these against the latest official figures."

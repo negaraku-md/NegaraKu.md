@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Autogateを利用できる国民の現行リスト（2024年12月に確認された63か国）およびその後変更があったかどうか——マレーシア入国管理局に照らして確認すること。"
   - "初回の外国人旅行者がAutogateを使う前になお有人カウンターで登録しなければならないかどうか——報道は一致しておらず、到着時登録はもはや不要だとする旅行者もいる；現行の手続きを入国管理局に確認すること。"

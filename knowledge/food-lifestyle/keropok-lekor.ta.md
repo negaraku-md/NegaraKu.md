@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "keropok lekor-க்கு எந்த மீன் தரநிலையானது அல்லது மிகவும் விரும்பப்படுவது, மற்றும் ikan tamban, selayang அல்லது kerisi-யுடன் ஒப்பிடுகையில் ikan parang எவ்வளவு பொதுவாகப் பயன்படுத்தப்படுகிறது: ஆதாரங்கள் வெவ்வேறு மீன்களைப் பெயரிடுகின்றன, எது சிறந்த முடிவைத் தருகிறது என்பதில் ஒத்துப்போகவில்லை. எந்த ஒரு தரநிலையையும் கூறுவதற்கு முன் ஒரு Terengganu சமையல் அல்லது மீன்வளம் ஆதாரத்துடன் உறுதிப்படுத்தவும்."
   - "lekor என்ற சொல்லின் பொருள் மற்றும் தோற்றம்: பல்வேறு விளக்கங்கள் அதை மாவின் உருளை/உருட்டலைக் குறிப்பதாகவோ, அதன் சுற்றளவைக் குறிப்பதாகவோ, அல்லது குச்சிகளின் நீளமான வடிவத்தைக் குறிப்பதாகவோ விளக்குகின்றன. ஒரு Terengganu மலாய் மொழி ஆதாரத்துடன் சொற்பிறப்பியலை உறுதிப்படுத்தவும்."

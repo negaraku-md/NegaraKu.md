@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirmar el reparto accionarial en RTS Operations Pte Ltd (RTSO): el operador es una empresa conjunta Prasarana-SMRT, pero el reparto exacto del capital (comúnmente informado en torno a 60:40 Prasarana:SMRT) no se confirmó frente a una fuente oficial; verificarlo frente al acuerdo de empresa conjunta o los registros societarios."
   - "Confirmar el coste total del proyecto y el reparto de costes: lo informado cita un reparto del coste de infraestructura Singapur:Malasia de alrededor de 61:39 y un total del orden de S$3.2 billion, junto con una reducción de la parte de Malasia en 2019 del 36%, de RM4.93 billion a RM3.16 billion; conciliar estas cifras con los datos oficiales más recientes."

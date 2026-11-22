@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "El marco habitual que presenta el ayam percik como un estilo blanco y cremoso de Kelantan frente a un estilo más rojo de Terengganu no está claramente respaldado: las fuentes fiables describen las variantes de salsa blanca (putih) y roja (merah) sobre todo en un contexto de Kelantan, y la atribución específica a Terengganu descansa en una sola fuente menos consolidada. Verificar el mapa exacto de estilos por estado con una fuente culinaria primaria de la Costa Este antes de afirmarlo."
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Ayam percik aromático y rústico (Aromatic, rustic ayam percik)"

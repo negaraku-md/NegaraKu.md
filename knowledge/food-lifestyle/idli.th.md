@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ประวัติต้นกำเนิดของ idli เป็นที่ถกเถียงกันจริง ๆ: หลายทฤษฎีสืบย้อนมันไปยังอาหารข้าวนึ่งจากหมู่เกาะอินโดนีเซีย ไปยังเค้กนึ่งที่ช่างทอผ้าชาวซอรัชตระนำมาสู่ทมิฬนาฑูราวศตวรรษที่ 10 และไปยังโลกอาหรับ ไม่มีคำอธิบายใดที่ลงตัว — อย่ายืนยันต้นกำเนิดที่แน่นอนโดยไม่มีแหล่งข้อมูลประวัติศาสตร์อาหารเฉพาะทาง"
   - "ประวัติการอพยพ — ที่ว่า idli มาถึงมลายาโดยเฉพาะพร้อมผู้อพยพอินเดียใต้ (ส่วนใหญ่เป็นทมิฬ) ในยุคอาณานิคมอังกฤษ — เป็นเรื่องสมเหตุสมผลและขนานกับ thosai แต่ช่วงเวลาและเส้นทางที่แน่นอนสำหรับ idli ยังไม่ได้รับการบันทึกอย่างหนักแน่น ควรตรวจสอบกับแหล่งข้อมูลประวัติศาสตร์อาหารหรือการอพยพเฉพาะทาง"

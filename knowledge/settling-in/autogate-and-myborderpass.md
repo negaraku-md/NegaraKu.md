@@ -38,16 +38,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "The current list of countries whose nationals may use the autogate (63 countries as confirmed in December 2024) and whether it has since changed — confirm against the Immigration Department of Malaysia."
   - "Whether first-time foreign travellers must still enrol at a manual counter before using the autogate — reporting is inconsistent, with some travellers saying arrival enrolment is no longer required; confirm the current procedure with Immigration."

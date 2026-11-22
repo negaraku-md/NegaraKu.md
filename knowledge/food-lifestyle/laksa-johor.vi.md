@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Truyền thuyết nguồn gốc hoàng gia — rằng Sultan Abu Bakar của Johor đã đưa spaghetti vào laksa sau một chuyến đi châu Âu/Ý vào cuối thế kỷ 19 (khoảng năm 1885) — được lặp lại rộng rãi trên truyền thông ẩm thực nhưng không được ghi chép chắc chắn; hãy xác minh với một nguồn lịch sử sơ cấp hoặc tư liệu cung đình trước khi nêu như sự thật, và kiểm chứng các năm trị vì của sultan (các nguồn đưa ra cả 1862–1895 lẫn 1886–1895)."
   - "Năm laksa Johor được công nhận là di sản phi vật thể quốc gia — các nguồn dẫn khác nhau là 2009, 2013 và 2023; hãy xác nhận năm công bố trên công báo và cơ quan đúng với Jabatan Warisan Negara / JKKN."

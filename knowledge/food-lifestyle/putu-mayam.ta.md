@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "சில நேரங்களில் putu mayam-உடன் பரிமாறப்படும் ஆரஞ்சு-நிற சர்க்கரை மற்றும் அதற்கான மலாய் சொல்லான 'gula hangus' ஒரு நம்பகமான ஆதாரத்தில் உறுதிப்படுத்த முடியவில்லை; பெரும்பாலான ஆதாரங்கள் துருவிய தேங்காயை பழுப்பு சர்க்கரை அல்லது பனை சர்க்கரையுடன் (gula melaka) மட்டுமே விவரிக்கின்றன. அந்தச் சொல்லையும் அதன் பயன்பாட்டையும் கூறுவதற்கு முன் உறுதிப்படுத்தவும்."
   - "idiyappam-ன் பழமை பற்றிய கூற்று (K. T. Achaya-வின் சங்க இலக்கிய வாசிப்புக்குக் காரணம் காட்டப்படுகிறது, இது கிபி 1-ஆம் நூற்றாண்டு வாக்கில் தமிழகத்தில் இந்த உணவை விவரிப்பதாகக் கூறப்படுகிறது) ஒரு இரண்டாம்நிலை ஆதாரத்தை அடிப்படையாகக் கொண்டது; எந்த தேதியையும் மேற்கோள் காட்டுவதற்கு முன் முதன்மை ஆய்வுடன் சரிபார்க்கவும்."

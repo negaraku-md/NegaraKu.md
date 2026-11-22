@@ -34,15 +34,17 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Which fish is standard or most favoured for keropok lekor, and how commonly ikan parang is used versus ikan tamban, selayang or kerisi: sources name different fish and disagree on which gives the best result. Confirm against a Terengganu culinary or fisheries source before stating any single standard."
   - "The meaning and origin of the word lekor: accounts variously gloss it as referring to the roll/rolling of the dough, to its circumference, or to the long shape of the sticks. Verify the etymology against a Terengganu Malay language source."

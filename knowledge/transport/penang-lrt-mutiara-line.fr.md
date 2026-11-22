@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirmer la longueur finale de la ligne — les sources vont d'environ 29,5 km (largement rapporté) à 29,67 km (mesure du viaduc par MRT Corp) ; utiliser le chiffre officiel le plus récent."
   - "Confirmer le nombre exact de gares — la presse cite environ 21, tandis que les documents de projet de MRT Corp recensent 20 gares plus deux provisoires (PSR-A et Jalan Bagan Luar) ; le chiffre se précise encore."

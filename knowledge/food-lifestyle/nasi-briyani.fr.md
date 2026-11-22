@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "L'attribution du beriani gam spécifiquement aux districts de Muar et Batu Pahat à Johor, ainsi que l'appellation « gam »/« dam », reposent surtout sur le registre patrimonial de la JKKN ; vérifiez si le style et le terme sont propres à Johor ou plus largement partagés."
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

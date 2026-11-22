@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Xác nhận tỷ lệ sở hữu cổ phần trong RTS Operations Pte Ltd (RTSO) - nhà vận hành là liên doanh Prasarana-SMRT, nhưng tỷ lệ góp vốn chính xác (thường được báo cáo khoảng 60:40 Prasarana:SMRT) chưa được xác nhận đối chiếu với nguồn chính thức; hãy xác nhận với thỏa thuận liên doanh hoặc hồ sơ công ty."
   - "Xác nhận tổng chi phí dự án và tỷ lệ chia sẻ chi phí - các bản tin nêu tỷ lệ chia sẻ chi phí hạ tầng Singapore:Malaysia khoảng 61:39 và tổng mức khoảng S$3.2 billion, cùng với việc giảm phần của Malaysia năm 2019 đi 36% từ RM4.93 billion xuống RM3.16 billion; hãy đối chiếu các con số này với số liệu chính thức mới nhất."

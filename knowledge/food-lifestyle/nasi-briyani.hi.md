@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "beriani gam को विशेष रूप से जोहोर के मुआर और बातू पाहत ज़िलों से जोड़ना, और 'gam'/'dam' नामकरण, मुख्यतः JKKN धरोहर अभिलेख पर टिका है; सत्यापित करें कि यह शैली और शब्द जोहोर के लिए अनन्य हैं या अधिक व्यापक रूप से साझा।"
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

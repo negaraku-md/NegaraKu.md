@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ว่าเวอร์ชันที่เป็นมาเลเซียอย่างชัดเจนของ claypot chicken rice ปรากฏขึ้นในช่วงเวลาที่ระบุได้หรือไม่ แหล่งข้อมูลสืบย้อนจานนี้ไปถึงการปรุงแบบกวางตุ้งในกวางตุ้งและฮ่องกง (bo zai fan) แต่ไม่ได้บันทึกวันกำเนิดเฉพาะของมาเลเซีย จานมาเลเซียนี้อธิบายได้ดีที่สุดว่าเป็นการดัดแปลง ไม่ใช่ต้นกำเนิดเอกเทศ"
   - "ชื่อกวางตุ้งของข้าวตังก้นหม้อ (มักถอดเป็นอักษรโรมันว่า 'fan jiu', 飯焦) การถอดอักษรโรมันตามสำเนียงแตกต่างกัน และคำนี้ยังใช้กับข้าวเกรียมโดยทั่วไปด้วย ควรยืนยันการสะกดและการใช้กับแหล่งข้อมูลภาษาการทำอาหารก่อนนำเสนอว่าเป็นมาตรฐาน"

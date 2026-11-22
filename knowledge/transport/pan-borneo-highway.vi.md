@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Xác nhận chiều dài tổng và theo từng bang - các nguồn đưa ra đoạn Sarawak khoảng 1,060 km, 1,077 km hoặc 1,090 km, Sabah Phase 1 khoảng 706 km, và toàn tuyến ở các mức khác nhau khoảng 1,663 km hoặc hơn 2,000 km; kiểm tra con số JKR hoặc Ministry of Works mới nhất."
   - "Xác nhận các con số chi phí theo bang và giai đoạn - đoạn Sarawak được báo cáo khoảng RM16 billion, trong khi Sabah Phase 1 được dẫn ở RM12.86 billion (ước tính ban đầu), khoảng RM17.91 đến RM18.96 billion (Auditor-General), và RM24.89 billion (Ministry of Works, tháng 7 năm 2026); những con số này phản ánh phạm vi, ngày tháng và mô hình hợp đồng khác nhau và không thể so sánh trực tiếp."

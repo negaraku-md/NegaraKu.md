@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "asam pedas का उद्गम स्रोतों के बीच विवादित है — मलेशियाई सांस्कृतिक पृष्ठ इसे Melaka से जोड़ते हैं, जबकि अन्य स्रोत इसे पश्चिम सुमात्रा के Minangkabau तक ले जाते हैं। इसे अस्पष्ट एकल-उद्गम वाले साझा मलय-Minangkabau व्यंजन के रूप में मानें; कोई भी ठोस दावा करने से पहले किसी शैक्षणिक पाक-इतिहास स्रोत से पुष्टि करें।"
   - "मलेशियाई asam pedas में सबसे आम उपयोग होने वाली मछली (ikan pari/स्टिंगरे, ikan kembung/मैकेरल, siakap/बैरामुंडी) सामान्य मलेशियाई प्रचलन से ली गई है; अंग्रेज़ी विकिपीडिया की सामग्री-सूची मैकेरल, स्नैपर आदि का नाम लेती है पर ikan pari या siakap का नाम से उल्लेख नहीं करती। मानक मछली-सूची की किसी मलेशियाई पाक स्रोत से पुष्टि करें।"

@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ปลาชนิดใดเป็นมาตรฐานหรือได้รับความนิยมมากที่สุดสำหรับ keropok lekor และ ikan parang ถูกใช้บ่อยเพียงใดเมื่อเทียบกับ ikan tamban, selayang หรือ kerisi: แหล่งข้อมูลระบุปลาต่างกันและเห็นไม่ตรงกันว่าชนิดใดให้ผลดีที่สุด ควรตรวจสอบกับแหล่งข้อมูลด้านอาหารหรือประมงของ Terengganu ก่อนระบุมาตรฐานใด ๆ"
   - "ความหมายและที่มาของคำว่า lekor: คำอธิบายต่าง ๆ ตีความว่าหมายถึงการม้วน/การปั้นม้วนแป้ง เส้นรอบวงของมัน หรือรูปทรงยาวของแท่ง ควรตรวจสอบรากศัพท์กับแหล่งข้อมูลภาษามลายูของ Terengganu"

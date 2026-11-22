@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "idli의 기원 역사는 실제로 논쟁적이다. 여러 설은 그것을 인도네시아 군도의 찐 쌀 음식, 10세기경 사우라슈트라 직공들이 타밀나두로 가져온 찐 케이크, 그리고 아랍 세계로 제각기 거슬러 올린다. 어느 하나의 설도 확정되지 않았다 — 전문 음식 역사 자료 없이 확실한 기원을 단정하지 말 것."
   - "이주 역사 — idli가 영국 식민지 시기에 남인도(주로 타밀) 이민자와 함께 특히 말라야에 들어왔다는 것 — 는 타당하고 thosai와 평행하지만, idli에 대한 정확한 시기와 경로는 확실히 기록되어 있지 않다. 전문 음식 역사 또는 이주 자료와 대조해 확인할 것."

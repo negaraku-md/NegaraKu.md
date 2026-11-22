@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "『apom』が（apom balik に対して）インドの appam を指すマレーシア／タミル系マレーシアの定着した名称かどうか——この呼称は食の文章で広く使われるが、二次資料やレビュー資料に基づく。地元の料理または遺産の権威に確認すること。"
   - "マレーシアのインド appam の具体的な細部——パリッとしたレース状の縁と柔らかい中心、appam telur、より甘いココナッツミルクの種類、そしてピーナッツ、coconut sambol、卵、黒胡椒などのトッピング——は、直接再取得できなかった単一の Malay Mail の屋台レビュー（HTTP 403）に基づく。元記事または別のマレーシアの資料と照合して確認し、再確認せずに価格を述べないこと。"

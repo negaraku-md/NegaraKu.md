@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Danh sách hiện hành các nước có công dân được dùng Autogate (63 nước như đã xác nhận vào tháng 12 năm 2024) và liệu nó có thay đổi kể từ đó — xác nhận với Cục Di trú Malaysia."
   - "Liệu du khách nước ngoài lần đầu có còn phải đăng ký tại quầy thủ công trước khi dùng Autogate — các thông tin không nhất quán, một số du khách nói việc đăng ký khi đến không còn cần thiết; xác nhận quy trình hiện hành với Cục Di trú."

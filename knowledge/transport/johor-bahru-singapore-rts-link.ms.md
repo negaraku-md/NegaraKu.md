@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sahkan pembahagian pegangan saham dalam RTS Operations Pte Ltd (RTSO) - pengendali ialah usaha sama Prasarana-SMRT, tetapi pembahagian ekuiti yang tepat (biasanya dilaporkan sekitar 60:40 Prasarana:SMRT) tidak disahkan terhadap sumber rasmi; sahkan terhadap perjanjian usaha sama atau pemfailan syarikat."
   - "Sahkan jumlah kos projek dan pembahagian perkongsian kos - laporan memetik pembahagian kos infrastruktur Singapura:Malaysia kira-kira 61:39 dan jumlah dalam lingkungan S$3.2 bilion, di samping pengurangan bahagian Malaysia pada 2019 sebanyak 36% daripada RM4.93 bilion kepada RM3.16 bilion; selaraskan ini dengan angka rasmi terkini."

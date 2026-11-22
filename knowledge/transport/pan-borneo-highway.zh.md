@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "确认合计及各州长度——各来源给出 Sarawak 段约 1,060 km、1,077 km 或 1,090 km，Sabah 第一阶段约 706 km，整条公路则有约 1,663 km 或超过 2,000 km 等不同说法；请查阅最新的 JKR 或 Ministry of Works 数字。"
   - "确认各州及各阶段的造价数字——Sarawak 段被报告约 RM16 billion，而 Sabah 第一阶段曾被引用为 RM12.86 billion（早期估算）、约 RM17.91 至 RM18.96 billion（Auditor-General）以及 RM24.89 billion（Ministry of Works，2026 年 7 月）；这些反映不同的范围、日期与合同模式，不可直接比较。"

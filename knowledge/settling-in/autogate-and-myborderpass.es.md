@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La lista vigente de países cuyos nacionales pueden usar la Autogate (63 países, según se confirmó en diciembre de 2024) y si ha cambiado desde entonces — confírmalo con el Departamento de Inmigración de Malasia."
   - "Si los viajeros extranjeros que llegan por primera vez todavía deben registrarse en un mostrador manual antes de usar la Autogate — la información es contradictoria, y algunos viajeros dicen que el registro a la llegada ya no es necesario; confirma el procedimiento vigente con Inmigración."

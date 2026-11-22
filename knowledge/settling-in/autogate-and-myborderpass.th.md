@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "รายชื่อประเทศที่พลเมืองสามารถใช้ Autogate ได้ในปัจจุบัน (63 ประเทศตามที่ยืนยันในธันวาคม 2024) และมีการเปลี่ยนแปลงตั้งแต่นั้นหรือไม่ — ยืนยันกับกรมตรวจคนเข้าเมืองมาเลเซีย"
   - "ว่าผู้เดินทางต่างชาติครั้งแรกยังต้องลงทะเบียนที่เคาน์เตอร์แบบใช้เจ้าหน้าที่ก่อนใช้ Autogate หรือไม่ — รายงานไม่สอดคล้องกัน ผู้เดินทางบางรายบอกว่าการลงทะเบียนเมื่อมาถึงไม่จำเป็นอีกต่อไป ยืนยันขั้นตอนปัจจุบันกับตรวจคนเข้าเมือง"

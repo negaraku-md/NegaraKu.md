@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "Sarawak laksa முதன்முதலில் சுமார் 1945-இல் Kuching-இன் Carpenter Street-இல் Goh Lik Teck என்பவரால் விற்கப்பட்டது என்ற தோற்றக் கதை இரண்டாம்நிலை உணவு-ஊடகக் கூற்றுகளை அடிப்படையாகக் கொண்டது; உண்மையான தொடக்கம் நிச்சயமற்றது என்று ஆதாரங்கள் குறிப்பிடுகின்றன. எந்த தேதியையோ நிறுவனரையோ கூறுவதற்கு முன் சரவாக் சமையல் அல்லது பாரம்பரிய ஆதாரத்துடன் உறுதிப்படுத்தவும்."

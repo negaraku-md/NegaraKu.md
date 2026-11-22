@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Apakah 'apom' secara khusus merupakan nama Malaysia / Tamil-Malaysia yang mapan untuk appam India (berlawanan dengan apom balik) — penamaan ini digunakan luas dalam tulisan kuliner tetapi bertumpu pada sumber sekunder dan ulasan; konfirmasikan dengan otoritas kuliner atau warisan setempat."
   - "Detail konkret appam India Malaysia — tepi renda yang renyah dengan bagian tengah lembut, appam telur, versi santan yang lebih manis, serta taburan seperti kacang tanah, coconut sambol, telur, dan merica hitam — diambil dari satu ulasan gerai Malay Mail yang tidak dapat diambil ulang secara langsung (HTTP 403); konfirmasikan dengan artikel asli atau sumber Malaysia lain, dan jangan menyebutkan harga apa pun tanpa memverifikasinya ulang."

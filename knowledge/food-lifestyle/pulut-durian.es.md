@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La asociación regional específica (estados de la Costa Este como Pahang, Terengganu y Kelantan, y un origen kampung) la sugieren sitios de comida de baja autoridad, pero no la confirma una fuente culinaria malaya primaria o autorizada; verificar antes de afirmar un origen regional definido."
   - "El momento exacto de la temporada del durián (a menudo citado como aproximadamente mediados de año) varía según la región y el año; confirmar con la guía de la cultura del durián o una fuente agrícola en lugar de fijar meses concretos aquí."

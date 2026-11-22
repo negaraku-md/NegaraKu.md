@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Idli 的起源历史确实存在争议：各家理论分别将它追溯到印度尼西亚群岛的蒸米食品、约10世纪由 Saurashtra 织工带到泰米尔纳德邦的蒸糕，以及阿拉伯世界。没有任何单一说法成为定论——在没有专门的饮食史资料下，不要断言某个确切的起源。"
   - "迁徙历史——即 idli 随南印度（主要是泰米尔）移民在英国殖民时期具体传入马来亚——是合理的，且与 thosai 相似，但就 idli 而言，其确切年代与路线并未得到确凿记录；须对照专门的饮食史或迁徙资料核实。"

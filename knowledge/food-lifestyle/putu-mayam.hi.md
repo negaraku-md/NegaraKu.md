@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "कभी-कभी putu mayam के साथ परोसी जाने वाली नारंगी रंग की चीनी और इसके लिए मलय शब्द 'gula hangus' किसी प्रतिष्ठित स्रोत में पुष्ट नहीं हो सके; अधिकांश स्रोत केवल भूरी चीनी या ताड़ की चीनी (gula melaka) के साथ कसे नारियल का वर्णन करते हैं। इस शब्द और इसके प्रयोग को बताने से पहले पुष्टि करें।"
   - "idiyappam की प्राचीनता का दावा (K. T. Achaya द्वारा संगम साहित्य के पठन को श्रेय दिया गया, जिसके बारे में कहा जाता है कि यह लगभग पहली शताब्दी ईस्वी में तमिळकम में इस व्यंजन का वर्णन करता है) एक द्वितीयक स्रोत पर टिका है; कोई भी तिथि उद्धृत करने से पहले प्राथमिक शोध से सत्यापित करें।"

@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ตำนานต้นกำเนิดจากราชสำนัก — ที่ว่า Sultan Abu Bakar แห่ง Johor รับเอา spaghetti มาใช้กับ laksa หลังการเดินทางไปยุโรป/อิตาลีในช่วงปลายศตวรรษที่ 19 (ราวปี 1885) — ถูกกล่าวซ้ำอย่างกว้างขวางในสื่ออาหาร แต่ไม่มีการบันทึกอย่างหนักแน่น ควรยืนยันกับแหล่งข้อมูลประวัติศาสตร์หรือเอกสารราชสำนักชั้นปฐมภูมิก่อนระบุเป็นข้อเท็จจริง และตรวจสอบปีครองราชย์ของสุลต่าน (แหล่งข้อมูลให้ทั้ง 1862–1895 และ 1886–1895)"
   - "ปีที่ laksa Johor ได้รับการยอมรับเป็นมรดกทางวัฒนธรรมที่จับต้องไม่ได้ระดับชาติ — แหล่งข้อมูลอ้างอิงต่างกันทั้ง 2009, 2013 และ 2023 ควรยืนยันปีที่ประกาศในราชกิจจาฯ และหน่วยงานที่ถูกต้องกับ Jabatan Warisan Negara / JKKN"

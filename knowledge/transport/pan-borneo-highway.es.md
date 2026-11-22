@@ -41,16 +41,17 @@ sourceContentHash: "979fd22a197b9634"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Confirmar las longitudes conjunta y por estado: las fuentes dan el tramo de Sarawak como unos 1,060 km, 1,077 km o 1,090 km, la Phase 1 de Sabah como unos 706 km, y la carretera entera, de forma variada, como unos 1,663 km o más de 2,000 km; comprobar las cifras más recientes del JKR o del Ministry of Works."
   - "Confirmar las cifras de coste por estado y por fase: el tramo de Sarawak se informa en torno a RM16 billion, mientras que la Phase 1 de Sabah se ha citado en RM12.86 billion (estimación temprana), unos RM17.91 a RM18.96 billion (Auditor-General) y RM24.89 billion (Ministry of Works, julio de 2026); reflejan alcances, fechas y modelos de contrato distintos y no son directamente comparables."

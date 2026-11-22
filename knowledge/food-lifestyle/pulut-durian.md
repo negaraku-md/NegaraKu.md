@@ -36,14 +36,16 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "The specific regional association (East Coast states such as Pahang, Terengganu and Kelantan, and a kampung origin) is suggested by lower-authority food sites but is not confirmed by a primary or authoritative Malaysian culinary source; verify before stating a definite regional origin."
   - "The exact durian-season timing (often cited as roughly mid-year) varies by region and year; confirm against the durian-culture guide or an agricultural source rather than fixing specific months here."

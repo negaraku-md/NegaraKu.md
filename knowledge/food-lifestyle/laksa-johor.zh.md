@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "王室起源传说——即 Johor 的 Sultan Abu Bakar 在19世纪末（约1885年）一次欧洲／意大利之行后为 laksa 采用 spaghetti——在美食媒体中广为流传，但并无确凿记载；在将其陈述为事实之前，须对照一手的历史或王宫资料核实，并核实这位苏丹的在位年份（资料同时给出 1862–1895 与 1886–1895）。"
   - "laksa Johor 被列为国家非物质遗产的年份——资料分别引述 2009、2013 和 2023 年；须向 Jabatan Warisan Negara／JKKN 核实正确的宪报刊登年份与机构。"

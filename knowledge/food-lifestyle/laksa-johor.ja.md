@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "王室起源の伝説——Johor の Sultan Abu Bakar が19世紀末（1885年ごろ）のヨーロッパ／イタリア旅行の後に laksa へ spaghetti を採り入れたという話——は食のメディアで広く繰り返されるが、しっかりと記録されてはいない。事実として述べる前に、一次の歴史資料または宮廷資料と照合して確認し、スルタンの在位年を検証すること（資料は1862–1895と1886–1895の両方を挙げる）。"
   - "laksa Johor が国家無形遺産として認定された年——資料は2009年、2013年、2023年とまちまちに挙げる。正しい官報掲載年と所管機関を Jabatan Warisan Negara／JKKN に確認すること。"

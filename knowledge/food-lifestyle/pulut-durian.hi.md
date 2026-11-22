@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "विशिष्ट क्षेत्रीय संबंध (पूर्वी तट के राज्य जैसे पहांग, त्रेंगानु और केलंतान, और एक kampung मूल) कम प्राधिकार वाली भोजन साइटों द्वारा सुझाया गया है लेकिन किसी प्राथमिक या आधिकारिक मलेशियाई पाक स्रोत से पुष्ट नहीं है; किसी निश्चित क्षेत्रीय मूल को बताने से पहले सत्यापित करें।"
   - "ड्यूरियन-मौसम का सटीक समय (अक्सर लगभग वर्ष के मध्य के रूप में उद्धृत) क्षेत्र और वर्ष के अनुसार भिन्न होता है; यहाँ विशिष्ट महीने तय करने के बजाय ड्यूरियन-संस्कृति गाइड या किसी कृषि स्रोत से पुष्टि करें।"

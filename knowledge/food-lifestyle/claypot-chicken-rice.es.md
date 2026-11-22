@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Si una versión claramente malaya del claypot chicken rice surgió en un momento identificable. Las fuentes remontan el plato a la cocina cantonesa de Guangdong y Hong Kong (bo zai fan) pero no documentan ninguna fecha de origen específica de Malasia; el plato malayo se describe mejor como una adaptación, no como un origen independiente."
   - "El nombre cantonés de la costra crujiente del fondo (romanizado habitualmente 'fan jiu', 飯焦). Las romanizaciones dialectales varían y el término también se aplica al arroz chamuscado en general; confirmar la grafía y el uso con una fuente de lenguaje culinario antes de presentarlo como estándar."

@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "الارتباط الإقليمي المحدّد (ولايات الساحل الشرقي مثل باهانغ وترينغانو وكلنتان، وأصل kampung) تقترحه مواقع طعام أقلّ موثوقية لكنّه غير مؤكَّد من مصدر طهي ماليزي أوّلي أو ذي حُجّية؛ تحقّق قبل ذكر أصل إقليمي مؤكّد."
   - "توقيت موسم الدوريان بدقّة (كثيراً ما يُذكر أنّه نحو منتصف العام) يختلف بحسب المنطقة والسنة؛ أكّده بالاستناد إلى دليل ثقافة الدوريان أو مصدر زراعي بدل تثبيت أشهر بعينها هنا."

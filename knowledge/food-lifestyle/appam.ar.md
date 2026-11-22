@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ما إذا كان 'apom' تحديدًا هو الاسم الماليزي / التاميلي-الماليزي الراسخ لـ appam الهندي (في مقابل apom balik) — تُستخدم هذه التسمية على نطاق واسع في كتابات الطعام لكنّها تستند إلى مصادر ثانوية ومراجعات؛ تحقّق من ذلك مع مرجع طهي أو تراثي محلّي."
   - "التفاصيل الملموسة لـ appam الهندي الماليزي — الحافة المقرمشة المخرّمة مع المركز الطريّ، وappam telur، ونسخة حليب جوز الهند الأحلى، وإضافات مثل الفول السوداني وcoconut sambol والبيض والفلفل الأسود — مأخوذة من مراجعة بسطة واحدة في Malay Mail تعذّر إعادة جلبها مباشرةً (HTTP 403)؛ تحقّق من ذلك مقابل المقال الأصلي أو مصدر ماليزي آخر، ولا تذكر أيّ سعر دون إعادة التحقّق منه."

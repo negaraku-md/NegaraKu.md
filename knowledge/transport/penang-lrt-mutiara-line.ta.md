@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "இறுதி பாதை நீளத்தை உறுதிப்படுத்தவும் - ஆதாரங்கள் சுமார் 29.5 கி.மீ (பரவலாக அறிவிக்கப்பட்டது) முதல் 29.67 கி.மீ (MRT Corp மேம்பால அளவீடு) வரை வேறுபடுகின்றன; சமீபத்திய அதிகாரப்பூர்வ எண்ணிக்கையைப் பயன்படுத்தவும்."
   - "துல்லியமான நிலைய எண்ணிக்கையை உறுதிப்படுத்தவும் - அறிக்கைகள் சுமார் 21 என மேற்கோள் காட்டுகின்றன, அதேசமயம் MRT Corp திட்டப் பொருள் 20 நிலையங்கள் மற்றும் இரண்டு தற்காலிக நிலையங்கள் (PSR-A மற்றும் Jalan Bagan Luar) எனப் பட்டியலிடுகிறது; எண்ணிக்கை இன்னும் உறுதிப்படுத்தப்பட்டு வருகிறது."

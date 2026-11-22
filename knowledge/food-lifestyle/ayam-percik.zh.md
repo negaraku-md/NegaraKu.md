@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "将 ayam percik 框定为吉兰丹白而醇厚的风格、与登嘉楼较红风格相对的常见说法，并没有得到明确支持：可靠资料主要在吉兰丹的语境下描述白（putih）与红（merah）两种酱汁变体，而登嘉楼的具体归属仅凭一个较不权威的来源。在陈述确切的各州风格对应之前，须对照一手的东海岸饮食资料核实。"
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "芳香质朴的 ayam percik（Aromatic, rustic ayam percik）"

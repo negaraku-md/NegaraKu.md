@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "أسطورة الأصل الملكي — أنّ Sultan Abu Bakar حاكم Johor اعتمد spaghetti للكسا بعد رحلة إلى أوروبا/إيطاليا في أواخر القرن التاسع عشر (نحو 1885) — تتكرّر على نطاق واسع في الإعلام الغذائي لكنها غير موثّقة بشكل راسخ؛ تحقّق من مصدر تاريخي أوّلي أو مصدر من البلاط قبل ذكرها كحقيقة، وتحقّق من سنوات حكم السلطان (تعطي المصادر 1862–1895 و1886–1895 معًا)."
   - "سنة الاعتراف بـ laksa Johor تراثًا وطنيًّا غير مادي — تذكر المصادر 2009 و2013 و2023 على اختلاف؛ أكّد سنة النشر الرسمي في الجريدة والجهة الصحيحة مع Jabatan Warisan Negara / JKKN."

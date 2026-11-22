@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "确认项目总造价——估算从约 310 亿令吉的建设成本，到含土地约 394 亿令吉，头条数字甚至高达约 502 亿令吉；2023 年财政预算案设定把支出控制在 450 亿令吉以下的目标。单一官方全口径数字尚未定案；请查阅 MRT Corp 或财政部的最新声明。"
   - "确认建设开工与通车日期——较近期资料给出 2027 年动工、2032 年前后通车，而早期规划则是 2028 年分阶段通车、2030 年前全线建成；请向 MRT Corp 核实。"

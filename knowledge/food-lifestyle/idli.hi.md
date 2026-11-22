@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Idli के उद्गम का इतिहास सचमुच विवादित है: विभिन्न सिद्धांत इसे इंडोनेशियाई द्वीपसमूह के भाप में पके चावल व्यंजनों, लगभग 10वीं शताब्दी में सौराष्ट्र के बुनकरों द्वारा तमिलनाडु लाए गए भाप के केक, और अरब जगत तक पहुँचाते हैं। कोई एक विवरण तय नहीं है — किसी समर्पित भोजन-इतिहास स्रोत के बिना किसी निश्चित उद्गम का दावा न करें।"
   - "प्रवास का इतिहास — कि idli विशेष रूप से ब्रिटिश औपनिवेशिक काल में दक्षिण भारतीय (ज़्यादातर तमिल) प्रवासियों के साथ मलाया पहुँची — उचित है और thosai के समानांतर है, पर idli के लिए सटीक अवधि और मार्ग मज़बूती से प्रलेखित नहीं हैं; किसी समर्पित भोजन-इतिहास या प्रवास स्रोत से सत्यापित करें।"

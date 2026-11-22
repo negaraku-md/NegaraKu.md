@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "कुल परियोजना-लागत की पुष्टि करें - अनुमान निर्माण के लिए लगभग RM31 बिलियन से लेकर भूमि सहित लगभग RM39.4 बिलियन तक हैं, शीर्षक आँकड़े लगभग RM50.2 बिलियन तक ऊँचे उद्धृत किए गए; 2023 के बजट ने खर्च RM45 बिलियन से नीचे रखने का लक्ष्य तय किया। एक एकल आधिकारिक सर्व-समावेशी आँकड़ा तय नहीं है; नवीनतम MRT Corp या वित्त मंत्रालय वक्तव्य जाँचें।"
   - "निर्माण-आरंभ और उद्घाटन तिथियों की पुष्टि करें - अधिक हालिया संदर्भ 2027 से काम और 2032 के आसपास उद्घाटन देते हैं, जबकि पहले की योजनाओं में 2028 से चरणबद्ध उद्घाटन और 2030 तक पूर्ण समापन था; MRT Corp से पुष्टि करें।"

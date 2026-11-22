@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Daftar negara terkini yang warganya boleh menggunakan Autogate (63 negara sebagaimana dikonfirmasi pada Desember 2024) dan apakah telah berubah sejak itu — konfirmasikan dengan Departemen Imigrasi Malaysia."
   - "Apakah pelancong asing pertama kali masih harus mendaftar di konter manual sebelum menggunakan Autogate — laporan tidak konsisten, dengan beberapa pelancong mengatakan pendaftaran saat kedatangan tidak lagi diperlukan; konfirmasikan prosedur terkini dengan Imigrasi."

@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "特定の地域との結びつき(パハン、トレンガヌ、クランタンといった東海岸の州、および kampung(村)起源)は、権威の低い料理サイトが示唆するものの、一次または権威ある マレーシアの料理資料では確認されていない。確定的な地域起源を述べる前に検証すること。"
   - "ドリアンの旬の正確な時期(しばしばおよそ年の半ばとされる)は地域と年によって異なる。ここで特定の月を固定するのではなく、ドリアン文化のガイドや農業資料と照合して確認すること。"

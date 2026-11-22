@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "beriani gam をとくにジョホールのムアルとバトゥ・パハ両地区に帰すること、および 'gam'/'dam' の呼称は、主に JKKN の遺産記録に依拠している。この様式と語がジョホールに固有か、より広く共有されているかを検証すること。"
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

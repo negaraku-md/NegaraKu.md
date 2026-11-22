@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Apakah versi claypot chicken rice yang khas Malaysia muncul pada suatu waktu yang dapat diidentifikasi. Sumber menelusuri hidangan ini ke masakan Kanton di Guangdong dan Hong Kong (bo zai fan) tetapi tidak mendokumentasikan tanggal asal khusus Malaysia; hidangan Malaysia ini paling tepat digambarkan sebagai adaptasi, bukan asal-usul tersendiri."
   - "Nama Kanton untuk kerak garing di dasar (lazim diromanisasi 'fan jiu', 飯焦). Romanisasi dialek beragam dan istilah ini juga dipakai untuk nasi gosong secara umum; konfirmasikan ejaan dan penggunaannya terhadap sumber bahasa kuliner sebelum menyajikannya sebagai standar."

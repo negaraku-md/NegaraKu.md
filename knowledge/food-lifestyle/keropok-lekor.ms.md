@@ -35,15 +35,17 @@ sourceContentHash: "2c67434637eac3c6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Ikan mana yang menjadi standard atau paling digemari untuk keropok lekor, dan betapa lazimnya ikan parang digunakan berbanding ikan tamban, selayang atau kerisi: sumber menamakan ikan yang berbeza dan tidak sependapat tentang yang mana memberikan hasil terbaik. Sahkan terhadap sumber masakan atau perikanan Terengganu sebelum menyatakan sebarang standard tunggal."
   - "Maksud dan asal usul perkataan lekor: pelbagai catatan mentafsirkannya sebagai merujuk kepada gulungan/penggulungan doh, kepada lilitannya, atau kepada bentuk panjang batang-batang itu. Sahkan etimologinya terhadap sumber bahasa Melayu Terengganu."

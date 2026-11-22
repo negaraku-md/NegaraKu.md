@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "نسبة beriani gam تحديداً إلى منطقتَي موار وباتو باهات في جوهور، وتسمية 'gam'/'dam'، تستندان أساساً إلى سجلّ التراث لدى JKKN؛ تحقّق مما إذا كان الأسلوب والمصطلح خاصّين بجوهور أم مشتركين على نطاق أوسع."
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

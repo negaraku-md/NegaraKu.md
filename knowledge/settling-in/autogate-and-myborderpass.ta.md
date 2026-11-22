@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Autogate-ஐப் பயன்படுத்தக்கூடிய நாடுகளின் தற்போதைய பட்டியல் (December 2024-இல் உறுதிப்படுத்தப்பட்ட 63 நாடுகள்) மற்றும் அது அதன் பின் மாறியுள்ளதா — மலேசிய குடிவரவுத் துறையுடன் உறுதிப்படுத்தவும்."
   - "முதல்-முறை வெளிநாட்டுப் பயணிகள் Autogate-ஐப் பயன்படுத்துவதற்கு முன் இன்னும் கைமுறை கவுண்டரில் பதிவு செய்ய வேண்டுமா — அறிக்கைகள் ஒத்துப்போகவில்லை, சில பயணிகள் வருகைப் பதிவு இனி தேவையில்லை என்கிறார்கள்; தற்போதைய நடைமுறையை குடிவரவுத் துறையுடன் உறுதிப்படுத்தவும்."

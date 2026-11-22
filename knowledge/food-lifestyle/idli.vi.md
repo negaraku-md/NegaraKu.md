@@ -36,14 +36,16 @@ sourceContentHash: "b72ac6d5a261d377"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Lịch sử nguồn gốc của idli thực sự còn gây tranh cãi: nhiều giả thuyết lần lượt truy nó về các món gạo hấp từ quần đảo Indonesia, về những chiếc bánh hấp do thợ dệt Saurashtra mang đến Tamil Nadu quanh thế kỷ 10, và về thế giới Ả Rập. Không một thuyết nào ngã ngũ — đừng khẳng định một nguồn gốc chắc chắn mà không có nguồn sử ẩm thực chuyên biệt."
   - "Lịch sử di cư — rằng idli đến Malaya cụ thể cùng những người di cư Nam Ấn (phần lớn là Tamil) trong thời thuộc địa Anh — là hợp lý và song hành với thosai, nhưng thời điểm và lộ trình chính xác cho idli chưa được ghi chép chắc chắn; hãy xác minh với một nguồn sử ẩm thực hoặc di cư chuyên biệt."

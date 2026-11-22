@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tanggal penciptaan dan garis waktu awal Tuaran mee dilaporkan secara tidak konsisten — satu catatan menanggali sebuah usaha pasokan mi keluarga pada 1968, yang lain menelusuri hidangan ini ke era 1970-an, dan yang ketiga mengatakan mi goreng di Sabah hanya disebut 'chao men' dalam bahasa Hakka sampai pertengahan 1980-an. Tidak ada tanggal penciptaan pasti yang didukung dengan baik; konfirmasikan sebelum menyatakan satu tanggal."
   - "Jarak pasti dari Kota Kinabalu berbeda-beda antar sumber (Wikipedia menyebut kota itu 34 km di utara; artikel perjalanan menyebut 30 km, sekitar 45 menit berkendara, atau jarak tempuh 50 km). Perlakukan angka tunggal apa pun sebagai perkiraan."

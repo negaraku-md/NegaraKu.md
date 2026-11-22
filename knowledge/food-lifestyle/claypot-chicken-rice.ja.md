@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "claypot chicken rice のはっきりとマレーシア的な版が、特定できる時期に現れたかどうか。資料はこの料理を Guangdong（広東）と Hong Kong（香港）の広東料理（bo zai fan）に遡らせるが、マレーシア特有の起源の年代は記録していない。マレーシアの料理は独立した起源ではなく、翻案として説明するのが最も適切である。"
   - "鍋底の香ばしいお焦げの広東語名（一般にローマ字で 'fan jiu'、飯焦）。方言のローマ字表記は一定せず、この語は焦げたご飯一般にも用いられる。標準として提示する前に、料理用語の資料と照合して綴りと用法を確認すること。"

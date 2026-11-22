@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "当前可使用 Autogate 的国家国民名单（2024 年 12 月确认的 63 个国家）及其此后是否有变动——须向马来西亚移民局核实。"
   - "首次入境的外国旅客是否仍须在使用 Autogate 前于人工柜台登记——报道不一致，有些旅客称已不再需要抵达时登记；请向移民局确认当前程序。"

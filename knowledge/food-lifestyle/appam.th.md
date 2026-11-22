@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "'apom' เป็นชื่อเฉพาะที่ชาวมาเลเซีย / ทมิฬ-มาเลเซียใช้เรียก appam อินเดีย (ตรงข้ามกับ apom balik) อย่างเป็นที่ยอมรับหรือไม่ — การเรียกนี้ใช้กันแพร่หลายในงานเขียนอาหาร แต่อาศัยแหล่งข้อมูลทุติยภูมิและบทวิจารณ์ ควรยืนยันกับผู้เชี่ยวชาญด้านการทำอาหารหรือมรดกท้องถิ่น"
   - "รายละเอียดที่เป็นรูปธรรมของ appam อินเดียแบบมาเลเซีย — ขอบกรอบเป็นลูกไม้กับตรงกลางนุ่ม, appam telur, เวอร์ชันกะทิที่หวานกว่า และท็อปปิ้งอย่างถั่วลิสง, coconut sambol, ไข่ และพริกไทยดำ — นำมาจากบทวิจารณ์แผง Malay Mail เพียงแหล่งเดียวที่ไม่สามารถดึงมาใหม่ได้โดยตรง (HTTP 403) ควรตรวจสอบกับบทความต้นฉบับหรือแหล่งข้อมูลมาเลเซียอื่น และอย่าระบุราคาใด ๆ โดยไม่ตรวจสอบซ้ำ"

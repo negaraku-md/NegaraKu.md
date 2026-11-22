@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "claypot chicken rice-ன் தனித்துவமான மலேசிய பதிப்பு அடையாளம் காணக்கூடிய ஒரு காலத்தில் தோன்றியதா என்பது. ஆதாரங்கள் இந்த உணவை Guangdong மற்றும் Hong Kong-ன் கான்டனீஸ் சமையலுக்கு (bo zai fan) தடமறிகின்றன, ஆனால் மலேசியாவுக்கே உரிய தோற்றத் தேதி எதையும் ஆவணப்படுத்தவில்லை; மலேசிய உணவு ஒரு தனித்த தோற்றம் அல்ல, ஒரு தழுவலாகவே சிறப்பாக விவரிக்கப்படுகிறது."
   - "அடிப் பொருக்கின் கான்டனீஸ் பெயர் (பொதுவாக 'fan jiu', 飯焦 என்று ரோமன் எழுத்தில் எழுதப்படுகிறது). கிளைமொழி ரோமன் எழுத்துப்பெயர்ப்புகள் மாறுபடுகின்றன, இந்தச் சொல் பொதுவாகக் கருகிய சோற்றுக்கும் பயன்படுத்தப்படுகிறது; அதைத் தரமாக முன்வைப்பதற்கு முன் ஒரு சமையல்-மொழி ஆதாரத்துடன் எழுத்துமுறையையும் பயன்பாட்டையும் உறுதிப்படுத்தவும்."

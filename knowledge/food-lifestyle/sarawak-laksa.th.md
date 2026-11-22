@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "เรื่องต้นกำเนิดที่ว่า Sarawak laksa ถูกขายครั้งแรกราวปี 1945 โดย Goh Lik Teck ที่ Carpenter Street ใน Kuching อาศัยเรื่องเล่าจากสื่ออาหารทุติยภูมิ แหล่งข้อมูลระบุว่าจุดเริ่มต้นที่แท้จริงยังไม่แน่ชัด ควรยืนยันกับแหล่งข้อมูลด้านการทำอาหารหรือมรดกของซาราวักก่อนระบุวันที่หรือผู้ริเริ่มใด ๆ"

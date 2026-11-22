@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "'apom' குறிப்பாக இந்திய appam-க்கான (apom balik-க்கு எதிராக) நிலைபெற்ற மலேசிய / தமிழ்-மலேசியப் பெயரா என்பது — இந்தப் பெயரிடல் உணவு எழுத்தில் பரவலாகப் பயன்படுத்தப்படுகிறது, ஆனால் இரண்டாம்நிலை மற்றும் விமர்சன ஆதாரங்களை அடிப்படையாகக் கொண்டது; உள்ளூர் சமையல் அல்லது பாரம்பரிய அதிகாரத்துடன் உறுதிப்படுத்தவும்."
   - "மலேசிய இந்திய appam-இன் உறுதியான விவரங்கள் — மொறுமொறுப்பான லேஸ் விளிம்பும் மென்மையான நடுப்பகுதியும், appam telur, இனிப்பான தேங்காய்ப்பால் வகை, மற்றும் நிலக்கடலை, coconut sambol, முட்டை மற்றும் கருப்பு மிளகு போன்ற மேலலங்காரங்கள் — நேரடியாக மீண்டும் பெற முடியாத ஒரே Malay Mail கடை விமர்சனத்திலிருந்து (HTTP 403) எடுக்கப்பட்டவை; மூல கட்டுரை அல்லது வேறு மலேசிய ஆதாரத்துடன் உறுதிப்படுத்தவும், மேலும் மறு-சரிபார்க்காமல் எந்த விலையையும் கூற வேண்டாம்."

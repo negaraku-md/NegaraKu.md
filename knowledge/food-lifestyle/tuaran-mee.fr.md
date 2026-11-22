@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La date d'invention et la chronologie ancienne du Tuaran mee sont rapportées de façon incohérente — un récit date une entreprise familiale de fourniture de nouilles de 1968, un autre fait remonter le plat aux années 1970, et un troisième dit que les nouilles sautées à Sabah étaient simplement appelées 'chao men' en hakka jusqu'au milieu des années 1980. Aucune date d'invention ferme n'est bien étayée ; vérifier avant d'en avancer une."
   - "La distance exacte depuis Kota Kinabalu varie selon les sources (Wikipedia situe la ville à 34 km au nord ; des articles de voyage disent 30 km, environ 45 minutes de route, ou un trajet de 50 km). Traiter tout chiffre unique comme approximatif."

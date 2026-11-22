@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "'apom'이 (apom balik이 아니라) 인도식 appam을 가리키는, 자리 잡은 말레이시아/타밀계 말레이시아 명칭인지 — 이 명명은 음식 글에서 널리 쓰이지만 2차 및 리뷰 자료에 근거한다. 현지 요리 또는 문화유산 권위와 확인할 것."
   - "말레이시아 인도식 appam의 구체적 세부 — 바삭한 레이스 가장자리와 부드러운 가운데, appam telur, 더 단 코코넛 밀크 버전, 그리고 땅콩, coconut sambol, 달걀, 후추 같은 고명 — 은 직접 다시 가져올 수 없었던 단일 Malay Mail 노점 리뷰(HTTP 403)에서 가져온 것이다. 원문 또는 다른 말레이시아 자료와 대조해 확인하고, 재확인 없이 어떤 가격도 밝히지 말 것."

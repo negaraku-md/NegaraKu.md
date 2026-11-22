@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "asam pedas の起源は資料によって見解が分かれる——マレーシアの文化ページは Melaka と結びつけ、他の資料は西スマトラの Minangkabau に遡らせる。単一の起源が不明な、共有されるマレー・Minangkabau の料理として扱い、確たる主張を述べる前に学術的な料理史の資料と照合して確認すること。"
   - "マレーシアの asam pedas で最もよく使われる魚（ikan pari／エイ、ikan kembung／サバ、siakap／バラマンディ）は、マレーシアの一般的な慣行に基づく。英語版 Wikipedia の材料一覧はサバやフエダイなどを挙げるが、エイや siakap は名指ししていない。定番の魚の一覧をマレーシアの料理資料と照合して確認すること。"

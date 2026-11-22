@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "अंतिम लाइन-लंबाई की पुष्टि करें - स्रोत लगभग 29.5 किमी (व्यापक रूप से रिपोर्ट) से 29.67 किमी (MRT Corp वायाडक्ट माप) तक भिन्न हैं; नवीनतम आधिकारिक आँकड़ा उपयोग करें।"
   - "सटीक स्टेशन-संख्या की पुष्टि करें - रिपोर्टिंग लगभग 21 उद्धृत करती है, जबकि MRT Corp परियोजना सामग्री 20 स्टेशन और दो अस्थायी स्टेशन (PSR-A और Jalan Bagan Luar) सूचीबद्ध करती है; आँकड़ा अभी भी तय हो रहा है।"

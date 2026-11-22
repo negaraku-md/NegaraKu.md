@@ -35,14 +35,16 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "The orange-coloured sugar sometimes served with putu mayam and the Malay term 'gula hangus' for it could not be confirmed in a reputable source; most sources describe only grated coconut with brown sugar or palm sugar (gula melaka). Confirm the term and its usage before stating it."
   - "The claimed antiquity of idiyappam (attributed to K. T. Achaya's reading of Sangam literature, said to describe the dish in Tamilakam around the 1st century AD) rests on a secondary source; verify against the primary scholarship before citing any date."

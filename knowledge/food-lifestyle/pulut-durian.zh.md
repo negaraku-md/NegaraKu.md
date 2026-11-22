@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "具体的地域关联（东海岸州属如彭亨、登嘉楼和吉兰丹，以及甘榜起源）是由权威性较低的美食网站提出的，但未经一手或权威的马来西亚饮食来源证实；在陈述确定的地域起源之前须核实。"
   - "榴梿季的确切时间（常被引为大约年中）因地区和年份而异；应对照榴梿文化指南或农业来源核实，而非在此固定具体月份。"

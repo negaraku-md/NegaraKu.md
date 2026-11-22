@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "是否曾在某个可考的时点出现一种明确属于马来西亚的 claypot chicken rice 版本。资料将这道菜追溯到广东和香港的广东菜（bo zai fan），但并未记录任何马来西亚特有的起源年代；马来西亚这道菜最好描述为一种在地改良，而非独立起源。"
   - "煲底焦脆锅巴的广东话名称（通常罗马拼写为 'fan jiu'，飯焦）。方言罗马拼写各异，这个词也泛指烧焦的米饭；在将其作为标准呈现之前，须对照饮食语言资料核实拼写与用法。"

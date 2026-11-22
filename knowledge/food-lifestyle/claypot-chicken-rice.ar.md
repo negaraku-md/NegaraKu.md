@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "ما إذا كانت نسخة ماليزية متميّزة من claypot chicken rice قد ظهرت في زمن يمكن تحديده. تُرجِع المصادر الطبق إلى الطهي الكانتوني في قوانغدونغ وهونغ كونغ (bo zai fan) لكنّها لا توثّق تاريخ نشأة ماليزيًّا خاصًّا؛ والأفضل وصف الطبق الماليزي بأنّه اقتباس لا نشأة مستقلّة."
   - "الاسم الكانتوني لقشرة القاع المقرمشة (يُكتب لاتينيًّا عادةً 'fan jiu'، 飯焦). تتباين الكتابة اللاتينية حسب اللهجة، ويُستخدَم المصطلح أيضًا للأرزّ المتفحّم عمومًا؛ تحقّق من الكتابة والاستعمال في مصدر للغة الطهي قبل تقديمه معيارًا."

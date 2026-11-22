@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "क्या 'apom' विशेष रूप से भारतीय appam के लिए (apom balik के विपरीत) मलेशियाई / तमिल-मलेशियाई स्थापित नाम है — यह नामकरण भोजन-लेखन में व्यापक रूप से उपयोग होता है पर द्वितीयक और समीक्षा स्रोतों पर टिका है; किसी स्थानीय पाक या धरोहर प्राधिकारी से पुष्टि करें।"
   - "मलेशियाई भारतीय appam के ठोस विवरण — कुरकुरे फीतेदार किनारे के साथ नरम बीच, appam telur, अधिक मीठा नारियल-दूध संस्करण, और मूँगफली, coconut sambol, अंडा तथा काली मिर्च जैसे टॉपिंग — एक ही Malay Mail स्टॉल समीक्षा से लिए गए हैं जिसे सीधे दोबारा नहीं लाया जा सका (HTTP 403); मूल लेख या किसी अन्य मलेशियाई स्रोत से सत्यापित करें, और बिना दोबारा सत्यापित किए कोई मूल्य न बताएँ।"

@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "تاريخ ابتكار Tuaran mee وجدوله الزمني المبكر يُرويان بشكل غير متّسق — تؤرّخ رواية عملاً عائلياً لتوريد النودلز بعام 1968، وتُرجع رواية أخرى الطبق إلى سبعينيات القرن العشرين، وتقول ثالثة إنّ النودلز المقلية في Sabah كانت تُسمّى بالهاكاوية مجرّد 'chao men' حتى منتصف ثمانينيات القرن العشرين. ولا يوجد تاريخ ابتكار مؤكّد مدعوم جيداً؛ تحقّق قبل ذكر أي تاريخ."
   - "المسافة الدقيقة من Kota Kinabalu تختلف بين المصادر (يذكر Wikipedia البلدة على بُعد 34 كم شمالاً؛ وتقول مقالات السفر 30 كم، نحو 45 دقيقة بالسيارة، أو مسافة قيادة 50 كم). عامِل أي رقم مفرد على أنه تقريبي."

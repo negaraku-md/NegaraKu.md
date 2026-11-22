@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "قصّة النشأة القائلة إنّ Sarawak laksa بِيع لأول مرة نحو عام 1945 على يد Goh Lik Teck في Carpenter Street بـ Kuching تستند إلى روايات إعلام الطعام الثانوية؛ وتشير المصادر إلى أنّ البدايات الحقيقية غير مؤكّدة. تحقّق من مصدر طهوي أو تراثي سراواكي قبل ذكر أي تاريخ أو مؤسِّس."

@@ -41,16 +41,17 @@ sourceContentHash: "c4429d7b1f425ab5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "最終的な路線延長を確認すること——情報源は約29.5km（広く報じられている）から29.67km（MRT Corpの高架橋計測値）まで幅がある。最新の公式数値を用いること。"
   - "正確な駅数を確認すること——報道は約21を挙げる一方、MRT Corpの事業資料は20駅に暫定駅2つ（PSR-AとJalan Bagan Luar）を加えた数を記載している。数値はなお確定していない。"

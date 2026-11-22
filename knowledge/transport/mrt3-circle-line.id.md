@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Konfirmasikan total biaya proyek - perkiraan berkisar dari sekitar RM31 miliar untuk konstruksi hingga kira-kira RM39.4 miliar termasuk lahan, dengan angka utama dikutip setinggi sekitar RM50.2 miliar; Anggaran 2023 menetapkan target untuk menjaga pengeluaran di bawah RM45 miliar. Tidak ada satu angka keseluruhan resmi yang pasti; periksa pernyataan MRT Corp atau Kementerian Keuangan terbaru."
   - "Konfirmasikan tanggal mulai konstruksi dan pembukaan - rujukan yang lebih baru memberikan pengerjaan dari 2027 dan pembukaan sekitar 2032, sementara rencana sebelumnya memiliki pembukaan bertahap dari 2028 dan penyelesaian penuh pada 2030; konfirmasikan dengan MRT Corp."

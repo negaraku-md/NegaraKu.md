@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Mối liên hệ vùng miền cụ thể (các bang Bờ Đông như Pahang, Terengganu và Kelantan, và một nguồn gốc kampung) được các trang ẩm thực ít uy tín gợi ý nhưng chưa được một nguồn ẩm thực Malaysia sơ cấp hay có thẩm quyền xác nhận; hãy xác minh trước khi nêu một nguồn gốc vùng miền xác định."
   - "Thời điểm chính xác của mùa sầu riêng (thường được dẫn là khoảng giữa năm) thay đổi theo vùng và theo năm; hãy xác nhận với hướng dẫn về văn hóa sầu riêng hoặc một nguồn nông nghiệp thay vì cố định các tháng cụ thể ở đây."

@@ -35,9 +35,11 @@ sourceContentHash: "84b922bfd75f2599"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 verificationNeeded:
@@ -46,9 +48,8 @@ verificationNeeded:
   - "Beriani gam-ஐக் குறிப்பாக ஜொகூரின் முவார் மற்றும் பத்து பகாட் மாவட்டங்களுடன் தொடர்புபடுத்துவதும், 'gam'/'dam' எனும் பெயரிடலும் முக்கியமாக JKKN பாரம்பரியப் பதிவை அடிப்படையாகக் கொண்டவை; இந்தப் பாணியும் சொல்லும் ஜொகூருக்கு மட்டுமே உரியதா அல்லது மிகவும் பரவலாகப் பகிரப்படுகிறதா என்பதைச் சரிபார்க்கவும்."
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Nasi Beriani Gam"

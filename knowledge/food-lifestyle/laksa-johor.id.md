@@ -36,14 +36,16 @@ sourceContentHash: "40cb38415dfddc84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Legenda asal-usul kerajaan — bahwa Sultan Abu Bakar dari Johor mengadopsi spaghetti untuk laksa setelah perjalanan ke Eropa/Italia pada akhir abad ke-19 (sekitar 1885) — banyak diulang di media kuliner tetapi tidak terdokumentasikan dengan kuat; verifikasi dengan sumber sejarah primer atau sumber istana sebelum menyatakannya sebagai fakta, dan verifikasi tahun pemerintahan sultan (sumber memberikan baik 1862–1895 maupun 1886–1895)."
   - "Tahun laksa Johor diakui sebagai warisan takbenda nasional — sumber beragam menyebut 2009, 2013 dan 2023; konfirmasikan tahun pewartaan yang benar dan lembaganya dengan Jabatan Warisan Negara / JKKN."

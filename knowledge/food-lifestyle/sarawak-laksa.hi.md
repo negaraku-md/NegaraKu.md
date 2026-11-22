@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "यह उत्पत्ति-कथा कि Sarawak laksa पहली बार लगभग 1945 में Kuching की Carpenter Street पर Goh Lik Teck द्वारा बेची गई थी, द्वितीयक भोजन-मीडिया विवरणों पर टिकी है; स्रोत बताते हैं कि असली शुरुआत अनिश्चित है। कोई भी तिथि या संस्थापक बताने से पहले किसी सारावाक पाक या धरोहर स्रोत से पुष्टि करें।"

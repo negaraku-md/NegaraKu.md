@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Sahkan jumlah kos projek - anggaran berjulat daripada kira-kira RM31 bilion bagi pembinaan kepada kira-kira RM39.4 bilion termasuk tanah, dengan angka utama dipetik setinggi sekitar RM50.2 bilion; Belanjawan 2023 menetapkan sasaran untuk mengekalkan perbelanjaan di bawah RM45 bilion. Tiada satu angka keseluruhan rasmi yang muktamad; semak kenyataan MRT Corp atau Kementerian Kewangan terkini."
   - "Sahkan tarikh permulaan pembinaan dan pembukaan - rujukan yang lebih terkini memberikan kerja dari 2027 dan pembukaan sekitar 2032, manakala rancangan terdahulu mempunyai pembukaan berfasa dari 2028 dan penyiapan penuh menjelang 2030; sahkan dengan MRT Corp."

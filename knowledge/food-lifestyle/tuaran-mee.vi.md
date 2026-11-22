@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Niên đại ra đời và mốc thời gian ban đầu của Tuaran mee được ghi lại không nhất quán — một lời kể định ngày một cơ sở cung cấp mì gia đình vào năm 1968, lời kể khác truy món ăn về thập niên 1970, và lời kể thứ ba nói rằng mì xào ở Sabah chỉ được gọi trong tiếng Khách Gia là 'chao men' cho đến giữa thập niên 1980. Không có niên đại ra đời chắc chắn nào được chứng thực tốt; hãy xác nhận trước khi nêu một mốc."
   - "Khoảng cách chính xác từ Kota Kinabalu khác nhau giữa các nguồn (Wikipedia ghi thị trấn cách 34 km về phía bắc; các bài du lịch nói 30 km, lái xe khoảng 45 phút, hoặc quãng đường lái 50 km). Hãy coi mọi con số đơn lẻ là gần đúng."

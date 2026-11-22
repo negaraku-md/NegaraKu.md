@@ -41,16 +41,17 @@ sourceContentHash: "10e2e01e7527794c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "RTS Operations Pte Ltd (RTSO) में शेयरधारिता विभाजन की पुष्टि करें - संचालक एक Prasarana-SMRT संयुक्त उद्यम है, पर सटीक इक्विटी विभाजन (आमतौर पर लगभग 60:40 Prasarana:SMRT बताया जाता है) किसी आधिकारिक स्रोत के विरुद्ध पुष्ट नहीं है; संयुक्त-उद्यम समझौते या कंपनी दस्तावेज़ों के विरुद्ध पुष्टि करें।"
   - "कुल परियोजना लागत और लागत-बँटवारे की पुष्टि करें - रिपोर्टिंग सिंगापुर:मलेशिया अवसंरचना-लागत बँटवारे को लगभग 61:39 और कुल को S$3.2 billion के क्रम में बताती है, साथ ही 2019 में मलेशिया के हिस्से में RM4.93 billion से RM3.16 billion तक 36% की कमी; इन्हें नवीनतम आधिकारिक आँकड़ों से मिलाएँ।"

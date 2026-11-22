@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "关于 Sarawak laksa 最早约于1945年由 Goh Lik Teck 在 Kuching 的 Carpenter Street 售卖的起源故事，仅凭二手的饮食媒体记述；有来源指出其真正的起源并不确定。在陈述任何年代或创始人之前，须对照砂拉越的烹饪或文史来源核实。"

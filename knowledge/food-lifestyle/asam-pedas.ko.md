@@ -35,14 +35,16 @@ sourceContentHash: "6d74de0bd4aeb067"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "asam pedas의 기원은 자료마다 견해가 갈린다 — 말레이시아의 문화 페이지는 Melaka와 연결하고, 다른 자료는 서수마트라의 Minangkabau로 거슬러 올라간다. 단일 기원이 불분명한, 공유되는 말레이-Minangkabau 음식으로 다루고, 확정적 주장을 하기 전에 학술적인 음식사 자료와 대조해 확인할 것."
   - "말레이시아 asam pedas에서 가장 흔히 쓰이는 생선(ikan pari/가오리, ikan kembung/고등어, siakap/바라문디)은 말레이시아의 일반적 관행에서 가져온 것이다; 영어 위키백과의 재료 목록은 고등어, 도미 등을 들지만 가오리나 siakap은 이름으로 거명하지 않는다. 표준 생선 목록을 말레이시아 음식 자료와 대조해 확인할 것."

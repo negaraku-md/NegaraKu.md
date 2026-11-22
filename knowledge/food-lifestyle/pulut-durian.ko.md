@@ -37,14 +37,16 @@ sourceContentHash: "733dba4fc92a3393"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "특정 지역과의 연관(파항, 트렝가누, 켈란탄 같은 동해안 주, 그리고 kampung(캄풍) 기원)은 권위가 낮은 음식 사이트가 제시하지만, 일차적이거나 권위 있는 말레이시아 요리 자료로는 확인되지 않는다. 확정적인 지역 기원을 말하기 전에 검증할 것."
   - "두리안 철의 정확한 시기(흔히 대략 연중반으로 인용됨)는 지역과 해에 따라 다르다. 여기서 특정 달을 고정하기보다 두리안 문화 안내서나 농업 자료와 대조해 확인할 것."

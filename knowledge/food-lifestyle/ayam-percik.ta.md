@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "Ayam percik-வை Kelantan-இன் வெள்ளையான, கிரீமான பாணி என்றும், Terengganu-வின் சிவப்பான பாணிக்கு எதிரானது என்றும் பொதுவாகக் கட்டமைப்பது தெளிவாக ஆதரிக்கப்படவில்லை: நம்பகமான ஆதாரங்கள் வெள்ளை (putih) மற்றும் சிவப்பு (merah) சாஸ் வகைகளை முக்கியமாக Kelantan சூழலிலேயே விவரிக்கின்றன, Terengganu-வுக்கான குறிப்பிட்ட முறையீடு ஒரு குறைவாக நிறுவப்பட்ட ஆதாரத்தையே சார்ந்துள்ளது. துல்லியமான மாநிலவாரி பாணி வரைபடத்தைக் கூறுவதற்கு முன் ஒரு முதன்மை கிழக்குக் கடற்கரை சமையல் ஆதாரத்துடன் சரிபார்க்கவும்."
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "வாசனை நிறைந்த, எளிமையான ayam percik (Aromatic, rustic ayam percik)"

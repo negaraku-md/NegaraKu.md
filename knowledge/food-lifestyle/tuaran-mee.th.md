@@ -36,14 +36,16 @@ sourceContentHash: "04a27173be637bb2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "วันที่คิดค้นและไทม์ไลน์ยุคแรกของ Tuaran mee มีบันทึกไม่สอดคล้องกัน — บางเรื่องเล่าระบุธุรกิจจัดส่งเส้นของครอบครัวไว้ที่ปี 1968 อีกเรื่องสืบจานนี้ไปถึงทศวรรษ 1970 และเรื่องที่สามบอกว่าเส้นผัดใน Sabah ถูกเรียกในภาษาฮากกาเพียงว่า 'chao men' จนถึงกลางทศวรรษ 1980 ไม่มีวันที่คิดค้นที่แน่นอนใดได้รับการสนับสนุนอย่างดี ควรยืนยันก่อนระบุ"
   - "ระยะทางที่แน่นอนจาก Kota Kinabalu แตกต่างกันในแต่ละแหล่ง (Wikipedia ระบุเมืองนี้ว่าอยู่เหนือ 34 กม.; บทความท่องเที่ยวบอก 30 กม. ขับรถราว 45 นาที หรือระยะขับ 50 กม.) ควรถือว่าตัวเลขเดี่ยวใด ๆ เป็นค่าประมาณ"

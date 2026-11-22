@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Si une version nettement malaisienne du claypot chicken rice est apparue à une date identifiable. Les sources font remonter le plat à la cuisine cantonaise du Guangdong et de Hong Kong (bo zai fan) mais ne documentent aucune date d'origine propre à la Malaisie ; le plat malaisien se décrit le mieux comme une adaptation, non comme une origine indépendante."
   - "Le nom cantonais de la croûte croustillante du fond (romanisé couramment « fan jiu », 飯焦). Les romanisations dialectales varient et le terme s'applique aussi au riz roussi en général ; vérifier l'orthographe et l'usage auprès d'une source de langue culinaire avant de le présenter comme standard."

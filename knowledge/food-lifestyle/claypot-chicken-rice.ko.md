@@ -36,15 +36,17 @@ sourceContentHash: "5fa6bbe0d09805ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "뚜렷이 말레이시아적인 claypot chicken rice 버전이 특정할 수 있는 시점에 등장했는지 여부. 자료는 이 음식을 광둥과 홍콩의 광둥 요리(bo zai fan)로 거슬러 올라가지만, 말레이시아 고유의 기원 연대는 기록하지 않는다. 말레이시아의 이 음식은 독립적 기원이 아니라 각색으로 보는 것이 가장 적절하다."
   - "바닥 누룽지의 광둥어 이름(흔히 'fan jiu', 飯焦로 로마자 표기). 방언 로마자 표기는 제각각이며 이 말은 그을린 밥 일반에도 쓰인다. 표준으로 제시하기 전에 요리 언어 자료와 대조해 철자와 용법을 확인할 것."

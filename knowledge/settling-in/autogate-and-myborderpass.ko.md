@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Autogate를 이용할 수 있는 국민의 현재 목록(2024년 12월에 확인된 63개국)과 그 이후 변경되었는지 여부 — 말레이시아 이민국과 대조해 확인할 것."
   - "처음 방문하는 외국인 여행자가 Autogate를 이용하기 전에 여전히 수동 카운터에서 등록해야 하는지 여부 — 보도가 일치하지 않으며, 일부 여행자는 도착 시 등록이 더 이상 필요하지 않다고 말함; 현재 절차를 이민국에 확인할 것."

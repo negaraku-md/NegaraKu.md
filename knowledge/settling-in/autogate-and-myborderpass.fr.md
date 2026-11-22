@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "La liste à jour des pays dont les ressortissants peuvent utiliser l'Autogate (63 pays, confirmés en décembre 2024) et si elle a changé depuis — à confirmer auprès du Département de l'immigration de Malaisie."
   - "Si les voyageurs étrangers venant pour la première fois doivent toujours s'enregistrer à un comptoir manuel avant d'utiliser l'Autogate — les informations sont contradictoires, certains voyageurs affirmant que l'enregistrement à l'arrivée n'est plus requis ; confirmez la procédure en vigueur auprès de l'Immigration."

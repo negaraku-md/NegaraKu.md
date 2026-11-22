@@ -35,15 +35,17 @@ sourceContentHash: "d6dd5240a58231bb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Savoir si « apom » est spécifiquement le nom malaisien / tamoul-malaisien établi de l'appam indien (par opposition à l'apom balik) — cette appellation est largement utilisée dans l'écriture culinaire mais repose sur des sources secondaires et des critiques ; à confirmer auprès d'une autorité culinaire ou patrimoniale locale."
   - "Les détails concrets de l'appam indien malaisien — le bord croustillant et dentelé avec un centre moelleux, l'appam telur, la version plus sucrée au lait de coco, et des garnitures comme cacahuètes, coconut sambol, œuf et poivre noir — proviennent d'une unique critique de stand de Malay Mail qui n'a pas pu être récupérée directement (HTTP 403) ; à confirmer auprès de l'article original ou d'une autre source malaisienne, et ne citer aucun prix sans l'avoir revérifié."

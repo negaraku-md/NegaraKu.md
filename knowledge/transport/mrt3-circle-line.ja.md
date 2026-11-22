@@ -41,16 +41,17 @@ sourceContentHash: "563a889abce3b119"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "事業総費用を確認すること——見積もりは建設費の約RM310億から、用地を含めて約RM394億まで幅があり、見出しでは約RM502億という高い数字も引用されている。2023年予算は支出をRM450億未満に抑える目標を設定した。確定した一つの公式な総額はまだ定まっていない。最新のMRT Corpまたは財務省の発表を確認すること。"
   - "建設開始と開業の期日を確認すること——より新しい資料は2027年の着工と2032年ごろの開業を挙げ、以前の計画は2028年からの段階的開業と2030年までの全線完成だった。MRT Corpに確認すること。"

@@ -36,16 +36,17 @@ sourceContentHash: "6de0207bf7042947"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 verificationNeeded:
   - "Kisah asal usul bahawa Sarawak laksa mula-mula dijual sekitar 1945 oleh Goh Lik Teck di Carpenter Street di Kuching bersandar pada laporan media makanan sekunder; sumber mencatatkan bahawa permulaan sebenarnya tidak pasti. Sahkan terhadap sumber masakan atau warisan Sarawak sebelum menyatakan sebarang tarikh atau pengasas."

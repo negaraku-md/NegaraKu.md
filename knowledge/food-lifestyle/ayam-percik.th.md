@@ -36,9 +36,11 @@ sourceContentHash: "e08a633f633edbf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 verificationNeeded:
   - "กรอบความคิดที่พบบ่อยในการวาง ayam percik เป็นสไตล์ขาวและครีมมี่ของ Kelantan เทียบกับสไตล์ที่แดงกว่าของ Terengganu ยังไม่ได้รับการสนับสนุนอย่างชัดเจน: แหล่งข้อมูลที่น่าเชื่อถือบรรยายซอสรุ่นขาว (putih) และแดง (merah) เป็นหลักในบริบทของ Kelantan ส่วนการกำหนดที่เจาะจงให้ Terengganu อาศัยแหล่งข้อมูลเดียวที่มีความน่าเชื่อถือน้อยกว่า ตรวจสอบการจับคู่สไตล์ตามรัฐที่แน่นอนกับแหล่งข้อมูลการทำอาหารชายฝั่งตะวันออกชั้นปฐมภูมิก่อนระบุ"
@@ -47,10 +49,9 @@ verificationNeeded:
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
+    change: "Reviewed and published."
     contributor: null
-    reviewer: null
-
+    reviewer: "ashton-tan"
 updated: 2026-11-22
 sources:
   - title: "Ayam percik หอมกรุ่นและบ้าน ๆ (Aromatic, rustic ayam percik)"

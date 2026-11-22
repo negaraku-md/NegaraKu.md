@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "putu mayam에 때때로 곁들여 나오는 주황색 설탕과 이를 가리키는 말레이어 'gula hangus'라는 말은 믿을 만한 자료에서 확인할 수 없었다. 대부분의 자료는 간 코코넛에 흑설탕이나 야자설탕(gula melaka)만을 묘사한다. 그 용어와 쓰임을 언급하기 전에 확인할 것."
   - "idiyappam이 오래되었다는 주장(K. T. Achaya의 상감 문학 해석에 근거하며, 기원후 1세기경 타밀라캄에서 이 음식을 묘사했다고 함)은 2차 자료에 근거한다. 어떤 연대든 인용하기 전에 1차 연구와 대조해 검증할 것."

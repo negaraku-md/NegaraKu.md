@@ -36,14 +36,16 @@ sourceContentHash: "3514ad0a05d87236"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "putu mayam にときどき添えられるオレンジ色の砂糖と、それを指すマレー語の 'gula hangus' という語は、信頼できる資料で確認できなかった。ほとんどの資料は削りココナッツと黒糖かパームシュガー（gula melaka）だけを記している。その語と用法を述べる前に確認すること。"
   - "idiyappam が古いという主張（K. T. Achaya によるサンガム文学の読解に帰せられ、紀元1世紀ごろのタミラカムでこの料理を記しているとされる）は二次資料に基づく。いかなる年代も引用する前に一次研究と照合して検証すること。"

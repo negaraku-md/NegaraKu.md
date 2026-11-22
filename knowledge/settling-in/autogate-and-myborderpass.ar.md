@@ -39,16 +39,17 @@ sourceContentHash: "dd15b2531cb454e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "draft"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
 revision: 0
 revisions:
   - revision: 0
     date: 2026-11-22
-    change: "AI-authored draft, pending human review."
-    reviewer: null
-
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "القائمة الحالية للدول التي يجوز لمواطنيها استخدام Autogate (63 دولة كما تأكّد في ديسمبر 2024) وما إذا كانت قد تغيّرت منذ ذلك الحين — تأكّد مع دائرة الهجرة الماليزية."
   - "ما إذا كان على المسافرين الأجانب لأول مرة ما زال يلزمهم التسجيل عند منفذ يدوي قبل استخدام Autogate — التقارير غير متسقة، إذ يقول بعض المسافرين إن التسجيل عند الوصول لم يعد مطلوباً؛ تأكّد من الإجراء الحالي مع الهجرة."
