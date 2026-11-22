@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["الطب عن بُعد", "telemedicine Malaysia", "طبيب عبر الإنترنت", "online doctor", "الاستشارة عن بُعد", "teleconsultation", "DoctorOnCall", "إرشادات MMC", "الوصفة الإلكترونية", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'طبيب في محطّة عمل للطبّ عن بُعد يراجع مريضًا بعيدًا على شاشة فيديو إلى جانب شاشات تشخيصية.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 تفتح تطبيقًا، وتجري مكالمة فيديو مع طبيب من أريكتك، وتصل وصفة طبية إلى بريدك الوارد بعد ساعة. في ماليزيا هذا قانوني تمامًا — لكن دفتر القواعد الذي يقف خلفه ليس القانون الذي قد تتوقعه.

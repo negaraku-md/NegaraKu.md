@@ -87,6 +87,13 @@ stayFacts:
   cost: 'Think in terms of shape, not fixed figures: public care is heavily subsidised for citizens and PRs, while foreigners pay substantially more under the non-citizen fee schedule, and private care is paid out of pocket or through insurance at whatever the facility charges. The exact ringgit amounts are set under the Fees (Medical) Order and revised periodically, so confirm current charges with MOH''s published order or directly with the provider before relying on any quoted figure.'
   watch: 'The citizen subsidies do not reach you as a foreigner — PeKa B40, MySalam and the citizen fee schedule are tied to citizenship or B40 cash-aid status, so plan on private insurance (and note that documented foreign workers must hold SPIKPA hospitalisation insurance to renew a work permit, arranged by the employer).'
   next: 'Work out which category you fall into (foreign worker, expatriate, or visitor) and line up the right coverage before relying on any local scheme. For the details, see the sibling guides Medical insurance in Malaysia, Private hospitals and costs, and Klinik Kesihatan.'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'Exterior of the Kuala Lumpur Hospital specialist and day-treatment complex, a Malaysian government hospital, with red crescent emblem'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 A Malaysian retiree with chest pain calls an ambulance and is taken to the nearest government hospital, where a cardiologist sees him for a fee that covers a fraction of the actual cost. His neighbour, a work-permit holder from Indonesia with the same symptoms, is taken to the same hospital's emergency department — but the bill that follows is calculated on a completely different schedule, because the two of them are not, in the ministry's eyes, the same kind of patient.

@@ -76,6 +76,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: '马来西亚一家牙科诊所 Klinik Pergigian Yap 的临街门面，招牌上列有牙科服务项目。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 许多人以为「牙科诊所」只是一回事——补蛀牙或拔智齿的地方。但在马来西亚，

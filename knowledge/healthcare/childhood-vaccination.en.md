@@ -72,6 +72,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'A Malaysian Ministry of Health vaccination centre set up for children, with a child-friendly ''I''m vaccinated'' mural'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Every baby born at a government clinic or hospital in Malaysia goes home with more than just a temporary birth certificate — they go home with a small booklet that will be brought to *every* clinic visit for the next six years. That booklet, and the vaccination schedule it records, is part of one of the longest-running public health programmes in the country.

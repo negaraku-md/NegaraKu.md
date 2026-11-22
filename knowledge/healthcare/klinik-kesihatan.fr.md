@@ -68,6 +68,13 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'L''entrée et le panneau de la Klinik Kesihatan Jalan Lanang, une clinique de santé communautaire du ministère de la Santé de Malaisie, avec les drapeaux national et de l''État.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Une fièvre qui ne tombe pas, un enfant à qui il faut administrer un vaccin, ou

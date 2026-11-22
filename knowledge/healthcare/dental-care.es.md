@@ -77,6 +77,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "búsqueda de clínicas dentales públicas"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'La fachada a pie de calle de una clínica dental malasia, la Klinik Pergigian Yap, con un letrero que enumera los servicios dentales.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mucha gente da por sentado que una «clínica dental» es una sola cosa — un lugar para empastar una caries o sacar una muela del juicio. Pero en Malasia, la atención dental en realidad discurre por dos vías separadas: una operada por el gobierno a través del Ministerio de Salud de Malasia (KKM), y la otra por el sector privado — y el ámbito de tratamiento entre ambas no es el mismo.

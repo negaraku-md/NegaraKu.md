@@ -60,6 +60,13 @@ related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 sourceContentHash: "63b512945cff4dd9"
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'マレーシアの伝統医薬・健康店の店頭看板で、補完・伝統医学の実践を表している。'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 2025年3月1日以降、マレーシアの伝統マッサージ師、中国伝統医療の施術者、ホメオパシー施術者、そしてカイロプラクターは、たった一枚の書類――登録証明書――なしにはクリニックの扉を開けなくなった。「経験だけを頼りに施術する」時代は終わった。

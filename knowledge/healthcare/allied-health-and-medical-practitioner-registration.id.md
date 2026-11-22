@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'Sebuah rumah sakit spesialis modern berlapis kaca di Kuala Lumpur dengan kereta transit ringan yang lewat di depannya.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seseorang dapat mengenakan jas putih, menggantung sertifikat di dinding klinik, dan menyebut dirinya "dokter" — tetapi hanya satu hal yang benar-benar memverifikasi kelayakannya: namanya ada dalam daftar resmi. Di Malaysia, setiap dokter, perawat, apoteker, dan fisioterapis harus terdaftar dengan badan pengatur profesi mereka. Kabar baiknya, Anda dapat memeriksanya sendiri, secara gratis.

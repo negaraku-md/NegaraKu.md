@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'マレー語、中国語、英語で書かれたマレーシアの禁煙標識（Dilarang Merokok／No Smoking）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアにおいて、一本のたばこと一台の電子タバコ（ベイプ）機器が初めて同じ法律の対象となった——そして未成年者への販売禁止は、もはや単なる方針ではなく、数千リンギットの過料が科される違反行為となった。

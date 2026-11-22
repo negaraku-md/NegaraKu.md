@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: '吉隆坡一座现代玻璃幕墙专科医院，前方有一列轻快铁列车经过。'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一个人可以穿上白大褂、在诊所墙上挂满证书，并自称"医生"——但真正能证明其资格的只有一件事：他的名字确实存在于官方注册名册中。在马来西亚，每一位医生、护士、药剂师和物理治疗师都必须向其专业的监管机构注册。好消息是，您可以自己免费查询。

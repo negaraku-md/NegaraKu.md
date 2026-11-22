@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: '말레이어, 중국어, 영어로 쓰인 말레이시아의 금연 표지판(Dilarang Merokok／No Smoking).'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 처음으로 담배 한 개비와 베이프 기기가 같은 법의 적용을 받게 되었습니다 — 그리고 미성년자에게 판매하는 것은 더 이상 단순한 정책이 아니라 수천 링깃의 벌금을 물 수 있는 범죄가 되었습니다.

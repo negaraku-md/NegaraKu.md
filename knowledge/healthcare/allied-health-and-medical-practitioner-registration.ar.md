@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["تسجيل الأطباء", "pendaftaran doktor", "MMC", "MeRITS", "APC", "مجلس التمريض الماليزي", "Lembaga Jururawat Malaysia", "مجلس الصيدلة في ماليزيا", "Lembaga Farmasi Malaysia", "MAHPC", "قانون مهن الصحة المساندة 2016", "Allied Health Professions Act 2016", "العلاج الطبيعي"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'مستشفى تخصّصي حديث مكسوّ بالزجاج في كوالالمبور مع قطار خفيف يمرّ أمامه.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يستطيع شخص أن يرتدي معطفًا أبيض، ويعلّق شهادة على جدار العيادة، ويسمّي نفسه «طبيبًا» — لكن شيئًا واحدًا فقط يؤكّد مؤهلاته حقًّا: ظهور اسمه في السجل الرسمي. ففي ماليزيا، يجب على كل طبيب وممرض وصيدلي وأخصائي علاج طبيعي أن يكون مسجَّلًا لدى الجهة التي تنظّم مهنته. والخبر السار أنه يمكنك التحقق من ذلك بنفسك، مجانًا.

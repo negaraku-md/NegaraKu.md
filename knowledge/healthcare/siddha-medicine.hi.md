@@ -79,6 +79,13 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: 'तैयार किया जा रहा एक लेह्यम (लेकियम) हर्बल मिश्रण, सिद्ध पद्धति की एक पारंपरिक औषधि।'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया की पुरानी बागान-भूमियों में, और शहरों की तमिल गलियों में, आपको एक जड़ी-बूटी की दुकान मिल सकती है — सूखी जड़ी-बूटियाँ, चूर्ण (choornam) और तेल अलमारियों पर पंक्तिबद्ध सजे हुए। ये संयोग नहीं हैं; ये डेढ़ सदी से भी अधिक पुरानी एक चिकित्सा परंपरा के अवशेष हैं।

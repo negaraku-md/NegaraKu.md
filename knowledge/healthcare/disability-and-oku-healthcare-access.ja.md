@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'マレーシア・ジョホール州の障害リハビリテーションセンターにある、アクセシビリティ記号が付いたプラットフォーム式車椅子リフト。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一枚のプラスチックカードが、自閉症の子どもが早期療育を受けられるかどうか、あるいは脚を失った大人が義足を手にできるかどうかを左右する。マレーシアでは、このOKUカードこそが、障害者（Orang Kurang Upaya、OKU）のために設計されたほぼすべてのサービスと援助への入り口であり——その仕組みを理解することが、時間、費用、そして治療の遅れを防ぐことにつながる。

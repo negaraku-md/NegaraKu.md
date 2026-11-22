@@ -77,6 +77,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'Mặt tiền đường phố của một phòng khám nha khoa Malaysia, Klinik Pergigian Yap, với bảng hiệu liệt kê các dịch vụ nha khoa.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Nhiều người cho rằng «phòng khám nha khoa» chỉ là một thứ — nơi để trám răng sâu hoặc nhổ răng khôn. Nhưng ở Malaysia, chăm sóc nha khoa thực ra chạy trên hai đường ray riêng biệt: một do chính phủ điều hành qua Bộ Y tế Malaysia (KKM), một do khu vực tư nhân — và phạm vi điều trị giữa hai bên không giống nhau.

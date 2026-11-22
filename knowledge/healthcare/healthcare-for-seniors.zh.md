@@ -70,6 +70,13 @@ related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
 sourceContentHash: "f10aac9439fe1e51"
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: '马来西亚一家养老院（Rumah Warga Emas）的带门入口和建筑。'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 那一刻通常悄然而至。一位原本一直能自己照顾自己的父母，开始忘记炉灶还开着，

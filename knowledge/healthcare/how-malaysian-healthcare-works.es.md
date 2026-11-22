@@ -88,6 +88,13 @@ stayFacts:
   cost: 'Piensa en términos de estructura, no de cifras fijas: la atención pública está fuertemente subvencionada para los ciudadanos y residentes permanentes, mientras que los extranjeros pagan sustancialmente más según la lista de tarifas para no ciudadanos, y la atención privada se paga de bolsillo o a través de un seguro, a lo que cobre la instalación. Los importes exactos en ringgit se fijan conforme a la Fees (Medical) Order y se revisan periódicamente, así que confirma las tarifas vigentes con la orden publicada del MOH o directamente con el proveedor antes de fiarte de cualquier cifra citada.'
   watch: 'Las subvenciones para ciudadanos no te alcanzan como extranjero — PeKa B40, MySalam y la lista de tarifas para ciudadanos están ligadas a la ciudadanía o a la condición de beneficiario de ayuda en efectivo B40, así que cuenta con un seguro privado (y ten en cuenta que los trabajadores extranjeros documentados deben tener el seguro de hospitalización SPIKPA para renovar un permiso de trabajo, gestionado por el empleador).'
   next: 'Averigua en qué categoría caes (trabajador extranjero, expatriado o visitante) y organiza la cobertura adecuada antes de fiarte de cualquier programa local. Para los detalles, consulta las guías afines El seguro médico en Malasia, Los hospitales privados y sus costes, y Klinik Kesihatan.'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'El exterior del complejo de especialistas y tratamiento de día del Hospital Kuala Lumpur, un hospital público malasio, con el emblema de la media luna roja.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un jubilado malasio con dolor en el pecho llama a una ambulancia y es llevado al hospital gubernamental más cercano, donde un cardiólogo lo atiende por una tarifa que cubre una fracción del coste real. Su vecino, titular de un permiso de trabajo procedente de Indonesia y con los mismos síntomas, es llevado al servicio de urgencias del mismo hospital — pero la factura que sigue se calcula con una lista de tarifas completamente distinta, porque ellos dos no son, a ojos del ministerio, el mismo tipo de paciente.

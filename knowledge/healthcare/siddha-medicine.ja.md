@@ -79,6 +79,13 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: '調製中の lehyam（lekiyam）という生薬の練り菓子で、シッダ（Siddha）医学の伝統薬である。'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの古いプランテーションの土地や、町なかのタミル人の街路では、薬草店を見かけることができます——乾燥させた薬草、散剤（choornam）、油が棚にずらりと並んでいます。これらは偶然ではありません。一世紀半を超える医学の伝統が残した痕跡です。

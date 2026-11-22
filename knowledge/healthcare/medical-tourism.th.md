@@ -74,6 +74,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'ภายนอกของ Prince Court Medical Centre ในกัวลาลัมเปอร์ โรงพยาบาลเอกชนชั้นนำของมาเลเซียที่ให้บริการนักท่องเที่ยวเชิงการแพทย์'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ครอบครัวจากจาการ์ตาบินมาเพื่อการผ่าตัดบายพาสหัวใจของพ่อ คู่สามีภรรยาชาวอังกฤษจอง IVF เพราะรายการรอที่บ้านยาวเกินกรอบเวลาภาวะเจริญพันธุ์ของพวกเขา ผู้ป่วยชาวบังกลาเทศมาเพื่อการตรวจสุขภาพตามปกติที่คลินิกในบ้านเกิดของเขาทำไม่ได้

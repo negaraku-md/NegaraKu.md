@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'Một thông báo mã QR check-in MySejahtera được in tại một cửa hàng ở Malaysia, một phần của nền tảng y tế số của Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Nhiều người xóa MySejahtera khỏi điện thoại khi đại dịch lắng xuống — nhưng ứng dụng đó không biến mất. Nó chỉ đổi công việc.

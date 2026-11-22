@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'மலேசியா, ஜொகூரில் உள்ள ஒரு ஊனமுற்றோர் மறுவாழ்வு மையத்தில் அணுகல் சின்னத்துடன் குறிக்கப்பட்ட ஒரு தளம் சக்கர நாற்காலி தூக்கி.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு பிளாஸ்டிக் அட்டை, ஆட்டிசம் உள்ள ஒரு குழந்தை ஆரம்ப சிகிச்சையைப் பெறுகிறாரா, அல்லது ஒரு காலை இழந்த ஒரு பெரியவர் செயற்கைக் காலை வாங்க முடியுமா என்பதைத் தீர்மானிக்கிறது. மலேசியாவில், அந்த OKU அட்டைதான் இயலாமை உள்ளவர்களுக்காக வடிவமைக்கப்பட்ட ஏறக்குறைய ஒவ்வொரு சேவைக்கும் உதவி வடிவத்திற்கும் நுழைவாயில் — அது எவ்வாறு செயல்படுகிறது என்பதைப் புரிந்துகொள்வது நேரம், பணம் மற்றும் தாமதமான சிகிச்சையைச் சேமிக்கிறது.

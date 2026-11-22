@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: '一栋鲜红色的传统店屋，内设一家马来西亚药房（farmasi），位于镇上街角。'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一小瓶疫苗可能含有少量作为稳定剂的明胶——正是从这一细微之处，衍生出马来西亚穆斯林家庭最常提出的宗教疑问之一：它清真吗？答案并非简单的『是』或『否』，而是一套有组织的评估过程的结果，其中涉及法特瓦机构、科学研究，以及若干特定的伊斯兰教法学（fiqh）原则。

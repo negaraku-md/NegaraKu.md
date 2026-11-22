@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["télémédecine Malaisie", "médecin en ligne", "téléconsultation", "DoctorOnCall", "directive MMC", "ordonnance électronique", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'Un médecin à un poste de travail de télémédecine examinant un patient à distance sur un écran vidéo à côté de moniteurs de diagnostic.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vous ouvrez une application, vous passez un appel vidéo avec un médecin depuis votre canapé, et une ordonnance arrive dans votre boîte de réception une heure plus tard. En Malaisie, c'est tout à fait légal — mais le cadre réglementaire qui le sous-tend n'est pas la loi à laquelle vous pourriez vous attendre.

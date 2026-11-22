@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "فيروس نقص المناعة البشرية", "الإيدز", "فحص HIV", "ujian HIV", "PrEP", "PEP", "ART", "الصحة الجنسية", "Majlis AIDS Malaysia", "وزارة الصحة"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'شريط توعية أحمر، وهو الرمز الدولي للتوعية بفيروس نقص المناعة البشرية/الإيدز، على خلفية بيضاء سادة.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يمكن لشخص قلق بعد ليلة محفوفة بالمخاطر أن يدخل عيادة صحية حكومية (Klinik Kesihatan) في ماليزيا، ويُجري فحص HIV مجانًا وبسرّية، و— عند الحاجة — يعود إلى بيته بدواء وقائي خلال ساعات قليلة. ومع ذلك فإن هذا المسار نفسه يتقاطع أيضًا مع مسائل السرّية والقانون والدين والوصم التي تجعل HIV واحدًا من أكثر الموضوعات الصحية حساسية في البلاد.

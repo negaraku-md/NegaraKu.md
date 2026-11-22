@@ -77,6 +77,13 @@ keywords:
   - "Dental Act 2018"
   - "البحث عن عيادات الأسنان الحكومية"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'واجهة عيادة أسنان ماليزية، كلينيك بيرغيغيان ياب، مع لافتة تسرد خدمات طبّ الأسنان.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يفترض كثيرون أن «عيادة الأسنان» شيء واحد — مكان لحشو سنّ مسوّس أو خلع ضرس العقل. لكن في ماليزيا، تسير رعاية الأسنان في الواقع على مسارين منفصلين: أحدهما تديره الحكومة عبر وزارة الصحة الماليزية (KKM)، والآخر يديره القطاع الخاص — ونطاق العلاج بين الاثنين ليس واحداً.

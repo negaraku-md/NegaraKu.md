@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Act 852", "धूम्रपान नियंत्रण", "सिगरेट इलेक्ट्रॉनिक", "vape", "तंबाकू", "निकोटीन", "धूम्रपान की न्यूनतम आयु", "generational endgame", "धूम्रपान निषेध क्षेत्र"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'मलेशिया में मलय, चीनी और अंग्रेज़ी में (Dilarang Merokok / No Smoking) एक धूम्रपान-निषेध चिह्न।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 पहली बार, मलेशिया में एक सिगरेट और एक वेप उपकरण एक ही कानून के अधीन हैं — और किशोरों को बेचने पर प्रतिबंध अब महज़ एक नीति नहीं रह गया, बल्कि एक अपराध बन गया है जिसके लिए हज़ारों रिंगिट के जुर्माने की सज़ा है।

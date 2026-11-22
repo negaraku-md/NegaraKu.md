@@ -62,6 +62,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'Exterior of the maternity block (Hospital Bersalin) of Hospital Kuala Lumpur, with the city skyline behind'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 A positive pregnancy test starts two clocks at once, and almost nobody explains that up front. One clock is about the pregnancy itself — when to register, where, what happens at each visit. The other only starts after the baby arrives, and it has nothing to do with hospitals: it's a legal registration with a completely different department.

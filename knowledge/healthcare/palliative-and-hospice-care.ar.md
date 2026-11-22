@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["الرعاية التلطيفية", "رعاية المحتضرين", "Hospis Malaysia", "رعاية نهاية الحياة", "الرعاية المنزلية", "KKM", "palliative care", "hospice"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'لافتة على مدخل غرفة في مستشفى كُتب عليها "Palliative Medicine Family Conference Room"، وهي تمثيل محايد وغير مصوّر للرعاية التلطيفية.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 عندما لا يعود العلاج يهدف إلى الشفاء، يتحوّل التركيز إلى أمر واحد: إبقاء المريض مرتاحاً ومحفوظ الكرامة. هذا هو جوهر الرعاية التلطيفية — وفي ماليزيا، يمكن الوصول إليها عبر ثلاث قنوات مختلفة.

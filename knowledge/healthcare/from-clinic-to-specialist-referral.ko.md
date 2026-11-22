@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'Hospital Kuala Lumpur의 전문·주간진료 복합동(Kompleks Pakar dan Rawatan Harian) 외관으로, 적신월이 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 의뢰는 누구에게나 진료의 전환점입니다. 담당 의사가 당신의 문제에 전문의가 필요하다고 판단했거나 — 또는 권유했고 — 그 순간 당신은 의료 체계의 다른 영역을 헤쳐 나가게 됩니다. 이 글은 바로 그 지점에서 시작합니다. 이 글은 당신에게 전문의가 필요한지 **알려주지 않습니다**. 그 판단은 담당 임상의의 몫입니다. 이 글이 하는 일은 **말레이시아에서 의뢰가 실제로 어떻게 작동하는지, 그리고 무엇을 준비해야 하는지** 설명하여, 클리닉에서 전문의로의 인계가 가능한 한 매끄러워지도록 돕는 것입니다.

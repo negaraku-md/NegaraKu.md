@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'ริบบิ้นสีแดงเพื่อการรณรงค์บนพื้นหลังสีขาวล้วน ซึ่งเป็นสัญลักษณ์สากลของการรณรงค์เรื่อง HIV/AIDS'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ผู้ที่กังวลหลังจากคืนที่มีความเสี่ยงสามารถเดินเข้าไปในคลินิกสุขภาพของรัฐในมาเลเซีย ตรวจ HIV ได้ฟรีและเป็นความลับ และ — หากจำเป็น — กลับบ้านพร้อมยาป้องกันภายในไม่กี่ชั่วโมง อย่างไรก็ตาม เส้นทางเดียวกันนั้นก็ตัดกับประเด็นการรักษาความลับ กฎหมาย ศาสนา และการตีตรา ที่ทำให้ HIV เป็นหนึ่งในหัวข้อสุขภาพที่ละเอียดอ่อนที่สุดในประเทศ

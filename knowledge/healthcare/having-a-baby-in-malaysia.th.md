@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'ภายนอกของอาคารแผนกคลอด (Hospital Bersalin) ของ Hospital Kuala Lumpur โดยมีเส้นขอบฟ้าของเมืองอยู่ด้านหลัง'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ผลการทดสอบการตั้งครรภ์ที่เป็นบวกเริ่มเดินนาฬิกาสองเรือนพร้อมกัน และแทบไม่มีใครอธิบายเรื่องนี้ตั้งแต่แรก นาฬิกาเรือนหนึ่งเกี่ยวกับการตั้งครรภ์เอง — เมื่อใดที่ต้องลงทะเบียน ที่ไหน เกิดอะไรขึ้นในการมาแต่ละครั้ง อีกเรือนหนึ่งเริ่มเดินหลังจากทารกมาถึงแล้ว และไม่เกี่ยวข้องกับโรงพยาบาลเลย คือ การจดทะเบียนทางกฎหมายกับหน่วยงานที่แตกต่างกันโดยสิ้นเชิง

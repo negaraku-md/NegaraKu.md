@@ -74,6 +74,13 @@ faq:
   - q: Một hợp đồng bảo hiểm y tế 'không đồng chi trả (no co-payment)' có tự động tốt hơn hợp đồng có đồng chi trả không?
     a: Không hẳn — bài viết liệt kê đây là một sai lầm phổ biến. Gói không đồng chi trả có phí bảo hiểm cao hơn cho cùng các hạn mức quyền lợi. Theo cơ chế đồng chi trả (co-payment), bạn đồng ý trước việc gánh một phần xác định của mỗi hóa đơn bệnh viện đủ điều kiện để đổi lấy phí bảo hiểm thấp hơn. Việc đánh đổi đó có đáng hay không phụ thuộc vào việc bạn có thể tự chi trả bao nhiêu trong hóa đơn; hãy kiểm tra bản công bố thông tin sản phẩm (product disclosure sheet) để biết tỷ lệ phần trăm, bất kỳ mức trần nào, và các khoản điều trị được miễn trừ.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Cổng vào một khu nội trú tại một bệnh viện của chính phủ Malaysia, một bối cảnh chăm sóc y tế trung tính.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hai người lao động bước vào cùng một bệnh viện tư với cùng một cánh tay gãy. Một người đưa ra một tấm thẻ và ra về mà không trả một sen nào khi xuất viện. Người kia tự trả một phần hóa đơn, bởi hợp đồng cô mua sáu tháng trước rẻ hơn chính vì lý do đó.

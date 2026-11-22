@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: '纯白背景上一条红色的意识丝带，这是 HIV／AIDS 意识的国际象征。'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一个在高风险的一夜之后感到担忧的人，可以走进马来西亚的一家政府卫生诊所，免费且保密地进行艾滋病毒检测，并且——如有需要——在数小时内带着预防药物回家。然而这条路同样与保密、法律、宗教和污名化的问题相交织，使艾滋病毒成为这个国家最敏感的健康话题之一。

@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'อาคารกระทรวงสาธารณสุขมาเลเซียกรุกระจกสมัยใหม่ในปุตราจายา ประดับด้วยธงชาติมาเลเซียผืนใหญ่'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 คลินิกของรัฐรองรับการมาตรวจของผู้ป่วยนอกเกือบสองในสามของประเทศ — แต่คิดเป็นเพียงราวหนึ่งในสี่ของสถานพยาบาลปฐมภูมิ ความไม่สมดุลนี้เอง เป็นต้น ที่ผลักดันให้กระทรวงสาธารณสุขมาเลเซีย (KKM) เขียนเอกสารนโยบายที่สำคัญที่สุดในหนึ่งชั่วอายุคน คือ สมุดปกขาวด้านสุขภาพ

@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["telemedicina Malasia", "médico en línea", "teleconsulta", "DoctorOnCall", "directriz MMC", "receta electrónica", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'Un médico en una estación de trabajo de telemedicina revisando a un paciente remoto en una pantalla de vídeo junto a monitores de diagnóstico.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Abre una app, hace una videollamada con un médico desde su sofá y una hora más tarde una receta aparece en su bandeja de entrada. En Malasia eso es totalmente legal — pero el reglamento que lo respalda no es la ley que usted esperaría.

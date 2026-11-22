@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'ป้ายหน้าร้านของร้านยาแผนโบราณและสุขภาพในมาเลเซีย ซึ่งแทนการแพทย์ทางเลือกและแผนโบราณ'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ตั้งแต่วันที่ 1 มีนาคม 2025 หมอนวดแผนดั้งเดิม ผู้ประกอบวิชาชีพการแพทย์แผนจีน นักโฮมีโอพาธี และไคโรแพรกเตอร์ในมาเลเซียไม่สามารถเปิดประตูคลินิกได้อีกต่อไปโดยไม่มีเอกสารหนึ่งฉบับ — ใบรับรองการขึ้นทะเบียน ยุคของ "การประกอบวิชาชีพในนามของประสบการณ์" สิ้นสุดลงแล้ว

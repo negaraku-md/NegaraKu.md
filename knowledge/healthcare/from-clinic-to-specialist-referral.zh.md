@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'Hospital Kuala Lumpur 的专科与日间护理大楼（Kompleks Pakar dan Rawatan Harian）外观，设有红新月。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 转介是任何人就医过程中的一个转折时刻：你的医生已经判定——或建议——你的问题需要专科，于是你突然要在医疗系统的另一个部分里寻路。本指南正是从这里接手。它**不会**告诉你是否需要看专科；那个判断属于你的临床医生。它所做的，是解释**在马来西亚转介究竟如何运作，以及需要准备什么**，好让从诊所到专科的交接尽可能顺畅。

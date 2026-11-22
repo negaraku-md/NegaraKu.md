@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'A modern glass-clad specialist hospital in Kuala Lumpur with a light-rail train passing in front'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Someone can put on a white coat, hang a certificate on the clinic wall, and call themselves a "doctor" — but only one thing truly confirms their credentials: their name appearing in the official register. In Malaysia, every doctor, nurse, pharmacist and physiotherapist must be registered with the body that regulates their profession. The good news is that you can check this yourself, for free.

@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Exterior of Klinik Kesihatan Nilai, a Malaysian government health clinic with Ministry of Health signage and red crescent'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Many assume that abortion is entirely prohibited in Malaysia — in reality, the law places it in a more complicated space: a criminal offence with one important medical exception. Understanding where that line is drawn requires us to read the actual text of the Penal Code, not general impressions.

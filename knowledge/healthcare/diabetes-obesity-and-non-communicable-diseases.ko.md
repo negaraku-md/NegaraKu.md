@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Klinik Kesihatan Sungai-Sungai 외관으로, 말레이시아와 사바주 깃발, 구급차가 있는 말레이시아 농촌 정부 보건 클리닉이다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 오늘날 말레이시아 성인의 절반 이상이 수명을 단축할 수 있는 체중을 지니고 있습니다 — 그리고 여섯 명 중 한 명은 이미 당뇨병과 함께 살고 있으며, 많은 이가 그것을 알지 못합니다. 이것은 어떤 감염병보다도 병원, 가정, 국가 경제를 훨씬 무겁게 짓누르는 조용한 유행병입니다.

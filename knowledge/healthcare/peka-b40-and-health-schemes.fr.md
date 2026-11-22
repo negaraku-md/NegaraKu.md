@@ -66,6 +66,13 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'Une clinique de santé publique malaisienne moderne avec une salle d''attente extérieure, le type de Klinik Kesihatan où est réalisé le dépistage du régime de santé B40.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Beaucoup de gens ont entendu le nom « PeKa B40 », mais les suppositions à son sujet varient énormément — certains pensent qu'il couvre tous les frais hospitaliers, d'autres le confondent avec mySalam, et d'autres l'ignorent complètement parce qu'ils croient qu'une demande distincte est nécessaire. Ces trois suppositions sont erronées. PeKa B40 a une portée claire et limitée — et connaître cette portée, c'est savoir quand l'utiliser et quand chercher une autre aide.

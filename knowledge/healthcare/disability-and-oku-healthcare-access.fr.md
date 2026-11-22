@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "carte OKU", "soins de santé OKU", "PDK", "réadaptation à base communautaire", "dispositifs d'assistance", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'Un élévateur à plateforme pour fauteuil roulant marqué d''un symbole d''accessibilité dans un centre de réadaptation pour personnes handicapées à Johor, Malaisie.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Une seule carte en plastique détermine si un enfant autiste bénéficie d'une thérapie précoce, ou si un adulte ayant perdu une jambe peut se payer une prothèse. En Malaisie, cette carte OKU est la porte d'entrée vers presque tous les services et toutes les formes d'aide conçus pour les personnes en situation de handicap — et comprendre son fonctionnement fait gagner du temps, de l'argent et évite des soins retardés.

@@ -73,6 +73,13 @@ faq:
   - q: “无共付额”的医疗保单是否自动比有共付额的更好？
     a: 未必——文章将此列为一个常见的误区。在相同的保障限额下，无共付额的计划保费更高。在共付额（co-payment）安排下，你预先同意为每一张符合条件的住院账单承担一定比例，以换取更低的保费。这种取舍是否值得，取决于你自己能够承担账单的多少；请查阅产品披露单（product disclosure sheet），了解百分比、任何上限以及被排除的治疗项目。
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: '马来西亚一所政府医院住院病房的入口大门，是一处中性的医疗护理场景。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 两名雇员因为同样的手臂骨折走进同一家私人医院。一人递出一张卡，出院时分文未付就离开了。另一人自己支付了账单的一部分，因为她六个月前买的那份保单，正是为了这个理由而更便宜。

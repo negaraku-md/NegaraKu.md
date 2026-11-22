@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'ஒரு பெரிய மலேசியக் கொடியால் அலங்கரிக்கப்பட்ட, புத்ராஜெயாவில் உள்ள நவீன கண்ணாடி முகப்பு கொண்ட மலேசிய சுகாதார அமைச்சக் கட்டிடம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 அரசாங்க கிளினிக்குகள் நாட்டின் வெளிநோயாளர் வருகைகளில் கிட்டத்தட்ட மூன்றில் இரண்டு பங்கைச் சமாளிக்கின்றன — ஆனால் அவை முதன்மைப் பராமரிப்பு வசதிகளில் சுமார் நான்கில் ஒரு பங்கை மட்டுமே பிரதிநிதித்துவப்படுத்துகின்றன. இந்தச் சமநிலையின்மையே, மற்றவற்றுடன், ஒரு தலைமுறையில் மிக முக்கியமான கொள்கை ஆவணத்தை — சுகாதார வெள்ளை அறிக்கையை (Health White Paper) — எழுத மலேசிய சுகாதார அமைச்சை (Ministry of Health, KKM) தூண்டியது.

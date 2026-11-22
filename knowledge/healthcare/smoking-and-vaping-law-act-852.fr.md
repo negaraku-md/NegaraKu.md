@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Act 852", "contrôle du tabac", "vape", "tabac", "nicotine", "âge minimum pour fumer", "generational endgame", "zone d'interdiction de fumer"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'Un panneau d''interdiction de fumer en malais, chinois et anglais (Dilarang Merokok / No Smoking) en Malaisie.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pour la première fois, une cigarette et un dispositif de vapotage sont soumis à la même loi en Malaisie — et l'interdiction de vendre à des adolescents n'est plus une simple politique, mais une infraction passible de milliers de ringgit d'amende.

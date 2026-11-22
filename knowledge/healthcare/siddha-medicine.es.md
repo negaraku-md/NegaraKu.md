@@ -79,6 +79,13 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: 'Una confección herbal de lehyam (lekiyam) en preparación, un medicamento tradicional del sistema siddha.'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En las antiguas tierras de plantación de Malasia, y en las calles tamiles de sus ciudades, se puede encontrar una tienda de hierbas: hierbas secas, polvos (choornam) y aceites alineados en hileras en sus estantes. No son fruto del azar; son las huellas de una tradición médica de más de siglo y medio.

@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["médecine traditionnelle", "MT&C", "Act 775", "MTC", "chiropraxie", "homéopathie", "enregistrement des praticiens", "Conseil de MT&C"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'L''enseigne de la devanture d''un magasin malaisien de médecine traditionnelle et de santé, représentant la pratique de la médecine traditionnelle et complémentaire.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Depuis le 1er mars 2025, les masseurs traditionnels, les praticiens de la médecine chinoise, les homéopathes et les chiropraticiens de Malaisie ne peuvent plus ouvrir les portes de leur clinique sans un seul document — un certificat d'enregistrement. L'ère de « l'exercice au nom de l'expérience » est révolue.

@@ -81,6 +81,13 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'Une affiche de la Journée mondiale de la santé mentale avec le ruban vert de sensibilisation et un message pour mettre fin à la stigmatisation, un symbole de santé publique respectueux de la santé mentale.'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Décider de demander de l'aide est souvent la partie la plus difficile. Trouver *où* la demander est la partie que presque personne n'explique — et ce seul vide empêche des gens d'aller jusqu'à passer l'appel.

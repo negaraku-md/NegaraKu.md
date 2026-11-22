@@ -65,6 +65,13 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'வெளிப்புற காத்திருப்பு பகுதியுடன் கூடிய ஒரு நவீன மலேசிய அரசு சுகாதார கிளினிக், இது B40 சுகாதாரத் திட்ட பரிசோதனை வழங்கப்படும் வகை கிளினிக் கெசிஹாத்தான்.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பலரும் “PeKa B40” என்ற பெயரைக் கேள்விப்பட்டிருக்கிறார்கள், ஆனால் அதைப் பற்றிய

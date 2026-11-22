@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'வெறும் வெள்ளைப் பின்னணியில், HIV/AIDS விழிப்புணர்வின் சர்வதேச சின்னமான ஒரு சிவப்பு விழிப்புணர்வு ரிப்பன்.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் ஆபத்தான ஒரு இரவுக்குப் பிறகு கவலைப்படும் ஒருவர், ஒரு அரசாங்க Klinik Kesihatan-க்குள் நடந்து சென்று, இலவசமாகவும் இரகசியமாகவும் HIV பரிசோதனை செய்துகொண்டு — தேவைப்பட்டால் — சில மணி நேரங்களுக்குள் தடுப்பு மருந்துடன் வீடு திரும்பலாம். இருப்பினும் அதே பாதை, HIV-ஐ நாட்டின் மிக உணர்திறன் வாய்ந்த சுகாதார தலைப்புகளில் ஒன்றாக மாற்றும் இரகசியத்தன்மை, சட்டம், மதம் மற்றும் களங்கம் தொடர்பான கேள்விகளுடனும் குறுக்கிடுகிறது.

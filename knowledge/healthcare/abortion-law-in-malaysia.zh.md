@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Klinik Kesihatan Nilai 外观，这是一所马来西亚政府卫生诊所，设有卫生部标志和红新月。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 许多人以为堕胎在马来西亚完全被禁止——事实上，法律将它置于一个更为复杂的空间：一项刑事罪行，附带一项重要的医疗例外。要理解这条界线划在哪里，我们必须阅读《刑事法典》的实际条文，而非笼统的印象。

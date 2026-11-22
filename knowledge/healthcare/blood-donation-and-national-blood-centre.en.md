@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'A Malaysian blood donor seated in a donation chair beside a smiling nurse holding a filled blood bag'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 According to PDN, a single blood donation can save at least three lives — because whole blood is processed into red blood cells, platelets and plasma for different patients.

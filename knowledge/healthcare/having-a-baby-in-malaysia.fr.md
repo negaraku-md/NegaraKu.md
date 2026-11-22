@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["avoir un bébé en Malaisie", "grossesse Malaisie", "soins prénatals Malaisie", "Livre rose grossesse", "Rekod Kesihatan Ibu", "klinik kesihatan enceinte", "accouchement public vs privé Malaisie", "enregistrement de naissance JPN", "maternité Malaisie", "accouchement hôpital public Malaisie"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'L''extérieur du bloc de maternité (Hospital Bersalin) de l''Hospital Kuala Lumpur, avec la ligne d''horizon de la ville en arrière-plan.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un test de grossesse positif met en route deux horloges à la fois, et presque personne ne l'explique à l'avance. Une horloge concerne la grossesse elle-même : quand s'enregistrer, où, ce qui se passe à chaque visite. L'autre ne démarre qu'à l'arrivée du bébé, et n'a rien à voir avec les hôpitaux : il s'agit d'un enregistrement légal auprès d'un département complètement différent.

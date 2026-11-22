@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'இடைவெளி விடப்பட்ட இருக்கை வரிசைகள் மற்றும் வரிசையில் நிற்கும் மக்களுடன், மலேசியாவில் ஒரு பெரிய கோவிட்-19 தடுப்பூசி மையத்தின் மண்டபம்.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 18 மார்ச் 2020 அன்று, COVID-19 பரவலைத் தடுப்பதற்கான விரிவான இயக்கக் கட்டுப்பாட்டுடன் நாடு தனது நவீன வரலாற்றில் இதுவரை அனுபவிக்காத ஒரு கட்டத்தில் நுழைந்தபோது, மலேசியா முழுவதும் சாலைகள் வெறிச்சோடின. அடுத்த சுமார் இரண்டு ஆண்டுகளில், நாட்டின் பொது சுகாதார பதிலிறுப்பு விரிவான முடக்கத்திலிருந்து இப்பகுதியில் மிக வேகமான தடுப்பூசித் திட்டங்களில் ஒன்றாக வளர்ந்தது — மேலும் இன்றுவரை சுகாதார அமைப்பை வடிவமைத்துக்கொண்டிருக்கும் ஒரு தாக்கத்தை விட்டுச் சென்றது.

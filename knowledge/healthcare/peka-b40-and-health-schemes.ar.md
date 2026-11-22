@@ -65,6 +65,13 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "برنامج صحة B40", "mySalam", "صحة المنحة النقدية رحمة", "المساعدة الصحية B40 ماليزيا", "ProtectHealth", "برنامج الرعاية الصحية", "حافز علاج السرطان B40", "التحقق من أهلية PeKa B40", "B40 health scheme"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'عيادة صحية حكومية ماليزية حديثة بمنطقة انتظار خارجية، من نوع عيادات كلينيك كيسيهاتان حيث يُقدَّم الفحص ضمن برنامج صحة فئة B40.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 سمع كثيرون اسم «PeKa B40»، لكن التصورات عنه تتباين تبايناً واسعاً — فبعضهم يظن أنه يغطّي جميع تكاليف المستشفى، وبعضهم يخلط بينه وبين mySalam، وبعضهم يتجاهله تماماً لاعتقاده أنه يحتاج إلى طلب منفصل. والتصورات الثلاثة جميعها خاطئة. فلـ PeKa B40 نطاق واضح ومحدود — ومعرفة ذلك النطاق تعني معرفة متى تستخدمه، ومتى تبحث عن مساعدة أخرى.

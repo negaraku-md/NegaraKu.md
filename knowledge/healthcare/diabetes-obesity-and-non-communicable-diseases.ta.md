@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'மலேசிய மற்றும் சபா கொடிகள் மற்றும் ஒரு ஆம்புலன்ஸுடன், கிராமப்புற மலேசிய அரசு சுகாதார கிளினிக்கான கிளினிக் கெசிஹாத்தான் சுங்கை-சுங்கையின் வெளிப்புறம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் வயது வந்தோரில் பாதிக்கும் மேற்பட்டோர் இன்று தமது ஆயுளைக் குறைக்கக்கூடிய எடையைச் சுமந்து செல்கின்றனர் — ஆறு பேரில் ஒருவர் ஏற்கனவே நீரிழிவு நோயுடன் வாழ்கிறார், பலர் அதை உணராமலேயே. இது மருத்துவமனைகள், குடும்பங்கள் மற்றும் தேசிய பொருளாதாரத்தை எந்தவொரு தொற்று நோயையும் விட மிக அதிகமாகச் சுமையேற்றும் அமைதியான தொற்றுநோயாகும்.

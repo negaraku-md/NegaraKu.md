@@ -79,6 +79,13 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: 'Sebuah ramuan herbal lehyam (lekiyam) yang sedang disiapkan, sebuah obat tradisional sistem Siddha.'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Di lahan perkebunan tua Malaysia, dan di lorong-lorong Tamil di kota-kotanya, Anda bisa menjumpai sebuah toko herbal — herbal kering, serbuk (choornam), dan minyak tersusun berderet di raknya. Ini bukan suatu kebetulan; semuanya adalah jejak dari sebuah tradisi pengobatan yang berusia lebih dari satu setengah abad.

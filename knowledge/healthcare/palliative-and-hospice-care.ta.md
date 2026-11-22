@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: '"Palliative Medicine Family Conference Room" என்று எழுதப்பட்ட ஒரு மருத்துவமனை வாயில் அடையாளப் பலகை, இது தணிப்பு மருத்துவத்தின் நடுநிலையான, வெளிப்படையற்ற சித்தரிப்பு.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 சிகிச்சை இனி குணப்படுத்துவதை நோக்கமாகக் கொள்ளாதபோது, கவனம் ஒரே ஒரு விஷயத்தின் மீது திரும்புகிறது: நோயாளியை வசதியாகவும் கண்ணியத்துடனும் வைத்திருப்பது. அதுவே நோய்த்தணிப்பு பராமரிப்பின் சாராம்சம் — மேலும் மலேசியாவில், அதை மூன்று வெவ்வேறு வழிகள் மூலம் அணுக முடியும்.

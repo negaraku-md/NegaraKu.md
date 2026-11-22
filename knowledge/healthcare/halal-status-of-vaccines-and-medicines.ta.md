@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'ஒரு நகரத் தெரு மூலையில், மலேசிய மருந்தகம் (ஃபார்மசி) ஒன்று அமைந்துள்ள பிரகாசமான சிவப்பு பாரம்பரிய கடை-வீடு.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு தடுப்பூசிப் புட்டி நிலைப்படுத்தியாக (penstabil) சிறிதளவு ஜெலட்டின் (gelatine) கொண்டிருக்கலாம் — அந்தச் சிறிய விவரத்திலிருந்தே மலேசியாவில் முஸ்லிம் குடும்பங்கள் அடிக்கடி கேட்கும் மதம் சார்ந்த கேள்விகளில் ஒன்று எழுகிறது: அது ஹலாலா? பதில் வெறும் “ஆம்” அல்லது “இல்லை” என்பது அல்ல, மாறாக ஃபத்வா அமைப்புகள், அறிவியல் ஆய்வு மற்றும் சில குறிப்பிட்ட ஃபிக்ஹ் (fiqh) கொள்கைகளை உள்ளடக்கிய ஒரு கட்டமைக்கப்பட்ட மதிப்பீட்டு செயல்முறையின் விளைவாகும்.

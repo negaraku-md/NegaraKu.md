@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: '페낭 조지타운(George Town)의 한 중의약 가게 내부로, 라벨이 붙은 약재 서랍과 말린 약재가 있다.'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 많은 오래된 도시의 길모퉁이에는 늘 한약방이 하나 있다. 나무 장 벽에는 작은 약서랍이 빽빽이 늘어서 있고, 공기에는 당귀(当归), 진피(陈皮), 감초(甘草)가 뒤섞인 냄새가 감돈다. 계산대 뒤에서는 나이 든 선생이 손님의 어디가 불편한지 들으며 약재를 한 가지씩 종이에 달아 담아 한 봉지의 약으로 싸낸다. 이런 가게는 말레이시아 화인 사회에 백 년 넘게 존재해 왔다.

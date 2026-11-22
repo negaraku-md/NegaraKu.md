@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: '병원 출입구 표지판으로, 「Palliative Medicine Family Conference Room(완화의료 가족 상담실)」이라고 적힌, 완화 치료에 대한 중립적이고 비자극적인 묘사이다.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 치료가 더 이상 완치를 목표로 하지 않을 때, 초점은 한 가지로 옮겨 갑니다. 환자가 편안하고 존엄을 지키도록 하는 것입니다. 그것이 완화의료의 핵심이며 — 말레이시아에서는 세 가지 서로 다른 경로로 이용할 수 있습니다.

@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'ป้ายห้ามสูบบุหรี่ในมาเลเซียเขียนเป็นภาษามลายู จีน และอังกฤษ (Dilarang Merokok / No Smoking)'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เป็นครั้งแรก ที่บุหรี่หนึ่งมวนและอุปกรณ์บุหรี่ไฟฟ้าหนึ่งเครื่องอยู่ภายใต้กฎหมายเดียวกันในมาเลเซีย — และการห้ามขายให้แก่เยาวชนไม่ใช่เพียงนโยบายอีกต่อไป แต่เป็นความผิดที่สามารถถูกปรับได้หลายพันริงกิต

@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'ภายในร้านยาจีนแผนโบราณในย่านจอร์จทาวน์ ปีนัง มีลิ้นชักสมุนไพรติดป้ายกำกับและสมุนไพรยาแห้ง'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ที่หัวมุมถนนของเมืองเก่าหลายแห่ง มักมีร้านยาจีนอยู่เสมอ: ผนังตู้ไม้เรียงรายแน่นด้วยลิ้นชักใบเล็ก ๆ ในอากาศมีกลิ่นตังกุย (当归) ผิวส้มแห้ง (陈皮) และชะเอมเทศ (甘草) ปะปนกัน หลังเคาน์เตอร์ เจ้าของร้านสูงวัยฟังลูกค้าเล่าว่าไม่สบายตรงไหน พลางชั่งตัวยาทีละอย่างใส่กระดาษแล้วห่อเป็นห่อยาหนึ่งห่อ ร้านเช่นนี้มีอยู่ในชุมชนชาวจีนมาเลเซียมากว่าร้อยปี

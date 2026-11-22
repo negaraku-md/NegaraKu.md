@@ -77,6 +77,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'Exterior of the Kompleks Pakar dan Rawatan Harian (Specialist and Day Care Complex) at Hospital Kuala Lumpur, with a red crescent'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 A referral is a hinge moment in anyone's care: your doctor has decided — or suggested — that your problem needs a specialist, and suddenly you are navigating a different part of the health system. This guide picks up exactly there. It does **not** tell you whether you need a specialist; that judgement belongs to your clinician. What it does is explain **how referrals actually work in Malaysia, and what to prepare**, so the hand-over from clinic to specialist is as smooth as it can be.

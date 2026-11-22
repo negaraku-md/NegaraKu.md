@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["रक्तदान", "राष्ट्रीय रक्त केंद्र", "Pusat Darah Negara", "PDN", "रक्तदान की शर्तें", "दाता विशेषाधिकार", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'एक भरे हुए रक्त-थैले को थामे मुस्कुराती नर्स के बगल में दान-कुर्सी पर बैठा एक मलेशियाई रक्तदाता।'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 PDN के अनुसार, एक अकेला रक्तदान कम से कम तीन जीवन बचा सकता है — क्योंकि संपूर्ण रक्त को विभिन्न रोगियों के लिए लाल रक्त कोशिकाओं, प्लेटलेट्स और प्लाज़्मा में संसाधित किया जाता है।

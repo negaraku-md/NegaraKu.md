@@ -79,6 +79,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "मलेशिया आपातकालीन एम्बुलेंस", "आपातकालीन विभाग", "लाल पीला हरा ज़ोन ट्राइएज", "मुफ़्त एम्बुलेंस", "सरकारी अस्पताल आपातकालीन शुल्क", "emergency"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'एक राजमार्ग पर ''Ambulans'' और 999 आपातकालीन नंबर से चिह्नित एक मलेशिया स्वास्थ्य मंत्रालय की एम्बुलेंस।'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप 999 डायल करते हैं। दूसरे छोर पर मौजूद आवाज़ आपका नाम, स्थान और क्या हुआ, यह पूछती है — और लक्षित प्रतिक्रिया समय के भीतर, एक एम्बुलेंस दल पहले से ही रास्ते में होना चाहिए। लेकिन बहुत से लोग नहीं जानते कि उस कॉल के पीछे वास्तव में क्या होता है: वास्तव में कौन जवाब देता है, क्या यह मुफ़्त है, और क्यों कभी-कभी आपके बाद अस्पताल पहुँचे किसी अन्य रोगी का इलाज आपसे पहले होता है।

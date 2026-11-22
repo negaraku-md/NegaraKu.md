@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'A hospital doorway sign reading Palliative Medicine Family Conference Room, a neutral and non-graphic depiction of palliative care'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 When treatment is no longer aimed at curing, the focus shifts to one thing: keeping the patient comfortable and dignified. That is the essence of palliative care — and in Malaysia, it can be accessed through three different channels.

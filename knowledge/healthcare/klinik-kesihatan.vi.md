@@ -68,6 +68,13 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'Lối vào và bảng hiệu của Klinik Kesihatan Jalan Lanang, một phòng khám y tế cộng đồng của Bộ Y tế Malaysia, với cờ quốc gia và cờ bang.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sốt không hạ, con cần tiêm chủng, hay huyết áp cần được theo dõi hằng tháng — và câu hỏi đầu tiên nảy ra thường không phải "điều trị thế nào", mà là "nên đến phòng khám nào". Phòng khám tư nhanh nhưng đắt. Bệnh viện công thì đông đúc với những vấn đề nhỏ. Và bản thân "phòng khám nhà nước" thực ra không chỉ là một loại cơ sở — nhiều người không nhận ra Klinik Kesihatan, Klinik Komuniti và Klinik Pergigian là ba cơ sở riêng biệt dưới cùng một mái nhà.

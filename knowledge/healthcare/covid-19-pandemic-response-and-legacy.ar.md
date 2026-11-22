@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 ماليزيا", "أمر مراقبة الحركة", "MCO", "PICK", "التطعيم", "MySejahtera", "الورقة البيضاء للصحة", "الجائحة"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'قاعة مركز تطعيم كبير ضدّ كوفيد-19 في ماليزيا مع صفوف من المقاعد المتباعدة وأشخاص يصطفّون.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في 18 مارس 2020، خيّم الصمت على الطرقات في أنحاء ماليزيا حين دخلت البلاد مرحلةً لا تشبه أي شيء في تاريخها الحديث: تقييد شامل للحركة لكبح انتشار COVID-19. وعلى مدى نحو عامين تاليين، تطوّرت استجابة الصحة العامة في البلاد من إغلاق وطني شامل إلى واحد من أسرع برامج التطعيم في المنطقة — وتركت أثراً لا يزال يشكّل النظام الصحي حتى اليوم.

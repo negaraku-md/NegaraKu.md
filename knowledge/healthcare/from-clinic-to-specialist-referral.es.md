@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'El exterior del Kompleks Pakar dan Rawatan Harian (Complejo de Especialistas y Atención de Día) en el Hospital Kuala Lumpur, con una media luna roja.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Una derivación es un momento bisagra en la atención de cualquier persona: su médico ha decidido — o sugerido — que su problema necesita un especialista, y de repente usted está navegando por una parte distinta del sistema sanitario. Esta guía empieza justo ahí. **No** le dice si necesita un especialista; ese criterio corresponde a su médico. Lo que hace es explicar **cómo funcionan realmente las derivaciones en Malasia, y qué preparar**, para que el traspaso de la clínica al especialista sea lo más fluido posible.

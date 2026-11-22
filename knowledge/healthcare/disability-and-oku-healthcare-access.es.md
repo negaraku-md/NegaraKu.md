@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "tarjeta OKU", "atención sanitaria OKU", "PDK", "rehabilitación de base comunitaria", "dispositivos de apoyo", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'Un elevador de plataforma para sillas de ruedas marcado con un símbolo de accesibilidad en un centro de rehabilitación para personas con discapacidad en Johor, Malasia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Una sola tarjeta de plástico determina si un niño con autismo recibe terapia temprana, o si un adulto que ha perdido una pierna puede costearse una prótesis. En Malasia, esa tarjeta OKU es la puerta de entrada a casi todos los servicios y formas de ayuda diseñados para personas con discapacidad, y entender cómo funciona ahorra tiempo, dinero y tratamientos retrasados.

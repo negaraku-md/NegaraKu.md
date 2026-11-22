@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'लाल अर्धचंद्र के साथ, हॉस्पिटल कुआलालंपुर में कोम्प्लेक्स पाकार दान रावातन हारियान (विशेषज्ञ एवं दिवा-देखभाल परिसर) का बाहरी दृश्य।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 रेफ़रल किसी के भी इलाज में एक मोड़ का क्षण होता है: आपके डॉक्टर ने तय किया है — या सुझाया है — कि आपकी समस्या के लिए किसी विशेषज्ञ की ज़रूरत है, और अचानक आप स्वास्थ्य प्रणाली के एक अलग हिस्से में रास्ता तलाश रहे होते हैं। यह मार्गदर्शिका ठीक यहीं से शुरू होती है। यह आपको **नहीं** बताती कि आपको विशेषज्ञ की ज़रूरत है या नहीं; वह निर्णय आपके चिकित्सक का है। यह जो करती है वह यह समझाना है कि **मलेशिया में रेफ़रल वास्तव में कैसे काम करता है, और क्या तैयारी करनी है**, ताकि क्लिनिक से विशेषज्ञ तक का हस्तांतरण जितना सहज हो सके उतना हो।

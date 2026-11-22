@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: '一名医生在远程医疗工作站前，透过视频屏幕查看远程病人，旁边有诊断监视器。'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 你打开一个App，从沙发上视频呼叫一位医生，一个小时后一张处方就送进了你的收件箱。在马来西亚，这完全合法——但背后的规则手册并不是你可能以为的那部法律。

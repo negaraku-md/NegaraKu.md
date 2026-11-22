@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'ஒரு மலேசிய பாரம்பரிய மருத்துவ மற்றும் சுகாதாரக் கடையின் கடைமுகப்பு அடையாளப் பலகை, நிரப்பு மற்றும் பாரம்பரிய மருத்துவ நடைமுறையைப் பிரதிநிதித்துவப்படுத்துகிறது.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 2025 மார்ச் 1 முதல், மலேசியாவில் உள்ள பாரம்பரிய உடல் தேய்ப்பாளர்கள், சீன மருத்துவப் பயிற்சியாளர்கள், ஹோமியோபதி மருத்துவர்கள் மற்றும் கைரோபிராக்டர்கள் ஒரு துண்டு ஆவணம் — பதிவுச் சான்றிதழ் — இல்லாமல் தங்கள் கிளினிக் கதவுகளைத் திறக்க முடியாது. “அனுபவத்தின் பெயரால் பயிற்சி செய்யும்” காலம் முடிந்துவிட்டது.

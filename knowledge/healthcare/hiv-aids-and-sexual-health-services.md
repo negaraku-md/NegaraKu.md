@@ -82,6 +82,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'Sebuah reben kesedaran merah, simbol antarabangsa kesedaran HIV/AIDS, di atas latar belakang putih kosong.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seorang yang bimbang selepas satu malam berisiko boleh berjalan masuk ke sebuah Klinik Kesihatan kerajaan di Malaysia, membuat ujian HIV secara percuma dan sulit, dan — jika perlu — pulang dengan ubat pencegahan dalam tempoh beberapa jam. Namun jalan yang sama itu turut bersilang dengan soal kerahsiaan, undang-undang, agama dan stigma yang menjadikan HIV antara topik kesihatan paling sensitif di negara ini.

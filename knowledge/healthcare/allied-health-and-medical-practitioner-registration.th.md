@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'โรงพยาบาลเฉพาะทางกรุกระจกสมัยใหม่ในกัวลาลัมเปอร์ โดยมีรถไฟฟ้ารางเบาวิ่งผ่านด้านหน้า'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ใครสักคนอาจสวมเสื้อกาวน์สีขาว แขวนใบประกาศนียบัตรไว้บนผนังคลินิก และเรียกตัวเองว่า "หมอ" — แต่มีเพียงสิ่งเดียวเท่านั้นที่ยืนยันคุณสมบัติของเขาได้จริง คือชื่อของเขาปรากฏอยู่ในทะเบียนทางการ ในมาเลเซีย แพทย์ พยาบาล เภสัชกร และนักกายภาพบำบัดทุกคนต้องขึ้นทะเบียนกับหน่วยงานกำกับดูแลวิชาชีพของตน ข่าวดีคือ คุณสามารถตรวจสอบได้ด้วยตนเองโดยไม่มีค่าใช้จ่าย

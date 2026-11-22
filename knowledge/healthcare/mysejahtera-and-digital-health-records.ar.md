@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "السجلات الصحية الرقمية", "EMR", "الصحة الرقمية ماليزيا", "KKM", "موعد عيادة الصحة"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'إشعار رمز استجابة سريعة (QR) مطبوع لتسجيل الدخول عبر تطبيق MySejahtera في متجر ماليزي، وهو جزء من منصّة الصحة الرقمية في ماليزيا.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حذف كثيرون MySejahtera من هواتفهم حين خفّت الجائحة — لكن التطبيق لم يختفِ. بل غيّر وظيفته فحسب.

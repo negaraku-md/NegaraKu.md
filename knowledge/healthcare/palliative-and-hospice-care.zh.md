@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: '一块医院门口标牌，上面写着「Palliative Medicine Family Conference Room」（姑息治疗家属会议室），是对姑息护理的中性、非图像化呈现。'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 当治疗不再以治愈为目标时，重心便转向一件事：确保病患舒适而有尊严。这正是舒缓治疗的核心——而在马来西亚，它可以透过三个不同的途径获得。

@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'A platform wheelchair lift marked with an accessibility symbol at a disability rehabilitation centre in Johor, Malaysia'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 A single plastic card determines whether a child with autism receives early therapy, or whether an adult who has lost a leg can afford a prosthetic. In Malaysia, that OKU card is the gateway to almost every service and form of aid designed for persons with disabilities — and understanding how it works saves time, money and delayed treatment.

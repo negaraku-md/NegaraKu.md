@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Bagian luar Klinik Kesihatan Sungai-Sungai, sebuah klinik kesehatan pemerintah Malaysia di pedesaan, dengan bendera Malaysia dan Sabah serta sebuah ambulans.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lebih dari separuh orang dewasa Malaysia hari ini membawa berat badan yang dapat memperpendek usia mereka — dan satu dari enam sudah hidup dengan diabetes, banyak tanpa menyadarinya. Inilah wabah senyap yang membebani rumah sakit, keluarga, dan ekonomi negara jauh lebih berat daripada penyakit menular mana pun.

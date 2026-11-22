@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["मधुमेह", "मोटापा", "गैर-संचारी रोग", "NCD", "NHMS 2023", "शुगर टैक्स", "PeKa B40", "Healthier Choice Logo", "स्वास्थ्य जाँच", "diabetes"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'मलेशियाई और सबाह के झंडों और एक एम्बुलेंस के साथ एक ग्रामीण मलेशियाई सरकारी स्वास्थ्य क्लिनिक, क्लिनिक केसिहातान सुंगाई-सुंगाई का बाहरी दृश्य।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया के आधे से अधिक वयस्क आज एक ऐसा वज़न ढो रहे हैं जो उनके जीवन को छोटा कर सकता है — और हर छह में से एक पहले से ही मधुमेह के साथ जी रहा है, कई लोग इसे जाने बिना। यह वह मूक महामारी है जो अस्पतालों, परिवारों और राष्ट्रीय अर्थव्यवस्था पर किसी भी संक्रामक रोग से कहीं अधिक बोझ डालती है।

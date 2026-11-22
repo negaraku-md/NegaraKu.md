@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["التبرع بالدم", "المركز الوطني للدم", "Pusat Darah Negara", "PDN", "شروط التبرع بالدم", "امتيازات المتبرعين", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'متبرّع بالدم ماليزي يجلس على كرسي التبرّع بجوار ممرّضة مبتسمة تحمل كيس دم ممتلئًا.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 وفقاً لـ PDN، يمكن لتبرع واحد بالدم أن يُنقذ ثلاثة أرواح على الأقل — لأن الدم الكامل يُعالَج ليُحوَّل إلى خلايا دم حمراء وصفائح دموية وبلازما لمرضى مختلفين.

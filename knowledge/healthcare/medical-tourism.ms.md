@@ -74,6 +74,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'Bahagian luar Prince Court Medical Centre di Kuala Lumpur, sebuah hospital swasta Malaysia terkemuka yang melayani pelancong perubatan.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebuah keluarga dari Jakarta terbang masuk untuk pembedahan pintasan jantung bapa mereka. Sepasang suami isteri dari United Kingdom menempah IVF kerana senarai menunggu di negara mereka melangkaui tempoh kesuburan mereka. Seorang pesakit dari Bangladesh datang untuk saringan kesihatan rutin yang tidak dapat dijalankan oleh klinik di kampung halamannya.

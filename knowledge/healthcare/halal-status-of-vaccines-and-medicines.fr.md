@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaccin halal", "avis sur les vaccins", "gélatine dans les médicaments", "fatwa vaccin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'Une maison-boutique patrimoniale rouge vif abritant une pharmacie malaisienne (farmasi) à un coin de rue d''une ville.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un seul flacon de vaccin peut contenir un peu de gélatine comme stabilisant, et de ce petit détail surgit l'une des questions religieuses que les familles musulmanes de Malaisie posent le plus souvent : est-ce halal ? La réponse n'est pas un simple « oui » ou « non », mais le résultat d'un processus d'évaluation structuré faisant intervenir des organes de la fatwa, la recherche scientifique et plusieurs principes spécifiques du fiqh.

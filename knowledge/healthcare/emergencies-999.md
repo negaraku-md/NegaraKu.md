@@ -78,6 +78,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'Sebuah ambulans Kementerian Kesihatan Malaysia di lebuh raya, ditanda ''Ambulans'' dan nombor kecemasan 999.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda tekan 999. Suara di hujung talian tanya nama, lokasi, dan apa yang berlaku — dan dalam masa yang disasarkan, sepasukan ambulans sepatutnya sudah dalam perjalanan. Tetapi ramai yang tidak tahu apa berlaku di sebalik panggilan itu: siapa sebenarnya menjawab, adakah ia percuma, dan kenapa pesakit lain yang tiba lebih lewat di hospital kadangkala dirawat dahulu daripada anda.

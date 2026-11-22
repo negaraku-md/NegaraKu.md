@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'El interior de una tienda de medicina tradicional china en George Town, Penang, con cajones de hierbas etiquetados y hierbas medicinales secas.'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En la esquina de muchos pueblos antiguos siempre hay una tienda de medicina china: la pared de armarios de madera está repleta de su retícula de pequeños cajones, y el aire es una mezcla de raíz de angélica (当归), piel de mandarina seca (陈皮) y regaliz (甘草); detrás del mostrador, un viejo maestro escucha al cliente describir dónde le duele mientras pesa los materiales medicinales uno a uno sobre papel kraft, y luego los envuelve en un único paquete. Tiendas como esta existen en las comunidades chinas de Malasia desde hace más de cien años.

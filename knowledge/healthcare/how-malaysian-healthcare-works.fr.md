@@ -88,6 +88,13 @@ stayFacts:
   cost: 'Raisonnez en termes de forme, non de chiffres fixes : les soins publics sont fortement subventionnés pour les citoyens et les résidents permanents, tandis que les étrangers paient sensiblement plus au titre du barème de tarifs pour non-citoyens, et les soins privés se paient de sa poche ou par assurance à ce que l''établissement facture. Les montants exacts en ringgit sont fixés au titre de la Fees (Medical) Order et révisés périodiquement, alors confirmez les tarifs en vigueur auprès de l''ordonnance publiée du MOH ou directement auprès du prestataire avant de vous fier à un chiffre cité.'
   watch: 'Les subventions destinées aux citoyens ne vous atteignent pas en tant qu''étranger — PeKa B40, MySalam et le barème de tarifs pour citoyens sont liés à la citoyenneté ou au statut de bénéficiaire de l''aide en espèces B40, alors comptez sur une assurance privée (et notez que les travailleurs étrangers en situation régulière doivent détenir l''assurance hospitalisation SPIKPA pour renouveler un permis de travail, souscrite par l''employeur).'
   next: 'Déterminez dans quelle catégorie vous entrez (travailleur étranger, expatrié ou visiteur) et mettez en place la bonne couverture avant de vous fier à un quelconque dispositif local. Pour le détail, voyez les guides voisins L''assurance médicale en Malaisie, Les hôpitaux privés et leurs coûts, et Klinik Kesihatan.'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'L''extérieur du complexe de spécialistes et de traitement de jour de l''Hospital Kuala Lumpur, un hôpital public malaisien, avec l''emblème du croissant rouge.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un retraité malaisien souffrant de douleurs thoraciques appelle une ambulance et est conduit à l'hôpital gouvernemental le plus proche, où un cardiologue le prend en charge pour un tarif qui ne couvre qu'une fraction du coût réel. Son voisin, titulaire d'un permis de travail venu d'Indonésie et présentant les mêmes symptômes, est amené au service des urgences du même hôpital — mais la facture qui suit est calculée selon un barème entièrement différent, car tous deux ne sont pas, aux yeux du ministère, le même type de patient.

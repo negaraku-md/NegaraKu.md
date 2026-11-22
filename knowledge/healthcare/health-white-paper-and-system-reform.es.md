@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["libro blanco de la salud", "reforma sanitaria", "financiación de la salud", "KKM", "seguro nacional de salud", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'Un moderno edificio del Ministerio de Salud de Malasia con fachada de cristal en Putrajaya cubierto con una gran bandera malasia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Las clínicas públicas atienden casi dos tercios de las consultas externas del país, y sin embargo representan solo alrededor de una de cada cuatro instalaciones de atención primaria. Es este desequilibrio, entre otras cosas, lo que impulsó al Ministerio de Salud de Malasia (MOH) a redactar el documento de políticas más importante en una generación: el Libro Blanco de la Salud.

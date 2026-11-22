@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["السكري", "السمنة", "الأمراض غير المعدية", "NCD", "NHMS 2023", "ضريبة السكر", "PeKa B40", "Healthier Choice Logo", "الفحص الصحي", "diabetes"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'واجهة عيادة كلينيك كيسيهاتان سونغاي-سونغاي، وهي عيادة صحية حكومية ماليزية ريفية، مع العلمين الماليزي وولاية صباح وسيّارة إسعاف.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 أكثر من نصف البالغين في ماليزيا اليوم يحملون وزنًا قد يقصّر أعمارهم — وواحد من كل ستة يتعايش بالفعل مع السكري، وكثيرون دون أن يدركوا ذلك. هذا هو الوباء الصامت الذي يُثقل كاهل المستشفيات والأسر والاقتصاد الوطني أكثر بكثير من أي مرض معدٍ.

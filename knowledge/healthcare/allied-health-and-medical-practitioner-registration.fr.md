@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'Un hôpital spécialisé moderne revêtu de verre à Kuala Lumpur avec un train léger passant devant.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 N'importe qui peut enfiler une blouse blanche, accrocher un certificat au mur de la clinique et se dire «médecin» — mais une seule chose confirme vraiment ses qualifications : que son nom figure dans le registre officiel. En Malaisie, tout médecin, infirmier, pharmacien et kinésithérapeute doit être enregistré auprès de l'organisme qui réglemente sa profession. La bonne nouvelle, c'est que vous pouvez le vérifier vous-même, gratuitement.

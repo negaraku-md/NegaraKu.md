@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Bagian luar Klinik Kesihatan Nilai, sebuah klinik kesehatan pemerintah Malaysia dengan papan nama Kementerian Kesehatan dan bulan sabit merah.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Banyak orang menganggap aborsi sama sekali dilarang di Malaysia — kenyataannya, undang-undang menempatkannya dalam satu ruang yang lebih rumit: suatu tindak pidana dengan satu pengecualian medis yang penting. Memahami di mana garis itu ditarik mengharuskan kita membaca teks sebenarnya Kanun Keseksaan, bukan anggapan umum.

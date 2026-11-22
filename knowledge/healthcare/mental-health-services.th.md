@@ -81,6 +81,13 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'โปสเตอร์วันสุขภาพจิตโลกพร้อมริบบิ้นสีเขียวเพื่อการรณรงค์และข้อความยุติการตีตรา ซึ่งเป็นสัญลักษณ์สาธารณสุขที่ให้เกียรติเรื่องสุขภาพจิต'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 การตัดสินใจขอความช่วยเหลือมักเป็นส่วนที่ยากที่สุด การคิดออกว่า *จะขอที่ไหน* เป็นส่วนที่แทบไม่มีใครอธิบาย — และช่องว่างนั้นเพียงอย่างเดียวก็หยุดยั้งผู้คนไม่ให้โทรออกเลย

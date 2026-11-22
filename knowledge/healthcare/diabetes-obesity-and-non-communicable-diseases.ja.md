@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Klinik Kesihatan Sungai-Sungai の外観で、マレーシアとサバ州の旗、救急車のあるマレーシアの農村部の政府保健クリニックである。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 今日、マレーシアの成人の半数以上が、自らの寿命を縮めかねない体重を抱えている——そして6人に1人はすでに糖尿病を患っており、その多くは自覚がない。これは、病院、家庭、そして国の経済に対し、いかなる感染症よりもはるかに重い負担を課す、静かな流行病である。

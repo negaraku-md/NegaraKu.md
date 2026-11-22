@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: '쿠알라룸푸르의 현대식 유리 외벽 전문병원으로, 앞쪽으로 경전철 열차가 지나가고 있다.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 누군가는 흰 가운을 입고, 클리닉 벽에 증서를 걸고, 자신을 '의사'라고 부를 수 있습니다 — 그러나 그 자격을 진정으로 증명하는 것은 단 하나입니다. 그의 이름이 공식 등록부에 있는가입니다. 말레이시아에서는 모든 의사, 간호사, 약사, 물리치료사가 각자의 직종 규제 기구에 등록해야 합니다. 다행히, 당신은 그것을 직접, 무료로 확인할 수 있습니다.

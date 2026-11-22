@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Bên ngoài Klinik Kesihatan Sungai-Sungai, một phòng khám y tế chính phủ ở vùng nông thôn Malaysia, với cờ Malaysia và cờ Sabah cùng một xe cứu thương.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hơn một nửa người trưởng thành Malaysia ngày nay mang một trọng lượng cơ thể có thể rút ngắn tuổi thọ của họ — và cứ sáu người thì một người đã sống chung với tiểu đường, nhiều người mà không hề hay biết. Đây là dịch bệnh thầm lặng đè nặng lên các bệnh viện, gia đình và nền kinh tế của quốc gia nhiều hơn bất kỳ bệnh truyền nhiễm nào.

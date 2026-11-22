@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'The hall of a large COVID-19 vaccination centre in Malaysia with rows of spaced seating and people queuing'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 On 18 March 2020, roads across Malaysia fell silent as the country entered a phase unlike anything in its modern history: a sweeping restriction on movement to curb the spread of COVID-19. Over roughly the next two years, the country's public health response evolved from a nationwide lockdown into one of the fastest vaccination programmes in the region — and left an imprint that still shapes the health system today.

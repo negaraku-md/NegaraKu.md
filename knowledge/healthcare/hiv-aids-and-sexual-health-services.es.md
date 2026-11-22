@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'Un lazo rojo de concienciación, el símbolo internacional de la concienciación sobre el VIH/sida, sobre un fondo blanco liso.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Una persona angustiada tras una noche de riesgo puede entrar en una Klinik Kesihatan gubernamental en Malasia, hacerse una prueba de VIH de forma gratuita y confidencial y — si hace falta — volver a casa con medicación preventiva en pocas horas. Sin embargo, ese mismo camino también se cruza con cuestiones de confidencialidad, ley, religión y estigma que hacen del VIH uno de los temas de salud más sensibles del país.

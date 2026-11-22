@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: '马来西亚柔佛州一家残障复健中心内，一台标有无障碍符号的平台轮椅升降机。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一张塑料卡片决定了一名自闭症儿童能否获得早期治疗，或一名失去腿部的成年人能否拥有假腿。在马来西亚，这张OKU卡正是通往几乎每一项为残障人士设计的服务与援助的入口——理解它如何运作，能省下时间、金钱，以及被延误的治疗。

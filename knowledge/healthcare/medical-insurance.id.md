@@ -74,6 +74,13 @@ faq:
   - q: Apakah polis medis 'tanpa co-payment' otomatis lebih baik daripada yang dengan co-payment?
     a: Belum tentu — artikel ini mencantumkannya sebagai kesalahan umum. Rencana tanpa co-payment memiliki premi yang lebih tinggi untuk batas manfaat yang sama. Di bawah co-payment, Anda setuju sejak awal untuk menanggung bagian tertentu dari setiap tagihan rumah sakit yang memenuhi syarat sebagai imbalan premi yang lebih rendah. Apakah pertukaran itu sepadan tergantung pada seberapa besar tagihan yang bisa Anda tanggung sendiri; periksa lembar pengungkapan produk (product disclosure sheet) untuk persentasenya, batas atas apa pun, dan perawatan yang dikecualikan.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Gerbang masuk ke bangsal rawat inap di sebuah rumah sakit pemerintah Malaysia, sebuah suasana perawatan medis yang netral.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dua orang pekerja masuk ke rumah sakit swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kartu dan keluar tanpa membayar sesen pun saat pemulangan. Seorang lagi membayar sebagian dari tagihan itu sendiri, karena polis yang dibelinya enam bulan lalu lebih murah justru karena alasan itu.

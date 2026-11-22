@@ -74,6 +74,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["السياحة العلاجية ماليزيا", "medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "مسافرو الرعاية الصحية ماليزيا", "كلفة السفر الصحي ماليزيا", "لماذا يأتي المرضى إلى ماليزيا للعلاج"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'واجهة مركز برينس كورت الطبّي في كوالالمبور، وهو مستشفى خاص ماليزي رائد يخدم السيّاح الباحثين عن العلاج.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تسافر عائلة من جاكرتا جواً لإجراء عملية مجازة قلبية (bypass) للأب. ويحجز زوجان بريطانيان عملية أطفال أنابيب (IVF) لأن قائمة الانتظار في بلدهما تمتد إلى ما بعد نافذة الخصوبة لديهما. ويأتي مريض من بنغلاديش لإجراء فحص صحي روتيني لا تستطيع عيادة بلدته إجراءه.

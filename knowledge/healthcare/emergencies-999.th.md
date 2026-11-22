@@ -79,6 +79,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'รถพยาบาลของกระทรวงสาธารณสุขมาเลเซียบนทางด่วน ติดคำว่า "Ambulans" และหมายเลขฉุกเฉิน 999'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณกด 999 เสียงที่ปลายสายถามชื่อ สถานที่ และสิ่งที่เกิดขึ้น — และภายในเวลาที่ตั้งเป้าไว้ ทีมรถพยาบาลควรอยู่ระหว่างทางแล้ว แต่หลายคนไม่รู้ว่าเบื้องหลังการโทรนั้นเกิดอะไรขึ้น ใครเป็นผู้รับสายจริง ๆ มันฟรีหรือไม่ และเหตุใดผู้ป่วยอื่นที่มาถึงโรงพยาบาลช้ากว่าจึงบางครั้งได้รับการรักษาก่อนคุณ

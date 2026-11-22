@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'L''extérieur du Kompleks Pakar dan Rawatan Harian (Complexe de spécialistes et d''hôpital de jour) à l''Hospital Kuala Lumpur, avec un croissant rouge.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Une orientation est un moment charnière dans le parcours de chacun : votre médecin a décidé — ou suggéré — que votre problème nécessite un spécialiste, et vous voilà soudain à naviguer dans une autre partie du système de santé. Ce guide prend le relais précisément à ce point. Il ne vous dit **pas** si vous avez besoin d'un spécialiste ; ce jugement appartient à votre clinicien. Ce qu'il fait, c'est expliquer **comment les orientations fonctionnent réellement en Malaisie, et ce qu'il faut préparer**, afin que la transmission de la clinique au spécialiste soit aussi fluide que possible.

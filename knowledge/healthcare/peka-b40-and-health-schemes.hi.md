@@ -65,6 +65,13 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "B40 स्वास्थ्य योजना", "mySalam", "Sumbangan Tunai Rahmah स्वास्थ्य", "B40 स्वास्थ्य सहायता मलेशिया", "ProtectHealth", "स्वास्थ्य देखभाल योजना", "B40 कैंसर उपचार प्रोत्साहन", "PeKa B40 पात्रता जाँच", "B40 health scheme"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'एक बाहरी प्रतीक्षा क्षेत्र वाला एक आधुनिक मलेशियाई सरकारी स्वास्थ्य क्लिनिक, उस प्रकार का क्लिनिक केसिहातान जहाँ B40 स्वास्थ्य-योजना जाँच प्रदान की जाती है।'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 बहुत से लोगों ने "PeKa B40" नाम सुना है, लेकिन इसके बारे में धारणाएँ बहुत भिन्न हैं — कुछ सोचते हैं कि यह सभी अस्पताल खर्चों को कवर करता है, कुछ इसे mySalam से भ्रमित करते हैं, और कुछ इसे पूरी तरह नज़रअंदाज़ कर देते हैं क्योंकि उन्हें लगता है कि एक अलग आवेदन की ज़रूरत है। ये तीनों धारणाएँ गलत हैं। PeKa B40 का एक स्पष्ट और सीमित दायरा है — और उस दायरे को जानने का अर्थ है यह जानना कि इसका उपयोग कब करें, और कब अन्य सहायता की तलाश करें।

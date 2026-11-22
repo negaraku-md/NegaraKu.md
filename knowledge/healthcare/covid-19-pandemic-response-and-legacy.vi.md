@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'Sảnh của một trung tâm tiêm chủng COVID-19 lớn ở Malaysia với các hàng ghế giãn cách và người dân đang xếp hàng.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào ngày 18 tháng 3 năm 2020, đường sá trên khắp Malaysia trở nên vắng vẻ khi đất nước bước vào một giai đoạn chưa từng trải qua trong lịch sử hiện đại: hạn chế di chuyển toàn diện để kiềm chế sự lây lan của COVID-19. Trong khoảng hai năm sau đó, ứng phó y tế công cộng của quốc gia phát triển từ phong tỏa toàn diện thành một trong những chương trình tiêm chủng nhanh nhất khu vực — và để lại tác động vẫn đang định hình hệ thống y tế cho đến ngày nay.

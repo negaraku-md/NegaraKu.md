@@ -88,6 +88,13 @@ stayFacts:
   cost: 'Fikirkan dari segi bentuk, bukan angka tetap: penjagaan awam disubsidi secara besar-besaran bagi warganegara dan PR, manakala warga asing membayar jauh lebih tinggi di bawah jadual bayaran bukan warganegara, dan penjagaan swasta dibayar daripada poket sendiri atau melalui insurans pada apa jua yang dikenakan oleh kemudahan itu. Jumlah ringgit yang tepat ditetapkan di bawah Fees (Medical) Order dan disemak semula secara berkala, jadi sahkan caj semasa dengan perintah yang diterbitkan KKM atau terus dengan penyedia sebelum bergantung kepada sebarang angka yang dipetik.'
   watch: 'Subsidi warganegara tidak sampai kepada anda sebagai warga asing — PeKa B40, MySalam dan jadual bayaran warganegara terikat kepada kewarganegaraan atau status bantuan tunai B40, jadi rancang untuk insurans swasta (dan perhatikan bahawa pekerja asing berdokumen mesti memiliki insurans hospitalisasi SPIKPA untuk memperbaharui permit kerja, yang diuruskan oleh majikan).'
   next: 'Tentukan kategori anda (pekerja asing, ekspatriat atau pelawat) dan atur perlindungan yang betul sebelum bergantung kepada mana-mana skim tempatan. Untuk perincian, lihat panduan berkaitan Insurans perubatan di Malaysia, Hospital swasta dan kosnya, dan Klinik Kesihatan.'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'Bahagian luar kompleks pakar dan rawatan harian Hospital Kuala Lumpur, sebuah hospital kerajaan Malaysia, dengan lambang bulan sabit merah.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seorang pesara Malaysia yang mengalami sakit dada memanggil ambulans dan dibawa ke hospital kerajaan yang terdekat, di mana seorang pakar kardiologi menemuinya dengan bayaran yang hanya meliputi sebahagian kecil daripada kos sebenar. Jirannya, seorang pemegang permit kerja dari Indonesia dengan gejala yang sama, dibawa ke jabatan kecemasan hospital yang sama — tetapi bil yang mengikutinya dikira mengikut jadual yang sama sekali berbeza, kerana kedua-dua mereka bukan, pada pandangan kementerian, jenis pesakit yang sama.

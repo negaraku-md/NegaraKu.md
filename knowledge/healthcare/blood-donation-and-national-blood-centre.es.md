@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["donación de sangre", "Centro Nacional de Sangre", "Pusat Darah Negara", "PDN", "requisitos para donar sangre", "privilegios del donante", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'Un donante de sangre malasio sentado en una silla de donación junto a una enfermera sonriente que sostiene una bolsa de sangre llena.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Según el PDN, una sola donación de sangre puede salvar al menos tres vidas, porque la sangre completa se procesa en glóbulos rojos, plaquetas y plasma para distintos pacientes.

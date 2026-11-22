@@ -78,6 +78,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: '高速公路上一辆马来西亚卫生部救护车，车身标有「Ambulans」和 999 紧急电话号码。'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你拨了999。电话另一端的声音询问你的姓名、地点，以及发生了什么事——在设定的目标时间内，一支救护车队应该已经在路上。但许多人并不知道这通电话背后发生了什么事：究竟是谁在接听、是否免费，以及为什么比你晚到医院的其他病患，有时反而比你先获得治疗。

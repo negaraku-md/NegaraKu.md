@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: '马来西亚一块以马来文、中文和英文书写的禁烟标志（Dilarang Merokok／No Smoking）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在马来西亚，一支香烟和一台电子烟设备首次受到同一部法律的规范——而向青少年销售的禁令也不再只是政策，而是可被罚款数千令吉的罪行。

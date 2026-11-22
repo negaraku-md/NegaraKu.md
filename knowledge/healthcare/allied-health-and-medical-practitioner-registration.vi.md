@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'Một bệnh viện chuyên khoa hiện đại ốp kính ở Kuala Lumpur với một đoàn tàu đường sắt nhẹ chạy qua phía trước.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một người có thể mặc áo blouse trắng, treo chứng chỉ trên tường phòng khám, và tự gọi mình là «bác sĩ» — nhưng chỉ một điều thực sự xác minh trình độ của họ: tên của họ tồn tại trong sổ đăng ký chính thức. Ở Malaysia, mọi bác sĩ, điều dưỡng viên, dược sĩ và nhà vật lý trị liệu đều phải đăng ký với cơ quan quản lý ngành nghề của họ. Tin tốt là bạn có thể tự kiểm tra, miễn phí.

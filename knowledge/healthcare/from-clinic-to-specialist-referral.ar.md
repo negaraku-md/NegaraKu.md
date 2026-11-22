@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'واجهة مجمّع كومبليكس باكار دان راواتان هاريان (مجمّع التخصّص والرعاية النهارية) في مستشفى كوالالمبور، مع هلال أحمر.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 الإحالة لحظة محورية في رعاية أي شخص: فقد قرر طبيبك — أو اقترح — أن مشكلتك تحتاج إلى أخصائي، وفجأةً تجد نفسك تتنقّل في جزء مختلف من النظام الصحي. يبدأ هذا الدليل من تلك النقطة بالضبط. وهو **لا** يخبرك بما إذا كنت بحاجة إلى أخصائي؛ فذلك التقدير يعود إلى طبيبك. ما يفعله هو شرح **كيف تعمل الإحالات فعليًا في ماليزيا، وما ينبغي إعداده**، كي يكون تسليم الحالة من العيادة إلى الأخصائي أسلس ما يمكن.

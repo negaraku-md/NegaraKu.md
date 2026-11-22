@@ -72,6 +72,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["تطعيم الأطفال في ماليزيا", "جدول التطعيم الوطني", "البرنامج الوطني للتطعيم", "National Immunisation Programme", "لقاحات مجانية في العيادات الصحية", "دفتر السجل الصحي للرضّع والأطفال", "Immunise4Life Malaysia", "تطعيم مجاني ماليزيا"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'مركز تطعيم تابع لوزارة الصحة الماليزية مُهيّأ للأطفال، مع جدارية ملائمة للأطفال كُتب عليها ''I''m vaccinated''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 كل مولود يولد في عيادة أو مستشفى حكومي في ماليزيا يعود إلى البيت بأكثر من مجرد شهادة ميلاد مؤقتة — إذ يعود ومعه دفتر صغير سيُحمَل إلى *كل* زيارة للعيادة طوال السنوات الست المقبلة. وهذا الدفتر، وجدول التطعيم الذي يسجّله، جزء من أحد أطول برامج الصحة العامة عمراً في البلاد.

@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Bên ngoài Klinik Kesihatan Nilai, một phòng khám y tế của chính phủ Malaysia với bảng hiệu Bộ Y tế và biểu tượng lưỡi liềm đỏ.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nhiều người cho rằng phá thai bị cấm hoàn toàn ở Malaysia — thực tế, luật đặt nó vào một không gian phức tạp hơn: một tội hình sự với một ngoại lệ y tế quan trọng. Hiểu đường ranh đó được vạch ra ở đâu đòi hỏi chúng ta đọc văn bản thực tế của Bộ luật Hình sự, chứ không phải các quan niệm chung.

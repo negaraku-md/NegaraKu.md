@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "loi sur l'avortement Malaisie", "Seksyen 312 Kanun Keseksaan", "interruption de grossesse", "Akta Perubatan 1971", "directives KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'L''extérieur de la Klinik Kesihatan Nilai, une clinique de santé publique malaisienne avec la signalétique du ministère de la Santé et le croissant rouge.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Beaucoup supposent que l'avortement est totalement interdit en Malaisie — en réalité, la loi le place dans un espace plus complexe : une infraction pénale assortie d'une importante exception médicale. Comprendre où se trace cette ligne exige de lire le texte réel du Code pénal, et non de s'en tenir à des impressions générales.

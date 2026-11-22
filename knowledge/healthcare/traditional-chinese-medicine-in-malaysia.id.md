@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'Di dalam sebuah toko pengobatan tradisional Tionghoa di George Town, Penang, dengan laci herbal berlabel dan herbal obat kering.'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di sudut jalan banyak kota tua, selalu ada sebuah toko obat Tionghoa: dinding lemari kayu dipenuhi laci-laci kecil yang padat, udaranya bercampur aroma angelika (当归), kulit jeruk kering (陈皮), dan akar manis (甘草); di balik meja, sang tabib tua mendengarkan pelanggan menceritakan di mana rasa tidak enak badannya sambil menimbang bahan obat satu per satu ke dalam kertas, lalu membungkusnya menjadi satu bungkus obat. Toko seperti ini telah ada di komunitas Tionghoa Malaysia selama lebih dari seratus tahun.

@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: '马来西亚一座大型 COVID-19 疫苗接种中心的大厅，座位间隔排列，人们排队等候。'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2020 年 3 月 18 日，马来西亚全国道路变得空荡冷清，国家进入现代史上前所未有的阶段：全面限制人员流动，以遏制新冠疫情的扩散。在随后约两年的时间里，国家的公共卫生应对从全面封锁演变为该地区最迅速的疫苗接种计划之一——并留下了至今仍在塑造卫生系统的深远影响。

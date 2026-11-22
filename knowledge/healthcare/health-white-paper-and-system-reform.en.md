@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'A modern glass-fronted Ministry of Health Malaysia building in Putrajaya draped with a large Malaysian flag'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Government clinics handle nearly two-thirds of the country's outpatient visits — yet they represent only about one in four primary care facilities. It is this imbalance, among other things, that pushed Malaysia's Ministry of Health (MOH) to write the most important policy document in a generation: the Health White Paper.

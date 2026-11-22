@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["الإنجاب في ماليزيا", "الحمل في ماليزيا", "الرعاية السابقة للولادة في ماليزيا", "الكتاب الوردي", "Rekod Kesihatan Ibu", "Pink Book", "Klinik Kesihatan", "الولادة الحكومية مقابل الخاصة", "تسجيل المواليد JPN", "الأمومة في ماليزيا", "having a baby in Malaysia", "antenatal care Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'واجهة قسم الولادة (مستشفى بيرسالين) في مستشفى كوالالمبور، مع أفق المدينة في الخلفية.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يُشغِّل اختبار الحمل الإيجابي ساعتَين في آنٍ واحد، ولا يكاد أحد يوضّح ذلك منذ البداية. الساعة الأولى تخصّ الحمل نفسه — متى تسجّلين، وأين، وماذا يحدث في كل زيارة. أما الثانية فلا تبدأ إلا بعد وصول المولود، ولا علاقة لها بالمستشفيات: إنها تسجيل قانوني لدى إدارة مختلفة تمامًا.

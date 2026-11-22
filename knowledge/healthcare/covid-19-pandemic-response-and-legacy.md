@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'Dewan sebuah pusat vaksinasi COVID-19 yang besar di Malaysia dengan barisan tempat duduk yang berjarak dan orang ramai beratur.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada 18 Mac 2020, jalan raya di seluruh Malaysia menjadi lengang apabila negara memasuki fasa yang tidak pernah dialami dalam sejarah moden: sekatan pergerakan menyeluruh untuk membendung penularan COVID-19. Dalam tempoh kira-kira dua tahun berikutnya, tindak balas kesihatan awam negara berkembang daripada penguncian menyeluruh kepada salah satu program vaksinasi terpantas di rantau ini — dan meninggalkan kesan yang masih membentuk sistem kesihatan sehingga hari ini.

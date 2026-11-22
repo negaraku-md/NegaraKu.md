@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: '말레이시아의 전통 의약·건강 가게의 간판으로, 보완·전통 의학 행위를 나타낸다.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 2025년 3월 1일부터, 말레이시아의 전통 마사지사, 중국 의학 시술자, 동종요법사, 카이로프랙터는 더 이상 서류 한 장 — 등록증 — 없이는 클리닉 문을 열 수 없습니다. '경험의 이름으로 시술하던' 시대는 끝났습니다.

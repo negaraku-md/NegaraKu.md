@@ -81,6 +81,13 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["मानसिक-स्वास्थ्य सेवाएँ मलेशिया", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI क्लीनिक मलेशिया", "मनोरोग अस्पताल मलेशिया", "MMHA Malaysian Mental Health Association", "परामर्श मलेशिया", "मलेशिया में मानसिक-स्वास्थ्य मदद कहाँ पाएँ", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'हरे जागरूकता रिबन और कलंक-समाप्ति के संदेश के साथ एक विश्व मानसिक स्वास्थ्य दिवस का पोस्टर, मानसिक स्वास्थ्य के लिए एक सम्मानजनक जन-स्वास्थ्य प्रतीक।'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मदद माँगने का निर्णय अक्सर सबसे कठिन हिस्सा होता है। यह पता लगाना कि *कहाँ* माँगें, वह हिस्सा है जिसे लगभग कोई नहीं समझाता — और यही अंतराल अकेले लोगों को कभी फ़ोन करने से रोक देता है।

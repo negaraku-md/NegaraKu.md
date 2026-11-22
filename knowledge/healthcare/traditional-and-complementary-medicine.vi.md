@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'Bảng hiệu mặt tiền của một cửa hàng y học cổ truyền và sức khỏe Malaysia, đại diện cho thực hành y học bổ sung và cổ truyền.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kể từ ngày 1 tháng 3 năm 2025, thầy xoa bóp cổ truyền, người hành nghề y học Trung Hoa, chuyên gia vi lượng đồng căn và người nắn chỉnh cột sống tại Malaysia không còn có thể mở cửa phòng khám mà không có một mảnh giấy — chứng chỉ đăng ký. Thời kỳ "hành nghề nhân danh kinh nghiệm" đã kết thúc.

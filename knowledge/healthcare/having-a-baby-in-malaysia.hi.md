@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["मलेशिया में शिशु का जन्म", "मलेशिया में गर्भावस्था", "मलेशिया में प्रसवपूर्व देखभाल", "गुलाबी किताब गर्भावस्था", "Rekod Kesihatan Ibu", "klinik kesihatan गर्भवती", "मलेशिया सार्वजनिक बनाम निजी प्रसव", "जन्म पंजीकरण JPN", "मलेशिया मातृत्व", "मलेशिया सरकारी अस्पताल प्रसव"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'पृष्ठभूमि में शहर के क्षितिज के साथ, हॉस्पिटल कुआलालंपुर के प्रसूति खंड (हॉस्पिटल बरसालिन) का बाहरी दृश्य।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक पॉज़िटिव प्रेगनेंसी टेस्ट एक ही साथ दो घड़ियाँ चालू कर देता है, और लगभग कोई भी यह बात पहले से नहीं समझाता। एक घड़ी स्वयं गर्भावस्था के बारे में है — कब पंजीकरण कराएँ, कहाँ, हर यात्रा पर क्या होता है। दूसरी घड़ी शिशु के आने के बाद ही शुरू होती है, और उसका अस्पतालों से कोई लेना-देना नहीं है: यह एक बिल्कुल अलग विभाग के साथ कानूनी पंजीकरण है।

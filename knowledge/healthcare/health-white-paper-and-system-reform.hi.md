@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["स्वास्थ्य श्वेत पत्र", "स्वास्थ्य सुधार", "स्वास्थ्य वित्तपोषण", "KKM", "राष्ट्रीय स्वास्थ्य बीमा", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'एक बड़े मलेशियाई झंडे से सजा, पुत्राजया में एक आधुनिक काँच-अग्रभाग वाला मलेशिया स्वास्थ्य मंत्रालय का भवन।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 सरकारी क्लिनिक देश की लगभग दो-तिहाई बाह्य रोगी यात्राएँ संभालते हैं — फिर भी वे प्राथमिक देखभाल सुविधाओं में से केवल लगभग एक-चौथाई का प्रतिनिधित्व करते हैं। यही असंतुलन, अन्य बातों के साथ, वह है जिसने मलेशिया के स्वास्थ्य मंत्रालय (MOH) को एक पीढ़ी के सबसे महत्वपूर्ण नीति दस्तावेज़ को लिखने के लिए प्रेरित किया: स्वास्थ्य श्वेत पत्र।

@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'ஒரு மலேசியக் கடையில் அச்சிடப்பட்ட MySejahtera செக்-இன் QR அறிவிப்பு, இது மலேசியாவின் டிஜிட்டல் சுகாதார தளத்தின் ஒரு பகுதி.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 தொற்றுநோய் தணிந்தபோது பலர் தங்கள் தொலைபேசிகளிலிருந்து MySejahtera-ஐ நீக்கிவிட்டனர் — ஆனால் அந்த செயலி மறைந்துவிடவில்லை. அது வெறுமனே வேலையை மாற்றிக்கொண்டது.

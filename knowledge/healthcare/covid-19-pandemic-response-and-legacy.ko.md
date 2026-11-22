@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: '말레이시아의 대규모 COVID-19 백신 접종 센터 홀로, 간격을 둔 좌석이 줄지어 있고 사람들이 줄 서 있다.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2020년 3월 18일, 말레이시아 전역의 도로가 텅 비었습니다. 나라가 현대사에서 겪어 본 적 없는 국면에 들어섰기 때문입니다. COVID-19 확산을 막기 위한 전면적 이동 제한이었습니다. 이후 약 2년 동안, 국가의 공중보건 대응은 전면적 봉쇄에서 이 지역에서 가장 빠른 예방접종 프로그램 중 하나로 발전했고 — 오늘날까지도 보건 체계를 빚어 가는 영향을 남겼습니다.

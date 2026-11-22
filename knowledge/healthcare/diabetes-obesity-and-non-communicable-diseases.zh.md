@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Klinik Kesihatan Sungai-Sungai 外观，这是一所马来西亚乡村政府卫生诊所，有马来西亚和沙巴州旗帜以及一辆救护车。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 如今超过半数马来西亚成年人身上的体重足以缩短他们的寿命——而每六人中就有一人已患有糖尿病，其中许多人浑然不觉。这是一场无声的流行病，它对医院、家庭和国家经济的负担远远超过任何一种传染病。

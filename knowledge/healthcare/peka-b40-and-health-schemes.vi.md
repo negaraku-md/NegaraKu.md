@@ -66,6 +66,13 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'Một phòng khám y tế chính phủ Malaysia hiện đại với khu vực chờ ngoài trời, loại Klinik Kesihatan nơi cung cấp dịch vụ sàng lọc theo chương trình y tế B40.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nhiều người nghe tên "PeKa B40" nhưng hiểu theo những cách khác nhau — có người tưởng nó trang trải mọi chi phí bệnh viện, có người nhầm nó với mySalam, và có người bỏ qua vì nghĩ phải nộp đơn riêng. Cả ba cách hiểu đó đều không đúng. PeKa B40 có phạm vi rõ ràng và giới hạn — và biết phạm vi của nó nghĩa là biết khi nào dùng, và khi nào cần tìm trợ giúp khác.

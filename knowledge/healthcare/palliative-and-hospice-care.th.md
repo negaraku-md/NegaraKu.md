@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'ป้ายที่ประตูโรงพยาบาลเขียนว่า "Palliative Medicine Family Conference Room" (ห้องประชุมครอบครัวเวชศาสตร์ประคับประคอง) ซึ่งเป็นการนำเสนอการดูแลแบบประคับประคองที่เป็นกลางและไม่มีภาพรุนแรง'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่อการรักษาไม่ได้มุ่งรักษาให้หายอีกต่อไป ความสนใจจึงเปลี่ยนไปที่สิ่งหนึ่ง คือ การทำให้ผู้ป่วยสบายและมีศักดิ์ศรี นั่นคือแก่นของการดูแลแบบประคับประคอง — และในมาเลเซีย สามารถเข้าถึงได้ผ่านสามช่องทางที่แตกต่างกัน

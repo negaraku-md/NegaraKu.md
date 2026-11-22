@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: '献血椅子に座るマレーシアの献血者と、その脇で血液の入った血液バッグを持つ笑顔の看護師。'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 PDNによれば、一度の献血で少なくとも3人の命を救うことができる——全血は赤血球、血小板、血漿に加工され、それぞれ異なる患者のために使用されるためである。

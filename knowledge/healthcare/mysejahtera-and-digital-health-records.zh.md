@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: '马来西亚一家商店内印制的 MySejahtera 签到二维码告示，是马来西亚数字健康平台的一部分。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 疫情缓和后，许多人把 MySejahtera 从手机里删掉了——但这款应用并没有消失，它只是换了一份工作。

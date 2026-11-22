@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'पेनांग के जॉर्ज टाउन में एक पारंपरिक चीनी औषधि दुकान के भीतर, नामांकित जड़ी-बूटी दराज़ों और सूखी औषधीय जड़ी-बूटियों के साथ।'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 कई पुराने शहरों के नुक्कड़ पर हमेशा एक चीनी औषधि-दुकान होती है: लकड़ी की अलमारियों की दीवार पर छोटी-छोटी दराज़ें सघन रूप से सजी रहती हैं, हवा में अंजेलिका जड़ (当归), सूखे संतरे के छिलके (陈皮) और मुलेठी (甘草) की मिली-जुली गंध रहती है; काउंटर के पीछे, बुज़ुर्ग वैद्य ग्राहक से यह सुनते हुए कि कहाँ तकलीफ़ है, औषधीय सामग्री एक-एक कर काग़ज़ में तौलते जाते हैं और फिर एक पुड़िया बाँध देते हैं। ऐसी दुकानें मलेशिया के चीनी समुदायों में सौ साल से अधिक से मौजूद हैं।

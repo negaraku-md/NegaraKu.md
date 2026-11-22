@@ -74,6 +74,13 @@ faq:
   - q: Adakah polisi perubatan 'tanpa bayaran bersama' secara automatik lebih baik daripada yang mempunyai bayaran bersama?
     a: Tidak semestinya — artikel ini menyenaraikannya sebagai satu kesilapan biasa. Pelan tanpa bayaran bersama mengenakan premium yang lebih tinggi untuk had faedah yang sama. Di bawah bayaran bersama (co-payment), anda bersetuju dari awal untuk menanggung bahagian tertentu bagi setiap bil hospital yang layak sebagai pertukaran untuk premium yang lebih rendah. Sama ada pertukaran itu berbaloi bergantung pada berapa banyak daripada bil yang mampu anda tanggung sendiri; semak helaian pendedahan produk untuk peratusannya, sebarang had, dan rawatan yang dikecualikan.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Pintu pagar masuk ke wad pesakit dalam di sebuah hospital kerajaan Malaysia, sebuah suasana rawatan perubatan yang neutral.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dua orang pekerja masuk ke hospital swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kad dan keluar tanpa membayar sesen pun semasa discaj. Seorang lagi membayar sebahagian daripada bil itu sendiri, kerana polisi yang dibelinya enam bulan lalu lebih murah atas sebab itu tepat.

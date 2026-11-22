@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "डिजिटल स्वास्थ्य-रिकॉर्ड", "EMR", "मलेशिया डिजिटल स्वास्थ्य", "KKM", "स्वास्थ्य-क्लीनिक अपॉइंटमेंट"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'एक मलेशियाई दुकान पर मुद्रित MySejahtera चेक-इन QR सूचना, जो मलेशिया के डिजिटल स्वास्थ्य मंच का हिस्सा है।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 महामारी के शांत होने पर बहुत से लोगों ने MySejahtera को अपने फ़ोन से हटा दिया — पर ऐप गायब नहीं हुआ। इसने बस अपना काम बदल लिया।

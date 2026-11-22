@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Klinik Kesihatan Nilai 외관으로, 보건부 간판과 적신월이 있는 말레이시아 정부 보건 클리닉이다.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 많은 사람이 말레이시아에서 낙태가 전면 금지되어 있다고 생각하지만 — 실제로 법은 그것을 더 복잡한 자리에 놓습니다. 즉, 중요한 의료적 예외를 하나 둔 형사 범죄입니다. 그 경계선이 어디에 그어져 있는지를 이해하려면 일반적인 통념이 아니라 형법의 실제 조문을 읽어야 합니다.

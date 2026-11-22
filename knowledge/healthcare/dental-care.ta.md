@@ -77,6 +77,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'பல் மருத்துவ சேவைகளைப் பட்டியலிடும் அடையாளப் பலகையுடன், மலேசிய பல் மருத்துவ கிளினிக்கான கிளினிக் பெர்கிஜியான் யாப்பின் தெருமுகப்பு.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பலரும் “பல் கிளினிக்” என்பது ஒரே ஒரு விஷயம் தான் என்று நினைக்கிறார்கள் —

@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Klinik Kesihatan Nilai の外観で、保健省の看板と赤新月のあるマレーシアの政府保健クリニックである。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 多くの人は、マレーシアでは中絶が完全に禁止されていると考えている——しかし実際には、法律はそれをより複雑な位置に置いている。すなわち、重要な医療上の例外を伴う刑事犯罪である。その境界線がどこに引かれているかを理解するには、一般的な思い込みではなく、刑法の実際の条文を読む必要がある。

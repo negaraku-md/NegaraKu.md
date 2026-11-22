@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'Sebuah lif platform kerusi roda yang ditanda dengan simbol kebolehcapaian di sebuah pusat pemulihan orang kurang upaya di Johor, Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sekeping kad plastik menentukan sama ada seorang kanak-kanak autisme mendapat terapi awal, atau seorang dewasa yang kehilangan kaki mampu memiliki kaki palsu. Di Malaysia, kad OKU itulah pintu masuk kepada hampir setiap perkhidmatan dan bantuan yang direka untuk orang kurang upaya — dan memahami cara ia berfungsi menjimatkan masa, wang serta rawatan yang tertangguh.

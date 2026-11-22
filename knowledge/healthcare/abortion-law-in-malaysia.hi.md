@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "मलेशिया गर्भपात कानून", "दंड संहिता की धारा 312", "Seksyen 312 Kanun Keseksaan", "गर्भावस्था समाप्ति", "Akta Perubatan 1971", "Medical Act 1971", "KKM दिशानिर्देश"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'क्लिनिक केसिहातान निलाई का बाहरी दृश्य, एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक, जिस पर स्वास्थ्य मंत्रालय का नाम-पट्ट और लाल अर्धचंद्र है।'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कई लोग मान लेते हैं कि मलेशिया में गर्भपात पूरी तरह निषिद्ध है — वास्तव में, कानून इसे एक अधिक जटिल स्थान पर रखता है: एक आपराधिक अपराध जिसमें एक महत्वपूर्ण चिकित्सकीय अपवाद है। यह समझने के लिए कि वह रेखा कहाँ खींची गई है, हमें दंड संहिता का वास्तविक पाठ पढ़ना होगा, सामान्य धारणाएँ नहीं।

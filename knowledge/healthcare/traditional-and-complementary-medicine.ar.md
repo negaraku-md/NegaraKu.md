@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["الطب التقليدي", "perubatan tradisional", "T&CM", "Act 775", "TCM", "العلاج بتقويم العمود الفقري", "chiropractic", "المعالجة المثلية", "homeopathy", "تسجيل الممارسين", "مجلس T&CM"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'لافتة واجهة متجر ماليزي للطبّ التقليدي والصحة، تمثّل ممارسة الطبّ التكميلي والتقليدي.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 منذ 1 مارس 2025، لم يعد بوسع المدلّكين التقليديين وممارسي الطب الصيني والمعالجين المثليين وأخصائيي تقويم العمود الفقري في ماليزيا فتح أبواب عياداتهم دون ورقة واحدة — شهادة التسجيل. لقد انتهى عصر «الممارسة باسم الخبرة».

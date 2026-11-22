@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'Sebuah papan tanda dilarang merokok dalam bahasa Melayu, Cina dan Inggeris (Dilarang Merokok / No Smoking) di Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Buat pertama kali, sebatang rokok dan sebuah peranti vape tertakluk pada undang-undang yang sama di Malaysia — dan larangan menjual kepada remaja bukan lagi sekadar dasar, tetapi kesalahan yang boleh didenda beribu-ribu ringgit.

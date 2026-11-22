@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabetes", "obesidad", "ENT", "enfermedades no transmisibles", "NHMS 2023", "impuesto al azúcar", "PeKa B40", "Logo de Elección Más Saludable", "cribado de salud"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'El exterior de la Klinik Kesihatan Sungai-Sungai, una clínica de salud pública rural de Malasia, con banderas de Malasia y Sabah y una ambulancia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Más de la mitad de los adultos de Malasia cargan hoy con un peso que podría acortarles la vida — y uno de cada seis ya vive con diabetes, muchos sin darse cuenta. Esta es la epidemia silenciosa que agobia a los hospitales, las familias y la economía nacional mucho más que cualquier enfermedad infecciosa.

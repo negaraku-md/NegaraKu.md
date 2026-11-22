@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'Sebuah notis QR daftar masuk MySejahtera yang dicetak di sebuah kedai Malaysia, sebahagian daripada platform kesihatan digital Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ramai yang memadam MySejahtera daripada telefon apabila pandemik reda — tetapi aplikasi itu tidak hilang. Ia hanya bertukar kerja.

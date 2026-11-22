@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'Shopfront signage of a Malaysian traditional-medicine and health shop, representing complementary and traditional medicine practice'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Since 1 March 2025, traditional masseurs, Chinese medicine practitioners, homeopaths and chiropractors in Malaysia can no longer open their clinic doors without a single piece of paper — a registration certificate. The era of "practising in the name of experience" is over.

@@ -73,6 +73,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: '吉隆坡 Prince Court Medical Centre 外观，这是一所领先的马来西亚私立医院，服务于医疗旅游者。'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一个雅加达家庭飞来马来西亚，为父亲进行心脏搭桥手术。一对英国夫妇预约试管婴儿（IVF），因为家乡的等候名单已经超出他们的生育年龄窗口。一名孟加拉病患前来做一次例行健康检查，而他家乡的诊所做不了这项检查。

@@ -80,6 +80,13 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: '세계 정신건강의 날 포스터로, 녹색 인식 리본과 낙인을 없애자는 메시지가 담긴, 정신건강을 위한 존중의 공중보건 상징이다.'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 도움을 청하기로 결심하는 것이 흔히 가장 어려운 부분입니다. *어디에* 청할지를 알아내는 것은 거의 아무도 설명해 주지 않는 부분이며 — 바로 그 공백이 사람들이 결코 전화를 걸지 못하게 막습니다.

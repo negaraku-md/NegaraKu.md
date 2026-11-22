@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'பினாங்கு, ஜார்ஜ் டவுனில் உள்ள ஒரு பாரம்பரிய சீன மருத்துவக் கடையின் உட்புறம், அடையாளமிடப்பட்ட மூலிகை இழுப்பறைகள் மற்றும் உலர்ந்த மருத்துவ மூலிகைகளுடன்.'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பல பழைய நகரங்களின் தெருமுனைகளில், எப்போதும் ஒரு சீன மூலிகைக் கடை இருக்கும்: மரப்பேழைச் சுவரில் சிறிய இழுப்பறைகள் நெருக்கமாக அடுக்கியிருக்கும், காற்றில் அங்கெலிகா வேர் (当归), உலர்ந்த ஆரஞ்சுத் தோல் (陈皮), அதிமதுரம் (甘草) ஆகியவை கலந்த மணம் இருக்கும்; மேசைக்குப் பின்னால், வயது முதிர்ந்த மருத்துவர் வாடிக்கையாளர் எங்கே வலிக்கிறது என்பதைக் கேட்டுக்கொண்டே, மருந்துப் பொருட்களை ஒவ்வொன்றாக எடைபோட்டு காகிதத்தில் போட்டு ஒரே மருந்துப் பொட்டலமாகக் கட்டுவார். இப்படிப்பட்ட கடைகள் மலேசிய சீன சமூகங்களில் நூறு ஆண்டுகளுக்கும் மேலாக இருந்து வருகின்றன.

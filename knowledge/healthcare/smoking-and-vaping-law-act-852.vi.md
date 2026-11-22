@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'Một biển cấm hút thuốc bằng tiếng Mã Lai, tiếng Trung và tiếng Anh (Dilarang Merokok / No Smoking) ở Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lần đầu tiên, một điếu thuốc lá và một thiết bị vape chịu cùng một luật tại Malaysia — và lệnh cấm bán cho thanh thiếu niên không còn chỉ là chính sách, mà là một hành vi phạm tội có thể bị phạt hàng nghìn ringgit.

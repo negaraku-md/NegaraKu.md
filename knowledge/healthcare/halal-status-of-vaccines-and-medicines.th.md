@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'ตึกแถวมรดกสีแดงสดที่เป็นที่ตั้งของร้านขายยามาเลเซีย (farmasi) บนหัวมุมถนนในเมือง'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 วัคซีนหนึ่งขวดอาจมีเจลาตินเล็กน้อยเป็นสารคงสภาพ — และจากรายละเอียดเล็ก ๆ นั้นเองที่ก่อให้เกิดหนึ่งในคำถามทางศาสนาที่ครอบครัวมุสลิมในมาเลเซียถามบ่อยที่สุด คือ มันฮาลาลหรือไม่ คำตอบไม่ใช่เพียง "ใช่" หรือ "ไม่ใช่" แต่เป็นผลของกระบวนการประเมินที่มีโครงสร้างซึ่งเกี่ยวข้องกับองค์กรฟัตวา การศึกษาทางวิทยาศาสตร์ และหลักการฟิกฮ์เฉพาะหลายประการ

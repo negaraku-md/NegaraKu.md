@@ -71,6 +71,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["मलेशिया बुज़ुर्ग देखभाल", "मलेशिया नर्सिंग होम", "Rumah Seri Kenangan", "Rumah Ehsan", "मलेशिया जराचिकित्सा देखभाल", "PeKa B40", "मलेशिया वृद्ध देखभाल", "Care Centres Act 1993", "warga emas", "मलेशिया दीर्घकालिक देखभाल"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'एक मलेशियाई वृद्धजन आश्रय (रुमाह वर्गा एमास) का द्वारबंद प्रवेश और भवन।'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 यह क्षण आमतौर पर चुपचाप आता है। जो माता-पिता अकेले ठीक से सँभाल लेते थे, वे गैस

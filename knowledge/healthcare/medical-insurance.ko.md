@@ -73,6 +73,13 @@ faq:
   - q: '''본인부담금 없음(no co-payment)'' 의료보험이 본인부담금이 있는 보험보다 자동으로 더 나은가요?'
     a: 반드시 그렇지는 않습니다. 이 글은 이를 흔한 오해로 꼽습니다. 본인부담금 없는 플랜은 같은 보장 한도에 대해 더 높은 보험료가 붙습니다. 본인부담금(co-payment) 방식에서는 더 낮은 보험료를 대가로, 대상이 되는 각 입원비의 정해진 몫을 처음부터 부담하기로 동의합니다. 그 맞교환이 가치가 있는지는 청구액 중 본인이 얼마를 감당할 수 있는지에 달려 있습니다. 비율, 상한선 유무, 제외되는 치료는 상품 공시서(product disclosure sheet)에서 확인하십시오.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: '말레이시아 정부 병원 입원 병동의 입구 문으로, 중립적인 의료 진료 환경이다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 두 직원이 같은 부러진 팔로 같은 민간 병원에 걸어 들어갑니다. 한 명은 카드를 내밀고 퇴원 시 한 센도 내지 않고 걸어 나갑니다. 다른 한 명은 청구액의 일부를 스스로 냅니다. 여섯 달 전에 구입한 증권이 바로 그 이유로 더 저렴했기 때문입니다.

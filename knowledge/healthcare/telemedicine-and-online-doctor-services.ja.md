@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: '遠隔医療のワークステーションで、診断モニターと並ぶビデオ画面越しに遠隔地の患者を診る医師。'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 アプリを開き、ソファに座ったまま医師とビデオ通話をすると、1時間後には処方箋が受信箱に届く。マレーシアでは、これは完全に合法である——しかし、その背後にあるルールブックは、あなたが思っているような法律ではない。

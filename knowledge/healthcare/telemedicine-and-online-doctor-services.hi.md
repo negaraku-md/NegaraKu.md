@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["टेलीमेडिसिन मलेशिया", "telemedicine Malaysia", "ऑनलाइन डॉक्टर", "online doctor", "टेलीपरामर्श", "teleconsultation", "DoctorOnCall", "MMC दिशानिर्देश", "ई-नुस्खा", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'एक टेलीमेडिसिन कार्यस्थल पर एक डॉक्टर, निदान-मॉनिटरों के साथ-साथ एक वीडियो स्क्रीन पर एक दूरस्थ मरीज़ की समीक्षा करता हुआ।'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आप एक ऐप खोलते हैं, अपने सोफ़े से किसी डॉक्टर के साथ वीडियो-कॉल करते हैं, और एक घंटे बाद एक नुस्खा आपके इनबॉक्स में आ जाता है। मलेशिया में यह पूरी तरह कानूनी है — पर इसके पीछे का नियम-पुस्तक वह कानून नहीं है जिसकी आप शायद अपेक्षा करें।

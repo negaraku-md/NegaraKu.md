@@ -77,6 +77,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "सरकारी दंत क्लीनिक खोज"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'दंत सेवाओं को सूचीबद्ध करने वाले नाम-पट्ट के साथ एक मलेशियाई दंत क्लिनिक, क्लिनिक पेरगिगियान याप का सड़क-मुख।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 बहुत से लोग मान लेते हैं कि «दंत क्लीनिक» एक ही चीज़ है — किसी सड़े हुए दाँत को भरने या अक्ल दाढ़ निकालने की जगह। लेकिन मलेशिया में, दंत देखभाल वास्तव में दो अलग पटरियों पर चलती है: एक को सरकार मलेशिया के स्वास्थ्य मंत्रालय (KKM) के माध्यम से चलाती है, और दूसरी को निजी क्षेत्र — और दोनों के बीच उपचार का दायरा एक जैसा नहीं है।

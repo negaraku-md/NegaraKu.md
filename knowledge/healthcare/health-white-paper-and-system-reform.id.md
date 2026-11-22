@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'Sebuah gedung Kementerian Kesehatan Malaysia modern berfasad kaca di Putrajaya yang berhiaskan sebuah bendera Malaysia yang besar.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Klinik pemerintah menampung hampir dua pertiga kunjungan pasien rawat jalan nasional — tetapi hanya mewakili sekitar satu dari empat fasilitas perawatan primer. Ketidakseimbangan inilah, antara lain, yang mendorong Kementerian Kesehatan Malaysia (KKM) menulis dokumen kebijakan paling penting dalam satu generasi: Kertas Putih Kesihatan.

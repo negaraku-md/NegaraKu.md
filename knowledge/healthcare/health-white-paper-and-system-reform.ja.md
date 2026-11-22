@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'プトラジャヤの、大きなマレーシア国旗が掲げられた近代的なガラス張りのマレーシア保健省の建物。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 政府診療所は全国の外来受診のおよそ3分の2を担っているが、プライマリ・ケア施設全体に占める割合はおよそ4分の1に過ぎない。この不均衡こそが、とりわけマレーシア保健省（Kementerian Kesihatan Malaysia、KKM）に一世代で最も重要な政策文書——保健白書（2023年）——を書かせる動機となった。

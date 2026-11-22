@@ -72,6 +72,13 @@ faq:
   - q: 「自己負担なし（no co-payment）」の医療保険は、自己負担ありのものより自動的に優れているのですか?
     a: 必ずしもそうではありません。この記事はこれをよくある誤解として挙げています。自己負担なしのプランは、同じ給付限度額に対してより高い保険料がかかります。自己負担（co-payment）では、より低い保険料と引き換えに、対象となる各入院費の一定割合をあらかじめ負担することに同意します。そのトレードオフが見合うかどうかは、請求額のどれだけを自分で負担できるかによります。割合、上限の有無、対象外の治療については、商品開示シート（product disclosure sheet）を確認してください。
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'マレーシアの政府病院の入院病棟の入口ゲートで、中立的な医療の場面である。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 二人の従業員が、同じ骨折を抱えて同じ私立病院を訪れる。一人はカードを差し出し、退院時に1センも支払わずに帰っていく。もう一人は自分で請求額の一部を支払う——半年前に加入した保険が、まさにその理由で保険料が安かったからだ。

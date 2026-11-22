@@ -72,6 +72,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["inmunización infantil Malasia", "Calendario Nacional de Inmunización", "Programa Nacional de Inmunización KKM", "vacunas gratuitas clínica de salud", "libreta de registro de salud del lactante y el niño", "vacunas infantiles KKM", "Immunise4Life Malaysia", "inmunización gratuita Malasia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'Un centro de vacunación del Ministerio de Salud de Malasia habilitado para niños, con un mural infantil que dice ''Estoy vacunado''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cada bebé nacido en una clínica u hospital público en Malasia vuelve a casa con algo más que un certificado de nacimiento temporal — vuelve a casa con una pequeña libreta que se llevará a *cada* visita a la clínica durante los próximos seis años. Esa libreta, y el calendario de vacunación que registra, forma parte de uno de los programas de salud pública de más larga trayectoria del país.

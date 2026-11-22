@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: '푸트라자야(Putrajaya)의 대형 말레이시아 국기가 걸린 현대식 유리 외벽 보건부 건물.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 정부 클리닉은 전국 외래 진료의 거의 3분의 2를 감당합니다 — 그러나 1차 의료 시설의 약 4분의 1만을 차지할 뿐입니다. 이 불균형이, 다른 요인들과 함께, 보건부(Ministry of Health, KKM)로 하여금 한 세대에서 가장 중요한 정책 문서인 보건백서(Health White Paper)를 쓰게 만들었습니다.

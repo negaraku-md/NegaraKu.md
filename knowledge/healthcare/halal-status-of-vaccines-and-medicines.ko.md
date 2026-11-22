@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: '밝은 빨간색 전통 상점 건물에 자리한 말레이시아 약국(farmasi)으로, 마을 거리 모퉁이에 있다.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 백신 한 병에는 안정제로 소량의 젤라틴이 들어 있을 수 있습니다 — 그리고 바로 그 작은 세부에서 말레이시아 무슬림 가정이 가장 자주 던지는 종교적 물음 하나가 나옵니다. 그것은 할랄인가? 답은 단순한 '예'나 '아니오'가 아니라, 파트와 기구, 과학적 연구, 그리고 몇 가지 특정한 피크흐(fiqh) 원리가 관여하는 체계적 판단 과정의 결과입니다.

@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: '鮮やかな赤い伝統的なショップハウスにあるマレーシアの薬局（farmasi）で、町の通りの角に位置している。'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一本のワクチンびんには、安定剤としてごく少量のゼラチンが含まれていることがある——そのわずかな成分から、マレーシアのムスリム家庭が最も頻繁に発する宗教上の問いの一つが生まれる。それはハラルなのか、という問いである。答えは単純な「はい」か「いいえ」ではなく、ファトワ機関、科学的研究、そしていくつかの特有のフィクフ（fiqh）原則が関わる、体系立った評価プロセスの結果として導かれる。

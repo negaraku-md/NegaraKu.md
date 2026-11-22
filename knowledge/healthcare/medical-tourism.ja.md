@@ -72,6 +72,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'クアラルンプールの Prince Court Medical Centre の外観で、医療観光客に対応するマレーシア有数の私立病院である。'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ジャカルタのある家族は、父親の心臓バイパス手術のためにマレーシアへ飛んでくる。あるイギリス人夫婦は、自国の順番待ちリストが自分たちの妊孕可能期間を超えて延びているため、体外受精（IVF）を予約する。あるバングラデシュ人患者は、地元のクリニックでは実施できない定期健康診断のためにやって来る。

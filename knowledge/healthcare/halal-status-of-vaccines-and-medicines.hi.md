@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["हलाल टीका", "टीके का हुक्म", "दवा में जिलेटिन", "कोविड-19 टीका फतवा", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'एक कस्बे की सड़क के कोने पर एक मलेशियाई फ़ार्मेसी (फ़ारमासी) वाला एक चमकीला लाल विरासती दुकान-घर।'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 टीके की एक शीशी में स्टेबलाइज़र के रूप में थोड़ा जिलेटिन हो सकता है — और उस छोटी-सी बात से मलेशिया के मुस्लिम परिवारों द्वारा सबसे अधिक पूछे जाने वाले धार्मिक प्रश्नों में से एक उठता है: क्या यह हलाल है? इसका उत्तर केवल «हाँ» या «नहीं» नहीं है, बल्कि एक संरचित आकलन प्रक्रिया का परिणाम है जिसमें फतवा निकाय, वैज्ञानिक शोध और फ़िक़्ह के कई विशिष्ट सिद्धांत शामिल होते हैं।

@@ -73,6 +73,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: '槟城乔治市（George Town）一家中医药店内，设有贴有标签的药材抽屉和干药材。'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在许多老城镇的街角，总有一间中药行：木柜墙上密密排着百眼橱，空气里是当归、陈皮与甘草混在一起的气味；柜台后，老师傅一边听客人说哪里不舒服，一边把药材一味一味秤进牛皮纸里，再包成一包药。这样的铺子，在马来西亚华人社区里存在了一百多年。

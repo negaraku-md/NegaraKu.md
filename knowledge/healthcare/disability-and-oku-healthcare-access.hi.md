@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["दिव्यांग व्यक्ति", "OKU", "OKU कार्ड", "OKU स्वास्थ्य सेवा", "PDK", "समुदाय-आधारित पुनर्वास", "सहायक उपकरण", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'मलेशिया के जोहोर में एक विकलांगता पुनर्वास केंद्र पर सुगम्यता-चिह्न से अंकित एक प्लेटफ़ॉर्म व्हीलचेयर लिफ़्ट।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक अकेला प्लास्टिक कार्ड तय करता है कि ऑटिज़्म से ग्रस्त कोई बच्चा शीघ्र चिकित्सा पाएगा या नहीं, या जिस वयस्क ने अपना पैर खो दिया है वह कृत्रिम पैर ख़रीद पाएगा या नहीं। मलेशिया में, वह OKU कार्ड दिव्यांग व्यक्तियों के लिए डिज़ाइन की गई लगभग हर सेवा और सहायता के रूप का प्रवेशद्वार है — और यह समझना कि यह कैसे काम करता है, समय, पैसा और विलंबित उपचार बचाता है।

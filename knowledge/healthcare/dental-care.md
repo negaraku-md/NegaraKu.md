@@ -76,6 +76,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'Bahagian hadapan jalan sebuah klinik pergigian Malaysia, Klinik Pergigian Yap, dengan papan tanda yang menyenaraikan perkhidmatan pergigian.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ramai orang menganggap "klinik gigi" itu satu benda sahaja — tempat untuk

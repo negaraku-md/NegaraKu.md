@@ -81,6 +81,13 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'பச்சை விழிப்புணர்வு ரிப்பன் மற்றும் களங்கத்தை முடிவுக்குக் கொண்டுவரும் செய்தியுடன் கூடிய உலக மனநல தின சுவரொட்டி, மனநலத்திற்கான மரியாதைக்குரிய பொது சுகாதார சின்னம்.'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 உதவி கேட்க முடிவெடுப்பதே பெரும்பாலும் மிகவும் கடினமான பகுதி. *எங்கே* கேட்பது என்பதைக் கண்டுபிடிப்பது தான் கிட்டத்தட்ட யாரும் விளக்காத பகுதி — அந்த இடைவெளி மட்டுமே மக்களை ஒருபோதும் அந்த அழைப்பைச் செய்யாமல் தடுத்துவிடுகிறது.

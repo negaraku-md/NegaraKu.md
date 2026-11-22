@@ -68,6 +68,13 @@ relations:
 related: ["dental-care"]
 keywords: ["عيادة الصحة ماليزيا", "عيادة حكومية ماليزيا", "موعد عيادة MySejahtera", "PeKa B40", "الرعاية الصحية الأولية ماليزيا", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "كيفية التسجيل في عيادة الصحة", "Klinik Kesihatan Malaysia"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'مدخل ولافتة عيادة كلينيك كيسيهاتان جالان لانانغ، وهي عيادة صحية مجتمعية تابعة لوزارة الصحة الماليزية، مع أعلام وطنية وأعلام الولاية.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حُمّى لا تنكسر، أو طفل حان موعد تطعيمه، أو ضغط دم يحتاج إلى متابعة شهرية — والسؤال الأول الذي يطرأ عادةً ليس «ما هو العلاج»، بل «إلى أي عيادة أذهب». العيادات الخاصة سريعة لكنها باهظة. والمستشفيات الحكومية مزدحمة للمشكلات البسيطة. و«العيادة الحكومية» نفسها ليست في الواقع نوعاً واحداً من المرافق — كثيرون لا يدركون أن عيادة الصحة (Klinik Kesihatan) وعيادة المجتمع (Klinik Komuniti) وعيادة الأسنان (Klinik Pergigian) ثلاثة مرافق منفصلة تحت سقف واحد.

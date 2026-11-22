@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'Seorang dokter di sebuah stasiun kerja telemedisin sedang meninjau seorang pasien jarak jauh pada layar video di samping monitor diagnostik.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda membuka sebuah aplikasi, melakukan panggilan video dengan dokter dari sofa Anda, dan resep tiba di kotak masuk Anda sejam kemudian. Di Malaysia, itu sah sepenuhnya — tetapi buku aturan di baliknya bukanlah undang-undang yang mungkin Anda duga.

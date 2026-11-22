@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Un letrero en la puerta de un hospital que dice Sala de Reuniones Familiares de Medicina Paliativa, una representación neutral y no explícita de los cuidados paliativos.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cuando el tratamiento ya no busca curar, la atención se desplaza hacia una sola cosa: mantener al paciente cómodo y con dignidad. Esa es la esencia de los cuidados paliativos — y en Malasia se puede acceder a ellos por tres canales distintos.

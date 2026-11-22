@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'Một dải ruy băng nhận thức màu đỏ, biểu tượng quốc tế của nhận thức về HIV/AIDS, trên nền trắng trơn.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một người lo lắng sau một đêm có nguy cơ có thể bước vào một Phòng khám Y tế nhà nước tại Malaysia, làm xét nghiệm HIV miễn phí và bảo mật, và — nếu cần — ra về với thuốc dự phòng trong vòng vài giờ. Tuy nhiên chính con đường đó cũng giao cắt với các vấn đề bảo mật, pháp lý, tôn giáo và kỳ thị khiến HIV trở thành một trong những chủ đề sức khỏe nhạy cảm nhất tại đất nước này.

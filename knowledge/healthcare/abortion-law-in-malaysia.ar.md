@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "قانون الإجهاض في ماليزيا", "القسم 312 من قانون العقوبات", "Seksyen 312 Kanun Keseksaan", "إنهاء الحمل", "Akta Perubatan 1971", "Medical Act 1971", "إرشادات وزارة الصحة KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'واجهة عيادة كلينيك كيسيهاتان نيلاي، وهي عيادة صحية حكومية ماليزية تحمل لافتة وزارة الصحة والهلال الأحمر.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يفترض كثيرون أن الإجهاض محظور كليًّا في ماليزيا — والواقع أن القانون يضعه في حيّز أكثر تعقيدًا: جريمة جنائية مع استثناء طبي واحد مهم. وفهم موضع هذا الخط يقتضي أن نقرأ النص الفعلي لقانون العقوبات، لا الانطباعات العامة.

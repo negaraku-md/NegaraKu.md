@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'Bên ngoài khối sản khoa (Hospital Bersalin) của Bệnh viện Kuala Lumpur, với đường chân trời thành phố phía sau.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một que thử thai dương tính khởi động hai chiếc đồng hồ cùng một lúc, và hầu như không ai giải thích điều đó ngay từ đầu. Một chiếc đồng hồ liên quan đến bản thân thai kỳ — khi nào đăng ký, ở đâu, điều gì diễn ra ở mỗi lần khám. Chiếc còn lại chỉ bắt đầu sau khi em bé chào đời, và nó chẳng liên quan gì đến bệnh viện: đó là một thủ tục đăng ký pháp lý với một cơ quan hoàn toàn khác.

@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Một bảng hiệu trên cửa phòng bệnh viện ghi "Palliative Medicine Family Conference Room", một hình ảnh trung tính và không trực quan về chăm sóc giảm nhẹ.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi việc điều trị không còn nhằm chữa khỏi, trọng tâm chuyển sang một điều: bảo đảm bệnh nhân được thoải mái và có nhân phẩm. Đó là cốt lõi của chăm sóc giảm nhẹ — và tại Malaysia, nó có thể được tiếp cận qua ba tuyến khác nhau.

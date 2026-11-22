@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'Seorang pendonor darah Malaysia yang duduk di kursi donor di samping seorang perawat yang tersenyum sambil memegang kantong darah yang telah terisi.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Menurut PDN, satu donor darah dapat menyelamatkan sekurang-kurangnya tiga nyawa — karena darah lengkap diproses menjadi sel darah merah, trombosit, dan plasma untuk pasien berbeda.

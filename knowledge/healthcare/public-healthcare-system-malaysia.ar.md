@@ -129,6 +129,13 @@ relations: []
 related: []
 keywords: ["نظام الرعاية الصحية العامة في ماليزيا", "وزارة الصحة الماليزية", "MOH", "KKM", "klinik kesihatan", "مستشفى حكومي ماليزيا", "رسم عيادة RM1", "رسوم المستشفيات العامة", "PeKa B40", "الرعاية الصحية الشاملة", "Malaysia public healthcare system", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: 'منظر خارجي لمستشفى الملكة إليزابيث في كوتا كينابالو، وهو مستشفى حكومي ماليزي كبير ضمن نظام الرعاية الصحية العامة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ادخل إلى عيادة حكومية ماليزية، وستجد الفاتورة عند المكتب تكاد لا تُذكر — **RM1** لتسجيل العيادات الخارجية العامة. وهذا ليس إحساناً — بل تصميم. فماليزيا تدير **نظام رعاية صحية ثنائي المستوى**: خدمة عامة تديرها الحكومة عبر **وزارة الصحة (MOH، *Kementerian Kesihatan Malaysia*، KKM)** إلى جانب قطاع خاص واسع. ويُموَّل الجانب العام **كلياً من الضرائب العامة، دون اشتراكات تأمين وطني إلزامية**، فتُقدَّم الرعاية مقابل رسوم رمزية مدعومة بقدر كبير لا أقساط. وقد أنتج هذا النموذج وصولاً شبه شامل بحصة متواضعة من الدخل الوطني — لكنه يحمل الآن عبء تكلفة متزايداً على الأسر وضغوط عرض حقيقية. يشرح هذا الدليل، بعبارات واضحة، كيف تصل إلى النظام، وما تكلفته، ومن يشمل، وأين يتعرض للإجهاد.

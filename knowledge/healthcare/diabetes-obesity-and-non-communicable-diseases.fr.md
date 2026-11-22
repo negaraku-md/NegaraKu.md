@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["diabète", "obésité", "MNT", "maladies non transmissibles", "NHMS 2023", "taxe sur le sucre", "PeKa B40", "Logo du choix plus sain", "dépistage de santé"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'L''extérieur de la Klinik Kesihatan Sungai-Sungai, une clinique de santé publique rurale de Malaisie, avec les drapeaux de la Malaisie et de Sabah et une ambulance.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Plus de la moitié des adultes de Malaisie portent aujourd'hui un poids qui pourrait raccourcir leur vie — et un sur six vit déjà avec le diabète, souvent sans s'en rendre compte. C'est l'épidémie silencieuse qui pèse sur les hôpitaux, les familles et l'économie nationale bien plus que n'importe quelle maladie infectieuse.

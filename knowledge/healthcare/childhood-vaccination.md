@@ -71,6 +71,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'Sebuah pusat vaksinasi Kementerian Kesihatan Malaysia yang disediakan untuk kanak-kanak, dengan mural mesra kanak-kanak ''Saya telah divaksin''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap bayi yang lahir di klinik atau hospital kerajaan Malaysia pulang dengan lebih daripada sekadar sijil kelahiran sementara — mereka pulang dengan sebuah buku kecil yang akan dibawa ke *setiap* lawatan klinik untuk enam tahun akan datang. Buku itu, dan jadual suntikan yang direkodkannya, adalah sebahagian daripada salah satu program kesihatan awam yang paling lama berjalan di negara ini.

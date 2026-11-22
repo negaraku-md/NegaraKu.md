@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'Bagian luar blok bersalin (Hospital Bersalin) Hospital Kuala Lumpur, dengan cakrawala kota di belakangnya.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hasil tes kehamilan yang positif memulai dua "jam" pada saat yang sama, dan hampir tidak ada seorang pun yang menjelaskan hal ini terlebih dahulu. Satu jam berkaitan dengan kehamilan itu sendiri — kapan harus mendaftar, di mana, dan apa yang terjadi pada setiap kunjungan. Satu lagi baru dimulai setelah bayi lahir, dan tidak ada kaitan langsung dengan rumah sakit: ia adalah pendaftaran hukum dengan departemen yang sama sekali berbeda.

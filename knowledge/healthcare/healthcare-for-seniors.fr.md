@@ -71,6 +71,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["prise en charge personnes âgées Malaisie", "maison de soins Malaisie", "Rumah Seri Kenangan", "Rumah Ehsan", "soins gériatriques Malaisie", "PeKa B40", "soins aux aînés Malaisie", "Care Centres Act 1993", "warga emas", "soins de longue durée Malaisie"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'L''entrée clôturée et le bâtiment d''une maison de retraite malaisienne (Rumah Warga Emas).'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Le moment arrive généralement en silence. Un parent qui se débrouillait très bien

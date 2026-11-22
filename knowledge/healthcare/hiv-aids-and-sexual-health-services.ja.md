@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: '白無地の背景に描かれた赤いアウェアネスリボンで、HIV／AIDS 啓発の国際的シンボルである。'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 リスクのある一夜を過ごし不安を抱える人は、マレーシアの政府保健クリニック（Klinik Kesihatan）に足を運び、無料かつ秘密厳守でHIV検査を受け、必要であれば数時間以内に予防薬を手にして帰ることができる。しかし同じ道のりは、守秘義務、法律、宗教、スティグマといった問題とも交差しており、それゆえHIVはこの国で最もセンシティブな健康トピックの一つとなっている。

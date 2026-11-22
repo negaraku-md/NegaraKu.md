@@ -65,6 +65,13 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: '야외 대기 공간이 있는 현대식 말레이시아 정부 보건 클리닉으로, B40 보건 계획 검진이 제공되는 종류의 Klinik Kesihatan이다.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 많은 사람이 'PeKa B40'라는 이름을 들어 보았지만 그 이해는 제각각입니다 — 모든 병원비를 보장한다고 여기는 사람도 있고, mySalam과 혼동하는 사람도 있으며, 별도로 신청해야 한다고 생각하여 그냥 무시하는 사람도 있습니다. 세 가지 생각 모두 정확하지 않습니다. PeKa B40는 명확하고 한정된 범위를 가지며 — 그 범위를 아는 것은 곧 언제 이용할지, 그리고 언제 다른 지원을 찾아야 할지를 아는 것입니다.

@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["لقاح حلال", "حكم اللقاح", "الجيلاتين في الدواء", "فتوى لقاح كوفيد-19", "الضرورة", "مقاصد الشريعة", "JAKIM", "Muzakarah", "vaccine halal"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'مبنى تجاري تراثي أحمر زاهٍ يضمّ صيدلية ماليزية (فارماسي) عند زاوية شارع في بلدة.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قد تحتوي قارورة لقاح واحدة على قليل من الجيلاتين بوصفه مادة مثبِّتة — ومن تلك التفصيلة الصغيرة ينشأ أحد أكثر الأسئلة الدينية تكرارًا لدى الأسر المسلمة في ماليزيا: هل هو حلال؟ ليس الجواب مجرد «نعم» أو «لا»، بل هو حصيلة عملية تقييم منظَّمة تشارك فيها هيئات الفتوى، والبحث العلمي، وعدد من مبادئ الفقه المحدّدة.

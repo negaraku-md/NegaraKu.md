@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: '布城（Putrajaya）一栋现代玻璃幕墙的马来西亚卫生部大楼，悬挂着一面巨大的马来西亚国旗。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 政府诊所承接了将近三分之二的全国门诊就诊量——但它们只占约四分之一的初级医疗设施。正是这种失衡（连同其他因素），促使马来西亚卫生部（KKM）撰写了一代人以来最重要的政策文件：医疗卫生白皮书。

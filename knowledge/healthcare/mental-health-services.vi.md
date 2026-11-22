@@ -81,6 +81,13 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'Một áp phích Ngày Sức khỏe Tâm thần Thế giới với dải ruy băng nhận thức màu xanh lá và thông điệp chấm dứt kỳ thị, một biểu tượng y tế công cộng tôn trọng dành cho sức khỏe tâm thần.'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Quyết định tìm sự giúp đỡ thường là phần khó nhất. Tìm ra *nơi* để hỏi là phần mà hầu như không ai giải thích — và chỉ riêng khoảng trống đó đã ngăn người ta gọi điện.

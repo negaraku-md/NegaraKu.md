@@ -74,6 +74,13 @@ faq:
   - q: ¿Es una póliza médica 'sin copago (no co-payment)' automáticamente mejor que una con copago?
     a: 'No necesariamente: el artículo lo señala como un error común. Un plan sin copago conlleva una prima más alta para los mismos límites de beneficios. Con el copago (co-payment), usted acepta de antemano asumir una parte definida de cada factura hospitalaria elegible a cambio de una prima más baja. Que esa compensación valga la pena depende de cuánto de una factura podría asumir usted mismo; consulte la hoja de divulgación del producto (product disclosure sheet) para conocer el porcentaje, cualquier tope y los tratamientos excluidos.'
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Las puertas de entrada a una sala de hospitalización en un hospital público malasio, un entorno neutral de atención médica.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dos empleados entran en el mismo hospital privado con el mismo brazo roto. Uno entrega una tarjeta y sale sin pagar un sen al recibir el alta. La otra paga una parte de la factura ella misma, porque la póliza que compró hace seis meses era más barata precisamente por esa razón.

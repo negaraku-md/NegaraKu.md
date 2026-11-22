@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "الورقة البيضاء للصحة", "reformasi kesihatan", "إصلاح النظام الصحي", "تمويل الصحة", "KKM", "insurans kesihatan nasional", "التأمين الصحي الوطني", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'مبنى حديث بواجهة زجاجية لوزارة الصحة الماليزية في بوتراجايا تتدلّى عليه راية ماليزية كبيرة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 تتولّى العيادات الحكومية قرابة ثُلثَي زيارات المرضى الخارجيين في البلاد — ومع ذلك لا تمثّل سوى نحو واحدة من كل أربع منشآت للرعاية الأولية. هذا الاختلال، من بين أمور أخرى، هو ما دفع وزارة الصحة الماليزية (MOH) إلى كتابة أهمّ وثيقة سياسات منذ جيل: الورقة البيضاء للصحة.

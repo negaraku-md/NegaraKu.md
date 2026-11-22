@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'Hospital Kuala Lumpur の専門・デイケア棟（Kompleks Pakar dan Rawatan Harian）の外観で、赤新月がある。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 紹介（リファラル）は、誰にとっても医療の転機となる瞬間です。医師が、あなたの問題には専門医が必要だと判断した――あるいは勧めた――ことで、あなたは突然、医療制度の別の部分をたどることになります。本ガイドはまさにそこから始まります。あなたに専門医が必要かどうかを告げるものでは**ありません**。その判断は臨床医に属します。本ガイドが行うのは、**マレーシアで紹介が実際にどう機能するか、そして何を準備すべきか**を説明し、クリニックから専門医への引き継ぎができるだけ円滑になるようにすることです。

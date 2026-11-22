@@ -79,6 +79,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "سيارة إسعاف الطوارئ", "قسم الطوارئ", "فرز المناطق الحمراء الصفراء الخضراء", "إسعاف مجاني", "رسوم طوارئ المستشفى الحكومي", "emergency"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'سيّارة إسعاف تابعة لوزارة الصحة الماليزية على طريق سريع، كُتب عليها ''Ambulans'' ورقم الطوارئ 999.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تطلب الرقم 999. يسألك الصوت على الطرف الآخر عن اسمك وموقعك وما الذي حدث — وخلال زمن الاستجابة المستهدف، ينبغي أن يكون طاقم سيارة إسعاف في طريقه إليك بالفعل. لكن كثيرين لا يعرفون ما يحدث فعلًا خلف تلك المكالمة: مَن الذي يجيب حقًا، وهل هي مجانية، ولماذا يُعالَج أحيانًا مريض آخر وصل إلى المستشفى بعدك قبلك.

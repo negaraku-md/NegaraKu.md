@@ -71,6 +71,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: '어린이를 위해 마련된 말레이시아 보건부 예방접종 센터로, 어린이 친화적인 ''나는 접종했어요'' 벽화가 있다.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아 정부 클리닉이나 병원에서 태어난 모든 영아는 임시 출생증명서 이상의 것을 가지고 집으로 돌아갑니다 — 앞으로 6년 동안 *매번* 클리닉을 방문할 때마다 지참하게 될 작은 책 한 권을 함께 가지고 갑니다. 그 책과, 그 책에 기록되는 접종 일정은 이 나라에서 가장 오래 운영되어 온 공중보건 프로그램 중 하나의 일부입니다.

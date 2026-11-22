@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'マレーシアの大規模な COVID-19 ワクチン接種センターのホールで、間隔を空けた座席が並び、人々が列をなしている。'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2020年3月18日、マレーシア全土の道路は人影がなくなった。国家が近代史上かつてない局面——COVID-19（新型コロナウイルス感染症）の感染拡大を封じ込めるための全面的な移動制限——に入ったからである。その後およそ2年間で、国の公衆衛生対応は全面的なロックダウンから、地域でも屈指の速さを誇るワクチン接種プログラムへと発展し、今日に至るまで保健医療制度を形づくり続ける影響を残した。

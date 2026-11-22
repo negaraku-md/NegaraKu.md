@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["ذوو الإعاقة", "OKU", "بطاقة OKU", "الرعاية الصحية لذوي الإعاقة", "PDK", "التأهيل المجتمعي", "الأجهزة المساعِدة", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'مصعد منصّة لكرسي متحرّك يحمل رمز إمكانية الوصول في مركز لإعادة تأهيل ذوي الإعاقة في ولاية جوهور بماليزيا.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 بطاقة بلاستيكية واحدة تحدّد ما إذا كان طفل مصاب بالتوحد سيتلقّى علاجًا مبكرًا، أو ما إذا كان بالغ فقد ساقه قادرًا على اقتناء طرف صناعي. في ماليزيا، تلك البطاقة — بطاقة ذوي الإعاقة (OKU) — هي البوابة إلى كل خدمة ومساعدة تقريبًا مصمّمة لذوي الإعاقة، وفهم كيفية عملها يوفّر الوقت والمال والعلاج المتأخّر.

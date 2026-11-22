@@ -73,6 +73,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["चिकित्सा पर्यटन मलेशिया", "medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "मलेशिया स्वास्थ्य-यात्री", "मलेशिया स्वास्थ्य-यात्रा लागत", "मरीज़ इलाज के लिए मलेशिया क्यों आते हैं"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'कुआलालंपुर में प्रिंस कोर्ट मेडिकल सेंटर का बाहरी दृश्य, एक अग्रणी मलेशियाई निजी अस्पताल जो चिकित्सा-पर्यटकों की सेवा करता है।'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जकार्ता का एक परिवार पिता की हृदय बाईपास (bypass) के लिए उड़ान भरकर आता है। एक ब्रिटिश दंपति IVF बुक करता है क्योंकि उनके देश में प्रतीक्षा-सूची उनकी प्रजनन-खिड़की से आगे निकल जाती है। बांग्लादेश का एक मरीज़ एक नियमित स्वास्थ्य जाँच के लिए आता है जिसे उसके गृहनगर का क्लीनिक नहीं कर सकता।

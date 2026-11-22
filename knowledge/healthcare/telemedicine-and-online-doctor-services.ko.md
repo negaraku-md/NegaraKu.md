@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: '원격 의료 워크스테이션에서 진단 모니터와 함께 비디오 화면을 통해 원격 환자를 진료하는 의사.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 당신은 앱을 열고, 소파에서 의사와 화상 통화를 하며, 한 시간 뒤 처방전이 받은편지함에 도착합니다. 말레이시아에서 이것은 전적으로 합법입니다 — 그러나 그 배후의 규정집은 당신이 예상할 법률이 아닙니다.

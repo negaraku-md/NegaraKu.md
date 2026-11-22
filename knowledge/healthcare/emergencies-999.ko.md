@@ -78,6 +78,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: '고속도로 위의 말레이시아 보건부 구급차로, 차체에 「Ambulans」와 긴급 전화번호 999가 표시되어 있다.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 당신이 999를 누릅니다. 회선 저편의 목소리가 이름, 위치, 무슨 일이 일어났는지를 묻고 — 목표한 시간 안에 구급대가 이미 출동해 있어야 합니다. 그러나 많은 사람이 그 신고 뒤에서 무슨 일이 일어나는지 알지 못합니다. 실제로 누가 받는지, 무료인지, 그리고 왜 병원에 나보다 늦게 도착한 다른 환자가 때로 먼저 치료를 받는지 말입니다.

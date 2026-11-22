@@ -79,6 +79,13 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: '제조 중인 lehyam(lekiyam) 약초 반죽 제제로, 싯다(Siddha) 의학 체계의 전통 약이다.'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아의 오래된 플랜테이션 지대와 도시의 타밀인 거리에서는 약초상을 만날 수 있습니다 — 말린 약초와 가루약(choornam), 기름이 선반에 줄지어 놓여 있습니다. 이것들은 우연이 아닙니다. 한 세기 반이 넘는 어느 의학 전통이 남긴 흔적입니다.

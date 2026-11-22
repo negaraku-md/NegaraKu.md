@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'ลิฟต์วีลแชร์แบบแท่นที่มีสัญลักษณ์การเข้าถึงได้ ที่ศูนย์ฟื้นฟูสมรรถภาพผู้พิการในรัฐยะโฮร์ มาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 บัตรพลาสติกใบหนึ่งเป็นตัวกำหนดว่าเด็กออทิสติกคนหนึ่งจะได้รับการบำบัดแต่เนิ่น ๆ หรือไม่ หรือผู้ใหญ่ที่สูญเสียขาข้างหนึ่งจะสามารถมีขาเทียมได้หรือไม่ ในมาเลเซีย บัตร OKU นั่นเองคือประตูสู่แทบทุกบริการและความช่วยเหลือที่ออกแบบมาสำหรับผู้พิการ — และการเข้าใจวิธีการทำงานของมันช่วยประหยัดเวลา เงิน ตลอดจนการรักษาที่ถูกเลื่อนออกไป

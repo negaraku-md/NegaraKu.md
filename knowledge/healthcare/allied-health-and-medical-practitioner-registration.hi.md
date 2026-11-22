@@ -64,6 +64,13 @@ relations:
 related: []
 keywords: ["डॉक्टर पंजीकरण", "pendaftaran doktor", "MMC", "MeRITS", "APC", "मलेशियन नर्सिंग बोर्ड", "Lembaga Jururawat Malaysia", "फार्मेसी बोर्ड मलेशिया", "Lembaga Farmasi Malaysia", "MAHPC", "संबद्ध स्वास्थ्य पेशा अधिनियम 2016", "Allied Health Professions Act 2016", "फिजियोथेरेपी"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'कुआलालंपुर में एक आधुनिक काँच-आवरण वाला विशेषज्ञ अस्पताल, जिसके सामने से एक लाइट-रेल ट्रेन गुज़र रही है।'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कोई व्यक्ति सफ़ेद कोट पहन सकता है, क्लिनिक की दीवार पर एक प्रमाणपत्र टाँग सकता है, और स्वयं को "डॉक्टर" कह सकता है — परंतु केवल एक ही चीज़ उसकी साख की सच्ची पुष्टि करती है: आधिकारिक रजिस्टर में उसके नाम का प्रकट होना। मलेशिया में, प्रत्येक डॉक्टर, नर्स, फार्मासिस्ट और फिजियोथेरेपिस्ट को उस संस्था के साथ पंजीकृत होना चाहिए जो उनके पेशे को विनियमित करती है। अच्छी बात यह है कि आप इसे स्वयं, निःशुल्क, जाँच सकते हैं।

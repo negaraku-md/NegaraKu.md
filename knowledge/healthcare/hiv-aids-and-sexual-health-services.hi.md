@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["HIV", "AIDS", "HIV परीक्षण", "PrEP", "PEP", "ART", "यौन स्वास्थ्य", "Majlis AIDS Malaysia", "स्वास्थ्य मंत्रालय"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'सादे सफ़ेद पृष्ठभूमि पर, HIV/AIDS जागरूकता का अंतरराष्ट्रीय प्रतीक, एक लाल जागरूकता रिबन।'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 किसी जोखिम भरी रात के बाद चिंतित कोई व्यक्ति मलेशिया में किसी सरकारी Klinik Kesihatan में जा सकता है, निःशुल्क और गोपनीय रूप से HIV परीक्षण करा सकता है, और — यदि आवश्यक हो — कुछ ही घंटों में निवारक दवा के साथ घर लौट सकता है। फिर भी वही रास्ता गोपनीयता, कानून, धर्म और कलंक के उन प्रश्नों से भी टकराता है जो HIV को देश के सबसे संवेदनशील स्वास्थ्य विषयों में से एक बनाते हैं।

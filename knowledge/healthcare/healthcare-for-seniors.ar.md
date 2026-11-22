@@ -71,6 +71,13 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["رعاية المسنين في ماليزيا", "دار رعاية المسنين", "Rumah Seri Kenangan", "Rumah Ehsan", "رعاية الشيخوخة", "PeKa B40", "Care Centres Act 1993", "warga emas", "الرعاية طويلة الأمد في ماليزيا", "elderly care Malaysia", "geriatric care Malaysia"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'المدخل المسوّر ومبنى دار لرعاية المسنّين الماليزية (روماه وارغا إيماس).'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 عادةً ما تأتي اللحظة بهدوء. فأحد الوالدين الذي كان يدبّر أموره وحده بخير يبدأ بنسيان الموقد مُشعَلًا، أو يتعرّض للسقوط أكثر من اللازم، وتجد أسرة لم تخطّط لهذا قطّ نفسها مضطرّة إلى أن تقرّر، على عجل، ما الخطوة التالية. وماليزيا لديها بالفعل نظام لهذا الأمر — غير أنه موزّع بين عيادة صحية تتعامل أصلًا مع المسنين ونظام رعاية اجتماعية لا تكتشفه معظم الأسر إلا حين تبدأ البحث عنه.

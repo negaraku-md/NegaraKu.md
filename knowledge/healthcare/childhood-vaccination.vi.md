@@ -72,6 +72,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'Một trung tâm tiêm chủng của Bộ Y tế Malaysia được bố trí cho trẻ em, với bức tranh tường thân thiện với trẻ ghi ''I''m vaccinated''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi trẻ sơ sinh chào đời tại phòng khám hoặc bệnh viện chính phủ của Malaysia trở về nhà với nhiều hơn chỉ một giấy khai sinh tạm thời — chúng trở về với một cuốn sổ nhỏ sẽ được mang đến *mỗi* lần đến phòng khám trong sáu năm tới. Cuốn sổ đó, và lịch tiêm được ghi trong nó, là một phần của một trong những chương trình y tế công cộng chạy lâu đời nhất của đất nước.

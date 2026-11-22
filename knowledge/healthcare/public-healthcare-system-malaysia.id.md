@@ -129,6 +129,13 @@ relations: []
 related: []
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: 'Pemandangan luar Queen Elizabeth Hospital di Kota Kinabalu, sebuah rumah sakit pemerintah Malaysia yang besar dalam sistem layanan kesehatan publik.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Melangkah masuk ke klinik pemerintah Malaysia dan tagihan di loket hampir tidak ada — **RM1** untuk pendaftaran pasien rawat jalan umum. Itu bukan sedekah — itu rancangan. Malaysia menjalankan **sistem perawatan kesehatan dua jenjang**: layanan publik yang dikelola pemerintah di bawah **Kementerian Kesehatan (MOH, *Kementerian Kesihatan Malaysia*, KKM)** di samping sektor swasta yang besar. Bagian publik **dibiayai sepenuhnya oleh pajak umum, tanpa iuran asuransi nasional wajib**, jadi perawatan disampaikan dengan biaya nominal yang disubsidi tinggi dan bukan premi. Model itu telah menghasilkan akses hampir universal dengan porsi pendapatan negara yang sederhana — tetapi ia kini membawa beban biaya rumah tangga yang meningkat serta tekanan pasokan yang nyata. Panduan ini menjelaskan, dalam istilah sederhana, cara Anda mengakses sistem ini, berapa biayanya, siapa yang dilindunginya, dan di mana ia tertekan.

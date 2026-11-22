@@ -60,6 +60,13 @@ relations:
 related: []
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'Papan nama muka toko sebuah toko obat tradisional dan kesehatan Malaysia, mewakili praktik pengobatan tradisional dan komplementer.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sejak 1 Maret 2025, tukang pijat tradisional, praktisi pengobatan Tionghoa, ahli homeopati, dan kiropraktor di Malaysia tidak boleh lagi membuka pintu klinik tanpa selembar dokumen — sertifikat pendaftaran. Era "berpraktik atas nama pengalaman" sudah berakhir.

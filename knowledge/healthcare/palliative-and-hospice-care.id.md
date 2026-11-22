@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Sebuah papan tanda pintu rumah sakit bertuliskan Ruang Konferensi Keluarga Kedokteran Paliatif, sebuah gambaran perawatan paliatif yang netral dan tidak grafis.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ketika perawatan tidak lagi bertujuan menyembuhkan, fokus beralih ke satu hal: memastikan pasien nyaman dan bermartabat. Itulah inti perawatan paliatif — dan di Malaysia, ia dapat diakses melalui tiga jalur yang berbeda.

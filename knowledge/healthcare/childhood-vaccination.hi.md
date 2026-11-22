@@ -72,6 +72,13 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["मलेशिया में बाल टीकाकरण", "राष्ट्रीय प्रतिरक्षण अनुसूची", "राष्ट्रीय प्रतिरक्षण कार्यक्रम", "National Immunisation Programme", "स्वास्थ्य क्लीनिकों में मुफ़्त टीके", "शिशु एवं बाल स्वास्थ्य रिकॉर्ड पुस्तिका", "Immunise4Life Malaysia", "मुफ़्त टीकाकरण मलेशिया"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'बच्चों के लिए स्थापित एक मलेशियाई स्वास्थ्य मंत्रालय का टीकाकरण केंद्र, जिसमें बच्चों के अनुकूल ''I''m vaccinated'' भित्ति-चित्र है।'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में सरकारी क्लीनिक या अस्पताल में जन्मा हर बच्चा घर सिर्फ़ एक अस्थायी जन्म प्रमाणपत्र से ज़्यादा लेकर लौटता है — वह एक छोटी पुस्तिका के साथ घर जाता है जिसे अगले छह वर्षों तक क्लीनिक की *हर* यात्रा पर ले जाया जाएगा। वह पुस्तिका, और जो टीकाकरण अनुसूची वह दर्ज करती है, देश के सबसे लंबे समय से चले आ रहे सार्वजनिक स्वास्थ्य कार्यक्रमों में से एक का हिस्सा है।

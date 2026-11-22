@@ -79,6 +79,13 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'A Ministry of Health Malaysia ambulance on a highway, marked ''Ambulans'' and the 999 emergency number'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 You dial 999. The voice on the other end asks your name, location, and what happened — and within the target response time, an ambulance crew should already be on the way. But many people don't know what actually happens behind that call: who really answers, whether it's free, and why another patient who arrived at the hospital later is sometimes treated before you.

@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaisie", "PKP", "MCO", "PICK", "vaccination", "MySejahtera", "Livre blanc de la santé", "pandémie"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'La salle d''un grand centre de vaccination contre la COVID-19 en Malaisie avec des rangées de sièges espacés et des gens faisant la queue.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Le 18 mars 2020, les rues de toute la Malaisie se sont tues alors que le pays entrait dans une phase sans équivalent dans son histoire moderne : une restriction généralisée des déplacements pour freiner la propagation de la COVID-19. Au cours des deux années qui ont environ suivi, la réponse de santé publique du pays a évolué d'un confinement national vers l'un des programmes de vaccination les plus rapides de la région — et a laissé une empreinte qui façonne encore le système de santé aujourd'hui.

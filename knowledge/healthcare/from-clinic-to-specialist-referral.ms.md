@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'Bahagian luar Kompleks Pakar dan Rawatan Harian di Hospital Kuala Lumpur, dengan bulan sabit merah.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Rujukan ialah saat genting dalam penjagaan sesiapa pun: doktor anda telah memutuskan — atau mencadangkan — bahawa masalah anda memerlukan pakar, dan tiba-tiba anda sedang menyelusuri bahagian sistem kesihatan yang berbeza. Panduan ini bermula tepat di situ. Ia **tidak** memberitahu anda sama ada anda memerlukan pakar; pertimbangan itu milik klinikal anda. Apa yang ia lakukan ialah menerangkan **cara rujukan sebenarnya berfungsi di Malaysia, dan apa yang perlu disediakan**, supaya penyerahan daripada klinik kepada pakar selancar yang mungkin.

@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'Một thang nâng xe lăn dạng bục có ký hiệu tiếp cận tại một trung tâm phục hồi chức năng cho người khuyết tật ở Johor, Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một tấm thẻ nhựa quyết định liệu một đứa trẻ tự kỷ có được trị liệu sớm hay không, hoặc liệu một người trưởng thành mất chân có thể có được chân giả hay không. Tại Malaysia, chính tấm thẻ OKU đó là cửa ngõ dẫn đến gần như mọi dịch vụ và trợ cấp được thiết kế cho người khuyết tật — và việc hiểu cách nó vận hành giúp tiết kiệm thời gian, tiền bạc cũng như tránh việc điều trị bị trì hoãn.

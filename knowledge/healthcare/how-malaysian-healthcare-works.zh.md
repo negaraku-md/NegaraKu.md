@@ -87,6 +87,13 @@ stayFacts:
   cost: '要从结构而非固定数字去理解：公共医疗对公民与永久居民获大量补贴，而外国人依非公民收费表付出高得多的费用，私营医疗则由自付或透过保险按该机构收取的价格支付。确切的令吉金额依 Fees (Medical) Order 订定并定期修订，因此在依据任何引用的数字之前，请向卫生部公布的命令或直接向医疗提供者核实现行收费。'
   watch: '作为外国人，你享受不到面向公民的补贴——PeKa B40、MySalam 与公民收费表都与公民身份或 B40 现金援助领取资格挂钩，因此应打算购买私人保险（并留意：有合法证件的外籍劳工必须持有由雇主安排的 SPIKPA 住院保险，才能更新工作准证）。'
   next: '弄清楚你属于哪一类（外籍劳工、外派人士还是游客），并在依赖任何本地计划之前安排好合适的保障。欲知详情，参见姊妹指南《马来西亚医疗保险》《私立医院与费用》，以及《健康诊所（Klinik Kesihatan）》。'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'Kuala Lumpur Hospital 专科与日间治疗大楼外观，这是一所马来西亚政府医院，设有红新月徽记。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一位马来西亚退休人士胸口疼痛，叫了救护车被送往最近的政府医院，一名心脏科专科医生为他诊治，收费只是实际成本的一小部分。他的邻居，一名来自印尼的工作准证持有人，出现相同的症状，被送到同一家医院的急诊部——但随后开出的账单，却是按照完全不同的收费表计算的，因为在卫生部眼中，这两人并不是同一类病人。

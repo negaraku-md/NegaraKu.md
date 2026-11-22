@@ -75,6 +75,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'マレーシアの歯科医院 Klinik Pergigian Yap の通りに面した正面で、看板に歯科サービスが列挙されている。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 多くの人は「歯医者」をひとつのものだと考えている——虫歯を詰めたり、

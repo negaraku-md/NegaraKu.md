@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'Một căn nhà phố di sản màu đỏ tươi là nơi đặt một hiệu thuốc Malaysia (farmasi) ở góc phố thị trấn.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một lọ vắc-xin có thể chứa một chút gelatin làm chất ổn định — và chính từ chi tiết nhỏ đó nảy sinh một trong những câu hỏi tôn giáo được các gia đình Hồi giáo tại Malaysia đặt ra thường xuyên nhất: nó có halal không? Câu trả lời không chỉ đơn thuần là "có" hay "không", mà là kết quả của một quá trình đánh giá có cấu trúc bao gồm các cơ quan fatwa, nghiên cứu khoa học và một số nguyên tắc fiqh cụ thể.

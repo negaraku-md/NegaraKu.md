@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: '말레이시아 조호르주의 장애 재활 센터에 있는 접근성 기호가 표시된 플랫폼식 휠체어 리프트.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 플라스틱 카드 한 장이 자폐 아동이 조기 치료를 받는지, 다리를 잃은 성인이 의족을 가질 수 있는지를 좌우합니다. 말레이시아에서 그 OKU 카드가 바로 장애인을 위해 설계된 거의 모든 서비스와 지원의 진입점이며 — 그것이 어떻게 작동하는지를 이해하는 것은 시간, 돈, 그리고 미뤄진 치료를 아껴 줍니다.

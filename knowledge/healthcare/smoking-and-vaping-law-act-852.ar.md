@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["Act 852", "قانون مراقبة التدخين", "السجائر الإلكترونية", "vape", "التبغ", "النيكوتين", "الحد الأدنى لسن التدخين", "generational endgame", "مناطق حظر التدخين"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'لافتة منع تدخين بالماليزية والصينية والإنجليزية (Dilarang Merokok / No Smoking) في ماليزيا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لأول مرة، تخضع السيجارة وجهاز السجائر الإلكترونية للقانون نفسه في ماليزيا — ولم يعد حظر البيع للمراهقين مجرد سياسة، بل أصبح جريمة يُعاقَب عليها بغرامات تبلغ آلاف الرينغيت.

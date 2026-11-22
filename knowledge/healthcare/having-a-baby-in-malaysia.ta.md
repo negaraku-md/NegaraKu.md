@@ -63,6 +63,13 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'பின்னணியில் நகரத் தொடுவானத்துடன், ஹொஸ்பிட்டல் குவாலாலம்பூரின் மகப்பேறு பிரிவின் (ஹொஸ்பிட்டல் பெர்சாலின்) வெளிப்புறம்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு நேர்மறையான கர்ப்பப் பரிசோதனை (pregnancy test) ஒரே நேரத்தில் இரண்டு கடிகாரங்களைத் தொடங்கிவைக்கிறது, ஆனால் இதை முன்கூட்டியே யாரும் விளக்குவதில்லை. ஒரு கடிகாரம் கர்ப்பத்தைப் பற்றியது — எப்போது பதிவு செய்வது, எங்கு, ஒவ்வொரு வருகையிலும் என்ன நடக்கிறது. மற்றொன்று குழந்தை பிறந்த பிறகுதான் தொடங்குகிறது, அதற்கு மருத்துவமனைகளுடன் எந்தத் தொடர்பும் இல்லை: அது முற்றிலும் வேறுபட்ட ஒரு துறையில் செய்யப்படும் சட்டப்பூர்வப் பதிவு.

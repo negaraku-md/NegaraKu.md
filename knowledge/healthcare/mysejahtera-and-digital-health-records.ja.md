@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'マレーシアの店舗にある印刷された MySejahtera チェックイン QR 掲示で、マレーシアのデジタルヘルスプラットフォームの一部である。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 パンデミックが落ち着くと、多くの人がMySejahteraをスマートフォンから削除した——しかし、このアプリが消えたわけではない。ただ、その役割が変わっただけである。

@@ -68,6 +68,13 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan मलेशिया", "सरकारी क्लीनिक मलेशिया", "MySejahtera क्लीनिक अपॉइंटमेंट", "PeKa B40", "मलेशिया प्राथमिक स्वास्थ्य सेवा", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "klinik kesihatan में पंजीकरण कैसे करें", "Klinik Kesihatan Malaysia"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'राष्ट्रीय और राज्य के झंडों के साथ, एक मलेशियाई स्वास्थ्य मंत्रालय का सामुदायिक स्वास्थ्य क्लिनिक, क्लिनिक केसिहातान जालान लानांग का प्रवेश-द्वार और नाम-पट्ट।'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक बुखार जो उतरता नहीं, एक बच्चा जिसका टीकाकरण होना है, या रक्तचाप जिसकी मासिक निगरानी चाहिए — और जो पहला सवाल आमतौर पर उठता है वह «इलाज क्या है» नहीं होता, बल्कि «मैं किस क्लीनिक जाऊँ» होता है। निजी क्लीनिक तेज़ हैं पर महँगे। सरकारी अस्पताल छोटी समस्याओं के लिए भीड़-भरे हैं। और «सरकारी क्लीनिक» स्वयं वास्तव में एक ही प्रकार की सुविधा नहीं है — बहुत से लोगों को यह एहसास नहीं कि Klinik Kesihatan, Klinik Komuniti और Klinik Pergigian एक ही छत के नीचे तीन अलग सुविधाएँ हैं।

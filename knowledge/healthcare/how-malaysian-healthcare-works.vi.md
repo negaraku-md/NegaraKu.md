@@ -88,6 +88,13 @@ stayFacts:
   cost: 'Hãy nghĩ theo hình dạng, không phải các con số cố định: chăm sóc công được trợ giá nhiều cho công dân và thường trú nhân, trong khi người nước ngoài trả nhiều hơn đáng kể theo biểu phí dành cho người không phải công dân, và chăm sóc tư được trả từ túi tiền hoặc qua bảo hiểm theo mức mà cơ sở tính. Các con số ringgit chính xác được ấn định theo Fees (Medical) Order và được điều chỉnh định kỳ, nên hãy xác nhận các khoản phí hiện hành với lệnh đã công bố của MOH hoặc trực tiếp với bên cung cấp trước khi dựa vào bất kỳ con số được trích dẫn nào.'
   watch: 'Các khoản trợ giá dành cho công dân không đến được với bạn với tư cách người nước ngoài — PeKa B40, MySalam và biểu phí dành cho công dân gắn với quốc tịch hoặc tình trạng người nhận trợ cấp tiền mặt B40, nên hãy dự trù bảo hiểm tư nhân (và lưu ý rằng lao động nước ngoài có giấy tờ phải có bảo hiểm nhập viện SPIKPA để gia hạn giấy phép lao động, do người sử dụng lao động thu xếp).'
   next: 'Hãy xác định bạn thuộc nhóm nào (lao động nước ngoài, người nước ngoài định cư, hay du khách) và thu xếp bảo hiểm phù hợp trước khi dựa vào bất kỳ chương trình địa phương nào. Để biết chi tiết, hãy xem các hướng dẫn đồng hành Bảo hiểm y tế tại Malaysia, Bệnh viện tư và chi phí, và Klinik Kesihatan.'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'Bên ngoài khu chuyên khoa và điều trị ban ngày của Bệnh viện Kuala Lumpur, một bệnh viện của chính phủ Malaysia, với biểu tượng lưỡi liềm đỏ.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một người Malaysia đã về hưu bị đau ngực gọi xe cứu thương và được đưa đến bệnh viện nhà nước gần nhất, nơi một bác sĩ tim mạch khám cho ông với mức phí chỉ trang trải một phần nhỏ chi phí thực. Người hàng xóm của ông, một người giữ giấy phép lao động đến từ Indonesia với cùng triệu chứng, được đưa đến khoa cấp cứu của cùng bệnh viện đó — nhưng hóa đơn sau đó được tính theo một biểu phí hoàn toàn khác, bởi trong mắt bộ, hai người họ không phải cùng một loại bệnh nhân.

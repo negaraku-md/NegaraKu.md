@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'Một tòa nhà hiện đại mặt tiền kính của Bộ Y tế Malaysia ở Putrajaya được phủ một lá cờ Malaysia lớn.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Phòng khám nhà nước tiếp nhận gần hai phần ba số lượt khám ngoại trú của cả nước — nhưng chỉ chiếm khoảng một trong bốn cơ sở chăm sóc ban đầu. Chính sự mất cân đối này, cùng nhiều yếu tố khác, đã thúc đẩy Bộ Y tế Malaysia (Kementerian Kesihatan Malaysia, KKM) soạn thảo văn kiện chính sách quan trọng nhất trong một thế hệ: Sách Trắng Y tế.

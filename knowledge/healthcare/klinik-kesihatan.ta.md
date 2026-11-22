@@ -68,6 +68,13 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'தேசிய மற்றும் மாநிலக் கொடிகளுடன், மலேசிய சுகாதார அமைச்சக சமூக சுகாதார கிளினிக்கான கிளினிக் கெசிஹாத்தான் ஜலான் லானாங்கின் நுழைவாயிலும் அடையாளப் பலகையும்.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 குறையாத காய்ச்சல், தடுப்பூசி போட வேண்டிய குழந்தை, அல்லது மாதந்தோறும்

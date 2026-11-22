@@ -77,6 +77,13 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'หน้าร้านริมถนนของคลินิกทันตกรรมมาเลเซีย Klinik Pergigian Yap พร้อมป้ายแสดงรายการบริการทันตกรรม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 หลายคนคิดว่า "คลินิกทันตกรรม" เป็นสิ่งเดียว — ที่สำหรับอุดฟันที่เป็นรูหรือถอนฟันคุด แต่ในมาเลเซีย การดูแลทันตสุขภาพจริง ๆ แล้วดำเนินไปบนสองรางที่แยกจากกัน รางหนึ่งดำเนินการโดยรัฐบาลผ่านกระทรวงสาธารณสุขมาเลเซีย (KKM) อีกรางหนึ่งโดยภาคเอกชน — และขอบเขตการรักษาระหว่างทั้งสองไม่เหมือนกัน

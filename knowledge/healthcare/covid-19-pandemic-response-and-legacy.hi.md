@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 मलेशिया", "PKP", "MCO", "PICK", "टीकाकरण", "MySejahtera", "स्वास्थ्य श्वेत पत्र", "महामारी"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'मलेशिया में एक बड़े कोविड-19 टीकाकरण केंद्र का सभागार, जिसमें दूरी वाली बैठने की पंक्तियाँ और कतार में खड़े लोग हैं।'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 18 मार्च 2020 को, मलेशिया भर की सड़कें सन्नाटे में डूब गईं क्योंकि देश ने अपने आधुनिक इतिहास में किसी भी चीज़ से भिन्न एक चरण में प्रवेश किया: COVID-19 के प्रसार को रोकने के लिए आवाजाही पर एक व्यापक प्रतिबंध। इसके बाद लगभग दो वर्षों में, देश की सार्वजनिक स्वास्थ्य प्रतिक्रिया एक राष्ट्रव्यापी लॉकडाउन से क्षेत्र के सबसे तेज़ टीकाकरण कार्यक्रमों में से एक में विकसित हुई — और एक ऐसी छाप छोड़ गई जो आज भी स्वास्थ्य प्रणाली को आकार देती है।

@@ -68,6 +68,13 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'Pintu masuk dan papan tanda Klinik Kesihatan Jalan Lanang, sebuah klinik kesehatan komunitas Kementerian Kesehatan Malaysia, dengan bendera nasional dan negara bagian.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Demam tak kunjung reda, anak perlu suntikan imunisasi, atau tekanan darah perlu dipantau bulanan — dan pertanyaan pertama yang muncul biasanya bukan "apa perawatannya", melainkan "harus pergi ke klinik yang mana". Klinik swasta cepat tapi mahal. Rumah sakit pemerintah penuh sesak untuk masalah kecil. Dan "klinik pemerintah" sendiri sebenarnya bukan satu jenis fasilitas saja — banyak yang tidak sadar Klinik Kesihatan, Klinik Komuniti dan Klinik Pergigian adalah tiga fasilitas terpisah di bawah atap yang sama.

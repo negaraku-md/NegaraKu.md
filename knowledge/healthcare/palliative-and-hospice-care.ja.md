@@ -67,6 +67,13 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: '病院の戸口の標識で、「Palliative Medicine Family Conference Room（緩和医療 家族相談室）」と記された、緩和ケアの中立的で非描写的な表現である。'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 治療がもはや治癒を目的としなくなったとき、焦点は一つのことに移る——患者が快適で尊厳を保てるようにすることだ。それが緩和ケアの核心である——そしてマレーシアでは、三つの異なる経路を通じてこれにアクセスできる。

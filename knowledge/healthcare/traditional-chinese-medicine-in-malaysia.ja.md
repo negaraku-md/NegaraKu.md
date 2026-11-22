@@ -74,6 +74,13 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'ペナンのジョージタウンにある中医薬店の店内で、ラベル付きの生薬の引き出しと乾燥生薬がある。'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 多くの古い町の街角には、必ずといっていいほど漢方薬店がある。木製の棚の壁には小さな引き出しがびっしりと並び、空気には当帰（当归）、陳皮（陈皮）、甘草（甘草）が混ざり合った匂いが漂う。カウンターの奥では、老店主が客の不調を聞きながら、生薬を一味ずつ量ってクラフト紙に入れ、一包の薬として包んでいく。こうした店はマレーシアの華人社会に百年以上も存在してきた。

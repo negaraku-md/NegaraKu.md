@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'சுகாதார அமைச்சக அடையாளப் பலகை மற்றும் சிவப்பு பிறை கொண்ட மலேசிய அரசு சுகாதார கிளினிக்கான கிளினிக் கெசிஹாத்தான் நிலையின் வெளிப்புறம்.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் கருக்கலைப்பு முற்றிலும் தடைசெய்யப்பட்டுள்ளது என்று பலர் கருதுகின்றனர் — உண்மையில், சட்டம் அதை இன்னும் சிக்கலான ஒரு இடத்தில் வைக்கிறது: ஒரு முக்கியமான மருத்துவ விதிவிலக்குடன் கூடிய ஒரு குற்றவியல் குற்றம். அந்தக் கோடு எங்கே வரையப்பட்டுள்ளது என்பதைப் புரிந்துகொள்ள, பொதுவான எண்ணங்களை அல்ல, Penal Code-இன் உண்மையான உரையை நாம் படிக்க வேண்டும்.

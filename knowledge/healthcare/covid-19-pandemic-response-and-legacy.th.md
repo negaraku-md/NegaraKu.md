@@ -75,6 +75,13 @@ relations:
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'ห้องโถงของศูนย์ฉีดวัคซีน COVID-19 ขนาดใหญ่ในมาเลเซีย มีที่นั่งเว้นระยะเป็นแถวและผู้คนต่อแถว'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในวันที่ 18 มีนาคม 2020 ถนนหนทางทั่วมาเลเซียกลายเป็นความเงียบเหงาเมื่อประเทศเข้าสู่ช่วงเวลาที่ไม่เคยประสบมาก่อนในประวัติศาสตร์สมัยใหม่ นั่นคือการจำกัดการเคลื่อนย้ายอย่างครอบคลุมเพื่อสกัดการแพร่ระบาดของ COVID-19 ในช่วงราวสองปีถัดมา การรับมือด้านสาธารณสุขของประเทศพัฒนาจากการล็อกดาวน์อย่างครอบคลุมไปสู่หนึ่งในโครงการฉีดวัคซีนที่รวดเร็วที่สุดในภูมิภาค — และทิ้งผลกระทบที่ยังคงหล่อหลอมระบบสาธารณสุขมาจนถึงทุกวันนี้

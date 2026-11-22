@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'Sebuah rumah kedai warisan berwarna merah terang yang menempatkan sebuah farmasi Malaysia di sebuah sudut jalan bandar.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sebotol vaksin boleh mengandungi sedikit gelatin sebagai penstabil — dan daripada butiran kecil itulah timbul salah satu persoalan agama yang paling kerap ditanya keluarga Muslim di Malaysia: adakah ia halal? Jawapannya bukan sekadar "ya" atau "tidak", tetapi hasil satu proses penilaian berstruktur yang melibatkan badan fatwa, kajian saintifik, dan beberapa prinsip fiqh yang khusus.

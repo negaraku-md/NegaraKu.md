@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["vacuna halal", "dictamen sobre vacunas", "gelatina en los medicamentos", "fatua vacuna COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'Una casa-tienda histórica de color rojo brillante que alberga una farmacia malasia (farmasi) en una esquina de una calle urbana.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un solo vial de vacuna puede contener un poco de gelatina como estabilizante, y de ese pequeño detalle surge una de las preguntas religiosas que las familias musulmanas de Malasia formulan con más frecuencia: ¿es halal? La respuesta no es un simple «sí» o «no», sino el resultado de un proceso de evaluación estructurado en el que intervienen organismos de la fatua, la investigación científica y varios principios específicos del fiqh.

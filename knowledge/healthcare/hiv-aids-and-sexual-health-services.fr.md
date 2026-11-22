@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["VIH", "sida", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'Un ruban rouge de sensibilisation, le symbole international de la sensibilisation au VIH/sida, sur un fond blanc uni.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Une personne angoissée après une nuit à risque peut entrer dans une Klinik Kesihatan publique en Malaisie, se faire dépister pour le VIH gratuitement et de façon confidentielle et — si besoin — rentrer chez elle avec un traitement préventif en quelques heures. Pourtant, ce même parcours croise aussi des questions de confidentialité, de droit, de religion et de stigmatisation qui font du VIH l'un des sujets de santé les plus sensibles du pays.
