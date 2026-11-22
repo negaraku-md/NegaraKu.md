@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'A concrete hydroelectric dam with a spillway set among forested highlands at Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 While Peninsular Malaysia relies on Tenaga Nasional Berhad, Sarawak lights its own lamps through a single utility whose grid is not connected at all to the national grid — and which is generated almost entirely by the waterfalls of giant dams in the interior.

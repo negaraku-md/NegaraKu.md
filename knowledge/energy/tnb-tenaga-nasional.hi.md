@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'मलेशिया में उच्च-वोल्टेज संचरण टावरों के एक घने समूह के पीछे चिमनियों वाला एक तापीय बिजली संयंत्र।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जब भी प्रायद्वीपीय मलेशिया के किसी घर, कारख़ाने या डेटा सेंटर में बत्ती जलती है, तो संभावना यही है कि वे इलेक्ट्रॉन एक ही कंपनी के स्वामित्व वाले नेटवर्क से होकर बहते हैं: तेनागा नासिओनल बरहाद। यह केवल एक बिजली उत्पादक नहीं, बल्कि राष्ट्र की ऊर्जा प्रणाली की रीढ़ है — बिजलीघर से लेकर दीवार पर लगे बिजली-मीटर तक।

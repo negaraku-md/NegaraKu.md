@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: '马来西亚民都鲁一座离岸液化天然气装载码头，管道和栈桥架设在浅海之上。'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 每当雪兰莪的一座发电厂启动，或槟城的一家手套工厂点燃烤炉时，所用的天然气很可能是从数百公里之外——登嘉楼近海，或跨越南中国海的砂拉越——开始它的旅程的。马来西亚既是举足轻重的天然气出口国，又日益成为天然气进口国，而调和这两个事实的管道和终端，正是这个国家最有价值的能源资产之一。

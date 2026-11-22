@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'محطة كهرباء حرارية ذات مداخن خلف تجمّع كثيف من أبراج نقل الكهرباء عالية الجهد في ماليزيا.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في كل مرة يُضاء فيها مصباح في منزل أو مصنع أو مركز بيانات في شبه جزيرة ماليزيا، يُرجَّح أن تلك الإلكترونات تتدفق عبر شبكة تملكها شركة واحدة: تيناغا ناسيونال برهاد. وهي ليست مجرد مولِّد للطاقة، بل العمود الفقري لمنظومة الطاقة الوطنية — من محطة التوليد حتى عدّاد الكهرباء على الجدار.

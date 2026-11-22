@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["प्राकृतिक गैस मलेशिया", "LNG मलेशिया", "बिंटुलु LNG", "Peninsular Gas Utilisation", "PGU पाइपलाइन", "पुनर्गैसीकरण टर्मिनल", "तृतीय-पक्ष पहुँच", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'मलेशिया के बिंतुलु में उथले तटीय पानी के ऊपर पाइपलाइन और घाटों वाला एक अपतटीय द्रवीकृत प्राकृतिक गैस लदान टर्मिनल।'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 हर बार जब सेलांगोर में कोई बिजली संयंत्र चालू होता है या पिनांग में कोई दस्ताना कारखाना अपनी भट्टियाँ गरम करता है, तो गैस ने सबसे अधिक संभावना सैकड़ों किलोमीटर दूर, ट्रेंगानु के अपतट या दक्षिण चीन सागर के पार सारावाक में अपनी यात्रा शुरू की थी। मलेशिया एक साथ एक भारी-भरकम गैस निर्यातक है और, बढ़ते तौर पर, एक गैस आयातक भी, और जो पाइप तथा टर्मिनल इन दो तथ्यों में सामंजस्य बिठाते हैं, वे देश की सबसे मूल्यवान ऊर्जा परिसंपत्तियों में से हैं।

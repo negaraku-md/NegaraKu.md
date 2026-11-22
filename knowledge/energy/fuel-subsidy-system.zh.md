@@ -134,6 +134,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: '马来西亚一座 Petronas 加油站前庭，顶棚下设有加油泵。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 数十年来，马来西亚的每一个人——无论是百万富翁还是割胶工人——在油站付的汽油价格都一样。2025年9月30日，这套安排画上句号。如今一公升RON95对你可能是RM1.99，对你的邻居却几乎是两倍，而决定这一切的不是国际油价，而是你插入终端机的那张身份证。

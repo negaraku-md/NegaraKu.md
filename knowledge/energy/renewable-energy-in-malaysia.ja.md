@@ -111,6 +111,13 @@ relations: []
 related: []
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'マレーシアのキャンパスの湖に浮かぶ太陽光発電パネルの列と、その脇にある屋根付きの歩道。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアの再生可能エネルギー（RE）について調べたことがあれば、おそらく31%、40%、70%という三つの異なる目標数値と、FiT、NEM、LSS、CGPP、CRESS、SELCOという頭字語の壁に突き当たったはずだ。これらは互いに矛盾しているわけではない——ただ、半ダースほどの機関にまたがって分散しており、それぞれが自らの担当領域だけを記録しているにすぎない。本ガイドは、その全体像を一箇所にまとめる：国の目標とその背景にあるロードマップ、一連の制度群、そして——ほとんどの情報源が見落としている部分——どの制度が実際に住宅所有者、企業、あるいは開発事業者のために設けられているのかである。

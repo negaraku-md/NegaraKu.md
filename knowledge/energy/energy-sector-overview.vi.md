@@ -98,6 +98,13 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên cao của một nhà máy điện than ven biển với các ống khói và cầu cảng vươn ra biển.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bật công tắc đèn ở Kuala Lumpur, đổ xăng RON95 ở Ipoh, hoặc lắp tấm pin mặt trời trên mái nhà ở Johor — đằng sau mỗi hành động đó là một mạng lưới các định chế, luật lệ và chính sách mà người tiêu dùng ít khi thấy. Ngành năng lượng Malaysia không phải là một thứ; nó là bốn thế giới chồng lấn: điện, dầu và khí, nhiên liệu, và năng lượng tái tạo. Cẩm nang này lập bản đồ ai kiểm soát điều gì, và cách tất cả ghép lại với nhau.

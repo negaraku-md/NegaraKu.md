@@ -92,6 +92,13 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'An offshore liquefied-natural-gas loading terminal with pipework and jetties over shallow coastal water at Bintulu, Malaysia.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Every time a power plant in Selangor fires up or a glove factory in Penang heats its ovens, the gas most likely began its journey hundreds of kilometres away, offshore Terengganu or across the South China Sea in Sarawak. Malaysia is at once a heavyweight gas exporter and, increasingly, a gas importer, and the pipes and terminals that reconcile those two facts are among the country's most valuable energy assets.

@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["gaz naturel Malaisie", "GNL Malaisie", "GNL Bintulu", "Peninsular Gas Utilisation", "gazoduc PGU", "terminal de regazéification", "Accès des tiers", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'Un terminal de chargement de gaz naturel liquéfié en mer avec des tuyauteries et des jetées au-dessus d''eaux côtières peu profondes à Bintulu, en Malaisie.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chaque fois qu'une centrale électrique au Selangor démarre ou qu'une usine de gants à Penang chauffe ses fours, le gaz a très probablement commencé son voyage à des centaines de kilomètres de là, au large de Terengganu ou de l'autre côté de la mer de Chine méridionale, au Sarawak. La Malaisie est à la fois un poids lourd de l'exportation de gaz et, de plus en plus, un importateur de gaz, et les gazoducs et terminaux qui concilient ces deux réalités figurent parmi les actifs énergétiques les plus précieux du pays.

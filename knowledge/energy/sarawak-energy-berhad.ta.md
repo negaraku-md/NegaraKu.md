@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'சரவாக்கின் முருமில் காடடர்ந்த மலைப்பகுதிகளுக்கு நடுவே உள்ள நீர்வழிபாதையுடன் கூடிய கான்கிரீட் நீர்மின் அணை.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியத் தீபகற்பம் Tenaga Nasional Berhad-ஐ நம்பியிருக்கும் அதே வேளையில், சரவாக் தன் சொந்த விளக்குகளை ஏற்றிக்கொள்கிறது — அதன் மின்வலையமைப்பு தேசிய மின்வலையமைப்புடன் அறவே இணைக்கப்படாத ஒரு பயன்பாட்டு நிறுவனத்தின் வழியாக, மேலும் கிட்டத்தட்ட முழுவதும் உள்நாட்டுப் பகுதியிலுள்ள மாபெரும் அணைகளின் வீழ்நீரால் உற்பத்தி செய்யப்படுகிறது.

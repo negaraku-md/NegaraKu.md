@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'Stasiun pembangkit listrik termal dengan cerobong asap di belakang kelompok padat menara transmisi tegangan tinggi di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap kali lampu menyala di rumah, pabrik, atau pusat data di Semenanjung Malaysia, kemungkinan besar elektron-elektron itu mengalir melalui jaringan yang dimiliki oleh satu perusahaan: Tenaga Nasional Berhad. Perusahaan ini bukan sekadar pembangkit listrik, melainkan tulang punggung sistem energi nasional — dari stasiun pembangkit hingga meteran listrik di dinding.

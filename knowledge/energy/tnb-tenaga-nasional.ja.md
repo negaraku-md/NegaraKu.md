@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'マレーシアにある、密集した高圧送電鉄塔の群れの背後に煙突がそびえる火力発電所。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシア半島の住宅、工場、データセンターで明かりがつくたびに、その電子は十中八九、一社だけが所有する電力網を通って流れている——Tenaga Nasional Berhadである。同社は単なる発電事業者ではなく、発電所から壁の電力メーターに至るまで、国家エネルギーシステムの背骨をなす存在である。

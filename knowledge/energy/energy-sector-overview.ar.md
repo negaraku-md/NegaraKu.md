@@ -98,6 +98,13 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["قطاع الطاقة في ماليزيا", "sektor tenaga Malaysia", "NETR", "خارطة طريق انتقال الطاقة الوطنية", "PETRA", "لجنة الطاقة", "Suruhanjaya Tenaga", "Petronas", "تعرفة الكهرباء RP4", "BUDI95", "الطاقة المتجددة في ماليزيا", "شبكة الكهرباء في ماليزيا"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'منظر جوي لمحطة كهرباء ساحلية تعمل بالفحم ذات مداخن وأرصفة تمتد في البحر.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 أدِر مفتاح إضاءة في كوالالمبور، أو املأ خزّانك بـ RON95 في إيبوه، أو ركّب ألواحًا

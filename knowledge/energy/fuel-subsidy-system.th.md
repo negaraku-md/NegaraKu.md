@@ -134,6 +134,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'ลานหน้าสถานีบริการน้ำมันเปโตรนาสพร้อมตู้จ่ายน้ำมันใต้หลังคาในประเทศมาเลเซีย'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เป็นเวลาหลายทศวรรษ ทุกคนในมาเลเซีย ทั้งเศรษฐีและคนกรีดยาง จ่ายราคาน้ำมันเบนซินเดียวกันที่ปั๊ม เมื่อ 30 กันยายน 2025 การจัดการนั้นสิ้นสุดลง ในปัจจุบัน RON95 หนึ่งลิตรอาจมีราคา RM1.99 สำหรับท่านแต่เกือบสองเท่าสำหรับเพื่อนบ้านของท่าน และสิ่งที่กำหนดมันไม่ใช่ราคาน้ำมันโลก แต่เป็นบัตรประจำตัวที่ท่านสอดเข้าเทอร์มินัล

@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'Une centrale thermique avec des cheminées derrière un dense groupe de pylônes de transport d''électricité à haute tension en Malaisie.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chaque fois qu'une lumière s'allume dans une maison, une usine ou un centre de données de la Malaisie péninsulaire, ces électrons circulent très probablement à travers un réseau détenu par une seule entreprise : Tenaga Nasional Berhad. Ce n'est pas seulement un producteur d'électricité, mais l'épine dorsale du système énergétique national — de la centrale électrique au compteur sur le mur.

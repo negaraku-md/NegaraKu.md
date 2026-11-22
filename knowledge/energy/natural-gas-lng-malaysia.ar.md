@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["الغاز الطبيعي ماليزيا", "الغاز المسال ماليزيا", "LNG Malaysia", "بينتولو للغاز المسال", "Bintulu LNG", "استغلال غاز شبه الجزيرة", "خط أنابيب PGU", "محطة إعادة التغويز", "وصول الأطراف الثالثة", "Third Party Access", "السعر المرجعي الماليزي", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'محطة بحرية لتحميل الغاز الطبيعي المسال مع أنابيب وأرصفة فوق مياه ساحلية ضحلة في بينتولو بماليزيا.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في كل مرة تشتغل فيها محطة كهرباء في سلانغور أو يُسخّن فيها مصنع قفازات في بينانغ أفرانه، يكون الغاز قد بدأ على الأرجح رحلته على بُعد مئات الكيلومترات، قبالة ساحل تيرينغانو أو عبر بحر الصين الجنوبي في ساراواك. فماليزيا مصدّرٌ ثقيل الوزن للغاز، ومستوردٌ له على نحو متزايد في الوقت نفسه، والأنابيب والمحطات التي توفّق بين هاتين الحقيقتين من أثمن أصول الطاقة في البلاد.

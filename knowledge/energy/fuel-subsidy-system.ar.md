@@ -134,6 +134,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["دعم الوقود", "BUDI95", "RON95", "دعم الديزل", "PADU", "الدعم الموجَّه", "BUDI MADANI", "RM1.99", "ترشيد الدعم", "fuel subsidy Malaysia"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'ساحة محطة وقود بتروناس بمضخّات وقود تحت مظلّة في ماليزيا.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لعقودٍ من الزمن، دفع الجميع في ماليزيا — من المليونير إلى جامع المطاط — السعر نفسه للبنزين عند المضخة. وفي 30 سبتمبر 2025، انتهى ذلك الترتيب. فقد يكلّف لتر البنزين RON95 الآن RM1.99 لك بينما يكلّف جارك ما يقارب ضعف ذلك، وما يحدد الأمر ليس سعر النفط العالمي بل بطاقة الهوية التي تُدخِلها في الجهاز الطرفي.

@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: '말레이시아에서 빽빽이 밀집한 고압 송전탑 무리 뒤로 굴뚝이 솟아 있는 화력발전소.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이반도의 주택, 공장 또는 데이터센터에 불이 켜질 때마다, 그 전자들은 십중팔구 단 한 회사가 소유한 전력망을 통해 흐른다 — 바로 테나가 나시오날 베르하드이다. 이 회사는 단순한 발전사업자가 아니라 발전소에서 벽의 전력계량기에 이르기까지 국가 에너지 시스템의 척추를 이루는 존재이다.

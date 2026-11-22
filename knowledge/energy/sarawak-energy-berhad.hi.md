@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'सारावाक के मुरुम में वनाच्छादित ऊपरी भूमि के बीच स्थित एक स्पिलवे वाला कंक्रीट का जलविद्युत बांध।'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जहाँ प्रायद्वीपीय मलेशिया तेनागा नासिओनल बरहाद (Tenaga Nasional Berhad) पर निर्भर है, वहीं सारावाक अपने दीप स्वयं जलाता है एक ही उपयोगिता के माध्यम से, जिसकी ग्रिड राष्ट्रीय ग्रिड से बिल्कुल भी जुड़ी नहीं है — और जो लगभग पूरी तरह आंतरिक क्षेत्र के विशाल बाँधों के जलप्रपातों से उत्पन्न होती है।

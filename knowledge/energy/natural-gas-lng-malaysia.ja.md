@@ -92,6 +92,13 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'マレーシアのビントゥルにある、浅い沿岸の海上に配管と桟橋が設けられた海上液化天然ガス積出ターミナル。'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 セランゴールの発電所が稼働し、あるいはペナンの手袋工場が炉を温めるたびに、その天然ガスはおそらく数百キロメートル離れた場所——トレンガヌ沖合、あるいは南シナ海を越えたサラワク——で旅を始めている。マレーシアは有数の天然ガス輸出国であると同時に、ますます天然ガスの輸入国となりつつある。この二つの事実を調和させる配管とターミナルこそ、同国で最も価値あるエネルギー資産の一つである。

@@ -134,6 +134,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: '말레이시아 페트로나스 주유소 앞마당으로, 지붕 아래에 주유기가 설치되어 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 수십 년 동안, 말레이시아의 모든 사람은 — 백만장자든 고무 채취공이든 — 주유소에서 같은 휘발유 가격을 냈습니다. 2025년 9월 30일, 그 구도는 끝났습니다. 이제 RON95 1리터는 당신에게는 RM1.99일 수 있지만 이웃에게는 거의 두 배일 수 있으며, 그것을 결정하는 것은 세계 유가가 아니라 당신이 단말기에 삽입하는 신분증입니다.

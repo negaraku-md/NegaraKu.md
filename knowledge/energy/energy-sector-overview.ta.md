@@ -98,6 +98,13 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'புகைபோக்கிக் கூண்டுகளுடனும் கடலுக்குள் நீளும் கப்பல்துறைகளுடனும் கூடிய கடலோர நிலக்கரி மின் நிலையத்தின் வான்வழிக் காட்சி.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கோலாலம்பூரில் விளக்கு சுவிட்சை இயக்குங்கள், ஈப்போவில் RON95 எரிபொருள் நிரப்புங்கள்,

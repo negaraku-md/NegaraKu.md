@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'マレーシアのサラワク州ムルムにある、森に覆われた高地の中に位置する余水路付きのコンクリート水力発電ダム。'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシア半島部がテナガ・ナショナル・ベルハッド（Tenaga Nasional Berhad、TNB）に依存する一方、サラワクは国家電力網と一切接続されていない独自の電力会社によって自らの灯りをともしている——そしてその電力のほぼすべては、内陸部の巨大ダムの落水によって生み出されている。

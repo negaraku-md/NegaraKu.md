@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["ساراواك للطاقة", "Sarawak Energy", "SEB", "SESCO", "باكون", "Bakun", "مورم", "Murum", "باليه", "Baleh", "الطاقة الكهرومائية", "مرفق كهرباء ساراواك", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'سد كهرومائي خرساني بمسيل مائي يقع بين مرتفعات مكسوّة بالغابات في موروم بساراواك.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 بينما تعتمد شبه جزيرة ماليزيا على شركة تيناغا ناسيونال (Tenaga Nasional Berhad)، تُنير ساراواك مصابيحها بنفسها عبر مرفق واحد لا تتّصل شبكته بالشبكة الوطنية مطلقًا — ويُولَّد كله تقريبًا من مساقط مياه سدود عملاقة في الداخل.

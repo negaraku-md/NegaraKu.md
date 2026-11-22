@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'Một nhà máy nhiệt điện với các ống khói phía sau cụm dày đặc các tháp truyền tải điện cao thế ở Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi khi đèn bật sáng trong một ngôi nhà, nhà máy hay trung tâm dữ liệu ở bán đảo Malaysia, nhiều khả năng những electron ấy chảy qua mạng lưới do một công ty duy nhất sở hữu: Tenaga Nasional Berhad. Đây không chỉ là một đơn vị phát điện, mà còn là xương sống của hệ thống năng lượng quốc gia — từ nhà máy điện cho đến công tơ điện gắn trên tường.

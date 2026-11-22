@@ -112,6 +112,13 @@ relations: []
 related: []
 keywords: ["الطاقة المتجددة ماليزيا", "renewable energy Malaysia", "NETR", "خارطة الطريق الوطنية لتحوّل الطاقة", "MyRER", "NEM 3.0", "قياس صافي الطاقة ماليزيا", "SEDA", "الطاقة الشمسية واسعة النطاق", "LSS Malaysia", "CGPP", "CRESS", "الألواح الشمسية ماليزيا", "التعرفة التشجيعية ماليزيا", "TNB solar", "هدف الطاقة المتجددة 2050", "لجنة الطاقة الماليزية"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'منظومة خلايا شمسية كهروضوئية عائمة بمحاذاة ممشى مسقوف على بحيرة في حرم جامعي بماليزيا.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 إن كنت قد حاولت الاطّلاع على موضوع الطاقة المتجددة (RE) في ماليزيا، فالأرجح أنك اصطدمت بثلاثة أرقام مختلفة للأهداف — 31% و40% و70% — وبجدار من الاختصارات: FiT وNEM وLSS وCGPP وCRESS وSELCO. ولا تناقض في شيء من ذلك؛ إنما هو موزَّع على نصف دزينة من الجهات، تُوثّق كلٌّ منها زاويتها وحدها. ويجمع هذا الدليل المشهد كله في مكان واحد: الأهداف الوطنية وخرائط الطريق التي وراءها، وعائلة البرامج، و— وهو ما تتخطّاه معظم المصادر — أيّ برنامج أُعِدّ فعلًا لمالك المنزل أو الشركة أو المطوِّر.

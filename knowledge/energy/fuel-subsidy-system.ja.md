@@ -133,6 +133,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'マレーシアのペトロナスのガソリンスタンドの前庭で、天蓋の下に給油機が並ぶ様子。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 数十年にわたり、マレーシアのすべての人——大富豪であろうとゴム樹液採取者であろうと——は給油所で同じ価格のガソリンを支払ってきた。2025年9月30日、その仕組みは終わりを迎えた。今では1リットルのRON95があなたにとってはRM1.99でも、隣人にとってはほぼ倍の価格になり得る。それを決めるのは世界の原油価格ではなく、あなたが端末に挿入する身分証明書である。

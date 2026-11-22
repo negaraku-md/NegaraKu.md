@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'Bendungan pembangkit listrik tenaga air dari beton dengan pelimpah yang terletak di antara dataran tinggi berhutan di Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ketika Semenanjung Malaysia bergantung pada Tenaga Nasional Berhad, Sarawak menyalakan lampunya sendiri melalui satu utilitas yang gridnya sama sekali tidak tersambung dengan grid nasional — dan hampir keseluruhannya dibangkitkan oleh air terjun bendungan raksasa di pedalaman.

@@ -98,6 +98,13 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: '煙突と海へと延びる桟橋を備えた沿岸の石炭火力発電所を上空から捉えた眺め。'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 クアラルンプールで照明のスイッチを入れる、イポーでRON95を給油する、あるいはジョホールの自宅の屋根に太陽光パネルを取り付ける——そのどの行動の背後にも、消費者がほとんど目にすることのない機関、法律、政策のネットワークが存在する。マレーシアのエネルギー部門は単一のものではない。それは電力、石油とガス、燃料、そして再生可能エネルギーという、互いに重なり合う四つの世界である。本ガイドは、誰が何を管轄しているのか、そしてそれらすべてがどのように連結しているのかを整理する。

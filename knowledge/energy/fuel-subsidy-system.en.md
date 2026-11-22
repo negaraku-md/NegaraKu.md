@@ -134,6 +134,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'A Petronas petrol station forecourt with fuel pumps beneath a canopy in Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 For decades, everyone in Malaysia — millionaire or rubber tapper — paid the same price for petrol at the pump. On 30 September 2025, that arrangement ended. A litre of RON95 can now cost RM1.99 for you but nearly double that for your neighbour, and what decides it is not the world oil price but the identity card you slot into the terminal.

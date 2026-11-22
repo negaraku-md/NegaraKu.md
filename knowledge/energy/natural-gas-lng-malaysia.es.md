@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["gas natural Malasia", "GNL Malasia", "GNL Bintulu", "Peninsular Gas Utilisation", "gasoducto PGU", "terminal de regasificación", "Acceso de Terceros", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'Una terminal costa afuera de carga de gas natural licuado con tuberías y embarcaderos sobre aguas costeras poco profundas en Bintulu, Malasia.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada vez que una central eléctrica en Selangor arranca o una fábrica de guantes en Penang calienta sus hornos, lo más probable es que el gas comenzara su viaje a cientos de kilómetros de distancia, frente a las costas de Terengganu o al otro lado del mar de China Meridional, en Sarawak. Malasia es a la vez un peso pesado de la exportación de gas y, cada vez más, un importador de gas, y las tuberías y terminales que concilian esos dos hechos figuran entre los activos energéticos más valiosos del país.

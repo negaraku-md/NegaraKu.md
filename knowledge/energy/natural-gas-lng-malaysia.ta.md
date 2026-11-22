@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'மலேசியாவின் பிந்துலுவில் ஆழமற்ற கடலோர நீர்ப்பரப்பின் மேல் குழாய் அமைப்பு மற்றும் கப்பல்துறைகளுடன் கூடிய கடல்சார் திரவமாக்கப்பட்ட இயற்கை எரிவாயு ஏற்றும் முனையம்.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 செலாங்கூரில் ஒரு மின் நிலையம் இயங்கத் தொடங்கும்போதோ அல்லது பினாங்கில் ஒரு கையுறை தொழிற்சாலை தனது அடுப்புகளை சூடாக்கும்போதோ ஒவ்வொரு முறையும், அந்த எரிவாயு பெரும்பாலும் நூற்றுக்கணக்கான கிலோமீட்டர்கள் தொலைவில்—திரெங்கானு கடல்சார் பகுதியிலோ அல்லது தென் சீனக் கடலைக் கடந்து சரவாக்கிலோ—தனது பயணத்தைத் தொடங்கியிருக்கும். மலேசியா ஒரே நேரத்தில் ஒரு பாரமான எரிவாயு ஏற்றுமதியாளராகவும், பெருகிய அளவில் ஒரு எரிவாயு இறக்குமதியாளராகவும் இருக்கிறது; இந்த இரண்டு உண்மைகளையும் இணைக்கும் குழாய்கள் மற்றும் முனையங்கள் நாட்டின் மிகவும் மதிப்புமிக்க ஆற்றல் சொத்துக்களில் அடங்கும்.

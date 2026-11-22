@@ -98,6 +98,13 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: '一座沿海燃煤发电站的鸟瞰图，烟囱和一座座伸入海中的栈桥清晰可见。'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在吉隆坡按下灯的开关、在怡保加满一箱 RON95 汽油，或在柔佛的屋顶装上太阳能板——在每一个动作背后，都有一张消费者鲜少看见的机构、法律与政策网络。马来西亚的能源领域不是单一的东西；它是四个相互交叠的世界：电力、石油与天然气、燃料，以及再生能源。本指南将梳理出谁负责什么，以及这一切如何衔接在一起。

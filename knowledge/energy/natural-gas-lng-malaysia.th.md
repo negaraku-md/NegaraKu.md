@@ -93,6 +93,13 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'ท่าขนถ่ายก๊าซธรรมชาติเหลวนอกชายฝั่งพร้อมท่อและท่าเทียบเรือเหนือน้ำทะเลตื้นที่บินตูลู ประเทศมาเลเซีย'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกครั้งที่โรงไฟฟ้าในสลังงอร์เริ่มเดินเครื่องหรือโรงงานถุงมือในปีนังอุ่นเตาของมัน ก๊าซนั้นน่าจะเริ่มการเดินทางจากที่ห่างออกไปหลายร้อยกิโลเมตร นอกชายฝั่งตรังกานูหรือข้ามทะเลจีนใต้ในซาราวัก มาเลเซียเป็นทั้งผู้ส่งออกก๊าซระดับหนักและ ในเวลาเดียวกัน ผู้นำเข้าก๊าซที่เพิ่มขึ้น และท่อและเทอร์มินัลที่ประสานสองข้อเท็จจริงนั้นเป็นสินทรัพย์พลังงานที่มีค่าที่สุดของประเทศ

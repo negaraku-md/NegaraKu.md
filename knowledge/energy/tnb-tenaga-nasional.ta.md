@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'மலேசியாவில் அதிக மின்னழுத்தப் பரிமாற்றக் கோபுரங்களின் அடர்த்தியான தொகுப்பின் பின்னால் புகைபோக்கிக் கூண்டுகளுடன் கூடிய வெப்ப மின் நிலையம்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 தீபகற்ப மலேசியாவில் ஒரு வீட்டிலோ, தொழிற்சாலையிலோ, தரவு மையத்திலோ விளக்கு எரியும் ஒவ்வொரு முறையும், அந்த எலக்ட்ரான்கள் பெரும்பாலும் ஒரே ஒரு நிறுவனத்தால் சொந்தமாக வைத்திருக்கப்படும் வலையமைப்பின் வழியாகவே பாய்கின்றன: தேனாகா நேசனல் பெர்ஹாட். இது வெறும் மின் உற்பத்தியாளர் மட்டுமல்ல, நாட்டின் எரிசக்தி அமைப்பின் முதுகெலும்பு — மின்நிலையங்களிலிருந்து சுவரில் உள்ள மின்மானி வரை.

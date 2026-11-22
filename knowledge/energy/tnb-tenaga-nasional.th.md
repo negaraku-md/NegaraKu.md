@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'โรงไฟฟ้าพลังความร้อนที่มีปล่องควันอยู่ด้านหลังกลุ่มเสาส่งไฟฟ้าแรงสูงที่หนาแน่นในประเทศมาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ทุกครั้งที่ไฟสว่างขึ้นในบ้าน โรงงาน หรือศูนย์ข้อมูลในคาบสมุทรมาเลเซีย อิเล็กตรอนเหล่านั้นมีแนวโน้มสูงที่จะไหลผ่านโครงข่ายที่บริษัทเดียวเป็นเจ้าของ นั่นคือ Tenaga Nasional Berhad บริษัทนี้ไม่ได้เป็นเพียงผู้ผลิตไฟฟ้าเท่านั้น แต่ยังเป็นกระดูกสันหลังของระบบพลังงานของประเทศ ตั้งแต่สถานีผลิตไฟฟ้าไปจนถึงมิเตอร์ไฟฟ้าบนผนัง

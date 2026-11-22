@@ -76,6 +76,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'Empangan hidroelektrik konkrit dengan saluran limpah terletak di antara tanah tinggi berhutan di Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ketika Semenanjung Malaysia bergantung pada Tenaga Nasional Berhad, Sarawak menyalakan lampunya sendiri melalui satu utiliti yang gridnya langsung tidak bersambung dengan grid negara — dan hampir keseluruhannya dijana oleh air terjun empangan raksasa di pedalaman.

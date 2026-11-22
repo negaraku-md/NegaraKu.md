@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'เขื่อนไฟฟ้าพลังน้ำคอนกรีตพร้อมทางระบายน้ำล้นตั้งอยู่ท่ามกลางที่สูงที่ปกคลุมด้วยป่าที่มูรุม รัฐซาราวัก'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ขณะที่คาบสมุทรมาเลเซียพึ่งพา Tenaga Nasional Berhad ซาราวักจุดไฟของตนเองผ่านบริษัทสาธารณูปโภคหนึ่งที่กริดไม่เชื่อมต่อกับกริดของประเทศเลย และเกือบทั้งหมดผลิตด้วยน้ำที่ไหลจากเขื่อนยักษ์ในพื้นที่ตอนใน

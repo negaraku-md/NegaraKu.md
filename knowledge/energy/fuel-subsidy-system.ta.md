@@ -134,6 +134,13 @@ related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
 wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'மலேசியாவில் விதானத்தின் கீழ் எரிபொருள் நிரப்பிகளுடன் கூடிய பெட்ரோனாஸ் எரிபொருள் நிலைய முற்றம்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பல தசாப்தங்களாக, மலேசியாவில் உள்ள ஒவ்வொருவரும் — கோடீஸ்வரர் முதல் ரப்பர் எடுப்பவர் வரை — பம்பில் ஒரே பெட்ரோல் விலையைச் செலுத்தினர். 30 செப்டம்பர் 2025 அன்று, அந்த ஏற்பாடு முடிவுக்கு வந்தது. இப்போது ஒரு லிட்டர் RON95 உங்களுக்கு RM1.99 ஆக இருக்கலாம், ஆனால் உங்கள் அயலவருக்கு அதன் கிட்டத்தட்ட இரு மடங்காக இருக்கலாம், அதைத் தீர்மானிப்பது உலக எண்ணெய் விலை அல்ல, மாறாக நீங்கள் முனையத்தில் செருகும் அடையாள அட்டையே.

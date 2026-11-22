@@ -78,6 +78,13 @@ relations:
   - { rel: "related-to", to: "khazanah-nasional" }
 related: ["khazanah-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: '马来西亚一座火力发电站，烟囱矗立在密集的高压输电铁塔群之后。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 每当马来西亚半岛的住家、工厂或数据中心亮起灯光，那些电子极有可能是流经由一家公司所拥有的网络：国家能源有限公司。它不仅仅是一家发电商，更是国家能源系统的骨干——从发电站一直延伸到墙上的电表。

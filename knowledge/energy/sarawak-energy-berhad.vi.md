@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'Một đập thủy điện bê tông có đập tràn nằm giữa vùng cao nguyên rừng ở Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trong khi Bán đảo Malaysia phụ thuộc vào Tenaga Nasional Berhad, Sarawak thắp sáng đèn của riêng mình qua một tiện ích có lưới điện hoàn toàn không kết nối với lưới quốc gia — và gần như toàn bộ được phát điện bởi dòng nước đổ từ các đập khổng lồ ở vùng sâu.

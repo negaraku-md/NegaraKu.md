@@ -77,6 +77,13 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'Una presa hidroeléctrica de hormigón con un aliviadero situada entre tierras altas boscosas en Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mientras la Malasia Peninsular depende de Tenaga Nasional Berhad, Sarawak enciende sus propias lámparas a través de una única empresa cuya red no está en absoluto conectada a la red nacional, y que se genera casi por completo con las caídas de agua de las gigantescas represas del interior.
