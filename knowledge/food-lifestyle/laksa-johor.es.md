@@ -103,6 +103,13 @@ dishFacts:
   halal: "Un plato malayo de pescado, coco y especias sin cerdo, situado en la corriente halal mayoritaria de la cocina de Johor; la preparación aún varía según el cocinero, así que consulta en cada puesto."
   eat: "Se sirve de temperatura ambiente a tibio, con la gravy espesa cucharada sobre la pasta y coronada por una maraña fresca de ulam — pepino, brotes de soja, cebolla roja y hierbas como daun kesum y bunga kantan en rodajas — más sambal y un chorrito de lima. Como la gravy es espesa, tradicionalmente se come con la mano."
   where: "Se encuentra por todo Johor en puestos malayos, mercados y cocinas caseras, y en comedores de estilo Johor en otros lugares de Malasia y Singapur; está reconocido como un plato emblemático de Johor."
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: 'Disposición plana de laksa de Johor en un plato negro: un cuenco blanco con una espesa salsa parda de pescado y coco junto a un nido de espaguetis, pepino fresco, chalotas en rodajas y hierbas, con un pequeño cuenco de sambal de chile y lima.'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vierte una gravy de laksa sobre spaghetti y tendrás o bien un error o bien el plato

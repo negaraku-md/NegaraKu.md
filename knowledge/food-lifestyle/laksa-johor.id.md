@@ -103,6 +103,13 @@ dishFacts:
   halal: "Hidangan Melayu dari ikan, kelapa dan rempah tanpa babi, berada dalam arus utama halal masakan Johor; cara pembuatan masih berbeda-beda menurut juru masak, jadi periksa gerai masing-masing."
   eat: "Disajikan pada suhu ruang hingga hangat, dengan kuah kental disendokkan di atas pasta dan ditaburi ulam yang menyegarkan — mentimun, tauge, bawang merah dan herba seperti daun kesum dan bunga kantan yang diiris — plus sambal dan perasan jeruk nipis. Karena kuahnya kental, ia secara tradisional disantap dengan tangan."
   where: "Ditemukan di seluruh Johor di gerai Melayu, pasar dan dapur rumahan, serta di rumah makan bergaya Johor di tempat lain di Malaysia dan Singapura; ia diakui sebagai hidangan khas Johor."
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: 'Tata datar laksa Johor di piring hitam: semangkuk putih kuah ikan dan santan kental kecokelatan di samping segulung mi spageti, timun segar, irisan bawang merah dan dedaunan herba, dengan semangkuk kecil sambal cabai jeruk nipis.'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tuangkan kuah laksa di atas spaghetti, dan Anda mendapat entah sebuah kekeliruan

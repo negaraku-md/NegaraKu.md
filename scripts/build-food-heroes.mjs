@@ -24,10 +24,13 @@ async function dl(url) {
   }
   return null;
 }
-async function toWebp(buf, outFile) {
+async function toWebp(buf, outFile, position = 'attention') {
+  // `position` overrides the cover-crop focus; default 'attention' picks the
+  // highest-detail region. Set a fixed gravity (e.g. 'centre') per-image when a
+  // portrait flat-lay would lose its defining element under attention cropping.
   let q = 82, out;
   for (; q >= 30; q -= 6) {
-    out = await sharp(buf).resize(1600, 900, { fit: 'cover', position: 'attention' }).modulate({ saturation: 1.04, brightness: 1.02 }).webp({ quality: q }).toBuffer();
+    out = await sharp(buf).resize(1600, 900, { fit: 'cover', position }).modulate({ saturation: 1.04, brightness: 1.02 }).webp({ quality: q }).toBuffer();
     if (out.length <= 180 * 1024) break;
   }
   fs.writeFileSync(outFile, out);
@@ -45,7 +48,7 @@ for (const [slug, set] of Object.entries(data)) {
     if (!im?.url) continue;
     const buf = await dl(cleanUrl(im.url));
     if (!buf) { console.log('DL FAIL', slug, name); continue; }
-    const kb = await toWebp(buf, path.join(dir, `${name}.webp`));
+    const kb = await toWebp(buf, path.join(dir, `${name}.webp`), im.position);
     const rec = { file: `/media/food/${slug}/${name}.webp`, credit: `${im.by} / Wikimedia Commons`, license: im.license, source: im.page, kind: im.kind || 'actual', subject: im.subject || '', alt: im.alt, kb };
     if (name === 'hero') entry.hero = rec; else entry.body.push(rec);
     console.log(`${slug}/${name}  ${kb}KB  (${im.by}, ${im.license})`);

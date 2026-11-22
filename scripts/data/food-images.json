@@ -259,5 +259,17 @@
       "subject": "warm glutinous rice with golden durian",
       "alt": "A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside."
     }
+  },
+  "laksa-johor": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Laksa_Johor_Roza_Roslan.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "OreosDippedwithMilk",
+      "page": "https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg",
+      "kind": "actual",
+      "position": "centre",
+      "subject": "deconstructed Johor laksa with spaghetti, gravy and raw ulam",
+      "alt": "A flat-lay of Johor laksa on a black plate: a white bowl of thick brownish fish-and-coconut gravy beside a nest of spaghetti noodles, fresh cucumber, sliced shallots and herbs, with a small dish of chilli-lime sambal."
+    }
   }
 }

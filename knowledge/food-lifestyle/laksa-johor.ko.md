@@ -103,6 +103,13 @@ dishFacts:
   halal: "생선, 코코넛, 향신료로 만든 말레이 음식으로 돼지고기가 들어가지 않으며, Johor 요리의 할랄 주류에 속한다. 조리는 여전히 요리사마다 다르므로 개별 노점에 확인하라."
   eat: "실온에서 따뜻한 정도로 내며, 걸쭉한 그레이비를 파스타 위에 끼얹고 시원한 ulam — 오이, 숙주, 적양파, daun kesum과 얇게 썬 bunga kantan 같은 허브 — 에 sambal과 라임 한 번 짜 넣기를 올린다. 그레이비가 걸쭉하기 때문에 전통적으로 손으로 먹는다."
   where: "Johor 전역의 말레이 노점, 시장, 가정 주방에서, 그리고 말레이시아와 싱가포르 다른 곳의 Johor 풍 식당에서 볼 수 있다. Johor를 대표하는 음식으로 알려져 있다."
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: '검은 접시에 플랫레이로 담긴 조호르 락사: 걸쭉한 갈색 생선·코코넛 그레이비가 담긴 흰 그릇 옆에 스파게티 면 한 덩이, 신선한 오이, 얇게 썬 샬롯, 허브, 그리고 고추-라임 삼발 작은 종지.'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 laksa 그레이비를 spaghetti 위에 부으면 그것은 실수이거나, 한 주가 가장 자랑하는 음

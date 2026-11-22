@@ -102,6 +102,13 @@ dishFacts:
   halal: "A Malay dish of fish, coconut and spices with no pork, sitting in the halal mainstream of Johor cooking; preparation still varies by cook, so check the individual stall."
   eat: "Served at room temperature to warm, with the thick gravy spooned over the pasta and topped with a cool tangle of ulam — cucumber, bean sprouts, red onion and herbs such as daun kesum and sliced torch ginger — plus sambal and a squeeze of lime. Because the gravy is thick, it is traditionally eaten by hand."
   where: "Found across Johor at Malay stalls, markets and home kitchens, and at Johor-style eateries elsewhere in Malaysia and Singapore; it is recognised as a signature dish of Johor."
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: 'A flat-lay of Johor laksa on a black plate: a white bowl of thick brownish fish-and-coconut gravy beside a nest of spaghetti noodles, fresh cucumber, sliced shallots and herbs, with a small dish of chilli-lime sambal.'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pour a laksa gravy over spaghetti and you have either a mistake or a state's

@@ -103,6 +103,13 @@ dishFacts:
   halal: "Một món Mã Lai từ cá, dừa và gia vị, không có thịt lợn, nằm trong dòng chính halal của ẩm thực Johor; cách chế biến vẫn thay đổi theo từng đầu bếp, nên hãy hỏi từng quầy."
   eat: "Được dọn ở nhiệt độ phòng đến ấm, với nước lèo đặc chan lên pasta và phủ một mớ ulam mát lành — dưa leo, giá đỗ, hành tím và các loại rau thơm như daun kesum và bunga kantan thái lát — cùng sambal và một lát chanh vắt. Vì nước lèo đặc, nó theo truyền thống được ăn bằng tay."
   where: "Được tìm thấy khắp Johor tại các quầy Mã Lai, chợ và bếp gia đình, và tại các quán kiểu Johor ở nơi khác tại Malaysia và Singapore; nó được công nhận là một món tiêu biểu của Johor."
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: 'Cách bày phẳng của laksa Johor trên đĩa đen: một tô trắng đựng nước sốt cá và dừa nâu sánh đặc, bên cạnh là một vắt mì spaghetti, dưa leo tươi, hành tím thái lát và rau thơm, cùng một chén nhỏ sambal ớt chanh.'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chan một thứ nước lèo laksa lên spaghetti thì bạn hoặc có một sai lầm, hoặc có món

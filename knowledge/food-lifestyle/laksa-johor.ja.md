@@ -103,6 +103,13 @@ dishFacts:
   halal: "魚、ココナッツ、香辛料のマレー料理で豚肉を含まず、Johor 料理のハラルの主流に位置する。調理はなお料理人によって異なるので、個々の屋台で確認を。"
   eat: "常温から温かい状態で供され、濃厚なグレービーをパスタにかけ、生の ulam——キュウリ、もやし、赤タマネギ、daun kesum や薄切りの bunga kantan などの香草——に sambal と搾りたてのライムを添える。グレービーが濃厚なため、伝統的に手で食べる。"
   where: "Johor 各地のマレーの屋台、市場、家庭の台所で見られ、マレーシアやシンガポールの他地域の Johor 風の食堂でも供される。Johor を代表する料理として知られる。"
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: '黒い皿に盛られたジョホール・ラクサのフラットレイ：とろりとした茶色の魚とココナッツのグレービーが入った白い器の横に、スパゲッティの束、新鮮なきゅうり、薄切りの赤小玉ねぎ、香草、そして唐辛子とライムのサンバルの小皿。'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 laksa のグレービーを spaghetti にかければ、それは失敗作か、一つの州の最も誇る料理

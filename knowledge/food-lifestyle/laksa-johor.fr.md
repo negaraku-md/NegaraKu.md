@@ -103,6 +103,13 @@ dishFacts:
   halal: "Un plat malais de poisson, de coco et d'épices sans porc, situé dans le courant halal majoritaire de la cuisine de Johor ; la préparation varie encore selon le cuisinier, alors renseignez-vous à chaque stand."
   eat: "Servi de la température ambiante à tiède, la sauce épaisse étant versée sur les pâtes et couronnée d'un enchevêtrement frais d'ulam — concombre, germes de soja, oignon rouge et des herbes comme le daun kesum et le bunga kantan émincé — plus du sambal et un trait de citron vert. Comme la sauce est épaisse, il se mange traditionnellement à la main."
   where: "On le trouve dans tout Johor, dans les stands malais, les marchés et les cuisines familiales, et dans les établissements de style Johor ailleurs en Malaisie et à Singapour ; il est reconnu comme un plat emblématique de Johor."
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: 'Présentation à plat du laksa de Johor dans une assiette noire : un bol blanc de sauce épaisse brune au poisson et à la noix de coco à côté d''un nid de spaghettis, de concombre frais, d''échalotes émincées et d''herbes, avec une petite coupelle de sambal au piment et au citron vert.'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Versez une sauce de laksa sur des spaghetti et vous obtenez soit une erreur, soit le

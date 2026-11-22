@@ -311,5 +311,19 @@
       "kb": 100
     },
     "body": []
+  },
+  "laksa-johor": {
+    "slug": "laksa-johor",
+    "hero": {
+      "file": "/media/food/laksa-johor/hero.webp",
+      "credit": "OreosDippedwithMilk / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg",
+      "kind": "actual",
+      "subject": "deconstructed Johor laksa with spaghetti, gravy and raw ulam",
+      "alt": "A flat-lay of Johor laksa on a black plate: a white bowl of thick brownish fish-and-coconut gravy beside a nest of spaghetti noodles, fresh cucumber, sliced shallots and herbs, with a small dish of chilli-lime sambal.",
+      "kb": 76
+    },
+    "body": []
   }
 }

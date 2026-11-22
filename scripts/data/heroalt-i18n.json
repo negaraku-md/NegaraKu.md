@@ -1,7 +1,7 @@
 {
   "_note": "Localized hero-image alt-text (heroAlt) per article, all 13 languages. heroAlt is FRESHNESS-NEUTRAL (not in the translation hash), so these inject with zero stale cascade. Rebuild/re-apply with scripts/build-heroalt.mjs --apply. English is canonical; add a new article + its translations here when a new hero lands.",
   "_generatedBy": "consolidated from heroAlt localization pass 2026-11-21",
-  "count": 204,
+  "count": 205,
   "langs": [
     "en",
     "ms",
@@ -3077,6 +3077,21 @@
       "hi": "नीले नक़्शे वाली प्लेट पर सफेद चिपचिपे चावल का ढेर, ऊपर गाढ़ी सुनहरी-पीली ड्यूरियन चटनी लिपटी, बगल में एक चम्मच रखा।",
       "es": "Un montículo de arroz glutinoso blanco en un plato de motivos azules, cubierto con una espesa salsa de durián amarillo dorado, con una cuchara al lado.",
       "fr": "Un monticule de riz gluant blanc sur une assiette à motifs bleus, nappé d'une sauce de durian jaune doré épaisse, une cuillère posée à côté."
+    },
+    "food-lifestyle/laksa-johor": {
+      "en": "A flat-lay of Johor laksa on a black plate: a white bowl of thick brownish fish-and-coconut gravy beside a nest of spaghetti noodles, fresh cucumber, sliced shallots and herbs, with a small dish of chilli-lime sambal.",
+      "ms": "Hidangan rata laksa Johor di atas pinggan hitam: semangkuk putih kuah ikan dan santan pekat kecoklatan di sebelah segulung mi spageti, timun segar, hirisan bawang merah dan ulam, dengan secawan kecil sambal cili berlimau.",
+      "zh": "黑色盘子上柔佛叻沙的平铺摆盘：一个白碗盛着浓稠的褐色鱼肉椰浆酱汁，旁边是一团意大利面、新鲜黄瓜、红葱片和香草，还有一小碟辣椒青柠参巴酱。",
+      "ta": "கருப்புத் தட்டில் ஜொகூர் லக்சாவின் தட்டையான அமைப்பு: அடர் பழுப்பு மீன்-தேங்காய் குழம்பு நிறைந்த வெள்ளைக் கிண்ணம், அதனருகில் ஒரு சுருள் ஸ்பகெட்டி நூடுல்ஸ், புதிய வெள்ளரி, வெங்காயத் துண்டுகள் மற்றும் மூலிகைகள், மேலும் ஒரு சிறிய கிண்ணம் மிளகாய்-எலுமிச்சை சம்பல்.",
+      "ja": "黒い皿に盛られたジョホール・ラクサのフラットレイ：とろりとした茶色の魚とココナッツのグレービーが入った白い器の横に、スパゲッティの束、新鮮なきゅうり、薄切りの赤小玉ねぎ、香草、そして唐辛子とライムのサンバルの小皿。",
+      "ko": "검은 접시에 플랫레이로 담긴 조호르 락사: 걸쭉한 갈색 생선·코코넛 그레이비가 담긴 흰 그릇 옆에 스파게티 면 한 덩이, 신선한 오이, 얇게 썬 샬롯, 허브, 그리고 고추-라임 삼발 작은 종지.",
+      "th": "การจัดวางแบบแบนราบของลักซายะโฮร์บนจานสีดำ: ชามสีขาวใส่น้ำเกรวีปลาและกะทิสีน้ำตาลข้น ข้างๆ เป็นเส้นสปาเกตตีหนึ่งก้อน แตงกวาสด หอมแดงซอย และสมุนไพร พร้อมถ้วยเล็กใส่ซัมบัลพริกมะนาว",
+      "vi": "Cách bày phẳng của laksa Johor trên đĩa đen: một tô trắng đựng nước sốt cá và dừa nâu sánh đặc, bên cạnh là một vắt mì spaghetti, dưa leo tươi, hành tím thái lát và rau thơm, cùng một chén nhỏ sambal ớt chanh.",
+      "id": "Tata datar laksa Johor di piring hitam: semangkuk putih kuah ikan dan santan kental kecokelatan di samping segulung mi spageti, timun segar, irisan bawang merah dan dedaunan herba, dengan semangkuk kecil sambal cabai jeruk nipis.",
+      "ar": "تنسيق مسطّح للاكسا جوهور في طبق أسود: وعاء أبيض من مرق السمك وجوز الهند البنّي الكثيف بجانب خصلة من معكرونة السباغيتي وخيار طازج وبصل أحمر مُقطّع وأعشاب، مع طبق صغير من صلصة السامبال بالفلفل والليمون.",
+      "hi": "काली प्लेट पर जोहोर लक्सा की फ्लैट-ले सजावट: गाढ़ी भूरी मछली-नारियल ग्रेवी से भरा एक सफेद कटोरा, बगल में स्पेगेटी नूडल्स का एक गुच्छा, ताज़ा खीरा, कटी लाल प्याज़ और जड़ी-बूटियाँ, और मिर्च-नींबू सांबल की एक छोटी कटोरी।",
+      "es": "Disposición plana de laksa de Johor en un plato negro: un cuenco blanco con una espesa salsa parda de pescado y coco junto a un nido de espaguetis, pepino fresco, chalotas en rodajas y hierbas, con un pequeño cuenco de sambal de chile y lima.",
+      "fr": "Présentation à plat du laksa de Johor dans une assiette noire : un bol blanc de sauce épaisse brune au poisson et à la noix de coco à côté d'un nid de spaghettis, de concombre frais, d'échalotes émincées et d'herbes, avec une petite coupelle de sambal au piment et au citron vert."
     }
   }
 }

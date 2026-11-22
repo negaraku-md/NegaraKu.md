@@ -103,6 +103,13 @@ dishFacts:
   halal: "一道以鱼、椰子和香料为本、不含猪肉的马来菜，处于 Johor 烹饪清真主流之中；做法仍因厨师而异，请向个别摊位确认。"
   eat: "在室温至温热之间供应，浓汁舀浇在面上，再铺一把清爽的 ulam——黄瓜、豆芽、红葱头，以及 daun kesum 和切细的 bunga kantan 等香草——加 sambal 与一道挤入的青柠汁。由于浓汁厚稠，按传统用手抓食。"
   where: "在 Johor 各地的马来摊档、市场与家庭厨房皆可见到，马来西亚和新加坡其他地方的 Johor 风味食肆也有供应；它被公认为 Johor 的标志菜。"
+hero: '/media/food/laksa-johor/hero.webp'
+heroAlt: '黑色盘子上柔佛叻沙的平铺摆盘：一个白碗盛着浓稠的褐色鱼肉椰浆酱汁，旁边是一团意大利面、新鲜黄瓜、红葱片和香草，还有一小碟辣椒青柠参巴酱。'
+heroCredit: 'OreosDippedwithMilk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Johor_Roza_Roslan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 把一锅叻沙汁浇在 spaghetti 上，你得到的要么是一个失误，要么是一个州最引以为傲
