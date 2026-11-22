@@ -95,6 +95,13 @@ dishFacts:
   halal: "ไม่มีเนื้อสัตว์ — แป้งข้าว มะพร้าว และน้ำตาล — จึงเป็นของว่างมังสวิรัติโดยธรรมชาติ ขายอย่างแพร่หลายโดยพ่อค้าแม่ค้าอินเดีย-มุสลิมและอื่น ๆ; สอบถามผู้ขายแต่ละรายหากการรับรองสำคัญ"
   eat: "มักเสิร์ฟแบบเย็นมากกว่าแบบร้อน พร้อมมะพร้าวขูดและน้ำตาลทรายแดงหรือน้ำตาลโตนด (gula melaka); กินด้วยมือ บางครั้งบนใบตอง เป็นอาหารเช้าหรือของว่างยามบ่าย"
   where: "ของว่างของพ่อค้าแม่ค้าเร่ร่อนและตลาด ในอดีตขายตามบ้านด้วยรถเข็น จักรยาน และมอเตอร์ไซค์ และยังพบได้ตามแผงลอยและตลาดกลางคืน"
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มีของว่างมาเลเซียไม่กี่อย่างที่ถูกรักอย่างเงียบ ๆ เท่า putu mayam: รังเล็ก ๆ ของเส้นข้าวบางราวเส้นด้าย

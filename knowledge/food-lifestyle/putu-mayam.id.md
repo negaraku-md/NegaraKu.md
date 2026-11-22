@@ -95,6 +95,13 @@ dishFacts:
   halal: "Tidak mengandung daging — tepung beras, kelapa, dan gula — jadi merupakan jajanan vegetarian secara alami, dijual luas oleh pedagang India-Muslim dan lainnya; tanyakan ke penjual masing-masing jika sertifikasi penting."
   eat: "Biasanya disajikan dingin alih-alih panas, dengan kelapa parut dan gula merah atau gula aren (gula melaka); disantap dengan tangan, kadang di atas daun pisang, untuk sarapan atau minum teh sore."
   where: "Jajanan pedagang keliling dan pasar, secara historis dijual dari rumah ke rumah dengan gerobak dorong, sepeda, dan sepeda motor, dan masih ditemukan di gerai serta pasar malam."
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sedikit jajanan Malaysia yang dicintai secara diam-diam seperti putu mayam: sebuah

@@ -99,6 +99,13 @@ dishFacts:
   halal: "찹쌀, 코코넛 밀크, 설탕, 두리안으로 만든 고기 없는 식물성 말레이 디저트다. 조리된 어떤 음식과도 마찬가지로, 할랄 보증이 필요한 손님은 개별 노점에 확인할 수 있다."
   eat: "따뜻하게 먹어 짭짤하고 소금기 있는 코코넛 밥이 달고 향이 강한 두리안과 어우러지게 한다. 두리안-코코넛 요소는 흰 빵과 함께 또는 그 자체로도 먹는다."
   where: "두리안 철의 가정, 시장, 디저트 노점, 특히 두리안 산지에서. 과일이 싸고 풍부할 때 만든다."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 pulut durian만큼 거리낌 없이 진한 디저트는 드물다. 코코넛 밀크로 찐 따뜻한 찹쌀밥

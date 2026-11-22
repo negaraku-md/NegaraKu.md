@@ -101,6 +101,13 @@ dishFacts:
   halal: "Sebagai hidangan masyarakat Melayu Islam, ia biasanya disediakan tanpa daging babi atau lemak babi dan umumnya halal apabila dimasak di dapur Melayu; semaklah kedai berkenaan jika jaminan itu penting bagi anda."
   eat: "Dihidangkan panas dalam kuahnya bersama nasi putih, keasaman dan kepedasannya memotong kelemakan ikan; selalunya dimakan sebagai lauk utama yang dikongsi pada hidangan keluarga atau di kedai makan."
   where: "Lauk ruji dapur rumah dan restoran Melayu (kedai makan) di seluruh Semenanjung Malaysia, dengan Melaka dan Johor sebagai negeri yang paling rapat diidentifikasikan dengannya."
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tidak banyak hidangan Melayu yang memperkenalkan dirinya setulus asam pedas.

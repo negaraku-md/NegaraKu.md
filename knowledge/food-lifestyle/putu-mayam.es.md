@@ -95,6 +95,13 @@ dishFacts:
   halal: "No contiene carne — harina de arroz, coco y azúcar — así que es un tentempié vegetariano por naturaleza, vendido ampliamente por vendedores indio-musulmanes y otros; pregunta en el puesto concreto si la certificación importa."
   eat: "Suele servirse frío en vez de caliente, con coco rallado y azúcar moreno o de palma (gula melaka); se come con la mano, a veces sobre una hoja de plátano, para el desayuno o la merienda."
   where: "Un tentempié de vendedor ambulante y de mercado, históricamente vendido de puerta en puerta desde carritos, bicicletas y motocicletas, y todavía se encuentra en puestos y mercados nocturnos."
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pocos tentempiés malayos son tan calladamente queridos como el putu mayam: un pequeño

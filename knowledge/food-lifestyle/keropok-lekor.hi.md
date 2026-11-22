@@ -100,6 +100,13 @@ dishFacts:
   halal: "सूअर के मांस रहित एक मलय मछली स्नैक के रूप में आम तौर पर हलाल; औपचारिक आश्वासन चाहिए तो अलग-अलग दुकान या पैकेजिंग की जाँच करें।"
   eat: "आम तौर पर गरम होने तक तलकर, मीठी-खट्टी-तीखी मिर्च की चटनी (पिसी मिर्च, सिरका, नमक और ताड़ की शक्कर) के साथ खाया जाता है; सड़क किनारे की दुकानों और बाज़ारों में ताज़ा बिकता है।"
   where: "Terengganu और व्यापक पूर्वी तट भर में सड़क-किनारे की दुकान और बाज़ार की स्नैक; Kuala Terengganu का Losong इलाक़ा ख़ासतौर पर इससे जुड़ा है।"
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Terengganu के पूर्वी तट की सड़कों के किनारे, तली जाती मछली के पेस्ट की गंध सड़क किनारे

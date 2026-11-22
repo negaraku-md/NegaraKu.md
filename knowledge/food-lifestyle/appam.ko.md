@@ -95,6 +95,13 @@ dishFacts:
   halal: "플레인과 단맛 appam은 쌀, 코코넛, 설탕을 바탕으로 하고 고기가 없다. appam telur는 달걀을 더한다. 대부분의 길거리 노점은 공식 할랄 인증이 없고 관행이 판매자마다 다르므로, 인증이 중요하다면 개별 노점에 확인하라."
   eat: "주문을 받아 지지며, 가장자리가 아직 바삭할 때 팬에서 바로 뜨겁게 먹는 것이 가장 좋다. 플레인과 달걀 버전은 커리나 처트니와 어울리고, 단맛 버전은 그 자체로 간식으로 먹는다."
   where: "인도계 노점과 식당, 시장, 야시장(pasar malam)에서 팔리며, 흔히 한 줄의 작은 팬에서 지진다. 페낭 길거리 음식의 단골이기도 하며, 그곳에서 꽤 다른 apom balik과 나란히 있다."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 appam이 익는 것을 지켜보면, 맛보기 전에 이미 그 음식을 이해하게 된다. 창백하고 살

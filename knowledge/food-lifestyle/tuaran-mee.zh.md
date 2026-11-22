@@ -100,6 +100,13 @@ dishFacts:
   halal: "经典版本通常并非清真：它以猪肉叉燒为顶料，蛋卷也往往以猪肉末为馅。也有以鸡肉取代猪肉的版本；请向个别餐厅或摊位查询。"
   eat: "通常趁刚离锅时作为炒面享用；同一种面也出现在汤里和干捞（'konlau'）版本中，以及诸如用 Lihing（Sabah 米酒）演绎的本地变体。"
   where: "一道根植于 Tuaran 镇、在 Kota Kinabalu 一带广泛供应的 Sabah 特色美食；有时被称为 Sabah 最著名的面食。"
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在一个好面众多的州属里，有一盘面被捧得高于其余：鬥亞蘭面，以那个把它交给 Sabah

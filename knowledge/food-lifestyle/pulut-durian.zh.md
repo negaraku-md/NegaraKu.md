@@ -99,6 +99,13 @@ dishFacts:
   halal: "一道以植物为本的马来甜点，由糯米、椰浆、糖和榴梿制成，不含肉；一如任何现做的食物，需要清真保证的食客可向个别摊位查询。"
   eat: "趁热吃，让咸香、带盐味的椰浆糯米映衬香甜、气味浓烈的榴梿；这榴梿椰浆的元素也可配白面包或单独享用。"
   where: "榴梿季里的家庭、市集和甜点摊，尤其在榴梿产区；在果实价廉而充裕时制作。"
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 很少有甜点能像 pulut durian 这样毫不掩饰地浓郁：一堆以椰浆蒸煮的温热糯米，映衬着榴梿

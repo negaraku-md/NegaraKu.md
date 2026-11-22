@@ -99,6 +99,13 @@ dishFacts:
   halal: "もち米、ココナッツミルク、砂糖、ドリアンから成る、肉を含まない植物由来のマレーの甘味。調理されたどの食品とも同様に、ハラルの保証が必要な食べ手は個々の店で確認できる。"
   eat: "温かいまま食べ、塩気のある塩辛いココナッツ米が、甘く香りの強いドリアンに引き立て合う。ドリアン・ココナッツの要素は白パンとともに、またはそれだけでも食べられる。"
   where: "ドリアンの季節の家庭、市場、甘味の屋台、とくにドリアンの産地で。果実が安く豊富なときに作られる。"
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 pulut durian ほど臆面もなく濃厚な甘味は多くない。ココナッツミルクで蒸した温かい

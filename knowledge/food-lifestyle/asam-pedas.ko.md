@@ -101,6 +101,13 @@ dishFacts:
   halal: "말레이 무슬림 공동체의 음식이기에 보통 돼지고기나 돼지기름 없이 만들어지며, 말레이 주방에서 조리될 때 대체로 할랄이다; 그 보증이 중요하다면 개별 가게에 확인하라."
   eat: "국물째 뜨겁게 흰쌀밥과 함께 내며, 신맛과 매운맛이 생선의 기름진 맛을 잘라 준다; 혼자 먹는 간식이라기보다 가족 식탁이나 kedai 식사에서 함께 나누는 주요리로 먹는 경우가 많다."
   where: "말레이반도 전역의 가정 주방과 말레이 식당(kedai makan)의 주요리로, Melaka와 Johor가 그것과 가장 깊이 결부된 주다."
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 이만큼 솔직하게 자기를 알리는 말레이 음식은 많지 않다. 그 이름 자체가 맛의 꼬리표

@@ -95,6 +95,13 @@ dishFacts:
   halal: "原味和甜味 appam 以米、椰子和糖为基础，不含肉；appam telur 则加一颗蛋。多数街头摊档没有正式的清真认证，做法因摊而异，所以若认证对你重要，请向个别摊位查询。"
   eat: "现点现做，最好趁热从锅里起来、边缘仍薄脆时享用；原味和加蛋版本配咖喱或酸辣酱，甜味版本则单独当零食吃。"
   where: "在印度人摊档与食肆、市场和夜市（pasar malam）售卖，常在一排小锅里煎制；也是槟城街头美食的常客，与颇为不同的 apom balik 并肩而立。"
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 看着一块 appam 煎出来，你在尝到它之前就已懂得这道菜。一勺色泽苍白、略带酸味的面糊

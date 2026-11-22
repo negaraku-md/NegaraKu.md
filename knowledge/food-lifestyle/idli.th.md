@@ -94,6 +94,13 @@ dishFacts:
   halal: "แป้ง idli โดยทั่วไปมีแค่ข้าว urad dal น้ำ และเกลือ ทำให้เค้กธรรมดาเป็นมังสวิรัติ มันเป็นของประจำทั้งในร้านมังสวิรัติอินเดียใต้และร้านข้าวใบตอง และในร้านอินเดีย-มุสลิม (mamak) ที่ซึ่งมันอยู่ในเมนูเดียวกับ thosai และ vadai เครื่องเคียงและกับข้าวเนื้อสัตว์ใด ๆ แตกต่างกันไปตามร้าน ดังนั้นควรตรวจสอบแต่ละร้านหากกฎการกินสำคัญกับคุณ"
   eat: "Idli เป็นอาหารเช้าและ tiffin: เบา นึ่ง และมักถูกอธิบายว่าย่อยง่าย กินด้วยมือ ฉีกหรือจิ้ม ลากผ่าน sambar หรือ chutney มะพร้าว หรือกดลงใน idli podi ที่คลายด้วยน้ำมันหรือ ghee mini idli อาจเสิร์ฟคลุกใน podi หรือแช่ใน sambar"
   where: "คุณจะพบ idli ที่ร้านมังสวิรัติอินเดียใต้และร้านข้าวใบตอง ที่ซึ่งมันเป็นของประจำช่วงเช้าและเวลาน้ำชาเคียงกับ thosai และ vadai ที่แผง mamak และในครัวที่บ้าน คาเฟ่บางแห่งในกัวลาลัมเปอร์เชี่ยวชาญในมันโดยเฉพาะ"
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ก่อนที่กระทะเหล็กที่ร้านอาหารอินเดียใต้จะเริ่มส่งเสียงฉ่า ๆ กับ thosai แผ่นกลมสีซีด

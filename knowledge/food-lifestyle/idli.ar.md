@@ -94,6 +94,13 @@ dishFacts:
   halal: "عجينة idli عادةً مجرّد أرز وurad dal وماء وملح، ما يجعل الكعكة العادية نباتية. وهي ثابتة في المطاعم النباتية الهندية الجنوبية ومطاعم ورق الموز وفي مطاعم mamak (الهندية-المسلمة)، حيث تتقاسم القائمة مع thosai وvadai؛ وتختلف المرافقات وأي أطباق لحم جانبية من مطعم لآخر، فتحقّق من المكان بعينه إن كانت قواعد الطعام تهمّك."
   eat: "Idli طعام فطور وtiffin: خفيف، مطهوّ بالبخار، وكثيراً ما يُوصف بأنه سهل الهضم. يُؤكل باليد، مقطوعاً أو مغموساً، يُسحب في sambar أو chutney جوز الهند، أو يُضغط في idli podi المُرخى بالزيت أو ghee. وقد تُقدَّم mini idli مقلّبة في podi أو منقوعة في sambar."
   where: "تجد idli في المطاعم النباتية الهندية الجنوبية ومطاعم ورق الموز، حيث تكون ثابتة في الصباح ووقت الشاي مع thosai وvadai، وفي أكشاك mamak، وفي مطابخ البيوت؛ وتختصّ بها بعض مقاهي كوالالمبور."
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قبل أن يبدأ الصاج في مطعم هندي جنوبي بالأزيز مع thosai، تكون كومة من الأقراص

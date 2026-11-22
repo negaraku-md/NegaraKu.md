@@ -100,6 +100,13 @@ dishFacts:
   halal: "고전적인 방식은 대개 할랄이 아니다. 돼지고기 char siew와 흔히 다진 돼지고기를 채운 달걀말이를 올린다. 돼지고기 대신 닭고기를 쓰는 방식도 만든다. 개별 식당이나 노점에 확인하라."
   eat: "보통 볶음 한 접시로 웍에서 막 나온 것을 먹는다. 같은 면이 국물에도, 비빔식('konlau')에도 등장하며, Lihing(Sabah 쌀술)으로 낸 현지식 변주도 있다."
   where: "Tuaran 마을에 뿌리를 두고 Kota Kinabalu 일대에서 널리 내는 Sabah의 명물. 때로 Sabah에서 가장 유명한 면 요리로 불린다."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 좋은 면이 넘치는 주에서, 한 접시가 나머지를 제치고 손꼽힌다. Tuaran mee — 그것을

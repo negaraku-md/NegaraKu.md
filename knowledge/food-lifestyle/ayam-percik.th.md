@@ -99,6 +99,13 @@ dishFacts:
   halal: "อาหารไก่แบบมลายู-มุสลิมที่ไม่มีหมู มักขายในตลาด Ramadan และแผงตลาดกลางคืนของมลายู จึงมักปรุงแบบฮาลาล เช่นเดียวกับแผงใด ๆ โปรดตรวจสอบหากเรื่องนี้สำคัญกับคุณ"
   eat: "กินร้อน ๆ จากเตาย่างกับข้าว มักเสิร์ฟเคียงกับอาหารชายฝั่งตะวันออกอย่าง nasi kerabu และมีให้เลือกในสไตล์ซอสขาว (putih) ที่อ่อนกว่าและแดง (merah) ที่เผ็ดกว่า"
   where: "ของหลักของตลาดกลางคืน (pasar malam) และตลาด Ramadan โดยเฉพาะที่ชายฝั่งตะวันออกและใน Kelantan (กลันตัน) และปัจจุบันพบได้ตามแผงและร้านอาหารมลายูทั่วประเทศ"
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มีไม่กี่เสียงที่บอกเล่าชายฝั่งตะวันออกของมาเลเซียได้ชัดเท่าเสียงฉ่าของไก่บนถ่าน

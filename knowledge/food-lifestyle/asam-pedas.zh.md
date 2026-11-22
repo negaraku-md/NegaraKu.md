@@ -101,6 +101,13 @@ dishFacts:
   halal: "作为马来穆斯林社群的菜肴，它通常不用猪肉或猪油烹制，在马来厨房烹制时一般是清真的；如果这项保证对你很重要，请向个别食肆查询。"
   eat: "连汤趁热配白米饭食用，酸味与辣味化解鱼的油腴；通常是家庭餐桌或 kedai makan 一餐上众人分享的主菜。"
   where: "马来西亚半岛各地家庭厨房与马来餐馆（kedai makan）的常备主菜，其中 Melaka 和 Johor 是与它关系最密切的州属。"
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 很少有哪道马来菜能像 asam pedas 这样坦率地自报家门。它的名字就是一张风味标签——

@@ -101,6 +101,13 @@ dishFacts:
   halal: "대개 할랄 — 인도계 무슬림(mamak) 식당과 말레이계 무슬림 kenduri의 주식으로, 보통 돼지고기 없이 닭고기, 양고기, 소고기, 염소고기로 만든다. 채식과 해산물 종류도 있다. 개별 가게에서 확인하라."
   eat: "큰 행사를 위한 축제의 한 접시: 향신료 밥에 고른 커리를 곁들이고, 흔히 ayam masak merah, acar, raita 또는 요구르트와 함께 내며, 캐슈너트와 건포도로 장식한다."
   where: "전국의 인도계 무슬림 및 mamak 식당에서 일상적으로. 조호르(무아르와 바투파핫)는 beriani gam으로 유명하며 결혼식과 kenduri에서 낸다."
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 결정적 단서는 냄새다. 접시가 도착하기 한참 전부터, ghee가 입혀진 밥 한 무더기 —

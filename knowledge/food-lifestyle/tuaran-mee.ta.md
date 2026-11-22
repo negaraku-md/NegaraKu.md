@@ -100,6 +100,13 @@ dishFacts:
   halal: "உன்னதமான வகை பொதுவாக halal அல்ல: இது பன்றியிறைச்சி char siew மற்றும் பெரும்பாலும் அரைத்த பன்றியிறைச்சியால் நிரப்பப்பட்ட முட்டைச் சுருள்களால் மேலே இடப்படுகிறது. பன்றியிறைச்சிக்குப் பதிலாகக் கோழியைப் பயன்படுத்தும் வகைகளும் செய்யப்படுகின்றன; அந்தந்த உணவகம் அல்லது கடையிடம் சரிபார்க்கவும்."
   eat: "பொதுவாக வறுத்த தட்டாக வோக்கிலிருந்து புதிதாக உண்ணப்படுகிறது; அதே நூடுல் சூப்பிலும் உலர்-கலவை ('konlau') வகையாகவும் தோன்றுகிறது, மேலும் Lihing (Sabah அரிசி-மதுபானம்) கொண்டு செய்யப்படும் வகை போன்ற உள்ளூர் மாற்றங்களிலும் வருகிறது."
   where: "Tuaran நகரத்தில் வேரூன்றிய, Kota Kinabalu சுற்றிலும் பரவலாகப் பரிமாறப்படும் ஒரு Sabah சிறப்பு உணவு; சில நேரங்களில் Sabah-வின் மிகப் பிரபலமான நூடுல் உணவு என்று அழைக்கப்படுகிறது."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நல்ல நூடுல்ஸ் நிறைந்த ஒரு மாநிலத்தில், ஒரு தட்டு மற்றவற்றைவிட உயர்த்திப் பேசப்படுகிறது:

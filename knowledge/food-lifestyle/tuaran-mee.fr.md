@@ -100,6 +100,13 @@ dishFacts:
   halal: "La version classique n'est en général pas halal : elle est garnie de char siew de porc et de rouleaux d'œuf souvent fourrés de porc haché. On fait aussi des versions au poulet plutôt qu'au porc ; renseignez-vous auprès de chaque restaurant ou stand."
   eat: "Se mange d'ordinaire frais sorti du wok sous forme d'assiette sautée ; la même nouille apparaît aussi en bouillon et en version sautée à sec ('konlau'), et dans des variantes locales comme une préparation faite au Lihing (le vin de riz de Sabah)."
   where: "Une spécialité de Sabah enracinée dans la ville de Tuaran et largement servie autour de Kota Kinabalu ; parfois appelée le plat de nouilles le plus célèbre de Sabah."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dans un État saturé de bonnes nouilles, une assiette est revendiquée au-dessus des

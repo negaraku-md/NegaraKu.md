@@ -100,6 +100,13 @@ dishFacts:
   halal: "โดยทั่วไปเป็นฮาลาลในฐานะของว่างปลาของชาวมลายูที่ไม่มีเนื้อหมู; สอบถามแต่ละร้านหรือดูบรรจุภัณฑ์หากต้องการการรับรองอย่างเป็นทางการ"
   eat: "โดยปกติทอดจนร้อนและกินกับน้ำจิ้มพริกหวาน-เปรี้ยว-เผ็ด (พริกบด น้ำส้มสายชู เกลือ และน้ำตาลโตนด); ขายสด ๆ ที่ร้านริมทางและตลาด"
   where: "ของว่างแบบร้านริมทางและตลาดทั่ว Terengganu และชายฝั่งตะวันออกในวงกว้าง; ย่าน Losong ของ Kuala Terengganu เกี่ยวพันกับมันเป็นพิเศษ"
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ตามถนนชายฝั่งตะวันออกของ Terengganu กลิ่นเนื้อปลาทอดลอยออกมาจากร้านริมทาง และสิ่งที่

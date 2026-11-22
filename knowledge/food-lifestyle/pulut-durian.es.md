@@ -99,6 +99,13 @@ dishFacts:
   halal: "Un postre malayo de origen vegetal a base de arroz glutinoso, leche de coco, azúcar y durián, sin carne; como con cualquier alimento preparado, quien necesite una garantía halal puede preguntar en cada puesto."
   eat: "Se come tibio, para que el arroz de coco sabroso y salado juegue contra el durián dulce y penetrante; el elemento de durián y coco también se come con pan blanco o solo."
   where: "Hogares, mercados y puestos de postres durante la temporada del durián, sobre todo en zonas productoras de durián; se elabora cuando la fruta es barata y abundante."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pocos postres son tan descaradamente intensos como el pulut durian: un montículo

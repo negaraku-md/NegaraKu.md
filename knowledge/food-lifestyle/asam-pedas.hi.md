@@ -101,6 +101,13 @@ dishFacts:
   halal: "मलय मुस्लिम समुदाय के व्यंजन के रूप में, यह आम तौर पर सूअर के मांस या चर्बी के बिना बनाया जाता है और मलय रसोइयों में पकाए जाने पर सामान्यतः हलाल होता है; यदि वह आश्वासन आपके लिए महत्वपूर्ण है तो संबंधित दुकान से पूछ लें।"
   eat: "अपनी तरी के साथ गरम, भाप में पके सफेद चावल के साथ परोसा जाता है, खटास और तीखाहट मछली की चिकनाहट को काटती हैं; अक्सर परिवार के या kedai के भोजन में साझा मुख्य व्यंजन के रूप में खाया जाता है।"
   where: "प्रायद्वीपीय मलेशिया भर में घरेलू रसोई और मलय रेस्तराँ (kedai makan) का प्रमुख व्यंजन, जिसमें Melaka और Johor इससे सबसे निकटता से पहचाने जाने वाले राज्य हैं।"
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 कम ही मलय व्यंजन असम पेदास जितनी सादगी से अपना परिचय देते हैं। इसका नाम ही एक

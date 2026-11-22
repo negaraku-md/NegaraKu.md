@@ -99,6 +99,13 @@ dishFacts:
   halal: "Un plat malais-musulman de poulet sans porc, couramment vendu dans les bazars du Ramadan et sur les étals malais des marchés de nuit, donc généralement préparé halal ; comme pour tout étal, vérifiez si cela compte pour vous."
   eat: "Mangé chaud sorti du gril avec du riz ; souvent servi aux côtés de plats de la Côte Est comme le nasi kerabu, et proposé dans les styles de sauce blanche (putih) plus douce et rouge (merah) plus relevée."
   where: "Un pilier des marchés de nuit (pasar malam) et des bazars du Ramadan, surtout sur la Côte Est et au Kelantan, et désormais présent sur les étals et dans les restaurants malais de tout le pays."
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Peu de sons disent la Côte Est de la Malaisie comme le grésillement du poulet sur

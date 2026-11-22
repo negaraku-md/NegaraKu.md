@@ -99,6 +99,13 @@ dishFacts:
   halal: "बिना सूअर के मांस वाला एक मलय-मुस्लिम चिकन व्यंजन, आमतौर पर Ramadan बाज़ारों और मलय रात-बाज़ार स्टॉलों पर बेचा जाता है, इसलिए यह आम तौर पर हलाल तरीके से तैयार किया जाता है; किसी भी स्टॉल की तरह, यदि यह आपके लिए मायने रखता है तो जाँच लें।"
   eat: "भूनने से सीधे गरमागरम चावल के साथ खाया जाता है; अक्सर nasi kerabu जैसे पूर्वी तट के व्यंजनों के साथ परोसा जाता है, और हल्की सफ़ेद (putih) तथा अधिक तीखी लाल (merah) सॉस शैलियों में उपलब्ध होता है।"
   where: "रात के बाज़ारों (pasar malam) और Ramadan बाज़ारों का मुख्य आधार, खासकर पूर्वी तट पर और Kelantan में, और अब पूरे देश के मलय स्टॉलों और रेस्तराँ में मिलता है।"
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 बहुत कम ध्वनियाँ मलेशिया के पूर्वी तट को उतना बयान करती हैं जितना कोयले पर रखे

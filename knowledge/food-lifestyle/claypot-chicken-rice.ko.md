@@ -103,6 +103,13 @@ dishFacts:
   halal: "고전 버전은 할랄이 아니다: 중국식 말린 소시지(lap cheong)를 바탕으로 하는데, 이는 보통 돼지고기이며 때로 돼지기름으로 맛을 더한다. 할랄로 준비하는 버전은 이를 빼야 한다. 중요하다면 개별 노점에 확인하라."
   eat: "지은 바로 그 흙냄비에 지글거리며 나오고, 걸쭉한 진간장을 둘러 밥·닭고기·소시지에 섞는다. 먹는 이는 마지막에 바닥의 바삭한 누룽지를 긁어 먹는다. 대개 주문 즉시 짓기에 시간이 걸린다."
   where: "말레이시아 전역의 커피숍, 푸드코트, 야시장에서 볼 수 있는 노점·kopitiam 음식으로, 숯불이나 가스로 한 번에 한 냄비씩 짓는다. 페락주의 Kampar 읍과 특히 연관된다."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 claypot chicken rice의 뚜껑을 열면 가장 먼저 다가오는 것은 김과 간장이다 — 윤기 도는

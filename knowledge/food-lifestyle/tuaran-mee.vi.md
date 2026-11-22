@@ -100,6 +100,13 @@ dishFacts:
   halal: "Phiên bản cổ điển thường không halal: nó được phủ char siew thịt lợn và chả trứng cuộn thường nhồi thịt lợn băm. Cũng có phiên bản dùng gà thay cho thịt lợn; hãy hỏi từng nhà hàng hoặc quầy."
   eat: "Thường ăn tươi ngay khi vừa ra chảo như một đĩa xào; cùng loại mì cũng xuất hiện trong nước và ở dạng trộn khô ('konlau'), và trong các biến tấu địa phương như phiên bản làm với Lihing (rượu gạo Sabah)."
   where: "Một đặc sản Sabah bắt rễ ở thị trấn Tuaran và được dọn rộng rãi quanh Kota Kinabalu; đôi khi được gọi là món mì nổi tiếng nhất của Sabah."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ở một bang chật kín những món mì ngon, một đĩa được tôn lên trên phần còn lại:

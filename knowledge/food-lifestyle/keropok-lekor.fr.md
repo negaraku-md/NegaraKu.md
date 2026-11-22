@@ -100,6 +100,13 @@ dishFacts:
   halal: "En général halal en tant qu'en-cas de poisson malais sans porc ; renseignez-vous auprès de chaque stand ou sur l'emballage si une garantie formelle est nécessaire."
   eat: "Généralement frit jusqu'à être chaud et mangé avec une sauce pimentée sucrée-acide-épicée (piment moulu, vinaigre, sel et sucre de palme) ; vendu frais aux stands de bord de route et sur les marchés."
   where: "Un en-cas de stand de bord de route et de marché dans tout Terengganu et la côte est au sens large ; la zone de Losong, à Kuala Terengganu, lui est particulièrement associée."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Le long des routes de la côte est de Terengganu, l'odeur de la pâte de poisson que l'on

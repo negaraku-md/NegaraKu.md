@@ -100,6 +100,13 @@ dishFacts:
   halal: "La versión clásica no suele ser halal: se cubre con char siew de cerdo y rollitos de huevo a menudo rellenos de cerdo picado. También se hacen versiones con pollo en lugar de cerdo; consulta en cada restaurante o puesto."
   eat: "Suele comerse recién salido del wok como plato frito; el mismo fideo también aparece en caldo y en versión salteada en seco ('konlau'), y en giros locales como una preparación hecha con Lihing (el vino de arroz de Sabah)."
   where: "Una especialidad de Sabah arraigada en el pueblo de Tuaran y servida ampliamente por los alrededores de Kota Kinabalu; a veces llamado el plato de fideos más famoso de Sabah."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En un estado atestado de buenos fideos, un plato se reivindica por encima del

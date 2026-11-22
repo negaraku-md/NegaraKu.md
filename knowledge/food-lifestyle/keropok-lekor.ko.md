@@ -100,6 +100,13 @@ dishFacts:
   halal: "돼지고기가 없는 말레이 생선 간식으로 일반적으로 할랄; 공식적인 보증이 필요하면 개별 노점이나 포장을 확인하라."
   eat: "보통 뜨겁게 튀겨 새콤달콤 매운 고추 소스(간 고추, 식초, 소금, 야자설탕)와 함께 먹는다. 길가 노점과 시장에서 갓 만든 것을 판다."
   where: "Terengganu와 더 넓은 동해안 전역의 길가 노점과 시장 간식; Kuala Terengganu의 Losong 지역이 특히 이것과 연관된다."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Terengganu의 동해안 길을 따라가면 생선 반죽을 튀기는 냄새가 길가 노점에서 흘러나오

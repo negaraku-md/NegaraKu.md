@@ -101,6 +101,13 @@ dishFacts:
   halal: "حلال عادةً — طبق أساسي في مطاعم الهنود المسلمين (mamak) وولائم kenduri لدى المالاي المسلمين، يُصنع عادةً بالدجاج أو الضأن أو اللحم البقري أو الماعز ومن دون لحم خنزير. وتوجد نسخ نباتية ونسخ بالمأكولات البحرية. تحقّق من المطعم نفسه."
   eat: "طبق احتفالي للمناسبات الكبرى: أرز متبّل مع الكاري الذي تختاره، غالباً إلى جانب ayam masak merah وacar وraita أو الزبادي، ومزيّن بالكاجو والزبيب."
   where: "يومياً في مطاعم الهنود المسلمين وأكشاك mamak في أنحاء البلاد؛ وتشتهر جوهور (موار وباتو باهات) بـ beriani gam، ويُقدَّم في الأعراس وولائم kenduri."
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 العلامة الفارقة هي الرائحة. فقبل وصول الطبق بوقت طويل، يُعلن كوم من الأرز المغلّف

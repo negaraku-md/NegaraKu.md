@@ -101,6 +101,13 @@ dishFacts:
   origin: "มาจากซาราวัก รัฐหนึ่งของมาเลเซียบนเกาะบอร์เนียว และเชื่อมโยงมากที่สุดกับเมืองหลวงของรัฐคือ Kuching ตามเรื่องเล่าทุติยภูมิ จานสมัยใหม่สืบย้อนไปถึง Kuching ช่วงกลางศตวรรษที่ 20 แม้จุดเริ่มต้นที่แท้จริงจะยังไม่แน่ชัด"
   eat: "มักกินเป็นอาหารเช้าใน Kuching สด ๆ และร้อน ๆ โดยมีมะนาวและ sambal belacan เพิ่มวางไว้ข้าง ๆ เพื่อปรับความเปรี้ยวและความเผ็ดตามใจชอบ"
   where: "อาหารของร้านกาแฟและแผงหาบเร่ทั่วซาราวัก โดยถือว่า Kuching เป็นบ้านของมัน พริกแกง laksa สำเร็จรูปยังได้พาชามนี้ไปสู่คาบสมุทรมาเลเซียและไกลออกไป"
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 สั่ง "laksa" ที่ไหนก็ตามในคาบสมุทรมาเลเซีย แล้วคุณจะได้น้ำซุปปลาที่เปรี้ยวแหลม

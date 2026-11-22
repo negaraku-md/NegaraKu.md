@@ -94,6 +94,13 @@ dishFacts:
   halal: "Contains no meat — rice flour, coconut and sugar — so it is a naturally vegetarian snack, widely sold by Indian-Muslim and other vendors; check the individual seller if certification matters."
   eat: "Usually served cool rather than hot, with grated coconut and brown or palm sugar (gula melaka); eaten by hand, sometimes on a banana leaf, for breakfast or afternoon tea."
   where: "A travelling-vendor and market snack, historically sold door to door from pushcarts, bicycles and motorbikes, and still found at stalls and night markets."
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Few Malaysian snacks are as quietly beloved as putu mayam: a little nest of

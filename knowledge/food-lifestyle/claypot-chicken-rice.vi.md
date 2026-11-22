@@ -103,6 +103,13 @@ dishFacts:
   halal: "Phiên bản cổ điển không halal: nó dựa trên lạp xưởng Trung Hoa (lap cheong), vốn thường là thịt heo, và đôi khi tăng vị bằng mỡ heo. Bất kỳ phiên bản chế biến halal nào cũng phải bỏ những thứ đó; hãy hỏi từng quầy nếu điều này quan trọng với bạn."
   eat: "Dọn xèo xèo ngay trong chiếc niêu đất đã nấu nó, rưới xì dầu đen sánh rồi trộn đều với cơm, gà và lạp xưởng; người ăn cạo lớp cơm cháy giòn dưới đáy vào cuối bữa. Thường nấu theo yêu cầu nên mất thời gian."
   where: "Một món của hàng rong và kopitiam thấy ở các quán cà phê, khu ẩm thực và chợ đêm khắp Malaysia, nấu mỗi lần một niêu trên than hoặc gas; thị trấn Kampar ở bang Perak gắn bó với nó một cách đặc biệt."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Nhấc nắp một niêu claypot chicken rice, thứ đầu tiên đến với bạn là hơi nóng và xì

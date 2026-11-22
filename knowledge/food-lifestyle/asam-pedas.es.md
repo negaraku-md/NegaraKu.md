@@ -101,6 +101,13 @@ dishFacts:
   halal: "Como plato de la comunidad musulmana malaya, se prepara normalmente sin cerdo ni manteca y suele ser halal cuando se cocina en cocinas malayas; pregunta en cada local si esa garantía te importa."
   eat: "Se sirve caliente con su salsa y arroz blanco al vapor, pues la acidez y el picante cortan la grasa del pescado; suele comerse como plato principal compartido en una comida familiar o de kedai."
   where: "Un plato principal básico de las cocinas caseras y los restaurantes malayos (kedai makan) por toda la Malasia peninsular, con Melaka y Johor como los estados más identificados con él."
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pocos platos malayos se anuncian con tanta franqueza como el asam pedas. Su nombre

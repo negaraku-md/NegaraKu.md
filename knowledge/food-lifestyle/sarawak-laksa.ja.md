@@ -101,6 +101,13 @@ dishFacts:
   origin: "ボルネオ島にあるマレーシアの州サラワク発祥で、州都 Kuching と最も結びつく。二次的な記述によれば、現代の料理は20世紀半ばの Kuching にたどられるが、真の始まりは不確かである。"
   eat: "Kuching では一般に朝食として、できたての熱いうちに食べられ、酸味と辛さを好みに合わせて調整できるよう、ライムと追加の sambal belacan が添えられる。"
   where: "サラワク各地のコーヒーショップや屋台の料理で、Kuching がその故郷とされる。出来合いの laksa ペーストはこのボウルをマレー半島やその先へも広げてきた。"
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレー半島のほぼどこでも「laksa」を注文すれば、鋭く酸っぱい魚のスープか、濃厚な

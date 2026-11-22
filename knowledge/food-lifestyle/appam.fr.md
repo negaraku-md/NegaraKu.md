@@ -95,6 +95,13 @@ dishFacts:
   halal: "L'appam nature et l'appam sucré reposent sur le riz, le coco et le sucre et ne contiennent pas de viande ; l'appam telur ajoute un œuf. La plupart des stands de rue ne sont pas officiellement certifiés halal, et la pratique varie selon le vendeur, alors vérifiez auprès de chaque stand si la certification vous importe."
   eat: "Cuit à la demande, meilleur mangé chaud à la sortie de la poêle tant que le bord est encore croustillant ; les versions nature et à l'œuf accompagnent currys ou chutney, la version sucrée se mange seule en en-cas."
   where: "Vendu dans les stands et établissements indiens, les marchés et les marchés de nuit (pasar malam), souvent cuit sur une rangée de petites poêles ; c'est aussi un incontournable de la cuisine de rue de Penang, où il côtoie l'apom balik bien différent."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Regardez cuire un appam et vous comprendrez le plat avant même de le goûter. Une

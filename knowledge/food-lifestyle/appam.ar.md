@@ -95,6 +95,13 @@ dishFacts:
   halal: "appam السادة والحلو يقومان على الأرز وجوز الهند والسكّر ولا يحتويان على لحم؛ ويضيف appam telur بيضة. معظم أكشاك الشارع غير حاصلة على شهادة حلال رسمية، وتختلف الممارسة بين بائع وآخر، فتحقّق من الكشك المعيّن إن كانت الشهادة تهمّك."
   eat: "يُقلى حسب الطلب، ويُفضَّل أكله ساخنًا من المقلاة ما دامت الحافة مقرمشة؛ تتناسب النسختان السادة والبيض مع الكاري أو الشطني، وتُؤكل النسخة الحلوة وحدها كوجبة خفيفة."
   where: "يُباع في أكشاك ومطاعم الهنود والأسواق والأسواق الليلية (pasar malam)، وغالبًا يُطهى في صفّ من المقالي الصغيرة؛ وهو كذلك من ثوابت طعام الشارع في بينانغ، حيث يقف إلى جانب apom balik المختلف تمامًا."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 راقب appam وهو يُطهى تفهم الطبق قبل أن تتذوّقه. مغرفة من عجين شاحب حامض قليلًا تُسكب في

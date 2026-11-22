@@ -101,6 +101,13 @@ dishFacts:
   halal: "ในฐานะอาหารของชุมชนมุสลิมมลายู มันมักปรุงโดยไม่ใส่เนื้อหมูหรือมันหมู และโดยทั่วไปเป็นฮาลาลเมื่อปรุงในครัวมลายู; สอบถามร้านแต่ละร้านหากการรับรองนั้นสำคัญต่อคุณ"
   eat: "เสิร์ฟร้อน ๆ พร้อมน้ำแกงกับข้าวสวย ความเปรี้ยวและความเผ็ดตัดความมันของปลา; มักกินเป็นกับข้าวจานหลักที่แบ่งกันในมื้อครอบครัวหรือที่ kedai"
   where: "กับข้าวหลักของครัวที่บ้านและร้านอาหารมลายู (kedai makan) ทั่วคาบสมุทรมาเลเซีย โดยมี Melaka และ Johor เป็นรัฐที่ผูกพันใกล้ชิดกับมันที่สุด"
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 อาหารมลายูไม่กี่จานที่ประกาศตัวตนได้ตรงไปตรงมาเท่า asam pedas ชื่อของมันคือป้ายบอก

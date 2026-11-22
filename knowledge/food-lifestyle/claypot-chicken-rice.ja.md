@@ -103,6 +103,13 @@ dishFacts:
   halal: "古典的な版はハラルではない。中国の腸詰（lap cheong）を土台とし、これは通常は豚肉で、ときにラードで旨味を加える。ハラルで調理する版はそれらを除く必要がある。重要であれば個々の屋台で確認すること。"
   eat: "炊いたその同じ土鍋でジュージューと供され、濃口の濃い醤油をひと回しして、ご飯、鶏肉、腸詰に混ぜ込む。食べ手は最後に鍋底の香ばしいお焦げをこそげ取る。たいてい注文ごとに作るので時間がかかる。"
   where: "マレーシア各地のコーヒーショップ、フードコート、夜市で見られる屋台・kopitiam の料理で、炭火またはガスで一度に一鍋ずつ作る。Perak（ペラ）州の Kampar の町ととりわけ結びついている。"
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 claypot chicken rice の蓋を取ると、まず届くのは湯気と醤油だ——つやめくご飯にルビー色の

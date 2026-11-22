@@ -101,6 +101,13 @@ dishFacts:
   halal: "たいていハラル——インド系ムスリム（mamak）の店やマレー系ムスリムの kenduri の定番で、ふつう鶏肉、マトン、牛肉、山羊肉で作り、豚肉は使わない。ベジタリアンや魚介の種類もある。個々の店で確認を。"
   eat: "大きな機会のための祝祭の一皿：スパイスを効かせた米に好みのカレー、しばしば ayam masak merah、acar、raita またはヨーグルトを添え、カシューナッツとレーズンで飾る。"
   where: "全国のインド系ムスリムおよび mamak の店で日常的に。ジョホール（ムアルとバトゥ・パハ）は beriani gam で知られ、結婚式や kenduri で供される。"
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 決め手は香りだ。皿が届くずっと前から、ghee をまとった米の山——金色に斑を帯び、揚げ

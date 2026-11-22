@@ -100,6 +100,13 @@ dishFacts:
   halal: "பன்றியிறைச்சி இல்லாத ஒரு மலாய் மீன் சிற்றுண்டி என்பதால் பொதுவாக halal; முறையான உறுதிப்பாடு தேவைப்பட்டால் தனிப்பட்ட கடை அல்லது பேக்கேஜிங்கைச் சரிபார்க்கவும்."
   eat: "பொதுவாகச் சூடாகப் பொரிக்கப்பட்டு, இனிப்பு-புளிப்பு-காரமான மிளகாய்த் தொட்டுக்கொள்ளலுடன் (அரைத்த மிளகாய், வினிகர், உப்பு மற்றும் பனைச் சர்க்கரை) உண்ணப்படுகிறது; சாலையோரக் கடைகளிலும் சந்தைகளிலும் புதிதாக விற்கப்படுகிறது."
   where: "Terengganu முழுவதும் மற்றும் பரந்த கிழக்குக் கடற்கரை முழுவதும் ஒரு சாலையோரக்-கடை மற்றும் சந்தை சிற்றுண்டி; Kuala Terengganu-வின் Losong பகுதி குறிப்பாக இதனுடன் தொடர்புடையது."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Terengganu-வின் கிழக்குக் கடற்கரைச் சாலைகளில், பொரிந்த மீன் விழுதின் வாசனை சாலையோரக்

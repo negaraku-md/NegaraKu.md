@@ -100,6 +100,13 @@ dishFacts:
   halal: "النسخة الكلاسيكية عادةً ليست حلالاً: تُزيَّن بـ char siew لحم الخنزير ولفائف بيض كثيراً ما تُحشى بلحم الخنزير المفروم. وتُصنع أيضاً نسخ تستخدم الدجاج بدل لحم الخنزير؛ تحقّق من المطعم أو البسطة المعنيّة."
   eat: "يُؤكل عادةً طازجاً خارجاً من المقلاة كطبق مقلي؛ وتظهر النودلز نفسها في الحساء وكنسخة مخلوطة جافة ('konlau')، وفي تنويعات محلية مثل نسخة تُصنع بـ Lihing (نبيذ أرز Sabah)."
   where: "طبق خاص بـ Sabah متجذّر في بلدة Tuaran ويُقدَّم على نطاق واسع حول Kota Kinabalu؛ ويُسمّى أحياناً أشهر طبق نودلز في Sabah."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في ولاية تزدحم بالنودلز الطيّبة، يُرفع طبق واحد فوق الباقي: Tuaran mee، المسمّى على

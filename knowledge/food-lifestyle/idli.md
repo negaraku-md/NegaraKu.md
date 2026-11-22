@@ -93,6 +93,13 @@ dishFacts:
   halal: "Idli batter is typically just rice, urad dal, water and salt, making the plain cake vegetarian. It is a fixture of both South Indian vegetarian and banana-leaf restaurants and of mamak (Indian-Muslim) eateries, where it shares the menu with thosai and vadai; accompaniments and any meat sides vary by eatery, so check the individual place if dietary rules matter to you."
   eat: "Idli is a breakfast and tiffin food: light, steamed and often described as easy to digest. It is eaten by hand, torn or dipped, dragged through sambar or coconut chutney, or pressed into idli podi loosened with oil or ghee. Mini idli may be served tossed in podi or soaked in sambar."
   where: "You find idli at South Indian vegetarian and banana-leaf restaurants, where it is a morning and tea-time fixture alongside thosai and vadai, at mamak stalls, and in home kitchens; some Kuala Lumpur cafes specialise in it."
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Before the griddle at a South Indian eatery starts hissing with thosai, a stack

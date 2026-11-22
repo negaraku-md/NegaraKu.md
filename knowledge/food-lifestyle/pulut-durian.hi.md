@@ -99,6 +99,13 @@ dishFacts:
   halal: "चिपचिपे चावल, नारियल के दूध, चीनी और ड्यूरियन से बनी एक पौध-आधारित मलय मिठाई, जिसमें मांस नहीं होता; किसी भी पकाए गए भोजन की तरह, जिन्हें हलाल का आश्वासन चाहिए वे अलग-अलग दुकान से पूछ सकते हैं।"
   eat: "गर्म खाया जाता है, ताकि नमकीन, नमकयुक्त नारियल चावल मीठे, तेज़ गंध वाले ड्यूरियन के सामने खेल सके; ड्यूरियन-नारियल तत्व को सफ़ेद रोटी के साथ या अकेले भी खाया जाता है।"
   where: "ड्यूरियन के मौसम में घर, बाज़ार और मिठाई की दुकानें, विशेषकर ड्यूरियन उगाने वाले इलाकों में; तब बनाया जाता है जब फल सस्ता और भरपूर होता है।"
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 बहुत कम मिठाइयाँ pulut durian जितनी बेझिझक समृद्ध होती हैं: नारियल में भाप से पके

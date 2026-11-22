@@ -95,6 +95,13 @@ dishFacts:
   halal: "appam polos dan manis berbasis beras, kelapa, dan gula serta tidak mengandung daging; appam telur menambahkan sebutir telur. Sebagian besar gerai kaki lima tidak bersertifikat halal secara resmi, dan praktiknya berbeda-beda menurut penjual, jadi periksa gerai masing-masing jika sertifikasi penting bagi Anda."
   eat: "Digoreng sesuai pesanan, paling enak disantap panas langsung dari wajan selagi tepinya masih renyah; versi polos dan telur cocok dengan kari atau chutney, versi manis disantap tersendiri sebagai camilan."
   where: "Dijual di gerai dan rumah makan India, pasar, dan pasar malam, sering dimasak dalam sederet wajan kecil; juga sajian tetap jajanan kaki lima Penang, tempat ia berdampingan dengan apom balik yang cukup berbeda."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Perhatikan appam dimasak dan Anda sudah memahami hidangannya sebelum mencicipinya.

@@ -103,6 +103,13 @@ dishFacts:
   halal: "النسخة الكلاسيكية ليست حلالًا: فهي قائمة على النقانق الصينية المشمّعة (lap cheong)، وهي عادةً لحم خنزير، وتُثرى أحيانًا بشحم الخنزير. وأيّ نسخة تُحضَّر حلالًا يلزمها إسقاط تلك المكوّنات؛ تحقّق من كلّ كشك إن كان هذا يهمّك."
   eat: "يُقدَّم وهو يُصلصل في القِدر الفخّارية نفسها التي طُهي فيها، مع رشّ صلصة صويا داكنة كثيفة وتقليبها في الأرزّ والدجاج والنقانق؛ ويكشط الآكلون قشرة القاع المقرمشة في النهاية. ويُطهى عادةً حسب الطلب، فيستغرق وقتًا."
   where: "طبق أكشاك وkopitiam يُوجد في المقاهي الشعبية وساحات الطعام والأسواق الليلية في أنحاء ماليزيا، يُطهى قِدرًا واحدة في كلّ مرّة على الفحم أو الغاز؛ وترتبط به بلدة Kampar في ولاية بيراك على نحوٍ خاصّ."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ارفع غطاء claypot chicken rice فيكون أوّل ما يصلك البخار والصويا — أرزّ لامع مرصّع

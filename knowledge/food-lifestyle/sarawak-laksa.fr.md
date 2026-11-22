@@ -101,6 +101,13 @@ dishFacts:
   origin: "Du Sarawak, un État malaisien sur l'île de Bornéo, et associé surtout à la capitale Kuching ; selon des récits secondaires, le plat moderne remonte au Kuching du milieu du XXe siècle, bien que ses véritables débuts soient incertains."
   eat: "Mangé couramment au petit-déjeuner à Kuching, frais et chaud, avec du citron vert et du sambal belacan supplémentaire servis à côté pour ajuster l'acidité et le piquant à son goût."
   where: "Un plat de café et de stand de rue dans tout le Sarawak, Kuching étant considérée comme son foyer ; les pâtes de laksa prêtes à l'emploi ont aussi porté le bol vers la péninsule malaisienne et au-delà."
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Commandez « laksa » presque n'importe où en Malaisie péninsulaire et vous

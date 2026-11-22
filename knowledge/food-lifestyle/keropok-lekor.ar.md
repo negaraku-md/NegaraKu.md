@@ -100,6 +100,13 @@ dishFacts:
   halal: "عموماً حلال بوصفه وجبة سمك ملايوية خالية من لحم الخنزير؛ تحقّق من كلّ بسطة أو من العبوة إن احتجت ضماناً رسمياً."
   eat: "يُقلى عادةً حتى يسخن ويُؤكل مع صلصة فلفل حلوة-حامضة-حارّة (فلفل مطحون وخلّ وملح وسكّر نخيل)؛ ويُباع طازجاً في بسطات الطرق والأسواق."
   where: "وجبة خفيفة لبسطات الطرق والأسواق في أنحاء Terengganu والساحل الشرقي الأوسع؛ وترتبط منطقة Losong في Kuala Terengganu به خصوصاً."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 على طول طرق الساحل الشرقي في Terengganu، تنبعث رائحة عجينة السمك المقليّة من بسطات

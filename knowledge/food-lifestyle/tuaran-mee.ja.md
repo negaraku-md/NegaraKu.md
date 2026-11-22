@@ -100,6 +100,13 @@ dishFacts:
   halal: "古典的な種類はたいていハラルではない。豚肉の char siew と、しばしば豚ひき肉を詰めた卵巻きをのせる。豚肉の代わりに鶏肉を使う種類も作られる。個々の店で確認を。"
   eat: "ふつうは焼きの一皿として鑊から出したてを食べる。同じ麺はスープにも和え麺（『konlau』）にも現れ、Lihing（Sabah の米酒）で仕立てる地元の工夫もある。"
   where: "Tuaran の町に根ざし、Kota Kinabalu 一帯で広く供される Sabah の名物。Sabah で最も有名な麺料理と呼ばれることもある。"
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 良い麺であふれる州にあって、一皿が他をしのいで称えられる。Tuaran mee——それを

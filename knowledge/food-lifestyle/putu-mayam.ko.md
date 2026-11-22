@@ -95,6 +95,13 @@ dishFacts:
   halal: "고기가 들어가지 않는다 — 쌀가루, 코코넛, 설탕 — 그래서 본래 채식 간식이며 인도계 무슬림과 그 밖의 행상이 널리 판다; 인증이 중요하면 개별 판매자에게 확인하라."
   eat: "뜨겁게가 아니라 식혀서, 간 코코넛과 흑설탕이나 야자설탕(gula melaka)과 함께 내는 것이 보통이다; 손으로, 때로 바나나 잎 위에서, 아침 식사나 오후 차로 먹는다."
   where: "떠돌이 행상과 시장의 간식으로, 역사적으로 손수레, 자전거, 오토바이로 집집마다 팔았고, 지금도 노점과 야시장에서 볼 수 있다."
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 putu mayam만큼 조용히 사랑받는 말레이시아 간식은 많지 않다. 실처럼 가는 쌀국수의 작은

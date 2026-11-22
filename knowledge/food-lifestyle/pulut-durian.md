@@ -98,6 +98,13 @@ dishFacts:
   halal: "A plant-based Malay dessert of glutinous rice, coconut milk, sugar and durian, with no meat; as with any prepared food, diners who need a halal assurance can check the individual stall."
   eat: "Eaten warm, so the savoury, salted coconut rice plays against the sweet, pungent durian; the durian-coconut element is also eaten with white bread or on its own."
   where: "Homes, markets and dessert stalls during durian season, especially in durian-growing areas; made when the fruit is cheap and plentiful."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Few desserts are as unapologetically rich as pulut durian: a mound of warm,

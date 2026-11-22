@@ -101,6 +101,13 @@ dishFacts:
   halal: "आमतौर पर हलाल — इंडियन-मुस्लिम (mamak) भोजनालयों और मलय-मुस्लिम kenduri का मुख्य व्यंजन, आमतौर पर चिकन, मटन, बीफ़ या बकरे से बनाया जाता है और सूअर रहित। शाकाहारी और समुद्री भोजन संस्करण मौजूद हैं। अलग-अलग दुकान से पुष्टि करें।"
   eat: "बड़े अवसर की उत्सवी प्लेट: आपकी पसंद की करी के साथ मसालेदार चावल, अक्सर ayam masak merah, acar, raita या दही के साथ, और काजू तथा किशमिश से सजाया।"
   where: "देश भर में इंडियन-मुस्लिम और mamak भोजनालयों में रोज़ाना; जोहोर (मुआर और बातू पाहत) beriani gam के लिए जाना जाता है, जो विवाहों और kenduri में परोसा जाता है।"
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 पहचान गंध है। प्लेट पहुँचने से बहुत पहले, ghee में लिपटे चावल का एक ढेर — सुनहरे

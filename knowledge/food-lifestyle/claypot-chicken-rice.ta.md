@@ -103,6 +103,13 @@ dishFacts:
   halal: "உன்னதமான பதிப்பு halal அல்ல: இது சீன மெழுகுத் தொத்திறைச்சியை (lap cheong) அடிப்படையாகக் கொண்டது, அது பொதுவாகப் பன்றியிறைச்சி, சில நேரங்களில் பன்றிக் கொழுப்புடன் வளப்படுத்தப்படுகிறது. halal-ஆகத் தயாரிக்கப்படும் எந்தப் பதிப்பும் அவற்றை விலக்க வேண்டும்; இது உங்களுக்கு முக்கியமானால் தனித்தனிக் கடையைச் சரிபார்க்கவும்."
   eat: "அது சமைக்கப்படும் அதே களிமண் பானையில் கொதித்துக்கொண்டே பரிமாறப்படுகிறது, அடர்த்தியான கரும் சோயா சாஸ் தெளித்து சோறு, கோழி மற்றும் தொத்திறைச்சியுடன் கலக்கப்படுகிறது; உண்பவர்கள் இறுதியில் அடியில் உள்ள மொறுமொறுப்பான பொருக்கைச் சுரண்டி எடுக்கிறார்கள். பொதுவாக ஆர்டருக்கு ஏற்பச் சமைக்கப்படுவதால், அது நேரம் எடுக்கும்."
   where: "மலேசியா முழுவதும் காபிக்கடைகள், உணவு அங்காடிகள் மற்றும் இரவுச் சந்தைகளில் காணப்படும் ஒரு தெருவணிக மற்றும் kopitiam உணவு, கரி அல்லது எரிவாயு மீது ஒரு நேரத்தில் ஒரு பானையாகச் சமைக்கப்படுகிறது; Perak-ல் உள்ள Kampar நகரம் இதனுடன் குறிப்பாகத் தொடர்புடையது."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒரு claypot chicken rice-ன் மூடியைத் திறந்தால், முதலில் உங்களை எட்டுவது நீராவியும்

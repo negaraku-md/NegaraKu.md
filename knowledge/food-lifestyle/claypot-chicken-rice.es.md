@@ -103,6 +103,13 @@ dishFacts:
   halal: "La versión clásica no es halal: se construye sobre la salchicha china curada (lap cheong), que suele ser de cerdo, y a veces se enriquece con manteca de cerdo. Cualquier versión preparada como halal tendría que prescindir de ello; pregunta en cada puesto si esto te importa."
   eat: "Se sirve crepitando en la misma olla de barro en que se cuece, con una salsa de soja oscura y espesa rociada y mezclada con el arroz, el pollo y la salchicha; los comensales rascan la costra crujiente del fondo al final. Suele cocinarse al momento, así que lleva su tiempo."
   where: "Un plato de puesto y kopitiam que se encuentra en cafeterías, patios de comidas y mercados nocturnos por toda Malasia, cocinado una olla a la vez sobre carbón o gas; la localidad de Kampar, en Perak, está especialmente asociada a él."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Levanta la tapa de un claypot chicken rice y lo primero que te llega es vapor y

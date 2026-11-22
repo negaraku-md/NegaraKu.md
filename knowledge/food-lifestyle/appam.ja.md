@@ -95,6 +95,13 @@ dishFacts:
   halal: "プレーンと甘口の appam は米、ココナッツ、砂糖を土台とし肉を含まない。appam telur は卵を加える。多くの屋台は正式なハラル認証を受けておらず、店ごとに慣行が異なるので、認証が重要なら個々の屋台で確認を。"
   eat: "注文ごとに焼かれ、縁がまだパリッとしているうちに鍋から出して熱いまま食べるのが最良。プレーンと卵の種類はカレーやチャツネと合い、甘口はそのままおやつとして食べる。"
   where: "インド系の屋台や食堂、市場、夜市（pasar malam）で売られ、しばしば一列の小さな鍋で焼かれる。ペナンのストリートフードの定番でもあり、そこではかなり異なる apom balik と並んでいる。"
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 appam が焼ける様子を見れば、味わう前にこの料理が分かる。淡く、わずかに酸っぱい生地

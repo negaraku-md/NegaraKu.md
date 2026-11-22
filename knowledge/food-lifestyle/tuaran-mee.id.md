@@ -100,6 +100,13 @@ dishFacts:
   halal: "Versi klasiknya biasanya tidak halal: ia diberi char siew babi dan gulung telur yang sering diisi daging babi cincang. Versi yang memakai ayam sebagai pengganti babi juga dibuat; tanyakan ke restoran atau gerai masing-masing."
   eat: "Biasanya disantap segar langsung dari wajan sebagai piring goreng; mi yang sama juga muncul dalam kuah dan sebagai versi campur kering ('konlau'), serta dalam variasi lokal seperti olahan dengan Lihing (arak beras Sabah)."
   where: "Hidangan khas Sabah yang berakar di kota Tuaran dan disajikan luas di sekitar Kota Kinabalu; kadang disebut sebagai hidangan mi paling terkenal di Sabah."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di sebuah negeri yang penuh sesak dengan mi enak, satu piring diunggulkan di atas

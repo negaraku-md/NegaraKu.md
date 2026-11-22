@@ -103,6 +103,13 @@ dishFacts:
   halal: "经典版本并非清真：它以中式腊肠（lap cheong）为基础，而腊肠通常是猪肉做的，有时还用猪油增香。任何清真做法都须省去这些；如果这点对你重要，请向个别摊位确认。"
   eat: "就盛在烹煮它的那只瓦煲里，趁热滋滋作响地上桌，淋上浓稠黑酱油并拌入米饭、鸡肉和腊肠；食客在最后把煲底焦脆锅巴刮起来吃。通常现点现做，所以需要等候。"
   where: "一道小贩与 kopitiam 菜式，见于马来西亚各地的咖啡店、美食广场和夜市，一次一煲地以炭火或煤气烹煮；霹雳州的 Kampar（金宝）镇与它尤其相关联。"
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 揭开一锅 claypot chicken rice（瓦煲鸡饭）的盖子，最先扑面而来的是蒸汽与酱香——油亮

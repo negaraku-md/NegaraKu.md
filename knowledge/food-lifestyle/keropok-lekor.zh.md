@@ -100,6 +100,13 @@ dishFacts:
   halal: "作为一道不含猪肉的马来鱼类小吃，一般是清真的；若需要正式保证，请向个别摊位或包装查询。"
   eat: "通常煎炸至热后，搭配又甜又酸又辣的辣椒蘸酱（辣椒碎、醋、盐和棕榈糖）食用；在路边摊和市场新鲜出售。"
   where: "遍布 Terengganu 及更广阔东海岸的路边摊与市场小吃；Kuala Terengganu 的 Losong 一带尤其与它相关。"
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在 Terengganu 东海岸的公路沿途，煎鱼浆的香气从路边摊飘散出来，在油里滋滋作响的东

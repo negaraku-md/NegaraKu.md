@@ -101,6 +101,13 @@ dishFacts:
   halal: "Biasanya halal — makanan ruji kedai Muslim India (mamak) dan kenduri Melayu Muslim, lazimnya dibuat dengan ayam, kambing, daging lembu atau kambing biri-biri dan tanpa daging babi. Versi vegetarian dan makanan laut wujud. Periksa gerai itu sendiri."
   eat: "Pinggan perayaan untuk majlis besar: nasi berempah bersama kari pilihan anda, selalunya ditemani ayam masak merah, acar, raita atau dadih, dan dihias dengan gajus dan kismis."
   where: "Setiap hari di kedai Muslim India dan mamak di seluruh negara; Johor (Muar dan Batu Pahat) terkenal dengan beriani gam, dihidangkan di majlis perkahwinan dan kenduri."
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Petanya ialah bau. Jauh sebelum pinggan tiba, segunung nasi yang berlapis ghee —

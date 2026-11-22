@@ -101,6 +101,13 @@ dishFacts:
   origin: "बोर्नियो द्वीप पर स्थित मलेशिया के एक राज्य सारावाक से, और सबसे अधिक राजधानी Kuching से जुड़ी; द्वितीयक विवरणों के अनुसार आधुनिक व्यंजन 20वीं सदी के मध्य के Kuching तक जाता है, हालाँकि इसकी असली शुरुआत अनिश्चित है।"
   eat: "Kuching में आमतौर पर नाश्ते में, ताज़ा और गरम खाया जाता है, जिसमें खट्टेपन और तीखेपन को स्वाद अनुसार समायोजित करने के लिए नींबू और अतिरिक्त sambal belacan किनारे परोसे जाते हैं।"
   where: "सारावाक भर में कॉफ़ी शॉप और फेरीवाला-स्टॉल का व्यंजन, जिसमें Kuching को इसका घर माना जाता है; तैयार laksa पेस्ट ने इस कटोरी को मलेशियाई प्रायद्वीप और उससे आगे भी फैला दिया है।"
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 प्रायद्वीपीय मलेशिया में लगभग कहीं भी "laksa" ऑर्डर करें और आपको या तो एक तीखा,

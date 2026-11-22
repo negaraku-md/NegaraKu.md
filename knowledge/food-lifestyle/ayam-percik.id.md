@@ -99,6 +99,13 @@ dishFacts:
   halal: "Hidangan ayam Melayu-Muslim tanpa babi, lazim dijual di bazar Ramadan dan gerai pasar malam Melayu, sehingga umumnya disiapkan secara halal; seperti gerai mana pun, tanyakan jika hal ini penting bagi Anda."
   eat: "Disantap panas langsung dari pembakaran dengan nasi; sering disajikan berdampingan dengan hidangan Pantai Timur seperti nasi kerabu, dan ditawarkan dalam gaya saus putih (putih) yang lebih lembut dan merah (merah) yang lebih pedas."
   where: "Tulang punggung pasar malam (pasar malam) dan bazar Ramadan, terutama di Pantai Timur dan di Kelantan, dan kini ditemukan di gerai serta restoran Melayu di seluruh negeri."
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tak banyak bunyi yang menggambarkan Pantai Timur Malaysia seperti desis ayam di

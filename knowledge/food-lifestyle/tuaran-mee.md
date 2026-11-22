@@ -99,6 +99,13 @@ dishFacts:
   halal: "The classic version is typically not halal: it is topped with pork char siew and egg rolls often filled with minced pork. Versions using chicken in place of pork are also made; check the individual restaurant or stall."
   eat: "Usually eaten fresh off the wok as a fried plate; the same noodle also appears in soup and as a dry-tossed ('konlau') version, and in local twists such as a Lihing (Sabah rice-wine) rendition."
   where: "A Sabah speciality rooted in Tuaran town and widely served around Kota Kinabalu; sometimes called Sabah's most famous noodle dish."
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 In a state crowded with good noodles, one plate is claimed above the rest: Tuaran

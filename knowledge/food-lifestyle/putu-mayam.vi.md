@@ -95,6 +95,13 @@ dishFacts:
   halal: "Không chứa thịt — bột gạo, dừa và đường — nên là một món ăn vặt chay vốn dĩ, được nhiều người bán Ấn-Hồi giáo và những người khác bán rộng rãi; hỏi từng người bán nếu chứng nhận quan trọng."
   eat: "Thường được dọn nguội thay vì nóng, với dừa nạo và đường nâu hoặc đường thốt nốt (gula melaka); ăn bằng tay, đôi khi trên lá chuối, cho bữa sáng hoặc trà chiều."
   where: "Một món ăn vặt hàng rong di động và chợ, trong lịch sử được bán tận nhà từ xe đẩy, xe đạp và xe máy, và vẫn thấy ở các quầy và chợ đêm."
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ít món ăn vặt Malaysia nào được yêu mến lặng lẽ như putu mayam: một tổ nhỏ bún gạo

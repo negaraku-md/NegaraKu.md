@@ -94,6 +94,13 @@ dishFacts:
   halal: "idli 반죽은 보통 쌀, urad dal, 물, 소금뿐이어서 플레인 케이크는 채식이다. 남인도 채식 식당과 바나나잎 식당, 그리고 mamak(인도계 무슬림) 식당의 단골 메뉴로, thosai, vadai와 메뉴를 나눈다. 곁들임과 고기 반찬은 가게마다 다르니, 식이 규정이 중요하다면 각 가게에서 확인할 것."
   eat: "idli는 아침 식사이자 tiffin 음식으로, 가볍고 쪄 냈으며 흔히 소화가 잘된다고 묘사된다. 손으로, 떼거나 찍어, sambar나 코코넛 chutney에 끌어 적시거나, 기름이나 ghee로 풀어 낸 idli podi에 눌러 먹는다. mini idli는 podi에 버무리거나 sambar에 적셔 내기도 한다."
   where: "idli는 남인도 채식 식당과 바나나잎 식당에서 볼 수 있는데, 그곳에서 thosai, vadai와 함께 아침과 티타임의 단골 메뉴이며, mamak 노점과 가정의 부엌에서도 보인다. 쿠알라룸푸르의 일부 카페는 이것을 전문으로 한다."
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 남인도 식당에서 철판이 thosai를 부치며 지글거리기 시작하기도 전에, 희고 폭신한

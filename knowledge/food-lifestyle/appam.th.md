@@ -95,6 +95,13 @@ dishFacts:
   halal: "appam ธรรมดาและหวานตั้งอยู่บนข้าว มะพร้าว และน้ำตาล และไม่มีเนื้อสัตว์ ส่วน appam telur เพิ่มไข่หนึ่งฟอง แผงริมทางส่วนใหญ่ไม่มีใบรับรองฮาลาลอย่างเป็นทางการ และแนวปฏิบัติต่างกันไปตามผู้ขาย จึงควรสอบถามแต่ละร้านหากการรับรองสำคัญกับคุณ"
   eat: "ทอดตามสั่ง กินร้อน ๆ ทันทีจากกระทะขณะขอบยังกรอบดีที่สุด เวอร์ชันธรรมดาและไข่เข้ากับแกงหรือชัทนีย์ ส่วนเวอร์ชันหวานกินเดี่ยว ๆ เป็นของว่าง"
   where: "ขายตามแผงและร้านอาหารอินเดีย ตลาด และตลาดกลางคืน (pasar malam) มักทอดในกระทะเล็ก ๆ ที่เรียงเป็นแถว อีกทั้งเป็นขาประจำของอาหารริมทางปีนัง ที่ซึ่งมันตั้งอยู่เคียงข้าง apom balik ที่ค่อนข้างต่างกัน"
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มอง appam ที่กำลังทอด แล้วคุณจะเข้าใจอาหารจานนี้ก่อนจะได้ชิม แป้งสีซีด ออกเปรี้ยว

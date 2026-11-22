@@ -95,6 +95,13 @@ dishFacts:
   halal: "appam thường và ngọt dựa trên gạo, dừa và đường và không chứa thịt; appam telur thêm một quả trứng. Phần lớn quầy đường phố không có chứng nhận halal chính thức, và cách làm khác nhau theo người bán, nên hãy hỏi từng quầy nếu chứng nhận quan trọng với bạn."
   eat: "Chiên theo yêu cầu, ngon nhất khi ăn nóng vừa nhấc khỏi chảo lúc viền còn giòn; phiên bản thường và trứng hợp với cà ri hoặc tương chutney, phiên bản ngọt ăn riêng như một món ăn vặt."
   where: "Bán tại các quầy và quán ăn Ấn, chợ và chợ đêm (pasar malam), thường được chiên trong một hàng chảo nhỏ; cũng là một món quen thuộc của ẩm thực đường phố Penang, nơi nó nằm cạnh apom balik khá khác biệt."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hãy xem một chiếc appam được chiên và bạn hiểu món ăn trước cả khi nếm. Một vá bột

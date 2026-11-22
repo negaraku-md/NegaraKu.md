@@ -100,6 +100,13 @@ dishFacts:
   halal: "As a dish of the Malay Muslim community, it is typically prepared without pork or lard and is generally halal when cooked in Malay kitchens; check the individual eatery if assurance matters."
   eat: "Served hot in its gravy with steamed white rice, the sourness and heat cutting the richness of the fish; often eaten as a shared main at a family or kedai meal."
   where: "A home-kitchen and Malay restaurant (kedai makan) staple across Peninsular Malaysia, with Melaka and Johor the states most closely identified with it."
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Few Malay dishes announce themselves as plainly as asam pedas. The name is a

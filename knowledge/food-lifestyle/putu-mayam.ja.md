@@ -95,6 +95,13 @@ dishFacts:
   halal: "肉は入っていない——米粉、ココナッツ、砂糖——ので、もともと菜食の菓子で、インド系ムスリムやその他の行商人によって広く売られている。認証が重要なら個々の売り手に確認を。"
   eat: "熱々ではなく冷ました状態で、削りココナッツと黒糖かパームシュガー（gula melaka）とともに供されるのが普通。手で、ときにバナナの葉の上で、朝食や午後のお茶に食べる。"
   where: "行商人と市場の菓子で、歴史的には手押し車、自転車、バイクで戸別に売られ、今も露店や夜市で見かける。"
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 putu mayam ほど静かに愛されるマレーシアの菓子は多くない。糸のように細い米麺の小さな

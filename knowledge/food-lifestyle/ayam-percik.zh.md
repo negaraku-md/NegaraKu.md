@@ -99,6 +99,13 @@ dishFacts:
   halal: "一道不含猪肉的马来-穆斯林鸡肉菜式，常在斋戒月（Ramadan）市集和马来夜市摊位售卖，因此一般按清真方式烹制；与任何摊位一样，如果这点对你很重要，请自行查询。"
   eat: "趁热从烤架上取下配米饭食用；常与 nasi kerabu 等东海岸菜式一同上桌，并提供较温和的白（putih）酱与较辛辣的红（merah）酱两种风格。"
   where: "夜市（pasar malam）和斋戒月（Ramadan）市集的主角，尤其在东海岸和吉兰丹（Kelantan），如今在全国各地的马来摊位和餐馆也能找到。"
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 很少有声音能像炭火上的鸡肉被淋上浓稠而色泽淡白的酱汁时那一声嘶响，如此道出马来西亚

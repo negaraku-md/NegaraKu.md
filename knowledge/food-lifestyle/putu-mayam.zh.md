@@ -95,6 +95,13 @@ dishFacts:
   halal: "不含肉——米粉、椰子和糖——所以是一种天然的素食小吃，由印裔穆斯林及其他小贩广泛售卖；若认证重要，请向个别卖家查询。"
   eat: "通常放凉吃而非趁热吃，配椰丝和红糖或棕榈糖（gula melaka）；用手拿着吃，有时盛在香蕉叶上，作早餐或下午茶。"
   where: "一种流动小贩与市集小吃，历来以手推车、自行车和摩托车挨家挨户售卖，如今仍可在摊位和夜市（pasar malam）见到。"
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 很少有马来西亚小吃像 putu mayam 这样被人静静地喜爱着：一小巢细如发丝的米粉，色泽

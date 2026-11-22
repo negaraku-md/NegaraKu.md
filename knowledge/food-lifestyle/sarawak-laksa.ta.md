@@ -101,6 +101,13 @@ dishFacts:
   origin: "மலேசியப் போர்னியோத் தீவில் உள்ள ஒரு மாநிலமான சரவாக்கிலிருந்து, மேலும் அதன் தலைநகர் Kuching-உடன் மிகவும் தொடர்புடையது; இரண்டாம்நிலைக் கூற்றுகளின்படி நவீன உணவு 20-ஆம் நூற்றாண்டின் நடுப்பகுதி Kuching வரை கண்டறியப்படுகிறது, இருப்பினும் அதன் உண்மையான தொடக்கம் நிச்சயமற்றது."
   eat: "Kuching-இல் பொதுவாகக் காலை உணவாக, புதிதாகவும் சூடாகவும் உண்ணப்படுகிறது; புளிப்பையும் காரத்தையும் ருசிக்கேற்ப சரிசெய்ய எலுமிச்சையும் கூடுதல் sambal belacan-உம் பக்கத்தில் பரிமாறப்படுகிறது."
   where: "சரவாக் முழுவதும் காபிக் கடை மற்றும் தெருவணிகக் கடை உணவு, Kuching அதன் இல்லமாகக் கருதப்படுகிறது; தயாராகக் கிடைக்கும் laksa விழுதுகள் இந்தக் கிண்ணத்தை மலேசியத் தீபகற்பத்துக்கும் அதற்கு அப்பாலும் பரப்பியுள்ளன."
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 தீபகற்ப மலேசியாவில் கிட்டத்தட்ட எங்கும் "laksa" ஆர்டர் செய்யுங்கள், உங்களுக்குக்

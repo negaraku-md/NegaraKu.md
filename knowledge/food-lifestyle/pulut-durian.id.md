@@ -99,6 +99,13 @@ dishFacts:
   halal: "Hidangan penutup Melayu berbahan nabati dari ketan, santan, gula, dan durian, tanpa daging; sebagaimana makanan olahan apa pun, penyantap yang memerlukan kepastian halal dapat menanyakan ke masing-masing gerai."
   eat: "Disantap hangat, sehingga ketan santan yang gurih dan asin berpadu melawan durian yang manis dan beraroma tajam; unsur durian-santan juga disantap dengan roti putih atau sendiri."
   where: "Rumah, pasar, dan gerai hidangan penutup saat musim durian, terutama di daerah penghasil durian; dibuat ketika buah murah dan melimpah."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sedikit hidangan penutup yang sekaya pulut durian tanpa sungkan: segunduk ketan

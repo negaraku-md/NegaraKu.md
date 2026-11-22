@@ -101,6 +101,13 @@ dishFacts:
   halal: "โดยทั่วไปฮาลาล — อาหารหลักของร้านอินเดีย-มุสลิม (mamak) และ kenduri ของมลายู-มุสลิม โดยทั่วไปทำด้วยไก่ แกะ เนื้อวัว หรือแพะ และไม่มีหมู มีเวอร์ชันมังสวิรัติและอาหารทะเล ควรตรวจสอบกับร้านแต่ละร้าน"
   eat: "จานเฉลิมฉลองสำหรับโอกาสใหญ่: ข้าวปรุงเครื่องเทศกับแกงที่คุณเลือก มักเคียงด้วย ayam masak merah, acar, raita หรือโยเกิร์ต และตกแต่งด้วยเม็ดมะม่วงหิมพานต์และลูกเกด"
   where: "ทุกวันที่ร้านอินเดีย-มุสลิมและ mamak ทั่วประเทศ ยะโฮร์ (มัวร์และบาตูปาฮัต) ขึ้นชื่อเรื่อง beriani gam เสิร์ฟในงานแต่งและ kenduri"
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 สิ่งที่ฟ้องคือกลิ่น นานก่อนที่จานจะมาถึง ข้าวกองหนึ่งที่เคลือบ ghee — ประดับด้วยสีทอง

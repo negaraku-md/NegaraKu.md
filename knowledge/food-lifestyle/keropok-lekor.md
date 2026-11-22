@@ -99,6 +99,13 @@ dishFacts:
   halal: "Generally halal as a Malay fish snack with no pork; check the individual stall or packaging if a formal assurance is needed."
   eat: "Usually fried until hot and eaten with a sweet-sour-spicy chilli dip (ground chilli, vinegar, salt and palm sugar); sold fresh at roadside stalls and markets."
   where: "A roadside-stall and market snack across Terengganu and the wider east coast; the Losong area of Kuala Terengganu is especially associated with it."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Along the east-coast roads of Terengganu, the smell of frying fish paste drifts

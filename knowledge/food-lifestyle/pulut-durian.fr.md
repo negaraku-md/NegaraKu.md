@@ -99,6 +99,13 @@ dishFacts:
   halal: "Un dessert malais d'origine végétale à base de riz gluant, de lait de coco, de sucre et de durian, sans viande ; comme pour tout aliment préparé, qui a besoin d'une garantie halal peut se renseigner à chaque stand."
   eat: "Mangé tiède, pour que le riz de coco savoureux et salé joue contre le durian sucré et puissant ; l'élément durian-coco se mange aussi avec du pain blanc ou seul."
   where: "Maisons, marchés et stands de desserts pendant la saison du durian, surtout dans les régions productrices de durian ; préparé quand le fruit est bon marché et abondant."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Peu de desserts sont aussi franchement riches que le pulut durian : un monticule

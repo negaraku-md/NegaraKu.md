@@ -101,6 +101,13 @@ dishFacts:
   halal: "Suele ser halal — un básico de los establecimientos indo-musulmanes (mamak) y de los kenduri malayo-musulmanes, hecho normalmente con pollo, cordero, ternera o cabra y sin cerdo. Existen versiones vegetarianas y de marisco. Pregunta en cada local."
   eat: "Un plato festivo para las grandes ocasiones: arroz especiado con el curry que elijas, a menudo acompañado de ayam masak merah, acar, raita o yogur, y adornado con anacardos y pasas."
   where: "A diario en los establecimientos indo-musulmanes y mamak de todo el país; Johor (Muar y Batu Pahat) es conocido por el beriani gam, servido en bodas y kenduri."
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La pista es el olor. Mucho antes de que llegue el plato, un montículo de arroz

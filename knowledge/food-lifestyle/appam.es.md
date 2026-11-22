@@ -95,6 +95,13 @@ dishFacts:
   halal: "El appam simple y el dulce se basan en arroz, coco y azúcar y no contienen carne; el appam telur añade un huevo. La mayoría de los puestos callejeros no tienen certificación halal formal, y la práctica varía según el vendedor, así que consulta en cada puesto si la certificación te importa."
   eat: "Hecho a la plancha por encargo, mejor comido caliente recién salido de la sartén mientras el borde sigue crujiente; las versiones simple y con huevo acompañan curris o chutney, la versión dulce se come sola como tentempié."
   where: "Se vende en puestos y locales indios, mercados y mercados nocturnos (pasar malam), a menudo cocinado en una hilera de sartenes pequeñas; también un fijo de la comida callejera de Penang, donde convive con el muy distinto apom balik."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mira cocinarse un appam y entenderás el plato antes de probarlo. Un cucharón de

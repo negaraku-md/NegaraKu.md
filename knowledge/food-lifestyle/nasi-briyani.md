@@ -100,6 +100,13 @@ dishFacts:
   halal: "Usually halal — a staple of Indian-Muslim (mamak) eateries and of Malay-Muslim kenduri, typically made with chicken, mutton, beef or goat and no pork. Vegetarian and seafood versions exist. Check the individual outlet."
   eat: "A festive, big-occasion plate: spiced rice with a curry of your choice, often alongside ayam masak merah, acar, raita or yoghurt, and garnished with cashews and raisins."
   where: "Everyday at Indian-Muslim and mamak eateries nationwide; Johor (Muar and Batu Pahat) is known for beriani gam, served at weddings and kenduri."
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 The giveaway is the smell. Long before the plate lands, a mound of ghee-slicked

@@ -101,6 +101,13 @@ dishFacts:
   origin: "من سراواك، وهي ولاية ماليزية على جزيرة بورنيو، وأوثق ارتباطاً بعاصمتها Kuching؛ وبحسب روايات ثانوية يُرَدّ الطبق الحديث إلى Kuching منتصف القرن العشرين، وإن كانت بداياته الحقيقية غير مؤكّدة."
   eat: "يُؤكل عادةً في الفطور بـ Kuching، طازجاً وساخناً، مع الليمون ومزيد من sambal belacan إلى الجانب لضبط الحموضة والحرارة حسب الذوق."
   where: "طبق للمقاهي وأكشاك الباعة في أنحاء سراواك، وتُعدّ Kuching موطنه؛ كما نشرت معاجين laksa الجاهزة هذا الوعاء إلى شبه الجزيرة الماليزية وما وراءها."
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 اطلب "laksa" في أي مكان تقريباً في شبه جزيرة ماليزيا فستحصل إمّا على مرق سمك حادّ

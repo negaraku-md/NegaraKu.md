@@ -100,6 +100,13 @@ dishFacts:
   halal: "Umumnya halal sebagai snek ikan Melayu tanpa daging babi; semak gerai atau pembungkusan masing-masing jika jaminan rasmi diperlukan."
   eat: "Biasanya digoreng sehingga panas dan dimakan dengan cecah cili yang manis-masam-pedas (cili giling, cuka, garam dan gula Melaka); dijual segar di gerai tepi jalan dan pasar."
   where: "Snek gerai tepi jalan dan pasar di seluruh Terengganu dan pantai timur yang lebih luas; kawasan Losong di Kuala Terengganu khususnya dikaitkan dengannya."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di sepanjang jalan pantai timur Terengganu, bau pes ikan yang digoreng menyusup

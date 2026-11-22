@@ -94,6 +94,13 @@ dishFacts:
   halal: "Adonan idli biasanya hanya beras, urad dal, air, dan garam, menjadikan kue biasa itu vegetarian. Ia menjadi langganan di restoran vegetarian India Selatan dan restoran daun pisang serta di rumah makan mamak (India-Muslim), tempat ia berbagi menu dengan thosai dan vadai; pendamping dan lauk daging apa pun berbeda-beda per rumah makan, jadi periksa tempat masing-masing jika aturan makan penting bagi Anda."
   eat: "Idli adalah makanan sarapan dan tiffin: ringan, dikukus, dan kerap digambarkan mudah dicerna. Ia disantap dengan tangan, disobek atau dicelup, diseret melalui sambar atau chutney kelapa, atau ditekan ke idli podi yang dilonggarkan dengan minyak atau ghee. Mini idli bisa disajikan diaduk dalam podi atau direndam dalam sambar."
   where: "Anda menemukan idli di restoran vegetarian India Selatan dan restoran daun pisang, tempat ia menjadi langganan pagi dan jam minum teh bersama thosai dan vadai, di gerai mamak, dan di dapur rumahan; beberapa kafe di Kuala Lumpur mengkhususkan diri padanya."
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebelum wajan datar di sebuah rumah makan India Selatan mulai mendesis dengan

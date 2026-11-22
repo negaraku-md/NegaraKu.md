@@ -94,6 +94,13 @@ dishFacts:
   halal: "La pâte à idli n'est généralement que du riz, de l'urad dal, de l'eau et du sel, ce qui rend le gâteau nature végétarien. Il est un pilier des restaurants végétariens sud-indiens et de feuille de bananier comme des établissements mamak (indo-musulmans), où il partage le menu avec le thosai et le vadai ; les accompagnements et toute garniture de viande varient selon l'établissement, alors vérifiez sur place si les règles alimentaires comptent pour vous."
   eat: "L'idli est un aliment de petit-déjeuner et de tiffin : léger, cuit à la vapeur et souvent décrit comme facile à digérer. Il se mange à la main, déchiré ou trempé, passé dans le sambar ou le chutney de coco, ou pressé dans de l'idli podi détendu à l'huile ou au ghee. Le mini idli peut être servi mélangé au podi ou trempé dans le sambar."
   where: "On trouve l'idli dans les restaurants végétariens sud-indiens et de feuille de bananier, où il est un pilier du matin et de l'heure du thé aux côtés du thosai et du vadai, dans les stands mamak et dans les cuisines familiales ; certains cafés de Kuala Lumpur s'y spécialisent."
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Avant que la plaque d'un établissement sud-indien ne commence à grésiller de

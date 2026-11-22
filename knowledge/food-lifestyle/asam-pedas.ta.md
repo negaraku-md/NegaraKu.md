@@ -101,6 +101,13 @@ dishFacts:
   halal: "மலாய் முஸ்லிம் சமூகத்தின் உணவாக இருப்பதால், இது பொதுவாகப் பன்றியிறைச்சி அல்லது பன்றிக் கொழுப்பு இல்லாமல் தயாரிக்கப்படுகிறது, மேலும் மலாய் சமையலறைகளில் சமைக்கப்படும்போது பொதுவாக halal ஆகும்; அந்த உத்தரவாதம் உங்களுக்கு முக்கியமானால் அந்தந்த உணவகத்திடம் சரிபார்க்கவும்."
   eat: "அதன் குழம்புடன் சூடாக வேகவைத்த வெள்ளை அரிசிச் சோற்றுடன் பரிமாறப்படுகிறது, புளிப்பும் காரமும் மீனின் கொழுப்பை வெட்டுகின்றன; பெரும்பாலும் ஒரு குடும்ப அல்லது kedai உணவில் பகிரப்படும் பிரதான உணவாக உண்ணப்படுகிறது."
   where: "தீபகற்ப மலேசியா முழுவதும் வீட்டுச் சமையலறை மற்றும் மலாய் உணவகம் (kedai makan)-வின் முக்கிய உணவு, Melaka மற்றும் Johor அதனுடன் மிக நெருக்கமாக அடையாளப்படுத்தப்படும் மாநிலங்கள்."
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Asam pedas-வைப் போல மலாய் உணவுகள் சில மட்டுமே தங்களை இத்தனை வெளிப்படையாக

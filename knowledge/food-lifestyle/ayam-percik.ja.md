@@ -99,6 +99,13 @@ dishFacts:
   halal: "豚肉を含まない鶏肉のマレー系ムスリム料理で、Ramadan（断食月）の市場やマレー系の夜市の屋台でよく売られるため、一般にハラルとして調理される。どの屋台でも同じく、これが重要なら確認を。"
   eat: "焼きたてを熱いうちに米とともに食べる。しばしば nasi kerabu のような東海岸の料理と並べて供され、よりまろやかな白（putih）とより辛い赤（merah）のソースの様式で提供される。"
   where: "夜市（pasar malam）と Ramadan（断食月）の市場の定番で、とりわけ東海岸と Kelantan（クランタン）で、いまや全国のマレー系の屋台や食堂でも見られる。"
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 炭火の上の鶏肉が、とろりと淡い色のソースを浴びせられるときのあの音ほど、マレーシア東

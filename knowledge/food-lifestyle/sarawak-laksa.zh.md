@@ -101,6 +101,13 @@ dishFacts:
   origin: "源自砂拉越——马来西亚位于婆罗洲岛上的一个州，最常与州首府 Kuching 相连；据二手记述，这道现代菜式可追溯至20世纪中叶的 Kuching，尽管其真正的起源并不确定。"
   eat: "在 Kuching 通常当作早餐食用，趁新鲜滚热，青柠和额外的 sambal belacan 另置一旁，供食客按口味调节酸度与辣度。"
   where: "砂拉越各地咖啡店与小贩摊的菜式，Kuching 被视为它的故乡；现成的叻沙酱也已把这碗面带到马来西亚半岛乃至海外。"
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚半岛几乎任何地方点一碗「laksa」，你得到的要么是一锅尖锐酸香的鱼汤，要

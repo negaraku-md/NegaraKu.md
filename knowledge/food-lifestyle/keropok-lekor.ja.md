@@ -100,6 +100,13 @@ dishFacts:
   halal: "豚肉を含まないマレーの魚スナックとして一般にハラル。正式な保証が必要なら個々の屋台やパッケージで確認を。"
   eat: "通常は熱く揚げ、甘酸っぱく辛いチリだれ（挽いた唐辛子、酢、塩、ヤシ糖）とともに食べる。路上の屋台や市場で作りたてが売られる。"
   where: "Terengganu とより広い東海岸一帯の路上屋台・市場のスナック。Kuala Terengganu の Losong 地区がとりわけ結びつく。"
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Terengganu の東海岸の道沿いでは、魚のすり身を揚げる匂いが路上の屋台から漂い出し、

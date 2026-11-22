@@ -100,6 +100,13 @@ dishFacts:
   halal: "Por lo general halal como refrigerio de pescado malayo sin cerdo; consulta en cada puesto o en el envase si necesitas una garantía formal."
   eat: "Suele freírse hasta estar caliente y comerse con una salsa de chile dulce-ácida-picante (chile molido, vinagre, sal y azúcar de palma); se vende recién hecho en puestos de carretera y mercados."
   where: "Un refrigerio de puesto de carretera y mercado por todo Terengganu y la costa este en general; la zona de Losong, en Kuala Terengganu, está especialmente asociada a él."
+hero: '/media/food/keropok-lekor/hero.webp'
+heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroCredit: 'Jpatokal / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 A lo largo de las carreteras de la costa este de Terengganu, el olor a pasta de pescado

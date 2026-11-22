@@ -94,6 +94,13 @@ dishFacts:
   halal: "idli の生地はふつう米、urad dal、水、塩だけで、プレーンなケーキはベジタリアンになる。南インドのベジタリアン店やバナナリーフ店、そして mamak（インド系ムスリム）の食堂の定番で、thosai や vadai とメニューを分け合う。付け合わせや肉の副菜は店ごとに異なるので、食事の規定が大切なら個々の店で確認を。"
   eat: "idli は朝食と tiffin の食べ物で、軽く、蒸されており、消化によいとよく言われる。手で、ちぎって、あるいは浸して食べ、sambar やココナッツ chutney にくぐらせ、または油か ghee でゆるめた idli podi に押し付ける。mini idli は podi にまぶすか sambar に浸して供されることがある。"
   where: "idli は南インドのベジタリアン店やバナナリーフ店で見られ、そこでは thosai や vadai とともに朝とティータイムの定番であり、mamak の屋台や家庭の台所でも見かける。クアラルンプールのいくつかのカフェはこれを専門にしている。"
+hero: '/media/food/idli/hero.webp'
+heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 南インドの食堂で鉄板が thosai を焼いてジュージューと鳴り始める前に、青白くふんわ

@@ -103,6 +103,13 @@ dishFacts:
   halal: "La version classique n'est pas halal : elle repose sur la saucisse chinoise séchée (lap cheong), généralement du porc, et est parfois enrichie de saindoux. Toute version préparée halal devrait les omettre ; renseignez-vous auprès de chaque stand si cela compte pour vous."
   eat: "Servi grésillant dans la marmite en terre même où il cuit, avec une sauce soja foncée et épaisse versée et mélangée au riz, au poulet et à la saucisse ; les convives raclent la croûte croustillante du fond à la fin. Généralement cuit à la commande, il demande donc du temps."
   where: "Un plat de stand et de kopitiam que l'on trouve dans les cafés, les aires de restauration et les marchés nocturnes de toute la Malaisie, cuit une marmite à la fois sur charbon ou gaz ; la ville de Kampar, dans le Perak, lui est particulièrement associée."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Soulevez le couvercle d'un claypot chicken rice et la première chose qui vous

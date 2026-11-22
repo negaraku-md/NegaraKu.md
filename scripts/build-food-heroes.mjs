@@ -37,7 +37,7 @@ async function toWebp(buf, outFile) {
 const data = JSON.parse(fs.readFileSync(DATA, 'utf8'));
 const meta = {};
 for (const [slug, set] of Object.entries(data)) {
-  const dir = path.join(ROOT, 'public', 'media', 'tourism', slug);
+  const dir = path.join(ROOT, 'public', 'media', 'food', slug);
   fs.mkdirSync(dir, { recursive: true });
   const entry = { slug, hero: null, body: [] };
   const jobs = [['hero', set.hero], ...(set.body || []).map((b, i) => [`body-${i + 1}`, b])];

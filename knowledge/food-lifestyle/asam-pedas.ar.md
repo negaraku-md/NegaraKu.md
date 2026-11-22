@@ -101,6 +101,13 @@ dishFacts:
   halal: "بوصفه طبق مجتمع الملايو المسلمين، يُعدّ عادةً من دون لحم الخنزير أو شحمه وهو حلال بوجه عام حين يُطهى في المطابخ الملايوية؛ تحقّق من كل مطعم إن كان ذلك الضمان يهمّك."
   eat: "يُقدَّم ساخناً بمرقه مع الأرزّ الأبيض المطهوّ بالبخار، إذ تقطع الحموضة والحرارة دسامة السمك؛ ويُؤكل غالباً طبقاً رئيسياً مشتركاً في وجبة عائلية أو في kedai."
   where: "طبق رئيسي أساسي في المطابخ المنزلية والمطاعم الملايوية (kedai makan) في أنحاء شبه جزيرة ماليزيا، وتُعدّ Melaka وJohor أوثق الولايات صلةً به."
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قليلة هي الأطباق الملايوية التي تعرّف عن نفسها بصراحة asam pedas. فالاسم بطاقة

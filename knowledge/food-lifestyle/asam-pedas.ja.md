@@ -101,6 +101,13 @@ dishFacts:
   halal: "マレー・ムスリムの共同体の料理であるため、通常は豚肉やラードを使わずに作られ、マレーの台所で調理される場合はおおむねハラルである。その保証が重要であれば、その店ごとに確認を。"
   eat: "汁ごと熱々で白いご飯とともに供され、酸味と辛味が魚の脂のこくを切る。ひとりのおやつというより、家庭の食卓や kedai の食事で分け合う主菜として食べられることが多い。"
   where: "マレー半島全域の家庭の台所やマレー料理店（kedai makan）の定番の主菜で、Melaka と Johor が最も深く結びつく州である。"
+hero: '/media/food/asam-pedas/hero.webp'
+heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroCredit: 'Elly Suhailee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 これほど率直に自らを名乗るマレー料理は多くない。その名はそのまま味の札――

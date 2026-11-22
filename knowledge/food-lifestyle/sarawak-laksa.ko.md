@@ -101,6 +101,13 @@ dishFacts:
   origin: "보르네오섬에 있는 말레이시아의 한 주인 사라왁에서 왔으며 주도 Kuching과 가장 연관된다. 2차 기술에 따르면 현대의 이 음식은 20세기 중반의 Kuching까지 거슬러 올라가지만, 그 진짜 시작은 불확실하다."
   eat: "Kuching에서 흔히 아침 식사로, 갓 만들어 뜨거울 때 먹으며, 신맛과 매운맛을 취향대로 조절할 수 있도록 라임과 여분의 sambal belacan을 곁들여 낸다."
   where: "사라왁 전역의 커피숍과 노점 음식으로, Kuching이 그 본고장으로 여겨진다. 완제품 laksa 페이스트는 이 그릇을 말레이반도와 그 너머로도 퍼뜨렸다."
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이반도 거의 어디서든 「laksa」를 주문하면 날카롭고 시큼한 생선 육수이거나 진한

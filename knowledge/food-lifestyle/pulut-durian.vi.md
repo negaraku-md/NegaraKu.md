@@ -99,6 +99,13 @@ dishFacts:
   halal: "Một món tráng miệng Mã Lai gốc thực vật gồm xôi, nước cốt dừa, đường và sầu riêng, không có thịt; như với bất kỳ món ăn chế biến nào, thực khách cần bảo đảm halal có thể hỏi từng quầy."
   eat: "Ăn khi còn ấm, để cơm dừa mặn-đậm, có muối chơi với sầu riêng ngọt, nồng; thành phần sầu riêng-dừa cũng được ăn với bánh mì trắng hoặc ăn không."
   where: "Nhà, chợ và các quầy tráng miệng trong mùa sầu riêng, nhất là ở các vùng trồng sầu riêng; làm khi trái cây rẻ và dồi dào."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hiếm món tráng miệng nào giàu vị một cách không ngại ngần như pulut durian: một

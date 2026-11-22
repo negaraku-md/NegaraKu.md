@@ -99,6 +99,13 @@ dishFacts:
   halal: "Pencuci mulut Melayu berasaskan tumbuhan daripada nasi pulut, santan, gula dan durian, tanpa daging; seperti mana-mana makanan yang disediakan, pengunjung yang memerlukan jaminan halal boleh menyemak gerai masing-masing."
   eat: "Dimakan hangat, supaya pulut santan yang gurih dan bergaram itu menentang durian yang manis lagi menyengat; unsur durian-santan itu juga dimakan dengan roti putih atau secara bersendirian."
   where: "Rumah, pasar dan gerai pencuci mulut semasa musim durian, terutamanya di kawasan penanaman durian; dibuat ketika buah itu murah dan melimpah."
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tidak banyak pencuci mulut yang sekaya pulut durian tanpa segan: segunung pulut

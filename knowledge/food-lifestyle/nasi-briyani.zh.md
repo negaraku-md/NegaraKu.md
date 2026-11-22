@@ -101,6 +101,13 @@ dishFacts:
   halal: "通常是清真的——印度穆斯林（mamak）餐馆和马来穆斯林 kenduri 的主食，一般用鸡肉、羊肉、牛肉或山羊肉烹制，不含猪肉。素食与海鲜版本亦存在。请向个别摊位确认。"
   eat: "一道用于大场合的庆祝菜：调香米饭配上你选的咖喱，常佐以 ayam masak merah、acar、raita 或酸奶，并以腰果和葡萄干点缀。"
   where: "全国各地的印度穆斯林与 mamak 餐馆日常供应；柔佛（麻坡与峇株巴辖）以 beriani gam 闻名，供于婚宴与 kenduri。"
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 破绽在于那股香气。远在米饭上桌之前，一座裹着酥油的米饭小山——点点金黄，撒着炸红

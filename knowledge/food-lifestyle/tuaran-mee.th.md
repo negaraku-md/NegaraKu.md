@@ -100,6 +100,13 @@ dishFacts:
   halal: "เวอร์ชันคลาสสิกโดยทั่วไปไม่ฮาลาล: โรยด้วย char siew หมูและไข่ม้วนที่มักมีไส้หมูบด มีการทำแบบที่ใช้ไก่แทนหมูด้วย; สอบถามร้านหรือแผงแต่ละแห่ง"
   eat: "โดยปกติกินสด ๆ จากกระทะเป็นจานผัด; เส้นเดียวกันยังปรากฏในแบบน้ำและแบบคลุกแห้ง ('konlau') และในการดัดแปลงท้องถิ่น เช่น เวอร์ชันที่ทำด้วย Lihing (เหล้าข้าวของ Sabah)"
   where: "อาหารพิเศษของ Sabah ที่หยั่งรากในเมือง Tuaran และเสิร์ฟอย่างแพร่หลายรอบ ๆ Kota Kinabalu; บางครั้งถูกเรียกว่าเป็นเมนูเส้นที่โด่งดังที่สุดของ Sabah"
+hero: '/media/food/tuaran-mee/hero.webp'
+heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในรัฐที่เต็มไปด้วยเส้นอร่อย มีจานหนึ่งที่ถูกยกย่องเหนือจานอื่น: Tuaran mee

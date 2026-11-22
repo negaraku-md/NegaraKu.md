@@ -95,6 +95,13 @@ dishFacts:
   halal: "Ne contient pas de viande — farine de riz, noix de coco et sucre — c'est donc un en-cas végétarien par nature, largement vendu par des marchands indo-musulmans et autres ; renseignez-vous auprès du vendeur en particulier si la certification importe."
   eat: "Se sert d'ordinaire froid plutôt que chaud, avec de la noix de coco râpée et du sucre roux ou de palme (gula melaka) ; se mange à la main, parfois sur une feuille de bananier, au petit-déjeuner ou au goûter."
   where: "Un en-cas de marchand ambulant et de marché, historiquement vendu de porte en porte depuis des charrettes, des vélos et des motos, et encore présent sur les étals et les marchés de nuit."
+hero: '/media/food/putu-mayam/hero.webp'
+heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroCredit: 'Salm Abdullah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Peu d'en-cas malaisiens sont aussi discrètement aimés que le putu mayam : un petit nid

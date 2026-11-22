@@ -99,6 +99,13 @@ dishFacts:
   halal: "돼지고기가 들어가지 않은 말레이-무슬림 닭고기 요리로, Ramadan(라마단) 시장과 말레이 야시장 노점에서 흔히 팔려 대체로 할랄로 조리된다. 어느 노점에서나 마찬가지로, 이 점이 중요하다면 확인할 것."
   eat: "구이에서 바로 뜨겁게 밥과 함께 먹는다. 흔히 nasi kerabu 같은 동해안 요리와 함께 내며, 더 순한 흰색(putih)과 더 매운 붉은색(merah) 소스 방식으로 제공된다."
   where: "야시장(pasar malam)과 Ramadan(라마단) 시장의 주역으로, 특히 동해안과 Kelantan(클란탄)에서, 이제는 전국의 말레이 노점과 식당에서도 볼 수 있다."
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 숯불 위의 닭고기가 걸쭉하고 희끄무레한 소스를 뒤집어쓸 때 나는 치익 소리만큼 말레이시아

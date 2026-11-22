@@ -94,6 +94,13 @@ dishFacts:
   halal: "Plain and sweet appam are built on rice, coconut and sugar and contain no meat; egg appam adds an egg. Most street stalls are not formally halal-certified, and practice varies by vendor, so check the individual stall if certification matters to you."
   eat: "Griddled to order, best eaten hot off the pan while the edge is still crisp; the plain and egg versions pair with curries or chutney, the sweet version is eaten on its own as a snack."
   where: "Sold at Indian stalls and eateries, markets and night markets (pasar malam), often cooked in a row of small pans; also a Penang street-food fixture, where it sits alongside the quite different apom balik."
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Watch an appam cook and you understand the dish before you taste it. A ladle of

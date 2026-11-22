@@ -102,6 +102,13 @@ dishFacts:
   halal: "The classic version is not halal: it is built on Chinese waxed sausage (lap cheong), which is typically pork, and is sometimes enriched with lard. Any halal-prepared version would need to omit those; check the individual stall if this matters to you."
   eat: "Served sizzling in the same clay pot it cooks in, with a thick dark soy sauce drizzled over and stirred through the rice, chicken and sausage; eaters scrape up the crisp bottom crust at the end. Usually cooked to order, so it takes time."
   where: "A hawker and kopitiam dish found at coffee shops, food courts and night markets across Malaysia, cooked one pot at a time over charcoal or gas; the town of Kampar in Perak is especially associated with it."
+hero: '/media/food/claypot-chicken-rice/hero.webp'
+heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroCredit: 'Lilblackdog29 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Lift the lid off a claypot chicken rice and the first thing that reaches you is

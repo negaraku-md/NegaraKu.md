@@ -100,6 +100,13 @@ dishFacts:
   origin: "From Sarawak, a Malaysian state on the island of Borneo, and most associated with the state capital Kuching; by secondary accounts the modern dish is traced to mid-20th-century Kuching, though its true beginnings are uncertain."
   eat: "Commonly eaten at breakfast in Kuching, fresh and hot, with lime and extra sambal belacan served on the side to adjust the sourness and heat to taste."
   where: "A coffee-shop and hawker-stall dish across Sarawak, with Kuching regarded as its home; ready-made laksa pastes have also spread the bowl to the Malaysian peninsula and beyond."
+hero: '/media/food/sarawak-laksa/hero.webp'
+heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroCredit: 'Richx10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Order "laksa" almost anywhere in Peninsular Malaysia and you will get either a

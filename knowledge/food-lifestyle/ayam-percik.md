@@ -98,6 +98,13 @@ dishFacts:
   halal: "A Malay-Muslim dish of chicken with no pork, commonly sold at Ramadan bazaars and Malay night-market stalls, so it is generally prepared halal; as with any stall, check if this matters to you."
   eat: "Eaten hot off the grill with rice; often served alongside East Coast dishes such as nasi kerabu, and offered in milder white (putih) and spicier red (merah) sauce styles."
   where: "A staple of night markets (pasar malam) and Ramadan bazaars, especially on the East Coast and in Kelantan, and now found at Malay stalls and restaurants nationwide."
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Few sounds say East Coast Malaysia quite like the hiss of chicken over charcoal

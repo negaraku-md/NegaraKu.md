@@ -101,6 +101,13 @@ dishFacts:
   halal: "பொதுவாக halal — இந்திய-முஸ்லிம் (mamak) உணவகங்கள் மற்றும் மலாய்-முஸ்லிம் kenduri-யின் அடிப்படை உணவு, பொதுவாகக் கோழி, ஆட்டிறைச்சி, மாட்டிறைச்சி அல்லது வெள்ளாட்டு இறைச்சியால் தயாரிக்கப்பட்டு, பன்றியிறைச்சி இல்லாமல். சைவ மற்றும் கடல்உணவு வகைகள் உள்ளன. அந்தந்த கடையைச் சரிபார்க்கவும்."
   eat: "ஒரு விழா, பெரிய-நிகழ்வுத் தட்டு: உங்கள் விருப்பக் கறியுடன் வாசனையூட்டப்பட்ட சோறு, பெரும்பாலும் ayam masak merah, acar, raita அல்லது தயிருடன், மற்றும் முந்திரி மற்றும் திராட்சையால் அலங்கரிக்கப்பட்டது."
   where: "நாடு முழுவதும் இந்திய-முஸ்லிம் மற்றும் mamak உணவகங்களில் அன்றாடம்; ஜொகூர் (முவார் மற்றும் பத்து பகாட்) beriani gam-க்காக அறியப்படுகிறது, திருமணங்கள் மற்றும் kenduri-யில் பரிமாறப்படுகிறது."
+hero: '/media/food/nasi-briyani/hero.webp'
+heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroCredit: 'Umesh Tongbra / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 அடையாளமே அந்த மணம்தான். தட்டு வருவதற்கு நீண்ட நேரத்திற்கு முன்பே, ghee-யில் தோய்ந்த

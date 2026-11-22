@@ -99,6 +99,13 @@ dishFacts:
   halal: "ของหวานมลายูที่ทำจากพืชล้วน ประกอบด้วยข้าวเหนียว กะทิ น้ำตาล และทุเรียน ไม่มีเนื้อสัตว์ เช่นเดียวกับอาหารปรุงสำเร็จใด ๆ ผู้ที่ต้องการความมั่นใจเรื่องฮาลาลสามารถสอบถามร้านแต่ละร้านได้"
   eat: "กินตอนอุ่น ๆ เพื่อให้ข้าวกะทิรสเค็มกลมกล่อมขับกับทุเรียนรสหวานกลิ่นแรง องค์ประกอบทุเรียน-กะทิยังกินกับขนมปังขาวหรือกินเปล่า ๆ ได้ด้วย"
   where: "บ้านเรือน ตลาด และแผงขายของหวานในช่วงฤดูทุเรียน โดยเฉพาะในพื้นที่ปลูกทุเรียน ทำกันเมื่อผลไม้ราคาถูกและมีมาก"
+hero: '/media/food/pulut-durian/hero.webp'
+heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroCredit: 'Taman Renyah / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มีของหวานไม่กี่อย่างที่เข้มข้นอย่างไม่เกรงใจเท่า pulut durian: ข้าวเหนียวอุ่น ๆ

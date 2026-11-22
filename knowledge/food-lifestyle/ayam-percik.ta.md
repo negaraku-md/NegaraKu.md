@@ -99,6 +99,13 @@ dishFacts:
   halal: "பன்றியிறைச்சி இல்லாத ஒரு மலாய்-முஸ்லிம் கோழி உணவு, பொதுவாக Ramadan கடைகளிலும் மலாய் இரவுச் சந்தைக் கடைகளிலும் விற்கப்படுகிறது, எனவே இது பொதுவாக halal-ஆகத் தயாரிக்கப்படுகிறது; எந்தக் கடையிலும் போலவே, இது உங்களுக்கு முக்கியமானால் சரிபார்க்கவும்."
   eat: "வாட்டத்திலிருந்து சூடாக சோற்றுடன் உண்ணப்படுகிறது; பெரும்பாலும் nasi kerabu போன்ற கிழக்குக் கடற்கரை உணவுகளுடன் பரிமாறப்படுகிறது, மேலும் மென்மையான வெள்ளை (putih) மற்றும் காரமான சிவப்பு (merah) சாஸ் பாணிகளில் வழங்கப்படுகிறது."
   where: "இரவுச் சந்தைகளின் (pasar malam) மற்றும் Ramadan கடைகளின் ஒரு முக்கிய அம்சம், குறிப்பாக கிழக்குக் கடற்கரையிலும் Kelantan-இலும், இப்போது நாடு முழுவதும் உள்ள மலாய் கடைகளிலும் உணவகங்களிலும் காணப்படுகிறது."
+hero: '/media/food/ayam-percik/hero.webp'
+heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroCredit: 'Unilokman25 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் கிழக்குக் கடற்கரையை, கரிமேல் வாட்டப்படும் கோழி மீது தடித்த, வெளிறிய சாஸ்

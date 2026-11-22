@@ -95,6 +95,13 @@ dishFacts:
   halal: "सादा और मीठा appam चावल, नारियल और चीनी पर आधारित हैं और इनमें मांस नहीं होता; appam telur एक अंडा जोड़ता है। अधिकांश सड़क किनारे के स्टॉल औपचारिक रूप से हलाल-प्रमाणित नहीं हैं, और व्यवहार विक्रेता के अनुसार भिन्न होता है, इसलिए यदि प्रमाणन आपके लिए मायने रखता है तो अलग-अलग स्टॉल से जाँच लें।"
   eat: "ऑर्डर पर सेंका जाता है, कड़ाही से उतरते ही गर्म, जब तक किनारा कुरकुरा हो, खाना सबसे अच्छा है; सादा और अंडा संस्करण करी या चटनी के साथ, मीठा संस्करण अकेले नाश्ते के रूप में खाया जाता है।"
   where: "भारतीय स्टॉल और भोजनालयों, बाज़ारों और रात के बाज़ारों (pasar malam) में बिकता है, अक्सर छोटी कड़ाहियों की एक पंक्ति में पकाया जाता है; पेनांग के सड़क-भोजन का भी एक स्थायी हिस्सा, जहाँ यह काफ़ी अलग apom balik के साथ-साथ रहता है।"
+hero: '/media/food/appam/hero.webp'
+heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 appam को सिंकते देखिए और चखने से पहले ही आप व्यंजन को समझ जाएँगे। पीले, थोड़े खट्टे
