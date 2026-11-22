@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: '明亮的机场入境大厅里，一排自动自助护照电子通道，配有玻璃闸门和扫描柜台。'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** 是一种自动化移民通道：它读取你护照中的芯片，将你的脸与照片比对，然后开门——无需人工，无需墨印盖章，通常在不到半分钟内完成。较新的二维码通道更快，约五到七秒即可放行一名旅客。对于经常往返马来西亚边境的人来说，知道自己可以使用哪条通道能省下实实在在的时间。

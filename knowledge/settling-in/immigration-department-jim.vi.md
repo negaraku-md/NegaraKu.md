@@ -78,6 +78,13 @@ relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'Mặt tiền cao và trang trí công phu của trụ sở Cục Di trú Malaysia ở Putrajaya, mang tên Jabatan Imigresen Malaysia và huy hiệu của cục, với những lá cờ tung bay phía trên lối vào.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một cơ quan đứng sau gần như mọi giấy tờ cho phép một người vượt biên giới Malaysia, sống ở đây, hoặc làm việc ở đây. **Cục Di trú Malaysia** — *Jabatan Imigresen Malaysia* (**JIM**) — là cơ quan thuộc **Bộ Nội vụ** cấp hộ chiếu cho công dân, cấp visa và giấy phép cho người nước ngoài, bố trí nhân sự tại mọi quầy sân bay và biên giới trên bộ, và thực thi luật di trú. Nó phục vụ công dân Malaysia, thường trú nhân và du khách nước ngoài, và đã hoạt động từ ngày **21 tháng 7 năm 1922**. Điều rắc rối đối với người mới đến là các dịch vụ của nó rải rác trên nhiều trang web chính thức — trang này lập bản đồ chúng.

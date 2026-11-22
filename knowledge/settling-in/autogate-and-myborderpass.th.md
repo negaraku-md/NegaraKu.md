@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'แถวประตูอิเล็กทรอนิกส์ตรวจหนังสือเดินทางแบบบริการตนเองอัตโนมัติ พร้อมแผงกั้นกระจกและตู้สแกน ในห้องโถงตรวจคนเข้าเมืองของสนามบินที่สว่างไสว'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** คือประตูตรวจคนเข้าเมืองอัตโนมัติ: อ่านชิปในหนังสือเดินทางของคุณ จับคู่ใบหน้าของคุณกับรูปถ่าย แล้วเปิด — ไม่มีเจ้าหน้าที่ ไม่มีตราประทับหมึก โดยปกติใช้เวลาไม่ถึงครึ่งนาที ช่องคิวอาร์โค้ดใหม่เร็วยิ่งกว่า ผ่านผู้เดินทางได้ในราวห้าถึงเจ็ดวินาที สำหรับใครก็ตามที่ข้ามพรมแดนมาเลเซียเป็นประจำ การรู้ว่าคุณได้รับอนุญาตให้ใช้ช่องใดช่วยประหยัดเวลาได้จริง

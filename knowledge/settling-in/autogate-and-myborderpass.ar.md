@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'صفٌّ من بوّابات الجوازات الإلكترونية الآلية ذاتية الخدمة بحواجز زجاجية وأكشاك مسح ضوئي في صالة جوازات بمطار مضاء بسطوع.'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** بوابة هجرة آلية: تقرأ الشريحة في جواز سفرك، وتطابق وجهك بالصورة، ثم تُفتح — من دون موظف، ومن دون ختم حبري، وعادةً في أقل من نصف دقيقة بكثير. ومسارات رمز QR الأحدث أسرع بعدُ، إذ تمرّر المسافر في نحو خمس إلى سبع ثوانٍ. ولأي شخص يعبر الحدود الماليزية بانتظام، فإن معرفة أي مسار يُسمح لك باستخدامه توفّر وقتاً حقيقياً.

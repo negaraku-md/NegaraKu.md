@@ -78,6 +78,13 @@ relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'ด้านหน้าอาคารสูงตระการตาของสำนักงานใหญ่กรมตรวจคนเข้าเมืองมาเลเซียในปุตราจายา ที่มีชื่อ "Jabatan Imigresen Malaysia" และตราสัญลักษณ์ของกรม พร้อมธงโบกสะบัดอยู่เหนือทางเข้า'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 หน่วยงานเดียวอยู่เบื้องหลังเอกสารแทบทุกฉบับที่อนุญาตให้บุคคลข้ามพรมแดนมาเลเซีย พำนักที่นี่ หรือทำงานที่นี่ **กรมตรวจคนเข้าเมืองมาเลเซีย** — *Jabatan Imigresen Malaysia* (**JIM**) — เป็นหน่วยงานภายใต้ **กระทรวงมหาดไทย** ที่ออกหนังสือเดินทางให้แก่พลเมือง ให้วีซ่าและใบอนุญาตแก่ชาวต่างชาติ ประจำเคาน์เตอร์ทุกแห่งที่สนามบินและพรมแดนทางบก และบังคับใช้กฎหมายตรวจคนเข้าเมือง กรมให้บริการแก่พลเมืองมาเลเซีย ผู้มีถิ่นที่อยู่ถาวร และผู้เยือนชาวต่างชาติ และดำเนินการมาตั้งแต่ **21 กรกฎาคม 1922** จุดที่ทำให้ผู้มาใหม่สับสนคือบริการของกรมกระจายอยู่ในเว็บไซต์อย่างเป็นทางการหลายแห่ง — หน้านี้ทำแผนที่ให้

@@ -77,6 +77,13 @@ relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'The tall ornate facade of the Immigration Department of Malaysia headquarters in Putrajaya, bearing the Jabatan Imigresen Malaysia name and departmental crest, with flags flying above the entrance.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 One agency stands behind almost every document that lets a person cross Malaysia's border, live here, or work here. The **Immigration Department of Malaysia** — *Jabatan Imigresen Malaysia* (**JIM**) — is the body under the **Ministry of Home Affairs** that issues passports to citizens, grants visas and passes to foreigners, staffs every airport and land-border counter, and enforces the immigration laws. It serves Malaysian citizens, permanent residents and foreign visitors, and it has run since **21 July 1922**. The catch for newcomers is that its services are scattered across several official websites — this page maps them.

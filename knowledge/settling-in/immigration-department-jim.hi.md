@@ -78,6 +78,13 @@ relations: []
 related: []
 keywords: ["मलेशिया आव्रजन विभाग", "मलेशियाई पासपोर्ट नवीनीकरण", "मलेशिया वीज़ा", "मलेशिया डिजिटल अराइवल कार्ड", "Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "10-year passport Malaysia", "Malaysia eVisa", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'पुत्रजया में मलेशिया के आव्रजन विभाग के मुख्यालय का ऊँचा अलंकृत अग्रभाग, जिस पर जाबातान इमिग्रेसेन मलेशिया नाम और विभागीय प्रतीक-चिह्न अंकित है, और प्रवेश-द्वार के ऊपर झंडे फहरा रहे हैं।'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 लगभग हर उस दस्तावेज़ के पीछे एक ही एजेंसी खड़ी है जो किसी व्यक्ति को मलेशिया की सीमा पार करने, यहाँ रहने या यहाँ काम करने देता है। **मलेशिया का आव्रजन विभाग** — *Jabatan Imigresen Malaysia* (**JIM**) — **गृह मंत्रालय** के अधीन वह निकाय है जो नागरिकों को पासपोर्ट जारी करता है, विदेशियों को वीज़ा और पास देता है, हर हवाई अड्डे और भू-सीमा काउंटर पर कर्मचारी तैनात करता है, और आव्रजन क़ानूनों को लागू करता है। यह मलेशियाई नागरिकों, स्थायी निवासियों और विदेशी आगंतुकों की सेवा करता है, और यह **21 July 1922** से चल रहा है। नए लोगों के लिए अड़चन यह है कि इसकी सेवाएँ कई आधिकारिक वेबसाइटों में बिखरी हुई हैं — यह पृष्ठ उन्हें एक नक़्शे में रखता है।

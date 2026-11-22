@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'Một dãy cổng điện tử hộ chiếu tự phục vụ tự động với các vách ngăn kính và ki-ốt quét tại một sảnh xuất nhập cảnh sân bay sáng sủa.'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** là một cổng nhập cảnh tự động: nó đọc chip trong hộ chiếu của bạn, đối chiếu khuôn mặt bạn với ảnh, rồi mở ra — không cán bộ, không dấu mực, thường trong chưa đầy nửa phút. Các làn mã QR mới hơn còn nhanh hơn, thông quan một du khách trong khoảng năm đến bảy giây. Với bất kỳ ai thường xuyên qua biên giới Malaysia, biết mình được phép dùng làn nào giúp tiết kiệm thời gian thực sự.

@@ -89,6 +89,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'A row of automated self-service passport e-gates with glass barriers and scanning kiosks in a bright airport immigration hall.'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 An **autogate** is an automated immigration gate: it reads the chip in your passport, matches your face to the photo, and opens — no officer, no ink stamp, usually in well under half a minute. The newer QR-code lanes are faster still, clearing a traveller in about five to seven seconds. For anyone who crosses the Malaysian border regularly, knowing which lane you are allowed to use saves real time.

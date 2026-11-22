@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: '밝은 공항 입국 심사장에 유리 차단막과 스캔 키오스크를 갖춘 자동 셀프서비스 여권 전자 게이트가 한 줄로 늘어서 있다.'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate**는 자동 입국 심사 게이트입니다: 여권의 칩을 읽고, 얼굴을 사진과 대조한 뒤 열립니다 — 심사관도 없고, 잉크 도장도 없이, 보통 30초도 걸리지 않습니다. 더 새로운 QR 코드 레인은 더욱 빨라서 여행자를 약 5~7초 만에 통과시킵니다. 말레이시아 국경을 자주 넘는 사람이라면, 자신이 어느 레인을 쓸 수 있는지 아는 것이 실질적인 시간 절약이 됩니다.

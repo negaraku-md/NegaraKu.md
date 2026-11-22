@@ -78,6 +78,13 @@ relations: []
 related: []
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'Fasad tinggi berhias markas besar Departemen Imigrasi Malaysia di Putrajaya, menampilkan nama Jabatan Imigresen Malaysia dan lambang departemen, dengan bendera berkibar di atas pintu masuk.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Satu lembaga berdiri di balik hampir setiap dokumen yang memungkinkan seseorang melintasi perbatasan Malaysia, tinggal di sini, atau bekerja di sini. **Jabatan Imigresen Malaysia** (**JIM**) adalah badan di bawah **Kementerian Dalam Negeri** yang menerbitkan paspor kepada warga negara, memberikan visa dan pas kepada warga asing, menempatkan staf di setiap loket bandara dan perbatasan darat, serta menegakkan undang-undang imigrasi. Lembaga ini melayani warga negara Malaysia, penduduk tetap, dan pengunjung asing, dan telah beroperasi sejak **21 Juli 1922**. Tantangan bagi pendatang baru adalah layanannya tersebar di beberapa situs web resmi — halaman ini memetakannya.

@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'Sederetan gerbang elektronik paspor layanan mandiri otomatis dengan pembatas kaca dan kios pemindai di aula imigrasi bandara yang terang.'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** adalah gerbang imigrasi otomatis: ia membaca cip di paspor Anda, mencocokkan wajah Anda dengan foto, lalu terbuka — tanpa petugas, tanpa cap tinta, biasanya dalam waktu kurang dari setengah menit. Jalur kode QR yang lebih baru lebih cepat lagi, meloloskan seorang pelancong dalam sekitar lima hingga tujuh detik. Bagi siapa pun yang sering melintasi perbatasan Malaysia, mengetahui jalur mana yang boleh Anda gunakan menghemat waktu yang nyata.

@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'एक चमकीले हवाई अड्डे के आव्रजन हॉल में काँच की बाधाओं और स्कैनिंग कियोस्क वाले स्वचालित स्व-सेवा पासपोर्ट ई-गेटों की एक कतार।'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** एक स्वचालित आप्रवासन गेट है: यह आपके पासपोर्ट में लगे चिप को पढ़ता है, आपके चेहरे का फोटो से मिलान करता है, और खुल जाता है — कोई अधिकारी नहीं, कोई स्याही की मुहर नहीं, आमतौर पर आधे मिनट से भी कम में। नए QR-कोड लेन और भी तेज़ हैं, जो एक यात्री को लगभग पाँच से सात सेकंड में पार करा देते हैं। जो कोई भी मलेशियाई सीमा नियमित रूप से पार करता है, उसके लिए यह जानना कि आपको कौन-सा लेन उपयोग करने की अनुमति है, वास्तविक समय बचाता है।

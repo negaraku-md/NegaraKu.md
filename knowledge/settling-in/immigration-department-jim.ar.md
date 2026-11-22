@@ -78,6 +78,13 @@ relations: []
 related: []
 keywords: ["دائرة الهجرة الماليزية", "تجديد جواز السفر الماليزي", "تأشيرة ماليزيا", "بطاقة الوصول الرقمية الماليزية", "Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "10-year passport Malaysia", "Malaysia eVisa", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'الواجهة العالية المزخرفة لمقرّ إدارة الهجرة الماليزية في بوتراجايا، تحمل اسم جاباتان إيميڨريسن ماليزيا وشعار الإدارة، مع أعلام ترفرف فوق المدخل.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تقف دائرة واحدة خلف كل وثيقة تقريباً تتيح للشخص عبور حدود ماليزيا أو العيش فيها أو العمل بها. **دائرة الهجرة الماليزية** — *Jabatan Imigresen Malaysia* (**JIM**) — هي الهيئة التابعة لـ**وزارة الداخلية** التي تصدر جوازات السفر للمواطنين، وتمنح التأشيرات والتصاريح للأجانب، وتزوّد كل منافذ المطارات والحدود البرية بالموظفين، وتنفّذ قوانين الهجرة. وهي تخدم المواطنين الماليزيين والمقيمين الدائمين والزوار الأجانب، وتعمل منذ **21 يوليو 1922**. والعقبة أمام الوافدين الجدد أن خدماتها موزعة على عدة مواقع رسمية — وهذه الصفحة ترسم خريطتها.

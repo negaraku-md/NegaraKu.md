@@ -90,6 +90,13 @@ relations:
 related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
 keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
 framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'ஒரு பிரகாசமான விமான நிலைய குடிவரவு மண்டபத்தில் கண்ணாடி தடுப்புகள் மற்றும் ஸ்கேனிங் கியோஸ்க்குகளுடன் கூடிய தானியங்கி சுய சேவை பாஸ்போர்ட் மின்-வாயில்களின் வரிசை.'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **Autogate** என்பது ஒரு தானியங்கி குடிவரவு வாயிலாகும்: இது உங்கள் கடவுச்சீட்டில் உள்ள சிப்பை வாசித்து, உங்கள் முகத்தை புகைப்படத்துடன் பொருத்தி, திறக்கிறது — அதிகாரி இன்றி, மை முத்திரை இன்றி, பொதுவாக அரை நிமிடத்திற்கும் குறைவாக. புதிய QR-குறியீட்டு வழித்தடங்கள் இன்னும் வேகமானவை, ஒரு பயணியை சுமார் ஐந்து முதல் ஏழு நொடிகளில் அனுமதிக்கின்றன. மலேசிய எல்லையைத் தொடர்ந்து கடப்பவர் எவருக்கும், எந்த வழித்தடத்தைப் பயன்படுத்த அனுமதிக்கப்பட்டுள்ளீர்கள் என்பதை அறிவது உண்மையான நேரத்தை மிச்சப்படுத்துகிறது.
