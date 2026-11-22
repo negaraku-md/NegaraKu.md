@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak de Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'El palacio real Seri Menanti, de madera oscura, con tejados Minangkabau escalonados y puntiagudos, sobre un césped verde con un pabellón rojo y colinas boscosas al fondo.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En los otros ocho estados malayos, la pregunta «¿quién es el siguiente en la línea?» se

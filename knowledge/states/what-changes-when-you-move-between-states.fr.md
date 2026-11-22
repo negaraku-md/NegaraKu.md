@@ -78,6 +78,13 @@ entity: "Se réinstaller entre États malaisiens"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'Des voitures sur une autoroute à plusieurs voies passant sous des panneaux de direction verts suspendus indiquant Kuala Lumpur, Melaka et des villes du Johor, bordée de plantations de palmiers à huile et de collines.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Déménager au sein de la Malaisie donne l'impression que cela devrait déclencher une montagne de réenregistrements — nouveaux documents, nouveaux numéros, un nouveau départ avec chaque administration. Pour l'essentiel, il n'en est rien. La raison est structurelle : **la plupart des choses qui paraissent officielles dans votre vie en Malaisie sont fédérales**, et les systèmes fédéraux fonctionnent de la même façon dans chaque État, si bien qu'ils vous suivent tout simplement. Ce qui change réellement, c'est une couche plus restreinte et plus locale — et savoir distinguer l'une de l'autre transforme un déménagement intimidant en une courte liste de contrôle.

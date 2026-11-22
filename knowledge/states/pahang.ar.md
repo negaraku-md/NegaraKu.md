@@ -106,6 +106,13 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["باهانغ", "Pahang", "باهانغ دار المعمور", "Pahang Darul Makmur", "كوانتان", "Kuantan", "بيكان المدينة الملكية", "Pekan", "سلطان باهانغ", "Sultan Pahang", "تامان نيغارا", "Taman Negara", "غونونغ تاهان", "Gunung Tahan", "كاميرون هايلاندز", "Cameron Highlands", "مناطق باهانغ", "الناتج المحلي الإجمالي لباهانغ"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'مدرّجات شجيرات الشاي الخضراء المتموّجة في مزرعة بمرتفعات كاميرون تتعرّج بين تلال مكسوّة بالغابات تحت سماء غائمة.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تغطي باهانغ أكثر من رُبع مساحة شبه جزيرة الملايو، ومع ذلك لا يعيش فيها سوى واحد من

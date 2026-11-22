@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'シャアラムの深い青の夕暮れの空を背景に、ライトアップされた青いドームのスルタン・サラフディン・アブドゥル・アジズ・モスクと四本の高いミナレットが輝いている。'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 セランゴールは、マレーシア経済が静かに依拠している州である。連邦首都クアラルンプールと行政中心地であるプトラジャヤを完全に取り囲んでおり、この三者が合わさってクランバレーを形成している——同国最大の都市・工業連担地域である。

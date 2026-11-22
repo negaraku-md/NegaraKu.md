@@ -78,6 +78,13 @@ entity: "Berpindah antara negeri di Malaysia"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'Kereta di sebuah lebuh raya berbilang lorong melalui papan tanda arah hijau di atas untuk bandar Kuala Lumpur, Melaka dan Johor, di tepi ladang kelapa sawit dan bukit.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Berpindah rumah dalam Malaysia terasa seolah-olah ia sepatutnya mencetuskan segunung pendaftaran semula — dokumen baharu, nombor baharu, permulaan baharu dengan setiap agensi. Kebanyakannya tidak begitu. Sebabnya bersifat struktur: **kebanyakan perkara yang terasa rasmi dalam hidup anda di Malaysia adalah persekutuan**, dan sistem persekutuan berfungsi sama di setiap negeri, jadi ia hanya mengikut anda. Apa yang sebenarnya berubah ialah satu lapisan yang lebih kecil dan lebih tempatan — dan mengetahui yang mana satu mengubah perpindahan yang menggerunkan menjadi senarai semak yang pendek.

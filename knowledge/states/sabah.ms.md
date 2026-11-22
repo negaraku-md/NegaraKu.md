@@ -78,6 +78,13 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'Puncak granit kelabu Gunung Kinabalu yang bergerigi menjulang di atas kaki bukit berhutan dan pucuk pokok hijau di bawah langit biru.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sabah tidak menyertai Malaysia sebagai sebuah negeri yang menyertai sebuah negara.

@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'உயர்ந்த இரட்டை மினாரெட் கோபுரங்களும் கருப்பு குவிமாடங்களும் கொண்ட வெள்ளை விக்டோரிய பாணி சுல்தான் அபு பக்கார் மாநில மசூதி மேகமூட்டமான வானத்தின் கீழ்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஜொகூரின் (Johor) பொருளாதாரம் அதன் அண்டை நாட்டால் வரையறுக்கப்படுகிறது. தீபகற்பத்தின்

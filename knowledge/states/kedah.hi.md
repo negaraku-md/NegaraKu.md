@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "केदाह", "Kedah Darul Aman", "Alor Setar", "अलोर सेतार", "Sultan Kedah", "केदाह के सुल्तान", "jelapang padi", "चावल का कटोरा", "Kulim Hi-Tech Park", "Lembah Bujang", "बुजांग घाटी", "Kedah Tua", "Langkawi", "लंकावी", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'अलोर सेतार में साफ नीले आसमान के सामने बड़े काले प्याज़नुमा गुंबदों के समूह और एक पतली मीनार वाली क्रीम रंग की ज़ाहिर मस्जिद।'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024 में, विद्युत, इलेक्ट्रॉनिक और ऑप्टिकल उत्पादों ने केदाह के विनिर्माण क्षेत्र में मूल्य वर्धन का 51.1 प्रतिशत हिस्सा बनाया। चावल राज्य के GDP के उस 10.6 प्रतिशत में से एक हिस्सा योगदान देता है जो कृषि से आता है।

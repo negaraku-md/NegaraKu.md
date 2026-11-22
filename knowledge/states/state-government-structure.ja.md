@@ -69,6 +69,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: 'サバ州議会議事堂の白い帆の形をした青いガラスのファサードが、ヤシの木と手入れされた庭園に囲まれている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 イスタナ・ネガラ（Istana Negara）を取り除き、首相の呼称を変え、国会を一院制に縮小すれば——そこに見えてくるのがマレーシアの州政府である。13州すべてが連邦体制の縮小版で運営されている。統治すれど支配しない州元首、多数を掌握できるがゆえに選ばれる政府の長、民選議員に対して集団的に責任を負う行政評議会、そして解散されて有権者のもとへ送り返されうる立法機関である。呼称は州ごとに異なる。設計図は変わらない。

@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'செரம்பானில் நவீன விஸ்மா நெகரி மாநில நிர்வாக கோபுரத்தின் முன் உயரமான வளைவான பொன்-பழுப்பு கூரைகளைக் கொண்ட மினாங்கபாவு கூரையுடைய விழா மண்டபம்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் ஒரு மாநில அரசு தனது வரவுசெலவுத் திட்டத்தை (பட்ஜெட்) வகுக்கும்போது, அது அரிதாகவே குறிப்பிடப்படும் ஒரு உண்மையிலிருந்து தொடங்குகிறது: அதிக வருவாய் தரும் வரிகள் — வருமான வரி, விற்பனை மற்றும் சேவை வரி, சுங்கம் — அது வசூலிக்கக்கூடியவை அல்ல. அந்த ஆதாரங்கள் கூட்டரசின் (Persekutuan) அதிகார எல்லைக்குள் அடங்குகின்றன. மாநிலங்களுக்கு எஞ்சியிருப்பது என்ன, அந்த இடைவெளி எவ்வாறு நிரப்பப்படுகிறது என்பது கூட்டரசு அரசியலமைப்பில் (Perlembagaan Persekutuan) தெள்ளத் தெளிவாக நிர்ணயிக்கப்பட்டுள்ளது.

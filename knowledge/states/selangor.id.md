@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'Masjid Sultan Salahuddin Abdul Aziz yang berkubah biru dan bercahaya dengan empat menaranya yang tinggi bersinar dengan latar langit senja biru pekat di Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Selangor adalah negara bagian tempat ekonomi Malaysia bergantung secara diam-diam.

@@ -78,6 +78,13 @@ entity: "الانتقال بين الولايات الماليزية"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'سيّارات على طريق سريع متعدّد الحارات تمرّ بلافتات اتّجاه خضراء علوية نحو مدن كوالالمبور وملقا وجوهور، إلى جانب مزارع نخيل الزيت والتلال.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 الانتقال إلى مسكن جديد داخل ماليزيا يبدو كأنه يستوجب جبلًا من إعادة التسجيل — وثائق جديدة، وأرقام جديدة، وبداية جديدة مع كل جهة. في معظم الأحوال ليس الأمر كذلك. والسبب بنيوي: **معظم الأمور التي تبدو رسمية في حياتك في ماليزيا اتحادية**، والأنظمة الاتحادية تعمل بالطريقة نفسها في كل ولاية، فتتبعك ببساطة. ما يتغيّر فعلًا طبقة محلية أصغر — ومعرفة أيّهما من أيّ تحوّل انتقالًا مُرهقًا إلى قائمة تحقّق قصيرة.

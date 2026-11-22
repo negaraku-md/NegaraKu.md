@@ -108,6 +108,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: '加央附近广阔多云的天空下，金色的草穗与绿色稻田延伸至平坦的地平线。'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 有一个问题，几乎每个马来西亚人都曾答错过：谁是玻璃市苏丹？

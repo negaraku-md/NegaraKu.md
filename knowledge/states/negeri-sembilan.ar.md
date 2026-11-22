@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["نيجري سمبيلان", "عادات برباتيه", "Adat Perpatih", "يانغ دي-برتوان بيسار", "Yang di-Pertuan Besar", "الأوندانغ يانغ إمبات", "Undang Yang Empat", "luak نيجري سمبيلان", "سيرمبان", "Seremban", "سري مِنانتي", "النظام الأمومي المينانغكاباوي"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'قصر سري مننتي الملكي الخشبي الداكن بسقوفه المدبّبة المتدرّجة على الطراز المينانغكاباوي، يقوم على مرج أخضر مع جناح أحمر وتلال مكسوّة بالغابات خلفه.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في الولايات الملايوية الثماني الأخرى، يُجاب عن سؤال «مَن وليّ العهد التالي» بالنسب.

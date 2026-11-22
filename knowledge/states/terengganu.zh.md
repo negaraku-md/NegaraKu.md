@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: '瓜拉登嘉楼蓝天下，银金两色圆顶的水晶清真寺有众多细长的尖塔和一座白色迎宾拱门。'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 登嘉楼最著名的两样东西，相距大约 60 公里，而且两者都不容易看见。

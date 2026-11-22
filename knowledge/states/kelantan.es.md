@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'El ornamentado palacio Istana Jahar, de madera tradicional en negro y amarillo, en Kota Bharu, con un carruaje de caballos estacionado en su patio delantero pavimentado.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La economía de Malasia suele contarse a través de la fábrica. Kelantan es la excepción

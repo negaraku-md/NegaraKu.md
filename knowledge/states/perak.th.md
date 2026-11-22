@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'อาคารสถานีรถไฟอีโปห์สีขาวทรงโดมสมัยอาณานิคมที่มีระเบียงเสาโค้งใต้ท้องฟ้าแจ่มใส'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อวันที่ 20 มกราคม 1874 สนธิสัญญาฉบับหนึ่งถูกลงนามในน่านน้ำใกล้เกาะปังกอร์ (Pulau Pangkor) เอกสารนั้นไม่ได้ยกดินแดนและไม่ได้ประกาศสงคราม มันเพียงนำตำแหน่งใหม่หนึ่งเข้ามา: เรซิเดนหนึ่งคน ซึ่งคำแนะนำของเขาต้องถูกปฏิบัติตาม

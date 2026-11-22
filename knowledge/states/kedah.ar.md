@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "قدح", "Kedah Darul Aman", "Alor Setar", "ألور ستار", "Sultan Kedah", "سلطان قدح", "jelapang padi", "سلّة الأرزّ", "Kulim Hi-Tech Park", "Lembah Bujang", "وادي بوجانغ", "Kedah Tua", "Langkawi", "لنكاوي", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'مسجد الزاهر بلونه الكريمي وتجمّع قبابه البصلية السوداء الكبيرة ومئذنته النحيلة أمام سماء زرقاء صافية في ألور ستار.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في عام 2024، شكّلت المنتجات الكهربائية والإلكترونية والبصرية 51.1 في المئة من

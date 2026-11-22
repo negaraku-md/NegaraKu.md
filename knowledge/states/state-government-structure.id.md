@@ -71,6 +71,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: 'Fasad kaca biru berbentuk layar yang putih pada gedung Dewan Undangan Negeri Sabah, dibingkai oleh pohon palem dan taman yang tertata rapi.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Singkirkan Istana Negara, ganti nama Perdana Menteri, dan kecilkan Parlemen menjadi satu kamar saja — dan itulah gambaran sebuah pemerintah negeri Malaysia. Seluruh 13 negeri menjalankan satu salinan yang diperkecil dari sistem federal: seorang ketua negeri yang menaungi tanpa memerintah, seorang kepala pemerintahan yang dipilih karena ia mampu mendapat mayoritas, sebuah majelis eksekutif yang bertanggung jawab secara kolektif kepada anggota-anggota yang dipilih, dan sebuah badan legislatif yang dapat dibubarkan dan dikembalikan kepada pemilih. Gelar berbeda dari satu negeri ke negeri lain. Rancangannya tidak berbeda.

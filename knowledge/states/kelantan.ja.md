@@ -100,6 +100,13 @@ relations:
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'コタバルにある、装飾豊かな黒と黄色の伝統木造宮殿イスタナ・ジャハール。舗装された前庭に馬車が停まっている。'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシア経済は、たいてい工場を通じて語られる。クランタンはその最も明白な例外である。製造業が同州のGDPに占める割合は2025年にわずか4.7%——13州の中で最も低い比重——であった一方、農業はほぼ5分の1を占めた。

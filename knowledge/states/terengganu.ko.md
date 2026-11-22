@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: '쿠알라트렝가누의 푸른 하늘 아래, 은색과 금색 돔의 크리스털 모스크(수정 모스크)가 가느다란 첨탑 여럿과 하얀 환영 아치문을 갖추고 있다.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 트렝가누에 관해 가장 유명한 두 가지는 서로 약 60킬로미터 떨어져 있으며, 둘 다 보기가 어렵습니다.

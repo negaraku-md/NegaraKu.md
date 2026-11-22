@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "جوهور", "Johor Bahru", "جوهور بهرو", "Iskandar Malaysia", "إسكندر ماليزيا", "Pengerang petrochemical", "بتروكيماويات بينجيرانغ", "Johor Singapore Causeway", "جسر جوهور سنغافورة"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'مسجد السلطان أبو بكر بولاية جوهور بطرازه الفيكتوري الأبيض وبرجي مئذنتيه التوأم المرتفعين وقبابه السوداء تحت سماء غائمة.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يُعرَّف اقتصاد جوهور بجارتها. فبوصفها أقصى ولايات شبه الجزيرة جنوباً، تقع مباشرةً

@@ -100,6 +100,13 @@ relations:
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'Istana Jahar kayu tradisional yang berukir hitam dan kuning di Kota Bharu dengan sebuah pedati kuda yang diletakkan di halaman berturap di hadapannya.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ekonomi Malaysia biasanya diceritakan menerusi kilang. Kelantan ialah pengecualian

@@ -75,6 +75,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'The nine-tiered umbrella-roofed Sarawak State Legislative Assembly building beside the brown Sarawak River with a wooden boat passing in front.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sarawak is Malaysia in a different key. It is by far the largest state in the

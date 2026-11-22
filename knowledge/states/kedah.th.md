@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'มัสยิดซาฮีร์สีครีมที่มีกลุ่มโดมหัวหอมสีดำขนาดใหญ่และหอมินาเรตเรียวเล็กตัดกับท้องฟ้าสีฟ้าสดใสในอาโลร์สตาร์'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในปี 2024 ผลิตภัณฑ์ไฟฟ้า อิเล็กทรอนิกส์ และออปติกมีสัดส่วน 51.1 เปอร์เซ็นต์ของมูลค่าเพิ่มในภาคการผลิตของเกอดะฮ์ ส่วนข้าวมีสัดส่วนหนึ่งใน 10.6 เปอร์เซ็นต์ของ GDP ของรัฐที่มาจากเกษตรกรรม

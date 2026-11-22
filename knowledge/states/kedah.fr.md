@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'La mosquée Zahir, de couleur crème, avec un ensemble de grands dômes bulbeux noirs et un minaret élancé sur un ciel bleu dégagé à Alor Setar.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En 2024, les produits électriques, électroniques et optiques ont représenté 51,1 pour

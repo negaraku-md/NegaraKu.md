@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'Thánh đường Hồi giáo Zahir màu kem với cụm mái vòm hành đen lớn và một tháp minaret mảnh dẻ trên nền trời xanh quang đãng ở Alor Setar.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào năm 2024, các sản phẩm điện, điện tử và quang học đóng góp 51.1 phần trăm

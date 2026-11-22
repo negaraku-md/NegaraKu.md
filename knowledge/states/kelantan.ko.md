@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: '코타바루에 있는 화려한 검은색과 노란색의 전통 목조 궁전 이스타나 자하르, 포장된 앞뜰에 마차가 세워져 있다.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아 경제는 보통 공장을 통해 이야기됩니다. 클란탄(Kelantan)은 가장 뚜렷한 예외입니다: 제조업은 2025년 이 주(州) 국내총생산의 4.7%만을 차지했는데 — 13개 주(州) 가운데 가장 낮은 비중 — 농업은 거의 5분의 1을 차지했습니다.

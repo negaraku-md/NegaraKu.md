@@ -76,6 +76,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: '九層の傘型屋根を持つサラワク州議会議事堂が茶色のサラワク川のほとりに建ち、前方を木造船が通り過ぎている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 サラワクは、いわば異なる調で奏でられたマレーシアである。連邦において陸地面積で群を抜いて最大の州であり、半島ではなくボルネオ島に位置し、あらゆる半島州とは一線を画す独自の憲制上の地位を保持している。

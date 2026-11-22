@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: '맑은 하늘 아래, 흰색 돔을 가진 식민지 시대의 이포 기차역 건물이 아치형 열주 회랑을 갖추고 있다.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1874년 1월 20일, 팡코르섬(Pulau Pangkor) 인근 해상에서 한 장의 조약이 서명되었습니다. 그 문서는 영토를 넘기지도, 전쟁을 선포하지도 않았습니다. 그것은 단지 하나의 새로운 직책을 도입했습니다: 그 조언을 반드시 따라야 하는 주재관(Residen)입니다.

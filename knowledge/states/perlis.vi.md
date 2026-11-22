@@ -109,6 +109,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'Những bông cỏ trổ hạt màu vàng óng và một cánh đồng lúa xanh trải dài đến tận chân trời bằng phẳng dưới bầu trời rộng nhiều mây gần Kangar.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Có một câu hỏi mà gần như mọi người Malaysia đều từng trả lời sai: ai là

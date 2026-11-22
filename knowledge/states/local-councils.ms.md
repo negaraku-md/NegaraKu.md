@@ -82,6 +82,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: 'Sebuah bangunan pejabat besar dengan papan tanda ''Majlis Bandaraya Ipoh'' di puncaknya bersebelahan dengan sebuah wakaf bergaya Minangkabau putih, dengan papan nama majlis di pintu masuk.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Majlis yang membaiki lampu jalan anda, mengutip sampah anda, meluluskan pembinaan tambahan

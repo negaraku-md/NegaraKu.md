@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'พระราชวังเสรีเมนันตีไม้สีเข้มที่มีหลังคาทรงมินังกาเบาปลายแหลมซ้อนชั้น ตั้งอยู่บนสนามหญ้าสีเขียว มีศาลาสีแดงและเนินเขาที่ปกคลุมด้วยป่าอยู่ด้านหลัง'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในแปดรัฐมลายูอื่น คำถามที่ว่า "ใครจะเป็นราชาองค์ต่อไป" ตอบโดยสายเลือด ในเนอเกอรีเซิมบีลัน มันตอบโดยผู้นำจารีตประเพณีสี่คน

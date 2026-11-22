@@ -77,6 +77,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["सरवाक मलेशिया", "Sarawak Malaysia", "कुचिंग", "सरवाक तेल और गैस", "मलेशिया समझौता 1963", "Malaysia Agreement 1963", "बोर्नियो वर्षावन"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'कुचिंग में भूरी सरवाक नदी के किनारे नौ-परतदार छतरीनुमा छत वाला सरवाक राज्य विधानसभा भवन, जिसके सामने से एक लकड़ी की नाव गुज़र रही है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 सरवाक एक भिन्न सुर में मलेशिया है। यह भू-क्षेत्रफल के हिसाब से संघ का कहीं अधिक अंतर से सबसे बड़ा राज्य है, प्रायद्वीप के बजाय बोर्नियो पर स्थित है, और एक विशिष्ट संवैधानिक दर्जा रखता है जो इसे हर प्रायद्वीपीय राज्य से अलग करता है।

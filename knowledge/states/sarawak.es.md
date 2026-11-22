@@ -77,6 +77,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malasia", "Sarawak Malaysia", "Kuching", "petróleo y gas de Sarawak", "Acuerdo de Malasia 1963", "selva tropical de Borneo"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'El edificio de la Asamblea Legislativa Estatal de Sarawak, con techo en forma de paraguas de nueve niveles, junto al marrón río Sarawak, con una barca de madera pasando por delante.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sarawak es Malasia en otra clave. Es, con mucho, el estado más grande de la

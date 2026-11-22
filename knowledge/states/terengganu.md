@@ -102,6 +102,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'Masjid Kristal yang berkubah perak dan emas dengan banyak menara langsing dan sebuah gerbang selamat datang putih di bawah langit biru di Kuala Terengganu.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dua benda paling terkenal tentang Terengganu terletak kira-kira 60 kilometer

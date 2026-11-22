@@ -82,6 +82,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: '''Majlis Bandaraya Ipoh'' என்ற அடையாளப் பலகையுடன் கூடிய ஒரு பெரிய அலுவலக கட்டிடம், அதன் அருகில் வெள்ளை மினாங்கபாவு பாணி மண்டபமும், நுழைவாயிலில் கவுன்சிலின் பெயர்ப் பலகையும்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 உங்கள் தெரு விளக்குகளைச் சரிசெய்யும், உங்கள் குப்பைத் தொட்டிகளைச் சேகரிக்கும், உங்கள்

@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: 'Một văn phòng huyện một tầng mái xanh với bức tường ghi ''Pejabat Daerah Sipitang'', hai bên là những hàng cờ Malaysia và cờ Sabah.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Giữa bang mà bạn bỏ phiếu và ngôi làng nơi bạn sống, có một lớp chính quyền hiếm khi được nhắc đến nhưng lại là lớp bạn gặp thường xuyên nhất khi giao dịch về đất đai, dự án phát triển hay cứu trợ khẩn cấp: địa hạt. Đây là nơi chính sách của bang biến thành dịch vụ thực tế, và trung tâm của nó là Văn phòng Địa hạt.

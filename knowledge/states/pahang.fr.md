@@ -106,6 +106,13 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan ville royale", "Sultan de Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "districts de Pahang", "PIB de Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'Les terrasses verdoyantes et vallonnées de théiers d''une plantation des Cameron Highlands serpentant entre des collines boisées sous un ciel nuageux.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pahang couvre plus d'un quart de la superficie terrestre de la Malaisie péninsulaire, et

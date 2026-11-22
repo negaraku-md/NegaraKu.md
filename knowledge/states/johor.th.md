@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'มัสยิดประจำรัฐสุลต่านอาบูบาการ์สีขาวสไตล์วิกตอเรียที่มีหอมินาเรตคู่สูงและโดมสีดำใต้ท้องฟ้าที่มีเมฆครึ้ม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เศรษฐกิจของยะโฮร์ถูกนิยามโดยเพื่อนบ้านของตน ในฐานะรัฐที่อยู่ใต้สุดของคาบสมุทร รัฐนี้ตั้งอยู่ตรงข้ามกับสิงคโปร์พอดีข้ามช่องแคบยะโฮร์ (Strait of Johor) และความใกล้ชิดนั้นหล่อหลอมทุกสิ่งตั้งแต่ตลาดแรงงานไปจนถึงยุทธศาสตร์การพัฒนาอสังหาริมทรัพย์

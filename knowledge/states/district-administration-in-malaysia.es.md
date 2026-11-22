@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: 'Una oficina de distrito de una sola planta con tejado azul y un muro que dice ''Pejabat Daerah Sipitang'', flanqueada por hileras de banderas de Malasia y Sabah.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Entre el estado por el que votas y el pueblo donde vives hay una capa de gobierno que rara vez se menciona y, sin embargo, es la que más encuentras al tramitar asuntos de tierras, proyectos de desarrollo o asistencia de emergencia: el distrito. Es aquí donde la política estatal se convierte en servicios reales, y su centro es la Oficina de Distrito.

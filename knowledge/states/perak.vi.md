@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'Tòa nhà ga xe lửa Ipoh thời thuộc địa màu trắng, có mái vòm với những hàng cột cuốn vòm dưới bầu trời quang đãng.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào ngày 20 tháng 1 năm 1874, một bản hiệp ước được ký trên vùng biển gần

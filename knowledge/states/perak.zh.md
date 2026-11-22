@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: '晴空下，白色圆顶的殖民时期怡保火车站建筑带有拱形柱廊。'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1874年1月20日，一份条约在邦咯岛（Pangkor Island）附近海域签署。这份文件既未割让领土，也未宣战。它只引入了一个新的职位：一位参政司，其意见必须遵从。

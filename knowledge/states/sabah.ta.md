@@ -79,6 +79,13 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'நீல வானத்தின் கீழ் காடுகள் நிறைந்த அடிவார மலைகள் மற்றும் பசுமையான மரமுகடுகளுக்கு மேல் உயரும் கினபாலு மலையின் கூர்மையான சாம்பல் நிற கிரானைட் சிகரங்கள்.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 சபா, ஒரு நாட்டுடன் இணையும் ஒரு மாநிலமாக மலேசியாவில் இணையவில்லை. அந்த

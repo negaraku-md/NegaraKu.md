@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["local government Malaysia", "local council", "city council", "municipal council", "district council", "Local Government Act 1976", "Act 171", "councillors appointed", "local elections suspended 1965", "third vote", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: '「Majlis Bandaraya Ipoh」の看板を掲げた大きなオフィスビルが、白いミナンカバウ様式の東屋のそばに建ち、入口に市議会の名板がある。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 あなたの街灯を直し、ごみを収集し、隣人の増築を承認し、階下のコーヒーショップに営業許可を与える議会は、日常生活に最も近い政府の層である。それはまた、マレーシアのどの有権者もその構成員を選んだことがない唯一の層でもある。

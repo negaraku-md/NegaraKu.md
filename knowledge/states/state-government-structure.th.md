@@ -71,6 +71,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: 'ผนังกระจกสีน้ำเงินทรงใบเรือสีขาวของอาคารสภานิติบัญญัติรัฐซาบาห์ที่รายล้อมด้วยต้นปาล์มและสวนที่ตกแต่งอย่างประณีต'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ลองนำอิสตานาเนอการา (Istana Negara) ออกไป เปลี่ยนชื่อนายกรัฐมนตรี และย่อรัฐสภาลงเหลือเพียงสภาเดียว — แล้วสิ่งที่คุณกำลังมองอยู่ก็คือรัฐบาลของรัฐในมาเลเซีย ทั้ง 13 รัฐดำเนินการบนสำเนาขนาดย่อของระบบสหพันธรัฐ คือ ประมุขของรัฐที่ครองราชย์โดยไม่ปกครอง หัวหน้ารัฐบาลที่ได้รับเลือกเพราะสามารถกุมเสียงข้างมาก สภาบริหารที่รับผิดชอบร่วมกันต่อสมาชิกที่มาจากการเลือกตั้ง และสภานิติบัญญัติที่สามารถถูกยุบและส่งกลับไปยังผู้ออกเสียงได้ ชื่อตำแหน่งเปลี่ยนไปในแต่ละรัฐ แต่พิมพ์เขียวไม่เปลี่ยน

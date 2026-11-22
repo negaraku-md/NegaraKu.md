@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malasia", "Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "economía del Valle de Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'La Mezquita Sultan Salahuddin Abdul Aziz, de cúpula azul e iluminada, con sus cuatro altos minaretes brillando contra un cielo crepuscular azul intenso en Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Selangor es el estado sobre el que discretamente funciona la economía de Malasia.

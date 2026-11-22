@@ -107,6 +107,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'カンガル近郊の広い曇り空の下、金色の草の穂と緑の水田が平らな地平線まで広がっている。'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ほぼすべてのマレーシア人が一度は答えを誤る質問がある——パーリスのスルタンとは誰か。

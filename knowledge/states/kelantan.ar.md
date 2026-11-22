@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["كلنتان", "Kelantan", "كوتا بهارو", "Kota Bharu", "اقتصاد كلنتان", "الحرف اليدوية في كلنتان", "ماك يونغ", "mak yong", "Kelantan Darul Naim"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'قصر إستانا جاهر الخشبي التقليدي المزخرف بالأسود والأصفر في كوتا بهارو مع عربة تجرّها الخيول واقفة في ساحته المرصوفة.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 عادةً ما يُروى اقتصاد ماليزيا من خلال المصنع. وكلنتان هي الاستثناء الأوضح: إذ لم

@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: '흐린 하늘 아래, 높은 쌍둥이 첨탑과 검은 돔을 갖춘 하얀 빅토리아 양식의 술탄 아부 바카르 주립 모스크.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 조호르(Johor)의 경제는 그 이웃에 의해 규정됩니다. 반도 최남단의 주(州)로서, 조호르 해협 건너 싱가포르와 정확히 마주 보고 있으며, 그 근접성이 노동 시장부터 부동산 개발 전략까지 모든 것을 형성합니다.

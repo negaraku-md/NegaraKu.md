@@ -78,6 +78,13 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'ยอดเขาหินแกรนิตสีเทาขรุขระของภูเขาคินาบาลูที่ตระหง่านเหนือเชิงเขาที่ปกคลุมด้วยป่าและยอดไม้สีเขียวใต้ท้องฟ้าสีฟ้า'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ซาบาห์ไม่ได้เข้าร่วมมาเลเซียในฐานะรัฐที่เข้าร่วมประเทศ แต่เข้าร่วมในฐานะหนึ่งในดินแดนผู้ลงนามที่สร้างประเทศขึ้น — บอร์เนียวเหนือลงนามข้อตกลงมาเลเซียในลอนดอนเมื่อเดือนกรกฎาคม 1963 ควบคู่ไปกับสหพันธรัฐมลายา ซาราวัก สิงคโปร์ และสหราชอาณาจักร จุดเริ่มต้นนั้นยังคงหล่อหลอมวิธีการปกครอง การจัดสรรงบประมาณ และการกล่าวถึงซาบาห์ในทุกวันนี้ และเป็นเหตุผลที่โปรไฟล์ของซาบาห์ต้องครอบคลุมทั้งสนธิสัญญาและภูเขา

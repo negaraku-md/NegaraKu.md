@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'தெளிவான வானத்தின் கீழ் வளைவான நெடுவரிசை மண்டபங்களைக் கொண்ட வெள்ளை, குவிமாடமுடைய காலனித்துவ காலத்து இப்போ ரயில் நிலைய கட்டிடம்.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1874 ஜனவரி 20-ஆம் தேதி, Pangkor தீவுக்கு அருகிலுள்ள கடல் நீரில் ஒரு உடன்படிக்கை

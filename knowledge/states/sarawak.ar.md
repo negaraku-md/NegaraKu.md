@@ -77,6 +77,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["ساراواك ماليزيا", "كوتشينغ", "نفط وغاز ساراواك", "Sarawak Malaysia", "اتفاقية ماليزيا 1963 Malaysia Agreement 1963", "الغابات المطيرة في بورنيو"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'مبنى مجلس ولاية سراواك التشريعي ذو السقف المظلّي التسع الطبقات بجانب نهر سراواك البنّي مع قارب خشبي يمرّ أمامه في كوتشينغ.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ساراواك هي ماليزيا بنبرة مختلفة. فهي إلى حدٍّ بعيد أكبر ولايات الاتحاد من حيث

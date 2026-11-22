@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'The illuminated blue-domed Sultan Salahuddin Abdul Aziz Mosque with its four tall minarets glowing against a deep blue dusk sky in Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Selangor is the state that Malaysia's economy quietly runs on. It fully encircles the

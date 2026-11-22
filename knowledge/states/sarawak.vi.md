@@ -76,6 +76,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'Tòa nhà Hội đồng Lập pháp bang Sarawak chín tầng mái hình chiếc ô bên cạnh dòng sông Sarawak màu nâu với một chiếc thuyền gỗ đi qua phía trước ở Kuching.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sarawak là Malaysia ở một cung bậc khác. Nó cho đến nay là bang lớn nhất trong

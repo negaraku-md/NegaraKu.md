@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["تيرينغانو Terengganu", "كوالا تيرينغانو Kuala Terengganu", "حجر تيرينغانو المنقوش Batu Bersurat Terengganu", "سلطان تيرينغانو", "بترول كيرتيه Kertih", "أقدم كتابة بالجاوي"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'المسجد البلّوري بقبّته الفضّية والذهبية ومآذنه النحيلة العديدة وبوّابة ترحيب بيضاء مقنطرة تحت سماء زرقاء في كوالا ترغكانو.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 أشهر أمرين عن تيرينغانو يبعد أحدهما عن الآخر نحو 60 كيلومترًا، وكلاهما يصعب رؤيته.

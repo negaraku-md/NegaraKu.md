@@ -106,6 +106,13 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'ไร่ชาขั้นบันไดสีเขียวของคาเมรอนไฮแลนด์สที่ทอดคดเคี้ยวระหว่างเนินเขาที่ปกคลุมด้วยป่าใต้ท้องฟ้าที่มีเมฆมาก'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ปะหังครอบคลุมมากกว่าหนึ่งในสี่ของผืนแผ่นดินคาบสมุทรมาเลเซีย แต่มีเพียงหนึ่งในทุก ๆ 20 คนของชาวมาเลเซียที่อาศัยอยู่ที่นั่น

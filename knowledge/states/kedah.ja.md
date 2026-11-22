@@ -110,6 +110,13 @@ relations:
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'アロースターの澄んだ青空を背景に、クリーム色のザヒール・モスクが大きな黒い玉ねぎ型ドームの集まりと細いミナレットを見せている。'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024年、電気・電子・光学製品はケダの製造業付加価値の51.1%を占めた。パディは、

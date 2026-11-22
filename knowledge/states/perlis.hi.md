@@ -109,6 +109,13 @@ relations:
 related: []
 keywords: ["पर्लिस", "Perlis", "राजा पर्लिस", "Raja Perlis", "कांगार", "Kangar", "मलेशिया का सबसे छोटा राज्य", "जमालुल्लैल वंश", "Wangsa Jamalullail", "मलेशिया थाईलैंड सीमा", "पादांग बेसार", "Padang Besar", "चुपिंग घाटी", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'कांगार के पास चौड़े बादल भरे आसमान के नीचे समतल क्षितिज तक फैली सुनहरी घास की बालियाँ और एक हरा धान का खेत।'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक प्रश्न ऐसा है जो लगभग हर मलेशियाई किसी-न-किसी समय ग़लत समझ बैठा है: पर्लिस का

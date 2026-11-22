@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "pétrole de Kertih", "écriture jawi la plus ancienne"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'La mosquée de Cristal, aux dômes argentés et dorés, avec de nombreux minarets élancés et une arche de bienvenue blanche sous un ciel bleu à Kuala Terengganu.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Les deux choses les plus célèbres de Terengganu se trouvent à une soixantaine de kilomètres l'une de l'autre, et toutes deux sont difficiles à voir.

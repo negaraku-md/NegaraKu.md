@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: 'สำนักงานอำเภอชั้นเดียวหลังคาสีน้ำเงินที่มีผนังเขียนว่า ''Pejabat Daerah Sipitang'' ขนาบด้วยแถวธงมาเลเซียและซาบาห์'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ระหว่างรัฐที่คุณลงคะแนนเลือกกับหมู่บ้านที่คุณอาศัยอยู่ มีชั้นของรัฐบาลชั้นหนึ่งที่แทบไม่ถูกกล่าวถึง แต่คุณพบบ่อยที่สุดเมื่อติดต่อเรื่องที่ดิน โครงการพัฒนา หรือความช่วยเหลือฉุกเฉิน นั่นคืออำเภอ ที่นี่คือที่ซึ่งนโยบายของรัฐแปรเปลี่ยนเป็นบริการจริง และศูนย์กลางของมันคือสำนักงานอำเภอ

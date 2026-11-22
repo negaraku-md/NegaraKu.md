@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: '曇り空の下、白いヴィクトリア様式のスルタン・アブ・バカル州立モスクが、高い双子のミナレットと黒いドームを備えて建っている。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ジョホールの経済は、その隣国によって規定されている。半島最南端の州として、ジョホール海峡を挟んでシンガポールと正面から向き合っており、その近接性が労働市場から不動産開発戦略に至るまで、あらゆるものを形づくっている。

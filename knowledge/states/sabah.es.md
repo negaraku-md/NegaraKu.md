@@ -78,6 +78,13 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "monte Kinabalu", "Acuerdo de Malasia de 1963", "Tierra Bajo el Viento", "economía de Sabah", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'Los escarpados picos de granito gris del Monte Kinabalu que se alzan sobre las estribaciones boscosas y las copas verdes de los árboles bajo un cielo azul.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sabah no se unió a Malasia como un estado que se incorpora a un país. Se unió como

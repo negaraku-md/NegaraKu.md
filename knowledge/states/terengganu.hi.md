@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["तेरेंगानु Terengganu", "कुआला तेरेंगानु Kuala Terengganu", "तेरेंगानु उत्कीर्ण पत्थर Batu Bersurat Terengganu", "तेरेंगानु के सुल्तान", "केर्तिह पेट्रोलियम Kertih", "सबसे पुराना जावी लेखन"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'कुआला तेरेंगानू में नीले आसमान के नीचे कई पतली मीनारों और एक सफेद स्वागत-तोरण वाली चाँदी-सुनहरे गुंबद वाली क्रिस्टल मस्जिद।'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 तेरेंगानु के बारे में दो सबसे प्रसिद्ध चीज़ें एक-दूसरे से लगभग 60 किलोमीटर की दूरी पर स्थित हैं, और दोनों को देख पाना कठिन है।

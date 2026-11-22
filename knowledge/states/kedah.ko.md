@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: '알로르스타르의 맑고 푸른 하늘을 배경으로, 크림색 자히르 모스크가 커다란 검은 양파형 돔 무리와 가느다란 첨탑을 보이고 있다.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024년, 전기·전자·광학 제품은 크다(Kedah) 제조 부문 부가가치의 51.1퍼센트를 차지했습니다. 벼는 농업에서 나온 주(州) GDP 10.6퍼센트의 일부만을 차지했습니다.

@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'La Mezquita Estatal Sultan Abu Bakar, de estilo victoriano y color blanco, con dos altas torres de minarete gemelas y cúpulas negras bajo un cielo nublado.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La economía de Johor está definida por su vecino. Como el estado más meridional de la

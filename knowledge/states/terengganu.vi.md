@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'Thánh đường Hồi giáo Pha lê mái vòm bạc và vàng với nhiều tháp minaret mảnh dẻ và một cổng vòm chào đón màu trắng dưới bầu trời xanh ở Kuala Terengganu.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hai thứ nổi tiếng nhất về Terengganu nằm cách nhau khoảng 60 kilômét,

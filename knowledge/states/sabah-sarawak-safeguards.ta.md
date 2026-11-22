@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-safeguards/hero.webp'
+heroAlt: 'நீல வானத்தின் கீழ் அதன் நுழைவுப் பாதை மற்றும் தோட்டத்திற்கு மேல் உயரும் குச்சிங் சர்வதேச விமான நிலையத்தின் டெர்மினலின் தனித்துவமான கருமை நிற அலைவடிவக் கூரை.'
+heroCredit: 'Medelam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_International_Airport_2024_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கோலாலம்பூரிலிருந்து கோட்டா கினபாலு (Kota Kinabalu) அல்லது குச்சிங்கிற்கு (Kuching) விமானத்தில் பறந்து செல்லுங்கள், நீங்கள் மலேசியாவிலேயே தரையிறங்குகிறீர்கள் — அதே நாடு, அதே கடவுச்சீட்டு, அதே நாணயம் — பின்னர் ஒரு குடிநுழைவு அலுவலகத்தில் வரிசையில் நிற்கிறீர்கள். அங்கு இருக்க ஒரு நல்ல காரணத்தைச் சொல்ல முடியாத ஒரு தீபகற்ப மலேசியருக்கு சில வாரங்களுக்கு மட்டுப்படுத்தப்பட்ட ஒரு அனுமதிச்சீட்டு வழங்கப்படலாம், அல்லது திருப்பி அனுப்பப்படலாம். அந்த சோதனைச்சாவடி ஒரு அதிகாரத்துவ வினோதம் அல்ல. 1963-ல் சபா (Sabah) மற்றும் சரவாக் (Sarawak) கூட்டமைப்பில் இணைந்தபோது கூட்டாட்சி அரசியலமைப்பில் (Federal Constitution) எழுதப்பட்ட ஒரு தொகுப்பு பாதுகாப்புகளில் இது ஒன்று.

@@ -109,6 +109,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'Malai rumput keemasan dan sawah padi hijau yang membentang hingga cakrawala datar di bawah langit mendung yang luas dekat Kangar.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ada satu pertanyaan yang hampir setiap orang Malaysia pernah salah menjawab: siapakah

@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'บ้านยาวอิบันไม้หลังยาวที่มีหลังคาสังกะสีลูกฟูกยกพื้นบนเสาสูงริมตลิ่งแม่น้ำที่เขียวชอุ่มเต็มไปด้วยป่าในชนบทซาราวัก'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ซื้อบ้านในกัวลาลัมเปอร์แล้วกฎหมายของสหพันธรัฐฉบับเดียวกำกับกรรมสิทธิ์ของคุณ ทำเช่นเดียวกันในกูจิงหรือโกตากีนาบาลู แล้วคุณก็ก้าวเข้าสู่โลกทางกฎหมายที่แตกต่างไปโดยสิ้นเชิง — โลกที่มีพระราชกำหนดของตนเอง มีหมวดของที่ดินของตนเอง และมีรูปแบบการถือครองที่ไม่มีกระดาษแผ่นใดสร้างขึ้น คือสิทธิตามจารีตประเพณีของชนพื้นเมือง

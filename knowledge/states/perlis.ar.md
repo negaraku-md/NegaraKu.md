@@ -108,6 +108,13 @@ relations:
 related: []
 keywords: ["بيرليس", "Perlis", "راجا بيرليس", "Raja Perlis", "كانغار", "Kangar", "أصغر ولايات ماليزيا", "سلالة جمال الليل", "Wangsa Jamalullail", "الحدود الماليزية التايلندية", "بادانغ بيسار", "Padang Besar", "وادي تشوبينغ", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'سنابل عشبية ذهبية وحقل أرز أخضر يمتدّان حتى أفق مستوٍ تحت سماء واسعة غائمة قرب كانغار.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ثمة سؤال واحد أخطأ فيه كل ماليزي تقريباً في وقت ما: من سلطان بيرليس؟

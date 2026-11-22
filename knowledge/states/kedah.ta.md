@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'அலோர் ஸ்டாரில் தெளிவான நீல வானத்தை எதிர்கொண்டு பெரிய கருப்பு வெங்காய குவிமாடங்களின் கொத்தும் மெல்லிய மினாரெட்டும் கொண்ட கிரீம் நிற ஜாஹிர் மசூதி.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024-இல், மின்சார, மின்னணுவியல் மற்றும் ஒளியியல் பொருட்கள் கெடாவின் உற்பத்தித்

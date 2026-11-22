@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: '莎阿南深蓝色暮空下，灯光璀璨的蓝色圆顶苏丹沙拉胡丁阿都阿兹清真寺及其四座高耸的尖塔熠熠生辉。'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 雪兰莪是马来西亚经济默默运转所依靠的那个州属。它完全环绕着联邦首都吉隆坡与行政首都布城，三者共同构成巴生谷——全国最大的城市与工业连绵区。

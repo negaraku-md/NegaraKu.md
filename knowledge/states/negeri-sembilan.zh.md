@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: '深色木造的斯里门南帝王宫有层叠尖耸的米南加保式屋顶，坐落于绿色草坪上，身后有一座红色凉亭和林木覆盖的山丘。'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在其余八个马来州属，「谁是下一任统治者」这个问题由世系血统来回答。在森美兰，

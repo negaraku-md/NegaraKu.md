@@ -82,6 +82,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["gobierno local Malasia", "local government Malaysia", "concejo local", "local council", "concejo de ciudad", "city council", "concejo municipal", "municipal council", "concejo de distrito", "district council", "Local Government Act 1976", "Act 171", "concejales nombrados", "elecciones locales suspendidas 1965", "local elections suspended 1965", "Consejo Nacional de Gobierno Local", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: 'Un gran edificio de oficinas coronado con un letrero que dice ''Majlis Bandaraya Ipoh'', junto a un pabellón blanco de estilo Minangkabau, con la placa con el nombre del concejo en la entrada.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 El concejo que arregla las farolas de su calle, recoge sus cubos de basura, aprueba

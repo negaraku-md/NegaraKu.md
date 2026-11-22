@@ -106,6 +106,13 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'மேகமூட்டமான வானத்தின் கீழ் காடுகள் நிறைந்த மலைகளுக்கு இடையே நெளிந்து செல்லும் கேமரன் ஹைலேண்ட்ஸ் தோட்டத்தின் பசுமையான தேயிலைச் செடி படிநிலைகள்.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பகாங் (Pahang) மலேசிய தீபகற்பத்தின் நிலப்பரப்பில் கால் பங்குக்கும் மேலானதை

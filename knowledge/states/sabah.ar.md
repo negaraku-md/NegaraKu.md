@@ -78,6 +78,13 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["صباح", "Sabah Malaysia", "كوتا كينابالو", "Kota Kinabalu", "جبل كينابالو", "Mount Kinabalu", "اتفاقية ماليزيا 1963", "Malaysia Agreement 1963", "أرض ما تحت الريح", "Land Below the Wind", "اقتصاد صباح", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'قمم جبل كينابالو الغرانيتية الرمادية الوعرة ترتفع فوق السفوح المكسوّة بالغابات وقمم الأشجار الخضراء تحت سماء زرقاء.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 لم تنضمّ صباح إلى ماليزيا بوصفها ولايةً تنضمّ إلى دولة. بل انضمّت بوصفها أحد الأقاليم

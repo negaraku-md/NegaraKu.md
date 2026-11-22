@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["pentadbiran daerah", "إدارة المقاطعة", "pejabat daerah", "مكتب المقاطعة", "pegawai daerah", "ضابط المقاطعة", "mukim", "الموكيم", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: 'مكتب مقاطعة من طابق واحد بسقف أزرق وجدار كُتب عليه ''Pejabat Daerah Sipitang''، تحفّه صفوف من أعلام ماليزيا وصباح.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 بين الولاية التي تصوّت لها والقرية التي تسكن فيها، توجد طبقة واحدة من الحكم نادراً ما يُذكَر اسمها، لكنها الطبقة التي تلتقيها أكثر من غيرها حين تتعامل في شؤون الأراضي أو مشاريع التنمية أو المساعدات الطارئة: المقاطعة. فهنا تتحوّل سياسة الولاية إلى خدمات فعلية، ومركزها مكتب المقاطعة.

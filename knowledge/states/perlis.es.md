@@ -109,6 +109,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "estado más pequeño de Malasia", "dinastía Jamalullail", "frontera Malasia Tailandia", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'Espigas de hierba doradas y un arrozal verde que se extiende hasta un horizonte plano bajo un amplio cielo nublado cerca de Kangar.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hay una pregunta que casi todos los malasios han respondido mal en algún

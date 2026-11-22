@@ -78,6 +78,13 @@ entity: "マレーシアの州をまたぐ転居"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: '多車線の高速道路を走る車が、クアラルンプール、マラッカ、ジョホールの町を示す緑の頭上標識の下を通り、脇に油ヤシ農園と丘がある。'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシア国内で引っ越すと、まるで大量の再登録が必要になるように感じられます——新しい書類、新しい番号、どの役所でも一からやり直し。ですが大部分はそうではありません。理由は構造的なものです。**マレーシアでの暮らしのうち「公式」に感じられる事柄のほとんどは連邦（federal）の管轄**であり、連邦系のシステムはどの州でも同じように機能するので、それらは単にあなたについてきます。実際に変わるのは、より小さく、よりローカルな層です——そのどちらかを見分けることが、気の重い引っ越しを短いチェックリストに変えてくれます。

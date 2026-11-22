@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'ஷா ஆலத்தில் ஆழமான நீல அந்தி வானத்தை எதிர்கொண்டு ஒளிரும் நான்கு உயரமான மினாரெட்டுகளுடன் ஒளியூட்டப்பட்ட நீல குவிமாடமுடைய சுல்தான் சலாஹுதீன் அப்துல் அஜீஸ் மசூதி.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் பொருளாதாரம் அமைதியாகச் சார்ந்திருக்கும் மாநிலம் செலாங்கூர். இது கூட்டாட்சி

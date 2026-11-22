@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: 'Gerbang upacara melengkung Istana Negara yang megah berkubah emas, dengan istana kerajaan berkubah dan cakrawala kota bergedung tinggi di belakangnya.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia memiliki 13 negara bagian, tetapi hanya sembilan takhta. Empat negara bagian lagi

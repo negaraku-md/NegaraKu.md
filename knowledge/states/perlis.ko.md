@@ -108,6 +108,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: '캉가르 인근 넓고 구름 낀 하늘 아래, 황금빛 풀 이삭과 푸른 논이 평평한 지평선까지 펼쳐져 있다.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 거의 모든 말레이시아인이 한 번쯤 잘못 답해 본 질문이 있습니다: 펄리스의 술탄은 누구인가?

@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'Istana diraja Seri Menanti dari kayu gelap dengan bumbung Minangkabau bertingkat yang runcing, terletak di atas laman hijau dengan sebuah wakaf merah dan bukit berhutan di belakang.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di lapan negeri Melayu yang lain, soalan "siapa raja seterusnya" dijawab oleh

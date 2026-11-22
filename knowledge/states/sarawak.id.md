@@ -77,6 +77,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "minyak dan gas Sarawak", "Perjanjian Malaysia 1963", "hutan hujan Borneo"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'Gedung Dewan Undangan Negeri Sarawak yang beratap payung sembilan tingkat di tepi Sungai Sarawak yang kecokelatan dengan sebuah perahu kayu melintas di depannya.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sarawak adalah Malaysia dalam nada yang berbeda. Ia sejauh ini negara bagian terbesar dalam

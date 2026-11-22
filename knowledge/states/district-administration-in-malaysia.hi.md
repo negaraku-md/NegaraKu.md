@@ -78,6 +78,13 @@ relations:
 related: []
 keywords: ["pentadbiran daerah", "ज़िला प्रशासन", "pejabat daerah", "ज़िला कार्यालय", "pegawai daerah", "ज़िला अधिकारी", "mukim", "मुकिम", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: '''Pejabat Daerah Sipitang'' लिखी दीवार और नीली छत वाला एक-मंज़िला ज़िला कार्यालय, जिसके दोनों ओर मलेशियाई और साबाह के झंडों की पंक्तियाँ हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जिस राज्य के लिए आप मतदान करते हैं और जिस गाँव में आप रहते हैं, उनके बीच सरकार की एक ऐसी परत है जिसका नाम शायद ही कभी लिया जाता है, फिर भी भूमि, विकास परियोजनाओं या आपातकालीन सहायता से निपटते समय आप जिससे सबसे अधिक बार सामना करते हैं: ज़िला। यहीं राज्य की नीति वास्तविक सेवाओं में बदलती है, और इसका केंद्र है ज़िला कार्यालय।

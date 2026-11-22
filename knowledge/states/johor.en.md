@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'The white Victorian-style Sultan Abu Bakar State Mosque with tall twin minaret towers and black domes under an overcast sky.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Johor's economy is defined by its neighbour. As the peninsula's southernmost state,

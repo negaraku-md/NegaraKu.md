@@ -76,6 +76,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: '9층 우산형 지붕의 사라왁 주의회 의사당이 갈색의 사라왁강 옆에 서 있고, 그 앞을 목조 배가 지나가고 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 사라왁(Sarawak)은 다른 음조로 연주되는 말레이시아입니다. 토지 면적으로 연방에서 단연 가장 큰 주(州)로, 반도가 아니라 보르네오에 자리하며, 모든 반도 주(州)와 구별되는 독자적 헌법적 지위를 지닙니다.

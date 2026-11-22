@@ -82,6 +82,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["मलेशिया में स्थानीय सरकार", "local government Malaysia", "स्थानीय परिषद", "local council", "नगर परिषद", "city council", "नगरपालिका परिषद", "municipal council", "जिला परिषद", "district council", "Local Government Act 1976", "Act 171", "पार्षदों की नियुक्ति", "स्थानीय चुनाव निलंबन 1965", "local elections suspended 1965", "स्थानीय सरकार के लिए राष्ट्रीय परिषद", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: '''Majlis Bandaraya Ipoh'' के साइनबोर्ड से सुसज्जित एक बड़ा कार्यालय भवन, जिसके बगल में एक सफेद मीनांगकाबाउ शैली का मंडप और प्रवेश द्वार पर परिषद का नामपट्ट है।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 वह परिषद जो आपकी गली की बत्तियाँ ठीक करती है, आपके कूड़ेदान खाली करती है, आपके

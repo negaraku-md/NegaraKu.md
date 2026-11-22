@@ -88,6 +88,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'A long wooden Iban longhouse with a corrugated-metal roof raised on stilts along a green, forested riverbank in rural Sarawak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Buy a house in Kuala Lumpur and one federal statute governs your title. Do the same in Kuching or Kota Kinabalu and you step into an entirely different legal world — one with its own ordinances, its own categories of land, and a form of tenure that no piece of paper created: Native Customary Rights.

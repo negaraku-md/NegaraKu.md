@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["केलंतान", "Kelantan", "कोटा भारू", "Kota Bharu", "केलंतान की अर्थव्यवस्था", "केलंतान के हस्तशिल्प", "माक योंग", "mak yong", "Kelantan Darul Naim"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'कोटा भारू में सजी हुई काली-पीली पारंपरिक लकड़ी की इस्ताना जहर महल, जिसके पक्के प्रांगण में एक घोड़ा-गाड़ी खड़ी है।'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया की अर्थव्यवस्था की कहानी प्रायः कारखाने के माध्यम से कही जाती है।

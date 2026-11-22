@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["الحاكم الراسخ", "Ruler", "يانغ دي-برتوا نيغري", "Yang di-Pertua Negeri", "ولاية ملكية", "ولاية غير ملكية", "سلطان ماليزيا", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "رئيس الولاية في ماليزيا", "مجلس الحكام", "Majlis Raja-Raja", "المادة 71 من الدستور"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: 'البوّابة الاحتفالية المقنطرة ذات القبّة الذهبية الفخمة لقصر إستانا نيغارا، مع القصر الملكي المقبّب وأفق المدينة بناطحات سحابه خلفه.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لدى ماليزيا 13 ولاية، لكن تسعة عروش فقط. أما الولايات الأربع الأخرى فيرأسها شخص لا

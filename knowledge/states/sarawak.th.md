@@ -76,6 +76,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'อาคารสภานิติบัญญัติรัฐซาราวักที่มีหลังคาทรงร่มเก้าชั้นตั้งอยู่ริมแม่น้ำซาราวักสีน้ำตาล โดยมีเรือไม้แล่นผ่านด้านหน้า'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ซาราวักคือมาเลเซียในคีย์ที่ต่างออกไป มันเป็นรัฐที่ใหญ่ที่สุดในสหพันธรัฐเมื่อวัดจากพื้นที่อย่างมาก ตั้งอยู่บนเกาะบอร์เนียวมากกว่าบนคาบสมุทร และมีสถานะทางรัฐธรรมนูญเฉพาะตัวที่ทำให้แตกต่างจากทุกรัฐบนคาบสมุทร

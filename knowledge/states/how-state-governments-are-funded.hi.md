@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["hasil negeri", "राज्य राजस्व", "geran perkapita", "प्रति-व्यक्ति अनुदान", "geran jalan raya negeri", "Jadual Kesepuluh", "दसवीं अनुसूची", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "रॉयल्टी", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'सेरेम्बान में आधुनिक विस्मा नेगरी राज्य प्रशासनिक टावर के सामने ऊँची घुमावदार सुनहरी-भूरी छतों वाला मीनांगकाबाउ छत वाला औपचारिक सभागार।'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जब मलेशिया में कोई राज्य सरकार अपना बजट तैयार करती है, तो वह एक शायद ही कभी उल्लेखित वास्तविकता से शुरू करती है: जो कर सबसे अधिक आय देते हैं — आयकर, बिक्री एवं सेवा कर, सीमा शुल्क — उन्हें एकत्र करना उसका काम नहीं है। वे स्रोत संघीय अधिकार क्षेत्र में आते हैं। राज्यों के पास जो बचता है, और उस अंतर को कैसे भरा जाता है, यह संघीय संविधान में काले अक्षरों में स्पष्ट रूप से लिखा है।

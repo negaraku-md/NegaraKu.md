@@ -106,6 +106,13 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["पहांग", "Pahang", "पहांग दारुल मकमूर", "Pahang Darul Makmur", "कुआंतान", "Kuantan", "पेकान राजसी नगर", "Pekan", "पहांग के सुल्तान", "Sultan Pahang", "तामन नेगारा", "Taman Negara", "गुनुंग ताहान", "Gunung Tahan", "कैमरन हाइलैंड्स", "Cameron Highlands", "पहांग के जिले", "पहांग का KDNK"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'बादल भरे आसमान के नीचे वनाच्छादित पहाड़ियों के बीच बल खाती कैमरन हाईलैंड्स बागान की हरी-भरी चाय-झाड़ी की सीढ़ीनुमा क्यारियाँ।'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 पहांग प्रायद्वीपीय मलेशिया के भूमि क्षेत्र के एक-चौथाई से अधिक को ढकता है, फिर भी

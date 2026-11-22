@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'Một ngôi nhà dài Iban bằng gỗ với mái tôn gợn sóng được dựng trên cọc dọc theo bờ sông xanh rậm rừng ở vùng nông thôn Sarawak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mua một căn nhà ở Kuala Lumpur và một đạo luật liên bang quản lý quyền sở hữu của bạn. Làm điều tương tự ở Kuching hay Kota Kinabalu và bạn bước vào một thế giới pháp lý hoàn toàn khác — một thế giới với các pháp lệnh riêng, các loại đất riêng, và một hình thức sở hữu mà không tờ giấy nào tạo ra: Quyền Tập tục Bản địa.

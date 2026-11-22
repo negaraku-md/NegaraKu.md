@@ -109,6 +109,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'கங்கார் அருகே அகலமான மேகமூட்டமான வானத்தின் கீழ் தட்டையான அடிவானம் வரை பரந்து செல்லும் தங்க நிற புல் விதைக்கதிர்களும் பசுமையான நெல் வயலும்.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 கிட்டத்தட்ட ஒவ்வொரு மலேசியரும் ஏதோ ஒரு கட்டத்தில் தவறாகப் பதிலளித்த ஒரு கேள்வி

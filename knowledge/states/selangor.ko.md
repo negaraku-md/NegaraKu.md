@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: '샤알람의 짙푸른 황혼 하늘을 배경으로, 조명이 켜진 푸른 돔의 술탄 살라후딘 압둘 아지즈 모스크와 네 개의 높은 첨탑이 빛나고 있다.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 슬랑오르(Selangor)는 말레이시아 경제가 조용히 기대고 있는 주(州)입니다. 그것은 연방 수도 쿠알라룸푸르와 행정 수도 푸트라자야를 완전히 에워싸며, 이 셋이 함께 클랑 밸리(Lembah Klang) — 이 나라에서 가장 큰 도시·산업 집합체 — 를 이룹니다.

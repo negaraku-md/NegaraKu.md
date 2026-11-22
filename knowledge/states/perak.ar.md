@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["بيراك", "Perak", "بيراك دار الرضوان", "Perak Darul Ridzuan", "معاهدة بانغكور", "Perjanjian Pangkor", "المقيم البريطاني", "British Resident", "سلطان بيراك", "Sultan Perak", "إيبوه", "Ipoh", "وادي كينتا", "Lembah Kinta", "خام القصدير", "وادي لينغونغ", "Lembah Lenggong", "الجمعية التشريعية لولاية بيراك"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'مبنى محطة قطار إيبوه الأبيض ذو القبّة من الحقبة الاستعمارية بأروقته المقنطرة تحت سماء صافية.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في 20 يناير 1874، وُقّعت معاهدة في المياه القريبة من جزيرة بانغكور. لم يتنازل

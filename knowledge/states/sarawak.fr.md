@@ -77,6 +77,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaisie", "Sarawak Malaysia", "Kuching", "pétrole et gaz de Sarawak", "Accord de la Malaisie 1963", "forêt tropicale de Bornéo"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'Le bâtiment de l''Assemblée législative de l''État de Sarawak, au toit en parapluie à neuf niveaux, au bord de la rivière Sarawak brunâtre, avec une barque en bois passant devant.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sarawak, c'est la Malaisie dans une autre tonalité. C'est de loin le plus grand

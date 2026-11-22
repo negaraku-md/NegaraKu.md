@@ -76,6 +76,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'குச்சிங்கில் பழுப்பு நிற சரவாக் நதிக்கு அருகில் ஒன்பது அடுக்கு குடை வடிவ கூரையுடைய சரவாக் மாநில சட்டமன்ற கட்டிடம், அதன் முன் ஒரு மரப் படகு கடந்து செல்கிறது.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 சரவாக் என்பது வேறொரு தொனியில் அமைந்த மலேசியா. நிலப்பரப்பளவில்

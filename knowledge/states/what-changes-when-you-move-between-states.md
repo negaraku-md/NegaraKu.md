@@ -77,6 +77,13 @@ entity: "Relocating between Malaysian states"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'Cars on a multi-lane expressway passing green overhead direction signs for Kuala Lumpur, Melaka and Johor towns, beside oil-palm plantations and hills.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Moving house within Malaysia feels as though it should trigger a mountain of re-registration — new documents, new numbers, a fresh start with every agency. For the most part it does not. The reason is structural: **most of the things that feel official about your life in Malaysia are federal**, and federal systems work the same in every state, so they simply follow you. What actually changes is a smaller, more local layer — and knowing which is which turns a daunting move into a short checklist.

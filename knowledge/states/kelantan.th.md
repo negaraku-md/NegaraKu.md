@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'พระราชวังอิสตานาจาฮาร์ไม้ดั้งเดิมสีดำและเหลืองที่ประดับประดาอย่างวิจิตรในโกตาบารู มีรถม้าจอดอยู่ที่ลานด้านหน้าที่ปูพื้น'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เศรษฐกิจของมาเลเซียมักถูกเล่าผ่านโรงงาน กลันตันเป็นข้อยกเว้นที่ชัดเจนที่สุด: การผลิตมีสัดส่วนเพียง 4.7% ของผลิตภัณฑ์มวลรวมภายในประเทศของรัฐในปี 2025 — สัดส่วนต่ำที่สุดในบรรดา 13 รัฐ — ขณะที่เกษตรกรรมมีสัดส่วนเกือบหนึ่งในห้า

@@ -113,6 +113,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: '澄んだ空の下、白いドームを持つ植民地時代のイポー鉄道駅舎が、アーチ型の列柱廊を備えている。'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1874年1月20日、パンコール島（Pulau Pangkor）近海で一通の条約が締結された。この文書は領土を割譲するものでも、戦争を宣言するものでもなかった。それはただ一つの新しい役職——その助言に従わなければならない一人の駐在官——を導入したにすぎなかった。

@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'கோட்டா பாருவில் உள்ள அலங்கரிக்கப்பட்ட கருப்பு-மஞ்சள் பாரம்பரிய மரத்தாலான இஸ்தானா ஜாஹர் அரண்மனை, அதன் கல் பதித்த முற்றத்தில் நிறுத்தப்பட்ட குதிரை வண்டியுடன்.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் பொருளாதாரம் பொதுவாகத் தொழிற்சாலைகள் வழியாகவே விவரிக்கப்படுகிறது.

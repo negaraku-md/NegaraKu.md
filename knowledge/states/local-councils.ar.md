@@ -82,6 +82,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["الحكومة المحلية في ماليزيا", "local government Malaysia", "المجلس المحلي", "local council", "مجلس المدينة", "city council", "المجلس البلدي", "municipal council", "مجلس المنطقة", "district council", "Local Government Act 1976", "Act 171", "تعيين أعضاء المجالس", "تعليق الانتخابات المحلية 1965", "local elections suspended 1965", "المجلس الوطني للحكومة المحلية", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: 'مبنى مكاتب كبير تعلوه لافتة ''Majlis Bandaraya Ipoh'' بجانب جناح أبيض على الطراز المينانغكاباوي، مع لوحة اسم المجلس عند المدخل.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 المجلس الذي يصلح أعمدة إنارة شارعك، ويجمع نفاياتك، ويوافق على توسعة جارك، ويرخّص

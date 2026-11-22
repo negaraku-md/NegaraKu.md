@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'La mosquée d''État Sultan Abu Bakar de style victorien et de couleur blanche, avec deux hautes tours de minaret jumelles et des dômes noirs sous un ciel couvert.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 L'économie de Johor est définie par son voisin. En tant qu'État le plus méridional de la

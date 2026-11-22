@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: '짙은 색 목조 스리 므난티 왕궁은 뾰족하게 층을 이룬 미낭카바우식 지붕을 갖추고 푸른 잔디밭 위에 자리하며, 뒤로 붉은 정자와 숲으로 덮인 언덕이 있다.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 다른 여덟 개 말레이 주(州)에서는 「다음 통치자는 누구인가」라는 물음에 계보가 답합니다. 느그리슴빌란(Negeri Sembilan)에서는 네 명의 관습 지도자가 답합니다.

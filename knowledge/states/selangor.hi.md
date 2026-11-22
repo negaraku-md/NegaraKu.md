@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["सेलांगोर मलेशिया", "Selangor Malaysia", "शाह आलम", "पोर्ट क्लांग", "Port Klang", "साइबरजया", "Cyberjaya", "क्लांग घाटी अर्थव्यवस्था"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'शाह आलम में गहरे नीले गोधूलि आकाश के सामने चमकती चार ऊँची मीनारों वाली प्रकाशित नीले गुंबद वाली सुल्तान सलाहुद्दीन अब्दुल अज़ीज़ मस्जिद।'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 सेलांगोर वह राज्य है जिस पर मलेशिया की अर्थव्यवस्था चुपचाप चलती है। यह संघीय राजधानी कुआलालंपुर और प्रशासनिक राजधानी पुत्रजया को पूरी तरह घेरे हुए है, और ये मिलकर क्लांग घाटी बनाते हैं — देश का सबसे बड़ा शहरी और औद्योगिक महानगरीय समूह।

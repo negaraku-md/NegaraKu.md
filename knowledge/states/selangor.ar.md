@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["سلانغور ماليزيا", "شاه عالم", "ميناء كلانغ Port Klang", "سايبرجايا Cyberjaya", "اقتصاد وادي كلانغ", "Selangor Malaysia"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'مسجد السلطان صلاح الدين عبد العزيز المضاء بقبّته الزرقاء ومآذنه الأربع العالية المتوهّجة أمام سماء الغسق الزرقاء الداكنة في شاه علم.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 سلانغور هي الولاية التي يقوم عليها اقتصاد ماليزيا بهدوء. فهي تطوّق بالكامل العاصمة

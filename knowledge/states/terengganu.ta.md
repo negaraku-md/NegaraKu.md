@@ -103,6 +103,13 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'குவாலா தெரெங்கானுவில் நீல வானத்தின் கீழ் பல மெல்லிய மினாரெட்டுகளும் வெள்ளை வரவேற்பு வளைவுவாயிலும் கொண்ட வெள்ளி-தங்க குவிமாடமுடைய கிரிஸ்டல் மசூதி.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 டெரெங்கானு பற்றிய மிகவும் புகழ்பெற்ற இரண்டு விஷயங்கள் ஒன்றுக்கொன்று சுமார் 60

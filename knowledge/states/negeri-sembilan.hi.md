@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["नेगेरी सेम्बिलान", "Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "नेगेरी सेम्बिलान के luak", "सेरेम्बान", "Seremban", "सेरी मेनांती", "मातृवंशीय मिनांगकाबाउ"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'परतदार नुकीली मीनांगकाबाउ छतों वाला गहरे रंग की लकड़ी का सेरी मेनांती राजमहल, हरी घास पर एक लाल मंडप और पीछे वनाच्छादित पहाड़ियों के साथ।'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 अन्य आठ मलय राज्यों में, «अगला उत्तराधिकारी कौन है» इस प्रश्न का उत्तर वंश द्वारा

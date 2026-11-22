@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'มัสยิดสุลต่านซาลาฮุดดินอับดุลอาซิซโดมสีน้ำเงินที่ประดับไฟพร้อมหอมินาเรตสูงสี่หอส่องสว่างตัดกับท้องฟ้ายามพลบค่ำสีน้ำเงินเข้มในชาห์อาลัม'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 สลังงอร์ (Selangor) คือรัฐที่เศรษฐกิจของมาเลเซียพึ่งพิงอยู่อย่างเงียบ ๆ รัฐนี้โอบล้อมเมืองหลวงของสหพันธรัฐอย่างกัวลาลัมเปอร์และเมืองหลวงด้านการบริหารอย่างปุตราจายาไว้อย่างสมบูรณ์ และทั้งสามแห่งนี้รวมกันเป็นหุบเขากลัง (Lembah Klang) — เขตเมืองและอุตสาหกรรมต่อเนื่องที่ใหญ่ที่สุดในประเทศ

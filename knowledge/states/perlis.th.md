@@ -108,6 +108,13 @@ relations:
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'รวงหญ้าสีทองและนาข้าวสีเขียวที่ทอดยาวไปจนสุดขอบฟ้าราบเรียบใต้ท้องฟ้ากว้างที่มีเมฆมากใกล้กังการ์'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มีคำถามหนึ่งที่ชาวมาเลเซียแทบทุกคนเคยตอบผิด: ใครคือสุลต่านแห่งปะลิส?

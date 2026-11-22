@@ -78,6 +78,13 @@ entity: "Trasladarse entre estados de Malasia"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'Automóviles en una autopista de varios carriles pasando bajo señales verdes de dirección elevadas hacia Kuala Lumpur, Melaka y ciudades de Johor, junto a plantaciones de palma aceitera y colinas.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mudarse de casa dentro de Malasia parece que debería desencadenar una montaña de nuevos trámites: documentos nuevos, números nuevos, empezar de cero con cada organismo. En su mayor parte, no es así. La razón es estructural: **la mayoría de las cosas que parecen oficiales en tu vida en Malasia son federales**, y los sistemas federales funcionan igual en todos los estados, así que simplemente te acompañan. Lo que realmente cambia es una capa más pequeña y más local, y saber cuál es cuál convierte una mudanza intimidante en una lista corta.

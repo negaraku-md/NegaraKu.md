@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "ma63", "sabah", "sarawak", "federal-state-division", "article-153-special-position"]
 keywords: ["Sabah Sarawak safeguards", "immigration autonomy Sabah Sarawak", "Article 161B", "Article 161E", "Article 95B List IIA", "native courts Sabah Sarawak", "Article 112C special grants", "Immigration Act 1959/63 Part VII", "special position of natives", "Federal Constitution Part XIIA"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-safeguards/hero.webp'
+heroAlt: 'Mái cong hình gợn sóng sẫm màu đặc trưng của nhà ga Sân bay Quốc tế Kuching vươn lên trên lối vào và khu vườn dưới bầu trời xanh.'
+heroCredit: 'Medelam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_International_Airport_2024_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bay từ Kuala Lumpur đến Kota Kinabalu hay Kuching và bạn hạ cánh ở Malaysia — cùng một nước, cùng một hộ chiếu, cùng một đồng tiền — và rồi xếp hàng tại một quầy nhập cảnh. Một người Malaysia Bán đảo không thể nêu một lý do chính đáng để có mặt ở đó có thể được cấp một giấy phép giới hạn trong vài tuần, hoặc bị từ chối nhập cảnh. Trạm kiểm soát đó không phải là một điều kỳ quặc của bộ máy quan liêu. Nó là một trong một tập các bảo đảm được ghi vào Hiến pháp Liên bang khi Sabah và Sarawak gia nhập Liên bang vào năm 1963.

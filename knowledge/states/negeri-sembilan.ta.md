@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'அடுக்கான கூரான மினாங்கபாவு கூரைகளைக் கொண்ட கருமை நிற மரத்தாலான ஸ்ரீ மெனந்தி அரச அரண்மனை, பசுமையான புல்வெளியில் ஒரு சிவப்பு மண்டபத்துடனும் பின்னால் காடுகள் நிறைந்த மலைகளுடனும்.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மற்ற எட்டு மலாய் மாநிலங்களில், “அடுத்த ஆட்சியாளர் யார்” என்ற கேள்விக்கு

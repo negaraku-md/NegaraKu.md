@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'Thánh đường Hồi giáo Sultan Salahuddin Abdul Aziz mái vòm xanh được chiếu sáng với bốn tháp minaret cao rực rỡ trên nền trời chạng vạng xanh thẫm ở Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Selangor là bang mà nền kinh tế Malaysia lặng lẽ dựa vào.

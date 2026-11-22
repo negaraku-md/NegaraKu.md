@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: 'スレンバンの所々に雲のある空の下、流れるような凹型の曲線屋根と三本の高いコンクリート製ミナレットを持つ、モダニズム様式の白い州立モスク。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 あなたの州でザカート、宗教寄進（wakaf）、モスクを管理しているのは誰かと問えば、答えはプトラジャヤのどこかの省庁ではない——その州自体の統治者に対して責任を負う、州の法定機関である。その機関が州イスラム宗教評議会（Majlis Agama Islam Negeri、MAIN）であり、それが各州に存在するのは、一つの憲法上の原則に由来する。すなわち、イスラム教事務は連邦の事項ではなく、州の事項であるということである。

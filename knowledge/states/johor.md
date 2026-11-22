@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'Masjid Negeri Sultan Abu Bakar berwarna putih bergaya Victoria dengan dua menara kembar yang tinggi dan kubah hitam di bawah langit mendung.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ekonomi Johor ditakrifkan oleh jirannya. Sebagai negeri paling selatan di

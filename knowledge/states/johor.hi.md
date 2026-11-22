@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "जोहोर", "Johor Bahru", "जोहोर बहरू", "Iskandar Malaysia", "इस्कंदर मलेशिया", "Pengerang petrochemical", "पेंगेरांग पेट्रोरसायन", "Johor Singapore Causeway", "जोहोर सिंगापुर कॉज़वे"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'ऊँची जुड़वाँ मीनारों और काले गुंबदों वाली सफेद विक्टोरियन शैली की सुल्तान अबू बकर राज्य मस्जिद बादल भरे आसमान के नीचे।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जोहोर की अर्थव्यवस्था उसके पड़ोसी से परिभाषित होती है। प्रायद्वीप के सबसे दक्षिणी राज्य के रूप में, यह जोहोर जलडमरूमध्य के पार सीधे सिंगापुर के सामने स्थित है, और वह निकटता उसके श्रम बाज़ार से लेकर उसकी संपत्ति विकास रणनीति तक सब कुछ को आकार देती है।

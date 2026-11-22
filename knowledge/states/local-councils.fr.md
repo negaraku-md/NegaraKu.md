@@ -82,6 +82,13 @@ relations:
 related: ["federal-state-division", "federal-constitution", "kuala-lumpur", "putrajaya", "parliament"]
 keywords: ["gobierno local Malasia", "local government Malaysia", "concejo local", "local council", "concejo de ciudad", "city council", "concejo municipal", "municipal council", "concejo de distrito", "district council", "Local Government Act 1976", "Act 171", "concejales nombrados", "elecciones locales suspendidas 1965", "local elections suspended 1965", "Consejo Nacional de Gobierno Local", "National Council for Local Government"]
 framework: explainer
+hero: '/media/states/local-councils/hero.webp'
+heroAlt: 'Un grand immeuble de bureaux surmonté d''un panneau « Majlis Bandaraya Ipoh », à côté d''un pavillon blanc de style Minangkabau, avec la plaque au nom du conseil à l''entrée.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Le conseil qui répare les lampadaires de votre rue, ramasse vos poubelles, approuve

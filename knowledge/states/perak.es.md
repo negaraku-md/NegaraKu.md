@@ -114,6 +114,13 @@ relations:
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Tratado de Pangkor", "Perjanjian Pangkor", "Residente británico", "British Resident", "Sultán de Perak", "Ipoh", "Valle de Kinta", "mineral de estaño", "Valle de Lenggong", "Asamblea del Estado de Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'El edificio blanco y abovedado de la estación de tren de Ipoh, de la época colonial, con columnatas en arco bajo un cielo despejado.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 El 20 de enero de 1874 se firmó un tratado en las aguas cercanas a la isla de Pangkor.

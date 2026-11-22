@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: 'มัสยิดประจำรัฐสีขาวสไตล์โมเดิร์นที่มีแนวหลังคาโค้งเว้าทอดยาวและหอมินาเรตคอนกรีตสูงสามหอใต้ท้องฟ้าที่มีเมฆบางส่วนในเซอเริมบัน'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ลองถามว่าใครเป็นผู้ดูแลซะกาต วะกัฟ และมัสยิดในรัฐของคุณ และคำตอบไม่ใช่กระทรวงใดในปุตราจายา (Putrajaya) — แต่เป็นหน่วยงานตามกฎหมายของรัฐที่รับผิดชอบต่อผู้ปกครองรัฐนั้นเอง หน่วยงานนั้นคือสภาศาสนาอิสลามประจำรัฐ (Majlis Agama Islam Negeri, MAIN) และการที่มีอยู่ในทุกรัฐมีที่มาจากหลักการทางรัฐธรรมนูญข้อหนึ่ง คือ กิจการศาสนาอิสลามเป็นเรื่องของรัฐ ไม่ใช่ของสหพันธรัฐ

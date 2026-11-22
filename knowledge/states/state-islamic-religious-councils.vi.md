@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: 'Một thánh đường Hồi giáo bang màu trắng theo phong cách hiện đại với những đường mái cong lõm trải rộng và ba tháp minaret bê tông cao dưới bầu trời có mây rải rác ở Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hỏi ai quản lý zakat, wakaf và nhà thờ Hồi giáo ở bang của bạn, và câu trả lời không phải là một bộ ở Putrajaya — mà là một cơ quan theo luật định của bang chịu trách nhiệm trước chính Vương công của bang đó. Cơ quan đó là Hội đồng Tôn giáo Hồi giáo Bang (MAIN), và sự tồn tại của nó ở mỗi bang bắt nguồn từ một nguyên tắc hiến pháp: các vấn đề tôn giáo Hồi giáo là vấn đề của bang, không phải của liên bang.

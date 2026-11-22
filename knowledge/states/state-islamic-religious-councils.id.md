@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: 'Sebuah masjid negara bagian putih bergaya modern dengan garis atap melengkung cekung yang menyapu dan tiga menara beton yang tinggi di bawah langit berawan sebagian di Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tanya siapa yang mengurus zakat, wakaf dan masjid di negeri Anda, dan jawabannya bukan sebuah kementerian di Putrajaya — tetapi sebuah badan statutori negeri yang bertanggung jawab kepada Raja negeri itu sendiri. Badan itu adalah Majlis Agama Islam Negeri (MAIN), dan keberadaannya di setiap negeri berasal dari satu prinsip konstitusional: urusan agama Islam adalah hal negeri, bukan federal.

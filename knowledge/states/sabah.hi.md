@@ -79,6 +79,13 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["सबाह", "Sabah Malaysia", "कोटा किनाबालू", "Kota Kinabalu", "माउंट किनाबालू", "Mount Kinabalu", "मलेशिया समझौता 1963", "Malaysia Agreement 1963", "पवन के नीचे की भूमि", "Land Below the Wind", "सबाह अर्थव्यवस्था", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'नीले आसमान के नीचे वनाच्छादित तलहटी और हरी वृक्ष-चोटियों के ऊपर उठते किनाबालु पर्वत के नुकीले धूसर ग्रेनाइट शिखर।'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 सबाह मलेशिया में किसी देश में शामिल होते हुए एक राज्य के रूप में शामिल नहीं हुआ। यह उन हस्ताक्षरकर्ता क्षेत्रों में से एक के रूप में शामिल हुआ जिन्होंने देश की रचना की — उत्तरी बोर्नियो ने जुलाई 1963 में लंदन में मलय संघ, सरवाक, सिंगापुर और यूनाइटेड किंगडम के साथ मलेशिया समझौते पर हस्ताक्षर किए। वह प्रारंभिक बिंदु आज भी यह आकार देता है कि सबाह को किस प्रकार शासित, वित्त-पोषित किया जाता है और उसके बारे में बात की जाती है, और यही कारण है कि सबाह के प्रोफ़ाइल को एक पर्वत के साथ-साथ एक संधि को भी समेटना होता है।

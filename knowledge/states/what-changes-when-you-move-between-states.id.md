@@ -78,6 +78,13 @@ entity: "Pindah antar negara bagian Malaysia"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'Mobil di jalan tol berlajur banyak melewati rambu arah hijau di atas kepala menuju kota Kuala Lumpur, Melaka, dan Johor, di samping perkebunan kelapa sawit dan perbukitan.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pindah rumah di dalam Malaysia terasa seolah-olah seharusnya memicu segunung pendaftaran ulang — dokumen baru, nomor baru, awal yang segar dengan setiap agensi. Sebagian besarnya tidak begitu. Alasannya bersifat struktural: **sebagian besar hal yang terasa resmi dalam hidup Anda di Malaysia bersifat federal**, dan sistem federal bekerja sama di setiap negara bagian, jadi semuanya cukup ikut Anda. Yang sebenarnya berubah adalah lapisan yang lebih kecil dan lebih lokal — dan mengetahui mana yang mana mengubah perpindahan yang menakutkan menjadi daftar periksa yang singkat.

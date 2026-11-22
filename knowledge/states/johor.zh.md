@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: '阴天下，白色维多利亚风格的苏丹阿布巴卡州立清真寺耸立着高大的双尖塔和黑色圆顶。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 柔佛的经济由它的邻居所定义。作为半岛最南端的州属，它隔着柔佛海峡与新加坡正面相对，而这份邻近性形塑了从劳动市场到房地产发展策略的一切。
