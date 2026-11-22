@@ -64,6 +64,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'Một thảm rừng mưa xanh tươi bạt ngàn phủ kín những ngọn đồi nhấp nhô, mờ dần thành các dãy núi xanh mờ sương phía xa, dưới bầu trời nhợt nhạt u ám.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Vì sao Malaysia là một trong những quốc gia đa dạng sinh học bậc nhất thế giới

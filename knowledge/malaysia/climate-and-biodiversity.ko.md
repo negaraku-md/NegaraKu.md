@@ -63,6 +63,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: '무성한 녹색 열대우림 수관이 완만한 언덕을 온통 뒤덮으며 멀리 흐릿한 푸른 능선으로 사라지고, 그 위로 잔뜩 흐린 희뿌연 하늘이 펼쳐져 있다.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # 말레이시아가 세계에서 손꼽히는 초다양성 국가인 이유

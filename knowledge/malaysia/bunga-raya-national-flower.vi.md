@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'Một bông dâm bụt đỏ rực nở rộ với những cánh hoa gợn sóng và cột nhị hoa trung tâm đầu màu vàng, nổi bật trên nền lá xanh bóng.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bảy loài hoa từng cạnh tranh để đại diện cho một quốc gia vừa mới độc lập — và loài chiến thắng không phải là loài thơm nhất hay hiếm nhất, mà là loài được biết đến nhiều nhất ở mỗi thị trấn và mỗi làng. Đó là bông dâm bụt.

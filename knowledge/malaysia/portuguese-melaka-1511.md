@@ -67,6 +67,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'Pintu gerbang batu Porta de Santiago yang runtuh di kota A Famosa di Melaka, dindingnya daripada laterit dan plaster yang lapuk dimahkotai menara kecil yang reput, dengan meriam gangsa lama berdiri di atas tapak bata di hadapannya.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sepuluh hari. Itulah jarak antara ketibaan angkatan Portugis di perairan Melaka pada 10 Ogos 1511 dan detik kota itu bertukar tangan pada 24 Ogos.

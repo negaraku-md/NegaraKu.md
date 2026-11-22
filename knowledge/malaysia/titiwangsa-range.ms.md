@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Rabung gunung hijau yang berhutan tebal bergelombang menjadi deretan rabung biru yang semakin pudar ke arah ufuk, di bawah langit biru cerah yang bertaburan awan putih.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Jatuhkan sebiji kelapa di sebelah barat sebuah rabung di tengah Perak, dan akhirnya, reputannya akan sampai ke Selat Melaka. Jatuhkan sebiji lagi beberapa ratus meter ke timur, di sebelah rabung yang sama, dan ia akan berakhir di Laut China Selatan. Tiada apa-apa lagi tentang landskap itu yang berubah. Hanya sebelah mana garisan itu ia jatuh.

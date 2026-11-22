@@ -63,6 +63,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Một con sông nhiệt đới rộng màu nâu bùn uốn lượn giữa hai bờ phủ đầy rừng mưa xanh rậm rạp và những bụi sậy cao, dưới bầu trời xanh tươi với mây rải rác.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trước khi có Đường cao tốc Pan Borneo hay các chuyến bay MASwings, cách duy nhất để đến vùng nội địa Sarawak là ngược dòng sông trong nhiều ngày. Các thành phố lớn ngày nay — Sibu, Kapit, Sandakan, Pekan — không tồn tại một cách tình cờ ở vị trí của mỗi thành phố. Mỗi thành phố nằm ở nơi được sông quyết định: ở cửa sông, ở ngã ba nơi hai con sông gặp nhau, hoặc ở điểm xa nhất mà tàu vẫn còn ngược dòng được. Ba con sông — Rajang, Kinabatangan và Pahang — thể hiện khuôn mẫu này rõ ràng nhất.

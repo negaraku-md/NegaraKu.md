@@ -74,6 +74,13 @@ faq:
   - q: Apakah candi di Lembah Bujang masih dalam keadaan asli sejak zaman kuno?
     a: Tidak. Sebagian besar candi yang dapat dikunjungi saat ini telah dibangun kembali (direkonstruksi) oleh para arkeolog berdasarkan reruntuhan aslinya, bukan struktur yang tetap utuh. Candi Bukit Batu Pahat adalah satu-satunya reruntuhan yang direkonstruksi di lokasi aslinya, sementara Candi Pengkalan Bujang kini dibangun kembali di dekat museum. Menurut Arkib Negara Malaysia (Arsip Nasional Malaysia), candi-candi ini diperkirakan dibangun antara abad keempat hingga kedua belas Masehi.
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'Dasar candi batu berundak yang telah dipugar dari balok laterit kemerahan di situs arkeologi Lembah Bujang di Kedah, berdiri di atas halaman rumput terpangkas dengan latar hutan hijau lebat.'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di sebuah dataran rata di dekat Gunung Jerai, di antara sawah padi dan perkebunan kelapa sawit, terdapat batu bata purba yang disusun berabad-abad sebelum Melaka hadir sebagai sebuah pelabuhan. Sebagiannya membentuk fondasi candi Hindu. Sebagian lagi adalah tungku peleburan besi. Tidak ada sultan yang pernah memerintah dari sini yang namanya dikenal hari ini — tetapi apa yang ditinggalkan oleh masyarakat yang membangun candi dan tungku itu menjadikan Lembah Bujang salah satu situs arkeologi paling penting di Asia Tenggara.

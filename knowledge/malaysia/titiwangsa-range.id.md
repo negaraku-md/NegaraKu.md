@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Punggungan gunung hijau berhutan lebat bergelombang menjadi deretan punggungan biru yang semakin pucat ke arah cakrawala, di bawah langit biru cerah bertaburan awan putih.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Jatuhkan sebutir kelapa di sisi barat sebuah punggungan di tengah Perak, dan pada akhirnya, hanyutannya akan sampai ke Selat Melaka. Jatuhkan sebutir lagi beberapa ratus meter ke timur, di sisi punggungan yang sama, dan ia akan berakhir di Laut Tiongkok Selatan. Tidak ada hal lain tentang lanskap itu yang berubah. Hanya di sisi mana garis itu ia jatuh.

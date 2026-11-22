@@ -64,6 +64,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'பசுமையான பச்சை மழைக்காட்டு விதானத்தின் பரந்த விரிப்பு, தொலைவில் மங்கலான நீல முகடுகளாக மறையும் உருளும் குன்றுகளை மூடியிருக்கிறது, மேகமூட்டமான வெளிறிய வானத்தின் கீழ்.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # மலேசியா ஏன் உலகின் மாபெரும் பல்லுயிர்த்தன்மை (megadiverse) கொண்ட நாடுகளில் ஒன்றாக உள்ளது

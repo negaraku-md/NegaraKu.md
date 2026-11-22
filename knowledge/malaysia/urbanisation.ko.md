@@ -76,6 +76,13 @@ faq:
   - q: 말레이시아의 도시 성장은 대부분 어디에 집중되었습니까?
     a: 클랑밸리(Klang Valley)입니다. 2020년 인구조사에서 인접한 네 개 구 — 쿠알라룸푸르(1,982,112), 페탈링(2,298,130), 울루랑앗(1,400,461), 클랑(1,088,942) — 이 합쳐서 약 677만 명을 차지했으며, 이는 3,240만 명인 전국 인구의 5분의 1을 넘습니다. 슬랑오르는 현재 6,994,423명으로 인구가 가장 많은 주이며 도시화율이 95.8%인 반면, 클란탄은 44.1%로 도시화가 가장 덜 된 주입니다.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: '쿠알라룸푸르의 빽빽한 도시 스카이라인을 넓게 담은 전경으로, 밝고 구름 낀 하늘 아래 바늘처럼 뾰족한 KL 타워(므나라 KL), 빽빽이 들어선 고층 빌딩들, 푸른 모스크 돔이 녹색 나무 꼭대기 위로 솟아 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## 이제 말레이시아인 네 명 중 세 명은 DOSM이 "도시"라 부르는 곳에 산다

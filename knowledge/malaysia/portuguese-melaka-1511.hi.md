@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["मलक्का का पतन 1511", "fall of Melaka 1511", "Afonso de Albuquerque", "अफोंसो दी अल्बुकर्क", "पुर्तगाली मलक्का", "Portuguese Melaka", "A Famosa", "दक्षिण-पूर्व एशिया में यूरोपीय उपनिवेशीकरण", "जोहोर सल्तनत 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'मलक्का में ए फ़ामोसा किले का खंडहर पत्थर का द्वार पोर्टा दे सैंटियागो, जिसकी अपक्षयित लैटेराइट-और-प्लास्टर की दीवार पर एक जर्जर बुर्ज है, और उसके सामने ईंट के चबूतरे पर एक पुरानी काँसे की तोप खड़ी है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 दस दिन। यही वह अंतर है जो 10 अगस्त 1511 को मलक्का के जलक्षेत्र में पुर्तगाली बेड़े के आगमन और 24 अगस्त को शहर के हाथ बदलने के बीच का है।

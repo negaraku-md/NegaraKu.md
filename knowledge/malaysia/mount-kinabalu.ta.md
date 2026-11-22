@@ -58,6 +58,13 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'கினபாலு மலையின் அகலமான சாம்பல் நிற கிரானைட் உச்சி முடி, அதன் முகடு கூர்மையான பாறை முனைகளால் நிறைந்து, பச்சை காடுகள் நிறைந்த குன்றுகள் மற்றும் மரங்களின் வரிசைக்கு மேல் தெளிவான நீல வானத்தின் கீழ் உயர்ந்து நிற்கிறது.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பல பத்தாண்டுகளாக, ஒவ்வொரு குறிப்பு நூலும் ஒரே எண்ணிக்கையையே தந்தன: மலேசியாவின் உயரிய சிகரமான கினபாலு மலை, கடல் மட்டத்திலிருந்து 4,101 மீட்டர் உயரத்தில் நின்றது. பின்னர் 1997 இல், ஒரு அளவீட்டுக் குழு தியோடோலைட்டுகளுக்குப் பதிலாக செயற்கைக்கோள்களைச் சிகரத்தை நோக்கித் திருப்பியது, அந்த எண்ணிக்கை மாறியது. முழுமையாக்கும் பிழையால் அல்ல — ஆறு மீட்டரால். மலை சுருங்கிவிடவில்லை. பழைய அளவீடு வெறுமனே தவறாக இருந்தது; GPS இந்தத் திருத்தத்தைச் சாத்தியமாக்கும் வரை அதை நிரூபிக்கும் கருவி யாரிடமும் இருக்கவில்லை.

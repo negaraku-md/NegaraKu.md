@@ -77,6 +77,13 @@ faq:
   - q: Phần lớn tăng trưởng đô thị của Malaysia tập trung ở đâu?
     a: Ở Thung lũng Klang (Klang Valley). Tại cuộc Tổng điều tra dân số 2020, bốn quận giáp nhau — Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461) và Klang (1.088.942) — cùng nhau có khoảng 6,77 triệu người, hơn một phần năm dân số cả nước là 32,4 triệu người. Selangor hiện là bang đông dân nhất với 6.994.423 người và có mức đô thị hóa 95,8%, trong khi Kelantan, ở mức 44,1%, là bang ít đô thị hóa nhất.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Tầm nhìn rộng về đường chân trời dày đặc của thành phố Kuala Lumpur dưới bầu trời sáng nhiều mây, với Tháp KL đỉnh nhọn hình kim, những tòa nhà chọc trời san sát và mái vòm xanh của một thánh đường Hồi giáo vươn lên trên những tán cây xanh.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## Cứ ba trong bốn người Malaysia nay sống ở một nơi mà DOSM gọi là "đô thị"

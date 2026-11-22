@@ -63,6 +63,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'Un vaste tapis de canopée de forêt tropicale d''un vert luxuriant recouvrant des collines ondulantes qui s''estompent en crêtes bleutées et brumeuses au loin, sous un ciel pâle et couvert.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Pourquoi la Malaisie est l'un des pays mégadivers du monde

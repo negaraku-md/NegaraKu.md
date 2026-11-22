@@ -62,6 +62,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Sungai tropika yang luas berwarna perang berlumpur berliku antara tebing yang dipenuhi hutan hujan hijau tebal dan rumpun buluh tinggi, di bawah langit biru cerah dengan awan berselerak.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebelum ada Lebuhraya Pan Borneo atau penerbangan MASwings, cara satu-satunya untuk sampai ke pedalaman Sarawak ialah menyusuri sungai selama berhari-hari. Bandar-bandar besar hari ini — Sibu, Kapit, Sandakan, Pekan — bukan wujud secara kebetulan di lokasi masing-masing. Setiap satu duduk di tempat yang ditentukan oleh sungai: di muara, di simpang pertemuan dua sungai, atau di titik terjauh yang masih boleh dimudiki kapal. Tiga sungai — Rajang, Kinabatangan dan Pahang — menunjukkan corak ini paling jelas.

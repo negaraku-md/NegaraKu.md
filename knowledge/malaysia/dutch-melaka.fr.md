@@ -75,6 +75,13 @@ faq:
   - q: Malacca est-elle passée des Néerlandais aux Britanniques en une seule passation nette ?
     a: Non. Elle a changé de mains administrativement quatre fois en trente ans. La Grande-Bretagne occupa Malacca en 1795 en vertu des Lettres de Kew (Kew Letters) pour la soustraire à la France, Malacca fut restituée aux Néerlandais en 1818, le Traité anglo-néerlandais de 1824 (signé le 17 mars 1824) la céda définitivement à la Grande-Bretagne en échange de Bencoolen à Sumatra, et le transfert effectif prit effet le 1er mars 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'Le Stadthuys (hôtel de ville colonial néerlandais) d''un rouge profond et sa tour de l''horloge rouge sur la Place Hollandaise à Malacca, avec un rond-point fleuri et un poteau indicateur de directions devant.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Une compagnie consacre sept mois et une alliance avec un sultanat étranger à conquérir un port. Puis elle passe le siècle et demi suivant à veiller à ce que ce port ne s'enrichisse jamais.

@@ -75,6 +75,13 @@ faq:
   - q: 马六甲是在一次干净利落的交接中从荷兰人转交给英国人的吗？
     a: 不是。它在三十年间行政上四次易手。英国于1795年根据《基尤信函》（Kew Letters）占领马六甲，以防其落入法国之手；1818年马六甲归还荷兰；1824年的《英荷条约》（于1824年3月17日签署）将其永久割让给英国，以换取苏门答腊的明古连（Bencoolen）；而实际移交于1825年3月1日生效。
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: '马六甲荷兰红屋广场上深红色的荷兰殖民时期建筑红屋（Stadthuys）及其红色钟楼，前方有一座繁花似锦的环岛和一根指路标牌。'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一家公司花了七个月时间，并与一个外国苏丹国结盟，才征服了一座港口。此后，它又花了接下来的一个半世纪，确保这座港口永远无法致富。

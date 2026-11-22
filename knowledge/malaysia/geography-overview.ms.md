@@ -75,6 +75,13 @@ faq:
   - q: Mengapa kebanyakan rakyat Malaysia tinggal berhampiran pantai berbanding pedalaman?
     a: Setiap jisim daratan didominasi oleh tulang belakang gunung di tengah — Banjaran Titiwangsa di Semenanjung, Banjaran Crocker di Sabah — yang diapit hanya oleh dataran pantai yang sempit. Tanah tinggi itu menolak penempatan keluar ke dataran pantai dan lembah sungai, meninggalkan pedalaman bergunung yang kurang penduduk. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Melaka, menampung kebanyakan penduduknya dan bandar-bandar terbesar seperti Kuala Lumpur dan George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Pemandangan udara dataran pantai tropika tempat sungai berliku mengalir ke laut, dengan pekan dan petak ladang terbentang ke pedalaman serta tanah tebus guna pucat di pinggir pantai di bawah awan berselerak.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan anda melintasi lebih daripada sekadar sempadan dalaman — anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan merentasi dua daratan yang berasingan, dan hakikat bentuk muka bumi yang mudah ini telah senyap-senyap menentukan hampir segala-galanya yang lain: di mana bandar-bandar berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Disember.

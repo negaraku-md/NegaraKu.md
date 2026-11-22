@@ -63,6 +63,13 @@ keywords:
   - "MyBIS"
 sourceContentHash: "9a6c3f25f0c58105"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: '一片广袤葱郁的绿色雨林树冠覆盖着起伏的山丘，远处渐渐隐入朦胧的蓝色山峦，上方是阴云密布的灰白天空。'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # 为什么马来西亚是世界超多样性国家之一

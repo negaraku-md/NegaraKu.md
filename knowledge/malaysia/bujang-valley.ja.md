@@ -73,6 +73,13 @@ faq:
   - q: ブジャン渓谷のチャンディ（candi、寺院）は、古代以来そのままの状態で残っているのですか?
     a: いいえ。今日見学できるチャンディの多くは、無傷のまま残った構造物ではなく、元の遺構に基づいて考古学者によって建て直された（再建された）ものです。チャンディ・ブキット・バトゥ・パハット（Candi Bukit Batu Pahat）は元の場所で再建された唯一の遺構であり、一方チャンディ・プンカラン・ブジャン（Candi Pengkalan Bujang）は現在、博物館の近くに建て直されています。マレーシア国立公文書館（Arkib Negara Malaysia）によると、これらのチャンディは紀元4世紀から12世紀の間に建てられたと推定されています。
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'ケダ州のブジャン渓谷（レンバ・ブジャン）遺跡にある、赤みがかったラテライトの石を積んだ修復された階段状の寺院基壇で、刈り込まれた芝生の上に置かれ、背後には鬱蒼とした緑のジャングルが広がっている。'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ジュライ山近くの平坦な土地に、水田と油ヤシ農園の間に、マラッカが港として存在するようになるより何世紀も前に積まれた古代の煉瓦が横たわっている。あるものはヒンドゥー教チャンディの基壇を成し、あるものは製鉄用の炉である。ここを治めたスルタンで、その名が今日知られている者は一人もいない——しかしチャンディと炉を築いた人々が残したものが、ブジャン渓谷を東南アジアで最も重要な考古遺跡の一つにしている。

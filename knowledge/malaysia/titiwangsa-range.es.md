@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["cordillera de Titiwangsa", "Banjaran Titiwangsa", "cordillera principal de Malasia", "montañas de la Malasia peninsular", "línea divisoria de aguas de Malasia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Densas cadenas montañosas verdes y boscosas que se suceden en crestas cada vez más azuladas hacia el horizonte, bajo un cielo azul brillante salpicado de nubes blancas.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Deje caer un coco en el lado oeste de una cresta en el centro de Perak y, con el tiempo, su putrefacción llegará al estrecho de Malaca. Déjelo caer unos cientos de metros al este, al otro lado de la misma cresta, y acaba en el mar de China Meridional. Nada más del paisaje cambia. Solo el lado de la línea en el que cayó.

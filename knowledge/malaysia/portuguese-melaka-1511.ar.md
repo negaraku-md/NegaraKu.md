@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["سقوط ملقا 1511", "fall of Melaka 1511", "Afonso de Albuquerque", "أفونسو دي ألبوكيرك", "ملقا البرتغالية", "Portuguese Melaka", "A Famosa", "الاستعمار الأوروبي في جنوب شرق آسيا", "سلطنة جوهور 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'بوابة بورتا دي سانتياغو الحجرية المتهدّمة لحصن إيه فاموسا في ملقا، يعلو جدارها المتآكل المصنوع من اللاتريت والجص برجٌ متداعٍ، وأمامها مدفع برونزي قديم ينتصب على قاعدة من الطوب.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 عشرة أيام. ذلك هو الفارق بين وصول الأسطول البرتغالي إلى مياه ملقا في 10 أغسطس 1511 ولحظة انتقال المدينة إلى أيدٍ أخرى في 24 أغسطس.

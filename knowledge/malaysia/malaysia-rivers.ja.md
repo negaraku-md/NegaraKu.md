@@ -61,6 +61,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: '幅広い泥色の熱帯の川が、鬱蒼とした緑の熱帯雨林と背の高い葦に縁取られた岸の間を曲がりくねって流れ、まばらな雲が浮かぶ鮮やかな青空が広がっている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 パン・ボルネオ・ハイウェイやMASwingsの航空便が登場する以前、サラワク内陸部に至る唯一の方法は、何日もかけて川をさかのぼることだった。今日の大きな町——シブ、カピット、サンダカン、ペカン——は、偶然その場所に存在しているのではない。それぞれの町は、川によって定められた場所に位置している——河口、二つの川が合流する地点、あるいは船が航行できる最も遠い地点である。ラジャン川、キナバタンガン川、パハン川という三つの川が、この規則性を最もはっきりと示している。

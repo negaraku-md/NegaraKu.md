@@ -77,6 +77,13 @@ faq:
   - q: Di manakah sebahagian besar pertumbuhan bandar Malaysia tertumpu?
     a: Di Lembah Klang. Pada Banci 2020, empat daerah bersebelahan — Kuala Lumpur (1,982,112), Petaling (2,298,130), Ulu Langat (1,400,461) dan Klang (1,088,942) — bersama-sama menempatkan kira-kira 6.77 juta orang, lebih daripada satu perlima daripada populasi negara seramai 32.4 juta. Selangor kini merupakan negeri yang paling ramai penduduk dengan 6,994,423 orang dan 95.8% bandar, manakala Kelantan, pada 44.1%, merupakan negeri yang paling kurang diurbanisasi.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Pemandangan luas kaki langit bandar Kuala Lumpur yang padat di bawah langit cerah berawan, dengan Menara KL berhujung jarum, pencakar langit berkelompok dan kubah masjid biru menjulang di atas puncak pokok hijau.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## Tiga daripada empat rakyat Malaysia kini tinggal di tempat yang digelar "bandar" oleh DOSM

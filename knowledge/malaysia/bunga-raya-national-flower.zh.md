@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: '一朵鲜艳的红色大红花盛开，花瓣边缘呈波状褶皱，中央的雄蕊柱顶端呈黄色，映衬在光亮的绿叶之前。'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 七种花卉曾竞相代表一个刚刚独立的国家——而胜出的既不是最芳香的，也不是最稀有的，而是每一个市镇和乡村都最熟悉的那一种。那就是大红花。

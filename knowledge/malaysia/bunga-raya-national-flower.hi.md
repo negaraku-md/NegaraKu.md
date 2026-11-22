@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["बुंगा राया", "राष्ट्रीय पुष्प", "गुड़हल", "हिबिस्कस", "Hibiscus rosa-sinensis", "मलेशिया के राष्ट्रीय प्रतीक", "रुकुन नेगारा", "Rukun Negara", "तुंकू अब्दुल रहमान", "bunga raya", "national flower Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'पूरी तरह खिला हुआ एक चमकीला लाल गुड़हल का फूल, जिसकी पंखुड़ियाँ झालरदार हैं और बीच में पीले सिरे वाला पुंकेसर-स्तंभ है, चमकदार हरी पत्तियों की पृष्ठभूमि में।'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 कभी सात प्रकार के फूलों ने एक नवस्वतंत्र राष्ट्र का प्रतिनिधित्व करने की होड़ की थी — और विजेता सबसे सुगंधित या सबसे दुर्लभ नहीं था, बल्कि वह था जो हर कस्बे और गाँव में सबसे परिचित था। वह फूल है बुंगा राया, यानी गुड़हल।

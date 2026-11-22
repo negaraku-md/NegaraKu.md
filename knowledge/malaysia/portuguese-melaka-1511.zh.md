@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["1511年马六甲陷落", "阿丰索·德·阿尔布克尔克", "葡属马六甲", "A Famosa", "欧洲殖民马来群岛", "1528年柔佛苏丹国"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: '马六甲甲必丹堡（A Famosa）残存的石砌圣地亚哥城门（Porta de Santiago），风化的红土与灰泥城墙上残留着一座破败的塔楼，墙前的砖砌基座上立着一门古老的青铜大炮。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 十天。这就是葡萄牙舰队于1511年8月10日抵达马六甲海域，到这座城市于8月24日易手之间的时间差。

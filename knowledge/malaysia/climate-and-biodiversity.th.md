@@ -64,6 +64,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'ผืนป่าฝนเรือนยอดเขียวขจีกว้างใหญ่ปกคลุมเนินเขาที่ลดหลั่น ค่อยๆ เลือนหายไปเป็นแนวสันเขาสีฟ้าขมุกขมัวในระยะไกล ภายใต้ท้องฟ้าซีดครึ้มมืดครึ้ม'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # เหตุใดมาเลเซียจึงเป็นหนึ่งในประเทศที่มีความหลากหลายทางชีวภาพสูงยิ่งของโลก

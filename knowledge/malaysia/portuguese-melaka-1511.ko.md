@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: '믈라카에 있는 아 파모사 요새의 허물어진 돌문인 포르타 데 산티아고로, 풍화된 라테라이트와 회반죽 벽 위에 무너져가는 작은 탑이 얹혀 있고, 그 앞 벽돌 받침대 위에 오래된 청동 대포가 놓여 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 열흘. 그것이 1511년 8월 10일 포르투갈 함대가 말라카(Melaka) 앞바다에 도착한 순간과, 8월 24일 이 도시가 손이 바뀐 순간 사이의 간격입니다.

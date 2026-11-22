@@ -6357,5 +6357,149 @@
       "alt": "The high-rise skyline of Kuala Lumpur's city centre, Malaysia's main financial district, dominated by the Petronas Twin Towers.",
       "position": "centre"
     }
+  },
+  "malaysia/mount-kinabalu": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gunung_Kinabalu_Sabah.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Angah hfz",
+      "page": "https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg",
+      "kind": "actual",
+      "subject": "Mount Kinabalu, Sabah, Malaysia's highest peak, seen from the foothills with its full serrated granite summit massif rising above forested slopes.",
+      "alt": "The broad grey granite summit crown of Mount Kinabalu, its ridge studded with jagged pinnacles, towering over green forested hills and a line of trees under a clear blue sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/titiwangsa-range": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Peak_of_Banjaran_Titiwangsa.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Fahmi Rosli",
+      "page": "https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg",
+      "kind": "actual",
+      "subject": "The forested ridges of the Titiwangsa Range, the mountainous backbone of peninsular Malaysia, receding into layered blue ridgelines.",
+      "alt": "Densely forested green mountain ridges rolling into successive paler blue ridgelines toward the horizon, under a bright blue sky dotted with white clouds.",
+      "position": "attention"
+    }
+  },
+  "malaysia/malaysia-rivers": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg",
+      "kind": "actual",
+      "subject": "The broad, silt-brown Kinabatangan River at Bilit, Sabah, flanked by rainforest and riverine vegetation.",
+      "alt": "A wide muddy-brown tropical river curving between banks lined with dense green rainforest and tall reeds, beneath a bright blue sky with scattered clouds.",
+      "position": "attention"
+    }
+  },
+  "malaysia/climate-and-biodiversity": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Taman_Negara_from_Bukit_Terisek.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Danielt.",
+      "page": "https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg",
+      "kind": "actual",
+      "subject": "Unbroken tropical rainforest canopy stretching to the horizon over the hills of Taman Negara, Malaysia, viewed from Bukit Terisek.",
+      "alt": "A vast carpet of lush green rainforest canopy covering rolling hills that fade into hazy blue ridges in the distance, under an overcast pale sky.",
+      "position": "south"
+    }
+  },
+  "malaysia/portuguese-melaka-1511": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Melaka_Malaysia_A-Famosa-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg",
+      "kind": "actual",
+      "subject": "The surviving Porta de Santiago gateway of the A Famosa fortress in Melaka, a weathered stone gate topped by a ruined turret, with an old bronze cannon mounted on a brick plinth in front under a blue sky.",
+      "alt": "The ruined stone Porta de Santiago gate of the A Famosa fortress in Melaka, its weathered laterite-and-plaster wall topped by a crumbling turret, an old bronze cannon standing on a brick base before it.",
+      "position": "attention"
+    }
+  },
+  "malaysia/dutch-melaka": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Stadthuys_Melaka.jpg",
+      "license": "CC BY 4.0",
+      "by": "Philip Nalangan",
+      "page": "https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg",
+      "kind": "actual",
+      "subject": "The red-painted Dutch colonial Stadthuys building and its red clock tower at Dutch Square in Melaka, fronted by a landscaped roundabout of flowers and topiary.",
+      "alt": "The deep-red Dutch colonial Stadthuys and its red clock tower at Dutch Square in Melaka, with a flower-filled roundabout and directional signpost in front.",
+      "position": "attention"
+    }
+  },
+  "malaysia/bujang-valley": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/006_Bujang_Valley_Candi.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Anandajoti Bhikkhu",
+      "page": "https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg",
+      "kind": "actual",
+      "subject": "A restored stepped candi temple base of reddish laterite blocks at the Bujang Valley (Lembah Bujang) archaeological site in Kedah, standing on a lawn against dense green rainforest.",
+      "alt": "A restored stepped stone temple base of reddish laterite blocks at the Bujang Valley archaeological site in Kedah, set on a trimmed lawn backed by thick green jungle.",
+      "position": "attention"
+    }
+  },
+  "malaysia/geography-overview": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Unknown_malaysia.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Arne Müseler / arne-mueseler.de",
+      "page": "https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg",
+      "kind": "representative",
+      "subject": "An aerial view of a Malaysian coastal plain where a winding river meets the sea, with dense towns and farmland inland and reclaimed land and mudflats along the shoreline.",
+      "alt": "An aerial view of a tropical coastal plain where a winding river empties into the sea, towns and farm plots spreading inland and pale reclaimed land edging the shoreline beneath scattered clouds.",
+      "position": "attention"
+    }
+  },
+  "malaysia/bunga-raya-national-flower": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Red_Hibiscus_Flower_1.jpg",
+      "license": "CC BY 4.0",
+      "by": "Brahmavadini",
+      "page": "https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg",
+      "kind": "actual",
+      "subject": "A close-up of a red hibiscus (Hibiscus rosa-sinensis) bloom on its shrub, the species that is Malaysia's national flower, Bunga Raya.",
+      "alt": "A vivid red hibiscus flower in full bloom with ruffled petals and a yellow-tipped central stamen column, set against glossy green leaves.",
+      "position": "attention"
+    }
+  },
+  "malaysia/urbanisation": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kuala_Lumpur_Malaysia_Skyline-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg",
+      "kind": "actual",
+      "subject": "The dense daytime skyline of Kuala Lumpur, Malaysia, with the Menara KL (KL Tower), high-rise towers and the blue-domed National Mosque amid green parkland.",
+      "alt": "A wide view of Kuala Lumpur's dense city skyline under a bright cloudy sky, with the needle-topped KL Tower, clustered skyscrapers and a blue mosque dome rising above green treetops.",
+      "position": "attention"
+    }
+  },
+  "settling-in/autogate-and-myborderpass": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Germany_Munich_Airport_EasyPASS_gates.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "by": "Devilfighter_de; derivative work by Bonus bon",
+      "page": "https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg",
+      "kind": "representative",
+      "subject": "A row of automated self-service electronic passport gates (e-gates) in an airport immigration hall.",
+      "alt": "A row of automated self-service passport e-gates with glass barriers and scanning kiosks in a bright airport immigration hall.",
+      "position": "attention"
+    }
+  },
+  "settling-in/immigration-department-jim": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-%282%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "AcMY01",
+      "page": "https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg",
+      "kind": "actual",
+      "subject": "The headquarters building of the Immigration Department of Malaysia (Jabatan Imigresen Malaysia) in Putrajaya, with its signage, department crest and flags.",
+      "alt": "The tall ornate facade of the Immigration Department of Malaysia headquarters in Putrajaya, bearing the Jabatan Imigresen Malaysia name and departmental crest, with flags flying above the entrance.",
+      "position": "centre"
+    }
   }
 }

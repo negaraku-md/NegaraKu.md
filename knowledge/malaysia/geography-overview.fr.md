@@ -75,6 +75,13 @@ faq:
   - q: Pourquoi la plupart des Malaisiens vivent-ils près des côtes plutôt qu'à l'intérieur des terres ?
     a: Chaque masse continentale est dominée par une épine dorsale montagneuse centrale — la chaîne de Titiwangsa dans la Péninsule, la chaîne de Crocker au Sabah — flanquée seulement d'étroites plaines côtières. Ces hautes terres repoussent le peuplement vers l'extérieur, vers les plaines côtières et les vallées fluviales, laissant l'intérieur montagneux peu peuplé. La plaine abritée de la côte ouest de la Péninsule, apaisée par le détroit de Malacca, abrite la majeure partie de sa population et ses plus grandes villes, comme Kuala Lumpur et George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Une vue aérienne d''une plaine côtière tropicale où une rivière sinueuse se jette dans la mer, villes et parcelles agricoles s''étendant vers l''intérieur et des terres gagnées sur la mer, de teinte claire, bordant le rivage sous des nuages épars.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Envolez-vous vers Kuala Lumpur depuis Kota Kinabalu et vous franchirez plus qu'une frontière intérieure : vous franchirez plusieurs centaines de kilomètres de haute mer. La Malaisie est un seul pays agrafé à travers deux masses continentales distinctes, et ce simple fait de forme a décidé en silence presque tout le reste : où sont les villes, où sont les rizières et quelle côte s'inonde chaque décembre.

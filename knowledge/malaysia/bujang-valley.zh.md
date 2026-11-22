@@ -74,6 +74,13 @@ faq:
   - q: 武吉巴也谷的candi（庙宇）自古以来是否仍保持原状？
     a: 没有。如今可以参观的大多数candi都是由考古学家根据原始遗迹重建（复原）的，而不是保持完好的原有结构。武吉峇都巴辖庙（Candi Bukit Batu Pahat）是唯一在其原址上重建的遗迹，而彭加兰武吉庙（Candi Pengkalan Bujang）现已在博物馆附近重建。根据马来西亚国家档案馆（Arkib Negara Malaysia），这些candi估计建于公元四世纪至十二世纪之间。
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: '吉打州布央谷（Lembah Bujang）考古遗址上一座修复后的红土石块阶梯式寺庙台基，坐落在修剪整齐的草坪上，背后是茂密的绿色丛林。'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在Gunung Jerai附近的一片平原上，稻田与油棕园之间，散布着比马六甲成为港口还早数百年砌成的古砖。有些砖块构成了印度教庙宇的基座，有些则是冶铁用的炼炉。曾在此统治的苏丹，如今已无人能叫出名字——但建造这些庙宇与炼炉的社群所留下的痕迹，使布秧谷成为东南亚最重要的考古遗址之一。

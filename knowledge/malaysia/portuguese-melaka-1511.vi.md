@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'Cổng đá Porta de Santiago đổ nát của pháo đài A Famosa ở Melaka, bức tường laterit và vữa phong hóa phía trên là một tháp canh nhỏ đang sụp đổ, một khẩu đại bác đồng cũ đặt trên bệ gạch phía trước.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mười ngày. Đó là khoảng cách giữa việc đạo quân Bồ Đào Nha đến vùng biển Melaka vào ngày 10 tháng 8 năm 1511 và thời khắc thành đó đổi chủ vào ngày 24 tháng 8.

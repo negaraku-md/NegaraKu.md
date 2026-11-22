@@ -58,6 +58,13 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'La amplia corona de granito gris de la cima del monte Kinabalu, con su cresta salpicada de agujas dentadas, alzándose sobre verdes colinas boscosas y una hilera de árboles bajo un cielo azul despejado.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Durante décadas, cada libro de referencia daba el mismo número: el Monte Kinabalu, la cima más alta de Malasia, se alzaba 4,101 metros sobre el nivel del mar. Luego, en 1997, un equipo de topografía apuntó satélites hacia la cumbre en lugar de teodolitos, y el número cambió. No por un error de redondeo — por seis metros. La montaña no había encogido. La medición antigua simplemente había estado equivocada, y nadie había tenido la herramienta para demostrarlo hasta que el GPS hizo posible la corrección.

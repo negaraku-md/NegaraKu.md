@@ -63,6 +63,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'Una vasta alfombra de exuberante dosel de selva verde que cubre colinas onduladas desvaneciéndose en crestas azuladas y brumosas a lo lejos, bajo un cielo pálido y nublado.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Por qué Malasia es uno de los países megadiversos del mundo

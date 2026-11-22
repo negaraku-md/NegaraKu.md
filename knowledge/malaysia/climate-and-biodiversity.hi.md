@@ -65,6 +65,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'लहरदार पहाड़ियों को ढकती हरी-भरी वर्षावन-छत्र की एक विशाल चादर, जो दूरी में धुंधली नीली पर्वत-रेखाओं में विलीन होती है, धुँधले पीले आकाश के नीचे।'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # मलेशिया विश्व के महा-जैवविविध देशों में से एक क्यों है

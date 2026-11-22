@@ -75,6 +75,13 @@ faq:
   - q: ¿Por qué la mayoría de los malasios vive cerca de las costas en lugar del interior?
     a: Cada masa de tierra está dominada por una espina montañosa central —la cordillera de Titiwangsa en la Península, la cordillera de Crocker en Sabah— flanqueada solo por estrechas llanuras costeras. Esas tierras altas empujan el asentamiento hacia afuera, hacia las llanuras costeras y los valles fluviales, y dejan el interior montañoso poco poblado. La resguardada llanura de la costa oeste de la Península, calmada por el estrecho de Malaca, alberga a la mayor parte de su población y a las ciudades más grandes, como Kuala Lumpur y George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Una vista aérea de una llanura costera tropical donde un río sinuoso desemboca en el mar, con pueblos y parcelas de cultivo extendiéndose hacia el interior y terrenos ganados al mar de tono claro bordeando la costa bajo nubes dispersas.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vuele a Kuala Lumpur desde Kota Kinabalu y cruzará algo más que una frontera interna: cruzará varios cientos de kilómetros de mar abierto. Malasia es un solo país grapado a través de dos masas de tierra separadas, y ese simple hecho de forma ha decidido en silencio casi todo lo demás: dónde están las ciudades, dónde están los arrozales y qué costa se inunda cada diciembre.

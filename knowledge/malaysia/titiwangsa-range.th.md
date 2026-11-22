@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'สันเขาเขียวขจีปกคลุมด้วยป่าทึบทอดต่อเนื่องเป็นแนวสันเขาสีฟ้าจางลงไล่ระดับสู่เส้นขอบฟ้า ภายใต้ท้องฟ้าสีครามสดใสที่มีเมฆขาวประปราย'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทิ้งมะพร้าวลงบนด้านตะวันตกของสันเขาในเประตอนกลาง แล้วในที่สุดการเน่าของมันจะไปถึงช่องแคบมะละกา ทิ้งอีกลูกห่างไปทางตะวันออกไม่กี่ร้อยเมตร บนอีกด้านของสันเขาเดียวกัน แล้วมันจะลงเอยในทะเลจีนใต้ ไม่มีอะไรอื่นเกี่ยวกับภูมิทัศน์เปลี่ยนไป เพียงว่ามันตกบนด้านใดของเส้น

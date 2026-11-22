@@ -67,6 +67,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'マラッカのア・ファモサ要塞の崩れ落ちた石造りのサンチャゴ門（ポルタ・デ・サンチャゴ）で、風化したラテライトと漆喰の壁の上に崩れかけた小塔が載り、その手前のレンガ台座に古い青銅の大砲が据えられている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 十日間。これが、ポルトガル艦隊が1511年8月10日にマラッカ海域へ到着してから、8月24日にこの都市が陥落するまでの間隔である。

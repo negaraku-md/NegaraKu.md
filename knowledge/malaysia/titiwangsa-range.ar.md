@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["سلسلة تيتيوانجسا", "Titiwangsa Range", "Banjaran Titiwangsa", "السلسلة الرئيسية ماليزيا", "Main Range Malaysia", "جبال شبه جزيرة ماليزيا", "خط تقسيم المياه ماليزيا", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'سلاسل جبلية خضراء كثيفة الأشجار تتدحرج نحو سلاسل متتالية أفتح زُرقةً باتجاه الأفق، تحت سماء زرقاء ساطعة تتخللها غيوم بيضاء.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 أسقِط جوزة هند على الجانب الغربي من سلسلة جبلية في وسط بيراك، وفي نهاية المطاف سيبلغ ما يتحلّل منها مضيق ملقا. وأسقِط أخرى على بُعد بضع مئات من الأمتار شرقًا، على الجانب الآخر من السلسلة نفسها، فتنتهي في بحر الصين الجنوبي. لا شيء آخر في المشهد الطبيعي يتغيّر. فقط أي جانب من الخطّ سقطت عليه.

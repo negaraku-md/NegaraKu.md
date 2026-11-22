@@ -59,6 +59,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: '緑濃く木々に覆われた山の稜線が連なり、地平線に向かって淡い青色の尾根が幾重にも重なって続き、白い雲が点々と浮かぶ鮮やかな青空が広がっている。'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ペラ州中部の尾根の西側にココナッツを一つ落とせば、やがてその腐った痕跡はマラッカ海峡へと辿り着く。同じ尾根の東側、わずか数百メートル先に一つ落とせば、それは南シナ海へと行き着く。地形そのものには、他に何の違いもない。違うのは、それがこの境界線のどちら側に落ちたかだけだ。

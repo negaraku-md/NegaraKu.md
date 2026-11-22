@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'ประตูหินซานติอาโก (Porta de Santiago) ที่ปรักหักพังของป้อมอาฟาโมซาในมะละกา กำแพงดินลูกรังและปูนฉาบที่ผุกร่อนมีป้อมเล็กที่ทรุดโทรมอยู่ด้านบน และปืนใหญ่ทองสัมฤทธิ์เก่าแก่ตั้งอยู่บนฐานอิฐด้านหน้า'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 สิบวัน นั่นคือระยะห่างระหว่างการมาถึงของกองทัพโปรตุเกสในน่านน้ำมะละกาเมื่อวันที่ 10 สิงหาคม 1511 กับช่วงเวลาที่เมืองนั้นเปลี่ยนมือเมื่อวันที่ 24 สิงหาคม

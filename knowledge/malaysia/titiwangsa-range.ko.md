@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: '울창한 녹색 산 능선이 겹겹이 이어지며 지평선을 향해 점점 옅어지는 푸른 능선으로 펼쳐지고, 흰 구름이 점점이 떠 있는 밝고 푸른 하늘이 그 위로 펼쳐져 있다.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 페락(Perak) 중부의 어느 능선 서쪽 면에 코코넛 하나를 떨어뜨리면, 결국 그 썩은 물은 말라카 해협에 이릅니다. 같은 능선의 반대편, 즉 수백 미터 동쪽에 하나를 떨어뜨리면, 그것은 남중국해로 흘러듭니다. 지형에 관한 다른 것은 아무것도 바뀌지 않습니다. 그저 그것이 선의 어느 쪽에 떨어졌는가만 다를 뿐입니다.

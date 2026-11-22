@@ -74,6 +74,13 @@ faq:
   - q: 왜 대부분의 말레이시아인은 내륙보다 해안 가까이에 사나요?
     a: 각 땅덩어리는 중앙을 지나는 산줄기가 지배하고 있으며——반도에서는 티티왕사 산맥, 사바에서는 크로커 산맥——그 양옆에는 좁은 해안 평야만 있을 뿐입니다. 이러한 고지대는 거주지를 바깥쪽 해안 평야와 강 유역으로 밀어내어, 산악 내륙은 인구가 희박한 채로 남습니다. 믈라카 해협에 의해 잔잔해진, 보호받는 반도의 서해안 평야가 그 인구의 대부분과 쿠알라룸푸르, 조지타운 같은 가장 큰 도시들을 품고 있습니다.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: '열대 해안 평야를 공중에서 내려다본 전경으로, 구불구불한 강이 바다로 흘러들고 마을과 농지가 내륙으로 펼쳐지며 옅은 색의 매립지가 해안선을 두르고, 드문드문 구름이 떠 있다.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 코타키나발루(Kota Kinabalu)에서 쿠알라룸푸르(Kuala Lumpur)로 날아가면 여러분은 내부 경계 이상의 것을 건넙니다 — 수백 킬로미터의 열린 바다를 건너는 것입니다. 말레이시아는 두 개의 분리된 육지 덩어리에 걸쳐 하나로 봉합된 나라이며, 이 단순한 형태의 사실이 나머지 거의 모든 것을 조용히 결정해 왔습니다. 도시가 어디에 있는지, 논이 어디에 있는지, 그리고 어느 해안이 매년 12월마다 범람하는지를 말입니다.

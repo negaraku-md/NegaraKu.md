@@ -62,6 +62,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: '넓은 흙빛 열대 강이 울창한 녹색 열대우림과 키 큰 갈대로 둘러싸인 양쪽 기슭 사이를 굽이쳐 흐르고, 드문드문 구름이 떠 있는 밝고 푸른 하늘이 그 위로 펼쳐져 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 판보르네오 고속도로(Lebuhraya Pan Borneo)나 매스윙스(MASwings) 항공편이 있기 전, 사라왁 내륙에 이르는 유일한 방법은 며칠에 걸쳐 강을 거슬러 오르는 것이었습니다. 오늘날의 큰 도시들 — 시부(Sibu), 카핏(Kapit), 산다칸(Sandakan), 프칸(Pekan) — 은 각자의 위치에 우연히 생겨난 것이 아닙니다. 저마다 강이 정한 자리, 곧 하구, 두 강이 만나는 합류점, 또는 배가 아직 거슬러 오를 수 있는 가장 먼 지점에 자리합니다. 세 강 — 라장, 키나바탕안, 파항 — 이 이 양상을 가장 뚜렷하게 보여 줍니다.

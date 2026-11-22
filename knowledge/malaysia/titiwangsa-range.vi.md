@@ -60,6 +60,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Những dãy núi xanh rậm rạp rừng cây nhấp nhô thành các đường sống núi xanh nhạt dần nối tiếp nhau về phía chân trời, dưới bầu trời xanh tươi điểm những đám mây trắng.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Thả một trái dừa xuống phía tây của một sống núi ở trung tâm Perak và, cuối cùng, phần mục rữa của nó sẽ đến Eo biển Malacca. Thả một trái cách đó vài trăm mét về phía đông, ở phía bên kia của cùng sống núi, và nó kết thúc ở Biển Đông. Không có gì khác về cảnh quan thay đổi. Chỉ là nó rơi xuống phía nào của lằn ranh.

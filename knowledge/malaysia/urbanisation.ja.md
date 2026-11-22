@@ -75,6 +75,13 @@ faq:
   - q: マレーシアの都市成長の大部分はどこに集中しましたか?
     a: クランバレー(Klang Valley)です。2020年国勢調査では、隣接する4つの地区——クアラルンプール(1,982,112)、プタリン(2,298,130)、ウルランガット(1,400,461)、クラン(1,088,942)——が合わせて約677万人を抱え、3,240万人という全国人口の5分の1以上を占めました。セランゴールは現在、6,994,423人で最も人口の多い州であり、都市化率は95.8%です。一方、ケランタンは44.1%で最も都市化が進んでいない州です。
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'クアラルンプールの密集した街のスカイラインを広く捉えた眺めで、明るく雲の広がる空の下、針のような尖塔を頂くKLタワー（ムナラKL）、林立する高層ビル群、青いモスクのドームが緑の梢の上にそびえている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## マレーシア人の4人に3人は、DOSMが「都市」と呼ぶ場所に暮らしている

@@ -66,6 +66,13 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'بساط شاسع من مظلّة الغابة المطيرة الخضراء الوارفة يغطّي تلالًا متموّجة تذوب في سلاسل زرقاء ضبابية في البعيد، تحت سماء شاحبة ملبّدة بالغيوم.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # لماذا تُعَدّ ماليزيا واحدةً من أكثر بلدان العالم تنوّعاً حيوياً

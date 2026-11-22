@@ -63,6 +63,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Un ancho río tropical de aguas pardas y turbias que serpentea entre orillas cubiertas de densa selva verde y altos juncos, bajo un cielo azul brillante con nubes dispersas.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Antes de que existieran la Autopista Pan Borneo o los vuelos de MASwings, la única manera de llegar al interior de Sarawak era remontar el río durante días enteros. Las principales ciudades de hoy — Sibu, Kapit, Sandakan, Pekan — no surgieron en sus emplazamientos por casualidad. Cada una se asienta donde el río lo decidió: en la desembocadura de un río, en la confluencia de dos ríos, o en el punto más lejano todavía navegable por barco. Tres ríos — el Rajang, el Kinabatangan y el Pahang — muestran este patrón con la mayor claridad.

@@ -74,6 +74,13 @@ faq:
   - q: Why do most Malaysians live near the coasts rather than inland?
     a: Each landmass is dominated by a central mountain spine — the Titiwangsa Range in the Peninsula, the Crocker Range in Sabah — flanked by only narrow coastal plains. Those highlands push settlement outward onto the coastal plains and river valleys, leaving the mountainous interior thinly populated. The sheltered west coast plain of the Peninsula, calmed by the Strait of Malacca, holds most of its population and biggest cities such as Kuala Lumpur and George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'An aerial view of a tropical coastal plain where a winding river empties into the sea, towns and farm plots spreading inland and pale reclaimed land edging the shoreline beneath scattered clouds.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Fly into Kuala Lumpur from Kota Kinabalu and you cross more than an internal border — you cross several hundred kilometres of open sea. Malaysia is one country stapled together across two separate landmasses, and that simple fact of shape has quietly decided almost everything else: where the cities are, where the rice fields are, and which coast floods every December.

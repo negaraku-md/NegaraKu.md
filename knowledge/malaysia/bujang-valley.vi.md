@@ -75,6 +75,13 @@ faq:
   - q: Các candi (đền tháp) ở Thung lũng Bujang có còn ở trạng thái nguyên gốc từ thời cổ đại không?
     a: Không. Hầu hết các candi có thể tham quan ngày nay đã được các nhà khảo cổ xây dựng lại (phục dựng) dựa trên những tàn tích ban đầu, chứ không phải là các công trình còn nguyên vẹn. Candi Bukit Batu Pahat là tàn tích duy nhất được phục dựng trên vị trí nguyên gốc của nó, trong khi Candi Pengkalan Bujang hiện đã được xây dựng lại gần bảo tàng. Theo Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia), các candi này được ước tính xây dựng trong khoảng từ thế kỷ thứ tư đến thế kỷ thứ mười hai CN.
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'Nền đền đá bậc thang được phục dựng từ những khối đá laterit đỏ tại di chỉ khảo cổ Thung lũng Bujang ở Kedah, nằm trên bãi cỏ cắt tỉa với rừng xanh rậm rạp phía sau.'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trên một đồng bằng bằng phẳng gần Gunung Jerai, giữa những cánh đồng lúa và đồn điền cọ dầu, có những viên gạch cổ được xếp đặt hàng thế kỷ trước khi Melaka tồn tại như một hải cảng. Một số tạo thành nền của các ngôi đền Hindu. Một số khác là lò luyện sắt. Không có vị sultan nào từng cai trị từ đây mà tên tuổi còn được biết đến ngày nay — nhưng những gì mà cộng đồng xây dựng những ngôi đền và những lò luyện đó để lại khiến Thung lũng Bujang trở thành một trong những di chỉ khảo cổ quan trọng nhất ở Đông Nam Á.

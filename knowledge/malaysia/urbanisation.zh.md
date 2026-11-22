@@ -76,6 +76,13 @@ faq:
   - q: 马来西亚的城市增长大部分集中在哪里?
     a: 在巴生谷(Klang Valley)。在2020年人口普查中,四个相邻的县——吉隆坡(1,982,112)、八打灵(2,298,130)、乌鲁冷岳(1,400,461)和巴生(1,088,942)——合计约有677万人,超过全国3,240万人口的五分之一。雪兰莪如今是人口最多的州,有6,994,423人,城市化率为95.8%,而吉兰丹以44.1%成为城市化程度最低的州。
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: '吉隆坡密集城市天际线的广阔景象，在明亮多云的天空下，针尖般的吉隆坡塔（Menara KL）、簇拥的摩天大楼和一座蓝色清真寺圆顶高耸于绿色树梢之上。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## 四分之三的大马人如今住在DOSM认定的「城市」里

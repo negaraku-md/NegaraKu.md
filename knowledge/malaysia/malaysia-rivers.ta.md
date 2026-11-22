@@ -63,6 +63,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'அடர்ந்த பச்சை மழைக்காடுகள் மற்றும் உயரமான நாணல்கள் நிறைந்த கரைகளுக்கு இடையே வளைந்து செல்லும் அகலமான சேறு நிறைந்த பழுப்பு நிற வெப்பமண்டல நதி, சிதறிய மேகங்களுடன் கூடிய பிரகாசமான நீல வானத்தின் கீழ்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பான் பொர்னியோ நெடுஞ்சாலை (Lebuhraya Pan Borneo) அல்லது MASwings விமானங்கள் தோன்றுவதற்கு முன், சரவாக்கின் உட்பகுதியை அடைவதற்கான ஒரே வழி, பல நாட்களாக ஆற்றின் வழியே பயணிப்பதுதான். இன்றைய பெரிய நகரங்கள் — சிபு, கபிட், சண்டாக்கான், பிக்கான் — தற்செயலாக அவற்றின் இடங்களில் உருவாகவில்லை. ஒவ்வொன்றும் ஆற்றால் தீர்மானிக்கப்பட்ட இடத்தில் அமைந்துள்ளது: முகத்துவாரத்தில், இரு ஆறுகள் சந்திக்கும் சங்கமத்தில், அல்லது கப்பல் இன்னும் மேலோட்டமாகச் செல்லக்கூடிய தொலைதூரப் புள்ளியில். மூன்று ஆறுகள் — ராஜாங், கினபத்தாங்கன் மற்றும் பகாங் — இந்த வடிவத்தை மிகத் தெளிவாகக் காட்டுகின்றன.

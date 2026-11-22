@@ -75,6 +75,13 @@ faq:
   - q: 믈라카는 네덜란드에서 영국으로 한 번의 깔끔한 이양으로 넘어갔습니까?
     a: 아닙니다. 그것은 30년 동안 행정적으로 네 번 주인이 바뀌었습니다. 영국은 1795년 믈라카가 프랑스의 손에 넘어가는 것을 막기 위해 큐 서한(Kew Letters)에 따라 점령했고, 1818년에 믈라카는 네덜란드에 반환되었으며, 1824년의 영국-네덜란드 조약(1824년 3월 17일 서명)이 수마트라의 벤쿨렌(Bencoolen)과 교환하여 이를 영국에 영구히 할양했고, 실제 이양은 1825년 3월 1일에 발효되었습니다.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: '믈라카의 더치 광장에 있는 짙은 붉은색 네덜란드 식민지 시대 건물 스타다위스(Stadthuys)와 붉은 시계탑으로, 그 앞에는 꽃이 가득한 로터리와 방향 안내 표지판이 있다.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 한 회사가 항구 하나를 정복하기 위해 7개월과 외국 술탄국과의 동맹을 쏟아붓습니다. 그런 다음 이후 한 세기 반 동안 그 항구가 결코 부유해지지 않도록 애씁니다.

@@ -59,6 +59,13 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Densely forested green mountain ridges rolling into successive paler blue ridgelines toward the horizon, under a bright blue sky dotted with white clouds.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Drop a coconut on the west side of a ridge in central Perak and, eventually, its rot will reach the Strait of Malacca. Drop one a few hundred metres east, on the other side of the same ridge, and it ends up in the South China Sea. Nothing else about the landscape changes. Just which side of the line it fell on.

@@ -74,6 +74,13 @@ faq:
   - q: マラッカはオランダからイギリスへ一度のきれいな引き渡しで移ったのですか？
     a: いいえ。30年間に行政上4回も持ち主が替わりました。イギリスは1795年、フランスの手に渡るのを防ぐためキュー書簡（Kew Letters）に基づきマラッカを占領し、1818年にマラッカはオランダに返還され、1824年の英蘭協約（1824年3月17日署名）がスマトラのベンクーレン（Bencoolen）と引き換えにこれを恒久的にイギリスへ割譲し、実際の移管は1825年3月1日に発効しました。
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'マラッカのオランダ広場に立つ、深紅色をしたオランダ植民地時代の建物スタダイス（Stadthuys）と赤い時計塔で、その前には花で満たされたロータリーと方向案内の標柱がある。'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ある会社が、港を一つ征服するために七か月と外国のスルタン国との同盟を費やす。そしてその後の一世紀半を、その港を決して豊かにさせないために費やす。

@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'Setangkai bunga sepatu merah menyala yang mekar penuh dengan kelopak bergelombang dan tangkai benang sari tengah berujung kuning, berlatar daun hijau mengilap.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tujuh jenis bunga pernah bersaing untuk mewakili sebuah negara yang baru merdeka — dan yang menang bukan yang paling harum atau paling langka, melainkan yang paling dikenal di setiap kota dan kampung. Itulah bunga raya.

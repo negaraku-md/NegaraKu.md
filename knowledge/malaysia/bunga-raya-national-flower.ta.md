@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'சுருக்கம் கொண்ட இதழ்களுடனும் மஞ்சள் நுனி கொண்ட மைய மகரந்தத் தண்டுடனும் முழுமையாக மலர்ந்த ஒரு பிரகாசமான சிவப்பு செம்பருத்தி மலர், பளபளப்பான பச்சை இலைகளை பின்னணியாகக் கொண்டுள்ளது.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 புதிதாக சுதந்திரம் பெற்ற ஒரு நாட்டைப் பிரதிநிதித்துவப்படுத்த ஏழு வகை மலர்கள் ஒரு காலத்தில் போட்டியிட்டன — வென்றது மிக நறுமணமானதோ மிக அரிதானதோ அல்ல, மாறாக ஒவ்வொரு பட்டணத்திலும் கிராமத்திலும் மிகவும் நன்கு அறியப்பட்டதே. அதுதான் bunga raya (செம்பருத்தி).

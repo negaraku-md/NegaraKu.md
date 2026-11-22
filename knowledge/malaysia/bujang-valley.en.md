@@ -75,6 +75,13 @@ faq:
   - q: Are the candi (temples) in Bujang Valley still in their original state from ancient times?
     a: No. Most of the candi that can be visited today have been rebuilt (reconstructed) by archaeologists based on the original ruins, rather than being structures that have remained intact. Candi Bukit Batu Pahat is the only ruin reconstructed on its original site, while Candi Pengkalan Bujang has now been rebuilt near the museum. According to the National Archives of Malaysia (Arkib Negara Malaysia), these candi are estimated to have been built between the fourth and twelfth centuries CE.
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'A restored stepped stone temple base of reddish laterite blocks at the Bujang Valley archaeological site in Kedah, set on a trimmed lawn backed by thick green jungle.'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 On a flat plain near Gunung Jerai, among paddy fields and oil palm plantations, lie ancient bricks laid out centuries before Melaka existed as a port. Some of them form the base of Hindu temples. Others are iron-smelting furnaces. No sultan who ever ruled from here has a name known today — but what the society that built these temples and furnaces left behind makes the Bujang Valley one of the most important archaeological sites in Southeast Asia.

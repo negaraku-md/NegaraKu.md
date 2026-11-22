@@ -77,6 +77,13 @@ faq:
   - q: Di manakah sebagian besar pertumbuhan perkotaan Malaysia terkonsentrasi?
     a: Di Lembah Klang (Klang Valley). Pada Sensus 2020, empat distrik yang bersebelahan — Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461), dan Klang (1.088.942) — bersama-sama menampung sekitar 6,77 juta orang, lebih dari seperlima populasi nasional sebesar 32,4 juta. Selangor kini menjadi negara bagian dengan penduduk terbanyak sebesar 6.994.423 orang dan 95,8% perkotaan, sementara Kelantan, pada 44,1%, merupakan negara bagian yang paling sedikit terurbanisasi.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Pemandangan luas garis langit kota Kuala Lumpur yang padat di bawah langit cerah berawan, dengan Menara KL berujung jarum, gedung-gedung pencakar langit yang berkelompok dan kubah masjid biru menjulang di atas pucuk pepohonan hijau.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## Tiga dari empat rakyat Malaysia kini tinggal di tempat yang disebut "perkotaan" oleh DOSM

@@ -62,6 +62,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: '一条宽阔的黄褐色热带河流在两岸之间蜿蜒流淌，岸边长满茂密的绿色雨林和高高的芦苇，上方是飘着零星云朵的湛蓝天空。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在泛婆罗洲大道（Lebuhraya Pan Borneo）或马腾航空（MASwings）的航班出现之前，要抵达砂拉越内陆，唯一的方法就是沿河而上、连续航行数日。如今的大城镇——诗巫、加帛、山打根、北根——并非偶然座落在各自的位置上。每一座城镇的位置都由河流决定：河口、两河交汇处，或是船只仍可航抵的最远点。拉让江、京那巴当岸河与彭亨河这三条河流，最清楚地展现了这个规律。

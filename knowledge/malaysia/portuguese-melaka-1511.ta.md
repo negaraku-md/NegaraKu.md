@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'மலாக்காவில் உள்ள ஏ ஃபமோசா கோட்டையின் இடிந்த கல்லாலான போர்த்தா டெ சான்டியாகோ வாயில், அதன் சிதைந்த லேட்டரைட் மற்றும் பூச்சு சுவரின் மேல் இடிந்து வரும் சிறிய கோபுரம், அதன் முன் செங்கல் அடித்தளத்தில் நிற்கும் பழைய வெண்கல பீரங்கி.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பத்து நாட்கள். போர்த்துகீசியப் படை 1511 ஆகஸ்ட் 10 அன்று மலாக்கா நீர்ப்பரப்பில் வந்ததற்கும், அந்த நகரம் ஆகஸ்ட் 24 அன்று கைமாறியதற்கும் இடையிலான இடைவெளி அதுதான்.

@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'ดอกชบาสีแดงสดบานเต็มที่ กลีบดอกเป็นคลื่นย่น เกสรตัวผู้ตรงกลางเป็นแท่งปลายสีเหลือง ตัดกับใบไม้สีเขียวมันวาว'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ดอกไม้เจ็ดชนิดเคยแข่งขันกันเพื่อเป็นตัวแทนของประเทศที่เพิ่งได้รับเอกราช และผู้ชนะไม่ใช่ชนิดที่หอมที่สุดหรือหายากที่สุด แต่เป็นชนิดที่รู้จักกันมากที่สุดในทุกเมืองและทุกหมู่บ้าน นั่นคือบุหงารายา (ดอกชบา)

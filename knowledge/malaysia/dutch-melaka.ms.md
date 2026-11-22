@@ -75,6 +75,13 @@ faq:
   - q: Adakah Melaka berpindah daripada Belanda kepada British dalam satu penyerahan yang kemas?
     a: Tidak. Ia bertukar tangan secara pentadbiran empat kali dalam tempoh tiga puluh tahun. Britain menduduki Melaka pada 1795 di bawah Surat-Surat Kew (Kew Letters) untuk menghalangnya daripada jatuh ke tangan Perancis, Melaka dikembalikan kepada Belanda pada 1818, Perjanjian Inggeris-Belanda 1824 (ditandatangani pada 17 Mac 1824) menyerahkannya secara kekal kepada Britain sebagai pertukaran dengan Bencoolen di Sumatera, dan pemindahan sebenar berkuat kuasa pada 1 Mac 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'Bangunan Stadthuys kolonial Belanda berwarna merah tua dan menara jamnya yang merah di Dataran Belanda di Melaka, dengan bulatan dipenuhi bunga dan papan tanda arah di hadapannya.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebuah syarikat menghabiskan tujuh bulan dan sebuah pakatan dengan sebuah kesultanan asing untuk menakluki sebuah pelabuhan. Kemudian ia menghabiskan abad setengah berikutnya memastikan pelabuhan itu tidak pernah menjadi kaya.

@@ -64,6 +64,13 @@ keywords:
   - "MyBIS"
 sourceContentHash: "9a6c3f25f0c58105"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'Hamparan luas kanopi hutan hujan hijau subur menyelimuti bukit-bukau yang pudar menjadi rabung biru berjerebu di kejauhan, di bawah langit pucat mendung.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Mengapa Malaysia Tergolong dalam Kalangan Negara Megadiverse Dunia

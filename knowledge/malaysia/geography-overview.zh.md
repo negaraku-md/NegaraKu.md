@@ -74,6 +74,13 @@ faq:
   - q: 为什么大多数马来西亚人住在靠近海岸的地方,而不是内陆?
     a: 每块陆地都由一条中央山脊主导——半岛的是蒂迪旺沙山脉(Titiwangsa Range),沙巴的是克罗克山脉(Crocker Range)——两侧仅有狭窄的沿海平原。这些高地把聚居区推向沿海平原和河谷,使多山的内陆人烟稀少。半岛受马六甲海峡平抚而较为平静的西海岸平原,容纳了其大部分人口以及吉隆坡和乔治市等最大的城市。
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: '热带沿海平原的鸟瞰图，一条蜿蜒的河流注入大海，城镇和农田向内陆铺展，浅色的填海地沿着海岸线延伸，上方飘着零星的云朵。'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 从哥打京那巴鲁飞往吉隆坡，你跨越的不只是一道国内的界线——你跨越的是数百公里的开阔海域。马来西亚是一个国家，却横跨两块彼此独立的陆地，仿佛被硬生生钉在一起，而这一简单的地形事实，几乎悄悄决定了其余的一切：城市在哪里、稻田在哪里，以及每年十二月是哪个海岸会淹水。

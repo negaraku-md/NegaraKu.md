@@ -68,6 +68,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["fall of Melaka 1511", "Afonso de Albuquerque", "Portuguese Melaka", "A Famosa", "European colonisation Southeast Asia", "Johor Sultanate 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'La derruida puerta de piedra Porta de Santiago de la fortaleza A Famosa en Malaca, con su muro desgastado de laterita y argamasa coronado por una torreta ruinosa, y un viejo cañón de bronce alzado sobre una base de ladrillo ante ella.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Diez días. Esa es la diferencia entre la llegada de la flota portuguesa a las aguas de Melaka el 10 de agosto de 1511 y el momento en que la ciudad cambió de manos el 24 de agosto.

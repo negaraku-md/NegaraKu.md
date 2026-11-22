@@ -75,6 +75,13 @@ faq:
   - q: Melaka có chuyển từ tay người Hà Lan sang người Anh trong một lần bàn giao gọn gàng không?
     a: Không. Nó đã đổi chủ về mặt hành chính bốn lần trong ba mươi năm. Anh chiếm đóng Melaka năm 1795 theo các Thư Kew (Kew Letters) để giữ nó khỏi rơi vào tay Pháp, Melaka được trả lại cho người Hà Lan năm 1818, Hiệp ước Anh-Hà Lan 1824 (ký ngày 17 tháng 3 năm 1824) nhượng vĩnh viễn nó cho Anh để đổi lấy Bencoolen ở Sumatra, và việc chuyển giao thực tế có hiệu lực vào ngày 1 tháng 3 năm 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'Tòa nhà Stadthuys thời thuộc địa Hà Lan màu đỏ sẫm và tháp đồng hồ đỏ của nó tại Quảng trường Hà Lan ở Melaka, với bùng binh đầy hoa và biển chỉ đường phía trước.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một công ty bỏ ra bảy tháng và một liên minh với một vương triều nước ngoài để chinh phục một hải cảng. Rồi nó dành một thế kỷ rưỡi tiếp theo để bảo đảm hải cảng đó không bao giờ giàu có.

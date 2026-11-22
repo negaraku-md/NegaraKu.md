@@ -58,6 +58,13 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["جبل كينابالو", "متنزّه كينابالو", "أعلى قمة في ماليزيا", "موقع تراث عالمي لليونسكو في ماليزيا", "قمة لو", "Mount Kinabalu", "Kinabalu Park", "Low's Peak", "جيولوجيا صباح", "بلوتون غرانيتي"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'تاج القمة الغرانيتي الرمادي العريض لجبل كينابالو، وقد تناثرت على حافته قمم صخرية مدببة، شامخًا فوق تلال خضراء مكسوة بالغابات وصفٍّ من الأشجار تحت سماء زرقاء صافية.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 لعقود، أعطى كل كتاب مرجعي الرقم نفسه: جبل كينابالو، أعلى قمة في ماليزيا، يقف على ارتفاع 4,101 متر فوق سطح البحر. ثم في 1997، صوّب فريق مسحٍ السواتل نحو القمة بدلاً من الثيودوليتات، فتغيّر الرقم. لا بسبب خطأ تقريب — بل بمقدار ستة أمتار. لم ينكمش الجبل. فالقياس القديم كان ببساطة خاطئاً، ولم يملك أحد الأداةَ لإثبات ذلك حتى جعل نظام تحديد المواقع (GPS) التصحيح ممكناً.

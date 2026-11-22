@@ -72,6 +72,13 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: '선명한 붉은 히비스커스 꽃이 활짝 피어 물결치는 꽃잎과 끝이 노란 중앙의 수술 기둥을 드러내며, 윤기 나는 녹색 잎을 배경으로 하고 있다.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 일곱 종류의 꽃이 갓 독립한 나라를 대표하기 위해 경쟁한 적이 있습니다. 그리고 승자는 가장 향기롭거나 가장 희귀한 꽃이 아니라, 모든 읍내와 마을에서 가장 잘 알려진 꽃이었습니다. 그것이 바로 붕아 라야입니다.

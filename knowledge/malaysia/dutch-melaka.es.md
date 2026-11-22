@@ -75,6 +75,13 @@ faq:
   - q: ¿Pasó Melaka de los neerlandeses a los británicos en una sola entrega limpia?
     a: No. Cambió de manos administrativamente cuatro veces en treinta años. Gran Bretaña ocupó Melaka en 1795 en virtud de las Cartas de Kew (Kew Letters) para evitar que cayera en manos de Francia, Melaka fue devuelta a los neerlandeses en 1818, el Tratado Anglo-Neerlandés de 1824 (firmado el 17 de marzo de 1824) la cedió de forma permanente a Gran Bretaña a cambio de Bencoolen en Sumatra, y la transferencia efectiva entró en vigor el 1 de marzo de 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'El Stadthuys (edificio colonial neerlandés) de color rojo intenso y su torre del reloj roja en la Plaza Holandesa de Malaca, con una rotonda llena de flores y un poste indicador de direcciones delante.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Una compañía dedica siete meses y una alianza con un sultanato extranjero a conquistar un puerto. Luego dedica el siguiente siglo y medio a asegurarse de que ese puerto nunca se enriquezca.

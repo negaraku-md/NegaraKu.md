@@ -62,6 +62,13 @@ keywords:
   - "MyBIS"
 sourceContentHash: "9a6c3f25f0c58105"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: '青々とした緑の熱帯雨林の林冠が起伏する丘を一面に覆い、遠くは霞んだ青い尾根へと溶け込み、どんよりと曇った淡い空が広がっている。'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # マレーシアが世界のメガダイバーシティ国の一つである理由

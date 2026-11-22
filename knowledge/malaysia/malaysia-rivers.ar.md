@@ -63,6 +63,13 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["نهر راجانغ", "نهر كيناباتانغان", "نهر باهانغ", "أطول نهر في ماليزيا", "Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "Sibu", "Kapit", "Pekan", "جغرافيا ماليزيا", "أنهار ساراواك", "أنهار صباح"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'نهر استوائي عريض بلون بُنّي طيني يتعرّج بين ضفتين تكسوهما غابات مطيرة خضراء كثيفة وقصبٌ طويل، تحت سماء زرقاء ساطعة تتناثر فيها الغيوم.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قبل أن يوجد طريق بان بورنيو السريع (Pan Borneo Highway) أو رحلات MASwings، كانت الطريقة الوحيدة للوصول إلى داخل ساراواك هي الإبحار صعوداً في النهر أياماً متتالية. ومدن اليوم الكبرى — سيبو (Sibu)، وكابيت (Kapit)، وسانداكان (Sandakan)، وبيكان (Pekan) — لم تنشأ في مواقعها مصادفةً. فكل واحدة تقع حيث قرّر النهر: عند مصبّ نهر، أو عند ملتقى نهرين، أو عند أبعد نقطة ما زالت صالحة للملاحة بالسفن. وثلاثة أنهار — راجانغ وكيناباتانغان وباهانغ — تُظهر هذا النمط بأوضح صوره.

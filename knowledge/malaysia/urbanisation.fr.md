@@ -77,6 +77,13 @@ faq:
   - q: Où s'est concentrée la majeure partie de la croissance urbaine de la Malaisie ?
     a: Dans la vallée de Klang (Klang Valley). Lors du recensement de 2020, quatre districts contigus — Kuala Lumpur (1 982 112), Petaling (2 298 130), Ulu Langat (1 400 461) et Klang (1 088 942) — regroupaient ensemble environ 6,77 millions de personnes, soit plus d'un cinquième de la population nationale de 32,4 millions. Le Selangor est désormais l'État le plus peuplé, avec 6 994 423 habitants, et il est urbanisé à 95,8 %, tandis que le Kelantan, à 44,1 %, est l'État le moins urbanisé.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Une large vue de la ligne d''horizon urbaine et dense de Kuala Lumpur sous un ciel lumineux et nuageux, avec la Tour KL au sommet en aiguille, des gratte-ciel regroupés et un dôme bleu de mosquée s''élevant au-dessus des cimes vertes des arbres.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ## Trois Malaisiens sur quatre vivent désormais quelque part que le DOSM qualifie d'« urbain »
