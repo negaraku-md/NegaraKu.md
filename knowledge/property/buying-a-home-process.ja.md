@@ -73,6 +73,13 @@ faq:
   - q: 買主が一度の購入でなぜ二組の弁護士費用を支払うことが多いのですか。
     a: 二つの別個の書類が、それぞれ異なる依頼者のために並行して進められるからです。一人の弁護士が不動産を移転する売買契約を作成・押印し、もう一人——銀行に選任され、時には同じ事務所が二つ目の役割を担う——が、銀行の権益を担保するローン契約と担保権設定（第16A様式）を準備します。銀行の弁護士は買主の手付金ではなく銀行の担保権を守るため、両者の役割と費用は別個のものです。
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: '夕暮れ時のスランバンの Cassia Homes 住宅開発地の、看板のある入口と警備小屋で、奥にはテラスハウスが並んでいる。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの住宅購入には通常二人の弁護士が関わるが、大半の買主はその二人が別々の人物であることに気づきさえしない。一人は物件を移転させる売買契約（Sale and Purchase Agreement、SPA）を起草し、印紙を貼る。もう一人は——銀行に選任され、時には同じ事務所が——貸付金と担保（charge）を起草して印紙を貼る。この担保こそ、貸付が返済されないときに銀行が物件を差し押さえられるようにする文書である。「弁護士」をこの物語の一人の登場人物だと思い込む買主は、後になって、なぜ二組の弁護士費用が現れたのか、あるいはなぜ貸付が承認された日に鍵が届かなかったのか、と戸惑うことになりがちだ。

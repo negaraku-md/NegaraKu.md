@@ -72,6 +72,13 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "asociación de residentes Malasia", "boom gate legal Malaysia", "caso Au Kean Hoe", "Street Drainage and Building Act 1974", "obstrucción vía pública Malasia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'Un arco de entrada iluminado de una comunidad cerrada con la inscripción ''Arden Hill Precinct 2'', con una caseta de vigilancia y una barrera al anochecer, en Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dos zonas residenciales pueden verse idénticas — caseta de guardia de ladrillo, barrera de pluma a rayas, guardia uniformado comprobando su pegatina. Una se asienta sobre un terreno legal sólido. La otra existe porque nadie la ha cuestionado todavía.

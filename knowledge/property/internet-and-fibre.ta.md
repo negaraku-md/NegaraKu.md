@@ -69,6 +69,13 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'குவாலாலம்பூரில் ஒரு சாலையோர தொலைத்தொடர்பு கேபிள் விநியோக புள்ளியில் பணிபுரியும் தெலிகோம் மலேசியா தொழில்நுட்ப வல்லுநர்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் ஒரு ரிங்கிட் விலையைக் கூட ஒப்பிடுவதற்கு முன், அதைவிட முக்கியமான ஒரு

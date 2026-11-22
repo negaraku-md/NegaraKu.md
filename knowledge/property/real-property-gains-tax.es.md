@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "impuesto sobre ganancias de bienes inmuebles", "CKHT", "LHDN", "enajenación de propiedad", "tasa RPGT", "exención RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Las torres de condominio Verdana elevándose sobre la zona residencial de North Kiara en Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Usted vende una casa con beneficio, pero antes de que el dinero llegue a su cuenta, el gobierno quiere su parte. Eso es el RPGT, un impuesto que los vendedores suelen pasar por alto hasta que el abogado retiene miles de ringgit en la mesa de liquidación.

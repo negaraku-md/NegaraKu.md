@@ -82,6 +82,13 @@ faq:
   - q: Un propriétaire peut-il changer les serrures ou couper les services publics si le locataire refuse de partir ?
     a: Non. L'article 7(2) de la Loi sur les mesures de réparation spécifique de 1950 (Specific Relief Act 1950) interdit au propriétaire l'expulsion par ses propres moyens — pas de changement de serrures, ni de coupure de l'électricité ou de l'eau, ni d'enlèvement des biens tant que le locataire occupe encore les lieux. Récupérer la possession exige une décision de justice. Pour les loyers impayés, le propriétaire demande au tribunal un mandat de saisie en vertu de la Loi sur la saisie de 1951 (Distress Act 1951) afin de saisir les biens mobiliers du locataire, plutôt que d'affronter directement le locataire.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Des appartements de grande hauteur à côté d''une ligne de LRT à Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Demandez à un bailleur et à un locataire en Malaisie quelle loi les protège, et la plupart se tromperont. Il n'existe pas de « loi sur le bail d'habitation » à laquelle se référer, ni de texte unique fixant les délais de préavis, plafonnant les dépôts ou détaillant ce qu'un bailleur peut et ne peut pas faire au moment du départ.

@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'Papan nama merah Public Bank Berhad dan Public Investment Bank di sebuah plaza bertata taman di luar gedung bank Malaysia di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Rumah idaman mungkin RM450,000, tetapi bank tidak akan menyerahkan uang itu sampai ia yakin Anda mampu membayarnya kembali selama 30 tahun mendatang. Di situlah dimulainya dunia pembiayaan hipotek — margin, rasio layanan utang, asuransi, simpanan KWSP dan bea meterai yang semuanya menentukan apakah kunci rumah itu berpindah ke tangan Anda.

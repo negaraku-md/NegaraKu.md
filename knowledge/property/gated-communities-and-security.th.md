@@ -72,6 +72,13 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'ซุ้มประตูทางเข้าหมู่บ้านปิดที่ส่องสว่างเขียนว่า "Arden Hill Precinct 2" พร้อมป้อมยามและไม้กั้นในเซอเริมบันยามพลบค่ำ'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 พื้นที่ที่อยู่อาศัยสองแห่งสามารถดูเหมือนกันได้ ทั้งป้อมยามอิฐ ประตูกั้นลาย ยามในเครื่องแบบตรวจสติกเกอร์ของคุณ แห่งหนึ่งยืนอยู่บนพื้นฐานทางกฎหมายที่มั่นคง อีกแห่งหนึ่งดำรงอยู่ได้เพราะยังไม่มีใครโต้แย้ง

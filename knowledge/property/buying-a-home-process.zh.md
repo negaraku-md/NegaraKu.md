@@ -74,6 +74,13 @@ faq:
   - q: 为什么买家在一宗购买中往往最终要支付两套律师费？
     a: 因为有两份独立文件同时进行，分别代表不同客户处理。一名律师草拟并盖印转让产业的买卖协议；另一名——由银行委任，有时是同一家律师行扮演第二个角色——则准备贷款协议及保障银行权益的产业押记（第16A表）。银行律师保护的是银行的押记，而非买方的订金，因此两者的角色与费用各自独立。
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: '黄昏时分芙蓉 Cassia Homes 住宅开发项目设有路标的入口和门卫亭，后方是排屋。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一宗马来西亚房屋买卖通常牵涉两位律师，而大多数买家根本没注意到他们是两个不同的人。一位负责草拟并盖印那份移转产业的买卖合约（Sale and Purchase Agreement，SPA）。另一位——由银行委任，有时是同一间律师楼——负责草拟并盖印贷款合约与押记（Charge），那份押记正是让银行在贷款未获偿还时得以没收产业的文件。把"律师"想成故事里单一角色的买家，往后往往就是那些搞不懂为什么出现两笔律师费、或为什么贷款获批当天钥匙却没有送到的人。

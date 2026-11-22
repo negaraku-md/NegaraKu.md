@@ -76,6 +76,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "मलेशिया रखरखाव फ़ीस", "maintenance fee Malaysia", "सिंकिंग फ़ंड", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "शेयर यूनिट", "स्ट्रेटा प्रबंधन ट्रिब्यूनल", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'कुआलालंपुर में नीले आसमान की पृष्ठभूमि में एक ऊँची लाल-और-सफ़ेद आवासीय कॉन्डोमिनियम मीनार।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आपने यूनिट खरीदी। आपने लिफ़्ट, गार्डहाउस, स्विमिंग पूल, या उस पाइप को नहीं खरीदा जो उस दीवार से होकर गुज़रता है जिसे आप अपने पड़ोसी के साथ साझा करते हैं। फिर भी किसी को उस सबके लिए भुगतान करना ही पड़ता है — और क़ानून इस बिल को दो खातों में बाँट देता है जिन्हें अलग रखने के लिए आप कानूनी रूप से बाध्य हैं।

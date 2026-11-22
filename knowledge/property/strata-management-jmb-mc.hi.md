@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "प्रबंधन निगम", "संयुक्त प्रबंधन निकाय", "स्ट्रेटा प्रबंधन अधिकरण", "स्ट्रेटा प्रबंधन अधिनियम 2013", "रखरखाव शुल्क", "सिंकिंग फंड", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'कुआलालंपुर में ओरायन कॉन्डोमिनियम और स्काई रेजिडेंसेज की स्ट्रेटा गगनचुंबी इमारतें।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप एक कोंडोमिनियम यूनिट खरीदते हैं, लेकिन लिफ्ट, स्विमिंग पूल और कार-पार्क ड्राइववे का वास्तविक स्वामी कौन है — और किसे आपसे मासिक शुल्क वसूलने का अधिकार है? इसका उत्तर शासन की एक ऐसी परत में निहित है जिसके बारे में खरीदार विवाद उठने तक शायद ही कभी पढ़ते हैं: स्ट्रेटा प्रबंधन अधिनियम 2013 (Strata Management Act 2013 / Act 757) का ढाँचा।

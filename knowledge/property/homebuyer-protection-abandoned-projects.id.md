@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'Sebuah bangunan beton bertingkat yang tak selesai dan telantar ditumbuhi tumbuhan hijau, dengan bendera Malaysia di latar depan, di Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda sudah membayar deposit, menandatangani Perjanjian Jual Beli, dan menunggu kunci rumah — kemudian lokasi pembangunan senyap selama berbulan-bulan. Untuk pembeli rumah hunian baru di Semenanjung Malaysia, undang-undang sebenarnya menyediakan beberapa lapisan perlindungan sebelum, selama, dan setelah keadaan seperti ini terjadi. Kuncinya adalah mengetahui apa yang dilindungi dan ke mana harus pergi ketika sesuatu tidak beres.

@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'The red Public Bank Berhad and Public Investment Bank signage on a landscaped plaza outside a Malaysian bank building in Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Your dream home might cost RM450,000, but the bank will not hand over that money until it is confident you can pay it back over the next 30 years. That is where the world of mortgage financing begins — margins, debt-service ratios, insurance, EPF savings and stamp duty, all of which determine whether the keys to that house end up in your hands.

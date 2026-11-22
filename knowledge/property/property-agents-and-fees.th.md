@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'บ้านแฝดสมัยใหม่หลังป้ายโครงการ Taman Soga Sutera ในเมืองบาตูปาฮัต รัฐยะโฮร์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 หมายเลขบนป้ายหน้าอกของตัวแทนไม่ใช่ของประดับ มันเป็นวิธีเดียวที่รวดเร็วในการแยกนายหน้าที่ถูกต้องออกจากคนที่เพียงอ้างตนว่าเป็นตัวแทน ในมาเลเซีย ผู้ที่สามารถขาย ให้เช่า หรือเป็นนายหน้าอสังหาริมทรัพย์แทนคุณถูกควบคุมอย่างเข้มงวดโดยกฎหมาย

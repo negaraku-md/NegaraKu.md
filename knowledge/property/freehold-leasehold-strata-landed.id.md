@@ -65,6 +65,13 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'Menara kembar kondominium tepi laut Jesselton Residences di samping marina dan laut di Kota Kinabalu, Sabah.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dua buah rumah teres yang hampir sama di jalan yang sama dapat membawa janji yang sangat berbeda dari pihak berwenang negeri: satu hak milik menyatakan "hak milik bebas," sedangkan yang lain menyatakan "pajakan, 99 tahun, berakhir 2118." Satu pertanyaan kedua yang tidak berkaitan menentukan apakah Anda turut berbagi kepemilikan lobi lift dan kolam renang dengan empat puluh rumah tangga lain, atau apakah jalan masuk mobil dan atap sepenuhnya urusan Anda sendiri. Pembeli sering mencampuradukkan kedua pertanyaan ini menjadi satu — "apakah ia hak milik bebas atau apakah ia kondominium?" — padahal suatu properti selalu menjawab keduanya, secara terpisah.

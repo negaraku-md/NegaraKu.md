@@ -76,6 +76,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'Một tòa tháp chung cư cao tầng màu đỏ và trắng trên nền trời xanh ở Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn đã mua căn hộ. Bạn không mua thang máy, chòi bảo vệ, hồ bơi, hay đường ống chạy qua bức tường bạn chung với hàng xóm. Vẫn phải có ai đó trả cho tất cả những thứ đó — và luật chia hóa đơn thành hai tài khoản mà bạn buộc phải giữ riêng về mặt pháp lý.

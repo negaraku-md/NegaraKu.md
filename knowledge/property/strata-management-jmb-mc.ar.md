@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "مؤسسة الإدارة", "هيئة الإدارة المشتركة", "محكمة إدارة العقارات الطبقية", "قانون إدارة العقارات الطبقية 2013", "رسوم الصيانة", "صندوق الاحتياطي", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'برجا أوريون كوندومينيوم وسكاي ريزيدنسز السكنيان الشاهقان المشتركان (سترَاتا) في كوالالمبور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تشتري وحدة كوندومينيوم، لكن من الذي يملك فعلاً المصعد وحمام السباحة وممر موقف السيارات — ومن له الحق في تحصيل رسم شهري منك؟ يكمن الجواب في طبقة من الحوكمة نادرًا ما يقرأ عنها المشترون حتى ينشأ نزاع: إطار قانون إدارة العقارات الطبقية لسنة 2013 (Strata Management Act 2013 / Act 757).

@@ -78,6 +78,13 @@ entity: "Một khoản tiền cọc thuê nhà bị giữ lại ở Malaysia"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Các căn hộ chung cư cao tầng Puncak Desa ở Kepong, Kuala Lumpur, một khối nhà cho thuê điển hình của Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ít điều làm cay đắng cái kết của một kỳ thuê nhà như một người chủ nhà giữ lại tiền cọc. Đó thường là một khoản đáng kể, nó thường khiến người ta thấy bất công, và cám dỗ là leo thang ngay lập tức. Trước khi làm vậy, sẽ có ích nếu hiểu một sự thật định hình mọi thứ về một tranh chấp tiền cọc ở Malaysia — vì nó không giống điều mà nhiều người thuê nhà vẫn nghĩ.

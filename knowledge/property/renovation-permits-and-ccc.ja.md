@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'スランゴール州の二階建てテラスハウスの改装中の室内で、戸口の向こうに隣家が見える。'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 家の裏に台所を増築したい、あるいは上に一階分を建て増したい——すると突然、近所の人が「まず市議会に申請しないといけないよ」と言う。本当だろうか。ほとんどの改修工事については、答えはイエスだ。

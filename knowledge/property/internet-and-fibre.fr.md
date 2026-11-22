@@ -69,6 +69,13 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "internet par fibre Malaisie", "JENDELA MCMC", "vérification couverture haut débit domicile Malaisie", "installer internet par fibre Malaisie", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'Un technicien de Telekom Malaysia travaillant sur un point de distribution de câbles de télécommunications au bord de la rue à Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Avant de comparer le moindre ringgit de prix, il y a une question qui compte

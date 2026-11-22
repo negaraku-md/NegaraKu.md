@@ -76,6 +76,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "رسوم الصيانة في ماليزيا", "maintenance fee Malaysia", "الصندوق الاحتياطي", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "وحدات الحصص", "محكمة إدارة الطوابق", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'برج سكني شاهق بلونين أحمر وأبيض على خلفية سماء زرقاء في كوالالمبور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 اشتريت الوحدة. لكنك لم تشترِ المصعد ولا كشك الحارس ولا حوض السباحة ولا الأنبوب المارّ في الجدار الذي تتشاركه مع جارك. ولا بد لأحدٍ أن يدفع ثمن كل ذلك — والقانون يقسم الفاتورة إلى حسابين أنت مُلزَم قانوناً بإبقائهما منفصلين.

@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["जल आपूर्ति मलेशिया", "Air Selangor", "Ranhill SAJ", "PBAPP", "जल खाता खोलना", "राज्य जल कंपनी", "जल बिल मलेशिया", "SPAN", "नया जल कनेक्शन"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'सबाह में बाबागोन बाँध जलाशय, शोधित पेयजल आपूर्ति के लिए एक कच्चे-जल स्रोत, जिसके जल-किनारे पर एक सूचना-पट्ट है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप सेलांगोर से जोहोर जाते हैं। आपका बैंक खाता वही रहता है। आपकी फ़ोन लाइन आपके साथ आ सकती है। लेकिन आपका जल खाता? वह आपका अनुसरण नहीं करता — क्योंकि आपके नए घर को पानी की आपूर्ति करने वाली कंपनी पूरी तरह से एक अलग कंपनी है।

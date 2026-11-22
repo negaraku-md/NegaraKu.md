@@ -91,6 +91,13 @@ stayFacts:
   cost: 'Dua pintu yang bertindih ditambah pajak: batas harga minimum yang ditetapkan dan ditinjau ulang sendiri oleh setiap negeri (dipecah menurut zona, daerah, atau tapak dibandingkan strata), sementara Wilayah Persekutuan menggunakan batas pedoman EPU yang terpisah; di atasnya terdapat bea meterai rata atas pindah milik hunian bagi non-warga negara, dan RPGT pada tarif yang lebih tinggi dan lebih rata saat penjualan kemudian. Angka-angka ini berubah dan berbeda menurut negeri, jadi pastikan angka terkini dengan kantor pertanahan negeri bersangkutan (Pejabat Tanah) atau Guideline on the Acquisition of Properties dari Unit Perencanaan Ekonomi (EPU).'
   watch: 'Tidak ada satu batas minimum RM1 juta tunggal yang berlaku di seluruh negara — angka itu khusus untuk Wilayah Persekutuan di bawah pedoman federal 2014, dan melewati batas harga suatu negeri tidaklah sama dengan memperoleh persetujuan Pihak Berwenang Negeri yang terpisah dan bersifat diskresi yang diwajibkan di bawah section 433B sebelum hak milik dapat didaftarkan atas nama warga asing.'
   next: 'Ajukan permohonan secara tertulis (melalui pengacara pindah milik) kepada Pihak Berwenang Negeri untuk persetujuan begitu batas harga terlewati dan properti tidak termasuk yang dikecualikan, dengan memasukkan jangka pemrosesan yang tidak pasti ke dalam lini masa pembelian. Perhatikan bahwa pembelian untuk visa tinggal lama MM2H tetap melalui proses yang sama ini, dan lihat Pajak Taksiran dan Pajak Tanah untuk kewajiban berkelanjutan begitu hak milik berpindah.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'Menara hunian tinggi berlapis kaca modern (Ascott, 348 Sentral) di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seorang pembeli dari Hong Kong setuju membayar RM1.8 juta untuk sebuah rumah kembar di Petaling Jaya. Pembiayaan telah diatur, penjual setuju, dan harga itu melewati setiap ambang yang disebut di internet. Namun transaksi itu tetap tidak dapat selesai sampai sebuah kantor pemerintah negeri di Shah Alam membuat keputusan — atas diskresinya sendiri — apakah mau mengizinkan seorang warga asing memegang hak milik itu secara langsung.

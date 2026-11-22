@@ -82,6 +82,13 @@ faq:
   - q: Bolehkah tuan rumah menukar kunci atau memutuskan utiliti jika penyewa enggan keluar?
     a: Tidak. Seksyen 7(2) Akta Relief Spesifik 1950 menghalang tuan rumah daripada pengusiran secara sendiri — tiada menukar kunci, memutuskan bekalan elektrik atau air, atau mengeluarkan barangan sementara penyewa masih menduduki premis. Mendapatkan semula pemilikan memerlukan perintah mahkamah. Bagi sewa tertunggak, tuan rumah memohon kepada mahkamah untuk waran sewa tahanan di bawah Akta Sewa Tahanan 1951 bagi merampas harta alih penyewa, dan bukannya berdepan dengan penyewa secara langsung.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Pangsapuri bertingkat tinggi di sebelah landasan LRT di Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tanya seorang tuan rumah dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan meneka salah. Tiada "Akta Sewaan Kediaman" untuk dirujuk — tiada satu statut tunggal yang menetapkan tempoh notis, mengehadkan deposit, atau menyatakan dengan jelas apa yang tuan rumah boleh dan tidak boleh lakukan semasa pindah keluar.

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "डेवलपर लाइसेंस", "घर खरीदार दावा ट्रिब्यूनल", "परित्यक्त परियोजनाएँ", "SPNB", "KPKT", "घर खरीदार सुरक्षा"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'गोम्बक में, अग्रभूमि में मलेशियाई झंडों के साथ, हरियाली से ढका एक परित्यक्त अधूरा कंक्रीट का बहुमंज़िला भवन।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आपने जमा राशि चुकाई, बिक्री एवं खरीद अनुबंध पर हस्ताक्षर किए, और चाबियों का इंतज़ार कर रहे हैं — तभी निर्माण स्थल महीनों तक शांत पड़ जाता है। प्रायद्वीपीय मलेशिया में नए आवासीय घरों के खरीदारों के लिए, ऐसी स्थिति उत्पन्न होने से पहले, उसके दौरान और बाद में कानून वास्तव में कई स्तरों की सुरक्षा प्रदान करता है। मुख्य बात यह जानना है कि क्या-क्या सुरक्षित है और कुछ गलत होने पर कहाँ रुख़ करना है।

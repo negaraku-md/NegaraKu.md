@@ -68,6 +68,13 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: '吉隆坡一名 Telekom Malaysia 技术人员在路边电信电缆分线箱上作业。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在你比较哪怕一令吉的价格之前，有一个更要紧的问题：光纤到底有没有接到你家门口？

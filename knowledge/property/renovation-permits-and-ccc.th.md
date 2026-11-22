@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'ภายในบ้านแฝดสองชั้นที่กำลังปรับปรุงในรัฐเซอลาโงร์ โดยมองเห็นบ้านข้างเคียงผ่านช่องประตู'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณอยากต่อเติมครัวด้านหลังบ้านหรือต่อเติมชั้น แล้วจู่ ๆ เพื่อนบ้านก็บอกว่า "ต้องขอที่สภาก่อน" จริงหรือ? สำหรับงานปรับปรุงส่วนใหญ่ ใช่

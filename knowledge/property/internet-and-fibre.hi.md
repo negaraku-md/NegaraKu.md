@@ -69,6 +69,13 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "फ़ाइबर इंटरनेट मलेशिया", "JENDELA MCMC", "घरेलू ब्रॉडबैंड कवरेज जाँच मलेशिया", "फ़ाइबर इंटरनेट इंस्टॉल मलेशिया", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'कुआलालंपुर में सड़क किनारे एक दूरसंचार केबल वितरण बिंदु पर काम करता एक तेलेकोम मलेशिया तकनीशियन।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 इससे पहले कि आप कीमत का एक भी रिंगिट तुलना करें, एक सवाल और भी अहम है: क्या फ़ाइबर आपके दरवाज़े तक पहुँचता भी है? इसे जाँचे बिना दो साल का अनुबंध कर लें, और इंस्टॉलेशन के दिन आपको पता चल सकता है कि तकनीशियन असल में आपकी इकाई तक लाइन खींच ही नहीं सकता।

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'ตึกสูงแบบถือครองกรรมสิทธิ์รวม (strata) Orion Condominium และ Sky Residences ในกัวลาลัมเปอร์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณซื้อหน่วยคอนโดมิเนียมหนึ่งหน่วย แต่ใครเป็นเจ้าของลิฟต์ สระว่ายน้ำ และทางเดินที่จอดรถจริง และใครมีสิทธิเก็บค่าธรรมเนียมรายเดือนจากคุณ? คำตอบอยู่ที่ชั้นการบริหารจัดการหนึ่งที่ผู้ซื้อมักไม่ได้อ่านจนกว่าจะเกิดข้อพิพาท: กรอบพระราชบัญญัติการจัดการอาคารชุด 2013 (Act 757)

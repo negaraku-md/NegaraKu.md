@@ -61,6 +61,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: '沙巴州 Babagon 水坝水库，是处理饮用水供应的原水源，水边设有信息牌。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你从雪兰莪搬到柔佛。银行账户不变，电话号码可以直接携带过去。但你的水表账户呢？它不会跟着走——因为为你新家供水的公司，根本就是完全不同的一家公司。

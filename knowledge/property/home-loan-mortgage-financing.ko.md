@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: '쿠알라룸푸르의 말레이시아 은행 건물 밖 조경된 광장에 있는 빨간색 Public Bank Berhad와 Public Investment Bank 간판.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 꿈꾸던 집이 RM450,000일 수 있지만, 은행은 당신이 앞으로 30년 동안 갚을 수 있다고 확신하기 전까지 그 돈을 내주지 않습니다. 바로 여기서 모기지 금융의 세계가 시작됩니다 — 대출 한도, 부채상환비율, 보험, EPF 저축, 인지세, 이 모두가 그 집 열쇠가 당신 손으로 넘어올지를 결정합니다.

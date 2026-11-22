@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "impuesto de evaluación Malasia", "renta de la tierra Malasia", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Una hilera de modernas casas adosadas de dos plantas detrás de una valla en una urbanización malasia, en Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Muchos propietarios primerizos se sobresaltan al recibir una segunda factura que no esperaban. Ya han pagado el «impuesto a la tierra» este año — entonces, ¿por qué el concejo municipal también envía una notificación de requerimiento?

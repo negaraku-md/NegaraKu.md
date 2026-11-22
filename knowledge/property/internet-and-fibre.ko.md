@@ -68,6 +68,13 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: '쿠알라룸푸르에서 길가 통신 케이블 분배함 작업을 하는 Telekom Malaysia 기술자.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 가격을 1링깃이라도 비교하기 전에, 더 중요한 질문이 있습니다: 광섬유가 애초에 당신의 현관까지 도달하기는 합니까? 그것을 확인하지 않고 2년 계약에 서명하면, 설치 당일에 기술자가 실제로는 당신의 세대로 회선을 끌어올 수 없다는 것을 알게 될 수도 있습니다.

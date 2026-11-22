@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'குவாலாலம்பூரின் நார்த் கியாரா குடியிருப்புப் பகுதிக்கு மேலே உயர்ந்து நிற்கும் வெர்டானா காண்டோமினியம் கோபுரங்கள்.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் ஒரு வீட்டை லாபத்துடன் விற்கிறீர்கள் — ஆனால் பணம் உங்கள் கணக்கிற்கு வருவதற்கு முன், அரசு தன் பங்கை விரும்புகிறது. அதுதான் RPGT; தீர்வு மேசையில் வழக்கறிஞர் ஆயிரக்கணக்கான ரிங்கிட்டைத் தடுத்து வைக்கும் வரை விற்பனையாளர்களால் அடிக்கடி கவனிக்கப்படாமல் போகும் வரி.

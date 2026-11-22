@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'A row of established terrace houses behind the Taman Idaman neighbourhood signboard in Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 When someone dies in Malaysia, who inherits their house depends first on one fundamental matter: whether the deceased was a Muslim or a non-Muslim. Two different legal systems govern the answer, and both run through different authorities before any land title can change name.

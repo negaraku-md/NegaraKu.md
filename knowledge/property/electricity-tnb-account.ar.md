@@ -70,6 +70,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["حساب كهرباء TNB", "فتح حساب TNB جديد", "وديعة كهرباء TNB", "تغيير اسم حساب الكهرباء", "Change of Tenancy TNB", "كهرباء SESB صباح", "وديعة Sarawak Energy", "myTNB Self Meter Reading", "قراءة عداد الكهرباء", "Kedai Tenaga", "electricity account Malaysia"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'عدّاد كهرباء من شركة تناغا ناسيونال برهاد (TNB) مثبّت على جدار مع بطاقة رقم حساب مكتوبة بخطّ اليد، في منزل بماليزيا.'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حصلتَ على مفاتيح منزلك الجديد، لكنّ مفتاح الإضاءة لا يفعل شيئًا.

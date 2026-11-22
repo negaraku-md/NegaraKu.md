@@ -81,6 +81,13 @@ faq:
   - q: Can a landlord change the locks or cut the utilities if a tenant refuses to leave?
     a: No. Section 7(2) of the Specific Relief Act 1950 bars a landlord from self-help eviction — no changing locks, cutting electricity or water, or removing belongings while the tenant is still in occupation. Recovering possession requires a court order. For unpaid rent, a landlord applies to court for a warrant of distress under the Distress Act 1951 to seize the tenant's movable property, rather than confronting the tenant directly.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'High-rise apartment flats beside an LRT line at Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ask a landlord and a tenant in Malaysia which law protects them, and most will guess wrong. There is no "Residential Tenancy Act" to reach for — no single statute setting notice periods, capping deposits, or spelling out what a landlord can and can't do at move-out.

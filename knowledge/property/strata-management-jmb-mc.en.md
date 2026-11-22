@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'The Orion Condominium and Sky Residences strata high-rises in Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 You buy a condominium unit, but who actually owns the lift, the swimming pool and the car-park driveway — and who has the right to collect a monthly fee from you? The answer lies in a layer of governance that buyers rarely read about until a dispute arises: the framework of the Strata Management Act 2013 (Act 757).

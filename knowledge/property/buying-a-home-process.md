@@ -74,6 +74,13 @@ faq:
   - q: Why do buyers often end up paying two sets of legal fees on one purchase?
     a: Because two separate documents run in parallel, handled on behalf of different clients. One lawyer drafts and stamps the Sale and Purchase Agreement that transfers the property; another — appointed by the bank, sometimes the same firm wearing a second hat — prepares the Loan Agreement and the Charge (Form 16A) that secures the bank's interest. The bank's solicitor protects the bank's charge, not the buyer's deposit, so their roles and fees are distinct.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'The signposted entrance and guardhouse of the Cassia Homes housing development in Seremban at dusk, with terraced houses behind.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Two lawyers usually touch a Malaysian home purchase, and most buyers never notice they're two different people. One drafts and stamps the Sale and Purchase Agreement that moves the property. The other — appointed by the bank, sometimes the same firm — drafts and stamps the loan and the charge that lets the bank seize the property if the loan isn't repaid. Buyers who think of "the lawyer" as a single character in this story tend to be the ones confused later about why two sets of legal fees showed up, or why the keys didn't arrive the day the loan was approved.

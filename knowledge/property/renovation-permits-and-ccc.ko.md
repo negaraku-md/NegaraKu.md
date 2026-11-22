@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: '슬랑오르주의 2층 연립주택 개조 중인 실내로, 출입구 너머로 이웃집이 보인다.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 집 뒤에 부엌을 더하거나 층을 올리고 싶은데 — 갑자기 이웃이 「먼저 시청에 신청해야 한다」고 말합니다. 정말일까요? 대부분의 개조 공사의 경우, 그렇습니다.

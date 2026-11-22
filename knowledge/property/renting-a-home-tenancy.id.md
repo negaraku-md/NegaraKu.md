@@ -82,6 +82,13 @@ faq:
   - q: Bisakah pemilik rumah mengganti kunci atau memutus utilitas jika penyewa menolak pergi?
     a: Tidak. Pasal 7(2) Undang-Undang Pemulihan Spesifik 1950 (Specific Relief Act 1950) melarang pemilik rumah melakukan pengusiran sendiri — tidak boleh mengganti kunci, memutus listrik atau air, atau memindahkan barang selama penyewa masih menempati. Mengambil kembali kepemilikan memerlukan perintah pengadilan. Untuk tunggakan sewa, pemilik rumah mengajukan permohonan ke pengadilan untuk surat perintah penyitaan berdasarkan Undang-Undang Penyitaan 1951 (Distress Act 1951) guna menyita barang bergerak penyewa, alih-alih berhadapan langsung dengan penyewa.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Flat apartemen bertingkat tinggi di samping jalur LRT di Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tanyakan kepada seorang pemilik dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan menebak salah. Tidak ada "Undang-Undang Sewa Hunian" untuk dirujuk — tidak ada satu statuta tunggal yang menetapkan masa pemberitahuan, membatasi deposit, atau menyatakan dengan jelas apa yang boleh dan tidak boleh dilakukan pemilik saat pindah keluar.

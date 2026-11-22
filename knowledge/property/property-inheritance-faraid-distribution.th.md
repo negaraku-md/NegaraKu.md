@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'แถวบ้านแฝดที่สร้างมานานหลังป้ายย่าน Taman Idaman ในมาเลเซีย'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่อบุคคลหนึ่งเสียชีวิตในมาเลเซีย ใครเป็นผู้รับมรดกบ้านของเขาขึ้นอยู่กับเรื่องพื้นฐานเรื่องหนึ่งก่อน คือ ผู้เสียชีวิตเป็นชาวมุสลิมหรือไม่ใช่มุสลิม ระบบกฎหมายที่แตกต่างกันสองระบบควบคุมคำตอบนั้น และทั้งสองดำเนินการผ่านหน่วยงานที่แตกต่างกันก่อนที่โฉนดที่ดินใด ๆ จะเปลี่ยนชื่อได้

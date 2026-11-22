@@ -75,6 +75,13 @@ faq:
   - q: Mengapa pembeli sering kali akhirnya membayar dua set biaya hukum untuk satu pembelian?
     a: Karena ada dua dokumen terpisah yang berjalan secara paralel, ditangani atas nama klien yang berbeda. Satu pengacara menyusun dan memeteraikan Perjanjian Jual Beli yang mengalihkan properti; pengacara lain — ditunjuk oleh bank, kadang kantor yang sama mengenakan topi kedua — menyiapkan Perjanjian Pinjaman dan Pembebanan (Formulir 16A) yang menjamin kepentingan bank. Pengacara bank melindungi pembebanan bank, bukan uang muka pembeli, sehingga peran dan biaya mereka berbeda.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'Pintu masuk berpapan nama dan pos jaga pengembangan perumahan Cassia Homes di Seremban saat senja, dengan rumah teres di belakangnya.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Biasanya dua orang pengacara terlibat dalam suatu pembelian rumah di Malaysia, dan kebanyakan pembeli sama sekali tidak menyadari bahwa mereka adalah dua orang yang berbeda. Seorang menyiapkan dan memeteraikan Perjanjian Jual Beli yang mengalihkan properti itu. Seorang lagi — ditunjuk oleh bank, kadang firma yang sama — menyiapkan dan memeteraikan perjanjian pinjaman serta gadaian yang memungkinkan bank menyita properti itu jika pinjaman tidak dibayar kembali. Pembeli yang menganggap "pengacara" itu sebagai satu tokoh tunggal dalam cerita ini biasanya bingung kemudian mengapa dua set biaya pengacara muncul, atau mengapa kunci rumah tidak sampai pada hari pinjaman disetujui.

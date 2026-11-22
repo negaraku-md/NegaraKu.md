@@ -69,6 +69,13 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "إنترنت الألياف ماليزيا", "JENDELA MCMC", "فحص تغطية النطاق العريض المنزلي ماليزيا", "تركيب إنترنت الألياف ماليزيا", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'فنّي من شركة تيليكوم ماليزيا يعمل عند نقطة توزيع كابلات اتصالات على جانب الطريق في كوالالمبور.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قبل أن تقارن حتى رينغيتًا واحدًا من السعر، هناك سؤال أهم: هل تصل الألياف أصلًا إلى باب منزلك؟ وقّع عقدًا لعامين قبل التحقق من ذلك، وقد تكتشف يوم التركيب أن الفنّي لا يستطيع فعلًا مدّ خط إلى وحدتك.

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Các tòa nhà cao tầng sở hữu phân tầng Orion Condominium và Sky Residences ở Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn mua một căn chung cư, nhưng ai thực sự sở hữu thang máy, hồ bơi và lối đậu xe — và ai có quyền thu phí hàng tháng từ bạn? Câu trả lời nằm ở một lớp quản trị mà người mua hiếm khi đọc cho đến khi phát sinh tranh chấp: khuôn khổ của Luật Quản lý Phân tầng 2013 (Strata Management Act 2013) (Luật 757).

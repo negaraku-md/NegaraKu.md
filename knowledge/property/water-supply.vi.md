@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'Hồ chứa đập Babagon ở Sabah, một nguồn nước thô cho nguồn cung nước uống đã qua xử lý, với bảng thông tin bên bờ nước.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn chuyển từ Selangor sang Johor. Tài khoản ngân hàng vẫn vậy. Đường dây điện thoại có thể mang theo. Nhưng tài khoản nước của bạn thì sao? Nó không đi theo — vì công ty cung cấp nước cho ngôi nhà mới của bạn hoàn toàn không phải cùng một công ty.

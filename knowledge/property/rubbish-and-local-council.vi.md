@@ -68,6 +68,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'Một xe tải chở rác của KDEB Waste Management đang thu gom rác bên ngoài một khối chung cư ở Kota Damansara, Selangor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Thùng rác của bạn được lấy hai lần một tuần, nhưng bạn có bao giờ hỏi ai thực sự lấy nó — hội đồng địa phương, hay một công ty khác mà hội đồng thuê? Và vì sao hàng xóm của bạn ở bang bên cạnh có thể bị phạt vì không tách chai nhựa khỏi rác thực phẩm, trong khi bạn thì không?

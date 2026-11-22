@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'குவாலாலம்பூரில் ஒரு மலேசிய வங்கிக் கட்டிடத்திற்கு வெளியே அழகுபடுத்தப்பட்ட முற்றத்தில் சிவப்பு நிற பப்ளிக் பேங்க் பெர்ஹாத் மற்றும் பப்ளிக் இன்வெஸ்ட்மென்ட் பேங்க் அடையாளப் பலகைகள்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கனவு வீடு RM450,000 ஆக இருக்கலாம், ஆனால் அடுத்த 30 ஆண்டுகளுக்கு அதைத் திரும்பச் செலுத்தும் திறன் உங்களுக்கு உண்டு என்று உறுதிப்படுத்திக் கொள்ளும் வரை வங்கி அந்தப் பணத்தைக் கையளிக்காது. அங்குதான் அடமானப் பணமளிப்பு உலகம் தொடங்குகிறது — மார்ஜின், கடன் சேவை விகிதம், காப்பீடு, KWSP சேமிப்பு மற்றும் முத்திரை வரி ஆகிய அனைத்தும் அந்த வீட்டின் சாவி உங்கள் கையுக்கு வருமா என்பதைத் தீர்மானிக்கின்றன.

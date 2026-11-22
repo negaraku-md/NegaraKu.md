@@ -68,6 +68,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["النفايات ماليزيا", "إعادة التدوير ماليزيا", "فصل النفايات من المنبع", "المجلس المحلي النفايات", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'شاحنة نفايات تابعة لشركة KDEB لإدارة النفايات تجمع القمامة خارج مجمّع شقق في كوتا دامانسارا بولاية سلانجور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تُجمع حاوية نفاياتك مرتين أسبوعيًا، لكن هل سألت يومًا من الذي يجمعها فعلاً — المجلس المحلي، أم شركة أخرى عيّنها المجلس؟ ولماذا قد يُغرَّم جارك في الولاية المجاورة لعدم فصله زجاجات البلاستيك عن بقايا الطعام، بينما لا تُغرَّم أنت؟

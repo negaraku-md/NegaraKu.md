@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: '马来西亚 Taman Idaman 社区招牌后方一排老旧的排屋。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在马来西亚，当一个人去世后，谁继承他的房子首先取决于一个根本问题：死者是穆斯林还是非穆斯林。两套不同的法律体系主导着这个答案，而且在任何土地地契能够转名之前，两者都要经过不同的主管机构处理。

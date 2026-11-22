@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "certificat d'achèvement et de conformité", "rénovation d'un logement", "approbation PBT", "Akta 133", "permis de rénovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'L''intérieur d''une maison mitoyenne à deux étages en cours de rénovation à Selangor, Malaisie, avec une maison voisine visible par l''embrasure de la porte.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous voulez ajouter une cuisine à l'arrière de la maison ou construire un étage supérieur, et soudain un voisin vous dit « il faut d'abord faire une demande à la municipalité ». Est-ce vrai ? Pour la plupart des travaux de rénovation, oui.

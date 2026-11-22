@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "taxe d'évaluation Malaisie", "redevance foncière Malaisie", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Une rangée de maisons mitoyennes modernes à deux étages derrière une clôture dans un lotissement malaisien, à Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Beaucoup de nouveaux propriétaires sont surpris de recevoir une deuxième facture à laquelle ils ne s'attendaient pas. Ils ont déjà payé l'« impôt foncier » cette année — alors pourquoi le conseil municipal envoie-t-il aussi une mise en demeure ?

@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: '吉隆坡一栋马来西亚银行大楼外绿化广场上的红色 Public Bank Berhad 和 Public Investment Bank 招牌。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 心仪的房子也许标价RM450,000，但在银行确信你有能力在未来30年内还清之前，它是不会把这笔钱交给你的。按揭融资的世界正是从这里开始——融资额度、偿债比率、保险、公积金储蓄和印花税，这一切都决定着那把房门钥匙能否落入你的手中。

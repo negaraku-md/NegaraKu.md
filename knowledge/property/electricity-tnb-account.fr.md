@@ -70,6 +70,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'Un compteur électrique de Tenaga Nasional Berhad fixé au mur avec une carte de numéro de compte écrite à la main, dans une maison en Malaisie.'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous avez les clés de votre nouveau logement, mais l'interrupteur ne fait rien. Le compteur à l'extérieur tourne toujours au nom de l'ancien propriétaire — et tant que ce compte ne change pas de nom, chaque kilowatt que vous consommez relève techniquement encore de la responsabilité de quelqu'un d'autre. Beaucoup supposent qu'« appeler TNB » suffit à régler cela. En Malaisie péninsulaire, oui. À Sabah et au Sarawak, c'est tout simplement le mauvais numéro de téléphone.

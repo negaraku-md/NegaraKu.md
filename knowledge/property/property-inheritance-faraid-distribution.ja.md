@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'マレーシアの Taman Idaman 地区の看板の奥に立ち並ぶ、建てられてから年数の経ったテラスハウス。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアで誰かが亡くなったとき、誰がその家を相続するかは、まず一つの根本的な事柄にかかっている。すなわち、死者がムスリムか非ムスリムかである。その答えは二つの異なる法体系によって規律され、いずれも土地地権が名義変更される前に、それぞれ別の主管機関を経由する。

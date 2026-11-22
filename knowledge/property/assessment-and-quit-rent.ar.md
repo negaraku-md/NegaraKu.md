@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["ضريبة التقدير العقاري", "cukai pintu", "ضريبة الأرض", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "قانون الأراضي الوطني", "Kanun Tanah Negara", "الهيئة المحلية", "مكتب الأراضي"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'صفٌّ من المنازل المتلاصقة الحديثة المكوّنة من طابقين خلف سياج في مجمّع سكني ماليزي بمدينة سيرمبان.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يُفاجأ كثير من أصحاب المنازل الجدد بتلقّي فاتورة ثانية لم يتوقّعوها. فقد دفعوا بالفعل «ضريبة الأرض» هذه السنة — فلماذا يرسل المجلس البلدي إشعار مطالبة أيضاً؟

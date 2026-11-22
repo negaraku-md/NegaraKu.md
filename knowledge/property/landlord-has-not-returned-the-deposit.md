@@ -77,6 +77,13 @@ entity: "A withheld rental deposit in Malaysia"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'The Puncak Desa high-rise apartment flats in Kepong, Kuala Lumpur, a typical Malaysian rental housing block.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Few things sour the end of a tenancy like a landlord who keeps the deposit. It is usually a meaningful sum, it often feels unjust, and the temptation is to escalate straight away. Before you do, it helps to understand the one fact that shapes everything about a deposit dispute in Malaysia — because it is not what many tenants assume.

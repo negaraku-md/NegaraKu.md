@@ -78,6 +78,13 @@ entity: "말레이시아에서 보류된 임대 보증금"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: '쿠알라룸푸르 크퐁(Kepong)의 Puncak Desa 고층 아파트 주택으로, 전형적인 말레이시아 임대 주택 건물이다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 집주인이 보증금을 돌려주지 않는 것만큼 임대차의 끝을 씁쓸하게 만드는 일도 드뭅니다. 보통 적지 않은 금액이고, 부당하게 느껴지는 경우가 많으며, 당장 강하게 밀어붙이고 싶은 유혹이 생깁니다. 그러기 전에, 말레이시아에서 보증금 분쟁의 모든 것을 좌우하는 한 가지 사실을 이해하는 것이 도움이 됩니다 — 많은 세입자가 생각하는 것과 다르기 때문입니다.

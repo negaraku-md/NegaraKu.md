@@ -70,6 +70,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["TNB बिजली खाता", "नया TNB खाता खोलना", "TNB बिजली जमा", "बिजली खाता नाम बदलना", "Change of Tenancy TNB", "SESB सबाह बिजली", "Sarawak Energy जमा", "myTNB Self Meter Reading", "बिजली मीटर रीडिंग", "Kedai Tenaga", "electricity account Malaysia"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'मलेशिया में एक घर पर, हाथ से लिखे खाता-संख्या कार्ड के साथ दीवार पर लगा तेनागा नासिओनल बरहाद (TNB) का बिजली मीटर।'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आपको अपने नए घर की चाबियाँ मिल गई हैं, लेकिन लाइट का स्विच कुछ नहीं

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'கொம்பாக்கில், முன்புறத்தில் மலேசியக் கொடிகளுடன், பசுமையால் மூடப்பட்ட கைவிடப்பட்ட முழுமையடையாத காங்கிரீட் பல மாடிக் கட்டிடம்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் வைப்புத்தொகையைச் செலுத்திவிட்டீர்கள், விற்பனை மற்றும் கொள்முதல் ஒப்பந்தத்தில் கையெழுத்திட்டீர்கள், வீட்டின் சாவிக்காகக் காத்திருக்கிறீர்கள் — பிறகு கட்டுமான தளம் பல மாதங்களாக அமைதியாக இருக்கிறது. தீபகற்ப மலேசியாவில் புதிய குடியிருப்பு வீடு வாங்குவோருக்கு, இதுபோன்ற ஒரு நிலை ஏற்படுவதற்கு முன்பும், அப்போதும், பின்பும் சட்டம் உண்மையில் பல அடுக்கு பாதுகாப்பை வழங்குகிறது. முக்கியமானது என்னவென்றால், எது பாதுகாக்கப்படுகிறது என்பதையும், ஏதேனும் தவறு நேரும்போது எங்கு செல்ல வேண்டும் என்பதையும் அறிந்திருப்பதே.

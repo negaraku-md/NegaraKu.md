@@ -78,6 +78,13 @@ entity: "Un depósito de alquiler retenido en Malasia"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Los pisos de apartamentos de gran altura Puncak Desa en Kepong, Kuala Lumpur, un típico bloque de vivienda de alquiler malasio.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pocas cosas amargan tanto el final de un arrendamiento como un arrendador que se queda con el depósito. Suele ser una suma importante, a menudo parece injusto, y la tentación es escalar de inmediato. Antes de hacerlo, ayuda entender el único hecho que determina todo en una disputa de depósito en Malasia, porque no es lo que muchos inquilinos suponen.

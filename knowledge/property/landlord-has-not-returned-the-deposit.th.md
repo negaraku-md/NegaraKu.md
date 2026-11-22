@@ -78,6 +78,13 @@ entity: "เงินมัดจำค่าเช่าที่ถูกย�
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'แฟลตอพาร์ตเมนต์สูง Puncak Desa ในย่านเกอปง กัวลาลัมเปอร์ ซึ่งเป็นอาคารที่อยู่อาศัยให้เช่าแบบทั่วไปของมาเลเซีย'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มีไม่กี่อย่างที่ทำให้ช่วงท้ายของการเช่าขมขื่นได้เท่ากับเจ้าของบ้านที่ยึดเงินมัดจำไว้ มันมักเป็นเงินก้อนที่มีความหมาย มักรู้สึกว่าไม่เป็นธรรม และความอยากที่จะยกระดับเรื่องทันทีก็สูง ก่อนที่คุณจะทำเช่นนั้น การเข้าใจข้อเท็จจริงหนึ่งเดียวที่กำหนดทุกอย่างเกี่ยวกับข้อพิพาทเรื่องเงินมัดจำในมาเลเซียจะช่วยได้ — เพราะมันไม่ใช่สิ่งที่ผู้เช่าหลายคนสันนิษฐาน

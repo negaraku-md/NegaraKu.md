@@ -74,6 +74,13 @@ faq:
   - q: 매수인은 왜 한 번의 구입에서 두 세트의 법무 비용을 내게 되는 경우가 많습니까?
     a: 서로 다른 의뢰인을 대리하여 처리되는 두 개의 별도 문서가 병행으로 진행되기 때문입니다. 한 변호사는 부동산을 이전하는 매매계약을 작성하고 인지를 붙이며, 다른 한 변호사는 — 은행이 선임하며 때로는 같은 법무법인이 두 번째 역할을 맡기도 합니다 — 은행의 이익을 담보하는 대출계약과 저당권 설정(양식 16A)을 준비합니다. 은행 측 변호사는 매수인의 계약금이 아니라 은행의 저당권을 보호하므로, 양측의 역할과 비용은 별개입니다.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: '황혼 무렵 스름반 Cassia Homes 주택 개발지의 표지판이 있는 입구와 경비실로, 뒤편에 연립주택이 있다.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아의 주택 매수에는 보통 두 명의 변호사가 관여하지만, 대다수 매수인은 그들이 서로 다른 사람이라는 사실을 알아차리지 못합니다. 한 명은 부동산을 이전하는 매매계약을 작성하고 날인합니다. 다른 한 명은 — 은행이 지정하며, 때로는 같은 로펌이 — 대출이 상환되지 않을 경우 은행이 부동산을 압류할 수 있게 하는 대출과 담보권을 작성하고 날인합니다. 「그 변호사」를 이 이야기 속 한 명의 등장인물로만 생각하는 매수인은, 나중에 왜 두 벌의 법률 비용이 청구되었는지, 또는 왜 대출 승인 당일에 열쇠가 오지 않았는지 혼란스러워하는 사람이 되기 쉽습니다.

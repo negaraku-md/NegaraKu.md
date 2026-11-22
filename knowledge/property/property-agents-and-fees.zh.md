@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: '柔佛州峇株巴辖（Batu Pahat）Taman Soga Sutera 开发项目招牌后方的现代半独立式房屋。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 经纪人胸牌上的号码不是装饰品——它是快速区分合法协商员与仅仅自称经纪人者的唯一途径。在马来西亚，谁可以代表你买卖、出租或协商房地产，受到法律的严格管制。

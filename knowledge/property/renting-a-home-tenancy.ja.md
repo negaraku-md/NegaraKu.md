@@ -80,6 +80,13 @@ faq:
   - q: 賃借人が退去を拒んだ場合、貸主は鍵を交換したり、公共料金（水道・電気）を止めたりできますか。
     a: いいえ。1950年特定救済法（Specific Relief Act 1950）第7(2)条は、貸主が自力で立ち退かせること（自力救済）を禁じています——賃借人がまだ占有している間に、鍵を交換したり、電気や水を止めたり、所有物を持ち出したりしてはなりません。占有を回復するには裁判所の命令が必要です。未払賃料については、貸主は賃借人に直接対峙するのではなく、1951年差押法（Distress Act 1951）に基づき賃借人の動産を差し押さえる差押令状を裁判所に申請します。
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'クアラルンプールの Taman Miharja の LRT 路線沿いにある高層アパート住宅。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの貸主と借主に、どの法律が自分たちを守ってくれるのかと尋ねれば、大半は間違って答えるだろう。援用できる「住宅賃貸借法」は存在しない——通知期間を定め、保証金に上限を設け、退去時に貸主が何をでき何をできないかを明記する、単一の成文法は存在しない。

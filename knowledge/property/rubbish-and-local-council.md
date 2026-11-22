@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'Sebuah lori sampah KDEB Waste Management sedang mengutip sampah di luar sebuah blok pangsapuri di Kota Damansara, Selangor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tong sampah anda diambil dua kali seminggu, tapi bilkah anda pernah tanya siapa sebenarnya yang mengambilnya — majlis tempatan, atau syarikat lain yang majlis lantik? Dan kenapa jiran anda di negeri sebelah boleh kena denda kerana tidak mengasingkan botol plastik daripada sisa makanan, sedangkan anda tidak?

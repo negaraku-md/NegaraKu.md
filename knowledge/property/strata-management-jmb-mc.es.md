@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "Corporación de Gestión", "Órgano de Gestión Conjunta", "Tribunal de Gestión de Estratos", "Ley de Gestión de Estratos 2013", "cuota de mantenimiento", "fondo de reserva", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Los rascacielos en régimen de propiedad horizontal Orion Condominium y Sky Residences en Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Compras una unidad de condominio, pero ¿quién posee realmente el ascensor, la piscina y la calzada del aparcamiento — y quién tiene derecho a cobrarte una cuota mensual? La respuesta está en un nivel de gobernanza sobre el que los compradores rara vez leen hasta que surge un conflicto: el marco de la Ley de Gestión de Estratos de 2013 (Ley 757).

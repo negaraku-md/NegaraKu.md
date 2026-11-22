@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'மலேசியாவில் தாமான் இடாமான் அக்கம்பக்க அடையாளப் பலகைக்குப் பின்னால் உள்ள நிலைபெற்ற வரிசை வீடுகள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் ஒருவர் இறக்கும்போது, அவரது வீட்டை யார் வாரிசாகப் பெறுகிறார் என்பது முதலில் ஒரு அடிப்படை விஷயத்தைப் பொறுத்தது: இறந்தவர் ஒரு முஸ்லிமா அல்லது முஸ்லிம் அல்லாதவரா என்பது. இரண்டு வெவ்வேறு சட்ட அமைப்புகள் அந்த விடையைக் கட்டுப்படுத்துகின்றன, மேலும் எந்தவொரு நிலப் பட்டா (geran tanah) பெயர் மாறுவதற்கு முன்பு இரண்டும் வெவ்வேறு அதிகாரிகள் வழியாகச் செல்கின்றன.

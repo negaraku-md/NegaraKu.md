@@ -61,6 +61,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'Takungan Empangan Babagon di Sabah, sumber air mentah untuk bekalan air minuman yang dirawat, dengan papan tanda maklumat di tepi air.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda berpindah dari Selangor ke Johor. Akaun bank sama. Talian telefon boleh dibawa sekali. Tapi akaun air anda? Ia tidak ikut serta — kerana syarikat yang membekalkan air ke rumah baharu anda bukan syarikat yang sama sekali.

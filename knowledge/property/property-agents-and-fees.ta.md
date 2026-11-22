@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'ஜொகூர், பத்து பாஹாத்தில் தாமான் சோகா சுத்தேரா வளர்ச்சி அடையாளப் பலகைக்குப் பின்னால் உள்ள நவீன அரை-தனி வீடுகள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 அந்த முகவரின் மார்பு அடையாள அட்டையில் உள்ள எண் ஒரு அலங்காரம் அல்ல — சட்டப்பூர்வமான ஒரு பேச்சுவார்த்தையாளரை, தன்னை முகவர் என்று வெறுமனே கூறிக்கொள்பவரிடமிருந்து வேறுபடுத்திக் காட்டும் ஒரே விரைவான வழி அதுவேயாகும். மலேசியாவில், உங்கள் சார்பாக யார் சொத்தை விற்கலாம், வாடகைக்கு விடலாம் அல்லது பேச்சுவார்த்தை நடத்தலாம் என்பது சட்டத்தால் இறுக்கமாகக் கட்டுப்படுத்தப்படுகிறது.

@@ -82,6 +82,13 @@ faq:
   - q: Chủ nhà có được thay khóa hoặc cắt điện nước nếu người thuê không chịu dọn đi không?
     a: Không. Điều 7(2) của Luật Cứu trợ cụ thể 1950 (Specific Relief Act 1950) cấm chủ nhà tự ý trục xuất — không được thay khóa, cắt điện hoặc nước, hay dọn đồ đạc đi trong khi người thuê vẫn còn chiếm giữ. Việc lấy lại quyền chiếm hữu đòi hỏi phải có lệnh của tòa án. Đối với tiền thuê chưa trả, chủ nhà phải nộp đơn lên tòa xin trát xiết nợ theo Luật Xiết nợ 1951 (Distress Act 1951) để tịch thu động sản của người thuê, thay vì trực tiếp đối đầu với người thuê.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Các căn hộ chung cư cao tầng bên cạnh tuyến LRT tại Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hãy hỏi một chủ nhà và một người thuê ở Malaysia luật nào bảo vệ họ, và phần lớn sẽ đoán sai. Không có một "Luật Thuê nhà ở" nào để viện đến — không có một luật đơn lẻ nào đặt ra thời hạn báo trước, giới hạn tiền đặt cọc, hay nêu rõ chủ nhà được và không được làm gì khi dọn ra.

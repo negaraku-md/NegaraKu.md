@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'Sederetan rumah teres yang sudah mapan di belakang papan tanda lingkungan Taman Idaman di Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ketika seseorang meninggal dunia di Malaysia, siapa yang mewarisi rumahnya bergantung pada satu hal mendasar terlebih dahulu: apakah pewaris seorang Islam atau non-Islam. Dua sistem hukum yang berbeda mengatur jawaban itu, dan keduanya berjalan melalui pihak berwenang yang berlainan sebelum sertifikat tanah mana pun dapat berganti nama.

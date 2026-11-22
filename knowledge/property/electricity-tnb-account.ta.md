@@ -70,6 +70,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு வீட்டில், கையால் எழுதப்பட்ட கணக்கு எண் அட்டையுடன் சுவரில் பொருத்தப்பட்ட தெனகா நேசனல் பெர்ஹாத் (TNB) மின் மீட்டர்.'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் புதிய வீட்டின் சாவியைப் பெற்றுவிட்டீர்கள், ஆனால் விளக்குச் சுவிட்ச்

@@ -78,6 +78,13 @@ entity: "Deposit sewa yang ditahan di Malaysia"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Pangsapuri bertingkat tinggi Puncak Desa di Kepong, Kuala Lumpur, sebuah blok perumahan sewa Malaysia yang tipikal.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sedikit perkara yang merosakkan pengakhiran sesuatu penyewaan seperti tuan rumah yang menyimpan deposit. Ia biasanya jumlah yang bermakna, ia selalunya terasa tidak adil, dan godaannya ialah untuk terus eskalasi. Sebelum anda berbuat demikian, ada baiknya memahami satu fakta yang membentuk segala-galanya tentang pertikaian deposit di Malaysia — kerana ia bukan apa yang diandaikan oleh ramai penyewa.

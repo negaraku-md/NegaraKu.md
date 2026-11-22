@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: '雪兰莪州一栋双层排屋正在装修的室内，透过门口可见邻屋。'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你想在屋后加建一间厨房，或者往上加盖一层——突然邻居说"得先向市议会申请"。这是真的吗？对于大多数装修工程，答案是：是的。

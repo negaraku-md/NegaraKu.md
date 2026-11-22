@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'சபாவில் உள்ள பபாகோன் அணை நீர்த்தேக்கம், சுத்திகரிக்கப்பட்ட குடிநீர் வழங்கலுக்கான கச்சா நீர் ஆதாரம், நீர்க்கரையில் ஒரு தகவல் அடையாளப் பலகையுடன்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் Selangor-இலிருந்து Johor-க்கு மாறுகிறீர்கள். வங்கிக் கணக்கு அப்படியே இருக்கிறது. உங்கள் தொலைபேசி இணைப்பை உங்களுடன் கொண்டு வர முடியும். ஆனால் உங்கள் நீர் கணக்கு? அது உங்களைப் பின்தொடராது — ஏனெனில் உங்கள் புதிய வீட்டிற்கு நீர் வழங்கும் நிறுவனம் முற்றிலும் வேறு ஒரு நிறுவனமே.

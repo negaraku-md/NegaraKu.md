@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: '말레이시아 Taman Idaman 동네 간판 뒤편에 늘어선 오래된 연립주택.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 누군가 사망하면, 누가 그의 주택을 상속하는지는 먼저 한 가지 기본적인 사실에 달려 있습니다: 사망자가 무슬림인지 비무슬림인지. 서로 다른 두 법 체계가 그 답을 규율하며, 어떤 토지 소유증서든 명의를 바꾸기 전에 두 체계 모두 서로 다른 관청을 거칩니다.

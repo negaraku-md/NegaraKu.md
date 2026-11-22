@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["agent immobilier", "REN", "LPEPH", "BOVAEP", "commission de l'agent", "honoraires de location", "négociateur immobilier", "property agent Malaysia"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'Des maisons jumelées modernes derrière le panneau du lotissement Taman Soga Sutera à Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Le numéro sur le badge que porte cet agent sur la poitrine n'est pas un ornement : c'est le seul moyen rapide de distinguer un négociateur légitime de quelqu'un qui se prétend simplement agent. En Malaisie, qui peut vendre, louer ou négocier un bien en votre nom est strictement réglementé par la loi.

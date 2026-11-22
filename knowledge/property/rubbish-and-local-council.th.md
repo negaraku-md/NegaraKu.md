@@ -68,6 +68,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'รถเก็บขยะ KDEB Waste Management กำลังเก็บขยะหน้าอาคารแฟลตในโกตาดามันซารา รัฐเซอลาโงร์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ถังขยะของคุณถูกเก็บสัปดาห์ละสองครั้ง แต่คุณเคยถามหรือไม่ว่าใครเป็นผู้เก็บจริง สภาท้องถิ่น หรือบริษัทอื่นที่สภาแต่งตั้ง? และเหตุใดเพื่อนบ้านของคุณในรัฐข้าง ๆ อาจถูกปรับเพราะไม่แยกขวดพลาสติกออกจากเศษอาหาร ในขณะที่คุณไม่ถูกปรับ?

@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'Một dãy nhà liền kề lâu đời phía sau bảng hiệu khu dân cư Taman Idaman ở Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi một người qua đời ở Malaysia, ai thừa kế ngôi nhà của họ phụ thuộc trước hết vào một điều cơ bản: người đã khuất là người Hồi giáo hay không phải người Hồi giáo. Hai hệ thống pháp luật khác nhau chi phối câu trả lời đó, và cả hai đều đi qua những cơ quan có thẩm quyền khác nhau trước khi bất kỳ giấy chứng nhận quyền sử dụng đất nào có thể đổi tên.

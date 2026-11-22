@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Những tòa tháp chung cư Verdana vươn lên trên khu dân cư North Kiara của Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn bán nhà có lãi — nhưng trước khi tiền vào tài khoản, chính phủ muốn phần của mình. Đó là RPGT, khoản thuế mà người bán thường bỏ sót cho đến khi luật sư giữ lại hàng nghìn ringgit tại bàn hoàn tất giao dịch.

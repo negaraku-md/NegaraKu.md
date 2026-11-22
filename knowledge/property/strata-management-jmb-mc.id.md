@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Gedung tinggi strata Orion Condominium dan Sky Residences di Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda membeli sebuah unit kondominium, tetapi siapa sebenarnya yang memiliki lift, kolam renang dan lorong tempat parkir — dan siapa yang berhak memungut iuran bulanan dari Anda? Jawabannya terletak pada satu lapisan tata kelola yang jarang dibaca pembeli sampai muncul sengketa: kerangka Strata Management Act 2013 (Act 757).

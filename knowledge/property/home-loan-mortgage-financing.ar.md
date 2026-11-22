@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["قرض السكن ماليزيا", "تمويل الرهن العقاري", "نسبة التمويل", "KWSP Akaun Sejahtera", "SJKP", "رسوم الدمغة اتفاقية القرض", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'لافتة حمراء لبنك Public Bank Berhad و Public Investment Bank في ساحة منسّقة أمام مبنى مصرف ماليزي في كوالالمبور.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قد يكلّف منزل أحلامك RM450,000، لكن المصرف لن يسلّمك ذلك المال حتى يطمئن إلى قدرتك على سداده على مدى الثلاثين سنة المقبلة. من هنا يبدأ عالم تمويل الرهن العقاري — نسب التمويل، ونسب خدمة الدَّين، والتأمين، ومدخرات EPF، ورسوم الدمغة، وكلها تحدّد ما إذا كانت مفاتيح ذلك المنزل ستنتهي في يديك.

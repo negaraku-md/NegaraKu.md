@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["prêt immobilier Malaisie", "financement hypothécaire", "marge de financement", "KWSP Akaun Sejahtera", "SJKP", "droit de timbre contrat de prêt", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'L''enseigne rouge de Public Bank Berhad et de Public Investment Bank sur une place paysagée devant un bâtiment bancaire malaisien à Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La maison de vos rêves coûte peut-être RM450,000, mais la banque ne débloquera cet argent qu'une fois convaincue que vous pouvez le rembourser au cours des 30 prochaines années. C'est là que commence l'univers du financement hypothécaire — marges, ratios de service de la dette, assurances, épargne EPF et droit de timbre, autant d'éléments qui déterminent si les clés de cette maison finiront entre vos mains.

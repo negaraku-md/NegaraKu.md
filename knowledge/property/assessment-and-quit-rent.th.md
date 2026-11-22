@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'แถวบ้านแฝดสองชั้นสมัยใหม่หลังรั้วในหมู่บ้านจัดสรรของมาเลเซีย เมืองเซอเริมบัน'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เจ้าของบ้านใหม่หลายคนแปลกใจเมื่อได้รับใบเรียกเก็บเงินใบที่สองที่พวกเขาไม่คาดคิดว่ามีอยู่ พวกเขาชำระ "ภาษีที่ดิน" ปีนี้ไปแล้ว เหตุใดสภาเทศบาลจึงส่งหนังสือทวงถามอีก?

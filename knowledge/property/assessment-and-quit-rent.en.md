@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'A row of modern double-storey terraced houses behind a fence in a Malaysian housing estate, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Many new homeowners are startled to receive a second bill they didn't expect. They've already paid "land tax" this year — so why is the municipal council sending a demand notice as well?

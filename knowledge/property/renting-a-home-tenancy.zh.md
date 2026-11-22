@@ -81,6 +81,13 @@ faq:
   - q: 如果租户拒绝搬离，房东可以更换门锁或切断水电吗？
     a: 不可以。《1950年特定救济法令》（Specific Relief Act 1950）第7(2)条禁止房东自行驱逐租户——在租户仍占用房产期间，不得更换门锁、切断电力或供水，或搬走其物品。要收回房产须取得法庭命令。至于拖欠的租金，房东须根据《1951年扣押法令》（Distress Act 1951）向法庭申请扣押令，以查封租户的动产，而非直接与租户对峙。
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: '吉隆坡 Taman Miharja 一条 LRT 轻快铁线路旁的高层公寓组屋。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 问马来西亚的房东和租客哪部法律保护他们，大多数人都会猜错。这里没有一部可以援引的「住宅租赁法」——没有单一成文法规定通知期、设定押金上限，或明确列出房东在租客搬出时能做与不能做的事。

@@ -76,6 +76,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "charges d'entretien Malaisie", "fonds de réserve Malaisie", "JMB Malaisie", "Corporation de Gestion Malaisie", "MC strata", "share units", "entretien copropriété Malaisie", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'Une haute tour de copropriété résidentielle rouge et blanche sur fond de ciel bleu à Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vous avez acheté l'unité. Vous n'avez pas acheté l'ascenseur, la guérite, la piscine, ni la canalisation qui traverse le mur que vous partagez avec votre voisin. Quelqu'un doit tout de même payer tout cela — et la loi scinde la facture en deux comptes que vous êtes légalement tenu de garder séparés.

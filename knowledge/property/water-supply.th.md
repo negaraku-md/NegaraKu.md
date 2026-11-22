@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'อ่างเก็บน้ำเขื่อน Babagon ในรัฐซาบะฮ์ ซึ่งเป็นแหล่งน้ำดิบสำหรับการประปาน้ำดื่มที่ผ่านการบำบัด โดยมีป้ายข้อมูลอยู่ริมน้ำ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณย้ายจากสลังงอร์ (Selangor) ไปยะโฮร์ (Johor) บัญชีธนาคารเหมือนเดิม เบอร์โทรศัพท์ก็ย้ายตามไปได้ แต่บัญชีน้ำประปาของคุณล่ะ? มันไม่ตามไปด้วย เพราะบริษัทที่จ่ายน้ำให้บ้านใหม่ของคุณไม่ใช่บริษัทเดียวกันเลย

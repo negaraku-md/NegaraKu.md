@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'Interior of a two-storey terraced house under renovation in Selangor, Malaysia, with a neighbouring house visible through the doorway.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 You want to add a kitchen at the back of the house or build an upper floor — and suddenly a neighbour says "you have to apply to the council first". Is that true? For most renovation work, yes.

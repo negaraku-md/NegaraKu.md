@@ -72,6 +72,13 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["المجتمعات المسوّرة والمحروسة ماليزيا", "الحي المحروس ماليزيا", "GACOS Malaysia", "رابطة السكان ماليزيا", "residents association Malaysia", "البوابة المتحركة قانون ماليزيا", "قضية Au Kean Hoe", "Street Drainage and Building Act 1974", "اعتراض الطريق العام ماليزيا"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'قوس مدخل مُضاء لمجمّع سكني مسوّر كُتب عليه ''Arden Hill Precinct 2'' مع كشك حراسة وحاجز متحرّك عند الغسق، في سيرمبان.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يمكن أن تبدو منطقتان سكنيتان متطابقتين — كشك حراسة من الطوب، بوابة متحركة مخطّطة، حارس بزيّه يفحص ملصق سيارتك. إحداهما تقوم على أرضية قانونية راسخة. والأخرى قائمة لأن لا أحد طعن فيها بعد.

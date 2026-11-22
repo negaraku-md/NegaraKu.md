@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "شهادة الإنجاز والامتثال", "تجديد المنزل", "موافقة PBT", "Akta 133", "تصريح التجديد", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'داخل منزل متلاصق من طابقين قيد التجديد في سلانجور بماليزيا، مع ظهور منزل مجاور عبر المدخل.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تريد إضافة مطبخ خلف المنزل أو بناء طابق علوي — وفجأةً يقول لك جار «عليك التقدّم إلى المجلس أولًا». أذلك صحيح؟ بالنسبة إلى معظم أعمال التجديد، نعم.

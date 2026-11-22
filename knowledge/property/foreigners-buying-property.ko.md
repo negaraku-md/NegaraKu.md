@@ -90,6 +90,13 @@ stayFacts:
   cost: '두 개의 겹쳐진 관문에 세금이 더해집니다: 각 주가 스스로 정하고 개정하는 최저 가격 하한선(구역별·군별, 또는 토지부 대 구분소유별로 나뉨), 한편 연방 직할지는 별개의 EPU 지침 하한선을 사용합니다; 그 위에 비국민의 주거용 이전에 대한 정률 인지세(stamp duty)와, 나중에 매각할 때 더 높고 평탄한 요율의 RPGT가 얹힙니다. 이 수치들은 변동되고 주마다 다르므로, 해당 주 토지청(Pejabat Tanah)이나 경제기획단(EPU)의 부동산 취득에 관한 지침(Guideline on the Acquisition of Properties)으로 현행 수치를 확인하십시오.'
   watch: '전국 공통의 단일한 RM100만 최저선은 없습니다 — 그 수치는 2014년 연방 지침에 따른 연방 직할지에만 해당하며, 어느 주의 가격 하한선을 통과하는 것은 외국인 명의로 소유권이 등기되기 전에 제433B조에 따라 요구되는 별개의 재량적 주 당국 동의를 얻는 것과 같지 않습니다.'
   next: '가격 하한선을 통과하고 부동산이 제외 대상이 아니면, (부동산 전문 변호사를 통해) 주 당국에 서면으로 동의를 신청하고, 불확실한 처리 기간을 매수 일정에 반영하십시오. MM2H 장기 체류 비자에 따른 매수도 여전히 같은 절차를 거친다는 점에 유의하고, 소유권이 이전된 뒤의 지속 의무는 「재산평가세와 토지세」를 참조하십시오.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: '쿠알라룸푸르의 현대식 유리 외벽 고층 주거용 타워(Ascott, 348 Sentral).'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 홍콩에서 온 매수인이 페탈링자야(Petaling Jaya)의 세미디 하우스에 RM180만을 지불하기로 합의합니다. 금융이 마련되고, 매도인도 의사가 있으며, 가격은 온라인에서 인용되는 모든 기준을 통과합니다. 그럼에도 이 거래는, 샤알람(Shah Alam)의 한 주 정부 사무소가 — 자체 재량으로 — 외국인이 그 소유권을 갖도록 허용할지 결정하기 전까지는 완결될 수 없습니다.

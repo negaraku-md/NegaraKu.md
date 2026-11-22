@@ -68,6 +68,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'செலாங்கூர், கோத்தா டமன்சாராவில் ஒரு குடியிருப்புத் தொகுதிக்கு வெளியே குப்பை சேகரிக்கும் KDEB வேஸ்ட் மேனேஜ்மென்ட் குப்பை லாரி.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 உங்கள் குப்பைத் தொட்டி வாரத்திற்கு இருமுறை காலி செய்யப்படுகிறது, ஆனால் அதை உண்மையில் யார் எடுக்கிறார்கள் என்று நீங்கள் எப்போதாவது கேட்டிருக்கிறீர்களா — உள்ளூராட்சி மன்றமா, அல்லது மன்றம் நியமித்த வேறு நிறுவனமா? மேலும், அடுத்த மாநிலத்தில் உள்ள உங்கள் அண்டைவீட்டார் பிளாஸ்டிக் பாட்டில்களை உணவுக் கழிவிலிருந்து பிரிக்காததற்காக அபராதம் விதிக்கப்படலாம், ஆனால் உங்களுக்கு இல்லை — ஏன்?

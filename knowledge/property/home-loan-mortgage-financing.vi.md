@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'Bảng hiệu màu đỏ của Public Bank Berhad và Public Investment Bank trên quảng trường có cảnh quan bên ngoài một tòa nhà ngân hàng Malaysia ở Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Căn nhà mơ ước có thể có giá RM450,000, nhưng ngân hàng sẽ không trao số tiền đó cho đến khi tin chắc rằng bạn có khả năng trả lại trong 30 năm tới. Đó là nơi thế giới tài trợ thế chấp bắt đầu — biên độ, tỷ lệ phục vụ nợ, bảo hiểm, tiết kiệm KWSP và thuế trước bạ, tất cả đều quyết định liệu chiếc chìa khóa ngôi nhà đó có sang tay bạn hay không.

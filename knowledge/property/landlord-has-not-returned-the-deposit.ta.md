@@ -78,6 +78,13 @@ entity: "மலேசியாவில் நிறுத்தி வைக்
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'குவாலாலம்பூர் கெப்போங்கில் உள்ள புஞ்சாக் தேசா வானுயர் குடியிருப்பு வீடுகள், ஒரு வழக்கமான மலேசிய வாடகை குடியிருப்புத் தொகுதி.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 வீட்டு உரிமையாளர் அடைமானத்தை வைத்துக்கொண்டால், அதைப் போல ஒரு வாடகையின் முடிவை கசப்பாக்குவது வேறெதுவும் இல்லை. அது பொதுவாக ஒரு கணிசமான தொகை, அநியாயமாக உணரப்படுவது அடிக்கடி, மேலும் உடனடியாகப் படிப்படியாக உயர்த்த வேண்டும் என்ற சபலம் ஏற்படுகிறது. அதற்கு முன், மலேசியாவில் ஒரு அடைமானத் தகராறைப் பற்றிய அனைத்தையும் வடிவமைக்கும் ஒரே உண்மையைப் புரிந்துகொள்வது உதவுகிறது — ஏனெனில் அது பல வாடகைதாரர்கள் கருதுவது போல் இல்லை.

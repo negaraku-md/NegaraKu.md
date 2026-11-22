@@ -82,6 +82,13 @@ faq:
   - q: ¿Puede un arrendador cambiar las cerraduras o cortar los suministros si el inquilino se niega a marcharse?
     a: No. El Artículo 7(2) de la Ley de Reparación Específica de 1950 (Specific Relief Act 1950) prohíbe al arrendador el desalojo por mano propia — no puede cambiar cerraduras, cortar la electricidad o el agua, ni retirar pertenencias mientras el inquilino siga ocupando el inmueble. Recuperar la posesión requiere una orden judicial. Por el alquiler impago, el arrendador solicita al tribunal un mandamiento de embargo conforme a la Ley de Embargo de 1951 (Distress Act 1951) para incautar los bienes muebles del inquilino, en lugar de enfrentarse directamente a él.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Pisos de apartamentos de gran altura junto a una línea de LRT en Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pregunte a un arrendador y a un inquilino en Malasia qué ley los protege, y la mayoría se equivocará. No hay una «Ley de Arrendamiento Residencial» a la que recurrir, ni una única norma que fije los plazos de preaviso, limite los depósitos o detalle lo que un arrendador puede y no puede hacer al momento de la mudanza.

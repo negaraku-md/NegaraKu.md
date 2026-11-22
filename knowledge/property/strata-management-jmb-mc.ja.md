@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'クアラルンプールの Orion Condominium と Sky Residences のストラタ（分割所有）高層建築。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 コンドミニアムの一室を購入したとして、エレベーター、プール、駐車通路を実際に所有するのは誰か——そして毎月の費用をあなたから徴収する権利を持つのは誰か。その答えは、紛争が生じるまで購入者がめったに読まないひとつのガバナンス階層にある。すなわち2013年区分所有管理法（Act 757）の枠組みである。

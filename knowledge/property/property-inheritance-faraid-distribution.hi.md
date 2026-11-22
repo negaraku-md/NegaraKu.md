@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["फराइद", "faraid", "संपत्ति की विरासत", "वितरण अधिनियम 1958", "Distribution Act 1958", "Amanah Raya", "फराइद प्रमाणपत्र", "छोटी संपदा", "भूमि कार्यालय"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'मलेशिया में तामन इदमान मोहल्ले के नाम-पट्ट के पीछे पुराने स्थापित कतारबद्ध मकानों की एक पंक्ति।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जब मलेशिया में किसी की मृत्यु होती है, तो उसके घर का वारिस कौन होगा, यह पहले एक बुनियादी बात पर निर्भर करता है: मृतक मुसलमान था या गैर-मुसलमान। दो अलग-अलग कानूनी प्रणालियाँ इसका उत्तर तय करती हैं, और किसी भी भूमि के स्वामित्व का नाम बदलने से पहले दोनों अलग-अलग प्राधिकरणों से होकर गुज़रती हैं।

@@ -69,6 +69,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: '马来西亚一户住宅墙上安装的 TNB（Tenaga Nasional）电表，附有手写账号卡片。'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你已经拿到新家的钥匙，但电灯开关毫无反应。屋外的电表仍在旧屋主名下运转着——而在账户过户之前，你用的每一度电，名义上都还挂在别人的欠款责任上。许多人以为「打电话给 TNB」就能解决这个问题。在马来西亚半岛，没错。但在沙巴与砂拉越，那完全是打错电话。

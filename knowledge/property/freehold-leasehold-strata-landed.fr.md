@@ -65,6 +65,13 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'Les tours jumelles de copropriété en bord de mer de Jesselton Residences à côté d''une marina et de la mer à Kota Kinabalu, Sabah.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Deux maisons en bande presque identiques dans la même rue peuvent porter des promesses très différentes de l'État : un titre dit « freehold », l'autre « leasehold, 99 ans, expiration 2118 ». Une seconde question, sans rapport, décide si vous co-possédez en outre un hall d'ascenseurs et une piscine avec quarante autres foyers, ou si l'allée et le toit sont entièrement votre problème à vous. Les acheteurs fusionnent couramment les deux questions en une seule — « est-ce freehold ou est-ce un condominium ? » — alors qu'un bien répond toujours aux deux, indépendamment.

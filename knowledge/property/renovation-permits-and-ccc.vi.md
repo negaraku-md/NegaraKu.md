@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'Bên trong một ngôi nhà liền kề hai tầng đang được cải tạo ở Selangor, Malaysia, với ngôi nhà bên cạnh nhìn thấy qua ô cửa.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn muốn thêm bếp phía sau nhà hoặc xây thêm tầng — và đột nhiên hàng xóm nói "phải xin phép hội đồng trước đã". Có đúng vậy không? Đối với phần lớn công việc cải tạo, thì đúng.

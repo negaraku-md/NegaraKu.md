@@ -61,6 +61,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: '사바주의 Babagon 댐 저수지로, 정수 식수 공급을 위한 원수원이며 물가에 안내 표지판이 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 슬랑오르에서 조호르로 이사합니다. 은행 계좌는 그대로입니다. 전화번호도 함께 가져갈 수 있습니다. 그런데 수도 계정은? 따라오지 않습니다 — 새집에 물을 공급하는 회사가 아예 다른 회사이기 때문입니다.

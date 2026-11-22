@@ -76,6 +76,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'Sebuah menara kondominium hunian merah-putih yang tinggi dengan latar langit biru di Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda membeli unit itu. Anda tidak membeli lift, pos jaga, kolam renang, atau pipa yang melewati dinding yang Anda bagi bersama tetangga Anda. Seseorang tetap perlu membayar semua itu — dan undang-undang membagi tagihan itu menjadi dua akun yang menurut undang-undang harus Anda pisahkan.

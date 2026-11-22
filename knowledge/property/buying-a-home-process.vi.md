@@ -75,6 +75,13 @@ faq:
   - q: Vì sao người mua thường phải trả hai khoản phí pháp lý cho một giao dịch mua?
     a: Vì có hai văn bản riêng biệt chạy song song, được xử lý thay mặt cho những khách hàng khác nhau. Một luật sư soạn thảo và đóng dấu Hợp đồng Mua Bán chuyển nhượng bất động sản; một luật sư khác — do ngân hàng chỉ định, đôi khi cùng một hãng luật đóng vai trò thứ hai — soạn Hợp đồng Vay vốn và văn bản Thế chấp (Mẫu 16A) bảo đảm quyền lợi của ngân hàng. Luật sư của ngân hàng bảo vệ quyền thế chấp của ngân hàng, chứ không phải tiền đặt cọc của người mua, nên vai trò và phí của họ là tách biệt.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'Lối vào có bảng hiệu và chòi bảo vệ của khu nhà ở Cassia Homes tại Seremban lúc hoàng hôn, với các dãy nhà liền kề phía sau.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hai luật sư thường có mặt trong một giao dịch mua nhà tại Malaysia, và hầu hết người mua không bao giờ nhận ra họ là hai người khác nhau. Một người soạn và đóng dấu Hợp đồng Mua bán vốn chuyển bất động sản. Người kia — do ngân hàng bổ nhiệm, đôi khi cùng một công ty — soạn và đóng dấu khoản vay và thế chấp cho phép ngân hàng thu giữ bất động sản nếu khoản vay không được hoàn trả. Người mua nghĩ về "luật sư" như một nhân vật duy nhất trong câu chuyện này thường là những người về sau bối rối vì sao có hai bộ phí pháp lý xuất hiện, hoặc vì sao chìa khóa không đến vào ngày khoản vay được duyệt.

@@ -78,6 +78,13 @@ entity: "Un dépôt de location retenu en Malaisie"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Les appartements de grande hauteur Puncak Desa à Kepong, Kuala Lumpur, un bloc de logements locatifs malaisien typique.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Peu de choses gâchent autant la fin d'une location qu'un propriétaire qui garde le dépôt. C'est généralement une somme importante, cela paraît souvent injuste, et la tentation est d'escalader aussitôt. Avant cela, il est utile de comprendre le fait unique qui façonne tout, dans un litige sur un dépôt en Malaisie — car ce n'est pas ce que beaucoup de locataires supposent.

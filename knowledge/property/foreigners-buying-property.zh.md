@@ -90,6 +90,13 @@ stayFacts:
   cost: '两道叠加的关卡再加税：各州自行设定并自行修订的最低价格门槛（按分区、按县，或按有地产业与分层产业分别设定），而联邦直辖区则采用另一套 EPU 指南设定的门槛；在此之上，是非公民住宅转让的统一印花税，以及日后出售时税率更高、更为划一的 RPGT。这些数字会变动，且因州而异，因此请向相关州属土地局（Pejabat Tanah）或经济策划单位（EPU）的《Guideline on the Acquisition of Properties》核实现行数字。'
   watch: '并不存在一个全国统一的 RM1 million 最低价——这个数字专指联邦直辖区在 2014 年联邦指南下的数字；而跨过任何一州的价格门槛，也不等同于取得 section 433B 所要求、须在地契以外国人名义注册之前另行获得的那项由州政府当局酌情给予的同意。'
   next: '一旦跨过价格门槛且产业不属被排除类别，便（透过产业转让律师）向州政府当局书面申请同意，并将不确定的处理时间纳入购买时间规划。请注意，MM2H 长期居留签证的购房同样须经过这一相同程序；至于地契转移后持续存在的义务，参见《门牌税与地税》。'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: '吉隆坡现代玻璃幕墙住宅高层塔楼（Ascott、348 Sentral）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一名来自香港的买家同意以 RM1.8 million 的价格购买八打灵再也（Petaling Jaya）的一间半独立式住宅。融资已经安排妥当，卖方也愿意出售，价格跨过了网上所能查到的每一道门槛。然而，这笔交易仍然无法完成，除非莎阿南（Shah Alam）的一个州政府机构做出决定——完全由其自行酌情——是否允许一名外国人持有这份地契。

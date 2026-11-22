@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Menara kondominium Verdana menjulang di atas kawasan hunian North Kiara di Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda menjual rumah dengan untung — tetapi sebelum uang masuk ke rekening, pemerintah ingin bagiannya. Itulah RPGT, pajak yang sering terlewatkan oleh penjual sampai pengacara menahan ribuan ringgit di meja penyelesaian.

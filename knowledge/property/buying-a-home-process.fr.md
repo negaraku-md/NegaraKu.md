@@ -75,6 +75,13 @@ faq:
   - q: Pourquoi les acheteurs finissent-ils souvent par payer deux séries de frais juridiques pour un seul achat ?
     a: Parce que deux documents distincts avancent en parallèle, traités pour le compte de clients différents. Un avocat rédige et timbre le Contrat de vente qui transfère le bien ; un autre — désigné par la banque, parfois le même cabinet coiffant une seconde casquette — prépare le Contrat de prêt et l'Hypothèque (Formulaire 16A) qui garantit l'intérêt de la banque. L'avocat de la banque protège l'hypothèque de la banque, et non l'acompte de l'acheteur, de sorte que leurs rôles et leurs honoraires sont distincts.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'L''entrée signalée et la guérite du lotissement Cassia Homes à Seremban au crépuscule, avec des maisons mitoyennes à l''arrière.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Deux avocats interviennent généralement dans l'achat d'un logement en Malaisie, et la plupart des acheteurs ne remarquent jamais qu'il s'agit de deux personnes différentes. L'un rédige et fait timbrer le Contrat de vente qui transfère le bien. L'autre — désigné par la banque, parfois la même firme — rédige et fait timbrer le prêt et la charge qui permettent à la banque de s'approprier le bien si le prêt n'est pas remboursé. Les acheteurs qui pensent à « l'avocat » comme à un personnage unique de cette histoire sont souvent ceux qui s'étonnent ensuite de voir apparaître deux jeux d'honoraires juridiques, ou de constater que les clés ne sont pas arrivées le jour où le prêt a été approuvé.

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'A derelict unfinished concrete multi-storey building overgrown with greenery, with Malaysian flags in the foreground, in Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 You have paid the deposit, signed the Sale and Purchase Agreement, and are waiting for the keys — then the construction site falls silent for months. For buyers of new residential homes in Peninsular Malaysia, the law actually provides several layers of protection before, during, and after a situation like this arises. The key is knowing what is protected and where to turn when something goes wrong.

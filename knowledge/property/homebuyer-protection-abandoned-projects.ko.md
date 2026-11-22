@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: '곰박(Gombak)의 녹음에 뒤덮인 버려진 미완성 다층 콘크리트 건물로, 앞쪽에 말레이시아 국기가 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 보증금을 이미 냈고, 매매계약에 서명했으며, 집 열쇠를 기다립니다 — 그런데 공사 현장이 몇 달째 조용합니다. 반도 말레이시아의 신규 주거용 주택 매수인에게, 법은 이런 상황이 벌어지기 전·도중·후에 걸쳐 실제로 여러 겹의 보호를 마련해 두고 있습니다. 관건은 무엇이 보호되는지, 그리고 일이 잘못되었을 때 어디로 가야 하는지를 아는 것입니다.

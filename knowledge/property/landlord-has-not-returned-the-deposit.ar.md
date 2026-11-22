@@ -78,6 +78,13 @@ entity: "تأمين إيجار محتجَز في ماليزيا"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'شقق بُنتشاك ديسا السكنية الشاهقة في كيبونغ بكوالالمبور، وهي مجمّع سكني إيجاري ماليزي نموذجي.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قليلة هي الأمور التي تُفسِد نهاية الإيجار مثل مالكٍ يحتفظ بالتأمين. فهو عادةً مبلغ ذو قيمة، وكثيراً ما يبدو ظلماً، والإغراء هو التصعيد فوراً. وقبل أن تفعل، يساعدك أن تفهم الحقيقة الواحدة التي تشكّل كل شيء في نزاع التأمين في ماليزيا — لأنها ليست ما يفترضه كثير من المستأجرين.

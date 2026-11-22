@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'மலேசியா, செலாங்கூரில் புதுப்பிக்கப்பட்டு வரும் இரண்டு மாடி வரிசை வீட்டின் உட்புறம், வாயில் வழியாக அண்டை வீடு தெரிகிறது.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 வீட்டின் பின்புறத்தில் ஒரு சமையலறையைக் கூட்ட விரும்புகிறீர்கள் அல்லது ஒரு மாடி எழுப்ப நினைக்கிறீர்கள் — திடீரென அண்டை வீட்டார் “முதலில் மன்றத்தில் விண்ணப்பிக்க வேண்டும்” என்கிறார். இது உண்மையா? பெரும்பாலான மறுசீரமைப்பு வேலைகளுக்கு, ஆம்.

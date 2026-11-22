@@ -74,6 +74,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'クアラルンプールの、青空を背にそびえる赤と白の高層住宅コンドミニアムタワー。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 あなたはその専有部分を買った。エレベーターも、警備室も、プールも、隣人と共有する壁を通る配管も、買ったわけではない。それでも、そのすべてに誰かが支払わなければならない——そして法律は、その請求を、あなたが法律上分けて管理することを義務づけられている二つの口座に分割する。

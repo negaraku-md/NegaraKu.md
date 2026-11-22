@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'செரம்பானில் உள்ள ஒரு மலேசிய குடியிருப்புப் பகுதியில் வேலிக்குப் பின்னால் அமைந்த நவீன இரட்டை மாடி வரிசை வீடுகள்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பல புதிய வீட்டு உரிமையாளர்கள் தாங்கள் இருப்பதாகவே எதிர்பார்க்காத இரண்டாவது பில்லைப் பெறும்போது அதிர்ச்சியடைகிறார்கள். அவர்கள் இந்த ஆண்டு ஏற்கனவே "நில வரி" செலுத்திவிட்டார்கள் — அப்படியிருக்க நகர மன்றம் ஏன் கோரிக்கை அறிவிப்பு அனுப்புகிறது?

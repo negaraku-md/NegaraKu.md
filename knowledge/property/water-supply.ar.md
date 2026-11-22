@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["إمدادات المياه ماليزيا", "فتح حساب مياه", "شركة مياه الولاية", "فاتورة المياه ماليزيا", "bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'خزّان سدّ باباغون في ولاية صباح، وهو مصدر مياه خام لإمدادات مياه الشرب المعالَجة، مع لوحة معلومات عند حافّة المياه.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تنتقل من سلانجور إلى جوهور. يبقى حسابك المصرفي كما هو. وخطك الهاتفي يمكن أن يأتي معك. لكن حساب مياهك؟ لا يتبعك — لأن الشركة التي تزوّد منزلك الجديد بالماء شركة مختلفة تمامًا.

@@ -66,6 +66,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Sederetan rumah teres dua tingkat moden di belakang pagar di sebuah taman perumahan Malaysia, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ramai pemilik rumah baharu terkejut apabila menerima bil kedua yang mereka tidak sangka wujud. Mereka sudah bayar "cukai tanah" tahun ini — kenapa majlis bandaran pula hantar notis tuntutan?

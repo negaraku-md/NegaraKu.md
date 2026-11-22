@@ -68,6 +68,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["कचरा मलेशिया", "पुनर्चक्रण मलेशिया", "स्रोत पर कचरा पृथक्करण", "स्थानीय परिषद कचरा", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'सेलांगोर के कोता दमनसारा में एक अपार्टमेंट खंड के बाहर कचरा एकत्र करता एक KDEB वेस्ट मैनेजमेंट का कचरा-ट्रक।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आपका कचरादान सप्ताह में दो बार उठाया जाता है, लेकिन क्या आपने कभी पूछा है कि इसे वास्तव में कौन उठाता है — स्थानीय परिषद, या कोई अन्य कंपनी जिसे परिषद ने नियुक्त किया है? और क्यों आपके पड़ोसी राज्य का पड़ोसी प्लास्टिक की बोतलों को खाद्य अपशिष्ट से अलग न करने पर दंडित हो सकता है, जबकि आप नहीं?

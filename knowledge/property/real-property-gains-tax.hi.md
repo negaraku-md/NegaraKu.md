@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "वास्तविक संपत्ति लाभ कर", "CKHT", "LHDN", "संपत्ति निपटान", "RPGT दर", "RPGT छूट"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'कुआलालंपुर के नॉर्थ कियारा आवासीय क्षेत्र के ऊपर उठती वेरदाना कॉन्डोमिनियम मीनारें।'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आप एक मकान मुनाफे पर बेचते हैं — लेकिन पैसा आपके खाते में पहुँचने से पहले ही सरकार अपना हिस्सा चाहती है। यही RPGT है, एक ऐसा कर जिसे विक्रेता अक्सर तब तक नज़रअंदाज़ करते हैं जब तक वकील निपटान की मेज़ पर हज़ारों रिंगिट रोक नहीं लेता।

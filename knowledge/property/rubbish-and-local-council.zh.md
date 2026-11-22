@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: '雪兰莪州哥打白沙罗（Kota Damansara）一座组屋楼外，一辆 KDEB Waste Management 垃圾车正在收集垃圾。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你家的垃圾桶每周被收走两次，但你是否曾想过，实际上是谁在收——是地方政府，还是地方政府委托的另一家公司？还有，为何隔壁州属的邻居会因为没有把塑料瓶与厨余分开而遭罚款，你却不会？

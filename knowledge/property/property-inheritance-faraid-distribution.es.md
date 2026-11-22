@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "herencia de propiedad", "Ley de Distribución 1958", "Distribution Act 1958", "Amanah Raya", "certificado de faraid", "patrimonio pequeño", "Oficina de Tierras"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'Una hilera de consolidadas casas adosadas detrás del letrero del vecindario Taman Idaman en Malasia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cuando alguien fallece en Malasia, quién hereda su vivienda depende primero de una cuestión fundamental: si el fallecido era musulmán o no musulmán. Dos sistemas jurídicos distintos rigen la respuesta, y ambos pasan por autoridades diferentes antes de que cualquier título de terreno pueda cambiar de nombre.

@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: '조호르주 바투파핫(Batu Pahat)의 Taman Soga Sutera 개발지 간판 뒤편의 현대식 반단독주택.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 중개인의 명찰에 적힌 번호는 장식이 아닙니다 — 정당한 협상인과 그저 자신을 중개인이라 주장하는 사람을 빠르게 구별하는 유일한 방법입니다. 말레이시아에서는 누가 당신을 대신하여 부동산을 팔거나 임대하거나 협상할 수 있는지가 법으로 엄격히 규제됩니다.

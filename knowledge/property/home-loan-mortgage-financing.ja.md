@@ -103,6 +103,13 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'クアラルンプールのマレーシアの銀行ビル外の緑化された広場にある、赤い Public Bank Berhad と Public Investment Bank の看板。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 夢のマイホームは価格RM450,000かもしれないが、銀行は、あなたが今後30年にわたって返済できると確信するまで、その資金を渡してはくれない。担保融資の世界はまさにそこから始まる——融資比率、返済負担率、保険、KWSP（従業員積立基金）の貯蓄、そして印紙税、これらすべてが、その家の鍵があなたの手に渡るかどうかを決めるのだ。

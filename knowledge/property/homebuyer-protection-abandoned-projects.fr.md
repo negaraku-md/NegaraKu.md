@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "licence de promoteur", "Tribunal des réclamations de l'acheteur de logement", "projets abandonnés", "SPNB", "KPKT", "protection de l'acheteur de logement"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'Un bâtiment en béton à plusieurs étages inachevé et à l''abandon, envahi par la végétation, avec des drapeaux malaisiens au premier plan, à Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vous avez versé le dépôt, signé le Contrat de vente et vous attendez les clés — et soudain le chantier reste silencieux pendant des mois. Pour les acheteurs de logements résidentiels neufs en Malaisie péninsulaire, la loi offre en réalité plusieurs couches de protection avant, pendant et après qu'une telle situation survienne. L'essentiel est de savoir ce qui est protégé et vers qui se tourner lorsque quelque chose tourne mal.

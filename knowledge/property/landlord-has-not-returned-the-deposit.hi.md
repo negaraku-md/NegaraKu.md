@@ -78,6 +78,13 @@ entity: "मलेशिया में एक रोकी गई किरा
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'कुआलालंपुर के केपोंग में पुंचक देसा की ऊँची अपार्टमेंट इमारतें, एक विशिष्ट मलेशियाई किराये का आवासीय खंड।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 किरायेदारी के अंत को ऐसे मकान मालिक से अधिक और कुछ कड़वा नहीं बनाता जो जमा राशि अपने पास रख लेता है। यह आमतौर पर एक बड़ी रकम होती है, अक्सर अन्यायपूर्ण लगती है, और तुरंत मामला बढ़ा देने का मन करता है। ऐसा करने से पहले, उस एक तथ्य को समझना मददगार है जो मलेशिया में एक जमा विवाद के बारे में सब कुछ तय करता है — क्योंकि यह वह नहीं है जो कई किरायेदार मान लेते हैं।

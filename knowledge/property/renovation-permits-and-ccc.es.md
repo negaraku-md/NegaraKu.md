@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "Certificado de Finalización y Cumplimiento", "renovación de vivienda", "aprobación PBT", "Akta 133", "permiso de renovación", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'El interior de una casa adosada de dos plantas en renovación en Selangor, Malasia, con una casa vecina visible a través de la puerta.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Quiere añadir una cocina en la parte trasera de la casa o construir un piso superior, y de repente un vecino le dice «primero tienes que solicitarlo al municipio». ¿Es cierto? Para la mayoría de los trabajos de renovación, sí.

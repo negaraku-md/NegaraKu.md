@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'Waduk Bendungan Babagon di Sabah, sumber air baku untuk pasokan air minum olahan, dengan papan informasi di tepi air.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda pindah dari Selangor ke Johor. Akun bank sama. Saluran telepon bisa dibawa serta. Tapi akun air Anda? Ia tidak ikut — karena perusahaan yang memasok air ke rumah baru Anda sama sekali bukan perusahaan yang sama.

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'อาคารคอนกรีตหลายชั้นที่สร้างไม่เสร็จและถูกทิ้งร้างปกคลุมด้วยพืชพรรณในเมืองกอมบะก์ โดยมีธงชาติมาเลเซียอยู่เบื้องหน้า'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 คุณจ่ายเงินมัดจำแล้ว ลงนามในสัญญาซื้อขาย และรอกุญแจบ้าน จากนั้นไซต์ก่อสร้างก็เงียบสงัดไปหลายเดือน สำหรับผู้ซื้อบ้านที่อยู่อาศัยใหม่ในคาบสมุทรมาเลเซีย กฎหมายจัดให้มีการคุ้มครองหลายชั้นทั้งก่อน ระหว่าง และหลังจากสถานการณ์เช่นนี้เกิดขึ้น กุญแจสำคัญคือการรู้ว่าอะไรได้รับการคุ้มครองและจะไปที่ไหนเมื่อมีบางอย่างผิดพลาด

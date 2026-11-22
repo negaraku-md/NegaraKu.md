@@ -81,6 +81,13 @@ faq:
   - q: 세입자가 퇴거를 거부하면 집주인이 자물쇠를 바꾸거나 공과금(전기·수도)을 끊을 수 있습니까?
     a: 없습니다. 1950년 특정구제법(Specific Relief Act 1950) 제7(2)조는 집주인의 자력 퇴거를 금지합니다 — 세입자가 아직 점유하고 있는 동안 자물쇠를 바꾸거나, 전기나 물을 끊거나, 소지품을 치울 수 없습니다. 점유를 회복하려면 법원의 명령이 필요합니다. 미납 임대료에 대해서는, 집주인이 세입자와 직접 맞서는 대신 1951년 압류법(Distress Act 1951)에 따라 세입자의 동산을 압류하기 위한 압류 영장을 법원에 신청합니다.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: '쿠알라룸푸르 Taman Miharja의 LRT 노선 옆에 있는 고층 아파트 주택.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아의 임대인과 임차인에게 어떤 법이 그들을 보호하는지 물어보면, 대부분 틀리게 답합니다. 통지 기간을 정하거나, 보증금에 상한을 두거나, 임대인이 퇴거 시 무엇을 할 수 있고 없는지를 명시하는 단일 법령 — 손 뻗어 찾을 「주거임차법」이 없습니다.

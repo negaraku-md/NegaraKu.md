@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["suministro de agua Malasia", "Air Selangor", "Ranhill SAJ", "PBAPP", "abrir cuenta de agua", "empresa estatal de agua", "factura de agua Malasia", "SPAN", "nueva conexión de agua"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'El embalse de la presa de Babagon en Sabah, una fuente de agua cruda para el suministro de agua potable tratada, con un letrero informativo junto al agua.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Te mudas de Selangor a Johor. Tu cuenta bancaria sigue siendo la misma. Tu línea telefónica puede venir contigo. ¿Pero tu cuenta de agua? Esa no te sigue — porque la empresa que suministra agua a tu nuevo hogar es una empresa completamente distinta.

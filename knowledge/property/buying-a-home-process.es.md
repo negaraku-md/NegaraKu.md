@@ -75,6 +75,13 @@ faq:
   - q: ¿Por qué los compradores suelen acabar pagando dos conjuntos de honorarios legales en una sola compra?
     a: Porque dos documentos distintos avanzan en paralelo, gestionados en nombre de clientes diferentes. Un abogado redacta y timbra el Contrato de Compraventa que transmite el inmueble; otro — designado por el banco, a veces el mismo despacho con un segundo rol — prepara el Contrato de Préstamo y la Garantía Hipotecaria (Formulario 16A) que asegura el interés del banco. El abogado del banco protege la garantía del banco, no la señal del comprador, por lo que sus funciones y honorarios son distintos.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'La entrada señalizada y la caseta de vigilancia del desarrollo residencial Cassia Homes en Seremban al anochecer, con casas adosadas detrás.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Normalmente dos abogados intervienen en la compra de una vivienda en Malasia, y la mayoría de los compradores nunca se dan cuenta de que son dos personas distintas. Uno redacta y timbra el Contrato de Compraventa que traslada el inmueble. El otro — designado por el banco, a veces la misma firma — redacta y timbra el préstamo y la carga que permiten al banco apropiarse del inmueble si el préstamo no se paga. Los compradores que piensan en «el abogado» como un único personaje de esta historia suelen ser los que luego se confunden al ver por qué aparecieron dos juegos de honorarios legales, o por qué las llaves no llegaron el día en que se aprobó el préstamo.

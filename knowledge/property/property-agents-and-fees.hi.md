@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["संपत्ति एजेंट", "REN", "LPEPH", "BOVAEP", "एजेंट कमीशन", "किराया शुल्क", "संपत्ति निगोशिएटर", "property agent Malaysia"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'जोहोर के बाटू पाहात में तामन सोगा सुतेरा परियोजना के नाम-पट्ट के पीछे आधुनिक अर्ध-सम्बद्ध मकान।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 उस एजेंट के सीने पर लगे बैज की संख्या कोई सजावट नहीं है — यह एक वैध निगोशिएटर को ऐसे किसी व्यक्ति से अलग पहचानने का एकमात्र त्वरित तरीका है जो महज़ एजेंट होने का दावा करता है। मलेशिया में, कौन आपकी ओर से संपत्ति बेच, किराए पर दे या उस पर बातचीत कर सकता है, यह कानून द्वारा कड़ाई से नियंत्रित है।

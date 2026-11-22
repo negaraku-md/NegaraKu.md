@@ -72,6 +72,13 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "association de résidents Malaisie", "boom gate legal Malaysia", "affaire Au Kean Hoe", "Street Drainage and Building Act 1974", "obstruction voie publique Malaisie"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'Une arche d''entrée illuminée d''une communauté fermée portant l''inscription ''Arden Hill Precinct 2'', avec une guérite et une barrière au crépuscule, à Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Deux zones résidentielles peuvent avoir l'air identiques — guérite en brique, barrière levante à rayures, gardien en uniforme vérifiant votre vignette. L'une repose sur un socle juridique solide. L'autre existe parce que personne ne l'a encore contestée.

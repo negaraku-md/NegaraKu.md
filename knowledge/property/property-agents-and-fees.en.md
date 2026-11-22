@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'Modern semi-detached houses behind the Taman Soga Sutera development signboard in Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 The number on that agent's chest badge is not decoration — it is the only quick way to tell a legitimate negotiator apart from someone who merely claims to be an agent. In Malaysia, who may sell, rent out or negotiate property on your behalf is tightly regulated by law.

@@ -62,6 +62,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["approvisionnement en eau Malaisie", "Air Selangor", "Ranhill SAJ", "PBAPP", "ouvrir un compte d'eau", "compagnie des eaux d'État", "facture d'eau Malaisie", "SPAN", "nouveau raccordement d'eau"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'Le réservoir du barrage de Babagon à Sabah, une source d''eau brute pour l''approvisionnement en eau potable traitée, avec un panneau d''information au bord de l''eau.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous déménagez de Selangor à Johor. Votre compte bancaire reste le même. Votre ligne téléphonique peut vous suivre. Mais votre compte d'eau ? Lui ne vous suit pas — parce que la compagnie qui approvisionne votre nouveau logement en eau est une entreprise entièrement différente.

@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["agente inmobiliario", "REN", "LPEPH", "BOVAEP", "comisión del agente", "honorarios de alquiler", "negociador inmobiliario", "property agent Malaysia"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'Modernas casas pareadas detrás del letrero del desarrollo Taman Soga Sutera en Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 El número en la placa que lleva ese agente en el pecho no es un adorno: es la única forma rápida de distinguir a un negociador legítimo de alguien que simplemente afirma ser agente. En Malasia, quién puede vender, alquilar o negociar una propiedad en su nombre está estrictamente regulado por ley.

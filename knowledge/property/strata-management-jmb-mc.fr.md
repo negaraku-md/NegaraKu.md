@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["JMB", "MC", "société de gestion", "organe de gestion conjointe", "Tribunal de gestion de la copropriété", "Loi sur la gestion de la copropriété 2013", "charge d'entretien", "fonds de réserve", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Les tours en copropriété Orion Condominium et Sky Residences à Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous achetez un lot de condominium, mais qui possède réellement l'ascenseur, la piscine et l'allée du parking — et qui a le droit de vous facturer une redevance mensuelle ? La réponse se trouve dans un niveau de gouvernance dont les acheteurs entendent rarement parler jusqu'à ce qu'un litige survienne : le cadre de la Loi sur la gestion de la copropriété de 2013 (loi 757).

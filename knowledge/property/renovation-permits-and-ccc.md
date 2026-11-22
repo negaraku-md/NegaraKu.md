@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'Bahagian dalam sebuah rumah teres dua tingkat yang sedang diubah suai di Selangor, Malaysia, dengan rumah jiran kelihatan melalui pintu.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda mahu tambah dapur di belakang rumah atau naik tingkat — dan tiba-tiba jiran kata "kena mohon kat majlis dulu". Betulkah? Untuk kebanyakan kerja ubah suai, ya.

@@ -78,6 +78,13 @@ entity: "マレーシアで保留された賃貸の保証金"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'クアラルンプールのクポンにある Puncak Desa の高層アパート住宅で、典型的なマレーシアの賃貸住宅棟である。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 賃貸の終わりを、保証金を返さない大家ほど後味悪くするものはそうありません。たいてい相当な金額で、しばしば不当に感じられ、すぐにでも事を荒立てたくなります。そうする前に、マレーシアでの保証金争いのすべてを形づくるひとつの事実を理解しておくと役立ちます――それは多くの賃借人が思い込んでいるものとは違うからです。

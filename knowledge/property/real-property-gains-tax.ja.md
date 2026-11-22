@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'クアラルンプールのノース・キアラ住宅地区にそびえ立つ Verdana コンドミニアムタワー。'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 家を売って利益を得た——しかしその金が口座に入る前に、政府はその取り分を求める。それがRPGTであり、決済の場で弁護士が数千リンギットを留保するまで、売主がしばしば見落としている税である。

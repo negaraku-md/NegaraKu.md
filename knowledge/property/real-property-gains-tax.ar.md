@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "ضريبة أرباح العقارات", "CKHT", "LHDN", "التصرّف في العقار", "معدل RPGT", "إعفاء RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'أبراج كوندومينيوم فيردانا الشاهقة فوق منطقة نورث كيارا السكنية في كوالالمبور.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 تبيع منزلًا بربح — لكن قبل أن يصل المال إلى حسابك، تريد الحكومة حصّتها. تلك هي RPGT، ضريبة كثيرًا ما يغفل عنها البائعون إلى أن يحجز المحامي آلاف الرينغيت على طاولة التسوية.

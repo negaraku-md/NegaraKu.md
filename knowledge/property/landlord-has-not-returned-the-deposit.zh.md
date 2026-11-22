@@ -78,6 +78,13 @@ entity: "马来西亚被扣住的租房押金"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: '吉隆坡甲洞（Kepong）的 Puncak Desa 高层公寓组屋，是典型的马来西亚出租住宅楼。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 很少有事情比房东扣住押金更能让一段租期以坏心情收场。那通常是一笔不小的数目，常常让人觉得不公，于是很容易想立刻升级对抗。在你动手之前，先弄清楚一件决定马来西亚押金纠纷全局的事实会很有帮助——因为它和许多租客以为的并不一样。

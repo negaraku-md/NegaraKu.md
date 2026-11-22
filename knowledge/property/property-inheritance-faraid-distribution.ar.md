@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["الفرائض", "faraid", "ميراث العقارات", "قانون التوزيع 1958", "Distribution Act 1958", "Amanah Raya", "شهادة الفرائض", "التركات الصغيرة", "مكتب الأراضي"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'صفٌّ من المنازل المتلاصقة العريقة خلف لافتة حيّ تامان إيدامان في ماليزيا.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 عندما يتوفّى شخص في ماليزيا، يتوقّف تحديد من يرث منزله أولًا على أمر أساسي واحد: أكان المتوفّى مسلمًا أم غير مسلم. فنظامان قانونيان مختلفان يحكمان الجواب، ويمرّ كلاهما عبر جهات مختلفة قبل أن يتغيّر اسم أي سند أرض.

@@ -65,6 +65,13 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["फ्रीहोल्ड बनाम लीज़होल्ड मलेशिया", "स्ट्रैटा सनद मलेशिया", "व्यक्तिगत सनद बनाम स्ट्रैटा सनद", "लैंडेड संपत्ति मलेशिया", "प्रबंधन निगम मलेशिया", "National Land Code tenure", "Strata Titles Act 1985", "पार्सल कर मलेशिया", "freehold vs leasehold Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'सबाह के कोता किनाबालू में एक मरीना और समुद्र के किनारे जेसेल्टन रेजिडेंसेज की जुड़वाँ जलतटीय कॉन्डोमिनियम मीनारें।'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक ही गली पर खड़े दो लगभग एक जैसे टैरेस घर राज्य की ओर से बहुत अलग वादे ले सकते हैं: एक सनद कहती है "फ्रीहोल्ड", तो दूसरी "लीज़होल्ड, 99 साल, समाप्ति 2118"। एक दूसरा, असंबद्ध सवाल यह तय करता है कि क्या आप चालीस अन्य परिवारों के साथ एक लिफ्ट लॉबी और पूल के सह-मालिक भी हैं, या फिर ड्राइववे और छत पूरी तरह आपकी ही समस्या हैं। खरीदार अक्सर दोनों सवालों को एक में समेट देते हैं — "क्या यह फ्रीहोल्ड है या यह कॉन्डो है?" — जबकि कोई संपत्ति हमेशा दोनों का, स्वतंत्र रूप से, जवाब दे रही होती है।

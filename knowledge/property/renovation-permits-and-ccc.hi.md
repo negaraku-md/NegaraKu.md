@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["CCC", "पूर्णता एवं अनुपालन प्रमाणपत्र", "घर का नवीनीकरण", "PBT स्वीकृति", "Akta 133", "नवीनीकरण परमिट", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'मलेशिया के सेलांगोर में नवीनीकरण के अधीन एक दोमंज़िला कतारबद्ध मकान का भीतरी भाग, जिसके दरवाज़े से पड़ोसी मकान दिखाई देता है।'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप घर के पीछे एक रसोई जोड़ना चाहते हैं या ऊपरी मंज़िल बनाना चाहते हैं — और अचानक कोई पड़ोसी कहता है "आपको पहले परिषद में आवेदन करना होगा"। क्या यह सच है? अधिकांश नवीनीकरण कार्य के लिए, हाँ।

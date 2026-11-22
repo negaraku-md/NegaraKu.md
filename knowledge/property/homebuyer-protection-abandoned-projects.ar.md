@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "القانون 118", "Akta 118", "APDL", "رخصة المطوّر", "lesen pemaju", "محكمة مطالبات مشتري المنازل", "Tribunal Tuntutan Pembeli Rumah", "المشاريع المتروكة", "projek terbengkalai", "SPNB", "KPKT", "حماية مشتري المنازل"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'مبنى خرساني متعدّد الطوابق مهجور وغير مكتمل تغطّيه النباتات الخضراء، مع أعلام ماليزية في المقدّمة، في غومباك.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 دفعت العربون، ووقّعت اتفاقية البيع والشراء، وأنت تنتظر المفاتيح — ثم يصمت موقع البناء أشهرًا. فبالنسبة لمشتري المنازل السكنية الجديدة في شبه جزيرة ماليزيا، يوفّر القانون في الواقع عدة طبقات من الحماية قبل نشوء وضعٍ كهذا وأثناءه وبعده. والمفتاح هو معرفة ما هو محميّ وإلى أين تتجه حين يختلّ شيءٌ ما.

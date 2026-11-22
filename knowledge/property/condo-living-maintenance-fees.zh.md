@@ -75,6 +75,13 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: '吉隆坡一座高耸的红白相间的住宅公寓塔楼，映衬着蓝天。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 你买下的是这个单位。你并没有买下电梯、警卫亭、游泳池，或是那条穿过你与邻居共用墙壁的管道。总得有人为这一切付费——而法律把这笔账单分成两个账户，并且规定你必须将它们分开处理。

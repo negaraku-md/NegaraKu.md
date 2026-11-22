@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["faraid", "héritage immobilier", "Loi sur la distribution 1958", "Distribution Act 1958", "Amanah Raya", "certificat de faraid", "petite succession", "bureau foncier"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'Une rangée de maisons mitoyennes anciennes derrière le panneau du quartier Taman Idaman en Malaisie.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lorsqu'une personne décède en Malaisie, celui qui hérite de son logement dépend d'abord d'une question fondamentale : le défunt était-il musulman ou non-musulman ? Deux systèmes juridiques distincts régissent la réponse, et les deux passent par des autorités différentes avant qu'un titre foncier puisse changer de nom.

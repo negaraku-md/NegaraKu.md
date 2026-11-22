@@ -91,6 +91,13 @@ stayFacts:
   cost: 'Dua pintu bertindan serta cukai: paras harga minimum yang ditetapkan dan disemak semula sendiri oleh setiap negeri (dipecahkan mengikut zon, daerah, atau bertanah berbanding strata), manakala Wilayah Persekutuan menggunakan paras garis panduan EPU yang berasingan; di atasnya terletak duti setem rata ke atas pindah milik kediaman bagi bukan warganegara, dan RPGT pada kadar yang lebih tinggi dan lebih rata semasa jualan kemudian. Angka-angka ini berubah dan berbeza mengikut negeri, jadi sahkan angka semasa dengan pejabat tanah negeri berkenaan (Pejabat Tanah) atau Guideline on the Acquisition of Properties Unit Perancang Ekonomi (EPU).'
   watch: 'Tiada satu paras minimum RM1 juta tunggal yang terpakai di seluruh negara — angka itu khusus untuk Wilayah Persekutuan di bawah garis panduan persekutuan 2014, dan melepasi paras harga mana-mana negeri bukanlah sama dengan mendapatkan kebenaran Pihak Berkuasa Negeri yang berasingan dan mengikut budi bicara, yang diperlukan di bawah seksyen 433B sebelum hak milik boleh didaftarkan atas nama warga asing.'
   next: 'Mohon secara bertulis (melalui peguam pindah milik) kepada Pihak Berkuasa Negeri untuk kebenaran sebaik sahaja paras harga dilepasi dan hartanah itu tidak dikecualikan, sambil memasukkan tempoh pemprosesan yang tidak menentu itu ke dalam garis masa pembelian. Perhatikan bahawa pembelian di bawah visa tinggal lama MM2H masih melalui proses yang sama ini, dan lihat cukai taksiran dan cukai tanah untuk kewajipan berterusan sebaik sahaja hak milik berpindah.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'Menara pangsapuri kediaman tinggi bersalut kaca moden (Ascott, 348 Sentral) di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seorang pembeli dari Hong Kong bersetuju membayar RM1.8 juta untuk sebuah rumah berkembar di Petaling Jaya. Pembiayaan telah diatur, penjual bersetuju, dan harga itu melepasi setiap ambang yang disebut di internet. Namun urus niaga itu masih tidak boleh selesai sehingga sebuah pejabat kerajaan negeri di Shah Alam membuat keputusan — atas budi bicaranya sendiri — sama ada mahu membenarkan seorang warga asing memegang hak milik itu langsung.

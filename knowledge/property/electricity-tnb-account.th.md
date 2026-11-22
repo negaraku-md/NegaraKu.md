@@ -70,6 +70,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'มิเตอร์ไฟฟ้า TNB (Tenaga Nasional) ติดผนังที่บ้านในมาเลเซีย พร้อมบัตรเลขที่บัญชีที่เขียนด้วยมือ'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณได้กุญแจบ้านใหม่มาแล้ว แต่สวิตช์ไฟไม่ทำงานอะไรเลย มิเตอร์ข้างนอกยังหมุนอยู่ในชื่อของเจ้าของเดิม และตราบใดที่บัญชีนั้นยังไม่เปลี่ยนชื่อ ทุกกิโลวัตต์ที่คุณใช้ก็ยังผูกติดอยู่กับความรับผิดของคนอื่นในทางเทคนิค หลายคนคิดว่าแค่ "โทรหา TNB" ก็แก้ปัญหานี้ได้ ในคาบสมุทรก็ใช่ แต่ในซาบาห์และซาราวัก นั่นเป็นเบอร์โทรที่ผิดโดยสิ้นเชิง

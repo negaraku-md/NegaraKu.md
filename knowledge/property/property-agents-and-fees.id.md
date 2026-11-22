@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'Rumah kopel modern di belakang papan tanda pengembangan Taman Soga Sutera di Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nomor pada tag dada agen itu bukan hiasan — ia satu-satunya cara cepat membedakan seorang negosiator yang sah dari seseorang yang hanya mengklaim dirinya agen. Di Malaysia, siapa yang boleh menjual, menyewakan atau menegosiasikan properti atas nama Anda diatur ketat oleh undang-undang.

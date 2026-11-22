@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'Một tòa nhà bê tông nhiều tầng bỏ hoang chưa hoàn thiện bị cây cối phủ kín, với những lá cờ Malaysia ở phía trước, tại Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn đã trả tiền đặt cọc, ký Hợp đồng Mua bán, và chờ đợi chìa khóa nhà — rồi công trường im lìm suốt nhiều tháng. Đối với người mua nhà ở mới tại Bán đảo Malaysia, luật pháp thực ra cung cấp nhiều lớp bảo vệ trước, trong và sau khi tình huống như thế này xảy ra. Điều cốt yếu là biết được điều gì được bảo vệ và cần đi đâu khi có gì đó không ổn.

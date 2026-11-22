@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: '吉隆坡北甲拉（North Kiara）住宅区上方耸立的 Verdana 公寓塔楼。'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 你把房子卖出赚了一笔——但在钱进账之前，政府想要它的那一份。这就是 RPGT，一种卖方往往忽略、直到律师在成交桌上预扣了成千上万令吉才惊觉的税。

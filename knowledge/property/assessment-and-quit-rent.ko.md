@@ -67,6 +67,13 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: '스름반(Seremban)의 말레이시아 주택 단지에서 울타리 뒤에 늘어선 현대식 2층 연립주택.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 많은 새 주택 소유자는 있는 줄도 몰랐던 두 번째 고지서를 받고 놀랍니다. 올해 「토지세」를 이미 냈는데 — 왜 시청이 또 청구 통지를 보내는 걸까요?

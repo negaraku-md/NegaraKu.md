@@ -70,6 +70,13 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: '夕暮れ時のスランバンの、ライトアップされた「Arden Hill Precinct 2」と書かれたゲーテッドコミュニティの入口アーチで、警備小屋と遮断バーがある。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 二つの住宅地が、まったく同じに見えることがある——レンガ造りの守衛所、縞模様のブームゲート、あなたのステッカーを確認する制服姿の警備員。一方は堅固な法的基盤の上に立っている。もう一方は、まだ誰も異議を唱えていないという理由だけで存在している。

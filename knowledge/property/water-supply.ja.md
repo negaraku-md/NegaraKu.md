@@ -60,6 +60,13 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'サバ州の Babagon ダム貯水池で、処理済み飲料水供給の原水源であり、水際に案内看板がある。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 あなたはセランゴールからジョホールへ引っ越す。銀行口座は同じ。電話番号もそのまま持っていける。しかし、あなたの水道口座は？それはついてこない——なぜなら、あなたの新居に水を供給する会社は、まったく別の会社だからだ。

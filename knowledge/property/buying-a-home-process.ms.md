@@ -75,6 +75,13 @@ faq:
   - q: Mengapa pembeli sering akhirnya membayar dua set yuran guaman bagi satu pembelian?
     a: Kerana dua dokumen berasingan berjalan selari, dikendalikan bagi pihak klien yang berbeza. Seorang peguam mendraf dan menyetem Perjanjian Jual Beli yang memindahkan hartanah; seorang lagi — dilantik oleh bank, kadangkala firma yang sama memakai topi kedua — menyediakan Perjanjian Pinjaman dan Gadaian (Borang 16A) yang menjamin kepentingan bank. Peguam bank melindungi gadaian bank, bukan deposit pembeli, jadi peranan dan yuran mereka adalah berbeza.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'Pintu masuk berpapan tanda dan pondok pengawal pembangunan perumahan Cassia Homes di Seremban pada waktu senja, dengan rumah teres di belakang.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kebiasaannya dua orang peguam terlibat dalam satu-satu pembelian rumah di Malaysia, dan kebanyakan pembeli langsung tidak perasan bahawa mereka adalah dua orang yang berbeza. Seorang menyediakan dan menyetem Perjanjian Jual Beli yang memindahkan hartanah itu. Seorang lagi — dilantik oleh bank, kadangkala firma yang sama — menyediakan dan menyetem perjanjian pinjaman serta gadaian yang membolehkan bank merampas hartanah itu sekiranya pinjaman tidak dibayar balik. Pembeli yang menganggap "peguam" itu sebagai satu watak tunggal dalam cerita ini biasanya keliru kemudian mengapa dua set yuran guaman muncul, atau mengapa kunci rumah tidak sampai pada hari pinjaman diluluskan.
