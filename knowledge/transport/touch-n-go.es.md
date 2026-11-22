@@ -70,6 +70,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Letreros de carril elevados que dicen Touch ''n GO, MyRFID y SmartTAG marcan cabinas de peaje sin efectivo en la Plaza de Peaje de Gombak, con RFID pintado a lo ancho de la calzada.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mucha gente guarda una tarjeta Touch 'n Go en la cartera y la aplicación Touch 'n Go eWallet en el teléfono, y da por sentado que ambas son lo mismo con dos caras distintas. No lo son. El saldo de la tarjeta y el saldo de la aplicación se mantienen completamente separados: recargar uno por completo no añade ni un solo sen al otro. Este malentendido es una causa común de que los coches queden atascados en los pórticos de peaje porque el conductor está convencido de que «hay suficiente dinero en el teléfono», cuando lo que la máquina de peaje lee en realidad es la tarjeta.

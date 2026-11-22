@@ -69,6 +69,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["मलेशिया में विदेशी ड्राइविंग लाइसेंस", "मलेशिया में अंतरराष्ट्रीय ड्राइविंग परमिट", "JPJ विदेशी लाइसेंस परिवर्तन", "MM2H ड्राइविंग लाइसेंस", "एक प्रवासी के रूप में मलेशिया में गाड़ी चलाना", "driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'पेनांग सेंट्रल के पास एक मलेशियाई संघीय राजमार्ग पर पीले चेतावनी संकेतों, ट्रैफिक लाइटों और कारों के साथ एक चौराहा।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक MM2H सेवानिवृत्त जिसने विदेश में तीस साल गाड़ी चलाई है, एक नया एंप्लॉयमेंट पास

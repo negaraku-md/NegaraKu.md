@@ -68,6 +68,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'ペナン・セントラル付近のマレーシア連邦道路の交差点で、黄色い警告標識、信号機、車が見える。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 海外で三十年運転してきたMM2H退職者、マニュアル車のギアに一度も触れたことの

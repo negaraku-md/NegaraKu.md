@@ -84,6 +84,13 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'சுபாங் ஜெயாவில் ''Wakil Jualan dan Servis'' என்று எழுதப்பட்ட ஒரு நீல நிற புரோட்டான் (Proton) விற்பனையகம், அதன் முன் பல கார்கள் நிறுத்தப்பட்டுள்ளன.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் ஒரு காரை வாங்குங்கள், நீங்கள் ஒரே ஒப்பந்தத்தில் கையெழுத்திடுகிறீர்கள், ஆனால் உண்மையில் ஒரே நேரத்தில் மூன்று தனித்தனி உறவுகளுக்குள் நுழைகிறீர்கள்: உங்களுக்குக் காரை விற்றவருடன் ஒன்று, அதற்கு நிதியளிப்பவருடன் ஒன்று, மேலும் வாகனம் யாருடைய பெயரில் உள்ளது என்பதைத் தீர்மானிக்கும் துறையான JPJ உடன் ஒன்று. இம்மூன்றில் ஏதேனும் ஒன்றில் ஒரு படிநிலையைத் தவறவிட்டால், நீங்கள் பணம் செலுத்திய கார் சட்டப்படி இன்னும் முழுமையாக உங்களுடையதாகாது.

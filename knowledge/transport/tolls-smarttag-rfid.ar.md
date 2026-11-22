@@ -77,6 +77,13 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["رسوم الطرق السريعة في ماليزيا", "tol lebuh raya Malaysia", "SmartTAG", "RFID", "RFID Touch n Go", "JustGO PLUS", "ANPR", "MLFF", "رسوم بلا حاجز", "مسارات الرسوم في ماليزيا"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'سيارة تمر ليلاً تحت لافتتين صفراوين مضاءتين لمسار SmartTAG عند ساحة رسوم على طريق سريع ماليزي.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تتوقف السيارة التي أمامك في مسار RFID فجأة لأن الملصق على مصباحها الأمامي لم يُكتشف — رغم أن كثيرين يفترضون أن RFID يعني «أنك لست بحاجة إلى فعل أي شيء على الإطلاق». في الواقع، تشغّل ماليزيا حاليًا أربعة أجيال على الأقل من تقنية الرسوم في آنٍ واحد عبر طرق سريعة مختلفة، والخلط بين واحدٍ وآخر سبب شائع لتعطّل السيارات عند البوابة.

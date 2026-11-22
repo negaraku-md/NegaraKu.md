@@ -62,6 +62,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: '말레이시아 페더럴 하이웨이에서 보행자 육교 아래로 차들이 범퍼를 맞댄 채 정체에 늘어서 있다.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 한 번도 세차한 적 없고, 타이어가 닳았으며, 에어컨이 고장 난 차를 몰 수

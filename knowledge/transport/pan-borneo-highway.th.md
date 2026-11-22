@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'รถบรรทุกวิ่งไปตามช่วงหนึ่งของทางหลวงแพนบอร์เนียวที่กำลังก่อสร้างในรัฐซาราวัก โดยมีแผงกั้นสีแดง-ขาวเรียงรายริมถนน'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ตลอดประวัติศาสตร์ส่วนใหญ่ของบอร์เนียวมาเลเซีย การเดินทางจากเมืองหนึ่งไปอีกเมืองหนึ่งหมายถึงการคลานไปอย่างช้า ๆ บนถนนสายหลักเลนเดียว ร่วมกับรถบรรทุก การจราจรของการทำไม้ และสะพานที่ถูกน้ำพัดพังเป็นครั้งคราว ทางหลวงแพน-บอร์เนียวคือความพยายามที่จะเปลี่ยนสิ่งนั้น: ความพยายามยาวนานหนึ่งทศวรรษที่จะเปลี่ยนถนนสายหลักนั้นให้เป็นเส้นทางเชื่อมที่ทันสมัยและส่วนใหญ่คู่ขนานแยกทิศทาง ทอดยาวตลอด Sarawak และ Sabah

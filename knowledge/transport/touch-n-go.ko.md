@@ -69,6 +69,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: '곰박 요금소에서 “Touch ''n GO”, “MyRFID”, “SmartTAG”라고 적힌 머리 위 차로 표지판이 무현금 요금소를 표시하고, 도로에는 “RFID”가 칠해져 있다.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 많은 사람들이 터치 앤 고(Touch 'n Go) 카드를 지갑에, 터치 앤 고 e월렛 앱을

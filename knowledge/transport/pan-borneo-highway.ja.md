@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'サラワク州で建設中の汎ボルネオ・ハイウェイの区間を、赤と白の防護柵が路肩に並ぶ中、トラックが走っている。'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシア領ボルネオの歴史の大半において、ある町から次の町へ行くことは、トラックや伐採の往来、そして時おり流失した橋と共用される一車線の幹線道路を、のろのろと這い進むことを意味した。パン・ボルネオ・ハイウェイは、それを変えようとする試みである——その幹線道路を、Sarawak と Sabah の全長にわたって走る現代的で大部分が二車線分離の連絡路へと変える、10年がかりの取り組みだ。

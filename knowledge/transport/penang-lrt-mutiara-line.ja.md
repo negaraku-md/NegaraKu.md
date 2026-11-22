@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'ペナン島と本土の間のターコイズ色の海峡を横断する斜張橋のペナン大橋を空から見た眺め。'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一世紀近くにわたり、ペナンの移動手段は自動車、バス、そして海峡を渡るフェリーだった。ムティアラ線は、高架の都市鉄道がついにそれを変えられるという、この州の賭けである——そしてこれは、ペナンがこれまで一度も持ったことのない、初めての路線でもある。

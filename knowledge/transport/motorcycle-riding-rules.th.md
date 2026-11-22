@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'ผู้ขับขี่สวมหมวกกันน็อกบนรถจักรยานยนต์แบบครอบเครื่องที่มีกล่องส่งอาหาร รออยู่ที่ทางแยกในเกลูกอร์ รัฐปีนัง'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณขี่รถจักรยานยนต์เข้าสู่ Lebuhraya Persekutuan เห็นป้าย "ช่องทางรถจักรยานยนต์" แยกไปทางซ้าย — และสงสัยว่าคุณต้องตามไปหรือสามารถอยู่บนช่องทางหลักต่อไปได้ คำตอบขึ้นอยู่กับคำเดียว: *ประกาศในราชกิจจานุเบกษา*

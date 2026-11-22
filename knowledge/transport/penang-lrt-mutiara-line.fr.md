@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'Une vue aérienne du pont de Penang à haubans s''étendant à travers le détroit turquoise entre l''île de Penang et le continent.'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pendant près d'un siècle, se déplacer à Penang a voulu dire la voiture, le bus et le ferry qui traverse le détroit. La Mutiara Line est le pari de l'État qu'un chemin de fer urbain aérien peut enfin changer cela — et c'est le premier du genre que Penang ait jamais eu.

@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Three purple Beam shared electric scooters parked on a paved park path in Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 You buy an e-scooter to get to the office, but the moment its wheels touch a public road, you are already breaking the law. That has been the reality of micromobility in Malaysia since the end of 2021.

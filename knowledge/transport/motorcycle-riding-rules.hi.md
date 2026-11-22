@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["मलेशिया मोटरसाइकिल नियम", "मोटरसाइकिल लेन", "Lebuhraya Persekutuan", "हेलमेट", "धारा 79(2)", "Section 79(2)", "हाईवे मोटरसाइकिल", "MS 1", "इंजन क्षमता"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'पेनांग के गेलुगोर में एक डिलीवरी बॉक्स वाली अंडरबोन मोटरसाइकिल पर हेलमेट पहने एक सवार सड़क चौराहे पर इंतजार कर रहा है।'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप Federal Highway पर एक मोटरसाइकिल से प्रवेश करते हैं, बाईं ओर मुड़ती हुई एक "Motorcycle Lane" (मोटरसाइकिल लेन) की साइन देखते हैं — और सोचते हैं कि क्या आपको उसका पालन करना आवश्यक है या आप मुख्य कैरिजवे पर रह सकते हैं। उत्तर एक शब्द पर टिका है: *राजपत्रित*।

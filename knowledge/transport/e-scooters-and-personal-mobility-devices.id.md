@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Tiga skuter listrik berbagi Beam berwarna ungu terparkir di jalur taman beraspal di Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda membeli e-skuter untuk ke kantor, tetapi saat rodanya menyentuh jalan raya umum, Anda sudah melanggar undang-undang. Itulah realitas mikromobilitas di Malaysia sejak akhir 2021.

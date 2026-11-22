@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["النقل التشاركي في ماليزيا", "تنظيم Grab في ماليزيا", "رخصة PSV للنقل التشاركي", "e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "تصريح مركبة النقل التشاركي APAD", "كيف يعمل Grab في ماليزيا", "رخصة سائق النقل التشاركي ماليزيا"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'سيارة هيونداي أيونيك إلكتريك بيضاء تحمل شعار Grab Electric الأخضر وعبارة "0 percent emisi" على الطريق.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 افتح Grab، أو Bolt، أو inDrive، في كوالالمبور واضغط «احجز». لا شيء في تلك اللحظة يبدو منظَّمًا. لكن الرحلة التي تصل قائمة على ثلاث رخص منفصلة كان لا بدّ أن توجد قبل أن يتمكّن سائقك من قبول أجرتك بشكل قانوني — وليست أيٌّ منها ملكًا للتطبيق وحده.

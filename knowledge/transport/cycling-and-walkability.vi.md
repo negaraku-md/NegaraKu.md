@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'Một đường đi xe đạp và chạy bộ lát màu đỏ với biểu tượng xe đạp màu trắng được sơn, giá để xe đạp và cây cối dưới bầu trời xanh.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bước ra khỏi một ga LRT ở Thung lũng Klang lúc 1 giờ chiều và cố đi bộ

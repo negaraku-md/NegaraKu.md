@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'Une voiture Hyundai Ioniq Electric blanche aux couleurs vertes de Grab Electric et au slogan 0 percent emisi sur une route.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ouvrez Grab, ou Bolt, ou inDrive, à Kuala Lumpur et appuyez sur « réserver ».

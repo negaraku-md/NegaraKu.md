@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: 'குடியிருப்பு கட்டிடங்கள் நிறைந்த கோலாலம்பூர் சாலைக்கு மேலே ஒரு உயர்த்தப்பட்ட மேம்பாலத்தில் ஒரு MRT கஜாங் வழித்தட (Kajang Line) ரயில் ஓடுகிறது.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பெரும்பாலான புதிய ரயில் வழித்தடங்கள் மக்களை ஒரு புதிய இடத்திற்கு எடுத்துச் செல்லக் கட்டப்படுகின்றன. MRT3 வட்ட வழித்தடம் கட்டப்படுவது கோலாலம்பூரில் ஏற்கெனவே உள்ள வழித்தடங்களை ஒன்றாகக் கட்டவே — நகரத்தைச் சுற்றியுள்ள ஒரு வளையம், அதன் முக்கியப் பணி இணைப்பு, மறைப்பு அல்ல.

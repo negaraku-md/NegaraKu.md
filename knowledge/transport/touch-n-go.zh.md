@@ -69,6 +69,13 @@ related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 sourceContentHash: "1ad968acdf06922a"
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Gombak 收费站上方的车道标志写着“Touch ''n GO”、“MyRFID”和“SmartTAG”，标示无现金收费亭，路面漆有“RFID”字样。'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 许多人的钱包里放着一张 Touch 'n Go 卡，手机里又装着 Touch 'n Go eWallet 应用程式，于是以为两者其实是同一样东西的两个面貌。并非如此。你卡里的余额与应用程式里的余额完全分开储存——把其中一个充满，也不会给另一个多加一分钱。这种误解，正是不少车辆卡在过路费闸口的常见原因：司机确信「手机里的钱够用」，但过路费机器实际读取的却是那张卡。

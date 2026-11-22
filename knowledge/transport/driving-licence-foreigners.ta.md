@@ -69,6 +69,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'பினாங் சென்ட்ரல் (Penang Sentral) அருகே ஒரு மலேசிய மத்திய நெடுஞ்சாலையில் மஞ்சள் எச்சரிக்கை அறிகுறிகள், போக்குவரத்து விளக்குகள் மற்றும் கார்களுடன் கூடிய ஒரு சந்திப்பு.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 முப்பது ஆண்டுகளாக வெளிநாட்டில் வாகனம் ஓட்டிய ஒரு MM2H ஓய்வுபெற்றவர், கியர்

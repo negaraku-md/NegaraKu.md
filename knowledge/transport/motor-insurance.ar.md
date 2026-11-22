@@ -63,6 +63,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["تأمين المركبات الماليزي", "تأمين الطرف الثالث", "قانون النقل البري 1987", "التأمين الشامل", "ضريبة الطريق", "المادة 90", "PIAM", "تأمين الدرّاجات النارية", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'سيارات مصطفة لصيقة ببعضها في ازدحام مروري على الطريق السريع الاتحادي في ماليزيا تحت جسر للمشاة.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يمكنك قانونياً أن تقود سيارة لم تُغسَل قطّ، بإطارات بالية ومكيّف هواء معطّل. لكن القيادة دون ورقة واحدة — وثيقة تأمين الطرف الثالث — جريمة جنائية.

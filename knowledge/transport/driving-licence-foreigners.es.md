@@ -69,6 +69,13 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'Un cruce en una autopista federal de Malasia cerca de Penang Sentral con señales de advertencia amarillas, semáforos y coches.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un jubilado de MM2H que ha conducido treinta años en el extranjero, un recién

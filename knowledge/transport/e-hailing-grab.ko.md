@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: '도로 위의 흰색 현대 아이오닉 일렉트릭 차량으로, 녹색 Grab Electric 래핑과 “0 percent emisi” 문구가 표시되어 있다.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 쿠알라룸푸르에서 그랩(Grab)이나 볼트(Bolt), 또는 인드라이브(inDrive)를 열고

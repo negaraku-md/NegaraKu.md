@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'ஒரு மலேசிய நெடுஞ்சாலை ஓய்விடத்தில், ''Charge up and stay positive'' என்று எழுதப்பட்ட குறிக்கப்பட்ட சார்ஜிங் இடத்திற்கு அருகில் ஒரு DC மின்சார வாகன சார்ஜர்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் மின்சார கார்களுக்கு இலவச சாலை வரி காலம் முடிந்துவிட்டது — ஆனால் உங்கள் MyJPJ இல் வந்திறங்கும் முதல் பில் நீங்கள் நினைப்பதை விட மலிவாக இருக்கலாம், மேலும் அது முற்றிலும் புதிய முறையில் கணக்கிடப்படுகிறது.

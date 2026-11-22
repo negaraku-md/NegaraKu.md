@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'Jalur bersepeda dan joging beraspal merah dengan simbol sepeda putih bercat, rak sepeda dan pepohonan di bawah langit biru.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Melangkah keluar dari sebuah stasiun LRT Lembah Klang pada pukul 1 siang

@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: '一列流线型的白橙相间高速列车停靠在车站月台，乘客正在上车。'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一列能在约90分钟内将你从吉隆坡送到新加坡的子弹列车，历经签署、暂停、终止、哀悼，再到重生——而这一切都发生在还没铺下一寸轨道之前。以下是这个反反复复的项目究竟进展到了哪一步。

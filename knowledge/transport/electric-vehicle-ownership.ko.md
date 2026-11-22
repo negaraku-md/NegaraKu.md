@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: '말레이시아 고속도로 휴게소에 있는 DC 전기차 충전기로, 표시된 충전 구역에 “Charge up and stay positive”라고 적혀 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 전기차의 무료 도로세 시대는 끝났습니다 — 그러나 당신의

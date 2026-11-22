@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: 'アパートが立ち並ぶクアラルンプールの道路の上の高架橋を、MRTカジャン線の列車が走っている。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 たいていの新しい鉄道は、人々をどこか新しい場所へ運ぶために建設される。MRT3サークル線が建設されるのは、クアラルンプールがすでに持っている路線を結び合わせるためだ——その主たる役目が被覆ではなく接続である、市を取り巻く一つのリングである。

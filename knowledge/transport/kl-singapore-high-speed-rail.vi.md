@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Một đoàn tàu cao tốc màu trắng và cam bóng bẩy dừng tại sân ga khi hành khách lên tàu.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một chuyến tàu cao tốc có thể đưa bạn từ Kuala Lumpur đến Singapore trong khoảng 90 phút đã được ký, tạm ngưng, chấm dứt, tiếc thương, và hồi sinh — tất cả mà không một đường ray nào được đặt xuống. Đây là nơi dự án lúc có lúc không này thực sự đang đứng.

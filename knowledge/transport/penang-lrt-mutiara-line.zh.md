@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: '从空中俯瞰斜拉索式的槟城大桥横跨于槟岛与大陆之间青绿色的海峡之上。'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 将近一个世纪以来，在槟城出行一直意味着汽车、巴士和跨海峡的渡轮。明珠线是这个州押下的一注：赌一条高架城市铁路终能改变这一切——而它是槟城有史以来首条这样的线路。

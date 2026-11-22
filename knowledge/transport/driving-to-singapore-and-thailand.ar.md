@@ -66,6 +66,13 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP سنغافورة ماليزيا", "تصريح دخول المركبة سنغافورة", "القيادة إلى تايلاند من ماليزيا", "VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "ازدحام Causeway Second Link", "تأمين المركبات العابر للحدود ماليزيا", "معبر Bukit Kayu Hitam", "بطاقة Autopass سنغافورة", "PIAM Endorsement 101", "استيراد المركبة المؤقت تايلاند"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'معبر جوهور-سنغافورة (Causeway) الذي يعبر المضيق مزدحم بالمركبات، مع لوحة إعلانية "I love Johor" على الجانب الماليزي.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 جاران اثنان، وحدّان بريّان، ونظامان مختلفان تمامًا للسيارة نفسها.

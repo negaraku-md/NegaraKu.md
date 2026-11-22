@@ -62,6 +62,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'Kereta beratur rapat dalam kesesakan lalu lintas di Lebuhraya Persekutuan Malaysia di bawah jejambat pejalan kaki.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda boleh memandu kereta yang tidak pernah dibasuh, bertayar haus dan berhawa dingin rosak — dan itu semua sah di sisi undang-undang. Tetapi memandu tanpa satu keping kertas, iaitu polisi insurans pihak ketiga, adalah kesalahan jenayah.

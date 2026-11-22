@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'सारावाक में निर्माणाधीन पैन बोर्नियो हाईवे के एक हिस्से पर एक लॉरी चल रही है, सड़क के किनारे लाल-सफेद अवरोधक लगे हैं।'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशियाई बोर्नियो के अधिकांश इतिहास में, एक कस्बे से अगले कस्बे तक जाने का मतलब था एक सिंगल-लेन ट्रंक सड़क पर धीमी रेंगती यात्रा, जो लॉरियों, लकड़ी-कटाई के यातायात और कभी-कभी बह गए पुल के साथ साझा होती थी। पैन बोर्नियो हाईवे इसे बदलने का प्रयास है: उस ट्रंक सड़क को Sarawak और Sabah की पूरी लंबाई तक जाने वाले एक आधुनिक, अधिकांशतः दोहरी-कैरिजवे संपर्क में बदलने का एक दशक लंबा प्रयास।

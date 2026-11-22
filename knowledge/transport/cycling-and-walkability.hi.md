@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["मलेशिया में पैदल-चलने-योग्यता", "मलेशियाई शहरों में साइकिल चलाना", "मलेशिया में पैदल-यात्री बुनियादी ढाँचा", "KL पैदल-यात्री एवं साइकिल मास्टरप्लान", "मलेशिया में कार निर्भरता", "मलेशिया में सक्रिय गतिशीलता", "walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'नीले आसमान के नीचे सफेद साइकिल चिह्न, साइकिल स्टैंड और पेड़ों के साथ एक लाल पक्की साइकिलिंग और जॉगिंग ट्रैक।'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 क्लांग वैली की किसी LRT स्टेशन से दोपहर 1 बजे बाहर निकलिए और अपने दफ़्तर तक

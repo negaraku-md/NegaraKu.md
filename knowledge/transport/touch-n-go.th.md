@@ -70,6 +70,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'ป้ายช่องทางเหนือศีรษะที่เขียนว่า “Touch ''n GO”, “MyRFID” และ “SmartTAG” บอกตำแหน่งช่องเก็บเงินแบบไร้เงินสดที่ด่าน Gombak โดยมีคำว่า “RFID” ทาไว้บนพื้นถนน'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 หลายคนเก็บบัตร Touch 'n Go ไว้ในกระเป๋าสตางค์และมีแอปพลิเคชัน Touch 'n Go eWallet อยู่ในโทรศัพท์ แล้วเข้าใจว่าทั้งสองเป็นสิ่งเดียวกันที่มีสองหน้า แต่ไม่ใช่เช่นนั้น ยอดเงินในบัตรของคุณและยอดเงินในแอปพลิเคชันของคุณเก็บแยกจากกันโดยสิ้นเชิง — การเติมเต็มอย่างหนึ่งไม่ได้เพิ่มแม้แต่เซนเดียวให้กับอีกอย่างหนึ่ง ความเข้าใจผิดนี้เป็นสาเหตุที่พบบ่อยของรถที่ติดค้างอยู่ที่ด่านเก็บเงิน เพราะผู้ขับขี่มั่นใจว่า "เงินในโทรศัพท์มีเพียงพอ" ทั้งที่สิ่งที่เครื่องเก็บค่าผ่านทางอ่านคือบัตร

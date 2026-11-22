@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'منظر جوي لجسر بينانغ المعلق بالكابلات وهو يمتد عبر المضيق الفيروزي بين جزيرة بينانغ والبر الرئيسي.'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 على مدى ما يقارب قرناً من الزمن، كان التنقّل في Penang يعني السيارات والحافلات والعبّارة عبر المضيق. وخط Mutiara Line هو رهان الولاية على أن سكة حديدية حضرية مرتفعة قادرة أخيراً على تغيير ذلك — وهو أول خط من نوعه عرفته Penang على الإطلاق.

@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: 'قطار على خط كاجانغ للـ MRT يسير على جسر مرتفع فوق طريق في كوالالمبور تحيط به مبانٍ سكنية.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 تُبنى معظم خطوط السكك الحديدية الجديدة لنقل الناس إلى مكان جديد. أما خط MRT3 الدائري فيُبنى ليربط الخطوط التي تملكها كوالالمبور أصلاً بعضها ببعض — حلقة حول المدينة مهمتها الأساسية الاتصال لا التغطية.

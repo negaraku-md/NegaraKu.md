@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'Sebuah lori bergerak di sepanjang satu bahagian Lebuhraya Pan Borneo yang sedang dibina di Sarawak, dengan penghadang merah-putih di tepi jalan.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Untuk kebanyakan sejarah Borneo Malaysia, perjalanan dari satu pekan ke pekan seterusnya bermakna merangkak perlahan di sepanjang jalan utama berlorong tunggal, berkongsi dengan lori, trafik pembalakan dan sesekali jambatan yang dihanyutkan air. Lebuhraya Pan Borneo ialah usaha untuk mengubah keadaan itu: usaha selama sedekad untuk menjadikan jalan utama itu pautan moden yang kebanyakannya berkembar membentang di sepanjang Sarawak dan Sabah.

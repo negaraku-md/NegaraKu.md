@@ -71,6 +71,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: '交通量の多いクアラルンプール市街の交差点で、マレーシアの交通警察官が白い「POLIS」のパトロールバイクの横に立って書類を記入している。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 運転者は、書面上は似て見える四種類の切符を受け取ることがある——だがそれらは四つの異なる機関から来ており、四つの異なる場所で照会しなければならない。多くの人は一つのポータルしか知らず、そのため自分の切符が「消えた」と思い込むが、実際にはそれは別のシステムの中に収まっている。

@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'ペナンのジョージタウンの通りで、マレー語の説明書きが付いた緑色のツイン式コイン投入パーキングメーターが、赤い柵の横に立っている。'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 あなたは発券機に入れる小銭を車内で探している——だがその機械は2020年からもう存在しない。マレーシアの大都市での駐車は、今や路肩の小銭入れではなく、スマートフォンから始まる。

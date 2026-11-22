@@ -63,6 +63,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'Những chiếc ô tô nối đuôi sát nhau trong cảnh kẹt xe trên đường cao tốc Liên bang ở Malaysia bên dưới một cầu vượt dành cho người đi bộ.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn có thể lái một chiếc xe chưa bao giờ được rửa, lốp mòn và điều hòa hỏng — và tất cả điều đó đều hợp pháp. Nhưng lái xe mà không có một tờ giấy, tức là một hợp đồng bảo hiểm bên thứ ba, là một hành vi phạm tội.

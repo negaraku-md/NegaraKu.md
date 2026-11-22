@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'Un parquímetro doble verde que funciona con monedas con instrucciones en malayo junto a una reja roja en una calle de George Town, Penang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Rebuscas monedas en el coche para la máquina expendedora de tiques, pero esas máquinas desaparecieron en 2020. Aparcar en las grandes ciudades de Malasia ahora empieza con un smartphone, no con un frasco de monedas al borde de la carretera.

@@ -74,6 +74,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'Sebuah sekolah mengemudi di ruko bertanda Pusat Latihan Memandu Sri Jaya dengan papan tanda L pelat-L biru berukuran besar.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Kebanyakan orang menganggap "lisensi mengemudi" sebagai satu dokumen tunggal. Ia

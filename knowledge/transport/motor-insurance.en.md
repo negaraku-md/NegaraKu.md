@@ -63,6 +63,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'Cars queued bumper to bumper in a traffic jam on the Federal Highway in Malaysia beneath a pedestrian overpass.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 You can legally drive a car that has never been washed, has worn-out tyres and a broken air conditioner. But driving without a single piece of paper — a third-party insurance policy — is a criminal offence.

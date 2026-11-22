@@ -73,6 +73,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'ஒரு பரபரப்பான கோலாலம்பூர் நகர சந்திப்பில் ஒரு மலேசிய போக்குவரத்து காவலர் தனது வெள்ளை POLIS ரோந்து மோட்டார் சைக்கிளுக்கு அருகில் நின்று எழுதுகிறார்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு வாகன ஓட்டுநர் காகிதத்தில் ஒரே மாதிரி தோற்றமளிக்கும் நான்கு வகையான சம்மன்களைப் பெறலாம் — ஆனால் அவை நான்கு வெவ்வேறு தரப்புகளிடமிருந்து வருகின்றன, ஒவ்வொன்றும் வெவ்வேறு இடத்தில் சரிபார்க்கப்பட வேண்டும். பலருக்கு ஒரே ஒரு தளம் மட்டுமே தெரியும்; அவர்களது சம்மன் உண்மையில் வேறு அமைப்பில் இருக்கும்போது, அது “மறைந்துவிட்டது” என்று அவர்கள் நினைத்துக் கொள்கிறார்கள்.

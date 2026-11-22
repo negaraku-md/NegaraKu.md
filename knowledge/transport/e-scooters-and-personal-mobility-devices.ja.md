@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'ジョホール州バトゥパハの舗装された公園の小道に停められた3台の紫色のBeamシェア電動キックボード。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 通勤用に電動キックボードを買ったとしても、その車輪が公道に触れた瞬間、あなたはすでに法を犯している。それが2021年末以降のマレーシアにおけるマイクロモビリティの現実だ。

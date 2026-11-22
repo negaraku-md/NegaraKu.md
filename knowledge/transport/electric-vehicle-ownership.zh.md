@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: '马来西亚高速公路休息站内一台直流电动车充电桩，旁边划定的充电车位上写着“Charge up and stay positive”。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚电动车享有免路税的时代已经结束——但落在你 MyJPJ 里的第一张账单，可能比你想象的更便宜，而且它是用一套全新的方式计算的。

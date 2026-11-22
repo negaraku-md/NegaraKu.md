@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'Sebuah pengisi daya kendaraan listrik DC di samping petak pengisian bertanda Charge up and stay positive di sebuah rest area jalan tol Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Zaman pajak jalan gratis untuk mobil listrik di Malaysia sudah berakhir — tetapi tagihan pertama yang mendarat di MyJPJ Anda mungkin lebih murah daripada yang Anda duga, dan ia dihitung dengan cara yang benar-benar baru.

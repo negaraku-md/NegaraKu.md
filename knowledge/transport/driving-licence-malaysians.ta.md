@@ -74,6 +74,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: '''Pusat Latihan Memandu Sri Jaya'' என்று எழுதப்பட்ட, பெரிய நீல நிற L கற்போர் தட்டு அறிகுறிகளுடன் கூடிய ஒரு கடைமுக வாகன ஓட்டும் பள்ளி.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பெரும்பாலான மக்கள் ‘ஓட்டுநர் உரிமம்’ என்பதை ஒரே ஆவணமாகக் கருதுகிறார்கள்.

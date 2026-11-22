@@ -97,6 +97,13 @@ relations:
 related: ["kl-singapore-high-speed-rail", "driving-to-singapore-and-thailand", "iskandar-malaysia-guide", "forest-city-sfz", "klang-valley-rail"]
 keywords: ["RTS Link", "Johor Bahru Singapore RTS", "Bukit Chagar station", "Woodlands North station", "RTS Operations Pte Ltd", "Prasarana SMRT RTS", "Causeway congestion", "cross-border rail Johor Singapore"]
 framework: profile
+hero: '/media/transport/johor-bahru-singapore-rts-link/hero.webp'
+heroAlt: 'Viaduk rel RTS Link yang telah selesai melengkung di atas tiang melintasi perairan Selat Johor di bawah langit mendung.'
+heroCredit: 'MapStaringEnthusiast / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap hari kerja, puluhan ribu orang merangkak menyeberangi Causeway Johor-Singapura - salah satu perbatasan darat paling sibuk di dunia - dengan mobil, bus dan sepeda motor, sering mengantre satu jam atau lebih. RTS Link adalah taruhan kedua pemerintah bahwa sebuah kereta pendek, bukan jalan yang lebih lebar, adalah cara memecah kemacetan itu.

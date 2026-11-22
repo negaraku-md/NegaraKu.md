@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL सिंगापुर HSR", "मलेशिया में हाई-स्पीड रेल", "MyHSR Corp", "HSR समाप्ति मुआवज़ा", "HSR पुनर्जीवन RFP", "high-speed rail Malaysia"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'यात्रियों के चढ़ते समय एक स्टेशन प्लेटफॉर्म पर रुकी एक चिकनी सफेद और नारंगी हाई-स्पीड रेल ट्रेनसेट।'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक बुलेट ट्रेन जो आपको कुआलालंपुर से सिंगापुर तक लगभग 90 मिनट में पहुँचा सकती थी — उस पर

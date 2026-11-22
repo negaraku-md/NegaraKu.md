@@ -69,6 +69,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Papan tanda lorong atas bertulis Touch ''n GO, MyRFID dan SmartTAG menandakan pondok tol tanpa tunai di Plaza Tol Gombak, dengan RFID bercat merentasi jalan.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ramai orang menyimpan kad Touch 'n Go dalam dompet dan aplikasi Touch 'n Go eWallet dalam telefon, lalu menganggap kedua-duanya ialah benda yang sama dengan dua muka. Ia bukan. Baki dalam kad anda dan baki dalam aplikasi anda disimpan berasingan sepenuhnya — memuat penuh satu tidak menambah sesen pun kepada yang satu lagi. Salah faham ini punca biasa kereta tersekat di gerbang tol kerana pemandu yakin "duit dalam telefon cukup," sedangkan yang dibaca oleh mesin tol ialah kad.

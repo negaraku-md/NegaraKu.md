@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'มิเตอร์จอดรถแบบหยอดเหรียญคู่สีเขียวพร้อมคำแนะนำภาษามลายู ตั้งอยู่ข้างรั้วเหล็กสีแดงบนถนนในจอร์จทาวน์ รัฐปีนัง'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณค้นหาเหรียญในรถเพื่อหยอดเครื่องออกตั๋ว — แต่เครื่องนั้นหายไปตั้งแต่ปี 2020 การจอดรถในเมืองใหญ่ของมาเลเซียขณะนี้เริ่มต้นด้วยสมาร์ตโฟน ไม่ใช่กระปุกเหรียญริมถนนอีกต่อไป

@@ -72,6 +72,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: '一名马来西亚交通警察站在他白色的“POLIS”巡逻摩托车旁书写，身处繁忙的吉隆坡市区十字路口。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 驾车人士可能会收到四种表面上看起来相似的罚单——但它们其实来自四个不同的单位，也必须在四个不同的地方查询。许多人只知道其中一个门户网站，于是误以为自己的罚单「消失」了，实际上它正静静躺在另一个系统里。

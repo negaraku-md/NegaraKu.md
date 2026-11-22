@@ -66,6 +66,13 @@ relations:
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: '一条红色铺面的自行车与慢跑道，路面漆有白色自行车标志，旁有自行车停放架和树木，天空湛蓝。'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 下午一点从巴生谷的一座轻快铁（LRT）站走出来，试着步行剩下的 500 米到你

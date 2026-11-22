@@ -74,6 +74,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: '一家店面式驾驶学校，招牌写着“Pusat Latihan Memandu Sri Jaya”，挂有蓝色大写字母 L 的学员车牌标志。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 多数人把「驾驶执照」当成单一一份文件。实际上它是三张各自独立的驾照——L、P 与 CDL——由严格的时限串连起来，再加上一套扣分制度，能在 P 驾照还未来得及转成全牌之前，就将它即刻撤销。以下是这套流程实际的运作方式，根据 JPJ 官方门户网站与马来西亚政府官方门户网站（Portal Rasmi Kerajaan Malaysia）。

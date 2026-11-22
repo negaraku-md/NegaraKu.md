@@ -76,6 +76,13 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: '밤에 말레이시아 고속도로 요금소에서 불이 켜진 두 개의 노란색 SmartTAG 차로 표지판 아래로 차 한 대가 지나가고 있다.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 RFID 차로에서 당신 앞의 차가 전조등에 붙은 스티커가 감지되지 않아 갑자기

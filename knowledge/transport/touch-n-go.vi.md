@@ -70,6 +70,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Các biển làn trên cao ghi "Touch ''n GO", "MyRFID" và "SmartTAG" đánh dấu các trạm thu phí không tiền mặt tại Trạm thu phí Gombak, với chữ "RFID" được sơn trên mặt đường.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nhiều người giữ một thẻ Touch 'n Go trong ví và ứng dụng Touch 'n Go eWallet trong điện thoại, rồi cho rằng cả hai là cùng một thứ với hai mặt. Không phải vậy. Số dư trong thẻ của bạn và số dư trong ứng dụng của bạn được lưu hoàn toàn tách biệt — nạp đầy cái này không thêm một sen nào cho cái kia. Hiểu lầm này là nguyên nhân thường gặp khiến xe kẹt lại tại cổng thu phí vì người lái tin chắc "tiền trong điện thoại là đủ", trong khi cái mà máy thu phí đọc là chiếc thẻ.

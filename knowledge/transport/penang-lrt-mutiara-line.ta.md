@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'பினாங் தீவுக்கும் பிரதான நிலப்பகுதிக்கும் இடையே நீலப்பச்சை நீரிணை முழுவதும் நீண்டுள்ள கேபிள்-நிலைப்படுத்தப்பட்ட பினாங் பாலத்தின் (Penang Bridge) வான்வழிக் காட்சி.'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கிட்டத்தட்ட ஒரு நூற்றாண்டு காலமாக, Penang-இல் பயணம் செய்வது என்பது கார்கள், பேருந்துகள் மற்றும் நீரிணையைக் கடக்கும் படகு என்று பொருள்பட்டது. ஒரு மேம்பட்ட நகர்ப்புற ரயில் பாதை இதை இறுதியாக மாற்றிவிட முடியும் என்பதுதான் மாநிலத்தின் பந்தயம் - மேலும் இது Penang கண்ட இதுபோன்ற முதல் பாதை.

@@ -75,6 +75,13 @@ entity: "Aksesibilitas kursi roda di kereta Lembah Klang"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'Sebuah lift penumpang baja tahan karat bertanda simbol aksesibilitas kursi roda biru dan ubin lantai bertekstur di stasiun LRT KLCC di Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bagi pengguna kursi roda, jaringan kereta Lembah Klang bukanlah satu sistem melainkan beberapa, yang dibangun pada dekade berbeda dengan standar yang sangat berbeda — dan itulah kunci untuk merencanakan perjalanan yang baik. Keputusan paling berguna yang Anda buat adalah **moda mana yang akan Anda naiki**; setelah itu, perjalanan berhasil atau gagal karena dua hal yang tidak pernah ditunjukkan peta berkilau: **apakah sebuah lift tertentu berfungsi pada hari itu**, dan **bagaimana titik transit benar-benar terhubung**. Panduan ini membahas cara merencanakan di sekitar kenyataan tersebut. Panduan ini sengaja *bukan* daftar aksesibilitas stasiun demi stasiun — kondisi itu berubah lebih cepat daripada yang bisa diikuti artikel mana pun — jadi di sepanjang panduan ini, perlakukan apa yang disampaikan sebagai *apa yang dibangun untuk disediakan sebuah stasiun*, dan konfirmasikan kondisi terkini ke operator sebelum Anda mengandalkannya.

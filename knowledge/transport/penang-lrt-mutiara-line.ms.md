@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'Pandangan udara Jambatan Pulau Pinang bertali kabel yang terbentang merentasi selat pirus antara Pulau Pinang dan tanah besar.'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Selama hampir seabad, bergerak di sekitar Pulau Pinang bermakna kereta, bas dan feri menyeberangi selat. Laluan Mutiara ialah pertaruhan negeri ini bahawa sebuah landasan rel bandar yang bertingkat akhirnya boleh mengubah keadaan itu - dan ia ialah yang pertama seumpamanya yang pernah dimiliki Pulau Pinang.

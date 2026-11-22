@@ -75,6 +75,13 @@ entity: "Khả năng tiếp cận xe lăn trên hệ thống đường sắt Thu
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'Một thang máy chở khách bằng thép không gỉ có biển báo tiếp cận cho xe lăn màu xanh và gạch lát sàn xúc giác tại ga LRT KLCC ở Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Với người dùng xe lăn, mạng lưới đường sắt của Thung lũng Klang không phải là một hệ thống mà là nhiều hệ thống, được xây dựng trong các thập niên khác nhau theo những chuẩn rất khác nhau — và đó là chìa khóa để lên kế hoạch cho một hành trình tốt. Quyết định hữu ích nhất mà bạn đưa ra là **loại tuyến nào để đi**; sau đó, chuyến đi thành công hay thất bại tùy vào hai điều mà những tấm bản đồ bóng bẩy không bao giờ cho bạn thấy: **liệu một thang máy cụ thể có hoạt động vào ngày đó hay không**, và **các điểm chuyển tuyến thực sự kết nối thế nào**. Hướng dẫn này nói về cách lên kế hoạch xoay quanh những thực tế đó. Nó cố ý *không phải* là một danh sách tiếp cận theo từng ga — những điều kiện đó thay đổi nhanh hơn bất kỳ bài viết nào có thể theo kịp — nên xuyên suốt, hãy xem những gì tiếp theo là *những gì một ga được xây dựng để cung cấp*, và xác nhận tình trạng hiện tại với nhà điều hành trước khi bạn trông cậy vào nó.

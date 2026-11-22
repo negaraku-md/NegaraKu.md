@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: '一列 MRT 加影线列车行驶在吉隆坡一条两旁林立公寓楼的道路上方的高架桥上。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 大多数新铁路线的兴建，是为了把人们送往新的地方。MRT3 环线的兴建，却是为了把吉隆坡已有的线路捆绑在一起——一条环绕城市的环线，主要任务是连接，而非覆盖。

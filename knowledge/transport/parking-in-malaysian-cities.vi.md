@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'Một đồng hồ đỗ xe đôi màu xanh lá hoạt động bằng xu với hướng dẫn bằng tiếng Mã Lai đứng bên cạnh một cánh cửa sắt màu đỏ trên một con phố ở George Town, Penang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn tìm tiền xu trong xe để bỏ vào máy bán vé — nhưng chiếc máy đó đã biến mất từ năm 2020. Đậu xe ở các thành phố lớn của Malaysia nay bắt đầu bằng điện thoại thông minh, không còn là ống tiền xu ven đường.

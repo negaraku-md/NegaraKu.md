@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'நீல வானத்தின் கீழ், வெள்ளை மிதிவண்டி சின்னம் வரையப்பட்ட, மிதிவண்டி நிறுத்துமிடங்கள் மற்றும் மரங்களுடன் கூடிய சிவப்பு தளம் போடப்பட்ட மிதிவண்டி ஓட்டும் மற்றும் ஓடும் பாதை.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பிற்பகல் 1 மணிக்கு Klang Valley-இன் ஒரு LRT நிலையத்திலிருந்து வெளியே

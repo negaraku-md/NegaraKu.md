@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'பினாங் மாநிலம் கெலுகோரில் (Gelugor) ஒரு டெலிவரி பெட்டியுடன் கூடிய அண்டர்போன் மோட்டார் சைக்கிளில் தலைக்கவசம் அணிந்த ஓட்டுநர் ஒரு சாலைச் சந்திப்பில் காத்திருக்கிறார்.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் லெபுஹ்ராயா பெர்செகுட்டுவான் (Lebuhraya Persekutuan) நெடுஞ்சாலைக்குள் மோட்டார்சைக்கிளில் நுழைகிறீர்கள், இடதுபுறமாகப் பிரியும் “மோட்டார்சைக்கிள் பாதை” (Lorong Motosikal) அறிவிப்புப் பலகையைப் பார்க்கிறீர்கள் — அதைப் பின்பற்றுவது கட்டாயமா அல்லது பிரதான பாதையிலேயே தொடரலாமா என்று வியக்கிறீர்கள். பதில் ஒரே ஒரு சொல்லைச் சார்ந்தது: *வர்த்தமானியில் வெளியிடப்பட்டதா* (diwartakan).

@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'Un motociclista con casco sobre una motocicleta tipo underbone con una caja de reparto espera en un cruce en Gelugor, Penang.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Entras a la Federal Highway en una motocicleta, ves una señal de «Motorcycle Lane» (carril de motocicletas) que se desvía hacia la izquierda, y te preguntas si estás obligado a seguirla o si puedes permanecer en la calzada principal. La respuesta depende de una sola palabra: *publicado en la gaceta*.

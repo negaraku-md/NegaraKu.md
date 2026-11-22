@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'A green twin coin-operated parking meter with Malay-language instructions stands beside a red grille on a George Town street in Penang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 You dig around the car for coins for the ticket machine — but those machines have been gone since 2020. Parking in Malaysia's major cities now starts with a smartphone, not a jar of coins by the roadside.

@@ -83,6 +83,13 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["شراء سيارة في ماليزيا", "الإيجار الشراء في ماليزيا", "نقل الملكية لدى JPJ", "السيارة الوطنية Proton Perodua", "قرض السيارة في ماليزيا", "buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'وكالة سيارات بروتون زرقاء كُتب عليها "Wakil Jualan dan Servis" مع عدة سيارات متوقفة أمامها في سوبانغ جايا.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 اشترِ سيارة في ماليزيا توقّع صفقةً واحدة، لكنك في الواقع تدخل في ثلاث علاقات منفصلة دفعةً واحدة: واحدة مع من باعك السيارة، وواحدة مع من يموّلها، وواحدة مع JPJ، الدائرة التي تقرر اسم مَن يظهر فعلاً على المركبة. وإن فاتتك خطوة في أيٍّ من الثلاث، فإن السيارة التي دفعت ثمنها تظل قانونياً غير مملوكة لك بالكامل.

@@ -74,6 +74,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'Una autoescuela en un local comercial rotulada Pusat Latihan Memandu Sri Jaya con grandes carteles azules con la L de aprendiz.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La mayoría de la gente trata la «licencia de conducción» como un único

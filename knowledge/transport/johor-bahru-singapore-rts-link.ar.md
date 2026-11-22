@@ -97,6 +97,13 @@ relations:
 related: ["kl-singapore-high-speed-rail", "driving-to-singapore-and-thailand", "iskandar-malaysia-guide", "forest-city-sfz", "klang-valley-rail"]
 keywords: ["RTS Link", "Johor Bahru Singapore RTS", "Bukit Chagar station", "Woodlands North station", "RTS Operations Pte Ltd", "Prasarana SMRT RTS", "Causeway congestion", "cross-border rail Johor Singapore"]
 framework: profile
+hero: '/media/transport/johor-bahru-singapore-rts-link/hero.webp'
+heroAlt: 'جسر سكة حديد RTS Link المكتمل وهو ينحني على دعامات فوق مياه مضيق جوهور تحت سماء غائمة.'
+heroCredit: 'MapStaringEnthusiast / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في كل يوم عمل، يزحف عشرات الآلاف عبر Causeway بين جوهور وسنغافورة - أحد أكثر الحدود البرية ازدحاماً على وجه الأرض - بالسيارات والحافلات والدراجات النارية، وكثيراً ما يصطفّون ساعة أو أكثر. ورابط RTS هو رهان الحكومتين على أن قطاراً قصيراً، لا طريقاً أعرض، هو السبيل إلى كسر ذلك الاختناق.

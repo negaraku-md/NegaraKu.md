@@ -66,6 +66,13 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: '해협을 가로지르는 조호르-싱가포르 코즈웨이가 차량으로 가득 차 있고, 말레이시아 쪽에는 “I love Johor” 광고판이 있다.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 이웃 나라 둘, 육상 국경 둘, 같은 차량에 대한 완전히 다른 두 개의 체계.

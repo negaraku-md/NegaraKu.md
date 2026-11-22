@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'Sebuah meteran parkir kembar hijau yang dioperasikan dengan koin dengan petunjuk berbahasa Melayu berdiri di samping teralis merah di jalan George Town, Penang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda mencari koin di dalam mobil untuk mesin tiket — tetapi mesin itu sudah tidak ada sejak 2020. Memarkir mobil di kota besar Malaysia kini dimulai dengan ponsel pintar, bukan lagi celengan koin di tepi jalan.

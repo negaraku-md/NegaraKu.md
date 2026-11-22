@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["ई-स्कूटर मलेशिया", "व्यक्तिगत गतिशीलता उपकरण PMD", "सूक्ष्म-गतिशीलता micromobility", "विद्युत साइकिल MS2514", "सड़क परिवहन विभाग JPJ", "e-scooter", "PMD", "mikromobiliti", "MS2514", "JPJ"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'जोहोर के बातू पाहाट में एक पक्के पार्क रास्ते पर खड़े तीन बैंगनी Beam साझा इलेक्ट्रिक स्कूटर।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप दफ़्तर पहुँचने के लिए एक ई-स्कूटर खरीदते हैं, पर जिस क्षण उसके पहिये किसी सार्वजनिक सड़क

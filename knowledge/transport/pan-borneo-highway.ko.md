@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: '사라왁주에서 건설 중인 범보르네오 고속도로 구간을 트럭이 달리고 있으며, 길가에 빨강-흰색 방벽이 늘어서 있다.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아령 보르네오 역사의 대부분에서, 한 도시에서 다음 도시로 가는 일은 트럭과 벌목 차량, 그리고 이따금 물에 쓸려간 다리와 함께 쓰는 1차선 간선도로를 느릿느릿 기어가는 것을 뜻했습니다. 팬보르네오 고속도로는 그것을 바꾸려는 시도입니다 — 그 간선도로를 Sarawak와 Sabah의 전 구간을 달리는 현대적이고 대부분 왕복 분리된 연결로로 바꾸려는 10년에 걸친 노력입니다.

@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'ஜொகூர் மாநிலம் பத்து பாகாத்தில் (Batu Pahat) தளம் போடப்பட்ட பூங்காப் பாதையில் நிறுத்தப்பட்ட மூன்று ஊதா நிற Beam பகிர்வு மின்சார ஸ்கூட்டர்கள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 அலுவலகத்திற்குச் செல்ல நீங்கள் ஒரு இ-ஸ்கூட்டரை வாங்குகிறீர்கள், ஆனால் அதன் சக்கரங்கள் பொது சாலையைத் தொடும் நொடியே நீங்கள் சட்டத்தை மீறிவிட்டீர்கள். 2021 ஆம் ஆண்டின் இறுதி முதல் மலேசியாவில் மைக்ரோமொபிலிட்டியின் நிதர்சனம் இதுதான்.

@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'Un camion roule le long d''une section de l''autoroute Pan Borneo en construction au Sarawak, avec des barrières rouges et blanches bordant le bas-côté.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pendant la majeure partie de l'histoire du Borneo malaisien, aller d'une ville à la suivante signifiait avancer au ralenti sur une route principale à voie unique, partagée avec les camions, le trafic de l'exploitation forestière et, de temps à autre, un pont emporté par les eaux. La Pan Borneo Highway est la tentative de changer cela : un effort d'une décennie pour transformer cette route principale en une liaison moderne, majoritairement à chaussées séparées, parcourant toute la longueur de Sarawak et de Sabah.

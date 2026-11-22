@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'เครื่องชาร์จรถยนต์ไฟฟ้าแบบ DC ข้างช่องจอดชาร์จที่มีข้อความ “Charge up and stay positive” ที่จุดพักริมทางหลวงในมาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ยุคของภาษีถนนฟรีสำหรับรถยนต์ไฟฟ้าในมาเลเซียได้สิ้นสุดลงแล้ว — แต่บิลใบแรกที่ปรากฏใน MyJPJ ของคุณอาจถูกกว่าที่คุณคิด และมันคำนวณด้วยวิธีที่ใหม่จริง ๆ

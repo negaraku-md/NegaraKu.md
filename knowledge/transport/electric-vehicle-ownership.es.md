@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'Un cargador DC para vehículos eléctricos junto a una plaza de carga rotulada Charge up and stay positive en un área de descanso de una autopista malasia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La era del impuesto de circulación gratuito para los coches eléctricos en Malasia ha terminado — pero la primera factura que te llegue en tu MyJPJ puede ser más barata de lo que piensas, y se calcula de una forma completamente nueva.

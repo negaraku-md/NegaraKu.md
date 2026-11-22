@@ -74,6 +74,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'Một trường dạy lái xe mặt tiền cửa hàng với biển "Pusat Latihan Memandu Sri Jaya" cùng các biển chữ L màu xanh lớn dành cho người học lái.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Phần lớn mọi người coi "giấy phép lái xe" là một tài liệu duy nhất. Nó

@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: '乗客が乗り込む中、駅のホームに停車した白とオレンジの洗練された高速鉄道車両。'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 クアラルンプールからシンガポールまでを約90分で運んでくれるはずの弾丸列車は、署名され、凍結され、中止され、惜しまれ、そして復活した——線路がただの一本も敷かれないうちに、である。この、やったりやめたりを繰り返してきた計画が実際にどこまで進んでいるのかを、ここで整理する。

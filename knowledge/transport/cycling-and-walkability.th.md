@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'ทางจักรยานและวิ่งจ็อกกิ้งปูพื้นสีแดงที่มีสัญลักษณ์จักรยานสีขาวทาไว้ พร้อมที่จอดจักรยานและต้นไม้ภายใต้ท้องฟ้าสีคราม'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ก้าวออกจากสถานี LRT ในหุบเขากลังตอนบ่ายโมงและลองเดินระยะ 500 เมตรสุดท้ายไปยังที่ทำงานของคุณ มีความเป็นไปได้สูงที่ทางเท้าจะสิ้นสุดลงเฉย ๆ กลางช่วงถนน ตรงคูระบายน้ำ และยังมีความเป็นไปได้สูงที่แสงแดดจะทำให้คำถามนี้ไร้ความหมายก่อนที่คุณจะเดินไปได้ร้อยเมตรของระยะทางนั้นด้วยซ้ำ

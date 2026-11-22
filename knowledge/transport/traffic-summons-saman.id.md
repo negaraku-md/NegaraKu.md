@@ -73,6 +73,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'Seorang petugas polisi lalu lintas Malaysia berdiri menulis di samping sepeda motor patroli POLIS putihnya di persimpangan kota Kuala Lumpur yang sibuk.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seorang pengemudi dapat menerima empat jenis tilang yang terlihat serupa di atas kertas — tetapi datang dari empat pihak yang berbeda, dan harus diperiksa di empat tempat yang berbeda. Banyak yang hanya tahu satu portal, lalu mengira tilang mereka "hilang" padahal ia sebenarnya duduk di sistem lain.

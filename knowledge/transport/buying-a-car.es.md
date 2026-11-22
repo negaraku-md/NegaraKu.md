@@ -84,6 +84,13 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["comprar coche Malasia", "compra a plazos Malasia", "transferencia propiedad JPJ", "Puspakom B5 B7", "Proton Perodua coche nacional", "transferencia coche usado Malasia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "préstamo coche Malasia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'Un concesionario Proton azul rotulado Wakil Jualan dan Servis con varios coches aparcados delante, en Subang Jaya.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Compra un coche en Malasia y firmas un solo trato, pero en realidad entras en tres relaciones distintas a la vez: una con quien te vendió el coche, una con quien lo está financiando, y una con el JPJ, el departamento que decide a nombre de quién está realmente el vehículo. Omite un paso en cualquiera de las tres, y el coche que pagaste legalmente sigue sin ser del todo tuyo.

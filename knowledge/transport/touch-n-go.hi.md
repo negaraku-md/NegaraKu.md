@@ -70,6 +70,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "Enhanced NFC कार्ड", "kad Enhanced NFC", "मलेशिया प्रीपेड टोल कार्ड", "TNG Digital", "ई-वॉलेट"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'गोम्बाक टोल प्लाजा पर ''Touch ''n GO'', ''MyRFID'' और ''SmartTAG'' लिखे ऊपरी लेन संकेत नकदरहित टोल बूथों को चिह्नित करते हैं, सड़क पर ''RFID'' पेंट किया गया है।'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 बहुत से लोग अपनी जेब में एक Touch 'n Go कार्ड और अपने फ़ोन पर Touch 'n Go eWallet ऐप रखते हैं, और मान लेते हैं कि दोनों दो चेहरों वाली एक ही चीज़ हैं। ऐसा नहीं है। आपके कार्ड का शेष और आपके ऐप का शेष पूरी तरह अलग रखे जाते हैं — एक को पूरा टॉप-अप करने से दूसरे में एक भी सेन नहीं जुड़ता। यह गलतफ़हमी टोल गैंट्री पर कारों के फँस जाने का एक आम कारण है क्योंकि चालक को भरोसा होता है कि «फ़ोन में पर्याप्त पैसा है», जबकि टोल मशीन असल में जो पढ़ती है वह कार्ड है।

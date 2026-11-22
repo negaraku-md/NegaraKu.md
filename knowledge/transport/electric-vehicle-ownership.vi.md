@@ -91,6 +91,13 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'Một trụ sạc xe điện DC bên cạnh ô sạc có kẻ vạch ghi "Charge up and stay positive" tại một trạm dừng nghỉ trên đường cao tốc Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Thời kỳ thuế đường bộ miễn phí cho xe điện ở Malaysia đã kết thúc — nhưng hóa đơn đầu tiên xuất hiện trong MyJPJ của bạn có thể rẻ hơn bạn nghĩ, và nó được tính theo một cách hoàn toàn mới.

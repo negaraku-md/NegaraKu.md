@@ -63,6 +63,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["मलेशिया में मोटर बीमा", "तृतीय-पक्ष बीमा", "सड़क परिवहन अधिनियम 1987", "व्यापक बीमा", "सड़क कर", "धारा 90", "PIAM", "मोटरसाइकिल बीमा", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'मलेशिया में फेडरल हाईवे पर एक पैदल यात्री ओवरपास के नीचे ट्रैफिक जाम में बम्पर से बम्पर कतार में खड़ी कारें।'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आप क़ानूनी रूप से एक ऐसी कार चला सकते हैं जो कभी धुली ही न हो, जिसके टायर घिसे हुए हों और एयर कंडीशनर टूटा हो। लेकिन एक अकेले काग़ज़ के बिना गाड़ी चलाना — एक तृतीय-पक्ष बीमा पॉलिसी — एक आपराधिक अपराध है।

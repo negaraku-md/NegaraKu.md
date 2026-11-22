@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: '페낭섬과 본토 사이의 청록색 해협을 가로지르는 사장교 페낭 대교를 하늘에서 내려다본 모습.'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 한 세기 가까이 페낭을 돌아다닌다는 것은 자동차와 버스, 그리고 해협을 건너는 페리를 뜻했습니다. 무티아라선은 고가 도시철도가 마침내 그것을 바꿀 수 있다는 이 주의 베팅이며 — 페낭이 지금껏 가져본 적 없는 최초의 철도입니다.

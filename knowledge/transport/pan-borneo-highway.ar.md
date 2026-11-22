@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'شاحنة تسير على جزء قيد الإنشاء من طريق بان بورنيو السريع في ساراواك، مع حواجز حمراء وبيضاء تصطف على جانب الطريق.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 على مدى معظم تاريخ بورنيو الماليزية، كان الانتقال من بلدة إلى أخرى يعني زحفاً بطيئاً على طريق جذعي بمسار واحد، يُتقاسَم مع الشاحنات وحركة قطع الأشجار وجسر يجرفه الماء بين الحين والآخر. وطريق بان بورنيو السريع هو المحاولة لتغيير ذلك: جهد يمتد عقداً لتحويل ذلك الطريق الجذعي إلى رابط حديث معظمه ازدواجي يمتد على طول Sarawak وSabah.

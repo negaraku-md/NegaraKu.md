@@ -75,6 +75,13 @@ entity: "クランバレーの鉄道における車椅子アクセシビリテ�
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'クアラルンプールのKLCC LRT駅にある、青い車いす用バリアフリー標識と点字ブロックが設けられたステンレス製の乗客用エレベーター。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 車椅子利用者にとって、クランバレーの鉄道網は一つのシステムではなく、異なる時代に大きく異なる基準で建設されたいくつものシステムです――そしてそれが良い移動を計画する鍵になります。あなたが下す最も役立つ決断は、**どの路線で移動するか**です。その後は、きれいな路線図には決して載っていない二つのことで旅程の成否が決まります。**特定のエレベーターがその日に動いているか**、そして**乗り換えが実際にどうつながっているか**です。このガイドは、そうした現実をふまえてどう計画するかについてのものです。これは意図的に駅ごとのアクセシビリティ一覧**ではありません**――そうした状況は、どの記事も追いつけないほど早く変わるからです――ので、以下はすべて*その駅が備えるよう設計された内容*として扱い、当てにする前に現時点の状態を運営者に確認してください。

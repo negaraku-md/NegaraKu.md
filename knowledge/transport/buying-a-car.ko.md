@@ -83,6 +83,13 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: '수방자야에 있는 파란색 Proton 대리점으로, “Wakil Jualan dan Servis” 간판이 걸려 있고 앞에 여러 대의 차가 주차되어 있다.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 자동차를 사면 하나의 계약에 서명하지만, 실제로는 동시에 세

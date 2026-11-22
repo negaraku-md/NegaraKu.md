@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: '아파트 단지가 늘어선 쿠알라룸푸르 도로 위의 고가교를 따라 MRT 카장선 열차가 달리고 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 대부분의 새 철도 노선은 사람들을 새로운 곳으로 실어 나르기 위해 지어집니다. MRT3 순환선은 쿠알라룸푸르가 이미 가진 노선들을 하나로 묶기 위해 지어집니다 — 그 주된 임무가 커버리지가 아니라 연결인, 도시를 둘러싼 하나의 고리입니다.

@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: '페낭 조지타운 거리에서 말레이어 안내문이 적힌 녹색 쌍둥이형 동전 투입식 주차 미터기가 빨간 철책 옆에 서 있다.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 티켓 기계에 넣을 동전을 차 안에서 찾습니다 — 하지만 그 기계는 2020년 이후로

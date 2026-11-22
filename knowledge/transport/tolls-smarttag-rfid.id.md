@@ -77,6 +77,13 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'Sebuah mobil melintas pada malam hari di bawah dua papan tanda jalur SmartTAG kuning bercahaya di plaza tol jalan tol Malaysia.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mobil di depan Anda di jalur RFID berhenti mendadak karena stiker pada lampu utamanya tidak terdeteksi — padahal banyak orang mengira RFID berarti "tidak perlu melakukan apa-apa sama sekali." Kenyataannya, Malaysia kini menjalankan sekurang-kurangnya empat generasi teknologi tol serentak di jalan tol yang berbeda, dan mengelirukan satu dengan yang lain adalah penyebab biasa mobil terhenti di gerbang.

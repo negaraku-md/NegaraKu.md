@@ -97,6 +97,13 @@ relations:
 related: ["kl-singapore-high-speed-rail", "driving-to-singapore-and-thailand", "iskandar-malaysia-guide", "forest-city-sfz", "klang-valley-rail"]
 keywords: ["RTS Link", "Johor Bahru Singapore RTS", "Bukit Chagar station", "Woodlands North station", "RTS Operations Pte Ltd", "Prasarana SMRT RTS", "Causeway congestion", "cross-border rail Johor Singapore"]
 framework: profile
+hero: '/media/transport/johor-bahru-singapore-rts-link/hero.webp'
+heroAlt: 'ทางรถไฟยกระดับ RTS Link ที่สร้างเสร็จแล้ว โค้งไปตามเสาตอม่อข้ามผืนน้ำของช่องแคบยะโฮร์ภายใต้ท้องฟ้ามีเมฆ'
+heroCredit: 'MapStaringEnthusiast / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกวันทำงาน ผู้คนหลายหมื่นคนค่อย ๆ คืบข้าม Causeway ยะโฮร์–สิงคโปร์ - หนึ่งในพรมแดนทางบกที่พลุกพล่านที่สุดในโลก - ด้วยรถยนต์ รถบัส และมอเตอร์ไซค์ บ่อยครั้งต้องต่อแถวนานเป็นชั่วโมงหรือมากกว่า RTS Link คือการเดิมพันของรัฐบาลทั้งสองประเทศว่ารถไฟสายสั้น ไม่ใช่ถนนที่กว้างขึ้น คือหนทางทลายการติดขัดนั้น

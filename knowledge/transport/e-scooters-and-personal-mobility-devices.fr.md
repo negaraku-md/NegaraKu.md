@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Trois trottinettes électriques partagées Beam de couleur violette garées sur une allée pavée d''un parc à Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous achetez une trottinette électrique pour aller au bureau, mais dès que ses roues touchent une route publique, vous enfreignez déjà la loi. C'est la réalité de la micromobilité en Malaisie depuis la fin de 2021.

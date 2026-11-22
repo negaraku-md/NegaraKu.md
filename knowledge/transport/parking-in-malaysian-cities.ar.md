@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["ركن السيارات", "e-parking", "غرامة ركن السيارات التصالحية", "DBKL", "Smart Selangor Parking", "EZ Smart Park", "letak kereta"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'عداد وقوف سيارات مزدوج أخضر يعمل بالعملات المعدنية وعليه تعليمات بالماليزية يقف بجوار بوابة حديدية حمراء في شارع بجورج تاون، بينانغ.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تنقّب في سيارتك عن قطع نقدية لجهاز التذاكر — لكن تلك الأجهزة اختفت منذ عام 2020. فركن السيارات في المدن الكبرى بماليزيا يبدأ الآن بهاتف ذكي، لا بجرّة من القطع النقدية على جانب الطريق.

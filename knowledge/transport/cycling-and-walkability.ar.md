@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["قابلية المشي في ماليزيا", "ركوب الدراجات في المدن الماليزية", "بنية المشاة في ماليزيا", "الخطة الرئيسية للمشاة والدراجات في KL", "الاعتماد على السيارة في ماليزيا", "التنقل النشط في ماليزيا", "walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'مسار مرصوف أحمر لركوب الدراجات والجري عليه رمز دراجة أبيض مرسوم، مع حوامل للدراجات وأشجار تحت سماء زرقاء.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 اخرج من محطة LRT في وادي كلانغ عند الساعة الواحدة ظهراً وحاول أن تمشي

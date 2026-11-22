@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: '페낭주 겔루고르의 교차로에서 배달 상자를 실은 언더본 오토바이에 탄 헬멧 쓴 운전자가 신호를 기다리고 있다.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 오토바이를 타고 연방고속도로(Lebuhraya Persekutuan)에 진입하다가 왼쪽으로

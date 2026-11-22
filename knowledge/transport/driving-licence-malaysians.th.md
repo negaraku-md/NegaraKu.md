@@ -74,6 +74,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'โรงเรียนสอนขับรถแบบหน้าร้านที่ติดป้าย “Pusat Latihan Memandu Sri Jaya” พร้อมป้ายตัว L สีน้ำเงินขนาดใหญ่สำหรับผู้หัดขับ'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คนส่วนใหญ่มอง "ใบอนุญาตขับขี่" ว่าเป็นเอกสารเดียว แท้จริงแล้วมันคือใบอนุญาตสามใบที่แยกกัน — L, P และ CDL — ที่เชื่อมต่อกันด้วยกำหนดเวลาที่เข้มงวด และด้วยระบบตัดคะแนนหนึ่งระบบที่สามารถเพิกถอนใบอนุญาต P ของคุณได้ทันที นานก่อนที่มันจะได้เปลี่ยนเป็นใบอนุญาตเต็ม ต่อไปนี้คือวิธีที่ระบบนั้นทำงานจริง ๆ ตามพอร์ทัลทางการของ JPJ และพอร์ทัลทางการของรัฐบาลมาเลเซีย

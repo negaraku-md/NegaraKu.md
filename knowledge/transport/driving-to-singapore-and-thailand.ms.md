@@ -67,6 +67,13 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'Tambak Johor merentasi selat dipenuhi kenderaan, dengan papan iklan I love Johor di sebelah Malaysia.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dua jiran, dua sempadan darat, dua sistem yang sama sekali berbeza untuk kereta yang sama.

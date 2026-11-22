@@ -74,6 +74,13 @@ entity: "Wheelchair accessibility on Klang Valley rail"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'A stainless-steel passenger lift marked with a blue wheelchair accessibility sign and tactile floor tiles at the KLCC LRT station in Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 For a wheelchair user, the Klang Valley's rail network is not one system but several, built in different decades to very different standards — and that is the key to planning a good journey. The single most useful decision you make is **which mode to travel on**; after that, the trip succeeds or fails on two things the glossy maps never show you: **whether a specific lift is working on the day**, and **how the interchanges actually connect**. This guide is about how to plan around those realities. It is deliberately *not* a station-by-station accessibility list — those conditions change faster than any article can keep up — so throughout, treat what follows as *what a station was built to provide*, and confirm the current condition with the operator before you rely on it.

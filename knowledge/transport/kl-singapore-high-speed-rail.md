@@ -78,6 +78,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'A sleek white and orange high-speed rail trainset stopped at a station platform as passengers board.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 A bullet train that could whisk you from Kuala Lumpur to Singapore in about 90 minutes has been signed, suspended, terminated, mourned, and resurrected — all without a single track being laid. Here is where the on-again, off-again project actually stands.

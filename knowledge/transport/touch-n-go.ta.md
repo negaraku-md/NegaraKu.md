@@ -70,6 +70,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'கொம்பாக் சுங்கச் சாவடியில் (Gombak Toll Plaza) ''Touch ''n GO'', ''MyRFID'' மற்றும் ''SmartTAG'' என்று எழுதப்பட்ட மேல்நிலைப் பாதை அறிகுறிகள் பணமில்லா சுங்கச் சாவடிகளைக் குறிக்கின்றன, சாலை முழுவதும் ''RFID'' வரையப்பட்டுள்ளது.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பலர் தங்கள் பணப்பையில் ஒரு Touch 'n Go அட்டையையும், தொலைபேசியில் Touch 'n Go eWallet செயலியையும் வைத்திருக்கிறார்கள்; இரண்டும் ஒரே பொருளின் இரு முகங்கள் என நினைக்கிறார்கள். அவை அல்ல. உங்கள் அட்டையிலுள்ள இருப்பும், செயலியிலுள்ள இருப்பும் முழுமையாகத் தனித்தனியாகச் சேமிக்கப்படுகின்றன — ஒன்றை முழுமையாக நிரப்பினாலும் மற்றொன்றுக்கு ஒரு சென் கூட சேர்க்காது. இந்தத் தவறான புரிதலே, "தொலைபேசியில் போதுமான பணம் இருக்கிறது" என்று ஓட்டுநர் நம்பிக்கையுடன் இருக்கும்போது சுங்க வளைவுகளில் வாகனங்கள் சிக்கிக்கொள்வதற்கு ஒரு பொதுவான காரணமாகும் — ஏனெனில் சுங்க இயந்திரம் உண்மையில் படிப்பது அட்டையையே.

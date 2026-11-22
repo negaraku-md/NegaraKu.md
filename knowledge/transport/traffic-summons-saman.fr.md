@@ -73,6 +73,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'Un agent de la police de la circulation malaisienne se tient debout en train d''écrire à côté de sa motocyclette de patrouille POLIS blanche à un carrefour urbain animé de Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un conducteur peut recevoir quatre types de contravention qui se ressemblent sur le papier, mais qui proviennent de quatre parties différentes, et chacune doit être consultée à un endroit distinct. Beaucoup de gens ne connaissent qu'un seul portail et supposent que leur contravention a « disparu » alors qu'elle se trouve en réalité dans un autre système.

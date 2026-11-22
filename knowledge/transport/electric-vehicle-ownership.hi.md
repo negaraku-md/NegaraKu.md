@@ -92,6 +92,13 @@ keywords:
   - "road tax EV Malaysia"
   - "LKM"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'एक मलेशियाई राजमार्ग विश्राम स्थल पर ''Charge up and stay positive'' लिखे चिह्नित चार्जिंग स्थान के बगल में एक DC इलेक्ट्रिक वाहन चार्जर।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में विद्युत कारों के लिए मुफ़्त सड़क कर का दौर खत्म हो गया — पर आपके MyJPJ में आने

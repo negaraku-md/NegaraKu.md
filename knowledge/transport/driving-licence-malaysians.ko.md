@@ -73,6 +73,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: '“Pusat Latihan Memandu Sri Jaya” 간판을 단 상가형 운전 학원으로, 파란색 대문자 L 초보운전 표지판이 크게 붙어 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 대부분의 사람들은 「운전면허」를 하나의 단일 문서로 여깁니다. 그것은

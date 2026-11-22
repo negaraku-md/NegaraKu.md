@@ -73,6 +73,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'เจ้าหน้าที่ตำรวจจราจรมาเลเซียยืนเขียนบันทึกข้างรถจักรยานยนต์สายตรวจสีขาวที่มีคำว่า “POLIS” ที่สี่แยกอันพลุกพล่านในกัวลาลัมเปอร์'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ผู้ขับขี่คนหนึ่งอาจได้รับใบสั่งสี่ประเภทที่ดูคล้ายกันบนกระดาษ — แต่มาจากสี่หน่วยงานที่แตกต่างกัน และต้องตรวจสอบในสี่ที่ที่แตกต่างกัน หลายคนรู้จักเพียงพอร์ทัลเดียว แล้วเข้าใจว่าใบสั่งของตน "หายไป" ทั้งที่จริงแล้วมันอยู่ในระบบอื่น

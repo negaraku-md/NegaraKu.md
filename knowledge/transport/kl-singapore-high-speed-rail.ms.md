@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Sebuah set kereta api laju putih dan jingga yang bergaya berhenti di platform stesen sementara penumpang menaiki.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kereta api laju yang boleh membawa anda dari Kuala Lumpur ke Singapura dalam kira-kira 90 minit telah ditandatangani, digantung, ditamatkan, diratapi, dan dihidupkan semula — semuanya tanpa satu landasan pun dipasang. Berikut ialah kedudukan sebenar projek yang tersasar hidup mati ini.

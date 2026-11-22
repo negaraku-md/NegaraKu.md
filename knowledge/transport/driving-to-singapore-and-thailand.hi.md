@@ -67,6 +67,13 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP सिंगापुर मलेशिया", "वाहन प्रवेश परमिट सिंगापुर", "मलेशिया से थाईलैंड गाड़ी चलाना", "कॉज़वे सेकंड लिंक भीड़", "मलेशिया सीमा-पार वाहन बीमा", "बुकित कायु हितम सीमा", "Autopass कार्ड सिंगापुर", "PIAM Endorsement 101", "थाईलैंड अस्थायी वाहन आयात", "VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'जलडमरूमध्य को पार करता जोहोर-सिंगापुर कॉजवे (Causeway) वाहनों से भरा हुआ, मलेशियाई तरफ ''I love Johor'' का बिलबोर्ड।'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 दो पड़ोसी, दो भूमि सीमाएँ, एक ही कार के लिए दो बिलकुल अलग प्रणालियाँ।

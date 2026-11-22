@@ -76,6 +76,13 @@ keywords:
   - "lesen memandu Malaysia"
   - "sistem KEJARA"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: '''Pusat Latihan Memandu Sri Jaya'' लिखा एक दुकाननुमा ड्राइविंग स्कूल, जिस पर बड़े नीले L सीखने वाले प्लेट के चिह्न हैं।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 अधिकांश लोग «ड्राइविंग लाइसेंस» को एक अकेला दस्तावेज़ मानते हैं। यह असल में तीन

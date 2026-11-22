@@ -97,6 +97,13 @@ relations:
 related: ["kl-singapore-high-speed-rail", "driving-to-singapore-and-thailand", "iskandar-malaysia-guide", "forest-city-sfz", "klang-valley-rail"]
 keywords: ["RTS Link", "Johor Bahru Singapore RTS", "Bukit Chagar station", "Woodlands North station", "RTS Operations Pte Ltd", "Prasarana SMRT RTS", "Causeway congestion", "cross-border rail Johor Singapore"]
 framework: profile
+hero: '/media/transport/johor-bahru-singapore-rts-link/hero.webp'
+heroAlt: '曇り空の下、ジョホール海峡の水面を越えて橋脚の上を曲線を描いて延びる、完成したRTS Linkの鉄道高架橋。'
+heroCredit: 'MapStaringEnthusiast / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 毎平日、何万人もの人々が、地球上でもっとも混み合う陸の国境の一つであるジョホール・シンガポール間のCausewayを、乗用車やバス、バイクでじりじりと渡り、しばしば1時間以上も列に並ぶ。RTSリンクは、その渋滞を打開する手立ては、より広い道路ではなく一本の短い鉄道だ——という両政府の賭けである。

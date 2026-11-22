@@ -63,6 +63,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'மலேசியாவில் ஃபெடரல் நெடுஞ்சாலையில் (Federal Highway) ஒரு பாதசாரி மேம்பாலத்தின் கீழ் போக்குவரத்து நெரிசலில் இறுக்கமாக வரிசையில் நிற்கும் கார்கள்.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒருபோதும் கழுவப்படாத, தேய்ந்த டயர்களும் கெட்டுப்போன காற்றுக் குளிரூட்டியும் கொண்ட ஒரு காரை நீங்கள் சட்டப்படி ஓட்டலாம். ஆனால் ஒரே ஒரு தாள் இல்லாமல் — அதாவது ஒரு மூன்றாம் தரப்புக் காப்பீட்டுப் பாலிசி இல்லாமல் — வாகனம் ஓட்டுவது ஒரு குற்றமாகும்.

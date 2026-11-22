@@ -75,6 +75,13 @@ entity: "Accesibilidad en silla de ruedas en el tren del valle de Klang"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'Un ascensor de pasajeros de acero inoxidable señalizado con un símbolo azul de accesibilidad para sillas de ruedas y baldosas táctiles en la estación de LRT KLCC en Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Para una persona usuaria de silla de ruedas, la red ferroviaria del valle de Klang no es un solo sistema sino varios, construidos en décadas distintas con estándares muy diferentes, y esa es la clave para planificar un buen viaje. La decisión más útil que tomas es **en qué modo viajar**; después, el trayecto se logra o fracasa por dos cosas que los mapas lustrosos nunca te muestran: **si un ascensor concreto funciona ese día** y **cómo conectan en realidad los intercambios**. Esta guía trata de cómo planificar en torno a esas realidades. Deliberadamente *no* es una lista de accesibilidad estación por estación —esas condiciones cambian más rápido de lo que cualquier artículo puede seguir—, así que, a lo largo de todo el texto, trata lo que sigue como *aquello para lo que se construyó una estación*, y confirma la condición actual con el operador antes de fiarte de ella.

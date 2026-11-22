@@ -97,6 +97,13 @@ relations:
 related: ["kl-singapore-high-speed-rail", "driving-to-singapore-and-thailand", "iskandar-malaysia-guide", "forest-city-sfz", "klang-valley-rail"]
 keywords: ["RTS Link", "Johor Bahru Singapore RTS", "Bukit Chagar station", "Woodlands North station", "RTS Operations Pte Ltd", "Prasarana SMRT RTS", "Causeway congestion", "cross-border rail Johor Singapore"]
 framework: profile
+hero: '/media/transport/johor-bahru-singapore-rts-link/hero.webp'
+heroAlt: '已建成的 RTS Link 铁路高架桥在桥墩上弯曲延伸，跨越柔佛海峡的水面，天空多云。'
+heroCredit: 'MapStaringEnthusiast / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 每个工作日，数以万计的人以汽车、巴士和摩托车缓慢爬过新山—新加坡的 Causeway——地球上最繁忙的陆路边境之一——往往要排队一个小时甚至更久。RTS 衔接线是两国政府押下的一注：赌一列短途列车、而非一条更宽的公路，才是打破这种拥堵的办法。

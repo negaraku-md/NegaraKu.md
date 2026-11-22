@@ -73,6 +73,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["مخالفات المرور ماليزيا", "saman trafik Malaysia", "التحقق من مخالفات JPJ", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "غرامة المرور", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'شرطي مرور ماليزي يقف يكتب بجوار دراجته النارية البيضاء للدورية المكتوب عليها "POLIS" عند تقاطع مزدحم في مدينة كوالالمبور.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يمكن للسائق أن يتلقى أربعة أنواع من المخالفات تبدو متشابهة على الورق — لكنها تأتي من أربع جهات مختلفة، ويجب التحقق من كلٍّ منها في مكان مختلف. كثيرون يعرفون بوابة واحدة فقط، فيظنّون أن مخالفتهم «اختفت» بينما هي في الواقع قابعة في نظام آخر.

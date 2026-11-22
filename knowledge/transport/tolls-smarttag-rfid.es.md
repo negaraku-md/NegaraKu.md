@@ -77,6 +77,13 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'Un coche pasa de noche bajo dos letreros amarillos iluminados de carril SmartTAG en una plaza de peaje de una autopista malasia.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 El coche que va delante de ti en el carril RFID frena de golpe porque la pegatina de su faro no se detectó, aunque mucha gente da por sentado que RFID significa «no tienes que hacer absolutamente nada». En realidad, Malasia opera actualmente al menos cuatro generaciones de tecnología de peaje de forma simultánea en distintas autopistas, y confundir una con otra es una causa frecuente de que los coches se queden atascados en la barrera.

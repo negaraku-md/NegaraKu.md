@@ -85,6 +85,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'Sebuah meter letak kereta kembar hijau beroperasi dengan syiling dengan arahan dalam bahasa Melayu berdiri di sebelah jeriji merah di jalan George Town, Pulau Pinang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda cari duit syiling di dalam kereta untuk mesin tiket — tetapi mesin itu sudah tiada sejak 2020. Meletak kereta di bandar besar Malaysia kini bermula dengan telefon pintar, bukan lagi tabung syiling di tepi jalan.

@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Ba chiếc xe scooter điện dùng chung Beam màu tím đỗ trên lối đi lát trong công viên ở Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn mua một e-scooter để đi làm, nhưng khoảnh khắc bánh xe chạm đường công cộng, bạn đã vi phạm pháp luật. Đó là thực tế của vi di chuyển ở Malaysia kể từ cuối năm 2021.

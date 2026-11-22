@@ -70,6 +70,13 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "بطاقة Enhanced NFC", "kad Enhanced NFC", "بطاقة رسوم مدفوعة مسبقًا ماليزيا", "TNG Digital", "المحفظة الإلكترونية"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'لافتات مسارات علوية كُتب عليها "Touch ''n GO" و"MyRFID" و"SmartTAG" تحدد أكشاك رسوم غير نقدية في ساحة رسوم غومباك، مع كلمة "RFID" مرسومة على الطريق.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يحتفظ كثيرون ببطاقة Touch 'n Go في محفظتهم وبتطبيق Touch 'n Go eWallet على هاتفهم، ويفترضون أن الاثنين هما الشيء نفسه بوجهين. وهما ليسا كذلك. فالرصيد في بطاقتك والرصيد في تطبيقك يُحفظان منفصلين تمامًا — وشحن أحدهما بالكامل لا يضيف سنتًا واحدًا إلى الآخر. وهذا الالتباس سبب شائع لتعطّل السيارات عند بوابات الرسوم لأن السائق واثق من أن «المال في الهاتف كافٍ»، في حين أن ما تقرأه آلة الرسوم فعلًا هو البطاقة.

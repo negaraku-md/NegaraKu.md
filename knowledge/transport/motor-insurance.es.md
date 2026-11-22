@@ -63,6 +63,13 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["seguro de coche Malasia", "seguro a terceros", "Ley de Transporte por Carretera 1987", "seguro a todo riesgo", "impuesto de circulación", "Sección 90", "PIAM", "seguro de motocicleta", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'Coches en fila parachoques contra parachoques en un atasco en la Federal Highway de Malasia bajo un paso elevado peatonal.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Puede conducir legalmente un coche que nunca se ha lavado, que tiene los neumáticos gastados y el aire acondicionado roto. Pero conducir sin un solo papel — una póliza de seguro a terceros — es un delito.

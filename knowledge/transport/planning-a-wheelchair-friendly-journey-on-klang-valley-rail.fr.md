@@ -75,6 +75,13 @@ entity: "Accessibilité en fauteuil roulant sur le rail de la vallée de Klang"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'Un ascenseur passagers en acier inoxydable marqué d''un symbole bleu d''accessibilité en fauteuil roulant et de dalles podotactiles à la station de LRT KLCC à Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pour un usager en fauteuil roulant, le réseau ferroviaire de la vallée de Klang n'est pas un système unique mais plusieurs, construits à des décennies différentes selon des normes très différentes — et c'est la clé pour planifier un bon trajet. La décision la plus utile que vous prenez est **quel mode emprunter** ; ensuite, le trajet réussit ou échoue sur deux choses que les cartes soignées ne vous montrent jamais : **si un ascenseur précis fonctionne le jour même**, et **comment les correspondances se raccordent réellement**. Ce guide porte sur la façon de planifier autour de ces réalités. Ce n'est délibérément *pas* une liste d'accessibilité gare par gare — ces conditions changent plus vite qu'aucun article ne peut suivre — alors, tout au long, traitez ce qui suit comme *ce qu'une gare a été construite pour offrir*, et confirmez l'état actuel auprès de l'exploitant avant de vous y fier.

@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: 'Một đoàn tàu MRT tuyến Kajang chạy trên cầu cạn trên cao phía trên một con đường ở Kuala Lumpur với những khối chung cư hai bên.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hầu hết các tuyến đường sắt mới được xây để chở người tới một nơi nào đó mới mẻ. MRT3 Tuyến vòng lại đang được xây để buộc các tuyến mà Kuala Lumpur đã có lại với nhau — một vòng quanh thành phố mà nhiệm vụ chính là kết nối, chứ không phải độ phủ.

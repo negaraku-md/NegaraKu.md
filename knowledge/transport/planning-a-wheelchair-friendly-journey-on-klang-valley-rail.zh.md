@@ -75,6 +75,13 @@ entity: "巴生谷铁路的轮椅无障碍"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: '吉隆坡 KLCC LRT 车站内一部不锈钢乘客电梯，标有蓝色轮椅无障碍标志，地面铺有触觉引导砖。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 对轮椅使用者来说，巴生谷的铁路网不是一套系统，而是好几套——在不同年代、按差别很大的标准建成——而这正是规划一趟顺利行程的关键。你做的最有用的单一决定，就是**选用哪一种列车模式**；在那之后，行程的成败取决于那些光鲜地图从不告诉你的两件事：**某一部具体的电梯在当天是否在运作**，以及**换乘实际上是怎么衔接的**。本指南谈的是如何围绕这些现实来规划。它刻意*不是*一份逐站的无障碍清单——那些状况变化的速度，比任何文章能跟上的都快——所以通篇请把下文当作*一座车站按设计应提供的东西*，在依赖它之前向运营者查证当前的实际状况。

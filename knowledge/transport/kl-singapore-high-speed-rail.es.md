@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR KL Singapur", "tren de alta velocidad Malasia", "MyHSR Corp", "indemnización cancelación HSR", "reactivación HSR RFP", "high-speed rail Malaysia"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Un elegante tren de alta velocidad blanco y naranja detenido en el andén de una estación mientras los pasajeros suben.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un tren bala que podría llevarle de Kuala Lumpur a Singapur en unos 90 minutos se ha firmado, suspendido, cancelado, llorado y resucitado — todo sin que se haya tendido una sola vía. Aquí está en qué punto se encuentra en realidad este proyecto que una y otra vez se enciende y se apaga.

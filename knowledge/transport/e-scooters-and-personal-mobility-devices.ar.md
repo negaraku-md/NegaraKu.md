@@ -74,6 +74,13 @@ relations:
 related: []
 keywords: ["السكوتر الكهربائي ماليزيا", "أجهزة التنقل الشخصي PMD", "التنقل الصغير micromobility", "الدراجة الكهربائية MS2514", "دائرة النقل البري JPJ", "e-scooter", "PMD", "mikromobiliti", "MS2514", "JPJ"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'ثلاث دراجات سكوتر كهربائية مشتركة أرجوانية من Beam متوقفة على ممر مرصوف في حديقة بباتو باهات، جوهور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تشتري سكوترًا كهربائيًا للذهاب إلى المكتب، لكن ما إن تلمس عجلاته طريقًا عامًا حتى تكون قد خالفت القانون بالفعل. هذا هو واقع التنقل الصغير في ماليزيا منذ نهاية عام 2021.

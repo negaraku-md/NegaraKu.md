@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'รถยนต์ Hyundai Ioniq Electric สีขาวบนถนน ตกแต่งด้วยลวดลาย Grab Electric สีเขียวและสโลแกน “0 percent emisi”'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เปิด Grab หรือ Bolt หรือ inDrive ในกัวลาลัมเปอร์แล้วแตะ "จอง" ไม่มีอะไรในช่วงเวลานั้นที่รู้สึกว่ามีการกำกับดูแล แต่รถที่มารับยืนอยู่บนใบอนุญาตสามใบที่แยกจากกันซึ่งต้องมีอยู่ก่อนที่ผู้ขับขี่ของคุณจะสามารถรับค่าโดยสารของคุณได้อย่างถูกกฎหมาย — และไม่มีใบใดเป็นของแอปเพียงอย่างเดียว

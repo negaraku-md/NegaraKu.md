@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'ภาพมุมสูงของสะพานปีนังแบบขึงเคเบิลที่ทอดข้ามช่องแคบสีเทอร์ควอยซ์ระหว่างเกาะปีนังกับแผ่นดินใหญ่'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ตลอดเกือบศตวรรษที่ผ่านมา การเดินทางในปีนังหมายถึงรถยนต์ รถโดยสาร และเรือเฟอร์รีข้ามช่องแคบ เส้นทาง Mutiara คือการเดิมพันของรัฐว่าทางรถไฟในเมืองแบบยกระดับจะเปลี่ยนสิ่งนั้นได้ในที่สุด - และมันเป็นสิ่งแรกในประเภทนี้ที่ปีนังเคยมี

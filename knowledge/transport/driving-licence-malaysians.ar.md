@@ -76,6 +76,13 @@ keywords:
   - "lesen memandu Malaysia"
   - "sistem KEJARA"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'مدرسة قيادة بواجهة متجر كُتب عليها "Pusat Latihan Memandu Sri Jaya" مع لافتات زرقاء كبيرة بحرف L للمتدربين.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يعامل معظم الناس «رخصة القيادة» على أنها وثيقة واحدة. وهي في الحقيقة ثلاث رخص منفصلة — L وP وCDL — يربطها معًا حدودٌ زمنية صارمة، إضافةً إلى نظام نقاط جزاء يمكنه إلغاء رخصة P الخاصة بك فورًا، قبل أن تسنح لها فرصة التحوّل إلى رخصة كاملة بوقت طويل. وهذا هو كيف تعمل تلك السلسلة فعلًا، بحسب البوابة الرسمية لدائرة النقل البري (JPJ) والبوابة الرسمية لحكومة ماليزيا.

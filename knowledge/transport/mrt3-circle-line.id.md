@@ -91,6 +91,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail"]
 keywords: ["MRT3", "MRT Circle Line", "MRT3 Circle Line", "Laluan Bulatan MRT", "Kuala Lumpur circle line", "MRT Corp", "Klang Valley rail loop", "MRT3 cost stations completion", "KL orbital rail"]
 framework: profile
+hero: '/media/transport/mrt3-circle-line/hero.webp'
+heroAlt: 'Sebuah kereta MRT Kajang Line melaju di atas viaduk layang di atas sebuah jalan Kuala Lumpur yang dipagari blok apartemen.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kebanyakan jalur rel baru dibangun untuk membawa orang ke suatu tempat yang baru. MRT3 Circle Line dibangun untuk mengikat jalur-jalur yang sudah dimiliki Kuala Lumpur menjadi satu — sebuah cincin mengelilingi kota yang tugas utamanya adalah koneksi, bukan cakupan.

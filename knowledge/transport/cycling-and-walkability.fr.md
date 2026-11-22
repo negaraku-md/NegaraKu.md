@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["marchabilité Malaisie", "vélo villes Malaisie", "infrastructures piétonnes Malaisie", "Plan directeur piétons et cyclistes KL", "dépendance à la voiture Malaisie", "mobilité active Malaisie"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'Une piste cyclable et de jogging pavée en rouge avec un symbole de vélo peint en blanc, des supports à vélos et des arbres sous un ciel bleu.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sortez d'une station de LRT de la vallée de Klang à 13 h et essayez de

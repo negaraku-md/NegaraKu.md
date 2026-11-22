@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["caminabilidad Malasia", "ciclismo ciudades Malasia", "infraestructura peatonal Malasia", "Plan Maestro Peatonal y Ciclista KL", "dependencia del coche Malasia", "movilidad activa Malasia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'Un carril para bicicletas y jogging pavimentado de rojo con un símbolo de bicicleta pintado en blanco, aparcabicicletas y árboles bajo un cielo azul.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sal de una estación de LRT del Klang Valley a la 1 de la tarde e intenta

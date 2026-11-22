@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: '一辆货车行驶在砂拉越一段施工中的泛婆罗洲大道上，路边排列着红白相间的护栏。'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚婆罗洲的大部分历史里，从一个城镇到下一个城镇意味着在一条单车道主干道上缓慢爬行，与罗厘、伐木车流以及偶尔被水冲毁的桥梁共用这条路。泛婆罗洲大道就是改变这一切的尝试：一项历时十年的努力，要把那条主干道变成一条贯穿 Sarawak 与 Sabah、大部分为双向分隔的现代化通道。

@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'பினாங் மாநிலம் ஜார்ஜ் டவுனில் (George Town) ஒரு தெருவில் சிவப்பு கிரில்லுக்கு அருகில் மலாய் மொழி வழிமுறைகளுடன் கூடிய ஒரு பச்சை நிற இரட்டை நாணயம் இயக்கும் நிறுத்துமிட மீட்டர் நிற்கிறது.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் டிக்கெட் இயந்திரத்திற்காகக் காரில் நாணயங்களைத் தேடுகிறீர்கள் — ஆனால் அந்த இயந்திரங்கள் 2020 முதலே இல்லாமல் போய்விட்டன. மலேசியாவின் பெரிய நகரங்களில் வாகன நிறுத்தம் இப்போது சாலையோர நாணயக் குவளையிலிருந்து அல்ல, ஸ்மார்ட்போனிலிருந்தே தொடங்குகிறது.

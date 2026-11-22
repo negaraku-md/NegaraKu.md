@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: '槟城乔治市街头一台绿色双联投币式停车收费表，附有马来文说明，旁边是一道红色栅栏。'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你在车里翻找硬币准备喂售票机——但那些机器早在2020年就消失了。如今在马来西亚大城市停车，是从智能手机开始，而不再是路边的投币箱。

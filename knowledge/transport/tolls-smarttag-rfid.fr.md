@@ -77,6 +77,13 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'Une voiture passe de nuit sous deux panneaux jaunes lumineux de voie SmartTAG à un poste de péage d''autoroute malaisienne.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La voiture devant vous dans la voie RFID freine brusquement parce que la vignette sur son phare n'a pas été détectée — alors que beaucoup de gens supposent que RFID signifie « vous n'avez absolument rien à faire ». En réalité, la Malaisie exploite actuellement au moins quatre générations de technologie de péage simultanément sur différentes autoroutes, et confondre l'une avec l'autre est une cause fréquente de voitures bloquées à la barrière.

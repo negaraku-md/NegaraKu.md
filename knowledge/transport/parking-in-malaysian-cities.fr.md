@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'Un parcmètre double vert fonctionnant à pièces avec des instructions en malais se dresse près d''une grille rouge dans une rue de George Town, Penang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous fouillez la voiture à la recherche de pièces pour l'horodateur — mais ces machines ont disparu depuis 2020. Se garer dans les grandes villes de Malaisie commence désormais par un smartphone, et non par un bocal de pièces au bord de la route.

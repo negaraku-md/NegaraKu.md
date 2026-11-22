@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["पार्किंग", "e-parking", "पार्किंग शमन-जुर्माना", "DBKL", "Smart Selangor Parking", "EZ Smart Park", "letak kereta"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'पेनांग के जॉर्ज टाउन की एक सड़क पर लाल ग्रिल के बगल में मलय भाषा के निर्देशों वाला एक हरा जुड़वां सिक्का-चालित पार्किंग मीटर खड़ा है।'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप टिकट मशीन के लिए सिक्कों की तलाश में कार में इधर-उधर खोजते हैं — लेकिन वे मशीनें 2020 से ग़ायब हैं। मलेशिया के बड़े शहरों में पार्किंग अब एक स्मार्टफ़ोन से शुरू होती है, न कि सड़क-किनारे सिक्कों से भरे मर्तबान से।

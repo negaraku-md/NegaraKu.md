@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'சாலையில் பச்சை நிற Grab Electric அலங்காரம் மற்றும் ''0 percent emisi'' என்ற கோஷத்துடன் குறிக்கப்பட்ட ஒரு வெள்ளை ஹூண்டாய் ஐயோனிக் எலெக்ட்ரிக் (Hyundai Ioniq Electric) கார்.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கோலாலம்பூரில் Grab-ஐயோ, Bolt-ஐயோ, அல்லது inDrive-ஐயோ திறந்து “பதிவு செய்”

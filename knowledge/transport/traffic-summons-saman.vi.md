@@ -73,6 +73,13 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'Một cảnh sát giao thông Malaysia đứng viết bên cạnh chiếc mô tô tuần tra màu trắng ghi "POLIS" tại một giao lộ đông đúc ở thành phố Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một người lái xe có thể nhận bốn loại giấy phạt trông giống nhau trên giấy — nhưng đến từ bốn cơ quan khác nhau, và phải được kiểm tra ở bốn nơi khác nhau. Nhiều người chỉ biết một cổng, rồi tưởng giấy phạt của họ "biến mất" trong khi nó thực ra nằm ở một hệ thống khác.

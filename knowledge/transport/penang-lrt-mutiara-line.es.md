@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'Una vista aérea del Puente de Penang atirantado que se extiende a través del estrecho turquesa entre la isla de Penang y el continente.'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Durante buena parte de un siglo, moverse por Penang ha significado coches, autobuses y el ferry para cruzar el estrecho. La Línea Mutiara es la apuesta del estado por que un ferrocarril urbano elevado pueda por fin cambiar eso, y es el primero de su tipo que Penang ha tenido nunca.

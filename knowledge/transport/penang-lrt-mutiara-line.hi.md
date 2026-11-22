@@ -98,6 +98,13 @@ relations:
 related: ["klang-valley-rail", "kl-singapore-high-speed-rail", "infrastructure-connectivity-by-region"]
 keywords: ["Penang LRT", "Mutiara Line", "LRT Mutiara", "Bayan Lepas LRT", "Penang Transport Master Plan", "Silicon Island LRT", "Komtar Penang Sentral rail", "MRT Corp Penang", "SRS Consortium Penang LRT"]
 framework: profile
+hero: '/media/transport/penang-lrt-mutiara-line/hero.webp'
+heroAlt: 'पेनांग द्वीप और मुख्य भूमि के बीच फिरोजी जलडमरूमध्य में फैले केबल-स्टेड पेनांग ब्रिज का एक हवाई दृश्य।'
+heroCredit: 'Marufish from Alor Setar, Malaysia / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 लगभग एक सदी तक, पेनांग में इधर-उधर जाने का मतलब कारें, बसें और जलडमरूमध्य के पार फेरी रहा है। मुतिआरा लाइन राज्य का यह दाँव है कि एक ऊँची शहरी रेलवे आखिरकार इसे बदल सकती है - और यह पेनांग के पास अब तक की अपनी तरह की पहली लाइन है।

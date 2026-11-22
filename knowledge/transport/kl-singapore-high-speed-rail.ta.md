@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'பயணிகள் ஏறும்போது ஒரு நிலையத் தளத்தில் நிறுத்தப்பட்ட நளினமான வெள்ளை மற்றும் ஆரஞ்சு நிற அதிவேக ரயில் தொடர்வண்டி.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கோலாலம்பூரிலிருந்து சிங்கப்பூருக்கு உங்களைச் சுமார் 90 நிமிடங்களில் அழைத்துச் செல்லக்கூடிய ஒரு புல்லட் ரயில் — கையெழுத்திடப்பட்டது, இடைநிறுத்தப்பட்டது, நிறுத்தப்பட்டது, துக்கம் அனுசரிக்கப்பட்டது, மீண்டும் உயிர்பெற்றது — இவை அனைத்தும் ஒரு அடி தண்டவாளம்கூட போடப்படாத நிலையில் நடந்தன. மீண்டும் மீண்டும் நிலைமாறும் இந்தத் திட்டம் உண்மையில் எங்கே நிற்கிறது என்பது இதோ.

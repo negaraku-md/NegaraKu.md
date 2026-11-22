@@ -97,6 +97,13 @@ relations:
 related: ["kl-singapore-high-speed-rail", "driving-to-singapore-and-thailand", "iskandar-malaysia-guide", "forest-city-sfz", "klang-valley-rail"]
 keywords: ["RTS Link", "Johor Bahru Singapore RTS", "Bukit Chagar station", "Woodlands North station", "RTS Operations Pte Ltd", "Prasarana SMRT RTS", "Causeway congestion", "cross-border rail Johor Singapore"]
 framework: profile
+hero: '/media/transport/johor-bahru-singapore-rts-link/hero.webp'
+heroAlt: 'Cầu cạn đường sắt RTS Link đã hoàn thành uốn cong trên các trụ bắc qua mặt nước eo biển Johor dưới bầu trời nhiều mây.'
+heroCredit: 'MapStaringEnthusiast / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mỗi ngày làm việc, hàng chục nghìn người nhích qua Causeway Johor-Singapore - một trong những biên giới đường bộ bận rộn nhất hành tinh - bằng ô tô, xe buýt và xe máy, thường xếp hàng một giờ hoặc hơn. Tuyến RTS là canh bạc của hai chính phủ rằng một đoàn tàu ngắn, chứ không phải một con đường rộng hơn, mới là cách phá vỡ sự ùn tắc đó.

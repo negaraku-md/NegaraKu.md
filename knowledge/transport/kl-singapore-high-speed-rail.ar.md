@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR كوالالمبور سنغافورة", "السكة الحديدية فائقة السرعة", "قطار فائق السرعة ماليزيا", "MyHSR Corp", "تعويض إنهاء HSR", "إحياء HSR طلب العروض RFP", "high-speed rail Malaysia"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'قطار فائق السرعة أنيق بلونين أبيض وبرتقالي متوقف عند رصيف محطة بينما يصعد الركاب.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قطار فائق السرعة كان بإمكانه أن ينقلك من كوالالمبور إلى سنغافورة في نحو 90 دقيقة؛ جرى التوقيع عليه، وتعليقه، وإنهاؤه، والرثاء له، ثم إحياؤه — وكل ذلك دون أن يُمدَّ قضيب سكة واحد. وفي ما يلي الموقف الفعلي لهذا المشروع المتأرجح بين الحياة والموت.

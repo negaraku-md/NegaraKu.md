@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR KL Singapour", "train à grande vitesse Malaisie", "MyHSR Corp", "indemnité annulation HSR", "relance HSR RFP", "high-speed rail Malaysia"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Une rame de train à grande vitesse blanche et orange à l''arrêt sur le quai d''une gare tandis que les passagers montent.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un train à grande vitesse qui pourrait vous emmener de Kuala Lumpur à Singapour en environ 90 minutes a été signé, suspendu, annulé, pleuré et ressuscité — le tout sans qu'une seule voie ait été posée. Voici où en est réellement ce projet qui ne cesse de s'allumer et de s'éteindre.

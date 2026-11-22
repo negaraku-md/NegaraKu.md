@@ -72,6 +72,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: '「Pusat Latihan Memandu Sri Jaya」の看板を掲げた店舗型の自動車教習所で、青い大きなL字の仮免許プレート標識がある。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 多くの人は「運転免許」を一つの単一の書類だと考えている。実際にはそれは三つの

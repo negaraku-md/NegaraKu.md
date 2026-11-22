@@ -96,6 +96,13 @@ relations:
 related: ["sabah-sarawak-entry-requirements", "east-coast-rail-link-ecrl", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["Pan Borneo Highway", "Lebuhraya Pan Borneo", "Pan Borneo Sarawak", "Pan Borneo Sabah", "AH150", "trans-Borneo highway", "Pan Borneo cost progress", "Lebuhraya Borneo Utara", "Borneo Highway PDP"]
 framework: profile
+hero: '/media/transport/pan-borneo-highway/hero.webp'
+heroAlt: 'சரவாக்கில் கட்டுமானத்தில் உள்ள பான் போர்னியோ நெடுஞ்சாலையின் (Pan Borneo Highway) ஒரு பகுதியில் ஒரு லாரி பயணிக்கிறது, சாலையோரத்தில் சிவப்பு-வெள்ளை தடுப்புகள் வரிசையாக உள்ளன.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசிய பொர்னியோவின் பெரும்பாலான வரலாற்றில், ஒரு நகரத்திலிருந்து அடுத்த நகரத்திற்குச் செல்வது என்பது, லாரிகள், மரம் வெட்டும் போக்குவரத்து மற்றும் அவ்வப்போது வெள்ளத்தில் அடித்துச் செல்லப்பட்ட பாலங்களுடன் பகிர்ந்துகொள்ளப்பட்ட ஒரு-பாதை முக்கிய சாலையில் மெதுவாக ஊர்வதையே குறித்தது. அதை மாற்றுவதற்கான முயற்சிதான் பான் பொர்னியோ நெடுஞ்சாலை: அந்த முக்கிய சாலையை Sarawak மற்றும் Sabah-இன் நீளம் முழுவதும் இயங்கும் நவீன, பெரும்பாலும் இரட்டை-பாதை இணைப்பாக மாற்றுவதற்கான ஒரு பத்தாண்டு முயற்சி.

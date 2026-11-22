@@ -73,6 +73,13 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'Sebuah sekolah memandu di kedai bertanda Pusat Latihan Memandu Sri Jaya dengan papan tanda L plet-L biru yang besar.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Kebanyakan orang menganggap "lesen memandu" sebagai satu dokumen tunggal. Ia

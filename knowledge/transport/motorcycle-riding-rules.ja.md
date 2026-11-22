@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'ペナン州ゲルゴールの交差点で、配達用ボックスを積んだアンダーボーン型バイクにまたがり、ヘルメットを着用したライダーが待機している。'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 オートバイに乗って連邦道路（Lebuhraya Persekutuan）に入り、「オートバイレーン」（Lorong Motosikal）の標識が左へ分岐しているのを見て——それに従わなければならないのか、それとも本線にとどまってよいのか、と迷う。答えはひとつの言葉にかかっている：*官報告示*（diwartakan）だ。

@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["قواعد الدراجات النارية ماليزيا", "مسار الدراجات النارية", "Lebuhraya Persekutuan", "الخوذة", "المادة 79(2)", "Section 79(2)", "دراجات نارية طريق سريع", "MS 1", "سعة المحرك"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'سائق يرتدي خوذة على دراجة نارية من نوع أندربون مزودة بصندوق توصيل ينتظر عند مفترق طرق في غيلوغور، بينانغ.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تدخل بدراجتك النارية إلى الطريق الفيدرالي (Federal Highway)، فترى لافتة «مسار الدراجات النارية» تتفرّع إلى اليسار — وتتساءل هل أنت مُلزَم باتباعها أم يجوز لك البقاء على الطريق الرئيسي. والجواب يتوقف على كلمة واحدة: *الصدور بالجريدة الرسمية*.

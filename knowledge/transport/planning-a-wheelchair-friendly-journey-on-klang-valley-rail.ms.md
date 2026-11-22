@@ -75,6 +75,13 @@ entity: "Kebolehaksesan kerusi roda di rel Lembah Klang"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'Sebuah lif penumpang keluli tahan karat bertanda simbol kebolehcapaian kerusi roda biru dan jubin lantai berjalur di stesen LRT KLCC di Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bagi pengguna kerusi roda, rangkaian rel Lembah Klang bukanlah satu sistem tetapi beberapa sistem, dibina dalam dekad yang berbeza mengikut piawaian yang sangat berbeza — dan itulah kunci kepada merancang perjalanan yang baik. Keputusan paling berguna yang anda buat ialah **mod mana yang hendak digunakan**; selepas itu, perjalanan berjaya atau gagal bergantung pada dua perkara yang tidak pernah ditunjukkan oleh peta berkilat: **sama ada lif tertentu berfungsi pada hari itu**, dan **bagaimana stesen pertukaran sebenarnya bersambung**. Panduan ini adalah tentang cara merancang di sekitar realiti itu. Ia sengaja *bukan* senarai kebolehaksesan stesen demi stesen — keadaan itu berubah lebih cepat daripada yang mana-mana artikel boleh ikuti — jadi di sepanjang panduan ini, anggap apa yang berikut sebagai *apa yang stesen dibina untuk sediakan*, dan sahkan keadaan semasa dengan pengendali sebelum anda bergantung padanya.

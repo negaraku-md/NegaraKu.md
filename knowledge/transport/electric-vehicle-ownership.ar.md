@@ -92,6 +92,13 @@ keywords:
   - "road tax EV Malaysia"
   - "LKM"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'شاحن مركبات كهربائية بالتيار المستمر بجوار موقف شحن محدد كُتب عليه "Charge up and stay positive" في منطقة استراحة على طريق سريع ماليزي.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 انتهى عصر ضريبة الطرق المجانية للسيارات الكهربائية في ماليزيا — لكن أول فاتورة تصلك على MyJPJ قد تكون أرخص مما تظن، وتُحسب بطريقة جديدة كليًا.

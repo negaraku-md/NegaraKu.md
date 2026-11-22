@@ -77,6 +77,13 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'ஒரு மலேசிய விரைவுச்சாலை சுங்கச் சாவடியில் இரண்டு ஒளிரும் மஞ்சள் SmartTAG பாதை அறிகுறிகளுக்குக் கீழே இரவில் ஒரு கார் கடந்து செல்கிறது.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 RFID வழித்தடத்தில் உங்களுக்கு முன்னால் உள்ள கார் திடீரென பிரேக் போடுகிறது, ஏனெனில் அதன் முன் விளக்கில் உள்ள ஸ்டிக்கர் கண்டறியப்படவில்லை — RFID என்றால் “எதுவும் செய்யத் தேவையில்லை” என்று பலர் கருதினாலும். உண்மையில், மலேசியா தற்போது வெவ்வேறு நெடுஞ்சாலைகளில் குறைந்தது நான்கு தலைமுறை சுங்கத் தொழில்நுட்பங்களை ஒரே நேரத்தில் இயக்குகிறது, ஒன்றை மற்றொன்றுடன் குழப்பிக்கொள்வது சாவடியில் கார்கள் சிக்கிக்கொள்வதற்கான பொதுவான காரணம்.

@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'Một người lái đội mũ bảo hiểm trên chiếc xe máy underbone có thùng giao hàng chờ tại một giao lộ ở Gelugor, Penang.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn lái xe máy vào Lebuhraya Persekutuan, thấy biển báo "Làn Xe máy" rẽ nhánh sang trái — và tự hỏi liệu bạn bắt buộc phải đi theo nó hay có thể tiếp tục trên làn chính. Câu trả lời phụ thuộc vào một từ: *được công báo*.

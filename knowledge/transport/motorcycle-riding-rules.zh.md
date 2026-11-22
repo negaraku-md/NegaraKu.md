@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: '一名戴头盔的骑士骑着一辆带送餐箱的弯梁摩托车，在槟城 Gelugor 的路口等候。'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你骑着摩托车驶入联邦大道（Lebuhraya Persekutuan），看到"摩托车道"（Lorong Motosikal）的路牌分岔向左——心里犯嘀咕：究竟是必须跟着走，还是可以继续留在主车道上？答案取决于一个词：*宪报公布*（diwartakan）。

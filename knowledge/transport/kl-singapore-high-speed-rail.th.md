@@ -79,6 +79,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'ขบวนรถไฟความเร็วสูงสีขาว-ส้มรูปทรงเพรียวจอดอยู่ที่ชานชาลาสถานีขณะผู้โดยสารกำลังขึ้นรถ'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 รถไฟหัวกระสุนที่สามารถพาคุณจากกัวลาลัมเปอร์ไปยังสิงคโปร์ในเวลาประมาณ 90 นาที ได้ถูกลงนาม ระงับ ยกเลิก ไว้อาลัย และฟื้นคืนชีพ — ทั้งหมดนี้โดยที่ยังไม่มีการวางรางแม้แต่รางเดียว นี่คือสถานะที่แท้จริงของโครงการที่เปิด ๆ ปิด ๆ นี้

@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["ई-हेलिंग मलेशिया", "Grab विनियमन मलेशिया", "PSV लाइसेंस ई-हेलिंग", "e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD ई-हेलिंग वाहन परमिट", "Grab मलेशिया में कैसे काम करता है", "ई-हेलिंग चालक लाइसेंस मलेशिया"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'सड़क पर हरे Grab Electric रंग-रूप और ''0 percent emisi'' नारे के साथ चिह्नित एक सफेद Hyundai Ioniq Electric कार।'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कुआलालंपुर में Grab, या Bolt, या inDrive खोलिए और «बुक» पर टैप कीजिए। उस पल में कुछ भी

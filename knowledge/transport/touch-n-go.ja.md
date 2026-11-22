@@ -68,6 +68,13 @@ related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 sourceContentHash: "1ad968acdf06922a"
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'ゴンバック料金所で、「Touch ''n GO」「MyRFID」「SmartTAG」と記された頭上のレーン標識がキャッシュレス料金ブースを示し、路面には「RFID」と描かれている。'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 多くの人は財布に Touch 'n Go カードを入れ、スマートフォンに Touch 'n Go eWallet アプリを入れており、その二つは同じものの二つの顔なのだと思い込んでいる。そうではない。あなたのカードの残高とアプリの残高は完全に別々に保存されており——一方を満額にしても、もう一方に一銭も加わらない。この誤解は、運転者が「スマートフォンのお金で足りる」と思い込む一方で、料金所の機械が読み取るのはカードであるために、車が料金所ゲートで立ち往生する、よくある原因である。
