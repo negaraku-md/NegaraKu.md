@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["धुंध", "transboundary haze", "API", "वायु प्रदूषक सूचकांक", "सुमात्रा", "कालीमंतान", "आसियान", "पर्यावरण विभाग", "वायु गुणवत्ता", "haze"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'घने धूसर धुंध से ढका कुआलालंपुर का क्षितिज, जहाँ ऊँची मीनारें मुश्किल से दिखाई दे रही हैं।'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 शुष्क मौसम के दौरान हर बार जब मानसूनी हवाएँ अपनी दिशा बदलती हैं, क्लांग घाटी, सारावाक और प्रायद्वीप के अधिकांश हिस्से का आकाश कुछ ही दिनों में धूसर पड़ सकता है — सूरज मंद हो जाता है, धुएँ की गंध घरों में रिस आती है, और फ़ोन API चेतावनियों से गूँज उठते हैं। यह सीमा-पार धुंध है: प्रदूषण जो पूरी तरह देश के भीतर उत्पन्न नहीं होता, फिर भी हर वर्ष लाखों मलेशियावासियों द्वारा साँस में लिया जाता है।

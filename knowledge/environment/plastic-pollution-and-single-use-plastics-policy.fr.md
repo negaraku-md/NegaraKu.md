@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030", "plastiques à usage unique", "taxe sur les sacs plastiques", "pollution plastique"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Des bouteilles en plastique jetées et d''autres détritus éparpillés sur le sable d''une plage au bord de la mer.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Les sacs plastiques fins de la caisse du supermarché ne sont généralement utilisés qu'un instant, mais ils peuvent persister dans l'environnement très longtemps. Pour s'attaquer à ce problème, la Malaisie n'a pas opté pour une unique interdiction radicale et immédiate — elle utilise plutôt une feuille de route par phases qui passe de petites taxes à des interdictions plus larges.

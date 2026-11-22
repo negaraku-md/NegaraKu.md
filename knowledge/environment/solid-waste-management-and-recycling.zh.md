@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: '马来西亚柔佛一处超市回收收集中心，回收箱以马来文标示衣物、纸张、塑料、玻璃和铝。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在柔佛丢一袋垃圾，它便成了联邦政府的事务；把同一袋垃圾丢在槟城，它却仍是地方议会的事务。这正是马来西亚管理其固体废物方式的核心怪象——一部气派的联邦法律，却只在同意采纳它的地方生效。

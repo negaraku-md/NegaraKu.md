@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'A supermarket recycling collection centre in Johor, Malaysia, with bins labelled in Malay for clothing, paper, plastic, glass and aluminium.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Throw away rubbish in Johor and it becomes a federal government matter; throw away the same rubbish in Penang and it remains the business of the local council. That is the core peculiarity of how Malaysia manages its solid waste — one grand federal law, but one that only takes effect in the places that have agreed to adopt it.

@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Botol plastik yang dibuang dan sampah lainnya berserakan di atas pasir pantai di tepi laut.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kantong plastik tipis di kasir lazimnya digunakan sebentar saja, tetapi dapat bertahan di lingkungan hidup untuk waktu yang lama. Untuk menangani isu ini, Malaysia tidak memilih larangan menyeluruh secara serta-merta — melainkan sebuah peta jalan bertahap yang beranjak dari pungutan kecil ke larangan yang lebih luas.

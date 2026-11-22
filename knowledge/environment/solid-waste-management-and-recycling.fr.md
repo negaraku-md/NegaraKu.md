@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Loi 672", "SWCorp", "recyclage", "déchets solides", "décharge", "séparation des déchets à la source", "économie circulaire", "Act 672", "recycling"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Un centre de collecte de recyclage d''un supermarché à Johor, en Malaisie, avec des bacs étiquetés en malais pour les vêtements, le papier, le plastique, le verre et l''aluminium.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Jetez des ordures à Johor et cela devient une affaire du gouvernement fédéral ; jetez les mêmes ordures à Penang et cela reste du ressort du conseil local. Telle est la particularité centrale de la manière dont la Malaisie gère ses déchets solides — une grande loi fédérale, mais une loi qui n'entre en vigueur que dans les lieux qui ont accepté de l'adopter.

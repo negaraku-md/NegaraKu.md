@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["bruma", "transboundary haze", "API", "Índice de Contaminantes del Aire", "Sumatra", "Kalimantan", "ASEAN", "Departamento de Medio Ambiente", "calidad del aire", "haze"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'El horizonte de Kuala Lumpur oculto por una espesa neblina gris, con las altas torres apenas visibles.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada vez que los vientos monzónicos cambian de dirección durante la estación seca, los cielos sobre el valle de Klang, Sarawak y buena parte de la Península pueden tornarse grises en cuestión de días — el sol se atenúa, el olor a humo se cuela en los hogares y los teléfonos vibran con alertas del API. Esto es la bruma transfronteriza: contaminación que no se produce enteramente dentro del país, pero que respiran cada año millones de malasios.

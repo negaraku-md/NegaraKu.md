@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'ภาพมุมสูงของย่านที่อยู่อาศัยในกลัง ประเทศมาเลเซีย ที่มีบ้านเรือนถูกล้อมรอบด้วยน้ำท่วมสีน้ำตาล'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกปี ราวช่วงเวลาที่ส่วนอื่นของโลกกำลังก้าวเข้าสู่ฤดูหนาว ชายฝั่งตะวันออกของมาเลเซียก็เตรียมรับมือ เรือถูกลากขึ้นฝั่ง รีสอร์ตบนเกาะปิดประตู ศูนย์บรรเทาอุทกภัยถูกจัดเตรียมไว้ และครอบครัวในเมืองลุ่มต่ำเฝ้าดูแม่น้ำ นี่คือ **มรสุมตะวันออกเฉียงเหนือ** — อิทธิพลที่ใหญ่ที่สุดเพียงหนึ่งเดียวต่อสภาพอากาศของมาเลเซีย และเป็นเหตุผลที่ประเทศมีฤดูฝนที่ชัดเจนแยกต่างหาก แทนที่จะเป็นฝนเขตร้อนที่ตกสม่ำเสมอตลอดทั้งปี

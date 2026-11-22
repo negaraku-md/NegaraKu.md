@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: '말레이시아 사라왁에서 큰 열대 활엽수 원목을 가득 실은 트럭이 열대우림 옆 젖은 도로를 달리는 모습.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 한 롱하우스(longhouse) 공동체는 어떤 산림 지대가 여러 세대에 걸쳐 자신들의 것이었다고 말합니다. 한 목재 또는 플랜테이션 기업은 주가 발급한, 같은 땅을 포함하는 라이선스를 보유합니다. 양측 모두 법을 근거로 듭니다. 사라왁과 사바에서 그 충돌은 20년 넘게 법정에서 다투어져 왔고 — 법원이 그 경계가 어디에 있는지에 항상 의견을 같이한 것은 아닙니다.

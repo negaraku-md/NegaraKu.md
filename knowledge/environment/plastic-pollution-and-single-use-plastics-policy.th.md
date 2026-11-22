@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'ขวดพลาสติกที่ถูกทิ้งและขยะอื่น ๆ กระจัดกระจายอยู่บนหาดทรายริมทะเล'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ถุงพลาสติกบางที่เคาน์เตอร์ชำระเงินโดยทั่วไปถูกใช้เพียงชั่วครู่ แต่สามารถคงอยู่ในสิ่งแวดล้อมได้เป็นเวลานาน เพื่อจัดการกับประเด็นนี้ มาเลเซียไม่ได้เลือกการห้ามครอบคลุมในทันที แต่เลือกแผนที่นำทางแบบเป็นระยะที่เคลื่อนจากค่าธรรมเนียมเล็กน้อยไปสู่การห้ามที่กว้างกว่า

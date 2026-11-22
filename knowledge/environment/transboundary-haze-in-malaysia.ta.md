@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'அடர்ந்த சாம்பல் நிறப் புகைமூட்டத்தால் மறைக்கப்பட்ட கோலாலம்பூர் வானளாவிய காட்சி, உயரமான கோபுரங்கள் அரிதாகவே தெரிகின்றன.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 வறண்ட காலத்தில் பருவக்காற்று திசை மாறும் ஒவ்வொரு முறையும், க்லாங் பள்ளத்தாக்கு (Klang Valley), சரவாக் (Sarawak) மற்றும் தீபகற்பத்தின் பெரும்பகுதி மீதான வானம் சில நாட்களிலேயே சாம்பல் நிறமாக மாறிவிடும் — சூரியன் மங்கிப்போகிறது, புகையின் வாசனை வீடுகளுக்குள் நுழைகிறது, மேலும் தொலைபேசிகள் API எச்சரிக்கைகளுடன் ஒலிக்கின்றன. இதுவே எல்லை கடந்த புகைமூட்டம்: நாட்டுக்குள் முழுவதுமாக உற்பத்தி செய்யப்படாத, ஆனால் ஒவ்வொரு ஆண்டும் மில்லியன் கணக்கான மலேசியர்களால் சுவாசிக்கப்படும் மாசுபாடு.

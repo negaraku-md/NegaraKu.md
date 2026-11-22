@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["अधिनियम 672", "SWCorp", "पुनर्चक्रण", "ठोस अपशिष्ट", "लैंडफिल", "स्रोत पर अपशिष्ट पृथक्करण", "परिपत्र अर्थव्यवस्था", "Act 672", "recycling"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'मलेशिया के जोहोर में एक सुपरमार्केट पुनर्चक्रण संग्रह केंद्र, जिसमें कपड़े, कागज़, प्लास्टिक, काँच और एल्युमिनियम के लिए मलय में लेबल किए गए डिब्बे हैं।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जोहोर में कचरा फेंकिए और यह संघीय सरकार का मामला बन जाता है; वही कचरा पेनांग में फेंकिए और यह स्थानीय परिषद का काम बना रहता है। मलेशिया अपने ठोस अपशिष्ट का प्रबंधन कैसे करता है, इसकी मूल विचित्रता यही है — एक भव्य संघीय कानून, पर ऐसा जो केवल उन्हीं जगहों पर प्रभावी होता है जिन्होंने इसे अपनाने पर सहमति जताई है।

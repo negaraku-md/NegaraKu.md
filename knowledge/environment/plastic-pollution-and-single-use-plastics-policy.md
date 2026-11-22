@@ -71,6 +71,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Botol plastik terbuang dan sampah lain berselerak di atas pasir pantai di tepi laut.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Beg plastik nipis di kaunter pembayaran lazimnya digunakan sebentar sahaja, tetapi boleh kekal di alam sekitar untuk tempoh yang lama. Untuk menangani isu ini, Malaysia tidak memilih satu larangan menyeluruh serta-merta — sebaliknya satu peta jalan berperingkat yang bergerak daripada caj kecil kepada larangan yang lebih luas.

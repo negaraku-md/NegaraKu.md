@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["البلاستيك ذو الاستخدام الواحد", "رسم الكيس البلاستيكي", "التلوث البلاستيكي", "خارطة طريق البلاستيك ماليزيا", "استدامة البلاستيك 2021-2030", "single-use plastics", "plastic bag charge"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'زجاجات بلاستيكية مهملة ونفايات أخرى متناثرة على رمال شاطئ بجانب البحر.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 الأكياس البلاستيكية الرقيقة عند صندوق الدفع تُستخدم عادةً للحظة واحدة فقط، ومع ذلك يمكن أن تبقى في البيئة مدة طويلة جداً. ولمعالجة هذه المسألة، لم تختر ماليزيا حظراً واحداً شاملاً وفورياً — بل تعتمد خارطة طريق متدرجة تتحرك من رسوم صغيرة إلى حظر أوسع.

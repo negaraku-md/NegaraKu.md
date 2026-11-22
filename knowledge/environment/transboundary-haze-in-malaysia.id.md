@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'Cakrawala Kuala Lumpur yang tertutup kabut asap kelabu tebal, dengan menara-menara tinggi nyaris tak terlihat.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap kali angin muson berubah arah pada musim kemarau, langit di Lembah Klang, Sarawak, dan sebagian besar Semenanjung bisa berubah kelabu hanya dalam beberapa hari — matahari menjadi kabur, bau asap masuk ke dalam rumah, dan telepon berbunyi dengan notifikasi API. Inilah kabut asap lintas batas: pencemaran yang tidak sepenuhnya dihasilkan di dalam negeri, tetapi dihirup setiap tahun oleh jutaan rakyat Malaysia.

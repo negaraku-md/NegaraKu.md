@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'ศูนย์รับคืนรีไซเคิลของซูเปอร์มาร์เก็ตในรัฐยะโฮร์ ประเทศมาเลเซีย พร้อมถังที่มีป้ายภาษามลายูสำหรับเสื้อผ้า กระดาษ พลาสติก แก้ว และอะลูมิเนียม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทิ้งขยะในยะโฮร์แล้วมันกลายเป็นเรื่องของรัฐบาลสหพันธ์ ทิ้งขยะเดียวกันในปีนังแล้วมันยังเป็นเรื่องของสภาท้องถิ่น นั่นคือความแปลกประหลาดหลักในวิธีที่มาเลเซียจัดการขยะมูลฝอย คือกฎหมายสหพันธ์ที่ยิ่งใหญ่ แต่ใช้บังคับเฉพาะในที่ที่เห็นพ้องนำมาใช้เท่านั้น

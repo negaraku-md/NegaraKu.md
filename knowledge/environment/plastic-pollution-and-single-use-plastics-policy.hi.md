@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["एकल-उपयोग प्लास्टिक", "प्लास्टिक थैली शुल्क", "प्लास्टिक प्रदूषण", "मलेशिया प्लास्टिक रोडमैप", "प्लास्टिक स्थिरता 2021-2030", "single-use plastics", "plastic bag charge"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'समुद्र के किनारे एक समुद्र तट की रेत पर बिखरी हुई फेंकी गई प्लास्टिक की बोतलें और अन्य कचरा।'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 चेकआउट काउंटर पर पतली प्लास्टिक थैलियाँ आमतौर पर केवल एक पल के लिए उपयोग होती हैं, फिर भी वे पर्यावरण में बहुत लंबे समय तक बनी रह सकती हैं। इस समस्या से निपटने के लिए, मलेशिया ने एक अकेले व्यापक, तत्काल प्रतिबंध का विकल्प नहीं चुना — इसके बजाय, यह एक चरणबद्ध रोडमैप का उपयोग करता है जो छोटे शुल्कों से व्यापक प्रतिबंधों की ओर बढ़ता है।

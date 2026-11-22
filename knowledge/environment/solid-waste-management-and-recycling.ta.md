@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'மலேசியாவின் ஜொகூரில் ஆடை, காகிதம், பிளாஸ்டிக், கண்ணாடி மற்றும் அலுமினியத்திற்காக மலாய் மொழியில் பெயரிடப்பட்ட தொட்டிகளுடன் கூடிய பல்பொருள் அங்காடி மறுசுழற்சி சேகரிப்பு மையம்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Johor-இல் குப்பையைப் போடுங்கள், அது கூட்டரசு அரசாங்கத்தின் விவகாரமாகிறது; அதே குப்பையை Pulau Pinang-இல் போடுங்கள், அது இன்னும் உள்ளாட்சி சபையின் விவகாரமாகவே இருக்கிறது. மலேசியா தனது திடக்கழிவை நிர்வகிக்கும் விதத்தின் மையமான புதிரே இதுதான் — ஒரு பிரமாண்டமான கூட்டரசு சட்டம், ஆனால் அதை ஏற்றுக்கொள்ள ஒப்புக்கொண்ட இடங்களில் மட்டுமே அமலில் உள்ளது.

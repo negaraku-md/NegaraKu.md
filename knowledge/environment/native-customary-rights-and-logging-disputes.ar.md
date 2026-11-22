@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["حقوق السكان الأصليين العرفية", "native customary rights", "أرض NCR", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "نزاعات قطع الأخشاب", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'شاحنة محمّلة بجذوع خشب صلب استوائي كبيرة تسير على طريق مبلّل بجانب غابة مطيرة في ساراواك.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يقول مجتمع يسكن بيتًا طويلًا (longhouse) إن رقعة من الغابة ملك له منذ أجيال. وتحمل شركة أخشاب أو مزارع ترخيصًا، صادرًا عن الولاية، يشمل الأرض نفسها. ويستند كلاهما إلى القانون. وفي ساراواك وصباح، جرى الجدال في هذا التصادم داخل قاعات المحاكم أكثر من عقدين — ولم تتفق المحاكم دائمًا على موضع الخط الفاصل.

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'Pemandangan udara lingkungan permukiman di Klang, Malaysia dengan rumah-rumah dikelilingi air banjir berwarna cokelat.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap tahun, sekitar waktu belahan dunia lainnya memasuki musim dingin, pantai timur Malaysia bersiap-siap. Perahu-perahu ditarik ke darat, resor pulau menutup pintunya, pusat bantuan banjir disiapkan, dan keluarga-keluarga di kota dataran rendah mengawasi sungai. Inilah **monsun timur laut** — pengaruh tunggal terbesar terhadap cuaca Malaysia, dan alasan mengapa negara ini secara efektif memiliki musim hujan tersendiri alih-alih hujan tropis yang seragam sepanjang tahun.

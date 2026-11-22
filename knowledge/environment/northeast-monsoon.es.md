@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'Una vista aérea de un vecindario residencial en Klang, Malasia, con casas rodeadas de aguas de inundación marrones.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada año, hacia la época en que el resto del mundo se adentra en el invierno, la costa este de Malasia se prepara. Se sacan las embarcaciones del agua, los complejos turísticos de las islas cierran sus puertas, se alistan los centros de ayuda ante inundaciones y las familias de los pueblos en zonas bajas vigilan los ríos. Este es el **monzón del noreste**: la mayor influencia sobre el clima de Malasia, y la razón por la que el país tiene, en efecto, una temporada húmeda diferenciada en lugar de una lluvia tropical uniforme durante todo el año.

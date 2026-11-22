@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["الضباب الدخاني", "transboundary haze", "API", "مؤشر ملوثات الهواء", "سومطرة", "كاليمانتان", "آسيان", "دائرة البيئة", "جودة الهواء", "haze"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'أفق مدينة كوالالمبور يحجبه ضباب دخاني رمادي كثيف، حيث تكاد الأبراج الشاهقة لا تُرى.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في كل مرة تغيّر فيها رياح الموسم اتجاهها خلال موسم الجفاف، يمكن أن تتحول السماء فوق وادي كلانغ وساراواك وجزء كبير من شبه الجزيرة إلى الرمادي في غضون أيام — تخبو الشمس، وتتسلل رائحة الدخان إلى المنازل، وتطنّ الهواتف بتنبيهات API. هذا هو الضباب الدخاني العابر للحدود: تلوث لا يُنتَج بالكامل داخل البلاد، ومع ذلك يستنشقه ملايين الماليزيين كل عام.

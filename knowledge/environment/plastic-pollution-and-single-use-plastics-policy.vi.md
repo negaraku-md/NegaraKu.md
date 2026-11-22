@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Những chai nhựa bị vứt bỏ và rác thải khác nằm vương vãi trên cát của một bãi biển bên bờ biển.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chiếc túi nhựa mỏng ở quầy thanh toán thường chỉ được sử dụng trong chốc lát, nhưng có thể tồn tại trong môi trường trong một thời gian dài. Để giải quyết vấn đề này, Malaysia không chọn một lệnh cấm toàn diện ngay lập tức — mà thay vào đó là một lộ trình theo giai đoạn chuyển từ một khoản phí nhỏ sang các lệnh cấm rộng hơn.

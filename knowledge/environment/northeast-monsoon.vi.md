@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên cao của một khu dân cư ở Klang, Malaysia với những ngôi nhà bị bao quanh bởi nước lũ màu nâu.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hằng năm, vào khoảng thời gian phần còn lại của thế giới bước vào mùa đông, bờ đông của Malaysia tự chuẩn bị tinh thần. Thuyền bè được kéo lên bờ, các khu nghỉ dưỡng trên đảo đóng cửa, các trung tâm cứu trợ lũ lụt được sẵn sàng, và các gia đình ở những thị trấn vùng trũng dõi theo các con sông. Đây là **gió mùa Đông Bắc** — ảnh hưởng đơn lẻ lớn nhất đến thời tiết của Malaysia, và là lý do đất nước này về cơ bản có một mùa mưa riêng biệt thay vì mưa nhiệt đới đều đặn quanh năm.

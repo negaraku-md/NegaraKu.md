@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title", "derechos consuetudinarios nativos", "tierra NCR", "disputas de tala", "título nativo"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'Un camión cargado de grandes troncos de madera dura tropical circula por una carretera mojada junto a la selva tropical en Sarawak.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Una comunidad de una casa comunal (longhouse) dice que una franja de bosque le ha pertenecido durante generaciones. Una empresa maderera o de plantaciones posee una licencia, emitida por el estado, que abarca el mismo terreno. Ambas apelan a la ley. En Sarawak y Sabah, esa colisión se ha litigado en los tribunales durante más de dos décadas — y los tribunales no siempre han coincidido sobre dónde cae la línea.

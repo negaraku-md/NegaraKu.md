@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: '말레이시아 조호르의 슈퍼마켓 재활용 수거 센터로, 의류·종이·플라스틱·유리·알루미늄이 말레이어로 표시된 수거함이 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 조호르에서 쓰레기를 버리면 연방정부의 소관이 되고, 페낭에서 똑같은 쓰레기를 버리면 여전히 지방의회의 소관입니다. 그것이 말레이시아가 고형폐기물을 관리하는 방식의 핵심적 특이함입니다 — 위풍당당한 하나의 연방법이 있지만, 오직 채택에 동의한 곳에서만 발효됩니다.

@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: '被丢弃的塑料瓶和其他垃圾散落在海边沙滩上。'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 结账柜台的薄塑料袋通常只用一小会儿，但却可能在环境中残留很长时间。为了应对这个问题，马来西亚没有选择立即全面禁止——而是采取一条分阶段的路线图，从小额收费逐步过渡到更广泛的禁止。

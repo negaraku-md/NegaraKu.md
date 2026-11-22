@@ -67,6 +67,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'A truck loaded with large tropical hardwood logs travels along a wet road beside rainforest in Sarawak.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 A longhouse community says a stretch of forest has belonged to it for generations. A timber or plantation company holds a licence, issued by the state, that covers the same ground. Both point to the law. In Sarawak and Sabah, that collision has been argued in courtrooms for more than two decades — and the courts have not always agreed on where the line falls.

@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'Sebuah lori yang dimuati balak kayu keras tropika yang besar bergerak di sepanjang jalan basah di tepi hutan hujan di Sarawak.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebuah komuniti rumah panjang berkata sebidang hutan telah menjadi milik mereka sejak turun-temurun. Sebuah syarikat balak atau ladang pula memegang lesen, yang dikeluarkan oleh negeri, yang meliputi kawasan yang sama. Kedua-duanya merujuk kepada undang-undang. Di Sarawak dan Sabah, pertembungan itu telah dihujahkan di ruang mahkamah selama lebih dua dekad — dan mahkamah tidak sentiasa sependapat tentang di mana garisan itu jatuh.

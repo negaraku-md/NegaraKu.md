@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'เส้นขอบฟ้าของกัวลาลัมเปอร์ที่ถูกบดบังด้วยหมอกควันสีเทาหนาทึบ จนมองเห็นตึกสูงได้เลือนราง'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกครั้งที่ลมมรสุมเปลี่ยนทิศในฤดูแล้ง ท้องฟ้าในหุบเขากลัง ซาราวัก และคาบสมุทรส่วนใหญ่สามารถกลายเป็นสีเทาได้ในเวลาเพียงไม่กี่วัน ดวงอาทิตย์เลือนราง กลิ่นควันเข้ามาในบ้าน และโทรศัพท์ดังขึ้นพร้อมการแจ้งเตือน API นี่คือหมอกควันข้ามพรมแดน มลพิษที่ไม่ได้เกิดขึ้นในประเทศทั้งหมด แต่ถูกสูดหายใจทุกปีโดยชาวมาเลเซียหลายล้านคน

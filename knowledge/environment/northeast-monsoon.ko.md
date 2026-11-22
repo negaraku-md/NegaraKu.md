@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: '말레이시아 클랑의 주택가를 위에서 내려다본 모습으로, 집들이 갈색 홍수에 둘러싸여 있다.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 해마다 세계의 나머지가 겨울로 접어드는 무렵, 말레이시아 동해안은 긴장합니다. 배를 뭍으로 끌어올리고, 섬 리조트는 문을 닫고, 수해 구호 센터를 준비하며, 저지대 마을의 가족들은 하천을 지켜봅니다. 이것이 **북동 몬순** — 말레이시아 날씨에 가장 큰 영향을 미치는 단일 요인이자, 이 나라가 연중 균일한 열대 강우가 아니라 사실상 뚜렷한 우기를 갖게 되는 이유입니다.

@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'Kaki langit Kuala Lumpur yang dilindungi jerebu kelabu tebal, dengan menara-menara tinggi hampir tidak kelihatan.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap kali angin monsun bertukar arah pada musim kering, langit di Lembah Klang, Sarawak dan sebahagian besar Semenanjung boleh bertukar kelabu dalam beberapa hari sahaja — matahari menjadi kabur, bau asap masuk ke dalam rumah, dan telefon berbunyi dengan makluman API. Inilah jerebu rentas sempadan: pencemaran yang tidak dihasilkan sepenuhnya di dalam negara, tetapi dihirup setiap tahun oleh jutaan rakyat Malaysia.

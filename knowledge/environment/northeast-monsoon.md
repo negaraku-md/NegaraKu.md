@@ -80,6 +80,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'An aerial view of a residential neighbourhood in Klang, Malaysia with houses surrounded by brown floodwater.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Every year, around the time the rest of the world is heading into winter, Malaysia's east coast braces itself. Boats are pulled up, island resorts shut their doors, flood-relief centres are readied, and families in low-lying towns watch the rivers. This is the **northeast monsoon** — the single biggest influence on Malaysia's weather, and the reason the country effectively has a distinct wet season rather than year-round uniform tropical rain.

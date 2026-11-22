@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'マレーシアのクランにある住宅街を上空から捉えた、茶色い洪水に囲まれた家々の眺め。'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 毎年、世界の他の地域が冬へと向かうころ、マレーシアの東海岸は身構える。船は引き揚げられ、島のリゾートは戸を閉め、洪水救援センターが整えられ、低地の町々の家族は川を見守る。これが**北東モンスーン**――マレーシアの天候に対する単一で最大の影響であり、同国が年間を通じて一様な熱帯の雨ではなく、実質的にはっきりした雨季を持つ理由である。

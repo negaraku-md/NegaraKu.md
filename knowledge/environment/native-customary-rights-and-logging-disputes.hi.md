@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title", "मूल प्रथागत अधिकार", "NCR भूमि", "लकड़ी-कटाई विवाद", "मूल स्वत्व"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'सारावाक में वर्षावन के किनारे एक गीली सड़क पर बड़े उष्णकटिबंधीय दृढ़ लकड़ी के लट्ठों से लदा एक ट्रक जा रहा है।'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक लॉन्गहाउस समुदाय कहता है कि वन की एक पट्टी पीढ़ियों से उसकी रही है। एक लकड़ी या बागान कंपनी राज्य द्वारा जारी एक लाइसेंस रखती है जो उसी ज़मीन को कवर करता है। दोनों कानून की ओर इशारा करते हैं। सारावाक और सबाह में, वह टकराव दो दशकों से अधिक समय से अदालत-कक्षों में तर्कित होता रहा है — और अदालतें हमेशा इस बात पर सहमत नहीं रही हैं कि रेखा कहाँ पड़ती है।

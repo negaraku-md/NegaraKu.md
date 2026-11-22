@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: '海辺の砂浜一面に散らばる、捨てられたペットボトルやその他のごみ。'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 レジ会計カウンターの薄いレジ袋は通常ほんの短時間しか使われないが、環境中には長期間残ることがある。この問題に対処するため、マレーシアは即座の全面禁止を選ばなかった——その代わりに、小額の課金からより広範な禁止へと移行する段階的なロードマップを採用した。

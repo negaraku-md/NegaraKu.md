@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'Une vue aérienne d''un quartier résidentiel à Klang, en Malaisie, avec des maisons entourées d''eaux de crue brunes.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chaque année, à peu près au moment où le reste du monde entre dans l'hiver, la côte est de la Malaisie se prépare. On remonte les bateaux, les complexes insulaires ferment leurs portes, les centres de secours contre les inondations sont préparés, et les familles des villes de basse altitude surveillent les rivières. C'est la **mousson du nord-est** — la plus grande influence sur la météo de la Malaisie, et la raison pour laquelle le pays connaît en pratique une saison humide distincte plutôt qu'une pluie tropicale uniforme toute l'année.

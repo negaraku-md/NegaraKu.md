@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'รถบรรทุกที่บรรทุกซุงไม้เนื้อแข็งเขตร้อนขนาดใหญ่แล่นไปตามถนนเปียกข้างป่าฝนในรัฐซาราวัก'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ชุมชนบ้านยาว (longhouse) แห่งหนึ่งกล่าวว่าผืนป่าแห่งหนึ่งเป็นของตนมาหลายชั่วอายุคน บริษัทไม้ซุงหรือสวนถือใบอนุญาตที่ออกโดยรัฐซึ่งครอบคลุมพื้นที่เดียวกัน ทั้งสองฝ่ายชี้ไปที่กฎหมาย ในซาราวักและซาบาห์ การปะทะกันนั้นถูกโต้แย้งในห้องพิจารณาคดีมานานกว่าสองทศวรรษ และศาลก็ไม่ได้เห็นพ้องเสมอไปว่าเส้นแบ่งอยู่ที่ใด

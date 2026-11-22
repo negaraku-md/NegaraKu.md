@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["القانون 672", "SWCorp", "إعادة التدوير", "النفايات الصلبة", "مطمر النفايات", "فصل النفايات من المصدر", "الاقتصاد الدائري", "Act 672", "recycling"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'مركز لجمع مواد إعادة التدوير في سوق كبير في جوهور بماليزيا، بحاويات تحمل لافتات بالملايوية للملابس والورق والبلاستيك والزجاج والألمنيوم.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ارمِ نفاياتك في جوهور فتصبح شأناً من شؤون الحكومة الاتحادية؛ وارمِ النفايات نفسها في بينانغ فتظل من شؤون المجلس المحلي. تلك هي الخصوصية الجوهرية في طريقة إدارة ماليزيا لنفاياتها الصلبة — قانون اتحادي واحد ضخم، لكنه لا يسري إلا في الأماكن التي وافقت على تبنّيه.

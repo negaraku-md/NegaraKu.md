@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030", "plásticos de un solo uso", "cargo por bolsas de plástico", "contaminación por plásticos"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Botellas de plástico desechadas y otros desperdicios esparcidos por la arena de una playa junto al mar.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Las bolsas de plástico finas de la caja del supermercado suelen usarse solo un instante, pero pueden persistir en el medioambiente durante muchísimo tiempo. Para abordar este problema, Malasia no ha optado por una única prohibición radical e inmediata — en su lugar, utiliza una hoja de ruta por fases que avanza desde pequeños cargos hasta prohibiciones más amplias.

@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'Đường chân trời Kuala Lumpur bị che khuất bởi lớp khói mù xám dày đặc, những tòa tháp cao gần như không nhìn thấy được.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mỗi khi gió mùa đổi hướng vào mùa khô, bầu trời ở Thung lũng Klang, Sarawak và phần lớn Bán đảo có thể chuyển sang màu xám chỉ trong vài ngày — mặt trời trở nên mờ mịt, mùi khói lọt vào nhà, và điện thoại reo lên với các cảnh báo API. Đây là khói mù xuyên biên giới: ô nhiễm không hoàn toàn được tạo ra trong nước, nhưng được hàng triệu người dân Malaysia hít vào mỗi năm.

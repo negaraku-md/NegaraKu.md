@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: '짙은 회색 연무에 가려져 높은 타워가 간신히 보이는 쿠알라룸푸르의 스카이라인.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 건기에 몬순 바람의 방향이 바뀔 때마다, 클랑밸리(Klang Valley), 사라왁(Sarawak), 그리고 반도 대부분의 하늘은 단 며칠 만에 잿빛으로 변할 수 있습니다 — 해가 흐릿해지고, 연기 냄새가 집 안으로 스며들며, 휴대전화가 API 경보로 울립니다. 이것이 국경 넘는 연무입니다. 국내에서 전부 만들어진 것은 아니지만, 매년 수백만 말레이시아인이 들이마시는 오염입니다.

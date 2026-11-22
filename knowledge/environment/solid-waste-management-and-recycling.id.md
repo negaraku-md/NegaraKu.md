@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Pusat pengumpulan daur ulang supermarket di Johor, Malaysia, dengan tempat sampah berlabel dalam bahasa Melayu untuk pakaian, kertas, plastik, kaca dan aluminium.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Buang sampah di Johor dan ia menjadi urusan pemerintah federal; buang sampah yang sama di Pulau Pinang dan ia masih urusan pemerintah daerah. Itulah keanehan inti cara Malaysia mengelola sampah padatnya — sebuah undang-undang federal yang megah, tetapi hanya berlaku di tempat yang setuju mengadopsinya.

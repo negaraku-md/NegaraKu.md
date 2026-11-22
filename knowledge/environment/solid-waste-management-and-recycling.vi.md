@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Một trung tâm thu gom tái chế tại siêu thị ở Johor, Malaysia, với các thùng được dán nhãn bằng tiếng Mã Lai cho quần áo, giấy, nhựa, thủy tinh và nhôm.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vứt rác ở Johor và nó trở thành công việc của chính phủ liên bang; vứt cùng loại rác đó ở Penang và nó vẫn là công việc của hội đồng địa phương. Đó là điều kỳ lạ cốt lõi của cách Malaysia quản lý chất thải rắn của mình — một luật liên bang hoành tráng, nhưng chỉ có hiệu lực ở nơi đồng ý áp dụng nó.

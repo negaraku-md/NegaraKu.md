@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'منظر جوي لحي سكني في كلانغ بماليزيا تحيط بمنازله مياه فيضان بنّية اللون.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في كل عام، حين يتجه بقية العالم نحو الشتاء، يتأهّب الساحل الشرقي لماليزيا. فتُسحب القوارب إلى اليابسة، وتغلق منتجعات الجزر أبوابها، وتُجهَّز مراكز إغاثة الفيضانات، وتراقب الأسر في البلدات المنخفضة الأنهار. هذه هي **الرياح الموسمية الشمالية الشرقية** — أكبر مؤثّر منفرد في طقس ماليزيا، والسبب في أن للبلد فعليًا موسمًا ماطرًا متميزًا بدلًا من أمطار مدارية موحّدة على مدار السنة.

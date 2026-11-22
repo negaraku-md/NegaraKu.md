@@ -106,6 +106,13 @@ relations:
 related: []
 keywords: ["Ley 672", "SWCorp", "reciclaje", "residuos sólidos", "vertedero", "separación de residuos en origen", "economía circular", "Act 672", "recycling"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Un centro de recogida de reciclaje de un supermercado en Johor, Malasia, con contenedores etiquetados en malayo para ropa, papel, plástico, vidrio y aluminio.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tire la basura en Johor y se convierte en un asunto del gobierno federal; tire la misma basura en Penang y sigue siendo competencia del consejo local. Esa es la peculiaridad central de cómo gestiona Malasia sus residuos sólidos — una gran ley federal, pero una que solo entra en vigor en los lugares que han accedido a adoptarla.

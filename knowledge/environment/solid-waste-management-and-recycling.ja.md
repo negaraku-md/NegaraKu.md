@@ -105,6 +105,13 @@ relations:
 related: []
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'マレーシアのジョホールにあるスーパーマーケットの資源回収拠点で、衣類・紙・プラスチック・ガラス・アルミをマレー語で表示した回収箱が並ぶ。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ジョホールでごみを捨てれば、それは連邦政府の仕事になる。同じごみをペナンで捨てれば、それは依然として地方議会の仕事のままだ。これこそが、マレーシアの固形廃棄物管理の中核にある奇妙な点である——堂々たる連邦法でありながら、採用に同意した場所でしか効力を持たないのだ。

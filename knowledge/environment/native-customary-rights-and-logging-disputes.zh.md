@@ -68,6 +68,13 @@ relations:
 related: []
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: '马来西亚砂拉越一辆满载大型热带硬木原木的卡车，沿着雨林旁一条湿滑的道路行驶。'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一个长屋社群说，某片森林世世代代都属于它。一家木材或种植园公司持有由州政府发出、涵盖同一片土地的执照。双方都援引法律。在砂拉越与沙巴，这种冲突已在法庭上争论了二十多年——而法院对于界线究竟落在何处，并非总能取得一致。

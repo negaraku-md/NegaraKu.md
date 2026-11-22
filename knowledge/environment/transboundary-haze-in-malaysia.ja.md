@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: '濃い灰色のヘイズに覆われ、高層タワーがかろうじて見えるクアラルンプールのスカイライン。'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 乾季にモンスーンの風向きが変わるたび、クランバレー、サラワク、そして半島部の大部分の空は、わずか数日でどんよりとした灰色に変わりうる——太陽はかすみ、煙の臭いが家の中まで入り込み、電話にはAPI警報が鳴り響く。これが越境ヘイズである。すなわち、国内だけで生み出されたわけではない汚染でありながら、毎年何百万人ものマレーシア人が吸い込んでいるものだ。
