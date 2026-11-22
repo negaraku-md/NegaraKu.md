@@ -89,6 +89,13 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "بنوك ماليزيا", "Bank Negara Malaysia", "بنك نيغارا ماليزيا", "القطاع المصرفي"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'أفق ناطحات السحاب في وسط مدينة كوالالمبور، الحيّ المالي الرئيسي في ماليزيا، تهيمن عليه برجا بتروناس التوأمان.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ضَع في صف واحد الأسماء الخمسة التي تهيمن على كل شارع رئيسي ماليزي تقريبًا — [Maybank](/ar/companies/maybank) وCIMB وPublic Bank وRHB وHong Leong — فتكون أمام نواة نظام مصرفي يُقاصّ رواتب البلاد وقروضها العقارية ومعاملاتها التجارية. جميعها مؤسَّسة في ماليزيا، وجميعها مدرجة في بورصة ماليزيا (Bursa Malaysia)، وجميعها مرخَّصة من البنك المركزي نفسه. وفيما عدا ذلك، تتباين تباينًا حادًا: واحد يقزّم البقية حجمًا، وبعضها مرتكز فعليًا على الحكومة، واثنان لا تزال توجّههما العائلتان اللتان أسّستاهما.

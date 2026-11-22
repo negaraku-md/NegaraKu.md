@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: 'Một chiếc Airbus A320 của AirAsia sơn màu đỏ (số đăng ký 9M-AGP) mang khẩu hiệu "Now Everyone Can Fly", đỗ tại một cửa ra máy bay ở Sân bay Quốc tế Kuala Lumpur.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trong nhiều năm, "AirAsia" và "Capital A" được dùng gần như thay thế cho nhau. Sau một cuộc tái cơ cấu kéo dài nhiều năm, chúng nay mô tả hai công ty niêm yết khác nhau.

@@ -89,6 +89,13 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'Đường chân trời các tòa nhà cao tầng ở trung tâm thành phố Kuala Lumpur, khu tài chính chính của Malaysia, nổi bật với Tháp đôi Petronas.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Xếp năm cái tên thống trị gần như mọi con phố lớn của Malaysia — [Maybank](/vi/companies/maybank), CIMB, Public Bank, RHB và Hong Leong — và bạn đang nhìn vào lõi của một hệ thống ngân hàng thanh toán tiền lương, các khoản vay mua nhà và thương mại của đất nước. Tất cả đều thành lập tại Malaysia, tất cả đều niêm yết trên Bursa Malaysia, và tất cả đều được cùng một ngân hàng trung ương cấp phép. Ngoài điểm đó, chúng khác nhau rõ rệt: một tập đoàn vượt trội các tập đoàn còn lại về quy mô, một số về cơ bản được neo bởi nhà nước, và hai tập đoàn vẫn được lèo lái bởi các gia đình đã sáng lập ra chúng.

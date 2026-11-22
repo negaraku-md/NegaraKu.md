@@ -89,6 +89,13 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'Cakrawala gedung-gedung tinggi di pusat kota Kuala Lumpur, distrik keuangan utama Malaysia, didominasi oleh Menara Kembar Petronas.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Barisanlah lima nama yang mendominasi hampir setiap deretan toko utama di Malaysia — [Maybank](/id/companies/maybank), CIMB, Public Bank, RHB, dan Hong Leong — dan Anda sedang melihat inti sebuah sistem perbankan yang menjelaskan gaji, kredit pemilikan rumah, dan perdagangan negara. Semuanya didirikan di Malaysia, semuanya tercatat di Bursa Malaysia, dan semuanya diberi lisensi oleh bank sentral yang sama. Selain itu, mereka berbeda dengan jelas: satu jauh mengungguli yang lain dari segi skala, sebagian secara efektif ditumpu pemerintah, dan dua lagi masih dipandu oleh keluarga yang mendirikannya.

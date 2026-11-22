@@ -89,6 +89,13 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "मलेशिया के बैंक", "Bank Negara Malaysia", "बैंकिंग क्षेत्र"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'मलेशिया के मुख्य वित्तीय जिले, कुआलालंपुर के शहर केंद्र की ऊँची इमारतों की गगनचुंबी रेखा, जिस पर पेट्रोनास ट्विन टावर्स का प्रभुत्व है।'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 उन पाँच नामों को एक कतार में रखिए जो लगभग हर मलेशियाई मुख्य बाजार पर हावी हैं — [Maybank](/hi/companies/maybank), CIMB, Public Bank, RHB और Hong Leong — तो आप उस बैंकिंग प्रणाली के केंद्र को देख रहे हैं जो देश के वेतन, गृह-ऋण और व्यापार का निपटारा करती है। ये सभी मलेशिया में निगमित हैं, सभी Bursa Malaysia पर सूचीबद्ध हैं, और सभी को एक ही केंद्रीय बैंक द्वारा लाइसेंस प्राप्त है। इसके आगे, वे तीखे रूप से अलग होती हैं: एक पैमाने में बाकियों को बौना कर देती है, कुछ प्रभावी रूप से सरकार-आधारित हैं, और दो आज भी उन्हीं परिवारों द्वारा संचालित हैं जिन्होंने उन्हें स्थापित किया।

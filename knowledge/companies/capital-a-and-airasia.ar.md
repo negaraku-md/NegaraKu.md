@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "بورصة ماليزيا", "Bursa Malaysia", "إعادة هيكلة شركة الطيران", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: 'طائرة AirAsia من طراز Airbus A320 بطلاء أحمر (رقم التسجيل 9M-AGP) تحمل شعار "Now Everyone Can Fly"، واقفة عند بوّابة في مطار كوالالمبور الدولي.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 لسنوات، كان اسما «AirAsia» و«Capital A» يُستخدمان على نحو شبه متبادل. وبعد إعادة هيكلة امتدّت سنوات عدة، أصبحا الآن يصفان شركتين مدرجتين مختلفتين.

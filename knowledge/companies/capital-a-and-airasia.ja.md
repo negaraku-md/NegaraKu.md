@@ -79,6 +79,13 @@ relations:
 related: []
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: '赤い塗装のエアアジアのエアバスA320（登録記号9M-AGP）が「Now Everyone Can Fly」のスローガンを掲げ、クアラルンプール国際空港のゲートに駐機している。'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 長年、「AirAsia」と「Capital A」はほぼ同義語として使われてきた。数年にわたる再編を経て、現在はこの二つが別々の上場企業を指すようになっている。

@@ -89,6 +89,13 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "banques de Malaisie", "Bank Negara Malaysia", "secteur bancaire"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'La ligne d''horizon de gratte-ciel du centre-ville de Kuala Lumpur, le principal quartier financier de la Malaisie, dominée par les tours jumelles Petronas.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Alignez les cinq noms qui dominent presque toutes les rues commerçantes de Malaisie — [Maybank](/fr/companies/maybank), CIMB, Public Bank, RHB et Hong Leong — et vous regardez le cœur d'un système bancaire qui règle les salaires, les prêts immobiliers et le commerce du pays. Toutes sont constituées en Malaisie, toutes cotées à Bursa Malaysia, et toutes agréées par la même banque centrale. Au-delà de cela, elles divergent nettement : l'une écrase les autres par la taille, certaines sont effectivement ancrées par le gouvernement, et deux sont encore dirigées par les familles qui les ont fondées.
