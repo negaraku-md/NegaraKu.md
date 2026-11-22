@@ -80,6 +80,13 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'தவாவ்வில் உள்ள சபா சீன உயர்நிலைப் பள்ளி (சேகோலா திங்கி சினா சபா) பள்ளியின் நுழைவு அடையாளப் பலகையும் வளாகமும், இது மாணவர்கள் ஒருங்கிணைந்த தேர்வுச் சான்றிதழ் எழுதும் வகையைச் சேர்ந்த சீன சுதந்திர உயர்நிலைப் பள்ளி.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மூன்று எழுத்துக்கள் — UEC — மலேசியக் கல்வி அரசியலில் அரை நூற்றாண்டுக்கும் மேலாக நீடித்து வரும் ஒரு விவாதத்தைத் தூண்டிவிடப் போதுமானவை. சிலருக்கு, இது உலகின் முன்னணிப் பல்கலைக்கழகங்களுக்கான கதவைத் திறக்கும் சர்வதேச அங்கீகாரம் பெற்ற சான்றிதழ்; மற்றவர்களுக்கு, இது தேசிய மொழியின் நிலையையும் நாட்டின் கல்விக் கொள்கையையும் தொடுகிறது. இரு கருத்துக்களும் ஒரே நேரத்தில் இருக்கின்றன, முழுச் சித்திரத்தையும் காண இரண்டையும் புரிந்துகொள்ள வேண்டும்.

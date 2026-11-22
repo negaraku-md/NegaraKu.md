@@ -67,6 +67,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "سن الالتحاق بالمدرسة الابتدائية", "eDaftar Menengah APDM", "BPPS tingkatan 1", "المدرسة الحكومية في ماليزيا", "قانون التعليم 1996", "تأجيل السنة الأولى"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'المبنى الوردي متعدّد الطوابق لمدرسة سكولاه كبانجسان كوتا واريسان في سيبانج بولاية سلانجور، وعليه لافتة اسمها على الواجهة وساحة مسوّرة على امتداد الطريق.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يُفاجأ كثير من أولياء الأمور حين يجدون أنهم لا يستطيعون «تسجيل» طفلهم في الصف الأول

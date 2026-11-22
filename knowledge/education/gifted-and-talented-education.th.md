@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'บันไดภายนอกและทางเข้าของอาคารที่สลักคำว่า "PUSAT SUMBER PERMATAPINTAR" ซึ่งเป็นศูนย์ทรัพยากรของโครงการการศึกษาผู้มีความสามารถพิเศษแห่งชาติมาเลเซีย (PERMATApintar)'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เด็กอายุ 10 ปีที่ทำโจทย์คณิตศาสตร์ระดับมัธยมปีที่ 5 ได้ไม่ได้โดดเด่นเสมอไปในชั้นเรียนทั่วไป — และในมาเลเซีย ศูนย์แห่งชาติเพียงแห่งเดียวที่ออกแบบมาเพื่อค้นหาและขัดเกลาสติปัญญาเช่นนี้คือ PERMATApintar

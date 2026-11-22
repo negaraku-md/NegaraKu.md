@@ -91,6 +91,13 @@ stayFacts:
   cost: 'Yuran pengajian berbeza-beza dengan ketara mengikut institusi dan program, dan Pas Pelajar membawa caj EMGS serta visa yang berasingan dan disemak semula dari semasa ke semasa, jadi sahkan angka semasa dengan institusi dan portal EMGS (educationmalaysia.gov.my) dan bukan angka yang dipetik.'
   watch: 'Akreditasi program MQA dan kelulusan institusi untuk mengambil pelajar asing adalah dua semakan yang berbeza — sesuatu program yang diakreditasi sepenuhnya boleh berada di institusi yang tidak dibenarkan mengambil anda. Pengajaran dalam medium bahasa Inggeris tidak menggantikan bukti kecekapan bahasa Inggeris yang diperlukan secara berasingan oleh EMGS.'
   next: 'Sahkan kedua-dua pintu ini secara bertulis dengan pejabat antarabangsa institusi, terima tawaran, kemudian ikuti proses Pas Pelajar melalui EMGS. Lihat penerangan tentang Pas Pelajar, panduan Belajar di Malaysia, dan penerangan tentang akreditasi MQA.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'Pintu masuk kampus Monash University Malaysia, dengan papan tanda laluan berbumbung bertuliskan "MONASH University" menghubungkan dua blok akademik berwarna krim melalui jejantas kaca.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Surat tawaran daripada institusi yang salah jenis tidak bernilai untuk tujuan visa, walaupun program itu sendiri diakreditasi dengan sempurna. Perbezaan itu — program yang diakreditasi berbanding institusi yang diluluskan untuk pelajar antarabangsa — adalah punca kebanyakan kekeliruan bermula, jauh sebelum sesiapa pun mengisi borang EMGS.

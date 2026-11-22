@@ -67,6 +67,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: '沙巴州一所马来西亚国民小学 Sekolah Kebangsaan Tungku 的单层校舍，升着马来西亚国旗，墙上绘有校训。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 每年，当报名期开放时，全马来西亚的父母都会打开大马教育部（KPM）的 idMe 门户网站，为孩子报名就读一年级。其中一项必须最先做出的选择就是：SK、SJKC 还是 SJKT？

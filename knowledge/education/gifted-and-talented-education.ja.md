@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: '「PUSAT SUMBER PERMATAPINTAR」と記された建物の外階段と入口で、マレーシアの国家英才教育プログラム（PERMATApintar）の資料センターである。'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 フォーム5（中等教育第5学年）の数学の問題を解ける10歳の子供が、通常のクラスでは必ずしも目立つとは限らない——そしてマレーシアで、こうした頭脳を見出し磨き上げるために作られた唯一の国立センターが、PERMATApintarである。

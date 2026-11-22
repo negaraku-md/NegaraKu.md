@@ -72,6 +72,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: '吉隆坡十五碑（Brickfields）一所小学的低矮红顶校舍和绿色操场，以 KL Sentral 的高楼天际线为背景。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 您的孩子被送入了"免费"的政府学校——但 PIBG 表格和一堆付款清单还是送到了家里。那么，究竟哪些是必须缴付的，哪些不是？

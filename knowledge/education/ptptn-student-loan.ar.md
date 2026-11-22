@@ -66,6 +66,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "قرض التعليم", "أهلية PTPTN", "سداد PTPTN", "Act 566", "تمويل التعليم العالي ماليزيا", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'بوابة مدخل حرم جامعة التكنولوجيا الماليزية (UTM) في كوالالمبور، وعليها شعار UTM على القوس فوق الممرّ.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يوقّع كثير من الطلاب مستندات عرض PTPTN بالافتراض نفسه: «هذا منحة دراسية في الأساس، أليس كذلك؟» إنه ليس كذلك. وهذا الفهم الخاطئ هو بالضبط ما يسبّب المتاعب في الأغلب — بعد سنوات، حين يصل إشعار السداد الأول بعد التخرّج.

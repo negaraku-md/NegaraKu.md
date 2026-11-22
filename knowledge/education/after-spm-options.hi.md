@@ -69,6 +69,13 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'कुआलालंपुर में यूनिवर्सिटी मलाया का सफ़ेद मेहराबदार मुख्य द्वार, जिस पर "UNIVERSITI MALAYA" लिखा है और विश्वविद्यालय का प्रतीक-चिह्न है, परिसर के प्रवेश मार्ग पर फैला हुआ।'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 लिफ़ाफ़ा खुलता है और उसके साथ असली सवाल आ पहुँचता है। *मैंने कैसा किया* नहीं —

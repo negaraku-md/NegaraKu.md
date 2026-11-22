@@ -72,6 +72,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'クアラルンプールのブリックフィールズにある小学校の低い赤屋根の校舎と緑の運動場で、KL セントラルの高層ビル群のスカイラインを背景にしている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 子どもは「無償」のはずの公立学校に登録されている——それなのに、PIBGの用紙や支払いリストが家に届く。では、実際に支払う義務があるのは何で、義務がないのは何なのか。

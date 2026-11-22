@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'Entrance and signboard of Maktab Rendah Sains MARA (MRSM) Batu Pahat in Johor, a Malaysian fully residential science college, with national and state flags lining the gate.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Two names often come up when Malaysian families talk about the "best" boarding schools for their children: MRSM and SBP. Both are selective fully residential colleges, both fiercely competitive to get into — but they are run by two different bodies, under two different policy mandates.

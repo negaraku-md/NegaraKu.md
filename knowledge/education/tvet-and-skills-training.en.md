@@ -66,6 +66,13 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'Entrance and signboard of Kolej Vokasional Sungai Buloh, a Malaysian vocational college for technical and skills (TVET) training.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Many Form 3 students and their parents see only one path after secondary

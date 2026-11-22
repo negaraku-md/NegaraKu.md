@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: '蓝天下吉兰丹大学预科学院（Kolej Matrikulasi Kelantan）的学术楼，这是一所提供大学预科途径的马来西亚预科学院。'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 两名学生从同一间 SPM 考场走出来，成绩几乎不相上下。十八个月后，一个正在

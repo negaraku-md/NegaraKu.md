@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["स्कूल कैलेंडर", "स्कूली छुट्टियाँ", "सत्र अवकाश", "समूह A", "समूह B", "KPM", "शैक्षणिक कैलेंडर", "school calendar Malaysia"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'साफ़ नीले आसमान के नीचे ढकी हुई पोर्च और बाहर खड़ी कारों वाला एक आधुनिक तीन मंज़िला मलेशियाई राष्ट्रीय प्राथमिक विद्यालय भवन।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 साल की शुरुआत में एक पारिवारिक यात्रा की योजना बनाइए, और आपको जल्दी ही एक बात पर ध्यान जाएगा: केलंतान में आपका पड़ोसी सेलंगोर में आपके बच्चे से एक दिन पहले स्कूल शुरू करता है। यह कोई गलती नहीं है — मलेशिया का स्कूल कैलेंडर इसी तरह डिज़ाइन किया गया है।

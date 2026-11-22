@@ -76,6 +76,13 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'サバ州の華文独立中学（独中）Papar Middle School の本館で、正面に校名が中国語と英語で表示されている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの保護者に「私立学校」とは何かと尋ねると、まったく異なる3つのものを思い浮かべるかもしれない——近所の政府学校とまったく同じカリキュラムで教える有料学校、CambridgeやIBを教える国際学校、そして華文教育コミュニティ以外ではほとんど聞いたことのない試験を実施する華文独立中学（独中）である。この3つのうち、SPMを受験するのは1つだけ、UECを受験するのも1つだけである。この3つを混同することは、18歳の子どもの選択肢を見誤る最も簡単な方法である。

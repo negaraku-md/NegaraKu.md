@@ -82,6 +82,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'Tangga luar dan pintu masuk sebuah bangunan bertuliskan "PUSAT SUMBER PERMATAPINTAR", pusat sumber program pendidikan pintar berbakat kebangsaan Malaysia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seorang kanak-kanak berumur 10 tahun yang menyelesaikan matematik tingkatan lima tidak selalu terserlah di dalam kelas biasa — dan di Malaysia, satu-satunya pusat kebangsaan yang direka untuk mencari dan mengasah minda seperti ini ialah PERMATApintar.

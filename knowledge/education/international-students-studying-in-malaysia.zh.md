@@ -90,6 +90,13 @@ stayFacts:
   cost: '学费因院校与课程而差异极大，学生准证另有EMGS及签证相关费用，且会不时调整，因此请直接向院校及EMGS门户网站（educationmalaysia.gov.my）核实当前数字，而非依据某个报出的金额。'
   watch: 'MQA的课程认证与院校招收外国学生的批准，是两项不同的查核——一个课程即便已获完整认证，所在院校也可能并未获准招收你。以英语为教学媒介，并不能取代EMGS另行要求的英语能力证明。'
   next: '先向院校的国际事务处以书面形式确认这两道关卡，接受录取，再透过EMGS办理学生准证流程。参阅《学生准证》《留学大马》以及MQA认证说明。'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: '莫纳什大学马来西亚分校（Monash University Malaysia）校园入口，有盖走廊上有「MONASH University」标志，由一座玻璃天桥连接两栋米色学术楼。'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 来自错误类型院校的录取信，对签证申请而言毫无用处，即使课程本身完全获得认证也一样。「已获认证的课程」与「获准招收国际学生的院校」这两者之间的区别，正是大部分混淆的起点，而这早在任何人填写 EMGS 表格之前就已经发生。

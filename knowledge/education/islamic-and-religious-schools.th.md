@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'แถวนักเรียนในชุดบาจูกูรงสีน้ำเงินและผ้าคลุมศีรษะสีดำเดินเข้าสู่โรงเรียนมัธยมศาสนา Sekolah Menengah Agama Al-Maarif ของมาเลเซีย ผ่านต้นมะพร้าว'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เด็กคนหนึ่งในมาเลเซียอาจใช้เวลาช่วงเช้าในโรงเรียนแห่งชาติ ช่วงบ่ายในชั้นเรียน KAFA ที่มัสยิด และช่วงวัยรุ่นในหอพักตะฮ์ฟีซ — สภาพแวดล้อมการศึกษาสามแบบที่มีผู้กำกับดูแล หลักสูตร และกฎหมายที่ต่างกัน สายการศึกษาศาสนาอิสลามดำเนินไปควบคู่กับระบบแห่งชาติ แต่ไม่ใช่ก้อนเดียว การเข้าใจว่าใครขึ้นทะเบียนอะไร และใครรับผิดชอบอะไร คือกุญแจในการอ่านการอภิปรายสาธารณะเกี่ยวกับหัวข้อนี้อย่างเป็นธรรม

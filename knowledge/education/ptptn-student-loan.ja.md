@@ -65,6 +65,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'マレーシア工科大学クアラルンプール校（Universiti Teknologi Malaysia Kuala Lumpur）の入口門で、車道の上のアーチに UTM の紋章がある。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 多くの学生は、PTPTNの契約書類にサインするとき、同じ思い込みを抱いている――「これは

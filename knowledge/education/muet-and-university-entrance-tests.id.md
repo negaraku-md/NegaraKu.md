@@ -92,6 +92,13 @@ stayFacts:
   cost: 'Biaya ditetapkan oleh MPM dan lebih tinggi bagi bukan warga negara serta bagi MUET on Demand versi berbasis komputer, dan biaya ini berubah — pastikan biaya terkini di portal MPM (mpm.edu.my), bukan dari angka yang dikutip.'
   watch: 'Tidak ada satu band lulus tunggal — minimumnya berbeda menurut program dan ditetapkan oleh Senat masing-masing universitas. Hasilnya berlaku selama lima tahun, jadi mengikuti ujian terlalu dini bisa berarti hasilnya kedaluwarsa sebelum Anda melamar.'
   next: 'Periksa band minimum program yang Anda tuju di situs web universitasnya, daftar lebih awal melalui MPM, dan pantau masa berlaku lima tahun. Lihat Universitas negeri vs swasta.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Barisan mahasiswa yang duduk di meja masing-masing mengikuti ujian di sebuah aula universitas di Malaysia, dengan seorang pengawas ujian berjalan di antara lorong.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda bisa cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu hasil lagi, formulir pengajuan program sarjana Anda masih belum lengkap. Hasil itu adalah MUET — dan banyak pelajar baru menyadari pentingnya ketika tanggal penutupan pendaftaran universitas sudah mendekat.

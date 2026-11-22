@@ -80,6 +80,13 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'Cổng và tòa nhà nhiều tầng của trường Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, một trường tiểu học quốc lập dạy bằng tiếng Tamil của Malaysia ở Johor.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ở bất kỳ góc nào của Malaysia — bên rìa một đồn điền cao su cũ, hay ở ngoại vi

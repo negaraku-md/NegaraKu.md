@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'ทางเข้าและป้ายของ Maktab Rendah Sains MARA (MRSM) Batu Pahat ในรัฐยะโฮร์ ซึ่งเป็นวิทยาลัยวิทยาศาสตร์แบบประจำเต็มรูปแบบของมาเลเซีย โดยมีธงชาติและธงรัฐเรียงรายอยู่ริมประตู'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 สองชื่อมักปรากฏขึ้นเมื่อครอบครัวมาเลเซียพูดถึงโรงเรียนประจำ "ที่ดีที่สุด" สำหรับบุตร: MRSM และ SBP ทั้งสองเป็นวิทยาลัยประจำเต็มรูปแบบแบบคัดเลือก ทั้งสองแข่งขันกันอย่างเข้มข้นเพื่อชิงที่นั่ง — แต่บริหารโดยสองหน่วยงานที่ต่างกัน ภายใต้สองอาณัตินโยบายที่ต่างกัน

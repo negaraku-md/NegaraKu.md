@@ -67,6 +67,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'Bangunan merah muda bertingkat Sekolah Kebangsaan Kota Warisan di Sepang, Selangor, dengan papan nama pada fasadnya dan kompleks berpagar di sepanjang jalan.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Banyak orang tua terkejut ketika mendapati mereka tidak dapat "mendaftarkan" anak

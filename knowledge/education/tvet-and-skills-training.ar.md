@@ -66,6 +66,13 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET ماليزيا", "شهادة المهارات الماليزية", "SKM", "Sijil Kemahiran Malaysia", "JPK إدارة تنمية المهارات", "ILP معهد التدريب الصناعي", "الكلية المجتمعية الماليزية", "الكلية المهنية", "kolej vokasional", "البوليتكنيك الماليزي", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'مدخل ولافتة كلّية كوليج فوكاشونال سونغاي بولوه، وهي كلّية ماليزية مهنية للتدريب التقني والمهاري (TVET).'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يرى كثير من طلاب الصف الثالث الثانوي (Form 3) وأولياء أمورهم طريقًا واحدًا فقط

@@ -91,6 +91,13 @@ stayFacts:
   cost: 'Les frais de scolarité varient fortement selon l''établissement et le programme, et le Student Pass comporte des frais d''EMGS et de visa distincts, révisés au fil du temps ; confirmez donc les montants actuels auprès de l''établissement et du portail EMGS (educationmalaysia.gov.my) plutôt que de vous fier à un chiffre annoncé.'
   watch: 'L''accréditation d''un programme par la MQA et l''agrément de l''établissement pour accueillir des étudiants étrangers sont deux vérifications différentes — un programme pleinement accrédité peut se trouver dans un établissement qui n''est pas autorisé à vous inscrire. L''enseignement en anglais ne remplace pas la preuve de compétence linguistique en anglais exigée séparément par l''EMGS.'
   next: 'Faites confirmer les deux portes par écrit auprès du bureau international de l''établissement, acceptez l''offre, puis suivez la procédure du Student Pass via l''EMGS. Voir Le Student Pass, Étudier en Malaisie, et l''explication de l''accréditation MQA.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'L''entrée du campus de Monash University Malaysia, avec un panneau d''allée couverte indiquant "MONASH University" reliant deux blocs universitaires beiges par une passerelle vitrée.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Une lettre d'offre émanant du mauvais type d'établissement ne vaut rien pour un visa, même si le programme lui-même est parfaitement accrédité. Cette distinction — programme accrédité par rapport à établissement autorisé pour les étudiants internationaux — est là où naît la plupart de la confusion, bien avant que quiconque ne remplisse un formulaire de l'EMGS.

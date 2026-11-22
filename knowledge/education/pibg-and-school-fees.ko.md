@@ -72,6 +72,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: '쿠알라룸푸르 브릭필즈에 있는 초등학교의 낮은 빨간 지붕 건물과 녹색 운동장으로, KL 센트랄의 고층 빌딩 스카이라인을 배경으로 하고 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 자녀를 「무료」 공립학교에 등록했는데도 PIBG 양식과 납부 목록이 집으로 옵니다. 그렇다면 실제로 무엇을 반드시 내야 하고, 무엇은 그렇지 않을까요?

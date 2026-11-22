@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM बनाम Matrikulasi", "पूर्व-विश्वविद्यालय मलेशिया", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "डिप्लोमा से डिग्री", "UPU प्रवेश श्रेणियाँ", "SPM के बाद पूर्व-विश्वविद्यालय मार्ग"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'नीले आसमान के नीचे कोलेज मैट्रिकुलासी केलंतान का शैक्षणिक खंड, जो एक मलेशियाई मैट्रिकुलेशन कॉलेज है और पूर्व-विश्वविद्यालय मार्ग प्रदान करता है।'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 दो छात्र लगभग समान परिणामों के साथ एक ही SPM कक्ष से बाहर निकलते हैं। अठारह

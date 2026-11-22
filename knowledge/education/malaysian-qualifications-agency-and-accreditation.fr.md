@@ -83,6 +83,13 @@ stayFacts:
   cost: 'La recherche sur le MQR est gratuite ; la reconnaissance sur laquelle vous comptez — une licence professionnelle, un emploi dans la fonction publique ou des études à l''étranger — peut nécessiter chacune une vérification distincte auprès de son propre organisme.'
   watch: 'L''accréditation se rattache au programme et à l''année d''admission précis, non à l''établissement — une université réputée peut tout de même proposer un programme nouveau, à accréditation provisoire ou non répertorié. La mention « approuvé par la MQA » d''une brochure n''est pas le registre ; confirmez vous-même l''inscription en vigueur, et notez que le statut provisoire est légitime, et non de second ordre.'
   next: 'Cherchez votre programme exact sur le MQR avant de verser le moindre acompte ; pour une profession réglementée, confirmez la voie d''accès pour les diplômés auprès de l''organisme professionnel concerné. Voir Avant de payer un acompte à un collège.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Une plaque murale portant les armoiries et les mots "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" sur un mur revêtu de pierre.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Deux étudiants obtiennent un diplôme au nom quasi identique. L'un remplit les conditions pour un emploi public et une place de master ; l'autre est refusé à la porte. La différence est souvent une seule ligne dans un registre public : le fait que l'Agence des qualifications de Malaisie ait ou non accrédité le programme.

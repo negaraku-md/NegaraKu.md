@@ -80,6 +80,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'An aerial view of Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara, showing the school''s quadrangle of classroom blocks, a sports field and a residential neighbourhood.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 For a child growing up in Malaysia, the question "which school?" carries more meaning than in many countries. It is partly about distance and reputation, as everywhere — but it is also a choice between a national school that teaches mainly in Malay and a national-type school that teaches in Chinese or Tamil. Both are part of the same public system, follow the same national curriculum, and lead to the same national examinations. Understanding how that system fits together is the first step to navigating it.

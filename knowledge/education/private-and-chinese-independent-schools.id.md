@@ -78,6 +78,13 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'Bangunan utama Papar Middle School, sebuah sekolah menengah independen Tionghoa di Sabah, dengan namanya ditampilkan dalam bahasa Tionghoa dan Inggris pada fasad.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tanya orang tua Malaysia mana pun apa arti "sekolah swasta", dan mereka mungkin merujuk pada tiga hal yang sama sekali berbeda: sekolah berbayar yang menjalankan silabus yang persis sama seperti sekolah negeri di kawasan itu, sekolah internasional yang mengajarkan Cambridge atau IB, atau sebuah sekolah menengah swasta Tionghoa yang menjalankan ujian yang jarang didengar oleh kebanyakan orang di luar komunitas pendidikan Tionghoa. Hanya satu dari ketiganya yang mengikuti SPM. Hanya satu yang mengikuti UEC. Mengacaukan ketiganya adalah cara paling mudah untuk salah menilai pilihan seorang anak pada usia 18 tahun.

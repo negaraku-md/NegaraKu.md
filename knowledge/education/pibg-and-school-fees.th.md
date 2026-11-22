@@ -72,6 +72,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'อาคารหลังคาแดงเตี้ยและสนามหญ้าสีเขียวของโรงเรียนประถมในย่านบริกฟิลด์ส กัวลาลัมเปอร์ โดยมีเส้นขอบฟ้าตึกสูงของ KL Sentral เป็นฉากหลัง'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 บุตรของคุณลงทะเบียนเข้าโรงเรียนรัฐบาลที่ "ฟรี" — แต่แบบฟอร์ม PIBG และรายการค่าใช้จ่ายก็ยังส่งมาถึงบ้าน แล้วอะไรกันแน่ที่ต้องจ่าย และอะไรที่ไม่ต้อง?

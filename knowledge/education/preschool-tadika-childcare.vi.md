@@ -71,6 +71,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'Mặt trước của Tadika Al-Falah, một trường mầm non Malaysia ở Johor, với bảng chào mừng và bức tranh tường vẽ bảng chữ cái dọc theo bức tường.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nhiều cha mẹ đăng ký con vào "tadika" cạnh nhà — nộp biểu mẫu, trả học phí, xong. Nhưng câu hỏi hiếm khi được hỏi là: tadika đó đăng ký với ai? Câu trả lời không phải chuyện nhỏ nhặt. Tùy vào tuổi của trẻ và loại cơ sở, nó có thể nằm dưới hai bộ hoàn toàn khác nhau, với các luật, quy định và cách thực thi không giống nhau.

@@ -63,6 +63,13 @@ relations:
 related: []
 keywords: ["विशेष शिक्षा मलेशिया", "special education Malaysia", "PPKI कार्यक्रम", "PPI समावेशी शिक्षा", "OKU कार्ड बच्चे", "sekolah pendidikan khas", "अधिगम दिव्यांगता सहायता मलेशिया", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'एक मलेशियाई माध्यमिक विद्यालय, SMK तामन यूनिवर्सिटी में विशेष-शिक्षा एकीकरण कार्यक्रम (PPKI) के शिक्षकों और छात्र-प्रबंधन सहायकों का सामूहिक चित्र।'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 निदान केवल पहली बातचीत है। दूसरी — जो अक्सर अधिक भ्रमित करने वाली होती है — यह है कि आपका बच्चा असल में किस विद्यालय ट्रैक में जाता है, और OKU कार्ड विद्यालय से पहले क्यों मायने रखता प्रतीत होता है। मलेशिया की प्रणाली में तीन सार्वजनिक ट्रैक हैं, इन सभी को आपूर्ति करने वाली एक अलग दिव्यांगता-पंजीकरण प्रक्रिया है, और निजी तथा NGO चिकित्सा की एक समानांतर दुनिया है जिसे अधिकांश माता-पिता किसी एक आधिकारिक पृष्ठ से नहीं, बल्कि सुनी-सुनाई बातों से खोज पाते हैं।

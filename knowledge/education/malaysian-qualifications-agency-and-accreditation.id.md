@@ -83,6 +83,13 @@ stayFacts:
   cost: 'Pencarian MQR gratis; pengakuan yang mungkin Anda andalkan — lisensi profesi, pekerjaan pemerintah, atau studi di luar negeri — masing-masing bisa memerlukan verifikasi terpisah dengan badannya sendiri.'
   watch: 'Akreditasi melekat pada program dan tahun penerimaan tertentu, bukan pada institusi — universitas yang bereputasi pun masih bisa menjalankan program baru, provisional, atau yang belum terdaftar. Klaim ''MQA-approved'' pada brosur bukanlah daftar resminya; pastikan sendiri entri yang aktif, dan ingat bahwa status provisional itu sah, bukan kelas dua.'
   next: 'Cari program Anda yang tepat di MQR sebelum membayar deposit apa pun; untuk profesi teregulasi, pastikan jalur bagi lulusan dengan badan profesi tersebut. Lihat panduan Sebelum membayar deposit kolej.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Papan nama terpasang di dinding bergambar lambang dan tulisan "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" pada dinding berlapis batu.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dua orang pelajar lulus dengan diploma yang terdengar sama. Seorang layak untuk pekerjaan pemerintah dan tempat studi sarjana; seorang lagi ditolak di pintu masuk. Perbedaannya sering kali terletak pada satu baris dalam daftar publik: apakah Agensi Kualifikasi Malaysia telah mengakreditasi program tersebut.

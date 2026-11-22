@@ -78,6 +78,13 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'SJK(C) चुन यिन का नीला प्रवेश-मेहराब, जिस पर चीनी अक्षरों में और "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN" लिखा है, विद्यालय परिसर की ओर जाता हुआ।'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 भोर में, किसी चीनी प्राथमिक विद्यालय के मैदान में चीनी, मलय और अंग्रेज़ी की आपस में घुली-मिली आवाज़ें गूँजती हैं; कुछ राज्यों की दूरी पर, किसी चीनी स्वतंत्र माध्यमिक विद्यालय (独中) के सभागार में विद्यार्थी वर्षांत की UEC (统考) परीक्षा की तैयारी कर रहे हैं; और जोहोर तथा पिनांग में चीनी शिक्षा प्रणाली से विकसित विश्वविद्यालय कॉलेज नए विद्यार्थियों का स्वागत कर रहे हैं। ये सभी दृश्य एक ही धारा — मलेशिया की चीनी शिक्षा — के अंग हैं, फिर भी भिन्न-भिन्न स्तरों पर स्थित हैं और भिन्न वित्तपोषण-विधियों तथा विधिक व्यवस्थाओं के अधीन हैं।

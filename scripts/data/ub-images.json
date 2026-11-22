@@ -4997,5 +4997,827 @@
    "subject": "The National Velodrome in Nilai, Malaysia",
    "alt": "The angular red, grey and white facade of the National Velodrome in Nilai stands over an empty car park."
   }
+ },
+ "education/academic-calendar-and-school-holidays": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian national primary school building",
+   "alt": "A modern three-storey Malaysian national primary school building with a covered porch and cars parked outside under a clear blue sky."
+  }
+ },
+ "education/after-spm-options": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Universiti_Malaya_KL_gate.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "*angys*",
+   "page": "https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian public university main entrance",
+   "alt": "The white arched main gate of Universiti Malaya in Kuala Lumpur, lettered \"UNIVERSITI MALAYA\" with the university crest, spanning the campus entrance road."
+  }
+ },
+ "education/before-paying-a-college-deposit": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Taylors_Lakeside_Campus.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Yewvie",
+   "page": "https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian private university campus",
+   "alt": "Taylor's University Lakeside Campus towers reflected in a lake at dusk, with a red \"TAYLOR'S UNI\" sign on the main building."
+  }
+ },
+ "education/chinese-education-in-malaysia": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SJK_%28C%29_Chun_Yin_%28260103%29.jpg",
+   "license": "CC0",
+   "by": "凯乐",
+   "page": "https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg",
+   "kind": "actual",
+   "subject": "A Malaysian Chinese-medium primary school (SJKC)",
+   "alt": "The blue entrance archway of SJK (C) Chun Yin, lettered in Chinese characters and \"SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN\", leading to the school grounds."
+  }
+ },
+ "education/degree-plus-acca-or-cima-accounting-study-routes": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_%28220712%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "*angys*",
+   "page": "https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg",
+   "kind": "representative",
+   "subject": "A Malaysian university lecture-hall complex",
+   "alt": "A Malaysian university lecture-hall complex with a sign reading \"KOMPLEKS DEWAN KULIAH\" beside maroon academic buildings and a covered walkway."
+  }
+ },
+ "education/enrolling-in-a-government-school": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sekolah_kebangsaan%2C_Kota_warisan%2C_selangor%2C_my.jpg",
+   "license": "CC0",
+   "by": "Gary7660",
+   "page": "https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg",
+   "kind": "actual",
+   "subject": "A Malaysian government national school",
+   "alt": "The pink multi-storey building of Sekolah Kebangsaan Kota Warisan in Sepang, Selangor, with its name signboard on the facade and a fenced compound along a road."
+  }
+ },
+ "education/gifted-and-talented-education": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/PERMATApintar_Library.jpg",
+   "license": "CC BY 4.0",
+   "by": "Slainthayer",
+   "page": "https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg",
+   "kind": "actual",
+   "subject": "Malaysia's national gifted-education centre (PERMATApintar)",
+   "alt": "The exterior stairway and entrance of a building lettered \"PUSAT SUMBER PERMATAPINTAR\", the resource centre of Malaysia's national gifted-education programme."
+  }
+ },
+ "education/international-students-studying-in-malaysia": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cmglee_Sunway_Monash_University.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Cmglee",
+   "page": "https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg",
+   "kind": "representative",
+   "subject": "A foreign branch-campus university in Malaysia",
+   "alt": "The entrance of Monash University Malaysia campus, with a covered walkway sign reading \"MONASH University\" linking two beige academic blocks by a glass skybridge."
+  }
+ },
+ "education/islamic-and-religious-schools": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sekolah_Menengah_Agama_Al-Maarif_2016.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Baha Haji Arsat",
+   "page": "https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg",
+   "kind": "actual",
+   "subject": "A Malaysian Islamic secondary school",
+   "alt": "A line of students in blue baju kurung and black headscarves walking into Sekolah Menengah Agama Al-Maarif, a Malaysian religious secondary school, past coconut palms."
+  }
+ },
+ "education/jpa-and-public-scholarships": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/UiTM_Rembau.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "AyyanD",
+   "page": "https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian public university campus",
+   "alt": "Modern yellow-and-grey faculty buildings of a UiTM campus in Rembau, a Malaysian public university, with students walking along the campus road."
+  }
+ },
+ "education/malaysian-education-system": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg",
+   "kind": "representative",
+   "subject": "Malaysian secondary-school students in uniform",
+   "alt": "A group of smiling Malaysian secondary-school students posing together in their school uniforms, including white shirts, headscarves and house tracksuits."
+  }
+ },
+ "education/malaysian-qualifications-agency-and-accreditation": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian national university nameplate",
+   "alt": "A wall-mounted nameplate bearing the crest and words \"UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia\" on a stone-clad wall."
+  }
+ },
+ "education/malaysian-school-system": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Benlol98",
+   "page": "https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian secondary-school campus from above",
+   "alt": "An aerial view of Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara, showing the school's quadrangle of classroom blocks, a sports field and a residential neighbourhood."
+  }
+ },
+ "education/mrsm-and-fully-residential-schools": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/MRSM_Batu_Pahat%2C_Batu_Pahat_20250207_162623.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg",
+   "kind": "actual",
+   "subject": "Maktab Rendah Sains MARA (MRSM) Batu Pahat, a fully residential science college in Johor",
+   "alt": "Entrance and signboard of Maktab Rendah Sains MARA (MRSM) Batu Pahat in Johor, a Malaysian fully residential science college, with national and state flags lining the gate."
+  }
+ },
+ "education/muet-and-university-entrance-tests": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Universiti_Darul_Iman_Malaysia_-_final_exam.jpg",
+   "license": "CC BY-SA 2.0",
+   "by": "Mahani Mohamad",
+   "page": "https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg",
+   "kind": "representative",
+   "subject": "University examination hall at Universiti Darul Iman Malaysia (now UniSZA), Terengganu",
+   "alt": "Rows of students seated at individual desks sitting an examination in a university hall in Malaysia, with an invigilator walking between the aisles."
+  }
+ },
+ "education/national-schools-sk-sjkc-sjkt": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg",
+   "kind": "representative",
+   "subject": "Sekolah Kebangsaan Tungku, a Malaysian national primary school in Sabah",
+   "alt": "Single-storey building of Sekolah Kebangsaan Tungku, a Malaysian national primary school in Sabah, flying the Malaysian flag, with the school motto painted on its wall."
+  }
+ },
+ "education/pibg-and-school-fees": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg",
+   "kind": "representative",
+   "subject": "Methodist Girls' Primary School, Brickfields, Kuala Lumpur",
+   "alt": "Low red-roofed buildings and green field of a primary school in Brickfields, Kuala Lumpur, set against the high-rise skyline of KL Sentral."
+  }
+ },
+ "education/pre-university-routes": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "CyberTroopers",
+   "page": "https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg",
+   "kind": "representative",
+   "subject": "Kolej Matrikulasi Kelantan, a Malaysian matriculation college",
+   "alt": "Academic block of Kolej Matrikulasi Kelantan, a Malaysian matriculation college offering a pre-university route, under a blue sky."
+  }
+ },
+ "education/preschool-tadika-childcare": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Al-Falah_Kindergarten.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Chongkian",
+   "page": "https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg",
+   "kind": "representative",
+   "subject": "Tadika Al-Falah, a kindergarten/preschool in Simpang Renggam, Johor",
+   "alt": "Front of Tadika Al-Falah, a Malaysian preschool in Johor, with a welcome sign and a painted alphabet mural along the wall."
+  }
+ },
+ "education/private-and-chinese-independent-schools": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Papar_Sabah_Papar-Middle_School-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg",
+   "kind": "representative",
+   "subject": "Papar Middle School, a Chinese independent high school in Sabah",
+   "alt": "Main building of Papar Middle School, a Chinese independent high school in Sabah, with its name shown in Chinese and English on the facade."
+  }
+ },
+ "education/ptptn-student-loan": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg",
+   "kind": "representative",
+   "subject": "Entrance of the Universiti Teknologi Malaysia (UTM) Kuala Lumpur campus",
+   "alt": "Entrance gateway of the Universiti Teknologi Malaysia Kuala Lumpur campus, with the UTM emblem on the archway over the driveway."
+  }
+ },
+ "education/special-education-and-learning-support": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Pendidikan khas smk taman universiti",
+   "page": "https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg",
+   "kind": "representative",
+   "subject": "Teachers and student-management assistants of the special education integration programme (PPKI) at SMK Taman Universiti, Johor",
+   "alt": "Group portrait of the teachers and student-management assistants of the special-education integration programme (PPKI) at a Malaysian secondary school, SMK Taman Universiti."
+  }
+ },
+ "education/tamil-vernacular-schools": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/SJK_%28T%29_Seri_Pelangi.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Wee Hong",
+   "page": "https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg",
+   "kind": "actual",
+   "subject": "Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, a Tamil vernacular school in Johor",
+   "alt": "Gate and multi-storey building of Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, a Malaysian Tamil-medium national-type primary school in Johor."
+  }
+ },
+ "education/tvet-and-skills-training": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kolej_Vokasional_Sungai_Buloh_1.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg",
+   "kind": "representative",
+   "subject": "Kolej Vokasional Sungai Buloh, a Malaysian vocational college",
+   "alt": "Entrance and signboard of Kolej Vokasional Sungai Buloh, a Malaysian vocational college for technical and skills (TVET) training."
+  }
+ },
+ "education/unified-examination-certificate-uec": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg",
+   "kind": "representative",
+   "subject": "Sabah Chinese High School (Sekolah Tinggi Cina Sabah), a Chinese independent high school in Tawau",
+   "alt": "Entrance signboard and grounds of Sabah Chinese High School (Sekolah Tinggi Cina Sabah) in Tawau, a Chinese independent high school of the type whose students sit the Unified Examination Certificate."
+  }
+ },
+ "education/upsr-to-spm-exams": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dewan_SMK_Gajah_Berang.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "LM UPSI 2019",
+   "page": "https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg",
+   "kind": "representative",
+   "subject": "School hall (dewan) of SMK Gajah Berang with students seated in rows",
+   "alt": "View into the school hall (dewan) of SMK Gajah Berang in Malaysia, with students seated in rows of chairs facing the stage, the type of hall used for assemblies and public examinations."
+  }
+ },
+ "property/assessment-and-quit-rent": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Terraced_house%2C_Bandar_Sri_Sendayan%2C_Seremban.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "AyyanD",
+   "page": "https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg",
+   "kind": "representative",
+   "subject": "Row of modern double-storey terraced houses in Bandar Sri Sendayan, Seremban — the kind of residential property on which assessment rates (cukai pintu) and quit rent (cukai tanah) are levied.",
+   "alt": "A row of modern double-storey terraced houses behind a fence in a Malaysian housing estate, Seremban.",
+   "position": "centre"
+  }
+ },
+ "property/buying-a-home-process": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cassia_Homes%2C_Forest_Heights%2C_Seremban.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "AyyanD",
+   "page": "https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg",
+   "kind": "representative",
+   "subject": "Entrance to the Cassia Homes residential development at Forest Heights, Seremban — a typical Malaysian landed housing estate of the sort bought through the standard home-purchase process.",
+   "alt": "The signposted entrance and guardhouse of the Cassia Homes housing development in Seremban at dusk, with terraced houses behind."
+  }
+ },
+ "property/condo-living-maintenance-fees": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bistari_Condominium%2C_Kuala_Lumpur_20240212_134920.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg",
+   "kind": "representative",
+   "subject": "Bistari Condominium, a high-rise residential strata tower in Kuala Lumpur — representative of condominium living where owners pay monthly maintenance fees and a sinking fund.",
+   "alt": "A tall red-and-white residential condominium tower against a blue sky in Kuala Lumpur.",
+   "position": "centre"
+  }
+ },
+ "property/electricity-tnb-account": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hezery99-TNB_electricity_meter.jpg",
+   "license": "Public domain",
+   "by": "Hezery99",
+   "page": "https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg",
+   "kind": "actual",
+   "subject": "A single-phase Tenaga Nasional Berhad (TNB) domestic electricity meter in Segamat, Malaysia, showing the account label — a direct depiction of a residential TNB electricity account.",
+   "alt": "A wall-mounted Tenaga Nasional Berhad electricity meter with a handwritten account number card, at a house in Malaysia."
+  }
+ },
+ "property/foreigners-buying-property": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kuala_Lumpur_Malaysia_348-Sentral-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg",
+   "kind": "representative",
+   "subject": "The 348 Sentral / Ascott serviced-residence glass towers at KL Sentral, Kuala Lumpur — the upmarket high-rise segment foreigners typically buy into under minimum-price thresholds.",
+   "alt": "Modern glass-clad residential high-rise towers (Ascott, 348 Sentral) in Kuala Lumpur.",
+   "position": "centre"
+  }
+ },
+ "property/freehold-leasehold-strata-landed": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jesselton_Residences_Kota_Kinabalu%2C_Sabah%2C_Malaysia.jpg",
+   "license": "CC BY 2.0",
+   "by": "Jason Thien",
+   "page": "https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg",
+   "kind": "representative",
+   "subject": "Jesselton Residences, a waterfront strata condominium development in Kota Kinabalu, Sabah — representative of strata-titled high-rise property alongside the freehold/leasehold/landed tenure spectrum.",
+   "alt": "Twin waterfront condominium towers of Jesselton Residences beside a marina and the sea in Kota Kinabalu, Sabah."
+  }
+ },
+ "property/gated-communities-and-security": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Arden_Hill%2C_Forest_Heights%2C_Seremban.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "AyyanD",
+   "page": "https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg",
+   "kind": "actual",
+   "subject": "The guarded main entrance arch and boom gate of the Arden Hill gated-and-guarded community at Forest Heights, Seremban — a direct depiction of a Malaysian gated community.",
+   "alt": "An illuminated gated-community entrance arch reading 'Arden Hill Precinct 2' with a guardhouse and boom gate at dusk, Seremban."
+  }
+ },
+ "property/home-loan-mortgage-financing": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg",
+   "kind": "representative",
+   "subject": "Signage of Public Bank Berhad (a major Malaysian commercial bank and home-loan lender) outside its building in Kuala Lumpur — representative of mortgage financing.",
+   "alt": "The red Public Bank Berhad and Public Investment Bank signage on a landscaped plaza outside a Malaysian bank building in Kuala Lumpur."
+  }
+ },
+ "property/homebuyer-protection-abandoned-projects": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Abandoned_building_in_Kampung_Masjid%2C_Gombak_20230930_102344.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg",
+   "kind": "representative",
+   "subject": "An abandoned, half-built multi-storey concrete structure overgrown with vegetation at Kampung Masjid, Gombak, Selangor — representative of the stalled and abandoned housing projects that homebuyer-protection rules address.",
+   "alt": "A derelict unfinished concrete multi-storey building overgrown with greenery, with Malaysian flags in the foreground, in Gombak."
+  }
+ },
+ "property/internet-and-fibre": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg",
+   "kind": "representative",
+   "subject": "Telekom Malaysia technician working on a street cable distribution point",
+   "alt": "A Telekom Malaysia technician working on a street-side telecommunications cable distribution point in Kuala Lumpur."
+  }
+ },
+ "property/landlord-has-not-returned-the-deposit": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Puncak_Desa_Apartment%2C_Kepong_20240101_104402.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg",
+   "kind": "representative",
+   "subject": "Malaysian high-rise rental apartment flats",
+   "alt": "The Puncak Desa high-rise apartment flats in Kepong, Kuala Lumpur, a typical Malaysian rental housing block."
+  }
+ },
+ "property/property-agents-and-fees": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_%28Malaysia_Federal_Highway_50%29_in_Batu_Pahat%2C_Johor_20250212_161809.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg",
+   "kind": "representative",
+   "subject": "new Malaysian semi-detached housing development",
+   "alt": "Modern semi-detached houses behind the Taman Soga Sutera development signboard in Batu Pahat, Johor."
+  }
+ },
+ "property/property-inheritance-faraid-distribution": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Taman_Idaman%2C_Jalan_Kendi_%28220903%29_1.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg",
+   "kind": "representative",
+   "subject": "established Malaysian terrace-house neighbourhood",
+   "alt": "A row of established terrace houses behind the Taman Idaman neighbourhood signboard in Malaysia."
+  }
+ },
+ "property/real-property-gains-tax": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Verdana_condominium%2C_North_Kiara%2C_Kuala_Lumpur.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Pradana Aumars",
+   "page": "https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg",
+   "kind": "representative",
+   "subject": "Kuala Lumpur condominium development",
+   "alt": "Verdana condominium towers rising over the North Kiara residential area of Kuala Lumpur."
+  }
+ },
+ "property/renovation-permits-and-ccc": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Renovation_of_a_two-storey_terraced_house_in_Selangor%2C_Malaysia_20191006_162256.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Frostpolar",
+   "page": "https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg",
+   "kind": "actual",
+   "subject": "home renovation in progress",
+   "alt": "Interior of a two-storey terraced house under renovation in Selangor, Malaysia, with a neighbouring house visible through the doorway."
+  }
+ },
+ "property/renting-a-home-tenancy": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Taman_Miharja_Apartment_20241130_144810.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg",
+   "kind": "representative",
+   "subject": "Malaysian apartment rental housing",
+   "alt": "High-rise apartment flats beside an LRT line at Taman Miharja, Kuala Lumpur."
+  }
+ },
+ "property/rubbish-and-local-council": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C%2C_Kota_Damansara_20230930_124457.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg",
+   "kind": "actual",
+   "subject": "local-council waste-collection lorry",
+   "alt": "A KDEB Waste Management refuse lorry collecting rubbish outside a flat block in Kota Damansara, Selangor."
+  }
+ },
+ "property/strata-management-jmb-mc": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Orion_Condominium_and_Sky_Residences%2C_Kuala_Lumpur_20250121_122146.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg",
+   "kind": "actual",
+   "subject": "Kuala Lumpur strata condominium towers",
+   "alt": "The Orion Condominium and Sky Residences strata high-rises in Kuala Lumpur."
+  }
+ },
+ "property/water-supply": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Babagon_Sabah_Babagon-Dam-07a.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg",
+   "kind": "actual",
+   "subject": "Malaysian water-supply reservoir",
+   "alt": "The Babagon Dam reservoir in Sabah, a raw-water source for treated drinking-water supply, with an information signboard at the waterside."
+  }
+ },
+ "healthcare/abortion-law-in-malaysia": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Klinik_Kesihatan_Nilai_%28230708%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "*angys*",
+   "page": "https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg",
+   "kind": "representative",
+   "subject": "Klinik Kesihatan Nilai, a Malaysian government health clinic",
+   "alt": "Exterior of Klinik Kesihatan Nilai, a Malaysian government health clinic with Ministry of Health signage and red crescent"
+  }
+ },
+ "healthcare/allied-health-and-medical-practitioner-registration": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hospital_Building_Photo-01%2891%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Cardiac Vascular Sentral Kuala Lumpur",
+   "page": "https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg",
+   "kind": "representative",
+   "subject": "A specialist hospital building in Kuala Lumpur",
+   "alt": "A modern glass-clad specialist hospital in Kuala Lumpur with a light-rail train passing in front"
+  }
+ },
+ "healthcare/blood-donation-and-national-blood-centre": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Penderma_Darah.JPG",
+   "license": "CC BY-SA 3.0",
+   "by": "ms:User:Meeneunos10",
+   "page": "https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG",
+   "kind": "actual",
+   "subject": "Blood donation at a Malaysian hospital",
+   "alt": "A Malaysian blood donor seated in a donation chair beside a smiling nurse holding a filled blood bag",
+   "position": "centre"
+  }
+ },
+ "healthcare/childhood-vaccination": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Pavilion_Bukit_Jalil_PPV_for_kids_%28220713%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "*angys*",
+   "page": "https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg",
+   "kind": "representative",
+   "subject": "A children's vaccination centre in Malaysia",
+   "alt": "A Malaysian Ministry of Health vaccination centre set up for children, with a child-friendly 'I'm vaccinated' mural"
+  }
+ },
+ "healthcare/covid-19-pandemic-response-and-legacy": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/PWTC_vaccination_center_hall_May_2021.jpg",
+   "license": "CC0",
+   "by": "WPSamson",
+   "page": "https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg",
+   "kind": "actual",
+   "subject": "A COVID-19 mass vaccination centre in Malaysia",
+   "alt": "The hall of a large COVID-19 vaccination centre in Malaysia with rows of spaced seating and people queuing"
+  }
+ },
+ "healthcare/dental-care": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Yap_Dental_Clinic.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Chongkian",
+   "page": "https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg",
+   "kind": "actual",
+   "subject": "A dental clinic in Malaysia",
+   "alt": "Street-front of a Malaysian dental clinic, Klinik Pergigian Yap, with a signboard listing dental services"
+  }
+ },
+ "healthcare/diabetes-obesity-and-non-communicable-diseases": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg",
+   "kind": "representative",
+   "subject": "A rural Klinik Kesihatan in Sabah, Malaysia",
+   "alt": "Exterior of Klinik Kesihatan Sungai-Sungai, a rural Malaysian government health clinic, with Malaysian and Sabah flags and an ambulance"
+  }
+ },
+ "healthcare/disability-and-oku-healthcare-access": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Chongkian",
+   "page": "https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg",
+   "kind": "representative",
+   "subject": "A wheelchair accessibility lift at a Malaysian rehabilitation organisation",
+   "alt": "A platform wheelchair lift marked with an accessibility symbol at a disability rehabilitation centre in Johor, Malaysia"
+  }
+ },
+ "healthcare/emergencies-999": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Toyota_HiAce_%28MOH_Malaysia%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "DeltaSquad833",
+   "page": "https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg",
+   "kind": "actual",
+   "subject": "A Malaysian Ministry of Health ambulance marked 999",
+   "alt": "A Ministry of Health Malaysia ambulance on a highway, marked 'Ambulans' and the 999 emergency number"
+  }
+ },
+ "healthcare/from-clinic-to-specialist-referral": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kuala_Lumpur_Hospital.JPG",
+   "license": "CC BY-SA 4.0",
+   "by": "Chongkian",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG",
+   "kind": "representative",
+   "subject": "The Specialist Complex at Hospital Kuala Lumpur",
+   "alt": "Exterior of the Kompleks Pakar dan Rawatan Harian (Specialist and Day Care Complex) at Hospital Kuala Lumpur, with a red crescent"
+  }
+ },
+ "healthcare/halal-status-of-vaccines-and-medicines": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kluang_-_Big_Pharmacy_building_May_2024.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Dominic Nelson",
+   "page": "https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg",
+   "kind": "representative",
+   "subject": "A community pharmacy in Malaysia",
+   "alt": "A bright red heritage shophouse housing a Malaysian pharmacy (farmasi) on a town street corner"
+  }
+ },
+ "healthcare/having-a-baby-in-malaysia": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hospital_Bersalin%2C_Hospital_Kuala_Lumpur%2C_Kuala_Lumpur_20230427_125813.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg",
+   "kind": "representative",
+   "subject": "The maternity hospital at Hospital Kuala Lumpur",
+   "alt": "Exterior of the maternity block (Hospital Bersalin) of Hospital Kuala Lumpur, with the city skyline behind"
+  }
+ },
+ "healthcare/health-white-paper-and-system-reform": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg",
+   "kind": "representative",
+   "subject": "A Ministry of Health Malaysia building in Putrajaya",
+   "alt": "A modern glass-fronted Ministry of Health Malaysia building in Putrajaya draped with a large Malaysian flag"
+  }
+ },
+ "healthcare/healthcare-for-seniors": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Old_Folks_Home%2C_Taman_Eng_Ann_-_panoramio.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "Tony Ng",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg",
+   "kind": "representative",
+   "subject": "A senior citizens' care home in Malaysia",
+   "alt": "The gated entrance and building of a Malaysian old folks' home (Rumah Warga Emas)"
+  }
+ },
+ "healthcare/hiv-aids-and-sexual-health-services": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/HIV_Vaccine_Awareness_Ribbon_-_1.jpg",
+   "license": "CC BY 2.0",
+   "by": "NIAID",
+   "page": "https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg",
+   "kind": "representative",
+   "subject": "The red ribbon, the global symbol of HIV/AIDS awareness",
+   "alt": "A red awareness ribbon, the international symbol of HIV/AIDS awareness, on a plain white background"
+  }
+ },
+ "healthcare/how-malaysian-healthcare-works": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kuala_Lumpur_Hospital.JPG",
+   "license": "CC BY-SA 4.0",
+   "by": "Chongkian",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG",
+   "kind": "actual",
+   "subject": "Kuala Lumpur Hospital day-care and specialist complex",
+   "alt": "Exterior of the Kuala Lumpur Hospital specialist and day-treatment complex, a Malaysian government hospital, with red crescent emblem"
+  }
+ },
+ "healthcare/klinik-kesihatan": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Klinik_Kesihatan_Jalan_Lanang_main_building.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Cerevisae",
+   "page": "https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg",
+   "kind": "actual",
+   "subject": "Klinik Kesihatan Jalan Lanang, a Malaysian government health clinic",
+   "alt": "Entrance and signboard of Klinik Kesihatan Jalan Lanang, a Malaysian Ministry of Health community health clinic, with national and state flags"
+  }
+ },
+ "healthcare/medical-insurance": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wad_HSNI%2C_Batu_Pahat_20250204_211735.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg",
+   "kind": "representative",
+   "subject": "Hospital ward entrance in a Malaysian public hospital",
+   "alt": "Entrance gates to an inpatient ward at a Malaysian government hospital, a neutral medical-care setting"
+  }
+ },
+ "healthcare/medical-tourism": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Prince_Court_Medical_Centre.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Vano111ru",
+   "page": "https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg",
+   "kind": "actual",
+   "subject": "Prince Court Medical Centre, a Kuala Lumpur private hospital",
+   "alt": "Exterior of Prince Court Medical Centre in Kuala Lumpur, a leading Malaysian private hospital serving medical tourists"
+  }
+ },
+ "healthcare/mental-health-services": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/World_Mental_Health_Day.jpg",
+   "license": "CC BY 2.0",
+   "by": "Dr Partha Sarathi Sahana",
+   "page": "https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg",
+   "kind": "representative",
+   "subject": "Green-ribbon mental health awareness symbol",
+   "alt": "A World Mental Health Day poster with the green awareness ribbon and an end-the-stigma message, a respectful public-health symbol for mental health",
+   "position": "centre"
+  }
+ },
+ "healthcare/mysejahtera-and-digital-health-records": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg",
+   "license": "CC0",
+   "by": "Wiki Farazi",
+   "page": "https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg",
+   "kind": "actual",
+   "subject": "MySejahtera check-in signage in Malaysia",
+   "alt": "A printed MySejahtera check-in QR notice at a Malaysian store, part of Malaysia's digital health platform",
+   "position": "centre"
+  }
+ },
+ "healthcare/palliative-and-hospice-care": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Palliative_medicine_family_conference_room.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "Ashashyou",
+   "page": "https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg",
+   "kind": "representative",
+   "subject": "Palliative medicine family conference room sign",
+   "alt": "A hospital doorway sign reading Palliative Medicine Family Conference Room, a neutral and non-graphic depiction of palliative care",
+   "position": "centre"
+  }
+ },
+ "healthcare/peka-b40-and-health-schemes": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Cerevisae",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg",
+   "kind": "representative",
+   "subject": "Klinik Kesihatan Sibu Jaya serving the community",
+   "alt": "A modern Malaysian government health clinic with an outdoor waiting area, the kind of Klinik Kesihatan where B40 health-scheme screening is delivered"
+  }
+ },
+ "healthcare/public-healthcare-system-malaysia": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg",
+   "kind": "actual",
+   "subject": "Queen Elizabeth Hospital, Kota Kinabalu",
+   "alt": "Exterior view of Queen Elizabeth Hospital in Kota Kinabalu, a large Malaysian government hospital in the public healthcare system"
+  }
+ },
+ "healthcare/siddha-medicine": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Lekiyam.jpg",
+   "license": "CC BY-SA 4.0",
+   "by": "Chronikhiles",
+   "page": "https://commons.wikimedia.org/wiki/File:Lekiyam.jpg",
+   "kind": "representative",
+   "subject": "Lehyam, a traditional Siddha herbal preparation",
+   "alt": "A lehyam (lekiyam) herbal confection being prepared, a traditional medicine of the Siddha system"
+  }
+ },
+ "healthcare/smoking-and-vaping-law-act-852": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_Prohibition-signs-No-smoking-sign-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg",
+   "kind": "representative",
+   "subject": "Malaysian trilingual no-smoking sign",
+   "alt": "A no-smoking sign in Malay, Chinese and English (Dilarang Merokok / No Smoking) in Malaysia",
+   "position": "centre"
+  }
+ },
+ "healthcare/telemedicine-and-online-doctor-services": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Telemedicine_Consult.jpg",
+   "license": "CC BY-SA 2.0",
+   "by": "Intel Free Press",
+   "page": "https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg",
+   "kind": "representative",
+   "subject": "A clinician conducting a telemedicine consultation",
+   "alt": "A doctor at a telemedicine workstation reviewing a remote patient on a video screen alongside diagnostic monitors"
+  }
+ },
+ "healthcare/traditional-and-complementary-medicine": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ze_Xiang%2C_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg",
+   "license": "CC BY-SA 3.0",
+   "by": "Paul Ng",
+   "page": "https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg",
+   "kind": "representative",
+   "subject": "A Malaysian traditional-medicine shop",
+   "alt": "Shopfront signage of a Malaysian traditional-medicine and health shop, representing complementary and traditional medicine practice"
+  }
+ },
+ "healthcare/traditional-chinese-medicine-in-malaysia": {
+  "hero": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Traditional_Chinese_Medicine_Shop%2C_George_Town%2C_Penang.jpg",
+   "license": "CC BY 2.0",
+   "by": "OXLAEY.com",
+   "page": "https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg",
+   "kind": "actual",
+   "subject": "A traditional Chinese medicine hall in George Town, Penang",
+   "alt": "Inside a traditional Chinese medicine shop in George Town, Penang, with labelled herb drawers and dried medicinal herbs"
+  }
  }
 }

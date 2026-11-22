@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'Khối nhà học thuật của Kolej Matrikulasi Kelantan, một trường cao đẳng dự bị đại học của Malaysia cung cấp lộ trình dự bị đại học, dưới bầu trời xanh.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hai học sinh bước ra khỏi cùng một phòng thi SPM với kết quả gần như giống hệt nhau. Mười tám tháng sau, một người đang dự một kỳ thi của chính phủ được một hội đồng quốc gia chấm điểm. Một người khác đang ở trong một lớp học cao đẳng theo một giáo trình được ấn định ở Cambridge. Người thứ ba không bao giờ dự một kỳ thi quốc gia nào cả — toàn bộ điểm dự bị đại học của cô ấy được quyết định bởi đại học mà cô ấy đã ghi danh. Không ai trong số họ làm gì sai. Họ chỉ chọn những phòng khác nhau.

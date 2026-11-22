@@ -83,6 +83,13 @@ stayFacts:
   cost: 'MQR查询是免费的；但你可能指望的那种承认——专业执照、政府工作或出国深造——各自都可能需向其对应的机构另行查证。'
   watch: '认证所依附的是特定的课程与入学批次，而非院校本身——一所声誉良好的大学，仍可能开办某个新设、临时认证或尚未列册的课程。宣传册上「MQA-approved」的说法并不等于名册本身；请自行查证线上的实时记录，并留意临时认证地位是合法有效的，并非次人一等。'
   next: '在缴付任何订金之前，先于MQR上查询你确切的课程；若涉及受规管专业，向该专业机构确认毕业后的入会途径。参阅《缴付学院订金前》。'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: '石砌墙面上安装的名牌，上面有校徽和「UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia」字样。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 两名学生毕业时拿着名称听起来一样的文凭。其中一人有资格获得政府工作和硕士学位名额；另一人却被拒之门外。这个差别往往就在一份公开名册上的一行字：马来西亚学术资格鉴定机构是否认证了该课程。

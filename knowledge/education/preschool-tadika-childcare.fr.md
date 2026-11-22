@@ -71,6 +71,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'La façade du Tadika Al-Falah, une école maternelle malaisienne à Johor, avec un panneau de bienvenue et une fresque d''alphabet peinte le long du mur.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 De nombreux parents inscrivent leur enfant à la tadika du coin de la rue —

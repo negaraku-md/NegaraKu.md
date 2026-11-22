@@ -78,6 +78,13 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'Gerbang masuk biru SJK(C) Chun Yin, bertuliskan aksara Tionghoa dan "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN", menuju ke halaman sekolah.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pagi hari, di lapangan sebuah sekolah dasar Tionghoa terdengar suara Mandarin, Melayu, dan Inggris yang berbaur; beberapa negara bagian jauhnya, di aula sebuah sekolah menengah swasta Tionghoa (独中), para siswa sedang bersiap untuk UEC (统考) akhir tahun; sementara di Johor dan Penang, kolej universiti yang berkembang dari sistem pendidikan Tionghoa menyambut angkatan mahasiswa baru. Semua pemandangan ini tergolong dalam satu jalur yang sama — pendidikan Tionghoa di Malaysia — namun berada pada jenjang yang berbeda, dengan cara pendanaan dan pengaturan hukum yang berbeda.

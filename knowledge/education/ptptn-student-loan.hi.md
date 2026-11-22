@@ -66,6 +66,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "शिक्षा ऋण", "PTPTN पात्रता", "PTPTN चुकौती", "Act 566", "मलेशिया उच्च शिक्षा वित्तपोषण", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'यूनिवर्सिटी टेक्नोलॉजी मलेशिया कुआलालंपुर परिसर का प्रवेश-द्वार, जिसमें वाहन-मार्ग के ऊपर मेहराब पर UTM का प्रतीक-चिह्न है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कई छात्र अपने PTPTN प्रस्ताव दस्तावेज़ों पर एक ही धारणा के साथ हस्ताक्षर करते हैं: «यह मूल रूप से एक छात्रवृत्ति ही है, है न?» ऐसा नहीं है। और यही ग़लतफ़हमी अक्सर सबसे अधिक परेशानी का कारण बनती है — वर्षों बाद, जब स्नातक होने के बाद पहली चुकौती सूचना आती है।

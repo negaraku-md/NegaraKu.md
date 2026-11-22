@@ -72,6 +72,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'Los edificios bajos de techo rojo y el campo verde de una escuela primaria en Brickfields, Kuala Lumpur, con el perfil de rascacielos de KL Sentral al fondo.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tu hijo está matriculado en una escuela pública «gratuita» — y, aun así, el formulario del PIBG y una lista de pagos siguen llegando a tu puerta. Entonces, ¿qué hay que pagar exactamente y qué no?

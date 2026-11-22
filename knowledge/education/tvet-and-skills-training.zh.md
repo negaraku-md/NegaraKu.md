@@ -65,6 +65,13 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'Kolej Vokasional Sungai Buloh 的入口和招牌，这是一所马来西亚职业学院，提供技术与技能（TVET）培训。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 许多中三学生和他们的家长，往往以为中学毕业后只有一条路：SPM、STPM、学位。但这个国家实际上还运作着另一整套教育体系——有自己的机构、自己的证书、自己的法令——却很少被正确解释清楚：那就是 TVET，即技术与职业教育培训（Pendidikan dan Latihan Teknikal dan Vokasional）。

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'منظر جوّي لمدرسة سكولاه مننغه كبانجسان سكسيين 3 بندر كينرارا، يُظهر فناء المدرسة المربّع المحاط بكتل الفصول الدراسية وملعبًا رياضيًا وحيًّا سكنيًّا.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 بالنسبة لطفل ينشأ في ماليزيا، يحمل سؤال "أي مدرسة؟" معنى أكبر مما في كثير من البلدان. فهو جزئيًا عن المسافة والسمعة، كما في كل مكان — لكنه أيضًا اختيار بين مدرسة وطنية تدرّس أساسًا بلغة الملايو ومدرسة من النوع الوطني تدرّس بالصينية أو التاميلية. وكلتاهما جزء من النظام الحكومي نفسه، وتتبعان المنهج الوطني نفسه، وتؤديان إلى الامتحانات الوطنية نفسها. وفهم كيفية تلاؤم هذا النظام معًا هو الخطوة الأولى للتنقل فيه.

@@ -78,6 +78,13 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'Gerbang masuk biru SJK(C) Chun Yin, bertuliskan aksara Cina dan "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN", menuju ke kawasan sekolah.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada waktu pagi, di padang sebuah sekolah rendah Cina kedengaran suara dalam bahasa Mandarin, bahasa Melayu dan bahasa Inggeris yang berbaur; beberapa buah negeri jauhnya, di dewan sebuah sekolah menengah persendirian Cina (独中), pelajar sedang bersiap untuk Peperiksaan Bersama (统考／UEC) pada hujung tahun; manakala di Johor dan Pulau Pinang, kolej universiti yang berkembang daripada sistem pendidikan Cina menyambut kemasukan pelajar baharu. Semua pemandangan ini tergolong dalam satu jalur yang sama — pendidikan Cina di Malaysia — namun berada pada peringkat yang berbeza, dengan kaedah pembiayaan dan susunan undang-undang yang berlainan.

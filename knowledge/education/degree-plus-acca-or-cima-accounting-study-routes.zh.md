@@ -84,6 +84,13 @@ stayFacts:
   cost: '费用、考试科目数量，以及一个获认证学位所带来的豁免（exemption），都会随每一轮认证周期而变动，因此请自行向专业机构、培训提供者与大学汇总当前数字——切勿依赖某个报出的豁免科目数。'
   watch: '单凭ACCA或CIMA并不能使你成为马来西亚会计师——MIA会员资格才能，而取得会员资格的途径是专业资格加经验。豁免科目数是本主题中最易变动的单一事实；请按课程逐一查证。'
   next: '挑选其典型出路与你想从事的领域相符的专业机构，确认它目前确实通往MIA会员资格以及所需经验，再优化你的入门起点、修读方式与豁免。参阅《缴付学院订金前》。'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: '一座马来西亚大学的讲堂建筑群，标志上写着「KOMPLEKS DEWAN KULIAH」，旁边是栗红色的学术楼和一条有盖走廊。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 任何在思考如何于马来西亚成为会计师的人，都会一头撞进一堆英文缩写：**MIA、ACCA、CIMA、MICPA、ICAEW、CPA Australia、CA(M)、CGMA、QE。** 它看起来像一份让你必须从中挑选的、彼此竞争的资格菜单。更好的理解方式是：**一个终点，通往它的几条道路**——而一旦看清了终点，各种选择就会各就各位。

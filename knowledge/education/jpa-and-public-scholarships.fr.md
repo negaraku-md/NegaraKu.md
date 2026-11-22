@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'Des bâtiments de faculté modernes jaunes et gris d''un campus de l''UiTM à Rembau, une université publique malaisienne, avec des étudiants marchant le long de la voie du campus.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Obtenir 9A+ au SPM ne garantit pas automatiquement une bourse complète à l'étranger — car en Malaisie, le parrainage public ne tient pas seulement aux notes, mais aussi au programme auquel vous postulez, aux conditions de service associées, et à la politique qui régit chaque fonds. Comprendre cette carte des parrains importe, car le mauvais choix peut signifier des milliers de ringgit que vous devrez rembourser plus tard.

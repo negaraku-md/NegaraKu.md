@@ -71,6 +71,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'Front of Tadika Al-Falah, a Malaysian preschool in Johor, with a welcome sign and a painted alphabet mural along the wall.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Many parents enrol their child at the tadika down the road — submit the form, pay the fee, done. But the question rarely asked is: who is that tadika actually registered with? The answer is not a trivial matter. Depending on the child's age and the type of institution, it can fall under two entirely different ministries, with acts, regulations and enforcement methods that are not the same.

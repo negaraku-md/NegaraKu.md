@@ -83,6 +83,13 @@ stayFacts:
   cost: 'Carian MQR adalah percuma; pengiktirafan yang mungkin anda harapkan — lesen profesional, kerja kerajaan, atau pengajian di luar negara — masing-masing boleh memerlukan pengesahan berasingan dengan badannya sendiri.'
   watch: 'Akreditasi melekat pada program dan kemasukan tertentu, bukan institusi — universiti yang terkenal pun masih boleh menawarkan program baharu, provisional atau tidak tersenarai. Dakwaan ''diluluskan MQA'' dalam risalah bukanlah daftar itu; sahkan sendiri entri yang aktif, dan ambil perhatian bahawa status provisional adalah sah, bukan kelas kedua.'
   next: 'Semak program tepat anda dalam MQR sebelum membayar sebarang deposit; bagi profesion berkawal selia, sahkan laluan graduan dengan badan profesional berkenaan. Lihat panduan Sebelum membayar deposit kolej.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Papan nama dipasang pada dinding membawa jata dan perkataan "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" pada dinding bersalut batu.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dua orang pelajar bergraduat dengan diploma yang kedengaran sama. Seorang layak untuk pekerjaan kerajaan dan tempat pengajian sarjana; seorang lagi ditolak di pintu masuk. Perbezaannya sering kali terletak pada satu baris dalam daftar awam: sama ada Agensi Kelayakan Malaysia telah mengakreditasi program tersebut.

@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: '「PUSAT SUMBER PERMATAPINTAR」라고 적힌 건물의 외부 계단과 입구로, 말레이시아 국가 영재교육 프로그램(PERMATApintar)의 자료 센터이다.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 폼 5(중등 5학년) 수학을 풀어내는 만 10세 아동이 일반 학급에서 항상 두각을 나타내는 것은 아닙니다. 그리고 말레이시아에서 이런 지성을 발굴하고 연마하기 위해 설계된 유일한 국립 센터가 PERMATApintar입니다.

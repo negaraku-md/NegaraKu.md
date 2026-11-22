@@ -78,6 +78,13 @@ keywords:
   - "Unified Examination Certificate"
   - "قسم التعليم الخاص ماليزيا"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'المبنى الرئيسي لمدرسة بابار الإعدادية، وهي مدرسة ثانوية صينية مستقلّة في ولاية صباح، واسمها معروض بالصينية والإنجليزية على الواجهة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 اسأل أيّ وليّ أمر ماليزي عن معنى «المدرسة الخاصة»، فقد يقصد ثلاثة أشياء مختلفة تماماً: مدرسة برسوم تُجري المنهج نفسه الذي تُجريه المدرسة الحكومية في الحيّ ذاته، أو مدرسة دولية تُدرّس منهج كامبريدج أو البكالوريا الدولية (IB)، أو مدرسة ثانوية صينية مستقلة تُجري امتحاناً لم يسمع به كثيرون خارج مجتمع التعليم الصيني. واحدة فقط من هذه الثلاث تُجري امتحان SPM. وواحدة فقط تُجري امتحان UEC. والخلط بينها أسهل طريقة لإساءة تقدير خيارات الطفل عند سنّ 18.

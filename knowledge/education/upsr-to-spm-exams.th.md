@@ -75,6 +75,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'ภาพภายในหอประชุมโรงเรียน (dewan) ของ SMK Gajah Berang ในมาเลเซีย โดยนักเรียนนั่งเป็นแถวบนเก้าอี้หันหน้าเข้าหาเวที ซึ่งเป็นหอประชุมประเภทที่ใช้สำหรับการชุมนุมและการสอบสาธารณะ'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ถ้าบุตรของคุณตอนนี้อยู่ชั้นปีที่ 6 เขาจะไม่สอบ UPSR ถ้าเด็กคนนั้นอยู่ชั้นมัธยมปีที่ 3 ก็ไม่มี PT3 รออยู่ การสอบใหญ่ที่แต่ก่อนกำหนดเส้นทางการเรียนทั้งหมด — ที่พ่อแม่ของคุณเองอาจผ่านมาด้วยความเครียดเต็มที่ — หายไปแล้วตั้งแต่หลายปีก่อน แต่ผู้ปกครองจำนวนมากยังสับสน: อะไรมาแทนที่มัน มันจะถูกนำกลับมาหรือไม่ และอะไรกันแน่ที่เกิดขึ้นในโรงเรียนของบุตรตอนนี้ทุกวัน

@@ -62,6 +62,13 @@ relations:
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: '马来西亚一所中学 SMK Taman Universiti 特殊教育融合计划（PPKI）的教师和学生管理助理合影。'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 诊断只是第一场对话。第二场对话——往往更令人困惑——是你的孩子究竟会进入哪条学校途径，以及为什么 OKU 卡似乎比学校本身更早就变得重要。马来西亚的体系有三条公立途径、一套为这三条途径共同输送资格的独立残疾登记流程，以及一个私人与非政府组织治疗并行的世界，多数父母是靠口耳相传得知的，而不是靠任何单一的官方页面。

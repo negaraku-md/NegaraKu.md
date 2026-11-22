@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'Modernos edificios de facultad en amarillo y gris de un campus de la UiTM en Rembau, una universidad pública malasia, con estudiantes caminando por la vía del campus.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Obtener 9A+ en el SPM no garantiza automáticamente una beca completa en el extranjero — porque en Malasia, el patrocinio público no se trata solo de las notas, sino también de a qué programa se postula, las condiciones de servicio asociadas, y la política que rige cada fondo. Comprender este mapa de patrocinadores importa, porque la elección equivocada puede significar miles de ringgit que usted tenga que devolver más adelante.

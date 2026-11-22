@@ -67,6 +67,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'Tòa nhà nhiều tầng màu hồng của trường Sekolah Kebangsaan Kota Warisan ở Sepang, Selangor, với bảng tên trên mặt tiền và khuôn viên có hàng rào dọc theo con đường.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Nhiều cha mẹ ngạc nhiên khi phát hiện ra rằng họ không thể "đăng ký" con vào Khối 1 giống như cách họ đã đăng ký Lớp 1 trước đó. Không có biểu mẫu trực tuyến nào để tự điền, không có cổng nào để đăng nhập. Lý do đơn giản: hai bậc học công lập này sử dụng hai hệ thống hoàn toàn khác nhau, và nhầm lẫn cả hai là nguyên nhân phổ biến nhất khiến cha mẹ thắc mắc vì sao "không thấy đăng ký của con tôi đâu cả."

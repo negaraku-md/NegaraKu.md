@@ -92,6 +92,13 @@ stayFacts:
   cost: 'Las tasas las fija el MPM y son más altas para quienes no son ciudadanos y para la versión informatizada MUET on Demand, y cambian: confirma la tasa actual en el portal del MPM (mpm.edu.my) en lugar de fiarte de una cifra citada.'
   watch: 'No existe una única banda de aprobado: el mínimo varía según el programa y lo fija el Senado de cada universidad. Los resultados tienen una validez de cinco años, así que examinarse demasiado pronto puede hacer que caduquen antes de que solicites.'
   next: 'Comprueba la banda mínima de tu programa objetivo en la web de la universidad, inscríbete pronto a través del MPM y controla la validez de cinco años. Consulta Universidades públicas vs privadas.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Filas de estudiantes sentados en pupitres individuales realizando un examen en un salón universitario de Malasia, con un supervisor caminando entre los pasillos.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Puedes destacar en el STPM o en la matriculación, pero sin un resultado más tu formulario de solicitud de titulación sigue incompleto. Ese resultado es el MUET — y muchos estudiantes solo se dan cuenta de su importancia cuando la fecha límite de solicitud a la universidad ya está encima.

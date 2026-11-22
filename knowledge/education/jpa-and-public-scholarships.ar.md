@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["منحة JPA", "biasiswa JPA", "الرعاية الحكومية", "MARA", "مؤسسة خزانة", "Yayasan Khazanah", "PETRONAS PESP", "القرض القابل للتحويل", "pinjaman boleh ubah", "PTPTN", "المنح الدراسية الماليزية"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'مبانٍ كلّية حديثة بلونين أصفر ورمادي في حرم جامعة UiTM برمباو، وهي جامعة حكومية ماليزية، مع طلاب يسيرون على طريق الحرم.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 الحصول على 9A+ في امتحان SPM لا يضمن تلقائياً منحة كاملة للدراسة في الخارج — لأن الرعاية التعليمية الحكومية في ماليزيا ليست مسألة علامات فحسب، بل تتعلق أيضاً بالبرنامج الذي تتقدّم إليه، وشروط الخدمة المرتبطة به، والسياسة التي تحكم كل صندوق. إن فهم خريطة الجهات الراعية هذه أمر مهم، لأن الاختيار الخاطئ قد يعني آلاف الرينغيت التي يتعين عليك سدادها لاحقاً.

@@ -63,6 +63,13 @@ relations:
 related: []
 keywords: ["éducation spécialisée Malaisie", "programme PPKI", "éducation inclusive PPI", "carte OKU enfants", "sekolah pendidikan khas", "soutien aux troubles d'apprentissage Malaisie", "programme d'éducation spécialisée Malaisie", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'Portrait de groupe des enseignants et des assistants de gestion des élèves du programme d''intégration de l''éducation spécialisée (PPKI) dans une école secondaire malaisienne, la SMK Taman Universiti.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un diagnostic n'est que la première conversation. La seconde — souvent plus

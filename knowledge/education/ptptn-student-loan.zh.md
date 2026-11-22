@@ -66,6 +66,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: '马来西亚工艺大学吉隆坡校区（Universiti Teknologi Malaysia Kuala Lumpur）的入口门楼，车道上方的拱门有 UTM 校徽。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 许多学生在签署 PTPTN 献议文件时，都抱持同一个假设：「这不就像奖学金吗？」

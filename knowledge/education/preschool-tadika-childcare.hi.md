@@ -71,6 +71,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "taska पंजीकरण", "निजी tadika"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'जोहोर में एक मलेशियाई पूर्व-विद्यालय, तादिका अल-फ़लाह का अग्रभाग, जिसमें स्वागत-चिह्न और दीवार पर चित्रित वर्णमाला भित्ति-चित्र है।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कई अभिभावक अपने बच्चे को पास की tadika में भर्ती करा देते हैं — फ़ॉर्म जमा करें, शुल्क दें, हो गया। पर जो प्रश्न शायद ही कभी पूछा जाता है वह है: वह tadika वास्तव में किसके साथ पंजीकृत है? उत्तर कोई तुच्छ बात नहीं है। बच्चे की आयु और संस्थान के प्रकार के आधार पर, यह दो पूरी तरह भिन्न मंत्रालयों के अधीन आ सकती है, जिनके अधिनियम, विनियम और प्रवर्तन के तरीके एक समान नहीं हैं।

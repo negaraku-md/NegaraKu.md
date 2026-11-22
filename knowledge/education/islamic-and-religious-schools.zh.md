@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: '一列身穿蓝色 baju kurung 和黑色头巾的学生走进马来西亚宗教中学 Sekolah Menengah Agama Al-Maarif，经过椰子树。'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚，一名孩子可能上午在国民学校度过，下午在清真寺的 KAFA 课程上课，青少年时期则在达菲兹（Tahfiz）宿舍里度过——这是三个由不同监管者、不同课程与不同法律管辖的教育环境。伊斯兰宗教教育各类型与国家教育体系并行运作，但它并非单一的整体。理解谁注册什么、谁对什么负责，是公正解读有关此话题公共辩论的关键。

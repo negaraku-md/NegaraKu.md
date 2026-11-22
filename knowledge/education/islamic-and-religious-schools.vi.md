@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'Một hàng học sinh mặc baju kurung màu xanh và khăn trùm đầu màu đen đi vào trường Sekolah Menengah Agama Al-Maarif, một trường trung học tôn giáo Malaysia, ngang qua những cây dừa.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một đứa trẻ ở Malaysia có thể dành buổi sáng ở trường quốc gia, buổi chiều ở lớp KAFA của nhà thờ Hồi giáo, và những năm thiếu niên ở ký túc xá tahfiz — ba môi trường giáo dục với người giám sát, chương trình và luật lệ khác nhau. Nhánh giáo dục tôn giáo Hồi giáo vận hành song song với hệ thống quốc gia, nhưng nó không phải là một khối đơn nhất. Hiểu ai đăng ký cái gì, và ai chịu trách nhiệm về cái gì, là chìa khóa để đọc các cuộc tranh luận công khai về chủ đề này một cách công bằng.

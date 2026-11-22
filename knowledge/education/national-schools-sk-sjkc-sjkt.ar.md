@@ -68,6 +68,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["المدرسة الوطنية", "SJKC", "SJKT", "sekolah jenis kebangsaan", "لغة التدريس", "KPM", "KSSR", "المدارس الابتدائية الماليزية"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'مبنى من طابق واحد لمدرسة سكولاه كبانجسان تونغكو، وهي مدرسة ابتدائية وطنية ماليزية في ولاية صباح، يرفرف عليها العلم الماليزي، وشعار المدرسة مرسوم على جدارها.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في كل عام، حين تُفتح فترة التسجيل، يفتح أولياء الأمور في أنحاء ماليزيا بوابة idMe التابعة لوزارة التعليم الماليزية (KPM) لتسجيل أبنائهم في السنة الأولى. وأحد أول الخيارات التي عليهم اتخاذها: SK أم SJKC أم SJKT؟

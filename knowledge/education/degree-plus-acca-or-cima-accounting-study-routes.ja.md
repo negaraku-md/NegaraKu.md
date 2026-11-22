@@ -84,6 +84,13 @@ stayFacts:
   cost: '費用、試験の科目数、認証を受けた学位に付与される免除の数は、いずれも認証サイクルごとに変わる。そのため、現在の数字は専門職団体、受験対策の教育機関、大学のそれぞれから自分で集計すること——どこかで示された免除の数に頼ってはならない。'
   watch: 'ACCAやCIMAそれ自体では、マレーシアの会計士にはなれない——会計士となるのはMIAの会員資格によってであり、資格＋実務経験がそこに至るルートである。免除の数は、このテーマの中で最も変わりやすい事実であるため、課程ごとに確認すること。'
   next: '自分が働きたい場所に、その典型的な進路が合致する団体を選び、それが現在MIAの会員資格につながること、そしてどのような実務経験が求められるかを確認したうえで、入口、学習形態、免除を最適化すること。詳しくは「カレッジの保証金を払う前に」を参照のこと。'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'マレーシアの大学の講義棟群で、「KOMPLEKS DEWAN KULIAH」と書かれた看板のそばに、えび茶色の校舎と屋根付きの通路がある。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアで会計士になる方法を考える人は、誰もがアルファベットの羅列にぶつかります——**MIA、ACCA、CIMA、MICPA、ICAEW、CPA Australia、CA(M)、CGMA、QE。** それは、どれかを選ばねばならない競合資格のメニューに見えます。しかし実は、**一つのゴールと、そこへ至るいくつかの道**と捉えたほうがよいのです——そしてゴールが見えれば、選択は自ずと定まります。

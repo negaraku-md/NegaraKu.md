@@ -85,6 +85,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'Bangunan fakulti moden berwarna kuning dan kelabu sebuah kampus UiTM di Rembau, sebuah universiti awam Malaysia, dengan pelajar berjalan di sepanjang jalan kampus.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dapat 9A+ dalam SPM belum tentu menjamin sekeping biasiswa penuh ke luar negara — kerana di Malaysia, penajaan awam bukan hanya soal markah, tetapi juga soal skim mana yang anda mohon, syarat perkhidmatan yang diikat, dan dasar yang mentadbir setiap dana. Memahami peta penaja ini penting kerana pilihan yang salah boleh bermakna beribu ringgit yang perlu dibayar balik kelak.

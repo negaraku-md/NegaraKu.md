@@ -79,6 +79,13 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'ஜொகூரில் உள்ள தமிழ்வழி மலேசியத் தேசிய வகைத் தொடக்கப் பள்ளியான சேகோலா ஜெனிஸ் கெபாங்சான் (தமிழ்) சேரி பிளாங்கியின் வாயிலும் பல மாடிக் கட்டிடமும்.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் எந்த மூலையிலும் — ஒரு பழைய ரப்பர்த் தோட்டத்தின் ஓரத்திலோ, நகரத்தின்

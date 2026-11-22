@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'อาคารคณะสีเหลืองและเทาสมัยใหม่ของวิทยาเขต UiTM ในเริมเบา รัฐเนอเกอรีเซิมบีลัน โดยมีนักศึกษาเดินไปตามถนนในวิทยาเขต'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 การได้ 9A+ ใน SPM ไม่ได้รับประกันทุนเต็มจำนวนไปเรียนต่อต่างประเทศเสมอไป — เพราะในมาเลเซีย การอุปถัมภ์ภาครัฐไม่ได้เป็นเพียงเรื่องของคะแนน แต่ยังเป็นเรื่องของโครงการที่คุณสมัคร เงื่อนไขการรับราชการที่ผูกพัน และนโยบายที่กำกับแต่ละกองทุน การเข้าใจแผนที่ผู้อุปถัมภ์นี้สำคัญ เพราะการเลือกผิดอาจหมายถึงเงินหลายพันริงกิตที่ต้องชำระคืนในภายหลัง

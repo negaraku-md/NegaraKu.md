@@ -65,6 +65,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'Pintu gerbang masuk kampus Universiti Teknologi Malaysia Kuala Lumpur, dengan lambang UTM pada gerbang lengkung di atas jalan masuk.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ramai pelajar menandatangani dokumen tawaran PTPTN dengan andaian yang sama:

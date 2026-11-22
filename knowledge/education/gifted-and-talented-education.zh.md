@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: '一栋刻有「PUSAT SUMBER PERMATAPINTAR」字样的建筑外部楼梯和入口，这是马来西亚国家资优教育计划（PERMATApintar）的资源中心。'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一个能解出中五数学的10岁孩子，在普通课堂里未必能崭露头角——而在马来西亚，唯一为发掘和磨砺这类心智而设的国家中心，就是PERMATApintar。

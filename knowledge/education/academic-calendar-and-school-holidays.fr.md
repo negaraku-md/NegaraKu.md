@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'Un bâtiment moderne d''école primaire nationale malaisienne de trois étages avec un porche couvert et des voitures garées à l''extérieur sous un ciel bleu dégagé.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Planifiez un voyage en famille pour le début de l'année, et vous remarquez vite une chose : votre voisin au Kelantan commence l'école un jour plus tôt que votre enfant au Selangor. Ce n'est pas une erreur : c'est ainsi qu'est conçu le calendrier scolaire de la Malaisie.

@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'อาคารโรงเรียนประถมแห่งชาติมาเลเซียสามชั้นสมัยใหม่ที่มีระเบียงมีหลังคา โดยมีรถจอดอยู่ด้านนอกใต้ท้องฟ้าสีครามแจ่มใส'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 วางแผนพักผ่อนกับครอบครัวช่วงต้นปี แล้วคุณจะสังเกตเห็นสิ่งหนึ่งอย่างรวดเร็ว: เพื่อนบ้านที่กลันตันเปิดเรียนเร็วกว่าลูกของคุณที่สลังงอร์หนึ่งวัน นั่นไม่ใช่ความผิดพลาด — แต่เป็นวิธีที่ปฏิทินการศึกษาของมาเลเซียถูกออกแบบมา

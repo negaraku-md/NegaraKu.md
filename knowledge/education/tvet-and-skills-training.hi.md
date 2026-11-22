@@ -66,6 +66,13 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'कोलेज वोकेशनल सुंगाई बुलोह का प्रवेश-द्वार और नाम-पट्ट, जो तकनीकी और कौशल (TVET) प्रशिक्षण के लिए एक मलेशियाई व्यावसायिक महाविद्यालय है।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कई फॉर्म 3 छात्र और उनके माता-पिता माध्यमिक विद्यालय के बाद केवल एक रास्ता देखते हैं: SPM, STPM, एक डिग्री। पर देश वास्तव में एक पूरी दूसरी शिक्षा प्रणाली चलाता है — अपने स्वयं के संस्थानों, अपने स्वयं के प्रमाणपत्रों और अपने स्वयं के कानूनों के साथ — जिसे शायद ही कभी ठीक से समझाया जाता है: TVET, या तकनीकी और व्यावसायिक शिक्षा एवं प्रशिक्षण।

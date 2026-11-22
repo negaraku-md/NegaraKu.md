@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'La escalera exterior y la entrada de un edificio con la inscripción "PUSAT SUMBER PERMATAPINTAR", el centro de recursos del programa nacional de educación para superdotados de Malasia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un niño de 10 años capaz de resolver matemáticas de Form Five no siempre destaca en un aula ordinaria — y en Malasia, el único centro nacional diseñado para encontrar y cultivar mentes como estas es PERMATApintar.

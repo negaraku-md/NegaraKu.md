@@ -80,6 +80,13 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "एकीकृत परीक्षा प्रमाणपत्र", "Dong Zong", "चीनी निजी माध्यमिक विद्यालय", "UEC मान्यता", "IPTA", "राष्ट्रभाषा"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'तवाउ में सबाह चीनी उच्च विद्यालय (सेकोलाह तिंगगी सीना सबाह) का प्रवेश नाम-पट्ट और परिसर, जो एक चीनी स्वतंत्र उच्च विद्यालय है जिसके विद्यार्थी एकीकृत परीक्षा प्रमाणपत्र की परीक्षा देते हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 तीन अक्षर — UEC — मलेशिया की शिक्षा-राजनीति में आधी सदी से भी अधिक समय से चली आ रही एक बहस को भड़काने के लिए पर्याप्त हैं। कुछ के लिए यह एक अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रमाणपत्र है जो दुनिया के अग्रणी विश्वविद्यालयों का द्वार खोलता है; दूसरों के लिए यह राष्ट्रभाषा की प्रतिष्ठा और देश की शिक्षा-नीति को छूता है। दोनों दृष्टिकोण साथ-साथ मौजूद हैं, और पूरी तस्वीर देखने के लिए दोनों को समझना आवश्यक है।

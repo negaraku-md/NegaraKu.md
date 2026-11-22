@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: '屋根付きの車寄せを備えた近代的な三階建てのマレーシア国民小学校の校舎で、晴れた青空の下、校外に車が駐車している。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 年初に家族旅行を計画すると、すぐにあることに気づくだろう。クランタン州の隣人の子どもは、セランゴール州のあなたの子どもより1日早く新学期を迎える。これは間違いではない——マレーシアの学年暦はそのように設計されているのだ。

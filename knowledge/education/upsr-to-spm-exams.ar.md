@@ -75,6 +75,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["إلغاء UPSR", "إلغاء PT3", "التقييم الصفّي", "Pentaksiran Bilik Darjah", "PBD ماليزيا", "SPM ماليزيا", "مصفوفة التعلُّم الماليزية", "Matriks Pembelajaran Malaysia", "مجلس الامتحانات", "Lembaga Peperiksaan", "امتحانات المدارس في ماليزيا", "PBS ماليزيا"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'منظر داخل قاعة مدرسة SMK غاجاه بيرانغ في ماليزيا، حيث يجلس الطلاب في صفوف من الكراسي في مواجهة المنصّة، وهي من نوع القاعات المستخدمة للتجمّعات والامتحانات العامة.'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 إن كان طفلك الآن في السنة السادسة، فلن يؤدّي امتحان UPSR. وإن كان ذلك الطفل في الصف الثالث الثانوي، فلا ينتظره امتحان PT3. فالامتحانات الكبرى التي كانت تحدّد يومًا مسار الطالب الدراسي بأكمله — وهي نفسها التي ربما خاضها والداك تحت ضغط ثقيل — اختفت منذ عدّة سنوات. غير أن كثيرًا من أولياء الأمور لا يزالون في حيرة: ما الذي حلّ محلّها؟ وهل ستُعاد؟ وما الذي يحدث فعلًا في مدرسة أبنائهم كل يوم الآن؟

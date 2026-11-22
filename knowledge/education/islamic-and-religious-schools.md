@@ -73,6 +73,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'Sebaris pelajar bertudung hitam dan berbaju kurung biru berjalan masuk ke Sekolah Menengah Agama Al-Maarif, sebuah sekolah menengah agama Malaysia, melepasi pokok kelapa.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seorang kanak-kanak di Malaysia boleh menghabiskan pagi di sekolah kebangsaan, petang di kelas KAFA masjid, dan tahun-tahun remajanya di asrama tahfiz — tiga persekitaran pendidikan yang berlainan penyelia, kurikulum dan undang-undang. Aliran pendidikan agama Islam berjalan selari dengan sistem kebangsaan, tetapi ia bukan satu blok tunggal. Memahami siapa mendaftar apa, dan siapa bertanggungjawab atas apa, ialah kunci untuk membaca perbahasan awam tentang topik ini secara adil.

@@ -89,6 +89,13 @@ relations:
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: 'A group of smiling Malaysian secondary-school students posing together in their school uniforms, including white shirts, headscarves and house tracksuits.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ask three Malaysians to describe "the education system" and you'll get three different maps. One talks about SK versus SJKC. Another talks about STPM versus matriculation. A third mentions an SKM certificate that nobody outside technical training has heard of. All three are describing the same system — just from different branches of it.

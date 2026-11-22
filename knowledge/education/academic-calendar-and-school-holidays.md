@@ -72,6 +72,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'Bangunan sekolah kebangsaan rendah Malaysia tiga tingkat yang moden dengan anjung berbumbung dan kereta diletakkan di luar di bawah langit biru cerah.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Rancang percutian keluarga awal tahun, dan anda cepat sedar satu perkara: jiran di Kelantan buka sekolah sehari lebih awal daripada anak anda di Selangor. Itu bukan kesilapan — itu cara takwim persekolahan Malaysia direka.

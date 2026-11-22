@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: '森美兰州仁保（Rembau）一所 UiTM 校区的现代黄灰色院系楼，学生沿着校园道路行走。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在SPM考获9A+并不一定能保证获得一份海外全额奖学金——因为在马来西亚，公共赞助不仅关乎分数，还关乎你申请的是哪项计划、所绑定的服务条件，以及管理每项基金的政策。理解这张赞助方地图非常重要，因为错误的选择可能意味着日后需要偿还数千令吉。

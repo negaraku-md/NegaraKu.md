@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'நீல நிற பாஜு குருங் உடையிலும் கருப்பு தலையணிகளிலும் உள்ள மாணவர்களின் வரிசை, தென்னை மரங்களைக் கடந்து, மலேசிய மதசார்பு இடைநிலைப் பள்ளியான சேகோலா மெனெங்கா அகாமா அல்-மாரிஃப் பள்ளிக்குள் நடந்து செல்கிறது.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் ஒரு குழந்தை காலையை தேசியப் பள்ளியிலும், மதியத்தை பள்ளிவாசல் KAFA வகுப்பிலும், தனது இளமைப் பருவ ஆண்டுகளை தஹ்ஃபீஸ் விடுதியிலும் கழிக்கலாம் — வெவ்வேறு மேற்பார்வையாளர்கள், பாடத்திட்டங்கள் மற்றும் சட்டங்களைக் கொண்ட மூன்று வேறுபட்ட கல்விச் சூழல்கள். இஸ்லாமிய மதக் கல்விப் பிரிவு தேசிய அமைப்புக்கு இணையாக இயங்குகிறது, ஆனால் அது ஒரு ஒற்றைத் தொகுதி அல்ல. யார் எதைப் பதிவு செய்கிறார்கள், யார் எதற்குப் பொறுப்பு என்பதைப் புரிந்துகொள்வது இந்தத் தலைப்பு குறித்த பொது விவாதத்தை நியாயமாக வாசிப்பதற்கான திறவுகோலாகும்.

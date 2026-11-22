@@ -94,6 +94,13 @@ stayFacts:
   cost: '보증금은 일부일 뿐입니다 — 1년 차만이 아니라 프로그램 전체 기간에 대한 완전한 서면 학비 명세(등록비, 학기별 등록금, 교재비, 시험비, 보험료, 유학생 비용)를 요청하고, 보증금이 무엇에 충당되는지 확인하십시오.'
   watch: '보증금은 환불되지 않는 경우가 많고, 국가 차원의 법정 철회 기간(cooling-off) 권리가 없습니다 — 돌려받을 수 있는 금액은 교육기관 자체의 서면 정책이 정합니다. ''3학년 편입 보장''은 현지 칼리지가 아니라 제휴 대학의 결정이니, 서면으로 받아 두십시오.'
   next: '교육기관에 대한 모든 확인 항목을 서면으로 남기고 답변을 보관한 뒤에야 돈을 송금하십시오. 그 전에 먼저 MQR에서 정확한 프로그램을 확인하십시오. MQA 인증 해설 글을 참고하십시오.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: '황혼 무렵 호수에 비친 테일러스 대학교(Taylor''s University) 레이크사이드 캠퍼스의 타워들로, 본관에 빨간색 「TAYLOR''S UNI」 간판이 있다.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 예치금은 보통 가정이 대학에 처음으로 건네는 돈이며, 일단 내고 나면

@@ -89,6 +89,13 @@ relations:
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: '白いシャツ、ヘッドスカーフ、ハウスのジャージなど、制服姿で一緒に写真に収まる笑顔のマレーシアの中学生たち。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシア人を3人つかまえて「教育制度」について説明してもらうと、3通りの異なる地図が返ってくるだろう。ある人はSKとSJKCの違いについて語る。別の人はSTPMとマトリキュレーションの違いについて語る。3人目は、技術教育の世界の外では誰も聞いたことのないSKM証明書について触れる。3人とも同じ制度について語っているのだが、それぞれ異なる枝から見ているにすぎない。

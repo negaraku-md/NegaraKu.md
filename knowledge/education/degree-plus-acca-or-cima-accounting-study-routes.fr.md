@@ -84,6 +84,13 @@ stayFacts:
   cost: 'Les frais, le nombre d''examens et les dispenses que confère une licence accréditée évoluent tous à chaque cycle d''accréditation ; faites donc vous-même le total des montants actuels auprès de l''organisme, du prestataire de formation et de l''université — ne vous fiez jamais à un nombre de dispenses annoncé.'
   watch: 'L''ACCA ou le CIMA à eux seuls ne font pas de vous un comptable malaisien — c''est l''adhésion au MIA qui le fait, et la qualification assortie d''une expérience en est la voie. Le nombre de dispenses est le fait le plus variable du sujet ; vérifiez-le programme par programme.'
   next: 'Choisissez l''organisme dont la destination habituelle correspond à l''endroit où vous souhaitez travailler, confirmez qu''il mène actuellement à l''adhésion au MIA et quelle expérience est requise, puis optimisez votre point d''entrée, votre mode d''études et vos dispenses. Voir Avant de payer un acompte à un collège.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'Un complexe d''amphithéâtres d''une université malaisienne avec un panneau indiquant "KOMPLEKS DEWAN KULIAH" à côté de bâtiments universitaires bordeaux et d''une allée couverte.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Toute personne qui décide comment devenir comptable en Malaisie se heurte d'emblée à une soupe d'acronymes : **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Cela ressemble à un menu de qualifications concurrentes entre lesquelles il faudrait trancher. Il vaut mieux y voir **une seule destination avec plusieurs routes qui y mènent** — et une fois la destination en vue, les choix se mettent en place.

@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: '푸른 하늘 아래 대학 예비 과정을 제공하는 말레이시아 예과 대학 Kolej Matrikulasi Kelantan의 학술 건물.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 두 학생이 거의 동일한 성적으로 같은 SPM 시험장을 나섭니다. 18개월 후, 한 명은 국가 위원회가 채점하는 정부 시험을 치르고 있습니다. 다른 한 명은 케임브리지에서 정한 교과과정을 따르는 칼리지 교실 안에 있습니다. 세 번째 학생은 국가 시험을 아예 치르지 않습니다 — 그의 대학 예비 성적 전체가 이미 등록한 대학교에 의해 결정됩니다. 이들 중 누구도 잘못한 것이 없습니다. 단지 서로 다른 방을 골랐을 뿐입니다.

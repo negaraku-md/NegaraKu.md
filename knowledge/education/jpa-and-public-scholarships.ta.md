@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'ரெம்பாவ்வில் உள்ள UiTM வளாகத்தின் நவீன மஞ்சள்-சாம்பல் நிற பீடக் கட்டிடங்கள், இது ஒரு மலேசிய பொதுப் பல்கலைக்கழகம், மாணவர்கள் வளாகச் சாலையில் நடந்து செல்கின்றனர்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 SPM தேர்வில் 9A+ பெறுவது வெளிநாட்டு முழு புலமைப்பரிசிலைத் தானாகவே உறுதிசெய்யாது — ஏனெனில் மலேசியாவில், பொது நிதியுதவி என்பது வெறும் மதிப்பெண்களைப் பற்றியது மட்டுமல்ல, நீங்கள் எந்த திட்டத்திற்கு விண்ணப்பிக்கிறீர்கள், அதனுடன் இணைக்கப்பட்ட சேவை நிபந்தனைகள், மற்றும் ஒவ்வொரு நிதியையும் நிர்வகிக்கும் கொள்கை ஆகியவற்றைப் பற்றியதும் ஆகும். இந்த நிதியுதவியாளர்களின் வரைபடத்தைப் புரிந்துகொள்வது முக்கியம், ஏனெனில் தவறான தேர்வு பிற்காலத்தில் திருப்பிச் செலுத்த வேண்டிய ஆயிரக்கணக்கான ரிங்கிட்டைக் குறிக்கலாம்.

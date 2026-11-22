@@ -83,6 +83,13 @@ stayFacts:
   cost: 'MQRの検索は無料である。あなたが当てにしているかもしれない承認——専門職の免許、公務員職、または海外留学——は、それぞれ独自の機関に別途確認が必要となる場合がある。'
   watch: '認証は、機関にではなく、特定の課程と入学時期に紐づく——評判の良い大学であっても、新設の、暫定的な、あるいは未掲載の課程を抱えていることがある。パンフレットの「MQA認可済み」という記載は登録簿そのものではないため、登録簿の実際の登録内容を自分で確認すること。また、暫定認証という状態は正当なものであり、二流を意味するものではないことに留意すること。'
   next: '保証金を払う前に、MQRで自分の正確な課程を調べること。規制対象の専門職については、卒業後の進路（資格取得ルート）をその専門職団体に確認すること。詳しくは「カレッジの保証金を払う前に」を参照のこと。'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: '石張りの壁に取り付けられた銘板で、紋章と「UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia」の文字が記されている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 同じような名称のディプロマを手に、二人の学生が卒業する。一人は政府の職と修士課程への進学資格を得るが、もう一人は門前払いされる。その違いは、公開名簿のたった一行——マレーシア資格機構がそのプログラムを認定していたかどうか——であることが多い。

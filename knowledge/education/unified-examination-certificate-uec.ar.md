@@ -80,6 +80,13 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "شهادة الامتحان الموحَّد", "Dong Zong", "المدارس الثانوية الصينية الخاصة", "الاعتراف بـ UEC", "IPTA", "اللغة الوطنية"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'لافتة مدخل وساحة مدرسة صباح الصينية الثانوية (سكولاه تينغي تشينا صباح) في تاواو، وهي مدرسة ثانوية صينية مستقلّة من النوع الذي يؤدّي طلابه امتحان شهادة الامتحان الموحّد.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ثلاثة أحرف — UEC — تكفي لإشعال جدل استمرّ أكثر من نصف قرن في سياسات التعليم الماليزية. فهي لدى البعض شهادة معترَف بها دوليًا تفتح الباب إلى كبريات جامعات العالم؛ وهي لدى آخرين تمسّ مكانة اللغة الوطنية وسياسة البلاد التعليمية. وكلا الرأيين قائم جنبًا إلى جنب، وكلاهما لازمٌ لفهم الصورة كاملة.

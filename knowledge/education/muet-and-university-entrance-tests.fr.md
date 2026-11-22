@@ -92,6 +92,13 @@ stayFacts:
   cost: 'Les frais sont fixés par le MPM et sont plus élevés pour les non-citoyens et pour la version informatisée MUET on Demand, et ils évoluent — confirmez le tarif en vigueur sur le portail du MPM (mpm.edu.my) plutôt que de vous fier à un chiffre annoncé.'
   watch: 'Il n''existe pas de bande de réussite unique — le minimum varie selon le programme et est fixé par le Sénat de chaque université. Les résultats sont valables cinq ans ; passer l''examen trop tôt peut donc faire qu''ils expirent avant votre candidature.'
   next: 'Vérifiez la bande minimale du programme visé sur le site de l''université, inscrivez-vous tôt auprès du MPM, et surveillez la validité de cinq ans. Voir Universités publiques vs privées.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Des rangées d''étudiants assis à des pupitres individuels passant un examen dans une salle universitaire de Malaisie, avec un surveillant marchant entre les allées.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vous pouvez exceller au STPM ou en matriculation, mais sans un résultat de plus, votre dossier de candidature en licence reste incomplet. Ce résultat, c'est le MUET — et de nombreux étudiants n'en mesurent l'importance que lorsque la date limite de candidature à l'université approche déjà.

@@ -68,6 +68,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'Tòa nhà một tầng của trường Sekolah Kebangsaan Tungku, một trường tiểu học quốc gia Malaysia ở Sabah, treo cờ Malaysia, với phương châm nhà trường vẽ trên tường.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi năm, khi thời gian đăng ký mở ra, các cha mẹ trên khắp Malaysia mở cổng idMe của Bộ Giáo dục Malaysia (KPM) để đăng ký con vào Lớp 1. Một trong những lựa chọn đầu tiên phải đưa ra: SK, SJKC hay SJKT?

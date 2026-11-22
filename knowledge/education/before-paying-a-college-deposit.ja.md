@@ -94,6 +94,13 @@ stayFacts:
   cost: '保証金は全体のごく一部にすぎない——1年目分だけでなく、課程全体にわたる完全な学費明細書（登録料、学期ごとの授業料、設備費、試験料、保険料、外国人学生向け費用）を書面で求め、その保証金が何に充当されるのかを確認すること。'
   watch: '保証金はしばしば返金不可であり、全国的な法定のクーリングオフの権利は存在しない——取り戻せる金額は、機関自身が定める書面上の方針によって決まる。「3年次への編入を保証」というのは、現地のカレッジではなく提携先の大学が決めることである——必ず書面で取り付けること。'
   next: '口座から金銭が出ていく前に、機関へのすべての確認事項を書面で行い、その回答を保管しておくこと。まずはMQRで正確な課程を確認すること。詳しくはMQA認証の解説記事を参照のこと。'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: '夕暮れ時、湖に映るテイラーズ大学（Taylor''s University）レイクサイド・キャンパスの高層棟で、本館には赤い「TAYLOR''S UNI」の看板がある。'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 入学金（デポジット）は通常、家庭が大学に手渡す最初のお金であり、そして一度

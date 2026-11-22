@@ -65,6 +65,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'スランゴール州セパンの Sekolah Kebangsaan Kota Warisan のピンク色の多層階校舎で、正面に校名の看板があり、道路沿いにフェンスで囲まれた敷地がある。'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 多くの保護者は、かつてTahun 1を登録したときのように、Tingkatan 1への子どもの「登録」ができないことに驚く。自分で記入するオンライン申請書もなければ、ログインするポータルもない。理由は単純だ。この二つの公立教育段階は、まったく異なる二つのシステムを使っており、両者を混同することこそが、保護者が「うちの子の登録が見当たらない」と首をかしげる最も一般的な原因なのである。

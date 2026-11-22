@@ -63,6 +63,13 @@ relations:
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'Potret kelompok para guru dan asisten pengelolaan murid Program Pendidikan Khusus Integrasi (PPKI) di sebuah sekolah menengah Malaysia, SMK Taman Universiti.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Diagnosis hanyalah percakapan pertama. Percakapan kedua — sering kali lebih membingungkan — adalah jalur sekolah mana yang sebenarnya dimasuki anak Anda, dan mengapa kartu OKU tampaknya penting sebelum sekolah itu sendiri. Sistem Malaysia memiliki tiga jalur publik, satu proses pendaftaran disabilitas yang terpisah yang menyalurkan ke ketiganya, dan satu dunia paralel terapi swasta dan NGO yang kebanyakan orang tua temukan dari mulut ke mulut dan bukan dari satu laman resmi tunggal mana pun.

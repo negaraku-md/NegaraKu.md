@@ -69,6 +69,13 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'Pintu gerbang utama berlengkung putih Universiti Malaya di Kuala Lumpur, bertuliskan "UNIVERSITI MALAYA" dengan jata universiti, merentangi jalan masuk kampus.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sampul itu dibuka dan soalan sebenar tiba bersamanya. Bukan *bagaimana keputusan

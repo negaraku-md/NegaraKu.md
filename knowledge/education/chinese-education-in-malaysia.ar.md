@@ -78,6 +78,13 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'بوابة المدخل المقوّسة الزرقاء لمدرسة SJK(C) تشون يين، مكتوب عليها بالأحرف الصينية و"SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN"، تؤدّي إلى ساحة المدرسة.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في الصباح الباكر، يتردد في فناء إحدى المدارس الابتدائية الصينية صوت يتداخل فيه الماندرين والملايوية والإنجليزية؛ وعلى بُعد عدة ولايات، في قاعة إحدى المدارس الثانوية الصينية المستقلة (独中)، يستعد الطلاب لامتحان UEC (统考) في نهاية العام؛ أما في جوهور وبينانغ فتستقبل كليات جامعية نشأت من منظومة التعليم الصيني دفعة جديدة من الطلاب. تنتمي هذه المشاهد جميعاً إلى مسار واحد — التعليم الصيني في ماليزيا — غير أنها تتوزع على مستويات مختلفة، وتخضع لطرائق تمويل وترتيبات قانونية متباينة.

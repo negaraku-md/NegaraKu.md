@@ -67,6 +67,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "प्राथमिक स्कूल प्रवेश आयु", "eDaftar Menengah APDM", "BPPS tingkatan 1", "मलेशिया सरकारी स्कूल", "शिक्षा अधिनियम 1996", "वर्ष 1 स्थगन"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'सेपांग, सेलांगोर में सेकोलाह केबांगसान कोता वारिसन का गुलाबी बहुमंज़िला भवन, जिसके अग्रभाग पर नाम-पट्ट है और सड़क के किनारे बाड़बंद अहाता है।'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 कई माता-पिता यह जानकर हैरान होते हैं कि वे अपने बच्चे को फॉर्म 1 के लिए उस तरह

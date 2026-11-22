@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'The exterior stairway and entrance of a building lettered "PUSAT SUMBER PERMATAPINTAR", the resource centre of Malaysia''s national gifted-education programme.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 A 10-year-old who can solve Form Five mathematics does not always stand out in an ordinary classroom — and in Malaysia, the only national centre designed to find and nurture minds like these is PERMATApintar.

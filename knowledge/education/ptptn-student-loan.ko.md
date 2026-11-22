@@ -66,6 +66,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: '말레이시아 공과대학교 쿠알라룸푸르 캠퍼스(Universiti Teknologi Malaysia Kuala Lumpur)의 입구 문으로, 진입로 위 아치에 UTM 교장이 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 많은 학생이 같은 가정을 품고 PTPTN 제안 서류에 서명합니다. 「이거 장학금 같은 거지?」 아닙니다. 그리고 바로 이 오해가 가장 흔히 문제를 불러옵니다 — 여러 해 뒤, 졸업 후 첫 상환 통지가 도착할 때입니다.

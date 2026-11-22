@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'La entrada y el letrero del Maktab Rendah Sains MARA (MRSM) Batu Pahat en Johor, un colegio de ciencias plenamente residencial de Malasia, con banderas nacionales y estatales alineadas en la puerta.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cuando las familias malasias hablan de las «mejores» escuelas internas para sus hijos, suelen surgir dos nombres: MRSM y SBP. Ambos son colegios totalmente residenciales selectivos, ambos ferozmente competitivos para entrar — pero los gestionan dos organismos distintos, bajo dos mandatos de política diferentes.

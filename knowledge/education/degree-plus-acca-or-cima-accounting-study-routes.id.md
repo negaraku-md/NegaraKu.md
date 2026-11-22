@@ -84,6 +84,13 @@ stayFacts:
   cost: 'Biaya, jumlah ujian, dan pengecualian (exemption) yang dibawa oleh gelar terakreditasi semuanya berubah pada setiap siklus akreditasi, jadi hitung sendiri angka terkini dari badan profesi, penyedia tuisyen, dan universitas — jangan pernah bergantung pada jumlah pengecualian yang dikutip.'
   watch: 'ACCA atau CIMA saja tidak menjadikan Anda akuntan Malaysia — keanggotaan MIA yang menjadikannya, dan kualifikasi ditambah pengalaman adalah jalurnya. Jumlah pengecualian adalah fakta yang paling mudah berubah dalam topik ini; verifikasi per program.'
   next: 'Pilih badan profesi yang tujuan akhir lazimnya sesuai dengan tempat Anda ingin bekerja, pastikan badan itu saat ini mengarah ke keanggotaan MIA dan pengalaman apa yang diperlukan, lalu optimalkan titik masuk, mode belajar, dan pengecualian Anda. Lihat panduan Sebelum membayar deposit kolej.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'Kompleks aula kuliah sebuah universitas Malaysia dengan papan tanda bertuliskan "KOMPLEKS DEWAN KULIAH" di samping bangunan akademik berwarna marun dan jalur beratap.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Siapa pun yang memutuskan cara menjadi akuntan di Malaysia langsung bertemu sup alfabet: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Tampak seperti menu kualifikasi yang saling bersaing dan harus Anda pilih salah satunya. Lebih baik dipahami sebagai **satu tujuan dengan beberapa jalan menuju ke sana** — dan begitu Anda melihat tujuannya, pilihan-pilihan itu jatuh pada tempatnya.

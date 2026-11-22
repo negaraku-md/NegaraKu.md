@@ -69,6 +69,13 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: '쿠알라룸푸르 말라야 대학교(Universiti Malaya)의 흰색 아치형 정문으로, 「UNIVERSITI MALAYA」 글자와 대학 문장이 새겨져 캠퍼스 진입로를 가로지르고 있다.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 봉투가 열리면 진짜 질문이 함께 도착합니다. *내가 얼마나 잘했나* — 그 숫자는

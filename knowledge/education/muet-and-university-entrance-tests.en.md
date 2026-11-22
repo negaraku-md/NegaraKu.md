@@ -92,6 +92,13 @@ stayFacts:
   cost: 'Fees are set by MPM and are higher for non-citizens and for the computer-based MUET on Demand version, and they change — confirm the current fee on the MPM portal (mpm.edu.my) rather than a quoted figure.'
   watch: 'There is no single pass band — the minimum varies by programme and is set by each university''s Senate. Results are valid for five years, so sitting too early can mean they expire before you apply.'
   next: 'Check your target programme''s minimum band on the university''s website, register early through MPM, and track the five-year validity. See Public vs private universities.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Rows of students seated at individual desks sitting an examination in a university hall in Malaysia, with an invigilator walking between the aisles.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 You may excel in STPM or matriculation, but without one more result, your degree application form is still incomplete. That result is MUET — and many students only realise its importance when the university application deadline is already looming.

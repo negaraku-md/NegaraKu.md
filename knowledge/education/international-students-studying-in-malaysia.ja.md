@@ -89,6 +89,13 @@ stayFacts:
   cost: '学費は機関や課程によって大きく異なり、学生パスには別途EMGSおよびビザの費用がかかり、これらは随時改定される。そのため、どこかで示された金額に頼るのではなく、現在の金額を機関およびEMGSポータル（educationmalaysia.gov.my）で確認すること。'
   watch: 'MQAによる課程の認証と、外国人学生を受け入れるための機関の承認は、別々の2つの確認事項である——完全認証を受けた課程であっても、あなたを受け入れる資格のない機関に置かれていることがありうる。英語による授業は、EMGSが別途求める英語能力の証明に代わるものではない。'
   next: '2つの関門を機関の国際学生課（International Office）に書面で確認し、オファーを受諾したうえで、EMGSを通じて学生パスの手続きを進めること。詳しくは「学生パス」「マレーシアで学ぶ」、およびMQA認証の解説記事を参照のこと。'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'モナッシュ大学マレーシア校（Monash University Malaysia）キャンパスの入口で、屋根付き通路に「MONASH University」の看板があり、ガラスのスカイブリッジが二つのベージュの校舎をつないでいる。'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 誤った種類の教育機関から発行されたオファーレターは、たとえそのプログラム自体が完全に認定されていたとしても、ビザ申請においては何の役にも立たない。「認定されたプログラム」と「留学生受け入れを承認された教育機関」というこの区別こそが、EMGS（Education Malaysia Global Services）の申請書に誰かが記入するよりもずっと前の段階で、多くの混乱が生まれる起点となっている。

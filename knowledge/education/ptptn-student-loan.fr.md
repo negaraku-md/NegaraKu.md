@@ -66,6 +66,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "prêt étudiant", "éligibilité PTPTN", "remboursement PTPTN", "Act 566", "financement de l'enseignement supérieur Malaisie", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'Le portail d''entrée du campus de Kuala Lumpur de l''Universiti Teknologi Malaysia, avec l''emblème de l''UTM sur l''arche au-dessus de la voie d''accès.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 De nombreux étudiants signent leurs documents d'offre du PTPTN avec la même

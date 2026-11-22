@@ -78,6 +78,13 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'อาคารหลักของ Papar Middle School โรงเรียนมัธยมอิสระภาษาจีนในรัฐซาบะฮ์ มีชื่อโรงเรียนแสดงเป็นภาษาจีนและอังกฤษบนด้านหน้าอาคาร'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ลองถามผู้ปกครองชาวมาเลเซียว่า "โรงเรียนเอกชน" คืออะไร เขาอาจหมายถึงสามสิ่งที่ต่างกันโดยสิ้นเชิง: โรงเรียนเก็บค่าเล่าเรียนที่ใช้หลักสูตรเดียวกันเป๊ะกับโรงเรียนรัฐบาลข้างถนน โรงเรียนนานาชาติที่สอน Cambridge หรือ IB หรือโรงเรียนมัธยมเอกชนจีนที่ดำเนินการสอบที่คนส่วนใหญ่นอกชุมชนการศึกษาจีนไม่เคยได้ยิน มีเพียงหนึ่งในสามนั้นที่สอบ SPM มีเพียงหนึ่งเดียวที่สอบ UEC การสับสนระหว่างทั้งสามเป็นวิธีที่ง่ายที่สุดในการประเมินทางเลือกของเด็กเมื่ออายุ 18 ปีผิดพลาด

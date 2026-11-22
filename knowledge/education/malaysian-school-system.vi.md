@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên cao của trường Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara, cho thấy sân trong hình vuông bao quanh bởi các khối lớp học, một sân thể thao và một khu dân cư.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Đối với một đứa trẻ lớn lên ở Malaysia, câu hỏi "trường nào?" mang nhiều ý nghĩa hơn so với nhiều quốc gia khác. Một phần là về khoảng cách và danh tiếng, như ở khắp nơi — nhưng đó cũng là lựa chọn giữa một trường quốc gia giảng dạy chủ yếu bằng tiếng Mã Lai và một trường kiểu quốc gia giảng dạy bằng tiếng Hoa hoặc tiếng Tamil. Cả hai đều là một phần của cùng một hệ thống công lập, theo cùng một chương trình giảng dạy quốc gia, và dẫn đến cùng các kỳ thi quốc gia. Hiểu cách hệ thống đó khớp với nhau là bước đầu tiên để định hướng trong nó.

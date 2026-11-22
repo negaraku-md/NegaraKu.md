@@ -86,6 +86,13 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'Các tòa nhà giảng dạy hiện đại màu vàng và xám của khuôn viên UiTM ở Rembau, một trường đại học công lập Malaysia, với sinh viên đi dọc con đường trong khuôn viên.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Đạt 9A+ trong SPM chưa chắc bảo đảm một suất học bổng toàn phần ra nước ngoài — vì tại Malaysia, tài trợ công không chỉ là chuyện điểm số, mà còn là chuyện bạn nộp đơn vào chương trình nào, các điều kiện phục vụ bị ràng buộc, và chính sách quản lý từng quỹ. Hiểu bản đồ các nhà tài trợ này là quan trọng vì một lựa chọn sai có thể có nghĩa là hàng nghìn ringgit phải trả lại về sau.

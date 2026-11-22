@@ -76,6 +76,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'View into the school hall (dewan) of SMK Gajah Berang in Malaysia, with students seated in rows of chairs facing the stage, the type of hall used for assemblies and public examinations.'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 If your child is now in Year 6, they will not sit UPSR. If that child is in Form 3, no PT3 awaits them. The major exams that once determined a student's entire schooling journey — the same ones your own parents may have gone through under heavy pressure — have been gone for several years now. But many parents are still confused: what replaced them, whether they will be brought back, and what actually happens at their child's school every day now.

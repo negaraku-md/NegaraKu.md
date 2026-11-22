@@ -92,6 +92,13 @@ stayFacts:
   cost: '응시료는 MPM이 정하며 비국민과 컴퓨터 기반 MUET on Demand 버전의 경우 더 높고, 또 바뀝니다 — 제시된 특정 금액이 아니라 MPM 포털(mpm.edu.my)에서 현재 응시료를 확인하십시오.'
   watch: '단일한 합격 밴드는 없습니다 — 최소 기준은 프로그램마다 다르며 각 대학의 평의회가 정합니다. 성적은 5년간 유효하므로, 너무 일찍 응시하면 지원하기 전에 만료될 수 있습니다.'
   next: '목표 프로그램의 최소 밴드를 해당 대학 웹사이트에서 확인하고, MPM을 통해 일찍 등록하며, 5년 유효 기간을 챙기십시오. 공립 대 사립 대학교 글을 참고하십시오.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: '말레이시아의 한 대학 강당에서 학생들이 개별 책상에 앉아 시험을 치르고 있으며, 감독관이 통로 사이를 걷고 있다.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 STPM이나 매트리큘레이션에서 뛰어날 수 있지만, 한 가지 결과가 더 없으면 여러분의 학위 지원서는 여전히 불완전합니다. 그 결과가 바로 MUET입니다 — 그리고 많은 학생은 대학 지원 마감일이 다가와서야 그 중요성을 깨닫습니다.

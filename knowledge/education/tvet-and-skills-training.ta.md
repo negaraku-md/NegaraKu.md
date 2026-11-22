@@ -66,6 +66,13 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'தொழில்நுட்பம் மற்றும் திறன் (TVET) பயிற்சிக்கான மலேசிய தொழிற்கல்விக் கல்லூரியான கோலெஜ் வோக்கசியோனல் சுங்கை புலோஹ்வின் நுழைவாயிலும் அடையாளப் பலகையும்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பல படிவம் 3 மாணவர்களும் அவர்களது பெற்றோரும் இடைநிலைப் பள்ளிக்குப் பிறகு

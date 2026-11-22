@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: '一栋现代化的三层马来西亚国民小学校舍，设有有盖门廊，晴朗蓝天下校外停放着汽车。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在年初筹划家庭旅行时，你会很快察觉到一件事：住在吉兰丹的邻居家孩子比你在雪兰莪的孩子早一天开学。这并不是弄错了——这正是马来西亚学校校历的设计方式。

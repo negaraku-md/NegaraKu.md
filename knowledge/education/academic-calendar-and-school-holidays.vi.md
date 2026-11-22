@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'Tòa nhà trường tiểu học quốc gia Malaysia hiện đại ba tầng với mái hiên có che và những chiếc ô tô đỗ bên ngoài dưới bầu trời xanh trong.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hãy lập kế hoạch cho một chuyến du lịch gia đình vào đầu năm, và bạn nhanh chóng nhận ra một điều: người hàng xóm ở Kelantan khai giảng sớm hơn con bạn ở Selangor một ngày. Đó không phải là một sai sót — đó là cách lịch năm học của Malaysia được thiết kế.

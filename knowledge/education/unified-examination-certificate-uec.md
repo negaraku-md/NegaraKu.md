@@ -79,6 +79,13 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'Papan tanda masuk dan kawasan Sabah Chinese High School (Sekolah Tinggi Cina Sabah) di Tawau, sebuah sekolah menengah persendirian Cina yang pelajarnya menduduki Sijil Peperiksaan Bersepadu (UEC).'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tiga huruf — UEC — mampu mencetuskan perbahasan yang berlarutan lebih setengah abad dalam politik pendidikan Malaysia. Bagi sesetengah pihak, ia sijil bertaraf antarabangsa yang membuka pintu ke universiti terkemuka dunia; bagi yang lain, ia menyentuh kedudukan bahasa kebangsaan dan dasar pendidikan negara. Kedua-dua pandangan wujud serentak, dan kedua-duanya perlu difahami untuk melihat gambaran penuh.

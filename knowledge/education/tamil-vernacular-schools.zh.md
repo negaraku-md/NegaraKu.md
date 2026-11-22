@@ -80,6 +80,13 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: '柔佛州一所马来西亚淡米尔文国民型小学（淡小）Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi 的大门和多层校舍。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚的任何一个角落——一座老树胶园的边缘，或城镇的外围——都能见到一所小小的淡米尔学校。其中许多学校的历史长达一个多世纪；它们不只是建筑物，更是一个社群迁徙、劳动与语言的见证。

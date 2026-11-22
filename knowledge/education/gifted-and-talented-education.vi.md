@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'Cầu thang bên ngoài và lối vào của một tòa nhà có dòng chữ "PUSAT SUMBER PERMATAPINTAR", trung tâm nguồn lực của chương trình giáo dục năng khiếu quốc gia Malaysia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một đứa trẻ 10 tuổi giải được toán lớp mười một không phải lúc nào cũng nổi bật trong một lớp học bình thường — và tại Malaysia, trung tâm quốc gia duy nhất được thiết kế để tìm và mài giũa những trí tuệ như thế này là PERMATApintar.

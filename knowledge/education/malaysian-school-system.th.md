@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'ภาพมุมสูงของ Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara แสดงลานโรงเรียนที่ล้อมด้วยอาคารเรียน สนามกีฬา และย่านที่พักอาศัย'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 สำหรับเด็กที่เติบโตในมาเลเซีย คำถามที่ว่า "โรงเรียนไหน?" มีความหมายมากกว่าในหลายประเทศ ส่วนหนึ่งเป็นเรื่องระยะทางและชื่อเสียงเหมือนที่อื่น ๆ — แต่ก็ยังเป็นการเลือกระหว่างโรงเรียนชาติที่สอนด้วยภาษามาเลย์เป็นหลัก กับโรงเรียนประเภทชาติที่สอนด้วยภาษาจีนหรือทมิฬ ทั้งสองเป็นส่วนหนึ่งของระบบสาธารณะเดียวกัน ใช้หลักสูตรแห่งชาติเดียวกัน และนำไปสู่การสอบระดับชาติชุดเดียวกัน การเข้าใจว่าระบบนั้นประกอบกันอย่างไรคือก้าวแรกของการนำทางในระบบ

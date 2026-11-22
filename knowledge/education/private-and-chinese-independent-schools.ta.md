@@ -78,6 +78,13 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'சபாவில் உள்ள சீன சுதந்திர உயர்நிலைப் பள்ளியான பப்பார் மிடில் ஸ்கூலின் முதன்மைக் கட்டிடம், அதன் பெயர் முகப்பில் சீன மற்றும் ஆங்கிலத்தில் காட்டப்பட்டுள்ளது.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு மலேசியப் பெற்றோரிடம் "தனியார் பள்ளி" என்றால் என்ன என்று கேளுங்கள், அவர்கள் மூன்று முற்றிலும் வேறுபட்ட விஷயங்களைக் குறிப்பிடக்கூடும்: அருகில் உள்ள அரசாங்கப் பள்ளியின் அதே பாடத்திட்டத்தை நடத்தும் கட்டணம் வசூலிக்கும் ஒரு பள்ளி, Cambridge அல்லது IB கற்பிக்கும் ஒரு சர்வதேசப் பள்ளி, அல்லது சீனக் கல்விச் சமூகத்திற்கு வெளியே உள்ள பெரும்பாலானோர் ஒருபோதும் கேள்விப்படாத ஒரு தேர்வை நடத்தும் ஒரு சீன சுதந்திர உயர்நிலைப் பள்ளி. அந்த மூன்றில் ஒன்று மட்டுமே SPM எழுதுகிறது. ஒன்று மட்டுமே UEC எழுதுகிறது. அவற்றைக் குழப்பிக்கொள்வதுதான் 18 வயதில் ஒரு குழந்தையின் தேர்வுகளைத் தவறாக மதிப்பிடுவதற்கான எளிதான வழி.

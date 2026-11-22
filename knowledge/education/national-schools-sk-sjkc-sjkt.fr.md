@@ -68,6 +68,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'Le bâtiment de plain-pied de la Sekolah Kebangsaan Tungku, une école primaire nationale malaisienne à Sabah, arborant le drapeau de la Malaisie, avec la devise de l''école peinte sur son mur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chaque année, à l'ouverture de la période d'inscription, des parents de toute la Malaisie se connectent au portail idMe du ministère de l'Éducation de Malaisie (KPM) pour inscrire leur enfant en 1re année. L'un des premiers choix qu'ils doivent faire : SK, SJKC ou SJKT ?

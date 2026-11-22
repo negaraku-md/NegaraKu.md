@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'Une file d''élèves en baju kurung bleu et foulard noir entrant dans la Sekolah Menengah Agama Al-Maarif, une école secondaire religieuse malaisienne, en passant devant des cocotiers.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un enfant en Malaisie pourrait passer la matinée dans une école nationale, l'après-midi dans une classe KAFA d'une mosquée, et ses années d'adolescence dans un dortoir de tahfiz — trois cadres éducatifs distincts avec des superviseurs, des programmes et des lois différents. La filière de l'enseignement religieux islamique se déroule en parallèle du système national, mais elle ne forme pas un bloc unique. Comprendre qui enregistre quoi, et qui est responsable de quoi, est la clé pour lire équitablement le débat public sur ce sujet.

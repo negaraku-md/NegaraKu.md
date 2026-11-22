@@ -90,6 +90,13 @@ stayFacts:
   cost: '등록금은 기관과 프로그램에 따라 크게 다르고, 학생 패스에는 EMGS 및 비자 관련 비용이 별도로 붙으며 이 금액은 수시로 개정됩니다. 그러니 제시된 특정 수치에 의존하지 말고 현재 금액을 교육기관과 EMGS 포털(educationmalaysia.gov.my)에서 확인하십시오.'
   watch: 'MQA의 프로그램 인증과 외국인 유학생을 받을 수 있는 기관 승인은 서로 다른 두 가지 확인 항목입니다 — 완전히 인증된 프로그램이라도 당신을 받을 자격이 없는 기관에 개설되어 있을 수 있습니다. 영어로 수업한다고 해서 EMGS가 별도로 요구하는 영어 능력 증빙을 대신하지는 못합니다.'
   next: '두 관문 모두를 교육기관 국제교류처(international office)와 서면으로 확인하고, 입학 제의를 수락한 뒤, EMGS를 통한 학생 패스 절차를 밟으십시오. 학생 패스, 말레이시아 유학, 그리고 MQA 인증 해설 글을 참고하십시오.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: '모나시 대학교 말레이시아 캠퍼스(Monash University Malaysia) 입구로, 지붕 덮인 통로에 「MONASH University」 간판이 있으며 유리 구름다리가 두 개의 베이지색 학술동을 연결한다.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 잘못된 종류의 기관에서 받은 입학 허가서는, 프로그램 자체가 완벽하게 인증받았더라도 비자에는 쓸모가 없습니다. 그 구분 — 인증된 프로그램 대 국제 학생 등록 승인을 받은 기관 — 이 누군가 EMGS 양식을 채우기 훨씬 전에, 대부분의 혼란이 시작되는 지점입니다.

@@ -63,6 +63,13 @@ relations:
 related: []
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'Ảnh chụp tập thể các giáo viên và trợ lý quản lý học sinh của chương trình hòa nhập giáo dục đặc biệt (PPKI) tại một trường trung học Malaysia, SMK Taman Universiti.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một chẩn đoán chỉ là cuộc trò chuyện đầu tiên. Cuộc trò chuyện thứ hai — thường khiến người ta bối rối hơn — là lối trường học nào con bạn thực sự sẽ vào, và vì sao thẻ OKU dường như quan trọng trước cả nhà trường. Hệ thống của Malaysia có ba lối công lập, một quy trình đăng ký khuyết tật riêng dẫn vào tất cả các lối đó, và một thế giới song song gồm trị liệu tư nhân và của các tổ chức phi chính phủ mà hầu hết phụ huynh biết đến qua truyền miệng chứ không phải qua bất kỳ trang chính thức đơn lẻ nào.

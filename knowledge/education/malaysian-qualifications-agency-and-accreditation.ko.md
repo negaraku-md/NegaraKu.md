@@ -83,6 +83,13 @@ stayFacts:
   cost: 'MQR 검색은 무료입니다. 다만 당신이 기대하고 있을 인정 — 전문직 면허, 공무원직, 또는 해외 유학 — 은 각각 자체 기관에서 별도의 확인이 필요할 수 있습니다.'
   watch: '인증은 교육기관이 아니라 특정 프로그램과 입학 회차에 붙습니다 — 평판 좋은 대학이라도 신설·잠정·미등록 프로그램을 운영할 수 있습니다. 브로슈어의 ''MQA 승인'' 문구는 등록부가 아닙니다. 실제 등재 내역을 본인이 직접 확인하고, 잠정 인증도 정당한 것이지 격이 낮은 것이 아님을 유념하십시오.'
   next: '보증금을 내기 전에 MQR에서 자신의 정확한 프로그램을 조회하고, 규제 전문직이라면 졸업 후 진로(graduate route)를 해당 전문기관에 확인하십시오. 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: '석재로 마감된 벽에 설치된 명판으로, 문장과 「UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia」 글자가 새겨져 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 두 학생이 같은 이름의 디플로마로 졸업합니다. 한 명은 공직과 석사 자리에 자격이 있고, 다른 한 명은 문턱에서 돌아섭니다. 그 차이는 흔히 공개 등록부의 한 줄, 즉 말레이시아 학력인증원이 그 프로그램을 인증했는지에 있습니다.

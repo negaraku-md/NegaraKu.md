@@ -83,6 +83,13 @@ stayFacts:
   cost: 'Việc tra cứu MQR là miễn phí; còn sự công nhận mà bạn có thể đang trông cậy — một giấy phép hành nghề, một việc làm nhà nước, hay việc du học — mỗi thứ có thể cần kiểm chứng riêng với cơ quan của chính nó.'
   watch: 'Việc kiểm định gắn với chương trình và đợt nhập học cụ thể, chứ không phải với cơ sở — một trường đại học uy tín vẫn có thể cung cấp một chương trình mới, đang kiểm định tạm thời hoặc chưa được liệt kê. Một dòng chữ ''đã được MQA phê duyệt'' trong tờ rơi không phải là sổ đăng ký; hãy tự mình xác nhận mục tra cứu trực tiếp, và lưu ý rằng tình trạng kiểm định tạm thời là hợp pháp, chứ không phải hạng hai.'
   next: 'Hãy tra cứu đúng chương trình của bạn trên MQR trước khi đóng bất kỳ khoản tiền đặt cọc nào; đối với một nghề được quản lý, hãy xác nhận lộ trình dành cho người tốt nghiệp với cơ quan nghề nghiệp đó. Xem bài Trước khi đóng tiền đặt cọc cho trường.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Một bảng tên gắn tường mang huy hiệu và dòng chữ "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" trên bức tường ốp đá.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hai sinh viên tốt nghiệp với một diploma nghe giống nhau. Một người đủ tư cách cho một công việc chính phủ và một suất thạc sĩ; người kia bị từ chối ngay trước cửa. Sự khác biệt thường là một dòng duy nhất trong một sổ đăng ký công khai: liệu Cơ quan Kiểm định Malaysia có kiểm định chương trình hay không.

@@ -78,6 +78,13 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'Bangunan utama Papar Middle School, sebuah sekolah menengah persendirian Cina di Sabah, dengan namanya dipaparkan dalam bahasa Cina dan Inggeris pada fasad.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tanya mana-mana ibu bapa Malaysia apakah maksud "sekolah persendirian", dan mereka mungkin merujuk kepada tiga perkara yang sama sekali berbeza: sekolah berbayar yang menjalankan silibus yang sama persis seperti sekolah kerajaan di kawasan itu, sekolah antarabangsa yang mengajar Cambridge atau IB, atau sebuah sekolah menengah persendirian Cina yang menjalankan peperiksaan yang jarang didengari oleh kebanyakan orang di luar komuniti pendidikan Cina. Hanya satu daripada ketiga-tiga itu menduduki SPM. Hanya satu menduduki UEC. Mengelirukan ketiga-tiganya adalah cara paling mudah untuk tersilap menilai pilihan seorang anak pada usia 18 tahun.

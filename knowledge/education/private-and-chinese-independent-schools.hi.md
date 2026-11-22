@@ -78,6 +78,13 @@ keywords:
   - "Unified Examination Certificate"
   - "निजी शिक्षा प्रभाग मलेशिया"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'सबाह में एक चीनी स्वतंत्र उच्च विद्यालय, पापार मिडिल स्कूल का मुख्य भवन, जिसके अग्रभाग पर उसका नाम चीनी और अंग्रेज़ी में दर्शाया गया है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 किसी मलेशियाई माता-पिता से पूछिए कि «निजी विद्यालय» क्या होता है, तो उनका मतलब तीन बिल्कुल अलग चीज़ों से हो सकता है: एक शुल्क लेने वाला विद्यालय जो ठीक वही पाठ्यक्रम चलाता है जो सड़क के उस पार का सरकारी विद्यालय चलाता है, एक अंतरराष्ट्रीय विद्यालय जो कैम्ब्रिज या IB पढ़ाता है, या एक चीनी स्वतंत्र उच्च विद्यालय जो एक ऐसी परीक्षा चलाता है जिसके बारे में चीनी शिक्षा समुदाय के बाहर अधिकांश लोगों ने कभी सुना तक नहीं। इन तीनों में से केवल एक SPM देता है। केवल एक UEC देता है। इन्हें आपस में गड्डमड्ड कर देना किसी बच्चे के 18 वर्ष की उम्र पर उसके विकल्पों का गलत आकलन करने का सबसे आसान तरीका है।

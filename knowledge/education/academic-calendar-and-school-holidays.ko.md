@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: '지붕 덮인 현관을 갖춘 현대식 3층 말레이시아 국민초등학교 건물로, 맑은 푸른 하늘 아래 건물 밖에 자동차들이 주차되어 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 연초에 가족 여행을 계획하다 보면 한 가지 사실을 금방 깨닫게 됩니다. 켈란탄(Kelantan)에 사는 이웃의 아이가 슬랑오르(Selangor)에 사는 여러분의 아이보다 하루 먼저 개학한다는 점입니다. 이것은 실수가 아니라 말레이시아 학사 일정이 설계된 방식입니다.

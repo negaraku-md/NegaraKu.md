@@ -76,6 +76,13 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR समाप्त", "PT3 समाप्त", "कक्षा-आधारित मूल्यांकन", "Pentaksiran Bilik Darjah", "PBD मलेशिया", "SPM मलेशिया", "मलेशिया लर्निंग मैट्रिक्स", "Matriks Pembelajaran Malaysia", "मलेशिया परीक्षा बोर्ड", "Lembaga Peperiksaan", "मलेशिया की स्कूल परीक्षाएँ", "PBS मलेशिया"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'मलेशिया में SMK गाजाह बेरांग के विद्यालय सभागार (देवान) का दृश्य, जहाँ विद्यार्थी मंच की ओर मुख किए कुर्सियों की पंक्तियों में बैठे हैं, यह उस प्रकार का सभागार है जो सभाओं और सार्वजनिक परीक्षाओं के लिए उपयोग होता है।'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 यदि आपका बच्चा अब वर्ष 6 में है, तो वह UPSR नहीं देगा। यदि वह बच्चा फॉर्म 3 में है, तो उसका कोई PT3 इंतज़ार नहीं कर रहा। वे बड़ी परीक्षाएँ जो कभी किसी विद्यार्थी की पूरी स्कूली यात्रा तय करती थीं — वही जिनसे शायद आपके अपने माता-पिता भारी दबाव में गुज़रे होंगे — अब कई वर्षों से समाप्त हो चुकी हैं। लेकिन कई अभिभावक अब भी असमंजस में हैं: इनके स्थान पर क्या आया, क्या इन्हें वापस लाया जाएगा, और अब उनके बच्चे के स्कूल में हर दिन वास्तव में क्या होता है।

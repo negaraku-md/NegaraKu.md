@@ -94,6 +94,13 @@ stayFacts:
   cost: 'L''acompte n''est qu''une fraction — demandez le barème complet des frais écrit pour l''ensemble du programme (inscription, scolarité par semestre, frais de ressources, d''examens, d''assurance et d''étudiant international), et pas seulement la première année, et confirmez ce à quoi l''acompte est imputé.'
   watch: 'Les acomptes sont fréquemment non remboursables et il n''existe aucun droit de rétractation légal national — ce que vous pouvez récupérer est défini par la politique écrite propre à l''établissement. Un « transfert garanti en 3ᵉ année » relève de la décision de l''université partenaire, et non du collège local ; obtenez-le par écrit.'
   next: 'Adressez par écrit chaque vérification à l''établissement et conservez les réponses avant que le moindre argent ne quitte votre compte ; vérifiez d''abord le programme exact sur le MQR. Voir l''explication de l''accréditation MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Les tours du Lakeside Campus de la Taylor''s University se reflétant dans un lac au crépuscule, avec une enseigne rouge "TAYLOR''S UNI" sur le bâtiment principal.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 L'acompte est généralement le premier argent qu'une famille remet à un collège

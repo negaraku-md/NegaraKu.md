@@ -94,6 +94,13 @@ stayFacts:
   cost: '订金只是其中一小部分——请索取整个课程完整的书面收费明细（注册费、每学期学费、资源费、考试费、保险费与国际学生费），而不只是第一年的，并确认订金可抵扣哪一项费用。'
   watch: '订金往往不可退还，且全国并无法定的冷静期（cooling-off）权利——你能拿回多少，取决于院校自身的书面政策。所谓「保证升读Year 3」是合作大学的决定，而非本地学院说了算；务必取得书面凭证。'
   next: '在任何款项离开你的账户之前，把向院校提出的每一项查核都以书面形式确认并保留回复；并先在MQR上查证确切的课程。参阅MQA认证说明。'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: '黄昏时分泰莱大学（Taylor''s University）湖畔校区的塔楼倒映在湖中，主楼上有红色的「TAYLOR''S UNI」标志。'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 定金通常是一个家庭交给学院的第一笔钱——而且一旦缴出，它往往是最难拿回来的。

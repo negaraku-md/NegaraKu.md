@@ -68,6 +68,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'อาคารชั้นเดียวของ Sekolah Kebangsaan Tungku โรงเรียนประถมแห่งชาติมาเลเซียในรัฐซาบะฮ์ ชักธงชาติมาเลเซีย โดยมีคติพจน์ของโรงเรียนวาดอยู่บนผนัง'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ทุกปี เมื่อช่วงลงทะเบียนเปิด ผู้ปกครองทั่วมาเลเซียเปิดพอร์ทัล idMe ของกระทรวงศึกษาธิการมาเลเซีย (KPM) เพื่อลงทะเบียนบุตรเข้าชั้นปีที่ 1 หนึ่งในทางเลือกแรกที่ต้องตัดสินใจคือ: SK, SJKC หรือ SJKT?

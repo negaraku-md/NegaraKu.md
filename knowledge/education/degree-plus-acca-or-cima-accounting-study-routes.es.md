@@ -84,6 +84,13 @@ stayFacts:
   cost: 'Las tasas, el número de exámenes y las convalidaciones que otorga un título acreditado cambian con cada ciclo de acreditación, así que suma tú mismo las cifras actuales a partir del organismo, el proveedor de formación y la universidad; nunca te fíes de un número de convalidaciones citado.'
   watch: 'ACCA o CIMA por sí solo no te convierte en contable malasio: eso lo hace la pertenencia al MIA, y la cualificación más la experiencia es la vía para lograrlo. El número de convalidaciones es el dato más cambiante del tema; verifícalo programa por programa.'
   next: 'Elige el organismo cuyo destino habitual coincida con dónde quieres trabajar, confirma que actualmente conduce a la pertenencia al MIA y qué experiencia se exige, y luego optimiza tu punto de entrada, tu modalidad de estudio y tus convalidaciones. Consulta Antes de pagar el depósito de un colegio universitario.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'Un complejo de aulas magnas de una universidad malasia con un letrero que dice "KOMPLEKS DEWAN KULIAH" junto a edificios académicos de color granate y un pasillo cubierto.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cualquiera que esté decidiendo cómo llegar a ser contador en Malasia se topa de frente con una sopa de letras: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Parece un menú de cualificaciones rivales entre las que hay que elegir. Se entiende mejor como **un solo destino con varios caminos hacia él**, y una vez que ves el destino, las decisiones encajan en su sitio.

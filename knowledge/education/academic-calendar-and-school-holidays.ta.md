@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'தெளிவான நீல வானத்தின் கீழ், கூரையிட்ட வாகன நிறுத்துமிடமும் வெளியே நிறுத்தப்பட்ட கார்களும் கொண்ட நவீன மூன்று மாடி மலேசிய தேசியத் தொடக்கப் பள்ளிக் கட்டிடம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஆண்டின் தொடக்கத்தில் ஒரு குடும்பப் பயணத்தைத் திட்டமிடுங்கள், உடனே ஒரு விஷயம் புரியும்: கிளந்தானில் உள்ள அண்டை வீட்டுக் குழந்தை, சிலாங்கூரில் உள்ள உங்கள் குழந்தையை விட ஒரு நாள் முன்னதாகப் பள்ளிக்குச் செல்லத் தொடங்குகிறது. அது தவறு அல்ல — மலேசியப் பள்ளி கல்வி நாட்காட்டி வடிவமைக்கப்பட்டிருக்கும் விதம் அதுதான்.

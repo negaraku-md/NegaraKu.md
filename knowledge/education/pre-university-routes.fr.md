@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pré-universitaire Malaisie", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaisie", "Foundation Asasi Malaisie", "Diploma vers licence Malaisie", "catégories d'admission UPU", "voies pré-universitaires après SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'Le bloc universitaire du Kolej Matrikulasi Kelantan, un collège de matriculation malaisien proposant une filière pré-universitaire, sous un ciel bleu.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Deux étudiants sortent de la même salle du SPM avec des résultats quasi

@@ -94,6 +94,13 @@ stayFacts:
   cost: 'Tiền đặt cọc chỉ là một phần nhỏ — hãy yêu cầu biểu phí bằng văn bản đầy đủ cho toàn bộ chương trình (phí ghi danh, học phí theo từng học kỳ, phí tài nguyên, phí thi, phí bảo hiểm và phí dành cho sinh viên quốc tế), chứ không chỉ năm thứ nhất, và xác nhận tiền đặt cọc được trừ vào khoản nào.'
   watch: 'Tiền đặt cọc thường không hoàn lại và không có quyền hủy trong thời gian cân nhắc theo luật định trên toàn quốc — khoản bạn có thể lấy lại do chính chính sách bằng văn bản của cơ sở quyết định. Một lời hứa ''chắc chắn được chuyển lên Năm 3'' là quyết định của trường đại học đối tác, chứ không phải của trường tại địa phương; hãy lấy cam kết đó bằng văn bản.'
   next: 'Hãy đưa mọi câu hỏi kiểm tra cho cơ sở bằng văn bản và giữ lại các câu trả lời trước khi bất kỳ khoản tiền nào rời khỏi tài khoản của bạn; trước hết hãy kiểm chứng đúng chương trình trên MQR. Xem bài giải thích về kiểm định của MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Những tòa tháp của khuôn viên Lakeside thuộc Đại học Taylor''s phản chiếu trên mặt hồ lúc hoàng hôn, với bảng hiệu màu đỏ "TAYLOR''S UNI" trên tòa nhà chính.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tiền đặt cọc thường là khoản tiền đầu tiên một gia đình trao cho trường cao đẳng

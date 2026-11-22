@@ -92,6 +92,13 @@ stayFacts:
   cost: 'Lệ phí do MPM đặt ra và cao hơn đối với người không phải công dân cũng như đối với phiên bản MUET on Demand làm trên máy tính, và chúng thay đổi — hãy xác nhận lệ phí hiện hành trên cổng MPM (mpm.edu.my) thay vì dựa vào một con số được báo.'
   watch: 'Không có một band đậu duy nhất — mức tối thiểu khác nhau tùy chương trình và do Hội đồng Học thuật của mỗi trường đại học đặt ra. Kết quả có giá trị trong năm năm, nên thi quá sớm có thể khiến kết quả hết hạn trước khi bạn nộp đơn.'
   next: 'Hãy kiểm tra band tối thiểu của chương trình bạn nhắm tới trên trang web của trường đại học, đăng ký sớm qua MPM, và theo dõi thời hạn giá trị năm năm. Xem bài Đại học công lập so với tư thục.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Những hàng học sinh ngồi ở các bàn riêng lẻ làm bài thi trong một hội trường đại học ở Malaysia, với một giám thị đi lại giữa các lối.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn có thể xuất sắc trong STPM hoặc matriculation, nhưng thiếu một kết quả nữa, đơn xin bằng cử nhân của bạn vẫn chưa đầy đủ. Kết quả đó là MUET — và nhiều học sinh chỉ nhận ra tầm quan trọng của nó khi hạn chót nộp đơn đại học đã đến gần.

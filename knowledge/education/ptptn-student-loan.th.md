@@ -66,6 +66,13 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'ซุ้มประตูทางเข้าวิทยาเขตกัวลาลัมเปอร์ของมหาวิทยาลัยเทคโนโลยีมาเลเซีย (Universiti Teknologi Malaysia) โดยมีตรา UTM บนซุ้มเหนือทางรถเข้า'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 นักเรียนจำนวนมากลงนามในเอกสารข้อเสนอ PTPTN ด้วยสมมติฐานเดียวกัน: "นี่เหมือนทุนการศึกษาใช่ไหม?" มันไม่ใช่ และความเข้าใจผิดนี้เองที่มักนำมาซึ่งปัญหา — หลายปีต่อมา เมื่อหนังสือแจ้งการชำระคืนฉบับแรกมาถึงหลังจบการศึกษา

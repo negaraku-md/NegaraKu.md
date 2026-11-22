@@ -67,6 +67,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: '사바주의 말레이시아 국민초등학교 Sekolah Kebangsaan Tungku 단층 건물로, 말레이시아 국기를 게양하고 벽에 교훈이 그려져 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 매년 등록 기간이 열리면, 말레이시아 전역의 학부모는 자녀를 1학년에 등록하기 위해 말레이시아 교육부(KPM)의 idMe 포털을 엽니다. 가장 먼저 내려야 할 선택 중 하나가 바로 SK, SJKC, SJKT입니다.

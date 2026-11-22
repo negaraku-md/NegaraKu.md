@@ -71,6 +71,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'Bangunan beratap merah yang rendah dan padang hijau sebuah sekolah rendah di Brickfields, Kuala Lumpur, dengan latar belakang kaki langit pencakar langit KL Sentral.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anak anda didaftarkan ke sekolah kerajaan yang "percuma" — tetapi borang PIBG dan senarai bayaran tetap sampai ke rumah. Jadi apa sebenarnya yang wajib dibayar, dan apa yang tidak?

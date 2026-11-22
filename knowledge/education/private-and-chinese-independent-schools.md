@@ -77,6 +77,13 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'Main building of Papar Middle School, a Chinese independent high school in Sabah, with its name shown in Chinese and English on the facade.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ask a Malaysian parent what a "private school" is, and they might mean three completely different things: a fee-paying school that runs the exact same syllabus as the government school down the road, an international school teaching Cambridge or IB, or a Chinese Independent High School running an exam most people outside the Chinese education community have never heard of. Only one of those three sits the SPM. Only one sits the UEC. Getting them confused is the easiest way to misjudge a child's options at 18.

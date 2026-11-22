@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara의 조감도로, 교실동으로 둘러싸인 안뜰, 운동장, 주택가가 보인다.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 자라는 아이에게 "어느 학교?"라는 질문은 많은 나라보다 더 큰 의미를 지닙니다. 다른 어디서나처럼 거리와 평판에 관한 것이기도 하지만 — 주로 말레이어로 가르치는 국민학교와 중국어나 타밀어로 가르치는 국민형학교 사이의 선택이기도 합니다. 둘 다 같은 공교육 제도의 일부이고, 같은 국가 교육과정을 따르며, 같은 국가 시험으로 이어집니다. 그 제도가 어떻게 맞물리는지 이해하는 것이 그것을 헤쳐 나가는 첫걸음입니다.

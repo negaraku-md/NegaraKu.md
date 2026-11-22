@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'नीली बाजू कुरुंग और काले सिर के दुपट्टों में विद्यार्थियों की एक पंक्ति नारियल के पेड़ों के पास से होते हुए एक मलेशियाई धार्मिक माध्यमिक विद्यालय, सेकोलाह मेनेंगाह अगामा अल-मारिफ़ में प्रवेश करती हुई।'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में एक बच्चा सुबह किसी राष्ट्रीय स्कूल में, दोपहर किसी मस्जिद की KAFA कक्षा में, और अपने किशोरावस्था के वर्ष किसी तहफ़ीज़ छात्रावास में बिता सकता है — तीन अलग-अलग शैक्षिक वातावरण जिनके पर्यवेक्षक, पाठ्यक्रम और कानून अलग-अलग हैं। इस्लामी धार्मिक शिक्षा की धारा राष्ट्रीय प्रणाली के समानांतर चलती है, लेकिन यह एक एकल खंड नहीं है। कौन क्या पंजीकृत करता है, और कौन किसके लिए ज़िम्मेदार है, इसे समझना इस विषय पर सार्वजनिक बहस को निष्पक्ष रूप से पढ़ने की कुंजी है।

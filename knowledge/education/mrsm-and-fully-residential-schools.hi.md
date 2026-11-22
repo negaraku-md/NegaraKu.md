@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "आवासीय विद्यालय", "बूमिपुत्र कोटा", "पूर्ण आवासीय विद्यालय मलेशिया"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'जोहोर में मकतब रेंदाह साइंस मारा (MRSM) बाटू पाहात का प्रवेश-द्वार और नाम-पट्ट, जो एक मलेशियाई पूर्ण आवासीय विज्ञान महाविद्यालय है, जहाँ द्वार के किनारे राष्ट्रीय और राज्य के झंडे लगे हैं।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जब मलेशियाई परिवार अपने बच्चों के लिए «सर्वश्रेष्ठ» आवासीय विद्यालयों की बात करते हैं, तो अक्सर दो नाम सामने आते हैं: MRSM और SBP। दोनों ही चयनात्मक पूर्ण आवासीय कॉलेज हैं, दोनों में प्रवेश पाना अत्यंत प्रतिस्पर्धी है — पर इन्हें दो अलग निकाय, दो अलग नीति-अधिदेशों के अंतर्गत चलाते हैं।

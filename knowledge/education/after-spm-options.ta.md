@@ -69,6 +69,13 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'குவாலாலம்பூரில் உள்ள உனிவெர்சிட்டி மலாயாவின் வெண்ணிற வளைவு வடிவ முதன்மை வாயில், "UNIVERSITI MALAYA" என்ற எழுத்துக்களும் பல்கலைக்கழகச் சின்னமும் கொண்டு வளாக நுழைவுச் சாலைக்குக் குறுக்கே அமைந்துள்ளது.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 உறை திறக்கிறது, அதனுடன் உண்மையான கேள்வியும் வந்தடைகிறது. *நான் எப்படிச்

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'सेकोलाह मेनेंगाह केबांगसान सेक्स्येन 3 बंदर किनरारा का विहंगम दृश्य, जिसमें विद्यालय का कक्षा-खंडों का चौकोर प्रांगण, एक खेल मैदान और एक आवासीय मोहल्ला दिखता है।'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में बड़े हो रहे बच्चे के लिए, "कौन-सा स्कूल?" का सवाल कई देशों की तुलना में अधिक अर्थ रखता है। यह आंशिक रूप से दूरी और प्रतिष्ठा के बारे में है, जैसा हर जगह होता है — लेकिन यह एक राष्ट्रीय विद्यालय, जो मुख्यतः मलय में पढ़ाता है, और एक राष्ट्रीय-प्रकार विद्यालय, जो चीनी या तमिल में पढ़ाता है, के बीच एक चुनाव भी है। दोनों एक ही सार्वजनिक प्रणाली का हिस्सा हैं, एक ही राष्ट्रीय पाठ्यक्रम का पालन करते हैं, और एक ही राष्ट्रीय परीक्षाओं की ओर ले जाते हैं। यह प्रणाली किस प्रकार एक साथ जुड़ती है, यह समझना इसे समझने-समझाने की पहली कदम है।

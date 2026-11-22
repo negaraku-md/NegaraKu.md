@@ -68,6 +68,13 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'The white arched main gate of Universiti Malaya in Kuala Lumpur, lettered "UNIVERSITI MALAYA" with the university crest, spanning the campus entrance road.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 The envelope opens and the real question arrives with it. Not *how did I do* —

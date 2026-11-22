@@ -71,6 +71,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'ด้านหน้าของ Tadika Al-Falah โรงเรียนอนุบาลในรัฐยะโฮร์ของมาเลเซีย มีป้ายต้อนรับและภาพวาดตัวอักษรตามผนัง'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ผู้ปกครองจำนวนมากลงทะเบียนบุตรเข้า "tadika" ข้างบ้าน — ส่งแบบฟอร์ม จ่ายค่าธรรมเนียม เสร็จ แต่คำถามที่ไม่ค่อยมีใครถามคือ: tadika นั้นขึ้นทะเบียนกับใคร? คำตอบไม่ใช่เรื่องเล็ก ขึ้นอยู่กับอายุของเด็กและประเภทของสถาบัน มันอาจอยู่ภายใต้สองกระทรวงที่ต่างกันโดยสิ้นเชิง โดยมีพระราชบัญญัติ ระเบียบ และวิธีการบังคับใช้ที่ไม่เหมือนกัน

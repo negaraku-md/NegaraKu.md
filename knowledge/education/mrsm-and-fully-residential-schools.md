@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'Pintu masuk dan papan tanda Maktab Rendah Sains MARA (MRSM) Batu Pahat di Johor, sebuah maktab sains sepenuh asrama Malaysia, dengan bendera negara dan negeri berbaris di pintu pagar.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dua nama sering muncul apabila keluarga Malaysia berbual tentang sekolah asrama "terbaik" untuk anak: MRSM dan SBP. Kedua-duanya kolej asrama penuh yang terpilih, kedua-duanya bersaing sengit untuk direbut — tetapi ia diuruskan oleh dua badan berlainan, di bawah dua mandat dasar yang berbeza.

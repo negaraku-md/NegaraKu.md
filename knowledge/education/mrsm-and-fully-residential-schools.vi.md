@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'Lối vào và bảng hiệu của trường Maktab Rendah Sains MARA (MRSM) Batu Pahat ở Johor, một trường cao đẳng khoa học nội trú hoàn toàn của Malaysia, với cờ quốc gia và cờ bang xếp dọc hai bên cổng.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hai cái tên thường xuất hiện khi các gia đình Malaysia trò chuyện về trường nội trú "tốt nhất" cho con: MRSM và SBP. Cả hai đều là các trường cao đẳng nội trú hoàn toàn được tuyển chọn, cả hai đều được tranh giành khốc liệt — nhưng chúng được điều hành bởi hai cơ quan khác nhau, dưới hai nhiệm vụ chính sách khác nhau.

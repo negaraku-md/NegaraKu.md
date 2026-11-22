@@ -91,6 +91,13 @@ stayFacts:
   cost: '受験料はMPMが定めており、非国民や、コンピューターベースのMUET on Demand版ではより高くなり、また変動する——どこかで示された金額ではなく、現在の受験料をMPMポータル（mpm.edu.my）で確認すること。'
   watch: '合格とみなされる単一のバンドは存在しない——最低基準は課程によって異なり、各大学の評議会（Senate）が定める。結果の有効期間は5年であるため、早く受験しすぎると、出願前に有効期限が切れてしまうことがある。'
   next: '志望する課程の最低バンドを大学のウェブサイトで確認し、MPMを通じて早めに受験登録し、5年の有効期間を管理すること。詳しくは「国立大学と私立大学」を参照のこと。'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'マレーシアの大学の講堂で、学生たちが個別の机に座って試験を受けており、試験監督が通路の間を歩いている。'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 STPMや予科（matrikulasi）で優秀な成績を収めていても、もう一つの結果がなければ、学位への出願書類は完成しない。その結果とはMUETのことであり、多くの学生は大学の出願締切が迫ってから、ようやくその重要性に気づく。

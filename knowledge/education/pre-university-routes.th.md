@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'อาคารวิชาการของ Kolej Matrikulasi Kelantan วิทยาลัยเตรียมอุดมศึกษาของมาเลเซียที่เปิดสอนหลักสูตรเตรียมเข้ามหาวิทยาลัย ภายใต้ท้องฟ้าสีคราม'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 นักเรียนสองคนเดินออกจากห้องสอบ SPM เดียวกันด้วยผลที่แทบเหมือนกัน สิบแปดเดือนต่อมา คนหนึ่งกำลังสอบข้อสอบของรัฐบาลที่ตรวจโดยสภาระดับชาติ อีกคนอยู่ในห้องเรียนวิทยาลัยตามหลักสูตรที่กำหนดในเคมบริดจ์ คนที่สามไม่ได้สอบข้อสอบระดับชาติเลย — คะแนนก่อนมหาวิทยาลัยทั้งหมดของเธอตัดสินโดยมหาวิทยาลัยที่เธอลงทะเบียนไว้แล้ว ไม่มีใครทำผิด พวกเขาเพียงเลือกคนละห้อง

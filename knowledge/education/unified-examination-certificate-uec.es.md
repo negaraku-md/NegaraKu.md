@@ -80,6 +80,13 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'El letrero de entrada y el recinto de la Sabah Chinese High School (Sekolah Tinggi Cina Sabah) en Tawau, una escuela secundaria independiente china cuyos alumnos presentan el Unified Examination Certificate.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tres letras —UEC— bastan para desatar un debate que lleva más de medio siglo en la política educativa malasia. Para unos, es un certificado reconocido internacionalmente que abre la puerta a las principales universidades del mundo; para otros, toca la posición de la lengua nacional y la política educativa del país. Ambas visiones coexisten, y hay que entender ambas para ver el panorama completo.

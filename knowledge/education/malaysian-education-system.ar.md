@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["نظام التعليم الماليزي", "Malaysian education system", "وزارة التعليم الماليزية", "KPM", "SPM", "STPM", "التهيئة الماليزية", "matriculation Malaysia", "TVET Malaysia", "الإطار الوطني للمؤهلات الماليزية"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: 'مجموعة من طلاب المرحلة الثانوية الماليزيين المبتسمين يقفون معًا بزيّهم المدرسي، بما في ذلك القمصان البيضاء وأغطية الرأس وبدلات الرياضة الخاصة بالبيوت الدراسية.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 اطلب من ثلاثة ماليزيين وصف «نظام التعليم» وستحصل على ثلاث خرائط مختلفة. يتحدث أحدهم عن SK مقابل SJKC. ويتحدث آخر عن STPM مقابل التهيئة. ويذكر ثالث شهادة SKM لم يسمع بها أحد خارج التدريب التقني. الثلاثة يصفون النظام نفسه — لكن من فروع مختلفة منه.

@@ -68,6 +68,13 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "शिक्षण माध्यम", "KPM", "KSSR", "मलेशिया प्राथमिक विद्यालय"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'सबाह में एक मलेशियाई राष्ट्रीय प्राथमिक विद्यालय, सेकोलाह केबांगसान तुंगकू का एकमंज़िला भवन, जिस पर मलेशियाई झंडा फहरा रहा है और दीवार पर विद्यालय का आदर्श-वाक्य चित्रित है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 हर वर्ष, जब पंजीकरण अवधि खुलती है, पूरे मलेशिया में अभिभावक अपने बच्चे को वर्ष 1 के लिए पंजीकृत करने हेतु मलेशिया शिक्षा मंत्रालय (KPM) का idMe पोर्टल खोलते हैं। पहले जो चुनाव उन्हें करने होते हैं उनमें से एक है: SK, SJKC या SJKT?

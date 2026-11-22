@@ -94,6 +94,13 @@ stayFacts:
   cost: 'Deposit itu hanya sebahagian kecil — minta jadual yuran bertulis lengkap bagi keseluruhan program (pendaftaran, yuran pengajian setiap semester, sumber, peperiksaan, insurans dan yuran pelajar antarabangsa), bukan tahun pertama sahaja, dan sahkan terhadap apa deposit itu dikreditkan.'
   watch: 'Deposit kerap kali tidak boleh dikembalikan dan tiada hak tempoh bertenang (cooling-off) berkanun di peringkat kebangsaan — apa yang boleh anda dapatkan semula ditetapkan oleh polisi bertulis institusi itu sendiri. ''Jaminan pemindahan ke Tahun 3'' adalah keputusan universiti rakan kongsi, bukan kolej tempatan; dapatkannya secara bertulis.'
   next: 'Kemukakan setiap semakan kepada institusi secara bertulis dan simpan jawapannya sebelum sebarang wang keluar daripada akaun anda; sahkan program tepat dalam MQR dahulu. Lihat penerangan tentang akreditasi MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Menara Kampus Lakeside Taylor''s University terpantul di sebuah tasik pada waktu senja, dengan papan tanda merah "TAYLOR''S UNI" pada bangunan utama.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Deposit biasanya wang pertama yang diserahkan sesebuah keluarga kepada kolej — dan,

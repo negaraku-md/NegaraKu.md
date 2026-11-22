@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "المدارس الداخلية", "حصة بوميبوترا", "المدارس الداخلية الكاملة ماليزيا"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'مدخل ولافتة كلّية مكتب رنده ساينس مارا (MRSM) باتو باهات في ولاية جوهور، وهي كلّية علوم ماليزية داخلية بالكامل، مع أعلام وطنية وأعلام الولاية تصطفّ على جانبي البوابة.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 كثيرًا ما يبرز اسمان عندما تتحدث الأسر الماليزية عن «أفضل» المدارس الداخلية لأبنائها: MRSM وSBP. كلتاهما كليتان داخليتان كاملتان انتقائيتان، وكلتاهما التحاقٌ به تنافسٌ شديد — لكن تديرهما جهتان مختلفتان، تحت تفويضين سياسيين مختلفين.

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara の俯瞰図で、教室棟に囲まれた中庭、運動場、住宅街が見える。'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアで育つ子どもにとって、「どの学校か」という問いは、多くの国におけるよりも大きな意味を帯びている。それはどこでもそうであるように、距離や評判の問題でもある――だが同時に、主にマレー語で教える国民学校と、華語またはタミル語で教える国民型学校との間の選択でもある。どちらも同じ公教育制度の一部であり、同じ国家カリキュラムに従い、同じ国家試験へとつながる。その制度がどう組み合わさっているかを理解することが、それをたどる第一歩となる。

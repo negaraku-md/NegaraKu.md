@@ -73,6 +73,13 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["التقويم المدرسي", "العطلات المدرسية", "عطلة الفصل الدراسي", "المجموعة أ", "المجموعة ب", "KPM", "التقويم الأكاديمي", "school calendar Malaysia"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'مبنى مدرسة ابتدائية وطنية ماليزية حديث من ثلاثة طوابق بمدخل مُسقَّف وسيارات متوقّفة في الخارج تحت سماء زرقاء صافية.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 خطّط لرحلة عائلية في مطلع العام، وسرعان ما تلاحظ أمرًا واحدًا: جارك في كلنتان يبدأ المدرسة قبل طفلك في سلانغور بيوم. وهذا ليس خطأً — بل هكذا صُمِّم التقويم المدرسي في ماليزيا.

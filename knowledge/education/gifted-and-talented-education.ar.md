@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "الموهوبون والمتفوقون", "murid pintar berbakat", "تعليم الموهوبين في ماليزيا", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'الدرج الخارجي ومدخل مبنى كُتب عليه "PUSAT SUMBER PERMATAPINTAR"، وهو مركز الموارد لبرنامج تعليم الموهوبين الوطني في ماليزيا.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 طفل في العاشرة قادر على حلّ رياضيات الصف الخامس الثانوي لا يبرز دائماً في فصل دراسي عادي — وفي ماليزيا، المركز الوطني الوحيد المصمم للعثور على عقول كهذه ورعايتها هو PERMATApintar.

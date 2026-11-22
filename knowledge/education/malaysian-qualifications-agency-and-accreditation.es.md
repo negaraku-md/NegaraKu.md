@@ -83,6 +83,13 @@ stayFacts:
   cost: 'La búsqueda en el MQR es gratuita; el reconocimiento con el que puedas estar contando —una licencia profesional, un empleo público o estudiar en el extranjero— puede requerir, en cada caso, una verificación aparte con su propio organismo.'
   watch: 'La acreditación se adhiere al programa y al año de ingreso concretos, no a la institución: una universidad de prestigio puede ofrecer igualmente un programa nuevo, provisional o no listado. La afirmación «aprobado por la MQA» de un folleto no es el registro; confirma tú mismo la entrada en vigor, y ten en cuenta que el estatus provisional es legítimo, no de segunda categoría.'
   next: 'Consulta tu programa exacto en el MQR antes de pagar ningún depósito; para una profesión regulada, confirma la vía de acceso para los titulados con ese organismo profesional. Consulta Antes de pagar el depósito de un colegio universitario.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Una placa con el nombre montada en la pared que lleva el escudo y las palabras "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" sobre un muro revestido de piedra.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dos estudiantes se gradúan con un diploma de nombre casi idéntico. Uno reúne los requisitos para un empleo público y una plaza de máster; al otro lo rechazan en la puerta. La diferencia suele ser una sola línea en un registro público: si la Agencia de Cualificaciones de Malasia acreditó el programa.

@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'ஜொகூரில் உள்ள மக்தாப் ரெந்தா சைன்ஸ் மாரா (MRSM) பத்து பாஹாத் பள்ளியின் நுழைவாயிலும் அடையாளப் பலகையும், இது ஒரு மலேசிய முழு உறைவிட அறிவியல் கல்லூரி, வாயிலோரம் தேசிய மற்றும் மாநிலக் கொடிகளுடன்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியக் குடும்பங்கள் தங்கள் பிள்ளைகளுக்கான "சிறந்த" உறைவிடப் பள்ளிகள் பற்றி உரையாடும்போது இரண்டு பெயர்கள் அடிக்கடி எழுகின்றன: MRSM மற்றும் SBP. இரண்டும் தேர்ந்தெடுக்கப்பட்ட முழு உறைவிடக் கல்லூரிகள், இரண்டிலும் இடம்பெற கடுமையான போட்டி நிலவுகிறது — ஆனால் அவை இரு வெவ்வேறு அமைப்புகளால், இரு வெவ்வேறு கொள்கை ஆணைகளின் கீழ் நிர்வகிக்கப்படுகின்றன.

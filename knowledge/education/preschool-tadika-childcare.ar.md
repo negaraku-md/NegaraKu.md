@@ -71,6 +71,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "تسجيل دُور الحضانة", "رياض الأطفال الخاصة"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'واجهة روضة تاديكا الفلاح، وهي روضة أطفال ماليزية في ولاية جوهور، مع لافتة ترحيب وجدارية مرسومة للحروف الأبجدية على طول الجدار.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يُلحق كثير من الآباء أطفالهم بالـ tadika القريبة من البيت — يُرسِلون النموذج، ويدفعون الرسم، وينتهي الأمر. لكن السؤال الذي نادرًا ما يُطرح هو: لدى من تلك الـ tadika مسجَّلة فعلًا؟ والجواب ليس أمرًا تافهًا. فبحسب عمر الطفل ونوع المؤسسة، قد تقع تحت وزارتين مختلفتين كليًا، بقوانين ولوائح وأساليب إنفاذ غير متماثلة.

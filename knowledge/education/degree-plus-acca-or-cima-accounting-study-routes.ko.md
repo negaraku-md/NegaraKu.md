@@ -80,6 +80,13 @@ stayFacts:
   cost: '응시료, 시험 과목 수, 그리고 인증받은 학위가 인정받는 면제(exemption)는 모두 인증 주기마다 바뀝니다 — 그러니 제시된 면제 과목 수에 의존하지 말고, 전문기관·학원·대학에서 현재 수치를 직접 합산하십시오.'
   watch: 'ACCA나 CIMA 자체만으로는 말레이시아 회계사가 되지 않습니다 — MIA 회원 자격이 그렇게 만들며, 자격에 실무 경력을 더한 것이 거기에 이르는 경로입니다. 면제 과목 수는 이 주제에서 가장 자주 바뀌는 사실이니, 프로그램별로 확인하십시오.'
   next: '자신이 일하고 싶은 분야와 전형적인 진로가 맞는 전문기관을 고르고, 그것이 현재 MIA 회원 자격으로 이어지는지와 어떤 실무 경력이 요구되는지 확인한 뒤, 진입 지점·수학 방식·면제를 최적화하십시오. 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: '말레이시아 대학교의 강의동 단지로, 「KOMPLEKS DEWAN KULIAH」라고 쓰인 표지판 옆에 적갈색 학술 건물과 지붕 덮인 통로가 있다.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 회계사가 되는 법을 고민하는 누구나 약어 수프와 정면으로 마주칩니다. **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** 반드시 하나를 골라야 하는 경쟁 자격의 메뉴판처럼 보입니다. 하지만 **하나의 목적지와 그곳으로 가는 여러 갈래의 길**로 이해하는 편이 낫습니다 — 그리고 일단 목적지를 보고 나면 선택지가 제자리를 찾습니다.

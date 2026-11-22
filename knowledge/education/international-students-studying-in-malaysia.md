@@ -90,6 +90,13 @@ stayFacts:
   cost: 'Tuition varies widely by institution and programme, and the Student Pass carries separate EMGS and visa charges that are revised over time, so confirm current figures with the institution and the EMGS portal (educationmalaysia.gov.my) rather than a quoted number.'
   watch: 'MQA programme accreditation and institutional approval to take foreign students are two different checks — a fully accredited programme can sit at an institution that is not cleared to enrol you. English-medium teaching does not replace EMGS''s separate English-proficiency evidence.'
   next: 'Confirm both gates in writing with the institution''s international office, accept the offer, then follow the Student Pass process through EMGS. See The Student Pass, Studying in Malaysia, and the MQA accreditation explainer.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'The entrance of Monash University Malaysia campus, with a covered walkway sign reading "MONASH University" linking two beige academic blocks by a glass skybridge.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 An offer letter from the wrong kind of institution is worthless for a visa, even if the programme itself is perfectly accredited. That distinction — accredited programme versus approved-for-international-students institution — is where most confusion starts, well before anyone fills in an EMGS form.

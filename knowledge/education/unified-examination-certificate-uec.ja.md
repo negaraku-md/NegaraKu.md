@@ -80,6 +80,13 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'タワウのサバ中華高級中学（Sekolah Tinggi Cina Sabah）の入口看板と校庭で、生徒が統一試験（UEC）を受ける華文独立中学の一つである。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 UECというわずか3文字が、マレーシアの教育政治において半世紀以上続く論争を引き起こしてきた。ある人々にとって、それは世界の有力大学への扉を開く国際水準の証明書である。別の人々にとって、それは国語の地位と国の教育政策に関わる問題である。この二つの見方は同時に存在しており、全体像を理解するにはその両方を知る必要がある。

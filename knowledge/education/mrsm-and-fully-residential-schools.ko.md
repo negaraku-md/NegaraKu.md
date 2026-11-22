@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: '조호르주 Maktab Rendah Sains MARA(MRSM) Batu Pahat의 입구와 간판으로, 말레이시아 전원 기숙 이과 학교이며 정문을 따라 국기와 주기가 늘어서 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아 가정이 자녀를 위한 「최고의」 기숙학교를 이야기할 때 두 이름이 자주 등장합니다. MRSM과 SBP입니다. 둘 다 선발제 전기숙 칼리지이고, 둘 다 치열하게 경쟁해 들어가야 하지만, 이들은 서로 다른 두 기구가 서로 다른 두 정책 임무 아래 운영합니다.

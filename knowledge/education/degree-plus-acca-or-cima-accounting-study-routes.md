@@ -83,6 +83,13 @@ stayFacts:
   cost: 'Fees, exam counts and the exemptions an accredited degree carries all change with each accreditation cycle, so total the current figures yourself from the body, the tuition provider and the university — never rely on a quoted exemption number.'
   watch: 'ACCA or CIMA by itself does not make you a Malaysian accountant — MIA membership does, and the qualification plus experience is the route to it. Exemption counts are the single most changeable fact in the topic; verify them per programme.'
   next: 'Pick the body whose typical destination matches where you want to work, confirm it currently leads to MIA membership and what experience is required, then optimise your entry point, study mode and exemptions. See Before paying a college deposit.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'A Malaysian university lecture-hall complex with a sign reading "KOMPLEKS DEWAN KULIAH" beside maroon academic buildings and a covered walkway.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anyone deciding how to become an accountant in Malaysia runs straight into an alphabet soup: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** It looks like a menu of competing qualifications you must pick between. It is better understood as **one destination with several roads to it** — and once you see the destination, the choices fall into place.

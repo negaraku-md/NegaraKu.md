@@ -94,6 +94,13 @@ stayFacts:
   cost: 'El depósito es solo una fracción: pide el calendario completo de tasas por escrito para todo el programa (matrícula, tasa por semestre, recursos, exámenes, seguro y tasas de estudiante internacional), no solo del primer año, y confirma a qué concepto se imputa el depósito.'
   watch: 'Los depósitos suelen ser no reembolsables y no existe un derecho legal nacional de desistimiento: lo que puedes recuperar lo fija la propia política escrita de la institución. Un «traslado garantizado al tercer curso» es decisión de la universidad asociada, no del colegio local; consíguelo por escrito.'
   next: 'Plantea por escrito a la institución cada comprobación y guarda las respuestas antes de que salga ningún dinero de tu cuenta; verifica primero el programa exacto en el MQR. Consulta la explicación sobre la acreditación de la MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Las torres del Lakeside Campus de la Taylor''s University reflejadas en un lago al anochecer, con un letrero rojo "TAYLOR''S UNI" en el edificio principal.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 El depósito suele ser el primer dinero que una familia entrega a una universidad

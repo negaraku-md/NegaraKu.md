@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM مقابل Matrikulasi", "ما قبل الجامعة ماليزيا", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "الدبلوم إلى الدرجة الجامعية", "فئات قبول UPU", "مسارات ما قبل الجامعة بعد SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'المبنى الأكاديمي لكلّية كوليج ماتريكولاسي كلنتان، وهي كلّية تأهيلية ماليزية تتيح مسارًا تحضيريًا للجامعة، تحت سماء زرقاء.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يخرج طالبان من قاعة SPM نفسها بنتائج شبه متطابقة. وبعد ثمانية عشر شهرًا،

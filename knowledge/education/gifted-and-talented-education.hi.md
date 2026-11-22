@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "प्रतिभाशाली और मेधावी", "murid pintar berbakat", "मलेशिया प्रतिभाशाली शिक्षा", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'मलेशिया के राष्ट्रीय प्रतिभाशाली-शिक्षा कार्यक्रम के संसाधन केंद्र, "PUSAT SUMBER PERMATAPINTAR" लिखी इमारत की बाहरी सीढ़ी और प्रवेश-द्वार।'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक 10 वर्षीय बच्चा जो फॉर्म फाइव का गणित हल कर सकता है, एक सामान्य कक्षा में हमेशा अलग नहीं दिखता — और मलेशिया में, ऐसी प्रतिभाओं को खोजने और पोषित करने के लिए बनाया गया एकमात्र राष्ट्रीय केंद्र PERMATApintar है।

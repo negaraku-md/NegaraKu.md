@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'Pemandangan dari udara Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara, menunjukkan susunan segi empat blok bilik darjah sekolah, padang sukan dan kawasan kejiranan kediaman.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bagi seorang kanak-kanak yang membesar di Malaysia, soalan "sekolah mana?" membawa makna yang lebih mendalam berbanding di banyak negara. Sebahagiannya tentang jarak dan reputasi, seperti di mana-mana sahaja — tetapi ia juga merupakan pilihan antara sekolah kebangsaan yang mengajar terutamanya dalam bahasa Melayu dan sekolah jenis kebangsaan yang mengajar dalam bahasa Cina atau Tamil. Kedua-duanya adalah sebahagian daripada sistem awam yang sama, mengikut kurikulum kebangsaan yang sama, dan membawa kepada peperiksaan kebangsaan yang sama. Memahami bagaimana sistem itu bergabung bersama ialah langkah pertama untuk menavigasinya.

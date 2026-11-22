@@ -74,6 +74,13 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "المدارس الدينية", "التحفيظ", "tahfiz", "KAFA", "JAKIM", "التعليم الإسلامي", "المدارس الدينية المجتمعية", "دائرة الشؤون الدينية في الولاية"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'صفٌّ من الطلاب يرتدون "باجو كورونج" أزرق وأغطية رأس سوداء يدخلون مدرسة سكولاه مننغه أغاما المعارف، وهي مدرسة ثانوية دينية ماليزية، مرورًا بأشجار جوز الهند.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قد يقضي طفل في ماليزيا صباحه في مدرسة وطنية، وبعد ظهره في صف KAFA بأحد المساجد، وسنوات مراهقته في مهجع تحفيظ — ثلاث بيئات تعليمية مختلفة بمشرفيها ومناهجها وقوانينها. يجري مسار التعليم الديني الإسلامي موازياً للنظام الوطني، لكنه ليس كتلة واحدة. إن فهم من يسجّل ماذا، ومن المسؤول عن ماذا، هو مفتاح قراءة النقاش العام حول هذا الموضوع بإنصاف.

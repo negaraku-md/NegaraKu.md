@@ -91,6 +91,13 @@ stayFacts:
   cost: 'Yuran ditetapkan oleh MPM dan lebih tinggi bagi bukan warganegara serta bagi versi MUET on Demand berasaskan komputer, dan ia berubah — sahkan yuran semasa di portal MPM (mpm.edu.my) dan bukan angka yang dipetik.'
   watch: 'Tiada satu band lulus tunggal — minimumnya berbeza mengikut program dan ditetapkan oleh Senat setiap universiti. Keputusan sah selama lima tahun, jadi menduduki terlalu awal boleh menyebabkannya luput sebelum anda memohon.'
   next: 'Semak band minimum program sasaran anda di laman web universiti, daftar awal melalui MPM, dan jejaki tempoh sah lima tahun itu. Lihat perbandingan Universiti awam vs swasta.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Barisan pelajar yang duduk di meja masing-masing menduduki peperiksaan di sebuah dewan universiti di Malaysia, dengan seorang pengawas peperiksaan berjalan di antara lorong.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda boleh cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu keputusan lagi, borang permohonan ijazah anda masih tidak lengkap. Keputusan itu ialah MUET — dan ramai pelajar hanya menyedari kepentingannya apabila tarikh tutup permohonan universiti sudah menjelang.

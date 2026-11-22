@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'மலேசியாவின் தேசிய திறமையாளர் கல்வித் திட்டத்தின் வள மையமான, "PUSAT SUMBER PERMATAPINTAR" என்று எழுதப்பட்ட கட்டிடத்தின் வெளிப்புறப் படிக்கட்டும் நுழைவாயிலும்.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 படிவம் ஐந்து (Form Five) கணிதத்தைத் தீர்க்கக்கூடிய 10 வயது சிறுவர் ஒருவர் சாதாரண வகுப்பறையில் எப்போதும் தனித்து விளங்குவதில்லை — மலேசியாவில், இதுபோன்ற அறிவுத்திறன்களைத் தேடிக் கண்டறிந்து வளர்ப்பதற்காக வடிவமைக்கப்பட்ட ஒரே ஒரு தேசிய மையம் PERMATApintar ஆகும்.

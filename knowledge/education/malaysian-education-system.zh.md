@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: '一群面带微笑的马来西亚中学生身穿校服合影，包括白衬衫、头巾和学院运动服。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 找三个马来西亚人来描述「教育体系」，你会得到三张不同的地图。一个人谈的是国民学校（SK）与国民型华文学校（SJKC）的区别。另一个人谈的是STPM与Matrikulasi（预科班）的区别。第三个人则提到一张连技职培训圈子以外的人都没听过的SKM证书。三个人说的其实是同一套体系——只是站在不同的分支上而已。

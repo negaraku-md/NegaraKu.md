@@ -84,6 +84,13 @@ relations:
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: '柔佛州 Maktab Rendah Sains MARA（MRSM）Batu Pahat 的入口和招牌，这是一所马来西亚全寄宿制理科学院，大门两旁排列着国旗和州旗。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚家庭在谈论为孩子选择"最好"的寄宿学校时，常常会提到两个名字：MRSM 与 SBP。两者都是遴选性的全寄宿学院，都竞争激烈、一位难求——但它们由两个不同的机构管理，隶属于两套不同的政策使命。

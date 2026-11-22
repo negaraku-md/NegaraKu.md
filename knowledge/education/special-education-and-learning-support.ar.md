@@ -63,6 +63,13 @@ relations:
 related: []
 keywords: ["التعليم الخاص ماليزيا", "special education Malaysia", "برنامج PPKI", "التعليم الدامج PPI", "بطاقة OKU للأطفال", "sekolah pendidikan khas", "دعم صعوبات التعلّم ماليزيا", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'صورة جماعية لمعلّمي ومساعدي إدارة الطلاب في برنامج دمج التعليم الخاص (PPKI) في مدرسة ثانوية ماليزية، SMK تامان يونيفرسيتي.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 التشخيص ليس إلا المحادثة الأولى. أما الثانية — وهي غالباً أكثر إرباكاً — فهي أيّ مسار مدرسي يدخل إليه طفلك فعلاً، ولماذا يبدو أن بطاقة OKU تهمّ قبل المدرسة. فنظام ماليزيا يضمّ ثلاثة مسارات عامة، وعملية تسجيل إعاقة منفصلة تغذّيها جميعاً، وعالماً موازياً من العلاج الخاص وعلاج المنظمات غير الحكومية يكتشفه معظم أولياء الأمور بالتناقل الشفهي لا عبر صفحة رسمية واحدة.

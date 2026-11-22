@@ -93,6 +93,13 @@ stayFacts:
   cost: 'The deposit is only a fraction — ask for the complete written fee schedule for the entire programme (registration, per-semester tuition, resource, exam, insurance and international-student fees), not just year one, and confirm what the deposit is credited against.'
   watch: 'Deposits are frequently non-refundable and there is no national statutory cooling-off right — what you can get back is set by the institution''s own written policy. A ''guaranteed transfer to Year 3'' is the partner university''s decision, not the local college''s; get it in writing.'
   next: 'Put every check to the institution in writing and keep the replies before any money leaves your account; verify the exact programme on the MQR first. See the MQA accreditation explainer.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Taylor''s University Lakeside Campus towers reflected in a lake at dusk, with a red "TAYLOR''S UNI" sign on the main building.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 The deposit is usually the first money a family hands a college — and, once it is

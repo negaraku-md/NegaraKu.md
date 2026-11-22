@@ -70,6 +70,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: '柔佛州一所马来西亚幼儿园 Tadika Al-Falah 的正面，设有欢迎牌和沿墙绘制的字母壁画。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 许多父母把孩子送到住家附近的 tadika——交表格、缴费，就算完成了。但很少人会问的问题是：这间 tadika 到底向谁注册？答案并非小事。视孩子的年龄与机构类型而定，它可能归属于两个截然不同的部门，各自有不同的法令、条例与执法方式。

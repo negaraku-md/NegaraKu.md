@@ -72,6 +72,13 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "رابطة الآباء والمعلمين", "رسوم المدرسة", "الرسوم الخاصة", "مساهمة PIBG", "المدرسة الحكومية", "تكلفة الدراسة"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'مبانٍ منخفضة ذات أسقف حمراء وملعب أخضر لمدرسة ابتدائية في بريكفيلدز بكوالالمبور، على خلفية أفق ناطحات السحاب في كيه إل سنترال.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 طفلك مُلتحق بمدرسة حكومية «مجانية» — ومع ذلك يصلك نموذج PIBG وقائمة مدفوعات إلى بابك. فما الذي يجب دفعه فعلًا، وما الذي لا يجب؟

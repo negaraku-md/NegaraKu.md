@@ -78,6 +78,13 @@ keywords:
   - "Unified Examination Certificate"
   - "división de educación privada Malasia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'El edificio principal de la Papar Middle School, una escuela secundaria independiente china en Sabah, con su nombre mostrado en chino e inglés en la fachada.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pregunta a un padre malasio qué es una «escuela privada» y podría referirse a

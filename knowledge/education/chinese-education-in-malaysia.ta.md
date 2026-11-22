@@ -78,6 +78,13 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'SJK(C) சுன் யின் பள்ளியின் நீல நிற நுழைவு வளைவு வாயில், சீன எழுத்துக்களிலும் "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN" என்றும் எழுதப்பட்டு, பள்ளி வளாகத்திற்கு வழிநடத்துகிறது.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 அதிகாலையில், ஒரு சீனத் தொடக்கப் பள்ளியின் விளையாட்டு மைதானத்தில் மாண்டரின், மலாய் மற்றும் ஆங்கிலம் கலந்த குரல்கள் ஒலிக்கின்றன; சில மாநிலங்கள் தள்ளி, ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளியின் (独中) அரங்கில் மாணவர்கள் ஆண்டிறுதி UEC தேர்வுக்குத் தயாராகிறார்கள்; ஜொகூர் மற்றும் பினாங்கில், சீனக் கல்வி அமைப்பிலிருந்து வளர்ந்த பல்கலைக்கழகக் கல்லூரிகள் புதிய மாணவர்களை வரவேற்கின்றன. இந்தக் காட்சிகள் அனைத்தும் ஒரே தொடரைச் சேர்ந்தவை — மலேசியாவின் சீனக் கல்வி — எனினும் வெவ்வேறு நிலைகளில், வெவ்வேறு நிதியளிப்பு முறைகள் மற்றும் சட்ட ஏற்பாடுகளின் கீழ் அமைந்துள்ளன.

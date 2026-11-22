@@ -74,6 +74,13 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'நீல வானத்தின் கீழ், பல்கலைக்கழகத்திற்கு முந்தைய வழியை வழங்கும் மலேசிய மெட்ரிகுலேஷன் கல்லூரியான கோலெஜ் மேட்ரிகுலாசி கிளாந்தானின் கல்விக் கட்டிடத் தொகுதி.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 இரண்டு மாணவர்கள் ஏறத்தாழ ஒரே மாதிரியான முடிவுகளுடன் அதே SPM மண்டபத்திலிருந்து

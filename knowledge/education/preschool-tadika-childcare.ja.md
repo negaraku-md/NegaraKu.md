@@ -69,6 +69,13 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'ジョホール州のマレーシアの幼稚園 Tadika Al-Falah の正面で、歓迎の看板と壁に沿って描かれたアルファベットの壁画がある。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 多くの親は近所の「幼稚園（tadika）」に子どもを通わせる——申込書を出し、費用を払えば、それで済んだと思っている。しかし、めったに問われない疑問がある。その幼稚園は、いったいどこに登録されているのか。この答えは些細な問題ではない。子どもの年齢と施設の種類によって、まったく異なる二つの省庁のいずれかの所管となり、適用される法令、規則、執行方法もそれぞれ異なる。
