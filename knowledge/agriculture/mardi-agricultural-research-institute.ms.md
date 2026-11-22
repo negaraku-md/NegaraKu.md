@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'Pintu gerbang utama institut penyelidikan pertanian MARDI di Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hampir setiap pinggan nasi tempatan di Malaysia menjejak asalnya kepada varieti yang dibiakbakakan di stesen ladang MARDI. Di sebalik padi, ternakan ayam itik, buah tropika dan rak makanan diproses negara ini terletak satu institut persekutuan yang tugasnya menterjemahkan sains kepada hasil yang lebih tinggi.

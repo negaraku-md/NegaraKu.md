@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["industria pesquera de Malasia", "producción de pescado de Malasia", "acuicultura Malasia", "aquaculture Malaysia", "LKIM", "Departamento de Pesca de Malasia", "Ley de Pesca 1985", "Fisheries Act 1985", "intrusión de embarcaciones pesqueras extranjeras", "IUU fishing Malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'Arrastreros de pesca de madera amarrados en un embarcadero frente a la isla de Penang, Malasia.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Antes del amanecer, en los embarcaderos a lo largo del estrecho de Malaca y

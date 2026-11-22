@@ -82,6 +82,13 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "صغار مزارعي نخيل الزيت", "MSPO certification", "شهادة MSPO", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "زيت النخيل المستدام في ماليزيا"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'مزرعة نخيل زيت فتيّة تغطّي أرضاً متموّجة في ميرسينغ بماليزيا.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 مزارعٌ في بينتولو يستطيع أن يتتبّع كل حدود قطعة نخيل الزيت خاصته من ذاكرته بات

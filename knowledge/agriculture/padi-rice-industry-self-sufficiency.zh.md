@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: '马来西亚浮罗交怡一片绿色的稻田，田中立着稻草人，背后是林木覆盖的山丘。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 每当大米价格上涨或超市货架空空如也，一个由来已久的问题就再次困扰着马来西亚：一个稻田肥沃的国家，为何仍需进口近半的大米？答案在于一个由补贴推动、由保障价格庇护、并被至今仍未达成的自给目标所追逐的产业。

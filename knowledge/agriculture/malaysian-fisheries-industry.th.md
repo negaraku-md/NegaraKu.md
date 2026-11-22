@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'เรืออวนลากไม้จอดเทียบอยู่ที่ท่าเทียบเรือนอกเกาะปีนัง ประเทศมาเลเซีย'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ก่อนรุ่งสางที่ท่าเทียบเรือตลอดช่องแคบมะละกาและทะเลจีนใต้ เรือประมงชายฝั่งนับพันลำออกสู่ทะเลเพื่อจัดหาปลาเกือบเก้าในสิบส่วนที่ทั้งประเทศบริโภค ในเวลาเดียวกัน ในน่านน้ำที่ไกลออกไป เรืออวนลากที่ไม่ได้ชักธงมาเลเซียก็ลากอวนของพวกเขาข้ามพรมแดนที่สายตามองไม่เห็น

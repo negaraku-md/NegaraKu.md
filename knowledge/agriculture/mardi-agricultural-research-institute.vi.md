@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'Cổng chính của viện nghiên cứu nông nghiệp MARDI ở Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Gần như mỗi bát gạo địa phương ở Malaysia đều truy về một giống được lai tạo tại một trạm thực nghiệm của MARDI. Đằng sau lúa, gia cầm, trái cây nhiệt đới và các kệ thực phẩm chế biến của đất nước là một viện liên bang có nhiệm vụ biến khoa học thành sản lượng cao hơn.

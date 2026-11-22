@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["secteur agricole de la Malaisie", "agroalimentaire Malaisie", "Politique nationale agroalimentaire", "taux d'autosuffisance alimentaire", "KPKM", "KPK", "huile de palme riz caoutchouc", "sécurité alimentaire Malaisie"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'Une rizière d''un vert luxuriant avec un canal d''irrigation s''étendant jusqu''à l''horizon à Sekinchan, en Malaisie.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En 2024, la Malaisie a produit plus de 100 millions de tonnes de régimes de fruits

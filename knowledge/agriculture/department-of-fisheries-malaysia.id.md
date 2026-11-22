@@ -77,6 +77,13 @@ relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Gedung pasar ikan berbentuk bundar dengan perahu nelayan tertambat di sisi dermaga di Sandakan, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap perahu yang menebar pukat secara sah di perairan Malaysia pada akhirnya bertanggung jawab kepada satu lembaga. **Departemen Perikanan Malaysia (DOF)** — *Department of Fisheries Malaysia* — adalah badan federal yang mengelola sumber daya laut dan akuakultur negara serta melisensikan semua aktivitas perikanan. Ia beroperasi di bawah **Kementerian Pertanian dan Ketahanan Pangan (MAFS)**, mengelola **Akta Perikanan 1985 (Akta 317)**, dan dipimpin oleh **Direktur Jenderal Perikanan**. Kantor pusatnya terletak di Wisma Tani, Putrajaya, didukung oleh jaringan kantor negara bagian dan daerah.

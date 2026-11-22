@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: '말레이시아 스킨찬의 푸릇푸릇한 논과 지평선까지 이어지는 관개 수로.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024년 말레이시아는 1억 톤이 넘는 팜 생과방 — 말레이시아 통계청(DOSM)에 따르면 약 1억 20만 톤 — 을 생산했으며, 이는 세계 2대 팜유 생산국의 지위를 유지하기에 충분한 양이었습니다. 같은 해에 이 나라는 국민이 먹는 쌀의 거의 절반을 수입했습니다.

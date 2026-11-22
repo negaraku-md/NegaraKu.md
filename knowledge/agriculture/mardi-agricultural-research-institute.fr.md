@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "recherche agricole", "agricultural research", "variétés de riz", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "agriculture Malaisie", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'Le portail d''entrée principal de l''institut de recherche agricole MARDI, en Malaisie.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Presque chaque bol de riz local en Malaisie remonte à une variété améliorée dans une station de terrain de MARDI. Derrière le paddy, la volaille, les fruits tropicaux et les rayons d'aliments transformés du pays se trouve un institut fédéral dont le travail consiste à transformer la science en rendements plus élevés.

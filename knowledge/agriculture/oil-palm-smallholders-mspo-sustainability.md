@@ -81,6 +81,13 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'A young oil palm plantation covering rolling land in Mersing, Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 A farmer in Bintulu who can walk every boundary of his oil palm plot from memory now has to turn those "mental maps" into GPS polygons before a buyer in Europe will touch his fruit. That gap — between knowing your land and documenting it to an auditor's satisfaction — is the quiet story behind Malaysia's smallholder palm oil economy.

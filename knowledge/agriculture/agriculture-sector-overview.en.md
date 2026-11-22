@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'A lush green rice paddy with an irrigation channel running to the horizon in Sekinchan, Malaysia.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 In 2024, Malaysia produced over 100 million tonnes of fresh fruit bunches of oil palm — about 100.2 million tonnes according to the Department of Statistics Malaysia (DOSM) — enough to maintain its position among the world's two largest palm oil producers. In the same year, the country imported nearly half of the rice its people ate.

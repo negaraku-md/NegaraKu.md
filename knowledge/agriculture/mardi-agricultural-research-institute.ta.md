@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'மலேசியாவில் MARDI வேளாண் ஆராய்ச்சி நிறுவனத்தின் முதன்மை நுழைவாயில்.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் உள்ளூர் அரிசியின் கிட்டத்தட்ட ஒவ்வொரு கிண்ணமும், MARDI-இன் கள நிலையம் ஒன்றில் இனப்பெருக்கம் செய்யப்பட்ட ஓர் இரகத்தில் தொடங்குகிறது. நாட்டின் நெல், கோழி வளர்ப்பு, வெப்பமண்டலப் பழங்கள் மற்றும் பதப்படுத்தப்பட்ட உணவு அடுக்குகளுக்குப் பின்னால், அறிவியலை உயர்ந்த விளைச்சலாக மாற்றுவதை வேலையாகக் கொண்ட ஒரு கூட்டாட்சி நிறுவனம் அமர்ந்துள்ளது.

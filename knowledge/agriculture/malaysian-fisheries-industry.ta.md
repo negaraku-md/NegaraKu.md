@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'மலேசியாவின் பினாங்குத் தீவுக்கு அப்பால் ஒரு கப்பல்துறையில் நங்கூரமிட்ட மரத்தாலான இழுவலை மீன்பிடிப் படகுகள்.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 விடியலுக்கு முன்பே, மலாக்கா நீரிணை மற்றும் தென் சீனக் கடல் நெடுகிலும்

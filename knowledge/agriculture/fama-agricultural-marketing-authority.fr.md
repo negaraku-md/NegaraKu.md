@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Autorité fédérale de commercialisation agricole", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "marché de producteurs", "My Farm Outlet", "Agrobazaar", "commercialisation agricole", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Des rangées d''étals sous auvent dans un marché de producteurs Pasar Tani à Putrajaya, en Malaisie.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un maraîcher des [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) peut cultiver les meilleurs produits, et pourtant le

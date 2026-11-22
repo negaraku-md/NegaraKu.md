@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sector agrícola de Malasia", "agroalimentario Malasia", "Política Nacional Agroalimentaria", "tasa de autosuficiencia alimentaria", "KPKM", "KPK", "aceite de palma arroz caucho", "seguridad alimentaria Malasia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'Un exuberante arrozal verde con un canal de riego que llega hasta el horizonte en Sekinchan, Malasia.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En 2024, Malasia produjo más de 100 millones de toneladas de racimos de fruta

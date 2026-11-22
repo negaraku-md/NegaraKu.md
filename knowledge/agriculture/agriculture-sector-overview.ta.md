@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'மலேசியாவின் செக்கிஞ்சானில் அடிவானம் வரை நீளும் நீர்ப்பாசனக் கால்வாயுடன் கூடிய பசுமையான நெல் வயல்.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024ல், மலேசியா 100 மில்லியன் டன்னுக்கும் அதிகமான பாமாயில் புதிய குலைப் பழங்களை (fresh fruit bunches) உற்பத்தி செய்தது — மலேசியா புள்ளிவிவரத் திணைக்களத்தின் (Department of Statistics Malaysia, DOSM) படி சுமார் 100.2 மில்லியன் டன் — உலகின் இரண்டு மிகப்பெரிய பாமாயில் உற்பத்தியாளர்களில் ஒன்று என்ற தனது நிலையைத் தக்கவைக்கப் போதுமானது. அதே ஆண்டில், இந்த நாடு தனது மக்கள் உண்ணும் அரிசியில் கிட்டத்தட்ட பாதியை இறக்குமதி செய்தது.

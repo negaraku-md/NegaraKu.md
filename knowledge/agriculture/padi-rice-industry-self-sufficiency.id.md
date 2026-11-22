@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'Sawah padi hijau dengan orang-orangan sawah dan perbukitan berhutan di belakangnya di Langkawi, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap kali harga beras naik atau rak supermarket kosong, satu pertanyaan lama kembali menghantui Malaysia: mengapa negara yang subur dengan sawah masih perlu mengimpor hampir separuh berasnya? Jawabannya terletak pada satu industri yang didorong subsidi, dilindungi harga terjamin, dan dikejar oleh target swasembada yang masih belum tercapai.

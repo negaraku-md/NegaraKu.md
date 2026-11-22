@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["صناعة مصايد الأسماك في ماليزيا", "إنتاج الأسماك في ماليزيا", "الاستزراع المائي", "aquaculture Malaysia", "LKIM", "دائرة مصايد الأسماك الماليزية", "قانون مصايد الأسماك 1985", "Fisheries Act 1985", "تسلّل سفن الصيد الأجنبية", "IUU fishing Malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'قوارب صيد خشبية بشباك الجرّ ترسو عند رصيف قبالة جزيرة بينانغ بماليزيا.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قبيل الفجر، على الأرصفة الممتدة على طول مضيق ملقا وبحر الصين الجنوبي، تنطلق آلاف قوارب الصيد الساحلية إلى البحر لتوفّر نحو تسعة أعشار الأسماك التي تُؤكل في أنحاء البلاد. وفي الوقت نفسه، في مياه أبعد، تجرّ سفن صيد لا ترفع العلم الماليزي شباكها عبر حدود لا تراها العين.

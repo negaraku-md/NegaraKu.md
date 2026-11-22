@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Những dãy quầy hàng có mái che tại chợ nông dân Pasar Tani ở Putrajaya, Malaysia.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một nông dân trồng rau ở [Cameron Highlands](/vi/tourism/cameron-highlands-visitor-guide) có thể trồng ra những sản phẩm tốt nhất, nhưng giá mà họ nhận được tại ruộng thường khác xa với giá tại quầy hàng ở thành phố. Chính khoảng cách đó — giữa đồng ruộng và bàn ăn — là công việc của một cơ quan theo luật định ít khi được nhắc tên nhưng lại thường xuyên được chạm đến qua thành quả của nó.

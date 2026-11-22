@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'マレーシアのペナン島沖の桟橋に係留された木造のトロール漁船。'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マラッカ海峡と南シナ海沿岸の桟橋では、夜明け前から数千隻の沿岸漁船が漁に

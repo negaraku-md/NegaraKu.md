@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'Một cánh đồng lúa xanh với bù nhìn và những ngọn đồi rừng phía sau ở Langkawi, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mỗi lần giá gạo tăng hoặc kệ siêu thị trống rỗng, một câu hỏi cũ lại quay về ám ảnh Malaysia: tại sao một đất nước màu mỡ với những cánh đồng lúa vẫn phải nhập khẩu gần một nửa lượng gạo của mình? Câu trả lời nằm ở một ngành được thúc đẩy bởi trợ cấp, được bảo vệ bởi giá được bảo đảm, và bị đeo đuổi bởi các mục tiêu tự cung tự cấp vẫn chưa đạt được.

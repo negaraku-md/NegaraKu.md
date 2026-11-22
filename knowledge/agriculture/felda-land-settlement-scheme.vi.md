@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'Một cổng vòm bên đường đánh dấu lối vào khu định cư đất FELDA Ayer Hitam ở Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hãy hình dung một gia đình nghèo được chuyển đến một khu rừng vừa mới chặt hạ, được cấp một mảnh đất và một khoản tiền công hằng tháng, rồi được yêu cầu chờ nhiều năm cho đến khi cây cao su hoặc dầu cọ của họ cho thu hoạch. Đó là lời chào mời đã thay đổi cuộc sống của hơn 100,000 gia đình nông thôn Malaysia — và động cơ của nó là FELDA.

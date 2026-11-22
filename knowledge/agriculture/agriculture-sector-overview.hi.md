@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["मलेशियाई कृषि क्षेत्र", "मलेशिया कृषि-खाद्य", "राष्ट्रीय कृषि-खाद्य नीति", "खाद्य आत्मनिर्भरता दर", "KPKM", "KPK", "ताड़-तेल चावल रबर", "मलेशिया खाद्य सुरक्षा"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'मलेशिया के सेकिनचान में क्षितिज तक जाती एक सिंचाई नहर के साथ हरा-भरा धान का खेत।'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2024 में, मलेशिया ने तेल-ताड़ के 100 मिलियन टन से अधिक ताज़ा फल-गुच्छे उत्पादित किए —

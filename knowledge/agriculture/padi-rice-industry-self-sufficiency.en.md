@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'A green rice paddy with a scarecrow and forested hills behind in Langkawi, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Every time rice prices rise or supermarket shelves run empty, an old question comes back to haunt Malaysia: why does a country so rich in padi fields still need to import nearly half its rice? The answer lies in an industry driven by subsidies, protected by guaranteed prices, and chased by a self-sufficiency target that has yet to be reached.

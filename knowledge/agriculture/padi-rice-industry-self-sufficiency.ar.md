@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "الأرز", "kadar sara diri", "SSL", "jelapang padi", "مخازن الأرز", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "دعم الأرز"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'حقل أرز أخضر فيه فزّاعة وتلال مكسوّة بالغابات في الخلفية في لنكاوي بماليزيا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في كل مرة ترتفع فيها أسعار الأرز أو تفرغ رفوف المتاجر الكبرى، يعود سؤال قديم

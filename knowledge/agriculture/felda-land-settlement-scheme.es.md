@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "colonización de tierras", "palma aceitera", "FGV Holdings", "Ley de Tierras 1960", "pobreza rural"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'Un arco junto a la carretera que marca la entrada al asentamiento agrario FELDA Ayer Hitam en Malasia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Imagine a una familia pobre trasladada a un bosque recién desbrozado, a la que se le entrega una parcela de tierra y un salario mensual, y a la que luego se le pide esperar años hasta que sus árboles de caucho o palma aceitera maduren. Esa fue la oferta que cambió la vida de más de 100,000 familias rurales malasias — y su motor fue FELDA.

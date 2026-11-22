@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'மலேசியாவில் FELDA அயர் ஹிதம் நிலக்குடியேற்றத்தின் நுழைவாயிலைக் குறிக்கும் சாலையோர வளைவு.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 புதிதாக வெட்டப்பட்ட ஒரு காட்டுக்கு இடம்பெயர்க்கப்பட்ட ஒரு ஏழைக் குடும்பத்தை கற்பனை செய்யுங்கள் — அவர்களுக்கு ஒரு நிலத்துண்டும் மாதாந்திர ஊதியமும் வழங்கப்பட்டு, பின்னர் அவர்களின் ரப்பர் அல்லது பாமாயில் மரங்கள் முதிர்ச்சியடையும் வரை பல ஆண்டுகள் காத்திருக்கச் சொல்லப்பட்டது. மலேசியாவின் 100,000-க்கும் மேற்பட்ட கிராமப்புற குடும்பங்களின் வாழ்க்கையை மாற்றிய வாய்ப்பு அதுவே — அதன் இயந்திரம் FELDA.

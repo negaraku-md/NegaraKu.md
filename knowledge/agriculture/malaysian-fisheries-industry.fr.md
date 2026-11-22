@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["industrie de la pêche en Malaisie", "production de poisson de la Malaisie", "aquaculture Malaisie", "aquaculture Malaysia", "LKIM", "Département des pêches de la Malaisie", "Loi sur les pêches 1985", "Fisheries Act 1985", "intrusion de navires de pêche étrangers", "IUU fishing Malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'Des chalutiers de pêche en bois amarrés à une jetée au large de l''île de Penang, en Malaisie.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Avant l'aube, aux embarcadères le long du détroit de Malacca et de la mer de

@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: '马来西亚槟榔屿外海一座码头旁停泊着一艘艘木制拖网渔船。'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 黎明前，在马六甲海峡与南中国海沿岸的码头上，数以千计的沿岸渔船

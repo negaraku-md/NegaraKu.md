@@ -72,6 +72,13 @@ relations:
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'The main entrance gate of the MARDI agricultural research institute in Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Almost every bowl of local rice in Malaysia traces back to a variety bred in a MARDI field station. Behind the country's padi, poultry, tropical fruit and processed-food shelves sits one federal institute whose job is to turn science into higher yields.

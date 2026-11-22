@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: '말레이시아 랑카위의 허수아비가 세워진 푸른 논과 그 뒤로 숲으로 덮인 언덕.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 쌀값이 오르거나 슈퍼마켓 진열대가 비워질 때마다, 오래된 질문 하나가 말레이시아를 다시 괴롭힙니다: 논이 비옥한 나라가 왜 아직도 쌀의 거의 절반을 수입해야 하는가? 그 답은 보조금이 추동하고, 보장 가격으로 보호되며, 아직 달성되지 않은 자급 목표에 쫓기는 한 산업에 있습니다.

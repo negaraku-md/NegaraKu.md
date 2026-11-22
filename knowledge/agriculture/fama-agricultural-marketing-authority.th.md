@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'แผงที่มีหลังคาเรียงรายกันในตลาดเกษตรกรปาซาร์ตานีในปุตราจายา ประเทศมาเลเซีย'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เกษตรกรผู้ปลูกผักใน [คาเมรอนไฮแลนด์ส](/th/tourism/cameron-highlands-visitor-guide) อาจปลูกผลผลิตที่ดีที่สุดได้ แต่ราคาที่เขาได้รับ ณ ไร่นา มักแตกต่างจากราคาที่แผงในเมืองอย่างมาก ช่องว่างนั้นเอง — ระหว่างไร่นากับจานอาหาร — คือภารกิจของหน่วยงานตามกฎหมายแห่งหนึ่งที่ไม่ค่อยมีใครเอ่ยชื่อ แต่ผลงานของหน่วยงานนี้กลับสัมผัสได้บ่อยครั้ง

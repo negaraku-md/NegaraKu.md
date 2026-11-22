@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'மலேசியாவின் லங்காவியில் ஒரு சோளக்கொல்லைப் பொம்மையுடனும் பின்னால் காடடர்ந்த மலைகளுடனும் கூடிய பசுமையான நெல் வயல்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 அரிசி விலை உயரும் ஒவ்வொரு முறையும் அல்லது பேரங்காடி அலமாரிகள் காலியாகும் ஒவ்வொரு முறையும், ஒரு பழைய கேள்வி மீண்டும் மலேசியாவை வேட்டையாடுகிறது: வயல்களால் வளமான ஒரு நாடு ஏன் இன்னும் தனது அரிசியில் கிட்டத்தட்ட பாதியை இறக்குமதி செய்ய வேண்டியுள்ளது? பதில், மானியத்தால் இயக்கப்படும், உத்தரவாத விலையால் பாதுகாக்கப்படும், மற்றும் இன்னும் அடையப்படாத தன்னிறைவு இலக்குகளால் துரத்தப்படும் ஒரு தொழிலில் உள்ளது.

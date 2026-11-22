@@ -7075,5 +7075,271 @@
       "kb": 119
     },
     "body": []
+  },
+  "agriculture/agriculture-sector-overview": {
+    "hero": {
+      "file": "/media/agriculture/agriculture-sector-overview/hero.webp",
+      "credit": "Hashvina / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "paddy field",
+      "alt": "A lush green rice paddy with an irrigation channel running to the horizon in Sekinchan, Malaysia.",
+      "kb": 157
+    },
+    "body": []
+  },
+  "agriculture/padi-rice-industry-self-sufficiency": {
+    "hero": {
+      "file": "/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "paddy field",
+      "alt": "A green rice paddy with a scarecrow and forested hills behind in Langkawi, Malaysia.",
+      "kb": 178
+    },
+    "body": []
+  },
+  "agriculture/oil-palm-smallholders-mspo-sustainability": {
+    "hero": {
+      "file": "/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp",
+      "credit": "Wee Hong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "oil palm plantation",
+      "alt": "A young oil palm plantation covering rolling land in Mersing, Malaysia.",
+      "kb": 174
+    },
+    "body": []
+  },
+  "agriculture/felda-land-settlement-scheme": {
+    "hero": {
+      "file": "/media/agriculture/felda-land-settlement-scheme/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "FELDA settlement",
+      "alt": "A roadside arch marking the entrance to the FELDA Ayer Hitam land settlement in Malaysia.",
+      "kb": 77
+    },
+    "body": []
+  },
+  "agriculture/fama-agricultural-marketing-authority": {
+    "hero": {
+      "file": "/media/agriculture/fama-agricultural-marketing-authority/hero.webp",
+      "credit": "GuillaumeG / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Pasar Tani farmers' market",
+      "alt": "Rows of canopy stalls at a Pasar Tani farmers' market in Putrajaya, Malaysia.",
+      "kb": 126
+    },
+    "body": []
+  },
+  "agriculture/department-of-fisheries-malaysia": {
+    "hero": {
+      "file": "/media/agriculture/department-of-fisheries-malaysia/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "fish landing and market hall",
+      "alt": "A circular fish market hall with fishing boats moored alongside the wharf in Sandakan, Malaysia.",
+      "kb": 178
+    },
+    "body": []
+  },
+  "agriculture/malaysian-fisheries-industry": {
+    "hero": {
+      "file": "/media/agriculture/malaysian-fisheries-industry/hero.webp",
+      "credit": "calflier001 / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "fishing boats",
+      "alt": "Wooden fishing trawlers moored at a jetty off Penang Island, Malaysia.",
+      "kb": 177
+    },
+    "body": []
+  },
+  "agriculture/mardi-agricultural-research-institute": {
+    "hero": {
+      "file": "/media/agriculture/mardi-agricultural-research-institute/hero.webp",
+      "credit": "Wee Hong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "MARDI research institute entrance",
+      "alt": "The main entrance gate of the MARDI agricultural research institute in Malaysia.",
+      "kb": 168
+    },
+    "body": []
+  },
+  "energy/energy-sector-overview": {
+    "hero": {
+      "file": "/media/energy/energy-sector-overview/hero.webp",
+      "credit": "CharlieMehta / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "coal-fired power station",
+      "alt": "An aerial view of a coastal coal-fired power station with chimney stacks and jetties extending into the sea.",
+      "kb": 39
+    },
+    "body": []
+  },
+  "energy/natural-gas-lng-malaysia": {
+    "hero": {
+      "file": "/media/energy/natural-gas-lng-malaysia/hero.webp",
+      "credit": "Ahmad Afif Isa / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "liquefied natural gas terminal",
+      "alt": "An offshore liquefied-natural-gas loading terminal with pipework and jetties over shallow coastal water at Bintulu, Malaysia.",
+      "kb": 179
+    },
+    "body": []
+  },
+  "energy/renewable-energy-in-malaysia": {
+    "hero": {
+      "file": "/media/energy/renewable-energy-in-malaysia/hero.webp",
+      "credit": "Wee Hong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "floating solar array",
+      "alt": "A floating solar photovoltaic array alongside a covered walkway on a campus lake in Malaysia.",
+      "kb": 165
+    },
+    "body": []
+  },
+  "energy/sarawak-energy-berhad": {
+    "hero": {
+      "file": "/media/energy/sarawak-energy-berhad/hero.webp",
+      "credit": "UNIMAS Sarawak / Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "hydroelectric dam",
+      "alt": "A concrete hydroelectric dam with a spillway set among forested highlands at Murum, Sarawak.",
+      "kb": 162
+    },
+    "body": []
+  },
+  "energy/tnb-tenaga-nasional": {
+    "hero": {
+      "file": "/media/energy/tnb-tenaga-nasional/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "thermal power station and transmission grid",
+      "alt": "A thermal power station with chimney stacks behind a dense cluster of high-voltage transmission towers in Malaysia.",
+      "kb": 154
+    },
+    "body": []
+  },
+  "energy/fuel-subsidy-system": {
+    "hero": {
+      "file": "/media/energy/fuel-subsidy-system/hero.webp",
+      "credit": "Wiki Farazi / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "petrol station forecourt",
+      "alt": "A Petronas petrol station forecourt with fuel pumps beneath a canopy in Malaysia.",
+      "kb": 61
+    },
+    "body": []
+  },
+  "environment/transboundary-haze-in-malaysia": {
+    "hero": {
+      "file": "/media/environment/transboundary-haze-in-malaysia/hero.webp",
+      "credit": "Benjy8769 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Kuala Lumpur skyline in haze",
+      "alt": "The Kuala Lumpur skyline obscured by thick grey haze, with the tall towers barely visible.",
+      "kb": 125
+    },
+    "body": []
+  },
+  "environment/northeast-monsoon": {
+    "hero": {
+      "file": "/media/environment/northeast-monsoon/hero.webp",
+      "credit": "AiMediaMY / Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "neighbourhood submerged by floodwater in Klang",
+      "alt": "An aerial view of a residential neighbourhood in Klang, Malaysia with houses surrounded by brown floodwater.",
+      "kb": 175
+    },
+    "body": []
+  },
+  "environment/plastic-pollution-and-single-use-plastics-policy": {
+    "hero": {
+      "file": "/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp",
+      "credit": "epSos.de / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "plastic bottles littering a beach",
+      "alt": "Discarded plastic bottles and other litter strewn across the sand of a beach beside the sea.",
+      "kb": 141
+    },
+    "body": []
+  },
+  "environment/solid-waste-management-and-recycling": {
+    "hero": {
+      "file": "/media/environment/solid-waste-management-and-recycling/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "recycling collection centre in Malaysia",
+      "alt": "A supermarket recycling collection centre in Johor, Malaysia, with bins labelled in Malay for clothing, paper, plastic, glass and aluminium.",
+      "kb": 74
+    },
+    "body": []
+  },
+  "environment/native-customary-rights-and-logging-disputes": {
+    "hero": {
+      "file": "/media/environment/native-customary-rights-and-logging-disputes/hero.webp",
+      "credit": "Andrew Garton / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "logging truck carrying timber in Sarawak",
+      "alt": "A truck loaded with large tropical hardwood logs travels along a wet road beside rainforest in Sarawak.",
+      "kb": 155
+    },
+    "body": []
   }
 }

@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: '马来西亚布城一处农民市集（Pasar Tani）里一排排带顶棚的摊位。'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 [金马仑高原](/tourism/cameron-highlands-visitor-guide)（Cameron Highlands）的一位菜农也许能种出最好的作物，但他在农场

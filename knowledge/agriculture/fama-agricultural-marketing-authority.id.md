@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Deretan kios beratap kanopi di pasar tani Pasar Tani di Putrajaya, Malaysia.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seorang petani sayur di [Cameron Highlands](/id/tourism/cameron-highlands-visitor-guide) bisa menanam hasil terbaik, tetapi

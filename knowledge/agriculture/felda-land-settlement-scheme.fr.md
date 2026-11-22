@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "colonisation des terres", "palmier à huile", "FGV Holdings", "loi foncière 1960", "pauvreté rurale"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'Une arche en bordure de route marquant l''entrée du périmètre de colonisation agraire FELDA Ayer Hitam, en Malaisie.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Imaginez une famille pauvre déplacée vers une forêt fraîchement défrichée, à qui l'on remet une parcelle de terre et un salaire mensuel, puis à qui l'on demande d'attendre des années jusqu'à ce que ses hévéas ou ses palmiers à huile arrivent à maturité. Telle fut l'offre qui a changé la vie de plus de 100,000 familles rurales malaisiennes — et son moteur fut FELDA.

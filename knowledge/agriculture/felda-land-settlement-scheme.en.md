@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'A roadside arch marking the entrance to the FELDA Ayer Hitam land settlement in Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Imagine a poor family moved to a freshly cleared forest, given a plot of land and a monthly wage, then asked to wait for years until their rubber or oil palm trees matured. That was the offer that changed the lives of more than 100,000 rural Malaysian families — and its engine was FELDA.

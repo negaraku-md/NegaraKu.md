@@ -77,6 +77,13 @@ relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Một khu chợ cá hình tròn với những chiếc thuyền đánh cá neo đậu bên bến tàu ở Sandakan, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi con thuyền hợp pháp thả lưới trong vùng nước Malaysia rốt cuộc đều chịu trách nhiệm trước một cơ quan. **Cục Thủy sản Malaysia (Department of Fisheries Malaysia, DOF)** — *Jabatan Perikanan Malaysia* — là cơ quan liên bang quản lý tài nguyên biển và nuôi trồng thủy sản của quốc gia và cấp phép cho mọi hoạt động đánh bắt cá. Cơ quan này hoạt động dưới **Bộ Nông nghiệp và An ninh Lương thực (Ministry of Agriculture and Food Security, MAFS)**, quản lý **Fisheries Act 1985 (Act 317)**, và được lãnh đạo bởi **Tổng Giám đốc Thủy sản**. Trụ sở của cục đặt tại Wisma Tani, Putrajaya, được hỗ trợ bởi một mạng lưới các văn phòng bang và huyện.

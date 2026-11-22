@@ -77,6 +77,13 @@ relations: []
 related: []
 keywords: ["Département des pêches de Malaisie", "DOF", "Jabatan Perikanan Malaysia", "Loi sur la pêche de 1985", "Fisheries Act 1985", "licence de pêche Malaisie", "aquaculture Malaisie", "dof.gov.my", "statistiques halieutiques Malaisie", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Une halle aux poissons circulaire avec des bateaux de pêche amarrés le long du quai à Sandakan, en Malaisie.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Toute embarcation qui lance légalement un filet dans les eaux malaisiennes répond, en fin de compte, à une seule agence. Le **Département des pêches de Malaisie (DOF)** — *Jabatan Perikanan Malaysia* — est l'organisme fédéral qui gère les ressources marines et aquacoles du pays et délivre les licences de toute activité de pêche. Il relève du **ministère de l'Agriculture et de la Sécurité alimentaire (MAFS)**, administre la **loi sur la pêche de 1985 (Act 317)** et est dirigé par le **Directeur général des pêches**. Son siège se trouve à Wisma Tani, Putrajaya, soutenu par un réseau de bureaux d'État et de district.

@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "बसने वाले", "भूमि बसावट", "ताड़ तेल", "FGV Holdings", "भूमि अधिनियम 1960", "ग्रामीण ग़रीबी", "peneroka"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'मलेशिया में FELDA आयर हितम भूमि बंदोबस्त के प्रवेश द्वार को दर्शाता सड़क किनारे का तोरण।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 कल्पना कीजिए एक ग़रीब परिवार जिसे ताज़ा साफ़ की गई वन-भूमि में बसाया गया, जिसे भूमि का एक टुकड़ा और मासिक मज़दूरी दी गई, और फिर उससे कहा गया कि वह वर्षों प्रतीक्षा करे जब तक उसके रबड़ या ताड़ तेल के पेड़ परिपक्व न हो जाएँ। यही वह प्रस्ताव था जिसने 100,000 से अधिक ग्रामीण मलेशियाई परिवारों का जीवन बदल दिया — और इसका इंजन FELDA था।

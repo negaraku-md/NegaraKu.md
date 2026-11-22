@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'マレーシアにある、FELDAアイルヒタム入植地の入口を示す道路脇のアーチ。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 貧しい家族が伐採されたばかりの森へ移り住まされ、一区画の土地と月々の手当てを与えられ、ゴムや油やしの木が実を結ぶまで何年も待つよう求められる——そんな場面を想像してほしい。これこそが、マレーシア農村部の10万を超える家族の人生を変えた申し出であり、その原動力こそがFELDAであった。

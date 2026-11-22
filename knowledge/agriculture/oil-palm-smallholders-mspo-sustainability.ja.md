@@ -82,6 +82,13 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'マレーシアのムルシンで、緩やかに起伏する土地を覆う若いアブラヤシ農園。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ビントゥル（Bintulu）に住み、自分のアブラヤシ地区のあらゆる境界を記憶だけで歩き回れる農家が、今では欧州のバイヤーに果実を買ってもらうために、その「頭の中の地図」をGPSポリゴンへと変換しなければならない。自分の土地を知っていることと、それを監査人が満足する形で記録することとの間にあるこの隔たり——それこそが、マレーシアの小規模農家によるパーム油経済の裏にある静かな物語である。

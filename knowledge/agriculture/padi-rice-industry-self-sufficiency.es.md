@@ -88,6 +88,13 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'Un arrozal verde con un espantapájaros y colinas boscosas al fondo en Langkawi, Malasia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada vez que suben los precios del arroz o se vacían los estantes de los supermercados, una vieja pregunta vuelve a atormentar a Malasia: ¿por qué un país tan rico en campos de padi todavía necesita importar casi la mitad de su arroz? La respuesta reside en una industria impulsada por los subsidios, protegida por precios garantizados y perseguida por una meta de autosuficiencia que aún no se ha alcanzado.

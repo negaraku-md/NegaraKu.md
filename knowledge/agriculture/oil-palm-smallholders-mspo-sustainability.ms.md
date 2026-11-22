@@ -82,6 +82,13 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'Ladang kelapa sawit muda yang menutupi tanah berbukit di Mersing, Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seorang petani di Bintulu yang boleh menyusuri setiap sempadan lot kelapa sawitnya daripada ingatan kini terpaksa menukar "peta minda" itu kepada poligon GPS sebelum pembeli di Eropah mahu menyentuh buahnya. Jurang itu — antara mengenali tanah anda dan mendokumenkannya sehingga memuaskan hati juruaudit — ialah kisah tersembunyi di sebalik ekonomi minyak sawit pekebun kecil Malaysia.

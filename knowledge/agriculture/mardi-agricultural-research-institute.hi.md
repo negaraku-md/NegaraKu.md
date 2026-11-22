@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "कृषि अनुसंधान", "agricultural research", "चावल किस्में", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "मलेशिया कृषि", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'मलेशिया में MARDI कृषि अनुसंधान संस्थान का मुख्य प्रवेश द्वार।'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में स्थानीय चावल का लगभग हर कटोरा MARDI के किसी क्षेत्र स्टेशन में नस्ल की गई किस्म तक जाता है। देश के धान, कुक्कुट, उष्णकटिबंधीय फल और प्रसंस्कृत-खाद्य शेल्फों के पीछे एक संघीय संस्थान बैठा है जिसका काम विज्ञान को उच्च उपज में बदलना है।

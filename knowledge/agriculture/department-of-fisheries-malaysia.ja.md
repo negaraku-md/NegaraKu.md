@@ -76,6 +76,13 @@ relations: []
 related: []
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'マレーシアのサンダカンにある円形の魚市場の建物と、岸壁に係留された漁船。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシア水域で合法的に網を下ろすすべての船は、最終的には一つの機関に対して責任を負う。**マレーシア漁業局（DOF）**――*Jabatan Perikanan Malaysia*――は、国家の海洋・水産養殖資源を管理し、すべての漁業活動に許可を発行する連邦機関である。**農業・食料安全保障省（MAFS）**の傘下で運営され、**1985年漁業法（Fisheries Act 1985、Act 317）**を執行し、**漁業局長官（Director-General of Fisheries）**が率いている。本部はプトラジャヤのWisma Taniにあり、各州・県の事務所網に支えられている。

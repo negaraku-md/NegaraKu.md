@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'Gapura di tepi jalan menandai pintu masuk ke permukiman tanah FELDA Ayer Hitam di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bayangkan sebuah keluarga miskin dipindahkan ke hutan yang baru ditebang, diberi sebidang tanah dan upah bulanan, lalu diminta menunggu bertahun-tahun sampai pohon karet atau kelapa sawit mereka matang. Itulah tawaran yang mengubah kehidupan lebih dari 100,000 keluarga perdesaan Malaysia — dan mesinnya adalah FELDA.

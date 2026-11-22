@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: '马来西亚一座路边拱门，标示着 FELDA 亚依淡垦殖区的入口。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 想象一个贫困家庭被迁往一片刚被砍伐的森林，获分一块土地和一份月薪，然后被要求等上数年，直到他们的橡胶或油棕树成熟。这正是那份改变了马来西亚十多万乡村家庭生活的安排——而它的引擎就是FELDA。

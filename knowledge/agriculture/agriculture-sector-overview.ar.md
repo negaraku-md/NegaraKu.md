@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["القطاع الزراعي الماليزي", "الأغذية الزراعية في ماليزيا", "السياسة الوطنية للأغذية الزراعية", "معدل الاكتفاء الذاتي الغذائي", "KPKM", "KPK", "زيت النخيل الأرز المطاط", "الأمن الغذائي في ماليزيا"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'حقل أرز أخضر وارف تمتد فيه قناة ري حتى الأفق في سيكينتشان بماليزيا.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في 2024، أنتجت ماليزيا أكثر من 100 مليون طن من عناقيد ثمار النخيل الطازجة — نحو 100.2 مليون طن بحسب دائرة الإحصاء الماليزية (DOSM) — بما يكفي للحفاظ على موقعها بين أكبر منتجَين لزيت النخيل في العالم. وفي السنة ذاتها، استوردت البلاد نحو نصف الأرز الذي أكله شعبها.

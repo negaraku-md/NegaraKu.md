@@ -104,6 +104,13 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'นาข้าวเขียวชอุ่มพร้อมคลองชลประทานที่ทอดยาวไปจนสุดขอบฟ้าในเซอกินจัง ประเทศมาเลเซีย'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในปี 2024 มาเลเซียผลิตทะลายปาล์มสดกว่า 100 ล้านตัน — ราว 100.2 ล้านตันตามกรมสถิติมาเลเซีย (DOSM) — เพียงพอที่จะรักษาตำแหน่งหนึ่งในสองผู้ผลิตน้ำมันปาล์มรายใหญ่ที่สุดของโลก ในปีเดียวกัน ประเทศนี้นำเข้าข้าวเกือบครึ่งหนึ่งของที่ประชาชนบริโภค

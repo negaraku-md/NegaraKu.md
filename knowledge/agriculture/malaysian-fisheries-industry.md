@@ -87,6 +87,13 @@ relations:
 related: []
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'Bot nelayan pukat kayu ditambat di jeti di luar Pulau Pinang, Malaysia.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebelum subuh di jeti sepanjang Selat Melaka dan Laut China Selatan, ribuan

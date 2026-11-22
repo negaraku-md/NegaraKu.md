@@ -77,6 +77,13 @@ relations: []
 related: []
 keywords: ["إدارة مصايد الأسماك في ماليزيا", "DOF", "Jabatan Perikanan Malaysia", "مصايد الأسماك في ماليزيا", "Fisheries Act 1985", "رخصة الصيد في ماليزيا", "الاستزراع المائي في ماليزيا", "dof.gov.my", "fishing licence Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'قاعة سوق سمك دائرية ترسو بجانب رصيفها قوارب الصيد في سانداكان بماليزيا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 كل قارب يلقي شبكته بصورة قانونية في المياه الماليزية يخضع، في نهاية المطاف، لوكالة واحدة. **إدارة مصايد الأسماك في ماليزيا (DOF)** — *Jabatan Perikanan Malaysia* — هي الهيئة الاتحادية التي تدير الموارد البحرية وموارد الاستزراع المائي في البلاد وترخّص جميع أنشطة الصيد. تعمل تحت إشراف **وزارة الزراعة والأمن الغذائي (MAFS)**، وتدير **قانون مصايد الأسماك لسنة 1985 (Act 317)**، ويرأسها **المدير العام لمصايد الأسماك**. ويقع مقرها الرئيسي في Wisma Tani ببوتراجايا، مدعومًا بشبكة من المكاتب الولائية والمحلية.

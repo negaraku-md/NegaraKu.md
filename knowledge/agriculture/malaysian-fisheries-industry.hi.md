@@ -88,6 +88,13 @@ relations:
 related: []
 keywords: ["मलेशिया मत्स्य उद्योग", "मलेशिया मछली उत्पादन", "जलीय कृषि", "aquaculture Malaysia", "LKIM", "मलेशिया मत्स्य विभाग", "मत्स्य अधिनियम 1985", "Fisheries Act 1985", "विदेशी मछली पकड़ने वाले जहाज़ों की घुसपैठ", "IUU fishing Malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'मलेशिया के पेनांग द्वीप के पास एक घाट पर लंगर डाले लकड़ी के मछली पकड़ने वाले ट्रॉलर।'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलक्का जलडमरूमध्य और दक्षिण चीन सागर के किनारे जेटियों पर भोर से पहले, हज़ारों तटीय मछली पकड़ने वाली नौकाएँ समुद्र की ओर निकलती हैं ताकि देश भर में खाई जाने वाली लगभग नौ-दसवीं मछली की आपूर्ति कर सकें। उसी समय, अधिक दूर के जल में, कोई मलेशियाई ध्वज न फहराने वाले ट्रॉलर उन सीमाओं के पार अपने जाल खींचते हैं जिन्हें आँख नहीं देख सकती।

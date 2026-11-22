@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'マレーシアのMARDI農業研究所の正門ゲート。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアで供される地元産の米は、そのほぼすべてがMARDIの試験場で育種された品種にたどり着く。この国の水稲、養鶏、熱帯果実、そして加工食品の棚の背後には、科学をより高い収量へと変える一つの連邦研究機関が控えている。

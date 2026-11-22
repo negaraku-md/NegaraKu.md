@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "الهيئة الاتحادية لتسويق المنتجات الزراعية", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "سوق المزارعين", "My Farm Outlet", "Agrobazaar", "التسويق الزراعي", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'صفوف من الأكشاك المظلّلة في سوق المزارعين باسار تاني في بوتراجايا بماليزيا.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قد يزرع مزارع خضروات في [مرتفعات كاميرون](/tourism/cameron-highlands-visitor-guide) أجود المحاصيل، ومع ذلك

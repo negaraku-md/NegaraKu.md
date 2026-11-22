@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "संघीय कृषि विपणन प्राधिकरण", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "किसान बाज़ार", "My Farm Outlet", "Agrobazaar", "कृषि विपणन", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'मलेशिया के पुत्राजया में पासार तानी किसान बाज़ार में छतरीदार दुकानों की कतारें।'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 [कैमरन हाइलैंड्स](/tourism/cameron-highlands-visitor-guide) का एक सब्ज़ी किसान भले ही बेहतरीन उपज उगाए, फिर भी

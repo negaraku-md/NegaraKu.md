@@ -77,6 +77,13 @@ relations: []
 related: []
 keywords: ["मलेशिया मत्स्य विभाग", "DOF", "Jabatan Perikanan Malaysia", "मत्स्य अधिनियम 1985", "Fisheries Act 1985", "मलेशिया मछली पकड़ने का लाइसेंस", "मलेशिया जलकृषि", "dof.gov.my", "fishing licence Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'मलेशिया के संडाकान में घाट के किनारे लंगर डाले मछली पकड़ने वाली नावों के साथ एक गोलाकार मछली बाज़ार भवन।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशियाई जल में कानूनी रूप से जाल डालने वाली हर नौका अंततः एक ही एजेंसी के प्रति जवाबदेह होती है। **मलेशिया मत्स्य विभाग (DOF)** — *Jabatan Perikanan Malaysia* — वह संघीय निकाय है जो देश के समुद्री एवं जलकृषि संसाधनों का प्रबंधन करता है और सभी मछली पकड़ने की गतिविधियों को लाइसेंस देता है। यह **कृषि एवं खाद्य सुरक्षा मंत्रालय (MAFS)** के अधीन काम करता है, **मत्स्य अधिनियम 1985 (Act 317)** का प्रशासन करता है, और इसका नेतृत्व **मत्स्य महानिदेशक** करते हैं। इसका मुख्यालय Wisma Tani, पुत्राजया में है, जिसे राज्य एवं जिला कार्यालयों के एक नेटवर्क का सहयोग प्राप्त है।

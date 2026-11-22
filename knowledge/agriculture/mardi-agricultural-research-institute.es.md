@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "investigación agrícola", "agricultural research", "variedades de arroz", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "agricultura Malasia", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'La puerta de entrada principal del instituto de investigación agrícola MARDI en Malasia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Casi cada tazón de arroz local en Malasia se remonta a una variedad mejorada en una estación de campo de MARDI. Detrás del arroz paddy, las aves de corral, la fruta tropical y los estantes de alimentos procesados del país se encuentra un instituto federal cuyo trabajo es convertir la ciencia en mayores rendimientos.

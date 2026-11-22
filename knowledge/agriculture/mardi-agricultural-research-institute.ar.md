@@ -73,6 +73,13 @@ relations:
 related: []
 keywords: ["MARDI", "الأبحاث الزراعية", "agricultural research", "أصناف الأرز", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "الزراعة في ماليزيا", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'البوابة الرئيسية لمعهد MARDI للبحوث الزراعية في ماليزيا.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يكاد كل وعاء أرز محلي في ماليزيا يعود في أصله إلى صنف رُبّي في محطة ميدانية لـ MARDI. فوراء الأرز الخام والدواجن والفواكه الاستوائية ورفوف الأغذية المصنّعة في البلاد يقف معهد فيدرالي واحد مهمّته تحويل العلم إلى غلّات أعلى.

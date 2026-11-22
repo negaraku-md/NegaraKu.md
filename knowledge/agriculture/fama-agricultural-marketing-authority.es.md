@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Autoridad Federal de Comercialización Agrícola", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "mercado de agricultores", "My Farm Outlet", "Agrobazaar", "comercialización agrícola", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Hileras de puestos con toldo en un mercado de agricultores Pasar Tani en Putrajaya, Malasia.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un agricultor de hortalizas en las [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) puede cultivar los mejores productos y, aun así, el

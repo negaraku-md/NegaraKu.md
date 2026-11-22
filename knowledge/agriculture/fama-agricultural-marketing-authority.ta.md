@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'மலேசியாவின் புத்ராஜெயாவில் பாசார் தானி விவசாயிகள் சந்தையில் விதானமிட்ட கடைகளின் வரிசைகள்.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 [Cameron Highlands](/ta/tourism/cameron-highlands-visitor-guide)-இல் உள்ள ஒரு காய்கறி

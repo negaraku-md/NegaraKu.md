@@ -82,6 +82,13 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: '马来西亚丰盛港一片覆盖起伏地势的年轻油棕种植园。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一位民都鲁（Bintulu）的农民能凭记忆走遍自己油棕地块的每一处边界，如今却必须把这些"脑中地图"转化为 GPS 多边形，欧洲的买家才愿意接手他的果实。这道鸿沟——在了解自己的土地与将其记录到令审计员满意之间——正是马来西亚小农棕榈油经济背后那段无声的故事。
