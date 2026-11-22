@@ -72,6 +72,13 @@ faq:
   - q: لماذا يعيش عدد أكبر من الهندوس في ولايات مثل نيغري سمبيلان وسلانغور وبيراك؟
     a: تتطابق هذه الولايات مع مناطق مزارع المطاط ومناجم القصدير السابقة — حيث استقر العمال الهنود بأعداد كبيرة في الحقبة البريطانية. وفي تعداد عام 2020، سجّلت نيغري سمبيلان (نحو 13.1%) وسلانغور (نحو 10.3%) وبيراك (نحو 9.7%) نسبًا أعلى. ومعظمهم من أحفاد الذين قدموا من جنوب الهند للعمل في المزارع في ظل نظام الكانغاني (kangani).
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'برج الغوبورام الشاهق المنحوت بألوان زاهية لمعبد سري ماهاماريامان في وسط كوالالمبور، مكتظّ بتماثيل الآلهة الهندوسية فوق مدخل المعبد حيث يقف الزوّار.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في أي مدينة ماليزية، سواء على طرف مزرعة مطاط قديمة أو في شارع عريق وسط المدينة،

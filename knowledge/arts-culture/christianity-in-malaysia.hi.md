@@ -72,6 +72,13 @@ faq:
   - q: क्रिश्चियन फेडरेशन ऑफ़ मलेशिया क्या है, और यह किन निकायों को एक साथ लाता है?
     a: 'क्रिश्चियन फेडरेशन ऑफ़ मलेशिया (Christian Federation of Malaysia, CFM), जिसका गठन 1985 में हुआ, मुख्य छत्र संस्था है। यह मलेशियाई ईसाई धर्म की तीन धाराओं को एकजुट करती है: कैथोलिक बिशप सम्मेलन (Catholic Bishops'' Conference), काउंसिल ऑफ़ चर्चेज़ ऑफ़ मलेशिया (Council of Churches of Malaysia, मुख्यधारा प्रोटेस्टेंट) और नेशनल इवैंजेलिकल क्रिश्चियन फ़ेलोशिप (National Evangelical Christian Fellowship)। CFM का कहना है कि वह देश के 95% से अधिक गिरजाघरों का प्रतिनिधित्व करता है, जिनमें से कई सबा और सारावाक में बहासा मलेशिया बोलने वाली मंडलियाँ हैं।'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'मेलाका की सेंट पॉल हिल पर 16वीं सदी के सेंट पॉल चर्च के सफेदी किए पत्थर के खंडहर, अग्रभूमि में सेंट फ्रांसिस जेवियर की संगमरमर की प्रतिमा खड़ी है।'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया की ईसाई कहानी के दो गुरुत्व-केंद्र हैं, और इनमें से कोई भी राजधानी में

@@ -72,6 +72,13 @@ faq:
   - q: Apakah Christian Federation of Malaysia, dan badan-badan manakah yang disatukannya?
     a: 'Persekutuan Kristian Malaysia (Christian Federation of Malaysia, CFM), yang ditubuhkan pada 1985, ialah badan payung utama. Ia menyatukan tiga aliran agama Kristian Malaysia: Persidangan Para Uskup Katolik (Catholic Bishops'' Conference), Majlis Gereja-Gereja Malaysia (Council of Churches of Malaysia, Protestan arus perdana) dan Persekutuan Kristian Evangelikal Kebangsaan (National Evangelical Christian Fellowship). CFM menyatakan bahawa ia mewakili lebih daripada 95% gereja di negara ini, kebanyakannya jemaah berbahasa Malaysia di Sabah dan Sarawak.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'Runtuhan batu berkapur putih Gereja St. Paul abad ke-16 di Bukit St. Paul, Melaka, dengan patung marmar St. Francis Xavier berdiri di latar depan.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Kisah agama Kristian di Malaysia mempunyai dua pusat graviti, dan kedua-duanya

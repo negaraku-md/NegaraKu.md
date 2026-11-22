@@ -61,6 +61,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'A Peranakan reception hall at the Baba Nyonya Heritage Museum in Melaka, with gilded carved blackwood screens, mother-of-pearl inlaid furniture, a marble-topped round table and painted bird-and-flower panels on the walls.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Walk into an old townhouse on Melaka's Heeren Street and the story is told in objects before anyone says a word. A tightly fitted lace blouse pinned at the front with a three-piece gold brooch. A pair of slippers whose toes are covered in thousands of tiny glass beads, each stitched by hand. A long marble-topped table set for a meal that is neither quite Chinese nor quite Malay. These belong to the Peranakans — the Baba-Nyonya — a community that made a culture out of living between two worlds.

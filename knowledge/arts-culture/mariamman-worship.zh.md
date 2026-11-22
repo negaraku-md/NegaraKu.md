@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: '吉隆坡斯里玛哈玛里安曼庙（Sri Maha Mariamman Temple）高耸的雕刻戈普兰（gopuram），招牌上标着寺庙名称，下方是一排排彩绘的印度教神祇塑像，前方是街道与车流。'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚几乎任何一座老橡胶园丘附近，以及城镇中心那些历经岁月的老街上，都能见到一座马里安曼庙。那尊面庞涂成赭黄色的安曼神像，以及在雨季来临前举行的庆典，并非偶然——它们承载着一个泰米尔社群长达一个半世纪以上的历史与信仰传统。

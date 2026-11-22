@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'บ้านไม้มลายูดั้งเดิมที่ได้รับการบูรณะ ซึ่งเป็นบ้านเกิดของตำนานภาพยนตร์ พี. รัมลี (P. Ramlee) ปัจจุบันเป็นอนุสรณ์สถาน มีหลังคามุงจากและแผ่นป้ายรำลึกบนลานอิฐด้านหน้า'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในปี 1955 อดีตเด็กถือแคลปเปอร์และผู้ช่วยถือกล้องที่สตูดิโอแห่งหนึ่งที่เลขที่ 8 ถนนอัมปัส (Jalan Ampas) สิงคโปร์ นั่งลงบนเก้าอี้ผู้กำกับเป็นครั้งแรกเมื่ออายุ 26 ปี ภาพยนตร์เรื่องนั้นคือ *Penarek Becha* ชื่อของเขาคือพี. รามลี (P. Ramlee) เรื่องราวของอุตสาหกรรมภาพยนตร์มาเลเซียเริ่มต้นไม่ใช่ที่กัวลาลัมเปอร์ แต่ที่สตูดิโอสิงคโปร์ที่พี่น้องสองคนจากเซี่ยงไฮ้เป็นเจ้าของ — และมันไม่เคยหยุดเคลื่อนไหวนับแต่นั้น

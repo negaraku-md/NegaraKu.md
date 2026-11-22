@@ -72,6 +72,13 @@ faq:
   - q: 为什么森美兰、雪兰莪、霹雳等州属的印度教徒较多?
     a: 这些州属与昔日的橡胶园、锡矿区相吻合——英殖民时期大量印度劳工正是在那里定居。在2020年人口普查中,森美兰(约13.1%)、雪兰莪(约10.3%)、霹雳(约9.7%)所占比例较高。他们大多是当年在甘加尼(kangani)制度下从南印度前来从事园坵工作者的后裔。
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: '吉隆坡市中心斯里玛哈玛里安曼庙（Sri Mahamariamman Temple）高耸、色彩斑斓的戈普兰（gopuram）塔楼，寺庙入口上方布满印度教神祇塑像，访客伫立其下。'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚的任何城镇，无论是在一座旧橡胶园的边缘，还是在市中心的老街上，都能见到一座马里安曼庙。那些戈普兰塔楼与屠妖节的灯火并非偶然 — 它们述说着一个历时一个半世纪以上的社群的历史。

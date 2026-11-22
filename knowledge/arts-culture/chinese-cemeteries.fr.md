@@ -75,6 +75,13 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'Une grande tombe chinoise en forme de fer à cheval, aux inscriptions dorées et aux panneaux latéraux sculptés, nichée dans un tertre herbeux parmi les arbres sur la colline funéraire de Bukit China à Melaka.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 À l'approche de Qingming, avant que le ciel ne soit tout à fait clair, le pied de Bukit Cina, à Malacca, est déjà rempli de voitures en stationnement. Famille après famille, on gravit les versants ondulés, chargé de fleurs fraîches, d'encens, de bougies et d'offrandes, en direction des tombes de ses ancêtres. Certains brûlent d'abord de l'encens devant une petite niche de pierre, à côté de la tombe, gravée des caractères de « Houtu », puis se tournent pour entretenir la stèle de l'ancêtre : arracher les herbes, repeindre les caractères gravés passés, puis disposer les offrandes. Les tombes serrées le long du versant, toutes orientées dans le même sens, sont le lieu de repos de génération après génération de Chinois venus vers le sud.

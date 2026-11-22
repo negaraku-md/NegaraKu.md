@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: '쿠알라룸푸르 차이나타운의 잘란 프탈링(Jalan Petaling) 위에 세워진 녹색 탑 지붕 관문으로, ''Petaling Street''라고 표기되어 있고 붐비는 시장 거리 위로 붉은 등롱과 중국어 상점 간판이 걸려 있다.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 페낭의 커피숍에서는 호키엔어로 코피(kopi) 한 잔을 시키고, 쿠알라룸푸르와 이포에 가면 같은 커피 한 잔이 광둥어로 바뀌며, 사라왁 시부로 더 가면 당신을 맞이하는 것은 십중팔구 푸저우어입니다. 세 곳의 사람 모두 화인이지만, 말하는 것은 서로 통하지 않는 세 가지 말입니다.

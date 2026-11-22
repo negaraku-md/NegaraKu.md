@@ -66,6 +66,13 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "mariamman-worship", "ayyappan-pilgrimage", "deepavali", "navaratri", "tamil-in-malaysia"]
 keywords: ["பங்குனி உத்திரம்", "Panguni Uthiram", "பங்குனி உத்திரம் மலேசியா", "முருகன் தெய்வானை", "காவடி", "மாறான் மாரத்தாண்டவர் கோயில்", "இரண்டாம் தைப்பூசம்"]
 framework: history-culture
+hero: '/media/arts-culture/panguni-uthiram/hero.webp'
+heroAlt: 'படு குகைகளுக்கு (Batu Caves) அருகில் அடர்த்தியான கூட்டத்தினிடையே, அலங்கரிக்கப்பட்ட மயில் காவடிகளைச் சுமக்கும் பக்தர்கள் மற்றும் மேளம் வாசிக்கும் இசைக்கலைஞர்களுடன், அந்தி நேரத்தில் நடைபெறும் ஒரு பெரிய தமிழ் இந்து வீதி ஊர்வலம்.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பங்குனி மாதம் வானில் முழு நிலவு நிறையும் ஓர் இரவு. தமிழ் மரபில் இந்த

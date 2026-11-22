@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'SJK(T) Ladang Sungai Getah की नीची इमारतें, एक तमिल-माध्यम प्राथमिक विद्यालय जिसका नाम उसके साइनबोर्ड पर अंकित है और जो एक रबर-एस्टेट समुदाय की सेवा करता है, सड़क के किनारे से देखा गया।'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया के अनेक पुराने शहरों की सरहद पर, कभी हरा-भरा फैला हुआ एक रबर बागान अब घरों और दुकान-बाज़ारों से भरे एक रिहायशी इलाक़े में बदल चुका है। उन नई इमारतों के बीच, कभी-कभी एक पुराना अम्मन मंदिर या एक छोटा-सा तमिल विद्यालय आज भी खड़ा मिल जाता है — एक विस्थापित समुदाय की न मिटने वाली पहचान के रूप में।

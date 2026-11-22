@@ -67,6 +67,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'Le temple Thean Hou à Kuala Lumpur, avec des centaines de lanternes rouges suspendues en cascade depuis son toit étagé, un brûle-encens décoré de dragons sur le parvis et des fidèles dans la salle principale.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sur une petite colline de Robson Heights, à Kuala Lumpur, se dresse un temple de six étages, aux colonnes rouges et aux tuiles vernissées, qui domine la ville : c'est le Thean Hou Temple, dédié à la déesse de la mer la plus célèbre du monde chinois, Mazu. Autrefois, les Chinois venus du sud par la mer la priaient pour leur sécurité avant et après la traversée de l'océan ; aujourd'hui, c'est à la fois un temple où les fidèles offrent de l'encens, un lieu de rassemblement pour les compatriotes hainanais et un décor pour les photographies des touristes.

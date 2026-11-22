@@ -80,6 +80,13 @@ verificationNeeded:
   - "《히카얏 항 투아》 같은 고전 작품의 실제 저자와 연대는 여전히 정확히 확정할 수 없다(15세기에서 17세기로 추정)"
   - "A. 사맛 사이드의 수상 연도는 같은 자료의 본 명단에는 1985년으로, 내비게이션 상자에는 1986년으로 기록됨 — 1985년으로 확인됨"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: '금박을 입히고 꽃무늬 테두리를 두른 《타지 알살라틴》(Taj al-Salatin, ''왕들의 왕관'')의 첫 펼침 두 면으로, 자위 문자(Jawi)로 쓰인 고전 말레이 문학 필사본이다.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 한 옛 사본에는 믈라카 왕들의 이야기, 항 투아(Hang Tuah)의 여정, 그리고 한 제국의 몰락이 새겨져 있습니다 — 메마른 역사 기록으로서가 아니라, 인물과 대화와 문예가 살아 숨 쉬는 이야기로서. 그 사본, 《스자라 믈라유(Sejarah Melayu)》 또는 《술랄라투스 살라틴(Sulalatus Salatin)》은 말레이어 문필 전통이 얼마나 길고 풍부한지를 증언하는 가장 이른 작품의 하나입니다.

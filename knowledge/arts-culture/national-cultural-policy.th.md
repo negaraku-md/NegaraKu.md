@@ -78,6 +78,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'ทางเข้าหลักของอิสตานาบูดายา (Istana Budaya) โรงละครแห่งชาติ มีหลังคาทรงซีเรฮ์-จุนจง (sirih junjung) ที่ทอดยาว ตราดอกบัวสีทอง และบันไดกว้างที่นำไปสู่ประตูไม้แกะสลัก'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในปี 1971 ราวสองปีหลัง[เหตุการณ์ 13 พฤษภาคม 1969](/malaysia/13-may-1969) กลุ่มนักวิชาการ ผู้ทำงานด้านศิลปะ และผู้นำได้มารวมตัวกันที่มหาวิทยาลัยมาลายาเพื่อตอบคำถามที่ยากสำหรับประเทศพหุชาติพันธุ์ กล่าวคือ อะไรคือความหมายของ "วัฒนธรรมแห่งชาติ"? คำตอบที่ได้ — นโยบายวัฒนธรรมแห่งชาติ (Dasar Kebudayaan Kebangsaan, DKK) — ยังคงเป็นการอ้างอิงเชิงนโยบายจนถึงปัจจุบัน และในขณะเดียวกันก็ยังคงเป็นประเด็นถกเถียง

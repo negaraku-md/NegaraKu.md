@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'Gopuram berpahat yang menjulang pada Kuil Sri Maha Mariamman di Kuala Lumpur, papan namanya menyebutkan nama kuil di atas barisan patung dewa-dewi Hindu berwarna, dengan jalan dan lalu lintas di depannya.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di dekat hampir setiap perkebunan karet tua di Malaysia, dan di sepanjang jalan-jalan tua di pusat kota, Anda dapat menemukan sebuah kuil Mariamman. Patung Amman berwajah kuning oker, dan perayaan yang digelar menjelang musim hujan, bukanlah kebetulan — semuanya mengandung lebih dari satu setengah abad sejarah dan tradisi keyakinan sebuah komunitas Tamil.

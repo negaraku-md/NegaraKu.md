@@ -72,6 +72,13 @@ faq:
   - q: 왜 느그리슴빌란, 슬랑오르, 페락 같은 주에 힌두교도가 더 많이 사나요?
     a: 이 주들은 과거의 고무 농장과 주석 광산 지역과 일치합니다 — 영국 식민지 시대에 인도인 노동자들이 대거 정착한 곳이 바로 그곳이었습니다. 2020년 인구조사에서 느그리슴빌란(~13.1%), 슬랑오르(~10.3%), 페락(~9.7%)이 더 높은 비율을 보였습니다. 이들 대부분은 캉가니(kangani) 제도 아래 농장 노동을 위해 남인도에서 온 사람들의 후손입니다.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르 중심부 스리 마하마리암만 사원(Sri Mahamariamman Temple)의 높고 화려하게 조각된 고푸람(gopuram) 탑으로, 방문객들이 서 있는 사원 입구 위로 힌두교 신상들이 빼곡히 들어차 있다.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아의 어느 도시에서든 오래된 고무 플랜테이션 가장자리나 도심의 유서 깊은

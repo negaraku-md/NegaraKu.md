@@ -79,6 +79,13 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'Một tấm biển màu cam và xanh vẽ tay ghi PETALING STREET KUALA LUMPUR trên một hộp kỹ thuật phủ đầy hình vẽ graffiti, phía sau là một con phố thành phố và các tòa nhà.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 «Can or not?» «Wait ah, later confirm lor.» «Don't play play, I already tell you.»

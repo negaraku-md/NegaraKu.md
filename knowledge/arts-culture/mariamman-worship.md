@@ -69,6 +69,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள ஸ்ரீ மகா மாரியம்மன் கோயிலின் உயர்ந்து நிற்கும் செதுக்கப்பட்ட கோபுரம், வர்ணம் பூசிய இந்து தெய்வ உருவங்களின் வரிசைகளுக்கு மேலே கோயிலின் பெயரைக் குறிக்கும் பலகையுடன், முன்னால் ஒரு தெரு மற்றும் போக்குவரத்து.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் எந்தப் பழைய ரப்பர்த் தோட்டத்திற்கு அருகிலும், நகர மையங்களின்

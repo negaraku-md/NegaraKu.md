@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["มารยาทงานเปิดบ้านมาเลเซีย", "มารยาท rumah terbuka", "แขกงานเปิดบ้านมาเลเซีย", "มารยาทงานเปิดบ้านฮารีรายอ", "แต่งตัวไปงานเปิดบ้านมาเลเซีย", "duit raya ang pow แขก", "มารยาทบ้านฮาลาลมาเลเซีย", "ธรรมเนียมการไปเยือนบ้านมาเลเซีย"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'ภาพมุมสูงของสำรับอาหารฉลองฮารีรายอ (Hari Raya) บนโต๊ะ มีหม้อเรินดังเนื้อ (rendang) และแกงผัก จานซัมบัล (sambal) และจานเกอตูปัต (ketupat) ที่สานด้วยใบมะพร้าวพร้อมข้าวอัดหั่นเป็นชิ้น'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณได้รับเชิญไปร่วมงาน *rumah terbuka* (บ้านที่เปิดต้อนรับ) หรืองานเปิดบ้าน

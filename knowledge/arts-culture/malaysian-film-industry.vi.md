@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'Ngôi nhà gỗ Mã Lai truyền thống đã được phục dựng, nơi sinh của huyền thoại điện ảnh P. Ramlee, nay là một khu tưởng niệm, với mái tranh và một tấm bảng kỷ niệm trên sân gạch phía trước.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Năm 1955, một chàng trai từng làm *clapper* và phụ máy quay tại một xưởng phim ở số 8 Jalan Ampas, Singapore, lần đầu ngồi vào ghế đạo diễn ở tuổi 26. Bộ phim là *Penarek Becha*. Tên anh là P. Ramlee. Câu chuyện của ngành điện ảnh Malaysia bắt đầu không phải ở Kuala Lumpur, mà ở một xưởng phim Singapore do hai anh em từ Thượng Hải làm chủ — và nó chưa từng ngừng chuyển động kể từ đó.

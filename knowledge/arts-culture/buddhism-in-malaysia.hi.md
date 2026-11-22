@@ -70,6 +70,13 @@ faq:
   - q: वेसाक किसका स्मरण करता है? क्या यह सार्वजनिक अवकाश है?
     a: वेसाक (वेसाक दिवस) बुद्ध के जन्म, ज्ञानप्राप्ति और निर्वाण का स्मरण करता है, और मलेशिया में यह एक राष्ट्रव्यापी सार्वजनिक अवकाश है। श्रद्धालु मंदिरों में जाकर फूल अर्पित करते हैं, दीप जलाते हैं और दान करते हैं। धार्मिक स्वतंत्रता संघीय संविधान के अनुच्छेद 11 द्वारा संरक्षित है; यद्यपि अनुच्छेद 3 इस्लाम को संघ का धर्म घोषित करता है, फिर भी यह अन्य धर्मों के शांतिपूर्ण पालन में बाधा नहीं डालता।
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'पेनांग में पहाड़ी पर स्थित केक लोक सी बौद्ध मंदिर, इसकी फैली हुई सुनहरी टाइलों वाली छत, लाल लालटेनों से सजी स्तरित छतें और आँगन में एक पैगोडा फव्वारा।'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 पिनांग की पहाड़ियों पर केक लोक सी के शिखर जॉर्जटाउन की ओर झाँकते हैं; कुआलालंपुर

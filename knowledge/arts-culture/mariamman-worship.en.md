@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'The towering sculpted gopuram of the Sri Maha Mariamman Temple in Kuala Lumpur, its signboard naming the temple above rows of painted Hindu deity figures, with a street and traffic in front.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Near almost any old rubber estate in Malaysia, and along the time-worn streets of the town centres, you can find a Mariamman temple. The Amman statue with its ochre-yellow face, and the festivals held before the rainy season, are not accidental — they carry more than a century and a half of a Tamil community's history and tradition of faith.

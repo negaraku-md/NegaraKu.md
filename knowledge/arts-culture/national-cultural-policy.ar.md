@@ -78,6 +78,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["السياسة الثقافية الوطنية", "dasar kebudayaan kebangsaan", "المؤتمر الثقافي الوطني 1971", "kongres kebudayaan kebangsaan 1971", "المبادئ الثلاثة", "DAKEN 2021", "الثقافة الماليزية", "الوحدة الوطنية", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'المدخل الرئيسي لإستانا بودايا، المسرح الوطني، بسقفه الممتد على طراز سيريه-جونجونغ وشعار اللوتس الذهبي ودرج عريض يؤدّي إلى أبواب خشبية منحوتة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في عام 1971، بعد نحو عامين من [حادثة 13 مايو 1969](/malaysia/13-may-1969)، اجتمعت مجموعة من العلماء وممارسي الفنون والقادة في جامعة مالايا للإجابة عن سؤال صعب يواجه أمة متعددة الأعراق: ماذا يُقصد بـ«الثقافة الوطنية»؟ والجواب الذي انبثق — السياسة الثقافية الوطنية (DKK) — ما زال مرجعًا سياساتيًا حتى اليوم، وما زال في الوقت نفسه مادة للجدل.

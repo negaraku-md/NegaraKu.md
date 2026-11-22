@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: '吉隆坡的语文出版局（Dewan Bahasa dan Pustaka）大楼，弧形外墙上绘有一幅描绘马来西亚生活的大型壁画，旁边红色办公塔楼上能看到部分名称。'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 早在小说出现之前，也早在语文局成立之前，一位说书人（penglipur lara）就已在马六甲宫廷的庭院里传颂马来英雄。正是从那口头传统中，孕育出这一地区最丰厚的文学遗产之一——一个如今以国家封号、数十万令吉奖金以及在民族文明中的尊荣席位来礼赞的传统。

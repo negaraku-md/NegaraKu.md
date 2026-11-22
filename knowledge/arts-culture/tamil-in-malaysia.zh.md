@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: '吉打州（Kedah）樟仑（Changlun）一所泰米尔语学校的门口招牌，上方以泰米尔文书写，下方是英文名称“S.J.K (Tamil) Changlun”，背后是校舍。'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来亚旧日的橡胶种植园里，最早的一些课堂设于工棚与茅屋之中，授课语言正是淡米尔文。根据马来西亚历史学会期刊上发表的一项历史研究，早在二十世纪初，种植园便依据当时的劳工法典，提供淡米尔文基础小学教育，而且在很长一段时间里，授课者是文员与兼职人员，而非受过训练的教师。

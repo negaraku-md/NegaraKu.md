@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'อาคารเตี้ย ๆ ของโรงเรียน SJK(T) Ladang Sungai Getah โรงเรียนประถมที่ใช้ภาษาทมิฬเป็นสื่อการสอนตามชื่อบนป้าย ให้บริการชุมชนสวนยางพารา มองจากริมถนน'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ตามชายขอบของเมืองเก่าหลายแห่งในมาเลเซีย สวนยางพาราที่ครั้งหนึ่งเคยแผ่เขียวขจี บัดนี้ได้กลายเป็นเขตที่อยู่อาศัยที่เต็มไปด้วยบ้านเรือนและแถวร้านค้า ท่ามกลางอาคารใหม่เหล่านั้น บางครั้งยังมีวัดอัมมันเก่า ๆ หรือโรงเรียนทมิฬเล็ก ๆ หลงเหลือตั้งอยู่ — ดั่งรอยประทับที่ไม่จางหายของชุมชนหนึ่งที่ถูกโยกย้ายไป

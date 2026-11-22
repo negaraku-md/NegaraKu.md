@@ -72,6 +72,13 @@ faq:
   - q: Why do more Hindus live in states such as Negeri Sembilan, Selangor and Perak?
     a: These states coincide with the former rubber-plantation and tin-mining areas — where Indian labourers settled in large numbers during the British era. In the 2020 census, Negeri Sembilan (~13.1%), Selangor (~10.3%) and Perak (~9.7%) had the higher proportions. Most are descendants of those who came from South India for plantation work under the kangani system.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'The tall, colourfully sculpted gopuram tower of the Sri Mahamariamman Temple in central Kuala Lumpur, crowded with Hindu deity figures above the temple entrance where visitors stand.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 In almost any Malaysian town you can find a Mariamman temple — at the edge of an

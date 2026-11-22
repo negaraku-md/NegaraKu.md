@@ -69,6 +69,13 @@ faq:
   - q: 大伯公是谁?最古老的大伯公庙在哪里?
     a: 大伯公(Tua Pek Kong)是带有浓厚本地色彩的神明,在马来西亚华人庙宇中广受奉拜。据称最古老的大伯公庙在槟城丹绒道光,其信仰后来传播至马来西亚、新加坡与印尼各地。庙宇在马来文中称为 tokong;其他知名庙宇还包括马六甲的青云亭与吉隆坡的乐圣岭天后宫。
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: '吉隆坡华人乐圣岭天后宫（Thean Hou Temple）飞檐翘角、龙饰顶端的琉璃瓦屋顶，在蓝天下被一排排悬挂的红灯笼环绕。'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 走进马来西亚任何一座华人庙宇,你很可能在同一个空间里看到佛、道与民间神明共处:

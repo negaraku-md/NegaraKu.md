@@ -79,6 +79,13 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["मानग्लिश", "Manglish", "मलेशियाई अंग्रेज़ी", "Malaysian English", "lah कण", "lah particle", "मलेशियाई अंग्रेज़ी विमर्श-कण", "मलेशियाई अंग्रेज़ी व्याकरण", "मलेशिया में कोड-स्विचिंग", "acrolect mesolect basilect", "ऑक्सफ़ोर्ड इंग्लिश डिक्शनरी मलेशियाई शब्द", "bahasa rojak", "मलेशियाई स्लैंग"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'ग्रैफिटी से भरे एक यूटिलिटी बॉक्स पर हाथ से बनाया नारंगी और नीला साइन, जिस पर PETALING STREET KUALA LUMPUR लिखा है, इसके पीछे एक शहरी सड़क और इमारतें हैं।'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

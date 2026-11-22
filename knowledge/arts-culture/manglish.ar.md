@@ -79,6 +79,13 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["المانغليش", "Manglish", "الإنجليزية الماليزية", "Malaysian English", "جُسيم lah", "lah particle", "جُسيمات خطابية", "قواعد الإنجليزية الماليزية", "تبديل الشفرة", "acrolect mesolect basilect", "كلمات ماليزية في قاموس أوكسفورد", "bahasa rojak", "العامية الماليزية"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'لافتة برتقالية وزرقاء مرسومة باليد كُتب عليها PETALING STREET KUALA LUMPUR على صندوق مرافق مغطّى بالكتابات الجدارية، وخلفها شارع مدينة ومبانٍ.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

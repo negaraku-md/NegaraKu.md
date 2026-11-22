@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'Gerbang merah dan emas yang berornamen pada Kuil Tua Pek Kong di Sibu, diapit singa penjaga bersepuh emas, dengan sebuah pagoda tujuh lantai yang tinggi menjulang di belakangnya berlatar langit biru.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di tepi laut di Tanjung Tokong (丹絨道光) di Penang berdiri sebuah kelenteng yang tidak seberapa besar, sunyi hampir sepanjang tahun. Namun menjelang Festival Lampion, suasananya berubah sama sekali: keranjang pikulan dupa, gong dan gendang, serta barisan panjang orang datang jauh-jauh dari George Town; pada malam hari setiap lampu dan lilin di dalam kelenteng dipadamkan, dan sekelompok orang mengerumuni tungku bara, menahan napas sambil mengipasi api — seberapa tinggi nyala api melonjak dipandang sebagai sebuah "ramalan" untuk tahun mendatang. Kelenteng inilah, dalam benak banyak orang, mata air pemujaan Tua Pek Kong.

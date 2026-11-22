@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'Cổng chào trang trí công phu màu đỏ và vàng của đền Tua Pek Kong ở Sibu, hai bên là những con sư tử canh giữ mạ vàng, phía sau là một ngôi bảo tháp bảy tầng cao vút vươn lên trên nền trời xanh.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bên bờ biển ở Tanjung Tokong (丹絨道光) tại Penang có một ngôi miếu không mấy to lớn, phần lớn thời gian trong năm đều yên ắng. Nhưng vào dịp Nguyên Tiêu, mọi thứ hoàn toàn khác: gánh hương, chiêng trống và dòng người dài dằng dặc từ George Town kéo về; ban đêm mọi ngọn đèn và cây nến trong miếu đều tắt, một đám đông vây quanh lư than, nín thở quạt lửa — ngọn lửa bùng cao đến đâu được xem là một "lời dự báo" cho năm tới. Ngôi miếu này, trong tâm trí nhiều người, chính là cội nguồn của tín ngưỡng Tua Pek Kong.

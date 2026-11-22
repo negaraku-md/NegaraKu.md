@@ -72,6 +72,13 @@ faq:
   - q: மலேசியக் கிறிஸ்தவ கூட்டமைப்பு என்றால் என்ன, அது எந்த அமைப்புகளை ஒன்றிணைக்கிறது?
     a: '1985-இல் உருவாக்கப்பட்ட மலேசியக் கிறிஸ்தவ கூட்டமைப்பு (Christian Federation of Malaysia, CFM) முதன்மையான குடை அமைப்பாகும். இது மலேசியக் கிறிஸ்தவத்தின் மூன்று நீரோட்டங்களை ஒன்றிணைக்கிறது: கத்தோலிக்க ஆயர் மாநாடு (Catholic Bishops'' Conference), மலேசியத் தேவாலயங்கள் பேரவை (Council of Churches of Malaysia, முதன்மை புராட்டஸ்டன்ட்) மற்றும் தேசிய சுவிசேஷ கிறிஸ்தவ ஐக்கியம் (National Evangelical Christian Fellowship). நாட்டின் 95%-க்கும் அதிகமான தேவாலயங்களை தான் பிரதிநிதித்துவப்படுத்துவதாக CFM கூறுகிறது; அவற்றில் பல சபா மற்றும் சரவாக்கில் பகாசா மலேசியா பேசும் சபைகள்.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'மலாக்காவின் செயின்ட் பால் மலையில் 16-ஆம் நூற்றாண்டைச் சேர்ந்த செயின்ட் பால் தேவாலயத்தின் வெள்ளையடிக்கப்பட்ட கற்சிதைவுகள், முன்புறத்தில் செயின்ட் பிரான்சிஸ் சேவியரின் பளிங்குச் சிலை நிற்கிறது.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் கிறிஸ்தவக் கதைக்கு இரண்டு ஈர்ப்பு மையங்கள் உள்ளன, இரண்டும் தலைநகரில் இல்லை.

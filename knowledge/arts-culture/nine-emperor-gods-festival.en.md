@@ -73,6 +73,13 @@ festivalFacts:
   who: "Devotees within Malaysia's Chinese community; well-known temples include the Nan Tian Temple in Ampang, Selangor, the Tow Boo Kong (Dou Mu Gong) at Hong Kong Street in Penang, and the Tow Boo Kong in Butterworth."
   when: "From the first to the ninth day of the ninth lunar month, nine consecutive days (with the water-inviting rite on the eve of the first day and the sending-off of the deities concluding on the ninth)."
   etiquette: "Many devotees keep a vegetarian fast (shi zhai), eating vegetarian for one day, three days or the full nine, and traditionally avoiding the 'five pungent herbs' (wu xin); many wear white clothing with a yellow sash at the waist; the festival period often features street processions (you jing / you shen), and some temples hold austerities such as fire-walking (guo huo) and cheek/mouth piercing (za kou), though practices vary from temple to temple."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'A crowd of devotees holding joss sticks before a dragon-flanked temple altar hung with yellow lanterns during the Nine Emperor Gods Festival in Ipoh, smoke rising from incense in the foreground.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 On the eve of the first day of the ninth lunar month, a line of devotees dressed in white with yellow sashes at the waist files out of the temple, holding sticks of incense, and heads for the nearest river or seashore. Gongs and drums go in front, incense smoke behind — they are going to "invite the water" and "welcome the gods", to escort the Nine Emperor Gods back to the temple. For the next nine days the incense never stops inside the temple, and the aroma of vegetarian food drifts outside; on the night of the ninth day, the same procession will again form up at the water's edge to send the deities off.

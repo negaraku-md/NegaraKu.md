@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'Una desgastada casa de una planta de madera y zinc, típica de una Nueva Aldea China de Malasia, frente a una tranquila calle residencial con coches aparcados al lado.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Si hoy entras en Semenyih, Kampar o Sekinchan, lo que ves en su mayor parte es la estampa corriente de un pueblo pequeño: hileras de casas-tienda, una escuela primaria china, templos y asociaciones de clan, cafeterías de carretera y tiendas de ultramarinos. Pero muchos de estos lugares comparten una identidad común: son "Nuevas Aldeas". Tras ese nombre en apariencia anodino se esconde una historia de la [Emergencia Malaya](/es/malaysia/the-emergency), de la contrainsurgencia y de un traslado a gran escala.

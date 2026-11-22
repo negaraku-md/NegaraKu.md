@@ -75,6 +75,13 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'The white gopuram tower of the Nattukottai Chettiar Waterfall Hilltop Temple rising from dense green jungle on a Penang hillside.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 On the day of Thaipusam in Penang, a magnificent chariot made of silver sets off from Lebuh Penang Street toward the Murugan temple up on the hill. Neither that chariot nor the community that has run it for more than a century is incidental — they tell the story of a merchant-banking tradition that travelled from Chettinad to Malaya.

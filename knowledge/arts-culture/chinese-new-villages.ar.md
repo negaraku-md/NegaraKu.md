@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'منزل قديم من طابق واحد مبني من الخشب والصفيح، نموذجي للقرى الصينية الجديدة في ماليزيا، يطلّ على شارع سكني هادئ تصطفّ بجانبه السيارات.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حين تدخل اليوم إلى سيمينيه أو كامبار أو سيكينشان (Sekinchan)، فإنّ ما تراه في الغالب هو منظر بلدة صغيرة عادية: صفوف من المتاجر السكنية، ومدرسة ابتدائية صينية، ومعابد وجمعيات، ومقاهٍ على جانب الطريق ودكاكين متنوعة. لكنّ كثيرًا من هذه الأماكن تجمعها هوية واحدة مشتركة — فهي "قرى جديدة". وخلف هذا الاسم الذي يبدو عاديًا يكمن تاريخ من [طوارئ الملايو](/ar/malaysia/the-emergency) ومكافحة التمرّد والترحيل الواسع.

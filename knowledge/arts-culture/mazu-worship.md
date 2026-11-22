@@ -66,6 +66,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: '吉隆坡的天后宫（Thean Hou Temple），数百盏红灯笼如瀑布般自层层屋顶垂挂而下，前庭有一座龙饰香炉，信众在主殿参拜。'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在吉隆坡乐圣岭（Robson Heights）的山岗上，一座六层的红柱琉璃瓦庙宇俯瞰着城市——这就是乐圣岭天后宫，供奉的是华人世界里最著名的海神：妈祖。过去，循海路南来的华人每每在渡海前后向她祈求平安；今天，这里既是香客上香的庙宇，也是海南乡亲聚首、游客取景的去处。

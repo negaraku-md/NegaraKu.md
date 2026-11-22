@@ -72,6 +72,13 @@ faq:
   - q: Qu'est-ce que la Fédération chrétienne de Malaisie et quels organismes rassemble-t-elle ?
     a: 'La Fédération chrétienne de Malaisie (Christian Federation of Malaysia, CFM), fondée en 1985, est le principal organisme fédérateur. Elle réunit les trois courants du christianisme malaisien : la Conférence des évêques catholiques (Catholic Bishops'' Conference), le Conseil des Églises de Malaisie (Council of Churches of Malaysia, protestantisme traditionnel) et la Communion chrétienne évangélique nationale (National Evangelical Christian Fellowship). La CFM déclare représenter plus de 95 % des églises du pays, dont beaucoup sont des congrégations malayophones à Sabah et au Sarawak.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'Les ruines en pierre blanchies à la chaux de l''église St. Paul du XVIe siècle sur la colline St. Paul à Melaka, avec la statue en marbre de saint François Xavier au premier plan.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 L'histoire chrétienne de la Malaisie a deux centres de gravité, et aucun ne se

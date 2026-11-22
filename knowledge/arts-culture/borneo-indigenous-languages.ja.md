@@ -81,6 +81,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'サラワクの川を見下ろす森に覆われた丘の斜面に、木の杭の上に建つ長いイバン（Iban）族の木造ロングハウス。ダヤク（Dayak）コミュニティの共同住居である。'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ボルネオの内陸部を飛行機で越えれば、一時間のうちに、たいていの国が国内全体で抱える数より多くの言語を通り過ぎることになる。サバ州高地の川筋、サラワク州の上流バラム川沿いのロングハウス、沿岸の漁村——そのどこもが、隣の谷ではほとんど理解されない言葉であなたを迎えるかもしれない。

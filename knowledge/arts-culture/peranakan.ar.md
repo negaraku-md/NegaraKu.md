@@ -61,6 +61,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["البيراناكان", "Peranakan", "البابا-نيونيا", "Baba-Nyonya", "الصينيون المضيقيون", "Straits Chinese", "مطبخ النيونيا", "Nyonya cuisine", "كباية النيونيا", "Nyonya kebaya", "تراث ملاكا وجورج تاون"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'قاعة استقبال بيراناكانية في متحف بابا نيونيا للتراث في ملقا، فيها حواجز منحوتة مذهّبة من خشب أسود، وأثاث مطعّم بعرق اللؤلؤ، وطاولة مستديرة بسطح رخامي، وألواح جدارية مرسومة بالطيور والأزهار.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ادخل بيتًا مدينيًا قديمًا في شارع هيرن (Heeren Street) بملاكا، وستُروى القصة عبر الأشياء قبل أن ينطق أحد بكلمة. بلوزة من الدانتيل ضيقة الخصر مثبتة من الأمام ببروش ذهبي من ثلاث قطع. زوج من النعال يكسو مقدَّمه آلاف الخرزات الزجاجية الصغيرة، كل واحدة مخيطة باليد. طاولة طويلة بسطح رخامي مُعَدّة لوجبة ليست صينية تمامًا ولا مالاوية تمامًا. هذه كلها تخص البيراناكان — البابا-نيونيا — مجتمعًا صنع ثقافة من العيش بين عالمين.

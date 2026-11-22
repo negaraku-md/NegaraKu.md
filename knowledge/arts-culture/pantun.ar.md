@@ -76,6 +76,13 @@ verificationNeeded:
   - "يختلف الحد الأقصى لطول البانتون الطويل بين المصادر (يذكر بعضها حتى 16 بيتًا، وبعضها الآخر حتى نحو 22 بيتًا)؛ والعدد المؤكد غير موحّد."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'فنّانون ماليزيون بزيّ تقليدي أخضر وذهبي وأغطية رأس مزخرفة، يجلسون على الأرض ويؤدّون حركات يد متناسقة خلال عرض ديكير بارات، وأمامهم طبول يدوية.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

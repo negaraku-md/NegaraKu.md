@@ -79,6 +79,13 @@ verificationNeeded:
   - "The year of the Za'ba spelling system: some sources state it was introduced in 1924 while others state it was fully compiled in 1933 — to be confirmed against primary sources"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'A blue Malaysian street sign reading Jalan Pasir Puteh in Jawi script above and in Rumi (Latin) letters below, with a man on a motorcycle passing beside it.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 When we read a Malay word today — on a road sign, in a newspaper, on a phone screen — we read it in the same letters as the English alphabet: a, b, c, d and so on. That script is called Rumi script. It is so ordinary that many are not aware that Rumi is not the original script of the Malay language, and that its neat and uniform form today is the result of a standardisation effort that took more than a hundred years.

@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["phép lịch sự nhà mở Malaysia", "phép xã giao rumah terbuka", "khách dự nhà mở Malaysia", "phép lịch sự nhà mở Hari Raya", "mặc gì khi dự nhà mở Malaysia", "khách lì xì duit raya ang pow", "phép lịch sự nhà halal Malaysia", "phong tục thăm nhà người Malaysia"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên xuống của một mâm tiệc Hari Raya bày trên bàn, với những nồi rendang bò và cà ri rau, một đĩa sambal, và những đĩa vỏ ketupat đan và cơm nén cắt lát.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn vừa được mời đến một *rumah terbuka* (nhà mở). Có thể là Hari Raya của một

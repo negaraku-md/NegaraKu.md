@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: '诗巫（Sibu）大伯公庙（Tua Pek Kong Temple）红金两色华丽的牌坊，两侧立着镀金的守护石狮，背后一座高七层的宝塔在蓝天下耸立。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在槟城丹绒道光（Tanjung Tokong）的海边，有一座不算宏大的庙，一年里大半时候都很安静。可一到元宵前后，情况就全然不同：香担、锣鼓、人龙从乔治市一路而来，夜里庙内灯烛尽熄，一群人围着火鼎屏息煽火——火焰窜得高不高，被看作对来年的一则「预报」。这座庙，就是许多人心目中大伯公信仰的源头。

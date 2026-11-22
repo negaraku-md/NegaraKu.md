@@ -61,6 +61,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: '马六甲峇峇娘惹古迹博物馆（Baba Nyonya Heritage Museum）内的一处土生华人（Peranakan）会客厅，有镀金雕花的黑木屏风、螺钿镶嵌的家具、大理石面圆桌，墙上挂着花鸟彩绘屏板。'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 走进马六甲希兰街（Heeren Street）一栋老排屋，还没等人开口，这个故事已经透过器物讲述出来了。一件在胸前用三件式金胸针别紧的蕾丝紧身上衣。一双鞋尖缀满成千上万颗细小玻璃珠、每一颗都由手工缝制的鞋子。一张摆着大理石桌面的长桌，上面摆着一顿既非纯粹华人、也非纯粹马来的餐点。这些都属于土生华人——峇峇娘惹——一个把两个世界之间的生活活成了一种文化的社群。

@@ -77,6 +77,13 @@ social:
 verificationNeeded:
   - "Le nombre et les limites des groupes dialectaux varient selon les schémas des dialectologues (quatre ensembles chez Ismail Hussein 1973 ; sept groupes chez Asmah Haji Omar ; listes plus détaillées) et ne font pas pleinement consensus. Le statut du malais standard comme «fondé sur Johor-Riau» ainsi que l'histoire de la politique de prononciation standard par rapport à la prononciation de Johor-Riau sont à vérifier auprès des publications officielles du DBP. Le rapport du dialecte de Negeri Sembilan avec la langue minangkabau (ascendance des migrants par rapport à la proximité linguistique avec le malais standard) et le statut du baba malais comme langue créole restent débattus parmi les chercheurs."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'Une maison traditionnelle malaise de Pahang en bois, surélevée sur pilotis, avec un toit de tuiles pentu, une bordure de pignon sculptée et un escalier en bois couvert, posée sur une pelouse verte.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un locuteur de Kota Bharu, un autre d'Alor Setar et un autre de Kuching pourraient tous dire qu'ils parlent le malais — mais lorsqu'ils bavardent de manière décontractée dans leurs villages respectifs, les sonorités peuvent être si différentes qu'il faut un peu d'ajustement pour se comprendre mutuellement. C'est cette différence qu'on appelle dialecte, ou dans le langage courant, loghat.

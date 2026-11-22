@@ -67,6 +67,13 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "mariamman-worship", "ayyappan-pilgrimage", "deepavali", "navaratri", "tamil-in-malaysia"]
 keywords: ["பங்குனி உத்திரம்", "Panguni Uthiram", "பங்குனி உத்திரம் மலேசியா", "முருகன் தெய்வானை", "காவடி", "மாறான் மாரத்தாண்டவர் கோயில்", "இரண்டாம் தைப்பூசம்"]
 framework: history-culture
+hero: '/media/arts-culture/panguni-uthiram/hero.webp'
+heroAlt: 'ขบวนแห่ริมถนนของชาวทมิฬฮินดูขนาดใหญ่ในยามโพล้เพล้ ผู้ศรัทธาแบกกาวาดี (kavadi) รูปนกยูงที่ประดับตกแต่ง และนักดนตรีตีกลองท่ามกลางฝูงชนหนาแน่นใกล้ถ้ำบาตู (Batu Caves)'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในเดือนปังกุนิ มีคืนหนึ่งที่พระจันทร์เต็มดวงเรืองรองเต็มท้องฟ้า ในประเพณีทมิฬ

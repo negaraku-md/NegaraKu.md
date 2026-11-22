@@ -93,6 +93,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'ஓடு கூரையுடன் கூடிய ஒரு கிராமப் பள்ளிக் கட்டிடத்தின் முன்பு, பச்சை மரங்களால் சூழப்பட்ட, Selamat Datang ke KOA Lubuk Legong என வாசிக்கப்படும் வண்ணமயமாக வரையப்பட்ட சுவரோவியம்.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியா என்ற பெயர் எந்த வரைபடத்திலும் தோன்றுவதற்கு நெடுங்காலத்திற்கு முன்பே, தீபகற்பத்தின் காடுகள், மேட்டு நிலங்கள் மற்றும் கடற்கரைப் பகுதிகளில் வாழ்ந்த சமூகங்கள் இருந்தன. இன்று அவர்கள் கூட்டாக Orang Asli என அறியப்படுகிறார்கள் — இது “மூல மனிதர்கள்” அல்லது “மூலக் குடிமக்கள்” எனப் பொருள்படும் மலாய் மொழிச் சொல்.

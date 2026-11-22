@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'วัดฮินดูอัยยัปปัน (Ayyappan) ที่สว่างไสวในยามค่ำคืน มีหลังคาซ้อนชั้นแบบเกรละ เสาที่ส่องสว่างด้วยแสงสีทอง และศาลเล็กประดิษฐานเทวรูปอยู่เหนือทางเข้า'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในช่วงเดือนท้าย ๆ ของปี มีภาพหนึ่งปรากฏให้เห็นในหลายเมืองทั่วมาเลเซีย ชายผู้สวมเสื้อผ้าสีดำหรือสีน้ำเงิน สวมประคำรุทรากษะที่คอและไว้หนวดเครา เรียกขานกันและกันว่า "สวามี" พวกเขาคือผู้ถือพรตอัยยัปปัน — หลายคนกำลังเตรียมเดินทางไปยังสวามิมาลัยในรัฐเกรละ บทความนี้บรรยายการบูชาและธรรมเนียมการถือพรตนั้นอย่างเป็นกลาง มิได้อธิบายหรือประเมินความเชื่อใด ๆ

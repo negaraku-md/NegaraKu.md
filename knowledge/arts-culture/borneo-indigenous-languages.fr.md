@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'Une longue maison communautaire (longhouse) iban en bois, surélevée sur des pilotis en bois le long d''un versant boisé au-dessus d''une rivière au Sarawak, l''habitation communautaire d''une communauté dayak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Survolez l'intérieur de Bornéo et vous traverserez plus de langues en une heure que la plupart des pays n'en comptent au total. Une vallée fluviale dans les hautes terres du Sabah, une maison longue sur le haut Baram au Sarawak, un village de pêcheurs sur la côte : chacun peut vous saluer dans une langue que la vallée voisine comprend à peine.

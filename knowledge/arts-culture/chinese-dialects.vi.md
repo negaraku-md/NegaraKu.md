@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'Cổng chào mái bảo tháp màu xanh lá bắc qua đường Jalan Petaling ở khu phố người Hoa Kuala Lumpur, mang dòng chữ ''Petaling Street'' với đèn lồng đỏ và biển hiệu cửa hàng chữ Hoa phía trên một con phố chợ nhộn nhịp.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ở quán cà phê tại Penang, bạn gọi một ly kopi bằng tiếng Phúc Kiến; đến Kuala Lumpur và Ipoh, cùng một ly cà phê ấy lại đổi sang tiếng Quảng Đông; đi xa hơn nữa tới Sibu ở Sarawak, người tiếp đón bạn rất có thể lại nói tiếng Phúc Châu. Người ở cả ba nơi đều là người Hoa, nhưng nói ba thứ tiếng không thông hiểu lẫn nhau.

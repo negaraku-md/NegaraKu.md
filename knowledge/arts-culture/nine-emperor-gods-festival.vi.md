@@ -73,6 +73,13 @@ festivalFacts:
   who: "Các tín đồ trong cộng đồng người Hoa Malaysia; những ngôi đền nổi tiếng gồm Nam Thiên Cung ở Ampang, Selangor, Đẩu Mẫu Cung ở ngõ Hong Kong (Hong Kong Street), Penang và Đẩu Mẫu Cung ở Butterworth."
   when: "Từ mùng 1 đến mùng 9 tháng 9 âm lịch, liên tục chín ngày (thỉnh nước vào đêm trước mùng 1, kết thúc bằng lễ tiễn giá vào mùng 9)."
   etiquette: "Nhiều tín đồ giữ 'ăn chay' (trai giới), ăn chay một ngày, ba ngày hoặc trọn chín ngày, theo truyền thống kiêng ngũ tân (năm loại gia vị cay nồng); phần lớn mặc áo trắng, thắt dải vàng ở eo; trong tiết lễ thường có lễ du cảnh (rước thần) đi diễu qua các con phố, một số đền có các nghi thức khổ hạnh như đi qua lửa (quá hỏa), xuyên bịt miệng (trát khẩu), song cách làm khác nhau tùy từng đền."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Một đám đông tín đồ cầm nhang trước bàn thờ trong đền có rồng hai bên và treo đèn lồng vàng trong Lễ hội Cửu Hoàng Gia (Nine Emperor Gods) ở Ipoh, khói hương bốc lên ở phía trước.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào đêm trước mùng 1 tháng Chín âm lịch, một hàng tín đồ mặc áo trắng thắt dải vàng ngang lưng, tay cầm hương, nối nhau ra khỏi miếu, hướng về con sông hoặc bờ biển gần nhất. Phía trước là chiêng trống, phía sau là khói hương — họ đi 'thỉnh nước', 'nghênh giá', để cung thỉnh Cửu Hoàng Đại Đế về miếu. Suốt chín ngày tiếp theo, trong miếu hương khói không dứt, ngoài miếu thoảng mùi đồ chay; đến đêm mùng 9, chính hàng người ấy lại xếp thành đoàn ra bờ nước để tiễn thần về.

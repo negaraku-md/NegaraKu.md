@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'SJK(T) Ladang Sungai Getah의 나지막한 교사(校舍)로, 간판에 이 타밀어 초등학교의 이름이 적혀 있으며 고무 농장 공동체를 위한 학교를 길가에서 바라본 모습이다.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아의 많은 오래된 도시 변두리에는, 한때 푸르게 펼쳐져 있던 고무 농원이 이제는 집들과 상가 거리로 가득 찬 주택지로 바뀌어 있다. 그 새 건물들 사이에, 때때로 오래된 암만 사원이나 작은 타밀 학교가 아직 남아 서 있다 — 이주해 간 한 공동체의, 바래지 않은 흔적으로.

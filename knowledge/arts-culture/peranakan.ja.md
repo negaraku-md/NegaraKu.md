@@ -60,6 +60,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'マラッカのババ・ニョニャ・ヘリテージ博物館（Baba Nyonya Heritage Museum）にあるプラナカン（Peranakan）の応接間。金箔を施した黒檀の彫刻衝立、螺鈿をはめ込んだ家具、大理石天板の円卓、そして壁には花鳥を描いた板絵がある。'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マラッカのヒーレン・ストリート（Heeren Street）にある古い町屋に足を踏み入れると、誰かが言葉を発する前に、物がすでに物語を語り始めている。三連の金のブローチで前を留めた、体にぴったり沿うレースのブラウス。爪先を何千もの小さなガラスビーズで覆われ、一粒一粒が手縫いで留められた一足のスリッパ。中華とも言い切れず、マレーとも言い切れない食事のために整えられた、大理石天板の長いテーブル。これらはすべてプラナカン——ババ・ニョニャ——のものである。二つの世界のあいだで生きることから、ひとつの文化を作り上げたコミュニティだ。

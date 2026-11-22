@@ -62,6 +62,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'Một gian tiếp khách Peranakan tại Bảo tàng Di sản Baba Nyonya ở Melaka, với những tấm bình phong gỗ mun chạm khắc mạ vàng, đồ nội thất khảm xà cừ, một chiếc bàn tròn mặt cẩm thạch và những tấm panel vẽ hình chim và hoa trên tường.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bước vào một dãy nhà phố cổ trên phố Heeren của Malacca, câu chuyện được kể qua các vật thể trước khi có ai nói một lời. Một chiếc áo ren ôm sát cài phía trước bằng một bộ trâm vàng ba mảnh. Một đôi dép mà phần mũi phủ hàng nghìn hạt cườm thủy tinh li ti, mỗi hạt được khâu bằng tay. Một chiếc bàn dài mặt đá cẩm thạch bày cho một bữa ăn không hẳn Hoa cũng không hẳn Mã Lai. Những thứ này thuộc về người Peranakan — Baba-Nyonya — một cộng đồng đã tạo nên một nền văn hóa từ việc sống giữa hai thế giới.

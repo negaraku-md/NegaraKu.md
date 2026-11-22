@@ -80,6 +80,13 @@ verificationNeeded:
   - "《Hikayat Hang Tuah》等古典作品的作者与确切年代至今仍无法准确确定（估计为15世纪至17世纪）"
   - "A. Samad Said 的获奖年份在同一来源的主名单中记为1985年，而在导航框中记为1986年——已确认为1985年"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: '《诸王之冠》（Taj al-Salatin，“The Crown of Kings”）镀金、饰有花卉边框的开篇对开双页，这是一部以爪夷文（Jawi）书写的古典马来文学手稿。'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在一部古老的抄本中，镌刻着马六甲诸王的故事、汉都亚的历程，以及一个帝国的覆亡——不是作为干枯的史料，而是作为有血有肉的人物、对白与文采俱全的故事。这部抄本，《Sejarah Melayu》（马来纪年）或《Sulalatus Salatin》，是最早证明马来语书写传统何其悠久丰厚的作品之一。

@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'सिबु में तुआ पेक कोंग मंदिर का लाल और सुनहरा अलंकृत प्रवेश द्वार, जिसके दोनों ओर सुनहरे रक्षक शेर हैं, इसके पीछे नीले आकाश की पृष्ठभूमि में एक ऊँचा सात मंजिला पैगोडा खड़ा है।'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 पेनांग के तानजोंग तोकोंग (丹絨道光, Tanjung Tokong) के समुद्र-तट पर एक अधिक बड़ा न होने वाला मंदिर खड़ा है, जो वर्ष के अधिकांश समय शांत रहता है। किंतु लालटेन उत्सव के आसपास स्थिति पूरी तरह बदल जाती है: धूप-पालकी की टोकरियाँ, घड़ियाल और ढोल, तथा लोगों की लंबी कतारें जॉर्ज टाउन से दूर-दूर से आती हैं; रात में मंदिर के सभी दीप और मोमबत्तियाँ बुझा दी जाती हैं, और एक भीड़ अंगीठे को घेरकर साँस रोककर आग को हवा देती है — लपट कितनी ऊँची उठती है, यह आने वाले वर्ष के लिए एक 'पूर्वानुमान' माना जाता है। यही मंदिर, कई लोगों के मन में, तुआ पेक कोंग पूजा का उद्गम है।

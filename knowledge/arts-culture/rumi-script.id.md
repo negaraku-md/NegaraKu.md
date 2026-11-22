@@ -79,6 +79,13 @@ verificationNeeded:
   - "Tahun sistem ejaan Za'ba: sebagian sumber menyebut diperkenalkan 1924 dan sebagian lain menyebut disusun secara lengkap pada 1933 — perlu dikonfirmasi terhadap sumber primer"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'Papan nama jalan Malaysia berwarna biru bertuliskan Jalan Pasir Puteh dalam aksara Jawi di atas dan huruf Rumi (Latin) di bawah, dengan seorang pria mengendarai sepeda motor melintas di sampingnya.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ketika kita membaca kata Melayu saat ini — pada papan tanda jalan, dalam surat kabar, pada layar telepon — kita membacanya dalam huruf yang sama dengan abjad Inggris: a, b, c, d, dan seterusnya. Tulisan itu disebut tulisan Rumi. Ia begitu lazim sehingga banyak orang tidak sadar bahwa Rumi bukanlah tulisan asli bahasa Melayu, dan bahwa bentuknya yang rapi dan seragam saat ini adalah hasil upaya penyeragaman yang memakan waktu lebih dari seratus tahun.

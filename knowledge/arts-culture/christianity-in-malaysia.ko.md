@@ -72,6 +72,13 @@ faq:
   - q: 말레이시아 기독교연맹은 무엇이며, 어떤 단체들을 아우릅니까?
     a: 1985년에 결성된 말레이시아 기독교연맹(Christian Federation of Malaysia, CFM)은 주요 우산 조직입니다. 말레이시아 기독교의 세 흐름, 즉 가톨릭 주교회의(Catholic Bishops' Conference), 말레이시아 교회협의회(Council of Churches of Malaysia, 주류 개신교), 전국 복음주의 기독교 협회(National Evangelical Christian Fellowship)를 하나로 묶습니다. CFM은 자국 교회의 95% 이상을 대표한다고 밝히며, 그 다수는 사바주와 사라왁주의 말레이어를 사용하는 회중입니다.
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: '말라카의 세인트폴 언덕(St Paul''s Hill)에 있는 16세기 세인트폴 교회(St Paul''s Church)의 흰 칠을 한 돌 유적으로, 전경에는 성 프란치스코 하비에르(St Francis Xavier)의 대리석상이 서 있다.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아 기독교의 이야기에는 두 개의 중심이 있는데, 그 어느 것도 수도에 있지

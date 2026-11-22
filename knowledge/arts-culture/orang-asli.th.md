@@ -93,6 +93,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'ภาพจิตรกรรมฝาผนังสีสันสดใสเขียนว่า Selamat Datang ke KOA Lubuk Legong อยู่หน้าอาคารโรงเรียนประจำหมู่บ้านที่มีหลังคากระเบื้อง ล้อมรอบด้วยต้นไม้เขียวขจี'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 นานก่อนที่ชื่อมาเลเซียจะปรากฏบนแผนที่ ก็มีชุมชนที่อาศัยอยู่ในป่า ที่สูง และชายฝั่งของคาบสมุทร ปัจจุบันพวกเขาเป็นที่รู้จักโดยรวมในชื่อโอรังอัสลี — คำภาษามลายูที่แปลว่า "มนุษย์ดั้งเดิม" หรือ "ผู้อยู่อาศัยดั้งเดิม"

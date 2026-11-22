@@ -95,6 +95,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'कुआलालंपुर में ऊँचा Dewan Bahasa dan Pustaka टॉवर, जिसका नाम चबूतरे पर लिखा है, राष्ट्रीय भाषा और साहित्य प्राधिकरण का मुख्यालय सड़क से दिखाई देता है।'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कुआला बेरांग, तेरेंगानु में, एक शिलालेख मिला जिस पर मलय शब्द अंकित थे — उन अक्षरों में नहीं जिन्हें हम आज जानते हैं, बल्कि मलय ध्वनियों के लिए अनुकूलित अरबी लिपि में। मलेशिया राष्ट्रीय अभिलेखागार (Arkib Negara Malaysia) के अनुसार, यह शिलालेख 1303 ईस्वी का है।

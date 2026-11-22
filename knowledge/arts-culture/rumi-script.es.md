@@ -79,6 +79,13 @@ verificationNeeded:
   - "Año del sistema ortográfico de Za'ba: algunas fuentes indican que se introdujo en 1924 y otras que se compiló por completo en 1933 — debe verificarse frente a fuentes primarias"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'Un cartel de calle malasio azul que dice Jalan Pasir Puteh en escritura jawi arriba y en letras rumi (latinas) abajo, con un hombre en motocicleta pasando a su lado.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cuando leemos hoy una palabra malaya — en una señal de tráfico, en el periódico, en la pantalla del teléfono — la leemos con las mismas letras del alfabeto inglés: a, b, c, d, y así sucesivamente. Esa escritura se llama escritura rumi. Es tan habitual que muchos no se percatan de que el rumi no es la escritura originaria de la lengua malaya, y de que su forma pulcra y uniforme de hoy es fruto de un esfuerzo de estandarización que llevó más de cien años.

@@ -72,6 +72,13 @@ faq:
   - q: Mengapa lebih ramai penganut Hindu tinggal di negeri seperti Negeri Sembilan, Selangor dan Perak?
     a: Negeri-negeri ini bertepatan dengan bekas kawasan ladang getah dan perlombongan bijih timah — di situlah ramai buruh India menetap pada zaman British. Dalam banci 2020, Negeri Sembilan (~13.1%), Selangor (~10.3%) dan Perak (~9.7%) mencatatkan perkadaran yang lebih tinggi. Kebanyakan mereka ialah keturunan golongan yang datang dari India Selatan untuk kerja ladang di bawah sistem kangani.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'Menara gopuram Kuil Sri Mahamariamman yang tinggi dan diukir berwarna-warni di tengah Kuala Lumpur, dipenuhi patung dewa-dewi Hindu di atas pintu masuk kuil tempat pengunjung berdiri.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di mana-mana bandar di Malaysia, sama ada di pinggir sebuah ladang getah lama

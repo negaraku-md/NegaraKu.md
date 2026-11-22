@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["மலேசிய திறந்த வீட்டு பண்பாடு", "ரூமா தெர்புகா பண்பு", "திறந்த வீடு மலேசியா விருந்தினர்", "ஹரி ராயா திறந்த வீட்டு பண்பு", "திறந்த வீட்டிற்கு என்ன உடுத்துவது மலேசியா", "துவிட் ராயா ஆங் பௌ விருந்தினர்", "ஹலால் வீட்டு பண்பு மலேசியா", "மலேசிய வீட்டிற்குச் செல்லும் வழக்கங்கள்"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'மேசையில் பரப்பப்பட்ட ஒரு ஹரி ராயா விருந்தின் மேல்பார்வைக் காட்சி, மாட்டிறைச்சி ரெண்டாங் மற்றும் காய்கறி கறி பானைகள், ஒரு சம்பல் தட்டு, மற்றும் பின்னப்பட்ட கெதுபட் உறைகள் மற்றும் நறுக்கப்பட்ட அமுக்கிய அரிசி தட்டுகளுடன்.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் ஒரு *ரூமா தெர்புகா* (rumah terbuka, திறந்த வீடு) — ஒரு திறந்த வீட்டிற்கு

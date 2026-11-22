@@ -77,6 +77,13 @@ social:
 verificationNeeded:
   - "方言群组的数目与边界因方言学家的方案而异（Ismail Hussein 1973 的四个群组；Asmah Haji Omar 的七个群组；更细致的地区列表），并未完全一致。标准马来语「以柔佛—廖内为基础」的地位，以及标准发音与柔佛—廖内发音之争的历史，需对照 DBP 官方出版物核实。森美兰方言与米南加保语的关系（移民后裔渊源相较于与标准马来语的语言学亲近程度），以及峇峇马来语作为克里奥尔语的地位，在学者之间仍有争议。"
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: '一座传统的彭亨（Pahang）马来木屋，架于木桩之上，有陡斜的瓦屋顶、雕花的山墙封檐板和带顶盖的木楼梯，坐落在绿色草坪上。'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一位来自哥打峇鲁的说话者、一位来自亚罗士打的说话者，与一位来自古晋的说话者，或许都会说自己讲的是马来语——但当他们各自在家乡随意闲聊时，其声音可以如此不同，以致需要稍加适应才能彼此理解。这种差异便称为方言，或在日常用语中称为 loghat（口音）。

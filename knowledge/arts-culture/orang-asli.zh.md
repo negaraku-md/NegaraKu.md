@@ -94,6 +94,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: '一幅色彩缤纷的墙面彩绘写着“Selamat Datang ke KOA Lubuk Legong”，位于一座瓦顶乡村校舍前，四周被绿树环绕。'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 早在「马来西亚」这个名字出现在地图上之前，就已经有族群居住在半岛的森林、高地与沿海地带。今天，他们统称为「原住民」（Orang Asli）——这个马来语词汇的意思是「最初的人」或「原始居民」。

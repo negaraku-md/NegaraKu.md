@@ -77,6 +77,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'ศาลเจ้าตระกูลเหลียงซานตง คูกงสี (Leong San Tong Khoo Kongsi) อันวิจิตรในจอร์จทาวน์ ปีนัง สันหลังคาเต็มไปด้วยรูปมังกรและตุ๊กตาระบายสี เหนือห้องบูชาที่แกะสลักและปิดทองอย่างงดงาม'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 บนถนนเก่าของปีนัง ร้านรวงที่ค้ำจุนหน้าร้านทั้งแถวส่วนใหญ่คือกิจการของชาวฮกเกี้ยน; ในเมืองที่รุ่งเรืองขึ้นเพราะดีบุกอย่างกัวลาลัมเปอร์และอีโปห์ เหมืองแร่และสมาคมช่างเต็มไปด้วยชาวกวางฟู่และชาวแคะ; และไม่ว่าคุณจะก้าวเข้าเมืองใด ร้านกาแฟเก่าที่ขายกาแฟไหหลำและขนมปังปิ้งทาเนยกับสังขยานั้น หลังเคาน์เตอร์มักยืนอยู่ด้วยชาวไหหลำ

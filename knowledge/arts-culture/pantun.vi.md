@@ -76,6 +76,13 @@ verificationNeeded:
   - "Giới hạn độ dài tối đa của pantun khổ dài khác nhau giữa các nguồn (một số nêu lên tới 16 dòng, một số khác lên tới khoảng 22 dòng); con số chính xác không thống nhất."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Các nghệ nhân Mã Lai trong trang phục truyền thống xanh và vàng với mũ đội đầu cầu kỳ ngồi trên mặt đất và thực hiện những động tác tay đồng bộ trong một buổi biểu diễn dikir barat, phía trước họ là những chiếc trống tay.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar, *(Chuối vàng mang theo khi dong buồm,)*

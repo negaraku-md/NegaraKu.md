@@ -69,6 +69,13 @@ faq:
   - q: من هو توا بيك كونغ، وأين يقع أقدم معبد لتوا بيك كونغ؟
     a: توا بيك كونغ (Tua Pek Kong، 大伯公) إله ذو طابع محلي قوي، يُعبد على نطاق واسع في المعابد الصينية في أنحاء ماليزيا. ويُقال إن أقدم معبد لتوا بيك كونغ يقع في تانجونغ توكونغ (Tanjung Tokong) بولاية بينانغ، ثم انتشرت عبادته لاحقًا في مختلف أنحاء ماليزيا وسنغافورة وإندونيسيا. ويُسمّى هذا النوع من المعابد في اللغة الملايوية tokong؛ ومن المعابد الشهيرة الأخرى تشينغ هون تنغ (Cheng Hoon Teng) في ملقا ومعبد ثيان هو (Thean Hou) في كوالالمبور.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'الأسقف القرميدية المرتفعة الأطراف والمتوّجة بالتنانين لمعبد ثيان هو الصيني في كوالالمبور، تحيط بها صفوف من الفوانيس الحمراء المعلّقة أمام سماء زرقاء.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حين تدخل أي معبد صيني في ماليزيا، فالأرجح أنك سترى في المكان الواحد نفسه بوذا

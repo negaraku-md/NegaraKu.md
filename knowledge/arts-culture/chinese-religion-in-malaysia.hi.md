@@ -69,6 +69,13 @@ faq:
   - q: तुआ पेक कोंग कौन हैं, और सबसे पुराना तुआ पेक कोंग मंदिर कहाँ है?
     a: तुआ पेक कोंग (Tua Pek Kong, 大伯公) एक सशक्त स्थानीय स्वरूप वाले देवता हैं, जिनकी पूजा मलेशिया भर के चीनी मंदिरों में व्यापक रूप से होती है। कहा जाता है कि सबसे पुराना तुआ पेक कोंग मंदिर पेनांग के तंजुंग तोकोंग (Tanjung Tokong) में है, और यह आस्था बाद में मलेशिया, सिंगापुर और इंडोनेशिया के विभिन्न भागों में फैली। मलय भाषा में ऐसे मंदिर को tokong कहते हैं; अन्य प्रसिद्ध मंदिरों में मलक्का का चेंग हून तेंग (Cheng Hoon Teng) और कुआलालंपुर का थियान हो मंदिर (Thean Hou) शामिल हैं।
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'कुआलालंपुर में चीनी थियान होउ मंदिर की ऊपर की ओर मुड़ी, ड्रैगनों से सजी छतें, नीले आकाश की पृष्ठभूमि में लटकती लाल लालटेनों की कतारों से घिरी हुई।'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया के किसी भी चीनी मंदिर में जाएँ, तो बहुत संभव है कि एक ही स्थान में बुद्ध,

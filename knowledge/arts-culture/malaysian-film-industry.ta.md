@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'திரைப்பட புராண நாயகன் P. Ramlee பிறந்த இடமான, மீட்டெடுக்கப்பட்ட பாரம்பரிய மலாய் மரவீடு, இப்போது ஒரு நினைவிடமாக உள்ளது, வேய்ந்த கூரை மற்றும் செங்கல் முன்முற்றத்தில் ஒரு நினைவுப் பலகையுடன்.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1955-இல், சிங்கப்பூர் No. 8 Jalan Ampas-இல் அமைந்த ஒரு ஸ்டூடியோவில் முன்னாள் *clapper* பையனாகவும் உதவி ஒளிப்பதிவாளராகவும் இருந்த ஒருவர், 26 வயதில் முதல் முறையாக இயக்குநர் நாற்காலியில் அமர்ந்தார். அந்தப் படம் *Penarek Becha*. அவரது பெயர் P. Ramlee. மலேசியத் திரைப்படத் துறையின் கதை Kuala Lumpur-இல் அல்ல, மாறாக Shanghai-ஐச் சேர்ந்த இரு சகோதரர்களுக்குச் சொந்தமான ஒரு சிங்கப்பூர் ஸ்டூடியோவில் தொடங்குகிறது — அன்றிலிருந்து அது நகர்வதை நிறுத்தவே இல்லை.

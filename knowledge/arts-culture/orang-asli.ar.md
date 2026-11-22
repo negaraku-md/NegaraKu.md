@@ -94,6 +94,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["أورانغ أسلي", "Orang Asli", "الشعوب الأصلية", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 مجموعة فرعية", "JAKOA", "قانون الشعوب الأصلية 1954", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'جدارية ملوّنة مرسومة كُتب عليها Selamat Datang ke KOA Lubuk Legong أمام مبنى مدرسة قروية بسقف قرميدي، تحيط بها أشجار خضراء.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قبل أن يظهر اسم ماليزيا على أي خريطة بزمن طويل، كانت هناك مجتمعات تسكن غابات شبه الجزيرة ومرتفعاتها وسواحلها. ويُعرفون اليوم جماعيًا بأورانغ أسلي — وهو مصطلح مالاوي يعني «الناس الأصليين» أو «السكان الأصليين».

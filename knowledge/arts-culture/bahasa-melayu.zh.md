@@ -95,6 +95,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: '吉隆坡高耸的语文出版局（Dewan Bahasa dan Pustaka）大楼，底座上拼写着它的名称，这座国家语文机构的总部从路旁望去。'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在登嘉楼的 Kuala Berang，曾发现一块石碑，上面刻着马来文词语——不是用我们今天所熟悉的字母，而是用为马来语音调整过的阿拉伯字母。据大马国家档案局（Arkib Negara Malaysia）所述，这块碑文的年代为公元1303年。

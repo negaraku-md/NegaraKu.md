@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: '夜晚灯火通明的阿雅潘（Ayyappan）印度教寺庙，有喀拉拉风格的层叠屋顶、金色灯光照亮的柱子，入口顶端有一座供奉该神祇的小神龛。'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在一年将尽的那几个月里，马来西亚许多城镇都会出现这样一幅景象：身着黑衣或蓝衣、颈上佩戴 rudraksha 念珠、留着胡须的男子彼此以「Swami」相称。他们是奉行阿雅帕苦修的人——其中许多人正准备前往喀拉拉邦的萨巴里马拉。本文以中立的方式描述这一信仰与苦修传统；既不阐释，也不评断任何信仰。

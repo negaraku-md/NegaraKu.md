@@ -69,6 +69,13 @@ faq:
   - q: Qui est Tua Pek Kong, et où se trouve le plus ancien temple de Tua Pek Kong ?
     a: Tua Pek Kong (大伯公) est une divinité au fort caractère local, largement vénérée dans les temples chinois de toute la Malaisie. Le plus ancien temple de Tua Pek Kong se trouverait à Tanjung Tokong, à Penang, et le culte s'est ensuite répandu dans toute la Malaisie, à Singapour et en Indonésie. En malais, un tel temple s'appelle tokong ; parmi les autres temples réputés figurent Cheng Hoon Teng à Malacca et le temple Thean Hou à Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Les toits de tuiles relevés et surmontés de dragons du temple chinois Thean Hou à Kuala Lumpur, encadrés par des rangées de lanternes rouges suspendues sur un ciel bleu.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En entrant dans n'importe quel temple chinois de Malaisie, vous verrez très

@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["मलेशियाई साहित्य", "sastera Malaysia", "राष्ट्रीय साहित्यकार", "Sasterawan Negara", "राष्ट्रीय साहित्य पुरस्कार", "Anugerah Sastera Negara", "राष्ट्रीय साहित्य", "देवान बहासा दान पुस्तका", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'कुआलालंपुर में Dewan Bahasa dan Pustaka भवन, जिसका घुमावदार अग्रभाग मलेशियाई जीवन के एक बड़े भित्ति-चित्र से ढका है और इसके बगल की लाल कार्यालय इमारत पर इसका नाम आंशिक रूप से दिखाई देता है।'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 इससे पहले कि उपन्यास होते और इससे पहले कि कोई भाषा-परिषद होती, एक कथावाचक मलक्का के महल के आँगन में पहले से ही मलय नायकों को गढ़ रहा था। उसी मौखिक परंपरा से इस क्षेत्र की सबसे समृद्ध साहित्यिक विरासतों में से एक पनपी — एक ऐसी परंपरा जिसे आज एक राष्ट्रीय उपाधि, लाखों रिंगिट और राष्ट्र की सभ्यता में एक सम्मानित आसन के साथ सराहा जाता है।

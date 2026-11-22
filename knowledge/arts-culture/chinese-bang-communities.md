@@ -80,6 +80,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: '槟城乔治市（George Town）装饰华丽的龙山堂邱公司（Leong San Tong Khoo Kongsi）宗祠，屋脊上布满彩绘的龙与人物雕塑，下方是雕刻精美、镀金的祭祀大厅。'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在槟城的老街，撑起一整条街市面的，多是福建人开的商号；到了吉隆坡与怡保这些因锡矿而兴的城市，矿场与行会里挤满了广府与客家人；而无论走进哪一座城镇，那间卖海南咖啡、烤面包配牛油咖椰的老咖啡店，招牌后面站的，常常是海南人。

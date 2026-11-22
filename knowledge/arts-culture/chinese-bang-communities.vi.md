@@ -77,6 +77,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'Đền hội quán dòng họ Leong San Tong Khoo Kongsi được trang trí công phu ở George Town, Penang, các đường nóc mái chen chúc những con rồng và tượng nhỏ được sơn màu phía trên một gian thờ chạm khắc và mạ vàng tinh xảo.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trên những con phố cổ của Penang, các cửa hiệu nâng đỡ cả một dãy mặt tiền phần nhiều là cơ sở buôn bán của người Phúc Kiến; ở những đô thị hưng thịnh nhờ thiếc như Kuala Lumpur và Ipoh, hầm mỏ và phường hội chật ních người Quảng Phủ và Khách Gia; và bước vào bất cứ thị trấn nào, quán cà phê cũ bán cà phê Hải Nam cùng bánh mì nướng phết bơ và kaya ấy, phía sau quầy thường là một người Hải Nam.

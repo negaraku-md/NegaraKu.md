@@ -69,6 +69,13 @@ faq:
   - q: Đại Bá Công (Tua Pek Kong) là ai, và ngôi miếu Tua Pek Kong cổ nhất nằm ở đâu?
     a: Tua Pek Kong (大伯公) là một vị thần mang đậm màu sắc bản địa, được thờ phụng rộng rãi tại các miếu người Hoa khắp Malaysia. Ngôi miếu Tua Pek Kong cổ nhất được cho là ở Tanjung Tokong, Penang, và tín ngưỡng này về sau lan rộng khắp Malaysia, Singapore và Indonesia. Trong tiếng Mã Lai, loại miếu này gọi là tokong; các ngôi miếu nổi tiếng khác gồm Thanh Vân Đình (Cheng Hoon Teng) ở Malacca và Thiên Hậu Cung (Thean Hou) ở Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Những mái ngói cong vút, trên đỉnh có rồng của đền Thean Hou Trung Hoa ở Kuala Lumpur, được bao quanh bởi những hàng đèn lồng đỏ treo lủng lẳng trên nền trời xanh.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bước vào bất kỳ ngôi miếu người Hoa nào ở Malaysia, bạn rất có thể thấy Phật,

@@ -72,6 +72,13 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'Una exposición escalonada de Kolu de Navaratri cubierta con tela verde, con el peldaño superior ocupado por los diez avatares de Vishnu y los peldaños inferiores llenos de figuras de deidades hindúes vivamente pintadas y estatuillas.'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Durante el Navaratri, a lo largo de una de las paredes laterales del salón de una casa hindú tamil de Malasia se levantan gradas en número impar. Sobre esas gradas cubiertas de tela se disponen en hileras figuras de deidades y muñecos que recrean escenas de los mitos. Al atardecer, familiares y vecinos acuden a contemplar el **Golu**; resuenan los cantos; y a los invitados que se marchan se les ofrece thamboolam y dulces. No es un acontecimiento de un solo día: es la seña de identidad de una fiesta que se extiende a lo largo de nueve noches.

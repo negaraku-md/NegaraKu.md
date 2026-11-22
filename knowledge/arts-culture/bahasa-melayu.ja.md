@@ -94,6 +94,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'クアラルンプールにそびえる国語出版局（Dewan Bahasa dan Pustaka）の高層ビル。基壇にその名が記され、国の言語・文学機関の本部を道路から望む。'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 トレンガヌ州クアラ・ブランで、マレー語の言葉が刻まれた一枚の石碑が発見された——今日わたしたちが見慣れている文字ではなく、マレー語の音に合わせて調整されたアラビア文字によってである。マレーシア国家公文書館（Arkib Negara Malaysia）によれば、この碑文の年代は西暦1303年である。

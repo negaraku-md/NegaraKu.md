@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'Tòa nhà Dewan Bahasa dan Pustaka ở Kuala Lumpur, mặt tiền cong được phủ một bức tranh tường lớn về đời sống Malaysia và tên của nó hiện ra một phần trên tòa tháp văn phòng màu đỏ bên cạnh.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Trước khi có tiểu thuyết và trước khi có viện ngôn ngữ, một người kể chuyện rong đã sáng tác về các anh hùng Mã Lai ở sân triều Malacca. Chính từ truyền thống truyền khẩu ấy mà lớn lên một trong những di sản văn học phong phú nhất của vùng này — một truyền thống mà ngày nay được tôn vinh bằng danh hiệu quốc gia, hàng trăm nghìn ringgit tiền thưởng và một ghế danh dự trong nền văn minh của dân tộc.

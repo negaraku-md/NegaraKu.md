@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'معبد أيابان الهندوسي مضاء بسطوع ليلاً، بأسقف متدرجة على الطراز الكيرالي وأعمدة مذهبة الإضاءة وضريح صغير للإله يتوّج المدخل.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في الأشهر الأخيرة من السنة، يظهر مشهد مألوف في كثير من بلدات ماليزيا: رجال يرتدون السواد أو الأزرق، يضعون مسبحة الرودراكشا حول العنق ويُطلقون لحاهم، يخاطب بعضهم بعضًا بلقب «سوامي». هؤلاء هم المُلتزمون بنذر أيّابان — وكثير منهم يستعدون للسفر إلى ساباريمالا في ولاية كيرالا. يصف هذا المقال تلك العبادة وتقاليد النذر وصفًا محايدًا؛ فهو لا يشرح أي معتقد ولا يُقوّمه.

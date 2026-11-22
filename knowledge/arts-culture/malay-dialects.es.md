@@ -77,6 +77,13 @@ social:
 verificationNeeded:
   - "El número y las fronteras de los grupos dialectales varían según el esquema de cada dialectólogo (los cuatro grupos de Ismail Hussein 1973; los siete grupos de Asmah Haji Omar; listas más detalladas) y no gozan de pleno consenso. La condición del malayo estándar como lengua «basada en Johor-Riau», así como la historia de la política de pronunciación estándar frente a la pronunciación de Johor-Riau, deben contrastarse con publicaciones oficiales del DBP. La relación del dialecto de Negeri Sembilan con la lengua minangkabau (descendencia de los migrantes frente a la proximidad lingüística con el malayo estándar) y la condición del baba malayo como lengua criolla siguen siendo objeto de debate entre los especialistas."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'Una tradicional casa de madera malaya de Pahang elevada sobre pilotes, con un empinado tejado de tejas, una cenefa de frontón tallada y una escalera de madera cubierta, situada sobre un césped verde.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un hablante de Kota Bharu, uno de Alor Setar y uno de Kuching podrían decir todos que hablan malayo — pero cuando conversan de manera informal en sus respectivas aldeas, el sonido puede ser tan distinto que haga falta cierto ajuste para entenderse. Esa diferencia es lo que se llama dialecto o, en el lenguaje cotidiano, loghat.

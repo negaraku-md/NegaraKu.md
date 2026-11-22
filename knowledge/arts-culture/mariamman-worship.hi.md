@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'कुआलालंपुर में श्री महा मरिअम्मन मंदिर का ऊँचा नक्काशीदार गोपुरम, जिसका साइनबोर्ड रंगे हुए हिंदू देवी-देवताओं की मूर्तियों की कतारों के ऊपर मंदिर का नाम बताता है, सामने एक सड़क और यातायात है।'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में लगभग किसी भी पुराने रबर बागान के पास, और शहरी केंद्रों की समय-बीती पुरानी सड़कों पर, एक मारीअम्मन मंदिर मिल ही जाता है। गेरुए-पीले रंग के मुख वाली अम्मन की मूर्ति, और वर्षा ऋतु से पहले होने वाले उत्सव, संयोग नहीं हैं — वे डेढ़ सदी से अधिक के एक तमिल समुदाय के इतिहास और आस्था की परंपरा को अपने भीतर समेटे हुए हैं।

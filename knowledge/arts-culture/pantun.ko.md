@@ -76,6 +76,13 @@ verificationNeeded:
   - "긴 연 판툰의 최대 길이 한계는 자료마다 다르다(일부는 최대 16행, 다른 일부는 약 22행까지 언급); 확실한 수치는 일정하지 않다."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: '녹색과 금색 전통 의상에 화려한 머리 장식을 한 말레이 공연자들이 땅에 앉아 디키르 바랏(dikir barat) 공연 중 손동작을 맞춰 선보이고 있으며, 그들 앞에는 손북이 놓여 있다.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > 황금 바나나를 싣고 항해를 떠나,

@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: '修復された伝統的なマレー木造家屋で、映画の伝説的人物 P. ラムリー（P. Ramlee）の生家。現在は記念館となっており、茅葺き屋根と、レンガ敷きの前庭に記念銘板がある。'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1955年、シンガポールのジャラン・アンパス（Jalan Ampas）8番地にあったスタジオでかつて*クラッパー*係と助手カメラマンを務めていた若者が、26歳で初めて監督の椅子に座った。その映画は*Penarek Becha*（人力車引き）。名はP・ラムリー。マレーシア映画産業の物語はクアラルンプールではなく、上海出身の兄弟が所有するシンガポールのスタジオから始まった——そしてそれ以来、歩みを止めたことはない。

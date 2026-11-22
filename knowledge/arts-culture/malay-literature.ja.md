@@ -80,6 +80,13 @@ verificationNeeded:
   - "Hikayat Hang Tuah のような古典作品の実際の著者と年代は、なお正確には確定できない（15世紀から17世紀と推定される）"
   - "A. Samad Said の受賞年は、主要な一覧では1985年と記されているが、同じ資料のナビゲーションボックスでは1986年とされている——1985年として確認済み"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: '金箔を施し花の縁取りが入った『タージュ・アッサラーティーン』（Taj al-Salatin、「王たちの冠」）の冒頭見開き2ページ。ジャウィ文字（Jawi）で書かれた古典マレー文学の写本である。'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ある古い写本に、マラッカの王たちの物語、ハン・トゥアの旅、そして一つの帝国の崩壊が刻まれている——無味乾燥な歴史の記録としてではなく、人物、対話、文筆をもって生き生きと描かれた物語として。その写本、*Sejarah Melayu* すなわち *Sulalatus Salatin* は、マレー語の文筆の伝統がいかに長く豊かであるかを証す最初期の作品のひとつである。

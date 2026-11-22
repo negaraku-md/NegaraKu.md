@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'Les bâtiments bas de la SJK(T) Ladang Sungai Getah, une école primaire d''enseignement en tamoul dont le nom figure sur son panneau, desservant une communauté de plantation d''hévéas, vue depuis le bord de la route.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Aux abords de nombreuses villes anciennes de Malaisie, une plantation d'hévéas qui s'étendait autrefois, verte, est aujourd'hui devenue un quartier résidentiel empli de maisons et de rangées de commerces. Au milieu de ces nouveaux bâtiments, un vieux temple d'Amman ou une petite école tamoule subsiste parfois — marque indélébile d'une communauté qui a été déplacée.

@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'المبنى الأبيض لمكاتب صحيفة سين تشيو دايلي الناطقة بالصينية في ميري، واسمها مكتوب بالأحرف الإنجليزية والصينية على الواجهة وجدار البوابة.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في مقهى الكوبيتيام (kopitiam) عند الصباح الباكر، كثيرًا ما توضع صحيفة صينية مفرودة إلى جانب فنجان قهوة. يقلّب القارئ العناوين الكبرى المحلية والدولية في الصفحة الأولى، ثم يتجه عادةً رأسًا إلى الصفحات الأقرب إليه — فمنهم من ينظر أولًا في الأخبار المحلية ليرى أي مدرسة صينية ابتدائية أقامت بازارًا خيريًا من جديد، ومنهم من يقلّب الملحق الأدبي وصفحة الرأي، ومنهم من لا يبغي سوى صفحة النعي والإعلانات المبوّبة ونتائج اليانصيب. وبالنسبة إلى كثير من الصينيين الماليزيين، ليست الصحيفة الصينية مجرد أخبار، بل هي أيضًا عادة قراءة بالصينية تتكرّر كل يوم.

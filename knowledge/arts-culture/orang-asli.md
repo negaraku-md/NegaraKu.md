@@ -92,6 +92,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'Mural dinding berwarna-warni bertulis Selamat Datang ke KOA Lubuk Legong di hadapan sebuah bangunan sekolah kampung berbumbung jubin, dibingkai pepohon hijau.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Jauh sebelum nama Malaysia wujud pada peta, sudah ada masyarakat yang mendiami hutan, tanah tinggi dan pesisir Semenanjung. Hari ini mereka dikenali secara kolektif sebagai Orang Asli — istilah bahasa Melayu yang bermaksud "manusia asal" atau "penduduk asal".

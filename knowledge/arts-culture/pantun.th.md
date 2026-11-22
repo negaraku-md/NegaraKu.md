@@ -76,6 +76,13 @@ verificationNeeded:
   - "ขีดจำกัดความยาวสูงสุดของปันตุนแบบบทยาวต่างกันไปตามแหล่งข้อมูล (บางแหล่งระบุสูงสุด 16 บรรทัด บางแหล่งถึงราว 22 บรรทัด); จำนวนที่แน่นอนไม่สม่ำเสมอ"
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'นักแสดงชาวมลายูในชุดพื้นเมืองสีเขียวและทองพร้อมเครื่องประดับศีรษะอันวิจิตร นั่งอยู่กับพื้นและทำท่าทางมือพร้อมเพรียงกันระหว่างการแสดงดีกิรบารัต (dikir barat) โดยมีกลองมืออยู่ด้านหน้า'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

@@ -4807,5 +4807,733 @@
       "kb": 177
     },
     "body": []
+  },
+  "arts-culture/ayyappan-pilgrimage": {
+    "hero": {
+      "file": "/media/arts-culture/ayyappan-pilgrimage/hero.webp",
+      "credit": "Visnu92 at English Wikipedia / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sri Ayyappan Hindu temple in Penang at night",
+      "alt": "A brightly illuminated Ayyappan Hindu temple at night, with Kerala-style tiered roofs, gold-lit pillars and a small shrine of the deity crowning the entrance.",
+      "kb": 85
+    },
+    "body": []
+  },
+  "arts-culture/bahasa-melayu": {
+    "hero": {
+      "file": "/media/arts-culture/bahasa-melayu/hero.webp",
+      "credit": "Yu Chu Chin / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Dewan Bahasa dan Pustaka headquarters tower, Kuala Lumpur",
+      "alt": "The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur, its name spelt across the podium, the national language and literature authority's headquarters seen from the road.",
+      "kb": 77
+    },
+    "body": []
+  },
+  "arts-culture/borneo-indigenous-languages": {
+    "hero": {
+      "file": "/media/arts-culture/borneo-indigenous-languages/hero.webp",
+      "credit": "Matthias Bethke / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Iban longhouse on stilts above a river in Sarawak",
+      "alt": "A long timber Iban longhouse raised on wooden stilts along a forested hillside above a river in Sarawak, the communal home of a Dayak community.",
+      "kb": 234
+    },
+    "body": []
+  },
+  "arts-culture/buddhism-in-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/buddhism-in-malaysia/hero.webp",
+      "credit": "This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Kek Lok Si Buddhist temple, Penang",
+      "alt": "The hillside Kek Lok Si Buddhist temple in Penang, with its sweeping gold-tiled roof, tiered terraces lined with red lanterns and a pagoda fountain in the courtyard.",
+      "kb": 164
+    },
+    "body": []
+  },
+  "arts-culture/chettiar-community": {
+    "hero": {
+      "file": "/media/arts-culture/chettiar-community/hero.webp",
+      "credit": "HundenvonPenang / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Nattukottai Chettiar (Waterfall) Hindu temple, Penang",
+      "alt": "The white gopuram tower of the Nattukottai Chettiar Waterfall Hilltop Temple rising from dense green jungle on a Penang hillside.",
+      "kb": 167
+    },
+    "body": []
+  },
+  "arts-culture/chinese-bang-communities": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-bang-communities/hero.webp",
+      "credit": "This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Leong San Tong Khoo Kongsi clan temple, George Town, Penang",
+      "alt": "The ornate Leong San Tong Khoo Kongsi clan association temple in George Town, Penang, its roof ridges crowded with painted dragons and figurines above a richly carved and gilded prayer hall.",
+      "kb": 217
+    },
+    "body": []
+  },
+  "arts-culture/chinese-cemeteries": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-cemeteries/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Chinese grave on Bukit China, Melaka",
+      "alt": "A large horseshoe-shaped Chinese tomb with gilded inscriptions and carved side panels set into a grassy mound among trees on the Bukit China burial hill in Melaka.",
+      "kb": 172
+    },
+    "body": []
+  },
+  "arts-culture/chinese-dialects": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-dialects/hero.webp",
+      "credit": "IQRemix / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Petaling Street (Chinatown) gateway, Kuala Lumpur",
+      "alt": "The green pagoda-roofed gateway over Jalan Petaling in Kuala Lumpur's Chinatown, marked 'Petaling Street' with red lanterns and Chinese shop signage above a busy market street.",
+      "kb": 173
+    },
+    "body": []
+  },
+  "arts-culture/chinese-language-press": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-language-press/hero.webp",
+      "credit": "Pangalau / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sin Chew Daily newspaper office, Miri, Sarawak",
+      "alt": "The white office building of the Chinese-language newspaper Sin Chew Daily in Miri, its name shown in English and Chinese characters on the facade and gate wall.",
+      "kb": 165
+    },
+    "body": []
+  },
+  "arts-culture/chinese-new-villages": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-new-villages/hero.webp",
+      "credit": "Slleong / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Old timber house in Kampung Baru Sungai Way New Village",
+      "alt": "A weathered single-storey timber-and-zinc house typical of a Malaysian Chinese New Village, fronting a quiet residential street with cars parked alongside.",
+      "kb": 169
+    },
+    "body": []
+  },
+  "arts-culture/chinese-religion-in-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/chinese-religion-in-malaysia/hero.webp",
+      "credit": "Alexey Komarov / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Thean Hou Temple roofs and red lanterns, Kuala Lumpur",
+      "alt": "The upswept, dragon-topped tiled roofs of the Chinese Thean Hou Temple in Kuala Lumpur, framed by rows of hanging red lanterns against a blue sky.",
+      "kb": 178
+    },
+    "body": []
+  },
+  "arts-culture/christianity-in-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/christianity-in-malaysia/hero.webp",
+      "credit": "Björn Christian Tørrissen / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Ruins of St Paul's Church with the St Francis Xavier statue, Melaka",
+      "alt": "The whitewashed stone ruins of the 16th-century St Paul's Church on Melaka's St Paul's Hill, with the marble statue of St Francis Xavier standing in the foreground.",
+      "kb": 178
+    },
+    "body": []
+  },
+  "arts-culture/estate-tamil-community": {
+    "hero": {
+      "file": "/media/arts-culture/estate-tamil-community/hero.webp",
+      "credit": "MNH48 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "SJK(T) Ladang Sungai Getah Tamil estate school",
+      "alt": "The low buildings of SJK(T) Ladang Sungai Getah, a Tamil-medium primary school named on its signboard serving a rubber-estate community, seen from the roadside.",
+      "kb": 177
+    },
+    "body": []
+  },
+  "arts-culture/hinduism-in-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/hinduism-in-malaysia/hero.webp",
+      "credit": "Jorge Láscar / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sri Mahamariamman Temple gopuram, Kuala Lumpur",
+      "alt": "The tall, colourfully sculpted gopuram tower of the Sri Mahamariamman Temple in central Kuala Lumpur, crowded with Hindu deity figures above the temple entrance where visitors stand.",
+      "kb": 176
+    },
+    "body": []
+  },
+  "arts-culture/malay-dialects": {
+    "hero": {
+      "file": "/media/arts-culture/malay-dialects/hero.webp",
+      "credit": "Orhanghazi / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Traditional Pahang Malay timber house on stilts",
+      "alt": "A traditional Pahang Malay wooden house raised on stilts, with a steep tiled roof, carved gable fascia and a covered timber staircase, set on a green lawn.",
+      "kb": 159
+    },
+    "body": []
+  },
+  "arts-culture/malay-literature": {
+    "hero": {
+      "file": "/media/arts-culture/malay-literature/hero.webp",
+      "credit": "Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Illuminated opening pages of the Malay manuscript Taj al-Salatin",
+      "alt": "The gilded, floral-bordered opening double page of the Taj al-Salatin ('The Crown of Kings'), a classical Malay literary manuscript written in Jawi script.",
+      "kb": 279
+    },
+    "body": []
+  },
+  "arts-culture/malaysian-film-industry": {
+    "hero": {
+      "file": "/media/arts-culture/malaysian-film-industry/hero.webp",
+      "credit": "Firzazul / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "P. Ramlee's birthplace house, Penang",
+      "alt": "The restored traditional Malay timber house that is the birthplace of film legend P. Ramlee, now a memorial, with a thatched roof and a commemorative plaque on its brick forecourt.",
+      "kb": 176
+    },
+    "body": []
+  },
+  "arts-culture/malaysian-literature": {
+    "hero": {
+      "file": "/media/arts-culture/malaysian-literature/hero.webp",
+      "credit": "Victor Pogadaev / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Dewan Bahasa dan Pustaka headquarters in Kuala Lumpur, the national language and literature institution",
+      "alt": "The Dewan Bahasa dan Pustaka building in Kuala Lumpur, its curved facade covered by a large mural of Malaysian life and its name partly visible on the red office tower beside it.",
+      "kb": 132
+    },
+    "body": []
+  },
+  "arts-culture/manglish": {
+    "hero": {
+      "file": "/media/arts-culture/manglish/hero.webp",
+      "credit": "Diviana Jackson / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Everyday Kuala Lumpur street signage",
+      "alt": "A hand-painted orange and blue sign reading PETALING STREET KUALA LUMPUR on a utility box marked with graffiti, with a city street and buildings behind it.",
+      "kb": 140
+    },
+    "body": []
+  },
+  "arts-culture/mariamman-worship": {
+    "hero": {
+      "file": "/media/arts-culture/mariamman-worship/hero.webp",
+      "credit": "User:Two hundred percent. / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sri Maha Mariamman Temple in Kuala Lumpur",
+      "alt": "The towering sculpted gopuram of the Sri Maha Mariamman Temple in Kuala Lumpur, its signboard naming the temple above rows of painted Hindu deity figures, with a street and traffic in front.",
+      "kb": 139
+    },
+    "body": []
+  },
+  "arts-culture/mazu-worship": {
+    "hero": {
+      "file": "/media/arts-culture/mazu-worship/hero.webp",
+      "credit": "Alexey Komarov / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Thean Hou Temple, a Tianhou (Mazu) temple in Kuala Lumpur",
+      "alt": "The Thean Hou Temple in Kuala Lumpur with hundreds of red lanterns strung in cascades from its tiered roof, a dragon-decorated incense burner on the forecourt and worshippers at the main hall.",
+      "kb": 178
+    },
+    "body": []
+  },
+  "arts-culture/national-cultural-policy": {
+    "hero": {
+      "file": "/media/arts-culture/national-cultural-policy/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Istana Budaya, Malaysia's national theatre in Kuala Lumpur",
+      "alt": "The main entrance of Istana Budaya, the national theatre, with its sweeping sirih-junjung roof, gold lotus emblem and a broad flight of steps leading to carved timber doors.",
+      "kb": 131
+    },
+    "body": []
+  },
+  "arts-culture/navaratri": {
+    "hero": {
+      "file": "/media/arts-culture/navaratri/hero.webp",
+      "credit": "Mandayamr / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A tiered Navaratri Kolu (Golu) doll display",
+      "alt": "A tiered Navaratri Kolu display draped in green cloth, the top step holding the ten avatars of Vishnu and lower steps filled with brightly painted figures of Hindu deities and figurines.",
+      "kb": 179
+    },
+    "body": []
+  },
+  "arts-culture/nine-emperor-gods-festival": {
+    "hero": {
+      "file": "/media/arts-culture/nine-emperor-gods-festival/hero.webp",
+      "credit": "LEE 003 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Nine Emperor Gods Festival at a temple in Ipoh",
+      "alt": "A crowd of devotees holding joss sticks before a dragon-flanked temple altar hung with yellow lanterns during the Nine Emperor Gods Festival in Ipoh, smoke rising from incense in the foreground.",
+      "kb": 174
+    },
+    "body": []
+  },
+  "arts-culture/orang-asli": {
+    "hero": {
+      "file": "/media/arts-culture/orang-asli/hero.webp",
+      "credit": "Geleparaplu / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "An Orang Asli village (Kampung Orang Asli Lubuk Legong)",
+      "alt": "A colourful painted wall mural reading Selamat Datang ke KOA Lubuk Legong in front of a village school building with a tiled roof, framed by green trees.",
+      "kb": 166
+    },
+    "body": []
+  },
+  "arts-culture/panguni-uthiram": {
+    "hero": {
+      "file": "/media/arts-culture/panguni-uthiram/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A Tamil Hindu kavadi procession in Malaysia",
+      "alt": "A large Tamil Hindu street procession at dusk with devotees carrying decorated peacock kavadi and musicians playing drums among a dense crowd near Batu Caves.",
+      "kb": 173
+    },
+    "body": []
+  },
+  "arts-culture/pantun": {
+    "hero": {
+      "file": "/media/arts-culture/pantun/hero.webp",
+      "credit": "Stsanto / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A Malay sung-verse performance (dikir barat), in which pantun verses are exchanged",
+      "alt": "Malay performers in green and gold traditional costume with ornate headgear seated on the ground and making synchronised hand gestures during a dikir barat performance, hand drums in front of them.",
+      "kb": 173
+    },
+    "body": []
+  },
+  "arts-culture/peranakan": {
+    "hero": {
+      "file": "/media/arts-culture/peranakan/hero.webp",
+      "credit": "P. Hughes / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Interior of the Baba Nyonya Heritage Museum in Melaka",
+      "alt": "A Peranakan reception hall at the Baba Nyonya Heritage Museum in Melaka, with gilded carved blackwood screens, mother-of-pearl inlaid furniture, a marble-topped round table and painted bird-and-flower panels on the walls.",
+      "kb": 170
+    },
+    "body": []
+  },
+  "arts-culture/rumi-script": {
+    "hero": {
+      "file": "/media/arts-culture/rumi-script/hero.webp",
+      "credit": "Kerina yin / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A Malaysian street sign showing both Jawi and Rumi (Latin) script",
+      "alt": "A blue Malaysian street sign reading Jalan Pasir Puteh in Jawi script above and in Rumi (Latin) letters below, with a man on a motorcycle passing beside it.",
+      "kb": 73
+    },
+    "body": []
+  },
+  "arts-culture/tamil-in-malaysia": {
+    "hero": {
+      "file": "/media/arts-culture/tamil-in-malaysia/hero.webp",
+      "credit": "Ksmuthukrishnan / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A Tamil-medium national-type school signboard in Malaysia",
+      "alt": "The gate signboard of a Tamil-medium school in Changlun, Kedah, lettered in Tamil script above the English name S.J.K (Tamil) Changlun, with the school building behind.",
+      "kb": 150
+    },
+    "body": []
+  },
+  "arts-culture/tua-pek-kong": {
+    "hero": {
+      "file": "/media/arts-culture/tua-pek-kong/hero.webp",
+      "credit": "Wee Hong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Tua Pek Kong Temple in Sibu, Sarawak",
+      "alt": "The red and gold ornate gateway of the Tua Pek Kong Temple in Sibu, flanked by gilded guardian lions, with a tall seven-storey pagoda rising behind it against a blue sky.",
+      "kb": 157
+    },
+    "body": []
+  },
+  "arts-culture/visiting-a-malaysian-open-house": {
+    "hero": {
+      "file": "/media/arts-culture/visiting-a-malaysian-open-house/hero.webp",
+      "credit": "Anarohana70 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A Hari Raya open-house food spread",
+      "alt": "An overhead view of a Hari Raya feast spread on a table, with pots of beef rendang and vegetable curry, a dish of sambal, and plates of woven ketupat casings and sliced compressed rice.",
+      "kb": 133
+    },
+    "body": []
+  },
+  "states/johor": {
+    "hero": {
+      "file": "/media/states/johor/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sultan Abu Bakar State Mosque, Johor Bahru",
+      "alt": "The white Victorian-style Sultan Abu Bakar State Mosque with tall twin minaret towers and black domes under an overcast sky.",
+      "kb": 130
+    },
+    "body": []
+  },
+  "states/kedah": {
+    "hero": {
+      "file": "/media/states/kedah/hero.webp",
+      "credit": "MosheA / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Zahir Mosque, Alor Setar",
+      "alt": "The cream-coloured Zahir Mosque with a cluster of large black onion domes and a slender minaret against a clear blue sky in Alor Setar.",
+      "kb": 170
+    },
+    "body": []
+  },
+  "states/kelantan": {
+    "hero": {
+      "file": "/media/states/kelantan/hero.webp",
+      "credit": "Comelote / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Jahar, Kota Bharu",
+      "alt": "The ornate black-and-yellow traditional timber Istana Jahar palace in Kota Bharu with a horse carriage parked on its paved forecourt.",
+      "kb": 153
+    },
+    "body": []
+  },
+  "states/negeri-sembilan": {
+    "hero": {
+      "file": "/media/states/negeri-sembilan/hero.webp",
+      "credit": "Adhmi / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Seri Menanti, Negeri Sembilan",
+      "alt": "The dark timber Seri Menanti royal palace with tiered pointed Minangkabau roofs set on a green lawn with a red pavilion and forested hills behind.",
+      "kb": 176
+    },
+    "body": []
+  },
+  "states/pahang": {
+    "hero": {
+      "file": "/media/states/pahang/hero.webp",
+      "credit": "Jakub Hałun / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Cameron Highlands tea plantation, Pahang",
+      "alt": "Rolling green tea-bush terraces of a Cameron Highlands plantation winding between forested hills under a cloudy sky.",
+      "kb": 254
+    },
+    "body": []
+  },
+  "states/perak": {
+    "hero": {
+      "file": "/media/states/perak/hero.webp",
+      "credit": "FBilula / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Ipoh railway station, Perak",
+      "alt": "The white, domed colonial-era Ipoh railway station building with arched colonnades under a clear sky.",
+      "kb": 156
+    },
+    "body": []
+  },
+  "states/perlis": {
+    "hero": {
+      "file": "/media/states/perlis/hero.webp",
+      "credit": "Derek T's Photos / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Paddy field near Kangar, Perlis",
+      "alt": "Golden grass seed-heads and a green paddy field stretching to a flat horizon under a wide cloudy sky near Kangar.",
+      "kb": 132
+    },
+    "body": []
+  },
+  "states/sabah": {
+    "hero": {
+      "file": "/media/states/sabah/hero.webp",
+      "credit": "Angah hfz / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Mount Kinabalu, Sabah",
+      "alt": "The jagged grey granite peaks of Mount Kinabalu rising above forested foothills and green treetops under a blue sky.",
+      "kb": 171
+    },
+    "body": []
+  },
+  "states/sarawak": {
+    "hero": {
+      "file": "/media/states/sarawak/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sarawak State Legislative Assembly (DUN), Kuching",
+      "alt": "The nine-tiered umbrella-roofed Sarawak State Legislative Assembly building beside the brown Sarawak River with a wooden boat passing in front.",
+      "kb": 154
+    },
+    "body": []
+  },
+  "states/selangor": {
+    "hero": {
+      "file": "/media/states/selangor/hero.webp",
+      "credit": "Ezry Abdul Rahman / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sultan Salahuddin Abdul Aziz Mosque (Blue Mosque), Shah Alam",
+      "alt": "The illuminated blue-domed Sultan Salahuddin Abdul Aziz Mosque with its four tall minarets glowing against a deep blue dusk sky in Shah Alam.",
+      "kb": 163
+    },
+    "body": []
+  },
+  "states/terengganu": {
+    "hero": {
+      "file": "/media/states/terengganu/hero.webp",
+      "credit": "Yun Huang Yong / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Crystal Mosque, Kuala Terengganu",
+      "alt": "The silver-and-gold domed Crystal Mosque with many slender minarets and a white welcome archway under a blue sky in Kuala Terengganu.",
+      "kb": 116
+    },
+    "body": []
+  },
+  "states/district-administration-in-malaysia": {
+    "hero": {
+      "file": "/media/states/district-administration-in-malaysia/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "District Office (Pejabat Daerah), Sipitang",
+      "alt": "A single-storey district office with a blue roof and a wall reading 'Pejabat Daerah Sipitang', flanked by rows of Malaysian and Sabah flags.",
+      "kb": 162
+    },
+    "body": []
+  },
+  "states/how-state-governments-are-funded": {
+    "hero": {
+      "file": "/media/states/how-state-governments-are-funded/hero.webp",
+      "credit": "AyyanD / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Wisma Negeri state administrative complex, Seremban",
+      "alt": "A Minangkabau-roofed ceremonial hall with tall curved golden-brown roofs in front of the modern Wisma Negeri state administrative tower in Seremban.",
+      "kb": 170
+    },
+    "body": []
+  },
+  "states/local-councils": {
+    "hero": {
+      "file": "/media/states/local-councils/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ipoh_City_Council.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Ipoh City Council (Majlis Bandaraya Ipoh)",
+      "alt": "A large office building topped with a 'Majlis Bandaraya Ipoh' sign beside a white Minangkabau-style pavilion, with the council's name plate at the entrance.",
+      "kb": 100
+    },
+    "body": []
+  },
+  "states/rulers-and-governors": {
+    "hero": {
+      "file": "/media/states/rulers-and-governors/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Istana Negara (National Palace), Kuala Lumpur",
+      "alt": "The grand gold-domed ceremonial arched gateway of Istana Negara, with the domed royal palace and high-rise city skyline behind.",
+      "kb": 165
+    },
+    "body": []
+  },
+  "states/sabah-sarawak-land-law-and-native-customary-rights": {
+    "hero": {
+      "file": "/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp",
+      "credit": "Matthias Bethke / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Iban longhouse, Sarawak",
+      "alt": "A long wooden Iban longhouse with a corrugated-metal roof raised on stilts along a green, forested riverbank in rural Sarawak.",
+      "kb": 234
+    },
+    "body": []
+  },
+  "states/sabah-sarawak-safeguards": {
+    "hero": {
+      "file": "/media/states/sabah-sarawak-safeguards/hero.webp",
+      "credit": "Medelam / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuching_International_Airport_2024_01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Kuching International Airport, Sarawak",
+      "alt": "The distinctive dark wave-shaped roof of Kuching International Airport's terminal rising above its driveway and garden under a blue sky.",
+      "kb": 166
+    },
+    "body": []
+  },
+  "states/state-government-structure": {
+    "hero": {
+      "file": "/media/states/state-government-structure/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Sabah State Legislative Assembly (Dewan Undangan Negeri), Kota Kinabalu",
+      "alt": "The white, sail-shaped blue-glass facade of the Sabah State Legislative Assembly building framed by palm trees and manicured gardens.",
+      "kb": 176
+    },
+    "body": []
+  },
+  "states/state-islamic-religious-councils": {
+    "hero": {
+      "file": "/media/states/state-islamic-religious-councils/hero.webp",
+      "credit": "AyyanD / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Negeri Sembilan State Mosque, Seremban",
+      "alt": "A modernist white state mosque with sweeping concave curved rooflines and three tall concrete minarets under a partly cloudy sky in Seremban.",
+      "kb": 59
+    },
+    "body": []
+  },
+  "states/what-changes-when-you-move-between-states": {
+    "hero": {
+      "file": "/media/states/what-changes-when-you-move-between-states/hero.webp",
+      "credit": "Encik Tekateki / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "North-South Expressway with inter-state direction signs",
+      "alt": "Cars on a multi-lane expressway passing green overhead direction signs for Kuala Lumpur, Melaka and Johor towns, beside oil-palm plantations and hills.",
+      "kb": 124
+    },
+    "body": []
   }
 }

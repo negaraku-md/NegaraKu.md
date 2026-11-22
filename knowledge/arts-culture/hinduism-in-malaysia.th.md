@@ -72,6 +72,13 @@ faq:
   - q: เหตุใดชาวฮินดูจึงอาศัยอยู่มากในรัฐอย่างเนอเกอรีเซิมบีลัน สลังงอร์ และเประ?
     a: รัฐเหล่านี้สอดคล้องกับพื้นที่สวนยางพาราและเหมืองแร่ดีบุกในอดีต — ซึ่งเป็นที่ที่แรงงานอินเดียเข้ามาตั้งถิ่นฐานเป็นจำนวนมากในยุคอังกฤษ ในสำมะโนประชากรปี 2020 เนอเกอรีเซิมบีลัน (~13.1%) สลังงอร์ (~10.3%) และเประ (~9.7%) มีสัดส่วนสูงกว่า คนส่วนใหญ่เป็นลูกหลานของผู้ที่เดินทางมาจากอินเดียใต้เพื่อทำงานในสวนภายใต้ระบบคังกานี (kangani)
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'หอโคปุรัม (gopuram) สูงที่แกะสลักสีสันสดใสของวัดศรีมหามาริอัมมัน (Sri Mahamariamman Temple) ใจกลางกัวลาลัมเปอร์ เต็มไปด้วยรูปเทพเจ้าฮินดูเหนือทางเข้าวัดที่มีผู้มาเยือนยืนอยู่'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในเมืองใดก็ตามของมาเลเซีย ไม่ว่าจะที่ชายขอบสวนยางพาราเก่า หรือบนถนนเก่าแก่

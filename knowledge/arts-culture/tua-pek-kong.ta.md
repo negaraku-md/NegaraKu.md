@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'சிபுவில் உள்ள Tua Pek Kong கோயிலின் சிவப்பு மற்றும் தங்க நிற அலங்கார வாயில், இருபுறமும் தங்க முலாம் பூசிய காவல் சிங்கங்களால் சூழப்பட்டு, அதன் பின்னால் நீல வானத்திற்கு எதிராக உயர்ந்த ஏழு மாடி கோபுரம் எழும்புகிறது.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பினாங்கின் டான்ஜோங் டோகோங் கடற்கரையில், பெரிதல்லாத ஒரு கோயில் நிற்கிறது; ஆண்டின் பெரும்பகுதி அமைதியாகவே இருக்கிறது. ஆனால் விளக்குத் திருவிழாவைச் சுற்றி நிலைமை முற்றிலும் வேறு: தூபக் கம்பக் கூடைகள், கெட்டிமேளங்களும் மத்தளங்களும், நீண்ட மக்கள் வரிசைகள் ஜார்ஜ் டவுனிலிருந்து நெடுந்தூரம் வருகின்றன; இரவில் கோயிலில் உள்ள ஒவ்வொரு விளக்கும் மெழுகுவர்த்தியும் அணைக்கப்படுகின்றன; ஒரு கூட்டம் அனல் பானையைச் சுற்றி மூச்சடக்கி நெருப்பை விசிறுகிறது — தீ எவ்வளவு உயரம் எழும்புகிறது என்பது வரும் ஆண்டுக்கான ஒரு "முன்னறிவிப்பாக"க் கருதப்படுகிறது. இந்தக் கோயிலே பலரின் மனதில் டுவா பெக் காங் வழிபாட்டின் ஊற்றுக்கண்.

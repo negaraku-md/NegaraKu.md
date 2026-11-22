@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'The green pagoda-roofed gateway over Jalan Petaling in Kuala Lumpur''s Chinatown, marked ''Petaling Street'' with red lanterns and Chinese shop signage above a busy market street.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 At a coffee shop in Penang, you order a kopi in Hokkien; in Kuala Lumpur and Ipoh, the same cup of coffee gets called for in Cantonese; head further to Sibu in Sarawak, and whoever serves you is likely to speak Foochow. All three are Chinese Malaysians — yet they are speaking three mutually unintelligible tongues.

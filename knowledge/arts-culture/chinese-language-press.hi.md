@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'मिरी में चीनी भाषा के अखबार सिन च्यू डेली की सफेद कार्यालय इमारत, जिसका नाम अग्रभाग और गेट की दीवार पर अंग्रेजी और चीनी अक्षरों में दर्शाया गया है।'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 सुबह-सुबह कोपितियाम (kopitiam, चाय-कॉफ़ी की दुकान) में, फैला हुआ एक चीनी अख़बार अक्सर एक कप कॉफ़ी के साथ रखा होता है। पाठक पहले पन्ने की देशी-विदेशी बड़ी ख़बरों को पलटकर आम तौर पर सीधे अपने सबसे जाने-पहचाने पन्ने की ओर जाते हैं — कोई पहले स्थानीय ख़बरों में देखता है कि किस चीनी प्राथमिक स्कूल ने फिर से दान-मेला लगाया, कोई साहित्यिक परिशिष्ट और विचार-पृष्ठ पलटता है, और कोई केवल शोक-सूचना, वर्गीकृत विज्ञापन और लॉटरी परिणामों के लिए अख़बार देखता है। बहुत से मलेशियाई चीनियों के लिए चीनी अख़बार केवल ख़बर नहीं, बल्कि हर दिन चलने वाली चीनी पढ़ने की आदत भी है।

@@ -75,6 +75,13 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'Tháp gopuram màu trắng của đền Nattukottai Chettiar Waterfall Hilltop vươn lên từ rừng xanh rậm rạp trên sườn đồi Penang.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào ngày lễ Thaipusam ở Penang, một cỗ xe nguy nga làm bằng bạc sẽ khởi hành từ đường Lebuh Penang hướng về đền Murugan trên đồi. Cả cỗ xe ấy lẫn cộng đồng đã điều hành nó suốt hơn một thế kỷ đều không phải là ngẫu nhiên — cả hai kể lại câu chuyện của một truyền thống thương mại - ngân hàng đã vượt đường xa từ Chettinad đến Malaya.

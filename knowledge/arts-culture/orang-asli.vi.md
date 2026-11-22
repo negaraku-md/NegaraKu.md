@@ -93,6 +93,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'Một bức tranh tường được vẽ nhiều màu sắc ghi Selamat Datang ke KOA Lubuk Legong trước tòa nhà trường học của làng với mái ngói, được bao quanh bởi những hàng cây xanh.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Từ lâu trước khi cái tên Malaysia hiện diện trên bản đồ, đã có những cộng đồng cư trú trong rừng, vùng cao nguyên và ven biển của bán đảo. Ngày nay họ được gọi chung là Orang Asli — thuật ngữ tiếng Mã Lai nghĩa là «con người nguyên thủy» hay «cư dân bản địa».

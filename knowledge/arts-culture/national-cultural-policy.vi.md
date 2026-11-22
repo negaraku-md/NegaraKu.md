@@ -78,6 +78,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'Lối vào chính của Istana Budaya, nhà hát quốc gia, với mái sirih-junjung trải rộng, biểu tượng hoa sen vàng và một bậc thang rộng dẫn đến những cánh cửa gỗ chạm khắc.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Năm 1971, khoảng hai năm sau [sự kiện 13 tháng 5 năm 1969](/vi/malaysia/13-may-1969), một nhóm học giả, người hoạt động nghệ thuật và các nhà lãnh đạo tụ họp tại Đại học Malaya để trả lời một câu hỏi khó đối với một đất nước đa sắc tộc: «văn hóa quốc gia» nghĩa là gì? Câu trả lời hình thành từ đó — Chính sách Văn hóa Quốc gia (DKK) — đến nay vẫn là một điểm quy chiếu chính sách, đồng thời cũng vẫn là một đề tài tranh luận.

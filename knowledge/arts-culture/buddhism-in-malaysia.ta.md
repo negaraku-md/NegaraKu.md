@@ -70,6 +70,13 @@ faq:
   - q: வெசாக் என்ன நினைவுகூர்கிறது? அது பொது விடுமுறை நாளா?
     a: வெசாக் (வெசாக் தினம்) புத்தரின் பிறப்பு, ஞானம் மற்றும் நிர்வாணப் பிரவேசத்தை நினைவுகூர்கிறது; இது மலேசியாவில் நாடு தழுவிய பொது விடுமுறை நாள். நம்பிக்கையாளர்கள் கோயில்களுக்குச் சென்று மலர்கள் சமர்ப்பித்து, விளக்கேற்றி, தானம் வழங்குகின்றனர். மத சுதந்திரம் கூட்டாட்சி அரசியலமைப்பின் 11வது பிரிவால் பாதுகாக்கப்படுகிறது; 3வது பிரிவு இஸ்லாத்தைக் கூட்டமைப்பின் மதமாக நிறுவினாலும், அது பிற மதங்களை அமைதியாகப் பின்பற்றுவதைத் தடுக்கவில்லை.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'பினாங்கில் மலைச்சரிவில் அமைந்துள்ள கெக் லோக் சி பௌத்த கோயில், அதன் விரிந்த தங்க ஓடு கூரை, சிவப்பு விளக்குகள் வரிசையாகத் தொங்கும் அடுக்கு மாடங்கள், முற்றத்தில் ஒரு கோபுர நீரூற்று.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பினாங்கின் மலைச் சரிவில், கெக் லோக் சி கோயிலின் கோபுர நிழல் ஜார்ஜ்டவுனை நோக்கி விரிந்திருக்கிறது;

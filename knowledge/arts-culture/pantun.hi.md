@@ -76,6 +76,13 @@ verificationNeeded:
   - "लंबे-छंद वाले पंतुन की अधिकतम लंबाई की सीमा स्रोतों के बीच भिन्न है (कुछ 16 पंक्तियों तक, कुछ अन्य लगभग 22 पंक्तियों तक का उल्लेख करते हैं); निश्चित संख्या एकरूप नहीं है।"
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'हरे और सुनहरे पारंपरिक परिधान और अलंकृत शिरोवस्त्र पहने मलय कलाकार, एक दिकिर बारात प्रस्तुति के दौरान जमीन पर बैठकर समकालिक हाथ के इशारे कर रहे हैं, उनके सामने हाथ के ढोल रखे हैं।'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

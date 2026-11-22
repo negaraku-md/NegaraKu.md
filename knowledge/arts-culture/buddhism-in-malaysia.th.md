@@ -70,6 +70,13 @@ faq:
   - q: วันวิสาขบูชาระลึกถึงสิ่งใด และเป็นวันหยุดราชการหรือไม่?
     a: วันวิสาขบูชา (Wesak) ระลึกถึงการประสูติ ตรัสรู้ และปรินิพพานของพระพุทธเจ้า และเป็นวันหยุดราชการทั่วประเทศในมาเลเซีย ผู้ศรัทธาจะไปวัดเพื่อถวายดอกไม้ จุดประทีป และทำทาน เสรีภาพในการนับถือศาสนาได้รับการคุ้มครองตามมาตรา 11 ของรัฐธรรมนูญแห่งสหพันธรัฐ แม้มาตรา 3 จะกำหนดให้ศาสนาอิสลามเป็นศาสนาของสหพันธรัฐ แต่ก็ไม่ได้ขัดขวางการนับถือศาสนาอื่นอย่างสงบสุข
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'วัดพุทธเก๊กลกซี (Kek Lok Si) บนไหล่เขาในปีนัง มีหลังคากระเบื้องสีทองทอดยาว ระเบียงลดหลั่นเรียงรายด้วยโคมแดง และน้ำพุเจดีย์ในลานวัด'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 บนเนินเขาที่ปีนัง เงาเจดีย์ของวัดเก๊กลกซีทอดมองลงสู่จอร์จทาวน์; ที่บริกฟิลด์ส

@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'The Dewan Bahasa dan Pustaka building in Kuala Lumpur, its curved facade covered by a large mural of Malaysian life and its name partly visible on the red office tower beside it.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Before there were novels and before there was a language council, a storyteller was already composing Malay heroes in the courtyard of the Malaccan palace. It is from that oral tradition that one of the richest literary heritages in the region grew — a tradition that today is celebrated with a national title, hundreds of thousands of ringgit and a seat of honour in the nation's civilisation.

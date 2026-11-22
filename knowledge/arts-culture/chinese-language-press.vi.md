@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'Tòa nhà văn phòng màu trắng của nhật báo tiếng Hoa Sin Chew Daily ở Miri, tên của báo được ghi bằng chữ tiếng Anh và chữ Hán trên mặt tiền và tường cổng.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trong quán kopitiam (tiệm cà phê) buổi sớm, một tờ báo tiếng Hoa mở rộng thường được đặt cạnh một tách cà phê. Người đọc lật qua những tin lớn trong và ngoài nước ở trang nhất, rồi thường đi thẳng đến trang mình quen thuộc nhất — có người xem trước tin địa phương về trường tiểu học Hoa nào lại tổ chức hội chợ gây quỹ, có người lật phụ san (mục văn nghệ) và trang bình luận, cũng có người chỉ cần mục cáo phó, rao vặt và kết quả xổ số. Với nhiều người Hoa Malaysia, báo tiếng Hoa không chỉ là tin tức mà còn là một thói quen đọc tiếng Hoa diễn ra mỗi ngày.

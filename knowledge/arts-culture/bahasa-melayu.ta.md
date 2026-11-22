@@ -94,6 +94,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள உயரமான Dewan Bahasa dan Pustaka கோபுரம், அதன் பெயர் அடித்தளத்தில் எழுதப்பட்டுள்ளது; தேசிய மொழி மற்றும் இலக்கிய அமைப்பின் தலைமையகம் சாலையிலிருந்து தெரிகிறது.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 குவாலா பேராங் (Kuala Berang), டெரங்கானுவில் (Terengganu), மலாய் மொழிச் சொற்கள் பொறிக்கப்பட்ட ஒரு கல்வெட்டுக் கல் கண்டெடுக்கப்பட்டது — இன்று நாம் அறிந்த எழுத்துகளில் அல்ல, மாறாக மலாய் ஒலிகளுக்கு ஏற்றவாறு தழுவப்பட்ட அரபு எழுத்துகளில். மலேசிய தேசிய ஆவணக் காப்பகத்தின் (Arkib Negara Malaysia) படி, அந்தக் கல்வெட்டு கி.பி. 1303 தேதியிட்டது.

@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'Pintu gerbang merah dan emas yang berhias di Tokong Tua Pek Kong di Sibu, diapit singa penjaga bersalut emas, dengan sebuah pagoda tujuh tingkat yang tinggi menjulang di belakangnya berlatarkan langit biru.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di tepi laut di Tanjung Tokong, Pulau Pinang, berdiri sebuah tokong yang tidak begitu besar, sunyi hampir sepanjang tahun. Namun sekitar Perayaan Tanglung, keadaannya berubah sama sekali: bakul tiang colok, gong dan gendang, serta barisan panjang orang ramai datang jauh dari George Town; pada waktu malam setiap lampu dan lilin di dalam tokong dipadamkan, dan sekumpulan orang berhimpun mengelilingi bara api, mengipas api sambil menahan nafas — betapa tinggi nyalaan api melonjak dianggap sebagai satu "ramalan" untuk tahun mendatang. Tokong inilah, pada fikiran ramai orang, punca mula pemujaan Tua Pek Kong.

@@ -67,6 +67,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'Đền Thean Hou ở Kuala Lumpur với hàng trăm đèn lồng đỏ buông thành từng dải từ mái xếp tầng, một lư hương trang trí hình rồng ở sân trước và những người hành lễ tại chính điện.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trên một ngọn đồi nhỏ tại Robson Heights ở Kuala Lumpur, một ngôi miếu sáu tầng cột đỏ ngói lưu ly nhìn xuống thành phố — đó chính là Thiên Hậu Cung (Thean Hou Temple), thờ nữ thần biển nổi tiếng nhất trong thế giới người Hoa: Mã Tổ. Thuở trước, người Hoa xuôi Nam bằng đường biển thường cầu bà phù hộ bình an trước và sau khi vượt biển; ngày nay, nơi đây vừa là ngôi miếu để tín đồ dâng hương, vừa là chỗ tụ họp của đồng hương Hải Nam, vừa là nơi du khách chụp ảnh.

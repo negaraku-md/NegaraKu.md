@@ -62,6 +62,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'Dewan tetamu Peranakan di Muzium Warisan Baba Nyonya di Melaka, dengan sekatan kayu hitam berukir bersalut emas, perabot bertatah ibu mutiara, meja bulat beralas marmar dan panel burung-dan-bunga bercat pada dindingnya.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Masuk ke sebuah rumah kedai lama di Heeren Street, Melaka, dan cerita itu disampaikan melalui objek sebelum sesiapa pun berkata sepatah. Sehelai blaus renda yang ketat, disemat di bahagian depan dengan kerongsang emas tiga keping. Sepasang kasut yang hujung jarinya diselaputi beribu-ribu manik kaca halus, dijahit satu demi satu dengan tangan. Sebuah meja panjang berpermukaan marmar tersedia untuk satu hidangan yang bukan sepenuhnya Cina mahupun sepenuhnya Melayu. Semua ini kepunyaan Peranakan — Baba-Nyonya — sebuah komuniti yang membina satu budaya daripada kehidupan di antara dua dunia.

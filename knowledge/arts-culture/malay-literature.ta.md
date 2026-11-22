@@ -80,6 +80,13 @@ verificationNeeded:
   - "Hikayat Hang Tuah போன்ற செவ்வியல் படைப்புகளின் ஆசிரியரும் உண்மையான தேதியும் இன்னும் துல்லியமாக உறுதிப்படுத்த முடியவில்லை (15-ஆம் முதல் 17-ஆம் நூற்றாண்டு வரை மதிப்பிடப்படுகிறது)"
   - "A. Samad Said-இன் விருது ஆண்டு முக்கியப் பட்டியலில் 1985 என்றும், அதே ஆதாரத்தின் வழிசெலுத்தல் பெட்டியில் 1986 என்றும் பதிவு செய்யப்பட்டுள்ளது — 1985 என உறுதிப்படுத்தப்பட்டது"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'ஜாவி எழுத்தில் எழுதப்பட்ட ஒரு பாரம்பரிய மலாய் இலக்கியக் கையெழுத்துப் பிரதியான Taj al-Salatin (''அரசர்களின் மகுடம்'')-இன் தங்க முலாம் பூசிய, மலர் விளிம்புகள் கொண்ட தொடக்க இரட்டைப் பக்கம்.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு பழைய கையெழுத்துப் படியில், மலாக்கா அரசர்களின் கதை, Hang Tuah-வின் பயணம், மற்றும் ஒரு பேரரசின் வீழ்ச்சி பொறிக்கப்பட்டுள்ளன — வறண்ட வரலாற்றுக் குறிப்பாக அல்ல, மாறாக பாத்திரம், உரையாடல் மற்றும் இலக்கியத்துடன் உயிர்ப்புள்ள கதையாக. அந்தக் கையெழுத்துப் படி, *Sejarah Melayu* அல்லது *Sulalatus Salatin*, மலாய் மொழி எழுத்து மரபு எவ்வளவு நீண்டதும் வளமானதும் என்பதை நிரூபிக்கும் மிகப் பழமையான படைப்புகளில் ஒன்று.

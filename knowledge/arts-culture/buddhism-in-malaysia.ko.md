@@ -70,6 +70,13 @@ faq:
   - q: 웨삭은 무엇을 기념하며, 공휴일입니까?
     a: 웨삭(웨삭절)은 부처의 탄생, 깨달음, 열반을 기념하는 날로, 말레이시아의 전국 공휴일입니다. 신자들은 사원을 찾아 꽃을 바치고 등을 밝히며 보시를 행합니다. 종교의 자유는 연방헌법 제11조에 의해 보장되며, 제3조가 이슬람교를 연방의 종교로 규정하고 있으나 다른 종교가 평화롭게 신앙되는 것을 막지 않습니다.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: '페낭 언덕에 자리한 극락사(Kek Lok Si) 불교 사원으로, 유려한 금빛 기와지붕과 붉은 등롱이 늘어선 층층 테라스, 안뜰의 탑 분수가 있다.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 페낭의 언덕 위에서 극락사(極樂寺)의 탑 그림자가 조지타운을 내려다보고, 쿠알라룸푸르

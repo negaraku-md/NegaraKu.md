@@ -72,6 +72,13 @@ festivalFacts:
   who: "马来西亚华人社群中的信众，知名庙宇包括雪兰莪安邦南天宫、槟城香港巷斗母宫及北海斗母宫。"
   when: "农历九月初一至初九，连续九天（初一前夕请水，初九送驾作结）。"
   etiquette: "许多信众持守「食斋」（斋戒），一天、三天或全程九天茹素、传统上忌五辛；多身穿白衣、腰系黄带；节期常有游境（游神）巡行街道，部分庙宇有过火、扎口等苦行，惟做法因庙而异。"
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: '怡保（Ipoh）九皇爷诞（Nine Emperor Gods Festival）期间，一群信众手持香火立于龙饰环绕、悬挂黄色灯笼的庙宇神坛前，前景香烟缭绕。'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 农历九月初一的前夜，一列身穿白衣、腰系黄带的信众手持清香，从庙里鱼贯而出，往最近的河边或海边走去。锣鼓在前，香烟在后——他们是去「请水」「迎驾」，把九皇大帝恭请回庙。接下来的九天，庙里香火不断，庙外斋菜飘香；到了初九夜里，同样的队伍又会列队到水边，把神明恭送回銮。

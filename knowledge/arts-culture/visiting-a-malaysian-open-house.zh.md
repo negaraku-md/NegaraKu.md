@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["马来西亚开放门户礼仪", "rumah terbuka 礼仪", "马来西亚开放门户做客", "开斋节开放门户礼仪", "马来西亚开放门户穿什么", "duit raya 红包 宾客", "马来西亚清真家庭礼仪", "拜访马来西亚家庭习俗"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: '俯瞰一桌开斋节（Hari Raya）盛宴，摆着几锅牛肉仁当（rendang）和蔬菜咖喱、一碟参巴（sambal），以及盛着编织粽叶壳（ketupat）和切片压制米糕的盘子。'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你受邀到一场 *rumah terbuka*（开放门户）。也许是同事的开斋节、邻居的农历新年、朋友的

@@ -79,6 +79,13 @@ verificationNeeded:
   - "Năm của hệ thống chính tả Za'ba: một số nguồn nêu được giới thiệu năm 1924 và một số khác nêu được biên soạn hoàn chỉnh vào năm 1933 — cần được xác nhận đối chiếu với nguồn sơ cấp"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'Một biển tên đường màu xanh của Malaysia ghi Jalan Pasir Puteh bằng chữ Jawi ở trên và chữ Rumi (Latinh) ở dưới, với một người đàn ông đi xe máy ngang qua bên cạnh.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Khi chúng ta đọc một từ tiếng Mã Lai ngày nay — trên biển báo đường, trong báo chí, trên màn hình điện thoại — chúng ta đọc nó bằng những chữ cái giống với bảng chữ cái tiếng Anh: a, b, c, d và tiếp theo. Chữ viết đó được gọi là chữ Rumi. Nó quen thuộc đến mức nhiều người không nhận ra rằng Rumi không phải là văn tự nguyên thủy của tiếng Mã Lai, và rằng hình thức gọn gàng, thống nhất của nó ngày nay là kết quả của một nỗ lực chuẩn hóa kéo dài hơn một trăm năm.

@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["말레이시아 오픈 하우스 예절", "루마 터부카 예절", "오픈 하우스 말레이시아 손님", "하리 라야 오픈 하우스 예절", "말레이시아 오픈 하우스 복장", "두잇 라야 앙 파우 손님", "할랄 가정 예절 말레이시아", "말레이시아 가정 방문 관습"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: '위에서 내려다본 하리 라야(Hari Raya) 잔칫상으로, 소고기 른당(rendang)과 채소 커리 냄비, 삼발(sambal) 한 접시, 그리고 엮은 커투팟(ketupat) 껍질과 썰어놓은 압착 쌀떡 접시가 놓여 있다.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 여러분은 *루마 터부카*(rumah terbuka) — 오픈 하우스에 초대받았습니다. 어쩌면

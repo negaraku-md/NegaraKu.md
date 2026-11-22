@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'บ้านไม้มุงสังกะสีชั้นเดียวที่ผุกร่อนตามกาลเวลา ลักษณะเฉพาะของหมู่บ้านใหม่ชาวจีนในมาเลเซีย หันหน้าสู่ถนนที่พักอาศัยอันเงียบสงบ มีรถจอดอยู่ริมทาง'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อก้าวเข้าสู่เซอเมนเยะฮ์ (Semenyih) กัมปาร์ (Kampar) หรือเซอกินจัน (Sekinchan) ในวันนี้ สิ่งที่คุณเห็นส่วนใหญ่คือภาพของเมืองเล็ก ๆ ธรรมดา ตึกแถวเรียงราย โรงเรียนประถมภาษาจีน ศาลเจ้าและสมาคม ร้านกาแฟริมทางและร้านขายของชำ แต่หลายแห่งในที่เหล่านี้มีอัตลักษณ์ร่วมกันอย่างหนึ่ง นั่นคือเป็น "หมู่บ้านใหม่" เบื้องหลังชื่อที่ดูธรรมดานี้มีประวัติศาสตร์เกี่ยวกับ[ภาวะฉุกเฉินมลายา](/th/malaysia/the-emergency) การปราบปรามการก่อความไม่สงบ และการย้ายถิ่นครั้งใหญ่

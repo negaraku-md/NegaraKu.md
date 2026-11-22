@@ -75,6 +75,13 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'पेनांग की पहाड़ी ढलान पर घने हरे जंगल से उठता हुआ नट्टुकोट्टई चेट्टियार वॉटरफॉल हिलटॉप मंदिर का सफेद गोपुरम।'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 पिनांग के थाईपुसम के दिन, चाँदी से बना एक भव्य रथ लेबुह पिनांग सड़क से चलकर पहाड़ी पर स्थित मुरुगन मंदिर की ओर प्रस्थान करता है। वह रथ, और एक सदी से अधिक समय से उसे चलाता आया समुदाय, संयोगमात्र नहीं हैं — दोनों चेट्टिनाड से मलाया तक की यात्रा करने वाली एक व्यापार-बैंकिंग परंपरा की कहानी कहते हैं।

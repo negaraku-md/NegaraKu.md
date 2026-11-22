@@ -77,6 +77,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'SJK(T) Ladang Sungai Getah-இன் தாழ்வான கட்டிடங்கள்; இது ஒரு ரப்பர் தோட்ட சமூகத்திற்குச் சேவையாற்றும் தமிழ்வழி தொடக்கப் பள்ளி என அதன் பெயர்ப்பலகையில் குறிக்கப்பட்டுள்ளது, சாலையோரத்திலிருந்து தெரிகிறது.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவின் பல பழைய நகரங்களின் விளிம்பில், ஒரு காலத்தில் பசுமையாகப் பரந்திருந்த

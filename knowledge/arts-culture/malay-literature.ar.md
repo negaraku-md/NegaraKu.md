@@ -80,6 +80,13 @@ verificationNeeded:
   - "لا يزال مؤلفو الأعمال الكلاسيكية مثل حكاية هانغ توا (Hikayat Hang Tuah) وتواريخها الحقيقية غير قابلين للتأكيد بدقة (تُقدَّر بين القرن الخامس عشر والسابع عشر)"
   - "سنة جائزة أ. سمد سعيد (A. Samad Said) مدوّنة 1985 في القائمة الرئيسية لكنها 1986 في صندوق التصفح من المصدر نفسه — جرى التأكد من أنها 1985"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'الصفحة المزدوجة الافتتاحية المذهّبة ذات الإطار الزهري لمخطوط "تاج السلاطين" ("تاج الملوك")، وهو مخطوط أدبي مالاوي كلاسيكي مكتوب بخط الجاوي.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في مخطوطة قديمة، نُقشت قصة ملوك ملقا، ورحلة هانغ توا (Hang Tuah)، وسقوط إمبراطورية — لا بوصفها سردًا تاريخيًّا جافًّا، بل قصةً تنبض بالشخصيات والحوار والأدب. تلك المخطوطة، *سجلّات الملايو (Sejarah Melayu)* أو *سلالة السلاطين (Sulalatus Salatin)*، من أوائل الأعمال التي تبرهن على مدى طول تقليد الكتابة الملايوية وغناه.

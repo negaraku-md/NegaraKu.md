@@ -75,6 +75,13 @@ verificationNeeded:
   - "Had panjang maksimum pantun berangkap panjang berbeza antara sumber (sebahagian menyebut sehingga 16 baris, sebahagian lain hingga sekitar 22 baris); jumlah yang pasti tidak seragam."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Para penghibur Melayu berpakaian tradisional hijau dan emas dengan tutup kepala berhias, duduk di atas lantai dan membuat gerakan tangan yang seragam semasa persembahan dikir barat, dengan gendang di hadapan mereka.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

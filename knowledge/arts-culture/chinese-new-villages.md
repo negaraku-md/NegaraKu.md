@@ -74,6 +74,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: '一座饱经风雨的单层木板与锌板房屋，是马来西亚华人新村的典型建筑，面朝一条安静的住宅街道，路旁停着汽车。'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 走进今天的士毛月、金宝或士林河（Sekinchan），你看到的多半是寻常的小镇景象：一排排店屋、华文小学、庙宇与会馆、路边的茶室与杂货店。但这些名字里不少都带着一个共同的身份——它们是「新村」。这个看似平淡的称呼，背后是一段关于[马来亚紧急状态](/malaysia/the-emergency)、反叛乱与大规模迁徙的历史。

@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'ป้ายหน้าประตูโรงเรียนที่ใช้ภาษาทมิฬเป็นสื่อการสอนในเมืองชางลุน (Changlun) รัฐเกอดะฮ์ (Kedah) มีตัวอักษรทมิฬอยู่เหนือชื่อภาษาอังกฤษ S.J.K (Tamil) Changlun โดยมีอาคารเรียนอยู่ด้านหลัง'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 บนสวนยางพาราเก่าของมลายา ห้องเรียนยุคแรก ๆ บางแห่งคือเพิงและกระท่อม และบทเรียนเป็นภาษาทมิฬ ตามงานศึกษาทางประวัติศาสตร์ที่ตีพิมพ์ในวารสารของสมาคมประวัติศาสตร์มาเลเซีย การศึกษาระดับประถมขั้นพื้นฐานเป็นภาษาทมิฬมีให้ในสวนตั้งแต่ต้นศตวรรษที่ยี่สิบ จัดให้ภายใต้ประมวลกฎหมายแรงงานสมัยนั้น และเป็นเวลานานสอนโดยเสมียนและคนทำงานพาร์ตไทม์แทนที่จะเป็นครูที่ได้รับการฝึกฝน

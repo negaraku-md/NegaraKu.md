@@ -69,6 +69,13 @@ faq:
   - q: 大伯公とは誰で、最も古い大伯公廟はどこにありますか。
     a: 大伯公(トゥア・ペッ・コン、Tua Pek Kong)は強い土着色をもつ神で、マレーシア各地の華人寺廟で広く祀られています。最も古い大伯公廟はペナンのタンジョン・トコン(Tanjung Tokong)にあるとされ、その信仰はのちにマレーシア、シンガポール、インドネシア各地へ広まりました。マレー語ではこうした寺廟を tokong と呼びます。その他の著名な廟には、マラッカの青雲亭(Cheng Hoon Teng)やクアラルンプールの天后宮(Thean Hou)があります。
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'クアラルンプールの華人寺院、天后宮（Thean Hou Temple）の反り上がった龍を頂く瓦屋根。青空を背に、連なって吊るされた赤い提灯に縁取られている。'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアのどの華人寺廟に足を踏み入れても、同じ一つの空間のなかで仏・道・民間の

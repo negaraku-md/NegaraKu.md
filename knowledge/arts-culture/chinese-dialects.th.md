@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'ซุ้มประตูหลังคาทรงเจดีย์สีเขียวเหนือถนนจาลันเปอตาลิง (Jalan Petaling) ในไชนาทาวน์กัวลาลัมเปอร์ มีป้าย "Petaling Street" พร้อมโคมแดงและป้ายร้านภาษาจีนเหนือถนนตลาดที่คึกคัก'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ที่ร้านกาแฟในปีนัง คุณสั่งกาแฟหนึ่งแก้ว (kopi) ด้วยภาษาฮกเกี้ยน พอถึงกัวลาลัมเปอร์และอีโปห์ กาแฟแก้วเดียวกันเปลี่ยนเป็นภาษากวางตุ้ง ไปต่อที่ซิบูของซาราวัก คนที่ทักทายคุณน่าจะพูดภาษาฝูโจว คนทั้งสามที่นั่นล้วนเป็นชาวจีน แต่พูดสามภาษาที่พูดกันไม่รู้เรื่อง

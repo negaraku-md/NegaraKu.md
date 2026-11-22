@@ -93,6 +93,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: '''Selamat Datang ke KOA Lubuk Legong''이라고 적힌 알록달록한 벽화가 기와지붕의 마을 학교 건물 앞에 있고, 주위를 푸른 나무들이 둘러싸고 있다.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아라는 이름이 지도에 있기 훨씬 전부터, 반도의 숲과 고지대와 해안에 살던 사람들이 있었습니다. 오늘날 그들은 통틀어 오랑 아슬리(Orang Asli)로 불리는데 — '본래의 사람' 또는 '원주민'을 뜻하는 말레이어 표현입니다.

@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'SJK(T) Ladang Sungai Getah 低矮的校舍，招牌上标着这所泰米尔语小学的名称，它服务于一个橡胶园社区，从路旁望去。'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在马来西亚许多老城镇的边缘，一片曾经绿意盎然的树胶园，如今已变成遍布房屋与店铺街的住宅区。在那些新建筑之间，有时还残留着一座古老的阿曼庙，或一所小小的泰米尔小学——那是一个已被迁离的社群未曾褪色的印记。

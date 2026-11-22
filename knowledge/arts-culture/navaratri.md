@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'பச்சைத் துணியால் போர்த்தப்பட்ட அடுக்கு நவராத்திரி கொலு காட்சி, மேல் படியில் விஷ்ணுவின் தச அவதாரங்கள் அமைந்திருக்க, கீழ் படிகள் வர்ணம் பூசிய இந்து தெய்வ உருவங்கள் மற்றும் பொம்மைகளால் நிறைந்துள்ளன.'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நவராத்திரி நாட்களில் மலேசியத் தமிழ் இந்து வீடு ஒன்றின் வரவேற்பறையில் ஒரு

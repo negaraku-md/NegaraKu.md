@@ -72,6 +72,13 @@ faq:
   - q: ما هو الاتحاد المسيحي لماليزيا، وأي الهيئات يجمع؟
     a: 'الاتحاد المسيحي لماليزيا (Christian Federation of Malaysia، CFM)، الذي تأسس عام 1985، هو الهيئة المظلّة الرئيسية. وهو يوحّد التيارات الثلاثة للمسيحية الماليزية: مؤتمر الأساقفة الكاثوليك (Catholic Bishops'' Conference)، ومجلس كنائس ماليزيا (Council of Churches of Malaysia، البروتستانتية التقليدية)، والزمالة المسيحية الإنجيلية الوطنية (National Evangelical Christian Fellowship). ويقول الاتحاد إنه يمثل أكثر من 95% من كنائس البلاد، وكثير منها جماعات ناطقة باللغة الماليزية في صباح وساراواك.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'أطلال كنيسة القديس بولس الحجرية المطليّة بالأبيض من القرن السادس عشر على تلة القديس بولس في ملقا، ويقف في المقدمة تمثال رخامي للقديس فرنسيس كسفاريوس.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 لقصة المسيحية في ماليزيا مركزا ثقل، وليس أيٌّ منهما في العاصمة. يمتد أحدهما إلى

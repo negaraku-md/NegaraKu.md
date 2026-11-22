@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'ミリ（Miri）にある中国語新聞「星洲日報」（Sin Chew Daily）の白い社屋。正面と門壁にその名が英語と漢字で記されている。'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 早朝のコピティアム（茶餐室）では、広げられた華語新聞がしばしば一杯のコーヒーとともに置かれている。読者は一面の国内外の大きなニュースをめくると、たいてい最もなじみのある紙面へまっすぐ向かう——地元ニュースでどの華語小学校がまたバザーを開いたかをまず見る人もいれば、副刊（文芸欄）や論説欄をめくる人、そして訃報・三行広告・宝くじの結果だけを目当てにする人もいる。多くのマレーシア華人にとって、華語新聞は単なるニュースではなく、毎日続けられる中国語の読書習慣でもある。

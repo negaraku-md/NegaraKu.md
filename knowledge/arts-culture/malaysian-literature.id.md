@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'Gedung Dewan Bahasa dan Pustaka di Kuala Lumpur, fasadnya yang melengkung dipenuhi mural besar kehidupan masyarakat Malaysia dan namanya tampak sebagian pada menara kantor merah di sampingnya.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sebelum ada novel dan sebelum ada dewan bahasa, seorang penglipur lara sudah mengarang wira Melayu di halaman istana Melaka. Dari tradisi lisan itulah tumbuh salah satu warisan sastra terkaya di kawasan ini — sebuah tradisi yang saat ini dirayakan dengan gelar negara, uang ratusan ribu ringgit, dan kursi kehormatan dalam peradaban bangsa.

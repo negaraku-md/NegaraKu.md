@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'Sebuah rumah panjang Iban dari kayu, berdiri di atas tiang kayu di sepanjang lereng bukit berhutan di atas sebuah sungai di Sarawak, tempat tinggal bersama sebuah komunitas Dayak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Terbanglah melintasi pedalaman Borneo dan Anda akan melewati lebih banyak bahasa dalam satu jam dibandingkan kebanyakan negara secara keseluruhan. Sebuah lembah sungai di dataran tinggi Sabah, sebuah rumah panjang di hulu Baram, Sarawak, sebuah perkampungan nelayan di pesisir pantai — masing-masing mungkin menyambut Anda dengan satu bahasa yang nyaris tidak dipahami oleh lembah di sebelahnya.

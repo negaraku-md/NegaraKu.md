@@ -73,6 +73,13 @@ festivalFacts:
   who: "Penganut dalam masyarakat Cina Malaysia; tokong terkenal termasuk 南天宫 di Ampang, Selangor, 斗母宫 di Lorong Hong Kong, Pulau Pinang, dan 斗母宫 di Butterworth."
   when: "Dari hari pertama hingga hari kesembilan bulan kesembilan kalendar lunar, selama sembilan hari berturut-turut (upacara menjemput air pada malam sebelum hari pertama, dan menghantar pulang dewa pada hari kesembilan sebagai penutup)."
   etiquette: "Ramai penganut mematuhi 「食斋」 (berpantang/bervegetarian), bervegetarian selama satu hari, tiga hari atau sepanjang sembilan hari, dan secara tradisinya berpantang lima jenis sayur berbau tajam (五辛); kebanyakannya memakai pakaian putih dengan tali pinggang kuning; sepanjang tempoh perayaan sering ada perarakan dewa menyusuri jalan, dan sesetengah tokong mengamalkan pertapaan seperti berjalan atas bara api (过火) dan mencucuk pipi atau mulut (扎口), namun amalannya berbeza mengikut tokong."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Sekumpulan penganut memegang colok di hadapan altar tokong yang diapit naga dan digantung tanglung kuning semasa Perayaan Sembilan Maharaja Dewa di Ipoh, asap colok berkepul di latar depan.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada malam sebelum hari pertama bulan sembilan kalendar lunar, sebaris penganut berpakaian putih dengan ikat pinggang kuning keluar beratur dari tokong, sambil memegang colok, menuju ke tepi sungai atau pantai yang terdekat. Gong dan gendang di hadapan, asap colok di belakang — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Maharaja Dewa pulang ke tokong. Sepanjang sembilan hari berikutnya, colok tidak putus-putus di dalam tokong, dan bau makanan vegetarian berbau harum di luar; pada malam hari kesembilan, barisan yang sama akan beratur semula ke tepi air untuk menghantar pulang dewa.

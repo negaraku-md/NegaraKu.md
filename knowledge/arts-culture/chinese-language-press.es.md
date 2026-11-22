@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'El edificio blanco de oficinas del periódico en lengua china Sin Chew Daily en Miri, con su nombre mostrado en inglés y en caracteres chinos en la fachada y en el muro de la entrada.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En el kopitiam (cafetería) de primera hora de la mañana, un periódico chino desplegado suele estar junto a una taza de café. El lector pasa las grandes noticias nacionales e internacionales de la portada y, por lo general, se dirige directamente a las páginas que mejor conoce: unos miran primero, en las noticias locales, qué escuela primaria china ha organizado otra feria benéfica; otros hojean el suplemento literario y la página de opinión; y otros solo buscan las esquelas, los anuncios por palabras y los resultados de la lotería. Para muchos chinos de Malasia, el periódico chino no es solo noticia, sino también un hábito diario de lectura en chino.

@@ -72,6 +72,13 @@ faq:
   - q: Pourquoi davantage d'hindous vivent-ils dans des États comme Negeri Sembilan, Selangor et Perak ?
     a: Ces États correspondent aux anciennes zones de plantations d'hévéas et de mines d'étain — là où de nombreux travailleurs indiens se sont installés à l'époque britannique. Lors du recensement de 2020, Negeri Sembilan (~13,1 %), Selangor (~10,3 %) et Perak (~9,7 %) affichaient les proportions les plus élevées. La plupart sont les descendants de ceux qui sont venus du sud de l'Inde pour le travail des plantations sous le système kangani.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'La haute tour gopuram du temple Sri Mahamariamman, sculptée de couleurs vives, dans le centre de Kuala Lumpur, couverte de figures de divinités hindoues au-dessus de l''entrée du temple où se tiennent des visiteurs.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dans n'importe quelle ville de Malaisie, en lisière d'une ancienne plantation

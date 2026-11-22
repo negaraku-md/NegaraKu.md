@@ -95,6 +95,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'La haute tour du Dewan Bahasa dan Pustaka à Kuala Lumpur, son nom inscrit le long du socle, le siège de l''autorité nationale de la langue et de la littérature vu depuis la route.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 À Kuala Berang, Terengganu, on a trouvé une inscription sur pierre portant des mots malais — non pas dans les lettres que nous connaissons aujourd'hui, mais en écriture arabe adaptée aux sons du malais. Selon les Archives nationales de Malaisie (Arkib Negara Malaysia), l'inscription est datée de 1303 apr. J.-C.

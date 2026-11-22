@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'Pintu gerbang berbumbung pagoda hijau di atas Jalan Petaling di kawasan Pecinan Kuala Lumpur, bertanda ''Petaling Street'' dengan tanglung merah dan papan tanda kedai Cina di atas sebuah jalan pasar yang sibuk.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Di sebuah kedai kopi di Pulau Pinang, anda memesan kopi dalam bahasa Hokkien; di Kuala Lumpur dan Ipoh, cawan kopi yang sama dipesan dalam bahasa Kantonis; teruskan lagi ke Sibu, Sarawak, dan orang yang melayan anda kemungkinan besar bertutur dalam bahasa Foochow. Ketiga-tiganya orang Cina — namun mereka bertutur dalam tiga bahasa yang tidak boleh difahami antara satu sama lain.

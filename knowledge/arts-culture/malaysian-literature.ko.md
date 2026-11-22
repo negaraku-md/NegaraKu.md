@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: '쿠알라룸푸르의 언어출판국(Dewan Bahasa dan Pustaka) 건물로, 곡면의 외벽은 말레이시아의 삶을 그린 대형 벽화로 덮여 있고 옆의 붉은 사무동에 이름 일부가 보인다.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 소설이 있기 전, 언어원(dewan bahasa)이 있기 전에, 한 이야기꾼(penglipur lara)이 이미 믈라카 궁정 뜰에서 말레이 영웅을 지어냈습니다. 바로 그 구전 전통에서 이 지역에서 가장 풍요로운 문학 유산 가운데 하나가 자라났습니다 — 오늘날 국가 칭호와 수십만 링깃의 돈, 그리고 민족 문명 속 명예로운 자리로 기려지는 전통입니다.

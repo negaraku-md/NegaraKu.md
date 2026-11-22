@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'Bangunan pejabat putih akhbar berbahasa Cina Sin Chew Daily di Miri, namanya dipaparkan dalam bahasa Inggeris dan aksara Cina pada fasad dan dinding pintu masuk.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di kedai kopi pada waktu pagi, sebuah akhbar Cina yang terbuka lebar sering diletakkan bersebelahan dengan secawan kopi. Pembaca membelek berita besar dalam dan luar negara di muka hadapan, lalu selalunya terus menuju ke halaman yang paling mereka kenali — ada yang dahulu melihat berita tempatan tentang sekolah Cina mana yang mengadakan jualan amal, ada yang membelek ruangan sastera dan pandangan, dan ada pula yang hanya mahu ruangan obituari, iklan kecil dan nombor ekor. Bagi ramai orang Cina Malaysia, akhbar Cina bukan sekadar berita, tetapi satu tabiat membaca bahasa Cina yang berlangsung setiap hari.

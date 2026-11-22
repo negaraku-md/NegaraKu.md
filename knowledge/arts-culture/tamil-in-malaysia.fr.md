@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["tamoul en Malaisie", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "écoles de tamoul Malaisie", "Indiens malaisiens", "Article 152", "instruction en tamoul", "écoles vernaculaires"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'Le panneau du portail d''une école d''enseignement en tamoul à Changlun, Kedah, inscrit en écriture tamoule au-dessus du nom anglais S.J.K (Tamil) Changlun, avec le bâtiment scolaire à l''arrière.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dans les anciennes plantations d'hévéas de Malaya, certaines des premières salles de classe furent des hangars et des cabanes, et les leçons se donnaient en tamoul. Selon une étude historique publiée dans la revue de l'Association historique de Malaisie, dès le début du XXe siècle une éducation primaire de base en tamoul était offerte dans les plantations, prévue par les codes du travail de l'époque et, pendant longtemps, dispensée par des commis et des travailleurs à temps partiel plutôt que par des enseignants formés.

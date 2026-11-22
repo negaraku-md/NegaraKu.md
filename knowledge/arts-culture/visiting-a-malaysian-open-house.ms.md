@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["adab rumah terbuka Malaysia", "etika rumah terbuka", "tetamu rumah terbuka Malaysia", "adab rumah terbuka Hari Raya", "apa pakai rumah terbuka Malaysia", "duit raya ang pow tetamu", "adab rumah orang Islam halal", "adat menziarahi rumah Malaysia"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'Pemandangan dari atas hidangan jamuan Hari Raya yang terbentang di atas meja, dengan periuk rendang daging dan kari sayur, sepinggan sambal, serta pinggan sarung ketupat anyaman dan nasi himpit yang dihiris.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda telah dijemput ke sebuah *rumah terbuka*. Mungkin Hari Raya seorang rakan

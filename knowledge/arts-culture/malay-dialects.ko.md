@@ -77,6 +77,13 @@ social:
 verificationNeeded:
   - "방언군의 수와 경계는 방언학자의 분류에 따라 다르며(이스마일 후세인 1973의 네 개 군; 아스마 하지 오마르의 일곱 개 군; 더 세분한 목록) 완전히 일치하지는 않는다. 표준 말레이어가 '조호르-리아우에 기반한다'는 위상과 표준 발음 대 조호르-리아우 발음 정책의 역사는 DBP의 공식 간행물로 검토해야 한다. 느그리슴빌란 방언과 미낭카바우어(Minangkabau)의 관계(이주민 후손 대 표준 말레이어와의 언어적 근접성), 그리고 바바 말레이어가 크리올(creole)인지의 위상은 학자들 사이에서 여전히 논쟁 중이다."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: '기둥 위에 올려 지은 전통 파항(Pahang) 말레이식 목조 가옥으로, 가파른 기와지붕과 조각된 박공 처마널, 지붕 덮인 목조 계단을 갖추고 푸른 잔디밭 위에 세워져 있다.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 코타바루(Kota Bharu) 출신, 알로르스타르(Alor Setar) 출신, 쿠칭(Kuching) 출신의 화자가 모두 자신이 말레이어를 쓴다고 똑같이 말할 수 있습니다 — 그러나 각자의 고향 마을에서 편하게 이야기를 나눌 때면, 그 소리는 서로를 이해하는 데 약간의 적응이 필요할 만큼 크게 다를 수 있습니다. 바로 이 차이를 방언, 혹은 일상어로 사투리(loghat)라고 부릅니다.

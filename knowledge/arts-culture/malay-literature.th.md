@@ -80,6 +80,13 @@ verificationNeeded:
   - "ผู้แต่งและวันเวลาจริงของงานคลาสสิกอย่าง Hikayat Hang Tuah ยังไม่สามารถระบุได้อย่างแน่ชัด (ประเมินราวคริสต์ศตวรรษที่ 15 ถึง 17)"
   - "ปีที่ A. Samad Said ได้รับรางวัลบันทึกเป็น 1985 ในรายชื่อหลักแต่เป็น 1986 ในกล่องนำทางของแหล่งเดียวกัน — ยืนยันเป็น 1985"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'หน้าคู่เปิดเล่มที่ปิดทองและขอบลวดลายดอกไม้ของต้นฉบับตัจญ์ อัล-ซาลาติน (Taj al-Salatin, "มงกุฎแห่งราชา") ต้นฉบับวรรณกรรมมลายูคลาสสิกที่เขียนด้วยอักษรยาวี (Jawi)'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในต้นฉบับเก่าเล่มหนึ่ง เรื่องราวของบรรดาราชาแห่งมะละกา การเดินทางของฮัง ตัวะฮฺ (Hang Tuah) และการล่มสลายของจักรวรรดิถูกจารึกไว้ — ไม่ใช่ในฐานะบันทึกประวัติศาสตร์ที่แห้งแล้ง แต่ในฐานะเรื่องเล่าที่มีชีวิตด้วยตัวละคร บทสนทนา และวรรณศิลป์ ต้นฉบับนั้น *Sejarah Melayu* หรือ *Sulalatus Salatin* คือหนึ่งในงานยุคแรกสุดที่พิสูจน์ว่าธรรมเนียมงานประพันธ์ในภาษามลายูนั้นยาวนานและมั่งคั่งเพียงใด

@@ -73,6 +73,13 @@ festivalFacts:
   who: "Les fidèles au sein de la communauté chinoise de Malaisie ; parmi les temples renommés figurent le temple Nantian d'Ampang, dans le Selangor (安邦南天宫), le temple Doumu de la ruelle Hong Kong à Penang (香港巷斗母宫) et le temple Doumu de Butterworth (北海斗母宫)."
   when: "Du premier au neuvième jour du neuvième mois lunaire, soit neuf jours consécutifs (invocation de l'eau la veille du premier jour, renvoi des divinités pour conclure le neuvième jour)."
   etiquette: "De nombreux fidèles observent le « jeûne végétarien » (斋戒), mangeant végétarien pendant un jour, trois jours ou les neuf jours entiers, et évitant traditionnellement les cinq alliacées ; beaucoup portent des vêtements blancs et une ceinture jaune à la taille ; pendant la période festive se tiennent souvent des processions (游神) à travers les rues, et certains temples pratiquent des austérités comme la marche sur le feu ou le perçage des joues, mais les pratiques varient d'un temple à l'autre."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Une foule de fidèles tenant des bâtons d''encens devant un autel de temple flanqué de dragons et orné de lanternes jaunes pendant la Fête des Neuf Dieux Empereurs à Ipoh, la fumée de l''encens s''élevant au premier plan.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La veille du 1er jour du neuvième mois lunaire, une file de fidèles vêtus de blanc, une ceinture jaune à la taille, sort du temple l'un après l'autre, l'encens à la main, et se dirige vers la rive de fleuve ou de mer la plus proche. Devant, gongs et tambours ; derrière, la fumée de l'encens : ils vont à l'« invocation de l'eau » et à l'« accueil des dieux », pour ramener les Neuf Dieux Empereurs au temple. Pendant les neuf jours suivants, l'encens ne s'éteint pas dans le temple, et l'arôme de la nourriture végétarienne flotte au-dehors ; la nuit du 9e jour, la même file se reformera au bord de l'eau pour reconduire les divinités.

@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'La maison traditionnelle malaise en bois restaurée, lieu de naissance de la légende du cinéma P. Ramlee, aujourd''hui un mémorial, avec un toit de chaume et une plaque commémorative sur son parvis de brique.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En 1955, un ancien clap-man et assistant caméraman d'un studio situé au n° 8 de Jalan Ampas, à Singapour, s'est assis pour la première fois dans le fauteuil du réalisateur, à l'âge de 26 ans. Le film était *Penarek Becha*. Il s'appelait P. Ramlee. L'histoire de l'industrie cinématographique de la Malaisie ne commence pas à Kuala Lumpur, mais dans un studio de Singapour appartenant à deux frères de Shanghai — et elle n'a cessé de bouger depuis.

@@ -79,6 +79,13 @@ verificationNeeded:
   - "자아바(Za'ba) 철자 체계의 연도: 일부 자료는 1924년 도입을, 다른 자료는 1933년에 완전히 정비되었다고 함 — 일차 자료와 대조하여 확인 필요"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: '파란색 말레이시아 도로 표지판으로, 위쪽에는 자위 문자(Jawi), 아래쪽에는 루미(Rumi, 라틴 문자)로 ''Jalan Pasir Puteh''이라고 적혀 있으며, 그 옆으로 오토바이를 탄 남성이 지나가고 있다.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 오늘날 우리가 말레이어 낱말을 읽을 때 — 도로 표지판에서, 신문에서, 휴대전화 화면에서 — 우리는 그것을 영어 알파벳과 같은 글자로 읽습니다: a, b, c, d 등등. 그 문자를 루미 문자(tulisan Rumi)라고 부릅니다. 그것은 너무나 익숙해서, 많은 사람이 루미가 말레이어 본래의 문자가 아니며 오늘날의 단정하고 통일된 형태가 백 년 넘게 걸린 표준화 노력의 산물이라는 사실을 알아차리지 못합니다.

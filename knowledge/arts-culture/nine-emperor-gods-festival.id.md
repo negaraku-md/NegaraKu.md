@@ -73,6 +73,13 @@ festivalFacts:
   who: "Umat di dalam komunitas Tionghoa Malaysia, dengan kelenteng terkenal termasuk Kelenteng Nan Tian di Ampang, Selangor, Kelenteng Dou Mu di Lorong Hong Kong, Penang, serta Kelenteng Dou Mu di Butterworth."
   when: "Dari tanggal 1 hingga 9 bulan kesembilan penanggalan Imlek, selama sembilan hari berturut-turut (mengundang air pada malam menjelang hari pertama, berakhir dengan mengantar tahta pada hari kesembilan)."
   etiquette: "Banyak umat menjalankan 「makan vegetaris」 (berpantang), bervegetaris selama satu hari, tiga hari, atau sepanjang sembilan hari, secara tradisional menghindari lima bumbu menyengat; kebanyakan mengenakan pakaian putih dengan selempang kuning di pinggang; selama masa perayaan sering ada arak-arakan keliling (pawai dewa) menyusuri jalan, dan sebagian kelenteng mengadakan laku keras seperti berjalan di atas bara api dan menusuk pipi, tetapi praktiknya berbeda-beda menurut kelenteng."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Sekelompok umat memegang hio di depan altar kuil yang diapit naga dan digantungi lampion kuning saat Festival Sembilan Dewa Kaisar di Ipoh, asap dupa mengepul di latar depan.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada malam sebelum tanggal 1 bulan sembilan penanggalan lunar, sebaris penganut berbusana putih dengan selempang kuning di pinggang, memegang dupa harum, keluar beriringan dari kelenteng menuju tepi sungai atau pantai terdekat. Di depan ada gong dan tambur, di belakang asap dupa — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Dewa Kaisar pulang ke kelenteng. Selama sembilan hari berikutnya, di dalam kelenteng dupa tak putus-putus, di luar kelenteng semerbak aroma makanan vegetarian; dan pada malam tanggal 9, barisan yang sama akan kembali berbaris ke tepi air untuk mengantar dewa pulang.

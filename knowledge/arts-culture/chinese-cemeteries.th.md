@@ -75,6 +75,13 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'สุสานจีนขนาดใหญ่รูปเกือกม้า มีจารึกปิดทองและแผงด้านข้างแกะสลัก ตั้งอยู่บนเนินหญ้าท่ามกลางต้นไม้บนเนินเขาฝังศพบูกิตจีนา (Bukit China) ในมะละกา'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ช่วงเช็งเม้ง ก่อนฟ้าจะสว่างเต็มที่ เชิงเขาบูกิตจีนาในมะละกาก็เต็มไปด้วยรถที่จอดเรียงราย ครอบครัวแล้วครอบครัวเล่าถือดอกไม้สด ธูป เทียน และเครื่องเซ่นไหว้ เดินขึ้นไปตามเนินที่ขึ้น ๆ ลง ๆ มุ่งสู่หลุมศพบรรพบุรุษของตน บางคนจุดธูปที่แท่นหินเล็ก ๆ ข้างหลุมศพซึ่งสลักอักษร "โฮ่วถู่" ก่อน แล้วจึงหันไปดูแลป้ายหลุมศพของบรรพบุรุษ — ถอนวัชพืช ลงสีอักษรสลักที่จางลงใหม่ แล้วจัดวางเครื่องเซ่นไหว้ หลุมศพที่เรียงรายหนาแน่นไปตามเนินและหันไปในทิศทางเดียวกัน คือที่พักพิงของชาวจีนที่อพยพลงใต้รุ่นแล้วรุ่นเล่า

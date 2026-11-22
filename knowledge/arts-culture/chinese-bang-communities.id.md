@@ -77,6 +77,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'Kuil perkumpulan marga Leong San Tong Khoo Kongsi yang berornamen indah di George Town, Penang, bubungan atapnya dipenuhi naga dan patung berwarna di atas ruang sembahyang yang berukir halus dan bersepuh emas.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di jalan-jalan lama Penang, toko-toko yang menopang satu deretan muka kedai sepenuhnya kebanyakan adalah usaha milik orang Hokkien; di kota-kota yang bangkit karena timah seperti Kuala Lumpur dan Ipoh, tambang dan perkumpulan usaha dipadati orang Kanton dan Hakka; dan ke kota mana pun Anda masuki, kedai kopi lama yang menjual kopi Hainan serta roti bakar dengan mentega dan kaya itu, di balik mejanya sering berdiri seorang Hainan.

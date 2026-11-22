@@ -95,6 +95,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "اللغة الملايوية", "bahasa kebangsaan", "اللغة الوطنية", "Perkara 152", "المادة 152", "Akta Bahasa Kebangsaan 1963/67", "الحرف الجاوي والرومي", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'برج ديوان بهاسا دان بوستاكا الشاهق في كوالالمبور، واسمه مكتوب على القاعدة، مقر هيئة اللغة والأدب الوطنية كما يُرى من الطريق.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في كوالا بيرانغ بترغكانو، عُثِر على نقش حجري يحمل كلمات ملايوية — لا بالحروف

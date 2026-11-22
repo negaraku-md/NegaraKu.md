@@ -72,6 +72,13 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: '緑色の布で覆われた段々のナヴァラートリ（Navaratri）のコル（Kolu）の飾り。最上段にはヴィシュヌ（Vishnu）の十化身が置かれ、下の段には彩り鮮やかなヒンドゥー教の神々の像や人形が並ぶ。'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ナヴァラートリの期間、マレーシアのあるタミル系ヒンドゥー教徒の家庭の客間では、片側の壁に沿って奇数段の台が組まれます。布で覆われたその段には、神像と神話の場面を伝える人形が並べて飾られます。夕刻になると、親族や近所の人々が**ゴールー**を見に訪れ、歌声が響き、帰る客にはタンブーラムと菓子が手渡されます。これは一日限りの行事ではなく、九つの夜にわたる祭りの象徴なのです。

@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'A weathered single-storey timber-and-zinc house typical of a Malaysian Chinese New Village, fronting a quiet residential street with cars parked alongside.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Walk into Semenyih, Kampar or Sekinchan today and what you mostly see is the ordinary face of a small town: rows of shophouses, a Chinese primary school, temples and clan associations, roadside kopitiams and sundry shops. But many of these places share a common identity — they are "New Villages". Behind this seemingly plain label lies a history of the [Malayan Emergency](/en/malaysia/the-emergency), counter-insurgency and mass relocation.

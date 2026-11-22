@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: '吉隆坡唐人街茨厂街（Jalan Petaling）上方绿色宝塔顶的牌楼，标有“Petaling Street”字样，红灯笼与中文店铺招牌高悬于繁忙的市集街道之上。'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在槟城的咖啡店，你用福建话喊一杯 kopi；到了吉隆坡与怡保，同一杯咖啡换成广东话；再往砂拉越的诗巫去，招呼你的很可能是福州话。三处的人都是华人，说的却是三种互不相通的话。

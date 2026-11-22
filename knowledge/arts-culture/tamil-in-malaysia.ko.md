@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: '케다주(Kedah) 창룬(Changlun)의 타밀어 학교 정문 간판으로, 위쪽에 타밀 문자, 그 아래에 영문명 ''S.J.K (Tamil) Changlun''이 적혀 있고 뒤로 교사(校舍)가 보인다.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말라야의 옛 고무 농원에서 가장 이른 교실 가운데 일부는 헛간과 오두막이었고, 수업은 타밀어로 이루어졌습니다. 말레이시아 역사학회 학술지에 실린 한 역사 연구에 따르면, 타밀어로 하는 기초 초등 교육이 20세기 초부터 농장에서 제공되었는데, 당시의 노동 법규 아래 마련되었고 오랫동안 훈련된 교사가 아니라 사무원과 시간제 인력이 가르쳤습니다.

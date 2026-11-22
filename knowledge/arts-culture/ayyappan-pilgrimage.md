@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'இரவில் பிரகாசமாக ஒளியூட்டப்பட்ட ஐயப்பன் இந்து கோயில், கேரள பாணியிலான அடுக்குக் கூரைகள், தங்க ஒளியில் நிற்கும் தூண்கள், நுழைவாயிலின் உச்சியில் இறைவனின் சிறிய சன்னிதி.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஆண்டின் இறுதி மாதங்களில் மலேசியாவின் பல ஊர்களில் ஒரு காட்சி தெரியும்:

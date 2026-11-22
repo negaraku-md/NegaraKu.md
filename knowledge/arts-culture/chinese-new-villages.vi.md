@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'Một ngôi nhà một tầng cũ kỹ bằng gỗ và tôn kẽm đặc trưng của Làng Mới người Hoa Malaysia, nằm hướng ra một con phố dân cư yên tĩnh với những chiếc xe đỗ bên cạnh.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bước vào Semenyih, Kampar hay Sekinchan ngày nay, điều bạn thấy phần lớn là dáng vẻ bình thường của một thị trấn nhỏ: những dãy nhà phố, một trường tiểu học tiếng Hoa, đền miếu và hội quán, quán cà phê ven đường và tiệm tạp hóa. Nhưng nhiều nơi trong số này cùng mang một bản sắc chung — chúng là "Làng Mới". Đằng sau cái tên tưởng chừng bình thản ấy là một lịch sử về [Tình trạng Khẩn cấp Malaya](/vi/malaysia/the-emergency), việc chống nổi dậy và cuộc di dời quy mô lớn.

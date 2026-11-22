@@ -72,6 +72,13 @@ faq:
   - q: สหพันธ์คริสเตียนแห่งมาเลเซียคืออะไร และรวมองค์กรใดเข้าด้วยกันบ้าง?
     a: สหพันธ์คริสเตียนแห่งมาเลเซีย (Christian Federation of Malaysia, CFM) ก่อตั้งในปี 1985 เป็นองค์กรร่มหลัก รวมสามสายธารของศาสนาคริสต์ในมาเลเซียเข้าด้วยกัน ได้แก่ สภาบิชอปคาทอลิก (Catholic Bishops' Conference) สภาคริสตจักรแห่งมาเลเซีย (Council of Churches of Malaysia ซึ่งเป็นโปรเตสแตนต์สายหลัก) และสามัคคีธรรมคริสเตียนอีแวนเจลิคัลแห่งชาติ (National Evangelical Christian Fellowship) CFM ระบุว่าเป็นตัวแทนของคริสตจักรในประเทศมากกว่า 95% ซึ่งหลายแห่งเป็นชุมชนผู้นับถือที่ใช้ภาษามาเลย์ในรัฐซาบาห์และซาราวัก
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'ซากโบสถ์เซนต์ปอล (St Paul''s Church) หินฉาบขาวจากศตวรรษที่ 16 บนเนินเขาเซนต์ปอล (St Paul''s Hill) ในมะละกา โดยมีรูปปั้นหินอ่อนของนักบุญฟรานซิส เซเวียร์ (St Francis Xavier) ตั้งอยู่ด้านหน้า'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เรื่องราวของศาสนาคริสต์ในมาเลเซียมีศูนย์กลางสองแห่ง และไม่มีแห่งใดอยู่ในเมืองหลวง

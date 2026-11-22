@@ -67,6 +67,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'معبد ثيان هو في كوالالمبور، وتتدلّى من سقفه المتدرّج مئات الفوانيس الحمراء على شكل شلّالات، ومبخرة مزيّنة بالتنانين في الفناء الأمامي ومصلّون في القاعة الرئيسية.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 على تلة صغيرة في مرتفعات روبسون (Robson Heights) في كوالالمبور، ينتصب معبد من ستة طوابق بأعمدة حمراء وقِرميد مزجّج يطلّ على المدينة — هذا هو معبد تيان هو، المكرَّس لأشهر إلهة بحر في العالم الصيني: مازو. في الماضي كان الصينيون الوافدون جنوبًا عبر البحر يدعونها طلبًا للسلامة قبل عبور المحيط وبعده؛ أما اليوم فهو في آنٍ واحد معبد يقدّم فيه المؤمنون البخور، وملتقى لأبناء هاينان، ومكان يلتقط فيه السياح صورهم.

@@ -77,6 +77,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'Pintu masuk utama Istana Budaya, teater kebangsaan, dengan bumbung sirih junjung yang melengkung luas, lambang teratai emas dan anak tangga yang lebar menuju pintu kayu berukir.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pada 1971, kira-kira dua tahun selepas [peristiwa 13 Mei 1969](/malaysia/13-may-1969), sekumpulan sarjana, penggiat seni dan pemimpin berkumpul di Universiti Malaya untuk menjawab satu soalan yang sukar bagi sebuah negara berbilang kaum: apakah yang dimaksudkan dengan "kebudayaan kebangsaan"? Jawapan yang terhasil — Dasar Kebudayaan Kebangsaan (DKK) — masih menjadi rujukan dasar sehingga hari ini, sekali gus masih menjadi bahan perbahasan.

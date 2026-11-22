@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'மலேசிய சீன புதிய கிராமத்திற்கே உரிய, காலத்தால் தேய்ந்த ஒற்றை மாடி மரம் மற்றும் துத்தநாகத் தகட்டு வீடு, அருகில் கார்கள் நிறுத்தப்பட்ட அமைதியான குடியிருப்புத் தெருவை நோக்கியுள்ளது.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 இன்று செமெனியே, கம்பார் அல்லது செகின்சான் (Sekinchan) போன்ற இடங்களுக்குள் நுழைந்தால், பெரும்பாலும் நீங்கள் காண்பது ஒரு சிறிய நகரத்தின் சாதாரண காட்சிதான்: வரிசையான கடைவீடுகள், ஒரு சீனத் தொடக்கப் பள்ளி, கோயில்களும் சங்கங்களும், சாலையோரக் காபிக்கடைகளும் மளிகைக் கடைகளும். ஆனால் இந்த இடங்களில் பல ஒரு பொதுவான அடையாளத்தைப் பகிர்ந்துகொள்கின்றன — அவை "புதுக் கிராமங்கள்". இந்த சாதாரணமாகத் தோன்றும் பெயருக்குப் பின்னால் [மலாயா அவசரகாலம்](/ta/malaysia/the-emergency), கிளர்ச்சி ஒடுக்கல், பேரளவிலான இடப்பெயர்வு பற்றிய ஒரு வரலாறு உள்ளது.

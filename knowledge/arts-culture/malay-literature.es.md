@@ -80,6 +80,13 @@ verificationNeeded:
   - "El autor y la fecha exactos de las obras clásicas como el Hikayat Hang Tuah siguen sin poder determinarse con precisión (se estima entre los siglos XV y XVII)"
   - "El año del premio a A. Samad Said figura como 1985 en la lista principal, pero como 1986 en el recuadro de navegación de la misma fuente — confirmado como 1985"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'La doble página inicial, dorada y con bordes florales, del Taj al-Salatin (''La Corona de los Reyes''), un manuscrito literario malayo clásico escrito en escritura jawi.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En un antiguo manuscrito queda grabada la historia de los reyes de Melaka, el periplo de Hang Tuah y la caída de un imperio — no como una crónica histórica árida, sino como un relato vivo, con personajes, diálogo y estilo literario. Ese manuscrito, la *Sejarah Melayu* o *Sulalatus Salatin*, es una de las obras más tempranas que dan testimonio de cuán larga y rica es la tradición de las letras en lengua malaya.

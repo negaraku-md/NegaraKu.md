@@ -79,6 +79,13 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'சுவரெழுத்துக்களால் குறிக்கப்பட்ட ஒரு மின்சாரப் பெட்டியில் கையால் வரையப்பட்ட ஆரஞ்சு மற்றும் நீல நிறப் பலகை PETALING STREET KUALA LUMPUR என வாசிக்கப்படுகிறது, அதன் பின்னால் ஒரு நகரத் தெரு மற்றும் கட்டிடங்கள்.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

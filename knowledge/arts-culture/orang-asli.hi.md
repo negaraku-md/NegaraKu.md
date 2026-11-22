@@ -94,6 +94,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'एक टाइल वाली छत वाले गाँव के स्कूल भवन के सामने, हरे पेड़ों से घिरा, Selamat Datang ke KOA Lubuk Legong पढ़ा जाने वाला रंगबिरंगा भित्ति-चित्र।'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया नाम किसी भी मानचित्र पर अस्तित्व में आने से बहुत पहले ही, समुदाय प्रायद्वीप के जंगलों, ऊँचे पठारों और तटों में बस चुके थे। आज उन्हें सामूहिक रूप से Orang Asli के नाम से जाना जाता है — एक मलय शब्द जिसका अर्थ है "मूल लोग" या "मूल निवासी"।

@@ -75,6 +75,13 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: '페낭 산비탈의 울창한 초록 정글에서 솟아오른 나투코타이 체티아르(Nattukottai Chettiar) 폭포 언덕 사원의 하얀 고푸람(gopuram) 탑.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 페낭 타이푸삼 날, 은으로 만든 웅장한 마차가 르부 페낭 거리에서 출발하여 언덕 위 무루간 사원을 향해 나아갑니다. 그 마차도, 한 세기 넘게 그것을 이끌어 온 공동체도 우연이 아닙니다 — 둘 다 체티나두에서 말라야로 건너온 상업·금융 전통의 이야기를 들려줍니다.

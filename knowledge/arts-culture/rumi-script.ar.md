@@ -79,6 +79,13 @@ verificationNeeded:
   - "سنة نظام إملاء زعبا (Za'ba): تذكر بعض المصادر أنه أُدخل عام 1924 وتذكر مصادر أخرى أنه اكتمل تنظيمه عام 1933 — يلزم التحقق مقابل مصدر أولي"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'لافتة شارع ماليزية زرقاء كُتب عليها Jalan Pasir Puteh بخط الجاوي في الأعلى وبالأحرف الرومية (اللاتينية) في الأسفل، ويمرّ بجانبها رجل على درّاجة نارية.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حين نقرأ كلمة ملايوية اليوم — على لافتات الطرق، وفي الصحف، وعلى شاشات الهواتف — نقرأها بالحروف نفسها التي تتكون منها الأبجدية الإنجليزية: a وb وc وd وما بعدها. ويُسمى هذا الخط الخط الرومي. وهو مألوف إلى حدٍّ يجعل كثيرين لا يدركون أن الرومي ليس الخط الأصلي للغة الملايوية، وأن صورته المرتبة الموحدة اليوم ثمرة جهد توحيدٍ استغرق أكثر من مئة عام.

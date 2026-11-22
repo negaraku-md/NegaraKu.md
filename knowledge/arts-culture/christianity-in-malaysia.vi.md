@@ -72,6 +72,13 @@ faq:
   - q: Liên hiệp Cơ Đốc giáo Malaysia là gì, và quy tụ những tổ chức nào?
     a: 'Liên hiệp Cơ Đốc giáo Malaysia (Christian Federation of Malaysia, CFM), thành lập năm 1985, là tổ chức bảo trợ chính. Nó hợp nhất ba dòng của Cơ Đốc giáo Malaysia: Hội đồng Giám mục Công giáo (Catholic Bishops'' Conference), Hội đồng các Giáo hội Malaysia (Council of Churches of Malaysia, Tin Lành dòng chính) và Hiệp hội Cơ Đốc Phúc Âm Quốc gia (National Evangelical Christian Fellowship). CFM cho biết họ đại diện cho hơn 95% số nhà thờ trong nước, nhiều trong số đó là các giáo đoàn nói tiếng Mã Lai ở Sabah và Sarawak.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'Phế tích đá quét vôi trắng của nhà thờ St Paul thế kỷ 16 trên đồi St Paul ở Melaka, với bức tượng cẩm thạch của Thánh Francis Xavier đứng ở phía trước.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Câu chuyện Kitô giáo của Malaysia có hai trung tâm trọng lực, và không trung tâm

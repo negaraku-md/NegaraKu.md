@@ -77,6 +77,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: '美里（Miri）华文报纸《星洲日报》（Sin Chew Daily）的白色办公大楼，外墙和门墙上以英文和中文呈现其名称。'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 清晨的茶餐室里，一份摊开的华文报常常和一杯咖啡摆在一起。读者翻过头版的国内外大事，往往径直走向自己最熟悉的版面——有人先看地方新闻里哪所华小又办了义卖，有人先翻副刊和言论版，也有人只为了讣告、分类广告和马票。对许多马来西亚华人而言，华文报不只是新闻，更是一种每天都在进行的中文阅读习惯。

@@ -79,6 +79,13 @@ verificationNeeded:
   - "Za'ba 拼写系统的年份：部分来源称于1924年推出，另一些则称于1933年才完整编订——需对照一手来源核实"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: '一块蓝色的马来西亚路牌，上方以爪夷文（Jawi）、下方以罗马字（Rumi，拉丁字母）写着“Jalan Pasir Puteh”，一名骑摩托车的男子从旁经过。'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 当我们今天阅读马来语词汇时——在路牌上、报章里、手机屏幕上——我们所读的是与英文字母相同的文字：a、b、c、d 等等。这种文字称为罗马字（Rumi）。它如此寻常，以致许多人并未意识到罗马字并非马来语的原生文字，而其今日整齐统一的形态，乃是历经逾百年标准化努力的成果。

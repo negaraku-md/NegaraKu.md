@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["اللغات الأصلية في صباح وساراواك", "indigenous languages Sabah Sarawak", "لغات بورنيو", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'بيت إيبان الطويل (لونغهاوس) الخشبي الممتد، مرفوع على ركائز خشبية على سفح تلة مكسوّة بالغابات فوق نهر في ساراواك، المسكن الجماعي لمجتمع داياك.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 حلّق فوق داخلية بورنيو تَعبُر في ساعة واحدة من اللغات أكثر مما تحويه معظم البلدان في مجموعها. فوادٍ نهري في مرتفعات صباح، وبيتٌ طويل على أعالي نهر بارام في ساراواك، وقريةُ صيدٍ ساحلية — قد يحيّيك كلٌّ منها بلسانٍ لا يكاد الوادي المجاور يفهمه.

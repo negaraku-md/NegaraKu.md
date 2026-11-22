@@ -75,6 +75,13 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'برج الغوبورام الأبيض لمعبد ناتوكوتاي تشيتيار على قمة تل الشلال، يرتفع من أدغال خضراء كثيفة على سفح تل في بينانغ.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في يوم عيد ثايبوسام ببينانغ، تنطلق عربة مهيبة مصنوعة من الفضة من شارع ليبوه بينانغ متجهةً إلى معبد مورُغان على التلّة. وليست تلك العربة، ولا الجماعة التي تُسيّرها منذ أكثر من قرن، محض مصادفة — فكلتاهما تروي قصة تقليد تجاري-صيرفي قطع الطريق من تشيتيناد إلى مالايا.

@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'Une maison de plain-pied vieillie, en bois et en zinc, typique d''un Nouveau Village chinois de Malaisie, donnant sur une rue résidentielle tranquille avec des voitures garées le long.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Entrez aujourd'hui à Semenyih, Kampar ou Sekinchan et ce que vous voyez, pour l'essentiel, c'est le visage ordinaire d'une petite ville : des rangées de maisons-boutiques, une école primaire chinoise, des temples et des associations de clan, des cafés de bord de route et des épiceries. Mais nombre de ces lieux partagent une identité commune : ce sont des « Nouveaux Villages ». Derrière ce nom en apparence banal se cache une histoire faite de l'[Insurrection malaise](/fr/malaysia/the-emergency), de contre-insurrection et de déplacement à grande échelle.

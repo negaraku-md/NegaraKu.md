@@ -79,6 +79,13 @@ verificationNeeded:
   - "Pengarang dan tarikh sebenar karya klasik seperti Hikayat Hang Tuah masih tidak dapat dipastikan dengan tepat (dianggarkan abad ke-15 hingga ke-17)"
   - "Tahun anugerah A. Samad Said dicatatkan 1985 dalam senarai utama tetapi 1986 dalam kotak navigasi sumber yang sama — disahkan sebagai 1985"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'Dua muka surat pembukaan Taj al-Salatin (''Mahkota Segala Raja'') yang bersalut emas dan berbingkai corak bunga, sebuah manuskrip sastera Melayu klasik yang ditulis dalam tulisan Jawi.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dalam sebuah naskhah lama, terpahat kisah raja-raja Melaka, perjalanan Hang Tuah, dan runtuhnya sebuah empayar — bukan sebagai catatan sejarah yang kering, tetapi sebagai cerita yang hidup dengan watak, dialog dan susastera. Naskhah itu, *Sejarah Melayu* atau *Sulalatus Salatin*, ialah antara karya terawal yang membuktikan betapa panjang dan kayanya tradisi persuratan bahasa Melayu.

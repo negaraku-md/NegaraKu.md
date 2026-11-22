@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'Le gopuram sculpté imposant du temple Sri Maha Mariamman à Kuala Lumpur, son panneau nommant le temple au-dessus de rangées de figures peintes de divinités hindoues, avec une rue et la circulation à l''avant.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 À proximité de presque toutes les anciennes plantations d'hévéas de Malaisie, et le long des rues chargées d'histoire des centres-villes, on peut trouver un temple de Mariamman. La statue d'Amman au visage jaune ocre, et les fêtes qui se tiennent avant la saison des pluies, ne sont pas le fruit du hasard : elles portent plus d'un siècle et demi d'histoire et de tradition de foi d'une communauté tamoule.

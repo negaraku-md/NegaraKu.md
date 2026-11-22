@@ -77,6 +77,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'ペナンのジョージタウン（George Town）にある装飾華麗な龍山堂邱公司（Leong San Tong Khoo Kongsi）の宗族廟。屋根の棟には彩色された龍や人形が所狭しと並び、その下には精巧な彫刻と金箔を施した祭殿がある。'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ペナンの旧市街で、一本の商店街を丸ごと支えているのは、たいてい福建人が開いた商号です。クアラルンプールやイポーのように錫によって栄えた都市では、鉱場や同業組合に広府人と客家人がひしめいていました。そしてどの町に足を踏み入れても、海南コーヒーとバター・カヤを塗ったトーストを出す古いコーヒー店の看板の奥には、しばしば海南人が立っています。

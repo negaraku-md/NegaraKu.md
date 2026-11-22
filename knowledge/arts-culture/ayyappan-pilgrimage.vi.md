@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'Một ngôi đền Hindu Ayyappan được chiếu sáng rực rỡ vào ban đêm, với mái xếp tầng kiểu Kerala, những cột trụ được chiếu đèn vàng và một điện thờ nhỏ của vị thần ngự trên lối vào.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào những tháng cuối năm, một cảnh tượng hiện ra ở nhiều thị trấn khắp Malaysia: những người đàn ông mặc áo đen hoặc xanh lam, đeo chuỗi hạt rudraksha quanh cổ và để râu, gọi nhau là "Swami". Đó là những người giữ nguyện Ayyappan — nhiều người trong số họ đang chuẩn bị lên đường đến Sabarimala ở bang Kerala. Bài viết này mô tả tín ngưỡng ấy và các truyền thống giữ nguyện một cách trung lập; nó không diễn giải cũng không đánh giá bất kỳ niềm tin nào.

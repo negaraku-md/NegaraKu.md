@@ -79,6 +79,13 @@ verificationNeeded:
   - "Za'ba 綴字体系の年代：一部の資料は1924年に導入されたとし、他の資料は1933年に完全な形で整備されたとする——一次資料に照らして確認する必要がある"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: '青いマレーシアの道路標識。上部にジャウィ文字（Jawi）、下部にルミ（Rumi、ラテン文字）で「Jalan Pasir Puteh」と記され、傍らをバイクに乗った男性が通り過ぎる。'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 今日わたしたちがマレー語の単語を読むとき——道路標識で、新聞で、電話の画面で——それを英語のアルファベットと同じ文字で読んでいる。a, b, c, d……という具合に。その文字はルミ文字と呼ばれる。あまりにも当たり前になっているため、ルミ文字がマレー語本来の文字ではないこと、そして今日のその整然として統一された形が百年以上を要した標準化の努力の成果であることに、多くの人は気づいていない。

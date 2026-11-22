@@ -77,6 +77,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: '페낭 조지타운(George Town)에 있는 화려하게 장식된 룡산통 쿠콩시(Leong San Tong Khoo Kongsi) 종친회 사당으로, 지붕 용마루에는 채색된 용과 인물상이 빼곡하고 그 아래에는 정교하게 조각되고 금박을 입힌 제례 전당이 있다.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 페낭의 옛 거리에서 한 상점가를 통째로 떠받치는 것은 대개 푸젠인이 연 상점들입니다. 쿠알라룸푸르나 이포처럼 주석으로 흥한 도시에서는 광산과 동업 조합이 광부인과 커자인으로 북적였습니다. 그리고 어느 도시에 들어서든, 하이난 커피와 버터·카야를 바른 토스트를 파는 오래된 커피점 간판 뒤에는 흔히 하이난인이 서 있습니다.

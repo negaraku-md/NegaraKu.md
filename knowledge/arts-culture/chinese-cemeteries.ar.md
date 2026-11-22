@@ -75,6 +75,13 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'قبر صيني كبير على شكل حدوة حصان بنقوش مذهّبة وألواح جانبية منحوتة، مُقام في تلّ عشبي بين الأشجار على تلة بوكيت تشينا للدفن في ملقا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قُبيل عيد تشينغ مينغ، قبل أن يكتمل ضوء النهار، يكون سفح بوكيت تشينا في ملقا قد امتلأ بالسيارات المركونة. تحمل الأسر الواحدة تلو الأخرى الأزهار الطازجة والبخور والشموع والقرابين، صاعدةً المنحدرات المتموّجة نحو قبور أسلافها. يُشعل بعضهم البخور أولًا عند كُوّة حجرية صغيرة بجانب القبر نُقش عليها حرفا «هو تو»، ثم يلتفتون للعناية بشاهد قبر السلف — فينزعون الأعشاب، ويعيدون تلوين النقوش الباهتة، ثم يضعون القرابين. إن القبور المتراصّة على المنحدر، المتّجهة كلها الوجهة نفسها، هي مثوى أجيال متعاقبة من الصينيين الذين هاجروا جنوبًا.

@@ -76,6 +76,13 @@ verificationNeeded:
   - "நீண்ட செய்யுள் பந்தூனின் அதிகபட்ச நீள எல்லை ஆதாரங்களுக்கிடையே வேறுபடுகிறது (சில 16 வரிகள் வரை என்றும், சில சுமார் 22 வரிகள் வரை என்றும் குறிப்பிடுகின்றன); உறுதியான எண்ணிக்கை ஒரே சீரானது அல்ல."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'பச்சை மற்றும் தங்க நிற பாரம்பரிய உடை மற்றும் அலங்கார தலைப்பாகை அணிந்த மலாய் கலைஞர்கள், ஒரு dikir barat நிகழ்ச்சியின்போது தரையில் அமர்ந்து ஒருங்கிணைந்த கை அசைவுகளைச் செய்கின்றனர், அவர்களுக்கு முன்னால் கைமேளங்கள்.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

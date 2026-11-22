@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'Papan tanda pintu masuk sebuah sekolah beraliran Tamil di Changlun, Kedah, bertulis dalam tulisan Tamil di atas nama Inggeris S.J.K (Tamil) Changlun, dengan bangunan sekolah di belakangnya.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di ladang-ladang getah lama Malaya, sebahagian daripada bilik darjah paling awal adalah bangsal dan pondok, dan pengajarannya dalam bahasa Tamil. Menurut satu kajian sejarah yang diterbitkan dalam jurnal Persatuan Sejarah Malaysia, pendidikan rendah asas dalam bahasa Tamil ditawarkan di ladang-ladang sejak awal abad kedua puluh, diperuntukkan di bawah kanun buruh pada masa itu dan, untuk tempoh yang lama, diajar oleh kerani dan pekerja sambilan dan bukannya guru terlatih.

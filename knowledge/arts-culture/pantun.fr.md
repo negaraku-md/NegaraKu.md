@@ -76,6 +76,13 @@ verificationNeeded:
   - "La limite de longueur maximale du pantoun à longues strophes varie selon les sources (certaines mentionnent jusqu'à 16 vers, d'autres jusqu'à environ 22 vers) ; le total exact n'est pas uniforme."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Des artistes malais en costume traditionnel vert et or, coiffés de couvre-chefs ornés, assis par terre et exécutant des gestes de la main synchronisés lors d''une représentation de dikir barat, des tambours à main devant eux.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

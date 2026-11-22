@@ -73,6 +73,13 @@ festivalFacts:
   who: "Los devotos de la comunidad china de Malasia; entre los templos conocidos figuran el templo Nan Tian Gong de Ampang (Selangor), el templo Dou Mu Gong de Hong Kong Lane en Penang y el templo Dou Mu Gong de Butterworth."
   when: "Del primer al noveno día del noveno mes lunar, nueve días consecutivos (la víspera del primer día se invoca el agua y el noveno día se despide a las deidades como cierre)."
   etiquette: "Muchos devotos observan la dieta vegetariana (食斋, ayuno ritual), absteniéndose de carne durante uno, tres o los nueve días completos, y tradicionalmente evitan las cinco especias acres; suelen vestir de blanco y ceñir una banda amarilla a la cintura; durante el período festivo son frecuentes las procesiones en las que las deidades recorren las calles, y en algunos templos se practican austeridades como el caminar sobre el fuego o el atravesamiento de las mejillas, aunque las costumbres varían de un templo a otro."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Una multitud de devotos sosteniendo varillas de incienso ante un altar de templo flanqueado por dragones y colgado de farolillos amarillos durante el Festival de los Nueve Dioses Emperadores en Ipoh, con humo de incienso elevándose en primer plano.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En la víspera del día 1 del noveno mes lunar, una fila de fieles vestidos de blanco con una faja amarilla a la cintura sale del templo en orden, con varillas de incienso en la mano, y se dirige a la orilla de río o de mar más cercana. Delante, gongs y tambores; detrás, el humo del incienso: van a la 'invocación del agua' y a la 'recepción de los dioses', para escoltar a los Nueve Dioses Emperadores de regreso al templo. Durante los nueve días siguientes el incienso no cesa dentro del templo, y el aroma de la comida vegetariana flota afuera; la noche del día 9, la misma fila volverá a formarse a la orilla del agua para despedir a las deidades.

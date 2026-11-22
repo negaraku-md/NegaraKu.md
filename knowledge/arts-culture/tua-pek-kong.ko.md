@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: '시부(Sibu)의 대백공묘(大伯公, Tua Pek Kong Temple)의 붉고 금빛으로 화려하게 장식된 관문으로, 양옆에 금박을 입힌 수호 사자상이 서 있고 그 뒤로 7층 높이의 탑이 푸른 하늘을 배경으로 솟아 있다.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 페낭의 탄종 토콩(丹絨道光, Tanjung Tokong) 바닷가에 그리 크지 않은 사당 하나가 서 있다. 일 년 중 대부분은 조용하다. 그러나 정월대보름 무렵이 되면 상황은 완전히 달라진다. 향담, 징과 북, 긴 사람들의 행렬이 조지타운에서 줄지어 온다. 밤이 되면 사당 안의 모든 등불과 촛불이 꺼지고, 사람들이 화정을 둘러싸고 숨죽인 채 불을 부친다 — 불꽃이 얼마나 높이 치솟는지가 다가올 해에 대한 하나의 '예보'로 여겨진다. 이 사당이야말로 많은 이들의 마음속에서 투아 펙 콩 신앙의 발원지다.

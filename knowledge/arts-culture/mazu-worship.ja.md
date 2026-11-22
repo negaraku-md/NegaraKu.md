@@ -67,6 +67,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'クアラルンプールの天后宮（Thean Hou Temple）。段々の屋根から何百もの赤い提灯が滝のように連なって吊るされ、前庭には龍の装飾を施した香炉があり、本殿では参拝者が祈りを捧げている。'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 クアラルンプールの楽聖嶺（Robson Heights）の小高い丘の上に、赤い柱と瑠璃瓦の六階建ての廟が街を見下ろして建っている——これが楽聖嶺天后宮であり、華人世界で最も名高い海の女神・媽祖を祀っている。かつて海路で南来した華人は、海を渡る前後に無事を祈って彼女に祈願した。今日ここは、参拝者が線香を供える廟であると同時に、海南の同郷人が集う場であり、観光客が写真を撮る名所でもある。

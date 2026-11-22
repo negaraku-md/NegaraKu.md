@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["savoir-vivre maison ouverte malaisienne", "étiquette rumah terbuka", "invité maison ouverte Malaisie", "savoir-vivre maison ouverte Hari Raya", "quoi porter maison ouverte Malaisie", "duit raya ang pow invité", "savoir-vivre foyer halal Malaisie", "coutumes visite foyer malaisien"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'Une vue en plongée d''un festin de Hari Raya disposé sur une table, avec des marmites de rendang de bœuf et de curry de légumes, un plat de sambal et des assiettes d''étuis de ketupat tressés et de riz compressé tranché.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vous avez été invité à un *rumah terbuka* — une maison ouverte. C'est peut-être

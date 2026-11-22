@@ -62,6 +62,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'மலாக்காவில் உள்ள பாபா நியோன்யா பாரம்பரிய அருங்காட்சியகத்தின் (Baba Nyonya Heritage Museum) ஒரு பெரநாக்கன் வரவேற்பு மண்டபம், தங்க முலாம் பூசிச் செதுக்கப்பட்ட கருங்காலி திரைகள், முத்துச்சிப்பி பதித்த மரச்சாமான்கள், பளிங்கு மேற்பரப்புடைய வட்ட மேசை மற்றும் சுவர்களில் வர்ணம் பூசிய பறவை-மலர் பலகைகளுடன்.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலாக்காவின் Heeren Street-இல் உள்ள ஒரு பழைய நகர்ப்புற வீட்டிற்குள் நுழையுங்கள் — யாரும் ஒரு வார்த்தை கூறுவதற்கு முன்பே பொருட்களே கதையைச் சொல்கின்றன. முன்பக்கத்தில் மூன்று-துண்டு தங்கப் பொத்தானால் பொருத்தப்பட்ட, இறுக்கமாகப் பொருந்திய லேஸ் ரவிக்கை. ஆயிரக்கணக்கான சிறிய கண்ணாடி மணிகளால் விரல்நுனிகள் மூடப்பட்ட, ஒவ்வொன்றும் கையால் தைக்கப்பட்ட ஒரு ஜோடி செருப்புகள். சீனமும் அல்ல, மலாயும் அல்ல எனும் ஒரு உணவுக்காக அமைக்கப்பட்ட நீளமான பளிங்கு-மேற்பரப்பு மேசை. இவை Peranakan-களுக்கு — Baba-Nyonya-க்கு — உரியவை; இரண்டு உலகங்களுக்கு இடையே வாழ்வதிலிருந்து ஒரு கலாசாரத்தை உருவாக்கிய ஒரு சமூகம்.

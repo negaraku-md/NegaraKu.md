@@ -78,6 +78,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["राष्ट्रीय सांस्कृतिक नीति", "dasar kebudayaan kebangsaan", "राष्ट्रीय सांस्कृतिक काँग्रेस 1971", "kongres kebudayaan kebangsaan 1971", "तीन सिद्धांत", "DAKEN 2021", "मलेशियाई संस्कृति", "राष्ट्रीय एकता", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'राष्ट्रीय रंगमंच इस्ताना बुदाया का मुख्य प्रवेश द्वार, जिसमें फैली हुई सिरिह-जुंजुंग छत, सुनहरा कमल प्रतीक और नक्काशीदार लकड़ी के दरवाजों तक जाती चौड़ी सीढ़ियाँ हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1971 में, [13 मई 1969 की घटना](/malaysia/13-may-1969) के लगभग दो वर्ष बाद, विद्वानों, कला-साधकों और नेताओं का एक समूह मलाया विश्वविद्यालय में एक बहु-जातीय राष्ट्र के लिए एक कठिन प्रश्न का उत्तर देने के लिए एकत्र हुआ: «राष्ट्रीय संस्कृति» से क्या आशय है? जो उत्तर उभरा — राष्ट्रीय सांस्कृतिक नीति (DKK) — वह आज तक एक नीति-संदर्भ बना हुआ है, और उतना ही, विवाद का विषय भी बना हुआ है।

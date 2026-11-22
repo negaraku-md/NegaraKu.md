@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'クアラルンプールのスリ・マハ・マリアマン寺院（Sri Maha Mariamman Temple）のそびえ立つ彫刻ゴープラム（gopuram）。看板に寺院名が記され、その下に彩色されたヒンドゥー教の神々の像が列をなし、前には通りと車の流れがある。'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアの古いゴム農園のほとんどすぐそば、そして町の中心部の年季の入った通り沿いには、マーリアンマン寺院を見つけることができます。黄土色の顔をしたアンマンの像、そして雨季の前に行われる祭り——それらは偶然ではなく、一世紀半を超えるタミル社会の歴史と信仰の伝統を担っています。

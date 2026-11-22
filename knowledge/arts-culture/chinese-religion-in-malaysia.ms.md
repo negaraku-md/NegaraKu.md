@@ -69,6 +69,13 @@ faq:
   - q: Siapakah Tua Pek Kong, dan di manakah tokong Tua Pek Kong yang tertua?
     a: Tua Pek Kong (大伯公) ialah dewa yang kuat berciri tempatan, dipuja secara meluas di tokong-tokong orang Cina di seluruh Malaysia. Tokong Tua Pek Kong yang tertua dikatakan terletak di Tanjung Tokong, Pulau Pinang, dan kepercayaannya kemudian tersebar ke seluruh Malaysia, Singapura dan Indonesia. Dalam bahasa Melayu, rumah ibadat sebegini dipanggil tokong; tokong terkenal yang lain termasuk Cheng Hoon Teng di Melaka dan Kuil Thean Hou di Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Bumbung berjubin yang melentik dan berhiaskan naga di Tokong Cina Thean Hou di Kuala Lumpur, dibingkai barisan tanglung merah tergantung berlatarkan langit biru.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Apabila anda melangkah ke dalam mana-mana kuil Cina di Malaysia, besar

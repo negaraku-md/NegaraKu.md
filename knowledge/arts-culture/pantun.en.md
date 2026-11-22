@@ -76,6 +76,13 @@ verificationNeeded:
   - "The maximum length of a long multi-stanza pantun differs between sources (some state up to 16 lines, others up to around 22 lines); the exact number is not uniform."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Malay performers in green and gold traditional costume with ornate headgear seated on the ground and making synchronised hand gestures during a dikir barat performance, hand drums in front of them.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

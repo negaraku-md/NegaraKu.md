@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["मलेशियाई ओपन हाउस शिष्टाचार", "रुमाह तरबुका शिष्टाचार", "ओपन हाउस मलेशिया मेहमान", "हरि राया ओपन हाउस शिष्टाचार", "मलेशिया ओपन हाउस में क्या पहनें", "दुइत राया आंग पाउ मेहमान", "मलेशिया हलाल घर शिष्टाचार", "मलेशियाई घर जाने के रिवाज़"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'मेज पर सजे एक हरि राया भोज का ऊपर से दृश्य, जिसमें बीफ रेंडांग और सब्जी करी के बर्तन, सांबल की एक तश्तरी, और बुने हुए केतुपत आवरण और कटे हुए संपीड़ित चावल की प्लेटें हैं।'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आपको एक *रुमाह तरबुका* (rumah terbuka) — एक खुले घर — में आमंत्रित किया गया है।

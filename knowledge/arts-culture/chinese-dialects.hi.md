@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "मलेशियाई चीनी बोलियाँ", "福建话", "होक्कियन", "广东话", "कैंटोनीज़", "客家话", "हक्का", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'कुआलालंपुर के चाइनाटाउन में जालान पेतालिंग के ऊपर हरे पैगोडा-छत वाला प्रवेश द्वार, जिस पर एक व्यस्त बाजार सड़क के ऊपर ''Petaling Street'' लिखा है, लाल लालटेन और चीनी दुकानों के साइनबोर्ड के साथ।'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 पेनांग की एक कॉफ़ी दुकान में आप होक्कियन में एक kopi मँगवाते हैं; कुआलालंपुर और इपोह में, वही कप कॉफ़ी कैंटोनीज़ में माँगी जाती है; और आगे सरावाक के सिबू की ओर बढ़ें, तो जो भी आपको परोसे, वह संभवतः फ़ूचाउ बोलेगा। तीनों चीनी मलेशियाई हैं — फिर भी वे तीन परस्पर अबोधगम्य ज़ुबानें बोल रहे हैं।

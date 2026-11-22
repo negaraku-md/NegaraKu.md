@@ -80,6 +80,13 @@ verificationNeeded:
   - "Hikayat Hang Tuah जैसी शास्त्रीय कृतियों के लेखक और वास्तविक तिथि अभी भी ठीक-ठीक निश्चित नहीं की जा सकती (अनुमानतः 15वीं से 17वीं शताब्दी)"
   - "A. Samad Said के पुरस्कार का वर्ष मुख्य सूची में 1985 दर्ज है पर उसी स्रोत के नेविगेशन बॉक्स में 1986 — 1985 के रूप में पुष्टि की गई"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'जावी लिपि में लिखी एक शास्त्रीय मलय साहित्यिक पांडुलिपि ताज अल-सलातीन (''राजाओं का मुकुट'') का सुनहरा, फूलों की किनारी वाला आरंभिक दोहरा पृष्ठ।'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक पुरानी पांडुलिपि में, Melaka के राजाओं की कथा, Hang Tuah की यात्रा, और एक साम्राज्य के पतन की कहानी अंकित है — किसी शुष्क ऐतिहासिक अभिलेख के रूप में नहीं, बल्कि पात्रों, संवादों और साहित्य से जीवंत कथा के रूप में। वह पांडुलिपि, *Sejarah Melayu* या *Sulalatus Salatin*, उन प्राचीनतम कृतियों में से एक है जो यह प्रमाणित करती हैं कि मलय भाषा के लेखन की परंपरा कितनी लंबी और समृद्ध है।

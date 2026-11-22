@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: '砂拉越一条河流之上、林木覆盖的山坡旁，一座架在木桩上的长长的伊班（Iban）木制长屋，是达雅（Dayak）族群的共居家园。'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 飞越婆罗洲内陆，你在一小时内所跨越的语言，比大多数国家全境的语言总数还要多。沙巴高地的一条河谷、砂拉越上巴南河（Baram）畔的一座长屋、沿海的一个渔村——每一处都可能以邻近山谷几乎听不懂的语言迎接你。

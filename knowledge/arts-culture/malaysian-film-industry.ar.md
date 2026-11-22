@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["صناعة السينما الماليزية", "السينما الماليزية", "industri filem Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'المنزل الخشبي الماليزي التقليدي المُرمَّم، مسقط رأس أسطورة السينما P. Ramlee، وهو الآن نُصب تذكاري، بسقف من القشّ ولوحة تذكارية في فنائه الأمامي المبلّط بالطوب.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في عام 1955، جلس شابٌّ كان في السابق حامل لوحة الترقيم (clapper) ومساعد مصوّر في استوديو برقم 8 جالان أمباس (Jalan Ampas) بسنغافورة، على كرسي الإخراج للمرة الأولى وهو في السادسة والعشرين. وكان الفيلم *بيناريك بيتشا (Penarek Becha)*. واسمه ب. رملي (P. Ramlee). تبدأ قصة صناعة السينما الماليزية لا في كوالالمبور، بل في استوديو سنغافوري يملكه شقيقان من شنغهاي — ولم تتوقف عن الحركة منذ ذلك الحين.

@@ -78,6 +78,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'L''entrée principale de l''Istana Budaya, le théâtre national, avec son vaste toit sirih junjung, un emblème de lotus doré et un large escalier menant à des portes en bois sculpté.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En 1971, environ deux ans après l'[incident du 13 mai 1969](/malaysia/13-may-1969), un groupe d'universitaires, d'acteurs des arts et de dirigeants s'est réuni à l'Université de Malaya pour répondre à une question difficile pour une nation multiraciale : qu'entend-on par « culture nationale » ? La réponse qui en a émergé — la Politique culturelle nationale (DKK) — demeure une référence de politique publique jusqu'à aujourd'hui, et demeure, dans la même mesure, un sujet de débat.

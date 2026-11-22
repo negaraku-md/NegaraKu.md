@@ -77,6 +77,13 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'பினாங்கு ஜார்ஜ் டவுனில் உள்ள அலங்கார Leong San Tong Khoo Kongsi குல சங்கக் கோயில், செழுமையாகச் செதுக்கப்பட்டு தங்க முலாம் பூசிய வழிபாட்டு மண்டபத்திற்கு மேலே அதன் கூரை முகடுகள் வர்ணம் பூசிய டிராகன்கள் மற்றும் சிற்பங்களால் நிறைந்துள்ளன.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பினாங்கின் பழைய தெருக்களில், ஒரு கடைத்தெரு முழுவதையும் தாங்கிநிற்கும் கடைகள் பெரும்பாலும் ஃபூக்கியன் மக்களின் வணிக நிறுவனங்களே; வெள்ளீயத்தால் செழித்த கோலாலம்பூர், ஈப்போ போன்ற நகரங்களில் சுரங்கங்களும் தொழிற்சங்கங்களும் கான்டனீஸ், ஹக்கா மக்களால் நிரம்பியிருந்தன; எந்த நகருக்குள் நுழைந்தாலும், ஹைனான் காப்பியையும் வெண்ணெயும் கயாவும் தடவிய டோஸ்ட்டையும் விற்கும் பழைய காப்பிக் கடையின் கவுண்டருக்குப் பின்னால் பெரும்பாலும் ஒரு ஹைனானீஸ் நிற்கிறார்.

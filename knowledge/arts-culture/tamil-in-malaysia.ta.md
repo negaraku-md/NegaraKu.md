@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'கெடா மாநிலம் சாங்லூனில் உள்ள ஒரு தமிழ்வழிப் பள்ளியின் வாயில் பெயர்ப்பலகை, ஆங்கிலப் பெயரான S.J.K (Tamil) Changlun-க்கு மேலே தமிழ் எழுத்தில் எழுதப்பட்டுள்ளது, பின்னால் பள்ளிக் கட்டிடம்.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலாயாவின் பழைய ரப்பர் தோட்டங்களில், ஆரம்பகாலப் பள்ளியறைகளில் சில கொட்டகைகளாகவும் குடிசைகளாகவும் இருந்தன, பாடங்கள் தமிழில் நடந்தன. மலேசிய வரலாற்றுச் சங்கத்தின் (Malaysian Historical Society) இதழில் வெளியான ஒரு வரலாற்று ஆய்வின்படி, இருபதாம் நூற்றாண்டின் தொடக்கத்திலிருந்து தோட்டங்களில் தமிழில் அடிப்படைத் தொடக்கக் கல்வி வழங்கப்பட்டது; அது அன்றைய தொழிலாளர் விதிகளின் கீழ் ஏற்பாடு செய்யப்பட்டது, மேலும் நீண்ட காலமாக பயிற்சி பெற்ற ஆசிரியர்களைவிட எழுத்தர்களாலும் பகுதி-நேரப் பணியாளர்களாலும் கற்பிக்கப்பட்டது.

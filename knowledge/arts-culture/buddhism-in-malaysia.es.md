@@ -70,6 +70,13 @@ faq:
   - q: ¿Qué conmemora el Wesak? ¿Es un día festivo?
     a: El Wesak (Día de Wesak) conmemora el nacimiento, la iluminación y el paso al nirvana de Buda, y es un día festivo de ámbito nacional en Malasia. Los fieles acuden a los templos para ofrecer flores, encender lámparas y dar limosna. La libertad religiosa está protegida por el Artículo 11 de la Constitución Federal; aunque el Artículo 3 establece el islam como religión de la Federación, no impide que otras religiones se practiquen en paz.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'El templo budista Kek Lok Si en una ladera de Penang, con su amplio tejado de tejas doradas, terrazas escalonadas adornadas con farolillos rojos y una fuente-pagoda en el patio.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En las laderas de Penang, la silueta de las pagodas del templo Kek Lok Si domina

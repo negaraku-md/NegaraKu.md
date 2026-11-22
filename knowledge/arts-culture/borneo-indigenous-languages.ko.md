@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: '사라왁의 강을 내려다보는 숲이 우거진 언덕 비탈에 나무 기둥 위로 세워진 길쭉한 이반(Iban)족 목조 롱하우스로, 다약(Dayak) 공동체의 공동 주거지다.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 보르네오의 내륙 위를 날면, 대부분의 나라가 통틀어 지닌 것보다 많은 언어를 한 시간 안에 지나갑니다. 사바 고지대의 한 강 골짜기, 사라왁 상류 바람강(Baram)의 한 롱하우스, 해안의 한 어촌 — 저마다 옆 골짜기가 거의 알아듣지 못하는 말로 당신을 맞이할 수 있습니다.

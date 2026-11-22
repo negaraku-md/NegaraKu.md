@@ -76,6 +76,13 @@ verificationNeeded:
   - "较长的多行 pantun 的最大长度在不同来源之间有所差异（部分称多达16行，另一些称约22行）；确切数字并不一致。"
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: '身着绿金两色传统服饰、佩戴华丽头饰的马来表演者席地而坐，在一场迪基巴拉（dikir barat）表演中做出整齐划一的手势，面前摆着手鼓。'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

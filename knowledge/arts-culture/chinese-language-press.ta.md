@@ -78,6 +78,13 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'மிரியில் உள்ள சீன மொழி நாளிதழான Sin Chew Daily-இன் வெண்ணிற அலுவலகக் கட்டிடம், அதன் பெயர் முகப்பு மற்றும் வாயில் சுவரில் ஆங்கிலம் மற்றும் சீன எழுத்துக்களில் காட்டப்பட்டுள்ளது.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 அதிகாலை கோப்பித் தங்கையில் (kopitiam), விரித்து வைக்கப்பட்ட ஒரு சீன இதழ் பெரும்பாலும் ஒரு கோப்பை காபியுடன் அருகருகே இருக்கும். வாசகர்கள் முதல் பக்கத்தின் உள்நாட்டு, வெளிநாட்டு பெரும் செய்திகளைப் புரட்டிவிட்டு, தங்களுக்கு மிகவும் பரிச்சயமான பக்கங்களுக்கு நேராகச் செல்வர் — சிலர் முதலில் எந்தச் சீனப் பள்ளி அறக்கட்டளை விற்பனை நடத்தியது என்ற உள்ளூர்ச் செய்தியைப் பார்ப்பர், சிலர் இலக்கிய இணைப்பையும் கருத்துப் பக்கத்தையும் புரட்டுவர், சிலர் இறப்பு அறிவிப்புகள், வகைப்படுத்தப்பட்ட விளம்பரங்கள், சீட்டு முடிவுகளுக்காக மட்டுமே இதழைப் பார்ப்பர். பல மலேசியச் சீனர்களுக்கு, சீன இதழ் என்பது வெறும் செய்தி மட்டுமல்ல, நாளும் தொடரும் சீன மொழி வாசிப்புப் பழக்கமும்கூட.

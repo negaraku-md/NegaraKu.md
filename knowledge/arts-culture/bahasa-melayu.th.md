@@ -94,6 +94,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'อาคารสูงของทบวงภาษาและวรรณกรรม (Dewan Bahasa dan Pustaka) ในกัวลาลัมเปอร์ มีชื่อสะกดอยู่บนฐานอาคาร เป็นสำนักงานใหญ่ขององค์กรด้านภาษาและวรรณกรรมแห่งชาติ มองจากถนน'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ที่กัวลาเบอรัง (Kuala Berang) ตรังกานู มีการค้นพบจารึกหินก้อนหนึ่งที่บนนั้นสลักคำมลายู — ไม่ใช่ในอักษรที่เรารู้จักในปัจจุบัน แต่ในอักษรอาหรับที่ปรับให้เข้ากับเสียงมลายู ตามหอจดหมายเหตุแห่งชาติมาเลเซีย จารึกนั้นมีอายุ ค.ศ. 1303

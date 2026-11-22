@@ -94,6 +94,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'Une fresque murale colorée portant l''inscription Selamat Datang ke KOA Lubuk Legong devant le bâtiment d''une école de village au toit de tuiles, encadrée d''arbres verts.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bien avant que le nom de Malaisie n'existe sur aucune carte, des communautés habitaient déjà les forêts, les hautes terres et les côtes de la péninsule. On les connaît aujourd'hui collectivement sous le nom d'Orang Asli, une expression malaise signifiant «peuple originel» ou «habitants originels».

@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["الأدب الماليزي", "sastera Malaysia", "أديب الأمة", "Sasterawan Negara", "جائزة الأدب الوطني", "Anugerah Sastera Negara", "الأدب الوطني", "مجلس اللغة والأدب", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'مبنى ديوان بهاسا دان بوستاكا في كوالالمبور، وتغطّي واجهته المنحنية جدارية كبيرة تصوّر الحياة الماليزية، واسمه ظاهر جزئياً على برج المكاتب الأحمر المجاور له.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قبل أن تُوجد الروايات وقبل أن يُوجد مجلس للغة، كان راوٍ قد صاغ بالفعل أبطالاً ملايويين في باحة قصر ملقا. ومن ذلك التقليد الشفوي نما واحد من أغنى الموروثات الأدبية في المنطقة — تقليد يُحتفى به اليوم بلقب وطني، وبمئات الآلاف من الرينغيت، وبمقعد تشريف في حضارة الأمة.

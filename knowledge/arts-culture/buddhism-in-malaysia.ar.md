@@ -70,6 +70,13 @@ faq:
   - q: ماذا يُحيي عيد ويساك؟ وهل هو عطلة رسمية؟
     a: يحيي ويساك (يوم ويساك) ذكرى ميلاد بوذا واستنارته وانتقاله إلى النيرفانا، وهو عطلة رسمية على مستوى البلاد في ماليزيا. يذهب المؤمنون إلى المعابد لتقديم الأزهار وإضاءة المصابيح والتصدق. حرية الدين مكفولة بموجب المادة 11 من الدستور الاتحادي؛ ومع أن المادة 3 تنص على أن الإسلام هو دين الاتحاد، فإنها لا تمنع ممارسة الأديان الأخرى بسلام.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'معبد كيك لوك سي البوذي على سفح التل في بينانغ، بسقفه المكسوّ بالقرميد الذهبي الممتد، ومصاطبه المتدرجة المزيّنة بالفوانيس الحمراء ونافورة على شكل باغودا في الفناء.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 على سفح جبل في بينانغ، يطل ظلّ برج معبد كيك لوك سي على مدينة جورج تاون؛ وفي حي

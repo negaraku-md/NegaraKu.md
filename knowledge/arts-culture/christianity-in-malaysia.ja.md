@@ -72,6 +72,13 @@ faq:
   - q: マレーシア・キリスト教連盟とは何で、どの団体をまとめているのですか?
     a: 1985年に結成されたマレーシア・キリスト教連盟(Christian Federation of Malaysia、CFM)は、主要な統括団体です。マレーシアのキリスト教の三つの潮流、すなわちカトリック司教協議会(Catholic Bishops' Conference)、マレーシア教会協議会(Council of Churches of Malaysia、主流派プロテスタント)、全国福音主義キリスト教フェローシップ(National Evangelical Christian Fellowship)をまとめています。CFMは、国内の教会の95%以上を代表しているとしており、その多くはサバ州とサラワク州のマレー語を話す会衆です。
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'マラッカのセントポールの丘（St Paul''s Hill）に立つ16世紀のセントポール教会（St Paul''s Church）の白く塗られた石造りの廃墟。手前には聖フランシスコ・ザビエル（St Francis Xavier）の大理石像が立つ。'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアのキリスト教の物語には二つの重心があり、そのどちらも首都にはない。

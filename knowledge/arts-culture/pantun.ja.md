@@ -76,6 +76,13 @@ verificationNeeded:
   - "長い連のパントゥンの最大の長さの上限は資料によって異なる（16行までとする資料もあれば、約22行までとする資料もある）；確定した数は一様でない。"
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: '緑と金の伝統衣装をまとい華やかな頭飾りをつけたマレーの演者たちが地面に座り、ディキル・バラ（dikir barat）の公演で揃った手振りを見せる。前には手太鼓が置かれている。'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

@@ -69,6 +69,13 @@ faq:
   - q: Siapakah Tua Pek Kong, dan di manakah kelenteng Tua Pek Kong tertua?
     a: Tua Pek Kong (大伯公) adalah dewa yang berciri lokal yang kuat, dipuja secara luas di kelenteng-kelenteng Tionghoa di seluruh Malaysia. Kelenteng Tua Pek Kong tertua dikatakan berada di Tanjung Tokong, Penang, dan kepercayaannya kemudian menyebar ke seluruh Malaysia, Singapura, dan Indonesia. Dalam bahasa Melayu, rumah ibadah seperti ini disebut tokong; kelenteng terkenal lainnya mencakup Cheng Hoon Teng di Malaka dan Kuil Thean Hou di Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Atap berubin yang melengkung ke atas dan berhias naga pada Kuil Tionghoa Thean Hou di Kuala Lumpur, dibingkai barisan lampion merah yang tergantung dengan latar langit biru.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Masuklah ke kuil Tionghoa mana pun di Malaysia, dan Anda kemungkinan besar akan

@@ -78,6 +78,13 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: '国家剧院文化宫（Istana Budaya）的正门，有舒展的“sirih junjung”造型屋顶、金色莲花徽饰，以及通向雕花木门的宽阔台阶。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1971年，即[1969年五一三事件](/malaysia/13-may-1969)约两年之后，一群学者、艺术工作者与领袖聚集在马来亚大学，共同回答一个对多元种族国家而言颇为棘手的问题：什么才是"国家文化"？由此产生的答案——国家文化政策（Dasar Kebudayaan Kebangsaan，DKK）——至今仍是政策的参照依据，同时也仍然是争论的话题。

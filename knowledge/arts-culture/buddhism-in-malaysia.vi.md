@@ -70,6 +70,13 @@ faq:
   - q: Lễ Wesak kỷ niệm điều gì? Đó có phải là ngày nghỉ lễ công cộng không?
     a: Wesak (Ngày Wesak) kỷ niệm sự đản sinh, thành đạo và nhập niết bàn của Đức Phật, và là ngày nghỉ lễ công cộng trên toàn quốc tại Malaysia. Tín đồ đến chùa dâng hoa, thắp đèn và bố thí. Tự do tôn giáo được bảo vệ bởi Điều 11 của Hiến pháp Liên bang; tuy Điều 3 quy định Hồi giáo là tôn giáo của Liên bang, nhưng điều đó không ngăn cản các tôn giáo khác được thực hành trong hòa bình.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'Chùa Phật giáo Kek Lok Si trên sườn đồi ở Penang, với mái ngói vàng trải rộng, các bậc thềm xếp tầng treo đèn lồng đỏ và một đài phun nước hình bảo tháp trong sân.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trên những sườn đồi ở Penang, bóng tháp của chùa Cực Lạc (Kek Lok Si) trông

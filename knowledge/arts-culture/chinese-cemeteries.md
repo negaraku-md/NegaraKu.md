@@ -74,6 +74,13 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: '马六甲三宝山（Bukit China）墓葬山上，一座大型马蹄形的华人坟墓，刻有镀金碑文和雕花侧板，嵌在树木之间长满草的土丘中。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 清明前后，天还没全亮，马六甲三宝山脚下已经停满了车。一家家人提着鲜花、香烛与祭品，沿着起伏的山坡走向自家祖坟。有人先在墓旁一方刻着「后土」的小石龛前上香，再转身清理先人的墓碑——除草、重描褪色的刻字，然后摆上供品。山坡上密密麻麻、坐向一致的坟墓，是一代又一代南来华人的安息之地。

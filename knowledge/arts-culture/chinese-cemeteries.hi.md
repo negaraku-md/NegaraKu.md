@@ -75,6 +75,13 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'मेलाका की बुकित चीना कब्रिस्तान पहाड़ी पर पेड़ों के बीच घास वाले टीले में बना एक बड़ा घोड़े की नाल के आकार का चीनी मकबरा, जिस पर सुनहरे शिलालेख और नक्काशीदार बगल के पैनल हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 चिंगमिंग के आसपास, आकाश पूरी तरह उजला होने से पहले ही, मलक्का की बुकित चीना की तलहटी खड़ी गाड़ियों से भर जाती है। एक के बाद एक परिवार ताज़े फूल, अगरबत्ती, मोमबत्तियाँ और भेंट लिए उबड़-खाबड़ ढलानों पर अपने पूर्वजों की कब्रों की ओर चढ़ते हैं। कुछ लोग पहले कब्र के पास 'होउतू' अक्षर उकेरी एक छोटी पत्थर की कोठरी पर अगरबत्ती चढ़ाते हैं, फिर पलटकर पूर्वज की समाधि-शिला की देखभाल करते हैं — खरपतवार हटाते, फीके पड़े उकेरे अक्षरों को फिर से रंगते, और भेंट सजाते हैं। ढलान पर घनी, एक ही दिशा में मुख किए कब्रें, दक्षिण की ओर आए पीढ़ी-दर-पीढ़ी चीनियों का विश्राम-स्थल हैं।

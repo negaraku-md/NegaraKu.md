@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'クアラルンプールのチャイナタウン、ジャラン・プタリン（Jalan Petaling）にかかる緑色の塔形屋根の門。「Petaling Street」と記され、赤い提灯と中国語の店看板が賑やかな市場通りの上に掲げられている。'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ペナンのコーヒーショップでは、福建語で「コピ」を一杯注文する。クアラルンプールやイポーに行けば、同じ一杯のコーヒーは広東語で注文することになる。さらにサラワクのシブまで行けば、あなたを迎えるのはおそらく福州語だろう。三か所の人々はいずれも華人でありながら、話しているのは互いに通じ合わない三つの言葉である。

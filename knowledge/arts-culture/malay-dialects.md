@@ -76,6 +76,13 @@ social:
 verificationNeeded:
   - "Bilangan dan sempadan kumpulan dialek berbeza mengikut skema ahli dialektologi (empat kelompok Ismail Hussein 1973; tujuh kumpulan Asmah Haji Omar; senarai yang lebih terperinci) dan tidak sepenuhnya sepakat. Status bahasa Melayu baku sebagai 'berasaskan Johor-Riau' serta sejarah dasar sebutan baku berbanding sebutan Johor-Riau perlu disemak dengan terbitan rasmi DBP. Hubungan dialek Negeri Sembilan dengan bahasa Minangkabau (keturunan penghijrah berbanding kedekatan linguistik dengan bahasa Melayu baku) dan status Baba Melayu sebagai bahasa kreol masih diperdebatkan dalam kalangan sarjana."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'Sebuah rumah kayu Melayu Pahang tradisional yang dibina di atas tiang, dengan bumbung berjubin curam, papan tepi bumbung berukir dan tangga kayu beratap, terletak di atas halaman berumput hijau.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seorang penutur dari Kota Bharu, seorang dari Alor Setar dan seorang dari Kuching mungkin sama-sama berkata mereka bertutur dalam bahasa Melayu — tetapi apabila mereka bersembang secara santai di kampung masing-masing, bunyinya boleh sangat berbeza sehingga memerlukan sedikit penyesuaian untuk saling memahami. Perbezaan inilah yang disebut dialek, atau dalam bahasa harian, loghat.

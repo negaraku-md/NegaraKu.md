@@ -70,6 +70,13 @@ faq:
   - q: Apa yang diperingati pada Wesak? Apakah itu hari libur umum?
     a: Wesak (Hari Wesak) memperingati kelahiran, pencerahan, dan wafatnya Buddha menuju nirwana, dan merupakan hari libur umum di seluruh Malaysia. Para penganut pergi ke kuil untuk mempersembahkan bunga, menyalakan pelita, dan bersedekah. Kebebasan beragama dilindungi oleh Pasal 11 Konstitusi Federal; meskipun Pasal 3 menetapkan Islam sebagai agama Federasi, hal itu tidak menghalangi agama lain untuk dijalankan secara damai.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'Kuil Buddha Kek Lok Si di lereng bukit di Penang, dengan atap berubin emas yang melengkung luas, teras bertingkat berhias lampion merah dan air mancur pagoda di halaman.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di lereng bukit Pulau Pinang, bayangan pagoda Kek Lok Si menatap George Town; di

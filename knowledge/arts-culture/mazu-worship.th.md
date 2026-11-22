@@ -67,6 +67,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'วัดเทียนโหว (Thean Hou Temple) ในกัวลาลัมเปอร์ มีโคมแดงหลายร้อยดวงห้อยลดหลั่นเป็นสายจากหลังคาซ้อนชั้น กระถางธูปประดับมังกรบนลานด้านหน้า และผู้มาสักการะที่วิหารหลัก'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 บนเนินเขาเล็ก ๆ ที่รอบสันไฮตส์ (Robson Heights) ในกัวลาลัมเปอร์ มีวัดหกชั้นเสาแดงหลังคากระเบื้องเคลือบตั้งตระหง่านมองลงมายังเมือง นี่คือวัดเทียนโฮ่ว ซึ่งประดิษฐานเทพีแห่งท้องทะเลที่มีชื่อเสียงที่สุดในโลกของชาวจีน นั่นคือหม่าจู่ ในอดีต ชาวจีนที่อพยพลงใต้ทางทะเลมักอธิษฐานขอความปลอดภัยจากเธอทั้งก่อนและหลังการข้ามทะเล ทุกวันนี้ที่นี่เป็นทั้งวัดที่ผู้ศรัทธามาจุดธูปบูชา เป็นที่รวมตัวของชาวไหหลำร่วมถิ่น และเป็นสถานที่ที่นักท่องเที่ยวมาถ่ายภาพ

@@ -85,6 +85,13 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: '经修复的传统马来木屋，是电影传奇人物 P. Ramlee 的出生地，如今成为纪念馆，有茅草屋顶，砖砌前庭上立着纪念牌匾。'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1955 年，一位曾在新加坡安巴士路 8 号某片厂担任场记（*clapper*）小工和助理摄影的年轻人，26 岁那年第一次坐上导演椅。那部电影是《Penarek Becha》（三轮车夫）。他的名字叫 P. Ramlee。马来西亚电影业的故事并非始于吉隆坡，而是始于一家由两位来自上海的兄弟拥有的新加坡片厂——而自那时起，它便从未停止前行。

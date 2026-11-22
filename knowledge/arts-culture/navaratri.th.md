@@ -72,6 +72,13 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'การจัดแสดงโกลู (Kolu) แบบลดหลั่นในเทศกาลนวราตรี (Navaratri) คลุมด้วยผ้าสีเขียว ชั้นบนสุดประดิษฐานทศาวตารของพระวิษณุ (Vishnu) และชั้นล่าง ๆ เต็มไปด้วยรูปเทพเจ้าฮินดูและตุ๊กตาที่ระบายสีสดใส'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในช่วงนวราตรี ตามผนังด้านหนึ่งของห้องรับแขกในบ้านฮินดูทมิฬแห่งหนึ่งในมาเลเซีย จะมีการตั้งชั้นขั้นบันไดจำนวนคี่ขึ้นมา บนขั้นที่คลุมด้วยผ้าเหล่านั้น เทวรูปและตุ๊กตาที่เล่าเรื่องฉากต่าง ๆ จากปกรณัมจะถูกจัดเรียงเป็นแถว พอตกเย็น ญาติมิตรและเพื่อนบ้านจะมาชม **โกลู** นี้ เสียงเพลงดังกังวาน และแขกที่กลับจะได้รับธัมพูลัมและของหวาน นี่ไม่ใช่งานเพียงวันเดียว — หากเป็นเครื่องหมายของเทศกาลที่ทอดยาวตลอดเก้าคืน

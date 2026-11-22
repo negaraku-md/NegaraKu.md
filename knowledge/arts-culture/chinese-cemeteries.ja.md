@@ -75,6 +75,13 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'マラッカの三宝山（Bukit China）墓地の丘にある、金文字の碑文と彫刻を施した側壁を備えた大きな馬蹄形の華人の墓。木立の中の草に覆われた塚に築かれている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 清明の前後、空がすっかり明るくなる前から、マラッカの三宝山（ブキッ・チナ）のふもとにはすでに車がびっしりと停まっています。家族連れが生花・線香・ろうそく・供え物を手に、起伏のある斜面を自家の祖先の墓へと登っていきます。まず墓のかたわらの「后土」と刻まれた小さな石の祠に線香を上げ、それから向きを変えて祖先の墓石を手入れする人もいます——草を取り、薄れた刻字を描き直し、供え物を並べます。斜面にびっしりと並び、向きのそろった墓は、代々南へ渡ってきた華人たちの安らぎの地です。

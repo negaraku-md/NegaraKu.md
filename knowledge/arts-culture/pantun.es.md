@@ -76,6 +76,13 @@ verificationNeeded:
   - "El límite máximo de longitud del pantun de estrofa larga varía según las fuentes (algunas mencionan hasta 16 versos, otras hasta unos 22 versos); la cantidad exacta no es uniforme."
 framework: history-culture
 wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Artistas malayos con trajes tradicionales verdes y dorados y tocados ornamentados, sentados en el suelo y haciendo gestos sincronizados con las manos durante una actuación de dikir barat, con tambores de mano delante de ellos.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > Pisang emas dibawa belayar,

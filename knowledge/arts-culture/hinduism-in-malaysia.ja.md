@@ -72,6 +72,13 @@ faq:
   - q: なぜヌグリ・スンビラン、スランゴール、ペラといった州にヒンドゥー教徒が多く住んでいるのですか。
     a: これらの州は、かつてのゴム農園や錫鉱山の地域と重なっています——英植民地時代にインド人労働者が多数定住したのがまさにそこでした。2020年の国勢調査では、ヌグリ・スンビラン(約13.1%)、スランゴール(約10.3%)、ペラ(約9.7%)が高い割合を示しました。その多くは、カンガニ(kangani)制度のもとで南インドから農園労働のために渡ってきた人々の子孫です。
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'クアラルンプール中心部のスリ・マハマリアマン寺院（Sri Mahamariamman Temple）の高く色鮮やかに彫刻されたゴープラム（gopuram）塔。参拝者が立つ寺院入口の上に、ヒンドゥー教の神々の像がびっしりと並ぶ。'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアのどの町でも、古いゴム農園のはずれや、都市中心部の由緒ある通りに、

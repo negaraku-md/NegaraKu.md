@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["सबा और सरावाक की स्वदेशी भाषाएँ", "indigenous languages Sabah Sarawak", "बोर्नियो की भाषाएँ", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'सारावाक में एक नदी के ऊपर जंगली पहाड़ी ढलान पर लकड़ी के खंभों पर खड़ा एक लंबा लकड़ी का इबान लॉन्गहाउस, एक दयाक समुदाय का सामूहिक घर।'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 बोर्नियो के भीतरी हिस्से के ऊपर से उड़ें तो आप एक घंटे में इतनी भाषाओं को पार कर जाते हैं जितनी अधिकांश देशों में कुल मिलाकर होती हैं। सबा के उच्चभूमि की एक नदी-घाटी, सरावाक के ऊपरी बारम पर एक लॉन्गहाउस, एक तटीय मछुआरा गाँव — हर एक आपका अभिवादन ऐसी भाषा में कर सकता है जिसे अगली घाटी मुश्किल से समझती है।

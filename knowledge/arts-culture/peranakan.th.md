@@ -61,6 +61,13 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'ห้องรับรองแบบเปอรานากัน (Peranakan) ที่พิพิธภัณฑ์มรดกบาบ๋าหญ่าหยา (Baba Nyonya Heritage Museum) ในมะละกา มีฉากไม้มะเกลือแกะสลักปิดทอง เฟอร์นิเจอร์ฝังมุก โต๊ะกลมหน้าหินอ่อน และแผงภาพวาดนกและดอกไม้บนผนัง'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เดินเข้าไปในเรือนแถวเก่าบนถนนฮีเริน (Heeren Street) ของมะละกา แล้วเรื่องราวจะถูกบอกเล่าผ่านวัตถุก่อนที่ใครจะเอ่ยคำใด เสื้อลูกไม้เข้ารูปที่กลัดด้านหน้าด้วยเข็มกลัดทองสามชิ้น รองเท้าคู่หนึ่งที่ปลายเท้าปกคลุมด้วยลูกปัดแก้วเล็ก ๆ นับพันเม็ด แต่ละเม็ดร้อยด้วยมือ โต๊ะยาวหน้าหินอ่อนที่จัดสำรับซึ่งไม่ค่อยเป็นจีนแท้และไม่ค่อยเป็นมลายูแท้ สิ่งเหล่านี้เป็นของชาวเปอรานากัน — บาบา-ยอนยา — ชุมชนที่สร้างวัฒนธรรมขึ้นจากการดำรงอยู่ระหว่างสองโลก

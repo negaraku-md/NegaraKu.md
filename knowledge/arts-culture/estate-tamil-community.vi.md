@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'Những dãy nhà thấp của trường SJK(T) Ladang Sungai Getah, một trường tiểu học dạy bằng tiếng Tamil được ghi tên trên biển hiệu, phục vụ một cộng đồng đồn điền cao su, nhìn từ ven đường.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ở ven rìa nhiều thị trấn cổ của Malaysia, một đồn điền cao su từng trải dài xanh ngát nay đã trở thành khu dân cư chật kín nhà cửa và những dãy phố buôn bán. Giữa những tòa nhà mới ấy, đôi khi vẫn còn một ngôi đền Amman cũ hay một trường Tamil nhỏ đứng sót lại — như dấu ấn không phai của một cộng đồng đã bị dời đi.

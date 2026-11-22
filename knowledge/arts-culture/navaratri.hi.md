@@ -72,6 +72,13 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'हरे कपड़े से ढका एक स्तरित नवरात्रि कोलू प्रदर्शन, जिसकी सबसे ऊपरी सीढ़ी पर विष्णु के दस अवतार हैं और निचली सीढ़ियाँ हिंदू देवताओं की चमकीले रंग की मूर्तियों और पुतलों से भरी हैं।'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 नवरात्रि के दिनों में, मलेशिया के किसी तमिल हिंदू घर के बैठक-कक्ष की एक ओर की दीवार के सहारे विषम संख्या में सीढ़ीनुमा चरणें खड़ी की जाती हैं। कपड़े से ढकी उन चरणों पर देव-प्रतिमाएँ और पौराणिक दृश्यों को बताने वाली गुड़िया पंक्तियों में सजाई जाती हैं। साँझ ढले रिश्तेदार और पड़ोसी उस **गोलू** को देखने आते हैं; गीत गूँजते हैं; और विदा होते अतिथियों को थांबूलम तथा मिठाई दी जाती है। यह एक दिन का आयोजन नहीं — यह नौ रातों तक फैले एक पर्व की पहचान है।

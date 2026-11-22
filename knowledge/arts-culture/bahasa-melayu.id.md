@@ -94,6 +94,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'Menara tinggi Dewan Bahasa dan Pustaka di Kuala Lumpur, namanya terpampang di sepanjang podium, markas badan bahasa dan sastra nasional yang terlihat dari jalan.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Di Kuala Berang, Terengganu, ditemukan sebuah prasasti batu yang padanya terpahat kata-kata Melayu — bukan dalam huruf yang kita kenal hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi Melayu. Menurut Arsip Nasional Malaysia, prasasti itu bertanggal 1303 Masehi.

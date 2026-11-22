@@ -97,6 +97,13 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["آداب البيت المفتوح الماليزي", "آداب رومه تربوكا", "ضيف البيت المفتوح في ماليزيا", "آداب بيت عيد الفطر المفتوح", "ماذا ألبس في البيت المفتوح الماليزي", "دويت رايا آنغ باو للضيف", "آداب البيت الحلال في ماليزيا", "عادات زيارة البيت الماليزي"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'منظر علوي لمأدبة عيد الفطر (هاري رايا) ممدودة على طاولة، فيها قدور من رندانغ اللحم وكاري الخضار، وطبق من السامبال، وصحون من أغلفة الكتوبات المنسوجة والأرز المضغوط المقطّع.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 لقد دُعيت إلى *rumah terbuka* — بيت مفتوح. ربما يكون عيد فطر لزميل، أو رأس

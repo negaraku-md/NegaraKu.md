@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'Một ngôi nhà dài Iban bằng gỗ nằm trên những cột gỗ dọc theo sườn đồi rừng rậm phía trên một con sông ở Sarawak, ngôi nhà chung của một cộng đồng Dayak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bay qua vùng nội địa của Borneo và bạn vượt qua nhiều ngôn ngữ hơn trong một giờ so với hầu hết các nước có tổng cộng. Một thung lũng sông ở vùng cao nguyên của Sabah, một nhà dài trên thượng nguồn sông Baram ở Sarawak, một làng chài ven biển — mỗi nơi có thể chào bạn bằng một tiếng nói mà thung lũng kế bên khó hiểu được.

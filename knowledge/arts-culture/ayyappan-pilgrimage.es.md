@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'Un templo hindú de Ayyappan brillantemente iluminado de noche, con tejados escalonados al estilo de Kerala, pilares iluminados en dorado y un pequeño santuario de la deidad que corona la entrada.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En los últimos meses del año, una escena se repite en muchas localidades de Malasia: hombres vestidos de negro o azul, con un rosario de rudraksha al cuello y la barba crecida, que se dirigen entre sí como "Swami". Son los devotos del voto de Ayyappan, muchos de ellos preparándose para viajar a Sabarimala, en Kerala. Este artículo describe esa devoción y las tradiciones del voto de manera neutral; no explica ni evalúa creencia alguna.

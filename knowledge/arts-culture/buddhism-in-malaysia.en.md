@@ -70,6 +70,13 @@ faq:
   - q: What does Wesak commemorate? Is it a public holiday?
     a: Wesak (Wesak Day) commemorates the birth, enlightenment and passing into nirvana of the Buddha, and is a nationwide public holiday in Malaysia. Devotees go to temples to offer flowers, light lamps and give alms. Religious freedom is protected by Article 11 of the Federal Constitution; although Article 3 establishes Islam as the religion of the Federation, it does not prevent other religions from being practised in peace.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'The hillside Kek Lok Si Buddhist temple in Penang, with its sweeping gold-tiled roof, tiered terraces lined with red lanterns and a pagoda fountain in the courtyard.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 On the hills of Penang, the silhouette of Kek Lok Si looks down over George Town;

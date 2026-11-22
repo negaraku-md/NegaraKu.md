@@ -94,6 +94,13 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: '쿠알라룸푸르에 우뚝 솟은 언어출판국(Dewan Bahasa dan Pustaka) 타워로, 기단부에 그 이름이 적혀 있으며 국가 어문 기관 본부를 길에서 바라본 모습이다.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 트렝가누(Terengganu) 쿠알라 브랑(Kuala Berang)에서, 말레이어 낱말이 새겨진 한 돌 비문이 발견되었습니다 — 오늘날 우리가 아는 글자가 아니라, 말레이어 음에 맞게 조정된 아랍 문자로 말입니다. 말레이시아 국립 문서보관소(Arkib Negara Malaysia)에 따르면 그 비문은 서기 1303년의 연대를 지닙니다.

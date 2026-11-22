@@ -72,6 +72,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'ซุ้มประตูสีแดงและทองอันวิจิตรของศาลเจ้าตั่วเปกกง (Tua Pek Kong Temple) ในเมืองซีบู (Sibu) ขนาบด้วยสิงโตผู้พิทักษ์ปิดทอง โดยมีเจดีย์สูงเจ็ดชั้นตั้งตระหง่านอยู่ด้านหลังตัดกับท้องฟ้าสีคราม'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ริมทะเลที่ตันจงโตก็อง (丹絨道光, Tanjung Tokong) ในปีนัง มีศาลเจ้าแห่งหนึ่งที่ไม่ใหญ่โตนัก เงียบสงบตลอดเกือบทั้งปี ทว่าเมื่อถึงช่วงเทศกาลโคมไฟ สถานการณ์กลับเปลี่ยนไปอย่างสิ้นเชิง ตะกร้าคานหามธูป ฆ้องและกลอง และแถวผู้คนยาวเหยียดเดินทางมาไกลจากจอร์จทาวน์ ยามค่ำคืน ไฟและเทียนทุกดวงในศาลจะถูกดับลง และฝูงชนรวมตัวกันล้อมเตาไฟ กลั้นหายใจพัดไฟ — เปลวไฟพุ่งสูงเพียงใดถูกมองว่าเป็น 'คำพยากรณ์' สำหรับปีที่จะมาถึง ศาลแห่งนี้เองคือต้นธารของความเชื่อตั่วเปะกงในใจของผู้คนมากมาย

@@ -67,6 +67,13 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'Tokong Thean Hou di Kuala Lumpur dengan ratusan tanglung merah tergantung berjuntai dari bumbung bertingkatnya, sebuah perasapan dihiasi naga di laman depan dan para penyembah di dewan utama.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di atas sebuah bukit kecil di Robson Heights, Kuala Lumpur, berdiri sebuah tokong enam tingkat bertiang merah dan berbumbung genting berkaca yang menghadap bandar — inilah Thean Hou Temple, yang memuja dewi laut paling masyhur dalam dunia Cina: Mazu. Pada masa lalu, orang Cina yang datang ke selatan melalui laut kerap berdoa kepadanya memohon keselamatan sebelum dan selepas mengharungi lautan; hari ini, ia merupakan tokong tempat penganut menyemai colok, dan juga tempat anak jati Hainan berkumpul serta pelancong bergambar.

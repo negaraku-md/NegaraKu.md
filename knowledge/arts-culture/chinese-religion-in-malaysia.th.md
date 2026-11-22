@@ -69,6 +69,13 @@ faq:
   - q: ตั่วแปะกงคือใคร และศาลเจ้าตั่วแปะกงที่เก่าแก่ที่สุดอยู่ที่ไหน?
     a: ตั่วแปะกง (Tua Pek Kong, 大伯公) เป็นเทพเจ้าที่มีลักษณะท้องถิ่นอย่างเข้มข้น และได้รับการบูชาอย่างแพร่หลายในศาลเจ้าจีนทั่วมาเลเซีย กล่าวกันว่าศาลเจ้าตั่วแปะกงที่เก่าแก่ที่สุดตั้งอยู่ที่ตันจุงโตกง (Tanjung Tokong) รัฐปีนัง และความเชื่อนี้ได้แพร่กระจายไปทั่วมาเลเซีย สิงคโปร์ และอินโดนีเซียในเวลาต่อมา ในภาษามลายูเรียกศาลเจ้าเช่นนี้ว่า tokong ศาลเจ้าที่มีชื่อเสียงอื่น ๆ ได้แก่ เชงฮุนเต็ง (Cheng Hoon Teng) ในมะละกา และศาลเจ้าเทียนโฮ่ว (Thean Hou) ในกัวลาลัมเปอร์
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'หลังคากระเบื้องเชิดชายคาประดับมังกรของวัดจีนเทียนโหว (Thean Hou Temple) ในกัวลาลัมเปอร์ ขนาบด้วยแถวโคมแดงที่แขวนอยู่ตัดกับท้องฟ้าสีคราม'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อก้าวเข้าสู่วัดจีนแห่งใดก็ตามในมาเลเซีย คุณมีแนวโน้มจะได้เห็นพระพุทธเจ้า

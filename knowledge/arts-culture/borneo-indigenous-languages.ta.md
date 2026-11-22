@@ -82,6 +82,13 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'சரவாக்கில் ஓர் ஆற்றுக்கு மேலே காடு நிறைந்த மலைச்சரிவில் மரத் தூண்களின் மீது உயர்த்தப்பட்ட நீண்ட மரத்தாலான இபான் நீள்வீடு (longhouse), தயாக் சமூகத்தின் கூட்டு வசிப்பிடம்.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 போர்னியோவின் உட்பகுதிக்கு மேலே பறந்து செல்லுங்கள், பெரும்பாலான நாடுகள் மொத்தமாகக் கொண்டுள்ளதைவிட அதிக மொழிகளை ஒரு மணி நேரத்தில் கடந்து செல்வீர்கள். சபாவின் மலைப்பகுதிகளில் உள்ள ஒரு நதிப் பள்ளத்தாக்கு, சரவாக்கில் மேல் Baram ஆற்றங்கரையில் உள்ள ஒரு நீள்வீடு (longhouse), ஒரு கடலோர மீன்பிடி கிராமம் — ஒவ்வொன்றும் அடுத்த பள்ளத்தாக்கு அரிதாகவே புரிந்துகொள்ளும் ஒரு மொழியில் உங்களை வரவேற்கக்கூடும்.

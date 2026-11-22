@@ -74,6 +74,13 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'பினாங்கு மலைச்சரிவில் அடர்ந்த பசுமையான காட்டிலிருந்து உயர்ந்து நிற்கும் நாட்டுக்கோட்டை செட்டியார் நீர்வீழ்ச்சி மலைமேல் கோயிலின் வெண்ணிற கோபுரம்.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 பினாங்கின் தைப்பூச நாளில், வெள்ளியால் செய்த ஒரு பிரம்மாண்டத் தேர் லேபுவா பினாங்

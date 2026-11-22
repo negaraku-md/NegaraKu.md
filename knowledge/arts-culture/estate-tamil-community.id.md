@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'Bangunan-bangunan rendah SJK(T) Ladang Sungai Getah, sebuah sekolah dasar berpengantar bahasa Tamil yang namanya tertera pada papan namanya dan melayani komunitas perkebunan karet, terlihat dari tepi jalan.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Di pinggiran banyak kota tua Malaysia, sebuah perkebunan karet yang dulu terhampar hijau kini telah menjadi kawasan permukiman yang penuh rumah dan deretan ruko. Di antara bangunan-bangunan baru itu, kadang masih berdiri sebuah kuil Amman tua atau sebuah sekolah Tamil kecil — sebagai tanda yang tak pudar dari sebuah komunitas yang telah tersingkir.

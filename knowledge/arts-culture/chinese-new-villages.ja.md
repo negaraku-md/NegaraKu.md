@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: '風雨にさらされた平屋建ての木造・亜鉛板の家。マレーシアの華人新村に典型的な造りで、車が路肩に停まる静かな住宅街に面している。'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 今日のスメニー、カンパー、あるいはスキンチャン（Sekinchan）に足を踏み入れると、目に入るのはたいてい、ごくふつうの小さな町の風景です。軒を連ねるショップハウス、華文の小学校、寺廟や会館、通り沿いのコーヒーショップや雑貨店。けれど、こうした町の多くはひとつの共通した出自を分かち合っています——それらは「新村」なのです。一見なんの変哲もないこの呼び名の背後には、[マラヤ非常事態](/ja/malaysia/the-emergency)と対反乱、そして大規模な移住という歴史があります。

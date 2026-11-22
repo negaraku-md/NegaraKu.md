@@ -70,6 +70,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'Tháp gopuram chạm khắc cao vút của đền Sri Maha Mariamman ở Kuala Lumpur, tấm biển ghi tên đền phía trên những hàng tượng thần Hindu được sơn màu, phía trước là một con đường và dòng xe cộ.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Gần như bên cạnh bất kỳ đồn điền cao su cũ nào ở Malaysia, và dọc theo những con phố cổ kính ở trung tâm các thị trấn, bạn đều có thể tìm thấy một ngôi đền Mariamman. Tượng Amman với khuôn mặt màu vàng đất son, và các lễ hội được tổ chức trước mùa mưa, không phải là ngẫu nhiên — chúng mang theo hơn một thế kỷ rưỡi lịch sử và truyền thống tín ngưỡng của một cộng đồng Tamil.

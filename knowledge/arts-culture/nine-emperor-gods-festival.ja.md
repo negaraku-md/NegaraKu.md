@@ -73,6 +73,13 @@ festivalFacts:
   who: "マレーシアの華人コミュニティの信者。著名な廟には、スランゴール州アンパン（安邦）の南天宮、ペナンの香港巷斗母宮、そしてバターワース（北海）の斗母宮が含まれる。"
   when: "旧暦九月一日から九日まで、連続九日間（一日の前夜に請水を行い、九日の送駕で締めくくる）。"
   etiquette: "多くの信者は「食斎」（斎戒）を守り、一日、三日、あるいは全九日間を通じて精進し、伝統的に五辛を避ける。多くが白い衣服を着て、腰に黄色の帯を締める。節期にはしばしば遊境（遊神）が街路を巡行し、一部の廟では過火（火渡り）や扎口（頬・口を貫く行）などの苦行があるが、やり方は廟によって異なる。"
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'イポー（Ipoh）の九皇爺祭り（Nine Emperor Gods Festival）で、龍に挟まれ黄色い提灯が吊るされた寺院の祭壇の前で線香を手にする参拝者の群れ。手前では香の煙が立ち上る。'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 旧暦九月一日の前夜、白衣をまとい腰に黄色の帯を締めた信者の一列が、清らかな線香を手に廟から次々と出て、最も近い川辺や海辺へと向かう。前には鉦と太鼓、後ろには線香の煙――彼らは「請水」「迎駕」のため、九皇大帝を廟へ迎えに行くのだ。続く九日間、廟の中では香火が絶えず、廟の外では精進料理の香りが漂う。そして九日の夜には、同じ行列が再び水辺に並び、神を送り届ける。

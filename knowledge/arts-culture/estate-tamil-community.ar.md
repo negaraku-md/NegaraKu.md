@@ -78,6 +78,13 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'المباني المنخفضة لمدرسة SJK(T) Ladang Sungai Getah، وهي مدرسة ابتدائية تعليمها بالتاميلية كما يبيّن اسمها على لافتتها، تخدم مجتمع مزرعة مطّاط، كما تُرى من جانب الطريق.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 على أطراف كثير من مدن ماليزيا القديمة، تحوّلت مزرعة مطاط كانت يومًا ما تمتدّ خضراء إلى منطقة سكنية تغصّ بالبيوت وصفوف المتاجر. وبين تلك المباني الجديدة، يبقى أحيانًا معبد أمّان قديم أو مدرسة تاميلية صغيرة قائمًا — أثرًا لا يبهت لمجتمع نزح عن مكانه.

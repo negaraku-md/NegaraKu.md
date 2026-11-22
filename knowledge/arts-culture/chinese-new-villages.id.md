@@ -75,6 +75,13 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'Sebuah rumah satu lantai lusuh dari kayu dan seng yang khas Kampung Baru Tionghoa Malaysia, menghadap sebuah jalan permukiman yang sepi dengan mobil-mobil terparkir di sisinya.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Melangkah masuk ke Semenyih, Kampar, atau Sekinchan hari ini, yang sebagian besar Anda lihat adalah wajah biasa sebuah kota kecil: deretan rumah toko, sebuah sekolah dasar Tionghoa, kelenteng dan perhimpunan, kedai kopi di tepi jalan serta toko kelontong. Namun banyak dari tempat-tempat ini berbagi satu identitas yang sama — ia adalah "Kampung Baru". Di balik label yang tampak biasa ini tersimpan sebuah sejarah tentang [Darurat Malaya](/id/malaysia/the-emergency), antipemberontakan, dan perpindahan berskala besar.

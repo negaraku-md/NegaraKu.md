@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["मलेशिया में तमिल", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "तमिल विद्यालय", "Tamil schools Malaysia", "मलेशियाई भारतीय", "Malaysian Indians", "अनुच्छेद 152", "Article 152", "तमिल माध्यम शिक्षण", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'केदाह के चांगलुन में एक तमिल-माध्यम स्कूल का गेट साइनबोर्ड, जिस पर अंग्रेजी नाम S.J.K (Tamil) Changlun के ऊपर तमिल लिपि में लिखा है, पीछे स्कूल की इमारत है।'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलाया के पुराने रबड़ एस्टेटों में, कुछ सबसे आरंभिक कक्षाएँ छप्पर और झोपड़ियाँ थीं, और पाठ तमिल में होते थे। मलेशियाई ऐतिहासिक संघ की पत्रिका में प्रकाशित एक ऐतिहासिक अध्ययन के अनुसार, बीसवीं सदी के आरंभ से बागानों पर तमिल में एक बुनियादी प्राथमिक शिक्षा प्रदान की जाती थी, जो उस समय के श्रम-संहिताओं के अंतर्गत उपलब्ध कराई जाती थी और, एक लंबे समय तक, प्रशिक्षित शिक्षकों के बजाय लिपिकों और अंशकालिक कर्मियों द्वारा पढ़ाई जाती थी।

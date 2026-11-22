@@ -89,6 +89,13 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'Biển hiệu cổng của một trường dạy bằng tiếng Tamil ở Changlun, Kedah, viết bằng chữ Tamil phía trên tên tiếng Anh S.J.K (Tamil) Changlun, với tòa nhà trường học phía sau.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trên các đồn điền cao su xưa của Mã Lai, một số lớp học sớm nhất là những chiếc lán và túp lều, và các bài học được dạy bằng tiếng Tamil. Theo một nghiên cứu lịch sử đăng trên tạp chí của Hội Lịch sử Malaysia, một nền giáo dục tiểu học cơ bản bằng tiếng Tamil được cung cấp trên các đồn điền từ đầu thế kỷ 20, theo các bộ luật lao động thời bấy giờ và, trong một thời gian dài, được các nhân viên văn thư và người dạy bán thời gian đảm nhận thay vì giáo viên được đào tạo.

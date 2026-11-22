@@ -79,6 +79,13 @@ verificationNeeded:
   - "Za'ba वर्तनी प्रणाली का वर्ष: कुछ स्रोत इसे 1924 में प्रस्तुत बताते हैं और कुछ अन्य इसे 1933 में पूर्ण रूप से संकलित बताते हैं — प्राथमिक स्रोतों के विरुद्ध पुष्टि आवश्यक है"
 framework: history-culture
 wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'एक नीला मलेशियाई सड़क संकेत जिस पर ऊपर जावी लिपि में और नीचे रूमी (लैटिन) अक्षरों में Jalan Pasir Puteh लिखा है, इसके बगल से एक आदमी मोटरसाइकिल पर गुजर रहा है।'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जब हम आज कोई मलय शब्द पढ़ते हैं — सड़क के संकेत-पट्ट पर, समाचार-पत्र में, फ़ोन की स्क्रीन पर — तो हम उसे उन्हीं अक्षरों में पढ़ते हैं जो अंग्रेज़ी वर्णमाला में हैं: a, b, c, d और आगे। उस लिपि को रूमी लिपि कहते हैं। यह इतनी सामान्य है कि बहुतों को यह एहसास ही नहीं कि रूमी मलय भाषा की मूल लिपि नहीं है, और आज इसका जो स्वच्छ और एकरूप रूप है वह सौ वर्ष से अधिक समय तक चले मानकीकरण के प्रयास का फल है।

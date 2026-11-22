@@ -71,6 +71,13 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: '夜にまばゆく照らされたアヤッパン（Ayyappan）ヒンドゥー教寺院。ケーララ様式の重層屋根、金色にライトアップされた柱、入口の頂に神を祀る小さな祠がある。'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 年の暮れの数か月、マレーシアの多くの町である光景が見られる。黒または青の衣をまとい、首にルドラークシャのマーラをかけ、ひげを伸ばした男たちが、互いを「スワミ」と呼び合う。彼らはアヤッパンの苦行を守る人々であり、その多くはケーララ州のサバリマラへ赴く準備をしている。本稿はその信仰と苦行の伝統を中立的に記述するものであり、いかなる信仰をも説明も評価もしない。

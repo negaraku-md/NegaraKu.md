@@ -73,6 +73,13 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'อาคารทบวงภาษาและวรรณกรรม (Dewan Bahasa dan Pustaka) ในกัวลาลัมเปอร์ ด้านหน้าโค้งปกคลุมด้วยภาพจิตรกรรมฝาผนังขนาดใหญ่ที่แสดงวิถีชีวิตชาวมาเลเซีย และเห็นชื่อบางส่วนบนอาคารสำนักงานสีแดงข้างเคียง'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ก่อนจะมีนวนิยายและก่อนจะมีสำนักงานภาษา นักเล่าเรื่องคนหนึ่งก็ได้ประพันธ์วีรบุรุษมลายูในลานราชสำนักมะละกาแล้ว จากประเพณีมุขปาฐะนั้นเองที่งอกเงยหนึ่งในมรดกวรรณกรรมที่มั่งคั่งที่สุดในภูมิภาคนี้ — ประเพณีที่ปัจจุบันเฉลิมฉลองด้วยตำแหน่งของชาติ เงินหลายแสนริงกิต และที่นั่งอันทรงเกียรติในอารยธรรมของชาติ

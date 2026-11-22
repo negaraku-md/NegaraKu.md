@@ -72,6 +72,13 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: '녹색 천을 두른 층층의 나바라트리(Navaratri) 콜루(Kolu) 전시로, 맨 윗단에는 비슈누(Vishnu)의 열 화신이 놓여 있고 아랫단들에는 화려하게 채색된 힌두교 신상과 인형들이 가득하다.'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 나바라트리 기간이면, 말레이시아의 한 타밀 힌두교 가정 거실에서는 한쪽 벽을 따라 홀수 단의 계단식 단이 세워진다. 천으로 덮인 그 단 위에는 신상과, 신화의 장면을 담은 인형들이 줄지어 놓인다. 저녁이 되면 친지와 이웃이 **골루**를 보러 찾아오고, 노랫소리가 울려 퍼지며, 돌아가는 손님에게는 탐불람과 단것이 건네진다. 이는 하루짜리 행사가 아니라 — 아홉 밤에 걸쳐 이어지는 축제의 표지다.
